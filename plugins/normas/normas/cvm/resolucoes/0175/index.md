@@ -7,8 +7,8 @@ data: 2022-12-23
 publicacao_dou: 2022-12-28
 ementa: Dispõe sobre a constituição, o funcionamento e a divulgação de informações dos fundos de investimento, bem como sobre a prestação de serviços para os fundos, e revoga as normas que especifica.
 situacao: vigente
-versao_texto: original
-vigente_ate_ato:
+versao_texto: consolidado
+vigente_ate_ato: 181
 aguarda_consolidado_oficial: false
 historico_parcial: false
 fonte_original: https://www.in.gov.br/web/dou/-/resolucao-cvm-n-175-de-23-de-dezembro-de-2022-454141408
@@ -16,7 +16,7 @@ fonte_consolidada: https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/
 sha256_fonte: c1bc7c2bf6fa1a245c3340aaf42fb87422f76f27f08a13387e8971c712986824
 baixado_em: 2026-10-28
 verificado_em: 2026-10-28
-incerteza:
+incerteza: Res. CVM 181/23 (DOU 2023-03-30) em vigor desde 2023-03-31, aplicada na data do DOU.
 ---
 
 # RESOLUÇÃO CVM Nº 175, DE 23 DE DEZEMBRO DE 2022

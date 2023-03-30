@@ -282,7 +282,7 @@ VIII - integralização de cotas de outras classes, passando assim à propriedad
 
 IX - resgate ou amortização de cotas em cotas de outras classes, passando assim essas últimas cotas à propriedade do investidor cujas cotas foram resgatadas ou amortizadas.
 
-Parágrafo único. Nos casos previstos nos incisos VII a IX, o valor das cotas deve estar respaldado em laudo de avaliação elaborado por avaliador independente.
+Parágrafo único. (Revogado)
 
 ## Art. 17
 
@@ -686,13 +686,9 @@ IV - forma de rateio das despesas em comum entre as classes, se for o caso, que 
 
 V - forma de rateio das contingências que recaiam sobre o fundo, não sobre o patrimônio de alguma(s) classe(s) em específico, que deve ser passível de verificação e não implicar em transferência indevida de riqueza entre as classes;
 
-VI - prazo de duração, que pode ser indeterminado;
+VI – prazo de duração, que pode ser indeterminado; e
 
-VII - taxas de administração e de gestão, que devem ser expressas em:
-
-a) um percentual anual fixo do patrimônio líquido (base 252 dias); ou
-
-b) um valor nominal em moeda corrente nacional, que pode variar em função de faixas de valores do patrimônio líquido; e
+VII – (Revogado)
 
 VIII - exercício social.
 
@@ -730,11 +726,19 @@ XV - a forma de comunicação que deve ser utilizada pelo administrador, em conf
 
 XVI - os procedimentos aplicáveis às manifestações de vontade dos cotistas por meio eletrônico, observado o disposto no art. 12, § 3º, I;
 
-XVII - os eventos que obrigam o administrador a verificar se o patrimônio líquido da classe está negativo; e
+XVII – os eventos que obrigam o administrador a verificar se o patrimônio líquido da classe está negativo;
 
-XVIII - os procedimentos aplicáveis à liquidação da classe, o que pode incluir hipóteses de liquidação antecipada.
+XVIII – os procedimentos aplicáveis à liquidação da classe, o que pode incluir hipóteses de liquidação antecipada; e
+
+XIX – taxas de administração e de gestão, que devem ser expressas em:
+
+a) um percentual anual fixo do patrimônio líquido (base 252 dias); ou
+
+b) um valor nominal em moeda corrente nacional, que pode variar em função de faixas de valores do patrimônio líquido.
 
 § 3º Na classe de cotas que possua subclasses, os apêndices das subclasses, cada qual relativo a uma subclasse em específico, devem dispor sobre as particularidades das respectivas subclasses, conforme previstas nesta Resolução e seus Anexos Normativos.
+
+§ 4º Caso a classe de cotas conte com subclasses que possuam diferentes taxas de administração e gestão, essas taxas devem ser disciplinadas no apêndice descritivo das subclasses.
 
 ## Art. 49
 
@@ -1002,7 +1006,7 @@ A convocação da assembleia de cotistas deve ser encaminhada a cada cotista da 
 
 ## Art. 73
 
-Os prestadores de serviços essenciais, o cotista ou grupo de cotistas que detenha, no mínimo, 5% (cinco por cento) do total de cotas emitidas, podem convocar, a qualquer tempo, assembleia de cotistas para deliberar sobre ordem do dia de interesse do fundo, da classe ou da comunhão de cotistas.
+Os prestadores de serviços essenciais, o custodiante, o cotista ou grupo de cotistas que detenha, no mínimo, 5% (cinco por cento) do total de cotas emitidas, podem convocar, a qualquer tempo, assembleia de cotistas para deliberar sobre ordem do dia de interesse do fundo, da classe ou da comunhão de cotistas.
 
 § 1º O pedido de convocação pelo gestor ou por cotistas deve ser dirigida ao administrador, que deve, no prazo máximo de 30 (trinta) dias contado do recebimento, convocar a assembleia de cotistas.
 
@@ -1564,9 +1568,13 @@ XVI - taxas de administração e de gestão;
 
 XVII - montantes devidos a fundos investidores na hipótese de acordo de remuneração com base na taxa de administração, performance ou gestão, observado o disposto no art. 99;
 
-XVIII - taxa máxima de distribuição; e
+XVIII – taxa máxima de distribuição;
 
-XIX - despesas relacionadas ao serviço de formação de mercado.
+XIX – despesas relacionadas ao serviço de formação de mercado;
+
+XX – despesas decorrentes de empréstimos contraídos em nome da classe de cotas, desde que de acordo com as hipóteses previstas nesta Resolução; e
+
+XXI – contratação da agência de classificação de risco de crédito.
 
 § 1º Caso o fundo conte com diferentes classes de cotas, compete ao administrador promover o rateio das despesas e contingências que sejam comuns às classes, nos termos do art. 48, § 1º, incisos IV e V.
 
@@ -1610,7 +1618,7 @@ Nos casos de cisão, incorporação, fusão, transferência de administração e
 
 I - novos regulamentos;
 
-II - comprovante da entrada do pedido de baixa de registro no CNPJ, se houver, das classes encerradas por fusão ou incorporação;
+II – (Revogado)
 
 III - material de divulgação, atualizado, se houver;
 
@@ -1826,7 +1834,7 @@ II - a liquidação do fundo.
 
 ## Art. 134
 
-Os fundos de investimento que estejam em funcionamento na data de início da vigência da norma devem adaptar-se integralmente às disposições desta Resolução até 31 de dezembro de 2024, com exceção dos fundos de investimento em direitos creditórios - FIDC, que devem adaptar-se até 31 de dezembro de 2023.
+Os fundos de investimento que estejam em funcionamento na data de início da vigência da norma devem adaptar-se integralmente às disposições desta Resolução até 31 de dezembro de 2024, com exceção dos fundos de investimento em direitos creditórios - FIDC, que devem adaptar-se até 1º de abril de 2024.
 
 Parágrafo único. Uma vez concluída a adaptação do fundo de investimento, o administrador pode transformá-lo em uma classe de cotas de outro fundo, sem que seja necessária deliberação da assembleia de cotistas.
 
@@ -1896,13 +1904,15 @@ Parágrafo único. O disposto no caput somente entra em vigor após a implementa
 
 ## Art. 140
 
-Esta Resolução entra em vigor em 3 de abril de 2023.
+Esta Resolução entra em vigor em 2 de outubro de 2023.
 
-§ 1º O art. 48, § 2º, inciso X desta Resolução, referente ao estabelecimento da taxa máxima de distribuição no regulamento, bem como os demais comandos relacionados à referida taxa, entram em vigor em 1º de outubro de 2023.
+§ 1º O art. 48, § 2º, inciso XI desta Resolução, referente ao estabelecimento da taxa máxima de distribuição no regulamento, bem como os demais comandos relacionados à referida taxa, entram em vigor em 1º de abril de 2024.
 
 § 2º O art. 5º desta Resolução, referente à possibilidade de os fundos possuírem diferentes classes e subclasses de cotas, entra em vigor em 1º de abril de 2024.
 
-§ 3º O art. 73 do Anexo Normativo A, referente ao estabelecimento de limites para os fundos de investimento financeiro no tocante à exposição a risco de capital, entra em vigor em 1º de outubro de 2023.
+§ 3º (Revogado)
+
+§ 4º O art. 99 desta Resolução, referente à existência de acordo de remuneração com base na taxa de administração, performance ou gestão, entra em vigor em 1º de abril de 2024.
 
 ## Art. 141
 

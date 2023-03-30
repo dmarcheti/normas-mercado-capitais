@@ -928,18 +928,29 @@ Informações referentes a [mês] de [ano]
 | f.2.2.3) Máxima |  |  |
 | X - Outras Informações |  |  |
 | 1) Número de Cotistas |  |  |
-| Classe Sênior |  |  |
+| Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Série 2 |  |  |
 | Série 3 |  |  |
 | ... |  |  |
-| Classe Subordinada |  |  |
-| Classe Subordinada 1 (as cotas mezanino são subordinadas às seniores) |  |  |
-| Classe Subordinada 2 |  |  |
-| Classe Subordinada 3 |  |  |
-| Classe Subordinada 4 |  |  |
-| Classe Subordinada 5 |  |  |
-| 1.1) Número de Cotistas - Classe Sênior |  |  |
+| Subclasse Subordinada Mezanino (as cotas mezanino são subordinadas às seniores) |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Mezanino 3 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Subclasse Subordinada |  |  |
+| 1.1) Número de Cotistas – Subclasse Sênior |  |  |
 | Pessoa física |  |  |
 | Pessoa jurídica não financeira |  |  |
 | Banco comercial |  |  |
@@ -956,7 +967,7 @@ Informações referentes a [mês] de [ano]
 | Outros fundos de investimento |  |  |
 | Clubes de investimento |  |  |
 | Outros |  |  |
-| 1.2) Número de Cotistas - Classe Subordinada |  |  |
+| 1.2) Número de Cotistas – Subclasse Subordinada (mezanino e junior) |  |  |
 | Pessoa física |  |  |
 | Pessoa jurídica não financeira |  |  |
 | Banco comercial |  |  |
@@ -973,107 +984,172 @@ Informações referentes a [mês] de [ano]
 | Outros fundos de investimento |  |  |
 | Clubes de investimento |  |  |
 | Outros |  |  |
-| 2) Descrição da Série/Classe (separar por classe e série) |  |  |
-| Classe Sênior |  |  |
+| 2) Descrição da Série/Subclasse (separar por Subclasse e série) |  |  |
+| Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Quantidade de Cotas |  |  |
 | Valor da Cota (R$) |  |  |
 | Série 2 |  |  |
 | Quantidade de Cotas |  |  |
 | Valor da Cota (R$) |  |  |
-| Classe Subordinada |  |  |
-| Classe Subordinada 1 |  |  |
+| .... |  |  |
+| Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Quantidade de Cotas |  |  |
 | Valor da Cota (R$) |  |  |
-| Classe Subordinada 2 |  |  |
+| Série 2 |  |  |
 | Quantidade de Cotas |  |  |
 | Valor da Cota (R$) |  |  |
-| Classe Subordinada 3 |  |  |
+| .... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Quantidade de Cotas |  |  |
+| Valor da Cota (R$) |  |  |
+| Série 2 |  |  |
+| Quantidade de Cotas |  |  |
+| Valor da Cota (R$) |  |  |
+| ... |  |  |
+| Subclasse Subordinada |  |  |
 | Quantidade de Cotas |  |  |
 | Valor da Cota (R$) |  |  |
 | 3) Rentabilidade Apurada no Mês |  |  |
-| Classe Sênior |  |  |
+| Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Série 2 |  |  |
 | Série 3 |  |  |
 | ... |  |  |
-| Classe Subordinada 1 |  |  |
-| Classe Subordinada 2 |  |  |
-| Classe Subordinada 3 |  |  |
+| Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Mezanino 3 |  |  |
+| Série 1 |  |  |
+| Série 2 |  |  |
+| Série 3 |  |  |
+| ... |  |  |
+| Subclasse Subordinada Junior |  |  |
 | 4) Captações, Resgates e Amortizações |  |  |
 | 4.1) Captações no Mês (valor total captado, em R$, e quantidade de cotas emitidas) |  |  |
-| 4.1.1) Classe Sênior |  |  |
+| 4.1.1) Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Valor Total Captado |  |  |
 | Quantidade de Cotas Emitidas |  |  |
 | Série 2 |  |  |
 | Valor Total Captado |  |  |
 | Quantidade de Cotas Emitidas |  |  |
-| 4.1.2) Classe Subordinada |  |  |
-| Subordinada 1 |  |  |
+| ... |  |  |
+| 4.1.2) Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Valor Total Captado |  |  |
 | Quantidade de Cotas Emitidas |  |  |
-| Subordinada 2 |  |  |
+| Série 2 |  |  |
 | Valor Total Captado |  |  |
 | Quantidade de Cotas Emitidas |  |  |
-| Subordinada 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Valor Total Captado |  |  |
+| Quantidade de Cotas Emitidas |  |  |
+| Série 2 |  |  |
+| Valor Total Captado |  |  |
+| Quantidade de Cotas Emitidas |  |  |
+| ... |  |  |
+| 4.1.3) Subclasse Subordinada |  |  |
 | Valor Total Captado |  |  |
 | Quantidade de Cotas Emitidas |  |  |
 | 4.2) Resgates no Mês (FIDC aberto - quantidade de cotas resgatadas e valor total do resgate, em R$) |  |  |
-| 4.2.1) Classe Sênior |  |  |
+| 4.2.1) Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Valor Total dos Resgates |  |  |
 | Quantidade de Cotas Resgatadas |  |  |
 | Série 2 |  |  |
 | Valor Total dos Resgates |  |  |
 | Quantidade de Cotas Resgatadas |  |  |
-| 4.2.2) Classe Subordinada |  |  |
-| Subordinada 1 |  |  |
+| ... |  |  |
+| 4.2.2) Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Valor Total dos Resgates |  |  |
 | Quantidade de Cotas Resgatadas |  |  |
-| Subordinada 2 |  |  |
+| Série 2 |  |  |
 | Valor Total dos Resgates |  |  |
 | Quantidade de Cotas Resgatadas |  |  |
-| Subordinada 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Valor Total dos Resgates |  |  |
+| Quantidade de Cotas Resgatadas |  |  |
+| Série 2 |  |  |
+| Valor Total dos Resgates |  |  |
+| Quantidade de Cotas Resgatadas |  |  |
+| ... |  |  |
+| 4.2.3) Subclasse Subordinada |  |  |
 | Valor Total dos Resgates |  |  |
 | Quantidade de Cotas Resgatadas |  |  |
 | 4.3) Resgates Solicitados e Ainda Não Pagos (FIDC aberto - quantidade de cotas a serem resgatadas e valor a ser pago, em R$) |  |  |
-| 4.3.1) Classe Sênior |  |  |
+| 4.3.1) Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Valor a ser Pago |  |  |
 | Quantidade de Cotas a serem Resgatadas |  |  |
 | Série 2 |  |  |
 | Valor a ser Pago |  |  |
 | Quantidade de Cotas a serem Resgatadas |  |  |
-| 4.3.2) Classe Subordinada |  |  |
-| Subordinada 1 |  |  |
+| ... |  |  |
+| 4.3.2) Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Valor a ser Pago |  |  |
 | Quantidade de Cotas a serem Resgatadas |  |  |
-| Subordinada 2 |  |  |
+| Série 2 |  |  |
 | Valor a ser Pago |  |  |
 | Quantidade de Cotas a serem Resgatadas |  |  |
-| Subordinada 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
 | Valor a ser Pago |  |  |
 | Quantidade de Cotas a serem Resgatadas |  |  |
+| Série 2 |  |  |
+| Valor a ser Pago |  |  |
+| Quantidade de Cotas a serem Resgatadas |  |  |
+| ... |  |  |
+| 4.3.3) Subclasse Subordinada |  |  |
 | 4.4) Amortizações (Informar valor amortizado por cota e valor da amortização total, em R$) |  |  |
-| 4.4.1) Classe Sênior |  |  |
+| 4.4.1) Subclasse Sênior |  |  |
 | Série 1 |  |  |
 | Valor Amortizado por Cota |  |  |
 | Valor Total das Amortizações |  |  |
 | Série 2 |  |  |
 | Valor Amortizado por Cota |  |  |
 | Valor Total das Amortizações |  |  |
-| 4.4.2) Classe Subordinada |  |  |
-| Subordinada 1 |  |  |
+| ... |  |  |
+| 4.4.2) Subclasse Subordinada Mezanino |  |  |
+| Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Valor Amortizado por Cota |  |  |
 | Valor Total das Amortizações |  |  |
-| Subordinada 2 |  |  |
+| Série 2 |  |  |
 | Valor Amortizado por Cota |  |  |
 | Valor Total das Amortizações |  |  |
-| Subordinada 3 |  |  |
+| ... |  |  |
+| Mezanino 2 |  |  |
+| Série 1 |  |  |
 | Valor Amortizado por Cota |  |  |
 | Valor Total das Amortizações |  |  |
-| 5) Liquidez (Preenchimento compulsório apenas para os fundos abertos) - R$ |  |  |
+| Série 2 |  |  |
+| Valor Amortizado por Cota |  |  |
+| Valor Total das Amortizações |  |  |
+| ... |  |  |
+| 4.4.3) Subclasse Subordinada |  |  |
+| 5) Liquidez (Preenchimento compulsório apenas para os fundos abertos) – R$ |  |  |
 | Ativos com liquidez imediata |  |  |
 | Ativos que podem ser liquidados em até 30 dias |  |  |
 | Ativos que podem ser liquidados em até 60 dias |  |  |
@@ -1082,23 +1158,38 @@ Informações referentes a [mês] de [ano]
 | Ativos que podem ser liquidados em até 360 dias |  |  |
 | Ativos que podem ser liquidados em mais de 360 dias |  |  |
 | 6) Desempenho Esperado (Benchmark) e o Realizado |  |  |
-| 6.1) Classe Sênior |  |  |
+| 6.1) Subclasse Sênior |  |  |
 | 6.1.1) Série 1 |  |  |
 | Desempenho Esperado (Benchmark) |  |  |
 | Desempenho Realizado (Rentabilidade no Mês) |  |  |
-| 6.1.2) Série 2 OBS: permitir ao administrador abrir quantas séries forem necessárias. |  |  |
+| 6.1.2) Série 2 |  |  |
 | Desempenho Esperado (Benchmark) |  |  |
 | Desempenho Realizado (Rentabilidade no Mês) |  |  |
-| 6.2) Classe Subordinada 1 |  |  |
+| ... |  |  |
+| 6.2) Subclasse Subordinada Mezanino |  |  |
+| 6.2.1) Mezanino 1 |  |  |
+| Série 1 |  |  |
 | Desempenho Esperado (Benchmark) |  |  |
 | Desempenho Realizado (Rentabilidade no Mês) |  |  |
-| Classe Subordinada 2 |  |  |
+| Série 2 |  |  |
+| Desempenho Esperado (Benchmark) |  |  |
+| Desempenho Realizado (Rentabilidade no Mês) |  |  |
+| .... |  |  |
+| 6.2.2) Mezanino 2 |  |  |
+| Série 1 |  |  |
+| Desempenho Esperado (Benchmark) |  |  |
+| Desempenho Realizado (Rentabilidade no Mês) |  |  |
+| Série 2 |  |  |
+| Desempenho Esperado (Benchmark) |  |  |
+| Desempenho Realizado (Rentabilidade no Mês) |  |  |
+| .... |  |  |
+| 6.3) Subclasse Subordinada |  |  |
 | Desempenho Esperado (Benchmark) |  |  |
 | Desempenho Realizado (Rentabilidade no Mês) |  |  |
 | 7) Garantias |  |  |
 | 7.1) Valor total das garantias vinculadas aos direitos creditórios |  |  |
 | 7.2) Percentual dos direitos creditórios com garantias vinculadas |  |  |
-| 8) Resumo das informações prestadas pelo FIDC ao Sistema de Informações de Crédito - SCR do Banco Central do Brasil: |  |  |
+| 8) Resumo das informações prestadas pelo FIDC ao Sistema de Informações de Crédito – SCR do Banco Central do Brasil: |  |  |
 | 8.1) Valor total dos direitos creditórios reportados ao SCR com base nas classificações de risco dos devedores: |  |  |
 | AA |  |  |
 | A |  |  |

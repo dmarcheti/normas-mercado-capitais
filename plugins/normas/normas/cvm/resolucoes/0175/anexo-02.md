@@ -462,7 +462,7 @@ Em acréscimo aos serviços previstos no art. 83 da parte geral da Resolução, 
 
 I - registro de direitos creditórios em entidade registradora autorizada pelo Banco Central do Brasil, observado que a entidade registradora não pode ser parte relacionada do gestor ou da consultoria especializada;
 
-II - custódia, alcançando os serviços previstos na Seção IV deste Capítulo VIII, se for o caso, e observado, ainda, que o custodiante não pode ser parte relacionada do gestor ou da consultoria especializada;
+II – custódia, alcançando os serviços previstos na Seção IV deste Capítulo VIII;
 
 III - custódia de valores mobiliários, se for o caso;
 
@@ -472,23 +472,15 @@ V - liquidação física ou eletrônica e financeira dos direitos creditórios.
 
 § 1º O administrador deve diligenciar para que os prestadores de serviços por ele contratados possuam regras e procedimentos adequados, por escrito e passíveis de verificação, para permitir o efetivo controle sobre a movimentação da documentação relativa aos direitos creditórios.
 
-§ 2º O cedente dos direitos creditórios pode ser contratado pelo administrador, em nome do fundo, exclusivamente como agente de cobrança dos créditos vencidos e não pagos.
+§ 2º (Revogado)
 
-§ 3º Na classe destinada exclusivamente a investidor profissional e que não tenha as suas cotas admitidas à negociação, o originador e o cedente dos direitos creditórios podem ser contratados pelo administrador para efetuar a guarda dos documentos relativos aos direitos creditórios, desde que:
+§ 3º (Revogado)
 
-I - a classe seja dedicada à aquisição de créditos inadimplidos, massificados, de reduzido valor médio e cedidos à classe por percentual inferior ao valor de face;
+§ 4º (Revogado)
 
-II - a cobrança dos créditos seja preponderantemente realizada, de forma extrajudicial;
+§ 5º Caso a política de investimentos admita a aquisição de direitos creditórios originados ou cedidos pelo administrador, gestor, consultoria especializada e suas partes relacionadas, o custodiante contratado nos termos do inciso II não pode ser parte relacionada ao gestor ou à consultoria especializada.
 
-III - haja prévia aprovação pela unanimidade dos cotistas, reunidos em assembleia geral, ou declaração de ciência do cotista por meio de termo de adesão;
-
-IV - todos contratos de cessão de direitos creditórios à classe contenham cláusulas que prevejam a recompra ou indenização pelas cedentes, no mínimo pelo valor de aquisição pago pela classe, corrigidos, quando for o caso, na hipótese de a cedente não conseguir apresentar os documentos que comprovem a existência do crédito, ou de existirem óbices na documentação à efetiva cobrança do crédito;
-
-V - o regulamento não preveja a dispensa de verificação do lastro, conforme prevista no art. 36, § 3º, deste Anexo Normativo II; e
-
-VI - os demonstrativos trimestrais previstos no inciso V do caput do art. 27 deste Anexo Normativo II divulguem a exposição da classe a cada cedente e o montante de créditos recomprados ou indenizados conforme o estabelecido no inciso IV deste artigo.
-
-§ 4º No caso de classe exclusiva, fica dispensado o cumprimento do disposto nos incisos III e IV do § 3º deste artigo.
+§ 6º O requisito previsto no § 5º não é aplicável à classe exclusivamente destinada a investidores profissionais.
 
 ## Art. 31
 
@@ -514,7 +506,25 @@ I - consultoria especializada; e
 
 II - agente de cobrança.
 
-Parágrafo único. Sem prejuízo da possibilidade de contratação de outros tipos de prestadores de serviço para a função, a contratação da consultoria especializada pode englobar sua atuação como agente de cobrança.
+§ 1º Sem prejuízo da possibilidade de contratação de outros tipos de prestadores de serviço para a função, a contratação da consultoria especializada pode englobar sua atuação como agente de cobrança.
+
+§ 2º O cedente dos direitos creditórios pode ser contratado pelo gestor, em nome do fundo, exclusivamente como agente de cobrança dos créditos vencidos e não pagos.
+
+§ 3º Na classe destinada exclusivamente a investidor profissional e que não tenha as suas cotas admitidas à negociação, o originador e o cedente dos direitos creditórios podem ser contratados pelo gestor para efetuar a guarda dos documentos relativos aos direitos creditórios, desde que:
+
+I – a classe seja dedicada à aquisição de créditos inadimplidos, massificados, de reduzido valor médio e cedidos à classe por percentual inferior ao valor de face;
+
+II – a cobrança dos créditos seja preponderantemente realizada, de forma extrajudicial;
+
+III – haja prévia aprovação pela unanimidade dos cotistas, reunidos em assembleia geral, ou declaração de ciência do cotista por meio de termo de adesão;
+
+IV – todos contratos de cessão de direitos creditórios à classe contenham cláusulas que prevejam a recompra ou indenização pelas cedentes, no mínimo pelo valor de aquisição pago pela classe, corrigidos, quando for o caso, na hipótese de a cedente não conseguir apresentar os documentos que comprovem a existência do crédito, ou de existirem óbices na documentação à efetiva cobrança do crédito;
+
+V – o regulamento não preveja a dispensa de verificação do lastro, conforme prevista no art. 36, § 3º, deste Anexo Normativo II; e
+
+VI – os demonstrativos trimestrais previstos no inciso V do caput do art. 27 deste Anexo Normativo II divulguem a exposição da classe a cada cedente e o montante de créditos recomprados ou indenizados conforme o estabelecido no inciso IV deste § 3º.
+
+§ 4º No caso de classe exclusiva, fica dispensado o cumprimento do disposto nos incisos III e IV do § 3º deste artigo.
 
 ## Art. 33
 
@@ -596,6 +606,8 @@ Seção IV - Custódia
 
 Caso a classe aplique recursos em direitos creditórios que não sejam passíveis de registro em entidade registradora, o administrador deve contratar o serviço de custódia para a carteira de ativos.
 
+Parágrafo único. Caso o direito creditório esteja registrado em mercado organizado de balcão autorizado pela CVM ou depositado em depositário central autorizado pela CVM ou pelo Banco Central do Brasil, fica dispensado o registro de que trata o caput.
+
 ## Art. 38
 
 Considerando a totalidade do lastro, passível ou não de registro, trimestralmente ou em periodicidade compatível com o prazo médio ponderado dos direitos creditórios da carteira, o que for maior, o custodiante dos direitos creditórios deve verificar a existência, integridade e titularidade do lastro dos direitos creditórios que ingressaram na carteira no período a título de substituição, assim como o lastro dos direitos creditórios vencidos e não pagos no mesmo período.
@@ -672,7 +684,7 @@ a) tenha registro de companhia aberta;
 
 b) seja instituição financeira ou equiparada; ou
 
-c) seja entidade que tenha suas demonstrações contábeis relativas ao exercício social imediatamente anterior à data de constituição da classe elaboradas em conformidade com o disposto na Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, e auditadas por auditor independente registrado na CVM; ou
+c) seja entidade que tenha suas demonstrações contábeis relativas ao exercício social imediatamente anterior à data de aquisição do direito creditório elaboradas em conformidade com o disposto na Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, e auditadas por auditor independente registrado na CVM; ou
 
 II - se tratar de aplicações em:
 

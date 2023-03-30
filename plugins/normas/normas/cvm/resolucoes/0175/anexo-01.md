@@ -164,9 +164,7 @@ Em acréscimo às informações contidas no caput do art. 29 da parte geral da R
 
 ## Art. 12
 
-Caso a responsabilidade dos cotistas não esteja limitada ao valor por eles subscrito e a política de investimento admita a possibilidade de exposição a risco de capital.
-
-Parágrafo único. No termo de adesão, o cotista deve atestar que possui ciência dos riscos derivados de sua responsabilidade ilimitada.
+Caso a responsabilidade dos cotistas não esteja limitada ao valor por eles subscrito e a política de investimento admita a possibilidade de exposição a risco de capital, o cotista deve atestar que possui ciência dos riscos derivados de sua responsabilidade ilimitada no termo de adesão.
 
 CAPÍTULO V - DOCUMENTOS E INFORMAÇÕES
 
@@ -215,6 +213,8 @@ Em acréscimo às matérias dispostas no art. 48 da parte geral da Resolução, 
 I - taxa máxima de custódia, expressa em percentual anual do patrimônio líquido da classe; (base 252 dias); e
 
 II - taxa de performance, se houver.
+
+Parágrafo único. Caso o fundo conte com diferentes classes de cotas, as matérias previstas nos incisos do caput devem ser disciplinadas no anexo da classe a que se referirem.
 
 ## Art. 16
 
@@ -348,7 +348,7 @@ Parágrafo único. Caso a assembleia de cotistas seja realizada nos últimos 10 
 
 ## Art. 24
 
-O administrador deve encaminhar à CVM, por meio sistema eletrônico disponível na rede mundial de computadores, os seguintes documentos da classe de cotas:
+O administrador deve encaminhar à CVM, por meio de sistema eletrônico disponível na rede mundial de computadores, ou de sistema eletrônico disponibilizado por entidade que tenha formalizado convênio ou instrumento congênere com a CVM para esse fim, os seguintes documentos da classe de cotas:
 
 I - informe diário, no prazo de 1 (um) dia útil;
 
@@ -368,7 +368,7 @@ IV - formulário padronizado com as informações básicas da classe de cotas, s
 
 § 1º O prazo de retificação das informações é de 3 (três) dias úteis, contado do fim do prazo estabelecido para a apresentação dos documentos.
 
-§ 2º As informações previstas no inciso I do caput devem ser prestadas para cada subclasse em separado.
+§ 2º As informações previstas no inciso I e no inciso II, alínea “d” do caput devem ser prestadas para cada subclasse em separado.
 
 § 3º Caso a classe de cotas adote política que preveja o exercício de direito de voto decorrente da titularidade de ativos financeiros, o perfil mensal deve incluir:
 
@@ -384,9 +384,11 @@ Seção I - Obrigações do Administrador, Gestor e Custodiante
 
 Em acréscimo às obrigações previstas na parte geral da Resolução e neste Anexo A, incluem-se entre as obrigações do administrador:
 
-I - verificar, após a realização das operações pelo gestor, a compatibilidade dos preços praticados com os preços de mercado, bem como informar ao gestor e à CVM sobre indícios materiais de incompatibilidade; e
+I – verificar, após a realização das operações pelo gestor, a compatibilidade dos preços praticados com os preços de mercado, bem como informar ao gestor e à CVM sobre indícios materiais de incompatibilidade;
 
-II - verificar, após a realização das operações pelo gestor, em periodicidade compatível com a política de investimentos da classe, a observância da carteira de ativos aos limites de composição, concentração e, se for o caso, de exposição ao risco de capital, devendo informar ao gestor e à CVM sobre eventual desenquadramento, até o final do dia seguinte à data da verificação.
+II – verificar, após a realização das operações pelo gestor, em periodicidade compatível com a política de investimentos da classe, a observância da carteira de ativos aos limites de composição, concentração e, se for o caso, de exposição ao risco de capital, devendo informar ao gestor e à CVM sobre eventual desenquadramento, até o final do dia seguinte à data da verificação; e
+
+III – contratar o custodiante.
 
 ## Art. 26
 
@@ -750,13 +752,13 @@ a) quando alienados com compromisso de recompra; e
 
 b) cuja aquisição tenha sido contratada com base em operações a termo a que se refere o art. 1º, inciso V, do Regulamento anexo à Resolução do Conselho Monetário Nacional nº 3.339, de 26 de janeiro de 2006, sem prejuízo do disposto nos §§ 5º e 6º; e
 
-II - em relação à contraparte da classe, nas operações sem garantia de liquidação por câmaras ou prestadores de serviços de compensação e de liquidação autorizados a funcionar pelo Banco Central do Brasil.
+II – em relação à contraparte da classe, nas operações sem garantia de liquidação por entidade operadora de infraestrutura do mercado financeiro autorizada pela CVM ou pelo Banco Central do Brasil para efetuar a compensação e liquidação das operações.
 
 § 8º Não se submetem aos limites de que trata este artigo as operações compromissadas:
 
 I - lastreadas em títulos públicos federais;
 
-II - de compra, pela classe, com compromisso de revenda, desde que contem com garantia de liquidação por câmaras ou prestadores de serviços de compensação e de liquidação autorizados a funcionar pelo Banco Central do Brasil; e
+II – de compra, pela classe, com compromisso de revenda, desde que contem com garantia de liquidação por entidade operadora de infraestrutura do mercado financeiro autorizada pela CVM ou pelo Banco Central do Brasil para efetuar a compensação e liquidação das operações; e
 
 III - de vendas a termo, referidas no art. 1º, inciso V, do Regulamento anexo à Resolução do Conselho Monetário Nacional nº 3.339, de 2006.
 
@@ -776,9 +778,11 @@ I - até 20% (vinte por cento) do patrimônio líquido para o conjunto dos segui
 
 a) cotas de FIF destinadas exclusivamente a investidores qualificados, sendo de 5% (cinco por cento) o limite para aplicação em cotas de FIF destinadas exclusivamente a investidores profissionais;
 
-b) cotas de fundos de investimento imobiliário - FII; e
+b) cotas de fundos de investimento imobiliário – FII;
 
-c) cotas de fundos de investimento em direitos creditórios - FIDC, sendo de 5% (cinco por cento) o limite para aplicação em cotas de FIDC cujas políticas de investimento admitam a aquisição de direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II;
+c) cotas de fundos de investimento em direitos creditórios – FIDC, sendo de 5% (cinco por cento) o limite para aplicação em cotas de FIDC cujas políticas de investimento admitam a aquisição de direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II; e
+
+d) certificados de recebíveis, sendo de 5% (cinco por cento) o limite para aplicação em certificados de recebíveis cujo lastro seja composto por direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II;
 
 II - até 15% (quinze por cento) do patrimônio líquido no conjunto dos seguintes ativos:
 
@@ -790,7 +794,7 @@ III - até 10% (dez por cento) do patrimônio líquido para o conjunto dos segui
 
 a) títulos e contratos de investimento coletivo, o que inclui, mas não se limita, aos CIC-hoteleiros, observado o requisito previsto no § 1º do art. 39 deste Anexo Normativo I;
 
-b) CBIO, créditos de carbono e créditos de metano; e
+b) CBIO e créditos de carbono; e
 
 c) criptoativos;
 
@@ -1114,7 +1118,7 @@ Subseção IV - Fundos Multimercado
 
 A classe tipificada como "Multimercado" deve ter política de investimento que envolva vários fatores de risco, sem compromisso de concentração em nenhum fator em específico.
 
-Parágrafo único. A classe "Multimercado" não está sujeita aos limites de concentração por emissor dispostos no art. 44 deste Anexo Normativo I, desde que assim esteja expressamente previsto em seu regulamento e o termo de adesão contenha alerta de que a carteira pode estar exposta ao risco de concentração em ativos de poucos emissores.
+Parágrafo único. Os investimentos feitos pela classe “Multimercado” nos ativos de que trata o art. 56, § 1º, inciso I, não estão sujeitos aos limites de concentração por emissor dispostos no art. 44 deste Anexo Normativo I, desde que assim esteja expressamente previsto no regulamento e o termo de adesão contenha alerta de que a carteira pode estar exposta ao risco de concentração em ativos de poucos emissores.
 
 Subseção V - Fundos Incentivados em Infraestrutura
 
@@ -1263,6 +1267,8 @@ III - para classe tipificada como "Multimercado", margem bruta limitada a 70% (s
 § 3º As operações da carteira de ativos da classe destinada ao público em geral que originem exposição a risco de capital devem contar com cobertura ou margem de garantia em mercado organizado.
 
 § 4º Classes de cotas exclusivamente destinadas a investidores profissionais não possuem limites de exposição a risco de capital, exceto pelo que porventura dispuser o Regulamento, nos termos do art. 17, inciso V, deste Anexo Normativo I.
+
+§ 5º Classes de cotas que realizam operações envolvendo posições compradas e vendidas de ativos e derivativos do mercado de renda variável, cujo resultado esperado seja preponderantemente proveniente da diferença entre as posições (estratégia comumente denominada de long and short), ficam dispensadas de observar o limite previsto no inciso III do caput, no que se refere a essas operações.
 
 CAPÍTULO IX - CLASSES RESTRITAS
 
