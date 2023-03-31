@@ -34,7 +34,7 @@ c) créditos de descarbonização - CBIO e créditos de carbono, desde que regis
 
 d) criptoativos, desde que negociados em entidades autorizadas pelo Banco Central do Brasil ou pela CVM, ou, em caso de operações no exterior, por supervisor local, que possua competência legal para supervisionar e fiscalizar as operações realizadas, inclusive no que tange a coibir práticas abusivas no mercado, assim como a lavagem de dinheiro e financiamento ao terrorismo e proliferação de armas de destruição em massa;
 
-e) desde que o ativo tenha sido objeto de oferta pública registrada na CVM ou o registro da oferta tenha sido dispensado, ações, debêntures, notas comerciais, notas promissórias, títulos de securitização, bônus e recibos de subscrição, cupons, certificados de depósito de valores mobiliários, Brazilian depositary receipts - BDR, cotas de fundos de investimento e contratos de investimento coletivo;
+e) desde que o ativo tenha sido objeto de oferta pública registrada na CVM ou o registro da oferta tenha sido dispensado, ações, debêntures, notas comerciais, notas promissórias, títulos de securitização, bônus e recibos de subscrição, cupons, certificados de depósito de valores mobiliários, Brazilian Depositary Receipts - BDR, cotas de fundos de investimento e contratos de investimento coletivo;
 
 f) ouro, ativo financeiro, desde que negociado em padrão internacionalmente aceito;
 
@@ -44,7 +44,7 @@ h) warrants, contratos mercantis de compra e venda de produtos, mercadorias ou s
 
 II - ativos financeiros no exterior: ativos financeiros negociados no exterior que tenham a mesma natureza econômica dos ativos financeiros no Brasil;
 
-III - Brazilian depositary receipts - BDR: certificados de depósito de valores mobiliários emitidos por instituição depositária no Brasil e representativos de valores mobiliários de emissão de companhia aberta ou assemelhada cuja sede esteja localizada:
+III - Brazilian Depositary Receipts - BDR: certificados de depósito de valores mobiliários emitidos por instituição depositária no Brasil e representativos de valores mobiliários de emissão de companhia aberta ou assemelhada cuja sede esteja localizada:
 
 a) no exterior, no caso de certificados de depósito de ações negociadas no exterior ("BDR-Ações"); e
 
@@ -224,7 +224,7 @@ I - o percentual máximo de aplicação em ativos financeiros de emissão do ges
 
 II - o percentual máximo de aplicação em cotas de fundos de investimento administrados pelo gestor ou partes relacionadas;
 
-III - o percentual máximo de aplicação em ativos financeiros de um mesmo emissor, observado o disposto no art. 44 Anexo Normativo I e sem prejuízo do disposto no art. 45, inciso IV, alínea "j", ambos deste Anexo Normativo I;
+III - o percentual máximo de aplicação em ativos financeiros de um mesmo emissor, observado o disposto no art. 44 e sem prejuízo do disposto no art. 45, inciso IV, alínea "j", ambos deste Anexo Normativo I;
 
 IV - o percentual máximo de aplicação em ativos financeiros no exterior; e
 
@@ -302,7 +302,7 @@ IV - disponibilizar as informações da classe de forma equânime entre todos os
 
 § 3º Caso existam posições ou operações em curso que, a critério do gestor, possam vir a ser prejudicadas pela sua divulgação, o demonstrativo da composição da carteira pode omitir sua identificação e quantidade, registrando somente o valor do ativo e sua percentagem sobre o total da carteira.
 
-§ 4º As operações omitidas com base no parágrafo anterior devem ser divulgadas na forma do inciso II do caput no prazo máximo de:
+§ 4º As operações omitidas com base no parágrafo anterior devem ser divulgadas na forma do inciso II do art. 24 no prazo máximo de:
 
 I - 30 (trinta) dias, improrrogáveis, nas classes tipificadas como "Renda Fixa" que sejam "Longo Prazo", "Referenciada" ou "Simples"; e
 
@@ -382,7 +382,7 @@ Seção I - Obrigações do Administrador, Gestor e Custodiante
 
 ## Art. 25
 
-Em acréscimo às obrigações previstas na parte geral da Resolução e neste Anexo A, incluem-se entre as obrigações do administrador:
+Em acréscimo às obrigações previstas na parte geral da Resolução e neste Anexo Normativo I, incluem-se entre as obrigações do administrador:
 
 I – verificar, após a realização das operações pelo gestor, a compatibilidade dos preços praticados com os preços de mercado, bem como informar ao gestor e à CVM sobre indícios materiais de incompatibilidade;
 
@@ -546,7 +546,7 @@ Os ativos financeiros negociados no mercado brasileiro devem ser registrados em 
 
 Os ativos financeiros cuja liquidação possa se dar por meio da entrega de produtos, mercadorias ou serviços devem:
 
-I - ser negociados em mercado organizado que garanta sua liquidação, observado, ainda, o disposto no art. 44, § 8º, da parte geral da Resolução; ou
+I - ser negociados em mercado organizado que garanta sua liquidação, observado, ainda, o disposto no art. 44, § 9º, da parte geral da Resolução; ou
 
 II - ser objeto de contrato que assegure à classe o direito de sua alienação antes do vencimento, com garantia de instituição financeira ou de sociedade seguradora, observada, neste último caso, a regulamentação da Superintendência de Seguros Privados - SUSEP.
 
@@ -1036,7 +1036,7 @@ d) ETF de ações;
 
 e) BDR-Ações; e
 
-f) BDR-ETF de ações;
+f) BDR-ETF de ações; e
 
 II - os recursos excedentes da carteira podem ser aplicados em quaisquer outras modalidades de ativos financeiros destinados à gestão de liquidez.
 
@@ -1152,7 +1152,7 @@ Os FI-Infra são os fundos de investimento previstos no art. 3º da Lei nº 12.4
 
 § 6º Fica dispensada a consolidação das aplicações prevista no § 5º deste artigo no caso de FIDC administrado ou gerido por terceiros não ligados ao gestor da classe investidora.
 
-Subseção VI - Fundo Destinado à Garantia de Locação imobiliária
+Subseção VI - Fundo Destinado à Garantia de Locação Imobiliária
 
 ## Art. 61
 
@@ -1202,7 +1202,7 @@ A incorporação e a fusão de fundo de investimento destinado à garantia imobi
 
 § 1º São permitidas a incorporação, a cisão ou a fusão de fundo de investimento destinado à garantia imobiliária em que o fundo incorporador ou resultante da operação não seja um fundo de investimento destinado à garantia de locação imobiliária, desde que as cotas do fundo incorporado, cindido ou objeto da fusão não estejam cedidas fiduciariamente.
 
-§ 2º É permitida a cisão de parcela do patrimônio de um fundo de investimento destinado à garantia de locação imobiliária na hipótese de que trata o caput do art. 44, § 3º, inciso II, da parte geral da Resolução.
+§ 2º É permitida a cisão de parcela do patrimônio de um fundo de investimento destinado à garantia de locação imobiliária na hipótese de que trata o art. 44, § 3º, inciso II, da parte geral da Resolução.
 
 ## Art. 68
 
@@ -1218,7 +1218,7 @@ I - o termo de cessão de cotas pode conter a autorização prevista no art. 68 
 
 II - o administrador não pode imputar ao fundo de investimento qualquer despesa relativa à averbação da cessão fiduciária, ao envio de comunicações para o proprietário fiduciário, ou qualquer outra despesa relativa à cessão fiduciária, inclusive a remuneração que cobrar por esse serviço.
 
-Subseção VI - Concentração em Crédito Privado
+Subseção VII - Concentração em Crédito Privado
 
 ## Art. 70
 
@@ -1266,7 +1266,7 @@ III - para classe tipificada como "Multimercado", margem bruta limitada a 70% (s
 
 § 3º As operações da carteira de ativos da classe destinada ao público em geral que originem exposição a risco de capital devem contar com cobertura ou margem de garantia em mercado organizado.
 
-§ 4º Classes de cotas exclusivamente destinadas a investidores profissionais não possuem limites de exposição a risco de capital, exceto pelo que porventura dispuser o Regulamento, nos termos do art. 17, inciso V, deste Anexo Normativo I.
+§ 4º Classes de cotas exclusivamente destinadas a investidores profissionais não possuem limites de exposição a risco de capital, exceto pelo que porventura dispuser o Regulamento, nos termos do art. 16, inciso V, deste Anexo Normativo I.
 
 § 5º Classes de cotas que realizam operações envolvendo posições compradas e vendidas de ativos e derivativos do mercado de renda variável, cujo resultado esperado seja preponderantemente proveniente da diferença entre as posições (estratégia comumente denominada de long and short), ficam dispensadas de observar o limite previsto no inciso III do caput, no que se refere a essas operações.
 
@@ -1332,7 +1332,7 @@ I - não observância dos limites de concentração por emissor, por modalidade 
 
 II - não observância do disposto no art. 70 deste Anexo Normativo I; e
 
-III - não disponibilização da lâmina completa, conforme previsto neste Anexo Normativo I.
+III - não disponibilização da lâmina, conforme previsto neste Anexo Normativo I.
 
 ## Art. 80
 

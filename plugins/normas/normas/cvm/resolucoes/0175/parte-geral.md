@@ -310,7 +310,7 @@ Na emissão de cotas de classe fechada deve ser utilizado o valor definido ou ca
 
 § 1º O regulamento pode estabelecer método para o cálculo do valor de emissão, que deve ser consistente e passível de verificação, o que dispensa a definição na assembleia.
 
-§ 2º Caso a emissão seja uma decisão do gestor, nos termos do art. 48, § 2º, VI, deve ser utilizado o método previsto no regulamento, conforme previsto no § 1º deste artigo.
+§ 2º Caso a emissão seja uma decisão do gestor, nos termos do art. 48, § 2º, VII, deve ser utilizado o método previsto no regulamento, conforme previsto no § 1º deste artigo.
 
 Seção III - Distribuição
 
@@ -392,7 +392,7 @@ b) de que não há qualquer garantia contra eventuais perdas patrimoniais que po
 
 c) de que a concessão do registro de funcionamento não implica, por parte da CVM, garantia de veracidade das informações prestadas ou de adequação do regulamento à legislação vigente ou julgamento sobre a qualidade do fundo ou de seus prestadores de serviços;
 
-d) se for o caso, de que a integralização de cotas ocorrerá por meio de chamadas de capital, nos termos do parágrafo único do art. 30, parágrafo único; e
+d) se for o caso, de que a integralização de cotas ocorrerá por meio de chamadas de capital, nos termos do art. 30, parágrafo único; e
 
 e) quando aplicável, de que as estratégias de investimento podem resultar em perdas superiores ao capital aplicado e, caso a responsabilidade do cotista não esteja limitada ao valor por ele subscrito, a consequente possibilidade de o cotista ter que aportar recursos adicionais para cobrir o patrimônio líquido negativo.
 
@@ -434,7 +434,7 @@ O distribuidor por conta e ordem deve manter registro complementar de cotistas, 
 
 § 1º O administrador ou a instituição contratada para realizar a escrituração de cotas deve inscrevê-las no registro de cotistas da classe e, se houver, subclasse de cotas, adotando, na identificação do titular, o nome do distribuidor por conta e ordem, acrescido do código de investidor referido no caput.
 
-§ 2º Os distribuidores que atuem por conta e ordem de clientes devem estar autorizados a prestar os serviços de escrituração de valores mobiliários, nos termos de norma específica, ou providenciar o depósito das cotas em central depositária de valores mobiliários ou seu registro em entidade administradora de mercado organizado, de modo a possibilitar a identificação do cotista efetivo.
+§ 2º Os distribuidores que atuem por conta e ordem de clientes devem estar autorizados a prestar os serviços de escrituração de valores mobiliários, nos termos de norma específica, ou providenciar o depósito das cotas em central depositária de valores mobiliários ou seu registro em mercado organizado, de modo a possibilitar a identificação do cotista efetivo.
 
 ## Art. 35
 
@@ -466,7 +466,7 @@ IX - à manutenção de informações atualizadas que permitam a identificação
 
 X - à obrigação de efetuar a retenção e o recolhimento dos tributos incidentes nas aplicações, amortizações e resgates de cotas, conforme determinar a legislação tributária.
 
-Parágrafo único. Para os efeitos do inciso VII, serão considerados, para fins de antecedência suficiente e tempestiva a ser observada pelo administrador, os seguintes prazos mínimos:
+Parágrafo único. Para os efeitos do inciso VI, serão considerados, para fins de antecedência suficiente e tempestiva a ser observada pelo administrador, os seguintes prazos mínimos:
 
 I - 17 (dezessete) dias de antecedência da realização da assembleia quando a convocação se der por via física; e
 
@@ -682,9 +682,9 @@ II - responsabilidade, bem como parâmetros de sua aferição, dos prestadores d
 
 III - definição sobre se o fundo conta com classe única de cotas ou diferentes classes de cotas e, caso conte com classes diferentes, definição das despesas que são comuns às classes;
 
-IV - forma de rateio das despesas em comum entre as classes, se for o caso, que deve ser passível de verificação e não implicar em transferência indevida de riqueza entre as classes;
+IV - forma de rateio das despesas em comum entre as classes, se for o caso, que deve ser passível de verificação e não implicar transferência indevida de riqueza entre as classes;
 
-V - forma de rateio das contingências que recaiam sobre o fundo, não sobre o patrimônio de alguma(s) classe(s) em específico, que deve ser passível de verificação e não implicar em transferência indevida de riqueza entre as classes;
+V - forma de rateio das contingências que recaiam sobre o fundo, não sobre o patrimônio de alguma(s) classe(s) em específico, que deve ser passível de verificação e não implicar transferência indevida de riqueza entre as classes;
 
 VI – prazo de duração, que pode ser indeterminado; e
 
@@ -808,7 +808,7 @@ II - ser elaborado em linguagem serena e moderada, advertindo seus leitores para
 
 III - ser identificado como material de divulgação;
 
-IV - mencionar a existência do regulamento, anexos e apêndices, conforme o caso, bem como os endereços na rede mundial de computadores nos quais os documentos podem ser obtidos;
+IV - mencionar a existência do regulamento, anexos e apêndices, conforme o caso, bem como os endereços na rede mundial de computadores nos quais os documentos podem ser obtidos; e
 
 V - observar o disposto nos §§ 1º, 2º e 3º do art. 47.
 
@@ -980,7 +980,7 @@ Anualmente, a assembleia especial de cotistas deve deliberar sobre as demonstra�
 
 § 1º A assembleia de cotistas somente pode ser realizada no mínimo 15 (quinze) dias após estarem disponíveis aos cotistas as demonstrações contábeis relativas ao exercício encerrado, contendo parecer do auditor independente.
 
-§ 2º A assembleia de cotistas a que comparecerem todos os cotistas pode dispensar o prazo estabelecido no § 2º.
+§ 2º A assembleia de cotistas a que comparecerem todos os cotistas pode dispensar o prazo estabelecido no § 1º.
 
 § 3º As demonstrações contábeis cujo relatório de auditoria não contiver opinião modificada podem ser consideradas automaticamente aprovadas caso a assembleia de cotistas não seja instalada em virtude de não comparecimento dos cotistas.
 
@@ -1160,7 +1160,7 @@ I - a contratação não ocorre em nome do fundo, salvo previsão no regulamento
 
 II - caso o prestador de serviço contratado não seja um participante de mercado regulado pela CVM ou o serviço prestado ao fundo não se encontre dentro da esfera de atuação da Autarquia, o gestor deve fiscalizar as atividades do terceiro contratado relacionadas ao fundo.
 
-Subseção III - Negociação de ativos em mercados organizados
+Subseção III - Negociação de Ativos em Mercados Organizados
 
 ## Art. 86
 
@@ -1178,13 +1178,13 @@ O gestor deve encaminhar ao administrador, nos 5 (cinco) dias úteis subsequente
 
 As ordens de compra e venda de ativos devem sempre ser expedidas pelo gestor com a identificação precisa do fundo e, se for o caso, da classe de cotas em nome da qual devem ser executadas.
 
-§ 1º Quando uma mesma pessoa jurídica for responsável pela gestão das carteiras de diversas classes, é admitido o grupamento de ordens, desde que referida pessoa jurídica:
+Parágrafo único. Quando uma mesma pessoa jurídica for responsável pela gestão das carteiras de diversas classes, é admitido o grupamento de ordens, desde que referida pessoa jurídica:
 
 I - conte com processos que possibilitem o rateio, entre as classes de cotas, das operações realizadas, por meio de critérios equitativos, preestabelecidos, formalizados e passíveis de verificação; e
 
 II - diligencie para que a documentação relacionada ao grupamento e rateio de ordens seja mantida, às suas expensas, atualizada e em perfeita ordem.
 
-Subseção IV - Limites de composição e concentração da carteira
+Subseção IV - Limites de Composição e Concentração da Carteira
 
 ## Art. 89
 
@@ -1250,7 +1250,7 @@ O gestor deve submeter a carteira de ativos a testes de estresse periódicos, co
 
 Parágrafo único. A periodicidade dos testes de estresse deve ser adequada às características da classe de cotas, às variações históricas dos cenários eleitos para o teste e às condições de mercado vigentes.
 
-Subseção VI - Direito de voto
+Subseção VI - Direito de Voto
 
 ## Art. 94
 
@@ -1384,7 +1384,7 @@ X - cumprir as deliberações da assembleia de cotistas.
 
 Parágrafo único. O serviço de atendimento ao cotista deve ser subordinado diretamente:
 
-I - ao diretor responsável perante a CVM pela administração do fundo; ou
+I - ao diretor responsável perante a CVM pela administração do fundo;
 
 II - alternativamente, a outro diretor especialmente indicado à CVM para essa função pelo administrador; ou
 
@@ -1440,7 +1440,7 @@ Nas hipóteses de descredenciamento ou renúncia, fica o administrador obrigado 
 
 § 1º No caso de renúncia, o prestador de serviço essencial deve permanecer no exercício de suas funções até sua efetiva substituição, que deve ocorrer no prazo máximo de:
 
-I - 90 (noventa) dias, contados a partir da renúncia, para os fundos de investimento financeiro disciplinados no Anexo Normativo A e fundos mútuos de privatização - FGTS disciplinados no Anexo Normativo F; ou
+I - 90 (noventa) dias, contados a partir da renúncia, para os fundos de investimento financeiro disciplinados no Anexo Normativo I e fundos mútuos de privatização - FGTS disciplinados no Anexo Normativo VI; ou
 
 II - 180 (cento e oitenta) dias, contados a partir da renúncia, para as demais categorias de fundos de investimento.
 
@@ -1866,7 +1866,7 @@ A Resolução CVM nº 21, de 25 de fevereiro de 2021, passa a vigorar com a segu
 
 § 3º Esta Resolução aplica-se a todo administrador e gestor de fundo de investimento.
 
-§ 3-Aº Os administradores e gestores de fundos de investimento em atividade que não sejam registrados na CVM devem obter o referido registro até 31 de dezembro de 2024.
+§ 3º-A Os administradores e gestores de fundos de investimento em atividade que não sejam registrados na CVM devem obter o referido registro até 31 de dezembro de 2024.
 
 ........................................................................." (N.R.)
 
@@ -1892,13 +1892,13 @@ d) especificação sobre a forma, a periodicidade e a entidade responsável pelo
 
 A Resolução CVM 172, de 1º de novembro de 2022, passa a vigorar com a seguinte redação:
 
-"Art. 1º Esta Resolução promove alterações temporárias, em caráter experimental, em requisitos regulatórios relacionados ao envio e à publicidade do demonstrativo de composição e diversificação de carteira ("CDA") previsto na Resolução CVM nº 175, de 22 de dezembro de 2022, exclusivamente para os fundos de investimento classificados como "ações - ativos" e como "previdenciários de ações - ações ativos" ("Fundos"), conforme definidos nas Regras e Procedimentos para Classificação de Fundos 555 nº 07, de 23 de maio de 2019, conforme alteradas ("Regras"), elaborada pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais - ANBIMA, nos arts. 7º, § 1º, II, e 14, II, respectivamente." (N.R.)
+"Art. 1º Esta Resolução promove alterações temporárias, em caráter experimental, em requisitos regulatórios relacionados ao envio e à publicidade do demonstrativo de composição e diversificação de carteira ("CDA") previsto na Resolução CVM nº 175, de 23 de dezembro de 2022, exclusivamente para os fundos de investimento classificados como "ações - ativos" e como "previdenciários de ações - ações ativos" ("Fundos"), conforme definidos nas Regras e Procedimentos para Classificação de Fundos 555 nº 07, de 23 de maio de 2019, conforme alteradas ("Regras"), elaborada pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais - ANBIMA, nos arts. 7º, § 1º, II, e 14, II, respectivamente." (N.R.)
 
 "Art. 2º Os Fundos a que se refere o art. 1º podem omitir, por até 180 (cento e oitenta) dias, na forma do art. 22, § 4°, inciso II, do Anexo Normativo I da Resolução CVM nº 175, de 2022, a identificação e a quantidade de valores mobiliários no CDA, sem necessidade de enviar solicitação fundamentada à CVM para promover a ocultação." (N.R.)
 
-"Art. 3º Observado o parágrafo único, o CDA enviado à CVM em observância ao art. 24, inciso II, alínea "b", da Resolução CVM nº 175, de 2022, deve ser disponibilizado, pela CVM, em sua página na rede mundial de computadores, trimestralmente, com base no calendário civil, permanecendo inalterada a obrigação de envio mensal do CDA.
+"Art. 3º Observado o parágrafo único, o CDA enviado à CVM em observância ao art. 24, inciso II, alínea "b", do Anexo Normativo I da Resolução CVM nº 175, de 2022, deve ser disponibilizado, pela CVM, em sua página na rede mundial de computadores, trimestralmente, com base no calendário civil, permanecendo inalterada a obrigação de envio mensal do CDA.
 
-Parágrafo único. O disposto no caput somente entra em vigor após a implementação dos ajustes necessários no sistema previsto no art. 24, caput, da Resolução CVM nº 175, de 2022, fato que será comunicado pela Superintendência de Supervisão de Investidores Institucionais - SIN." (N.R.)
+Parágrafo único. O disposto no caput somente entra em vigor após a implementação dos ajustes necessários no sistema previsto no art. 24, caput, do Anexo Normativo I da Resolução CVM nº 175, de 2022, fato que será comunicado pela Superintendência de Supervisão de Investidores Institucionais - SIN." (N.R.)
 
 "Art. 4º Esta Resolução entra em vigor em 1º de dezembro de 2022, observado o disposto no art. 3º, parágrafo único." (N.R.)
 

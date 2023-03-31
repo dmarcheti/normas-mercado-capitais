@@ -26,7 +26,7 @@ b) ativos financeiros de renda fixa de emissão ou coobrigação de instituiçõ
 
 c) operações compromissadas lastreadas nos ativos referidos nas alíneas "a" e "b"; e
 
-d) cotas de classes que invistam exclusivamente nos ativos acima referidos;
+d) cotas de classes que invistam exclusivamente nos ativos referidos nas alíneas "a" a "c";
 
 III - carteira (de ativos): conjunto de direitos creditórios, ativos financeiros de liquidez, derivativos e disponibilidades da classe de cotas;
 
@@ -68,13 +68,13 @@ d) a constituição ou validade jurídica da cessão para a classe de cotas seja
 
 e) o devedor ou coobrigado seja sociedade empresária em recuperação judicial ou extrajudicial;
 
-f) sejam cedidos por sociedade empresária em recuperação judicial ou extrajudicial, ressalvado o disposto no inciso I do parágrafo único;
+f) sejam cedidos por sociedade empresária em recuperação judicial ou extrajudicial, ressalvado o disposto no inciso I do § 1º;
 
 g) sejam de existência futura e montante desconhecido, desde que emergentes de relações já constituídas;
 
 h) derivativos de crédito, quando não utilizados para proteção ou mitigação de risco de direitos creditórios; ou
 
-i) cotas de FIDC que invistam nos direitos creditórios referidos nas alíneas acima;
+i) cotas de FIDC que invistam nos direitos creditórios referidos nas alíneas "a" a "h";
 
 XIV - índice referencial: índice quantitativo utilizado para calcular a meta de valorização de uma subclasse de cotas de classe fechada ou de uma série de cotas seniores;
 
@@ -132,7 +132,7 @@ Da denominação do fundo e de suas classes de cotas, se houver, deve constar a 
 
 § 3º Deve constar da denominação da classe de investimento em cotas a expressão "Classe de Investimento em Cotas".
 
-Parágrafo único. Admite-se a utilização cumulativa dos sufixos descritos na parte geral da Resolução e neste Anexo Normativo II.
+§ 4º. Admite-se a utilização cumulativa dos sufixos descritos na parte geral da Resolução e neste Anexo Normativo II.
 
 ## Art. 5º
 
@@ -148,7 +148,7 @@ No âmbito do pedido de registro de funcionamento de classes de cotas cujo regul
 
 I - deve ser apresentada manifestação acerca da existência de compromisso financeiro que se caracterize como operação de crédito para fins do disposto na Lei Complementar nº 101, de 4 de maio de 2000; e
 
-II - caso reste caracterizada uma operação de crédito, nos termos do inciso I, deve ser anexada a competente autorização do Ministério da Economia, nos termos do art. 32 da Lei Complementar nº 101, de 2000.
+II - caso reste caracterizada uma operação de crédito, nos termos do inciso I, deve ser anexada a competente autorização do Ministério da Fazenda, nos termos do art. 32 da Lei Complementar nº 101, de 2000.
 
 CAPÍTULO IV - COTAS
 
@@ -196,7 +196,7 @@ a) direitos creditórios que sejam originados por contratos mercantis de compra 
 
 1. empresas concessionárias de serviços públicos; ou
 
-2. companhias constituídas para implementar projetos de investimento na área de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, considerados prioritários na forma regulamentada pelo Poder Executivo Federal;
+2. companhias constituídas para implementar projetos de investimento na área de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, considerados prioritários na forma regulamentada pelo Poder Executivo Federal; e
 
 b) direitos creditórios originados ou cedidos pelo administrador, gestor, consultoria especializada, custodiante, entidade registradora dos direitos creditórios e partes a eles relacionadas; e
 
@@ -222,7 +222,7 @@ Seção IV - Resgate e Amortização
 
 ## Art. 16
 
-Admite-se o resgate e a amortização de cotas subordinadas e subordinadas mezanino de acordo com regras e procedimentos disciplinados no regulamento, desde que não haja redução do índice de subordinação.
+Admite-se o resgate e a amortização de cotas subordinadas e subordinadas mezanino de acordo com regras e procedimentos disciplinados no regulamento, desde que o índice de subordinação não seja comprometido.
 
 Parágrafo único. Admite-se que cotas subordinadas sejam resgatadas e amortizadas em direitos creditórios.
 
@@ -232,7 +232,7 @@ Admite-se o resgate e a amortização de cotas seniores e subordinadas mezanino 
 
 I - por deliberação da assembleia de cotistas, nos termos do art. 44, § 3º, inciso IV, da parte geral da Resolução;
 
-II - por deliberação da assembleia de cotistas de que trata o art. 109, § 1º da parte geral da Resolução; ou
+II - por deliberação da assembleia de cotistas de que trata o art. 126, da parte geral da Resolução; ou
 
 III - pelo exercício do direito de dissidência, nos termos do art. 55, parágrafo único, deste Anexo Normativo II.
 
@@ -356,7 +356,7 @@ Caso a classe seja destinada ao público em geral e sua política de investiment
 
 ## Art. 26
 
-As disposições constantes da Seção III do Capítulo V da Resolução não se aplicam à lâmina.
+As disposições constantes da Seção III do Capítulo V da parte geral da Resolução não se aplicam à lâmina.
 
 CAPÍTULO VI - INFORMAÇÕES
 
@@ -378,7 +378,7 @@ d) saldo e valor das cotas no início e no final do período;
 
 e) data de emissão do extrato da conta; e
 
-f) o telefone, o correio eletrônico e o endereço para correspondência do serviço de atendimento aos cotistas referido no inciso VI do art. 104 da parte geral Resolução;
+f) canais de atendimento para correspondência do serviço de atendimento aos cotistas referido no inciso VI do art. 104 da parte geral da Resolução;
 
 III - encaminhar o informe mensal à CVM, por meio de sistema eletrônico disponível na rede mundial de computadores, conforme modelo disposto no Suplemento G, observando o prazo de 15 (quinze) dias após o encerramento do mês a que se referirem as informações;
 
@@ -392,7 +392,7 @@ b) os resultados do registro dos direitos creditórios no que se refere à orige
 
 c) o eventual ajuizamento de ação judicial de cobrança ou propositura de processo administrativo, judicial ou arbitral envolvendo a classe de cotas, bem como a indicação do percentual do patrimônio envolvido e em risco;
 
-d) informações contidas no relatório trimestral do gestor a que se refere o § 3º deste artigo;
+d) informações contidas no relatório trimestral do gestor a que se refere o § 3º deste artigo; e
 
 e) no caso de classe destinada ao público em geral que adquira precatórios federais:
 
@@ -460,7 +460,7 @@ Seção I - Administração
 
 Em acréscimo aos serviços previstos no art. 83 da parte geral da Resolução, o administrador deve contratar, em nome do fundo, os seguintes serviços:
 
-I - registro de direitos creditórios em entidade registradora autorizada pelo Banco Central do Brasil, observado que a entidade registradora não pode ser parte relacionada do gestor ou da consultoria especializada;
+I - registro de direitos creditórios em entidade registradora autorizada pelo Banco Central do Brasil, observado que a entidade registradora não pode ser parte relacionada ao gestor ou da consultoria especializada;
 
 II – custódia, alcançando os serviços previstos na Seção IV deste Capítulo VIII;
 
@@ -492,7 +492,7 @@ II - encaminhar ao Sistema de Informações de Créditos do Banco Central do Bra
 
 III - obter autorização específica do devedor, passível de comprovação, para fins de consulta às informações constantes do SCR; e
 
-IV - no que se refere às classes que adquiram os precatórios federais previstos no inciso II do parágrafo único do art. 2º deste Anexo Normativo II, monitorar e informar, imediatamente, via comunicado ao mercado ou fato relevante, a depender da relevância, sobre quaisquer eventos de reavaliação do ativo.
+IV - no que se refere às classes que adquiram os precatórios federais previstos no inciso II do § 1º do art. 2º deste Anexo Normativo II, monitorar e informar, imediatamente, via comunicado ao mercado ou fato relevante, a depender da relevância, sobre quaisquer eventos de reavaliação do ativo.
 
 Parágrafo único. O documento referido no inciso II deve ser encaminhado mensalmente, em até 10 (dez) dias úteis após o encerramento do mês a que se referirem.
 
@@ -550,7 +550,7 @@ a) o índice de subordinação;
 
 b) a adimplência da carteira de direitos creditórios e, em relação aos direitos creditórios vencidos e não pagos, diligenciar para que sejam adotados os procedimentos de cobrança, observado que essa última obrigação inexiste no caso de hipóteses de dispensa previstas no regulamento; e
 
-c) a taxa de retorno dos direitos creditórios, considerando, no mínimo, pagamentos, pré-pagamentos e inadimplência.
+c) a taxa de retorno dos direitos creditórios, considerando, no mínimo, pagamentos, pré-pagamentos e inadimplência; e
 
 VII - na gestão de classes de cotas destinadas ao público em geral ou a investidores qualificados que aplicam recursos em precatórios federais:
 
@@ -570,7 +570,7 @@ IV - estabelecer como se darão os fluxos financeiros derivados dos direitos cre
 
 V - estabelecer hipóteses de liquidação antecipada que devem constar do regulamento.
 
-§ 2º A validação referida na alínea "b" do inciso II do caput deve utilizar informações que estejam sob controle do gestor ou de qualquer outro prestador de serviços da classe, ou, ainda, caso necessário, que possam ser obtidas por meio de esforços razoáveis, as quais devem contemplar, no mínimo, informações prestadas por serviços de proteção ao crédito e obtidas de base de dados de cadastro positivo.
+§ 2º A validação referida na alínea "a" do inciso II do caput deve utilizar informações que estejam sob controle do gestor ou de qualquer outro prestador de serviços da classe, ou, ainda, caso necessário, que possam ser obtidas por meio de esforços razoáveis, as quais devem contemplar, no mínimo, informações prestadas por serviços de proteção ao crédito e obtidas de base de dados de cadastro positivo.
 
 § 3º A consultoria especializada pode ser contratada pelo gestor para realizar atividades relacionadas à análise, seleção, aquisição e substituição dos direitos creditórios que comporão a carteira de direitos creditórios.
 
@@ -630,11 +630,11 @@ III - realizar a guarda da documentação relativa ao lastro dos direitos credit
 
 Os prestadores de serviço eventualmente subcontratados pelo custodiante não podem ser, em relação à classe de cotas, originador, cedente, gestor, consultoria especializada ou partes a eles relacionadas.
 
-Seção IV - Vedações
+Seção V - Vedações
 
 ## Art. 41
 
-É vedado a qualquer prestador de serviços receber ou orientar o recebimento de depósito em conta corrente que não seja de titularidade da classe de cotas ou seja conta-vinculada.
+É vedado a qualquer prestador de serviços receber ou orientar o recebimento de depósito em conta corrente que não seja de titularidade da classe de cotas ou não seja conta-vinculada.
 
 ## Art. 42
 
@@ -750,7 +750,7 @@ I - a não observância da carteira aos limites de concentração por devedor, e
 
 II - o não cumprimento pelo administrador das obrigações previstas no inciso I do art. 27 deste Anexo Normativo II; e
 
-II - que os recursos oriundos da liquidação financeira dos direitos creditórios podem ser recebidos pelo cedente em conta corrente de livre movimentação, para posterior repasse à classe.
+III - que os recursos oriundos da liquidação financeira dos direitos creditórios podem ser recebidos pelo cedente em conta corrente de livre movimentação, para posterior repasse à classe.
 
 Parágrafo único. O uso da previsão constante do inciso I não exime o administrador de encaminhar à CVM as informações de que tratam os incisos III a V do art. 27 deste Anexo Normativo II.
 
@@ -798,7 +798,7 @@ I - a não observância aos limites de concentração, composição e exposiçã
 
 II - a aplicação de recursos na aquisição de direitos creditórios e ativos financeiros no exterior; e
 
-III - a não disponibilização da lâmina completa, se aplicável, conforme previsto neste Anexo Normativo II.
+III - a não disponibilização da lâmina, se aplicável, conforme previsto neste Anexo Normativo II.
 
 CAPÍTULO XIV - DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 

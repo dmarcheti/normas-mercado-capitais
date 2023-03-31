@@ -2,7 +2,7 @@
 
 SUPLEMENTO A - TERMO DE CIÊNCIA E ASSUNÇÃO DE RESPONSABILIDADE ILIMITADA
 
-Termo declaratório, mediante o qual o cotista atesta que possui ciência sobre sua responsabilidade ilimitada.
+Termo declaratório, mediante o qual o cotista atesta que possui ciência sobre sua responsabilidade ilimitada, conforme previsto no art. 29, § 3º, da Resolução CVM nº 175, de 2022.
 
 [nome de fantasia do fundo e, se for o caso, da classe]
 
@@ -22,7 +22,7 @@ ___________________
 
 SUPLEMENTO B - LÂMINA DE INFORMAÇÕES BÁSICAS - FIF
 
-Conteúdo da lâmina de informações básicas dos fundos de investimento financeiro
+Conteúdo da lâmina de informações básicas dos fundos de investimento financeiro, conforme previsto no art. 2º, inciso XIV, do Anexo Normativo I da Resolução CVM nº 175, de 2022.
 
 LÂMINA DE INFORMAÇÕES ESSENCIAIS SOBRE O [nome de fantasia do fundo e, se for o caso, da classe]
 
@@ -73,7 +73,7 @@ e. [Para a classe de cotas com responsabilidade ilimitada dos cotistas cuja pol�
 | Taxa de entrada | [Para entrar a classe, o investidor paga uma taxa de [*]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |
 | Taxa de saída | [Para resgatar suas cotas[, antes de decorridos [*] dias da data de aplicação], o investidor paga uma taxa de [*]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |
 | Taxa de performance | [Descrição sucinta da taxa de performance] OU [não há]. |
-| Taxa total de despesas | As despesas pagas pelo classe de cotas representaram [*]% do seu patrimônio líquido diário médio no período que vai de [*] a [*]. A taxa de despesas pode variar de período para período e reduz a rentabilidade. O quadro com a descrição das despesas pode ser encontrado em [endereço eletrônico]. |
+| Taxa total de despesas | As despesas pagas pela classe de cotas representaram [*]% do seu patrimônio líquido diário médio no período que vai de [*] a [*]. A taxa de despesas pode variar de período para período e reduz a rentabilidade. O quadro com a descrição das despesas pode ser encontrado em [endereço eletrônico]. |
 
 5. COMPOSIÇÃO DA CARTEIRA: vi o patrimônio líquido da classe de cotas é de [*] e as 5 espécies de ativos em que a carteira concentra seus investimentos são vii : [*] viii
 
@@ -174,9 +174,59 @@ a. Comissão de Valores Mobiliários - CVM
 
 b. Serviço de Atendimento ao Cidadão em www.cvm.gov.br.
 
+INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA:
+
+______________________
+
+i O nome completo do fundo/da classe e seu CNPJ devem constar do rodapé de todas as páginas da lâmina.
+
+ii Por exemplo: (i) investir por longo/curto prazo; (ii) preservar seu capital contra inflação; (iii) ampliar seu capital e aceitem perdas; ou (iv) investir no setor [*].
+
+iii Por exemplo: somente aceita aplicações de investidores pessoas jurídicas.
+
+iv Por exemplo: (i) acompanhar o CDI; (ii) acompanhar o IBOVESPA; (iii) oferecer rentabilidade superior à do IBOVESPA no longo prazo; ou (iv) acompanhar o desempenho das ações das companhias do setor [*].
+
+v Deve-se incluir tanto o período de conversão quanto o prazo para o pagamento.
+
+vi Item dispensado nas lâminas apresentadas para registro do fundo/da classe.
+
+vii Quando se tratar de classes de investimento em cotas, a informação deve ser dada em relação à carteira dos fundos investidos e classes investidas.
+
+| Para efeito de preenchimento, as espécies de ativos são: Espécie de ativo | Descrição |
+| --- | --- |
+| Títulos públicos federais | LTN; LFT; todas as séries de NTN |
+| Operações compromissadas lastreadas em títulos públicos federais | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |
+| Operações compromissadas lastreadas em títulos privados | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |
+| Ações | Ações e certificados de depósito de ações de companhias abertas |
+| Depósitos a prazo e outros títulos de instituições financeiras | CDB, RDB, LF, DPGE, CCCB, LCA, LCI |
+| Cotas de fundos de investimento e classes Res. 175, de 2022 | Cotas de fundos de investimento regulados pela Res. CVM nº 175, de 2022 |
+| Outras cotas de fundos de investimento | Cotas de fundos de investimento regulados por outras instruções da CVM. |
+| Títulos de crédito privado | Debêntures, notas promissórias, commercial paper, export note, CCB, CPR, WA, NCA, CDA e CDCA |
+| Derivativos | Swaps, opções, operações a termo e operações no mercado futuro |
+| Investimento no exterior | Ativos financeiros adquiridos no exterior |
+| Outras aplicações | Qualquer aplicação que não possa ser classificada nas opções anteriores |
+
+ix Item dispensado nas lâminas apresentadas para registro do fundo e da classe.
+
+x Os fundos estruturados são definidos no OFÍCIO-CIRCULAR/CVM/SIN/Nº 1/2010, de 8 de janeiro de 2010.
+
+xi Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que a classe complete 1 (um) ano de operação.
+
+xii Meses devem ser ajustados de acordo com a data de atualização da lâmina.
+
+xiii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
+
+xiv Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
+
+xv Período de 12 meses a que se refere a Demonstração.
+
+xvi Preencher somente quando o gestor não pertencer ao mesmo grupo econômico do administrador.
+
+xvii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
+
 SUPLEMENTO C - DEMONSTRAÇÃO DE DESEMPENHO - FIF
 
-Conteúdo do relatório padronizado referido no art. 2º, inciso IX, do Anexo Normativo I da Resolução [].
+Conteúdo do relatório padronizado conforme previsto no art. 2º, inciso IX, do Anexo Normativo I da Resolução CVM nº 175, de 2022.
 
 DEMONSTRAÇÃO DE DESEMPENHO DO [nome de fantasia do fundo e, se for o caso, da classe de cotas]
 
@@ -216,7 +266,7 @@ Informações referentes a [ano]
 | [2016] |  |  |  |
 | [2015] |  |  |  |
 
-O fundo ou a classe de cotas que destinar quantias diretamente aos cotistas, nos termos do art. 37, § 6º, do Anexo Normativo I, ou realizar a amortização de cotas deve incluir, às tabelas dos itens 2.1 e 2.2, coluna para divulgar a rentabilidade ajustada pela destinação de referidas quantias, agregando os recursos distribuídos e/ou as cotas emitidas à rentabilidade.
+O fundo ou a classe de cotas que destinar quantias diretamente aos cotistas, nos termos do art. 36, do Anexo Normativo I, ou realizar a amortização de cotas deve incluir, às tabelas dos itens 2.1 e 2.2, coluna para divulgar a rentabilidade ajustada pela destinação de referidas quantias, agregando os recursos distribuídos e/ou as cotas emitidas à rentabilidade.
 
 3. Despesas do fundo ou da classe de cotas: as despesas apresentadas na tabela abaixo são debitadas diretamente do patrimônio [do fundo] ou [da classe de cotas] e reduzem a sua rentabilidade. A taxa de despesas é baseada nas despesas ocorridas entre [*] e [*] xv . A taxa de despesas pode variar de período para período.
 
@@ -257,7 +307,7 @@ Assumindo que a última taxa total de despesas divulgada se mantenha constante e
 | Despesas previstas (se a TAXA TOTAL DE DESPESAS se mantiver constante) | R$ [*] | R$ [*] |
 | Retorno bruto hipotético após dedução das despesas (antes da incidência de impostos, taxas de ingresso e/ou saída e taxa de performance) | R$ [*] | R$ [*] |
 
-A simulação acima não implica em promessa de que os valores reais ou esperados das despesas ou dos retornos serão iguais aos aqui apresentados.
+A simulação acima não implica promessa de que os valores reais ou esperados das despesas ou dos retornos serão iguais aos aqui apresentados.
 
 6. ESCLARECIMENTOS:
 
@@ -275,7 +325,7 @@ Impostos:
 
 SUPLEMENTO D - PERFIL MENSAL - FIF
 
-Conteúdo do perfil mensal
+Conteúdo do perfil mensal, conforme previsto no art. 2º, inciso XV, do Anexo Normativo I da Resolução CVM nº 175, de 2022.
 
 PERFIL MENSAL DO [nome de fantasia do fundo e, se for o caso, da classe]
 
@@ -325,10 +375,10 @@ Informações referentes a [mês] de [ano]
 | 8) Caso tenha sido realizada, no mês de referência, alguma assembleia geral/especial de cotistas do fundo/da classe, relatar resumidamente as principais deliberações aprovadas. | Campo texto - 4.000 caracteres |  |  |  |
 | 9) Total de recursos (em US$) enviados para o exterior para aquisição de ativos - Valor total dos contratos de compra de US$ liquidados no mês. | Numérico com 2 casas decimais |  |  |  |
 | 10) Total de recursos (em US$) ingressados no Brasil referente à venda de ativos - Total de contratos de venda de US$ liquidados no mês. | Numérico com 2 casas decimais |  |  |  |
-| 11) Considerando os cenários de estresse definidos pela BM&FBOVESPA para os fatores | Fator primitivo de risco | Cenário utilizado | % PL numérico com duas casas |  |
+| 11) Considerando os cenários de estresse definidos pela B3 para os fatores | Fator primitivo de risco | Cenário utilizado | % PL numérico com duas casas |  |
 | primitivos de risco (FPR) que gerem o pior resultado para o fundo, qual a variação diária | IBOVESPA |  | decimais. |  |
 | percentual esperada para o valor da cota. Especificar quais foram os cenários adotados da | Juros -Pré |  |  |  |
-| BM&FBOVESPA. | Cupom Cambial |  |  |  |
+| B3. | Cupom Cambial |  |  |  |
 |  | Dólar |  |  |  |
 |  | Outros (especificar) |  |  |  |
 | 12) Qual a variação diária percentual esperada para o valor da cota no pior cenário de estresse definido pelo seu administrador. | % PL numérico com duas casas decimais. |  |  |  |
@@ -343,7 +393,7 @@ Informações referentes a [mês] de [ano]
 |  | Dólar |  |  |  |
 |  | Outros (especificar) |  |  |  |
 |  | Totais |  |  |  |
-| 18) Para operações cursadas em mercado de balcão, sem garantia de contraparte central, identifique os 3 maiores comitentes que atuaram como contraparte da classe, informando o seu CPF/CNPJ, se é parte relacionada ao administrador ou gestor e o valor total das operações realizadas no mês por contraparte. O termo "parte relacionada" é aquele do art. 2, inciso XXII, a Resolução. | Comitente (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
+| 18) Para operações cursadas em mercado de balcão, sem garantia de contraparte central, identifique os 3 maiores comitentes que atuaram como contraparte da classe, informando o seu CPF/CNPJ, se é parte relacionada ao administrador ou gestor e o valor total das operações realizadas no mês por contraparte. O termo "parte relacionada" é aquele do art. 3º, inciso XXIX, da parte geral da Resolução. | Comitente (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
 |  | Comitente (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
 |  | Comitente (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
 | 19) Total dos ativos (em % do PL) em estoque de emissão de partes relacionadas. | % PL numérico com uma casa decimal |  |  |  |
@@ -351,7 +401,7 @@ Informações referentes a [mês] de [ano]
 |  | Emissor (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
 |  | Emissor (CPF/CNPJ) | Parte relacionada (S/N) | % PL numérico com uma casa decimal |  |
 | 21) Total dos ativos de crédito privado (em % do PL) em estoque. | % PL numérico com uma casa decimal |  |  |  |
-| 22) Caso haja cobrança de taxa de performance, informar se é vedada no regulamento a cobrança de taxa de performance quando o valor da cota for inferior ao seu valor por ocasião da última cobrança efetuada, na forma do disposto no § 2º do art. 31 do Anexo I. | (S/N) |  |  |  |
+| 22) Caso haja cobrança de taxa de performance, informar se é vedada no regulamento a cobrança de taxa de performance quando o valor da cota for inferior ao seu valor por ocasião da última cobrança efetuada, na forma do disposto no § 2º do art. 28 do Anexo Normativo I. | (S/N) |  |  |  |
 | 23) No caso de a resposta à pergunta anterior ser afirmativa, informar a data e o valor da cota quando da última cobrança de performance efetuada. | Data no formato dd/mm/aaaa. | Valor da cota, numérico com cinco casas decimais. |  |  |
 | 24) Caso a carteira de ativos tenha originado direitos a dividendos, juros sobre capital próprio ou outros rendimentos advindos de ativos financeiros que compõem a carteira e, no período, tenha ocorrido distribuição de tais direitos diretamente aos cotistas ou, ainda, tenha sido realizada amortização de cotas, informar o total dos montantes distribuídos e amortizados (R$). | Numérico com 2 casas decimais |  |  |  |
 
@@ -359,7 +409,7 @@ Nota relativa às classes de investimento em cotas de FIF: As questões 5, 6 e 1
 
 SUPLEMENTO E - LÂMINA DE INFORMAÇÕES BÁSICAS - FIDC
 
-Conteúdo da lâmina de informações essenciais prevista no art. 23 do Anexo Normativo II da Resolução [].
+Conteúdo da lâmina de informações essenciais, conforme previsto no art. 23 do Anexo Normativo II da Resolução CVM nº 175, de 2022.
 
 LÂMINA DE INFORMAÇÕES ESSENCIAIS SOBRE O [nome de fantasia do FIDC e, se for o caso, da classe de cotas]
 
@@ -454,9 +504,9 @@ c. Reclamações: [endereço eletrônico] [e demais canais disponíveis]
 
 d. Serviço de Atendimento ao Cidadão da Comissão de Valores Mobiliários: www.cvm.gov.br.
 
-SUPLEMENTO F - LÂMINA DE INFORMAÇÕES BÁSCIAS DE CLASSES DE INVESTIMENTO EM COTAS DE FIDC
+SUPLEMENTO F - LÂMINA DE INFORMAÇÕES BÁSICAS DE CLASSES DE INVESTIMENTO EM COTAS DE FIDC
 
-Conteúdo da lâmina de informações básicas de classes de investimento em cotas de FIDC
+Conteúdo da lâmina de informações básicas de classes de investimento em cotas de FIDC, conforme previsto no art. 2º, inciso XVI, do Anexo Normativo II da Resolução CVM nº 175, de 2022.
 
 LÂMINA DE INFORMAÇÕES ESSENCIAIS SOBRE O [nome de fantasia do fundo e, se for o caso, da classe]
 
@@ -490,7 +540,7 @@ b. O fundo pode:
 | Aplicar em operações compromissadas que tenham como contraparte o administrador, gestor e suas partes relacionadas? | [% do Patrimônio líquido] ou [não] |
 | Utilizar derivativos para proteção patrimonial? | [Sim/Não] |
 
-5. [Para o classe cujo regulamento permita realizar operações cujas consequências possam ser significativas perdas patrimoniais: "As estratégias de investimento da classe podem resultar em significativas perdas patrimoniais para seus cotistas."]
+5. [Para a classe cujo regulamento permita realizar operações cujas consequências possam ser significativas perdas patrimoniais: "As estratégias de investimento da classe podem resultar em significativas perdas patrimoniais para seus cotistas."]
 
 6. CONDIÇÕES DE INVESTIMENTO
 
@@ -546,7 +596,7 @@ d. Serviço de Atendimento ao Cidadão da Comissão de Valores Mobiliários: www
 
 SUPLEMENTO G - INFORME MENSAL - FIDC
 
-Conteúdo do Informe Mensal de FIDC
+Conteúdo do Informe Mensal de FIDC, conforme previsto no art. 27, inciso III, do Anexo Normativo II da Resolução CVM nº 175, de 2022.
 
 INFORME MENSAL DO [nome de fantasia do fundo e, se for o caso, da classe]
 
@@ -579,9 +629,8 @@ Informações referentes a [mês] de [ano]
 | a.7) Créditos decorrentes de receitas públicas originárias ou derivadas da União, Estados, Distrito Federal e Municípios, suas Autarquias e Fundações |  |  |  |
 | a.8) Créditos que resultem de ações judiciais em curso, constituam seu objeto de litígio ou tenham sido judicialmente penhorados ou dados em garantia |  |  |  |
 | a.9) Créditos cuja constituição ou validade jurídica da cessão para o fundo seja considerada um fator preponderante de risco |  |  |  |
-| a.10) Outros créditos, de natureza diversa, não enquadráveis no disposto no inciso XIII do art. 2º deste Anexo II |  |  |  |
-| a.11) Provisão para Redução no Valor de Recuperação (-) |  |  |  |
-| a.12) Direitos Creditórios (especificar o cedente quando representar mais de 10% do PL do fundo) |  |  |  |
+| a.10) Provisão para Redução no Valor de Recuperação (-) |  |  |  |
+| a.11) Direitos Creditórios (especificar o cedente quando representar mais de 10% do PL do fundo) |  |  |  |
 | CNPJ/CPF | Participação Percentual (%) |  |  |
 | b) Direitos Creditórios sem Aquisição Substancial dos Riscos e Benefícios |  |  |  |
 | b.1) Créditos Existentes a Vencer e Adimplentes |  |  |  |
@@ -594,24 +643,22 @@ Informações referentes a [mês] de [ano]
 | b.7) Créditos decorrentes de receitas públicas originárias ou derivadas da União, Estados, Distrito Federal e Municípios, suas Autarquias e Fundações |  |  |  |
 | b.8) Créditos que resultem de ações judiciais em curso, constituam seu objeto de litígio ou tenham sido judicialmente penhorados ou dados em garantia |  |  |  |
 | b.9) Créditos cuja constituição ou validade jurídica da cessão para o fundo seja considerada um fator preponderante de risco |  |  |  |
-| b.10) Outros créditos, de natureza diversa, não enquadráveis no disposto no inciso XIII do art. 2º deste Anexo II |  |  |  |
-| b.11) Provisão para Redução no Valor de Recuperação (-) |  |  |  |
-| b.12) Direitos Creditórios (especificar o cedente quando representar mais de 10% do PL do fundo) |  |  |  |
+| b.10) Provisão para Redução no Valor de Recuperação (-) |  |  |  |
+| b.11) Direitos Creditórios (especificar o cedente quando representar mais de 10% do PL do fundo) |  |  |  |
 | CNPJ/CPF | Participação Percentual (%) |  |  |
 | c) Valores Mobiliários |  |  |  |
 | c.1) Debêntures |  |  |  |
 | c.2) CRI |  |  |  |
 | c.3) Notas Promissórias Comerciais |  |  |  |
 | c.4) Letras Financeiras |  |  |  |
-| c.5) Cotas de Fundos da ICVM 409 |  |  |  |
+| c.5) Classes de cotas dos FIF - Anexo Normativo I da RCVM 175 |  |  |  |
 | c.6) Outros |  |  |  |
 | d) Títulos Públicos Federais |  |  |  |
 | e) Certificados de Depósitos Bancários |  |  |  |
 | f) Aplicações em Operações Compromissadas |  |  |  |
 | g) Outros Ativos Financeiros de Renda Fixa |  |  |  |
-| h) Cotas de Fundos de Investimento em Direitos Creditórios |  |  |  |
-| i) Cotas de Fundos de Investimento em Direitos Creditórios Não Padronizados |  |  |  |
-| j) Warrants, Contrato de Compra e Venda de Produtos, Mercadorias e/ou Serviços para Entrega ou Prestação Futura |  |  |  |
+| h) Classe de cotas de fundos de Investimento em Direitos Creditórios |  |  |  |
+| i) Warrants, Contrato de Compra e Venda de Produtos, Mercadorias e/ou Serviços para Entrega ou Prestação Futura |  |  |  |
 | (-) Provisões sobre Debêntures, CRI, Notas Promissórias e Letras Financeiras |  |  |  |
 | (-) Provisões sobre Cotas de Fundos de Investimento em Direitos Creditórios |  |  |  |
 | (-) Provisões sobre outros ativos |  |  |  |
@@ -651,12 +698,12 @@ Informações referentes a [mês] de [ano]
 | h) Factoring |  |  |  |
 | h.1) Factoring - Pessoal (Perfil do Sacado) |  |  |  |
 | h.2) Factoring - Corporativo (Perfil do Sacado) |  |  |  |
-| i) Setor Público (art. 1º, §1º, II, ICVM 444) |  |  |  |
+| i) Setor Público (Anexo Normativo II, art. 2º, XIII, alínea "b") |  |  |  |
 | i.1) Precatórios |  |  |  |
 | i.2) Créditos Tributários |  |  |  |
 | i.3) Royalties |  |  |  |
 | i.4) Outros |  |  |  |
-| j) Ações Judiciais (art. 1º, §1º, III, ICVM 444) |  |  |  |
+| j) Ações Judiciais (Anexo Normativo II, art. 2º, XIII, alínea "c") |  |  |  |
 | k) Propriedade Intelectual e Marcas & Patentes |  |  |  |
 | III - Passivo (R$) |  |  |  |
 | a) Valores a pagar |  |  |  |
@@ -1216,53 +1263,3 @@ Informações referentes a [mês] de [ano]
 ATENÇÃO!!!
 
 A existência de campo específico neste informe não significa autorização para sua utilização. O administrador deve observar os critérios estabelecidos na Resolução e no Anexo Normativo que regulamentam a constituição, a administração e o funcionamento do fundo.
-
-INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA:
-
-______________________
-
-i O nome completo do fundo/da classe e seu CNPJ devem constar do rodapé de todas as páginas da lâmina.
-
-ii Por exemplo: (i) investir por longo/curto prazo; (ii) preservar seu capital contra inflação; (iii) ampliar seu capital e aceitem perdas; ou (iv) investir no setor [*].
-
-iii Por exemplo: somente aceita aplicações de investidores pessoas jurídicas.
-
-iv Por exemplo: (i) acompanhar o CDI; (ii) acompanhar o IBOVESPA; (iii) oferecer rentabilidade superior à do IBOVESPA no longo prazo; ou (iv) acompanhar o desempenho das ações das companhias do setor [*].
-
-v Deve-se incluir tanto o período de conversão quanto o prazo para o pagamento.
-
-vi Item dispensado nas lâminas apresentadas para registro do fundo/da classe.
-
-vii Quando se tratar de classes de investimento em cotas, a informação deve ser dada em relação à carteira dos fundos investidos e classes investidas.
-
-| Para efeito de preenchimento, as espécies de ativos são: Espécie de ativo | Descrição |
-| --- | --- |
-| Títulos públicos federais | LTN; LFT; todas as séries de NTN |
-| Operações compromissadas lastreadas em títulos públicos federais | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |
-| Operações compromissadas lastreadas em títulos privados | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |
-| Ações | Ações e certificados de depósito de ações de companhias abertas |
-| Depósitos a prazo e outros títulos de instituições financeiras | CDB, RDB, LF, DPGE, CCCB, LCA, LCI |
-| Cotas de fundos de investimento e classes Res. X | Cotas de fundos de investimento regulados pela Res. CVM nº X |
-| Outras cotas de fundos de investimento | Cotas de fundos de investimento regulados por outras instruções da CVM. |
-| Títulos de crédito privado | Debêntures, notas promissórias, commercial paper, export note, CCB, CPR, WA, NCA, CDA e CDCA |
-| Derivativos | Swaps, opções, operações a termo e operações no mercado futuro |
-| Investimento no exterior | Ativos financeiros adquiridos no exterior |
-| Outras aplicações | Qualquer aplicação que não possa ser classificada nas opções anteriores |
-
-ix Item dispensado nas lâminas apresentadas para registro do fundo e da classe.
-
-x Os fundos estruturados são definidos no OFÍCIO-CIRCULAR/CVM/SIN/Nº 1/2010, de 8 de janeiro de 2010.
-
-xi Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que a classe complete 1 (um) ano de operação.
-
-xii Meses devem ser ajustados de acordo com a data de atualização da lâmina.
-
-xiii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
-
-xiv Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
-
-xv Período de 12 meses a que se refere a Demonstração.
-
-xvi Preencher somente quando o gestor não pertencer ao mesmo grupo econômico do administrador.
-
-xvii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.
