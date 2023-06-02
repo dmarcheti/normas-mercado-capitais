@@ -646,9 +646,11 @@ Seção I - Disposições Gerais
 
 A divulgação de informações sobre a classe de cotas deve ser abrangente, equitativa e simultânea para todos os cotistas da classe, inclusive, mas não limitadamente, por meio da disponibilização dos seguintes documentos e informações nos canais eletrônicos e nas páginas na rede mundial de computadores do administrador, do gestor, do distribuidor, enquanto a distribuição estiver em curso, e da entidade administradora do mercado organizado em que as cotas sejam admitidas à negociação:
 
-I - regulamento atualizado; e
+I – regulamento atualizado;
 
-II - descrição da tributação aplicável ao fundo.
+II – descrição da tributação aplicável; e
+
+III – política de voto da classe em assembleia de titulares de valores mobiliários, se for o caso.
 
 § 1º As informações referidas no caput devem ser:
 
@@ -752,7 +754,7 @@ III - qual a entidade responsável por certificar ou emitir parecer de segunda o
 
 IV - especificação sobre a forma, o conteúdo e a periodicidade de divulgação de relatório sobre os resultados ambientais, sociais e de governança alcançados pela política de investimento no período, assim como a identificação do agente responsável pela elaboração do relatório.
 
-Parágrafo único. Caso a política de investimento integre fatores ambientais, sociais e de governança às atividades relacionadas à gestão da carteira, mas não busque originar benefícios socioambientais, fica vedada a utilização dos termos referidos no caput, devendo o regulamento dispor acerca da integração dos referidos fatores à política de investimento.
+Parágrafo único. Caso a política de investimento integre fatores ambientais, sociais ou de governança às atividades relacionadas à gestão da carteira, mas não busque originar benefícios ambientais, sociais ou de governança, fica vedada a utilização dos termos referidos no caput, devendo o regulamento dispor acerca da integração dos referidos fatores à política de investimento.
 
 ## Art. 50
 
@@ -858,9 +860,9 @@ II - os investimentos em fundos não são garantidos pelo administrador, pelo ge
 
 O material de divulgação que contiver menção a fatores ambientais, sociais ou de governança deve informar, de modo objetivo, se o fundo ou a classe:
 
-I - possui uma política de investimentos que busca originar benefício socioambiental; ou
+I – possui uma política de investimentos que busca originar benefícios ambientais, sociais ou de governança; ou
 
-II - integra os fatores socioambientais à política de investimentos, sem, contudo, buscar a originação de benefício socioambiental.
+II – integra os fatores ambientais, sociais ou de governança à política de investimentos, sem, contudo, buscar a originação de benefícios dessa natureza.
 
 CAPÍTULO VI - DIVULGAÇÃO DE INFORMAÇÕES
 

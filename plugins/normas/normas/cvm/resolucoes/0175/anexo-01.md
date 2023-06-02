@@ -178,7 +178,7 @@ I - lâmina atualizada, se aplicável;
 
 II - demonstração de desempenho, se aplicável; e
 
-III - política de voto, se houver.
+III – (Revogado)
 
 Seção II - Lâmina de Informações Básicas
 
@@ -1233,6 +1233,18 @@ II - incluir no termo de adesão e ciência de risco o alerta de que pode ocorre
 § 2º A referência a emissores públicos no caput não alcança a União Federal.
 
 § 3º O disposto no inciso I do caput não se aplica aos FI-Infra.
+
+Subseção VIII – Fundos de Aposentadoria Programada Individual - FAPI
+
+## Art. 70-A
+
+Pode ser constituído FIF representativo de Fundo de Aposentadoria Programada Individual – FAPI, nos termos da Lei nº 9.477, de 24 de julho de 1997.
+
+Parágrafo único. Caso o FAPI conte com diferentes classes de cotas, todas as classes devem possuir como finalidade o atendimento à referida lei.
+
+## Art. 70-B
+
+A denominação da classe de cotas do FAPI deve conter a expressão “Fundo de Aposentadoria Programada Individual”, sendo inaplicável o disposto no art. 3º deste Anexo Normativo I.
 
 Seção VIII - Investimento em Cotas de Outros Fundos de Investimento Financeiro
 
