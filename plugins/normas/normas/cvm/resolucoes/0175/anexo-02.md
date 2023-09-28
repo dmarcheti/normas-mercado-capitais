@@ -156,9 +156,13 @@ Seção I - Emissão
 
 ## Art. 8º
 
-As cotas seniores e subordinadas devem ser emitidas em uma única subclasse para cada tipo, sem prejuízo da possibilidade de emissão de diferentes subclasses subordinadas mezanino.
+As cotas seniores devem ser emitidas em uma única subclasse.
 
-Parágrafo único. As cotas seniores e subordinadas mezanino de classe fechada podem ser emitidas em séries com índices referenciais diferentes e prazos diferenciados para amortização, permanecendo inalterados os demais direitos e obrigações.
+§ 1º As cotas seniores e subordinadas mezanino de classe fechada podem ser emitidas em séries com índices referenciais diferentes e prazos diferenciados para amortização, permanecendo inalterados os demais direitos e obrigações.
+
+§ 2º É vedada a existência de subordinação entre diferentes subclasses de cotas subordinadas, sem prejuízo da possibilidade de o Regulamento estabelecer outras diferenciações entre direitos econômicos e políticos para as referidas subclasses, nos termos do art. 3º deste Anexo Normativo II.
+
+§ 3º O Regulamento deve estabelecer a forma como as obrigações das cotas subordinadas serão cumpridas pelas diferentes subclasses de cotas subordinadas, se houver.
 
 ## Art. 9º
 
@@ -214,7 +218,7 @@ As classes de cotas cuja política de investimento admita a aquisição de direi
 
 Parágrafo único. No caso de subscrição de cotas de classes cuja política de investimento tenha como objetivo a realização de aplicações em direitos creditórios devidos por sociedades empresárias em processo de recuperação judicial ou extrajudicial, a restrição prevista no caput pode ser afastada, desde que:
 
-I - a subscrição seja realizado no contexto do plano de recuperação judicial da sociedade empresária devedora dos direitos creditórios, no qual os investidores figurem como credores; e
+I – (Revogado)
 
 II - a integralização de cotas seja efetuada somente em direitos creditórios.
 
@@ -232,9 +236,11 @@ Admite-se o resgate e a amortização de cotas seniores e subordinadas mezanino 
 
 I - por deliberação da assembleia de cotistas, nos termos do art. 44, § 3º, inciso IV, da parte geral da Resolução;
 
-II - por deliberação da assembleia de cotistas de que trata o art. 126, da parte geral da Resolução; ou
+II – por deliberação da assembleia de cotistas de que trata o art. 126, da parte geral da Resolução;
 
-III - pelo exercício do direito de dissidência, nos termos do art. 55, parágrafo único, deste Anexo Normativo II.
+III – pelo exercício do direito de dissidência, nos termos do art. 55, parágrafo único, deste Anexo Normativo II, ou
+
+IV – em caso de liquidação antecipada da classe, desde que seja destinada exclusivamente a investidores qualificados e a possibilidade esteja prevista no Regulamento.
 
 CAPÍTULO V - DOCUMENTOS E INFORMAÇÕES
 
@@ -446,7 +452,9 @@ CAPÍTULO VII - ASSEMBLEIAS DE COTISTAS
 
 Caso a classe possua subclasses de cotas, para fins de quórum em assembleia de cotistas, o regulamento do fundo deve dispor sobre os votos atribuídos a cada subclasse na assembleia.
 
-Parágrafo único. Caso a matéria em deliberação resulte ou possa resultar em uma redução do índice de subordinação de uma determinada subclasse de cotas, somente podem votar os titulares de cotas seniores, assim como titulares de cotas mezanino que não se subordinem à subclasse em deliberação.
+§ 1º Caso a matéria em deliberação resulte ou possa resultar em uma redução do índice de subordinação de uma determinada subclasse de cotas, somente podem votar os titulares de cotas seniores, assim como titulares de cotas mezanino que não se subordinem à subclasse em deliberação.
+
+§ 2º Em acréscimo às hipóteses previstas no § 1º do art. 78 da parte geral da Resolução, o regulamento pode permitir o voto dos prestadores de serviços da classe de cotas de que sejam titulares de cotas subordinadas.
 
 ## Art. 29
 
@@ -596,7 +604,7 @@ No âmbito das diligências relacionadas à aquisição de direitos creditórios
 
 § 3º Caso o reduzido valor médio dos direitos creditórios não justifique a realização de verificação do lastro dos direitos creditórios sequer por amostragem, o regulamento pode dispensar tal verificação, hipótese na qual deve especificar os parâmetros relativos à diversificação de devedores, quantidade e valor médio dos créditos que ensejam a dispensa.
 
-§ 4º O gestor pode contratar terceiros para efetuar a verificação do lastro de que trata este artigo, inclusive a entidade registradora, o custodiante ou a consultoria especializada, desde que o agente contratado não seja sua parte relacionada, devendo constar do contrato de prestação de serviços as regras e procedimentos aplicáveis à verificação.
+§ 4º O gestor pode contratar terceiros para efetuar a verificação do lastro de que trata este artigo, inclusive a entidade registradora, o custodiante ou a consultoria especializada, devendo constar do contrato de prestação de serviços as regras e procedimentos aplicáveis à verificação.
 
 § 5º Caso contrate prestador de serviços para efetuar a verificação do lastro, o gestor deve fiscalizar sua atuação no tocante à observância às regras e procedimentos aplicáveis à verificação.
 

@@ -486,9 +486,11 @@ II – taxa máxima de custódia;
 
 III – encargos com empréstimos contraídos em nome da classe de cotas;
 
-IV – prêmios de seguro; e
+IV – prêmios de seguro;
 
-V – inerentes à realização de reuniões de comitês ou conselhos, dentro de limites estabelecidos no regulamento.
+V – inerentes à realização de reuniões de comitês ou conselhos, dentro de limites estabelecidos no regulamento; e
+
+VI – contratação de terceiros para prestar serviços legais, fiscais, contábeis e de consultoria especializada, dentro de limites estabelecidos pelo regulamento.
 
 CAPÍTULO X – DIVULGAÇÃO DE INFORMAÇÕES
 

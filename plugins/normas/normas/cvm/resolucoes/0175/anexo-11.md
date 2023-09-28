@@ -68,6 +68,10 @@ II – no caso de morte do participante ou do segurado, providenciar o pagamento
 
 § 2º Na hipótese da alínea “b” do inciso I do caput, após efetuada a transferência de titularidade para a entidade ou a seguradora, as cotas devem ser resgatadas em prazo não superior a 5 (cinco) dias úteis.
 
+## Art. 7º-A
+
+Em acréscimo aos encargos dispostos no art. 117 da parte geral da Resolução, o regulamento pode prever como encargo uma taxa de estruturação e manutenção de planos de previdência e de seguros de pessoas.
+
 CAPÍTULO V – COTAS
 
 ## Art. 8º

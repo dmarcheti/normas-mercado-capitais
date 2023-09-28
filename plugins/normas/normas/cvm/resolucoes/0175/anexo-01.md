@@ -304,7 +304,7 @@ IV - disponibilizar as informações da classe de forma equânime entre todos os
 
 § 4º As operações omitidas com base no parágrafo anterior devem ser divulgadas na forma do inciso II do art. 24 no prazo máximo de:
 
-I - 30 (trinta) dias, improrrogáveis, nas classes tipificadas como "Renda Fixa" que sejam "Longo Prazo", "Referenciada" ou "Simples"; e
+I – 30 (trinta) dias, improrrogáveis, nas classes tipificadas como “Renda Fixa” que sejam “Curto Prazo”, “Referenciada” ou “Simples”; e
 
 II - nos demais casos, 90 (noventa) dias após o encerramento do mês, podendo esse prazo ser prorrogado uma única vez, em caráter excepcional, e com base em solicitação fundamentada submetida à aprovação da CVM, até o prazo máximo de 180 (cento e oitenta dias).
 
@@ -732,7 +732,11 @@ I - a aplicação de mais de 20% (vinte por cento) do patrimônio líquido da cl
 
 II - a aquisição de ações de emissão do gestor e de companhias integrantes de seu grupo econômico, exceto no caso de a política de investimento consistir em buscar reproduzir índice de mercado do qual as referidas ações façam parte, hipótese em que podem ser adquiridas na mesma proporção de sua participação no respectivo índice, observado o § 3º.
 
-§ 3º A vedação de que trata o § 2º, inciso I, não é aplicável nos casos em que a política de investimento consistir em investir, no mínimo, 95% (noventa e cinco por cento) do patrimônio líquido em ações ou certificados de depósito de ações do próprio gestor ou companhias de seu grupo econômico.
+§ 3º A vedação de que trata o § 2º não é aplicável nos seguintes casos:
+
+I – quando a política de investimento consistir em investir, no mínimo, 95% (noventa e cinco por cento) do patrimônio líquido em ações ou certificados de depósito de ações do próprio gestor ou companhias de seu grupo econômico, ou
+
+II – ações que integrem índice geral representativo das ações de maior negociabilidade no mercado brasileiro.
 
 § 4º O valor das posições em contratos derivativos é considerado no cálculo dos limites estabelecidos neste artigo, cumulativamente, em relação:
 
@@ -780,9 +784,11 @@ a) cotas de FIF destinadas exclusivamente a investidores qualificados, sendo de 
 
 b) cotas de fundos de investimento imobiliário – FII;
 
-c) cotas de fundos de investimento em direitos creditórios – FIDC, sendo de 5% (cinco por cento) o limite para aplicação em cotas de FIDC cujas políticas de investimento admitam a aquisição de direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II; e
+c) cotas de fundos de investimento em direitos creditórios – FIDC, sendo de 5% (cinco por cento) o limite para aplicação em cotas de FIDC cujas políticas de investimento admitam a aquisição de direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II;
 
-d) certificados de recebíveis, sendo de 5% (cinco por cento) o limite para aplicação em certificados de recebíveis cujo lastro seja composto por direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II;
+d) certificados de recebíveis, sendo de 5% (cinco por cento) o limite para aplicação em certificados de recebíveis cujo lastro seja composto por direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II; e
+
+e) valores mobiliários representativos de dívida de emissão de companhia emissora não registrada na CVM;
 
 II - até 15% (quinze por cento) do patrimônio líquido no conjunto dos seguintes ativos:
 
@@ -799,6 +805,8 @@ b) CBIO e créditos de carbono; e
 c) criptoativos;
 
 d) valores mobiliários emitidos por meio de plataformas eletrônicas de investimento participativo, desde que sejam objeto de escrituração realizada por escriturador autorizado pela CVM; e
+
+e) outros ativos financeiros não previstos nos incisos I, II e IV deste artigo; e
 
 IV - não há limite de concentração por modalidade de ativo financeiro para o investimento em:
 
@@ -1294,7 +1302,7 @@ Os limites estabelecidos no art. 45, incisos I a III, e no art. 60 deste Anexo N
 
 § 1º Caso a classe de cotas seja exclusivamente destinada a investidores qualificados, os limites previstos no art. 45, §§ 1º e 2º; ficam majorados para, respectivamente, até 60% (sessenta por cento) e até 40% (quarenta por cento), preservado o requisito de existência de formador de mercado para as cotas que excederem ao limite ordinário.
 
-§ 2º Não existe limite por modalidade de ativo financeiro para aplicações em cotas de outros fundos que sejam igualmente destinadas a investidores qualificados.
+§ 2º Não existe limite por modalidade de ativo financeiro para aplicações em cotas de outros FIF que sejam igualmente destinadas a investidores qualificados.
 
 ## Art. 76
 

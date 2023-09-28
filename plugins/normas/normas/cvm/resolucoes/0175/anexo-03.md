@@ -104,7 +104,7 @@ f) localização geográfica das áreas em que a classe de cotas pode adquirir i
 
 III – taxa de performance, se for o caso;
 
-IV – número de cotas a serem emitidas para a constituição do patrimônio inicial e sua divisão em séries, se for o caso;
+IV – número de cotas a serem emitidas para a constituição do patrimônio inicial e sua divisão em subclasses, se for o caso;
 
 V – critérios para a subscrição de cotas por um mesmo investidor;
 
@@ -500,7 +500,7 @@ Seção IV – Remuneração
 
 ## Art. 33
 
-A remuneração pelos serviços prestados pelo administrador deve constar expressamente do regulamento e pode incluir uma parcela variável calculada em função do desempenho da classe de cotas ou de indicador relevante para o mercado imobiliário, que com a classe possa ser razoavelmente comparado.
+A remuneração pelos serviços prestados pelo administrador pode incluir uma parcela variável calculada em função do desempenho da classe de cotas ou de indicador relevante para o mercado imobiliário, que com a classe possa ser razoavelmente comparado.
 
 § 1º A taxa de administração da classe de cotas destinada ao público em geral cujas cotas sejam admitidas à negociação em mercado organizado de valores mobiliários deve corresponder:
 

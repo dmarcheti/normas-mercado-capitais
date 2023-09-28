@@ -274,7 +274,7 @@ IV - sucessão universal;
 
 V - dissolução de sociedade conjugal ou união estável por via judicial ou escritura pública que disponha sobre a partilha de bens;
 
-VI - substituição do administrador fiduciário ou portabilidade de planos de previdência;
+VI – transferência de administração ou portabilidade de planos de previdência;
 
 VII - integralização de participações acionárias em companhias ou no capital social de sociedades limitadas;
 
@@ -978,9 +978,9 @@ VII - o pedido de declaração judicial de insolvência da classe de cotas.
 
 ## Art. 71
 
-Anualmente, a assembleia especial de cotistas deve deliberar sobre as demonstrações contábeis da classe de cotas, assim como a assembleia geral de cotistas deve deliberar sobre as demonstrações contábeis do fundo, no prazo previsto nas regras específicas de cada categoria de fundo de investimento.
+Anualmente, a assembleia especial de cotistas deve deliberar sobre as demonstrações contábeis da classe de cotas, assim como a assembleia geral de cotistas deve deliberar sobre as demonstrações contábeis do fundo, no prazo de até 60 (sessenta) dias após o encaminhamento das demonstrações contábeis à CVM, contendo relatório do auditor independente.
 
-§ 1º A assembleia de cotistas somente pode ser realizada no mínimo 15 (quinze) dias após estarem disponíveis aos cotistas as demonstrações contábeis relativas ao exercício encerrado, contendo parecer do auditor independente.
+§ 1º A assembleia de cotistas somente pode ser realizada no mínimo 15 (quinze) dias após estarem disponíveis aos cotistas as demonstrações contábeis relativas ao exercício encerrado, contendo relatório do auditor independente.
 
 § 2º A assembleia de cotistas a que comparecerem todos os cotistas pode dispensar o prazo estabelecido no § 1º.
 
@@ -1010,7 +1010,7 @@ A convocação da assembleia de cotistas deve ser encaminhada a cada cotista da 
 
 Os prestadores de serviços essenciais, o custodiante, o cotista ou grupo de cotistas que detenha, no mínimo, 5% (cinco por cento) do total de cotas emitidas, podem convocar, a qualquer tempo, assembleia de cotistas para deliberar sobre ordem do dia de interesse do fundo, da classe ou da comunhão de cotistas.
 
-§ 1º O pedido de convocação pelo gestor ou por cotistas deve ser dirigida ao administrador, que deve, no prazo máximo de 30 (trinta) dias contado do recebimento, convocar a assembleia de cotistas.
+§ 1º O pedido de convocação pelo gestor, pelo custodiante ou por cotistas deve ser dirigido ao administrador, que deve, no prazo máximo de 30 (trinta) dias contado do recebimento, convocar a assembleia de cotistas.
 
 § 2º A convocação e a realização da assembleia devem ser custeadas pelos requerentes, salvo se a assembleia assim convocada deliberar em contrário.
 
