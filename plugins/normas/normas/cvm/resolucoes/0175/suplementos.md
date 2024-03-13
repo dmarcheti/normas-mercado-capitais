@@ -1409,6 +1409,11 @@ Conteúdo do Informe Mensal, conforme previsto no art. 36, I, do Anexo Normativo
 | 19 | Instrumentos financeiros derivativos |  |
 | 20 | Provisões para contingências |  |
 | 21 | Outros valores a pagar |  |
+| 22 | Provisões por garantias prestadas (fiança, aval, aceite ou outra coobrigação) |  |
+| Informações adicionais |  |  |
+| 23 | Valor total dos imóveis objeto de ônus reais |  |
+| 24 | Valor total das garantias prestadas em operações da classe |  |
+| 25 | Valor total das garantias prestadas em operações de cotistas (art. 32, § 3º, Anexo Normativo III) |  |
 
 Notas:
 

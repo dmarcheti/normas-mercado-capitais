@@ -1162,7 +1162,7 @@ I - a contratação não ocorre em nome do fundo, salvo previsão no regulamento
 
 II - caso o prestador de serviço contratado não seja um participante de mercado regulado pela CVM ou o serviço prestado ao fundo não se encontre dentro da esfera de atuação da Autarquia, o gestor deve fiscalizar as atividades do terceiro contratado relacionadas ao fundo.
 
-Subseção III - Negociação de Ativos em Mercados Organizados
+Subseção III - Negociação de Ativos
 
 ## Art. 86
 
@@ -1175,6 +1175,8 @@ Compete ao gestor negociar os ativos da carteira, bem como firmar, quando for o 
 ## Art. 87
 
 O gestor deve encaminhar ao administrador, nos 5 (cinco) dias úteis subsequentes à sua assinatura, uma cópia de cada documento que firmar em nome da classe de cotas.
+
+Subseção III-A - Ordens em Mercados Organizados
 
 ## Art. 88
 
@@ -1836,7 +1838,7 @@ II - a liquidação do fundo.
 
 ## Art. 134
 
-Os fundos de investimento que estejam em funcionamento na data de início da vigência da norma devem adaptar-se integralmente às disposições desta Resolução até 31 de dezembro de 2024, com exceção dos fundos de investimento em direitos creditórios - FIDC, que devem adaptar-se até 1º de abril de 2024.
+Os fundos de investimento que estejam em funcionamento na data de início da vigência da norma devem adaptar-se integralmente às disposições desta Resolução até 30 de junho de 2025, com exceção dos fundos de investimento em direitos creditórios - FIDC, que devem adaptar-se até 29 de novembro de 2024.
 
 Parágrafo único. Uma vez concluída a adaptação do fundo de investimento, o administrador pode transformá-lo em uma classe de cotas de outro fundo, sem que seja necessária deliberação da assembleia de cotistas.
 
@@ -1908,13 +1910,13 @@ Parágrafo único. O disposto no caput somente entra em vigor após a implementa
 
 Esta Resolução entra em vigor em 2 de outubro de 2023.
 
-§ 1º O art. 48, § 2º, inciso XI desta Resolução, referente ao estabelecimento da taxa máxima de distribuição no regulamento, bem como os demais comandos relacionados à referida taxa, entram em vigor em 1º de abril de 2024.
+§ 1º O art. 48, § 2º, inciso XI, desta Resolução, referente ao estabelecimento da taxa máxima de distribuição no regulamento, bem como os demais comandos relacionados à referida taxa, entram em vigor em 1º de novembro de 2024.
 
-§ 2º O art. 5º desta Resolução, referente à possibilidade de os fundos possuírem diferentes classes e subclasses de cotas, entra em vigor em 1º de abril de 2024.
+§ 2º O art. 5º desta Resolução, referente à possibilidade de os fundos possuírem diferentes classes e subclasses de cotas, entra em vigor em 1º de outubro de 2024.
 
 § 3º (Revogado)
 
-§ 4º O art. 99 desta Resolução, referente à existência de acordo de remuneração com base na taxa de administração, performance ou gestão, entra em vigor em 1º de abril de 2024.
+§ 4º O art. 99 desta Resolução, referente à existência de acordo de remuneração com base na taxa de administração, performance ou gestão, entra em vigor em 1º de outubro de 2024.
 
 ## Art. 141
 

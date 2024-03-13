@@ -470,7 +470,7 @@ Em acréscimo às vedações previstas no art. 101 da parte geral da Resolução
 
 I – conceder crédito sob qualquer modalidade;
 
-II – prestar fiança, aval, aceite ou coobrigar-se sob qualquer forma nas operações da classe de cotas;
+II – (Revogado)
 
 III – aplicar no exterior recursos captados no País;
 
@@ -484,7 +484,7 @@ c) a classe de cotas e o representante de cotistas; e
 
 d) a classe de cotas e o empreendedor;
 
-V – constituir ônus reais sobre os imóveis integrantes do patrimônio da classe de cotas;
+V - constituir ônus reais sobre os imóveis integrantes do patrimônio da classe de cotas, exceto para garantir obrigações assumidas pela classe;
 
 VI – realizar operações com ativos financeiros ou modalidades operacionais não previstas neste Anexo Normativo III;
 
@@ -495,6 +495,8 @@ VIII – realizar operações com derivativos, exceto quando tais operações fo
 § 1º A vedação prevista no inciso V do caput não impede a aquisição de imóveis sobre os quais tenham sido constituídos ônus reais anteriormente ao seu ingresso no patrimônio.
 
 § 2º A classe de cotas pode emprestar títulos e valores mobiliários, desde que tais operações de empréstimo sejam cursadas exclusivamente por meio de serviço autorizado pelo Banco Central do Brasil ou pela CVM, bem como usá-los para prestar garantias de operações próprias.
+
+§ 3º Na classe exclusiva, o Regulamento pode permitir que o gestor preste fiança, aval, aceite ou coobrigue-se sob qualquer forma, assim como que constitua ônus reais sobre os imóveis integrantes do patrimônio da classe, para garantir obrigações assumidas pelos cotistas.
 
 Seção IV – Remuneração
 
