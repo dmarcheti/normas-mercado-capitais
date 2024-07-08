@@ -1466,6 +1466,20 @@ O fundo de investimento deve manter o patrimônio aplicado em ativos nos termos 
 
 É vedado ao fundo a aplicação em cotas de classes que nele invistam, assim como é vedada a aplicação de recursos de uma classe em cotas de outra classe do mesmo fundo.
 
+## Art. 110-A
+
+Pode ser constituída classe de cotas com a finalidade específica de aplicar recursos em ativos originados em projetos que estimulem a cadeia produtiva da reciclagem (“classe de cotas ProRecicle”), que tenham sido aprovados nos termos do art. 3º da Lei nº 14.260, de 8 de dezembro de 2021.
+
+§ 1º Somente as classes de cotas ProRecicle podem conter em sua denominação o termo “ProRecicle”.
+
+§ 2º Caso todas as classes de cotas do fundo sejam ProRecicle, sua denominação poderá conter o sufixo “ProRecicle”.
+
+§ 3º A classe de cotas ProRecicle pode aplicar recursos em cotas de fundos de investimento em renda fixa e títulos de renda fixa, desde que de modo compatível com suas necessidades de liquidez para cumprimento de obrigações.
+
+## Art. 110-B
+
+Em acréscimo às informações periódicas previstas na regra específica da categoria a que pertencer a classe de cotas ProRecicle, seu administrador deve divulgar em página na rede mundial de computadores, de livre acesso ao público em geral, semestralmente, no prazo de trinta dias após o encerramento do semestre a que se referir, o formulário eletrônico cujo conteúdo reflita o Suplemento N.
+
 CAPÍTULO X - CLASSES RESTRITAS E PREVIDENCIÁRIAS
 
 Seção I - Classes Restritas
