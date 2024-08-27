@@ -80,6 +80,8 @@ XXVIII - intermediário: instituição habilitada a atuar como integrante do sis
 
 XXIX - partes relacionadas: tal como definidas pelas regras contábeis expedidas pela CVM que tratam dessa matéria;
 
+XXIX-A - portabilidade: transferência de cota de fundo de investimento sem alteração de titularidade.
+
 XXX - prestadores de serviços essenciais: administrador e gestor do fundo;
 
 XXXI - regulamento (do fundo): é o documento que rege a constituição e o funcionamento do fundo de investimento e contém, no mínimo, as disposições obrigatórias previstas nesta Resolução;
@@ -511,6 +513,12 @@ O contrato firmado entre o gestor, em nome do fundo, e o distribuidor que atue p
 I - o distribuidor mantenha, em relação a tais clientes, todos os direitos e obrigações definidos na Subseção V, pelo período em que tais clientes mantiverem o investimento; ou
 
 II - o gestor assuma, caso habilitado, ou contrate distribuidor habilitado a assumir todos os direitos e obrigações definidos na Subseção V, pelo período em que for mantido o investimento.
+
+Subseção VII - Portabilidade de Cotas
+
+## Art. 39-A
+
+Solicitações de portabilidade apresentadas por cotista ou por distribuidor contratado devem ser processadas nos termos e prazos previstos na regulamentação vigente sobre portabilidade de valores mobiliários.
 
 Seção IV - Resgate e Amortização
 
