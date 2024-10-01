@@ -1264,9 +1264,9 @@ ATENÇÃO!!!
 
 A existência de campo específico neste informe não significa autorização para sua utilização. O administrador deve observar os critérios estabelecidos na Resolução e no Anexo Normativo que regulamentam a constituição, a administração e o funcionamento do fundo.
 
-SUPLEMENTO H – LAUDO DE AVALIAÇÃO – FII
+SUPLEMENTO H – LAUDO DE AVALIAÇÃO – FII e FIAGRO
 
-Conteúdo informacional mínimo para o Laudo de Avaliação, conforme previsto no art. 9º do Anexo Normativo III
+Conteúdo informacional mínimo para o Laudo de Avaliação, conforme previsto nos Anexos Normativos III e VI
 
 I – ELEMENTOS DE IDENTIFICAÇÃO
 
@@ -1274,7 +1274,7 @@ I – ELEMENTOS DE IDENTIFICAÇÃO
 
 2. Identificação do imóvel objeto da avaliação;
 
-3. Identificação do FII e de seu administrador;
+3. Identificação do fundo, da classe de cotas, se for o caso, e de seu administrador;
 
 4. Datas de referência da atual e da última avaliação realizada do imóvel.
 
@@ -1967,3 +1967,358 @@ Conteúdo do Informe Semestral, conforme previsto no art. 110-B da parte geral.
 | 3.6 Organização de redes de comercialização e de cadeias produtivas, e apoio a essas redes, integradas por micro e pequenas empresas, cooperativas e associações de catadores de materiais reutilizáveis e recicláveis |  |  |
 | 3.7 Fortalecimento da participação dos catadores de materiais reutilizáveis e recicláveis nas cadeias de reciclagem |  |  |
 | 3.8 Desenvolvimento de novas tecnologias para agregar valor ao trabalho de coleta de materiais reutilizáveis e recicláveis |  |  |
+
+SUPLEMENTO O – INFORME MENSAL – FIAGRO
+
+Conteúdo do Informe Mensal do FIAGRO, conforme previsto no art. 33, I, do Anexo Normativo VI
+
+| Nome da Classe | CNPJ da Classe | Data do Registro de Funcionamento |
+| --- | --- | --- |
+| Público-Alvo (Investidores em geral, Investidor Qualificado ou Profissional) | Código ISIN (se houver) |  |
+| Classe Exclusiva (Sim ou Não) | Cotistas possuem vínculo familiar ou societário familiar (Sim ou Não) |  |
+| Além do Anexo Normativo VI, a classe está sujeita às regras de outro Anexo Normativo (art. 2º)? Caso positivo, informar o Anexo aplicável. |  |  |
+| Classificação da autorregulação (se houver) |  |  |
+| Prazo de Duração | Encerramento do exercício social |  |
+| Mercado de negociação das cotas (Bolsa/Balcão/Balcão não organizado) | Entidade administradora de mercado organizado, se for o caso |  |
+| Nome do Administrador | CNPJ do Administrador |  |
+| E-mail do Administrador | Serviço de atendimento aos cotistas (art. 104, VI, parte geral da Resolução) |  |
+| Site da Classe |  |  |
+| Nome do Gestor | CNPJ do Gestor |  |
+| Competência | mm/aaaa |  |
+| Número de cotistas1 | Quantidade total |  |
+| Pessoa natural |  |  |
+| Pessoa jurídica, exceto instituições financeiras |  |  |
+| Instituições financeiras |  |  |
+| Investidores não residentes |  |  |
+| Entidade previdência complementar, exceto RPPS |  |  |
+| Regime próprio de previdência dos servidores públicos - RPPS |  |  |
+| Sociedade seguradora ou resseguradora |  |  |
+| Fundos de investimento |  |  |
+| Cotistas de distribuidores por conta e ordem |  |  |
+| Outros tipos de cotistas |  |  |
+| 1 | Ativo – R$ | = 10+11+12 |
+| 2 | Patrimônio Líquido – R$ | = 1-25 |
+| 3 | Número de Cotas Emitidas |  |
+| 3.1 | Subclasse 1 (ou classe única) |  |
+| 3.2 | Subclasse 2 |  |
+| 3.3 | Subclasse N |  |
+| 4 | Valor Patrimonial da Cota – R$ |  |
+| 4.1 | Subclasse 1 (ou classe única) | =2/4.1 |
+| 4.2 | Subclasse 2 | =2/4.2 |
+| 4.3 | Subclasse N | =2/4.3 |
+| 5 | Despesas com a taxa de administração em relação ao patrimônio líquido do mês (%) |  |
+| 6 | Despesas com a taxa de gestão em relação ao patrimônio líquido do mês (%) |  |
+| 7 | Despesas com a taxa de distribuição em relação ao patrimônio líquido do mês (%) |  |
+| 8 | Rentabilidade Efetiva Mensal | = 8.1+8.2 |
+| 8.1 | Rentabilidade Patrimonial do Mês de Referência2 |  |
+| 8.2 | Dividend Yield do Mês de Referência3 |  |
+| 9 | Amortizações de cotas do Mês de Referência4 (%) |  |
+| Informações do Ativo | Valor (R$) |  |
+| 10 | Total Mantido para as Necessidades de Liquidez (Caixa) | = 10.1+10.2 |
+| 10.1 | Fundos de investimento em renda fixa |  |
+| 10.2 | Títulos de renda fixa |  |
+| 11 | Total investido | =11.1+11.2+11.3+11.4+11.5+11.6+11.7+11.8 |
+| 11.1 | Imóveis rurais |  |
+| 11.2 | Participações societárias (companhias fechadas e sociedades limitadas) |  |
+| 11.3 | Ativos financeiros (lato sensu) | = 11.3.1+11.3.2+11.3.3 |
+| 11.3.1 | Ativos financeiros | = 11.3.1.1+11.3.1.2 |
+| 11.3.1.1 | Ativos financeiros de emissão de instituição financeira | =11.3.1.1.1:11.3.1.1.3 |
+| 11.3.1.1.1 | Letras de Crédito do Agronegócio - LCA |  |
+| 11.3.1.1.2 | Letras de Crédito Imobiliário - LCI |  |
+| 11.3.1.1.3 | Outros ativos de emissão de instituição financeira |  |
+| 11.3.1.2 | Outros ativos financeiros |  |
+| 11.3.2 | Valores mobiliários | =11.3.2.1+11.3.2.2 |
+| 11.3.2.1 | Títulos de participações societárias | =11.3.2.1.1+11.3.2.1.2 |
+| 11.3.2.1.1 | Ações e certificados de depósitos de ações |  |
+| 11.3.2.1.2 | Outros títulos de participação |  |
+| 11.3.2.2 | Títulos de dívida de corporativa | = 11.3.2.2.1+11.3.2.2.2+11.3.2.2.3 |
+| 11.3.2.2.1 | Debêntures | =11.3.2.2.1.1+11.3.2.2.1.2 |
+| 11.3.2.2.1.1 | Debêntures conversíveis |  |
+| 11.3.2.2.1.2 | Debêntures não conversíveis |  |
+| 11.3.2.2.2 | Notas comerciais | = 11.3.2.2.2.1+11.3.2.2.2.2 |
+| 11.3.2.2.2.1 | Notas comerciais de curto prazo (até 12 meses) |  |
+| 11.3.2.2.2.2 | Notas comerciais de longo prazo (maior que 12 meses) |  |
+| 11.3.2.2.3 | Outros títulos de dívida corporativa |  |
+| 11.3.3 | Títulos de crédito | = 11.3.3.1+11.3.3.2+11.3.3.3+11.3.3.4 |
+| 11.3.3.1 | Cédula de produtor rural – CPR | = 11.3.3.1.1+11.3.3.1.2 |
+| 11.3.3.1.1 | CPR financeira |  |
+| 11.3.3.1.2 | CPR física |  |
+| 11.3.3.2 | Certificado de direitos creditórios do agronegócio – CDCA |  |
+| 11.3.3.3 | Certificado de depósito agropecuário – CDA e warrant agropecuário – WA |  |
+| 11.3.3.4 | Outros títulos de crédito do agronegócio | = 11.3.3.4.1+11.3.3.4.2 |
+| 11.3.3.4.1 | Títulos de crédito com liquidação financeira | = 11.3.3.4.1.1+11.3.3.4.1.2 |
+| 11.3.3.4.1.1 | Devedor pessoa jurídica |  |
+| 11.3.3.4.1.2 | Devedor pessoa natural |  |
+| 11.3.3.4.2 | Títulos de crédito com liquidação física | = 11.3.3.4.2.1+11.3.3.4.2.2 |
+| 11.3.3.4.2.1 | Devedor pessoa jurídica |  |
+| 11.3.3.4.2.2 | Devedor pessoa natural |  |
+| 11.4 | Demais Direitos creditórios5 | = 11.4.1+11.4.2 |
+| 11.4.1 | Direitos creditórios do agronegócio |  |
+| 11.4.2 | Direitos creditórios relativos a imóveis rurais |  |
+| 11.5 | Títulos de Securitização | = 11.5.1:11.5.3 |
+| 11.5.1 | Certificados de recebíveis do agronegócio – CRA |  |
+| 11.5.2 | Certificados de recebíveis imobiliários – CRI |  |
+| 11.5.3 | Outros títulos de securitização |  |
+| 11.6 | Cotas de fundos de investimento | = 11.6.1:11.6.6 |
+| 11.6.1 | FIF |  |
+| 11.6.2 | FIDC |  |
+| 11.6.3 | FII |  |
+| 11.6.4 | FIP |  |
+| 11.6.5 | FIIM (ETF) |  |
+| 11.6.6 | FIAGRO |  |
+| 11.7 | Créditos de carbono do agronegócio |  |
+| 11.8 | CBIO – créditos de descarbonização |  |
+| 12 | Valores a Receber |  |
+| 13 | Prazo de vencimento ou liquidez dos ativos6 | = 13.1+13.2 |
+| 13.1 | Total dos ativos a vencer ou com liquidez: | =13.1.1:13.1.9 |
+| 13.1.1 | Até 30 dias |  |
+| 13.1.2 | De 31 e 60 dias |  |
+| 13.1.3 | De 61 e 90 dias |  |
+| 13.1.4 | De 91 e 120 dias |  |
+| 13.1.5 | De 121 e 180 dias |  |
+| 13.1.6 | De 180 e 360 dias |  |
+| 13.1.7 | De 361 e 720 dias |  |
+| 13.1.8 | De 720 a 1080 dias |  |
+| 13.1.9 | Acima de 1080 dias |  |
+| 13.2 | Total dos ativos vencidos | = 13.2.1:13.2.9 |
+| 13.2.1 | Até 30 dias |  |
+| 13.2.2 | De 31 a 60 dias |  |
+| 13.2.3 | De 61 a 90 dias |  |
+| 13.2.4 | De 91 a 120 dias |  |
+| 13.2.5 | De 121 a 180 dias |  |
+| 13.2.6 | De 181 a 360 dias |  |
+| 13.2.7 | De 361 a 720 dias |  |
+| 13.2.8 | De 720 a 1080 dias |  |
+| 13.2.9 | Acima de 1080 dias |  |
+| Informações do Passivo | Valor (R$) |  |
+| 14 | Rendimentos a distribuir |  |
+| 15 | Taxa de administração a pagar |  |
+| 16 | Taxa de gestão a pagar |  |
+| 17 | Taxa de performance a pagar |  |
+| 18 | Taxa de distribuição a pagar |  |
+| 19 | Obrigações por aquisição de ativos |  |
+| 20 | Adiantamento por venda de ativos |  |
+| 21 | Adiantamento de valores a receber |  |
+| 22 | Instrumentos financeiros derivativos (hedge) |  |
+| 23 | Provisões para contingências |  |
+| 24 | Outros valores a pagar |  |
+| 25 | Total do Passivo | = SOMA (14:24) |
+
+Notas:
+
+1. A relação de cotistas por tipo de investidor deve ser encaminhada, obrigatoriamente, apenas para os meses de março, junho, setembro e dezembro cada ano. Nos demais meses o administrador deve informar somente o número total de cotistas.
+
+2. Rentabilidade Patrimonial do Mês de Referência (%) = [(Valor patrimonial da cota do último dia útil do mês de referência + Soma das amortizações por cota realizadas no mês de referência) / Valor patrimonial da cota do último dia útil do mês anterior ao de referência)] – 1.
+
+3. Dividend Yield do Mês de Referência (%) = Rendimentos declarados por cota no mês de referência/ Valor patrimonial da cota do último dia útil do mês anterior ao de referência.
+
+4. Amortizações de cotas do Mês de Referência (%) = [(Soma das amortizações por cota realizadas no mês de referência) / (Valor patrimonial da cota do último dia útil do mês anterior ao de referência)] – 1. As amortizações não se confundem com os rendimentos declarados/distribuídos.
+
+5. Excetuados valores mobiliários, ativos financeiros, títulos de crédito e títulos de securitização, que devem ser lançados nos campos específicos.
+
+6. Caso o ativo não possua um prazo de vencimento, deve ser utilizado o prazo esperado para seu resgate ou negociação em mercado secundário, conforme o caso.
+
+SUPLEMENTO P – LÂMINA DE INFORMAÇÕES BÁSICAS – FIAGRO
+
+Conteúdo da lâmina de informações básicas dos FIAGRO, conforme previsto no art. 8º do Anexo Normativo VI
+
+Esta lâmina contém um resumo das informações básicas sobre o [nome completo do fundo ou da classe de cotas], administrado por [nome completo do administrador] e gerido por [nome completo do gestor]. Informações mais detalhadas podem ser obtidas em [endereço eletrônico]. Ao realizar aplicações adicionais, consulte a versão mais atualizada da lâmina.
+
+Antes de investir, compare com outros FIAGRO destinados ao público em geral.
+
+1. PÚBLICO-ALVO: o fundo é destinado a investidores que pretendam: [descrição do público-alvo] e [restrições de investimento].
+
+2. OBJETIVOS: [descrição resumida dos objetivos da classe, de modo que o investidor possa ter um entendimento razoável da natureza e dos riscos envolvidos no investimento].
+
+3. POLÍTICA DE INVESTIMENTO:
+
+a. descrição resumida da política de investimento
+
+b. A classe pode:
+
+| Aplicar em ativos financeiros de emissão ou que envolvam coobrigação do gestor e suas partes relacionadas? | [% do Patrimônio líquido] ou [não] |
+| --- | --- |
+| Aplicar em operações compromissadas que tenham como contraparte o administrador, gestor e suas partes relacionadas? | [% do Patrimônio líquido] ou [não] |
+| Aplicar em cotas de fundos de investimento que contem com os serviços do gestor? | [% do Patrimônio líquido] ou [não] |
+| Utilizar derivativos para proteção patrimonial? | [Sim/Não] |
+
+4. CONDIÇÕES DE INVESTIMENTO
+
+| Investimento inicial mínimo | R$ [●] OU [não há] |
+| --- | --- |
+| Horário para aplicação e resgate | De hh:mm às hh:mm |
+| Valor mínimo para permanência | R$ [●] OU [não há] |
+| Prazo de carência | Os recursos investidos no fundo não podem ser resgatados antes de [●] dias contados da data da aplicação OU [outras condições de carência] OU [não há]. |
+| Pagamento dos resgates | O prazo para o efetivo pagamento dos resgates é de [●]dias [úteis ou corridos], contados da data do pedido de resgate. |
+| Taxa de administração | [[●]% do patrimônio líquido ao ano] OU [A taxa de administração pode variar de [●]% a [●]% do patrimônio líquido ao ano]. |
+| Taxa de entrada | [Para entrar no fundo, o investidor paga uma taxa de [●]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |
+| Taxa de saída | [Para resgatar suas cotas do fundo [, antes de decorridos [●] dias da data de aplicação], o investidor paga uma taxa de [●]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |
+| Remuneração do gestor | [Descrição sucinta da remuneração do gestor, incluindo as taxas de gestão e, se houver, de performance] |
+
+5. RISCO: o [nome do gestor] classifica os fundos que gere numa escala de 1 a 5 de acordo com o risco envolvido na estratégia de investimento de cada um deles. Nessa escala, a classificação da classe é (5 tem mais risco que que 1):
+
+1 2 3 4 5
+
+6. SIMULAÇÃO DE RENTABILIDADE:
+
+a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) na classe no primeiro dia útil de [ano imediatamente anterior ao de emissão da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano de emissão da lâmina], você poderia resgatar R$[●], já deduzidos impostos no valor de R$[●].
+
+b. Despesas: As despesas totais da classe teriam custado R$[●].
+
+7. RISCOS SOCIOAMBIENTAIS
+
+Descrição da forma de gerenciamento dos riscos socioambientais incidentes sobre a carteira de ativos ou explicação sobre a desnecessidade de executar a tarefa.
+
+8. POLÍTICA DE DISTRIBUIÇÃO DE COTAS:
+
+Descrição resumida da política de distribuição de cotas, abrangendo, no mínimo, o seguinte:
+
+a. descrição da forma de remuneração dos distribuidores;
+
+b. se o principal distribuidor oferta, para o público-alvo do fundo, preponderantemente fundos geridos por um único gestor ou por gestores ligados a um mesmo grupo econômico; e
+
+c. qualquer informação que indique a existência de conflito de interesses no esforço de venda
+
+8. ATENDIMENTO AO COTISTA:
+
+a. Telefone
+
+b. Página na rede mundial de computadores
+
+c. Reclamações: [endereço eletrônico e demais canais disponíveis]
+
+d. Serviço de Atendimento ao Cidadão da Comissão de Valores Mobiliários: www.gov.br/CVM.
+
+SUPLEMENTO Q – INFORME ANUAL – FIAGRO
+
+Conteúdo do informe anual dos FIAGRO, conforme previsto no art. 33, III, b, do Anexo Normativo VI
+
+| Nome da Classe | CNPJ da Classe | Data do Registro de Funcionamento |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Público-Alvo (Investidores em geral, Investidor Qualificado ou Profissional) | Código ISIN (se houver) |  |  |  |  |  |
+| Classe Exclusiva (Sim ou Não) | Cotistas possuem vínculo familiar ou societário familiar (Sim ou Não) |  |  |  |  |  |
+| Classe Previdenciária (Sim ou Não) | (entidades abertas ou fechadas de previdência privada / RPPS / planos de previdência complementar aberta e seguros de pessoas / FAPI) |  |  |  |  |  |
+| Classificação autorregulação (se houver) |  |  |  |  |  |  |
+| Prazo de Duração: mm/aaaa ou “Indeterminado” | Encerramento do exercício social |  |  |  |  |  |
+| Mercado de negociação das cotas (Bolsa/Balcão/Balcão não organizado) | Entidade administradora de mercado organizado, se for o caso |  |  |  |  |  |
+| Nome do Administrador | CNPJ do Administrador |  |  |  |  |  |
+| Competência | aaaa |  |  |  |  |  |
+| 1. | Prestadores de serviços | CNPJ |  |  |  |  |
+| 1.1 | Gestor: |  |  |  |  |  |
+| 1.2 | Custodiante: |  |  |  |  |  |
+| 1.3 | Auditor Independente: |  |  |  |  |  |
+| 1.4 | Formador de Mercado: |  |  |  |  |  |
+| 1.5 | Distribuidor de Cotas: |  |  |  |  |  |
+| 1.8 | Outros prestadores de serviços1: |  |  |  |  |  |
+|  | Prestador de serviços 1: |  |  |  |  |  |
+|  | Prestador de serviços 2: |  |  |  |  |  |
+|  | Prestador de serviços N: |  |  |  |  |  |
+| 2. | Investimentos |  |  |  |  |  |
+| 2.1 | Descrição dos negócios realizados no período |  |  |  |  |  |
+|  | Relação dos Ativos adquiridos no período | Objetivos | Montantes Investidos | Origem dos recursos |  |  |
+|  | Ativo 1 |  |  |  |  |  |
+|  | Ativo 2 |  |  |  |  |  |
+|  | Ativo N |  |  |  |  |  |
+| 2.2 | Informações sobre a regularidade da inscrição dos imóveis rurais, se houver, no Cadastro Ambiental Rural – CAR ou explicação sobre sua desnecessidade. |  |  |  |  |  |
+| 3. | Programa de investimentos para os exercícios seguintes, incluindo, se necessário, as informações com relação aos investimentos ainda não realizados: |  |  |  |  |  |
+| 4 | Análise do gestor sobre: |  |  |  |  |  |
+| 4.1 | Resultado no exercício findo |  |  |  |  |  |
+| 4.2 | Conjuntura econômica do segmento de atuação relativo ao período findo |  |  |  |  |  |
+| 4.3 | Perspectiva para o período seguinte com base na composição da carteira |  |  |  |  |  |
+| 5. | Riscos incorridos pelos cotistas inerentes aos investimentos: |  |  |  |  |  |
+| 6. | Relação de processos judiciais, não sigilosos e relevantes |  |  |  |  |  |
+|  | Processo 1, 2, 3,..., N. |  |  |  |  |  |
+|  | Nº do Processo | Juízo | Instância | Data da Instauração | Valor da causa (R$) |  |
+|  |  |  |  |  |  |  |
+|  | Partes no processo: |  |  |  |  |  |
+|  | Principais fatos | Chance de perda (provável, possível ou remota) |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | Análise do impacto em caso de perda do processo: |  |  |  |  |  |
+| 7. | Relação de processos judiciais, repetitivos ou conexos, baseados em causas jurídicas semelhantes, não sigilosos e relevantes |  |  |  |  |  |
+|  | Processo 1, 2, 3,..., N. |  |  |  |  |  |
+|  | Nº do Processo | Valores envolvidos |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | Causa da contingência: |  |  |  |  |  |
+| 8. | Análise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes: |  |  |  |  |  |
+| 9. | Assembleia Geral |  |  |  |  |  |
+| 9.1 | Endereços (físico ou eletrônico) nos quais os documentos relativos à assembleia estarão à disposição dos cotistas para análise: |  |  |  |  |  |
+| 9.2 | Indicação dos meios de comunicação disponibilizados aos cotistas para (i) a inclusão de matérias na ordem do dia de assembleias gerais e o envio de documentos pertinentes às deliberações propostas; (ii) solicitação de lista de endereços físicos e eletrônicos dos demais cotistas para envio de pedido público de procuração. |  |  |  |  |  |
+| 9.3 | Descrição das regras e procedimentos aplicáveis à participação dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprovação da qualidade de cotista e representação de cotistas em assembleia; (ii) procedimentos para a realização de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participação à distância e envio de comunicação escrita ou eletrônica de voto. |  |  |  |  |  |
+| 9.4 | Práticas para a realização de assembleia por meio eletrônico. |  |  |  |  |  |
+| 10. | Remuneração do Administrador e do Gestor |  |  |  |  |  |
+| 10.1 | Política de remuneração definida em regulamento: |  |  |  |  |  |
+|  | Valor pago no ano de referência (R$): | % sobre o patrimônio contábil: | % sobre o patrimônio a valor de mercado: |  |  |  |
+| 11. | Governança |  |  |  |  |  |
+| 11.1 | Representante(s) dos cotistas |  |  |  |  |  |
+|  | Nome: |  |  |  |  |  |
+|  | Idade: |  |  |  |  |  |
+|  | Profissão: |  |  |  |  |  |
+|  | CPF/CNPJ: |  |  |  |  |  |
+|  | E-mail: |  |  |  |  |  |
+|  | Formação acadêmica: |  |  |  |  |  |
+|  | Forma de remuneração (conforme definido em Assembleia): |  |  |  |  |  |
+|  | Valor pago no ano de referência (R$): | % sobre o patrimônio contábil: | % sobre o patrimônio a valor de mercado: |  |  |  |
+|  | Quantidade de cotas detidas da Classe: |  |  |  |  |  |
+|  | Quantidade de cotas da Classe compradas no período: | Quantidade de cotas da Classe vendidas no período: |  |  |  |  |
+|  | Data da eleição em Assembleia Geral: |  |  |  |  |  |
+|  | Término do Mandato: |  |  |  |  |  |
+|  | Principais experiências profissionais durante os últimos 5 anos |  |  |  |  |  |
+|  | Nome da empresa | Período | Cargo e funções inerentes ao cargo | Atividade principal da empresa |  |  |
+|  | Empresa 1 |  |  |  |  |  |
+|  | Empresa 2 |  |  |  |  |  |
+|  | Empresa N |  |  |  |  |  |
+|  | Relação de fundos em que exerça a função de Representante de Cotistas | Data da eleição em Assembleia Geral | Término do mandato |  |  |  |
+|  | Fundo 1 |  |  |  |  |  |
+|  | Fundo 2 |  |  |  |  |  |
+|  | Fundo N |  |  |  |  |  |
+|  | Descrição de qualquer dos seguintes eventos que tenham ocorrido durante os últimos 5 anos |  |  |  |  |  |
+|  | Evento | Descrição |  |  |  |  |
+|  | Qualquer condenação criminal |  |  |  |  |  |
+|  | Qualquer condenação em processo administrativo da CVM e as penas aplicadas |  |  |  |  |  |
+| 11.2 | Diretor Responsável pelo Fundo |  |  |  |  |  |
+|  | Nome: |  |  |  |  |  |
+|  | Idade: |  |  |  |  |  |
+|  | Profissão: |  |  |  |  |  |
+|  | CPF: |  |  |  |  |  |
+|  | E-mail: |  |  |  |  |  |
+|  | Formação acadêmica: |  |  |  |  |  |
+|  | Quantidade de cotas detidas: |  |  |  |  |  |
+|  | Cotas compradas no período (R$): | Cotas vendidas no período (R$): |  |  |  |  |
+|  | Data de início na função: |  |  |  |  |  |
+|  | Principais experiência profissionais durante os últimos 5 anos |  |  |  |  |  |
+|  | Nome da empresa | Período | Cargo e funções inerentes ao cargo | Atividade principal da empresa na qual tais experiências ocorreram |  |  |
+|  | Empresa 1 |  |  |  |  |  |
+|  | Empresa 2 |  |  |  |  |  |
+|  | Empresa N |  |  |  |  |  |
+|  | Descrição de qualquer dos seguintes eventos que tenham ocorrido durante os últimos 5 anos |  |  |  |  |  |
+|  | Evento | Descrição |  |  |  |  |
+|  | Qualquer condenação criminal |  |  |  |  |  |
+|  | Qualquer condenação em processo administrativo da CVM e as penas aplicadas |  |  |  |  |  |
+| 12 | Distribuição de cotistas, segundo o percentual de cotas adquirido |  |  |  |  |  |
+|  | Faixas de Pulverização | Nº de cotistas | Nº de cotas detidas | % de cotas detido em relação ao total emitido | % detido por PF | % detido por PJ |
+|  | Até 5% das cotas |  |  |  |  |  |
+|  | Acima de 5% até 10% |  |  |  |  |  |
+|  | Acima de 10% até 15% |  |  |  |  |  |
+|  | Acima de 15% até 20% |  |  |  |  |  |
+|  | Acima de 20% até 30% |  |  |  |  |  |
+|  | Acima de 30% até 40% |  |  |  |  |  |
+|  | Acima de 40% até 50% |  |  |  |  |  |
+|  | Acima de 50% |  |  |  |  |  |
+| 13. | Transações com ativos envolvendo potencial conflito de interesses e a assembleia de aprovação |  |  |  |  |  |
+| 13.1 | Ativo negociado | Natureza da transação (aquisição, alienação ou locação) | Data da transação | Valor envolvido | Data da assembleia de autorização | Contraparte |
+|  | Ativo 1 |  |  |  |  |  |
+|  | Ativo 2 |  |  |  |  |  |
+|  | Ativo N |  |  |  |  |  |
+| 14. | Política de divulgação de informações |  |  |  |  |  |
+| 14.1 | Descrever a política de divulgação de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da página do administrador na rede mundial de computadores, indicando os procedimentos relativos à manutenção de sigilo acerca de informações relevantes não divulgadas, locais onde estarão disponíveis tais informações, entre outros aspectos. |  |  |  |  |  |
+| 14.2 | Descrever a política de negociação de cotas, se houver, ou disponibilizar o link correspondente da página do administrador na rede mundial de computadores. |  |  |  |  |  |
+| 14.3 | Descrever a política de exercício do direito de voto em participações societárias, ou disponibilizar o link correspondente da página do administrador na rede mundial de computadores. |  |  |  |  |  |
+| 14.4 | Relacionar os funcionários responsáveis pela implantação, manutenção, avaliação e fiscalização da política de divulgação de informações, se for o caso. |  |  |  |  |  |
+| 15. | Regras e prazos para chamada de capital: |  |  |  |  |  |
+| 16. | Política de distribuição de resultados, incluindo a periodicidade e a base de cálculo com a conciliação da distribuição do exercício. |  |  |  |  |  |
+
+Notas:
+
+1. A relação de prestadores de serviços de que trata o item 1.8 deve ser indicada quando o referido prestador de serviços representar mais de 5% das despesas da classe de cotas.
+
+2. Caso tenha ocorrido investimento em um imóvel rural no período, no campo “Relação” do item 2.1 deve ser informado, no mínimo, a geolocalização do imóvel e o seu registro no cadastro de imóveis pertinente; e no campo “Objeto” deve ser informado, no mínimo, qual atividade das cadeias produtivas do agronegócio é atendida no imóvel.

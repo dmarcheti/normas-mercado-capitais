@@ -36,11 +36,11 @@ Caso a política de investimentos não permita a aplicação de parcela superior
 
 CAPÍTULO III – COTAS
 
-Seção I – Recompra
+Seção I – Oferta Pública Voluntária de Aquisição de Cotas
 
 ## Art. 6º
 
-As recompras que visem à aquisição de parte ou da totalidade das cotas de classe de cotas devem obedecer às regras e procedimentos operacionais estabelecidos pela entidade administradora do mercado organizado em que as cotas estejam admitidas à negociação.
+As ofertas públicas voluntárias que visem à aquisição de parte ou da totalidade das cotas de classe de cotas devem obedecer às regras e procedimentos operacionais estabelecidos pela entidade administradora do mercado organizado em que as cotas estejam admitidas à negociação.
 
 Seção II – Distribuição
 
@@ -208,33 +208,7 @@ Parágrafo único. Os percentuais referidos nos incisos do caput devem ser deter
 
 ## Art. 17
 
-O pedido de representação em assembleia de cotistas, encaminhado pelo administrador mediante correspondência, física ou eletrônica, ou anúncio publicado, deve satisfazer os seguintes requisitos:
-
-I – conter todos os elementos informativos necessários ao exercício do voto pedido;
-
-II – facultar que o cotista exerça o voto contrário à proposta, por meio da mesma procuração; e
-
-III – ser dirigido a todos os cotistas.
-
-§ 1º É facultado a cotistas que detenham, isolada ou conjuntamente, 0,5% (meio por cento) ou mais do total de cotas emitidas solicitar ao administrador o envio de pedido de procuração aos demais cotistas do FII, desde que sejam obedecidos os requisitos do inciso I do caput.
-
-§ 2º O administrador que receber a solicitação de que trata o § 1º deve encaminhar, em nome do cotista solicitante, o pedido de procuração, conforme conteúdo e nos termos determinados pelo cotista solicitante, em até 5 (cinco) dias úteis da solicitação.
-
-§ 3º Nas hipóteses previstas no § 1º, o administrador pode exigir:
-
-I – reconhecimento da firma do signatário do pedido; e
-
-II – cópia dos documentos que comprovem que o signatário tem poderes para representar os cotistas solicitantes, quando o pedido for assinado por representantes.
-
-§ 4º É vedado ao administrador:
-
-I – exigir quaisquer outras justificativas para o pedido de que trata o § 1º;
-
-II – cobrar pelo fornecimento da relação de cotistas; e
-
-III – condicionar o deferimento do pedido ao cumprimento de quaisquer formalidades ou à apresentação de quaisquer documentos não previstos no § 3º.
-
-§ 5º Os custos incorridos com o envio do pedido de procuração pelo administrador em nome de cotistas devem ser arcados pela classe afetada.
+(Revogado)
 
 ## Art. 18
 
