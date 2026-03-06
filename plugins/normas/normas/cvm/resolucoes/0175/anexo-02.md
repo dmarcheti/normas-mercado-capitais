@@ -66,7 +66,7 @@ c) resultem de ações judiciais ou procedimentos arbitrais em curso, constituam
 
 d) a constituição ou validade jurídica da cessão para a classe de cotas seja considerada um fator preponderante de risco;
 
-e) o devedor ou coobrigado seja sociedade empresária em recuperação judicial ou extrajudicial;
+e) o devedor seja sociedade empresária em recuperação judicial ou extrajudicial;
 
 f) sejam cedidos por sociedade empresária em recuperação judicial ou extrajudicial, ressalvado o disposto no inciso I do § 1º;
 
@@ -102,11 +102,11 @@ XXV - termo de adesão (e ciência de risco): documento referido no art. 29 da p
 
 § 1º Não são considerados direitos creditórios não-padronizados:
 
-I - direitos creditórios cedidos por sociedade empresária em processo de recuperação judicial ou extrajudicial, desde que cumulativamente atendam aos seguintes requisitos:
+I - direitos creditórios cedidos por sociedade empresária em processo de recuperação judicial ou extrajudicial, desde que:
 
 a) não sejam originados por contratos mercantis de compra e venda de produtos, mercadorias e serviços para entrega ou prestação futura; e
 
-b) a sociedade esteja sujeita a plano de recuperação homologado em juízo, independentemente do trânsito em julgado da homologação do plano de recuperação judicial ou extrajudicial; e
+b) (Revogado)
 
 II - os precatórios federais, desde que cumulativamente atendam aos seguintes requisitos:
 
