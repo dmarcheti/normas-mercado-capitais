@@ -74,5 +74,47 @@ class TestIndice(unittest.TestCase):
         self.assertEqual(indice.main(["indice.py", self.raiz, "--verificar"]), 1)
 
 
+class TestIndiceLeisEPartes(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+        self.raiz = self._tmp.name
+        gravar(self.raiz, "cvm/resolucoes/0017.md", id="cvm-res-17", numero="17")
+        gravar(self.raiz, "cvm/resolucoes/0175/index.md", id="cvm-res-175", numero="175", data="2022-12-23")
+        with open(os.path.join(self.raiz, "cvm", "resolucoes", "0175", "anexo-01.md"), "w", encoding="utf-8") as f:
+            f.write("# Anexo\n\n## Art. 1º\n\nTexto.\n")
+        lei = dict(id="lei-6404", orgao="federal", tipo="lei", numero="6404", data="1976-12-15",
+                   vigente_ate_ato="", historico_parcial="true", ementa="Dispõe sobre as sociedades por ações.")
+        gravar(self.raiz, "leis/lei-06404/index.md", **lei)
+        gravar(self.raiz, "leis/lei-06385.md", **dict(lei, id="lei-6385", numero="6385", data="1976-12-07"))
+
+    def test_norma_em_partes_aponta_para_o_index(self):
+        _md, itens = indice.gerar_indice(self.raiz)
+        item = next(i for i in itens if i["id"] == "cvm-res-175")
+        self.assertEqual(item["caminho"], "cvm/resolucoes/0175/index.md")
+        self.assertNotIn("anexo-01.md", [os.path.basename(i["caminho"]) for i in itens])
+
+    def test_leis_em_secao_propria_ordenadas_por_numero(self):
+        md, itens = indice.gerar_indice(self.raiz)
+        ids = [i["id"] for i in itens]
+        self.assertEqual(ids, ["cvm-res-17", "cvm-res-175", "lei-6385", "lei-6404"])
+        leis = md.split("## Leis")[1].split("## Atos alteradores")[0]
+        self.assertIn("Lei nº 6.385/1976", leis)
+        self.assertLess(leis.index("6.385"), leis.index("6.404"))
+        self.assertIn("leis/lei-06404/index.md", leis)
+        self.assertIn("leis/lei-06385.md", leis)
+        self.assertNotIn("lei-06385", md.split("## Leis")[0])
+
+    def test_sem_leis_nao_ha_secao_de_leis(self):
+        with tempfile.TemporaryDirectory() as d:
+            gravar(d, "cvm/resolucoes/0017.md", id="cvm-res-17", numero="17")
+            md, _itens = indice.gerar_indice(d)
+            self.assertNotIn("## Leis", md)
+
+    def test_verificar_com_leis_e_partes(self):
+        self.assertEqual(indice.main(["indice.py", self.raiz]), 0)
+        self.assertEqual(indice.main(["indice.py", self.raiz, "--verificar"]), 0)
+
+
 if __name__ == "__main__":
     unittest.main()

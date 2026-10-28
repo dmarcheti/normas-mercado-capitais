@@ -3,8 +3,11 @@
 
 gerar_indice(raiz) -> (md, itens): `raiz` é `plugins/normas/normas`. `itens` é a
 lista, ordenada por órgão, tipo e número, de {id, titulo, ementa, situacao,
-vigente_ate_ato, caminho}; `caminho` é relativo à raiz (ex.: cvm/resolucoes/0017.md).
-`md` é o índice legível (indice.md), com as normas e os atos alteradores.
+vigente_ate_ato, caminho}; `caminho` é relativo à raiz (ex.: cvm/resolucoes/0017.md;
+norma em partes aponta para o index.md). As leis (`leis/`) vêm depois das
+resoluções, por número, e levam também `baixado_em` (data-base da lei).
+`md` é o índice legível (indice.md), com as normas, as leis (seção própria, só
+se houver) e os atos alteradores.
 
 Uso: python3 scripts/indice.py [raiz]            grava indice.md e normas.json em raiz
      python3 scripts/indice.py [raiz] --verificar  falha (saída 1) se estiverem desatualizados
@@ -16,7 +19,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from validar import ler_frontmatter  # noqa: E402
+from validar import arquivos_da_pasta, ler_frontmatter  # noqa: E402
 
 RAIZ_PADRAO = os.path.normpath(os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "..", "plugins", "normas", "normas"))
@@ -40,12 +43,14 @@ def _arquivos(raiz, pasta):
 
 
 def _titulo(v):
+    if v["tipo"] == "lei":
+        return "Lei nº %s/%s" % (format(int(v["numero"]), ",").replace(",", "."), v["data"][:4])
     return "Resolução %s nº %s/%s" % (v["orgao"].upper(), v["numero"], v["data"][:4])
 
 
 def _item(raiz, caminho):
     v = _ler(caminho)
-    return {
+    item = {
         "id": v["id"],
         "titulo": _titulo(v),
         "ementa": v["ementa"],
@@ -53,6 +58,9 @@ def _item(raiz, caminho):
         "vigente_ate_ato": v["vigente_ate_ato"],
         "caminho": os.path.relpath(caminho, raiz).replace(os.sep, "/"),
     }
+    if v["tipo"] == "lei":
+        item["baixado_em"] = v["baixado_em"]
+    return item
 
 
 def _chave(item):
@@ -60,12 +68,17 @@ def _chave(item):
     return (orgao, tipo, arq)
 
 
+def _numero_lei(item):
+    return int(item["id"].split("-")[1])
+
+
 def _celula(txt):
     return txt.replace("|", "\\|")
 
 
 def gerar_indice(raiz):
-    itens = sorted((_item(raiz, c) for c in _arquivos(raiz, "resolucoes")), key=_chave)
+    itens = sorted((_item(raiz, c) for c in arquivos_da_pasta(raiz, "resolucoes")), key=_chave)
+    leis = sorted((_item(raiz, c) for c in arquivos_da_pasta(raiz, "leis")), key=_numero_lei)
     atos = sorted((_item(raiz, c) for c in _arquivos(raiz, "alteradoras")), key=_chave)
     md = [
         "# Índice das normas",
@@ -82,11 +95,17 @@ def gerar_indice(raiz):
         md.append("| %s | %s | %s | %s | %s |" % (
             i["titulo"], _celula(i["ementa"]), i["situacao"],
             i["vigente_ate_ato"] or "redação original", i["caminho"]))
+    if leis:
+        md += ["", "## Leis (texto compilado do Planalto; data-base = baixado_em)", "",
+               "| Lei | Ementa | Situação | Data-base | Arquivo |", "|---|---|---|---|---|"]
+        for i in leis:
+            md.append("| %s | %s | %s | %s | %s |" % (
+                i["titulo"], _celula(i["ementa"]), i["situacao"], i["baixado_em"], i["caminho"]))
     md += ["", "## Atos alteradores (texto integral do ato)", "",
            "| Ato | Ementa | Arquivo |", "|---|---|---|"]
     for i in atos:
         md.append("| %s | %s | %s |" % (i["titulo"], _celula(i["ementa"]), i["caminho"]))
-    return "\n".join(md) + "\n", itens
+    return "\n".join(md) + "\n", itens + leis
 
 
 def _json(itens):

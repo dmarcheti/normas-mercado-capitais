@@ -7,7 +7,7 @@ import unittest
 AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
-from validar import CAMPOS, validar_norma  # noqa: E402
+from validar import CAMPOS, arquivos_de_normas, partes_da_norma, validar_norma  # noqa: E402
 
 VALORES = {
     "id": "cvm-res-17",
@@ -158,6 +158,85 @@ class TestVigenciaDiferida(Base):
         texto = montar({"vigencia_inicio": "2027-03-01"}, ordem=ordem, corpo=self.BLOCO)
         erros = self.erros(texto)
         self.assertTrue(any("ordem" in e for e in erros), erros)
+
+
+class TestNormaEmPartes(unittest.TestCase):
+    """`NNNN/index.md` com `## Partes`; partes sem frontmatter, abertas por `# título`."""
+
+    PARTES = "\n# Resolução CVM 175\n\n## Partes\n\n- parte-geral.md\n- anexo-01.md\n"
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+        self.pasta = os.path.join(self._tmp.name, "0175")
+        os.makedirs(self.pasta)
+        self.gravar("index.md", montar({"id": "cvm-res-175", "numero": "175"}, corpo=self.PARTES))
+        self.gravar("parte-geral.md", "# Parte geral\n\n## Art. 1º\n\nTexto.\n")
+        self.gravar("anexo-01.md", "# Anexo Normativo I\n\n## Art. 1º\n\nTexto.\n")
+
+    def gravar(self, nome, texto):
+        with open(os.path.join(self.pasta, nome), "w", encoding="utf-8") as f:
+            f.write(texto)
+
+    def erros(self):
+        return validar_norma(os.path.join(self.pasta, "index.md"))
+
+    def test_norma_em_partes_valida(self):
+        self.assertEqual(self.erros(), [])
+
+    def test_partes_na_ordem_da_secao(self):
+        nomes = [os.path.basename(p) for p in partes_da_norma(os.path.join(self.pasta, "index.md"))]
+        self.assertEqual(nomes, ["parte-geral.md", "anexo-01.md"])
+
+    def test_parte_fora_da_lista_e_erro(self):
+        self.gravar("anexo-02.md", "# Anexo II\n\n## Art. 1º\n\nTexto.\n")
+        erros = self.erros()
+        self.assertEqual(len(erros), 1, erros)
+        self.assertIn("anexo-02.md", erros[0])
+
+    def test_parte_listada_que_nao_existe_e_erro(self):
+        self.gravar("index.md", montar({"id": "cvm-res-175", "numero": "175"}, corpo=self.PARTES + "- anexo-09.md\n"))
+        erros = self.erros()
+        self.assertEqual(len(erros), 1, erros)
+        self.assertIn("anexo-09.md", erros[0])
+
+    def test_parte_listada_duas_vezes_e_erro(self):
+        self.gravar("index.md", montar({"id": "cvm-res-175", "numero": "175"}, corpo=self.PARTES + "- anexo-01.md\n"))
+        self.assertTrue(any("duplicad" in e for e in self.erros()))
+
+    def test_index_sem_secao_partes_e_erro(self):
+        self.gravar("index.md", montar({"id": "cvm-res-175", "numero": "175"}, corpo="\n# Resolução CVM 175\n"))
+        self.assertTrue(any("Partes" in e for e in self.erros()))
+
+    def test_parte_com_frontmatter_ou_sem_titulo_e_erro(self):
+        self.gravar("anexo-01.md", "---\nid: x\n---\n\n# Anexo\n")
+        self.assertTrue(any("anexo-01.md" in e and "frontmatter" in e for e in self.erros()))
+        self.gravar("anexo-01.md", "## Art. 1º\n\nTexto.\n")
+        self.assertTrue(any("anexo-01.md" in e and "título" in e for e in self.erros()))
+
+    def test_index_precisa_estar_em_pasta_com_o_numero_da_norma(self):
+        pasta = os.path.join(self._tmp.name, "0176")
+        os.makedirs(pasta)
+        with open(os.path.join(pasta, "index.md"), "w", encoding="utf-8") as f:
+            f.write(montar({"id": "cvm-res-175", "numero": "175"}, corpo=self.PARTES))
+        self.assertTrue(any("0175" in e for e in validar_norma(os.path.join(pasta, "index.md"))))
+
+    def test_vigencia_diferida_numa_parte_exige_vigencia_inicio(self):
+        self.gravar("anexo-01.md", "# Anexo\n\n## Art. 1º\n\nAtual.\n\nVigente a partir de 2027-03-01:\n\nFutura.\n")
+        self.assertTrue(any("vigencia_inicio" in e for e in self.erros()))
+
+    def test_arquivos_de_normas_acha_arquivo_unico_e_index_de_partes(self):
+        raiz = self._tmp.name
+        resol = os.path.join(raiz, "cvm", "resolucoes")
+        os.makedirs(os.path.join(resol, "0175"))
+        with open(os.path.join(resol, "0017.md"), "w") as f:
+            f.write("x")
+        with open(os.path.join(resol, "0175", "index.md"), "w") as f:
+            f.write("x")
+        with open(os.path.join(resol, "0175", "anexo-01.md"), "w") as f:
+            f.write("x")
+        achados = [os.path.relpath(c, raiz).replace(os.sep, "/") for c in arquivos_de_normas(raiz)]
+        self.assertEqual(achados, ["cvm/resolucoes/0017.md", "cvm/resolucoes/0175/index.md"])
 
 
 if __name__ == "__main__":

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cvm-res-17",
+    "dispositivo": "Art. 9º, caput",
+    "consolidado": "A substituição do agente fiduciário deve ser comunicada à CVM, no prazo de até 7 (sete) dias úteis, contados a partir da assinatura do aditamento da escritura de emissão, do termo de securitização de direitos creditórios ou do instrumento equivalente, ou, quando exigido por lei, do registro desses instrumentos nos órgãos competentes.",
+    "norma": "A substituição do agente fiduciário deve ser comunicada à CVM, no prazo de até sete dias úteis, contados a partir da assinatura do aditamento da escritura de emissão, do termo de securitização de direitos creditórios ou do instrumento equivalente, ou, quando exigido por lei, do registro desses instrumentos nos órgãos competentes.",
+    "motivo": "O ato (DOU, DOCX e HTML da CVM) diz \"sete dias úteis\"; o consolidado da CVM diz \"7 (sete) dias úteis\". Vale o texto do ato; a diferença é editorial do consolidado.",
+    "ref": "fontes/DIVERGENCIAS.md, Res. CVM 17, item 2"
+  }
+]

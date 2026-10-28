@@ -14,7 +14,7 @@ import zipfile
 AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
-from converter import docx_para_md, dou_html_para_md, normalizar_artigos  # noqa: E402
+from converter import docx_para_md, dou_html_para_md, normalizar_artigos, planalto_html_para_md  # noqa: E402
 
 NS = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"'
 
@@ -29,18 +29,34 @@ def run(texto, tachado=False):
     return '<w:r>%s<w:t xml:space="preserve">%s</w:t></w:r>' % (rpr, texto)
 
 
-def par(*runs, estilo=None):
-    ppr = '<w:pPr><w:pStyle w:val="%s"/></w:pPr>' % estilo if estilo else ""
+def par(*runs, estilo=None, num=None):
+    """`num` = (numId, ilvl) cria o w:numPr do parágrafo (lista automática)."""
+    ppr = ""
+    if estilo or num:
+        ppr = "<w:pPr>"
+        if estilo:
+            ppr += '<w:pStyle w:val="%s"/>' % estilo
+        if num:
+            ppr += '<w:numPr><w:ilvl w:val="%d"/><w:numId w:val="%d"/></w:numPr>' % (num[1], num[0])
+        ppr += "</w:pPr>"
     return "<w:p>%s%s</w:p>" % (ppr, "".join(runs))
 
 
-def montar_docx(corpo):
+def montar_docx(corpo, numeracao=None):
     xml = '<?xml version="1.0" encoding="UTF-8"?><w:document %s><w:body>%s</w:body></w:document>' % (NS, corpo)
     fd, caminho = tempfile.mkstemp(suffix=".docx")
     os.close(fd)
     with zipfile.ZipFile(caminho, "w") as z:
         z.writestr("word/document.xml", xml)
+        if numeracao:
+            z.writestr("word/numbering.xml", '<?xml version="1.0" encoding="UTF-8"?><w:numbering %s>%s</w:numbering>'
+                       % (NS, numeracao))
     return caminho
+
+
+def nivel(ilvl, fmt, texto, inicio=1):
+    return ('<w:lvl w:ilvl="%d"><w:start w:val="%d"/><w:numFmt w:val="%s"/><w:lvlText w:val="%s"/></w:lvl>'
+            % (ilvl, inicio, fmt, texto))
 
 
 class TestDouHtml(unittest.TestCase):
@@ -182,6 +198,117 @@ class TestDocx(unittest.TestCase):
         md = normalizar_artigos(self.md)
         self.assertEqual(re.findall(r"^## Art\. .+$", md, flags=re.M),
                          ["## Art. 1º", "## Art. 9º", "## Art. 12-A"])
+
+
+class TestDocxNumeracao(unittest.TestCase):
+    """Listas automáticas do Word: o número não está no XML, vem de numbering.xml."""
+
+    NUMERACAO = (
+        '<w:abstractNum w:abstractNumId="0">' + nivel(0, "upperRoman", "%1 –") + nivel(1, "lowerLetter", "%2)") + "</w:abstractNum>"
+        '<w:abstractNum w:abstractNumId="1">' + nivel(0, "lowerLetter", "%1)") + "</w:abstractNum>"
+        '<w:abstractNum w:abstractNumId="2">' + nivel(0, "bullet", "\uf0b7") + "</w:abstractNum>"
+        '<w:abstractNum w:abstractNumId="3">' + nivel(0, "decimal", "%1.") + "</w:abstractNum>"
+        '<w:num w:numId="1"><w:abstractNumId w:val="0"/></w:num>'
+        '<w:num w:numId="2"><w:abstractNumId w:val="1"/></w:num>'
+        '<w:num w:numId="3"><w:abstractNumId w:val="2"/></w:num>'
+        '<w:num w:numId="4"><w:abstractNumId w:val="3"/></w:num>'
+        '<w:num w:numId="5"><w:abstractNumId w:val="3"/><w:lvlOverride w:ilvl="0"><w:startOverride w:val="1"/></w:lvlOverride></w:num>'
+    )
+
+    def md(self, corpo):
+        caminho = montar_docx(corpo, self.NUMERACAO)
+        self.addCleanup(os.remove, caminho)
+        return [l for l in docx_para_md(caminho).split("\n") if l.strip()]
+
+    def test_romano_maiusculo_com_travessao(self):
+        linhas = self.md(par(run("agir;"), num=(1, 0)) + par(run("informar;"), num=(1, 0)) + par(run("calar."), num=(1, 0)))
+        self.assertEqual(linhas, ["I – agir;", "II – informar;", "III – calar."])
+
+    def test_letra_minuscula_com_parentese(self):
+        linhas = self.md(par(run("x;"), num=(2, 0)) + par(run("y."), num=(2, 0)))
+        self.assertEqual(linhas, ["a) x;", "b) y."])
+
+    def test_nivel_inferior_reinicia_quando_o_superior_avanca(self):
+        corpo = (par(run("um"), num=(1, 0)) + par(run("sub1"), num=(1, 1)) + par(run("sub2"), num=(1, 1))
+                 + par(run("dois"), num=(1, 0)) + par(run("sub1 de novo"), num=(1, 1)))
+        self.assertEqual(self.md(corpo), ["I – um", "a) sub1", "b) sub2", "II – dois", "a) sub1 de novo"])
+
+    def test_texto_do_meio_nao_zera_a_lista(self):
+        corpo = par(run("a1"), num=(2, 0)) + par(run("Texto solto.")) + par(run("a2"), num=(2, 0))
+        self.assertEqual(self.md(corpo), ["a) a1", "Texto solto.", "b) a2"])
+
+    def test_marcador_sem_numero_nao_escreve_nada(self):
+        self.assertEqual(self.md(par(run("Nota."), num=(3, 0))), ["Nota."])
+
+    def test_paragrafo_todo_tachado_leva_o_numero_dentro_da_marca(self):
+        # senão a normalização deixaria uma linha só com "I –"
+        corpo = par(run("redação antiga", tachado=True), num=(1, 0)) + par(run("redação nova"), num=(1, 0))
+        self.assertEqual(self.md(corpo), ["~~I – redação antiga~~", "II – redação nova"])
+
+    def test_start_override_reinicia_a_contagem(self):
+        corpo = par(run("p"), num=(4, 0)) + par(run("q"), num=(4, 0)) + par(run("r"), num=(5, 0))
+        self.assertEqual(self.md(corpo), ["1. p", "2. q", "1. r"])
+
+    def test_numeracao_em_tabela(self):
+        tbl = "<w:tbl><w:tr><w:tc>" + par(run("campo"), num=(2, 0)) + "</w:tc></w:tr></w:tbl>"
+        self.assertEqual(self.md(tbl), ["| a) campo |", "| --- |"])
+
+    def test_tabela_aninhada_vira_tabela_propria_depois_da_externa(self):
+        interna = "<w:tbl><w:tr><w:tc>" + par(run("fator")) + "</w:tc><w:tc>" + par(run("cenario")) + "</w:tc></w:tr></w:tbl>"
+        externa = ("<w:tbl><w:tr><w:tc>" + par(run("antes")) + interna + par(run("depois")) + "</w:tc>"
+                   "<w:tc>" + par(run("x")) + "</w:tc></w:tr></w:tbl>")
+        self.assertEqual(self.md(externa), [
+            "| antes depois | x |", "| --- | --- |", "| fator | cenario |", "| --- | --- |"])
+
+    def test_docx_sem_numbering_xml_segue_funcionando(self):
+        caminho = montar_docx(par(run("Art. 1º X."), num=(1, 0)))
+        self.addCleanup(os.remove, caminho)
+        self.assertEqual(docx_para_md(caminho).strip(), "Art. 1º X.")
+
+
+class TestPlanaltoHtml(unittest.TestCase):
+    def test_tachado_some_e_nota_de_redacao_fica(self):
+        html = (
+            "<html><body><p>Art. 2º <strike>O prazo é de 5 dias.</strike> O prazo é de 10 dias. "
+            "<a href='x'>(Redação dada pela Lei nº 14.430, de 2022)</a></p>"
+            "<p><s>Art. 3º Texto velho.</s></p><p>Art. 4º <del>velho</del>novo.</p></body></html>"
+        )
+        md = planalto_html_para_md(html)
+        self.assertEqual(md.strip().split("\n\n"), [
+            "Art. 2º O prazo é de 10 dias. (Redação dada pela Lei nº 14.430, de 2022)",
+            "Art. 4º novo.",
+        ])
+
+    def test_decodifica_windows_1252_quando_o_meta_pede(self):
+        html = ('<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head>'
+                "<body><p>Art. 1º Fica instituída a obrigação.</p></body></html>").encode("cp1252")
+        self.assertIn("Art. 1º Fica instituída a obrigação.", planalto_html_para_md(html))
+
+    def test_bytes_sem_meta_sao_utf8(self):
+        self.assertIn("Fica instituída", planalto_html_para_md("<p>Fica instituída.</p>".encode("utf-8")))
+
+    def test_ordinal_em_sup_vira_simbolo(self):
+        md = planalto_html_para_md("<p>Art. 1<sup><u>o</u></sup> Texto.</p><p>§ 2<sup>o</sup> Outro.</p>")
+        self.assertEqual(md.strip().split("\n\n"), ["Art. 1º Texto.", "§ 2º Outro."])
+
+    def test_script_style_e_cabecalho_ficam_de_fora(self):
+        md = planalto_html_para_md("<html><head><title>Lei</title><style>p{}</style></head>"
+                                   "<body><script>var x=1;</script><p>Texto.</p></body></html>")
+        self.assertEqual(md.strip(), "Texto.")
+
+    def test_artigo_com_sufixo_e_milhar_vira_heading(self):
+        md = normalizar_artigos(planalto_html_para_md(
+            "<p>Art. 1.368-C. A empresa individual de responsabilidade limitada.</p><p>Art. 1.368-D. Outro.</p>"))
+        self.assertEqual(re.findall(r"^## Art\. .+$", md, flags=re.M), ["## Art. 1.368-C", "## Art. 1.368-D"])
+
+    def test_tabela_vira_tabela_markdown(self):
+        md = planalto_html_para_md("<table><tr><td>Faixa</td><td>Taxa</td></tr><tr><td>A</td><td>1</td></tr></table>")
+        self.assertIn("| Faixa | Taxa |", md)
+        self.assertIn("| A | 1 |", md)
+
+    def test_br_vira_espaco_e_paragrafo_sem_fechar_separa(self):
+        md = planalto_html_para_md("<p>Linha um<br>linha dois<p>Outro parágrafo")
+        self.assertEqual(md.strip().split("\n\n"), ["Linha um linha dois", "Outro parágrafo"])
 
 
 if __name__ == "__main__":

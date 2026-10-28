@@ -5,8 +5,10 @@ Res. CVM 17 (convertido do DOCX da CVM) mais trechos da Res. 175, com o
 formato real das notas: redação antiga tachada, nota em parágrafo próprio
 ("Caput com redação dada pela ...") e "REVOGADO" sem parênteses.
 """
+import json
 import os
 import sys
+import tempfile
 import unittest
 
 AQUI = os.path.dirname(__file__)
@@ -15,7 +17,8 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 from converter import normalizar_artigos  # noqa: E402
 from normalizar import normalizar_texto  # noqa: E402
 from teste_ato import linhas_novas_fora_do_ato  # noqa: E402
-from teste_final import diferencas_final  # noqa: E402
+from teste_final import analisar_final, carregar_aceitas, diferencas_final  # noqa: E402
+from validar import partes_da_norma, texto_da_norma  # noqa: E402
 
 CABECALHO = "---\nid: cvm-res-17\n---\n\n"
 
@@ -221,3 +224,159 @@ class TestAspasDoAto(unittest.TestCase):
         ato = 'Art. 1º O art. 5º passa a vigorar com a seguinte redação:\n"§ 2º A declaração deve ser apresentada à CVM". (NR)'
         diff = "+§ 2º A declaração deve ser apresentada à CVM."
         self.assertEqual(linhas_novas_fora_do_ato(diff, ato), [])
+
+
+SETE = {
+    "id": "cvm-res-17",
+    "dispositivo": "Art. 9º, caput",
+    "consolidado": "A substituição deve ser comunicada no prazo de até 7 (sete) dias úteis.",
+    "norma": "A substituição deve ser comunicada no prazo de até sete dias úteis.",
+    "motivo": "ajuste editorial do consolidado",
+    "ref": "fontes/DIVERGENCIAS.md, Res. CVM 17, item 2",
+}
+
+
+def norma_com_incerteza(corpo, incerteza="Art. 9º: o ato diz sete dias úteis."):
+    return "---\nid: cvm-res-17\nincerteza: %s\n---\n\n%s" % (incerteza, corpo)
+
+
+class TestDivergenciasAceitas(unittest.TestCase):
+    CONSOLIDADO = "Art. 9º\n\nA substituição deve ser comunicada no prazo de até 7 (sete) dias úteis.\n\nParágrafo único. Fim.\n"
+    CORPO = "## Art. 9º\n\nA substituição deve ser comunicada no prazo de até sete dias úteis.\n\nParágrafo único. Fim.\n"
+
+    def test_par_igual_a_entrada_sai_do_diff(self):
+        norma = norma_com_incerteza(self.CORPO)
+        self.assertEqual(len(diferencas_final(norma, self.CONSOLIDADO)), 2)
+        self.assertEqual(diferencas_final(norma, self.CONSOLIDADO, [SETE]), [])
+        dif, n = analisar_final(norma, self.CONSOLIDADO, [SETE])
+        self.assertEqual((dif, n), ([], 1))
+
+    def test_entrada_sem_par_e_erro_de_aceita_nao_usada(self):
+        norma = norma_com_incerteza("## Art. 9º\n\nA substituição deve ser comunicada no prazo de até 7 (sete) dias úteis.\n\nParágrafo único. Fim.\n")
+        dif = diferencas_final(norma, self.CONSOLIDADO, [SETE])
+        self.assertEqual(len(dif), 1, dif)
+        self.assertIn("aceita não usada", dif[0])
+        self.assertIn("Art. 9º, caput", dif[0])
+
+    def test_so_um_lado_casando_nao_aceita(self):
+        norma = norma_com_incerteza(self.CORPO.replace("sete dias", "oito dias"))
+        dif = diferencas_final(norma, self.CONSOLIDADO, [SETE])
+        self.assertTrue(any("aceita não usada" in d for d in dif), dif)
+        self.assertTrue(any("oito dias" in d for d in dif), dif)
+
+    def test_dispositivo_fora_do_incerteza_e_erro(self):
+        norma = norma_com_incerteza(self.CORPO, incerteza="Anexo A ausente.")
+        dif = diferencas_final(norma, self.CONSOLIDADO, [SETE])
+        self.assertEqual(len(dif), 1, dif)
+        self.assertIn("incerteza", dif[0])
+        self.assertIn("Art. 9º, caput", dif[0])
+
+    def test_outra_diferenca_continua_aparecendo(self):
+        norma = norma_com_incerteza(self.CORPO + "\nTexto inventado.\n")
+        dif = diferencas_final(norma, self.CONSOLIDADO, [SETE])
+        self.assertEqual(len(dif), 1, dif)
+        self.assertIn("Texto inventado", dif[0])
+
+    def test_entrada_so_do_lado_da_norma(self):
+        so_norma = dict(SETE, consolidado="", norma="Nota que só a norma tem.", dispositivo="Art. 9º")
+        norma = norma_com_incerteza(self.CORPO + "\nNota que só a norma tem.\n")
+        dif = diferencas_final(norma, self.CONSOLIDADO, [SETE, so_norma])
+        self.assertEqual(dif, [])
+
+    def test_carregar_aceitas_filtra_por_id_e_ausente_da_lista_vazia(self):
+        with tempfile.TemporaryDirectory() as d:
+            caminho = os.path.join(d, "aceitas.json")
+            with open(caminho, "w", encoding="utf-8") as f:
+                json.dump([SETE, dict(SETE, id="cvm-res-175")], f)
+            self.assertEqual(carregar_aceitas(caminho, "cvm-res-17"), [SETE])
+            self.assertEqual(carregar_aceitas(caminho, "cvm-res-60"), [])
+            self.assertEqual(carregar_aceitas(os.path.join(d, "nao-existe.json"), "cvm-res-17"), [])
+
+    def test_carregar_aceitas_exige_os_seis_campos(self):
+        with tempfile.TemporaryDirectory() as d:
+            caminho = os.path.join(d, "aceitas.json")
+            incompleta = {k: v for k, v in SETE.items() if k != "motivo"}
+            with open(caminho, "w", encoding="utf-8") as f:
+                json.dump([incompleta], f)
+            with self.assertRaises(ValueError):
+                carregar_aceitas(caminho, "cvm-res-17")
+
+
+class TestNormaEmPartes(unittest.TestCase):
+    """Res. 175: index.md + parte-geral.md + anexos, cada um com `## Art. 1º`."""
+
+    INDEX = ("---\nid: cvm-res-175\nincerteza:\n---\n\n# Resolução CVM nº 175\n\n## Partes\n\n"
+             "- parte-geral.md\n- anexo-01.md\n")
+    GERAL = "# Parte geral\n\n## Art. 1º\n\nTexto da parte geral.\n"
+    ANEXO = "# Anexo Normativo I\n\n## Art. 1º\n\nTexto do anexo.\n"
+    CONSOLIDADO = "Art. 1º Texto da parte geral.\n\nArt. 1º Texto do anexo.\n"
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+        self.pasta = os.path.join(self._tmp.name, "0175")
+        os.makedirs(self.pasta)
+        self.gravar("index.md", self.INDEX)
+        self.gravar("parte-geral.md", self.GERAL)
+        self.gravar("anexo-01.md", self.ANEXO)
+        self.index = os.path.join(self.pasta, "index.md")
+
+    def gravar(self, nome, texto):
+        with open(os.path.join(self.pasta, nome), "w", encoding="utf-8") as f:
+            f.write(texto)
+
+    def test_partes_na_ordem_do_indice(self):
+        self.assertEqual([os.path.basename(p) for p in partes_da_norma(self.index)],
+                         ["parte-geral.md", "anexo-01.md"])
+
+    def test_texto_da_norma_concatena_na_ordem_sem_fundir_artigos(self):
+        texto = texto_da_norma(self.index)
+        self.assertLess(texto.index("Texto da parte geral."), texto.index("Texto do anexo."))
+        self.assertEqual(texto.count("## Art. 1º"), 2)
+
+    def test_arquivo_unico_devolve_o_proprio_texto(self):
+        self.assertEqual(texto_da_norma(os.path.join(self.pasta, "anexo-01.md")), self.ANEXO)
+
+    def test_teste_2_sobre_as_partes_contra_consolidado_com_as_mesmas_linhas(self):
+        self.assertEqual(diferencas_final(texto_da_norma(self.index), self.CONSOLIDADO), [])
+
+    def test_titulos_de_parte_com_um_cerquilha_sao_ignorados_na_norma(self):
+        # o "# Anexo Normativo I" não está no consolidado e não conta como diferença
+        self.assertNotIn("Anexo Normativo I", self.CONSOLIDADO)
+        self.assertEqual(diferencas_final(texto_da_norma(self.index), self.CONSOLIDADO), [])
+
+    def test_partes_fora_de_ordem_acusam_diferenca(self):
+        self.gravar("index.md", self.INDEX.replace("- parte-geral.md\n- anexo-01.md", "- anexo-01.md\n- parte-geral.md"))
+        dif = diferencas_final(texto_da_norma(self.index), self.CONSOLIDADO)
+        self.assertTrue(dif)
+
+    def test_artigo_do_anexo_nao_funde_com_o_da_parte_geral(self):
+        # a parte geral perde o texto: sobra só o do anexo, e a diferença aparece
+        self.gravar("parte-geral.md", "# Parte geral\n\n## Art. 1º\n")
+        dif = diferencas_final(texto_da_norma(self.index), self.CONSOLIDADO)
+        self.assertEqual(len(dif), 1, dif)
+        self.assertIn("Texto da parte geral.", dif[0])
+
+
+class TestTabelas(unittest.TestCase):
+    def test_numero_de_tabelas_diferente_e_diferenca(self):
+        consolidado = "Art. 1º Texto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n\nMeio.\n\n| C | D |\n| --- | --- |\n| 3 | 4 |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n\nMeio.\n"
+        dif = diferencas_final(norma, consolidado)
+        self.assertIn("tabelas: 1 na norma, 2 no consolidado", dif)
+
+    def test_mesma_tabela_com_celulas_vazias_a_mais_nao_conta(self):
+        consolidado = "Art. 1º Texto.\n\n| A |  | B |\n| --- | --- | --- |\n| 1 |  | 2 |\n|  |  |  |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n"
+        self.assertEqual(diferencas_final(norma, consolidado), [])
+
+    def test_celula_diferente_e_diferenca(self):
+        consolidado = "Art. 1º Texto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A | B |\n| --- | --- |\n| 1 | 3 |\n"
+        dif = diferencas_final(norma, consolidado)
+        self.assertEqual(len(dif), 2, dif)
+
+    def test_tabelas_adjacentes_separadas_por_linha_em_branco_contam_duas(self):
+        md = "Art. 1º Texto.\n\n| A |\n| --- |\n\n| B |\n| --- |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A |\n| --- |\n"
+        self.assertIn("tabelas: 1 na norma, 2 no consolidado", diferencas_final(norma, md))
