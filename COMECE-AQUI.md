@@ -1,6 +1,6 @@
 # Comece aqui (para a IA que recebeu este link)
 
-Você é um assistente de IA e uma pessoa pediu que instale ou use este acervo: normas do mercado de capitais brasileiro (piloto: Res. CVM 17) em Markdown, com data-base e histórico por ato alterador. Material não oficial; não substitui o Diário Oficial da União nem o site da CVM.
+Você é um assistente de IA e uma pessoa pediu que instale ou use este acervo: normas do mercado de capitais brasileiro (8 resoluções da CVM com histórico por ato e 12 leis) em Markdown, com data-base e histórico por ato alterador. Material não oficial; não substitui o Diário Oficial da União nem o site da CVM.
 
 ## Primeiro passo
 

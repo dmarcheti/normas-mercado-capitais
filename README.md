@@ -8,7 +8,12 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 
 ## Status
 
-Em construção. Piloto: Res. CVM 17 (agente fiduciário), com a redação original e as alterações das Res. CVM 162/22 e 226/25.
+Em construção (repositório privado). Acervo atual:
+
+- 8 resoluções da CVM com histórico por ato desde a publicação original no DOU: Res. CVM 175 (fundos), 160 (ofertas públicas), 60 (securitizadoras), 17 (agente fiduciário), 30 (suitability), 21 (administração de carteiras), 80 (emissores) e 50 (PLD/FTP). Um commit por ato alterador, com a data do DOU (33 atos, de 2021-02-10 a 2026-07-03).
+- 12 leis com o texto da página do Planalto lida em 2026-10-28, sem histórico: Leis 6.385, 6.404, 14.430, 9.514, 10.931, 8.668, 11.076, 13.986, 14.711, 14.754, 12.431 e Código Civil (arts. 1.368-C a 1.368-F).
+
+Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
 
 ## Instalação
 
