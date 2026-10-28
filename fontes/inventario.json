@@ -4,6 +4,13 @@
     "numero": 175,
     "data": "2022-12-23",
     "dou": "2022-12-28",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-175-de-23-de-dezembro-de-2022-454141408",
+    "retificacoes": [
+      {
+        "dou": "2023-03-31",
+        "url_dou": "https://www.in.gov.br/web/dou/-/retificacao-474135111"
+      }
+    ],
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175.pdf"
@@ -56,6 +63,7 @@
         "numero": 200,
         "data": "2024-03-12",
         "dou": "2024-03-13",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-200-de-12-de-marco-de-2024-548024464",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol200.html",
         "normas_na_ementa": [
           175
@@ -83,6 +91,7 @@
         "numero": 209,
         "data": "2024-08-26",
         "dou": "2024-08-27",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-209-de-26-de-agosto-de-2024-580632272",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol209.html",
         "normas_na_ementa": [
           21,
@@ -114,6 +123,7 @@
         "numero": 240,
         "data": "2026-03-05",
         "dou": "2026-03-06",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-240-de-5-de-marco-de-2026-690831939",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol240.html",
         "normas_na_ementa": [
           175
@@ -131,6 +141,7 @@
     "numero": 160,
     "data": "2022-07-13",
     "dou": "2022-07-14",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-160-de-13-de-julho-de-2022-415116416",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol160.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol160.pdf"
@@ -144,6 +155,7 @@
         "numero": 173,
         "data": "2022-11-29",
         "dou": "2022-12-01",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-173-de-29-de-novembro-de-2022-447016757",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol173.html",
         "normas_na_ementa": [
           80,
@@ -159,6 +171,7 @@
         "numero": 180,
         "data": "2023-03-22",
         "dou": "2023-03-23",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-180-de-22-de-marco-de-2023-472347647",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol180.html",
         "normas_na_ementa": [
           80,
@@ -173,6 +186,7 @@
         "numero": 183,
         "data": "2023-05-11",
         "dou": "2023-05-12",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-183-de-11-de-maio-de-2023-482729165",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol183.html",
         "normas_na_ementa": [
           80,
@@ -187,6 +201,7 @@
         "numero": 208,
         "data": "2024-08-13",
         "dou": "2024-08-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-208-de-13-de-agosto-de-2024-578151173",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol208.html",
         "normas_na_ementa": [
           160
@@ -201,6 +216,7 @@
         "numero": 226,
         "data": "2025-03-06",
         "dou": "2025-03-07",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-226-de-6-de-marco-de-2025-616190249",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
         "normas_na_ementa": [
           17,
@@ -222,6 +238,7 @@
     "numero": 60,
     "data": "2021-12-23",
     "dou": "2021-12-24",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-60-de-23-de-dezembro-de-2021-370073233",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol060.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol060.pdf"
@@ -235,6 +252,7 @@
         "numero": 162,
         "data": "2022-07-13",
         "dou": "2022-07-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-162-de-13-de-julho-de-2022-415108961",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
         "normas_na_ementa": [
           8,
@@ -255,6 +273,7 @@
         "numero": 179,
         "data": "2023-02-14",
         "dou": "2023-02-15",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-179-de-14-de-fevereiro-de-2023-464593852",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
         "normas_na_ementa": [
           35
@@ -280,6 +299,7 @@
         "numero": 226,
         "data": "2025-03-06",
         "dou": "2025-03-07",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-226-de-6-de-marco-de-2025-616190249",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
         "normas_na_ementa": [
           17,
@@ -358,6 +378,7 @@
     "numero": 30,
     "data": "2021-05-11",
     "dou": "2021-05-12",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-30-de-11-de-maio-de-2021-319483569",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol030.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol030.pdf"
@@ -371,6 +392,7 @@
         "numero": 162,
         "data": "2022-07-13",
         "dou": "2022-07-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-162-de-13-de-julho-de-2022-415108961",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
         "normas_na_ementa": [
           8,
@@ -391,6 +413,7 @@
         "numero": 179,
         "data": "2023-02-14",
         "dou": "2023-02-15",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-179-de-14-de-fevereiro-de-2023-464593852",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
         "normas_na_ementa": [
           35
@@ -406,6 +429,7 @@
     "numero": 21,
     "data": "2021-02-25",
     "dou": "2021-02-26",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-21-de-25-de-fevereiro-de-2021-305390013",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol021.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol021.pdf"
@@ -419,6 +443,7 @@
         "numero": 162,
         "data": "2022-07-13",
         "dou": "2022-07-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-162-de-13-de-julho-de-2022-415108961",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
         "normas_na_ementa": [
           8,
@@ -439,6 +464,7 @@
         "numero": 167,
         "data": "2022-09-13",
         "dou": "2022-09-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-167-de-13-de-setembro-de-2022-429253657",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol167.html",
         "normas_na_ementa": [
           21
@@ -452,6 +478,7 @@
         "numero": 179,
         "data": "2023-02-14",
         "dou": "2023-02-15",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-179-de-14-de-fevereiro-de-2023-464593852",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
         "normas_na_ementa": [
           35
@@ -464,6 +491,7 @@
         "numero": 209,
         "data": "2024-08-26",
         "dou": "2024-08-27",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-209-de-26-de-agosto-de-2024-580632272",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol209.html",
         "normas_na_ementa": [
           21,
@@ -484,6 +512,7 @@
     "numero": 80,
     "data": "2022-03-29",
     "dou": "2022-03-30",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-80-de-29-de-marco-de-2022-389586265",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol080.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol080.pdf"
@@ -496,7 +525,9 @@
       {
         "numero": 59,
         "data": "2021-12-22",
-        "dou": "2021-12-23",
+        "dou": "2022-05-13",
+        "dou_original": "2021-12-23",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-59-de-22-de-dezembro-de-2021-399684303",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol059.html",
         "normas_na_ementa": [
           87
@@ -509,6 +540,7 @@
         "numero": 162,
         "data": "2022-07-13",
         "dou": "2022-07-14",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-162-de-13-de-julho-de-2022-415108961",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
         "normas_na_ementa": [
           8,
@@ -543,6 +575,7 @@
         "numero": 173,
         "data": "2022-11-29",
         "dou": "2022-12-01",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-173-de-29-de-novembro-de-2022-447016757",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol173.html",
         "normas_na_ementa": [
           80,
@@ -558,6 +591,7 @@
         "numero": 180,
         "data": "2023-03-22",
         "dou": "2023-03-23",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-180-de-22-de-marco-de-2023-472347647",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol180.html",
         "normas_na_ementa": [
           80,
@@ -572,6 +606,7 @@
         "numero": 183,
         "data": "2023-05-11",
         "dou": "2023-05-12",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-183-de-11-de-maio-de-2023-482729165",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol183.html",
         "normas_na_ementa": [
           80,
@@ -630,6 +665,7 @@
         "numero": 226,
         "data": "2025-03-06",
         "dou": "2025-03-07",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-226-de-6-de-marco-de-2025-616190249",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
         "normas_na_ementa": [
           17,
@@ -666,6 +702,7 @@
     "numero": 50,
     "data": "2021-08-31",
     "dou": "2021-09-02",
+    "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-50-de-31-de-agosto-de-2021-342360411",
     "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol050.html",
     "url_original": [
       "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol050.pdf"
@@ -679,6 +716,7 @@
         "numero": 179,
         "data": "2023-02-14",
         "dou": "2023-02-15",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-179-de-14-de-fevereiro-de-2023-464593852",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
         "normas_na_ementa": [
           35
@@ -691,6 +729,7 @@
         "numero": 245,
         "data": "2026-07-01",
         "dou": "2026-07-03",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-245-de-1-de-julho-de-2026-716680485",
         "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol245.html",
         "normas_na_ementa": [
           50
