@@ -1,0 +1,9 @@
+{
+  "name": "normas",
+  "description": "Texto das normas da CVM (piloto: Res. CVM 17) com data-base e consulta por artigo. Material não oficial.",
+  "author": {
+    "name": "dmarcheti"
+  },
+  "repository": "https://github.com/dmarcheti/normas-mercado-capitais",
+  "license": "CC-BY-4.0"
+}

@@ -16,6 +16,8 @@ jobs:
         run: python3 -m unittest discover -s tests
       - name: Validar frontmatter das normas
         run: python3 scripts/validar.py plugins/normas/normas
+      - name: Índice em dia (desatualizado = falha)
+        run: python3 scripts/indice.py --verificar
 
   gitleaks:
     runs-on: ubuntu-latest

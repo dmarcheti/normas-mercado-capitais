@@ -1,0 +1,16 @@
+{
+  "name": "normas-mercado-capitais",
+  "owner": {
+    "name": "dmarcheti"
+  },
+  "metadata": {
+    "description": "Normas do mercado de capitais brasileiro em Markdown, com histórico por ato alterador. Material não oficial."
+  },
+  "plugins": [
+    {
+      "name": "normas",
+      "source": "./plugins/normas",
+      "description": "Texto das normas da CVM (piloto: Res. CVM 17) com data-base e consulta por artigo. Material não oficial."
+    }
+  ]
+}

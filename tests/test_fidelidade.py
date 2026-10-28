@@ -213,3 +213,11 @@ class TestDiferencasFinal(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestAspasDoAto(unittest.TestCase):
+    def test_aspas_de_fechamento_do_ato_nao_contam(self):
+        from teste_ato import linhas_novas_fora_do_ato
+        ato = 'Art. 1º O art. 5º passa a vigorar com a seguinte redação:\n"§ 2º A declaração deve ser apresentada à CVM". (NR)'
+        diff = "+§ 2º A declaração deve ser apresentada à CVM."
+        self.assertEqual(linhas_novas_fora_do_ato(diff, ato), [])

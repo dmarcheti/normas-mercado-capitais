@@ -8,7 +8,16 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 
 ## Status
 
-Em construção. A estrutura, o inventário de atos e as ferramentas de conversão e validação estão sendo montados; ainda não há norma publicada no acervo.
+Em construção. Piloto: Res. CVM 17 (agente fiduciário), com a redação original e as alterações das Res. CVM 162/22 e 226/25.
+
+## Instalação
+
+Para quem for usar com um assistente de IA, ver `COMECE-AQUI.md`. No Claude Code:
+
+```
+/plugin marketplace add dmarcheti/normas-mercado-capitais
+/plugin install normas@normas-mercado-capitais
+```
 
 ## Licença
 

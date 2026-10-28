@@ -28,7 +28,9 @@ _SO_NUMERACAO = re.compile(
 
 
 def _compacto(texto):
-    return " ".join(normalizar_texto(texto).split())
+    # Aspas saem dos dois lados: o ato cita a nova redação entre aspas
+    # ('... CVM". (NR)'), e a norma alterada traz o texto sem elas.
+    return " ".join(normalizar_texto(texto).replace('"', "").split())
 
 
 def linhas_novas_fora_do_ato(diff, texto_ato):
