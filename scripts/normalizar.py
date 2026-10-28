@@ -9,8 +9,10 @@ normalizar_texto(md) -> str, linha a linha:
   dada pela Resolução CVM nº ...", "Inciso II revogado pela ...",
   "Art. 73-A incluído pela ...");
 - unifica a marca de revogação: "REVOGADO", "(Revogado)" e "(Revogado pela
-  ...)" viram "(Revogado)". A marca fica: o que se compara é a revogação,
-  não a ausência do texto.
+  ...)" viram "(Revogado)"; o consolidado ainda separa o dispositivo da marca
+  por travessão ("§ 4º - REVOGADO", "Seção I - REVOGADA", "CAPÍTULO III -
+  REVOGADO", "SUPLEMENTO H - REVOGADO", "- REVOGADO" depois de "Art. N"). A marca
+  fica: o que se compara é a revogação, não a ausência do texto.
 """
 import re
 
@@ -28,10 +30,11 @@ _NOTA_LINHA = re.compile(
     re.I,
 )
 _PREFIXO_DISPOSITIVO = (
-    r"(?:Art\.?\s*\S+|§+\s*\S+|Parágrafo único\.?|[IVXLCDM]+(?:-[A-Z]{1,2})?\s*-|\"?[a-z]\"?\)|\d+\s*[-.)])"
+    r"(?:Art\.?\s*\S+|§+\s*\S+|Parágrafo único\.?|[IVXLCDM]+(?:-[A-Z]{1,2})?\s*-|\"?[a-z]\"?\)|\d+\s*[-.)]"
+    r"|(?:Seção|CAPÍTULO|SUPLEMENTO)\s+\S+)"
 )
 _REVOGADO = re.compile(
-    r"^(?P<pre>" + _PREFIXO_DISPOSITIVO + r")?\s*\(?\s*revogad[oa]s?"
+    r"^(?P<pre>" + _PREFIXO_DISPOSITIVO + r")?\s*(?:-\s*)?\(?\s*revogad[oa]s?"
     r"(?:\s+pel[ao]s?\s+[^)]*)?\)?\.?$",
     re.I,
 )

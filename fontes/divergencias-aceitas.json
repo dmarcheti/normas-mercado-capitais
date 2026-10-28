@@ -6,5 +6,2813 @@
     "norma": "A substituição do agente fiduciário deve ser comunicada à CVM, no prazo de até sete dias úteis, contados a partir da assinatura do aditamento da escritura de emissão, do termo de securitização de direitos creditórios ou do instrumento equivalente, ou, quando exigido por lei, do registro desses instrumentos nos órgãos competentes.",
     "motivo": "O ato (DOU, DOCX e HTML da CVM) diz \"sete dias úteis\"; o consolidado da CVM diz \"7 (sete) dias úteis\". Vale o texto do ato; a diferença é editorial do consolidado.",
     "ref": "fontes/DIVERGENCIAS.md, Res. CVM 17, item 2"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Art. 43-C, caput",
+    "consolidado": "Enquanto não forem utilizados para a aquisição de novos recebíveis, os recursos decorrentes da revolvência dos direitos creditórios somente podem ser utilizados para aplicação em títulos públicos federais, operações compromissadas com lastro em títulos públicos federais ou em cotas de fundos de investimento classificados nas categorias \"Renda Fixa - Curto Prazo\" ou \"Renda Fixa - Simples.",
+    "norma": "Enquanto não forem utilizados para a aquisição de novos recebíveis, os recursos decorrentes da revolvência dos direitos creditórios somente podem ser utilizados para aplicação em títulos públicos federais, operações compromissadas com lastro em títulos públicos federais ou em cotas de fundos de investimento classificados nas categorias \"Renda Fixa - Curto Prazo\" ou \"Renda Fixa - Simples\".",
+    "motivo": "O ato fecha as aspas depois de Simples (\"Renda Fixa - Simples\".) e o consolidado da CVM omite o fecho. Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0060/divergencias.md, item 2"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Art. 52, inciso III-A",
+    "consolidado": "III-A - ata de reunião de diretoria ou do conselho de administração que delibere sobre a emissão de debêntures, em até 7 (sete) dias úteis contados de sua realização.",
+    "norma": "III-A - ata de reunião de diretoria ou do conselho de administração que delibere sobre a emissão de debêntures, em até sete dias úteis contados de sua realização.",
+    "motivo": "O ato (Res. CVM 226, art. 2º) diz \"sete dias úteis\"; o consolidado da CVM diz \"7 (sete) dias úteis\". Vale o texto do ato; mesma diferença editorial da Res. CVM 17, art. 9º.",
+    "ref": "dados/replay-0060/divergencias.md, item 3"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Art. 63, caput",
+    "consolidado": "..",
+    "norma": "...........................................................................",
+    "motivo": "Trecho omitido do artigo citado da Res. CVM 44: pontilhado longo no DOU e \"..\" no consolidado da CVM. Diferença tipográfica entre as fontes.",
+    "ref": "dados/replay-0060/divergencias.md, item 4"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Art. 64, inciso II",
+    "consolidado": "II - até o dia 31 de março de cada ano, confirmar que as informações contidas no formulário continuam válidas, à exceção dos participantes mencionados nos incisos V e VI do Anexo A, que devem confirmar as informações até 30 de abril, e no inciso XXII, que devem confirmar as informações até 31 de maio.",
+    "norma": "II - até o dia 31 de março de cada ano, confirmar que as informações contidas no formulário continuam válidas, à exceção dos participantes mencionados nos incisos V e VI do Anexo I, que devem confirmar as informações até 30 de abril, e no inciso XXII, que devem confirmar as informações até 31 de maio.",
+    "motivo": "O DOU de 2021-12-24 diz \"incisos V e VI do Anexo I\" e o consolidado da CVM diz \"Anexo A\". Possível efeito da retificação da Res. CVM 60 no DOU de 2023-01-06, que não foi obtida. Vale o DOU. [verificar]",
+    "ref": "dados/replay-0060/divergencias.md, item 5"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Art. 66, Anexo A da Res. CVM 47",
+    "consolidado": "| Companhias Securitizadoras (Categorias S1 e S2) | I - R$ 600,00 (seiscentos reais) para o formulário de referência e demonstrações financeiras acompanhadas dos documentos exigidos; e II - R$ 300,00 (trezentos reais) para os demais documentos. |",
+    "norma": "| Companhias Securitizadoras (Categorias S1 e S2) | I - R$ 600,00 (seiscentos reais) para o formulário de referência e demonstrações financeiras acompanhadas dos documentos exigidos; eII - R$ 300,00 (trezentos reais) para os demais documentos. |",
+    "motivo": "O DOU junta \"; e\" e \"II\" (\"; eII\"), por falha de espaçamento da fonte; o consolidado da CVM tem o espaço. Diferença tipográfica; vale o DOU.",
+    "ref": "dados/replay-0060/divergencias.md, item 6"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Assinatura eletrônica",
+    "consolidado": "Assinado eletronicamente por",
+    "norma": "",
+    "motivo": "Bloco de assinatura eletrônica ao final do consolidado da CVM; o texto do DOU, origem da norma, não o traz como texto normativo.",
+    "ref": "dados/replay-0060/divergencias.md, item 7"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Assinatura eletrônica",
+    "consolidado": "MARCELO BARBOSA",
+    "norma": "",
+    "motivo": "Bloco de assinatura eletrônica ao final do consolidado da CVM; o texto do DOU, origem da norma, não o traz como texto normativo.",
+    "ref": "dados/replay-0060/divergencias.md, item 7"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Assinatura eletrônica",
+    "consolidado": "Presidente",
+    "norma": "",
+    "motivo": "Bloco de assinatura eletrônica ao final do consolidado da CVM; o texto do DOU, origem da norma, não o traz como texto normativo.",
+    "ref": "dados/replay-0060/divergencias.md, item 7"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Anexo Normativo I, Capítulo III",
+    "consolidado": "CAPÍTULO III (Revogado)",
+    "norma": "CAPÍTULO III - OFERTA PÚBLICA DE DISTRIBUIÇÃO",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. No Capítulo III, o histórico mantém o título e acrescenta \"(Revogado)\"; o consolidado troca o título por \"CAPÍTULO III - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 10"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Anexo Normativo I, Capítulo III",
+    "consolidado": "",
+    "norma": "(Revogado)",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado; o normalizador (scripts/normalizar.py) só unifica REVOGADO depois de um prefixo de dispositivo com inciso. No Capítulo III, o histórico mantém o título e acrescenta \"(Revogado)\"; o consolidado troca o título por \"CAPÍTULO III - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 10"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Anexo Normativo II, Capítulo III, Seção I",
+    "consolidado": "Seção I (Revogado)",
+    "norma": "Seção I - Registro de Distribuição",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. Na Seção I, o histórico mantém o título e acrescenta \"(Revogado)\"; o consolidado troca o título por \"Seção I - REVOGADA\" e traz uma palavra solta (\"para\").",
+    "ref": "dados/replay-0060/divergencias.md, item 14"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Anexo Normativo II, Capítulo III, Seção I",
+    "consolidado": "para",
+    "norma": "",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado; o normalizador (scripts/normalizar.py) só unifica REVOGADO depois de um prefixo de dispositivo com inciso. Na Seção I, o histórico mantém o título e acrescenta \"(Revogado)\"; o consolidado troca o título por \"Seção I - REVOGADA\" e traz uma palavra solta (\"para\").",
+    "ref": "dados/replay-0060/divergencias.md, item 14"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento A, art. 2º, incisos XIV e XV",
+    "consolidado": "XIV - forma de liquidação do patrimônio separado;",
+    "norma": "XIV - forma de liquidação do patrimônio separado; e",
+    "motivo": "O ato (Res. CVM 194, art. 5º) só acrescenta os incisos XVI e XVII e não reescreve o XIV nem o XV; o histórico mantém o \"; e\" do XIV e o \".\" do XV do texto original. O consolidado da CVM ajusta os conectores (\";\" no XIV e no XV). Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0060/divergencias.md, item 16"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento A, art. 2º, incisos XIV e XV",
+    "consolidado": "XV - eventos de liquidação antecipada do título de securitização e, no caso de decisão da assembleia especial de investidores pela não liquidação, as eventuais situações que ensejam a liquidação dos títulos de securitização seniores dos investidores dissidentes que assim o solicitarem;",
+    "norma": "XV - eventos de liquidação antecipada do título de securitização e, no caso de decisão da assembleia especial de investidores pela não liquidação, as eventuais situações que ensejam a liquidação dos títulos de securitização seniores dos investidores dissidentes que assim o solicitarem.",
+    "motivo": "O ato (Res. CVM 194, art. 5º) só acrescenta os incisos XVI e XVII e não reescreve o XIV nem o XV; o histórico mantém o \"; e\" do XIV e o \".\" do XV do texto original. O consolidado da CVM ajusta os conectores (\";\" no XIV e no XV). Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0060/divergencias.md, item 16"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento C, tabela de experiências profissionais",
+    "consolidado": "| • nome da empresa |",
+    "norma": "|  nome da empresa |",
+    "motivo": "Marcador de lista: o consolidado da CVM traz \"•\" nas células; o DOU não tem o marcador. Diferença tipográfica entre as fontes.",
+    "ref": "dados/replay-0060/divergencias.md, item 18"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento C, tabela de experiências profissionais",
+    "consolidado": "| • cargo e funções inerentes ao cargo |",
+    "norma": "|  cargo e funções inerentes ao cargo |",
+    "motivo": "Marcador de lista: o consolidado da CVM traz \"•\" nas células; o DOU não tem o marcador. Diferença tipográfica entre as fontes.",
+    "ref": "dados/replay-0060/divergencias.md, item 18"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento C, tabela de experiências profissionais",
+    "consolidado": "| • atividade principal da empresa na qual tais experiências ocorreram |",
+    "norma": "|  atividade principal da empresa na qual tais experiências ocorreram |",
+    "motivo": "Marcador de lista: o consolidado da CVM traz \"•\" nas células; o DOU não tem o marcador. Diferença tipográfica entre as fontes.",
+    "ref": "dados/replay-0060/divergencias.md, item 18"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento C, tabela de experiências profissionais",
+    "consolidado": "| • datas de entrada e saída do cargo |",
+    "norma": "|  datas de entrada e saída do cargo |",
+    "motivo": "Marcador de lista: o consolidado da CVM traz \"•\" nas células; o DOU não tem o marcador. Diferença tipográfica entre as fontes.",
+    "ref": "dados/replay-0060/divergencias.md, item 18"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento E, item 1.4-A",
+    "consolidado": "| 1.4-A | Revolvência | [Sim/Não] |",
+    "norma": "| 1.4-A | REVOLVÊNCIA | [SIM/NÃO] |",
+    "motivo": "O ato (Res. CVM 194, art. 8º) escreve \"REVOLVÊNCIA\" e \"[SIM/NÃO]\" em caixa alta; o consolidado da CVM escreve \"Revolvência\" e \"[Sim/Não]\". Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0060/divergencias.md, item 19"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento E, itens 1.10.1.1 a 1.10.1.3",
+    "consolidado": "| 1.10.1.1 | Sênior Série 1, Série 2,... | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.10.1.1 | Sênior Série 1, Série 2,... | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 20"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento E, itens 1.10.1.1 a 1.10.1.3",
+    "consolidado": "| 1.10.1.2 | Mezanino A, Mezanino B, Mezanino C... | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.10.1.2 | Mezanino A, Mezanino B, Mezanino C... | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 20"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento E, itens 1.10.1.1 a 1.10.1.3",
+    "consolidado": "| 1.10.1.3 | Subordinada Junior | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.10.1.3 | Subordinada Junior | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 20"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento F, item 1.9",
+    "consolidado": "| 1.9 | Tipo de lastro | [título de dívida/ créditos] |",
+    "norma": "| 1.9 | Tipo de lastro | [título de dívida/créditos] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 21"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento F, itens 1.11.1.1 a 1.11.1.3",
+    "consolidado": "| 1.11.1.1 | Sênior Série 1, Série 2,... | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.11.1.1 | Sênior Série 1, Série 2,... | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 22"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento F, itens 1.11.1.1 a 1.11.1.3",
+    "consolidado": "| 1.11.1.2 | Mezanino A, Mezanino B, Mezanino C... | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.11.1.2 | Mezanino A, Mezanino B, Mezanino C... | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 22"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento F, itens 1.11.1.1 a 1.11.1.3",
+    "consolidado": "| 1.11.1.3 | Subordinada Junior | [mensal, bimestral, trimestral,...] |",
+    "norma": "| 1.11.1.3 | Subordinada Junior | [mensal, bimestral,trimestral,...] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 22"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento F, item 12.7.4",
+    "consolidado": "| 12.7.4 | Valor total das garantias sobre o valor total da carteira que conta com garantias (exceto coobrigação) | [%] |",
+    "norma": "| 12.7.4 | Valor total das garantias sobre o valor total da carteira que contacom garantias (exceto coobrigação) | [%] |",
+    "motivo": "O DOU junta \"contacom\" (falta de espaço da fonte); o consolidado da CVM tem \"conta com\". Diferença tipográfica; vale o DOU.",
+    "ref": "dados/replay-0060/divergencias.md, item 23"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento G, item 1.4-A",
+    "consolidado": "| 1.4-A | Revolvência | [sim/não] |",
+    "norma": "",
+    "motivo": "O ato (Res. CVM 194, art. 9º) escreve \"REVOLVÊNCIA\" e \"[SIM/NÃO]\" em caixa alta; o consolidado da CVM escreve \"Revolvência\" e \"[sim/não]\". Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0060/divergencias.md, item 24"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplemento G, item 1.8",
+    "consolidado": "| 1.8 | Tipo de lastro | [título de dívida/ direitos creditórios] |",
+    "norma": "| 1.8 | Tipo de lastro | [título de dívida/direitos creditórios] |",
+    "motivo": "O DOU não tem o espaço depois da vírgula (ou o tem em outro lugar) e o consolidado da CVM tem. Diferença tipográfica entre as fontes; vale o texto do DOU (origem da norma).",
+    "ref": "dados/replay-0060/divergencias.md, item 25"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplementos H a J",
+    "consolidado": "SUPLEMENTO H (Revogado)",
+    "norma": "SUPLEMENTO H À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. Nos Suplementos H, I e J, o histórico mantém o cabeçalho \"SUPLEMENTO X À RESOLUÇÃO CVM Nº 60...\" e acrescenta \"(Revogado)\"; o consolidado troca o cabeçalho por \"SUPLEMENTO X - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 27"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplementos H a J",
+    "consolidado": "SUPLEMENTO I (Revogado)",
+    "norma": "",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. Nos Suplementos H, I e J, o histórico mantém o cabeçalho \"SUPLEMENTO X À RESOLUÇÃO CVM Nº 60...\" e acrescenta \"(Revogado)\"; o consolidado troca o cabeçalho por \"SUPLEMENTO X - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 27"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplementos H a J",
+    "consolidado": "SUPLEMENTO J (Revogado)",
+    "norma": "SUPLEMENTO I À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. Nos Suplementos H, I e J, o histórico mantém o cabeçalho \"SUPLEMENTO X À RESOLUÇÃO CVM Nº 60...\" e acrescenta \"(Revogado)\"; o consolidado troca o cabeçalho por \"SUPLEMENTO X - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 27"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplementos H a J",
+    "consolidado": "",
+    "norma": "SUPLEMENTO J À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado; o normalizador (scripts/normalizar.py) só unifica REVOGADO depois de um prefixo de dispositivo com inciso. Nos Suplementos H, I e J, o histórico mantém o cabeçalho \"SUPLEMENTO X À RESOLUÇÃO CVM Nº 60...\" e acrescenta \"(Revogado)\"; o consolidado troca o cabeçalho por \"SUPLEMENTO X - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 27"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "Suplementos H a J",
+    "consolidado": "",
+    "norma": "(Revogado)",
+    "motivo": "O ato manda revogar o dispositivo; o histórico mantém a posição com \"(Revogado)\" (convenção do replay) e o consolidado da CVM escreve \"- REVOGADO\". Diferença editorial do consolidado. Nos Suplementos H, I e J, o histórico mantém o cabeçalho \"SUPLEMENTO X À RESOLUÇÃO CVM Nº 60...\" e acrescenta \"(Revogado)\"; o consolidado troca o cabeçalho por \"SUPLEMENTO X - REVOGADO\".",
+    "ref": "dados/replay-0060/divergencias.md, item 27"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 26, inciso VIII, alínea c, item 3",
+    "consolidado": "3 - (Revogado)",
+    "norma": "3 (Revogado)",
+    "motivo": "O consolidado da CVM escreve \"3 - (Revogado)\" e \"§ 2º - REVOGADO\"; a norma segue a convenção do acervo, \"(Revogado)\". Diferença editorial.",
+    "ref": "dados/replay-0160/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 26, inciso IX",
+    "consolidado": "IX - de debêntures não conversíveis emitidas pelas sociedades previstas no art. 2º, caput e §§ 1º-A e 1ª-B da Lei nº 12.431, de 24 de junho de 2011, relacionadas à captação de recursos com vistas a implementar projetos de investimento na área de infraestrutura, ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, considerados como prioritários na forma regulamentada pelo Poder Executivo Federal, de acordo com os requisitos da referida Lei, destinada exclusivamente a investidores qualificados (\"debêntures incentivadas emitidas por SPE\");",
+    "norma": "IX - de debêntures não conversíveis emitidas pelas sociedades previstas no art. 2º, caput e §§ 1º-A e 1ª-B da Lei nº 12.431, de 24 de junho de 2011, relacionadas à captação de recursos com vistas a implementar projetos de investimento na área de infraestrutura, ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, considerados como prioritários na forma regulamentada pelo Poder Executivo Federal, de acordo com os requisitos da referida Lei, destinada exclusivamente a investidores qualificados (\"debêntures incentivadas emitidas por SPE\") ;",
+    "motivo": "O ato 173 traz um espaço antes do ponto e vírgula do inciso IX; o consolidado não. Vale o texto do ato.",
+    "ref": "dados/replay-0160/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 81, parágrafo único",
+    "consolidado": "Parágrafo único. O disposto no caput não afasta a responsabilidade dos coordenadores perante o ofertante pela prestação de garantia, respeitadas as condições especificadas no contrato de distribuição.",
+    "norma": "Parágrafo único. O disposto no caput não afasta a responsabilidade do , dos coordenadores perante o ofertante pela prestação de garantia, respeitadas as condições especificadas no contrato de distribuição.",
+    "motivo": "Erro material do DOU no art. 81, parágrafo único (\"do , dos coordenadores\"), corrigido pela CVM na republicação de 2022-12-02 e na retificação do DOU de 2022-12-05, cujo texto não foi obtido. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 1"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, inciso I",
+    "consolidado": "I - nas ofertas elencadas nos incisos I a III-A, inciso IV, alínea \"b\", inciso V alínea \"c\", inciso V-A, inciso VI, alínea \"c\", inciso VII, alíneas \"c\" e \"d\", inciso VII-A, alínea \"b\", inciso VIII, alínea \"c\", e inciso XIII, todos do caput do art. 26; e",
+    "norma": "I - nas ofertas elencadas nos incisos I a III-A (1) , inciso IV, alínea \"b\" (2) , inciso V alínea \"c\" (3) , inciso V-A (4) , inciso VI, alínea \"c\" (5) , inciso VII (6) , alíneas \"c\" e \"d\", inciso VII-A, alínea \"b\" (7) , inciso VIII, alínea \"c\" (8) , e inciso XIII (9) , todos do caput do art. 26; e",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 89, § 5º",
+    "consolidado": "§ 5º Nas hipóteses dos incisos VIII e IX, os documentos devem ser disponibilizados em até 7 (sete) dias contados da:",
+    "norma": "§ 5º Nas hipóteses dos incisos VIII e IX, os documentos devem ser disponibilizados em até sete dias contados da:",
+    "motivo": "O ato 226 diz \"sete dias\"; o consolidado da CVM diz \"7 (sete) dias\". Vale o texto do ato; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 8"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Assinatura eletrônica, ao final",
+    "consolidado": "Assinado eletronicamente por",
+    "norma": "",
+    "motivo": "O consolidado da CVM termina com a assinatura eletrônica do Presidente, que não faz parte do texto normativo do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 9"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Assinatura eletrônica, ao final",
+    "consolidado": "MARCELO BARBOSA",
+    "norma": "",
+    "motivo": "O consolidado da CVM termina com a assinatura eletrônica do Presidente, que não faz parte do texto normativo do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 9"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Assinatura eletrônica, ao final",
+    "consolidado": "Presidente",
+    "norma": "",
+    "motivo": "O consolidado da CVM termina com a assinatura eletrônica do Presidente, que não faz parte do texto normativo do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 9"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, [●] no consolidado",
+    "consolidado": "3.1. Fatores de risco: \"Os investidores devem ler a seção fatores de risco, nas páginas [●] a [●].\"",
+    "norma": "3.1. Fatores de risco: \"Os investidores devem ler a seção fatores de risco, nas páginas [...] a [...].\"",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "3. Destinação de recursos",
+    "norma": "3. Destinação de recursos (8)",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "9. Viabilidade econômico-financeira",
+    "norma": "9. Viabilidade econômico-financeira (9)",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "13. Documentos e informações incorporados ao prospecto por referência ou como anexos",
+    "norma": "13. Documentos e informações incorporados ao prospecto por referência (10) ou como anexos",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, [●] no consolidado",
+    "consolidado": "3.1. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [●] a [●].\"",
+    "norma": "3.1. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [...] a [...].\"",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "",
+    "norma": "3. Destinação de recursos (11)",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, [●] no consolidado",
+    "consolidado": "4.2. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [●] a [●].\"",
+    "norma": "4.2. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [...] a [...].\"",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "",
+    "norma": "3. Destinação de recursos (12)",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "",
+    "norma": "9. Viabilidade econômico-financeira (13)",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "",
+    "norma": "13. Documentos e informações incorporados ao prospecto por referência (14) ou como anexos",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, [●] no consolidado",
+    "consolidado": "5.1. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [●] a [●].\"",
+    "norma": "5.1. Fatores de risco: \"Os investidores devem ler a seção de fatores de risco, nas páginas [...] a [...].\"",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "11.3. Em se tratando de devedores ou coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios, demonstrações financeiras, elaboradas em conformidade com a Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, auditadas por auditor independente registrado na CVM, referentes ao último exercício social;",
+    "norma": "11.3. Em se tratando de devedores ou coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios, demonstrações financeiras, elaboradas em conformidade com a Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, auditadas por auditor independente registrado na CVM, referentes ao último exercício social (15) ;",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "11.4. Informações descritas nos itens 1.1, 1.2, 1.11, 1.14, 6.1, 7.1, 8.2, 11.2, 12.1 e 12.3 do formulário de referência, em relação aos devedores responsáveis por mais de 20% (vinte por cento) dos direitos creditórios e que sejam destinatários dos recursos oriundos da emissão, ou aos coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios.",
+    "norma": "11.4. Informações descritas nos itens 1.1, 1.2, 1.11, 1.14, 6.1, 7.1, 8.2, 11.2, 12.1 e 12.3 do formulário de referência, em relação aos devedores responsáveis por mais de 20% (vinte por cento) dos direitos creditórios e que sejam destinatários dos recursos oriundos da emissão, ou aos coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios (16) .",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "12.3. Em se tratando de devedores ou coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios, demonstrações financeiras, elaboradas em conformidade com a Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, auditadas por auditor independente registrado na CVM, referentes ao último exercício social;",
+    "norma": "12.3. Em se tratando de devedores ou coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios, demonstrações financeiras, elaboradas em conformidade com a Lei nº 6.404, de 1976, e a regulamentação editada pela CVM, auditadas por auditor independente registrado na CVM, referentes ao último exercício social (17) ;",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, marcadores de notas",
+    "consolidado": "12.5. Informações descritas nos itens 1.1, 1.2, 1.11, 1.14, 6.1, 7.1, 8.2, 11.2, 12.1 e 12.3 do formulário de referência, em relação aos devedores responsáveis por mais de 20% (vinte por cento) dos direitos creditórios e que sejam destinatários dos recursos oriundos da emissão, ou aos coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios.",
+    "norma": "12.5. Informações descritas nos itens 1.1, 1.2, 1.11, 1.14, 6.1, 7.1, 8.2, 11.2, 12.1 e 12.3 do formulário de referência, em relação aos devedores responsáveis por mais de 20% (vinte por cento) dos direitos creditórios e que sejam destinatários dos recursos oriundos da emissão, ou aos coobrigados responsáveis por mais de 20% (vinte por cento) dos direitos creditórios (18) .",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta Há restrições à revenda das ações. |",
+    "norma": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da ofertaHá restrições à revenda das ações. |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| A.Valor mobiliário | [ ]ações/ [ ] bônus de subscrição / [ ] certificados de depósito sobre estes valores mobiliários | Seção #.# do prospecto |",
+    "norma": "| A.Valor mobiliário | [ ]ações/ [ ] bônus de subscrição / [ ] certificados de depósito sobre estes valores mobiliários | Seção \"#.#\"do prospecto |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.2) Código de negociação proposto | [ ] código / [ ] N/A | Seção #.# |",
+    "norma": "| a.2) Código de negociação proposto | [ ] código / [ ] N/A | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.3) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção #.# |",
+    "norma": "| a.3) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1) Quantidade ofertada (Volume) - oferta base | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.1) Quantidade ofertada (Volume) - oferta base | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.2) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.3) Montante Ofertado (=b.1*b.2) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.3) Montante Ofertado (=b.1*b.2) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.4) Número total de ações emitidas para a oferta base | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.4) Número total de ações emitidas para a oferta base | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.5) Número total de ações após a oferta base | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.5) Número total de ações após a oferta base | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.6) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.6) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.7) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.7) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.1) Percentual de ações que serão de propriedade dos donos atuais após a oferta com cenários | cenários lotes base, suplementar e adicional | Seção #.# |",
+    "norma": "| c.1) Percentual de ações que serão de propriedade dos donos atuais após a oferta com cenários | cenários lotes base, suplementar e adicional | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.2) Capitalização de Mercado ao preço da oferta | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| c.2) Capitalização de Mercado ao preço da oferta | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.3) Caixa líquido e investimentos financeiros (pro forma) | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| c.3) Caixa líquido e investimentos financeiros (pro forma) | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.4) Valor da empresa ao preço da oferta | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| c.4) Valor da empresa ao preço da oferta | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.5) Valor da empresa/(EBITDA pro forma) | Seção #.# |",
+    "norma": "| c.5) Valor da empresa/(EBITDA pro forma) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.6) Relação Preço/Lucro (Capitalização de Mercado/Lucro Líquido após Impostos) | Seção #.# |",
+    "norma": "| c.6) Relação Preço/Lucro (Capitalização de Mercado/Lucro Líquido após Impostos) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.7) Relação Preço/Lucro (ajustada) | Seção #.# |",
+    "norma": "| c.7) Relação Preço/Lucro (ajustada) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual será a destinação dos recursos da oferta? | [Máx. 200 palavras] | Seção #.# |",
+    "norma": "| Qual será a destinação dos recursos da oferta? | [Máx. 200 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Como o emissor gera receita? | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Como o emissor gera receita? | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quais os pontos fortes do emissor | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Quais os pontos fortes do emissor | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem são os principais clientes (máx. 3)? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quem são os principais clientes (máx. 3)? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem são os principais concorrentes (máx. 3)? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quem são os principais concorrentes (máx. 3)? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem é o CEO do emissor? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quem é o CEO do emissor? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem é o presidente do CA do emissor? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quem é o presidente do CA do emissor? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Participações significativas de administradores | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Participações significativas de administradores | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem é o controlador ou quem integra o grupo de controle? | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Quem é o controlador ou quem integra o grupo de controle? | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Principais características | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Principais características | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Direito de voto | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Direito de voto | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Restrições à livre negociação | ( ) Revenda restrita a investidores profissionais. ( ) Revenda a investidores qualificados após decorridos [ ] dias do final da oferta. ( ) Revenda ao público em geral após decorridos [ ] dias do final da oferta. ( ) parcelas com lock-up em ofertas destinadas a investidores não profissionais {descrição das condições}. ( ) Não há restrições à revenda. | Seção #.# |",
+    "norma": "| Restrições à livre negociação | ( ) Revenda restrita a investidores profissionais. ( ) Revenda a investidores qualificados após decorridos [ ] dias do final da oferta. ( ) Revenda ao público em geral após decorridos [ ] dias do final da oferta. ( ) parcelas com lock-up em ofertas destinadas a investidores não profissionais {descrição das condições}. ( ) Não há restrições à revenda. | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Política de dividendos | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Política de dividendos | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem pode participar da oferta? | [__] Investidores Profissionais [__] Investidores Qualificados [__] Público em geral | Seção #.# |",
+    "norma": "| Quem pode participar da oferta? | [__] Investidores Profissionais [__] Investidores Qualificados [__] Público em geral | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Informação sobre a existência e forma de exercício do direito de prioridade. | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Informação sobre a existência e forma de exercício do direito de prioridade. | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o valor mínimo para investimento? | Em R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| Qual o valor mínimo para investimento? | Em R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Como participar da oferta? | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Como participar da oferta? | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Como será feito o rateio? | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Como será feito o rateio? | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Como poderei saber o resultado do rateio? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Como poderei saber o resultado do rateio? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| O ofertante pode desistir da oferta? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| O ofertante pode desistir da oferta? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quais são os tributos incidentes sobre a oferta ou sobre a rentabilidade ou remuneração esperada? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quais são os tributos incidentes sobre a oferta ou sobre a rentabilidade ou remuneração esperada? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem são os coordenadores da oferta? | Informar apenas o nome conforme definido no prospecto. | Seção #.# |",
+    "norma": "| Quem são os coordenadores da oferta? | Informar apenas o nome conforme definido no prospecto. | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Outras instituições participantes da distribuição | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Outras instituições participantes da distribuição | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Procedimento de colocação | [ ] Melhores esforços/ [ ] Garantia Firme/ [ ]Compromisso de Subscrição | Seção #.# |",
+    "norma": "| Procedimento de colocação | [ ] Melhores esforços/ [ ] Garantia Firme/ [ ]Compromisso de Subscrição | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o período de reservas? | [data] a [data] | Seção #.# |",
+    "norma": "| Qual o período de reservas? | [data] a [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual a data da fixação de preços? | [data] | Seção #.# |",
+    "norma": "| Qual a data da fixação de preços? | [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual a data de divulgação do resultado do rateio? | [data] | Seção #.# |",
+    "norma": "| Qual a data de divulgação do resultado do rateio? | [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual a data da liquidação da oferta? | [data] | Seção #.# |",
+    "norma": "| Qual a data da liquidação da oferta? | [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quando receberei a confirmação da compra? | [data] | Seção #.# |",
+    "norma": "| Quando receberei a confirmação da compra? | [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quando poderei negociar? | [data] | Seção #.# |",
+    "norma": "| Quando poderei negociar? | [data] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta. Há restrições à revenda dos títulos de dívida. |",
+    "norma": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta.Há restrições à revenda dos títulos de dívida. |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| A. Valor Mobiliário | [ ] Debêntures / [ ] debêntures conversíveis ou permutáveis em ações/ [ ] Notas Comerciais / [ ] outro (descrever) | Seção #.# do prospecto |",
+    "norma": "| A. Valor Mobiliário | [ ] Debêntures / [ ] debêntures conversíveis ou permutáveis em ações/ [ ] Notas Comerciais / [ ] outro (descrever) | Seção \"#.#\"do prospecto |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.1) Emissor | Nome, CNPJ e página eletrônica | Seção #.# |",
+    "norma": "| a.1) Emissor | Nome, CNPJ e página eletrônica | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção #.# |",
+    "norma": "| b.1.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção #.# |",
+    "norma": "| b.1.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.3) Quantidade ofertada - lote base | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.1.3) Quantidade ofertada - lote base | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.1.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.5) Taxa de remuneração(intervalo) | Percentual (até seis casas decimais) | Seção #.# |",
+    "norma": "| b.1.5) Taxa de remuneração(intervalo) | Percentual (até seis casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.6) Montante ofertado da Série 1 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.1.6) Montante ofertado da Série 1 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.1.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.1.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexo G, linhas b.1.9, b.1.10 e b.2.10",
+    "consolidado": "| b.1.9) Título classificado como \"verde\", \"social\", \"sustentável\" ou correlato? | Sim/Não | Seção #.# |",
+    "norma": "| b.2.9) Título classificado como \"verde\", \"social\", \"sustentável\" ou correlato? | Sim/Não | Seção \"#.#\" |",
+    "motivo": "O DOU rotula b.2.9 o item b.1.9 da Série 1; as linhas b.1.10 e b.2.10 seguem o ato 226, com aspas simples. O consolidado rotula b.1.9 e usa o marcador sem aspas. Vale o texto do DOU e do ato.",
+    "ref": "dados/replay-0160/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexo G, linhas b.1.9, b.1.10 e b.2.10",
+    "consolidado": "| b.1.10) Previsão de desmembramento, do seu valor nominal, dos juros e dos demais direitos conferidos aos investidores? | Sim/Não | Seção #.# |",
+    "norma": "| b.1.10) Previsão de desmembramento, do seu valor nominal, dos juros e dos demais direitos conferidos aos investidores? | Sim/Não | Seção '#.#' |",
+    "motivo": "O DOU rotula b.2.9 o item b.1.9 da Série 1; as linhas b.1.10 e b.2.10 seguem o ato 226, com aspas simples. O consolidado rotula b.1.9 e usa o marcador sem aspas. Vale o texto do DOU e do ato.",
+    "ref": "dados/replay-0160/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção #.# |",
+    "norma": "| b.2.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção #.# |",
+    "norma": "| b.2.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.3) Quantidade ofertada | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.2.3) Quantidade ofertada | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.2.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.5) Taxa de remuneração (intervalo) | Percentual (até seis casas decimais) | Seção #.# |",
+    "norma": "| b.2.5) Taxa de remuneração (intervalo) | Percentual (até seis casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.6) Montante ofertado da Série 2 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.2.6) Montante ofertado da Série 2 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.2.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.2.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2.9) Título classificado como \"verde\", \"social\", \"sustentável\" ou correlato? | Sim/Não | Seção #.# |",
+    "norma": "",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexo G, linhas b.1.9, b.1.10 e b.2.10",
+    "consolidado": "| b.2.10) Previsão de desmembramento, do seu valor nominal, dos juros e dos demais direitos conferidos aos investidores? | Sim/Não | Seção #.# |",
+    "norma": "| b.2.10) Previsão de desmembramento, do seu valor nominal, dos juros e dos demais direitos conferidos aos investidores? | Sim/Não | Seção '#.#' |",
+    "motivo": "O DOU rotula b.2.9 o item b.1.9 da Série 1; as linhas b.1.10 e b.2.10 seguem o ato 226, com aspas simples. O consolidado rotula b.1.9 e usa o marcador sem aspas. Vale o texto do DOU e do ato.",
+    "ref": "dados/replay-0160/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Número total de debêntures emitidas para a oferta | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| Número total de debêntures emitidas para a oferta | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Montante total ofertado | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| Montante total ofertado | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Caixa líquido e investimentos (pro forma) | Seção #.# |",
+    "norma": "| Caixa líquido e investimentos (pro forma) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Valor da empresa/(EBITDA pro forma) | Seção #.# |",
+    "norma": "| Valor da empresa/(EBITDA pro forma) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quais os pontos fortes do emissor? | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Quais os pontos fortes do emissor? | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Principais características - Série [ ] | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Principais características - Série [ ] | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Possibilidade de resgate antecipado compulsório | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Possibilidade de resgate antecipado compulsório | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Vencimento/Prazo | [data]/[anos ou dias] | Seção #.# |",
+    "norma": "| Vencimento/Prazo | [data]/[anos ou dias] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Remuneração | Descrever a remuneração (DI + Spread/XX% DI/IPCA+Spread/Taxa fixa) em %a.a. | Seção #.# |",
+    "norma": "| Remuneração | Descrever a remuneração (DI + Spread/XX% DI/IPCA+Spread/Taxa fixa) em %a.a. | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Amortização/Juros | Descrever a periodicidade | Seção #.# |",
+    "norma": "| Amortização/Juros | Descrever a periodicidade | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Duration | [ ] anos | Seção #.# |",
+    "norma": "| Duration | [ ] anos | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Condições de recompra antecipada | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Condições de recompra antecipada | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Condições de vencimento antecipado | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Condições de vencimento antecipado | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Garantia 1 | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Garantia 1 | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Garantia 2 | [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Garantia 2 | [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Agência de Classificação de Risco | Seção #.# |",
+    "norma": "| Agência de Classificação de Risco | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Classificação de Risco | Seção #.# |",
+    "norma": "| Classificação de Risco | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o valor mínimo para investimento? | EM R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| Qual o valor mínimo para investimento? | EM R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Como será feito o rateio? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Como será feito o rateio? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Procedimento de colocação | [ ] Melhores esforços / [ ]Garantia Firme/ [ ] Compromisso de Subscrição | Seção #.# |",
+    "norma": "| Procedimento de colocação | [ ] Melhores esforços / [ ]Garantia Firme/ [ ] Compromisso de Subscrição | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta. Há restrições à revenda das cotas. |",
+    "norma": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta.Há restrições à revenda das cotas. |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| A. Valor Mobiliário | Seção #.# do prospecto |",
+    "norma": "| A. Valor Mobiliário | Seção \"#.#\"do prospecto |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.1) Quantidade ofertada | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| a.1) Quantidade ofertada | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.2) Preço unitário | Até seis casas decimais | Seção #.# |",
+    "norma": "| a.2) Preço unitário | Até seis casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.3) Montante Ofertado (= a.1*a.2) | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| a.3) Montante Ofertado (= a.1*a.2) | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.4) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| a.4) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.5) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| a.5) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual mercado de negociação? | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção #.# |",
+    "norma": "| Qual mercado de negociação? | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Código de negociação | [ ] código / [ ] N/A | Seção #.# |",
+    "norma": "| Código de negociação | [ ] código / [ ] N/A | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Emissor | Nome do fundo e da classe de cotas | Seção #.# |",
+    "norma": "| Emissor | Nome do fundo e da classe de cotas | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Administrador | Nome, CNPJ e página eletrônica | Seção #.# |",
+    "norma": "| Administrador | Nome, CNPJ e página eletrônica | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Gestor | Nome, CNPJ e página eletrônica | Seção #.# |",
+    "norma": "| Gestor | Nome, CNPJ e página eletrônica | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Informações sobre o gestor | Apresentação e informações gerais [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Informações sobre o gestor | Apresentação e informações gerais [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Informações sobre o administrador | Apresentação e informações gerais [Máx. 100 palavras] | Seção #.# |",
+    "norma": "| Informações sobre o administrador | Apresentação e informações gerais [Máx. 100 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Prazo de duração do fundo | [ ] indeterminado / [ ] determinado: data ou prazo, de acordo com o Regulamento do fundo | Seção #.# |",
+    "norma": "| Prazo de duração do fundo | [ ] indeterminado / [ ] determinado: data ou prazo, de acordo com o Regulamento do fundo | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quem pode participar da oferta? (preenchimento cumulativo) | [__] Investidores Profissionais / [__] Investidores Qualificados / [__] Público em geral | Seção #.# |",
+    "norma": "| Quem pode participar da oferta?(preenchimento cumulativo) | [__] Investidores Profissionais / [__] Investidores Qualificados / [__] Público em geral | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o valor mínimo para investimento? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Qual o valor mínimo para investimento? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Outras instituições participantes da distribuição | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Outras instituições participantes da distribuição | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Procedimento de colocação | Melhores esforços/Garantia Firme/Compromisso de Subscrição | Seção #.# |",
+    "norma": "| Procedimento de colocação | Melhores esforços/Garantia Firme/Compromisso de Subscrição | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o período de reservas? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Qual o período de reservas? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual a data da fixação de preços? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Qual a data da fixação de preços? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual a data da liquidação da oferta? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Qual a data da liquidação da oferta? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quando receberei a confirmação da compra? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quando receberei a confirmação da compra? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Quando poderei negociar? | [Máx. 25 palavras] | Seção #.# |",
+    "norma": "| Quando poderei negociar? | [Máx. 25 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta Há restrições à revenda das cotas de FIDC |",
+    "norma": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da ofertaHá restrições à revenda das cotas de FIDC |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| A. Valor Mobiliário | FIDC | Seção #.# do prospecto |",
+    "norma": "| A. Valor Mobiliário | FIDC | Seção \"#.#\"do prospecto |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.1) Ofertante/Emissor | Fundo | Seção #.# |",
+    "norma": "| a.1) Ofertante/Emissor | Fundo | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção #.# |",
+    "norma": "| b.1) Código de negociação proposto | [ ] código / [ ] N/A | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção #.# |",
+    "norma": "| b.2) Mercado de negociação | [ ] nome fantasia / [ ] não será negociado em mercado organizado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.3) Quantidade ofertada - lote base | Número inteiro, sem casas decimais | Seção #.# |",
+    "norma": "| b.3) Quantidade ofertada - lote base | Número inteiro, sem casas decimais | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.4) Preço (intervalo) | Em R$ (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.5) Taxa de remuneração (intervalo) | Campo para inserção de remuneração/indexação, podendo incluir textos (\"IPCA\" ou \"CDI\", por exemplo) e percentuais (até seis casas decimais) | Seção #.# |",
+    "norma": "| b.5) Taxa de remuneração (intervalo) | Campo para inserção de remuneração/indexação, podendo incluir textos (\"IPCA\" ou \"CDI\", por exemplo) e percentuais (até seis casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.6) Montante ofertado da Série 1 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção #.# |",
+    "norma": "| b.6) Montante ofertado da Série 1 (=b.1.3*b.1.4) (intervalo) | Em R$ milhões (até duas casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.7) Lote suplementar | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção #.# |",
+    "norma": "| b.8) Lote adicional | Sim/Não, caso \"Sim\", informar percentual | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| b.9) Título classificado como \"verde\", \"social\", \"sustentável\" ou correlato? | Sim/Não | Seção #.# |",
+    "norma": "| b.9) Título classificado como \"verde\", \"social\", \"sustentável\" ou correlato? | Sim/Não | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.1 Administrador | Seção #.# |",
+    "norma": "| c.1 Administrador | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.2 Gestor | Seção #.# |",
+    "norma": "| c.2 Gestor | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Tipo de Lastro | Pulverizado/concentrado | Seção #.# |",
+    "norma": "| Tipo de Lastro | Pulverizado/concentrado | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Principais informações sobre os direitos creditórios | Pulverizado: principais características dos créditos lastro (critérios de elegibilidade, política de concessão de crédito, identificação do cedente, por exemplo) / Concentrado: lista de devedores responsáveis por mais de 20% do lastro, %'s de concentração, informações básicas sobre devedores (setor de atuação, tipo societário, informar que DF's auditadas e indicadores financeiros ajustados pós captação estão disponíveis no Prospecto) | Seção #.# |",
+    "norma": "| Principais informações sobre os direitos creditórios | Pulverizado: principais características dos créditos lastro (critérios de elegibilidade, política de concessão de crédito, identificação do cedente, por exemplo) / Concentrado: lista de devedores responsáveis por mais de 20% do lastro, %'s de concentração, informações básicas sobre devedores (setor de atuação, tipo societário, informar que DF's auditadas e indicadores financeiros ajustados pós captação estão disponíveis no Prospecto) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Existência de crédito não performado | Não/Sim [se houver originador responsável por mais de 20% do lastro, inserir %'s de concentração, informações básicas sobre originadores (setor de atuação, tipo societário, informar que DF's auditadas estão disponíveis no Prospecto)] | Seção #.# |",
+    "norma": "| Existência de crédito não performado | Não/Sim [se houver originador responsável por mais de 20% do lastro, inserir %'s de concentração, informações básicas sobre originadores (setor de atuação, tipo societário, informar que DF's auditadas estão disponíveis no Prospecto)] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Informações estatísticas sobre inadimplementos | Principais informações estatísticas sobre inadimplementos, perdas ou pré-pagamento de créditos de mesma natureza dos direitos creditórios que comporão o patrimônio do ofertante, compreendendo um período de 3 (três) anos imediatamente anteriores à data da oferta | Seção #.# |",
+    "norma": "| Informações estatísticas sobre inadimplementos | Principais informações estatísticas sobre inadimplementos, perdas ou pré-pagamento de créditos de mesma natureza dos direitos creditórios que comporão o patrimônio do ofertante, compreendendo um período de 3 (três) anos imediatamente anteriores à data da oferta | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Resgate/Prazo | Seção #.# |",
+    "norma": "| Resgate/Prazo | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Informação sobre a existência e forma de exercício do direito de prioridade | [Máx. 50 palavras] | Seção #.# |",
+    "norma": "| Informação sobre a existência e forma de exercício do direito de prioridade | [Máx. 50 palavras] | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Qual o valor mínimo para investimento? | Em R$ (até 2 casas decimais) | Seção #.# |",
+    "norma": "| Qual o valor mínimo para investimento? | Em R$ (até 2 casas decimais) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Procedimento de colocação | [ ]Melhores esforços / [ ] Garantia Firme / [ ]Compromisso de Subscrição | Seção #.# |",
+    "norma": "| Procedimento de colocação | [ ]Melhores esforços / [ ] Garantia Firme / [ ]Compromisso de Subscrição | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da oferta Há restrições à revenda dos [CRA/CRI] |",
+    "norma": "| Aviso para ofertas distribuídas por rito de registro automático | A CVM não realizou análise prévia do conteúdo do prospecto, nem dos documentos da ofertaHá restrições à revenda dos [CRA/CRI] |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| A. Valor Mobiliário | [ ]CRA/ [ ] CRI | Seção #.# do prospecto |",
+    "norma": "| A. Valor Mobiliário | [ ]CRA/ [ ] CRI | Seção \"#.#\"do prospecto |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.1) Emissão e série | Seção #.# |",
+    "norma": "| a.1) Emissão e série | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| a.2) Ofertante/Emissor | Cia Securitizadora | Seção #.# |",
+    "norma": "| a.2) Ofertante/Emissor | Cia Securitizadora | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| c.3 Agente Fiduciário | Seção #.# |",
+    "norma": "| c.3 Agente Fiduciário | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Principais informações sobre o lastro | Pulverizado: principais características dos créditos lastro (critérios de elegibilidade, política de concessão de crédito, identificação do cedente, por exemplo) / Concentrado: lista de devedores responsáveis por mais de 20% do lastro, %'s de concentração, informações básicas sobre devedores (setor de atuação, tipo societário, informar que DF's auditadas e indicadores financeiros ajustados pós captação estão disponíveis no Prospecto) | Seção #.# |",
+    "norma": "| Principais informações sobre o lastro | Pulverizado: principais características dos créditos lastro (critérios de elegibilidade, política de concessão de crédito, identificação do cedente, por exemplo) / Concentrado: lista de devedores responsáveis por mais de 20% do lastro, %'s de concentração, informações básicas sobre devedores (setor de atuação, tipo societário, informar que DF's auditadas e indicadores financeiros ajustados pós captação estão disponíveis no Prospecto) | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, tabelas",
+    "consolidado": "| Vencimento/Prazo | Seção #.# |",
+    "norma": "| Vencimento/Prazo | Seção \"#.#\" |",
+    "motivo": "O consolidado da CVM escreve o marcador de seção sem aspas, usa [●] no lugar de [...] e difere em espaçamento. Vale o texto do DOU; diferença editorial do consolidado.",
+    "ref": "dados/replay-0160/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "NOTAS:",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(1) IPO de ações com análise via convênio, subsequente de ações, subsequente de ações de EGEM, subsequente de BDR Patrocinado Níveis I e II com lastro em ações",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(2) debêntures simples de emissor frequente de dívida destinada ao público investidor em geral",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(3) debêntures simples de emissor registrado para o público em geral nas hipóteses de registro automático",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(4) BDR Patrocinado com lastro em dívida",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(5) inicial de fundo fechado destinada ao público investidor em geral com análise via convênio",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(6) subsequente de cotas fundos fechados destinada ao público investidor em geral sem mudança na política de investimento ou ampliação de público-alvo",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(7) títulos de securitização de emissor frequente de dívida destinados ao público investidor em geral",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(8) títulos de securitização de devedores diversos destinados ao público investidor em geral",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Art. 87, notas de rodapé",
+    "consolidado": "",
+    "norma": "(9) sobras de aumento de capital privado",
+    "motivo": "O ato não diz onde as notas de rodapé do art. 87 entram. Foram postas no lugar das notas do art. 87, com os marcadores no inciso I; o consolidado da CVM não traz notas nem marcadores.",
+    "ref": "dados/replay-0160/divergencias.md, seção 2"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(8) Somente aplicável à distribuição de valores mobiliários de emissão do próprio ofertante",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(9) Obrigatório nos casos indicados nas alíneas \"a\" a \"c\" do inciso VII do art. 29 desta Resolução e facultativo nas demais hipóteses",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(10) Indicar a página na rede mundial de computadores na qual possa ser consultado.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(11) Somente aplicável à distribuição de valores mobiliários de emissão do próprio ofertante.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(12) Somente aplicável à oferta primária de cotas do fundo de investimento.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(13) Obrigatório no caso de ofertas públicas de distribuição de cotas de fundos de investimento imobiliário, nos termos da regulamentação específica, e facultativo nas demais hipóteses",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(14) Indicar a página na rede mundial de computadores na qual possa ser consultado.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(15) Essas informações não serão exigíveis quando o devedor ou coobrigado for instituição financeira ou equiparada, autorizada a funcionar pelo Banco Central do Brasil, e nas hipóteses em que haja dispensa de apresentação ou de arquivamento na CVM das demonstrações financeiras, na forma da regulamentação em vigor.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(16) Requisito facultativo para devedores ou coobrigados que sejam companhias abertas",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(17) Essas informações não serão exigíveis quando o devedor ou coobrigado for instituição financeira ou equiparada, autorizada a funcionar pelo Banco Central do Brasil, e nas hipóteses em que haja dispensa de apresentação ou de arquivamento na CVM das demonstrações financeiras, na forma da regulamentação em vigor.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-160",
+    "dispositivo": "Anexos, notas de rodapé",
+    "consolidado": "",
+    "norma": "(18) Requisito facultativo para devedores ou coobrigados que sejam companhias abertas.",
+    "motivo": "O consolidado da CVM não traz as notas de rodapé dos Anexos nem seus marcadores. Vale o texto do DOU.",
+    "ref": "dados/replay-0160/divergencias.md, seção 3"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 3º, XXXIV e XXXV",
+    "consolidado": "XXXIV - taxa de gestão: taxa cobrada do fundo para remunerar o gestor e os prestadores dos serviços por ele contratados e que não constituam encargos do fundo;",
+    "norma": "XXXIV - taxa de ingresso: taxa paga pelo cotista ao patrimônio da classe ao aplicar recursos em uma classe de cotas, conforme previsão do regulamento;",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 3º, XXXIV e XXXV",
+    "consolidado": "XXXV - taxa de ingresso: taxa paga pelo cotista ao patrimônio da classe ao aplicar recursos em uma classe de cotas, conforme previsão do regulamento;",
+    "norma": "XXXV - taxa de gestão: taxa cobrada do fundo para remunerar o gestor e os prestadores dos serviços por ele contratados e que não constituam encargos do fundo;",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 47, caput",
+    "consolidado": "I -",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 85",
+    "consolidado": "de",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 141, XXIII",
+    "consolidado": "XXIII -a Instrução CVM nº 554, de 17 de dezembro de 2014;",
+    "norma": "XXIII - a Instrução CVM nº 554, de 17 de dezembro de 2014;",
+    "motivo": "Pontuação do ato copiada literalmente; o consolidado a corrige.",
+    "ref": "dados/replay-0175/divergencias.md, D08"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 141, assinatura eletrônica",
+    "consolidado": "Assinado eletronicamente por",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 141, assinatura eletrônica",
+    "consolidado": "JOÃO PEDRO BARROSO DO NASCIMENTO",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Art. 141, assinatura eletrônica",
+    "consolidado": "Presidente",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "Art. 70-A. Pode ser constituído FIF representativo de Fundo de Aposentadoria Programada Individual - FAPI, nos termos da Lei nº 9.477, de 24 de julho de 1997.",
+    "norma": "",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "",
+    "norma": "## Art. 70-A",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "",
+    "norma": "Pode ser constituído FIF representativo de Fundo de Aposentadoria Programada Individual - FAPI, nos termos da Lei nº 9.477, de 24 de julho de 1997.",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "Art. 70-B. A denominação da classe de cotas do FAPI deve conter a expressão \"Fundo de Aposentadoria Programada Individual\", sendo inaplicável o disposto no art. 3º deste Anexo Normativo I.",
+    "norma": "",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "",
+    "norma": "## Art. 70-B",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo I, arts. 70-A e 70-B",
+    "consolidado": "",
+    "norma": "A denominação da classe de cotas do FAPI deve conter a expressão \"Fundo de Aposentadoria Programada Individual\", sendo inaplicável o disposto no art. 3º deste Anexo Normativo I.",
+    "motivo": "O ato escreve \"Art. 70–A\" (travessão); o consolidado traz o artigo em linha corrida, sem o título de artigo que a norma usa.",
+    "ref": "dados/replay-0175/divergencias.md, D07"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo II, art. 2º, XIII, e",
+    "consolidado": "Alínea \"e\"com redação dada pela Resolução CVM nº 240, de 05 de março de 2026.",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo II, art. 4º, § 4º",
+    "consolidado": "§ 4º Admite-se a utilização cumulativa dos sufixos descritos na parte geral da Resolução e neste Anexo Normativo II.",
+    "norma": "§ 4º. Admite-se a utilização cumulativa dos sufixos descritos na parte geral da Resolução e neste Anexo Normativo II.",
+    "motivo": "Pontuação do ato copiada literalmente; o consolidado a corrige.",
+    "ref": "dados/replay-0175/divergencias.md, D08"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo II, art. 17, III",
+    "consolidado": "III - pelo exercício do direito de dissidência, nos termos do art. 55, parágrafo único, deste Anexo Normativo II; ou",
+    "norma": "III - pelo exercício do direito de dissidência, nos termos do art. 55, parágrafo único, deste Anexo Normativo II, ou",
+    "motivo": "Pontuação do ato copiada literalmente; o consolidado a corrige.",
+    "ref": "dados/replay-0175/divergencias.md, D08"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo II, art. 42, § 1º, I",
+    "consolidado": "I - o gestor, a entidade registradora e o custodiante dos direitos creditórios não sejam partes relacionadas entre si; e",
+    "norma": "I - o administrador, o gestor, a entidade registradora e o custodiante dos direitos creditórios não sejam partes relacionadas entre si; e",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo V, Seção IV",
+    "consolidado": "Seção IV - Representação Direta",
+    "norma": "Seção IV - Representação direta",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo VII, art. 11, §§ 1º e 2º",
+    "consolidado": "§ 1º O quórum de deliberação para o processo de consulta formal previsto no § 5º do art. 76 da parte geral da Resolução deve ser o de maioria absoluta das cotas emitidas, independentemente da matéria.",
+    "norma": "§1º O quórum de deliberação para o processo de consulta formal previsto no § 5º do art. 76 da parte geral da Resolução deve ser o de maioria absoluta das cotas emitidas, independentemente da matéria.",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Anexo Normativo VII, art. 11, §§ 1º e 2º",
+    "consolidado": "§ 2º A ausência de resposta à consulta formal deve ser considerada como anuência por parte do cotista, desde que tal interpretação esteja expressamente prevista no regulamento e conste da própria consulta.",
+    "norma": "§2º A ausência de resposta à consulta formal deve ser considerada como anuência por parte do cotista, desde que tal interpretação esteja expressamente prevista no regulamento e conste da própria consulta.",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "Esta lâmina contém um resumo das informações essenciais sobre o [nome completo do fundo e, se for o caso, da classe de cotas], administrado por [nome completo do administrador] e gerido por [nome completo do gestor]. As informações completas sobre esse fundo podem ser obtidas em seu Regulamento, disponível em [endereço eletrônico]. As informações contidas neste material são atualizadas mensalmente. Ao realizar aplicações adicionais, consulte a versão mais atualizada.",
+    "norma": "Esta lâmina contém um resumo das informações essenciais sobre o [nome completo do fundo e, se for o caso, da classe de cotas], administrado por [nome completo do administrador] e gerido por [nome completo do gestor] i . As informações completas sobre esse fundo podem ser obtidas em seu Regulamento, disponível em [endereço eletrônico]. As informações contidas neste material são atualizadas mensalmente. Ao realizar aplicações adicionais, consulte a versão mais atualizada.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "1. PÚBLICO-ALVO: a classe de cotas é destinada a: [descrição do público-alvo] e [restrições de investimento].",
+    "norma": "1. PÚBLICO-ALVO: a classe de cotas é destinada a: [descrição do público-alvo] ii e [restrições de investimento] iii .",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "2. OBJETIVOS DA CLASSE DE COTAS: [descrição resumida dos objetivos, de modo que o investidor tenha um entendimento razoável da natureza e dos riscos envolvidos no investimento].",
+    "norma": "2. OBJETIVOS DA CLASSE DE COTAS: [descrição resumida dos objetivos, de modo que o investidor tenha um entendimento razoável da natureza e dos riscos envolvidos no investimento]. iv",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento E, Suplemento F",
+    "consolidado": "| Investimento inicial mínimo | R$ [●] OU [não há] |",
+    "norma": "| Investimento inicial mínimo | R$ [*] OU [não há] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Investimento adicional mínimo | R$ [●] OU [não há] |",
+    "norma": "| Investimento adicional mínimo | R$ [*] OU [não há] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Resgate mínimo | R$ [●] OU [não há] |",
+    "norma": "| Resgate mínimo | R$ [*] OU [não há] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento E, Suplemento F",
+    "consolidado": "| Valor mínimo para permanência | R$ [●] OU [não há] |",
+    "norma": "| Valor mínimo para permanência | R$ [*] OU [não há] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Prazo de carência | Os recursos investidos não podem ser resgatados antes de [●] dias contados da data da aplicação OU [outras condições de carência] OU [não há]. |",
+    "norma": "| Prazo de carência | Os recursos investidos não podem ser resgatados antes de [*] dias contados da data da aplicação OU [outras condições de carência] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Conversão das cotas | Na aplicação, o número de cotas compradas será calculado de acordo com o valor das cotas [na abertura/no fechamento] do [●] dia contado da data da aplicação. No resgate, o número de cotas canceladas será calculado de acordo com o valor das cotas [na abertura/no fechamento] do [●] dia contado da data do pedido de resgate. |",
+    "norma": "| Conversão das cotas | Na aplicação, o número de cotas compradas será calculado de acordo com o valor das cotas [na abertura/no fechamento] do [*] dia contado da data da aplicação.No resgate, o número de cotas canceladas será calculado de acordo com o valor das cotas [na abertura/no fechamento] do [*] dia contado da data do pedido de resgate. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Pagamento dos resgates | O prazo para o efetivo pagamento dos resgates é de [●] dias úteis ou corridos contados da data do pedido de resgate. |",
+    "norma": "| Pagamento dos resgates | O prazo para o efetivo pagamento dos resgates é de [*] v dias úteis ou corridos contados da data do pedido de resgate. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\". O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D01, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento E, Suplemento F",
+    "consolidado": "| Taxa de administração | [[●]% do patrimônio líquido ao ano] OU [A taxa de administração pode variar de [●]% a [●]% do patrimônio líquido ao ano]. |",
+    "norma": "| Taxa de administração | [[*]% do patrimônio líquido ao ano] OU [A taxa de administração pode variar de [*]% a [*]% do patrimônio líquido ao ano]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Taxa de entrada | [Para entrar a classe, o investidor paga uma taxa de [●]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |",
+    "norma": "| Taxa de entrada | [Para entrar a classe, o investidor paga uma taxa de [*]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Taxa de saída | [Para resgatar suas cotas[, antes de decorridos [●] dias da data de aplicação], o investidor paga uma taxa de [●]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |",
+    "norma": "| Taxa de saída | [Para resgatar suas cotas[, antes de decorridos [*] dias da data de aplicação], o investidor paga uma taxa de [*]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Taxa total de despesas | As despesas pagas pela classe de cotas representaram [●]% do seu patrimônio líquido diário médio no período que vai de [●] a [●]. A taxa de despesas pode variar de período para período e reduz a rentabilidade. O quadro com a descrição das despesas pode ser encontrado em [endereço eletrônico]. |",
+    "norma": "| Taxa total de despesas | As despesas pagas pela classe de cotas representaram [*]% do seu patrimônio líquido diário médio no período que vai de [*] a [*]. A taxa de despesas pode variar de período para período e reduz a rentabilidade. O quadro com a descrição das despesas pode ser encontrado em [endereço eletrônico]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "5. COMPOSIÇÃO DA CARTEIRA: o patrimônio líquido da classe de cotas é de [●] e as 5 espécies de ativos em que a carteira concentra seus investimentos são: [●]",
+    "norma": "5. COMPOSIÇÃO DA CARTEIRA: vi o patrimônio líquido da classe de cotas é de [*] e as 5 espécies de ativos em que a carteira concentra seus investimentos são vii : [*] viii",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\". O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D01, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento E, Suplemento F",
+    "consolidado": "1 2 3 4 5",
+    "norma": "",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "7. [HISTÓRICO DE RENTABILIDADE (para todos os fundos, exceto os estruturados)] OU [SIMULAÇÃO DE DESEMPENHO (para fundos estruturados)]",
+    "norma": "",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "7. [HISTÓRICO DE RENTABILIDADE ix (para todos os fundos, exceto os estruturados x )] OU [SIMULAÇÃO DE DESEMPENHO (para fundos estruturados)]",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "b. Rentabilidade acumulada nos últimos 5 anos: [●]% [quando houver índice de referência: no mesmo período o [índice de referência] variou [●]%]. A tabela abaixo mostra a rentabilidade da classe de cotas a cada ano nos últimos 5 anos. [Se for o caso; A classe obteve rentabilidade negativa em [●] desses anos.]",
+    "norma": "b. Rentabilidade acumulada nos últimos 5 anos: [*]% [quando houver índice de referência: no mesmo período o [índice de referência] variou [*]%]. A tabela abaixo mostra a rentabilidade da classe de cotas a cada ano nos últimos 5 anos. [Se for o caso; A classe obteve rentabilidade negativa em [*] desses anos.]",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Ano | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às políticas de investimento que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice) Em relação às políticas de investimento que possuem índice de referência de renda fixa: Desempenho como % do índice |",
+    "norma": "| Ano | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às políticas de investimento que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice)Em relação às políticas de investimento que possuem índice de referência de renda fixa: Desempenho como % do índice |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "c. Rentabilidade mensal: a rentabilidade da classe nos últimos 12 meses foi:",
+    "norma": "c. Rentabilidade mensal: a rentabilidade da classe nos últimos 12 meses foi: xi",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Mês | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às políticas de investimento que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice) Em relação às políticas de investimento que possuem índice de referência de renda fixa: Desempenho como % do índice |",
+    "norma": "| Mês xii | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às políticas de investimento que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice)Em relação às políticas de investimento que possuem índice de referência de renda fixa: Desempenho como % do índice |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "8. EXEMPLO COMPARATIVO: utilize a informação do exemplo abaixo para comparar os custos e os benefícios de investir na classe de cotas com os de investir em outras classes.",
+    "norma": "8. EXEMPLO COMPARATIVO: xiii utilize a informação do exemplo abaixo para comparar os custos e os benefícios de investir na classe de cotas com os de investir em outras classes.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) na classe de cotas no primeiro dia útil de [ano imediatamente anterior ao ano da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano da lâmina], você poderia resgatar R$[●], já deduzidos impostos no valor de R$[●].",
+    "norma": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) na classe de cotas no primeiro dia útil de [ano imediatamente anterior ao ano da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano da lâmina], você poderia resgatar R$[*], já deduzidos impostos no valor de R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "[adicionar, quando houver:] A taxa de ingresso teria custado R$[●], a taxa de saída teria custado R$[●], e o ajuste sobre performance individual teria custado R$[●].",
+    "norma": "[adicionar, quando houver:] A taxa de ingresso teria custado R$[*], a taxa de saída teria custado R$[*], e o ajuste sobre performance individual teria custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "b. Despesas: As despesas, incluindo a taxa de administração, [a taxa de performance (se houver) ], e as despesas operacionais e de serviços teriam custado R$[●].",
+    "norma": "b. Despesas: As despesas, incluindo a taxa de administração, [a taxa de performance (se houver) ], e as despesas operacionais e de serviços teriam custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "9. SIMULAÇÃO DE DESPESAS: utilize a informação a seguir para comparar o efeito das despesas em períodos mais longos de investimento entre diversos fundos:",
+    "norma": "9. SIMULAÇÃO DE DESPESAS: xiv utilize a informação a seguir para comparar o efeito das despesas em períodos mais longos de investimento entre diversos fundos:",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento C",
+    "consolidado": "| Simulação das Despesas | [●+3 anos] | [●+5 anos] |",
+    "norma": "| Simulação das Despesas | [*+3 anos] | [*+5 anos] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B, e também em Suplemento C",
+    "consolidado": "| Despesas previstas (se a TAXA TOTAL DE DESPESAS se mantiver constante) | R$ [●] | R$ [●] |",
+    "norma": "| Despesas previstas (se a TAXA TOTAL DE DESPESAS se mantiver constante) | R$ [*] | R$ [*] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "| Retorno bruto hipotético após dedução das despesas e do valor do investimento original (antes da incidência de impostos, de taxas de ingresso e/ou saída, ou de taxa de performance) | R$ [●] | R$ [●] |",
+    "norma": "| Retorno bruto hipotético após dedução das despesas e do valor do investimento original (antes da incidência de impostos, de taxas de ingresso e/ou saída, ou de taxa de performance) | R$ [*] | R$ [*] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA:",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "______________________",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "i O nome completo do fundo/da classe e seu CNPJ devem constar do rodapé de todas as páginas da lâmina.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "ii Por exemplo: (i) investir por longo/curto prazo; (ii) preservar seu capital contra inflação; (iii) ampliar seu capital e aceitem perdas; ou (iv) investir no setor [*].",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "iii Por exemplo: somente aceita aplicações de investidores pessoas jurídicas.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "iv Por exemplo: (i) acompanhar o CDI; (ii) acompanhar o IBOVESPA; (iii) oferecer rentabilidade superior à do IBOVESPA no longo prazo; ou (iv) acompanhar o desempenho das ações das companhias do setor [*].",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "v Deve-se incluir tanto o período de conversão quanto o prazo para o pagamento.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "vi Item dispensado nas lâminas apresentadas para registro do fundo/da classe.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "vii Quando se tratar de classes de investimento em cotas, a informação deve ser dada em relação à carteira dos fundos investidos e classes investidas.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Para efeito de preenchimento, as espécies de ativos são: Espécie de ativo | Descrição |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Títulos públicos federais | LTN; LFT; todas as séries de NTN |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Operações compromissadas lastreadas em títulos públicos federais | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Operações compromissadas lastreadas em títulos privados | Operações de compra ou venda de ativos pelo fundo com garantia de recompra ou revenda pelo vendedor |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Ações | Ações e certificados de depósito de ações de companhias abertas |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Depósitos a prazo e outros títulos de instituições financeiras | CDB, RDB, LF, DPGE, CCCB, LCA, LCI |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Cotas de fundos de investimento e classes Res. 175, de 2022 | Cotas de fundos de investimento regulados pela Res. CVM nº 175, de 2022 |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Outras cotas de fundos de investimento | Cotas de fundos de investimento regulados por outras instruções da CVM. |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Títulos de crédito privado | Debêntures, notas promissórias, commercial paper, export note, CCB, CPR, WA, NCA, CDA e CDCA |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Derivativos | Swaps, opções, operações a termo e operações no mercado futuro |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Investimento no exterior | Ativos financeiros adquiridos no exterior |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "| Outras aplicações | Qualquer aplicação que não possa ser classificada nas opções anteriores |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "ix Item dispensado nas lâminas apresentadas para registro do fundo e da classe.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "x Os fundos estruturados são definidos no OFÍCIO-CIRCULAR/CVM/SIN/Nº 1/2010, de 8 de janeiro de 2010.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xi Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que a classe complete 1 (um) ano de operação.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xii Meses devem ser ajustados de acordo com a data de atualização da lâmina.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xiii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xiv Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xv Período de 12 meses a que se refere a Demonstração.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xvi Preencher somente quando o gestor não pertencer ao mesmo grupo econômico do administrador.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento B",
+    "consolidado": "",
+    "norma": "xvii Item dispensado nas lâminas apresentadas na instrução do pedido de registro e até que o a classe complete 1 (um) ano de operação.",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "Conteúdo do relatório padronizado, conforme previsto no art. 2º, inciso XI, do Anexo Normativo I da Resolução CVM nº 175, de 2022.",
+    "norma": "Conteúdo do relatório padronizado conforme previsto no art. 2º, inciso IX, do Anexo Normativo I da Resolução CVM nº 175, de 2022.",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Mês | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação aos às classes que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice) Em relação às classes que possuem índice de referência de renda fixa: Desempenho da classe como % do índice |",
+    "norma": "| Mês | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação aos às classes que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice)Em relação às classes que possuem índice de referência de renda fixa: Desempenho da classe como % do índice |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Ano | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às classes que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice) Em relação às classes que possuem índice de referência de renda fixa: Desempenho da classe como % do índice |",
+    "norma": "| Ano | Rentabilidade (líquida de despesas, mas não de impostos) | Variação percentual do [índice de referência] (quando houver) | Em relação às classes que possuem índice de referência de renda variável: Contribuição em relação ao índice (Rentabilidade - Rentabilidade do índice)Em relação às classes que possuem índice de referência de renda fixa: Desempenho da classe como % do índice |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "O fundo ou a classe de cotas que destinar quantias diretamente aos cotistas, nos termos do art.36, do Anexo Normativo I, ou realizar a amortização de cotas deve incluir, às tabelas dos itens 2.1 e 2.2, coluna para divulgar a rentabilidade ajustada pela destinação de referidas quantias, agregando os recursos distribuídos e/ou as cotas emitidas à rentabilidade.",
+    "norma": "O fundo ou a classe de cotas que destinar quantias diretamente aos cotistas, nos termos do art. 36, do Anexo Normativo I, ou realizar a amortização de cotas deve incluir, às tabelas dos itens 2.1 e 2.2, coluna para divulgar a rentabilidade ajustada pela destinação de referidas quantias, agregando os recursos distribuídos e/ou as cotas emitidas à rentabilidade.",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "3. Despesas do fundo ou da classe de cotas: as despesas apresentadas na tabela abaixo são debitadas diretamente do patrimônio [do fundo] ou [da classe de cotas] e reduzem a sua rentabilidade. A taxa de despesas é baseada nas despesas ocorridas entre [●] e [●]. A taxa de despesas pode variar de período para período.",
+    "norma": "3. Despesas do fundo ou da classe de cotas: as despesas apresentadas na tabela abaixo são debitadas diretamente do patrimônio [do fundo] ou [da classe de cotas] e reduzem a sua rentabilidade. A taxa de despesas é baseada nas despesas ocorridas entre [*] e [*] xv . A taxa de despesas pode variar de período para período.",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\". O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D01, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Despesas | Percentual em relação ao patrimônio líquido diário médio em [●] |",
+    "norma": "| Despesas | Percentual em relação ao patrimônio líquido diário médio em [*] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Taxa de gestão (inclui as taxas de gestão e, se for o caso, de outros fundos em que esta classe tenha investido) | Parte fixa |",
+    "norma": "| Taxa de gestão (inclui as taxas de gestão e, se for o caso, de outros fundos | Parte fixa |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Parte variável (taxa de performance) |",
+    "norma": "| em que esta classe tenha investido) | Parte variável (taxa de performance) |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Despesas pagas ao grupo econômico do administrador (e do gestor, se este pertencer a grupo diferente) | Percentual em relação à taxa de despesas (item 3) em [●] |",
+    "norma": "| Despesas pagas ao grupo econômico do administrador (e do gestor, se este pertencer a grupo diferente) | Percentual em relação à taxa de despesas (item 3) em [*] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Despesas totais pagas ao grupo econômico do administrador | Taxa de administração |",
+    "norma": "| Taxa de administração |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Taxas de gestão e performance |",
+    "norma": "| Despesas totais pagas ao grupo econômico do administrador | Taxas de gestão e performance |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Despesas pagas ao grupo econômico do gestor | Taxas de gestão e performance |",
+    "norma": "| Despesas pagas ao grupo econômico do gestor xvi | Taxas de gestão e performance |",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) [no fundo] ou [na classe de cotas] no primeiro dia útil de [ano a que se refere a demonstração] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano a que se refere a demonstração +1], você poderia resgatar R$[●], já deduzidos impostos no valor de R$[●].",
+    "norma": "Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) [no fundo] ou [na classe de cotas] no primeiro dia útil de [ano a que se refere a demonstração] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano a que se refere a demonstração +1], você poderia resgatar R$[*], já deduzidos impostos no valor de R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "[adicionar, quando houver:] A taxa de ingresso teria custado R$[●], a taxa de saída teria custado R$[●], o ajuste sobre performance individual teria custado R$[●].",
+    "norma": "[adicionar, quando houver:] A taxa de ingresso teria custado R$[*], a taxa de saída teria custado R$[*], o ajuste sobre performance individual teria custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "Despesas: As despesas [do fundo] ou [da classe de cotas], incluindo a taxa de administração, as taxas de gestão e performance (se houver), a taxa de custódia e as despesas operacionais e de serviços teriam custado R$[●].",
+    "norma": "Despesas: As despesas [do fundo] ou [da classe de cotas], incluindo a taxa de administração, as taxas de gestão e performance (se houver), a taxa de custódia e as despesas operacionais e de serviços teriam custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "5. SIMULAÇÃO DE DESPESAS: utilize a informação a seguir para comparar o efeito das despesas em períodos mais longos de investimento entre diversos fundos ou classes de cotas:",
+    "norma": "5. SIMULAÇÃO DE DESPESAS: xvii utilize a informação a seguir para comparar o efeito das despesas em períodos mais longos de investimento entre diversos fundos ou classes de cotas:",
+    "motivo": "O DOU traz as marcas de nota de rodapé (i a xvii) dentro do texto e o bloco \"INSTRUÇÕES DE PREENCHIMENTO DA LÂMINA\"; o consolidado omite o bloco e traz numerais de nota soltos (\"1 2 3 4 5\").",
+    "ref": "dados/replay-0175/divergencias.md, D02"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento C",
+    "consolidado": "| Retorno bruto hipotético após dedução das despesas (antes da incidência de impostos, taxas de ingresso e/ou saída e taxa de performance) | R$ [●] | R$ [●] |",
+    "norma": "| Retorno bruto hipotético após dedução das despesas (antes da incidência de impostos, taxas de ingresso e/ou saída e taxa de performance) | R$ [*] | R$ [*] |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E",
+    "consolidado": "Conteúdo da lâmina de informações essenciais conforme previsto no art. 23 do Anexo Normativo II da Resolução CVM nº 175, de 2022.",
+    "norma": "Conteúdo da lâmina de informações essenciais, conforme previsto no art. 23 do Anexo Normativo II da Resolução CVM nº 175, de 2022.",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E",
+    "consolidado": "Antes de investir, compare o fundo com outros FIDC destinados ao público em geral.",
+    "norma": "ANTES DE INVESTIR, COMPARE O FUNDO COM OUTROS FIDC DESTINADOS AO PÚBLICO EM GERAL.",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E, e também em Suplemento F",
+    "consolidado": "| Prazo de carência | Os recursos investidos no fundo não podem ser resgatados antes de [●] dias contados da data da aplicação OU [outras condições de carência] OU [não há]. |",
+    "norma": "| Prazo de carência | Os recursos investidos no fundo não podem ser resgatados antes de [*] dias contados da data da aplicação OU [outras condições de carência] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E, e também em Suplemento F",
+    "consolidado": "| Pagamento dos resgates | O prazo para o efetivo pagamento dos resgates é de [●]dias [úteis ou corridos], contados da data do pedido de resgate. |",
+    "norma": "| Pagamento dos resgates | O prazo para o efetivo pagamento dos resgates é de [*]dias [úteis ou corridos], contados da data do pedido de resgate. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E, e também em Suplemento F",
+    "consolidado": "| Taxa de entrada | [Para entrar no fundo, o investidor paga uma taxa de [●]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |",
+    "norma": "| Taxa de entrada | [Para entrar no fundo, o investidor paga uma taxa de [*]% da aplicação inicial, que é deduzida diretamente do valor a ser aplicado.] OU [outras condições de entrada] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E, e também em Suplemento F",
+    "consolidado": "| Taxa de saída | [Para resgatar suas cotas do fundo [, antes de decorridos [●] dias da data de aplicação], o investidor paga uma taxa de [●]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |",
+    "norma": "| Taxa de saída | [Para resgatar suas cotas do fundo [, antes de decorridos [*] dias da data de aplicação], o investidor paga uma taxa de [*]% do valor do resgate, que é deduzida diretamente do valor a ser recebido.] OU [outras condições de saída] OU [não há]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E, e também em Suplemento F",
+    "consolidado": "| Taxa total de despesas | As despesas pagas pelo fundo representaram [●]% do seu patrimônio líquido diário médio no período que vai de [●] a [●]. A taxa de despesas pode variar de período para período e reduz a rentabilidade do fundo. O quadro com a descrição das despesas do fundo pode ser encontrado em [endereço eletrônico]. |",
+    "norma": "| Taxa total de despesas | As despesas pagas pelo fundo representaram [*]% do seu patrimônio líquido diário médio no período que vai de [*] a [*]. A taxa de despesas pode variar de período para período e reduz a rentabilidade do fundo. O quadro com a descrição das despesas do fundo pode ser encontrado em [endereço eletrônico]. |",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E",
+    "consolidado": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) na classe no primeiro dia útil de [ano imediatamente anterior ao de emissão da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano de emissão da lâmina], você poderia resgatar R$[●], já deduzidos impostos no valor de R$[●].",
+    "norma": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) na classe no primeiro dia útil de [ano imediatamente anterior ao de emissão da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano de emissão da lâmina], você poderia resgatar R$[*], já deduzidos impostos no valor de R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento E",
+    "consolidado": "b. Despesas: As despesas totais da classe teriam custado R$[●].",
+    "norma": "b. Despesas: As despesas totais da classe teriam custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento F",
+    "consolidado": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) no fundo no primeiro dia útil de [ano imediatamente anterior ao de emissão da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano de emissão da lâmina], você poderia resgatar R$[●], já deduzidos impostos no valor de R$[●].",
+    "norma": "a. Rentabilidade: Se você tivesse aplicado R$ 1.000,00 (mil reais) no fundo no primeiro dia útil de [ano imediatamente anterior ao de emissão da lâmina] e não houvesse realizado outras aplicações, nem solicitado resgates durante o ano, no primeiro dia útil de [ano de emissão da lâmina], você poderia resgatar R$[*], já deduzidos impostos no valor de R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento F",
+    "consolidado": "b. Despesas: As despesas totais do fundo teriam custado R$[●].",
+    "norma": "b. Despesas: As despesas totais do fundo teriam custado R$[*].",
+    "motivo": "O DOU traz o campo em branco como \"[*]\" e o consolidado como \"[●]\".",
+    "ref": "dados/replay-0175/divergencias.md, D01"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento G",
+    "consolidado": "| h) Classes de Cotas de Fundos de Investimento em Direitos Creditórios |",
+    "norma": "| h) Classe de cotas de fundos de Investimento em Direitos Creditórios |",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento G",
+    "consolidado": "| 3 - Posições Mantidas em Mercados de Derivativos (a+b+c+d) |",
+    "norma": "| 3 - Posições Mantidas em Mercados de Derivativos(a+b+c+d) |",
+    "motivo": "Diferença de espaçamento, pontuação, caixa ou formato entre o ato (DOU) e o consolidado.",
+    "ref": "dados/replay-0175/divergencias.md, D03"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento I",
+    "consolidado": "Itens 22, 23, 24 e 25 incluídos pela Resolução CVM nº 200, de 12 de março de 2024.",
+    "norma": "",
+    "motivo": "Linha ou anotação que só existe no consolidado (linha solta, anotação de alteração ou assinatura).",
+    "ref": "dados/replay-0175/divergencias.md, D06"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento I",
+    "consolidado": "Amortizações de cotas do Mês de Referência (%) = [(Soma das amortizações por cota realizadas no mês de referência) / (Valor patrimonial da cota do último dia útil do mês anterior ao de referência)] - 1. As amortizações não se confundem com os rendimentos declarados/distribuídos.",
+    "norma": "4. Amortizações de cotas do Mês de Referência (%) = [(Soma das amortizações por cota realizadas no mês de referência) / (Valor patrimonial da cota do último dia útil do mês anterior ao de referência)] - 1. As amortizações não se confundem com os rendimentos declarados/distribuídos.",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento O",
+    "consolidado": "4. Amortizações de cotas do Mês de Referência (%) = [(Soma das amortizações por cota realizadas no mês de referência) / (Valor patrimonial da cota do último dia útil do mês anterior ao de referência)] - 1. As amortizações não se confundem com os rendimentos declarados/distribuídos.\"",
+    "norma": "",
+    "motivo": "O texto do ato (DOU) difere do consolidado; vale o ato.",
+    "ref": "dados/replay-0175/divergencias.md, D05"
+  },
+  {
+    "id": "cvm-res-60",
+    "dispositivo": "tabelas",
+    "consolidado": "6",
+    "norma": "10",
+    "motivo": "o DOU e o DOCX da CVM partem as tabelas de modo diferente; mesmo texto nas células",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-60, tabelas"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "tabelas",
+    "consolidado": "41",
+    "norma": "42",
+    "motivo": "o DOU e o DOCX da CVM partem as tabelas de modo diferente; mesmo texto nas células",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, tabelas"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| 11) Considerando os cenários de estresse definidos pela B3 para os fatores primitivos de risco (FPR) que gerem o pior resultado para o fundo, qual a variação diária percentual esperada para o valor da cota. Especificar quais foram os cenários adotados da B3. |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| 11) Considerando os cenários de estresse definidos pela B3 para os fatores | Fator primitivo de risco | Cenário utilizado | % PL numérico com duas casas |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| primitivos de risco (FPR) que gerem o pior resultado para o fundo, qual a variação diária | IBOVESPA | decimais. |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| percentual esperada para o valor da cota. Especificar quais foram os cenários adotados da | Juros -Pré |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| B3. | Cupom Cambial |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| Dólar |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "",
+    "norma": "| Outros (especificar) |",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| Fator primitivo de risco | Cenário utilizado | % PL numérico com duas casas decimais. |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| IBOVESPA |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| Juros -Pré |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| Cupom Cambial |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| Dólar |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
+  },
+  {
+    "id": "cvm-res-175",
+    "dispositivo": "Suplemento D, item 11",
+    "consolidado": "| Outros (especificar) |",
+    "norma": "",
+    "motivo": "o DOU põe a pergunta 11 dentro da tabela, partida em células; o consolidado a traz fora; mesmo texto",
+    "ref": "fontes/DIVERGENCIAS.md, Fase 2, cvm-res-175, Suplemento D"
   }
 ]

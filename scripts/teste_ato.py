@@ -3,8 +3,10 @@
 
 linhas_novas_fora_do_ato(diff, texto_ato) -> linhas adicionadas no diff que
 não aparecem no texto do ato (depois de normalizar). Lista vazia = ok.
-Ignora headings, frontmatter, linhas só de numeração, a marca de revogação e
-a linha "Vigente a partir de ...". Limite conhecido: o teste pega texto
+Ignora headings, frontmatter, linhas só de numeração, a marca de revogação, a
+linha "Vigente a partir de ..." e os itens da lista `- arquivo.md` de `## Partes`
+num index.md de norma em partes. O diff do git usa o algoritmo histogram (o Myers
+padrão realinha mal blocos inalterados e acusa linhas que não mudaram). Limite conhecido: o teste pega texto
 inventado ou alterado, não texto verdadeiro colocado no lugar errado.
 
 Uso: python3 scripts/teste_ato.py <commit>
@@ -21,6 +23,7 @@ from normalizar import normalizar_texto  # noqa: E402
 from validar import CAMPOS, OPCIONAIS, MARCA_VIGENCIA  # noqa: E402
 
 _CHAVE_FRONTMATTER = re.compile(r"^(?:%s):(?:\s|$)" % "|".join(CAMPOS + OPCIONAIS))
+_ITEM_DE_PARTES = re.compile(r"^- [\w.-]+\.md$")
 _SO_NUMERACAO = re.compile(
     r"^(?:§+\s*\d+[º°]?(?:-[A-Z])?|Parágrafo único\.?|[IVXLCDM]+(?:-[A-Z]{1,2})?\s*[-–—]?"
     r"|[a-z]\)|\d+\s*[-–—.)]?|Art\.?\s*\d+[º°]?(?:-[A-Z]{1,2})?\.?)$"
@@ -36,10 +39,16 @@ def _compacto(texto):
 def linhas_novas_fora_do_ato(diff, texto_ato):
     ato = _compacto(texto_ato)
     fora = []
+    arquivo = ""
     for bruta in diff.split("\n"):
-        if not bruta.startswith("+") or bruta.startswith("+++"):
+        if bruta.startswith("+++"):
+            arquivo = bruta[4:].strip()
+            continue
+        if not bruta.startswith("+"):
             continue
         linha = bruta[1:]
+        if _ITEM_DE_PARTES.match(linha.strip()) and os.path.basename(arquivo) == "index.md":
+            continue
         if not linha.strip() or linha.strip() == "---" or linha.lstrip().startswith("#"):
             continue
         if _CHAVE_FRONTMATTER.match(linha) or MARCA_VIGENCIA.match(linha):
@@ -52,6 +61,10 @@ def linhas_novas_fora_do_ato(diff, texto_ato):
         if norm not in ato:
             fora.append(linha)
     return fora
+
+
+def argumentos_diff(commit):
+    return ["show", "--diff-algorithm=histogram", "--format=", "--no-color", "-U0", commit]
 
 
 def _git(raiz, *args):
@@ -78,7 +91,7 @@ def main(argv):
             print("teste_ato: o commit %s não traz o texto do ato em alteradoras/" % commit)
             return 2
         texto_ato = "\n".join(_git(raiz, "show", "%s:%s" % (commit, a)) for a in atos)
-        diff = _so_resolucoes(_git(raiz, "show", "--format=", "--no-color", "-U0", commit))
+        diff = _so_resolucoes(_git(raiz, *argumentos_diff(commit)))
     except subprocess.CalledProcessError as e:
         print("teste_ato: erro do git: %s" % e.stderr.decode("utf-8").strip())
         return 2

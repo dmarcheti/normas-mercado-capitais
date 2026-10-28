@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 from converter import normalizar_artigos  # noqa: E402
 from normalizar import normalizar_texto  # noqa: E402
-from teste_ato import linhas_novas_fora_do_ato  # noqa: E402
+from teste_ato import argumentos_diff, linhas_novas_fora_do_ato  # noqa: E402
 from teste_final import analisar_final, carregar_aceitas, diferencas_final  # noqa: E402
 from validar import partes_da_norma, texto_da_norma  # noqa: E402
 
@@ -73,6 +73,25 @@ class TestNormalizarTexto(unittest.TestCase):
         self.assertEqual(normalizar_texto("Parágrafo único. REVOGADO"), "Parágrafo único (Revogado)")
         self.assertEqual(normalizar_texto("REVOGADO"), "(Revogado)")
         self.assertEqual(normalizar_texto("(Revogado pela Resolução CVM nº 12)"), "(Revogado)")
+
+    def test_marca_de_revogacao_do_consolidado_com_travessao(self):
+        casos = {
+            "§ 4º - REVOGADO": "§ 4º (Revogado)",
+            "§ 2º \u2013 REVOGADO": "§ 2º (Revogado)",
+            "Seção I - REVOGADA": "Seção I (Revogado)",
+            "CAPÍTULO III - REVOGADO": "CAPÍTULO III (Revogado)",
+            "SUPLEMENTO H - REVOGADO": "SUPLEMENTO H (Revogado)",
+            "Art. 17 - REVOGADO": "Art. 17 (Revogado)",
+            "- REVOGADO": "(Revogado)",
+            "\u2013 REVOGADO": "(Revogado)",
+        }
+        for entrada, esperado in casos.items():
+            self.assertEqual(normalizar_texto(entrada), esperado, entrada)
+
+    def test_marca_de_revogacao_nao_afrouxa_texto_normativo(self):
+        for linha in ("Seção I - Registro de Distribuição", "CAPÍTULO III - OFERTA PÚBLICA DE DISTRIBUIÇÃO",
+                      "§ 4º - O prazo é revogado pelo regulamento.", "- revogado o prazo anterior"):
+            self.assertEqual(normalizar_texto(linha), linha)
 
     def test_idempotente(self):
         md = "VII – REVOGADO\n\nCaput com redação dada pela Resolução CVM nº 1, de 2020.\n\n“x” — y (NR)"
@@ -139,6 +158,41 @@ class TestLinhasNovasForaDoAto(unittest.TestCase):
         self.assertEqual(linhas_novas_fora_do_ato(d, ato), [])
 
 
+class TestTesteAtoDiff(unittest.TestCase):
+    def test_diff_do_git_usa_histogram(self):
+        args = argumentos_diff("abc123")
+        self.assertIn("--diff-algorithm=histogram", args)
+        self.assertEqual(args[-1], "abc123")
+
+    def test_lista_de_partes_do_index_nao_conta(self):
+        diff = (
+            "diff --git a/plugins/normas/normas/cvm/resolucoes/0175/index.md b/plugins/normas/normas/cvm/resolucoes/0175/index.md\n"
+            "--- a/plugins/normas/normas/cvm/resolucoes/0175/index.md\n"
+            "+++ b/plugins/normas/normas/cvm/resolucoes/0175/index.md\n"
+            "@@ -20,0 +21 @@\n"
+            "+- anexo-13.md\n"
+        )
+        self.assertEqual(linhas_novas_fora_do_ato(diff, "Art. 1º Texto."), [])
+
+    def test_item_de_lista_fora_do_index_continua_contando(self):
+        diff = (
+            "diff --git a/plugins/normas/normas/cvm/resolucoes/0175/parte-geral.md b/plugins/normas/normas/cvm/resolucoes/0175/parte-geral.md\n"
+            "+++ b/plugins/normas/normas/cvm/resolucoes/0175/parte-geral.md\n"
+            "@@ -20,0 +21 @@\n"
+            "+- anexo-13.md\n"
+        )
+        self.assertEqual(linhas_novas_fora_do_ato(diff, "Art. 1º Texto."), ["- anexo-13.md"])
+
+    def test_linha_de_texto_no_index_continua_contando(self):
+        diff = (
+            "diff --git a/plugins/normas/normas/cvm/resolucoes/0175/index.md b/plugins/normas/normas/cvm/resolucoes/0175/index.md\n"
+            "+++ b/plugins/normas/normas/cvm/resolucoes/0175/index.md\n"
+            "@@ -20,0 +21 @@\n"
+            "+Texto inventado.\n"
+        )
+        self.assertEqual(linhas_novas_fora_do_ato(diff, "Art. 1º Texto."), ["Texto inventado."])
+
+
 class TestDiferencasFinal(unittest.TestCase):
     def test_nota_de_alteracao_inline_no_consolidado_nao_conta(self):
         consolidado = "Art. 4º O agente deve agir. (Redação dada pela Resolução CVM nº 181, de 2023)\n"
@@ -159,6 +213,14 @@ class TestDiferencasFinal(unittest.TestCase):
     def test_revogado_nos_dois_lados_com_marcas_diferentes_nao_conta(self):
         consolidado = "Art. 4º O agente deve:\n\nII – REVOGADO\n\nInciso II revogado pela Resolução CVM nº 181, de 2023.\n"
         norma = CABECALHO + "## Art. 4º\n\nO agente deve:\n\nII – (Revogado pela Resolução CVM nº 181)\n"
+        self.assertEqual(diferencas_final(norma, consolidado), [])
+
+    def test_revogado_do_consolidado_com_travessao_casa_com_a_norma(self):
+        consolidado = (
+            "Art. 4º O agente deve:\n\n§ 4º - REVOGADO\n\nParágrafo revogado pela Resolução CVM nº 181.\n\n"
+            "Art. 17 - REVOGADO\n\nArt. 18 Texto.\n"
+        )
+        norma = CABECALHO + "## Art. 4º\n\nO agente deve:\n\n§ 4º (Revogado)\n\n## Art. 17\n\n(Revogado pela Resolução CVM nº 181)\n\n## Art. 18\n\nTexto.\n"
         self.assertEqual(diferencas_final(norma, consolidado), [])
 
     def test_texto_a_mais_na_norma_e_diferenca(self):
@@ -365,6 +427,28 @@ class TestTabelas(unittest.TestCase):
         dif = diferencas_final(norma, consolidado)
         self.assertIn("tabelas: 1 na norma, 2 no consolidado", dif)
 
+    PARTIDA = "| A | B |\n| --- | --- |\n| 1 | 2 |\n\n| 3 | 4 |\n"
+    INTEIRA = "Art. 1º Texto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n| 3 | 4 |\n"
+    ACEITA_TABELAS = {"id": "cvm-res-17", "dispositivo": "tabelas", "consolidado": "1", "norma": "2",
+                      "motivo": "o DOU parte a tabela em duas", "ref": "teste"}
+
+    def test_aceita_de_tabelas_cobre_a_contagem(self):
+        norma = norma_com_incerteza("## Art. 1º\n\nTexto.\n\n" + self.PARTIDA, "tabelas: o DOU parte uma tabela.")
+        self.assertEqual(diferencas_final(norma, self.INTEIRA), ["tabelas: 2 na norma, 1 no consolidado"])
+        self.assertEqual(diferencas_final(norma, self.INTEIRA, [self.ACEITA_TABELAS]), [])
+
+    def test_aceita_de_tabelas_com_outra_contagem_nao_e_usada(self):
+        norma = norma_com_incerteza("## Art. 1º\n\nTexto.\n\n" + self.PARTIDA, "tabelas: o DOU parte uma tabela.")
+        aceita = dict(self.ACEITA_TABELAS, norma="3")
+        dif = diferencas_final(norma, self.INTEIRA, [aceita])
+        self.assertIn("tabelas: 2 na norma, 1 no consolidado", dif)
+        self.assertTrue(any(d.startswith("aceita não usada: tabelas") for d in dif), dif)
+
+    def test_aceita_de_tabelas_exige_incerteza(self):
+        norma = norma_com_incerteza("## Art. 1º\n\nTexto.\n\n" + self.PARTIDA, "nada aqui")
+        dif = diferencas_final(norma, self.INTEIRA, [self.ACEITA_TABELAS])
+        self.assertTrue(any("aceita fora do incerteza: tabelas" in d for d in dif), dif)
+
     def test_mesma_tabela_com_celulas_vazias_a_mais_nao_conta(self):
         consolidado = "Art. 1º Texto.\n\n| A |  | B |\n| --- | --- | --- |\n| 1 |  | 2 |\n|  |  |  |\n"
         norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n"
@@ -380,3 +464,31 @@ class TestTabelas(unittest.TestCase):
         md = "Art. 1º Texto.\n\n| A |\n| --- |\n\n| B |\n| --- |\n"
         norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A |\n| --- |\n"
         self.assertIn("tabelas: 1 na norma, 2 no consolidado", diferencas_final(norma, md))
+
+    def test_anotacao_de_alteracao_dentro_da_tabela_nao_parte_a_tabela(self):
+        consolidado = (
+            "Art. 1º Texto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n"
+            "| Alínea b.1.10 incluída pela Resolução CVM nº 226, de 6 de março de 2025. |  |\n"
+            "| 3 | 4 |\n"
+        )
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A | B |\n| --- | --- |\n| 1 | 2 |\n| 3 | 4 |\n"
+        self.assertEqual(diferencas_final(norma, consolidado), [])
+
+    def test_anotacao_nao_junta_tabelas_separadas_por_linha_em_branco(self):
+        consolidado = "Art. 1º Texto.\n\n| A |\n| --- |\n\n| B |\n| --- |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\n| A |\n| --- |\n"
+        self.assertIn("tabelas: 1 na norma, 2 no consolidado", diferencas_final(norma, consolidado))
+
+    def test_tabela_sem_nenhuma_celula_com_texto_nao_conta(self):
+        consolidado = (
+            "Art. 1º Texto.\n\n| ~~A~~ | ~~B~~ |\n| --- | --- |\n| ~~1~~ |  |\n\n"
+            "Meio.\n\n| C |\n| --- |\n| 3 |\n"
+        )
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n\nMeio.\n\n| C |\n| --- |\n| 3 |\n"
+        self.assertEqual(diferencas_final(norma, consolidado), [])
+
+    def test_tabela_com_texto_so_no_consolidado_continua_sendo_diferenca(self):
+        consolidado = "Art. 1º Texto.\n\n| A |\n| --- |\n| 1 |\n"
+        norma = CABECALHO + "## Art. 1º\n\nTexto.\n"
+        dif = diferencas_final(norma, consolidado)
+        self.assertIn("tabelas: 0 na norma, 1 no consolidado", dif)

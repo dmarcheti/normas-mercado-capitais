@@ -6,7 +6,10 @@ diferencas_final(md_norma, md_consolidado, aceitas=()) -> lista de diferenças
 normalizar.py) e a partir do primeiro `## Art.`; título, ementa e considerandos
 ficam de fora (a ementa vai no frontmatter e o título do consolidado traz a lista
 de atos). Na norma, linhas `# título` (título de parte, Decisão 6) não contam.
-Tabelas: compara o número delas e as células não vazias (Decisão 10).
+Tabelas: compara o número delas e as células não vazias (Decisão 10). Linha de
+tabela que a normalização esvazia (anotação de alteração dentro da tabela) continua
+na tabela, sem partir; tabela sem nenhuma célula com texto depois da normalização
+(toda riscada ou revogada) não conta.
 
 Divergências aceitas (Decisão 11, `fontes/divergencias-aceitas.json`): cada
 entrada {id, dispositivo, consolidado, norma, motivo, ref} tira do diff o par de
@@ -66,18 +69,19 @@ def _celulas(linha):
 
 def _tabelas(linhas):
     """(linhas com cada linha de tabela reduzida às células não vazias, nº de tabelas).
-    Uma tabela é uma sequência de linhas seguidas que começam com `|`."""
-    saida, n, dentro = [], 0, False
+    Uma tabela é uma sequência de linhas seguidas que começam com `|`; só conta se
+    tiver ao menos uma célula com texto."""
+    saida, n, com_texto = [], 0, False
     for l in linhas:
         if l.lstrip().startswith("|"):
-            if not dentro:
-                n += 1
-            dentro = True
             celulas = _celulas(l)
             if celulas:
+                if not com_texto:
+                    n += 1
+                    com_texto = True
                 saida.append("| " + " | ".join(celulas) + " |")
         else:
-            dentro = False
+            com_texto = False
             saida.append(l)
     return saida, n
 
@@ -85,7 +89,12 @@ def _tabelas(linhas):
 def _linhas(md, norma=False):
     """(linhas comparáveis a partir do primeiro `## Art.`, nº de tabelas)."""
     md = _FRONTMATTER.sub("", md, count=1)
-    brutas = normalizar_texto(normalizar_artigos(md)).split("\n")
+    originais = normalizar_artigos(md).split("\n")
+    brutas = normalizar_texto("\n".join(originais)).split("\n")
+    # a normalização apaga a anotação de alteração dentro da tabela; a linha vira
+    # "|" para a tabela não se partir (_tabelas descarta a linha sem células)
+    brutas = ["|" if not l.strip() and o.lstrip().startswith("|") else l
+              for o, l in zip(originais, brutas)]
     if norma:
         brutas = [l for l in brutas if not _TITULO_PARTE.match(l)]
     for i, l in enumerate(brutas):
@@ -158,8 +167,20 @@ def analisar_final(md_norma, md_consolidado, aceitas=()):
             difs.append({"lado": "consolidado", "texto": cons[i], "ctx": _contexto(cons, i)})
         for j in range(j1, j2):
             difs.append({"lado": "norma", "texto": norma[j], "ctx": _contexto(norma, j)})
+    # entrada com dispositivo "tabelas" aceita a diferença de contagem: norma e
+    # consolidado trazem os números ("42" e "41"), não linhas de texto
+    de_tabela = [a for a in aceitas if a["dispositivo"] == "tabelas"]
+    aceitas = [a for a in aceitas if a["dispositivo"] != "tabelas"]
     difs, erros, usadas = _aplicar_aceitas(difs, aceitas, _incerteza(md_norma))
     saida = []
+    for a in de_tabela:
+        if "tabelas" not in _incerteza(md_norma).lower():
+            erros.append("aceita fora do incerteza: tabelas não aparece no incerteza da norma")
+        if (a["norma"], a["consolidado"]) == (str(n_norma), str(n_cons)) and n_norma != n_cons:
+            usadas += 1
+            n_cons = n_norma
+        else:
+            erros.append("aceita não usada: tabelas (%s)" % a["ref"])
     if n_norma != n_cons:
         saida.append("tabelas: %d na norma, %d no consolidado" % (n_norma, n_cons))
     for d in difs:

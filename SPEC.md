@@ -70,7 +70,11 @@ Quando o consolidado da CVM difere do ato por ajuste editorial dele (ex.: "sete"
 
 ## Teste final: tabelas
 
-O teste final compara o número de tabelas da norma com o do consolidado (diferença é erro) e as células não vazias de cada tabela; células vazias e linhas só de separador não contam.
+O teste final compara o número de tabelas da norma com o do consolidado (diferença é erro) e as células não vazias de cada tabela; células vazias e linhas só de separador não contam. Anotação de alteração do consolidado dentro de uma tabela ("Alínea b.1.10 incluída pela...") não parte a tabela, e tabela sem nenhuma célula com texto depois da normalização (toda riscada ou revogada) não conta.
+
+## Teste por ato
+
+O teste por ato (`scripts/teste_ato.py`) lê o diff do commit com `git show --diff-algorithm=histogram` (o Myers padrão realinha mal blocos inalterados) e ignora os itens `- arquivo.md` da lista `## Partes` de um `index.md`.
 
 ## Vigência diferida
 
@@ -78,7 +82,7 @@ O dispositivo traz a redação atual e, depois dela, a futura, aberta por uma li
 
 ## Marcas no texto
 
-- Revogado: `(Revogado)` ou `(Revogado pela Resolução CVM nº X)`. O consolidado da CVM usa `REVOGADO`; os testes tratam as três formas como iguais.
+- Revogado: `(Revogado)` ou `(Revogado pela Resolução CVM nº X)`. O consolidado da CVM usa `REVOGADO`, também com travessão depois do dispositivo (`§ 4º - REVOGADO`, `Seção I - REVOGADA`, `CAPÍTULO III - REVOGADO`, `SUPLEMENTO H - REVOGADO`, `Art. 17 - REVOGADO`); os testes tratam as formas como iguais.
 - Notas de alteração do consolidado ("Caput com redação dada pela...", "(NR)") não entram no texto da norma; o histórico de commits as substitui.
 - Redação antiga tachada no consolidado é descartada na comparação.
 
