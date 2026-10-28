@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+dados/
+.env
+*.xlsx
+*.docx
+*.pdf
+__pycache__/

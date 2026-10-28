@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você usar este acervo, cite-o assim."
+type: dataset
+title: "Normas do mercado de capitais"
+authors:
+  - family-names: Marcheti
+    given-names: Diogo
+url: "https://github.com/dmarcheti/normas-mercado-capitais"
+repository-code: "https://github.com/dmarcheti/normas-mercado-capitais"
+license: CC-BY-4.0

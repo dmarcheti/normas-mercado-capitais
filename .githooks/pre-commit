@@ -1,0 +1,7 @@
+#!/bin/sh
+# Bloqueia commit com CNPJ ou termo da lista proibida. Ativar em clone novo:
+#   git config normas.termos /caminho/para/termos-proibidos.txt
+#   git config core.hooksPath .githooks
+raiz=$(git rev-parse --show-toplevel) || exit 1
+cd "$raiz" || exit 1
+exec python3 scripts/varrer_termos.py
