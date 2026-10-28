@@ -15,7 +15,8 @@ import re
 import subprocess
 import sys
 
-CNPJ = re.compile(r"(?<!\d)\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}(?!\d)")
+# Sem letra ou dígito colado: 14 dígitos dentro de um hash hexadecimal (sha256) não são CNPJ.
+CNPJ = re.compile(r"(?<![0-9A-Za-z])\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}(?![0-9A-Za-z])")
 
 def _caminho_lista():
     """Caminho da lista de termos, que fica fora do repositório.

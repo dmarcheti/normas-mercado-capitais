@@ -65,3 +65,14 @@ class TestCarregarTermos(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestCnpjDentroDeHash(unittest.TestCase):
+    def test_hash_hexadecimal_nao_e_cnpj(self):
+        from varrer_termos import varrer
+        texto = "sha256_fonte: 29653ca2f0300a653b7cf646db92a1f9cf6794a72540926012984b67b7c62e73"
+        self.assertEqual(varrer({"a.md": texto}, []), [])
+
+    def test_cnpj_solto_continua_bloqueado(self):
+        from varrer_termos import varrer
+        self.assertEqual(varrer({"a.md": "CNPJ %s." % CNPJ_PURO}, []), ["a.md: " + CNPJ_PURO])
