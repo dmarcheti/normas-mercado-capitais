@@ -19,7 +19,10 @@ Repositório: `dmarcheti/normas-mercado-capitais` (hoje privado). Marketplace: `
 2. Informe `dmarcheti/normas-mercado-capitais`.
 3. Instale o plugin `normas`.
 4. Ligue "Sync automatically", para receber as atualizações do acervo sem refazer nada.
-5. Se o repositório ainda for privado, a conta precisa ter o Claude GitHub App instalado com acesso a ele. Sem isso a adição falha; diga isso à pessoa em vez de insistir.
+5. Ligue a skill `consultar-normas` (Customize > Skills, ou dentro do plugin `normas`). Instalar o plugin não liga a skill: sem este passo, a IA responde pela busca na web e ignora o acervo.
+6. Confira se a execução de código ("criar e editar arquivos") está ligada nas configurações; as skills dependem dela.
+7. Teste: pergunte "o acervo de normas registra alguma divergência na Resolução CVM 17?". Se a resposta não citar o arquivo do acervo, a skill não está ativa.
+8. Se o repositório ainda for privado, a conta precisa ter o Claude GitHub App instalado com acesso a ele. Sem isso a adição falha; diga isso à pessoa em vez de insistir.
 
 ## Claude Code
 
