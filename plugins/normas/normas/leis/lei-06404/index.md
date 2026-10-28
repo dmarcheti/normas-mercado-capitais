@@ -16,7 +16,8 @@ fonte_consolidada: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
 sha256_fonte: 3a2a86865e4315ebf1992edf279275507255f5e87eb0afd064c76c09186d00b1
 baixado_em: 2026-10-28
 verificado_em: 2026-10-28
-incerteza: Texto da página do Planalto, data-base 2026-10-28, sem histórico de redações: as notas do Planalto ("Redação dada pela...") ficam no texto e o texto tachado (revogado ou substituído) sai.
+incerteza: Texto da página do Planalto, data-base 2026-10-28, sem histórico de redações: as notas do Planalto ("Redação dada pela...") ficam no texto e o texto tachado (revogado ou substituído) sai. Os 37 rótulos de margem do Planalto ("Vigência", "Produção de efeito") saíram do texto: a data em que cada redação passou a valer não consta aqui [verificar na página do Planalto].
+nivel_verificacao: compilado-planalto
 ---
 
 LEI Nº 6.404, DE 15 DE DEZEMBRO DE 1976.
