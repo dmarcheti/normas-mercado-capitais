@@ -81,6 +81,26 @@ class TestPlanejarCommits(unittest.TestCase):
         self.assertEqual(sorted(commits[0]["arquivos"]), [RES % "0160.md"])
         self.assertEqual(len(commits[1]["arquivos"]), 2)
 
+    def test_retificacao_ganha_o_arquivo_da_retificacao(self):
+        retif = entrada(175, "retificacao", "2023-03-31", "0175/index.md", "r")
+        commits = mh.planejar_commits([[retif]], {})
+        self.assertIn(ALT % "0175-retificacao-2023-03-31.md", commits[0]["arquivos"])
+
+    def test_mensagem_soma_ementa_e_normas_do_commit(self):
+        msg = "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 35 e 60"
+        cadeias = [[entrada(179, "alteracao", "2023-02-15", n, "x" + n, msg)]
+                   for n in ("0021.md", "0030.md", "0050.md", "0060.md")]
+        commits = mh.planejar_commits(cadeias, {179: ALT % "0179.md"})
+        self.assertEqual(commits[0]["mensagem"],
+                         "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 21, 30, 35, 50 e 60")
+
+    def test_mensagem_com_norma_em_partes_conta_uma_vez(self):
+        msg = "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175"
+        e = entrada(181, "alteracao", "2023-03-30", "0175/index.md", "a", msg)
+        e["arquivos"][RES % "0175/anexo-01.md"] = "b"
+        commits = mh.planejar_commits([[e]], {181: ALT % "0181.md"})
+        self.assertEqual(commits[0]["mensagem"], msg)
+
     def test_alteracao_sem_arquivo_do_ato_e_erro(self):
         with self.assertRaises(ValueError) as e:
             mh.planejar_commits([[entrada(999, "alteracao", "2025-01-01", "0017.md", "x")]], ALTERADORAS)

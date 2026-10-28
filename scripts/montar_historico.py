@@ -94,12 +94,35 @@ def planejar_commits(cadeias, alteradoras):
                                   "mensagem": e["mensagem"], "arquivos": {}}
             _juntar(commits[chave], e)
     for (ato, tipo), commit in commits.items():
+        if tipo == "retificacao":
+            arq = "%s/%04d-retificacao-%s.md" % (ALTERADORAS, ato, commit["data_dou"])
+            commit["arquivos"][arq] = arq
         if tipo != "alteracao":
             continue
         if ato not in alteradoras:
             raise ValueError("ato %d sem arquivo em alteradoras/" % ato)
         commit["arquivos"][alteradoras[ato]] = alteradoras[ato]
+        commit["mensagem"] = _mensagem(commit)
     return sorted(commits.values(), key=lambda c: (c["data_dou"], c["ato"], TIPOS.index(c["tipo"])))
+
+
+def _lista(numeros):
+    nums = [str(n) for n in sorted(numeros)]
+    return nums[0] if len(nums) == 1 else "%s e %s" % (", ".join(nums[:-1]), nums[-1])
+
+
+def _mensagem(commit):
+    """A mensagem de alteração lista as resoluções da ementa (o que as cadeias
+    escreveram) mais as normas do acervo que o commit toca."""
+    m = re.match(r"^(.*: altera Res\. CVM )(.+)$", commit["mensagem"])
+    if not m:
+        return commit["mensagem"]
+    numeros = {int(n) for n in re.findall(r"\d+", m.group(2))}
+    for destino in commit["arquivos"]:
+        r = re.search(r"/resolucoes/(\d{4})(?:\.md|/)", destino)
+        if r:
+            numeros.add(int(r.group(1)))
+    return m.group(1) + _lista(numeros)
 
 
 def ambiente_git(commit):
