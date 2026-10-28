@@ -7,9 +7,17 @@ Não há gabarito independente do Planalto; o teste é de conversão:
    não tachado do HTML, linha a linha. As notas do Planalto ("(Redação dada
    pela Lei ...)") ficam no texto e contam na comparação.
 
+Conferência de conversão, não de conteúdo: texto tachado (`<strike>`, `<s>`, `<del>` e
+`<span style="text-decoration:line-through">`) não conta; `<br>` e célula de tabela viram
+espaço; linha de tabela do Markdown conta pelas células não vazias (separadores não contam);
+artigo dentro de citação (“...”, artigo de outra lei alterada pelo artigo em curso) é
+texto, não cabeçalho; "ruído de página" do Planalto (`*`, "Não remover", "Up", "Down" sozinhos
+numa linha) não conta, em nenhum dos lados.
+
 Recorte (Código Civil, arts. 1.368-C a 1.368-F): o HTML é cortado do primeiro
 artigo da norma até antes do primeiro artigo de número diferente do último
-artigo da norma; o resto do Código fica de fora.
+artigo da norma; o resto do Código fica de fora. Um título de divisão (TÍTULO IV...,
+CAPÍTULO...) que venha antes desse artigo seguinte também fica de fora.
 
 diferencas_lei(md_lei, html_compilado) -> lista de diferenças (vazia = ok).
 `html_compilado` pode ser str ou bytes (o charset vem do <meta>).
@@ -27,7 +35,7 @@ import sys
 from html.parser import HTMLParser
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from converter import decodificar_html, normalizar_artigos  # noqa: E402
+from converter import com_rotulo_riscado, decodificar_html, normalizar_artigos  # noqa: E402
 from normalizar import _CARACTERES  # noqa: E402
 from validar import texto_da_norma  # noqa: E402
 
@@ -36,9 +44,14 @@ LEIS = os.path.join(RAIZ, "plugins", "normas", "normas", "leis")
 _FRONTMATTER = re.compile(r"\A---\n.*?\n---\n", re.S)
 _HEADING = re.compile(r"^## Art\. (\S+)$")
 _ROTULO = re.compile(r"^(\d[\d.]*)[ºª]?(?:-([A-Z]+))?$")
-_BLOCOS = {"p", "div", "li", "ul", "ol", "tr", "table", "br", "blockquote", "center",
+_BLOCOS = {"p", "div", "li", "ul", "ol", "tr", "table", "blockquote", "center",
            "h1", "h2", "h3", "h4", "h5", "h6", "pre", "hr"}
 _CELULAS = {"td", "th"}
+_RUIDO = {"*", "Não remover", "Up", "Down"}
+_SEPARADOR_TABELA = re.compile(r"^\|(?:\s*:?-{3,}:?\s*\|)+$")
+# Título de divisão do texto ("TÍTULO IV Da Superfície"): no recorte, pertence ao artigo seguinte.
+ESTRUTURA = re.compile(
+    r"^(?:LIVRO|T[ÍI]TULO|SUBT[ÍI]TULO|CAP[ÍI]TULO|SE[ÇC][ÃA]O|SUBSE[ÇC][ÃA]O)\s+[IVXLCDM]+\b", re.I)
 _IGNORADAS = {"script", "style", "head", "title"}
 _TACHADAS = {"strike", "s", "del"}
 
@@ -48,42 +61,67 @@ class _TextoVisivel(HTMLParser):
 
     def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.paragrafos, self._atual = [], []
-        self._ignorar = self._tachado = self._sup = 0
+        self.paragrafos, self._atual, self._riscado = [], [], []
+        self._ignorar = self._tachado = self._sup = self._celulas = 0
+        self._spans = []
 
     def _fechar(self):
-        texto = " ".join("".join(self._atual).split())
-        if texto:
+        texto = com_rotulo_riscado("".join(self._atual), "".join(self._riscado))
+        if texto and texto not in _RUIDO:
             self.paragrafos.append(texto)
-        self._atual = []
+        self._atual, self._riscado = [], []
 
     def handle_starttag(self, tag, attrs):
         if tag in _IGNORADAS:
             self._ignorar += 1
         elif tag in _TACHADAS:
             self._tachado += 1
+        elif tag == "span":
+            riscado = "line-through" in (dict(attrs).get("style") or "").lower()
+            self._spans.append(riscado)
+            self._tachado += riscado
         elif tag == "sup":
             self._sup += 1
-        elif tag in _BLOCOS:
-            self._fechar()
-        elif tag in _CELULAS:
+        elif tag == "br":
             self._atual.append(" ")
+        elif tag in _CELULAS:
+            self._celulas += 1
+            self._atual.append(" ")
+        elif tag in _BLOCOS:
+            if self._celulas and tag not in ("tr", "table"):
+                self._atual.append(" ")  # parágrafo dentro de célula: a célula é uma linha só
+            else:
+                self._fechar()
 
     def handle_endtag(self, tag):
         if tag in _IGNORADAS:
             self._ignorar = max(0, self._ignorar - 1)
         elif tag in _TACHADAS:
             self._tachado = max(0, self._tachado - 1)
+        elif tag == "span":
+            if self._spans and self._spans.pop():
+                self._tachado = max(0, self._tachado - 1)
         elif tag == "sup":
             self._sup = max(0, self._sup - 1)
+        elif tag in _CELULAS:
+            self._celulas = max(0, self._celulas - 1)
+            self._atual.append(" ")
         elif tag in _BLOCOS:
-            self._fechar()
+            if self._celulas and tag not in ("tr", "table"):
+                self._atual.append(" ")
+            else:
+                self._celulas = 0 if tag in ("tr", "table") else self._celulas
+                self._fechar()
 
     def handle_data(self, data):
-        if self._ignorar or self._tachado:
+        if self._ignorar:
             return
         if self._sup and data.strip() in ("o", "O", "a", "A"):
             data = "º" if data.strip() in ("o", "O") else "ª"
+        if self._tachado:
+            if not self._celulas and not "".join(self._atual).strip():
+                self._riscado.append(data)
+            return
         self._atual.append(data)
 
     def close(self):
@@ -103,9 +141,13 @@ def _unidades(md):
     o segue; linhas `# título` (de parte) e o que vem antes do 1º artigo ficam de fora."""
     md = _FRONTMATTER.sub("", md, count=1)
     linhas = []
-    for l in normalizar_artigos(md).translate(_CARACTERES).split("\n"):
+    for l in normalizar_artigos(md, ignorar_citacoes=True).translate(_CARACTERES).split("\n"):
         l = " ".join(l.split())
-        if l and not l.startswith("# "):
+        if l.startswith("|"):  # tabela de dados do Markdown: células não vazias, sem separador
+            if _SEPARADOR_TABELA.match(l):
+                continue
+            l = " ".join(c.strip() for c in re.split(r"(?<!\\)\|", l.strip("|")) if c.strip())
+        if l and not l.startswith("# ") and l not in _RUIDO:
             linhas.append(l)
     unidades, i = [], 0
     while i < len(linhas):
@@ -170,6 +212,11 @@ def _recortar(html, rotulos):
         for i in range(ultimo_i + 1, len(html)):
             k = _chave(html[i][0]) if html[i][0] else None
             if k is not None and k[0] != ultimo[0]:
+                fim = i
+                break
+        # divisão (TÍTULO, CAPÍTULO...) entre o último artigo e o seguinte é do seguinte
+        for i in range(ultimo_i + 1, fim if fim < len(html) else ultimo_i + 1):
+            if ESTRUTURA.match(html[i][1]):
                 fim = i
                 break
     return html[inicio:fim], None

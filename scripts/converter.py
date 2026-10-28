@@ -379,6 +379,32 @@ def decodificar_html(dados):
         return dados.decode("cp1252", errors="replace")
 
 
+# Rótulo de dispositivo que o Planalto risca junto com o texto revogado: "Art. 32.", "§ 2º",
+# "Parágrafo único", "I -", "a)". Se o resto do parágrafo é só "(Revogado pela ...)", o
+# rótulo volta ao texto, para a marca de revogação não ficar solta no dispositivo anterior.
+_ROTULO_RISCADO = re.compile(
+    r"^(?:Art\s*\.?\s*\d[\d.]*\s*[º°o]?(?:\s*-\s*[A-Z]{1,2})?\s*\.?"
+    r"|§\s*\d+\s*[º°o]?(?:\s*-\s*[A-Z]{1,2})?\s*[-–.]?"
+    r"|Parágrafo único\.?"
+    r"|[IVXLCDM]+\s*[-–—]"
+    r"|[a-z]{1,2}\)|\d+\)|\d+\s*[-–])"
+)
+
+
+def com_rotulo_riscado(visivel, riscado):
+    """`visivel`: texto não tachado do parágrafo, sem nada visível antes do tachado;
+    `riscado`: o texto tachado que veio antes. Devolve o parágrafo com o rótulo riscado
+    na frente quando `visivel` é só a marca "(Revogado ...)"; senão, `visivel`."""
+    visivel = " ".join(visivel.split())
+    # sobra de pontuação do trecho tachado ("." antes do "(Revogado ...)") não conta
+    visivel = re.sub(r"^[.;:,\s]+(?=\(revogad)", "", visivel, flags=re.IGNORECASE)
+    if visivel.lower().startswith("(revogad"):
+        m = _ROTULO_RISCADO.match(" ".join(riscado.split()))
+        if m:
+            return m.group(0).strip() + " " + visivel
+    return visivel
+
+
 class _Planalto(HTMLParser):
     BLOCOS = ("p", "div", "h1", "h2", "h3", "h4", "h5", "h6", "li", "blockquote", "center")
     FORA = ("script", "style", "head", "title")
@@ -388,9 +414,11 @@ class _Planalto(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.blocos = []
         self._p = []
+        self._riscado = []  # texto tachado do parágrafo antes de qualquer texto visível
         self._fora = 0
         self._tachado = 0
         self._sup = 0
+        self._spans = []  # um item por <span> aberto: True se tem text-decoration:line-through
         self._tabela = None
         self._linha = None
         self._celula = None
@@ -401,14 +429,19 @@ class _Planalto(HTMLParser):
     def _fecha_paragrafo(self):
         txt = _espaco("".join(self._p))
         if txt:
+            txt = _espaco(com_rotulo_riscado(txt, "".join(self._riscado)))
             self.blocos.append(txt)
-        self._p = []
+        self._p, self._riscado = [], []
 
     def handle_starttag(self, tag, attrs):
         if tag in self.FORA:
             self._fora += 1
         elif tag in self.TACHADO:
             self._tachado += 1
+        elif tag == "span":
+            riscado = "line-through" in (dict(attrs).get("style") or "").lower()
+            self._spans.append(riscado)
+            self._tachado += riscado
         elif tag == "sup":
             self._sup += 1
         elif tag == "table":
@@ -428,6 +461,9 @@ class _Planalto(HTMLParser):
             self._fora = max(0, self._fora - 1)
         elif tag in self.TACHADO:
             self._tachado = max(0, self._tachado - 1)
+        elif tag == "span":
+            if self._spans and self._spans.pop():
+                self._tachado = max(0, self._tachado - 1)
         elif tag == "sup":
             self._sup = max(0, self._sup - 1)
         elif tag in ("td", "th") and self._celula is not None:
@@ -443,12 +479,16 @@ class _Planalto(HTMLParser):
             self._fecha_paragrafo()
 
     def handle_data(self, data):
-        if self._fora or self._tachado:
+        if self._fora:
             return
         if self._sup and data.strip() in ("o", "O", "º", "°"):
             data = "º"
         elif self._sup and data.strip() in ("a", "ª"):
             data = "ª"
+        if self._tachado:
+            if self._celula is None and not "".join(self._p).strip():
+                self._riscado.append(data)
+            return
         self._alvo().append(data)
 
     def fim(self):
@@ -466,8 +506,10 @@ def planalto_html_para_md(html):
 # ---------------------------------------------------------------- artigos
 
 # Início de artigo: "Art. 1º", "Art. 10.", "Art. 12-A", "Art. 5º-A", "Art. 1.001".
+# Tolera "Art . 3º" (espaço antes do ponto, comum no Planalto) e "Art. 104.A" (sem espaço).
 ARTIGO = re.compile(
-    r"^Art\.?\s*(?P<num>\d+(?:\.\d{3})*[º°]?(?:-[A-Z]{1,2})?)\s*\.?(?:\s+|$)(?P<resto>.*)$"
+    r"^Art\s*\.?\s*(?P<num>\d+(?:\.\d{3})*[º°]?(?:-[A-Z]{1,2})?)"
+    r"(?:\s*\.?(?:\s+|$)|\.(?=\S))(?P<resto>.*)$"
 )
 
 
@@ -478,11 +520,50 @@ NOTA_DE_ARTIGO = re.compile(
 )
 
 
-def normalizar_artigos(md):
-    saida = []
+_NUMERO_ARTIGO = re.compile(r"^(\d+(?:\.\d{3})*)[º°]?(?:-([A-Z]{1,2}))?$")
+
+
+def _sucede(anterior, atual):
+    """True se o artigo `atual` é o sucessor imediato de `anterior` (9º -> 9º-A -> 9º-B -> 10)."""
+    a, b = _NUMERO_ARTIGO.match(anterior), _NUMERO_ARTIGO.match(atual)
+    if not a or not b:
+        return False
+    n1, l1 = int(a.group(1).replace(".", "")), a.group(2) or ""
+    n2, l2 = int(b.group(1).replace(".", "")), b.group(2) or ""
+    if n2 == n1 + 1 and not l2:
+        return True
+    if n2 != n1 or not l2:
+        return False
+    if not l1:
+        return l2 == "A"
+    return l2 == l1[:-1] + chr(ord(l1[-1]) + 1) if l1[-1] != "Z" else False
+
+
+def normalizar_artigos(md, ignorar_citacoes=False):
+    """Linha que abre artigo vira `## Art. N` + linha em branco + resto.
+
+    `ignorar_citacoes=True` (leis): artigo dentro de citação (texto entre “ e ”, como
+    o artigo de uma lei alterada pelo artigo em curso) fica como texto, não vira cabeçalho.
+    Aspas retas ("): número ímpar de aspas abre a citação se a linha começa por aspa e a fecha
+    se não começa; número par não muda nada. Citação que o Planalto deixou sem fecho não
+    engole o resto da lei: o artigo que é o sucessor imediato do último artigo da lei
+    (Art. 6º, depois Art. 7º) fecha a citação."""
+    saida, aberto, reto, ultimo = [], 0, False, None
     for linha in md.split("\n"):
         m = ARTIGO.match(linha)
-        if m and not NOTA_DE_ARTIGO.match(m.group("resto")):
+        valido = bool(m) and not NOTA_DE_ARTIGO.match(m.group("resto"))
+        citado = ignorar_citacoes and (aberto > 0 or reto)
+        if citado and valido and ultimo is not None and _sucede(ultimo, m.group("num")):
+            citado, aberto, reto = False, 0, False
+        if ignorar_citacoes:
+            aberto = max(0, aberto + linha.count("“") - linha.count("”"))
+            if linha.count('"') % 2:
+                if linha.lstrip().startswith('"'):
+                    reto = True  # abre (ou reabre) a citação
+                elif reto:
+                    reto = False  # aspa ímpar no meio ou no fim da linha fecha
+        if valido and not citado:
+            ultimo = m.group("num")
             saida.append("## Art. " + m.group("num").replace("°", "º"))
             resto = m.group("resto").strip()
             if resto:
