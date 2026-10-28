@@ -23,10 +23,10 @@ diferencas_lei(md_lei, html_compilado) -> lista de diferenças (vazia = ok).
 `html_compilado` pode ser str ou bytes (o charset vem do <meta>).
 
 Uso: python3 scripts/teste_lei.py <id> [--norma ARQ.md] [--html ARQ.html]
-<id> é lei-N (ex.: lei-6404). Sem --norma, usa leis/lei-NNNNN.md ou
-leis/lei-NNNNN/index.md (norma em partes). Sem --html, usa
-dados/fontes/lei-NNNNN.html (cache de scripts/baixar.py). Saída 0 = ok;
-1 = diferenças; 2 = uso/erro.
+<id> é lei-N, decreto-N ou lcp-N (ex.: lei-6404, decreto-11964, lcp-105). Sem
+--norma, usa leis/<nome>.md ou leis/<nome>/index.md (norma em partes), com <nome>
+= lei-NNNNN, decreto-NNNNN ou lcp-NNN. Sem --html, usa dados/fontes/<nome>.html
+(cache de scripts/baixar.py). Saída 0 = ok; 1 = diferenças; 2 = uso/erro.
 """
 import difflib
 import os
@@ -35,7 +35,7 @@ import sys
 from html.parser import HTMLParser
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from converter import com_rotulo_riscado, decodificar_html, normalizar_artigos  # noqa: E402
+from converter import com_rotulo_riscado, decodificar_html, normalizar_artigos, sem_rotulos_de_vigencia  # noqa: E402
 from normalizar import _CARACTERES  # noqa: E402
 from validar import texto_da_norma  # noqa: E402
 
@@ -53,6 +53,12 @@ _SEPARADOR_TABELA = re.compile(r"^\|(?:\s*:?-{3,}:?\s*\|)+$")
 ESTRUTURA = re.compile(
     r"^(?:LIVRO|T[ÍI]TULO|SUBT[ÍI]TULO|CAP[ÍI]TULO|SE[ÇC][ÃA]O|SUBSE[ÇC][ÃA]O)\s+[IVXLCDM]+\b", re.I)
 _IGNORADAS = {"script", "style", "head", "title"}
+# Normas federais da camada de leis (SPEC v0.3.0): tipo -> (prefixo do id, nome do arquivo sem extensão).
+TIPOS_LEI = {
+    "lei": ("lei-", "lei-%05d"),
+    "decreto": ("decreto-", "decreto-%05d"),
+    "lei-complementar": ("lcp-", "lcp-%03d"),
+}
 _TACHADAS = {"strike", "s", "del"}
 
 
@@ -131,7 +137,7 @@ class _TextoVisivel(HTMLParser):
 
 def _texto_do_html(html):
     p = _TextoVisivel()
-    p.feed(decodificar_html(html))
+    p.feed(sem_rotulos_de_vigencia(decodificar_html(html)))
     p.close()
     return "\n\n".join(p.paragrafos)
 
@@ -251,13 +257,17 @@ def diferencas_lei(md_lei, html_compilado):
     return dif
 
 
-def _numero(id_norma):
-    m = re.fullmatch(r"lei-(\d+)", id_norma)
-    return int(m.group(1)) if m else None
+def nome_do_arquivo(id_norma):
+    """lei-6385 -> lei-06385; decreto-11964 -> decreto-11964; lcp-105 -> lcp-105; outro id -> None."""
+    for prefixo, molde in TIPOS_LEI.values():
+        m = re.fullmatch(re.escape(prefixo) + r"([1-9]\d*)", id_norma)
+        if m:
+            return molde % int(m.group(1))
+    return None
 
 
-def _caminho_norma(numero):
-    base = os.path.join(LEIS, "lei-%05d" % numero)
+def _caminho_norma(nome):
+    base = os.path.join(LEIS, nome)
     return base + ".md" if os.path.exists(base + ".md") else os.path.join(base, "index.md")
 
 
@@ -272,12 +282,12 @@ def main(argv):
     if len(args) != 1 or None in opcoes.values():
         print(__doc__)
         return 2
-    numero = _numero(args[0])
-    if numero is None:
-        print("teste_lei: id inválido %r (esperado lei-N)" % args[0])
+    nome = nome_do_arquivo(args[0])
+    if nome is None:
+        print("teste_lei: id inválido %r (esperado lei-N, decreto-N ou lcp-N)" % args[0])
         return 2
-    norma = opcoes.get("--norma") or _caminho_norma(numero)
-    html = opcoes.get("--html") or os.path.join(RAIZ, "dados", "fontes", "lei-%05d.html" % numero)
+    norma = opcoes.get("--norma") or _caminho_norma(nome)
+    html = opcoes.get("--html") or os.path.join(RAIZ, "dados", "fontes", nome + ".html")
     for caminho, nome in ((norma, "norma"), (html, "HTML")):
         if not os.path.exists(caminho):
             print("teste_lei: %s não encontrado: %s" % (nome, caminho))

@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 """Validador do frontmatter das normas (formato em SPEC.md).
 
-- validar_norma(path) -> lista de erros (vazia = ok). Aceita resolução
-  (`NNNN.md`), lei (`lei-NNNNN.md`) e o `index.md` de norma em partes
-  (`NNNN/index.md`, `lei-NNNNN/index.md`).
+- validar_norma(path) -> lista de erros (vazia = ok). Aceita os tipos da SPEC
+  (v0.3.0): resolução, instrução e parecer (`NNNN.md`), ofício-circular
+  (`<slug>.md`), lei (`lei-NNNNN.md`), decreto (`decreto-NNNNN.md`), lei
+  complementar (`lcp-NNN.md`) e o `index.md` de norma em partes (`NNNN/index.md`,
+  `lei-NNNNN/index.md` etc.).
 - partes_da_norma(index_path) -> caminhos das partes, na ordem de `## Partes`.
 - texto_da_norma(path) -> texto do arquivo único, ou do `index.md` seguido das
   partes (na ordem), concatenados.
 
 Uso: python3 scripts/validar.py plugins/normas/normas
-Valida cada norma em `<orgao>/resolucoes/` e em `leis/` sob o diretório dado
-(arquivo único ou o `index.md` da pasta). Os atos alteradores (`alteradoras/`)
-e o índice não seguem este schema.
+Valida cada norma em `<orgao>/resolucoes/`, `instrucoes/`, `pareceres-orientacao/`,
+`oficios-circulares/<pasta>/` e em `leis/` sob o diretório dado (arquivo único ou
+o `index.md` da pasta). Os atos alteradores (`alteradoras/`) e os índices
+(`indice.md`, `indices/`) não seguem este schema.
 Saída 0 = ok; 1 = erros; 2 = uso incorreto.
 """
 import datetime
@@ -25,12 +28,25 @@ CAMPOS = [
     "historico_parcial", "fonte_original", "fonte_consolidada", "sha256_fonte",
     "baixado_em", "verificado_em", "incerteza",
 ]
-OPCIONAIS = ["vigencia_inicio"]  # vêm depois de `incerteza`
-TIPOS = {  # tipo -> (orgao, prefixo do id, nome do arquivo)
-    "resolucao": ("cvm", "cvm-res-", "%04d"),
-    "lei": ("federal", "lei-", "lei-%05d"),
+OPCIONAIS = ["vigencia_inicio", "nivel_verificacao"]  # vêm depois de `incerteza`, nesta ordem
+# tipo -> (orgao, prefixo do id, nome do arquivo, pasta sob o órgão). Ofício-circular:
+# o nome do arquivo é o slug da página da CVM e o id é `cvm-<slug>` (molde None).
+TIPOS = {
+    "resolucao": ("cvm", "cvm-res-", "%04d", "resolucoes"),
+    "instrucao": ("cvm", "cvm-instr-", "%04d", "instrucoes"),
+    "parecer-orientacao": ("cvm", "cvm-po-", "%04d", "pareceres-orientacao"),
+    "oficio-circular": ("cvm", "cvm-", None, "oficios-circulares"),
+    "lei": ("federal", "lei-", "lei-%05d", "leis"),
+    "decreto": ("federal", "decreto-", "decreto-%05d", "leis"),
+    "lei-complementar": ("federal", "lcp-", "lcp-%03d", "leis"),
 }
-SITUACOES = ("vigente", "revogada", "parcialmente-revogada")
+TIPOS_FEDERAIS = tuple(t for t, (orgao, *_r) in TIPOS.items() if orgao == "federal")
+SITUACOES = ("vigente", "revogada", "parcialmente-revogada", "nao-informada")
+# A CVM não publica a vigência de pareceres e ofícios: só neles cabe `nao-informada`.
+TIPOS_SEM_VIGENCIA = ("parecer-orientacao", "oficio-circular")
+NIVEIS_VERIFICACAO = ("historico-conferido", "consolidado-convertido", "ato-convertido",
+                      "pdf-extraido", "compilado-planalto")
+SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 VERSOES = ("consolidado", "original")
 DATAS = ("data", "publicacao_dou", "baixado_em", "verificado_em")
 BOOLEANOS = ("aguarda_consolidado_oficial", "historico_parcial")
@@ -156,33 +172,51 @@ def validar_norma(path):
 
     v = valores
     if v["tipo"] not in TIPOS:
-        erros.append("tipo deve ser resolucao ou lei, veio %r" % v["tipo"])
-        orgao, prefixo, molde = "cvm", "cvm-res-", "%04d"
+        erros.append("tipo fora da lista %s: %r" % (", ".join(TIPOS), v["tipo"]))
+        orgao, prefixo, molde, _pasta = TIPOS["resolucao"]
     else:
-        orgao, prefixo, molde = TIPOS[v["tipo"]]
+        orgao, prefixo, molde, _pasta = TIPOS[v["tipo"]]
         if v["orgao"] != orgao:
             erros.append("orgao deve ser %s para tipo %s, veio %r" % (orgao, v["tipo"], v["orgao"]))
-    if not re.fullmatch(r"[1-9]\d*", v["numero"]):
+    numero_ok = bool(re.fullmatch(r"[1-9]\d*", v["numero"]))
+    if not numero_ok:
         erros.append("numero deve ser inteiro, veio %r" % v["numero"])
+    if em_partes:
+        nome_atual = os.path.basename(os.path.dirname(os.path.abspath(path)))
     else:
+        nome_atual = os.path.basename(path)[:-3] if path.endswith(".md") else os.path.basename(path)
+    if v["tipo"] == "oficio-circular":
+        # sem regra entre numero e id: o id vem do slug da página da CVM (nome do arquivo)
+        if not SLUG.fullmatch(nome_atual):
+            erros.append("nome do arquivo do ofício deve ser o slug da página da CVM "
+                         "(minúsculas, dígitos e hífen), veio %r" % nome_atual)
+        elif v["id"] != prefixo + nome_atual:
+            erros.append("id %r incoerente com o nome do arquivo (esperado %s%s)" % (v["id"], prefixo, nome_atual))
+    elif numero_ok:
         if v["id"] != "%s%s" % (prefixo, v["numero"]):
             erros.append("id %r incoerente com numero %s (esperado %s%s)" % (v["id"], v["numero"], prefixo, v["numero"]))
         nome = molde % int(v["numero"])
         if em_partes:
-            if os.path.basename(os.path.dirname(os.path.abspath(path))) != nome:
+            if nome_atual != nome:
                 erros.append("o index.md deve ficar na pasta %s/" % nome)
-        elif os.path.basename(path) != nome + ".md":
+        elif nome_atual != nome:
             erros.append("nome do arquivo deve ser %s.md" % nome)
     for c in DATAS:
         if not _data_valida(v[c]):
             erros.append("%s deve ser AAAA-MM-DD válida, veio %r" % (c, v[c]))
     if v["situacao"] not in SITUACOES:
         erros.append("situacao fora da lista %s: %r" % (", ".join(SITUACOES), v["situacao"]))
+    elif v["situacao"] == "nao-informada" and v["tipo"] not in TIPOS_SEM_VIGENCIA:
+        erros.append("situacao nao-informada só cabe em %s, não em %s" % (" e ".join(TIPOS_SEM_VIGENCIA), v["tipo"]))
     if v["versao_texto"] not in VERSOES:
         erros.append("versao_texto fora da lista %s: %r" % (", ".join(VERSOES), v["versao_texto"]))
-    if v["tipo"] == "lei":
+    if v["tipo"] in TIPOS_FEDERAIS:
         if v["vigente_ate_ato"] != "":
-            erros.append("vigente_ate_ato deve ficar vazio em lei (a data-base é baixado_em), veio %r" % v["vigente_ate_ato"])
+            erros.append("vigente_ate_ato deve ficar vazio em %s (a data-base é baixado_em), veio %r" % (v["tipo"], v["vigente_ate_ato"]))
+        if v["historico_parcial"] != "true":
+            erros.append("historico_parcial deve ser true em %s, veio %r" % (v["tipo"], v["historico_parcial"]))
+        if v["aguarda_consolidado_oficial"] != "false":
+            erros.append("aguarda_consolidado_oficial deve ser false em %s, veio %r" % (v["tipo"], v["aguarda_consolidado_oficial"]))
     elif v["vigente_ate_ato"] != "" and not re.fullmatch(r"[1-9]\d*", v["vigente_ate_ato"]):
         erros.append("vigente_ate_ato deve ser o número do ato (inteiro) ou vazio, veio %r" % v["vigente_ate_ato"])
     for c in BOOLEANOS:
@@ -193,6 +227,9 @@ def validar_norma(path):
             erros.append("%s não pode ficar vazio" % c)
     if not re.fullmatch(r"[0-9a-f]{64}", v["sha256_fonte"]):
         erros.append("sha256_fonte deve ter 64 caracteres hexadecimais")
+
+    if "nivel_verificacao" in v and v["nivel_verificacao"] not in NIVEIS_VERIFICACAO:
+        erros.append("nivel_verificacao fora da lista %s: %r" % (", ".join(NIVEIS_VERIFICACAO), v["nivel_verificacao"]))
 
     if em_partes:
         erros += _erros_partes(path)
@@ -206,21 +243,39 @@ def validar_norma(path):
     return erros
 
 
+def _normas_em(dirpath, nomes, dirs):
+    return ([os.path.join(dirpath, n) for n in nomes if n.endswith(".md")] +
+            [os.path.join(dirpath, d, "index.md") for d in dirs
+             if os.path.isfile(os.path.join(dirpath, d, "index.md"))])
+
+
 def arquivos_da_pasta(raiz, pasta):
     """Normas das pastas chamadas `pasta` sob `raiz`: cada `.md` solto, e o `index.md`
     de cada subpasta (norma em partes; as partes não são normas por si)."""
     achados = []
     for dirpath, dirs, nomes in os.walk(raiz):
-        if os.path.basename(dirpath) != pasta:
-            continue
-        achados += [os.path.join(dirpath, n) for n in nomes if n.endswith(".md")]
-        achados += [os.path.join(dirpath, d, "index.md") for d in dirs
-                    if os.path.isfile(os.path.join(dirpath, d, "index.md"))]
+        if os.path.basename(dirpath) == pasta:
+            achados += _normas_em(dirpath, nomes, dirs)
     return sorted(achados)
 
 
+def arquivos_de_oficios(raiz):
+    """Ofícios-circulares: normas de cada subpasta (superintendência) de `oficios-circulares/`."""
+    achados = []
+    for dirpath, dirs, nomes in os.walk(raiz):
+        if os.path.basename(os.path.dirname(dirpath)) == "oficios-circulares":
+            achados += _normas_em(dirpath, nomes, dirs)
+    return sorted(achados)
+
+
+PASTAS_DE_NORMAS = ("resolucoes", "instrucoes", "pareceres-orientacao", "leis")
+
+
 def arquivos_de_normas(raiz):
-    return sorted(arquivos_da_pasta(raiz, "resolucoes") + arquivos_da_pasta(raiz, "leis"))
+    achados = arquivos_de_oficios(raiz)
+    for pasta in PASTAS_DE_NORMAS:
+        achados += arquivos_da_pasta(raiz, pasta)
+    return sorted(achados)
 
 
 def main(argv):

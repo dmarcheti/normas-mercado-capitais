@@ -209,18 +209,23 @@ class TestMontarLeiEmPartes(unittest.TestCase):
         self.assertEqual((v["baixado_em"], v["verificado_em"]), ("2026-10-28", "2026-10-28"))
         self.assertRegex(v["sha256_fonte"], r"^[0-9a-f]{64}$")
         self.assertTrue(v["incerteza"])
-        self.assertEqual(list(v)[-1], "incerteza")
+        self.assertEqual(v["nivel_verificacao"], "compilado-planalto")
+        self.assertEqual(list(v)[-2:], ["incerteza", "nivel_verificacao"])
 
     def test_sha256_e_do_arquivo_baixado(self):
         import hashlib
         self.assertEqual(frontmatter(self.saida["lei-12345/index.md"])["sha256_fonte"], hashlib.sha256(self.html).hexdigest())
 
-    def test_valida_e_passa_no_teste_de_conversao(self):
+    def test_passa_no_teste_de_conversao(self):
         with tempfile.TemporaryDirectory() as tmp:
             gravar(tmp, self.saida)
             index = os.path.join(tmp, "lei-12345", "index.md")
-            self.assertEqual(validar_norma(index), [])
             self.assertEqual(diferencas_lei(texto_da_norma(index), self.html), [])
+
+    def test_valida(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gravar(tmp, self.saida)
+            self.assertEqual(validar_norma(os.path.join(tmp, "lei-12345", "index.md")), [])
 
 
 class TestMontarLeiSimples(unittest.TestCase):
@@ -259,6 +264,16 @@ class TestMontarLeiSimples(unittest.TestCase):
         v = frontmatter(leis.montar_lei(item, html.encode("utf-8"))["lei-00001.md"])
         self.assertEqual(v["publicacao_dou"], "2020-04-07")
         self.assertIn("publicação no DOU", v["incerteza"])
+
+    def test_publicada_no_dou_com_ano_de_dois_digitos(self):
+        # Lei 4.728: "Este texto não substitui o publicada no D.O.U. de 16.7.65 e retificado em 16.8.1965"
+        html = ("<html><body><p>LEI Nº 4.728, DE 14 DE JULHO DE 1965</p><p>Disciplina o mercado de capitais.</p>"
+                "<p>O PRESIDENTE DA REPÚBLICA Faço saber:</p><p>Art. 1º A.</p>"
+                "<p>Este texto não substitui o publicada no D.O.U. de 16.7.65 e retificado em 16.8.1965</p></body></html>")
+        item = {"id": "lei-4728", "numero": 4728, "data": "1965-07-14", "planalto": ["ccivil_03/leis/l4728.htm"]}
+        v = frontmatter(leis.montar_lei(item, html.encode("utf-8"))["lei-04728.md"])
+        self.assertEqual(v["publicacao_dou"], "1965-07-16")
+        self.assertNotIn("publicação no DOU", v["incerteza"])
 
     def test_pagina_sem_notas_de_alteracao_e_registrada_na_incerteza(self):
         item = {"id": "lei-14430", "numero": 14430, "data": "2022-08-03", "planalto": ["ccivil_03/lei/l14430.htm"]}
@@ -306,16 +321,150 @@ class TestMontarLeiRecorte(unittest.TestCase):
         self.assertIn("1.368-C a 1.368-F", v["incerteza"])
         self.assertEqual(v["publicacao_dou"], "2002-01-11")
 
-    def test_valida_e_passa_no_teste_de_conversao(self):
+    def test_passa_no_teste_de_conversao(self):
         with tempfile.TemporaryDirectory() as tmp:
             gravar(tmp, self.saida)
             caminho = os.path.join(tmp, "lei-10406.md")
-            self.assertEqual(validar_norma(caminho), [])
             self.assertEqual(diferencas_lei(texto_da_norma(caminho), self.html), [])
+
+    def test_valida(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gravar(tmp, self.saida)
+            self.assertEqual(validar_norma(os.path.join(tmp, "lei-10406.md")), [])
 
     def test_recorte_ausente_no_html_e_erro(self):
         with self.assertRaises(ValueError):
             leis.montar_lei(ITEM_CC, "<html><body><p>Art. 1º A.</p></body></html>".encode("utf-8"))
+
+
+def corpo_de(conteudo):
+    return conteudo.split("\n---\n", 1)[1].lstrip("\n")
+
+
+class TestMontarDecretoELeiComplementar(unittest.TestCase):
+    DECRETO = {"id": "decreto-12345", "numero": 12345, "tipo": "decreto", "data": "2024-03-26",
+               "planalto": ["ccivil_03/_ato2023-2026/2024/decreto/d12345.htm"]}
+    LCP = {"id": "lcp-123", "numero": 123, "tipo": "lei-complementar", "data": "2001-01-10",
+           "planalto": ["ccivil_03/leis/lcp/lcp123.htm"]}
+
+    def test_decreto_vira_decreto_nnnnn_com_frontmatter_de_decreto(self):
+        saida = leis.montar_lei(self.DECRETO, ler_fixture("leis-planalto-decreto.html"))
+        self.assertEqual(list(saida), ["decreto-12345.md"])
+        v = frontmatter(saida["decreto-12345.md"])
+        self.assertEqual((v["id"], v["orgao"], v["tipo"], v["numero"]), ("decreto-12345", "federal", "decreto", "12345"))
+        self.assertEqual(v["ementa"], "Regulamenta o teste de decreto.")
+        self.assertEqual(v["publicacao_dou"], "2024-03-27")
+        self.assertEqual((v["vigente_ate_ato"], v["aguarda_consolidado_oficial"], v["historico_parcial"]), ("", "false", "true"))
+        self.assertEqual(v["nivel_verificacao"], "compilado-planalto")
+        self.assertEqual(list(v)[-1], "nivel_verificacao")
+
+    def test_decreto_corpo_com_titulo_ementa_preambulo_e_decreta(self):
+        corpo = corpo_de(leis.montar_lei(self.DECRETO, ler_fixture("leis-planalto-decreto.html"))["decreto-12345.md"])
+        self.assertTrue(corpo.startswith("DECRETO Nº 12.345, DE 26 DE MARÇO DE 2024\n\nRegulamenta o teste de decreto.\n\n"
+                                         "O PRESIDENTE DA REPÚBLICA, no uso da atribuição"), corpo[:200])
+        self.assertIn("\nDECRETA:\n", corpo)
+        self.assertEqual(re.findall(r"^## Art\. .+$", corpo, flags=re.M), ["## Art. 1º", "## Art. 2º", "## Art. 3º"])
+        self.assertNotIn("Secretaria Especial", corpo)
+
+    def test_lei_complementar_vira_lcp_nnn(self):
+        saida = leis.montar_lei(self.LCP, ler_fixture("leis-planalto-lcp.html"))
+        self.assertEqual(list(saida), ["lcp-123.md"])
+        v = frontmatter(saida["lcp-123.md"])
+        self.assertEqual((v["id"], v["tipo"], v["numero"]), ("lcp-123", "lei-complementar", "123"))
+        self.assertEqual(v["ementa"], "Dispõe sobre o teste de lei complementar.")
+        self.assertEqual(v["publicacao_dou"], "2001-01-11")
+        self.assertTrue(corpo_de(saida["lcp-123.md"]).startswith(
+            "LEI COMPLEMENTAR Nº 123, DE 10 DE JANEIRO DE 2001.\n\nDispõe sobre o teste de lei complementar.\n\nO PRESIDENTE"))
+
+    def test_titulo_de_outro_tipo_e_erro(self):
+        with self.assertRaises(ValueError) as erro:
+            leis.montar_lei(self.DECRETO, ler_fixture("leis-planalto-lcp.html"))
+        self.assertIn("DECRETO", str(erro.exception))
+
+    def test_tipo_desconhecido_e_erro(self):
+        with self.assertRaises(ValueError):
+            leis.montar_lei(dict(self.DECRETO, tipo="portaria"), ler_fixture("leis-planalto-decreto.html"))
+
+    def test_passam_no_teste_de_conversao(self):
+        for item, fixture in ((self.DECRETO, "leis-planalto-decreto.html"), (self.LCP, "leis-planalto-lcp.html")):
+            html = ler_fixture(fixture)
+            with tempfile.TemporaryDirectory() as tmp:
+                saida = leis.montar_lei(item, html)
+                gravar(tmp, saida)
+                caminho = os.path.join(tmp, list(saida)[0])
+                self.assertEqual(diferencas_lei(texto_da_norma(caminho), html), [], fixture)
+                self.assertEqual(validar_norma(caminho), [], fixture)
+
+
+class TestMontarLeiDeConversao(unittest.TestCase):
+    ITEM = {"id": "lei-12346", "numero": 12346, "data": "2001-02-14", "planalto": ["ccivil_03/leis/leis_2001/l12346.htm"]}
+
+    def setUp(self):
+        self.html = ler_fixture("leis-planalto-conversao-mp.html")
+        self.saida = leis.montar_lei(self.ITEM, self.html)
+
+    def test_tipo_padrao_e_lei(self):
+        self.assertEqual(list(self.saida), ["lei-12346.md"])
+        self.assertEqual(frontmatter(self.saida["lei-12346.md"])["tipo"], "lei")
+
+    def test_preambulo_faco_saber_e_linha_de_conversao_antes_da_ementa(self):
+        corpo = corpo_de(self.saida["lei-12346.md"])
+        self.assertTrue(corpo.startswith(
+            "LEI Nº 12.346, DE 14 DE FEVEREIRO DE 2001.\n\nConversão da MPv nº 2.110-40, de 2001\n\n"
+            "Dispõe sobre os contratos de investimento coletivo, e dá outras providências.\n\n"
+            "Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória"), corpo[:300])
+
+    def test_ementa_sem_a_linha_de_conversao_e_dou_com_pontos(self):
+        v = frontmatter(self.saida["lei-12346.md"])
+        self.assertEqual(v["ementa"], "Dispõe sobre os contratos de investimento coletivo, e dá outras providências.")
+        self.assertEqual(v["publicacao_dou"], "2001-02-16")
+
+    def test_passa_no_teste_de_conversao(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gravar(tmp, self.saida)
+            caminho = os.path.join(tmp, "lei-12346.md")
+            self.assertEqual(diferencas_lei(texto_da_norma(caminho), self.html), [])
+            self.assertEqual(validar_norma(caminho), [])
+
+    def test_conversao_com_preambulo_comum_fica_fora_do_corpo_como_nas_leis_atuais(self):
+        # Lei 12.431: a coluna de links do Planalto traz "Conversão da Medida Provisória ..."; a lei
+        # sancionada pelo Presidente não leva a linha (o texto das 12 leis atuais não muda).
+        html = ("<html><body><p>LEI Nº 1, DE 24 DE JUNHO DE 2011.</p><table><tr><td>Conversão da Medida Provisória "
+                "nº 517, de 2010 Mensagem de veto</td><td>Dispõe sobre debêntures.</td></tr></table>"
+                "<p>A PRESIDENTA DA REPÚBLICA Faço saber:</p><p>Art. 1º A.</p></body></html>")
+        item = {"id": "lei-1", "numero": 1, "data": "2011-06-24", "planalto": ["ccivil_03/l1.htm"]}
+        corpo = corpo_de(leis.montar_lei(item, html.encode("utf-8"))["lei-00001.md"])
+        self.assertTrue(corpo.startswith("LEI Nº 1, DE 24 DE JUNHO DE 2011.\n\nDispõe sobre debêntures.\n\nA PRESIDENTA"), corpo)
+
+
+class TestRecorteDeArtigoUnico(unittest.TestCase):
+    HTML = ("<html><body><p>LEI Nº 2, DE 1 DE JANEIRO DE 2004.</p><p>Altera a tributação.</p>"
+            "<p>O PRESIDENTE DA REPÚBLICA Faço saber:</p><p>Art. 1º Primeiro.</p><p>Art. 2º Segundo.</p>"
+            "<p>Art. 3º Ficam isentos:</p><p>I - na fonte, os rendimentos; (Redação dada pela Lei nº 9, de 2005)</p>"
+            "<p>Parágrafo único. Fecha o terceiro.</p><p>CAPÍTULO II</p><p>Art. 4º Quarto.</p>"
+            "<p>Este texto não substitui o publicado no DOU de 2.1.2004</p></body></html>").encode("utf-8")
+    ITEM = {"id": "lei-2", "numero": 2, "data": "2004-01-01", "recorte": ["3º", "3º"], "planalto": ["ccivil_03/l2.htm"]}
+
+    def setUp(self):
+        self.saida = leis.montar_lei(self.ITEM, self.HTML)
+
+    def test_so_o_artigo_e_o_texto_dele(self):
+        texto = self.saida["lei-00002.md"]
+        self.assertEqual(re.findall(r"^## Art\. .+$", texto, flags=re.M), ["## Art. 3º"])
+        corpo = corpo_de(texto)
+        self.assertTrue(corpo.startswith("## Art. 3º\n\nFicam isentos:"), corpo)
+        self.assertTrue(corpo.rstrip().endswith("Parágrafo único. Fecha o terceiro."), corpo)
+        self.assertNotIn("CAPÍTULO II", corpo)
+
+    def test_incerteza_descreve_o_artigo_unico(self):
+        self.assertIn("Recorte: somente o art. 3º;", frontmatter(self.saida["lei-00002.md"])["incerteza"])
+
+    def test_passa_no_teste_de_conversao(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            gravar(tmp, self.saida)
+            caminho = os.path.join(tmp, "lei-00002.md")
+            self.assertEqual(diferencas_lei(texto_da_norma(caminho), self.HTML), [])
+            self.assertEqual(validar_norma(caminho), [])
 
 
 class TestEscreverLeis(unittest.TestCase):
@@ -343,6 +492,30 @@ class TestEscreverLeis(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             with self.assertRaises(FileNotFoundError):
                 leis.escrever_leis([dict(ITEM_PARTES)], tmp, os.path.join(tmp, "leis"))
+
+
+class TestBaixarLeis(unittest.TestCase):
+    """baixar.baixar_leis sem rede: com o arquivo no cache, `baixar` não abre conexão."""
+
+    def test_nome_por_tipo_e_so_novas_preserva_a_url_registrada(self):
+        import baixar
+        from unittest import mock
+        itens = [
+            {"id": "decreto-11964", "planalto": ["ccivil_03/d11964compilado.htm", "ccivil_03/d11964.htm"]},
+            {"id": "lcp-105", "planalto": ["ccivil_03/leis/lcp/lcp105.htm"]},
+            {"id": "lei-9514", "planalto": ["ccivil_03/leis/l9514compilado.htm", "ccivil_03/leis/l9514.htm"]},
+        ]
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(baixar, "FONTES", tmp):
+            for nome in ("decreto-11964.html", "lcp-105.html", "lei-09514.html"):
+                with open(os.path.join(tmp, nome), "w") as f:
+                    f.write("x")
+            anterior = {"ok": True, "url": baixar.PLANALTO + "ccivil_03/leis/l9514.htm", "arquivo": "dados/fontes/lei-09514.html"}
+            rel = {"lei-9514": dict(anterior)}
+            baixar.baixar_leis(itens, rel, so_novas=True)
+        self.assertEqual(rel["lei-9514"], anterior)
+        self.assertTrue(rel["decreto-11964"]["ok"])
+        self.assertTrue(rel["decreto-11964"]["arquivo"].endswith("decreto-11964.html"))
+        self.assertTrue(rel["lcp-105"]["arquivo"].endswith("lcp-105.html"))
 
 
 if __name__ == "__main__":

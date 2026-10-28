@@ -1,0 +1,42 @@
+{
+  "lido_em": "2026-10-28",
+  "estoque_regulatorio": {
+    "atualizado_em": "2026-09-08",
+    "resolucoes": [9, 17, 30, 80],
+    "grupos": {
+      "9": "Normas contábeis",
+      "17": "Agente fiduciário",
+      "30": "Intermediação | adequação",
+      "80": "Agente fiduciário"
+    }
+  },
+  "oficios_circulares": [
+    {
+      "titulo": "Ofício Circular nº 3/2026/CVM/SSE",
+      "data": "2026-05-10",
+      "superintendencia": "sse1",
+      "descricao": "Orientações sobre securitização.",
+      "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sse1/oc-sse-0326.html",
+      "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0326.pdf",
+      "cita": []
+    },
+    {
+      "titulo": "Ofício Circular nº 1/2025/CVM/SSE",
+      "data": "2025-02-03",
+      "superintendencia": "sse1",
+      "descricao": "Verbete sem texto | com barra.",
+      "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sse1/oc-sse-0125.html",
+      "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0125.pdf",
+      "cita": []
+    },
+    {
+      "titulo": "Ofício Circular nº 2/1999/CVM/SIN",
+      "data": "1999-07-01",
+      "superintendencia": "sin",
+      "descricao": "Ofício antigo, só com a página.",
+      "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sin/oc-sin-0299.html",
+      "url_pdf": "",
+      "cita": []
+    }
+  ]
+}

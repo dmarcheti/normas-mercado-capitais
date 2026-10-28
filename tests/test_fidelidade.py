@@ -512,3 +512,15 @@ class TestTabelas(unittest.TestCase):
         norma = CABECALHO + "## Art. 1º\n\nTexto.\n"
         dif = diferencas_final(norma, consolidado)
         self.assertIn("tabelas: 0 na norma, 1 no consolidado", dif)
+
+
+class TestSoNormas(unittest.TestCase):
+    def test_resolucoes_e_instrucoes_sim_alteradoras_nao(self):
+        from teste_ato import so_normas
+        diff = ("diff --git a/p/cvm/resolucoes/0017.md b/p/cvm/resolucoes/0017.md\n+a\n"
+                "diff --git a/p/cvm/instrucoes/0489.md b/p/cvm/instrucoes/0489.md\n+b\n"
+                "diff --git a/p/cvm/alteradoras/instrucao-0502.md b/p/cvm/alteradoras/instrucao-0502.md\n+c\n")
+        out = so_normas(diff)
+        self.assertIn("+a", out)
+        self.assertIn("+b", out)
+        self.assertNotIn("+c", out)

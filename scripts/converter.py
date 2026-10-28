@@ -11,7 +11,8 @@
   Aceita bytes (lê o charset do `<meta>`, em geral windows-1252) ou texto.
   Texto tachado (`<strike>`, `<s>`, `<del>`) sai; as notas "(Redação dada
   pela ...)" e "(Incluído pela ...)" ficam, porque não há histórico que as
-  substitua. Ordinal em `<sup>o</sup>` vira `º`.
+  substitua. Ordinal em `<sup>o</sup>` vira `º`. Rótulos de margem de vigência
+  (links "(Vigência)", "Produção de efeito") saem.
 - normalizar_artigos(md): todo início de artigo vira `## Art. Nº` em linha
   própria; parágrafos, incisos e alíneas ficam como texto.
 
@@ -495,9 +496,22 @@ class _Planalto(HTMLParser):
         self._fecha_paragrafo()
 
 
+# Rótulo de margem do Planalto: link cujo texto é só "Vigência", "(Vigência)", "Vigência
+# encerrada" ou "Produção de efeito(s)". Remete à data de vigência de uma redação; não é texto
+# normativo e, no meio do dispositivo, faz o caput parecer sem efeito.
+_ROTULO_VIGENCIA = re.compile(
+    r"(?is)<a\b[^>]*>\s*\(?\s*(?:vig[êe]ncia(?:\s+encerrada)?|produ[çc][ãa]o\s+de\s+efeitos?)"
+    r"\s*\)?\s*</a>")
+
+
+def sem_rotulos_de_vigencia(html):
+    """Tira do HTML (já decodificado) os rótulos de margem de vigência do Planalto."""
+    return _ROTULO_VIGENCIA.sub("", html)
+
+
 def planalto_html_para_md(html):
     p = _Planalto()
-    p.feed(decodificar_html(html))
+    p.feed(sem_rotulos_de_vigencia(decodificar_html(html)))
     p.close()
     p.fim()
     return "\n\n".join(b for b in p.blocos if b) + "\n"

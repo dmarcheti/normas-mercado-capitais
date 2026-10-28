@@ -10,7 +10,8 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 sys.path.insert(0, AQUI)
 
 from converter import normalizar_artigos, planalto_html_para_md  # noqa: E402
-from teste_lei import diferencas_lei  # noqa: E402
+import teste_lei  # noqa: E402
+from teste_lei import diferencas_lei, nome_do_arquivo  # noqa: E402
 from test_validar import CORPO, VALORES, montar  # noqa: E402
 from validar import CAMPOS, validar_norma  # noqa: E402
 
@@ -183,6 +184,25 @@ class TestDiferencasLei(unittest.TestCase):
         dif = diferencas_lei(lei_md("## Art. 7º\n\nX.\n"), html("Art. 1º A."))
         self.assertEqual(len(dif), 1, dif)
         self.assertIn("7º", dif[0])
+
+
+class TestIdsDeLeiDecretoELeiComplementar(unittest.TestCase):
+    def test_nome_do_arquivo_por_tipo(self):
+        self.assertEqual(nome_do_arquivo("lei-6385"), "lei-06385")
+        self.assertEqual(nome_do_arquivo("decreto-11964"), "decreto-11964")
+        self.assertEqual(nome_do_arquivo("lcp-105"), "lcp-105")
+        self.assertEqual(nome_do_arquivo("lcp-7"), "lcp-007")
+        self.assertIsNone(nome_do_arquivo("cvm-res-17"))
+        self.assertIsNone(nome_do_arquivo("decreto-x"))
+
+    def test_main_aceita_decreto(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            norma = gravar(tmp, "decreto-11964.md", "---\nid: decreto-11964\n---\n\n## Art. 1º\n\nA.\n")
+            h = gravar(tmp, "decreto-11964.html", html("DECRETO Nº 11.964", "Art. 1º A."))
+            self.assertEqual(teste_lei.main(["teste_lei.py", "decreto-11964", "--norma", norma, "--html", h]), 0)
+
+    def test_main_recusa_id_de_resolucao(self):
+        self.assertEqual(teste_lei.main(["teste_lei.py", "cvm-res-17"]), 2)
 
 
 if __name__ == "__main__":

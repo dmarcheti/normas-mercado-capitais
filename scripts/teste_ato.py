@@ -86,9 +86,10 @@ def _git(raiz, *args):
     ).stdout.decode("utf-8")
 
 
-def _so_resolucoes(diff):
+def so_normas(diff):
+    """Só os blocos do diff de normas alteradas por ato (resoluções e instruções)."""
     blocos = re.split(r"(?m)^(?=diff --git )", diff)
-    return "".join(b for b in blocos if re.match(r"diff --git a/\S*/resolucoes/", b))
+    return "".join(b for b in blocos if re.match(r"diff --git a/\S*/(?:resolucoes|instrucoes)/", b))
 
 
 def main(argv):
@@ -104,7 +105,7 @@ def main(argv):
             print("teste_ato: o commit %s não traz o texto do ato em alteradoras/" % commit)
             return 2
         texto_ato = "\n".join(_git(raiz, "show", "%s:%s" % (commit, a)) for a in atos)
-        diff = _so_resolucoes(_git(raiz, *argumentos_diff(commit)))
+        diff = so_normas(_git(raiz, *argumentos_diff(commit)))
     except subprocess.CalledProcessError as e:
         print("teste_ato: erro do git: %s" % e.stderr.decode("utf-8").strip())
         return 2

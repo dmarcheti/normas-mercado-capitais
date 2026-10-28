@@ -313,3 +313,28 @@ class TestPlanaltoHtml(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestRotulosDeVigencia(unittest.TestCase):
+    """Rótulos de margem do Planalto ("(Vigência)", "Produção de efeito") são links, não texto."""
+
+    HTML = ('<p>Art. 3º Ficam isentos do imposto de renda: '
+            '<a href="../mpv1303.htm#art75">Produção de efeitos</a> '
+            '<a href="../adc-67.htm"> Vigência encerrada</a></p>'
+            '<p>I - os ganhos <a href="../L14112.htm#art7">(Vigência)</a></p>'
+            '<p>II - ver <a href="../L13043.htm#art113"> Vigência </a> e '
+            '<a href="../L12844.htm#art49"> (Produção de efeito) </a></p>'
+            '<p>III - <a href="../L9.htm">Vigência da Lei</a> continua</p>')
+
+    def test_planalto_sem_rotulos(self):
+        md = planalto_html_para_md(self.HTML)
+        self.assertIn("Art. 3º Ficam isentos do imposto de renda:", md)
+        self.assertNotRegex(md, r"Vigência encerrada|Produção de efeito|\(Vigência\)|ver Vigência")
+        self.assertIn("Vigência da Lei", md)  # link com outro texto fica
+
+    def test_gabarito_do_teste_lei_sem_rotulos(self):
+        from teste_lei import _texto_do_html
+        txt = _texto_do_html(self.HTML)
+        self.assertNotIn("Produção de efeito", txt)
+        self.assertNotIn("(Vigência)", txt)
+        self.assertIn("Vigência da Lei", txt)
