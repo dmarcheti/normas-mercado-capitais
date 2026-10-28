@@ -157,6 +157,26 @@ class TestLinhasNovasForaDoAto(unittest.TestCase):
         d = self.diff('II - sua remuneração, observado o disposto no art. 14; e')
         self.assertEqual(linhas_novas_fora_do_ato(d, ato), [])
 
+    def test_linha_de_tabela_confere_celula_por_celula(self):
+        ato = "| 9.3 Caso os auditores tenham sido contratados | X |\n9.4 Fornecer outras informações"
+        d = self.diff("| 9.3 Caso os auditores tenham sido contratados |  |", "| 9.4 Fornecer outras informações | X |")
+        self.assertEqual(linhas_novas_fora_do_ato(d, ato), [])
+
+    def test_linha_de_tabela_com_celula_inventada_e_listada(self):
+        ato = "| 9.3 Caso os auditores tenham sido contratados |"
+        d = self.diff("| 9.3 Caso os auditores tenham sido contratados | Texto inventado |")
+        self.assertEqual(len(linhas_novas_fora_do_ato(d, ato)), 1)
+
+    def test_item_numerado_e_nota_revogados_nao_precisam_estar_no_ato(self):
+        d = self.diff("1.28 (Revogado)", "5.9 (Revogado)", "(90) (Revogado)")
+        self.assertEqual(linhas_novas_fora_do_ato(d, self.ATO), [])
+
+    def test_nota_de_rodape_confere_sem_o_numero(self):
+        ato = "Quando da apresentação anual do formulário, as informações devem se referir ao exercício."
+        d = self.diff("(1) Quando da apresentação anual do formulário, as informações devem se referir ao exercício.")
+        self.assertEqual(linhas_novas_fora_do_ato(d, ato), [])
+        self.assertEqual(len(linhas_novas_fora_do_ato(self.diff("(1) Texto que não está no ato."), ato)), 1)
+
 
 class TestTesteAtoDiff(unittest.TestCase):
     def test_diff_do_git_usa_histogram(self):

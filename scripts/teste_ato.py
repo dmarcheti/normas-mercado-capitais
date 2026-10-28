@@ -26,8 +26,21 @@ _CHAVE_FRONTMATTER = re.compile(r"^(?:%s):(?:\s|$)" % "|".join(CAMPOS + OPCIONAI
 _ITEM_DE_PARTES = re.compile(r"^- [\w.-]+\.md$")
 _SO_NUMERACAO = re.compile(
     r"^(?:§+\s*\d+[º°]?(?:-[A-Z])?|Parágrafo único\.?|[IVXLCDM]+(?:-[A-Z]{1,2})?\s*[-–—]?"
-    r"|[a-z]\)|\d+\s*[-–—.)]?|Art\.?\s*\d+[º°]?(?:-[A-Z]{1,2})?\.?)$"
+    r"|[a-z]\)|\d+\s*[-–—.)]?|\d+(?:\.\d+)+\.?|\(\d+\)|Art\.?\s*\d+[º°]?(?:-[A-Z]{1,2})?\.?)$"
 )
+_NOTA_DE_RODAPE = re.compile(r"^\(\d+\)\s+")
+
+
+def _no_ato(norm, ato):
+    """Linha de tabela: cada célula com texto tem de estar no ato (a moldura e as
+    células vazias não). Nota de rodapé "(N) texto": basta o texto."""
+    if norm.startswith("|"):
+        celulas = [c.strip() for c in norm.strip("|").split("|") if c.strip()]
+        return all(c in ato for c in celulas)
+    if norm in ato:
+        return True
+    m = _NOTA_DE_RODAPE.match(norm)
+    return bool(m) and norm[m.end():] in ato
 
 
 def _compacto(texto):
@@ -58,7 +71,7 @@ def linhas_novas_fora_do_ato(diff, texto_ato):
             continue
         if norm.endswith(" (Revogado)") and _SO_NUMERACAO.match(norm[: -len(" (Revogado)")]):
             continue
-        if norm not in ato:
+        if not _no_ato(norm, ato):
             fora.append(linha)
     return fora
 
