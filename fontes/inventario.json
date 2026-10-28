@@ -1,0 +1,703 @@
+[
+  {
+    "id": "cvm-res-175",
+    "numero": 175,
+    "data": "2022-12-23",
+    "dou": "2022-12-28",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol175consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 181,
+        "data": "2023-03-28",
+        "dou": "2023-03-30",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol181.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol181.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol181.docx"
+        }
+      },
+      {
+        "numero": 184,
+        "data": "2023-05-31",
+        "dou": "2023-06-02",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol184.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol184.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol184.docx"
+        }
+      },
+      {
+        "numero": 187,
+        "data": "2023-09-27",
+        "dou": "2023-09-28",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol187.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol187.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol187.docx"
+        }
+      },
+      {
+        "numero": 200,
+        "data": "2024-03-12",
+        "dou": "2024-03-13",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol200.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol200.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol200.docx"
+        }
+      },
+      {
+        "numero": 206,
+        "data": "2024-07-04",
+        "dou": "2024-07-08",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol206.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol206.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol206.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol206.docx"
+        }
+      },
+      {
+        "numero": 209,
+        "data": "2024-08-26",
+        "dou": "2024-08-27",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol209.html",
+        "normas_na_ementa": [
+          21,
+          31,
+          32,
+          35,
+          45,
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol209.pdf"
+        }
+      },
+      {
+        "numero": 214,
+        "data": "2024-09-30",
+        "dou": "2024-10-01",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol214.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol214.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol214.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol214.docx"
+        }
+      },
+      {
+        "numero": 240,
+        "data": "2026-03-05",
+        "dou": "2026-03-06",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol240.html",
+        "normas_na_ementa": [
+          175
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol240.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol240.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol240.docx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-160",
+    "numero": 160,
+    "data": "2022-07-13",
+    "dou": "2022-07-14",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol160.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol160.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol160consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol160consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 173,
+        "data": "2022-11-29",
+        "dou": "2022-12-01",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol173.html",
+        "normas_na_ementa": [
+          80,
+          160,
+          161
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol173.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol173.docx"
+        }
+      },
+      {
+        "numero": 180,
+        "data": "2023-03-22",
+        "dou": "2023-03-23",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol180.html",
+        "normas_na_ementa": [
+          80,
+          160
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol180.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol180.docx"
+        }
+      },
+      {
+        "numero": 183,
+        "data": "2023-05-11",
+        "dou": "2023-05-12",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol183.html",
+        "normas_na_ementa": [
+          80,
+          160
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol183.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol183.docx"
+        }
+      },
+      {
+        "numero": 208,
+        "data": "2024-08-13",
+        "dou": "2024-08-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol208.html",
+        "normas_na_ementa": [
+          160
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol208.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol208.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol208.docx"
+        }
+      },
+      {
+        "numero": 226,
+        "data": "2025-03-06",
+        "dou": "2025-03-07",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
+        "normas_na_ementa": [
+          17,
+          60,
+          80,
+          88,
+          160
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol226.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.docx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-60",
+    "numero": 60,
+    "data": "2021-12-23",
+    "dou": "2021-12-24",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol060.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol060.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol060consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol060consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 162,
+        "data": "2022-07-13",
+        "dou": "2022-07-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
+        "normas_na_ementa": [
+          8,
+          17,
+          21,
+          30,
+          45,
+          51,
+          60,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol162.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx"
+        }
+      },
+      {
+        "numero": 179,
+        "data": "2023-02-14",
+        "dou": "2023-02-15",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
+        "normas_na_ementa": [
+          35
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol179.pdf"
+        }
+      },
+      {
+        "numero": 194,
+        "data": "2023-11-17",
+        "dou": "2023-11-20",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol194.html",
+        "normas_na_ementa": [
+          60
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol194.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol194.docx"
+        }
+      },
+      {
+        "numero": 226,
+        "data": "2025-03-06",
+        "dou": "2025-03-07",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
+        "normas_na_ementa": [
+          17,
+          60,
+          80,
+          88,
+          160
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol226.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.docx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-17",
+    "numero": 17,
+    "data": "2021-02-09",
+    "dou": "2021-02-10",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol017.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol017.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol017consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol017consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 162,
+        "data": "2022-07-13",
+        "dou": "2022-07-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
+        "normas_na_ementa": [
+          8,
+          17,
+          21,
+          30,
+          45,
+          51,
+          60,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol162.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx"
+        }
+      },
+      {
+        "numero": 226,
+        "data": "2025-03-06",
+        "dou": "2025-03-07",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
+        "normas_na_ementa": [
+          17,
+          60,
+          80,
+          88,
+          160
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol226.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.docx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-30",
+    "numero": 30,
+    "data": "2021-05-11",
+    "dou": "2021-05-12",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol030.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol030.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol030consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol030consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 162,
+        "data": "2022-07-13",
+        "dou": "2022-07-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
+        "normas_na_ementa": [
+          8,
+          17,
+          21,
+          30,
+          45,
+          51,
+          60,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol162.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx"
+        }
+      },
+      {
+        "numero": 179,
+        "data": "2023-02-14",
+        "dou": "2023-02-15",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
+        "normas_na_ementa": [
+          35
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol179.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-21",
+    "numero": 21,
+    "data": "2021-02-25",
+    "dou": "2021-02-26",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol021.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol021.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol021consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol021consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 162,
+        "data": "2022-07-13",
+        "dou": "2022-07-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
+        "normas_na_ementa": [
+          8,
+          17,
+          21,
+          30,
+          45,
+          51,
+          60,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol162.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx"
+        }
+      },
+      {
+        "numero": 167,
+        "data": "2022-09-13",
+        "dou": "2022-09-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol167.html",
+        "normas_na_ementa": [
+          21
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol167.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol167.docx"
+        }
+      },
+      {
+        "numero": 179,
+        "data": "2023-02-14",
+        "dou": "2023-02-15",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
+        "normas_na_ementa": [
+          35
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol179.pdf"
+        }
+      },
+      {
+        "numero": 209,
+        "data": "2024-08-26",
+        "dou": "2024-08-27",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol209.html",
+        "normas_na_ementa": [
+          21,
+          31,
+          32,
+          35,
+          45,
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol209.pdf"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-80",
+    "numero": 80,
+    "data": "2022-03-29",
+    "dou": "2022-03-30",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol080.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol080.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol080consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol080consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 59,
+        "data": "2021-12-22",
+        "dou": "2021-12-23",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol059.html",
+        "normas_na_ementa": [
+          87
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol059.pdf"
+        }
+      },
+      {
+        "numero": 162,
+        "data": "2022-07-13",
+        "dou": "2022-07-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol162.html",
+        "normas_na_ementa": [
+          8,
+          17,
+          21,
+          30,
+          45,
+          51,
+          60,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol162.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol162.docx"
+        }
+      },
+      {
+        "numero": 168,
+        "data": "2022-09-20",
+        "dou": "2022-09-21",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol168.html",
+        "normas_na_ementa": [
+          59,
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol168.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol168.docx"
+        }
+      },
+      {
+        "numero": 173,
+        "data": "2022-11-29",
+        "dou": "2022-12-01",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol173.html",
+        "normas_na_ementa": [
+          80,
+          160,
+          161
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol173.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol173.docx"
+        }
+      },
+      {
+        "numero": 180,
+        "data": "2023-03-22",
+        "dou": "2023-03-23",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol180.html",
+        "normas_na_ementa": [
+          80,
+          160
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol180.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol180.docx"
+        }
+      },
+      {
+        "numero": 183,
+        "data": "2023-05-11",
+        "dou": "2023-05-12",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol183.html",
+        "normas_na_ementa": [
+          80,
+          160
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol183.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol183.docx"
+        }
+      },
+      {
+        "numero": 198,
+        "data": "2024-01-31",
+        "dou": "2024-02-02",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol198.html",
+        "normas_na_ementa": [
+          80
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol198.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol198.docx"
+        }
+      },
+      {
+        "numero": 204,
+        "data": "2024-06-04",
+        "dou": "2024-06-05",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol204.html",
+        "normas_na_ementa": [
+          80,
+          81
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol204.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol204.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol204.docx"
+        }
+      },
+      {
+        "numero": 207,
+        "data": "2024-08-13",
+        "dou": "2024-08-14",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol207.html",
+        "normas_na_ementa": [
+          47,
+          80,
+          161
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol207.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol207.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol207.docx"
+        }
+      },
+      {
+        "numero": 226,
+        "data": "2025-03-06",
+        "dou": "2025-03-07",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol226.html",
+        "normas_na_ementa": [
+          17,
+          60,
+          80,
+          88,
+          160
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol226.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol226.docx"
+        }
+      },
+      {
+        "numero": 231,
+        "data": "2025-07-03",
+        "dou": "2025-07-04",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol231.html",
+        "normas_na_ementa": [
+          80,
+          166
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol231.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol231.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol231.docx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cvm-res-50",
+    "numero": 50,
+    "data": "2021-08-31",
+    "dou": "2021-09-02",
+    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol050.html",
+    "url_original": [
+      "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol050.pdf"
+    ],
+    "url_consolidado": {
+      "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol050consolid.pdf",
+      "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/001/resol050consolid.docx"
+    },
+    "alteradoras": [
+      {
+        "numero": 179,
+        "data": "2023-02-14",
+        "dou": "2023-02-15",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol179.html",
+        "normas_na_ementa": [
+          35
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol179.pdf"
+        }
+      },
+      {
+        "numero": 245,
+        "data": "2026-07-01",
+        "dou": "2026-07-03",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol245.html",
+        "normas_na_ementa": [
+          50
+        ],
+        "url_ato": {
+          "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol245.htm",
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol245.pdf",
+          "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol245.docx"
+        }
+      }
+    ]
+  }
+]
