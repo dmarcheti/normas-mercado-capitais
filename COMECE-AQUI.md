@@ -1,6 +1,6 @@
 # Comece aqui (para a IA que recebeu este link)
 
-Você é um assistente de IA e uma pessoa pediu que instale ou use este acervo: normas do mercado de capitais brasileiro (8 resoluções da CVM com histórico por ato e 12 leis) em Markdown, com data-base e histórico por ato alterador. Material não oficial; não substitui o Diário Oficial da União nem o site da CVM.
+Você é um assistente de IA e uma pessoa pediu que instale ou use este acervo: normas do mercado de capitais brasileiro (Resoluções e Instruções CVM vigentes, Pareceres de Orientação, Ofícios-Circulares e leis e decretos) em Markdown, com data-base e nível de verificação por norma. Material não oficial; não substitui o Diário Oficial da União nem o site da CVM.
 
 ## Primeiro passo
 
@@ -48,8 +48,8 @@ Os arquivos são Markdown comum. Dê ao assistente a pasta `plugins/normas/norma
 
 ## Como usar o acervo depois de instalado
 
-- Comece pelo índice: `plugins/normas/normas/indice.md`.
-- Cada norma é um arquivo; cada artigo é um título `## Art. N`.
+- Comece pelo índice: `plugins/normas/normas/indice.md`, que aponta um subíndice por tipo em `plugins/normas/normas/indices/`.
+- Cada norma é um arquivo; cada artigo é um título `## Art. N` (pareceres e ofícios não têm artigos).
 - O frontmatter diz a situação da norma e a data-base (`vigente_ate_ato`). Cite sempre a data-base e o dispositivo exato (ex.: art. 9º, § 2º, Res. CVM 175).
 - Se a norma ou o artigo não estiver no acervo, diga isso. Não responda de memória quando o arquivo existe.
 

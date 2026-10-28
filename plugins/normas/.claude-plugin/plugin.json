@@ -1,6 +1,6 @@
 {
   "name": "normas",
-  "description": "Texto das normas da CVM (piloto: Res. CVM 17) com data-base e consulta por artigo. Material não oficial.",
+  "description": "Resoluções e Instruções CVM vigentes, Pareceres de Orientação, Ofícios-Circulares e leis do mercado de capitais, com data-base e consulta por artigo. Material não oficial.",
   "author": {
     "name": "dmarcheti"
   },

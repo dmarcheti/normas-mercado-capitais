@@ -1,70 +1,3529 @@
 [
   {
+    "id": "cvm-res-1",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 1/2020",
+    "ementa": "Estabelece a nomenclatura de atos a serem expedidos pela Comissão de Valores Mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0001.md",
+    "grupo": "Atos expedidos pela CVM"
+  },
+  {
+    "id": "cvm-res-6",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 6/2020",
+    "ementa": "Dispõe sobre a emissão e distribuição de Certificados de Investimento para a produção, distribuição, exibição e infraestrutura técnica de obras audiovisuais cinematográficas brasileiras, altera a Instrução CVM nº 541, de 20 de dezembro de 2013, e revoga as Instruções CVM nºs 260, de 9 de abril de 1997, e 433, de 5 de junho de 2006.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "61",
+    "caminho": "cvm/resolucoes/0006.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-8",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 8/2020",
+    "ementa": "Dispõe sobre as ofertas públicas de distribuição de Certificado de Operações Estruturadas – COE e dos títulos de crédito Letra Financeira – LF e Letra Imobiliária Garantida – LIG realizadas com dispensa de registro, altera dispositivos da Instrução CVM nº 400, de 29 dezembro de 2003, da Instrução CVM nº 476, de 16 de janeiro de 2009, da Instrução CVM nº 480, de 7 de dezembro de 2009, e da Instrução CVM nº 541, de 20 de dezembro de 2013, e revoga a Instrução CVM nº 569, de 14 de outubro de 2015.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "162",
+    "caminho": "cvm/resolucoes/0008.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-9",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 9/2020",
+    "ementa": "Dispõe sobre a atividade de classificação de risco de crédito no âmbito do mercado de valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "185",
+    "caminho": "cvm/resolucoes/0009.md",
+    "grupo": "Agências de classificação de risco de crédito"
+  },
+  {
+    "id": "cvm-res-10",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 10/2020",
+    "ementa": "Dispõe sobre as sociedades beneficiárias de recursos oriundos de incentivos fiscais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0010.md",
+    "grupo": "Sociedades beneficiárias de recursos oriundos de incentivos fiscais (cias. incentivadas)"
+  },
+  {
+    "id": "cvm-res-11",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 11/2020",
+    "ementa": "Dispõe sobre a constituição, a administração, o funcionamento, a divulgação de informações e a distribuição de cotas dos Clubes de Investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "179",
+    "caminho": "cvm/resolucoes/0011.md",
+    "grupo": "Clubes de investimento"
+  },
+  {
+    "id": "cvm-res-12",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 12/2020",
+    "ementa": "Dispõe sobre a elaboração e divulgação das Demonstrações Financeiras dos Clubes de Investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0012.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-13",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 13/2020",
+    "ementa": "Dispõe sobre o registro, as operações e a divulgação de informações de investidor não residente no País.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "216",
+    "caminho": "cvm/resolucoes/0013.md",
+    "grupo": "Investidores não residentes"
+  },
+  {
+    "id": "cvm-res-14",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 14/2020",
+    "ementa": "Aprova a Orientação Técnica CPC 09 – Relato Integrado.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0014.md",
+    "grupo": "Normas contábeis"
+  },
+  {
     "id": "cvm-res-17",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 17/2021",
     "ementa": "Dispõe sobre o exercício da função de agente fiduciário e revoga a Instrução CVM nº 583, de 20 de dezembro de 2016.",
     "situacao": "vigente",
     "vigente_ate_ato": "226",
-    "caminho": "cvm/resolucoes/0017.md"
+    "caminho": "cvm/resolucoes/0017.md",
+    "grupo": "Agentes fiduciários"
+  },
+  {
+    "id": "cvm-res-19",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 19/2021",
+    "ementa": "Dispõe sobre a atividade de consultoria de valores mobiliários e revoga a Instrução CVM nº 592, de 17 de novembro de 2017, a Instrução CVM nº 619, de 6 de fevereiro de 2020 e a Deliberação CVM nº 783, de 17 de novembro de 2017.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "179",
+    "caminho": "cvm/resolucoes/0019.md",
+    "grupo": "Consultores de valores mobiliários"
+  },
+  {
+    "id": "cvm-res-20",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 20/2021",
+    "ementa": "Dispõe sobre a atividade de analista de valores mobiliários e revoga a Deliberação CVM nº 633, de 6 de julho de 2010, e a Instrução CVM nº 598, de 3 de maio de 2018.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "216",
+    "caminho": "cvm/resolucoes/0020.md",
+    "grupo": "Analistas de valores mobiliários"
   },
   {
     "id": "cvm-res-21",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 21/2021",
     "ementa": "Dispõe sobre o exercício profissional de administração de carteiras de valores mobiliários e revoga a Instrução CVM nº 426, de 28 de dezembro de 2005, a Instrução CVM nº 557, de 27 de janeiro de 2015, a Instrução CVM nº 558, de 26 de março de 2015, a Instrução CVM nº 597, de 26 de abril de 2018, a Deliberação CVM nº 51, de 25 de junho de 1987, a Deliberação CVM nº 740, de 11 de novembro de 2015 e a Deliberação CVM nº 764, de 4 de abril de 2017.",
     "situacao": "vigente",
     "vigente_ate_ato": "209",
-    "caminho": "cvm/resolucoes/0021.md"
+    "caminho": "cvm/resolucoes/0021.md",
+    "grupo": "Administradores de carteiras de valores mobiliários"
+  },
+  {
+    "id": "cvm-res-22",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 22/2021",
+    "ementa": "Dispõe sobre a administração e as operações de Planos de Poupança e Investimento – PAIT, fixa o patrimônio líquido da instituição administradora e revoga a Instrução CVM nº 61, de 17 de fevereiro de 1987, e a Instrução CVM nº 87, de 3 de novembro de 1988.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0022.md",
+    "grupo": "Administradores de carteiras de valores mobiliários"
+  },
+  {
+    "id": "cvm-res-23",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 23/2021",
+    "ementa": "Dispõe sobre o registro e o exercício da atividade de auditoria independente no âmbito do mercado de valores mobiliários, define os deveres e as responsabilidades dos administradores das entidades auditadas no relacionamento com os auditores independentes.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0023.md",
+    "grupo": "Auditor independente"
+  },
+  {
+    "id": "cvm-res-24",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 24/2021",
+    "ementa": "Aprova o Regimento Interno da Comissão de Valores Mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "246",
+    "caminho": "cvm/resolucoes/0024.md",
+    "grupo": "Regimento interno"
+  },
+  {
+    "id": "cvm-res-25",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 25/2021",
+    "ementa": "Dispõe sobre regra transitória para aplicação do disposto no art. 124, § 1º, II da Lei nº 6.404, de 15 de dezembro de 1976.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0025.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-27",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 27/2021",
+    "ementa": "Dispensa a apresentação do boletim de subscrição em ofertas públicas de distribuição de valores mobiliários liquidadas por meio de sistema administrado por entidade administradora de mercados organizados de valores mobiliários, dispõe sobre a apresentação de documento de aceitação no âmbito de ofertas públicas e revoga a Deliberação CVM nº 860, de 22 de julho de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0027.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-28",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 28/2021",
+    "ementa": "Aprova o Pronunciamento Técnico CPC para Entidades em Liquidação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0028.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-29",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 29/2021",
+    "ementa": "Dispõe sobre as regras para constituição e funcionamento de ambiente regulatório experimental (sandbox regulatório) e revoga a Instrução CVM nº 626, de 15 de maio de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0029.md",
+    "grupo": "Sandbox regulatório"
   },
   {
     "id": "cvm-res-30",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 30/2021",
     "ementa": "Dispõe sobre o dever de verificação da adequação dos produtos, serviços e operações ao perfil do cliente e revoga a Instrução CVM nº 539, de 13 de novembro de 2013.",
     "situacao": "vigente",
     "vigente_ate_ato": "179",
-    "caminho": "cvm/resolucoes/0030.md"
+    "caminho": "cvm/resolucoes/0030.md",
+    "grupo": "Suitability"
+  },
+  {
+    "id": "cvm-res-31",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 31/2021",
+    "ementa": "Dispõe sobre a prestação de serviços de depósito centralizado de valores mobiliários e revoga a Instrução CVM nº 541, de 20 de dezembro de 2013.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "220",
+    "caminho": "cvm/resolucoes/0031.md",
+    "grupo": "Infraestrutura de mercado"
+  },
+  {
+    "id": "cvm-res-32",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 32/2021",
+    "ementa": "Dispõe sobre a prestação de serviços de custódia de valores mobiliários e revoga a Instrução CVM nº 542, de 20 de dezembro de 2013.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "209",
+    "caminho": "cvm/resolucoes/0032.md",
+    "grupo": "Infraestrutura de mercado"
+  },
+  {
+    "id": "cvm-res-33",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 33/2021",
+    "ementa": "Dispõe sobre a prestação de serviços de escrituração de valores mobiliários e de emissão de certificados de valores mobiliários e revoga a Instrução CVM nº 543, de 20 de dezembro de 2013.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0033.md",
+    "grupo": "Infraestrutura de mercado"
+  },
+  {
+    "id": "cvm-res-34",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 34/2021",
+    "ementa": "Dispõe sobre empréstimo de valores mobiliários por câmaras e prestadores de serviço de compensação e liquidação de operações com valores mobiliários e revoga as Instruções CVM nº 441, de 10 de novembro de 2006, e CVM nº 466, de 12 de março de 2008.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0034.md",
+    "grupo": "Infraestrutura de mercado"
+  },
+  {
+    "id": "cvm-res-35",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 35/2021",
+    "ementa": "Estabelece normas e procedimentos a serem observados na intermediação de operações realizadas com valores mobiliários em mercados regulamentados de valores mobiliários e revoga a Deliberação CVM nº 105, de 22 de janeiro de 1991, e as Instruções CVM nº 51, de 9 de junho de 1986, CVM nº 333, de 6 de abril de 2000, CVM nº 505, de 27 de setembro de 2011, Instrução CVM nº 526, de 21 de setembro de 2012; Instrução CVM nº 581, de 29 de setembro de 2016; Instrução CVM nº 612, de 21 de agosto de 2019; e Instrução CVM nº 618, de 28 de janeiro de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "209",
+    "caminho": "cvm/resolucoes/0035.md",
+    "grupo": "Intermediários"
+  },
+  {
+    "id": "cvm-res-36",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 36/2021",
+    "ementa": "Estabelece normas e procedimentos para a organização e o funcionamento das corretoras de mercadorias e revoga a Instrução CVM nº 402, de 27 de janeiro de 2004.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0036.md",
+    "grupo": "Intermediários"
+  },
+  {
+    "id": "cvm-res-37",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 37/2021",
+    "ementa": "Dispõe sobre a atividade de captação de ordens pulverizadas de venda de ações e revoga a Instrução CVM nº 454, de 30 de abril de 2007",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0037.md",
+    "grupo": "Intermediários"
+  },
+  {
+    "id": "cvm-res-42",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 42/2021",
+    "ementa": "Aprova o Pronunciamento Técnico CPC 50 – Contratos de Seguros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0042.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-43",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 43/2021",
+    "ementa": "Dispõe sobre a instituição da Ouvidoria no âmbito do mercado de valores mobiliários e revoga a Instrução CVM nº 529, de 1º de novembro de 2012.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "179",
+    "caminho": "cvm/resolucoes/0043.md",
+    "grupo": "Ouvidoria"
+  },
+  {
+    "id": "cvm-res-44",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 44/2021",
+    "ementa": "Dispõe sobre a divulgação de informações sobre ato ou fato relevante, a negociação de valores mobiliários na pendência de ato ou fato relevante não divulgado e a divulgação de informações sobre a negociação de valores mobiliários, e revoga as Instruções CVM nº 358, de 3 de janeiro de 2002, nº 369, de 11 de junho de 2002, e nº 449, de 15 de março de 2007.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "216",
+    "caminho": "cvm/resolucoes/0044.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-45",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 45/2021",
+    "ementa": "Dispõe sobre o rito dos procedimentos relativos à atuação sancionadora no âmbito da Comissão de Valores Mobiliários, e revoga as Instruções CVM nº 607, de 17 de junho de 2019, nº 613, de 30 de agosto de 2019, nº 624, de 13 de maio de 2020, e as Deliberações CVM nº 501, de 3 de março de 2006, nº 855, de 30 de abril de 2020, e nº 861, de 23 de julho de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "235",
+    "caminho": "cvm/resolucoes/0045.md",
+    "grupo": "Ritos processuais"
+  },
+  {
+    "id": "cvm-res-46",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 46/2021",
+    "ementa": "Dispõe sobre a tramitação de processos administrativos não sancionadores no âmbito do Colegiado da Comissão de Valores Mobiliários e revoga as Deliberações CVM nº 463, de 25 de julho de 2003, nº 468, de 7 de julho de 2004, nº 510, de 18 de outubro de 2006, nº 558, de 12 de novembro de 2008, nº 771, de 31 de maio de 2017, nº 780, de 4 de setembro 2017, nº 814, de 3 de abril de 2019, e nº 819, de 25 de junho de 2019.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "65",
+    "caminho": "cvm/resolucoes/0046.md",
+    "grupo": "Ritos processuais"
+  },
+  {
+    "id": "cvm-res-47",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 47/2021",
+    "ementa": "Dispõe sobre multas cominatórias aplicadas pela CVM, e revoga a Instrução CVM nº 608, de 25 de junho de 2019.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "236",
+    "caminho": "cvm/resolucoes/0047.md",
+    "grupo": "Ritos processuais"
+  },
+  {
+    "id": "cvm-res-48",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 48/2021",
+    "ementa": "Dispõe sobre a concessão de vista de processos administrativos e sobre os procedimentos de acesso à informação previstos na Lei nº 12.527, de 18 de novembro de 2011, no âmbito da CVM, e revoga as Deliberações CVM nº 481, de 29 de abril de 2005, e nº 710, de 28 de maio de 2013.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0048.md",
+    "grupo": "Ritos processuais"
+  },
+  {
+    "id": "cvm-res-49",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 49/2021",
+    "ementa": "Dispõe sobre a autorização para reprodução e utilização da sigla, do logotipo e do slogan da CVM. Revoga as Deliberações CVM nº 749, de 15 de janeiro de 2016, e nº 857, de 2 de junho de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0049.md",
+    "grupo": "Identidade visual institucional"
   },
   {
     "id": "cvm-res-50",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 50/2021",
     "ementa": "Dispõe sobre a prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao financiamento da proliferação de armas de destruição em massa - PLD/FTP no âmbito do mercado de valores mobiliários e revoga a Instrução CVM nº 617, de 5 de dezembro de 2019 e a Nota Explicativa à Instrução CVM nº 617, de 5 de dezembro de 2019.",
     "situacao": "vigente",
     "vigente_ate_ato": "245",
-    "caminho": "cvm/resolucoes/0050.md"
+    "caminho": "cvm/resolucoes/0050.md",
+    "grupo": "Cadastro de investidores e PLDFTP"
+  },
+  {
+    "id": "cvm-res-52",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 52/2021",
+    "ementa": "Institui o Sistema de Governança e Gestão da Comissão de Valores Mobiliários - CVM.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0052.md",
+    "grupo": "Sistemas de gestão institucional da CVM"
+  },
+  {
+    "id": "cvm-res-53",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 53/2021",
+    "ementa": "Dispõe sobre o Sistema Integrado de Gestão de Riscos da Comissão de Valores Mobiliários e revoga a Deliberação CVM nº 757, de 24 de novembro de 2016.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "239",
+    "caminho": "cvm/resolucoes/0053.md",
+    "grupo": "Sistema integrado de gestão de riscos da CVM"
+  },
+  {
+    "id": "cvm-res-54",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 54/2021",
+    "ementa": "Dispõe sobre a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários e revoga as Instruções CVM nº 110, de 28 de dezembro de 1989, e CVM nº 420, de 24 de junho de 2005, e a Deliberação CVM nº 507, de 10 de julho de 2006.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "171",
+    "caminho": "cvm/resolucoes/0054.md",
+    "grupo": "Taxas, débitos e restituições"
+  },
+  {
+    "id": "cvm-res-55",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 55/2021",
+    "ementa": "Dispõe sobre parcelamento de débitos e sobre dispensa de constituição e exigência de créditos tributários de valores cuja cobrança não justifique o respectivo custo, e revoga as Deliberações CVM nº 323, de 23 de novembro de 1999, CVM nº 447, de 24 de setembro de 2002; CVM nº 458, de 29 de abril de 2003; CVM nº 467, de 21 de janeiro de 2004; CVM nº 483, de 24 de junho de 2005; CVM nº 536, de 29 de fevereiro de 2008; CVM nº 543, de 29 de julho de 2008; CVM nº 548, de 4 de setembro de 2008; e CVM nº 776, de 20 de julho de 2017.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0055.md",
+    "grupo": "Taxas, débitos e restituições"
+  },
+  {
+    "id": "cvm-res-56",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 56/2021",
+    "ementa": "Estabelece normas sobre restituição e compensação no âmbito da Comissão de Valores Mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0056.md",
+    "grupo": "Taxas, débitos e restituições"
+  },
+  {
+    "id": "cvm-res-57",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 57/2021",
+    "ementa": "Dispõe sobre a prova de quitação de débitos perante a Comissão de Valores Mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0057.md",
+    "grupo": "Taxas, débitos e restituições"
   },
   {
     "id": "cvm-res-60",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 60/2021",
     "ementa": "Dispõe sobre as companhias securitizadoras de direitos creditórios registradas na CVM e revoga as Instruções CVM nºs. 414, de 30 de dezembro de 2004, 443, de 8 de dezembro de 2006, 600, de 1º de agosto de 2018, e 603, de 31 de outubro de 2018.",
     "situacao": "vigente",
     "vigente_ate_ato": "226",
-    "caminho": "cvm/resolucoes/0060.md"
+    "caminho": "cvm/resolucoes/0060.md",
+    "grupo": "Companhias securitizadoras"
+  },
+  {
+    "id": "cvm-res-62",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 62/2022",
+    "ementa": "Veda as práticas de criação de condições artificiais de demanda, oferta ou preço de valores mobiliários, manipulação de preço, realização de operações fraudulentas e uso de práticas não equitativas, e revoga a Instrução CVM nº 8, de 8 de outubro de 1979, e a Deliberação CVM nº 14, de 23 de dezembro de 1983.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0062.md",
+    "grupo": "Mercados organizados"
+  },
+  {
+    "id": "cvm-res-67",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 67/2022",
+    "ementa": "Dispõe sobre o processo de normatização da Comissão de Valores Mobiliários – CVM.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "248",
+    "caminho": "cvm/resolucoes/0067.md",
+    "grupo": "Ritos processuais"
+  },
+  {
+    "id": "cvm-res-68",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 68/2022",
+    "ementa": "Ratifica a incorporação da Decisão 31/10 do Conselho do Mercado Comum (CMC) do MERCOSUL, aprovada no XL CMC de 16 de dezembro de 2010, que trata da Regulamentação Mínima do Mercado de Valores Mobiliários sobre a Elaboração e Divulgação das Demonstrações Financeiras, e revoga a Deliberação CVM nº 659, de 24 de fevereiro de 2011.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0068.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-70",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 70/2022",
+    "ementa": "Fixa escala reduzindo, em função do capital social, o percentual mínimo de participação acionária necessário ao exercício de direitos previstos na Lei 6.404, de 15 de dezembro de 1976, e revoga as Instruções CVM nº 165, de 11 de dezembro de 1991, nº 282, de 26 de junho de 1998, nº 324, de 19 de janeiro de 2000, e nº 627, de 22 de junho de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0070.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-71",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 71/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 15(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de combinação de negócios.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0071.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-72",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 72/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 25, do Comitê de Pronunciamentos Contábeis – CPC, que trata de provisões, passivos contingentes e ativos contingentes.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0072.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-73",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 73/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 27, do Comitê de Pronunciamentos Contábeis - CPC, que trata de ativo imobilizado.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0073.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-74",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 74/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 29, do Comitê de Pronunciamentos Contábeis - CPC, que trata de ativo biológico e produto agrícola.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0074.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-75",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 75/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 37(R1), do Comitê de Pronunciamentos Contábeis, que trata da adoção inicial das normas internacionais de contabilidade.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0075.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-76",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 76/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 48, do Comitê de Pronunciamentos Contábeis - CPC, que trata de instrumentos financeiros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0076.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-77",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 77/2022",
+    "ementa": "Dispõe sobre a negociação de ações e a aquisição de debêntures de própria emissão, e revoga as Instruções CVM nº 567, de 17 de setembro de 2015, e 620, de 17 de março de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "216",
+    "caminho": "cvm/resolucoes/0077.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-78",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 78/2022",
+    "ementa": "Dispõe sobre operações de fusão, cisão, incorporação e incorporação de ações, e revoga as Instruções CVM nº 319, de 3 de dezembro de 1999, nº 349, de 6 de março de 2001, e nº 565, de 15 de junho de 2015.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0078.md",
+    "grupo": "Companhias abertas"
   },
   {
     "id": "cvm-res-80",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 80/2022",
     "ementa": "Dispõe sobre o registro e a prestação de informações periódicas e eventuais dos emissores de valores mobiliários admitidos à negociação em mercados regulamentados de valores mobiliários.",
     "situacao": "vigente",
     "vigente_ate_ato": "231",
-    "caminho": "cvm/resolucoes/0080.md"
+    "caminho": "cvm/resolucoes/0080.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-81",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 81/2022",
+    "ementa": "Dispõe sobre assembleias de acionistas, debenturistas e de titulares de notas promissórias e notas comerciais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "204",
+    "caminho": "cvm/resolucoes/0081.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-82",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 82/2022",
+    "ementa": "Dispõe sobre o Fundo de Investimento do Fundo de Garantia do Tempo de Serviço e revoga a Instrução CVM nº 462, de 26 de novembro de 2007.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0082.md",
+    "grupo": "Fundos de investimento"
+  },
+  {
+    "id": "cvm-res-84",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 84/2022",
+    "ementa": "Dispõe sobre os registros de negociação e de distribuição pública de Certificados de Potencial Adicional de Construção – CEPAC e revoga as Instruções CVM nº 401, de 29 de dezembro de 2003 e nº 550, de 17 de julho de 2014.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0084.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-86",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 86/2022",
+    "ementa": "Dispõe sobre a oferta pública de distribuição de contratos de investimento coletivo hoteleiro e revoga a Instrução CVM nº 602, de 27 de agosto de 2018.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "221",
+    "caminho": "cvm/resolucoes/0086.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-88",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 88/2022",
+    "ementa": "Dispõe sobre a oferta pública de distribuição de valores mobiliários de emissão de sociedades empresárias de pequeno porte realizada com dispensa de registro por meio de plataforma eletrônica de investimento participativo e revoga a Instrução CVM nº 588, de 13 de julho de 2017.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "226",
+    "caminho": "cvm/resolucoes/0088.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-89",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 89/2022",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 20, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0089.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-90",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 90/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 01(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de redução ao valor recuperável de ativos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0090.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-91",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 91/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 02(R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata sobre efeito das mudanças nas taxas de câmbio e conversão de demonstrações contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0091.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-92",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 92/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 03(R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata sobre demonstração dos fluxos de caixa.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0092.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-93",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 93/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 04(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de ativo intangível.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0093.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-94",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 94/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 05(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de divulgação sobre partes relacionadas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0094.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-95",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 95/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 06(R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata de arrendamentos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0095.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-96",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 96/2022",
+    "ementa": "Aprova a consolidação do Pronunciamento Técnico CPC 07(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de subvenção e assistência governamentais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0096.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-97",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 97/2022",
+    "ementa": "Aprova a consolidação do Pronunciamento Técnico CPC 10(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de pagamento baseado em ações.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0097.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-99",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 99/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 16(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de estoques.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0099.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-100",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 100/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 19(R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata de negócios em conjunto.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0100.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-101",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 101/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 20(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de custos de empréstimos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0101.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-102",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 102/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 21(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de demonstração intermediária.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0102.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-103",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 103/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 22 do Comitê de Pronunciamentos Contábeis – CPC, que trata de informações por segmento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0103.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-104",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 104/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 23 do Comitê de Pronunciamentos Contábeis – CPC, que trata de políticas contábeis, mudança de estimativa e retificação de erro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0104.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-105",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 105/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 24 do Comitê de Pronunciamentos Contábeis – CPC, que trata de evento subsequente.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0105.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-106",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 106/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 26(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata da Apresentação das Demonstrações Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0106.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-107",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 107/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 28 do Comitê de Pronunciamentos Contábeis – CPC, que trata de propriedade para investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0107.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-108",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 108/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 31 do Comitê de Pronunciamentos Contábeis – CPC, que trata de ativo não-circulante mantido para venda e operação descontinuada.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0108.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-109",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 109/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 32 do Comitê de Pronunciamentos Contábeis – CPC, que trata de tributos sobre o lucro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0109.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-110",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 110/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 33 (R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de benefícios a empregados.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0110.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-111",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 111/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 35 (R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata de demonstrações separadas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0111.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-112",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 112/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 36 (R3) do Comitê de Pronunciamentos Contábeis – CPC, que trata de demonstrações consolidadas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0112.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-113",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 113/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 41 do Comitê de Pronunciamentos Contábeis – CPC, que trata da determinação e apresentação do resultado por ação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0113.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-114",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 114/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 45 do Comitê de Pronunciamentos Contábeis – CPC, que trata de divulgação de participações em outras entidades.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0114.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-115",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 115/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 46 do Comitê de Pronunciamentos Contábeis – CPC, que trata de mensuração do valor justo.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0115.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-116",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 116/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 47 do Comitê de Pronunciamentos Contábeis – CPC, que trata de receita de contrato com cliente.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0116.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-119",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 119/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 38 do Comitê de Pronunciamentos Contábeis – CPC, que trata de Instrumentos Financeiros: Reconhecimento e Mensuração.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0119.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-120",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 120/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 39 do Comitê de Pronunciamentos Contábeis – CPC, que trata de Instrumentos Financeiros: Apresentação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0120.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-121",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 121/2022",
+    "ementa": "Aprova a Consolidação do Pronunciamento Técnico CPC 40 (R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de Instrumentos Financeiros: Evidenciação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0121.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-122",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 122/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 01 (R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata de contratos de concessão.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0122.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-123",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 123/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 07 do Comitê de Pronunciamentos Contábeis – CPC, que trata de distribuição de lucros in natura.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0123.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-125",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 125/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 12 do Comitê de Pronunciamentos Contábeis – CPC, que trata de mudanças em passivos por desativação, restauração e outros passivos similares.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0125.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-126",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 126/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 13 do Comitê de Pronunciamentos Contábeis – CPC, que trata de direitos a participações decorrentes de fundos de desativação, restauração e reabilitação ambiental.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0126.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-127",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 127/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 16 do Comitê de Pronunciamentos Contábeis – CPC, que trata da extinção de passivos financeiros com instrumentos patrimoniais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0127.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-128",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 128/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 17 do Comitê de Pronunciamentos Contábeis – CPC, que trata de contratos de concessão: evidenciação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0128.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-129",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 129/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 18 do Comitê de Pronunciamentos Contábeis – CPC, que trata de custos de remoção de estéril (stripping) de mina de superfície na fase de produção.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0129.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-130",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 130/2022",
+    "ementa": "Aprova a Consolidação da Interpretação Técnica ICPC 21 do Comitê de Pronunciamentos Contábeis – CPC, que trata de transação em moeda estrangeira e adiantamento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0130.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-131",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 131/2022",
+    "ementa": "Aprova a Consolidação da Orientação Técnica OCPC 01 (R1) do Comitê de Pronunciamentos Contábeis, que trata sobre entidades de incorporação imobiliária.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0131.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-132",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 132/2022",
+    "ementa": "Aprova a Consolidação da Orientação Técnica OCPC 05 do Comitê de Pronunciamentos Contábeis, que trata sobre contratos de concessão.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0132.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-133",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 133/2022",
+    "ementa": "Dispõe sobre a atividade de formador de mercado para valores mobiliários em mercado organizado e revoga a Instrução CVM nº 384, de 17 de março de 2003.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0133.md",
+    "grupo": "Mercados organizados"
+  },
+  {
+    "id": "cvm-res-135",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 135/2022",
+    "ementa": "Dispõe sobre o funcionamento dos mercados regulamentados de valores mobiliários; a constituição, organização, funcionamento e extinção das entidades administradoras de mercado organizado; a prestação dos serviços referidos no § 4º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976, e no art. 28 da Lei nº 12.810, de 15 de maio de 2013; e revoga a Instrução CVM nº 168, 23 de dezembro de 1991, a Instrução CVM nº 283, de 10 de julho de 1998, a Instrução CVM nº 312, de 13 de agosto de 1999, a Instrução CVM nº 330, de 17 de março de 2000, a Instrução CVM nº 461, de 23 de outubro de 2007, a Instrução CVM nº 467, de 10 de abril de 2008, a Instrução CVM nº 468, de 18 de abril de 2008, a Instrução CVM nº 499, de 13 de julho de 2011, a Instrução CVM nº 508, de 19 de outubro de 2011, a Instrução CVM nº 544, de 20 de dezembro de 2013, e a Nota Explicativa CVM nº 24, de 27 de novembro de 1981.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "220",
+    "caminho": "cvm/resolucoes/0135.md",
+    "grupo": "Mercados organizados"
+  },
+  {
+    "id": "cvm-res-136",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 136/2022",
+    "ementa": "Ratifica o Pronunciamento Técnico CPC 00(R2) do Comitê de Pronunciamentos Contábeis – CPC, que trata da Estrutura Conceitual para Relatório Financeiro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0136.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-139",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 139/2022",
+    "ementa": "Ratifica o Pronunciamento Técnico CPC 42 do Comitê de Pronunciamentos Contábeis – CPC, que trata sobre contabilidade em economia hiperinflacionária.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0139.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-140",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 140/2022",
+    "ementa": "Ratifica o Pronunciamento Técnico CPC 43(R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata da adoção inicial dos Pronunciamentos Técnicos CPC 15 a 41.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0140.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-141",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 141/2022",
+    "ementa": "Ratifica o Pronunciamento Técnico CPC 44 do Comitê de Pronunciamentos Contábeis – CPC, que trata de demonstrações combinadas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "195",
+    "caminho": "cvm/resolucoes/0141.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-142",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 142/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 06 do Comitê de Pronunciamentos Contábeis – CPC, que trata de hedge de investimento líquido em operação no exterior.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0142.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-143",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 143/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 08 (R1) do Comitê de Pronunciamentos Contábeis – CPC, que trata da contabilização da proposta de pagamento de dividendos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0143.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-144",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 144/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 10 do Comitê de Pronunciamentos Contábeis – CPC, que trata da aplicação inicial ao ativo imobilizado e à propriedade para investimento dos Pronunciamentos Técnicos CPCs 27, 28, 37 e 43.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0144.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-145",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 145/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 15 do Comitê de Pronunciamentos Contábeis – CPC, que trata de passivo decorrente de participação em mercado específico – resíduos de equipamentos eletroeletrônicos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0145.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-146",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 146/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 19 do Comitê de Pronunciamentos Contábeis – CPC, que trata de tributos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0146.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-147",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 147/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 20 do Comitê de Pronunciamentos Contábeis – CPC, que trata de limite de ativo de benefício definido, requisitos de custeio (funding) mínimo e sua interação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0147.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-148",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 148/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 22 do Comitê de Pronunciamentos Contábeis – CPC, que trata de incerteza sobre tratamento de tributos sobre o lucro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0148.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-149",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 149/2022",
+    "ementa": "Ratifica a Interpretação Técnica ICPC 23 do Comitê de Pronunciamentos Contábeis – CPC, que trata da aplicação da abordagem de atualização monetária prevista no Pronunciamento Técnico CPC 42.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0149.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-150",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 150/2022",
+    "ementa": "Ratifica a Orientação Técnica OCPC 04 do Comitê de Pronunciamentos Contábeis, que trata da aplicação da Interpretação Técnica ICPC 02 às entidades de incorporação imobiliária brasileiras.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0150.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-151",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 151/2022",
+    "ementa": "Ratifica a Orientação Técnica OCPC 06 do Comitê de Pronunciamentos Contábeis, que trata sobre a apresentação de informações financeiras pro forma.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "195",
+    "caminho": "cvm/resolucoes/0151.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-153",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 153/2022",
+    "ementa": "Ratifica a Orientação Técnica OCPC 08 do Comitê de Pronunciamentos Contábeis, que trata do reconhecimento de determinados ativos e passivos nos relatórios contábil-financeiros de propósito geral das distribuidoras de energia elétrica emitidos de acordo com as normas brasileiras e internacionais de contabilidade.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0153.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-155",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 155/2022",
+    "ementa": "Dispõe sobre a elaboração e divulgação das demonstrações financeiras consolidadas, com base no padrão contábil internacional emitido pelo International Accounting Standards Board - IASB.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0155.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-156",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 156/2022",
+    "ementa": "Dispõe sobre a divulgação voluntária de informações de natureza não contábil denominadas LAJIDA e LAJIR.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0156.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-157",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 157/2022",
+    "ementa": "Dispõe sobre os procedimentos a serem observados para a elaboração e divulgação das demonstrações contábeis em moeda de capacidade aquisitiva constante, quando elaboradas pelas companhias abertas, para o atendimento das características qualitativas fundamentais da relevância e da representação fidedigna de informações financeiras úteis, conforme disposto na Estrutura Conceitual para Relatório Financeiro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0157.md",
+    "grupo": "Normas contábeis"
   },
   {
     "id": "cvm-res-160",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 160/2022",
     "ementa": "Dispõe sobre as ofertas públicas de distribuição primária ou secundária de valores mobiliários e a negociação dos valores mobiliários ofertados nos mercados regulamentados, e revoga as Instruções CVM nº 400, de 29 de dezembro de 2003, CVM nº 471, de 8 de agosto de 2008, CVM nº 476, de 16 de janeiro de 2009, CVM nº 530, de 22 de novembro de 2012, e as Deliberações CVM nº 476, de 25 de janeiro de 2005, CVM nº 533, de 29 de janeiro de 2008, CVM nº 809, de 19 de fevereiro de 2019, CVM nº 818, de 30 de abril de 2019 e CVM nº 850, de 7 de abril de 2020.",
     "situacao": "vigente",
     "vigente_ate_ato": "226",
-    "caminho": "cvm/resolucoes/0160.md"
+    "caminho": "cvm/resolucoes/0160.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-161",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 161/2022",
+    "ementa": "Dispõe sobre o registro de coordenadores de ofertas públicas de distribuição de valores mobiliários e sobre as regras, procedimentos e controles internos a serem observados na intermediação de tais ofertas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "222",
+    "caminho": "cvm/resolucoes/0161.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-163",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 163/2022",
+    "ementa": "Dispõe sobre a oferta pública de distribuição de nota promissória e revoga a Instrução CVM nº 566, de 31 de julho de 2015.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0163.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-165",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 165/2022",
+    "ementa": "Equipara os Certificados de Recebíveis a que se refere a Lei nº 14.430, de 3 de agosto de 2022, aos certificados de recebíveis imobiliários e do agronegócio para fins de aplicação da Instrução CVM nº 476, de 16 de janeiro de 2009.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0165.md",
+    "grupo": "Companhias securitizadoras"
+  },
+  {
+    "id": "cvm-res-166",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 166/2022",
+    "ementa": "Dispõe sobre a forma de realização das publicações ordenadas pela Lei nº 6.404, de 15 de dezembro de 1976, por parte das companhias abertas de menor porte.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "231",
+    "caminho": "cvm/resolucoes/0166.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-172",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 172/2022",
+    "ementa": "Promove alterações temporárias, em caráter experimental, em requisitos regulatórios relacionados ao envio e à publicidade de demonstrativos de composição e diversificação de carteira dos fundos de investimento que especifica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0172.md",
+    "grupo": "Fundos de investimento"
   },
   {
     "id": "cvm-res-175",
+    "tipo": "resolucao",
     "titulo": "Resolução CVM nº 175/2022",
     "ementa": "Dispõe sobre a constituição, o funcionamento e a divulgação de informações dos fundos de investimento, bem como sobre a prestação de serviços para os fundos, e revoga as normas que especifica.",
     "situacao": "vigente",
     "vigente_ate_ato": "240",
-    "caminho": "cvm/resolucoes/0175/index.md"
+    "caminho": "cvm/resolucoes/0175/index.md",
+    "grupo": "Fundos de investimento"
+  },
+  {
+    "id": "cvm-res-176",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 176/2022",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 21, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0176.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-178",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 178/2023",
+    "ementa": "Dispõe sobre a atividade de assessor de investimento e revoga a Resolução CVM nº 16, de 9 de fevereiro de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0178.md",
+    "grupo": "Assessores de investimento"
+  },
+  {
+    "id": "cvm-res-182",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 182/2023",
+    "ementa": "Dispõe sobre certificados de depósito emitidos no Brasil com lastro em ações, certificados de depósito de ações ou em valores mobiliários representativos de dívida emitidos no exterior (BDR) e revoga a Instrução CVM nº 332, de 4 de abril de 2000.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0182.md",
+    "grupo": "BDR"
+  },
+  {
+    "id": "cvm-res-188",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 188/2023",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 22, emitido pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0188.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-189",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 189/2023",
+    "ementa": "Aprova a Orientação Técnica OCPC 07(R1), que trata da Evidenciação na Divulgação de Relatórios Financeiros para Fins Gerais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0189.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-190",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 190/2023",
+    "ementa": "Aprova o Pronunciamento Técnico CPC 12 (R1) – Ajuste a Valor Presente.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0190.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-191",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 191/2023",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos CPC nº 23, emitido pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0191.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-193",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 193/2023",
+    "ementa": "Dispõe sobre a elaboração e divulgação do relatório de informações financeiras relacionadas à sustentabilidade, com base no padrão internacional emitido pelo International Sustainability Standards Board - ISSB.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "244",
+    "caminho": "cvm/resolucoes/0193.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-197",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 197/2023",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 24, emitido pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0197.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-199",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 199/2024",
+    "ementa": "Aprova o Pronunciamento Técnico CPC 09 (R1) – Demonstração do Valor Adicionado, emitido pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0199.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-205",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 205/2024",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 26, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0205.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-210",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 210/2024",
+    "ementa": "Dispõe sobre a portabilidade de valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "229",
+    "caminho": "cvm/resolucoes/0210.md",
+    "grupo": "Portabilidade"
+  },
+  {
+    "id": "cvm-res-211",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 211/2024",
+    "ementa": "Aprova o Pronunciamentos Técnicos CPC 18 (R3) – Investimento em Coligada e em Empreendimento Controlado em Conjunto, emitido pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0211.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-212",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 212/2024",
+    "ementa": "Aprova a Interpretação Técnica ICPC 09 (R3) – Demonstrações Contábeis Individuais, Demonstrações Separadas, Demonstrações Consolidadas e Aplicação do Método da Equivalência Patrimonial, emitida pelo Comitê de Pronunciamentos Contábeis.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0212.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-213",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 213/2024",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 27, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0213.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-215",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 215/2024",
+    "ementa": "Dispõe sobre as ofertas públicas de aquisição de ações de companhia aberta e revoga a Resolução nº 85, de 31 de março de 2022, e as Deliberações CVM nº 751, de 28 de março de 2016, nº 756, de 4 de novembro de 2016.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "230",
+    "caminho": "cvm/resolucoes/0215.md",
+    "grupo": "Ofertas públicas"
+  },
+  {
+    "id": "cvm-res-217",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 217/2024",
+    "ementa": "Aprova o Pronunciamento Técnico CBPS nº 01 – Requisitos Gerais para Divulgação de Informações Financeiras relacionadas à Sustentabilidade, emitido pelo Comitê Brasileiro de Pronunciamentos de Sustentabilidade – CBPS.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0217.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-218",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 218/2024",
+    "ementa": "Aprova o Pronunciamento Técnico CBPS nº 02 – Divulgações Relacionadas ao Clima, emitido pelo Comitê Brasileiro de Pronunciamentos de Sustentabilidade – CBPS.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0218.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-223",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 223/2024",
+    "ementa": "Aprova a Orientação Técnica OCPC 10 – Créditos de Carbono, Permissões de Emissões (allowances) e Créditos de Descarbonização (CBIO).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0223.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-225",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 225/2024",
+    "ementa": "Estabelece, em caráter experimental, o Cadastro de Acesso de investidores.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0225.md",
+    "grupo": "Cadastro de investidores e PLDFTP"
+  },
+  {
+    "id": "cvm-res-232",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 232/2025",
+    "ementa": "Dispõe sobre as regras aplicáveis ao regime de Facilitação do Acesso a Capital e de Incentivos a Listagens – FÁCIL no âmbito do mercado de capitais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "236",
+    "caminho": "cvm/resolucoes/0232.md",
+    "grupo": "Companhias abertas"
+  },
+  {
+    "id": "cvm-res-234",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 234/2025",
+    "ementa": "Dispõe sobre o cadastro de participantes do mercado de valores mobiliários na Comissão de Valores Mobiliários e revoga a Resolução CVM nº 51, de 31 de agosto de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0234.md",
+    "grupo": "Cadastro de participantes regulados"
+  },
+  {
+    "id": "cvm-res-237",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 237/2025",
+    "ementa": "Aprova o Pronunciamentos Técnico CPC 51 – Apresentação e Divulgação nas Demonstrações Contábeis, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0237.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-238",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 238/2025",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 28 – Alterações decorrentes do Pronunciamento Técnico CPC 51, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0238.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-242",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 242/2026",
+    "ementa": "Aprova o Documento de Revisão de Pronunciamentos Técnicos nº 29, emitido pelo Comitê de Pronunciamentos Contábeis – CPC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0242.md",
+    "grupo": "Normas contábeis"
+  },
+  {
+    "id": "cvm-res-249",
+    "tipo": "resolucao",
+    "titulo": "Resolução CVM nº 249/2026",
+    "ementa": "Institui, em caráter experimental, o Programa Piloto DLT CVM destinado à realização de testes no mercado de valores mobiliários por meio de redes de tecnologia de registro distribuído, compreendendo operações experimentais de emissão, oferta, negociação, liquidação e pós-negociação de valores mobiliários em redes admitidas para participação no Programa.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/resolucoes/0249.md"
+  },
+  {
+    "id": "cvm-instr-438",
+    "tipo": "instrucao",
+    "titulo": "Instrução CVM nº 438/2006",
+    "ementa": "Aprova o Plano Contábil dos Fundos de Investimento - COFI.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "577",
+    "caminho": "cvm/instrucoes/0438.md"
+  },
+  {
+    "id": "cvm-instr-445",
+    "tipo": "instrucao",
+    "titulo": "Instrução CVM nº 445/2006",
+    "ementa": "Aprova o Plano Contábil dos Fundos de Investimentos Regionais - COFIR (FINAM, FINOR e FUNRES).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/instrucoes/0445.md"
+  },
+  {
+    "id": "cvm-instr-489",
+    "tipo": "instrucao",
+    "titulo": "Instrução CVM nº 489/2011",
+    "ementa": "Dispõe sobre a elaboração e divulgação das Demonstrações Financeiras dos Fundos de Investimento em Direitos Creditórios - FIDC e dos Fundos de Investimento em Cotas de Fundos de Investimento em Direitos Creditórios - FIC-FIDC, regidos pela Instrução 356/01, dos Fundos de Investimento em Direitos Creditórios no âmbito do Programa de Incentivo à Implementação de Projetos de Interesse Social - FIDC-PIPS, regidos pela Instrução 399/03 e dos Fundos de Investimento em Direitos Creditórios Não Padronizados - FIDC-NP, regidos pela Instrução 444/06.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "576",
+    "caminho": "cvm/instrucoes/0489.md"
+  },
+  {
+    "id": "cvm-instr-516",
+    "tipo": "instrucao",
+    "titulo": "Instrução CVM nº 516/2011",
+    "ementa": "Dispõe sobre a elaboração e divulgação das Demonstrações Financeiras dos Fundos de Investimento Imobiliário - FII, regidos pela Instrução 472/08.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/instrucoes/0516.md"
+  },
+  {
+    "id": "cvm-instr-579",
+    "tipo": "instrucao",
+    "titulo": "Instrução CVM nº 579/2016",
+    "ementa": "Dispõe sobre a elaboração e divulgação das demonstrações contábeis dos Fundos de Investimento em Participações.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/instrucoes/0579.md"
+  },
+  {
+    "id": "cvm-po-1",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 1/1978",
+    "ementa": "Inteligência do art. 170, § 1º da Lei 6.404/76.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0001.md"
+  },
+  {
+    "id": "cvm-po-2",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 2/1979",
+    "ementa": "Correção monetária anual do capital social das Cias. Abertas.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0002.md"
+  },
+  {
+    "id": "cvm-po-3",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 3/1979",
+    "ementa": "Inteligência do art. 297, da Lei 6.404/76. Caráter de excepcionalidade do dispositivo.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0003.md"
+  },
+  {
+    "id": "cvm-po-4",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 4/1979",
+    "ementa": "Aspectos da Lei 6.404/76 aplicáveis à adequação das demonstrações financeiras.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0004.md"
+  },
+  {
+    "id": "cvm-po-5",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 5/1979",
+    "ementa": "Aumento de capital. Hipótese de diversidade de preços de emissão em função da diversidade de tipos (espécies, classes ou formas) das ações a serem emitidas por uma companhia aberta.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0005.md"
+  },
+  {
+    "id": "cvm-po-6",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 6/1980",
+    "ementa": "Inquérito e processo administrativos instaurados pela CVM.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0006.md"
+  },
+  {
+    "id": "cvm-po-7",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 7/1981",
+    "ementa": "Contabilização do IOF.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0007.md"
+  },
+  {
+    "id": "cvm-po-8",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 8/1981",
+    "ementa": "Homologação Parcial.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0008.md"
+  },
+  {
+    "id": "cvm-po-9",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 9/1981",
+    "ementa": "Garantia de acesso nos aumentos de capital por subscrição pública.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0009.md"
+  },
+  {
+    "id": "cvm-po-10",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 10/1986",
+    "ementa": "Procedimentos a serem observados pelas cias. abertas na elaboração das Demonstrações Financeiras Extraordinárias de 28.02.86.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0010.md"
+  },
+  {
+    "id": "cvm-po-11",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 11/1986",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas na elaboração das demonstrações financeiras relativas ao encerramento do exercício social a partir de 28.02.86.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0011.md"
+  },
+  {
+    "id": "cvm-po-12",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 12/1987",
+    "ementa": "Correção monetária de resultados intermediários. Hipótese em que é admitida. Compatibilização com a legislação fiscal. Exemplos práticos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0012.md"
+  },
+  {
+    "id": "cvm-po-13",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 13/1987",
+    "ementa": "A aplicação dos procedimentos relativos à alteração da taxa de câmbio previstos pela Deliberação 08/80, vigorou exclusivamente em relação às alterações havidas no decorrer do exercício social que incluísse o mês de dezembro de 1979; os ajustes decorrentes de alterações na taxa de câmbio constituem receita ou despesa do período e integram a apuração do resultado, excetuando-se os encargos financeiros líquidos que se referirem a obrigações vinculadas ao financiamento de ativos em fase de formação ou pré-operacional.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0013.md"
+  },
+  {
+    "id": "cvm-po-14",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 14/1987",
+    "ementa": "Procedimentos a serem observados pelas cias. abertas na elaboração e divulgação de demonstrações contábeis complementares em moeda de capacidade aquisitiva constante. Inteligência de dispositivos da Instrução 64/87.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0014.md"
+  },
+  {
+    "id": "cvm-po-15",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 15/1987",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e auditores independentes na elaboração e publicação das demonstrações financeiras, do relatório da administração e do parecer de auditoria relativos aos exercícios sociais encerrados a partir de dezembro de 1987.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0015.md"
+  },
+  {
+    "id": "cvm-po-16",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 16/1988",
+    "ementa": "Dispõe sobre a base de cálculo do dividendo das ações preferenciais de cia. aberta quando é estabelecido como percentual sobre o valor nominal ou unitário (Capital Social).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0016.md"
+  },
+  {
+    "id": "cvm-po-17",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 17/1989",
+    "ementa": "Procedimentos a serem observados pelas cias. abertas e auditores independentes na elaboração e publicação das demonstrações financeiras, do relatório da administração e do parecer de auditoria relativos aos exercícios sociais encerrados a partir de dezembro de 1988.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0017.md"
+  },
+  {
+    "id": "cvm-po-18",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 18/1990",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e auditores independentes na elaboração e publicação das demonstrações financeiras, do relatório da administração e do parecer de auditoria relativos aos exercícios sociais e encerrados a partir de dezembro de 1989.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0018.md"
+  },
+  {
+    "id": "cvm-po-19",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 19/1990",
+    "ementa": "Inteligência do art. 161, § 4º, letra “a”, da Lei 6.404/76, que trata das normas para constituição do Conselho Fiscal.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0019.md"
+  },
+  {
+    "id": "cvm-po-20",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 20/1990",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e respectivos auditores independentes na elaboração das Informações Trimestrais - ITR’s.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0020.md"
+  },
+  {
+    "id": "cvm-po-21",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 21/1990",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e auditores independentes aplicáveis às demonstrações financeiras relativas aos exercícios sociais encerrados a partir de dezembro de 1990.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0021.md"
+  },
+  {
+    "id": "cvm-po-22",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 22/1991",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e auditores independentes aplicáveis às demonstrações financeiras relativas aos exercícios sociais encerrados a partir de dezembro de 1990.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0022.md"
+  },
+  {
+    "id": "cvm-po-23",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 23/1991",
+    "ementa": "Aumentos de capital por subscrição pública.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0023.md"
+  },
+  {
+    "id": "cvm-po-24",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 24/1992",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas e respectivos auditores independentes aplicáveis às demonstrações contábeis relativas aos exercícios sociais encerrados a partir de dezembro de 1991.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0024.md"
+  },
+  {
+    "id": "cvm-po-25",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 25/1992",
+    "ementa": "Interpretação do art. 30 da Instrução 177/92.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0025.md"
+  },
+  {
+    "id": "cvm-po-26",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 26/1992",
+    "ementa": "Impossibilidade de negociação de ações endossáveis e ao portador a partir de 14.04.92, em face do disposto no art. 4º da Lei nº 8.021/90.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0026.md"
+  },
+  {
+    "id": "cvm-po-27",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 27/1994",
+    "ementa": "Procedimentos a serem observados pelas companhias abertas na elaboração e divulgação das demonstrações financeiras em moeda de capacidade aquisitiva constante.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0027.md"
+  },
+  {
+    "id": "cvm-po-28",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 28/1995",
+    "ementa": "Procedimentos a serem observados na adaptação da Instrução 215/94, quando da elaboração de Regulamentos de fundos de investimento em ações - carteira livre, cuja política de investimentos seja direcionada para aplicações nos países do Mercosul.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0028.md"
+  },
+  {
+    "id": "cvm-po-29",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 29/1996",
+    "ementa": "Orienta as companhias abertas, fundos de investimentos imobiliários e demais entidades reguladas pela CVM quanto à elaboração e à divulgação voluntária de demonstrações financeiras e informações periódicas em moeda de capacidade aquisitiva constante.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0029.md"
+  },
+  {
+    "id": "cvm-po-30",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 30/1996",
+    "ementa": "nteligência do § 1º do art. 100 da Lei 6.404/76. Fornecimentos de certidões dos assentamentos constantes dos livros mencionados nos números I a IV do art. 100.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0030.md"
+  },
+  {
+    "id": "cvm-po-31",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 31/1999",
+    "ementa": "Inteligência do art. 3º da Instrução 301/99, no que se refere à manutenção e à atualização dos dados cadastrais de clientes.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0031.md"
+  },
+  {
+    "id": "cvm-po-32",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 32/2005",
+    "ementa": "Uso da Internet em ofertas de valores mobiliários e na intermediação de operações.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0032.md"
+  },
+  {
+    "id": "cvm-po-33",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 33/2005",
+    "ementa": "Intermediação de operações e oferta de valores mobiliários emitidos e admitidos à negociação em outras jurisdições.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0033.md"
+  },
+  {
+    "id": "cvm-po-34",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 34/2006",
+    "ementa": "Impedimento de voto em casos de benefício particular em operações de incorporação e incorporação de ações em que sejam atribuídos diferentes valores para as ações de emissão de companhia envolvida na operação, conforme sua espécie, classe ou titularidade. Interpretação do §1º do art. 115 da Lei 6.404/76.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0034.md"
+  },
+  {
+    "id": "cvm-po-35",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 35/2008",
+    "ementa": "Deveres fiduciários dos administradores nas operações de fusão, incorporação e incorporação de ações envolvendo a sociedade controladora e suas controladas ou sociedades sob controle comum.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0035.md"
+  },
+  {
+    "id": "cvm-po-36",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 36/2009",
+    "ementa": "Disposições estatutárias que impõem ônus a acionistas que votarem favoravelmente à supressão de cláusula de proteção à dispersão acionária.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0036.md"
+  },
+  {
+    "id": "cvm-po-37",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 37/2011",
+    "ementa": "Recepção dos conceitos de representação verdadeira e apropriada (true and fair view) e da primazia da essência sobre a forma no ordenamento contábil brasileiro.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0037.md"
+  },
+  {
+    "id": "cvm-po-38",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 38/2018",
+    "ementa": "Deveres fiduciários dos administradores no âmbito dos contratos de indenidade celebrados entre as companhias abertas e seus administradores.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0038.md"
+  },
+  {
+    "id": "cvm-po-39",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 39/2021",
+    "ementa": "Publicação das demonstrações financeiras de forma resumida.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0039.md"
+  },
+  {
+    "id": "cvm-po-40",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 40/2022",
+    "ementa": "Os CriptoAtivos e o Mercado de Valores Mobiliários",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0040.md"
+  },
+  {
+    "id": "cvm-po-41",
+    "tipo": "parecer-orientacao",
+    "titulo": "Parecer de Orientação CVM nº 41/2023",
+    "ementa": "As Sociedades Anônimas do Futebol (SAF) e o Mercado de Valores Mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/pareceres-orientacao/0041.md"
+  },
+  {
+    "id": "cvm-oc-snc-sse-sin-0125-old-sse-sin-snc",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SNC/SSE/SIN 01/25",
+    "ementa": "Orientações gerais sobre a elaboração das demonstrações contábeis dos fundos de investimento e das classes de cotas, em relação à vigência da Resolução CVM nº 175/22.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/old-sse-sin-snc/oc-snc-sse-sin-0125-old-sse-sin-snc.md"
+  },
+  {
+    "id": "cvm-oc-sep-sre-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP-SRE 01/23",
+    "ementa": "Assunto: Registros de emissores de valores mobiliários e de ofertas públicas de distribuição.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep-sre/oc-sep-sre-0123.md"
+  },
+  {
+    "id": "cvm-oc-anual-sep-2022",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2022 CVM/SEP",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas companhias abertas, estrangeiras e incentivadas.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-anual-sep-2022.md"
+  },
+  {
+    "id": "cvm-oc-anual-sep-2023",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2023 CVM/SEP",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas companhias abertas, estrangeiras e incentivadas.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-anual-sep-2023.md"
+  },
+  {
+    "id": "cvm-oc-anual-sep-2024",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2024 CVM/SEP",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas companhias abertas, estrangeiras e incentivadas.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-anual-sep-2024.md"
+  },
+  {
+    "id": "cvm-oc-anual-sep-2025",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2025 CVM/SEP",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas companhias abertas, estrangeiras e incentivadas.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-anual-sep-2025.md"
+  },
+  {
+    "id": "cvm-oc-anual-sep-2026",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2026 CVM/SEP",
+    "ementa": "ASSUNTO: Orientações gerais sobre procedimentos a serem observados pelas companhias abertas, estrangeiras e incentivadas registradas na CVM.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-anual-sep-2026.md"
+  },
+  {
+    "id": "cvm-oc-sep-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 01/22",
+    "ementa": "Atualizações do Sistema Central de Inteligência Corporativa - CICORP – março/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0122.md"
+  },
+  {
+    "id": "cvm-oc-sep-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 01/23",
+    "ementa": "Assunto: Criação de novas associações no Sistema Empresas.NET para companhia estrangeira (entidade de investimentos).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0123.md"
+  },
+  {
+    "id": "cvm-oc-sep-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 01/24",
+    "ementa": "Criação de nova categoria no Sistema Empresas.NET - Relatório de Informações Financeiras Relacionadas à Sustentabilidade - Padrão ISSB | Resolução CVM nº 193/23.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0124.md"
+  },
+  {
+    "id": "cvm-oc-sep-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 01/25",
+    "ementa": "Novas associações para envio dos mapas de votação - Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0125.md"
+  },
+  {
+    "id": "cvm-oc-sep-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 01/26",
+    "ementa": "Criação de novas associações no Sistema Empresas.NET - Companhias de Menor Porte (CMP) - Resolução CVM nº 232/25.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0126.md"
+  },
+  {
+    "id": "cvm-oc-sep-0222",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 02/22",
+    "ementa": "Atualização do Sistema Empresas.NET - versão 17.0.0.2",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0222.md"
+  },
+  {
+    "id": "cvm-oc-sep-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 02/2023",
+    "ementa": "Sistema Empresas.Net | Atualização do Plano de Contas para Seguradoras (Formulário de Informações Trimestrais – ITR e Formulário de Demonstrações Financeiras Padronizadas – DFP)",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0223.md"
+  },
+  {
+    "id": "cvm-oc-sep-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 02/24",
+    "ementa": "Melhorias no Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0224.md"
+  },
+  {
+    "id": "cvm-oc-sep-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 02/25",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0225.md"
+  },
+  {
+    "id": "cvm-oc-sep-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 02/26",
+    "ementa": "Orientações às entidades administradoras de mercados organizados para obtenção de registro inicial de emissor de valores mobiliários de companhias de menor porte (CMP).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0226.md"
+  },
+  {
+    "id": "cvm-oc-sep-0322",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 03/22",
+    "ementa": "Comunicação sobre Demandas Societárias - Anexo I da Resolução CVM 80/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0322.md"
+  },
+  {
+    "id": "cvm-oc-sep-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 03/24",
+    "ementa": "Alterações no Grupo 13 do Formulário de Referência (FRE).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0324.md"
+  },
+  {
+    "id": "cvm-oc-sep-0325",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 03/25",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0325.md"
+  },
+  {
+    "id": "cvm-oc-sep-0326",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 03/26",
+    "ementa": "Descontinuidade do endereço https://www.rad.cvm.gov.br/ENET para acesso ao Sistema Empresas.Net",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0326.md"
+  },
+  {
+    "id": "cvm-oc-sep-0422",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 04/22",
+    "ementa": "Formulário de Referência - FRE na plataforma web do Sistema Empresas.NET para avaliação dos usuários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0422.md"
+  },
+  {
+    "id": "cvm-oc-sep-0424",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 04/24",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0424.md"
+  },
+  {
+    "id": "cvm-oc-sep-0425",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 04/25",
+    "ementa": "Atualização do manual de envio de informações periódicas e eventuais pelo Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0425.md"
+  },
+  {
+    "id": "cvm-oc-sep-0426",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 04/26",
+    "ementa": "Orientações às entidades administradoras de mercados organizados para pedidos de migração de registro de companhia aberta registrada para a condição de companhias de menor porte (CMP).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0426.md"
+  },
+  {
+    "id": "cvm-oc-sep-0522",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 05/22",
+    "ementa": "Criação de uma categoria específica no Sistema Empresa.NET (ENET) para envio do Relato Integrado - Resolução CVM nº 14/20.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0522.md"
+  },
+  {
+    "id": "cvm-oc-sep-0524",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 05/24",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0524.md"
+  },
+  {
+    "id": "cvm-oc-sep-0525",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 05/25",
+    "ementa": "Nova forma de acesso ao Sistema Empresas.Net – Uso da conta Gov.BR.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0525.md"
+  },
+  {
+    "id": "cvm-oc-sep-0526",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 05/26",
+    "ementa": "Alterações nos Formulários de Informações Trimestrais (ITR) e de Demonstrações Financeiras Padronizadas (DFP).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0526.md"
+  },
+  {
+    "id": "cvm-oc-sep-0622",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 06/22",
+    "ementa": "Criação de novas associações no Sistema Empresas.NET.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0622.md"
+  },
+  {
+    "id": "cvm-oc-sep-0624",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SEP 06/24",
+    "ementa": "Revisão das associações no Sistema Empresas NET para envio de demonstrações financeiras.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0624.md"
+  },
+  {
+    "id": "cvm-oc-sep-0625",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 06/25",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0625.md"
+  },
+  {
+    "id": "cvm-oc-sep-0722",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 07/22",
+    "ementa": "Formulário de Referência - FRe na plataforma web do Sistema Empresas.NET",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0722.md"
+  },
+  {
+    "id": "cvm-oc-sep-0724",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 07/24",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0724.md"
+  },
+  {
+    "id": "cvm-oc-sep-0725",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 07/25",
+    "ementa": "Assunto: Sistema Empresas.Net - Associação para envio de Termo de Emissão de Nota Comercial",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0725.md"
+  },
+  {
+    "id": "cvm-oc-sep-0824",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 08/24",
+    "ementa": "Aprimoramentos no Sistema Empresas.Net",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0824.md"
+  },
+  {
+    "id": "cvm-oc-sin-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 01/22",
+    "ementa": "Orientações aos administradores de FI sobre o cumprimento dos prazos de pagamento de resgates previstos no regulamento do fundo e na regulamentação.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0122.md"
+  },
+  {
+    "id": "cvm-oc-sin-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 01/23",
+    "ementa": "Descontinuação do login nativo do sistema CVMWeb",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0123.md"
+  },
+  {
+    "id": "cvm-oc-sin-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2024/CVM/SIN",
+    "ementa": "Limites de concentração para aplicação em ativos no exterior",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0124.md"
+  },
+  {
+    "id": "cvm-oc-sin-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 01/25",
+    "ementa": "Nova dinâmica operacional para a obtenção de cadastro e CPF para os investidores não residentes dispensados de registro na CVM nos termos da Resolução CVM nº 13",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0125.md"
+  },
+  {
+    "id": "cvm-oc-sin-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 01/26",
+    "ementa": "Interpretação de dispositivo do Anexo Normativo I da Resolução CVM nº 175 - Fundos de Investimento Financeiro",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0126.md"
+  },
+  {
+    "id": "cvm-oc-sin-0222",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 02/22",
+    "ementa": "Aos Administradores de Fundos de Investimento regulados pelas Instruções CVM 279, 359 e 423, esclarecimentos sobre a entrada em vigor de nova versão do Sistema de Gestão de Fundos de Investimento (\"SGF\")",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0222.md"
+  },
+  {
+    "id": "cvm-oc-sin-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 02/23",
+    "ementa": "Interpretação de dispositivos do Anexo Normativo I da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0223.md"
+  },
+  {
+    "id": "cvm-oc-sin-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 2/2024/CVM/SIN",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0224.md"
+  },
+  {
+    "id": "cvm-oc-sin-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SIN 02/25",
+    "ementa": "Interpretação de dispositivos da Parte Geral e do Anexo Normativo IV da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0225.md"
+  },
+  {
+    "id": "cvm-oc-sin-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 02/26",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 19/2021",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0226.md"
+  },
+  {
+    "id": "cvm-oc-sin-0322",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 03/22",
+    "ementa": "Orientação aos representantes de investidores não residentes sobre as alterações promovidas na Resolução CVM nº 13 pela Resolução CVM nº 64 de 7 de fevereiro de 2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0322.md"
+  },
+  {
+    "id": "cvm-oc-sin-0323",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 03/23",
+    "ementa": "Lançamento do Sistema SIEM",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0323.md"
+  },
+  {
+    "id": "cvm-oc-sin-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 3/2024/CVM/SIN",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0324.md"
+  },
+  {
+    "id": "cvm-oc-sin-0325",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 03/25",
+    "ementa": "Orientações sobre o serviço de Copytrade no contexto dos mercados financeiro e de capitais, a fim de garantir que os profissionais envolvidos e as plataformas prestadoras do serviço cumpram com a regulamentação da Comissão de Valores Mobiliários (CVM) e outras normas pertinentes.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0325.md"
+  },
+  {
+    "id": "cvm-oc-sin-0326",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 03/26",
+    "ementa": "Nova dinâmica operacional para a obtenção de cadastro e CPF para os investidores não residentes dispensados de registro na CVM nos termos da Resolução CVM nº 13",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0326.md"
+  },
+  {
+    "id": "cvm-oc-sin-0422",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 04/22",
+    "ementa": "Disponibilização de nova versão do SGF.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0422.md"
+  },
+  {
+    "id": "cvm-oc-sin-0423",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 04/23",
+    "ementa": "Interpretação das certificações admitidas ao credenciamento de analistas de valores mobiliários - Resolução CVM nº 20/2021",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0423.md"
+  },
+  {
+    "id": "cvm-oc-sin-0424",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 4/2024/CVM/SIN",
+    "ementa": "Preço teórico de cotas de fundos de índices referenciados em ativos de renda fixa (ETFs de Renda Fixa)",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0424.md"
+  },
+  {
+    "id": "cvm-oc-sin-0425",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SIN 04/25",
+    "ementa": "Interpretações sobre os Fundos de Índice (\"ETF\") e BDRs-ETF",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0425.md"
+  },
+  {
+    "id": "cvm-oc-sin-0426",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 04/26",
+    "ementa": "Inaplicabilidade da exigência de registro na CVM para investidores não residentes que operam com derivativos do agronegócio",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0426.md"
+  },
+  {
+    "id": "cvm-oc-sin-0522",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 05/22",
+    "ementa": "Aplicação, pelos fundos de investimento, em BDR lastreados em cotas de fundo de índice (\"ETF\") constituídos em outras jurisdições (\"BDR-ETF\").",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0522.md"
+  },
+  {
+    "id": "cvm-oc-sin-0523",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 05/23",
+    "ementa": "Lançamento de funcionalidade de delegação, por usuário master, de todas as suas funções.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0523.md"
+  },
+  {
+    "id": "cvm-oc-sin-0524",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 5/2024/CVM/SIN",
+    "ementa": "Interpretação dos dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0524.md"
+  },
+  {
+    "id": "cvm-oc-sin-0622",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 06/22",
+    "ementa": "Interpretação do art. 14, II, da Instrução CVM nº 359, de 22 de janeiro de 2002",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0622.md"
+  },
+  {
+    "id": "cvm-oc-sin-0623",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 06/23",
+    "ementa": "Interpretação de dispositivos do Anexos Normativos I, IV, V e XI da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0623.md"
+  },
+  {
+    "id": "cvm-oc-sin-0624",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 6/2024/CVM/SIN",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0624.md"
+  },
+  {
+    "id": "cvm-oc-sin-0722",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 07/22",
+    "ementa": "Entrada em vigor do Sistema de Registro de Consultores de Valores Mobiliários (\"REGCON\")",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0722.md"
+  },
+  {
+    "id": "cvm-oc-sin-0723",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 07/23",
+    "ementa": "Interpretação de dispositivos do Suplemento B da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0723.md"
+  },
+  {
+    "id": "cvm-oc-sin-0724",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 7/2024/CVM/SIN",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0724.md"
+  },
+  {
+    "id": "cvm-oc-sin-0822",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN 08/22",
+    "ementa": "Administradores de fundo de investimento",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0822.md"
+  },
+  {
+    "id": "cvm-oc-sin-0823",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular nº 8/2023/CVM/SIN",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº175, conforme alterada pela Resolução CVM nº 187",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0823.md"
+  },
+  {
+    "id": "cvm-oc-sin-0824",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 8/2024/CVM/SIN",
+    "ementa": "Nova dinâmica operacional para a obtenção de cadastro e CPF para os investidores não residentes dispensados de registro na CVM nos termos da Resolução CVM nº 13.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0824.md"
+  },
+  {
+    "id": "cvm-oc-sin-0923",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 9/2023/CVM/SIN",
+    "ementa": "Nova dinâmica operacional para os investidores não residentes dispensados de registro na CVM nos termos da Resolução CVM nº 13",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-0923.md"
+  },
+  {
+    "id": "cvm-oc-sin-1023",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 10/2023/CVM/SIN",
+    "ementa": "Exposição a risco de capital dos fundos de investimento financeiros",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-1023.md"
+  },
+  {
+    "id": "cvm-oc-sin-smi-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto nº 1/2023/CVM/SIN/SMI",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 30",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-smi-0123.md"
+  },
+  {
+    "id": "cvm-oc-sin-srpc-0623",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SIN/SRPC 06/23",
+    "ementa": "Esclarecimentos sobre a aplicação das regras de desenquadramento passivo previstas na Resolução CMN nº 4.963, de 2021, relativas à classificação de risco de crédito dos ativos presentes nos fundos de investimento com recursos de RPPS e ao prazo para desinvestimentos que podem afetar as decisões de alocação de outros investidores.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-srpc-0623.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN/SSE 01/22",
+    "ementa": "Companhias securitizadores de capital aberto de que trata a Resolução CVM nº 60/21 e o limite de investimento por emissor referido na Instrução CVM nº 555/14.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0122.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN/SSE 01/23",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0123.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0222",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN-SSE 02/22",
+    "ementa": "Aos administradores de fundos de investimento em geral, orientação sobre a incidência e o recolhimento da taxa de fiscalização dos mercados de títulos e valores mobiliários de que trata a Lei nº 7.940/1989.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0222.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SIN/SSE 02/23",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0223.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0322",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN/SSE 03/22",
+    "ementa": "Divulga o lançamento do novo sistema integrado de gestão cadastral de fundos no cadastro nacional de pessoas jurídicas (\"Integra-CNPJ\"), que entrará em produção a partir de 12/12/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0322.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0323",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SIN/SSE 03/23",
+    "ementa": "Interpretação complementar sobre o artigo 134 da Resolução CVM nº 175.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0323.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0422",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN/SSE 04/22",
+    "ementa": "Orientações complementares sobre a incidência e o recolhimento da taxa de fiscalização dos mercados de títulos e valores mobiliários de que trata a lei nº 7.940/1989.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0422.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0423",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular-Conjunto nº 4/2023/CVM/SIN/SSE",
+    "ementa": "Resolução BCB nº 38, de 11 de novembro de 2020",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0423.md"
+  },
+  {
+    "id": "cvm-oc-sin-sse-0522",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SIN/SSE 05/22",
+    "ementa": "Novidades sobre o sistema Integra-CNPJ",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/oc-sin-sse-0522.md"
+  },
+  {
+    "id": "cvm-occ-sin-smi-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SIN/SMI 01/22",
+    "ementa": "Compartilhamento regular de informações para fins de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e ao financiamento da proliferação de armas de destruição em massa",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-smi-0122.md"
+  },
+  {
+    "id": "cvm-occ-sin-smi-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular Conjunto CVM/SIN/SMI 01/25",
+    "ementa": "Monitoramento de operações e comunicação à CVM previstos nos incisos IV e IX do art. 33 da Resolução CVM nº 35/2021 - Ofício-Circular nº 1/2024/CVM/SMI",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-smi-0125.md"
+  },
+  {
+    "id": "cvm-occ-sin-smi-sse-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular Conjunto CVM/SIN/SMI/SSE 01/25",
+    "ementa": "Conteúdo cadastral mínimo de investidores a ser mantido pelas entidades administradoras de mercados organizados (EAMOs) e pelas instituições operadoras de sistema do mercado financeiro (IOSMFs).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md"
+  },
+  {
+    "id": "cvm-occ-sin-sse-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular-Conjunto nº 1/2024/CVM/SIN/SSE",
+    "ementa": "Novidades sobre o Sistema Integra-CNPJ",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-sse-0124.md"
+  },
+  {
+    "id": "cvm-occ-sin-sse-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SIN/SSE 01/25",
+    "ementa": "Interpretação de dispositivos da Parte Geral e dos Anexos Normativos I, II, III, IV e V da Resolução CVM nº 175.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-sse-0125.md"
+  },
+  {
+    "id": "cvm-occ-sin-sse-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular Conjunto nº 2/2024/CVM/SIN/SSE",
+    "ementa": "Interpretação de dispositivos da Resolução CVM nº 175",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sin/occ-sin-sse-0224.md"
+  },
+  {
+    "id": "cvm-oc-smi-sin-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SMI/SIN 01/2024",
+    "ementa": "Informa os intermediários da interpretação da SMI e da SIN sobre os procedimentos a adotar quando da classificação de investidores em categorias de risco sem que ele responda a questionário específico.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi-sin/oc-smi-sin-0124.md"
+  },
+  {
+    "id": "cvm-oc-smi-smd-01-26",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto nº 1/2026/CVM/SMI/SMD",
+    "ementa": "Orienta os intermediários sobre formas de comunicação de indícios de infração.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi-smd/oc-smi-smd-01-26.md"
+  },
+  {
+    "id": "cvm-oc-smi-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2023/CVM/SMI",
+    "ementa": "Orienta as instituições operadoras de infraestruturas de mercado financeiro sobre o cumprimento dos Princípios para Infraestrutura do Mercado Financeiro formulados pelo Comitê de Pagamentos e Infraestrutura do Mercado (CPMI) e pela Organização Internacional de Comissão de Valores Mobiliários (OICV-IOSCO).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0123.md"
+  },
+  {
+    "id": "cvm-oc-smi-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SMI 01/24",
+    "ementa": "Orienta os intermediários quanto a monitoramento de operações e comunicação à CVM, nos termos do art. 33, IV e IX, da Resolução CVM 35.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0124.md"
+  },
+  {
+    "id": "cvm-oc-smi-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2025/CVM/SMI",
+    "ementa": "Orienta os diretores responsáveis de sociedades de assessores de investimentos e de intermediários contratantes de assessores de investimentos sobre o Programa de Educação Continuada previsto na Resolução CVM 178.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0125.md"
+  },
+  {
+    "id": "cvm-oc-smi-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2026/CVM/SMI",
+    "ementa": "Orienta as entidades administradoras de mercados organizados de valores mobiliários sobre a entrada em produção de novo sistema para encaminhamento de atualizações cadastrais, envio da Declaração Eletrônica de Conformidade e solicitações de autorização ou cancelamento.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0126.md"
+  },
+  {
+    "id": "cvm-oc-smi-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 2/2024/CVM/SMI",
+    "ementa": "Informa os assessores de investimento sobre alteração no sistema de credenciamento da Ancord e sobre interpretação da SMI acerca do art. 24, §1º, da Resolução CVM 178.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0224.md"
+  },
+  {
+    "id": "cvm-oc-smi-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SMI 02/2026",
+    "ementa": "Negociação de valores mobiliários de renda fixa por meio de sistemas próprios ou disponibilizados pelas entidades administradoras de mercados de balcão organizado.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0226.md"
+  },
+  {
+    "id": "cvm-oc-smi-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 3/2024/CVM/SMI",
+    "ementa": "Informa aos administradores de mercados organizados sobre a lista de ações e ativos representativos de ações passíveis de negociação em mercado de Grande Lotes e respectivos lotes mínimos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0324.md"
+  },
+  {
+    "id": "cvm-oc-smi-0325",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 3/2025/CVM/SMI",
+    "ementa": "Atualiza lista de ações e ativos representativos de ações passíveis de negociação em mercado de Grandes Lotes e respectivos lotes mínimos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0325.md"
+  },
+  {
+    "id": "cvm-oc-smi-0326",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular nº 3/2026/CVM/SMI",
+    "ementa": "Informa aos intermediários sobre expansão da lista de mercado admissíveis no contexto de contratação por intermediários estrangeiros, nos termos do Parecer de Orientação CVM 33, do Memorando no 112/2020-CVM/SMI/GME e da Decisão do Colegiado de 23/02/2021.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0326.md"
+  },
+  {
+    "id": "cvm-oc-smi-0426",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular nº 4/2026/CVM/SMI",
+    "ementa": "Orienta os intermediários (corretoras, distribuidoras, bancos de investimento e bancos múltiplos com carteira de investimento), escrituradores, custodiantes, depositários, entidades administradoras de mercados organizados e corretoras de mercadorias sobre o Sistema de Gestão de Intermediários, que deve ser usado para informar atualizações cadastrais e para solicitar autorização para o desempenho das atividades ou cancelamento de tal autorização.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0426.md"
+  },
+  {
+    "id": "cvm-oc-smi-gme-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SMI/GME 01/2022",
+    "ementa": "Orienta sobre os escrituradores de valores mobiliários sobre o envio das informações de que trata o art. 12 da Resolução CVM 33.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-gme-0122.md"
+  },
+  {
+    "id": "cvm-oc-smi-sin-sse-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 2/2025/CVM/SMI/SIN/SSE",
+    "ementa": "Orienta as entidades administradoras de mercado organizado, os depositários centralizados de valores mobiliários e os administradores e distribuidores de fundos de investimentos sobre os procedimentos de conciliação das cotas distribuídas por conta e ordem.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-sin-sse-0225.md"
+  },
+  {
+    "id": "cvm-oc-smi-sre-sep-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular-Conjunto CVM/SMI-SRE-SEP 01/22",
+    "ementa": "Esclarece sobre listagem de emissores e admissão de valores mobiliários à negociação ou ao registro de operações previamente realizadas, em mercados organizados de bolsa e balcão.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-sre-sep-0122.md"
+  },
+  {
+    "id": "cvm-oc-snc-gnc-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/SEP 02/26",
+    "ementa": "Esclarecimentos sobre a aplicação da Resolução CVM nº 244/2026, que alterou a Resolução CVM nº 193/2023.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-gnc-0226.md"
+  },
+  {
+    "id": "cvm-oc-snc-sep-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SNC/SEP 01/22",
+    "ementa": "Orientações quanto a aspectos relevantes a serem observados na elaboração das Demonstrações Contábeis para o exercício social encerrado em 31/12/2021.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-sep-0122.md"
+  },
+  {
+    "id": "cvm-oc-snc-sep-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/SEP/N° 01/23",
+    "ementa": "Orientações quanto a aspectos relevantes a serem observados quando da elaboração e publicação das Demonstrações Contábeis para o exercício social encerrado em 31/12/2022, em face de decisão do STF sobre coisa julgada em matéria tributária.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-sep-0123.md"
+  },
+  {
+    "id": "cvm-oc-snc-sep-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/SEP/N° 01/24",
+    "ementa": "Orientações quanto a aspectos relevantes a serem observados na elaboração das Demonstrações Contábeis considerando os efeitos do evento climático ocorrido no Estado do Rio Grande do Sul.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-sep-0124.md"
+  },
+  {
+    "id": "cvm-oc-snc-sep-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/SEP/N° 01/26",
+    "ementa": "Orientação quanto a aspectos relevantes a serem observados na contabilização de Arranjos de Computação na Nuvem (Cloud Computing Arrangements).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-sep-0126.md"
+  },
+  {
+    "id": "cvm-oc-sse-snc-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE/SNC 01/24",
+    "ementa": "Orientações sobre realização de Assembleia e Distribuição de Rendimentos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0124.md"
+  },
+  {
+    "id": "cvm-oc-sse-snc-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE/SNC 01/25",
+    "ementa": "Política de distribuição de rendimentos dos Fundos de Investimento nas Cadeias Produtivas do Agronegócio - FIAGRO",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0125.md"
+  },
+  {
+    "id": "cvm-oc-sse-snc-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE/SNC 02/24",
+    "ementa": "Orientações sobre a constituição de provisão em FIDC considerando a situação de calamidade do Rio Grande do Sul.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0224.md"
+  },
+  {
+    "id": "cvm-oc-sse-snc-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE/SNC 03/24",
+    "ementa": "Orientações complementares sobre a distribuição de resultados dos FII.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0324.md"
+  },
+  {
+    "id": "cvm-oc-snc-gna-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/GNA 01/26",
+    "ementa": "Esclarecimentos relacionados à atuação do auditor contábil independente no âmbito do mercado de valores mobiliáriosntos",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc/oc-snc-gna-0126.md"
+  },
+  {
+    "id": "cvm-oc-snc-gna0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SNC/GNA 01/22",
+    "ementa": "Esclarecimentos relacionados à atuação do auditor contábil independente no âmbito do mercado de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc/oc-snc-gna0122.md"
+  },
+  {
+    "id": "cvm-ocsncgna0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular CVM/SNC/GNA 01/24",
+    "ementa": "Esclarecimentos relacionados à atuação do auditor contábil independente no âmbito do mercado de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc/ocsncgna0124.md"
+  },
+  {
+    "id": "cvm-ocsncgna0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular/CVM/SNC/GNA 01/25",
+    "ementa": "Esclarecimentos relacionados à atuação do auditor contábil independente no âmbito do mercado de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc/ocsncgna0125.md"
+  },
+  {
+    "id": "cvm-oc-soi-goi-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2025/CVM/SOI",
+    "ementa": "Verificação dos Relatórios de Ouvidoria previstos na Resolução CVM 43/2022",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/soi/oc-soi-goi-0125.md"
+  },
+  {
+    "id": "cvm-oc-anual-2026-sre",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Anual 2026 CVM/SRE",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelos emissores/ofertantes e intermediários em ofertas públicas de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-anual-2026-sre.md"
+  },
+  {
+    "id": "cvm-oc-sre-0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 01/22",
+    "ementa": "Orientações sobre a incidência e o recolhimento da taxa de fiscalização dos mercados de títulos e valores mobiliários de que trata a Lei nº 7.940/1989 a serem observadas pelos emissores/ofertantes e intermediários em ofertas públicas de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0122.md"
+  },
+  {
+    "id": "cvm-oc-sre-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 01/23",
+    "ementa": "Novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0123.md"
+  },
+  {
+    "id": "cvm-oc-sre-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 01/24",
+    "ementa": "Caducidade de registros no Sistema SRE - novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0124.md"
+  },
+  {
+    "id": "cvm-oc-sre-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 01/25",
+    "ementa": "Orientações sobre requerimentos de registro automático de ofertas públicas de distribuição de FIAGRO e de Outros Títulos de Securitização (que não sejam Certificados de Recebíveis) - Lei nº 14.430 e Resoluções CVM nºs 60 e 160 - e ampliação do convênio com a Anbima.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0125.md"
+  },
+  {
+    "id": "cvm-oc-sre-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 01/26",
+    "ementa": "Orientações sobre o preenchimento de requerimentos de registro de ofertas públicas de distribuição de valores mobiliários com benefícios fiscais (Lei nº 12.431/11 e Lei nº 14.801/24).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0126.md"
+  },
+  {
+    "id": "cvm-oc-sre-0222",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 02/22",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro como coordenador de ofertas públicas de distribuição de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0222.md"
+  },
+  {
+    "id": "cvm-oc-sre-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 02/23",
+    "ementa": "Novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automáticode ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0223.md"
+  },
+  {
+    "id": "cvm-oc-sre-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 02/24",
+    "ementa": "Orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022: Ofertas públicas de distribuição de séries de classe sênior de Certificados de Recebíveis.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0224.md"
+  },
+  {
+    "id": "cvm-oc-sre-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 02/25",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediários nos requerimentos de registro de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0225.md"
+  },
+  {
+    "id": "cvm-oc-sre-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 02/26",
+    "ementa": "Orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro de ofertas públicas de distribuição de valores mobiliários (OPD) ou de aquisição de ações (OPA) em caso de indisponibilidade do Sistema SRE.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0226.md"
+  },
+  {
+    "id": "cvm-oc-sre-0322",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 03/22",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediários nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0322.md"
+  },
+  {
+    "id": "cvm-oc-sre-0323",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 03/23",
+    "ementa": "Sistema SRE - orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0323.md"
+  },
+  {
+    "id": "cvm-oc-sre-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 03/24",
+    "ementa": "Orientações sobre procedimentos a serem observados pelos coordenadores nas ofertas públicas de distribuição de valores mobiliários com benefícios fiscais.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0324.md"
+  },
+  {
+    "id": "cvm-oc-sre-0325",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 03/25",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro como coordenador de ofertas públicas de distribuição de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0325.md"
+  },
+  {
+    "id": "cvm-oc-sre-0326",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 03/26",
+    "ementa": "Orientações complementares sobre o preenchimento de requerimentos de registro deofertas públicas de distribuição de valores mobiliários com benefícios fiscais (Lei nº 12.431/11 e Lei nº14.801/24)",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0326.md"
+  },
+  {
+    "id": "cvm-oc-sre-0423",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 04/23",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro como coordenador de ofertas públicas de distribuição de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0423.md"
+  },
+  {
+    "id": "cvm-oc-sre-0424",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 04/24",
+    "ementa": "Sistema de Esforços Restritos (SER) - descontinuidade do recebimento de formulários de encerramento até 24/1/2025.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0424.md"
+  },
+  {
+    "id": "cvm-oc-sre-0425",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 04/25",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro de ofertas públicas de aquisição de ações (\"OPA\") - Resolução CVM nº 215/2025.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0425.md"
+  },
+  {
+    "id": "cvm-oc-sre-0426",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 04/26",
+    "ementa": "Novas orientações sobre requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários: (i) ofertas submetidas à análise prévia de entidade autorreguladora, nos termos da Resolução CVM nº 160/2022; e (ii) ofertas de emissores não registrados, nos termos das Resoluções CVM nsº 160/22 e 232/2025 (Regime FÁCIL).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0426.md"
+  },
+  {
+    "id": "cvm-oc-sre-0523",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 05/23",
+    "ementa": "Orientações sobre procedimentos a serem observados pelos coordenadores na instrução dos processos de restituição ou compensação de taxa de fiscalização - antiga tabela D ou atual Anexo IV da Lei nº 7.940/2021.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0523.md"
+  },
+  {
+    "id": "cvm-oc-sre-0524",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 05/24",
+    "ementa": "Interpretação acerca da distribuição pública de Letras de Crédito do Desenvolvimento - LCD.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0524.md"
+  },
+  {
+    "id": "cvm-oc-sre-0525",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 05/25",
+    "ementa": "Orientações sobre procedimentos a serem observados pelas instituições intermediários nos requerimentos de registro ordinário de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0525.md"
+  },
+  {
+    "id": "cvm-oc-sre-0526",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 05/26",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro como coordenador de ofertas públicas de distribuição de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0526.md"
+  },
+  {
+    "id": "cvm-oc-sre-0623",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 06/23",
+    "ementa": "Orientações gerais sobre procedimentos a serem observados pelas instituições intermediárias nos requerimentos de registro como coordenador de ofertas públicas de distribuição de valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0623.md"
+  },
+  {
+    "id": "cvm-oc-sre-0723",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 07/23",
+    "ementa": "Novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0723.md"
+  },
+  {
+    "id": "cvm-oc-sre-0823",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 08/23",
+    "ementa": "Novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0823.md"
+  },
+  {
+    "id": "cvm-oc-sre-0923",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 09/23",
+    "ementa": "Novas orientações sobre procedimentos a serem observados pelos coordenadores nos requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários - Resolução CVM nº 160/2022.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-0923.md"
+  },
+  {
+    "id": "cvm-oc-sre-1023",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SRE 10/23",
+    "ementa": "Orientações sobre procedimentos específicos a serem observados pelos emissores/ofertantes e intermediários em ofertas públicas de valores mobiliários (Resolução CVM 160).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sre/oc-sre-1023.md"
+  },
+  {
+    "id": "cvm-oc-snc-sse-sin-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SNC/SSE/SIN N° 01/25",
+    "ementa": "Orientações gerais sobre a elaboração das demonstrações contábeis dos fundos de investimento e das classes de cotas, em relação à vigência da Resolução CVM 175/22.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse-sin-snc/oc-snc-sse-sin-0125.md"
+  },
+  {
+    "id": "cvm-oc-sin-0623-sse1",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 06/23",
+    "ementa": "Complemento ao Ofício Circular 4/23-CVM/SSE - \"tokens de recebíveis\" ou \"tokens de renda fixa\"",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sin-0623-sse1.md"
+  },
+  {
+    "id": "cvm-oc-sse-0123",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 01/23",
+    "ementa": "Criação de novas associações no Sistema Fundos.NET.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0123.md"
+  },
+  {
+    "id": "cvm-oc-sse-0125",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 01/25",
+    "ementa": "Adaptação dos Sistemas SGF e Fundos.Net ao Anexo Normativo VI à Resolução CVM nº 175 (\"AN VI\").",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0125.md"
+  },
+  {
+    "id": "cvm-oc-sse-0126",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 01/26",
+    "ementa": "Envio das informações periódicas e as multas cominatórias ordinárias pelos atrasos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0126.md"
+  },
+  {
+    "id": "cvm-oc-sse-0222",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 02/22",
+    "ementa": "Esclarecimento sobre preenchimento do Item 14 do Informe Anual.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0222.md"
+  },
+  {
+    "id": "cvm-oc-sse-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 02/23",
+    "ementa": "Sistema para envio de informações relativas às ofertas de companhias securitizadoras (Resolução CVM 60 e Resolução CVM 160) e outros esclarecimentos relativos às operações de securitização (Lei 14.430).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0223.md"
+  },
+  {
+    "id": "cvm-oc-sse-0224",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 02/24",
+    "ementa": "Registro dos valores mobiliários e integralização de cotas subordinadas em direitos creditórios.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0224.md"
+  },
+  {
+    "id": "cvm-oc-sse-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 02/25",
+    "ementa": "Responsabilidade limitada dos cotistas FII",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0225.md"
+  },
+  {
+    "id": "cvm-oc-sse-0323",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 03/23",
+    "ementa": "Criação de nova associação no Sistema Fundos.NET e padronização das informações fornecidas no subitem 1.2.2 do Informe Trimestral Estruturado.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0323.md"
+  },
+  {
+    "id": "cvm-oc-sse-0324",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 03/24",
+    "ementa": "Nova versão de Informe Mensal para FIDC",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0324.md"
+  },
+  {
+    "id": "cvm-oc-sse-0325",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 03/25",
+    "ementa": "Adaptação do FIAGRO ao Anexo Normativo VI à Resolução CVM nº 175.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0325.md"
+  },
+  {
+    "id": "cvm-oc-sse-0423",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 04/23",
+    "ementa": "Caracterização dos “tokens de recebíveis” ou “tokens de renda fixa” como valores mobiliários.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0423.md"
+  },
+  {
+    "id": "cvm-oc-sse-0424",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 04/24",
+    "ementa": "Nova versão de Informe Mensal para FII.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0424.md"
+  },
+  {
+    "id": "cvm-oc-sse-0523",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 05/23",
+    "ementa": "Atualizações no Sistema Fundos.Net para envio do regime informacional das securitizadoras e de seus patrimônios separados.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0523.md"
+  },
+  {
+    "id": "cvm-oc-sse-0524",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 05/24",
+    "ementa": "Adaptação do sistema Fundos.Net à Resolução CVM nº 175/22 (\"RCVM 175/22\").",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0524.md"
+  },
+  {
+    "id": "cvm-oc-sse-0624",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 06/24",
+    "ementa": "Interpretação sobre dispositivos dos Anexos Normativos II e III à Resolução CVM nº 175.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0624.md"
+  },
+  {
+    "id": "cvm-oc-sse-0723",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 07/23",
+    "ementa": "Ajustes no informe mensal de FIDC - novo modelo do Suplemento G da Resolução CVM nº 175/22",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0723.md"
+  },
+  {
+    "id": "cvm-oc-sse-0725",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 07/25",
+    "ementa": "Unificação dos cadastros de Administrador de FIDC e FII com o cadastro de Administrador de Carteiras.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0725.md"
+  },
+  {
+    "id": "cvm-oc-sse-0823",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 08/23",
+    "ementa": "Registro dos direitos creditórios e as funções do gestor, administrador e custodiante.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0823.md"
+  },
+  {
+    "id": "cvm-oc-sse-0825",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 08/25",
+    "ementa": "Interpretação de dispositivos dos Anexos Normativos II, III e VI à Resolução nº 175.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0825.md"
+  },
+  {
+    "id": "cvm-oc-sse-0925",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 09/25",
+    "ementa": "Melhorias na atual versão do Informe Mensal de FIDC disponível no sistema Fundos.Net",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0925.md"
+  },
+  {
+    "id": "cvm-ocsse0525",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 05/25",
+    "ementa": "Ofício Circular para comunicar ao mercado a respeito de atualizações no sistema FundosNet, com aprimoramentos nos formulários estruturados.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/ocsse0525.md"
+  },
+  {
+    "id": "cvm-oficio-circular-cvmsse0122",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2022-CVM/SSE",
+    "ementa": "Sistema Fundos.net para envio do novo regime informacional de securitizadoras e migração dos registros para as categorias S1 e S2 (Resolução CVM 60)",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oficio-circular-cvmsse0122.md"
+  },
+  {
+    "id": "cvm-oficio-circular-sin-sse-01-2022",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 1/2022-CVM/SIN/SSE",
+    "ementa": "Companhias securitizadoras de capital aberto de que trata a Resolução CVM nº 60/21 e o limite de investimento por emissor referido na instrução CVM nº 555/14.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oficio-circular-sin-sse-01-2022.md"
+  },
+  {
+    "id": "cvm-oficios-circulares-0124",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 01/24",
+    "ementa": "Alterações na Lei nº 8.668, de 25 de junho de 1993, promovidas pela Lei nº 14.754, de 12 de dezembro de 2023.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oficios-circulares-0124.md"
+  },
+  {
+    "id": "lei-4595",
+    "tipo": "lei",
+    "titulo": "Lei nº 4.595/1964",
+    "ementa": "Dispõe sobre a Política e as Instituições Monetárias, Bancárias e Creditícias, Cria o Conselho Monetário Nacional e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-04595.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-4728",
+    "tipo": "lei",
+    "titulo": "Lei nº 4.728/1965",
+    "ementa": "Disciplina o mercado de capitais e estabelece medidas para o seu desenvolvimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-04728.md",
+    "baixado_em": "2026-10-28"
   },
   {
     "id": "lei-6385",
+    "tipo": "lei",
     "titulo": "Lei nº 6.385/1976",
     "ementa": "Dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.",
     "situacao": "vigente",
@@ -74,6 +3533,7 @@
   },
   {
     "id": "lei-6404",
+    "tipo": "lei",
     "titulo": "Lei nº 6.404/1976",
     "ementa": "Dispõe sobre as Sociedades por Ações.",
     "situacao": "vigente",
@@ -82,7 +3542,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-7913",
+    "tipo": "lei",
+    "titulo": "Lei nº 7.913/1989",
+    "ementa": "Dispõe sobre a ação civil pública de responsabilidade por danos causados aos investidores no mercado de valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-07913.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-8668",
+    "tipo": "lei",
     "titulo": "Lei nº 8.668/1993",
     "ementa": "Dispõe sobre a constituição e o regime tributário dos Fundos de Investimento Imobiliário e dos Fundos de Investimento nas Cadeias Produtivas Agroindustriais (Fiagro); e dá outras providências. (Redação dada pela Lei nº 14.130, de 2021)",
     "situacao": "vigente",
@@ -91,7 +3562,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-8929",
+    "tipo": "lei",
+    "titulo": "Lei nº 8.929/1994",
+    "ementa": "Institui a Cédula de Produto Rural, e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-08929.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-9514",
+    "tipo": "lei",
     "titulo": "Lei nº 9.514/1997",
     "ementa": "Dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação fiduciária de coisa imóvel e dá outras providências.",
     "situacao": "vigente",
@@ -100,7 +3582,38 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-9613",
+    "tipo": "lei",
+    "titulo": "Lei nº 9.613/1998",
+    "ementa": "Dispõe sobre os crimes de \"lavagem\" ou ocultação de bens, direitos e valores; a prevenção da utilização do sistema financeiro para os ilícitos previstos nesta Lei; cria o Conselho de Controle de Atividades Financeiras - COAF, e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-09613.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-10198",
+    "tipo": "lei",
+    "titulo": "Lei nº 10.198/2001",
+    "ementa": "Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-10198.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-10214",
+    "tipo": "lei",
+    "titulo": "Lei nº 10.214/2001",
+    "ementa": "Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamentos brasileiro, e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-10214.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-10406",
+    "tipo": "lei",
     "titulo": "Lei nº 10.406/2002",
     "ementa": "Institui o Código Civil.",
     "situacao": "vigente",
@@ -110,6 +3623,7 @@
   },
   {
     "id": "lei-10931",
+    "tipo": "lei",
     "titulo": "Lei nº 10.931/2004",
     "ementa": "Dispõe sobre o patrimônio de afetação de incorporações imobiliárias, Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário, Cédula de Crédito Bancário, altera o Decreto-Lei nº 911, de 1º de outubro de 1969, as Leis nº 4.591, de 16 de dezembro de 1964, nº 4.728, de 14 de julho de 1965, e nº 10.406, de 10 de janeiro de 2002, e dá outras providências.",
     "situacao": "vigente",
@@ -118,7 +3632,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-11033",
+    "tipo": "lei",
+    "titulo": "Lei nº 11.033/2004",
+    "ementa": "Altera a tributação do mercado financeiro e de capitais; institui o Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária – REPORTO; altera as Leis nºs 10.865, de 30 de abril de 2004, 8.850, de 28 de janeiro de 1994, 8.383, de 30 de dezembro de 1991, 10.522, de 19 de julho de 2002, 9.430, de 27 de dezembro de 1996, e 10.925, de 23 de julho de 2004; e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-11033.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-11076",
+    "tipo": "lei",
     "titulo": "Lei nº 11.076/2004",
     "ementa": "Dispõe sobre o Certificado de Depósito Agropecuário – CDA, o Warrant Agropecuário – WA, o Certificado de Direitos Creditórios do Agronegócio – CDCA, a Letra de Crédito do Agronegócio – LCA e o Certificado de Recebíveis do Agronegócio – CRA, dá nova redação a dispositivos das Leis nºs 9.973, de 29 de maio de 2000, que dispõe sobre o sistema de armazenagem dos produtos agropecuários, 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural, 8.929, de 22 de agosto de 1994, que institui a Cédula de Produto Rural – CPR, 9.514, de 20 de novembro de 1997, que dispõe sobre o Sistema de Financiamento Imobiliário e institui a alienação fiduciária de coisa imóvel, e altera a Taxa de Fiscalização de que trata a Lei nº 7.940, de 20 de dezembro de 1989, e dá outras providências.",
     "situacao": "vigente",
@@ -127,7 +3652,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-11101",
+    "tipo": "lei",
+    "titulo": "Lei nº 11.101/2005",
+    "ementa": "Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-11101.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-12431",
+    "tipo": "lei",
     "titulo": "Lei nº 12.431/2011",
     "ementa": "Dispõe sobre a incidência do imposto sobre a renda nas operações que especifica; altera as Leis nºs 11.478, de 29 de maio de 2007, 6.404, de 15 de dezembro de 1976, 9.430, de 27 de dezembro de 1996, 12.350, de 20 de dezembro de 2010, 11.196, de 21 de novembro de 2005, 8.248, de 23 de outubro de 1991, 9.648, de 27 de maio de 1998, 11.943, de 28 de maio de 2009, 9.808, de 20 de julho de 1999, 10.260, de 12 de julho de 2001, 11.096, de 13 de janeiro de 2005, 11.180, de 23 de setembro de 2005, 11.128, de 28 de junho de 2005, 11.909, de 4 de março de 2009, 11.371, de 28 de novembro de 2006, 12.249, de 11 de junho de 2010, 10.150, de 21 de dezembro de 2000, 10.312, de 27 de novembro de 2001, e 12.058, de 13 de outubro de 2009, e o Decreto-Lei nº 288, de 28 de fevereiro de 1967; institui o Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares (Renuclear); dispõe sobre medidas tributárias relacionadas ao Plano Nacional de Banda Larga; altera a legislação relativa à isenção do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM); dispõe sobre a extinção do Fundo Nacional de Desenvolvimento; e dá outras providências.",
     "situacao": "vigente",
@@ -136,7 +3672,48 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-12810",
+    "tipo": "lei",
+    "titulo": "Lei nº 12.810/2013",
+    "ementa": "Dispõe sobre o parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios; altera as Leis nºs 8.212, de 24 de julho de 1991, 9.715, de 25 de novembro de 1998, 11.828, de 20 de novembro de 2008, 10.522, de 19 de julho de 2002, 10.222, de 9 de maio de 2001, 12.249, de 11 de junho de 2010, 11.110, de 25 de abril de 2005, 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, 6.404, de 15 de dezembro de 1976, 6.385, de 7 de dezembro de 1976, 6.015, de 31 de dezembro de 1973, e 9.514, de 20 de novembro de 1997; e revoga dispositivo da Lei nº 12.703, de 7 de agosto de 2012.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-12810.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-13476",
+    "tipo": "lei",
+    "titulo": "Lei nº 13.476/2017",
+    "ementa": "Altera a Lei nº 12.810, de 15 de maio de 2013, para dispor sobre a constituição de gravames e ônus sobre ativos financeiros e valores mobiliários objeto de registro ou de depósito centralizado, e a Lei nº 13.097, de 19 de janeiro de 2015; e revoga dispositivo da Lei nº 10.931, de 2 de agosto de 2004.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-13476.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-13506",
+    "tipo": "lei",
+    "titulo": "Lei nº 13.506/2017",
+    "ementa": "Dispõe sobre o processo administrativo sancionador na esfera de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários; altera a Lei nº 6.385, de 7 de dezembro de 1976, a Lei nº 4.131, de 3 de setembro de 1962, a Lei nº 4.829, de 5 de novembro de 1965, a Lei nº 6.024, de 13 de março de 1974, a Lei nº 7.492, de 16 de junho de 1986, a Lei nº 9.069, de 29 de junho de 1995, a Lei nº 9.613, de 3 de março de 1998, a Lei nº 10.214, de 27 de março de 2001, a Lei nº 11.371, de 28 de novembro de 2006, a Lei nº 11.795, de 8 de outubro de 2008, a Lei nº 12.810, de 15 de maio de 2013, a Lei nº 12.865, de 9 de outubro de 2013, a Lei nº 4.595, de 31 de dezembro de 1964, o Decreto nº 23.258, de 19 de outubro de 1933, o Decreto-Lei nº 9.025, de 27 de fevereiro de 1946, e a Medida Provisória nº 2.224, de 4 de setembro de 2001; revoga o Decreto-Lei nº 448, de 3 de fevereiro de 1969, e dispositivos da Lei nº 9.447, de 14 de março de 1997, da Lei nº 4.380, de 21 de agosto de 1964, da Lei nº 4.728, de 14 de julho de 1965, e da Lei nº 9.873, de 23 de novembro de 1999; e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-13506.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-13775",
+    "tipo": "lei",
+    "titulo": "Lei nº 13.775/2018",
+    "ementa": "Dispõe sobre a emissão de duplicata sob a forma escritural; altera a Lei nº 9.492, de 10 de setembro de 1997; e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-13775.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-13986",
+    "tipo": "lei",
     "titulo": "Lei nº 13.986/2020",
     "ementa": "Institui o Fundo Garantidor Solidário (FGS); dispõe sobre o patrimônio rural em afetação, a Cédula Imobiliária Rural (CIR), a escrituração de títulos de crédito e a concessão de subvenção econômica para empresas cerealistas; altera as Leis n os 8.427, de 27 de maio de 1992, 8.929, de 22 de agosto de 1994, 11.076, de 30 de dezembro de 2004, 10.931, de 2 de agosto de 2004, 12.865, de 9 de outubro de 2013, 5.709, de 7 de outubro de 1971, 6.634, de 2 de maio de 1979, 6.015, de 31 de dezembro de 1973, 7.827, de 27 de setembro de 1989, 8.212, de 24 de julho de 1991, 10.169, de 29 de dezembro de 2000, 11.116, de 18 de maio de 2005, 12.810, de 15 de maio de 2013, 13.340, de 28 de setembro de 2016, 13.576, de 26 de dezembro de 2017, e o Decreto-Lei nº 167, de 14 de fevereiro de 1967; revoga dispositivos das Leis n os 4.728, de 14 de julho de 1965, e 13.476, de 28 de agosto de 2017, e dos Decretos-Leis n os 13, de 18 de julho de 1966; 14, de 29 de julho de 1966; e 73, de 21 de novembro de 1966; e dá outras providências.",
     "situacao": "vigente",
@@ -145,7 +3722,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-14286",
+    "tipo": "lei",
+    "titulo": "Lei nº 14.286/2021",
+    "ementa": "Dispõe sobre o mercado de câmbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no País e a prestação de informações ao Banco Central do Brasil; altera as Leis nos 4.131, de 3 de setembro de 1962, 4.728, de 14 de julho de 1965, 8.383, de 30 de dezembro de 1991, 10.192, de 14 de fevereiro de 2001, e 11.371, de 28 de novembro de 2006, e o Decreto nº 23.258, de 19 de outubro de 1933; e revoga as Leis nos 156, de 27 de novembro de 1947, 1.383, de 13 de junho de 1951, 1.807, de 7 de janeiro de 1953, 2.145, de 29 de dezembro de 1953, 2.698, de 27 de dezembro de 1955, 4.390, de 29 de agosto de 1964, 5.331, de 11 de outubro de 1967, 9.813, de 23 de agosto de 1999, e 13.017, de 21 de julho de 2014, os Decretos-Leis nos 1.201, de 8 de abril de 1939, 9.025, de 27 de fevereiro de 1946, 9.602, de 16 de agosto de 1946, 9.863, de 13 de setembro de 1946, e 857, de 11 de setembro de 1969, a Medida Provisória nº 2.224, de 4 de setembro de 2001, e dispositivos das Leis nos 4.182, de 13 de novembro de 1920, 3.244, de 14 de agosto de 1957, 4.595, de 31 de dezembro de 1964, 5.409, de 9 de abril de 1968, 6.099, de 12 de setembro de 1974, 7.738, de 9 de março de 1989, 8.021, de 12 de abril de 1990, 8.880, de 27 de maio de 1994, 9.069, de 29 de junho de 1995, 9.529, de 10 de dezembro de 1997, 11.803, de 5 de novembro de 2008, 12.865, de 9 de outubro de 2013, 13.292, de 31 de maio de 2016, e 13.506, de 13 de novembro de 2017, e dos Decretos-Leis nos 2.440, de 23 de julho de 1940, 1.060, de 21 de outubro de 1969, 1.986, de 28 de dezembro de 1982, e 2.285, de 23 de julho de 1986.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-14286.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-14430",
+    "tipo": "lei",
     "titulo": "Lei nº 14.430/2022",
     "ementa": "Dispõe sobre a emissão de Letra de Risco de Seguro (LRS) por Sociedade Seguradora de Propósito Específico (SSPE), sobre as regras gerais aplicáveis à securitização de direitos creditórios e à emissão de Certificados de Recebíveis e sobre a flexibilização do requisito de instituição financeira para a prestação do serviço de escrituração e de custódia de valores mobiliários; altera as Leis nºs 6.404, de 15 de dezembro de 1976, 6.385, de 7 de dezembro de 1976, 9.718, de 27 de novembro de 1998, 4.594, de 29 de dezembro de 1964, e o Decreto-Lei nº 73, de 21 de novembro de 1966; e revoga dispositivos das Leis nºs 9.514, de 20 de novembro de 1997, 10.931, de 2 de agosto de 2004, 11.076, de 30 de dezembro de 2004, 12.810, de 15 de maio de 2013, 13.331, de 1º de setembro de 2016, e 13.986, de 7 de abril de 2020.",
     "situacao": "vigente",
@@ -154,7 +3742,18 @@
     "baixado_em": "2026-10-28"
   },
   {
+    "id": "lei-14478",
+    "tipo": "lei",
+    "titulo": "Lei nº 14.478/2022",
+    "ementa": "Dispõe sobre diretrizes a serem observadas na prestação de serviços de ativos virtuais e na regulamentação das prestadoras de serviços de ativos virtuais; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever o crime de fraude com a utilização de ativos virtuais, valores mobiliários ou ativos financeiros; e altera a Lei nº 7.492, de 16 de junho de 1986, que define crimes contra o sistema financeiro nacional, e a Lei nº 9.613, de 3 de março de 1998, que dispõe sobre lavagem de dinheiro, para incluir as prestadoras de serviços de ativos virtuais no rol de suas disposições.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-14478.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
     "id": "lei-14711",
+    "tipo": "lei",
     "titulo": "Lei nº 14.711/2023",
     "ementa": "Dispõe sobre o aprimoramento das regras de garantia, a execução extrajudicial de créditos garantidos por hipoteca, a execução extrajudicial de garantia imobiliária em concurso de credores, o procedimento de busca e apreensão extrajudicial de bens móveis em caso de inadimplemento de contrato de alienação fiduciária, o resgate antecipado de Letra Financeira, a alíquota de imposto de renda sobre rendimentos no caso de fundos de investimento em participações qualificados que envolvam titulares de cotas com residência ou domicílio no exterior e o procedimento de emissão de debêntures; altera as Leis nºs 9.514, de 20 de novembro de 1997, 10.406, de 10 de janeiro de 2002 (Código Civil), 13.476, de 28 de agosto de 2017, 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), 6.766, de 19 de dezembro de 1979, 13.105, de 16 de março de 2015 (Código de Processo Civil), 9.492, de 10 de setembro de 1997, 8.935, de 18 de novembro de 1994, 12.249, de 11 de junho de 2010, 14.113, de 25 de dezembro de 2020, 11.312, de 27 de junho de 2006, 6.404, de 15 de dezembro de 1976, e 14.382, de 27 de junho de 2022, e o Decreto-Lei nº 911, de 1º de outubro de 1969; e revoga dispositivos dos Decretos-Lei nºs 70, de 21 de novembro de 1966, e 73, de 21 de novembro de 1966.",
     "situacao": "vigente",
@@ -164,11 +3763,32 @@
   },
   {
     "id": "lei-14754",
+    "tipo": "lei",
     "titulo": "Lei nº 14.754/2023",
     "ementa": "Dispõe sobre a tributação de aplicações em fundos de investimento no País e da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas e trusts no exterior; altera as Leis nºs 11.033, de 21 de dezembro de 2004, 8.668, de 25 de junho de 1993, e 10.406, de 10 de janeiro de 2002 (Código Civil); revoga dispositivos das Leis nºs 4.728, de 14 de julho de 1965, 9.250, de 26 de dezembro de 1995, 9.532, de 10 de dezembro de 1997, 10.426, de 24 de abril de 2002, 10.892, de 13 de julho de 2004, e 11.033, de 21 de dezembro de 2004, do Decreto-Lei nº 2.287, de 23 de julho de 1986, e das Medidas Provisórias nºs 2.189-49, de 23 de agosto de 2001, e 2.158-35, de 24 de agosto de 2001; e dá outras providências.",
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "leis/lei-14754.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "lei-14801",
+    "tipo": "lei",
+    "titulo": "Lei nº 14.801/2024",
+    "ementa": "Dispõe sobre as debêntures de infraestrutura; altera as Leis nºs 9.481, de 13 de agosto de 1997, 11.478, de 29 de maio de 2007, e 12.431, de 24 de junho de 2011; e dá outras providências.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/lei-14801.md",
+    "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "decreto-11964",
+    "tipo": "decreto",
+    "titulo": "Decreto nº 11.964/2024",
+    "ementa": "Regulamenta os critérios e as condições para enquadramento e acompanhamento dos projetos de investimento considerados como prioritários na área de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, para fins de emissão dos valores mobiliários de que tratam o art. 2º da Lei nº 12.431, de 24 de junho de 2011, e a Lei nº 14.801, de 9 de janeiro de 2024, e revoga o Decreto nº 8.874, de 11 de outubro de 2016.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "leis/decreto-11964.md",
     "baixado_em": "2026-10-28"
   }
 ]

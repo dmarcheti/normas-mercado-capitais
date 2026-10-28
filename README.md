@@ -1,6 +1,6 @@
 # Normas do mercado de capitais
 
-Acervo em Markdown de normas do mercado de capitais brasileiro (inicialmente resoluções da CVM sobre fundos, ofertas públicas e securitização), organizado para consulta por pessoas e por assistentes de IA: um arquivo por norma, um título por artigo, metadados de situação e de data-base no cabeçalho e o histórico de alterações preservado em commits, um por ato alterador. O objetivo é dar ao analista de crédito estruturado o texto consolidado e rastreável até a fonte, com a data até a qual cada norma foi atualizada.
+Acervo em Markdown de normas do mercado de capitais brasileiro (regulação e orientação da CVM, leis e decretos), organizado para consulta por pessoas e por assistentes de IA: um arquivo por norma, um título por artigo, metadados de situação e de data-base no cabeçalho e o histórico de alterações preservado em commits, um por ato alterador. O objetivo é dar ao analista de crédito estruturado o texto consolidado e rastreável até a fonte, com a data até a qual cada norma foi atualizada.
 
 ## Aviso
 
@@ -8,10 +8,15 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 
 ## Status
 
-Em construção (repositório privado). Acervo atual:
+Em construção (repositório privado). Acervo atual, em camadas declaradas (data-base 2026-10-28):
 
-- 8 resoluções da CVM com histórico por ato desde a publicação original no DOU: Res. CVM 175 (fundos), 160 (ofertas públicas), 60 (securitizadoras), 17 (agente fiduciário), 30 (suitability), 21 (administração de carteiras), 80 (emissores) e 50 (PLD/FTP). Um commit por ato alterador, com a data do DOU (33 atos, de 2021-02-10 a 2026-07-03).
-- 12 leis com o texto da página do Planalto lida em 2026-10-28, sem histórico: Leis 6.385, 6.404, 14.430, 9.514, 10.931, 8.668, 11.076, 13.986, 14.711, 14.754, 12.431 e Código Civil (arts. 1.368-C a 1.368-F).
+1. **Regulação da CVM:** as 155 Resoluções CVM vigentes (as 154 do Estoque Regulatório da CVM de 2026-09-08, mais a Res. 249) e as 5 Instruções CVM ainda em vigor (438, 445, 489, 516 e 579, contábeis de fundos). Ficam fora as revogadas, as que só alteram outras e a Res. 26 (prorrogação de prazos de 2021, sem efeito atual [verificar]).
+2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 171 Ofícios-Circulares com texto, editados desde 2022-01-01. Os 429 restantes (anteriores a 2022 ou em PDF sem texto legível) aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
+3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/normas/indices/leis.md`).
+
+Fora do acervo: resoluções do CMN e do BCB, autorregulação (ANBIMA, B3) e julgados da CVM.
+
+Cada norma informa o nível de verificação (`nivel_verificacao`): 9 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU (Res. CVM 175, 160, 60, 17, 30, 21, 80 e 50, e Instr. CVM 489); as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
 
 Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
 

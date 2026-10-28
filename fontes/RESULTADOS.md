@@ -61,3 +61,21 @@ Data: 2026-10-28. Teste 1: todo texto novo de um commit de ato aparece no texto 
 | lei-14754 | 0 |
 | lei-12431 | 0 |
 | lei-10406 | 0 |
+
+## Fase 2b: texto vigente por script (2026-10-28)
+
+Inventário: `scripts/inventario_acervo.py` → `fontes/acervo.json` (site da CVM e Estoque Regulatório de 2026-09-08). Conversão: `scripts/texto_vigente.py`, sem LLM. Cobertura = fração das palavras da fonte, extraídas pelo `textutil` do macOS (conversor independente), presentes no Markdown antes de tirar o texto tachado do consolidado.
+
+| Camada | Itens | Com texto | Nível de verificação |
+|---|---|---|---|
+| 1: Resoluções e Instruções | 152 | 152 | 33 consolidado-convertido, 116 ato-convertido, 3 pdf-extraido (Res. 1, 10 e 12) |
+| 2: Pareceres e Ofícios-Circulares desde 2022 | 220 | 212 | 40 ato-convertido, 172 pdf-extraido |
+| 3: leis e decretos | 29 | 29 | compilado-planalto; `teste_lei` com 0 diferença nas 29 |
+
+- Instr. CVM 489: histórico por ato (Instr. 502/11 e 576/16), teste 1 com 0 linha fora do ato nos dois commits; sem teste 2, porque a CVM não publica consolidado.
+- Cobertura com conferência independente: 189 normas, 184 com 99% ou mais. Abaixo: Res. CVM 89 (98,6%), 94 (98,5%), 100 (96,2%), 103 (96,1%) e 122 (94,0%), todas pela mesma causa: diagramas em caixa de texto (74 a 612 palavras), que o conversor não lê. Está no `incerteza` de cada uma.
+- Notas de rodapé: 40 normas trazem a seção final "Notas de rodapé" (sem a âncora no texto).
+- PDF sem conferência independente (175 normas, quase todas Ofícios-Circulares): só a regra de legibilidade (fração de palavras alfabéticas ≥ 0,5 e ao menos 50 palavras).
+- Sem texto (8 Ofícios-Circulares, ficam como verbete no índice): SSE 03/26 e 02/26 (fonte Type3 sem mapa Unicode), SMI 02/23 (codificação de fonte), SEP 06/26, SSE 06/25, SSE 04/25, SNC/SSE/SIN 02/25 conjunto e SSE/SNC 02/25 (PDF escaneado). Só OCR resolve.
+- Parecer de Orientação 34: o DOC da CVM é um RTF com a página escaneada como imagem; o texto veio do PDF.
+- Leis: os rótulos de margem do Planalto ("(Vigência)", "Produção de efeito", "Vigência encerrada") saem do texto e do gabarito do teste; cada lei afetada diz isso no `incerteza`. Resíduo: 5 ocorrências no art. 136-A da Lei 6.404, coladas à nota "(Incluído pela Lei nº 13.129, de 2015)".
