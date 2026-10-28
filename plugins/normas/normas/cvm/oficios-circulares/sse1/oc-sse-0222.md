@@ -1,0 +1,147 @@
+---
+id: cvm-oc-sse-0222
+orgao: cvm
+tipo: oficio-circular
+numero: 2
+data: 2022-12-21
+publicacao_dou: 2022-12-21
+ementa: Esclarecimento sobre preenchimento do Item 14 do Informe Anual.
+situacao: nao-informada
+versao_texto: original
+vigente_ate_ato:
+aguarda_consolidado_oficial: false
+historico_parcial: true
+fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0222.pdf
+fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0222.pdf
+sha256_fonte: 71dfbb8eada51f50207e9de782f6a45643bf1ee139f6cf9af9c322ffe75afb66
+baixado_em: 2026-10-28
+verificado_em: 2026-10-28
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+nivel_verificacao: pdf-extraido
+---
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
+
+Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
+
+Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-2000
+
+SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
+
+www.cvm.gov.br
+
+Ofício-Circular nº 2/2022-CVM/SSE
+
+São Paulo, 21 de dezembro de 2022.
+
+Aos
+
+Administradores de Fundos de Investimento Imobiliário (“FII”)
+
+Assunto: Esclarecimento sobre preenchimento do Item 14 do Informe Anual.
+
+Prezados Senhores,
+
+1. O presente Ofício-Circular tem como objetivo orientar os administradores de FII quanto ao
+
+adequado preenchimento do item 14 do Informe Anual, conforme prev isto no Anexo 39-V da Instrução
+
+CVM nº 472/2008 (“ICVM 472”).
+
+2. Como sabido, referido item requer a divulgação de transações em situação de conflito de
+
+interesses realizadas no âmbito dos FII, nos termos do art. 34 e inciso IX do art. 35 da ICVM 472.
+
+3. Primeiramente, importa considerar o di sposto no Pronunciamento Técnico CPC 00(R2),
+
+aplicável aos FII por força do art. 2º da Instrução CVM nº 516/2011, no que que tange às características
+
+qualitativas de informações financeiras úteis. De acordo com os itens 2.4 e 2.5 do mencionado
+
+Pronunciamento Contábil, “ se informações financeiras devem ser út eis, elas devem ser relevantes e
+
+representar fidedignamente aquilo que pretendem representar. A utilidade das informações financeiras
+
+é aumentada se forem comparáveis, verificáveis, tempestivas e compreensíveis” (grifo nosso); e
+
+“informações financeiras relevantes são capazes de fazer diferença nas decisões tomadas pelos
+
+usuários”.
+
+4. Neste contexto, esta área té cnica esclarece que as informações do item 14 do Informe
+
+Anual devem ser compatíveis e comparáveis às informações apresentadas nas demonstrações
+
+financeiras auditadas do FII, refletindo a sua situ ação patrimonial naquela data-base. Tal representação
+
+deve incluir, também, os saldos das operações c onflitadas contratadas em períodos anteriores, e que
+
+ainda estejam registradas no ativo do FII (transações em estoque).
+
+5. De forma objetiva, o item 14 do Inform e Anual deve contemplar a divulgação das
+
+transações conflitadas, sejam elas de fluxo (no período) ou de estoque, em determinada data-base,
+
+garantindo uma informação financeira mais út il ao usuário, à luz dos itens 2.12 e 2.13 do
+
+Pronunciamento Técnico CPC 00(R2).
+
+SEI/CVM - 1665530 - Ofício-Circular https://super.cvm.gov.br/sei /controlador.php?acao=documento_impri...
+
+1 of 2 21/12/2022 16:24
+
+6. Especificamente, as aquisições em situação de confli to de interesses que ainda estejam
+
+registradas na carteira do fundo ao final do ex ercício social (operações em estoque) devem ser
+
+reportadas no item 14 do Informe Anual de forma recorrente, até que sejam efetivamente alienadas. Tal
+
+procedimento, além de proporcionar informação útil aos usuários, permite conciliar o Informe Anual
+
+com o Balanço Patrimonial (Ativo) do FII em uma determinada data-base.
+
+7. As operações de alienação em situação de potencial conflito de interesses devem ser
+
+reportadas no item 14 do Informe Anual na data-base correspondente ao período a que se referem, não
+
+mais impactando o Informe Anual do período subs equente (operações de fluxo). Com isso, é possível
+
+conciliar o Informe Anual com os efeitos da aliena ção refletidos na demons tração do resultado do
+
+exercício do FII, em determinada data-base.
+
+8. Idêntico procedimento ao do parágr afo 7 deve ser utilizado para os ativos potencialmente
+
+conflitados adquiridos e alienados ao longo do mesmo exercício social (operações de fluxo).
+
+9. A aplicação do entendimento acima gara nte a comparabilidade e integralidade da
+
+informação, incluindo sua natureza, data da assembleia de aprovação, valores e contrapartes envolvidas,
+
+fornecendo informações financeiras úteis à tomada de decisão dos usuários.
+
+Atenciosamente,
+
+NATHALIE ARAUJO VIDUAL
+
+Superintendente de Supervisão de Securitização - Em Exercício
+
+Documento assinado eletronicamente por Nathalie de Andrade Araujo Matoso Vidual,
+
+Superintendente Substituto, em 21/12/2022, às 16:18, com fundamento no art. 6º do
+
+Decreto nº 8.539, de 8 de outubro de 2015.
+
+A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br
+
+/conferir_autenticidade, informando o código verificador 1665530 e o código CRC 6938CBEB.
+
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade,
+
+and typing the "Código Verificador" 1665530 and the "Código CRC" 6938CBEB.
+
+Referência: Processo nº 19957.009383/2021‐43 Documento SEI nº 1665530
+
+SEI/CVM - 1665530 - Ofício-Circular https://super.cvm.gov.br/sei /controlador.php?acao=documento_impri...
+
+2 of 2 21/12/2022 16:24
