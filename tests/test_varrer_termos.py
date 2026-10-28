@@ -76,3 +76,9 @@ class TestCnpjDentroDeHash(unittest.TestCase):
     def test_cnpj_solto_continua_bloqueado(self):
         from varrer_termos import varrer
         self.assertEqual(varrer({"a.md": "CNPJ %s." % CNPJ_PURO}, []), ["a.md: " + CNPJ_PURO])
+
+
+class TestCnpjDeDigitoRepetido(unittest.TestCase):
+    def test_sequencia_de_um_digito_nao_e_cnpj(self):
+        from varrer_termos import varrer
+        self.assertEqual(varrer({"a.md": "repetidos (p.ex., " + "9" * 14 + ")"}, []), [])

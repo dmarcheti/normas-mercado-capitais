@@ -65,6 +65,8 @@ def varrer(textos, termos):
         texto = textos[arquivo]
         vistos = set()
         for m in CNPJ.finditer(texto):
+            if len(set(re.sub(r"\D", "", m.group(0)))) == 1:
+                continue  # 99999999999999: exemplo de CNPJ inválido citado em norma, não é CNPJ
             if m.group(0) not in vistos:
                 vistos.add(m.group(0))
                 achados.append("%s: %s" % (arquivo, m.group(0)))
