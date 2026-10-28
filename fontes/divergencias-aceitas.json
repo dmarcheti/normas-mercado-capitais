@@ -5958,5 +5958,2117 @@
     "norma": "ANEXO C",
     "motivo": "O consolidado da CVM abre o anexo com \"ANEXO C à Resolução CVM nº 50, de 31 de AGOSTO de 2021\"; o DOU traz \"ANEXO C\". Diferença tipográfica entre as fontes; vale o DOU.",
     "ref": "dados/replay-0050/divergencias.md, item 3"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo II - Categorias de Emissor de Valores Mobiliários",
+    "norma": "CAPÍTULO II - CATEGORIAS DE EMISSOR DE VALORES MOBILIÁRIOS",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo III - Pedido de Registro de Emissor de Valores Mobiliários",
+    "norma": "CAPÍTULO III - PEDIDO DE REGISTRO DE EMISSOR DE VALORES MOBILIÁRIOS",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo IV - Obrigações do Emissor",
+    "norma": "CAPÍTULO IV - OBRIGAÇÕES DO EMISSOR",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "Incisos X e XI com redação dada e inciso XII incluído pela Resolução CVM nº 59, de 22 de dezembro de 2021.",
+    "norma": "",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "Incisos VI e VII com redação dada e inciso VIII incluído pela Resolução CVM nº 59, de 22 de dezembro de 2021.",
+    "norma": "",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "numeral por extenso",
+    "consolidado": "V-A - atos que formalizem deliberações tomadas pela diretoria sobre emissão de debêntures, em até 7 (sete) dias úteis contados de sua realização;",
+    "norma": "V-A - atos que formalizem deliberações tomadas pela diretoria sobre emissão de debêntures, em até sete dias úteis contados de sua realização;",
+    "motivo": "Numeral por extenso nos Arts. 33 e 34, V-A",
+    "ref": "dados/replay-0080/divergencias.md, seção 9"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "numeral por extenso",
+    "consolidado": "V-A - atos que formalizem deliberações tomadas pela diretoria sobre emissão de debêntures, em até 7 (sete) dias úteis contados de sua realização;",
+    "norma": "V-A - atos que formalizem deliberações tomadas pela diretoria sobre emissão de debêntures, em até sete dias úteis contados de sua realização;",
+    "motivo": "Numeral por extenso nos Arts. 33 e 34, V-A",
+    "ref": "dados/replay-0080/divergencias.md, seção 9"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo V - Regras Especiais",
+    "norma": "CAPÍTULO V - REGRAS ESPECIAIS",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo VI - Deveres dos Administradores e Controladores",
+    "norma": "CAPÍTULO VI - DEVERES DOS ADMINISTRADORES E CONTROLADORES",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "pontuação final",
+    "consolidado": "Parágrafo único. A eleição e a posse em cargo de administrador de companhia aberta deve observar as regras previstas no Anexo K.",
+    "norma": "Parágrafo único. A eleição e a posse em cargo de administrador de companhia aberta deve observar as regras previstas no Anexo K",
+    "motivo": "Ponto final do parágrafo único do Art. 46",
+    "ref": "dados/replay-0080/divergencias.md, seção 10"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo VII - Suspensão e Cancelamento de Registro",
+    "norma": "CAPÍTULO VII - SUSPENSÃO E CANCELAMENTO DE REGISTRO",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo VIII - Supervisão da CVM",
+    "norma": "CAPÍTULO VIII - SUPERVISÃO DA CVM",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo IX - Multas Cominatórias",
+    "norma": "CAPÍTULO IX - MULTAS COMINATÓRIAS",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo X - Penalidades",
+    "norma": "CAPÍTULO X - PENALIDADES",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "títulos de capítulo",
+    "consolidado": "Capítulo XI - Disposições Gerais e Transitórias",
+    "norma": "CAPÍTULO XI - DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+    "motivo": "Títulos de capítulo em caixa alta",
+    "ref": "dados/replay-0080/divergencias.md, seção 4"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Assinado eletronicamente por",
+    "norma": "",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "MARCELO BARBOSA",
+    "norma": "",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Presidente",
+    "norma": "",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo A à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "",
+    "norma": "ANEXO A",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo B à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO B",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "a. emissor classificado como 'CMP'",
+    "norma": "a) emissor classificado como 'CMP'",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "b. emissor não classificado como 'CMP'",
+    "norma": "b) emissor não classificado como 'CMP'",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marca de revogação",
+    "consolidado": "1.28 REVOGADO",
+    "norma": "1.28 (Revogado)",
+    "motivo": "Marca de revogação dos itens do Anexo B",
+    "ref": "dados/replay-0080/divergencias.md, seção 8"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marca de revogação",
+    "consolidado": "1.29 REVOGADO",
+    "norma": "1.29 (Revogado)",
+    "motivo": "Marca de revogação dos itens do Anexo B",
+    "ref": "dados/replay-0080/divergencias.md, seção 8"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marca de revogação",
+    "consolidado": "5.8 REVOGADO",
+    "norma": "5.8 (Revogado)",
+    "motivo": "Marca de revogação dos itens do Anexo B",
+    "ref": "dados/replay-0080/divergencias.md, seção 8"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marca de revogação",
+    "consolidado": "5.9 REVOGADO",
+    "norma": "5.9 (Revogado)",
+    "motivo": "Marca de revogação dos itens do Anexo B",
+    "ref": "dados/replay-0080/divergencias.md, seção 8"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo C à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.3. Em relação a cada segmento operacional que tenha sido divulgado nas últimas demonstrações financeiras de encerramento de exercício social ou, quando houver, nas demonstrações financeiras consolidadas, indicar as seguintes informações: | X |",
+    "norma": "| 1.3. Em relação a cada segmento operacional que tenha sido divulgado nas últimas demonstrações financeiras de encerramento de exercício social ou, quando houver, nas demonstrações financeiras consolidadas, indicar as seguintes informações (1) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.5. Identificar se há clientes que sejam responsáveis por mais de 10% da receita líquida total do emissor, informando: | X |",
+    "norma": "| 1.5. Identificar se há clientes que sejam responsáveis por mais de 10% da receita líquida total do emissor, informando (2) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| 1.6. Descrever os efeitos relevantes da regulação estatal sobre as atividades do emissor, comentando especificamente: Item 1.6 com redação dada pela Resolução CVM nº 180, de 22 de março de 2023. |",
+    "norma": "| 1.6. Descrever os efeitos relevantes da regulação estatal sobre as atividades do emissor, comentando especificamente: |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.7. Em relação aos países dos quais o emissor obtém receitas relevantes, identificar: | X |",
+    "norma": "| 1.7. Em relação aos países dos quais o emissor obtém receitas relevantes, identificar (3) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.11. Indicar a aquisição ou alienação de qualquer ativo relevante que não se enquadre como operação normal nos negócios do emissor |",
+    "norma": "| 1.11. Indicar a aquisição ou alienação de qualquer ativo relevante que não se enquadre como operação normal nos negócios do emissor (4) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.12. Indicar operações de fusão, cisão, incorporação, incorporação de ações, aumento ou redução de capital envolvendo o emissor e os documentos em que informações mais detalhadas possam ser encontradas. |",
+    "norma": "| 1.12. Indicar operações de fusão, cisão, incorporação, incorporação de ações, aumento ou redução de capital envolvendo o emissor e os documentos em que informações mais detalhadas possam ser encontradas (5) . |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.13. Indicar a celebração, extinção ou modificação de acordos de acionistas e os documentos em que informações mais detalhadas possam ser encontradas. |",
+    "norma": "| 1.13. Indicar a celebração, extinção ou modificação de acordos de acionistas e os documentos em que informações mais detalhadas possam ser encontradas (6) . |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.14. Indicar alterações significativas na forma de condução dos negócios do emissor |",
+    "norma": "| 1.14. Indicar alterações significativas na forma de condução dos negócios do emissor (7) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 1.15. Identificar os contratos relevantes celebrados pelo emissor e suas controladas não diretamente relacionados com suas atividades operacionais |",
+    "norma": "| 1.15. Identificar os contratos relevantes celebrados pelo emissor e suas controladas não diretamente relacionados com suas atividades operacionais (8) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 2.1. Os diretores devem comentar sobre-: |",
+    "norma": "| 2.1. Os diretores devem comentar sobre (9-10) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 2.2. Os diretores devem comentar-: |",
+    "norma": "| 2.2. Os diretores devem comentar (11-12) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 2.6. Identificar e comentar qualquer evento subsequente às últimas demonstrações financeiras de encerramento de exercício social que as altere substancialmente | X |",
+    "norma": "| 2.6. Identificar e comentar qualquer evento subsequente às últimas demonstrações financeiras de encerramento de exercício social que as altere substancialmente (13) | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 2.7. Os diretores devem comentar a destinação dos resultados sociais, indicando: |",
+    "norma": "| 2.7. Os diretores devem comentar a destinação dos resultados sociais, indicando (14) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 2.8. Os diretores devem descrever os itens relevantes não evidenciados nas demonstrações financeiras do emissor, indicando: |",
+    "norma": "| 2.8. Os diretores devem descrever os itens relevantes não evidenciados nas demonstrações financeiras do emissor, indicando (15) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 3. Projeções |",
+    "norma": "| 3. Projeções (16) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| d. valores dos indicadores que são objeto da previsão |",
+    "norma": "| d. valores dos indicadores que são objeto da previsão (17) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 4.1. Descrever os fatores de risco com efetivo potencial de influenciar a decisão de investimento, observando as categorias abaixo e, dentro delas, a ordem decrescente de relevância-: |",
+    "norma": "| 4.1. Descrever os fatores de risco com efetivo potencial de influenciar a decisão de investimento, observando as categorias abaixo e, dentro delas, a ordem decrescente de relevância (18-19) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| d. partes no processo |",
+    "norma": "| d. partes no processo (20) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| iii. a estrutura organizacional de gerenciamento de riscos | X |",
+    "norma": "| iii. a estrutura organizacional de gerenciamento de riscos (21) | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| se ele se aplica a todos os diretores, conselheiros fiscais, conselheiros de administração e empregados e se abrange também terceiros, tais como fornecedores, prestadores de serviço, agentes intermediários e associados |",
+    "norma": "| - se ele se aplica a todos os diretores, conselheiros fiscais, conselheiros de administração e empregados e se abrange também terceiros, tais como fornecedores, prestadores de serviço, agentes intermediários e associados |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| as sanções aplicáveis na hipótese de violação ao código ou a outras normas relativas ao assunto, identificando o documento onde essas sanções estão previstas |",
+    "norma": "| - as sanções aplicáveis na hipótese de violação ao código ou a outras normas relativas ao assunto, identificando o documento onde essas sanções estão previstas |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| órgão que aprovou o código, data da aprovação e, caso o emissor divulgue o código de conduta, locais na rede mundial de computadores onde o documento pode ser consultado |",
+    "norma": "| - órgão que aprovou o código, data da aprovação e, caso o emissor divulgue o código de conduta, locais na rede mundial de computadores onde o documento pode ser consultado |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. número de casos confirmados nos últimos 3 (três) exercícios sociais de desvios, fraudes, irregularidades e atos ilícitos praticados contra a administração pública e medidas corretivas adotadas |",
+    "norma": "| c. número de casos confirmados nos últimos 3 (três) exercícios sociais de desvios, fraudes, irregularidades e atos ilícitos praticados contra a administração pública e medidas corretivas adotadas (22) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 6.1. Identificar o acionista ou grupo de acionistas controladores, indicando em relação a cada um deles: |",
+    "norma": "| 6.1. Identificar o acionista ou grupo de acionistas controladores, indicando em relação a cada um deles (23) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. Nome |",
+    "norma": "| a. nome |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 6.2. Em forma de tabela, lista contendo as informações abaixo sobre os acionistas, ou grupos de acionistas que agem em conjunto ou que representam o mesmo interesse, com participação igual ou superior a 5% de uma mesma classe ou espécie de ações e que não estejam listados no item 6.1: | X |",
+    "norma": "| 6.2. Em forma de tabela, lista contendo as informações abaixo sobre os acionistas, ou grupos de acionistas que agem em conjunto ou que representam o mesmo interesse, com participação igual ou superior a 5% de uma mesma classe ou espécie de ações e que não estejam listados no item 6.1 (24) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. Nome | X |",
+    "norma": "| a. nome | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. número de acionistas pessoas jurídicas |",
+    "norma": "| b. número de acionistas pessoas jurídicas (25) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| iii. número total de pessoas com deficiência, caracterizada nos termos da legislação aplicável Subitem iii com redação dada pela Resolução CVM nº 198, de 31 de janeiro de 2024. |",
+    "norma": "| iii. número total de pessoas com deficiência, caracterizada nos termos da legislação aplicável |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| iv. número total de membros agrupados por outros atributos de diversidade que o emissor entenda relevantes Subitem iv incluído pela Resolução CVM nº 198, de 31 de janeiro de 2024. |",
+    "norma": "| iv. número total de membros agrupados por outros atributos de diversidade que o emissor entenda relevantes |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| 7.2. Em relação especificamente ao conselho de administração, indicar: Item 7.2 com redação dada pela Resolução CVM nº 180, de 22 de março de 2023. | X |",
+    "norma": "| 7.2. Em relação especificamente ao conselho de administração, indicar: | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| j. se é membro independente, nos termos da regulamentação específica aplicável à matéria Item j com redação dada pela Resolução CVM nº 168, de 20 de setembro de 2022. |",
+    "norma": "| j. se é membro independente, nos termos da regulamentação específica aplicável à matéria |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 7.4. Fornecer as informações mencionadas no item 7.3 em relação aos membros dos comitês estatutários, bem como dos comitês de auditoria, de risco, financeiro e de remuneração, ainda que tais comitês ou estruturas não sejam estatutários |",
+    "norma": "| 7.4. Fornecer as informações mencionadas no item 7.3 em relação aos membros dos comitês estatutários, bem como dos comitês de auditoria, de risco, financeiro e de remuneração, ainda que tais comitês ou estruturas não sejam estatutários (26) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.1. Descrever a política ou prática de remuneração do conselho de administração, da diretoria estatutária e não estatutária, do conselho fiscal, dos comitês estatutários e dos comitês de auditoria, de risco, financeiro e de remuneração, abordando os seguintes aspectos: | X |",
+    "norma": "| 8.1. Descrever a política ou prática de remuneração do conselho de administração, da diretoria estatutária e não estatutária, do conselho fiscal, dos comitês estatutários e dos comitês de auditoria, de risco, financeiro e de remuneração, abordando os seguintes aspectos (27) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| seus objetivos e alinhamento aos interesses de curto, médio e longo prazo do emissor | X |",
+    "norma": "| - seus objetivos e alinhamento aos interesses de curto, médio e longo prazo do emissor | X |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| sua proporção na remuneração total nos 3 últimos exercícios sociais | X |",
+    "norma": "| - sua proporção na remuneração total nos 3 últimos exercícios sociais | X |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| sua metodologia de cálculo e de reajuste | X |",
+    "norma": "| - sua metodologia de cálculo e de reajuste | X |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| principais indicadores de desempenho nele levados em consideração, inclusive, se for o caso, indicadores ligados a questões ASG | X |",
+    "norma": "| - principais indicadores de desempenho nele levados em consideração, inclusive, se for o caso, indicadores ligados a questões ASG | X |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.2. Em relação à remuneração reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente do conselho de administração, da diretoria estatutária e do conselho fiscal, elaborar tabela com o seguinte conteúdo: |",
+    "norma": "| 8.2. Em relação à remuneração reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente do conselho de administração, da diretoria estatutária e do conselho fiscal, elaborar tabela com o seguinte conteúdo (28) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| salário ou pró-labore |",
+    "norma": "| - salário ou pró-labore |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| benefícios diretos e indiretos |",
+    "norma": "| - benefícios diretos e indiretos |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| remuneração por participação em comitês |",
+    "norma": "| - remuneração por participação em comitês |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| outros |",
+    "norma": "| - outros |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| bônus |",
+    "norma": "| - bônus |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| participação nos resultados |",
+    "norma": "| - participação nos resultados |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| remuneração por participação em reuniões |",
+    "norma": "| - remuneração por participação em reuniões |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| comissões |",
+    "norma": "| - comissões |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| v. remuneração baseada em ações, incluindo opções |",
+    "norma": "| v. remuneração baseada em ações, incluindo opções (29) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| e. valor, por órgão, da remuneração do conselho de administração, da diretoria estatutária e do conselho fiscal |",
+    "norma": "| e. valor, por órgão, da remuneração do conselho de administração, da diretoria estatutária (30) e do conselho fiscal |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| f. total da remuneração do conselho de administração, da diretoria estatutária e do conselho fiscal |",
+    "norma": "| f. total da remuneração do conselho de administração, da diretoria estatutária e do conselho fiscal (31) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.3. Em relação à remuneração variável dos 3 últimos exercícios sociais e à prevista para o exercício social corrente do conselho de administração, da diretoria estatutária e do conselho fiscal, elaborar tabela com o seguinte conteúdo: | X |",
+    "norma": "| 8.3. Em relação à remuneração variável dos 3 últimos exercícios sociais e à prevista para o exercício social corrente do conselho de administração, da diretoria estatutária e do conselho fiscal, elaborar tabela com o seguinte conteúdo (32) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.5. Em relação à remuneração baseada em ações sob a forma de opções de compra de ações reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo: | X |",
+    "norma": "| 8.5. Em relação à remuneração baseada em ações sob a forma de opções de compra de ações reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo (33) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| 8.6. Em relação à cada outorga de opções de compra de ações realizada nos 3 últimos exercícios sociais e previstas para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo: Item 8.6 com redação dada pela Resolução CVM nº 180, de 22 de março de 2023. | X |",
+    "norma": "",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| c. número de membros remunerados Alínea c com redação dada pela Resolução CVM nº 180, de 22 de março de 2023. | X |",
+    "norma": "",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "",
+    "norma": "| 8.6. Em relação à cada outorga de opções de compra de ações realizada nos 3 últimos exercícios sociais e previstas para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo: | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "",
+    "norma": "| a. órgão | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "",
+    "norma": "| b. número total de membros | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "",
+    "norma": "| c. número de membros remunerados | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.7. Em relação às opções em aberto do conselho de administração e da diretoria estatutária ao final do último exercício social, elaborar tabela com o seguinte conteúdo: | X |",
+    "norma": "| 8.7. Em relação às opções em aberto do conselho de administração e da diretoria estatutária ao final do último exercício social, elaborar tabela com o seguinte conteúdo (34) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.9. Em relação à remuneração baseada em ações, sob a forma de ações a serem entregues diretamente aos beneficiários, reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo: | X |",
+    "norma": "| 8.9. Em relação à remuneração baseada em ações, sob a forma de ações a serem entregues diretamente aos beneficiários, reconhecida no resultado dos 3 últimos exercícios sociais e à prevista para o exercício social corrente, do conselho de administração e da diretoria estatutária, elaborar tabela com o seguinte conteúdo (35) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.13. Informar a quantidade de ações, cotas e outros valores mobiliários conversíveis em ações ou cotas, emitidos, no Brasil ou no exterior, pelo emissor, seus controladores diretos ou indiretos, sociedades controladas ou sob controle comum, que sejam detidas por membros do conselho de administração, da diretoria estatutária ou do conselho fiscal, agrupados por órgão | X |",
+    "norma": "| 8.13. Informar a quantidade de ações, cotas e outros valores mobiliários conversíveis em ações ou cotas, emitidos, no Brasil ou no exterior, pelo emissor, seus controladores diretos ou indiretos, sociedades controladas ou sob controle comum, que sejam detidas por membros do conselho de administração, da diretoria estatutária ou do conselho fiscal, agrupados por órgão (36) | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 8.15. Em forma de tabela, indicar, para os 3 últimos exercícios sociais, em relação ao conselho de administração, à diretoria estatutária e ao conselho fiscal: | X |",
+    "norma": "| 8.15. Em forma de tabela, indicar, para os 3 últimos exercícios sociais, em relação ao conselho de administração, à diretoria estatutária e ao conselho fiscal (37) : | X |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 9.1. Em relação aos auditores independentes, indicar: |",
+    "norma": "| 9.1. Em relação aos auditores independentes, indicar (38) : |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| 9.3. Caso os auditores ou pessoas a eles ligadas, segundo as normas de independência do Conselho Federal de Contabilidade, tenham sido contratados pelo emissor ou pessoas de seu grupo econômico, para prestar outros serviços além da auditoria, descrever a política ou procedimentos adotados pelo emissor para evitar a existência de conflito de interesse, perda de independência ou objetividade de seus auditores independentes Item 9.3 com redação dada pela Resolução CVM nº 162 de 13 de julho de 2022. |",
+    "norma": "| 9.3 Caso os auditores ou pessoas a eles ligadas, segundo as normas de independência do Conselho Federal de Contabilidade, tenham sido contratados pelo emissor ou pessoas de seu grupo econômico, para prestar outros serviços além da auditoria, descrever a política ou procedimentos adotados pelo emissor para evitar a existência de conflito de interesse, perda de independência ou objetividade de seus auditores independentes |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| 9.4. Fornecer outras informações que o emissor julgue relevantes Item 9.4 incluído pela Resolução CVM nº 162 de 13 de julho de 2022. |",
+    "norma": "| 9.4 Fornecer outras informações que o emissor julgue relevantes |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| iv. pessoas com deficiência, nos termos da legislação aplicável Subitem iv com redação dada pela Resolução CVM nº 198, de 31 de janeiro de 2024. | X |",
+    "norma": "| iv. pessoas com deficiência, nos termos da legislação aplicável | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "| v. outros indicadores de diversidade que o emissor entenda relevantes Subitem v incluído pela Resolução CVM nº 198, de 31 de janeiro de 2024. |",
+    "norma": "| v. outros indicadores de diversidade que o emissor entenda relevantes | X |",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "remissões",
+    "consolidado": "| 11.2. Com exceção das operações que se enquadrem nas hipóteses do art. 3º, II, \"a\", \"b\" e \"c\", do anexo F, informar, em relação às transações com partes relacionadas que, segundo as normas contábeis, devam ser divulgadas nas demonstrações financeiras individuais ou consolidadas do emissor e que tenham sido celebradas no último exercício social ou estejam em vigor no exercício social corrente: |",
+    "norma": "| 11.2. Com exceção das operações que se enquadrem nas hipóteses do art. 3º, II, \"a\", \"b\" e \"c\", do anexo 30-XXXIII, informar, em relação às transações com partes relacionadas que, segundo as normas contábeis, devam ser divulgadas nas demonstrações financeiras individuais ou consolidadas do emissor e que tenham sido celebradas no último exercício social ou estejam em vigor no exercício social corrente: |",
+    "motivo": "Remissões que o consolidado corrigiu",
+    "ref": "dados/replay-0080/divergencias.md, seção 11"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| à distribuição de dividendos |",
+    "norma": "| - à distribuição de dividendos |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| à alienação de determinados ativos |",
+    "norma": "| - à alienação de determinados ativos |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| à contratação de novas dívidas |",
+    "norma": "| - à contratação de novas dívidas |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| à emissão de novos valores mobiliários |",
+    "norma": "| - à emissão de novos valores mobiliários |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de lista",
+    "consolidado": "| à realização de operações societárias envolvendo o emissor, seus controladores ou controladas |",
+    "norma": "| - à realização de operações societárias envolvendo o emissor, seus controladores ou controladas |",
+    "motivo": "Marcadores de lista e caixa",
+    "ref": "dados/replay-0080/divergencias.md, seção 12"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| 13.2. Declaração individual de novo ocupante do cargo de Presidente ou de Diretor de Relações com Investidores devidamente assinada, atestando que: |",
+    "norma": "| 13.2. Declaração individual de novo ocupante do cargo de Presidente ou de Diretor de Relações com Investidores devidamente assinada, atestando que: (41) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo D à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO D",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada, apresentar, em linha com as orientações do Código, as razões que levaram o emissor a adotar outras estruturas acionárias |",
+    "norma": "| b. no caso da não adoção da prática recomendada, apresentar, em linha com as orientações do Código, as razões que levaram o emissor a adotar outras estruturas acionárias(52) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa dos acionistas signatários dos acordos sobre o assunto |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa dos acionistas signatários dos acordos sobre o assunto(53) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(54) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| \"não devem ser utilizadas cláusulas que inviabilizem a remoção da medida do estatuto social, as chamadas 'cláusulas pétreas'\" |",
+    "norma": "| - \"não devem ser utilizadas cláusulas que inviabilizem a remoção da medida do estatuto social, as chamadas cláusulas pétreas\" |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| \"caso o estatuto determine a realização de oferta pública de aquisição de ações (OPA), sempre que um acionista ou grupo de acionistas atingir, de forma direta ou indireta, participação relevante no capital votante, a regra de determinação do preço da oferta não deve impor acréscimos de prêmios substancialmente acima do valor econômico ou de mercado das ações\" |",
+    "norma": "| - \"caso o estatuto determine a realização de oferta pública de aquisição de ações (OPA), sempre que um acionista ou grupo de acionistas atingir, de forma direta ou indireta, participação relevante no capital votante, a regra de determinação do preço da oferta não deve impor acréscimos de prêmios substancialmente acima do valor econômico ou de mercado das ações\" |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(55) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. caso seja indicada a adoção das práticas, informar, em linha com as orientações do Código: |",
+    "norma": "| c. caso seja indicada a adoção das práticas, informar, em linha com as orientações do Código: (56) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(57) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(58) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. informar se o emissor segue a seguinte prática: \"a companhia deve elaborar e divulgar política de destinação de resultados definida pelo conselho de administração. Entre outros aspectos, tal política deve prever a periodicidade de pagamentos de dividendos e o parâmetro de referência a ser utilizado para a definição do respectivo montante (percentuais do lucro líquido ajustado e do fluxo de caixa livre, entre outros)\" |",
+    "norma": "| a. informar se o emissor segue a seguinte prática: \"a companhia deve elaborar e divulgar política de destinação de resultados definida pelo conselho de administração. Entre outros aspectos, tal política deve prever a periodicidade de pagamentos de dividendos e o parâmetro de referência a ser utilizado para a definição do respectivo montante (percentuais do lucro líquido ajustado e do fluxo de caixa livre, entre outros)\"(59) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(60) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(61) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código: |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código: (62) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(63) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, como se dá a atuação do órgão em relação a cada uma das práticas recomendadas |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, como se dá a atuação do órgão em relação a cada uma das práticas recomendadas(64) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| i. \"o estatuto social deve estabelecer que: (i) o conselho de administração seja composto em sua maioria por membros externos, tendo, no mínimo, um terço de membros independentes; (ii) o conselho de administração deve avaliar e divulgar anualmente quem são os conselheiros independentes, bem como indicar e justificar quaisquer circunstâncias que possam comprometer sua independência\" |",
+    "norma": "| i. \"o estatuto social deve estabelecer que: (i) o conselho de administração seja composto em sua maioria por membros externos, tendo, no mínimo, um terço de membros independentes; (ii) o conselho de administração deve avaliar e divulgar anualmente quem são os conselheiros independentes, bem como indicar e justificar quaisquer circunstâncias que possam comprometer sua independência\"(65) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| ii. \"o conselho de administração deve aprovar uma política de indicação que estabeleça: (i) o processo para a indicação dos membros do conselho de administração, incluindo a indicação da participação de outros órgãos da companhia no referido processo; e (ii) que o conselho de administração deve ser composto tendo em vista a disponibilidade de tempo de seus membros para o exercício de suas funções e a diversidade de conhecimentos, experiências, comportamentos, aspectos culturais, faixa etária e gênero\" |",
+    "norma": "| ii. \"o conselho de administração deve aprovar uma política de indicação que estabeleça: (i) o processo para a indicação dos membros do conselho de administração, incluindo a indicação da participação de outros órgãos da companhia no referido processo; e (ii) que o conselho de administração deve ser composto tendo em vista a disponibilidade de tempo de seus membros para o exercício de suas funções e a diversidade de conhecimentos, experiências, comportamentos, aspectos culturais, faixa etária e gênero\"(66) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando: |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando: (67) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, como a política é implementada no dia a dia da companhia, descrevendo como se dá o processo para a indicação de membros do conselho de administração e indicando a participação de outros órgãos da companhia, inclusive do comitê de nomeação ou indicação |",
+    "norma": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, como a política é implementada no dia a dia da companhia, descrevendo como se dá o processo para a indicação de membros do conselho de administração e indicando a participação de outros órgãos da companhia, inclusive do comitê de nomeação ou indicação(68) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando as eventuais práticas alternativas adotadas para evitar que a concentração de poderes de presidente do conselho e diretor-presidente prejudique o monitoramento da atuação da diretoria pelo conselho de administração |",
+    "norma": "| b. no caso da não adoção da prática, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando as eventuais práticas alternativas adotadas para evitar que a concentração de poderes de presidente do conselho e diretor-presidente prejudique o monitoramento da atuação da diretoria pelo conselho de administração(69) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando se há processo conduzido com periodicidade superior a um ano ou práticas alternativas adotadas para atender o princípio, indicando, em caso positivo, os critérios considerados na avaliação e se há a participação de especialistas externos no processo |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, informando se há processo conduzido com periodicidade superior a um ano ou práticas alternativas adotadas para atender o princípio, indicando, em caso positivo, os critérios considerados na avaliação e se há a participação de especialistas externos no processo(70) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, os critérios considerados na avaliação, se há participação de especialistas externos, e com qual periodicidade, se o processo considera a assiduidade no exame e no debate das matérias discutidas, a contribuição ativa no processo decisório e comprometimento com o exercício das funções, principais pontos identificados para a melhoria do órgão e as ações corretivas implementadas |",
+    "norma": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, os critérios considerados na avaliação, se há participação de especialistas externos, e com qual periodicidade, se o processo considera a assiduidade no exame e no debate das matérias discutidas, a contribuição ativa no processo decisório e comprometimento com o exercício das funções, principais pontos identificados para a melhoria do órgão e as ações corretivas implementadas(71) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(72) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser indicados os eventuais procedimentos alternativos adotados pelo emissor |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser indicados os eventuais procedimentos alternativos adotados pelo emissor(73) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, as razões que justificam: |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, as razões que justificam: (74) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. informar se o emissor segue a seguinte prática recomendada: \"o conselho de administração deve ter um regimento interno que normatize suas responsabilidades, atribuições e regras de funcionamento, incluindo: (i) as atribuições do presidente do conselho de administração; (ii) as regras de substituição do presidente do conselho em sua ausência ou vacância; (iii) as medidas a serem adotadas em situações de conflito de interesses; e (iv) a definição de prazo de antecedência suficiente para o recebimento dos materiais para discussão nas reuniões, com a adequada profundidade\" |",
+    "norma": "| a. informar se o emissor segue a seguinte prática recomendada: \"o conselho de administração deve ter um regimento interno que normatize suas responsabilidades, atribuições e regras de funcionamento, incluindo: (i) as atribuições do presidente do conselho de administração; (ii) as regras de substituição do presidente do conselho em sua ausência ou vacância; (iii) as medidas a serem adotadas em situações de conflito de interesses; e (iv) a definição de prazo de antecedência suficiente para o recebimento dos materiais para discussão nas reuniões, com a adequada profundidade\"(75) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, indicando se há outro documento interno que regule os processos de funcionamento do conselho de administração, devendo ser informado, se o regimento interno não o fizer, quais medidas devem ser tomadas em face de situações envolvendo conflitos de interesses |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, indicando se há outro documento interno que regule os processos de funcionamento do conselho de administração, devendo ser informado, se o regimento interno não o fizer, quais medidas devem ser tomadas em face de situações envolvendo conflitos de interesses(76) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto, indicando: (i) se o calendário não prever o número de reuniões superior a seis e inferior a doze, as razões para esse fato; (ii) se o calendário não indicar as datas de discussão dos assuntos mais relevantes, a justificativa para tanto, informando se se trata de prática recorrente ou de situação excepcional influenciada por determinado contexto; (iii) razão pela qual o calendário não prevê reuniões exclusivas entre os conselheiros externos, ou razão pela qual essas reuniões, mesmo previstas, não ocorreram |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto, indicando: (i) se o calendário não prever o número de reuniões superior a seis e inferior a doze, as razões para esse fato; (ii) se o calendário não indicar as datas de discussão dos assuntos mais relevantes, a justificativa para tanto, informando se se trata de prática recorrente ou de situação excepcional influenciada por determinado contexto; (iii) razão pela qual o calendário não prevê reuniões exclusivas entre os conselheiros externos, ou razão pela qual essas reuniões, mesmo previstas, não ocorreram(77) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(78) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código:(79) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| i. \"a remuneração da diretoria deve ser fixada por meio de uma política de remuneração aprovada pelo conselho de administração por meio de um procedimento formal e transparente que considere os custos e os riscos envolvidos\" |",
+    "norma": "| i. \"a remuneração da diretoria deve ser fixada por meio de uma política de remuneração aprovada pelo conselho de administração por meio de um procedimento formal e transparente que considere os custos e os riscos envolvidos\"(80) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(81) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que está aderente às práticas recomendadas |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que está aderente às práticas recomendadas(82) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. informar se o emissor possui comitê de auditoria estatutário e se este segue a seguinte prática recomendada: \"O comitê de auditoria estatutário deve: (i) ter entre suas atribuições a de assessorar o conselho de administração no monitoramento e controle da qualidade das demonstrações financeiras, nos controles internos, no gerenciamento de riscos e compliance; (ii) ser formado em sua maioria por membros independentes e coordenado por um conselheiro independente; (iii) ter ao menos um de seus membros independentes com experiência comprovada na área contábil-societária, de controles internos, financeira e de auditoria, cumulativamente; e (iv) possuir orçamento próprio para a contratação de consultores para assuntos contábeis, jurídicos ou outros temas, quando necessária a opinião de um especialista externo\" |",
+    "norma": "| a. informar se o emissor possui comitê de auditoria estatutário e se este segue a seguinte prática recomendada: \"O comitê de auditoria estatutário deve: (i) ter entre suas atribuições a de assessorar o conselho de administração no monitoramento e controle da qualidade das demonstrações financeiras, nos controles internos, no gerenciamento de riscos e compliance; (ii) ser formado em sua maioria por membros independentes e coordenado por um conselheiro independente(83); (iii) ter ao menos um de seus membros independentes com experiência comprovada na área contábil-societária, de controles internos, financeira e de auditoria, cumulativamente; e (iv) possuir orçamento próprio para a contratação de consultores para assuntos contábeis, jurídicos ou outros temas, quando necessária a opinião de um especialista externo\" |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser descritas as práticas alternativas adotadas para o monitoramento e o controle da qualidade das demonstrações financeiras, dos controles internos, do gerenciamento de riscos e compliance |",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser descritas as práticas alternativas adotadas para o monitoramento e o controle da qualidade das demonstrações financeiras, dos controles internos, do gerenciamento de riscos e compliance(84) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que o funcionamento do comitê estatutário está aderente às práticas recomendadas |",
+    "norma": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que o funcionamento do comitê estatutário está aderente às práticas recomendadas(85) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| ii. \"as atas das reuniões do conselho fiscal devem observar as mesmas regras de divulgação das atas do conselho de administração\" |",
+    "norma": "| ii. \"as atas das reuniões do conselho fiscal devem observar as mesmas regras de divulgação das atas do conselho de administração\"(86) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(87) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| i. \"a companhia deve estabelecer uma política para contratação de serviços extra-auditoria de seus auditores independentes, aprovada pelo conselho de administração, que proíba a contratação de serviços extra-auditoria que possam comprometer a independência dos auditores. A companhia não deve contratar como auditor independente quem tenha prestado serviços de auditoria interna para a companhia há menos de três anos\" |",
+    "norma": "| i. \"a companhia deve estabelecer uma política para contratação de serviços extra-auditoria de seus auditores independentes, aprovada pelo conselho de administração, que proíba a contratação de serviços extra-auditoria que possam comprometer a independência dos auditores. A companhia não deve contratar como auditor independente quem tenha prestado serviços de auditoria interna para a companhia há menos de três anos\"(88) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(89) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(90) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que o funcionamento da auditoria interna está aderente à prática recomendada, descrevendo como a auditoria interna está estruturada e sua adequação ao porte e à complexidade de suas atividades |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, o motivo pelo qual o emissor entende que o funcionamento da auditoria interna está aderente à prática recomendada, descrevendo como a auditoria interna está estruturada e sua adequação ao porte e à complexidade de suas atividades(91) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(92) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código:(93) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser apontados outros meios utilizados pelo emissor para recebimento de críticas, dúvidas, reclamações e denúncias |",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto, podendo ser apontados outros meios utilizados pelo emissor para recebimento de críticas, dúvidas, reclamações e denúncias(94) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, a composição e a forma de funcionamento do comitê de conduta e do canal de denúncias, se o canal de denúncias é interno ou se está a cargo de terceiros |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, a composição e a forma de funcionamento do comitê de conduta e do canal de denúncias, se o canal de denúncias é interno ou se está a cargo de terceiros(95) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar, em linha com as orientações do Código, a justificativa do emissor sobre o assunto(96) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, os mecanismos utilizados pelo emissor para implementação dessas práticas |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, os mecanismos utilizados pelo emissor para implementação dessas práticas(97) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| ii. \"o conselho de administração deve aprovar e implementar uma política de transações com partes relacionadas, que inclua, entre outras regras: (i) previsão de que, previamente à aprovação de transações específicas ou diretrizes para a contratação de transações, o conselho de administração solicite à diretoria alternativas de mercado à transação com partes relacionadas em questão, ajustadas pelos fatores de risco envolvidos; (ii) vedação a formas de remuneração de assessores, consultores ou intermediários que gerem conflito de interesses com a companhia, os administradores, os acionistas ou classes de acionistas; (iii) proibição a empréstimos em favor do controlador e dos administradores; (iv) as hipóteses de transações com partes relacionadas que devem ser embasadas por laudos de avaliação independentes, elaborados sem a participação de nenhuma parte envolvida na operação em questão, seja ela banco, advogado, empresa de consultoria especializada, entre outros, com base em premissas realistas e informações referendadas por terceiros; (v) que reestruturações societárias envolvendo partes relacionadas devem assegurar tratamento equitativo para todos os acionistas\" |",
+    "norma": "| ii. \"o conselho de administração deve aprovar e implementar uma política de transações com partes relacionadas, que inclua, entre outras regras: (i) previsão de que, previamente à aprovação de transações específicas ou diretrizes para a contratação de transações, o conselho de administração solicite à diretoria alternativas de mercado à transação com partes relacionadas em questão, ajustadas pelos fatores de risco envolvidos; (ii) vedação a formas de remuneração de assessores, consultores ou intermediários que gerem conflito de interesses com a companhia, os administradores, os acionistas ou classes de acionistas; (iii) proibição a empréstimos em favor do controlador e dos administradores; (iv) as hipóteses de transações com partes relacionadas que devem ser embasadas por laudos de avaliação independentes, elaborados sem a participação de nenhuma parte envolvida na operação em questão, seja ela banco, advogado, empresa de consultoria especializada, entre outros, com base em premissas realistas e informações referendadas por terceiros; (v) que reestruturações societárias envolvendo partes relacionadas devem assegurar tratamento equitativo para todos os acionistas\"(98) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(99) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, como o emissor implementa e verifica a adoção desses procedimentos |",
+    "norma": "| c. no caso da indicação da adoção das práticas, informar, em linha com as orientações do Código, como o emissor implementa e verifica a adoção desses procedimentos(100) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| a. informar se o emissor segue a seguinte prática recomendada: \"a companhia deve adotar, por deliberação do conselho de administração, uma política de negociação de valores mobiliários de sua emissão, que, sem prejuízo do atendimento às regras estabelecidas pela regulamentação da CVM, estabeleça controles que viabilizem o monitoramento das negociações realizadas, bem como a apuração e punição dos responsáveis em caso de descumprimento da política\" |",
+    "norma": "| a. informar se o emissor segue a seguinte prática recomendada: \"a companhia deve adotar, por deliberação do conselho de administração, uma política de negociação de valores mobiliários de sua emissão, que, sem prejuízo do atendimento às regras estabelecidas pela regulamentação da CVM, estabeleça controles que viabilizem o monitoramento das negociações realizadas, bem como a apuração e punição dos responsáveis em caso de descumprimento da política\"(101) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção da prática recomendada ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(102) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, os controles implementados para monitoramento das negociações realizadas e forma de apuração de eventuais descumprimentos |",
+    "norma": "| c. no caso da indicação da adoção da prática, informar, em linha com as orientações do Código, os controles implementados para monitoramento das negociações realizadas e forma de apuração de eventuais descumprimentos(103) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "| i. \"no intuito de assegurar maior transparência quanto à utilização dos recursos da companhia, deve ser elaborada política sobre suas contribuições voluntárias, inclusive aquelas relacionadas às atividades políticas, a ser aprovada pelo conselho de administração e executada pela diretoria, contendo princípios e regras claros e objetivos\" |",
+    "norma": "| i. \"no intuito de assegurar maior transparência quanto à utilização dos recursos da companhia, deve ser elaborada política sobre suas contribuições voluntárias, inclusive aquelas relacionadas às atividades políticas, a ser aprovada pelo conselho de administração e executada pela diretoria, contendo princípios e regras claros e objetivos\"(104) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "| b. no caso da não adoção das práticas recomendadas ou da sua adoção de forma parcial, apresentar a justificativa do emissor sobre o assunto(105) |",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo E à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO E",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo F à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO F",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "anotações de alteração",
+    "consolidado": "Alíneas \"b\" e \"c\" com redação dada e alíneas \"d\" e \"e\" incluídas pela Resolução CVM nº 59, de 22 de dezembro de 2021.",
+    "norma": "",
+    "motivo": "Anotações de alteração do consolidado que o normalizador não remove",
+    "ref": "dados/replay-0080/divergencias.md, seção 6"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo G à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO G",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo H à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO H",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo I à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO I",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo J à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO J",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "cabeçalhos de anexo",
+    "consolidado": "Anexo K à Resolução CVM nº 80, de 29 de março de 2022,",
+    "norma": "ANEXO K",
+    "motivo": "Cabeçalho de anexo e bloco de assinatura",
+    "ref": "dados/replay-0080/divergencias.md, seção 5"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "remissões",
+    "consolidado": "§ 1º Caso o instrumento apresentado por cópia à assembleia geral contenha ressalva quanto à declaração de que trata o inciso IV do art. 2o, o acionista que indicar o membro do conselho deve fundamentar seu voto, explicitando as razões pelas quais entende que a ressalva não impede a eleição do indicado.",
+    "norma": "§ 1º Caso o instrumento apresentado por cópia à assembleia geral contenha ressalva quanto à declaração de que trata o inciso IV do art. 2º, o acionista que indicar o membro do conselho deve fundamentar seu voto, explicitando as razões pelas quais entende que a ressalva não impede a eleição do indicado.",
+    "motivo": "Remissões que o consolidado corrigiu",
+    "ref": "dados/replay-0080/divergencias.md, seção 11"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(1) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(2) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(3) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(4) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(5) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(6) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(7) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(8) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(9) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(10) Sempre que possível, os diretores devem comentar também neste campo sobre as principais tendências conhecidas, incertezas, compromissos ou eventos que possam ter um efeito relevante nas condições financeiras e patrimoniais do emissor, e em especial, em seu resultado, sua receita, sua lucratividade, e nas condições e disponibilidade de fontes de financiamento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(11) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(12) Sempre que possível, os diretores devem comentar também neste campo sobre as principais tendências conhecidas, incertezas, compromissos ou eventos que possam ter um efeito relevante nas condições financeiras e patrimoniais do emissor, e em especial, em seu resultado, sua receita, sua lucratividade, e nas condições e disponibilidade de fontes de financiamento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(13) Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição pública de valores mobiliários, as informações devem se referir a eventos subsequentes às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(14) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(15) Quando da apresentação anual do formulário de referência, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir às 3 últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(16) A divulgação de projeções e estimativas é facultativa. Caso o emissor tenha divulgado projeções e estimativas, elas devem ser incluídas na presente seção.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(17) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(18) A lista apresentada possui caráter mínimo e não exaustivo. Quando o emissor não possuir fatores de risco relevantes associados a algum item da lista, esta circunstância deve ser expressamente mencionada. Adicionalmente, a relevância dos fatores de risco deve considerar tanto a perspectiva financeira, cuja ênfase recai no potencial impacto sobre o valor do emissor, quanto a perspectiva dos impactos externos causados pelo emissor, não apenas sobre investidores, mas também sobre terceiros como cidadãos, consumidores, empregados, comunidades etc.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(19) A descrição dos fatores de risco deve ser elaborada em benefício da compreensão pelos investidores, abstendo-se o emissor de formular declarações de caráter genérico sobre riscos de investimento e de limitar sua responsabilidade ou de quaisquer pessoas que atuem em seu nome.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(20) Em relação aos processos judiciais sujeitos à apreciação da Justiça do Trabalho, devem ser indicadas apenas as iniciais dos nomes das partes.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(21) A descrição deve contemplar (a) a indicação dos órgãos de administração, comitês ou outras estruturas assemelhadas; (b) discriminação das responsabilidades específicas de cada um desses órgãos, comitês ou de estruturas assemelhadas, e de seus membros, no gerenciamento de riscos; e (c) a estrutura hierárquica de tais órgãos, comitês ou estruturas assemelhadas.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(22) A indicação pelo emissor dos casos independe de decisão administrativa ou judicial sobre os fatos detectados.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(23) Sempre que este item for atualizado, o item 6.3 \"d\" deve também ser atualizado.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(24) Sempre que este item for atualizado, o item 6.3 \"d\" deve também ser atualizado.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(25) Excluído o acionista pessoa jurídica que seja investidor institucional.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(26) As informações prestadas neste item devem abranger comitês de auditoria, de risco, financeiro e de remuneração, bem como estruturas organizacionais assemelhadas, ainda que tais comitês ou estruturas não sejam estatutários, desde que tais comitês ou estruturas participem do processo de decisão dos órgãos de administração ou de gestão do emissor como consultores ou fiscais.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(27) As informações sobre a política de remuneração devem abranger comitês de auditoria, de risco, financeiro e de remuneração, bem como estruturas organizacionais assemelhadas, ainda que tais comitês ou estruturas não sejam estatutários, desde que tais comitês ou estruturas participem do processo de decisão dos órgãos de administração ou de gestão do emissor como consultores ou fiscais.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(28) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(29) Este campo deve ser preenchido de acordo com a definição de remuneração baseada em ações, paga em ações ou dinheiro, conforme normas contábeis que tratam do assunto.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(30) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(31) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(32) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(33) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(34) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(35) Para evitar a duplicidade, os valores computados como remuneração dos membros do conselho de administração devem ser descontados da remuneração dos diretores que também façam parte daquele órgão.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(36) Para evitar a duplicidade, quando uma mesma pessoa for membro do conselho de administração e da diretoria, os valores mobiliários por ela detidos devem ser divulgados exclusivamente no montante de valores mobiliários detidos pelos membros do conselho de administração.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(37) Para averiguação dos valores a serem inseridos neste item, utilizar os critérios estabelecidos no item 8.2.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(38) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social encerrado. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários sem concomitante pedido de registro de oferta pública, as informações devem se referir aos 3 últimos exercícios sociais encerrados. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários sem concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir ao último exercício social encerrado e ao exercício social corrente. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários com concomitante pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais encerrados e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(39) Quando da apresentação anual do formulário de referência, as informações devem se referir ao último exercício social. Quando da apresentação do formulário de referência por conta do pedido de registro de distribuição de valores mobiliários, as informações devem se referir às últimas demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo emissor. Quando da apresentação do formulário de referência por conta do pedido de registro de emissor de valores mobiliários, as informações devem se referir aos 3 últimos exercícios sociais e ao exercício social corrente.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(40) O agrupamento dos empregados por indicadores de diversidade deve considerar os níveis hierárquicos desses empregados, conforme a segmentação que o emissor entenda mais apropriada para retratar sua organização interna.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(41) Esta declaração deve ser apresentada caso o formulário de referência seja atualizado por força do art. 25, §§ 3º e 4º, da Resolução CVM nº 80, de 2022, após a posse de novo Presidente ou de novo Diretor de Relações com Investidores. Nos casos em que o formulário de referência seja apresentado por conta de pedido de registro de distribuição pública de valores mobiliários, os novos ocupantes do cargo de Presidente e de Diretor de Relações com Investidores devem firmar a declaração prevista no item 13.1.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(52)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(53)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(54)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(55)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(56)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(57)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(58)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(59)O Código Brasileiro de Governança Corporativa - Companhias Abertas admite que as políticas corporativas por ele recomendadas possam estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(60)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(61)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(62)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(63)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(64)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(65)Para a verificação da aderência à prática recomendada devem ser levadas em conta as regras de arredondamento e os parâmetros de orientação do Código Brasileiro de Governança Corporativa - Companhias Abertas para a avaliação da independência dos administradores.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(66)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(67)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(68)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(69)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(70)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(71)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(72)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(73)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(74)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(75)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(76)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(77)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(78)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(79)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(80)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(81)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(82)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(83)Para a verificação da aderência à prática recomendada devem ser levados em conta os parâmetros de orientação do Código Brasileiro de Governança Corporativa - Companhias Abertas para a avaliação da independência dos administradores.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(84)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(85)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(86)De acordo com o Código Brasileiro de Governança Corporativa - Companhias Abertas, para fim do atendimento à prática, a divulgação das atas do conselho fiscal deve incluir os pareceres e votos dos conselheiros fiscais, dissidentes ou não, as justificativas de voto e os demais documentos por eles elaborados.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(87)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(88)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(89)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(90) (Revogado)",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(91) (Revogado)",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(92)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(93)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(94)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(95)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(96)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(97)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(98)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(99)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(100)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(101)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(102)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(103)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(104)O Código Brasileiro de Governança Corporativa - Companhias Abertas prevê que as políticas corporativas por ele recomendadas podem estar reunidas no todo ou em parte em um único documento.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "marcadores de nota de rodapé",
+    "consolidado": "",
+    "norma": "(105)Os comentários dos emissores podem incluir remissão a informações prestadas no formulário de referência, desde que seja indicada data da entrega da versão do formulário de referência que serve de base para os comentários.",
+    "motivo": "Marcadores de nota de rodapé e notas (1) a (105)",
+    "ref": "dados/replay-0080/divergencias.md, seção 7"
+  },
+  {
+    "id": "cvm-res-80",
+    "dispositivo": "tabelas",
+    "norma": "3",
+    "consolidado": "2",
+    "motivo": "Tabela do Anexo D partida por linha em branco do DOU",
+    "ref": "dados/replay-0080/divergencias.md, seção 3"
   }
 ]
