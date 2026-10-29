@@ -1503,3 +1503,32 @@ Cadeia: original (DOU 2025-07-04; texto do PDF da CVM) e Res. CVM 236/25 (DOU 20
 
 - Res. CVM 47, Anexo B; Res. CVM 81, Anexo N; Res. CVM 88, Anexo D: a tabela achatada pelo PDF do original foi trocada pela tabela do consolidado, com as mesmas palavras. As aceitas que cobriam o texto achatado saíram; o `incerteza` de cada norma registra a troca.
 - Res. CVM 88, Anexo D: a nota (1) está no PDF do original e não no consolidado; mantida depois da tabela, como aceita (só na norma).
+
+## Retificações do DOU aplicadas (2026-10-29)
+
+Fontes: páginas do DOU salvas pelo navegador em 2026-10-29 (`dados/fontes/manual/`, resumo em `dados/fontes/manual/retificacoes-dou-2026-10-29.md`). Cada retificação que muda texto entra como passo próprio na cadeia da norma, na data do DOU, com o ato em `plugins/normas/normas/cvm/alteradoras/NNNN-retificacao-AAAA-MM-DD.md` (mesmo método da retificação da Res. CVM 175 na Fase 2). O `montar_historico.py` passa a separar retificações do mesmo ato por data (chave ato, tipo, data do DOU).
+
+| Norma | DOU | O que muda | Aceitas (antes → depois) |
+|---|---|---|---|
+| Res. CVM 19 | 2021-03-02 | art. 3º, II: acrescenta ", cuja metodologia e conteúdo tenham sido previamente aprovados pela CVM," | 19 → 17 (com a linha abaixo) |
+| Res. CVM 19 | 2021-04-01 | art. 26, IV: "nº 483" → "nº 783" | idem |
+| Res. CVM 210 | 2025-06-23 | art. 15, parágrafo único: "auxiliar no investidor" → "auxiliar do investidor" | 18 → 17 |
+| Res. CVM 160 | 2022-12-05 | art. 81, parágrafo único: "a responsabilidade do , dos coordenadores" → "a responsabilidade dos coordenadores" | 188 → 187 |
+| Res. CVM 60 | 2023-01-06 | art. 64 (nova redação do art. 2º, II, da Res. CVM 51): "incisos V e VI do Anexo I" → "do Anexo A" | 35 → 34 |
+| Res. CVM 86 | 2022-07-08 | Anexo A, item I: "site [●]." → "site [-]." (o DOU de 2022-04-01 grafa "[G]") | 33 → 34 |
+| Res. CVM 21 | 2021-03-04 | republicação dos Anexos D e E inteiros "por terem saído no DOU de 26-2-2021 com incorreções" | 380 → 63 |
+
+- Teste 1: nos passos de 19, 21 e 167 sobre os anexos republicados, 0 linha fora do ato. Nos de 210, 160, 60 e 86, 1 linha fora do ato em cada um, porque a retificação cita só o trecho corrigido e a linha inteira não está no texto dela (mesmo caso da retificação da Res. CVM 175); a linha nova difere da anterior só pelo trecho do "leia-se". Os passos seguintes de cada cadeia têm o mesmo resultado de antes.
+- Teste 2: 0 diferença não aceita nas seis normas.
+- Res. CVM 86: a única aceita nova. O consolidado da CVM mantém "[●]" e a retificação manda "[-]"; os dois marcam campo a preencher pelo ofertante. Diferença de forma; vale o DOU.
+- Res. CVM 21: os anexos seguem a republicação, com os cabeçalhos "ANEXO D/E À RESOLUÇÃO cvm Nº 21, DE 25 DE FEVEREIRO DE 2021" sem a chamada "(*)" e sem a nota "N. da Coejo". A republicação traz as letras das alíneas (a., b., i.) e um espaço depois do número dos itens, e não parte a tabela do Anexo E. Por isso saíram as aceitas de marcadores de lista dessas alíneas, de cabeçalho do Anexo E e de contagem de tabelas (agora 2 e 2). Ficam as aceitas de notas de rodapé, do marcador "·" das subalíneas, das anotações da Res. CVM 167 no consolidado e da numeração do Anexo E (6.3 a 6.6, 7 e 8), que a republicação mantém. Os atos 162, 179 e 209 não tocam os Anexos D e E; o 167 foi reaplicado sobre o texto republicado.
+
+Retificações que não mudam o texto do acervo (sem passo novo):
+- Res. CVM 21, DOU de 2021-03-09: só corrige a data no título da republicação ("Março" por "FEVEREIRO"); registrada no `incerteza`.
+- Res. CVM 45, DOU de 2021-09-10: o "GCP" já está no acervo.
+- Res. CVM 88, DOU de 2022-05-04.
+- Res. CVM 64, DOU de 2022-02-09.
+- Res. CVM 173, DOU de 2023-01-06: o "§ 6º" já está no acervo; explica a exceção do teste 1 da Fase 2.
+- Res. CVM 204, DOU de 2024-06-19.
+- Res. CVM 239, DOU de 2026-01-16: não toca a Res. CVM 53.
+- Res. CVM 81, Anexo C, item 8: o DOU de 2022-05-13 (republicação da Res. CVM 59) diz "5.l e 8.e". O acervo está certo; o consolidado da CVM, não.

@@ -86,6 +86,20 @@ class TestPlanejarCommits(unittest.TestCase):
         commits = mh.planejar_commits([[retif]], {})
         self.assertIn(ALT % "0175-retificacao-2023-03-31.md", commits[0]["arquivos"])
 
+    def test_duas_retificacoes_do_mesmo_ato_sao_dois_commits_na_ordem_das_datas(self):
+        msg = "Retificacao da Res. CVM 19/2021 (DOU %s)"
+        r2 = entrada(19, "retificacao", "2021-04-01", "0019.md", "dados/replay-0019/v2.md", msg % "2021-04-01")
+        r1 = entrada(19, "retificacao", "2021-03-02", "0019.md", "dados/replay-0019/v1.md", msg % "2021-03-02")
+        commits = mh.planejar_commits([[r2, r1]], {})  # ordem de entrada invertida de propósito
+        self.assertEqual([(c["ato"], c["tipo"], c["data_dou"]) for c in commits],
+                         [(19, "retificacao", "2021-03-02"), (19, "retificacao", "2021-04-01")])
+        self.assertEqual(commits[0]["arquivos"], {
+            RES % "0019.md": "dados/replay-0019/v1.md",
+            ALT % "0019-retificacao-2021-03-02.md": ALT % "0019-retificacao-2021-03-02.md"})
+        self.assertEqual(commits[1]["arquivos"], {
+            RES % "0019.md": "dados/replay-0019/v2.md",
+            ALT % "0019-retificacao-2021-04-01.md": ALT % "0019-retificacao-2021-04-01.md"})
+
     def test_mensagem_soma_ementa_e_normas_do_commit(self):
         msg = "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 35 e 60"
         cadeias = [[entrada(179, "alteracao", "2023-02-15", n, "x" + n, msg)]

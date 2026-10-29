@@ -7,7 +7,8 @@ Cada cadeia (dados/replay-NNNN/commits.json) é uma lista, em ordem, de
 Um ato que mexe em várias normas aparece em várias cadeias e vira um commit só.
 
 planejar_commits(cadeias, alteradoras) -> lista de commits, ordenada por
-(data_dou, ato, tipo) com original antes de alteração e de retificação. Num commit
+(data_dou, ato, tipo) com original antes de alteração e de retificação; retificações
+do mesmo ato em datas diferentes são commits distintos. Num commit
 de `alteracao` entra também o arquivo do ato (`alteradoras[ato]`, já no repo).
 comandos_git(commit) -> [["git", "add", ...], ["env", "GIT_...", ..., "git", "commit", ...]];
 só devolve as listas, não executa nada. A identidade é a de replay e a data é a do
@@ -83,17 +84,26 @@ def _juntar(commit, e):
                 e["ato"], destino, commit["arquivos"][destino], origem))
 
 
+def _chave(e):
+    """Retificação: (ato, tipo, data_dou), porque um ato pode ter várias, cada uma
+    com o próprio arquivo (NNNN-retificacao-AAAA-MM-DD.md). Os demais: (ato, tipo)."""
+    if e["tipo"] == "retificacao":
+        return (e["ato"], e["tipo"], e["data_dou"])
+    return (e["ato"], e["tipo"])
+
+
 def planejar_commits(cadeias, alteradoras):
-    """Junta as entradas de mesmo (ato, tipo) num commit e ordena. Não altera a entrada."""
+    """Junta as entradas de mesma chave (`_chave`) num commit e ordena. Não altera a entrada."""
     commits = {}
     for cadeia in cadeias:
         for e in copy.deepcopy(cadeia):
-            chave = (e["ato"], e["tipo"])
+            chave = _chave(e)
             if chave not in commits:
                 commits[chave] = {"ato": e["ato"], "tipo": e["tipo"], "data_dou": e["data_dou"],
                                   "mensagem": e["mensagem"], "arquivos": {}}
             _juntar(commits[chave], e)
-    for (ato, tipo), commit in commits.items():
+    for chave, commit in commits.items():
+        ato, tipo = chave[0], chave[1]
         if tipo == "retificacao":
             arq = "%s/%04d-retificacao-%s.md" % (ALTERADORAS, ato, commit["data_dou"])
             commit["arquivos"][arq] = arq
