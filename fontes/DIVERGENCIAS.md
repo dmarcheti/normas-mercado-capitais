@@ -1498,3 +1498,8 @@ Cadeia: original (DOU 2025-07-04; texto do PDF da CVM) e Res. CVM 236/25 (DOU 20
 - Art. 33, parágrafo único, I, b: termina em "; e" sem alínea c, no ato e no consolidado; copiado literalmente.
 - Vigência: a Res. CVM 236/25 entrou em vigor na publicação (2025-12-12). O Art. 68 original (vigor em 2026-01-02) passou a 2026-03-16 antes de a redação original entrar em vigor; as duas datas são anteriores à data-base (2026-10-29).
 - Fonte do ato: só o DOCX da CVM (sem arquivo no ctresb) [verificar no DOU].
+
+### Tabelas restauradas do consolidado (2026-10-29)
+
+- Res. CVM 47, Anexo B; Res. CVM 81, Anexo N; Res. CVM 88, Anexo D: a tabela achatada pelo PDF do original foi trocada pela tabela do consolidado, com as mesmas palavras. As aceitas que cobriam o texto achatado saíram; o `incerteza` de cada norma registra a troca.
+- Res. CVM 88, Anexo D: a nota (1) está no PDF do original e não no consolidado; mantida depois da tabela, como aceita (só na norma).

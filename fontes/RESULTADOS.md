@@ -115,14 +115,14 @@ Plano da Fase 2b, seção 7. Fontes em `fontes/INVENTARIO.md` (seção "Onda 1")
 | Res. CVM 44 | 2 | 0 | 3 |
 | Res. CVM 45 | 5 | 0 | 84 |
 | Res. CVM 46 | 1 | 0 | 7 |
-| Res. CVM 47 | 4 | 0 | 24 |
+| Res. CVM 47 | 4 | 0 | 12 |
 | Res. CVM 53 | 1 | 0 | 3 |
 | Res. CVM 54 | 2 | 0 | 8 |
 | Res. CVM 67 | 1 | 0 | 7 |
 | Res. CVM 77 | 1 | 0 | 15 |
-| Res. CVM 81 | 2 | 0 | 570 |
+| Res. CVM 81 | 2 | 0 | 449 |
 | Res. CVM 86 | 1 | 0 | 33 |
-| Res. CVM 88 | 2 | 0 | 102 |
+| Res. CVM 88 | 2 | 0 | 94 |
 | Res. CVM 135 | 2 | 0 | 118 |
 | Res. CVM 161 | 3 | 0 | 10 |
 | Res. CVM 166 | 1 | 0 | 4 |
@@ -131,8 +131,12 @@ Plano da Fase 2b, seção 7. Fontes em `fontes/INVENTARIO.md` (seção "Onda 1")
 | Res. CVM 215 | 1 | 0 | 40 |
 | Res. CVM 232 | 1 | 0 | 111 |
 
-Divergências aceitas: 1.391 entradas novas, quase todas de forma (títulos em caixa alta, assinatura eletrônica, numerais por extenso, tabelas dos anexos achatadas no PDF da redação original). As de conteúdo, com [verificar no DOU]: Res. 19, art. 3º, II, e art. 26, IV (retificações de 2021 não obtidas); Res. 81, Anexo C, item 8 (o ato 59 revoga só a alínea e; o consolidado risca o item inteiro); Res. 210, art. 15, parágrafo único ("no" × "do" investidor; retificação de 2025-06-23 não obtida). Res. 166: vale a aplicação literal do ato ("Parágrafo único" e "§ 2º"); o consolidado renumera.
+Divergências aceitas: 1.250 entradas novas, quase todas de forma (títulos em caixa alta, assinatura eletrônica, numerais por extenso, tabelas dos anexos achatadas no PDF da redação original). As de conteúdo, com [verificar no DOU]: Res. 19, art. 3º, II, e art. 26, IV (retificações de 2021 não obtidas); Res. 81, Anexo C, item 8 (o ato 59 revoga só a alínea e; o consolidado risca o item inteiro); Res. 210, art. 15, parágrafo único ("no" × "do" investidor; retificação de 2025-06-23 não obtida). Res. 166: vale a aplicação literal do ato ("Parágrafo único" e "§ 2º"); o consolidado renumera.
 
 `teste_final` passou a aceitar cópia idêntica de uma entrada (a mesma divergência em dois dispositivos tem duas entradas iguais; a segunda não acusa "aceita não usada" quando a primeira já cobriu as linhas do mesmo contexto).
 
 Retificações do DOU não obtidas (constam do `incerteza`): normas 19, 45, 86, 88 e 210; atos 60, 64, 173, 204 e 239.
+
+### Tabelas restauradas do consolidado (2026-10-29)
+
+Nas normas com original tirado do PDF da CVM, três tabelas viraram uma linha corrida ilegível: Res. 47, Anexo B; Res. 81, Anexo N; Res. 88, Anexo D. Um commit de forma, depois do histórico, devolveu a tabela do consolidado da CVM, com as mesmas palavras do trecho achatado (conferido palavra a palavra). Na Res. 88, a nota (1) do Anexo D, que está no PDF e não no consolidado, ficou depois da tabela. Ficam em linhas, por decisão: a Res. 45, Anexo A (o consolidado põe os incisos de cada grupo numa célula; em linhas, cada inciso é o que os atos alteram), e os formulários da Res. 88, Anexos G e H, e da Res. 135, Anexo B. Teste 2 refeito nas três: 0 diferença não aceita.
