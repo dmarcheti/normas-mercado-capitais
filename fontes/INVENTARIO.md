@@ -183,7 +183,7 @@ Fonte do texto, em ordem: ctresb/leis (`url_dou` = slug do in.gov.br); DOCX do a
 - Res. 35: original (2021-05-27) → 134 (2022-06-13) → 179 (2023-02-15) → 209 (2024-08-27)
 - Res. 43: original (2021-08-18) → 179 (2023-02-15)
 - Res. 44: original (2021-08-24) → 60 (2021-12-24) → 216 (2024-10-31)
-- Res. 45: original (2021-09-02) → 65 (2022-02-15) → 162 (2022-07-14) → 179 (2023-02-15) → 235 (2025-11-24)
+- Res. 45: original (2021-09-02) → 65 (2022-02-15) → 162 (2022-07-14) → 179 (2023-02-15) → 209 (2024-08-27) → 235 (2025-11-24). A 209 (art. 5º, Anexo A, Grupo IV, VII a IX, em vigor de 2025-07-01 a 2025-12-01) entrou na cadeia no replay; o consolidado da CVM não a cita no título, porque a 235 revogou o art. 5º da 209 e reescreveu os mesmos incisos.
 - Res. 46: original (2021-09-02) → 65 (2022-02-15)
 - Res. 47: original (2021-09-02) → 60 (2021-12-24) → 159 (2022-07-11) → 207 (2024-08-14) → 236 (2025-12-12)
 - Res. 53: original (2021-10-18) → 239 (2026-01-12)

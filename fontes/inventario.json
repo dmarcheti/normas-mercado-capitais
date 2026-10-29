@@ -1352,6 +1352,24 @@
         }
       },
       {
+        "numero": 209,
+        "data": "2024-08-26",
+        "dou": "2024-08-27",
+        "url_dou": "https://www.in.gov.br/web/dou/-/resolucao-cvm-n-209-de-26-de-agosto-de-2024-580632272",
+        "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol209.html",
+        "normas_na_ementa": [
+          21,
+          31,
+          32,
+          35,
+          45,
+          175
+        ],
+        "url_ato": {
+          "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol209.pdf"
+        }
+      },
+      {
         "numero": 235,
         "data": "2025-11-21",
         "dou": "2025-11-24",

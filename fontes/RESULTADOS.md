@@ -81,3 +81,58 @@ Inventário: `scripts/inventario_acervo.py` → `fontes/acervo.json` (site da CV
 - Ligaduras ("ﬁ") e espaços especiais dos PDFs normalizados (Unicode NFKC, preservando º e ª).
 - Parecer de Orientação 34: o DOC da CVM é um RTF com a página escaneada como imagem; o texto veio do PDF.
 - Leis: os rótulos de margem do Planalto ("(Vigência)", "Produção de efeito", "Vigência encerrada") saem do texto e do gabarito do teste; cada lei afetada diz isso no `incerteza`.
+
+## Onda 1 do histórico: 29 resoluções (2026-10-29)
+
+Plano da Fase 2b, seção 7. Fontes em `fontes/INVENTARIO.md` (seção "Onda 1"); divergências em `fontes/DIVERGENCIAS.md` (seção "Onda 1 do histórico"). A `main` foi remontada com as cadeias do núcleo, da Instr. 489 e da onda 1 em ordem de DOU: 89 commits de ato (38 originais, entre eles o da Res. 60, que também altera a 44 e a 47; 50 alterações; 1 retificação), seguidos dos commits de código e texto vigente. Backup local da `main` anterior: branch `backup/main-fase-2b`.
+
+### Teste 1, por commit de ato
+
+52 commits: as 50 alterações, o original da Res. 60 e a retificação da 175. Limpos: 45. Com linhas fora do ato, todas conferidas e registradas:
+
+- Res. CVM 59/21 (altera a 81): 6 linhas dos Anexos C e H achatados pelo PDF em que entrou "(Revogado)", e a nota 3 partida; o único texto inserido é "(Revogado)".
+- Res. CVM 204/24 (altera a 81): 3 linhas de estrutura (rótulo do Art. 34, § 1º; caput do Art. 81 separado do inciso I; título do Anexo O); o DOCX do ato não tem linha pontilhada.
+- Res. CVM 207/24 e 236/25 (alteram a 47): 1 linha cada, falso positivo de tabela achatada no PDF (precedente da Res. 80).
+- Res. CVM 220/24 (altera a 135): 1 linha, rótulo do Art. 152, § 1º.
+- Res. CVM 173/22 e retificação da 175: casos da Fase 2, acima.
+- Res. CVM 60/21 (original da 60, que altera a 44 e a 47): o texto do ato é a própria norma, fora de `alteradoras/`; conferido à parte, 0 linha fora do ato nas 44 e 47.
+
+### Teste 2, por resolução
+
+| Norma | Atos aplicados | Diferenças não aceitas | Divergências aceitas |
+|---|---|---|---|
+| Res. CVM 6 | 1 | 0 | 19 |
+| Res. CVM 8 | 3 | 0 | 8 |
+| Res. CVM 9 | 1 | 0 | 106 |
+| Res. CVM 11 | 1 | 0 | 34 |
+| Res. CVM 13 | 2 | 0 | 16 |
+| Res. CVM 19 | 1 | 0 | 19 |
+| Res. CVM 20 | 2 | 0 | 3 |
+| Res. CVM 31 | 3 | 0 | 2 |
+| Res. CVM 32 | 1 | 0 | 4 |
+| Res. CVM 35 | 3 | 0 | 11 |
+| Res. CVM 43 | 1 | 0 | 6 |
+| Res. CVM 44 | 2 | 0 | 3 |
+| Res. CVM 45 | 5 | 0 | 84 |
+| Res. CVM 46 | 1 | 0 | 7 |
+| Res. CVM 47 | 4 | 0 | 24 |
+| Res. CVM 53 | 1 | 0 | 3 |
+| Res. CVM 54 | 2 | 0 | 8 |
+| Res. CVM 67 | 1 | 0 | 7 |
+| Res. CVM 77 | 1 | 0 | 15 |
+| Res. CVM 81 | 2 | 0 | 570 |
+| Res. CVM 86 | 1 | 0 | 33 |
+| Res. CVM 88 | 2 | 0 | 102 |
+| Res. CVM 135 | 2 | 0 | 118 |
+| Res. CVM 161 | 3 | 0 | 10 |
+| Res. CVM 166 | 1 | 0 | 4 |
+| Res. CVM 193 | 3 | 0 | 6 |
+| Res. CVM 210 | 1 | 0 | 18 |
+| Res. CVM 215 | 1 | 0 | 40 |
+| Res. CVM 232 | 1 | 0 | 111 |
+
+Divergências aceitas: 1.391 entradas novas, quase todas de forma (títulos em caixa alta, assinatura eletrônica, numerais por extenso, tabelas dos anexos achatadas no PDF da redação original). As de conteúdo, com [verificar no DOU]: Res. 19, art. 3º, II, e art. 26, IV (retificações de 2021 não obtidas); Res. 81, Anexo C, item 8 (o ato 59 revoga só a alínea e; o consolidado risca o item inteiro); Res. 210, art. 15, parágrafo único ("no" × "do" investidor; retificação de 2025-06-23 não obtida). Res. 166: vale a aplicação literal do ato ("Parágrafo único" e "§ 2º"); o consolidado renumera.
+
+`teste_final` passou a aceitar cópia idêntica de uma entrada (a mesma divergência em dois dispositivos tem duas entradas iguais; a segunda não acusa "aceita não usada" quando a primeira já cobriu as linhas do mesmo contexto).
+
+Retificações do DOU não obtidas (constam do `incerteza`): normas 19, 45, 86, 88 e 210; atos 60, 64, 173, 204 e 239.

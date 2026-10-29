@@ -16,7 +16,7 @@ Em construção (repositório privado). Acervo atual, em camadas declaradas (dat
 
 Fora do acervo: resoluções do CMN e do BCB, autorregulação (ANBIMA, B3) e julgados da CVM.
 
-Cada norma informa o nível de verificação (`nivel_verificacao`): 9 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU (Res. CVM 175, 160, 60, 17, 30, 21, 80 e 50, e Instr. CVM 489); as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
+Cada norma informa o nível de verificação (`nivel_verificacao`): 38 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU: 37 Resoluções CVM (o núcleo de fundos e securitização, 17, 21, 30, 50, 60, 80, 160 e 175, e as substantivas 6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88, 135, 161, 166, 193, 210, 215 e 232) e a Instr. CVM 489; as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
 
 Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
 
