@@ -96,3 +96,120 @@ Conclusão: a 59 entra na cadeia da Res. 80 como commit, depois da 80, com data 
 - No JSON: `dou` da 59 passa a 2022-05-13 e `dou_original` guarda 2021-12-23. Ordem dos atos da 80 por DOU: 59 (2022-05-13), 162 (2022-07-14), 168 (2022-09-21), 173 (2022-12-01)...
 - O original da 80 (`dou-0080.md`, DOU de 2022-03-30) não cita a Res. 59 e traz o texto anterior a ela: sem o art. 26-A, art. 41 com os incisos II e III, art. 67 com parágrafo único, art. 25 sem os §§ 5º a 7º. O art. 69 diz "Esta Resolução entra em vigor em 2 de maio de 2022" (vigência diferida da 80 em relação ao DOU de 2022-03-30). A republicação da 59 (2022-05-13) é posterior ao DOU e à vigência da 80, e à revogação da Instrução CVM 480 pelo art. 70, II: é a hipótese que explica a troca das remissões de ICVM 480/481 para Res. 80/81.
 - Atenção: `scripts/inventario.py` regenera o JSON a partir do site da CVM e apaga `url_dou`, `dou_original`, `retificacoes` e o ajuste do `dou` da 59.
+
+## Onda 1 (2026-10-29)
+
+Plano da Fase 2b, seção 7, Task A: fontes do histórico de 29 Resoluções CVM fora do núcleo (6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88, 135, 161, 166, 193, 210, 215, 232). As 29 entraram no fim de `fontes/inventario.json` (as 8 entradas anteriores não mudaram), com os mesmos campos da Fase 2 (`url_dou`, `retificacoes`, `dou_original` da 59) e, nas alteradoras, `norma_do_acervo` para a Res. 60. Alteradoras pela lista da página da CVM: 34 atos distintos, 9 já no acervo (59, 162, 173, 179, 204, 207, 209, 226, 231), 25 novos.
+
+Fonte do texto, em ordem: ctresb/leis (`url_dou` = slug do in.gov.br); DOCX do ato na CVM (`url_dou` vazio); PDF do ato na CVM pelo PDFKit (`url_dou` vazio). O in.gov.br não foi acessado. Textos em `dados/fontes/dou-NNNN.md` (29 originais e 24 atos novos; a 60 já tinha `dou-0060.md`) e, para os 24 atos novos, em `plugins/normas/normas/cvm/alteradoras/NNNN.md` (`baixado_em`/`verificado_em` 2026-10-29). Consolidados em `dados/resolNNNconsolid.docx` (e `.htm` para 210, 215 e 232). Código: `scripts/fontes_onda.py` (etapas `inventario`, `baixar`, `textos`, `alteradoras`).
+
+| Ato | DOU | url_dou | Fonte do texto | Normas tocadas |
+|---|---|---|---|---|
+| 6 | 2020-09-15 | sim | ctresb/leis (original) | 6 |
+| 8 | 2020-10-15 | não | PDF da CVM pelo PDFKit (original) | 8 |
+| 9 | 2020-10-28 | sim | ctresb/leis (original) | 9 |
+| 11 | 2020-11-19 | sim | ctresb/leis (original) | 11 |
+| 13 | 2020-11-19 | sim | ctresb/leis (original) | 13 |
+| 19 | 2021-02-26 | sim | ctresb/leis (original) | 19 |
+| 20 | 2021-02-26 | sim | ctresb/leis (original) | 20 |
+| 31 | 2021-05-20 | sim | ctresb/leis (original) | 31 |
+| 32 | 2021-05-20 | sim | ctresb/leis (original) | 32 |
+| 35 | 2021-05-27 | sim | ctresb/leis (original) | 35 |
+| 43 | 2021-08-18 | sim | ctresb/leis (original) | 43 |
+| 44 | 2021-08-24 | sim | ctresb/leis (original) | 44 |
+| 45 | 2021-09-02 | não | PDF da CVM pelo PDFKit (original) | 45 |
+| 46 | 2021-09-02 | sim | ctresb/leis (original) | 46 |
+| 47 | 2021-09-02 | não | PDF da CVM pelo PDFKit (original) | 47 |
+| 53 | 2021-10-18 | não | PDF da CVM pelo PDFKit (original) | 53 |
+| 54 | 2021-10-21 | não | PDF da CVM pelo PDFKit (original) | 54 |
+| 67 | 2022-03-11 | sim | ctresb/leis (original) | 67 |
+| 77 | 2022-03-30 | sim | ctresb/leis (original) | 77 |
+| 81 | 2022-03-30 | não | PDF da CVM pelo PDFKit (original) | 81 |
+| 86 | 2022-04-01 | sim | ctresb/leis (original) | 86 |
+| 88 | 2022-04-28 | não | PDF da CVM pelo PDFKit (original) | 88 |
+| 135 | 2022-06-13 | não | PDF da CVM pelo PDFKit (original) | 135 |
+| 161 | 2022-07-14 | sim | ctresb/leis (original) | 161 |
+| 166 | 2022-09-02 | sim | ctresb/leis (original) | 166 |
+| 193 | 2023-10-23 | não | PDF da CVM pelo PDFKit (original) | 193 |
+| 210 | 2024-08-27 | sim | ctresb/leis (original) | 210 |
+| 215 | 2024-10-31 | sim | ctresb/leis (original) | 215 |
+| 232 | 2025-07-04 | não | PDF da CVM pelo PDFKit (original) | 232 |
+| 15 | 2021-01-20 | sim | ctresb/leis (sem DOCX; só PDF na CVM) | 8 |
+| 59 | 2022-05-13 | sim | já no acervo (Fase 2) | 81 |
+| 60 | 2021-12-24 | sim | norma do acervo (`resolucoes/0060.md`; texto em `dou-0060.md`, Fase 2) | 44, 47 |
+| 61 | 2021-12-28 | sim | ctresb/leis + DOCX da CVM | 6, 8, 54 |
+| 64 | 2022-02-08 | sim | ctresb/leis + DOCX da CVM | 13 |
+| 65 | 2022-02-15 | sim | ctresb/leis + DOCX da CVM | 45, 46 |
+| 134 | 2022-06-13 | sim | ctresb/leis + DOCX da CVM | 35 |
+| 158 | 2022-06-29 | sim | ctresb/leis + DOCX da CVM | 88 |
+| 159 | 2022-07-11 | não | DOCX da CVM | 47 |
+| 162 | 2022-07-14 | sim | já no acervo (Fase 2) | 8, 45 |
+| 170 | 2022-10-14 | sim | ctresb/leis + DOCX da CVM | 135 |
+| 171 | 2022-10-31 | sim | ctresb/leis + DOCX da CVM | 54 |
+| 173 | 2022-12-01 | sim | já no acervo (Fase 2) | 161 |
+| 174 | 2022-12-06 | sim | ctresb/leis + DOCX da CVM | 31 |
+| 179 | 2023-02-15 | sim | já no acervo (Fase 2) | 11, 19, 20, 35, 43, 45 |
+| 185 | 2023-07-13 | não | DOCX da CVM | 9 |
+| 204 | 2024-06-05 | não | já no acervo (Fase 2) | 81 |
+| 207 | 2024-08-14 | não | já no acervo (Fase 2) | 47, 161 |
+| 209 | 2024-08-27 | sim | já no acervo (Fase 2) | 31, 32, 35 |
+| 216 | 2024-10-31 | sim | ctresb/leis (sem DOCX; só PDF na CVM) | 13, 20, 44, 77 |
+| 219 | 2024-10-31 | sim | ctresb/leis + DOCX da CVM | 193 |
+| 220 | 2024-11-12 | não | DOCX da CVM | 31, 135 |
+| 221 | 2024-12-11 | sim | ctresb/leis + DOCX da CVM | 86 |
+| 222 | 2024-12-11 | sim | ctresb/leis + DOCX da CVM | 161 |
+| 226 | 2025-03-07 | sim | já no acervo (Fase 2) | 88 |
+| 227 | 2025-04-01 | sim | ctresb/leis + DOCX da CVM | 193 |
+| 229 | 2025-05-23 | sim | ctresb/leis + DOCX da CVM | 210 |
+| 230 | 2025-06-23 | sim | ctresb/leis + DOCX da CVM | 215 |
+| 231 | 2025-07-04 | não | já no acervo (Fase 2) | 166 |
+| 235 | 2025-11-24 | não | DOCX da CVM | 45 |
+| 236 | 2025-12-12 | não | DOCX da CVM | 47, 232 |
+| 239 | 2026-01-12 | sim | ctresb/leis + DOCX da CVM | 53 |
+| 244 | 2026-06-01 | sim | ctresb/leis + DOCX da CVM | 193 |
+| 248 | 2026-10-14 | não | DOCX da CVM | 67 |
+
+### Cadeias por norma (ordem do DOU)
+
+- Res. 6: original (2020-09-15) → 61 (2021-12-28)
+- Res. 8: original (2020-10-15) → 15 (2021-01-20) → 61 (2021-12-28) → 162 (2022-07-14)
+- Res. 9: original (2020-10-28) → 185 (2023-07-13)
+- Res. 11: original (2020-11-19) → 179 (2023-02-15)
+- Res. 13: original (2020-11-19) → 64 (2022-02-08) → 216 (2024-10-31)
+- Res. 19: original (2021-02-26) → 179 (2023-02-15)
+- Res. 20: original (2021-02-26) → 179 (2023-02-15) → 216 (2024-10-31)
+- Res. 31: original (2021-05-20) → 174 (2022-12-06) → 209 (2024-08-27) → 220 (2024-11-12)
+- Res. 32: original (2021-05-20) → 209 (2024-08-27)
+- Res. 35: original (2021-05-27) → 134 (2022-06-13) → 179 (2023-02-15) → 209 (2024-08-27)
+- Res. 43: original (2021-08-18) → 179 (2023-02-15)
+- Res. 44: original (2021-08-24) → 60 (2021-12-24) → 216 (2024-10-31)
+- Res. 45: original (2021-09-02) → 65 (2022-02-15) → 162 (2022-07-14) → 179 (2023-02-15) → 235 (2025-11-24)
+- Res. 46: original (2021-09-02) → 65 (2022-02-15)
+- Res. 47: original (2021-09-02) → 60 (2021-12-24) → 159 (2022-07-11) → 207 (2024-08-14) → 236 (2025-12-12)
+- Res. 53: original (2021-10-18) → 239 (2026-01-12)
+- Res. 54: original (2021-10-21) → 61 (2021-12-28) → 171 (2022-10-31)
+- Res. 67: original (2022-03-11) → 248 (2026-10-14)
+- Res. 77: original (2022-03-30) → 216 (2024-10-31)
+- Res. 81: original (2022-03-30) → 59 (2022-05-13) → 204 (2024-06-05)
+- Res. 86: original (2022-04-01) → 221 (2024-12-11)
+- Res. 88: original (2022-04-28) → 158 (2022-06-29) → 226 (2025-03-07)
+- Res. 135: original (2022-06-13) → 170 (2022-10-14) → 220 (2024-11-12)
+- Res. 161: original (2022-07-14) → 173 (2022-12-01) → 207 (2024-08-14) → 222 (2024-12-11)
+- Res. 166: original (2022-09-02) → 231 (2025-07-04)
+- Res. 193: original (2023-10-23) → 219 (2024-10-31) → 227 (2025-04-01) → 244 (2026-06-01)
+- Res. 210: original (2024-08-27) → 229 (2025-05-23)
+- Res. 215: original (2024-10-31) → 230 (2025-06-23)
+- Res. 232: original (2025-07-04) → 236 (2025-12-12)
+
+Totais: 19 originais do ctresb/leis e 10 do PDF da CVM (8, 45, 47, 53, 54, 81, 88, 135, 193, 232: a página da CVM só tem PDF da redação original); 24 atos novos, 18 do ctresb/leis (16 com DOCX da CVM para conferência; 15 e 216 só com PDF na CVM) e 6 só do DOCX da CVM, sem arquivo no ctresb (159, 185, 220, 235, 236, 248). Nenhum texto pendente.
+
+### Decisões e pontos de atenção
+
+- Res. 60 (alteradora das 44 e 47) é norma do acervo (`resolucoes/0060.md`, original no DOU de 2021-12-24): não ganha `alteradoras/0060.md`. O texto do ato é o original da própria 60 (`dou-0060.md`, Fase 2); no JSON, a entrada da 60 nas alteradoras das 44 e 47 leva `norma_do_acervo`. No replay, o commit do original da 60 é o que altera as 44 e 47. Nenhum outro dos 34 atos é norma do acervo.
+- Res. 59 na cadeia da 81: mesma decisão da Fase 2 (republicação do DOU de 2022-05-13, `dou_original` 2021-12-23).
+- Originais pelo PDF (10): texto refeito em parágrafos por heurística (`paragrafos_pdf`): sem o cabeçalho de página (endereço da CVM, título corrente), sem número de página e sem a assinatura. Tabelas dos anexos saem achatadas (uma célula atrás da outra). Incerteza a herdar: "Texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU]."
+- Atos só com DOCX (159, 185, 220, 235, 236, 248): `fonte_original` = DOCX da CVM, incerteza "Texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU]."
+- Último artigo conferido nos 24 atos novos: em todos, o último `## Art.` é a cláusula de vigência.
+- Retificações do DOU (só no JSON, texto não obtido): normas 19 (2021-03-02 e 2021-04-01), 45 (2021-09-10), 86 (2022-07-08), 88 (2022-05-04), 210 (2025-06-23); atos 60 (2023-01-06), 64 (2022-02-09), 173 (2023-01-06), 204 (2024-06-19), 239 (2026-01-16). A incerteza de `alteradoras/0064.md` e `0239.md` registra a retificação.
+- Consolidados de 210, 215 e 232: a página da CVM tem também o DOCX (rótulos `[HTML]`/`[PDF]`/`[DOC]`, que `extrair_pagina` não lê); `url_consolidado` e `url_original` dessas três vieram dos `href` da página (`links_consolidado`). Os consolidados de 8, 9, 11 e 13 são `.doc` (Word 97): no JSON, a chave `docx` aponta para o `.doc`; o arquivo baixado é `resolNNNconsolid.doc`, convertido pelo `textutil` do macOS em `resolNNNconsolid.docx`.
+- Atenção: `scripts/baixar.py` gravaria o `.doc` dessas quatro como `.docx` sem converter; e `scripts/inventario.py`, se rodado, apaga os campos manuais destas 29 entradas.
