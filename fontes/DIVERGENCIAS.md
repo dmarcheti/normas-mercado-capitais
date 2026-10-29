@@ -590,3 +590,911 @@ Base: teste 2 sobre `dados/replay-0175/v9/index.md` contra `dados/resol175consol
 - Res. CVM 240 (v9): em vigor desde 2026-03-05 (assinatura), anterior ao DOU de 2026-03-06; aplicada na data do DOU.
 - Suplementos C e E: o DOU grafa um caractere de controle (0x95) como marcador; mantido literal.
 
+
+## Onda 1 do histórico: replay de 29 resoluções (2026-10-29)
+
+Registro de cada cadeia, como gravado no replay. A decisão de cada caso está no item; o resumo vai também no `incerteza` da norma.
+
+### Res. CVM 6
+
+#### Divergências do replay da Res. CVM 6/2020 (2026-10-29)
+
+Cadeia: original (DOU 2020-09-15) e Res. CVM 61 (DOU 2021-12-28; só o art. 8º é da Res. CVM 6). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol006consolid.docx`: 0 diferença não aceita, 19 aceitas em `aceitas-propostas.json` (itens 1 a 4).
+
+###### 1. Títulos dos Capítulos II a XI
+
+- Ato: original.
+- Causa: o DOU traz "CAPÍTULO N - TÍTULO" em maiúsculas; o consolidado escreve "Capítulo N" e, nos Capítulos IV e XI, o título em caixa mista.
+- Decisão: vale o DOU; dez entradas e menção no incerteza.
+
+###### 2. Art. 22 (alteração da Instrução CVM nº 541)
+
+- Ato: original.
+- Causa: o DOU marca com linhas de pontos os trechos mantidos do art. 3º da ICVM 541; o consolidado traz só `"Art. 3º` e `Parágrafo único.`, sem os pontos.
+- Decisão: vale o DOU; três entradas. As duas linhas só de pontos são iguais e a mesma entrada cobre as duas (o teste compara as diferenças por igualdade de conteúdo).
+
+###### 3. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o texto do DOU usado não o traz.
+- Decisão: três entradas e menção no incerteza.
+
+###### 4. Cabeçalhos dos Anexos A a C
+
+- Causa: `Anexo "X" à Resolução CVM nº 6, de 14 de SETEMBRO DE 2020` no consolidado; `ANEXO "X"` no DOU.
+- Decisão: vale o DOU; três entradas e menção no incerteza.
+
+###### 5. Observações
+
+- Res. CVM 61/21, art. 8º: art. 1º, caput ("não está sujeita a registro"), com linha de pontos (parágrafo único mantido); art. 4º reescrito; art. 9º, parágrafo único reescrito.
+- Art. 9º, parágrafo único: o ato fecha a citação com uma só aspa depois de "intermediária." e antes do (NR); retirada a aspa de citação, a advertência fica sem aspa de fechamento, igual ao consolidado.
+- Vigência da 61/21: 2022-01-03, aplicada na data do DOU.
+
+### Res. CVM 8
+
+#### Divergências do replay da Res. CVM 8/2020 (2026-10-29)
+
+Cadeia: original (DOU 2020-10-15; texto do PDF da CVM), Res. CVM 15 (DOU 2021-01-20), 61 (DOU 2021-12-28; só os arts. 9º a 13 são da Res. CVM 8) e 162 (DOU 2022-07-14; só o art. 7º é da Res. CVM 8). Teste 1: 0 linha fora do ato nos três passos. Teste 2 contra `dados/resol008consolid.docx` (convertido do `.doc` da CVM): 0 diferença não aceita, 8 aceitas em `aceitas-propostas.json` (itens 1 a 3).
+
+###### 1. Títulos dos Capítulos II e III
+
+- Ato: original.
+- Causa: o original (PDF) traz os títulos em maiúsculas; o consolidado traz "Capítulo II - OFERTA..." e "CAPÍTULO III - prestação de informações".
+- Decisão: vale o original; duas entradas e menção no incerteza.
+
+###### 2. Art. 8º, inciso V
+
+- Ato: original.
+- Causa: o texto extraído do PDF quebra a advertência ("LEIA O DOCUMENTO DE INFORMAÇÕES ESSENCIAIS / ANTES DE APLICAR ... / ou [NESTA LETRA IMOBILIÁRIA GARANTIDA]") em três linhas; o consolidado a traz numa linha. É quebra de linha da extração do PDF, não diferença de redação.
+- Decisão: v0 fica igual a `dados/fontes/dou-0008.md`; três entradas e menção no incerteza. Correção possível na fonte (`dados/fontes/dou-0008.md`, fora do escopo deste replay). [verificar no DOU]
+
+###### 3. Assinatura eletrônica
+
+- Ato: não se aplica (final do consolidado).
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" antes dos anexos; a redação original usada não traz o bloco.
+- Decisão: três entradas e menção no incerteza.
+
+###### 4. Observações
+
+- Res. CVM 61/21, art. 9º: nova ementa. Aplicada no texto (parágrafo da ementa) e no campo `ementa` do frontmatter a partir da v2. O ato cita a Res. CVM 8 como "de 14 de setembro de 2020"; a data é 2020-10-14.
+- Res. CVM 61/21, art. 10: reescreve o art. 2º só com o caput, sem linha de pontos; os §§ 1º e 2º (e incisos) saem do texto, como no consolidado. O art. 3º continua citando o § 2º do art. 2º.
+- Res. CVM 61/21, arts. 11 a 13: nos Anexos B e C o ato fecha a citação logo depois do inciso (`";"`); a aspa de citação foi retirada.
+- Vigências: Res. CVM 15/21 na publicação (2021-01-20); 61/21 em 2022-01-03; 162/22 em 2023-01-02. Todas anteriores à data-base; aplicadas na data do DOU.
+
+### Res. CVM 9
+
+#### Divergências do replay da Res. CVM 9/2020 (2026-10-29)
+
+Cadeia: original (DOU 2020-10-28) e Res. CVM 185 (DOU 2023-07-13; texto do arquivo do ato no site da CVM). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol009consolid.docx` (convertido do `.doc` da CVM; o consolidado já traz a 185): 0 diferença não aceita, 106 aceitas em `aceitas-propostas.json` (itens 1 a 5).
+
+###### 1. Art. 17, inciso VI
+
+- Ato: original.
+- Causa: "Cessão de Direitos Creditórios" com iniciais maiúsculas no DOU; minúsculas no consolidado.
+- Decisão: vale o DOU; uma entrada e menção no incerteza.
+
+###### 2. Título do Capítulo VI
+
+- Ato: original.
+- Causa: "Regras, Procedimentos e Controles Internos" em caixa mista no DOU; maiúsculas no consolidado.
+- Decisão: vale o DOU; uma entrada.
+
+###### 3. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o texto do DOU usado não o traz.
+- Decisão: três entradas e menção no incerteza.
+
+###### 4. Anexo B (conteúdo do formulário de referência)
+
+- Ato: original.
+- Causa: o DOU traz o formulário como tabela de uma coluna, com os marcadores das listas ("a.", "-"); o consolidado convertido do `.doc` traz os itens como parágrafos e, no item 5.1 e nas experiências profissionais (6.2 e 7.4), sem marcador. Contagem de tabelas: 1 na norma, 0 no consolidado.
+- Decisão: vale o DOU; 92 entradas linha a linha (107 pares; pares repetidos, como "a. nome", contam uma vez porque o teste remove as diferenças iguais juntas) e uma entrada `tabelas` ("0" e "1"). Menção no incerteza.
+
+###### 5. Cabeçalho e rodapé do consolidado
+
+- Causa: a conversão do `.doc` leva para o corpo o cabeçalho e o rodapé de página (endereços da CVM, "RESOLUÇÃO CVM Nº 9, DE 27 DE OUTUBRO DE 2020", campo PAGE, HYPERLINK). Não é texto da norma.
+- Decisão: uma entrada por linha distinta (8 entradas para 13 linhas), lado da norma vazio. Menção no incerteza.
+
+###### 6. Observações
+
+- Res. CVM 185/23, art. 1º: art. 4º reescrito inteiro, sem linha de pontos (caput e §§ 1º a 12; os §§ antigos saem); arts. 7º e 9º com linhas de pontos (só caput e os §§ citados mudam, "SIN" passa a "SSE"); art. 11 caput.
+- Vigência: 2023-08-01, aplicada na data do DOU.
+- Texto da 185 tirado do DOCX da CVM, não da página do DOU. [verificar no DOU]
+
+### Res. CVM 11
+
+#### Divergências do replay da Res. CVM 11/2020 (2026-10-29)
+
+Cadeia: original (DOU 2020-11-19) e Res. CVM 179 (DOU 2023-02-15; só o art. 1º é da Res. CVM 11). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol011consolid.docx` (convertido do `.doc` da CVM): 0 diferença não aceita, 34 aceitas em `aceitas-propostas.json` (itens 1 a 6).
+
+###### 1. Títulos dos Capítulos II e XII
+
+- Ato: original.
+- Causa: "Capítulo" em caixa mista no DOU; "CAPÍTULO" no consolidado.
+- Decisão: vale o DOU; duas entradas.
+
+###### 2. Art. 13, inciso XIV
+
+- Ato: original.
+- Causa: o consolidado traz "p ara" (espaço no meio da palavra); o DOU, "para".
+- Decisão: erro de digitação do consolidado; vale o DOU; uma entrada.
+
+###### 3. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / PRESIDENTE" no consolidado; o texto do DOU usado não o traz.
+- Decisão: três entradas.
+
+###### 4. Cabeçalhos dos Anexos A e B
+
+- Causa: "ANEXO X À RESOLUÇÃO CVM Nº 11, DE 18 DE NOVEMBRO DE 2020" no consolidado; "ANEXO X" no DOU.
+- Decisão: vale o DOU; duas entradas.
+
+###### 5. Anexo B, tabela de despesas do Clube
+
+- Ato: original.
+- Causa: o DOU traz a tabela (8 linhas; "Taxa de administração" e a observação na mesma célula, cabeçalho em caixa mista); o consolidado convertido do `.doc` traz as células como 11 parágrafos, cabeçalho em maiúsculas. Contagem de tabelas: 1 na norma, 0 no consolidado.
+- Decisão: vale o DOU; 19 entradas de um lado só e uma entrada `tabelas` ("0" e "1").
+
+###### 6. Cabeçalho e rodapé do consolidado
+
+- Causa: a conversão do `.doc` leva para o corpo o cabeçalho e o rodapé de página (endereços da CVM, título da norma, HYPERLINK).
+- Decisão: uma entrada por linha distinta (6 entradas para 11 linhas).
+
+###### 7. Observações
+
+- Res. CVM 179/23, art. 1º: art. 17 reescrito inteiro (caput e parágrafo único; "agentes autônomos de investimento" passa a "assessores de investimento"); art. 20, § 1º, com linhas de pontos.
+- Vigência: 2023-06-01, aplicada na data do DOU.
+
+### Res. CVM 13
+
+#### Res. CVM 13/2020: divergências do replay
+
+Cadeia: original (DOU 2020-11-19) -> Res. CVM 64/22 (DOU 2022-02-08) -> Res. CVM 216/24 (DOU 2024-10-31).
+
+Teste 1: 0 linhas fora do ato nos dois passos. Teste 2 (v2 contra resol013consolid.docx): 16 diferenças, todas de forma, propostas em aceitas-propostas.json.
+
+1. Assinatura: o consolidado da CVM termina com "Assinado eletronicamente por / MARCELO BARBOSA / PRESIDENTE"; a página do DOU do original não traz o bloco nesse formato.
+2. Títulos dos anexos: o consolidado escreve "ANEXO A À RESOLUÇÃO CVM Nº 13, DE 18 DE NOVEMBRO DE 2020" (idem B e C); o DOU traz só "ANEXO A", "ANEXO B" e "ANEXO C".
+3. Cabeçalho e rodapé do .docx: nome da autarquia, endereços das sedes, site e título da resolução, repetidos nas quebras de seção, extraídos como texto pelo conversor.
+
+Observações:
+- A retificação da Res. CVM 64 publicada no DOU de 2022-02-09 não foi obtida [verificar]. Nos dispositivos da Res. 13 alterados pela Res. 64 (arts. 2º, 3º, 10, 14, 25 e Anexo A), a redação aplicada coincide com o consolidado da CVM.
+- Anexo A, art. 1º, incisos II e III: revogados pela Res. CVM 64; o consolidado traz "– REVOGADO", que a normalização iguala ao "(Revogado)" do histórico. As alíneas a a d do inciso III saem com a revogação.
+
+### Res. CVM 19
+
+#### Divergências do replay da Res. CVM 19/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-02-26) e Res. CVM 179 (DOU 2023-02-15; só o art. 2º é da Res. CVM 19). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol019consolid.docx`: 0 diferença não aceita, 19 aceitas em `aceitas-propostas.json` (itens 1 a 5). As retificações da Res. CVM 19 (DOU 2021-03-02 e 2021-04-01) não foram obtidas.
+
+###### 1. Art. 3º, inciso II, e art. 26, inciso IV: redação do consolidado diferente do DOU
+
+- Ato: original (provável retificação).
+- Causa: o consolidado acrescenta no art. 3º, II "cuja metodologia e conteúdo tenham sido previamente aprovados pela CVM," e cita no art. 26, IV a "Deliberação CVM nº 783, de 17 de novembro de 2017"; o DOU de 2021-02-26 traz o texto sem o trecho e "nº 483". São diferenças de conteúdo, não de formato, e o mais provável é que venham das retificações não obtidas.
+- Decisão: vale o DOU até a retificação ser obtida; duas entradas e menção no incerteza. Ao obter as retificações, aplicá-las como passo próprio e retirar estas entradas. [verificar no DOU]
+
+###### 2. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o texto do DOU usado não o traz.
+- Decisão: três entradas.
+
+###### 3. Cabeçalhos dos Anexos A a F
+
+- Causa: "ANEXO X à Resolução CVM nº 19, de 25 de FEVEREIRO de 2021" no consolidado; "ANEXO X" no DOU (no Anexo C, o DOU põe o título na mesma linha e o consolidado em linha própria).
+- Decisão: vale o DOU; sete entradas.
+
+###### 4. Anexo E, nota de rodapé e marcadores
+
+- Causa: o DOU traz a nota de rodapé 1 (marcador colado em "Recursos humanos1" e o texto da nota depois da tabela) e o marcador "·" nas listas de experiências profissionais; o consolidado não traz nem uma nem outro.
+- Decisão: vale o DOU; seis entradas (as listas de experiências aparecem duas vezes e cada entrada cobre as duas).
+
+###### 5. Contagem de tabelas
+
+- Causa: o texto do DOU usado traz uma linha em branco antes do item 8 do Anexo E, que parte a tabela em duas (3 na norma, 2 no consolidado).
+- Decisão: uma entrada `tabelas` ("2" e "3").
+
+###### 6. Observações
+
+- Res. CVM 179/23, art. 2º: art. 1º, § 4º; art. 3º, § 2º, IV; art. 4º, § 7º ("agente autônomo de investimento" passa a "assessor de investimento"), todos com linhas de pontos.
+- Vigência: 2023-06-01, aplicada na data do DOU.
+
+### Res. CVM 20
+
+#### Divergências do replay da Res. CVM 20/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-02-26), Res. CVM 179 (DOU 2023-02-15; só o art. 3º é da Res. CVM 20) e 216 (DOU 2024-10-31; só o art. 2º é da Res. CVM 20). Teste 1: 0 linha fora do ato nos dois passos. Teste 2 contra `dados/resol020consolid.docx`: 0 diferença não aceita, 3 aceitas em `aceitas-propostas.json` (itens 1 e 2).
+
+###### 1. Assinatura eletrônica
+
+- Causa: o consolidado traz "Assinado eletronicamente por / Marcelo Barbosa / Presidente"; o DOU traz só "Marcelo Barbosa" (que casa com a linha do consolidado).
+- Decisão: duas entradas e menção no incerteza.
+
+###### 2. Cabeçalho do Anexo A
+
+- Causa: "Anexo A à Resolução CVM nº 20, DE 25 de fevereiro de 2021" no consolidado; "ANEXO A" no DOU.
+- Decisão: vale o DOU; uma entrada e menção no incerteza.
+
+###### 3. Observações
+
+- Res. CVM 179/23, art. 3º: art. 10 reescrito ("assessor de investimento"); vigência 2023-06-01.
+- Res. CVM 216/24, art. 2º: art. 13, inciso V reescrito (alíneas a, com itens 1 e 2, e b); os incisos VI a VIII ficam (linha de pontos). Vigência 2025-07-01, já em vigor na data-base.
+
+### Res. CVM 31
+
+#### Divergências do replay da Res. CVM 31/2021 (2026-10-29)
+
+Cadeia (fontes/INVENTARIO.md): original (DOU 2021-05-20), Res. CVM 174 (DOU 2022-12-06), Res. CVM 209 (DOU 2024-08-27), Res. CVM 220 (DOU 2024-11-12). Teste 1: 0 linha fora do ato em todos os passos. Teste 2 contra `dados/resol031consolid.docx`: 0 diferença não aceita, 2 aceitas em `aceitas-propostas.json`.
+
+###### 1. Assinatura eletrônica
+
+- O consolidado termina com "Assinado eletronicamente por / Presidente"; a fonte original, não. 2 entradas.
+
+###### Observações
+
+- Res. CVM 209/24, art. 2º: o ato dá nova redação ao art. 35 com o caput só, sem linha pontilhada para os parágrafos. Aplicado como nova redação do caput; §§ 1º e 2º mantidos, como no consolidado ("Caput com redação dada pela Resolução CVM nº 209").
+- Res. CVM 220/24: texto do DOCX do ato na CVM (inventário sem página do DOU). Art. 15: incisos I e II e § 4º trocados, §§ 1º a 3º mantidos (linha pontilhada), incisos I e II do § 4º e §§ 5º a 7º incluídos. O antigo § 4º virou o § 6º com o mesmo texto.
+- Vigência: 174/22 em 2023-01-02; 209/24 em 2025-07-01; 220/24 em 2025-01-02. Todas anteriores à data-base; redações aplicadas na data do DOU, na ordem do DOU.
+
+### Res. CVM 32
+
+#### Divergências do replay da Res. CVM 32/2021 (2026-10-29)
+
+Cadeia (fontes/INVENTARIO.md): original (DOU 2021-05-20), Res. CVM 209 (DOU 2024-08-27). Teste 1: 0 linha fora do ato em todos os passos. Teste 2 contra `dados/resol032consolid.docx`: 0 diferença não aceita, 4 aceitas em `aceitas-propostas.json`.
+
+###### 1. Assinatura eletrônica
+
+- O consolidado termina com "Assinado eletronicamente por / MARCELO BARBOSA / Presidente"; a fonte original, não. 3 entradas.
+
+###### 2. Título do Anexo A
+
+- O consolidado traz "Anexo A à Resolução CVM nº 32, de 19 de maio de 2021"; o DOU, "ANEXO A". Uma entrada.
+
+###### Observações
+
+- Res. CVM 209/24, art. 3º: Art. 11 com linha pontilhada depois do rótulo (caput mantido); §§ 1º a 3º substituídos pelo texto do ato, com os incisos I a III do § 2º e I e II do § 3º.
+- Vigência: 209/24 em 2025-07-01, anterior à data-base; redação aplicada na data do DOU.
+
+### Res. CVM 35
+
+#### Divergências do replay da Res. CVM 35/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-05-27), Res. CVM 134 (DOU 2022-06-13), 179 (DOU 2023-02-15; só o art. 7º é da Res. CVM 35) e 209 (DOU 2024-08-27; só o art. 4º é da Res. CVM 35). Teste 1: 0 linha fora do ato em todos os passos. Teste 2 contra `dados/resol035consolid.docx`: 0 diferença não aceita, 11 aceitas em `aceitas-propostas.json` (itens 1 a 4).
+
+###### 1. Capítulo II, título
+
+- Ato: original.
+- Causa: o consolidado traz "Capítulo II - DEFINIÇÕES"; o DOU traz "CAPÍTULO II - DEFINIÇÕES".
+- Decisão: vale o DOU; uma entrada e menção no incerteza.
+
+###### 2. Assinatura eletrônica
+
+- Ato: não se aplica (final do consolidado).
+- Causa: o consolidado traz "Assinado eletronicamente por / ... / Presidente" ao fim do texto; o DOU, origem da norma, não o traz.
+- Decisão: duas entradas (só consolidado) e menção no incerteza.
+
+###### 3. Anexo Normativo I: título e Capítulos I a VI
+
+- Ato: original.
+- Causa: o consolidado traz "Anexo Normativo I - ..." e "CaPÍTULO I" a "CaPÍTULO VI" (caixa mista); o DOU traz tudo em maiúsculas.
+- Decisão: vale o DOU; sete entradas e menção no incerteza.
+
+###### 4. Anexo Normativo I, Art. 1º
+
+- Ato: original.
+- Causa: o DOU traz "Art. 1oEste anexo", sem espaço; o consolidado traz "Art. 1o Este anexo". A linha não vira `## Art.` (o artigo do anexo fica como texto, como no DOU).
+- Decisão: texto do DOU copiado literalmente; uma entrada e menção no incerteza.
+
+###### Observações
+
+- Art. 49 (Res. CVM 179/23): o ato fecha a citação com a aspa antes do ponto final ("e 48\". (NR)"); a aspa saiu com o (NR), como as demais aspas de citação.
+- Vigência: 134/22 em 2023-01-02; 179/23 em 2023-06-01 (Seções III e IV do Capítulo VII-A em 2024-01-02); 209/24 em 2025-07-01. Todas anteriores à data-base; redações aplicadas na data do DOU.
+
+### Res. CVM 43
+
+#### Divergências do replay da Res. CVM 43/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-08-18) e Res. CVM 179 (DOU 2023-02-15; só o art. 8º é da Res. CVM 43). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol043consolid.docx`: 0 diferença não aceita, 6 aceitas em `aceitas-propostas.json` (itens 1 a 3).
+
+###### 1. Títulos dos Capítulos II e III
+
+- Causa: "CAPÍTULO" em maiúsculas no DOU; "Capítulo" no consolidado.
+- Decisão: vale o DOU; duas entradas.
+
+###### 2. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o texto do DOU usado não o traz.
+- Decisão: três entradas.
+
+###### 3. Cabeçalho do Anexo A
+
+- Causa: "Anexo A à Resolução CVM nº 43, de 17 de AGOSTO de 2021" no consolidado; "ANEXO A" no DOU.
+- Decisão: vale o DOU; uma entrada.
+
+###### 4. Observações
+
+- Res. CVM 179/23, art. 8º: art. 2º, § 2º ("agentes autônomos de investimento" passa a "assessores de investimento"), com linhas de pontos.
+- Vigência: 2023-06-01, aplicada na data do DOU.
+
+### Res. CVM 44
+
+#### Divergências do replay da Res. CVM 44/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-08-24, ctresb/leis), Res. CVM 60 (DOU 2021-12-24, art. 63) e 216 (2024-10-31, art. 3º). Teste 1: 0 linhas fora do ato nos dois passos. Teste 2 contra `dados/resol044consolid.docx` (sha256 946d5e0f...): 0 diferenças não aceitas; o item 1 é a diferença aceita em `aceitas-propostas.json` (3 entradas).
+
+###### 1. Assinatura eletrônica
+
+- Ato: original.
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" depois do art. 25; o texto do original não a traz.
+- Decisão: 3 entradas (só consolidado).
+
+###### 2. Outras notas
+
+- Res. CVM 60, art. 63: parágrafo único novo no art. 1º, depois do inciso III, como no consolidado.
+- Res. CVM 216, art. 3º: repete o caput do art. 9º sem mudança e dá nova redação ao § 1º. Texto do ctresb/leis; a CVM só publica PDF do ato, sem DOCX para conferir.
+- Retificação da Res. CVM 60 no DOU de 2023-01-06: não obtida [verificar].
+
+### Res. CVM 45
+
+#### Divergências do replay da Res. CVM 45/2021 (2026-10-29)
+
+Cadeia (fontes/INVENTARIO.md, mais a Res. CVM 209/24 por decisão do coordenador em 2026-10-29): original (DOU 2021-09-02, texto do PDF da CVM), Res. CVM 65 (DOU 2022-02-15), 162 (DOU 2022-07-14; arts. 11 e 18, VIII e IX), 179 (DOU 2023-02-15; art. 9º), 209 (DOU 2024-08-27; art. 5º) e 235 (DOU 2025-11-24). Teste 1: 0 linha fora do ato nos cinco passos. Teste 2 contra `dados/resol045consolid.docx`: 0 diferença não aceita, 84 aceitas em `aceitas-propostas.json` (itens 1 a 7).
+
+###### 1. Art. 14, parágrafo único (extração do PDF)
+
+- Ato: original.
+- Causa: o PDF da CVM, convertido, traz "Parágrafo único. do investigado ao Colegiado." e, na linha seguinte, "Da negativa de acesso fundada na hipótese de que trata este artigo, cabe recurso"; o consolidado traz a frase inteira e em ordem.
+- Decisão: texto da fonte mantido; duas entradas; conferir no DOU.
+
+###### 2. Prazos por extenso (Res. CVM 235/25)
+
+- Ato: 235.
+- Causa: o ato escreve "seis dias", "dez dias", "quinze minutos", "sessenta dias", "cento e vinte dias", "trinta dias", "dois titulares"; o consolidado escreve "6 (seis) dias" etc.
+- Dispositivos: Art. 23, § 2º, II; Art. 25, § 4º; Art. 52; Art. 74, caput; Art. 75, caput e § 1º; Art. 86, § 3º; Anexo C, art. 1º, XXIII, a).
+- Decisão: vale o ato; oito entradas.
+
+###### 3. Ponto depois do rótulo "§ Nº-A"
+
+- Atos: 65 (Art. 31, § 1º-A; Art. 57, §§ 2º-A e 2º-B) e 235 (Art. 74, § 1º-A, que também tem "quinze dias").
+- Causa: o consolidado escreve "§ 1º-A." com ponto; o ato, sem ponto (o § 2º-C da Res. 65 já vem com ponto).
+- Decisão: vale o ato; quatro entradas.
+
+###### 4. Assinatura eletrônica
+
+- O consolidado termina com "Assinado eletronicamente por / MARCELO BARBOSA / Presidente"; a fonte original, não. Três entradas.
+
+###### 5. Títulos dos Anexos A a E
+
+- O consolidado traz "ANEXO A à Resolução CVM nº 45, de 31 de agosto de 2021"; o PDF, tudo em maiúsculas. Cinco entradas.
+
+###### 6. Anexo A: tabela achatada no PDF
+
+- Ato: original (e as trocas das Res. 162, 179, 209 e 235 dentro dela).
+- Causa: o PDF da CVM achata a tabela "GRUPO | INFRAÇÃO ADMINISTRATIVA | VALOR MÁXIMO" em linhas soltas, com o rótulo do grupo e o valor intercalados entre os incisos ("GRUPO II I – ..." numa linha só). O consolidado traz a tabela (1 tabela; a norma, 0) com as notas de alteração dentro das células.
+- Aplicação: cada inciso alterado foi trocado na sua linha; incisos novos (Grupo III, XI; Grupo IV, IX a XI; Grupo V, X) entraram depois do último inciso do grupo.
+- Conferência à parte (fora do teste 2): os 43 incisos dos cinco grupos, tirados das células do consolidado sem as notas, são iguais, um a um, às linhas da norma.
+- Decisão: uma entrada "tabelas" (1 × 0), seis linhas do consolidado (cabeçalho e cinco grupos) e 53 linhas da norma; incerteza aponta a tabela achatada [verificar no DOU].
+
+###### 7. Anexo C, art. 1º, XVII, d) (extração do PDF)
+
+- A alínea saiu partida em duas linhas ("... fundos mútuos de privatização –" / "FGTS;"). Duas entradas.
+
+###### Observações
+
+- Res. CVM 179/23, art. 9º, Grupo I, V: na célula do ato o ponto final do inciso se funde com a linha de pontos ("mobiliários......"). Mantido o ponto final, como na redação anterior e no consolidado.
+- Res. CVM 162/22, art. 18, IX: o ato revoga "o inciso X do art. 1º do Anexo C da Instrução CVM nº 45" (sic). Aplicado ao Anexo C da Res. CVM 45; ficou "X – (Revogado)" e as alíneas a) a c) do inciso saíram com ele, como no consolidado. A alínea c) do inciso IX (art. 18, VIII) ficou "c) (Revogado)".
+- Res. CVM 209/24, art. 5º: deu nova redação ao Anexo A, Grupo IV, VII a IX (vigor em 2025-07-01). Passo próprio no histórico (v4, DOU 2024-08-27): VII e VIII trocados, IX incluído. A Res. CVM 235/25 revogou esse art. 5º (art. 4º, II) e reescreveu os mesmos incisos (v5: VII a IX trocados, X e XI incluídos); a redação da 209 vigorou de 2025-07-01 a 2025-12-01. O consolidado da CVM omite a 209 no título ("ALTERAÇÕES INTRODUZIDAS PELAS RESOLUÇÕES CVM Nº 65/22, 162/22, 179/23 e 235/25"), mas a 209 alterou a norma.
+- Retificação do DOU de 2021-09-10: texto não obtido; não aplicada.
+- Vigência: 65/22 em 2022-03-02; 162/22 em 2023-01-02; 179/23 em 2023-06-01; 209/24 em 2025-07-01; 235/25 em 2025-12-01 (inciso IX do Grupo IV do Anexo A em 2026-01-02). Todas anteriores à data-base; redações aplicadas na data do DOU.
+
+### Res. CVM 46
+
+#### Divergências do replay da Res. CVM 46/2021 (2026-10-29)
+
+Cadeia (fontes/INVENTARIO.md): original (DOU 2021-09-02), Res. CVM 65 (DOU 2022-02-15). Teste 1: 0 linha fora do ato em todos os passos. Teste 2 contra `dados/resol046consolid.docx`: 0 diferença não aceita, 7 aceitas em `aceitas-propostas.json`.
+
+###### 1. Assinatura eletrônica
+
+- O consolidado termina com "Assinado eletronicamente por / MARCELO BARBOSA / Presidente"; a fonte original, não. 3 entradas.
+
+###### 2. Caixa dos títulos e espaço no Art. 9º, I
+
+- Capítulo II, título; Capítulo III, título; Capítulo IV, título: o consolidado usa caixa mista ("Capítulo II - Recursos ao colegiado", "Capítulo III - RELATORIA DE PROCESSOS", "Capítulo IV - Disposições Finais"); o DOU, maiúsculas. Três entradas.
+- Art. 9º, I: o consolidado traz "I -ser distribuído" (sem espaço depois do travessão); o DOU, "I - ser distribuído". Uma entrada.
+
+###### Observações
+
+- Res. CVM 65/22, art. 2º: Art. 18-A incluído depois do art. 18, antes do Capítulo IV. Vigência em 2022-03-02, anterior à data-base; redação aplicada na data do DOU.
+
+### Res. CVM 47
+
+#### Divergências do replay da Res. CVM 47/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-09-02, texto do PDF da CVM), Res. CVM 60 (DOU 2021-12-24, art. 66), 159 (2022-07-11), 207 (2024-08-14) e 236 (2025-12-12). Teste 2 contra `dados/resol047consolid.docx` (sha256 1aefd100...). Os itens 1 a 5 são as diferenças do teste 2 aceitas em `aceitas-propostas.json` (24 entradas); os itens 6 e 7 são resultados do teste 1.
+
+###### 1. Títulos de capítulo e de anexo
+
+- Ato: original.
+- Causa: o PDF da CVM traz os títulos dos Capítulos II a VI e dos Anexos A e B em caixa alta; o consolidado, em caixa mista. Diferença editorial do consolidado.
+- Decisão: texto mantido; 7 entradas.
+
+###### 2. Art. 18, § 2º
+
+- Ato: Res. CVM 159/22 (art. 2º, nova redação do art. 18 com caput e parágrafo único; art. 3º, III, revoga o § 2º).
+- Causa: o histórico mantém o § 2º com "(Revogado)" (convenção do replay); o consolidado omite o parágrafo.
+- Decisão: texto mantido; 1 entrada (só norma).
+
+###### 3. Assinatura eletrônica
+
+- Ato: original.
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" entre o art. 25 e o Anexo A; o texto do PDF usado como original não traz a assinatura.
+- Decisão: 3 entradas (só consolidado).
+
+###### 4. Anexo A, art. 1º, linha Emissor de valores mobiliários
+
+- Ato: Res. CVM 236/25 (art. 1º).
+- Causa: o consolidado traz, dentro da célula, quatro anotações "Alínea "a" com redação dada pela Resolução CVM nº 236, de 9 de dezembro de 2025."; fora delas, o texto é igual. Nota de alteração do consolidado.
+- Decisão: texto mantido; 1 entrada.
+
+###### 5. Anexo B, art. 1º, tabela
+
+- Ato: original.
+- Causa: a tabela do Anexo B saiu achatada na extração do PDF (cabeçalho e primeira célula na mesma linha, demais células em linhas soltas); o consolidado a traz inteira (3 linhas de tabela), com o mesmo texto. Daí também "tabelas: 1 na norma, 2 no consolidado".
+- Decisão: não refazer a tabela (seria texto que não está na fonte); 11 entradas de linha (3 só consolidado, 8 só norma) e 1 entrada "tabelas" (norma 1, consolidado 2). [verificar no DOU]
+
+###### 6. Teste 1, Res. CVM 207/24: caput do Anexo A, art. 1º
+
+- Ato: Res. CVM 207/24 (art. 1º).
+- Causa: no original, o caput do art. 1º do Anexo A ("A multa cominatória ordinária será aplicada com o seguinte valor diário:") está na mesma linha que o cabeçalho e a primeira linha da tabela achatada. O ato mantém o caput ("Art. 1º .....") e substitui a tabela; separar o caput gera uma linha nova cujo texto vem da versão anterior, não do ato.
+- Decisão: falso positivo (nenhum texto inventado); sem correção possível. A linha de Companhias Securitizadoras que a Res. CVM 60 inserira (v1) saiu com a tabela antiga e voltou na tabela da Res. CVM 207.
+
+###### 7. Teste 1, Res. CVM 236/25: célula da linha Emissor de valores mobiliários
+
+- Ato: Res. CVM 236/25 (art. 1º).
+- Causa: o ato troca só as alíneas a) dos incisos I a IV, dentro de uma célula; a célula resultante junta o texto do ato com o resto da célula da Res. CVM 207 (incisos e alíneas b), e o teste 1 compara a célula inteira com o ato.
+- Decisão: falso positivo; as quatro alíneas novas foram copiadas do ato (a do inciso III com "– ISEM", como no ato e no consolidado). Mesmo caso das linhas de tabela da seção 13 de `dados/replay-0080/divergencias.md`.
+
+###### 8. Outras notas
+
+- Res. CVM 60, art. 66: a linha de Companhias Securitizadoras entrou como linha de tabela depois de Auditor independente (posição do consolidado), porque a tabela do original está achatada; o ato traz "eII" sem espaço.
+- Retificação da Res. CVM 60 no DOU de 2023-01-06: não obtida [verificar].
+- Atos 159, 207 e 236: texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU].
+
+### Res. CVM 53
+
+#### Divergências do replay da Res. CVM 53/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-10-18; texto do PDF da CVM) e Res. CVM 239 (DOU 2026-01-12; só o art. 3º, II é da Res. CVM 53). Teste 1: 0 linha fora do ato. Teste 2 contra `dados/resol053consolid.docx` (o consolidado já traz a 239): 0 diferença não aceita, 3 aceitas em `aceitas-propostas.json` (item 1).
+
+###### 1. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o original usado (PDF) não o traz.
+- Decisão: três entradas e menção no incerteza.
+
+###### 2. Observações
+
+- Res. CVM 239/26, art. 3º, II: revoga o art. 13, inciso X; o inciso fica como `X – (Revogado)`. Os arts. 1º e 3º, I alteram a Res. CVM 24; o art. 2º é regra de transição de processos internos.
+- Vigência para a Res. CVM 53: 2026-01-12 (art. 4º, II), igual à data do DOU.
+- A retificação da Res. CVM 239/26 no DOU de 2026-01-16 não foi obtida; não se sabe se toca a Res. CVM 53. [verificar no DOU]
+
+### Res. CVM 54
+
+#### Divergências do replay da Res. CVM 54/2021 (2026-10-29)
+
+Cadeia: original (DOU 2021-10-21; texto do PDF da CVM), Res. CVM 61 (DOU 2021-12-28; só o art. 14 é da Res. CVM 54) e 171 (DOU 2022-10-31). Teste 1: 0 linha fora do ato nos dois passos. Teste 2 contra `dados/resol054consolid.docx`: 0 diferença não aceita, 8 aceitas em `aceitas-propostas.json` (itens 1 a 4).
+
+###### 1. Art. 4º, cabeçalho
+
+- Ato: original.
+- Causa: o consolidado escreve "Art. 4o" (letra o), que a normalização não reconhece como cabeçalho de artigo; a linha do consolidado fica inteira e o original tem `## Art. 4º` e o caput.
+- Decisão: vale o original; duas entradas e menção no incerteza.
+
+###### 2. Art. 9º, inciso I
+
+- Ato: original.
+- Causa: o texto extraído do PDF quebra o inciso antes da citação "NOTIFICAÇÃO DE LANÇAMENTO NÚMERO XXXX/LOTE XXXX"; o consolidado o traz numa linha.
+- Decisão: v0 fica igual a `dados/fontes/dou-0054.md`; duas entradas e menção no incerteza. Correção possível na fonte, fora do escopo deste replay. [verificar no DOU]
+
+###### 3. Título do Capítulo IV
+
+- Ato: original.
+- Causa: maiúsculas no original; "Capítulo IV" no consolidado.
+- Decisão: vale o original; uma entrada.
+
+###### 4. Assinatura eletrônica
+
+- Causa: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" no consolidado; o original usado não o traz.
+- Decisão: três entradas e menção no incerteza.
+
+###### 5. Observações
+
+- Res. CVM 61/21, art. 14: só o § 1º do art. 13 (linha de pontos depois dele).
+- Res. CVM 171/22, art. 1º: art. 13-A novo, inserido depois do art. 13, antes do Capítulo IV. O art. 2º do ato (regra transitória) não altera a norma.
+- Vigências: 61/21 em 2022-01-03; 171/22 em 2022-12-01. Aplicadas na data do DOU.
+
+### Res. CVM 67
+
+#### Divergências do replay da Res. CVM 67/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-03-11, ctresb/leis) e Res. CVM 248 (DOU 2026-10-14, art. 1º). Teste 1: 0 linhas fora do ato. Teste 2 contra `dados/resol067consolid.docx` (sha256 47d4aa38...): 0 diferenças não aceitas; os itens 1 e 2 são as diferenças aceitas em `aceitas-propostas.json` (7 entradas).
+
+###### 1. Títulos de capítulo
+
+- Ato: original.
+- Causa: o original traz os títulos dos Capítulos II a VI em caixa alta; o consolidado, em caixa mista ("Capítulo II - ...", e o IV também no nome). Diferença editorial do consolidado.
+- Decisão: texto mantido; 5 entradas.
+
+###### 2. Assinatura eletrônica
+
+- Ato: original.
+- Causa: depois do art. 47, o original traz só "Marcelo Barbosa"; o consolidado traz "Assinado eletronicamente por / Marcelo Barbosa / Presidente".
+- Decisão: 2 entradas (só consolidado).
+
+###### 3. Outras notas
+
+- Res. CVM 248, art. 1º: nova redação do inciso VI do art. 2º sem as alíneas a e b do original, que saem com o inciso, como no consolidado; nova redação do caput e dos incisos I e II do art. 3º, inciso III novo e § 5º novo.
+- Res. CVM 248: texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU]. As notas do consolidado datam o ato de "9 de outubro de 2026"; o ato diz 13 de outubro de 2026 (notas não entram na comparação).
+
+### Res. CVM 77
+
+#### Res. CVM 77/2022: divergências do replay
+
+Cadeia: original (DOU 2022-03-30) -> Res. CVM 216/24 (DOU 2024-10-31; art. 4º altera o art. 8º, III).
+
+Teste 1: 0 linhas fora do ato. Teste 2 (v1 contra resol077consolid.docx): 15 diferenças, todas de forma, propostas em aceitas-propostas.json.
+
+1. Espaços a mais no consolidado: Art. 18, § 1º ("notas comerciais .") e Art. 19, § 8º ("16 ( dezesseis)"). Mesmo texto.
+2. Assinatura: bloco "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" só no consolidado.
+3. Título do Anexo A: "Anexo A à Resolução CVM nº 77, de 29 de março de 2022" no consolidado; "ANEXO A" no DOU.
+4. Anexo A, tabela do formulário: a página do DOU traz os campos de marcação como texto ("Sim ( ); ouNão ( )" e a coluna "( )" nos itens I e II); no .docx são caixas de seleção que o conversor não extrai. Mesmo número de tabelas (1).
+
+Observação: a Res. CVM 216/24 entrou em vigor em 2025-07-01; aplicada na data do DOU (2024-10-31).
+
+### Res. CVM 81
+
+#### Divergências do replay da Res. CVM 81/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-03-30; texto do PDF do ato no site da CVM), Res. CVM 59/21 (republicação no DOU em 2022-05-13) e Res. CVM 204/24 (DOU 2024-06-05; texto do DOCX da CVM). Teste 1: 59 com 6 linhas acusadas (item 1); 204 com 3 linhas acusadas (itens 2 e 3). Teste 2 contra `dados/resol081consolid.docx`: 0 diferença não aceita, 570 aceitas em `aceitas-propostas.json` (itens 4 a 10).
+
+###### 1. Teste 1 da Res. CVM 59/21: revogações dentro de linhas achatadas dos Anexos C, H e I
+
+- Ato: Res. CVM 59/21 (art. 8º, IV e V; art. 7º).
+- Causa: no PDF do original, os Anexos C e H vêm achatados (vários itens numa linha). A revogação dos itens 5.l e 8.e do Anexo C e do item 11 do Anexo H foi aplicada dentro dessas linhas: o item fica "l. (Revogado)", "e. (Revogado)" ou "11. (Revogado)" e saem os subitens dele. O teste 1 acusa as linhas editadas (5, m, 8.a-d, f, 10-11 do Anexo H) e a linha da nota de rodapé 3 do Anexo I, que saiu da linha achatada do campo 12 para linha própria.
+- Verificação: em cada linha acusada o único texto inserido é "(Revogado)"; o resto é texto do original (conferido por diff contra v0).
+- Decisão: nenhum texto novo fora do ato; mantido como historico-conferido (precedente: replay-0080, item 13); menção no incerteza.
+
+###### 2. Teste 1 da Res. CVM 204/24: Art. 34, § 1º e Art. 81, caput
+
+- Ato: Res. CVM 204/24 (art. 2º).
+- Art. 34: o DOCX do ato traz só o rótulo "§ 1º" (sem texto) onde o original tinha "Parágrafo único. O boletim de voto a distância deve dar ao acionista a possibilidade de alocar seus votos..."; o replay mantém o texto anterior sob o número novo, como no consolidado. O teste 1 acusa a linha, porque o texto não está no ato, só o número.
+- Art. 81: no PDF do original o caput e o inciso I vêm numa linha só; o ato dá nova redação ao inciso I, e o caput passa a linha própria ("Constitui infração grave, para os efeitos da Lei 6.385, de 7 de dezembro de 1976:"), com o texto do original.
+- Decisão: só rótulo ou separação de linha; mantido; menção no incerteza.
+
+###### 3. Teste 1 da Res. CVM 204/24: título do Anexo O
+
+- Ato: Res. CVM 204/24 (art. 4º).
+- Causa: o ato dá nova redação ao Anexo O com a tabela só; no PDF do original o título "Inclusão de propostas no boletim de voto a distância" vinha na mesma linha da tabela achatada. O replay mantém o título em linha própria antes da nova tabela, como no consolidado.
+- Decisão: texto do original; mantido; menção no incerteza.
+
+###### 4. Numerais e títulos de capítulo
+
+- Ato: Res. CVM 204/24 e original.
+- Causa: o consolidado escreve "20 (vinte)", "4 (quatro)", "48 (quarenta e oito)" etc. onde o DOCX do ato traz só o extenso (Arts. 5º, 26, 27, 30, 30-A, 37, 43, 44, 45, 46-B e 49); os títulos de capítulo vêm em maiúsculas no PDF do original e em caixa mista no consolidado.
+- Decisão: vale o texto da fonte; um par por linha (19 de numerais, 5 de títulos).
+
+###### 5. Art. 44, II, a), item 2, e Art. 45, I, b): "; e"
+
+- Ato: Res. CVM 204/24.
+- Causa: o ato termina as duas linhas com "; e"; o consolidado, com ponto final.
+- Decisão: vale o ato; dois pares.
+
+###### 6. Art. 44, II, b): linha partida no PDF
+
+- Ato: original (alínea não alterada pela 204).
+- Causa: no PDF do original a alínea vem partida em "...Cadastro Nacional de Pessoas Jurídicas" e "– CNPJ."; o consolidado traz uma linha só.
+- Decisão: mantido o texto da fonte; duas entradas.
+
+###### 7. Art. 45, III, e Subseção VII (redação da 204 sem linhas pontilhadas)
+
+- Ato: Res. CVM 204/24.
+- Causa: o DOCX do ato não traz as linhas pontilhadas de remissão. O ato dá nova redação ao caput, aos incisos I e II e ao § 1º do Art. 45 e não menciona o inciso III; o consolidado o mantém ("48 (quarenta e oito) horas"). O replay mantém o inciso III com a redação anterior ("48 horas"). O ato insere a "Subseção VII – Cômputo dos Votos na Assembleia" antes do novo Art. 46-C; o consolidado mantém também o título antigo "Subseção VII – Cômputo dos Votos na Assembleia Geral" antes do Art. 47, e o replay segue o consolidado.
+- Decisão: estrutura do consolidado, texto da fonte; um par (inciso III); menção no incerteza [verificar no DOU].
+
+###### 8. Assinatura eletrônica
+
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" antes dos anexos.
+- Decisão: três entradas e menção no incerteza.
+
+###### 9. Anexos A a Q: texto achatado no PDF do original
+
+- Ato: original (e, nos Anexos C, H, I, M e O, as alterações aplicadas sobre ele).
+- Causa: no PDF do original os anexos vêm achatados (vários itens numa linha, chamadas e textos das notas de rodapé no meio do texto, tabelas do Anexo N sem estrutura); o consolidado traz um item por linha. Os itens alterados conferem com o consolidado: Anexo M, itens 11 e 20, e Anexo O (tabela), da Res. CVM 204/24; Anexo I, campos 12 e 13, e Anexo C, item 5.l, e Anexo H, item 11, da Res. CVM 59/21.
+- Anexo M, itens 11 e 20: a nova redação não traz as chamadas das notas de rodapé 7 e 18 do original; os textos dessas notas ficam no anexo [verificar no DOU].
+- Decisão: uma entrada por linha divergente (cerca de 540) e a entrada "tabelas" (norma 1, consolidado 2); menção no incerteza [verificar no DOU].
+
+###### 10. Anexo C, item 8: revogação parcial (ato) × total (consolidado)
+
+- Ato: Res. CVM 59/21 (art. 8º, IV: "os itens 5.l e 8.e do Anexo C").
+- Causa: o consolidado da CVM risca o item 8 inteiro (caput e alíneas a a f) e traz "8. REVOGADO" com a nota "Item 8 revogado pela Resolução CVM nº 59"; o texto do ato (republicação no DOU) revoga só a alínea 8.e.
+- Decisão: vale o texto do ato (só 8.e revogada); três entradas e menção no incerteza [verificar no DOU].
+
+###### 11. Observações
+
+- Vigência: Res. CVM 59/21 em vigor em 2023-01-02; Res. CVM 204/24 em 2025-01-02. Aplicadas na data do DOU (59 na republicação de 2022-05-13).
+- Retificação da Res. CVM 204/24 no DOU de 2024-06-19: texto não obtido [verificar no DOU].
+- Art. 5º da Res. CVM 204/24: revogados art. 10, VI; art. 11, III; art. 26, § 2º; art. 28, § 5º; art. 31, § 2º; art. 45, § 2º (antigo); art. 48, I e § 3º.
+
+### Res. CVM 86
+
+#### Res. CVM 86/2022: divergências do replay
+
+Cadeia: original (DOU 2022-04-01) -> Res. CVM 221/24 (DOU 2024-12-11).
+
+Teste 1: 0 linhas fora do ato. Teste 2 (v1 contra resol086consolid.docx): 33 diferenças, todas de forma, propostas em aceitas-propostas.json.
+
+1. Notas de alteração: "§§ 1º, 2º e 3º incluídos pela Resolução CVM nº 221..." (Art. 1º) e "§§ 6º, 7º e 8º com redação dada pela..." (Art. 9º) ficam no texto normalizado do consolidado porque começam com "§§".
+2. Título do Capítulo II: "Capítulo II – DISTRIBUIÇÃO PÚBLICA" no consolidado; "CAPÍTULO II -DISTRIBUIÇÃO PÚBLICA" no DOU.
+3. Art. 7º: a página do DOU quebra o caput em dois parágrafos ("...deferido se" / "não houver manifestação da SRE neste prazo."). Mesmo texto; mantida a forma da fonte.
+4. Títulos do Capítulo III e das Seções I e II: o art. 2º da Res. CVM 221/24 revoga só os arts. 29 e 30 e o Anexo H. O consolidado tacha também os títulos do Capítulo III ("Ofertas sujeitas a regimes diferenciados") e das duas seções; o histórico os mantém, porque o ato não os revoga expressamente.
+5. Art. 40, I, b: o ato escreve "art. 1º, §1º, inciso I" (sem espaço); o histórico copia o ato e o consolidado escreve "§ 1º".
+6. Assinatura: bloco "Assinado eletronicamente / MARCELO BARBOSA / Presidente" só no consolidado.
+7. Títulos dos anexos: o consolidado escreve "Anexo A à Resolução CVM nº 86, DE 31 DE MARÇO DE 2022" (idem B a G), separa o subtítulo do Anexo C e marca "ANEXO H - REVOGADO"; o histórico tem "ANEXO A" etc. e "ANEXO H" seguido de "(Revogado)".
+
+Observações:
+- A retificação do original publicada no DOU de 2022-07-08 não foi obtida [verificar]. O teste 2 não mostra diferença de conteúdo entre o histórico e o consolidado.
+- A Res. CVM 221/24 entrou em vigor em 2024-12-16; aplicada na data do DOU (2024-12-11).
+- O art. 2º da Res. CVM 221/24 cita "Resolução CVM nº 86, de 31 de março de 2021" (ano errado no ato; a norma é de 2022). Sem efeito no texto.
+
+### Res. CVM 88
+
+#### Divergências do replay da Res. CVM 88/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-04-28; texto do PDF do ato no site da CVM), Res. CVM 158 (DOU 2022-06-29) e 226 (DOU 2025-03-07; só o art. 4º é da Res. CVM 88). Teste 1: 0 linha fora do ato nos dois passos. Teste 2 contra `dados/resol088consolid.docx`: 0 diferença não aceita, 102 aceitas (uma por linha divergente distinta, mais a contagem de tabelas). Todas são de forma, vindas da extração do PDF da redação original; nenhuma toca dispositivo alterado pelos atos.
+
+###### 1. Quebras de parágrafo do PDF (Art. 8º, § 2º, e Art. 11, inciso II)
+
+- Ato: original.
+- Causa: a heurística de parágrafos do PDF parte o § 2º do art. 8º dentro de "PACOTE DE / DOCUMENTOS RELEVANTES" / ", antes do início da oferta" e separa a frase entre aspas do inciso II do art. 11; o consolidado traz cada dispositivo em um parágrafo. Mesmo texto.
+- Decisão: texto do PDF mantido; entradas em aceitas-propostas.json e menção no incerteza.
+
+###### 2. Assinatura
+
+- Ato: não se aplica.
+- Causa: o consolidado traz "MARCELO BARBOSA / Presidente" depois do art. 57; o texto do PDF sai sem a assinatura.
+- Decisão: texto mantido sem o bloco; entradas e menção no incerteza.
+
+###### 3. Anexos A a H: parágrafos e tabelas achatados
+
+- Ato: original (o Anexo E, Seção 3, alínea c, alterada pela Res. CVM 158, coincide com o consolidado).
+- Causa: no PDF, os termos de ciência (Anexos A a C) saem com os parágrafos e a linha de assinatura juntos; as tabelas dos Anexos D, G e H saem como texto corrido (tabelas: 0 na norma, 3 no consolidado); no Anexo E, a palavra "subsequentes." do item 2 da Seção 1 sai uma linha acima e títulos de seção ("Seção 5", "Seção 7", "Seção 11") colam no parágrafo anterior; as 3 notas de rodapé dos Anexos D e H ("1 As informações devem ser prestadas...", "2 ...", "3 ...") ficam no texto, com o número colado ao título, e o consolidado as tem como notas do Word, fora do texto convertido. Comparação palavra a palavra das linhas divergentes: fora as notas, a assinatura e a posição de "subsequentes.", as mesmas palavras na mesma ordem.
+- Decisão: vale o texto do PDF (o DOU não foi obtido); uma entrada por linha divergente distinta e a de tabelas em aceitas-propostas.json; menção no incerteza ("Anexos", "tabelas").
+
+###### 4. Observações
+
+- Retificação da Res. CVM 88 no DOU de 2022-05-04: texto não obtido; o teste 2 não acusou diferença de conteúdo que ela explicaria.
+- Res. CVM 158: o art. 2º põe a vigência em 2022-06-28, um dia antes do DOU (2022-06-29). Res. CVM 226: vigência em 2025-03-10.
+- Res. CVM 158, art. 1º, inciso V do art. 16: o ato escreve "V -" (hífen) e o original do PDF tem "V –" (travessão); vale o texto do ato.
+
+### Res. CVM 135
+
+#### Divergências do replay da Res. CVM 135/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-06-13; texto do PDF do ato no site da CVM), Res. CVM 170/22 (DOU 2022-10-14) e Res. CVM 220/24 (DOU 2024-11-12). Teste 1: 170 limpo; 220 com uma linha acusada por rótulo (item 7). Teste 2 contra `dados/resol135consolid.docx`: 0 diferença não aceita, 118 aceitas em `aceitas-propostas.json` (itens 1 a 6).
+
+###### 1. Art. 39, § 3º, inciso II
+
+- Ato: Res. CVM 220/24 (art. 1º).
+- Causa: o ato termina o inciso II com "; e" e não toca o inciso III, que segue em vigor; o consolidado da CVM termina o inciso II com ponto final.
+- Decisão: vale o texto do ato; um par em aceitas-propostas.json e menção no incerteza.
+
+###### 2. Art. 126, § 1º: nota de alteração
+
+- Ato: Res. CVM 220/24.
+- Causa: o consolidado traz "Incisos III, IV e V com redação dada pela Resolução CVM nº 220, de 11 de novembro de 2024.", que a normalização não remove (o prefixo "Incisos III, IV e V" tem vírgula, que o padrão de nota do normalizador não aceita).
+- Decisão: não é texto normativo; uma entrada (consolidado) e menção no incerteza.
+
+###### 3. Assinatura eletrônica
+
+- Ato: não se aplica (final do consolidado).
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" antes dos anexos.
+- Decisão: texto mantido sem o bloco; três entradas e menção no incerteza.
+
+###### 4. Cabeçalhos dos Anexos A, B e C
+
+- Ato: original.
+- Causa: o PDF do ato traz "ANEXO X À RESOLUÇÃO CVM Nº 135, DE 10 DE JUNHO DE 2022"; o consolidado, "ANEXO X À Resolução CVM nº 135, ..." (caixa mista).
+- Decisão: vale o ato; três pares e menção no incerteza.
+
+###### 5. Anexo B: tabela achatada no PDF
+
+- Ato: original.
+- Causa: o consolidado traz o Anexo B como tabela (uma linha por item; contagem de tabelas 1). O PDF do ato, origem do texto, vem achatado: várias alíneas numa linha, os números das notas de rodapé 1 a 9 colados ao texto ("art. 411 Nome da entidade:", "2. Auditores 4") e o texto das notas de rodapé no meio dos itens. O conteúdo normativo é o mesmo.
+- Decisão: vale o texto do ato até conferência no DOU [verificar no DOU]; uma entrada por linha divergente (102 linhas) e a entrada "tabelas" (norma 0, consolidado 1); menção no incerteza.
+
+###### 6. Anexo C: alíneas numa linha
+
+- Ato: original.
+- Causa: no PDF do ato, título e alíneas a a e vêm numa linha só; no consolidado, uma por linha.
+- Decisão: vale o ato; sete entradas e menção no incerteza.
+
+###### 7. Teste 1 da Res. CVM 220/24: rótulo do § 1º do Art. 152
+
+- Ato: Res. CVM 220/24.
+- Dispositivo: Art. 152, § 1º.
+- Causa: o ato escreve "§ 1º ....." (só o número, com linha de pontos) onde o original tinha "Parágrafo único. A dispensa a que se refere o inciso I do caput depende:"; o replay mantém o texto anterior sob o número novo, como no consolidado da CVM. O teste 1 acusa "§ 1º A dispensa a que se refere o inciso I do caput depende:", porque o texto não está no ato, só o número.
+- Decisão: nenhum texto novo fora do ato, só o rótulo (precedente: replay-0080, item 13). Mantido; menção no incerteza; nivel_verificacao historico-conferido.
+
+###### 8. Observações
+
+- Vigência: Res. CVM 170/22 em vigor em 2022-11-01; Res. CVM 220/24 em 2025-01-02. Aplicadas na data do DOU.
+- Art. 95, § 3º (Res. CVM 170/22): a nova redação não traz os incisos I e II do original, que saem com o parágrafo, como no consolidado.
+- Art. 132 (Res. CVM 220/24): o ato substitui o artigo e o título da Subseção III ("Recurso à CVM" passa a "Supervisão"); Arts. 133 a 135 revogados.
+
+### Res. CVM 161
+
+#### Divergências do replay da Res. CVM 161/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-07-14, ctresb/leis), Res. CVM 173 (DOU 2022-12-01, art. 3º), 207 (2024-08-14, art. 3º) e 222 (2024-12-11, art. 1º). Teste 1: 0 linhas fora do ato nos três passos. Teste 2 contra `dados/resol161consolid.docx` (sha256 0212bdd3...): 0 diferenças não aceitas; os itens 1 a 4 são as diferenças aceitas em `aceitas-propostas.json` (10 entradas).
+
+###### 1. Título do Capítulo II
+
+- Ato: original.
+- Causa: o original traz "CAPÍTULO II - REGISTRO DE COORDENADOR DE OFERTAS PÚBLICAS" em caixa alta; o consolidado, "REGISTRO de coordenador de ofertas públicas". Diferença editorial do consolidado.
+- Decisão: texto mantido; 1 entrada.
+
+###### 2. Assinatura eletrônica
+
+- Ato: original.
+- Causa: o consolidado traz "Assinado eletronicamente por / MARCELO BARBOSA / Presidente" entre o art. 24 e o Anexo A; o texto do original não a traz.
+- Decisão: 3 entradas (só consolidado).
+
+###### 3. Títulos dos Anexos A e B
+
+- Ato: original.
+- Causa: o consolidado acrescenta "À RESOLUÇÃO CVM Nº 161, DE 13 DE JULHO DE 2022" a "ANEXO A" e "ANEXO B".
+- Decisão: texto mantido; 2 entradas.
+
+###### 4. Anexo B, itens 5.4.1 e 5.5.1
+
+- Ato: original.
+- Causa: nas duas listas de experiências profissionais, o original traz "- " antes de nome da instituição, cargo, atividade principal e datas de entrada e saída, dentro da célula; o consolidado não traz o marcador. O texto é o mesmo.
+- Decisão: texto mantido; 4 entradas (cada entrada cobre as duas ocorrências da mesma linha).
+
+###### 5. Outras notas
+
+- Retificação da Res. CVM 173 no DOU de 2023-01-06: não obtida [verificar].
+- Res. CVM 207: texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU].
+- Art. 22-A (Res. CVM 207) entrou depois do art. 22, antes do Capítulo IX, como no consolidado.
+
+### Res. CVM 166
+
+#### Divergências do replay da Res. CVM 166/2022 (2026-10-29)
+
+Cadeia: original (DOU 2022-09-02, ctresb/leis) e Res. CVM 231 (DOU 2025-07-04, art. 2º). Teste 1: 0 linhas fora do ato. Teste 2 contra `dados/resol166consolid.docx` (sha256 06d1bc0a...): 0 diferenças não aceitas; os itens 1 e 2 são as diferenças aceitas em `aceitas-propostas.json` (4 entradas).
+
+###### 1. Art. 1º, parágrafo único
+
+- Ato: Res. CVM 231/25 (art. 2º).
+- Causa: o ato inclui o § 2º no art. 1º ("Art. 1º ....", linha de pontos, "§ 2º ...") sem citar nem renumerar o parágrafo único do original. O consolidado renumera o parágrafo único para § 1º.
+- Decisão: texto do ato aplicado literalmente; o parágrafo único fica com o rótulo do original, ao lado do § 2º novo. Renumeração do consolidado aceita como diferença de numeração (1 entrada). Se a regra do projeto for renumerar implicitamente, trocar "Parágrafo único." por "§ 1º" em v1 (o teste 1 então acusaria a linha, só pelo rótulo, como no item 7 de `dados/replay-0135/divergencias.md`).
+
+###### 2. Assinatura eletrônica
+
+- Ato: original.
+- Causa: o consolidado traz "Assinado eletronicamente por / JOÃO PEDRO BARROSO DO NASCIMENTO / Presidente" depois do art. 6º; o texto do original não a traz.
+- Decisão: 3 entradas (só consolidado).
+
+###### 3. Outras notas
+
+- Res. CVM 231: texto do arquivo do ato no site da CVM, não da página do DOU [verificar no DOU]. Vigor em 2026-01-02, já passado na data-base.
+
+### Res. CVM 193
+
+#### Divergências do replay da Res. CVM 193/2023 (2026-10-29)
+
+Cadeia: original (DOU 2023-10-23; texto do PDF do ato no site da CVM), Res. CVM 219 (DOU 2024-10-31), 227 (DOU 2025-04-01) e 244 (DOU 2026-06-01). Teste 1: 0 linha fora do ato nos três passos. Teste 2 contra `dados/resol193consolid.docx`: 0 diferença não aceita, 6 aceitas.
+
+###### 1. Dispositivos revogados (Art. 2º e Art. 5º, inciso III)
+
+- Ato: Res. CVM 244/26, art. 1º.
+- Causa: o histórico mantém o dispositivo com "(Revogado)" (convenção do replay); o consolidado da CVM só traz a redação antiga tachada e a nota "• Art. 2º revogado pela Resolução CVM nº 244..." / "•Inciso III revogado pela...", que a normalização apaga. No art. 2º, por isso, também o heading `## Art. 2º` sobra só na norma.
+- Decisão: vale a convenção; três entradas em aceitas-propostas.json e menção no incerteza.
+
+###### 2. Assinatura
+
+- Ato: não se aplica.
+- Causa: o consolidado traz "Assinado eletronicamente por / JOÃO PEDRO BARROSO DO NASCIMENTO / Presidente"; o texto do PDF sai sem a assinatura.
+- Decisão: texto mantido sem o bloco; três entradas e menção no incerteza.
+
+###### 3. Observações
+
+- Res. CVM 219, art. 1º: a citação termina em `primeiro".` sem "(NR)"; aplicada como substituição dos incisos I e II e inclusão do III do art. 5º, como no consolidado.
+- Res. CVM 244, art. 2º: dá nova redação ao caput e aos incisos I e II do art. 5º sem linha de pontos; o inciso III, revogado pelo art. 1º do mesmo ato, fica com "(Revogado)". O art. 3º do ato não altera o texto da Res. CVM 193 (regra autônoma).
+- Res. CVM 244: o preâmbulo cita reunião do Colegiado "em 27 de maio de 2025" num ato de 29 de maio de 2026 [verificar]; não afeta o texto da Res. CVM 193.
+
+### Res. CVM 210
+
+#### Divergências do replay da Res. CVM 210/2024 (2026-10-29)
+
+Cadeia: original (DOU 2024-08-27; texto do ctresb/leis) e Res. CVM 229/25 (DOU 2025-05-23). Teste 1: limpo. Teste 2 contra `dados/resol210consolid.docx`: 0 diferença não aceita, 18 aceitas em `aceitas-propostas.json`.
+
+###### 1. Art. 15, parágrafo único: "auxiliar no investidor"
+
+- Ato: original.
+- Causa: o texto do DOU diz "atuar como auxiliar no investidor"; o consolidado da CVM, "auxiliar do investidor". A Res. CVM 210/24 tem retificação no DOU de 2025-06-23, cujo texto não foi obtido; pode ser a origem da diferença.
+- Decisão: vale o texto do DOU até a conferência; um par e menção no incerteza [verificar no DOU].
+
+###### 2. Assinatura eletrônica
+
+- Causa: o consolidado traz "Assinado eletronicamente por / JOÃO PEDRO BARROSO DO NASCIMENTO / Presidente".
+- Decisão: três entradas e menção no incerteza.
+
+###### 3. Anexo (Suplementos A e B)
+
+- Ato: original.
+- Causa: no texto do DOU (ctresb/leis), células com quebra de linha vêm juntas sem espaço ("DateDD/MM/AAAA", "APLICACAORESGATE_PARCIAL...") e a célula de TIPO DA MOVIMENTACAO do Suplemento B ocupa duas linhas da tabela; o consolidado traz espaço e uma linha só. O título "ANEXO" do DOU não está no consolidado.
+- Decisão: vale o texto da fonte; 14 entradas e menção no incerteza. Contagem de tabelas igual (3 e 3).
+
+###### 4. Observações
+
+- Vigência: Res. CVM 229/25 em vigor em 2025-06-02, aplicada na data do DOU. O Art. 23 original (vigor em 2025-07-01) passou a 2026-01-02 antes de a redação original entrar em vigor; as duas datas são anteriores à data-base (2026-10-29), sem vigência diferida.
+
+### Res. CVM 215
+
+#### Divergências do replay da Res. CVM 215/2024 (2026-10-29)
+
+Cadeia: original (DOU 2024-10-31; texto do ctresb/leis) e Res. CVM 230/25 (DOU 2025-06-23), que só muda o Art. 75. Teste 1: limpo. Teste 2 contra `dados/resol215consolid.docx`: 0 diferença não aceita, 40 aceitas em `aceitas-propostas.json`. Nenhuma diferença de texto normativo.
+
+###### 1. Títulos de capítulo em maiúsculas
+
+- Causa: o DOU traz os títulos dos Capítulos II a IX e dos Capítulos I a VI do Anexo C em maiúsculas; o consolidado da CVM, em caixa mista. Mesmo texto.
+- Decisão: vale o texto do DOU; 28 entradas (um par por título) e menção no incerteza.
+
+###### 2. Assinatura eletrônica
+
+- Causa: o consolidado traz "Assinado eletronicamente por / JOÃO PEDRO BARROSO DO NASCIMENTO / Presidente".
+- Decisão: três entradas e menção no incerteza.
+
+###### 3. Títulos dos Anexos A a D
+
+- Causa: o consolidado acrescenta a cada título a nota "à Resolução CVM nº 215, de 29 de outubro de 2024, COM A ALTERAÇÃO INTRODUZIDA PELA RESOLUÇÃO CVM Nº 230/25" e põe o subtítulo "Laudo de avaliação" do Anexo C em linha própria; o DOU traz "ANEXO A", "ANEXO B", "ANEXO C - Laudo de avaliação" e "ANEXO D À RESOLUÇÃO CVM Nº 215, DE 29 DE OUTUBRO DE 2024".
+- Decisão: vale o título do DOU; nove entradas e menção no incerteza.
+
+###### 4. Observações
+
+- Vigência: a Res. CVM 230/25 entrou em vigor em 2025-06-18, antes do DOU (2025-06-23); aplicada na data do DOU. O Art. 75 original (vigor em 2025-07-01) passou a 2025-10-01 antes de a redação original entrar em vigor; as duas datas são anteriores à data-base (2026-10-29).
+
+### Res. CVM 232
+
+#### Divergências do replay da Res. CVM 232/2025 (2026-10-29)
+
+Cadeia: original (DOU 2025-07-04; texto do PDF da CVM) e Res. CVM 236/25 (DOU 2025-12-12; texto do DOCX da CVM). A 236 muda o Art. 33, parágrafo único, I (com alíneas a e b), inclui o Art. 66-A e muda o caput do Art. 68. Teste 1: limpo. Teste 2 contra `dados/resol232consolid.docx`: 0 diferença não aceita, 111 aceitas em `aceitas-propostas.json`. Nenhuma diferença de texto normativo.
+
+###### 1. Títulos de capítulo em maiúsculas
+
+- Causa: a fonte traz os títulos dos Capítulos II a VI em maiúsculas; o consolidado da CVM, em caixa mista.
+- Decisão: vale o texto da fonte; 10 entradas e menção no incerteza.
+
+###### 2. Assinatura eletrônica
+
+- Causa: o consolidado traz "Assinado eletronicamente por / JOÃO PEDRO BARROSO DO NASCIMENTO / Presidente"; a extração do PDF a descarta.
+- Decisão: três entradas e menção no incerteza.
+
+###### 3. Títulos dos Anexos A a C
+
+- Causa: o consolidado acrescenta a cada título a nota "com as alterações introduzidas pela resolução cvm nº 236/25".
+- Decisão: vale o título da fonte; seis entradas e menção no incerteza.
+
+###### 4. Artefatos da extração do PDF no corpo
+
+- Dispositivos: Art. 12, IV e Art. 28, § 2º (espaço antes do ponto após "º"); Art. 22, § 10 e Art. 46, I (linha quebrada no meio do dispositivo).
+- Decisão: mesmo texto do consolidado; o texto da fonte não foi mexido; 10 entradas e menção no incerteza.
+
+###### 5. Anexos B e C achatados
+
+- Causa: a extração do PDF junta itens na mesma linha, gruda as chamadas de nota de rodapé no texto ("Advertências1", "Oferta3"), põe as notas de rodapé 1 a 12 no corpo e achata a tabela de dados finais de colocação do Anexo C. O consolidado (convertido sem notas) traz um item por linha e a tabela.
+- Decisão: vale o texto da fonte até a conferência no DOU; 81 entradas de linha e uma de contagem de tabelas (0 na fonte, 1 no consolidado) [verificar no DOU].
+
+###### 6. Observações
+
+- Art. 33, parágrafo único, I, b: termina em "; e" sem alínea c, no ato e no consolidado; copiado literalmente.
+- Vigência: a Res. CVM 236/25 entrou em vigor na publicação (2025-12-12). O Art. 68 original (vigor em 2026-01-02) passou a 2026-03-16 antes de a redação original entrar em vigor; as duas datas são anteriores à data-base (2026-10-29).
+- Fonte do ato: só o DOCX da CVM (sem arquivo no ctresb) [verificar no DOU].

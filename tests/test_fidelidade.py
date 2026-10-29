@@ -333,6 +333,13 @@ class TestDivergenciasAceitas(unittest.TestCase):
         dif, n = analisar_final(norma, self.CONSOLIDADO, [SETE])
         self.assertEqual((dif, n), ([], 1))
 
+    def test_linha_repetida_e_coberta_por_uma_entrada_e_copia_nao_e_erro(self):
+        linha_n, linha_c = SETE["norma"], SETE["consolidado"]
+        norma = norma_com_incerteza("## Art. 9º\n\n%s\n\n%s\n\nParágrafo único. Fim.\n" % (linha_n, linha_n))
+        cons = "Art. 9º\n\n%s\n\n%s\n\nParágrafo único. Fim.\n" % (linha_c, linha_c)
+        self.assertEqual(diferencas_final(norma, cons, [SETE]), [])
+        self.assertEqual(diferencas_final(norma, cons, [SETE, dict(SETE)]), [])
+
     def test_entrada_sem_par_e_erro_de_aceita_nao_usada(self):
         norma = norma_com_incerteza("## Art. 9º\n\nA substituição deve ser comunicada no prazo de até 7 (sete) dias úteis.\n\nParágrafo único. Fim.\n")
         dif = diferencas_final(norma, self.CONSOLIDADO, [SETE])

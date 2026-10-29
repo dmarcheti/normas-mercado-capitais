@@ -127,7 +127,7 @@ def _incerteza(md_norma):
 def _aplicar_aceitas(difs, aceitas, incerteza):
     """Tira de `difs` (lista de dicts lado/texto) o que as aceitas cobrem; devolve
     (restantes, erros, nº de aceitas usadas)."""
-    erros, usadas = [], 0
+    erros, usadas, vistas = [], 0, []
     for a in aceitas:
         base = a["dispositivo"].split(",")[0].strip()
         if base.lower() not in incerteza.lower():
@@ -143,9 +143,14 @@ def _aplicar_aceitas(difs, aceitas, incerteza):
                 break
             achados.append(alvo)
         if not achados:
+            # a entrada cobre as linhas iguais no mesmo contexto; cópia sem par em
+            # outro contexto não é erro
+            if a in vistas:
+                continue
             erros.append("aceita não usada: %s (%s)" % (a["dispositivo"], a["ref"]))
             continue
         difs = [d for d in difs if d not in achados]
+        vistas.append(a)
         usadas += 1
     return difs, erros, usadas
 
