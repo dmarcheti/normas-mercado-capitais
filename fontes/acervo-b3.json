@@ -1,0 +1,4204 @@
+{
+ "fonte": "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/",
+ "lido_em": "2026-10-29",
+ "paginas": [
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes-8AE490CA69088BF00169104FF0AD7417/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes-8ae490ca69088bf00169104ff0ad7417/plataforma-eletronica/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/layouts-de-implementacao/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/cau-controle-de-acesso-unificado.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/compensacao-liquidacao-e-gerenciamento-de-riscos.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/escrituracao.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/listagem.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/sro-operacoes-de-seguros.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/tesouro-direto.htm",
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+ ],
+ "documentos": [
+  {
+   "url": "https://www.b3.com.br/data/files/5F/A0/92/49/E6F55810F534EB48AC094EA8/CADASTRO%20DE%20PARTICIPANTES.pdf",
+   "arquivo": "CADASTRO DE PARTICIPANTES.pdf",
+   "rotulos": [
+    "MANUAL DE OPERAÇÕES - CADASTRO DE PARTICIPANTES"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 29 Dec 2022 19:49:21 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "cadastro de participantes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/23/E7/7F/02/E29D0A105BF9020AAC094EA8/Glossario%20-%20Com%20marcas.pdf",
+   "arquivo": "Glossario - Com marcas.pdf",
+   "rotulos": [
+    "Glossário - Com Marcas",
+    "Glossário - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Sep 2026 15:27:54 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "glossario"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/AC/A2/AA/A9/34E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20com%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - com marcas.pdf",
+   "rotulos": [
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Com Marca",
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:38:04 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/2F/A2/FC/A9/34E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20sem%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - sem marcas.pdf",
+   "rotulos": [
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Sem Marca",
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Sem Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:38:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/08/E7/E3/12/E29D0A105BF9020AAC094EA8/Glossario.pdf",
+   "arquivo": "Glossario.pdf",
+   "rotulos": [
+    "Glossário - Sem Marcas",
+    "Glossário - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Sep 2026 15:27:55 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "glossario"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/76/60/EA/80/D9C379106B8BCB69AC094EA8/Guia%20de%20Cadastro.pdf",
+   "arquivo": "Guia de Cadastro.pdf",
+   "rotulos": [
+    "Guia de Cadastro (.PDF, 700 KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 04 Jun 2025 20:23:34 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "guia de cadastro"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/37/22/10/D6/9AC379106B8BCB69AC094EA8/Manual%20Plataforma%20Integrada%20de%20Cadastro.pdf",
+   "arquivo": "Manual Plataforma Integrada de Cadastro.pdf",
+   "rotulos": [
+    "Manual Plataforma Integrada de Cadastro (.PDF, 800KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 04 Jun 2025 20:37:06 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "manual plataforma integrada de cadastro"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/BF/D5/9F/ED/6B3D0A105BF9020AAC094EA8/Manual%20de%20Acesso%20da%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Manual de Acesso da B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de acesso - Com Marcas*"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:59:33 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de acesso da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/5D/D5/0E/ED/6B3D0A105BF9020AAC094EA8/Manual%20de%20Acesso%20da%20B3.pdf",
+   "arquivo": "Manual de Acesso da B3.pdf",
+   "rotulos": [
+    "Manual de acesso - Sem Marcas*"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:59:33 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "manual de acesso da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D8/E6/1A/84/4818F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20com%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - com marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DE DIREITO DE ACESSO DO BALCÃO B3 - Com Marca (.PDF, 780KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:52:39 GMT",
+   "marcas": "com",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3B/E6/EB/84/4818F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20sem%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DE DIREITO DE ACESSO DO BALCÃO B3 - Sem Marca (.PDF, 763KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:52:39 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/59/C0/87/8F/F9C379106B8BCB69AC094EA8/Manual%20de%20Usuario%20do%20Sistema%20Integrado%20de%20Cadastro%20B3%20-%20SINCAD.pdf",
+   "arquivo": "Manual de Usuario do Sistema Integrado de Cadastro B3 - SINCAD.pdf",
+   "rotulos": [
+    "Manual do Usuário do Sistema Integrado de Cadastro B3 - SINCAD (.PDF, 3MB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 04 Jun 2025 20:26:46 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "manual de usuario do sistema integrado de cadastro b3 sincad"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/84/94/3C/9F/3409A81073B0F1A8DC0D8AA8/Manual%20de%20Usu%C3%A1rio%20do%20Sistema%20Integrado%20de%20Cadastro%20B3-%20SINCAD_V3_PUBLICAR.pdf",
+   "arquivo": "Manual de Usuário do Sistema Integrado de Cadastro B3- SINCAD_V3_PUBLICAR.pdf",
+   "rotulos": [],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 13 Sep 2023 20:38:09 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "manual de usuário do sistema integrado de cadastro b3 sincad v3 publicar"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FA/D5/5C/ED/6B3D0A105BF9020AAC094EA8/Regulamento%20de%20Acesso%20da%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Regulamento de Acesso da B3 - Com marcas.pdf",
+   "rotulos": [
+    "Regulamento de acesso - Com Marcas*"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:59:33 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento de acesso da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/98/D5/DA/ED/6B3D0A105BF9020AAC094EA8/Regulamento%20de%20Acesso%20da%20B3.pdf",
+   "arquivo": "Regulamento de Acesso da B3.pdf",
+   "rotulos": [
+    "Regulamento de acesso - Sem Marcas*"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:59:33 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de acesso da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E4/F3/D1/EC/23871A10787A431ADC0D8AA8/Regulamento%20de%20Clube%20de%20Investimento.pdf",
+   "arquivo": "Regulamento de Clube de Investimento.pdf",
+   "rotulos": [
+    "Regulamento de clubes de investimento"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/acesso/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:32:39 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de clube de investimento"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B6/32/F3/C8/355C0A105BF9020AAC094EA8/Regulamento%20do%20Balcao%20B3%20-%2021092026%20-%20com%20marcas.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 21092026 - com marcas.pdf",
+   "rotulos": [
+    "REGULAMENTO DO BALCÃO B3 - Com Marca (.PDF, 2MB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 18:56:24 GMT",
+   "marcas": "com",
+   "data_nome": "2026-09-21",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/39/32/8B/D8/355C0A105BF9020AAC094EA8/Regulamento%20do%20Balcao%20B3%20-%2021092026%20-%20sem%20marcas.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 21092026 - sem marcas.pdf",
+   "rotulos": [
+    "REGULAMENTO DO BALCÃO B3 - Sem Marca (.PDF, 2MB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 18:56:24 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-09-21",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FF/83/D6/2B/03A1F910ADC36BE9AC094EA8/Regulamento%20do%20Balcao%20B3%20-%2030062026%20-%20com%20marca.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 30062026 - com marca.pdf",
+   "rotulos": [],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 30 Jun 2026 20:20:27 GMT",
+   "marcas": "com",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/18/70/0B/4D/7D4D0A105BF9020AAC094EA8/Portal%20do%20CAU%20-%20Manual%20do%20Privilegiado.pdf",
+   "arquivo": "Portal do CAU - Manual do Privilegiado.pdf",
+   "rotulos": [
+    "Portal do CAU - Manual do Privilegiado (.PDF, 714KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/cau-controle-de-acesso-unificado.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 19:15:10 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "cau-controle-de-acesso-unificado",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "portal do cau manual do privilegiado"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/54/80/FE/4D/7D4D0A105BF9020AAC094EA8/Portal%20do%20CAU%20-%20Privileged%20User%20Manual%20_EN_.pdf",
+   "arquivo": "Portal do CAU - Privileged User Manual _EN_.pdf",
+   "rotulos": [
+    "Portal do CAU - Privileged User Manual (.PDF, 540KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/cau-controle-de-acesso-unificado.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 19:15:10 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "cau-controle-de-acesso-unificado",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "portal do cau privileged user manual en"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D4/F3/C3/7C/B73489100A29E189AC094EA8/ADM%20de%20PARTICIPANTES.pdf",
+   "arquivo": "ADM de PARTICIPANTES.pdf",
+   "rotulos": [
+    "Administração de Participantes"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Jul 2025 21:27:22 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "adm de participantes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/AF/55/C4/F0/1A641A108D00541AAC094EA8/CADASTRAMENTO%20E%20EMISSAO-%20TVM.pdf",
+   "arquivo": "CADASTRAMENTO E EMISSAO- TVM.pdf",
+   "rotulos": [
+    "Cadastramento e Emissão"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 16 Oct 2026 21:32:03 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "cadastramento e emissao tvm"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C6/54/8A/45/D73489100A29E189AC094EA8/CADASTRO%20DE%20PARTICIPANTES.pdf",
+   "arquivo": "CADASTRO DE PARTICIPANTES.pdf",
+   "rotulos": [
+    "Cadastro de Participantes"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Jul 2025 21:29:04 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "cadastro de participantes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B5/A3/E6/90/3AE2A8103234E0A8AC094EA8/CBIO%20_CREDITO%20DE%20DESCARBONIZACAO_.pdf",
+   "arquivo": "CBIO _CREDITO DE DESCARBONIZACAO_.pdf",
+   "rotulos": [
+    "Crédito de Descarbonização - CBIO"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Aug 2023 21:39:11 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "cbio credito de descarbonizacao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/60/53/64/D1/9A111A10C90F7F0AAC094EA8/CEDULA%20DE%20CREDITO%20BANCARIO.pdf",
+   "arquivo": "CEDULA DE CREDITO BANCARIO.pdf",
+   "rotulos": [
+    "Cédula de Crédito Bancário [CCB]"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 06 Oct 2026 14:40:58 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "cedula de credito bancario"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/94/22/8D/11/87E7E7108BD66BD7AC094EA8/CONTRATO%20DE%20NETTING.pdf",
+   "arquivo": "CONTRATO DE NETTING.pdf",
+   "rotulos": [
+    "Contrato de Netting"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 21 Jan 2022 21:08:25 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "contrato de netting"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C2/F7/A3/87/907E38101E311E28AC094EA8/CUSTO%20CETIP.pdf",
+   "arquivo": "CUSTO CETIP.pdf",
+   "rotulos": [
+    "Custo Cetip"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Oct 2022 17:41:42 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "custo cetip"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/98/56/C2/4F/B51819104FE62719AC094EA8/CUSTODIA.pdf",
+   "arquivo": "CUSTODIA.pdf",
+   "rotulos": [
+    "Custódia"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 23 Aug 2024 22:29:33 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "custodia"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F9/E2/EC/B4/24D387109C114187AC094EA8/Certificacao%20Digital%20Cetip%20_1_.pdf",
+   "arquivo": "Certificacao Digital Cetip _1_.pdf",
+   "rotulos": [
+    "Certificação Digital para Relatórios"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 16 Mar 2021 22:57:38 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "certificacao digital cetip 1"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/06/32/FA/30/92FFD910E7DB5DD9AC094EA8/DEPOSITARIA%20ARQUIVOS.pdf",
+   "arquivo": "DEPOSITARIA ARQUIVOS.pdf",
+   "rotulos": [
+    "Depositária - Arquivos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 06 May 2026 21:19:31 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "depositaria arquivos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DB/47/50/A2/4BE2A8103234E0A8AC094EA8/DEPOSITARIA.pdf",
+   "arquivo": "DEPOSITARIA.pdf",
+   "rotulos": [
+    "Depositária"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Aug 2023 21:57:54 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "depositaria"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/44/A2/14/22/FD6BD9100A63AAD9AC094EA8/DERIVATIVOS%20COM%20CCP.pdf",
+   "arquivo": "DERIVATIVOS COM CCP.pdf",
+   "rotulos": [
+    "Derivativos com CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 22 Apr 2026 20:26:10 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "derivativos com ccp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E1/A4/B3/6F/8E211A10C90F7F0AAC094EA8/DERIVATIVOS%20REALIZADOS%20NO%20EXTERIOR.pdf",
+   "arquivo": "DERIVATIVOS REALIZADOS NO EXTERIOR.pdf",
+   "rotulos": [
+    "Derivativos Realizados no Exterior"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 06 Oct 2026 20:30:20 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "derivativos realizados no exterior"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E1/65/55/D9/15290A105BF9020AAC094EA8/DIREITO%20CREDITORIO.pdf",
+   "arquivo": "DIREITO CREDITORIO.pdf",
+   "rotulos": [
+    "Direito Creditório"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 11 Sep 2026 21:13:37 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "direito creditorio"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B0/12/E1/EE/199CF91094DCD8F9AC094EA8/Duplicata%20Escritural%20-%20Manual%20Operacional.pdf",
+   "arquivo": "Duplicata Escritural - Manual Operacional.pdf",
+   "rotulos": [
+    "Duplicata Escritural"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 03 Aug 2026 21:40:12 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "duplicata escritural manual operacional"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/48/24/95/0B/4F361A108D00541AAC094EA8/ENVIAR%20ARQUIVOS.pdf",
+   "arquivo": "ENVIAR ARQUIVOS.pdf",
+   "rotulos": [
+    "Enviar Arquivos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 22 Oct 2026 14:12:23 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "enviar arquivos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B5/77/16/98/C77B2810F9BC5928AC094EA8/ESTRATEGIA%20DE%20RENDA%20FIXA.pdf",
+   "arquivo": "ESTRATEGIA DE RENDA FIXA.pdf",
+   "rotulos": [
+    "Estratégia de Renda Fixa"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 19 Aug 2022 19:02:48 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "estrategia de renda fixa"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7E/60/F7/E2/7E631A103BBB511AAC094EA8/FUNDOS%2021.pdf",
+   "arquivo": "FUNDOS 21.pdf",
+   "rotulos": [
+    "Fundos 21"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 13 Oct 2026 20:14:43 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "fundos 21"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/1D/01/D5/8D/F05D8810C7AB8988AC094EA8/GESTAO%20DE%20COLATERAL.pdf",
+   "arquivo": "GESTAO DE COLATERAL.pdf",
+   "rotulos": [
+    "Gestão de Colateral"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 19 Jun 2023 19:09:26 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "gestao de colateral"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/84/B3/4C/FE/21E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20com%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - com marcas.pdf",
+   "rotulos": [
+    "G",
+    "lossario das Normas do Balcao B3 - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 17:44:56 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/5A/B3/9F/FE/21E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20sem%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - sem marcas.pdf",
+   "rotulos": [
+    "Glossario das Normas do Balcao B3 - Sem Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 17:44:56 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Glossario do Balcao B3 - 31082026 - sem marcas.pdf",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/8F/73/D6/FB/6CEDD7108BD66BD7AC094EA8/Guia%20de%20Orientacoes%20-%20Segundo%20Fator%20de%20Autenticacao.pdf",
+   "arquivo": "Guia de Orientacoes - Segundo Fator de Autenticacao.pdf",
+   "rotulos": [
+    "Guia de Orientações - Segundo Fator de Autenticação_email"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 21 Dec 2021 20:55:07 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "guia de orientacoes segundo fator de autenticacao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DA/61/D1/F6/CC6B2810F9BC5928AC094EA8/INDICES%20FINANCEIROS.pdf",
+   "arquivo": "INDICES FINANCEIROS.pdf",
+   "rotulos": [
+    "Índices Financeiros"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 19 Aug 2022 15:50:27 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "indices financeiros"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FD/50/A5/EC/3E631A103BBB511AAC094EA8/LEIAUTES%20DERIVATIVOS%20COM%20CCP.pdf",
+   "arquivo": "LEIAUTES DERIVATIVOS COM CCP.pdf",
+   "rotulos": [
+    "Leiautes - Derivativos com CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 13 Oct 2026 20:11:01 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "leiautes derivativos com ccp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/6D/84/60/65/9D5C0A105BF9020AAC094EA8/Layout%20em%20Implementacao%20%20%20Conciliacao%20de%20Posicao%20de%20Derivativos%20com%20CCP%20-%20NEGBALCAO.pdf",
+   "arquivo": "Layout em Implementacao   Conciliacao de Posicao de Derivativos com CCP - NEGBALCAO.pdf",
+   "rotulos": [
+    "Conciliação de Posição de Derivativos com CCP - NEGBALCÃO"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/layouts-de-implementacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 21:22:31 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "layout em implementacao conciliacao de posicao de derivativos com ccp negbalcao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/60/A4/AC/EF/9D5C0A105BF9020AAC094EA8/Layout%20em%20Implementacao%20%20%20Registro%20de%20Contrato%20de%20Opcao%20CCP.pdf",
+   "arquivo": "Layout em Implementacao   Registro de Contrato de Opcao CCP.pdf",
+   "rotulos": [
+    "Registro de Contrato de Opção CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/layouts-de-implementacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 21:23:13 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "layout em implementacao registro de contrato de opcao ccp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/26/84/2D/45/9D5C0A105BF9020AAC094EA8/Layout%20em%20Implementacao%20-%20Informacoes%20Tecnicas%20-%20Arquivo%20FGC302%201.pdf",
+   "arquivo": "Layout em Implementacao - Informacoes Tecnicas - Arquivo FGC302 1.pdf",
+   "rotulos": [
+    "Informações Técnicas - Arquivo FGC302"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/layouts-de-implementacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 21:22:31 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "layout em implementacao informacoes tecnicas arquivo fgc302"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/15/F3/43/F2/2AEC0A105BF9020AAC094EA8/Layout%20em%20Implementa%C3%A7%C3%A3o%20%E2%80%93%20ATUALIZA%C3%87%C3%83O%20DE%20PU%20DE%20EVENTOS.pdf",
+   "arquivo": "Layout em Implementação – ATUALIZAÇÃO DE PU DE EVENTOS.pdf",
+   "rotulos": [
+    "Atualização PU de Eventos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/layouts-de-implementacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 23 Sep 2026 14:18:50 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "layout em implementação – atualização de pu de eventos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/63/D5/B9/2B/0BE2A8103234E0A8AC094EA8/Leiautes%20CBIO%20-%20Enviar%20e%20Receber.pdf",
+   "arquivo": "Leiautes CBIO - Enviar e Receber.pdf",
+   "rotulos": [
+    "Leiautes CBIO - Enviar e Receber Arquivos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Aug 2023 21:54:06 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "leiautes cbio enviar e receber"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/74/B3/53/3A/596638101E311E28AC094EA8/MANUTENCAO%20DE%20GARANTIAS.pdf",
+   "arquivo": "MANUTENCAO DE GARANTIAS.pdf",
+   "rotulos": [
+    "Manutenção de Garantias"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 22 Sep 2022 19:03:46 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manutencao de garantias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/41/45/40/58/F9641A108D00541AAC094EA8/MDA.pdf",
+   "arquivo": "MDA.pdf",
+   "rotulos": [
+    "MDA - Módulo de Distribuição de Ativos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 16 Oct 2026 21:30:40 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "mda"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/81/20/4C/25/C489E91064BF82E9AC094EA8/MID%20-%20MODULO%20DE%20INFORMACAO%20DE%20DERIVATIVOS.pdf",
+   "arquivo": "MID - MODULO DE INFORMACAO DE DERIVATIVOS.pdf",
+   "rotulos": [
+    "MID – Módulo de Informação de Derivativos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 05 Jun 2026 14:59:59 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "mid modulo de informacao de derivativos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/40/00/76/B9/CE62491029BEEC39AC094EA8/MN%20CCB%20-%2002012025%20-%20Com%20marca.pdf",
+   "arquivo": "MN CCB - 02012025 - Com marca.pdf",
+   "rotulos": [
+    "CCB, CCCB, CCE, CCR e NCE - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 Jan 2025 12:10:29 GMT",
+   "marcas": "com",
+   "data_nome": "2025-01-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn ccb"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C2/00/02/C9/CE62491029BEEC39AC094EA8/MN%20CCB%20-%2002012025%20-%20Sem%20marca.pdf",
+   "arquivo": "MN CCB - 02012025 - Sem marca.pdf",
+   "rotulos": [
+    "CCB, CCCB, CCE, CCR e NCE - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 Jan 2025 12:10:30 GMT",
+   "marcas": "sem",
+   "data_nome": "2025-01-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "mn ccb"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B6/33/CD/2F/5C93F8100E866AE8AC094EA8/MN%20CCI%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "MN CCI - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "CCI - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn cci"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/19/33/A0/3F/5C93F8100E866AE8AC094EA8/MN%20CCI%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "MN CCI - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "CCI - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "mn cci"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7B/33/C3/3F/5C93F8100E866AE8AC094EA8/MN%20COE%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "MN COE - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "COE - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn coe"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DD/33/F6/3F/5C93F8100E866AE8AC094EA8/MN%20COE%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "MN COE - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "COE - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "mn coe"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/AA/D2/BA/C3/FAF00A1094DCD8F9AC094EA8/MN%20Direito%20Credit%C3%B3rio%20e%20Unidade%20Receb%C3%ADveis%20-%2010082026%20-%20com%20marcas.pdf",
+   "arquivo": "MN Direito Creditório e Unidade Recebíveis - 10082026 - com marcas.pdf",
+   "rotulos": [
+    "Manual de Normas de Direito Creditório e de Unidade de Recebíveis - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Aug 2026 12:25:38 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-10",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn direito creditório e unidade recebíveis"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7C/D2/45/E3/FAF00A1094DCD8F9AC094EA8/MN%20Direito%20Credit%C3%B3rio%20e%20Unidade%20Receb%C3%ADveis%20-%2010082026%20-%20sem%20marcas.pdf",
+   "arquivo": "MN Direito Creditório e Unidade Recebíveis - 10082026 - sem marcas.pdf",
+   "rotulos": [
+    "Manual de Normas de Direito Creditório e de Unidade de Recebíveis - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Aug 2026 12:25:38 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-10",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mn direito creditório e unidade recebíveis"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7E/43/3E/4F/5C93F8100E866AE8AC094EA8/MN%20Gestao%20de%20Garantias%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "MN Gestao de Garantias - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Gestão de Garantias - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn gestao de garantias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D0/53/A0/5F/5C93F8100E866AE8AC094EA8/MN%20Gestao%20de%20Garantias%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "MN Gestao de Garantias - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Gestão de Garantias - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:24 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mn gestao de garantias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C4/42/69/2A/1FE3D9101BEEB2D9AC094EA8/MN%20de%20Operacao%20com%20Derivativo%20-%2030032026%20-%20Com%20marca.pdf",
+   "arquivo": "MN de Operacao com Derivativo - 30032026 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Operação com Derivativo - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 30 Mar 2026 13:31:56 GMT",
+   "marcas": "com",
+   "data_nome": "2026-03-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn de operacao com derivativo"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/47/42/DC/2A/1FE3D9101BEEB2D9AC094EA8/MN%20de%20Operacao%20com%20Derivativo%20-%2030032026%20-%20Sem%20marca.pdf",
+   "arquivo": "MN de Operacao com Derivativo - 30032026 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Operação com Derivativo - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 30 Mar 2026 13:31:57 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-03-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mn de operacao com derivativo"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F5/23/5C/63/05E50A105BF9020AAC094EA8/MN%20dos%20Subsistemas%20-%2031082026%20-%20com%20marcas.pdf",
+   "arquivo": "MN dos Subsistemas - 31082026 - com marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO SUBSISTEMA DE REGISTRO, DO SUBSISTEMA DE DEPÓSITO CENTRALIZADO E DO SUBSISTEMA DE COMPENSAÇÃO E LIQUIDAÇÃO - Com Marca",
+    "MANUAL DE NORMAS DO SUBSISTEMA DE REGISTRO, DO SUBSISTEMA DE DEPÓSITO CENTRALIZADO E DO SUBSISTEMA DE COMPENSAÇÃO E LIQUIDAÇÃO - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:51:50 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DE/B3/D1/0F/21E50A105BF9020AAC094EA8/MN%20dos%20Subsistemas%20-%2031082026%20-%20com%20marcas.pdf",
+   "arquivo": "MN dos Subsistemas - 31082026 - com marcas.pdf",
+   "rotulos": [
+    "Manual de Normas dos Subsistemas - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 17:44:56 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/78/23/4F/63/05E50A105BF9020AAC094EA8/MN%20dos%20Subsistemas%20-%2031082026%20-%20sem%20marcas.pdf",
+   "arquivo": "MN dos Subsistemas - 31082026 - sem marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO SUBSISTEMA DE REGISTRO, DO SUBSISTEMA DE DEPÓSITO CENTRALIZADO E DO SUBSISTEMA DE COMPENSAÇÃO E LIQUIDAÇÃO - Sem Marca",
+    "MANUAL DE NORMAS DO SUBSISTEMAS DE REGISTRO, DO SUBSISTEMA DE DEPÓSITO CENTRALIZADO E DO SUBSISTEMA DE COMPENSAÇÃO E LIQUIDAÇÃO - Sem Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:51:50 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/A6/C3/E3/0F/21E50A105BF9020AAC094EA8/MN%20dos%20Subsistemas%20-%2031082026%20-%20sem%20marcas.pdf",
+   "arquivo": "MN dos Subsistemas - 31082026 - sem marcas.pdf",
+   "rotulos": [
+    "Manual de Normas dos Subsistemas - Sem Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 17:44:56 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de MN dos Subsistemas - 31082026 - sem marcas.pdf",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C1/66/59/07/42871A10F2BF771AAC094EA8/MPO%20da%20Camara%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "MPO da Camara B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de procedimentos operacionais da Câmara B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mpo da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/24/66/4B/07/42871A10F2BF771AAC094EA8/MPO%20da%20Camara%20B3.pdf",
+   "arquivo": "MPO da Camara B3.pdf",
+   "rotulos": [
+    "Manual de procedimentos ope racionais da Câmara B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mpo da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/72/E4/4D/8B/173D0A105BF9020AAC094EA8/MPO%20da%20Central%20Depositaria%20de%20%20RV%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "MPO da Central Depositaria de  RV B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de Procedimentos Operacionais da Central Depositária de Renda Variável B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:44:02 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mpo da central depositaria de rv b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/10/E4/9B/8B/173D0A105BF9020AAC094EA8/MPO%20da%20Central%20Depositaria%20de%20%20RV%20B3.pdf",
+   "arquivo": "MPO da Central Depositaria de  RV B3.pdf",
+   "rotulos": [
+    "Manual de Procedimentos Operacionais da Central Depositária de Renda Variável B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:44:02 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mpo da central depositaria de rv b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/56/12/70/85/8205E91064BF82E9AC094EA8/MPO%20de%20Alocacao%20de%20Renda%20Fixa%20-%2025052026%20-%20Com%20marca.pdf",
+   "arquivo": "MPO de Alocacao de Renda Fixa - 25052026 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Procedimentos Operacionais de Alocação de Renda Fixa - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 22 May 2026 14:48:02 GMT",
+   "marcas": "com",
+   "data_nome": "2026-05-25",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mpo de alocacao de renda fixa"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D3/12/3E/75/8205E91064BF82E9AC094EA8/MPO%20de%20Alocacao%20de%20Renda%20Fixa%20-%2025052026%20-%20Sem%20marca.pdf",
+   "arquivo": "MPO de Alocacao de Renda Fixa - 25052026 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Procedimentos Operacionais de Alocação de Renda Fixa - Sem marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 22 May 2026 14:48:02 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-05-25",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mpo de alocacao de renda fixa"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F3/01/6F/83/1127F910FC0436F9AC094EA8/Manual%20CAU%20-%20Duplicatas.pdf",
+   "arquivo": "Manual CAU - Duplicatas.pdf",
+   "rotulos": [
+    "Duplicata Escritural - Gestão de Credenciais"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 17 Jul 2026 21:52:39 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual cau duplicatas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/48/56/21/07/42871A10F2BF771AAC094EA8/Manual%20de%20Administracao%20de%20Risco%20da%20Camara%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Manual de Administracao de Risco da Camara B3 - Com marcas.pdf",
+   "rotulos": [],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de administracao de risco da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/10/86/4A/98/4C8D0A105BF9020AAC094EA8/Manual%20de%20Administracao%20de%20Risco%20da%20Camara%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Manual de Administracao de Risco da Camara B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de administração de risco da Câmara B3 - Com marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Sep 2026 13:32:35 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de administracao de risco da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/AA/56/63/07/42871A10F2BF771AAC094EA8/Manual%20de%20Administracao%20de%20Risco%20da%20Camara%20B3.pdf",
+   "arquivo": "Manual de Administracao de Risco da Camara B3.pdf",
+   "rotulos": [
+    "Manual de administração de risco da Câmara B3 - Sem marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de administracao de risco da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/04/D5/72/D3/393D0A105BF9020AAC094EA8/Manual%20de%20Gerenciamento%20de%20Risco%20da%20Camara%20de%20Cambio%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Manual de Gerenciamento de Risco da Camara de Cambio B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de Gerenciamento de Risco da Camara de Cambio B3 - Com marcas.pdf",
+    "Manual de gerenciamento de risco da Câmara de Câmbio B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:20:38 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de gerenciamento de risco da camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/66/D5/F3/D3/393D0A105BF9020AAC094EA8/Manual%20de%20Gerenciamento%20de%20Risco%20da%20Camara%20de%20Cambio%20B3.pdf",
+   "arquivo": "Manual de Gerenciamento de Risco da Camara de Cambio B3.pdf",
+   "rotulos": [
+    "Manual de gerenciamento de risco da Câmara de Câmbio B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:20:39 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de gerenciamento de risco da camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/94/73/86/AB/36048710240ED387AC094EA8/Manual%20de%20Metodologia%20de%20Marcacao%20a%20Mercado.pdf",
+   "arquivo": "Manual de Metodologia de Marcacao a Mercado.pdf",
+   "rotulos": [
+    "Manual de Metodologia de Marcação a Mercado"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 17 Mar 2021 13:33:01 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de metodologia de marcacao a mercado"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FF/B2/45/BE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20-%20CBIO%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas - CBIO - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Crédito de Descarbonização (CBIO) e Crédito de Carbono - Com marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 08 May 2024 14:09:35 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas cbio"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/52/C2/47/BE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20-%20CBIO%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas - CBIO - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Crédito de Descarbonização (CBIO) e Crédito de Carbono - Sem marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 08 May 2024 14:09:03 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas cbio"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/9E/54/9E/B0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20Agente%20de%20Calculo%20e%20Acelerador%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas Agente de Calculo e Acelerador - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "Agente de Cálculo e Acelerador - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas agente de calculo e acelerador"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F0/64/A0/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20Agente%20de%20Calculo%20e%20Acelerador%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas Agente de Calculo e Acelerador - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "Agente de Cálculo e Acelerador - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas agente de calculo e acelerador"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/79/C2/AD/BE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20B3%20Ag.%20de%20Calculo%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas B3 Ag. de Calculo - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Atuação da B3 como Agente de Cálculo - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas b3 ag de calculo"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DB/C2/BF/BE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20B3%20Ag.%20de%20Calculo%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas B3 Ag. de Calculo - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Atuação da B3 como Agente de Cálculo - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas b3 ag de calculo"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3E/C2/D1/CE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20CDA%20WA%20e%20CPR%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas CDA WA e CPR - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "CDA, WA e CPR - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas cda wa e cpr"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/90/D2/D3/CE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20CDA%20WA%20e%20CPR%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas CDA WA e CPR - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "CDA, WA e CPR - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas cda wa e cpr"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F2/D2/26/CE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20CIA%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas CIA - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "CIA de Distribuição Pública - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas cia"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/55/D2/A8/CE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20CIA%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas CIA - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "CIA de Distribuição Pública - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas cia"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B6/72/CB/34/ACD6A9105B12E5A9AC094EA8/Manual%20de%20Normas%20Colocacao%20CRA%20CRI%20Deb%20e%20Nota%20Comercial%20-%2010112025%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas Colocacao CRA CRI Deb e Nota Comercial - 10112025 - Com marca.pdf",
+   "rotulos": [
+    "CRI de Distribuição Pública, CRA de Distribuição Pública, Debênture e Nota Comercial - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 10 Nov 2025 12:42:44 GMT",
+   "marcas": "com",
+   "data_nome": "2025-11-10",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas colocacao cra cri deb e nota comercial"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/39/72/46/44/ACD6A9105B12E5A9AC094EA8/Manual%20de%20Normas%20Colocacao%20CRA%20CRI%20Deb%20e%20Nota%20Comercial%20-%2010112025%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas Colocacao CRA CRI Deb e Nota Comercial - 10112025 - Sem marca.pdf",
+   "rotulos": [
+    "CRI de Distribuição Pública, CR A de Distribuição Pública, Debênture e Nota Comercial - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 10 Nov 2025 12:42:44 GMT",
+   "marcas": "sem",
+   "data_nome": "2025-11-10",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas colocacao cra cri deb e nota comercial"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7C/D2/4F/CE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DCE%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas DCE - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Instrumento Financeiro Derivativo Contratado no Exterior - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas dce"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DE/D2/81/DE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DCE%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas DCE - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Instrumento Financeiro Derivativo Contratado no Exterior - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas dce"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/31/E2/83/DE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DDP%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas DDP - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Operação de Proteção Realizada com Instituição Financeira do Exterior ou em Bolsa Estrangeira- Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas ddp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/93/E2/D5/DE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DDP%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas DDP - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Operação de Proteção Realizada com Instituição Financeira do Exterior ou em Bolsa Estrangeira - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas ddp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B0/13/63/0F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DRRC%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas DRRC - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Operação de Derivativo com Redutor de Risco de Crédito (“DRRC”) - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas drrc"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/13/13/06/0F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20DRRC%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas DRRC - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Operação de Derivativo com Redutor de Risco de Crédito (“DRRC”) - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas drrc"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/75/13/B8/0F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20Estrategia%20de%20Renda%20Fixa%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas Estrategia de Renda Fixa - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Estratégia de Renda Fixa com Opções Flexíveis sobre Taxa de Câmbio - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas estrategia de renda fixa"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D7/13/1B/0F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20Estrategia%20de%20Renda%20Fixa%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas Estrategia de Renda Fixa - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Estratégia de Renda Fixa com Opções Flexíveis sobre Taxa de Câmbio - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas estrategia de renda fixa"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3A/13/8D/0F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20LIG%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas LIG - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "LIG - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas lig"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/9C/13/40/1F/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20LIG%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas LIG - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "LIG - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas lig"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/18/64/66/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-CETIP%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-CETIP - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas MMG-Cetip - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas mmg cetip"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7A/64/A8/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-CETIP%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-CETIP - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas MMG-Cetip - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas mmg cetip"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DC/64/9A/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-SELIC%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-SELIC - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas MMG-Selic - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas mmg selic"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3F/64/BC/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-SELIC%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-SELIC - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas MMG-Selic - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas mmg selic"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/69/86/E0/9F/EFFCD910579CDBD9AC094EA8/Manual%20de%20Normas%20Plataforma%20de%20Negociacao%20do%20Balcao%20B3%20-%2027042026%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas Plataforma de Negociacao do Balcao B3 - 27042026 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas da Plataforma de Negociação do Balcão B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 27 Apr 2026 17:31:27 GMT",
+   "marcas": "com",
+   "data_nome": "2026-04-27",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas plataforma de negociacao do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E6/86/5E/8F/EFFCD910579CDBD9AC094EA8/Manual%20de%20Normas%20Plataforma%20de%20Negociacao%20do%20Balcao%20B3%20-%2027042026%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas Plataforma de Negociacao do Balcao B3 - 27042026 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas da Plataforma de Negociação do B alcão B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 27 Apr 2026 17:31:27 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-04-27",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas plataforma de negociacao do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/F5/E2/28/DE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20Contrato%20de%20Netting%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de Contrato de Netting - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Contrato de Netting - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de contrato de netting"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/58/E2/6A/DE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20Contrato%20de%20Netting%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de Contrato de Netting - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas de Contrato de Netting - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:22 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de contrato de netting"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/81/54/7C/94/B8C079106B8BCB69AC094EA8/Manual%20de%20Normas%20de%20Cotas%20de%20Fundos%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de Cotas de Fundos - Com marca.pdf",
+   "rotulos": [
+    "Cotas de Fundo de Investimento - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 May 2025 12:22:25 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de cotas de fundos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/04/54/AF/A4/B8C079106B8BCB69AC094EA8/Manual%20de%20Normas%20de%20Cotas%20de%20Fundos%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de Cotas de Fundos - Sem marca.pdf",
+   "rotulos": [
+    "Cotas de Fundo de Investimento - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 May 2025 12:22:25 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de cotas de fundos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7F/E2/11/EE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20DVE%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de DVE - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Instrumento Financeiro Derivativo Vinculado ao Custo da Dívida Originalmente Contratada em Empréstimo entre Residente ou Domiciliado no País e Residente ou Domiciliado no Exterior - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de dve"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D1/F2/23/EE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20DVE%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de DVE - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Registro de Informações e Condições de Instrumento Financeiro Derivativo Vinculado ao Custo da Dívida Originalmente Contratada em Empréstimo entre Residente ou Domiciliado no País e Residente ou Domiciliado no Exterior - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de dve"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/6D/75/8E/D8/B718F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20com%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - com marcas.pdf",
+   "rotulos": [
+    "Manual de Normas de Direito de Acesso - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:43:07 GMT",
+   "marcas": "com",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/CF/75/22/E8/B718F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20sem%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf",
+   "rotulos": [
+    "Manual de Normas de Direito de Acesso - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:43:07 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/70/D7/97/89/42A1F910ADC36BE9AC094EA8/Manual%20de%20Normas%20de%20Duplicata%20Escritural%20-%2030062026.pdf",
+   "arquivo": "Manual de Normas de Duplicata Escritural - 30062026.pdf",
+   "rotulos": [
+    "Manual de Normas de Duplicata Escritural"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 30 Jun 2026 20:07:15 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de duplicata escritural"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/34/F2/16/EE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20IF%20Elegivel%20p%20compor%20PR%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de IF Elegivel p compor PR - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Instrumento Elegível para compor Patrimônio de Referência - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de if elegivel p compor pr"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/96/F2/A8/EE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20IF%20Elegivel%20p%20compor%20PR%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de IF Elegivel p compor PR - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Instrumento Elegível para compor Patrimônio de Referência - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de if elegivel p compor pr"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/53/64/72/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20de%20Interm.%20de%20V%20Mobiliarios%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de Interm. de V Mobiliarios - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "Intermediário de Valores Mobiliários - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de interm de v mobiliarios"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B5/64/64/C0/A18429103054FD19AC094EA8/Manual%20de%20Normas%20de%20Interm.%20de%20V%20Mobiliarios%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de Interm. de V Mobiliarios - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "Intermediário de Valores Mobiliários - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:42:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de interm de v mobiliarios"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/BD/F2/8F/EE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20LAM%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de LAM - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Letra de Arrendamento Mercantil - LAM - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de lam"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/10/03/E1/FE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20LAM%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de LAM - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Letra de Arrendamento Mercantil - LAM - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de lam"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/72/03/64/FE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20LCA%20e%20CDCA%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de LCA e CDCA - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Manual de Normas de LCA e CDCA - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de lca e cdca"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D4/03/27/FE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20LCA%20e%20CDCA%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de LCA e CDCA - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Manual de Normas de LCA e CDCA - Sem Marca",
+    "Manual de Normas de LCA e CDCA - Com marcas",
+    "Manual de Normas de LCA e CDCA - Sem marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de lca e cdca"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/33/E7/37/76/4DD639107A1B8539AC094EA8/Manual%20de%20Normas%20de%20LCD%20-%2027112024.pdf",
+   "arquivo": "Manual de Normas de LCD - 27112024.pdf",
+   "rotulos": [
+    "Manual de Normas de LCD"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 27 Nov 2024 13:34:18 GMT",
+   "marcas": "n/a",
+   "data_nome": "2024-11-27",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de lcd"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/37/03/79/FE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20Letra%20Financeira%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas de Letra Financeira - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "Letra Financeira - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas de letra financeira"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/99/03/CB/FE/5C93F8100E866AE8AC094EA8/Manual%20de%20Normas%20de%20Letra%20Financeira%20-%2002052024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas de Letra Financeira - 02052024 - Sem marca.pdf",
+   "rotulos": [
+    "Letra Financeira - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:47:23 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas de letra financeira"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/23/66/BB/24/B4FEE910ADC36BE9AC094EA8/Manual%20de%20Normas%20do%20MDA%20-%2022062026%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas do MDA - 22062026 - Com marca.pdf",
+   "rotulos": [
+    "Módulo de Distribuição de Ativos - MDA - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 22 Jun 2026 12:25:47 GMT",
+   "marcas": "com",
+   "data_nome": "2026-06-22",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas do mda"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/A5/66/A0/34/B4FEE910ADC36BE9AC094EA8/Manual%20de%20Normas%20do%20MDA%20-%2022062026%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas do MDA - 22062026 - Sem marca.pdf",
+   "rotulos": [
+    "Módulo de Distribuição de Ativos - MDA - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 22 Jun 2026 12:25:48 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-06-22",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas do mda"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/25/C2/7A/63/0E17F910FC0436F9AC094EA8/Manual%20de%20Operacoes%20-%20COE.pdf",
+   "arquivo": "Manual de Operacoes - COE.pdf",
+   "rotulos": [
+    "COE - Certificado de Operações Estruturadas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 17 Jul 2026 20:59:07 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes coe"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B2/56/E5/E2/4926E810D34843E8AC094EA8/Manual%20de%20Operacoes%20-%20CONTROLE%20DE%20ACESSO.pdf",
+   "arquivo": "Manual de Operacoes - CONTROLE DE ACESSO.pdf",
+   "rotulos": [
+    "Controle de Acesso"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 21 Mar 2024 19:54:22 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes controle de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/23/50/67/6B/F32DE610BC232DE6AC094EA8/Manual%20de%20Operacoes%20-%20Cotacao.pdf",
+   "arquivo": "Manual de Operacoes - Cotacao.pdf",
+   "rotulos": [
+    "Cotação"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes-8ae490ca69088bf00169104ff0ad7417/plataforma-eletronica/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 04 Dec 2019 18:50:22 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes cotacao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DD/71/BD/FF/B02799100A29E189AC094EA8/Manual%20de%20Operacoes%20-%20Creditos%20de%20Carbono.pdf",
+   "arquivo": "Manual de Operacoes - Creditos de Carbono.pdf",
+   "rotulos": [
+    "Créditos de Carbono [CARB]"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 22 Sep 2025 15:30:15 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes creditos de carbono"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/97/57/76/5A/C6971A10F2BF771AAC094EA8/Manual%20de%20Operacoes%20-%20FUNCOES%20TVM.pdf",
+   "arquivo": "Manual de Operacoes - FUNCOES TVM.pdf",
+   "rotulos": [
+    "Funções - Títulos e Valores Mobiliários"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 18:15:26 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes funcoes tvm"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/9C/32/85/BA/8458E61008CB18E6AC094EA8/Manual%20de%20Operacoes%20-%20Leilao%20STN.pdf",
+   "arquivo": "Manual de Operacoes - Leilao STN.pdf",
+   "rotulos": [
+    "Leilão STN"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes-8ae490ca69088bf00169104ff0ad7417/plataforma-eletronica/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 19 Nov 2019 20:09:24 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes leilao stn"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C6/31/CB/2B/FA06E610B60806E6AC094EA8/Manual%20de%20Operacoes%20-%20Negociacao%20por%20Leilao.pdf",
+   "arquivo": "Manual de Operacoes - Negociacao por Leilao.pdf",
+   "rotulos": [
+    "Negociação por Leilão"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes-8ae490ca69088bf00169104ff0ad7417/plataforma-eletronica/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 12 Nov 2019 17:35:58 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes negociacao por leilao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/EB/91/D2/93/647239106EEC8429AC094EA8/Manual%20de%20Operacoes%20-%20Novo%20Portal%20Recebiveis%20de%20Cartao.pdf",
+   "arquivo": "Manual de Operacoes - Novo Portal Recebiveis de Cartao.pdf",
+   "rotulos": [
+    "Portal Recebíveis de Cartão"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 13 Nov 2024 20:45:35 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes novo portal recebiveis de cartao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/4F/22/3D/17/BA81E910014981E9AC094EA8/Manual%20de%20Operacoes%20-%20Recebiveis%20de%20Cartao.pdf",
+   "arquivo": "Manual de Operacoes - Recebiveis de Cartao.pdf",
+   "rotulos": [
+    "Recebíveis de Cartão"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 11 May 2026 20:12:29 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes recebiveis de cartao"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/6B/60/FB/7F/B844D9101BEEB2D9AC094EA8/Manual%20de%20Operacoes%20-%20SWAP.pdf",
+   "arquivo": "Manual de Operacoes - SWAP.pdf",
+   "rotulos": [
+    "Swap sem CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 31 Mar 2026 15:38:37 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes swap"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/80/37/A9/F3/8D4E7910C2881879AC094EA8/Manual%20de%20Operacoes%20-%20Trademate%20-%20vs%2011.2%201.pdf",
+   "arquivo": "Manual de Operacoes - Trademate - vs 11.2 1.pdf",
+   "rotulos": [
+    "Trademate"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 07 Jul 2025 12:24:28 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes trademate vs 11 2"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/0D/56/95/07/42871A10F2BF771AAC094EA8/Manual%20de%20Operacoes%20da%20Camara%20de%20Cambio%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Manual de Operacoes da Camara de Cambio B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de operações da Câmara de Câmbio B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de operacoes da camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/6F/56/97/07/42871A10F2BF771AAC094EA8/Manual%20de%20Operacoes%20da%20Camara%20de%20Cambio%20B3.pdf",
+   "arquivo": "Manual de Operacoes da Camara de Cambio B3.pdf",
+   "rotulos": [
+    "Manual de operações da Câmara de Câmbio B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de operacoes da camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/19/66/B1/6B/FC69D9107DD5C8D9AC094EA8/Manual%20de%20Operacoes_LCD.pdf",
+   "arquivo": "Manual de Operacoes_LCD.pdf",
+   "rotulos": [
+    "Letra de Crédito de Desenvolvimento [LCD]"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 16 Apr 2026 15:01:28 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual de operacoes lcd"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/A8/A5/63/E0/24C09810C7AB8988AC094EA8/Manual%20de%20Procedimentos%20Operacionais%20da%20Central%20Depositaria%20de%20Renda%20Variavel%20B3%20-%2020230630%20-%20com%20marcas.pdf",
+   "arquivo": "Manual de Procedimentos Operacionais da Central Depositaria de Renda Variavel B3 - 20230630 - com marcas.pdf",
+   "rotulos": [
+    "Versão em vigor",
+    "versão 23/02/2026"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 30 Jun 2023 12:23:23 GMT",
+   "marcas": "com",
+   "data_nome": "2023-06-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de procedimentos operacionais da central depositaria de renda variavel b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D8/C2/A6/6F/8127F910FC0436F9AC094EA8/Manual%20mTLS%20-%20Duplicatas.pdf",
+   "arquivo": "Manual mTLS - Duplicatas.pdf",
+   "rotulos": [
+    "Duplicata Escritural - Configuração do mTLS"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 17 Jul 2026 22:01:06 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "manual mtls duplicatas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3A/24/B7/FF/8EE0F610B1508FE6AC094EA8/Manual_de_Normas_Formador_de_Mercado.pdf",
+   "arquivo": "Manual_de_Normas_Formador_de_Mercado.pdf",
+   "rotulos": [
+    "Formador de Mercado"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 16 Dec 2019 13:32:30 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "manual de normas formador de mercado"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E1/46/6D/45/7E4FD910E7DB5DD9AC094EA8/OPCOES%20FLEXIVEIS%20SEM%20CCP.pdf",
+   "arquivo": "OPCOES FLEXIVEIS SEM CCP.pdf",
+   "rotulos": [
+    "Opções Flexíveis Sem CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 04 May 2026 21:31:34 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "opcoes flexiveis sem ccp"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/46/46/94/DA/4BDBE910ADC36BE9AC094EA8/OPERACOES.pdf",
+   "arquivo": "OPERACOES.pdf",
+   "rotulos": [
+    "Operações"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 12 Jun 2026 21:19:55 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "operacoes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D1/26/79/C8/4A7E38101E311E28AC094EA8/POSICAO%20FINANCEIRA.pdf",
+   "arquivo": "POSICAO FINANCEIRA.pdf",
+   "rotulos": [
+    "Posição Financeira"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Oct 2022 20:31:05 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "posicao financeira"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/34/66/83/91/39E7E7108BD66BD7AC094EA8/Painel%20de%20Pendencias.pdf",
+   "arquivo": "Painel de Pendencias.pdf",
+   "rotulos": [
+    "Painel de Pendências"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 21 Jan 2022 21:37:56 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "painel de pendencias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/72/94/63/29/E4731A103BBB511AAC094EA8/RECEBER%20ARQUIVOS.pdf",
+   "arquivo": "RECEBER ARQUIVOS.pdf",
+   "rotulos": [
+    "Receber Arquivos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 13 Oct 2026 22:07:39 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "receber arquivos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/02/83/56/F5/FA8D0A105BF9020AAC094EA8/Registro%20de%20Contrato%20de%20Garantias%20_Onus%20e%20Gravames_.pdf",
+   "arquivo": "Registro de Contrato de Garantias _Onus e Gravames_.pdf",
+   "rotulos": [
+    "Registro de Contrato de Garantia"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 25 Sep 2026 13:09:27 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "registro de contrato de garantias onus e gravames"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/8D/D5/59/D3/393D0A105BF9020AAC094EA8/Regulamento%20Camara%20de%20Cambio%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Regulamento Camara de Cambio B3 - Com marcas.pdf",
+   "rotulos": [
+    "R egulamento da Câmara de Câmbio B3 - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:20:39 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/CC/C5/2C/C3/393D0A105BF9020AAC094EA8/Regulamento%20Camara%20de%20Cambio%20B3.pdf",
+   "arquivo": "Regulamento Camara de Cambio B3.pdf",
+   "rotulos": [
+    "Regulamento da Câmara de Câmbio B3 - Sem marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 13:20:38 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento camara de cambio b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/04/92/9E/7F/E92068101BBF1068AC094EA8/Regulamento%20Central%20Depositaria%20RV%20B3%20-%2020230130.doc.pdf",
+   "arquivo": "Regulamento Central Depositaria RV B3 - 20230130.doc.pdf",
+   "rotulos": [
+    "Versão em vigor",
+    "versão 28/10/2024"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 30 Jan 2023 12:20:19 GMT",
+   "marcas": "n/a",
+   "data_nome": "2023-01-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento central depositaria rv b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/BD/D4/E9/8B/173D0A105BF9020AAC094EA8/Regulamento%20da%20CSD%20de%20RV%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Regulamento da CSD de RV B3 - Com marcas.pdf",
+   "rotulos": [
+    "Regulamento da Central Depositária de Renda Variável B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:44:02 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento da csd de rv b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/5B/D4/48/8B/173D0A105BF9020AAC094EA8/Regulamento%20da%20CSD%20de%20RV%20B3.pdf",
+   "arquivo": "Regulamento da CSD de RV B3.pdf",
+   "rotulos": [
+    "Regulamento da Central Depositária de Renda Variável B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:44:02 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento da csd de rv b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/86/66/BD/07/42871A10F2BF771AAC094EA8/Regulamento%20da%20Camara%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Regulamento da Camara B3 - Com marcas.pdf",
+   "rotulos": [
+    "Regulamento da Câmara B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C5/56/3C/F6/42871A10F2BF771AAC094EA8/Regulamento%20da%20Camara%20B3.pdf",
+   "arquivo": "Regulamento da Camara B3.pdf",
+   "rotulos": [
+    "Regulamento da Câmara B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 26 Oct 2026 12:16:58 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento da camara b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C6/D7/6C/89/42A1F910ADC36BE9AC094EA8/Regulamento%20de%20Duplicata%20Escritural%20-%2030062026.pdf",
+   "arquivo": "Regulamento de Duplicata Escritural - 30062026.pdf",
+   "rotulos": [
+    "Regulamento de Duplicata Escritural"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-normas-8AA8D0CC9D71B1D8019D7AB75A9146AE/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 30 Jun 2026 20:07:15 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de duplicata escritural"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/60/F0/C0/11/B3B2D910DD9322D9AC094EA8/Regulamento%20do%20FILCB.pdf",
+   "arquivo": "Regulamento do FILCB.pdf",
+   "rotulos": [
+    "Regulamento do FILCB"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 26 Mar 2026 17:39:45 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento do filcb"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/1B/D6/29/4F/22EC46101305DC46AC094EA8/Regulamento_Tesouro_Direto.pdf",
+   "arquivo": "Regulamento_Tesouro_Direto.pdf",
+   "rotulos": [
+    "Regulamento do Tesouro Direto"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/pos-negociacao/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 24 Jul 2018 21:12:35 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento tesouro direto"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/61/26/B9/B8/447E38101E311E28AC094EA8/SCO-CETIP21%20_COPV_.pdf",
+   "arquivo": "SCO-CETIP21 _COPV_.pdf",
+   "rotulos": [
+    "SCO Cetip21 (COPV)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Oct 2022 18:46:13 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "sco cetip21 copv"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/8D/A7/5C/F3/B3141A103BBB511AAC094EA8/SIC%20-%20Tabelas.zip",
+   "arquivo": "SIC - Tabelas.zip",
+   "rotulos": [
+    "SIC – Tabela de Países, Municípios, Jurisdição, Ocupação Profissional, Atividade Econômica e Moedas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 152604,
+   "last_modified": "Thu, 15 Oct 2026 20:22:44 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "zip",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "sic tabelas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/8A/81/20/EF/61EDF91094DCD8F9AC094EA8/SIC%20IDENTIFICACAO%20DE%20COMITENTES.pdf",
+   "arquivo": "SIC IDENTIFICACAO DE COMITENTES.pdf",
+   "rotulos": [
+    "SIC - Identificação de Comitentes"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 07 Aug 2026 21:17:57 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "sic identificacao de comitentes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/8B/01/BB/F1/4C6B2810F9BC5928AC094EA8/SISTEMA%20NoMe.pdf",
+   "arquivo": "SISTEMA NoMe.pdf",
+   "rotulos": [
+    "Sistema NoMe - Novo Mercado"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 19 Aug 2022 15:41:23 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "sistema nome"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E7/23/63/73/210728103A654428AC094EA8/TRANSFERENCIA%20DE%20ARQUIVOS.pdf",
+   "arquivo": "TRANSFERENCIA DE ARQUIVOS.pdf",
+   "rotulos": [
+    "Transferência Arquivo"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 05 Aug 2022 22:13:38 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "transferencia de arquivos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/11/32/8E/93/AFD8E91064BF82E9AC094EA8/Termo%20Sem%20CCP%20_Termo%2021%20TCF%20e%20Mercadorias_.pdf",
+   "arquivo": "Termo Sem CCP _Termo 21 TCF e Mercadorias_.pdf",
+   "rotulos": [
+    "Termo Sem CCP"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/manuais-de-operacoes/manuais-operacionais-balcao-b3/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 03 Jun 2026 14:54:07 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "central-depositaria",
+   "entra": false,
+   "motivo": "manual de operação de sistema",
+   "chave": "termo sem ccp termo 21 tcf e mercadorias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/03/24/36/67/9DDFC8103152D4C8AC094EA8/MDA.pdf",
+   "arquivo": "MDA.pdf",
+   "rotulos": [
+    "MANUAL DE OPERAÇÕES - MDA / MÓDULO DE DISTRIBUIÇÃO DE ATIVOS"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 12 Jan 2024 13:25:37 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "distribuicao",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "mda"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/90/B5/84/9C/F105E91064BF82E9AC094EA8/MN%20dos%20Subsistemas%20-%2025052026%20-%20Com%20marca.pdf",
+   "arquivo": "MN dos Subsistemas - 25052026 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE DISTRIBU IÇÃO DE ATIVOS (MDA) - Com Marca (.PDF, 499KB )"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 22 May 2026 14:38:41 GMT",
+   "marcas": "com",
+   "data_nome": "2026-05-25",
+   "formato": "pdf",
+   "categoria": "distribuicao",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C5/B5/37/9C/F105E91064BF82E9AC094EA8/MN%20dos%20Subsistemas%20-%2025052026%20-%20Sem%20marca.pdf",
+   "arquivo": "MN dos Subsistemas - 25052026 - Sem marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE DISTRIBU IÇÃO DE ATIVOS (MDA) - Sem Marca (.PDF, 497KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 22 May 2026 14:38:41 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-05-25",
+   "formato": "pdf",
+   "categoria": "distribuicao",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de MN dos Subsistemas - 31082026 - sem marcas.pdf",
+   "chave": "mn dos subsistemas"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/A4/93/09/70/05510A1094DCD8F9AC094EA8/Manual%20de%20Normas%20de%20Duplicata%20Escritural%20-%2030062026%201.pdf",
+   "arquivo": "Manual de Normas de Duplicata Escritural - 30062026 1.pdf",
+   "rotulos": [
+    "Manual de Normas de Duplicata Escritural (.PDF, 847KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/escrituracao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 18 Aug 2026 14:39:21 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "escrituracao",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Manual de Normas de Duplicata Escritural - 30062026.pdf",
+   "chave": "manual de normas de duplicata escritural"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/80/A3/4D/70/05510A1094DCD8F9AC094EA8/Regulamento%20de%20Duplicata%20Escritural%20-%2030062026%201.pdf",
+   "arquivo": "Regulamento de Duplicata Escritural - 30062026 1.pdf",
+   "rotulos": [
+    "Regulamento de Duplicata Escritural (.PDF, 682KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/escrituracao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 18 Aug 2026 14:39:21 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "escrituracao",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Regulamento de Duplicata Escritural - 30062026.pdf",
+   "chave": "regulamento de duplicata escritural"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/EE/B2/90/2E/3CF3F8100E866AE8AC094EA8/MN%20Gestao%20de%20Garantias%20-%2002052024%20-%20Com%20marca.pdf",
+   "arquivo": "MN Gestao de Garantias - 02052024 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS – GESTÃO DE GARANTIAS"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 03 May 2024 18:42:33 GMT",
+   "marcas": "com",
+   "data_nome": "2024-05-02",
+   "formato": "pdf",
+   "categoria": "garantias-bilaterais",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mn gestao de garantias"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/55/E7/6C/D9/708429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-CETIP%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-CETIP - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE MANUTENÇÃO DE GARANTIAS DE ATIVOS REGISTRADOA NA CETIP – MMG CETIP - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:21:57 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "garantias-bilaterais",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas mmg cetip"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B7/E7/9E/D9/708429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-CETIP%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-CETIP - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE MANUTENÇÃO DE GARANTIAS DE ATIVOS REGISTRADOA NA CETIP – MMG CETIP - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:21:57 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "garantias-bilaterais",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Manual de Normas MMG-CETIP - 01102024 - Sem marca.pdf",
+   "chave": "manual de normas mmg cetip"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/1A/E7/61/E9/708429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-SELIC%20-%2001102024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-SELIC - 01102024 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE MANUTENÇÃO DE GARANTIAS DE TÍTULOS REGISTRADOS NO SELIC - MMG SELIC - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:21:57 GMT",
+   "marcas": "com",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "garantias-bilaterais",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas mmg selic"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7C/E7/E3/E9/708429103054FD19AC094EA8/Manual%20de%20Normas%20MMG-SELIC%20-%2001102024%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas MMG-SELIC - 01102024 - Sem marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DO MÓDULO DE MANUTENÇÃO DE GARANTIAS DE TÍTULOS REGISTRADOS NO SELIC - MMG SELIC - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Oct 2024 12:21:57 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-10-01",
+   "formato": "pdf",
+   "categoria": "garantias-bilaterais",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Manual de Normas MMG-SELIC - 01102024 - Sem marca.pdf",
+   "chave": "manual de normas mmg selic"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FB/05/9B/54/0B93F8100E866AE8AC094EA8/Manual%20de%20Normas%20-%20Plataforma%20Imobiliaria-Integracao%204088.vfinal.30042024.pdf",
+   "arquivo": "Manual de Normas - Plataforma Imobiliaria-Integracao 4088.vfinal.30042024.pdf",
+   "rotulos": [
+    "Manual de Normas - Plataforma Imobiliária-Integração 4088"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:23:25 GMT",
+   "marcas": "n/a",
+   "data_nome": "2024-04-30",
+   "formato": "pdf",
+   "categoria": "infraestrutura-para-financiamento",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas plataforma imobiliaria integracao 4088"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/5A/F5/D4/D9/3B93F8100E866AE8AC094EA8/Manual%20de%20Normas%20-%20Sistema%20de%20Registro%20de%20Garantias%20sobre%20Veiculos%20Automotores.comparado.30042024%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas - Sistema de Registro de Garantias sobre Veiculos Automotores.comparado.30042024 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS – SISTEMA DE REGISTRO DE GARANTIAS SOBRE VEÍCULOS AUTOMOTORES - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 24 May 2024 18:33:48 GMT",
+   "marcas": "com",
+   "data_nome": "2024-04-30",
+   "formato": "pdf",
+   "categoria": "infraestrutura-para-financiamento",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas sistema de registro de garantias sobre veiculos automotores"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/7E/05/43/64/0B93F8100E866AE8AC094EA8/Manual%20de%20Normas%20-%20Sistema%20de%20Registro%20de%20Garantias%20sobre%20Veiculos%20Automotores.final1.25042024.pdf",
+   "arquivo": "Manual de Normas - Sistema de Registro de Garantias sobre Veiculos Automotores.final1.25042024.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS – SISTEMA DE REGISTRO DE GA RANTIAS SOBRE VEÍCULOS AUTOMOTORES - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 20:50:46 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-04-25",
+   "formato": "pdf",
+   "categoria": "infraestrutura-para-financiamento",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual de normas sistema de registro de garantias sobre veiculos automotores"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/DC/F5/EC/D9/3B93F8100E866AE8AC094EA8/Regulamento%20UIF.comparado.30042024%20-%20Com%20marca.pdf",
+   "arquivo": "Regulamento UIF.comparado.30042024 - Com marca.pdf",
+   "rotulos": [
+    "REGULAMENTO DA INFRAESTRUTURA PARA FINANCIAMENTO B3 - Com Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 15:10:06 GMT",
+   "marcas": "com",
+   "data_nome": "2024-04-30",
+   "formato": "pdf",
+   "categoria": "infraestrutura-para-financiamento",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento uif"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D0/15/A6/64/0B93F8100E866AE8AC094EA8/Regulamento%20UIF.vfinal.30042024.pdf",
+   "arquivo": "Regulamento UIF.vfinal.30042024.pdf",
+   "rotulos": [
+    "REGULAMENTO DA INFRAESTRUTURA PARA FINANCIAMENTO B3 - Sem Marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/infraestrutura-para-financiamento.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/unidade-de-financiamento.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 02 May 2024 14:23:25 GMT",
+   "marcas": "sem",
+   "data_nome": "2024-04-30",
+   "formato": "pdf",
+   "categoria": "infraestrutura-para-financiamento",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento uif"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/09/A0/43/7E/83DE97105D12DE97AC094EA8/Manual%20do%20Emissor%20-%20Anexos_08.06.2021.pdf",
+   "arquivo": "Manual do Emissor - Anexos_08.06.2021.pdf",
+   "rotulos": [
+    "Manual do Emissor - Anexos"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 08 Jun 2021 20:03:22 GMT",
+   "marcas": "n/a",
+   "data_nome": "2021-06-08",
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual do emissor anexos"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/25/74/1A/9E/33F6E7108BD66BD7AC094EA8/Manual%20do%20Emissor_18.01.2022.pdf",
+   "arquivo": "Manual do Emissor_18.01.2022.pdf",
+   "rotulos": [
+    "Manual do Emissor"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 18 Jan 2022 21:59:40 GMT",
+   "marcas": "n/a",
+   "data_nome": "2022-01-18",
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "manual do emissor"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/4F/80/31/4B/9BF5E91064BF82E9AC094EA8/Regulamento%20de%20Emissores%20-%2012.03.2026.pdf",
+   "arquivo": "Regulamento de Emissores - 12.03.2026.pdf",
+   "rotulos": [
+    "Regulamento de Emissores"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 25 May 2026 15:21:06 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-03-12",
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de emissores"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/C4/F6/8B/1D/D37EC910F37907C9AC094EA8/Regulamento%20de%20Emissores%20-%20Atualizacao%20dos%20Apendices%2013032026.pdf",
+   "arquivo": "Regulamento de Emissores - Atualizacao dos Apendices 13032026.pdf",
+   "rotulos": [
+    "Apêndices ao Regulamento de Emissores"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 13 Mar 2026 12:48:34 GMT",
+   "marcas": "n/a",
+   "data_nome": "2026-03-13",
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de emissores atualizacao dos apendices"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/74/20/ED/21/1C066810DE2C7168AC094EA8/Regulamento%20de%20Emissores_31.01.2022%20_Sancoes%202023_.pdf",
+   "arquivo": "Regulamento de Emissores_31.01.2022 _Sancoes 2023_.pdf",
+   "rotulos": [
+    "Regulamento para Listagem de Emissores e Admissão à Negociação de Valores Mobiliários"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 17 Feb 2023 19:01:51 GMT",
+   "marcas": "n/a",
+   "data_nome": "2022-01-31",
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Regulamento de Emissores - 12.03.2026.pdf",
+   "chave": "regulamento de emissores"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/4F/51/67/E6/93E2C91076A8EEB9AC094EA8/Regulamento%20do%20Nivel%201%20_Sancoes%202026_.pdf",
+   "arquivo": "Regulamento do Nivel 1 _Sancoes 2026_.pdf",
+   "rotulos": [
+    "Regulamento de Listagem e de Aplicação de Sanções Pe cuniárias do Nível 1"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 05 Feb 2026 14:34:01 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento do nivel 1"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/70/01/A0/B8/83E2C91076A8EEB9AC094EA8/Regulamento%20do%20Nivel%202%20_Sancoes%202026_.pdf",
+   "arquivo": "Regulamento do Nivel 2 _Sancoes 2026_.pdf",
+   "rotulos": [
+    "Regulamento de Listagem e de Aplicação de Sanções Pecuniárias do Nível 2"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 05 Feb 2026 14:33:03 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento do nivel 2"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3A/F0/FD/32/83E2C91076A8EEB9AC094EA8/Regulamento%20do%20Novo%20Mercado%20_Sancoes%202026_.pdf",
+   "arquivo": "Regulamento do Novo Mercado _Sancoes 2026_.pdf",
+   "rotulos": [
+    "Regulamento do Novo Mercado"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/listagem/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 05 Feb 2026 14:32:37 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "listagem",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento do novo mercado"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/A1/F6/30/53/F2FF0A10C90F7F0AAC094EA8/Criterios%20para%20Criacao%20e%20Exclusao%20de%20Vencimentos%20Futuros%20e%20Series%20de%20Opcoes%20de%20Derivativos%20Acoes%20ETFs%20Indices%20e%20BDRs.pdf",
+   "arquivo": "Criterios para Criacao e Exclusao de Vencimentos Futuros e Series de Opcoes de Derivativos Acoes ETFs Indices e BDRs.pdf",
+   "rotulos": [
+    "Critérios para Criação e Exclusão de Vencimentos Futuros e Séries de Opções"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 20 Oct 2026 17:09:22 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "criterios para criacao e exclusao de vencimentos futuros e series de opcoes de derivativos acoes etfs indices e bdrs"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3E/F3/17/4C/CF705810F534EB48AC094EA8/Especifica%C3%A7%C3%A3o%20T%C3%A9cnica%20do%20Relat%C3%B3rio%20da%20CED%20-%20B3%20Balc%C3%A3o.pdf",
+   "arquivo": "Especificação Técnica do Relatório da CED - B3 Balcão.pdf",
+   "rotulos": [
+    "Especificação Técnica do Relatório da CED – Balcão"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 12 Dec 2022 20:18:04 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "especificação técnica do relatório da ced b3 balcão"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/2C/13/82/C8/AF705810F534EB48AC094EA8/Especifica%C3%A7%C3%A3o%20T%C3%A9cnica%20do%20Relat%C3%B3rio%20da%20CED%20-%20B3%20Listados.pdf",
+   "arquivo": "Especificação Técnica do Relatório da CED - B3 Listados.pdf",
+   "rotulos": [
+    "Especificação Técnica do Relatório da CED – Listados"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 12 Dec 2022 20:15:39 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "chave": "especificação técnica do relatório da ced b3 listados"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/22/E0/C6/95/753D0A105BF9020AAC094EA8/MPO%20de%20Negociacao%20da%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "MPO de Negociacao da B3 - Com marcas.pdf",
+   "rotulos": [
+    "Manual de procedimentos operacionais de negociação da B3 - Com marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:15:14 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "mpo de negociacao da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/CF/D0/64/95/753D0A105BF9020AAC094EA8/MPO%20de%20Negociacao%20da%20B3.pdf",
+   "arquivo": "MPO de Negociacao da B3.pdf",
+   "rotulos": [
+    "Manual de procedimentos operacionais de negociação da B3 - Sem marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:15:14 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "mpo de negociacao da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/84/87/0A/37/5FFCD910579CDBD9AC094EA8/Manual%20de%20Normas%20Plataforma%20de%20Negociacao%20do%20Balcao%20B3%20-%2027042026%20-%20Com%20marca.pdf",
+   "arquivo": "Manual de Normas Plataforma de Negociacao do Balcao B3 - 27042026 - Com marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS PLATAFORMA DE NEGOCIAÇÃO DO BAL CÃO B3 - Com Marca (.PDF, 786KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 27 Apr 2026 17:21:03 GMT",
+   "marcas": "com",
+   "data_nome": "2026-04-27",
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "manual de normas plataforma de negociacao do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/02/87/A7/37/5FFCD910579CDBD9AC094EA8/Manual%20de%20Normas%20Plataforma%20de%20Negociacao%20do%20Balcao%20B3%20-%2027042026%20-%20Sem%20marca.pdf",
+   "arquivo": "Manual de Normas Plataforma de Negociacao do Balcao B3 - 27042026 - Sem marca.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS PLATAFORMA DE NEGOCIAÇÃO DO BALCÃO B3 - Sem Marca (.PDF, 768KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 27 Apr 2026 17:21:03 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-04-27",
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "versão anterior ou cópia de Manual de Normas Plataforma de Negociacao do Balcao B3 - 27042026 - Sem marca.pdf",
+   "chave": "manual de normas plataforma de negociacao do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/6D/D0/B2/95/753D0A105BF9020AAC094EA8/Regulamento%20de%20Negociacao%20da%20B3%20-%20Com%20marcas.pdf",
+   "arquivo": "Regulamento de Negociacao da B3 - Com marcas.pdf",
+   "rotulos": [
+    "Regulamento de Negociação da B3 - Com marca"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:15:13 GMT",
+   "marcas": "com",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "regulamento de negociacao da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/0B/D0/80/95/753D0A105BF9020AAC094EA8/Regulamento%20de%20Negociacao%20da%20B3.pdf",
+   "arquivo": "Regulamento de Negociacao da B3.pdf",
+   "rotulos": [
+    "Regulamento de Negociação da B3 - Sem marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/estrutura-normativa/operacoes/"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 24 Sep 2026 12:15:13 GMT",
+   "marcas": "sem",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "negociacao",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento de negociacao da b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E1/B7/B1/B1/DAF00A1094DCD8F9AC094EA8/Gloss%C3%A1rio%20do%20Balc%C3%A3o%20B3%20-%2010082026%20-%20com%20marcas.pdf",
+   "arquivo": "Glossário do Balcão B3 - 10082026 - com marcas.pdf",
+   "rotulos": [],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 17 Aug 2026 12:23:18 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-10",
+   "formato": "pdf",
+   "categoria": "registro-e-liquidacao",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "chave": "glossário do balcão b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/93/45/BF/E8/0427B810EE51F2B8AC094EA8/Manual_de_Registro_de_Operacoes_de_Seguros_Publico.pdf",
+   "arquivo": "Manual_de_Registro_de_Operacoes_de_Seguros_Publico.pdf",
+   "rotulos": [
+    "MANUAL DE REGISTRO DAS OPERAÇÕES DE SEGUROS E RESSEGUROS"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/sro-operacoes-de-seguros.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Fri, 27 Oct 2023 17:48:36 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "sro-operacoes-de-seguros",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "manual de registro de operacoes de seguros publico"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/95/E3/8C/44/B01BA6106A14A9A6AC094EA8/Manual-Tesouro-Direto.pdf",
+   "arquivo": "Manual-Tesouro-Direto.pdf",
+   "rotulos": [
+    "Manual do Agente de Custódia do Tesouro Direto"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/tesouro-direto.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 13 May 2019 11:54:36 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "tesouro-direto",
+   "entra": false,
+   "motivo": "não normativo",
+   "chave": "manual tesouro direto"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/E5/23/D0/8E/03A498101DBF7498AC094EA8/Regulamento%20TD%20Publicado%20no%20Site%20.11.07.2023.pdf",
+   "arquivo": "Regulamento TD Publicado no Site .11.07.2023.pdf",
+   "rotulos": [
+    "REGULAMENTO DO TESOURO DIRETO"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/tesouro-direto.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Wed, 12 Jul 2023 13:01:06 GMT",
+   "marcas": "n/a",
+   "data_nome": "2023-07-11",
+   "formato": "pdf",
+   "categoria": "tesouro-direto",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "chave": "regulamento td publicado no site"
+  }
+ ]
+}
