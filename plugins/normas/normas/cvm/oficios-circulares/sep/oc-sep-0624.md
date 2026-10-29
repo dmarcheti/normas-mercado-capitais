@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0624.pdf
 sha256_fonte: 3369c95aa301a3e7c0982be29c8d85c317d1929d58c903f68e1844ce69e1a65f
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -40,45 +42,55 @@ Ofício Circular nº 6/2024/CVM/SEP
 
 Rio de Janeiro, 06 de setembro de 2024.
 
-Assunto:
-
-Revisão das associações no Sistema Empresas.NET para envio de
+Assunto: Revisão das associações no Sistema Empresas.NET para envio de
 
 demonstrações financeiras.
 
 Senhor Diretor de Relações com Investidores/Representante Legal,
 
-1
+1. O presente Ofício Circular tem como objetivo informar às companhias
 
-.
+abertas e estrangeiras acerca da revisão das associações de “Categorias”
 
-O
+,
 
-presente Ofício Circular tem como objetivo informar às companhias
-
-abertas e estrangeiras acerca da revisão das associações de “Categorias”, “Tipo” e
+“Tipo” e
 
 “Espécie” no Sistema Empresas.Net para envio de informações financeiras.
 
-2
+2. A partir de 09.09.2024, serão ativadas as seguintes novas associações
 
-.
+("Categoria"
 
-A parti
+,
 
-r de 09.09.2024, serão
-
-ativadas
-
-as seguintes novas associações
-
-("Categoria", "Tipo" e "Espécie") criadas no Sistema Empresas.NET para envio de
+"Tipo" e "Espécie") criadas no Sistema Empresas.NET para envio de
 
 demonstrações financeiras:
 
-TIPO
+CATEGORIA
 
-ESPÉCIE
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+TIPO ESPÉCIE
 
 Demonstrações Financeiras
 
@@ -108,33 +120,37 @@ Combinadas
 
 Demonstrações Financeiras
 
-Adicionais
-
-Condensadas
-
-CATEGORIA
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
+Adicionais Condensadas
 
 Ofício-Circular 6 (2101285) SEI 19957.010938/2024-42 / pg. 1
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+DADOS ECONÔMICO-
+
+FINANCEIROS
+
+Demonstrações Financeiras
+
+Adicionais
+
+Demonstrações Financeiras
+
+Adicionais
+
+Demonstrações Financeiras
+
+Adicionais
 
 Demonstrações Financeiras
 
@@ -142,55 +158,29 @@ Adicionais
 
 Carve-out
 
-Demonstrações Financeiras
-
-Adicionais
-
 Regulatórias
 
-Demonstrações Financeiras
-
-Adicionais
-
 Balanço Social
-
-Demonstrações Financeiras
-
-Adicionais
 
 Demonstrações Financeiras em
 
 Padrões Internacionais
 
-3
+3. O Campo "Assunto" de tais associações é "Obrigatório com Digitação"
 
-.
-
-O Campo "Assunto" de tais associações é "Obrigatório com Digitação",
+,
 
 ou seja, deverá ser preenchido com a descrição do assunto do documento a que se
 
 refere obrigatoriamente.
 
-4
-
-.
-
-Ademais, também a partir de 09
-
-.09.2024,
-
-serão
-
-inativadas
-
-as seguintes
+4. Ademais, também a partir de 09.09.2024, serão inativadas as seguintes
 
 associações:
 
-TIPO
+CATEGORIA
 
-ESPÉCIE
+TIPO ESPÉCIE
 
 BALANÇO SOCIAL
 
@@ -200,29 +190,53 @@ SEPARADO
 
 DADOS ECONÔMICO-
 
-FINANCEIROS
-
-Balanço Social
+FINANCEIROS Balanço Social
 
 DADOS ECONÔMICO-
 
-FINANCEIROS
-
 Demonstração do Valor
+
+FINANCEIROS
 
 Adicionado
 
 DADOS ECONÔMICO-
 
-FINANCEIROS
-
 Demonstrações Financeiras
+
+FINANCEIROS
 
 em Padrões Internacionais
 
-Demonstrações Financeiras com
+DADOS ECONÔMICO-
 
-reconciliação para IFRS
+Demonstrações Financeiras
+
+FINANCEIROS
+
+em Padrões Internacionais
+
+DADOS ECONÔMICO-
+
+Demonstrações Financeiras
+
+FINANCEIROS
+
+em Padrões Internacionais
+
+DADOS ECONÔMICO-
+
+Demonstrações Financeiras
+
+FINANCEIROS
+
+em Padrões Internacionais
+
+DADOS ECONÔMICO-
+
+FINANCEIROS Demonstrações Financeiras
+
+em Padrões Internacionais
 
 DADOS ECONÔMICO-
 
@@ -230,75 +244,45 @@ FINANCEIROS
 
 Demonstrações Financeiras
 
-em Padrões Internacionais
+em Padrões Internacionais Outros
 
-Demonstrações Financeiras com
-
-reconciliação para US GAAP
+Demonstrações Financeiras
 
 DADOS ECONÔMICO-
 
 FINANCEIROS
 
-Demonstrações Financeiras
-
-em Padrões Internacionais
-
-Demonstrações Financeiras em
-
-IFRS
-
 DADOS ECONÔMICO-
 
 FINANCEIROS
-
-Demonstrações Financeiras
-
-em Padrões Internacionais
-
-Demonstrações Financeiras em
-
-US GAAP
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-Demonstrações Financeiras
-
-em Padrões Internacionais
-
-DFs Mercosul com reconciliação
-
-para IFRS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-Demonstrações Financeiras
-
-em Padrões Internacionais
-
-Outros
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-Demonstrações Financeiras
 
 Especiais – Registro Inicial
 
 de Cia Aberta
 
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
 Demonstrações Financeiras
 
 Intermediárias
+
+Demonstrações Financeiras com
+
+reconciliação para IFRS
+
+Demonstrações Financeiras com
+
+reconciliação para US GAAP
+
+Demonstrações Financeiras em
+
+IFRS
+
+Demonstrações Financeiras em
+
+US GAAP
+
+DFs Mercosul com reconciliação
+
+para IFRS
 
 DFs Mercosul com reconciliação
 
@@ -306,31 +290,9 @@ para IFRS
 
 Atendimento:
 
-5
+5. Informamos que dúvidas referentes à utilização e funcionamento do
 
-.
-
-Informamos que dúvidas referentes à utilização e funcionamento do
-
-Sistema Empresas.NET, assim como o relato de problemas ou diﬁculdades no envio
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-DADOS ECONÔMICO-
-
-FINANCEIROS
-
-CATEGORIA
+Sistema Empresas.NET, assim como o relato de problemas ou dificuldades no envio
 
 Ofício-Circular 6 (2101285) SEI 19957.010938/2024-42 / pg. 2
 
@@ -338,11 +300,7 @@ de documentos, devem ser encaminhadas para a Superintendência de Emissores da
 
 B3.
 
-6
-
-.
-
-O contato com a Superintendência de Emissores pode ser feito pelo
+6. O contato com a Superintendência de Emissores pode ser feito pelo
 
 telefone (11) 2565-5063 ou por e-mail: emissores.empresas@b3.com.br:
 
@@ -356,50 +314,32 @@ semana e feriados, exclusivamente por meio do e-mail.
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 06/09/2024, às 10:28, com fundamento no art. 6º do
+Superintendente, em 06/09/2024, às 10:28, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2101285
+autenticidade, informando o código verificador
 
-e o código CRC
-
-66F1DA7F
-
-.
+2101285 e o código CRC 66F1DA7F.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2101285
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2101285 and the "Código CRC" 66F1DA7F.
 
-66F1DA7F
-
-.
-
-Referência:
-
-Processo nº 19957.010938/2024-42
-
-Documento SEI nº 2101285
+Referência: Processo nº 19957.010938/2024-42 Documento SEI nº 2101285
 
 Ofício-Circular 6 (2101285) SEI 19957.010938/2024-42 / pg. 3

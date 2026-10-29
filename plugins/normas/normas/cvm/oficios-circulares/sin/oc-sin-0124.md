@@ -15,16 +15,16 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0124.pdf
 sha256_fonte: 4595d656987452f50891c88501c471a25ff5fcafeb7a34f76121188ce7ba64fd
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
-Rua Sete de Setembro, 111/2 -5º e 23 -34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050 -901 – Brasil
+Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 1/2024/CVM/SIN
 
@@ -44,7 +44,7 @@ regulados pelo Anexo Normativo I da Resolução CVM nº 175, de 23 de dezembro d
 
 (“Resolução”).
 
-2. O artigo 43, III da Resolução dispõe que a a s classes de cotas de FIF devem
+2. O artigo 43, III da Resolução dispõe que a as classes de cotas de FIF devem
 
 observar o limite de concentração de até 20% (vinte por cento) de seu patrimônio líquido para
 

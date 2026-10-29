@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sep/anexos/ocsncsep012022.pdf
 sha256_fonte: 6cf1989765b8f28cc31ea4c23a410402e3beafafac777d6454ce1f94d8500a6e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -72,7 +72,7 @@ junto a preparadores de demonstrações contábeis e auditores independentes, os
 
 exercício de 2021 foram (i) operações de risco sacado, (ii) efeitos da Pandemia da COVID19 sobre as
 
-demonstrações contábeis e (iii) potenciais alterações na legislação do imposto de renda , sobretudo
+demonstrações contábeis e (iii) potenciais alterações na legislação do imposto de renda, sobretudo
 
 mudanças em alíquotas vigentes, com impacto nos ativos e passivos fiscais diferidos reconhecidos.
 
@@ -86,7 +86,7 @@ Nesse sentido, para o exercício social encerrado em 31.12.2021, as áreas técn
 
 seção específica para tratar do processo de julgamento profissional tanto por parte de preparadores
 
-quanto por parte de auditores, pois entendem ser o ambiente no qual o item (iii) está inserido . O ofício
+quanto por parte de auditores, pois entendem ser o ambiente no qual o item (iii) está inserido. O ofício
 
 está organizado em duas seções, quais sejam:
 
@@ -104,8 +104,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-2
-
 1. Ofícios Circulares de Anos Anteriores
 
 Permanecem válidas as orientações das áreas técnicas da CVM contidas nos ofícios circulares a
@@ -120,7 +118,7 @@ OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 02/2020, de 10.03.2020 – “Efeito Coranaví
 
 nas Dfs”.
 
-• OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2017, de 12/01/2017 , com as seguintes
+• OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2017, de 12/01/2017, com as seguintes
 
 exceções:
 
@@ -136,7 +134,7 @@ seu propósito;
 
 - item 7.3 – “Teste de “impairment” de Instrumentos Financeiros – CPC n. 48/IFRS n. 09”,
 
-cuja orientação para o ano de 2020 está contida no OFÍCIO -
+cuja orientação para o ano de 2020 está contida no OFÍCIO-
 
 CIRCULAR/CVM/SNC/SEP/n.º 02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e
 
@@ -152,7 +150,7 @@ para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 02/2018, d
 
 Imobiliária não Concluída”.
 
-• OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2018, de 10.01.2018 , com as seguintes
+• OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2018, de 10.01.2018, com as seguintes
 
 exceções:
 
@@ -168,9 +166,9 @@ Coranavírus nas DFs”;
 
 - 5.3. – “Teste de “impairment” de Instrumentos Financeiros – CPC n. 48/IFRS n. 09”, cuja
 
-orientação para o ano de 2020 está contida no OFÍCIO -CIRCULAR/CVM/SNC/SEP/n.º
+orientação para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º
 
-02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO -
+02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO-
 
 CIRCULAR/CVM/SNC/SEP/nº 03/2020, de 16.04.2020 – “Medidas de enfrentamento à
 
@@ -179,6 +177,8 @@ pandemia da COVID19 no cálculo de perdas esperadas”;
 - item 6 – “Reconhecimento de Receita – POC: IFRS n. 15 x IFRIC n. 15”, cuja orientação
 
 para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 02/2018, de
+
+2
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -189,8 +189,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-3
 
 12.12.2018 – “Reconhecimento de Receita nos Contratos de Compra e Venda de Unidade
 
@@ -214,9 +212,9 @@ Coranavírus nas DFs”;
 
 - 5.3. – “Teste de “impairment” de Instrumentos Financeiros – CPC n. 48/IFRS n. 09”, cuja
 
-orientação para o ano de 2020 está contida no OFÍCIO -CIRCULAR/CVM/SNC/SEP/n.º
+orientação para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º
 
-02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO -
+02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO-
 
 CIRCULAR/CVM/SNC/SEP/nº 03/2020, de 16.04.2020 – “Medidas de enfrentamento à
 
@@ -248,9 +246,9 @@ Coranavírus nas DFs”;
 
 - 5.3. – “Teste de “impairment” de Instrumentos Financeiros – CPC n. 48/IFRS n. 09”, cuja
 
-orientação para o ano de 2020 está contida no OFÍCIO -CIRCULAR/CVM/SNC/SEP/n.º
+orientação para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º
 
-02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO -
+02/2020, de 10.03.2020 – “Efeito Coranavírus nas DFs” e no OFÍCIO-
 
 CIRCULAR/CVM/SNC/SEP/nº 03/2020, de 16.04.2020 – “Medidas de enfrentamento à
 
@@ -264,6 +262,8 @@ para o ano de 2020 está contida no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 02/2018, d
 
 Imobiliária não Concluída”;
 
+3
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -274,15 +274,13 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-4
-
 - item 9 – “IRPJ e CSLL Diferidos”, que caducou com a revogação da Instrução CVM n.
 
 371/02;
 
 - item 13 – “Adoção Inicial CPC n. 47 e n. 48 – Concessionárias Transmissoras de Energia
 
-Elétrica”, cuja orientação para o ano de 2020 está contida no OFÍCIO -
+Elétrica”, cuja orientação para o ano de 2020 está contida no OFÍCIO-
 
 CIRCULAR/CVM/SNC/SEP/nº 04/2020, de 01.12.2020.
 
@@ -306,7 +304,7 @@ tratamento de um evento econômico, tendo como referencial as normas contábeis 
 
 informações relevantes, principalmente as relacionadas aos objetivos informacionais a serem atingidos.
 
-Com a convergência do Brasil aos padrões contábeis int ernacionais, uma profunda mudança
+Com a convergência do Brasil aos padrões contábeis internacionais, uma profunda mudança
 
 cultural foi imposta aos, e tem sido cada vez mais exigida dos, profissionais que operam as normas IFRS,
 
@@ -332,7 +330,7 @@ Dessa forma, as áreas técnicas da CVM entendem que é condição fundamental p
 
 adequada e eficiente dos CPC/IFRS que o relevante julgamento profissional seja exercido, sendo este um
 
-papel intrínseco relacionado à aplicação das normas contábeis, do qual preparadores de demonstra ções
+papel intrínseco relacionado à aplicação das normas contábeis, do qual preparadores de demonstrações
 
 contábeis e auditores independentes não podem se olvidar. Deve-se salientar também que o conhecimento
 
@@ -348,6 +346,8 @@ auditoria é exercido tipicamente em três grandes áreas:
 
 qualificam como suficiente e apropriada?)
 
+4
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -358,15 +358,13 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-5
-
 • Estimativas e Probabilidades (os números produzidos com base em estimativas e
 
 probabilidades estão em consonância com a realidade econômica a ser reportada? Estão
 
 livres de viés?)
 
-• Decisões em matéria de escolhas a serem feitas , em especial “escolhas contábeis” (as
+• Decisões em matéria de escolhas a serem feitas, em especial “escolhas contábeis” (as
 
 escolhas contábeis têm origem em decisões robustas da administração da companhia ou
 
@@ -384,9 +382,9 @@ o principal, uma mente questionadora e crítica.
 
 Em último caso, o regulador poderá ser acionado para dar o seu entendimento acerca de uma
 
-matéria que seja objeto de controvérsia, em uma consulta formal a ele direcionada , que delimite
+matéria que seja objeto de controvérsia, em uma consulta formal a ele direcionada, que delimite
 
-claramente o problema, identifique o jurisdicion ado e exponha os entendimentos externados por
+claramente o problema, identifique o jurisdicionado e exponha os entendimentos externados por
 
 preparadores de demonstrações contábeis e auditores independentes. A eventual participação do órgão
 
@@ -398,7 +396,7 @@ Neste sentido, para os temas sensíveis para o exercício social de 2021, que re
 
 profissional, tanto por parte de preparadores de demonstrações contábeis quanto de auditores
 
-independentes, as áreas técnica s da CVM recomendam adotar os seguintes passos, extraídos de um
+independentes, as áreas técnicas da CVM recomendam adotar os seguintes passos, extraídos de um
 
 arcabouço conceitual para julgamento profissional, documentado pela literatura da área:
 
@@ -435,3 +433,5 @@ Original assinado por
 FERNANDO SOARES VIEIRA
 
 Superintendente de Relações com Empresas
+
+5

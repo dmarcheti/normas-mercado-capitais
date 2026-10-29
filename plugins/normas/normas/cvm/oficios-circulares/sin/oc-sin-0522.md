@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0522.pdf
 sha256_fonte: 5835d2b2a6883376fc1e43cfaedb781526515014ecf9949e4f45e2cc89e33d8a
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -38,7 +38,7 @@ Prezados Senhores,
 
 1. A Instrução CVM nº 555 prevê, em seu artigo 2º, VI, que são considerados como ativos financeiros
 
-no exterior aqueles “ negociados no exterior que tenham a mesma natureza econômica dos ativos
+no exterior aqueles “negociados no exterior que tenham a mesma natureza econômica dos ativos
 
 financeiros no Brasil”.
 
@@ -46,7 +46,7 @@ financeiros no Brasil”.
 
 equiparam-se aos ativos financeiros no exterior”; e o artigo 115, § 1º, I, “d”, que os BDR classificados
 
-como nível II e III compõe m o limite mínimo de 67% de ativos domésticos elegíveis a compor a
+como nível II e III compõem o limite mínimo de 67% de ativos domésticos elegíveis a compor a
 
 carteira de fundos de investimento em ações.
 
@@ -70,7 +70,7 @@ aquisição pelos fundos de investimento regulados pela Instrução CVM nº 555.
 
 não se enquadrariam no conceito de “ativos financeiros no exterior” previsto no artigo 2º, VI, da
 
-Instrução CVM nº 555, e tampouco existe previsão específi ca nessa mesma regulamentação que
+Instrução CVM nº 555, e tampouco existe previsão específica nessa mesma regulamentação que
 
 preveja seu tratamento como um ativo no exterior, como ocorre, por exemplo, para os BDR nível I.
 

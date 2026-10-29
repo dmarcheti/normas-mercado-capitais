@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0323.pdf
 sha256_fonte: 38c2e001e25c29d8d38d5f28d42cf29d67b717ea98f10ec3b0ceef07f65b931e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -24,7 +24,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 3/2023/CVM/SIN
 
@@ -40,7 +40,7 @@ Prezados Senhores,
 
 Eletrônica de Multas Cominatórias (“SIEM”), que tem por objetivo aprimorar o processo de envio
 
-pela CVM e recebimento, pelos administradores de fu ndos, de ofícios de aplicação de multas
+pela CVM e recebimento, pelos administradores de fundos, de ofícios de aplicação de multas
 
 cominatórias expedidas com base no artigo 142 da Instrução CVM nº 555.
 
@@ -48,9 +48,9 @@ cominatórias expedidas com base no artigo 142 da Instrução CVM nº 555.
 
 disponibilizada ao administrador do fundo de forma imediata após sua emissão pela CVM, e que ela
 
-possa ser recebida e processada, no âmbito da insti tuição, diretamente por pessoa previamente
+possa ser recebida e processada, no âmbito da instituição, diretamente por pessoa previamente
 
-indicada à CVM e nela cadastrada que seja responsáv el direto por dar tratamento às multas (seja o
+indicada à CVM e nela cadastrada que seja responsável direto por dar tratamento às multas (seja o
 
 seu pagamento, seja a interposição de recurso).
 
@@ -60,13 +60,13 @@ transparência a esse processo, pois estará disponível a cada instituição ad
 
 confirmações de recebimento de cada uma das multas cominatórias a ela enviadas e por ela recebidas.
 
-4. Assim, para viabilizar o cadastramento dessas pe ssoas, solicitamos que as instituições
+4. Assim, para viabilizar o cadastramento dessas pessoas, solicitamos que as instituições
 
 administradoras de fundos de investimento regulados pela Instrução CVM nº 555 detentoras do
 
 registro na categoria “administrador fiduciário” ou “administrador pleno” encaminhem, até 2/6/2023
 
-e ao endereço eletrônico gain-cadastro@cvm.gov.br , mensagem com o título “Cadastramento de
+e ao endereço eletrônico gain-cadastro@cvm.gov.br, mensagem com o título “Cadastramento de
 
 responsáveis - SIEM”, com a qualificação (com nome completo, CPF e endereço de e-mail) dos
 
@@ -88,7 +88,7 @@ promovendo as atualizações cabíveis sempre que necessário.
 
 8. As instituições que já participaram do projeto piloto de implantação do sistema estão dispensadas
 
-do cadastramento de novas pessoas responsáveis, dad o que já contam com pessoas cadastradas na
+do cadastramento de novas pessoas responsáveis, dado que já contam com pessoas cadastradas na
 
 CVM para tal objetivo.
 
@@ -96,7 +96,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 9. Após a concessão do acesso ao SIEM, sempre que emitida alguma nova multa cominatória relativa
 
@@ -108,15 +108,15 @@ cadastrados para que acessem o sistema e visualizem e baixem a multa aplicada, d
 
 adequado tratamento (pagamento ou recurso) a elas.
 
-10. Assim, convém que as pessoas cadastradas em nom e da instituição, além de estarem habilitadas
+10. Assim, convém que as pessoas cadastradas em nome da instituição, além de estarem habilitadas
 
-ao recebimento desses ofícios em nome da instituiçã o que representam, sejam tais que tenham por
+ao recebimento desses ofícios em nome da instituição que representam, sejam tais que tenham por
 
 atribuição funcional o recebimento dessas multas, de forma a garantir a maior agilidade possível, no
 
 âmbito da administradora, a esse tratamento.
 
-11. Após a leitura da intimação e ofícios de aplica ção das multas cominatórias, o sistema registrará
+11. Após a leitura da intimação e ofícios de aplicação das multas cominatórias, o sistema registrará
 
 que essa leitura ocorreu e manterá essa informação em arquivo para posterior consulta e referência,
 
@@ -132,29 +132,29 @@ meio do recebimento da intimação adere ao disposto no artigo 3º do Decreto n�
 
 o sistema como o “sistema eletrônico” para os fins previstos no referido dispositivo regulamentar.
 
-13. Alertamos que o escopo do sistema é exclusivame nte o de prover mecanismo mais transparente,
+13. Alertamos que o escopo do sistema é exclusivamente o de prover mecanismo mais transparente,
 
 ágil e seguro de recebimento de multas cominatórias por parte das instituições administradoras, de
 
 forma que nenhuma outra operação associada a essas multas (como, por exemplo, o pagamento ou a
 
-interposição de recurso) deve ser procedida por mei o desse sistema. Para os casos de pagamento ou
+interposição de recurso) deve ser procedida por meio desse sistema. Para os casos de pagamento ou
 
-interposição de recursos contra as multas aplicadas , por exemplo e aliás, continuam cabíveis e
+interposição de recursos contra as multas aplicadas, por exemplo e aliás, continuam cabíveis e
 
 aplicáveis os mesmos sistemas hoje já disponíveis e utilizados pelas instituições administradoras,
 
 conforme informações apresentadas no ofício de cominação da multa.
 
-14. Em caso de dúvidas sobre o funcionamento do sis tema ou a interposição de recursos, esta
+14. Em caso de dúvidas sobre o funcionamento do sistema ou a interposição de recursos, esta
 
-superintendência poderá ser acionada por meio do en dereço eletrônico sin@cvm.gov.br. Para
+superintendência poderá ser acionada por meio do endereço eletrônico sin@cvm.gov.br. Para
 
 questões associadas a dificuldades de natureza tecnológica, cabe acionar o Suporte Externo da CVM,
 
 por meio do endereço eletrônico suporteexterno@cvm.gov.br. Por fim, para esclarecimentos quanto
 
-ao pagamento de multas, a área destinatária é a Ger ência de Arrecadação, que pode ser consultada
+ao pagamento de multas, a área destinatária é a Gerência de Arrecadação, que pode ser consultada
 
 por meio do endereço eletrônico gearc@cvm.gov.br.
 

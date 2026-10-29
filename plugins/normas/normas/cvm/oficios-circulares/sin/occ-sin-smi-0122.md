@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/occ-sin-smi-0122.pdf
 sha256_fonte: 8d5be02dc2abf537831ebfc7989941d51b6de12432b431ce04da7e8eb9203e67
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares - Centro - Rio de Janeiro - RJ
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-OFÍCIO -CIRCULAR/CVM/SMI/SIN/Nº 1/2022
+OFÍCIO-CIRCULAR/CVM/SMI/SIN/Nº 1/2022
 
 Rio de Janeiro, 31 de janeiro de 2022
 
@@ -50,13 +50,13 @@ da atuação de gestores de recursos e administradores fiduciários, ao lado, pr
 
 custodiantes e distribuidores;
 
-2. Considerando que na esteira da Lei 9.613, de 3 de março de 199 8 (“Lei 9 .613/98”) a
+2. Considerando que na esteira da Lei 9.613, de 3 de março de 1998 (“Lei 9.613/98”) a
 
 regulamentação de PLD/FTP da CVM, em especial o art. 17 da Resolução 50, de 31 de agosto de
 
 2021 (“Resolução CVM 50/21”), pressupõe o compartilhamento de informações – inclusive sobre os
 
-cotistas - entre os diversos prestadores de serv iços de fundos de investimento, como ferramenta
+cotistas - entre os diversos prestadores de serviços de fundos de investimento, como ferramenta
 
 relevante a ser implementada de modo:
 
@@ -82,33 +82,33 @@ implantar programas de treinamento e realizar testes periódicos de segurança p
 
 informações;
 
-4. Considerando o protagonismo que os ge stores de recursos têm no funcionamento de fundos de
+4. Considerando o protagonismo que os gestores de recursos têm no funcionamento de fundos de
 
 investimento, podendo, inclusive, atuar na distribuição de cotas de fundos de investimento de que
 
 seja gestor;
 
-5. O presente Ofício -Circular tem por objetivo reconhecer não apenas a necessidade, mas a
+5. O presente Ofício-Circular tem por objetivo reconhecer não apenas a necessidade, mas a
 
-imprescindibilidade de, para fins de cumprimento das regras de PLD/FTP, haver , nas operações e
+imprescindibilidade de, para fins de cumprimento das regras de PLD/FTP, haver, nas operações e
 
 situações de maior risco, compartilhamento de informações – inclusive sobre cotistas diretos, e
 
-indiretos quando necessário - entre os prestad ores de serviços de fundos de investimento,
+indiretos quando necessário - entre os prestadores de serviços de fundos de investimento,
 
 notadamente administradores fiduciários, gestores de recursos, custodiantes e distribuidores.
 
 6. Destacamos que a Lei Complementar 105/01 (“LC 105/21”), assim como a Lei 9.613/98 e a Lei nº
 
-13.709, de 14 de ago sto de 2018, a Lei Geral de Proteção de Dados (“LGPD”), devem ser lidas em
+13.709, de 14 de agosto de 2018, a Lei Geral de Proteção de Dados (“LGPD”), devem ser lidas em
 
 conjunto e sob a premissa de uma aplicação sistemática e teleológica. A LC 105/21, no contexto de
 
-um fundo de investimento e de uma carteira administrada, não pode ser suscitada par a inviabilizar a
+um fundo de investimento e de uma carteira administrada, não pode ser suscitada para inviabilizar a
 
 adoção de todos os procedimentos necessários à efetivação do sistema de prevenção e combate à
 
-LD/FTP. As citadas Leis coexistem, devem ser harmonizadas e respeitadas entre si , bem como
+LD/FTP. As citadas Leis coexistem, devem ser harmonizadas e respeitadas entre si, bem como
 
 interpretadas de forma a alcançar a sua máxima efetividade.
 
@@ -116,11 +116,11 @@ interpretadas de forma a alcançar a sua máxima efetividade.
 
 não poderão alegar qualquer modalidade de restrição de acesso a informações dos cotistas, no
 
-exercício regular de suas atividades, por questões deri vadas de um eventual regime de sigilo (legal,
+exercício regular de suas atividades, por questões derivadas de um eventual regime de sigilo (legal,
 
 comercial, dentre outros), ou demais restrições legais, tais como eventos no âmbito da LGPD ou
 
-decorrentes de normas que regulamentem a existência de segregação de atividades ( chinese wall)
+decorrentes de normas que regulamentem a existência de segregação de atividades (chinese wall)
 
 entre áreas da própria instituição.
 
@@ -138,7 +138,7 @@ aplicáveis, especialmente a regulamentação editada por esta Autarquia, devend
 
 observadas as obrigações de confidencialidade previstas na Resolução CVM 21/21.
 
-9. Na oportunidade , relembramos que, no âmbito do Decreto 10.270 , de 6 de març o de 20 20, e em
+9. Na oportunidade, relembramos que, no âmbito do Decreto 10.270, de 6 de março de 2020, e em
 
 vista do início próximo da nova Avaliação Mútua do Brasil pelo GAFI/FATF, foi disponibilizado
 

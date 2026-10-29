@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0723.pdf
 sha256_fonte: b4e057bad77516d5f744051bae1d4515115c731841dc8bff0d7b9bde93b69c53
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,19 +44,13 @@ São Paulo, 14 de agosto de 2023.
 
 Aos administradores de Fundos de Investimento em Direitos Creditórios - FIDC
 
-Assunto:
-
-Ajustes no informe mensal de FIDC - novo modelo do Suplemento G
+Assunto: Ajustes no informe mensal de FIDC - novo modelo do Suplemento G
 
 da Resolução CVM nº 175/23
 
 Prezadas(os),
 
-1
-
-.
-
-O presente Ofício Circular tem como objetivo informar aos
+1. O presente Ofício Circular tem como objetivo informar aos
 
 administradores de FIDC sobre ajustes no modelo do documento do Informe Mensal
 
@@ -62,43 +58,23 @@ FIDC disponível no sistema FundosNet, para alinhamento aos termos do novo
 
 Suplemento G da Resolução CVM nº 175/22.
 
-2
-
-.
-
-Nesse sentido, o novo layout do documento obrigatório será
+2. Nesse sentido, o novo layout do documento obrigatório será
 
 disponibilizado pela B3, por meio do sistema Fundos.Net, para as entregas da data-
 
 base de outubro/23, com envio a partir de 01/11/2023.
 
-3
-
-.
-
-Os referidos ajustes englobam: (i) a alteração de nomenclatura de
+3. Os referidos ajustes englobam: (i) a alteração de nomenclatura de
 
 determinados campos do informe; (ii) a exclusão de campo do informe que deixou
 
 de ser aplicável; e (iii) a criação de novos campos, como detalhado abaixo.
 
-4
+4. Alteração de nomenclatura:
 
-.
+Campo: De: Para:
 
-Alteração de nomenc
-
-latura:
-
-Campo:
-
-De:
-
-Para:
-
-Tabela I - 2 c.5
-
-Cotas de Fundos da ICVM 409
+Tabela I - 2 c.5 Cotas de Fundos da ICVM 409
 
 Classes de Cotas dos FIF - Anexo I
 
@@ -140,73 +116,51 @@ Ofício-Circular 7 (1844646) SEI 19957.009383/2021-43 / pg. 1
 
 Tabela X - 1
 
+Tabela X - 2
+
 Classe [Sênior, Subordinada,
 
 Subordinada 1, Subordinada 2
 
 etc]
 
-Subclasse [Sênior, Subordinada,
-
-Subordinada 1, Subordinada 2 etc]
-
-Tabela X - 2
-
 Descrição da Série/Classe
 
 (separar por classe e série)
+
+Subclasse [Sênior, Subordinada,
+
+Subordinada 1, Subordinada 2 etc]
 
 Descrição da Série/Subclasse
 
 (separar por subclasse e série)
 
-5
-
-.
-
-Para os fundos fechados, passou a ser permitida a emissão de mais de
+5. Para os fundos fechados, passou a ser permitida a emissão de mais de
 
 uma Subclasse Mezanino, com diferentes séries.
 
-6
-
-.
-
-As alterações descritas acima são aplicáveis a todos os subitens da
+6. As alterações descritas acima são aplicáveis a todos os subitens da
 
 Tabela X, que contemplem abertura de informações por subclasses e séries, sendo
 
-que para as Subclasses Mezanino, serão adicionadas linhas de “séries”, quando
+que para as Subclasses Mezanino, serão adicionadas linhas de “séries”
+
+, quando
 
 houver necessidade de abertura.
 
-7
+7. Exclusão de campo do informe:
 
-.
-
-Exclusão de campo do informe:
-
-a
-
-)
-
-O item 2.i (Cotas de Fundos de Investimento em Direitos Creditórios
+a) O item 2.i (Cotas de Fundos de Investimento em Direitos Creditórios
 
 Não Padronizados), da Tabela I, foi excluído, uma vez que esta
 
 categoria deixou de existir.
 
-8
+8. Criação de novos campos:
 
-.
-
-Criação de novos campos:
-
-a
-
-)
-
-Foram criados os campos 8 e 9 com o objetivo de permitir
+a) Foram criados os campos 8 e 9 com o objetivo de permitir
 
 a divulgação de informações prestadas pelos administradores ao
 
@@ -214,25 +168,17 @@ Sistema de Informações de Crédito - SCR do Banco Central do Brasil e,
 
 ainda, sobre a regularidade tributária dos cedentes.
 
-9
-
-.
-
-Informamos que dúvidas referentes à instalação, utilização e
+9. Informamos que dúvidas referentes à instalação, utilização e
 
 funcionamento do Sistema Fundos.NET, assim como o relato de problemas ou
 
-diﬁculdades no envio de documentos, devem ser encaminhadas para a
+dificuldades no envio de documentos, devem ser encaminhadas para a
 
 Superintendência de Emissores da B3 pelo telefone (11) 2565-5064 ou por e-mail:
 
 emissores.fundos@b3.com.br.
 
-10
-
-.
-
-Dúvidas quanto ao preenchimento dos itens do Informe Mensal podem
+10. Dúvidas quanto ao preenchimento dos itens do Informe Mensal podem
 
 ser direcionadas para a Divisão de Securitização e Agronegócio - DSEC
 
@@ -250,64 +196,38 @@ Superintendente de Securitização e Agronegócio - SSE
 
 Ofício-Circular 7 (1844646) SEI 19957.009383/2021-43 / pg. 2
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Bruno de Freitas Gomes
 
-Bruno de Freitas Gomes
-
-Condeixa Rodrigues
-
-,
-
-Superintendente
-
-, em 14/08/2023, às 10:28, com
+Condeixa Rodrigues, Superintendente, em 14/08/2023, às 10:28, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Marcelo Firmino dos Santos,
 
-Marcelo Firmino dos Santos
-
-,
-
-Chefe de Divisão
-
-, em 14/08/2023, às 10:32, com fundamento no art. 6º do
+Chefe de Divisão, em 14/08/2023, às 10:32, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1844646
+autenticidade, informando o código verificador
 
-e o código CRC
-
-7A2A8AD7
-
-.
+1844646 e o código CRC 7A2A8AD7.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1844646
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1844646 and the "Código CRC" 7A2A8AD7.
 
-7A2A8AD7
-
-.
-
-Referência:
-
-Processo nº 19957.009383/2021-43
-
-Documento SEI nº 1844646
+Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1844646
 
 Ofício-Circular 7 (1844646) SEI 19957.009383/2021-43 / pg. 3

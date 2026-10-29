@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0323.pdf
 sha256_fonte: e72d6f81faaf97e0a6ee3bb93071ce2ac61246ee523fb6ca93b0b94a05bb1b5f
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -80,7 +80,9 @@ primários e secundários.
 
 6. Dito isto, o administrador e o gestor de fundos de investimento atuam em nome do fundo no caso de distribuições primárias e embora sejam
 
-considerados ofertantes pela regulamentação[1], assumindo as responsabilidades inerentes a esse papel, para efeito da lógica de funcionamento do Sistema SRE,
+considerados ofertantes pela regulamentação[1]
+
+, assumindo as responsabilidades inerentes a esse papel, para efeito da lógica de funcionamento do Sistema SRE,
 
 não devem ser identificados como ofertantes já que (i) os três atores, quais sejam administrador, o gestor e o próprio fundo de investimento, representam o
 
@@ -240,11 +242,19 @@ Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1714652 e o código
+A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1714652 e o código
 
 CRC A0FD28A9.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 1714652 and the "Código CRC"
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 1714652 and the "Código CRC"
 
 A0FD28A9.
 

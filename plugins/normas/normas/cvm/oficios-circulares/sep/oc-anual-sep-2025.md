@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-anual-sep-2025.pdf
 sha256_fonte: b71a3e5c7062d510a820e64f19680dbee1de7ae0d7948bb11dd5387273f8a34a
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -30,7 +30,7 @@ OFÍCIO CIRCULAR/ANUAL-2025-CVM/SEP
 
 Rio de Janeiro, 27 de fevereiro de 2025.
 
-ASSUNTO: Orientações gerais sobre procedimentos a serem observados pelas companhias abertas ,
+ASSUNTO: Orientações gerais sobre procedimentos a serem observados pelas companhias abertas,
 
 estrangeiras e incentivadas registradas na CVM.
 
@@ -52,19 +52,19 @@ forma coerente com as melhores práticas de governança corporativa, visando à 
 
 equidade no relacionamento com os investidores e o mercado, bem como minimizar eventuais desvios e,
 
-consequentemente, reduzir a necessidade de formulação de exigências , a aplicação de multas
+consequentemente, reduzir a necessidade de formulação de exigências, a aplicação de multas
 
 cominatórias e de penalidades.
 
 Este expediente consolida os Ofícios Circulares anteriormente emitidos pela SEP, não dispensando,
 
-entretanto, a leitura das normas aplicáveis e o acompanhamento da s decisões do Colegiado da CVM ,
+entretanto, a leitura das normas aplicáveis e o acompanhamento das decisões do Colegiado da CVM,
 
 devendo ser observada a atualização da legislação societária e da regulamentação, em especial as
 
 ocorridas após a presente data.
 
-A atualização anual deste Ofício Circular conta com a colaboração de todos os componentes da S EP e o
+A atualização anual deste Ofício Circular conta com a colaboração de todos os componentes da SEP e o
 
 envolvimento dos servidores é de fundamental importância.
 
@@ -98,11 +98,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-2
-
 5) quanto à divulgação e à utilização de informações, visando contribuir para evitar a ocorrência
 
-de casos de insider trading no mercado de capitais brasileiro , a leitura d o Guia de
+de casos de insider trading no mercado de capitais brasileiro, a leitura do Guia de
 
 Recomendações e Boas Práticas para a Prevenção ao Insider Trading, de AMEC e Vieira Rezende
 
@@ -116,13 +114,13 @@ FERNANDO SOARES VIEIRA
 
 Superintendente de Relações com Empresas
 
+2
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-3
 
 Sumário
 
@@ -188,13 +186,13 @@ Empresas.NET ...................................................................
 
 3.2.2 Divulgação antecipada de informações financeiras .................................................................... 49
 
+3
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-4
 
 3.2.3 Orçamento de capital ................................................................................................................... 50
 
@@ -272,13 +270,13 @@ a Resolução CVM nº 81/22 ....................................................
 
 4.1.1 Distinção entre fato relevante e comunicado ao mercado ........................................................ 87
 
+4
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-5
 
 4.1.2 Informações mínimas necessárias a serem divulgadas quando da aquisição de
 
@@ -354,13 +352,13 @@ em ações .....................................................................
 
 4.12 Política de divulgação ........................................................................................................................ 118
 
+5
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-6
 
 4.13 Estatuto social ................................................................................................................................... 119
 
@@ -426,13 +424,13 @@ Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
 7.1.2 Pedidos públicos de procuração ................................................................................................ 144
 
+6
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-7
 
 7.1.3 Solicitação de relação de endereços de acionistas (artigo 126, parágrafo 3º, da Lei nº
 
@@ -504,13 +502,13 @@ conselho de administração no caso de voto a distância........................
 
 7.15 Dividendos de ações preferenciais (artigo 203 da Lei nº 6.404/76) ................................................. 200
 
+7
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-8
 
 7.16 Comunicação sobre o não pagamento de dividendo obrigatório em função da situação
 
@@ -578,13 +576,13 @@ Termo de Compromisso, Contagem de Prazos, Pedidos de Acesso à Informação e LG
 
 10.1.4 Informações não aplicáveis ........................................................................................................ 222
 
+8
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-9
 
 10.2 Orientações para o preenchimento do formulário de referência ..................................................... 223
 
@@ -670,13 +668,13 @@ emissor (item 5.1) .............................................................
 
 (item 5.3) .......................................................................................................................................... 241
 
+9
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-10
 
 10.2.5.4 Comentários sobre alterações significativas e expectativas (item 5.4) ............................ 241
 
@@ -702,7 +700,7 @@ mesma classe ou espécie de ações (item 6.2) .................................
 
 10.2.7.2 Descrição sobre a atuação do conselho de administração (item 7.2) .............................. 247
 
-10.2.7.3 Identificação dos administradores e membros do conselho fiscal (item 7.3) ................... 247
+10.2.7.3 Identificação dos administradores e membros do conselho fiscal (item 7.3)................... 247
 
 10.2.7.4 Identificação dos membros dos comitês estatutários e dos comitês de auditoria,
 
@@ -762,15 +760,15 @@ administração e da diretoria estatutária (item 8.11) ........................
 
 10.2.8.11 Informação, por órgão, sobre as participações detidas por membros do
 
-conselho de administração, da diretoria estatutária e do conselho fiscal ( item 8.13) ....................... 262
+conselho de administração, da diretoria estatutária e do conselho fiscal (item 8.13) ....................... 262
+
+10
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-11
 
 10.2.8.12 Planos de previdência em vigor conferidos aos membros do conselho de
 
@@ -782,7 +780,7 @@ de administração, da diretoria estatutária e do conselho fiscal (item 8.15) .
 
 10.2.8.14 Arranjos contratuais, apólices de seguros ou outros instrumentos que
 
-estruturem mecanismos de remuneração ou indenização para os administradores ( item
+estruturem mecanismos de remuneração ou indenização para os administradores (item
 
 8.16) ........................................................................................................................................ 264
 
@@ -802,7 +800,7 @@ estatutária ou do conselho fiscal recebida por qualquer razão que não a funç
 
 estatutária ou do conselho fiscal reconhecida no resultado dos controladores do emissor, de
 
-sociedades sob controle comum e de controladas do emissor ( item 8.19) ....................................... 265
+sociedades sob controle comum e de controladas do emissor (item 8.19) ....................................... 265
 
 10.2.8.18 Outras informações julgadas relevantes (item 8.20) ...................................................... 266
 
@@ -856,13 +854,13 @@ estrangeiros (item 12.2) .......................................................
 
 11.3.1 Demonstrações financeiras ........................................................................................................ 279
 
+11
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-12
 
 11.3.2 Edital de convocação de AGO .................................................................................................... 279
 
@@ -930,13 +928,13 @@ artigo 11 da Resolução CVM nº 44/21 .........................................
 
 13.16 Conduta e conflitos de interesse .................................................................................................... 295
 
+12
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-13
 
 13.16.1 Código de conduta ................................................................................................................... 295
 
@@ -946,13 +944,13 @@ Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
 13.18 Divulgação de informações em língua inglesa ................................................................................ 296
 
+13
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-14
 
 1 A Superintendência de Relações com Empresas (SEP)
 
@@ -964,7 +962,7 @@ A SEP exerce suas atividades por meio da divisão de trabalho em 7 (sete) compon
 
 Gerência de Acompanhamento de Empresas 1 (GEA-1), Gerência de Acompanhamento de Empresas 2
 
-(GEA-2), Gerência de Acompanhamento de Empresas 3 (GEA -3), Gerência de Acompanhamento de
+(GEA-2), Gerência de Acompanhamento de Empresas 3 (GEA-3), Gerência de Acompanhamento de
 
 Empresas 4 (GEA-4), Gerência de Acompanhamento de Empresas 5 (GEA-5), Divisão de Acompanhamento
 
@@ -988,7 +986,7 @@ abertas, estrangeiras.
 
 Gerências de Acompanhamento de Empresas 1 e 2 (GEA-1 e GEA-2):
 
-• Analisar pedidos de registro inicial de emissor de valores mobiliários, bem como atualiza r
+• Analisar pedidos de registro inicial de emissor de valores mobiliários, bem como atualizar
 
 registros de companhias em ofertas públicas de distribuição de valores mobiliários e ofertas
 
@@ -996,9 +994,9 @@ públicas de aquisição de ações (OPA);
 
 • Analisar consultas de companhias e cancelamentos voluntários de registro; e
 
-• Analisar a aderência às normas d a divulgação de documentos e informações periódicas e
+• Analisar a aderência às normas da divulgação de documentos e informações periódicas e
 
-eventuais pelas companhias, seus administradores ou acionistas , determinando sua
+eventuais pelas companhias, seus administradores ou acionistas, determinando sua
 
 reapresentação/republicação, quando necessário.
 
@@ -1018,13 +1016,13 @@ administração;
 
 Gerência de Acompanhamento de Empresas- 5 (GEA-5):
 
+14
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-15
 
 • Analisar as demonstrações financeiras com relatórios de auditoria com opinião modificada;
 
@@ -1058,15 +1056,17 @@ Superintendência; e
 
 A identificação dos titulares dos componentes organizacionais que compõem a SEP está disponível na
 
-página da Comissão de Valores Mobiliários ( CVM) na rede mundial de computadores, podendo ser
+página da Comissão de Valores Mobiliários (CVM) na rede mundial de computadores, podendo ser
 
 acessada em https://www.gov.br/cvm/pt-br/composicao/orgaos-especificos/superintendencia-de-
 
-relacoes-com-empresas e em https://www.gov.br/cvm/pt-br/composicao/estrutura, “Órgãos Específicos
+relacoes-com-empresas e em https://www.gov.br/cvm/pt-br/composicao/estrutura,
+
+“Órgãos Específicos
 
 → Superintendência de Relações com Empresas”.
 
-O atendimento às companhias abertas e estrangeiras registradas é realizado pel as GEA-1 e GEA -2, de
+O atendimento às companhias abertas e estrangeiras registradas é realizado pelas GEA-1 e GEA-2, de
 
 acordo com os setores de atividade, conforme tabela a seguir.
 
@@ -1098,13 +1098,13 @@ Cooperativas GEA-2
 
 Crédito imobiliário GEA-1
 
+15
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-16
 
 Educação GEA-2
 
@@ -1198,43 +1198,43 @@ Emp. adm. part. – Intermediação financeira GEA-1
 
 Emp. adm. part. – Máquinas, equipamentos, veículos e peças GEA-1
 
+16
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-17
+Emp. adm. part. – Metalurgia e siderurgia Emp. adm. part. – Papel e celulose Emp. adm. part. – Pesca Emp. adm. part. – Petróleo e gás Emp. adm. part. – Previdência privada Emp. adm. part. – Química, petroquímica, combustíveis e borracha Emp. adm. part. – Reflorestamento Emp. adm. part. – Saneamento, serv. água e gás Emp. adm. part. – Securitização de recebíveis Emp. adm. part. – Seguradoras e corretoras Emp. adm. part. – Sem setor principal Emp. adm. part. – Serviços médicos Emp. adm. part. – Serviços transporte e logística Emp. adm. part. – Telecomunicações Emp. adm. part. – Têxtil e vestuário GEA-2
 
-Emp. adm. part. – Metalurgia e siderurgia GEA-2
+GEA-2
 
-Emp. adm. part. – Papel e celulose GEA-2
+GEA-2
 
-Emp. adm. part. – Pesca GEA-2
+GEA-1
 
-Emp. adm. part. – Petróleo e gás GEA-1
+GEA-1
 
-Emp. adm. part. – Previdência privada GEA-1
+GEA-1
 
-Emp. adm. part. – Química, petroquímica, combustíveis e borracha GEA-1
+GEA-2
 
-Emp. adm. part. – Reflorestamento GEA-2
+GEA-2
 
-Emp. adm. part. – Saneamento, serv. água e gás GEA-2
+GEA-1
 
-Emp. adm. part. – Securitização de recebíveis GEA-1
+GEA-1
 
-Emp. adm. part. – Seguradoras e corretoras GEA-1
+GEA-1
 
-Emp. adm. part. – Sem setor principal GEA-1
+GEA-2
 
-Emp. adm. part. – Serviços médicos GEA-2
+GEA-2
 
-Emp. adm. part. – Serviços transporte e logística GEA-2
+GEA-2
 
-Emp. adm. part. – Telecomunicações GEA-2
-
-Emp. adm. part. – Têxtil e vestuário GEA-2
+GEA-2
 
 O atendimento às companhias incentivadas é realizado pelo componente DAIN, não se aplicando a tabela
 
@@ -1282,13 +1282,13 @@ e https://www.gov.br/cvm/pt-br/assuntos/noticias/uso-de-assinaturas-eletronicas-
 
 publica-federal.
 
+17
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-18
 
 2 Registro de Emissor
 
@@ -1298,11 +1298,11 @@ Nos termos do artigo 3º da Resolução CVM nº 80/22, são duas as categorias d
 
 de valores mobiliários, conforme as espécies de valores mobiliários admitidos à negociação pública:
 
-• Categoria A , que autoriza a negociação de quaisquer valores mobiliários do emissor em
+• Categoria A, que autoriza a negociação de quaisquer valores mobiliários do emissor em
 
 mercados regulamentados de valores mobiliários; e
 
-• Categoria B , que autoriza a negociação de valores mobiliários do emissor em mercados
+• Categoria B, que autoriza a negociação de valores mobiliários do emissor em mercados
 
 regulamentados de valores mobiliários, exceto os abaixo identificados:
 
@@ -1324,7 +1324,7 @@ para cada categoria de emissor quanto à disciplina da prestação de informaç�
 
 Conforme previsto no artigo 3º da Resolução CVM nº 80/22 e no inciso I dos artigos 1º e 2º do Anexo A
 
-do referido normativo, os emissores de valores mobiliários indicarão , no momento do registro, em qual
+do referido normativo, os emissores de valores mobiliários indicarão, no momento do registro, em qual
 
 das categorias desejam se registrar, de acordo com as espécies de valores mobiliários que pretendem ter
 
@@ -1332,7 +1332,7 @@ negociadas publicamente. Assim, caberá ao emissor escolher o regime de obrigaç
 
 submeter.
 
-Chama-se a atenção que, nos termos do artig o 7º do Anexo J da Resolução citada, as companhias
+Chama-se a atenção que, nos termos do artigo 7º do Anexo J da Resolução citada, as companhias
 
 estrangeiras deverão obter o registro na categoria A ou B, conforme enquadramento constante dos incisos
 
@@ -1358,13 +1358,13 @@ Nos casos de pedido de registro inicial com concomitante pedido de registro ordi
 
 de distribuição de valores mobiliários, as exigências a serem formuladas no âmbito do processo de registro
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+18
+
+b) COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-19
 
 inicial serão encaminhadas ao requerente por meio de Ofício Conjunto com a Superintendência de
 
@@ -1380,7 +1380,7 @@ a) indicar o período durante o qual tal informação deve se manter reservada s
 
 ou indeferimento; e
 
-b) declarar a justificativa para o sigilo dos pedidos, incluindo as razões pelas quais a sua divulgação
+declarar a justificativa para o sigilo dos pedidos, incluindo as razões pelas quais a sua divulgação
 
 pode representar vantagem competitiva a outros agentes econômicos ou pôr em risco interesse
 
@@ -1390,7 +1390,7 @@ Além disso, o pedido de registro inicial de emissor efetuado juntamente a pedid
 
 registro ordinário de oferta pública de distribuição de ações, bem como todos os documentos relativos
 
-aos requerimentos de registro de companhia aberta, previstos na Resolução CVM nº 80/ 22, devem ser
+aos requerimentos de registro de companhia aberta, previstos na Resolução CVM nº 80/22, devem ser
 
 apresentados, exclusivamente, de forma eletrônica por meio do Sistema Empresas.NET, conforme
 
@@ -1400,13 +1400,13 @@ Ressalta-se que, caso o pedido de registro apresentado sob análise reservada es
 
 responsabilidade do emissor sua divulgação imediata, nos termos da Resolução CVM nº 44/21.
 
-Lembra-se aos emissores solicitantes de registro ( categorias A e B) sem concomitante oferta de
+Lembra-se aos emissores solicitantes de registro (categorias A e B) sem concomitante oferta de
 
-distribuição de valores mobiliários sobre a incidência e o recolhimento da taxa de fiscalização , nos
+distribuição de valores mobiliários sobre a incidência e o recolhimento da taxa de fiscalização, nos
 
 pedidos protocolados a partir de 2022, tendo em vista as atualizações legais e regulatórias, com a edição,
 
-em 01.10.2021, da Medida Provisória nº 1.072 , convertida na Lei nº 14.317/22, conforme detalhado no
+em 01.10.2021, da Medida Provisória nº 1.072, convertida na Lei nº 14.317/22, conforme detalhado no
 
 item 2.5 deste Ofício.
 
@@ -1436,13 +1436,13 @@ b) Dados cadastrais da companhia:
 
 • Nome da companhia / CNPJ
 
+19
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-20
 
 • Dados cadastrais do solicitante:
 
@@ -1478,7 +1478,7 @@ fornecido pela CVM.
 
 Frisa-se que o Sistema Empresas.NET deve ser utilizado somente para o envio das informações relativas
 
-ao registro inicial de companhia aberta. Informações e documentos a serem direcionado s à
+ao registro inicial de companhia aberta. Informações e documentos a serem direcionados à
 
 Superintendência de Registro de Valores Mobiliários (SRE) devem ser enviados em conformidade com os
 
@@ -1508,23 +1508,23 @@ Solicita-se ainda que o emissor não faça protocolos de forma parcial. Nesse se
 
 iniciar o protocolo de documentos quando todos os documentos já estiverem finalizados e disponíveis
 
-para envio , devendo enviar o requerimento do pedido de registro após o envio de todos os outros
+para envio, devendo enviar o requerimento do pedido de registro após o envio de todos os outros
 
 documentos necessários.
 
-Os documentos devem ser carregados nas associações (categoria, tipo e espécie ) apropriadas, uma vez
+Os documentos devem ser carregados nas associações (categoria, tipo e espécie) apropriadas, uma vez
 
 que o protocolo de documentos inadequadamente categorizados inviabiliza o seu reconhecimento e
 
 posterior disponibilização na página da CVM. Vide Manual de Envio de Informações Periódicas e Eventuais
+
+20
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-21
 
 http://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/companhias/Manual-Sistema-de-Envio-
 
@@ -1540,7 +1540,7 @@ direcionado à CVM ou à B3.
 
 As companhias da categoria B devem apresentar, para fins de pedido de registro inicial, os documentos
 
-previstos no Anexo A da Resolução CVM nº 80/22, mesmo que algum documento não con ste da
+previstos no Anexo A da Resolução CVM nº 80/22, mesmo que algum documento não conste da
 
 obrigatoriedade indicada no artigo 34 da Resolução CVM nº 80/22.
 
@@ -1570,7 +1570,7 @@ pública de distribuição de valores mobiliários, a taxa a ser paga é a refer
 
 conferida pela SRE.
 
-A SRE divulgou o Ofício -Circular nº 1/2022 -CVM/SRE, em 14.01.2022, acessível pelo link
+A SRE divulgou o Ofício-Circular nº 1/2022-CVM/SRE, em 14.01.2022, acessível pelo link
 
 http://conteudo.cvm.gov.br/legislacao/oficios-circulares/sre/oc-sre-0122.html, com orientações sobre a
 
@@ -1602,13 +1602,13 @@ do ano civil (31/12), deverão apresentar declaração assinada pelo diretor de 
 
 informando o valor do patrimônio líquido da companhia em 31 de dezembro do ano anterior.
 
+21
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-22
 
 Esta declaração deverá ser apresentada no Sistema Empresas.NET junto com o restante da documentação
 
@@ -1642,7 +1642,7 @@ de registro do emissor permaneça ativo por prazo inferior a 365 (trezentos e se
 
 de competência do tributo. Não há distinção de cobrança entre as categorias A e B.
 
-Segue o link da página da CVM para preenchimento e impress ão da GRU para recolhimento da taxa de
+Segue o link da página da CVM para preenchimento e impressão da GRU para recolhimento da taxa de
 
 fiscalização: https://cvmweb.cvm.gov.br/SAR/FormPesqGRU.aspx.
 
@@ -1652,7 +1652,7 @@ acréscimos legais.
 
 As dúvidas acerca do recolhimento da taxa de fiscalização podem também ser encaminhadas para a
 
-Gerência de Arrecadação e Cobrança da CVM (GEARC) , pelo e-mail gearc@cvm.gov.br. A CVM mantém
+Gerência de Arrecadação e Cobrança da CVM (GEARC), pelo e-mail gearc@cvm.gov.br. A CVM mantém
 
 também página dedicada a divulgar diversos aspectos relativos à taxa de fiscalização, disponível pelo link
 
@@ -1674,11 +1674,13 @@ Solicita-se que o último documento a ser reapresentado seja a carta-resposta da
 
 exigências encaminhado. Sugere-se que este documento seja estruturado com a reprodução da exigência
 
-formulada no ofício, seguido da resposta da companhia . Ao fim da carta -resposta, é desejável que a
+formulada no ofício, seguido da resposta da companhia. Ao fim da carta-resposta, é desejável que a
 
 companhia relacione todos os documentos que estão sendo reapresentados no Sistema Empresas.NET
 
 para fins de cumprimento das exigências formuladas no ofício.
+
+22
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1686,21 +1688,19 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-23
-
 2.7 Demonstrações financeiras apresentadas no pedido de registro
 
 O parágrafo 3º do artigo 3º da Resolução CVM nº 80/22 estabelece que as ações, bônus de subscrição,
 
 debêntures conversíveis ou permutáveis em ações ou certificados de depósito desses valores mobiliários
 
-emitidos por emissor em fase pré -operacional registrado na categoria A só podem ser negociados em
+emitidos por emissor em fase pré-operacional registrado na categoria A só podem ser negociados em
 
 mercados regulamentados entre investidores qualificados. O parágrafo 5º do mesmo artigo define que o
 
-emissor será considerado pré -operacional enquanto não apresentar receita proveniente de suas
+emissor será considerado pré-operacional enquanto não apresentar receita proveniente de suas
 
-operações, em demonstração financeira auditada por auditor independent e registrado na CVM . A
+operações, em demonstração financeira auditada por auditor independente registrado na CVM. A
 
 Resolução CVM nº 160/22 estabelece, ainda, outros requisitos relativos à oferta para os emissores em
 
@@ -1710,13 +1710,13 @@ Em virtude dessas restrições, algumas companhias pleiteantes de registro inici
 
 de tais requisitos por considerarem que, apesar de não apresentarem receita proveniente de suas
 
-operações em demonstração financeira anual, podem dem onstrar seu caráter operacional de forma
+operações em demonstração financeira anual, podem demonstrar seu caráter operacional de forma
 
 diversa, utilizando-se especialmente de demonstrações financeiras combinadas, situação específica que
 
 se apresenta a seguir.
 
-Pode-se separar os casos mais recentes , em geral , em dois grandes grupos: (i) companhias que
+Pode-se separar os casos mais recentes, em geral, em dois grandes grupos: (i) companhias que
 
 promoveram reestruturação societária no mesmo exercício social em que estão solicitando o registro,
 
@@ -1724,17 +1724,17 @@ para incorporação de sociedades operacionais ou parte dessas sociedades operac
 
 reestruturações, sendo que a companhia que pleiteia o registro não era operacional, ou até não existia
 
-nos exercícios sociais anteriores; e (ii) companhias que , no momento do pedido de registro , ainda se
+nos exercícios sociais anteriores; e (ii) companhias que, no momento do pedido de registro, ainda se
 
-encontram em situação de pré-operacionalidade, mas cuja reestruturação societária que virá a torná -la
+encontram em situação de pré-operacionalidade, mas cuja reestruturação societária que virá a torná-la
 
 operacional está prevista para ocorrer durante o processo de análise do pedido de registro, ou em
 
 momento imediatamente posterior.
 
-Nas companhias do primeiro grupo, por força do inciso VIII, “b”, do art igo 1º (ou inciso XI, “b”, do artigo
+Nas companhias do primeiro grupo, por força do inciso VIII, “b”, do artigo 1º (ou inciso XI, “b”, do artigo
 
-2º, no caso de emissores estrangeiros) do Anexo A da Resolução CVM nº 80/ 22, as companhias
+2º, no caso de emissores estrangeiros) do Anexo A da Resolução CVM nº 80/22, as companhias
 
 apresentam, no momento do pedido de registro, demonstrações financeiras especialmente elaboradas
 
@@ -1742,9 +1742,11 @@ para fins de registro com data recente, em que a nova estrutura patrimonial já 
 
 demonstrações, inclusive apresentando resultados operacionais. Entretanto, ainda assim não são capazes
 
-de cumprir o requisito do art igo 3º, parágrafo 5º, da Resolução CVM nº 80/ 22, pois não apresentam
+de cumprir o requisito do artigo 3º, parágrafo 5º, da Resolução CVM nº 80/22, pois não apresentam
 
-receita em demonstração financeira anual, mas sim em intermediária. Em casos recentes dessa espécie1,
+receita em demonstração financeira anual, mas sim em intermediária. Em casos recentes dessa espécie1
+
+,
 
 as companhias têm apresentado demonstrações financeiras combinadas de forma a simular o histórico
 
@@ -1752,9 +1754,9 @@ operacional da nova companhia.
 
 No segundo grupo, as demonstrações financeiras especialmente elaboradas para fins de registro da
 
-companhia são imateriais , pois não apresentam qualquer indicação sobre a estrutura patrimonial e
+companhia são imateriais, pois não apresentam qualquer indicação sobre a estrutura patrimonial e
 
-financeira do que a companhia virá a se tornar após a reestruturação planejada. Nesses casos 2, as
+financeira do que a companhia virá a se tornar após a reestruturação planejada. Nesses casos2, as
 
 companhias têm recorrido à apresentação de demonstrações financeiras combinadas não só para efeitos
 
@@ -1772,13 +1774,13 @@ futuro, após a concessão do registro.
 
 e 19957.008737/2021-32 (https://conteudo.cvm.gov.br/decisoes/2021/20211130_R1/20211130_D2416.html).
 
+23
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-24
 
 Não obstante, por se tratar de requisito formal presente em Resolução da CVM, em qualquer dos casos,
 
@@ -1788,7 +1790,7 @@ fundamentado, apresentado juntamente com o pedido de registro, a respeito do qua
 
 oportunidade de se manifestar.
 
-Nesse sentido, merece destaque que o Colegiado vem acatando os pedidos de d ispensa feitos pelas
+Nesse sentido, merece destaque que o Colegiado vem acatando os pedidos de dispensa feitos pelas
 
 companhias, em consonância com as características presentes em casos precedentes.
 
@@ -1796,7 +1798,7 @@ Ainda, em alguns casos analisados, foram feitas ressalvas pelo emissor em seu fo
 
 de que as informações provenientes das demonstrações financeiras combinadas não deveriam ser
 
-utilizadas em última análise para a tomada de qualquer decisão de investimento na companhia. Frisa -se
+utilizadas em última análise para a tomada de qualquer decisão de investimento na companhia. Frisa-se
 
 que, embora pelo próprio Pronunciamento Técnico CPC 44 – Demonstrações Combinadas existam
 
@@ -1804,9 +1806,9 @@ limitações que devam ser obrigatoriamente divulgadas, a referida declaração 
 
 referência, no entendimento da SEP, é substancialmente diferente e em certa medida contraditória com
 
-os pedidos de dispensa e com o regime de responsabilidades previstos nos artigos 1 5 e 18 da Resolução
+os pedidos de dispensa e com o regime de responsabilidades previstos nos artigos 15 e 18 da Resolução
 
-CVM nº 80/ 22. Das limitações que as demonstrações financeiras combinadas apresentam não decorre
+CVM nº 80/22. Das limitações que as demonstrações financeiras combinadas apresentam não decorre
 
 necessariamente que não se prestem à tomada de decisão de investimento. Além disso, informações que
 
@@ -1824,7 +1826,9 @@ ser objeto de auditoria por auditor independente registrado na CVM, por força d
 
 estejam sendo apresentadas para substituir a imaterialidade de um formulário ITR, estas deverão ser
 
-auditadas e não somente revisadas. No âmbito do Processo CVM nº 19957.006640/2021-953, no dia
+auditadas e não somente revisadas. No âmbito do Processo CVM nº 19957.006640/2021-953
+
+, no dia
 
 12.04.2022, em reunião do Colegiado, tal entendimento foi confirmado.
 
@@ -1834,7 +1838,7 @@ Deferido o registro de companhia aberta, a CVM encaminhará ofício informando a
 
 seu código definitivo perante a CVM.
 
-A companhia deverá substituir, no Sistema Empresas. NET, o código provisório pelo código definitivo e
+A companhia deverá substituir, no Sistema Empresas.NET, o código provisório pelo código definitivo e
 
 reapresentar o formulário cadastral com a atualização dos dados do registro de companhia aberta.
 
@@ -1854,13 +1858,13 @@ consolidado.
 
 3 Vide https://conteudo.cvm.gov.br/decisoes/2022/20220412_R1/20220412_D2313.html.
 
+24
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-25
 
 2.9 Orientações adicionais
 
@@ -1876,7 +1880,7 @@ Recomenda-se que sejam enviados no formato “.pdf” sem que estejam digitalmen
 
 tenham sido digitalizados, que tenha sido utilizada tecnologia OCR (“Optical Character Recognition”), que
 
-permita reconhecer caracteres de texto nos arquivos , devendo ser aplicada a resolução adequada ao
+permita reconhecer caracteres de texto nos arquivos, devendo ser aplicada a resolução adequada ao
 
 arquivo de modo a preservar especialmente a nitidez dos caracteres. Ao digitalizar documentos físicos
 
@@ -1894,7 +1898,7 @@ do A da Resolução CVM nº 80/22, são as seguintes:
 
 a) demonstrações financeiras especialmente elaboradas para fins de registro, nos termos dos
 
-artigos 27 e 2 9 da Resolução, referentes: (I) ao último exercício social, desde que tais
+artigos 27 e 29 da Resolução, referentes: (I) ao último exercício social, desde que tais
 
 demonstrações reflitam, adequadamente, a estrutura patrimonial do emissor quando do
 
@@ -1908,13 +1912,13 @@ alteração relevante na estrutura patrimonial do emissor após a data de encerr
 
 exercício social; ou (ii) o emissor tenha sido constituído no mesmo exercício do pedido de
 
-registro. Ressalta -se que a apresentação de demonstrações financeiras especialmente
+registro. Ressalta-se que a apresentação de demonstrações financeiras especialmente
 
 elaboradas para fins de registro com data de referência posterior à do encerramento do
 
 exercício somente deve se dar nos casos em que houve uma efetiva alteração na estrutura
 
-patrimonial do emissor. Nas hipóteses previstas no art igo 1º, inciso VIII, alíneas “a” e “b.1” do
+patrimonial do emissor. Nas hipóteses previstas no artigo 1º, inciso VIII, alíneas “a” e “b.1” do
 
 Anexo A devem ser apresentados os comentários da administração de que trata o inciso IX do
 
@@ -1922,7 +1926,7 @@ artigo mencionado;
 
 b) demonstrações financeiras referentes aos 3 (três) últimos exercícios sociais, elaboradas de
 
-acordo com as normas contábeis aplicáveis ao emissor nos respectivos exercícios. Trata -se de
+acordo com as normas contábeis aplicáveis ao emissor nos respectivos exercícios. Trata-se de
 
 demonstrações financeiras históricas elaboradas conforme regras e prazos aplicáveis à época de
 
@@ -1934,17 +1938,17 @@ aos trimestres do exercício social em curso, desde que transcorridos mais de 45
 
 cinco) dias do encerramento de cada trimestre.
 
+25
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-26
+A respeito do conceito de “alteração relevante na estrutura patrimonial do emissor após a data de
 
-A respeito do conceito de “ alteração relevante na estrutura patrimonial do emissor após a data de
-
-encerramento do último exercício social” a que se refere o item (a. II.i) acima, entende -se qualquer
+encerramento do último exercício social” a que se refere o item (a.II.i) acima, entende-se qualquer
 
 alteração significativa, em termos absolutos ou percentuais, de sua estrutura patrimonial como, por
 
@@ -1954,7 +1958,7 @@ do passivo não circulante, dividido pelo ativo total) ou índice de endividamen
 
 acrescido do passivo não circulante, dividido pelo patrimônio líquido).
 
-Cabe esclarecer que as demonstrações financeiras especialmente el aboradas para fins de registro
+Cabe esclarecer que as demonstrações financeiras especialmente elaboradas para fins de registro
 
 previstas na alínea “a” do inciso VIII do artigo 1º do Anexo A da Resolução CVM nº 80/22 devem se referir
 
@@ -2018,17 +2022,17 @@ de valores mobiliários, os emissores deverão reentregar o formulário de refer
 
 na mesma data em que o pedido for protocolizado na CVM.
 
+26
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-27
+Conforme previsto no parágrafo 6º do artigo 25 da Resolução CVM nº 80/22, a reentrega do formulário
 
-Conforme previsto no parágrafo 6º do artigo 25 da Resoluçã o CVM nº 80/22, a reentrega do formulário
-
-de referência, prevista no inciso I do parágrafo 2º do mesmo artigo , fica dispensada no caso de oferta
+de referência, prevista no inciso I do parágrafo 2º do mesmo artigo, fica dispensada no caso de oferta
 
 pública de distribuição de valores mobiliários destinada exclusivamente a investidores profissionais que
 
@@ -2042,13 +2046,13 @@ pelo Protocolo Digital da CVM.
 
 O Protocolo Digital da CVM foi totalmente automatizado para permitir o trâmite ágil e eficiente dos
 
-documentos protocolados na Autarquia. N a atual versão é possível acompanhar o andamento das
+documentos protocolados na Autarquia. Na atual versão é possível acompanhar o andamento das
 
-solicitações durante todas as etapas . Para mais informações deve-se acessar o link
+solicitações durante todas as etapas. Para mais informações deve-se acessar o link
 
-https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital. Nos termos d o artigo 7º -B da
+https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital. Nos termos do artigo 7º-B da
 
-Resolução CVM nº 80/22 o solicitante d o registro de oferta pública de distribuição de ações para
+Resolução CVM nº 80/22 o solicitante do registro de oferta pública de distribuição de ações para
 
 emissores já registrados na categoria A poderá requerer que a análise de seu pleito seja realizada pela SEP
 
@@ -2070,7 +2074,7 @@ frase “sob reserva, nos termos do artigo 7º-B da Resolução CVM nº 80/22”
 
 ii) No item 2. “Arquivos”: o check box “Confidencial” deve ser marcado.
 
-Ressalta-se que, caso a informação a respeito d o pedido de registro apresentado sob análise reservada
+Ressalta-se que, caso a informação a respeito do pedido de registro apresentado sob análise reservada
 
 escape ao controle, é responsabilidade do emissor sua divulgação imediata, nos termos da Resolução CVM
 
@@ -2086,7 +2090,7 @@ demais documentos do emissor já registrado deverão ser encaminhados pelo Proto
 
 não pelo Sistema Empresas.NET.
 
-As companhias estão sujeitas ao disposto no s parágrafos 3º, no caso de categoria A, e 4º , no caso de
+As companhias estão sujeitas ao disposto nos parágrafos 3º, no caso de categoria A, e 4º, no caso de
 
 categoria B, do artigo 25 da Resolução CVM nº 80/22, que determina que a companhia deve atualizar os
 
@@ -2102,7 +2106,9 @@ imposição normativa da Resolução CVM nº 80/22, que é aplicável à companh
 
 Sendo assim, em caso de necessidade de atualização do formulário de referência por conta das hipóteses
 
-previstas no artigo 2 5, a companhia deve atualizar o formulário de referência dentro do prazo
+previstas no artigo 25, a companhia deve atualizar o formulário de referência dentro do prazo
+
+27
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -2110,11 +2116,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-28
-
 determinado, ressaltando que (i) os campos atualizados devem se restringir aos estritamente
 
-necessários por conta do fato gerador; e (ii) a SEP deve ser comunicada por e -mail da atualização,
+necessários por conta do fato gerador; e (ii) a SEP deve ser comunicada por e-mail da atualização,
 
 informando as seções e campos do FRE que foram atualizados e os motivos normativos que ensejaram
 
@@ -2144,7 +2148,7 @@ no exterior que não esteja admitido à negociação em mercado organizado de va
 
 trate de valor mobiliário representativo de dívida e emitido por emissor brasileiro.
 
-Segundo o caput do artigo 4º da Resolução CVM nº 182/23, o s BDR somente podem ser emitidos com
+Segundo o caput do artigo 4º da Resolução CVM nº 182/23, os BDR somente podem ser emitidos com
 
 lastro em valores mobiliários admitidos à negociação e custodiados em países cujos supervisores locais
 
@@ -2160,7 +2164,7 @@ atendam ao requisito estabelecido no caput.
 
 A obtenção de registro por um emissor estrangeiro depende da concomitante existência de programa de
 
-BDR registrado na CVM e do cumprimento do disposto nos art igos 3º, 4º ou 5º do Anexo J da Resolução
+BDR registrado na CVM e do cumprimento do disposto nos artigos 3º, 4º ou 5º do Anexo J da Resolução
 
 CVM nº 80/22.
 
@@ -2188,13 +2192,13 @@ Para que obtenha seu registro com base no cumprimento do artigo 4º do Anexo J d
 
 I – ser um emissor estrangeiro há mais de 18 (dezoito) meses; e
 
+28
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-29
 
 II – nos 18 (dezoito) meses anteriores:
 
@@ -2244,7 +2248,7 @@ no caso de oferta pública de distribuição de BDR, pelo intermediário líder.
 
 Os emissores registrados na CVM como estrangeiros antes de 31.12.2009 estão dispensados da
 
-comprovação do enquadramento na condição de emissor estrangeiro na ocasião d a realização de oferta
+comprovação do enquadramento na condição de emissor estrangeiro na ocasião da realização de oferta
 
 pública de distribuição de certificados de depósito de valores mobiliários – BDR ou do registro de
 
@@ -2264,13 +2268,13 @@ CVM, ressalvada a hipótese de BDR com lastro em valores mobiliários representa
 
 por emissores brasileiros.
 
+29
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-30
 
 O emissor estrangeiro que patrocine programa de certificados de depósito de valores mobiliários – BDR
 
@@ -2286,7 +2290,7 @@ mencionados na alínea “a”, em consequência da sua conversão ou do exercí
 
 direitos que lhes são inerentes, desde que emitidos pelo próprio emissor dos valores
 
-mobiliários referidos na alínea “a” ou por uma sociedade pertencente ao grupo d o
+mobiliários referidos na alínea “a” ou por uma sociedade pertencente ao grupo do
 
 referido emissor; ou
 
@@ -2326,11 +2330,11 @@ permanecerá responsável pelas atribuições inerentes à função pelo prazo d
 
 da renúncia, sem prejuízo de outras medidas que a entidade administradora do mercado em que os BDR
 
-forem negociados estabeleça em seu regulamento , conforme previsto no parágrafo 3º do art igo 9º do
+forem negociados estabeleça em seu regulamento, conforme previsto no parágrafo 3º do artigo 9º do
 
 Anexo J à Resolução CVM nº 80/22.
 
-Alerta-se ainda que o parágrafo 2º do artigo 4 8 da Resolução CVM nº 80/22 prevê que o representante
+Alerta-se ainda que o parágrafo 2º do artigo 48 da Resolução CVM nº 80/22 prevê que o representante
 
 legal dos emissores estrangeiros é equiparado ao diretor de relações com investidores (DRI) para todos
 
@@ -2340,9 +2344,11 @@ As informações relativas ao representante legal devem constar no item 5 do for
 
 pessoa equiparada). Ademais, devem ser enviadas, pelo Sistema Empresas.NET, atas de diretoria,
 
-reuniões do conselho de administração , assembleias ou outros documentos que tratem de eleição ou
+reuniões do conselho de administração, assembleias ou outros documentos que tratem de eleição ou
 
 destituição do representante legal, nos prazos previstos na Resolução CVM nº 80/22.
+
+30
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -2350,19 +2356,17 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-31
-
 Cabe destacar, ainda, que os emissores estrangeiros estão submetidos à Lei nº 6.385/76, em que pese a
 
 lei societária brasileira (Lei nº 6.404/76) não ser a eles aplicável. Assim sendo, suas operações societárias,
 
-bem como a atuação de seus administradores, submetem -se às regras societárias de seu país de origem
+bem como a atuação de seus administradores, submetem-se às regras societárias de seu país de origem
 
 e a seu estatuto social, estando tais emissores estrangeiros sujeitos à fiscalização do órgão regulador
 
 daquele país.
 
-Em 10 .11.2020, no âmbito do Processo CVM nº 19957.005751/2020-014, o Colegiado entendeu, por
+Em 10.11.2020, no âmbito do Processo CVM nº 19957.005751/2020-014, o Colegiado entendeu, por
 
 maioria, que, na análise do pedido de registro inicial de um emissor estrangeiro, a Lei nº 6.385/76 autoriza
 
@@ -2370,11 +2374,11 @@ a área técnica a considerar, em sentido mais amplo, as regras de proteção of
 
 podendo examinar, diante de um pedido de registro de emissor estrangeiro, se existem elementos
 
-mínimos que assegurem a sua proteção, notad amente sobre disposições que estejam em flagrante
+mínimos que assegurem a sua proteção, notadamente sobre disposições que estejam em flagrante
 
 contraste com os princípios e as diretrizes que orientam o cuidado aos direitos dos investidores e o regular
 
-funcionamento do me rcado de capitais e a sua idoneidade. Não se trata, portanto, de dar aplicação
+funcionamento do mercado de capitais e a sua idoneidade. Não se trata, portanto, de dar aplicação
 
 indevida à lei societária brasileira, mas de exercer um juízo de compatibilidade entre o direito societário
 
@@ -2386,7 +2390,7 @@ notadamente regular e fiscalizar a disponibilização de informações pelas com
 
 principalmente no que diz respeito à Resolução CVM nº 44/21 e à Resolução CVM nº 80/22. Lembra-se,
 
-ainda, que as regras constantes da Resolução CVM nº 81/ 22 não s ão aplicáveis às companhias
+ainda, que as regras constantes da Resolução CVM nº 81/22 não são aplicáveis às companhias
 
 estrangeiras.
 
@@ -2412,13 +2416,15 @@ Nesses casos, no momento de solicitação do protocolo, é preenchido formulári
 
 protocolados. O caráter reservado do pleito deverá ser sinalizado, neste momento, incluindo no item 1.
 
-“Dados do Documento” , no campo “Descrição da Solicitação”, após a especificação da solicitação de
+“Dados do Documento”, no campo “Descrição da Solicitação”, após a especificação da solicitação de
 
 registro da oferta e, se for o caso do registro, a frase “sob reserva, nos termos do artigo 7º-B da Resolução
 
-CVM nº 80/22”.
+CVM nº 80/22”
 
-Ressalta-se que, caso a informação a respeito d o pedido de conversão de categoria apresentado sob
+.
+
+Ressalta-se que, caso a informação a respeito do pedido de conversão de categoria apresentado sob
 
 análise reservada escape ao controle, é responsabilidade do emissor sua divulgação imediata, nos termos
 
@@ -2426,13 +2432,13 @@ da Resolução CVM nº 44/21.
 
 4 Vide https://conteudo.cvm.gov.br/decisoes/2020/20201110_R1/20201110_D1932.html.
 
+31
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-32
 
 No caso de pedidos de registro de oferta pública de distribuição de ações para emissores já registrados
 
@@ -2448,7 +2454,7 @@ O Protocolo Digital da CVM foi totalmente automatizado para permitir o trâmite 
 
 documentos protocolados na Autarquia. Na atual versão é possível acompanhar o andamento das
 
-solicitações durante todas as etapas. Para mais informações deve -se acessar o link
+solicitações durante todas as etapas. Para mais informações deve-se acessar o link
 
 https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital.
 
@@ -2456,7 +2462,7 @@ https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital.
 
 Os emissores devem atentar para o cumprimento das exigências legais e regulamentares impostas no que
 
-se refere à entrega das informações periódicas e eventuais previstas , em especial na Resolução CVM nº
+se refere à entrega das informações periódicas e eventuais previstas, em especial na Resolução CVM nº
 
 44/21 e nas Resoluções CVM nº 80/22 e 81/22. A inadimplência quanto à entrega de informações sujeita
 
@@ -2464,7 +2470,7 @@ o emissor aos procedimentos a seguir comentados.
 
 2.14 Multas cominatórias
 
-Em 01. 10.2021, en trou em vigor a Resolução CVM nº 47/21, dispondo que as superintendências
+Em 01.10.2021, entrou em vigor a Resolução CVM nº 47/21, dispondo que as superintendências
 
 responsáveis pelo acompanhamento da entrega de informações devem divulgar, até 15 de dezembro de
 
@@ -2488,7 +2494,7 @@ dias:
 
 a) Emissores registrados na categoria A:
 
-(i) R$ 1.000,00 (mil reais): para o formulário de referência , o formulário de informações
+(i) R$ 1.000,00 (mil reais): para o formulário de referência, o formulário de informações
 
 trimestrais – ITR, o formulário de demonstrações financeiras padronizadas – DFP e as
 
@@ -2508,19 +2514,19 @@ demonstrações financeiras acompanhadas dos documentos exigidos na regulamenta�
 
 específica; e
 
+32
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-33
-
 (ii) R$ 250,00 (duzentos e cinquenta reais): para os demais documentos.
 
 c) Emissores registrados na categoria B:
 
-(i) R$ 600,00 (seiscento s reais): para o formulário de referência, o formulário de informações
+(i) R$ 600,00 (seiscentos reais): para o formulário de referência, o formulário de informações
 
 trimestrais – ITR, o formulário de demonstrações financeiras padronizadas – DFP e as
 
@@ -2532,7 +2538,7 @@ específica; e
 
 d) Emissores registrados na categoria B em recuperação judicial ou extrajudicial:
 
-(i) R$ 300,00 (trezentos reais): para o formulário de referência , o formulário de informações
+(i) R$ 300,00 (trezentos reais): para o formulário de referência, o formulário de informações
 
 trimestrais – ITR, o formulário de demonstrações financeiras padronizadas – DFP e as
 
@@ -2548,7 +2554,7 @@ emissor que esteja em falência ou em liquidação.
 
 O ofício de aplicação de multa é encaminhado apenas pelos Correios para o endereço da sede da
 
-companhia. Não há envio do ofício para o e -mail do DRI. Nesse sentido, destaca -se a necessidade de
+companhia. Não há envio do ofício para o e-mail do DRI. Nesse sentido, destaca-se a necessidade de
 
 manutenção dos dados cadastrais atualizados, sobretudo os endereços da companhia e do diretor de
 
@@ -2564,7 +2570,7 @@ Nos termos do artigo 16 da Resolução nº CVM 47/21, da decisão de aplicação
 
 cabe recurso ao superintendente da área, em segunda e última instância e sem efeito suspensivo, no
 
-prazo de 10 (dez) dias a contar da data de assinatura do A R do ofício na sede da companhia. Apenas nos
+prazo de 10 (dez) dias a contar da data de assinatura do AR do ofício na sede da companhia. Apenas nos
 
 casos em que a multa cominatória for aplicada pela Superintendência Geral ou por membro do Colegiado
 
@@ -2582,15 +2588,15 @@ A interposição de recurso pela companhia deve ser feita exclusivamente pelo si
 
 seguintes passos:
 
+33
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-34
-
-Central de Sistema s > Taxa de Fiscalização e Multas (menu à esquerda) > Recursos Contra Multa
+Central de Sistemas > Taxa de Fiscalização e Multas (menu à esquerda) > Recursos Contra Multa
 
 Cominatória (menu à direita) > fazer login no Sistema CVMWeb (entrando com a conta GOV.BR, com
 
@@ -2624,7 +2630,7 @@ gearc@cvm.gov.br, ou (ii) se não efetua o pagamento e, se o recurso não for de
 
 da multa acrescida dos encargos em função do atraso no seu pagamento.
 
-Para realizar o pedido de restituição, deve -se observar as informações disponíveis no site da CVM e
+Para realizar o pedido de restituição, deve-se observar as informações disponíveis no site da CVM e
 
 acessível pelo link https://www.gov.br/cvm/pt-br/assuntos/regulados/taxa-de-fiscalizacao/restituicao-e-
 
@@ -2638,13 +2644,13 @@ Dúvidas relativas à geração da GRU e ao pagamento ou reembolso de multas dev
 
 diretamente com a Gerência de Arrecadação da CVM (pelo e-mail gearc@cvm.gov.br).
 
-As cópias de Ofícios que comunicam a aplicação de multa devem ser solicitadas à SEP , pela caixa
+As cópias de Ofícios que comunicam a aplicação de multa devem ser solicitadas à SEP, pela caixa
 
 corporativa (sep@cvm.gov.br).
 
 Alerta-se que a mera alegação de que o documento foi encaminhado pelo Sistema Empresas.NET no prazo
 
-previsto na regulamentação, porém utilizando -se da associação ( categoria/tipo/espécie) incorreta, não
+previsto na regulamentação, porém utilizando-se da associação (categoria/tipo/espécie) incorreta, não
 
 constitui motivo para deferimento do recurso, pelo que se recomenda a consulta ao Capítulo 3 deste
 
@@ -2668,13 +2674,13 @@ Em relação às multas acima referidas, caso se entenda pelo indeferimento do r
 
 processo será encaminhado à SEP para decisão e a companhia será oficiada sobre o resultado.
 
+34
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-35
 
 Ressalta-se que, nos termos do artigo 20 da Resolução nº CVM 47/21, a pedido do recorrente, cabe ao
 
@@ -2688,11 +2694,11 @@ O pedido de reconsideração deve ser apresentado no prazo de 5 (cinco) dias út
 
 comunicação de que trata o artigo 19 da referida Resolução e deve ser dirigido ao responsável que houver
 
-aplicado a multa. Não será conhecido o pedido de reconsider ação que seja intempestivo ou formulado
+aplicado a multa. Não será conhecido o pedido de reconsideração que seja intempestivo ou formulado
 
 por pessoa que não o recorrente.
 
-Esclarece-se, ainda, q ue a Resolução CVM nº 55/21 dispõe sobre o parcelamento para pagamento da s
+Esclarece-se, ainda, que a Resolução CVM nº 55/21 dispõe sobre o parcelamento para pagamento das
 
 multas cominatórias aplicadas e que a Resolução CVM nº 47/21 dispõe sobre a incidência de juros de
 
@@ -2708,7 +2714,7 @@ Cabe destacar, ainda, que as multas cominatórias previstas no artigo 63 da Reso
 
 previsão legal no artigo 11, parágrafo 11, da Lei nº 6.385/76) não se confundem com as penalidades
 
-previstas no caput do artigo 11 (e respectivos incisos de I a VIII) da referida Lei , que somente serão
+previstas no caput do artigo 11 (e respectivos incisos de I a VIII) da referida Lei, que somente serão
 
 impostas com a observância do procedimento previsto no parágrafo 2º do artigo 9º da Lei nº 6.385/76
 
@@ -2736,11 +2742,11 @@ atualização ou correção da lista, a não ser no caso de inclusão indevida.
 
 2.17 Suspensão de ofício do registro de emissor
 
-O artigo 5 7 da Resolução CVM nº 80/ 22 prevê que cabe à SEP suspender o registro dos emissores que
+O artigo 57 da Resolução CVM nº 80/22 prevê que cabe à SEP suspender o registro dos emissores que
 
 descumpram, por período superior a 12 (doze) meses, suas obrigações periódicas.
 
-Como previsto no parágrafo único do artigo 5 7 da Resolução CVM nº 80/22, a SEP informará ao emissor
+Como previsto no parágrafo único do artigo 57 da Resolução CVM nº 80/22, a SEP informará ao emissor
 
 sobre a suspensão de seu registro por meio de ofício encaminhado à sua sede, conforme os dados
 
@@ -2748,27 +2754,27 @@ constantes de seu formulário cadastral (vide item 3.3.1), e por meio de comunic
 
 rede mundial de computadores.
 
+35
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-36
-
 O emissor que tiver seu registro suspenso poderá solicitar a reversão da suspensão por meio de pedido
 
 fundamentado, encaminhado à SEP, instruído com documentos que comprovem o cumprimento das
 
-obrigações periódicas e eventuais em atraso, inclusive aquelas que tiveram vencimen to de entrega
+obrigações periódicas e eventuais em atraso, inclusive aquelas que tiveram vencimento de entrega
 
 posteriores à suspensão do registro.
 
-Os prazos e procedimentos a serem observados nesse pedido encontram -se elencados no artigo 5 8 da
+Os prazos e procedimentos a serem observados nesse pedido encontram-se elencados no artigo 58 da
 
 Resolução CVM nº 80/22.
 
-Cabe lembrar que, nos termos do artigo 6 5 da Resolução CVM nº 80/ 22, a inobservância reiterada dos
+Cabe lembrar que, nos termos do artigo 65 da Resolução CVM nº 80/22, a inobservância reiterada dos
 
 prazos fixados para a apresentação de informações periódicas e eventuais previstas na Resolução constitui
 
@@ -2778,7 +2784,7 @@ infração grave para os efeitos do parágrafo 3º do artigo 11 da Lei nº 6.385
 
 2º do artigo 9º da Lei nº 6.385/76.
 
-Nos termos do artigo 60 da Resolução CVM nº 80/ 22, o cancelamento e a suspensão do registro não
+Nos termos do artigo 60 da Resolução CVM nº 80/22, o cancelamento e a suspensão do registro não
 
 eximem o emissor, seu controlador e seus administradores, da responsabilidade decorrente de eventuais
 
@@ -2824,13 +2830,13 @@ b) a inobservância reiterada dos prazos fixados para a apresentação de inform
 
 eventuais previstas na Resolução; e
 
+36
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-37
 
 c) a inobservância do prazo fixado no artigo 132 da Lei nº 6.404/76, para a realização da assembleia
 
@@ -2870,7 +2876,7 @@ parágrafo anterior, observando ainda o disposto na Resolução CVM nº 45/21.
 
 2.20.1 Cancelamento voluntário de registro
 
-A Resolução CVM nº 80/ 22 estipula regras diferenciadas para o cancelamento voluntário do registro,
+A Resolução CVM nº 80/22 estipula regras diferenciadas para o cancelamento voluntário do registro,
 
 conforme a categoria em que o emissor estiver registrado.
 
@@ -2896,17 +2902,17 @@ Caso tenha ocorrido o resgate dos valores mobiliários em circulação ou o venc
 
 pagamento dos valores mobiliários em circulação, sem que tenha sido paga a totalidade de investidores,
 
-o emissor deve depositar o valor devido em banco comercial e deixá -lo à disposição dos investidores. O
+o emissor deve depositar o valor devido em banco comercial e deixá-lo à disposição dos investidores. O
 
 emissor que tenha feito este depósito também deverá divulgar fato relevante dando conta:
+
+37
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-38
 
 a) da decisão de cancelar o registro junto à CVM;
 
@@ -2980,19 +2986,19 @@ da CVM, para efeito de dispensa ou aprovação de procedimento e formalidades pr
 
 seguidos, inclusive no que se refere à divulgação de informações ao público, quando for o caso.
 
+38
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-39
-
 O cancelamento do registro de emissor estrangeiro que patrocine programa de certificados de depósito
 
 de valores mobiliários ― BDR Nível II ou Nível III ― depende do cumprimento, pelo emissor, dos requisitos
 
-para o cancelamento do programa de BDR previstos na regulamentação específica ( Resolução CVM nº
+para o cancelamento do programa de BDR previstos na regulamentação específica (Resolução CVM nº
 
 182/23), conforme dispõe o artigo 53 da Resolução CVM nº 80/22.
 
@@ -3002,13 +3008,13 @@ opera-se automaticamente após o cancelamento voluntário do programa de BDR Ní
 
 Os procedimentos a serem observados nos pedidos de cancelamento voluntário estão regulados nos
 
-artigos 54 e 5 5 da Resolução CVM nº 80/ 22, cabendo ressaltar que os pedidos de cancelamento
+artigos 54 e 55 da Resolução CVM nº 80/22, cabendo ressaltar que os pedidos de cancelamento
 
 formulados pelos emissores registrados na categoria B deverão ser dirigidos à SEP, enquanto os pedidos
 
 formulados pelos emissores registrados na categoria A deverão ser dirigidos à SRE.
 
-Cumpre lembrar que o artigo 5 6 da Resolução CVM nº 80/ 22 prevê que o emissor é responsável por
+Cumpre lembrar que o artigo 56 da Resolução CVM nº 80/22 prevê que o emissor é responsável por
 
 divulgar a informação de deferimento ou indeferimento do cancelamento de registro aos investidores, na
 
@@ -3016,7 +3022,7 @@ mesma forma estabelecida para divulgação de fato relevante.
 
 Alerta-se que a constituição de subsidiária integral não traz como consequência o cancelamento do
 
-registro do emissor. Nesses casos, faz -se necessário o encaminhamento de pedido de cancelamento de
+registro do emissor. Nesses casos, faz-se necessário o encaminhamento de pedido de cancelamento de
 
 registro, no caso de companhias da categoria A à SRE e no caso de companhias de categoria B à SEP, nos
 
@@ -3048,7 +3054,7 @@ comprobatória, como, por exemplo, a publicação das demonstrações financeira
 
 extinção
 
-Consoante o artigo 219 da Lei nº 6.404/76, a companhia extingue -se pelo encerramento da liquidação,
+Consoante o artigo 219 da Lei nº 6.404/76, a companhia extingue-se pelo encerramento da liquidação,
 
 bem como pela incorporação ou fusão, e pela cisão com versão de todo o patrimônio em outras
 
@@ -3058,19 +3064,19 @@ Nos casos de incorporação, fusão ou cisão, o cancelamento do registro da com
 
 extinção e independe da data de homologação por órgão governamental, sendo a companhia elidida da
 
-listagem de companhias abertas a partir da data da AGE que t iver deliberado a incorporação, fusão ou
+listagem de companhias abertas a partir da data da AGE que tiver deliberado a incorporação, fusão ou
 
 cisão. Além do envio obrigatório da ata da respectiva AGE pelo Sistema Empresas.NET, solicita-se que a
 
 companhia ou sua sucessora comunique formalmente à SEP a referida extinção.
+
+39
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-40
 
 É obrigatório o encaminhamento dos documentos e informações periódicos cuja data de vencimento de
 
@@ -3090,7 +3096,7 @@ Ressalte-se que, tendo em vista o artigo 223, parágrafo 3º, da Lei nº 6.404/7
 
 ou cisão envolver companhia aberta, a sociedade que a suceder será também aberta, devendo obter o
 
-respectivo registro e, se for o caso, promover a admi ssão de negociação das novas ações no mercado
+respectivo registro e, se for o caso, promover a admissão de negociação das novas ações no mercado
 
 secundário, no prazo máximo de 120 (cento e vinte) dias, contados da data da assembleia que aprovou a
 
@@ -3098,9 +3104,9 @@ operação, observando as normas pertinentes editadas pela CVM.
 
 Na forma do parágrafo 4º, o descumprimento do disposto no artigo 223, parágrafo 3º, dá ao acionista
 
-direito de retirar -se da companhia, mediante o reembolso do valor das suas ações (artigo 45), nos 30
+direito de retirar-se da companhia, mediante o reembolso do valor das suas ações (artigo 45), nos 30
 
-(trinta) dias seguintes ao término do prazo nele referi do, observando o disposto nos parágrafos 1º e 4º
+(trinta) dias seguintes ao término do prazo nele referido, observando o disposto nos parágrafos 1º e 4º
 
 do artigo 137.
 
@@ -3118,7 +3124,7 @@ artigo 59 da Resolução CVM nº 80/22.
 
 Esclarece-se, ainda, que o cancelamento de ofício do registro de emissor estrangeiro implica
 
-cancelamento dos programas de BDR Nível II ou III patrocinados pelo emissor (artigo 59 -A da Resolução
+cancelamento dos programas de BDR Nível II ou III patrocinados pelo emissor (artigo 59-A da Resolução
 
 CVM nº 80/22).
 
@@ -3126,7 +3132,7 @@ CVM nº 80/22).
 
 3.1 Relatório da administração
 
-O artigo 133 da Lei nº 6.404 /76 estabelece que, além das demonstrações financeiras e demais
+O artigo 133 da Lei nº 6.404/76 estabelece que, além das demonstrações financeiras e demais
 
 documentos citados, as companhias abertas deverão publicar o relatório da administração sobre os
 
@@ -3136,13 +3142,13 @@ deve ser enviado à CVM incluído nas demonstrações financeiras e no formulár
 
 3.3.3).
 
+40
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-41
 
 Vale ressaltar que, independentemente da publicação prevista no parágrafo 3º do artigo 133 da Lei nº
 
@@ -3150,7 +3156,7 @@ Vale ressaltar que, independentemente da publicação prevista no parágrafo 3º
 
 do dia da AGO sejam postos à disposição dos acionistas, na sede da companhia, até um mês antes da data
 
-marcada para a realização da AGO . Para os emissores registrados na categoria A, a que se aplique a
+marcada para a realização da AGO. Para os emissores registrados na categoria A, a que se aplique a
 
 Resolução CVM nº 81/22, é também exigido, pelos artigos 7º e 10 da referida Resolução, que, nessa data,
 
@@ -3162,7 +3168,7 @@ divulgadas na seção 2 do formulário de referência (Comentário dos Diretores
 
 O relatório da administração deverá abranger informações relativas às decisões tomadas em função de
 
-orientações recebidas do acionista controlador so bre as atividades da companhia ― investimentos,
+orientações recebidas do acionista controlador sobre as atividades da companhia ― investimentos,
 
 celebração de contratos, política de preços, entre outros ―, bem como os reflexos de tais decisões,
 
@@ -3172,9 +3178,9 @@ a descrição dos principais investimentos realizados em decorrência do exercí
 
 relatório deve tratar das perspectivas e planos para o exercício em curso e os futuros, especialmente
 
-aqueles relacionados às metas que a c ompanhia deverá perseguir no atendimento de seu objeto social,
+aqueles relacionados às metas que a companhia deverá perseguir no atendimento de seu objeto social,
 
-baseando-se em premissas e fundamentos objetivos, e, se for o caso , à luz do definido em planos
+baseando-se em premissas e fundamentos objetivos, e, se for o caso, à luz do definido em planos
 
 plurianuais.
 
@@ -3188,7 +3194,7 @@ bem como a sua respectiva Nota Explicativa
 
 3.2 Demonstrações financeiras
 
-Conforme previsto no parágrafo 2º e caput do artigo 27 da Resolução CVM nº 80/ 22, o emissor deverá
+Conforme previsto no parágrafo 2º e caput do artigo 27 da Resolução CVM nº 80/22, o emissor deverá
 
 entregar à CVM, pelo Sistema Empresas.NET (vide Capítulo 9), as demonstrações financeiras e, se for o
 
@@ -3216,13 +3222,13 @@ dissidentes;
 
 d) proposta de orçamento de capital preparada pela administração, se houver;
 
+41
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-42
 
 e) declaração dos diretores responsáveis por fazer elaborar as demonstrações financeiras nos
 
@@ -3266,7 +3272,7 @@ equivalente ao conselho fiscal, caso esse comitê ou órgão tenha emitido o ref
 
 Ressalta-se que, havendo conselho fiscal em funcionamento ou órgão equivalente (no caso de
 
-companhias estrangeiras) , a companhia deverá, em qualquer caso, encaminhar, juntamente com as
+companhias estrangeiras), a companhia deverá, em qualquer caso, encaminhar, juntamente com as
 
 demonstrações financeiras, o parecer emitido por esse órgão, acompanhado dos eventuais votos
 
@@ -3288,11 +3294,11 @@ assinadas pelos administradores e por contabilistas legalmente habilitados.
 
 O Pronunciamento Técnico CPC nº 09 (R1), aprovado pela Resolução CVM nº 199/24, tem por objetivo
 
-estabelecer critérios para elaboração e divulgação da Dem onstração do Valor Adicionado (DVA), exigida
+estabelecer critérios para elaboração e divulgação da Demonstração do Valor Adicionado (DVA), exigida
 
 pelos artigos 176, 177 e 188 da Lei nº 6.404/76.
 
-No que se refere aos exercícios anteriores, t em sido observado que as DVA que integram as
+No que se refere aos exercícios anteriores, tem sido observado que as DVA que integram as
 
 demonstrações financeiras, os formulários DFP e os formulários ITR de determinadas companhias abertas
 
@@ -3300,13 +3306,13 @@ vêm sendo apresentadas com nível de detalhamento inferior ao estabelecido nos 
 
 Modelos I, II e III, da versão vigente à época do citado pronunciamento.
 
+42
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-43
 
 Em especial, os componentes “Pessoal” e “Impostos, taxas e contribuições” têm sido apresentados, não
 
@@ -3328,7 +3334,7 @@ DVA nas demonstrações financeiras, nos formulários DFP e nos formulários ITR
 
 Lembra-se que a separação dos subitens de empréstimos e financiamentos tem como objetivo aprimorar
 
-e agilizar a tomada de decisão por parte dos usuários das demonstrações financeiras , ao tornar mais
+e agilizar a tomada de decisão por parte dos usuários das demonstrações financeiras, ao tornar mais
 
 transparentes as informações relacionadas ao endividamento oneroso e ao custo de capital de terceiros
 
@@ -3336,7 +3342,7 @@ da companhia, podendo vir a influenciar positivamente a atratividade da companhi
 
 investidores.
 
-Sendo assim, reforça -se a importância do preenchimento adequado das informações referentes a
+Sendo assim, reforça-se a importância do preenchimento adequado das informações referentes a
 
 empréstimos e financiamentos em subitens específicos dos formulários ITR e DFP, nos quais a companhia
 
@@ -3344,7 +3350,7 @@ deve utilizar, no mínimo, as aberturas de contas já previstas nos referidos fo
 
 pode-se mencionar os seguintes subitens disponíveis nos quadros do passivo da companhia:
 
-2.01.04.01.01, 2.01.04.01.02, 2.01.04.02, 2.01.04.03, 2.02.01.01.01, 2.02.01. 01.02, 2.02.01.02 e
+2.01.04.01.01, 2.01.04.01.02, 2.01.04.02, 2.01.04.03, 2.02.01.01.01, 2.02.01.01.02, 2.02.01.02 e
 
 2.02.01.03).
 
@@ -3370,7 +3376,7 @@ diretamente nos formulários DFP e ITR, os investidores conseguem reconhecer de 
 
 quais são as despesas que devem efetivamente ser consideradas para o cálculo do custo de capital
 
-terceiros, podendo, inclusive, fazer uso de Inteligência Artificial para col etar os valores diretamente do
+terceiros, podendo, inclusive, fazer uso de Inteligência Artificial para coletar os valores diretamente do
 
 banco de dados dos Sistemas da CVM ou da B3 (cabe mencionar que a procura automatizada nas notas
 
@@ -3386,15 +3392,15 @@ das demonstrações financeiras tenha rapidamente à disposição as informaçõ
 
 tomada de decisão.
 
+43
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-44
-
-Como previsto no artigo 2 9 da Resolução CVM nº 80/22, as demonstrações financeiras dos emissores
+Como previsto no artigo 29 da Resolução CVM nº 80/22, as demonstrações financeiras dos emissores
 
 estrangeiros deverão ser elaboradas em português, em moeda corrente nacional, podendo esses
 
@@ -3410,7 +3416,7 @@ Dado que as normas emitidas pela CVM estão plenamente convergentes com as norma
 
 as demonstrações financeiras consolidadas deverão ser elaboradas em conformidade com essas regras.
 
-Cabe lembrar que emissores estrangeiros que tenham sede em país -membro do Mercosul deverão
+Cabe lembrar que emissores estrangeiros que tenham sede em país-membro do Mercosul deverão
 
 elaborar e divulgar demonstrações financeiras de acordo com as normas contábeis internacionais
 
@@ -3436,7 +3442,7 @@ cabendo lembrar que, nos termos do artigo 295, parágrafo 1º, alínea “c” d
 
 financeiras consolidadas também devem ser publicadas.
 
-Nesse caso, faz-se necessária, também, a publicação de aviso aos acionistas, 1 (um) mês antes da AGO ,
+Nesse caso, faz-se necessária, também, a publicação de aviso aos acionistas, 1 (um) mês antes da AGO,
 
 informando da disponibilização das demonstrações financeiras na sede da companhia.
 
@@ -3452,7 +3458,7 @@ Lei nº 6.404/76, algumas regras para as publicações obrigatórias foram alter
 
 de publicação em jornal de grande circulação editado na localidade em que esteja situada a sede da
 
-companhia, de forma resumida e com d ivulgação simultânea da íntegra dos documentos na página do
+companhia, de forma resumida e com divulgação simultânea da íntegra dos documentos na página do
 
 mesmo jornal na internet, que deverá providenciar certificação digital da autenticidade dos documentos
 
@@ -3466,23 +3472,23 @@ obrigatória, não se vislumbra previsão legal que dispense a publicação da �
 
 do jornal na internet, conforme a atual redação do inciso I do artigo 289 da Lei nº 6.404/76.
 
+44
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-45
-
 Diante da alteração da Lei, as companhias não precisam mais realizar suas publicações obrigatórias (tais
 
 como demonstrações financeiras, editais, atas, avisos aos acionistas) nos órgãos oficiais, devendo manter
 
-tais divulgações em jornal de grande circulação (de forma resumida). A nova redação do art igo 289 é
+tais divulgações em jornal de grande circulação (de forma resumida). A nova redação do artigo 289 é
 
 aplicável às publicações obrigatórias feitas a partir de 01.01.2022, independentemente do período
 
-(exercício social ou trimestre) a que se refiram ( aplica-se, portanto, por exemplo, às demonstrações
+(exercício social ou trimestre) a que se refiram (aplica-se, portanto, por exemplo, às demonstrações
 
 financeiras referentes ao período encerrado em 31.12.2021).
 
@@ -3498,7 +3504,7 @@ Fundos.NET, conforme o caso. O exercício da citada faculdade se dá nos termos 
 
 CVM nº 166/22, sendo certo que o disposto em tal Resolução não altera as obrigações das companhias
 
-abertas de menor porte quanto ao cumprimento d as obrigações previstas: I – na regulamentação
+abertas de menor porte quanto ao cumprimento das obrigações previstas: I – na regulamentação
 
 específica que dispõe sobre o registro e a prestação de informações periódicas e eventuais dos emissores
 
@@ -3518,11 +3524,11 @@ A nova modalidade de publicação resumida das demonstrações financeiras exige
 
 que seja atendido o objetivo do dispositivo legal, no sentido de simplificar e reduzir o custo de observância
 
-das companhias, ao mesmo tempo em que sejam forn ecidas as informações essenciais sobre as
+das companhias, ao mesmo tempo em que sejam fornecidas as informações essenciais sobre as
 
 demonstrações financeiras, as notas explicativas, o relatório do auditor independente e, quando houver,
 
-o parecer do conselho fiscal , ressaltando que para evitar quaisquer dúvidas dos leitores das
+o parecer do conselho fiscal, ressaltando que para evitar quaisquer dúvidas dos leitores das
 
 demonstrações financeiras resumidas, estas devem ser precedidas dos seguintes avisos em destaque:
 
@@ -3530,7 +3536,7 @@ demonstrações financeiras resumidas, estas devem ser precedidas dos seguintes 
 
 e não devem ser consideradas isoladamente para a tomada de decisão. O entendimento da
 
-situação financeira e patrimonial da companhia demanda a leitura das demonstraç ões
+situação financeira e patrimonial da companhia demanda a leitura das demonstrações
 
 financeiras completas auditadas, elaboradas na forma da legislação societária e da
 
@@ -3548,13 +3554,13 @@ c. [Inserir o endereço eletrônico da CVM]; e
 
 d. [Inserir o endereço eletrônico da B3 no caso de companhias listadas].
 
+45
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-46
 
 Cabe à companhia avaliar a adequação da divulgação resumida sugerida e, caso julgue necessário, deve
 
@@ -3564,11 +3570,11 @@ financeiras resumidas.
 
 Salienta-se a necessidade de observação da íntegra do Parecer de Orientação CVM nº 39/21 na publicação
 
-das demonstrações financeiras de forma resumida, uma vez que a C omissão de Valores Mobiliários
+das demonstrações financeiras de forma resumida, uma vez que a Comissão de Valores Mobiliários
 
 entende que os procedimentos nele descritos são formas adequadas de dar cumprimento às condições
 
-previstas nos incisos I e II do artigo 289 da Lei n º 6.404/76. Segue o link para acesso no site da CVM
+previstas nos incisos I e II do artigo 289 da Lei nº 6.404/76. Segue o link para acesso no site da CVM
 
 (http://conteudo.cvm.gov.br/legislacao/pareceres-orientacao/pare039.html).
 
@@ -3578,7 +3584,7 @@ mínimo a ser considerado quando da publicação de forma resumida dos demais do
 
 na Lei, deve-se compreender esse ato como parte do conjunto de informações prestadas pelo emissor ao
 
-mercado, o que implica a observância aos artigos 1 5 e 1 6 da Resolução CVM nº 80/ 22, pelo que, no
+mercado, o que implica a observância aos artigos 15 e 16 da Resolução CVM nº 80/22, pelo que, no
 
 documento publicado de forma resumida, deve constar: (i) que se trata de informação resumida que não
 
@@ -3588,11 +3594,11 @@ grande circulação, da CVM, e da B3 (no caso de companhia lá listada) nos quai
 
 documento. As publicações serão sempre feitas no mesmo jornal, escolhido em reunião do conselho de
 
-administração, e qualquer mudança deverá ser precedida de aviso aos acionistas no extrat o da ata da
+administração, e qualquer mudança deverá ser precedida de aviso aos acionistas no extrato da ata da
 
 AGO, de acordo com o parágrafo 3º do artigo 289, da Lei nº 6.404/76.
 
-A respeito, entende-se que a redação do parágrafo 3º do artigo 289 da Lei nº 6.404/76 refere -se a toda
+A respeito, entende-se que a redação do parágrafo 3º do artigo 289 da Lei nº 6.404/76 refere-se a toda
 
 mudança provocada pela companhia. Considerando que, neste momento, deixar de publicar nos órgãos
 
@@ -3606,19 +3612,23 @@ Os emissores nacionais e estrangeiros devem enviar à CVM as demonstrações fin
 
 conforme critérios acima mencionados, por meio do Sistema Empresas.NET, categoria “Dados Econômico-
 
-Financeiros”, tipo “Demonstrações Financeiras Anuais Completas”.
+Financeiros”, tipo “Demonstrações Financeiras Anuais Completas”
+
+.
 
 Ressalte-se que as demonstrações financeiras e os demais documentos listados no artigo 27 da Resolução
 
 CVM nº 80/22 devem ser apresentados em arquivo único, em formato “.pdf”, sob a forma de “conjunto
 
-completo de demonstrações”, conforme definido no Pronunciamento CPC 26 (R1), não sendo admissível
+completo de demonstrações”
 
-o envio da versão digitalizada da publicação em jornal , ou outros formatos que dificultem a leitura ou
+, conforme definido no Pronunciamento CPC 26 (R1), não sendo admissível
+
+o envio da versão digitalizada da publicação em jornal, ou outros formatos que dificultem a leitura ou
 
 impressão.
 
-Ainda nesse sentido, chama -se a atenção que o envio de versão PDF do formulário de demonstrações
+Ainda nesse sentido, chama-se a atenção que o envio de versão PDF do formulário de demonstrações
 
 financeiras padronizadas (DFP) não cumpre com a finalidade de entrega das demonstrações financeiras
 
@@ -3634,13 +3644,13 @@ Tendo em vista a importância do documento, em linha com o disposto no artigo 5�
 
 44/21, a companhia deve divulgar suas demonstrações financeiras, sempre que possível, antes do início
 
+46
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-47
 
 ou após o encerramento dos negócios na bolsa de valores ou no mercado de balcão organizado em que
 
@@ -3654,7 +3664,7 @@ Ressalta-se que o artigo 176 da Lei nº 6.404/76 estabelece que a responsabilida
 
 demonstrações financeiras de uma companhia aberta é da sua diretoria.
 
-A Resolução CVM nº 80/ 22, nos incisos V e VI do parágrafo 1º do seu artigo 2 7, determina que as
+A Resolução CVM nº 80/22, nos incisos V e VI do parágrafo 1º do seu artigo 27, determina que as
 
 demonstrações financeiras devem ser acompanhadas de declarações dos diretores responsáveis por fazê-
 
@@ -3666,7 +3676,7 @@ em caso de discordância; e (ii) reviram, discutiram e concordam com as demonstr
 
 A SEP tem observado que, em determinados casos, as declarações acima mencionadas não são assinadas
 
-por todos os diretores da companhia a quem se atribuiu tal competência. Nesse sentido, ressalta -se a
+por todos os diretores da companhia a quem se atribuiu tal competência. Nesse sentido, ressalta-se a
 
 necessidade das referidas assinaturas em cumprimento nos incisos V e VI do parágrafo 1º do artigo 27 da
 
@@ -3682,9 +3692,9 @@ desde que o propósito seja devidamente justificado, como, por exemplo, em casos
 
 societárias, aquisições, vendas, fusões ou cisões de negócios.
 
-Observa-se que es sas informações financeiras t êm sido encaminhadas de várias formas diferentes no
+Observa-se que essas informações financeiras têm sido encaminhadas de várias formas diferentes no
 
-Sistema Empresas. NET (“Comunicado ao Mercado”; “Dados Econômico -Financeiros” ou “Reunião da
+Sistema Empresas.NET (“Comunicado ao Mercado”; “Dados Econômico-Financeiros” ou “Reunião da
 
 Administração”, por exemplo).
 
@@ -3694,7 +3704,7 @@ possibilitando ao usuário da informação contábil seu acesso de maneira rápi
 
 Portanto, orienta-se que o envio dessas informações financeiras pro forma pelo Sistema Empresas.NET,
 
-seja feito por meio d a categoria “Dados Econômico -Financeiros”, t ipo “Demonstrações Financeiras
+seja feito por meio da categoria “Dados Econômico-Financeiros”, tipo “Demonstrações Financeiras
 
 Adicionais”.
 
@@ -3716,13 +3726,13 @@ artigo 289 da Lei nº 6.404/76.
 
 5 Vide http://conteudo.cvm.gov.br/decisoes/2016/20161101_R1/20161101_D0368.html.
 
+47
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-48
 
 Lembra-se que essas demonstrações financeiras resumidas não se confundem com a possibilidade de
 
@@ -3768,9 +3778,9 @@ os critérios gerais para elaboração e divulgação de demonstrações finance
 
 pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil”.
 
-Nos termos do art igo 9º da Resolução CMN mencionada no parágrafo anterior, “as instituições
+Nos termos do artigo 9º da Resolução CMN mencionada no parágrafo anterior, “as instituições
 
-mencionadas no a rtigo 1º registradas como companhia aberta [...] devem elaborar demonstrações
+mencionadas no artigo 1º registradas como companhia aberta [...] devem elaborar demonstrações
 
 financeiras anuais consolidadas adotando o padrão contábil internacional de acordo com os
 
@@ -3788,7 +3798,7 @@ de disposições legais, regulamentares, estatutárias ou contratuais, devem ado
 
 internacional, conforme o disposto no artigo 9º, na elaboração dessas demonstrações”.
 
-A propósito, nos termos do parágrafo único do citado art igo 10, “o disposto no caput aplica-se também
+A propósito, nos termos do parágrafo único do citado artigo 10, “o disposto no caput aplica-se também
 
 às demonstrações financeiras consolidadas relativas a períodos inferiores a um ano”.
 
@@ -3802,15 +3812,15 @@ classificação, reconhecimento e mensuração aplicados nas demonstrações con
 
 nas demonstrações financeiras individuais relativas ao mesmo período contábil”.
 
+48
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-49
-
-Cumpre ainda lembrar que, conforme o art igo 19 da Resolução CMN mencionada , “os procedimentos
+Cumpre ainda lembrar que, conforme o artigo 19 da Resolução CMN mencionada, “os procedimentos
 
 contábeis estabelecidos por esta Resolução devem ser aplicados prospectivamente a partir da data de sua
 
@@ -3820,11 +3830,11 @@ somente produzirá efeitos a partir de 1º de janeiro de 2022 [...]”.
 
 O inciso I do artigo 31 da Resolução CVM nº 80/22 estabelece que o formulário ITR deve ser preenchido
 
-com os dados das informações contábeis trimestrais elaboradas de acordo com as regras c ontábeis
+com os dados das informações contábeis trimestrais elaboradas de acordo com as regras contábeis
 
 aplicáveis ao emissor.
 
-A S EP informa que, na hipótese de pedido de registro inicial de companhia aberta na categoria A, as
+A SEP informa que, na hipótese de pedido de registro inicial de companhia aberta na categoria A, as
 
 instituições financeiras e demais entidades autorizadas a funcionar pelo Banco Central do Brasil deverão
 
@@ -3832,7 +3842,7 @@ preencher os formulários de Informações Trimestrais (ITR) fazendo constar sua
 
 financeiras intermediárias consolidadas no padrão IFRS.
 
-Em 12.08.2020 , foi editada a Resolução BCB nº 02/20, que , em seu artigo 7º , estabelece que “na
+Em 12.08.2020, foi editada a Resolução BCB nº 02/20, que, em seu artigo 7º, estabelece que “na
 
 elaboração das demonstrações financeiras intermediárias, as administradoras de consórcio e instituições
 
@@ -3844,15 +3854,17 @@ Por sua vez, o artigo 10 dessa Resolução estabelece que “as administradoras 
 
 de pagamento que sejam registradas como companhia aberta ou líderes de grupo econômico integrado
 
-por instituição registrada como companhia aberta dev em elaborar demonstrações financeiras anuais
+por instituição registrada como companhia aberta devem elaborar demonstrações financeiras anuais
 
 consolidadas, adotando o padrão contábil internacional de acordo com os pronunciamentos emitidos pelo
 
 International Accounting Standards Board (IASB), traduzidos para a língua portuguesa por entidade
 
-brasileira credenciada pela International Financial Reporting Standards Foundation (IFRS Foundation)”.
+brasileira credenciada pela International Financial Reporting Standards Foundation (IFRS Foundation)”
 
-O artigo 49 dispõe que “a s instituições financeiras e demais instituições autorizadas a funcionar pelo
+.
+
+O artigo 49 dispõe que “as instituições financeiras e demais instituições autorizadas a funcionar pelo
 
 Banco Central do Brasil devem aplicar o disposto nesta Resolução, prospectivamente, na elaboração,
 
@@ -3866,11 +3878,11 @@ publicação voluntária.
 
 3.2.2 Divulgação antecipada de informações financeiras
 
-A divulgação antecipada de informações financeiras , que serão tornadas públicas posteriormente nas
+A divulgação antecipada de informações financeiras, que serão tornadas públicas posteriormente nas
 
 demonstrações financeiras, deve ser realizada de forma excepcional. Caso a companhia opte pela
 
-divulgação antecipada de determinados dados deve fazê -lo de forma equitativa e ressaltar que são
+divulgação antecipada de determinados dados deve fazê-lo de forma equitativa e ressaltar que são
 
 informações preliminares, informando, inclusive, se foram ou não auditadas ou revisadas pelos auditores
 
@@ -3880,15 +3892,15 @@ Cabe lembrar, que nos termos do artigo 15 da Resolução CVM nº 80/22, as infor
 
 ser verdadeiras, completas, consistentes, não devendo induzir os investidores a erro.
 
+49
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-50
-
-Essa divulgação excepcional deve ser feita , em regra, por meio de fato relevante. No entendimento da
+Essa divulgação excepcional deve ser feita, em regra, por meio de fato relevante. No entendimento da
 
 SEP, presume-se que as demonstrações financeiras contêm informações consideradas relevantes, nos
 
@@ -3902,7 +3914,7 @@ Cabe lembrar que, diante de divulgação antecipada de informações financeiras
 
 o período de vedação à negociação previsto no artigo 14, parágrafo 3º, da Resolução CVM nº 44/21.
 
-Caso a companhia adote a prática de divulgação antecipada de informações financeiras , recomenda-se
+Caso a companhia adote a prática de divulgação antecipada de informações financeiras, recomenda-se
 
 que esta prática esteja prevista em sua política de divulgação, contendo os seguintes requisitos: (i)
 
@@ -3942,9 +3954,9 @@ cópia do orçamento de capital elaborado nos termos do artigo 196 da Lei nº 6.
 
 todas as fontes de recursos e aplicações de capital, fixo ou circulante.
 
-Os demais emissores, embora não estejam sujeitos à forma e ao conteúdo da informação exigida pel o
+Os demais emissores, embora não estejam sujeitos à forma e ao conteúdo da informação exigida pelo
 
-Capítulo III da Resolução CVM nº 81/22 , devem disponibilizar aos acionistas, até um mês antes da data
+Capítulo III da Resolução CVM nº 81/22, devem disponibilizar aos acionistas, até um mês antes da data
 
 marcada para a realização da AGO, informação sobre o montante da retenção proposta, bem como cópia
 
@@ -3952,9 +3964,11 @@ do orçamento de capital elaborado nos termos dos artigos 133 e 196 da Lei nº 6
 
 todas as fontes de recursos e aplicações de capital, fixo ou circulante.
 
-O orçamento de capital deverá ser enviado à CVM, via Sistema Empresas.NET, categoria “Assembleia”,
+O orçamento de capital deverá ser enviado à CVM, via Sistema Empresas.NET, categoria “Assembleia”
 
-tipo “AGO” ou “AGO/E”, espécie “Proposta da Administração ”, assunto “Orçamento de Capital ”, sem
+,
+
+tipo “AGO” ou “AGO/E”, espécie “Proposta da Administração”, assunto “Orçamento de Capital”, sem
 
 prejuízo de seu envio acompanhando as demonstrações financeiras, como previsto no artigo 27, parágrafo
 
@@ -3964,13 +3978,13 @@ Destaca-se que o orçamento de capital também deverá ser inserido no quadro Pr
 
 de Capital do formulário DFP e como parte integrante das demonstrações financeiras.
 
+50
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-51
 
 3.2.4 Relato integrado – início de vigência da Resolução CVM nº 14/20 ‒
 
@@ -3978,11 +3992,11 @@ necessidade de usar a categoria “Relato Integrado” no Sistema
 
 Empresas.NET
 
-A Resolução CVM n º 14/20 tornou obrigatória para as companhias abertas, quando da decisão de
+A Resolução CVM nº 14/20 tornou obrigatória para as companhias abertas, quando da decisão de
 
 elaboração e divulgação do relato integrado, a Orientação CPC 09 – Relato Integrado, emitida pelo Comitê
 
-de Pronunciamentos Contábeis ‒ CPC ( correlação à estrutura conceitual básica do relato integrado,
+de Pronunciamentos Contábeis ‒ CPC (correlação à estrutura conceitual básica do relato integrado,
 
 elaborada pelo International Integrated Reporting Council ‒ IIRC) e determinou que o relato integrado
 
@@ -3998,9 +4012,11 @@ sociais iniciados a partir de tal data.
 
 Antes da edição do Ofício Circular nº 5/2022-CVM/SEP, de 23.11.2022, as companhias vinham utilizando
 
-outras categorias já existentes no E mpresas.NET para envio do relato integrado, como, por exemplo, a
+outras categorias já existentes no Empresas.NET para envio do relato integrado, como, por exemplo, a
 
-categoria “Relatório de Sustentabilidade”.
+categoria “Relatório de Sustentabilidade”
+
+.
 
 A partir da edição do Ofício Circular nº 5/2022-CVM/SEP, o relato integrado previsto na Resolução CVM
 
@@ -4012,7 +4028,7 @@ corporativa (ASG) podem continuar a ser divulgados como anteriormente.
 
 No âmbito do relato integrado, a companhia deve deixar claro ao usuário da informação (i) que o
 
-documento segue a estrutura conceitual prevista na Orientação CPC nº 09 e (i i) que isso está
+documento segue a estrutura conceitual prevista na Orientação CPC nº 09 e (ii) que isso está
 
 compreendido no escopo dos trabalhos de asseguração limitada pelo auditor independente registrado na
 
@@ -4024,7 +4040,7 @@ explicativas e do relatório de administração
 
 Em levantamento feito pela Gerência de Acompanhamento de Empresas 5 (GEA-5), quando da análise de
 
-demonstrações financeiras , em cerca de 80 (oitenta) pedidos de registro de companhia aberta ,
+demonstrações financeiras, em cerca de 80 (oitenta) pedidos de registro de companhia aberta,
 
 observaram-se diversas exigências relacionadas à divulgação de informações financeiras e, em menor
 
@@ -4032,13 +4048,13 @@ medida, à mensuração ou ao reconhecimento de itens financeiros. O gráfico ab
 
 exigências observadas nessas análises, em ordem de frequência em que ocorreram:
 
+51
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-52
 
 *Outros: Participações e Principais Contas Contábeis dos Investimentos; Eventos Subsequentes; Relatório de Administração;
 
@@ -4086,13 +4102,13 @@ mencionados, bem como às orientações constantes no Ofício Circular nº 01/20
 
 Circulares CVM/SNC/SEP emitidos em 2023. Os emissores em processo de registro, por sua vez, devem se
 
+52
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-53
 
 atentar especialmente aos itens do gráfico acima, de modo a evitar impactos adversos nos cronogramas
 
@@ -4110,9 +4126,9 @@ relatório de informações financeiras relacionadas à sustentabilidade, com ba
 
 emitido pelo International Sustainability Standards Board – ISSB.
 
-A Resolução permite às companhias abertas e s ecuritizadoras e aos fundos de investimento, de forma
+A Resolução permite às companhias abertas e securitizadoras e aos fundos de investimento, de forma
 
-voluntária nos exercícios sociais de 2024 e 2025, a elaboração e divulgação d o relatório de informações
+voluntária nos exercícios sociais de 2024 e 2025, a elaboração e divulgação do relatório de informações
 
 financeiras relacionadas à sustentabilidade, com base no padrão internacional emitido pelo International
 
@@ -4138,7 +4154,7 @@ Para as companhias abertas, há obrigatoriedade de elaboração e divulgação d
 
 financeiras relacionadas à sustentabilidade, com base nas normas do ISSB, a partir dos exercícios sociais
 
-iniciados em, ou após, 1º de janeiro de 2026, co m asseguração razoável por auditor independente
+iniciados em, ou após, 1º de janeiro de 2026, com asseguração razoável por auditor independente
 
 registrado na CVM.
 
@@ -4168,13 +4184,13 @@ https://conteudo.cvm.gov.br/legislacao/resolucoes/resol217.html; e (ii) Resoluç
 
 aprova o Pronunciamento Técnico CBPS nº 02 – Divulgações Relacionadas ao Clima, emitido pelo Comitê
 
+53
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-54
 
 Brasileiro de Pronunciamentos de Sustentabilidade – CBPS, que pode ser acessada por meio do link
 
@@ -4182,15 +4198,15 @@ https://conteudo.cvm.gov.br/legislacao/resolucoes/resol218.html.
 
 Tais normas foram precedidas das Consultas Públicas SNC nº 02/24 e 03/24, cujos relatórios recomenda-
 
-se a leitura e podem ser acessadas na intern et por meio dos links
+se a leitura e podem ser acessadas na internet por meio dos links
 
 https://conteudo.cvm.gov.br/audiencias_publicas/ap_snc/2024/snc0224.html e
 
 https://conteudo.cvm.gov.br/audiencias_publicas/ap_snc/2024/snc0324.html.
 
-Chama-se atenção também para a edição da Resolução CVM nº 21 9/24, em 29.10.2024, que alterou o
+Chama-se atenção também para a edição da Resolução CVM nº 219/24, em 29.10.2024, que alterou o
 
-artigo 5º da Resolução CVM nº 193/ 23, dispondo que as entidades devem arquivar o relatório de
+artigo 5º da Resolução CVM nº 193/23, dispondo que as entidades devem arquivar o relatório de
 
 informações financeiras relacionadas à sustentabilidade por meio do Sistema Empresas.NET, observando-
 
@@ -4240,11 +4256,13 @@ Ressalta-se que as companhias que utilizam o elenco de contas de seguradoras/res
 
 preenchimento dos formulários DFP e ITR no Sistema Empresas.NET devem ficar atentas à atualização do
 
-referido elenco de contas , conforme divulgado no Ofício Circular nº 2/2023 -CVM/SEP, em 29.12.2023,
+referido elenco de contas, conforme divulgado no Ofício Circular nº 2/2023-CVM/SEP, em 29.12.2023,
 
 que pode ser acessado no endereço https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-
 
 sep-0223.html.
+
+54
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -4252,13 +4270,15 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-55
-
 3.2.8 Revisão das associações no Sistema Empresas.NET para envio das
 
 demonstrações financeiras adicionais
 
-Em 09.09.2024, foram ativadas as seguintes novas associações ( “Categoria”, “Tipo” e “Espécie”) criadas
+Em 09.09.2024, foram ativadas as seguintes novas associações (“Categoria”
+
+,
+
+“Tipo” e “Espécie”) criadas
 
 no Sistema Empresas.NET para envio de demonstrações financeiras adicionais:
 
@@ -4286,9 +4306,9 @@ DADOS ECONÔMICO-FINANCEIROS Demonstrações Financeiras Adicionais Demonstraç�
 
 Internacionais
 
-O Campo “Assunto” de tais associações é de digitação o brigatória, devendo constar a descrição do
+O Campo “Assunto” de tais associações é de digitação obrigatória, devendo constar a descrição do
 
-assunto do documento a que se refere . A SEP divulgou , ainda, o Ofício Circular nº 6/2024-CVM/SEP,
+assunto do documento a que se refere. A SEP divulgou, ainda, o Ofício Circular nº 6/2024-CVM/SEP,
 
 informando também as associações que foram inativadas, e que pode ser acessado no endereço
 
@@ -4304,7 +4324,7 @@ Em 01.01.2025, entrou em vigor a Resolução CVM nº 223/24, que torna obrigató
 
 abertas a Orientação Técnica OCPC 10 – Créditos de Carbono (tCO2e), Permissões de Emissão (allowances)
 
-e Créditos de Descarbonização (CBIO), emitida pelo Comitê de Pronunciamentos Contábeis (CPC) ,
+e Créditos de Descarbonização (CBIO), emitida pelo Comitê de Pronunciamentos Contábeis (CPC),
 
 acessível em https://conteudo.cvm.gov.br/legislacao/resolucoes/resol223.html.
 
@@ -4316,17 +4336,17 @@ também já atende o tratamento contábil para os ativos da Lei nº 15.042/24.
 
 O assunto foi objeto de Consulta Pública, aberta pela Superintendência de Normas Contábeis e de
 
-Auditoria (SNC) da Autarquia em agosto de 2023 , a qual pode ser consultada no endereço eletrônico
+Auditoria (SNC) da Autarquia em agosto de 2023, a qual pode ser consultada no endereço eletrônico
 
 https://conteudo.cvm.gov.br/audiencias_publicas/ap_snc/2023/snc0623.html.
+
+55
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-56
 
 Trata-se de um primeiro movimento, com recorte de pioneirismo no âmbito internacional, para direcionar
 
@@ -4338,7 +4358,7 @@ consistência das demonstrações financeiras e permitir sua conexão com o rela
 
 sustentabilidade aprovado pela Resolução CVM nº 193/23.
 
-Ressalta-se que, c aso o International Accounting Standards Board (IASB) emita algum documento
+Ressalta-se que, caso o International Accounting Standards Board (IASB) emita algum documento
 
 específico relacionado ao reconhecimento, mensuração e evidenciação dos temas tratados acima, a
 
@@ -4354,7 +4374,7 @@ abertas o Documento de Revisão de Pronunciamentos Técnicos nº 24, emitido pel
 
 Pronunciamentos Contábeis – CPC, em decorrência das alterações de Reforma Tributária Internacional
 
-(Regras Modelo do Pilar Dois e Acordos de Financiamento de Fornecedores) , acarretando as mudanças
+(Regras Modelo do Pilar Dois e Acordos de Financiamento de Fornecedores), acarretando as mudanças
 
 abaixo:
 
@@ -4362,7 +4382,7 @@ abaixo:
 
 em, ou após, 1º de janeiro de 2023; e
 
-(b) aplicar as alterações ao CPC 03 (R2) , que trata das Demonstrações do Fluxo de Caixa, e ao CPC
+(b) aplicar as alterações ao CPC 03 (R2), que trata das Demonstrações do Fluxo de Caixa, e ao CPC
 
 40 (R1), que trata de Instrumentos Financeiros, para os exercícios sociais iniciados em, ou após,
 
@@ -4394,13 +4414,13 @@ mobiliários. Nesse sentido, todas as notificações enviadas pela CVM serão en
 
 conseguinte, ao e-mail por ele indicado no formulário cadastral.
 
+56
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-57
 
 Entretanto, a princípio, nada obsta que o DRI indique no formulário cadastral uma caixa à qual outras
 
@@ -4420,11 +4440,11 @@ https://www.rad.cvm.gov.br/ENET/Shared/Login.aspx?ValidSession=0), no menu “En
 
 documentos”, dispensando o procedimento de preenchimento e geração desse formulário no Client, que
 
-foi desativado, conforme divulgado pelo Ofício Circular nº 5/2021 -CVM/SEP, acessível pelo link
+foi desativado, conforme divulgado pelo Ofício Circular nº 5/2021-CVM/SEP, acessível pelo link
 
 https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0521.html.
 
-O emissor de verá proceder à atualização do formulário cadastral sempre que qualquer dos dados nele
+O emissor deverá proceder à atualização do formulário cadastral sempre que qualquer dos dados nele
 
 contidos for alterado, em até 7 (sete) dias úteis contados do fato que deu causa à alteração, como
 
@@ -4434,7 +4454,7 @@ Alerta-se, ainda, que, independentemente dessa atualização, anualmente o emiss
 
 31 de maio de cada ano, que as informações contidas no formulário cadastral continuam válidas.
 
-Essa confirmação deve ser feita mediante a entrega d a primeira versão do formulário cadastral do ano
+Essa confirmação deve ser feita mediante a entrega da primeira versão do formulário cadastral do ano
 
 corrente, até 31 de maio, devendo seu preenchimento ser realizado de forma completa e adequada ao
 
@@ -4466,19 +4486,19 @@ No caso dos emissores registrados na categoria B, os campos assinalados com “X
 
 facultativo.
 
-De acordo com o referido artigo 2 5 da Resolução CVM nº 80/22, o formulário de referência deverá ser
+De acordo com o referido artigo 25 da Resolução CVM nº 80/22, o formulário de referência deverá ser
 
 entregue totalmente atualizado anualmente, no prazo de até 5 (cinco) meses contados da data de
 
 encerramento do exercício social.
+
+57
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-58
 
 A apresentação anual do formulário de referência deve ocorrer, preferencialmente, após a realização da
 
@@ -4492,13 +4512,13 @@ exercício anterior que são discutidas e votadas naquele conclave.
 
 Nesse sentido, alerta-se que todas as informações atualizadas que tenham sido prestadas em função das
 
-regras de atualização previstas nos parágrafos 3º e 4º do artigo 2 5 da Resolução CVM nº 80/22 deverão
+regras de atualização previstas nos parágrafos 3º e 4º do artigo 25 da Resolução CVM nº 80/22 deverão
 
 estar refletidas no formulário de referência quando de sua apresentação anual, independentemente da
 
 existência de comando no Anexo C quanto à prestação de informações relativas ao exercício corrente.
 
-Cabe destacar que , ressalvados os itens que possuam alguma nota de rodapé especificando a data de
+Cabe destacar que, ressalvados os itens que possuam alguma nota de rodapé especificando a data de
 
 corte das informações requeridas, todos os outros itens devem conter as informações mais atualizadas
 
@@ -4506,7 +4526,7 @@ corte das informações requeridas, todos os outros itens devem conter as inform
 
 Após a realização da AGO e antes do término do prazo para entrega anual do formulário de referência
 
-previsto no artigo 2 5 da Resolução CVM nº 80/ 22, caso ocorra algum dos eventos que impõem a
+previsto no artigo 25 da Resolução CVM nº 80/22, caso ocorra algum dos eventos que impõem a
 
 atualização do documento, o emissor poderá optar por (i) reapresentar o formulário de referência do
 
@@ -4526,7 +4546,7 @@ exercício social a que o Formulário a ser entregue se refere.
 
 Desde 01.01.2023, foi liberado o uso completo do “FRE Online”, incluindo o seu envio, tendo como base
 
-o formulário de referência 2023, no Sistema Empresas.N ET (disponível no endereço eletrônico
+o formulário de referência 2023, no Sistema Empresas.NET (disponível no endereço eletrônico
 
 https://www.rad.cvm.gov.br/ENET/Shared/Login.aspx?ValidSession=0), menu “Envio de documentos”,
 
@@ -4534,7 +4554,7 @@ que considera, inclusive, a nova estrutura conforme estabelecido na Resolução 
 
 dispensando o procedimento de preenchimento e geração desse formulário no Client, conforme
 
-divulgado pelo Ofício Circular nº 7/2022 -CVM/SEP, o qual pode ser acessado no endereço eletrônico
+divulgado pelo Ofício Circular nº 7/2022-CVM/SEP, o qual pode ser acessado no endereço eletrônico
 
 https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0722.html.
 
@@ -4544,7 +4564,7 @@ Ofício Circular.
 
 3.3.2.2 Atualização do formulário de referência
 
-A Resolução CVM nº 80/ 22 prevê, no parágrafo 3º do artigo 2 5, determinados eventos que impõem a
+A Resolução CVM nº 80/22 prevê, no parágrafo 3º do artigo 25, determinados eventos que impõem a
 
 obrigação aos emissores registrados na categoria A de atualizar, em até 7 (sete) dias úteis contados da
 
@@ -4552,13 +4572,13 @@ data da ocorrência do evento, os campos do formulário de referência cujas inf
 
 pela incidência dos eventos abaixo descritos:
 
+58
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-59
 
 a) alteração de administrador, de membro do conselho fiscal, de membro de comitê estatutário
 
@@ -4598,13 +4618,13 @@ g) incorporação, incorporação de ações, fusão ou cisão envolvendo o emis
 
 h) alteração nas projeções ou estimativas ou divulgação de novas projeções e estimativas;
 
-i) celebração, alteração ou rescisão de acordo de acionistas arquivado na sede do emissor ou do
+i) j) celebração, alteração ou rescisão de acordo de acionistas arquivado na sede do emissor ou do
 
 qual o controlador seja parte referente ao exercício do direito de voto ou poder de controle do
 
 emissor;
 
-j) decretação de falência, recuperação judicial, liquidação ou homologação judicial de recuperação
+decretação de falência, recuperação judicial, liquidação ou homologação judicial de recuperação
 
 extrajudicial;
 
@@ -4632,15 +4652,15 @@ alteração do capital social, não só os aumentos e reduções, mas também os
 
 grupamentos e cancelamentos de ações.
 
+59
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-60
-
-Da mesma forma, os emissores registrados na categoria B, nos termos do parágrafo 4º do artigo 2 5 da
+Da mesma forma, os emissores registrados na categoria B, nos termos do parágrafo 4º do artigo 25 da
 
 citada Resolução, também deverão atualizar, em até 7 (sete) dias úteis, contados de sua ocorrência, os
 
@@ -4654,7 +4674,7 @@ c) alteração dos acionistas controladores, diretos ou indiretos, ou variaçõe
 
 acionárias que os levem a ultrapassar, para cima ou para baixo, os patamares de 5% (cinco por
 
-cento), 10% (dez por cento), 15% (quinze por cento), e assim sucessiva mente, de uma mesma
+cento), 10% (dez por cento), 15% (quinze por cento), e assim sucessivamente, de uma mesma
 
 espécie ou classe de ações do emissor;
 
@@ -4674,17 +4694,17 @@ h) qualquer dos seguintes eventos envolvendo administrador ou membro do conselho
 
 i. qualquer condenação criminal;
 
-ii. qualquer condenação em processo administrativo da CVM, do Banco Central do Brasil ou
+ii. iii. qualquer condenação em processo administrativo da CVM, do Banco Central do Brasil ou
 
 da Superintendência de Seguros Privados; ou
 
-iii. qualquer condenação transitada em julgado na esfera judicial ou objeto de decisão final
+qualquer condenação transitada em julgado na esfera judicial ou objeto de decisão final
 
 administrativa, que o tenha suspendido ou inabilitado para a prática de uma atividade
 
 profissional ou comercial qualquer.
 
-No caso de eleição de administradores, lembra -se também que o formulário de referência deverá ser
+No caso de eleição de administradores, lembra-se também que o formulário de referência deverá ser
 
 atualizado, no prazo regulamentar, ainda que na eleição os administradores tenham sido reconduzidos,
 
@@ -4692,9 +4712,11 @@ tendo em vista a alteração dos mandatos.
 
 Na atualização de formulário de referência já entregue, o que implica na entrega de nova versão, os
 
-emissores deverão informar, no campo “Tipo da Apresentação ”, se a atualização se refere a uma
+emissores deverão informar, no campo “Tipo da Apresentação”, se a atualização se refere a uma
 
-“Reapresentação Espontânea” ou “Reapresentação por Exigência CVM/B3”.
+“Reapresentação Espontânea” ou “Reapresentação por Exigência CVM/B3”
+
+.
 
 Além disso, no campo “Objeto da última alteração/Motivo da Reapresentação”, o emissor deverá deixar
 
@@ -4704,13 +4726,13 @@ do motivo de cada alteração. Os emissores devem também informar se a reaprese
 
 registro de distribuição pública de valores mobiliários.
 
+60
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-61
 
 Os emissores da categoria B que optem por apresentar informações indicadas no Anexo C como
 
@@ -4718,9 +4740,9 @@ facultativas para sua categoria deverão: (a) manter as informações facultativ
 
 todas as atualizações do formulário de referência que venham ser apresentadas pela companhia; e (b)
 
-atualizar as informações facultativas prestadas na forma prevista nos parágrafos 3º e 4º do artigo 2 5 da
+atualizar as informações facultativas prestadas na forma prevista nos parágrafos 3º e 4º do artigo 25 da
 
-Resolução CVM nº 80/ 22. Não há impedimento, contudo, a que o emissor deixe de apresentar as
+Resolução CVM nº 80/22. Não há impedimento, contudo, a que o emissor deixe de apresentar as
 
 informações facultativas quando da entrega do formulário de referência do exercício social posterior.
 
@@ -4732,7 +4754,7 @@ CVM nº 80/22, pelo que a atualização do formulário de referência, neste cas
 
 Não obstante, caso a quantidade de ações adquirida ao longo do programa atinja os patamares
 
-estabelecidos no inciso VI do parágrafo 3º do art igo 25 da Resolução CVM nº 80/ 22, em razão da
+estabelecidos no inciso VI do parágrafo 3º do artigo 25 da Resolução CVM nº 80/22, em razão da
 
 possibilidade de variação no percentual de todos os acionistas, recomenda-se que o item 6.1/2 (ações em
 
@@ -4756,13 +4778,13 @@ ultrapassados em razão da posição do investidor em ações.
 
 Além disso, o FRE deve registrar a quantidade e o percentual de ações detidas pelos investidores,
 
-desconsiderando, para estes fins de atual ização do formulário de referência, as ações referenciadas em
+desconsiderando, para estes fins de atualização do formulário de referência, as ações referenciadas em
 
 contratos derivativos detidos pelo investidor.
 
 Nos termos do artigo 26 da Resolução CVM nº 80/22, caso ocorra a alteração do diretor presidente ou do
 
-diretor de relações com investidores após a entrega do formulário de referência , o novo ocupante do
+diretor de relações com investidores após a entrega do formulário de referência, o novo ocupante do
 
 cargo fica responsável pelas informações desse documento que sejam atualizadas, após a data da sua
 
@@ -4784,25 +4806,25 @@ seu caso específico, sejam impactados pela ocorrência dos eventos previstos no
 
 artigo 25.
 
+61
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-62
-
 3.3.2.3 Reentrega do formulário de referência por conta de registro de
 
 distribuição pública
 
-A Resolução CVM nº 80/22 prevê, no parágrafo 2º do artigo 2 5, que, em caso de pedido de registro
+A Resolução CVM nº 80/22 prevê, no parágrafo 2º do artigo 25, que, em caso de pedido de registro
 
 ordinário de oferta pública de distribuição, os emissores deverão reentregar o formulário de referência
 
 totalmente atualizado na mesma data em que o pedido for protocolizado na CVM.
 
-No caso de pedido de registro de distribuição pública , o emissor poderá optar por reapresentar o
+No caso de pedido de registro de distribuição pública, o emissor poderá optar por reapresentar o
 
 formulário de referência do exercício anterior ou por apresentar o formulário de referência do ano
 
@@ -4816,7 +4838,7 @@ deverão ser indicadas no campo “Motivo da Reapresentação” as seções e i
 
 de breve descrição do motivo da alteração.
 
-Como consta da declaração , do item 13.2 do formulário de referência , as informações nele contidas
+Como consta da declaração, do item 13.2 do formulário de referência, as informações nele contidas
 
 devem atender ao disposto na Resolução CVM nº 80/22, em especial nos artigos 15 a 20.
 
@@ -4826,13 +4848,13 @@ devem zelar pela permanente qualidade do documento, não sendo esperado que na r
 
 de pedido de registro de distribuição pública as informações nele contidas sofram alterações substanciais,
 
-além daquelas que necessariamente teriam de ser r ealizadas para a atualização do documento nessa
+além daquelas que necessariamente teriam de ser realizadas para a atualização do documento nessa
 
 situação, inclusive nos casos expressamente previstos no Anexo C da Resolução CVM nº 80/22.
 
 Nos termos do artigo 26 da Resolução CVM nº 80/22, caso ocorra a alteração do diretor presidente ou do
 
-diretor de relações com investidores após a entrega do formulário de referência , o novo ocupante do
+diretor de relações com investidores após a entrega do formulário de referência, o novo ocupante do
 
 cargo fica responsável pelas informações desse documento que sejam atualizadas, após a data da sua
 
@@ -4860,11 +4882,13 @@ Digital da CVM, e não pelo Sistema Empresas.NET (vide 2.10).
 
 O Protocolo Digital da CVM foi totalmente automatizado para permitir o trâmite ágil e eficiente dos
 
-documentos protocolados na Autarquia. Na atual versão , é possível acompanhar o andamento das
+documentos protocolados na Autarquia. Na atual versão, é possível acompanhar o andamento das
 
-solicitações durante todas as etapas. Para mais informações , deve-se acessar o link
+solicitações durante todas as etapas. Para mais informações, deve-se acessar o link
 
 https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital.
+
+62
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -4872,13 +4896,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-63
-
 3.3.3 Demonstrações financeiras padronizadas – DFP
 
 O formulário demonstrações financeiras padronizadas (DFP) é um documento eletrônico, de
 
-encaminhamento periódico previsto no artigo 22, inciso IV, da Resolução CVM nº 80/ 22, cujo
+encaminhamento periódico previsto no artigo 22, inciso IV, da Resolução CVM nº 80/22, cujo
 
 encaminhamento à CVM deve se dar por meio do Sistema Empresas.NET (vide Capítulo 9).
 
@@ -4896,7 +4918,7 @@ b) pelo emissor estrangeiro, em até 4 (quatro) meses do encerramento do exercí
 
 mesma data do envio das demonstrações financeiras, se ocorrer em data anterior.
 
-Nesse sentido, conforme decisão do Colegiado da CVM, de 15. 07.2014 (Reg. nº 8620/13), em análise de
+Nesse sentido, conforme decisão do Colegiado da CVM, de 15.07.2014 (Reg. nº 8620/13), em análise de
 
 consulta formulada pelo IBRACON, não há obrigatoriedade do preenchimento das informações relativas
 
@@ -4934,7 +4956,7 @@ Resolução CVM nº 23/21, será obrigatório o envio do parecer, quando emitido
 
 Tendo em vista a importância do documento, em linha com o disposto no artigo 5º da Resolução CVM nº
 
-44/21, a companhia deve divulgar seu formulário DFP, sempre que possível, a ntes do início ou,
+44/21, a companhia deve divulgar seu formulário DFP, sempre que possível, antes do início ou,
 
 preferencialmente, após o encerramento dos negócios na bolsa de valores ou no mercado de balcão
 
@@ -4944,13 +4966,13 @@ O formulário DFP deve ser divulgado simultaneamente à divulgação das demonst
 
 companhia.
 
+63
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-64
 
 Em 14.02.2024, foi publicada a Resolução CVM nº 199/24, aprovando o Pronunciamento Técnico CPC nº
 
@@ -4984,9 +5006,9 @@ devem observar as orientações contidas no item 3.2.7 deste Ofício Circular.
 
 3.3.4 Informações trimestrais – ITR
 
-O artigo 31 da Resolução CVM nº 80/ 22 prevê a entrega dos formulários referentes a informações
+O artigo 31 da Resolução CVM nº 80/22 prevê a entrega dos formulários referentes a informações
 
-trimestrais (ITR) pelos emissores registrados, cujo encaminhamento à CVM deve se da r por meio do
+trimestrais (ITR) pelos emissores registrados, cujo encaminhamento à CVM deve se dar por meio do
 
 sistema Empresas.NET (vide Capítulo 9).
 
@@ -4996,7 +5018,7 @@ dados das informações contábeis trimestrais elaboradas de acordo com as regra
 
 emissor, nos termos dos artigos 27 a 29 da Resolução, e entregue em até 45 (quarenta e cinco) dias após
 
-o término de cada trimestre do exercício social, excetuando o último , acompanhado de relatório de
+o término de cada trimestre do exercício social, excetuando o último, acompanhado de relatório de
 
 revisão especial, emitido por auditor independente registrado na CVM.
 
@@ -5010,7 +5032,7 @@ A propósito, atentar às orientações contidas no item 3.2 deste Ofício Circu
 
 A contagem do prazo de 45 (quarenta e cinco) dias após o término de cada trimestre do exercício social
 
-inicia-se no primeiro dia (útil ou não) seguinte ao encerramento do trimestre, ajustando -se a data final,
+inicia-se no primeiro dia (útil ou não) seguinte ao encerramento do trimestre, ajustando-se a data final,
 
 caso seja feriado ou final de semana, prorrogando-a para o dia útil seguinte.
 
@@ -5026,19 +5048,19 @@ A obrigação do conselho fiscal, se instalado, em relação ao formulário ITR 
 
 artigo 163 da Lei nº 6.404/76.
 
+64
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-65
-
 Diante da competência atribuída por Lei aos membros do conselho fiscal de analisar, ao menos
 
 trimestralmente, o balancete e demais demonstrações financeiras elaboradas periodicamente pela
 
-companhia e, principalmente, a fim de cumprirem com seu dever de diligência, entende -se que, no
+companhia e, principalmente, a fim de cumprirem com seu dever de diligência, entende-se que, no
 
 mínimo, os conselheiros devem analisar as informações trimestrais com antecedência à sua divulgação ao
 
@@ -5054,7 +5076,7 @@ Diante de situações concretas, o conselheiro deve ser diligente e adotar a mel
 
 cumprir seus deveres fiduciários. Por outro lado, a CVM também não se furtará de apurar
 
-responsabilidades quando se encontrar diante do descumprimento d esses deveres, sendo certo que o
+responsabilidades quando se encontrar diante do descumprimento desses deveres, sendo certo que o
 
 conselheiro fiscal poderá ser instado a demonstrar a formalização da análise das demonstrações
 
@@ -5082,7 +5104,7 @@ demonstrações financeiras consolidadas, nos termos da Lei nº 6.404/76, confor
 
 2º do artigo 31 da Resolução CVM nº 80/22.
 
-No caso dos emissores instituições financeiras, chama -se a atenção para o exposto neste Ofício Circular
+No caso dos emissores instituições financeiras, chama-se a atenção para o exposto neste Ofício Circular
 
 (vide item 3.2.1).
 
@@ -5096,7 +5118,7 @@ diferenças, como determinado no parágrafo 4º do artigo 21 da Resolução CVM 
 
 Tendo em vista a importância do documento, em linha com o disposto no artigo 5º da Resolução CVM nº
 
-44/21, a companhia deve divulgar seu formulário ITR, sempre que possível, an tes do início ou ,
+44/21, a companhia deve divulgar seu formulário ITR, sempre que possível, antes do início ou,
 
 preferencialmente, após o encerramento dos negócios na bolsa de valores ou no mercado de balcão
 
@@ -5108,13 +5130,13 @@ exigir que os membros do conselho de administração aprovem expressamente as in
 
 trimestrais da companhia aberta.
 
+65
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-66
 
 Este entendimento é fundamentado pela ausência de previsão legal ou regulamentar impondo esta
 
@@ -5128,17 +5150,17 @@ Por outro lado, diante da competência atribuída por Lei aos membros do conselh
 
 principalmente, a fim de cumprirem com seu dever de diligência, entende-se que os conselheiros devem
 
-analisar as informações trimestrais com antecedência à sua divulgação ao mercado e fa zer as
+analisar as informações trimestrais com antecedência à sua divulgação ao mercado e fazer as
 
 recomendações que entendam cabíveis.
 
-No entendimento d a SEP, a companhia não poderia negar o acesso prévio às informações trimestrais
+No entendimento da SEP, a companhia não poderia negar o acesso prévio às informações trimestrais
 
 (antes de sua divulgação ao mercado), caso tenha havido solicitação de algum membro do conselho de
 
-administração. Ressalta -se que os membros desse órgão, assim como os demais administradores,
+administração. Ressalta-se que os membros desse órgão, assim como os demais administradores,
 
-possuem o dever de guardar sigilo sobre as informações relevantes ainda não divulgadas ( artigo 155,
+possuem o dever de guardar sigilo sobre as informações relevantes ainda não divulgadas (artigo 155,
 
 parágrafo 1º, da Lei nº 6.404/76). O eventual acesso prévio às informações trimestrais se encontraria
 
@@ -5174,7 +5196,7 @@ eletrônico https://www.rad.cvm.gov.br/ENET/Shared/Login.aspx?ValidSession=0), n
 
 documentos”, dispensando o procedimento de preenchimento e geração desse formulário no Client, que
 
-foi desativado, conforme divulgado pelo Ofício Circular nº 4/2021 -CVM/SEP, acessível pelo link
+foi desativado, conforme divulgado pelo Ofício Circular nº 4/2021-CVM/SEP, acessível pelo link
 
 https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0421.html.
 
@@ -5190,13 +5212,13 @@ No que diz respeito à vigência do Pronunciamento Técnico CPC 50 – Contratos
 
 devem observar as orientações contidas no item 3.2.7 deste Ofício Circular.
 
+66
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-67
 
 3.3.5 Informes de securitizadora
 
@@ -5212,7 +5234,7 @@ nº 80/22, deverá, adicionalmente, enviar os documentos pertinentes à referida
 
 Empresas.NET.
 
-Em outras palavras, se a securitizadora possuir registro em duas categorias distintas (A ou B e S1 ou S2 ),
+Em outras palavras, se a securitizadora possuir registro em duas categorias distintas (A ou B e S1 ou S2),
 
 deverá enviar os documentos eventuais e periódicos previstos na Resoluções CVM nº 60/21 e 80/22, pelo
 
@@ -5228,7 +5250,7 @@ das taxas de fiscalização relativas às duas categorias, como previsto no par�
 
 7.940/89, que dispõe que, na hipótese de uma mesma pessoa jurídica obter mais de um registro nos
 
-termos previstos nos Anexos I, II ou III da referida Lei, é devido o valor d a taxa de fiscalização para cada
+termos previstos nos Anexos I, II ou III da referida Lei, é devido o valor da taxa de fiscalização para cada
 
 registro concedido ao contribuinte.
 
@@ -5266,19 +5288,19 @@ de avaliação da administração, a informação deverá estar consistente com 
 
 quadro 7.1 do formulário de referência.
 
+67
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-68
-
 No caso de resposta afirmativa quanto à existência de políticas, devidamente aprovadas pelos órgãos da
 
-administração, a companhia deverá disponibilizar essas políticas por meio do Sistema Empresas. NET,
+administração, a companhia deverá disponibilizar essas políticas por meio do Sistema Empresas.NET,
 
-utilizando a categoria correspondente. Esta orientação aplica -se também aos regimentos e códigos que
+utilizando a categoria correspondente. Esta orientação aplica-se também aos regimentos e códigos que
 
 integram as práticas de governança previstas no Código Brasileiro de Governança Corporativa.
 
@@ -5308,7 +5330,7 @@ destinação do lucro líquido do exercício e a distribuição de dividendos e 
 
 for o caso, os membros do conselho fiscal.
 
-Nos termos do artigo 6 5, inciso III, da Resolução CVM nº 80/ 22, a não observância do prazo fixado no
+Nos termos do artigo 65, inciso III, da Resolução CVM nº 80/22, a não observância do prazo fixado no
 
 artigo 132 da Lei nº 6.404/76 para a realização da assembleia geral ordinária é considerada infração de
 
@@ -5332,7 +5354,7 @@ companhias disponibilizassem aos seus acionistas sistema eletrônico para (i) o 
 
 a distância (artigo 28, I); ou (ii) a participação a distância durante a assembleia (artigo 28, II).
 
-A despeito da previsão normativa, verificou -se que as companhias abertas o ptavam por realizar suas
+A despeito da previsão normativa, verificou-se que as companhias abertas optavam por realizar suas
 
 assembleias gerais somente por meio presencial, com a participação remota se dando apenas por meio
 
@@ -5344,13 +5366,13 @@ alternativas de realização de assembleias gerais, com o objetivo de compatibil
 
 direitos dos acionistas com elevados padrões de segurança e proteção à saúde.
 
+68
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-69
 
 A CVM optou por uma regulamentação neutra sob o ponto de vista tecnológico, de modo que as
 
@@ -5396,7 +5418,7 @@ e) demais documentos pertinentes a assuntos incluídos na ordem do dia.
 
 Até no mínimo 5 (cinco) dias antes da data marcada para a realização da AGO, a companhia deverá
 
-publicar os documentos citados nas letras “a”, “b” e “c” acima (parágrafo 3º do artigo 133). Destaca -se
+publicar os documentos citados nas letras “a”, “b” e “c” acima (parágrafo 3º do artigo 133). Destaca-se
 
 que, independentemente dessa publicação, o caput do artigo 133 da Lei nº 6.404/76 exige que os
 
@@ -5406,27 +5428,29 @@ acionistas, na sede da companhia, até um mês antes da data marcada para a real
 
 A AGO que reúna a totalidade dos acionistas poderá considerar sanada a falta de publicação dos anúncios
 
-ou a inobservância dos prazos referidos no artigo 133 da Lei nº 6.404/ 76, mas é obrigatória, contudo, a
+ou a inobservância dos prazos referidos no artigo 133 da Lei nº 6.404/76, mas é obrigatória, contudo, a
 
 publicação dos documentos e o seu envio pelo Sistema Empresas.NET antes da realização da assembleia
 
 (parágrafo 4º do artigo 133).
 
-De acordo com o artigo 133 , parágrafo 5º, da Lei nº 6.404/76, o emissor está dispensado da publicação
+De acordo com o artigo 133, parágrafo 5º
 
-dos anúncios previstos no caput do referido artigo quando os docume ntos ( notadamente as
+, da Lei nº 6.404/76, o emissor está dispensado da publicação
+
+dos anúncios previstos no caput do referido artigo quando os documentos (notadamente as
 
 demonstrações financeiras) forem publicados até 1 (um) mês antes da data marcada para a realização da
 
 AGO.
+
+69
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-70
 
 3.4.2 Proposta da administração para AGO
 
@@ -5444,7 +5468,7 @@ organizado e possuam ações ou certificados de depósito de ações em circula�
 
 ações da companhia (com exceção das de titularidade do controlador, das pessoas a ele vinculadas, dos
 
-administradores da companhia e daquelas mantidas em tesouraria ) deverão atentar para as disposições
+administradores da companhia e daquelas mantidas em tesouraria) deverão atentar para as disposições
 
 da Resolução , especialmente no que diz respeito ao disposto nos artigos 9º a 25 dessa Resolução.
 
@@ -5460,7 +5484,7 @@ internet todos os documentos necessários ao exercício do direito de voto na AG
 
 Além disso, prevê o artigo 10 da Resolução CVM nº 81/22, para os emissores registrados na categoria A
 
-para os quais se aplique a Resolução, que, no mesmo prazo acima , os seguintes documentos e
+para os quais se aplique a Resolução, que, no mesmo prazo acima, os seguintes documentos e
 
 informações estejam disponíveis na página da CVM na internet:
 
@@ -5488,11 +5512,11 @@ d) relatório dos auditores independentes (incluído nas demonstrações finance
 
 DFP – vide itens 3.2 e 3.3.3);
 
-e) parecer do conselho fiscal, inclusive votos dissid entes, se houver (incluído nas d emonstrações
+e) parecer do conselho fiscal, inclusive votos dissidentes, se houver (incluído nas demonstrações
 
 financeiras e no formulário DFP – vide itens 3.2 e 3.3.3, bem como encaminhado pelo Sistema
 
-Empresas.NET por força do inciso VI do artigo 3 3 da Resolução CVM nº 80/ 22, na categoria
+Empresas.NET por força do inciso VI do artigo 33 da Resolução CVM nº 80/22, na categoria
 
 “Reunião da Administração”, tipo “Conselho Fiscal”, espécie “Ata”, assunto “Parecer acerca das
 
@@ -5500,27 +5524,29 @@ demonstrações financeiras)”;
 
 f) formulário DFP (encaminhado pelo Sistema Empresas.NET – vide Capítulo 9);
 
+70
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-71
-
 g) proposta de destinação do lucro líquido do exercício que contenha, no mínimo, as informações
 
 indicadas no Anexo A da Resolução (encaminhada pelo Sistema Empresas.NET pela categoria
 
-“Assembleia”, tipo “AGO” ou “AGO/E”, espécie “Proposta da administração ”, assunto
+“Assembleia”, tipo “AGO” ou “AGO/E”, espécie “Proposta da administração”, assunto
 
 “Destinação dos Resultados”); e
 
 h) parecer do comitê de auditoria, se houver (encaminhada pelo Sistema Empresas.NET pela
 
-categoria “Reunião da Administração”, tipo “Comitê de Auditoria ”, espécie “Ata”, assunto
+categoria “Reunião da Administração”, tipo “Comitê de Auditoria”, espécie “Ata”, assunto
 
-“Parecer acerca das demonstrações financeiras” – vide item 3.2).
+“Parecer acerca das demonstrações financeiras”
+
+– vide item 3.2).
 
 Ressalta-se que a proposta da administração para destinação do lucro líquido, deverá conter, no mínimo,
 
@@ -5530,7 +5556,7 @@ dos itens a serem submetidos à deliberação assemblear, uma vez que tal proced
 
 mera repetição de informações já contidas no edital de convocação.
 
-Com relação às informações exigidas no Anexo A da Resolução CVM nº 81/ 22, cabe esclarecer que as
+Com relação às informações exigidas no Anexo A da Resolução CVM nº 81/22, cabe esclarecer que as
 
 informações a serem prestadas nos itens 2 e 5 do referido Anexo possuem objetivos diferentes, quais
 
@@ -5564,17 +5590,19 @@ Recomenda-se também que as companhias divulguem na proposta da administração 
 
 eventual incidência de tributo sobre os dividendos propostos.
 
-Conforme decisão do Colegiado de 27 .09.2011 (Processo CVM nº RJ2010/14687)6, as companhias que
+Conforme decisão do Colegiado de 27.09.2011 (Processo CVM nº RJ2010/14687)6, as companhias que
 
 tenham apurado prejuízo no exercício não são obrigadas a apresentar as informações indicadas no Anexo
 
 A da Resolução CVM nº 81/22.
 
-As companhias que se enquadram ne ssa situação devem informar na proposta da administração que o
+As companhias que se enquadram nessa situação devem informar na proposta da administração que o
 
 Anexo A da Resolução não está sendo apresentado em função da apuração de prejuízo no exercício.
 
 6 Vide http://conteudo.cvm.gov.br/decisoes/2011/20110927_R1/20110927_D01.html.
+
+71
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -5582,9 +5610,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-72
-
-O inciso V do artigo 133 da Lei n º 6.404/76 estabelece que a companhia deve colocar à disposição dos
+O inciso V do artigo 133 da Lei nº 6.404/76 estabelece que a companhia deve colocar à disposição dos
 
 acionistas, na sede da companhia, até um mês antes da data marcada para a realização da AGO, além dos
 
@@ -5602,15 +5628,15 @@ Em função disso, alerta-se os emissores que, caso a eleição de administrador
 
 fiscal ou a fixação de sua remuneração forem incluídas na ordem do dia da AGO, os emissores registrados
 
-na categoria A para os quais se aplique a Resolução CVM nº 81/ 22 deverão fornecer, no mínimo, os
+na categoria A para os quais se aplique a Resolução CVM nº 81/22 deverão fornecer, no mínimo, os
 
-documentos e informações requeridos pelos artigos 1 1 e 13 da Resolução CVM nº 81/22 no prazo de 1
+documentos e informações requeridos pelos artigos 11 e 13 da Resolução CVM nº 81/22 no prazo de 1
 
 (um) mês antes da data prevista para a realização do conclave.
 
 Caso o estatuto social ou eventual política de nomeação ou indicação estabeleçam requisitos mínimos
 
-para a indicação de membros do conselho de administração ou do conselho fiscal , a proposta da
+para a indicação de membros do conselho de administração ou do conselho fiscal, a proposta da
 
 administração deve indicar a aderência do perfil dos candidatos a esses cargos aos referidos requisitos,
 
@@ -5622,15 +5648,17 @@ nomeação, indicação ou órgão equivalente, se houver, em que foi analisada 
 
 aos referidos requisitos.
 
-Tais informações devem ser incluídas na proposta da administração , que deverá ser encaminhada pelo
+Tais informações devem ser incluídas na proposta da administração, que deverá ser encaminhada pelo
 
 Sistema Empresas.NET, categoria “Assembleia”, tipo “AGO” ou “AGO/E”, espécie “Proposta da
 
 administração”, assunto “Eleição de membros dos Conselhos de Administração e Fiscal” ou “Remuneração
 
-dos administradores e conselheiros”.
+dos administradores e conselheiros”
 
-Para atendimento ao exigido no artigo 1 1 da Resolução CVM nº 81/ 22, as companhias registradas na
+.
+
+Para atendimento ao exigido no artigo 11 da Resolução CVM nº 81/22, as companhias registradas na
 
 categoria A, para as quais se aplique a citada Resolução, devem apresentar as informações requeridas
 
@@ -5640,11 +5668,13 @@ Para o artigo 10, inciso III, e no artigo 13, inciso II, da Resolução CVM nº 
 
 na categoria A, para as quais se aplique a citada Resolução, devem apresentar as informações requeridas
 
-para as seções 2 e 8 do formulário de referência, nos termos do Anexo C da Resolução CVM nº 80/ 22.
+para as seções 2 e 8 do formulário de referência, nos termos do Anexo C da Resolução CVM nº 80/22.
 
 Conforme entendimento exarado pelo Colegiado da CVM em reunião realizada em 04.11.2014 (Processos
 
-CVM nº RJ2013/4386 e nº RJ2013/4607)7, a definição do número de membros do conselho de
+CVM nº RJ2013/4386 e nº RJ2013/4607)7
+
+, a definição do número de membros do conselho de
 
 administração, quando o estatuto social dispõe sobre um número mínimo e máximo, deve ser objeto de
 
@@ -5662,7 +5692,9 @@ de membros a compor o conselho de administração da companhia.
 
 múltiplo e os titulares de ações ordinárias ou preferenciais exercerem a prerrogativa de eleger conselheiro, será assegurado a
 
-acionista ou grupo de acionistas vinculados por acordo de votos que detenham mais do que 50% (cinque nta por cento) do total
+acionista ou grupo de acionistas vinculados por acordo de votos que detenham mais do que 50% (cinquenta por cento) do total
+
+72
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -5670,9 +5702,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-73
-
-Além disso, entendeu o Colegiado da CVM, na mesma ocasião , que a proposta da administração deverá
+Além disso, entendeu o Colegiado da CVM, na mesma ocasião, que a proposta da administração deverá
 
 conter os cenários possíveis sobre o número de membros a serem eleitos, seja por meio do voto múltiplo
 
@@ -5694,7 +5724,7 @@ Em linha com o disposto no artigo 7º, inciso II, da Resolução CVM nº 81/22, 
 
 informações sobre candidatos para o conselho de administração e conselho fiscal propostos por acionistas
 
-não controladores , dando a esses candidatos a mesma transparência e divulgação hoje dada aos
+não controladores, dando a esses candidatos a mesma transparência e divulgação hoje dada aos
 
 candidatos propostos pela administração ou pelos acionistas controladores por força do artigo 11 da
 
@@ -5702,7 +5732,7 @@ Resolução CVM nº 81/22.
 
 No caso de companhias com depositary receipts negociados no exterior (como é o caso de ADRs), salienta-
 
-se que, em sendo possível o exercício de voto pelos titulares de DRs, afigura -se necessário que tal
+se que, em sendo possível o exercício de voto pelos titulares de DRs, afigura-se necessário que tal
 
 prerrogativa seja exercida no máximo grau de igualdade possível com os acionistas.
 
@@ -5740,7 +5770,7 @@ conselho fiscal no próprio momento da assembleia.
 
 De forma a permitir uma melhor compreensão pelos investidores da proposta de remuneração (inciso I
 
-do artigo 13 da Resolução CVM nº 81/22) e subsidiar a decisão a ser por eles tomada, orienta -se que os
+do artigo 13 da Resolução CVM nº 81/22) e subsidiar a decisão a ser por eles tomada, orienta-se que os
 
 emissores incluam, na proposta de remuneração, informações sobre:
 
@@ -5748,13 +5778,13 @@ de votos conferidos pelas ações com direito de voto o direito de eleger consel
 
 acionistas, mais um, independentemente do número de conselheiros que, segundo o estatuto, componha o órgão.”
 
+73
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-74
 
 a) período a que se refere a proposta de remuneração (por exemplo, se da assembleia geral
 
@@ -5774,9 +5804,9 @@ período coberto pelo formulário de referência (exercício social).
 
 Sempre que a ordem do dia da assembleia incluir item sobre a prestação de compromisso de indenidade
 
-para os administradores, recomenda -se que a proposta da administração inclua as informações
+para os administradores, recomenda-se que a proposta da administração inclua as informações
 
-necessárias para a tomada de decisão pelos acionistas . Nesse sentido, sugere-se consulta ao Parecer de
+necessárias para a tomada de decisão pelos acionistas. Nesse sentido, sugere-se consulta ao Parecer de
 
 Orientação CVM nº 38, de 25.09.2018, ao Ofício Circular nº 9/2018/CVM/SEP e ao item 7.13 do presente
 
@@ -5784,13 +5814,13 @@ Ofício Circular.
 
 Os documentos disponibilizados aos acionistas deverão conter as informações necessárias à compreensão
 
-das matérias a serem discutidas na assembleia. Como previsto na Resolução CVM nº 81/ 22, as
+das matérias a serem discutidas na assembleia. Como previsto na Resolução CVM nº 81/22, as
 
 informações e documentos fornecidos aos acionistas devem ser verdadeiros, completos e consistentes,
 
 redigidos em linguagem clara, objetiva e concisa e não devem induzir os investidores a erro.
 
-Para facilitar a leitura pelos usuários, recomenda -se que o documento co ntendo a proposta da
+Para facilitar a leitura pelos usuários, recomenda-se que o documento contendo a proposta da
 
 administração contenha índice.
 
@@ -5820,13 +5850,15 @@ caput do artigo, se este documento for publicado antes da realização da assemb
 
 Importante salientar que o documento boletim de voto a distância não deve fazer parte da proposta da
 
-administração à assembleia ou do manual de participação, por tratar -se de documento com regras
+administração à assembleia ou do manual de participação, por tratar-se de documento com regras
 
 específicas de apresentação e envio.
 
-Ressalta-se que, para a realização de assembleia em segunda convocação , é necessária a publicação de
+Ressalta-se que, para a realização de assembleia em segunda convocação, é necessária a publicação de
 
 nova proposta da administração.
+
+74
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -5834,15 +5866,13 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-75
-
 3.4.2.2 Emissores registrados na categoria B e na categoria A para as quais não se
 
 aplique a Resolução CVM nº 81/22
 
-De acordo com o disposto no parágrafo 4º do artigo 22 da Resolução CVM nº 80/ 22, as Propostas da
+De acordo com o disposto no parágrafo 4º do artigo 22 da Resolução CVM nº 80/22, as Propostas da
 
-Administração para as assembleias gerais serão obrigatórias apenas para as compan hias registradas na
+Administração para as assembleias gerais serão obrigatórias apenas para as companhias registradas na
 
 categoria A, autorizadas por entidade administradora de mercado à negociação de ações em bolsa, e que
 
@@ -5852,7 +5882,7 @@ possuam ações em circulação.
 
 Nos termos do inciso II do parágrafo 1º do artigo 124 da Lei nº 6.404/76, a convocação de assembleia
 
-geral de companhia aberta far -se-á mediante anúncio publicado por três vezes, no mínimo, contendo,
+geral de companhia aberta far-se-á mediante anúncio publicado por três vezes, no mínimo, contendo,
 
 além do local, data e hora da assembleia, a ordem do dia, sendo o prazo de antecedência da primeira
 
@@ -5868,7 +5898,7 @@ assembleia, simultaneamente à proposta da administração.
 
 Ressalta-se que para a realização de assembleia em segunda convocação é necessária a publicação de
 
-novo edital. Considera -se irregular incluir a segunda convocação da AGO já no edital da primeira
+novo edital. Considera-se irregular incluir a segunda convocação da AGO já no edital da primeira
 
 convocação.
 
@@ -5886,7 +5916,7 @@ Os editais de convocação de AGO e AGO/E de emissores registrados tanto na cate
 
 categoria B devem enumerar, expressamente, na ordem do dia, todas as matérias a serem deliberadas,
 
-sendo vedada a utilização da rubrica “assuntos gerais ” para matérias que dependam de deliberação
+sendo vedada a utilização da rubrica “assuntos gerais” para matérias que dependam de deliberação
 
 assemblear.
 
@@ -5908,13 +5938,13 @@ tem sede, o local em que a assembleia será realizada, que deverá ser no mesmo 
 
 sede;
 
+75
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-76
 
 d) se houver, os locais físicos acessórios disponibilizados para a participação de acionistas, nos
 
@@ -5932,7 +5962,7 @@ pelos acionistas, e se a assembleia será realizada de modo parcial ou exclusiva
 
 digital; e
 
-f) nas hipóteses em que admitido, nos termos do art igo 30-A d a citada Resolução, indicação
+f) nas hipóteses em que admitido, nos termos do artigo 30-A da citada Resolução, indicação
 
 expressa da intenção da companhia de não disponibilizar o boletim de voto a distância, a menos
 
@@ -5942,9 +5972,9 @@ Recebido pedido de adoção do processo de voto múltiplo e verificado que ele a
 
 141 da Lei nº 6.404/76 e na Resolução CVM nº 70/22, a companhia deve divulgar, por meio do Sistema
 
-Empresas.NET, na categoria “Aviso aos Acionistas ”, tipo “Adoção do processo de voto múltiplo ”, que a
+Empresas.NET, na categoria “Aviso aos Acionistas”, tipo “Adoção do processo de voto múltiplo”, que a
 
-eleição do conselho de administração poderá se dar por esse processo , por ser esta uma informação
+eleição do conselho de administração poderá se dar por esse processo, por ser esta uma informação
 
 importante para instruir a decisão a ser tomada pelos acionistas na assembleia.
 
@@ -5956,7 +5986,9 @@ respeito trazidas pela Resolução CVM nº 81/22 (vide item 7.2).
 
 Conforme entendimento exarado pelo Colegiado da CVM em reunião realizada em 04.11.2014 (Processos
 
-CVM nº RJ2013/4386 e RJ2013/4607)9, a definição do número de membros do conselho de administração,
+CVM nº RJ2013/4386 e RJ2013/4607)9
+
+, a definição do número de membros do conselho de administração,
 
 quando o estatuto social dispõe sobre um número mínimo e máximo, deve ser objeto de deliberação na
 
@@ -5982,7 +6014,7 @@ Nesta linha, é recomendável que o acionista controlador/administração inform
 
 mínimo) de conselheiros para determinado mandato que seriam eleitos pelo voto múltiplo ou majoritário
 
-(por exemplo, 10 membros), sendo que tal número poderia se r acrescido em até 2 membros em função
+(por exemplo, 10 membros), sendo que tal número poderia ser acrescido em até 2 membros em função
 
 das eleições em separado (ou seja, alcançando o número de 11 ou 12 conselheiros).
 
@@ -5998,27 +6030,29 @@ de votos conferidos pelas ações com direito de voto o direito de eleger consel
 
 acionistas, mais um, independentemente do número de conselheiros que, segundo o estatuto, componha o órgão.”
 
+76
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-77
+O edital de convocação da assembleia geral ordinária deverá ser encaminhado à CVM, por meio do
 
-O edital de convocação da assembleia geral ordinária deverá ser encaminhad o à CVM, por meio do
+Sistema Empresas.NET, categoria “Assembleia”, tipos “AGO” ou “AGO/E”, espécie “Edital de Convocação”
 
-Sistema Empresas.NET, categoria “Assembleia”, tipos “AGO” ou “AGO/E”, espécie “Edital de Convocação”,
+,
 
 em até 21 (vinte e um) dias antes da data marcada para a realização da assembleia geral ordinária ou no
 
-mesmo dia de sua primeira publicação, o que ocorrer primeiro , conforme o inciso VI do artigo 2 2 da
+mesmo dia de sua primeira publicação, o que ocorrer primeiro, conforme o inciso VI do artigo 22 da
 
 Resolução CVM nº 80/22.
 
-Lembra-se que Lei nº 12.431/ 11 alterou dispositivos da Lei nº 6.404/7 6, a qual passou a prever , no
+Lembra-se que Lei nº 12.431/11 alterou dispositivos da Lei nº 6.404/76, a qual passou a prever, no
 
-parágrafo único do artigo 121 , que, nas companhias abertas, o acionista poderá participar e votar a
+parágrafo único do artigo 121, que, nas companhias abertas, o acionista poderá participar e votar a
 
 distância em assembleia geral, nos termos da regulamentação da CVM.
 
@@ -6060,7 +6094,7 @@ CVM nº 81/22 deve ser o principal local de condução dos trabalhos e de geraç
 
 assembleias parcialmente digitais, sendo facultada a disponibilização de um ou mais locais físicos
 
-acessórios, inclusive em município diverso daquele da sede da companh ia, a que acionistas possam
+acessórios, inclusive em município diverso daquele da sede da companhia, a que acionistas possam
 
 comparecer presencialmente para participar da assembleia.
 
@@ -6076,13 +6110,13 @@ pessoas cuja presença seja obrigatória nas assembleias, independentemente do m
 
 assembleia.
 
+77
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-78
 
 O anúncio de convocação deve listar os documentos exigidos para que os acionistas sejam admitidos à
 
@@ -6092,11 +6126,11 @@ anúncio. A companhia poderá exigir do acionista que pretende participar pelo s
 
 forma do artigo 28, inciso II, da Resolução CVM nº 81/22, o depósito dos documentos a que se refere o
 
-parágrafo 1º em até 2 (dois) dias antes da data de realização da assembleia , conforme disposto no
+parágrafo 1º em até 2 (dois) dias antes da data de realização da assembleia, conforme disposto no
 
 parágrafo 3º do artigo 6º da Resolução.
 
-Sem prejuízo do disposto no art igo 141, parágrafo 1º, da Lei nº 6.404/76, recomenda -se que as
+Sem prejuízo do disposto no artigo 141, parágrafo 1º, da Lei nº 6.404/76, recomenda-se que as
 
 companhias, nos avisos de convocação das assembleias, destaquem a importância de que os pedidos de
 
@@ -6114,11 +6148,13 @@ realização, pela categoria “Assembleia”, tipos “AGO” ou “AGO/E”, e
 
 como as atas das AGO, em até 7 (sete) dias úteis de sua realização, com indicação das datas e jornais de
 
-sua publicação pela categoria “Assembleia”, tipos “AGO” ou “AGO/E”, espécie “Ata”.
+sua publicação pela categoria “Assembleia”, tipos “AGO” ou “AGO/E”, espécie “Ata”
+
+.
 
 Nesse sentido, cabe observar que o sumário das decisões tomadas na assembleia (previsto no inciso VIII
 
-do artigo 2 2 da Resolução CVM nº 80/ 22) não se confunde com a ata da AGO (prevista no inciso IX do
+do artigo 22 da Resolução CVM nº 80/22) não se confunde com a ata da AGO (prevista no inciso IX do
 
 artigo 22), que, nos termos do parágrafo 1º do artigo 130 da Lei nº 6.404/76, pode ser lavrada em forma
 
@@ -6138,7 +6174,7 @@ emissor encaminhe a ata da assembleia geral completa, no mesmo dia da realizaç�
 
 Nos termos do inciso IX do artigo 22 da Resolução CVM nº 80/22, a ata da AGO deve ser acompanhada,
 
-no mesmo arquivo, d as eventuais declarações de voto, dissidência ou protesto. Além disso, a ata deve
+no mesmo arquivo, das eventuais declarações de voto, dissidência ou protesto. Além disso, a ata deve
 
 conter todos os documentos nela referenciados e relacionados às deliberações da assembleia, tais como
 
@@ -6146,7 +6182,7 @@ contratos.
 
 Sempre que possível, as atas de AGO arquivadas na CVM devem conter também a lista de presença e o
 
-quórum exato de instalação e de aprovação de determinada matéria . Recomenda-se também que a ata
+quórum exato de instalação e de aprovação de determinada matéria. Recomenda-se também que a ata
 
 contenha, ao menos, a indicação dos acionistas relevantes que elegeram membros para o conselho de
 
@@ -6154,15 +6190,17 @@ administração e conselho fiscal, sem prejuízo da divulgação do mapa final d
 
 no artigo 48, parágrafo 6º, inciso II da Resolução CVM nº 81/22.
 
+78
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-79
+Com relação à permissão constante do artigo 130, parágrafo 2º
 
-Com relação à permissão constante do artigo 130, parágrafo 2º, da Lei nº 6.404/76, entende-se que ela
+, da Lei nº 6.404/76, entende-se que ela
 
 se enquadra como um ato administrativo relacionado aos trabalhos iniciais em uma assembleia e não uma
 
@@ -6170,13 +6208,15 @@ deliberação sobre a condução dos negócios da companhia, não sendo, portant
 
 uma deliberação sobre o assunto no boletim de voto a distância. Assim, entende-se que, da mesma forma
 
-como disposta no artigo 128 da Lei nº 6 .404/76, os acionistas presentes podem deliberar sobre a
+como disposta no artigo 128 da Lei nº 6.404/76, os acionistas presentes podem deliberar sobre a
 
-permissão constante do artigo 130, parágrafo 2º, da Lei nº 6.404/76.
+permissão constante do artigo 130, parágrafo 2º
+
+, da Lei nº 6.404/76.
 
 Destaca-se que, caso a assembleia seja suspensa por algum motivo, o envio do sumário e/ou ata deverá
 
-ser realizado com a informação de que a referida assembleia foi suspensa , o motivo da mencionada
+ser realizado com a informação de que a referida assembleia foi suspensa, o motivo da mencionada
 
 suspensão, e que posteriormente os trabalhos serão retomados. A retomada da assembleia ensejará a
 
@@ -6206,7 +6246,7 @@ geral.
 
 Conforme entendimento exarado pelo Colegiado da CVM em reunião realizada em 10.03.2015 (Processo
 
-CVM nº RJ2014/662912), os valores pagos aos administradores com base no p lano de opções de compra
+CVM nº RJ2014/662912), os valores pagos aos administradores com base no plano de opções de compra
 
 de ações, ou outros tipos de planos de remuneração baseada em ações, por integrarem a sua
 
@@ -6236,19 +6276,19 @@ assembleia) das informações que posteriormente irão compor o formulário de r
 
 http://conteudo.cvm.gov.br/decisoes/2015/20150602_R1/20150206_D9342.html.
 
+79
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-80
-
 Nesse contexto, considerando a redação do item 8.5 do Anexo C à Resolução CVM nº 80/22, com o intuito
 
-de assegurar a consistência das informações divulgadas, entende -se que, neste campo, devem ser
+de assegurar a consistência das informações divulgadas, entende-se que, neste campo, devem ser
 
-apresentadas (tanto na proposta da administração quanto no formulário de referência ) as informações
+apresentadas (tanto na proposta da administração quanto no formulário de referência) as informações
 
 consolidadas do conselho de administração e da diretoria estatutária (sem segregação entre o presidente
 
@@ -6262,7 +6302,7 @@ tratando o presidente do conselho de administração apenas como mais um membro 
 
 Caso a companhia entenda que a divulgação segregada dessas informações (presidente do conselho de
 
-administração e demais membros desse órgão ) possa ser útil aos investidores, elas poderão ser
+administração e demais membros desse órgão) possa ser útil aos investidores, elas poderão ser
 
 apresentadas no item 8.20 (outras informações que o emissor julgue relevantes).
 
@@ -6282,7 +6322,7 @@ formulário de referência, devendo ser atualizadas anualmente, em atendimento a
 
 Além disso, a descrição detalhada da composição da remuneração dos diretores deve constar da
 
-respectiva proposta da administração em que for deliberada, conforme disposto nos art igos 13 e 14 da
+respectiva proposta da administração em que for deliberada, conforme disposto nos artigos 13 e 14 da
 
 Resolução CVM nº 81/22.
 
@@ -6294,7 +6334,9 @@ adicionais aos administradores, com base no disposto no parágrafo 2º do artigo
 
 O Colegiado da CVM, por maioria, em reunião realizada em 27.08.2019, com relação ao Processo CVM nº
 
-19957.007396/2017-0013, manifestou seu entendimento no sentido de que “não cabe ao regulador exigir
+19957.007396/2017-0013
+
+, manifestou seu entendimento no sentido de que “não cabe ao regulador exigir
 
 que a assembleia geral das companhias abertas aprove também o montante da remuneração de
 
@@ -6324,13 +6366,13 @@ companhia quanto a parcela suportada por suas subsidiárias integrais e controla
 
 13 Vide https://conteudo.cvm.gov.br/decisoes/2019/20190827_R1/20190827_D1052.html.
 
+80
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-81
 
 3.5 Relatório e comunicações do agente fiduciário
 
@@ -6342,7 +6384,7 @@ a) anualmente, elaborar e colocar à disposição dos debenturistas, dentro de 4
 
 encerramento do exercício social da companhia, relatório informando os fatos relevantes
 
-ocorridos durante o exercício, relativos à execução das obrigações assumidas pela com panhia,
+ocorridos durante o exercício, relativos à execução das obrigações assumidas pela companhia,
 
 aos bens garantidores das debêntures e à constituição e aplicação do fundo de amortização, se
 
@@ -6358,7 +6400,7 @@ Desse modo, cabe aos emissores de debêntures admitidas à negociação em merca
 
 no Brasil encaminhar o relatório previsto no inciso X do artigo 22 da Resolução CVM nº 80/22, via Sistema
 
-Empresas.NET, por meio da categoria “Dados Econômico -Financeiros”, tipo “Relatório de Agente
+Empresas.NET, por meio da categoria “Dados Econômico-Financeiros”, tipo “Relatório de Agente
 
 Fiduciário”, em até 4 (quatro) meses do encerramento do exercício social ou no mesmo dia de sua
 
@@ -6402,13 +6444,13 @@ estatutária, e, ainda, na aquisição de lote significativo de ações de emiss
 
 negociação de ações de companhia aberta na pendência de fato relevante não divulgado ao mercado.
 
+81
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-82
 
 Conforme instrui o parágrafo 7º do artigo 3º da Resolução CVM nº 44/21, qualquer alteração nos canais
 
@@ -6430,7 +6472,7 @@ alteração na política de divulgação de ato ou fato relevante.
 
 Segundo o artigo 3º da Resolução CVM nº 44/21, cumpre ao DRI enviar à CVM, por meio de sistema
 
-eletrônico disponível na página da CVM na rede mundial de computadores , e, se for o caso, à bolsa de
+eletrônico disponível na página da CVM na rede mundial de computadores, e, se for o caso, à bolsa de
 
 valores e entidade do mercado de balcão organizado em que os valores mobiliários de emissão da
 
@@ -6438,7 +6480,7 @@ companhia sejam admitidos à negociação, qualquer ato ou fato relevante ocorri
 
 seus negócios (definido no artigo 2º dessa Resolução), bem como garantir sua ampla e imediata
 
-disseminação, simultaneament e, em todos os mercados em que tais valores mobiliários estejam
+disseminação, simultaneamente, em todos os mercados em que tais valores mobiliários estejam
 
 admitidos à negociação.
 
@@ -6446,7 +6488,7 @@ De acordo com a orientação do artigo 5º da Resolução CVM nº 44/21, a divul
 
 relevante deve ser feita, sempre que possível, antes do início (preferencialmente, com pelo menos uma
 
-hora de antecedência em relação a abertura da sessão de negociação ) ou após o encerramento dos
+hora de antecedência em relação a abertura da sessão de negociação) ou após o encerramento dos
 
 negócios nas bolsas de valores e entidades do mercado de balcão organizado em que os valores
 
@@ -6464,9 +6506,9 @@ brasileiro.
 
 Ainda que a Resolução preveja a possibilidade de divulgação de fato relevante antes do início dos negócios
 
-em mercado, entende -se como uma boa prática que a divulgação ocorra preferencialmente após o
+em mercado, entende-se como uma boa prática que a divulgação ocorra preferencialmente após o
 
-encerramento dos negócios em todos os países em que os valores mobiliários sejam negociados ,
+encerramento dos negócios em todos os países em que os valores mobiliários sejam negociados,
 
 possibilitando um período maior para que os investidores possam analisar os efeitos decorrentes da
 
@@ -6484,11 +6526,13 @@ entidades do mercado de balcão organizado, nacionais e estrangeiras, em que os 
 
 emissão da companhia sejam admitidos à negociação, a suspensão da negociação dos valores mobiliários
 
-de emissão da companhia aberta, ou a eles re ferenciados, observados os procedimentos previstos nos
+de emissão da companhia aberta, ou a eles referenciados, observados os procedimentos previstos nos
 
 regulamentos editados pelas bolsas de valores e entidades do mercado de balcão organizado sobre o
 
 assunto.
+
+82
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -6496,11 +6540,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-83
-
 O envio do arquivo com o texto do ato ou fato relevante deve se dar por intermédio do Sistema
 
-Empresas.NET, categoria “Fato Relevante ”, antes ou simultaneamente à sua divulgação pelos canais
+Empresas.NET, categoria “Fato Relevante”
+
+, antes ou simultaneamente à sua divulgação pelos canais
 
 previstos no artigo 3º, parágrafo 4º, da Resolução CVM nº 44/21 (jornais de grande circulação utilizados
 
@@ -6514,7 +6558,7 @@ Considerados Fatos Relevantes” (vide item 4.1.1).
 
 A obrigatoriedade da divulgação pelo Sistema Empresas.NET independe da categoria de registro do
 
-emissor, conforme determinando no artigo 33, inciso X, e no artigo 3 4, inciso VI, da Resolução CVM nº
+emissor, conforme determinando no artigo 33, inciso X, e no artigo 34, inciso VI, da Resolução CVM nº
 
 80/22.
 
@@ -6542,7 +6586,7 @@ CVM nº 44/21, somente se eximirão de responsabilidade caso comuniquem imediata
 
 relevante à CVM, nos termos do artigo 3º, parágrafo 2º da Resolução.
 
-Excepcionalmente, segundo o parágrafo 5º do art igo 157 da Lei nº 6.404/76 e o caput do artigo 6º da
+Excepcionalmente, segundo o parágrafo 5º do artigo 157 da Lei nº 6.404/76 e o caput do artigo 6º da
 
 Resolução CVM nº 44/21, os atos ou fatos relevantes podem deixar de ser divulgados se os acionistas
 
@@ -6572,13 +6616,13 @@ preço ou quantidade negociada dos valores mobiliários de emissão da companhia
 
 referenciados.
 
+83
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-84
 
 A fim de dar efetividade à regra de divulgação imediata nos casos acima mencionados, o DRI, sempre que
 
@@ -6600,11 +6644,11 @@ Destaca-se que a CVM vem entendendo que, na hipótese de vazamento da informaç�
 
 emissão da companhia oscilarem atipicamente, o fato relevante deve ser imediatamente divulgado, ainda
 
-que a informação se refira a operações em negociação (não concluídas), tratativas inicia is, estudos de
+que a informação se refira a operações em negociação (não concluídas), tratativas iniciais, estudos de
 
 viabilidade ou até mesmo à mera intenção de realização do negócio (vide julgamento do Processo CVM
 
-nº RJ2006/592814 e do PAS CVM nº 24/05 15). Caso a informação relevante escape ao controle da
+nº RJ2006/592814 e do PAS CVM nº 24/0515). Caso a informação relevante escape ao controle da
 
 administração ou ocorra oscilação atípica na cotação, preço ou quantidade negociada dos valores
 
@@ -6622,7 +6666,7 @@ relevantes sobre os quais o mercado não estava oficialmente informado [...]. Es
 
 em finanças, notadamente nos Estados Unidos, confirmam que o momento do fato relevante, na maior
 
-parte das vezes, nã o é representado por um evento objetivo localizado no tempo, que de forma clara e
+parte das vezes, não é representado por um evento objetivo localizado no tempo, que de forma clara e
 
 definitiva simbolize a ocorrência relevante nos negócios da companhia. Verificou-se naqueles estudos que,
 
@@ -6632,7 +6676,7 @@ de uma só vez, o impacto de uma informação relevante. Além disso, cada vez m
 
 antecipar à divulgação de informações, ao invés de aguardá-las passivamente, fazendo apostas quanto aos
 
-eventos que ser ão anunciados, independentemente da importância do anúncio em si, o que também
+eventos que serão anunciados, independentemente da importância do anúncio em si, o que também
 
 dificulta a identificação de eventos relevantes no tempo.
 
@@ -6640,7 +6684,7 @@ Assim sendo, nos casos em que se identifiquem falhas na divulgação de ato ou f
 
 da investigação de eventual utilização de informação privilegiada, o DRI, bem como os acionistas
 
-controladores, demais diretores, membros do conselho de administração , do conselho fiscal e de
+controladores, demais diretores, membros do conselho de administração, do conselho fiscal e de
 
 quaisquer órgãos com funções técnicas ou consultivas, criados por disposição estatutária, estão sujeitos
 
@@ -6666,13 +6710,13 @@ recebimento de questionamento da CVM ou da B3.
 
 16 Vide https://conteudo.cvm.gov.br/export/sites/cvm/sancionadores/sancionador/anexos/2006/20060628_PAS_0404.pdf.
 
+84
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-85
 
 A decisão quanto à divulgação de atos ou fatos relevantes é da competência da própria administração da
 
@@ -6704,21 +6748,21 @@ ser verdadeiras, completas, consistentes e que não induzam o investidor a erro,
 
 artigo 3º, parágrafo 5º, da Resolução CVM nº 44/21, e nos artigos 15 a 20 da Resolução CVM nº 80/22.
 
-Por exemplo, a companhia deve eximir -se de emitir juízo de valor, sobretudo no que diz respeito ao
+Por exemplo, a companhia deve eximir-se de emitir juízo de valor, sobretudo no que diz respeito ao
 
 andamento de disputas judiciais e decisões nelas proferidas, as quais devem refletir o exato teor de tais
 
 decisões.
 
-Ressalta-se ainda que se a plicam às divulgações realizadas em mídias sociais (incluindo lives, ou seja,
+Ressalta-se ainda que se aplicam às divulgações realizadas em mídias sociais (incluindo lives, ou seja,
 
-transmissões “ao vivo” de apresentações com a presença de representantes de companhias abertas ),
+transmissões “ao vivo” de apresentações com a presença de representantes de companhias abertas),
 
 usualmente organizadas por uma terceira parte, que não a própria companhia (ver item 4.23) as mesmas
 
 regras previstas nas normas que tratam da divulgação de informações, notadamente as que disciplinam a
 
-divulgação de informações relevantes ( Resolução CVM nº 44/21) e estabelecem regras gerais sobre
+divulgação de informações relevantes (Resolução CVM nº 44/21) e estabelecem regras gerais sobre
 
 conteúdo e forma das informações que os emissores devem observar (artigos 15 a 20 da Resolução CVM
 
@@ -6746,13 +6790,13 @@ determinar a divulgação, correção, aditamento ou republicação de informaç
 
 relevante, bem como solicitar esclarecimentos adicionais sobre a sua divulgação.
 
+85
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-86
 
 Lembra-se que a eventual prestação a esclarecimentos adicionais solicitados pela CVM não substitui a
 
@@ -6770,7 +6814,7 @@ Aproveita-se para lembrar a íntegra do Comunicado ao Mercado CVM nº 02/16, div
 
 (quando da vigência das Instruções CVM nº 358/02 e nº 480/09, hoje substituídas pelas Resoluções CVM
 
-nº 44/21 e 80/22, respectivamente ), o qual pode ser acessado no link https://www.gov.br/cvm/pt-
+nº 44/21 e 80/22, respectivamente), o qual pode ser acessado no link https://www.gov.br/cvm/pt-
 
 br/assuntos/noticias/comunicado-ao-mercado-n-02-2016-bae3c5764cf14c3a906c57cf2be7219d:
 
@@ -6782,7 +6826,7 @@ adequada disseminação das informações, que não se restringem às atribuiç�
 
 investidores.
 
-O artigo 157, § 4º, da Lei 6.404 /76, bem como artigo 2º da Instrução CVM 358, determinam a divulgação
+O artigo 157, § 4º, da Lei 6.404/76, bem como artigo 2º da Instrução CVM 358, determinam a divulgação
 
 ao mercado de qualquer ato ou fato relevante que possa influir “de modo ponderável”: (i) na cotação dos
 
@@ -6800,7 +6844,7 @@ financeiro, ocorrido ou relacionado aos seus negócios.
 
 Para assegurar o acesso ordenado e equitativo do mercado a tais informações, a Instrução CVM 358 imputa
 
-ao DRI das companhias abertas o dever de divulgá -las, de modo claro e preciso, pelos canais oficiais de
+ao DRI das companhias abertas o dever de divulgá-las, de modo claro e preciso, pelos canais oficiais de
 
 comunicação, além de zelar pela sua ampla e imediata disseminação (artigo 3º).
 
@@ -6808,13 +6852,13 @@ Excepcionalmente, caso acionistas controladores ou administradores entendam que 
 
 determinada informação relevante possa comprometer interesse legítimo da companhia naquele
 
-momento, a Instrução CVM 358 autoriza a sua não divulgação imediata. E ntretanto, havendo vazamento
+momento, a Instrução CVM 358 autoriza a sua não divulgação imediata. Entretanto, havendo vazamento
 
 da informação, ainda que a fonte não tenha sido a companhia, ou oscilação atípica envolvendo os valores
 
 mobiliários de sua emissão, a informação deve ser prontamente divulgada ao mercado pelo DRI e, apenas
 
-diante de sua omissão, pelos controladores ou administradores que tiverem acesso à informação ( artigo
+diante de sua omissão, pelos controladores ou administradores que tiverem acesso à informação (artigo
 
 6º).
 
@@ -6826,9 +6870,9 @@ Porém, havendo oscilação atípica na cotação, preço ou quantidade negociad
 
 emissão da companhia, é responsabilidade do DRI averiguar, de maneira proativa, a existência de
 
-informações que devam ser divulgadas ao mercado ( artigo 4º, parágrafo único), o que deve ocorrer,
+informações que devam ser divulgadas ao mercado (artigo 4º, parágrafo único), o que deve ocorrer,
 
-também, diante de questionamentos da CVM ou de entidade autorreguladora ( artigo 4º, caput).
+também, diante de questionamentos da CVM ou de entidade autorreguladora (artigo 4º, caput).
 
 Por outro lado, a norma também obriga acionistas controladores, diretores, conselheiros, empregados e
 
@@ -6836,13 +6880,13 @@ membros de órgãos estatutários a manter o DRI informado sobre qualquer inform
 
 tenham conhecimento (artigo 3º, § 1º).
 
+86
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-87
 
 Em linha com tais obrigações, a CVM ressalta a necessidade de que as pessoas que, por seu cargo ou
 
@@ -6852,7 +6896,7 @@ de modo ponderável na cotação dos valores mobiliários por ela emitidos, atue
 
 com os canais institucionais da companhia aberta e comuniquem tais informações ao DRI antes de lhes
 
-darem publicidade . Desse modo, o DRI poderá agir tempestivamente para fornecer ao mercado
+darem publicidade. Desse modo, o DRI poderá agir tempestivamente para fornecer ao mercado
 
 informações verdadeiras, completas, consistentes e que não induzam o investidor a erro, conforme previsto
 
@@ -6902,21 +6946,23 @@ formalidade específica: a divulgação imediata à CVM, às bolsas de valores o
 
 balcão em que a companhia aberta negocia os seus valores mobiliários e divulgação pela imprensa
 
-(publicação em jornal de grande circulação utilizado habitualmente pela companhia ) ou por portal de
+(publicação em jornal de grande circulação utilizado habitualmente pela companhia) ou por portal de
 
 notícias presente na internet (que disponibilize, em seção disponível para acesso gratuito, a informação
 
 em sua integralidade). O encaminhamento à CVM e à bolsa de valores se dá por meio do arquivamento
 
-da informação no Sistema Empresas.NET, na categoria “Fato Relevante”.
+da informação no Sistema Empresas.NET, na categoria “Fato Relevante”
+
+.
+
+87
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-88
 
 O “Comunicado ao Mercado” representa uma categoria que foi criada no Sistema Empresas.NET para a
 
@@ -6926,7 +6972,7 @@ ou de alienação de participações relevantes previsto no artigo 12, cuja publ
 
 hipóteses previstas no parágrafo 5º desse artigo) ou de outras informações não caracterizadas como ato
 
-ou fato rel evante, que a companhia entenda como úteis de serem divulgadas aos acionistas ou ao
+ou fato relevante, que a companhia entenda como úteis de serem divulgadas aos acionistas ou ao
 
 mercado (tal como o material divulgado em reuniões com analistas etc.). Também são arquivados nessa
 
@@ -6958,7 +7004,7 @@ das demonstrações financeiras ou de atas de reunião de órgãos da administra
 
 que se caracterize como ato ou fato relevante), muito embora seja útil e recomendável para a boa
 
-comunicação com os acionista s e o mercado que haja um indicativo da importância da informação
+comunicação com os acionistas e o mercado que haja um indicativo da importância da informação
 
 divulgada.
 
@@ -6970,7 +7016,7 @@ divulgações, respeitada a Resolução CVM nº 44/21.
 
 Por exemplo, pode-se citar as divulgações relativas às métricas operacionais por meio de comunicado ao
 
-mercado. A princípio, não há impedimento em que se faça ta is divulgações por Comunicado, desde que
+mercado. A princípio, não há impedimento em que se faça tais divulgações por Comunicado, desde que
 
 essas informações não constituam fato relevante nos termos da Resolução CVM nº 44/21. Para isso, os
 
@@ -6982,7 +7028,7 @@ de companhia daquele setor, pois nesses casos se estará diante de uma possível
 
 informação financeira, informação de natureza relevante conforme item 3.2.2 deste Ofício Circular.
 
-Caso a companhia adote a prática de divulgação de dados e métricas operacionais, recomenda -se que
+Caso a companhia adote a prática de divulgação de dados e métricas operacionais, recomenda-se que
 
 esta prática esteja prevista em sua política de divulgação, contendo os seguintes requisitos: (i) estabeleça
 
@@ -7002,13 +7048,13 @@ Ressalta-se que, mesmo que a divulgação dos dados e métricas por meio de comu
 
 esteja prevista em sua política, a administração da companhia deverá avaliar, a cada divulgação, a
 
+88
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-89
 
 eventual necessidade de fazer a divulgação por meio de fato relevante, principalmente se os dados ali
 
@@ -7062,7 +7108,7 @@ Entretanto, no momento que a administração decida pela divulgação de aquisi�
 
 (ou de participação societária em outra companhia), seja por meio de fato relevante ou de comunicado
 
-ao mercado , deve fazer constar do documento divulgado as informações relevantes disponíveis que
+ao mercado, deve fazer constar do documento divulgado as informações relevantes disponíveis que
 
 permitam a compreensão do negócio pelo público a que se destina a informação, o que inclui as
 
@@ -7088,15 +7134,15 @@ todos os elementos essenciais do negócio jurídico celebrado), informando sobre
 
 etapas precedentes, tais como due diligence, informando ainda se tais etapas são somente confirmatórias
 
+89
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-90
-
-das premissas da operação ou se seria m condição capaz de desfazer o negócio jurídico (i.e., elemento
+das premissas da operação ou se seriam condição capaz de desfazer o negócio jurídico (i.e., elemento
 
 acidental do negócio jurídico).
 
@@ -7120,7 +7166,7 @@ companhias disponibilizassem aos seus acionistas sistema eletrônico para (i) o 
 
 a distância (artigo 28, I); ou (ii) a participação a distância durante a assembleia (artigo 28, II).
 
-A despeito da previsão normativa, verificou -se que as companhias abertas optaram por realizar suas
+A despeito da previsão normativa, verificou-se que as companhias abertas optaram por realizar suas
 
 assembleias gerais somente por meio presencial, com a participação remota se dando apenas por meio
 
@@ -7150,9 +7196,11 @@ tenham sido disponibilizados anteriormente, a gravação integral da assembleia 
 
 comunicação entre acionistas.
 
-Cabe destacar que a Resolução CVM nº 81/22 dispõe, em seu Capítulo V , sobre assembleia de
+Cabe destacar que a Resolução CVM nº 81/22 dispõe, em seu Capítulo V, sobre assembleia de
 
 debenturistas.
+
+90
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -7160,35 +7208,33 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-91
-
 4.2.1 Edital de convocação de AGE, AGESP e AGDEB
 
-Nos termos do inciso II do parágrafo 1º do artigo 1 24 da Lei nº 6.404/76 , a convocação de assembleia
+Nos termos do inciso II do parágrafo 1º do artigo 124 da Lei nº 6.404/76, a convocação de assembleia
 
 geral de acionistas de companhia aberta far-se-á mediante anúncio publicado por três vezes, no mínimo,
 
 contendo, além do local, data e hora da assembleia, a ordem do dia, e, no caso de reforma do estatuto, a
 
-indicação da matéria, sendo o prazo de antecedência da primeira convocação , para as companhias
+indicação da matéria, sendo o prazo de antecedência da primeira convocação, para as companhias
 
 abertas, de 21 (vinte e um) dias e o da segunda convocação, de 8 (oito) dias, salvo em caso do atendimento
 
 do disposto no parágrafo 4º do artigo 124 da Lei nº 6.404/76. Por força do disposto no parágrafo 2º do
 
-artigo 71 da Lei nº 6.404/76, aplica -se à assembleia de debenturistas, no que couber, o disposto n a
+artigo 71 da Lei nº 6.404/76, aplica-se à assembleia de debenturistas, no que couber, o disposto na
 
 referida Lei sobre a assembleia geral de acionistas.
 
 A despeito do aumento do prazo de convocação para 21 (vinte e um) dias estabelecido a partir da
 
-alteração trazida pela Lei nº 14.194 /21, continua sendo recomendável que as companhias adotem,
+alteração trazida pela Lei nº 14.194/21, continua sendo recomendável que as companhias adotem,
 
 sempre que possível, o prazo mínimo de 1 (um) mês para a convocação da AGE, AGESP e AGDEB, a
 
-exemplo do que já exige o art igo 10 da Resolução CVM nº 81/ 22 para a proposta da administração da
+exemplo do que já exige o artigo 10 da Resolução CVM nº 81/22 para a proposta da administração da
 
-AGO, para que os acionistas , debenturistas ou titulares de certificados de recebíveis do agronegócio ou
+AGO, para que os acionistas, debenturistas ou titulares de certificados de recebíveis do agronegócio ou
 
 imobiliário tenham tempo suficiente para analisar as deliberações a serem tomadas e, eventualmente, se
 
@@ -7204,11 +7250,11 @@ matérias constantes da ordem do dia da respectiva assembleia.
 
 Para a realização de assembleia em segunda convocação é necessária a publicação de novo edital.
 
-Considera-se irregular incluir a segunda convocação da AG E, AGESP e AGDEB já no edital da primeira
+Considera-se irregular incluir a segunda convocação da AGE, AGESP e AGDEB já no edital da primeira
 
 convocação.
 
-Assim, n a hipótese de não instalação da assembleia em primeira convocação, deverá ocorrer nova
+Assim, na hipótese de não instalação da assembleia em primeira convocação, deverá ocorrer nova
 
 convocação por meio da publicação de novo edital que deverá informar, além da ordem do dia, o local, a
 
@@ -7240,13 +7286,13 @@ tem sede, o local em que a assembleia será realizada, que deverá ser no mesmo 
 
 sede;
 
+91
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-92
 
 c) caso seja admitida a participação a distância por meio de sistema eletrônico, nos termos do
 
@@ -7262,7 +7308,7 @@ Recebido pedido de adoção do processo de voto múltiplo e verificado que ele a
 
 141 da Lei nº 6.404/76 e na Resolução CVM nº 70/22, a companhia deve divulgar, por meio do Sistema
 
-Empresas.NET, na categoria “Aviso aos Acionistas ”, tipo “Adoção do processo de voto múltiplo ”, que a
+Empresas.NET, na categoria “Aviso aos Acionistas”, tipo “Adoção do processo de voto múltiplo”, que a
 
 eleição do conselho de administração poderá se dar por esse processo, por ser esta uma informação
 
@@ -7276,7 +7322,9 @@ respeito trazidas pela Resolução CVM nº 81/22 (vide item 7.2).
 
 Conforme entendimento exarado pelo Colegiado da CVM em reunião realizada em 04.11.2014 (Processos
 
-CVM nº RJ2013/4386 e RJ2013/4607) 17, a definição do número de membros do conselho de
+CVM nº RJ2013/4386 e RJ2013/4607)17
+
+, a definição do número de membros do conselho de
 
 administração, quando o estatuto social dispõe sobre um número mínimo e máximo, deve ser objeto de
 
@@ -7288,7 +7336,7 @@ adequado é a divulgação, no edital de convocação, que em sua ordem do dia s
 
 de membros a compor o conselho de administração da companhia.
 
-Além disso, entendeu o Colegiado da CVM, na mesma ocasião , que a proposta da administração deverá
+Além disso, entendeu o Colegiado da CVM, na mesma ocasião, que a proposta da administração deverá
 
 conter os cenários possíveis sobre o número de membros a serem eleitos, seja por meio do voto múltiplo
 
@@ -7302,7 +7350,7 @@ Nesta linha, é recomendável que o acionista controlador/administração inform
 
 mínimo) de conselheiros para determinado mandato que seriam eleitos pelo voto múltiplo ou majoritário
 
-(por exemplo, 10 membros), sendo que tal número poderia se r acrescido em até 2 membros em função
+(por exemplo, 10 membros), sendo que tal número poderia ser acrescido em até 2 membros em função
 
 das eleições em separado (ou seja, alcançando o número de 11 ou 12 conselheiros).
 
@@ -7318,23 +7366,27 @@ de votos conferidos pelas ações com direito de voto o direito de eleger consel
 
 acionistas, mais um, independentemente do número de conselheiros que, segundo o estatuto, componha o órgão.”
 
+92
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-93
+Consoante o inciso I dos artigos 33 e 34 da Resolução CVM nº 80/22, os emissores devem encaminhar,
 
-Consoante o inciso I dos artigos 3 3 e 34 da Resolução CVM nº 80/22, os emissores devem encaminhar,
+pelo Sistema Empresas.NET, categoria “Assembleia”, tipo “AGE”
 
-pelo Sistema Empresas.NET, categoria “Assembleia”, tipo “AGE”, “AGESP”, “AGDEB”, espécie “Edital de
+,
+
+“AGESP”, “AGDEB”, espécie “Edital de
 
 Convocação”, os editais de convocação das assembleias extraordinárias, especiais, de debenturistas e de
 
 titulares de certificados de recebíveis do agronegócio ou imobiliário, cujas publicações seguem os moldes
 
-do artigo 124, parágrafo 1º, inciso II, da Lei nº 6.404/76. Lembra-se que Lei nº 12.431 /11 alterou
+do artigo 124, parágrafo 1º, inciso II, da Lei nº 6.404/76. Lembra-se que Lei nº 12.431/11 alterou
 
 dispositivos da Lei nº 6.404/74, que passou a prever no parágrafo único do artigo 121 que, nas companhias
 
@@ -7346,7 +7398,7 @@ A Resolução CVM nº 81/22 regulamentou o procedimento de voto a distância, co
 
 7.2 do presente Ofício Circular.
 
-As companhias também poderão realizar assembleias de modo parcial ou exclusivamente digital , desde
+As companhias também poderão realizar assembleias de modo parcial ou exclusivamente digital, desde
 
 que cumpram integralmente os requisitos estabelecidos na referida Resolução.
 
@@ -7380,7 +7432,7 @@ artigo 28, inciso II, da Resolução CVM nº 81/22, o depósito dos documentos a
 
 1º em até 2 (dois) dias antes da data de realização da assembleia.
 
-Sem prejuízo do disposto no parágrafo 1º do artigo 141 da Lei nº 6.404/76, recomenda -se que as
+Sem prejuízo do disposto no parágrafo 1º do artigo 141 da Lei nº 6.404/76, recomenda-se que as
 
 companhias, nos avisos de convocação das assembleias, destaquem a importância de que os pedidos de
 
@@ -7388,13 +7440,13 @@ voto múltiplo sejam feitos com antecedência, de modo a facilitar seu processam
 
 participação dos demais acionistas, nacionais e estrangeiros.
 
+93
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-94
 
 4.2.2 Proposta da administração para AGE, AGESP e AGDEB
 
@@ -7406,19 +7458,19 @@ ações em bolsa de valores e possuam ações em circulação
 
 Conforme previsto no parágrafo 3º do artigo 135 da Lei nº 6.404/76 e no inciso II do artigo 33 da Resolução
 
-CVM nº 80/22, os documentos pertinentes à matéria a ser debatida na AGE , AGESP ou AGDEB deverão
+CVM nº 80/22, os documentos pertinentes à matéria a ser debatida na AGE, AGESP ou AGDEB deverão
 
-ser postos à disposição dos acionistas ou dos debenturistas , na sede da companhia, por ocasião da
+ser postos à disposição dos acionistas ou dos debenturistas, na sede da companhia, por ocasião da
 
 publicação do primeiro anúncio de convocação da assembleia geral. Além disso, os emissores de valores
 
 mobiliários registrados na categoria A que estejam autorizados por entidade administradora de mercado
 
-à nego ciação de ações em bolsa de valores e possuam ações em circulação devem enviar todos os
+à negociação de ações em bolsa de valores e possuam ações em circulação devem enviar todos os
 
 documentos necessários ao exercício do direito de voto nas assembleias extraordinárias, especiais e de
 
-debenturistas19 por meio d o Sistema Empresas.NET, conforme determina o inciso II do artigo 3 3 da
+debenturistas19 por meio do Sistema Empresas.NET, conforme determina o inciso II do artigo 33 da
 
 Resolução CVM nº 80/22.
 
@@ -7428,17 +7480,17 @@ cumpre alertar que a Resolução passou a dispor sobre os documentos e informaç
 
 ser disponibilizadas aos acionistas sempre que a assembleia geral seja convocada para deliberar sobre
 
-determinadas matérias previstas na Resolução . Tais documentos e informações deverão ser
+determinadas matérias previstas na Resolução. Tais documentos e informações deverão ser
 
 encaminhados à CVM, pelo Sistema Empresas.NET (vide Capítulo 9), até a data da publicação do primeiro
 
-anúncio de convocação, exceto quando a Lei nº 6.404/76, a Resolução CVM nº 81/ 22 ou outra norma
+anúncio de convocação, exceto quando a Lei nº 6.404/76, a Resolução CVM nº 81/22 ou outra norma
 
 editada pela CVM estabelecer prazo maior.
 
 Assim, quando da convocação de assembleia geral de acionistas, os emissores registrados na categoria A
 
-para os quais se aplique a Resolução CVM nº 81/ 22 deverão atentar para as disposições da referida
+para os quais se aplique a Resolução CVM nº 81/22 deverão atentar para as disposições da referida
 
 Resolução, especialmente no que diz respeito ao disposto em seus artigos 9º a 25.
 
@@ -7450,15 +7502,25 @@ Empresas.NET, na forma abaixo especificada, por ocasião da publicação do prim
 
 convocação da assembleia geral:
 
-a) informações previstas no artigo 9º, a serem incluídas na proposta da administração e enviados
+a) informações previstas no artigo 9º
 
-pela categoria “Assembleia”, tipo “AGO/E”, “AGE” ou “AGESP”, espécie “Proposta da
+, a serem incluídas na proposta da administração e enviados
+
+pela categoria “Assembleia”, tipo “AGO/E”
+
+,
+
+“AGE” ou “AGESP”, espécie “Proposta da
 
 Administração”, assunto “Matéria de interesse especial de parte relacionada”;
 
-b) informações indicadas no artigo 1 1, a serem enviadas pela categoria “Assembleia”, tipo
+b) informações indicadas no artigo 11, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Eleição de membros dos
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Eleição de membros dos
 
 Conselhos de Administração e Fiscal”;
 
@@ -7474,57 +7536,77 @@ disponibilizados ao público por meio do “IPE Online” no Sistema Empresas.NE
 
 “Proposta da Administração”.
 
+94
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-95
-
 c) informações previstas no artigo 12, a serem incluídas na proposta da administração e enviados
 
-pela categoria “Assembleia”, tipo “AGO/E”, “AGE” ou “AGESP”, espécie “Proposta da
+pela categoria “Assembleia”, tipo “AGO/E”
+
+,
+
+“AGE” ou “AGESP”, espécie “Proposta da
 
 Administração”, assunto “Reforma estatutária”;
 
-d) Informações indicadas no artigo 1 3, a serem enviadas pela categoria “Assembleia”, tipo
+d) Informações indicadas no artigo 13, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Remuneração dos
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Remuneração dos
 
 administradores e conselheiros”;
 
-e) informações indicadas no artigo 1 4, a serem enviadas pela categoria “Assembleia”, tipo
+e) informações indicadas no artigo 14, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Plano de Remuneração
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Plano de Remuneração
 
 baseado em ações”;
 
-f) informações indicadas no artigo 1 5, a serem enviadas pela categoria “Assembleia”, tipo
+f) informações indicadas no artigo 15, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Aumento de Capital ”, com
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Aumento de Capital”, com
 
 exceção ao(s):
 
 (i) parecer do conselho fiscal em aumento de capital (item 4 do Anexo C, a ser enviado pela
 
-categoria “Reunião da Administração ”, tipo “Conselho Fiscal ”, espécie “Ata”, assunto
+categoria “Reunião da Administração”, tipo “Conselho Fiscal”, espécie “Ata”, assunto
 
 “Parecer sobre aumento de capital”;
 
 (ii) laudos e estudos que subsidiarem a fixação do preço de emissão em aumento de capital
 
-(item 5, letra “k”, do Anexo C), a serem enviados pela categoria “Dados Econômico -
+(item 5, letra “k”, do Anexo C), a serem enviados pela categoria “Dados Econômico-
 
-Financeiros”, tipo “Laudo de Avaliação ”, assunto “Laudo utilizado em aumento de
+Financeiros”, tipo “Laudo de Avaliação”, assunto “Laudo utilizado em aumento de
 
 capital”;
 
-(iii) laudo de avaliação de avaliação dos bens (i tem 5, letra “s”, subitem “iii”, do Anexo C, a
+(iii) laudo de avaliação de avaliação dos bens (item 5, letra “s”, subitem “iii”, do Anexo C, a
 
-ser enviado pela categoria “Dados Econômico-Financeiros”, tipo “Laudo de Avaliação ”,
+ser enviado pela categoria “Dados Econômico-Financeiros”, tipo “Laudo de Avaliação”
 
-assunto “Laudo de avaliação de bens”.
+,
+
+assunto “Laudo de avaliação de bens”
+
+.
 
 g) informações indicadas no artigo 16, a serem enviadas pela categoria “Assembleia”, tipo “AGO/E”
 
@@ -7532,29 +7614,47 @@ ou “AGE”, espécie “Proposta da Administração”, assunto “Emissão de
 
 de bônus de subscrição”;
 
-h) informações indicadas no artigo 1 7, a serem enviadas pela categoria “Assembleia”, tipo
+h) informações indicadas no artigo 17, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Redução de Capital ”, com
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Redução de Capital”, com
 
 exceção ao parecer do conselho fiscal em redução de capital (item 3 do Anexo E), a ser enviado
 
-pela categoria “Reunião da Administração ”, tipo “Conselho Fiscal ”, espécie “Ata”, assunto
+pela categoria “Reunião da Administração”, tipo “Conselho Fiscal”, espécie “Ata”, assunto
 
 “Parecer sobre redução de capital”;
 
-i) informações indicadas no artigo 1 8, a serem enviadas pela categoria “Assembleia”, tipo
+i) informações indicadas no artigo 18, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, “AGESP”, espécie “Proposta da Administração”, assunto “Criação de ações
+“AGO/E”
+
+“AGE”
+
+,
+
+,
+
+“AGESP”, espécie “Proposta da Administração”, assunto “Criação de ações
 
 preferenciais ou alteração nas suas preferências, vantagens ou condições de resgate ou
 
 amortização”;
 
-j) informações indicadas no artigo 1 9, a serem enviadas pela categoria “Assembleia”, tipo
+j) informações indicadas no artigo 19, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Redução do dividendo
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Redução do dividendo
 
 obrigatório”;
+
+95
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -7562,11 +7662,13 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-96
-
 k) informações indicadas no artigo 20, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Aquisição de controle de outra
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Aquisição de controle de outra
 
 sociedade”, com exceção aos estudos e laudos que subsidiaram a negociação do preço de
 
@@ -7574,9 +7676,13 @@ aquisição do controle (item 13 do Anexo G, a serem enviados pela categoria “
 
 Financeiros”, tipo “Laudo de avaliação”, assunto “Laudo utilizado em aquisição de controle”;
 
-l) informações indicadas no artigo 2 1, a serem enviadas pela categoria “Assembleia”, tipo
+l) informações indicadas no artigo 21, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Direito de Recesso”, cabendo
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Direito de Recesso”, cabendo
 
 destacar que os laudos que servirem de base para o cálculo previsto no item 9, letra “a”, do
 
@@ -7586,13 +7692,13 @@ avaliação”, assunto “Laudo com base no valor do patrimônio líquido a pre
 
 outro critério aceito pela CVM”;
 
-m) informações indicadas no artigo 2 2, a serem enviadas pela categoria “Assembleia”, tipo
+m) informações indicadas no artigo 22, a serem enviadas pela categoria “Assembleia”, tipo
 
 “AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Fusão, Cisão, Incorporação ou
 
 Incorporação de Ações”;
 
-n) informações indicadas no artigo 2 3, a serem enviadas pela categoria “Assembleia”, tipo
+n) informações indicadas no artigo 23, a serem enviadas pela categoria “Assembleia”, tipo
 
 “AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Aquisição de ações de emissão
 
@@ -7600,19 +7706,25 @@ da própria companhia” ou “Alienação de ações de emissão da própria co
 
 caso;
 
-o) informações indicadas no artigo 24 , a serem enviadas pela categoria “Assembleia”, tipo
+o) informações indicadas no artigo 24, a serem enviadas pela categoria “Assembleia”, tipo
 
 “AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Aquisição de debêntures de
 
 emissão da própria companhia”; e
 
-p) informações indicadas no artigo 2 5, a serem enviadas pela categoria “Assembleia”, tipo
+p) informações indicadas no artigo 25, a serem enviadas pela categoria “Assembleia”, tipo
 
-“AGO/E”, “AGE”, espécie “Proposta da Administração”, assunto “Escolha de Avaliadores”.
+“AGO/E”
+
+,
+
+“AGE”, espécie “Proposta da Administração”, assunto “Escolha de Avaliadores”
+
+.
 
 Mesmo nos casos em que a assembleia venha a tratar de mais de um dos assuntos relacionados na
 
-Resolução CVM nº 81/ 22, deverá ser encaminhado pelo Sistema Empresas.NET, um único documento
+Resolução CVM nº 81/22, deverá ser encaminhado pelo Sistema Empresas.NET, um único documento
 
 “Proposta de Administração” contendo os devidos anexos, fazendo menção, no assunto, aos respectivos
 
@@ -7620,15 +7732,15 @@ itens da ordem do dia.
 
 Ressalte-se que, mesmo quando os assuntos incluídos na ordem do dia da AGE ou da AGESP não estiverem
 
-previstos na Resolução CVM nº 81/ 22, será necessária a apresentação de uma proposta com as
+previstos na Resolução CVM nº 81/22, será necessária a apresentação de uma proposta com as
 
 informações e documentos necessários para a compreensão dos acionistas da matéria a ser deliberada
 
-na assembleia. Isso porque, como previsto na Resolução CVM nº 80/ 22, as informações e documentos
+na assembleia. Isso porque, como previsto na Resolução CVM nº 80/22, as informações e documentos
 
 fornecidos aos acionistas devem ser verdadeiros, completos e consistentes, redigidos em linguagem clara,
 
-objetiva e concisa e não devem induzir os investidores a erro. Nos termos do inciso II do artigo 3 3 da
+objetiva e concisa e não devem induzir os investidores a erro. Nos termos do inciso II do artigo 33 da
 
 Resolução CVM nº 80/22, também se aplica à AGDEB a obrigatoriedade de apresentação de proposta com
 
@@ -7642,13 +7754,13 @@ a serem submetidos à deliberação assemblear, uma vez que tal procedimento a t
 
 repetição de informações já contidas no edital de convocação.
 
+96
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-97
 
 Para facilitar a leitura pelos usuários, recomenda-se que o documento com a proposta da administração
 
@@ -7668,7 +7780,7 @@ nº 81/22.
 
 No caso de companhias com depositary receipts negociados no exterior (como é o caso de ADRs), salienta-
 
-se que, em sendo possível o exercício de voto pelos titulares de DRs, afigura -se necessário que tal
+se que, em sendo possível o exercício de voto pelos titulares de DRs, afigura-se necessário que tal
 
 prerrogativa seja exercida no máximo grau de igualdade possível com os acionistas.
 
@@ -7708,7 +7820,7 @@ para cumprimento de exigência formulada pela CVM, deverá ser feita referência
 
 Sempre que a ordem do dia da assembleia incluir item sobre a prestação de compromisso de indenidade
 
-para os administradores, recomenda -se que a proposta da administração inclua as informações
+para os administradores, recomenda-se que a proposta da administração inclua as informações
 
 necessárias para a tomada de decisão pelos acionistas
 
@@ -7716,9 +7828,11 @@ Nesse sentido, sugere-se consulta ao Parecer de Orientação CVM nº 38, de 25.0
 
 nº 9/2018/CVM/SEP e ao item 7.13 do presente Ofício Circular.
 
-Ressalta-se que, para a realização de assembleia em segunda convocação , é necessária a publicação de
+Ressalta-se que, para a realização de assembleia em segunda convocação, é necessária a publicação de
 
 nova proposta da administração.
+
+97
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -7726,19 +7840,17 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-98
-
 4.2.2.2 Proposta da administração – categoria B e companhias na categoria A
 
 para as quais não se aplique a Resolução CVM nº 81/22
 
 Conforme previsto no parágrafo 3º do artigo 135 da Lei nº 6.404/76, os documentos pertinentes à matéria
 
-a ser debatida na AGE , AGESP ou AGDEB 20 deverão ser postos à disposição dos acionistas, na sede da
+a ser debatida na AGE, AGESP ou AGDEB20 deverão ser postos à disposição dos acionistas, na sede da
 
 companhia, por ocasião da publicação do primeiro anúncio de convocação da assembleia geral.
 
-Nos termos do inciso II do artigo 3 4 da Resolução CVM nº 80/22, o emissor com registro de categoria B
+Nos termos do inciso II do artigo 34 da Resolução CVM nº 80/22, o emissor com registro de categoria B
 
 deve enviar à CVM todos os documentos necessários ao exercício do direito de voto nas assembleias
 
@@ -7754,7 +7866,7 @@ item 4.2.2).
 
 Os emissores registrados na categoria B e os emissores registrados na categoria A para os quais não se
 
-aplica a Resolução CVM nº 81/ 22 podem voluntariamente encaminhar os documentos necessários ao
+aplica a Resolução CVM nº 81/22 podem voluntariamente encaminhar os documentos necessários ao
 
 exercício do direito de voto nas AGE e AGESP.
 
@@ -7766,15 +7878,25 @@ se refere ao conteúdo e forma de envio.
 
 Os emissores registrados nas categorias A e B devem obrigatoriamente encaminhar, nos termos dos
 
-incisos III e IV dos artigos 3 3 e 34 da Resolução CVM nº 80/22, os sumários das decisões, no mesmo dia
+incisos III e IV dos artigos 33 e 34 da Resolução CVM nº 80/22, os sumários das decisões, no mesmo dia
 
-da realização da assembleia, pelo Sistema Empresas.NET, categoria “Assembleia”, tipos “AGE”, “AGESP”
+da realização da assembleia, pelo Sistema Empresas.NET, categoria “Assembleia”, tipos “AGE”
 
-ou “AGDEB”, espécie “Sumário das Decisões ”, bem como as atas das assembleias, em até 7 (sete) dias
+“AGESP”
 
-úteis de sua realização, pelo Sistema Empresas.NET, categoria “Assembleia”, tipos “AGE”, “AGESP” ou
+,
 
-“AGDEB”, espécie “Ata”.
+ou “AGDEB”, espécie “Sumário das Decisões”, bem como as atas das assembleias, em até 7 (sete) dias
+
+úteis de sua realização, pelo Sistema Empresas.NET, categoria “Assembleia”, tipos “AGE”
+
+“AGESP” ou
+
+,
+
+“AGDEB”, espécie “Ata”
+
+.
 
 Nesse sentido, cabe observar que o sumário das decisões tomadas na assembleia (prevista no inciso III
 
@@ -7796,17 +7918,17 @@ geral de debenturistas deverão ser postos à disposição, na sede da companhia
 
 de convocação da assembleia geral. O envio dos documentos e informações necessárias ao exercício do direito de voto deverá
 
-se dar por me io do “IPE Online” no Sistema Empresas.NET, categoria “Assembleia”, tipo “AGDEB”, espécie “Proposta da
+se dar por meio do “IPE Online” no Sistema Empresas.NET, categoria “Assembleia”, tipo “AGDEB”, espécie “Proposta da
 
 Administração”.
+
+98
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-99
 
 Destaca-se que a Resolução CVM nº 80/22 dispensa a entrega do sumário das decisões ao emissor que
 
@@ -7818,7 +7940,7 @@ emissor encaminhe a ata da assembleia geral completa, no mesmo dia da realizaç�
 
 Nesse sentido, destaca-se que, nos termos do inciso IV do artigo 33 (companhias registradas na categoria
 
-A) e do inciso IV do artigo 3 4 (companhias registradas na categoria B) da Resolução CVM nº 80/22, a ata
+A) e do inciso IV do artigo 34 (companhias registradas na categoria B) da Resolução CVM nº 80/22, a ata
 
 da AGE, da AGESP ou da AGDEB deve ser acompanhada, no mesmo arquivo, das eventuais declarações de
 
@@ -7826,7 +7948,7 @@ voto, dissidência ou protesto. Além disso, a ata deve conter todos os document
 
 relacionados às deliberações da assembleia, tais como contratos.
 
-Sempre que possível, as atas de AGE , AGESP e AGDEB arquivadas na CVM devem conter também a lista
+Sempre que possível, as atas de AGE, AGESP e AGDEB arquivadas na CVM devem conter também a lista
 
 de presença e o quórum exato de instalação.
 
@@ -7834,7 +7956,9 @@ Recomenda-se também que a ata contenha, ao menos, a indicação dos acionistas 
 
 elegeram membros para o conselho de administração e conselho fiscal.
 
-Com relação à permissão constante do artigo 130, parágrafo 2º, da Lei nº 6.404/76, entende-se que ela
+Com relação à permissão constante do artigo 130, parágrafo 2º
+
+, da Lei nº 6.404/76, entende-se que ela
 
 se enquadra como um ato administrativo relacionado aos trabalhos iniciais em uma assembleia e não uma
 
@@ -7842,9 +7966,11 @@ deliberação sobre a condução dos negócios da companhia, não sendo, portant
 
 uma deliberação sobre o assunto no boletim de voto a distância. Assim, entende-se que, da mesma forma
 
-como disposta no artigo 128 da Lei nº 6 .404/76, os acionistas presentes podem deliberar sobre a
+como disposta no artigo 128 da Lei nº 6.404/76, os acionistas presentes podem deliberar sobre a
 
-permissão constante do artigo 130, parágrafo 2º, da Lei nº 6.404/76.
+permissão constante do artigo 130, parágrafo 2º
+
+, da Lei nº 6.404/76.
 
 4.3 Projeções
 
@@ -7858,7 +7984,7 @@ de projeções divulgadas pela companhia é um exemplo de fato relevante. Da mes
 
 divulgação inicial de projeções ou a divulgação de projeções referentes a períodos diferentes dos de
 
-projeções anteriormente divulgadas também são co nsiderados fatos relevantes, sendo, portanto,
+projeções anteriormente divulgadas também são considerados fatos relevantes, sendo, portanto,
 
 aplicáveis as determinações da Resolução CVM nº 44/21.
 
@@ -7866,7 +7992,7 @@ Caso a companhia decida divulgar projeções, estas devem ser embasadas em expec
 
 baseadas em julgamentos neutros, úteis para o investidor. Nesse sentido, projeções devem ter valores
 
-(ou intervalos de valores) e prazos bem definidos. A título exempl ificativo, mas não exaustivo, algumas
+(ou intervalos de valores) e prazos bem definidos. A título exemplificativo, mas não exaustivo, algumas
 
 expectativas que, se divulgadas, em geral constituem projeções são: receitas, lucros, EBITDA, volumes de
 
@@ -7876,13 +8002,13 @@ com que tais informações configurem efetivas estimativas ou projeções, em ve
 
 tendências.
 
+99
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-100
 
 A ausência de algum elemento em declarações ou divulgações (como, por exemplo, premissas relevantes,
 
@@ -7912,7 +8038,7 @@ na seção 3 do formulário de referência, do de tendência. A tendência não 
 
 não ser quantificada.
 
-A Resolução CVM nº 80/ 22, em seu artigo 2 1, prevê que a divulgação de projeções e estimativas é
+A Resolução CVM nº 80/22, em seu artigo 21, prevê que a divulgação de projeções e estimativas é
 
 facultativa e determina que, quando o emissor decidir por divulgá-las, elas deverão ser:
 
@@ -7930,7 +8056,7 @@ de referência, que realizou alterações nas premissas relevantes, parâmetros 
 
 projeções e estimativas anteriormente divulgadas (parágrafo 3º).
 
-Como determina o parágrafo 2º do artigo 2 1 da Resolução CVM nº 80/ 22, as projeções e estimativas
+Como determina o parágrafo 2º do artigo 21 da Resolução CVM nº 80/22, as projeções e estimativas
 
 deverão ser revisadas periodicamente, em intervalo de tempo adequado ao objeto da projeção, que, em
 
@@ -7942,7 +8068,7 @@ das projeções empresariais” dos formulários DFP e ITR (vide itens 3.3.3 e 3
 
 no formulário de referência com os resultados efetivamente obtidos no trimestre, indicando as razões
 
-para eventuais diferenças (parágrafo 4º do artigo 2 1 da Resolução CVM nº 80/ 22). Além disso, o
+para eventuais diferenças (parágrafo 4º do artigo 21 da Resolução CVM nº 80/22). Além disso, o
 
 formulário de referência (Item 3. Projeções) deve ser atualizado em até 7 (sete) dias úteis contados da
 
@@ -7958,13 +8084,13 @@ indicadas (parágrafo 5º do artigo 21 da Resolução CVM nº 80/22), não sendo
 
 genéricos como “Relatórios de analistas de mercado”.
 
+100
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-101
 
 Caso a companhia faça uso de medições não contábeis, como, por exemplo, o LAJIDA – Lucro Antes de
 
@@ -7976,7 +8102,7 @@ Resolução CVM nº 156/22.
 
 Salienta-se que, se as projeções divulgadas forem descontinuadas, esse fato deverá ser informado no
 
-campo próprio do formulário de referência , acompanhado dos motivos que levaram à sua perda de
+campo próprio do formulário de referência, acompanhado dos motivos que levaram à sua perda de
 
 validade, bem como divulgado na forma de fato relevante.
 
@@ -7996,13 +8122,15 @@ b) Informações sobre acordos de acionistas dos quais o controlador ou controla
 
 controlador sejam parte, a respeito do exercício de direito de voto no emissor ou da
 
-transferência dos valores mobiliários do emissor, contendo, no mínimo, data d e assinatura,
+transferência dos valores mobiliários do emissor, contendo, no mínimo, data de assinatura,
 
 prazo de vigência, partes e descrição das disposições relativas ao emissor, em até 7 (sete) dias
 
 úteis contados da ciência, pelo emissor, de sua existência, na categoria “Informações sobre
 
-acordo de acionistas previstos no artigo 33, inciso XVIII, da Resolução CVM nº 80/22”.
+acordo de acionistas previstos no artigo 33, inciso XVIII, da Resolução CVM nº 80/22”
+
+.
 
 A alteração de suas cláusulas, sua extinção em função de termo ou condição resolutiva, ou a celebração
 
@@ -8010,7 +8138,7 @@ de novo acordo de acionistas implica sua atualização junto à CVM.
 
 Acordos de acionistas que perderem a validade devem ser cancelados por meio da funcionalidade
 
-“Cancelamento de documentos ” do Sistema Empresas.NET, informando no campo “Motivo do
+“Cancelamento de documentos” do Sistema Empresas.NET, informando no campo “Motivo do
 
 cancelamento” que o referido acordo de acionistas perdeu sua validade. O documento, mesmo cancelado,
 
@@ -8020,7 +8148,7 @@ de documento cancelado e constará o motivo de seu cancelamento.
 
 4.5 Convenção de grupo de sociedades
 
-De acordo com o inciso IX do artigo 3 3 da Resolução CVM nº 80/ 22, a sociedade controladora e suas
+De acordo com o inciso IX do artigo 33 da Resolução CVM nº 80/22, a sociedade controladora e suas
 
 controladas que constituírem, na forma do artigo 265 da Lei nº 6.404/76, grupos de sociedades, se
 
@@ -8028,23 +8156,25 @@ obrigando a combinar recursos ou esforços para a realização dos respectivos o
 
 atividades ou empreendimentos em comum, se encontram obrigadas a enviar cópia da convenção à CVM
 
-pelo Sistema Empresas.NET, categoria “Convenção de Grupo de Sociedades ”, no prazo de até 7 (sete)
+pelo Sistema Empresas.NET, categoria “Convenção de Grupo de Sociedades”, no prazo de até 7 (sete)
 
 dias úteis contados de sua assinatura.
 
 A Lei nº 6.404/76, ao dispor sobre Grupos de Sociedades nos artigos 265 a 277 (Capítulo XXI), estipula, no
 
-parágrafo único do artigo 267 , que somente os grupos organizados de acordo com o citado capítulo
+parágrafo único do artigo 267, que somente os grupos organizados de acordo com o citado capítulo
 
-podem usar designação com as palavras “grupo” ou “grupo de sociedades”.
+podem usar designação com as palavras “grupo” ou “grupo de sociedades”
+
+.
+
+101
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-102
 
 4.6 Pedidos e sentenças de falência
 
@@ -8060,7 +8190,7 @@ a) pedido de falência, desde que fundado em valor relevante, pela categoria “
 
 b) sentença denegatória ou concessiva do pedido de falência, pela categoria “Sentença de
 
-Falência”, assuntos “Sentença denegatória do pedido de falência ” ou “Sentença concessiva do
+Falência”, assuntos “Sentença denegatória do pedido de falência” ou “Sentença concessiva do
 
 pedido de falência”, conforme o caso.
 
@@ -8078,7 +8208,7 @@ Sem prejuízo da divulgação de fato relevante acerca do requerimento ou decret
 
 judicial ou extrajudicial, nos termos do artigo 2º da Resolução CVM nº 44/21, os emissores deverão
 
-apresentar à CVM pelo Sistema Empresas.NET, os seguintes documentos previstos no artigo 3 3, incisos
+apresentar à CVM pelo Sistema Empresas.NET, os seguintes documentos previstos no artigo 33, incisos
 
 XX a XXIV, e no artigo 34, incisos XI a XV, da Resolução CVM nº 80/22, nos prazos assinalados:
 
@@ -8096,7 +8226,9 @@ c) sentença denegatória ou concessiva do pedido de recuperação judicial, com
 
 último caso, do administrador judicial nomeado pelo juiz, no mesmo dia de sua ciência pelo
 
-emissor, na categoria “Informações de Companhias em Recuperação Judicial ou Extrajudicial ”,
+emissor, na categoria “Informações de Companhias em Recuperação Judicial ou Extrajudicial”
+
+,
 
 tipo “Sentenças”;
 
@@ -8112,7 +8244,11 @@ e) sentença denegatória ou concessiva da homologação do plano de recuperaç�
 
 mesmo dia de sua ciência pelo emissor, na categoria “Informações de Companhias em
 
-Recuperação Judicial ou Extrajudicial”, tipo “Sentenças”.
+Recuperação Judicial ou Extrajudicial”, tipo “Sentenças”
+
+.
+
+102
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -8120,13 +8256,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-103
-
 Alerta-se que a decretação de recuperação judicial e a homologação judicial de recuperação extrajudicial
 
 são hipóteses de atualização do formulário de referência, nos termos dos parágrafos 3º e 4º do artigo 25
 
-da Resolução CVM nº 80/22 (vide item 3.3.2.2), bem como enseja m a apresentação de nova versão do
+da Resolução CVM nº 80/22 (vide item 3.3.2.2), bem como ensejam a apresentação de nova versão do
 
 formulário cadastral, nos termos do artigo 24 da Resolução CVM nº 80/22.
 
@@ -8154,7 +8288,7 @@ com funções técnicas e consultivas criados por disposição estatutária;
 
 b) pela própria companhia, por suas controladas e coligadas.
 
-No caso das pessoas naturais acima referidas, c onforme previsto no artigo 11, caput e parágrafo 4º, da
+No caso das pessoas naturais acima referidas, conforme previsto no artigo 11, caput e parágrafo 4º, da
 
 Resolução CVM nº 44/21, a comunicação deve ser feita à companhia aberta (por meio do DRI), indicando
 
@@ -8176,7 +8310,7 @@ indicarão, ainda, os valores mobiliários que sejam de propriedade de cônjuge 
 
 separados judicialmente ou extrajudicialmente, de companheiro(a), de qualquer dependente incluído em
 
-sua declaração anual de imposto sobre a renda, e de sociedades controladas direta ou indiretamente ,
+sua declaração anual de imposto sobre a renda, e de sociedades controladas direta ou indiretamente,
 
 incluindo o nome, qualificação e CPF ou CNPJ das citadas pessoas, nos termos do parágrafo 3º do referido
 
@@ -8188,13 +8322,13 @@ Resolução CVM nº 44/21 abrange todos os membros dos órgãos citados naquele 
 
 suplentes).
 
+103
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-104
 
 Cabe enfatizar, especialmente no que diz respeito às negociações efetuadas pelas pessoas naturais
 
@@ -8216,7 +8350,7 @@ outros valores mobiliários referenciados nos valores mobiliários de emissão d
 
 forem companhias abertas, suas controladoras e controladas. Instrumentos financeiros como ADRs estão
 
-abrangidos pelo artigo 11 da Resolução CVM nº 44/21 e, portanto, devem ser informados , bem como
+abrangidos pelo artigo 11 da Resolução CVM nº 44/21 e, portanto, devem ser informados, bem como
 
 cotas de fundos que apliquem em ações de companhias abertas.
 
@@ -8228,7 +8362,7 @@ do citado artigo, mensalmente à CVM, até 10 (dez) dias após o término de cad
 
 alterações das posições detidas ou do mês em que ocorrer a investidura no cargo das pessoas citadas.
 
-Nesse sentido, nos meses em que o dia 10 coincidir com fins de semana ou feriado s, as informações
+Nesse sentido, nos meses em que o dia 10 coincidir com fins de semana ou feriados, as informações
 
 poderão ser apresentadas no dia útil seguinte.
 
@@ -8238,9 +8372,9 @@ Sistema Empresas.NET.
 
 Com relação à funcionalidade descrita acima, uma vez finalizado o preenchimento do formulário
 
-individual de cada diretor, membro do conselho de administração , do conselho fiscal e de quaisquer
+individual de cada diretor, membro do conselho de administração, do conselho fiscal e de quaisquer
 
-órgãos com funções técnicas ou consultivas criados por disposição estatutária , será gerado,
+órgãos com funções técnicas ou consultivas criados por disposição estatutária, será gerado,
 
 automaticamente, o formulário consolidado. Da mesma forma, ao se enviar o formulário individual, o
 
@@ -8256,13 +8390,13 @@ ligadas. As informações inseridas nos formulários eletrônicos estruturados f
 
 deles contendo dados das posições individuais detidas por cada administrador ou pessoa ligada. Outro
 
-contendo a posição consolidada dos membros de cada órgão ( diretoria, conselho de administração ,
+contendo a posição consolidada dos membros de cada órgão (diretoria, conselho de administração,
 
 conselho fiscal e órgãos técnicos ou consultivos). O terceiro arquivo conterá dados de posições individuais
 
 da própria companhia, de suas controladas e de suas coligadas.
 
-Ficarão disponíveis ao público externo , por meio de consulta ao site da CVM e da B3, no caso das
+Ficarão disponíveis ao público externo, por meio de consulta ao site da CVM e da B3, no caso das
 
 companhias lá listadas: (i) as posições consolidadas dos administradores; e (ii) as posições individuais da
 
@@ -8272,13 +8406,13 @@ No campo “Dia da movimentação” de cada formulário, deve ser informada a d
 
 ou venda (e não a data da liquidação física ou financeira da operação).
 
+104
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-105
 
 Caso tenha havido mais de uma operação de compra ou mais de uma operação de venda no mesmo dia,
 
@@ -8310,11 +8444,13 @@ Mobiliários Negociados e Detidos), no que se refere a operações (contrataçã
 
 de ações, recomenda-se que a companhia utilize o preço de referência do contrato, definido nos modelos
 
-de contrato de empréstimo de ativos da B3 (aba “Descrição Técnica”) como “o preço médio do ativo -
+de contrato de empréstimo de ativos da B3 (aba “Descrição Técnica”) como “o preço médio do ativo-
 
 objeto do empréstimo na sessão de negociação anterior à data de negociação ou renovação do contrato,
 
-ou o último preço médio disponível”.
+ou o último preço médio disponível”
+
+.
 
 Dessa forma, o valor financeiro da operação será o resultado da multiplicação da quantidade de ações
 
@@ -8332,7 +8468,7 @@ relevante com ações representativas do capital social de companhia aberta, se 
 
 imediatamente após a operação, comunicar à companhia a alteração em sua participação.
 
-De acordo com o mesmo dispositivo, considera -se negociação relevante o negócio ou o conjunto de
+De acordo com o mesmo dispositivo, considera-se negociação relevante o negócio ou o conjunto de
 
 negócios por meio do qual a participação das pessoas acima referidas ultrapassa, para cima ou para baixo,
 
@@ -8348,11 +8484,13 @@ devem ser considerados para fins da divulgação em questão, observadas as regr
 
 adiante.
 
-Ressalta-se também que, nos termos do artigo 2 1 da Resolução nº 44/21, a obrigação de comunicação
+Ressalta-se também que, nos termos do artigo 21 da Resolução nº 44/21, a obrigação de comunicação
 
 aqui comentada aplica-se às negociações realizadas:
 
 a) dentro ou fora de ambientes de mercado regulamentado de valores mobiliários;
+
+105
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -8360,15 +8498,13 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-106
-
 b) direta ou indiretamente, seja por meio de sociedades controladas ou de terceiros com quem
 
 seja mantido contrato de fidúcia ou administração de carteira; e por conta própria ou de
 
 terceiros.
 
-Alerta-se, ainda, que não são consideradas negociações indiretas , ou por conta de terceiros , aquelas
+Alerta-se, ainda, que não são consideradas negociações indiretas, ou por conta de terceiros, aquelas
 
 realizadas por fundos de investimento de que sejam cotistas as pessoas mencionadas no artigo 12, desde
 
@@ -8378,7 +8514,7 @@ que as decisões de negociação não possam ser influenciadas pelos cotistas, c
 
 Importante destacar que se presume, admitida prova em contrário, que as decisões de negociação do
 
-administrador e do gestor de fundo exclusivo são influenciadas pelo cotista do fundo , conforme consta
+administrador e do gestor de fundo exclusivo são influenciadas pelo cotista do fundo, conforme consta
 
 no artigo 21, parágrafo 2º, da Resolução CVM nº 44/21.
 
@@ -8386,7 +8522,7 @@ A presunção acima não se aplica aos fundos de investimento exclusivos cujos c
 
 ou entidades abertas de previdência complementar e que tenham por objetivo a aplicação de recursos de
 
-plano gerador de benefício livre (PGBL) e de vida ger ador de benefícios livres (VGBL), durante o período
+plano gerador de benefício livre (PGBL) e de vida gerador de benefícios livres (VGBL), durante o período
 
 de diferimento (artigo 21, parágrafo 3º, da Resolução CVM nº 44/21).
 
@@ -8394,7 +8530,7 @@ de diferimento (artigo 21, parágrafo 3º, da Resolução CVM nº 44/21).
 
 Nos termos do artigo 12 da Resolução CVM nº 44/21, a obrigação de enviar comunicado à companhia
 
-aberta, reportando a operação , cabe ao investidor que alcança os múltiplos inteiros de 5%. (vide itens
+aberta, reportando a operação, cabe ao investidor que alcança os múltiplos inteiros de 5%. (vide itens
 
 4.9.6 e 4.9.7).
 
@@ -8404,11 +8540,11 @@ individual como também por grupo de pessoas, agindo em conjunto ou representand
 
 interesse.
 
-De acordo com o artigo 2 1 da Resolução CVM nº 44/21, a referida obrigação de informar se estende a
+De acordo com o artigo 21 da Resolução CVM nº 44/21, a referida obrigação de informar se estende a
 
 negociações realizadas indiretamente por intermédio de “sociedades controladas ou terceiros com quem
 
-for mantido contrato de fidúcia ou administração de carteira ”, ressalvadas, nos termos do parágrafo 1º
+for mantido contrato de fidúcia ou administração de carteira”, ressalvadas, nos termos do parágrafo 1º
 
 do dispositivo, as negociações realizadas por fundos sob gestão discricionária.
 
@@ -8416,7 +8552,7 @@ do dispositivo, as negociações realizadas por fundos sob gestão discricionár
 
 4.9.2.1 Ações
 
-Como indica a leitura da íntegra do artigo 12 da Resolução CVM nº 44/21 , o foco da obrigação de
+Como indica a leitura da íntegra do artigo 12 da Resolução CVM nº 44/21, o foco da obrigação de
 
 divulgação são as participações acionárias direta e indiretamente detidas no capital social da companhia
 
@@ -8430,13 +8566,13 @@ A obrigação de divulgação associada à realização de negociações relevan
 
 financeiros derivativos e outros valores mobiliários referenciados em ações.
 
+106
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-107
 
 Desse modo, são alcançados por este dispositivo negociações envolvendo, por exemplo, opções de
 
@@ -8456,11 +8592,11 @@ Presidente da CVM, João Pedro Nascimento, no âmbito do Processo Administrativo
 
 abaixo transcrito:
 
-73. Além disso, percebeu -se um outro efeito decorrente de tais operações com derivativos financeiros. A
+73. Além disso, percebeu-se um outro efeito decorrente de tais operações com derivativos financeiros. A
 
 celebração de instrumentos derivativos, ainda que de liquidação exclusivamente financeira, acaba
 
-frequentemente produzindo resultados análogos à aquisiç ão de ações por parte do investidor, uma vez que
+frequentemente produzindo resultados análogos à aquisição de ações por parte do investidor, uma vez que
 
 a sua contraparte tende a adquirir ou tomar emprestadas as ações para fins de proteção patrimonial.
 
@@ -8474,7 +8610,7 @@ majoritário isolado).
 
 75. O receio é que operações com derivativos não divulgadas ao mercado possam produzir, em determinadas
 
-circunstâncias, relevante impacto na liquidez e na dispersão dos valores mobiliários da companhia -alvo.
+circunstâncias, relevante impacto na liquidez e na dispersão dos valores mobiliários da companhia-alvo.
 
 76. Note-se, ainda, que a aquisição de participação relevante envolvendo a utilização de instrumentos de
 
@@ -8512,11 +8648,13 @@ Para os fins da norma, retorno deve ser interpretado como o “peso” da ação
 
 representa 25% do peso de determinado índice que sirva de referência para o fundo investido, essa ação
 
-é considerada participação indireta para fins de div ulgação. Raciocínio análogo se aplica a COE e outros
+é considerada participação indireta para fins de divulgação. Raciocínio análogo se aplica a COE e outros
 
 derivativos.
 
 21 Vide https://conteudo.cvm.gov.br/export/sites/cvm/sancionadores/sancionador/anexos/2023/SEI_19957009010_2021_72.pdf.
+
+107
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -8524,13 +8662,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-108
-
 Existem situações, porém, em que o “peso” não é conhecido de antemão, como, por exemplo, em
 
 situações de COE que asseguram no seu vencimento melhor rendimento dentre ‘n’ ações. A norma não
 
-se aplica a situações como esta, a princípio, sem prejuízo da possi bilidade de atuação da CVM caso
+se aplica a situações como esta, a princípio, sem prejuízo da possibilidade de atuação da CVM caso
 
 verifique em determinado caso concreto que a operação tenha sido estruturada com a finalidade de
 
@@ -8562,7 +8698,7 @@ medida em que são títulos representativos de ações de companhias abertas bra
 
 Esclarece-se que os Brazilian depositary receipts – BDR também devem ser considerados para fins da
 
-divulgação prevista no artigo de que se trata, tendo em vista o disposto no artigo 2 2 da Resolução CVM
+divulgação prevista no artigo de que se trata, tendo em vista o disposto no artigo 22 da Resolução CVM
 
 nº 44/21, que impõe às empresas patrocinadoras de programas de BDR níveis II e III as regras da referida
 
@@ -8578,7 +8714,7 @@ Ressalta-se que, no caso dos valores mobiliários mencionados nos parágrafos an
 
 movimentações e alienações passíveis de reporte em comunicado ao mercado são aquelas que
 
-correspondam a 5% , 10%, 15% e assim sucessivamente da classe ou espécie de ação do emissor
+correspondam a 5%, 10%, 15% e assim sucessivamente da classe ou espécie de ação do emissor
 
 representada por meio desses títulos.
 
@@ -8596,13 +8732,13 @@ Do mesmo modo, as ações objeto de empréstimo devem ser consideradas no cálcu
 
 redução de participação para fins do disposto no caput e nos parágrafos 1º e 4º do mesmo artigo.
 
+108
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-109
 
 Nesse sentido, as declarações a que se refere o artigo 12 da Resolução CVM nº 44/21 devem discriminar
 
@@ -8630,7 +8766,11 @@ influenciadas pelo investidor;
 
 d) pessoa com quem o investidor mantenha contrato de fidúcia.
 
-Nos exemplos “b”, “c” e “d”, de acordo com as regras mencionadas neste Ofício Circular (vide item 4.9.1),
+Nos exemplos “b”
+
+,
+
+“c” e “d”, de acordo com as regras mencionadas neste Ofício Circular (vide item 4.9.1),
 
 é o investidor quem deve proceder à divulgação da declaração prevista no artigo 12 da Resolução CVM nº
 
@@ -8666,7 +8806,7 @@ somatório dessas participações atinja 5% ou mais das ações ordinárias ou p
 
 aberta.
 
-Como já comentado, note -se que não são consideradas negociações indiretas aquelas realizadas por
+Como já comentado, note-se que não são consideradas negociações indiretas aquelas realizadas por
 
 fundos de investimento de que sejam cotistas as pessoas mencionadas no artigo 12, desde que tais fundos
 
@@ -8674,13 +8814,13 @@ não sejam exclusivos, nem as decisões de negociação do administrador possam 
 
 cotistas.
 
+109
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-110
 
 4.9.3 Cálculo do aumento ou redução de participação
 
@@ -8746,7 +8886,7 @@ h) se uma ação tem peso superior a 20% na determinação do retorno de determi
 
 financeiro derivativo, COE ou fundo de investimento em índice de mercado, esta ação deve ser
 
-agregada a outras posições eventualmente detidas nessa ação pelo investid or, ponderando-se
+agregada a outras posições eventualmente detidas nessa ação pelo investidor, ponderando-se
 
 o valor nocional do instrumento em questão pelo respectivo peso da ação; e
 
@@ -8756,19 +8896,19 @@ associados a debêntures conversíveis ou bônus de subscrição não devem ser 
 
 posições já detidas pelo investidor.
 
+110
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-111
-
 Para ilustrar a incidência de algumas das situações mencionadas, suponha-se que uma companhia possua
 
 seu capital representado por 200 ações, sendo 100 ações ordinárias e 100 ações preferenciais de uma
 
-única classe. Suponha -se, ainda, que o investidor reali ze uma série de negócios com ações de emissão
+única classe. Suponha-se, ainda, que o investidor realize uma série de negócios com ações de emissão
 
 dessa companhia e de derivativos referenciados em tais ações, conforme descrito a seguir.
 
@@ -8792,7 +8932,9 @@ Em momento posterior, o investidor adquire opção de venda de 6 ações prefere
 
 forma de liquidação desse contrato e do fato de ele representar 6% do total dessa espécie de ações,
 
-nenhuma divulgação é necessária e essa posição “vendida” é desconsiderada no cálculo22.
+nenhuma divulgação é necessária e essa posição “vendida” é desconsiderada no cálculo22
+
+.
 
 Por fim, o investidor adquire opção de compra de 2 ações preferenciais, com liquidação física. As ações
 
@@ -8834,13 +8976,15 @@ como gratuita (doação).
 
 respeito a posições intragrupo em derivativos.
 
+111
+
+a) vínculo em razão de parentesco, contrato ou acordo de acionistas que disponha sobre direito de
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-112
 
 4.9.4 Grupo de pessoas agindo em conjunto ou representando o mesmo
 
@@ -8850,13 +8994,11 @@ A obrigação de comunicação da variação de participação acionária releva
 
 investidores individuais, como também o grupo de pessoas agindo em conjunto ou representando um
 
-mesmo interesse. Com o objetivo de facilitar o entendimento ace rca do conceito abrangido pela
+mesmo interesse. Com o objetivo de facilitar o entendimento acerca do conceito abrangido pela
 
-expressão “representando um mesmo interesse ”, seguem hipóteses exemplificativas de ligação entre
+expressão “representando um mesmo interesse”, seguem hipóteses exemplificativas de ligação entre
 
 acionistas:
-
-a) vínculo em razão de parentesco, contrato ou acordo de acionistas que disponha sobre direito de
 
 voto;
 
@@ -8870,11 +9012,11 @@ e) hipóteses em que haja gestão discricionária comum de recursos.
 
 Considerando o conceito de participação indireta (vide item 4.9.2) e ressalvado o disposto abaixo a
 
-respeito de investidores sob gestão discricionária comum , caso a participação acionária relevante tenha
+respeito de investidores sob gestão discricionária comum, caso a participação acionária relevante tenha
 
 sido alcançada por um conjunto de investidores agindo em conjunto ou representando o mesmo
 
-interesse, a Declaração deve discriminá -los, um a um, com indicação das respectivas participações,
+interesse, a Declaração deve discriminá-los, um a um, com indicação das respectivas participações,
 
 mesmo se nenhum desses investidores detiver ou movimentar o percentual de 5% (cinco por cento)
 
@@ -8900,7 +9042,9 @@ acionária total detida, em conjunto, pelos fundos e carteiras sob sua gestão. 
 
 os fundos ou carteiras e as respectivas participações acionárias, conforme decisão do Colegiado da CVM,
 
-em reunião extraordinária realizada em 11.03.2011 (Processo CVM nº RJ2011/2324)23.
+em reunião extraordinária realizada em 11.03.2011 (Processo CVM nº RJ2011/2324)23
+
+.
 
 Vale esclarecer que, nos termos da mesma decisão, no caso de uma participação relevante ser atingida
 
@@ -8912,13 +9056,13 @@ gestão, não sendo obrigatório revelar o fundo detentor da participação rele
 
 23 Vide http://conteudo.cvm.gov.br/decisoes/2011/20110311_R1/20110311_D01.html.
 
+112
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-113
 
 Destacam-se situações em que duas ou mais sociedades de um mesmo grupo econômico negociam entre
 
@@ -8926,7 +9070,7 @@ si, sobretudo por meio de contratos derivativos referenciados nas ações em que
 
 da exposição econômica relativa a uma determinada ação.
 
-Conforme já esclarecido pelo Colegiado da C VM em decisão precedente (e.g. d ecisão no Processo CVM
+Conforme já esclarecido pelo Colegiado da CVM em decisão precedente (e.g. decisão no Processo CVM
 
 nº RJ2009/136524), a finalidade da Resolução CVM nº 44/21, ao exigir a divulgação da negociação de
 
@@ -8936,13 +9080,13 @@ patrimoniais e políticos entre acionistas, bem como na dispersão e liquidez da
 
 caso de operações de derivativos realizadas entre empresas do mesmo grupo, o acúmulo de informações
 
-originado pela divulgação de cada uma dessas operações (por exemplo , em cenários em que o risco de
+originado pela divulgação de cada uma dessas operações (por exemplo, em cenários em que o risco de
 
 uma operação contratada por sociedade do mesmo grupo seja transferido a outra(s) sociedade(s) do
 
 mesmo grupo) poderia impactar a qualidade da informação prestada ao mercado. Neste sentido, e em
 
-casos em que possa ser consider ado que as sociedades do grupo estejam “agindo em conjunto ou
+casos em que possa ser considerado que as sociedades do grupo estejam “agindo em conjunto ou
 
 representando um mesmo interesse”, nos termos do artigo 12 da Resolução, as operações de derivativos
 
@@ -8952,7 +9096,7 @@ entre pessoas do mesmo grupo devem ser desconsideradas na divulgação de partic
 
 Por força do artigo 22 da Resolução CVM nº 21/21, o administrador de carteira de valores mobiliários
 
-deve garantir, por meio de controle s internos adequados, o permanente atendimento às normas e
+deve garantir, por meio de controles internos adequados, o permanente atendimento às normas e
 
 regulamentações vigentes, referentes às diversas alternativas e modalidades de investimento, à própria
 
@@ -8968,7 +9112,7 @@ com fulcro no artigo 22 da Resolução CVM nº 21/21, quando: (i) representar um
 
 clientes, sendo responsável direto e exclusivo pela operação; (ii) tiver ciência inequívoca acerca da efetiva
 
-possibilidade de estar atingindo participação acionária relevante; e (iii) puder exercer de fo rma
+possibilidade de estar atingindo participação acionária relevante; e (iii) puder exercer de forma
 
 discricionária o direito político de ações de uma companhia adquiridas para seus clientes.
 
@@ -8992,17 +9136,17 @@ do dia seguinte ao atingimento.
 
 24 Vide http://conteudo.cvm.gov.br/sancionadores/sancionador/2010/20100713_RJ20091365.html.
 
+113
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-114
-
 A exceção para a regra acima se dá nos casos em que a negociação tenha sido feita com propósito de
 
-alterar a estrutura de controle ou administrativa da companhia. Nesse s casos, deve-se seguir o mesmo
+alterar a estrutura de controle ou administrativa da companhia. Nesses casos, deve-se seguir o mesmo
 
 regime da divulgação de fatos relevantes, conforme disposto no artigo 3º da Resolução CVM nº 44/21.
 
@@ -9032,15 +9176,15 @@ Apenas nos casos em que a aquisição resulte ou que tenha sido efetuada com o o
 
 composição do controle ou a estrutura administrativa da sociedade, bem como nos casos em que a
 
-aquisição gere a obrigação de realização de oferta pública, no s termos da Resolução CVM nº 85/22, o
+aquisição gere a obrigação de realização de oferta pública, nos termos da Resolução CVM nº 85/22, o
 
 adquirente, além de enviar à companhia a declaração acima mencionada, deverá promover a sua
 
-divulgação pela imprensa ou em portal de notícias presente na internet, nos termos do artigo 3º ,
+divulgação pela imprensa ou em portal de notícias presente na internet, nos termos do artigo 3º,
 
 parágrafo 4º, da Resolução CVM nº 44/21.
 
-As “Declarações de Aquisição de Participação Acionária Relevante ”, bem como as “Declarações de
+As “Declarações de Aquisição de Participação Acionária Relevante”, bem como as “Declarações de
 
 Alienação de Participação Acionária Relevante” deverão ser encaminhadas ao DRI da companhia aberta.
 
@@ -9076,13 +9220,13 @@ a realidade apurada pela companhia, deverá incluir sua ressalva ao retransmitir
 
 qual a participação acionária que a companhia acredita ser a correta.
 
+114
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-115
 
 4.9.7 Conteúdo da declaração de aumento e redução de participação
 
@@ -9102,7 +9246,7 @@ administrativa da sociedade;
 
 c) número de ações e de outros valores mobiliários e instrumentos financeiros derivativos
 
-referenciados em tais ações , explicitando a quantidade , a classe e a espécie de ações
+referenciados em tais ações, explicitando a quantidade, a classe e a espécie de ações
 
 referenciadas;
 
@@ -9126,7 +9270,7 @@ Na comunicação deve constar, ainda, a identificação dos veículos que levara
 
 item 4.9.2.5).
 
-No que se refere ao objetivo da participação previsto n o item 4.9.2.2 acima, se for o caso, o adquirente
+No que se refere ao objetivo da participação previsto no item 4.9.2.2 acima, se for o caso, o adquirente
 
 deve informar tratar-se de operação realizada com o objetivo de proteção (hedge) de obrigações por ele
 
@@ -9134,7 +9278,7 @@ assumidas em contratos de derivativos.
 
 4.9.8 Divulgação da declaração por investidor não residente
 
-Nos termos dos artigos 12 e 2 2 da Resolução CVM nº 44/21, compete, em regra, ao acionista,
+Nos termos dos artigos 12 e 22 da Resolução CVM nº 44/21, compete, em regra, ao acionista,
 
 independentemente de seu domicílio, a divulgação da declaração de aquisição ou alienação de
 
@@ -9142,7 +9286,9 @@ participação acionária relevante, por meio do encaminhamento da informação 
 
 No caso do investidor não residente, compete ao seu representante legal, nos termos do inciso III, do
 
-artigo 3º do Regulamento A nexo I à Resolução CMN nº 4.373/14 , “comunicar imediatamente ao Banco
+artigo 3º do Regulamento Anexo I à Resolução CMN nº 4.373/14,
+
+“comunicar imediatamente ao Banco
 
 Central do Brasil e à CVM, observadas as respectivas competências, a extinção do contrato de
 
@@ -9156,13 +9302,13 @@ responsabilizado administrativamente, com base no parágrafo único do artigo 3�
 
 I à Resolução CMN nº 4.373/14.
 
+115
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-116
 
 4.10 Política de negociação
 
@@ -9170,7 +9316,7 @@ A formulação de política de negociação de valores mobiliários, prevista no
 
 44/21, é de iniciativa do emissor e de caráter facultativo. Entretanto, recomenda-se a elaboração de tal
 
-política, uma vez que ela é muito útil para que os emissores estabeleçam norma s de conduta adicionais
+política, uma vez que ela é muito útil para que os emissores estabeleçam normas de conduta adicionais
 
 às previstas na Lei nº 6.404/76 e na Resolução CVM nº 44/21, para as transações envolvendo,
 
@@ -9194,7 +9340,7 @@ deverá ser autorizada na política de negociação, nos termos do parágrafo 4�
 
 CVM nº 44/21.
 
-Os emissores registrados na categoria A que possuírem essa política devem encaminhá -la pelo Sistema
+Os emissores registrados na categoria A que possuírem essa política devem encaminhá-la pelo Sistema
 
 Empresas.NET, categoria “Política de Negociação das ações da companhia”, conforme previsto no artigo
 
@@ -9208,7 +9354,9 @@ Caso o emissor opte por elaborar a política de negociação e a política de di
 
 único, deverá encaminhá-lo pelo Sistema Empresas.NET, tanto pela categoria “Política de Negociação das
 
-ações da companhia” como pela categoria “Política de Divulgação de Ato ou Fato Relevante”.
+ações da companhia” como pela categoria “Política de Divulgação de Ato ou Fato Relevante”
+
+.
 
 4.11 Plano de investimento
 
@@ -9218,7 +9366,7 @@ facultativo.
 
 Pode formalizar planos de investimento todo aquele que tem relação com uma companhia aberta que
 
-lhe torne potencialmente sujeito às presunções de que trata o parágrafo 1º do art igo 13 da Resolução
+lhe torne potencialmente sujeito às presunções de que trata o parágrafo 1º do artigo 13 da Resolução
 
 acima mencionada.
 
@@ -9236,13 +9384,13 @@ c) estabelecimento, em caráter irrevogável e irretratável, das datas e valore
 
 negócios a serem realizados;
 
+116
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-117
 
 d) prazo mínimo de 3 (três) meses para que o plano, suas eventuais modificações e cancelamentos
 
@@ -9262,7 +9410,7 @@ plano de investimento por ele formalizado.
 
 Em relação ao item “c” acima, destaca-se a possibilidade de que seja definido um conjunto de parâmetros,
 
-como, por exemplo, algoritmos e fórmulas, que , uma vez aplicados ao caso concreto , determinem se os
+como, por exemplo, algoritmos e fórmulas, que, uma vez aplicados ao caso concreto, determinem se os
 
 negócios serão realizados ou não e, caso sejam, quais as datas e os valores financeiros envolvidos. Neste
 
@@ -9272,7 +9420,7 @@ irretratáveis, de modo a eliminar a discricionariedade ex post do participante 
 
 em questão.
 
-Quanto ao item “ f”, chama-se atenção para a impossibilidade de realização de operações com
+Quanto ao item “f”, chama-se atenção para a impossibilidade de realização de operações com
 
 instrumentos financeiros derivativos para fins de hedge do compromisso assumido pelo participante no
 
@@ -9292,7 +9440,7 @@ b) o plano obrigue o participante a reverter à companhia quaisquer perdas evita
 
 auferidos em negociações decorrentes de eventual alteração nas datas de divulgação das
 
-informações contábeis trimestrais e das demonstrações financeiras anuais , apurados por
+informações contábeis trimestrais e das demonstrações financeiras anuais, apurados por
 
 critérios razoáveis definidos no próprio plano.
 
@@ -9316,17 +9464,17 @@ de administração, o que pode se mostrar difícil nos casos em que os participa
 
 numerosos.
 
+117
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-118
-
 Neste sentido, é permitido que companhias exijam de seus colaboradores planos de investimento que
 
-não venham a ser acompanhados periodicamente pelo conselho de administração , e, por essa razão,
+não venham a ser acompanhados periodicamente pelo conselho de administração, e, por essa razão,
 
 tampouco se prestem a permitir negócios em períodos nos quais a Resolução CVM nº 44/21 determina
 
@@ -9338,19 +9486,21 @@ Cabe esclarecer que os planos de investimento não devem ser enviados pelo Siste
 
 Recomenda-se a consulta à decisão do Colegiado, na reunião de 19.11.2019, referente ao Processo CVM
 
-nº 19957.005109/2018-0825.
+nº 19957.005109/2018-0825
+
+.
 
 4.12 Política de divulgação
 
 A política de divulgação de ato ou fato relevante é um documento de caráter obrigatório, estabelecido no
 
-artigo 1 7 da Resolução CVM nº 44/21, às companhias que atendam cumulativamente os seguintes
+artigo 17 da Resolução CVM nº 44/21, às companhias que atendam cumulativamente os seguintes
 
 requisitos:
 
-(i) estejam registradas na categoria A;
+(i) (ii) estejam registradas na categoria A;
 
-(ii) tenham sido autorizadas por entidade administradora de mercado à negociação de ações em
+tenham sido autorizadas por entidade administradora de mercado à negociação de ações em
 
 bolsa de valores; e
 
@@ -9392,17 +9542,19 @@ Caso o emissor opte por elaborar a política de negociação e a política de di
 
 único, deverá encaminhá-lo pelo Sistema Empresas.NET, tanto pela categoria “Política de Negociação das
 
-ações da companhia” como pela categoria “Política de Divulgação de Ato ou Fato Relevante”.
+ações da companhia” como pela categoria “Política de Divulgação de Ato ou Fato Relevante”
+
+.
 
 25 Vide http://conteudo.cvm.gov.br/decisoes/2019/20191119_R1/20191119_D1067.html.
+
+118
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-119
 
 A política de divulgação de ato ou fato relevante deverá ser atualizada sempre que houver qualquer
 
@@ -9464,17 +9616,21 @@ informação; Recomendações para garantir a cumprimento do dever de sigilo;
 
 Nos termos da Resolução CVM nº 80/22, os emissores registrados na categoria A e na categoria B estão
 
-obrigados, por força, respectivamente, do inciso XIII do artigo 3 3 e do inciso XXII do artigo 34 da citada
+obrigados, por força, respectivamente, do inciso XIII do artigo 33 e do inciso XXII do artigo 34 da citada
 
 Resolução, a apresentar o estatuto social consolidado, em até 7 (sete) dias úteis contados da data da
 
-assembleia que deliberou a alteração , ainda que dependa, se for o caso, da homologação do Banco
+assembleia que deliberou a alteração, ainda que dependa, se for o caso, da homologação do Banco
 
 Central. Nesse caso, sugere-se que seja divulgado, no início do texto do documento, a informação de que
 
 o documento está pendente de homologação daquele órgão, devendo ser reapresentado tão logo ocorra
 
-tal aprovação. O envio deve ser feito por meio do Sistema Empresas.NET, na categoria “estatuto social”.
+tal aprovação. O envio deve ser feito por meio do Sistema Empresas.NET, na categoria “estatuto social”
+
+.
+
+119
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -9482,9 +9638,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-120
-
-Cabe esclarecer que o novo estatuto social deve ser apresentado no S istema Empresas.NET como um
+Cabe esclarecer que o novo estatuto social deve ser apresentado no Sistema Empresas.NET como um
 
 novo envio e não como uma reapresentação do estatuto anterior.
 
@@ -9496,7 +9650,7 @@ data de referência deverá constar a data da realização da assembleia que apr
 
 4.14 Reuniões do conselho de administração e do conselho fiscal
 
-A Resolução CVM nº 80/22 determina, nos incisos V e VI do artigo 3 3, que os emissores registrados na
+A Resolução CVM nº 80/22 determina, nos incisos V e VI do artigo 33, que os emissores registrados na
 
 categoria A deverão encaminhar, por meio do Sistema Empresas.NET, as seguintes informações, nos
 
@@ -9516,15 +9670,17 @@ manifestações encaminhadas pelos conselheiros, em até 7 (sete) dias úteis co
 
 divulgação do ato ou fato objeto do parecer, pela categoria “Reunião da Administração”, tipo
 
-“Conselho Fiscal”, espécie “Ata”.
+“Conselho Fiscal”, espécie “Ata”
+
+.
 
 Os emissores registrados na categoria B estão obrigados a encaminhar, por meio do Sistema
 
-Empresas.NET, na forma acima descrita, as atas de reuniões do conselho de administração , desde que
+Empresas.NET, na forma acima descrita, as atas de reuniões do conselho de administração, desde que
 
 contenham deliberações destinadas a produzir efeitos perante terceiros, acompanhadas das eventuais
 
-manifestações encaminhadas pelos conselheiros , em até 7 (sete) dias úteis contados de sua realização,
+manifestações encaminhadas pelos conselheiros, em até 7 (sete) dias úteis contados de sua realização,
 
 como previsto no inciso V do artigo 34 da Resolução CVM nº 80/22.
 
@@ -9542,7 +9698,7 @@ que levaram a eventual voto contrário, bem como devem ser acompanhadas de event
 
 individuais que tenham sido apresentadas por parte de seus membros.
 
-Em que pese as atas relativas à s reuniões da diretoria não terem sido incluídas na Resolução dentre as
+Em que pese as atas relativas às reuniões da diretoria não terem sido incluídas na Resolução dentre as
 
 informações eventuais de apresentação obrigatória, seu encaminhamento voluntário é recomendável.
 
@@ -9556,17 +9712,19 @@ do contrato de prestação dos serviços de auditoria, com justificativa da muda
 
 a anuência do auditor substituído.
 
+120
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-121
-
 Tal comunicação deve ser enviada à CVM, pelo DRI da companhia, por meio do Sistema Empresas.NET,
 
-categoria “Comunicado ao Mercado”, tipo “Mudança de auditor (artigo 28, Resolução CVM nº 23/21)”.
+categoria “Comunicado ao Mercado”, tipo “Mudança de auditor (artigo 28, Resolução CVM nº 23/21)”
+
+.
 
 Cabe destacar que, segundo o artigo 29 da citada Resolução, compete ao conselho fiscal da entidade
 
@@ -9620,7 +9778,9 @@ ocorrência de cada transação objeto de divulgação.
 
 Tal divulgação deve ocorrer através do Sistema Empresas.NET, categoria “Comunicação sobre Transação
 
-entre Partes Relacionadas”.
+entre Partes Relacionadas”
+
+.
 
 Esclarece-se que as transações que devem ser informadas como comunicação sobre transações entre
 
@@ -9634,17 +9794,17 @@ assim, as operações ocorridas e divulgadas como comunicação sobre transaçõ
 
 passam a ser divulgadas somente no FRE do exercício seguinte.
 
+121
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-122
-
 Ressalta-se ainda que o universo dos tipos de transações a serem informadas no FRE é maior que o das
 
-transações a serem divulgadas sob a forma de comunicação sobre transações entre partes relacionadas ,
+transações a serem divulgadas sob a forma de comunicação sobre transações entre partes relacionadas,
 
 dado que as alíneas “d” e “e” do inciso II do artigo 3º do referido Anexo F não estão excetuadas no texto
 
@@ -9672,11 +9832,11 @@ primeiro. A depender dos critérios indicados no inciso II do artigo 1º do refe
 
 da operação; a natureza da relação da parte relacionada com o emissor; e a natureza e extensão do
 
-interesse da parte relacionada na operação) , considera-se uma boa prática que a administração da
+interesse da parte relacionada na operação), considera-se uma boa prática que a administração da
 
-companhia, com o objetivo de manter um elevado nível de transparência , divulgue a comunicação por
+companhia, com o objetivo de manter um elevado nível de transparência, divulgue a comunicação por
 
-ocasião de sua aprovação pelos órgãos societários competentes , ainda que com ressalvas quanto a
+ocasião de sua aprovação pelos órgãos societários competentes, ainda que com ressalvas quanto a
 
 eventuais condições a serem implementadas para a conclusão do negócio e sem prejuízo, como já
 
@@ -9712,17 +9872,17 @@ financeiras ou, quando houver, nas últimas demonstrações financeiras consolid
 
 emissor, como prevê o parágrafo único do mencionado artigo 1º.
 
-O conceito de transações correlatas consta no inciso III do art igo 3º do Anexo F da Resolução CVM nº
+O conceito de transações correlatas consta no inciso III do artigo 3º do Anexo F da Resolução CVM nº
 
 80/22, que estabelece que:
+
+122
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-123
 
 III – entende-se por “transações correlatas” o conjunto de transações similares que possuem
 
@@ -9740,7 +9900,7 @@ Ressalta-se que a norma apresenta dois exemplos no dispositivo acima transcrito,
 
 lista taxativa.
 
-Nesse sentido, as comunicações sobre transações entre partes relacionadas acerca de co ntratos que a
+Nesse sentido, as comunicações sobre transações entre partes relacionadas acerca de contratos que a
 
 administração da companhia identifique como relevantes devem ser divulgadas dentro do prazo previsto
 
@@ -9752,9 +9912,9 @@ valores descritos no Anexo F e as melhores estimativas da administração, ainda
 
 data da celebração do contrato, determinar o valor exato que resultará de sua execução. Adicionalmente,
 
-recomenda-se que essas comunicações incluam uma referência à nota explicati va nas demonstrações
+recomenda-se que essas comunicações incluam uma referência à nota explicativa nas demonstrações
 
-financeiras, bem como aos itens do formulário de referê ncia que detalham a evolução do contrato
+financeiras, bem como aos itens do formulário de referência que detalham a evolução do contrato
 
 descrito.
 
@@ -9792,7 +9952,7 @@ de, individualmente, nenhuma das transações ter excedido o limite previsto no 
 
 de um comunicado, quando a companhia A consolida as informações nas demonstrações financeiras, os
 
-valores superam o limite previsto no artigo 1º, parágrafo único , do referido Anexo F , o que motivaria a
+valores superam o limite previsto no artigo 1º, parágrafo único, do referido Anexo F, o que motivaria a
 
 divulgação.
 
@@ -9802,13 +9962,13 @@ exato que resultará de sua execução, o conceito de relevância para fins de a
 
 a comunicação deve ter em conta as melhores estimativas da administração.
 
+123
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-124
 
 Nos casos de transações rotineiras e feitas sob demanda, caso a administração entenda não ser possível
 
@@ -9860,17 +10020,17 @@ Controlador
 
 A
 
+B
+
 Sub A1 Sub A2
 
-B
+124
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-125
 
 Imagine-se que o emissor que reporta a informação seja A.
 
@@ -9882,7 +10042,9 @@ Não há obrigatoriedade de divulgação (i) de transações de Sub A1 e Sub A2 
 
 entre A e suas subsidiárias. Tal divulgação só viria a ser obrigatória se o Controlador ou B detivessem
 
-participação em Sub A1 ou Sub A2 por outro meio que não via A26.
+participação em Sub A1 ou Sub A2 por outro meio que não via A26
+
+.
 
 A não obrigatoriedade de divulgação da comunicação sobre transações entre partes relacionadas não
 
@@ -9892,11 +10054,13 @@ nas demonstrações financeiras, na forma da regulamentação específica aplic�
 
 administradores e acionistas controladores dos deveres estabelecidos na Lei nº 6.404/76.
 
-Salienta-se, ainda, a decisão do Colegiado no âmbito do Processo CVM nº 19957.001316/2020-0827,
+Salienta-se, ainda, a decisão do Colegiado no âmbito do Processo CVM nº 19957.001316/2020-0827
+
+,
 
 acompanhando a manifestação da SEP, que não ser razoável a dispensa do cumprimento da Resolução
 
-CVM nº 80/22, artigo 33, inciso XXXII , para as transações com controladas em que haja participação no
+CVM nº 80/22, artigo 33, inciso XXXII, para as transações com controladas em que haja participação no
 
 capital social da controlada por parte dos controladores diretos ou indiretos do emissor, de seus
 
@@ -9940,13 +10104,13 @@ administradores.
 
 27 Vide https://conteudo.cvm.gov.br/decisoes/2020/20200707_R1/20200707_D1848.html.
 
+125
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-126
 
 Por sua vez, no caso de dividendos e juros sobre o capital próprio, há um regramento próprio quanto ao
 
@@ -9958,7 +10122,7 @@ relacionadas, nesses casos, não se enquadraria nos objetivos da norma. Cabe men
 
 disposições específicas sobre a divulgação de informações sobre dividendos e juros sobre o capital próprio
 
-(na Resolução CVM nº 81/22, por exemplo). Assim sendo, nesses casos , não caberia divulgação de
+(na Resolução CVM nº 81/22, por exemplo). Assim sendo, nesses casos, não caberia divulgação de
 
 “Comunicação Sobre Transações Com Partes Relacionadas”, tampouco no item 11.2 do formulário de
 
@@ -9978,7 +10142,7 @@ relacionadas. A esse respeito, recomendamos a leitura do item 7.12 deste Ofício
 
 Nos termos do Ofício Circular nº 9/2018/CVM/SEP, sempre que ocorrer prestação de compromisso de
 
-indenidade para os administradores, a companhia deverá encaminhar, pelo Sistema Empresas.N ET, os
+indenidade para os administradores, a companhia deverá encaminhar, pelo Sistema Empresas.NET, os
 
 contratos de indenidades, seus aditivos e eventuais outros documentos que também reflitam os termos
 
@@ -10002,11 +10166,15 @@ baseados em ações que possua, incluindo os planos de opções de compra de aç
 
 Os tradicionais planos de opções de compra de ações devem ser arquivados no Sistema Empresas.NET, na
 
-categoria “Plano de Opções”.
+categoria “Plano de Opções”
+
+.
 
 Já os demais planos de remuneração baseados em ações devem ser arquivados na categoria “Plano de
 
-Remuneração Baseado em Ações (Exceto Plano de Opções)”.
+Remuneração Baseado em Ações (Exceto Plano de Opções)”
+
+.
 
 A data de referência do documento deve representar a data de aprovação do plano de remuneração.
 
@@ -10018,13 +10186,13 @@ plano não sejam de emissão da própria companhia, mas de controladora, control
 
 sociedade sob controle comum.
 
+126
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-127
 
 Adicionalmente, no caso de exercício do plano, mediante a emissão de novas ações da companhia aberta,
 
@@ -10038,7 +10206,7 @@ pela companhia.
 
 4.19 Release de resultados
 
-As companhias que optem por divulgar release de resultados deverão fazê -lo por meio do Sistema
+As companhias que optem por divulgar release de resultados deverão fazê-lo por meio do Sistema
 
 Empresas.NET, categoria “Dados Econômico-Financeiros”, tipo “Press-Release”. Essa divulgação deve se
 
@@ -10072,7 +10240,7 @@ conciliação desses dados com os números contábeis.
 
 4.20 Material de apresentação a analistas/agentes do mercado
 
-Conforme artigo 3 3, inciso XIV, da Resolução CVM nº 80/ 22, as companhias que realizarem reunião
+Conforme artigo 33, inciso XIV, da Resolução CVM nº 80/22, as companhias que realizarem reunião
 
 pública com analistas e agentes do mercado devem encaminhar o material apresentado no mesmo dia da
 
@@ -10100,13 +10268,13 @@ Empresas.NET, sem prejuízo do disposto no artigo 3º da Resolução CVM nº 44/
 
 informações constituírem fato relevante.
 
+127
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-128
 
 Por oportuno, ainda com o intuito de promover o tratamento equitativo a todos os participantes do
 
@@ -10162,7 +10330,7 @@ A atividade do formador de mercado procura estabelecer um preço de referência 
 
 ativo e sua importância será medida pelos resultados obtidos com sua atuação, uma vez que a
 
-possibilidade de comprar e vender ativos a qualquer momento incen tiva as pessoas a investirem nesses
+possibilidade de comprar e vender ativos a qualquer momento incentiva as pessoas a investirem nesses
 
 papéis. Por isso, a SEP entende que tanto a contratação quanto a dispensa de um formador de mercado
 
@@ -10178,7 +10346,7 @@ nº 44/21.
 
 membros
 
-Chama-se a atenção para a obrigação de envio das comunicaç ões previstas nos incisos XX VIII e XXIX do
+Chama-se a atenção para a obrigação de envio das comunicações previstas nos incisos XXVIII e XXIX do
 
 artigo 33 e incisos XIX e XX do artigo 34 da Resolução CVM nº 80/22, inclusive com relação à informação
 
@@ -10186,27 +10354,27 @@ do currículo dos novos integrantes em caso de mudança na composição do comit
 
 encaminhadas, no prazo de 7 (sete) dias úteis contados da data da instalação ou mudança na composição.
 
+128
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-129
-
-Para o envio, deve -se utilizar o Sistema Empresas.N ET, categoria “Comunicado ao Mercado”, tipo
+Para o envio, deve-se utilizar o Sistema Empresas.NET, categoria “Comunicado ao Mercado”, tipo
 
 “Instalação, mudança na composição ou dissolução do comitê de auditoria estatutário”. Os assuntos são
 
-de preenchimento obrigatório e são os seguintes: (i) Instalação do comitê de auditoria estatutário ; (ii)
+de preenchimento obrigatório e são os seguintes: (i) Instalação do comitê de auditoria estatutário; (ii)
 
-Mudança na composição do comitê de auditoria estatutário ; e (iii) Dissolução do comitê de auditoria
+Mudança na composição do comitê de auditoria estatutário; e (iii) Dissolução do comitê de auditoria
 
 estatutário.
 
 Ressalta-se que a divulgação da ata da reunião do conselho de administração (nos termos do inciso V do
 
-artigo 33 e do inciso V do art igo 34 da Resolução CVM nº 80/22) e a atualização dos campos
+artigo 33 e do inciso V do artigo 34 da Resolução CVM nº 80/22) e a atualização dos campos
 
 correspondentes do formulário de referência (conforme inciso I do parágrafo 3º do artigo 25 da Resolução
 
@@ -10218,11 +10386,11 @@ Em 26.08.2020, a SEP divulgou o Ofício Circular nº 7/2020/CVM/SEP sobre as apr
 
 a presença de executivos de companhias abertas. As remissões feitas à Instrução CVM nº 358/02 e
 
-Instrução CVM nº 480/09 (com atualizações d a numeração dos artigos), vigentes à época, permanecem
+Instrução CVM nº 480/09 (com atualizações da numeração dos artigos), vigentes à época, permanecem
 
 válidas, sendo compatíveis aos respectivos comandos das Resoluções CVM nº 44/21 e 80/22:
 
-Verificamos que a existência de incertezas sobre o efeito da pandemia do Covid -19 no desempenho das
+Verificamos que a existência de incertezas sobre o efeito da pandemia do Covid-19 no desempenho das
 
 companhias, bem como as modificações nas rotinas de trabalho ocorridas nos últimos meses, fomentaram a
 
@@ -10246,9 +10414,9 @@ Em relação à publicidade de eventos dessa natureza, ainda que realizadas em p
 
 em geral, é importante ressaltar que, por não constarem do Calendário de Eventos Corporativos da
 
-companhia e por serem organizadas por pessoas ou ent idades alheias à administração da companhia,
+companhia e por serem organizadas por pessoas ou entidades alheias à administração da companhia,
 
-recomendamos que seja divulgado, com antecedência, um comunicado ao mercado , informando data,
+recomendamos que seja divulgado, com antecedência, um comunicado ao mercado, informando data,
 
 horário e endereço na internet em que será transmitida a “live”, que contará com a participação de algum
 
@@ -10258,13 +10426,15 @@ Ainda, de acordo com o artigo 30, inciso XIV, da Instrução CVM nº 480/09, o e
 
 Sistema Empresas.NET o material apresentado em reuniões com analistas e agentes do mercado, no mesmo
 
-dia da reunião ou apresentação. E, conforme orientaç ão contida no item 4.20 do OFÍCIO
+dia da reunião ou apresentação. E, conforme orientação contida no item 4.20 do OFÍCIO
 
 CIRCULAR/CVM/SEP/Nº 2/2020, “para tratamento equitativo de todos os participantes do mercado, esse
 
 material deve ser enviado antes ou simultaneamente ao início da reunião, contendo todas as informações
 
-relevantes que serão abordadas na mesma”.
+relevantes que serão abordadas na mesma”
+
+.
 
 Essa mesma orientação vale para as informações a serem divulgadas na referida “live”. Mesmo que não haja
 
@@ -10276,23 +10446,25 @@ perguntas que serão feitas, o que deve ser obtido junto aos organizadores caso 
 
 definida juntamente com a companhia.
 
+129
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-130
-
 Novamente citando o OFÍCIO CIRCULAR/CVM/SEP/Nº 2/2020, “se durante a reunião houver a divulgação de
 
 informações adicionais às constantes no material de apresentação utilizado, por exemplo, em decorrência de
 
-perguntas formuladas pelos participantes da reuni ão, estas devem ser incluídas nesse material, o qual deve
+perguntas formuladas pelos participantes da reunião, estas devem ser incluídas nesse material, o qual deve
 
 ser reapresentado pelo Sistema Empresas.NET, sem prejuízo do disposto no artigo 3º da Instrução CVM nº
 
-358/02, nos casos em que tais informações constituírem fato relevante”.
+358/02, nos casos em que tais informações constituírem fato relevante”
+
+.
 
 Se não for possível divulgar com antecedência o conteúdo da apresentação, por impossibilidade de se obter
 
@@ -10302,7 +10474,7 @@ que a live seja realizada fora do horário de pregão, preferencialmente após o
 
 que a equipe de RI tenha tempo de preparar o material que deverá ser divulgado após o fim do evento no
 
-Sistema Empresas.NET, contendo as principais informações divulgadas no evento e que não cons tam nos
+Sistema Empresas.NET, contendo as principais informações divulgadas no evento e que não constam nos
 
 documentos já divulgados pela companhia.
 
@@ -10358,13 +10530,13 @@ de investidores ou outros agentes de mercado, a área técnica da Autarquia escl
 
 dos eventos tratados pelo ofício.
 
+130
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-131
 
 Abrangência
 
@@ -10394,7 +10566,7 @@ técnicas ou consultivas.
 
 Verifica-se que, com certa frequência, companhias têm divulgado dados e métricas operacionais por meio
 
-de comunicado ao mercado . Em princípio, não há impedimento em que se faça tal divulgação por
+de comunicado ao mercado. Em princípio, não há impedimento em que se faça tal divulgação por
 
 Comunicado, desde que essas informações não constituam fato relevante nos termos da Resolução CVM
 
@@ -10408,7 +10580,7 @@ possível antecipação de informação financeira, informação de natureza rel
 
 deste Ofício Circular.
 
-Caso a companhia adote a prática de divulgação de dados e métricas operacionais, recomenda -se que
+Caso a companhia adote a prática de divulgação de dados e métricas operacionais, recomenda-se que
 
 esta prática esteja prevista em sua política de divulgação, contendo os seguintes requisitos: (i) estabeleça
 
@@ -10440,17 +10612,17 @@ contratos de concessão, recomenda-se incluir no comunicado ao mercado a referê
 
 exigir tal divulgação.
 
+131
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-132
-
 4.25 Comunicação sobre demandas societárias
 
-Conforme previsto no inciso XLIII do artigo 33 da Resolução CVM nº 80/2 2, os emissores registrados na
+Conforme previsto no inciso XLIII do artigo 33 da Resolução CVM nº 80/22, os emissores registrados na
 
 categoria A devem encaminhar o documento “Comunicação sobre demandas societárias”, nos termos e
 
@@ -10460,7 +10632,7 @@ Considera-se demanda societária para os fins do referido Anexo I todo processo 
 
 pedidos estejam, no todo ou em parte, baseados em legislação societária ou do mercado de valores
 
-mobiliários, ou nas normas editadas pela CVM. O artigo 2 º do Anexo I prevê o envio das principais
+mobiliários, ou nas normas editadas pela CVM. O artigo 2º do Anexo I prevê o envio das principais
 
 informações relativas à demanda e os prazos de envio.
 
@@ -10468,7 +10640,7 @@ Importa destacar que a notícia acerca da instauração do procedimento arbitral
 
 de 7 (sete) dias úteis a contar, conforme figure a parte na condição de demandante ou demandado, da
 
-apresentação do requerimento de sua instauração ou do seu recebimento , e não da instauração
+apresentação do requerimento de sua instauração ou do seu recebimento, e não da instauração
 
 propriamente dita.
 
@@ -10480,19 +10652,19 @@ informação como fato relevante, e tampouco se confunde com a obrigação de di
 
 respeito de processos judiciais, administrativos ou arbitrais em que o emissor ou suas controladas sejam
 
-parte nos itens 4. 4 a 4.6 do formulário de referência . Trata -se de obrigações específicas , às quais os
+parte nos itens 4.4 a 4.6 do formulário de referência. Trata-se de obrigações específicas, às quais os
 
 emissores estão submetidos, nos termos de cada norma aplicável, e que compõem, de forma sistemática,
 
 o regime informacional imposto às companhias abertas.
 
-Nesse sentido, esclarece-se que, conforme previsto no s parágrafos 3º e 4º do artigo 1º do Anexo I, na
+Nesse sentido, esclarece-se que, conforme previsto nos parágrafos 3º e 4º do artigo 1º do Anexo I, na
 
 hipótese de uma informação acerca da existência de demanda ou de algum de seus desdobramentos
 
 configurar ato ou fato relevante, nos termos estabelecidos em norma específica, o emissor deverá
 
-também observar os termos e prazos estabelecidos naquele normativo. N esse caso, é facultado ao
+também observar os termos e prazos estabelecidos naquele normativo. Nesse caso, é facultado ao
 
 emissor divulgar apenas o aviso de fato relevante, desde que contenha todas as informações exigidas pelo
 
@@ -10512,11 +10684,11 @@ elaboração e divulgação de relatório de informações financeiras relaciona
 
 companhias abertas, com base no padrão internacional emitido pelo ISSB, a partir dos exercícios sociais
 
-iniciados em, ou a pós, 1º de janeiro de 2024. Fica estabelecida, para as companhias abertas, a
+iniciados em, ou após, 1º de janeiro de 2024. Fica estabelecida, para as companhias abertas, a
 
 obrigatoriedade de elaboração e divulgação do relatório de informações financeiras relacionadas à
 
-sustentabilidade, com base nas normas do ISSB, a partir dos exercícios sociais in iciados em, ou após, 1º
+sustentabilidade, com base nas normas do ISSB, a partir dos exercícios sociais iniciados em, ou após, 1º
 
 de janeiro de 2026. As entidades devem arquivar o relatório de informações financeiras relacionadas à
 
@@ -10528,13 +10700,13 @@ I – na adoção voluntária e no primeiro exercício social de adoção obriga
 
 entrega do formulário de referência; e
 
+132
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-133
 
 II - a partir do segundo exercício social de adoção obrigatória: em até 3 (três) meses contados do
 
@@ -10544,7 +10716,7 @@ que correr primeiro.
 
 4.27 Política de clawback
 
-A política específica de clawback deve ser arquivada por meio do Sistema Empresas.N ET na categoria
+A política específica de clawback deve ser arquivada por meio do Sistema Empresas.NET na categoria
 
 “Informação Prestada às Bolsas Estrangeiras”, com o assunto “Política de Clawback”.
 
@@ -10562,7 +10734,7 @@ Em 13.12.2011, de modo a evitar sobreposição de esforços, a CVM e a B3 – Br
 
 firmaram convênio estabelecendo mecanismos de cooperação e de organização das atividades de
 
-fiscalização exercidas pela CVM e p or essa bolsa, no âmbito de suas competências, relativamente ao
+fiscalização exercidas pela CVM e por essa bolsa, no âmbito de suas competências, relativamente ao
 
 acompanhamento da divulgação da prestação de informações ao mercado pelos emissores com valores
 
@@ -10578,7 +10750,7 @@ SEP em apoio à bolsa, seja exercendo atividade consultiva e de treinamento, sej
 
 companhias, nos casos em que as solicitações da bolsa não sejam atendidas.
 
-Dessa forma , chama -se a atenção dos emissores com valores mobiliários negociados na B3 para a
+Dessa forma, chama-se a atenção dos emissores com valores mobiliários negociados na B3 para a
 
 necessidade de atender às solicitações que venham a ser emitidas pela bolsa com base no referido
 
@@ -10590,7 +10762,7 @@ https://conteudo.cvm.gov.br/export/sites/cvm/convenios/anexos/Convenio_CVM_e_B3.
 
 5.2 Orientações gerais
 
-O encaminhamento das informações periódicas e eventuais previstas na Resolução CVM nº 80/ 22, na
+O encaminhamento das informações periódicas e eventuais previstas na Resolução CVM nº 80/22, na
 
 Resolução CVM nº 81/22, no artigo 28 da Resolução CVM nº 23/21 e na Resolução CVM nº 44/21 deve
 
@@ -10602,13 +10774,13 @@ existe autorização expressa na legislação para que se autorize, sob quaisque
 
 prorrogação de prazo de entrega dessas informações.
 
+133
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-134
 
 Para as informações cujo prazo de entrega não seja estipulado na Resolução CVM nº 80/22 em dias úteis,
 
@@ -10620,7 +10792,7 @@ Lei nº 9.784/99.
 
 O emissor que não cumprir com as obrigações de entrega de informações periódicas previstas na
 
-Resolução CVM nº 80/22 estará sujeito à multa cominatória diária ( vide item 2.14), segundo os valores
+Resolução CVM nº 80/22 estará sujeito à multa cominatória diária (vide item 2.14), segundo os valores
 
 relacionados no Anexo 3 da Resolução CVM nº 47/21, sem prejuízo da apuração de eventuais
 
@@ -10640,7 +10812,7 @@ que induzam o investidor a erro e a inobservância reiterada dos prazos fixados 
 
 informações eventuais previstas na Resolução CVM nº 80/22, nos termos do seu artigo 65.
 
-Sem prejuízo do disposto nos dois parágrafos anteriores, destaca -se que a companhia deve manter o
+Sem prejuízo do disposto nos dois parágrafos anteriores, destaca-se que a companhia deve manter o
 
 mercado informado sobre eventual dificuldade em atender os prazos previstos para a apresentação das
 
@@ -10664,7 +10836,7 @@ razoabilidade, para divulgação da informação periódica que não será tempe
 
 Para que os documentos relativos às informações periódicas e eventuais sejam elaborados e entregues
 
-de forma íntegra, junto à CVM, recomenda -se às companhias a observação dos seguintes requisitos
+de forma íntegra, junto à CVM, recomenda-se às companhias a observação dos seguintes requisitos
 
 mínimos de legibilidade e clareza na elaboração dessas informações:
 
@@ -10684,13 +10856,13 @@ conteúdo se encontra;
 
 e) O limite mínimo para corpo de fonte é de 7 pt, especialmente para capas e tabelas;
 
+134
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-135
 
 f) A integridade lógica do arquivo divulgado deverá ser preservada, sem apresentar páginas
 
@@ -10712,7 +10884,7 @@ a) Quebras de páginas e parágrafos que previnam a leitura truncada, de forma a
 
 b) Uso de tipologia e corpo de fonte consistentes ao longo de todo o documento;
 
-c) Consistência nas sequ ências de listas alfabéticas e numeradas, de modo a prevenir dúvidas
+c) Consistência nas sequências de listas alfabéticas e numeradas, de modo a prevenir dúvidas
 
 quanto à estrutura lógica do documento;
 
@@ -10730,9 +10902,11 @@ g) Em páginas de arquivos que tenham sido digitalizadas, evitar a presença de 
 
 do processo de digitalização, como fios e margens negras;
 
-h) As assinaturas deverão ser omitidas ou substituídas com a expressão “/s/” – indicação de que o
+h) As assinaturas deverão ser omitidas ou substituídas com a expressão “/s/”
 
 original contém a assinatura da pessoa responsável pela informação;
+
+– indicação de que o
 
 i) Observar a otimização dos espaços das páginas e seções; e
 
@@ -10744,7 +10918,7 @@ mínimo a ser considerado quando da publicação de forma resumida dos demais do
 
 na Lei nº 6.404/76, deve-se compreender esse ato como parte do conjunto de informações prestadas pelo
 
-emissor ao mercado, o que implica na observância aos artigos 1 5 e 16 da Resolução CVM nº 80/22, pelo
+emissor ao mercado, o que implica na observância aos artigos 15 e 16 da Resolução CVM nº 80/22, pelo
 
 que, no documento publicado de forma resumida, deve constar: (i) que se trata de informação resumida
 
@@ -10754,13 +10928,13 @@ jornal de grande circulação, da CVM, e da B3 (no caso de companhia lá listada
 
 do documento.
 
+135
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-136
 
 Ainda que a companhia publique no jornal impresso a íntegra, em vez da forma resumida, da publicação
 
@@ -10794,7 +10968,7 @@ e qualquer mudança deverá ser precedida de aviso aos acionistas no extrato da 
 
 com o parágrafo 3º do artigo 289, da Lei nº 6.404/76.
 
-A respeito, entende-se que a redação do parágrafo 3º do artigo 289 da Lei nº 6.404/76, refere -se a toda
+A respeito, entende-se que a redação do parágrafo 3º do artigo 289 da Lei nº 6.404/76, refere-se a toda
 
 mudança provocada pela companhia. Considerando que, neste momento, deixar de publicar nos órgãos
 
@@ -10806,7 +10980,7 @@ esclarecendo que a mudança foi motivada pela alteração da legislação.
 
 Em caso excepcional, por exemplo, quando o jornal de grande circulação utilizado pela companhia deixa
 
-de circular, é possível adotar o segu inte procedimento: divulgação, no Sistema Empresas.NET, do fato
+de circular, é possível adotar o seguinte procedimento: divulgação, no Sistema Empresas.NET, do fato
 
 relevante dando conta da alteração do jornal, que também deverá ser publicado no órgão oficial da União
 
@@ -10838,37 +11012,37 @@ O emissor registrado na categoria A deverá ainda colocar e manter as informaç�
 
 sua página na rede mundial de computadores por 3 (três) anos, contados da data de divulgação.
 
+136
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-137
-
 Ressalta-se que essa regra de arquivamento se refere a todas as informações periódicas e eventuais
 
 previstas na legislação e na regulamentação emitida pela CVM, não se limitando apenas àquelas elencadas
 
-no artigo 3 3 da Resolução CVM nº 80/ 22 Assim, há a necessidade de arquivamento das comunicações
+no artigo 33 da Resolução CVM nº 80/22 Assim, há a necessidade de arquivamento das comunicações
 
-previstas na Resolução CVM nº 44/21 , tais como, por exemplo, as reguladas nos artigos 11 e 12 dessa
+previstas na Resolução CVM nº 44/21, tais como, por exemplo, as reguladas nos artigos 11 e 12 dessa
 
 Resolução.
 
 Cumpre também esclarecer que há a necessidade do efetivo arquivamento das informações na página da
 
-companhia. A simples inserção de link na página da companhia, direcionando os investidore s para os
+companhia. A simples inserção de link na página da companhia, direcionando os investidores para os
 
 documentos arquivados no site da CVM ou da bolsa, no Sistema Empresas.NET, não é considerado como
 
 procedimento válido para o cumprimento do disposto na norma.
 
-Embora não seja obrigatório, recomenda -se que as companhias registradas na categoria B coloquem e
+Embora não seja obrigatório, recomenda-se que as companhias registradas na categoria B coloquem e
 
-mantenham as informações periódicas e eventuais prestadas em atendimento aos artigos 2 2 e 34 da
+mantenham as informações periódicas e eventuais prestadas em atendimento aos artigos 22 e 34 da
 
-Resolução CVM nº 80/ 22 em página própria na rede mundial de computadores, a exemplo do que é
+Resolução CVM nº 80/22 em página própria na rede mundial de computadores, a exemplo do que é
 
 exigido para as companhias registradas na categoria A pelo artigo 14, parágrafo 1º, da referida Resolução.
 
@@ -10882,7 +11056,7 @@ ser divulgada, na forma do caput do artigo 6º da mesma Resolução.
 
 Tal requerimento deverá ser dirigido à SEP por meio de (i) correspondência eletrônica destinada ao
 
-endereço institucional da SEP ( sep@cvm.gov.br) em que conste como assunto “pedido de
+endereço institucional da SEP (sep@cvm.gov.br) em que conste como assunto “pedido de
 
 confidencialidade”; ou (ii) envelope lacrado, no qual deverá constar a palavra “confidencial”, nos termos
 
@@ -10902,7 +11076,7 @@ para o atendimento do pedido. Tais informações e documentos serão considerado
 
 conforme prevê o parágrafo 2º do artigo 61 da Resolução nº 80/22.
 
-Como previsto no artigo 61, parágrafo 3º, da Resolução CVM nº 80/ 22, os pedidos excepcionais de
+Como previsto no artigo 61, parágrafo 3º, da Resolução CVM nº 80/22, os pedidos excepcionais de
 
 tratamento sigiloso de tais informações e documentos deverão ser encaminhados à SEP e acompanhados
 
@@ -10922,13 +11096,13 @@ o tratamento sigiloso, na hipótese da informação escapar ao controle ou se oc
 
 cotação, preço ou quantidade negociada dos valores mobiliários do emissor.
 
+137
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-138
 
 Nos termos do parágrafo 1º do artigo 61 da Resolução CVM nº 80/22, a SEP poderá, de qualquer modo,
 
@@ -10946,7 +11120,7 @@ ao artigo 13 da Constituição Federal combinado com o artigo 224 do Código Civ
 
 documentos redigidos em língua estrangeira para terem efeitos legais no país deverão ser traduzidos para
 
-o português, idioma oficial no Brasil, razão pela qual todas as informações e documentos apresentad os
+o português, idioma oficial no Brasil, razão pela qual todas as informações e documentos apresentados
 
 por meio do Sistema Empresas.NET também devem ser traduzidos para o português.
 
@@ -10964,7 +11138,7 @@ providenciar o posterior arquivamento da versão traduzida do documento, no mais
 
 tempo.
 
-Além disso, ressalta -se que as companhias listadas no Novo Mercado da B3 devem observar as regras
+Além disso, ressalta-se que as companhias listadas no Novo Mercado da B3 devem observar as regras
 
 estabelecidas sobre a divulgação de documentos em inglês.
 
@@ -10998,13 +11172,13 @@ DRI contendo:
 
 a) declaração de que o emissor se enquadra nos requisitos assinalados acima; e
 
+138
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-139
 
 b) memória do cálculo feito pelo emissor para a verificação do valor de mercado das ações em
 
@@ -11066,13 +11240,13 @@ valores mobiliários, e no caso de emissor frequente de renda fixa, para debênt
 
 não permutáveis em ações, ou de outros tipos de valores mobiliários representativos de dívida.
 
+139
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-140
 
 6.2 Emissores em situação especial
 
@@ -11088,7 +11262,9 @@ periodicidade não superior a 90 (noventa) dias, conforme previsto no artigo 39 
 
 relatórios devem ser encaminhados pelo Sistema Empresas.NET, categoria “Informações de companhias
 
-em recuperação judicial ou extrajudicial”, tipo “Relatório de cumprimento do Plano”.
+em recuperação judicial ou extrajudicial”, tipo “Relatório de cumprimento do Plano”
+
+.
 
 Alerta-se que o parágrafo 3º do artigo 48 da Resolução CVM nº 80/22 prevê que sempre que um emissor
 
@@ -11110,9 +11286,9 @@ contidas no Formulário até 31 de maio de cada ano, nos termos do artigo 24 da 
 
 6.2.2 Emissores em recuperação judicial
 
-O artigo 40 da Resolução CVM nº 80/ 22 dispensa os emissores em recuperaç ão judicial da entrega do
+O artigo 40 da Resolução CVM nº 80/22 dispensa os emissores em recuperação judicial da entrega do
 
-formulário de referência , sendo que esta dispensa vigora até a entrega em juízo do relatório
+formulário de referência, sendo que esta dispensa vigora até a entrega em juízo do relatório
 
 circunstanciado ao final do processo de recuperação.
 
@@ -11122,13 +11298,13 @@ na categoria A autorizado por entidade administradora de mercado à negociação
 
 certificados de depósito de ações em bolsa de valores deve entregar o formulário de referência
 
-preenchido com as seções 2, 4, 8 e 13, e com os itens 6.1, 6.2, 7.3 e 7.4 , até a apresentação em juízo do
+preenchido com as seções 2, 4, 8 e 13, e com os itens 6.1, 6.2, 7.3 e 7.4, até a apresentação em juízo do
 
 relatório circunstanciado ao final do processo de recuperação, observado o disposto no parágrafo 3º do
 
 artigo 25 desta Resolução.
 
-Além disso , esses emissores devem encaminhar, pelo Sistema Empresas.NET, as demais informações
+Além disso, esses emissores devem encaminhar, pelo Sistema Empresas.NET, as demais informações
 
 periódicas e eventuais previstas na Resolução, inclusive as seguintes informações previstas em seu artigo
 
@@ -11142,17 +11318,19 @@ demonstrativas mensais”; e
 
 b) relatório circunstanciado apresentado pelo administrador judicial ao final da recuperação, na
 
-categoria “Informações de Companhias em Recuperação Judicial ou Extrajudicial ”, tipo
+categoria “Informações de Companhias em Recuperação Judicial ou Extrajudicial”, tipo
 
-“Relatório Circunstanciado”.
+“Relatório Circunstanciado”
+
+.
+
+140
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-141
 
 Importante destacar, com relação ao inciso I do artigo 41 da Resolução CVM nº 80/22, que, na ocorrência
 
@@ -11164,11 +11342,11 @@ fins de arquivamento no site da CVM, a companhia deve zelar pelo conteúdo da in
 
 e, uma vez ocorrendo qualquer vazamento com dados financeiros preliminares, compete à administração
 
-da companhia e, em especial, ao seu DRI analisar o potencial de impacto desse vazamento so bre as
+da companhia e, em especial, ao seu DRI analisar o potencial de impacto desse vazamento sobre as
 
-negociações com as ações da companhia e, se for o caso, manifestar -se de forma imediata, por meio do
+negociações com as ações da companhia e, se for o caso, manifestar-se de forma imediata, por meio do
 
-Sistema Empresas.NET , respeitando os procedimento de divulgação de fatos relevantes conforme
+Sistema Empresas.NET, respeitando os procedimento de divulgação de fatos relevantes conforme
 
 disposto no item 4.1 desse Ofício Circular.
 
@@ -11188,7 +11366,7 @@ do seu responsável por meio do envio do formulário cadastral, no prazo de 7 (s
 
 do fato que deu causa a alteração, sem prejuízo da confirmação das informações contidas no formulário
 
-até 31 de maio de cada ano, nos termos do art igo 24 da Resolução CVM nº 80/22. Ressalte-se que os
+até 31 de maio de cada ano, nos termos do artigo 24 da Resolução CVM nº 80/22. Ressalte-se que os
 
 dados do responsável devem ser atualizados também por meio do Sistema Empresas.NET (vide item 3.3.1
 
@@ -11196,7 +11374,7 @@ e Capítulo 9).
 
 6.2.3 Emissores em falência
 
-Segundo o artigo 42 da Resolução CVM nº 80/ 22, o emissor em falência é dispensado de prestar as
+Segundo o artigo 42 da Resolução CVM nº 80/22, o emissor em falência é dispensado de prestar as
 
 informações periódicas de que trata a Seção II do Capítulo IV da Resolução CVM nº 80/22, exceto quanto
 
@@ -11204,7 +11382,7 @@ ao formulário cadastral, nos termos do artigo 24 e seu parágrafo único.
 
 Adicionalmente ao exigido pelos artigos 33 e 34, esses emissores devem encaminhar à CVM, pelo Sistema
 
-Empresas.NET, as informações eventuais previstas no artigo 43 da Resolução CVM nº 80/ 22, nos
+Empresas.NET, as informações eventuais previstas no artigo 43 da Resolução CVM nº 80/22, nos
 
 respectivos prazos especificados:
 
@@ -11212,7 +11390,9 @@ a) relatório sobre as causas e circunstâncias que conduziram à situação de 
 
 “Informações Companhias em Falência”, tipo “Causas e circunstâncias da falência”;
 
-b) contas demonstrativas da administração, na categoria “Informações Companhias em Falência”,
+b) contas demonstrativas da administração, na categoria “Informações Companhias em Falência”
+
+,
 
 tipo “Contas demonstrativas da administração”;
 
@@ -11224,9 +11404,13 @@ d) contas apresentadas ao final do processo de falência, na categoria “Inform
 
 em Falência”, tipo “Contas apresentadas ao final do processo de falência”;
 
-e) relatório final sobre processo de falência, na categoria “Informações Companhias em Falência”,
+e) relatório final sobre processo de falência, na categoria “Informações Companhias em Falência”
+
+,
 
 tipo “Relatório final”; e
+
+141
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -11234,11 +11418,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-142
-
 f) sentença de encerramento do processo de falência, na categoria “Informações Companhias em
 
-Falência”, tipo “Sentença de encerramento”.
+Falência”, tipo “Sentença de encerramento”
+
+.
 
 Alerta-se que o parágrafo 3º do artigo 48 da Resolução CVM nº 80/22 prevê que sempre que um emissor
 
@@ -11250,13 +11434,13 @@ previstos na legislação e regulamentação do mercado de valores mobiliários.
 
 6.2.4 Emissores em liquidação
 
-Segundo o artigo 44 da Resolução CVM nº 80/ 22, o emissor em liquidação é dispensado de prestar as
+Segundo o artigo 44 da Resolução CVM nº 80/22, o emissor em liquidação é dispensado de prestar as
 
 informações periódicas de que trata a Seção II do Capítulo IV da Resolução CVM nº 80/22, exceto quanto
 
 ao formulário cadastral, nos termos do artigo 24 e seu parágrafo único.
 
-Além disso , esses emissores devem encaminhar à CVM, pelo Sistema Empresas.NET, as informações
+Além disso, esses emissores devem encaminhar à CVM, pelo Sistema Empresas.NET, as informações
 
 eventuais previstas na Resolução, inclusive as seguintes informações elencadas no artigo 45 da Resolução
 
@@ -11264,7 +11448,11 @@ CVM nº 80/22, nos respectivos prazos especificados:
 
 a) ato de nomeação, destituição ou substituição do liquidante, na categoria “Informações
 
-Companhias em Liquidação ”, tipos “Nomeação de liquidante ”, “Destituição de liquidante ” ou
+Companhias em Liquidação”, tipos “Nomeação de liquidante”
+
+,
+
+“Destituição de liquidante” ou
 
 “Substituição de liquidante”, conforme o caso;
 
@@ -11272,21 +11460,29 @@ b) quadro geral de credores elaborado pelo liquidante, na categoria “Informaç
 
 Liquidação”, tipo “Quadro geral de credores”;
 
-c) quadro geral de credores definitivo, na categoria “Informações Companhias em Liquidação ”,
+c) quadro geral de credores definitivo, na categoria “Informações Companhias em Liquidação”
+
+,
 
 tipo “Quadro geral de credores definitivo”;
 
-d) relatório e balanço final da liquidação, na categoria “Informações Companhias em Liquidação”,
+d) relatório e balanço final da liquidação, na categoria “Informações Companhias em Liquidação”
+
+,
 
 tipo “Relatório e Balanço final da liquidação”;
 
 e) outros relatórios, pareceres e informações contábeis, na categoria “Informações Companhias
 
-em Liquidação”, tipo “Outros relatórios, pareceres e informações contábeis”; e
+em Liquidação”
+
+, tipo “Outros relatórios, pareceres e informações contábeis”; e
 
 f) ato de encerramento da liquidação, na categoria “Informações Companhias em Liquidação”, tipo
 
-“Ato de encerramento da liquidação”.
+“Ato de encerramento da liquidação”
+
+.
 
 Alerta-se que o parágrafo 3º do artigo 48 da Resolução CVM nº 80/22 prevê que, sempre que um emissor
 
@@ -11300,7 +11496,7 @@ Cabe ressaltar que, além do envio dos documentos acima mencionados, os emissore
 
 à atualização de seus dados cadastrais junto à CVM, notadamente no que diz respeito à alteração da
 
-situação da companhia e do seu responsável , por meio do envio do formulário cadastral, no prazo de 7
+situação da companhia e do seu responsável, por meio do envio do formulário cadastral, no prazo de 7
 
 (sete) dias úteis contados do fato que deu causa a alteração, sem prejuízo da confirmação das informações
 
@@ -11310,13 +11506,13 @@ Ressalte-se que os dados do responsável devem ser atualizados também por meio 
 
 Empresas.NET (vide item 3.3.1 e Capítulo 9).
 
+142
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-143
 
 7 Eventos Societários Relevantes e Outras Orientações
 
@@ -11324,7 +11520,7 @@ Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
 7.1.1 Representação de acionistas em assembleia
 
-O parágrafo 1º do ar tigo 126 da Lei nº 6.404/76 estabelece que o acionista pode ser representado em
+O parágrafo 1º do artigo 126 da Lei nº 6.404/76 estabelece que o acionista pode ser representado em
 
 assembleia por procurador constituído há menos de 1 (um) ano, que seja acionista, administrador da
 
@@ -11332,27 +11528,27 @@ companhia ou advogado, sendo que, na companhia aberta, o procurador poderá, ain
 
 financeira, cabendo ao administrador de fundos de investimento representar os condôminos.
 
-O Colegiado da CVM, em reunião realizada em 04 .11.2014 (Processo CVM nº RJ2014/3578)28, entendeu
+O Colegiado da CVM, em reunião realizada em 04.11.2014 (Processo CVM nº RJ2014/3578)28, entendeu
 
 que os acionistas pessoas jurídicas podem ser representados nas assembleias de acionistas por meio de
 
 seus representantes legais ou através de mandatários devidamente constituídos, de acordo com os atos
 
-constitutivos da sociedade e com as regras do Código Civil. Des sa forma, não há necessidade desse
+constitutivos da sociedade e com as regras do Código Civil. Dessa forma, não há necessidade desse
 
 mandatário ser acionista, administrador da companhia ou advogado.
 
-A Resolução CVM nº 81/ 22 dispõe, em seu artigo 6º, que o anúncio de convocação deve listar os
+A Resolução CVM nº 81/22 dispõe, em seu artigo 6º, que o anúncio de convocação deve listar os
 
 documentos exigidos para que os acionistas sejam admitidos à assembleia.
 
 É vedado à companhia condicionar o exercício de direitos pelo acionista em assembleia à apresentação
 
-de documentos para comprovação de circunstâncias relacionadas à titularidade das ações , que possam
+de documentos para comprovação de circunstâncias relacionadas à titularidade das ações, que possam
 
 ser objetivamente verificadas com base nos registros de titularidade já detidos por ela, inclusive aqueles
 
-que lhes tenham sido transmitidos pelo depositário central e pelo escriturador, nos termos do art igo 6º,
+que lhes tenham sido transmitidos pelo depositário central e pelo escriturador, nos termos do artigo 6º,
 
 parágrafo 5º, da mencionada Resolução.
 
@@ -11372,7 +11568,7 @@ estabelecido pela companhia configura infração à Lei nº 6.404/76 e ao artigo
 
 81/22.
 
-Em reunião realizada em 24 .06.2008 ( Processo CVM nº RJ2008/1794)29, o Colegiado da CVM emitiu
+Em reunião realizada em 24.06.2008 (Processo CVM nº RJ2008/1794)29, o Colegiado da CVM emitiu
 
 entendimento no sentido de que, embora a Lei nº 6.404/76 condicione a representação dos acionistas à
 
@@ -11388,19 +11584,19 @@ a seus representantes.
 
 29 Vide http://conteudo.cvm.gov.br/decisoes/2008/20080624_R1/20080624_D02.html.
 
+143
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-144
-
 O Colegiado entendeu também que nada obsta que as procurações possam ser outorgadas por meio
 
 eletrônico, dado, inclusive, que a Medida Provisória nº 2200-2/01 expressamente reconhece a validade
 
-jurídica dos documentos assinados por meio eletrônico. De acordo com a decisão, pode -se utilizar para
+jurídica dos documentos assinados por meio eletrônico. De acordo com a decisão, pode-se utilizar para
 
 esta finalidade qualquer mecanismo que assegure a autoria e a integridade das procurações por meio
 
@@ -11448,15 +11644,25 @@ identificação das pessoas físicas ou jurídicas que promoveram, organizaram o
 
 procuração, ainda que parcialmente, deverão ser encaminhadas à CVM, na data de início da realização do
 
-pedido, por meio do Sistema Empresas.NET, categoria “Assembleia”, tipo “AGO”, “AGO/E”, “AGE” ou
+pedido, por meio do Sistema Empresas.NET, categoria “Assembleia”, tipo “AGO”
 
-“AGESP”, conforme o caso, espécie “Material referente a pedidos públicos de procuração”.
+,
+
+“AGO/E”
+
+“AGE” ou
+
+,
+
+“AGESP”, conforme o caso, espécie “Material referente a pedidos públicos de procuração”
+
+.
 
 Para que esta obrigação possa ser cumprida, os acionistas interessados deverão encaminhar o pedido
 
 público de procuração, acompanhado de todas as informações exigidas no artigo 51 da Resolução CVM
 
-nº 81/22, ao DRI até o dia útil anterior à data de início da realização do pedido ( artigo 54, parágrafo 1º,
+nº 81/22, ao DRI até o dia útil anterior à data de início da realização do pedido (artigo 54, parágrafo 1º,
 
 da mesma Resolução).
 
@@ -11468,13 +11674,13 @@ a) indicar um procurador para votar a favor, um procurador para se abster e outr
 
 votar contra cada uma das propostas objeto do pedido;
 
+144
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-145
 
 b) indicar expressamente a forma como o procurador deve votar em relação a cada uma das
 
@@ -11542,15 +11748,17 @@ não estará obrigada a ressarcir os acionistas das despesas incorridas com a re
 
 de procuração para exercício do direito de voto (artigo 60 da Resolução CVM nº 81/22).
 
-Cabe ressaltar que as companhias que adotarem o voto a distância , nos termos da Resolução CVM nº
+Cabe ressaltar que as companhias que adotarem o voto a distância, nos termos da Resolução CVM nº
 
 81/22, e que desejarem realizar pedido público de procuração devem divulgar, em conjunto com a
 
-comunicação ao mercado de sua intenção de realizar o referido pedido ( artigo 55 da Resolução CVM nº
+comunicação ao mercado de sua intenção de realizar o referido pedido (artigo 55 da Resolução CVM nº
 
 81/22), todas as solicitações válidas de inclusão de propostas e de candidatos até então recebidas,
 
 conforme artigo 41 da Resolução CVM nº 81/22 (vide item 7.2).
+
+145
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -11558,21 +11766,19 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-146
-
 7.1.3 Solicitação de relação de endereços de acionistas (artigo 126,
 
 parágrafo 3º, da Lei nº 6.404/76)
 
-A finalidade do acesso à lista de endereços do art igo 126, parágrafo 3º, da Lei nº 6.404/76 é permitir a
+A finalidade do acesso à lista de endereços do artigo 126, parágrafo 3º, da Lei nº 6.404/76 é permitir a
 
 representação de acionistas por procuração em assembleias, independentemente da prévia solicitação
 
 de procuração pela própria companhia, aumentando as possibilidades de organização de acionistas não
 
-controladores, visando ao exercício do direi to de voto. Caso o acionista queira obter os endereços dos
+controladores, visando ao exercício do direito de voto. Caso o acionista queira obter os endereços dos
 
-demais acionistas para alguma outra finalidade que não a de contatá -los para representá -los em
+demais acionistas para alguma outra finalidade que não a de contatá-los para representá-los em
 
 assembleia, valendo-se de procurações, o artigo 126 não poderá ser invocado.
 
@@ -11590,7 +11796,7 @@ de voto, também disciplina a matéria.
 
 De acordo com a Resolução, os pedidos de relação de endereços formulados por acionistas detentores de
 
-0,5% (meio por cento) ou mais do capital social da companhia aberta, funda mentados no art igo 126,
+0,5% (meio por cento) ou mais do capital social da companhia aberta, fundamentados no artigo 126,
 
 parágrafo 3º, da Lei nº 6.404/76, devem ser atendidos pela companhia dentro de, no máximo, 3 (três) dias
 
@@ -11598,7 +11804,7 @@ parágrafo 3º, da Lei nº 6.404/76, devem ser atendidos pela companhia dentro d
 
 fornecimento da relação de acionistas; ou (c) condicionar o deferimento do pedido ao cumprimento de
 
-quaisquer formalidades ou à apresentação de quaisquer documentos não previsto s no parágrafo 2º do
+quaisquer formalidades ou à apresentação de quaisquer documentos não previstos no parágrafo 2º do
 
 artigo 126, quais sejam: (i) conter todos os elementos informativos necessários ao exercício do voto
 
@@ -11608,7 +11814,7 @@ para o exercício desse voto; e (iii) ser dirigido a todos os titulares de açõ
 
 cadastros da companhia.
 
-Ainda segundo determina a Resolução CVM nº 81/22 , a relação de endereços deverá listar todos os
+Ainda segundo determina a Resolução CVM nº 81/22, a relação de endereços deverá listar todos os
 
 acionistas em ordem decrescente, conforme o respectivo número de ações, sendo desnecessário
 
@@ -11622,11 +11828,13 @@ acionistas não controladores, configura violação do direito previsto no pará
 
 nº 6.404/76, conforme entendimento exarado pela SEP no âmbito do Processo CVM nº
 
-19957.000786/2021-2730.
+19957.000786/2021-2730
+
+.
 
 7.1.4 Instalação do conselho fiscal e eleição de seus membros
 
-A Lei nº 6.404/76 estabeleceu, no art igo 161, parágrafo 4º, alínea “a”, que os titulares de ações
+A Lei nº 6.404/76 estabeleceu, no artigo 161, parágrafo 4º, alínea “a”, que os titulares de ações
 
 preferenciais sem direito a voto ou com voto restrito terão direito de eleger, em votação em separado,
 
@@ -11636,27 +11844,29 @@ em conjunto, dez por cento ou mais das ações com direito a voto.
 
 30 Vide https://conteudo.cvm.gov.br/decisoes/2022/20220315_R1/20220315_D2500.html.
 
+146
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-147
-
-O ar tigo 240 da Lei nº 6.404/76 também assegura que o funcionamento do conselho fiscal será
+O artigo 240 da Lei nº 6.404/76 também assegura que o funcionamento do conselho fiscal será
 
 permanente nas sociedades de economia mista e que um dos seus membros, e respectivo suplente, será
 
 eleito pelas ações ordinárias minoritárias e outro pelas ações preferenciais, se houver.
 
-Ao interpretar o artigo 161, parágrafo 4º, alínea “a”, da Lei nº 6.404/76, a CVM expôs, por meio do Parecer
+Ao interpretar o artigo 161, parágrafo 4º, alínea “a”
+
+, da Lei nº 6.404/76, a CVM expôs, por meio do Parecer
 
 de Orientação CVM nº 19/90, que para não se tornar meramente nominal o direito atribuído por ele aos
 
 preferencialistas, deve-se entender que, da votação em separado desses acionistas para a eleição de seu
 
-representante no conselho fiscal , não poderão participar os acionistas controladores, ainda que
+representante no conselho fiscal, não poderão participar os acionistas controladores, ainda que
 
 detentores também de ações preferenciais. Tal participação, se admitida, redundaria em cerceamento
 
@@ -11682,9 +11892,11 @@ em separado de membros do conselho fiscal prevista no artigo 161, parágrafo 4º
 
 na vaga dos preferencialistas, seja na vaga dos minoritários. Nesse sentido, vide a decisão do Colegiado
 
-da CVM proferida no PAS CVM nº 11/12, em sessão de julgamento ocorrida em 02.12.201431.
+da CVM proferida no PAS CVM nº 11/12, em sessão de julgamento ocorrida em 02.12.201431
 
-Os precedentes da CVM têm afirmado que , para determinar se as entidades fechadas de previdência
+.
+
+Os precedentes da CVM têm afirmado que, para determinar se as entidades fechadas de previdência
 
 complementar podem participar da eleição em separado de membros do conselho fiscal para as
 
@@ -11692,7 +11904,7 @@ companhias que estejam sujeitas a influência dominante de seu patrocinador ou d
 
 diretos e indiretos de seu patrocinador, é preciso uma análise da governança da própria entidade.
 
-Desta forma, conforme já afirmado no voto do Presidente -Relator Marcelo Trindade no PAS CVM nº
+Desta forma, conforme já afirmado no voto do Presidente-Relator Marcelo Trindade no PAS CVM nº
 
 07/0532, o impedimento de voto estende-se às entidades de previdência complementar patrocinadas pela
 
@@ -11718,13 +11930,13 @@ companhia, será levada em conta, principalmente, a estrutura de governança de 
 
 32 Vide http://conteudo.cvm.gov.br/sancionadores/sancionador/2007/20070424_0705.html.
 
+147
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-148
 
 Nesse sentido, de acordo com a decisão exarada no Processo CVM nº 19957.000800/2024-3533, a
 
@@ -11760,7 +11972,7 @@ decida por votar na eleição em separado, deverá estar apta a apresentar, se q
 
 assembleia, elementos que permitam demonstrar que não houve a citada influência.
 
-Conforme dispõe o parágrafo 2º do artigo 161 da Lei nº 6.404/76, o conselho fiscal , quando o
+Conforme dispõe o parágrafo 2º do artigo 161 da Lei nº 6.404/76, o conselho fiscal, quando o
 
 funcionamento não for permanente, será instalado pela assembleia geral a pedido de acionistas que
 
@@ -11772,7 +11984,7 @@ após a sua instalação.
 
 A Resolução CVM nº 70/22 fixa escala reduzindo, em função do capital social, as porcentagens mínimas
 
-de participação acionária necessárias ao pedido de instalação de conselho fiscal de companhia aberta ,
+de participação acionária necessárias ao pedido de instalação de conselho fiscal de companhia aberta,
 
 previsto no parágrafo 2º do artigo 161 da Lei nº 6.404/76.
 
@@ -11780,7 +11992,7 @@ Assim, o acionista minoritário tem o direito de requerer, em assembleia geral, 
 
 fiscal, observado o quórum especial de instalação previsto na Resolução CVM nº 70/22.
 
-Aprovada a instalação, torna-se obrigatória a eleição de seus membros 35. No entanto, o percentual de
+Aprovada a instalação, torna-se obrigatória a eleição de seus membros35. No entanto, o percentual de
 
 participação acionária para eleição em separado, de que trata o parágrafo 4º, alínea “a”, do artigo 161 da
 
@@ -11796,13 +12008,13 @@ previstas no artigo 291 da mesma Lei.
 
 http://conteudo.cvm.gov.br/decisoes/2008/20080311_R1/20080311_D01.html.
 
+148
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-149
 
 Em função disso, nos casos em que (i) não haja acionistas não controladores detentores de ações
 
@@ -11816,11 +12028,11 @@ acionista controlador não é obrigado a participar da eleição dos membros do 
 
 mencionada, e se não o fizer todos os conselheiros serão eleitos pelo voto dos demais acionistas, qualquer
 
-que seja sua participação no capital, pois o Conselho estará instalado ( artigo 161, parágrafo 2º), sendo
+que seja sua participação no capital, pois o Conselho estará instalado (artigo 161, parágrafo 2º), sendo
 
 obrigatória a eleição de seus membros (artigo 161, parágrafo 4º).
 
-Dessa forma, uma vez instalado o conselho fiscal, a eleição de membros torna -se obrigatória. Seria
+Dessa forma, uma vez instalado o conselho fiscal, a eleição de membros torna-se obrigatória. Seria
 
 recomendável, portanto, a fim de viabilizar a eleição, a orientação aos acionistas minoritários,
 
@@ -11830,7 +12042,7 @@ Outrossim, cumpre destacar o entendimento emitido pelo Colegiado da CVM nas reun
 
 06.05.200837 e de 23.09.200838 (Processo CVM nº RJ2007/11086), no sentido de que o requisito de “10%
 
-ou mais das ações com direito a voto ” previsto no artigo 161, parágrafo 4º não se refere ao número de
+ou mais das ações com direito a voto” previsto no artigo 161, parágrafo 4º não se refere ao número de
 
 ações que o minoritário presente à assembleia precisa deter para eleger, em votação em separado, um
 
@@ -11862,7 +12074,9 @@ os acionistas possam deliberar a respeito da matéria.
 
 No que concerne à indicação de candidatos para eleição ao conselho de administração, cabe destacar a
 
-decisão do Colegiado da CVM, emanada no âmbito do Processo CVM nº 19957.004466/2018-4139, que,
+decisão do Colegiado da CVM, emanada no âmbito do Processo CVM nº 19957.004466/2018-4139
+
+, que,
 
 por maioria, entendeu que as vedações do artigo 17, parágrafo 2º, da Lei nº 13.303/16 também são
 
@@ -11880,13 +12094,13 @@ http://conteudo.cvm.gov.br/decisoes/2008/20080311_R1/20080311_D01.html.
 
 39 Vide http://conteudo.cvm.gov.br/decisoes/2018/20180426_R1/20180426_D1021.html.
 
+149
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-150
 
 Ainda quanto às vedações previstas no mencionado artigo 17, no âmbito do Processo CVM nº
 
@@ -11938,13 +12152,13 @@ a necessidade de experiência em atividades fins da companhia, que dependem de t
 
 sobre o segmento de mercado específico, e as “atribuições” do cargo indicado; e (c) a possível
 
-diferença de “atribuições” entre pro fissionais que atuam em companhias com “porte”
+diferença de “atribuições” entre profissionais que atuam em companhias com “porte”
 
 diferentes; e
 
 (vi) por último, nas reflexões para a verificação casuística da conexão entre as experiências
 
-pregressas e as expertises que serão exigidas do ocupante do cargo, deve -se levar em
+pregressas e as expertises que serão exigidas do ocupante do cargo, deve-se levar em
 
 consideração a intenção da Lei das Estatais no sentido de aprimorar e melhorar as regras de
 
@@ -11956,7 +12170,7 @@ por eles exercidos.
 
 No tocante a sociedades de economia mista, tendo em vista o posicionamento da SEP firmado no âmbito
 
-do Processo CVM nº 19957 .004086/2019-97, uma sociedade de economia mista criada no âmbito
+do Processo CVM nº 19957.004086/2019-97, uma sociedade de economia mista criada no âmbito
 
 estadual, a despeito de ser controlada por um estado membro da União, não pode indicar para cargos de
 
@@ -11966,13 +12180,13 @@ e afins dessas pessoas até o terceiro grau.
 
 40 Vide https://conteudo.cvm.gov.br/decisoes/2024/20240416_R1/20240416_D2845.html.
 
+150
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-151
 
 Em linha com o disposto no artigo 7º, inciso II, da Resolução CVM nº 81/22, para aquelas companhias que
 
@@ -11986,13 +12200,13 @@ administração ou pelos acionistas controladores por força do artigo 11 da Res
 
 Cabe destacar o entendimento do Colegiado da CVM em resposta à consulta da SEP apreciada em reunião
 
-de 21.01.2020 41 (Processo CVM nº 19957 .006786/2018-35), no sentido de que acionistas minoritários
+de 21.01.202041 (Processo CVM nº 19957.006786/2018-35), no sentido de que acionistas minoritários
 
 vinculados ao controlador ou sob sua influência determinante não podem solicitar a inclusão, nem
 
 contribuir com suas ações para, em conjunto com outros acionistas, perfazer o percentual mínimo
 
-necessário para a inclusão, no boletim de voto a distância , de candidatos para concorrer a vagas no
+necessário para a inclusão, no boletim de voto a distância, de candidatos para concorrer a vagas no
 
 conselho de administração e no conselho fiscal a serem preenchidas em eleição em separado reservada
 
@@ -12000,7 +12214,7 @@ aos acionistas minoritários.
 
 No caso de companhias com depositary receipts negociados no exterior (como é o caso de ADRs), salienta-
 
-se que, em sendo possível o exercício de voto pelos titulares de DRs , afigura -se necessário que tal
+se que, em sendo possível o exercício de voto pelos titulares de DRs, afigura-se necessário que tal
 
 prerrogativa seja exercida no máximo grau de igualdade possível com os acionistas.
 
@@ -12040,13 +12254,13 @@ III, da Lei nº 6.404/76, através de seu representante eleito.
 
 41 Vide http://conteudo.cvm.gov.br/decisoes/2020/20200121_R1/20200121_D1112.html.
 
+151
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-152
 
 7.1.5 Eleição de membros do conselho de administração
 
@@ -12116,13 +12330,13 @@ nos termos da lei, ou adotar a votação em separado, desistindo assim do pedido
 
 prejuízo de, se for o caso, ambos os procedimentos serem adotados.
 
+152
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-153
 
 Na mesma linha, o Colegiado da CVM entende ser importante reforçar que, procedimentalmente, se na
 
@@ -12134,7 +12348,7 @@ voto múltiplo, pois somente após a realização da votação em separado será
 
 de vagas remanescentes e, assim, calcular o coeficiente do voto múltiplo.
 
-O Colegiado da CVM, em reunião ocorrida em 04 .11.2014 (Processos CVM nº RJ2013/4386 e
+O Colegiado da CVM, em reunião ocorrida em 04.11.2014 (Processos CVM nº RJ2013/4386 e
 
 RJ2013/4607)42, entendeu que as ações mantidas em tesouraria devem ser excluídas do número total de
 
@@ -12142,7 +12356,7 @@ ações ou do número total de ações com direito a voto, conforme o caso, para
 
 percentuais indicados no artigo 141, parágrafos 4º e 5º, da Lei nº 6.404/76.
 
-No âmbito do Processo 19957.004239/2022 -0043, o Colegiado da CVM, em discussão iniciada em
+No âmbito do Processo 19957.004239/2022-0043, o Colegiado da CVM, em discussão iniciada em
 
 08.08.2023 e finalizada em 05.12.2023, por maioria, entendeu que “a manifestação de vontade de
 
@@ -12154,7 +12368,7 @@ de atingimento do quórum combinado do parágrafo 5º do artigo 141 da LSA”.
 
 Assim, para o acionista poder optar por agregar seus votos aos dos acionistas de outras classes (artigo
 
-141, parágrafo 5º , da Lei nº 6.404/76 ), este deve também, no boletim de voto a distância , solicitar a
+141, parágrafo 5º, da Lei nº 6.404/76), este deve também, no boletim de voto a distância, solicitar a
 
 eleição em separado nos termos do artigo 141, parágrafo 4º, incisos I e II, da Lei nº 6.404/76.
 
@@ -12168,7 +12382,7 @@ O objetivo da introdução do mecanismo de votação em separado para a eleiçã
 
 acionistas preferencialistas e minoritários nos conselhos fiscal e de administração tem como objetivo
 
-tornar o órgão efetivamente representativo, o que contri bui para a boa governança das companhias
+tornar o órgão efetivamente representativo, o que contribui para a boa governança das companhias
 
 abertas.
 
@@ -12188,7 +12402,9 @@ direta ou indireta, pelo acionista controlador ou por entidades em que ele, dire
 
 exerça influência determinante. Nesse sentido, vide a decisão do Colegiado da CVM proferida no PAS CVM
 
-nº 11/12, em sessão de julgamento ocorrida em 02.12.201444.
+nº 11/12, em sessão de julgamento ocorrida em 02.12.201444
+
+.
 
 42 Vide http://conteudo.cvm.gov.br/decisoes/2014/20141104_R1/20141104_D16.html.
 
@@ -12196,17 +12412,17 @@ nº 11/12, em sessão de julgamento ocorrida em 02.12.201444.
 
 44 Vide http://conteudo.cvm.gov.br/sancionadores/sancionador/2014/20141202_PAS_112012.html.
 
+153
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-154
-
 A SEP compreende que o entendimento firmado no voto do Presidente-Relator Marcelo Trindade no PAS
 
-CVM nº 07/05 45 (vide item 7.1.4) também se aplica nas eleições de membros para o conselho de
+CVM nº 07/0545 (vide item 7.1.4) também se aplica nas eleições de membros para o conselho de
 
 administração de que tratam os artigos 141, parágrafos 4º e 5º, e 239 da Lei nº 6.404/76. Desse modo, na
 
@@ -12220,7 +12436,9 @@ acionista.
 
 Nesse aspecto, vale ressaltar o voto do Presidente-Relator Marcelo Barbosa no PAS 19957.011244/2019-
 
-6546, em sessão de julgamento ocorrida em 14.07.2020, que traz entendimento no sentido de que, no
+6546
+
+, em sessão de julgamento ocorrida em 14.07.2020, que traz entendimento no sentido de que, no
 
 caso específico de entidades de previdência, “de acordo com o reiterado posicionamento deste Colegiado,
 
@@ -12230,19 +12448,21 @@ administração seja nomeada pelo seu patrocinador, exceto se tal entidade possu
 
 governança que impeçam que o patrocinador influencie, direta ou indiretamente, na decisão sobre a
 
-escolha do candidato”.
+escolha do candidato”
 
-Não obstante, independente de tratar -se de entidades de previdência, para fins de determinar a
+.
 
-existência da mencionada influência, não se deve ater apenas à busca p ela formalização de vínculos
+Não obstante, independente de tratar-se de entidades de previdência, para fins de determinar a
 
-societários entre o controlador e o acionista que pretende votar na eleição em separado , mas sim em
+existência da mencionada influência, não se deve ater apenas à busca pela formalização de vínculos
+
+societários entre o controlador e o acionista que pretende votar na eleição em separado, mas sim em
 
 quaisquer aspectos que, por si só ou conjuntamente, possam levar à conclusão de que a mencionada
 
 influência do controlador não esteja presente.
 
-Este entendimento se faz claro quando, a inda no julgamento do PAS 19957.011244/2019-65, o Relator-
+Este entendimento se faz claro quando, ainda no julgamento do PAS 19957.011244/2019-65, o Relator-
 
 Presidente afirma em seu voto que “independentemente da formalização da influência sobre os órgãos
 
@@ -12252,7 +12472,7 @@ importante também levar em conta o histórico dos posicionamentos do acionista 
 
 do controlador. Embora tal histórico não sirva, por si só, para evidenciar relação de subordinação ou
 
-influência relevante, quando considerado ao lado de outros indícios substancia is, pode ajudar a
+influência relevante, quando considerado ao lado de outros indícios substanciais, pode ajudar a
 
 robustecer o conjunto fático-probatório”.
 
@@ -12268,7 +12488,7 @@ evidente, em cada caso, que há a influência determinante do controlador ou do 
 
 de voto da entidade de previdência privada complementar.
 
-O presidente da mesa, após avaliar e concluir que não resta evidente a influência do controlador , deve
+O presidente da mesa, após avaliar e concluir que não resta evidente a influência do controlador, deve
 
 chamar a atenção na assembleia (deixando, inclusive, consignado na respectiva ata) para o entendimento
 
@@ -12286,21 +12506,23 @@ assembleia, elementos que permitam demonstrar que não houve a citada influênci
 
 47 Vide http://conteudo.cvm.gov.br/decisoes/2010/20100909_R1/20100909_D09.html.
 
+154
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-155
-
 Ainda com relação à eleição de conselheiros de administração pelos acionistas não controladores,
 
-ressalta-se que na reunião realizada em 11 .04.200648, o Colegiado da CVM deliberou manter a
+ressalta-se que na reunião realizada em 11.04.200648, o Colegiado da CVM deliberou manter a
 
-interpretação do artigo 141, parágrafo 5º, da Lei nº 6.404/76 dada na reunião de 08 .11.2005 (Processo
+interpretação do artigo 141, parágrafo 5º, da Lei nº 6.404/76 dada na reunião de 08.11.2005 (Processo
 
-CVM nº RJ2005/5664)49, que, nos casos em que a companhia somente tenha emitido ações com direito a
+CVM nº RJ2005/5664)49
+
+, que, nos casos em que a companhia somente tenha emitido ações com direito a
 
 voto, terão direito de eleger e destituir um membro e seu suplente do conselho de administração, em
 
@@ -12310,17 +12532,19 @@ detenham pelo menos 10% do total de ações com direito a voto.
 
 Nos casos em que um acionista requer a adoção do procedimento de voto múltiplo para eleição de
 
-membros do conselho de administração , chama-se atenção para a possibilidade de que esse acionista
+membros do conselho de administração, chama-se atenção para a possibilidade de que esse acionista
 
 retire o pedido formulado a qualquer tempo, inclusive na própria assembleia, conforme decidido no
 
-Processo CVM nº 19957.003630/2018-0150. Por isso, é recomendado que acionistas que tenham interesse
+Processo CVM nº 19957.003630/2018-0150
+
+. Por isso, é recomendado que acionistas que tenham interesse
 
 na eleição por meio de voto múltiplo apresentem seus próprios pedidos para adoção de tal procedimento,
 
 independentemente de pedidos similares anteriores que tenham sido formulados por outros acionistas.
 
-Desse modo, mesmo que um pedido anterior ve nha a ser retirado pelo acionista que o formulou, o
+Desse modo, mesmo que um pedido anterior venha a ser retirado pelo acionista que o formulou, o
 
 procedimento de voto múltiplo ainda deverá ser observado.
 
@@ -12328,7 +12552,7 @@ O artigo 239 da Lei nº 6.404/76, especificamente voltado para as sociedades de 
 
 aos titulares de ações ordinárias não controladores dessas sociedades, independentemente da
 
-participação acionária que detenham, eleger em um membro do conselho de administração , se maior
+participação acionária que detenham, elegerem um membro do conselho de administração, se maior
 
 número não lhes couber pelo processo de voto múltiplo previsto no artigo 141 da Lei. Desse modo, a
 
@@ -12358,7 +12582,7 @@ Note-se que o artigo 147, parágrafo 1º, da Lei nº 6.404/76 enumera determinad
 
 inelegibilidade para cargos de administração, incluindo os casos previstos em lei especial. Diante disso, e
 
-tendo em vista especificamente a situação das sociedades de economia mista de capital aberto, chama -
+tendo em vista especificamente a situação das sociedades de economia mista de capital aberto, chama-
 
 se atenção para as hipóteses de inelegibilidade previstas no artigo 17, parágrafo 2º, da Lei nº 13.303/16.
 
@@ -12370,13 +12594,13 @@ se atenção para as hipóteses de inelegibilidade previstas no artigo 17, pará
 
 51 Vide https://conteudo.cvm.gov.br/decisoes/2015/20150407_R1/20150407_D9116.html.
 
+155
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-156
 
 A esse respeito, além de observar, na eleição de seus próprios administradores, as hipóteses de
 
@@ -12396,7 +12620,7 @@ se também para membros do comitê estatutário de indicação e avaliação pre
 
 Lei.
 
-Ademais, tendo em vista o posicionamen to da SEP firmado no âmbito do Processo CVM nº
+Ademais, tendo em vista o posicionamento da SEP firmado no âmbito do Processo CVM nº
 
 19957.004086/2019-97, uma sociedade de economia mista criada no âmbito estadual, a despeito de ser
 
@@ -12420,7 +12644,7 @@ atividade privada [e dispensar a quem haja ocupado cargo ou emprego do âmbito d
 
 Federal de cumprir o impedimento a que se refere o inciso II do artigo 6º], quando verificada a inexistência
 
-de conflito de interesses ou sua irrelevância ”; e (ii) “manifestar-se sobre a existência ou não de conflito
+de conflito de interesses ou sua irrelevância”; e (ii) “manifestar-se sobre a existência ou não de conflito
 
 de interesses nas consultas a elas submetidas" (artigo 8º, incisos IV, V e VI), recomenda-se que, havendo
 
@@ -12444,7 +12668,7 @@ encaminhados até a data da publicação do primeiro anúncio de convocação, e
 
 Destaca-se que a Resolução CVM nº 81/22, dispõe que sempre que a assembleia geral for convocada para
 
-eleger administradores ou membros do conselho fiscal , a companhia deve fornecer, no mínimo, as
+eleger administradores ou membros do conselho fiscal, a companhia deve fornecer, no mínimo, as
 
 informações requeridas para os itens 7.3 a 7.6 do formulário de referência, relativamente aos candidatos
 
@@ -12454,19 +12678,19 @@ indicados ou apoiados pela administração ou pelos acionistas controladores (vi
 
 53Vide http://conteudo.cvm.gov.br/decisoes/2018/20180105_R1/20180105_D0870.html.
 
+156
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-157
-
 Com relação às companhias abertas registradas na categoria B, cabe ressaltar que, nos termos do artigo
 
-133, inciso V, da Lei nº 6.404/76 (no caso da AGO) , do parágrafo 3º do artigo 135 da Lei nº 6.404/76 (no
+133, inciso V, da Lei nº 6.404/76 (no caso da AGO), do parágrafo 3º do artigo 135 da Lei nº 6.404/76 (no
 
-caso da AGO) e do artigo 22, inciso VII , e artigo 34, inciso II, ambos da Resolução CVM nº 80/22 , é
+caso da AGO) e do artigo 22, inciso VII, e artigo 34, inciso II, ambos da Resolução CVM nº 80/22, é
 
 obrigatório o envio de todos os documentos necessários ao exercício do direito de voto nas assembleias
 
@@ -12486,7 +12710,7 @@ Resolução CVM nº 81/22.
 
 No caso de companhias com depositary receipts negociados no exterior (como é o caso de ADRs), salienta-
 
-se que, em sendo possível o exercício de voto pelos titulares de DR, afigura -se necessário que tal
+se que, em sendo possível o exercício de voto pelos titulares de DR, afigura-se necessário que tal
 
 prerrogativa seja exercida no máximo grau de igualdade possível com os acionistas.
 
@@ -12528,7 +12752,7 @@ minoritários vinculados ao controlador ou sob sua influência determinante não
 
 nem contribuir com suas ações para, em conjunto com outros acionistas, perfazer o percentual mínimo
 
-necessário para a i nclusão, no boletim de voto a distância , de candidatos para concorrer a vagas no
+necessário para a inclusão, no boletim de voto a distância, de candidatos para concorrer a vagas no
 
 conselho de administração e no conselho fiscal a serem preenchidas em eleição em separado reservada
 
@@ -12540,15 +12764,17 @@ empregados de sociedades de economia mista, a decisão do Colegiado da CVM, exar
 
 54 Vide http://conteudo.cvm.gov.br/decisoes/2020/20200121_R1/20200121_D1112.html.
 
+157
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-158
+Processo CVM nº 19957.011059/2019-7155
 
-Processo CVM nº 19957.011059/2019-7155, em reunião ocorrida em 22.09.2020, no sentido de que esses
+, em reunião ocorrida em 22.09.2020, no sentido de que esses
 
 membros estariam impedidos de atuar em deliberações do conselho de administração que digam respeito
 
@@ -12566,11 +12792,11 @@ Lei nº 14.195, de 26.08.2021, na Lei nº 6.404/76, notadamente no que se refere
 
 artigo 138 e ao parágrafo 2º do artigo 140, que, respectivamente, atribuem competência regulamentar à
 
-CVM para: ( a) excepcionar as companhias de menor porte da vedação à acumulação do cargo de
+CVM para: (a) excepcionar as companhias de menor porte da vedação à acumulação do cargo de
 
-presidente do conselho de administração e do cargo de diretor -presidente ou principal executivo da
+presidente do conselho de administração e do cargo de diretor-presidente ou principal executivo da
 
-companhia; e ( b) estabelecer os termos e prazos em que deve se dar obrigatória participação de
+companhia; e (b) estabelecer os termos e prazos em que deve se dar obrigatória participação de
 
 conselheiros independentes no conselho de administração de companhias abertas. Tal regulamentação
 
@@ -12606,7 +12832,7 @@ conselheiros. O parágrafo 1º do artigo 6º estabelecem os casos objetivos em q
 
 O artigo 7º estabelece que a caracterização do indicado ao conselho de administração como conselheiro
 
-independente deve ser deliberada pela assembleia geral . O parágrafo único do mesmo artigo prevê que
+independente deve ser deliberada pela assembleia geral. O parágrafo único do mesmo artigo prevê que
 
 a assembleia geral não deliberará sobre o enquadramento de indicado ao conselho de administração
 
@@ -12620,7 +12846,7 @@ Ao tomar posse, o conselheiro de administração de companhia aberta deve, além
 
 posse, apresentar declaração em instrumento próprio, que ficará arquivado na sede da companhia, nos
 
-termos do artigo 2 º do Anexo K da Resolução CVM nº 80/22. Além disso, o acionista que submeter à
+termos do artigo 2º do Anexo K da Resolução CVM nº 80/22. Além disso, o acionista que submeter à
 
 assembleia geral indicação de membro do conselho de administração deve, no mesmo ato, apresentar
 
@@ -12628,21 +12854,21 @@ cópia do instrumento de declaração de que trata o artigo 2º, ou declarar que
 
 55 Vide https://conteudo.cvm.gov.br/decisoes/2020/20200922_R1/20200922_D1879.html.
 
+158
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-159
-
-informação de que está em condições de firmar tal instrumento, indicando as eventuais ressalvas ,
+informação de que está em condições de firmar tal instrumento, indicando as eventuais ressalvas,
 
 observado o disposto no parágrafo 1º.
 
-De acordo com o art igo 150 da Lei nº 6.404/76, no caso de vacância do cargo de conselheiro (seja ele
+De acordo com o artigo 150 da Lei nº 6.404/76, no caso de vacância do cargo de conselheiro (seja ele
 
-independente ou não), salvo disposição em contrário do estatuto, o subst ituto será nomeado pelos
+independente ou não), salvo disposição em contrário do estatuto, o substituto será nomeado pelos
 
 conselheiros remanescentes e servirá até a primeira assembleia geral.
 
@@ -12652,11 +12878,11 @@ conselho, entende-se que o substituto escolhido deverá preencher também os req
 
 nos artigos 6º e 7º do Anexo K à Resolução CVM nº 80/22.
 
-Em caso de inobservância do exposto acima, sem prejuízo de outras sanções administra tivas
+Em caso de inobservância do exposto acima, sem prejuízo de outras sanções administrativas
 
-eventualmente aplicáveis, entende -se que os administradores da companhia poderão responder por
+eventualmente aplicáveis, entende-se que os administradores da companhia poderão responder por
 
-infração aos artigos 140, parágrafo 2º, e 150 da Lei nº 6.404/76, bem como ao parágrafo único do art igo
+infração aos artigos 140, parágrafo 2º, e 150 da Lei nº 6.404/76, bem como ao parágrafo único do artigo
 
 5º do Anexo K à Resolução CVM nº 80/22.
 
@@ -12706,13 +12932,13 @@ adote o voto plural para constituição de nova companhia com adoção de voto p
 
 A Resolução CVM nº 168/22 acrescentou a Seção IV na Resolução CVM nº 80/22 para tratar desse tema.
 
+159
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-160
 
 7.2 Voto a distância – Resolução CVM nº 81/22
 
@@ -12720,7 +12946,7 @@ Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
 Atualmente, as Resoluções CVM nº 80/22 e 81/22 regulamentam a participação e a votação a distância
 
-de acionistas em assembleias gerais de companhias abertas , de modo a facilitar a participação em
+de acionistas em assembleias gerais de companhias abertas, de modo a facilitar a participação em
 
 assembleia e o exercício de determinados direitos pelos acionistas não controladores.
 
@@ -12770,7 +12996,7 @@ de voto a distância.
 
 Esse documento reúne todas as propostas de deliberação incluídas na ordem do dia das assembleias a
 
-que se aplica, tenham elas sido incluídas pelos acionistas controladores , pela administração ou pelos
+que se aplica, tenham elas sido incluídas pelos acionistas controladores, pela administração ou pelos
 
 acionistas não controladores. Permite, ainda, que os acionistas indiquem se desejam utilizar suas ações
 
@@ -12784,13 +13010,13 @@ Desse modo, o boletim de voto a distância procura funcionar não só como um in
 
 mas também de articulação entre os acionistas.
 
+160
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-161
 
 O boletim de voto a distância é um documento eletrônico cuja forma reflete o Anexo M da Resolução
 
@@ -12800,7 +13026,7 @@ CVM nº 81/22 e deve conter (i) todas as matérias constantes da agenda da assem
 
 de prestadores de serviços autorizados; (iii) orientações sobre o seu envio por meio postal ou eletrônico,
 
-quando o acionista desejar enviá -lo diretamente à companhia; e (iv) orientações sobre as formalidades
+quando o acionista desejar enviá-lo diretamente à companhia; e (iv) orientações sobre as formalidades
 
 necessárias para que o voto enviado diretamente à companhia seja considerado válido.
 
@@ -12814,7 +13040,7 @@ detalhada, observadas as demais disposições do artigo 32 da Resolução CVM n�
 
 A redação e a ordem das deliberações nos demais documentos eletrônicos divulgados pela companhia,
 
-como propos ta da administração e manual de participação na assembleia, deverão refletir aquelas
+como proposta da administração e manual de participação na assembleia, deverão refletir aquelas
 
 contidas no boletim de voto a distância.
 
@@ -12822,7 +13048,7 @@ As matérias incluídas nos boletins de voto a distância por solicitação de a
 
 acompanhadas da informação de que sua inclusão se originou da mencionada solicitação.
 
-Recomenda-se que, nas considerações iniciais do manual de participação na assembleia , as companhias
+Recomenda-se que, nas considerações iniciais do manual de participação na assembleia, as companhias
 
 incluam as observações mais importantes sobre as votações. Esses campos iniciais devem ser usados não
 
@@ -12844,7 +13070,9 @@ rede mundial de computadores, deve utilizar o arquivo gerado pelo sistema CICORP
 
 O boletim de voto a distância deve ser disponibilizado pela companhia até 1 (um) mês antes da data
 
-marcada para a realização da assembleia, nos termos do artigo 26, parágrafo 1 º, inciso I da Resolução
+marcada para a realização da assembleia, nos termos do artigo 26, parágrafo 1º
+
+, inciso I da Resolução
 
 CVM nº 81/22, e até 21 (vinte e um) dias antes da data marcada para a assembleia, nos casos não previstos
 
@@ -12870,13 +13098,13 @@ por ele já conferidos a candidatos incluídos no boletim anteriormente divulgad
 
 válidos (artigo 26, parágrafo 4º da Resolução CVM nº 81/22). Na hipótese descrita no item (ii) acima, os
 
+161
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-162
 
 votos já conferidos pelo acionista à proposta afetada devem ser considerados inválidos (artigo 26,
 
@@ -12910,13 +13138,13 @@ no parágrafo 3º-A do artigo 26 da Resolução.
 
 A instrução de voto deverá ser encaminhada pelo acionista (i) diretamente à companhia (por correio
 
-postal ou eletrônico) , observando, se houver, as orientações do anúncio de convocação ou dos demais
+postal ou eletrônico), observando, se houver, as orientações do anúncio de convocação ou dos demais
 
-documentos e informações disponibilizados aos acionistas ; (ii) por transmissão de instruções de
+documentos e informações disponibilizados aos acionistas; (ii) por transmissão de instruções de
 
 preenchimento para prestadores de serviço aptos a prestar serviços de coleta e transmissão de instruções
 
-de preenchimento do boletim de voto a distância : (a) custodiante do acionista , caso as ações estejam
+de preenchimento do boletim de voto a distância: (a) custodiante do acionista, caso as ações estejam
 
 depositadas em depositário central; (b) instituição financeira contratada pela companhia para a prestação
 
@@ -12942,13 +13170,15 @@ nos termos do artigo 34, parágrafo 2º da Resolução CVM nº 81/22.
 
 O boletim de voto a distância deve dar ao acionista a opção de solicitar a instalação do conselho fiscal,
 
-nos termos do art igo 161 da Lei nº 6.404 /76, quando a companhia não tiver um conselho fiscal de
+nos termos do artigo 161 da Lei nº 6.404/76, quando a companhia não tiver um conselho fiscal de
 
 funcionamento permanente.
 
-Caso, por ocasião da realização da assembleia, não haja candidatos ao conselho fiscal , a solicitação de
+Caso, por ocasião da realização da assembleia, não haja candidatos ao conselho fiscal, a solicitação de
 
 instalação do conselho fiscal formulada por meio do boletim de voto a distância fica sem efeito.
+
+162
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -12956,9 +13186,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-163
-
-Os acionistas que desejarem poderão, nos termos do artigo 37 da Resolução CVM nº 81/ 22, realizar
+Os acionistas que desejarem poderão, nos termos do artigo 37 da Resolução CVM nº 81/22, realizar
 
 pedidos de inclusão de propostas no boletim de voto a distância de (i) candidatos ao conselho de
 
@@ -12974,7 +13202,7 @@ boletim de voto a distância as propostas recebidas dos acionistas ou indicar a 
 
 pelos quais tal solicitação não cumpre os requisitos regulamentares, incluindo os casos em que as
 
-solicitações foram recebidas fora dos prazos disciplinados pela Resolução CVM nº 81/ 22 (artigo 39 da
+solicitações foram recebidas fora dos prazos disciplinados pela Resolução CVM nº 81/22 (artigo 39 da
 
 Resolução CVM nº 81/22).
 
@@ -13020,7 +13248,7 @@ Para o cumprimento dos parágrafos 2º e 3º do artigo 37 da Resolução CVM nº
 
 divulgar a data de realização das assembleias gerais por meio do Sistema Empresas.NET, categoria “Aviso
 
-aos Acionistas”, tipo “Data prevista para a Assembl eia Geral”, (i) até os 15 (quinze) primeiros dias do
+aos Acionistas”, tipo “Data prevista para a Assembleia Geral”, (i) até os 15 (quinze) primeiros dias do
 
 exercício social, no caso de AGO, e (ii) em até 7 (sete) dias úteis após a ocorrência do evento que justificou
 
@@ -13030,17 +13258,17 @@ Alternativamente, para fins de cumprimento do disposto no parágrafo 2º do arti
 
 nº 81/22, o emissor pode divulgar a data prevista para a realização da assembleia geral ordinária em seu
 
-calendário de eventos corporativos, a ser divulgad o também por meio do Sistema Empresas.NET, desde
+calendário de eventos corporativos, a ser divulgado também por meio do Sistema Empresas.NET, desde
 
 que este documento seja apresentado nos 15 (quinze) primeiros dias do exercício social.
+
+163
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-164
 
 Nesse sentido, nos termos do parágrafo 2º do artigo 37 da Resolução CVM nº 81/22, caso a companhia
 
@@ -13074,7 +13302,7 @@ detalhada devendo também ser observadas as demais disposições do artigo 38 da
 
 81/22 sobre o assunto.
 
-Conforme previsto no artigo 40 da Resolução CVM nº 81/ 22, a solicitação de inclusão de propostas no
+Conforme previsto no artigo 40 da Resolução CVM nº 81/22, a solicitação de inclusão de propostas no
 
 boletim de voto a distância pode ser revogada a qualquer tempo até a data da realização da assembleia
 
@@ -13092,7 +13320,9 @@ Empresas.NET (categoria “Aviso aos Acionistas”, tipo “Solicitação de aci
 
 Em linha com a decisão do Colegiado da CVM na reunião de 21.01.2020, referente ao Processo CVM nº
 
-19957.006786/2018-3556, fica vedada a possibilidade de acionistas minoritários vinculados ao controlador
+19957.006786/2018-3556
+
+, fica vedada a possibilidade de acionistas minoritários vinculados ao controlador
 
 ou sob sua influência determinante solicitarem a inclusão, ou contribuírem com suas ações para, em
 
@@ -13120,29 +13350,29 @@ questão.
 
 56 Vide http://conteudo.cvm.gov.br/decisoes/2020/20200121_R1/20200121_D1112.html.
 
+164
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-165
+A Procuradoria Especializada da CVM (PFE), no âmbito do Processo CVM nº 19957.003377/2020-00,
 
-A Procuradoria Especializada da CVM (PFE), no âmbito do Processo CVM nº 19957.003377/2020 -00,
+manifestou que “a partir da leitura da Medida Provisória nº 2.200-2, de 25.08.2001, verifica-se que a
 
-manifestou que “a partir da leitura da Medida Provisória nº 2.200 -2, de 25.08.2001, verifica -se que a
-
-Infraestrutura de Chaves Públicas brasileira, designada mais comumente pela sigla ICP -Brasil, é um
+Infraestrutura de Chaves Públicas brasileira, designada mais comumente pela sigla ICP-Brasil, é um
 
 sistema nacional brasileiro de certificação digital, que foi instituído pela Medida Provisória para garantir
 
 a autenticidade, a integridade e a validade jurídica de documentos em forma eletrônica, das aplicações
 
-de su porte e das aplicações habilitadas que utilizem certificados digitais, bem como a realização de
+de suporte e das aplicações habilitadas que utilizem certificados digitais, bem como a realização de
 
 transações eletrônicas seguras”.
 
-Nesse sentido, as companhias não devem exigir , dos acionistas que desejem votar a distância,
+Nesse sentido, as companhias não devem exigir, dos acionistas que desejem votar a distância,
 
 manifestação e entrega de documentos físicos para ratificar a remessa eletrônica dos documentos
 
@@ -13150,7 +13380,7 @@ mencionados no anúncio de convocação da assembleia, nos termos do parágrafo 
 
 Resolução CVM nº 81/22.
 
-Nos termos do art igo 30-A da Resolução CVM nº 81/22, é dispensada a disponibilização do boletim de
+Nos termos do artigo 30-A da Resolução CVM nº 81/22, é dispensada a disponibilização do boletim de
 
 voto a distância, quando cumulativamente verificadas as seguintes condições:
 
@@ -13174,7 +13404,7 @@ trata este artigo, não tenha sido recebido pedido de inclusão no boletim de ca
 
 termos do artigo 37;
 
-IV – a companhia tenha convocado a assembleia na qual pretenda valer -se da dispensa de que trata este I
+IV – a companhia tenha convocado a assembleia na qual pretenda valer-se da dispensa de que trata este I
 
 artigo tenha com ao menos trinta dias de antecedência, indicando expressamente a intenção de não
 
@@ -13194,7 +13424,7 @@ vinte e cinco dias antes da data de realização da assembleia.
 
 Parágrafo 2º: eventuais pedidos de inclusão no boletim de voto a distância de candidatos ao conselho de
 
-administração e ao conselho fiscal ou de proposta de deliberação, nos termos do art igo 37, devem, na
+administração e ao conselho fiscal ou de proposta de deliberação, nos termos do artigo 37, devem, na
 
 hipótese de que trata este artigo, ser apresentados em conjunto com a manifestação referida no parágrafo
 
@@ -13204,13 +13434,13 @@ Parágrafo 3º: na hipótese do parágrafo 1º, a companhia deve apresentar o bo
 
 (dezessete) dias antes da data de realização da assembleia.
 
+165
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-166
 
 7.2.3 Dúvidas frequentes de preenchimento
 
@@ -13266,9 +13496,9 @@ para a realização de eleição em separado, conforme faculta o parágrafo 5º 
 
 Dessa forma, orienta-se que, ante a impossibilidade de inserir no boletim de voto a distância a questão
 
-referente ao item 20 do Anexo M da Resolução CVM nº 81/ 22 em virtude da ausência de candidatos
+referente ao item 20 do Anexo M da Resolução CVM nº 81/22 em virtude da ausência de candidatos
 
-indicados por acionistas preferencialistas, a companhia deverá colocar aos acionistas preferencialistas ,
+indicados por acionistas preferencialistas, a companhia deverá colocar aos acionistas preferencialistas,
 
 por meio de Questão Simples ou Deliberação Simples, a questão “Caso se verifique que nem os titulares
 
@@ -13284,17 +13514,17 @@ constando deste boletim de voto a distância, concorrerem à eleição em separa
 
 se”.
 
+166
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-167
-
 No âmbito do Processo CVM nº 19957.004239/2022-0057, o Colegiado da CVM, em discussão iniciada em
 
-08.08.2023 e finalizada em 05.12.2023 , por maioria, entendeu que “a manifestação de vontade de
+08.08.2023 e finalizada em 05.12.2023, por maioria, entendeu que “a manifestação de vontade de
 
 instalação do colégio para eleição em separado do membro do conselho e seu suplente, indicado pelos
 
@@ -13304,7 +13534,7 @@ atingimento do quórum combinado do parágrafo 5º do artigo 141 da LSA”.
 
 Assim, para o acionista poder optar por agregar seus votos aos dos acionistas de outras classes (artigo
 
-141, parágrafo 5º, da Lei nº 6.404/76 ), este deve também, no boletim de voto a distância , solicitar a
+141, parágrafo 5º, da Lei nº 6.404/76), este deve também, no boletim de voto a distância, solicitar a
 
 eleição em separado nos termos do artigo 141, parágrafo 4º, incisos I e II, da Lei nº 6.404/76.
 
@@ -13312,11 +13542,11 @@ Da fixação do número de membros de conselheiros no boletim de voto a distânc
 
 Os Emissores cujo estatuto social estabelece um número variável de conselheiros em regra, divulgam, em
 
-sua proposta para a assembleia , (i) o número de membros que indica, ou são indicados pelo acionista
+sua proposta para a assembleia, (i) o número de membros que indica, ou são indicados pelo acionista
 
 controlador, para compor o conselho de administração, e (ii) como item da ordem do dia, a deliberação
 
-sobre a fixação do número exato de membros . Não obstante , foram identificados casos em que não
+sobre a fixação do número exato de membros. Não obstante, foram identificados casos em que não
 
 haviam sido incluídos no boletim de voto a distância essa deliberação referente à fixação do número de
 
@@ -13362,15 +13592,15 @@ qualquer pedido de liberação ou autorização tanto à CVM quanto à B3.
 
 57 Vide https://conteudo.cvm.gov.br/decisoes/2023/20231205_R1/20231205_D2899.html.
 
+167
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-168
-
-A partir d o 19º dia , a alteração do boletim no sistema CICORP apenas poderá ser efetuada mediante
+A partir do 19º dia, a alteração do boletim no sistema CICORP apenas poderá ser efetuada mediante
 
 formalização de pedido de liberação de acesso junto à B3. Ressalta-se que, segundo o inciso II do parágrafo
 
@@ -13382,17 +13612,17 @@ matéria a ser deliberada pelo acionista, ou para adequação da proposta ao dis
 
 estatuto social.
 
-Em 23.02.2022, a SEP divulgou o Ofício Circular nº 1/2022 -CVM/SEP (que pode ser acessado pelo link
+Em 23.02.2022, a SEP divulgou o Ofício Circular nº 1/2022-CVM/SEP (que pode ser acessado pelo link
 
 https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0122.html), que versa acerca da (i)
 
 disponibilização de versão das perguntas padronizadas no sistema, nos termos da Instrução CVM n°
 
-481/09 (vigente à época) , possibilitando a tradução português -inglês do boletim; e (ii) distribuição de
+481/09 (vigente à época), possibilitando a tradução português-inglês do boletim; e (ii) distribuição de
 
 votos, em uma eleição de conselho de administração por meio de processo de voto múltiplo, de forma
 
-proporcional, em um grupo de candidatos diferente (inclusive menor) daquele i ndicado na eleição
+proporcional, em um grupo de candidatos diferente (inclusive menor) daquele indicado na eleição
 
 simples.
 
@@ -13424,27 +13654,29 @@ casos, deverá o boletim enviado ser desconsiderado, sendo computado pela compan
 
 presencialmente.
 
-Nos termos do item 2, da alínea “a” do inciso I I do artigo 44 e da alínea “b” do inciso I do artigo 45 da
+Nos termos do item 2, da alínea “a” do inciso II do artigo 44 e da alínea “b” do inciso I do artigo 45 da
 
-Resolução CVM nº 81/ 22, o depositário central e o escriturador , respectivamente, devem enviar à
+Resolução CVM nº 81/22, o depositário central e o escriturador, respectivamente, devem enviar à
 
-companhia, em até 48 horas antes da data de realização da assembleia , o mapa sintético das instruções
+companhia, em até 48 horas antes da data de realização da assembleia, o mapa sintético das instruções
 
 de voto dos acionistas, identificando quantas aprovações, rejeições ou abstenções recebeu cada matéria
 
 deliberada e quantos votos recebeu cada candidato ou chapa.
 
-A companhia d everá divulgar, até 24 (vinte e quatro) horas antes da assembleia, por meio do Sistema
+A companhia deverá divulgar, até 24 (vinte e quatro) horas antes da assembleia, por meio do Sistema
 
 Empresas.NET (categoria “Assembleia”, tipo AGO, AGE ou AGOE”, espécie “Mapa Sintético do Depositário
 
 Central”, “Mapa Sintético do Escriturador” e “Mapa Sintético dos votos enviados diretamente à
 
-companhia”) e em sua página na rede mundial de computadores, o s mapas sintéticos de votação
+companhia”) e em sua página na rede mundial de computadores, os mapas sintéticos de votação
 
 recebidos do depositário central, do escriturador e dos votos enviados diretamente à companhia,
 
 conforme estabelecido no artigo 46-B da Resolução CVM nº 81/22.
+
+168
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -13452,13 +13684,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-169
-
-Além disso, conforme previsto no caput do artigo 46 -C, da Resolução CVM nº 81/22, até o início da
+Além disso, conforme previsto no caput do artigo 46-C, da Resolução CVM nº 81/22, até o início da
 
 assembleia, a companhia deve consolidar, fazendo as conciliações necessárias e rejeitando as instruções
 
-de voto conflitantes, nos termos do art igo 44, parágrafos 1º e 2º: (i) os mapas analíticos do depositário
+de voto conflitantes, nos termos do artigo 44, parágrafos 1º e 2º: (i) os mapas analíticos do depositário
 
 central, do escriturador e dos votos enviados diretamente à companhia, tendo como resultado um mapa
 
@@ -13490,7 +13720,7 @@ serviço de escrituração de ações devem cumprir as obrigações atribuídas 
 
 esta condição subsistir, conforme parágrafo 5º do artigo 27 da Resolução CVM nº 81/22. Nesse sentido,
 
-tais companhias devem disponibilizar, por meio do Sistema Empresas.N ET, o mapa sintético do
+tais companhias devem disponibilizar, por meio do Sistema Empresas.NET, o mapa sintético do
 
 escriturador, conforme previsto no artigo 46-B, inciso II, da Resolução CVM nº 81/22.
 
@@ -13526,11 +13756,13 @@ ao acionista, em até 3 (três) dias do seu recebimento: (i) o recebimento do bo
 
 bem como que o boletim e os documentos encaminhados em anexo são suficientes para que o voto a
 
-distância seja considerado vál ido; (ii) a necessidade de retificação ou reenvio do boletim de voto a
+distância seja considerado válido; (ii) a necessidade de retificação ou reenvio do boletim de voto a
 
 distância ou dos documentos que o acompanham, descrevendo os procedimentos e prazos necessários à
 
 regularização do voto (artigo 46 da Resolução CVM nº 81/22).
+
+169
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -13538,9 +13770,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-170
-
-Até o fim do prazo para o recebimento do boletim de voto a distância , o acionista pode enviar nova
+Até o fim do prazo para o recebimento do boletim de voto a distância, o acionista pode enviar nova
 
 instrução de voto para a companhia, que não deve ser considerada como uma instrução de voto
 
@@ -13566,15 +13796,15 @@ dos votos enviados diretamente à companhia; e (ii) o mapa sintético dos votos 
 
 companhia, que identifique quantas aprovações, rejeições ou abstenções recebeu cada matéria
 
-deliberada e quantos votos recebeu cada candidato ou chapa , conforme disposto no artigo 46 -A da
+deliberada e quantos votos recebeu cada candidato ou chapa, conforme disposto no artigo 46-A da
 
 Resolução CVM nº 81/22.
 
-Os mapas acima devem considerar a posição acionária de cada acionista em relação à data -base dos
+Os mapas acima devem considerar a posição acionária de cada acionista em relação à data-base dos
 
 mapas analíticos do depositário central e do escriturador
 
-Lembra-se que, ainda que , caso não tenha havido exercício do voto a distância, a companhia deve
+Lembra-se que, ainda que, caso não tenha havido exercício do voto a distância, a companhia deve
 
 encaminhar, por meio do Sistema Empresas.NET, nas correspondentes associações e nos prazos previstos
 
@@ -13582,7 +13812,7 @@ na Resolução CVM nº 81/22, um documento que explicite que não houve o exerc�
 
 7.2.7 Cômputo dos votos na assembleia geral
 
-O acionista que utilizar o voto a distância e cujo boletim de voto tenha sido considerado válido , ou que
+O acionista que utilizar o voto a distância e cujo boletim de voto tenha sido considerado válido, ou que
 
 tenha registrado sua presença no sistema eletrônico de participação a distância disponibilizado pela
 
@@ -13594,7 +13824,7 @@ Em caso de ocorrência de uma AGO/E, embora as assembleias ocorram no mesmo dia,
 
 quóruns (AGO e AGE) devem ser contabilizados de forma distinta.
 
-Assim um acionista que eventualmente preencha apenas o boletim gerado p ara a AGO, mas não o faça
+Assim um acionista que eventualmente preencha apenas o boletim gerado para a AGO, mas não o faça
 
 para o boletim gerado para a AGE, deve ter sua presença computada apenas na AGO, valendo o mesmo
 
@@ -13610,11 +13840,13 @@ com as posições acionárias fornecidas pelo escriturador, na data da assemblei
 
 Ademais, caso haja divergências entre o boletim de voto a distância recebido diretamente pela companhia
 
-e a instrução de voto contida no mapa analítico do escriturador , a instrução de voto proveniente do
+e a instrução de voto contida no mapa analítico do escriturador, a instrução de voto proveniente do
 
 escriturador deve prevalecer no cômputo dos votos em detrimento àquelas recebidas diretamente pela
 
 companhia, conforme previsto no parágrafo 2º do artigo 48 da Resolução CVM nº 81/22.
+
+170
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -13622,9 +13854,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-171
-
-Conforme previsto no caput do artigo 46-C da Resolução CVM nº 81/ 22, até o início da assembleia, a
+Conforme previsto no caput do artigo 46-C da Resolução CVM nº 81/22, até o início da assembleia, a
 
 companhia deve consolidar, fazendo as conciliações necessárias e rejeitando as instruções de voto
 
@@ -13650,7 +13880,7 @@ No que se refere à forma de cômputo dos votos na assembleia geral, nos termos 
 
 presencialmente; (ii) tenham optado por votar por meio de sistema eletrônico disponibilizado pela
 
-companhia, na forma do inciso II do parágrafo 2º, do artigo 28 da Resolução CVM nº 81/ 22; e (iii) não
+companhia, na forma do inciso II do parágrafo 2º, do artigo 28 da Resolução CVM nº 81/22; e (iii) não
 
 sejam elegíveis para votar na assembleia ou na respectiva deliberação.
 
@@ -13682,7 +13912,7 @@ normalmente aplicados na assembleia, que deverão continuar observando o dispost
 
 Societária.
 
-Assim, se o acionista alienar ações entre a data da transmissão da instrução de voto ( boletim de voto a
+Assim, se o acionista alienar ações entre a data da transmissão da instrução de voto (boletim de voto a
 
 distância) e a data da assembleia, somente devem ser computados os votos das ações que permanecerem
 
@@ -13690,11 +13920,13 @@ em sua propriedade, sendo competência da companhia a verificação deste saldo 
 
 assembleia.
 
-Conforme previsto no inciso I, do parágrafo 6º, do artigo 48 da Resolução CVM nº 81/ 22, até o dia útil
+Conforme previsto no inciso I, do parágrafo 6º, do artigo 48 da Resolução CVM nº 81/22, até o dia útil
 
 seguinte ao da realização da assembleia, a companhia deve divulgar por meio do Sistema Empresas.NET,
 
-categoria “Assembleia”, tipo “AGO, AGE ou AGOE”, espécie “Mapa final de votação resumido”, e em sua
+categoria “Assembleia”, tipo “AGO, AGE ou AGOE”, espécie “Mapa final de votação resumido”
+
+, e em sua
 
 própria página na rede mundial de computadores, consolidando os votos proferidos a distância e os votos
 
@@ -13702,25 +13934,27 @@ proferidos presencialmente, conforme computados na assembleia, identificando qua
 
 rejeições ou abstenções recebeu cada matéria e quantos votos recebeu cada candidato ou chapa.
 
+171
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-172
-
-Além disso, nos termos do inciso II, do parágrafo 6º, do artigo 48 da Resolução CVM nº 81/22 , em até 7
+Além disso, nos termos do inciso II, do parágrafo 6º, do artigo 48 da Resolução CVM nº 81/22, em até 7
 
 (sete) dias úteis após a realização da assembleia, a companhia deverá divulgar por meio do Sistema
 
 Empresas.NET, categoria “Assembleia”, tipo “AGO, AGE ou AGOE”, espécie “Mapa final de votação
 
-detalhado”, consolidando os votos proferidos a distância e os votos proferidos presencialmente,
+detalhado”
+
+, consolidando os votos proferidos a distância e os votos proferidos presencialmente,
 
 conforme computados na assembleia, contendo os 5 primeiros números da inscrição do acionista no
 
-Cadastro de Pessoas Físicas – CPF ou no Cadastro Nacional de Pessoas Jurídic as – CNPJ, o voto por ele
+Cadastro de Pessoas Físicas – CPF ou no Cadastro Nacional de Pessoas Jurídicas – CNPJ, o voto por ele
 
 proferido em relação a cada matéria, a informação sobre a posição acionária e, caso tenha havido votos
 
@@ -13732,9 +13966,9 @@ sumário das decisões da assembleia ou da ata da assembleia, respectivamente, n
 
 de divulgá-los em suas associações específicas no Sistema Empresas.NET.
 
-É necessário que a deliberação que question a se os acionistas deseja m que suas ações componham o
+É necessário que a deliberação que questiona se os acionistas desejam que suas ações componham o
 
-quórum para formação d e eleição em separado const e do mapa previsto no artigo 48, parágrafo 6º, da
+quórum para formação de eleição em separado conste do mapa previsto no artigo 48, parágrafo 6º, da
 
 Resolução CVM nº 81/22, tendo sido, ou não, o quórum alcançado.
 
@@ -13760,9 +13994,9 @@ os votos proferidos por acionistas que, via boletim de voto a distância, tenham
 
 no item de distribuição prévia de votos nos candidatos informados no boletim, são considerados
 
-abstenção na respectiva deliberação da assembleia, de modo que os votos de tais acionistas não s ão
+abstenção na respectiva deliberação da assembleia, de modo que os votos de tais acionistas não são
 
-computados no quórum de deliberação e, portanto, esses acionistas não participa m da eleição dos
+computados no quórum de deliberação e, portanto, esses acionistas não participam da eleição dos
 
 membros do conselho de administração.
 
@@ -13770,7 +14004,7 @@ Sendo assim, considerando que voto múltiplo não é um instituto comumente veri
 
 outras jurisdições, para melhor entendimento dos acionistas, as companhias devem detalhar o
 
-procedimento de votação no material de convocação da assembleia geral, deixando clar o que serão
+procedimento de votação no material de convocação da assembleia geral, deixando claro que serão
 
 desconsiderados os votos de acionistas que se enquadrem na hipótese mencionada no parágrafo anterior.
 
@@ -13786,13 +14020,13 @@ assembleia originalmente seria realizada e o conteúdo do boletim de voto a dist
 
 alterado.
 
+172
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-173
 
 7.2.8 Comprovação da propriedade ininterrupta de ações em eleição em
 
@@ -13814,13 +14048,13 @@ Ao editar a referida Resolução CVM nº 204/24, a CVM considerou que “atualme
 
 companhias consultarem diariamente informações sobre a composição de suas bases acionárias, o que as
 
-permite constatar se o acionista manteve ou não a participação requerida pelo prazo mínimo ex igido. A
+permite constatar se o acionista manteve ou não a participação requerida pelo prazo mínimo exigido. A
 
 despeito disso, ainda ocorrem casos em que companhias, sob o argumento de que, nos termos da Lei, a
 
 obrigação de comprovação cabe ao acionista, apresentam objeções ao exercício da prerrogativa prevista
 
-no art igo 141, parágrafo 4º, por acionistas que não apresentam documentação que demonstre a
+no artigo 141, parágrafo 4º, por acionistas que não apresentam documentação que demonstre a
 
 titularidade das ações pelo período de 3 meses”.
 
@@ -13856,19 +14090,21 @@ por ele detido nos 90 dias anteriores à assembleia. Isso permitirá que a compa
 
 conheça a quantidade de ações mantida de forma ininterrupta pelo acionista no período.
 
-Assim, por força do art igo 6º, parágrafo 5º, proposto para a Resolução CVM nº 81/22, caso essa
+Assim, por força do artigo 6º, parágrafo 5º, proposto para a Resolução CVM nº 81/22, caso essa
 
 quantidade de ações seja superior à quantidade de ações necessária para o exercício do direito previsto
 
-no artigo 141, parágrafo 4º, da Lei nº 6.404 /76, a companhia não deverá apresentar óbices ao exercício
+no artigo 141, parágrafo 4º, da Lei nº 6.404/76, a companhia não deverá apresentar óbices ao exercício
 
 desse direito com base no parágrafo 6º do mesmo artigo 141.
 
 7.2.9 Apresentação dos documentos
 
-Para o envio dos documentos por meio do Sistema Empresas. NET devem ser utilizadas as seguintes
+Para o envio dos documentos por meio do Sistema Empresas.NET devem ser utilizadas as seguintes
 
 associações:
+
+173
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -13876,99 +14112,95 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-174
-
 Categoria Tipo Espécie Prazo
 
 Antes da
 
-Assembleia
-
 AGO
-
-AGO/E
-
-AGE*
 
 Boletim de voto a distância Até 1 mês antes da assembleia
 
+Assembleia
+
+AGO/E
+
 (artigo 26, parágrafo 1º, inciso I e I “a”)
+
+AGE*
 
 *na AGE para deliberação sobre eleição
 
 (artigo 26, parágrafo 1º, inciso I e I “b”)
 
-AGE Boletim de voto a distância
-
-Até 21 dias antes da assembleia
+AGE Boletim de voto a distância Até 21 dias antes da assembleia
 
 (artigo 26, parágrafo 1º, inciso II)
 
 Antes da
 
-Assembleia
-
 AGO,
-
-AGE
-
-AGO/E
 
 Mapa sintético do depositário central;
 
+Entrega obrigatória: 24 horas antes da
+
+Assembleia
+
+AGE
+
 Mapa sintético do escriturador; e
+
+assembleia (artigos 46-B, incisos I a III)
+
+AGO/E
 
 Mapa sintético dos votos enviados
 
 diretamente à companhia
 
-Entrega obrigatória: 24 horas antes da
-
-assembleia (artigos 46-B, incisos I a III)
-
 Antes da
 
-Assembleia
-
 AGO,
-
-AGO/E
-
-AGE
 
 Mapa sintético consolidado Entrega opcional: 24 horas antes da
 
-assembleia (artigo 46-C, inciso II)
-
-Após a
-
 Assembleia
-
-AGO,
 
 AGO/E
 
+assembleia (artigo 46-C, inciso II)
+
 AGE
+
+Após a
+
+AGO,
 
 Mapa final de votação resumido Entrega obrigatória: até o dia útil seguinte
 
+Assembleia
+
+AGO/E
+
 a realização da assembleia (artigo. 48,
+
+AGE
 
 parágrafo 6º, inciso I)
 
 Após a
 
-Assembleia
-
 AGO
-
-ou
-
-AGO/E
 
 Mapa final de votação detalhado Entrega obrigatória: até 7 dias úteis após a
 
+Assembleia
+
+ou
+
 data da assembleia (artigo 48, parágrafo
+
+AGO/E
 
 6º, inciso II)
 
@@ -13988,7 +14220,7 @@ parágrafo 7º do artigo 48.
 
 A respeito das associações para envio dos mapas de votação pelo Sistema Empresas.NET, a SEP divulgou
 
-o Ofício Circular nº 1/2025-CVM/SEP, em 05.02. 2024, que pode ser acessado no endereço eletrônico
+o Ofício Circular nº 1/2025-CVM/SEP, em 05.02.2024, que pode ser acessado no endereço eletrônico
 
 https://conteudo.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0125.html.
 
@@ -14004,21 +14236,23 @@ formação do capital social e à aprovação de suas contas como administrador,
 
 que puderem beneficiá-lo de modo particular, ou em que tiver interesse conflitante com o da companhia.
 
+174
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-175
-
 O Colegiado da CVM, em julgamento realizado em 28.11.2017 (PAS CVM nº RJ2014/10556), entendeu que
 
-o acionista que também seja administrador encontra -se, nos termos do artigo 115, parágrafo 1º, da Lei
+o acionista que também seja administrador encontra-se, nos termos do artigo 115, parágrafo 1º, da Lei
 
 nº 6.404/76, proibido de votar em relação à propositura de ação de responsabilidade contra si (artigo 159
 
-da Lei nº 6.404/76)58.
+da Lei nº 6.404/76)58
+
+.
 
 Vale destacar que, segundo a decisão do Colegiado, o fato de o acusado ter renunciado ao cargo de
 
@@ -14036,7 +14270,7 @@ com seus votos favoráveis, ou mesmo por ele indicado.
 
 Na mesma ocasião, o Colegiado reiterou o entendimento já expresso nos autos do PAS CVM nº
 
-RJ2014/10060, julgado em 10 .11.201559, no sentido de que o acionista administrador também está
+RJ2014/10060, julgado em 10.11.201559, no sentido de que o acionista administrador também está
 
 proibido, nos termos do artigo 115, parágrafo 1º, da Lei nº 6.404/76, de votar na deliberação relativa à
 
@@ -14046,15 +14280,15 @@ norma procura afastar da deliberação a vontade do administrador, não é lógi
 
 essa vontade se manifeste por meio diverso, mas com a mesma efetividade.
 
-Não obstante o precedente acima citado , no que tange à possibilidade de voto de administrador em
+Não obstante o precedente acima citado, no que tange à possibilidade de voto de administrador em
 
-relação à propositura de ação de responsabilidade contra si (artigo 159 da Lei nº 6.404/76) , o Colegiado
+relação à propositura de ação de responsabilidade contra si (artigo 159 da Lei nº 6.404/76), o Colegiado
 
 manifestou-se, em julgamento iniciado em 23.05.2023 e finalizado em 05.09.2023, no âmbito do Processo
 
 Administrativo Sancionador CVM nº 19957.008172/2021-9360, no sentido de que:
 
-(i) as hipóteses de conflito de interesses do art igo 115, parágrafo 1°, da Lei n º 6.404/76 devem
+(i) as hipóteses de conflito de interesses do artigo 115, parágrafo 1°, da Lei nº 6.404/76 devem
 
 ser interpretadas de acordo com a tese material/substancial, em linha com a doutrina
 
@@ -14092,13 +14326,13 @@ evidenciado que o exercício do direito de voto por parte do acionista/administr
 
 60 Vide https://conteudo.cvm.gov.br/sancionadores/sancionador/2023/20230905_PAS_19957008172202193.html.
 
+175
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-176
 
 ao “interesse da companhia”, como determina o caput do artigo 115. Esse objetivo pode ser atingido, por
 
@@ -14108,7 +14342,7 @@ independentes destinados a avaliar o assunto.
 
 Em decisão de 13.11.2020, o Colegiado, por maioria, no âmbito no Processo CVM nº 19957.005563/2020-
 
-7561, manifestou -se no sentido de que a caracte rização do benefício particular , para que haja
+7561, manifestou-se no sentido de que a caracterização do benefício particular, para que haja
 
 impedimento de voto, “deve decorrer da condição de acionista resultando na quebra de igualdade no
 
@@ -14134,11 +14368,11 @@ justificação, na qual serão expostas as informações constantes dos incisos 
 
 6.404/76.
 
-Nas situações em que ao menos um dos emissores seja registrado na categoria A, aplica -se, ainda, a
+Nas situações em que ao menos um dos emissores seja registrado na categoria A, aplica-se, ainda, a
 
 Resolução CVM nº 78/22.
 
-No caso de incorporação , fusão e incorporação de ações envolvendo companhia controladora e
+No caso de incorporação, fusão e incorporação de ações envolvendo companhia controladora e
 
 companhia controlada ou sociedades sob controle comum, a justificação apresentada à assembleia geral
 
@@ -14150,11 +14384,11 @@ patrimônio líquido das ações da controladora e da controlada, avaliados os d
 
 mesmos critérios e na mesma data, a preços de mercado, ou com base em fluxo de caixa descontado ou,
 
-ainda, outro critério aceito pela CVM, no caso de companhias abe rtas (artigo 264 da Lei nº 6.404/76 e
+ainda, outro critério aceito pela CVM, no caso de companhias abertas (artigo 264 da Lei nº 6.404/76 e
 
 artigo 8º da Resolução CVM nº 78/22).
 
-Importante notar que, em reunião de 15.02.2018, no âmbito do Processo CVM nº 19957 .011351/2017-
+Importante notar que, em reunião de 15.02.2018, no âmbito do Processo CVM nº 19957.011351/2017-
 
 2162, por unanimidade, o Colegiado manifestou ser inaplicável o artigo 264 da Lei nº 6.404/76 em
 
@@ -14164,7 +14398,7 @@ vez que, inexistindo acionistas não controladores, não estaria presente a cond
 
 no dispositivo.
 
-Ainda sobre a aplicabilidade do art igo 264, nota-se a necessidade de utilização de critério único de
+Ainda sobre a aplicabilidade do artigo 264, nota-se a necessidade de utilização de critério único de
 
 avaliação da incorporadora e da incorporada, tendo em vista o objetivo de comparabilidade previsto neste
 
@@ -14174,23 +14408,25 @@ artigo.
 
 62 Vide https://conteudo.cvm.gov.br/decisoes/2018/20180215_R1/20180215_D0947.html.
 
+176
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-177
-
 O Colegiado entendeu, em 29.11.2023, no âmbito do Processo CVM nº 19957.012824/2023-5663, que “a
 
 utilização de critérios metodológicos distintos para a avaliação de cada um dos patrimônios das
 
-sociedades controladora/incorporadora e controlada/incorporada, para fins do art igo 264 da LSA, é
+sociedades controladora/incorporadora e controlada/incorporada, para fins do artigo 264 da LSA, é
 
 medida que prejudica a função comparativa dessa avaliação e, nesse sentido, não se compatibiliza com o
 
-objetivo da norma”.
+objetivo da norma”
+
+.
 
 Sobre a publicação na imprensa do fato relevante de que trata o artigo 3º da Resolução CVM nº 78/22,
 
@@ -14244,7 +14480,7 @@ da remuneração de administradores no contexto da reestruturação societária.
 
 As relações de substituição e demais condições da operação devem ser divulgadas pela companhia tanto
 
-no fato relevante ( Anexo A da Resolução CVM nº 78/22), quanto no protocolo ( artigo 224 da Lei nº
+no fato relevante (Anexo A da Resolução CVM nº 78/22), quanto no protocolo (artigo 224 da Lei nº
 
 6.404/76), cabendo destacar que também devem ser divulgados, além dos critérios utilizados, os valores
 
@@ -14258,13 +14494,13 @@ controle comum será feita por empresa especializada, no caso de companhias aber
 
 63 Vide https://conteudo.cvm.gov.br/decisoes/2023/20231129_R1/20231129_D2968.html.
 
+177
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-178
 
 Em relação às demonstrações financeiras, note-se que o artigo 6º da Resolução CVM nº 78/22 prevê que
 
@@ -14276,13 +14512,13 @@ deliberará sobre a operação. Este último prazo pode ser estendido para 360 (
 
 critério dos administradores das companhias abertas envolvidas, desde que a situação financeira das
 
-sociedades envolvidas não tenha se alterado de maneira relevante após a data -base das demonstrações
+sociedades envolvidas não tenha se alterado de maneira relevante após a data-base das demonstrações
 
 e os administradores firmem declaração neste sentido. O artigo 10 desta mesma Resolução dispôs ainda
 
 que as obrigações previstas no Capítulo III não se aplicam a incorporações ou incorporações de ações de
 
-companhias fechadas por emissor de valores mobiliários registrado na categoria A , caso a operação não
+companhias fechadas por emissor de valores mobiliários registrado na categoria A, caso a operação não
 
 represente uma diluição superior a 5% (cinco por cento).
 
@@ -14346,13 +14582,13 @@ ainda assim ocorra, devem ser divulgadas as informações previstas no artigo 4�
 
 orientacao-n-35-08-35f8f5c4f30947178fdceec669cc51e1.
 
+178
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-179
 
 Nos casos em que a operação de incorporação, fusão ou cisão enseje direito de recesso, as companhias
 
@@ -14360,7 +14596,7 @@ abertas que possuam ações admitidas à negociação em mercados regulamentados
 
 dispõe o artigo 21 da Resolução CVM nº 81/22, divulgar as informações previstas no Anexo H à referida
 
-Resolução, na forma descrita n este Ofício Circular (vide item 4.2). Note-se, porém, que , nos casos de
+Resolução, na forma descrita neste Ofício Circular (vide item 4.2). Note-se, porém, que, nos casos de
 
 aumento ou redução de capital exclusivamente em razão das operações de incorporação, fusão ou cisão,
 
@@ -14374,7 +14610,7 @@ envolvidas, inclusive em razão, em muitos casos, da migração compulsória par
 
 sociedade.
 
-Nesse contexto, independentemente de a operação enquadrar -se nas hipóteses previstas no artigo 264
+Nesse contexto, independentemente de a operação enquadrar-se nas hipóteses previstas no artigo 264
 
 da Lei nº 6.404/76, os administradores devem agir, no exercício de suas atribuições, com diligência e
 
@@ -14426,13 +14662,13 @@ lucro líquido anual por ação (artigo 187, inciso VII) nos dois últimos exerc
 
 atualizado monetariamente.
 
+179
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-180
 
 A princípio, o referido artigo não se aplica às operações em que companhias abertas adquirem sociedades
 
@@ -14458,9 +14694,9 @@ negócio pelo público a que se destina a informação, o que inclui as principa
 
 forma de pagamento, eventuais etapas de uma eventual reestruturação, incertezas e contingências
 
-relacionadas à operação, além do eventual enquadramento nas hipóteses previstas no ar tigo 256 da Lei
+relacionadas à operação, além do eventual enquadramento nas hipóteses previstas no artigo 256 da Lei
 
-nº 6.404/76) , sendo imprescindível o atendimento aos requisitos previstos nos artigos 15 a 20 da
+nº 6.404/76), sendo imprescindível o atendimento aos requisitos previstos nos artigos 15 a 20 da
 
 Resolução CVM nº 80/22, em especial, a completude e consistência da comunicação, que deve ser escrita
 
@@ -14478,7 +14714,9 @@ exercícios], o acionista dissidente da deliberação da assembleia que a aprova
 
 da companhia mediante reembolso do valor de suas ações, nos termos do artigo 137, observado o
 
-disposto em seu inciso II”.
+disposto em seu inciso II”
+
+.
 
 Em vista do acima exposto, quando da divulgação de aquisição de sociedade mercantil, a companhia
 
@@ -14494,7 +14732,7 @@ Ressalte-se que tal divulgação deve conter, no mínimo, as informações neces
 
 tratar-se (ou não) de hipótese de realização de assembleia e de concessão de direito de recesso.
 
-Caso a operação venha a ser objeto de deliberação assemblear, deve -se informar o prazo em que se
+Caso a operação venha a ser objeto de deliberação assemblear, deve-se informar o prazo em que se
 
 pretende realizar a assembleia. As companhias registradas na categoria A para as quais se aplique a
 
@@ -14508,17 +14746,17 @@ aqueles registrados na categoria A, todos os emissores deverão enviar, na mesma
 
 primeiro anúncio de convocação da assembleia, por força do disposto no parágrafo 3º do artigo 135 da
 
-Lei nº 6.404/76 e do inciso II do artigo 34 da Resolução CVM nº 80/ 22, os documentos e informações
+Lei nº 6.404/76 e do inciso II do artigo 34 da Resolução CVM nº 80/22, os documentos e informações
 
 necessárias ao exercício do direito de voto.
+
+180
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-181
 
 Destaca-se que o laudo exigido pelo parágrafo 1º do artigo 256 a Lei nº 6.404/76 não se confunde com a
 
@@ -14532,9 +14770,13 @@ investimento.
 
 O laudo de avaliação a que se refere o parágrafo 1º do artigo 256, bem como outros laudos eventualmente
 
-produzidos para os fins das alíneas “a”, “b” e “c” do inciso II do caput do mesmo artigo, deverão ser
+produzidos para os fins das alíneas “a”
 
-enviados, via Sistema Empresas.NET, na categoria “Dados Econômico -Financeiros” e tipo “Laudo de
+,
+
+“b” e “c” do inciso II do caput do mesmo artigo, deverão ser
+
+enviados, via Sistema Empresas.NET, na categoria “Dados Econômico-Financeiros” e tipo “Laudo de
 
 Avaliação”, identificando no assunto, sempre que possível, o tipo de laudo e a operação a que dizem
 
@@ -14544,7 +14786,7 @@ Orienta-se que as companhias somente realizem reestruturações societárias env
 
 adquiridas após a aquisição ter sido aprovada ou ratificada em assembleia de acionistas.
 
-Na hipótese de operação sujeita à ratificação pela assembleia geral de acionistas, recomenda -se que tal
+Na hipótese de operação sujeita à ratificação pela assembleia geral de acionistas, recomenda-se que tal
 
 ratificação, quando possível, se dê na primeira assembleia geral a ocorrer da concretização da operação.
 
@@ -14558,7 +14800,7 @@ ação; e (c) o prazo e os procedimentos que os acionistas dissidentes deverão 
 
 Nesses casos, as companhias abertas que possuam registro na categoria A e às quais incida a Resolução
 
-CVM nº 81/ 22, devem ainda, conforme dispõe o artigo 21 da Resolução CVM nº 81/ 22, divulgar as
+CVM nº 81/22, devem ainda, conforme dispõe o artigo 21 da Resolução CVM nº 81/22, divulgar as
 
 informações previstas no Anexo H à referida Resolução, na forma orientada neste Ofício Circular (vide
 
@@ -14568,7 +14810,11 @@ item 4.2).
 
 Nos casos de conversão de ações, sem prejuízo do disposto na Resolução CVM nº 44/21, a proposta da
 
-administração, a ser enviada pelo Sistema Empresas.NET, categoria “Assembleia”, tipo “AGO/E”, “AGE”
+administração, a ser enviada pelo Sistema Empresas.NET, categoria “Assembleia”, tipo “AGO/E”
+
+“AGE”
+
+,
 
 ou “AGESP”, espécie “Proposta da Administração”, assunto “Conversão de ações”, deverá conter todas as
 
@@ -14578,17 +14824,17 @@ decisão dos acionistas, tais como os motivos ou fins da operação, a obrigator
 
 operação e o cabimento do direito de retirada dos acionistas dissidentes (vide item 7.7), a relação de
 
-conversão entre as classes ou espécies de ações , o critério para a determinação da referida relação de
+conversão entre as classes ou espécies de ações, o critério para a determinação da referida relação de
 
 conversão e a justificativa para a adoção do referido critério na operação de conversão.
+
+181
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-182
 
 7.7 Direito de recesso
 
@@ -14600,15 +14846,15 @@ em assembleia geral dê ensejo a direito de recesso, a companhia deve informar, 
 
 classes às quais se aplica o recesso, a data que será utilizada para identificar os acionistas que poderão
 
-exercer o direito de recesso, o valor do reembolso por ação e sua forma de cálculo , os prazos e
+exercer o direito de recesso, o valor do reembolso por ação e sua forma de cálculo, os prazos e
 
 procedimentos que os acionistas dessa companhia, dissidentes da deliberação da referida assembleia,
 
-deverão adotar para exercício do direito de recesso , bem como (i) se o exercício do direito de retirada
+deverão adotar para exercício do direito de recesso, bem como (i) se o exercício do direito de retirada
 
 será, exclusivamente, sobre a totalidade das ações ou se será permitido, inclusive, o exercício sobre parte
 
-das ações possuídas e (ii) se para o exercício do direito de recesso será necessári a a titularidade
+das ações possuídas e (ii) se para o exercício do direito de recesso será necessária a titularidade
 
 ininterrupta, desde a data de identificação dos acionistas com direito a manifestarem sua dissidência até
 
@@ -14620,7 +14866,9 @@ refletida e informada de decisão pelos investidores, sem prejuízo da possibili
 
 a regularidade dos procedimentos adotados pela companhia.
 
-Cabe esclarecer que, segundo disposto no parágrafo 1º do artigo 137 da Lei nº 6.404/76 , “o acionista
+Cabe esclarecer que, segundo disposto no parágrafo 1º do artigo 137 da Lei nº 6.404/76,
+
+“o acionista
 
 dissidente de deliberação da assembleia, inclusive o titular de ações preferenciais sem direito de voto,
 
@@ -14628,7 +14876,9 @@ poderá exercer o direito de reembolso das ações de que, comprovadamente, era 
 
 primeira publicação do edital de convocação da assembleia, ou na data da comunicação do fato relevante
 
-objeto da deliberação, se anterior”.
+objeto da deliberação, se anterior”
+
+.
 
 Por “data da comunicação do fato relevante” deve ser entendida a data de divulgação do fato relevante
 
@@ -14662,15 +14912,15 @@ Nos termos do artigo 9º da Resolução CVM nº 78/22, entende-se que o índice 
 
 liquidez deve ser o Ibovespa.
 
+182
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-183
-
-Nos 10 (dez) dias subseq uentes ao término do prazo de que tratam os incisos IV e V do caput do artigo
+Nos 10 (dez) dias subsequentes ao término do prazo de que tratam os incisos IV e V do caput do artigo
 
 137 da Lei nº 6.404/76, é facultado aos órgãos da administração convocar a assembleia geral para ratificar
 
@@ -14688,7 +14938,7 @@ de fato relevante, no prazo acima mencionado. A decisão da administração no s
 
 mencionada deliberação deverá, em regra, ser objeto de comunicado ao mercado.
 
-As companhias abertas registradas na categoria A para as quais se aplique a Resolução CVM nº 81/ 22,
+As companhias abertas registradas na categoria A para as quais se aplique a Resolução CVM nº 81/22,
 
 devem ainda, conforme dispõe o artigo 21 da Resolução CVM nº 81/22 divulgar as informações previstas
 
@@ -14730,7 +14980,7 @@ desse critério;
 
 iii. prazos e procedimentos a serem observados pelos acionistas no exercício do direito de
 
-preferência e na subscrição e integralização das ações emitidas : data a ser considerada
+preferência e na subscrição e integralização das ações emitidas: data a ser considerada
 
 para a identificação dos acionistas que terão direito a subscrever as novas ações e
 
@@ -14738,13 +14988,13 @@ percentual que os acionistas terão direito a subscrever com até 10 casas decim
 
 de início e término do período de preferência se já definidas;
 
+183
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-184
 
 iv. tratamento quanto às sobras de ações não subscritas (nos termos do parágrafo 7º do
 
@@ -14784,7 +15034,7 @@ de capital que vierem a ser aprovados no exercício. Caso participem de forma pr
 
 informar a partir de que momento participarão integralmente a todos os benefícios.
 
-As companhias abertas registradas na categoria A para as quais se aplique a Resolução CVM nº 81/ 22
+As companhias abertas registradas na categoria A para as quais se aplique a Resolução CVM nº 81/22
 
 devem, ainda, conforme dispõe o artigo 15 da Resolução CVM nº 81/22, divulgar as informações previstas
 
@@ -14806,9 +15056,11 @@ Resolução, na mesma data da divulgação da ata da reunião do conselho de adm
 
 (sete) dias úteis da data da reunião do referido órgão, o que ocorrer primeiro. Esta comunicação deve ser
 
-divulgada através do Sistema Empresas.NET ( categoria “Aviso aos Acionistas”, tipo “Aumento de capital
+divulgada através do Sistema Empresas.NET (categoria “Aviso aos Acionistas”
 
-por subscri ção privada deliberado em RCA”), fazendo menção no assunto sobre as informações
+, tipo “Aumento de capital
+
+por subscrição privada deliberado em RCA”), fazendo menção no assunto sobre as informações
 
 divulgadas.
 
@@ -14820,23 +15072,23 @@ exercício de direito de subscrição ou de bônus de subscrição, capitalizaç
 
 desdobramentos de plano de opção.
 
+184
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-185
-
 Em relação ao papel do conselho fiscal, em regra não compete a este órgão manifestar-se previamente a
 
 alterações estatutárias relativas ao capital autorizado. Todavia, nos casos em que a alteração do capital
 
-autorizado está sendo deliberada, em AGE, para possibilitar a aprovação de um aum ento de capital pelo
+autorizado está sendo deliberada, em AGE, para possibilitar a aprovação de um aumento de capital pelo
 
 conselho de administração, cujas principais características já estejam definidas e sejam conhecidas pelos
 
-acionistas, entende-se que o conselho fiscal deveria manifestar sua opinião sobre o aumento de c apital
+acionistas, entende-se que o conselho fiscal deveria manifestar sua opinião sobre o aumento de capital
 
 previamente à AGE que irá deliberar sobre a modificação do capital autorizado, a fim de, nos termos do
 
@@ -14868,7 +15120,7 @@ das ações objeto do aumento do capital social, no qual foram observados os art
 
 CVM nº 160/22.
 
-Destaca-se, ainda, que , na mesma ocasião, o Colegiado da CVM entendeu que é possível efetuar
+Destaca-se, ainda, que, na mesma ocasião, o Colegiado da CVM entendeu que é possível efetuar
 
 homologação de aumento privado de capital parcialmente subscrito, independentemente da realização
 
@@ -14878,9 +15130,9 @@ efetivação de um aumento de capital mediante subscrição privada de ações q
 
 subscrito exige:
 
-a) que a deliberação do aumento (bem como o material divulgado aos acionist as na forma da
+a) que a deliberação do aumento (bem como o material divulgado aos acionistas na forma da
 
-Resolução CVM nº 81/ 22, nos casos em que a assembleia geral for o órgão competente para
+Resolução CVM nº 81/22, nos casos em que a assembleia geral for o órgão competente para
 
 deliberar sobre a matéria), expressamente:
 
@@ -14906,13 +15158,13 @@ informações sobre (i) destinação dos recursos; (ii) diluição; e (iii) comp
 
 65 Vide http://conteudo.cvm.gov.br/decisoes/2014/20140107_R1/20140107_D01.html.
 
+185
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-186
 
 c) que seja conferido aos acionistas o direito de subscrição condicionada do aumento;
 
@@ -14936,7 +15188,7 @@ mesmo para terceiros.
 
 7.8.1 Sobras de ações em aumento de capital com créditos
 
-Conforme disposto no artigo 171, parágrafo 2 º, da Lei nº 6.404/76, no aumento de capital mediante
+Conforme disposto no artigo 171, parágrafo 2º, da Lei nº 6.404/76, no aumento de capital mediante
 
 capitalização de créditos ou subscrição em bens, será sempre assegurado aos acionistas o direito de
 
@@ -14952,7 +15204,7 @@ houver deliberado a realização de aumento de capital em montante igual ao do c
 
 ou do bem a ser incorporado não deve observar o disposto no artigo 171, parágrafo 7º, e por consequência
 
-não está obrigado a promover o rateio das sobras entre acionistas, podendo entregá -las diretamente ao
+não está obrigado a promover o rateio das sobras entre acionistas, podendo entregá-las diretamente ao
 
 titular do respectivo crédito ou bem.
 
@@ -14982,13 +15234,13 @@ artigo 174 da Lei nº 6.404/76 (prazo para oposição de credores).
 
 66 Vide http://www.cvm.gov.br/sancionadores/sancionador/2017/20171114_PAS_RJ20136294.html.
 
+186
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-187
 
 Sempre que a assembleia geral for convocada para deliberar sobre redução de capital, os emissores
 
@@ -14996,7 +15248,7 @@ registrados na categoria A para os quais se aplique a Resolução CVM nº 81/22 
 
 do Sistema Empresas.NET (vide item 4.2.2), no mínimo, as seguintes informações exigidas no Anexo E da
 
-Resolução CVM nº 81/ 22: (a) valor da r edução e do novo capital social; (b) explicação, pormenorizada,
+Resolução CVM nº 81/22: (a) valor da redução e do novo capital social; (b) explicação, pormenorizada,
 
 sobre as razões, a forma e as consequências da redução do capital social; (c) cópia do parecer do conselho
 
@@ -15006,7 +15258,7 @@ administradores; (d) conforme o caso: (i) o valor da restituição por ação; (
 
 das ações à importância das entradas, no caso de capital não integralizado; ou (iii) a quantidade de ações
 
-objeto da redução . Frise-se que a divulgação dessas informações n ão é necessária quando o aumento
+objeto da redução. Frise-se que a divulgação dessas informações não é necessária quando o aumento
 
 decorrer exclusivamente de fusão, cisão, incorporação ou incorporação de ações, nos termos do artigo 17
 
@@ -15014,7 +15266,7 @@ da Resolução CVM nº 81/22.
 
 Ressalta-se que, ainda que a Resolução CVM nº 81/22 não se aplique aos emissores registrados na
 
-categoria B e na categoria A não mencionados no parágrafo anterior , esses deverão enviar, na mesma
+categoria B e na categoria A não mencionados no parágrafo anterior, esses deverão enviar, na mesma
 
 data da publicação do primeiro anúncio de convocação da assembleia, por força do disposto no parágrafo
 
@@ -15044,13 +15296,15 @@ objeto de leilão em bolsa e o produto da venda rateado proporcionalmente entre 
 
 Na proposta da administração a ser submetida à assembleia, deve constar todo o procedimento proposto
 
-para o grupam ento, o fator de grupamento utilizado, o tratamento que será dado às frações e a
+para o grupamento, o fator de grupamento utilizado, o tratamento que será dado às frações e a
 
 composição do capital social após o grupamento.
 
 O Colegiado manifestou entendimento, em reunião realizada em 27.03.2018, no âmbito do Processo CVM
 
-nº RJ 2014/9881 67, de que, na hipótese da venda das frações de ações geradas em um grupamento, o
+nº RJ 2014/988167
+
+, de que, na hipótese da venda das frações de ações geradas em um grupamento, o
 
 acionista tem o direito sobre depósito em dinheiro correspondente a essa venda, pelo prazo de 10 anos,
 
@@ -15060,7 +15314,9 @@ Ademais, uma vez prescrita a dívida (e assim extinta a pretensão dos credores 
 
 exigibilidade da companhia efetuar o pagamento, bem como o dever acessório de manter o depósito.
 
-67 Vide https://conteudo.cvm.gov.br/decisoes/2018/20180327_R1/20180327_D0886.html .
+67 Vide https://conteudo.cvm.gov.br/decisoes/2018/20180327_R1/20180327_D0886.html.
+
+187
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -15068,13 +15324,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-188
-
 Quanto às questões procedimentais relativas ao leilão de frações (como, por exemplo, venda de todas as
 
 frações em um único leilão ou realização de leilões subsequentes até perfazer a liquidação das frações) e
 
-prazo de disponibilidade, ressalta -se a existência de orientações na página da B3 na internet
+prazo de disponibilidade, ressalta-se a existência de orientações na página da B3 na internet
 
 (https://www.b3.com.br/pt_br/regulacao/regulacao-de-emissores/atuacao-orientadora/cartilhas-e-
 
@@ -15116,7 +15370,7 @@ v) são relevantes, a partir do momento em que iniciados estudos ou análises re
 
 as informações acerca de operações de incorporação, cisão total ou parcial, fusão,
 
-transformação, ou qualquer forma de reorganização societária ou combinação de n egócios,
+transformação, ou qualquer forma de reorganização societária ou combinação de negócios,
 
 mudança no controle da companhia, inclusive por meio de celebração, alteração ou rescisão de
 
@@ -15140,19 +15394,19 @@ Ainda sobre as presunções descritas no parágrafo 1º, a Resolução CVM nº 4
 
 têm aplicação quanto:
 
+188
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-189
-
 i) aos casos de aquisição, por meio de negociação privada, de ações que se encontrem em
 
 tesouraria, decorrente do exercício de opção de compra de acordo com plano de outorga de
 
-opção de compra de ações aprovado em assembleia geral, ou quando se tratar de outo rga de
+opção de compra de ações aprovado em assembleia geral, ou quando se tratar de outorga de
 
 ações a administradores, empregados ou prestadores de serviços como parte de remuneração
 
@@ -15208,7 +15462,7 @@ investimento ou desinvestimento) e sem prejuízo do disposto no artigo 13, a com
 
 controladores, diretores, membros do conselho de administração e do conselho fiscal ficam impedidos de
 
-efetuar qualqu er negociação com os valores mobiliários de emissão da companhia, ou a eles
+efetuar qualquer negociação com os valores mobiliários de emissão da companhia, ou a eles
 
 referenciados, independentemente do conhecimento, por tais pessoas, do conteúdo das informações
 
@@ -15220,19 +15474,19 @@ avaliação quanto à existência de informação relevante pendente de divulga�
 
 à negociação.
 
-Quanto à contagem do prazo de 15 (quinze) dias citado no artigo 14, ela deverá ser feita excluindo -se o
+Quanto à contagem do prazo de 15 (quinze) dias citado no artigo 14, ela deverá ser feita excluindo-se o
 
 dia da divulgação, porém os negócios com valores mobiliários só podem ser realizados nesse dia após a
 
 referida divulgação.
+
+189
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-190
 
 Destaca-se, ainda, que a proibição de negociação no período de 15 (quinze) dias que anteceder a data da
 
@@ -15298,7 +15552,7 @@ temporária), mas também porque o contrato de empréstimo permite ao doador opt
 
 taxa de remuneração sobre a cotação vigente na data de fechamento ou de vencimento do contrato.
 
-Adicionalmente, a vedação à negociação prevista no s artigos 13 e 14 se aplica também às negociações
+Adicionalmente, a vedação à negociação prevista nos artigos 13 e 14 se aplica também às negociações
 
 privadas.
 
@@ -15312,13 +15566,13 @@ solicitado, com indicação de quem teve acesso às informações relevantes div
 
 momento desse acesso, nos termos da Resolução CVM nº 44/21.
 
+190
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-191
 
 Recomenda-se que o diretor de relações com investidores da companhia dê ciência às pessoas
 
@@ -15326,13 +15580,15 @@ mencionadas no parágrafo 1º do artigo 13 e no artigo 14 da Resolução CVM nº
 
 todos os funcionários da companhia, a respeito da ocorrência dos períodos de vedação.
 
-Cumpre observar que as vedações à negociação constantes do s artigos 13 e 14, da Resolução CVM nº
+Cumpre observar que as vedações à negociação constantes dos artigos 13 e 14, da Resolução CVM nº
 
-44/21, aplicam -se a membro de comitê criado por disposição estatutária, ainda que não seja
+44/21, aplicam-se a membro de comitê criado por disposição estatutária, ainda que não seja
 
 administrador da companhia, conforme decisão do Colegiado da CVM, em reuniões ocorridas em
 
-13.12.2016 e 02.05.2017 (Processo CVM nº 19957.006290/2016-08)68.
+13.12.2016 e 02.05.2017 (Processo CVM nº 19957.006290/2016-08)68
+
+.
 
 7.12 Transações entre partes relacionadas
 
@@ -15358,17 +15614,19 @@ condições, tendo em vista o interesse econômico do administrador, em oposiç�
 
 companhia. [...] O fato de o administrador ser impedido de ‘intervir em qualquer operação social em que
 
-tiver interesse conflitante com o da companhia’, como diz o caput do artigo 156 da Lei nº 6.404 /76, o
+tiver interesse conflitante com o da companhia’, como diz o caput do artigo 156 da Lei nº 6.404/76, o
 
 impede não apenas de votar, se a operação tiver que ser aprovada por órgão de administração colegiado,
 
-mas também de participar das negociações” 69.
+mas também de participar das negociações” 69
+
+.
 
 Além disso, ainda que o administrador não intervenha em operações nas quais possua interesse
 
 conflitante com o da companhia, por força do artigo 156, parágrafo 1º, da Lei 6.404/76, tais operações só
 
-poderão ser realizadas em condições razoáveis ou equitati vas, idênticas às que prevalecem no mercado
+poderão ser realizadas em condições razoáveis ou equitativas, idênticas às que prevalecem no mercado
 
 ou em que a companhia contrataria com terceiros.
 
@@ -15392,13 +15650,13 @@ https://conteudo.cvm.gov.br/sancionadores/sancionador/2006/20060112_1201.html e
 
 https://conteudo.cvm.gov.br/decisoes/2015/20150519_R1/20150519_D8241.html.
 
+191
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-192
 
 Para assegurar o cumprimento a tais dispositivos, recomenda-se que os emissores elaborem e divulguem
 
@@ -15410,13 +15668,13 @@ relacionadas; (ii) a identificação de fornecedores, prestadores de serviços e
 
 com partes relacionadas à companhia; (iii) os critérios e procedimentos relacionados à seleção da
 
-contraparte, avaliação e aprovação dos contratos, com o objetivo de mitig ar potenciais conflitos de
+contraparte, avaliação e aprovação dos contratos, com o objetivo de mitigar potenciais conflitos de
 
 interesses e assegurar que todas as transações com partes relacionadas sejam realizadas no interesse da
 
 companhia.
 
-Sempre que houver tal documento, ele deve ser encam inhado pelo Sistema Empresas.NET, na categoria
+Sempre que houver tal documento, ele deve ser encaminhado pelo Sistema Empresas.NET, na categoria
 
 “Política de Transações entre Partes Relacionadas” (vide item 4.16).
 
@@ -15448,7 +15706,7 @@ d) as hipóteses de transações com partes relacionadas que devem ser embasadas
 
 avaliação independentes, elaborados sem a participação de nenhuma parte envolvida na
 
-operação em questão, seja ela banco, advogado, empresa de consultoria especializad a, entre
+operação em questão, seja ela banco, advogado, empresa de consultoria especializada, entre
 
 outros, com base em premissas realistas e informações referendadas por terceiros; e
 
@@ -15468,13 +15726,15 @@ Brasileiro de Governança Corporativa.
 
 Ainda sobre as atribuições dos membros do conselho de administração, embora, em regra, não seja a eles
 
-atribuídas as negociações de contrato s envolvendo partes relacionadas, não há como dissociá -los por
+atribuídas as negociações de contratos envolvendo partes relacionadas, não há como dissociá-los por
 
 completo das responsabilidades inerentes à celebração de tais transações, notadamente em função da
 
-obrigação de monitoramento dos diretores, conferida ao conselho de administração pelo art igo 142,
+obrigação de monitoramento dos diretores, conferida ao conselho de administração pelo artigo 142,
 
 inciso III, da Lei nº 6.404/76.
+
+192
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -15482,9 +15742,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-193
-
-Nesse sentido, o voto do Diretor -Relator Gustavo Gonzalez profer ido no âmbito do julgamento do
+Nesse sentido, o voto do Diretor-Relator Gustavo Gonzalez proferido no âmbito do julgamento do
 
 Processo Administrativo Sancionador CVM nº 19957.010686/2017-2270, ocorrido em 07.07.2020, em que
 
@@ -15502,7 +15760,7 @@ Independentemente da decisão da companhia quanto à consolidação das normas i
 
 política de transações com partes relacionadas, é importante que haja regras bem definidas para cada
 
-etapa do processo de contratação de partes relacionadas. Além di sso, especialmente no que se refere a
+etapa do processo de contratação de partes relacionadas. Além disso, especialmente no que se refere a
 
 esse tipo de transação, é fundamental que o acionista controlador e os administradores da companhia
 
@@ -15558,21 +15816,21 @@ veículos, serviços jurídicos etc.;
 
 70 Vide https://conteudo.cvm.gov.br/sancionadores/sancionador/2020/20200707-PAS-19957.010686_2017_22.html.
 
+193
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-194
-
-ii. recebimento de comissões sobre negócios firmados pela companhia, por exemplo
+ii. iii. recebimento de comissões sobre negócios firmados pela companhia, por exemplo
 
 alienação de uma subsidiária, que não estejam formalmente previstos na política de
 
 remuneração de administradores;
 
-iii. recebimento de valores extraordinários, para a prática de ato que esteja incluído em suas
+recebimento de valores extraordinários, para a prática de ato que esteja incluído em suas
 
 atribuições e que não estejam formalmente previstos na política de remuneração de
 
@@ -15598,7 +15856,7 @@ auditoria estatutário, quando presente, ou outro órgão específico independen
 
 por avaliar as condições em que se estabelecem tais transações e garantir que elas sejam realizadas no
 
-melhor interesse da companhia. A aprovação dessas operações de ve ser precedida por efetiva
+melhor interesse da companhia. A aprovação dessas operações deve ser precedida por efetiva
 
 negociação, das quais participem, em nome da companhia, pessoas sem interesses pessoais na matéria,
 
@@ -15612,17 +15870,17 @@ Cabe reiterar que o Parecer de Orientação CVM nº 35/08 enumera diretrizes que
 
 diversas transações entre partes relacionadas, e não apenas às que assumam a forma de fusões,
 
-incorporações e incorporações de ações. Cabe aos administrado res avaliarem, em virtude da natureza e
+incorporações e incorporações de ações. Cabe aos administradores avaliarem, em virtude da natureza e
 
 da relevância da transação, se e em que extensão as medidas listadas no referido parecer devem ser
 
 observadas.
 
-Conforme determina o artigo 33, inciso XXXII, da Resolução CVM nº 80/ 22, as companhias abertas
+Conforme determina o artigo 33, inciso XXXII, da Resolução CVM nº 80/22, as companhias abertas
 
 registradas na categoria A devem divulgar comunicação sobre transações entre partes relacionadas (vide
 
-item 4.16), sem prejuíz o da devida divulgação nas demonstrações financeiras e no formulário de
+item 4.16), sem prejuízo da devida divulgação nas demonstrações financeiras e no formulário de
 
 referência.
 
@@ -15634,7 +15892,7 @@ dos administradores no âmbito dos contratos de indenidade celebrados entre as c
 
 seus administradores.
 
-Nos termos do mencionado P arecer de Orientação, não há óbice legal à previsão, em contrato de
+Nos termos do mencionado Parecer de Orientação, não há óbice legal à previsão, em contrato de
 
 indenidade, do direito a indenização em favor dos administradores por despesas sofridas em razão de seu
 
@@ -15644,13 +15902,13 @@ indenidade não deve ocorrer em todos os casos, como, por exemplo, naqueles em q
 
 observados os padrões de conduta legais a que estão sujeitos.
 
+194
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-195
 
 Nesse sentido, entende-se que não são passíveis de indenização, entre outras, as despesas decorrentes
 
@@ -15722,13 +15980,13 @@ desejável, ainda, que sejam divulgadas ao mercado as seguintes informações so
 
 compromisso de indenidade:
 
+195
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-196
 
 a) por qual motivo a administração preferiu adotar a prestação de compromisso de indenidade em
 
@@ -15744,7 +16002,7 @@ c) se a garantia oferecida pela prestação de compromisso de indenidade inclui 
 
 reembolso de indenizações que os administradores forem obrigados a pagar quando
 
-responsabilizados por danos causados a terceiros ou à companhia em consequência de a tos
+responsabilizados por danos causados a terceiros ou à companhia em consequência de atos
 
 ilícitos praticados antes da prestação do compromisso de indenidade;
 
@@ -15752,7 +16010,7 @@ d) se a garantia oferecida pela prestação de compromisso de indenidade inclui 
 
 reembolso de multas decorrentes de condenação em ação penal ou em processo administrativo
 
-ou obrigações pecuniárias previstas em acordos para encerramento de proces sos
+ou obrigações pecuniárias previstas em acordos para encerramento de processos
 
 administrativos suportadas pelos administradores; e
 
@@ -15760,11 +16018,11 @@ e) em caso de resposta positiva a, pelo menos, um dos dois itens anteriores, por
 
 administração acredita que tal garantia estaria no melhor interesse da companhia.
 
-A propósito do disposto no parágrafo anterior, deve -se esclarecer que a prestação pela companhia das
+A propósito do disposto no parágrafo anterior, deve-se esclarecer que a prestação pela companhia das
 
 garantias mencionadas nos itens “c” e “d” ou de outras garantias não referidas anteriormente poderá ser
 
-considerada uma violação ao dever de lealdade dos a cionistas que aprovarem o compromisso de
+considerada uma violação ao dever de lealdade dos acionistas que aprovarem o compromisso de
 
 indenidade, nos termos da legislação societária, caso não seja comprovado o benefício do compromisso
 
@@ -15802,13 +16060,13 @@ as Instruções CVM nº 10/80, 390/03 e 567/15.
 
 71 Vide http://conteudo.cvm.gov.br/decisoes/2011/20110119_R1/20110119_D02.html.
 
+196
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-197
 
 Ressalta-se que a mencionada Resolução CVM nº 77/22 não contém qualquer comando que restrinja seus
 
@@ -15820,7 +16078,7 @@ Lembra-se que a aquisição de ações da companhia para permanência em tesoura
 
 alienação de ações assim adquiridas é uma das hipóteses de divulgação de fato relevante, estabelecida
 
-no artigo 2º, inciso XV, da Resolução CVM nº 44/21 . Em se tratando de aprovação pelo conselho de
+no artigo 2º, inciso XV, da Resolução CVM nº 44/21. Em se tratando de aprovação pelo conselho de
 
 administração, deverão ser prestadas as informações previstas no Anexo G da Resolução CVM nº 80/22,
 
@@ -15876,23 +16134,23 @@ Além desses casos, o estatuto social pode prever hipóteses adicionais em que s
 
 prévia por parte da assembleia geral.
 
-Em relação à submissão da questão aos acionistas, frise -se que esta é uma condição de eficácia da
+Em relação à submissão da questão aos acionistas, frise-se que esta é uma condição de eficácia da
 
 negociação de ações de própria emissão nos casos acima, embora não necessariamente precise ocorrer
 
-em momento anterior à celebração do negócio. Assim, é possí vel que uma transação seja realizada e a
+em momento anterior à celebração do negócio. Assim, é possível que uma transação seja realizada e a
 
 aprovação dos acionistas seja obtida posteriormente, desde que a transação não produza efeitos até que
 
 tal aprovação ocorra.
+
+197
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-198
 
 Quanto à hipótese “c” acima, sua incidência está limitada a casos de possível modificação na estrutura de
 
@@ -15902,7 +16160,7 @@ pública de aquisição de ações representativas do controle acionário ou neg
 
 permitirão a seus titulares indicarem membros para o conselho de administração. O simples fato de a
 
-aquisição retirar ações de circulação, com isso reforçando uma estrutura de controle já definida e s em
+aquisição retirar ações de circulação, com isso reforçando uma estrutura de controle já definida e sem
 
 perspectiva de modificação, não deflagra a necessidade de aprovação em assembleia geral.
 
@@ -15924,7 +16182,7 @@ Nos casos em que for necessária aprovação dos acionistas, deverá ser convoca
 
 tratar do tema, devendo a proposta da indicação conter as informações indicadas no Anexo J da Resolução
 
-CVM nº 81/ 22, e ser enviada pelo Sistema Empresas.NET pela categoria “Assembleia”, tipo “AGO/E”,
+CVM nº 81/22, e ser enviada pelo Sistema Empresas.NET pela categoria “Assembleia”, tipo “AGO/E”,
 
 “AGE”, espécie “Proposta da administração”, assunto “Aquisição de ações de emissão da própria
 
@@ -15964,11 +16222,13 @@ Nos termos do parágrafo 1º do artigo 8º, a aquisição de ações de própria
 
 de recursos disponíveis, assim consideradas todas as reservas de lucros ou capital, exceto as (i) legal, (ii)
 
-de lucros a realizar, (iii) de dividendo obrigatório não distribuído e (iv) de in centivos fiscais. Também é
+de lucros a realizar, (iii) de dividendo obrigatório não distribuído e (iv) de incentivos fiscais. Também é
 
 considerado recurso disponível o resultado do exercício social em andamento, segregadas as destinações
 
 às reservas mencionadas anteriormente.
+
+198
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -15976,13 +16236,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-199
-
 A existência de recursos disponíveis deve ser verificada com base nas últimas demonstrações financeiras
 
 disponíveis divulgadas antes da efetiva transferência, para a companhia, da propriedade das ações de sua
 
-emissão. Portanto, uma aquisição pode ser aprov ada sem que tais recursos existam, contanto que a
+emissão. Portanto, uma aquisição pode ser aprovada sem que tais recursos existam, contanto que a
 
 efetiva transferência só venha a ocorrer quando os recursos existam.
 
@@ -15992,7 +16250,7 @@ anuais, intermediárias ou trimestrais. Tais demonstrações servem como referê
 
 uma companhia que antes não possuía recursos disponíveis anteriormente passou a tê-los como também
 
-para determinar se uma companhia que ante s os detinha deixou de tê -los. Desse modo, os recursos
+para determinar se uma companhia que antes os detinha deixou de tê-los. Desse modo, os recursos
 
 disponíveis devem ser verificados em bases contínuas a cada nova informação financeira divulgada.
 
@@ -16000,7 +16258,7 @@ Constatado um eventual excesso, em razão de informações financeiras superveni
 
 alienar ou cancelar as ações acima do limite em questão no prazo de 6 meses, admitida a possibilidade de
 
-que essa medida se mostre desnecessária se nesse i ntervalo forem divulgadas novas informações
+que essa medida se mostre desnecessária se nesse intervalo forem divulgadas novas informações
 
 financeiras com base nas quais se verifique a existência de recursos disponíveis.
 
@@ -16008,7 +16266,7 @@ Sem prejuízo da necessidade de existência de recursos disponíveis, expresso e
 
 conforme acima mencionado, os administradores devem tomar diligências necessárias para se assegurar
 
-de que (i) a situação financeira da companhia é compatível c om a liquidação da aquisição em seu
+de que (i) a situação financeira da companhia é compatível com a liquidação da aquisição em seu
 
 vencimento sem afetar o cumprimento das obrigações assumidas com credores nem o pagamento de
 
@@ -16016,7 +16274,9 @@ dividendos obrigatórios; e (ii) não há fatos previsíveis capazes de ensejar 
 
 montante de recursos disponíveis ao longo do período restante do exercício social.
 
-Segundo o artigo 9º, as ações em tesouraria não podem exceder o patamar de 10% das ações em
+Segundo o artigo 9º
+
+, as ações em tesouraria não podem exceder o patamar de 10% das ações em
 
 circulação, assim consideradas todas as ações menos as detidas por acionista controlador, pessoas a ele
 
@@ -16026,7 +16286,7 @@ Incluem-se no percentual acima referido (i) as ações detidas não só pela pr�
 
 também por suas controladas e coligadas e, ainda, (ii) as ações de própria emissão correspondentes à
 
-exposição econômica assumida em razão de contratos d erivativos ou de liquidação diferida celebrados
+exposição econômica assumida em razão de contratos derivativos ou de liquidação diferida celebrados
 
 pela companhia ou por suas controladas e coligadas.
 
@@ -16044,7 +16304,7 @@ que assegurem direito ou obrigação de venda das ações de própria emissão, 
 
 na verificação do limite de 10% acima referido.
 
-Conforme já decidido pelo Colegiado em 11 .11.2008 ( Processo CVM nº RJ2008/9839)72, o próprio
+Conforme já decidido pelo Colegiado em 11.11.2008 (Processo CVM nº RJ2008/9839)72, o próprio
 
 conselho de administração pode deliberar pelo cancelamento das ações mantidas em tesouraria, desde
 
@@ -16058,13 +16318,13 @@ capital social da respectiva companhia.
 
 72 Vide http://conteudo.cvm.gov.br/decisoes/2008/20081111_R1/20081111_D12.html.
 
+199
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-200
 
 Lembra-se que, além das limitações previstas nos artigos 8º e 9º da Resolução CVM nº 77/22, deve-se
 
@@ -16098,7 +16358,9 @@ Frisa-se que a exclusão de direitos econômicos e políticos não alcança aç�
 
 companhia em contratos derivativos ou de liquidação diferida, pois tais ações não estão efetivamente em
 
-tesouraria, muito embora sejam incluídas no cômputo do limite de 10% previsto no artigo 9º. Chama-se
+tesouraria, muito embora sejam incluídas no cômputo do limite de 10% previsto no artigo 9º
+
+. Chama-se
 
 atenção, contudo, para a necessidade de que, em havendo qualquer acordo de voto, ainda que informal,
 
@@ -16132,13 +16394,13 @@ mínimos. Assim, se houver lucro, ainda que não realizado, os dividendos fixos 
 
 distribuídos.
 
+200
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-201
 
 7.16 Comunicação sobre o não pagamento de dividendo obrigatório em
 
@@ -16150,15 +16412,17 @@ ser distribuído no exercício social em que os órgãos da administração info
 
 incompatível com a situação financeira da companhia. O conselho fiscal, se em funcionamento, deverá
 
-dar parecer sobre essa informação , devendo os administradores encaminharem à CVM, dentro de 5
+dar parecer sobre essa informação, devendo os administradores encaminharem à CVM, dentro de 5
 
-(cinco) dias da realização da assembleia -geral, exposição justifica da da informação transmitida à
+(cinco) dias da realização da assembleia-geral, exposição justificada da informação transmitida à
 
 assembleia.
 
 A exposição justificada requerida no artigo 202, parágrafo 4º, da Lei nº 6.404/76 deverá ser enviada por
 
-meio do Sistema Empresas.NET (categoria “Aviso aos Acionistas”, tipo “Outros avisos”), fazendo menção
+meio do Sistema Empresas.NET (categoria “Aviso aos Acionistas”
+
+, tipo “Outros avisos”), fazendo menção
 
 no assunto às informações divulgadas.
 
@@ -16182,19 +16446,21 @@ considerada nos citados casos.
 
 emissão de debêntures
 
-A Lei nº 12.431/11 deu nova re dação ao artigo 59, parágrafo 1º , da Lei nº 6.404/76, de modo que esse
+A Lei nº 12.431/11 deu nova redação ao artigo 59, parágrafo 1º, da Lei nº 6.404/76, de modo que esse
 
 dispositivo passou a estabelecer que, na companhia aberta, o conselho de administração pode deliberar
 
 sobre a emissão de debêntures não conversíveis em ações, salvo disposição estatutária em contrário.
 
-A respeito, conforme a decisão de Colegiado de 13.12.2011 (Processo CVM nº RJ2011/8312)74, essa nova
+A respeito, conforme a decisão de Colegiado de 13.12.2011 (Processo CVM nº RJ2011/8312)74
+
+, essa nova
 
 redação tem aplicabilidade imediata e não condicionada. Ou seja, inexistindo disposição estatutária que
 
 impeça a deliberação pelo conselho, o novo texto legal se encontra em vigor e é hábil a produzir todos os
 
-seus efeitos, de modo que os conselh os de administração das companhias abertas já podem, de pronto,
+seus efeitos, de modo que os conselhos de administração das companhias abertas já podem, de pronto,
 
 deliberar sobre a emissão de debêntures não conversíveis em ações.
 
@@ -16208,13 +16474,13 @@ Quando da consolidação do estatuto social, as companhias devem atentar para as
 
 74 Vide http://conteudo.cvm.gov.br/decisoes/2011/20111213_R1/20111213_D02.html.
 
+201
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-202
 
 Segundo esse comando legal, o estatuto social deve estabelecer: (a) o número de diretores, ou o máximo
 
@@ -16222,27 +16488,27 @@ e o mínimo permitidos; (b) as atribuições e os poderes de cada diretor; (c) p
 
 a três anos, permitida a reeleição; e (d) o modo de substituição.
 
-Assim sendo, recomenda -se que aquelas companhias cujos estatutos estejam em desacordo com a Lei
+Assim sendo, recomenda-se que aquelas companhias cujos estatutos estejam em desacordo com a Lei
 
 adotem as providências necessárias (inclusive convocação oportuna de assembleia geral, contemplando
 
-no seu edital a alteração estatutária em apreço) para corrig ir as lacunas eventualmente existentes nos
+no seu edital a alteração estatutária em apreço) para corrigir as lacunas eventualmente existentes nos
 
 respectivos estatutos sociais.
 
-O artigo 4º do Anexo K da Resolução CVM nº 80/22 , com a alteração promovida pela Resolução CVM nº
+O artigo 4º do Anexo K da Resolução CVM nº 80/22, com a alteração promovida pela Resolução CVM nº
 
 168/22, veda a acumulação dos cargos de presidente do conselho de administração e de diretor
 
 presidente ou principal executivo da companhia, e, seguindo a previsão do parágrafo 4º do artigo 138 da
 
-Lei nº 6.404/76 , excepciona, em seu parágrafo único, a aplicação dessa vedação nas companhias com
+Lei nº 6.404/76, excepciona, em seu parágrafo único, a aplicação dessa vedação nas companhias com
 
 receita bruta consolidada inferior a R$ 500.000.000,00 (quinhentos milhões de reais).
 
 O disposto nos artigos 1º a 3º do Anexo K da Resolução CVM nº 80/22 também se aplica à eleição dos
 
-diretores pelo conselho de administração, na forma prevista pelo parágrafo 4º do ar tigo 147 da Lei nº
+diretores pelo conselho de administração, na forma prevista pelo parágrafo 4º do artigo 147 da Lei nº
 
 6.404/76.
 
@@ -16250,25 +16516,29 @@ diretores pelo conselho de administração, na forma prevista pelo parágrafo 4�
 
 sociais (artigo 100 da Lei nº 6.404/76)
 
-O artigo 100, parágrafo 1º, da Lei nº 6.404/76 disciplina a faculdade de obter -se certidão dos
+O artigo 100, parágrafo 1º, da Lei nº 6.404/76 disciplina a faculdade de obter-se certidão dos
 
 assentamentos constantes do Livro de Registro de Ações Nominativas, do Livro de “Transferência de
 
-Ações Nominativas ”, do Livro de “Registro de Partes Beneficiárias Nominativas ” e do Livro de
+Ações Nominativas”, do Livro de “Registro de Partes Beneficiárias Nominativas” e do Livro de
 
-“Transferência de Partes Beneficiárias Nominativas”.
+“Transferência de Partes Beneficiárias Nominativas”
+
+.
 
 Tal certidão poderá ser fornecida a qualquer pessoa desde que a finalidade seja a “defesa de direitos e
 
-esclarecimento de situações de interesse pessoal ou dos acionistas ou do mercado de valores mobiliários”.
+esclarecimento de situações de interesse pessoal ou dos acionistas ou do mercado de valores mobiliários”
 
-Nesse sentido, deve -se observar que, conforme decisões do Colegiado acerca da matéria (vide, por
+.
+
+Nesse sentido, deve-se observar que, conforme decisões do Colegiado acerca da matéria (vide, por
 
 exemplo, Processos CVM RJ2003/13119 e RJ2003/7260)75, a companhia exerce, quanto a certos registros,
 
 uma função pública equiparada à dos agentes delegatários de poder estatal (como os cartórios do registro
 
-de imóveis), tendo em vista que a transferência da propriedade de ações, e a constituição de ônus reai s
+de imóveis), tendo em vista que a transferência da propriedade de ações, e a constituição de ônus reais
 
 sobre elas, somente se completa com a transcrição nos livros sociais, ou nos registros que lhes façam as
 
@@ -16284,15 +16554,15 @@ pela administração da companhia.
 
 75 Vide http://conteudo.cvm.gov.br/decisoes/2004/20041123_R1/20041123_D08.html.
 
+202
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-203
-
-Em decisão de 08 .12.2009 (Processo CVM nº RJ2009/5356)76, o Colegiado da CVM manifestou
+Em decisão de 08.12.2009 (Processo CVM nº RJ2009/5356)76, o Colegiado da CVM manifestou
 
 entendimento, em resposta à consulta formulada por agente do mercado, quanto às principais condições
 
@@ -16326,7 +16596,7 @@ identificado no pedido;
 
 d) o fornecimento da lista integral dos acionistas, com base no disposto no parágrafo 1º do artigo
 
-100 da Lei nº 6.404/76 , só se impõe nos casos em que estiver devidamente justificado que o
+100 da Lei nº 6.404/76, só se impõe nos casos em que estiver devidamente justificado que o
 
 direito violado ou em vias de ser violado é inerente à qualidade de acionista, sendo a sua defesa
 
@@ -16360,19 +16630,19 @@ g) fora das hipóteses de defesa de um direito coletivo ou individual homogêneo
 
 fornecimento de certidão dos assentamentos dos livros sociais formulado com o propósito de
 
-facilitar a mobilização de acionistas para defesa de seus interesses não atende a os requisitos
+facilitar a mobilização de acionistas para defesa de seus interesses não atende aos requisitos
 
 estabelecidos no artigo 100, parágrafo 1º, da Lei nº 6.404/76.
 
 76 Vide http://conteudo.cvm.gov.br/decisoes/2009/20091208_R1/20091208_D24.html.
+
+203
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-204
 
 Diante disso, deve-se ressaltar que não cabe ao requerente invocar o artigo 100, parágrafo 1º, para reunir
 
@@ -16392,11 +16662,11 @@ de serviços, não encontra respaldo no parágrafo 1º do artigo 100 da Lei nº 
 
 Cumpre citar que o Colegiado da CVM, nas reuniões realizadas em 23.02.2010, 20.07.2010, 19.11.2013 e
 
-19.07.2016 (Processos CVM RJ2010/0620, RJ2010/2689, RJ2012/13291 e SP2016/ 0089)77 reiterou o
+19.07.2016 (Processos CVM RJ2010/0620, RJ2010/2689, RJ2012/13291 e SP2016/0089)77 reiterou o
 
 entendimento acima descrito, firmado na reunião de 08.12.2009.
 
-Convém lembrar a decisão do Colegiado da CVM na reunião realizada em 28 .05.2013 (Processo CVM nº
+Convém lembrar a decisão do Colegiado da CVM na reunião realizada em 28.05.2013 (Processo CVM nº
 
 RJ2012/13291)78, na qual, entre outros, reiterou o entendimento proferido na já citada decisão de
 
@@ -16408,19 +16678,21 @@ as certidões dos assentamentos constantes dos livros mencionados nos incisos I 
 
 nº 6.404/76, observados os requisitos ali estabelecidos.
 
-Em reuniões realizadas em 09 .05.2017 e 11.07.2017, o Colegiado, ao analisar reclamação de acionista
+Em reuniões realizadas em 09.05.2017 e 11.07.2017, o Colegiado, ao analisar reclamação de acionista
 
-contra indeferimento pela companhia de pedido de lista de acionistas (Processo CVM nº SP2016/0174)79,
+contra indeferimento pela companhia de pedido de lista de acionistas (Processo CVM nº SP2016/0174)79
+
+,
 
 expressamente consignou a necessidade de nova avaliação da CVM sobre o citado precedente firmado no
 
-Processo CVM nº RJ2009/5356, destacando que a leitura do art igo 100, parágrafo 1º, não leva,
+Processo CVM nº RJ2009/5356, destacando que a leitura do artigo 100, parágrafo 1º, não leva,
 
-necessariamente, à conclusão de que “ fora das hipóteses de defesa de um direito coletivo ou individual
+necessariamente, à conclusão de que “fora das hipóteses de defesa de um direito coletivo ou individual
 
 homogêneo, o pedido de fornecimento de certidão dos assentamentos dos livros sociais formulado com
 
-o propósito de facilitar a mobilização de acionistas para defesa de seus interesses não ate nde aos
+o propósito de facilitar a mobilização de acionistas para defesa de seus interesses não atende aos
 
 requisitos estabelecidos no artigo 100, parágrafo 1º, da Lei nº 6.404/76”, bem como a necessidade de se
 
@@ -16430,13 +16702,15 @@ destinado especificamente a tutelar o direito dos acionistas de acessar a lista 
 
 como instrumento necessário à mobilização coletiva; e a possibilidade de, independentemente da
 
-utilização do art igo 126, parágrafo 3º, que possui regime próprio, haver situações em que a defesa de
+utilização do artigo 126, parágrafo 3º, que possui regime próprio, haver situações em que a defesa de
 
 direitos ou esclarecimento de situações de interesse pessoal ocorrerão, justamente, no âmbito de um
 
 conclave, o que dependerá de uma análise caso a caso.
 
-Em 07.11.2017, o Colegiado novamente apreciou a matéria (Processo CVM nº 19957.006319/2017-24)80,
+Em 07.11.2017, o Colegiado novamente apreciou a matéria (Processo CVM nº 19957.006319/2017-24)80
+
+,
 
 desta vez em pedido realizado por não acionista. Na ocasião, o Presidente Relator Marcelo Barbosa se
 
@@ -16460,19 +16734,19 @@ http://conteudo.cvm.gov.br/decisoes/2016/20160719_R1/20160719_D0166.html.
 
 80 Vide https://conteudo.cvm.gov.br/decisoes/2017/20171107_R1/20171107_D0795.html.
 
+204
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-205
-
 Isso porque a decisão de 2009 teria se referido especificamente a uma das finalidades previstas no
 
 dispositivo em comento, qual seja, a “defesa de direitos e esclarecimento de situações de interesse [...]
 
-dos acionistas ”, efetuada por acionista com base em direito coletivo ou individual homogêneo dos
+dos acionistas”, efetuada por acionista com base em direito coletivo ou individual homogêneo dos
 
 acionistas. Com relação a essa hipótese, prevaleceu o entendimento de que o acionista requerente deve
 
@@ -16526,7 +16800,7 @@ acionista, sua relação subjetiva com o direito apontado não é tão evidente.
 
 07.11.2017, o Colegiado destacou também que, na hipótese de pedidos feitos por não acionistas, a análise
 
-da legitimidade e justificativa apresentadas será mais complexa e não tão evidente, devendo -se atentar
+da legitimidade e justificativa apresentadas será mais complexa e não tão evidente, devendo-se atentar
 
 ainda mais para a ocorrência de possíveis situações abusivas.
 
@@ -16544,17 +16818,17 @@ ao propósito almejado.
 
 Embora não exista prazo específico expresso na legislação societária para que seja efetivado o
 
-fornecimento ou a negativa das certidões dos assentamentos constantes do Livro de Registro de Aç ões
+fornecimento ou a negativa das certidões dos assentamentos constantes do Livro de Registro de Ações
 
 81Vide http://conteudo.cvm.gov.br/decisoes/2017/20171024_R1/20171024_D9774.html.
+
+205
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-206
 
 Nominativas, nos termos do parágrafo 1º do artigo 100 da Lei nº 6.404/76, deve ser observado o seguinte
 
@@ -16568,7 +16842,7 @@ registros/arquivos e gerar a impressão, sem que haja delongas tendentes a invia
 
 assegurado em lei.
 
-Em reunião realizada em 30.05.2023, n o âmbito do Processo CVM nº 19957.001093/2023 -1382, o
+Em reunião realizada em 30.05.2023, no âmbito do Processo CVM nº 19957.001093/2023-1382, o
 
 Colegiado entendeu ser possível conceder a exibição da lista dos acionistas da companhia acompanhada
 
@@ -16592,13 +16866,13 @@ O artigo 253 da Lei nº 6.404/76 estabelece que, na proporção das ações que 
 
 companhia, os acionistas terão direito de preferência para (i) adquirir ações do capital da subsidiária
 
-integral, se a companhia decidir aliená -las no todo ou em parte; e (ii) subscrever aumento de capital da
+integral, se a companhia decidir aliená-las no todo ou em parte; e (ii) subscrever aumento de capital da
 
 subsidiária integral, se a companhia decidir admitir outros acionistas.
 
-O Colegiado da CVM, nas reuniões realizadas em 29 .03.2011 e 16 .08.2016 (Processo CVM nº
+O Colegiado da CVM, nas reuniões realizadas em 29.03.2011 e 16.08.2016 (Processo CVM nº
 
-RJ2010/13425 e Processo CVM nº 19957 .003452/2016-48)83, entendeu que o disposto neste artigo
+RJ2010/13425 e Processo CVM nº 19957.003452/2016-48)83, entendeu que o disposto neste artigo
 
 apenas se aplica às companhias convertidas em subsidiárias integrais em razão de operação de
 
@@ -16632,17 +16906,17 @@ estejam sujeitos à Resolução CVM nº 81/22, deverão divulgar, por meio do Si
 
 http://conteudo.cvm.gov.br/decisoes/2016/20160816_R1/20160816_D0307.html.
 
+206
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-207
-
 item 4.2.2) no mínimo, as seguintes informações: (a) quantidade de novas ações a serem emitidas pela
 
-subsidiária integral ou quantidade de ações da subsidiária integral a serem ali enadas; (b) preço unitário
+subsidiária integral ou quantidade de ações da subsidiária integral a serem alienadas; (b) preço unitário
 
 para subscrição ou aquisição das ações; (c) data a ser considerada para a identificação dos acionistas que
 
@@ -16660,11 +16934,11 @@ sobre a aquisição, por companhias emissoras, de debêntures de sua própria em
 
 A referida Resolução regulamenta a aquisição, por companhias emissoras, de debêntures de sua própria
 
-emissão, conforme o disposto no ar tigo 55, parágrafos 2º e 3º, da Lei nº 6.404 /76, nos mercados
+emissão, conforme o disposto no artigo 55, parágrafos 2º e 3º, da Lei nº 6.404/76, nos mercados
 
 regulamentados de valores mobiliários.
 
-Sem prejuízo do disposto na Resolução CVM nº 44/21 no que se refere ao julgamento da admin istração
+Sem prejuízo do disposto na Resolução CVM nº 44/21 no que se refere ao julgamento da administração
 
 quanto à necessidade de divulgação de fato relevante, ao aprovar a aquisição, pela companhia, de
 
@@ -16674,7 +16948,7 @@ fornecer as informações contidas no Anexo H da Resolução CVM nº 80/22.
 
 Caso a aquisição dependa de aprovação por parte da assembleia geral de acionistas e o emissor esteja
 
-sujeito à Resolução CVM nº 81/22 , ao convocá -la para deliberar sobre tal aquisição, o conselho de
+sujeito à Resolução CVM nº 81/22, ao convocá-la para deliberar sobre tal aquisição, o conselho de
 
 administração deve indicar as informações contidas no Anexo K do citado normativo.
 
@@ -16710,21 +16984,21 @@ Os deveres e responsabilidades dos administradores e dos acionistas controladore
 
 previstos nos artigos 153 a 160 e 116 e 117 da Lei nº 6.404/76, respectivamente.
 
+207
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-208
-
 O dever de informar (artigo 157) e o conflito de interesses (artigos 115 e 156) são abordados em diversos
 
-itens deste Ofício Circular . Não obstante, é oportuno destacar que o administrador eleito por grupo ou
+itens deste Ofício Circular. Não obstante, é oportuno destacar que o administrador eleito por grupo ou
 
 classe de acionistas tem, para com a companhia, os mesmos deveres que os demais, não podendo, ainda
 
-que para a defesa do interesse dos que o elegeram, faltar a esses deveres (parágrafo 1º do art igo 154),
+que para a defesa do interesse dos que o elegeram, faltar a esses deveres (parágrafo 1º do artigo 154),
 
 assim como o acionista controlador deve usar o poder no intuito de fazer a companhia realizar o seu
 
@@ -16754,11 +17028,13 @@ custas, pagará honorários de advogado de 20% (vinte por cento) e prêmio de 5%
 
 autor da ação, calculados sobre o valor da indenização (parágrafo 2º do artigo 246).
 
-Em reunião de 28.02.2023, o Colegiado analisou consulta referente à interpretação do art igo 246 da Lei
+Em reunião de 28.02.2023, o Colegiado analisou consulta referente à interpretação do artigo 246 da Lei
 
 nº 6.404/76, como matéria adjacente à reclamação apresentada no âmbito do Processo CVM nº
 
-19957.007423/2021-1284.
+19957.007423/2021-1284
+
+.
 
 Na referida consulta, foi requerida a confirmação da CVM acerca do seguinte entendimento: “i. Nos
 
@@ -16786,19 +17062,19 @@ Com relação ao segundo item da consulta, o Colegiado, sem perpassar por uma an
 
 arbitral da questão, que escapam à competência desta Autarquia, mas considerando a relevância do tema
 
-para o mercado de capitais e o dever da CVM de zela r pelo seu funcionamento eficiente, além de
+para o mercado de capitais e o dever da CVM de zelar pelo seu funcionamento eficiente, além de
 
 manifestar-se sobre questões da Lei nº 6.404/76 relativas a companhias abertas, consoante dispõe a Lei
 
 84 Vide https://conteudo.cvm.gov.br/decisoes/2023/20230228_R1/20230228_D2672.html.
+
+208
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-209
 
 nº 6.385/76, manifestou o entendimento de que a eventual propositura pela companhia de ação de
 
@@ -16814,29 +17090,31 @@ O artigo 120 da Lei 6.404/76 permite à assembleia geral “suspender o exercíc
 
 que deixar de cumprir obrigação imposta pela Lei ou pelo estatuto, cessando a suspensão logo que
 
-cumprida a obrigação”.
+cumprida a obrigação”
+
+.
 
 Nesse sentido, importante ressaltar que “o instituto da suspensão dos direitos políticos teve origem na
 
 intenção de forçar o cumprimento de uma obrigação e não o de ser instrumento de solução de conflitos
 
-em geral”, conforme decidido pelo Colegiado da CVM no âmb ito do Processo CVM nº
+em geral”, conforme decidido pelo Colegiado da CVM no âmbito do Processo CVM nº
 
 19957.002748/2023-7185, em reunião realizada em 25.04.2023.
 
 Importante observar que o artigo 109 da Lei Societária traz um rol de direitos, considerados essenciais,
 
-que nem o estatuto e nem a assembleia geral podem suprimi r, ainda que temporariamente , os quais
+que nem o estatuto e nem a assembleia geral podem suprimir, ainda que temporariamente, os quais
 
 estariam, portanto, excluídos do alcance do citado artigo 120.
 
-Assim, a possibilidade de suspensão de direitos de acionista pela assembleia geral restringe -se às
+Assim, a possibilidade de suspensão de direitos de acionista pela assembleia geral restringe-se às
 
 hipóteses de cumprimento de 3 requisitos: (i) ocorrência, em andamento, de descumprimento de
 
 obrigação imposta pela Lei ou estatuto; (ii) possibilidade de cessação do descumprimento, com imediato
 
-retorno dos direitos suprimidos; e (iii) não ser o direito suprimido considerado essenci al, nos termos do
+retorno dos direitos suprimidos; e (iii) não ser o direito suprimido considerado essencial, nos termos do
 
 artigo 109 já mencionado.
 
@@ -16866,13 +17144,13 @@ para a análise da SEP.
 
 85 Vide https://conteudo.cvm.gov.br/decisoes/2023/20230425_R1/20230425_D2848.html.
 
+209
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-210
 
 Já as reclamações e denúncias formuladas por administradores e conselheiros fiscais das companhias
 
@@ -16882,7 +17160,7 @@ no link https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-cvm.
 
 O Protocolo Digital da CVM é totalmente automatizado e permite o trâmite ágil e eficiente dos
 
-documentos protocolados na Autarquia , sendo possível acompanhar o andamento das solicitações
+documentos protocolados na Autarquia, sendo possível acompanhar o andamento das solicitações
 
 durante todas as etapas.
 
@@ -16894,11 +17172,11 @@ exceção do item 8.4) ou denúncias, envolvendo companhias.
 
 Os recursos ao Colegiado contra decisões ou manifestações de entendimento da SEP devem ser
 
-protocolados por meio do Protocolo Dig ital da CVM, respeitando o prazo de 15 (quinze) dias úteis,
+protocolados por meio do Protocolo Digital da CVM, respeitando o prazo de 15 (quinze) dias úteis,
 
 contados da sua ciência pelo interessado, conforme estabelecido na Resolução CVM nº 46/21.
 
-O Superintendente deverá, no prazo de 1 5 (quinze) dias úteis a contar do recebimento do recurso,
+O Superintendente deverá, no prazo de 15 (quinze) dias úteis a contar do recebimento do recurso,
 
 reformar ou manter a decisão recorrida e, na segunda hipótese, encaminhar o processo ao Colegiado
 
@@ -16918,13 +17196,13 @@ caberá o reexame da decisão denegatória do efeito suspensivo, nos termos da s
 
 O Superintendente notificará o recorrente acerca da decisão do Colegiado no prazo de 5 (cinco) dias úteis.
 
+210
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-211
 
 Destaca-se ainda que o requerimento de membro do Colegiado, do Superintendente que houver
 
@@ -16996,17 +17274,17 @@ devidos prazos, das obrigações legais e regulamentares, ainda que objeto da co
 
 Solicita-se que a consulta seja encaminhada em arquivo no formato “.pdf” com o conteúdo pesquisável
 
-ou que tenha sido digitalizado com tecnologia OCR ( “Optical Character Recognition ”), que permite
+ou que tenha sido digitalizado com tecnologia OCR (“Optical Character Recognition”), que permite
 
 reconhecer caracteres de texto.
+
+211
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-212
 
 Dúvidas pontuais de companhias abertas e estrangeiras a respeito da aplicação da legislação e
 
@@ -17018,7 +17296,7 @@ administrativos específicos dada sua complexidade, devem ser enviadas para os e
 
 vide item 1 deste Ofício.
 
-Por sua vez, as dúvidas pontuais das companhias incentivadas devem ser encaminhadas ao e -mail
+Por sua vez, as dúvidas pontuais das companhias incentivadas devem ser encaminhadas ao e-mail
 
 dain@cvm.gov.br.
 
@@ -17028,9 +17306,9 @@ existem orientações sobre o assunto em questão no presente Ofício Circular.
 
 Salienta-se que consultas de companhias encaminhadas diretamente aos e-mails das Gerências ou da SEP
 
-somente serão respondidas por e -mail se envolverem assuntos de baixa complexidade, que não
+somente serão respondidas por e-mail se envolverem assuntos de baixa complexidade, que não
 
-necessitem do envolvimento dos gerentes ou do superintendente. As demais consult as devem ser
+necessitem do envolvimento dos gerentes ou do superintendente. As demais consultas devem ser
 
 encaminhadas pelo Protocolo Digital para que haja abertura de um processo administrativo específico
 
@@ -17082,13 +17360,13 @@ Quanto a pedidos de vista relacionados a esses processos, a vedação que existi
 
 481/05 não mais se mantém frente à revogação da citada norma.
 
+212
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-213
 
 Não obstante, os pedidos de vista poderão ser atendidos em data futura designada de forma a não
 
@@ -17120,21 +17398,21 @@ Ressalta-se que os prazos para atendimento às solicitações contidas nos ofíc
 
 ser contados conforme especificado no próprio expediente. Quando não especificado, o prazo deve ser
 
-contado a partir da data do recebimento do ofício (data do envio do e -mail ou, caso o ofício tenha sido
+contado a partir da data do recebimento do ofício (data do envio do e-mail ou, caso o ofício tenha sido
 
 enviado apenas por via postal, a data de assinatura do AR).
 
-A SEP não deve ser copiada em e -mails trocados entre os administradores, conselheiros fiscais e
+A SEP não deve ser copiada em e-mails trocados entre os administradores, conselheiros fiscais e
 
 acionistas, em que sejam formulados questionamentos à administração da companhia aberta.
 
 8.6 Solicitações de audiências a particulares
 
-Em linha com o Decreto nº 4.334 /02, os pedidos de agendamento de reuniões com componentes
+Em linha com o Decreto nº 4.334/02, os pedidos de agendamento de reuniões com componentes
 
 organizacionais da CVM devem ser encaminhados por via eletrônica, por intermédio da página da CVM
 
-na rede mundial de computadores , selecionando, para tanto, a opção AUDIÊNCIA A PARTICULARES
+na rede mundial de computadores, selecionando, para tanto, a opção AUDIÊNCIA A PARTICULARES
 
 (http://sistemas.cvm.gov.br/?Audiencia). Recomenda-se ao emissor que preencha da forma mais
 
@@ -17146,7 +17424,7 @@ da audiência.
 
 Nessa solicitação, deverá constar a especificação clara do assunto a ser tratado, tendo por condição
 
-necessária, no caso de consultas de emissores, o seu prévio encaminhamento, conforme descrito n este
+necessária, no caso de consultas de emissores, o seu prévio encaminhamento, conforme descrito neste
 
 Ofício Circular (vide item 8.3). É recomendável, ainda, que o emissor entre em contato preferencialmente
 
@@ -17156,11 +17434,13 @@ visando verificar a disponibilidade da agenda.
 
 8.7 Pedido de vista de processo
 
-O pedido de vista de processos administrativos sancionadores encontra -se fundamentado na Resolução
+O pedido de vista de processos administrativos sancionadores encontra-se fundamentado na Resolução
 
 CVM nº 45/21, Subseção VI (“Concessão de Acesso aos Acusados e Pedido de Vista Formulado por
 
 Terceiros”), sendo explicitado no artigo 48, inciso I, que aos acusados é assegurada a concessão de acesso
+
+213
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -17168,9 +17448,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-214
-
-aos autos, cumprida a determinação do art igo 21, parágrafo 1º, inciso VI da Resolução, cabendo à
+aos autos, cumprida a determinação do artigo 21, parágrafo 1º, inciso VI da Resolução, cabendo à
 
 Gerência de Controle de Processos Sancionadores (GCP) o atendimento desses pedidos.
 
@@ -17178,11 +17456,11 @@ Ressalta-se que cabe ao Relator analisar o sigilo das informações constantes d
 
 sancionador, visando à concessão de vista solicitada por terceiro, podendo restituir o processo à
 
-superintendência de origem para análise do sigilo de d ocumentos ou informações tidos como
+superintendência de origem para análise do sigilo de documentos ou informações tidos como
 
 confidenciais, não disponibilizáveis a terceiros, juntados aos autos até a distribuição do processo,
 
-conforme incisos II e IV , e cabe à superintendência de origem a análise do sigilo de documentos ou
+conforme incisos II e IV, e cabe à superintendência de origem a análise do sigilo de documentos ou
 
 informações tidos como confidenciais, não disponibilizáveis a terceiros até a designação de Relator,
 
@@ -17194,7 +17472,7 @@ concessão de vista de processos administrativos, naquilo em que não contrariar
 
 Resolução CVM nº 45/21.
 
-Já o pedido de vista de processos administrativos não sancionadores encontra -se disciplinado pela
+Já o pedido de vista de processos administrativos não sancionadores encontra-se disciplinado pela
 
 Resolução CVM nº 48/21, em especial, no Capítulo II (“Concessão de Vistas”), que, no artigo 3º, explicita
 
@@ -17216,7 +17494,7 @@ Ressalta-se que a decisão que indeferir o pedido de vista deve ser devidamente 
 
 cabendo recurso ao Colegiado, nos termos de regulamentação que trata de recursos ao Colegiado, e antes
 
-de sua apreciação pelo Colegiado, os argumentos do recu rso devem ser examinados, na forma do
+de sua apreciação pelo Colegiado, os argumentos do recurso devem ser examinados, na forma do
 
 regimento interno da CVM, pelo titular do componente organizacional ou pelo dirigente da unidade de
 
@@ -17230,7 +17508,7 @@ Os pedidos de vista podem ser atendidos em data futura designada de forma a não
 
 de ato ou na adoção de providências necessárias à boa condução do processo. É o caso, por exemplo, dos
 
-processos administrativos instaurados em razão d e pedidos de adiamento de assembleia geral de
+processos administrativos instaurados em razão de pedidos de adiamento de assembleia geral de
 
 companhias abertas ou de interrupção da fluência do prazo de sua convocação, nos termos da Resolução
 
@@ -17248,17 +17526,17 @@ Gerência de Controle de Processos (GCP). Já para os processos administrativos 
 
 solicitante deverá selecionar como área destinatária o Centro de Consultas (CDC).
 
+214
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-215
-
 Ressalta-se que os pedidos de acesso à informação, com base na Lei nº 12.527/11 (Lei de Acesso à
 
-Informação), estão previstos no Capítulo III da Resolução CVM nº 48/21 (“Pedido de Acesso ”) e não se
+Informação), estão previstos no Capítulo III da Resolução CVM nº 48/21 (“Pedido de Acesso”) e não se
 
 confundem com o pedido de vista de processo administrativo, conforme disposto no artigo 12 da
 
@@ -17296,7 +17574,7 @@ fase de apuração preliminar dos fatos, que, neste caso, deverá ser encaminhad
 
 responsável pela apuração.
 
-De acordo com o art igo 11, parágrafo 5º, da Lei nº 6.385/76, a referida proposta deve ser encaminhada
+De acordo com o artigo 11, parágrafo 5º, da Lei nº 6.385/76, a referida proposta deve ser encaminhada
 
 em nome do próprio investigado ou acusado, não devendo ser enviada em nome da companhia, salvo nos
 
@@ -17322,15 +17600,15 @@ II – a não instauração de processo administrativo sancionador, nos casos em
 
 apresentada ainda em fase de apuração ou antes desta.
 
+215
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-216
-
-Estão disponíveis no site da CVM na rede mundial de computadores , no link “Atuação Sancionadora –
+Estão disponíveis no site da CVM na rede mundial de computadores, no link “Atuação Sancionadora –
 
 Termos de Compromisso” (http://conteudo.cvm.gov.br/termos_compromisso/index.html), informações
 
@@ -17338,7 +17616,7 @@ sobre termos de compromisso, inclusive aqueles já celebrados com a CVM, que pod
 
 exemplos para a apresentação de propostas.
 
-Destaca-se que, de acordo com o artigo 81 da Resolução CVM nº 45/21 , a celebração de compromisso
+Destaca-se que, de acordo com o artigo 81 da Resolução CVM nº 45/21, a celebração de compromisso
 
 não importa em confissão quanto à matéria de fato, nem reconhecimento de ilicitude da conduta
 
@@ -17350,7 +17628,7 @@ Na contagem de prazos, deve ser observada a regra estabelecida pelo artigo 66 da
 
 regula o processo administrativo no âmbito da administração pública federal. Neste sentido, a contagem
 
-de prazos nos referidos processos dá -se de forma se melhante à estabelecida pelo artigo 224, caput, da
+de prazos nos referidos processos dá-se de forma semelhante à estabelecida pelo artigo 224, caput, da
 
 Lei nº 13.105/15.
 
@@ -17362,7 +17640,7 @@ envio de carta com Aviso de Recebimento (AR), fax ou mensagem eletrônica, sendo
 
 contar do primeiro que ocorrer.
 
-No caso de multas cominatórias, deve -se observar o disposto nos artigos 14 e 15 da Resolução CVM nº
+No caso de multas cominatórias, deve-se observar o disposto nos artigos 14 e 15 da Resolução CVM nº
 
 47/21.
 
@@ -17398,13 +17676,13 @@ administrativos, bem como os procedimentos de acesso à informação previstos n
 
 Acesso à Informação (vide item 8.7).
 
+216
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-217
 
 Nos termos do caput do artigo 7º da referida Resolução, o pedido de acesso à informação com base na
 
@@ -17412,9 +17690,11 @@ Lei nº 12.527/11 deve ser apresentado em formulário padrão, disponibilizado e
 
 pelo Serviço de Informação ao Cidadão – SIC da CVM.
 
-Para encaminhar o pedido de acesso a informações deve ser utilizada a plataforma “Fala.BR”,
+Para encaminhar o pedido de acesso a informações deve ser utilizada a plataforma “Fala.BR”
 
-desenvolvida pela Controladoria -Geral da União (CGU) , que pode ser acessada por meio do link
+,
+
+desenvolvida pela Controladoria-Geral da União (CGU), que pode ser acessada por meio do link
 
 https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx. As versões para
 
@@ -17448,7 +17728,7 @@ informação.
 
 Desprovidos os recursos previstos acima ou infrutífera a reclamação citada no parágrafo anterior, pode o
 
-requerente interpor recurso no prazo de dez dias, contado da ciência da decisão, à Controladoria -Geral
+requerente interpor recurso no prazo de dez dias, contado da ciência da decisão, à Controladoria-Geral
 
 da União.
 
@@ -17474,13 +17754,13 @@ indicar o local onde se encontram as informações a partir das quais o requeren
 
 interpretação, consolidação ou tratamento de dados.
 
+217
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-218
 
 8.11 Lei Geral de Proteção de Dados Pessoais (LGPD)
 
@@ -17490,7 +17770,7 @@ companhias, investigar ilícitos, desenvolver parcerias, gerir pessoas e terceir
 
 conformidade com a Lei nº 13.709/18 (Lei Geral de Proteção de Dados Pessoais – LGPD).
 
-O tratamento de dados pessoais, considerados os processos e as tecnologias atuais, restringe -se ao
+O tratamento de dados pessoais, considerados os processos e as tecnologias atuais, restringe-se ao
 
 mínimo necessário para a prestação qualificada de seus serviços, sendo os direitos dos titulares de dados
 
@@ -17514,19 +17794,19 @@ A CVM desenvolve programa continuado de privacidade com foco na avaliação de r
 
 na adoção de controles internos que incluem: (i) a adequação de processos; (ii) o ajustamento de sistemas
 
-e (iii) o treinamento de pessoas, em consonância co m as diretrizes emitidas pela Secretaria de Governo
+e (iii) o treinamento de pessoas, em consonância com as diretrizes emitidas pela Secretaria de Governo
 
 Digital (SGD/ME).
 
 9 Sistema Empresas.NET para a Elaboração e Entrega de Informações
 
-O Sistema Empresas.NET é um sistema desenvolvi do em parceria com a B3 no intuito de facilitar o
+O Sistema Empresas.NET é um sistema desenvolvido em parceria com a B3 no intuito de facilitar o
 
 cumprimento, pelas companhias, das obrigações regulamentares de divulgação de informações aos
 
 participantes do mercado de capitais.
 
-As informações de que trata o Sistema Empresas.NET encontram -se previstas, notadamente, nas
+As informações de que trata o Sistema Empresas.NET encontram-se previstas, notadamente, nas
 
 Resoluções CVM nº 80/22, 81/22 e 44/21. Há documentos e informações adicionais divulgados por força
 
@@ -17534,7 +17814,7 @@ de outros atos normativos da CVM, de normas de segmentos de listagem da B3 ou po
 
 práticas da governança corporativa.
 
-O Sistema Empresas. NET é um programa que deve ser utilizado pelas companhias registradas ou que
+O Sistema Empresas.NET é um programa que deve ser utilizado pelas companhias registradas ou que
 
 pretendam se registrar na CVM para gerar e enviar os formulários cadastral, de referência, ITR e DFP à
 
@@ -17546,11 +17826,13 @@ periódicas e eventuais passaram a ser encaminhadas por meio do Sistema Empresas
 
 que antes eram enviadas pelo Sistema IPE.
 
-O Sistema Empresas.NET é o único meio de encaminhamento para a CVM e para a B 3, no caso das
+O Sistema Empresas.NET é o único meio de encaminhamento para a CVM e para a B3, no caso das
 
 companhias lá listadas, das informações periódicas e eventuais das companhias, não sendo aceito que os
 
 documentos listados no Empresas.NET sejam entregues nos protocolos ou enviados por carta registrada.
+
+218
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -17558,17 +17840,15 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-219
-
 Salienta-se que houve a migração dos seguintes formulários estruturados: formulário cadastral (FCA),
 
 informações trimestrais (ITR), formulário de referência (FRE) e demonstrações financeiras padronizadas
 
 (DFP) do aplicativo Client para a plataforma web, que representa uma evolução do Sistema Empresas.NET.
 
-Para mais informações, consulte os Ofícios Circulares nº 4/2 021-CVM/SEP, nº 5/2021 -CVM/SEP, nº
+Para mais informações, consulte os Ofícios Circulares nº 4/2021-CVM/SEP, nº 5/2021-CVM/SEP, nº
 
-6/2021-CVM/SEP e nº 7/2022 -CVM/SEP, disponíveis na página da CVM na internet, acessíveis pelo link
+6/2021-CVM/SEP e nº 7/2022-CVM/SEP, disponíveis na página da CVM na internet, acessíveis pelo link
 
 https://conteudo.cvm.gov.br/legislacao/index.html?buscado=true&contCategoriasCheck=1&vimDaCate
 
@@ -17626,7 +17906,7 @@ participante/companhias/envio-de-
 
 informacoes/ManualSistemadeEnviodeInformacoesPeriodicaseEventuais.pdf, que apresenta listagem
 
-das associações ( categorias, tipos e espécies ) de documentos previstos no Sistema Empresas.NET,
+das associações (categorias, tipos e espécies) de documentos previstos no Sistema Empresas.NET,
 
 classificados pela obrigatoriedade ou não de envio, pela periodicidade de sua divulgação e pela
 
@@ -17634,19 +17914,19 @@ necessidade ou não de publicação pela imprensa, bem como traz orientações q
 
 de acesso ao sistema (envio e cancelamento de dados).
 
+219
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-220
-
 A limitação no tamanho dos arquivos a serem incluídos no Sistema Empresas.NET é imposta pelo próprio
 
 sistema e tem como objetivo facilitar o acesso dos investidores à informação arquivada no Sistema
 
-Empresas.NET, já que, por sua vez é dependente dos processos de baixar arquivos ( download), inviáveis
+Empresas.NET, já que, por sua vez é dependente dos processos de baixar arquivos (download), inviáveis
 
 em muitos casos. A limitação imposta visa ao melhor desempenho do próprio sistema e do site, gerando
 
@@ -17668,7 +17948,7 @@ anexados aos documentos criados no sistema não devem estar protegidos ou digita
 
 não permitam ser pesquisados.
 
-Ressalta-se a importância de as co mpanhias acompanharem os Ofícios Circulares da SEP , divulgados
+Ressalta-se a importância de as companhias acompanharem os Ofícios Circulares da SEP, divulgados
 
 durante o ano, que apresentam as melhorias realizadas no Sistema Empresas.NET.
 
@@ -17712,13 +17992,13 @@ d) sempre que a informação divulgada pelo emissor for válida por um prazo det
 
 deve ser indicado (artigo 19);
 
+220
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-221
 
 e) informações factuais devem ser diferenciadas de interpretações, opiniões, projeções e
 
@@ -17738,7 +18018,7 @@ O Sistema Empresas.NET incorpora tanto campos estruturados quanto campos de text
 
 apresentação das informações requeridas no formulário de referência.
 
-De forma a garantir uma melhor compreensão e a comparabilidade pelos investidores, alerta -se que
+De forma a garantir uma melhor compreensão e a comparabilidade pelos investidores, alerta-se que
 
 sempre que as informações exigidas forem prestadas em campos de texto livre, o emissor deverá, ainda
 
@@ -17756,7 +18036,7 @@ Considerando que o formulário de referência é documento obrigatório para fin
 
 companhia aberta, a companhia que tenha sido constituída no mesmo exercício social em que realizado
 
-seu pedido de registro de companhia aberta deverá, na criação da versão 1 .0 de seu formulário de
+seu pedido de registro de companhia aberta deverá, na criação da versão 1.0 de seu formulário de
 
 referência, informar em “Dados do FRE/Exercícios sociais”, nos campos “Data início” e “Data término” da
 
@@ -17770,17 +18050,17 @@ O Anexo C prevê em várias seções do FRE campos abertos para a apresentação
 
 que o emissor julgue relevantes”. O objetivo destes campos é permitir que o emissor forneça outras
 
-informações não solicitadas no formulário de referência , julgadas importantes para fundamentar a
+informações não solicitadas no formulário de referência, julgadas importantes para fundamentar a
 
 decisão de investimento ou para garantir o correto entendimento, pelos investidores, das informações
 
-prestadas no FRE sobre a sua situação econômico -financeira, de seus negócios e dos riscos inerentes às
+prestadas no FRE sobre a sua situação econômico-financeira, de seus negócios e dos riscos inerentes às
 
 suas atividades e dos valores mobiliários por ele emitidos.
 
 Deve-se evitar, portanto, a inserção nesses campos de informações repetitivas ou que devam constar de
 
-outro campo específi co do formulário de referência ou, ainda, de texto de natureza promocional,
+outro campo específico do formulário de referência ou, ainda, de texto de natureza promocional,
 
 limitando seu uso a esclarecimentos estritamente necessários, que de fato agreguem conhecimento sobre
 
@@ -17794,13 +18074,13 @@ alguns dos itens que deverão ser atentamente observadas pelos emissores quando 
 
 atualização e reentrega do formulário de referência.
 
+221
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-222
 
 Orienta-se os emissores para a desnecessidade de inclusão no formulário de referência de informações
 
@@ -17818,7 +18098,7 @@ de distribuição de valores mobiliários, as informações solicitadas nesses i
 
 demonstrações financeiras de encerramento do exercício social e às últimas informações contábeis
 
-divulgadas pelo emissor, tal como, por exemplo, as in formações referentes ao último formulário de
+divulgadas pelo emissor, tal como, por exemplo, as informações referentes ao último formulário de
 
 informações trimestrais – ITR divulgado pelo emissor. Quando da apresentação do formulário de
 
@@ -17856,9 +18136,9 @@ suas características, esse fato deverá constar expressamente no FRE, acompanha
 
 explique o motivo pelo qual a informação solicitada não lhe é aplicável.
 
-Com relaçã o aos campos de texto livre do S istema Empresas.NET, caso as informações não sejam
+Com relação aos campos de texto livre do Sistema Empresas.NET, caso as informações não sejam
 
-aplicáveis, o emissor deverá indicar no próprio campo as razões que justificam a não apresent ação das
+aplicáveis, o emissor deverá indicar no próprio campo as razões que justificam a não apresentação das
 
 informações exigidas.
 
@@ -17872,13 +18152,13 @@ aplicáveis, dado que o emissor não realizou oferta pública de distribuição 
 
 atende a tal finalidade.
 
+222
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-223
 
 10.2 Orientações para o preenchimento do formulário de referência
 
@@ -17894,7 +18174,7 @@ exemplo: data de fundação e seu fundador; mudanças de denominação e de obje
 
 de programa de expansão, se relevante; eventos societários relevantes já ocorridos, tais como alienação
 
-ou aquisição de controle, fusão , cisão ou oferta pública de compra ou venda de ações; falência,
+ou aquisição de controle, fusão, cisão ou oferta pública de compra ou venda de ações; falência,
 
 concordata; recuperação judicial ou extrajudicial, diversificação de produtos; desenvolvimento de novos
 
@@ -17920,7 +18200,7 @@ Caso o emissor opte por divulgar suas principais vantagens competitivas e oportu
 
 apresentar seus pontos fracos e obstáculos/ameaças em contraposição às informações divulgadas.
 
-O emissor deve descrever as suas atividades d a forma mais neutra e objetiv a possível, prestando
+O emissor deve descrever as suas atividades da forma mais neutra e objetiva possível, prestando
 
 informações factuais e evitando o uso de linguagem que possa ser considerada superlativa ou de eventual
 
@@ -17936,7 +18216,7 @@ a) descrever sua atuação em atendimento às políticas públicas (incluindo me
 
 incluindo os programas governamentais executados no exercício social anterior, os definidos para
 
-o exercício social em curso, e os previstos para os próximos e xercícios sociais, destacando os
+o exercício social em curso, e os previstos para os próximos exercícios sociais, destacando os
 
 programas governamentais criados;
 
@@ -17944,17 +18224,17 @@ b) indicar, relativamente ao que a impactar e considerando o disposto nos planos
 
 orçamentárias aplicáveis, os investimentos, custos e receitas não auferidas, bem como os recursos
 
-envolvidos, as fontes e condições de financiamento, inclusive quanto a ev entual dotação
+envolvidos, as fontes e condições de financiamento, inclusive quanto a eventual dotação
 
 orçamentária, das políticas públicas descritas no item (a);
+
+223
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-224
 
 c) divulgar estimativa dos impactos das políticas públicas descritas no item (a) no desempenho
 
@@ -17988,7 +18268,7 @@ Quanto às características do processo de produção (letra “a”) devem ser 
 
 informações necessárias para a compreensão do processo de produção do emissor, incluindo, por
 
-exemplo, informações relativas a: origem e detentores da t ecnologia utilizada, comparação entre a
+exemplo, informações relativas a: origem e detentores da tecnologia utilizada, comparação entre a
 
 produção anual e a capacidade instalada, comparação com indicadores de produtividade característicos
 
@@ -18002,7 +18282,7 @@ Quanto às características do processo de distribuição (letra “b”), devem
 
 distribuição física dos produtos e serviços, incluindo informações sobre o número de agências, lojas,
 
-revendedores, frota etc., e ainda, se no processo sã o utilizadas empresas controladas, coligadas,
+revendedores, frota etc., e ainda, se no processo são utilizadas empresas controladas, coligadas,
 
 controladoras diretas ou indiretas ou de propriedade do acionista controlador.
 
@@ -18014,7 +18294,7 @@ Em relação ao requisitado na letra “c” devem ser apresentados, de forma ob
 
 influenciam o comportamento dos mercados de atuação da companhia, tais como: benefícios fiscais,
 
-situações de monopólio ou oligopólio, subsídios, nível de concorr ência, custos de matérias -primas e
+situações de monopólio ou oligopólio, subsídios, nível de concorrência, custos de matérias-primas e
 
 outras despesas, dependência de tecnologia e mão de obra, utilização de concessões e franquias,
 
@@ -18026,13 +18306,13 @@ concentra, bem como deve ser incluída informação sobre o impacto, em percentu
 
 sobre as contas de resultado.
 
+224
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-225
 
 10.2.1.5 Informações sobre os efeitos da regulação estatal sobre as atividades do
 
@@ -18042,7 +18322,7 @@ Neste item devem ser prestadas informações específicas sobre a regulação do
 
 emissor, com a descrição das normas de maior impacto em sua atividade, tais como para a obtenção de
 
-licenças, autorizações, permissões e demais atos administrat ivos aos quais o emissor está sujeito.
+licenças, autorizações, permissões e demais atos administrativos aos quais o emissor está sujeito.
 
 Adicionalmente, recomenda-se a identificação das agências reguladoras às quais a atuação do emissor
 
@@ -18058,7 +18338,7 @@ Em relação ao item 1.6 “d”, sobre “contribuições financeiras, com indi
 
 efetuadas diretamente ou por meio de terceiros”, tendo em vista que a redação menciona tanto as
 
-contribuições diretas como as realizadas por terceiros, entende -se que devem também ser informadas
+contribuições diretas como as realizadas por terceiros, entende-se que devem também ser informadas
 
 quando forem realizadas por administrador ou controlador da companhia, uma vez que tais contribuições,
 
@@ -18076,13 +18356,13 @@ Neste item, o emissor deve relatar se divulga informações relacionadas a aspec
 
 de governança corporativa (ASG) em relatório anual, ou outro documento específico para esta finalidade,
 
-qual a metodologia ou padrão utilizados na elaboração, devendo -se explicitar se é auditado ou revisado
+qual a metodologia ou padrão utilizados na elaboração, devendo-se explicitar se é auditado ou revisado
 
 por entidade independente.
 
 É fundamental que a companhia descreva claramente quais metodologias ou padrões (por vezes,
 
-denominados “ framework” ou “estrutura conceitual”) foram efetivamente seguidos na elaboração do
+denominados “framework” ou “estrutura conceitual”) foram efetivamente seguidos na elaboração do
 
 relatório ou documento, não devendo ser feitas alusões a metodologias ou padrões que não tiverem sido
 
@@ -18090,7 +18370,7 @@ efetivamente seguidos.
 
 No caso de menção à adoção da estrutura conceitual básica (framework) do relato integrado, elaborada
 
-pelo International Integrated Reporting Counci l ‒ IIRC, atentar às orientações específicas a respeito,
+pelo International Integrated Reporting Council ‒ IIRC, atentar às orientações específicas a respeito,
 
 contidas neste Ofício Circular (vide item 3.2.4), notadamente quanto à necessidade de que (i) o
 
@@ -18098,7 +18378,7 @@ documento siga a estrutura conceitual prevista na Orientação CPC 09 e (ii) iss
 
 escopo dos trabalhos de asseguração limitada pelo auditor independente registrado na CVM.
 
-Na letra “e”, a expressão “indicadores materiais para o emissor” refere -se aos principais (materiais)
+Na letra “e”, a expressão “indicadores materiais para o emissor” refere-se aos principais (materiais)
 
 indicadores-chave de desempenho ASG para o emissor, uma vez que os indicadores materiais são parte
 
@@ -18108,13 +18388,13 @@ para o emissor, mas sim os indicadores propriamente ditos, que devem ser relacio
 
 de forma clara e objetiva para o leitor do documento.
 
+225
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-226
 
 Na letra “f”, deve informar se este relatório leva em conta os objetivos de desenvolvimento sustentável
 
@@ -18130,7 +18410,7 @@ Alerta-se que a divulgação segue a adoção do modelo “pratique ou explique�
 
 adote alguma das práticas relacionadas nas letras “a” a “h”, deverá explicar na letra “i” os motivos pelos
 
-quais não segue tal prática, informando, inclusive, se pretende adotá -las no futuro e qual a expectativa
+quais não segue tal prática, informando, inclusive, se pretende adotá-las no futuro e qual a expectativa
 
 de quando deve ocorrer a adoção.
 
@@ -18176,21 +18456,21 @@ Esta seção do FRE objetiva que os diretores forneçam aos investidores coment�
 
 negócios do emissor e dos fatores subjacentes ao resultado de suas operações e de sua situação financeira
 
-durante o período coberto pelas demonstrações financeiras, incl usive no que diz respeito às principais
+durante o período coberto pelas demonstrações financeiras, inclusive no que diz respeito às principais
 
 tendências e fatores que possam afetar o desenvolvimento futuro da entidade.
 
-Nesta seção do formulário de referência , os diretores têm a oportunidade de evidenciar e explicar os
+Nesta seção do formulário de referência, os diretores têm a oportunidade de evidenciar e explicar os
 
 fatores que mais afetaram a situação financeira, econômica e patrimonial do emissor, de forma a permitir
+
+226
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-227
 
 uma interpretação mais precisa desses fatos pelos investidores, possibilitando que vejam a companhia
 
@@ -18208,11 +18488,11 @@ possa compreender e avaliar o contexto no qual as informações presentes em sua
 
 financeiras estão inseridas.
 
-Nesse sentido, recomenda -se evitar a mera citação de situações possíveis de ser em constatadas
+Nesse sentido, recomenda-se evitar a mera citação de situações possíveis de serem constatadas
 
 diretamente pelo público investidor, tais como referências a percentuais de crescimento ou de
 
-decréscimo de contas ou de linhas do resultado. Pretende -se que sejam esclarecidas as razões que
+decréscimo de contas ou de linhas do resultado. Pretende-se que sejam esclarecidas as razões que
 
 levaram à sua ocorrência, e quais medidas serão observadas para manter, potencializar ou corrigir essa
 
@@ -18226,7 +18506,7 @@ distribuição pública de valores mobiliários.
 
 Caso o emissor elabore demonstrações financeiras consolidadas, as informações desta seção do
 
-formulário de referência , quando cabível , deverão ser prestadas com base nessas demonstrações,
+formulário de referência, quando cabível, deverão ser prestadas com base nessas demonstrações,
 
 devendo o emissor deixar esse fato claramente identificado no item correspondente desta seção do FRE.
 
@@ -18246,7 +18526,7 @@ os diretores comentem nesses campos sobre as principais tendências conhecidas, 
 
 compromissos ou eventos que possam ter um efeito relevante nas condições financeiras e patrimoniais
 
-do emissor e, em especial, em seu resultado, sua receita, sua lu cratividade, e nas condições e
+do emissor e, em especial, em seu resultado, sua receita, sua lucratividade, e nas condições e
 
 disponibilidade de fontes de financiamento.
 
@@ -18256,7 +18536,7 @@ divulgação de projeções ou estimativas, objeto da seção 3 do FRE, ou com a
 
 demonstrativo de análise de sensibilidade. Nesse ponto, é importante diferenciar os conceitos de
 
-projeção, cuja divulgação é opcional, e é informada na seção 3 do formulário de referência , do de
+projeção, cuja divulgação é opcional, e é informada na seção 3 do formulário de referência, do de
 
 tendência. A tendência não se confunde com projeção por não ser quantificada.
 
@@ -18270,13 +18550,13 @@ conhecido pelo mercado, uma vez que está refletido nas informações regularmen
 
 emissor, como histórico de crescimento de vendas, queda de preços etc. e, portanto, cabem ser
 
+227
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-228
 
 comentadas para permitir aos investidores enxergar a situação da companhia pela perspectiva da
 
@@ -18286,7 +18566,7 @@ de continuidade (ou não), baseado em fatos já ocorridos, não a ocorrer, como 
 
 Cabe ainda ressaltar que os administradores devem tecer seus comentários da forma mais objetiva
 
-possível, tratando especificamente do tema previsto pelo enunciado. Deve -se tomar cuidado para o
+possível, tratando especificamente do tema previsto pelo enunciado. Deve-se tomar cuidado para o
 
 excesso de generalidades nos comentários, pois isso pode levar à desinformação.
 
@@ -18302,13 +18582,13 @@ Nos comentários concernentes à capacidade de pagamento em relação aos compro
 
 assumidos, o emissor deve apresentar embasamento quantitativo às afirmações de que a administração
 
-entende que a companhia conta com recursos suficientes para pa gar seus compromissos financeiros
+entende que a companhia conta com recursos suficientes para pagar seus compromissos financeiros
 
 assumidos.
 
 Note-se que a informação sobre fontes de financiamento para capital de giro e para investimentos em
 
-ativos não circulantes a ser fornecida na letra “d” do item 2.1 tem cunho pretérito , ao passo que a
+ativos não circulantes a ser fornecida na letra “d” do item 2.1 tem cunho pretérito, ao passo que a
 
 informação fornecida na letra “e” do item 2.1 tem cunho prospectivo. Assim sendo, as informações
 
@@ -18324,7 +18604,7 @@ passivo exigível dos balanços patrimoniais que integram as demonstrações fin
 
 ordem de precedência em eventual concurso universal de credores.
 
-Além disso, devem ser informadas, no item 2.1 “f.iv”, as cláusulas restritivas ( covenants) existentes em
+Além disso, devem ser informadas, no item 2.1 “f.iv”, as cláusulas restritivas (covenants) existentes em
 
 contratos de financiamento firmados pelo emissor, acompanhadas dos respectivos índices. Nesse item
 
@@ -18338,11 +18618,11 @@ com os credores e qual foi o valor efetivamente performado nos períodos requeri
 
 Também no item 2.1 “f.iv”, o emissor deve listar os contratos de empréstimo e financiamento relevantes
 
-que possuam cláusula de vencimento antecipado cruzado ( cross-default ou cross aceleration ) e seus
+que possuam cláusula de vencimento antecipado cruzado (cross-default ou cross aceleration) e seus
 
-respectivos valores , indicando os covenants financeiros ou não financeiros que, em caso de
+respectivos valores, indicando os covenants financeiros ou não financeiros que, em caso de
 
-descumprimento, podem acionar a cláusula de vencimento antecipado , de forma automática ou não
+descumprimento, podem acionar a cláusula de vencimento antecipado, de forma automática ou não
 
 automática (ou seja, após consulta aos credores). A companhia deve ainda divulgar o percentual do seu
 
@@ -18358,13 +18638,13 @@ valores mobiliários, as informações referentes aos covenants devem se referir
 
 financeiras de encerramento do exercício social e às últimas informações contábeis divulgadas pelo
 
+228
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-229
 
 emissor. Eventual covenant referente à obtenção de registro de emissor junto à CVM até determinada
 
@@ -18402,7 +18682,7 @@ se limitar à mera transcrição das informações prestadas sobre o assunto nas
 
 ou à simples a listagem dos CPC adotados em cada exercício. Neste item, os diretores devem inserir
 
-comentários que permitam aos investidores compreender em o motivo da alteração, as diferenças das
+comentários que permitam aos investidores compreenderem o motivo da alteração, as diferenças das
 
 novas práticas adotadas em relação ao modelo anterior e os efeitos significativos provocados no resultado
 
@@ -18418,7 +18698,7 @@ Os comentários sobre as ressalvas e ênfases do auditor independente (letra “
 
 independentemente do julgamento dos diretores sobre sua relevância. Também não devem se limitar à
 
-mera transcrição das informações presentes no relatório do auditor, cabendo aos diretores inserir em
+mera transcrição das informações presentes no relatório do auditor, cabendo aos diretores inserirem
 
 comentários sobre todos os aspectos presentes no relatório.
 
@@ -18430,7 +18710,7 @@ Neste item, os diretores devem comentar sobre os efeitos relevantes que a introd
 
 segmento operacional, constituição, aquisição ou alienação de participação societária e de eventos ou a
 
-realização de operações não usuais tenham causado o u que se espera que venham a causar sobre o
+realização de operações não usuais tenham causado ou que se espera que venham a causar sobre o
 
 emissor.
 
@@ -18438,13 +18718,13 @@ Ressalta-se que os comentários solicitados deverão ser feitos quanto aos event
 
 emissor na forma da Resolução CVM nº 44/21.
 
+229
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-230
 
 Quanto ao efeito esperado, cabe indicar que também aqui as informações solicitadas não devem se
 
@@ -18488,7 +18768,7 @@ Tais comentários devem conter as informações previstas na referida norma cont
 
 natureza do evento; e (b) a estimativa de seu efeito financeiro ou uma declaração de que tal estimativa
 
-não pode ser feita, nos casos de eventos subsequente s significativos, mas que não originaram ajustes. É
+não pode ser feita, nos casos de eventos subsequentes significativos, mas que não originaram ajustes. É
 
 importante constar, ainda, a informação quanto à data de autorização da emissão das demonstrações
 
@@ -18514,13 +18794,13 @@ de tabela, de acordo com o seguinte formato:
 
 Ano XX
 
+230
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-231
 
 a. Regras sobre retenção de lucros
 
@@ -18550,7 +18830,7 @@ emissor divulgue a política, locais na rede mundial de
 
 computadores onde o documento pode ser consultado
 
-Conforme o Relatório de Análise da Audiência Pública SDM 9/20 86, que promoveu alterações no
+Conforme o Relatório de Análise da Audiência Pública SDM 9/2086, que promoveu alterações no
 
 formulário de referência, “os comentários dos administradores sobre destinações de resultado não devem
 
@@ -18562,7 +18842,7 @@ Na descrição das regras relativas à retenção de lucros (letra “a”), o e
 
 reservas obrigatórias previstas na legislação, ele possui outras reservas reguladas em estatuto,
 
-informando seus percentuais, se realizou retenções c om base em orçamento de capital no período
+informando seus percentuais, se realizou retenções com base em orçamento de capital no período
 
 coberto por este item do FRE etc.
 
@@ -18592,13 +18872,13 @@ despesas.
 
 86 Vide: https://conteudo.cvm.gov.br/export/sites/cvm/audiencias_publicas/ap_sdm/anexos/2020/sdm0920_relatorio.pdf
 
+231
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-232
 
 10.2.3 Projeções (seção 3)
 
@@ -18628,7 +18908,7 @@ Caso a companhia decida divulgar projeções, estas devem ser embasadas em expec
 
 baseadas em julgamentos neutros, úteis para o investidor. Nesse sentido, projeções devem ter valores
 
-(ou intervalos de valores) e prazos bem definidos. A títul o exemplificativo, mas não exaustivo, algumas
+(ou intervalos de valores) e prazos bem definidos. A título exemplificativo, mas não exaustivo, algumas
 
 expectativas que, se divulgadas, em geral constituem projeções são: receitas, lucros, EBITDA, volumes de
 
@@ -18648,7 +18928,7 @@ Conforme disposto no parágrafo 2º do artigo 21 da Resolução CVM nº 80/22, a
 
 divulgadas neste item do formulário de referência, e na forma da Resolução CVM nº 44/21, deverão ser
 
-revisadas em intervalo de tempo adequado ao objeto da projeção que, em nenhuma hipótese , poderá
+revisadas em intervalo de tempo adequado ao objeto da projeção que, em nenhuma hipótese, poderá
 
 ultrapassar 1 (um) ano.
 
@@ -18674,13 +18954,13 @@ Lembra-se também que, caso projeções e estimativas sejam divulgadas, o emisso
 
 no campo apropriado dos formulários de informações trimestrais – ITR e de demonstrações financeiras
 
+232
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-233
 
 padronizadas – DFP, confrontar as projeções divulgadas no formulário de referência e os resultados
 
@@ -18692,7 +18972,7 @@ efetivamente obtidos no trimestre, indicando as razões para eventuais diferenç
 
 últimos exercícios sociais (item 3.2)
 
-Este item requer que o emissor , que tenha divulgado projeções nos 3 (três) últimos exercícios sociais,
+Este item requer que o emissor, que tenha divulgado projeções nos 3 (três) últimos exercícios sociais,
 
 informe:
 
@@ -18716,11 +18996,11 @@ Desta forma, o emissor deve utilizar este item para prestar informações relati
 
 projeções ou estimativas divulgadas no item 3.1, prevista no parágrafo 2º do artigo 21 da Resolução CVM
 
-nº 80/22; (b) ao acompanhamento das projeções e est imativas divulgadas no item 3.1; e (c) à alteração
+nº 80/22; (b) ao acompanhamento das projeções e estimativas divulgadas no item 3.1; e (c) à alteração
 
 ou divulgação de novas projeções e estimativas informadas no item 3.1.
 
-No que diz respeito ao acompanhamento das projeções ou estimativas divulgadas, alerta -se que a
+No que diz respeito ao acompanhamento das projeções ou estimativas divulgadas, alerta-se que a
 
 Resolução CVM nº 80/22 determina que o emissor também deverá confrontar, trimestralmente, no
 
@@ -18740,7 +19020,7 @@ influenciar a decisão de investimento, em especial, aqueles relacionados com o 
 
 direto ou indireto, ou grupo de controle, seus acionistas, suas controladas e coligadas, seus fornecedores,
 
-seus clientes, com os setores da economia nos quais o emissor atue e sua respectiva regulação , com os
+seus clientes, com os setores da economia nos quais o emissor atue e sua respectiva regulação, com os
 
 países estrangeiros onde o emissor atua, questões socioambientais e riscos cibernéticos.
 
@@ -18750,13 +19030,13 @@ Assim, ao preencher este campo do FRE, o emissor deve discorrer sobre os fatores
 
 estaria exposto que possam influenciar a decisão de investimento.
 
+233
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-234
 
 O emissor poderá deixar de mencionar matérias relacionadas nas letras “a” a “m” deste item que não lhe
 
@@ -18766,7 +19046,7 @@ relevantes em suas atividades e capazes de influenciar a decisão de investiment
 
 Dado que os fatores de risco deverão ser expostos em ordem decrescente de relevância (ou seja, do mais
 
-relevante para o menos relevante) , na apresentação dos comentários, o emissor poderá modificar a
+relevante para o menos relevante), na apresentação dos comentários, o emissor poderá modificar a
 
 ordem de apresentação das matérias citadas nas letras “a” a “m” do item 4.1. Alternativamente poderá
 
@@ -18788,9 +19068,9 @@ emissor deverá apresentar os riscos aos quais a companhia está exposta em raz�
 
 seja, aqueles em que a fonte do risco é o acionista.
 
-Considerando o disposto n o artigo 238 da Lei nº 6.404/76, as sociedades de economia mista devem
+Considerando o disposto no artigo 238 da Lei nº 6.404/76, as sociedades de economia mista devem
 
-identificar e descrever, n o item 4.1 “b” (riscos relacionados a seus acionistas, em especial os acionistas
+identificar e descrever, no item 4.1 “b” (riscos relacionados a seus acionistas, em especial os acionistas
 
 controladores) os riscos relacionados à possibilidade de que a companhia seja orientada de modo a
 
@@ -18808,7 +19088,7 @@ na medida do possível, sobre como determinado fator de risco afeta especificame
 
 considerando as suas particularidades.
 
-A esse respeito, quando do julgamento do PAS CVM nº RJ2014/7352 87, o Colegiado já se manifestou no
+A esse respeito, quando do julgamento do PAS CVM nº RJ2014/735287, o Colegiado já se manifestou no
 
 sentido de que alegações genéricas de que os riscos próprios à atividade de uma companhia já são de
 
@@ -18824,13 +19104,13 @@ anuais e intermediárias.
 
 87 Vide https://conteudo.cvm.gov.br/export/sites/cvm/sancionadores/sancionador/anexos/2018/RJ20147352_PDG_Realty.pdf.
 
+234
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-235
 
 Conforme mencionado no voto do Diretor Relator Pablo Renteria, acompanhado pela unanimidade do
 
@@ -18862,11 +19142,11 @@ forma prevista na regulamentação vigente, inclusive, a depender das circunstâ
 
 fato relevante. A administração deve ainda manter o mercado continuamente informado acerca da
 
-evolução desses eventos e de seu impacto na situação financeira da co mpanhia, por meio da divulgação
+evolução desses eventos e de seu impacto na situação financeira da companhia, por meio da divulgação
 
 paulatina de informações verdadeiras, completas, tempestivas e precisas.
 
-Recomenda-se que, no processo anual de elaboração do formulário de referência , os fatores de risco
+Recomenda-se que, no processo anual de elaboração do formulário de referência, os fatores de risco
 
 sejam revistos e atualizados.
 
@@ -18896,15 +19176,17 @@ O emissor deve divulgar, ainda, as questões relevantes dos riscos de mercado ao
 
 as respectivas políticas para seu gerenciamento. O emissor pode divulgar, por exemplo, as partes com
 
-quem contrata instrumentos derivativos de balcão e os detalhes da participação de cada uma des sas
+quem contrata instrumentos derivativos de balcão e os detalhes da participação de cada uma dessas
 
 partes no valor nocional total contratado pelo emissor, ressaltando o tratamento do risco de contraparte.
 
-O emissor deverá descrever de que forma os riscos de mercado indicados pode rão afetá-lo. Assim, deve
+O emissor deverá descrever de que forma os riscos de mercado indicados poderão afetá-lo. Assim, deve
 
 ser evitada a simples menção a fatores genéricos, tais como a possibilidade de alteração de políticas e
 
 ações governamentais, instabilidade política e volatilidade do mercado financeiro.
+
+235
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -18912,21 +19194,19 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-236
-
 O emissor deverá cotejar as informações prestadas neste item com o que está descrito na análise de
 
 sensibilidade constante em suas demonstrações financeiras, de forma a evitar incongruências ou
 
-omissões que prejudiquem o entendimento do que se pretende inf ormar nesta parte do formulário de
+omissões que prejudiquem o entendimento do que se pretende informar nesta parte do formulário de
 
 referência.
 
-A respeito da referida análise de sensibilidade, esclarece -se que nos cenários apresentados (de
+A respeito da referida análise de sensibilidade, esclarece-se que nos cenários apresentados (de
 
 deterioração de 25% e 50% das variáveis de risco consideradas em relação ao cenário provável), os valores
 
-devem ser informados em termos absolutos e não relativ amente ao cenário provável apresentado. O u
+devem ser informados em termos absolutos e não relativamente ao cenário provável apresentado. Ou
 
 seja, a companhia não deve informar apenas o valor incremental em relação ao cenário-base. O impacto
 
@@ -18984,13 +19264,13 @@ k. análise do impacto em caso de perda do
 
 processo
 
+236
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-237
 
 Alerta-se que são entendidos como sigilosos somente os feitos judiciais que correm em segredo de justiça,
 
@@ -19020,7 +19300,7 @@ Tais informações devem constar nos respectivos campos do formulário de refer�
 
 investidores, inclusive considerando as explicações e ressalvas feitas pelo emissor, a quem cabe divulgar
 
-as informações de forma clara, completa e tempestiva , conforme decisão do Colegiado, no âmbito do
+as informações de forma clara, completa e tempestiva, conforme decisão do Colegiado, no âmbito do
 
 Processo CVM nº 19957.002655/2023-4688, em reunião realizada em 21.11.2023.
 
@@ -19028,7 +19308,7 @@ Nesse sentido, na descrição do processo o emissor deverá esclarecer as razõe
 
 processo é relevante (letra “j”).
 
-Quanto ao número do processo , deverá ser informado o número registrado para acompanhamento nas
+Quanto ao número do processo, deverá ser informado o número registrado para acompanhamento nas
 
 esferas judiciais, administrativas ou arbitrais.
 
@@ -19042,7 +19322,7 @@ Como “partes no processo” (letra “d”), devem ser identificadas as partes
 
 polo ativo do processo, exceto no que se refere aos processos judiciais sujeitos à apreciação da Justiça
 
-do Trabalho, em que devem ser indicadas apenas as iniciais dos nomes das partes . Nesse sentido,
+do Trabalho, em que devem ser indicadas apenas as iniciais dos nomes das partes. Nesse sentido,
 
 ressalta-se que a Resolução do Conselho Nacional de Justiça nº 121, de 05.10.2010, estabeleceu restrições
 
@@ -19054,7 +19334,7 @@ informações necessárias para que os investidores possam compreender a causa d
 
 sua relevância para o emissor ou suas controladas. A situação em que se encontra o processo deverá ser
 
-informada na letra “h” . Assim sendo, deverão ser informados os principais atos processuais ou
+informada na letra “h”. Assim sendo, deverão ser informados os principais atos processuais ou
 
 administrativos ocorridos, com as respectivas datas e síntese das decisões, contendo suas motivações, de
 
@@ -19066,13 +19346,13 @@ No que se refere à chance de perda (letra “i”), devem ser considerados os s
 
 88 Vide https://conteudo.cvm.gov.br/decisoes/2023/20231121_R1/20231121_D2961.html.
 
+237
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-238
 
 a) provável: quando a chance de um ou mais eventos futuros ocorrer é maior do que a de não
 
@@ -19118,7 +19398,7 @@ o que não implicará, necessariamente, na obrigação de desembolso do valor pe
 
 vista que poderá haver uma probabilidade considerável de ganho.
 
-Ademais, considerando -se como regra fundamental para o funcionamento do mercado de capitais o
+Ademais, considerando-se como regra fundamental para o funcionamento do mercado de capitais o
 
 princípio do full and fair disclosure, que assegura o máximo de transparência na relação de companhias
 
@@ -19148,15 +19428,15 @@ valores mobiliários, as informações deverão ser apresentadas de forma atuali
 
 parágrafo 2º do artigo 25 da Resolução CVM nº 80/22.
 
+238
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-239
-
-Nesta nova estrutura do formulário de referência , não há mais um item específico para os processos
+Nesta nova estrutura do formulário de referência, não há mais um item específico para os processos
 
 judiciais, administrativos ou arbitrais, que não estejam sob sigilo, em que o emissor ou suas controladas
 
@@ -19216,19 +19496,19 @@ Entende-se por política de gerenciamento de riscos o conjunto de regras e objet
 
 programa de ação, estabelecidos pelos seus administradores, de maneira a mitigar ou controlar riscos.
 
+239
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-240
-
 Caso tenha implementado uma estrutura organizacional de controle de gerenciamento de fatores de risco
 
 (letra “b.iii”), o emissor deverá descrevê-la: (a) indicando os órgãos da administração, comitês ou outras
 
-estruturas assemelhadas envolvidas; (b) discrim inando as responsabilidades específicas de cada um
+estruturas assemelhadas envolvidas; (b) discriminando as responsabilidades específicas de cada um
 
 desses órgãos, comitês ou estruturas assemelhadas, e de seus membros, no controle de gerenciamento
 
@@ -19250,7 +19530,7 @@ Caso o emissor não adote estrutura organizacional ou sistemas de controle inter
 
 verificação da efetividade da política adotada (letra “c”), deverá deixar expresso esse fato. Nesse caso, o
 
-emissor deverá informar ainda o motivo pelo qual n ão adota esses procedimentos. Também podem ser
+emissor deverá informar ainda o motivo pelo qual não adota esses procedimentos. Também podem ser
 
 comentados eventuais projetos de implantação de novas práticas, estágio de desenvolvimento e tempo
 
@@ -19262,7 +19542,7 @@ condição, bem como informar os motivos pelos quais não adotam tal política. 
 
 orientação se estende aos emissores que possuem políticas de gerenciamento de riscos não formalizadas.
 
-Cabe destacar que, nesta nova estrutura do formulário de referência , não há um item específico para
+Cabe destacar que, nesta nova estrutura do formulário de referência, não há um item específico para
 
 apresentar o gerenciamento de riscos de mercado, devendo as informações relativas ao gerenciamento
 
@@ -19270,11 +19550,11 @@ deste tipo de risco serem prestadas neste item 5.1.
 
 10.2.5.2 Controles internos (item 5.2)
 
-No item 5. 2 “a”, o emissor deverá comentar as práticas da organização relativas ao seu sistema de
+No item 5.2 “a”, o emissor deverá comentar as práticas da organização relativas ao seu sistema de
 
 controles internos, que monitora os processos operacionais e financeiros, inclusive os relacionados com
 
-a gestão de riscos e de conformidade ( compliance), fazendo comentários sobre seu grau de eficiência e
+a gestão de riscos e de conformidade (compliance), fazendo comentários sobre seu grau de eficiência e
 
 ações em andamento para aperfeiçoar os níveis de controle da organização.
 
@@ -19296,17 +19576,17 @@ independente, deverão ser prestadas em linha com o relatório do auditor previs
 
 25 da Resolução CVM nº 23/21.
 
+240
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-241
+Cabe aos administradores diligenciarem junto aos auditores independentes para que a comunicação
 
-Cabe aos administradores diligenciar em junto aos auditores independentes para que a comunicação
-
-relativa ao último exercício social seja disponibilizada em tempo hábil, devendo -se considerar, além do
+relativa ao último exercício social seja disponibilizada em tempo hábil, devendo-se considerar, além do
 
 disposto no inciso II do artigo 25 da Resolução CVM nº 23/21, a norma profissional de auditoria que trata
 
@@ -19318,7 +19598,7 @@ a última comunicação por escrito de deficiências de controle interno encamin
 
 independentes à administração da companhia.
 
-Em regra, devem constar do item 5.2 “d” do formulário de referência , no mínimo, os comentários
+Em regra, devem constar do item 5.2 “d” do formulário de referência, no mínimo, os comentários
 
 referentes às deficiências significativas e recomendações do auditor sobre elas. No entanto, é importante
 
@@ -19338,7 +19618,7 @@ as deficiências significativas, sem prejuízo da eventual apuração de respons
 
 os diretores devem solicitar manifestação complementar dos auditores independentes, a fim de subsidiar
 
-o julgamento acerca da divulgação a ser promovida no item 5.2 “d” do formulário de referênc ia,
+o julgamento acerca da divulgação a ser promovida no item 5.2 “d” do formulário de referência,
 
 mencionado no parágrafo acima. Ressalte-se que, em qualquer hipótese, eventual ausência de segregação
 
@@ -19378,17 +19658,17 @@ expectativas, caso existentes, sobre a redução ou aumento na sua exposição a
 
 na seção 4. Nos comentários, deverão ser explicitados os fatores internos ou externos ao emissor que
 
-embasam a opinião emitida, podendo ser também comentadas as eventua is medidas adotadas pelo
+embasam a opinião emitida, podendo ser também comentadas as eventuais medidas adotadas pelo
 
 emissor para reduzir a exposição aos riscos.
+
+241
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-242
 
 10.2.6 Controle e grupo econômico (seção 6)
 
@@ -19408,13 +19688,15 @@ Se o acionista ou participante do grupo de acionistas controladores for pessoa j
 
 elaborada lista contendo as informações referidas nas letras “a” a “d” deste item, identificando seus
 
-controladores diretos e indiretos, até os controladore s que sejam pessoas naturais, independente do
+controladores diretos e indiretos, até os controladores que sejam pessoas naturais, independente do
 
 eventual tratamento sigiloso conferido às informações por força de negócio jurídico ou pela legislação do
 
 país em que forem constituídos ou domiciliados o sócio ou controlador.
 
-Em linha com a decisão emitida pelo Colegiado da CVM, em 18.03.2008 (Processo CVM nº RJ2007/9346)89,
+Em linha com a decisão emitida pelo Colegiado da CVM, em 18.03.2008 (Processo CVM nº RJ2007/9346)89
+
+,
 
 quando da reforma da Deliberação CVM nº 525/07, lembra-se que:
 
@@ -19448,7 +19730,7 @@ Ressalta-se que a alteração dos acionistas controladores do emissor, diretos o
 
 suas posições acionárias que os levem a ultrapassar, para cima ou para baixo, os percentuais de 5%, 10%,
 
-15% e assim sucessivamente de uma mesma espé cie ou classe de ações do emissor são hipóteses que
+15% e assim sucessivamente de uma mesma espécie ou classe de ações do emissor são hipóteses que
 
 determinam a necessidade de atualização do formulário de referência pelos emissores registrados nas
 
@@ -19462,13 +19744,13 @@ formulário de referência no prazo de 7 (sete) dias úteis contados da data da 
 
 89 Vide http://conteudo.cvm.gov.br/decisoes/2008/20080318_R1/20080318_D02.html
 
+242
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-243
 
 atualização das informações prestadas em função do item 6.1, assim como de qualquer outra informação
 
@@ -19500,13 +19782,15 @@ Os veículos ou pessoas identificadas na seção 6.2 por serem acionistas, ou gr
 
 em conjunto ou que representam o mesmo interesse, com participação igual ou superior a 5% de uma
 
-mesma classe ou espécie de ações, devem ser agrupados e identificados na seção 6.6 para qu e seja
+mesma classe ou espécie de ações, devem ser agrupados e identificados na seção 6.6 para que seja
 
 possível verificar quais veículos ou pessoas identificadas na seção 6.2 correspondem a um mesmo
 
 acionista indireto ou que formam um mesmo grupo de acionistas.
 
-Em linha com a decisão emitida pelo Colegiado da CVM em 11.03.2011 (Processo CVM nº RJ2011/2324)90,
+Em linha com a decisão emitida pelo Colegiado da CVM em 11.03.2011 (Processo CVM nº RJ2011/2324)90
+
+,
 
 caso a participação relevante seja detida em conjunto por diferentes fundos de investimentos ou carteiras
 
@@ -19528,7 +19812,7 @@ Em caso de dúvida sobre as normas de divulgação de participações relevantes
 
 Resolução CVM nº 44/21, os emissores devem consultar o item 4.9 do presente Ofício Circular.
 
-Como data da última alteração (letra “h”) deverá ser informada a data -base dessa última posição
+Como data da última alteração (letra “h”) deverá ser informada a data-base dessa última posição
 
 acionária.
 
@@ -19544,13 +19828,13 @@ acionistas e inserir no FRE os dados sobre os acionistas que detenham 5% ou mais
 
 90 Vide http://conteudo.cvm.gov.br/decisoes/2011/20110311_R1/20110311_D01.html.
 
+243
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-244
 
 ou espécie de ações, independente do recebimento das comunicações previstas no artigo 12 da Resolução
 
@@ -19570,7 +19854,7 @@ Desse modo, ao receber o comunicado previsto no artigo 12 da Resolução CVM nº
 
 verificar se a participação do investidor em ações (isto é, não se computando derivativos, de liquidação
 
-física ou financeira) ultrapassou os percentuais aci ma referidos em relação à última posição divulgada
+física ou financeira) ultrapassou os percentuais acima referidos em relação à última posição divulgada
 
 pelo investidor em questão. Se for o caso, o formulário de referência deverá ser atualizado no prazo de 7
 
@@ -19608,11 +19892,11 @@ Os investidores institucionais são os participantes do mercado que atuam na ges
 
 terceiros.
 
-Conforme estabelecido no art igo 2º, parágrafo 2º, da Resolução CVM nº 27 /21, considera-se investidor
+Conforme estabelecido no artigo 2º, parágrafo 2º, da Resolução CVM nº 27/21, considera-se investidor
 
 institucional a categoria que abrange exclusivamente os seguintes investidores:
 
-I – instituições financeiras e demais ins tituições autorizadas a funcionar pelo Banco Central do
+I – instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do
 
 Brasil;
 
@@ -19624,13 +19908,13 @@ IV – fundos patrimoniais;
 
 V – fundos de investimentos registrados na CVM;
 
+244
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-245
 
 VI – clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de
 
@@ -19640,9 +19924,9 @@ VII – investidores não residentes com qualificação análoga às das categor
 
 a VI deste parágrafo nos seus respectivos países de origem.
 
-Dessa forma, os inves tidores que se enquadrarem na definição exposta acima deverão ser computados
+Dessa forma, os investidores que se enquadrarem na definição exposta acima deverão ser computados
 
-pela companhia como inves tidores inst itucionais (item 6.3 “c”) e os demais, que não forem pessoas
+pela companhia como investidores institucionais (item 6.3 “c”) e os demais, que não forem pessoas
 
 naturais, como pessoas jurídicas (item 6.3 “b”).
 
@@ -19700,17 +19984,17 @@ As informações relativas às sociedades em que o emissor tenha participação 
 
 somente em relação às sociedades compreendidas pelo emissor como relevantes para o desenvolvimento
 
-de suas atividades, em especial, os dados relativos às entid ades controladas diretas e indiretas, quando
+de suas atividades, em especial, os dados relativos às entidades controladas diretas e indiretas, quando
 
 relevantes.
+
+245
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-246
 
 O que vai estabelecer a necessidade da divulgação é a relevância da participação. Se for relevante a
 
@@ -19766,7 +20050,7 @@ Caso o emissor não adote regras para a identificação e administração de con
 
 indicar esse fato. Neste caso, o emissor deverá incluir informações sobre o motivo pelo qual não adota
 
-esse procedimento. Também podem ser comentados ev entuais projetos de implantação de novas
+esse procedimento. Também podem ser comentados eventuais projetos de implantação de novas
 
 práticas, estágio de desenvolvimento e tempo estimado para sua adoção. Deve-se evitar a transcrição do
 
@@ -19776,11 +20060,13 @@ Na letra “d” do item 7.1, o emissor deverá informar, para cada órgão da a
 
 tabelas estruturadas com parâmetros pré-definidos no formulário, o número de membros agrupados por
 
-identidade autodeclarada de gênero (inciso “i”) e o núme ro de membros agrupados por identidade
+identidade autodeclarada de gênero (inciso “i”) e o número de membros agrupados por identidade
 
 autodeclarada de cor ou raça (inciso “ii”), o número total de pessoas com deficiência (inciso iii), estando
 
 disponíveis duas tabelas no formulário: uma para gênero e outra para cor ou raça.
+
+246
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -19788,19 +20074,17 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-247
-
 Nesse mesmo item, as companhias devem atentar à necessidade de adaptação de seus sistemas internos,
 
-de forma a refletir as identidades autodeclaradas de gênero dos membros dos órgãos de administração ,
+de forma a refletir as identidades autodeclaradas de gênero dos membros dos órgãos de administração,
 
-em conformidade com o artigo 15 da Resolução CVM nº 80/22 , para que possam subsidiar o
+em conformidade com o artigo 15 da Resolução CVM nº 80/22, para que possam subsidiar o
 
 preenchimento dos respectivos quadros do formulário de referência: “masculino”, “feminino”, “não
 
 binário” e “outros”.
 
-Eventuais dificuldades para preenchimento desse item devem ser informadas no item “ 7.8 Fornecer
+Eventuais dificuldades para preenchimento desse item devem ser informadas no item “7.8 Fornecer
 
 outras informações que o emissor julgue relevantes”.
 
@@ -19814,7 +20098,7 @@ como exige a norma, dentro do arquivo PDF a ser inserido no item “7.1 Principa
 
 às demais letras do item 7.1.
 
-Na letra “f” do item 7.1, a palavra “clima” se refere a mudanças climáticas e neste item é requerid a a
+Na letra “f” do item 7.1, a palavra “clima” se refere a mudanças climáticas e neste item é requerida a
 
 divulgação sobre o papel e o envolvimento dos órgãos da administração neste assunto, esclarecendo o
 
@@ -19822,9 +20106,9 @@ envolvimento dos administradores em eventuais planos ou estratégias relacionado
 
 Pode-se citar como exemplo de plano e medidas de adaptação à mudança do clima: ampliação da cadeia
 
-de fornecimento, busca por fontes alternativas de matéria -prima, busca por autonomia hídrica e outras
+de fornecimento, busca por fontes alternativas de matéria-prima, busca por autonomia hídrica e outras
 
-iniciativas como reuso, conservação de ecossistemas e da biodiv ersidade, restauração florestal, geração
+iniciativas como reuso, conservação de ecossistemas e da biodiversidade, restauração florestal, geração
 
 de energia por fontes alternativas, análises de risco e desenvolvimento de estudos e de planos de crise.
 
@@ -19836,11 +20120,11 @@ informados no item 5.1 “b.iii” não precisam ser descritos no item 7.2. “a
 
 sem prejuízo do preenchimento do item 7.4 do Formulário.
 
-Em relação ao item 7.2 “c” do FRE, entendem-se como canal de denúncia s as ferramentas usadas pelas
+Em relação ao item 7.2 “c” do FRE, entendem-se como canal de denúncias as ferramentas usadas pelas
 
 companhias, tais como ligação telefônica, site, aplicativos, e-mails etc.
 
-Orienta-se as companhias que possuem estruturas de auditoria interna a descrevê -las nesse item do
+Orienta-se as companhias que possuem estruturas de auditoria interna a descrevê-las nesse item do
 
 formulário de referência. Recomenda-se, inclusive, que o item 7.3 seja preenchido com as informações
 
@@ -19860,15 +20144,17 @@ exercício em curso. Essa informação deve ser apresentada no item 7.8 (à fren
 
 Neste item, o emissor deverá identificar os membros do conselho de administração, da diretoria
 
-estatutária e do conselho fiscal, com a apresentação dos dados exigidos nas letras “a” a “m”.
+estatutária e do conselho fiscal, com a apresentação dos dados exigidos nas letras “a” a “m”
+
+.
+
+247
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-248
 
 O emissor deve atentar-se para a correta identificação dos membros da administração que participem de
 
@@ -19900,7 +20186,7 @@ A atualização acima comentada deverá ser realizada inclusive nos casos de ree
 
 Caso até a data limite da obrigatória atualização das informações, a alteração do administrador esteja
 
-pendente da homologação de órgão regulador específico ou não tenha ocorrido sua posse , o emissor
+pendente da homologação de órgão regulador específico ou não tenha ocorrido sua posse, o emissor
 
 deverá proceder à atualização dos itens 7.3, 7.5 e 7.6 do formulário de referência, deixando no item 7.3 o
 
@@ -19944,13 +20230,13 @@ a) condenação criminal, mesmo que não transitada em julgado, com indicação 
 
 se encontra o processo;
 
+248
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-249
 
 b) condenação em processo administrativo da CVM, do Banco Central do Brasil ou da
 
@@ -19966,7 +20252,7 @@ que o tenha suspendido ou inabilitado para a prática de uma atividade profissio
 
 qualquer.
 
-Adicionalmente, recomenda -se que a companhia inclua declaração dos membros do conselho de
+Adicionalmente, recomenda-se que a companhia inclua declaração dos membros do conselho de
 
 administração, da diretoria e do conselho fiscal quanto a serem ou não considerados pessoas expostas
 
@@ -20018,7 +20304,7 @@ categoria A, a alteração de membro de comitê estatutário ou de membro dos co
 
 risco, financeiro e de remuneração, ainda que tais comitês ou estruturas não sejam estatutários. Desse
 
-modo, a ocorrência desses eventos acarretará a necessid ade de atualização do formulário de referência
+modo, a ocorrência desses eventos acarretará a necessidade de atualização do formulário de referência
 
 no prazo de 7 (sete) dias úteis da data da eleição, com a atualização das informações sobre os membros
 
@@ -20026,17 +20312,17 @@ de comitês prestadas pelos emissores em atenção ao item 7.4, assim como de qu
 
 prestada no FRE que seja afetada por esses eventos.
 
+249
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-250
-
 10.2.7.5 Relações de subordinação, prestação de serviço ou controle (item 7.6)
 
-Neste item , o emissor deve indicar as relações de subordinação, prestação de serviço ou controle
+Neste item, o emissor deve indicar as relações de subordinação, prestação de serviço ou controle
 
 mantidas pelos administradores nos últimos 3 (três) anos com os controladores, sociedades controladas
 
@@ -20056,7 +20342,7 @@ No caso da existência de apólice de seguro, que preveja o pagamento ou o reemb
 
 suportadas pelos administradores, decorrentes de reparação de danos causados a terceiros ou à
 
-companhia ou do pagamento de multas e acordos administrativos, o em issor deverá incluir, além da
+companhia ou do pagamento de multas e acordos administrativos, o emissor deverá incluir, além da
 
 descrição das disposições do seguro, informação sobre o valor do prêmio de seguro de responsabilidade
 
@@ -20076,7 +20362,7 @@ CVM nº 38/18, ao Ofício Circular nº 9/2018/CVM/SEP e ao item 4.17 do presente
 
 De modo a garantir aos investidores o acesso a outras informações importantes sobre as práticas do
 
-emissor quanto às assembleias gerais, sugere -se que seja informado neste item, com relação às
+emissor quanto às assembleias gerais, sugere-se que seja informado neste item, com relação às
 
 assembleias realizadas nos últimos 3 (três) anos: (i) a data da realização; (ii) casos de instalação em
 
@@ -20106,13 +20392,13 @@ dos cursos ministrados no exercício social anterior e o índice de participaç�
 
 previstos para o exercício social em curso.
 
+250
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-251
 
 Orienta-se o emissor a informar os principais aspectos referentes à governança da companhia com relação
 
@@ -20120,7 +20406,7 @@ aos fatos que tem impactos contra terceiros nas reuniões do conselho de adminis
 
 com que antecedência é enviada a pauta da referida reunião para a análise do conselheiro, de forma que
 
-ele possa analisar a s matérias antes de sua votação, bem como qual o relacionamento mantido entre o
+ele possa analisar as matérias antes de sua votação, bem como qual o relacionamento mantido entre o
 
 conselho de administração e a diretoria de relações com investidores do emissor, para aferição de
 
@@ -20162,11 +20448,11 @@ A descrição qualitativa da política ou prática de remuneração deverá comp
 
 informações requeridas nas letras “a” a “e” deste item, podendo o emissor fornecer informações
 
-adicionais julgadas pertinentes para sua melhor compreensão pelos investidores, ta is como alterações
+adicionais julgadas pertinentes para sua melhor compreensão pelos investidores, tais como alterações
 
 implementadas em relação às políticas ou práticas adotadas em exercícios anteriores.
 
-Para facilitar a compreensão pelos investidores, recomenda -se que, sempre que houver variações
+Para facilitar a compreensão pelos investidores, recomenda-se que, sempre que houver variações
 
 significativas entre as práticas e políticas de remuneração entre os diferentes órgãos, as informações
 
@@ -20186,13 +20472,13 @@ remuneração descritas na letra “d” do item 8.2. Desse modo, os elementos d
 
 item 8.1 “c.i” deverão estar em linha com as informações prestadas no item 8.2 e vice-versa.
 
+251
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-252
 
 O emissor deverá descrever também os benefícios diretos e indiretos, divulgando seus componentes.
 
@@ -20200,7 +20486,7 @@ Entende-se por benefícios diretos ou indiretos o direito a assistência médica
 
 vida, automóvel, combustível, moradia, auxílio educacional etc.
 
-Os b enefícios pós -emprego foram definidos no Pronunciamento Técnico CPC 33 (R1), aprovado pela
+Os benefícios pós-emprego foram definidos no Pronunciamento Técnico CPC 33 (R1), aprovado pela
 
 Resolução CVM nº 110/22. Nas informações relativas ao assunto, devem ser incluídos os valores relativos
 
@@ -20214,7 +20500,7 @@ para cada órgão, comitê ou estrutura assemelhada que tenha sido citada no ite
 
 apresentá-las sob a forma de gráfico ou tabela.
 
-Dessa forma, caso o emissor possua diretoria “não estatutária ”, tais informações deverão ser
+Dessa forma, caso o emissor possua diretoria “não estatutária”, tais informações deverão ser
 
 apresentadas de forma segregada da diretoria “estatutária”, de modo a facilitar a leitura e compreensão
 
@@ -20246,13 +20532,13 @@ da companhia, principalmente no que diz respeito às parcelas variáveis da remu
 
 estes se baseiam, por exemplo, no resultado da venda de produtos e serviços, no resultado operacional
 
-da companhia, na receita líquida, EBITDA, valor de mercado das ações , entre outros, ou, se for o caso,
+da companhia, na receita líquida, EBITDA, valor de mercado das ações, entre outros, ou, se for o caso,
 
 indicadores ligados a questões ambientais, sociais e de governança corporativa (ASG).
 
 Em atenção ao item 8.1 “d”, o emissor dever informar se há parcelas da remuneração recebida por
 
-administradores e demais pessoas citada s no caput do item 8.1, em função do exercício do cargo no
+administradores e demais pessoas citadas no caput do item 8.1, em função do exercício do cargo no
 
 emissor, que seja suportada por subsidiárias, controladas ou controladores diretos e indiretos. Tais
 
@@ -20264,13 +20550,13 @@ suportado. Além disso, os valores deverão ser segregados por órgão da admini
 
 informações deverão ser conciliadas com as requeridas no item 8.19.
 
+252
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-253
 
 10.2.8.2 Remuneração do conselho de administração, da diretoria estatutária e do
 
@@ -20294,7 +20580,7 @@ direito a assistência médica, odontológica, seguro de vida, automóvel, combu
 
 educacional etc.
 
-Os benefícios pós -emprego (item 8.2 “d.iii”) foram definidos no Pronunciamento Técnico CPC 33 (R1),
+Os benefícios pós-emprego (item 8.2 “d.iii”) foram definidos no Pronunciamento Técnico CPC 33 (R1),
 
 aprovado pela Resolução CVM nº 110/22. Nas informações relativas ao assunto, devem ser incluídos os
 
@@ -20306,9 +20592,9 @@ contratuais e outros instrumentos que estruturem mecanismos de remuneração ou 
 
 administradores da companhia, em caso de destituição/demissão ou renúncia de seus respectivos cargos.
 
-Ressalta-se que o valor dos benefícios mot ivados pela cessação do exercício do cargo (item 8.2 “d.iv”)
+Ressalta-se que o valor dos benefícios motivados pela cessação do exercício do cargo (item 8.2 “d.iv”)
 
-deve integrar o montante global da remuneração submetida à aprovação pela assembleia geral , nos
+deve integrar o montante global da remuneração submetida à aprovação pela assembleia geral, nos
 
 termos do disposto no artigo 152 da Lei nº 6.404/76.
 
@@ -20336,7 +20622,7 @@ ações da companhia.
 
 Tal assunto vem tendo notória relevância nos processos de registro inicial com concomitante oferta
 
-pública de distribuição de valores mobiliários , nos quais, antes da realização da oferta, são outorgados
+pública de distribuição de valores mobiliários, nos quais, antes da realização da oferta, são outorgados
 
 instrumentos patrimoniais aos administradores da companhia, em um momento em que ainda não existe,
 
@@ -20352,13 +20638,13 @@ negociação. Salienta-se, inclusive, que, são realizados levantamentos pela ad
 
 por seus assessores, no âmbito do pedido de registro da oferta, para a precificação de tal valor.
 
+253
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-254
 
 Os valores de remuneração informados deverão ser líquidos de encargos sociais que sejam ônus do
 
@@ -20372,7 +20658,7 @@ estão abrangidos pelo conceito de “benefício de qualquer natureza” de que 
 
 assembleia geral, tratamento a ser refletido tanto na proposta de remuneração quanto no formulário de
 
-referência, sem prejuízo da divulgação apartada, no formulário de referência , dos montantes dos
+referência, sem prejuízo da divulgação apartada, no formulário de referência, dos montantes dos
 
 referidos encargos sociais incidentes sobre a remuneração dos administradores da companhia, como
 
@@ -20428,13 +20714,13 @@ membros de cada órgão (letra “b”) foi apurado da forma acima especificada.
 
 91 Vide https://conteudo.cvm.gov.br/decisoes/2020/20201208_R1/20201208_D1361.html.
 
+254
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-255
 
 Já o número de membros remunerados deverá corresponder ao número de diretores e conselheiros aos
 
@@ -20442,7 +20728,9 @@ quais foram atribuídas remunerações reconhecidas no resultado do exercício, 
 
 anual do número de membros remunerados de cada órgão apurado mensalmente conforme cálculo do
 
-item 8.2 “b”.
+item 8.2 “b”
+
+.
 
 Para evitar duplicidade, os valores da remuneração deverão ser apurados por órgão. Nos casos em que
 
@@ -20460,15 +20748,17 @@ atribuídas aos membros do órgão no exercício.
 
 Já o valor total da remuneração do conselho de administração, da diretoria estatutária e do conselho fiscal
 
-(letra “f”) corresponde ao somatório das remunerações totais dos três órgãos indicadas na letra “e”.
+(letra “f”) corresponde ao somatório das remunerações totais dos três órgãos indicadas na letra “e”
+
+.
 
 As informações sobre o exercício corrente deverão ser apresentadas considerando o número de membros
 
 e a remuneração anual prevista pelo emissor.
 
-Importante destacar que, para a consistência e comparabilidade de dados, todos os quadros d a seção 8
+Importante destacar que, para a consistência e comparabilidade de dados, todos os quadros da seção 8
 
-em que sejam requeridos “número total de membros” e “número de membros remunerados” deve m
+em que sejam requeridos “número total de membros” e “número de membros remunerados” devem
 
 utilizar a média, conforme exemplificado nesse item.
 
@@ -20504,19 +20794,19 @@ diretores e conselheiros a quem foi atribuída remuneração variável reconheci
 
 no exercício.
 
+255
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-256
-
 As informações requeridas nas letras “d” e “e” deverão ser prestadas em moeda corrente, mesmo quando
 
 a remuneração atribuída a título de bônus ou participação nos resultados seja fixada com base em outro
 
-critério, como por exemplo, número de salários. Nesse caso, o emissor poderá incluir , em nota à tabela
+critério, como por exemplo, número de salários. Nesse caso, o emissor poderá incluir, em nota à tabela
 
 prevista no item 8.3, informação sobre o critério efetivamente utilizado para o cálculo dessas
 
@@ -20552,11 +20842,15 @@ item.
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de opções (nos quais são
 
-outorgadas opções de ações, sejam elas tradicionais ou “fantasmas” ― phantom options). Nos casos de
+outorgadas opções de ações, sejam elas tradicionais ou “fantasmas”
+
+― phantom options). Nos casos de
 
 emissores que possuem planos de ações restritas (nos quais são outorgadas ações com restrições de
 
-negociação, sejam elas tradicionais ou “fantasmas” ― phantom shares), as informações serão prestadas
+negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom shares), as informações serão prestadas
 
 nos itens 8.9 a 8.11.
 
@@ -20580,13 +20874,13 @@ no caso das informações solicitadas nos itens “d” e “e”, o emissor dev
 
 modelos e premissas utilizados.
 
+256
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-257
 
 10.2.8.5 Outorgas de opções de compra de ações para membros do conselho de
 
@@ -20602,11 +20896,15 @@ especificado nas letras “a” a “j” deste item.
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de opções (nos quais são
 
-outorgadas opções de ações, sejam elas tradicionais ou “fantasmas” ― phantom options). Nos casos de
+outorgadas opções de ações, sejam elas tradicionais ou “fantasmas”
+
+― phantom options). Nos casos de
 
 emissores que possuem planos de ações restritas (nos quais são outorgadas ações com restrições de
 
-negociação, sejam elas tradicionais ou “fantasmas” ― phantom shares), as informações serão prestadas
+negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom shares), as informações serão prestadas
 
 nos itens 8.9 a 8.11.
 
@@ -20638,9 +20936,9 @@ exercício social corrente, incluir uma tabela da seguinte forma:
 
 Conselho de
 
-administração
-
 Diretoria
+
+administração
 
 estatutária
 
@@ -20666,13 +20964,13 @@ Multiplicação da quantidade de ações outorgadas pelo valor
 
 justo das opções na data da outorga
 
+257
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-258
 
 10.2.8.6 Opções em aberto do conselho de administração e da diretoria
 
@@ -20686,11 +20984,15 @@ o conteúdo especificado nas letras “a” a “f” deste item.
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de opções (nos quais são
 
-outorgadas opções de ações, sejam elas tradicionais ou “fantasmas” ― phantom options). Nos casos de
+outorgadas opções de ações, sejam elas tradicionais ou “fantasmas”
+
+― phantom options). Nos casos de
 
 emissores que possuem planos de ações restritas (nos quais são outorgadas ações com restrições de
 
-negociação, sejam elas tradicionais ou “fantasmas” ― phantom shares), as informações serão prestadas
+negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom shares), as informações serão prestadas
 
 nos itens 8.9 a 8.11.
 
@@ -20708,7 +21010,7 @@ diretores e conselheiros vinculados ao plano de opções.
 
 Em relação a todos os dados que resultem de avaliações ou cálculos feitos pela administração, tal como
 
-no caso das informações solicitadas nos itens “d.vi” , “e.v” e “f”, o emissor deverá informar no item 8.12
+no caso das informações solicitadas nos itens “d.vi”, “e.v” e “f”, o emissor deverá informar no item 8.12
 
 os dados, modelos e premissas utilizados.
 
@@ -20724,9 +21026,9 @@ xx/xx/xxxx
 
 Conselho de
 
-administração
-
 Diretoria
+
+administração
 
 estatutária
 
@@ -20762,13 +21064,13 @@ Valor justo das opções no último dia do exercício social
 
 Valor justo do total das opções no último dia do exercício social
 
+258
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-259
 
 10.2.8.7 Opções exercidas relativas à remuneração baseada em ações do conselho
 
@@ -20782,11 +21084,15 @@ Neste item, o emissor deve apresentar, em forma de tabela, informações em rela
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de opções (nos quais são
 
-outorgadas opções de ações, sejam elas tradicionais ou “fantasmas” ― phantom options). Nos casos de
+outorgadas opções de ações, sejam elas tradicionais ou “fantasmas”
+
+― phantom options). Nos casos de
 
 emissores que possuem planos de ações restritas (nos quais são outorgadas ações com restrições de
 
-negociação, sejam elas tradicionais ou “fantasmas” ― phantom shares), as informações serão prestadas
+negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom shares), as informações serão prestadas
 
 nos itens 8.9 a 8.11.
 
@@ -20794,7 +21100,7 @@ O número de membros remunerados de cada órgão (letra “c”) deverá corresp
 
 diretores e conselheiros vinculados ao plano.
 
-A tabela exigida neste item deverá ser apresentada de acordo com o modelo a seguir , sendo necessária
+A tabela exigida neste item deverá ser apresentada de acordo com o modelo a seguir, sendo necessária
 
 uma tabela para cada um dos 3 (três) últimos exercícios sociais.
 
@@ -20802,9 +21108,9 @@ Opções exercidas - exercício social encerrado em xx/xx/xxxx
 
 Conselho de
 
-administração
-
 Diretoria
+
+administração
 
 estatutária
 
@@ -20840,7 +21146,9 @@ relativas à remuneração baseada em ações do conselho de administração e d
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de ações restritas (nos quais
 
-são outorgadas ações com restrições de negociação, sejam elas tradicionais ou “fantasmas” ― phantom
+são outorgadas ações com restrições de negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom
 
 shares). Nos casos de emissores que possuem planos de opções (nos quais são outorgadas opções de
 
@@ -20850,21 +21158,21 @@ itens 8.5 a 8.8.
 
 Nos planos de ações restritas, assim como nos planos de opções, há 3 momentos distintos:
 
+259
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-260
-
-(i) Outorga: quando o beneficiário recebe o direito (não irrevogável) sobre as ações outorgadas,
+(i) (ii) Outorga: quando o beneficiário recebe o direito (não irrevogável) sobre as ações outorgadas,
 
 dependendo do cumprimento de determinadas condições precedentes para que esse direito
 
 se torne irrevogável. Análogo ao momento da outorga nos planos de opções de compra;
 
-(ii) Entrega: quando o beneficiário cumpre as condições precedentes (normalmente após um
+Entrega: quando o beneficiário cumpre as condições precedentes (normalmente após um
 
 período de vesting e/ou atingimento de indicadores de performance), de modo que o direito
 
@@ -20904,7 +21212,7 @@ A letra “i” (multiplicação da quantidade de ações outorgadas pelo valor 
 
 outorga) representa o valor total da remuneração a ser reconhecida para aquela outorga específica.
 
-Cumpre observar que tal reconhecimento é feito proporciona lmente, a cada exercício, ao longo do
+Cumpre observar que tal reconhecimento é feito proporcionalmente, a cada exercício, ao longo do
 
 período de vesting, ou seja, entre a outorga e a entrega efetiva das ações.
 
@@ -20916,9 +21224,9 @@ Ações entregues – outorga realizada em xx/xx/xxxx
 
 Conselho de
 
-administração
-
 Diretoria
+
+administração
 
 estatutária
 
@@ -20940,13 +21248,13 @@ Multiplicação da quantidade de ações outorgadas pelo valor
 
 justo das ações na data da outorga
 
+260
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-261
 
 10.2.8.9 Ações entregues relativas à remuneração baseada em ações do conselho
 
@@ -20960,11 +21268,15 @@ relativas à remuneração baseada em ações do conselho de administração e d
 
 Estas informações devem ser prestadas pelos emissores que possuem planos de ações restritas (nos quais
 
-são outorgadas ações com restrições de negociação, sejam elas tradicionais ou “fantasmas” ― phantom
+são outorgadas ações com restrições de negociação, sejam elas tradicionais ou “fantasmas”
+
+― phantom
 
 shares). Nos casos de emissores que possuem planos de opções (nos quais são outorgadas opções de
 
-ações, sejam elas tradicionais ou “fantasmas” ― phantom options), as informações serão prestadas nos
+ações, sejam elas tradicionais ou “fantasmas”
+
+― phantom options), as informações serão prestadas nos
 
 itens 8.5 a 8.8.
 
@@ -21012,13 +21324,13 @@ de exercício, volatilidade esperada, prazo de vida da opção, dividendos esper
 
 risco.
 
+261
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-262
 
 10.2.8.11 Informação, por órgão, sobre as participações detidas por membros do
 
@@ -21044,7 +21356,7 @@ controladores diretos ou indiretos, sociedades controladas ou sob controle comum
 
 Ressalta-se que o item 8.13 não restringe a evidenciação das ações, cotas ou outros valores mobiliários
 
-detidos por administrador es e membros do conselho fiscal àqueles cuja posse ou obtenção esteja
+detidos por administradores e membros do conselho fiscal àqueles cuja posse ou obtenção esteja
 
 vinculada ao cargo por eles desempenhado no emissor. Portanto, todos os valores mobiliários referidos
 
@@ -21058,7 +21370,7 @@ As informações relativas aos valores mobiliários de emissão da companhia det
 
 conselho de administração, da diretoria estatutária ou do conselho fiscal deverão estar em linha com as
 
-informações consolid adas prestadas pelo emissor no formulário de “v alores mobiliários negociados e
+informações consolidadas prestadas pelo emissor no formulário de “valores mobiliários negociados e
 
 detidos (artigo 11 da Resolução CVM nº 44/21)” relativo ao mês de encerramento do último exercício
 
@@ -21092,19 +21404,19 @@ A tabela exigida neste item deverá ser apresentada de acordo com o modelo a seg
 
 um plano de previdência em vigor, as informações deverão ser apresentadas por plano.
 
+262
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-263
-
 Conselho de
 
-administração
-
 Diretoria
+
+administração
 
 estatutária
 
@@ -21182,13 +21494,13 @@ anual de cada órgão deverá corresponder à divisão do valor total da remuner
 
 “c” do item 8.2).
 
+263
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-264
 
 Caso algum administrador renuncie à remuneração, este não deverá ser considerado para o cálculo do
 
@@ -21246,7 +21558,7 @@ dos mecanismos de remuneração e indenização para administradores, se destitu
 
 aposentados.
 
-Além disso, caso exista apólice de seguro, deve -se informar o valor pago a título de prêmio de seguro e,
+Além disso, caso exista apólice de seguro, deve-se informar o valor pago a título de prêmio de seguro e,
 
 caso exista prestação de compromisso de indenidade que preveja o pagamento ou o reembolso de
 
@@ -21254,13 +21566,13 @@ despesas suportadas pelos administradores, deve-se informar o valor cotado de pr
 
 responsabilidade civil que preveja cobertura similar ao compromisso de indenidade prestado.
 
+264
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-265
 
 10.2.8.15 Percentual da remuneração total de cada órgão atribuída a membros do
 
@@ -21334,13 +21646,13 @@ controladores diretos ou indiretos do emissor ou de sociedades sob controle comu
 
 que não relacionadas ao exercício de cargo no emissor.
 
+265
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-266
 
 Na apuração, deverão ser computadas as remunerações recebidas a qualquer título, no Brasil ou no
 
@@ -21362,13 +21674,13 @@ Exercício social 20XX – remuneração recebida em função do exercício do c
 
 Conselho de
 
-administração
-
 Diretoria
 
-estatutária
-
 Conselho
+
+administração
+
+estatutária
 
 fiscal Total
 
@@ -21382,13 +21694,13 @@ Exercício social 20XX – demais remunerações recebidas, especificando a que 
 
 Conselho de
 
-administração
-
 Diretoria
 
-estatutária
-
 Conselho
+
+administração
+
+estatutária
 
 fiscal Total
 
@@ -21430,13 +21742,13 @@ emissor. Notar que se a apresentação do formulário de referência se der por 
 
 de distribuição de valores mobiliários, as informações devem se referir também às últimas informações
 
+266
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-267
 
 contábeis divulgadas pelo emissor e quando da apresentação do formulário de referência por conta do
 
@@ -21444,7 +21756,7 @@ pedido de registro de emissor de valores mobiliários, as informações devem se
 
 exercícios sociais e ao exercício social corrente.
 
-Neste novo formato do formulário de referência , na letra “c” , deverá ser informada a data na qual foi
+Neste novo formato do formulário de referência, na letra “c”, deverá ser informada a data na qual foi
 
 celebrada a contratação do auditor independente (“data de contratação dos serviços”) e, também, a data
 
@@ -21454,7 +21766,7 @@ prestação do serviço”). Por exemplo, caso um auditor tenha sido contratado 
 
 efetuar a revisão das informações relativas ao 1º ITR/2019, a informação a ser divulgada como “data de
 
-contratação dos serviços”, será 10.12.2018, enquanto a data de “início da prestação do serv iço” será
+contratação dos serviços”, será 10.12.2018, enquanto a data de “início da prestação do serviço” será
 
 01.01.2019.
 
@@ -21466,7 +21778,7 @@ independente, na descrição dos serviços contratados (letra “c”) deverão 
 
 relacionados à auditoria independente, mas também quaisquer outros serviços que não de auditoria
 
-externa que se jam prestados ao emissor pelo auditor independente ou por partes relacionadas com o
+externa que sejam prestados ao emissor pelo auditor independente ou por partes relacionadas com o
 
 auditor independente, conforme definidas na Resolução CVM nº 94/22, que aprovou o Pronunciamento
 
@@ -21500,7 +21812,7 @@ A informação sobre o montante total da remuneração dos auditores independent
 
 somente em relação ao último exercício social.
 
-Além do montante total de remuneração, deverá ser informado como esse montante encontra -se
+Além do montante total de remuneração, deverá ser informado como esse montante encontra-se
 
 segregado entre:
 
@@ -21514,13 +21826,13 @@ externa, dado que o item 9.2 do Anexo C da Resolução CVM nº 80/22 não faz re
 
 ao montante do honorário a partir do qual a informação deverá ser prestada.
 
+267
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-268
 
 Tanto no caso dos serviços de auditoria externa quanto no caso de outros serviços prestados, o emissor
 
@@ -21532,7 +21844,7 @@ As informações sobre a remuneração dos auditores independentes devem ser apr
 
 Mesmo quando houver a prestação de serviços pelo auditor no exterior, o emissor deve efetuar a
 
-conversão para a moeda nacional conforme disposto no CPC 2 ( R2) aprovado pela Resolução CVM nº
+conversão para a moeda nacional conforme disposto no CPC 2 (R2) aprovado pela Resolução CVM nº
 
 91/22.
 
@@ -21568,7 +21880,7 @@ emissor, não havendo, em regra, obrigatoriedade de divulgação de informaçõe
 
 Entretanto, a divulgação das informações requeridas neste item de forma consolidada é considerada
 
-desejável, por permitir uma melhor compreensão e avaliação pelo s investidores dos negócios da
+desejável, por permitir uma melhor compreensão e avaliação pelos investidores dos negócios da
 
 companhia e de seus resultados. Neste caso, o emissor deverá deixar expresso que as informações
 
@@ -21576,7 +21888,7 @@ prestadas abrangem outras empresas ligadas ao emissor.
 
 Em relação à letra “a” do item 10.1, o emissor deverá preencher as oito tabelas estruturadas no
 
-formulário, com os parâmetros pré -definidos, informando a quantidade de empregados ― excluídos os
+formulário, com os parâmetros pré-definidos, informando a quantidade de empregados ― excluídos os
 
 administradores (diretores estatutários e membros do conselho de administração) e os membros do
 
@@ -21596,33 +21908,33 @@ ser inserido no campo “10.1 Descrição dos recursos humanos”, em que serão
 
 informações relativas às letras “b” e “c”.
 
+268
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-269
-
 Nesse mesmo item, as companhias devem atentar à necessidade de adaptação de seus sistemas internos,
 
-de forma a refletir as identidades autodeclaradas de gênero dos empregados , em conformidade com o
+de forma a refletir as identidades autodeclaradas de gênero dos empregados, em conformidade com o
 
-artigo 15 da Resolução CVM nº 80/22 , para que possam subsidiar o preenchimento dos respectivos
+artigo 15 da Resolução CVM nº 80/22, para que possam subsidiar o preenchimento dos respectivos
 
 quadros do formulário de referência: “masculino”, “feminino”, “não binário” e “outros”.
 
-Eventuais dificuldades para preenchimento desse item devem ser informadas n o item “ 10.5 Outras
+Eventuais dificuldades para preenchimento desse item devem ser informadas no item “10.5 Outras
 
 informações relevantes”.
 
 Além disso, o emissor tem a oportunidade de informar, no PDF a ser inserido no item “10.5 Outras
 
-informações relevantes ”, a quantidade de empregados agrupados por quaisquer indicadores de
+informações relevantes”, a quantidade de empregados agrupados por quaisquer indicadores de
 
 diversidade, divididos da forma que entender relevante, como, por exemplo, divididos por países em vez
 
-de regiões do Brasil, ou divididos por outros níveis hierárquicos além daqueles apre sentados nas tabelas
+de regiões do Brasil, ou divididos por outros níveis hierárquicos além daqueles apresentados nas tabelas
 
 estruturadas.
 
@@ -21650,7 +21962,7 @@ ali prestadas, de forma claramente identificável.
 
 No item 10.3 “d”, relativo “a mediana da remuneração individual dos empregados do emissor no Brasil”,
 
-entende-se que não devem ser considerados para contagem estagiários e/ou jovens aprendizes , sem
+entende-se que não devem ser considerados para contagem estagiários e/ou jovens aprendizes, sem
 
 prejuízo de esclarecimentos no item 10.5.
 
@@ -21660,7 +21972,7 @@ de empregados que não tenha recebido remuneração nos 12 (doze) meses, como oc
 
 remuneração” do item 8.15.
 
-Caso a c ompanhia estrangeira não possua funcionários no Brasil, o quadro 10.3 “d” não deverá ser
+Caso a companhia estrangeira não possua funcionários no Brasil, o quadro 10.3 “d” não deverá ser
 
 preenchido, uma vez que tal item menciona a razão entre a maior remuneração e a mediana da
 
@@ -21670,19 +21982,19 @@ Cumpre ressaltar que cabe à companhia avaliar a necessidade de expor no item 10
 
 relevantes”) eventuais diferenças.
 
+269
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-270
-
 10.2.11 Transação com partes relacionadas (seção 11)
 
 Para a prestação das informações solicitadas nos itens desta seção do formulário de referência, deve ser
 
-considerado o conceito de parte relacionada constante da Resolução CVM nº 94/22 , que aprovou o
+considerado o conceito de parte relacionada constante da Resolução CVM nº 94/22, que aprovou o
 
 Pronunciamento Técnico CPC 05 (R1).
 
@@ -21748,19 +22060,19 @@ a) tenham sido celebradas no último exercício social; ou
 
 b) estejam em vigor no exercício social corrente.
 
+270
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-271
-
-No formulário de referência de 2025, devem constar t odas as transações com partes relacionadas que
+No formulário de referência de 2025, devem constar todas as transações com partes relacionadas que
 
 tenham sido celebradas em 2024 (último exercício social), independentemente de estarem em aberto ou
 
-de já terem sido finalizadas. Além disso, deve constar também t odas as transações em vigor em 202 5
+de já terem sido finalizadas. Além disso, deve constar também todas as transações em vigor em 2025
 
 (exercício social corrente), independentemente de quando foram celebradas (podem ter sido celebradas
 
@@ -21794,17 +22106,17 @@ O preenchimento dos campos deve incluir informações suficientes para o complet
 
 operação, nos termos da tabela descrita no item 11.2 do Anexo C da Resolução CVM nº 80/22.
 
-As divulgações a serem efetuadas neste item devem deixar clara a finalidade da s transações e qual o
+As divulgações a serem efetuadas neste item devem deixar clara a finalidade das transações e qual o
 
 interesse da companhia.
 
-Aplicam-se as orientações constantes do item 4.16 deste Ofício Circular , no que se refere à data de
+Aplicam-se as orientações constantes do item 4.16 deste Ofício Circular, no que se refere à data de
 
 celebração do contrato, montante envolvido na transação e à necessidade de divulgação de informações
 
 resumidas que a própria alta administração da companhia deveria ter acesso para, leal e diligentemente,
 
-analisar se os termos e as condições da tra nsação estão compatíveis com os termos e as condições
+analisar se os termos e as condições da transação estão compatíveis com os termos e as condições
 
 praticados no mercado.
 
@@ -21812,7 +22124,7 @@ Na descrição do objeto do contrato (letra “d”) não basta, portanto, infor
 
 (aluguel, prestação de serviços, consultoria, compartilhamento de despesas etc.), devendo ser
 
-especificado, por exemplo, além dos valores envolvidos e demais c ondições de pagamento, o imóvel
+especificado, por exemplo, além dos valores envolvidos e demais condições de pagamento, o imóvel
 
 alugado, que tipo de serviço ou consultoria é prestado, que tipo de despesas são compartilhadas etc.
 
@@ -21824,11 +22136,13 @@ quantidade de produtos vendidos, entre outras condições, o emissor deverá: (a
 
 com o objeto do contrato (letra “d”), as condições da transação (por exemplo, pagamento por hora, limite
 
-de horas contratadas etc.); e (b) informar, c omo montante envolvido no negócio (letra “f”), os valores
+de horas contratadas etc.); e (b) informar, como montante envolvido no negócio (letra “f”), os valores
 
 históricos envolvidos. Quanto ao saldo existente (letra “g”), o valor informado neste campo deve
 
 corresponder ao restante do contrato (a parte que cabe à parte relacionada).
+
+271
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -21836,13 +22150,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-272
-
-Seguem abaixo alguns exemplos de situações que i lustram o preenchimento dos campos “montante
+Seguem abaixo alguns exemplos de situações que ilustram o preenchimento dos campos “montante
 
 envolvido no negócio” e “saldo existente”:
 
-(i) houve vendas durante o ano de R$ 10.000 e no encerramento do exercício social t inham
+(i) houve vendas durante o ano de R$ 10.000 e no encerramento do exercício social tinham
 
 restado R$ 3.000 em aberto no contas a receber: a companhia deverá divulgar no montante
 
@@ -21856,7 +22168,7 @@ existente, R$ 3.000; e
 
 (iii) houve vendas durante o ano de R$ 10.000 e no encerramento do exercício social não há saldo
 
-em aberto no contas a receber : a companhia deverá divulgar no montante envolvido os R$
+em aberto no contas a receber: a companhia deverá divulgar no montante envolvido os R$
 
 10.000 e no saldo existente, R$ 0.”
 
@@ -21866,7 +22178,7 @@ se for possível aferir” deve levar em consideração que, geralmente, se o ne
 
 com a parte relacionada, o seu interesse no negócio é de 100% do montante envolvido, de modo que se
 
-repete esse valor. Em alguns casos, a parte relacionada pode ser “co -interessada” se, por exemplo, for
+repete esse valor. Em alguns casos, a parte relacionada pode ser “co-interessada” se, por exemplo, for
 
 detentora de parte do imóvel alugado. Nesse caso, deve constar apenas o valor relativo ao seu interesse
 
@@ -21874,7 +22186,7 @@ na operação.
 
 A companhia deverá informar no item 11.2 “m” a taxa de juros cobrada em empréstimos ou outro tipo de
 
-dívida. As taxas de juros cobradas deverão ser informadas em bases anuais . Caso a correção envolva um
+dívida. As taxas de juros cobradas deverão ser informadas em bases anuais. Caso a correção envolva um
 
 índice, essa informação deve constar no item que trata do objeto do contrato, já que o campo apenas
 
@@ -21882,7 +22194,7 @@ permite o preenchimento com números.
 
 Outras características relevantes do negócio, tais como eventuais condições a que o contrato esteja
 
-sujeito, devem ser reportadas no item “ Natureza e razões para a operação/ Outras informações
+sujeito, devem ser reportadas no item “Natureza e razões para a operação/Outras informações
 
 relevantes”.
 
@@ -21894,7 +22206,7 @@ e na Resolução CVM nº 44/21.
 
 Nesse sentido, além da necessidade de cumprimento da norma no que se refere às informações
 
-enumeradas no item 11.2 do Anexo C da Resolução CVM nº 80/22 , cabe observar que o emissor deve
+enumeradas no item 11.2 do Anexo C da Resolução CVM nº 80/22, cabe observar que o emissor deve
 
 divulgar informações verdadeiras, completas, consistentes e que não induzam o investidor a erro, não
 
@@ -21902,23 +22214,23 @@ cabendo, em regra, a divulgação de informações incompletas sob a alegação 
 
 confidencialidade do contrato.
 
-Nos casos de negociações em andamento, aplica -se o disposto na Resolução CVM nº 44/21 , caso as
+Nos casos de negociações em andamento, aplica-se o disposto na Resolução CVM nº 44/21, caso as
 
 informações sobre a operação constituam fato relevante.
 
 Ainda que o contrato não seja um empréstimo ou outro tipo de dívida, informações sobre taxas ou índices
 
-de correção dos valores do contrato, se aplicáveis, são relevantes e devem ser informadas , conforme
+de correção dos valores do contrato, se aplicáveis, são relevantes e devem ser informadas, conforme
 
 acima instruído.
+
+272
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-273
 
 Nas letras “n” e “o” não devem ser reproduzidas obrigações e conceitos genéricos previstos em Lei e na
 
@@ -21934,7 +22246,7 @@ divulgado de maneira expressa.
 
 Devem ser prestadas todas as informações necessárias para demonstrar que as operações foram
 
-realizadas em condições estritamente comutativas ou com o pagamento compensatório adequado ,
+realizadas em condições estritamente comutativas ou com o pagamento compensatório adequado,
 
 citando quais as bases concretas de comparação do emissor, como por exemplo, outras cotações de
 
@@ -21948,7 +22260,7 @@ que os prazos, cronogramas de pagamentos e taxas de juros devem ser condizentes 
 
 mercado, sendo certo que as taxas de juros devem ser maiores do que as taxas de captação da própria
 
-companhia, compatíve is com o risco da parte relacionada e com a s taxas de juros que poderia m ser
+companhia, compatíveis com o risco da parte relacionada e com as taxas de juros que poderiam ser
 
 obtidas pelo devedor no mercado.
 
@@ -21956,7 +22268,7 @@ As informações sobre o caráter comutativo das transações com partes relacio
 
 com as informações prestadas nas letras “a” a “m” deste item, particularmente no que diz respeito à letra
 
-“l” (natureza e razões para a operação) e à letr a “m” (taxa de juros cobrada) para operações de
+“l” (natureza e razões para a operação) e à letra “m” (taxa de juros cobrada) para operações de
 
 empréstimo.
 
@@ -21994,13 +22306,13 @@ homologação por parte de órgão regulador específico esteja pendente, devend
 
 expressa essa informação no item 12.9.
 
+273
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-274
 
 No que se refere ao capital social, deverá ser informado no Sistema Empresas.NET, quanto à “Data da
 
@@ -22064,9 +22376,9 @@ d) Capital integralizado: corresponde à parcela do capital subscrito que não e
 
 efetivo adimplemento por parte dos acionistas.
 
-Em relação ao momento da reapresentação do formulário de referência , nos termos do artigo 25,
+Em relação ao momento da reapresentação do formulário de referência, nos termos do artigo 25,
 
-parágrafo 3º, incisos II e III da Resolução CVM nº 80/22 , essa reapresentação deve ocorrer em 7 (sete)
+parágrafo 3º, incisos II e III da Resolução CVM nº 80/22, essa reapresentação deve ocorrer em 7 (sete)
 
 dias úteis contados da alteração do capital ou da emissão de novos valores mobiliários, conforme o caso.
 
@@ -22076,13 +22388,13 @@ plano de remuneração baseado em ações, se trata um dos possíveis eventos de
 
 privadamente.
 
+274
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-275
 
 Cabe esclarecer que não é necessário realizar duas reapresentações, sendo uma por ocasião da
 
@@ -22092,7 +22404,7 @@ ocasião do efetivo aumento ou de sua homologação pela própria companhia. Nes
 
 suficiente que a reapresentação ocorra ao encerramento do processo de aumento de capital.
 
-Reitera-se, porém, que o fato de o aumento de capital encontrar -se pendente de homologação por
+Reitera-se, porém, que o fato de o aumento de capital encontrar-se pendente de homologação por
 
 reguladores não afasta a necessidade de reapresentação do formulário de referência, devendo tal dado
 
@@ -22104,7 +22416,7 @@ emissores estrangeiros (item 12.2)
 
 Neste item, o emissor estrangeiro deverá descrever os direitos de cada classe ou espécie de ações por ele
 
-emitidas e as regras de seu país de origem e do país em que as ações estejam custodiadas , com a
+emitidas e as regras de seu país de origem e do país em que as ações estejam custodiadas, com a
 
 apresentação das informações requeridas nas letras “a” a “k” deste item.
 
@@ -22124,7 +22436,7 @@ Desse modo, a ocorrência desse evento acarretará a necessidade de atualizaçã
 
 referência no prazo de 7 (sete) dias úteis contados da data em que a alteração se tornar eficaz, com a
 
-atualização das informações prestadas em atenção ao item 12.2 , assim como de qualquer outra
+atualização das informações prestadas em atenção ao item 12.2, assim como de qualquer outra
 
 informação prestada no formulário de referência que seja afetada por esses eventos.
 
@@ -22156,13 +22468,13 @@ B, conforme previsto no inciso III do parágrafo 3º e no inciso II do parágraf
 
 CVM nº 80/22.
 
+275
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-276
 
 Desse modo, a ocorrência desse evento acarretará a necessidade de atualização do formulário de
 
@@ -22178,13 +22490,13 @@ prazo de reapresentação do formulário de referência é de 7 (sete) dias úte
 
 oferta.
 
-Esclarece-se que, nos casos em que a data de emissão dos valore s mobiliários for diferente da data de
+Esclarece-se que, nos casos em que a data de emissão dos valores mobiliários for diferente da data de
 
 aprovação da emissão, o prazo para atualização do formulário de referência contará a partir da data de
 
 emissão.
 
-Na letra “e” , para cada emissão de valores mobiliários realizada em exercícios anteriores , deve ser
+Na letra “e”, para cada emissão de valores mobiliários realizada em exercícios anteriores, deve ser
 
 informado o saldo devedor em aberto na data de encerramento do último exercício social. No caso de
 
@@ -22226,11 +22538,13 @@ c) as informações nele contidas retratam de modo verdadeiro, preciso e complet
 
 emissor e dos riscos inerentes às suas atividades.
 
-Ressalta-se que a referida declaração deve ser prestada pelas duas pessoas indicadas na norma ( diretor
+Ressalta-se que a referida declaração deve ser prestada pelas duas pessoas indicadas na norma (diretor
 
 presidente, ou cargo equivalente, e diretor de relações com investidores), com exceção do caso em que
 
 uma mesma pessoa ocupe os dois cargos elencados na Resolução.
+
+276
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -22238,13 +22552,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-277
-
-Ademais, nas declarações do diretor presidente e do diretor de relações com investidores , devem ser
+Ademais, nas declarações do diretor presidente e do diretor de relações com investidores, devem ser
 
 incluídas as respectivas assinaturas.
 
-Nas apresentações de novas versões do formulário de referência , por conta da atualização prevista na
+Nas apresentações de novas versões do formulário de referência, por conta da atualização prevista na
 
 Resolução CVM nº 80/22, artigo 25, parágrafo 3º, inciso I, ou parágrafo 4º, inciso I, em razão de alteração
 
@@ -22294,7 +22606,7 @@ mercados de títulos e valores mobiliários, decorrente do exercício do poder d
 
 legalmente à CVM.
 
-No que tange às companhias incentivadas, dentre as alterações promovidas, destacam -se a cobrança da
+No que tange às companhias incentivadas, dentre as alterações promovidas, destacam-se a cobrança da
 
 taxa passar de trimestral para anual, devendo ser recolhida integralmente com relação a todo o ano a que
 
@@ -22312,13 +22624,13 @@ Em 01.01.2022, entrou em vigor a Lei nº 13.818/19, que modificou a redação do
 
 6.404/76, alterando algumas regras sobre as publicações obrigatórias, incluindo a possibilidade de
 
+277
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-278
 
 publicação em jornal de grande circulação editado na localidade em que esteja situada a sede da
 
@@ -22344,7 +22656,7 @@ Diante da alteração da Lei, as companhias não precisam mais realizar suas pub
 
 como demonstrações financeiras, editais, atas, avisos aos acionistas) nos órgãos oficiais, devendo manter
 
-tais divulgações em jornal de grande circulação. A nova redação do art igo 289 é aplicável às publicações
+tais divulgações em jornal de grande circulação. A nova redação do artigo 289 é aplicável às publicações
 
 obrigatórias feitas a partir de 01.01.2022, independentemente do período (exercício social ou trimestre)
 
@@ -22364,7 +22676,7 @@ suas orientações.
 
 11.2 Atualização do registro
 
-Nos termos do artigo 6º da Resolução CVM nº 10/20 , uma vez concedido o registro , as companhias
+Nos termos do artigo 6º da Resolução CVM nº 10/20, uma vez concedido o registro, as companhias
 
 incentivadas deverão enviar à CVM, ao banco operador dos fundos de investimentos e à entidade
 
@@ -22376,7 +22688,7 @@ Assim sendo, conforme o inciso I do artigo 6º, as companhias incentivadas dever
 
 informações periódicas e eventuais por intermédio de Sistema Empresas.NET, disponível nos sites da CVM
 
-ou da B3 , acessíveis pelos links https://www.rad.cvm.gov.br/ENET/Shared/Login.aspx?ValidSession=0 e
+ou da B3, acessíveis pelos links https://www.rad.cvm.gov.br/ENET/Shared/Login.aspx?ValidSession=0 e
 
 https://enet.b3.com.br/ENET/Shared/Login.aspx.
 
@@ -22386,13 +22698,13 @@ companhia incentivada deve consultar o Capítulo 3 (Informações periódicas) e
 
 eventuais) deste Ofício Circular, no que for aplicável, bem como o Manual de Envio de Informações
 
-Periódicas e Eventuais , disponível na página da CVM no link https://www.gov.br/cvm/pt-
+Periódicas e Eventuais, disponível na página da CVM no link https://www.gov.br/cvm/pt-
 
 br/assuntos/regulados/consultas-por-participante/companhias/envio-de-
 
 informacoes/ManualSistemadeEnviodeInformacoesPeriodicaseEventuais.pdf, que apresenta listagem
 
-das associações ( categoria, tipo e espécie ) de documentos previstos no Sistema Empresas.NET,
+das associações (categoria, tipo e espécie) de documentos previstos no Sistema Empresas.NET,
 
 classificados pela obrigatoriedade ou não de envio, pela periodicidade de sua divulgação e pela
 
@@ -22400,13 +22712,13 @@ necessidade ou não de publicação na imprensa, bem como traz orientações qua
 
 acesso ao sistema (envio e cancelamento de dados).
 
+278
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-279
 
 Conforme estabelecido no artigo 33 da Resolução CVM nº 10/20, as companhias incentivadas que ainda
 
@@ -22424,7 +22736,7 @@ Conforme previsto no inciso I do artigo 11 da Resolução CVM nº 10/20, o emiss
 
 pelo Sistema Empresas.NET, as demonstrações financeiras e, se for o caso, as demonstrações
 
-consolidadas acompanhadas do s relatórios da administração e do auditor independente registrado na
+consolidadas acompanhadas dos relatórios da administração e do auditor independente registrado na
 
 CVM na mesma data em que forem colocadas à disposição do público, data esta que não deverá
 
@@ -22462,7 +22774,7 @@ a qual está prevista a realização da AGO.
 
 11.3.3 Ata da AGO
 
-Nos termos do artigo 11, inciso III, da Resolução CVM nº 10/20 , deverão ser enviadas pelo Sistema
+Nos termos do artigo 11, inciso III, da Resolução CVM nº 10/20, deverão ser enviadas pelo Sistema
 
 Empresas.NET as atas das AGO, em até 30 (trinta) dias de sua realização, com indicação das datas e jornais
 
@@ -22476,13 +22788,13 @@ Ressalta-se que o campo “Data de Referência” deste documento deverá ser pr
 
 que ocorreu a AGO.
 
+279
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-280
 
 11.3.4 Dados cadastrais de companhias incentivadas
 
@@ -22522,11 +22834,11 @@ presidente ou do diretor responsável pelo contato com a CVM, além da data de s
 
 A entrega anual à CVM dos dados cadastrais atualizados é obrigatória e deve ser realizada, em um único
 
-arquivo, por meio do Sistema Empresas.NET, pela categoria “Dados cadastra is de companhias
+arquivo, por meio do Sistema Empresas.NET, pela categoria “Dados cadastrais de companhias
 
 incentivadas”.
 
-Além disso, o emissor dev erá proceder à atualização dos d ados cadastrais de companhia incentivada
+Além disso, o emissor deverá proceder à atualização dos dados cadastrais de companhia incentivada
 
 sempre que qualquer dos dados nele contido for alterado, em até 10 (dez) dias contados da referida
 
@@ -22548,13 +22860,13 @@ eventuais penalidades a serem aplicadas pelo Ministério do Desenvolvimento Regi
 
 operadores.
 
+280
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-281
 
 11.5 Suspensão do registro
 
@@ -22592,7 +22904,7 @@ que declare que todas as ações da companhia estão de posse de seus controlado
 
 Assim, a petição de cancelamento de registro deve ser encaminhada por meio do Protocolo Digital da
 
-CVM ( https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital), acompanhada da minuta
+CVM (https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital), acompanhada da minuta
 
 do edital de OPA ou do termo de responsabilidade, que declare que todos as ações estão de posse dos
 
@@ -22604,9 +22916,9 @@ cancelamento do registro que a companhia se encontre em dia com o envio dos docu
 
 e eventuais a que está obrigada.
 
-Assim sendo, p ara o cancelamento do registro há necessidade de que a companhia esteja com as
+Assim sendo, para o cancelamento do registro há necessidade de que a companhia esteja com as
 
-informações periódicas e eventuais atualizadas, entregues pelo Sistema E mpresas.NET, quais sejam: (i)
+informações periódicas e eventuais atualizadas, entregues pelo Sistema Empresas.NET, quais sejam: (i)
 
 demonstrações financeiras completas, acompanhadas de relatório de administração, notas explicativas e
 
@@ -22624,13 +22936,13 @@ na CVM, e que não se registraram, poderão obter registro simplificado, quando 
 
 subsequente e imediato cancelamento.
 
+281
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-282
 
 O pedido de registro simplificado deverá ser encaminhado à DAIN, acompanhado dos documentos
 
@@ -22656,7 +22968,7 @@ milhões de reais), a ser comprovado por meio do envio das demonstrações finan
 
 social, auditadas por auditor independente registrado nesta Autarquia e publicado na imprensa; e (ii)
 
-providenciar, a companhia, o cancelamento de seu registro de companhia incentivada mantido na CV M,
+providenciar, a companhia, o cancelamento de seu registro de companhia incentivada mantido na CVM,
 
 através da realização de oferta pública (OPA) para aquisição das ações incentivadas.
 
@@ -22692,7 +23004,7 @@ Nos termos do artigo 14 da Resolução nº 1.660 do Banco Central do Brasil, som
 
 em leilão os valores mobiliários de emissão de sociedades beneficiárias de recursos oriundos de incentivos
 
-fiscais que mantiverem atualizados seus registros na CVM, sendo e sta atualização responsabilidade das
+fiscais que mantiverem atualizados seus registros na CVM, sendo esta atualização responsabilidade das
 
 companhias.
 
@@ -22704,13 +23016,13 @@ poderão ser negociados em leilões especiais caso conste do respectivo edital d
 
 que estes emissores não são registrados ou fiscalizados pela CVM.
 
+282
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-283
 
 Lembra-se ainda que, nos termos do artigo 24 de referida Resolução nº 1.660, as sociedades emissoras
 
@@ -22736,7 +23048,7 @@ mobiliários que tem por objetivos:
 
 I – identificar os riscos a que está exposto o mercado supervisionado;
 
-II – dimensionar tais riscos, classificando -os inclusive segundo níveis de dano potencial e
+II – dimensionar tais riscos, classificando-os inclusive segundo níveis de dano potencial e
 
 probabilidade de ocorrência;
 
@@ -22780,13 +23092,13 @@ internos);
 
 • Inadequação à normatização em reorganizações societárias (incorporação, fusão e cisão);
 
+283
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-284
 
 • Inadequação à normatização em emissão de ações ou títulos conversíveis em ações por
 
@@ -22828,7 +23140,7 @@ no Código Brasileiro de Governança Corporativa (CBGC). O emissor registrado na
 
 por entidade administradora de mercado à negociação de ações ou de certificados de depósito de ações
 
-de sua emissão em bolsa de valores deve encaminhar informe sobre o CBGC em até 7 ( sete) meses
+de sua emissão em bolsa de valores deve encaminhar informe sobre o CBGC em até 7 (sete) meses
 
 contados da data de encerramento do exercício social.
 
@@ -22842,7 +23154,7 @@ segue cada uma das práticas recomendadas e, em caso da não adoção da prátic
 
 adoção de forma parcial, apresentar as razões que levaram o emissor a não adotar integralmente a
 
-prática. Tais razões poderiam estar relacionadas, por exemplo, ao porte do emissor e ati vidades por ele
+prática. Tais razões poderiam estar relacionadas, por exemplo, ao porte do emissor e atividades por ele
 
 desenvolvidas, seu histórico e estágio de evolução, sua estrutura de controle, sua avaliação sobre a
 
@@ -22854,17 +23166,17 @@ A supervisão a ser exercida pela CVM sobre as informações prestadas no inform
 
 estenderá a avaliar as escolhas feitas pelo emissor quanto à adoção ou não das práticas recomendadas,
 
-mas se preocupará em verificar se as informações divulg adas pelos emissores sobre o assunto são
+mas se preocupará em verificar se as informações divulgadas pelos emissores sobre o assunto são
 
 verdadeiras, completas, consistentes e não induzem o investidor a erro.
+
+284
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-285
 
 13.1 Política de divulgação
 
@@ -22936,13 +23248,13 @@ informação;
 
 • Casos de exceções à obrigação de divulgar; e
 
+285
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-286
 
 • Responsabilidade em casos de descumprimento da política de divulgação.
 
@@ -22960,7 +23272,7 @@ casos excepcionais que justificariam a exceção à regra da imediata divulgaç�
 
 Especificamente no caso de sociedades de economia mista, tendo em vista a possibilidade de divulgação
 
-de informações relevantes por representantes do Poder Público, recomenda -se que a política de
+de informações relevantes por representantes do Poder Público, recomenda-se que a política de
 
 divulgação preveja:
 
@@ -22978,7 +23290,7 @@ CVM nº 19957.006290/2016-08)93, entendeu que o artigo 3º, parágrafos 1º e 2�
 
 Instrução CVM nº 358/02 (atual Resolução CVM nº 44/21) que tratam dos deveres e responsabilidades na
 
-divulgação de ato ou fato relevante e do dever de guardar sigilo, aplicam -se a membro de comitê criado
+divulgação de ato ou fato relevante e do dever de guardar sigilo, aplicam-se a membro de comitê criado
 
 por disposição estatutária, ainda que não seja administrador da companhia.
 
@@ -23018,13 +23330,13 @@ com destaque àquelas de natureza privada.
 
 http://conteudo.cvm.gov.br/decisoes/2017/20170502_R1/20170502_D0378.html.
 
+286
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-287
 
 A política de negociação, prevista no artigo 15 da Resolução CVM nº 44/21 (vide itens 4.10 e 13.8 deste
 
@@ -23038,11 +23350,11 @@ controladores, administradores, membros do conselho fiscal ou de outros órgãos
 
 estatutária.
 
-Vale observar que o Colegiado da CVM, em reuniões ocorridas em 1 3.12.2016 e 02.05.2017 (Processo
+Vale observar que o Colegiado da CVM, em reuniões ocorridas em 13.12.2016 e 02.05.2017 (Processo
 
 CVM nº 19957.006290/2016-08)94, entendeu que as vedações à negociação constantes do artigo 13, caput
 
-e parágrafo 4º , da Instrução CVM nº 358/02 (atual Resolução CVM nº 44/21) , aplicam-se a membro de
+e parágrafo 4º, da Instrução CVM nº 358/02 (atual Resolução CVM nº 44/21), aplicam-se a membro de
 
 comitê criado por disposição estatutária, ainda que não seja administrador da companhia. Ressalta-se
 
@@ -23066,7 +23378,7 @@ Recomenda-se que as companhias elaborem, divulguem e observem políticas formais
 
 riscos aos quais estão expostas, descritos nos itens 4.1 e 4.3 do formulário de referência. No item 5.4 do
 
-formulário de referência , deve-se informar se, em relação ao último exercício social, houve alterações
+formulário de referência, deve-se informar se, em relação ao último exercício social, houve alterações
 
 significativas nos principais riscos a que o emissor está exposto ou na política de gerenciamento de riscos
 
@@ -23076,9 +23388,9 @@ tais riscos. Naturalmente, cada emissor, em função, dentre outros fatores, da 
 
 do seu porte, do grupo econômico a que pertence e da estrutura operacional e controles internos que
 
-possui, está exposto e pode ser impactado de forma diversa em relação a determinado risco. Compete ,
+possui, está exposto e pode ser impactado de forma diversa em relação a determinado risco. Compete,
 
-em primeiro lugar, à administração da companhia , de posse de um conjun to amplo de informações,
+em primeiro lugar, à administração da companhia, de posse de um conjunto amplo de informações,
 
 exercer o julgamento quanto à identificação dos riscos relevantes a que estão expostos, às medidas
 
@@ -23090,11 +23402,11 @@ nº 80/22. Não se pode olvidar, nesse contexto, a necessidade de constante iden
 
 emergentes, dentre os quais, os riscos cibernéticos, que vêm ganhando relevância nos últimos anos.
 
-Ainda no que se refere à divulgação de informações acerca da matéria, vale observar que, s em prejuízo
+Ainda no que se refere à divulgação de informações acerca da matéria, vale observar que, sem prejuízo
 
 da divulgação periódica no formulário de referência, a companhia deve divulgar imediatamente qualquer
 
-outro ato ou fato de caráter político -administrativo, técnico, negocial ou econômico-financeiro ocorrido
+outro ato ou fato de caráter político-administrativo, técnico, negocial ou econômico-financeiro ocorrido
 
 ou relacionado aos seus negócios que possa influir de modo ponderável na decisão dos investidores de
 
@@ -23106,15 +23418,15 @@ companha, a divulgação de comunicado a mercado do tipo “Outros comunicados n
 
 http://conteudo.cvm.gov.br/decisoes/2017/20170502_R1/20170502_D0378.html.
 
+287
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-288
-
-relevantes” sobre o assunto, que também deve observar os art igos 15 e seguintes da Resolução CVM nº
+relevantes” sobre o assunto, que também deve observar os artigos 15 e seguintes da Resolução CVM nº
 
 80/22.
 
@@ -23148,11 +23460,11 @@ categoria “Política de Dividendos” (vide item 10.2.2.6).
 
 13.6 Calendário corporativo
 
-Nos moldes dos regulamentos dos segmentos especiais de listagem da B3, recomenda -se que as
+Nos moldes dos regulamentos dos segmentos especiais de listagem da B3, recomenda-se que as
 
 companhias abertas elaborem e divulguem, até o dia 10 de dezembro de cada ano, um calendário anual
 
-no qual constem as datas dos principais eventos corporativos progr amados para o ano civil seguinte. O
+no qual constem as datas dos principais eventos corporativos programados para o ano civil seguinte. O
 
 objetivo deste calendário anual é facilitar o acompanhamento das atividades da empresa por parte dos
 
@@ -23160,7 +23472,7 @@ investidores e outros interessados. O calendário deverá ser divulgado por meio
 
 função “Calendário Anual”, que permite a sua criação, preenchimento e envio.
 
-Cabe esclarecer qu e eventuais alterações em relação às datas constantes do calendário anual já
+Cabe esclarecer que eventuais alterações em relação às datas constantes do calendário anual já
 
 apresentado devem ser divulgadas ao mercado antes da realização do evento, com a disseminação do
 
@@ -23168,7 +23480,7 @@ referido documento atualizado, por meio do Sistema Empresas.NET.
 
 13.7 Elaboração do formulário de referência
 
-Recomenda-se que o formulário de referência, documento previsto no artigo 2 5 da Resolução CVM nº
+Recomenda-se que o formulário de referência, documento previsto no artigo 25 da Resolução CVM nº
 
 80/22 (vide Capítulo 10 deste Ofício Circular), seja elaborado pela própria companhia, e não por terceiros
 
@@ -23178,13 +23490,13 @@ representantes de todas as áreas da companhia, e não apenas o departamento de 
 
 investidores.
 
+288
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-289
 
 13.8 Momento de divulgação de informações relevantes
 
@@ -23212,7 +23524,7 @@ brasileiro.
 
 Ainda que a Resolução CVM nº 44/21 preveja a possibilidade de divulgação de fato relevante antes do
 
-início dos negócios em mercado, entende -se como uma boa prática que a divulgação ocorra
+início dos negócios em mercado, entende-se como uma boa prática que a divulgação ocorra
 
 preferencialmente após o encerramento dos negócios em todos os países em que os valores mobiliários
 
@@ -23220,7 +23532,7 @@ sejam negociados, possibilitando um período maior para que os investidores poss
 
 decorrentes da informação divulgada. Caso seja necessária a divulgação antes da abertura do pregão, esta
 
-deve ser feita pe lo menos com 1 (uma) hora de antecedência, a fim de evitar atrasos no início das
+deve ser feita pelo menos com 1 (uma) hora de antecedência, a fim de evitar atrasos no início das
 
 negociações.
 
@@ -23262,13 +23574,13 @@ acionistas, seja AGO, AGE, AGESP ou AGDEB, a exemplo do que já exige o artigo 1
 
 analisar as deliberações a serem tomadas e, eventualmente, se articulem para participar da assembleia.
 
+289
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-290
 
 13.9.2 Pauta e documentação
 
@@ -23290,7 +23602,7 @@ presença e a aprovação da totalidade dos sócios da companhia.
 
 caso a companhia apresente um quadro acionário disperso. Este manual, além de conter todas as
 
-informações necessárias para o pleno entendimento das matéri as em debate, deve incluir modelos de
+informações necessárias para o pleno entendimento das matérias em debate, deve incluir modelos de
 
 procuração com as opções de voto.
 
@@ -23306,7 +23618,7 @@ Lembra-se que a organização da assembleia geral deve proporcionar aos sócios 
 
 apresentarem propostas justificadas de itens a serem incluídos na ordem do dia.
 
-É recomendável que as companhias insiram em seu s estatutos sociais a faculdade de acionistas não
+É recomendável que as companhias insiram em seus estatutos sociais a faculdade de acionistas não
 
 controladores apresentarem candidatos para o conselho de administração, desde que esses acionistas
 
@@ -23326,23 +23638,25 @@ acionistas previsto na Lei nº 6.404/76 de indicar e eleger membros para o conse
 
 conselho fiscal no próprio momento da assembleia.
 
+290
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-291
+Ainda sobre a indicação de candidatos, entende-se ser recomendável, nos casos que acionistas
 
-Ainda sobre a indicação de candidato s, entende -se ser recomendável, nos casos que acionistas
-
-minoritários conseguirem indicar candidatos de for ma individual nos termos do artigo 37 da Resolução
+minoritários conseguirem indicar candidatos de forma individual nos termos do artigo 37 da Resolução
 
 CVM nº 81/22, que a votação, inicialmente prevista para o sistema de chapas, ocorra na forma de votação
 
 individual de candidatos. O Colegiado da CVM, em 05.11.2019, no âmbito de análise de um recurso contra
 
-a manifestação da SEP ( Processo CVM nº 19957 .004385/2019-21)95, embora tenha reconhecido a
+a manifestação da SEP (Processo CVM nº 19957.004385/2019-21)95
+
+, embora tenha reconhecido a
 
 impossibilidade de a CVM exigir tal conduta, reconheceu como boa prática de governança a adoção de
 
@@ -23350,7 +23664,7 @@ soluções alternativas que permitam contemplar na sistemática de voto a distâ
 
 indicados na proposta da administração quanto eventuais indicações apresentadas por outros grupos de
 
-acionistas. Com a finalidade de se ter uma maior previsibilidade e estabilidade, recomenda -se que a
+acionistas. Com a finalidade de se ter uma maior previsibilidade e estabilidade, recomenda-se que a
 
 companhia fixe em seu estatuto social o procedimento que irá adotar nas eleições do seu conselho de
 
@@ -23366,7 +23680,7 @@ Quando a assembleia for realizada em locais de difícil acesso, os documentos de
 
 indicar com clareza como deve se dar o acesso ao local. Uma eventual tolerância com relação ao horário
 
-de início da assembleia e o impedimento do acesso de aci onistas após esse horário também podem ser
+de início da assembleia e o impedimento do acesso de acionistas após esse horário também podem ser
 
 informados nos documentos de convocação.
 
@@ -23388,7 +23702,7 @@ relevantes para os acionistas participarem das assembleias.
 
 O Parecer de Orientação CVM nº 35/08 trata da observação, pelos administradores de companhias
 
-abertas, de seus deveres fiduciários nas operações de fusão , incorporação e incorporação de ações
+abertas, de seus deveres fiduciários nas operações de fusão, incorporação e incorporação de ações
 
 envolvendo a sociedade controladora e suas controladas ou sociedades sob controle comum (vide item
 
@@ -23400,7 +23714,7 @@ negociação de tais operações. O procedimento alternativo a que a operação 
 
 aprovação da maioria dos acionistas não controladores, inclusive os titulares de ações sem direito a voto
 
-ou com voto restrito , é a constituição de um comitê especial independente para negociar a operação e
+ou com voto restrito, é a constituição de um comitê especial independente para negociar a operação e
 
 submeter suas recomendações ao conselho de administração da companhia.
 
@@ -23408,13 +23722,13 @@ O Parecer cita três alternativas para a composição desse comitê especial ind
 
 95 Vide http://conteudo.cvm.gov.br/decisoes/2019/20191105_R1/20191105_D1389.html.
 
+291
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-292
 
 i) Comitê composto exclusivamente por administradores da companhia, em sua maioria
 
@@ -23442,7 +23756,7 @@ controladores no comitê especial independente é recomendável.
 
 Caso a companhia aberta possua comitê de auditoria, ainda que este comitê não tenha sido estruturado
 
-como o comitê de auditoria estatutário – CAE, nos termos dos artigos 31 -A a 31-F da Resolução CVM nº
+como o comitê de auditoria estatutário – CAE, nos termos dos artigos 31-A a 31-F da Resolução CVM nº
 
 23/21, é recomendável que o comitê de auditoria produza um relatório anual, a ser apresentado
 
@@ -23458,7 +23772,7 @@ e o comitê de auditoria em relação às demonstrações financeiras da companh
 
 É recomendável que as suas atribuições estejam previstas no estatuto social da companhia, e seus
 
-integrantes devem, preferencialmente, ser conselheiros. Recomenda -se, ainda, que o coordenador seja
+integrantes devem, preferencialmente, ser conselheiros. Recomenda-se, ainda, que o coordenador seja
 
 um conselheiro independente ou, caso não seja possível, outro conselheiro.
 
@@ -23470,7 +23784,7 @@ que o comitê tem a função de assessorar o conselho.
 
 Por oportuno, o comitê de auditoria não deve ser confundido, em suas atribuições, com o conselho fiscal,
 
-que possui outras responsabilidades , pois , enquanto o primeiro deve assessorar o conselho de
+que possui outras responsabilidades, pois, enquanto o primeiro deve assessorar o conselho de
 
 administração, o segundo deve fiscalizar.
 
@@ -23482,23 +23796,23 @@ membros que tenham sido sócios de empresa que tenha prestado serviços de audit
 
 emissor, antes na entrada em vigor da Instrução CVM nº 611/19 (que ocorreu em 16.08.2019).
 
+292
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-293
-
 13.12 Envio mensal do formulário de valores mobiliários negociados e
 
 detidos previsto no artigo 11 da Resolução CVM nº 44/21
 
-Com o objetivo de se ter uma informação completa e confiável, recomenda -se que as companhias, a
+Com o objetivo de se ter uma informação completa e confiável, recomenda-se que as companhias, a
 
 exemplo do que já fazem diversos emissores, enviem voluntariamente os formulários, mesmo nos meses
 
-em que não tenham sido verificadas movimentações ou alteraçõe s nas posições dos administradores e
+em que não tenham sido verificadas movimentações ou alterações nas posições dos administradores e
 
 pessoas ligadas. Nesse caso, os formulários devem ser preenchidos com a informação de que, naquele
 
@@ -23510,13 +23824,13 @@ Deve-se ressaltar que essa norma visa a divulgação de todas as movimentações
 
 companhia, por suas controladas, por coligadas e por administradores e pessoas a eles ligadas, com
 
-valores mobiliários de emissão da companhia e de suas soc iedades controladas ou controladoras. Desse
+valores mobiliários de emissão da companhia e de suas sociedades controladas ou controladoras. Desse
 
 modo, qualquer negócio realizado pelas pessoas mencionadas deve ser reportado ao DRI e resultará na
 
-obrigatoriedade do envio à CVM do f ormulário previsto no parágrafo 6º do artigo 11 da Resolução CVM
+obrigatoriedade do envio à CVM do formulário previsto no parágrafo 6º do artigo 11 da Resolução CVM
 
-nº 44/21, in dependentemente de modificação do saldo final. É recomendável que tanto as pessoas
+nº 44/21, independentemente de modificação do saldo final. É recomendável que tanto as pessoas
 
 mencionadas no caput do artigo 11 da Resolução CVM nº 44/21 quanto o DRI mantenham arquivados os
 
@@ -23540,7 +23854,9 @@ utilize o preço de referência do contrato, definido nos modelos de contrato de
 
 B3 (aba descrição técnica) como “o preço médio do ativo-objeto do empréstimo na sessão de negociação
 
-anterior à data de negociação ou renovação do contrato, ou o último preço médio disponível”.
+anterior à data de negociação ou renovação do contrato, ou o último preço médio disponível”
+
+.
 
 Dessa forma, o valor financeiro da operação será o resultado da multiplicação da quantidade de ações
 
@@ -23548,13 +23864,13 @@ emprestada pelo preço de referência do contrato: (V = Q x P), onde V = Valor f
 
 Quantidade de ações emprestadas e P = Preço de referência do contrato.
 
-Nos termos dos parágrafos 10 e 11 da Resolução CVM nº 44/21 , as pessoas mencionadas no caput do
+Nos termos dos parágrafos 10 e 11 da Resolução CVM nº 44/21, as pessoas mencionadas no caput do
 
 artigo 11 (i) devem apresentar juntamente com a comunicação prevista nos incisos II e III do parágrafo
 
 4º, relação contendo o nome e o número de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no
 
-Cadastro de Pessoas Físicas das pessoas mencionadas no parágrafo 2º e (ii ) qualquer alteração nessas
+Cadastro de Pessoas Físicas das pessoas mencionadas no parágrafo 2º e (ii) qualquer alteração nessas
 
 informações deverá ser comunicada à companhia no prazo de até 15 (quinze) dias contados da data da
 
@@ -23562,27 +23878,27 @@ alteração. Algumas companhias divulgam no formulário a motivação de negocia
 
 por administradores, sendo esta prática recomendada. Vide item 4.8.
 
+293
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
 
-294
-
 13.13 Página das companhias abertas na rede mundial de computadores
 
 Embora não seja obrigatório, recomenda-se que as companhias registradas na categoria B disponibilizem
 
-e mantenham as informações periódicas e eventuais prestadas em atendimento aos artigos 2 2 e 34 da
+e mantenham as informações periódicas e eventuais prestadas em atendimento aos artigos 22 e 34 da
 
-Resolução CVM nº 80/ 22 em página própria na rede mundial de computadores, a exemplo do que é
+Resolução CVM nº 80/22 em página própria na rede mundial de computadores, a exemplo do que é
 
-exigido para as companhias registradas na categoria A , que possuam valores mobiliários admitidos à
+exigido para as companhias registradas na categoria A, que possuam valores mobiliários admitidos à
 
 negociação em mercado de bolsa por entidade administradora de mercado organizado e que possuam
 
-ações ou certificados de depósito de ações em circulação , nos termos do artigo 1 4, parágrafo 1º, da
+ações ou certificados de depósito de ações em circulação, nos termos do artigo 14, parágrafo 1º, da
 
 referida Resolução.
 
@@ -23616,7 +23932,7 @@ Cabe à administração da companhia, com base em um conjunto amplo de informaç
 
 tratamento contábil adequado a determinado evento, analisando todos os fatos e circunstâncias
 
-relevantes que possam influenciar seu julgamento. Não obstante, a atuaç ão dos administradores da
+relevantes que possam influenciar seu julgamento. Não obstante, a atuação dos administradores da
 
 companhia aberta, no exercício dos deveres fiduciários previstos na legislação societária, deve buscar, de
 
@@ -23644,13 +23960,13 @@ diretamente com qualquer tipo de deliberação que envolva sua própria remunera
 
 remuneração da diretoria deve ser encaminhada pela diretoria, por meio de seu diretor presidente, para
 
+294
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-295
 
 aprovação do conselho de administração. Além disso, a política de remuneração da diretoria deve ser
 
@@ -23702,7 +24018,7 @@ conselho de administração, sempre com o suporte da diretoria. As diretrizes de
 
 toda a companhia, e seus gestores devem adotar os procedimentos necessários para assegurar o seu
 
-cumprimento, bem como estabelecer mecanismos que defendam a sua integridade para pr evenir e
+cumprimento, bem como estabelecer mecanismos que defendam a sua integridade para prevenir e
 
 detectar atos de natureza ilícita, tais como a prática de corrupção, fraude ou suborno.
 
@@ -23716,13 +24032,13 @@ a Lei ou suas normas internas, inclusive no que se refere à notificação aos �
 
 responsáveis pela supervisão do cumprimento das normas infringidas.
 
+295
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro ‒ RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 ‒ www.cvm.gov.br
-
-296
 
 A SEP entende que a demonstração pela administração da companhia da efetividade de seus mecanismos
 
@@ -23767,3 +24083,5 @@ Recomenda-se, em especial às companhias com participação relevante de investi
 também divulguem, em língua inglesa e nos mesmos prazos de sua divulgação obrigatória em língua
 
 portuguesa, os documentos que subsidiarão as decisões assembleares.
+
+296

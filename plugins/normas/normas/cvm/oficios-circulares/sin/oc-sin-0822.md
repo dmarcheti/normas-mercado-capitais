@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0822.pdf
 sha256_fonte: e14693ae75e536e24a408fce5ab01cde918434c570b69c0c8016e7f00a30985e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -38,13 +38,13 @@ Prezados Senhores,
 
 1. A divulgação deste Ofício Circular tem como objetivo esclarecer a interpretação desta área
 
-técnica sobre a aplicação do art. 47, I, da Inst rução CVM 555, que estabelece a possibilidade do
+técnica sobre a aplicação do art. 47, I, da Instrução CVM 555, que estabelece a possibilidade do
 
 regulamento ser alterado, sem assembleia geral, sempre que tal alteração decorrer exclusivamente
 
 “da necessidade de atendimento a normas legais ou regulamentares, exigências expressas da
 
-CVM, de entidade administradora de merca dos organizados onde as cotas do fundo sejam
+CVM, de entidade administradora de mercados organizados onde as cotas do fundo sejam
 
 admitidas à negociação, ou de entidade autorreguladora, nos termos da legislação aplicável e de
 
@@ -52,7 +52,7 @@ convênio com a CVM”.
 
 2. Como sabido, em função da publicação do Comunicado Externo B3 109-2021-VNC, de 28 de
 
-outubro de 2021, com notícias sobre o novo calendári o de funcionamento regular dos ambientes
+outubro de 2021, com notícias sobre o novo calendário de funcionamento regular dos ambientes
 
 da B3 em feriados municipais e estaduais em São Paulo, que inovou a respeito do funcionamento
 

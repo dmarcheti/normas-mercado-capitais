@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0124.pdf
 sha256_fonte: 99ee7202893dc28bf55f09ed16f30dc3e5b3738f045541c731f3926ffcba9922
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 22/02/2024, 14:19 SEI/CVM - 1973729 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2082139&infra_si… 1/1
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -54,7 +52,7 @@ exclusiva de garantir obrigações assumidas pelos fundos ou por seus cotistas.
 
 coobrigação em qualquer hipótese, conforme disposto no art. 32 do Anexo Normativo III da Resolução CVM nº 175.
 
-3. Apesar de a coobrigação ser permitida para as classes restritas, nos termos do art. 113, IV, da Parte Geral da Resolução
+3. Apesar de a coobrigação ser permitida para as classes restritas, nos termos do art. 113, IV , da Parte Geral da Resolução
 
 CVM 175, as disposições do Anexo Normativo III prevalecem para os FII mesmo em caso de conflitos, conforme parágrafo único do
 
@@ -88,12 +86,46 @@ Documento assinado eletronicamente por Bruno de Freitas Gomes Condeixa Rodrigues
 
 às 14:19, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir_autenticidade, informando o código
+A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código
 
 verificador 1973729 e o código CRC A3EB86C2.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador"
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador"
 
 1973729 and the "Código CRC" A3EB86C2.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1973729
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2082139&infra
+
+_
+
+_
+
+_
+
+si... 1/1

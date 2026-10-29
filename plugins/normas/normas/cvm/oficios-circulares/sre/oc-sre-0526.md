@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0526.pdf
 sha256_fonte: c3870311d389f222b2cfd331119b554897856d677308e74eb3bef3803a8f5fc2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -458,11 +458,11 @@ coordenadas por coordenadores de ofertas públicas que não sejam instituições
 
 contatados por instituições financeiras participantes do consórcio de distribuição
 
-55. Este Ofício-Circular substitui os Ofícios-Circulares anteriormente divulgados acerca do
+55. tema.
 
-tema.
+56. Este Ofício-Circular substitui os Ofícios-Circulares anteriormente divulgados acerca do
 
-56. Caso sejam necessários esclarecimentos adicionais, entrar em contato com a Gerência de
+Caso sejam necessários esclarecimentos adicionais, entrar em contato com a Gerência de
 
 Registros 3 – GER-3, por meio do endereço eletrônico ger-3@cvm.gov.br.
 
@@ -478,12 +478,20 @@ Superintendente, em 04/09/2026, às 10:26, com fundamento no art. 6º do Decreto
 
 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2800489 e o código CRC 35E6B8F9.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2800489 and the "Código CRC" 35E6B8F9.
+
+autenticidade,
+
+autenticidade, and
 
 Referência: Processo nº Ofícios-Circulares SRE 2026 Documento SEI nº 2800489

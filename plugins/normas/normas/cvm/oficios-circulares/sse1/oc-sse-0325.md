@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0325.pdf
 sha256_fonte: 1f1f5300ffbc8d159e353e0b4b19e849b8088715029a6b922c1a791f2c0a161c
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -88,9 +90,31 @@ líquido em direitos creditórios devem enviar as informações para o Banco Cen
 
 forma que os FIDC e nos mesmos prazos.
 
-12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2440914&infra_siste… 1/3
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2440914&infra
+
+siste... 1/3_
+
+_
+
+_
+
+12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
 
 II) Investimento em Certificados de Recebíveis
 
@@ -160,22 +184,76 @@ Superintendente, em 12/06/2025, às 14:39, com fundamento no art. 6º do Decreto
 
 de 8 de outubro de 2015.
 
-12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2440914&infra_siste… 2/3
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2440914&infra
+
+_
+
+_
+
+_
+
+siste... 2/3
+
+12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador 2307328 e o código
+https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 2307328 e o código
 
 CRC F86FB380.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+autenticidade, and
+
+_
 
 typing the "Código Verificador" 2307328 and the "Código CRC" F86FB380.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2307328
 
-12/06/2025, 14:39 SEI/CVM - 2307328 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2440914&infra_siste… 3/3
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2440914&infra
+
+_
+
+_
+
+_
+
+siste... 3/3

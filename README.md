@@ -11,7 +11,7 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 Em construção (repositório privado). Acervo atual, em camadas declaradas (data-base 2026-10-28):
 
 1. **Regulação da CVM:** as 155 Resoluções CVM vigentes (as 154 do Estoque Regulatório da CVM de 2026-09-08, mais a Res. 249) e as 5 Instruções CVM ainda em vigor (438, 445, 489, 516 e 579, contábeis de fundos). Ficam fora as revogadas, as que só alteram outras e a Res. 26 (prorrogação de prazos de 2021, sem efeito atual [verificar]).
-2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 171 Ofícios-Circulares com texto, editados desde 2022-01-01. Os 429 restantes (anteriores a 2022 ou em PDF sem texto legível) aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
+2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 179 Ofícios-Circulares editados desde 2022-01-01 (8 deles por OCR, porque o PDF da CVM não tem camada de texto). Os 421 anteriores a 2022 aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
 3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/normas/indices/leis.md`).
 
 Fora do acervo: resoluções do CMN e do BCB, autorregulação (ANBIMA, B3) e julgados da CVM.

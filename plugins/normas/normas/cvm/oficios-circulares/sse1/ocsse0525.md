@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/ocsse0525.pdf
 sha256_fonte: 23faa8e48c16c45aea406a44425be2a2b4f6c7b54af0a31c8d4396c3be6a6325
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+23/07/2025, 15:39 SEI/CVM - 2383912 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -84,9 +86,33 @@ referência. Entretanto, há opção de os administradores já utilizarem o novo
 
 data-base de junho/2025.
 
-23/07/2025, 15:39 SEI/CVM - 2383912 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2522704&infra_siste… 1/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2522704&infra
+
+_
+
+_
+
+_
+
+siste... 1/2
+
+23/07/2025, 15:39 SEI/CVM - 2383912 - Ofício-Circular
 
 7. Em caso de dúvidas sobre a utilização do sistema Fundos.Net, deverá ser contatada a
 
@@ -106,16 +132,46 @@ Superintendente, em 23/07/2025, às 15:39, com fundamento no art. 6º do Decreto
 
 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2383912 e o código CRC 0F506EE3.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2383912 and the "Código CRC" 0F506EE3.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2383912
 
-23/07/2025, 15:39 SEI/CVM - 2383912 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2522704&infra_siste… 2/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2522704&infra
+
+_
+
+_
+
+_
+
+siste... 2/2

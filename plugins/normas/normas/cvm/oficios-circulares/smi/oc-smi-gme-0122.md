@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/smi/anexos/ocsmigme0122.pdf
 sha256_fonte: f03f3f3a5e72feb886c2944be0e34cf44d3c91c7238f7d4990e58b0c2f212057
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE V ALORES MOBILIÁRIOS
+SEI/CVM - 1486402 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir...
+
+COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -78,9 +80,9 @@ Documento assinado eletronicamente por Bruno Baitelli Bruno, Gerente, em 25/04/2
 
 17:50, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-SEI/CVM - 1486402 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir...
-
 1 of 2 25/04/2022 18:23
+
+SEI/CVM - 1486402 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir...
 
 Documento assinado eletronicamente por Francisco José Bastos Santos, Superintendente, em
 
@@ -95,7 +97,5 @@ This document's authenticity can be verified by accessing https://sei.cvm.gov.br
 typing the "Código Verificador" 1486402 and the "Código CRC" 428B04D6.
 
 Referência: Processo nº 19957.003862/2022-37 Documento SEI nº 1486402
-
-SEI/CVM - 1486402 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir...
 
 2 of 2 25/04/2022 18:23

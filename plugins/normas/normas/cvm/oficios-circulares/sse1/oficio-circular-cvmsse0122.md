@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/Oficio-Circular-n-12022-CVMSSE.pdf
 sha256_fonte: c20d4d0a40045f3d9829dc049eed800ad96cb10af61c3ffe781ed7c559c4f1e4
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 21/06/2022 14:53 SEI/CVM - 1533064 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste… 1/3
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -92,9 +90,9 @@ possível encontrar as associações de documentos para atendimento do novo regi
 
 separados de Certificados de Recebíveis Imobiliários (“CRI”) e de Recebíveis do Agronegócio (“CRA”),
 
-21/06/2022 14:53 SEI/CVM - 1533064 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste... 1/3
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste… 2/3
+21/06/2022 14:53 SEI/CVM - 1533064 - Ofício-Circular
 
 também a partir de 01/07/2022 estarão disponíveis os novos modelos desses formulários (“Informe Mensal
 
@@ -180,20 +178,30 @@ Superintendente de Supervisão de Securitização - SSE
 
 Documento assinado eletronicamente por Bruno de Freitas Gomes Condeixa Rodrigues,
 
-21/06/2022 14:53 SEI/CVM - 1533064 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste... 2/3
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste… 3/3
+21/06/2022 14:53 SEI/CVM - 1533064 - Ofício-Circular
 
 Superintendente, em 21/06/2022, às 14:53, com fundamento no art. 6º do Decreto nº 8.539, de 8 de
 
 outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 1533064 e o código CRC 5B6B9B93.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 1533064 and the "Código CRC" 5B6B9B93.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1533064
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1614140&infra_siste... 3/3

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0624.pdf
 sha256_fonte: 76b46996ff1649a9ba797a0e433da49d908494d85fe317c3198228e77e7060c2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -25,8 +25,6 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
-
-/g3
 
 Ofício-Circular nº 6/2024/CVM/SIN
 
@@ -38,19 +36,19 @@ Assunto: Interpretação de dispositivos da Resolução CVM nº 175
 
 Prezados Senhores,
 
-Este Ofício Circular tem como obj etivo divulgar interpretações adicionais da Superintendência de
+Este Ofício Circular tem como objetivo divulgar interpretações adicionais da Superintendência de
 
-Supervisão de Investidores Ins titucionais (“SIN”) sobre outros dispositivos da parte geral da
+Supervisão de Investidores Institucionais (“SIN”) sobre outros dispositivos da parte geral da
 
 Resolução, bem como de dispositivos do Anexo I, IV e V. Assim, este Ofício Circular complementa
 
 os Ofícios-Circulares nº 2 e 3/2024/CVM/SIN.
 
-Para fins de melhor organização dos assuntos, os esclarecimento s serão feitos em tópicos temáticos,
+Para fins de melhor organização dos assuntos, os esclarecimentos serão feitos em tópicos temáticos,
 
 com apontamentos objetivos e diretos, para melhor compreensão e orientação.
 
-Informamos, também, que outros Of ícios Circulares serão divulga dos oportunamente com
+Informamos, também, que outros Ofícios Circulares serão divulgados oportunamente com
 
 esclarecimentos sobre dúvidas relacionadas à parte geral e aos Anexos Normativos da Resolução, e
 
@@ -72,13 +70,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-/g3
-
 Orientações adicionais ao disposto no Ofício-Circular nº 2/2024/CVM/SIN sobre a taxonomia do
 
 código da subclasse
 
-1. Esclarecemos que diferente do previsto no ofício anterior, o có digo da subclasse foi estruturado de
+1. Esclarecemos que diferente do previsto no ofício anterior, o código da subclasse foi estruturado de
 
 forma a conter 15 caracteres alfanuméricos.
 
@@ -94,19 +90,19 @@ fundos de investimento em regulamento ou pela utilização da taxa global.
 
 3. Quando da opção pela utilização da taxa global no regulamento do fundo, o gestor será responsável
 
-por disponibilizar em seu website o sumário de remuneração em á rea pública e de fácil acesso ao
+por disponibilizar em seu website o sumário de remuneração em área pública e de fácil acesso ao
 
 investidor.
 
 4. Os participantes de mercado deverão observar as regras de autorregulação divulgadas pela ANBIMA
 
-sobre a transparência na remun eração sobretudo com relação as o rientações de preenchimento e
+sobre a transparência na remuneração sobretudo com relação as orientações de preenchimento e
 
 padrão conforme modelo disponibilizado pela Associação de modo a garantir a comparabilidade de
 
 informações.
 
-5. As informações do sumário devem ser atualizadas sempre que houv er alterações nos acordos
+5. As informações do sumário devem ser atualizadas sempre que houver alterações nos acordos
 
 existentes e/ou celebração de novos acordos comerciais.
 
@@ -120,15 +116,15 @@ comerciais.
 
 alfabética, de todos os distribuidores contratados com os respectivos CNPJs; e (ii) a lista de todos os
 
-acordos comerciais existentes entre o gestor e os distribuidore s ora contratados, não sendo
+acordos comerciais existentes entre o gestor e os distribuidores ora contratados, não sendo
 
 necessário, neste momento, apontar em qual acordo comercial em que o distribuidor está inserido.
 
-8. Embora, neste primeiro momento, não haja a necessidade de apont ar qual o acordo comercial em
+8. Embora, neste primeiro momento, não haja a necessidade de apontar qual o acordo comercial em
 
-que o distribuidor está inserido, conforme descrito no item aci ma, é esperado que futuramente a
+que o distribuidor está inserido, conforme descrito no item acima, é esperado que futuramente a
 
-transparência da remuneração seja realizada de forma plena por m e i o d e p l a t a f o r m a a s e r
+transparência da remuneração seja realizada de forma plena por meio de plataforma a ser
 
 disponibilizada de acordo com premissas estabelecidas entre regulador e autorregulador.
 
@@ -164,8 +160,6 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-/g3
-
 contenham referência a uma localização (exemplos: Monte Verde, Campo Verde, ArcoVerde),
 
 nome próprio, ou outros significados que não possuem quaisquer objetivos correlatos às finanças
@@ -180,13 +174,13 @@ a. tais termos não confiram entendimento ou correlação direta aos investidore
 
 qualquer aspecto ESG.
 
-b. o material da classe de cotas não contenha quaisquer referência s, diretas ou indiretas, a
+b. o material da classe de cotas não contenha quaisquer referências, diretas ou indiretas, a
 
 adoção de práticas que levam em consideração critérios ESG;
 
-c. não seja empregada estratégia de venda que induza os investidor es a acreditarem que se
+c. não seja empregada estratégia de venda que induza os investidores a acreditarem que se
 
-trata de classe de cotas que bus ca originar ou integrar fatores ambientais, sociais ou de
+trata de classe de cotas que busca originar ou integrar fatores ambientais, sociais ou de
 
 governança em seu processo de investimento.
 

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/occ-sin-sse-0224.pdf
 sha256_fonte: 82e18f30196b226c5d40273488bbd7eb04b1f071f2f6d087294872db73f1433d
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -262,9 +262,9 @@ i. para classes reguladas por instruções anteriores no momento da adaptação 
 
 175;
 
-ii. para classes RCVM 175 originadas da adaptação dos fundos estoque, e
+ii. iii. para classes RCVM 175 originadas da adaptação dos fundos estoque, e
 
-iii. para classes constituídas no âmbito da nova regulamentação.
+para classes constituídas no âmbito da nova regulamentação.
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -312,7 +312,7 @@ regulamento seja omisso quanto a essa
 
 prerrogativa.
 
-Reorganização de fundos ( Feeder/FI ou FIC
+Reorganização de fundos (Feeder/FI ou FIC
 
 que invistam, no mínimo, 95% de seu PL em
 
@@ -323,6 +323,20 @@ anteriores à RCVM 175 ou já adaptados ou
 constituídos na RCVM 175, para estruturas
 
 de 1 ou mais subclasses.
+
+Transferência de cotistas da classe para a
+
+nova subclasse: para estruturas reguladas por
+
+instruções anteriores à RCVM 175 ou já
+
+adaptados ou constituídos na RCVM 175 com
+
+a transferência de cotistas pré-existentes na
+
+classe para uma ou mais novas subclasses
+
+criadas.
 
 A reorganização pode ser por ato unilateral, tanto
 
@@ -351,20 +365,6 @@ altere a política de investimento da classe.
 Caberá ao gestor observar os critérios acima
 
 listados.
-
-Transferência de cotistas da classe para a
-
-nova subclasse: para estruturas reguladas por
-
-instruções anteriores à RCVM 175 ou já
-
-adaptados ou constituídos na RCVM 175 com
-
-a transferência de cotistas pré-existentes na
-
-classe para uma ou mais novas subclasses
-
-criadas.
 
 Transferência de cotistas entre subclasses: a
 

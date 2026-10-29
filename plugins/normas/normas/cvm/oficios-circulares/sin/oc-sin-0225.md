@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0225.pdf
 sha256_fonte: 54ba011092d4d07c423d73b00573306acb6c0332b747b864ba880825f152b3c4
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -42,7 +42,7 @@ Este Ofício Circular tem como objetivo divulgar interpretações adicionais da 
 
 de supervisão de investidores institucionais (“SIN”) sobre os dispositivos da Parte Geral e do
 
-Anexo Normativo IV da Resolução CVM nº 175. Assim, este Ofício Circ ular complementa o
+Anexo Normativo IV da Resolução CVM nº 175. Assim, este Ofício Circular complementa o
 
 Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE, de 11 de abril de 2023 e o Ofício-Circular-
 
@@ -104,7 +104,9 @@ O art. 30 da Parte Geral da Resolução CVM nº 175 dispõe que “a integraliza
 
 ser realizada em moeda corrente nacional, ressalvadas as hipóteses especificamente
 
-aplicáveis a determinadas categorias de fundo ”, ao passo que o art. 113 também da Parte
+aplicáveis a determinadas categorias de fundo”
+
+, ao passo que o art. 113 também da Parte
 
 Geral determina em seu inciso I a possibilidade de o regulamento das classes restritas “admitir
 
@@ -122,7 +124,7 @@ Seria correto entender que uma classe destinada ao público em geral pode admiti
 
 integralização de cotas em ativos desde que a participação na referida classe seja
 
-integralmente detida por outras classes geridas por gestores profis sionais de recursos de
+integralmente detida por outras classes geridas por gestores profissionais de recursos de
 
 terceiros, inclusive no caso de classes regidas pelo Anexo Normativo I?
 
@@ -136,7 +138,7 @@ terceiros, ainda que destinadas ao público em geral, as quais são classificada
 
 investidores profissionais, nos termos do art. 11, inciso V, da Resolução CVM nº 30. Deverão
 
-ser observadas, ainda, as previsões de cada Anexo Normativo quanto ao s procedimentos
+ser observadas, ainda, as previsões de cada Anexo Normativo quanto aos procedimentos
 
 aplicáveis na integralização em ativos, incluindo, por exemplo, a preparação de laudo de
 
@@ -166,7 +168,7 @@ um dos principais fundamentos trazidos pela Resolução CVM nº 175 foi o reconh
 
 papel e da relevância dos gestores de recursos, estabelecendo uma clara divisão entre suas
 
-atribuições e responsabilidades daquelas que recaem sobre os adm inistradores fiduciários.
+atribuições e responsabilidades daquelas que recaem sobre os administradores fiduciários.
 
 De forma geral, as atividades de verificação são restritas a casos bem específicos, previstos
 
@@ -186,11 +188,11 @@ serviço essencial, a regra é expressa – como, por exemplo, no Artigo 25 do A
 
 I da RCVM 175.
 
-Pergunta 2 : É possível existir situações em que, contratualmente, as partes atribuam ao
+Pergunta 2: É possível existir situações em que, contratualmente, as partes atribuam ao
 
 administrador fiduciário a obrigatoriedade ou a faculdade de verificar ou fiscalizar atividades
 
-inerentes à gestão da carteira, incluindo a obrigatoriedade ou a faculdade do admini strador
+inerentes à gestão da carteira, incluindo a obrigatoriedade ou a faculdade do administrador
 
 fiduciário recusar operações realizadas pelos gestores em nome do FIP que, em sua visão de
 
@@ -210,7 +212,7 @@ cumprimento dos requisitos de composição e diversificação de carteira. Não 
 
 do regulador que essa função seja de responsabilidade do administrador fiduciário, que não
 
-se confunde com o devido monitoramento, tendo em vista os deve res de verificação, guarda
+se confunde com o devido monitoramento, tendo em vista os deveres de verificação, guarda
 
 de documentos e comunicações próprias do administrador. Sem prejuízo de que nos casos
 
@@ -230,13 +232,13 @@ O Anexo Normativo IV da Resolução CVM 175, ao tratar sobre a composição da c
 
 fundos de investimento em participações (FIP), prevê apenas quais ativos (art. 11 c/c art. 5º)
 
-devem ser considerados para a composição do percentual de alocação obrigat ória (de, no
+devem ser considerados para a composição do percentual de alocação obrigatória (de, no
 
 mínimo, 90% do patrimônio líquido do FIP) (“Ativos Alvo”). Neste sentido, e tendo em vista
 
 que a regulamentação nada dispõe sobre a composição da parcela remanescente do
 
-patrimônio líquido (até 10%) (“Alocação Remanescente”) é possível entende r que não há
+patrimônio líquido (até 10%) (“Alocação Remanescente”) é possível entender que não há
 
 restrições com relação ao tipo de ativo a ser alocado na carteira do FIP dentro do referido
 
@@ -252,7 +254,7 @@ ainda, as limitações para determinados tipos de ativo (ativos no exterior, por
 
 há restrição regulatória para a composição da Alocação Remanescente da carteira dos FIPs.
 
-Logo, a Alocação Remanescente pode abranger quaisquer ativos financei ros e valores
+Logo, a Alocação Remanescente pode abranger quaisquer ativos financeiros e valores
 
 mobiliários, sendo certo que o regulamento (e respectivos anexos) terão liberdade para prever
 
@@ -260,19 +262,19 @@ tais ativos passíveis de investimento dentro do percentual do patrimônio líqu
 
 correspondente à Alocação Remanescente.
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+4. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-4. Prazo para enquadramento de FIP-IE e FIP-PD&I
+Prazo para enquadramento de FIP-IE e FIP-PD&I
 
 Em 09 de janeiro de 2024 foi promulgada a Lei nº 14.801 que, entre outras previsões, alterou
 
 o art. 1º §10 da Lei nº 11.478 de 29 de maio de 2007, o qual dispõe sobre o prazo para início
 
-das atividades e enquadramento da carteira de FIP -IE e FIP -PD&I, passando a prever que
+das atividades e enquadramento da carteira de FIP-IE e FIP-PD&I, passando a prever que
 
 tais fundos possuem 360 (trezentos e sessenta) dias após obtido o registro de funcionamento
 
@@ -282,7 +284,7 @@ nível mínimo de investimento exigido por Lei.
 
 Tendo em vista que a redação constante do art. 16, §3º do Anexo Normativo IV da Resolução
 
-CVM 175 ainda reflete redação segundo a qual o prazo inicial de enquadramento dos FIP -IE
+CVM 175 ainda reflete redação segundo a qual o prazo inicial de enquadramento dos FIP-IE
 
 e FIP-PD&I é de 180 dias a contar da primeira integralização de cotas e a hierarquia entre as
 
@@ -312,7 +314,7 @@ de investimento previsto na legislação e regulamentação aplicáveis.
 
 Considerando o prazo de 180 dias previsto na Lei 14.801 para reversão de eventual
 
-desenquadramento de carteira no caso de encerramento de projeto , é correto entender que
+desenquadramento de carteira no caso de encerramento de projeto, é correto entender que
 
 os FIP poderão prever nos respectivos regulamentos prazo para reenquadramento em
 
@@ -334,11 +336,11 @@ de comitês/conselhos no âmbito de fundos de investimento em participações co
 
 competência para analisar matérias de competência da assembleia geral de cotistas, inclusive
 
-deliberar sobre transações conflitadas (“ Comitês”), pode -se enten der que a permissão do
+deliberar sobre transações conflitadas (“Comitês”), pode-se entender que a permissão do
 
 artigo 96 supra mencionado contempla a constituição dos Comitês no âmbito dos fundos de
 
-investimento em participações, independentemente do público -alvo, sem necessidade de
+investimento em participações, independentemente do público-alvo, sem necessidade de
 
 realização de assembleia de cotistas originária e sem solicitação de dispensa específica para
 
@@ -346,7 +348,7 @@ a CVM?
 
 Resposta: Os chamados “Comitês” já foram objeto de análise específica do Colegiado da
 
-CVM e desta área técnica, em ambos os casos concluindo -se pela possibilidade da sua
+CVM e desta área técnica, em ambos os casos concluindo-se pela possibilidade da sua
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -394,7 +396,7 @@ potenciais transações conflitadas devem observar os seguintes critérios: (a) 
 
 da transação se configura como um ativo em que a classe possa investir, conforme
 
-delimitado n o respectivo regulamento e anexo, (b) o retorno mínimo esperado em
+delimitado no respectivo regulamento e anexo, (b) o retorno mínimo esperado em
 
 decorrência da transação seja compatível ao retorno preferencial das cotas, se houver,
 
@@ -426,27 +428,27 @@ Comitê também deverão ser disponibilizadas; e
 
 realizada, salvo se aprovada pela assembleia de cotistas.
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+6. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-6. Aplicação em Contratos de Mútuo Simples
+Aplicação em Contratos de Mútuo Simples
 
 O §7º do artigo 5º do Anexo Normativo IV da Resolução CVM 175 prevê a possibilidade de as
 
-classes de cotas dos FIP investirem nas sociedades alvo “ por meio de instrumentos que lhe
+classes de cotas dos FIP investirem nas sociedades alvo “por meio de instrumentos que lhe
 
 confiram o direito de adquirir participação societária, independente do momento do efetivo
 
 aporte dos recursos, tais como contratos de opção de compra ou subscrição de ações ou
 
-cotas, mútuos conversíveis em participação soc ietária ou outros instrumentos ou arranjos
+cotas, mútuos conversíveis em participação societária ou outros instrumentos ou arranjos
 
 contratuais que resultem em aporte de capital ou dívida, conversível ou não”.
 
-Neste sentido, seria correto interpretar que ao mencionar “ outros instrumentos ou arranjos
+Neste sentido, seria correto interpretar que ao mencionar “outros instrumentos ou arranjos
 
 contratuais que resultem em aporte de capital ou dívida, conversível ou não” a regulamentação
 
@@ -454,7 +456,7 @@ permitiu que os FIP invistam em contratos de mútuo simples, ainda que não conf
 
 de adquirir participação societária na investida, desde que observado o limite do capital
 
-subscrito e as demais regras de governança das socieda des investidas previstas no Anexo
+subscrito e as demais regras de governança das sociedades investidas previstas no Anexo
 
 Normativo IV?
 
@@ -472,13 +474,13 @@ limite atual de 33% do capital subscrito antes mencionado.
 
 7. Limites de Investimento
 
-O art. 5º, III do AN IV da RCVM 175 autoriza a alocação de recursos dos FIP em “ cotas de
+O art. 5º, III do AN IV da RCVM 175 autoriza a alocação de recursos dos FIP em “cotas de
 
 outros FIP”. Entretanto, ao contrário de outros anexos normativos, o Anexo Normativo IV não
 
 dispõe sobre a existência de um limite de concentração para a aquisição, por uma classe cujo
 
-público-alvo seja investidores qualificados, de cotas de classes de FIP destinada s a
+público-alvo seja investidores qualificados, de cotas de classes de FIP destinadas a
 
 investidores profissionais. Poderiam, por favor, esclarecer se há limite e, em sendo este o
 
@@ -518,7 +520,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 A Instrução da CVM nº 578 previa a possibilidade de inclusão de encargos além daqueles
 
-previstos no rol pré -estabelecido para os FIPs, mediante a deliberação da assembleia geral
+previstos no rol pré-estabelecido para os FIPs, mediante a deliberação da assembleia geral
 
 de cotistas (arts. 24, XIII e 45, §1º); entretanto, a Resolução da CVM nº 175 não recepcionou
 
@@ -526,7 +528,7 @@ a disposição no âmbito do Anexo Normativo IV com a mesma dicção. O Anexo No
 
 da Resolução da CVM nº 175 incorporou disposição (art. 21, III) segundo a qual a assembleia
 
-de cotistas poderá deliberar o pagamento de encargos não previ sto no rol estabelecido na
+de cotistas poderá deliberar o pagamento de encargos não previsto no rol estabelecido na
 
 Parte Geral e naquele Anexo Normativo (art. 28).
 
@@ -534,7 +536,7 @@ A despeito da assimetria entre a dicção dos dois normativos, a Resolução da 
 
 trouxe disposição ainda mais flexível, e inédita para FIDCs, no âmbito do Anexo Normativo II,
 
-prevendo a possibilidade de o regulamento expandir o rol de encargos previs tos na
+prevendo a possibilidade de o regulamento expandir o rol de encargos previstos na
 
 regulamentação, confira-se:
 
@@ -576,7 +578,7 @@ tem, de forma similar os sócios de sociedades limitadas e aos acionistas de soc
 
 anônimas, sua responsabilidade limitada aos termos e condições da sua participação (Art.
 
-991, Parágrafo Único do Código Civil); e (b) não assum e funções operacionais de
+991, Parágrafo Único do Código Civil); e (b) não assume funções operacionais de
 
 administração da SCP.
 
@@ -584,7 +586,7 @@ Tendo isto em vista o acima, seria possível entender que, desde que observado o
 
 efetiva influência exigido pelo Art. 5º, §1º da Anexo Normativo IV, é permitido aos FIPs alocar
 
-recursos (para fins de composição do percentual de alocação obrigat ória correspondente a
+recursos (para fins de composição do percentual de alocação obrigatória correspondente a
 
 90% do seu patrimônio líquido) em títulos representativos de participação em SCP na
 

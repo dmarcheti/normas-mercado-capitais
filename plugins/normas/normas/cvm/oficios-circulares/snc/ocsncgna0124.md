@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc/anexos/Ocsncgna0124_retif.pdf
 sha256_fonte: 062c0994e217ce3485e409f579388340e3a2668bd9ad949015bb2ae0d5659001
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,21 +44,19 @@ Rio de Janeiro, 24 de maio de 2024.
 
 Aos Auditores Independentes e respectivos Responsáveis Técnicos
 
-Assunto:
-
-Esclarecimentos relacionados à atuação do auditor contábil
+Assunto: Esclarecimentos relacionados à atuação do auditor contábil
 
 independente no âmbito do mercado de valores mobiliários.
 
 Senhores Auditores,
 
-Como resultado direto da ação de supervisão e ﬁscalização da atividade de auditoria
+Como resultado direto da ação de supervisão e fiscalização da atividade de auditoria
 
 no âmbito do mercado de valores mobiliários, listamos a seguir alguns pontos
 
 relacionados ao registro junto à CVM, à atuação no mercado de valores mobiliários e à
 
-aplicação das normas proﬁssionais de auditoria contábil independente na execução
+aplicação das normas profissionais de auditoria contábil independente na execução
 
 dos trabalhos, para os quais solicitamos atenção especial do auditor independente
 
@@ -70,31 +70,21 @@ SEÇÃO I – NOVOS ASSUNTOS (NÃO ABORDADOS NOS OFÍCIOS-
 
 CIRCULARES DE ANOS ANTERIORES)
 
-2. Avaliação da qualificação como entidade de investimento
-
-(FIPs)
+2. Avaliação da qualificação como entidade de investimento (FIPs)
 
 3. Avaliação da classificação dos ativos financeiros
 
-4. Critérios de seleção
-
-da amostra
-
-na auditoria
+4. Critérios de seleção da amostra na auditoria
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 1
 
 5. Rotatividade do auditor em 10 anos - prerrogativa prevista no caput do
 
-art. 31-A da Resolução CVM nº 23/2021
-
-- Responsabilidade dos auditores
+art. 31-A da Resolução CVM nº 23/2021 - Responsabilidade dos auditores
 
 na documentação
 
-6. Controle Interno d
-
-e Qualidade - implementação da NBC PA 01 – Gestão
+6. Controle Interno de Qualidade - implementação da NBC PA 01 – Gestão
 
 de
 
@@ -102,33 +92,15 @@ Qualidade para Firmas (Pessoas Jurídicas e Físicas) de Auditores
 
 Independentes
 
-(correspondente à
-
-International
-
-Standard
-
-on
-
-Quality
-
-Management – ISQM
+(correspondente à International Standard on Quality Management – ISQM
 
 1)
 
-7. Resolução CVM nº 193/
-
-20
-
-23: Dispõe sobre a elaboração e divulgação
+7. Resolução CVM nº 193/2023: Dispõe sobre a elaboração e divulgação
 
 do relatório de informações financeiras relacionadas à sustentabilidade,
 
-com base no padrão internacional emitido pelo
-
-International
-
-Sustainability
+com base no padrão internacional emitido pelo International Sustainability
 
 Standards Board - ISSB.
 
@@ -136,159 +108,113 @@ SEÇÃO II – ASSUNTOS RECORRENTES AINDA RELEVANTES –
 
 ATUALIZADOS
 
-8
-
-. Registro como Auditor Independente (Art. 1º a 6º-A – Resolução CVM nº
+8. Registro como Auditor Independente (Art. 1º a 6º-A – Resolução CVM nº
 
 23/2021)
 
-9
-
-. Comprovação da atividade de auditoria (Art. 7º - Resolução CVM nº
+9. Comprovação da atividade de auditoria (Art. 7º - Resolução CVM nº
 
 23/2021)
 
-10
+10. Informações Periódicas (Art. 16 – Resolução CVM nº 23/2021)
 
-. Informações Periódicas (Art. 16 – Resolução CVM
+11. Atualização Cadastral e Declaração Eletrônica de Conformidade (Art.
 
-n
+2º
+
+, incisos I e II da Resolução CVM n.
+
+º 51/2021)
+
+12. Comunicações relativas ao art. 24 da Resolução CVM n.
+
+º 50/2021
+
+13. Programa de Revisão Externa de Qualidade (Art. 33 – Resolução CVM
+
+n.
 
 º 23/2021)
 
-11
+14. Programa de Educação Profissional Continuada (Art. 34 – Resolução
 
-.
+CVM n.
 
-Atualização Cadastral e Declaração Eletrônica de Conformidade (
+º 23/2021)
 
-A
+15. Rotatividade de Auditores (Art. 31 – Resolução CVM n.
 
-rt
+º 23/2021)
 
-.
+16. Emissão de Relatório Circunstanciado (Art. 25, inciso II, Resolução
 
-2º, incisos I e II da Resolução CVM n.º 51/
+CVM n.
 
-20
+º 23/2021)
 
-21)
+17. Relatório de Auditoria e Principais Assuntos de Auditoria
 
-12
+18. Exame de Qualificação Técnica - prova específica CVM (Art. 30,
 
-. Comunicações relativas ao art. 24 da Resolução CVM n.º 50/
+Resolução CVM n.
 
-20
+º 23/2021)
 
-21
+19. Composição das equipes de auditoria (Art. 25, inciso VII, Resolução
 
-13
+CVM n.
 
-. Programa de Revisão Externa de Qualidade (Art. 33 – Resolução CVM
+º 23/2021)
 
-n.º 23/2021)
+20. Cadastro único (Art. 11, parágrafo único, Resolução CVM n.
 
-14
+º 23/2021)
 
-. Programa de Educação Profissional Continuada (Art. 34 – Resolução
-
-CVM n.º 23/2021)
-
-15
-
-. Rotatividade de Auditores (Art. 31 – Resolução CVM n.º 23/2021)
-
-16
-
-. Emissão de Relatório Circunstanciado (
-
-A
-
-rt. 25, inciso II, Resolução
-
-CVM n.º 23/2021)
-
-1
-
-7
-
-. Relatório de Auditoria e Principais Assuntos de Auditoria
-
-1
-
-8
-
-. Exame de Qualificação Técnica - prova específica CVM (
-
-A
-
-rt
-
-. 30,
-
-Resolução CVM n.º 23/2021)
-
-1
-
-9
-
-. Composição das equipes de auditoria (
-
-A
-
-rt
-
-. 25, inciso VII, Resolução
-
-CVM n.º 23/2021)
-
-20
-
-. Cadastro único (
-
-A
-
-rt. 11, parágrafo único, Resolução CVM n.º 23/2021)
-
-21
-
-. Auditoria das demonstrações financeiras de Fundos de Investimento
+21. Auditoria das demonstrações financeiras de Fundos de Investimento
 
 em Direitos Creditórios - FIDC, Certificados de Recebíveis Imobiliários -
 
-CRI e Certificados de Recebíveis do Agronegócio
+CRI e Certificados de Recebíveis do Agronegócio – CRA
 
-–
-
-CRA
-
-22
-
-. Auditoria de estimativas contábeis e divulgações relacionadas - NBC
+22. Auditoria de estimativas contábeis e divulgações relacionadas - NBC
 
 TA 540 (R2)
 
-23
+23. Elaboração de relatórios de auditoria – modificação de opinião
 
-. Elaboração de relatórios de auditoria – modificação de opinião
-
-2
-
-4
-
-. Auditor Independente – Pessoa Jurídica: tipos societários e
+24. Auditor Independente – Pessoa Jurídica: tipos societários e
 
 responsabilidade dos sócios
 
-2
-
-5
-
-. Reconhecimento de créditos fiscais e seus possíveis reflexos no
+25. Reconhecimento de créditos fiscais e seus possíveis reflexos no
 
 relatório de auditoria
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 2
+
+26. Aspectos relevantes a serem observados na revisão das Notas
+
+Explicativas e na avaliação das demais informações constantes das
+
+Demonstrações Contábeis em pedidos de registro inicial de companhia
+
+aberta
+
+27. Demonstrações resumidas publicadas em jornal impresso
+
+28. Distorções imateriais com potencial significativo de se tornarem
+
+relevantes no futuro
+
+29. Hipóteses de impedimento e de incompatibilidade (Art. 22 a 24 -
+
+Resolução CVM nº 23/2021)
+
+30. Julgamento profissional e transparência no relatório de auditoria
+
+31. Principais assuntos apontados nos últimos anos pelo IFIAR
+
+32. Protocolo Digital
 
 1. Introdução
 
@@ -298,41 +224,33 @@ Valores Mobiliários (CVM) sobre a auditoria independente no âmbito do mercado 
 
 valores mobiliários:
 
-·
-
-a importância de um sistema de auditoria independente como suporte
+·a importância de um sistema de auditoria independente como suporte
 
 indispensável ao órgão regulador;
 
-·
-
-a ﬁgura do auditor independente como elemento imprescindível para a
+·a figura do auditor independente como elemento imprescindível para a
 
 credibilidade do mercado e como instrumento de inestimável valor na
 
 proteção dos investidores, na medida em que a sua função é zelar pela
 
-ﬁdedignidade e conﬁabilidade das demonstrações contábeis da entidade
+fidedignidade e confiabilidade das demonstrações contábeis da entidade
 
 auditada;
 
-·
-
-a exatidão e a clareza das demonstrações contábeis, inclusive a divulgação
+·a exatidão e a clareza das demonstrações contábeis, inclusive a divulgação
 
 em notas explicativas de informações indispensáveis à visualização da
 
-situação patrimonial e ﬁnanceira e dos resultados da entidade auditada,
+situação patrimonial e financeira e dos resultados da entidade auditada,
 
-dependem também de um sistema de auditoria eﬁcaz e, fundamentalmente,
+dependem também de um sistema de auditoria eficaz e, fundamentalmente,
 
 da tomada de consciência do auditor quanto ao seu verdadeiro papel dentro
 
 deste contexto; e
 
-·
-
-a necessidade de que o mercado disponha de auditores independentes
+·a necessidade de que o mercado disponha de auditores independentes
 
 altamente capacitados e que, ao mesmo tempo, desfrutem de um elevado
 
@@ -342,77 +260,29 @@ SEÇÃO I – NOVOS ASSUNTOS (NÃO ABORDADOS NOS OFÍCIOS-CIRCULARES
 
 DE ANOS ANTERIORES)
 
-2. Avaliação da qualiﬁcação como entidade de investimento – Fundos de
+2. Avaliação da qualificação como entidade de investimento – Fundos de
 
 Investimento em Participações
 
-Faz parte das obrigações do auditor, conﬁrmar que a entidade auditada que se reporta
+Faz parte das obrigações do auditor, confirmar que a entidade auditada que se reporta
 
 como entidade de investimento efetivamente se qualifique como tal, de acordo com as
 
 normas contábeis aplicáveis.
 
-No entanto, foram veriﬁcados, ao longo de 2022 e 2023, trabalhos de auditoria sobre
+No entanto, foram verificados, ao longo de 2022 e 2023, trabalhos de auditoria sobre
 
 fundos de investimentos em participações (FIP), onde o auditor não efetuou
 
-procedimentos de auditoria para conﬁrmar a qualiﬁcação do fundo auditado como
+procedimentos de auditoria para confirmar a qualificação do fundo auditado como
 
 entidade de investimento, de acordo com o estabelecido nos artigos 4º e 5º da
-
-2
-
-6
-
-. Aspectos relevantes a serem observados na revisão das Notas
-
-Explicativas e na avaliação das demais informações constantes das
-
-Demonstrações Contábeis em pedidos de registro inicial de companhia
-
-aberta
-
-2
-
-7
-
-. Demonstrações resumidas publicadas em jornal impresso
-
-28
-
-. Distorções imateriais com potencial significativo de se tornarem
-
-relevantes no futuro
-
-29
-
-. Hipóteses de impedimento e de incompatibilidade (Art. 22 a 24 -
-
-Resolução CVM nº 23/2021)
-
-3
-
-0
-
-.
-
-Julgamento profissional e
-
-t
-
-ransparência no relatório de auditoria
-
-31
-
-. Principais assuntos apontados nos últimos anos pelo IFIAR
-
-32. Protocolo Digital
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 3
 
 Instrução CVM nº 579/2016.
 
-Importa esclarecer que o referido artigo 4º traz quatro condições para a qualiﬁcação
+Importa esclarecer que o referido artigo 4º traz quatro condições para a qualificação
 
 de um FIP como entidade de investimento, que precisam ser atendidas
 
@@ -420,19 +290,15 @@ cumulativamente.
 
 A esse respeito, chamamos a atenção para o seu inciso III, que requer que o fundo
 
-substancialmente mensure e
+substancialmente mensure e avalie o desempenho de seus investimentos, para
 
-avalie o desempenho de seus investimentos, para
+fins de modelo de gestão, com base no valor justo. Lembramos, ainda, em linha
 
-ﬁns de modelo de gestão
-
-, com base no valor justo. Lembramos, ainda, em linha
-
-com o descrito no item B85-F do CPC 36 (R3), que, para qualiﬁcação como entidade de
+com o descrito no item B85-F do CPC 36 (R3), que, para qualificação como entidade de
 
 investimento, a entidade/o fundo não deve manter seus investimentos
 
-indeﬁnidamente. É necessário que a entidade de investimento tenha deﬁnida, de
+indefinidamente. É necessário que a entidade de investimento tenha definida, de
 
 forma clara, uma estratégia de saída, documentando como planeja realizar a
 
@@ -444,69 +310,69 @@ para desinvestir os referidos ativos.
 
 Da mesma forma que o item anterior, ressaltamos que faz parte das obrigações do
 
-auditor conﬁrmar que a classiﬁcação dos ativos ﬁnanceiros da entidade auditada
+auditor confirmar que a classificação dos ativos financeiros da entidade auditada
 
 encontra-se de acordo com as normas contábeis aplicáveis.
 
-Nesse sentido, foram identiﬁcados trabalhos de auditoria sobre fundos de
+Nesse sentido, foram identificados trabalhos de auditoria sobre fundos de
 
-investimentos onde o auditor não efetuou procedimentos de auditoria para conﬁrmar
+investimentos onde o auditor não efetuou procedimentos de auditoria para confirmar
 
-a correta classiﬁcação dos ativos ﬁnanceiros do fundo auditado, de acordo com o
+a correta classificação dos ativos financeiros do fundo auditado, de acordo com o
 
 estabelecido no Pronunciamento Técnico CPC 48.
 
-Por óbvio, sem revisão e avaliação pelos auditores da classiﬁcação desses ativos
+Por óbvio, sem revisão e avaliação pelos auditores da classificação desses ativos
 
-ﬁnanceiros, não é possível obter conforto sobre a razoabilidade da mensuração e do
+financeiros, não é possível obter conforto sobre a razoabilidade da mensuração e do
 
 reconhecimento daqueles ativos registrados pelos administradores dos fundos e
 
-reﬂetidos nas respectivas demonstrações ﬁnanceiras, tampouco sua adequação em
+refletidos nas respectivas demonstrações financeiras, tampouco sua adequação em
 
-relação às normas especíﬁcas da CVM que tratam do tema, conforme o caso. A esse
+relação às normas específicas da CVM que tratam do tema, conforme o caso. A esse
 
-respeito, é importante lembrar que, para a correta avaliação da classiﬁcação dos
+respeito, é importante lembrar que, para a correta avaliação da classificação dos
 
-ativos ﬁnanceiros, é necessário avaliar e entender
+ativos financeiros, é necessário avaliar e entender o modelo de negócios da
 
-o modelo de negócios da
-
-entidade
-
-para gestão dos ativos ﬁnanceiros, assim como as características de ﬂuxo
+entidade para gestão dos ativos financeiros, assim como as características de fluxo
 
 de caixa contratual desses ativos.
 
 4. Critérios de seleção da amostra na auditoria
 
-A NBC TA 500 (R1) – “Evidência de Auditoria” trata da responsabilidade do auditor na
+A NBC TA 500 (R1) –
 
-deﬁnição e execução de procedimentos de auditoria para obter evidência de auditoria
+“Evidência de Auditoria” trata da responsabilidade do auditor na
 
-apropriada e suﬁciente para chegar a conclusões razoáveis que fundamentem sua
+definição e execução de procedimentos de auditoria para obter evidência de auditoria
+
+apropriada e suficiente para chegar a conclusões razoáveis que fundamentem sua
 
 opinião de auditoria, fornecendo orientação sobre os meios disponíveis para o auditor
 
 selecionar os itens para teste, sendo a amostragem de auditoria um deles.
 
-A referida norma estabelece que “ao deﬁnir os testes de controles e os testes de
+A referida norma estabelece que “ao definir os testes de controles e os testes de
 
 detalhes, o auditor deve determinar meios para selecionar itens a serem testados que
 
-sejam eficazes para o cumprimento dos procedimentos de auditoria”.
+sejam eficazes para o cumprimento dos procedimentos de auditoria”
+
+.
 
 Nesse sentido, seu item A63 esclarece:
 
-Um teste eﬁcaz fornece evidência de auditoria apropriada na medida em que,
+Um teste eficaz fornece evidência de auditoria apropriada na medida em que,
 
-considerada com outra evidência de auditoria obtida ou a ser obtida, será suﬁciente para
+considerada com outra evidência de auditoria obtida ou a ser obtida, será suficiente para
 
-as ﬁnalidades do auditor. Ao selecionar itens a serem testados, o item 7 exige que o
+as finalidades do auditor. Ao selecionar itens a serem testados, o item 7 exige que o
 
-auditor determine a relevância e conﬁabilidade das informações a serem utilizadas como
+auditor determine a relevância e confiabilidade das informações a serem utilizadas como
 
-evidência de auditoria; outro aspecto da eﬁcácia (suﬁciência) é uma consideração
+evidência de auditoria; outro aspecto da eficácia (suficiência) é uma consideração
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 4
 
@@ -514,37 +380,25 @@ importante na seleção de itens a serem testados. Os meios à disposição do a
 
 seleção de itens a serem testados são:
 
-(a)
+(a) seleção de todos os itens (exame de 100%);
 
-seleção de todos os itens (exame de 100%);
+(b) seleção de itens específicos; e
 
-(b)
-
-seleção de itens específicos; e
-
-(c)
-
-amostragem de auditoria.
+(c) amostragem de auditoria.
 
 A aplicação de qualquer um desses meios ou de uma combinação deles pode ser
 
-apropriada dependendo das circunstâncias especíﬁcas, por exemplo, os riscos de
+apropriada dependendo das circunstâncias específicas, por exemplo, os riscos de
 
-distorção relevante relacionados à aﬁrmação que está sendo testada, e a praticidade e
+distorção relevante relacionados à afirmação que está sendo testada, e a praticidade e
 
-eficiência dos diferentes meios
-
-.
+eficiência dos diferentes meios.
 
 A esse respeito, entendemos relevante ressaltar que o teste efetuado sobre uma
 
-seleção de itens especíﬁcos
+seleção de itens específicos não fornece evidência de auditoria referente ao
 
-não fornece evidência de auditoria referente ao
-
-restante da população
-
-. Assim, a conclusão de auditoria obtida com o referido teste
+restante da população. Assim, a conclusão de auditoria obtida com o referido teste
 
 é limitada aos itens selecionados, o que gera uma necessidade de procedimentos
 
@@ -552,47 +406,45 @@ adicionais de auditoria para o restante da população.
 
 Nesta oportunidade, é importante lembrar que o item A12 da NBC TA 530 –
 
-“Amostragem em Auditoria” orienta que,
-
-como a finalidade da amostragem é a de
+“Amostragem em Auditoria” orienta que, como a finalidade da amostragem é a de
 
 fornecer base razoável para o auditor concluir quanto à população da qual a
 
 amostra é selecionada, é importante que o auditor selecione uma amostra
 
-representativa
-
-, de modo a evitar tendenciosidade mediante a escolha de itens da
+representativa, de modo a evitar tendenciosidade mediante a escolha de itens da
 
 amostra que tenham características típicas da população.
 
-De acordo com a NBC TA 530, “o auditor deve determinar o tamanho de amostra
+De acordo com a NBC TA 530,
 
-suﬁciente para reduzir o risco de amostragem a um nível mínimo aceitável”,
+“o auditor deve determinar o tamanho de amostra
+
+suficiente para reduzir o risco de amostragem a um nível mínimo aceitável”
+
+,
 
 esclarecendo ainda que os itens devem ser selecionados “de forma que cada unidade
 
-de amostragem da população tenha a mesma chance de ser selecionada”.
+de amostragem da população tenha a mesma chance de ser selecionada”
 
-Nessa linha, apesar do fato de a norma proﬁssional não deﬁnir o tamanho da amostra
+.
 
-para esse ﬁm, é inadmissível que, baseado
+Nessa linha, apesar do fato de a norma profissional não definir o tamanho da amostra
 
-apenas
-
-no julgamento proﬁssional pessoal
+para esse fim, é inadmissível que, baseado apenas no julgamento profissional pessoal
 
 do auditor, a amostra seja considerada representativa da população analisada, pela
 
-insuﬁciência quantitativa de itens selecionados ou pela irrelevância dos itens
+insuficiência quantitativa de itens selecionados ou pela irrelevância dos itens
 
 analisados naquele contexto, pelo desprezo aos procedimentos estatísticos, ao bom-
 
-senso ou ao ceticismo proﬁssional. Assim, ratiﬁcamos que todo o processo de seleção
+senso ou ao ceticismo profissional. Assim, ratificamos que todo o processo de seleção
 
 e composição das amostras deve ser documentado com a descrição detalhada dos
 
-critérios e fundamentos que justiﬁcam a sua estruturação. Citações genéricas não
+critérios e fundamentos que justificam a sua estruturação. Citações genéricas não
 
 atendem às exigências das normas profissionais.
 
@@ -624,23 +476,15 @@ Resolução CVM nº 23/2021, o auditor independente deve avaliar e documentar em
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 5
 
-seus papéis de trabalho o cumprimento dos requisitos
+seus papéis de trabalho o cumprimento dos requisitos de instalação, composição e
 
-de instalação, composição e
-
-o funcionamento do Comitê de Auditoria Estatutário – CAE
-
-previstos nos arts.
+o funcionamento do Comitê de Auditoria Estatutário – CAE previstos nos arts.
 
 31-A, 31-B e 31-C, conforme inciso IX do art. 25 da referida resolução.
 
-Em 2022 e 2023, foram veriﬁcadas,
+Em 2022 e 2023, foram verificadas, no que tange aos requisitos de composição e
 
-no que tange aos requisitos de composição e
-
-funcionamento do CAE
-
-, algumas análises apresentadas por sociedades de auditoria
+funcionamento do CAE, algumas análises apresentadas por sociedades de auditoria
 
 que apenas reproduzem o que estabelece o Estatuto Social da companhia auditada
 
@@ -652,7 +496,7 @@ como apresenta conclusões sem os respectivos documentos que embasaram a
 
 conclusão do auditor quanto àquele ponto.
 
-Cabe ressaltar que, de acordo com a deﬁnição da NBC TA 230 (R1), a documentação
+Cabe ressaltar que, de acordo com a definição da NBC TA 230 (R1), a documentação
 
 de auditoria é o registro dos procedimentos de auditoria executados, da evidência de
 
@@ -666,7 +510,7 @@ fundamentam sua opinião e comentários, e não apenas cópias de documentos.
 
 Lembramos que o auditor deve preparar documentação de auditoria que seja
 
-suﬁcientemente completa e detalhada para permitir que um auditor experiente, sem
+suficientemente completa e detalhada para permitir que um auditor experiente, sem
 
 nenhum envolvimento anterior com a auditoria, entenda o trabalho realizado, sendo
 
@@ -674,11 +518,11 @@ fundamental as evidências de auditoria, pois compreendem as informações utili
 
 pelo auditor para chegar às conclusões em que se fundamentam a sua opinião
 
-consignada no respectivo relatório de auditoria, conforme deﬁne a NBC TA 500 (R1).
+consignada no respectivo relatório de auditoria, conforme define a NBC TA 500 (R1).
 
 Por lógica, o mesmo raciocínio deve ser considerado ao preparar sua evidência de
 
-auditoria que seja passível de processos de supervisão ou ﬁscalização por parte da
+auditoria que seja passível de processos de supervisão ou fiscalização por parte da
 
 CVM, conforme previsto no item IX, art. 25 da Resolução CVM nº 23/21. Assim, é nosso
 
@@ -688,13 +532,9 @@ citação sobre a avaliação de condição pessoal de membro do CAE, sem uma an
 
 objetiva e destacada do teor das discussões, funcionamento, determinações e
 
-requerimentos para atendimento aos requisitos da norma
+requerimentos para atendimento aos requisitos da norma não atendem a tais
 
-não atendem a tais
-
-objetivos
-
-. Da mesma forma, análises realizadas sem qualquer documento formal de
+objetivos. Da mesma forma, análises realizadas sem qualquer documento formal de
 
 comprovação das conclusões subjetivas incorrem na mesma deficiência.
 
@@ -708,7 +548,7 @@ Management – ISQM 1)
 
 Em 2021, o Conselho Federal de Contabilidade (CFC) alterou a norma que trata do
 
-processo de controle de qualidade das ﬁrmas de auditoria (NBC PA 01), anteriormente
+processo de controle de qualidade das firmas de auditoria (NBC PA 01), anteriormente
 
 denominada Controle de Qualidade para Firmas (Pessoas Jurídicas e Físicas) de
 
@@ -724,7 +564,7 @@ ISQM 1).
 
 Como é do conhecimento de todos, a NBC PA 01 (ISQM 1) trata das responsabilidades
 
-da ﬁrma de auditoria pelo desenvolvimento (desenho), implementação e operação de
+da firma de auditoria pelo desenvolvimento (desenho), implementação e operação de
 
 sistema de gestão de qualidade para auditorias e para trabalhos de revisão das
 
@@ -742,7 +582,7 @@ NBCs TR, NBCs TO e NBCs TSC.
 
 A NBC PA 01 estabelece que a adoção do sistema de gestão de qualidade seja feita
 
-em duas etapas. A primeira, que já deveria estar conclusa ao ﬁnal do ano de 2022,
+em duas etapas. A primeira, que já deveria estar conclusa ao final do ano de 2022,
 
 com o planejamento e implementação dos sistemas de gestão de qualidade; e a
 
@@ -756,15 +596,17 @@ Nesse sentido, destacamos que a execução das atividades propostas na norma, be
 
 como a observância de seu cronograma por parte dos auditores registrados na CVM é
 
-obrigatória, sendo cada etapa passível de procedimentos especíﬁcos desta autarquia
+obrigatória, sendo cada etapa passível de procedimentos específicos desta autarquia
 
-para a veriﬁcação de seu cumprimento. É importante lembrar que o não cumprimento
+para a verificação de seu cumprimento. É importante lembrar que o não cumprimento
 
 da referida norma, naqueles termos, poderá ensejar a adoção de sanções
 
 administrativas por parte desta Superintendência em relação aos auditores que
 
-incorrerem na irregularidade, tendo em vista o disposto nos artigos 20 e 32 (§§ 1º, 2º
+incorrerem na irregularidade, tendo em vista o disposto nos artigos 20 e 32 (§§ 1º
+
+, 2º
 
 e 3º) da Resolução CVM nº 23/21.
 
@@ -774,7 +616,7 @@ trabalhos de auditoria de demonstrações contábeis, de revisão de informaçõ
 
 intermediárias ou de outros trabalhos de asseguração aplicáveis, quer seja ele
 
-indivíduo interno da sociedade de auditoria ou proﬁssional externo por ela contratado
+indivíduo interno da sociedade de auditoria ou profissional externo por ela contratado
 
 (NBC PA 02), assim como o responsável por esses trabalhos e signatário dos
 
@@ -786,17 +628,15 @@ respectiva sociedade de auditoria, no âmbito do mercado de valores mobiliários
 
 7. RESOLUÇÃO CVM Nº 193, DE 20 DE OUTUBRO DE 2023 - elaboração e
 
-divulgação do relatório de informações ﬁnanceiras relacionadas à
+divulgação do relatório de informações financeiras relacionadas à
 
 sustentabilidade, com base no padrão internacional emitido pelo
 
-International Sustainability Standards Board - ISSB
-
-.
+International Sustainability Standards Board - ISSB.
 
 Recentemente, em 11 de outubro de 2023, a CVM aprovou a Resolução CVM nº
 
-193/23, que trata da elaboração e divulgação do relatório de informações ﬁnanceiras
+193/23, que trata da elaboração e divulgação do relatório de informações financeiras
 
 relacionadas à sustentabilidade, com base no padrão internacional emitido pelo
 
@@ -804,7 +644,7 @@ International Sustainability Standards Board - ISSB.
 
 Com o referido normativo foi estabelecido, em caráter voluntário, a opção de
 
-elaboração e divulgação de relatório de informações ﬁnanceiras relacionadas à
+elaboração e divulgação de relatório de informações financeiras relacionadas à
 
 sustentabilidade, pelas companhias abertas, fundos de investimento e companhias
 
@@ -814,7 +654,7 @@ exercícios sociais iniciados em, ou após, 1º de janeiro de 2024.
 
 Caso a entidade opte pela adoção voluntária na forma estabelecida na norma, deve
 
-utilizar as normas de divulgação de informações ﬁnanceiras relacionadas à
+utilizar as normas de divulgação de informações financeiras relacionadas à
 
 sustentabilidade, conforme emitidas na língua inglesa pelo ISSB, até que o processo
 
@@ -828,15 +668,15 @@ revisão, até 31/12/2024, por meio de comunicado ao mercado.
 
 Os fundos de investimento e companhias securitizadoras poderão declarar a opção, ou
 
-sua revisão, conforme previsto no caput, até o ﬁnal do exercício social anterior à
+sua revisão, conforme previsto no caput, até o final do exercício social anterior à
 
-primeira elaboração e divulgação do relatório de informações ﬁnanceiras relacionadas
+primeira elaboração e divulgação do relatório de informações financeiras relacionadas
 
 à sustentabilidade, por meio de comunicado ao mercado.
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 7
 
-A primeira elaboração e divulgação de relatório de informações ﬁnanceiras
+A primeira elaboração e divulgação de relatório de informações financeiras
 
 relacionadas à sustentabilidade implica sua continuidade durante todos os períodos de
 
@@ -844,7 +684,7 @@ adoção voluntária.
 
 Destacamos, ainda, a obrigatoriedade de elaboração e divulgação do relatório de
 
-informações ﬁnanceiras relacionadas à sustentabilidade, com base nas normas do
+informações financeiras relacionadas à sustentabilidade, com base nas normas do
 
 ISSB, para as companhias abertas, a partir dos exercícios sociais iniciados em, ou
 
@@ -852,11 +692,11 @@ após, 1º de janeiro de 2026.
 
 A citada Resolução CVM nº 193/23 determina ainda que as entidades devem arquivar
 
-o relatório de informações ﬁnanceiras relacionadas à sustentabilidade por meio de
+o relatório de informações financeiras relacionadas à sustentabilidade por meio de
 
 sistema eletrônico disponível na página da CVM na rede mundial de computadores.
 
-O relatório de informações ﬁnanceiras relacionadas à sustentabilidade deve ser objeto
+O relatório de informações financeiras relacionadas à sustentabilidade deve ser objeto
 
 de asseguração por auditor independente registrado na CVM, em conformidade com
 
@@ -878,9 +718,9 @@ SEÇÃO II – ASSUNTOS RECORRENTES AINDA RELEVANTES – ATUALIZADOS
 
 Inicialmente, cabe esclarecer que o registro na CVM não se constitui em uma nova
 
-categoria proﬁssional, tampouco, signiﬁca cerceamento do exercício da atividade
+categoria profissional, tampouco, significa cerceamento do exercício da atividade
 
-proﬁssional. Ao contrário, a atividade de auditoria independente é prerrogativa do
+profissional. Ao contrário, a atividade de auditoria independente é prerrogativa do
 
 contador legalmente habilitado e registrado em Conselho Regional de Contabilidade.
 
@@ -894,15 +734,23 @@ A Resolução CVM nº 23/2021 mantém as duas formas de registro já existentes,
 
 sejam: Auditor Independente – Pessoa Natural (AIPN), conferido ao contador
 
-legalmente habilitado e que satisfaça às exigências estabelecidas nos arts. 3º, 5º e 7º,
+legalmente habilitado e que satisfaça às exigências estabelecidas nos arts. 3º
+
+, 5º e 7º
+
+,
 
 e Auditor Independente – Pessoa Jurídica (AIPJ), conferido à sociedade integrada
 
 exclusivamente por contadores, cadastrada em Conselho Regional de Contabilidade e
 
-que satisfaça às exigências estabelecidas nos arts. 4º, 6º e 7º. Para que os sócios ou
+que satisfaça às exigências estabelecidas nos arts. 4º
 
-demais contadores que mantenham vínculo proﬁssional de qualquer natureza com a
+, 6º e 7º
+
+. Para que os sócios ou
+
+demais contadores que mantenham vínculo profissional de qualquer natureza com a
 
 sociedade de auditoria registrada na CVM (AIPJ) possam emitir e assinar relatórios de
 
@@ -912,15 +760,11 @@ como responsável técnico da referida sociedade junto à CVM.
 
 Importante ressaltar que o objeto social das sociedades de auditoria registradas na
 
-CVM ou que estejam requerendo o registro deve ser
+CVM ou que estejam requerendo o registro deve ser exclusivamente voltado à
 
-exclusivamente
+prestação de serviços profissionais de auditoria e demais serviços inerentes à
 
-voltado à
-
-prestação de serviços proﬁssionais de auditoria e demais serviços inerentes à
-
-proﬁssão de contador, conforme estabelecido no inciso I do art. 4º da Resolução CVM
+profissão de contador, conforme estabelecido no inciso I do art. 4º da Resolução CVM
 
 nº 23/2021, o que não inclui participação/investimento em outras entidades e venda
 
@@ -934,7 +778,7 @@ Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 8
 
 técnico da sociedade na CVM para exercer a atividade de auditoria no âmbito do
 
-mercado de valores mobiliários, em nome da sociedade (parte ﬁnal do inciso II do art.
+mercado de valores mobiliários, em nome da sociedade (parte final do inciso II do art.
 
 4º). Se, depois de obtido o registro da sociedade, houver alteração no quadro social,
 
@@ -956,7 +800,7 @@ ser esclarecido que este prazo é contado a partir do registro do interessado no
 
 Conselho Regional de Contabilidade (CRC), na categoria de contador. O exercício da
 
-atividade de auditoria anterior ao seu registro na referida categoria no CRC conﬁgura
+atividade de auditoria anterior ao seu registro na referida categoria no CRC configura
 
 descumprimento às normas profissionais.
 
@@ -964,23 +808,25 @@ O interessado deve apresentar cópia da carteira de identidade de contabilista, 
 
 categoria de contador ou, a seu critério, certidão equivalente de registro expedida
 
-pelo CRC. A propósito, recomenda-se que o interessado veriﬁque se na sua carteira de
+pelo CRC. A propósito, recomenda-se que o interessado verifique se na sua carteira de
 
-identidade proﬁssional consta a data do efetivo registro no CRC na categoria de
+identidade profissional consta a data do efetivo registro no CRC na categoria de
 
 contador. Caso contrário, torna-se necessário encaminhar, além da cópia da carteira
 
-de identidade proﬁssional de contador, certidão expedida pelo Conselho Regional de
+de identidade profissional de contador, certidão expedida pelo Conselho Regional de
 
 Contabilidade, na qual deverá constar, necessariamente, a data do efetivo registro
 
 como contador. Ausente a referida data, para efeito de termo inicial da contagem do
 
-tempo de exercício da atividade de auditoria na forma do art. 7º, será considerada a
+tempo de exercício da atividade de auditoria na forma do art. 7º
 
-data de expedição da carteira de identidade proﬁssional de contador apresentada. Em
+, será considerada a
 
-alguns casos, onde há nova emissão de carteira física de identidade proﬁssional,
+data de expedição da carteira de identidade profissional de contador apresentada. Em
+
+alguns casos, onde há nova emissão de carteira física de identidade profissional,
 
 recomendamos que sejam encaminhadas também as cópias anteriores do referido
 
@@ -988,27 +834,31 @@ documento, de forma que possa ser considerada a data de expedição mais antiga
 
 como termo inicial da contagem do tempo de exercício de atividade de auditoria.
 
-Ainda a título de orientação, mesmo que para o atendimento dos incisos II do art. 5º,
+Ainda a título de orientação, mesmo que para o atendimento dos incisos II do art. 5º
+
+,
 
 IX do art. 6º e III do art. 6º-A da Resolução CVM nº 23/2021 seja possível apenas a
 
-entrega da “certidão equivalente, expedida por Conselho Regional de Contabilidade”,
+entrega da “certidão equivalente, expedida por Conselho Regional de Contabilidade”
 
-recomendamos que a sociedade de auditoria, ou o proﬁssional independente, opte
+,
 
-pela entrega também do arquivo digital da carteira de identidade proﬁssional gerado a
+recomendamos que a sociedade de auditoria, ou o profissional independente, opte
 
-partir do aplicativo CRCDigital (Carteira Proﬁssional – Opções – Baixar Carteira em
+pela entrega também do arquivo digital da carteira de identidade profissional gerado a
+
+partir do aplicativo CRCDigital (Carteira Profissional – Opções – Baixar Carteira em
 
 PDF) ou da impressão da consulta de dados cadastrais (incluindo os dados de data de
 
-registro na categoria e de situação atual) do proﬁssional da contabilidade no cadastro
+registro na categoria e de situação atual) do profissional da contabilidade no cadastro
 
 do respectivo Conselho Regional de Contabilidade , uma vez que a maioria das
 
-carteiras físicas de identidade proﬁssional e das certidões de habilitação proﬁssional
+carteiras físicas de identidade profissional e das certidões de habilitação profissional
 
-não trazem a data do registro do proﬁssional, prejudicando a veriﬁcação do
+não trazem a data do registro do profissional, prejudicando a verificação do
 
 cumprimento do art. 7º da mesma resolução.
 
@@ -1016,7 +866,7 @@ Quanto à comprovação de escritório legalizado em nome próprio, deve ser
 
 encaminhado o Alvará de Licença para Localização e Funcionamento ou documento
 
-hábil equivalente expedido pela Prefeitura do município em que o proﬁssional exerça
+hábil equivalente expedido pela Prefeitura do município em que o profissional exerça
 
 sua atividade. No caso de registro como AIPN, não será aceito documento conferido
 
@@ -1040,15 +890,15 @@ equivalente, bem como, a respectiva referência indicando a normatização munic
 
 que fundamenta a mencionada dispensa ou isenção. Dentre outros documentos,
 
-poderão ser apresentadas a ﬁcha de cadastro de contribuinte municipal ou a ﬁcha de
+poderão ser apresentadas a ficha de cadastro de contribuinte municipal ou a ficha de
 
 dados cadastrais do AIPN ou AIPJ na respectiva prefeitura municipal; a consulta
 
-especíﬁca de dispensa ou de isenção de alvará do AIPN ou AIPJ na página da
+específica de dispensa ou de isenção de alvará do AIPN ou AIPJ na página da
 
 respectiva prefeitura municipal na rede mundial de computadores; a declaração
 
-especíﬁca de dispensa ou de isenção de alvará do AIPN ou AIPJ emitida pela respectiva
+específica de dispensa ou de isenção de alvará do AIPN ou AIPJ emitida pela respectiva
 
 prefeitura municipal; se prevista na regulamentação da municipalidade, a
 
@@ -1064,19 +914,19 @@ sociedades de auditoria registradas na CVM sejam contadores (parte inicial do in
 
 do art. 4º) e de que o objeto social das referidas sociedades seja exclusivamente
 
-voltado à prestação de serviços proﬁssionais de auditoria e demais serviços inerentes
+voltado à prestação de serviços profissionais de auditoria e demais serviços inerentes
 
-à proﬁssão de contador. Desta forma, à luz do disposto no parágrafo único do art. 966
+à profissão de contador. Desta forma, à luz do disposto no parágrafo único do art. 966
 
-do Código Civil (CC), resta conﬁgurada a natureza simples - não empresária - das
+do Código Civil (CC), resta configurada a natureza simples - não empresária - das
 
-referidas sociedades uniproﬁssionais de contadores. Em consequência, de acordo com
+referidas sociedades uniprofissionais de contadores. Em consequência, de acordo com
 
-a parte ﬁnal do art. 1.150 do CC, o Registro Civil das Pessoas Jurídicas (RCPJ) é o
+a parte final do art. 1.150 do CC, o Registro Civil das Pessoas Jurídicas (RCPJ) é o
 
 registro competente para os atos constitutivos e posteriores alterações contratuais
 
-das referidas sociedades simples uniproﬁssionais, ainda que as mesmas venham a
+das referidas sociedades simples uniprofissionais, ainda que as mesmas venham a
 
 adotar um dos tipos societários previstos para as sociedades empresárias, conforme
 
@@ -1088,9 +938,13 @@ Enunciado nº 57 – aprovado na I Jornada de Direito Civil realizada pelo Centr
 
 Estudos Judiciários do Conselho da Justiça Federal (CEJ/CJF). De acordo com o referido
 
-enunciado, “a opção pelo tipo empresarial não afasta a natureza simples da
+enunciado,
 
-sociedade”. Adicionalmente, conforme esclarece o Enunciado nº 382 – aprovado na IV
+“a opção pelo tipo empresarial não afasta a natureza simples da
+
+sociedade”
+
+. Adicionalmente, conforme esclarece o Enunciado nº 382 – aprovado na IV
 
 Jornada de Direito Civil (CEJ/CJF), o registro das sociedades observa a natureza das
 
@@ -1100,23 +954,25 @@ normas pertinentes ao tipo societário adotado (art. 983).
 
 Como condição para deferimento de pedidos de registro (AIPN ou AIPJ) ou de
 
-cadastramento de responsável técnico de AIPJ junto à CVM, os incisos VI do art. 5º, XII
+cadastramento de responsável técnico de AIPJ junto à CVM, os incisos VI do art. 5º
+
+, XII
 
 do art. 6º e V do art. 6º-A da Resolução CVM nº 23/2021 estabelecem ainda que
 
-devem ser apresentadas cópias dos certiﬁcados de aprovação dos respectivos
+devem ser apresentadas cópias dos certificados de aprovação dos respectivos
 
-contadores no exame de qualiﬁcação técnica – prova especíﬁca CVM, instituída pela
+contadores no exame de qualificação técnica – prova específica CVM, instituída pela
 
 alínea “b” do item 3 da NBC PA 13 (R2) de 21/08/2015. Convém destacar que a cópia
 
-da Certidão de Registro do proﬁssional no Cadastro Nacional de Auditores
+da Certidão de Registro do profissional no Cadastro Nacional de Auditores
 
 Independentes (CNAI), por si, não constitui documento hábil para atendimento aos
 
 requisitos em comento. Ainda sobre o tema, é oportuno destacar que a cópia do
 
-certiﬁcado de aprovação no exame de qualiﬁcação técnica – prova especíﬁca CVM
+certificado de aprovação no exame de qualificação técnica – prova específica CVM
 
 pode ser obtida, pelo próprio contador, na página do Conselho Federal de
 
@@ -1126,13 +982,9 @@ Contabilidade (CFC) na rede mundial de computadores
 
 Ressaltamos que, a partir de 01.01.2022, para que seja analisado o pedido de registro
 
-como auditor independente junto à CVM, é necessária
+como auditor independente junto à CVM, é necessária, a apresentação de
 
-,
-
-a apresentação de
-
-comprovante de pagamento da taxa de ﬁscalização instituída pela MP 1072/21, e
+comprovante de pagamento da taxa de fiscalização instituída pela MP 1072/21, e
 
 incorporada pela Lei 14.317, de 29 de março de 2022, nos seguintes termos:
 
@@ -1154,13 +1006,9 @@ o pagamento pro rata;
 
 [...]
 
-V -
+V - por ocasião do pedido de registro inicial como
 
-por ocasião do pedido de registro inicial como
-
-participante do mercado de valores mobiliários
-
-,
+participante do mercado de valores mobiliários,
 
 conforme o disposto nesta Lei, ou da emissão de ato
 
@@ -1170,7 +1018,7 @@ desta Lei, inadmitido o pagamento pro rata e com pagamento
 
 integral da Taxa independentemente da data do pedido.
 
-Mais informações a respeito da taxa de ﬁscalização podem ser obtidas em
+Mais informações a respeito da taxa de fiscalização podem ser obtidas em
 
 https://www.gov.br/cvm/pt-br/assuntos/regulados/taxa-de-fiscalizacao.
 
@@ -1190,7 +1038,7 @@ sócios que também sejam responsáveis técnicos e para cancelamento de registr
 
 como Auditor Independente Pessoa Jurídica (AIPJ), a referida carta deverá conter ainda
 
-a ciência dos respectivos proﬁssionais de que estão sendo excluídos do cadastro de
+a ciência dos respectivos profissionais de que estão sendo excluídos do cadastro de
 
 responsáveis técnicos autorizados a emitir e assinar relatórios de auditoria e de
 
@@ -1198,7 +1046,7 @@ revisão em nome de AIPJ registrado na CVM e de que, caso não mantenham ativos
 
 seus cadastros junto à CVM, deverão cumprir todas as exigências da Resolução CVM
 
-nº 23/2021, inclusive a aprovação no Exame de Qualiﬁcação Técnica – CVM, na
+nº 23/2021, inclusive a aprovação no Exame de Qualificação Técnica – CVM, na
 
 oportunidade de posterior solicitação de pedido de registro como AIPN; de inclusão
 
@@ -1224,13 +1072,13 @@ em fase de homologação e testes o novo sistema de Cadastro de Auditores. Refer
 
 sistema, quando em produção, permitirá que os próprios auditores submetam
 
-solicitações de alterações cadastrais, solicitem inclusões ou exclusões de proﬁssionais,
+solicitações de alterações cadastrais, solicitem inclusões ou exclusões de profissionais,
 
-remetam documentos ou emitam certidões de conﬁrmação de registro, entre outras
+remetam documentos ou emitam certidões de confirmação de registro, entre outras
 
 facilidades, com acesso direto (on-line) ao Cadastro do auditor independente. A
 
-previsão inicial é que ao ﬁnal do primeiro semestre de 2024 este sistema esteja
+previsão inicial é que ao final do primeiro semestre de 2024 este sistema esteja
 
 disponibilizado a todos os auditores.
 
@@ -1254,9 +1102,7 @@ efetivo registro, na categoria de contador, junto ao respectivo CRC. A referida
 
 comprovação deverá ser atendida, exclusivamente, da seguinte forma:
 
-a)
-
-mediante a apresentação de relatórios de auditoria emitidos e assinados pelo
+a) mediante a apresentação de relatórios de auditoria emitidos e assinados pelo
 
 contador interessado, publicados em jornal ou revista especializada ou
 
@@ -1276,15 +1122,13 @@ jornal ou da revista; o endereço do sítio da rede mundial de computadores e a
 
 data em que ocorreu a publicação; ou
 
-b)
-
-mediante comprovação de que o contador interessado exerceu a atividade de
+b) mediante comprovação de que o contador interessado exerceu a atividade de
 
 auditoria como empregado de sociedade de auditoria registrada na CVM. Esta
 
-comprovação também só será contada a partir da data do registro do proﬁssional
+comprovação também só será contada a partir da data do registro do profissional
 
-na categoria de contador, quer seja este registro provisório ou deﬁnitivo. Nos
+na categoria de contador, quer seja este registro provisório ou definitivo. Nos
 
 casos de pedido de registro como Auditor Independente - Pessoa Natural, o
 
@@ -1300,11 +1144,11 @@ acima, devem ser apresentadas: i) cópia do registro individual de empregado do
 
 contador na sociedade de auditoria empregadora, contendo todas as informações
 
-exigidas em regulamentação especíﬁca e ii) cópia da carteira de trabalho e
+exigidas em regulamentação específica e ii) cópia da carteira de trabalho e
 
 previdência social (CTPS) do contador interessado, compreendendo as páginas que
 
-contêm: o número e a série da CTPS; a qualiﬁcação do titular; as anotações referentes
+contêm: o número e a série da CTPS; a qualificação do titular; as anotações referentes
 
 aos contratos de trabalho e as alterações de salários, férias, cargos ou funções
 
@@ -1314,9 +1158,9 @@ estiverem em branco, ou seja, em que não tenham sido consignadas quaisquer
 
 anotações. Também será admitida, no lugar da cópia do registro individual de
 
-empregado, declaração ﬁrmada por sócio representante da sociedade de auditoria
+empregado, declaração firmada por sócio representante da sociedade de auditoria
 
-empregadora, na qual deverão constar, necessariamente, a qualiﬁcação do contador;
+empregadora, na qual deverão constar, necessariamente, a qualificação do contador;
 
 as datas de admissão e saída do emprego (se for o caso); o cargo ou função em que
 
@@ -1356,15 +1200,15 @@ trabalho realizado: o respectivo relatório de auditoria, o relatório circunsta
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 12
 
-correspondente (relatório ﬁnal, que englobe todo o período auditado) e as respectivas
+correspondente (relatório final, que englobe todo o período auditado) e as respectivas
 
-demonstrações contábeis auditadas. Objetivando resguardar o sigilo proﬁssional e
+demonstrações contábeis auditadas. Objetivando resguardar o sigilo profissional e
 
 garantir a sua autenticidade, é indispensável que todos esses documentos sejam
 
 autenticados pela entidade auditada, devendo conter, ainda, autorização da referida
 
-entidade para que eles possam ser apresentados à CVM com a ﬁnalidade exclusiva de
+entidade para que eles possam ser apresentados à CVM com a finalidade exclusiva de
 
 comprovar o exercício da atividade de auditoria pelo contador interessado. A
 
@@ -1386,11 +1230,11 @@ A título de orientação, esclarecemos que o relatório circunstanciado deve co
 
 mínimo, as seguintes informações: o nome ou denominação da entidade auditada; o
 
-período abrangido pelo exame; descrição das deﬁciências e ineﬁcácia dos controles
+período abrangido pelo exame; descrição das deficiências e ineficácia dos controles
 
 internos e dos procedimentos contábeis adotados pela entidade auditada seguidos
 
-das recomendações para as correções requeridas; e a data de emissão, a identiﬁcação
+das recomendações para as correções requeridas; e a data de emissão, a identificação
 
 e a assinatura do auditor responsável.
 
@@ -1400,7 +1244,9 @@ Os auditores independentes devem encaminhar à CVM, até o último dia útil do 
 
 abril de cada ano, informações relacionadas à sua atuação no mercado de valores
 
-mobiliários, conforme Anexo D à Resolução CVM n.º 23/2021. Essas informações são
+mobiliários, conforme Anexo D à Resolução CVM n.
+
+º 23/2021. Essas informações são
 
 subsídios importantes para a CVM avaliar a capacidade dos auditores em atender
 
@@ -1410,11 +1256,17 @@ Tais informações devem ser encaminhadas via internet, na página da CVM. O env
 
 deve ser feito através da opção “REGULADOS (https://www.gov.br/cvm/pt-
 
-br/assuntos/regulados)”, selecionando a seguir a opção “ENVIO DE DOCUMENTOS –
+br/assuntos/regulados)”
 
-CVMWEB (https://cvmweb.cvm.gov.br/swb/default.asp?sg_sistema=scw)” e a seguir a
+, selecionando a seguir a opção “ENVIO DE DOCUMENTOS –
 
-opção “ENVIO DE DOCUMENTOS”.
+CVMWEB (https://cvmweb.cvm.gov.br/swb/default.asp?sg_
+
+sistema=scw)” e a seguir a
+
+opção “ENVIO DE DOCUMENTOS”
+
+.
 
 Oportunamente, informamos que foi implementada desde 2020 alteração no
 
@@ -1422,9 +1274,11 @@ procedimento para apresentação de tais informações. Agora, ao acessar o sist
 
 CVMWEB para apresentar as Informações Periódicas Anuais previstas no art. 16 da
 
-Resolução CVM n.º 23/2021, o auditor será direcionado automaticamente para a
+Resolução CVM n.
 
-veriﬁcação de seus dados cadastrais. Após a validação dos dados cadastrais, ou sua
+º 23/2021, o auditor será direcionado automaticamente para a
+
+verificação de seus dados cadastrais. Após a validação dos dados cadastrais, ou sua
 
 atualização, o auditor deverá emitir, obrigatoriamente, a Declaração Eletrônica de
 
@@ -1436,7 +1290,9 @@ Nesta etapa, existem duas opções para encaminhamento das informações: i) Env
 
 documentos via formulário e ii) Upload de documentos. Por último, deve ser
 
-selecionada a opção “Informe Anual de Auditor Independente”. A opção “upload de
+selecionada a opção “Informe Anual de Auditor Independente”
+
+. A opção “upload de
 
 documentos” deverá ser utilizada, apenas, por aqueles auditores que possuam mais
 
@@ -1448,9 +1304,7 @@ necessária a criação de um arquivo (padrão XML) para encaminhamento das
 
 informações requeridas.
 
-Adicionalmente, lembramos que a partir da vigência da Resolução CVM n
-
-º
+Adicionalmente, lembramos que a partir da vigência da Resolução CVM nº
 
 . 23/2021, o
 
@@ -1466,7 +1320,9 @@ apresentação, caso já decorrido prazo previsto em lei para sua elaboração; 
 
 penúltimo exercício social encerrado, nos demais casos. O arquivo contendo as citadas
 
-demonstrações contábeis deve estar no formato “PDF”, devendo ser encaminhado em
+demonstrações contábeis deve estar no formato “PDF”
+
+, devendo ser encaminhado em
 
 conjunto com as Informações Anuais por meio da opção de upload de documentos
 
@@ -1474,7 +1330,9 @@ disponibilizada.
 
 A apresentação dessas informações com atraso sujeita os auditores à multa
 
-cominatória, conforme previsão constante do art. 18 da Resolução CVM n.º 23/2021.
+cominatória, conforme previsão constante do art. 18 da Resolução CVM n.
+
+º 23/2021.
 
 Lembramos que a não observância do prazo de envio das informações tratadas neste
 
@@ -1496,7 +1354,9 @@ incisos I e II da Resolução CVM n.º 51/2021)
 
 Independentemente da apresentação das informações periódicas requeridas pela
 
-Resolução CVM n.º 23/2021, é necessário, também, que os auditores independentes
+Resolução CVM n.
+
+º 23/2021, é necessário, também, que os auditores independentes
 
 mantenham o cadastro atualizado, observado o prazo de até 07 (sete) dias úteis do
 
@@ -1506,19 +1366,27 @@ independentes acessem seus dados cadastrais na página da CVM, procedendo à
 
 competente atualização. Além da atualização requerida, anualmente e até o dia 30 do
 
-mês de abril (conforme inciso II, art. 2º da Resolução CVM n.º 51/2021), o Auditor
+mês de abril (conforme inciso II, art. 2º da Resolução CVM n.
 
-Independente deve conﬁrmar que seus dados cadastrais continuam válidos, com a
+º 51/2021), o Auditor
+
+Independente deve confirmar que seus dados cadastrais continuam válidos, com a
 
 emissão da Declaração Eletrônica de Conformidade. A Declaração Eletrônica de
 
 Conformidade deve ser emitida pelo acesso à opção“REGULADOS
 
-(https://www.gov.br/cvm/pt-br/assuntos/regulados)”, selecionando a seguir a opção
+(https://www.gov.br/cvm/pt-br/assuntos/regulados)”
+
+, selecionando a seguir a opção
 
 “SERVIÇOS AO PARTICIPANTE CVM” e a seguir a opção “ATUALIZAÇÃO CADASTRAL DE
 
-PARTICIPANTES”, em seguida “DECLARAÇÃO ELETRÔNICA DE CONFORMIDADE”, na
+PARTICIPANTES”
+
+, em seguida “DECLARAÇÃO ELETRÔNICA DE CONFORMIDADE”
+
+, na
 
 página da CVM. É importante frisar que, mesmo nos casos em que não existam
 
@@ -1534,11 +1402,13 @@ página da CVM na internet. Desde 2020, ao acessar o sistema CVMWEB para a
 
 transmissão das Informações Periódicas Anuais previstas no art. 16 da Resolução CVM
 
-n.º 23/2021 (item 09 acima), o auditor será direcionado automaticamente para a
+n.
 
-veriﬁcação de seus dados cadastrais e atualizações que se ﬁzerem necessárias. Após
+º 23/2021 (item 09 acima), o auditor será direcionado automaticamente para a
 
-a conﬁrmação dos dados cadastrais, ou sua atualização, o auditor será direcionado
+verificação de seus dados cadastrais e atualizações que se fizerem necessárias. Após
+
+a confirmação dos dados cadastrais, ou sua atualização, o auditor será direcionado
 
 para a emissão da Declaração Eletrônica de Conformidade. Emitida a Declaração
 
@@ -1548,11 +1418,13 @@ Informações Periódicas Anuais.
 
 Para emissão da Declaração Eletrônica de Conformidade, deve ser selecionado o
 
-auditor independente (clique na caixa situada antes do nome do auditor), conﬁrmando
+auditor independente (clique na caixa situada antes do nome do auditor), confirmando
 
 os dados cadastrais, ou alterando-os se necessário, e, em seguida, acionando a opção
 
-“ENVIAR FORMULÁRIO”. Após o envio da Declaração Eletrônica de Conformidade
+“ENVIAR FORMULÁRIO”
+
+. Após o envio da Declaração Eletrônica de Conformidade
 
 aparecerá a informação: Formulário já enviado? SIM.
 
@@ -1568,17 +1440,13 @@ cominatória diária, prevista no art. 6º da Resolução CVM nº 51/2021, no va
 
 para o participante pessoa natural.
 
-Oportunamente,
-
-considerando que todas as comunicações da CVM com os
+Oportunamente, considerando que todas as comunicações da CVM com os
 
 auditores independentes são realizadas por meio de mensagens eletrônicas
 
 (e-mail), reforçamos a necessidade de que tais endereços estejam
 
-atualizados
-
-. Ainda neste tema, lembramos que o e-mail informado como elo de
+atualizados. Ainda neste tema, lembramos que o e-mail informado como elo de
 
 comunicação com a CVM não esteja protegido por barreiras de mensagens (anti-
 
@@ -1596,9 +1464,7 @@ auditores independentes, que assumem o risco de sua manutenção.
 
 12. Comunicações relativas ao art. 24 da Resolução CVM n.º 50/2021
 
-Com vistas ao ﬁel cumprimento da Resolução CVM nº 50/2021, em particular
-
-ao
+Com vistas ao fiel cumprimento da Resolução CVM nº 50/2021, em particular ao
 
 disposto no artigo 24, reiteramos que, para fins do disposto no inciso I do art. 11 da Lei
 
@@ -1608,7 +1474,7 @@ análise e a comunicação relacionada considerando, no mínimo, a aplicação d
 
 procedimentos previstos em regulamentação específica emitida pelo CFC.
 
-Em função de convênio ﬁrmado com o Conselho Federal de Contabilidade - CFC, a
+Em função de convênio firmado com o Conselho Federal de Contabilidade - CFC, a
 
 declaração negativa (se for o caso) deve ser feita no ambiente CFC do SISCOAF. Nada
 
@@ -1626,9 +1492,9 @@ Lembramos que os auditores independentes devem se submeter à revisão externa d
 
 qualidade a ser realizada por outro auditor registrado na CVM, com vistas a avaliar
 
-também a observância às normas técnicas e proﬁssionais, em conformidade com
+também a observância às normas técnicas e profissionais, em conformidade com
 
-norma especíﬁca emitida pelo CFC. Atualmente, a NBC PA 11 regulamenta a matéria,
+norma específica emitida pelo CFC. Atualmente, a NBC PA 11 regulamenta a matéria,
 
 devendo ser observada pelos auditores independentes.
 
@@ -1652,21 +1518,21 @@ de qualidade deve ser assinado por responsável técnico cadastrado na CVM ou AI
 
 registrado nesta autarquia, conforme o caso.
 
-Especiﬁcamente em relação à atuação do auditor-revisor, temos observado alguns
+Especificamente em relação à atuação do auditor-revisor, temos observado alguns
 
 problemas na execução dos trabalhos de revisão. Tais problemas são, em sua maioria,
 
 relacionados à profundidade dos exames efetuados, como também à obtenção de
 
-evidência de auditoria apropriada e suﬁciente, de modo a embasar a opinião emitida
+evidência de auditoria apropriada e suficiente, de modo a embasar a opinião emitida
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 15
 
-ao ﬁnal dos trabalhos. É importante frisar que, da amostra dos auditores-revisores
+ao final dos trabalhos. É importante frisar que, da amostra dos auditores-revisores
 
 selecionados para inspeções em atendimento ao Programa de Supervisão Baseada em
 
-Risco (SBR) adotado pela CVM nos últimos anos, identiﬁcamos alta recorrência de
+Risco (SBR) adotado pela CVM nos últimos anos, identificamos alta recorrência de
 
 problemas na execução dos trabalhos de revisão pelos auditores-revisores, ensejando
 
@@ -1676,17 +1542,13 @@ Autarquia, inclusive, com a instauração de processos administrativos sancionad
 
 (Termo de Acusação). Nesse sentido, lembramos que o auditor-revisor deve ter
 
-especial atenção quanto à veriﬁcação do cumprimento do Programa de Educação
+especial atenção quanto à verificação do cumprimento do Programa de Educação
 
-Proﬁssional (NBC PG 12 R4) e
+Profissional (NBC PG 12 R4) e dos procedimentos a serem observados pelos
 
-dos procedimentos a serem observados pelos
+profissionais e organizações contábeis para cumprimento das obrigações
 
-proﬁssionais e organizações contábeis para cumprimento das obrigações
-
-previstas na Lei n.º 9.613/1998 (Resolução CFC 1530/2017)
-
-, por parte do
+previstas na Lei n.º 9.613/1998 (Resolução CFC 1530/2017), por parte do
 
 auditor revisado, além daqueles já elencados no questionário de revisão externa de
 
@@ -1696,7 +1558,9 @@ Lembramos que o descumprimento ao Programa instituído pelo CFC por parte do
 
 auditor revisado também enseja a aplicação de sanções administrativas. Nesse
 
-sentido, lembramos que o §4º do art. 33 da Resolução CVM n.º 23/2021, estabelece:
+sentido, lembramos que o §4º do art. 33 da Resolução CVM n.
+
+º 23/2021, estabelece:
 
 §4º O descumprimento do disposto no caput em pelo menos 2
 
@@ -1724,19 +1588,15 @@ descumprimento ao Programa de Revisão Externa de Qualidade, na forma prevista n
 
 §4º acima citado, tiveram seus registros suspensos na CVM. Em tais casos, e naqueles
 
-que forem futuramente identiﬁcados, o auditor que desejar reativar seu registro
+que forem futuramente identificados, o auditor que desejar reativar seu registro
 
-deverá,
+deverá, por ato próprio e sem necessidade de prévia indicação do Comitê de
 
-por ato próprio e sem necessidade de prévia indicação do Comitê de
-
-Revisão Externa de Qualidade – CRE
-
-, indicar seu auditor-revisor ao CRE,
+Revisão Externa de Qualidade – CRE, indicar seu auditor-revisor ao CRE,
 
 submetendo-se à revisão externa de qualidade, dentro dos prazos e procedimentos
 
-deﬁnidos pela norma que rege o Programa. Ao ﬁnal da revisão, seu resultado,
+definidos pela norma que rege o Programa. Ao final da revisão, seu resultado,
 
 conclusões e recomendações deverão ser apresentados ao CRE, de modo que o
 
@@ -1748,19 +1608,17 @@ cumprimento do Programa de Revisão Externa de Qualidade, notadamente de duas
 
 formas:
 
-A .
-
-Auditores independentes indicados pelo CFC para participarem do
+A . Auditores independentes indicados pelo CFC para participarem do
 
 Programa de Revisão Externa de Qualidade cancelam o registro junto à CVM.
 
 Ainda dentro daquele exercício, ou no exercício seguinte, solicitam novo
 
-registro. Nesse caso, como deﬁnido nos normativos da CVM e do CFC, o
+registro. Nesse caso, como definido nos normativos da CVM e do CFC, o
 
 auditor deve se submeter ao Programa no próximo exercício (a contar do
 
-novo registro). Entretanto, temos veriﬁcado que alguns auditores não se
+novo registro). Entretanto, temos verificado que alguns auditores não se
 
 submetem ao Programa quando de seu retorno. É entendimento desta
 
@@ -1768,13 +1626,11 @@ Superintendência de Normas Contábeis e de Auditoria – SNC, que esses
 
 auditores, com essa atitude, incorrem na situação descrita no §4º do art. 33
 
-acima citado. Assim, nos casos já identiﬁcados, bem como nos novos, a SNC
+acima citado. Assim, nos casos já identificados, bem como nos novos, a SNC
 
 adotará a suspensão prevista na norma.
 
-B.
-
-Alguns auditores independentes, apesar de se submeterem ao Programa
+B. Alguns auditores independentes, apesar de se submeterem ao Programa
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 16
 
@@ -1790,7 +1646,9 @@ caracteriza tentativa de burla ao cumprimento da revisão externa de
 
 qualidade. Dessa forma, lembramos que tais auditores estão passíveis de
 
-suspensão do registro, nos moldes do §4º do art. 33 da Resolução CVM n.º
+suspensão do registro, nos moldes do §4º do art. 33 da Resolução CVM n.
+
+º
 
 23/2021, além da adoção de outras medidas administrativas aplicáveis ao
 
@@ -1800,7 +1658,9 @@ Deve ser ressaltado que, uma vez aplicada a suspensão do registro por
 
 descumprimento ao Programa de Revisão Externa, prevista no §4º do artigo 33 da
 
-Resolução CVM n.º 23/2021, a reativação do registro do auditor independente
+Resolução CVM n.
+
+º 23/2021, a reativação do registro do auditor independente
 
 (revisado) junto à CVM somente se dará se o processo de revisão externa de
 
@@ -1810,7 +1670,7 @@ qualidade não contenha qualquer ressalva (relatório de revisão de sistema de
 
 qualidade adequado1). Relatório de revisão emitido com ressalva (relatório de revisão
 
-de sistema de qualidade com deﬁciências), com abstenção de opinião (relatório de
+de sistema de qualidade com deficiências), com abstenção de opinião (relatório de
 
 revisão do sistema de qualidade com limitação de escopo ao trabalho do revisor) ou
 
@@ -1830,13 +1690,13 @@ cadastro da CVM, e indicados pelo CRE/CFC, estão obrigados a participar do refe
 
 Programa.
 
-14. Programa de Educação Proﬁssional Continuada (Art. 34 – Resolução CVM
+14. Programa de Educação Profissional Continuada (Art. 34 – Resolução CVM
 
 n.º 23/2021)
 
 Objetivando a manutenção de um elevado padrão de capacitação técnica e de
 
-atualização constante a respeito das normas proﬁssionais, dos procedimentos
+atualização constante a respeito das normas profissionais, dos procedimentos
 
 contábeis e de auditoria e das normas relacionadas ao exercício da sua atividade no
 
@@ -1850,13 +1710,15 @@ continuada consoante com as diretrizes aprovadas pelo CFC, constantes da NBC PG 
 
 Nesse aspecto, lembramos que o descumprimento ao Programa de Educação
 
-Proﬁssional Continuada por parte dos auditores independentes – pessoa natural e dos
+Profissional Continuada por parte dos auditores independentes – pessoa natural e dos
 
 auditores independentes – pessoa jurídica, bem como de seus sócios e/ou
 
 responsáveis técnicos, enseja a aplicação de sanções administrativas. Sobre o tema,
 
-trazemos os §§ 1º e 2º do art. 34 da Resolução CVM n.º 23/2021, que estabelecem:
+trazemos os §§ 1º e 2º do art. 34 da Resolução CVM n.
+
+º 23/2021, que estabelecem:
 
 § 1º O disposto no caput se aplica aos Auditores
 
@@ -1880,7 +1742,7 @@ Independente – Pessoa Jurídica, até que seja apresentado
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 17
 
-novo certiﬁcado de aprovação no Exame de Qualiﬁcação
+novo certificado de aprovação no Exame de Qualificação
 
 Técnica, previsto no art. 30 desta Resolução,
 
@@ -1890,7 +1752,7 @@ administrativas aplicáveis.
 
 Convém esclarecer que, em virtude da atuação conjunta desta Autarquia com a
 
-Comissão de Educação Proﬁssional Continuada – CEPC, instituída pelo CFC para gestão
+Comissão de Educação Profissional Continuada – CEPC, instituída pelo CFC para gestão
 
 e acompanhamento do Programa, não é necessária a apresentação do relatório anual
 
@@ -1898,7 +1760,7 @@ de atividades relacionadas à Educação Continuada para a CVM. Referido relató
 
 deverá ser entregue anualmente ao respectivo Conselho Regional de Contabilidade –
 
-CRC, como deﬁnido na NBC PG 12 (R4). A comprovação do atendimento ao Programa
+CRC, como definido na NBC PG 12 (R4). A comprovação do atendimento ao Programa
 
 de Educação Profissional Continuada é homologada pelo sistema CFC/CRCs.
 
@@ -1906,7 +1768,7 @@ Lembramos que, independentemente da participação em cursos e atividades
 
 externas, os auditores independentes devem possuir mecanismos de
 
-acompanhamento tempestivo das alterações das normas proﬁssionais de auditoria
+acompanhamento tempestivo das alterações das normas profissionais de auditoria
 
 independente emanadas do CFC e, quando aplicável, do Instituto dos Auditores
 
@@ -1918,7 +1780,7 @@ A pedido do CFC, informamos ainda que, considerando o controle da pandemia de
 
 covid-19 e a retomada das atividades presenciais, a pontuação mínima exigida para
 
-os proﬁssionais obrigados ao cumprimento do Programa retornou, a contar de 2022, à
+os profissionais obrigados ao cumprimento do Programa retornou, a contar de 2022, à
 
 sua condição normativa, ou seja, 40 (quarenta) pontos – sendo que, no mínimo, 12
 
@@ -1954,7 +1816,7 @@ ainda, à observação dos requerimentos constantes dos arts. 31-B a 31-F, todos
 
 mesma Resolução. Deve ser enfatizada a responsabilidade primária do auditor em
 
-atender ao requisito da rotatividade, renunciando ao cliente quando veriﬁcada a
+atender ao requisito da rotatividade, renunciando ao cliente quando verificada a
 
 ocorrência de situação que caracterize o descumprimento da norma, não obstante a
 
@@ -1962,7 +1824,9 @@ responsabilidade dos administradores da entidade auditada pela eventual contrata
 
 e manutenção de auditores independentes que não atendam às condições previstas
 
-na Resolução (art. 27 – Resolução CVM n.º 23/2021).
+na Resolução (art. 27 – Resolução CVM n.
+
+º 23/2021).
 
 Alertamos, ainda, que a rotatividade não pode ser efetuada com outra sociedade de
 
@@ -1990,7 +1854,7 @@ auditor substituído.
 
 Adicionalmente, chamamos atenção para a eventual recontratação do auditor
 
-substituído. Independentemente de se atingir, ou não, o período deﬁnido na norma
+substituído. Independentemente de se atingir, ou não, o período definido na norma
 
 para a prestação de serviços de auditoria consecutivos para um mesmo cliente (cinco
 
@@ -2000,11 +1864,15 @@ exista o CAE, em funcionamento e em aderência aos requisitos da Resolução
 
 23/2021), a sua recontratação somente poderá ocorrer após um período de 03 (três)
 
-exercícios sociais. Exempliﬁcando, temos que, se o AUDITOR “A”, após 02 (dois)
+exercícios sociais. Exemplificando, temos que, se o AUDITOR “A”
+
+, após 02 (dois)
 
 exercícios sociais de prestação de serviços ao auditado, foi substituído pelo AUDITOR
 
-“B”, o AUDITOR “A” somente poderá retornar para a prestação de serviços de
+“B”
+
+, o AUDITOR “A” somente poderá retornar para a prestação de serviços de
 
 auditoria decorridos 03 (três) exercícios sociais de sua substituição, em qualquer
 
@@ -2056,7 +1924,9 @@ de 10 (dez) anos previsto no caput do Art. 31-C.
 
 n.º 23/2021)
 
-O art. 25, inciso II, da Resolução CVM n.º 23/2021 prevê que o auditor independente
+O art. 25, inciso II, da Resolução CVM n.
+
+º 23/2021 prevê que o auditor independente
 
 deve “elaborar e encaminhar à administração e ao Conselho Fiscal, relatório
 
@@ -2064,39 +1934,39 @@ circunstanciado que contenha suas observações em relação aos controles inter
 
 aos procedimentos contábeis da entidade auditada, descrevendo, ainda, as eventuais
 
-deficiências ou ineficácias identificadas no transcorrer dos trabalhos”.
+deficiências ou ineficácias identificadas no transcorrer dos trabalhos”
 
-Nesse sentido, ratiﬁcando o disposto no citado texto normativo,
+.
 
-esclarecemos que é
+Nesse sentido, ratificando o disposto no citado texto normativo, esclarecemos que é
 
 expressa a obrigatoriedade de emissão do referido relatório circunstanciado
 
-ao ﬁnal dos trabalhos, em qualquer hipótese, independentemente de terem
+ao final dos trabalhos, em qualquer hipótese, independentemente de terem
 
-sido, ou não, identiﬁcadas deﬁciências ou ineﬁcácias no ambiente
+sido, ou não, identificadas deficiências ou ineficácias no ambiente
 
-examinado
-
-. Ou seja, apesar de a norma proﬁssional de auditoria independente que
+examinado. Ou seja, apesar de a norma profissional de auditoria independente que
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 19
 
 trata do tema (NBC TA 265) determinar a menção em relatório apenas das deficiências
 
-signiﬁcativas, caso existam, o relatório circunstanciado requerido pela Resolução CVM
+significativas, caso existam, o relatório circunstanciado requerido pela Resolução CVM
 
-n.º 23/2021 é mais abrangente, requerendo a emissão do relatório ao ﬁnal de cada
+n.
+
+º 23/2021 é mais abrangente, requerendo a emissão do relatório ao final de cada
 
 trabalho.
 
 Reforçamos que o relatório circunstanciado deve conter, no mínimo, dentre outras
 
-informações, a descrição das deﬁciências e ineﬁcácia dos controles internos e dos
+informações, a descrição das deficiências e ineficácia dos controles internos e dos
 
 procedimentos contábeis adotados pela entidade auditada acompanhadas das
 
-recomendações dos auditores independentes para as correções que se ﬁzerem
+recomendações dos auditores independentes para as correções que se fizerem
 
 necessárias. Como se percebe, tais apontamentos integram o conjunto mínimo de
 
@@ -2106,19 +1976,15 @@ exaurem o conteúdo do referido relatório.
 
 Além disso, é importante frisar que o referido relatório, em consonância com a citada
 
-norma proﬁssional, deve segregar as deﬁciências signiﬁcativas daquelas não
+norma profissional, deve segregar as deficiências significativas daquelas não
 
-signiﬁcativas. Naquelas situações,
+significativas. Naquelas situações, extremamente raras, em que o auditor
 
-extremamente raras
+independente concluir pela não identificação de deficiências de controles internos
 
-, em que o auditor
+(significativas ou não), o relatório a ser emitido será afirmativo, ou seja, deve afirmar
 
-independente concluir pela não identiﬁcação de deﬁciências de controles internos
-
-(signiﬁcativas ou não), o relatório a ser emitido será aﬁrmativo, ou seja, deve aﬁrmar
-
-sobre a não identiﬁcação de deﬁciências de controles internos, sejam signiﬁcativas ou
+sobre a não identificação de deficiências de controles internos, sejam significativas ou
 
 não, durante a realização dos trabalhos.
 
@@ -2126,7 +1992,7 @@ Tal procedimento possibilita mínima comprovação de que o auditor independente
 
 executou a avaliação dos controles internos e procedimentos contábeis previstos na
 
-norma emitida pela CVM e pelas normas proﬁssionais de auditoria independente. É
+norma emitida pela CVM e pelas normas profissionais de auditoria independente. É
 
 sempre importante lembrar que cabe à administração da entidade auditada a
 
@@ -2136,33 +2002,29 @@ necessários para permitir a elaboração de demonstrações contábeis livres d
 
 relevante e, ao auditor, considerar o controle interno para planejar os procedimentos
 
-de auditoria que são apropriados nas circunstâncias; mas não com a ﬁnalidade de
+de auditoria que são apropriados nas circunstâncias; mas não com a finalidade de
 
 expressar uma opinião sobre a eficácia do controle interno.
 
-Nesse contexto,
-
-reforçamos que o auditor deve, ainda, no decorrer dos
+Nesse contexto, reforçamos que o auditor deve, ainda, no decorrer dos
 
 trabalhos de auditoria de anos subsequentes, estabelecer acompanhamento
 
-especíﬁco daquelas deﬁciências apontadas no relatório anterior, bem como
+específico daquelas deficiências apontadas no relatório anterior, bem como
 
 de seu desfecho frente às ações da administração, para determinar se tais
 
-deﬁciências devem continuar a ser comunicadas no relatório circunstanciado
+deficiências devem continuar a ser comunicadas no relatório circunstanciado
 
-ou, ainda, se aquelas consideradas inicialmente como “não signiﬁcativas”
+ou, ainda, se aquelas consideradas inicialmente como “não significativas”
 
 alteraram seu status em função da sua recorrência, sem ações da
 
-administração da entidade auditada ao longo dos períodos examinados
-
-.
+administração da entidade auditada ao longo dos períodos examinados.
 
 Importante lembrar, ainda sobre referido relatório, que na NBC TA 265 – Comunicação
 
-de Deﬁciências de Controle Interno, o prazo para emissão da comunicação por escrito
+de Deficiências de Controle Interno, o prazo para emissão da comunicação por escrito
 
 está detalhado no item A13, conforme segue:
 
@@ -2182,9 +2044,9 @@ podem ter que receber a comunicação por escrito do auditor
 
 antes da data de aprovação das demonstrações contábeis
 
-para desempenhar responsabilidades especíﬁcas em relação
+para desempenhar responsabilidades específicas em relação
 
-ao controle interno, para ﬁns regulatórios ou para atender
+ao controle interno, para fins regulatórios ou para atender
 
 outros propósitos. Para outras entidades, o auditor pode
 
@@ -2194,29 +2056,21 @@ Contudo, neste último caso, considerando que a comunicação
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 20
 
-por escrito do auditor sobre deﬁciências signiﬁcativas faz
+por escrito do auditor sobre deficiências significativas faz
 
-parte do arquivo de auditoria ﬁnal,
-
-a comunicação por
+parte do arquivo de auditoria final, a comunicação por
 
 escrito está sujeita ao requisito do item 14 da NBC TA
 
-230
+230, que requer do auditor a montagem tempestiva do
 
-, que requer do auditor a montagem tempestiva do
-
-arquivo de auditoria ﬁnal. A NBC TA 230 estabelece que o
+arquivo de auditoria final. A NBC TA 230 estabelece que o
 
 limite de tempo adequado para a conclusão da montagem do
 
-arquivo de auditoria ﬁnal é normalmente de no
+arquivo de auditoria final é normalmente de no máximo 60
 
-máximo 60
-
-dias
-
-após a data do relatório do auditor independente (NBC
+dias após a data do relatório do auditor independente (NBC
 
 TA 230, item A21). (grifos nossos)
 
@@ -2224,17 +2078,13 @@ Portanto, o auditor independente deve desenvolver esforços no sentido de recebe
 
 comentários da administração no prazo de até 60 (sessenta) dias após a data do
 
-respectivo relatório de auditoria.
+respectivo relatório de auditoria. Nos casos em que não haja resposta da
 
-Nos casos em que não haja resposta da
-
-administração, o fato deve constar daquele arquivo ﬁnal de auditoria,
+administração, o fato deve constar daquele arquivo final de auditoria,
 
 juntamente com a versão para discussão encaminhada, sendo considerada
 
-como “final” a partir desse momento
-
-.
+como “final” a partir desse momento.
 
 17. Relatório de Auditoria e Principais Assuntos de Auditoria
 
@@ -2248,7 +2098,7 @@ descrição dos procedimentos efetuados pelo auditor e dos resultados alcançado
 
 apresentem conteúdo informacional relevante para os usuários, não se restringindo a
 
-apresentações genéricas do que foi realizado e a aﬁrmações vagas acerca da
+apresentações genéricas do que foi realizado e a afirmações vagas acerca da
 
 adequação do assunto quanto às demonstrações contábeis como um todo.
 
@@ -2260,37 +2110,25 @@ NBC TA 701, dentre outros possíveis, os seguintes itens, que entendemos como
 
 melhorias aplicáveis pelo auditor quando da elaboração de seu relatório de auditoria:
 
-·
+·procedimentos de auditoria específicos para o risco em discussão;
 
-procedimentos de auditoria específicos para o risco em discussão;
-
-·
-
-informações sobre o uso do trabalho de especialistas e/ou de auditores
+·informações sobre o uso do trabalho de especialistas e/ou de auditores
 
 internos;
 
-·
-
-procedimentos de auditoria especíﬁcos relacionados aos controles internos
+·procedimentos de auditoria específicos relacionados aos controles internos
 
 aplicáveis e se como resultado da aplicação dos procedimentos efetuados
 
 pelo auditor foram detectadas possíveis deficiências na sua efetividade;
 
-·
+·eventuais dificuldades na aplicação de procedimentos previstos;
 
-eventuais dificuldades na aplicação de procedimentos previstos;
-
-·
-
-alterações do planejamento de procedimentos executados, no alcance ou na
+·alterações do planejamento de procedimentos executados, no alcance ou na
 
 profundidade dos testes de auditoria;
 
-·
-
-se durante a execução dos procedimentos de auditoria foram identiﬁcados
+·se durante a execução dos procedimentos de auditoria foram identificados
 
 ajustes, registrados ou não pela administração da entidade, mesmo que não
 
@@ -2306,41 +2144,45 @@ individualizados, não sendo meras repetições dos principais assuntos de audit
 
 exercício anterior, tampouco, composto de assuntos (PAAs) padronizados,
 
-estabelecidos internamente pela sociedade de auditoria, para a ﬁrma como um todo
+estabelecidos internamente pela sociedade de auditoria, para a firma como um todo
 
 ou por setor de atuação das entidades auditadas.
 
-Nesse sentido, em relação às demonstrações ﬁnanceiras de patrimônios separados e o
+Nesse sentido, em relação às demonstrações financeiras de patrimônios separados e o
 
-disposto no item VIII, art. 25, da Resolução CVM n.º 23/2021, que trata dos Principais
+disposto no item VIII, art. 25, da Resolução CVM n.
+
+º 23/2021, que trata dos Principais
 
 Assuntos de Auditoria, lembramos que cada patrimônio separado é considerado uma
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 21
 
-entidade que reporta informação para ﬁns de elaboração de demonstrações
+entidade que reporta informação para fins de elaboração de demonstrações
 
-ﬁnanceiras individuais. Portanto, as normas proﬁssionais de auditoria independente
+financeiras individuais. Portanto, as normas profissionais de auditoria independente
 
 devem ser observadas quando da emissão do respectivo relatório de auditoria,
 
 inclusive a NBC TA 701 que trata do assunto.
 
-18. Exame de Qualiﬁcação Técnica - prova especíﬁca CVM (art. 30, Resolução
+18. Exame de Qualificação Técnica - prova específica CVM (art. 30, Resolução
 
 CVM n.º 23/2021)
 
 Em 2015 foi aprovada a NBC PA 13 (R2), atual NBC PA 13 (R3), que trata do Exame de
 
-Qualiﬁcação Técnica, instituído pelo Conselho Federal de Contabilidade – CFC. Assim,
+Qualificação Técnica, instituído pelo Conselho Federal de Contabilidade – CFC. Assim,
 
 considerando que a citada NBC PA 13 (R2) alterou o modelo de funcionamento do
 
-referido Exame, criando prova especíﬁca para atuação em entidades reguladas por
+referido Exame, criando prova específica para atuação em entidades reguladas por
 
-esta Autarquia, vale lembrar o disposto no artigo 30, da Resolução CVM n.º 23/2021,
+esta Autarquia, vale lembrar o disposto no artigo 30, da Resolução CVM n.
 
-que determina que o Exame de Qualiﬁcação Técnica será realizado com vistas à
+º 23/2021,
+
+que determina que o Exame de Qualificação Técnica será realizado com vistas à
 
 habilitação do auditor independente para o exercício da atividade de auditoria de
 
@@ -2348,27 +2190,31 @@ demonstrações contábeis para todas as entidades integrantes do mercado de val
 
 mobiliários.
 
-A NBC PA 13 (R2), em seu item 3, letra “b”, instituiu a prova especíﬁca para atuação
+A NBC PA 13 (R2), em seu item 3, letra “b”
+
+, instituiu a prova específica para atuação
 
 em entidades reguladas pela Comissão de Valores Mobiliários (CVM). Ou seja, a partir
 
-da entrada em vigor da NBC PA 13 (R2), o Exame de Qualiﬁcação Técnica – “CVM”
+da entrada em vigor da NBC PA 13 (R2), o Exame de Qualificação Técnica –
 
-passou a ser o exame de qualiﬁcação técnica necessário para registro junto a esta
+“CVM”
+
+passou a ser o exame de qualificação técnica necessário para registro junto a esta
 
 Autarquia.
 
-Adicionalmente, convém esclarecer que a aprovação em exame de qualiﬁcação
+Adicionalmente, convém esclarecer que a aprovação em exame de qualificação
 
-técnica especíﬁco “CVM” é, apenas, um dos requisitos necessários para registro na
+técnica específico “CVM” é, apenas, um dos requisitos necessários para registro na
 
 CVM. O fato de estar ativo no Cadastro Nacional de Auditores Independentes (CNAI),
 
 mantido pelo Conselho Federal de Contabilidade, não garante, por si, o atendimento a
 
-este requisito, tendo em vista que muitos proﬁssionais integrantes do CNAI não foram
+este requisito, tendo em vista que muitos profissionais integrantes do CNAI não foram
 
-aprovados em Exame de Qualiﬁcação Técnica - CVM, mas migrados do cadastro da
+aprovados em Exame de Qualificação Técnica - CVM, mas migrados do cadastro da
 
 CVM quando de sua criação. Esclarecemos que os contadores já registrados na CVM
 
@@ -2376,21 +2222,17 @@ como responsáveis técnicos ou Auditor Independente Pessoa Natural - AIPN e que
 
 desejarem mudar de categoria ou se transferir para o cadastro de outro Auditor
 
-Independente Pessoa Jurídica - AIPJ não precisam apresentar o certiﬁcado de
+Independente Pessoa Jurídica - AIPJ não precisam apresentar o certificado de
 
-aprovação no exame de qualiﬁcação técnica caso a alteração
+aprovação no exame de qualificação técnica caso a alteração ocorra de forma
 
-ocorra de forma
+concomitante, ou seja, sem descontinuidade do registro do profissional junto à CVM.
 
-concomitante
-
-, ou seja, sem descontinuidade do registro do proﬁssional junto à CVM.
-
-Assim, os proﬁssionais que já foram cadastrados na CVM como responsáveis
+Assim, os profissionais que já foram cadastrados na CVM como responsáveis
 
 técnicos de uma sociedade de auditoria estão sujeitos à comprovação de
 
-aprovação no referido exame (Qualiﬁcação Técnica - CVM) caso a solicitação
+aprovação no referido exame (Qualificação Técnica - CVM) caso a solicitação
 
 de inclusão em outro auditor, ou em sociedade de auditoria da qual já foi
 
@@ -2400,21 +2242,21 @@ técnico no auditor anterior ou naquela sociedade de auditoria em que
 
 exerceu essa função.
 
-Por sua vez, com a adoção do exame de qualiﬁcação técnica especíﬁco “CVM”
+Por sua vez, com a adoção do exame de qualificação técnica específico “CVM”
 
 destacamos que, após aprovado naquele certame, e até seu cadastro ou registro na
 
-CVM, o proﬁssional interessado em obter tal prerrogativa deverá manter-se em dia
+CVM, o profissional interessado em obter tal prerrogativa deverá manter-se em dia
 
-com os requerimentos do Programa de Educação Proﬁssional Continuada,
+com os requerimentos do Programa de Educação Profissional Continuada,
 
-comprovando sua regularidade através de certidão especíﬁca emitida pelo Conselho
+comprovando sua regularidade através de certidão específica emitida pelo Conselho
 
 Federal de Contabilidade (incisos VII do art. 5º; XIII do art. 6º e VI do art. 6º-A da
 
 Resolução CVM n. 23/2021). Caso a comprovação antes mencionada não seja possível,
 
-o proﬁssional requerente deverá se submeter novamente ao gravame da prestação de
+o profissional requerente deverá se submeter novamente ao gravame da prestação de
 
 exame de qualificação técnica específico para a CVM e obter a respectiva aprovação.
 
@@ -2438,7 +2280,9 @@ sociedade de auditoria, os demais signatários do referido relatório, ainda que
 
 cadastrados na CVM como responsáveis técnicos, precisam ter sido previamente
 
-aprovados em exame de qualiﬁcação técnica especíﬁco “CVM”, sob pena da
+aprovados em exame de qualificação técnica específico “CVM”
+
+, sob pena da
 
 respectiva sociedade de auditoria e do seu responsável técnico (RT), cadastrado nesta
 
@@ -2450,7 +2294,9 @@ autarquia e também signatário do relatório de auditoria, infringirem o inciso
 
 n.º 23/2021)
 
-O inciso VII, art. 25, da Resolução CVM n.º 23/2021 determina que o auditor deve:
+O inciso VII, art. 25, da Resolução CVM n.
+
+º 23/2021 determina que o auditor deve:
 
 VII – garantir que todos os sócios, diretores, gerentes,
 
@@ -2460,7 +2306,7 @@ gerência, na equipe destinada ao exercício da atividade de
 
 auditoria em entidades reguladas pela CVM, tenham sido
 
-aprovados em Exame de Qualiﬁcação Técnica especíﬁco para
+aprovados em Exame de Qualificação Técnica específico para
 
 a CVM.
 
@@ -2474,21 +2320,23 @@ aprovados em Exame de Qualificação Técnica específico para a CVM.
 
 Importante ressaltar que o inciso VII do art. 25, combinado com o disposto no caput e
 
-no §1º do art. 34, todos da citada Resolução CVM n.º 23/2021, ratiﬁca a obrigação de
+no §1º do art. 34, todos da citada Resolução CVM n.
 
-que tais proﬁssionais atentem ao cumprimento anual do Programa de Educação
+º 23/2021, ratifica a obrigação de
 
-Proﬁssional Continuada, após sua aprovação no referido exame. O não atendimento às
+que tais profissionais atentem ao cumprimento anual do Programa de Educação
+
+Profissional Continuada, após sua aprovação no referido exame. O não atendimento às
 
 diretrizes impostas pelo Conselho Federal de Contabilidade em relação ao Programa
 
-de Educação Proﬁssional por parte dos proﬁssionais citados poderá ensejar a adoção
+de Educação Profissional por parte dos profissionais citados poderá ensejar a adoção
 
 de medidas administrativas em desfavor dos auditores independentes a eles
 
 vinculados.
 
-No que tange especiﬁcamente aos contadores já cadastrados como responsáveis
+No que tange especificamente aos contadores já cadastrados como responsáveis
 
 técnicos autorizados a emitir e assinar relatórios de auditoria em nome de cada
 
@@ -2498,19 +2346,17 @@ por ocasião de seus requerimentos de inclusão no cadastro de responsáveis té
 
 estes cumpriram com todos os requisitos que lhes facultaram o deferimento dos seus
 
-pedidos de cadastro por parte da CVM. Desse modo, compõe entendimento paciﬁcado
+pedidos de cadastro por parte da CVM. Desse modo, compõe entendimento pacificado
 
 na SNC, de que os responsáveis técnicos, como tal já cadastrados nesta autarquia e
 
-enquanto mantiverem seu atual cadastro ativo
+enquanto mantiverem seu atual cadastro ativo, não necessitam ser aprovados
 
-, não necessitam ser aprovados
-
-em Exame de Qualiﬁcação Técnica especíﬁco para a CVM, ainda que a realização
+em Exame de Qualificação Técnica específico para a CVM, ainda que a realização
 
 voluntária do referido exame seja uma condição tecnicamente recomendável por estar
 
-endereçada ao indispensável e contínuo aprimoramento técnico dos proﬁssionais que
+endereçada ao indispensável e contínuo aprimoramento técnico dos profissionais que
 
 atuam no mercado de valores mobiliários.
 
@@ -2518,7 +2364,9 @@ atuam no mercado de valores mobiliários.
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 23
 
-O parágrafo único do art. 11 da Resolução CVM n.º 23/2021 procura estabelecer uma
+O parágrafo único do art. 11 da Resolução CVM n.
+
+º 23/2021 procura estabelecer uma
 
 relação de equidade entre o tratamento dado ao auditor independente – pessoa
 
@@ -2528,7 +2376,7 @@ Como consta da norma, não é permitido o registro, na categoria de Auditor
 
 Independente - Pessoa Natural, de contador que seja sócio, diretor ou responsável
 
-técnico ou que tenha vínculo proﬁssional de qualquer natureza com Auditor
+técnico ou que tenha vínculo profissional de qualquer natureza com Auditor
 
 Independente - Pessoa Jurídica. Entretanto, para o sócio, ou responsável técnico, de
 
@@ -2546,7 +2394,7 @@ de auditoria registrada na CVM não caracteriza inobservância ao direito consti
 
 de livre associação. Em verdade, não há qualquer impedimento à livre associação do
 
-proﬁssional; podendo ter quantas associações e participações desejar, inclusive dentro
+profissional; podendo ter quantas associações e participações desejar, inclusive dentro
 
 de um mesmo grupo econômico. Entretanto, a participação em auditor independente –
 
@@ -2558,9 +2406,9 @@ registros de sociedades de auditoria ou de inclusão de responsáveis técnicos 
 
 estejam em desacordo com essa determinação serão prontamente indeferidos.
 
-21. Auditoria das demonstrações ﬁnanceiras de Fundos de Investimento em
+21. Auditoria das demonstrações financeiras de Fundos de Investimento em
 
-Direitos Creditórios - FIDC, Certiﬁcados de Recebíveis Imobiliários - CRI e
+Direitos Creditórios - FIDC, Certificados de Recebíveis Imobiliários - CRI e
 
 Certificados de Recebíveis do Agronegócio - CRA
 
@@ -2570,7 +2418,7 @@ que atuam em fundos “FIDC” quanto a determinados procedimentos que deverão
 
 executar em relação aos direitos creditórios detidos pelos fundos, incluindo a
 
-veriﬁcação da existência e sua adequada preciﬁcação, considerando, ainda, questões
+verificação da existência e sua adequada precificação, considerando, ainda, questões
 
 relacionadas às provisões para perdas sobre esses direitos, de que trata a Instrução
 
@@ -2578,7 +2426,7 @@ CVM nº 489/11.
 
 Nesse contexto, reforçamos que o referido OFÍCIO-CIRCULAR também se aplica aos
 
-procedimentos de auditoria a serem executados para as demonstrações ﬁnanceiras
+procedimentos de auditoria a serem executados para as demonstrações financeiras
 
 dos patrimônios separados de CRI e CRA, de forma a complementar às orientações do
 
@@ -2590,15 +2438,11 @@ dinâmica de funcionamento dos CRI e CRA se assemelha a dos FIDC.
 
 540 (R2)
 
-Temos veriﬁcado, nos últimos anos, recorrentes falhas dos auditores no atendimento
+Temos verificado, nos últimos anos, recorrentes falhas dos auditores no atendimento
 
 aos requerimentos da NBC TA 540 (R1) / NBC TA 540 (R2), na auditoria de estimativas
 
-contábeis, incluindo, mas não limitado, a auditoria de testes de
-
-impairment
-
-, de valor
+contábeis, incluindo, mas não limitado, a auditoria de testes de impairment, de valor
 
 justo, e das divulgações relacionadas.
 
@@ -2606,15 +2450,13 @@ Assim, seguem nossas considerações sobre os principais descumprimentos
 
 verificados:
 
-·
+·como parte da validação da metodologia de cálculo utilizada, é esperado que
 
-como parte da validação da metodologia de cálculo utilizada, é esperado que
-
-o auditor, entre outros procedimentos, veriﬁque a comparação das
+o auditor, entre outros procedimentos, verifique a comparação das
 
 estimativas calculadas historicamente com o efetivamente realizado,
 
-analisando os motivos para as divergências veriﬁcadas e, ainda, se a
+analisando os motivos para as divergências verificadas e, ainda, se a
 
 metodologia precisa de algum ajuste para ser novamente utilizada no período
 
@@ -2622,9 +2464,7 @@ Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 24
 
 auditado;
 
-·
-
-ao planejar a utilização de cálculos independentes (incluindo análises de
+·ao planejar a utilização de cálculos independentes (incluindo análises de
 
 sensibilidade), o auditor deve estabelecer uma expectativa formalizando em
 
@@ -2632,31 +2472,21 @@ seus papéis de trabalho os limites aceitáveis de diferença em relação aos
 
 cálculos da administração e qual seu objetivo com aquele trabalho;
 
-·
-
-é essencial que o auditor valide as premissas e dados (incluindo dados
+·é essencial que o auditor valide as premissas e dados (incluindo dados
 
 históricos) utilizados para o cálculo da estimativa;
 
-·
-
-faz parte da responsabilidade do auditor veriﬁcar se as divulgações
+·faz parte da responsabilidade do auditor verificar se as divulgações
 
 requeridas estão sendo efetuadas, solicitando à administração eventuais
 
 ajustes que se façam necessários;
 
-·
+·avaliar possíveis impactos em seu relatório de auditoria ou a inclusão do
 
-avaliar possíveis impactos em seu relatório de auditoria ou a inclusão do
+assunto no relatório circunstanciado, quando aplicável; e
 
-assunto no relatório circunstanciado, quando aplicável;
-
-e
-
-·
-
-o valor da estimativa reﬂetido nas demonstrações contábeis (laudos de
+·o valor da estimativa refletido nas demonstrações contábeis (laudos de
 
 avaliação, principalmente) ter sido calculado por especialistas independentes
 
@@ -2664,13 +2494,11 @@ contratados pelo cliente de auditoria não isenta o auditor dos procedimentos
 
 descritos acima, tampouco dos demais requerimentos das normas de
 
-auditoria, incluindo a veriﬁcação e revisão da razoabilidade de premissas e
+auditoria, incluindo a verificação e revisão da razoabilidade de premissas e
 
 projeções utilizadas e
 
-·
-
-o julgamento da administração deve apresentar neutralidade e o auditor
+·o julgamento da administração deve apresentar neutralidade e o auditor
 
 deve avaliar possíveis tendenciosidades da administração.
 
@@ -2680,7 +2508,7 @@ deve avaliar possíveis tendenciosidades da administração.
 
 demonstrações anuais e de demonstrações intermediárias que, a nosso juízo, estavam
 
-em desacordo com as normas proﬁssionais de auditoria independente. Tais relatórios
+em desacordo com as normas profissionais de auditoria independente. Tais relatórios
 
 estavam relacionados a companhias que passavam por processos de investigação
 
@@ -2688,13 +2516,13 @@ criminal, inclusive de seus dirigentes e gestores.
 
 Apesar de entendermos que este é um tema complexo, de extrema relevância e que
 
-envolve julgamento proﬁssional, veriﬁcamos que alguns auditores optam por emitir
+envolve julgamento profissional, verificamos que alguns auditores optam por emitir
 
 sua opinião de uma forma não condizente com as diretrizes constantes das normas
 
-proﬁssionais de auditoria, mais precisamente, as NBC TA 700, NBC TA 705 e NBC TA
+profissionais de auditoria, mais precisamente, as NBC TA 700, NBC TA 705 e NBC TA
 
-706. Nesse sentido, lembramos que o auditor deve modiﬁcar a opinião no seu relatório
+706. Nesse sentido, lembramos que o auditor deve modificar a opinião no seu relatório
 
 quando:
 
@@ -2702,15 +2530,15 @@ quando:
 
 contábeis como um todo apresentam distorções relevantes; ou
 
-(b) não consegue obter evidência de auditoria apropriada e suﬁciente para
+(b) não consegue obter evidência de auditoria apropriada e suficiente para
 
 concluir que as demonstrações contábeis, como um todo, não apresentam
 
 distorções relevantes.
 
-Oportunamente, ressaltamos que a NBC TA 705, norma proﬁssional que trata da
+Oportunamente, ressaltamos que a NBC TA 705, norma profissional que trata da
 
-modiﬁcação da opinião, é clara ao deﬁnir as situações em que as modiﬁcações são
+modificação da opinião, é clara ao definir as situações em que as modificações são
 
 requeridas:
 
@@ -2722,7 +2550,7 @@ quando:
 
 (a) ele, tendo obtido evidência de auditoria apropriada e
 
-suﬁciente, conclui que as distorções, individualmente ou em
+suficiente, conclui que as distorções, individualmente ou em
 
 conjunto, são relevantes, mas não generalizadas nas
 
@@ -2732,7 +2560,7 @@ demonstrações contábeis; ou
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 25
 
-suﬁciente de auditoria para fundamentar sua opinião, mas ele
+suficiente de auditoria para fundamentar sua opinião, mas ele
 
 conclui que os possíveis efeitos de distorções não detectadas
 
@@ -2744,7 +2572,7 @@ Opinião adversa
 
 8. O auditor deve expressar uma “Opinião adversa” quando,
 
-tendo obtido evidência de auditoria apropriada e suﬁciente,
+tendo obtido evidência de auditoria apropriada e suficiente,
 
 conclui que as distorções, individualmente ou em conjunto,
 
@@ -2758,7 +2586,7 @@ Abstenção de opinião
 
 não consegue obter evidência de auditoria apropriada e
 
-suﬁciente para fundamentar sua opinião e ele concluir que os
+suficiente para fundamentar sua opinião e ele concluir que os
 
 possíveis efeitos de distorções não detectadas sobre as
 
@@ -2772,7 +2600,7 @@ quando, em circunstâncias extremamente raras envolvendo
 
 diversas incertezas, concluir que, independentemente de ter
 
-obtido evidência de auditoria apropriada e suﬁciente sobre
+obtido evidência de auditoria apropriada e suficiente sobre
 
 cada uma das incertezas, não é possível expressar uma
 
@@ -2782,9 +2610,11 @@ interação das incertezas e seu possível efeito cumulativo
 
 sobre essas demonstrações contábeis.
 
-Ainda sobre o tema, é preciso lembrar que a Resolução CVM n.º 23/2021, em seu
+Ainda sobre o tema, é preciso lembrar que a Resolução CVM n.
 
-artigo 25, inciso IV, deﬁne claramente a necessidade de mensuração do impacto nas
+º 23/2021, em seu
+
+artigo 25, inciso IV, define claramente a necessidade de mensuração do impacto nas
 
 demonstrações contábeis auditadas quando da emissão do respectivo relatório de
 
@@ -2806,7 +2636,7 @@ de contas do ativo, passivo, resultado e patrimônio líquido
 
 que estão afetados pela adoção de procedimentos contábeis
 
-conﬂitantes com os Princípios Fundamentais de
+conflitantes com os Princípios Fundamentais de
 
 Contabilidade, bem como os efeitos no dividendo obrigatório
 
@@ -2826,9 +2656,9 @@ e orienta os auditores independentes sobre os impactos na auditoria, mensuraçã
 
 avaliação advindos dessas situações. O Comunicado Técnico orienta também sobre os
 
-possíveis reﬂexos na opinião constante dos relatórios de auditoria das demonstrações
+possíveis reflexos na opinião constante dos relatórios de auditoria das demonstrações
 
-ﬁnanceiras de entidades envolvidas em assuntos relacionados à não conformidade
+financeiras de entidades envolvidas em assuntos relacionados à não conformidade
 
 com leis e regulamentos, atos ilegais ou fraude e, por isso, deve ser consultado na
 
@@ -2866,7 +2696,7 @@ contrário, os contratos em vigor continuam perfeitamente válidos e aptos para 
 
 manutenção do registro da sociedade junto à CVM. Eventuais alterações contratuais
 
-que reﬂitam o desejo dos sócios em adotar as possibilidades introduzidas com as
+que reflitam o desejo dos sócios em adotar as possibilidades introduzidas com as
 
 presentes alterações normativas podem ser feitas a qualquer tempo, de acordo com a
 
@@ -2886,21 +2716,23 @@ no §1º do art. 1.052 do Código Civil [...] Caso o auditor independente adote 
 
 sociedade unipessoal deverá se registrar na categoria de auditor independente pessoa
 
-jurídica”.
+jurídica”
+
+.
 
 25. Reconhecimento de créditos fiscais e seus possíveis reflexos no relatório
 
 de auditoria
 
-Durante a atividade de supervisão e ﬁscalização da atividade de auditoria no âmbito
+Durante a atividade de supervisão e fiscalização da atividade de auditoria no âmbito
 
-do mercado de valores mobiliários é normal identiﬁcarmos situações que demonstram
+do mercado de valores mobiliários é normal identificarmos situações que demonstram
 
 eventuais problemas potenciais, com impactos diretos nos usuários das informações
 
 contábeis. Atualmente, um item com essa característica é o reconhecimento de
 
-créditos ﬁscais e seus possíveis reﬂexos nas demonstrações contábeis e, ao ﬁnal, o
+créditos fiscais e seus possíveis reflexos nas demonstrações contábeis e, ao final, o
 
 respectivo relatório de auditoria. Situações como a Ampliação do Conceito de Insumo –
 
@@ -2908,7 +2740,7 @@ PIS e COFINS e a exclusão do ICMS na base de cálculo do PIS e COFINS têm cham
 
 atenção dessa Superintendência, principalmente em relação ao posicionamento de
 
-alguns auditores independentes em ﬂagrante inobservância a conceitos basilares da
+alguns auditores independentes em flagrante inobservância a conceitos basilares da
 
 estrutura conceitual de contabilidade em vigor mundialmente.
 
@@ -2932,23 +2764,23 @@ Como informado pela Superintendência de Relações com Empresas - SEP, no resul
 
 de suas ações relacionadas aos pedidos de registro de companhia aberta, foram
 
-identiﬁcadas diversas exigências relacionadas à divulgação de informações
+identificadas diversas exigências relacionadas à divulgação de informações
 
 financeiras.
 
-Das exigências realizadas para a conclusão das citadas análises, foi possível identiﬁcar
+Das exigências realizadas para a conclusão das citadas análises, foi possível identificar
 
 que as 5 (cinco) exigências mais frequentes estão relacionadas a:
 
-a) divulgação deﬁciente de políticas contábeis aplicadas à Companhia,
+a) divulgação deficiente de políticas contábeis aplicadas à Companhia,
 
-notadamente quando se veriﬁca que a Companhia majoritariamente se deteve
+notadamente quando se verifica que a Companhia majoritariamente se deteve
 
 em transcrever ou parafrasear as normas contábeis, logo sem observância da
 
 OCPC 07 (R1);
 
-b) divulgação deﬁciente das informações sobre Partes Relacionadas, sem
+b) divulgação deficiente das informações sobre Partes Relacionadas, sem
 
 observância do CPC 05 (R1), notadamente no que diz respeito a divulgação de
 
@@ -2956,11 +2788,7 @@ taxas e prazos de mútuos entre partes relacionadas;
 
 c) ausência de divulgação de informações sobre o Relacionamento com os
 
-Auditores Independentes
-
-,
-
-contrariando a Resolução CVM nº 80/2022 (Anexo C –
+Auditores Independentes, contrariando a Resolução CVM nº 80/2022 (Anexo C –
 
 Item 9);
 
@@ -2970,7 +2798,7 @@ d) falhas na divulgação da conciliação de informações de natureza não con
 
 sem observância da Resolução CVM nº 156/2022; e
 
-e) divulgação deﬁciente das premissas em testes de impairment, logo sem
+e) divulgação deficiente das premissas em testes de impairment, logo sem
 
 observância do CPC 01 (R1), principalmente no que diz respeito à divulgação de
 
@@ -2984,7 +2812,9 @@ normas relacionadas a elaboração das Demonstrações Financeiras e das
 
 Demonstrações Intermediárias relacionadas aos temas acima mencionados, bem
 
-como às orientações constantes no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2023 (e
+como às orientações constantes no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.
+
+º 01/2023 (e
 
 ofícios circulares de anos anteriores); de outro, cabe ao auditor independente envidar
 
@@ -3004,7 +2834,7 @@ divulgada e de seus possíveis efeitos no grau de compreensão por parte de seus
 
 usuários daquelas demonstrações contábeis, cabe ao auditor avaliar, frente ao
 
-disposto nas normas proﬁssionais de auditoria independente, a necessidade de
+disposto nas normas profissionais de auditoria independente, a necessidade de
 
 citação ao fato em seu relatório de auditoria, considerando, inclusive, a possibilidade
 
@@ -3046,9 +2876,9 @@ Em nossas atividades de acompanhamento, já foi possível observar que algumas
 
 importantes informações consignadas no relatório de auditoria vêm sendo omitidas na
 
-forma resumida ﬁnal (“extrato das informações relevantes do relatório”). Lembramos
+forma resumida final (“extrato das informações relevantes do relatório”). Lembramos
 
-que o item 4 do Parecer de Orientação CVM nº 39 deﬁne o conteúdo mínimo que o
+que o item 4 do Parecer de Orientação CVM nº 39 define o conteúdo mínimo que o
 
 relatório do auditor independente resumido deve conter. Entretanto, esse conteúdo
 
@@ -3072,13 +2902,13 @@ relatório de auditoria resumido. Esse entendimento se aplica a qualquer parágr
 
 relacionados ao risco de continuidade da entidade auditada.
 
-Ratiﬁcamos, portanto, que é responsabilidade do auditor independente veriﬁcar se as
+Ratificamos, portanto, que é responsabilidade do auditor independente verificar se as
 
 informações publicadas de forma condensada estão em consonância com as
 
-demonstrações ﬁnanceiras completas auditadas e com o relatório emitido pelo auditor
+demonstrações financeiras completas auditadas e com o relatório emitido pelo auditor
 
-independente sobre essas demonstrações ﬁnanceiras completas, em linha com o
+independente sobre essas demonstrações financeiras completas, em linha com o
 
 disposto no artigo 25, I da Resolução CVM 23/2021.
 
@@ -3096,9 +2926,7 @@ relatório e tampouco consiste em uma opinião sobre as referidas demonstraçõe
 
 financeiras resumidas.
 
-28.
-
-Distorções imateriais com potencial significativo de se tornarem
+28. Distorções imateriais com potencial significativo de se tornarem
 
 relevantes no futuro
 
@@ -3112,17 +2940,13 @@ Desta forma, o conceito de materialidade é aplicado pelo auditor no planejament
 
 na execução da auditoria, assim como na avaliação do efeito de distorções
 
-identiﬁcadas sobre as demonstrações contábeis. Em geral,
-
-as distorções, inclusive
+identificadas sobre as demonstrações contábeis. Em geral, as distorções, inclusive
 
 as omissões, são consideradas relevantes se for razoável esperar que,
 
-individual ou conjuntamente, elas inﬂuenciem as decisões econômicas dos
+individual ou conjuntamente, elas influenciem as decisões econômicas dos
 
-usuários tomadas com base nas demonstrações contábeis
-
-.
+usuários tomadas com base nas demonstrações contábeis.
 
 Julgamentos sobre a materialidade são estabelecidos levando-se em consideração as
 
@@ -3134,7 +2958,7 @@ necessidades dos usuários das demonstrações contábeis e pelo tamanho ou natu
 
 de uma distorção, ou por uma combinação de ambos.
 
-Nesse sentido, ressaltamos que, ao avaliar o “tamanho” das distorções identiﬁcadas, o
+Nesse sentido, ressaltamos que, ao avaliar o “tamanho” das distorções identificadas, o
 
 auditor deve, inclusive, considerar seu potencial de crescimento no longo prazo, ou
 
@@ -3146,7 +2970,7 @@ Resolução CVM nº 23/2021)
 
 A SNC entende que a independência é talvez o maior fator, senão o único, que
 
-diferencia o proﬁssional de contabilidade que trabalha dentro da empresa daquele que
+diferencia o profissional de contabilidade que trabalha dentro da empresa daquele que
 
 presta serviço de auditoria independente. Competência técnica, responsabilidade,
 
@@ -3158,9 +2982,9 @@ aspecto mais relevante da independência não é o fato de o auditor ser indepen
 
 e sim se ele, além disso, aparenta ser independente, ou seja, se as pessoas que
 
-supostamente devem se beneﬁciar do seu trabalho veem o auditor como uma pessoa
+supostamente devem se beneficiar do seu trabalho veem o auditor como uma pessoa
 
-ou sociedade independente. Isso é fundamental para a manutenção da conﬁança no
+ou sociedade independente. Isso é fundamental para a manutenção da confiança no
 
 sistema.
 
@@ -3178,9 +3002,9 @@ informações e de controle interno.
 
 Nesta oportunidade, convém esclarecer que a restrição imposta pelo inciso II do art.
 
-23 da Resolução CVM nº 23/2021 não conﬁgura obstáculo ao exercício da atividade
+23 da Resolução CVM nº 23/2021 não configura obstáculo ao exercício da atividade
 
-proﬁssional, uma vez que não estabelece vedação absoluta à prestação do serviço de
+profissional, uma vez que não estabelece vedação absoluta à prestação do serviço de
 
 auditoria nem do serviço de consultoria, mas, tão somente impede que ambos
 
@@ -3196,9 +3020,9 @@ mobiliários da entidade auditada.
 
 As pessoas ligadas ao auditor independente são as mesmas com quem ele mantém
 
-vínculo, relação, participação ou possui interesse, conforme deﬁnido pelo Conselho
+vínculo, relação, participação ou possui interesse, conforme definido pelo Conselho
 
-Federal de Contabilidade (CFC) nas normas de independência proﬁssional e que o
+Federal de Contabilidade (CFC) nas normas de independência profissional e que o
 
 impede de executar serviços de auditoria.
 
@@ -3232,21 +3056,21 @@ a auditoria realizada, fornecendo informações adicionais aos usuários previst
 
 demonstrações contábeis, para auxiliá-los a entender os assuntos que, segundo o
 
-julgamento proﬁssional do auditor, foram os de maior importância na auditoria das
+julgamento profissional do auditor, foram os de maior importância na auditoria das
 
 demonstrações contábeis do período corrente, podendo ajudá-los, ainda, a entender a
 
 entidade e áreas que envolveram julgamento significativo da administração.
 
-A esse respeito, para os temas sensíveis, identiﬁcados durante os trabalhos de
+A esse respeito, para os temas sensíveis, identificados durante os trabalhos de
 
-auditoria, que tenham sido objeto de julgamento proﬁssional, tanto por parte de
+auditoria, que tenham sido objeto de julgamento profissional, tanto por parte de
 
 preparadores de demonstrações contábeis quanto de auditores independentes, as
 
 áreas técnicas da CVM recomendam adotar os seguintes passos, extraídos de um
 
-arcabouço conceitual para julgamento proﬁssional, reportados também no Ofício
+arcabouço conceitual para julgamento profissional, reportados também no Ofício
 
 Circular CVM/SNC/SEP 01/23:
 
@@ -3264,17 +3088,21 @@ atingidos;
 
 Assim como exposto no referido Ofício Circular, ressaltamos que é importante que
 
-nesse processo de julgamento proﬁssional sejam evitadas as “armadilhas mentais”,
+nesse processo de julgamento profissional sejam evitadas as “armadilhas mentais”
 
-que são originadas de restrições informacionais, inﬂuências, ideias pré-concebidas e
+,
+
+que são originadas de restrições informacionais, influências, ideias pré-concebidas e
 
 vieses.
 
-Destacamos que equipes de proﬁssionais experientes no tema, envolvidos com o
+Destacamos que equipes de profissionais experientes no tema, envolvidos com o
 
-processo de julgamento proﬁssional, ajudam a mitigar os riscos advindos de
+processo de julgamento profissional, ajudam a mitigar os riscos advindos de
 
-“armadilhas mentais”, no entanto, não isentam o auditor de sua responsabilidade
+“armadilhas mentais”
+
+, no entanto, não isentam o auditor de sua responsabilidade
 
 sobre sua opinião independente, e da aplicação dos requerimentos constantes das
 
@@ -3288,15 +3116,15 @@ Ofício-Circular.
 
 Ressaltamos ainda que, para atingir o grau de transparência pretendido, tais
 
-comunicações não devem ser padronizadas, devendo ser redigidas especiﬁcamente
+comunicações não devem ser padronizadas, devendo ser redigidas especificamente
 
 para o assunto e para a entidade a que se referem.
 
-Por ﬁm, é oportuno lembrar que o item A30 da NBC TA 200 (R1) adverte que o
+Por fim, é oportuno lembrar que o item A30 da NBC TA 200 (R1) adverte que o
 
-julgamento proﬁssional precisa ser adequadamente documentado e não deve ser
+julgamento profissional precisa ser adequadamente documentado e não deve ser
 
-usado como justiﬁcativa para decisões que, de outra forma, não são sustentados pelos
+usado como justificativa para decisões que, de outra forma, não são sustentados pelos
 
 fatos e circunstâncias do trabalho nem por evidência de auditoria apropriada e
 
@@ -3308,7 +3136,7 @@ Relacionamos abaixo os temas dos principais achados em inspeções de auditores 
 
 últimos anos, apontados por reguladores associados ao IFIAR, e consistentes com
 
-aqueles veriﬁcados também em nossos trabalhos de supervisão e em inspeções, para
+aqueles verificados também em nossos trabalhos de supervisão e em inspeções, para
 
 os quais recomendamos atenção por parte dos auditores:
 
@@ -3342,21 +3170,21 @@ premissas alternativas.
 
 Testes de controles internos:
 
-- falha para obter evidência persuasiva suﬁciente para
+- falha para obter evidência persuasiva suficiente para
 
 suportar a confiança nos controles internos manuais;
 
-- falha para testar suﬁcientemente controles sobre, ou a
+- falha para testar suficientemente controles sobre, ou a
 
 exatidão e completude de, dados ou reportes produzidos pela
 
 administração;
 
-- falha para testar suﬁcientemente os controles gerais de
+- falha para testar suficientemente os controles gerais de
 
 tecnologia da informação;
 
-- falha para avaliar suﬁcientemente a severidade das
+- falha para avaliar suficientemente a severidade das
 
 deficiências de controle;
 
@@ -3370,7 +3198,7 @@ confiança nos trabalhos de outros.
 
 Reconhecimento de Receita:
 
-- falha para entender suﬁcientemente os termos e condições
+- falha para entender suficientemente os termos e condições
 
 de acordos complexos e do impacto na contabilização;
 
@@ -3386,15 +3214,15 @@ Adequação da apresentação e divulgação nas demonstrações
 
 financeiras:
 
-- falha para considerar suﬁcientemente a adequação das
+- falha para considerar suficientemente a adequação das
 
 divulgações em notas de rodapé (excluindo informações por
 
 segmento)
 
-- falha para identiﬁcar ou acessar a adequação das
+- falha para identificar ou acessar a adequação das
 
-classiﬁcações e apresentações das demonstrações
+classificações e apresentações das demonstrações
 
 financeiras, incluindo das Demonstrações de Fluxo de Caixa;
 
@@ -3404,7 +3232,7 @@ Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 32
 
 Amostragem de auditoria:
 
-- amostra insuﬁciente para reduzir o risco de amostragem a
+- amostra insuficiente para reduzir o risco de amostragem a
 
 um nível baixo aceitável;
 
@@ -3412,7 +3240,7 @@ um nível baixo aceitável;
 
 representativa da população;
 
-- falha para identiﬁcar a natureza e causa de qualquer desvio
+- falha para identificar a natureza e causa de qualquer desvio
 
 e para projetar erros para a população;
 
@@ -3424,7 +3252,7 @@ alternativos adequados quando necessário.
 
 Auditoria de grupo:
 
-- falha para considerar suﬁcientemente a natureza, momento
+- falha para considerar suficientemente a natureza, momento
 
 e extensão do envolvimento com o trabalho dos auditores de
 
@@ -3440,7 +3268,7 @@ componente;
 
 grupo e para os componentes de auditoria relacionados;
 
-- falha para resolver apropriadamente pontos identiﬁcados
+- falha para resolver apropriadamente pontos identificados
 
 pelo auditor de componente.
 
@@ -3448,7 +3276,7 @@ pelo auditor de componente.
 
 O objetivo do sistema de Protocolo Digital é o de permitir a automação completa do
 
-ﬂuxo de recebimento, distribuição e tramitação de documentos recebidos pela
+fluxo de recebimento, distribuição e tramitação de documentos recebidos pela
 
 Autarquia, tornando esse serviço mais ágil e eficiente.
 
@@ -3460,7 +3288,7 @@ demanda em caso de equívocos. Entre os benefícios da automação desse serviç
 
 estão a redução no tempo de entrega de documentos e o aumento da transparência
 
-nessa tramitação, uma vez que o auditor pode acompanhá-la do início ao ﬁm da sua
+nessa tramitação, uma vez que o auditor pode acompanhá-la do início ao fim da sua
 
 demanda. Destacamos que os documentos devem ser precedidos de uma carta
 
@@ -3474,7 +3302,7 @@ tratados pela área responsável pelo recebimento desses documentos, que fará o
 
 cadastramento e digitalização no novo Protocolo Digital.
 
-Especiﬁcamente em relação às solicitações de inclusão de responsáveis técnicos e
+Especificamente em relação às solicitações de inclusão de responsáveis técnicos e
 
 envio de alterações contratuais, por uma questão de segurança dos usuários e de
 
@@ -3498,7 +3326,7 @@ que impacta negativamente no tempo de análise das inclusões de responsáveis
 
 técnicos e tratamento das demais alterações relacionadas, uma vez que toda a cadeia
 
-societária tem que estar veriﬁcada para que as inclusões/exclusões/alterações sejam
+societária tem que estar verificada para que as inclusões/exclusões/alterações sejam
 
 processadas.
 
@@ -3506,7 +3334,7 @@ Sendo assim, seguem abaixo as orientações para o protocolo desses pedidos:
 
 a) as solicitações de inclusão/exclusão de responsáveis técnicos devem ser
 
-realizadas de forma individualizada (um protocolo digital para cada proﬁssional);
+realizadas de forma individualizada (um protocolo digital para cada profissional);
 
 e
 
@@ -3528,7 +3356,7 @@ lógica para que tais registros sejam feitos em lotes. Dessa forma, recomendamos
 
 fortemente que as sociedades realizem os respectivos registros à medida em que
 
-as alterações contratuais forem ﬁrmadas, promovendo uma maior celeridade
+as alterações contratuais forem firmadas, promovendo uma maior celeridade
 
 nesse trâmite para a CVM e, consequentemente, na atualização cadastral.
 
@@ -3550,7 +3378,11 @@ Governo Federal (https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a
 
 cvm) e cadastre-se. Para mais informações, acesse (https://www.gov.br/cvm/pt-
 
-br/canais_atendimento/protocolo-digital) Em caso de dúvida, entre em contato com a
+br/canais
+
+_
+
+atendimento/protocolo-digital) Em caso de dúvida, entre em contato com a
 
 Divisão de Gestão da Informação (DINF/SAD) pelo e-mail dinf@cvm.gov.br ou pelo
 
@@ -3560,9 +3392,7 @@ Além disso, informamos que, provavelmente ainda no primeiro semestre de 2024,
 
 teremos a implantação do sistema INFOAUDI (Cadastro de Auditores) que permitirá
 
-uma comunicação mais ágil dos auditores com esta SNC,
-
-para aqueles documentos
+uma comunicação mais ágil dos auditores com esta SNC, para aqueles documentos
 
 e informações relacionados ao cadastro da sociedade (registro,
 
@@ -3572,9 +3402,7 @@ atualizações de dados cadastrais em geral etc) sem a necessidade de uso do
 
 protocolo digital, por acesso direto dos próprios auditores independentes,
 
-via login ao sistema em nossa página na internet
-
-.
+via login ao sistema em nossa página na internet.
 
 Por último, ressaltamos a relevância das orientações contidas nos últimos Ofícios-
 
@@ -3594,66 +3422,38 @@ Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 34
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
-
-Madson Vasconcelos
-
-,
-
-Gerente
-
-,
+Documento assinado eletronicamente por Madson Vasconcelos, Gerente,
 
 em 24/05/2024, às 15:54, com fundamento no art. 6º do Decreto nº 8.539, de
 
 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Paulo Roberto Gonçalves
 
-Paulo Roberto Gonçalves
-
-Ferreira
-
-,
-
-Superintendente
-
-, em 24/05/2024, às 17:19, com fundamento no
+Ferreira, Superintendente, em 24/05/2024, às 17:19, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2045101
+autenticidade, informando o código verificador
 
-e o código CRC
-
-09D1E367
-
-.
+2045101 e o código CRC 09D1E367.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2045101
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2045101 and the "Código CRC" 09D1E367.
 
-09D1E367
-
-.
-
-Referência:
-
-Processo nº 19957.004309/2024-83
-
-Documento SEI nº 2045101
+Referência: Processo nº 19957.004309/2024-83 Documento SEI nº 2045101
 
 Ofício-Circular 1 (2045101) SEI 19957.004309/2024-83 / pg. 35

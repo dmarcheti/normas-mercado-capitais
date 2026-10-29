@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0622.pdf
 sha256_fonte: 7cb8809646d01e52f082a7ccecb4b3c4fa8fb7a585335a18e0f4ed07ce3e0b73
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. A descrição cita norma revogada: Instrução CVM 359. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares - Centro - Rio de Janeiro - RJ
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-OFÍCIO-CIRCULAR/CVM/SIN/Nº 6/2022 Ri o de Janeiro, 20 de junho de 2022
+OFÍCIO-CIRCULAR/CVM/SIN/Nº 6/2022 Rio de Janeiro, 20 de junho de 2022
 
 Aos administradores dos Fundos de Investimento em Índice de Mercado – Fundos de Índice
 
@@ -38,13 +38,15 @@ Prezados Senhores,
 
 1. O inciso II do art. 14 da Instrução CVM nº 359, de 22 de janeiro de 2002, estabelece que é vedado
 
-ao administrador dos Fundos de Í ndices contrair ou efetuar empréstim os, ressalvado o disposto nos
+ao administrador dos Fundos de Índices contrair ou efetuar empréstimos, ressalvado o disposto nos
 
-arts. 12 e 60 da mesma Instrução1.
+arts. 12 e 60 da mesma Instrução1
 
-2. De acordo com as experiências de supervisão de sta área técnica, no mer cado de empréstimos, as
+.
 
-operações em que o ETF figura co mo tomador de empréstimo podem atender a principalmente dois
+2. De acordo com as experiências de supervisão desta área técnica, no mercado de empréstimos, as
+
+operações em que o ETF figura como tomador de empréstimo podem atender a principalmente dois
 
 objetivos:
 
@@ -52,7 +54,7 @@ i. Admitir posição vendida em um ativo com o intuito de se obter resultado com
 
 preço do ativo objeto; ou
 
-ii. Tratar falha operacional ou de descasamen to de prazos de liquidação de operações no
+ii. Tratar falha operacional ou de descasamento de prazos de liquidação de operações no
 
 mercado à vista, com a finalidade de se evitar a falha de entrega de ativos perante sua
 
@@ -60,11 +62,11 @@ contraparte.
 
 3. A vedação expressa na Instrução CVM nº 359 tem por objetivo garantir que tais fundos repliquem
 
-as variações e rentabilidade do índice de referênc ia, sem que haja, portanto, uma posição direcional
+as variações e rentabilidade do índice de referência, sem que haja, portanto, uma posição direcional
 
 contrária a qualquer dos ativos componentes do índice.
 
-4. Por outro lado, operações tomadoras de empr éstimo que tenham como objetivo antecipar a
+4. Por outro lado, operações tomadoras de empréstimo que tenham como objetivo antecipar a
 
 disponibilidade de um ativo vendido em decorrência de ajustes da carteira do fundo para atender a
 
@@ -76,11 +78,11 @@ fundo e, portanto, não estão em desacordo com objetivo da vedação prevista n
 
 de ativos realizados pelos ETF, como tomadores, com o objetivo de evitar falhas de entrega de ativos
 
-perante câmaras de liquidação e compensação ma ntidas por mercados de valores mobiliários
+perante câmaras de liquidação e compensação mantidas por mercados de valores mobiliários
 
 regulamentados pela CVM.
 
-6. Recomendamos, como de praxe, que as evidências justificadoras da nece ssidade da operação de
+6. Recomendamos, como de praxe, que as evidências justificadoras da necessidade da operação de
 
 empréstimo sejam arquivadas e mantidas à disposição da fiscalização da CVM.
 

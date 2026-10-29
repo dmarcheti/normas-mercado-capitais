@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-sse-0123.pdf
 sha256_fonte: 5e2e92fdc6b7d0b854a8890558b86608f91a94d679190fdbf99dd24ac856a722
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -82,53 +82,53 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Sumário
 
-1.1 Cronograma de entrada em vigor ................................ ................................ .............................. 3
+1.1 Cronograma de entrada em vigor .............................................................................................. 3
 
-1.2 Classes e Subclasses ................................ ................................ ................................ ................... 4
+1.2 Classes e Subclasses ................................................................................................................... 4
 
-1.4 Cálculo do patrimônio líquido da classe ................................ ................................ .................... 5
+1.4 Cálculo do patrimônio líquido da classe .................................................................................... 5
 
-1.6 Informes periódicos ................................ ................................ ................................ ................... 6
+1.6 Informes periódicos ................................................................................................................... 6
 
-1.7 Website e sistemas da CVM ................................ ................................ ................................ ....... 7
+1.7 Website e sistemas da CVM ....................................................................................................... 7
 
-1.8 Remuneração/ Rebate/ Encargos/ Demonstrações contábeis................................ ...................... 7
+1.8 Remuneração/ Rebate/ Encargos/ Demonstrações contábeis...................................................... 7
 
-1.9 Adequação dos fundos por ato unilateral vs assembleia ................................ .......................... 14
+1.9 Adequação dos fundos por ato unilateral vs assembleia .......................................................... 14
 
 1.11 Documentos que devem ser mantidos no site dos prestadores de serviços .............................. 17
 
-1.12 Contratação de prestadores de serviços ................................ ................................ ................. 17
+1.12 Contratação de prestadores de serviços ................................................................................. 17
 
-1.13 Distribuição de cotas de classe em regime aberto ................................ ................................ ... 21
+1.13 Distribuição de cotas de classe em regime aberto ................................................................... 21
 
-1.14 Necessidade de laudo de avaliação ................................ ................................ ......................... 21
+1.14 Necessidade de laudo de avaliação ......................................................................................... 21
 
-1.15 Constituição e registro do fundo ................................ ................................ ............................ 22
+1.15 Constituição e registro do fundo ............................................................................................ 22
 
-1.16 Registros contábeis e demonstrações financeiras ................................ ................................ ... 23
+1.16 Registros contábeis e demonstrações financeiras ................................................................... 23
 
-1.17 Comunicação com os cotistas ................................ ................................ ................................ . 24
+1.17 Comunicação com os cotistas ................................................................................................. 24
 
-1.18 Negociação com uso indevido de informação privilegiada................................ ...................... 24
+1.18 Negociação com uso indevido de informação privilegiada...................................................... 24
 
 1.19 Suplemento A: termo de ciência e assunção de responsabilidade ilimitada ............................ 25
 
-1.20 Distribuição por conta e ordem – licença de escrituração ................................ ...................... 25
+1.20 Distribuição por conta e ordem – licença de escrituração ...................................................... 25
 
-1.21 Gerenciamento de liquidez ................................ ................................ ................................ .... 26
+1.21 Gerenciamento de liquidez .................................................................................................... 26
 
-1.22 Envio ao administrador de cópia de documento firmado pelo gestor ................................ ..... 27
+1.22 Envio ao administrador de cópia de documento firmado pelo gestor ..................................... 27
 
-1.23 Demonstrações financeiras de transferência de administração ................................ .............. 28
+1.23 Demonstrações financeiras de transferência de administração .............................................. 28
 
-1.24 Adaptações gerais de outras regras (COFI e Res. CVM 21) ................................ ................... 28
+1.24 Adaptações gerais de outras regras (COFI e Res. CVM 21) ................................................... 28
 
-1.25 Voto em assembleia por partes relacionadas ................................ ................................ .......... 29
+1.25 Voto em assembleia por partes relacionadas .......................................................................... 29
 
-1.27 Fundos Socioambientais ................................ ................................ ................................ ........ 30
+1.27 Fundos Socioambientais ........................................................................................................ 30
 
-1.28 Investimento por Fundos com limitação de responsabilidade ................................ ................ 32
+1.28 Investimento por Fundos com limitação de responsabilidade ................................................ 32
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -140,7 +140,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 A entrada em vigor da Resolução CVM 175 foi dividida em etapas, diante disso abaixo constam
 
-esclarecimentos com rela ção aos procedimentos de implementação e convivência entre fundos
+esclarecimentos com relação aos procedimentos de implementação e convivência entre fundos
 
 adaptados e não adaptados até que toda a resolução esteja em vigência.
 
@@ -150,7 +150,7 @@ da resolução, os fundos serão “automaticamente considerados como classe ún
 
 verdade, tem o objetivo de esclarecer a possibilidade de que qualquer fundo de investimento possa se
 
-adaptar, de imediato, à Resolução se pretender se manter como de classe única . De outro lado e a
+adaptar, de imediato, à Resolução se pretender se manter como de classe única. De outro lado e a
 
 contrariu sensu, os fundos que pretendam se valer do uso do instituto de múltiplas classes e subclasses
 
@@ -168,13 +168,13 @@ atualização prevista em decorrência das disposições da norma. Caso alguma a
 
 venha a ser necessária, o mercado será devidamente comunicado previamente por esta
 
-área técnica por meio de Ofício -Circular, por meio do qual será concedido devido
+área técnica por meio de Ofício-Circular, por meio do qual será concedido devido
 
 prazo para tanto.
 
 2. Neste caso, na primeira entrada em vigor da regra, o fundo deverá ter apenas CNPJ
 
-único para a classe e sua “casca”? A parti r da criação de novas classes ( 1º/4/2024),
+único para a classe e sua “casca”? A partir da criação de novas classes (1º/4/2024),
 
 além do CNPJ de uma eventual nova classe deverá ser gerado um novo CNPJ para a
 
@@ -188,7 +188,7 @@ gerado um novo CNPJ para o fundo, pois o CNPJ existente acompanhará a classe qu
 
 era única.
 
-3. Ainda na primeira ent rada em vigor da regra, tendo em vista que os fundos serão
+3. Ainda na primeira entrada em vigor da regra, tendo em vista que os fundos serão
 
 automaticamente considerados como classe única, nesse momento esses fundos
 
@@ -198,7 +198,7 @@ Resposta: Não. No entanto, quando os administradores optarem por adaptar os fun
 
 atuais à nova regulamentação (o que, no caso dos fundos que permanecerão como
 
-classe única, passará a ser possível já a partir da primeira vigência) , precisarão
+classe única, passará a ser possível já a partir da primeira vigência), precisarão
 
 elaborar, ao menos, regulamento e anexo para estes. Vale ressaltar também, que, em
 
@@ -220,19 +220,19 @@ decorrência da entrada em vigor da regra?
 
 Resposta: Os fundos em estoque deverão ser adaptados até 31/12/2024, com exceção
 
-dos FIDC (Anexo II ), que contam com prazo até 31/12/2023 . No processo de
+dos FIDC (Anexo II), que contam com prazo até 31/12/2023. No processo de
 
 adaptação, o atual regulamento deve ser substituído pelo novo regulamento, anexo
 
-(classe) e apêndice (subclasse). Na primeira entrada em vigor, o fundo ter á apenas
+(classe) e apêndice (subclasse). Na primeira entrada em vigor, o fundo terá apenas
 
-regulamento e anexo (que deverá compreender os temas típicos de apêndice ). P or
+regulamento e anexo (que deverá compreender os temas típicos de apêndice). Por
 
 outro lado, nada impede que do ponto de vista estritamente documental o regulamento
 
 e anexo já prevejam seção específica, inclusive denominado “apêndice”, contendo as
 
-informações que futuramente serão exigidas no apêndice imposto pela Res olução
+informações que futuramente serão exigidas no apêndice imposto pela Resolução
 
 quando da existência de subclasses. Cabe ressaltar, ainda, que os apêndices não se
 
@@ -246,11 +246,11 @@ da Instrução 356 ou 555, conforme o caso, até sua adaptação?
 
 Resposta: Os fundos seguem observando as regras da Instrução 356 ou 555. Assim, é
 
-certo que haverá nesse período convivência entre fundos novos ou os já ad aptados,
+certo que haverá nesse período convivência entre fundos novos ou os já adaptados,
 
 regidos pela Resolução, e fundos de estoque ainda regidos pela Instrução 356 ou 555. É
 
-premissa do processo de adaptação que um fundo de investimento ainda n ão adaptado à
+premissa do processo de adaptação que um fundo de investimento ainda não adaptado à
 
 Resolução invista em um fundo já em funcionamento sob a Resolução e vice-versa, desde
 
@@ -268,7 +268,7 @@ investimento) e as subclasses são arranjos para a organização dos passivos (c
 
 Já para os FIDC, as subclasses são diferenciadas entre subordinadas junior, mezanino e
 
-sênior e possuem regras específicas no Anexo Normativo II , complementadas pelo art.
+sênior e possuem regras específicas no Anexo Normativo II, complementadas pelo art.
 
 5º, § 5º, da parte geral.
 
@@ -294,7 +294,7 @@ Resposta: Sim. Quando da existência de subclasse, esta precisará disponibiliza
 
 tendo em vista que cada subclasse poderá ter suas próprias taxas e custos, como, por
 
-exemplo, taxa de administração, gestão e máxima de distribu ição, e assim, valores
+exemplo, taxa de administração, gestão e máxima de distribuição, e assim, valores
 
 diferentes de cota.
 
@@ -306,11 +306,11 @@ subclasse?
 
 Resposta: O enquadramento dos ativos da carteira será sempre observado no nível da
 
-classe do fundo. A classe do fundo abrigará os ativos investidos , e as subclasses , os
+classe do fundo. A classe do fundo abrigará os ativos investidos, e as subclasses, os
 
 cotistas. Apesar de não existir vedação expressa do vínculo do cotista diretamente à
 
-classe, espera -se que o cotista esteja reg istrado no nível da subclasse sempre que os
+classe, espera-se que o cotista esteja registrado no nível da subclasse sempre que os
 
 prestadores de serviço essenciais entenderem como necessária sua constituição para
 
@@ -342,11 +342,11 @@ variar ao longo do tempo.
 
 será constituída a identificação da subclasse?
 
-Resposta: O Cadastro Nacional de Pessoas Jurídicas (“ CNPJ”) permanecerá como o
+Resposta: O Cadastro Nacional de Pessoas Jurídicas (“CNPJ”) permanecerá como o
 
 principal identificador do fundo e das classes. Já as subclasses serão identificadas por um
 
-código concedido pela CVM quando de seu reg istro. A taxonomia do código para a
+código concedido pela CVM quando de seu registro. A taxonomia do código para a
 
 subclasse será composta por números sequenciais com dígito verificador ao final. Tanto
 
@@ -382,7 +382,7 @@ encaminhar periodicamente?
 
 Resposta: Todos os documentos do fundo devem continuar sendo enviados pelo
 
-administrador do ponto de vista operacional , sem prejuízo da responsabilid ade integral
+administrador do ponto de vista operacional, sem prejuízo da responsabilidade integral
 
 do respectivo prestador de serviço essencial pelo conteúdo do documento que estiver sob
 
@@ -414,7 +414,7 @@ líquido. Vale lembrar, nesse contexto, que as regras contábeis já existentes 
 
 de investimento (Instruções CVM nº 489, 516, 577 e 579) devem ser aplicadas e
 
-interpretadas de forma geral à contabilidade no âmbito das classes , especificamente no
+interpretadas de forma geral à contabilidade no âmbito das classes, especificamente no
 
 que se refere aos documentos obrigatórios devidos, e não do fundo.
 
@@ -424,7 +424,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-16. Como será a segregação dos informes periódicos que são apresentados à CVM ? Por
+16. Como será a segregação dos informes periódicos que são apresentados à CVM? Por
 
 exemplo, no caso do informe diário, CDA, perfil do fundo do Anexo Normativo I? A
 
@@ -562,7 +562,7 @@ celebração do respectivo contrato.
 
 ## Art. 98
 
-A classe de cotas que pos sa adquirir cotas de outros fundos de investimento deve
+A classe de cotas que possa adquirir cotas de outros fundos de investimento deve
 
 estabelecer em seu regulamento que suas taxas de administração e gestão compreendem as taxas
 
@@ -574,13 +574,13 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-§ 1º Para efeitos do disposto no caput, o regulamento pode estabelecer taxas máximas ,
+§ 1º Para efeitos do disposto no caput, o regulamento pode estabelecer taxas máximas,
 
 compreendendo as taxas dos fundos investidos, e taxas mínimas, que não incluam as taxas dos
 
 fundos investidos, caso em que qualquer canal ou material de divulgação que efetue comparação
 
-de qualquer natureza entre classes de cotas, deve referir -se, na com paração, apenas às taxas
+de qualquer natureza entre classes de cotas, deve referir-se, na comparação, apenas às taxas
 
 máximas, permitida a referência, em nota, às taxas mínimas e às taxas efetivas em outros
 
@@ -608,7 +608,7 @@ estabelecido em seu regulamento;
 
 (i). Sobre a previsão do Art. 98, §1º, a Resolução não menciona que tal previsão se refere
 
-aos fundos não destinados a investidores q ualificados, conforme redação equivalente na
+aos fundos não destinados a investidores qualificados, conforme redação equivalente na
 
 Instrução CVM 555 (§§ 4º e 5º do art. 85). Dessa forma, se ampliou o escopo da Instrução
 
@@ -636,19 +636,19 @@ de tais fundos exclusivos contenham previsão expressa com vedação de que seja
 
 de investimento por outros fundos de investimento não exclusivos.
 
-24. Ainda sobre a nova estrutu ra de taxas do fundo, o Art. 48, § 1º, XI da Resolução
+24. Ainda sobre a nova estrutura de taxas do fundo, o Art. 48, § 1º, XI da Resolução
 
 esclarece que as taxas de administração e gestão estão no rol de informações que
 
 devem ser incluídas na parte geral do regulamento, ou seja, na parte comum entre
 
-todas as classes e subclasses, e o § 2º dispõe que a taxa máxima de distribui ção deve
+todas as classes e subclasses, e o § 2º dispõe que a taxa máxima de distribuição deve
 
 estar no documento oficial da classe. Apesar disso, quando observado o Art. 5º; §5º;
 
 III, fica claro que as subclasses poderão ser diferenciadas, entre outros, justamente
 
-pelas taxas. Dessa forma, na melhor interpretação da norma, é possível enten der que
+pelas taxas. Dessa forma, na melhor interpretação da norma, é possível entender que
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -662,13 +662,13 @@ subclasse, conforme aplicável?
 
 Resposta: Sim. A correta interpretação do Art. 48, §1º, VII; e §2º, XI da Resolução é de
 
-que a descrição das taxas de administração , gestão e máxima de distribuição devem
+que a descrição das taxas de administração, gestão e máxima de distribuição devem
 
 constar dos anexos e/ou apêndices das classes e/ou subclasses, conforme aplicável.
 
 25. Na leitura do Art. 117 da Resolução, em conjunto como item 3.16 do Relatório de
 
-Audiência Pública da AP 08/20 (Encargos), o entendime nto obtido foi o de que o
+Audiência Pública da AP 08/20 (Encargos), o entendimento obtido foi o de que o
 
 pagamento dos encargos ficará sob responsabilidade do fundo (que, em tese, é apenas
 
@@ -688,19 +688,19 @@ observâncias adicionais a nível do fundo (contas correntes, auditoria)?
 
 Resposta: Entendemos que os pagamentos das taxas podem ser feitos diretamente pelas
 
-classes ou subclasses dos fu ndos. O caput do art. 117 da Resolução lista determinadas
+classes ou subclasses dos fundos. O caput do art. 117 da Resolução lista determinadas
 
 despesas como encargos dos fundos, prevendo expressamente a possibilidade de que
 
 sejam debitadas diretamente de suas classes de cotas.
 
-26. A possibilidade de pagamento diretamente pelas classes sem a ne cessidade de envio
+26. A possibilidade de pagamento diretamente pelas classes sem a necessidade de envio
 
 de recursos para os fundos, conforme mencionado no ponto acima, também eliminaria
 
 a necessidade dos demonstrativos contábeis a nível do fundo. Mesmo que seja exigido
 
-um conjunto reduzido de demonstrativos contábeis conforme previsto no A rt. 67 da
+um conjunto reduzido de demonstrativos contábeis conforme previsto no Art. 67 da
 
 Regra Geral e mencionado no item 3.16 do Relatório de Audiência Pública da AP
 
@@ -718,7 +718,7 @@ Ainda, o conjunto mais reduzido de demonstrativos contábeis no âmbito do fundo
 
 coerente com o fato de que a Resolução permitiu o rateio de despesas e contingências que
 
-sejam comuns às classes (art. 117, §1°, da Regra Geral) , sem qualquer prejuízo da
+sejam comuns às classes (art. 117, §1°, da Regra Geral), sem qualquer prejuízo da
 
 segregação patrimonial entre as classes. Assim, entendemos como necessário prever um
 
@@ -734,15 +734,15 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-estabelecidos com os prestad ores de serviço é possível o estabelecimento de
+estabelecidos com os prestadores de serviço é possível o estabelecimento de
 
 contratação diretamente pela classe de cotas?
 
 Resposta: Entendemos que a classe deve ser a contratante do prestador de serviço
 
-essencial, com a interveniência anuência do fundo, considerando que o serviço se rá
+essencial, com a interveniência anuência do fundo, considerando que o serviço será
 
-prestado em favor e benefício d e cada classe específica. Desta forma, o prestador de
+prestado em favor e benefício de cada classe específica. Desta forma, o prestador de
 
 serviço estará vinculado somente à determinada classe que o tenha contratado, somente
 
@@ -752,7 +752,7 @@ interveniência do fundo parece se justificar para fins operacionais, conferindo
 
 segurança jurídica à contratação. Essa dinâmica não prejudica a segregação patrimonial
 
-entre classes do mesmo fundo, nos termos do inciso III do art. 1. 368-D da Lei de
+entre classes do mesmo fundo, nos termos do inciso III do art. 1.368-D da Lei de
 
 Liberdade Econômica e Artigo 5º caput e parágrafo 2º da Parte Geral da Resolução.
 
@@ -764,13 +764,13 @@ benefício ou vantagem, direta ou indiretamente por meio de partes relacionadas,
 
 potencialmente prejudique a independência na tomada de decisão de investimento
 
-pelo fundo ”. Enquanto isso, a Resolução CVM 175 exclui a expressão “parte
+pelo fundo”. Enquanto isso, a Resolução CVM 175 exclui a expressão “parte
 
 relacionada”. Por qual motivo foi realizada tal exclusão?
 
 Resposta: Tratou-se de uma correção meramente redacional, sem modificação de
 
-conteúdo do comando . A redação anterior permitia, em tese, a leitura de que a
+conteúdo do comando. A redação anterior permitia, em tese, a leitura de que a
 
 remuneração “indireta” seria apenas aquela que ocorresse apenas por meio de partes
 
@@ -824,7 +824,7 @@ uma “nova” cota base da taxa de performance a ser incluída nos fundos inves
 
 o gestor do fundo investidor está autorizado a utilizar a mesma cota base do fundo
 
-investido, considerando inclusive os eventuais preju ízos acumulados do fundo
+investido, considerando inclusive os eventuais prejuízos acumulados do fundo
 
 investido?
 
@@ -850,9 +850,9 @@ máximo de dezembro de 2024?
 
 Resposta: Correto. As disposições da Instrução CVM 555 permanecem vigentes e
 
-aplicáveis, na íntegra, para tais fundos investidores até s ua adaptação à Resolução ,
+aplicáveis, na íntegra, para tais fundos investidores até sua adaptação à Resolução,
 
-momento em que tais estruturas de recebimento de rebates deve rão cessar ou se adaptar
+momento em que tais estruturas de recebimento de rebates deverão cessar ou se adaptar
 
 aos formatos previstos e permitidos pela nova regulamentação (como, por exemplo, por
 
@@ -864,15 +864,15 @@ Ressalte-se que do ponto de vista dos fundos investidos o pagamento de remunera�
 
 distribuidor que se enquadre como gestor do fundo investidor ou parte a ele relacionada
 
-ou o pagamento por alocação ao gestor do fundo investidor (“Recebe dor”) deverá
+ou o pagamento por alocação ao gestor do fundo investidor (“Recebedor”) deverá
 
-observar a Res olução, o que impossibilitaria o recebimento pelo Recebedor,
+observar a Resolução, o que impossibilitaria o recebimento pelo Recebedor,
 
 especialmente com relação à parcela da taxa de performance do fundo investido.
 
 Nesse sentido, em razão da necessidade de adaptação de toda a indústria de fundos à
 
-Resolução até final do prazo de adaptação à nova regra ( dezembro de 2024), a
+Resolução até final do prazo de adaptação à nova regra (dezembro de 2024), a
 
 continuidade do pagamento da remuneração com base tanto na parcela da taxa de gestão
 
@@ -890,7 +890,7 @@ Dessa forma, caberá ao Recebedor a responsabilidade por (i) garantir que o rece
 
 de tal remuneração ainda permanece possível e regular enquanto o fundo investidor
 
-estiver sob as disposições da ICVM 555; ou (ii) reverter tal r emuneração ao respectivo
+estiver sob as disposições da ICVM 555; ou (ii) reverter tal remuneração ao respectivo
 
 fundo investidor, considerando que se trataria de um benefício ou vantagem indevida.
 
@@ -938,7 +938,7 @@ as taxas eventualmente existentes entre fundos investidores e investidos se comp
 
 artificialmente, passando ao investidor uma percepção de custos diferentes da real. Ou
 
-seja, dizendo de outra forma que o “novo rebate” não po de reverter para os prestadores
+seja, dizendo de outra forma que o “novo rebate” não pode reverter para os prestadores
 
 de serviços. Considerando que na estrutura de fundos alocadores ativos não existe um
 
@@ -968,7 +968,7 @@ Resposta: De fato, as exceções anteriormente previstas que permitiam aos prest
 
 serviços de fundos investidores o recebimento de remuneração não estão mais autorizadas
 
-na norma. Mas o entendimento está correto quanto à forma de mudança: e sses ajustes
+na norma. Mas o entendimento está correto quanto à forma de mudança: esses ajustes
 
 podem ser realizados sem assembleia, pois não alteram o custo final para o investidor.
 
@@ -1028,9 +1028,9 @@ pelo Fundo.
 
 responsabilidade limitada dos cotistas representa um importante avanço da nossa
 
-indústria. Ao ler os Arts. 6 ° e 18 da Resolução CVM 175, em conjunto com o item
+indústria. Ao ler os Arts. 6° e 18 da Resolução CVM 175, em conjunto com o item
 
-3.3 do Relatório de Audiência Pública da AP 08/20 (Responsabilidade dos cotis tas),
+3.3 do Relatório de Audiência Pública da AP 08/20 (Responsabilidade dos cotistas),
 
 fica claro que a responsabilidade limitada do cotista será o padrão. Ou seja, tanto na
 
@@ -1050,7 +1050,7 @@ disponibilizados aos investidores. As informações deverão estar claras, segui
 
 todos os requisitos impostos pela nova regulamentação.
 
-Pensando especificamente na adaptação do estoque, que hoje por pa drão é de
+Pensando especificamente na adaptação do estoque, que hoje por padrão é de
 
 responsabilidade ilimitada, apesar do disposto no §1º do Art. 135 da Resolução:
 
@@ -1060,7 +1060,7 @@ responsabilidade ilimitada visto que, na prática, o fundo já funciona dessa
 
 forma; e
 
-2. Neste m esmo sentido, a assinatura do Suplemento A (termo de ciência e
+2. Neste mesmo sentido, a assinatura do Suplemento A (termo de ciência e
 
 assunção de responsabilidade ilimitada) dos cotistas que entraram no fundo
 
@@ -1104,7 +1104,7 @@ Considerando casos como este, que são novas obrigações decorrentes da necessi
 
 de atendimento à nova regra, o entendimento é que apesar do disposto no § 1º do Art.
 
-135 da Resolução , será passível a utilização da prerrogativa do Art. 52 , I, da
+135 da Resolução, será passível a utilização da prerrogativa do Art. 52, I, da
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1118,7 +1118,7 @@ ser implementada nos fundos do estoque por ato do administrador.
 
 Por fim, tendo em vista que as exceções de recebimento de remuneração pelos
 
-prestadores de serviços do fundo investidor nos termos da I nstrução CVM 555, Art.
+prestadores de serviços do fundo investidor nos termos da Instrução CVM 555, Art.
 
 92, § 3º, não foram contempladas na nova norma, é cabível que o ajuste das taxas dos
 
@@ -1130,15 +1130,17 @@ Resposta: Sim, é desnecessária a assembleia em qualquer caso em que, por forç
 
 exercício de adaptação, o regulamento passe a dispor de novos temas não previstos antes,
 
-como no caso das “ responsabilidades, bem como os parâmetros de sua aferição, dos
+como no caso das “responsabilidades, bem como os parâmetros de sua aferição, dos
 
-prestadores de serviço, perante o fundo e entre si”.
+prestadores de serviço, perante o fundo e entre si”
+
+.
 
 A lista de encargos do fundo é outro tema que não depende de assembleia para adequações
 
 de regulamentos, pois o regulamento nesse mister apenas repete o que é admitido pela
 
-regulamentação, e tais hipóteses admitidas foram ampliadas, servindo as alter ações de
+regulamentação, e tais hipóteses admitidas foram ampliadas, servindo as alterações de
 
 regulamento nesse assunto como um mero esforço de adequação do documento à
 
@@ -1146,7 +1148,7 @@ regulamentação atual.
 
 Já o ajuste das taxas de fundos investidores para adaptação à vedação do rebate e reversão
 
-dos acordos de remuneração em favor do fundo também está di spensada de assembleia,
+dos acordos de remuneração em favor do fundo também está dispensada de assembleia,
 
 por não envolver majoração das taxas cobradas dos investidores finais, mas apenas um
 
@@ -1158,13 +1160,13 @@ que podem vir a ser reduzidas.
 
 Outras situações que podemos exemplificar como passíveis de alteração sem assembleia
 
-são (1) a i nclusão da previsão de qu e o fundo terá uma única classe, quando de sua
+são (1) a inclusão da previsão de que o fundo terá uma única classe, quando de sua
 
-adaptação à Resolução, (2) a transformação de fundos feeders em subclasses , (3)
+adaptação à Resolução, (2) a transformação de fundos feeders em subclasses, (3)
 
 adequações às exigências da regulamentação ESG para fundos que sejam dedicados a tais
 
-estratégias e já observem o disposto na autorregulação aplicável, (4) f orma de
+estratégias e já observem o disposto na autorregulação aplicável, (4) forma de
 
 comunicação que será utilizada pelo administrador, em conformidade com o disposto no
 
@@ -1172,15 +1174,15 @@ art. 12, inclusive a inclusão de redação nos termos do § 3º, I, do referido
 
 São, ainda, outros exemplos de assuntos que não dependem de aprovação em assembleia,
 
-por se tratarem de exigências regulamenta res antes não existentes: (1) i nclusão de taxas
+por se tratarem de exigências regulamentares antes não existentes: (1) inclusão de taxas
 
 de administração e gestão máximas, (2) no caso de classes com responsabilidade limitada
 
 dos cotistas, inclusão da previsão dos eventos previstos no Art. 122 relacionados à
 
-verificação pelo administrador do pa trimônio líquido negativ o e procedimento de
+verificação pelo administrador do patrimônio líquido negativo e procedimento de
 
-insolvência, (3) a justes redacionais decorrentes das novas previsões sobre liquidação e
+insolvência, (3) ajustes redacionais decorrentes das novas previsões sobre liquidação e
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1204,7 +1206,7 @@ com o novo conceito disposto na Resolução, ou (8) disposições adaptadas sobr
 
 estrutura de fundo, classes e subclasses, quando aplicáveis, inclusive a adequação da lista
 
-de prestadores de serviços nos documentos ou a realização de assembleia s gerais ou
+de prestadores de serviços nos documentos ou a realização de assembleias gerais ou
 
 especiais, como agora previstas na regulamentação.
 
@@ -1242,7 +1244,7 @@ Resposta: Não. Uma regra não tem relação com a outra. O gestor passou sim a 
 
 responsável pela contratação dos distribuidores, o que no caso concreto significa contratar
 
-a instituição intermediária que terá o AAI como seu p reposto. Ou seja, continua como
+a instituição intermediária que terá o AAI como seu preposto. Ou seja, continua como
 
 previsto na Res. CVM nº 21.
 
@@ -1250,13 +1252,13 @@ previsto na Res. CVM nº 21.
 
 se a intenção do regulador era dispor que o gestor teria a obrigação de contratar os
 
-serviços previstos nos inc isos III, IV e V se houvesse previsão no regulamento
+serviços previstos nos incisos III, IV e V se houvesse previsão no regulamento
 
 (obrigação), podendo realizar a referida contratação por sua decisão caso não
 
 houvesse previsão nos documentos da classe (faculdade). Em ambos os casos
 
-(obrigação ou faculdade), as despesas com a contrat ação poderiam ser debitadas da
+(obrigação ou faculdade), as despesas com a contratação poderiam ser debitadas da
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1276,7 +1278,7 @@ sem que conste dos documentos da classe. Gostaríamos que a CVM esclarecesse a
 
 melhor interpretação para o referido dispositivo.
 
-Resposta: A princípio , a contratação daqueles serviços é sempre uma faculdade do
+Resposta: A princípio, a contratação daqueles serviços é sempre uma faculdade do
 
 gestor. Mas, se houver previsão nos documentos do fundo para essas contratações,
 
@@ -1288,7 +1290,7 @@ contratar advogados para defender os interesses do fundo, nos parece em linha co
 
 objetivo de equalizar e segregar adequadamente as responsabilidades dos prestadores
 
-essenciais, então parece fazer sentido que o gestor tam bém possa contratar tal
+essenciais, então parece fazer sentido que o gestor também possa contratar tal
 
 prestador de serviço em nome do fundo em assuntos relativos à carteira, podendo,
 
@@ -1300,9 +1302,9 @@ Resposta: Sim. Qualquer um dos prestadores de serviço essenciais pode contratar
 
 prestadores de serviço do fundo sempre que a norma não definir expressamente um ou
 
-outro como responsável por tanto . A CVM espera, nesses casos, que a contratação seja
+outro como responsável por tanto. A CVM espera, nesses casos, que a contratação seja
 
-feita por aquele a quem couber fazê -lo em linha com suas atribuições, como bem
+feita por aquele a quem couber fazê-lo em linha com suas atribuições, como bem
 
 exemplificado na pergunta.
 
@@ -1314,13 +1316,13 @@ informações sobre os seus registros na CVM. Tendo em vista a estrutura adotada
 
 nova regra, deveriam constar obrigatoriamente apenas informações dos prestadores
 
-de serviço essenciais nos documentos societários do Fundo (a saber, Regulamento) .
+de serviço essenciais nos documentos societários do Fundo (a saber, Regulamento).
 
 Desta forma, a identificação e qualificação dos demais prestadores de serviços do
 
 Fundo de caráter perene (quais sejam, custodiante, escriturador, distribuidores,
 
-consultores e auditores) deverão esta r disponíveis nos websites dos respectivos
+consultores e auditores) deverão estar disponíveis nos websites dos respectivos
 
 prestadores de serviços essenciais que venham a contratá-los ou no website do fundo,
 
@@ -1328,7 +1330,7 @@ se houver.
 
 Resposta: A interpretação acima está correta e será admitida por esta CVM. Nada
 
-impede, por outro lado, que a identi ficação de tais prestadores contratados pelos
+impede, por outro lado, que a identificação de tais prestadores contratados pelos
 
 prestadores essenciais seja incluída no regulamento, anexo ou apêndice, conforme o caso,
 
@@ -1362,7 +1364,7 @@ contrato de prestação de serviço específico estaria dispensada ou ainda assi
 
 necessário formalizar em contrato?
 
-Resposta: Sim, é necessário, mas não necessariamente um “contrato”, dada a n atureza
+Resposta: Sim, é necessário, mas não necessariamente um “contrato”, dada a natureza
 
 do relacionamento entre ambos. Pode ser um capítulo próprio e à parte no acordo
 
@@ -1398,7 +1400,7 @@ assessor legar para fornecer suporte na tomada de decisão de uma operação ou 
 
 prestadores de serviços que atuem em serviços acessórios ao gestor para recuperação
 
-de créditos de ativos provisionados ou em default para o s casos de FIF. Nessas duas
+de créditos de ativos provisionados ou em default para os casos de FIF. Nessas duas
 
 situações o fundo poderia pagar diretamente tal despesa?
 
@@ -1436,7 +1438,7 @@ por força de deliberação da assembleia de cotistas.
 
 suas funções até sua efetiva substituição, que deve ocorrer no prazo máximo de:
 
-I – 90 (noventa) dias, contados a partir da renúncia, par a os fundos de investimento
+I – 90 (noventa) dias, contados a partir da renúncia, para os fundos de investimento
 
 financeiro disciplinados no Anexo Normativo A e fundos mútuos de privatização – FGTS
 
@@ -1464,7 +1466,7 @@ motivação para o dispositivo não ter abarcado também o gestor.
 
 Resposta: A escolha regulatória da CVM foi a de estabelecer o administrador como o
 
-ponto central e estável de condução desse processo de pré -insolvência, considerando,
+ponto central e estável de condução desse processo de pré-insolvência, considerando,
 
 inclusive, seu papel de maior independência e equidistância em relação aos agentes que
 
@@ -1478,13 +1480,15 @@ possível prever no regulamento do fundo que o administrador não cobra remunera
 
 pela distribuição? (situações como fundos exclusivos - em que não há esforço de
 
-distribuição -, fundos geridos pelo próprio cotista - EFPC, EAPC, por exemplo -,
+distribuição -, fundos geridos pelo próprio cotista - EFPC, EAPC, por exemplo -
+
+,
 
 fundos de instituições financeiras - todos os players fazem parte do conglomerado,
 
 inclusive a rede de atendimento como agências -, entre outros.
 
-Resposta: Não. Sempre que uma instit uição qualquer acumular mais de um serviço em
+Resposta: Não. Sempre que uma instituição qualquer acumular mais de um serviço em
 
 nome do fundo, ele deverá calcular, com base em critério consistente e passível de
 
@@ -1586,7 +1590,7 @@ cotas à propriedade do investidor cujas cotas foram resgatadas ou amortizadas.
 
 O regulamento da classe de cotas restrita pode:
 
-I – Admitir a utilização de ativos financ eiros na integralização e resgate de cotas, com o
+I – Admitir a utilização de ativos financeiros na integralização e resgate de cotas, com o
 
 estabelecimento de critérios detalhados e precisos para adoção desses procedimentos.
 
@@ -1598,9 +1602,9 @@ ou ela é extensível à classe destinada ao público geral, em razão da redaç
 
 do artigo 16, incisos VIII e IX?
 
-Resposta: Dado o novo regime criado pela Resolução , o entendimento é que tal
+Resposta: Dado o novo regime criado pela Resolução, o entendimento é que tal
 
-hipótese é possível apenas em relação a cla sses exclusivas, assim entendida s nos
+hipótese é possível apenas em relação a classes exclusivas, assim entendidas nos
 
 termos em que a Resolução as define. Em outras palavras, cada uma das previsões
 
@@ -1632,7 +1636,7 @@ em questão; e (IV) as cotas da classe não sejam mais ofertadas publicamente.
 
 Os requisitos de fato foram pensados para serem cumpridos de maneira cumulativa,
 
-ou cumprindo um dos requisitos já seria possíve l eventual dispensa de liquidação ou
+ou cumprindo um dos requisitos já seria possível eventual dispensa de liquidação ou
 
 incorporação da classe?
 
@@ -1660,13 +1664,13 @@ serviço essenciais não conseguem liquidar o fundo por questões práticas (ex.
 
 a receber), e que sempre representarão valores bem pequenos. A aprovação dos cotistas
 
-tem, então, o objetivo de garantir que eles estão cientes da impo ssibilidade de liquidar o
+tem, então, o objetivo de garantir que eles estão cientes da impossibilidade de liquidar o
 
 fundo. Assim, é importante ressaltar que essa norma apenas reflete o exato teor de
 
 Deliberação CVM anterior que disciplinava o tema.
 
-56. Ainda, a ICVM 555 considera patrimônio líqu ido médio diário, e a nova regra cita
+56. Ainda, a ICVM 555 considera patrimônio líquido médio diário, e a nova regra cita
 
 patrimônio líquido diário. Neste caso há de fato uma mudança proposital (exclusão
 
@@ -1724,7 +1728,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 de todas as classes do fundo. Já as classes dos fundos devem contar com demonstrações
 
-contábeis completas, observand o as regras específicas editadas pela CVM, conforme a
+contábeis completas, observando as regras específicas editadas pela CVM, conforme a
 
 categoria do fundo de investimento. A seção III, referente às “Demonstrações Contábeis
 
@@ -1736,7 +1740,7 @@ precisam mais de registro em cartório. Sendo assim, em quais locais devem ser
 
 registrados os livros contábeis do fundo e das classes?
 
-Resposta: Na verdade, a Lei de Liberdade Econômica dispensa o registro em cartóri o
+Resposta: Na verdade, a Lei de Liberdade Econômica dispensa o registro em cartório
 
 apenas dos regulamentos do fundo (e, por inferência, dos anexos das classes e apêndices
 
@@ -1752,7 +1756,7 @@ liderança da Superintendência de Normas Contábeis e de Auditoria (“SNC”).
 
 1.17 Comunicação com os cotistas
 
-62. O regulamento que contiver a previsão de meio eletrônico de co municação/envio de
+62. O regulamento que contiver a previsão de meio eletrônico de comunicação/envio de
 
 correspondências aos cotistas e o cotista não informar em seu cadastro o endereço de
 
@@ -1774,7 +1778,7 @@ inclusão de vedação expressa ao uso indevido de informações privilegiadas e
 
 negociações de cotas de fundo de investimento imobiliário.
 
-Ao trazer o tema de maneira ampla para a Resolução da ICVM 175, as regr as acabam
+Ao trazer o tema de maneira ampla para a Resolução da ICVM 175, as regras acabam
 
 englobando não somente os FIIs, mas todas as classes, sejam elas abertas, fechadas,
 
@@ -1808,7 +1812,7 @@ Poderiam confirmar que tais regras abrangem somente as classes constituídas com
 
 condomínio fechado e com cotas negociadas?
 
-Resposta: Correto. Conforme racional do Relatório de Audiência Pú blica, a expansão dessa
+Resposta: Correto. Conforme racional do Relatório de Audiência Pública, a expansão dessa
 
 regra para outros fundos, que inicialmente foi discutida para os fundos imobiliários, derivou
 
@@ -1816,13 +1820,13 @@ de uma constatação de que essa abordagem regulatória se aplicaria a uma categ
 
 ampla, para além dos FIIs fechados. Como já existem FIP e Fiagro listados no mercado
 
-secundário, a CVM entendeu que fa ria sentido ampliar esses dispositivos para todas as
+secundário, a CVM entendeu que faria sentido ampliar esses dispositivos para todas as
 
 categorias de fundos fechados.
 
 1.19 Suplemento A: termo de ciência e assunção de responsabilidade ilimitada
 
-64. Conforme previsto no Art. 29 ; §3º da Resolução “caso o regulamento do fundo não
+64. Conforme previsto no Art. 29; §3º da Resolução “caso o regulamento do fundo não
 
 limite a responsabilidade do cotista ao valor por ele subscritos, o cotista deve atestar
 
@@ -1860,7 +1864,7 @@ ordem de clientes devem estar autorizados a prestar os serviços de escrituraç�
 
 valores mobiliários, nos termos de norma específica, ou providenciar o depósito das
 
-cotas em central depos itária de valores mobiliários ou seu registro em entidade
+cotas em central depositária de valores mobiliários ou seu registro em entidade
 
 administradora de mercado organizado, de modo a possibilitar a identificação do
 
@@ -1890,7 +1894,7 @@ distribua apenas cotas de fundos ainda não adaptados à Resolução.
 
 66. É correto o entendimento de que apesar das disposições do artigo 37 que trazem
 
-obrigações para o administrador, a re sponsabilidade integral pelo cumprimento das
+obrigações para o administrador, a responsabilidade integral pelo cumprimento das
 
 obrigações do distribuidor permanece com o gestor?
 
@@ -1898,9 +1902,9 @@ Resposta: Sim.
 
 67. Sobre a Participação Política de Investidor por Conta e Ordem, o Art. 38; §1 da
 
-Resolução discorre sobre o mandato do distribuidor para votar no s interesses dos
+Resolução discorre sobre o mandato do distribuidor para votar nos interesses dos
 
-cotistas. Aqui trata -se do distribuidor votar em nome dos cotistas de acordo com a
+cotistas. Aqui trata-se do distribuidor votar em nome dos cotistas de acordo com a
 
 manifestação de voto indicada por estes, correto?
 
@@ -1964,7 +1968,7 @@ fato do questionamento ser enviado a um dos prestadores de serviço não signifi
 
 busca a imputação de responsabilidades àquele prestador de serviços em específico.
 
-Muitas vezes o admin istrador pode ser questionado sobre assuntos de responsabilidade
+Muitas vezes o administrador pode ser questionado sobre assuntos de responsabilidade
 
 do gestor por se encontrar em posição privilegiada de conhecimento do caso e gozar de
 
@@ -1978,7 +1982,7 @@ atualizada e em perfeita ordem, às suas expensas, a documentação relativa às
 
 operações dos fundos.
 
-Adicionalmente, o Art. 87 da Resolução p revê que o gestor deve encaminhar ao
+Adicionalmente, o Art. 87 da Resolução prevê que o gestor deve encaminhar ao
 
 administrador, nos 5 dias úteis subsequentes à sua assinatura, uma cópia de cada
 
@@ -2016,7 +2020,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 73. O Art. 120 da Resolução incluiu a transferência de administração dentro dos eventos
 
-que requerem a el aboração das demonstrações contábeis, a ser realizada no prazo
+que requerem a elaboração das demonstrações contábeis, a ser realizada no prazo
 
 máximo de 90 (noventa) dias, contado da data da efetivação do evento, por auditor
 
@@ -2024,13 +2028,13 @@ independente.
 
 Nesse contexto, vale observar que o prazo de 90 dias pode ficar curto para o novo
 
-administrador f inalizar a demonstração financeira auditada do próximo exercício
+administrador finalizar a demonstração financeira auditada do próximo exercício
 
 social, uma vez que o prazo é o mesmo (90 dias). Por exemplo: se um fundo for
 
 transferido 1 dia antes do encerramento do exercício social, o novo administrador terá
 
-somente 1 dia para finaliz ar a demonstração financeira do exercício social. Nesse
+somente 1 dia para finalizar a demonstração financeira do exercício social. Nesse
 
 sentido, seria recomendável evitar a transferência no período de 1 mês/15 dias até o
 
@@ -2040,7 +2044,7 @@ fim do exercício social, uma vez que reduzir o prazo de finalização de 90 dia
 
 Resposta: Naturalmente, a data do encerramento do exercício social do fundo é variável
 
-conhecida das partes , e deve ser levada em consideração quando da estipulação da
+conhecida das partes, e deve ser levada em consideração quando da estipulação da
 
 transferência e de seu cronograma, de forma a evitar o dilema relatado.
 
@@ -2048,9 +2052,9 @@ transferência e de seu cronograma, de forma a evitar o dilema relatado.
 
 do prestador de serviço responsável pelo serviço de tesouraria, controle e
 
-processamento dos ativos (inciso I do art. 83) e controlador ia do passivo conforme
+processamento dos ativos (inciso I do art. 83) e controladoria do passivo conforme
 
-Código de Serviços Qualificados da ANBIMA , é possível dispensar a auditoria de
+Código de Serviços Qualificados da ANBIMA, é possível dispensar a auditoria de
 
 transferência sendo o evento explicado através de notas explicativas na próxima
 
@@ -2100,7 +2104,7 @@ nº 577.
 
 trazidas na Resolução CVM 175?
 
-Resposta: Sim, para ambas as perguntas , o que dependerá, respectivamente, de
+Resposta: Sim, para ambas as perguntas, o que dependerá, respectivamente, de
 
 priorizações desses projetos normativos na SNC e na superintendência de
 
@@ -2108,7 +2112,7 @@ desenvolvimento de mercado (“SDM”).
 
 1.25 Voto em assembleia por partes relacionadas
 
-77. As assembleias passarão a ser eletrôn icas, como regra. De toda forma, com base na
+77. As assembleias passarão a ser eletrônicas, como regra. De toda forma, com base na
 
 nova regulamentação, seria possível realizar uma assembleia 100% presencial?
 
@@ -2130,15 +2134,15 @@ Resposta: Segundo o artigo 76 da Resolução, o regulamento do fundo pode estabe
 
 quórum qualificado para as deliberações das assembleias dos cotistas, observadas as
 
-regras específicas a cada categoria de fundo , pois essas poderão impor quóruns
+regras específicas a cada categoria de fundo, pois essas poderão impor quóruns
 
-qualificados não sujeitos a reduções , como ocorre com os fundos de inv estimento
+qualificados não sujeitos a reduções, como ocorre com os fundos de investimento
 
 imobiliários, por exemplo.
 
 1.26 Definição de classe restrita e fundo exclusivo
 
-79. O Art. 111 da Resolução diz que “Considera -se “Restrita” a classe ou subclasse
+79. O Art. 111 da Resolução diz que “Considera-se “Restrita” a classe ou subclasse
 
 exclusivamente destinada a aplicação de recursos de investidores qualificados e
 
@@ -2176,25 +2180,25 @@ geram benefícios ASG como aqueles que somente integram fatores ASG à atividade
 
 de gestão. Algumas dúvidas surgiram com relação aos conceitos estabelecidos de
 
-“benefícios ambie ntais, sociais ou de governança” assim como “benefícios
+“benefícios ambientais, sociais ou de governança” assim como “benefícios
 
 socioambientais”. (i) Seria possível a CVM fornecer alguns exemplos para o melhor
 
 entendimento do mercado? (ii) A definição será feita por cada gestora de acordo com
 
-o inciso II do artigo 49? Além dis so, geração de benefício socioambiental é uma
+o inciso II do artigo 49? Além disso, geração de benefício socioambiental é uma
 
 linguagem próxima a que fundos de impacto usam. (iii) A intenção da CVM é de
 
 abarcar somente esse tipo de fundo quando traz este termo ou podemos considerar
 
-que aqui os fundos abrangidos são aqueles abarcados p ela autorregulação da
+que aqui os fundos abrangidos são aqueles abarcados pela autorregulação da
 
 ANBIMA?
 
 Com relação ao inciso III do art. 49 que menciona a entidade responsável por certificar
 
-ou emitir parecer de segunda opinião, solicitou -se explicitar com mais detalhes que
+ou emitir parecer de segunda opinião, solicitou-se explicitar com mais detalhes que
 
 tipo de qualificação é esperada caso esta seja contratada. Já com relação ao inciso IV
 
@@ -2206,7 +2210,7 @@ Resposta: A intenção da regulação não foi a de limitar os fundos socioambie
 
 aos fundos de impacto.
 
-De toda forma reconhecemos que o dispositivo inovou , na Resolução, ao dispor sobre a
+De toda forma reconhecemos que o dispositivo inovou, na Resolução, ao dispor sobre a
 
 possibilidade de instituição de fundos de investimento que façam “referência a fatores
 
@@ -2222,7 +2226,7 @@ oportunidades de investimento analisadas, aos quais é vedado o uso de denomina�
 
 como “ESG”, “ASG”, dentre outros; e os que efetivamente busquem originar benefícios
 
-dessa natureza, aos quais se atribuiu a prerrogativa de utilização de deno minação dessa
+dessa natureza, aos quais se atribuiu a prerrogativa de utilização de denominação dessa
 
 natureza. Essa regulamentação foi inspirada na Sustainable Finance Dislocusre
 
@@ -2234,7 +2238,7 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-de convergência sobre o tema, em tudo aquilo no que for possível, embora sempr e
+de convergência sobre o tema, em tudo aquilo no que for possível, embora sempre
 
 respeitadas as particularidades do mercado brasileiro.
 
@@ -2242,13 +2246,13 @@ Vale ressaltar, nesse contexto, que para os fundos que busquem originar esses be
 
 e assim contenham denominação específica, a certificação ou parecer previsto no artigo
 
-49, III, não é obrigató ria, tampouco que eles sejam independentes do fundo ou seus
+49, III, não é obrigatória, tampouco que eles sejam independentes do fundo ou seus
 
 prestadores de serviço. Na verdade, o dispositivo tem escopo informacional, na medida
 
 em que exige a qualificação da entidade responsável pela certificação ou parecer, mas
 
-apenas “se houver”; e ta mbém a informação sobre sua independência em relação ao
+apenas “se houver”; e também a informação sobre sua independência em relação ao
 
 fundo, ou seja, apenas expondo em cada caso se ele é independente ou não e em que
 
@@ -2268,7 +2272,7 @@ no âmbito de sua autorregulação, já que prevê conceito congênere em suas n
 
 através das regras de autorregulação já existentes no documento de Regras e
 
-Procedimentos da ANBIMA para a identificaç ão de fundos de investimento
+Procedimentos da ANBIMA para a identificação de fundos de investimento
 
 sustentável?
 
@@ -2286,13 +2290,13 @@ que podem variar a depender do tipo de fundo, inclusive.
 
 incluindo a palavra “verde”. Fundos exclusivos, com objetivo não sustentável que
 
-utilizem a palavra verde ou o utras que contenha referência a fatores ambientais,
+utilizem a palavra verde ou outras que contenha referência a fatores ambientais,
 
-sociais e de governança , mas que façam referência à uma localização ou outros
+sociais e de governança, mas que façam referência à uma localização ou outros
 
 significados que não remetam a fatores ambientais, poderão ser dispensados de
 
-observar a regra quando incluindo em seu regulam ento que não é um fundo que
+observar a regra quando incluindo em seu regulamento que não é um fundo que
 
 integra fatores sustentáveis ou ESG?
 

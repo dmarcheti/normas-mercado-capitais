@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/ocsse0423.pdf
 sha256_fonte: 36bc9535d4282008c2dfaafd8d6b804459f795767763e055556786bb1c2a9b9b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 1/9
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21)
 
@@ -78,11 +76,9 @@ termos do regime previsto pela Resolução CVM nº 88/2022.
 
 Resolução CVM nº 88/2022, que a página da plataforma na rede mundial de
 
-computadores que fizer referência à oferta de tokens e os materiais publicitários para
+computadores que fizer referência à oferta de tokens e os materiais publicitários parahttps://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 1/9
 
 04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
-
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 2/9
 
 sua promoção devem conter as informações específicas sobre os tokens, conforme
 
@@ -160,9 +156,9 @@ valores mobiliários.
 
 II. Tokens referenciados a recebíveis, tokens de renda fixa ou TR
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 2/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 3/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 7. No âmbito das atividades de supervisão da SSE, foram detectadas
 
@@ -248,9 +244,9 @@ inspiração no Teste de Howey, para decidir se determinado título ou contrato 
 
 natureza jurídica de valor mobiliário:
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 3/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 4/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 “(i) Investimento: aporte em dinheiro ou bem suscetível de avaliação
 
@@ -340,9 +336,9 @@ já pacificado e cristalino nas Leis nº 6.404/76, 6.385/76 e na Resolução CVM
 
 160/22, bem como no PO 40.
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 4/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 5/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 21. Resta, portanto, a avaliação do requisito (v), que exige que o benefício
 
@@ -432,9 +428,9 @@ para pulverizar o risco de atividade por meio da oferta de oportunidades de
 
 investimento, nos termos expostos acima.
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 5/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 6/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 29. A esse respeito, frisamos que, ainda que haja cessão direta da
 
@@ -462,15 +458,17 @@ valor mobiliário estará caracterizada sempre que a expectativa de benefício e
 
 advier do esforço realizado pelo empreendedor ou terceiro, por exemplo, cedente,
 
-originador, “exchange”, consultoria ou outro estruturador, presentes os demais
+originador,
+
+“exchange”, consultoria ou outro estruturador, presentes os demais
 
 requisitos do Teste de Howey, ou sempre que houver equiparação de fato à essência
 
 econômica da securitização.
 
-III. Possibilidade da utilização da Resolução CVM nº 88/22 para a realização de
+III. ofertas de TR
 
-ofertas de TR
+Possibilidade da utilização da Resolução CVM nº 88/22 para a realização de
 
 32. A SSE compreende os desafios operacionais para o registro da oferta de
 
@@ -518,9 +516,9 @@ securitizadora emissora do título de securitização.
 
 que trata o art. 26 da Lei nº 14.430/22, esta SSE entende que o patrimônio separado
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 6/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 7/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 instituído pode ser considerado o emissor para fins de atendimento dos limites de
 
@@ -572,7 +570,7 @@ de securitização previsto na regulamentação em vigor.
 
 do termo de securitização deve estar registrado na rede DLT, identificando cada token.
 
-IV. Escrituração - Capítulo IV da Resolução CVM nº 88/2022.
+IV . Escrituração - Capítulo IV da Resolução CVM nº 88/2022.
 
 43. Ressalta-se a obrigatoriedade de que a sociedade empresária de pequeno
 
@@ -600,11 +598,11 @@ registros na rede blockchain, desde que seja possível controlar e comprovar a
 
 titularidade e a existência de transações.
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 7/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 8/9
+04/04/2023, 11:04 V . Depósito
 
-V. Depósito
+SEI/CVM - 1741426 - Ofício-Circular
 
 46. A SSE observa que a exceção à necessidade de depósito de valores
 
@@ -618,7 +616,7 @@ emitidos por companhias securitizadoras.
 
 plataformas de Crowdfunding não precisam ser levados a depósito, conforme exceção
 
-do art. 4º, parágrafo único, inciso IV, da Resolução CVM nº 31/2021 c/c as disposições
+do art. 4º, parágrafo único, inciso IV , da Resolução CVM nº 31/2021 c/c as disposições
 
 do Capítulo IV da Resolução CVM nº 88/2022, considerando a competência da CVM
 
@@ -664,9 +662,9 @@ Luís Lobianco
 
 Gerente de Supervisão de Securitização - GSEC-2
 
-04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 8/9
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis… 9/9
+04/04/2023, 11:04 SEI/CVM - 1741426 - Ofício-Circular
 
 Documento assinado eletronicamente por Luis Lobianco, Gerente, em
 
@@ -682,14 +680,24 @@ fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador
 
 1741426 e o código CRC 0D671FC6.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador"
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador"
 
 1741426 and the "Código CRC" 0D671FC6.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1741426
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1834402&infra_sis... 9/9

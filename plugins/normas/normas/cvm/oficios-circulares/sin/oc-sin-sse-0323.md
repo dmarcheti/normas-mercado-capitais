@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-sse-0323.pdf
 sha256_fonte: 16178b0b0acaaa68b8b514703091ae7227f1dd9a02394ad6fce632650e56921b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -40,7 +40,7 @@ Este Ofício Circular tem como objetivo divulgar interpretação complementar da
 
 supervisão de investidores institucionais (“SIN”) e superintendência de securitização e agronegócio
 
-(“SSE”) sobre teor do item 1.9 Ofício-Circu lar-Conjunto nº 2/2023/CV M/SIN/SSE, de 27 de
+(“SSE”) sobre teor do item 1.9 Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE, de 27 de
 
 setembro de 2023.
 
@@ -60,7 +60,7 @@ de abril de 2024.
 
 Na interpretação das áreas técnicas, deve ser interpretado como “em funcionamento”, para os efeitos
 
-desse dispositivo, aqueles fundos que estejam efetivam ente funcionando em 2/10/2023, ou seja, já com
+desse dispositivo, aqueles fundos que estejam efetivamente funcionando em 2/10/2023, ou seja, já com
 
 recursos aportados e em operação normal. Assim, fundos que se registrem na CVM antes da data de
 
@@ -72,7 +72,7 @@ captar recursos e iniciar suas operações de 2/10/2023 em diante se já estiver
 
 de Alteração (“IPA”).
 
-Após a divulgação do referido entendimento, as áreas técnicas receberam c onsultas a respeito de
+Após a divulgação do referido entendimento, as áreas técnicas receberam consultas a respeito de
 
 fundos de investimento que se encontravam em processo de colocação pública de suas cotas (“Oferta
 

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-sse-0222.pdf
 sha256_fonte: 59ed9a3e5a7dda30889d0601503b1084a98ade795a4652acf22e59472728f76b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -42,7 +42,9 @@ de títulos e valores mobiliários de que trata a Lei nº 7.940/1989.
 
 respeito da interpretação da Lei 14.317/22, bem como as orientações publicadas por esta
 
-Autarquia em sua página na rede mundial de computadores a esse respeito1, editamos o
+Autarquia em sua página na rede mundial de computadores a esse respeito1
+
+, editamos o
 
 presente Ofício‐Circular com o objetivo de consolidar o entendimento desta Superintendência a
 
@@ -64,7 +66,9 @@ II) Contribuintes das Taxas CVM
 
 3. Os contribuintes das Taxas CVM são as pessoas naturais e jurídicas mencionadas no art. 3º da
 
-Lei 7.940/892, alterada pela Lei nº 14.317/2022.
+Lei 7.940/892
+
+, alterada pela Lei nº 14.317/2022.
 
 1 https://www.gov.br/cvm/pt‐br/assuntos/regulados/taxa‐de‐fiscalizacao/perguntas‐frequentes.
 
@@ -104,13 +108,13 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-4. Cumpre relembrar que, nos termos do Código Civ il, conforme alterado pela Lei da Liberdade
+4. Cumpre relembrar que, nos termos do Código Civil, conforme alterado pela Lei da Liberdade
 
 Econômica3, os contribuintes da Taxa de Fiscalização são os fundos de investimento, e não seus
 
 respectivos prestadores de serviço, que não respondem por essas obrigações.
 
-III) Situações, Periodicidades e Condiçõ es para o recolhimento das Taxa
+III) Situações, Periodicidades e Condições para o recolhimento das Taxa
 
 CVM
 
@@ -202,7 +206,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 6. A Taxa CVM será devida:
 
-i) Taxa de Registro: por ocas ião do pedido de registro in icial como participante do
+i) Taxa de Registro: por ocasião do pedido de registro inicial como participante do
 
 mercado de valores mobiliários, conforme o disposto na Lei nº 7.940/89, ou da emissão
 
@@ -234,13 +238,13 @@ registrária da CVM, respaldada no conceito de fato gerador tributário contido 
 
 7.940/896 (qual seja, o poder de polícia atribuído por lei à Autarquia).
 
-8. Todos os agentes atuantes no mercado de valo res mobiliários indicados nos Anexos I, II e III,
+8. Todos os agentes atuantes no mercado de valores mobiliários indicados nos Anexos I, II e III,
 
 da Lei 7.940/89 são contribuintes da Taxa de Registro.
 
-9. Como afirmado acima, essa modalidade da taxa (re gistrária) é distinta da taxa de fiscalização
+9. Como afirmado acima, essa modalidade da taxa (registrária) é distinta da taxa de fiscalização
 
-periódica, logo, não há que se falar que o paga mento de uma taxa seja antecipação, ainda que
+periódica, logo, não há que se falar que o pagamento de uma taxa seja antecipação, ainda que
 
 parcial, do pagamento da outra. Deste modo, quando do pedido de registro inicial na CVM como
 
@@ -284,11 +288,11 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro 
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-participante do mercado de valores mobiliários, de verá ser recolhido 25% do valor da taxa anual
+participante do mercado de valores mobiliários, deverá ser recolhido 25% do valor da taxa anual
 
 aplicável a partir dos critérios de enquadramento previstos nos Anexos I, II e III da Lei nº 7.940/89.
 
-10. Acrescente-se, por fim, que a redação do artigo 4º, inciso V, da Lei 7.940/89 7, ao se valer da
+10. Acrescente-se, por fim, que a redação do artigo 4º, inciso V, da Lei 7.940/897, ao se valer da
 
 expressão “ato autorizativo equivalente”, tem a finalidade de abarcar a atividade registrária
 
@@ -300,11 +304,11 @@ de capitais regulados pela autarquia.
 
 11. Nesse sentido, a autarquia determina, em sua política regulatória, quais os participantes devem
 
-se submeter à formalização de um pedido de re gistro e quais, dentre esses, podem ter um
+se submeter à formalização de um pedido de registro e quais, dentre esses, podem ter um
 
-procedimento de registro simplificado ou automá tico, dispensando apenas a etapa de análise de
+procedimento de registro simplificado ou automático, dispensando apenas a etapa de análise de
 
-conformidade documental, porém sem prescind ir a atuação da autarquia para que sejam
+conformidade documental, porém sem prescindir a atuação da autarquia para que sejam
 
 considerados agentes do mercado de valores mobiliários.
 
@@ -312,9 +316,11 @@ IV.2) Momento de pagamento da Taxa de Registro
 
 12. A Taxa de Registro é devida em 30 dias corridos contados do pedido de registro, como regra
 
-geral. Citado prazo decorre da regra subsid iária do artigo 160 do Código Tributário Nacional 8.
+geral. Citado prazo decorre da regra subsidiária do artigo 160 do Código Tributário Nacional8
 
-Como se trata de uma hipótese de aplicação subs idiária da regra geral tr ibutária, nada impede,
+.
+
+Como se trata de uma hipótese de aplicação subsidiária da regra geral tributária, nada impede,
 
 claro, que sua aplicação seja afastada sempre que houver alguma previsão normativa específica da
 
@@ -330,7 +336,7 @@ Registro em si, que sempre será de 30 dias. Ou seja, basta gerar a guia quando 
 
 para que o vencimento da guia coincida com o prezo legal definido pela lei.
 
-14. Por exemplo, ao abrir um fundo de investim ento no dia 29 de maio recomenda-se que seja
+14. Por exemplo, ao abrir um fundo de investimento no dia 29 de maio recomenda-se que seja
 
 gerada a GRU no começo de junho, pois o sistema da CVM não é customizável a ponto de permitir
 
@@ -366,9 +372,11 @@ V.1) Taxa Anual – Fundos de Investimento
 
 15. Os Fundos de Investimento, ao contrário de outros participantes dos mercados de títulos e
 
-valores mobiliários, têm regramento específico pr evisto no artigo 4º, parágr afos 2º e 3º, da Lei
+valores mobiliários, têm regramento específico previsto no artigo 4º, parágrafos 2º e 3º, da Lei
 
-7.940/899.
+7.940/899
+
+.
 
 16. Como se pode perceber da redação do inciso I do parágrafo 3º, o cálculo do patrimônio líquido,
 
@@ -382,7 +390,7 @@ considerando a situação ideal em que o fundo de investimento tenha sido criado
 
 quadrimestre e esteja operando ao longo dele.
 
-18. Por fim, por escolha legislativa, não foi dete rminada a incidência da Taxa Anual no primeiro
+18. Por fim, por escolha legislativa, não foi determinada a incidência da Taxa Anual no primeiro
 
 ano para os fundos de investimento registrados após o 1º quadrimestre. Ainda, no caso de fundos
 
@@ -416,7 +424,7 @@ V.1.2) Taxa Anual – Fundos de Investimento - Diferimento
 
 estabelecida pela MP 1.072/21, de forma que a solução mais adequada é apropriar o pagamento
 
-da Taxa Anual por todo o ano ci vil (pois a competência desta taxa é anual e se refere a esse
+da Taxa Anual por todo o ano civil (pois a competência desta taxa é anual e se refere a esse
 
 9 Art. 4º A Taxa é devida: (...) § 2º O valor da Taxa devido pelos fundos que não apresentem diferentes classes de
 
@@ -442,39 +450,39 @@ quadrimestre de cada ano e, para o período restante até o fim do ano, com base
 
 líquido efetivo de referência então já conhecido.
 
-V.1.3) Taxa Anual – Fundos de Investim ento - Patrimônio líquido zerado ou
+V.1.3) Taxa Anual – Fundos de Investimento - Patrimônio líquido zerado ou
 
 negativo
 
-22. Caso o fundo seja criado ou en cerrado no curso do primeiro quad rimestre, o artigo 4º da Lei
+22. Caso o fundo seja criado ou encerrado no curso do primeiro quadrimestre, o artigo 4º da Lei
 
 7.940 já traz a solução, que é realizar a média aritmética do período em que o fundo operou dentro
 
 do quadrimestre.
 
-23. Assim, exemplificativamente, a média de verá ser calculada pelo período, dentro do
+23. Assim, exemplificativamente, a média deverá ser calculada pelo período, dentro do
 
 quadrimestre, em que o fundo funcionou. Caso suas atividades se iniciem em 1º/02/2022, deverá
 
-ser calculada a média de seu pa trimônio líquido entre essa data e 30/04/2022. Da mesma forma,
+ser calculada a média de seu patrimônio líquido entre essa data e 30/04/2022. Da mesma forma,
 
-se o fundo encerrar suas ativid ades em 28/02/2022, a média ponde rará valores de patrimônio
+se o fundo encerrar suas atividades em 28/02/2022, a média ponderará valores de patrimônio
 
 líquido de 1º/01/2022 até 28/02/2022.
 
-24. Já os fundos registrados na CVM que ap resentem patrimônio líquido zerado ou negativo
+24. Já os fundos registrados na CVM que apresentem patrimônio líquido zerado ou negativo
 
 durante todo o 1º quadrimestre devem recolher a Taxa Anual pelo menor valor da tabela em que
 
-se enquadram , assim como, os fundos de investimento pré-operacionais igualmente ficam
+se enquadram, assim como, os fundos de investimento pré-operacionais igualmente ficam
 
 obrigados ao recolhimento pelo menor valor contido no Anexo I da Lei 7.940.89.
 
 V.1.4) Taxa Anual – Fundos de Investimento - Encerramento das atividades
 
-25. O encerramento das atividades do fundo refe re-se ao dia do efetivo encerramento de seu
+25. O encerramento das atividades do fundo refere-se ao dia do efetivo encerramento de seu
 
-registro na CVM. Ou seja, todos os dias co m patrimônio líquido informado serão considerados
+registro na CVM. Ou seja, todos os dias com patrimônio líquido informado serão considerados
 
 para efeitos de cálculo do valor devido de Taxa Anual, independentemente de o patrimônio estar
 
@@ -512,7 +520,7 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 28. Concedido o registro inicial como participante do mercado de valores mobiliários, ou emitido
 
-ato autorizativo equivalente, será devido integralmente no ano de ssa concessão o valor aplicável
+ato autorizativo equivalente, será devido integralmente no ano dessa concessão o valor aplicável
 
 ao novo participante, previsto nos Anexos I, II e III da Lei 7.940/89 (exceto para os fundos de
 
@@ -520,7 +528,7 @@ investimentos registrados de maio a dezembro que não tenham valor de patrimôni
 
 quadrimestre do ano do registro).
 
-29. O recolhimento da Taxa Anual para estes par ticipantes deverá ocorrer sempre em até 30 dias
+29. O recolhimento da Taxa Anual para estes participantes deverá ocorrer sempre em até 30 dias
 
 depois de obtido o registro, nos termos do art. 5ª, § 4º, da Lei 7.940/89.
 
@@ -534,9 +542,9 @@ V.3) Taxa Anual - Cancelamento ou Suspensão do registro junto a CVM
 
 31. A partir de 01.01.2022, conforme previsto no art. 5º, §3º da Lei 7.940/89, serão devidos na
 
-integralidade os valores estabelecidos nos Anexos I, II e III pelos contri buintes registrados na
+integralidade os valores estabelecidos nos Anexos I, II e III pelos contribuintes registrados na
 
-CVM por período inferior a 365 (trezentos e sessent a e cinco) dias no ano de competência do
+CVM por período inferior a 365 (trezentos e sessenta e cinco) dias no ano de competência do
 
 tributo.
 
@@ -546,9 +554,9 @@ a Taxa Anual permanecerá sendo devida.
 
 33. O contribuinte da Taxa Anual pessoa física ou jurídica enquadrada nos Anexos II e III que, por
 
-conveniência própria, não exerça ou tenha deixa do de exercer a atividade, continua a ser
+conveniência própria, não exerça ou tenha deixado de exercer a atividade, continua a ser
 
-contribuinte da Taxa Anual, pois o fato gera dor do tributo nasce com o registro na CVM,
+contribuinte da Taxa Anual, pois o fato gerador do tributo nasce com o registro na CVM,
 
 persistindo até o momento em que o interessado tenha o seu pedido de cancelamento ou suspensão
 
@@ -572,9 +580,9 @@ dos investidores não residentes (e não os investidores diretamente).
 
 da carteira à qual esses investidores pertencem. Ou seja, o contribuinte não é nem o investidor não
 
-residente e nem o seu representante, mas sim o “t itular de conta própria ou carteira coletiva” (a
+residente e nem o seu representante, mas sim o “titular de conta própria ou carteira coletiva” (a
 
-carteira), não havendo no rol do art. 3º da Lei 7.940/89 qualquer me nção ao representante como
+carteira), não havendo no rol do art. 3º da Lei 7.940/89 qualquer menção ao representante como
 
 contribuinte. O representante do INR é apenas o responsável pelo recolhimento tributário (§2, art.
 
@@ -592,13 +600,13 @@ são devedoras da Taxa Anual, uma vez que não compõem o patrimônio líquido d
 
 base de cálculo da taxa.
 
-39. Relembramos que a própria exigência de incl usão das pessoas naturais em carteiras de
+39. Relembramos que a própria exigência de inclusão das pessoas naturais em carteiras de
 
-investidores não residentes de corre única e exclusivamente da necessidade, ainda presente, de
+investidores não residentes decorre única e exclusivamente da necessidade, ainda presente, de
 
-utilização de um código operaciona l por esse investidor para ope rar no mercado, o que depende
+utilização de um código operacional por esse investidor para operar no mercado, o que depende
 
-dessa inclusão para ser gerado. Assim que o mer cado se adaptar à inexistência desse código, sua
+dessa inclusão para ser gerado. Assim que o mercado se adaptar à inexistência desse código, sua
 
 concessão será descontinuada e sua inclusão em qualquer conta não será mais solicitada.
 
@@ -610,7 +618,7 @@ de investimento
 
 recolhida:
 
-a) com a protocolização do pedido de re gistro na CVM, no caso de ofertas
+a) com a protocolização do pedido de registro na CVM, no caso de ofertas
 
 públicas sujeitas a registro; ou
 
@@ -622,7 +630,7 @@ ofertas dispensadas de registro.
 
 com a data de liquidação da oferta. A data de encerramento da oferta não é uma data rígida
 
-estipulada em norma, podendo ser pos terior à data de liquidação da oferta, desde que a estrutura
+estipulada em norma, podendo ser posterior à data de liquidação da oferta, desde que a estrutura
 
 da oferta tenha previsão de cumprimento de etapas específicas e inerentes que ultrapassem a data
 
@@ -638,7 +646,7 @@ pela Lei nº 14.317/2022. Nessa situação, haverá incidência de taxa apenas r
 
 oferta, ou seja, nos termos do Anexo IV da Lei.
 
-42. Por fim, destacamos que os demais esclarecim entos a respeito de Ofertas Públicas, inclusive
+42. Por fim, destacamos que os demais esclarecimentos a respeito de Ofertas Públicas, inclusive
 
 de cotas de fundos de investimento, já foram trazidos pelo Ofício-Circular nº 1/2022-CVM/SRE.
 

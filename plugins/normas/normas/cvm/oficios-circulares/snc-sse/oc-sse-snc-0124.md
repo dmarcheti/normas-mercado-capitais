@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sse/anexos/oc-sse-snc-0124.pdf
 sha256_fonte: c3b83ff75c28603c05fe036da3ec02ca8ede0676ee48e3ae0da96d4700c1a517
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,33 +44,23 @@ São Paulo, 19 de abril de 2024.
 
 Aos Administradores e Gestores de Fundos de Investimento Imobiliário ("FII")
 
-Assunto:
-
-Orientações sobre realização de Assembleia e Distribuição de
+Assunto: Orientações sobre realização de Assembleia e Distribuição de
 
 Rendimentos.
 
 Prezados(as),
 
-1
-
-.
-
-O presente Ofício-Circular tem como objetivo orientar os administradores
+1. O presente Ofício-Circular tem como objetivo orientar os administradores
 
 e gestores de FII na adequada divulgação do regime informacional previsto no Anexo
 
-Normativo III à Resolução CVM nº 175 ("AN III da RCVM 175"), especiﬁcamente
+Normativo III à Resolução CVM nº 175 ("AN III da RCVM 175"), especificamente
 
 quanto às temáticas de assembleia e distribuição de rendimentos.
 
 Assembleia
 
-2
-
-.
-
-Com relação à assembleia, de acordo com art. 14 do AN III à RCVM 175,
+2. Com relação à assembleia, de acordo com art. 14 do AN III à RCVM 175,
 
 o administrador do FII deve disponibilizar simultaneamente, nos meios estabelecidos
 
@@ -78,11 +70,7 @@ do direito de voto em assembleias para que tenha início a contagem de prazo par
 
 realização da assembleia.
 
-3
-
-.
-
-No caso de convocação de assembleia por meio de carta consulta, esta
+3. No caso de convocação de assembleia por meio de carta consulta, esta
 
 SSE considera que a eventual prorrogação de prazo para a manifestação dos
 
@@ -90,7 +78,7 @@ cotistas e, consequentemente, a apuração do resultado das deliberações deve 
 
 objeto de envio, por meio do sistema Fundos.Net, de nova carta consulta -
 
-mantendo-se inalterada a ordem do dia - e de comunicado ao mercado a ﬁm de dar
+mantendo-se inalterada a ordem do dia - e de comunicado ao mercado a fim de dar
 
 publicidade à nova data, bem como o cancelamento no sistema Fundos.Net da
 
@@ -98,21 +86,13 @@ convocação anterior, destacando como motivo do cancelamento a prorrogação do
 
 prazo de manifestação dos cotistas.
 
-4
-
-.
-
-Entende-se que a nova data ﬁxada para a manifestação dos cotistas,
+4. Entende-se que a nova data fixada para a manifestação dos cotistas,
 
 objeto da nova carta consulta, deve respeitar os prazos mínimos de convocação
 
 tratados no AN III à RCVM 175.
 
-5
-
-.
-
-Importa também destacar que os votos recebidos até a comunicação
+5. Importa também destacar que os votos recebidos até a comunicação
 
 sobre prorrogação deverão ser mantidos, sendo relevante que tal informação conste
 
@@ -124,11 +104,7 @@ votos recebidos até o início da instalação de qualquer assembleia devem ser
 
 considerados válidos sob pena de se restringir o legítimo direito dos cotistas.
 
-6
-
-.
-
-Em caso de alteração da ordem do dia com a inclusão ou exclusão de
+6. Em caso de alteração da ordem do dia com a inclusão ou exclusão de
 
 assuntos esta Superintendência considera que o administrador deverá realizar nova
 
@@ -144,45 +120,35 @@ sendo relevante, assim como na hipótese anterior, que tal informação conste d
 
 respectiva divulgação ao mercado.
 
-7
+7. Caso a assembleia convocada para deliberar sobre as demonstrações
 
-.
+financeiras não seja instalada por falta de quórum, as referidas demonstrações
 
-Caso a assembleia convocada para deliberar sobre as demonstrações
-
-ﬁnanceiras não seja instalada por falta de quórum, as referidas demonstrações
-
-ﬁnanceiras, nos termos do art. 71, § 3, da RCVM 175, são aprovadas de forma
+financeiras, nos termos do art. 71, § 3, da RCVM 175, são aprovadas de forma
 
 automática, desde que o correspondente relatório de auditoria não contenha opinião
 
-modiﬁcada. Nesse sentido, a formalização da aprovação deverá constar do termo de
+modificada. Nesse sentido, a formalização da aprovação deverá constar do termo de
 
 não instalação da assembleia.
 
 Distribuição de rendimentos
 
-8
+8. Esta seção destina-se à orientações acerca de conteúdo mínimo das
 
-.
-
-Esta seção destina-se à orientações acerca de conteúdo mínimo das
-
-notas explicativas das demonstrações ﬁnanceiras que tratam da distribuição de
+notas explicativas das demonstrações financeiras que tratam da distribuição de
 
 rendimentos.
 
-9
-
-.
-
-Entende-se que as informações essenciais a serem incluídas na nota
+9. Entende-se que as informações essenciais a serem incluídas na nota
 
 explicativa de distribuição de rendimentos dos FIIs, para a sua adequada
 
 compreensão e atendimento do art. 10, § único, da Lei 8.668/93, são: (i) a memória
 
-de cálculo dos “lucros auferidos, apurados segundo o regime de caixa”, em
+de cálculo dos “lucros auferidos, apurados segundo o regime de caixa”
+
+, em
 
 observância à referida lei; (ii) os rendimentos declarados; (iii) os rendimentos
 
@@ -190,19 +156,13 @@ efetivamente pagos; (iv) os rendimentos a distribuir; e (v) o percentual
 
 representativo dos rendimentos declarados sobre o lucro auferido.
 
-10
+10. Nesse sentido, esta SSE orienta que:
 
-.
+a) quanto à memória de cálculo dos “lucros auferidos, apurados
 
-Nesse sentido, esta SSE orienta que:
+segundo o regime de caixa”
 
-a
-
-)
-
-quanto à memória de cálculo dos “lucros auferidos, apurados
-
-segundo o regime de caixa”, deve-se observar os Ofícios Circulares
+, deve-se observar os Ofícios Circulares
 
 CVM/SIN/SNC/N° 01/2014 e CVM/SIN/SNC/N° 01/2015, além do modelo
 
@@ -210,11 +170,7 @@ apresentado no Informe Trimestral, conforme padronizado pela RCVM
 
 175;
 
-b
-
-)
-
-quanto aos rendimentos declarados, isto é, aqueles rendimentos em
+b)quanto aos rendimentos declarados, isto é, aqueles rendimentos em
 
 que foi registrado o direito do cotista ao recebimento, a informação
 
@@ -226,11 +182,7 @@ correspondentes campos dos informes trimestrais do 2° e 4°
 
 trimestres;
 
-c
-
-)
-
-para os rendimentos efetivamente pagos, faz-se necessário
+c) para os rendimentos efetivamente pagos, faz-se necessário
 
 explicitar o montante de rendimentos pagos no exercício corrente,
 
@@ -240,21 +192,13 @@ anteriores, de tal maneira que o valor total deve coincidir com a
 
 informação apresentada nas Demonstrações dos Fluxos de Caixa;
 
-d
-
-)
-
-sobre os rendimentos a distribuir, ou seja, aqueles já declarados,
+d)sobre os rendimentos a distribuir, ou seja, aqueles já declarados,
 
 porém não pagos, a informação deve se mostrar aderente àquela
 
 reconhecida no Passivo do Balanço Patrimonial; e
 
-e
-
-)
-
-em relação ao cálculo do percentual dos rendimentos declarados,
+e) em relação ao cálculo do percentual dos rendimentos declarados,
 
 deve-se informar o percentual representativo do total de rendimentos
 
@@ -264,19 +208,11 @@ declarados sobre o lucro auferido no exercício, apurado segundo o
 
 regime de caixa.
 
-11
-
-.
-
-Esta SSE orienta que as eventuais diferenças que por ventura ocorram
+11. Esta SSE orienta que as eventuais diferenças que por ventura ocorram
 
 sobre as informações acima sejam esclarecidas nas mesmas notas explicativas.
 
-12
-
-.
-
-Por ﬁm, para esclarecimentos adicionais sobre o teor deste Ofício
+12. Por fim, para esclarecimentos adicionais sobre o teor deste Ofício
 
 Circular, solicitamos contatar a Gerência de Supervisão de Securitização 1, por meio
 
@@ -296,80 +232,44 @@ Paulo Roberto Gonçalves Ferreira
 
 Superintendente de Normas Contábeis e Auditoria - SNC
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Cynthia Bariao da Fonseca
 
-Cynthia Bariao da Fonseca
-
-Braga
-
-,
-
-Gerente
-
-, em 19/04/2024, às 12:20, com fundamento no art. 6º do
+Braga, Gerente, em 19/04/2024, às 12:20, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Paulo Roberto Gonçalves
 
-Paulo Roberto Gonçalves
-
-Ferreira
-
-,
-
-Superintendente
-
-, em 22/04/2024, às 09:32, com fundamento no
+Ferreira, Superintendente, em 22/04/2024, às 09:32, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Bruno de Freitas Gomes
 
-Bruno de Freitas Gomes
-
-Condeixa Rodrigues
-
-,
-
-Superintendente
-
-, em 22/04/2024, às 10:26, com
+Condeixa Rodrigues, Superintendente, em 22/04/2024, às 10:26, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2020645
+autenticidade, informando o código verificador
 
-e o código CRC
-
-10BC42D8
-
-.
+2020645 e o código CRC 10BC42D8.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2020645
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2020645 and the "Código CRC" 10BC42D8.
 
-10BC42D8
-
-.
-
-Referência:
-
-Processo nº 19957.009383/2021-43
-
-Documento SEI nº 2020645
+Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2020645
 
 Ofício-Circular 1 OC SSE/SNC 1/24 - FII AGC e Rendimentos (2020645) SEI 19957.009383/2021-43 / pg. 3

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0226.pdf
 sha256_fonte: 72a1c23f3f4f113330148451aa6fce9b489c9f76d2f56f6f82fe0b20a30cef7d
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -54,7 +54,7 @@ distribuidores, objetivando prover um alinhamento aos interesses com o respectiv
 
 na qualidade de seu cliente. Portanto, os consultores de valores mobiliários são participantes de mercado do
 
-chamado “buy-side”, e não do “ sell-side”, como é o caso dos assessores de investimento, os quais atuam como
+chamado “buy-side”, e não do “sell-side”, como é o caso dos assessores de investimento, os quais atuam como
 
 prepostos de distribuidores de valores mobiliários e são regulados por regulamentação própria.
 

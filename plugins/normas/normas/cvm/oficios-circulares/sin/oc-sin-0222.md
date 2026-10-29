@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0222.pdf
 sha256_fonte: 5780d183146779cabe9933bcfdc10eb050a28832ce89c99eeaa38eccc495e476
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -36,9 +36,9 @@ Assunto: Entrada em vigor de nova versão do Sistema de Gestão de Fundos de Inv
 
 Prezados Senhores,
 
-1. A divulgação deste Ofício Circular tem como ob jetivo divulgar o lançamento do SGF para os
+1. A divulgação deste Ofício Circular tem como objetivo divulgar o lançamento do SGF para os
 
-fundos de investimento regulados pela s Instruções CVM nº 279 (Fundos Mútuos de Privatização -
+fundos de investimento regulados pelas Instruções CVM nº 279 (Fundos Mútuos de Privatização -
 
 “FMP-FGTS”), nº 359 (Fundos de Investimento em Índice de Mercado - “ETF”) e nº 423 (Fundos
 
@@ -46,15 +46,15 @@ de Aposentadoria Programada Individual - “FAPI”), que já está produção.
 
 2. A partir dessa data, os administradores, por meio de seu login e senha da CVMWeb, terão acesso
 
-ao referido sistema e deverão efetuar o registro de sses novos tipos de fundos de investi mento
+ao referido sistema e deverão efetuar o registro desses novos tipos de fundos de investimento
 
 conforme o passo a passo do Manual de Uso, cuja nova versão será disponibilizada na tela inicial do
 
 próprio SGF.
 
-3. Para esse propósito exclusivo, o uso do sistema CVMWeb também será descon tinuado para
+3. Para esse propósito exclusivo, o uso do sistema CVMWeb também será descontinuado para
 
-objetivos cadastrais, como ocorrido para os tip os de fundos já migrados para o novo sistema, como
+objetivos cadastrais, como ocorrido para os tipos de fundos já migrados para o novo sistema, como
 
 os fundos estruturados (FII, FIDC e FIP) e os fundos de investimento regulados pela Instrução CVM
 
@@ -62,17 +62,17 @@ nº 555.
 
 4. Mantido também como um instrumento de gestão na mesma medida do anterior CVMWeb, o SGF
 
-continua permiti ndo acompanhar e alterar informações de cada fundo em todas as fases de sua
+continua permitindo acompanhar e alterar informações de cada fundo em todas as fases de sua
 
-existência, com início no registro do fundo (que será concedido automa ticamente após o envio dos
+existência, com início no registro do fundo (que será concedido automaticamente após o envio dos
 
-documentos obrigatórios), possibilidade de atualização de informaçõ es cadastrais, registros de
+documentos obrigatórios), possibilidade de atualização de informações cadastrais, registros de
 
-integralização de cotas, alterações de data de encerra mento de exercício social, substi tuição da
+integralização de cotas, alterações de data de encerramento de exercício social, substituição da
 
 instituição administradora ou outros participantes e, ao fim, o encerramento dos fundos.
 
-5. O SGF permite, também, a consulta a p rotocolos de registros, alterações realizadas, ou mesmo
+5. O SGF permite, também, a consulta a protocolos de registros, alterações realizadas, ou mesmo
 
 consultas consolidadas a todas as informações disponibilizadas. É importante ressaltar que o sistema
 
@@ -90,21 +90,21 @@ como de suas versões subsequentes, deve ser realizado exclusivamente por meio d
 
 por meio de acesso à guia, na tela de registro de fundos, denominada “FI – Fundos de Investimento
 
-555 e FMP-FGTS”, e a indicação, na aba cadastral “Caracterização”, da Classe/Tipo “FMP -FGTS”
+555 e FMP-FGTS”, e a indicação, na aba cadastral “Caracterização”, da Classe/Tipo “FMP-FGTS”
 
 para o fundo.
 
-8. Reiteramos que continuam aplicáveis para os FMP -FGTS, ETF e FAPI os esclareciment os
+8. Reiteramos que continuam aplicáveis para os FMP-FGTS, ETF e FAPI os esclarecimentos
 
 prestados por meio do Ofício Circular nº 6/2021/CVM/SIN, em particular sobre (i) os procedimentos
 
 específicos para a alteração cadastral de prestadores de serviço do fundo; (ii) as operações de
 
-transformação e o estágio de desenvolvimento da funcionalid ade do SGF para tratar o caso; e (iii) o
+transformação e o estágio de desenvolvimento da funcionalidade do SGF para tratar o caso; e (iii) o
 
 uso do SGF inclusive para os fundos registrados na vigência do CVMWeb.
 
-9. Ainda e por fim, esclarecemos que eventuais pedidos de registro de quaisquer FMP -FGTS, ETF
+9. Ainda e por fim, esclarecemos que eventuais pedidos de registro de quaisquer FMP-FGTS, ETF
 
 ou FAPI ainda em análise nesta superintendência deverão contar com o lançamento de uma operação
 
@@ -112,7 +112,7 @@ de registro desse fundo no sistema SGF. Esse lançamento será condição para a
 
 e o deferimento do pedido de registro do fundo formulado.
 
-10. Em específico para os ETF e os FMP -FGTS, como as Instruções CVM nº 359 e 279 ainda não
+10. Em específico para os ETF e os FMP-FGTS, como as Instruções CVM nº 359 e 279 ainda não
 
 preveem a possibilidade de concessão automática de registro de funcionamento, informamos que a
 

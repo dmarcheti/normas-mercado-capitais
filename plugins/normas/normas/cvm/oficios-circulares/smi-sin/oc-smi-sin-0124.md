@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/smi-sin/anexos/oc-smi-sin-0124.pdf
 sha256_fonte: 2af0f86084fae524414995e1649891b6f77d15fe176eff7ba3b2bdaca2854ae3
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -44,11 +46,11 @@ Aos diretores das pessoas habilitadas a atuar como integrantes do sistema de
 
 distribuição, responsáveis pelo cumprimento das normas estabelecidas pela Resolução
 
-CVM n.º 30, de 11 de maio de 2021.
+CVM n.
 
-Assunto:
+º 30, de 11 de maio de 2021.
 
-Interpretação do art. 4º da Resolução CVM 30/2021.
+Assunto: Interpretação do art. 4º da Resolução CVM 30/2021.
 
 Prezados Senhores,
 
@@ -60,13 +62,15 @@ Superintendência de Supervisão de Investidores Institucionais (SIN) para as
 
 situações em que as pessoas acima referidas (“instituições”) cadastram novo cliente
 
-e, nos termos do art. 4º da Resolução CVM n.º 30/2021, optem por classiﬁcá-los em
+e, nos termos do art. 4º da Resolução CVM n.
+
+º 30/2021, optem por classificá-los em
 
 categorias de perfil de risco sem que o cliente responda a questionário específico.
 
 Quando presentes estas circunstâncias, é necessário observar que:
 
-a) o cliente deve ser necessariamente classiﬁcado na categoria de menor
+a) o cliente deve ser necessariamente classificado na categoria de menor
 
 propensão à assunção de riscos, conforme estabelecida pelas regras e
 
@@ -76,7 +80,7 @@ b) as recomendações de produtos e serviços ao cliente devem se limitar àquel
 
 adequadas à categoria em questão;
 
-c) a classiﬁcação na categoria de menor propensão à assunção de riscos deve
+c) a classificação na categoria de menor propensão à assunção de riscos deve
 
 ser comunicada ao cliente por ocasião de seu cadastramento, acompanhada da
 
@@ -84,7 +88,9 @@ informação de que o acesso a outros produtos e serviços disponíveis às dema
 
 categorias depende da prévia e completa aplicação, pela instituição, das
 
-disposições da Resolução CVM n.º 30/2021 para a determinação do perﬁl, em
+disposições da Resolução CVM n.
+
+º 30/2021 para a determinação do perfil, em
 
 especial dos seus arts. 3º e 4º;
 
@@ -92,29 +98,35 @@ Ofício-Circular 4 (2122165) SEI 19957.013834/2024-90 / pg. 1
 
 d) a solicitação do cliente para a realização de operações com valores
 
-mobiliários que não seja adequada ao seu perﬁl constitui motivação suﬁciente
+mobiliários que não seja adequada ao seu perfil constitui motivação suficiente
 
 para que as instituições adotem as medidas necessárias para a completa
 
 aplicação dos mencionados arts. 3º e 4º;
 
-e) as obrigações previstas no art. 7º, I (alerta sobre ausência, desatualização ou
+e) as obrigações previstas no art. 7º
 
-inadequação do perﬁl) e II (declaração expressa do cliente) da Resolução CVM
+, I (alerta sobre ausência, desatualização ou
 
-n.º 30/2021 limitam-se às situações em que o cliente ordena a realização de
+inadequação do perfil) e II (declaração expressa do cliente) da Resolução CVM
+
+n.
+
+º 30/2021 limitam-se às situações em que o cliente ordena a realização de
 
 operações, por sua própria iniciativa. Não se admite que tais medidas sejam
 
 utilizadas pela instituição como subterfúgio para a realização de operações após
 
-prévia recomendação de produtos ou serviços não adequados ao perﬁl do
+prévia recomendação de produtos ou serviços não adequados ao perfil do
 
 cliente. Tal prática é absolutamente vedada nos casos descritos e considerada
 
 infração grave pelo art. 16 da norma.
 
-Na avaliação do cumprimento da Resolução CVM n.º 30/2021, os diretores
+Na avaliação do cumprimento da Resolução CVM n.
+
+º 30/2021, os diretores
 
 responsáveis pela observância da norma devem dedicar especial atenção aos
 
@@ -122,23 +134,25 @@ procedimentos utilizados pelos administradores, empregados e prepostos da
 
 instituição, no que se refere ao cadastramento, manutenção e contato com os
 
-clientes que se enquadrem na situação de avaliação e classiﬁcação em categorias
+clientes que se enquadrem na situação de avaliação e classificação em categorias
 
-de perﬁl de risco sem o preenchimento de questionário especíﬁco. Dentre outras
+de perfil de risco sem o preenchimento de questionário específico. Dentre outras
 
 medidas que a instituição considerar pertinentes, no monitoramento periódico deve
 
 ser dada ênfase a situações que sinalizem a necessidade de tratamento diferenciado
 
-e que podem inclusive culminar na exigência de preenchimento completo do perﬁl
+e que podem inclusive culminar na exigência de preenchimento completo do perfil
 
-do investidor. Tais situações podem incluir (i) ocorrências de aportes signiﬁcativos
+do investidor. Tais situações podem incluir (i) ocorrências de aportes significativos
 
-de recursos pelo cliente, (ii) obtenção de resultados ﬁnanceiros atípicos; e (iii) uso
+de recursos pelo cliente, (ii) obtenção de resultados financeiros atípicos; e (iii) uso
 
-abusivo da declaração prevista no art. 7º, II, que pode apontar para uma tentativa
+abusivo da declaração prevista no art. 7º
 
-de se viabilizar a recomendação de produtos ou serviços não adequados ao perﬁl do
+, II, que pode apontar para uma tentativa
+
+de se viabilizar a recomendação de produtos ou serviços não adequados ao perfil do
 
 cliente.
 
@@ -152,7 +166,7 @@ risco e regras, procedimentos e controles internos.
 
 Finalmente, cumpre ressalvar que a interpretação acima não prejudica a aplicação
 
-das normas já editadas pelos autorreguladores a respeito do dever de veriﬁcação da
+das normas já editadas pelos autorreguladores a respeito do dever de verificação da
 
 adequação dos produtos, serviços e operações ao perfil do cliente.
 
@@ -168,66 +182,38 @@ Superintendente de Supervisão de Investidores Institucionais
 
 Ofício-Circular 4 (2122165) SEI 19957.013834/2024-90 / pg. 2
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Andre Francisco Luiz de Alencar
 
-Andre Francisco Luiz de Alencar
-
-Passaro
-
-,
-
-Superintendente
-
-, em 29/08/2024, às 15:39, com fundamento no
+Passaro, Superintendente, em 29/08/2024, às 15:39, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Marco Antonio Velloso de
 
-Marco Antonio Velloso de
-
-Sousa
-
-,
-
-Superintendente
-
-, em 29/08/2024, às 20:19, com fundamento no art.
+Sousa, Superintendente, em 29/08/2024, às 20:19, com fundamento no art.
 
 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2122165
+autenticidade, informando o código verificador
 
-e o código CRC
-
-026BE7F2
-
-.
+2122165 e o código CRC 026BE7F2.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2122165
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2122165 and the "Código CRC" 026BE7F2.
 
-026BE7F2
-
-.
-
-Referência:
-
-Processo nº 19957.013834/2024-90
-
-Documento SEI nº 2122165
+Referência: Processo nº 19957.013834/2024-90 Documento SEI nº 2122165
 
 Ofício-Circular 4 (2122165) SEI 19957.013834/2024-90 / pg. 3

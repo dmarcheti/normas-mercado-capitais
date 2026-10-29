@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0222.pdf
 sha256_fonte: 4b8177481d4dc8a29145dde2d423009316b4b59e28576fa8141c7b761cda5db3
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 10/03/2022 14:24 SEI/CVM - 1457066 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1533016&infra_siste… 1/2
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -94,9 +92,9 @@ encaminhadas para a Superintendência de Emissores da B3.
 
 a) Atendimento Normal: nos dias úteis, de 8h às 20h, pelo e-mail ou pelo telefone.
 
-10/03/2022 14:24 SEI/CVM - 1457066 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1533016&infra_siste... 1/2
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1533016&infra_siste… 2/2
+10/03/2022 14:24 SEI/CVM - 1457066 - Ofício-Circular
 
 b) Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de semana e
 
@@ -115,3 +113,5 @@ FERNANDO SOARES VIEIRA
 Superintendente de Relações com Empresas
 
 Referência: Processo nº 19957.001810/2022-26 Documento SEI nº 1457066
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1533016&infra_siste... 2/2

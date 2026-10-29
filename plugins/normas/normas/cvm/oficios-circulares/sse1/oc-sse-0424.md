@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0424-.pdf
 sha256_fonte: b31d7f7d8e198ec25ef898d5906e89fbbaad30a412a95ad59d529d24f9f65600
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+28/06/2024, 14:52 SEI/CVM - 2069242 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -46,7 +48,7 @@ no Sistema Fundos.Net, nova versão do Informe Mensal de FII, com os seguintes a
 
 CVM 200/24:
 
-Inclusão em “Informações do Passivo”:
+2. Inclusão em “Informações do Passivo”:
 
 Item 22 “Provisões por garantias prestadas (fiança, aval, aceite ou outra coobrigação)”
 
@@ -60,7 +62,7 @@ Item 25 “Valor total das garantias prestadas com operações de cotistas (art.
 
 Normativo III)”
 
-2. Adicionalmente foram implementados os seguintes ajustes decorrentes da Resolução CVM 184/23:
+Adicionalmente foram implementados os seguintes ajustes decorrentes da Resolução CVM 184/23:
 
 Em “Informações do Ativo”:
 
@@ -68,9 +70,9 @@ remoção do item 10.6 “Cédulas de Debêntures” e consequente renumeração
 
 inclusão do item 10.12 “Notas Comerciais”.
 
-3. Os Informes Mensais entregues a partir de 01/09/2024 deverão observar o novo modelo.
+3. 4. Os Informes Mensais entregues a partir de 01/09/2024 deverão observar o novo modelo.
 
-4. Em caso de dúvidas sobre a utilização do sistema Fundos.Net, deverá ser contatada a Superintendência
+Em caso de dúvidas sobre a utilização do sistema Fundos.Net, deverá ser contatada a Superintendência
 
 de Suporte à Emissores da B3, pelo telefone (11) 2565-5064 ou e-mail emissores.fundos@b3.com.br.
 
@@ -84,9 +86,33 @@ Bruno de Freitas Gomes
 
 Superintendente de Securitização e Agronegócio - SSE
 
-28/06/2024, 14:52 SEI/CVM - 2069242 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2184825&infra_siste… 1/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2184825&infra
+
+_
+
+_
+
+_
+
+siste... 1/2
+
+28/06/2024, 14:52 SEI/CVM - 2069242 - Ofício-Circular
 
 Documento assinado eletronicamente por Cynthia Bariao da Fonseca Braga, Gerente, em 28/06/2024, às
 
@@ -96,16 +122,46 @@ Documento assinado eletronicamente por Bruno de Freitas Gomes Condeixa Rodrigues
 
 em 28/06/2024, às 14:51, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+autenticidade, informando o
+
+_
 
 código verificador 2069242 e o código CRC 15A7FD14.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código
 
 Verificador" 2069242 and the "Código CRC" 15A7FD14.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2069242
 
-28/06/2024, 14:52 SEI/CVM - 2069242 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2184825&infra_siste… 2/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2184825&infra
+
+_
+
+_
+
+_
+
+siste... 2/2

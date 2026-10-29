@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/ocsse0223.pdf
 sha256_fonte: fbacfa4f34d8612312deef2b0ae92a9630b119da54c304b423e725228076bee5
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,11 +44,7 @@ Rio de Janeiro, 11 de janeiro de 2023.
 
 Às Companhias Securitizadoras
 
-Assunto:
-
-Sistema
-
-para envio de informações relativas às ofertas de
+Assunto: Sistema para envio de informações relativas às ofertas de
 
 companhias securitizadoras (Resolução CVM 60 e Resolução CVM 160) e
 
@@ -54,13 +52,7 @@ outros esclarecimentos relativos às operações de securitização (Lei 14.430)
 
 Prezados(as),
 
-1
-
-.
-
-O presente
-
-Ofício-Circular complementa o Ofício-Circular nº 1/2022-
+1. O presente Ofício-Circular complementa o Ofício-Circular nº 1/2022-
 
 CVM/SSE, datado de 21 de junho de 2022, e trata da divulgação da Lâmina da Oferta
 
@@ -72,17 +64,13 @@ classes e séries de uma mesma emissão (Lei 14.430/2022)
 
 I- Sistema para envio de informações relativas à Lâmina da Oferta
 
-2
-
-.
-
-Conforme esclarecido através do Ofício-Circular nº 1/2022-CVM/SSE, nos
+2. Conforme esclarecido através do Ofício-Circular nº 1/2022-CVM/SSE, nos
 
 termos da Resolução CVM nº 60, de 23 de dezembro de 2021 (“RCVM 60”), a
 
 companhia securitizadora que atue na emissão de títulos de securitização, com ou
 
-sem a instituição de regime ﬁduciário sobre o lastro, deverá estar registrada nas
+sem a instituição de regime fiduciário sobre o lastro, deverá estar registrada nas
 
 categorias S1 ou S2. As informações periódicas e eventuais referentes à própria
 
@@ -90,11 +78,7 @@ companhia e às suas emissões, deverão ser encaminhadas, exclusivamente, por m
 
 do sistema Fundos.NET.
 
-3
-
-.
-
-Foi mencionada, ainda, a possibilidade de duplo registro, considerando o
+3. Foi mencionada, ainda, a possibilidade de duplo registro, considerando o
 
 registro concomitante de emissor da Resolução CVM nº 80 (“RCVM 80”) – categorias A
 
@@ -102,17 +86,13 @@ ou B – que pode ser avaliado pela companhia securitizadora nos casos em que ha
 
 intenção de se realizar emissões que não sejam caracterizadas como operação de
 
-securitização, tais como: ações, debêntures ou outros títulos de dívida para ﬁnanciar
+securitização, tais como: ações, debêntures ou outros títulos de dívida para financiar
 
 as operações próprias, sem vinculação ao lastro de operações de securitizações.
 
 Ofício-Circular 2 (1684101) SEI 19957.009383/2021-43 / pg. 1
 
-4
-
-.
-
-Diante dos aprimoramentos trazidos pela RCVM 160, incluindo a criação de
+4. Diante dos aprimoramentos trazidos pela RCVM 160, incluindo a criação de
 
 lâminas da oferta e possibilidade de emissão de título de dívida por emissor não
 
@@ -120,15 +100,9 @@ registrado, julgamos oportuno trazer esclarecimentos adicionais a respeito do en
 
 informações referente às ofertas.
 
-5
+5. Assim sendo, no que tange às ofertas públicas de títulos de securitização
 
-.
-
-Assim
-
-sendo, no que tange às ofertas públicas de títulos de securitização
-
-(CRI, CRA, Certiﬁcados de Recebíveis, Debêntures de Securitização e outros) emitidos
+(CRI, CRA, Certificados de Recebíveis, Debêntures de Securitização e outros) emitidos
 
 por companhias securitizadoras registradas nas categorias S1 ou S2, as Lâminas da
 
@@ -136,11 +110,7 @@ Oferta de Securitização deverão ser divulgadas através do sistema Fundos.NET
 
 cada emissão específica.
 
-6
-
-.
-
-Ressaltamos que, diferentemente do regime da Instrução CVM nº 476, a
+6. Ressaltamos que, diferentemente do regime da Instrução CVM nº 476, a
 
 RCVM 160 não possibilita a oferta de títulos de securitização por emissores não
 
@@ -150,11 +120,7 @@ securitizadoras que venham a ofertar publicamente títulos de securitização de
 
 necessariamente obter o registro nas categorias S1 ou S2.
 
-7
-
-.
-
-Na hipótese de a companhia securitizadora, registrada nas categorias S1
+7. Na hipótese de a companhia securitizadora, registrada nas categorias S1
 
 ou S2 e sem registro de emissor da RCVM 80, emitir títulos representativos de dívida
 
@@ -164,7 +130,7 @@ com registro automático da oferta nos termos do artigo 26, inciso X da RCVM 160
 
 não é exigida a Lâmina da Oferta, uma vez que o público alvo deve ser composto
 
-exclusivamente por investidores proﬁssionais, sendo certo que os requerimentos de
+exclusivamente por investidores profissionais, sendo certo que os requerimentos de
 
 registro automático contidos no artigo 27, inciso I, alíneas a e b da RCVM 160 devem
 
@@ -182,7 +148,7 @@ I – caso o público-alvo da oferta seja composto exclusivamente por
 
 investidores profissionais:
 
-a) pagamento da taxa de ﬁscalização, nos termos da lei que trata da
+a) pagamento da taxa de fiscalização, nos termos da lei que trata da
 
 taxa de fiscalização dos mercados de títulos e valores mobiliários;
 
@@ -198,21 +164,13 @@ II) Possibilidade de inclusão de novas classes e séries de uma mesma
 
 emissão
 
-8
-
-.
-
-A SSE tem recebido questioname
-
-ntos quanto à possibilidade de inclusão
+8. A SSE tem recebido questionamentos quanto à possibilidade de inclusão
 
 de novas classes e séries de mesma emissão, à luz do disposto no artigo 22, inciso X
 
 da Lei 14.430/2022:
 
-## Art. 22
-
-Os Certiﬁcados de Recebíveis integrantes de cada emissão da
+9. Art. 22. Os Certificados de Recebíveis integrantes de cada emissão da
 
 companhia securitizadora serão formalizados por meio de termo de
 
@@ -220,23 +178,15 @@ securitização, do qual constarão as seguintes informações:
 
 X- indicação do número de emissão e da eventual divisão dos
 
-Certiﬁcados de Recebíveis integrantes da mesma emissão em
+Certificados de Recebíveis integrantes da mesma emissão em
 
-diferentes classes ou séries, inclusive
-
-a possibilidade de
+diferentes classes ou séries, inclusive a possibilidade de
 
 aditamentos posteriores para inclusão de novas classes e
 
 séries e requisitos de complementação de lastro, quando for o
 
-caso
-
-(grifo nosso).
-
-9
-
-.
+caso (grifo nosso).
 
 A esse respeito, entendemos que a RCVM 60 não disciplina todas as
 
@@ -246,13 +196,11 @@ hipóteses de emissão de uma série, uma vez que foi editada anteriormente à L
 
 14.430/2022.
 
-10
+10. Uma hipótese disciplinada na RCVM 60 é aquela prevista em seu artigo 35,
 
-.
+§ 4º
 
-Uma hipótese disciplinada na RCVM 60 é aquela prevista em seu artigo 35,
-
-§ 4º, que possibilita a emissão de nova série de títulos de securitização da mesma
+, que possibilita a emissão de nova série de títulos de securitização da mesma
 
 emissão na ocorrência de um cenário de insuficiência de recursos:
 
@@ -262,31 +210,23 @@ emissão na ocorrência de um cenário de insuficiência de recursos:
 
 implementar medidas requeridas para que os investidores sejam
 
-remunerados e o patrimônio separado não possua recursos suﬁcientes
+remunerados e o patrimônio separado não possua recursos suficientes
 
 em caixa para adotá-las, pode haver, se prevista no instrumento de
 
-emissão ou após deliberação da assembleia especial de investidores,
-
-a
+emissão ou após deliberação da assembleia especial de investidores, a
 
 emissão de nova série de títulos de securitização da mesma
 
-emissão, com a ﬁnalidade especíﬁca de captação dos recursos
+emissão, com a finalidade específica de captação dos recursos
 
-que sejam necessários à execução das medidas requeridas
-
-(grifo
+que sejam necessários à execução das medidas requeridas (grifo
 
 nosso).
 
-11
+11. A despeito de o artigo 35, § 4º da RCVM 60 tratar especificamente da
 
-.
-
-A despeito de o artigo 35, § 4º da RCVM 60 tratar especiﬁcamente da
-
-hipótese envolvendo insuﬁciência de recursos, não vemos óbice a que outros arranjos
+hipótese envolvendo insuficiência de recursos, não vemos óbice a que outros arranjos
 
 com séries possam existir, desde que tal procedimento esteja previsto no instrumento
 
@@ -294,52 +234,32 @@ de emissão ou seja deliberado na assembleia especial de investidores.
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Nathalie de Andrade Araujo
 
-Nathalie de Andrade Araujo
-
-Matoso Vidual
-
-,
-
-Superintendente Substituto
-
-, em 11/01/2023, às 13:21,
+Matoso Vidual, Superintendente Substituto, em 11/01/2023, às 13:21,
 
 com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1684101
+autenticidade, informando o código verificador
 
-e o código CRC
-
-3E9BBB5B
-
-.
+1684101 e o código CRC 3E9BBB5B.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1684101
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1684101 and the "Código CRC" 3E9BBB5B.
 
-3E9BBB5B
-
-.
-
-Referência:
-
-Processo nº 19957.009383/2021-43
-
-Documento SEI nº 1684101
+Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1684101
 
 Ofício-Circular 2 (1684101) SEI 19957.009383/2021-43 / pg. 3

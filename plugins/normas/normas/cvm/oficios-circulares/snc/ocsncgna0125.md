@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc/anexos/ocsncgna0125.pdf
 sha256_fonte: dc3db49a66f6f9fe021ac3a46ed1d50e498923be823894668683f596c4c90198
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -46,17 +48,15 @@ Assunto: Esclarecimentos relacionados à atuação do auditor contábil
 
 independente no âmbito do mercado de valores mobiliários.
 
-Senhores
+Senhores Auditores,
 
-Auditores,
-
-Como resultado direto da ação de supervisão e ﬁscalização da atividade de auditoria
+Como resultado direto da ação de supervisão e fiscalização da atividade de auditoria
 
 no âmbito do mercado de valores mobiliários, listamos a seguir alguns pontos
 
 relacionados ao registro junto à CVM, à atuação no mercado de valores mobiliários e
 
-à aplicação das normas proﬁssionais de auditoria contábil independente na
+à aplicação das normas profissionais de auditoria contábil independente na
 
 execução dos trabalhos, para os quais solicitamos atenção especial do auditor
 
@@ -68,35 +68,29 @@ Comissão de Valores Mobiliários (CVM) sobre a auditoria independente no âmbit
 
 mercado de valores mobiliários:
 
-·
-
-a importância de um sistema de auditoria independente como suporte
+·a importância de um sistema de auditoria independente como suporte
 
 indispensável ao órgão regulador;
 
-·
-
-a ﬁgura do auditor independente como elemento imprescindível para a
+·a figura do auditor independente como elemento imprescindível para a
 
 credibilidade do mercado e como instrumento de inestimável valor na
 
 proteção dos investidores, na medida em que a sua função é zelar pela
 
-ﬁdedignidade e conﬁabilidade das demonstrações contábeis da entidade
+fidedignidade e confiabilidade das demonstrações contábeis da entidade
 
 auditada;
 
-·
-
-a exatidão e a clareza das demonstrações contábeis, inclusive a divulgação
+·a exatidão e a clareza das demonstrações contábeis, inclusive a divulgação
 
 em notas explicativas de informações indispensáveis à visualização da
 
 Ofício-Circular 1 (2302544) SEI 19957.003477/2025-32 / pg. 1
 
-situação patrimonial e ﬁnanceira e dos resultados da entidade auditada,
+situação patrimonial e financeira e dos resultados da entidade auditada,
 
-dependem também de um sistema de auditoria eﬁcaz e,
+dependem também de um sistema de auditoria eficaz e,
 
 fundamentalmente, da tomada de consciência do auditor quanto ao seu
 
@@ -118,67 +112,39 @@ Madson de Gusmão Vasconcelos
 
 Gerente de Normas de Auditoria – GNA
 
-Documento assinado eletronicamente por
-
-Madson Vasconcelos
-
-,
-
-Gerente
-
-,
+Documento assinado eletronicamente por Madson Vasconcelos, Gerente,
 
 em 05/05/2025, às 10:48, com fundamento no art. 6º do Decreto nº 8.539, de
 
 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Paulo Roberto Gonçalves
 
-Paulo Roberto Gonçalves
-
-Ferreira
-
-,
-
-Superintendente
-
-, em 05/05/2025, às 11:17, com fundamento no
+Ferreira, Superintendente, em 05/05/2025, às 11:17, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2302544
+autenticidade, informando o código verificador
 
-e o código CRC
-
-8E2D1610
-
-.
+2302544 e o código CRC 8E2D1610.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2302544
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2302544 and the "Código CRC" 8E2D1610.
 
-8E2D1610
-
-.
-
-Referência:
-
-Processo nº 19957.003477/2025-32
-
-Documento SEI nº 2302544
+Referência: Processo nº 19957.003477/2025-32 Documento SEI nº 2302544
 
 Ofício-Circular 1 (2302544) SEI 19957.003477/2025-32 / pg. 2
 
@@ -191,8 +157,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-1
 
 Ofício-Circular nº 01/2025/CVM/SNC/GNA
 
@@ -242,7 +206,7 @@ em notas explicativas de informações indispensáveis à visualização da situ
 
 patrimonial e financeira e dos resultados da entidade auditada, dependem
 
-também de um sistema de audit oria eficaz e, fundamentalmente, da tomada
+também de um sistema de auditoria eficaz e, fundamentalmente, da tomada
 
 de consciência do auditor quanto ao seu verdadeiro papel dentro deste
 
@@ -264,6 +228,8 @@ Madson de Gusmão Vasconcelos
 
 Gerente de Normas de Auditoria – GNA
 
+1
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 3
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -276,13 +242,9 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-2
-
 ÍNDICE
 
-1 TEMAS RELACIONADOS AO CADASTRO, ATUALIZAÇÃO E MANUTENÇÃO DO
-
-REGISTRO DO AUDITOR INDEPENDENTE JUNTO À CVM ................................................ 5
+1 TEMAS RELACIONADOS AO CADASTRO, ATUALIZAÇÃO E MANUTENÇÃO DO REGISTRO DO AUDITOR INDEPENDENTE JUNTO À CVM ................................................ 5
 
 1.1 Registro como Auditor Independente (Art. 1º a 4º da Resolução CVM nº
 
@@ -354,6 +316,8 @@ equipes de auditoria ...........................................................
 
 23/2021) ................................................................................................................ 17
 
+2
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 4
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -365,8 +329,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-3
 
 1.9.1 Da submissão da revisão externa de qualidade pelos pares ..................... 17
 
@@ -430,23 +392,25 @@ n.º 23/2021) ..................................................................
 
 2.1.4 Rotatividade de Auditores (Art. 31 a 31A – Resolução CVM n.º 23/2021) 25
 
-2.1.4.1 Recontratação do Auditor ................................ ................................ . 26
+2.1.4.1 Recontratação do Auditor ................................................................. 26
 
 2.1.4.2 Possibilidade de extensão do prazo de prestação de serviços para
 
-Companhias com Comitê de Auditoria Estatutário (CAE) ................................ ... 26
+Companhias com Comitê de Auditoria Estatutário (CAE) ................................... 26
 
 2.1.4.3 Documentação dos requisitos de instalação, composição e
 
-funcionamento do CAE ................................ ................................ ..................... 27
+funcionamento do CAE ..................................................................................... 27
 
 2.1.4.4 Recondução dos membros do CAE por reeleição ................................ 27
 
-2.1.4.5 Utilização de um único CAE para o Grupo ................................ .......... 27
+2.1.4.5 Utilização de um único CAE para o Grupo .......................................... 27
 
 2.1.5 Demonstrações resumidas publicadas (em jornal impresso) ................... 28
 
 2.1.6 Aspectos relevantes a serem observados na revisão das Notas Explicativas
+
+3
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 5
 
@@ -459,8 +423,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-4
 
 e na avaliação das demais informações constantes das Demonstrações Financeiras
 
@@ -528,6 +490,8 @@ de auditoria ...................................................................
 
 3.3 Principais assuntos apontados nos últimos anos pelo IFIAR .......................... 43
 
+4
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 6
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -539,8 +503,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-5
 
 1 TEMAS RELACIONADOS AO CADASTRO, ATUALIZAÇÃO E MANUTENÇÃO DO
 
@@ -562,13 +524,13 @@ incompatibilidades entre as normas emitidas pela CVM e o regime disciplinar do C
 
 A Resolução CVM nº 23/2021 mantém duas formas de registro:
 
-• Auditor Independente – Pessoa Natural (AIPN) , conferido ao contador
+• Auditor Independente – Pessoa Natural (AIPN), conferido ao contador
 
 legalmente habilitado e que satisfaça as demais exigências estabelecidas nos arts.
 
 3º, 5º e 7º; e
 
-• Auditor Independente – Pessoa Jurídica (AIPJ) , conferido à sociedade
+• Auditor Independente – Pessoa Jurídica (AIPJ), conferido à sociedade
 
 integrada exclusivamente por contadores, cadastrada em Conselho Regional de
 
@@ -590,7 +552,7 @@ qualquer natureza com o AIPJ registrado na CVM possam emitir e assinar relatóri
 
 asseguração, razoável (auditoria) ou limitada (revisão de informações intermediárias),
 
-ou de revisão externa do controle de qualidade em nome da sociedade, torna -se
+ou de revisão externa do controle de qualidade em nome da sociedade, torna-se
 
 obrigatório estar cadastrado como responsável técnico junto à CVM. Nesse sentido, é
 
@@ -600,7 +562,7 @@ atribuída a responsabilidade pela condução, execução e emissão do relatór
 
 nos trabalhos de auditoria no âmbito do MVM e , por consequência, o ônus de quaisquer
 
-desvios vinculados , além da responsabilidade da própria sociedade de aud itoria
+desvios vinculados, além da responsabilidade da própria sociedade de auditoria
 
 registrada como auditor independente na CVM.
 
@@ -611,6 +573,8 @@ Para obter ou manter registro na CVM, o objeto social das sociedades de auditori
 ser exclusivamente voltado à prestação de serviços profissionais de auditoria e demais
 
 serviços inerentes à profissão de contador, conforme estabelecido no inciso I do art. 4º
+
+5
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 7
 
@@ -623,8 +587,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-6
 
 da Resolução CVM nº 23/2021, o que não inclui participação/investimento em outras
 
@@ -640,7 +602,9 @@ alteração no quadro social, seja por exclusão ou por admissão de sócios, é
 
 que seja mantida essa proporção, sob pena de suspensão ou mesmo cancelamento do
 
-respectivo registro até que a situação seja regularizada2.
+respectivo registro até que a situação seja regularizada2
+
+.
 
 1.1.3 Do pagamento da Taxa de fiscalização
 
@@ -648,17 +612,17 @@ Desde 01/01/2022, para o registro como auditor independente, é obrigatória a
 
 comprovação do pagamento da Taxa de Fiscalização pelo exercício do poder de polícia
 
-legalmente atribuído à CVM nos termos da Lei 7.940/1989 e suas alterações 3. O
+legalmente atribuído à CVM nos termos da Lei 7.940/1989 e suas alterações3. O
 
-pagamento é anual e deve ser integral, inadmitido o pagamento pró -rata, ressaltando-
+pagamento é anual e deve ser integral, inadmitido o pagamento pró-rata, ressaltando-
 
 se, ainda, que a taxa de fiscalização tem natureza tributária, podendo, no caso de
 
 inadimplemento, ser inscrita na Dívida Ativa da União com os acréscimos de que trata o
 
-art. 5º da já mencionada Lei 7.940/1989 . Mais informações a respeito da taxa de
+art. 5º da já mencionada Lei 7.940/1989. Mais informações a respeito da taxa de
 
-fiscalização podem ser obtidas em https://www.gov.br/cvm/pt -
+fiscalização podem ser obtidas em https://www.gov.br/cvm/pt-
 
 br/assuntos/regulados/taxa-de-fiscalizacao.
 
@@ -686,7 +650,7 @@ em GOV.BR) o link: https://cvmweb.cvm.gov.br/swb/default.asp?sg_sistema=sic.
 
 Para que se delegue o acesso a novos prepostos, é necessário que
 
-os Representantes de AIPJ , ou AIPN, façam a delegação após o
+os Representantes de AIPJ, ou AIPN, façam a delegação após o
 
 acesso ao CVMWEB. O acesso para delegação se dá na tela inicial do CVMWEB,
 
@@ -702,6 +666,8 @@ em "SERVIÇOS AO PARTICIPANTE CVM" > "ADMINISTRAÇÃO DE CONTAS" >
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 8
 
+6
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -711,8 +677,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-7
 
 1.2.2 Da administração e manutenção do cadastro no sistema
 
@@ -736,9 +700,9 @@ alguma exigência. O andamento da análise pode ser acompanhado dentro do própr
 
 sistema INFOAUDI.
 
-Inicialmente, a solicitação cadastrada no INFOAUDI fica em uma situação p endente, o
+Inicialmente, a solicitação cadastrada no INFOAUDI fica em uma situação pendente, o
 
-que significa que ela se encontra em análise - com a GNA . Caso na avaliação do
+que significa que ela se encontra em análise - com a GNA. Caso na avaliação do
 
 processo pela Gerência seja identificada a necessidade de ajuste ou complementação
 
@@ -756,7 +720,7 @@ cadastral
 
 Para facilitar o uso do novo sistema, está disponível em sua tela inicial o: “Manual rápido
 
-de acesso ao InfoAudi para Solicitação de Registro ” e “Manual rápido de acesso ao
+de acesso ao InfoAudi para Solicitação de Registro” e “Manual rápido de acesso ao
 
 InfoAudi para Atualização Cadastral (auditores independentes já registrados na
 
@@ -764,7 +728,7 @@ CVM)”, com as orientações aos requerentes de novos registros e com as princi
 
 funcionalidades do sistema a serem utilizadas por auditores independentes já registrados
 
-na CVM, respectivamente. Entre as funciona lidades constantes do Manual para
+na CVM, respectivamente. Entre as funcionalidades constantes do Manual para
 
 Atualização Cadastral, destacamos:
 
@@ -790,6 +754,8 @@ indeferimento da solicitação.
 
 apresentação de documentação comprobatória que será avaliada pela GNA com
 
+7
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 9
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -802,8 +768,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-8
-
 posterior deferimento ou indeferimento da solicitação.
 
 • Sócio/Representante/Diretor Responsável (disponível apenas para AIPJ): Permite
@@ -814,7 +778,7 @@ Diretor Responsável de um AIPJ. Seja referente à inserção de um novo tipo de
 
 responsável, exclusão ou alteração de um já cadastrado (mudança de tipo, nome,
 
-transferência de conselho de classe (CRC), e -mail) - mediante apresentação de
+transferência de conselho de classe (CRC), e-mail) - mediante apresentação de
 
 documentação comprobatória que será avaliada pela GNA com posterior
 
@@ -880,6 +844,8 @@ de informações do auditor independente na CVM, pode ser acessada pelo próprio
 
 no sistema e nele é possível consultar a lista atualizada com os responsáveis técnicos
 
+8
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 10
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -891,8 +857,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-9
 
 autorizados a emitir e assinar relatórios de auditoria e de revisão em nome da sociedade
 
@@ -930,9 +894,9 @@ Na situação acima os arquivos poderiam ser nomeados como: CART CRC SOCIO
 
 preciso enviar mais de um arquivo para um determinado tipo de documento pode
 
-ser utilizado algum diferencial no final do nome do arquivo para individualizá -lo.
+ser utilizado algum diferencial no final do nome do arquivo para individualizá-lo.
 
-Por exemplo: REL ATORIO AUDITORIA ANO 2024; RELATORIO AUDITORIA ANO
+Por exemplo: RELATORIO AUDITORIA ANO 2024; RELATORIO AUDITORIA ANO
 
 2024 PARTE 1; RELATORIO AUDITORIA ANO 2024 PARTE 2.
 
@@ -946,7 +910,7 @@ contratuais
 
 • Todas as solicitações de inclusão de novos sócios ou novos responsáveis técnicos
 
-devem informar o e -mail profissional individual do referido sócio/responsável
+devem informar o e-mail profissional individual do referido sócio/responsável
 
 técnico, inclusive, no arquivo de Informação Cadastral.
 
@@ -956,15 +920,17 @@ um processo do tipo "Alteração Contratual (Outros)". No entanto, é obrigatór
 
 registro também dos processos específicos, caso a referida alteração trate ainda
 
-(ou entre outr os assuntos) de sócio/representante/diretor
+(ou entre outros assuntos) de sócio/representante/diretor
 
 responsável/responsável técnico, endereço e/ou denominação social,
 
 contemplando assim cada uma das situações individualmente. Por exemplo: 1
 
-processo de inclusão do sócio [XXX], 1 processo de exclusão do sócio [Y YY], 1
+processo de inclusão do sócio [XXX], 1 processo de exclusão do sócio [YYY], 1
 
 processo de mudança de endereço da filial [ZZZ], além do processo de "Alteração
+
+9
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 11
 
@@ -978,13 +944,11 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-10
-
 Contratual (Outros)".
 
 Ou seja, é imprescindível a abertura de todos os demais processos específicos
 
-concomitantemente à abertura do processo de Alteração Contratual , e vice -
+concomitantemente à abertura do processo de Alteração Contratual, e vice-
 
 versa, sob pena de indeferimento dos que constarem na fila de análise da GNA.
 
@@ -1026,7 +990,7 @@ GNA, informando sobre a necessidade de complementação de documentos e/ou
 
 informações dentro do prazo de 15 (quinze) dias úteis.
 
-O Sistema também envia continuamente e -mails automáticos diários, como lembretes,
+O Sistema também envia continuamente e-mails automáticos diários, como lembretes,
 
 quando o processo ainda não teve suas exigências atendidas.
 
@@ -1046,9 +1010,9 @@ O cancelamento de registro como AIPN ou AIPJ ou a exclusão de responsáveis té
 
 pode ser feito através de declaração assinada e datada pelo representante em caso de
 
-Pessoa Jurídica ou pelo próprio auditor em caso de Pessoa Natural , anexada à
+Pessoa Jurídica ou pelo próprio auditor em caso de Pessoa Natural, anexada à
 
-solicitação específica no INFOAUDI . A declaração deve indicar a ciência dos
+solicitação específica no INFOAUDI. A declaração deve indicar a ciência dos
 
 profissionais sobre a exclusão do cadastro de responsáveis técnicos e a necessidade de
 
@@ -1057,6 +1021,8 @@ cumprimento das exigências da Resolução CVM nº 23/2021, caso não mantenham 
 cadastros ativos na CVM, incluindo nova aprovação no Exame de Qualificação Técnica da
 
 CVM para futuros registros como AIPN ou inclusões como responsável técnico de AIPJ,
+
+10
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 12
 
@@ -1069,8 +1035,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-11
 
 ainda que seja da mesma sociedade da qual foi excluído.
 
@@ -1088,7 +1052,7 @@ disposto no art. 7º (inciso V, art. 5º; inciso XI, art. 6º; inciso IV, art.
 
 Dentre as outras condições para obtenção do registro, é fundamental que seja
 
-comprovado o exercício da atividade de auditoria, que compreende , basicamente, a
+comprovado o exercício da atividade de auditoria, que compreende, basicamente, a
 
 emissão e assinatura de pareceres ou relatórios de auditoria, pelo prazo mínimo de 05
 
@@ -1114,7 +1078,7 @@ deve incluir o relatório, demonstrações contábeis e notas explicativas, e se
 
 realizada conforme as normas do Conselho Federal de Contabilidade (CFC). Devem
 
-ser informados o nome do jornal/revista ou o endereço do site , no caso de
+ser informados o nome do jornal/revista ou o endereço do site, no caso de
 
 publicações em páginas específicas, e a data da publicação.
 
@@ -1124,7 +1088,7 @@ comprovar que exerceu a atividade de auditoria em sociedade de auditoria
 
 registrada na CVM, com a data de registro como contador sendo o marco inicial
 
-para a contagem da experiência . A comprovação pode ser feita por meio de cópia
+para a contagem da experiência. A comprovação pode ser feita por meio de cópia
 
 do registro individual de empregado ou declaração da sociedade, detalhando a
 
@@ -1144,9 +1108,11 @@ empregadora, contendo todas as informações exigidas em regulamentação
 
 específica. Também será admitida declaração firmada por sócio representante
 
-da sociedade de auditoria empr egadora, na qual deverão constar,
+da sociedade de auditoria empregadora, na qual deverão constar,
 
 necessariamente, a qualificação do contador; as datas de admissão e saída do
+
+11
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 13
 
@@ -1160,8 +1126,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-12
-
 emprego (se for o caso); o cargo ou função em que foi admitido e as datas em
 
 que ocorreram as alterações de cargos ou funções exercidas.
@@ -1172,7 +1136,7 @@ interessado, compreendendo as páginas que contêm: o número e a série da
 
 CTPS; a qualificação do titular; as anotações referentes aos contratos de trabalho
 
-e as alterações de salários, fé rias, cargos ou funções exercidas. Não precisam
+e as alterações de salários, férias, cargos ou funções exercidas. Não precisam
 
 ser apresentadas as cópias das páginas da CTPS que estiverem em branco, ou
 
@@ -1192,7 +1156,7 @@ A CVM poderá ainda, a seu exclusivo critério, aceitar a comprovação do exerc
 
 atividade de auditoria mediante a apresentação de trabalhos não publicados4, contendo o
 
-respectivo relatório de asseguração razoável ( auditoria), o relatório circunstanciado
+respectivo relatório de asseguração razoável (auditoria), o relatório circunstanciado
 
 correspondente (relatório final, que englobe todo o período auditado) e as respectivas
 
@@ -1232,17 +1196,19 @@ O interessado deve apresentar cópia da carteira de identidade de contabilista, 
 
 categoria de contador, ou certidão equivalente de registro expedida pelo CRC, caso a data
 
-de registro não conste na sua carteira. Isso porque, ausente a referida data, para e feito
+de registro não conste na sua carteira. Isso porque, ausente a referida data, para efeito
 
 de termo inicial da contagem do tempo de exercício da atividade de auditoria na forma
 
 do art. 7º, será considerada a data de expedição da carteira apresentada. Então, quando
 
-houver nova emissão da carteira, recomenda -se que sejam encaminhadas também as
+houver nova emissão da carteira, recomenda-se que sejam encaminhadas também as
 
 4 Resolução CVM n° 23, art. 7°, §1º.
 
-Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 14
+Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) 12
+
+SEI 19957.003477/2025-32 / pg. 14
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1254,15 +1220,13 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-13
-
 cópias anteriores, de forma que possa ser considerada a data de expedição mais antiga
 
 como termo inicial da contagem do tempo de exercício de atividade de auditoria.
 
 Embora seja possível apenas a entrega da “certidão equivalente, expedida por Conselho
 
-Regional de Contabilidade” de acordo com a norma 5, recomenda -se também a
+Regional de Contabilidade” de acordo com a norma5, recomenda-se também a
 
 apresentação do arquivo digital da carteira de identidade profissional gerado a partir do
 
@@ -1330,6 +1294,8 @@ página da respectiva prefeitura municipal na rede mundial de computadores;
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 15
 
+13
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -1339,8 +1305,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-14
 
 • a declaração específica de dispensa ou de isenção de alvará do AIPN ou AIPJ
 
@@ -1376,7 +1340,9 @@ mobiliários. Portanto, para o registro de Auditor Independente (AIPN ou AIPJ) n
 
 necessário apresentar o certificado de aprovação no exame específico (CVM) de
 
-qualificação técnica6.
+qualificação técnica6
+
+.
 
 A Certidão de Registro no CNAI não é suficiente pois apenas comprova que o
 
@@ -1384,7 +1350,7 @@ contador está registrado como auditor independente, mas não atesta que ele
 
 passou no exame de qualificação técnica específico exigido pela CVM para atuar
 
-como responsável técnico em sociedades de auditoria. Como se sabe , muitos
+como responsável técnico em sociedades de auditoria. Como se sabe, muitos
 
 profissionais integrantes do CNAI foram migrados para o cadastro na CVM sem aprovação
 
@@ -1392,7 +1358,7 @@ no exame, pois já possuíam registro anterior a criação da prova específica.
 
 O certificado pode ser obtido no site do Conselho Federal de Contabilidade (CFC) na rede
 
-mundial de computadores (https://cfc.org.br/desenvolvimento -profissional-e-
+mundial de computadores (https://cfc.org.br/desenvolvimento-profissional-e-
 
 institucional/exames/certificados/).
 
@@ -1406,11 +1372,11 @@ não precisam apresentar o certificado de aprovação no exame de qualificação
 
 técnica caso a alteração ocorra de forma concomitante, ou seja, sem
 
-descontinuidade do registro do profissional junto à CVM . Assim, os profissionais
+descontinuidade do registro do profissional junto à CVM. Assim, os profissionais
 
 que já foram cadastrados na CVM como responsáveis técnicos de uma sociedade de
 
-auditoria estão sujeitos à comprovação de aprovação no ref erido exame (Qualificação
+auditoria estão sujeitos à comprovação de aprovação no referido exame (Qualificação
 
 Técnica - CVM) caso a solicitação de inclusão em outro auditor, ou em sociedade de
 
@@ -1422,6 +1388,8 @@ responsável técnico no auditor anterior ou naquela sociedade de auditoria em q
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 16
 
+14
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -1432,8 +1400,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-15
-
 essa função.
 
 Após aprovação no certame e até seu cadastro ou registro na CVM, o profissional
@@ -1442,7 +1408,7 @@ interessado em obter tal prerrogativa deverá manter-se em dia com os requerimen
 
 Programa de Educação Profissional Continuada, comprovando sua regularidade através
 
-de cert idão específica emitida pelo CFC 7. Caso contrário, o requerente deverá obter
+de certidão específica emitida pelo CFC7. Caso contrário, o requerente deverá obter
 
 novamente a aprovação no exame de qualificação técnica específico para a CVM.
 
@@ -1474,7 +1440,9 @@ Os auditores independentes devem encaminhar à CVM, até o último dia útil do 
 
 abril de cada ano, informações relacionadas à sua atuação no mercado de valores
 
-mobiliários, conforme Anexo D à Resolução CVM n.º 23/2021 8. Essas informações são
+mobiliários, conforme Anexo D à Resolução CVM n.º 23/20218
+
+. Essas informações são
 
 subsídios importantes para a CVM avaliar a capacidade dos auditores em atender
 
@@ -1482,7 +1450,7 @@ adequadamente aos seus clientes.
 
 Tais informações devem ser encaminhadas via internet, na página da CVM. O envio
 
-deve ser feito através da opção “REGULADOS (https:// www.gov.br/cvm/pt-
+deve ser feito através da opção “REGULADOS (https://www.gov.br/cvm/pt-
 
 br/assuntos/regulados)”, selecionando em seguida a opção “ENVIO DE DOCUMENTOS
 
@@ -1510,7 +1478,9 @@ Nesta etapa, existem duas opções para encaminhamento das informações: i) Env
 
 8 Resolução CVM n° 23, art. 16.
 
-Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 17
+Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) 15
+
+SEI 19957.003477/2025-32 / pg. 17
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1521,8 +1491,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-16
 
 documentos via formulário e ii) Upload de documentos. Por último, deve ser selecionada
 
@@ -1544,7 +1512,7 @@ apresenta no item 4.A o requerimento de apresentação das demonstrações cont�
 
 da sociedade de auditoria (somente pessoa jurídica) referentes ao exercício social que
 
-serve de bas e para as informações anuais em apresentação, caso já decorrido prazo
+serve de base para as informações anuais em apresentação, caso já decorrido prazo
 
 previsto em lei para sua elaboração; ou ao penúltimo exercício social encerrado, nos
 
@@ -1556,7 +1524,9 @@ opção de upload de documentos disponibilizada.
 
 A não observância do prazo de envio das informações tratadas neste tópico enseja a
 
-cobrança de multa cominatória diária de R$ 200,00 (duzentos reais)9.
+cobrança de multa cominatória diária de R$ 200,00 (duzentos reais)9
+
+.
 
 Não há mais a necessidade de informar os cursos e treinamentos realizados no ano de
 
@@ -1574,7 +1544,7 @@ permite o registro na categoria de AIPN de contador que seja sócio, diretor ou
 
 responsável técnico ou que tenha vínculo profissional de qualquer natureza com AIPJ.
 
-Dessa forma, corrigiu -se situação assimétrica que permitia a sócios ou responsáveis
+Dessa forma, corrigiu-se situação assimétrica que permitia a sócios ou responsáveis
 
 técnicos de AIPJ registrados na CVM atuar em outra sociedade de auditoria também
 
@@ -1596,7 +1566,9 @@ determinação serão prontamente indeferidos.
 
 9 Prevista na Resolução CVM n° 23, art. 1, à luz da Resolução CVM n° 47/2021.
 
-Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 18
+Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) 16
+
+SEI 19957.003477/2025-32 / pg. 18
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1608,8 +1580,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-17
-
 1.9 Programa de Revisão Externa de Qualidade (Art. 33 – Resolução CVM
 
 n.º 23/2021)
@@ -1618,7 +1588,7 @@ n.º 23/2021)
 
 Os auditores independentes devem se submeter à revisão externa de qualidade
 
-realizada por outro auditor registrado na CVM 10, em consonância com as normas
+realizada por outro auditor registrado na CVM10, em consonância com as normas
 
 técnicas e profissionais, especialmente a NBC PA 11 emitida pelo CFC.
 
@@ -1634,7 +1604,7 @@ na CVM ou AIPN registrado nesta autarquia, conforme o caso.
 
 1.9.2 Da atuação do auditor-revisor
 
-Especificamente em relação à atuação do auditor -revisor, no âmbito do Programa de
+Especificamente em relação à atuação do auditor-revisor, no âmbito do Programa de
 
 Supervisão Baseada em Risco (SBR) adotado pela CVM nos últimos anos, foram
 
@@ -1664,7 +1634,9 @@ O descumprimento ao programa de revisões em pelo menos 2 (dois) dos últimos 5
 
 (cinco) anos leva à suspensão do registro do auditor até que uma nova revisão seja
 
-apresentada e aprovada11.
+apresentada e aprovada11
+
+.
 
 Desde 2018, os auditores que reincidirem no descumprimento ao Programa de Revisão
 
@@ -1672,7 +1644,7 @@ Externa de Qualidade, terão seus registros suspensos na CVM e, caso deseje reat
 
 seu registro, deverão, por ato próprio e sem necessidade de prévia indicação do Comitê
 
-de Revisão Externa de Qualidade – CRE, indicar seu auditor -revisor ao CRE,
+de Revisão Externa de Qualidade – CRE, indicar seu auditor-revisor ao CRE,
 
 submetendo-se à revisão externa de qualidade, dentro dos prazos e procedimentos
 
@@ -1684,7 +1656,9 @@ conclusões e recomendações deverão ser apresentados ao CRE para que seja pos
 
 11 Resolução CVM n° 23/2021, art. 33, §4º.
 
-Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 19
+Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) 17
+
+SEI 19957.003477/2025-32 / pg. 19
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1695,8 +1669,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-18
 
 analisar a revisão realizada, aprovando-a ou não.
 
@@ -1736,7 +1708,7 @@ recorrência dessa prática, ano após ano, caracteriza tentativa de burla ao
 
 cumprimento da revisão externa de qualidade. Dessa forma, lembramos que tais
 
-auditores estão passíveis de suspensão do registro, al ém da adoção de outras
+auditores estão passíveis de suspensão do registro, além da adoção de outras
 
 medidas administrativas aplicáveis ao caso.
 
@@ -1768,6 +1740,8 @@ ao auditor suspenso realizar a solicitação junto à CVM.
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 20
 
+18
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -1777,8 +1751,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-19
 
 1.10 Programa de Educação Profissional Continuada (Art. 34 –
 
@@ -1806,7 +1778,9 @@ O descumprimento ao Programa de Educação Profissional Continuada em pelo menos
 
 sócios e/ou responsáveis técnicos, enseja a suspensão imediata do registro até que seja
 
-apresentado novo certificado de aprovação no Exame de Qualificação Técnica13.
+apresentado novo certificado de aprovação no Exame de Qualificação Técnica13
+
+.
 
 1.10.2 Da apresentação do relatório anual de atividades relacionadas à
 
@@ -1854,6 +1828,8 @@ da Tabela I do Anexo II – conforme previsto no item 7 da NBC PG 12 (R4).
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 21
 
+19
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -1863,8 +1839,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-20
 
 1.11 Atualização Cadastral e Declaração Eletrônica de Conformidade
 
@@ -1896,7 +1870,7 @@ auditores independentes são realizadas por meio de mensagens eletrônicas
 
 Ainda neste tema, lembramos que o e-mail informado como elo de comunicação com a
 
-CVM não esteja protegido por barreiras de mensagens (anti - spam), posto que tal
+CVM não esteja protegido por barreiras de mensagens (anti- spam), posto que tal
 
 funcionalidade impede a recepção de mensagens encaminhadas. Infelizmente, temos
 
@@ -1914,7 +1888,7 @@ assumem o risco de sua manutenção.
 
 A Declaração Eletrônica de Conformidade deve ser emitida pelo acesso à opção
 
-“REGULADOS (https:// www.gov.br/cvm/pt-br/assuntos/regulados)”, selecionando a
+“REGULADOS (https://www.gov.br/cvm/pt-br/assuntos/regulados)”, selecionando a
 
 opção “SERVIÇOS AO PARTICIPANTE CVM” e a seguir a opção “ATUALIZAÇÃO
 
@@ -1938,7 +1912,9 @@ informação: “Formulário já enviado? SIM”.
 
 14 Resolução CVM n.º 51/2021, art. 2º, II.
 
-Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 22
+Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) 20
+
+SEI 19957.003477/2025-32 / pg. 22
 
 COMISSÃO DE VALORES MOBILIÁRIOS
 
@@ -1949,8 +1925,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-21
 
 1.11.3 Da multa cominatória por falta de entrega ou atraso na
 
@@ -1970,9 +1944,9 @@ responsabilidade dos sócios
 
 Quanto ao tipo societário, com base no Código Civil (CC), a sociedade uniprofissional
 
-de contadores é de natureza simples 16, não empresária. Assim, o registro delas deve
+de contadores é de natureza simples16, não empresária. Assim, o registro delas deve
 
-ser feito no Registro Civil das Pessoas Jurídicas (RCPJ) 17, mesmo que adotem tipos
+ser feito no Registro Civil das Pessoas Jurídicas (RCPJ)17, mesmo que adotem tipos
 
 societários de sociedades empresárias18.
 
@@ -2030,6 +2004,8 @@ unipessoal deverá se registrar na categoria de auditor independente pessoa jur�
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 23
 
+21
+
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
@@ -2039,8 +2015,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-22
 
 AUDITORIA
 
@@ -2116,6 +2090,8 @@ deve “elaborar e encaminhar à administração e ao Conselho Fiscal, relatóri
 
 circunstanciado que contenha suas observações em relação aos controles internos e aos
 
+22
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 24
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2127,8 +2103,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-23
 
 procedimentos contábeis da entidade auditada, descrevendo, ainda, as eventuais
 
@@ -2168,7 +2142,7 @@ Além disso, é importante frisar que o referido relatório, em consonância com
 
 norma profissional, deve segregar as deficiências significativas daquelas não
 
-significativas. Naquelas situações, extremamente raras , em que o auditor
+significativas. Naquelas situações, extremamente raras, em que o auditor
 
 independente concluir pela não identificação de deficiências de controles internos
 
@@ -2184,13 +2158,13 @@ executou a avaliação dos controles internos e procedimentos contábeis previst
 
 norma emitida pela CVM e pelas normas profissionais de auditoria independente. É
 
-sempre importa nte lembrar que cabe à administração da entidade auditada a
+sempre importante lembrar que cabe à administração da entidade auditada a
 
 responsabilidade pela adequação dos controles internos que ela determinou como
 
 necessários para permitir a elaboração de demonstrações contábeis livres de distorção
 
-relevante e, ao auditor, consid erar o controle interno para planejar os procedimentos
+relevante e, ao auditor, considerar o controle interno para planejar os procedimentos
 
 de auditoria que são apropriados nas circunstâncias; mas não com a finalidade de
 
@@ -2210,6 +2184,8 @@ ou, ainda, se aquelas consideradas inicialmente como “não significativas”
 
 alteraram seu status em função da sua recorrência, sem ações da
 
+23
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 25
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2221,8 +2197,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-24
 
 administração da entidade auditada ao longo dos períodos examinados.
 
@@ -2270,7 +2244,7 @@ do auditor sobre deficiências significativas faz parte do arquivo
 
 de auditoria final, a comunicação por escrito está sujeita
 
-ao requisito do item 14 da NBC TA 230 , que requer do
+ao requisito do item 14 da NBC TA 230, que requer do
 
 auditor a montagem tempestiva do arquivo de auditoria final.
 
@@ -2280,7 +2254,7 @@ a conclusão da montagem do arquivo de auditoria final é
 
 normalmente de no máximo 60 dias após a data do relatório
 
-do auditor independente (NBC TA 230, item A21). (grif os
+do auditor independente (NBC TA 230, item A21). (grifos
 
 nossos)
 
@@ -2302,6 +2276,8 @@ n.º 23/2021)
 
 O inciso VII, art. 25, da Resolução CVM n.º 23/2021 determina que o auditor deve:
 
+24
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 26
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2313,8 +2289,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-25
 
 VII – garantir que todos os sócios, diretores, gerentes,
 
@@ -2354,7 +2328,7 @@ No que tange especificamente aos contadores já cadastrados como responsáveis
 
 técnicos autorizados a emitir e assinar relatórios de auditoria em nome de cada
 
-sociedade de auditoria, no âmbito do mercado de valores mobiliários, ressalte -se que,
+sociedade de auditoria, no âmbito do mercado de valores mobiliários, ressalte-se que,
 
 por ocasião de seus requerimentos de inclusão no cadastro de responsáveis técnicos,
 
@@ -2362,7 +2336,7 @@ estes cumpriram com todos os requisitos que lhes facultaram o deferimento dos se
 
 pedidos de cadastro por parte da CVM. Desse modo, compõe entendimento pacificado
 
-na SNC, de que os res ponsáveis técnicos, como tal já cadastrados nesta autarquia e
+na SNC, de que os responsáveis técnicos, como tal já cadastrados nesta autarquia e
 
 enquanto mantiverem seu atual cadastro ativo, não necessitam ser aprovados em
 
@@ -2394,6 +2368,8 @@ normativa ao estabelecer a aludida regra.
 
 Não há qualquer hipótese prevista na Resolução CVM nº 23/2021 que contemple a
 
+25
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 27
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2405,8 +2381,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-26
 
 redução do intervalo mínimo estabelecido. Não há relação de proporcionalidade entre o
 
@@ -2482,6 +2456,8 @@ independente, e que permaneça em funcionamento após essa data enquanto se util
 
 da prerrogativa. Além disso, o auditor deve ser pessoa jurídica e atender os requisitos
 
+26
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 28
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2493,8 +2469,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-27
 
 dos arts. 31-B a 31-F da referida resolução.
 
@@ -2552,7 +2526,7 @@ interregno entre os mandatos. Contudo, na ocorrência de qualquer lacuna entre o
 
 mandatos, os membros do CAE só poderão voltar a integrar tal órgão, na mesma
 
-companhia, após decor ridos, no mínimo, três anos do final do mandato (conforme
+companhia, após decorridos, no mínimo, três anos do final do mandato (conforme
 
 explicitado no § 4º do art. 31-C da Resolução CVM nº 23/21).
 
@@ -2564,11 +2538,13 @@ Por último, ressaltamos que não existe impedimento normativo para a utilizaç�
 
 abertas do Grupo. Entretanto, para garantir o cumprimento integral da Resolução CVM
 
-nº 2 3/2021, são necessárias ações individualizadas por companhia. A seguir,
+nº 23/2021, são necessárias ações individualizadas por companhia. A seguir,
 
 exemplificam-se algumas dessas ações:
 
 • previsão do CAE no Estatuto Social de cada companhia;
+
+27
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 29
 
@@ -2582,15 +2558,13 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-28
-
 • vínculo direto do CAE ao Conselho de Administração de cada companhia ou vínculo
 
-direto do CAE ao Conselho de Administração da sociedade -mãe, desde que as
+direto do CAE ao Conselho de Administração da sociedade-mãe, desde que as
 
 atribuições do referido comitê em relação às subsidiárias integrais estejam
 
-devidamente formalizadas n os estatutos sociais, regimentos internos e demais
+devidamente formalizadas nos estatutos sociais, regimentos internos e demais
 
 documentos pertinentes da sociedade-mãe e das demais companhias;
 
@@ -2654,6 +2628,8 @@ as demonstrações financeiras, com o conteúdo requerido, para cada companhia.
 
 O Parecer de Orientação 39 publicado pela CVM em 20 de dezembro de 2021 trata dos
 
+28
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 30
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2665,8 +2641,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-29
 
 requisitos a serem observados na publicação de demonstrações contábeis resumidas,
 
@@ -2696,7 +2670,7 @@ relatório do auditor independente resumido deve conter. Entretanto, esse conte�
 
 mínimo não limita a sua aplicação, tampouco exclui a necessidade de divulgação de
 
-outras informações relev antes existentes no relatório de auditoria. Assim, é o
+outras informações relevantes existentes no relatório de auditoria. Assim, é o
 
 entendimento desta SNC que, se ao consignar parágrafos de ênfase em seu relatório,
 
@@ -2720,7 +2694,7 @@ informações publicadas de forma condensada estão em consonância com as
 
 demonstrações financeiras completas auditadas e com o relatório emitido pelo auditor
 
-independente s obre essas demonstrações financeiras completas, em linha com o
+independente sobre essas demonstrações financeiras completas, em linha com o
 
 disposto no artigo 25, I da Resolução CVM 23/2021.
 
@@ -2746,6 +2720,8 @@ Financeiras auditadas
 
 Como informado pela Superintendência de Relações com Empresas - SEP, no resultado
 
+29
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 31
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2757,8 +2733,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-30
 
 de suas ações relacionadas aos pedidos de registro de companhia aberta, foram
 
@@ -2804,7 +2778,7 @@ normas relacionadas a elaboração das Demonstrações Financeiras e das Demonst
 
 Intermediárias relacionadas aos temas acima mencionados, bem como às orientações
 
-constantes no OFÍCIO -CIRCULAR/CVM/SNC/SEP/n.º 01/202 5 (e ofícios circulares de
+constantes no OFÍCIO-CIRCULAR/CVM/SNC/SEP/n.º 01/2025 (e ofícios circulares de
 
 anos anteriores); de outro, cabe ao auditor independente envidar esforços na análise
 
@@ -2834,6 +2808,8 @@ auditor será imputada responsabilidade pela opinião emitida no respectivo rela
 
 auditoria e pela condução dos trabalhos e procedimentos de auditoria que serviram de
 
+30
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 32
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -2845,8 +2821,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-31
 
 base para sua opinião, caso existam desvios relacionados à estrutura de relatório
 
@@ -2862,7 +2836,7 @@ entendemos que seus objetivos informacionais foram alcançados. Entretanto, é
 
 relevante salientar que, para que se atinjam tais objetivos, é imprescindível que a
 
-descrição dos procedimentos efetuado s pelo auditor e dos resultados alcançados
+descrição dos procedimentos efetuados pelo auditor e dos resultados alcançados
 
 apresentem conteúdo informacional relevante para os usuários, não se restringindo a
 
@@ -2904,9 +2878,9 @@ Adicionalmente, considerando a dinâmica do ambiente econômico e de negócios, 
 
 como da diversidade das atividades, dos processos e dos sistemas das entidades
 
-auditadas, espera -se que os relatórios de auditoria sejam efetivamente
+auditadas, espera-se que os relatórios de auditoria sejam efetivamente
 
-individualizados, não s endo meras repetições dos principais assuntos de auditoria do
+individualizados, não sendo meras repetições dos principais assuntos de auditoria do
 
 exercício anterior, tampouco, composto de assuntos (PAAs) padronizados, estabelecidos
 
@@ -2917,6 +2891,8 @@ atuação das entidades auditadas.
 Nesse sentido, em relação às demonstrações financeiras de patrimônios separados e o
 
 disposto no item VIII, art. 25, da Resolução CVM n.º 23/2021, que trata dos Principais
+
+31
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 33
 
@@ -2929,8 +2905,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-32
 
 Assuntos de Auditoria, lembramos que cada patrimônio separado é considerado uma
 
@@ -3004,6 +2978,8 @@ sobre as demonstrações contábeis, se houver, poderiam ser
 
 relevantes, mas não generalizados.
 
+32
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 34
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3015,8 +2991,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-33
 
 Opinião adversa
 
@@ -3094,6 +3068,8 @@ de auditoria adverso ou com ressalva.
 
 Ainda sobre o tema, lembramos que após emissão de diversos ofícios de alerta pela
 
+33
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 35
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3105,8 +3081,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-34
 
 SNC, e, concomitante interação com o Ibracon, o Conselho Federal de Contabilidade
 
@@ -3132,7 +3106,7 @@ definição e execução de procedimentos de auditoria para obter evidência de 
 
 apropriada e suficiente para chegar a conclusões razoáveis que fundamentem sua
 
-opinião de auditoria, forne cendo orientação sobre os meios disponíveis para o auditor
+opinião de auditoria, fornecendo orientação sobre os meios disponíveis para o auditor
 
 selecionar os itens para teste, sendo a amostragem de auditoria um deles.
 
@@ -3178,6 +3152,8 @@ A esse respeito, entendemos relevante ressaltar que o teste efetuado sobre uma s
 
 de itens específicos não fornece evidência de auditoria referente ao restante da
 
+34
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 36
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3189,8 +3165,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-35
 
 população. Assim, a conclusão de auditoria obtida com o referido teste é limitada aos
 
@@ -3226,7 +3200,7 @@ do auditor, a amostra seja considerada representativa da população analisada, 
 
 insuficiência quantitativa de itens selecionados ou pela irrelevância dos itens analisados
 
-naquele contexto, pelo desprezo aos procedimentos estatísticos, ao bom - senso ou ao
+naquele contexto, pelo desprezo aos procedimentos estatísticos, ao bom- senso ou ao
 
 ceticismo profissional. Assim, ratificamos que todo o processo de seleção e composição
 
@@ -3270,6 +3244,8 @@ e das áreas que envolveram julgamento significativo da administração.
 
 Em complemento, a NBC TA 706, nos itens 8, A1 e A2, define que, se o auditor
 
+35
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 37
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3281,8 +3257,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-36
 
 considerar necessário chamar a atenção dos usuários para um assunto apresentado ou
 
@@ -3302,7 +3276,7 @@ mais destacada na seção “Principais Assuntos de Auditoria”, ou (ii) inseri
 
 adicionais sobre o tema na descrição desse principal assunto de auditoria. Dessa forma,
 
-será ate ndido o disposto na norma, conferindo maior transparência e conteúdo
+será atendido o disposto na norma, conferindo maior transparência e conteúdo
 
 informacional significativo para os usuários.
 
@@ -3330,7 +3304,7 @@ atingidos;
 
 É importante evitar “armadilhas mentais” no processo de julgamento profissional, que
 
-podem surgir de restrições informacionais, influências, ideias pré -concebidas e vieses.
+podem surgir de restrições informacionais, influências, ideias pré-concebidas e vieses.
 
 Equipes de profissionais experientes no tema ajudam a mitigar esses riscos, mas não
 
@@ -3340,7 +3314,7 @@ aplicação dos requerimentos das normas profissionais aplicáveis. O auditor de
 
 atento aos sinais de tendenciosidade da administração, conforme descrito no item 2.2.6
 
-do p resente Ofício-Circular. Para atingir o grau de transparência pretendido, tais
+do presente Ofício-Circular. Para atingir o grau de transparência pretendido, tais
 
 comunicações não devem ser padronizadas, devendo ser redigidas especificamente
 
@@ -3354,6 +3328,8 @@ que, de outra forma, não são sustentadas pelos fatos e circunstâncias do trab
 
 por evidência de auditoria apropriada e suficiente.
 
+36
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 38
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3365,8 +3341,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-37
 
 2.2.5 Distorções imateriais com potencial significativo de se tornarem relevantes
 
@@ -3440,6 +3414,8 @@ administração e qual seu objetivo com aquele trabalho;
 
 utilizados para o cálculo da estimativa;
 
+37
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 39
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3451,8 +3427,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-38
 
 • faz parte da responsabilidade do auditor verificar se as divulgações requeridas
 
@@ -3510,7 +3484,7 @@ sistema de gestão de qualidade para auditorias e para trabalhos de revisão das
 
 demonstrações contábeis, assim como outros trabalhos de asseguração e serviços
 
-correlatos, pois, assim como sua antecessora, a NBC PA 01 (ISQM 1) aplica -se aos
+correlatos, pois, assim como sua antecessora, a NBC PA 01 (ISQM 1) aplica-se aos
 
 trabalhos de auditoria e revisão das demonstrações contábeis, outros trabalhos de
 
@@ -3530,6 +3504,8 @@ um ano a partir de 31 de dezembro de 2022, ou seja, até 31 de dezembro de 2023.
 
 Nesse sentido, destacamos que a execução das atividades propostas na norma, bem
 
+38
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 40
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3542,15 +3518,13 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-39
-
 como a observância de seu cronograma por parte dos auditores registrados na CVM é
 
 obrigatória, sendo cada etapa passível de procedimentos específicos desta autarquia
 
 para a verificação de seu cumprimento. É importante lembrar que o não cumprimento
 
-da refer ida norma, naqueles termos, poderá ensejar a adoção de sanções
+da referida norma, naqueles termos, poderá ensejar a adoção de sanções
 
 administrativas por parte desta Superintendência em relação aos auditores que
 
@@ -3592,7 +3566,7 @@ da existência e sua adequada precificação, considerando, ainda, questões rel
 
 às provisões para perdas sobre esses direitos, de que trata a Instrução CVM nº 489/11.
 
-Nesse contexto, reforçamos que o referido OFÍCIO -CIRCULAR também se aplica aos
+Nesse contexto, reforçamos que o referido OFÍCIO-CIRCULAR também se aplica aos
 
 procedimentos de auditoria a serem executados para as demonstrações financeiras dos
 
@@ -3612,13 +3586,15 @@ como entidade de investimento efetivamente se qualifique como tal, de acordo com
 
 normas contábeis aplicáveis.
 
-No entanto, foram verificados, ao longo de 2022 , 2023 e 2024, trabalhos de auditoria
+No entanto, foram verificados, ao longo de 2022, 2023 e 2024, trabalhos de auditoria
 
 sobre fundos de investimentos em participações (FIP), onde o auditor não efetuou
 
 procedimentos de auditoria para confirmar a qualificação do fundo auditado como
 
 entidade de investimento, de acordo com o estabelecido nos artigos 4º e 5º da
+
+39
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 41
 
@@ -3631,8 +3607,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-40
 
 Instrução CVM nº 579/2016.
 
@@ -3680,7 +3654,7 @@ financeiros, não é possível obter conforto sobre a razoabilidade da mensuraç
 
 reconhecimento daqueles ativos registrados pelos administradores dos fundos e
 
-refletidos n as respectivas demonstrações financeiras, tampouco sua adequação em
+refletidos nas respectivas demonstrações financeiras, tampouco sua adequação em
 
 relação às normas específicas da CVM que tratam do tema, conforme o caso. A esse
 
@@ -3708,6 +3682,8 @@ de 29 de outubro de 2024, trata da elaboração e divulgação do relatório de 
 
 financeiras relacionadas à sustentabilidade.
 
+40
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 42
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3720,11 +3696,9 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-41
-
 A opção de elaboração e divulgação de relatório de informações financeiras relacionadas
 
-à sustentabilidade fica estabelecida, em caráter voluntário , a partir dos exercícios
+à sustentabilidade fica estabelecida, em caráter voluntário, a partir dos exercícios
 
 sociais iniciados em, ou após, 1º de janeiro de 2024, pelas companhias abertas, fundos
 
@@ -3796,6 +3770,8 @@ receber asseguração limitada; e para aqueles emitidos para informações relac
 
 a exercícios sociais iniciados em, ou após, 1º de janeiro de 2026, deve ser emitida uma
 
+41
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 43
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3807,8 +3783,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-42
 
 asseguração razoável.
 
@@ -3870,7 +3844,7 @@ tramitação, uma vez que o auditor pode acompanhá-la do início ao fim da sua 
 
 Destacamos que os documentos devem ser precedidos de uma carta introdutória
 
-assinada pelo representante da soc iedade de auditoria, descrevendo o objetivo da
+assinada pelo representante da sociedade de auditoria, descrevendo o objetivo da
 
 documentação protocolada.
 
@@ -3881,6 +3855,8 @@ tratados pela área responsável pelo recebimento desses documentos, que fará o
 cadastramento e digitalização no novo Protocolo Digital, desde que não se refiram a
 
 processos/operações tratados via INFOAUDI.
+
+42
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 44
 
@@ -3894,8 +3870,6 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-43
-
 Desnecessário lembrar que o Protocolo Digital não exclui os demais canais de
 
 atendimento da CVM, como, por exemplo, o de Audiências a Particulares, Vista de
@@ -3906,19 +3880,19 @@ auditor pode consultar qual o canal mais apropriado para sua demanda. Entretanto
 
 serão mais aceitas apresentação de documentos, solicitações de informações e
 
-consultas de qualquer tipo, por e -mail ou por telefone, e sob nenhuma hipótese
+consultas de qualquer tipo, por e-mail ou por telefone, e sob nenhuma hipótese
 
 serão recepcionados pedidos/documentações inerentes ao INFOAUDI.
 
 Reforçamos que para utilizar o novo Protocolo Digital, acesse o Portal de Serviços do
 
-Governo Federal (https:// www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-
+Governo Federal (https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-
 
-cvm) e cadastre -se. Para mais informações, acesse (https:// www.gov.br/cvm/pt-
+cvm) e cadastre-se. Para mais informações, acesse (https://www.gov.br/cvm/pt-
 
 br/canais_atendimento/protocolo-digital) Em caso de dúvida, entre em contato com a
 
-Divisão de Gestão da Informação (DINF/SAD) pelo e -mail dinf@cvm.gov.br ou pelo
+Divisão de Gestão da Informação (DINF/SAD) pelo e-mail dinf@cvm.gov.br ou pelo
 
 telefone (21) 3554-8677.
 
@@ -3970,6 +3944,8 @@ Estimativas contábeis, incluindo mensuração do valor justo:
 
 - razoabilidade das premissas – ao testar uma estimativa
 
+43
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 45
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -3981,8 +3957,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-44
 
 contábil, falha ao avaliar a razoabilidade das premissas,
 
@@ -4046,6 +4020,8 @@ reconhecida no período correto;
 
 - falha para acessar e responder apropriadamente aos riscos
 
+44
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 46
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -4057,8 +4033,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-45
 
 de fraude no reconhecimento de receita.
 
@@ -4124,6 +4098,8 @@ pelo auditor de componente.
 
 Uso da tecnologia (Inteligência Artificial - IA) em auditorias:
 
+45
+
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 47
 
 COMISSÃO DE VALORES MOBILIÁRIOS
@@ -4135,8 +4111,6 @@ Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – 
 SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031
 
 www.cvm.gov.br
-
-46
 
 - falha na avaliação e monitoramento do impacto dos recursos
 
@@ -4152,7 +4126,7 @@ ferramentas tecnológicas;
 
 - falha na governança do uso de Inteligência Artificial
 
-Generativa (“ GenIA”), incluindo a ausência de políticas
+Generativa (“GenIA”), incluindo a ausência de políticas
 
 robustas para mitigar riscos como viés, perda de
 
@@ -4176,16 +4150,18 @@ tecnológicas para garantir qualidade, confiabilidade e
 
 conformidade com os padrões regulatórios;
 
-- falha na transparência sobre o uso de GenI A em áreas
+- falha na transparência sobre o uso de GenIA em áreas
 
 críticas da auditoria, dificultando monitoramento interno e
 
 inspeções regulatórias;
 
-- falha na consideração dos impactos da I A/GenIA na
+- falha na consideração dos impactos da IA/GenIA na
 
 confiabilidade dos relatórios financeiros das entidades
 
 auditadas, incluindo riscos de viés e falta de explicabilidade.
+
+46
 
 Anexo Oficio Circular CVM SNC GNA 01 2025 (2315998) SEI 19957.003477/2025-32 / pg. 48

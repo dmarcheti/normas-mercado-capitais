@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep-sre/anexos/oc-sep-sre-0123.pdf
 sha256_fonte: 8e0191b38fda91ef074a777cb97aa4b4d9ca84691c598b8c5fc21c056699045d
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -44,49 +46,31 @@ Aos emissores de valores mobiliários e coordenadores de ofertas públicas
 
 Assunto: Registros de emissores de valores mobiliários e de ofertas públicas de
 
-distribuição
-
-.
+distribuição.
 
 Prezados Senhores,
 
-1
-
-.
-
-Fazemos referência às Resoluções CVM n
-
-os
-
-80/22 e 160/22 (“RCVM
+1. Fazemos referência às Resoluções CVM nos 80/22 e 160/22 (“RCVM
 
 80/22” e “RCVM 160/22”), que tratam de registros de emissores e de ofertas
 
 públicas de distribuição, respectivamente.
 
-2
-
-.
-
-A respeito, considerando as relevantes alterações e os novos conceitos
+2. A respeito, considerando as relevantes alterações e os novos conceitos
 
 trazidos pelas Resoluções, que entraram em vigor em janeiro de 2023, julgamos
 
-necessária a divulgação deste Ofício Circular Conjunto para tratar especiﬁcamente
+necessária a divulgação deste Ofício Circular Conjunto para tratar especificamente
 
 do fluxo de registro de emissores e de ofertas públicas de distribuição.
 
-3
-
-.
-
-Uma das principais novidades do novo rito é a etapa processual prevista
+3. Uma das principais novidades do novo rito é a etapa processual prevista
 
 no § 2º do art. 5º da RCVM 80/22 e no § 1º do art. 37 da RCVM 160/22, que
 
 estabelecem que a SEP e a SRE deverão comunicar ao emissor e aos ofertantes, no
 
-prazo de até 10 (dez) dias, contados da data de protocolo, sobre a insuﬁciência dos
+prazo de até 10 (dez) dias, contados da data de protocolo, sobre a insuficiência dos
 
 documentos submetidos, se for o caso, e quais documentos ou informações estão
 
@@ -94,11 +78,7 @@ faltando. Para a complementação da documentação necessária à instrução d
 
 pedido de registro, será concedido prazo de 10 (dez) dias úteis.
 
-4
-
-.
-
-Outra alteração normativa relevante é o dispositivo previsto no § 7º do
+4. Outra alteração normativa relevante é o dispositivo previsto no § 7º do
 
 art. 6º da RCVM 80/22 e no § 8º do art. 38 da RCVM 160/22, que estabelecem que,
 
@@ -114,11 +94,7 @@ poderão apontar a ocorrência de fato novo, a depender da relevância das
 
 alterações.
 
-5
-
-.
-
-Segundo o § 8º do art. 6º da RCVM 80/22 e o § 9º do art. 38 da RCVM
+5. Segundo o § 8º do art. 6º da RCVM 80/22 e o § 9º do art. 38 da RCVM
 
 160/22, a ocorrência de fato novo deve ser comunicada pela SEP e pela SRE aos
 
@@ -130,11 +106,7 @@ requerentes dentro dos prazos de que tratam os §§ 3º ou 6º do art. 6º da RC
 
 (vinte) dias úteis.
 
-6
-
-.
-
-Embora não se trate de uma novidade do novo rito processual,
+6. Embora não se trate de uma novidade do novo rito processual,
 
 chamamos a atenção para o fato de que, a qualquer tempo, o emissor e os
 
@@ -142,11 +114,7 @@ coordenadores de ofertas públicas poderão requerer a interrupção da análise
 
 dias úteis.
 
-7
-
-.
-
-Salientamos que, ao ﬁnal dos 60 dias úteis, caso não haja manifestação
+7. Salientamos que, ao final dos 60 dias úteis, caso não haja manifestação
 
 das requerentes, os pedidos de registro de emissor e de oferta pública serão
 
@@ -160,29 +128,19 @@ processuais e seus respectivos prazos como se novos fossem, independentemente
 
 da fase em que se encontravam quando da interrupção da análise.
 
-8
-
-.
-
-Segue adiante um ﬂuxograma elaborado para pedido de registro de
+8. Segue adiante um fluxograma elaborado para pedido de registro de
 
 emissor com concomitante pedido de registro de oferta pública de distribuição, para
 
 uma melhor compreensão dos prazos e ritos processuais. Salienta-se ainda que as
 
-orientações deste Ofício Circular Conjunto também se aplicam aos casos de
-
-(i)
+orientações deste Ofício Circular Conjunto também se aplicam aos casos de (i)
 
 pedido de registro de emissor sem concomitante pedido de registro de oferta pública
 
 de distribuição, devendo ser desconsideradas as remissões à SRE e à RCVM 160/22
 
-e
-
-(ii)
-
-pedido de registro de oferta pública de distribuição de emissores já
+e (ii) pedido de registro de oferta pública de distribuição de emissores já
 
 registrados, devendo ser desconsideradas as remissões à RCVM 80/22.
 
@@ -192,76 +150,48 @@ Atenciosamente,
 
 Ofício-Circular 1 (1767955) SEI 19957.003483/2023-28 / pg. 3
 
-FERNANDO SOARES VIEIRA
-
-LUIS MIGUEL R. SONO
-
-Superintendente de Relações com
+FERNANDO SOARES VIEIRA Superintendente de Relações com
 
 Empresas
+
+LUIS MIGUEL R. SONO
 
 Superintendente de Registro de Valores
 
 Mobiliários
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 03/05/2023, às 15:39, com fundamento no art. 6º do
+Superintendente, em 03/05/2023, às 15:39, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Luis Miguel Jacinto Mateus
 
-Luis Miguel Jacinto Mateus
-
-Rodrigues Sono
-
-,
-
-Superintendente de Registro
-
-, em 03/05/2023, às 17:02,
+Rodrigues Sono, Superintendente de Registro, em 03/05/2023, às 17:02,
 
 com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1767955
+autenticidade, informando o código verificador
 
-e o código CRC
-
-AE766F62
-
-.
+1767955 e o código CRC AE766F62.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1767955
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1767955 and the "Código CRC" AE766F62.
 
-AE766F62
-
-.
-
-Referência:
-
-Processo nº 19957.003483/2023-28
-
-Documento SEI nº 1767955
+Referência: Processo nº 19957.003483/2023-28 Documento SEI nº 1767955
 
 Ofício-Circular 1 (1767955) SEI 19957.003483/2023-28 / pg. 4

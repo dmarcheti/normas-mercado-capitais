@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0122.pdf
 sha256_fonte: 7c130b01772e09566190103416afd70a7a47573cd52c646baf5870d4c6e240e2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 23/02/2022 13:11 SEI/CVM - 1448322 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1523747&infra_siste… 1/2
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -96,9 +94,9 @@ para a equipe de atendimento da Central Depositária da B3 pelo telefone (11) 25
 
 depositaria.listados@b3.com.br.
 
-23/02/2022 13:11 SEI/CVM - 1448322 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1523747&infra_siste... 1/2
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1523747&infra_siste… 2/2
+23/02/2022 13:11 SEI/CVM - 1448322 - Ofício-Circular
 
 Atenciosamente,
 
@@ -110,12 +108,22 @@ Documento assinado eletronicamente por Fernando Soares Vieira, Superintendente, 
 
 23/02/2022, às 13:10, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 1448322 e o código CRC 60B18D77.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 1448322 and the "Código CRC" 60B18D77.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº 19957.001316/2022-61 Documento SEI nº 1448322
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1523747&infra_siste... 2/2

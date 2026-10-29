@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0524.pdf
 sha256_fonte: 08b7e9b399a0ee92eae2915148c75af6d66aee2ae0034d975a5862a31942ab9f
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+30/09/24, 11:26 SEI/CVM - 2102786 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -98,9 +100,31 @@ envio desses documentos.
 
 a partir de 01/10/2024, no Sistema Fundos.Net, na seção “Materiais de Apoio”.
 
-30/09/24, 11:26 SEI/CVM - 2102786 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2221586&infra_siste… 1/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2221586&infra
+
+siste... 1/2_
+
+_
+
+_
+
+30/09/24, 11:26 SEI/CVM - 2102786 - Ofício-Circular
 
 6. Nos Informes Mensal, Trimestral e Anual dos Fundos de Investimento Imobiliário, esclarecemos
 
@@ -154,16 +178,46 @@ Superintendente, em 30/09/2024, às 11:26, com fundamento no art. 6º do Decreto
 
 outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+autenticidade,
+
+_
 
 informando o código verificador 2102786 e o código CRC 2EBFF1AB.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the
 
 "Código Verificador" 2102786 and the "Código CRC" 2EBFF1AB.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2102786
 
-30/09/24, 11:26 SEI/CVM - 2102786 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2221586&infra_siste… 2/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2221586&infra
+
+_
+
+_
+
+_
+
+siste... 2/2

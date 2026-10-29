@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0224.pdf
 sha256_fonte: da9bbe17911136b3c07fa0c1e92bbec912065061137bf45bd32047b7a3bf9833
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 28/03/2024, 11:52 SEI/CVM - 1986349 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2095285&infra_si… 1/3
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -52,7 +50,7 @@ CVM nº 175 (AN-II à RCVM 175) ao registro dos direitos creditórios que sejam 
 
 possibilidade de integralização de cotas subordinadas em direitos creditórios.
 
-I - REGISTRO DOS VALORES MOBILIÁRIOS
+I - REGISTRO DOS V ALORES MOBILIÁRIOS
 
 2. O Ofício-Circular nº 8/2023/CVM/SSE ("Ofício-Circular 8/23") divulgou a visão da SSE sobre
 
@@ -100,15 +98,39 @@ II - INTEGRALIZAÇÃO DAS COTAS SUBORDINADAS EM DIREITOS CREDITÓRIOS
 
 regulamento do fundo.
 
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2095285&infra
+
+_
+
+_
+
+_
+
+si... 1/3
+
 28/03/2024, 11:52 SEI/CVM - 1986349 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2095285&infra_si… 2/3
+9. creditórios.
 
-9. Apesar de o AN-II à RCVM 175 não tratar especificamente do tema em relação às cotas
+Apesar de o AN-II à RCVM 175 não tratar especificamente do tema em relação às cotas
 
 subordinadas, esta Superintendência considera que continua sendo possível a sua integralização em direitos
-
-creditórios.
 
 10. O entendimento decorre da interpretação de que o disposto no art. 14 do AN-II à RCVM 175
 
@@ -162,16 +184,74 @@ Superintendente, em 28/03/2024, às 11:52, com fundamento no art. 6º do Decreto
 
 outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 1986349 e o código CRC 7A95EF31.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and typing
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+_
 
 the "Código Verificador" 1986349 and the "Código CRC" 7A95EF31.
 
+autenticidade,
+
+autenticidade, and typing
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2095285&infra
+
+_
+
+_
+
+_
+
+si... 2/3
+
 28/03/2024, 11:52 SEI/CVM - 1986349 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2095285&infra_si… 3/3
-
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1986349
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2095285&infra
+
+_
+
+_
+
+_
+
+si... 3/3

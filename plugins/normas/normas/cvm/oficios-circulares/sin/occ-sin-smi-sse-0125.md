@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/occ-sin-smi-sse-0125.pdf
 sha256_fonte: 8c61edd707846e83959e4a8caf6fe61c11596bb9d5149ebcbd8bcd9b73c2a9d3
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -36,13 +38,9 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-Ofício-Circular
+Ofício-Circular Conjunto n.
 
-Conjunto
-
-n.º 1
-
-/2025/CVM/SIN/SMI/SSE
+º 1/2025/CVM/SIN/SMI/SSE
 
 Rio de Janeiro, 10 de março de 2025.
 
@@ -50,11 +48,7 @@ Rio de Janeiro, 10 de março de 2025.
 
 de sistema do mercado financeiro que atuam com valores mobiliários.
 
-Assunto:
-
-Conteúdo cadastral mínimo de investidores a ser mantido pelas
-
-entidades
+Assunto: Conteúdo cadastral mínimo de investidores a ser mantido pelas entidades
 
 administradoras de mercados organizados (EAMOs) e pelas instituições operadoras
 
@@ -62,11 +56,7 @@ de sistema do mercado financeiro (IOSMFs).
 
 Prezados(as) Senhores(as),
 
-1
-
-.
-
-Este Ofício-Circular Conjunto visa divulgar interpretação da
+1. Este Ofício-Circular Conjunto visa divulgar interpretação da
 
 Superintendência de Supervisão de Investidores Institucionais (“SIN”), da
 
@@ -86,13 +76,7 @@ organizados (EAMOs) e pelas instituições operadoras de sistema do mercado
 
 financeiro (IOSMFs) que atuam com valores mobiliários.
 
-2
-
-.
-
-A
-
-pluralidade de EAMOs e IOSMFs com autorização para funcionar no
+2. A pluralidade de EAMOs e IOSMFs com autorização para funcionar no
 
 mercado de valores mobiliários exige da CVM uma atuação que (i) promova um
 
@@ -104,9 +88,9 @@ e transparente aos sistemas de negociação, registro, compensação, liquidaç�
 
 depósito das EAMOs e IOSMFs; (iii) possibilite a implementação de regras de
 
-interoperabilidade, quando aplicável; (iv) propicie supervisão e ﬁscalização
+interoperabilidade, quando aplicável; (iv) propicie supervisão e fiscalização
 
-eﬁcientes; e (v) facilite a inovação e maior eﬁciência no mercado de valores
+eficientes; e (v) facilite a inovação e maior eficiência no mercado de valores
 
 mobiliários, com a preservação dos diferentes modelos de negócios implementados
 
@@ -114,23 +98,19 @@ pelas EAMOs e IOSMFs.
 
 Ofício-Conjunto 3 Ofício-Circular Conjunto n.º 1/2025/CVM/SIN/SMI/SS (2277931) SEI 19957.002373/2025-19 / pg. 1
 
-3
+3. 4. Considerados esses objetivos, é necessário observar que:
 
-.
+a) o art. 86 da Resolução CVM n.
 
-Considerados esses objetivos, é necessário observar que:
-
-a
-
-)
-
-o art. 86 da Resolução CVM n.º 135, de 10 de junho de 2022,
+º 135, de 10 de junho de 2022,
 
 estabelece que as EAMOs devem manter cadastro atualizado de
 
 investidores, a partir das informações fornecidas por seus
 
-participantes (deﬁnidos no art. 2º, inciso IX da mesma norma), sendo
+participantes (definidos no art. 2º
+
+, inciso IX da mesma norma), sendo
 
 que essas informações cadastrais devem ser transmitidas para as
 
@@ -138,27 +118,19 @@ IOSMFs que lhes prestem serviços, para manter um cadastro único e
 
 atualizado;
 
-b
+b)o art. 16 da Resolução CVM n.
 
-)
+º 31, de 19 de maio de 2021, exige
 
-o art. 16 da Resolução CVM n.º 31, de 19 de maio de 2021, exige
-
-que os depositários centrais sejam aptos a identiﬁcar os investidores e
+que os depositários centrais sejam aptos a identificar os investidores e
 
 manter atualizados seus dados cadastrais, a partir das informações
 
 fornecidas pelos seus custodiantes;
 
-c
+c) o art. 11, caput e §2º da Resolução CVM n.
 
-)
-
-o art. 11,
-
-caput
-
-e §2º da Resolução CVM n.º 50, de 31 de agosto de
+º 50, de 31 de agosto de
 
 2021, discriminam que as EAMOs e as IOSMFs que mantenham
 
@@ -174,51 +146,41 @@ devem obter junto a seus participantes as informações cadastrais dos
 
 investidores, necessárias ao exercício de suas atividades e limitadas
 
-ao detalhamento estabelecido em seus regulamentos (
+ao detalhamento estabelecido em seus regulamentos (e.g., art. 15 da
 
-e.g.
+Resolução CVM n.
 
-, art. 15 da
+º 135/2022 e art. 45 da Resolução CVM n.
 
-Resolução CVM n.º 135/2022 e art. 45 da Resolução CVM n.º 31/2021),
+º 31/2021),
 
 sem que isso necessariamente inclua a totalidade dos dados
 
-constantes nos referidos Anexos da Resolução CVM n.º 50/2021;
+constantes nos referidos Anexos da Resolução CVM n.
 
-d
+º 50/2021;
 
-)
+d)a Resolução CVM n.
 
-a Resolução CVM n.º 225, de 27 de dezembro de 2024, abriu a
+º 225, de 27 de dezembro de 2024, abriu a
 
 possibilidade de utilização do Cadastro de Acesso, como alternativa ao
 
 cadastro de investidores pessoas naturais, previsto no inciso I do art.
 
-1º do Anexo B da Resolução CVM n.º 50/2021, conforme as regras e
+1º do Anexo B da Resolução CVM n.
 
-procedimentos def
+º 50/2021, conforme as regras e
 
-inidos pelas EAMOs em seus regulamentos.
-
-4
-
-.
+procedimentos definidos pelas EAMOs em seus regulamentos.
 
 Assim, a autarquia esclarece que o conteúdo cadastral mínimo
 
-relativo à identiﬁcação dos investidores nos sistemas das EAMOs e IOSMFs
+relativo à identificação dos investidores nos sistemas das EAMOs e IOSMFs
 
 deve incluir os seguintes campos:
 
-a
-
-)
-
-Se
-
-pessoa natural: nome completo; data de nascimento; número de
+a) Se pessoa natural: nome completo; data de nascimento; número de
 
 inscrição no Cadastro de Pessoas Físicas – CPF; local de residência
 
@@ -226,15 +188,11 @@ inscrição no Cadastro de Pessoas Físicas – CPF; local de residência
 
 CEP) e número de telefone; endereço eletrônico para correspondência;
 
-ocupação proﬁssional; capacidade ﬁnanceira, incluindo a renda; e se o
+ocupação profissional; capacidade financeira, incluindo a renda; e se o
 
 cliente é considerado pessoa exposta politicamente (PEP);
 
-b
-
-)
-
-Se pessoa jurídica: denominação ou nome empresarial; número de
+b)Se pessoa jurídica: denominação ou nome empresarial; número de
 
 inscrição no Cadastro Nacional de Pessoas Jurídicas – CNPJ; endereço
 
@@ -242,31 +200,19 @@ completo (logradouro, complemento, bairro, cidade, unidade da
 
 federação e CEP); número de telefone; endereço eletrônico para
 
-correspondência; identiﬁcação da atividade econômica principal;
+correspondência; identificação da atividade econômica principal;
 
-indicador da condição de que se trata de organização sem ﬁns
+indicador da condição de que se trata de organização sem fins
 
 lucrativos;
 
-c
-
-)
-
-Se fundo de investimento
-
-registrado
-
-na CVM: denominação; número
+c) Se fundo de investimento registrado na CVM: denominação; número
 
 de inscrição no Cadastro Nacional de Pessoas Jurídicas – CNPJ;
 
 indicador de que se trata de fundo exclusivo;
 
-d
-
-)
-
-Se investidor não residente (pessoa natural): indicador de que se
+d)Se investidor não residente (pessoa natural): indicador de que se
 
 trata de investidor não residente; nome completo; número de inscrição
 
@@ -274,11 +220,7 @@ Ofício-Conjunto 3 Ofício-Circular Conjunto n.º 1/2025/CVM/SIN/SMI/SS (2277931
 
 no Cadastro de Pessoas Físicas – CPF;
 
-e
-
-)
-
-Se investidor não residente (nas demais hipóteses): indicador de
+e) Se investidor não residente (nas demais hipóteses): indicador de
 
 que se trata de investidor não residente; denominação; número de
 
@@ -288,96 +230,54 @@ denominação do representante; número de inscrição do representante
 
 no Cadastro Nacional de Pessoas Jurídicas – CNPJ; indicador de que se
 
-trata (i) de organização sem ﬁns lucrativos ou (ii) de
-
-trust
-
-ou veículo
+trata (i) de organização sem fins lucrativos ou (ii) de trust ou veículo
 
 assemelhado.
 
-5
-
-.
-
-A obrigatoriedade de conteúdo cadastral mínimo (referida no ponto 4
+5. A obrigatoriedade de conteúdo cadastral mínimo (referida no ponto 4
 
 acima) se aplica tanto aos valores mobiliários objeto de depósito centralizado como
 
-ao
+ao registro de operação previamente realizada e ao registro de valores mobiliários,
 
-registro
+nos termos do art. 143 da Resolução CVM n.
 
-de operação previamente realizada e ao registro de valores mobiliários,
-
-nos termos do art. 143 da Resolução CVM n.º 135/2022, inclusive no caso em que
+º 135/2022, inclusive no caso em que
 
 sejam distribuídos na modalidade por conta e ordem.
 
-6
-
-.
-
-Ainda que não integrem o conjunto de informações mínimas acima
+6. Ainda que não integrem o conjunto de informações mínimas acima
 
 referido, sempre que for necessário e de maneira a dar pleno cumprimento às
 
 obrigações contidas na regulamentação aplicável, as EAMOs e as IOSMFs devem
 
-obter junto aos seus participantes dados cadastrais complementares, par
+obter junto aos seus participantes dados cadastrais complementares, para fins de
 
-a ﬁns de
+atendimento de suas políticas de PLD/FTP (art. 11, §2º da Resolução CVM n.
 
-atendimento de suas políticas de PLD/FTP (art. 11, §2º da Resolução CVM n.º
+º
 
 50/2021).
 
 Atenciosamente,
 
-Assinado
-
-digitalmente
-
-por
+Assinado digitalmente por
 
 Marco Antonio Velloso de Sousa
 
-Superintendente
+Superintendente de Supervisão de Investidores Institucionais
 
-de
+Assinado digitalmente por
 
-Supervisão
+André Francisco Luiz de Alencar Passaro
 
-de Investidores Institucionais
-
-Assinado
-
-digitalmente
-
-por
-
-Andr
-
-é
-
-Francisco Luiz de Alencar P
-
-a
-
-ssaro
-
-Superintendente
-
-de
-
-Relações com o Mercado e Intermediários
+Superintendente de Relações com o Mercado e Intermediários
 
 Assinado digitalmente por
 
 Bruno de Freitas Gomes
 
 Superintendente de Securitização e Agronegócio
-
-​
 
 Ofício-Conjunto 3 Ofício-Circular Conjunto n.º 1/2025/CVM/SIN/SMI/SS (2277931) SEI 19957.002373/2025-19 / pg. 3

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/occ-sin-smi-0125.pdf
 sha256_fonte: f520c1ab1a9ae32d04d9d2e984901a543c003268458b26012fc537fcd179e768
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -48,7 +48,7 @@ executadas pelos intermediários, quando forem detectados indícios de administr
 
 carteiras de valores mobiliários, a comunicação dos fatos deve ser endereçada à SIN por meio do
 
-protocolo eletrônico ( https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-cvm). Caso
+protocolo eletrônico (https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-cvm). Caso
 
 sejam identificadas outras irregularidades além de indícios de administração de recursos de terceiros,
 

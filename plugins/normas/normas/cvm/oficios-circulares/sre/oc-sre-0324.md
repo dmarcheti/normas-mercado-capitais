@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0324.pdf
 sha256_fonte: aea7811dc660b246502e17593418401533aeeee7e5daf1cbcc0f6781b63c96f5
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE V ALORES MOBILIÁRIOS
+SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
+
+COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -92,9 +94,9 @@ responsáveis pela supervisão setorial, à Secretaria Especial da Receita Feder
 
 da Fazenda a supervisão em relação a esse aspectos.
 
-SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
-
 1 of 5 11/10/2024, 15:02
+
+SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
 
 6. Nesse sentido, os coordenadores líderes de ofertas públicas de valores mobiliários com
 
@@ -194,9 +196,9 @@ caso contrário, (ii) o compromisso de alocar os recursos obtidos no projeto pri
 
 informação acerca do setor prioritário em que o projeto se enquadra.
 
-SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
-
 2 of 5 11/10/2024, 15:02
+
+SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
 
 Destinação de Recursos
 
@@ -294,9 +296,9 @@ campo "Título incentivado - Lei 12.431/11".
 
 18. Por fim, nos casos em que não haja previsão para edição de portaria autorizativa do
 
-SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
-
 3 of 5 11/10/2024, 15:02
+
+SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
 
 Ministério Setorial responsável, mas tão somente o protocolo do projeto de investimento junto ao
 
@@ -356,9 +358,9 @@ protocolo das informações de que trata o inciso I do caput, para fins de apres
 
 registro da oferta pública dos valores mobiliários com benefícios fiscais.
 
-SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
-
 4 of 5 11/10/2024, 15:02
+
+SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
 
 Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono,
 
@@ -374,8 +376,6 @@ This document's authenticity can be verified by accessing https://sei.cvm.gov.br
 
 typing the "Código Verificador" 2167376 and the "Código CRC" 55255E14.
 
-Referência: Processo nº Oİcios-Circulares SRE 2024 Documento SEI nº 2167376
-
-SEI/CVM - 2167376 - Ofício-Circular https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimi...
+Referência: Processo nº O cios-Circulares SRE 2024 Documento SEI nº 2167376
 
 5 of 5 11/10/2024, 15:02

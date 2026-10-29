@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0423.pdf
 sha256_fonte: ef9bf9ce064b560af673d4a3403217b3e304fb66c80d9b3e6a34cebbf908c0c7
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -428,11 +428,19 @@ nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1744032 e o código
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1744032 e o código
 
 CRC 472C4D1A.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+autenticidade, and
+
+_
 
 typing the "Código Verificador" 1744032 and the "Código CRC" 472C4D1A.
 

@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-sse-0122.pdf
 sha256_fonte: fa7230cdff922198eb60c82c4cde52097204f5154ffc31fa1fec51989c456e4c
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. A descrição cita norma revogada: Instrução CVM 555. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 01/08/2022 10:59 SEI/CVM - 1557227 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1641499&infra_siste… 1/2
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -104,9 +102,9 @@ Daniel Walter Maeda Bernardo
 
 Superintendente de Supervisão de Investidores Institucionais - SIN
 
-01/08/2022 10:59 SEI/CVM - 1557227 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1641499&infra_siste... 1/2
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1641499&infra_siste… 2/2
+01/08/2022 10:59 SEI/CVM - 1557227 - Ofício-Circular
 
 Documento assinado eletronicamente por Daniel Walter Maeda Bernardo, Superintendente, em 01/08/2022, às 10:56,
 
@@ -116,12 +114,22 @@ Documento assinado eletronicamente por Bruno de Freitas Gomes Condeixa Rodrigues
 
 01/08/2022, às 10:59, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o código
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código
 
 verificador 1557227 e o código CRC 97209479.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código
 
 Verificador" 1557227 and the "Código CRC" 97209479.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1557227
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1641499&infra_siste... 2/2

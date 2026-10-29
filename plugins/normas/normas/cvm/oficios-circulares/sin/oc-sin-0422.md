@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0422.pdf
 sha256_fonte: a1095f9a73364681f20e077553805d967b6d87a59e5453ef579781ffbf8736c5
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -38,13 +38,13 @@ Assunto: Disponibilização de nova versão do SGF.
 
 Prezados Senhores,
 
-1. A Instr ução CVM nº 279 exige , em seu artigo 30 -B, I, que o administrador de FMP -FGTS
+1. A Instrução CVM nº 279 exige, em seu artigo 30-B, I, que o administrador de FMP-FGTS
 
 encaminhe, diariamente, o documento Informe Diário por meio do sistema CVMWeb.
 
 2. Informamos que, com o objetivo de uniformizar o formato e padrão de documentos da espécie, a
 
-atual versão 1.0 do documento uti lizada para os FMP-FGTS será substituída, no prazo de 60 dias a
+atual versão 1.0 do documento utilizada para os FMP-FGTS será substituída, no prazo de 60 dias a
 
 contar da publicação deste Ofício Circular, pela versão 3.0, ou seja, a mesma utilizada para o informe
 
@@ -56,11 +56,11 @@ CVM, assim como aqueles mantidos pelo mercado, quando da edição da norma que v
 
 todo o arcabouço regulamentar dos fundos de investimento.
 
-4. De outro lado, inf ormamos também que, a partir da data de publicação deste Ofício Circular, a
+4. De outro lado, informamos também que, a partir da data de publicação deste Ofício Circular, a
 
 funcionalidade de registro de todos os fundos de investimento, inclusive os regulados pela Instrução
 
-CVM nº 279 , passarão a contar com campo adicional de informação obrigatória no qual o
+CVM nº 279, passarão a contar com campo adicional de informação obrigatória no qual o
 
 administrador do fundo deverá preencher os dados da Guia de Recolhimento da União (“GRU”)
 

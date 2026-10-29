@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-1023.pdf
 sha256_fonte: 7e76e40c45a470ba08de88db2f72d089ce64e180eacb2a470215057e26df97d9
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -34,11 +34,11 @@ Ofício-Circular nº 10/2023/CVM/SRE
 
 Rio de Janeiro, 28 de setembro de 2023.
 
-Assunto: Orientações sobre procedimentos específicos a serem observados pelos
+Assunto: 160).
+
+Orientações sobre procedimentos específicos a serem observados pelos
 
 emissores/ofertantes e intermediários em ofertas públicas de valores mobiliários (Resolução CVM
-
-160).
 
 Senhor Diretor,
 
@@ -186,7 +186,7 @@ fins de apresentação no prospecto, quando cabível em relação ao seu períod
 
 III. Ofertas com Reabertura de Série que sigam o rito automático para público investidor em geral
 
-(art. 26, inciso V, alínea c, item 2 e inciso VIII, alínea c, item 2)
+(art. 26, inciso V , alínea c, item 2 e inciso VIII, alínea c, item 2)
 
 12. Inicialmente é importante pontuar que as orientações contidas nesta seção aplicam-se às
 
@@ -200,7 +200,7 @@ características idênticas, exceto pela taxa de remuneração efetiva do papel,
 
 previamente distribuídos em oferta pública destinada ao público investidor em geral, conforme hipótese
 
-prevista no art. 26, inciso V, alínea c, item 2 da Resolução CVM 160 e (ii) títulos de securitização emitidos
+prevista no art. 26, inciso V , alínea c, item 2 da Resolução CVM 160 e (ii) títulos de securitização emitidos
 
 por companhias securitizadoras registradas na CVM destinada exclusivamente ao público investidor em
 
@@ -302,7 +302,7 @@ nesta seção são uma recomendação de boas práticas para todas as ofertas p�
 
 de séries, ainda que não destinadas ao público investidor em geral.
 
-IV. Impossibilidade de prorrogação decorrente de modificação de ofertas que tenham obtido o
+IV . Impossibilidade de prorrogação decorrente de modificação de ofertas que tenham obtido o
 
 registro automático
 
@@ -342,7 +342,7 @@ podem ter prazo de distribuição prorrogado, devendo tais ofertas se realizar n
 
 previsto na Resolução.
 
-V. Necessidade de se observar a regulamentação específica nas negociações de valores mobiliários
+V . Necessidade de se observar a regulamentação específica nas negociações de valores mobiliários
 
 ofertados via Resolução CVM 160
 
@@ -456,11 +456,19 @@ nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1889737 e o código
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1889737 e o código
 
 CRC F3D9880A.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+autenticidade, and
+
+_
 
 typing the "Código Verificador" 1889737 and the "Código CRC" F3D9880A.
 

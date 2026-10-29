@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0524.pdf
 sha256_fonte: 84246e3590d70c387a1a77a3d28cc8671c60bba2faa964980de79c1c9877302b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -34,9 +34,9 @@ Ofício-Circular nº 5/2024/CVM/SRE
 
 Rio de Janeiro, 19 de dezembro de 2024.
 
-Assunto: Interpretação acerca da distribuição pública de Letras de Crédito do Desenvolvimento
+Assunto: - LCD.
 
-- LCD.
+Interpretação acerca da distribuição pública de Letras de Crédito do Desenvolvimento
 
 Senhor Diretor,
 
@@ -54,7 +54,9 @@ sobre a matéria, e ainda ressaltando determinados aspectos que devem ser sopesa
 
 norma em comento, visando a melhor adaptação às distribuições públicas de LCDs.
 
-3. Destaca-se ainda que o presente instrumento não tem caráter normativo[1], mas sim visa a
+3. Destaca-se ainda que o presente instrumento não tem caráter normativo[1]
+
+, mas sim visa a
 
 dar publicidade à interpretação, desta SRE, acerca da possibilidade de uso do rito previsto na RCVM 8
 
@@ -272,7 +274,9 @@ integrante do Sistema de Distribuição.
 
 16. Isto porque a LCD se trata de título de emissão exclusiva dos bancos de desenvolvimento ou
 
-do BNDES e, se por um lado o BNDES integra o Sistema de Distribuição de valores mobiliários[2], os
+do BNDES e, se por um lado o BNDES integra o Sistema de Distribuição de valores mobiliários[2]
+
+, os
 
 bancos de desenvolvimento são regulados através da Resolução CMN nº 394/76, a qual expressamente, em
 
@@ -350,11 +354,15 @@ dão orientações, recomendações e diretrizes, cujo não atendimento não imp
 
 de cumprir as obrigações impostas pela Lei nº 6.385, de 1976, pela Lei nº 6.404, de 1976, pelas Resoluções da CVM, bem como quanto às orientações contidas
 
-nas Instruções Normativas, observados os precedentes do Colegiado, se houver.”
+nas Instruções Normativas, observados os precedentes do Colegiado, se houver.
+
+”
 
 [2] Nos termos do Ato Declaratório nº 18.791 de 28/05/2021, expedido pela CVM fazendo uso da competência a ela atribuída com base no art. 18, inciso I, alínea
 
-'a', c/c o art. 16, inciso I, ambos da Lei nº 6.385/76,
+'a'
+
+, c/c o art. 16, inciso I, ambos da Lei nº 6.385/76,
 
 Atenciosamente,
 
@@ -374,12 +382,20 @@ Superintendente de Registro Substituto, em 19/12/2024, às 11:07, com fundamento
 
 do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2212055 e o código CRC 14CE9F2F.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2212055 and the "Código CRC" 14CE9F2F.
+
+autenticidade,
+
+autenticidade, and
 
 Referência: Processo nº O cios-Circulares SRE 2024 Documento SEI nº 2212055

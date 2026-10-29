@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0322.pdf
 sha256_fonte: c080ad4304e80c90ade2f9454d3a8ef8d52c776c3cff414dfb901099b369fc5b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -44,7 +44,7 @@ Prezados Senhores,
 
 não residente da obtenção do registro previsto na Resolução CVM nº 13. Entretanto, como previsto
 
-no referido nor mativo, será necessário que o representante lance informações a respeito desse
+no referido normativo, será necessário que o representante lance informações a respeito desse
 
 investidor nos sistemas da CVM para viabilizar a obtenção de código operacional (“Código”) e
 
@@ -54,7 +54,7 @@ cadastro na Receita Federal do Brasil (“CPF”) para operar.
 
 residente deve previamente solicitar à CVM seu cadastro como representante, caso ainda não o
 
-possua. A área técnica para a apresentação desse pedido é a GAIN, que pode ser contatada p or meio
+possua. A área técnica para a apresentação desse pedido é a GAIN, que pode ser contatada por meio
 
 do e-mail gain@cvm.gov.br.
 
@@ -72,9 +72,9 @@ lançamento das informações apenas e exclusivamente ao propósito de obtençã
 
 neste último caso, claro, se o investidor ainda não o possuir.
 
-4. Em relação aos informes mensais e semestrais de investidores não residentes, previstos no art. 1 4
+4. Em relação aos informes mensais e semestrais de investidores não residentes, previstos no art. 14
 
-da Resolução CVM nº 13, informamos que os investidores não reside ntes pessoas naturais
+da Resolução CVM nº 13, informamos que os investidores não residentes pessoas naturais
 
 dispensados de registro, em razão dessa condição cadastral, não são devedores de quaisquer informes
 
@@ -90,7 +90,7 @@ tampouco seus respectivos patrimônios e ativos, na prestação de seus respecti
 
 pessoa natural receberá o código operacional CVM, que será utilizado para suas operações realizadas
 
-em mercado, em consonância com o disposto no art. 17 da Resolução CVM nº 13. Para viabil izar a
+em mercado, em consonância com o disposto no art. 17 da Resolução CVM nº 13. Para viabilizar a
 
 emissão do Código, é importante que o investidor continue sendo associado a uma carteira, própria
 
@@ -106,9 +106,9 @@ O procedimento de cancelamento será o mesmo atualmente em uso já existente no 
 
 8. Alertamos de outro lado que a entrada em vigor da Resolução CVM nº 64, com a consequente
 
-dispensa de registro do investidor pessoa natur al, não altera a forma de cobrança da Taxa de
+dispensa de registro do investidor pessoa natural, não altera a forma de cobrança da Taxa de
 
-Fiscalização do mercado de valores mobiliários, que é feita sobre a s carteiras ( sejam próprias ou
+Fiscalização do mercado de valores mobiliários, que é feita sobre as carteiras (sejam próprias ou
 
 coletivas) e não aos investidores individualmente. Os valores da Taxa são aqueles estipulados na Lei
 

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0424.pdf
 sha256_fonte: 8acc41fd0cd213674fd0c4f97b85b9967f6497e939dc7178109ad499f692deb2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -24,7 +24,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 4/2024/CVM/SIN
 
@@ -70,7 +70,7 @@ fundos.
 
 uma adequada formação de preços das cotas de ETFs de Renda Fixa podendo ser usado para sua
 
-marcação, contribuindo para a diminuição de assimetrias informacio nais e para a tomada de decisões
+marcação, contribuindo para a diminuição de assimetrias informacionais e para a tomada de decisões
 
 fundamentadas pelos investidores.
 

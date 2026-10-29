@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/smi/anexos/oc-smi-0123.pdf
 sha256_fonte: f8d54bb357062264df363dd36736a928f386abbdcf5f0767f5db04da736047c2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -46,19 +48,19 @@ Diretores-Gerais das Entidades Administradoras de Mercados Organizados
 
 Diretores Responsáveis pelo cumprimento da Resolução CVM nº 31/2021
 
-Assunto:
-
-Princípios para Infraestruturas de Mercado Financeiro
+Assunto: Princípios para Infraestruturas de Mercado Financeiro
 
 Senhores Diretores,
 
-1
+1. A Resolução CVM nº 31/2021 e a Resolução CVM nº 135/2022
 
-.
+estabelecem, respectivamente no artigo 9º
 
-A Resolução CVM nº 31/2021 e a Resolução CVM nº 135/2022
+, § 3º
 
-estabelecem, respectivamente no artigo 9º, § 3º, e no artigo 158, § 3º, que
+, e no artigo 158, § 3º
+
+, que
 
 requerentes de autorização para desempenho das atividades de depositário central
 
@@ -74,13 +76,9 @@ do Mercado (CPMI) e pela Organização Internacional de Comissão de Valores
 
 Mobiliários (OICV-IOSCO)1.
 
-2
+2. No âmbito dos mercados sob a supervisão da CVM, os PFMI aplicam-se
 
-.
-
-No âmbito dos mercados sob a supervisão da CVM, os PFMI aplicam-se
-
-às infraestruturas de mercado ﬁnanceiro que desempenham atividades de
+às infraestruturas de mercado financeiro que desempenham atividades de
 
 compensação e de liquidação, registro e depósito centralizado de valores
 
@@ -88,11 +86,7 @@ mobiliários, cujo papel é de reconhecida relevância para a higidez e estabili
 
 mercado.
 
-3
-
-.
-
-Considerando a função das infraestruturas de mercado financeiro e,
+3. Considerando a função das infraestruturas de mercado financeiro e,
 
 sobretudo, o disposto no Princípio 23 dos PFMI, segundo o qual as infraestruturas
 
@@ -104,27 +98,13 @@ compreenderem os riscos, tarifas e outros custos decorrentes da sua participaç�
 
 Ofício-Circular 1 PFMI (1899711) SEI 19957.012660/2023-67 / pg. 1
 
-infraestrutura, o CPMI/IOSCO elaborou o documento intitulado “
+infraestrutura, o CPMI/IOSCO elaborou o documento intitulado “Disclosure
 
-Disclosure
-
-framework
-
-and
-
-Assessment methodology
-
-”
-
-2
+framework and Assessment methodology”2
 
 .
 
-4
-
-.
-
-Assim, tendo em vista o disposto nas Notas Explicativas que se seguem
+4. Assim, tendo em vista o disposto nas Notas Explicativas que se seguem
 
 ao antes mencionado Princípio 23 dos PFMI e visando a dar cumprimento ao
 
@@ -140,29 +120,21 @@ atividades foi realizada visando ao cumprimento de cada um dos PFMI que lhes
 
 sejam aplicáveis.
 
-5
-
-.
-
-Ademais, a SMI considera que uma infraestrutura de mercado deve
+5. Ademais, a SMI considera que uma infraestrutura de mercado deve
 
 utilizar metodologia de avaliação do CPMI/IOSCO para realizar autoavaliações
 
 periódicas formais acerca da observância dos PFMI e que tais avaliações devem ser
 
-úteis para identiﬁcar procedimentos que requeiram aperfeiçoamentos estruturais e
+úteis para identificar procedimentos que requeiram aperfeiçoamentos estruturais e
 
 para priorizar recursos para as áreas em que a necessidade de aperfeiçoamento
 
 tenha sido identificada.
 
-6
+6. Nesse sentido, deverão as instituições operadoras de infraestruturas do
 
-.
-
-Nesse sentido, deverão as instituições operadoras de infraestruturas do
-
-mercado ﬁnanceiro atuantes no mercado de valores mobiliários publicar,
+mercado financeiro atuantes no mercado de valores mobiliários publicar,
 
 obedecendo ao padrão estabelecido pelo CPMI/IOSCO, a sua autoavaliação sobre a
 
@@ -170,25 +142,17 @@ observância dos PFMI a cada dois anos, no mínimo, ou em periodicidade inferior
 
 caso de alterações materiais em seus sistema ou no ambiente em que operem.
 
-7
+7. As autoavaliações devem estar disponíveis na rede mundial de
 
-.
-
-As autoavaliações devem estar disponíveis na rede mundial de
-
-computadores da instituição operadora de infraestrutura do mercado ﬁnanceiro, em
+computadores da instituição operadora de infraestrutura do mercado financeiro, em
 
 área publicamente acessível.
 
-1
-
-CPMI/IOSCO. Principles for Market Infrastructures. Abril, 2012. Disponível em:
+1 CPMI/IOSCO. Principles for Market Infrastructures. Abril, 2012. Disponível em:
 
 https://www.bis.org/cpmi/publ/d101a.pdf
 
-2
-
-CPMI/IOSCO. Principles for financial market infrastructures: Disclosure framework and Assessment
+2 CPMI/IOSCO. Principles for financial market infrastructures: Disclosure framework and Assessment
 
 methodology. Dezembro, 2012. Disponível em:
 
@@ -196,60 +160,38 @@ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD396.pdf
 
 Atenciosamente,
 
-André Francisco Luís de Alencar
-
-Passaro
+André Francisco Luís de Alencar Passaro
 
 Superintendente de Relações com o Mercado e Intermediários
 
 Ofício-Circular 1 PFMI (1899711) SEI 19957.012660/2023-67 / pg. 2
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Andre Francisco Luiz de Alencar
 
-Andre Francisco Luiz de Alencar
-
-Passaro
-
-,
-
-Superintendente
-
-, em 16/10/2023, às 12:05, com fundamento no
+Passaro, Superintendente, em 16/10/2023, às 12:05, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1899711
+autenticidade, informando o código verificador
 
-e o código CRC
-
-E963B2E2
-
-.
+1899711 e o código CRC E963B2E2.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1899711
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1899711 and the "Código CRC" E963B2E2.
 
-E963B2E2
-
-.
-
-Referência:
-
-Processo nº 19957.012660/2023-67
-
-Documento SEI nº 1899711
+Referência: Processo nº 19957.012660/2023-67 Documento SEI nº 1899711
 
 Ofício-Circular 1 PFMI (1899711) SEI 19957.012660/2023-67 / pg. 3

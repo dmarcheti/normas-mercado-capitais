@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0224.pdf
 sha256_fonte: 8376bcd5027b1f0454cf1dfd5fae62d8c725265b04d04ea6ff965474d69d6042
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -116,7 +116,9 @@ encerramento e liquidação, tratadas sob um mesmo requerimento de registro, cum
 
 prazo máximo de 180 dias durante o qual a oferta deve ser realizada, nos termos do art. 48 da Resolução
 
-CVM 160/22[1], iniciar-se-á quando da divulgação do Anúncio de Início de Distribuição, ainda que apenas
+CVM 160/22[1]
+
+, iniciar-se-á quando da divulgação do Anúncio de Início de Distribuição, ainda que apenas
 
 a primeira das séries a serem ofertadas tenha de fato tido sua colocação iniciada, de modo que as demais
 
@@ -226,11 +228,19 @@ nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 2013310 e o código
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 2013310 e o código
 
 CRC 0C38B6EF.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+autenticidade, and
+
+_
 
 typing the "Código Verificador" 2013310 and the "Código CRC" 0C38B6EF.
 

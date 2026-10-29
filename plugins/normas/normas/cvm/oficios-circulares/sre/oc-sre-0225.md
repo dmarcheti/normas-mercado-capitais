@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0225.pdf
 sha256_fonte: 9b497f322f4204cc68a47d942cf47e26667a6fd1c520f3d6425220f099d6f671
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -40,15 +40,15 @@ públicas de distribuição de valores mobiliários - Resolução CVM nº 160/20
 
 Senhor Diretor,
 
-1. O presente Ofício-Circular tem como objetivo orientar as instituições intermediárias quanto ao pedido de registro de ofertas públicas de distribuição
+1. 2. 3. O presente Ofício-Circular tem como objetivo orientar as instituições intermediárias quanto ao pedido de registro de ofertas públicas de distribuição
 
 de valores mobiliários que sigam o rito de registro ordinário ou automático previstos na Resolução CVM nº 160/2022 (“RCVM 160”).
 
-2. Inicialmente destacamos que atualmente todos os pedidos de registro automático de ofertas publicas de distribuição já são realizados pelo Sistema
+Inicialmente destacamos que atualmente todos os pedidos de registro automático de ofertas publicas de distribuição já são realizados pelo Sistema
 
 de Registro de Ofertas ("Sistema SRE").
 
-3. A partir de 02/0462025 referido sistema estará apto a receber e processar as fases de análise das solicitações de registro que sigam pelo rito
+A partir de 02/0462025 referido sistema estará apto a receber e processar as fases de análise das solicitações de registro que sigam pelo rito
 
 ordinário. Nesse sentido, todas as ofertas públicas de distribuição que sigam o rito ordinário, com exceção das ofertas de CIC hoteleiro (ver seção VII deste Ofício-
 
@@ -174,9 +174,9 @@ Requerimento da Oferta permanecerão em negrito até que todas as informações/
 
 B. Abertura de Requerimento (Em Verificação de Protocolo)
 
-19. Uma vez enviado o Formulário Eletrônico de Requerimento da Oferta, segue-se a verificação do mesmo pela SRE, assumindo o status “Em
+19. Verificação de Protocolo”, conforme tela a seguir:
 
-Verificação de Protocolo”, conforme tela a seguir:
+Uma vez enviado o Formulário Eletrônico de Requerimento da Oferta, segue-se a verificação do mesmo pela SRE, assumindo o status “Em
 
 20. A partir dessa etapa, o Formulário Eletrônico de Requerimento da Oferta deixa de seguir com a numeração de rascunho e recebe um número de
 
@@ -304,9 +304,9 @@ janela mostrará o alerta informando que ainda faltam ajustes.
 
 G. Registro Concedido
 
-36. Uma vez concedido o registro, o Formulário Eletrônico de Requerimento da Oferta receberá o número do registro, conforme demonstrado na tela a
+36. seguir:
 
-seguir:
+Uma vez concedido o registro, o Formulário Eletrônico de Requerimento da Oferta receberá o número do registro, conforme demonstrado na tela a
 
 37. Após o registro, caberá ao Coordenador Líder, no prazo de até 2 dias úteis, no caso de ofertas com Prospecto Preliminar, ou de até 90 dias, no caso
 
@@ -320,7 +320,7 @@ aba "Dados de Colocação" mesma aba onde se informará a data de encerramento e
 
 de Encerramento, na aba “Envio de Documentos”.
 
-IV. Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
+IV . Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
 
 39. É importante que os usuários do Sistema SRE, ou seja o participante que atuará como Coordenador Líder da oferta pública, tenham amplo
 
@@ -414,7 +414,7 @@ Formulário Eletrônico de Requerimento da Oferta para a CVM (sem prejuízo de e
 
 dinâmica descrita no parágrafo 43.
 
-V. Pedido de Análise Reservada
+V . Pedido de Análise Reservada
 
 50. Requerimentos que sejam objeto de Pedido de Análise Reservada pela SRE, nos termos do art. 31 da RCVM 160, devem indicar o pleito de
 
@@ -480,11 +480,11 @@ registro de ofertas públicas de CIC hoteleiro, o mercado será informado via Of
 
 X. Suporte ao Sistema SRE
 
-60. Reiteramos a orientação para que consultas referentes ao Sistema SRE sejam direcionadas exclusivamente para o email suporte-
+60. endereço.
+
+Reiteramos a orientação para que consultas referentes ao Sistema SRE sejam direcionadas exclusivamente para o email suporte-
 
 sistemasre@cvm.gov.br. Apenas mensagens eletrônicas direcionadas a tal endereço serão respondidas, não sendo necessário o envio em cópia a qualquer outro
-
-endereço.
 
 Atenciosamente,
 
@@ -496,12 +496,20 @@ Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador 2284060 e o código CRC
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 2284060 e o código CRC
 
 A22F142C.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 2284060 and the "Código CRC"
-
 A22F142C.
+
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 2284060 and the "Código CRC"
 
 Referência: Processo nº Ofícios-Circulares SRE 2025 Documento SEI nº 2284060

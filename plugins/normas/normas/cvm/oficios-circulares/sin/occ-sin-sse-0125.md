@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/occ-sin-sse-0125.pdf
 sha256_fonte: aba0dccbea7e9364a2d8c740cdd4c8a7b6bd601824fe198f40fbed2e4867fa22
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,19 +44,13 @@ Rio de Janeiro e São Paulo, 01 dezembro de 2025.
 
 Aos Administradores e Gestores de Fundos de Investimento
 
-Assunto:
-
-Interpretação de dispositivos da Parte Geral e dos Anexos
+Assunto: Interpretação de dispositivos da Parte Geral e dos Anexos
 
 Normativos I, II, III, IV e V da Resolução CVM nº 175.
 
 Prezados Senhores,
 
-1
-
-.
-
-Este Ofício Circular tem como objetivo divulgar interpretações adicionais
+1. Este Ofício Circular tem como objetivo divulgar interpretações adicionais
 
 da Superintendência de Supervisão de Investidores Institucionais (“SIN”) e da
 
@@ -62,11 +58,7 @@ Superintendência de Securitização e Agronegócio (“SSE”) sobre dispositiv
 
 geral da Resolução, bem como de dispositivos do Anexo I, II, III, IV e V.
 
-2
-
-.
-
-Em 11/07/2024, a SIN publicou o Ofício-Circular nº 3/2024/CVM/SIN
+2. Em 11/07/2024, a SIN publicou o Ofício-Circular nº 3/2024/CVM/SIN
 
 reconhecendo como regular a manutenção de taxa global em regulamento e a
 
@@ -78,11 +70,7 @@ de mercado devem adotar integralmente as diretrizes a serem divulgadas pela
 
 ANBIMA sobre a Transparência Informacional de Taxas.
 
-3
-
-.
-
-O Ofício-Circular nº 6/2024/CVM/SIN de 15/10/2024 traz esclarecimentos
+3. O Ofício-Circular nº 6/2024/CVM/SIN de 15/10/2024 traz esclarecimentos
 
 adicionais sobre o tema detalhando no item 8 a expectativa de substituição do
 
@@ -94,41 +82,25 @@ transparência plena das taxas será dada aos investidores incluindo a informaç
 
 sobre o acordo comercial em que o distribuidor está inserido.
 
-4
-
-.
-
-Em 22/11/2024, a SSE, através do Ofício nº 20/2024/CVM/SSE esclarece
+4. Em 22/11/2024, a SSE, através do Ofício nº 20/2024/CVM/SSE esclarece
 
 para a ANBIMA que as orientações contidas no Ofício Circular SIN nº 3/2024 podem
 
 ser aplicadas para os FIDC, FII e FIAGRO.
 
-5
-
-.
-
-Diante do pressuposto no item 2, a SIN e a SSE reconhecem a
+5. Diante do pressuposto no item 2, a SIN e a SSE reconhecem a
 
 Ferramenta ANBIMA (Plataforma de Transparência de Taxas) como instrumento
 
 Ofício-Circular 1 (2517795) SEI 19957.016087/2025-22 / pg. 1
 
-centralizado e adequado a ser adotado em substituição à divulgação no
-
-website
-
-de
+centralizado e adequado a ser adotado em substituição à divulgação no website de
 
 cada gestor. Sua adoção contribuirá para a maior clareza na divulgação das
 
 informações de remuneração dos fundos de investimento.
 
-6
-
-.
-
-Nesse contexto, entende-se que toda referência anteriormente feita ao
+6. Nesse contexto, entende-se que toda referência anteriormente feita ao
 
 “Sumário de Remuneração” deve ser reinterpretada como correspondendo à nova
 
@@ -140,11 +112,7 @@ de que a divulgação estruturada por meio da ferramenta atende às exigências
 
 regulatórias e expectativas de supervisão destas Superintendências.
 
-7
-
-.
-
-Esclarece-se, portanto, que a partir da adoção da Plataforma ANBIMA,
+7. Esclarece-se, portanto, que a partir da adoção da Plataforma ANBIMA,
 
 são dispensadas as seguintes obrigações: (i) disponibilização do Sumário de
 
@@ -152,11 +120,7 @@ Remuneração nos canais próprios do gestor e (ii) atualização e envio por me
 
 Sistema Fundos.Net para os FIIs, FIDCs e FIAGROs.
 
-8
-
-.
-
-Adicionalmente, os administradores de FII, FIDC e FIAGRO devem dar
+8. Adicionalmente, os administradores de FII, FIDC e FIAGRO devem dar
 
 ampla publicidade, por meio do envio de comunicado ao mercado no sistema
 
@@ -164,11 +128,7 @@ Fundos.Net, sobre a divulgação que passará a ser realizada no Plataforma ANBI
 
 informando o link de acesso para os investidores.
 
-9
-
-.
-
-A partir da adoção da Plataforma ANBIMA como meio oﬁcial de
+9. A partir da adoção da Plataforma ANBIMA como meio oficial de
 
 divulgação, torna-se imperativo que as informações de remuneração sejam
 
@@ -182,21 +142,13 @@ estabelecido, além de promover padronização e acessibilidade das informaçõe
 
 investidores e demais agentes de mercado.
 
-10
-
-.
-
-Os participantes devem observar integralmente as diretrizes
+10. Os participantes devem observar integralmente as diretrizes
 
 estabelecidas pela ANBIMA, tanto no que se refere à migração entre o sumário e a
 
 Plataforma quanto às regras aplicáveis à sua utilização
 
-11
-
-.
-
-Por ﬁm, a Plataforma ANBIMA entrou em funcionamento em 03/11/2025
+11. Por fim, a Plataforma ANBIMA entrou em funcionamento em 03/11/2025
 
 e, dessa forma, estas Superintendências consideram como adequada que, até
 
@@ -214,66 +166,38 @@ Superintendente de Securitização e Agronegócio - SSE
 
 Ofício-Circular 1 (2517795) SEI 19957.016087/2025-22 / pg. 2
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Bruno de Freitas Gomes
 
-Bruno de Freitas Gomes
-
-Condeixa Rodrigues
-
-,
-
-Superintendente
-
-, em 26/11/2025, às 17:39, com
+Condeixa Rodrigues, Superintendente, em 26/11/2025, às 17:39, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Marco Antonio Velloso de
 
-Marco Antonio Velloso de
-
-Sousa
-
-,
-
-Superintendente
-
-, em 26/11/2025, às 17:45, com fundamento no art.
+Sousa, Superintendente, em 26/11/2025, às 17:45, com fundamento no art.
 
 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2517795
+autenticidade, informando o código verificador
 
-e o código CRC
-
-533D5DD6
-
-.
+2517795 e o código CRC 533D5DD6.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2517795
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2517795 and the "Código CRC" 533D5DD6.
 
-533D5DD6
-
-.
-
-Referência:
-
-Processo nº 19957.016087/2025-22
-
-Documento SEI nº 2517795
+Referência: Processo nº 19957.016087/2025-22 Documento SEI nº 2517795
 
 Ofício-Circular 1 (2517795) SEI 19957.016087/2025-22 / pg. 3

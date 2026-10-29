@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0523.pdf
 sha256_fonte: 525f99e9484b2a4b3299a205dce72f1f782bdcb8afecf5d57d4048771a1120af
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 29/05/2023, 17:43 SEI/CVM - 1789423 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si… 1/3
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21)
 
@@ -74,9 +72,9 @@ feito de forma apartada das demais informações do patrimônio próprio da Comp
 
 Securitizadora.
 
-29/05/2023, 17:43 SEI/CVM - 1789423 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si... 1/3
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si… 2/3
+29/05/2023, 17:43 SEI/CVM - 1789423 - Ofício-Circular
 
 3. Esse novo procedimento se assemelha à dinâmica praticada para as
 
@@ -96,7 +94,7 @@ II.1) Informe Mensal de OTS
 
 5. Para o preenchimento do Informe Mensal estruturado, conforme
 
-estabelecido no art. 47, inciso V, e Suplemento G da Resolução, deve-se utilizar o
+estabelecido no art. 47, inciso V , e Suplemento G da Resolução, deve-se utilizar o
 
 modelo de formulário disponível no menu “Materiais de Apoio” do Sistema
 
@@ -142,11 +140,11 @@ Suplemento D da Resolução, encontra-se disponível desde 20/12/2022 no menu
 
 Cadastral - Estruturado”.
 
-29/05/2023, 17:43 SEI/CVM - 1789423 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si... 2/3
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si… 3/3
+29/05/2023, 17:43 III) Encaminhamento de dúvidas
 
-III) Encaminhamento de dúvidas
+SEI/CVM - 1789423 - Ofício-Circular
 
 11. Em caso de dúvidas sobre a utilização do sistema Fundos.Net, deverá ser
 
@@ -184,14 +182,24 @@ Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador
 
 1789423 e o código CRC 712D2D20.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador"
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador"
 
 1789423 and the "Código CRC" 712D2D20.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1789423
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1884537&infra_si... 3/3

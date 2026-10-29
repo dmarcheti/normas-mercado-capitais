@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0725.pdf
 sha256_fonte: 8a8574df9481f9e7cc8a76dd4bafba36c4f7b98b4b39082c8320434d765d3089
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -42,19 +44,13 @@ São Paulo, 16 de setembro de 2025.
 
 Aos Administradores de FIDC e FII.
 
-Assunto:
-
-Unificação dos cadastros de Administrador de FIDC e FII com o
+Assunto: Unificação dos cadastros de Administrador de FIDC e FII com o
 
 cadastro de Administrador de Carteiras.
 
 Prezados(as),
 
-1
-
-.
-
-Atualmente, a CVM possui um cadastro especíﬁco para o administrador
+1. Atualmente, a CVM possui um cadastro específico para o administrador
 
 de Fundos de Investimento em Direitos Creditórios - FIDC e outro para o
 
@@ -68,25 +64,17 @@ DSEC, mediante solicitação do administrador autorizado, pois não há integra�
 
 cadastro de Administrador de Carteiras administrado pela SIN/GAIN.
 
-2
+2. Nesse sentido, estas SSE e DSEC comunicam, por meio deste Ofício-
 
-.
+Circular, que, a partir de 1º de outubro de 2025 será implementada a unificação do
 
-Nesse sentido, estas SSE e DSEC comunicam, por meio deste Ofício-
-
-Circular, que, a partir de 1º de outubro de 2025 será implementada a uniﬁcação do
-
-cadastro da categoria “administrador ﬁduciário” para todos os administradores
+cadastro da categoria “administrador fiduciário” para todos os administradores
 
 profissionais de carteiras de valores mobiliários registrados nesta Autarquia.
 
-3
+3. A partir da referida data, todas as instituições cadastradas como
 
-.
-
-A partir da referida data, todas as instituições cadastradas como
-
-administradoras ﬁduciárias estarão devidamente registradas de forma única,
+administradoras fiduciárias estarão devidamente registradas de forma única,
 
 abrangendo todas as categorias de fundos que administram. Assim, não haverá
 
@@ -94,15 +82,11 @@ cadastros separados para a administração de FIDC ou FII, com a ressalva de que
 
 administradores de FIDC, FII e, ainda, FIAGRO, necessariamente devem estar
 
-habilitados como instituição ﬁnanceira, por força das normas que regem a
+habilitados como instituição financeira, por força das normas que regem a
 
 constituição dessas categorias de fundos.
 
-4
-
-.
-
-Ressalta-se, que, com a uniﬁcação, o diretor responsável pela
+4. Ressalta-se, que, com a unificação, o diretor responsável pela
 
 administração de carteiras de valores mobiliários, pela implementação e
 
@@ -114,13 +98,7 @@ de risco e pela distribuição de cotas de fundos de investimento permanecerão 
 
 mesmos para todas as categorias de fundos administrados pela instituição.
 
-5
-
-.
-
-Em caso de dúvidas, favor contatar a DSEC pelo
-
-e-mail
+5. Em caso de dúvidas, favor contatar a DSEC pelo e-mail
 
 dsec@cvm.gov.br.
 
@@ -134,64 +112,38 @@ Bruno de Freitas Gomes
 
 Superintendente de Securitização e Agronegócio - SSE
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Bruno de Freitas Gomes
 
-Bruno de Freitas Gomes
-
-Condeixa Rodrigues
-
-,
-
-Superintendente
-
-, em 16/09/2025, às 12:13, com
+Condeixa Rodrigues, Superintendente, em 16/09/2025, às 12:13, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Marcelo Firmino dos Santos,
 
-Marcelo Firmino dos Santos
-
-,
-
-Chefe de Divisão
-
-, em 16/09/2025, às 14:09, com fundamento no art. 6º do
+Chefe de Divisão, em 16/09/2025, às 14:09, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2430350
+autenticidade, informando o código verificador
 
-e o código CRC
-
-4F261091
-
-.
+2430350 e o código CRC 4F261091.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2430350
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2430350 and the "Código CRC" 4F261091.
 
-4F261091
-
-.
-
-Referência:
-
-Processo nº 19957.009383/2021-43
-
-Documento SEI nº 2430350
+Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2430350
 
 Ofício-Circular 7 (2430350) SEI 19957.009383/2021-43 / pg. 2

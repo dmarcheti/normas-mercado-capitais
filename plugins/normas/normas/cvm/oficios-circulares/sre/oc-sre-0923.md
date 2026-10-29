@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0923.pdf
 sha256_fonte: fe325b94bee5ef84cd99581062526c4667f900c9af8eb916b12692ef75fc93ec
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -156,9 +156,15 @@ consórcio de distribuição, ou com a CVM;
 
 VI – número e data do registro na CVM, de forma destacada; e
 
-VII – se for o caso de oferta destinada exclusivamente a investidores profissionais o seguinte aviso: “Foi dispensada divulgação de um prospecto
+VII – se for o caso de oferta destinada exclusivamente a investidores profissionais o seguinte aviso:
 
-para a realização desta oferta”.
+“Foi dispensada divulgação de um prospecto
+
+para a realização desta oferta
+
+”
+
+.
 
 13. Inclusive não apenas o Anúncio de Início, mas em diversas ofertas é recorrente observar que documentos obrigatórios para fins da RCVM
 
@@ -272,11 +278,19 @@ Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono
 
 com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1838563 e o
+A autenticidade do documento pode ser conferida no site https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1838563 e o
 
 código CRC 336A9C26.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 1838563 and the "Código
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 1838563 and the "Código
 
 CRC" 336A9C26.
 

@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sse/anexos/oc-sse-snc-0125.pdf
 sha256_fonte: 2cdb32c6b1c5c3e28094f9e7e5d2985a90ec0e004c59165bc0c9cd1cb2fcdb26
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+03/04/2025, 10:46 SEI/CVM - 2296873 - Ofício-Conjunto
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -104,9 +106,31 @@ pagamento de rendimentos periódicos durante o exercício, porém, sempre respei
 
 apurado sob o regime de competência.
 
-03/04/2025, 10:46 SEI/CVM - 2296873 - Ofício-Conjunto
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2429961&infra_siste… 1/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2429961&infra
+
+siste... 1/2_
+
+_
+
+_
+
+03/04/2025, 10:46 SEI/CVM - 2296873 - Ofício-Conjunto
 
 8. Os administradores e gestores do FIAGRO devem ter especial atenção quanto à distribuição de
 
@@ -168,16 +192,46 @@ Documento assinado eletronicamente por Osvaldo Zanetti Favero Junior, Superinten
 
 03/04/2025, às 10:05, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+autenticidade, informando o
+
+_
 
 código verificador 2296873 e o código CRC 1A0591FE.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código
 
 Verificador" 2296873 and the "Código CRC" 1A0591FE.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2296873
 
-03/04/2025, 10:46 SEI/CVM - 2296873 - Ofício-Conjunto
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2429961&infra_siste… 2/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2429961&infra
+
+_
+
+_
+
+_
+
+siste... 2/2

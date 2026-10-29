@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0425.pdf
 sha256_fonte: c7956d8dd498233c5a5097176471fae010f14400bedccd22cd069ffb6475ea93
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -54,7 +54,7 @@ atividades de gestão e as práticas de negociação em mercado secundário, mit
 
 interesse.
 
-3. No entanto, como já manifestado anteriormente por meio do Ofício-Conjunto nº 3/2017-CVM/GIR 1, na
+3. No entanto, como já manifestado anteriormente por meio do Ofício-Conjunto nº 3/2017-CVM/GIR1, na
 
 interpretação da SIN, entendemos que é possível o exercício da atividade de formador de mercado para cotas de
 
@@ -70,15 +70,15 @@ de gestão do fundo.
 
 4. Para a construção acima, foram levadas em consideração:
 
-i. A Resolução CVM n° 21/21 que determina a segregação da atividade do gestor de carteiras, incluindo o
+i. ii. iii. A Resolução CVM n° 21/21 que determina a segregação da atividade do gestor de carteiras, incluindo o
 
 gestor fundos de índice, das demais atividades exercidas pela pessoa jurídica (Art. 27);
 
-ii. A Resolução CVM n° 133/22 que estabelece, em seu artigo 8°, a proibição de acesso pelo formador de
+A Resolução CVM n° 133/22 que estabelece, em seu artigo 8°, a proibição de acesso pelo formador de
 
 mercado de informações relevantes não divulgadas ao mercado;
 
-iii. A gestão passiva exercida nos ETFs, tendo em vista que tais fundos tem por objetivo refletir as variações
+A gestão passiva exercida nos ETFs, tendo em vista que tais fundos tem por objetivo refletir as variações
 
 e a rentabilidade de índices de referência.
 

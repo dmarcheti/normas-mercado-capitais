@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0322.pdf
 sha256_fonte: af66c20881de01b635a2343e7ca814441899519033f7d006cf0e084b03665ef2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 13/05/2022 11:51 SEI/CVM - 1498736 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1577472&infra_siste… 1/2
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -96,9 +94,9 @@ encaminhadas para a Superintendência de Emissores da B3.
 
 a) Atendimento Normal: nos dias úteis, das 8h às 20h, pelo e-mail ou pelo telefone.
 
-13/05/2022 11:51 SEI/CVM - 1498736 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1577472&infra_siste... 1/2
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1577472&infra_siste… 2/2
+13/05/2022 11:51 SEI/CVM - 1498736 - Ofício-Circular
 
 b) Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de semana e
 
@@ -120,12 +118,22 @@ Documento assinado eletronicamente por Fernando Soares Vieira, Superintendente, 
 
 13/05/2022, às 11:41, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 1498736 e o código CRC 2E59A9B7.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 1498736 and the "Código CRC" 2E59A9B7.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº 19957.004471/2022-30 Documento SEI nº 1498736
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1577472&infra_siste... 2/2

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0324.pdf
 sha256_fonte: d39a84e63a1e9deb0a053a6bc5179b9686bee3c38005c0b569d014ebab5511be
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -24,7 +24,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 3/2024/CVM/SIN
 
@@ -70,7 +70,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 1. Transparência Informacional
 
@@ -92,7 +92,7 @@ Considerando que:
 
 dado por uma legítima preocupação do regulador com a necessidade de se garantir a transparência
 
-aos investidores com relação à remuneração dos distribuidores (afinal de contas é ele o pa rticipante
+aos investidores com relação à remuneração dos distribuidores (afinal de contas é ele o participante
 
 responsável por oferecer o produto ao investidor); (ii) com o novo cronograma de implementação da
 
@@ -118,15 +118,15 @@ para suas decisões de investimento. Desse modo, é entendimento dessas áreas t
 
 alternativamente a segregação das taxas, tais informações podem ser divulgadas nos anexos ou
 
-apêndices, conforme o caso, de forma consolidada por meio da divulgação de uma taxa global 1, sem a
+apêndices, conforme o caso, de forma consolidada por meio da divulgação de uma taxa global1, sem a
 
 necessidade de manter uma taxa máxima de distribuição apartada. Para tanto, o gestor de recursos
 
 deverá manter em seu website, um sumário da remuneração de prestadores de serviço, contendo as
 
-taxas segregadas, conforme o Anexo I desse ofício -circular. Ainda, o anexo ou apêndice do fundo
+taxas segregadas, conforme o Anexo I desse ofício-circular. Ainda, o anexo ou apêndice do fundo
 
-deverá possuir um link para esse sumário de modo a permitir ao in vestidor o pleno acesso a essas
+deverá possuir um link para esse sumário de modo a permitir ao investidor o pleno acesso a essas
 
 informações.
 
@@ -156,13 +156,13 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Portanto, os prestadores de serviços essenciais que utilizarem a prerrogativa acima descrita poderão
 
 utilizar o conceito da taxa global para cumprimento dos dispositivos da Resolução CVM 175 que tratem
 
-da divulgação das taxas de administração, gestão e máx ima de distribuição, sem necessidade de
+da divulgação das taxas de administração, gestão e máxima de distribuição, sem necessidade de
 
 individualização nos anexos ou apêndices de cada uma das referidas taxas, sendo todas essas
 
@@ -196,11 +196,11 @@ e/ou administração, desde que observados os conceitos e o detalhamento em apar
 
 resposta à pergunta 1 acima.
 
-Pergunta 3 : O artigo 98 e seus parágrafos, assim como o artigo 113 da Resolução 175 estabelecem a
+Pergunta 3: O artigo 98 e seus parágrafos, assim como o artigo 113 da Resolução 175 estabelecem a
 
 necessidade do estabelecimento de taxa máxima de administração e de taxa máxima de gestão, as
 
-quais compreendem as taxas dos fundos investidos. Caso a resposta em relaç ão à Pergunta 1 acima
+quais compreendem as taxas dos fundos investidos. Caso a resposta em relação à Pergunta 1 acima
 
 seja afirmativa, é correto entender que a taxa máxima pode ser informada no anexo ou apêndice,
 
@@ -210,11 +210,11 @@ Resposta 3: Sim, este entendimento está correto, de forma que poderá ser divul
 
 global.
 
-2. Pagamento de taxa de performance ao distribuidor em fundos de varejo
+Pagamento de taxa de performance ao distribuidor em fundos de varejo
 
-Pergunta 1 : É regular a estruturação de fundos de investimento destinados ao público em geral
+Pergunta 1: É regular a estruturação de fundos de investimento destinados ao público em geral
 
-(varejo) que prevejam o pagamento de remuneração ao distribuidor com base em parcela da taxa de
+2. (varejo) que prevejam o pagamento de remuneração ao distribuidor com base em parcela da taxa de
 
 performance do fundo?
 
@@ -228,7 +228,7 @@ mas em especial na ocasião da decisão de investimento, a uma simulação de ce
 
 conforme Anexo II desse ofício-circular. O gestor de recursos deverá demonstrar de forma segregada
 
-as parcelas de remuneração do dis tribuidor e do gestor, a partir da taxa de performance disposta no
+as parcelas de remuneração do distribuidor e do gestor, a partir da taxa de performance disposta no
 
 anexo ou apêndice e com base no acordo comercial celebrado com o distribuidor. Além disso deverão
 
@@ -238,11 +238,11 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 apresentada pela ANBIMA em nov/23 para que o nível de transparência seja a mesma para todos os
 
-investidores desses fundos. Portanto, a resposta ao item 36 do Ofício -Circular 01/2023/CVM/SIN/SSE
+investidores desses fundos. Portanto, a resposta ao item 36 do Ofício-Circular 01/2023/CVM/SIN/SSE
 
 fica ora complementada.
 
@@ -250,27 +250,47 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 ANEXO I – TRANSPARÊNCIA INFORMACIONAL
+
+SUMÁRIO DA REMUNERAÇÃO DE PRESTADORES DE SERVIÇOS
 
 MÊS/ANO DE REFERÊNCIA
 
 FUNDO:
 
+1234 FUNDO DE INVESTIMENTO FINANCEIRO
+
 CNPJ:
+
+PRESTADORES DE SERVIÇOS ESSENCIAIS
+
+XXXXXXXXXX/XXXX-XX
+
+YYYYYYYYYYYYYYYYY
 
 GESTOR DE RECURSOS
 
 ADMINISTRADOR FIDUCIÁRIO
 
+XXXXXXXXXXXXXXXX
+
 SEÇÃO I - CARACTERÍSTICAS DA SUBCLASSE
 
 CLASSE RELACIONADA:
 
+1234 Classe de Investimento Multimercado Responsabilidade Limitada
+
 CNPJ DA CLASSE:
 
 NOME DA SUBCLASSE:
+
+XXXXXXXXXX/XXXX-XX
+
+1234 Subclasse da Classe Investimento Multimercado Responsabilidade
+
+Limitada
 
 CÓDIGO DA SUBCLASSE XXXXXXXX
 
@@ -278,15 +298,27 @@ TAXA GLOBAL DA CLASSE OU
 
 SUBCLASSE1
 
+2%
+
+A SEGREGAÇÃO DA TAXA GLOBAL ENTRE OS
+
+PRESTADORES DE SERVIÇOS DO FUNDO É
+
+REALIZADA NAS SEÇÕES ABAIXO
+
 TAXA DE PERFORMANCE DA
 
 CLASSE OU SUBCLASSE
+
+20% DO QUE EXCEDER O 100% DO CDI
 
 PERIODICIDADE DE PAGAMENTO
 
 DA PERFORMANCE2 SEMESTRAL
 
 PUBLICO ALVO:
+
+Investidores em Geral
 
 INVESTIMENTO MINIMO: 100,00
 
@@ -300,13 +332,31 @@ TAXA DE SAÍDA:
 
 CARÊNCIA PARA RESGATE:
 
+D+1 (dias úteis) da data do pedido
+
+D+3 (dias úteis) da data do pedido
+
+D+2 (dias úteis) da data da conversão
+
+Não Aplicável
+
+Não
+
 PERMITE INTEGRALIZAÇÃO E
+
+Sim
 
 RESGATE EM ATIVOS?
 
 CISÃO DE PARCELA ILIQUIDA
 
+Sim
+
 BARREIRAS AOS RESGATES Sim
+
+1 ENGLOBA AS TAXAS DE ADMINISTRAÇÃO FIDUCIÁRIA, GESTÃO, DISTRIBUIÇÃO E ESTRUTURAÇÃO DE PREVIDÊNCIA (SE HOUVER)
+
+2 PERIODICIDADE DE COBRANÇA DESCRITA NO REGULAMENTO
 
 AS TAXAS DE ADMINISTRAÇÃO E GESTÃO SERÃO COBRADAS MENSALMENTE E A TAXA DE PERFORMANCE CONFORME ULTIMO PERIODO DE COBRANÇA PREVISTO NO REGULAMENTO
 
@@ -316,7 +366,9 @@ ACORDO COM O ADMINISTRADOR
 
 FIDUCIÁRIO
 
-Forma de Remuneração* Valor Fixo ou Mínimo Taxa de Administração
+Forma de Remuneração* Valor Fixo ou Mínimo
+
+Taxa de Administração
 
 (% sob PL)
 
@@ -326,7 +378,11 @@ REMUNERACAO
 
 De R$ 0,01 até R$ 10.000.000,00 R$ 12.000,00
 
-De R$ 10.000.000,01 até R$ 50.000.000,00 0,20% X
+Taxa de Administração Fiduciária
+
+De R$ 10.000.000,01 até R$ 50.000.000,00 0,20%
+
+X
 
 de: R$ 50.000.000,01 até R$ 100.000.000,00 0,15%
 
@@ -334,59 +390,29 @@ Acima de: R$ 100.000.000,01 0,10%
 
 *VOLUME TOTAL SOB ADMINISTRAÇÃO INCLUINDO TODOS OS VEICULOS ADMINISTRADOS
 
-1234 Classe de Investimento Multimercado Responsabilidade Limitada
+SEÇÃO III - REMUNERAÇÃO DE GESTÃO E DISTRIBUIÇÃO
 
-Sim
+SUBSEÇÃO I - LISTA DE DISTRIBUIDORES CONTRATADOS
 
-SUMÁRIO DA REMUNERAÇÃO DE PRESTADORES DE SERVIÇOS
+[nessa seção deverão ser colocados em ordem alfabética os nomes e CNPJs dos distribuidores aptos a ofertar a subclasse]
 
-1234 FUNDO DE INVESTIMENTO FINANCEIRO
+SUBSEÇÃO II - ACORDOS COMERCIAIS ENTRE O GESTOR E OS DISTRIBUIDORES DA SUBCLASSE
 
-XXXXXXXXXX/XXXX-XX
+Distribuição
 
-XXXXXXXXXXXXXXXX
+Acordos de remuneração Acordo comercial 1
 
-PRESTADORES DE SERVIÇOS ESSENCIAIS
+Acordo comercial 2
 
-YYYYYYYYYYYYYYYYY
+Acordo comercial 3
 
-XXXXXXXXXX/XXXX-XX
+Acordo comercial 4
 
-1 ENGLOBA AS TAXAS DE ADMINISTRAÇÃO FIDUCIÁRIA, GESTÃO, DISTRIBUIÇÃO E ESTRUTURAÇÃO DE PREVIDÊNCIA (SE HOUVER)
+Gestão
 
-Não
+Faixas de Remuneração*
 
-Não Aplicável
-
-D+2 (dias úteis) da data da conversão
-
-1234 Subclasse da Classe Investimento Multimercado Responsabilidade
-
-Limitada
-
-Sim
-
-2 PERIODICIDADE DE COBRANÇA DESCRITA NO REGULAMENTO
-
-Investidores em Geral
-
-20% DO QUE EXCEDER O 100% DO CDI
-
-2%
-
-D+1 (dias úteis) da data do pedido
-
-D+3 (dias úteis) da data do pedido
-
-Taxa de Administração Fiduciária
-
-A SEGREGAÇÃO DA TAXA GLOBAL ENTRE OS
-
-PRESTADORES DE SERVIÇOS DO FUNDO É
-
-REALIZADA NAS SEÇÕES ABAIXO
-
-Acordos de remuneração Faixas de Remuneração* Valor Fixo ou Mínimo
+Valor Fixo ou Mínimo
 
 (anual)
 
@@ -420,6 +446,44 @@ FAIXA ATUAL DE
 
 REMUNERACAO
 
+De R$ 0,01 até R$ 50.000.000,00 - 0,20% 4,00% - 1,60% 16,00%
+
+de: R$ 50.000.000,01 até R$ 100.000.000,00 0,50% 6,00% 1,30% 14,00% X
+
+Acima de: R$ 100.000.000,01 1,00% 10,00% 0,80% 10,00%
+
+- -
+
+sem faixas
+
+0,70%
+
+0,00%
+
+1,10%
+
+20,00%
+
+sem faixas
+
+R$ 18.000 1,80%
+
+0,00%
+
+20,00%
+
+sem faixas -
+
+0,00%
+
+0,00% 1,80% 20,00%
+
+*VOLUME TOTAL SOB DISTRIBUIÇÃO INCLUINDO TODOS OS VEICULOS DISTRIBUIDOS
+
+AS TAXAS DEMONSTRADAS NESTE SUMÁRIO ESTÃO EXPRESSAS AO ANO
+
+QUANDO A FORMA DE REMUNERAÇÃO FOR SOB O CAPITAL COMPROMETIDO, CAPITAL SUBSCRITO OU OUTRA FORMA DE APLICAÇÃO QUE NÃO SOB O % DO PL, DEVERÁ TER ESSA INDICAÇÃO NO CAMPO DE CONDIÇÕES COMPLEMENTARES
+
 OUTRAS RECEITAS
 
 RECEBIDAS PELO
@@ -442,63 +506,11 @@ REMUNERAÇÃO DO
 
 DISTRIBUIDOR***
 
-De R$ 0,01 até R$ 50.000.000,00 - 0,20% 4,00% - 1,60% 16,00%
-
-de: R$ 50.000.000,01 até R$ 100.000.000,00 0,50% 6,00% 1,30% 14,00% X
-
-Acima de: R$ 100.000.000,01 1,00% 10,00% 0,80% 10,00%
-
-- -
-
-*VOLUME TOTAL SOB DISTRIBUIÇÃO INCLUINDO TODOS OS VEICULOS DISTRIBUIDOS
-
-AS TAXAS DEMONSTRADAS NESTE SUMÁRIO ESTÃO EXPRESSAS AO ANO
-
-QUANDO A FORMA DE REMUNERAÇÃO FOR SOB O CAPITAL COMPROMETIDO, CAPITAL SUBSCRITO OU OUTRA FORMA DE APLICAÇÃO QUE NÃO SOB O % DO PL, DEVERÁ TER ESSA INDICAÇÃO NO CAMPO DE CONDIÇÕES COMPLEMENTARES
-
-SUBSEÇÃO II - ACORDOS COMERCIAIS ENTRE O GESTOR E OS DISTRIBUIDORES DA SUBCLASSE
-
-Acordo comercial 3
-
-20,00%
-
-20,00%
-
-0,70%
-
-R$ 18.000 1,80%
-
-1,10%0,00%
-
-0,00%
-
-GestãoDistribuição
-
-Acordo comercial 1
-
-Acordo comercial 2
-
-[nessa seção deverão ser colocados em ordem alfabética os nomes e CNPJs dos distribuidores aptos a ofertar a subclasse]
-
-0,00%Acordo comercial 4
-
-sem faixas
-
-sem faixas
-
-sem faixas -
-
-SEÇÃO III - REMUNERAÇÃO DE GESTÃO E DISTRIBUIÇÃO
-
-SUBSEÇÃO I - LISTA DE DISTRIBUIDORES CONTRATADOS
-
-0,00% 1,80% 20,00%
-
 COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 ANEXO II – SIMULAÇÃO DE CENÁRIOS EM FUNDOS DE VAREJO
 
@@ -522,6 +534,8 @@ Remuneração dos Prestadores de serviço
 
 Taxas
 
+Gestor Distribuidor Adm Taxa Total
+
 Rateio % do PL $$ % do PL $$ % do PL $$ % do PL $$
 
 Distr A 25% 1,40% 1.400,00 0,50% 500,00 0,10% 100,00 2,0% 2.000,00
@@ -534,6 +548,8 @@ Distr D 25% 1,40% 1.400,00 0,50% 500,00 0,10% 100,00 2,0% 2.000,00
 
 Taxa de Performance
 
+Gestor Distribuidor Adm Taxa Total
+
 Rateio % do PL $$ % do PL $$ % do PL $$ % do PL $$
 
 Distr A 5% 2,85% 2.850,00 0,15% 150,00 0,00% - 3,0% 3.000,00
@@ -544,6 +560,8 @@ Distr C 0% 3,00% 3.000,00 0,00% - 0,00% - 3,0% 3.000,00
 
 Distr D 20% 2,40% 2.400,00 0,60% 600,00 0,00% - 3,0% 3.000,00
 
+Gestor Distribuidor Adm Taxa Total
+
 Taxa Total % do PL $$ % do PL $$ % do PL $$ % do PL $$
 
 Distr A 4,25% 4.250,00 0,65% 650,00 0,10% 100,00 5,00% 5.000,00
@@ -553,9 +571,3 @@ Distr B 4,20% 4.200,00 0,70% 700,00 0,10% 100,00 5,00% 5.000,00
 Distr C 3,30% 3.300,00 1,60% 1.600,00 0,10% 100,00 5,00% 5.000,00
 
 Distr D 3,80% 3.800,00 1,10% 1.100,00 0,10% 100,00 5,00% 5.000,00
-
-Gestor Distribuidor Adm Taxa Total
-
-Gestor Distribuidor Adm Taxa Total
-
-Gestor Distribuidor Adm Taxa Total

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-sse-0223.pdf
 sha256_fonte: 31ea94390ef57a02e3960f3dda8ac8dd3ff98ca704d639926fc9542763b9829b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -184,7 +184,7 @@ remuneratórios que respeitem um valor consolidado fixo, mas formado por compone
 
 que podem variar, por exemplo, em função do patrimônio líquido total sob a alçada daquele
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+c. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
@@ -232,7 +232,7 @@ permanecer segregada em regulamento (anexo ou apêndice, conforme o caso) sob a 
 
 da taxa máxima de distribuição do respectivo fundo.
 
-c. Considerando o novo cronograma de vigência da Resolução 175 dado pela Resolução 181,
+Considerando o novo cronograma de vigência da Resolução 175 dado pela Resolução 181,
 
 qual será a data de vigência da nova obrigatoriedade para que as taxas dos fundos de
 
@@ -262,13 +262,13 @@ da Resolução CVM 175, observada a possibilidade disposta no item 1 deste
 
 documento; e
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+d. (ii) COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-(ii) a partir de 1º de abril de 2024, já deverão observar as disposições da Resolução 175
+a partir de 1º de abril de 2024, já deverão observar as disposições da Resolução 175
 
 na sua totalidade, incluída a obrigação de divulgação das taxas segregadas de
 
@@ -292,7 +292,7 @@ divulgação de taxas máximas de administração e de gestão, observadas as de
 
 já esclarecidas das áreas técnicas no item 23 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE.
 
-d. Considerando o novo cronograma de vigência da Resolução 175 dado pela Resolução 181,
+Considerando o novo cronograma de vigência da Resolução 175 dado pela Resolução 181,
 
 qual será a data de vigência para as novas regras de conduta relativas a rebates, atualmente
 
@@ -550,7 +550,7 @@ fechamento dos mercados e (ii) em casos excepcionais de iliquidez dos ativos. Ne
 
 ficamos na dúvida sobre a possibilidade de seu uso em situações derivadas de preços, como
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+b. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
@@ -580,17 +580,17 @@ administrativo sancionador contra qualquer um deles ou ambos, à luz das conduta
 
 identificadas em cada caso por parte de cada um.
 
-b. Nas hipóteses abaixo de side pocket é possível a reincorporação da parcela ilíquida (ativo) na
+Nas hipóteses abaixo de side pocket é possível a reincorporação da parcela ilíquida (ativo) na
 
 classe?
 
-(i) quando permanecem no fundo os mesmos cotistas e se mantém a proporção em
+(i) (ii) (iii) quando permanecem no fundo os mesmos cotistas e se mantém a proporção em
 
 cotas da ocasião da cisão;
 
-(ii) o ativo volta a ter liquidez e marcação a mercado, e;
+o ativo volta a ter liquidez e marcação a mercado, e;
 
-(iii) mediante a aprovação da reincorporação em assembleia.
+mediante a aprovação da reincorporação em assembleia.
 
 Resposta: Sim, a reincorporação da parcela ilíquida (cindida) à classe original é possível,
 
@@ -604,7 +604,7 @@ parcela cindida. Até mesmo porque, das 3 condições cumulativas apresentadas a
 
 primeira parece bastante difícil de ocorrer na prática no âmbito de fundos abertos.
 
-c. Quando se ativa o side pocket , imagina-se que os pedidos de resgate devam ser
+c. Quando se ativa o side pocket, imagina-se que os pedidos de resgate devam ser
 
 proporcionalmente distribuídos entre as classes resultantes da cisão. Na classe que abriga os
 
@@ -624,15 +624,15 @@ ainda que o side pocket possa ser acionado alcançando resgates ainda não cotiz
 
 ser acionado com fundamento em excessos de resgate.
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+d. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-d. Há possibilidade de flexibilização de regras para as classes cindidas que contenham os ativos
+Há possibilidade de flexibilização de regras para as classes cindidas que contenham os ativos
 
-ilíquidos dos side pockets ? Citamos como exemplo a possibilidade de manutenção de
+ilíquidos dos side pockets? Citamos como exemplo a possibilidade de manutenção de
 
 patrimônio líquido inferior a R$ 1MM e dos limites de composição e concentração da carteira.
 
@@ -642,7 +642,7 @@ aplicação em situações excepcionais; por este motivo, não está sujeito às
 
 patrimônio mínimo e enquadramento previstas na regulamentação geral dos fundos.
 
-e. É possível incluir na cisão decorrente do side pocket uma parcela líquida para fazer frente às
+e. f. É possível incluir na cisão decorrente do side pocket uma parcela líquida para fazer frente às
 
 despesas/pagamentos dos encargos atribuídos à nova classe criada para receber o ativo
 
@@ -656,7 +656,7 @@ recursos necessários para sua subsistência e condução de suas próprias ativ
 
 tempo previsto para sua existência.
 
-f. Sobre as barreiras ao resgate (redemption gates), é certo o entendimento de que, nos fundos
+Sobre as barreiras ao resgate (redemption gates), é certo o entendimento de que, nos fundos
 
 de varejo, a redução dos pedidos de resgate deve ser realizada na mesma proporção para
 

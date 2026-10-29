@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0523.pdf
 sha256_fonte: 2f3eab52e66885554bee69a26cf00be9b22ca51dcd06392757ef0d30f950e072
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE V ALORES MOBILIÁRIOS
+COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -42,7 +42,7 @@ atual Anexo IV da Lei nº 7.940/2021.
 
 Senhor Diretor,
 
-1. O presente Ofício-Circular complementa o Ofício-Circular nº 1/2022-CVM/SRE ( Ofício-
+1. O presente Ofício-Circular complementa o Ofício-Circular nº 1/2022-CVM/SRE (Ofício-
 
 Circular CVM/SRE 01/22), divulgado em 14/01/2022, e deve ser lido em conjunto com aquele documento,
 

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0426.pdf
 sha256_fonte: 04ee8525c098d2a26c61c83de2efedb0de6167301c93df1ca28ba0063ae3b1b6
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -28,9 +28,9 @@ Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 4/2026/CVM/SIN
 
-Rio de Janeiro, 11 de fevereiro de 2026.
-
 Aos
+
+Rio de Janeiro, 11 de fevereiro de 2026.
 
 Representantes de investidores não residentes e Entidades Administradoras de Mercado Organizado.
 

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/smi/anexos/oc-smi-0126.pdf
 sha256_fonte: fe43ea1950c03e3463097b8c2237c99bb91e261fbd7aaec622fd327d2e86d6d4
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -54,11 +56,7 @@ atualizações cadastrais.
 
 Prezados Senhores,
 
-1
-
-.
-
-A Superintendência de Relações com o Mercado e Intermediários - SMI
+1. A Superintendência de Relações com o Mercado e Intermediários - SMI
 
 informa que entrou em funcionamento, em janeiro de 2026, um módulo do novo
 
@@ -72,19 +70,11 @@ da CVM e, agora, passa a estar disponível também para as Entidades
 
 Administradoras de Mercados Organizados - EAMO.
 
-2
-
-.
-
-Nesse contexto, informamos que, a partir de agora, as alterações
+2. Nesse contexto, informamos que, a partir de agora, as alterações
 
 cadastrais das EAMO devem ser informadas à CVM por meio do sistema em questão.
 
-O acesso ao sistema ocorre por meio do sistema CVMWeb (
-
-cvmweb.cvm.gov.br
-
-), da
+O acesso ao sistema ocorre por meio do sistema CVMWeb (cvmweb.cvm.gov.br), da
 
 mesma forma que já ocorria no sistema antigo. Após acessar o CVMWeb, o diretor
 
@@ -94,7 +84,9 @@ permissão de alteração cadastral) deverá acessar a função de "Atualizaçã
 
 Cadastral" e, em seguida, a opção "Gestão de Intermediários - Administradoras de
 
-Mercados Organizados". Ali, será possível informar qualquer alteração nos dados
+Mercados Organizados"
+
+. Ali, será possível informar qualquer alteração nos dados
 
 Ofício-Circular 1 (2568068) SEI 19957.000145/2026-87 / pg. 1
 
@@ -108,9 +100,11 @@ participante/corretoras-e-distribuidoras - Manual para atualização cadastral d
 
 intermediários). O sistema também deverá ser utilizado para envio da Declaração
 
-Eletrônica de Conformidade - DEC (art. 2º, II, Resolução CVM 234). Vale lembrar que
+Eletrônica de Conformidade - DEC (art. 2º
 
-o envio da DEC deve ocorrer até 31/03/2026. Eventuais diﬁculdades e dúvidas
+, II, Resolução CVM 234). Vale lembrar que
+
+o envio da DEC deve ocorrer até 31/03/2026. Eventuais dificuldades e dúvidas
 
 relacionadas a atualizações cadastrais ou encaminhamento da DEC, especialmente
 
@@ -118,17 +112,15 @@ neste momento de implementação do novo sistema, deverão ser reportadas à
 
 Gerência de Supervisão de Intermediários 2 - GSUI-2 (gsui-2@cvm.gov.br).
 
-3
-
-.
-
-Da mesma forma, pessoas interessadas em requerer autorização para
+3. Da mesma forma, pessoas interessadas em requerer autorização para
 
 funcionamento de EAMOs devem fazer a solicitação por meio do sistema
 
 mencionado acima. Nesse caso, o interessado deverá acessar o sistema CVMWeb e
 
-localizar a opção "Gestão de Intermediários (Solicitar Registro)". Será então
+localizar a opção "Gestão de Intermediários (Solicitar Registro)"
+
+. Será então
 
 necessário informar os dados básicos da instituição requerente e anexar a
 
@@ -138,11 +130,7 @@ solicitações de autorização poderão ser sanadas com a Gerência de Infraest
 
 Mercados Organizados - GIMOR (gimor@cvm.gov.br).
 
-4
-
-.
-
-Por ﬁm, informamos que, em breve, o novo sistema deverá estar
+4. Por fim, informamos que, em breve, o novo sistema deverá estar
 
 disponível também para outros participantes supervisionados pela SMI, o que será
 
@@ -154,52 +142,32 @@ André Francisco Luiz de Alencar Passaro
 
 Superintendente de Relações com o Mercado e Intermediários
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Andre Francisco Luiz de Alencar
 
-Andre Francisco Luiz de Alencar
-
-Passaro
-
-,
-
-Superintendente
-
-, em 20/01/2026, às 14:50, com fundamento no
+Passaro, Superintendente, em 20/01/2026, às 14:50, com fundamento no
 
 art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2568068
+autenticidade, informando o código verificador
 
-e o código CRC
-
-E92619C5
-
-.
+2568068 e o código CRC E92619C5.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2568068
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2568068 and the "Código CRC" E92619C5.
 
-E92619C5
-
-.
-
-Referência:
-
-Processo nº 19957.000145/2026-87
-
-Documento SEI nº 2568068
+Referência: Processo nº 19957.000145/2026-87 Documento SEI nº 2568068
 
 Ofício-Circular 1 (2568068) SEI 19957.000145/2026-87 / pg. 2

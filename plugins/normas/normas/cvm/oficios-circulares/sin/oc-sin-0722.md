@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0722.pdf
 sha256_fonte: 655e104349ffc41adc0e4f305ff07cbdd909493b25987eb22bde3d3d8f5dff75
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -40,25 +40,25 @@ Assunto: Entrada em vigor do Sistema de Registro de Consultores de Valores Mobil
 
 Prezados Senhores,
 
-1. A divulgação deste Ofício Circular tem como obje tivo divulgar o lançamento do Sistema de
+1. A divulgação deste Ofício Circular tem como objetivo divulgar o lançamento do Sistema de
 
-Registro de Consultores de Valores Mobiliários (“RE GCON”) em atendimento ao Art. 5º da
+Registro de Consultores de Valores Mobiliários (“REGCON”) em atendimento ao Art. 5º da
 
-Resolução CVM nº 19, que prevê um “pedido de autorização ou de reconhecimento, conform e o
+Resolução CVM nº 19, que prevê um “pedido de autorização ou de reconhecimento, conforme o
 
 caso, para o exercício da atividade de consultor de valores mobiliários [que] deve ser
 
-encaminhado à SIN por meio eletrônico ”.
+encaminhado à SIN por meio eletrônico”.
 
 2. A partir de 16 de setembro de 2022, as pessoas interessadas em obter o registro como consultor
 
-de valores mobiliários só poderão fazer a solicitaç ão do seu credenciamento através do novo
+de valores mobiliários só poderão fazer a solicitação do seu credenciamento através do novo
 
-sistema. O acesso se dará através do link https://sistemas.cvm.gov.br/ , depois em Sistema
+sistema. O acesso se dará através do link https://sistemas.cvm.gov.br/, depois em Sistema
 
-CVMWeb, opção Atualização Cadastral. Após fazer o l ogin (que pode ser realizado utilizando
+CVMWeb, opção Atualização Cadastral. Após fazer o login (que pode ser realizado utilizando
 
-uma conta GOV.BR com nível prata ou ouro) estará di sponível no menu à esquerda a opção
+uma conta GOV.BR com nível prata ou ouro) estará disponível no menu à esquerda a opção
 
 ‘Consultor de Valores Mobiliários (Perfil: Consultor)’.
 
@@ -68,27 +68,27 @@ a opção ‘Solicitar Registro’, preencher as informações solicitadas, faze
 
 requeridos e atestar a consistência e acurácia dos arquivos que estão sendo enviados. Nessa
 
-oportunidade, também deverá ser remetida cópia da G uia de Recolhimento da União (GRU) da
+oportunidade, também deverá ser remetida cópia da Guia de Recolhimento da União (GRU) da
 
 taxa de fiscalização inicial prevista na Lei 7.940 e seu respectivo comprovante de pagamento.
 
 4. Os documentos necessários para obtenção do registro de pessoa natural e de pessoa jurídica são
 
-listados nos Anexos B e C, respectivamente, da reso lução CVM nº 19. A GRU pode ser emitida
+listados nos Anexos B e C, respectivamente, da resolução CVM nº 19. A GRU pode ser emitida
 
 no seguinte link: https://cvmweb.cvm.gov.br/SAR/FormPesqGRU.aspx
 
-5. Conforme o Art. 6º da Resolução CVM nº 19, a con cessão do registro é “ automaticamente
+5. Conforme o Art. 6º da Resolução CVM nº 19, a concessão do registro é “automaticamente
 
-concedida em decorrência do envio de documentos e informações de que trata o art.5º ”. Assim, o
+concedida em decorrência do envio de documentos e informações de que trata o art.5º”. Assim, o
 
-registro é automaticamente concedido após o requere nte fazer a solicitação do seu registro. A
+registro é automaticamente concedido após o requerente fazer a solicitação do seu registro. A
 
-Gerência de Acompanhamento de Investidores Instituc ionais (“GAIN”) da superintendência fará
+Gerência de Acompanhamento de Investidores Institucionais (“GAIN”) da superintendência fará
 
-a conferência posterior para validar se todos os do cumentos listados nos Anexos B ou C foram
+a conferência posterior para validar se todos os documentos listados nos Anexos B ou C foram
 
-enviados e se a taxa de fiscalização inicial foi pa ga. Os credenciamentos realizados em
+enviados e se a taxa de fiscalização inicial foi paga. Os credenciamentos realizados em
 
 desconformidade com a Resolução CVM nº 19 podem ser cancelados de ofício pela GAIN,
 
@@ -116,7 +116,7 @@ a consulta aos consultores registrados, emissão de certidão de regularidade de
 
 solicitação de suspensão do registro e a solicitação de cancelamento do registro.
 
-9. Para esclarecimentos adicionais, solicitamos con tatar a Gerência de Acompanhamento de
+9. Para esclarecimentos adicionais, solicitamos contatar a Gerência de Acompanhamento de
 
 Investidores Institucionais - GAIN, por meio do endereço eletrônico gain@cvm.gov.br.
 

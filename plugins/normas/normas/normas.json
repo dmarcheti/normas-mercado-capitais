@@ -2251,6 +2251,15 @@
     "caminho": "cvm/oficios-circulares/sep/oc-sep-0625.md"
   },
   {
+    "id": "cvm-oc-sep-0626",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SEP 06/26",
+    "ementa": "Novo quadro 6.1/2 (Controle e grupo econômico - Posição acionária) do Formulário de Referência (FRE).",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sep/oc-sep-0626.md"
+  },
+  {
     "id": "cvm-oc-sep-0722",
     "tipo": "oficio-circular",
     "titulo": "Ofício Circular CVM/SEP 07/22",
@@ -2800,6 +2809,15 @@
     "caminho": "cvm/oficios-circulares/smi/oc-smi-0126.md"
   },
   {
+    "id": "cvm-oc-smi-0223",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício-Circular nº 2/2023/CVM/SMI",
+    "ementa": "Divulga às entidades administradoras de mercados organizados a lista de ações e ativos representativos de ações passivos de negociação em mercado de Grandes Lotes e respectivos lotes mínimos.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/smi/oc-smi-0223.md"
+  },
+  {
     "id": "cvm-oc-smi-0224",
     "tipo": "oficio-circular",
     "titulo": "Ofício-Circular nº 2/2024/CVM/SMI",
@@ -2926,6 +2944,15 @@
     "caminho": "cvm/oficios-circulares/snc-sep/oc-snc-sep-0126.md"
   },
   {
+    "id": "cvm-oc-conjunto-snc-sse-sin-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular Conjunto CVM/SNC/SSE/SIN 02/25",
+    "ementa": "Ressalvas e Abstenções de Opinião em Relatórios de Auditoria de Fundos de Investimento.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-conjunto-snc-sse-sin-0225.md"
+  },
+  {
     "id": "cvm-oc-sse-snc-0124",
     "tipo": "oficio-circular",
     "titulo": "Ofício Circular CVM/SSE/SNC 01/24",
@@ -2951,6 +2978,15 @@
     "situacao": "nao-informada",
     "vigente_ate_ato": "",
     "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0224.md"
+  },
+  {
+    "id": "cvm-oc-sse-snc-0225",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE/SNC 02/25",
+    "ementa": "Complemento ao Ofício-Circular nº 1/2025/CVM/SSE/SNC - distribuição de rendimentos em FIAGRO.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0225.md"
   },
   {
     "id": "cvm-oc-sse-snc-0324",
@@ -3349,6 +3385,15 @@
     "caminho": "cvm/oficios-circulares/sse1/oc-sse-0225.md"
   },
   {
+    "id": "cvm-oc-sse-0226",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 02/26",
+    "ementa": "Esclarecimento sobre o preenchimento de CRIs no informe trimestral de FII",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0226.md"
+  },
+  {
     "id": "cvm-oc-sse-0323",
     "tipo": "oficio-circular",
     "titulo": "Ofício Circular CVM/SSE 03/23",
@@ -3376,6 +3421,15 @@
     "caminho": "cvm/oficios-circulares/sse1/oc-sse-0325.md"
   },
   {
+    "id": "cvm-oc-sse-0326",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 03/26",
+    "ementa": "Impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0326.md"
+  },
+  {
     "id": "cvm-oc-sse-0423",
     "tipo": "oficio-circular",
     "titulo": "Ofício Circular CVM/SSE 04/23",
@@ -3392,6 +3446,15 @@
     "situacao": "nao-informada",
     "vigente_ate_ato": "",
     "caminho": "cvm/oficios-circulares/sse1/oc-sse-0424.md"
+  },
+  {
+    "id": "cvm-oc-sse-0425",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 04/25",
+    "ementa": "Orientações Gerais às Plataformas sobre o cumprimento de dispositivos da Resolução CVM nº 88.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0425.md"
   },
   {
     "id": "cvm-oc-sse-0523",
@@ -3419,6 +3482,15 @@
     "situacao": "nao-informada",
     "vigente_ate_ato": "",
     "caminho": "cvm/oficios-circulares/sse1/oc-sse-0624.md"
+  },
+  {
+    "id": "cvm-oc-sse-0625",
+    "tipo": "oficio-circular",
+    "titulo": "Ofício Circular CVM/SSE 06/25",
+    "ementa": "Contratação de Agente Fiduciário nas ofertas de títulos de securitização via Crowdfunding.",
+    "situacao": "nao-informada",
+    "vigente_ate_ato": "",
+    "caminho": "cvm/oficios-circulares/sse1/oc-sse-0625.md"
   },
   {
     "id": "cvm-oc-sse-0723",

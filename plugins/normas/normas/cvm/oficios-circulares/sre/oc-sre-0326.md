@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0326.pdf
 sha256_fonte: a8e22592f4541ebd98fb3a6cafd4cd6bdff16a891b50974e5511945b2a42699e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+26/03/2026, 17:22 SEI/CVM - 2632939 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -34,11 +36,11 @@ Ofício-Circular nº 3/2026/CVM/SRE
 
 Rio de Janeiro, 26 de março de 2026.
 
-Assunto: Orientações complementares sobre o preenchimento de requerimentos de registro de
+Assunto: 14.801/24).
+
+Orientações complementares sobre o preenchimento de requerimentos de registro de
 
 ofertas públicas de distribuição de valores mobiliários com benefícios fiscais (Lei nº 12.431/11 e Lei nº
-
-14.801/24).
 
 Senhor Diretor,
 
@@ -90,11 +92,31 @@ empreendimento (exemplos: torres de telecomunicações, rodovias, trilhos etc.),
 
 líder a informar o par de coordenadas associado ao ponto que considerar mais representativo do projeto.
 
-26/03/2026, 17:22 SEI/CVM - 2632939 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 1/3
+trabalhar&acao
 
-7. Em caso de dúvidas e para fins de padronização, pode-se utilizar como referência o ponto
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 1/3
+
+26/03/2026, 17:22 7. SEI/CVM - 2632939 - Ofício-Circular
+
+Em caso de dúvidas e para fins de padronização, pode-se utilizar como referência o ponto
 
 de início do empreendimento.
 
@@ -184,11 +206,31 @@ c) Tipo de benefício fiscal [esse campo só está disponível em caso de respos
 
 campo 'a)' acima; a única opção disponível é "Lei 11.478/07"]
 
-IV. Disposições Finais
+IV . Disposições Finais
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
+
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 2/3
 
 26/03/2026, 17:22 SEI/CVM - 2632939 - Ofício-Circular
-
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 2/3
 
 15. Alertamos sobre a importância da completude e do correto preenchimento das
 
@@ -208,7 +250,7 @@ emissores.
 
 16. Este Ofício-Circular complementa o Ofício-Circular nº 1/2026/CVM/SRE de 26/02/2026.
 
-V. Contato de suporte
+V . Contato de suporte
 
 17. Reiteramos a orientação para que consultas referentes ao SRE - Sistema de Registro de
 
@@ -230,16 +272,42 @@ Superintendente de Registro, em 26/03/2026, às 16:34, com fundamento no art. 6�
 
 nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2632939 e o código CRC B1F6521C.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2632939 and the "Código CRC" B1F6521C.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº Ofícios-Circulares SRE 2026 Documento SEI nº 2632939
 
-26/03/2026, 17:22 SEI/CVM - 2632939 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 3/3
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 3/3

@@ -15,16 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0823.pdf
 sha256_fonte: 08863b17949b9f2d3350180ef34a36b2760eea47038837e56c8db8b8673af28d
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
 27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 1/6
-
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -64,7 +62,7 @@ custodiante.
 
 ## Art. 2º
 
-....
+.....
 
 XX – registro de direitos creditórios: serviço de registro prestado sob o amparo da
 
@@ -86,9 +84,33 @@ ao gestor ou da consultoria especializada;
 
 II – custódia, alcançando os serviços previstos na Seção IV deste Capítulo VIII;
 
-27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 2/6
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+_
+
+_
+
+_
+
+si... 1/6
+
+27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
 
 III – custódia de valores mobiliários, se for o caso;
 
@@ -116,7 +138,9 @@ No âmbito das diligências relacionadas à aquisição de direitos creditórios
 
 gestor deve verificar a existência, integridade e titularidade do lastro dos direitos e
 
-títulos representativos de crédito referidos na alínea “a” do inciso XII do art. 2º.
+títulos representativos de crédito referidos na alínea “a” do inciso XII do art. 2º
+
+.
 
 § 1º A verificação prevista no caput pode ser efetuada de forma individualizada ou por
 
@@ -182,9 +206,33 @@ III – realizar a guarda da documentação relativa ao lastro dos direitos cred
 
 I - DIREITOS CREDITÓRIOS PASSÍVEIS DE REGISTRO
 
-27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 3/6
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+_
+
+_
+
+_
+
+si... 2/6
+
+27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
 
 3. Conforme disposto no art. 37 do AN-II da RCVM 175, esta SSE entende que o
 
@@ -226,19 +274,27 @@ daquela Resolução.
 
 7. O art. 2º da Resolução CMN 4.593 dispõe o seguinte:
 
-"Art. 2º Para fins do disposto nesta Resolução, consideram-se ativos financeiros:
+"Art. 2º
+
+Para fins do disposto nesta Resolução, consideram-se ativos financeiros:
 
 I - os títulos de crédito, direitos creditórios e outros instrumentos financeiros que sejam:
 
-a) de obrigação de pagamento das instituições mencionadas no art. 1º, incluindo
+a) de obrigação de pagamento das instituições mencionadas no art. 1º
+
+, incluindo
 
 contratos de depósitos a prazo;
 
-b) de coobrigação de pagamento das instituições mencionadas no art. 1º, em operações
+b) de coobrigação de pagamento das instituições mencionadas no art. 1º
+
+, em operações
 
 como aceite e garantia;
 
-c) admitidos nas carteiras de ativos das instituições mencionadas no art. 1º, exceto os
+c) admitidos nas carteiras de ativos das instituições mencionadas no art. 1º
+
+, exceto os
 
 objeto de desconto;
 
@@ -268,7 +324,9 @@ b) que, no âmbito de um arranjo de pagamento, sejam de obrigação de pagamento
 
 instituição de pagamento aos seus clientes.
 
-§ 1º Os ativos financeiros de que trata o caput podem ser originários de operações
+§ 1º
+
+Os ativos financeiros de que trata o caput podem ser originários de operações
 
 realizadas nos segmentos financeiro, comercial, industrial, imobiliário, de hipotecas, de
 
@@ -278,13 +336,41 @@ direitos creditórios de existência futura e montante desconhecido, desde que d
 
 de relações já constituídas.
 
-§ 2º Excluem-se da definição de ativos financeiros de que trata o caput os valores
+§ 2º
 
-mobiliários."
+Excluem-se da definição de ativos financeiros de que trata o caput os valores
+
+mobiliários.
+
+"
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+si... 3/6
+
+_
+
+_
+
+_
 
 27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
-
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 4/6
 
 8. Considera-se que a RCVM 175, propositalmente, não elencou as diferentes
 
@@ -322,9 +408,13 @@ de pagamento quando da cessão".
 
 4.593:
 
-"Art. 5º As informações referentes ao registro ou ao depósito centralizado de que
+"Art. 5º
 
-tratam os arts. 3º, 4º e 12 devem contemplar as características dos ativos financeiros e
+As informações referentes ao registro ou ao depósito centralizado de que
+
+tratam os arts. 3º
+
+, 4º e 12 devem contemplar as características dos ativos financeiros e
 
 dos valores mobiliários e, quando aplicável:
 
@@ -376,9 +466,33 @@ conciliação das posições entre as partes, identificação de problemas com o
 
 pagamentos, rentabilidade ou mesmo questões envolvendo a existência.
 
-27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 5/6
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+_
+
+_
+
+_
+
+si... 4/6
+
+27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
 
 18. Os administradores devem adotar procedimentos de conciliação de modo a
 
@@ -472,9 +586,33 @@ figure como o custodiante dos direitos creditórios previsto no art. 30, II, e n
 
 da RCVM 175.
 
-27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://super.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=1984616&infra_si… 6/6
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+_
+
+_
+
+_
+
+si... 5/6
+
+27/09/23, 07:48 SEI/CVM - 1881465 - Ofício-Circular
 
 29. Nesse exemplo, a instituição contratada atuaria como um prestador de serviços
 
@@ -512,14 +650,48 @@ do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1881465
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1881465
 
 e o código CRC EA04B6EB.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 1881465 and
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 1881465 and
 
 the "Código CRC" EA04B6EB.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1881465
+
+https://super.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=1984616&infra
+
+_
+
+_
+
+_
+
+si... 6/6

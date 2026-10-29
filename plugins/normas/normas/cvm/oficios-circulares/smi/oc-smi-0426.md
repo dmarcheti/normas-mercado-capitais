@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/smi/anexos/oc-smi-0426.pdf
 sha256_fonte: d8e585159125d7069f808bd3b572978f38c44609187c09688ee2ab719073cdff
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -54,11 +54,7 @@ supervisionados pela SMI.
 
 Prezados Senhores,
 
-1
-
-.
-
-Em complemento ao Ofício-Circular nº 1/2026/CVM/SMI, de 20 de janeiro de 2026, a
+1. Em complemento ao Ofício-Circular nº 1/2026/CVM/SMI, de 20 de janeiro de 2026, a
 
 Superintendência de Relações com o Mercado e Intermediários – SMI informa que, em 23 de outubro de
 
@@ -78,127 +74,83 @@ d) depositários centrais de valores mobiliários, regidos pela Resolução CVM 
 
 e) corretoras de mercadorias, regidas pela Resolução CVM 36.
 
-2
-
-.
+2. para:
 
 A partir desta data, esses participantes devem usar o novo sistema para informar à CVM as
 
 alterações de seus dados cadastrais exigidos pela Resolução CVM 234. O sistema também deve ser usado
 
-para:
-
 atualizar anualmente o valor do patrimônio líquido, que serve de base para o cálculo das taxas
 
 previstas na Lei nº 7.940/1989;
 
-enviar a Declaração Eletrônica de Conformidade – DEC (art. 2º, II, da Resolução CVM 234); e
+enviar a Declaração Eletrônica de Conformidade – DEC (art. 2º
+
+, II, da Resolução CVM 234); e
 
 solicitar o cancelamento de autorização.
 
-3
-
-.
-
-O acesso continua sendo feito pelo sistema CVMWeb (sistemas.cvm.gov.br), com login
+3. O acesso continua sendo feito pelo sistema CVMWeb (sistemas.cvm.gov.br), com login
 
 pela conta Gov.br. Depois de acessar o CVMWeb, o usuário deve selecionar a opção “Atualização
 
-cadastral de participantes” e, em seguida, o “Sistema de Gestão de Intermediários”. Na opção “Gestão de
+cadastral de participantes” e, em seguida, o “Sistema de Gestão de Intermediários”
 
-Participantes”, o usuário encontra as funções de solicitação de registro, atualização cadastral, atualização
+. Na opção “Gestão de
+
+Participantes”
+
+, o usuário encontra as funções de solicitação de registro, atualização cadastral, atualização
 
 do patrimônio líquido, envio da DEC e solicitação de cancelamento.
 
-4
-
-.
-
-O usuário com acesso máster ao sistema é o diretor responsável pela norma que rege a
+4. O usuário com acesso máster ao sistema é o diretor responsável pela norma que rege a
 
 atividade da instituição. Esse diretor pode delegar a funcionários da instituição a permissão para fazer
 
-atualizações cadastrais.
+atualizações cadastrais. Importante frisar que, com a alteração do sistema, as delegações feitas no
 
-Importante frisar que, com a alteração do sistema, as delegações feitas no
+sistema anterior precisam ser refeitas.
 
-sistema anterior precisam ser refeitas
-
-.
-
-5
-
-.
-
-A SMI publicou na página da CVM uma versão atualizada do manual de orientação sobre o
+5. A SMI publicou na página da CVM uma versão atualizada do manual de orientação sobre o
 
 sistema (“Guia para solicitação de autorização e atualização cadastral de intermediários e demais
 
-instituições supervisionadas pela SMI”), disponível em
-
-https://www.gov.br/cvm/pt-
+instituições supervisionadas pela SMI”), disponível em https://www.gov.br/cvm/pt-
 
 Ofício-Circular 5 (2870648) SEI 19957.017047/2026-89 / pg. 1
 
-br/assuntos/regulados/consultas-por-participante/corretoras-e-distribuidoras
-
-. Recomendamos a leitura do
+br/assuntos/regulados/consultas-por-participante/corretoras-e-distribuidoras. Recomendamos a leitura do
 
 manual.
 
-6
+6. Os pedidos de autorização para o exercício das atividades mencionadas no item 1 também
 
-.
+devem ser feitos pelo novo sistema, por meio da opção “Solicitar registro”
 
-Os pedidos de autorização para o exercício das atividades mencionadas no item 1 também
-
-devem ser feitos pelo novo sistema, por meio da opção “Solicitar registro”. O pedido deve incluir a
+. O pedido deve incluir a
 
 documentação exigida pela norma aplicável a cada atividade.
 
-7
-
-.
-
-Dúvidas sobre o assunto aqui tratado devem ser encaminhadas às seguintes áreas:
+7. Dúvidas sobre o assunto aqui tratado devem ser encaminhadas às seguintes áreas:
 
 atualizações cadastrais, patrimônio líquido e envio da DEC de qualquer dos participantes acima:
 
-Gerência de Supervisão de Intermediários 2 – GSUI-2 (
-
-gsui-2@cvm.gov.br
-
-);
+Gerência de Supervisão de Intermediários 2 – GSUI-2 (gsui-2@cvm.gov.br);
 
 pedidos de autorização ou de cancelamento de intermediários, custodiantes, escrituradores e
 
-corretoras de mercadorias: Divisão de Supervisão de Intermediários – DSUI (
-
-dsui@cvm.gov.br
-
-);
+corretoras de mercadorias: Divisão de Supervisão de Intermediários – DSUI (dsui@cvm.gov.br);
 
 pedidos de autorização ou de cancelamento de administradores de mercado organizado e depositários
 
-centrais: Gerência de Infraestruturas e Mercados Organizados – GIMOR (
-
-gimor@cvm.gov.br
-
-);
+centrais: Gerência de Infraestruturas e Mercados Organizados – GIMOR (gimor@cvm.gov.br);
 
 dificuldades de acesso ao CVMWeb ou na delegação de tarefas: suporte de sistemas da CVM, cujos
 
-contatos estão em
+contatos estão em http://www.cvm.gov.br/menu/atendimento/sistemas.html.
 
-http://www.cvm.gov.br/menu/atendimento/sistemas.html
-
-.
-
-8
-
-.
-
-Por fim, cabe informar que as atualizações cadastrais de assessores de investimentos
+8. Por fim, cabe informar que as atualizações cadastrais de assessores de investimentos
 
 continuam a ser feitas, na forma prevista nas Resoluções CVM 178 e 234 junto à Ancord, entidade
 
@@ -206,54 +158,26 @@ redenciadora autorizada pela CVM.
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
-
-Egmon Henrique de Oliveira Costa
-
-,
-
-Superintendente
-
-,
+Documento assinado eletronicamente por Egmon Henrique de Oliveira Costa, Superintendente,
 
 em 27/10/2026, às 03:36, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
 
-https://sei.cvm.gov.br/conferir_autenticidade
+_
 
-,
+informando o código verificador 2870648 e o código CRC 596478F8.
 
-informando o código verificador
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
 
-2870648
+_
 
-e o código CRC
+typing the "Código Verificador" 2870648 and the "Código CRC" 596478F8.
 
-596478F8
+autenticidade,
 
-.
+autenticidade, and
 
-This document's authenticity can be verified by accessing
-
-https://sei.cvm.gov.br/conferir_autenticidade
-
-, and
-
-typing the "Código Verificador"
-
-2870648
-
-and the "Código CRC"
-
-596478F8
-
-.
-
-Referência:
-
-Processo nº 19957.017047/2026-89
-
-Documento SEI nº 2870648
+Referência: Processo nº 19957.017047/2026-89 Documento SEI nº 2870648
 
 Ofício-Circular 5 (2870648) SEI 19957.017047/2026-89 / pg. 2

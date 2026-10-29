@@ -15,12 +15,10 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-anual-2026-sre.pdf
 sha256_fonte: 5f612bddb737ecf1aaf74dadd93d0afd1b6610f9378d4dbbd86bd76d633f092a
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
-
-1
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
@@ -40,7 +38,7 @@ os intermediários/coordenadores de ofertas públicas quanto à forma de melhor 
 
 regulam as ofertas públicas de valores mobiliários.
 
-2. Entre 2022 e 2025 não houve divulgação do Ofício -Circular anual tendo em vista a
+2. Entre 2022 e 2025 não houve divulgação do Ofício-Circular anual tendo em vista a
 
 profunda revisão do arcabouço normativo de ofertas públicas, com a edição das Resoluções CVM nº
 
@@ -56,7 +54,7 @@ variadas acerca dos novos normativos vigentes.
 
 de valores mobiliários, o Ofício-Circular anual da SRE também sofreu profundas alterações, de modo
 
-que nesta primeira edição já na vigência das novas Resoluções, as nova s orientações e alterações
+que nesta primeira edição já na vigência das novas Resoluções, as novas orientações e alterações
 
 promovidas não foram ressaltadas em amarelo, como nos anos anteriores.
 
@@ -80,11 +78,11 @@ maneira eficiente e ágil, em prol da proteção dos investidores e da integrida
 
 6. Este expediente consolida os Ofícios-Circulares anteriormente emitidos pela SRE, com
 
-exceção dos Ofícios -Circulares referentes especificamente (i) ao requerimento de registro de
+exceção dos Ofícios-Circulares referentes especificamente (i) ao requerimento de registro de
 
-2
+1
 
-coordenadores de ofertas públicas 1 e (ii) ao Sistema SRE de registro de ofertas públicas 2, qu e
+coordenadores de ofertas públicas1 e (ii) ao Sistema SRE de registro de ofertas públicas2 , que
 
 continuam válidos, não dispensando, entretanto, a leitura das normas aplicáveis, devendo também ser
 
@@ -110,29 +108,29 @@ LUIS MIGUEL R. SONO
 
 Superintendente de Registro de Valores Mobiliários
 
-1 O seguinte Ofício -Circular trata do requerimento de registro de coordenadores de ofertas públicas: Ofício-Circular nº
+1 O seguinte Ofício-Circular trata do requerimento de registro de coordenadores de ofertas públicas: Ofício-Circular nº
 
 5/2026/CVM/SRE.
 
 2 Os seguintes Ofícios-Circulares tratam do Sistema SRE de registro de ofertas públicas de distribuição: Ofício-Circular nº
 
-3/2022-CVM/SRE; Ofício-Circular nº 1/2023 -CVM/SRE; Ofício-Circular nº 2/2023 -CVM/SRE; Ofício-Circular nº
+3/2022-CVM/SRE; Ofício-Circular nº 1/2023-CVM/SRE; Ofício-Circular nº 2/2023-CVM/SRE; Ofício-Circular nº
 
-3/2023/CVM/SRE; Ofício-Circular nº 7/2023/CVM/SRE; Ofício-Circular nº 8/2023/CVM/SRE; Ofício -Circular nº
+3/2023/CVM/SRE; Ofício-Circular nº 7/2023/CVM/SRE; Ofício-Circular nº 8/2023/CVM/SRE; Ofício-Circular nº
 
-9/2023/CVM/SRE; Ofício-Circular nº 1/2024/CVM/SRE ; Ofício-Circular nº 2/2024/CVM/SRE; Ofício-Circular nº
+9/2023/CVM/SRE; Ofício-Circular nº 1/2024/CVM/SRE; Ofício-Circular nº 2/2024/CVM/SRE; Ofício-Circular nº
 
 1/2025/CVM/SRE; Ofício-Circular nº 2/2025/CVM/SRE; Ofício-Circular nº 4/2025/CVM/SRE; Ofício-Circular nº
 
-5/2025/CVM/SRE, Ofício-Circular nº 1/2026/CVM/SRE , Ofício-Circular nº 2/2026/CVM/SRE , Ofício-Circular nº
+5/2025/CVM/SRE, Ofício-Circular nº 1/2026/CVM/SRE, Ofício-Circular nº 2/2026/CVM/SRE, Ofício-Circular nº
 
-3/2026/CVM/SRE e Ofício-Circular nº 4/2026/CVM/SRE , além de eventuais Ofícios -Circulares que tratem do Sistema
+3/2026/CVM/SRE e Ofício-Circular nº 4/2026/CVM/SRE, além de eventuais Ofícios-Circulares que tratem do Sistema
 
 SRE e tenham sido divulgados posteriormente.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+2
 
-3
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 SUMÁRIO
 
@@ -140,235 +138,235 @@ Sumário .......................................................................
 
 1. A SUPERINTENDÊNCIA DE REGISTRO DE VALORES MOBILIÁRIOS ............... 7
 
-1.1. Comunicação com a SRE ................................ ................................ ................................ ................ 7
+1.1. Comunicação com a SRE ................................................................................................................ 7
 
-1.2. Contagem de prazos – rito ordinário ................................ ................................ ............................. 9
+1.2. Contagem de prazos – rito ordinário ............................................................................................. 9
 
-1.3. Consultas de regulados ................................ ................................ ................................ .................. 10
+1.3. Consultas de regulados .................................................................................................................. 10
 
-1.4. Solicitações de audiências a particulares ................................ ................................ ..................... 10
+1.4. Solicitações de audiências a particulares ..................................................................................... 10
 
-1.5. Pedidos de vista e cópia de processos administrativos ................................ ................................ 11
+1.5. Pedidos de vista e cópia de processos administrativos ................................................................ 11
 
-1.6. Pedido de acesso à informação ................................ ................................ ................................ ...... 12
+1.6. Pedido de acesso à informação ...................................................................................................... 12
 
-1.7. Tratamento sigiloso ................................ ................................ ................................ ....................... 13
+1.7. Tratamento sigiloso ....................................................................................................................... 13
 
-1.8. Recursos contra decisões ou manifestações de entendimento da SRE ................................ ....... 14
+1.8. Recursos contra decisões ou manifestações de entendimento da SRE ....................................... 14
 
-1.9. Denúncia Anônima ................................ ................................ ................................ ........................ 15
+1.9. Denúncia Anônima ........................................................................................................................ 15
 
-1.10. Assinatura Digital ................................ ................................ ................................ .......................... 15
+1.10. Assinatura Digital .......................................................................................................................... 15
 
 2. OFERTAS PÚBLICAS DE DISTRIBUIÇÃO ................................................................. 15
 
-2.1. Ritos e procedimentos gerais................................ ................................ ................................ ......... 15
+2.1. Ritos e procedimentos gerais......................................................................................................... 15
 
-2.1.1. Marcos temporais das ofertas públicas ................................ ................................ ............................ 15
+2.1.1. Marcos temporais das ofertas públicas ............................................................................................ 15
 
-2.1.2. Taxas de Fiscalização de registro de ofertas públicas ................................ ................................ ...... 16
+2.1.2. Taxas de Fiscalização de registro de ofertas públicas ...................................................................... 16
 
-2.1.3. Dever de verificação do perfil do investidor ................................ ................................ .................... 19
+2.1.3. Dever de verificação do perfil do investidor .................................................................................... 19
 
-2.1.4. Fim do período de vedação ao registro de ofertas públicas de distribuição................................ ...... 20
+2.1.4. Fim do período de vedação ao registro de ofertas públicas de distribuição...................................... 20
 
-2.1.5. Período de silêncio................................ ................................ ................................ ........................... 20
+2.1.5. Período de silêncio........................................................................................................................... 20
 
-2.1.6. Dever de Adequação do perfil do investidor ................................ ................................ .................... 22
+2.1.6. Dever de Adequação do perfil do investidor .................................................................................... 22
 
-2.1.7. Contrato de distribuição ................................ ................................ ................................ ................... 22
+2.1.7. Contrato de distribuição ................................................................................................................... 22
 
 2.1.8. Alocação conduzida pela entidade administradora de mercado organizado (art. 59) ....................... 23
 
-2.1.9. Condições precedentes para a realização da Oferta ................................ ................................ ......... 24
+2.1.9. Condições precedentes para a realização da Oferta ......................................................................... 24
 
-2.1.10. Ofertas não sujeitas à regulamentação de ofertas públicas - “Safe harbor” ................................ ...... 24
+2.1.10. Ofertas não sujeitas à regulamentação de ofertas públicas - “Safe harbor” ...................................... 24
 
-2.1.11. Plano de distribuição ................................ ................................ ................................ ....................... 25
+2.1.11. Plano de distribuição ....................................................................................................................... 25
 
-2.1.12. Registro em cartório de atos dos Fundos de Investimento ................................ ............................... 25
+2.1.12. Registro em cartório de atos dos Fundos de Investimento ............................................................... 25
 
-2.1.13. Divulgação de atos deliberativos e escrituras de debêntures ................................ ............................ 26
+2.1.13. Divulgação de atos deliberativos e escrituras de debêntures ............................................................ 26
 
-2.2. Boas práticas na condução do processo de rito de registro ordinário ................................ ........ 27
+2.2. Boas práticas na condução do processo de rito de registro ordinário ........................................ 27
 
-2.2.1. Atos Deliberativos ................................ ................................ ................................ ........................... 27
+2.2.1. Atos Deliberativos ........................................................................................................................... 27
 
-2.2.2. Alterações voluntárias ................................ ................................ ................................ ..................... 27
+2.2.2. Alterações voluntárias ..................................................................................................................... 27
 
-2.2.3. Uso de redações alternativas ................................ ................................ ................................ ............ 27
+2.2.3. Uso de redações alternativas ............................................................................................................ 27
 
-2.2.4. Nomeação dos arquivos apresentados ................................ ................................ .............................. 27
+2.2.4. Nomeação dos arquivos apresentados .............................................................................................. 27
 
-2.2.5. Petição ou carta de encaminhamento ................................ ................................ ............................... 28
+2.2.5. Petição ou carta de encaminhamento ............................................................................................... 28
 
-2.2.6. Apresentação de documentos nos pedidos de registro ................................ ................................ ..... 28
+2.2.6. Apresentação de documentos nos pedidos de registro ..................................................................... 28
+
+3
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-4
+2.3. Rito de registro automático de distribuição ................................................................................. 28
 
-2.3. Rito de registro automático de distribuição ................................ ................................ ................. 28
+2.3.1. Revogação de ofertas em rito automático ........................................................................................ 30
 
-2.3.1. Revogação de ofertas em rito automático ................................ ................................ ........................ 30
+2.3.2. Ofertas com Reabertura de Série ..................................................................................................... 31
 
-2.3.2. Ofertas com Reabertura de Série ................................ ................................ ................................ ..... 31
-
-2.3.3. Regras de restrição à negociação ................................ ................................ ................................ ..... 33
+2.3.3. Regras de restrição à negociação ..................................................................................................... 33
 
 2.3.4. Observância à regulamentação específica na negociação dos valores mobiliários ofertados ........... 33
 
 2.3.5. Restrições à negociação de valores mobiliários ofertados por emissores não registrados ................ 34
 
-2.3.6. Análise prévia por Entidade Autorreguladora e rito automático de registro ................................ ..... 34
+2.3.6. Análise prévia por Entidade Autorreguladora e rito automático de registro ..................................... 34
 
-2.4. Pleitos de registro de ofertas públicas de distribuição sob reserva ................................ ............ 35
+2.4. Pleitos de registro de ofertas públicas de distribuição sob reserva ............................................ 35
 
-2.5. Dispensas de registro e de requisitos de registro das ofertas públicas ................................ ....... 36
+2.5. Dispensas de registro e de requisitos de registro das ofertas públicas ....................................... 36
 
-2.6. Dinâmica relacionada à modificação de ofertas ................................ ................................ .......... 37
+2.6. Dinâmica relacionada à modificação de ofertas .......................................................................... 37
 
-2.7. Suspensão de ofertas públicas de distribuição de valores mobiliários ................................ ....... 40
+2.7. Suspensão de ofertas públicas de distribuição de valores mobiliários ....................................... 40
 
 2.8. Orientações para elaboração do prospecto e demais documentos da oferta ............................. 41
 
-2.8.1. Regras sobre a elaboração e divulgação das informações ................................ ................................ 41
+2.8.1. Regras sobre a elaboração e divulgação das informações ................................................................ 41
 
-2.8.2. Disponibilização e envio do prospecto e anúncios à CVM ................................ .............................. 42
+2.8.2. Disponibilização e envio do prospecto e anúncios à CVM .............................................................. 42
 
-2.8.3. Prospecto Preliminar e Prospecto Definitivo ................................ ................................ ................... 43
+2.8.3. Prospecto Preliminar e Prospecto Definitivo ................................................................................... 43
 
-2.8.4. Identificação das pessoas responsáveis pelo conteúdo do Prospecto ................................ ............... 44
+2.8.4. Identificação das pessoas responsáveis pelo conteúdo do Prospecto ............................................... 44
 
-2.8.5. Informações não aplicáveis ................................ ................................ ................................ .............. 44
+2.8.5. Informações não aplicáveis .............................................................................................................. 44
 
-2.8.6. Orientações para o preenchimento do Prospecto ................................ ................................ ............. 44
+2.8.6. Orientações para o preenchimento do Prospecto ............................................................................. 44
 
-2.8.6.1. Capa ................................ ................................ ................................ ................................ ................ 44
+2.8.6.1. Capa ................................................................................................................................................ 44
 
-2.8.6.2. Índice ................................ ................................ ................................ ................................ ............... 45
+2.8.6.2. Índice ............................................................................................................................................... 45
 
-2.8.6.3. Principais características da oferta ................................ ................................ ................................ . 45
+2.8.6.3. Principais características da oferta ................................................................................................. 45
 
-2.8.6.4. Destinação de Recursos ................................ ................................ ................................ ................... 46
+2.8.6.4. Destinação de Recursos ................................................................................................................... 46
 
-2.8.6.5. Fatores de risco ................................ ................................ ................................ ............................... 46
+2.8.6.5. Fatores de risco ............................................................................................................................... 46
 
-2.8.6.6. Cronograma ................................ ................................ ................................ ................................ .... 46
+2.8.6.6. Cronograma .................................................................................................................................... 46
 
-2.8.6.7. Composição do Capital social ................................ ................................ ................................ ......... 47
+2.8.6.7. Composição do Capital social ......................................................................................................... 47
 
-2.8.6.8. Relacionamentos e conflito de interesses ................................ ................................ ......................... 48
+2.8.6.8. Relacionamentos e conflito de interesses ......................................................................................... 48
 
-2.8.6.9. Contrato de distribuição de valores mobiliários ................................ ................................ .............. 49
+2.8.6.9. Contrato de distribuição de valores mobiliários .............................................................................. 49
 
-2.8.6.10. Informações estatísticas sobre os direitos creditórios – CR corporativos ................................ ........ 50
+2.8.6.10. Informações estatísticas sobre os direitos creditórios – CR corporativos ........................................ 50
 
-2.8.6.11. Informações sobre devedores ou coobrigados ................................ ................................ ................. 51
+2.8.6.11. Informações sobre devedores ou coobrigados ................................................................................. 51
 
-2.9. Elaboração de material publicitário e publicidade em geral ................................ ...................... 52
+2.9. Elaboração de material publicitário e publicidade em geral ...................................................... 52
 
-2.9.1. Recomendações para a elaboração de material publicitário escrito ................................ .................. 52
+2.9.1. Recomendações para a elaboração de material publicitário escrito .................................................. 52
 
-2.9.2. Para materiais em áudio e vídeo ................................ ................................ ................................ ...... 53
+2.9.2. Para materiais em áudio e vídeo ...................................................................................................... 53
 
-2.9.3. Outras informações importantes ................................ ................................ ................................ ...... 53
+2.9.3. Outras informações importantes ...................................................................................................... 53
 
-2.9.4. Realização de “Roadshow” virtual e “Lives” ................................ ................................ .................. 54
+2.9.4. Realização de “Roadshow” virtual e “Lives” .................................................................................. 54
 
-2.9.5. Publicidade Institucional ................................ ................................ ................................ ................. 55
+2.9.5. Publicidade Institucional ................................................................................................................. 55
+
+4
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-5
-
-2.10. Cotas de fundos de investimento ................................ ................................ ................................ .. 55
+2.10. Cotas de fundos de investimento .................................................................................................. 55
 
 2.10.1. Destinação de recursos de ofertas de cotas de fundos em situação de conflito de interesse ............. 55
 
-2.10.2. Administrador de carteira atuando como distribuidor ................................ ................................ ...... 58
+2.10.2. Administrador de carteira atuando como distribuidor ...................................................................... 58
 
-2.10.3. Direitos de preferência e oferta prioritária em ofertas de Fundos Fechados ................................ ..... 59
+2.10.3. Direitos de preferência e oferta prioritária em ofertas de Fundos Fechados ..................................... 59
 
-2.10.4. Colocação privada de cotas de fundos de investimento ................................ ................................ ... 59
+2.10.4. Colocação privada de cotas de fundos de investimento ................................................................... 59
 
-2.11. Debêntures ................................ ................................ ................................ ................................ ..... 60
+2.11. Debêntures ..................................................................................................................................... 60
 
 2.11.1. Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais ................ 60
 
-2.11.1.1. Informações a serem prestadas nas ofertas ................................ ................................ ..................... 61
+2.11.1.1. Informações a serem prestadas nas ofertas ..................................................................................... 61
 
-2.11.1.2. Informações a serem prestadas nos requerimentos de registro das ofertas ................................ ...... 63
+2.11.1.2. Informações a serem prestadas nos requerimentos de registro das ofertas ...................................... 63
 
-2.11.1.3. Debêntures incentivadas emitidas por emissores não registrados ................................ ................... 64
+2.11.1.3. Debêntures incentivadas emitidas por emissores não registrados ................................................... 64
 
-2.11.2. Sociedades limitadas ................................ ................................ ................................ ........................ 64
+2.11.2. Sociedades limitadas ........................................................................................................................ 64
 
-2.12. Securitização ................................ ................................ ................................ ................................ .. 65
+2.12. Securitização .................................................................................................................................. 65
 
-2.12.1. Informações do devedor em CRIs e CRAs corporativos ................................ ................................ .. 65
+2.12.1. Informações do devedor em CRIs e CRAs corporativos .................................................................. 65
 
-2.12.2. Certificado de Recebíveis com garantia (que não seja coobrigação) ................................ ............... 65
+2.12.2. Certificado de Recebíveis com garantia (que não seja coobrigação) ............................................... 65
 
-2.12.3. Declaração do Coordenador-Líder e da Emissora nas ofertas de CRA ................................ ............ 65
+2.12.3. Declaração do Coordenador-Líder e da Emissora nas ofertas de CRA ............................................ 65
 
-2.12.4. FIC-FIDC ................................ ................................ ................................ ................................ ........ 66
+2.12.4. FIC-FIDC ........................................................................................................................................ 66
 
-2.12.5. CRI e CRA pela destinação ................................ ................................ ................................ ............. 66
+2.12.5. CRI e CRA pela destinação ............................................................................................................. 66
 
-2.12.6. CRAs com lastro pulverizado ................................ ................................ ................................ .......... 71
+2.12.6. CRAs com lastro pulverizado .......................................................................................................... 71
 
-2.12.7. Ato de aprovação das ofertas de Certificados de Recebíveis ................................ ........................... 72
+2.12.7. Ato de aprovação das ofertas de Certificados de Recebíveis ........................................................... 72
 
-2.12.8. Oferta de CRI e CRA para o público investidor em geral ................................ ................................ 72
+2.12.8. Oferta de CRI e CRA para o público investidor em geral ................................................................ 72
 
-2.12.9. Ofertas de CRA lastreados em CDCA ................................ ................................ ............................. 72
+2.12.9. Ofertas de CRA lastreados em CDCA ............................................................................................. 72
 
 2.12.10. Direitos creditórios oriundos de negócios realizados entre distribuidores e terceiros ...................... 72
 
-2.12.11. Diferenças entre séries de classe sênior e reabertura de série ................................ .......................... 73
+2.12.11. Diferenças entre séries de classe sênior e reabertura de série .......................................................... 73
 
-2.12.12. Cronograma da oferta de diferentes séries ou com reabertura de séries ................................ ........... 73
+2.12.12. Cronograma da oferta de diferentes séries ou com reabertura de séries ........................................... 73
 
-2.13. Outros valores mobiliários ................................ ................................ ................................ ............ 75
+2.13. Outros valores mobiliários ............................................................................................................ 75
 
-2.13.1. CA V ................................ ................................ ................................ ................................ ................. 75
+2.13.1. CAV ................................................................................................................................................. 75
 
-2.13.2. Descontinuidade de programa de BDR ................................ ................................ ............................ 75
+2.13.2. Descontinuidade de programa de BDR ............................................................................................ 75
 
 3. OFERTA PÚBLICA DE AQUISIÇÃO – OPA ................................................................ 76
 
-3.1. Cancelamento de registro de emissor – OPA ................................ ................................ ............... 76
+3.1. Cancelamento de registro de emissor – OPA ............................................................................... 76
 
-3.2. Pedido de registro de OPA ................................ ................................ ................................ ............ 77
+3.2. Pedido de registro de OPA ............................................................................................................ 77
 
 3.3. Dispensa de Laudo de Avaliação em OPA por concordância prévia com o preço .................... 78
 
 4. SUPERVISÃO E ENFORCEMENT ................................................................................. 79
 
-4.1. Plano de Supervisão Baseada em Risco – SBR ................................ ................................ ............ 79
+4.1. Plano de Supervisão Baseada em Risco – SBR ............................................................................ 79
 
-4.2. Processos Sancionadores ................................ ................................ ................................ ............... 80
+4.2. Processos Sancionadores ............................................................................................................... 80
 
-4.3. Termo de Compromisso ................................ ................................ ................................ ................ 80
+4.3. Termo de Compromisso ................................................................................................................ 80
+
+5
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-6
-
-4.4. Acordo Administrativo em Processo de Supervisão ................................ ................................ .... 81
+4.4. Acordo Administrativo em Processo de Supervisão .................................................................... 81
 
 5. PARTICIPANTES DO MERCADO DE VALORES MOBILIÁRIOS ......................... 82
 
-5.1. Coordenador de ofertas públicas de valores mobiliários ................................ ............................ 82
+5.1. Coordenador de ofertas públicas de valores mobiliários ............................................................ 82
 
 5.1.1. Procedimentos recomendáveis quanto à emissão e à oferta pública de valores mobiliários ............. 82
 
-5.2. Agente Fiduciário ................................ ................................ ................................ .......................... 84
+5.2. Agente Fiduciário .......................................................................................................................... 84
+
+6
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-7
 
 1. A SUPERINTENDÊNCIA DE REGISTRO DE VALORES MOBILIÁRIOS
 
@@ -424,33 +422,33 @@ distribuição (mercado marginal), ou a coordenadores de ofertas públicas.
 
 Particularmente, a Gerência de Registro 3 (GER-3) é responsável pela supervisão das ofertas públicas
 
-destinadas exclusivamente a investidores profissionais, conduzidas pelo rito automático de registro ,
+destinadas exclusivamente a investidores profissionais, conduzidas pelo rito automático de registro,
 
 exceto caso os valores mobiliários sejam ações, certificados de ações ou BDRs, hipótese
 
-3 A tabela refere -se aos requerimentos de registro de ofertas públicas que sigam o rito ordinário, indicando as gerências
+3 A tabela refere-se aos requerimentos de registro de ofertas públicas que sigam o rito ordinário, indicando as gerências
 
 responsáveis pela análise dos pedidos. Requerimentos que sigam o rito automático não dependem de análise prévia pela
 
 SRE e são automaticamente tratados pelo Sistema SRE.
 
+7
+
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-8
-
-supervisionada pela GER -2. É responsável ainda pela supervisão das ofertas irregulares de CIC s
+supervisionada pela GER-2. É responsável ainda pela supervisão das ofertas irregulares de CICs
 
 genéricos, conduzidas sem o requerimento prévio de registro na CVM (mercado marginal).
 
-Todos os documentos a serem encaminhados à SRE no âmbito de pedidos de registro , em rito
+Todos os documentos a serem encaminhados à SRE no âmbito de pedidos de registro, em rito
 
 ordinário, de ofertas públicas de distribuição ou de OPAs (incluindo, por exemplo, petições,
 
 documentos das ofertas, respostas a ofícios etc.) deverão ser encaminhados pelo SRE – Sistema de
 
-Registro de Ofertas (“Sistema SRE”) , sistema responsável pelos registros de ofertas públicas de
+Registro de Ofertas (“Sistema SRE”), sistema responsável pelos registros de ofertas públicas de
 
-valores mobiliários , conforme orientações prestadas em ofícios -circulares da SRE específicos do
+valores mobiliários, conforme orientações prestadas em ofícios-circulares da SRE específicos do
 
 Sistema SRE.
 
@@ -462,7 +460,7 @@ referenciados. Nos nomes dos arquivos encaminhados em meio eletrônico deve cons
 
 obrigatoriamente o número do anexo que consta na petição e o nome do anexo, não podendo
 
-ultrapassar 40 caracteres ( prospecto, contrato de distribuição , resposta ao Ofício xxx etc.). Os
+ultrapassar 40 caracteres (prospecto, contrato de distribuição, resposta ao Ofício xxx etc.). Os
 
 documentos deverão estar gravados em formato PDF (Portable Document Format) não editável, em
 
@@ -480,17 +478,17 @@ eventuais pedidos de registro enviados pelo Protocolo Digital. Em caso de indisp
 
 Sistema SRE, favor observar as orientações já prestadas no Ofício-Circular nº 2/2026/CVM/SRE.
 
-Adicionalmente, reiteramos as orientações prestadas por meio do OFÍCIO -CIRCULAR
+Adicionalmente, reiteramos as orientações prestadas por meio do OFÍCIO-CIRCULAR
 
 CVM/SEP/SRE 01/18, no que diz respeito aos requerimentos de registro de distribuição pública de
 
-valores mobiliários emitidos por companhias que se encontram em processo de anál ise de registro
+valores mobiliários emitidos por companhias que se encontram em processo de análise de registro
 
 inicial, no sentido de que aqueles requerimentos bem como os documentos que os instruem sejam
 
 também apresentados por meio do Sistema Empresas.NET. Ressaltamos que a apresentação através
 
-do Sistema Empresas.NET não será considerada para fin s do protocolo do pedido de registro de
+do Sistema Empresas.NET não será considerada para fins do protocolo do pedido de registro de
 
 distribuição junto à SRE, não ensejando, portanto, o início da contagem dos prazos de análise.
 
@@ -506,7 +504,7 @@ Em complemento ao disposto no § 3º do art. 38 da Resolução CVM nº160/2022, 
 
 documentos encaminhados no âmbito de requerimentos de registro devem conter marcas de
 
-alterações que se distingam quanto aos seus diferentes motivos: (i) cumprimen to de exigências
+alterações que se distingam quanto aos seus diferentes motivos: (i) cumprimento de exigências
 
 formuladas; e (ii) eventuais alterações voluntárias realizadas. Além disso, frisamos que a carta que
 
@@ -518,9 +516,9 @@ ainda, quadro comparativo constando o texto original e o alterado, assim como o 
 
 modificação.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+8
 
-9
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Consultas, pedidos de vista e pedidos de modificação de oferta após a concessão do registro em rito
 
@@ -532,7 +530,7 @@ Para utilização do protocolo digital da CVM, deve haver a realização de um b
 
 de Serviços, que pode ser acessado por meio do endereço https://www.servicos.gov.br/ . Na página
 
-seguinte, no campo de busca, digite por “ Protocolo CVM”. Após isso, deverá ser preenchido um
+seguinte, no campo de busca, digite por “Protocolo CVM”. Após isso, deverá ser preenchido um
 
 formulário eletrônico, anexados os arquivos e então realizado o seu encaminhamento.
 
@@ -556,17 +554,17 @@ na área à qual se destina.
 
 Os ofícios da SRE, em resposta aos requerimentos e consultas, serão encaminhados ao endereço de
 
-e-mail constante do cadastro na CVM do ente regulado ou a o e-mail especificamente indicado no
+e-mail constante do cadastro na CVM do ente regulado ou ao e-mail especificamente indicado no
 
 requerimento inicial para recebimento de respostas.
 
 1.2. Contagem de prazos – rito ordinário
 
-Na contagem de prazos deve ser observada a regra estabelecida pelo art . 66 da Lei nº 9.784/ 1999,
+Na contagem de prazos deve ser observada a regra estabelecida pelo art. 66 da Lei nº 9.784/1999,
 
-que regula o processo administrativo no âmbito da administração pública federal. Nes te sentido, a
+que regula o processo administrativo no âmbito da administração pública federal. Neste sentido, a
 
-contagem de prazos nos referidos processos dá -se de forma semelhante à estabelecida pelo art . 224,
+contagem de prazos nos referidos processos dá-se de forma semelhante à estabelecida pelo art. 224,
 
 caput e § 1º, da Lei nº 13.105/2015.
 
@@ -574,11 +572,11 @@ Assim sendo, na contagem do prazo deve-se excluir o dia de começo e incluir o d
 
 Na hipótese do dia do começo ou do vencimento ocorrer em dia que não haja expediente na sede da
 
-CVM (Rio de Janeiro ), como finais de semana e feriados nacionais ou municipais, prorroga -se o
+CVM (Rio de Janeiro), como finais de semana e feriados nacionais ou municipais, prorroga-se o
 
 termo para o primeiro dia útil seguinte.
 
-Adicionalmente, conforme determina o art . 23 da Lei nº 9.784/ 1999, os atos do processo devem
+Adicionalmente, conforme determina o art. 23 da Lei nº 9.784/1999, os atos do processo devem
 
 realizar-se em dias úteis, no horário normal de funcionamento da repartição na qual tramitar o
 
@@ -594,13 +592,13 @@ normal, em consonância com o disposto no § 1º do art. 66 da Lei nº 9.784/199
 
 dia no prazo em tramitação.
 
-Os documentos apresentados à SRE (protocolo inicial ou atendimento de exigências/ reiteração de
+Os documentos apresentados à SRE (protocolo inicial ou atendimento de exigências/reiteração de
 
 exigências) serão considerados como protocolados no dia caso sejam enviados pelo Sistema SRE –
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+9
 
-10
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 envio concluído - até às 23h59min, ressaltando que no caso de Ofício-Conjunto SRE/SEP, a data do
 
@@ -614,15 +612,15 @@ de ofertas públicas, referentes à aplicação das normas e regulamentos emitid
 
 entendimento sobre dispositivos das Leis nº 6.385/1976 e nº 6.404/1976 devem ser encaminhadas por
 
-escrito, mediante protocolo, conforme orientado na seção “1.1 Comunicação com a SRE ”, pelos
+escrito, mediante protocolo, conforme orientado na seção “1.1 Comunicação com a SRE”, pelos
 
-participantes ou seu representante devidamente designado (acompanhada s por seus respectivos
+participantes ou seu representante devidamente designado (acompanhadas por seus respectivos
 
 mandatos de representação) à SRE, com a identificação do regulado.
 
-A formulação da consulta deve ser clara quanto ao seu objeto, evitando -se a forma genérica e as
+A formulação da consulta deve ser clara quanto ao seu objeto, evitando-se a forma genérica e as
 
-consultas em tese, orientando -se no sentido de que sejam apresentados todos os elementos e
+consultas em tese, orientando-se no sentido de que sejam apresentados todos os elementos e
 
 argumentos julgados importantes para a manifestação conclusiva da CVM.
 
@@ -634,9 +632,9 @@ No caso de consultas simples, que não demandem um aprofundamento da análise po
 
 recomendamos que seu encaminhamento se dê através do endereço de e-mail específico da gerência
 
-responsável pelo tema objeto da consulta , ger-1@cvm.gov.br, ger-2@cvm.gov.br ou ger -
+responsável pelo tema objeto da consulta, ger-1@cvm.gov.br, ger-2@cvm.gov.br ou ger-
 
-3@cvm.gov.br, conforme detalhamento apresentado na seção “1.1 Comunicação com a SRE ” ou
+3@cvm.gov.br, conforme detalhamento apresentado na seção “1.1 Comunicação com a SRE” ou
 
 do endereço de e-mail da SRE (sre@cvm.gov.br). Eventualmente o regulado poderá ser orientado a
 
@@ -650,7 +648,7 @@ suporte-sistemasre-opa@cvm.gov.br (no caso das ofertas públicas de aquisição 
 
 1.4. Solicitações de audiências a particulares
 
-Os pedidos de agendamento de reuniões com componentes organizacionais da CVM , presenciais ou
+Os pedidos de agendamento de reuniões com componentes organizacionais da CVM, presenciais ou
 
 remotas, devem ser encaminhados por via eletrônica, através da página da CVM na Internet, na área
 
@@ -660,29 +658,29 @@ do endereço: https://sistemas.cvm.gov.br/?Audiencia.
 
 Recomenda-se ao regulado que preencha da forma mais completa e detalhada possível o objeto da
 
-audiência, bem como informe, no campo “ Assunto”, sempre que possível e se for o caso, o número
+audiência, bem como informe, no campo “Assunto”, sempre que possível e se for o caso, o número
 
 do Ofício, Processo ou outro ato da CVM a que se refira o tema da audiência. Nessa solicitação,
 
 deverá constar a especificação clara do assunto a ser tratado.
 
-Caso se trate de audiência acerca de processo que tramita em sigilo ou sob análise reservada ,
+Caso se trate de audiência acerca de processo que tramita em sigilo ou sob análise reservada,
 
 conforme seções “1.7 Tratamento sigiloso” ou “2.4 Pleitos de registro de ofertas públicas de
 
-distribuição sob reserva ” deste Ofício-Circular, o assunto da audiência não deve revelar o tema
+distribuição sob reserva” deste Ofício-Circular, o assunto da audiência não deve revelar o tema
 
 sigiloso ou sob tratamento reservado, devendo, ademais, ser indicado no pedido de audiência que se
 
 trata de assunto com tratamento sigiloso.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+10
 
-11
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 É recomendável, ainda, que o regulado entre em contato com a SRE ou suas respectivas gerências,
 
-por e -mail, antes do agendamento da audiência a particular no sistema, visando verificar a
+por e-mail, antes do agendamento da audiência a particular no sistema, visando verificar a
 
 disponibilidade da agenda.
 
@@ -722,13 +720,13 @@ Pedidos de vista de processos que tramitam nesta Autarquia devem ser encaminhado
 
 apresentação de requerimento assinado, especificando tratar-se de concessão de vista e/ou de cópias,
 
-com a qualificação dos signatários e, no caso de seus representa ntes, acompanhados das respectivas
+com a qualificação dos signatários e, no caso de seus representantes, acompanhados das respectivas
 
 procurações.
 
-Nos termos dos artigos 4º e 5º da Resolução CVM nº 48/2021 , o pedido deverá ser formulado por
+Nos termos dos artigos 4º e 5º da Resolução CVM nº 48/2021, o pedido deverá ser formulado por
 
-escrito e especificar o interesse do requerente na obtenção de acesso aos autos, salvo tratar -se de
+escrito e especificar o interesse do requerente na obtenção de acesso aos autos, salvo tratar-se de
 
 acusado em processo administrativo sancionador, hipótese em que será sempre assegurada a
 
@@ -738,7 +736,7 @@ A concessão dependerá de autorização de servidor titular de cargo efetivo de
 
 integre a Superintendência responsável pela condução do processo administrativo ou do Relator, caso
 
-haja pendência de recurso ou decisão do Colegiado, sendo fac ultada a postergação da concessão de
+haja pendência de recurso ou decisão do Colegiado, sendo facultada a postergação da concessão de
 
 vista no interesse do serviço quando tal providência prejudicar a realização de ato ou a adoção de
 
@@ -758,9 +756,9 @@ Cabe ressaltar que o sigilo do processo poderá ser afastado por decisão do Sup
 
 este considerá-lo desnecessário à elucidação dos fatos e não houver, nos autos, dados ou informações
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+11
 
-12
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 protegidas pelos casos de sigilo assegurados por expressa disposição legal ou para defesa da
 
@@ -792,7 +790,7 @@ Resolução CMN nº 1.657/1989, ou à GCP, após a eventual interposição de re
 
 Nesses processos, caberá ao Relator analisar o sigilo das informações constantes dos autos visando à
 
-concessão de vista solicitada por terceiros, nos termos do art. 48 da Resolução CVM nº 45/2021 ,
+concessão de vista solicitada por terceiros, nos termos do art. 48 da Resolução CVM nº 45/2021,
 
 podendo o Relator restituir o processo à Superintendência de origem para a análise do sigilo de
 
@@ -808,13 +806,13 @@ Segundo o § 1º do art. 5º da Resolução CVM nº 48/2021, sendo a decisão de
 
 pelo Relator, caberá recurso de sua decisão ao Colegiado, o qual, nos termos do art. 2º da Resolução
 
-CVM nº 46/ 2021, deverá ser protocolado no prazo de 15 dias, a contar da data de ciência do
+CVM nº 46/2021, deverá ser protocolado no prazo de 15 dias, a contar da data de ciência do
 
 interessado.
 
 Para os pedidos deferidos, os processos serão disponibilizados no Centro de Consultas – SOI/GOI
 
-desta Autarquia, com a indicação do período de disponibilização através de ofício ou e -mail em
+desta Autarquia, com a indicação do período de disponibilização através de ofício ou e-mail em
 
 resposta à solicitação.
 
@@ -830,15 +828,15 @@ https://www.gov.br/cvm/pt-br/canais_atendimento/pedidos-de-vista-processos
 
 1.6. Pedido de acesso à informação
 
-Tendo em vista a instituição da Lei nº 12.527/2011 (“ Lei de Acesso à Informação” ou “ LAI”),
+Tendo em vista a instituição da Lei nº 12.527/2011 (“Lei de Acesso à Informação” ou “LAI”),
 
 regulamentada pelo Decreto nº 7.724/2012, a CVM editou a Resolução CVM nº 48/2021, que
 
 estabelece os procedimentos do acesso à informação previsto na precitada Lei.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+12
 
-13
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Nos termos do art. 7º da referida Resolução, o pedido de acesso à informação deve ser realizado por
 
@@ -912,13 +910,13 @@ aquisição que sigam o rito ordinário deverão ser encaminhados por meio do Si
 
 o link do documento específico, caso ele já esteja parametrizado, ou a seção de “Documentos
 
-Adicionais”, caso não haja parametrização específica para o documento . A necessidade do sigilo
+Adicionais”, caso não haja parametrização específica para o documento. A necessidade do sigilo
 
 deverá ser destacada no documento “Carta de Encaminhamento”.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+13
 
-14
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Ainda com relação às OPA, cumpre lembrar que as consultas sigilosas devem observar o disposto
 
@@ -928,7 +926,7 @@ Outra previsão de tratamento sigiloso é aquela contida nos termos do art. 31 d
 
 160/2022, segundo a qual o ofertante poderá solicitar à SRE análise reservada dos requerimentos de
 
-registro de ofertas públicas de distribuição , possibilidade descrita na seção “2.4 Pleitos de registro
+registro de ofertas públicas de distribuição, possibilidade descrita na seção “2.4 Pleitos de registro
 
 de ofertas públicas de distribuição sob reserva” deste Ofício-Circular.
 
@@ -936,7 +934,7 @@ O tratamento reservado à análise do requerimento de registro de oferta públic
 
 se aplica às ofertas públicas de distribuição para as quais seja exigida a adoção do rito ordinário de
 
-registro e cessará imediatamente caso o requeriment o de registro de oferta pública de distribuição
+registro e cessará imediatamente caso o requerimento de registro de oferta pública de distribuição
 
 submetida à análise reservada tenha escapado do controle, nos termos do art. 35 da Resolução CVM
 
@@ -950,7 +948,7 @@ decisões das Superintendências da CVM.
 
 Nos termos da referida Resolução, o prazo para recurso ao Colegiado das decisões proferidas pelos
 
-Superintendentes da CVM é de 15 dias úteis , contados da ciência pelo interessado. Em regra,
+Superintendentes da CVM é de 15 dias úteis, contados da ciência pelo interessado. Em regra,
 
 considera-se que a ciência ocorre na data do envio do ofício que comunica a decisão por e-mail. Nas
 
@@ -972,7 +970,7 @@ reparação decorrente da execução da decisão, o Superintendente poderá, de 
 
 efeito suspensivo ao recurso.
 
-Caso haja pedido de efeito suspensivo , que seja indeferido, o Superintendente deverá, de imediato,
+Caso haja pedido de efeito suspensivo, que seja indeferido, o Superintendente deverá, de imediato,
 
 intimar o recorrente e remeter cópia do recurso e da decisão ao Presidente da CVM, a quem caberá o
 
@@ -982,7 +980,7 @@ reexame da decisão denegatória do efeito suspensivo.
 
 de omissão, obscuridade, contradição ou erro material ou de fato na decisão, afastada, portanto, a
 
-hipótese de rediscussão do mérito da decisão. O requerimen to deve ser encaminhado ao membro do
+hipótese de rediscussão do mérito da decisão. O requerimento deve ser encaminhado ao membro do
 
 Colegiado que tiver redigido o voto vencedor no exame do recurso, no prazo de 15 dias úteis.
 
@@ -990,17 +988,17 @@ Com vistas a conferir maior celeridade na divulgação das decisões proferidas 
 
 a divulgação de Informativos do Colegiado, contendo somente as decisões proferidas, e que são
 
-disponibilizados até o dia seguinte da reunião. Tais infor mativos são disponibilizados no website da
+disponibilizados até o dia seguinte da reunião. Tais informativos são disponibilizados no website da
 
-CVM acessando no menu principal “Centrais de Conteúdo ”, “Publicações” e “ Reuniões do
+CVM acessando no menu principal “Centrais de Conteúdo”, “Publicações” e “Reuniões do
 
 Colegiado” ou através do endereço eletrônico:
 
 https://conteudo.cvm.gov.br/publicacao/informativos_colegiado.html
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+14
 
-15
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Lembramos que a comunicação formal da decisão do Colegiado, a ser realizada pela área técnica ao
 
@@ -1032,7 +1030,7 @@ assinatura devem conter assinaturas digitais avançadas, nos termos da alínea �
 
 4º do Decreto nº 10.543/2020, exceto em relação às petições – inicial e subsequentes – para as quais
 
-se admite o uso de assinatura simples, nos termos d a alínea ‘a’ do inciso I d o art. 4º do mesmo
+se admite o uso de assinatura simples, nos termos da alínea ‘a’ do inciso I do art. 4º do mesmo
 
 Decreto. Os documentos celebrados entre particulares, como por exemplo os contratos, exigidos na
 
@@ -1040,7 +1038,7 @@ instrução desses processos podem conter assinaturas simples, desde que aceita 
 
 partes signatárias.
 
-Nos demais processo s, como consultas, recursos e reclamações , admite-se o uso de assinaturas
+Nos demais processos, como consultas, recursos e reclamações, admite-se o uso de assinaturas
 
 simples, nos termos do inciso I do art. 4º do Decreto nº 10.543/2020.
 
@@ -1062,19 +1060,19 @@ houver, abrangendo também o período de distribuição (art. 2º, XIII); e
 
 Período de distribuição: período da oferta no qual ocorre a subscrição ou aquisição dos valores
 
-mobiliários objeto da oferta, iniciando -se após, cumulativamente, a obtenção do registro e a
+mobiliários objeto da oferta, iniciando-se após, cumulativamente, a obtenção do registro e a
 
-divulgação do anúncio de início de distribuição e encerrando -se quando da observância do di sposto
+divulgação do anúncio de início de distribuição e encerrando-se quando da observância do disposto
 
 no inciso IX deste artigo (art. 2º, XV);
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+15
 
-16
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Essas fases são delimitadas por marcos temporais descritos a seguir:
 
-O Aviso ao Mercado , previsto no art. 57 da Resolução CVM nº 160/2022, marca o início da fase
+O Aviso ao Mercado, previsto no art. 57 da Resolução CVM nº 160/2022, marca o início da fase
 
 “oferta a mercado” e é acompanhado da divulgação do Prospecto Preliminar, quando aplicável à
 
@@ -1084,9 +1082,9 @@ O Anúncio de Início, previsto no art. 59 da Resolução CVM nº 160/2022, marc
 
 de distribuição” e é acompanhado da divulgação do Prospecto Definitivo, quando aplicável à oferta;
 
-O Anúncio de Encerramento , previsto no art. 76 da Resolução CVM nº 160/2022, marca o
+O Anúncio de Encerramento, previsto no art. 76 da Resolução CVM nº 160/2022, marca o
 
-encerramento da oferta pública . Cabe destacar que se considera encerrada a oferta pública após a
+encerramento da oferta pública. Cabe destacar que se considera encerrada a oferta pública após a
 
 distribuição de todos os valores mobiliários objeto da oferta, inclusive daqueles constantes do lote
 
@@ -1106,7 +1104,7 @@ mercado”, “período de distribuição” e encerramento da oferta” sejam d
 
 A não disponibilização desses documentos no Sistema SRE nos momentos devidos implica na não
 
-caracterização correta das fases da ofe rta com prejuízos informacionais aos investidores e aos
+caracterização correta das fases da oferta com prejuízos informacionais aos investidores e aos
 
 participantes do mercado de um modo geral, além de ocasionar erros nas rotinas automáticas do
 
@@ -1140,7 +1138,9 @@ requerimentos apartados (ofertas distintas).
 
 Ver também a seção “2.12.12 Cronograma da oferta de diferentes séries ou com reabertura de
 
-séries”.
+séries”
+
+.
 
 2.1.2. Taxas de Fiscalização de registro de ofertas públicas
 
@@ -1148,13 +1148,13 @@ A taxa de fiscalização sobre o registro de ofertas públicas (Anexo IV), funda
 
 7.940/1989, é requisito para a protocolização do pedido de registro, em qualquer dos ritos de registro
 
-que seja seguido na oferta, sendo que a data do requerimen to do registro é a data -base para o fato
+que seja seguido na oferta, sendo que a data do requerimento do registro é a data-base para o fato
 
 gerador do tributo.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+16
 
-17
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 No link https://www.gov.br/cvm/pt-br/assuntos/regulados/taxa-de-fiscalizacao/valores/tabelas-de-
 
@@ -1190,7 +1190,7 @@ individuais dos registros de uma oferta, conforme previsto no inciso II do art. 
 
 O recolhimento de taxa pode ser feito por intermédio de uma única GRU que cubra o valor total da
 
-oferta ( operação), observado o parágrafo seguinte que trata de ofertas primárias e secundárias.
+oferta (operação), observado o parágrafo seguinte que trata de ofertas primárias e secundárias.
 
 Exemplificando, para o caso de uma oferta pública de debêntures cuja emissão seja dividida em séries,
 
@@ -1200,7 +1200,7 @@ cubra o valor total da emissão.
 
 No caso de ofertas primária/secundária, atentar para o fato de que os recolhimentos da taxa de
 
-fiscalização devem ser feitos pelos respectivos contribuintes ( emissor no caso de oferta primária e
+fiscalização devem ser feitos pelos respectivos contribuintes (emissor no caso de oferta primária e
 
 ofertante(s) no caso de oferta secundária) sobre o valor total da operação sob sua responsabilidade,
 
@@ -1224,13 +1224,13 @@ dos encargos pode ser feito com a utilização da Ferramenta de Cálculo dispon�
 
 públicas de distribuição de valores mobiliários ou de aquisição de ações, de acordo com a tabela do
 
-Anexo IV ( alíquota de 0,03% sobre o valor total da oferta/operação ) da Lei nº 7.940/1989. Não
+Anexo IV (alíquota de 0,03% sobre o valor total da oferta/operação) da Lei nº 7.940/1989. Não
 
 existe teto limitador do valor devido em relação ao pagamento da taxa. O valor a ser recolhido será
 
 sempre o valor da operação multiplicado pela alíquota, existindo, contudo, um valor mínimo a ser
 
-recolhido e que equivale a R$ 8 09,16, também de acordo com o Anexo IV ( na prática, operações
+recolhido e que equivale a R$ 809,16, também de acordo com o Anexo IV (na prática, operações
 
 inferiores a R$ 2.697.200,00 devem recolher o valor mínimo de R$ 809,16).
 
@@ -1238,21 +1238,21 @@ Ainda, desistência de ofertas registradas ou colocação parciais inferiores ao
 
 previsto não caracterizam hipótese de devolução ou ressarcimento parcial de taxa de fiscalização,
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+17
 
-18
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 com base em entendimento consolidado da CVM, uma vez que o fato gerador da taxa de fiscalização
 
 é o poder de polícia da CVM, que se inicia a partir do requerimento de registro da oferta pública.
 
-Vale ressaltar que a taxa de fiscalização incide sobre o montante da oferta (“ valor da operação”) e
+Vale ressaltar que a taxa de fiscalização incide sobre o montante da oferta (“valor da operação”) e
 
 não sobre o registro concedido. Nesse sentido, a taxa de fiscalização incide sobre os lotes adicional e
 
 suplementar (se houver), que integram o valor da operação, sempre considerando o montante máximo
 
-para esses lotes, conforme previsto na documentaçã o da oferta. A taxa de fiscalização incide ainda
+para esses lotes, conforme previsto na documentação da oferta. A taxa de fiscalização incide ainda
 
 sobre eventual valor da operação que seja destinado a cobrir os custos da oferta, atrelados à cobrança
 
@@ -1260,11 +1260,11 @@ de uma taxa que se incorpora ao preço, normalmente denominada taxa de distribui
 
 No caso de ofertas de valores mobiliários cuja quantidade e/ou preço não sejam conhecidos no
 
-momento do requerimento do registro ( ofertas que contam com procedimento de bookbuilding ), o
+momento do requerimento do registro (ofertas que contam com procedimento de bookbuilding), o
 
 recolhimento da taxa de fiscalização deve ser feito com base na estimativa do ofertante em relação
 
-ao montante total da oferta ( já incluindo a previsão de lotes base, adicional e suplementar ), nos
+ao montante total da oferta (já incluindo a previsão de lotes base, adicional e suplementar), nos
 
 termos do inciso I, do § 4º do art. 5º da Lei nº 7.940/1989, devendo eventual complemento de taxa
 
@@ -1274,13 +1274,13 @@ Cabe destacar que com a entrada em vigor da Resolução CVM nº 160/2022 e com a
 
 Instrução CVM nº 476/2009, as ofertas públicas destinadas exclusivamente a investidores
 
-profissionais, antes distribuídas com esforços restritos e dispensadas de reg istro, passaram a estar
+profissionais, antes distribuídas com esforços restritos e dispensadas de registro, passaram a estar
 
 sujeitas ao rito de registro automático nos termos do art. 26 da referida Resolução e, dessa forma, o
 
 recolhimento da taxa de fiscalização passa a ser devido por ocasião do requerimento do registro.
 
-As ofertas elencadas no art. 8º da Resolução CVM nº 160/2022 (“ safe harbor”) não estão sujeitas à
+As ofertas elencadas no art. 8º da Resolução CVM nº 160/2022 (“safe harbor”) não estão sujeitas à
 
 regulamentação da referida Resolução, e, portanto, não ensejam recolhimento de taxa de fiscalização.
 
@@ -1288,7 +1288,7 @@ A seguir são apresentadas orientações acerca dos procedimentos a serem observ
 
 processos de restituição ou compensação de taxa de fiscalização no âmbito de ofertas públicas (antiga
 
-tabela D ou atual Anexo IV da Lei nº 7.940/89), conform e disciplinados pela Resolução CVM nº
+tabela D ou atual Anexo IV da Lei nº 7.940/89), conforme disciplinados pela Resolução CVM nº
 
 56/2021.
 
@@ -1298,11 +1298,11 @@ endereço: https://www.gov.br/cvm/pt-br/assuntos/regulados/taxa-de-fiscalizacao/
 
 compensacao e o pleito deverá ser instruído com as seguintes informações:
 
-a) Identificação do rito ao qual a oferta se submeteu: Instrução CVM nº 400/2003 ( registro ou
+a) Identificação do rito ao qual a oferta se submeteu: Instrução CVM nº 400/2003 (registro ou
 
-dispensa de registro), Instrução CVM nº 476/2009, Resolução CVM nº 160/2022 ( rito ordinário ou
+dispensa de registro), Instrução CVM nº 476/2009, Resolução CVM nº 160/2022 (rito ordinário ou
 
-rito automático), Resolução CVM nº 215/2024 ( rito ordinário ou automático ), ou a informação de
+rito automático), Resolução CVM nº 215/2024 (rito ordinário ou automático), ou a informação de
 
 que não houve realização de oferta pública relacionada à taxa nem protocolo/requerimento de pedido
 
@@ -1322,9 +1322,9 @@ c) No caso de ofertas realizadas no âmbito da Instrução CVM nº 400/2003, ide
 
 número do processo e/ou número do registro;
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+18
 
-19
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 d) No caso de ofertas realizadas no âmbito da Instrução CVM nº 476/2009, identificação das
 
@@ -1342,7 +1342,7 @@ informações que o solicitante julgue adequados para comprovar a situação rel
 
 g) No caso de ofertas em andamento (ainda não encerradas), não serão analisados pedidos de
 
-restituição de taxa, cuja GRU já tenha sido utilizada na oferta ( informada no Sistema SRE ). Nesses
+restituição de taxa, cuja GRU já tenha sido utilizada na oferta (informada no Sistema SRE). Nesses
 
 casos, o pedido de restituição de taxa deve ser encaminhado à CVM somente após o encerramento da
 
@@ -1352,7 +1352,7 @@ Dúvidas acerca do recolhimento da taxa de fiscalização podem ser encaminhadas
 
 forma descrita na seção “1.3 Consultas de regulados” deste Ofício-Circular ou para a Gerência de
 
-Arrecadação e Cobrança (GEARC) da CVM, por intermédio do e -mail gearc@cvm.gov.br. A CVM
+Arrecadação e Cobrança (GEARC) da CVM, por intermédio do e-mail gearc@cvm.gov.br. A CVM
 
 mantém ainda página dedicada a divulgar diversos aspectos relativos à taxa de fiscalização,
 
@@ -1378,13 +1378,13 @@ Tal interpretação fundamenta-se no dever atribuído ao coordenador líder da o
 
 controlar o plano de distribuição dos valores mobiliários, conforme inciso X do art. 83 da Resolução
 
-CVM nº 160/2022, em conjunto com as exigências contidas n o inciso I do art. 30 da mesma
+CVM nº 160/2022, em conjunto com as exigências contidas no inciso I do art. 30 da mesma
 
 Resolução, o qual prevê que a SRE pode, a qualquer tempo, exigir a adequação de informações
 
 prestadas às disposições legais e regulamentares pertinentes e no inciso IV do art. 13 da Resolução
 
-CVM nº 161/2022, que explicita co mo um dos deveres do coordenador certificar -se de que o
+CVM nº 161/2022, que explicita como um dos deveres do coordenador certificar-se de que o
 
 investimento é adequado ao nível de sofisticação e ao perfil de risco dos investidores.
 
@@ -1396,7 +1396,7 @@ acessados na oferta pública de distribuição podem adquirir os valores mobili�
 
 restrições para tanto, ainda que tal avaliação seja de competência primária dos próprios investidores.
 
-Assim, o coordenador de uma oferta voltada para, ou que pode acessar, uma " classe" ou " tipo"
+Assim, o coordenador de uma oferta voltada para, ou que pode acessar, uma "classe" ou "tipo"
 
 específico de investidor deve efetivamente ter ciência e observar a regulamentação imposta àquela
 
@@ -1404,9 +1404,9 @@ classe/tipo de investidor, notadamente no que tange a eventuais restrições que
 
 investidores de participar da oferta.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+19
 
-20
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.1.4. Fim do período de vedação ao registro de ofertas públicas de distribuição
 
@@ -1414,7 +1414,7 @@ Com a entrada em vigor da Resolução CVM nº 160/2022, deixou de existir a disp
 
 que impedia o deferimento do registro de oferta pública de distribuição de valores mobiliários no
 
-período iniciado no 16º dia anterior a qualquer divulgação de in formações periódicas da emissora
+período iniciado no 16º dia anterior a qualquer divulgação de informações periódicas da emissora
 
 encerrado na data de sua efetiva divulgação, conforme anteriormente previsto no § 4º do art. 14 da
 
@@ -1424,7 +1424,7 @@ Importante destacar, contudo, que a Resolução CVM nº 160/2022 disciplina uma 
 
 responsabilidades do ofertante, do coordenador líder e demais coordenadores nas ofertas públicas
 
-de distribuição de valores mobiliários. Tais obrigações compree ndem, dentre outras, assegurar a
+de distribuição de valores mobiliários. Tais obrigações compreendem, dentre outras, assegurar a
 
 veracidade, consistência, qualidade e suficiência das informações prestadas por ocasião do registro
 
@@ -1460,7 +1460,7 @@ Nesse sentido, o coordenador líder deverá tomar todas as cautelas, respondendo
 
 diligência ou omissão, para assegurar que o ofertante observe seu dever de responsabilidade pelas
 
-informações prestadas e bem como garantir que as informações forn ecidas ao mercado durante todo
+informações prestadas e bem como garantir que as informações fornecidas ao mercado durante todo
 
 o prazo de distribuição, inclusive aquelas eventuais ou periódicas que venham a integrar o prospecto,
 
@@ -1470,7 +1470,7 @@ Finalmente, é conveniente ainda ressaltar o que dispõe o art. 22 da Resoluçã
 
 sentido de que a identificação, enquanto a oferta estiver em distribuição, de qualquer imprecisão ou
 
-mudança relevante nas informações contidas no prospecto d efinitivo, notadamente decorrentes de
+mudança relevante nas informações contidas no prospecto definitivo, notadamente decorrentes de
 
 deficiência informacional ou de qualquer fato novo ou anterior não considerado no prospecto, deverá
 
@@ -1488,9 +1488,9 @@ Anteriormente, o período de silêncio era absoluto, sendo vedada praticamente q
 
 na mídia por parte do emissor, do ofertante e dos intermediários.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+20
 
-21
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 A nova norma de ofertas públicas passou a prever dois períodos distintos. Um mais restritivo,
 
@@ -1504,19 +1504,19 @@ Os referidos períodos estão relacionados à publicidade da oferta, conceito qu
 
 10 da nova norma como sendo qualquer ato de comunicação que busque despertar o interesse na
 
-subscrição ou na aquisição de determinados valores mobiliário s ofertados ou a serem ofertados.
+subscrição ou na aquisição de determinados valores mobiliários ofertados ou a serem ofertados.
 
 Assim, o período de silêncio propriamente dito é aquele previsto no art. 11 da Resolução CVM nº
 
 160/2022. No período de silêncio, que tem início na data mais antiga entre (i) a aprovação formal da
 
-oferta ou o engajamento do coordenador líder (em caso de of erta exclusivamente secundária); e (ii)
+oferta ou o engajamento do coordenador líder (em caso de oferta exclusivamente secundária); e (ii)
 
 o 30º dia que antecede o protocolo do requerimento do registro de oferta pública de valores
 
 mobiliários e que se encerra no anúncio de encerramento da oferta, o ofertante e as instituições
 
-participantes do consórcio de distribuição e demais pessoas ligadas à ofe rta estão impedidas de dar
+participantes do consórcio de distribuição e demais pessoas ligadas à oferta estão impedidas de dar
 
 publicidade à oferta.
 
@@ -1538,7 +1538,7 @@ O período de publicidade permitida com regras é aquele previsto no art. 12 da 
 
 160/2022. Esse período tem início com o início do período de oferta a mercado (divulgação de Aviso
 
-a Mercado ou Anúncio de Início, caso não haja Aviso a Mercado ). Nesse período, a publicidade é
+a Mercado ou Anúncio de Início, caso não haja Aviso a Mercado). Nesse período, a publicidade é
 
 permitida, inclusive a manifestação na mídia, sujeita aos requisitos previstos no § 2º do art. 12 da
 
@@ -1554,7 +1554,7 @@ Em particular no que diz respeito ao contato com as redes sociais, convém citar
 
 atuação diligente dos participantes das ofertas, coordenador líder e ofertante, com vistas a identificar
 
-eventuais materiais que estejam disponíveis nas redes, n o intuito de avaliar tanto se a
+eventuais materiais que estejam disponíveis nas redes, no intuito de avaliar tanto se a
 
 disponibilização destes acabaria por afrontar o período de silêncio, bem como a consistência das
 
@@ -1574,13 +1574,13 @@ publicitários para a oferta. Cabe destacar que, nos termos do art. 14 da Resolu
 
 a SRE pode, a qualquer tempo, por decisão motivada, requerer retificações, alterações, a cessação
 
-da publicidade ou mesmo suspender a oferta pelo período necessário ( limitado ao prazo previsto no
+da publicidade ou mesmo suspender a oferta pelo período necessário (limitado ao prazo previsto no
+
+21
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-22
-
-parágrafo abaixo ) para esclarecimentos e nova disseminação de informações, sem prejuízo da
+parágrafo abaixo) para esclarecimentos e nova disseminação de informações, sem prejuízo da
 
 possibilidade de apuração de responsabilidade em sede de processo administrativo sancionador.
 
@@ -1616,13 +1616,13 @@ Tal interpretação fundamenta-se no dever atribuído ao coordenador líder da o
 
 controlar o plano de distribuição dos valores mobiliários, conforme inciso X do art. 83 da Resolução
 
-CVM nº 160/2022, em conjunto com as exigências contidas n o inciso I do art. 30 da mesma
+CVM nº 160/2022, em conjunto com as exigências contidas no inciso I do art. 30 da mesma
 
 Resolução, o qual prevê que a SRE pode, a qualquer tempo, exigir a adequação de informações
 
 prestadas às disposições legais e regulamentares pertinentes e no inciso IV do art. 13 da Resolução
 
-CVM nº 161/2022, que explicita co mo um dos deveres do coordenador certificar -se de que o
+CVM nº 161/2022, que explicita como um dos deveres do coordenador certificar-se de que o
 
 investimento é adequado ao nível de sofisticação e ao perfil de risco dos investidores.
 
@@ -1634,7 +1634,7 @@ acessados na oferta pública de distribuição podem adquirir os valores mobili�
 
 restrições para tanto, ainda que tal avaliação seja de competência primária dos próprios investidores.
 
-Assim, o coordenador de uma oferta voltada para, ou que pode acessar, uma " classe" ou " tipo"
+Assim, o coordenador de uma oferta voltada para, ou que pode acessar, uma "classe" ou "tipo"
 
 específico de investidor deve efetivamente ter ciência e observar a regulamentação imposta àquela
 
@@ -1654,19 +1654,19 @@ Nas ofertas que sigam o rito ordinário de registro, após o início da distribu
 
 registro da oferta, o contrato de distribuição firmado entre o ofertante e os coordenadores somente
 
-poderá ser alterado mediante prévia autorização da CV M, nos termos do art. 80 da Resolução CVM
+poderá ser alterado mediante prévia autorização da CVM, nos termos do art. 80 da Resolução CVM
 
 nº 160/2022.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+22
 
-23
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Caso a alteração no contrato de distribuição caracterize modificação de oferta, deve ser seguida a
 
 regra de modificação de oferta prevista no art. 67 e seguintes da Resolução CVM nº 160/2022.
 
-Algumas hipóteses que no entendimento da SRE caracterizam modificação d e oferta estão
+Algumas hipóteses que no entendimento da SRE caracterizam modificação de oferta estão
 
 relacionadas a alterações que tenham impacto relevante para o investidor, como aumentos dos custos
 
@@ -1692,11 +1692,11 @@ a menos que as hipóteses de resilição voluntária contidas no contrato de dis
 
 princípios dispostos no art. 67 da Resolução CVM nº 160/2022, que fundamentam a possibilidade
 
-de revogação da ofe rta, quais sejam, a ocorrência de alteração substancial, posterior e imprevisível
+de revogação da oferta, quais sejam, a ocorrência de alteração substancial, posterior e imprevisível
 
 nas circunstâncias de fato existentes quando do protocolo do requerimento de registro, que acarretem
 
-aumento relevante dos riscos assumidos pelo ofertante e inerentes à própr ia oferta.
+aumento relevante dos riscos assumidos pelo ofertante e inerentes à própria oferta.
 
 Na hipótese de resilição voluntária do contrato de distribuição que implique revogação da oferta,
 
@@ -1708,7 +1708,7 @@ Por fim, com a entrada em vigor da Resolução CVM nº 160/2022, a SRE modificou
 
 entendimento no que diz respeito à adesão de instituições intermediárias à oferta, por meio de
 
-celebração de termo específico, conforme hipótese do § 2º do art. 79. Ness e sentido, tal situação,
+celebração de termo específico, conforme hipótese do § 2º do art. 79. Nesse sentido, tal situação,
 
 analisada isoladamente, não mais será tratada como potencial incidência de modificação de oferta.
 
@@ -1726,7 +1726,7 @@ Isto posto, esclarecemos que esta Superintendência entende que o procedimento d
 
 pedidos de reserva ou intenções de investimento apresenta natureza semelhante à subscrição dos
 
-valores mobiliários, na medida em que a forma como tal alocação é o peracionalizada estabelece
+valores mobiliários, na medida em que a forma como tal alocação é operacionalizada estabelece
 
 posição de custódia para o investidor em relação à oferta, da qual decorre a obrigação de
 
@@ -1734,17 +1734,17 @@ integralização.
 
 Nesse sentido, a previsão de que o procedimento de alocação ocorra previamente à obtenção do
 
-registro da oferta e divulgação do Anúncio de Início e Prospecto Definitivo ( se aplicável) contraria
+registro da oferta e divulgação do Anúncio de Início e Prospecto Definitivo (se aplicável) contraria
 
 o citado art. 59 da Resolução CVM nº 160/2022.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+23
 
-24
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.1.9. Condições precedentes para a realização da Oferta
 
-O caput do art. 58 da Resolução CVM nº 160/2022 prevê que a “ A oferta a mercado é irrevogável,
+O caput do art. 58 da Resolução CVM nº 160/2022 prevê que a “A oferta a mercado é irrevogável,
 
 mas pode estar sujeita a condições previamente indicadas que correspondam a um interesse legítimo
 
@@ -1756,13 +1756,13 @@ Já ao dispor sobre as hipóteses de cancelamento ou suspensão da oferta, a Res
 
 160/2022, através do § 4º do art. 70, disciplina que tanto a não verificação de uma eventual condição
 
-precedente, conforme definida no art. 58, como a rescisão de co ntrato de distribuição, motivada por
+precedente, conforme definida no art. 58, como a rescisão de contrato de distribuição, motivada por
 
 qualquer inadimplemento entre as partes, importa no cancelamento do registro da oferta.
 
-Nesse sentido, vê -se que, na prática, os contratos de distribuição contemplam “ Condições
+Nesse sentido, vê-se que, na prática, os contratos de distribuição contemplam “Condições
 
-Precedentes” (ou por vezes “ Condições Suspensivas ”) que mais se relacionam aos deveres de
+Precedentes” (ou por vezes “Condições Suspensivas”) que mais se relacionam aos deveres de
 
 diligência entre as partes envolvidas e não uma condição "autônoma" por assim dizer, em linha com
 
@@ -1794,11 +1794,11 @@ A Resolução CVM nº 160/2022 trouxe em seu art. 8º uma importante inovação 
 
 até então vigente. O dispositivo normativo elenca uma série de operações, cujas características
 
-específicas as afastam do conceito de oferta pública de valores mob iliários, não estando, portanto,
+específicas as afastam do conceito de oferta pública de valores mobiliários, não estando, portanto,
 
 sujeitas à regulamentação de ofertas públicas e à necessidade de registro. O dispositivo é uma espécie
 
-de “ safe harbor ” que traz maior segurança jurídica a tais operações, quando não submetidas a
+de “safe harbor” que traz maior segurança jurídica a tais operações, quando não submetidas a
 
 registro prévio.
 
@@ -1806,7 +1806,7 @@ Cabe destacar que o art. 8º da Resolução CVM nº 160/2022 não teve por objet
 
 relacionar todas as possibilidades de operações privadas ou que se afastam do conceito de oferta
 
-pública de valores mobiliários, sendo certo que todas as operações e fetivamente privadas, ou seja,
+pública de valores mobiliários, sendo certo que todas as operações efetivamente privadas, ou seja,
 
 aquelas que não contém elementos caracterizadores de oferta pública, não se sujeitam à
 
@@ -1816,15 +1816,15 @@ Por não estarem sujeitas à regulamentação de ofertas públicas de valores mo
 
 elencadas no art. 8º não estão sujeitas ao recolhimento de taxa de fiscalização. Cabe destacar que
 
-não são ofertas dispensadas de registro, mas sim ofertas n ão sujeitas a registro na Comissão de
+não são ofertas dispensadas de registro, mas sim ofertas não sujeitas a registro na Comissão de
 
 Valores Mobiliários.
 
+24
+
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-25
-
-Não é vedada a submissão das ofertas previstas no “ safe harbor” a registro prévio na CVM, sendo
+Não é vedada a submissão das ofertas previstas no “safe harbor” a registro prévio na CVM, sendo
 
 certo que todas as ofertas submetidas a registro prévio, ainda que tenham natureza de colocações
 
@@ -1836,7 +1836,7 @@ Cabe destacar que não é permitido o uso de materiais publicitários nas oferta
 
 pois tal conduta atrairia para essas ofertas características de oferta pública de valores mobiliários, o
 
-que seria incompatível com o próprio conceito do “ safe harbor”.
+que seria incompatível com o próprio conceito do “safe harbor”.
 
 2.1.11. Plano de distribuição
 
@@ -1848,9 +1848,9 @@ tranche, inclua investidores de varejo, seja estabelecido um limite máximo para
 
 investidor equivalente ao valor mínimo necessário de investimentos financeiros estabelecido para a
 
-caracterização de investidor qualificado (atualmente R$ 1 milhão), ou se ja garantida a utilização
+caracterização de investidor qualificado (atualmente R$ 1 milhão), ou seja garantida a utilização
 
-deste limite como base no caso de necessidade de rateio. Alternativamente ao citado limite, pode -se
+deste limite como base no caso de necessidade de rateio. Alternativamente ao citado limite, pode-se
 
 adotar a alocação igualitária e sucessiva, de modo que os valores mobiliários sejam alocados um a
 
@@ -1858,7 +1858,7 @@ um, de forma sequencial, a cada investidor. Nessa dinâmica, à medida que os in
 
 tendo suas intenções de investimento atendidas, passam a não ser mais considerados na sequência
 
-de alocação igualitária e sucessiva .
+de alocação igualitária e sucessiva.
 
 Já sobre o uso de alocação prioritária para investidores que aceitem se submeter à restrição de venda
 
@@ -1898,17 +1898,17 @@ suficiente o registro dos regulamentos junto à Comissão de Valores Mobiliário
 
 sua publicidade e a oponibilidade de efeitos em relação a terceiros (conforme art. 7º da referida Lei,
 
-que alterou a Lei nº 10.406/2002 (Código Civil) , em seu art. 1.368-C).
+que alterou a Lei nº 10.406/2002 (Código Civil), em seu art. 1.368-C).
+
+25
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-26
-
-Por meio do Ofício -Circular CVM/SIN 02/24, a SIN reinterpretou o dispositivo em questão
+Por meio do Ofício-Circular CVM/SIN 02/24, a SIN reinterpretou o dispositivo em questão
 
 informando que:
 
-“o termo “regulamento” previsto no artigo 1.368 -C, § 3ª, da Lei nº 13.874 ganhou nova acepção
+“o termo “regulamento” previsto no artigo 1.368-C, § 3ª, da Lei nº 13.874 ganhou nova acepção
 
 com a edição da Resolução CVM nº 175, de forma a incluir não apenas o regulamento ali
 
@@ -1926,15 +1926,15 @@ Nesse contexto, e considerando que operações societárias em geral envolverão
 
 extinção, conforme o caso, de algum desses documentos, confirmamos, em linha com o mesmo
 
-racional adotado pelo Ofício -Circular CVM/SIN/nº 12/2019, que não há obrigatoriedade de
+racional adotado pelo Ofício-Circular CVM/SIN/nº 12/2019, que não há obrigatoriedade de
 
 registro dos atos societários dos fundos de investimento em registro de títulos e documentos,
 
 desde que a devida publicidade de tais documentos a terceiros seja dada por meio da
 
-disponibilização, pelo administrador fiduciário do r espectivo documento na plataforma do
+disponibilização, pelo administrador fiduciário do respectivo documento na plataforma do
 
-website da CVM – SGF (Sistema de Gestão de Fundos de Investimento) . Adicionalmente,
+website da CVM – SGF (Sistema de Gestão de Fundos de Investimento). Adicionalmente,
 
 esclarecemos que tais documentos societários, quando não acompanharem o respectivo regulamento
 
@@ -1952,7 +1952,7 @@ A mesma Lei nº 14.711/2023 acrescentou o § 5º ao art. 62 da LSA, estipulando 
 
 disciplinar o registro e a divulgação do ato societário que deliberar sobre a emissão e da escritura de
 
-emissão das debêntures objeto de oferta pública ou admitid as à negociação e os seus aditamentos.
+emissão das debêntures objeto de oferta pública ou admitidas à negociação e os seus aditamentos.
 
 A esse respeito, a CVM editou em 6 de março de 2025 a Resolução CVM nº 226/2025, que alterou
 
@@ -1972,21 +1972,21 @@ caso de emissões públicas de securitizadoras, e na Resolução CVM nº 80/2022
 
 emissões públicas de companhias registradas na CVM nas categorias A ou B.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+26
 
-27
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.2. Boas práticas na condução do processo de rito de registro ordinário
 
 2.2.1. Atos Deliberativos
 
-Os pedidos de registro de ofertas públicas devem ser instru ídos com os atos que efetivamente
+Os pedidos de registro de ofertas públicas devem ser instruídos com os atos que efetivamente
 
 deliberaram sobre a aprovação da distribuição pública, devidamente assinados, não sendo permitida
 
 a apresentação de minutas.
 
-Admite-se que o s atos deliberativos devidamente formalizado s sejam apresentados à SRE até a
+Admite-se que os atos deliberativos devidamente formalizados sejam apresentados à SRE até a
 
 divulgação do Aviso ao Mercado, no caso de ato deliberativo da oferta, ou do Anúncio de Início, no
 
@@ -2012,7 +2012,7 @@ Conforme previsto no § 3º do art. 67 da Resolução CVM nº 160/2022, caso as 
 
 venham a caracterizar modificação de oferta, tal modificação realizada anteriormente ao registro não
 
-demanda aprovação prévia da SRE , porém, no caso de oferta sujeita ao rito de registro ordinário, a
+demanda aprovação prévia da SRE, porém, no caso de oferta sujeita ao rito de registro ordinário, a
 
 modificação será analisada no decorrer do período de análise do registro, podendo configurar fato novo
 
@@ -2020,11 +2020,11 @@ previsto no § 8º do art. 38 da mesma Resolução.
 
 2.2.3. Uso de redações alternativas
 
-O uso de redações alternativas ( entre colchetes ou similar ), inclusive muitas vezes contraditórias,
+O uso de redações alternativas (entre colchetes ou similar), inclusive muitas vezes contraditórias,
 
-não permite a adequada análise da informação e pode rá acarretar exigências complementares por
+não permite a adequada análise da informação e poderá acarretar exigências complementares por
 
-oportunidade do ofício de reiteração de exigências , as quais podem culminar na caracterização de
+oportunidade do ofício de reiteração de exigências, as quais podem culminar na caracterização de
 
 uma modificação de oferta (art. 67 precitado). Desse modo, solicitamos que não utilizem essa forma
 
@@ -2038,21 +2038,21 @@ a identificação do seu conteúdo, conforme a seguir: nos nomes dos arquivos en
 
 eletrônico deve constar obrigatoriamente o número do anexo que consta na petição e o nome do
 
-anexo, não podendo ultrapassar 40 caracteres ( prospecto, pedido de reserva, contrato de
+anexo, não podendo ultrapassar 40 caracteres (prospecto, pedido de reserva, contrato de
 
-distribuição, resposta ao Ofício xxx etc.). Ou seja, deve -se evitar que a nomeação dos arquivos
+distribuição, resposta ao Ofício xxx etc.). Ou seja, deve-se evitar que a nomeação dos arquivos
 
 replique apenas a identificação numérica apontada na petição.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+27
 
-28
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.2.5. Petição ou carta de encaminhamento
 
-No rito ordinário de registro , em todas as fases do requerimento ( pedido inicial, atendimento de
+No rito ordinário de registro, em todas as fases do requerimento (pedido inicial, atendimento de
 
-exigências, atendimento de reiteração de exigências , envio adicional de documentos ) devem ser
+exigências, atendimento de reiteração de exigências, envio adicional de documentos) devem ser
 
 encaminhadas, no Sistema SRE, petições ou cartas de encaminhamento com esclarecimentos acerca
 
@@ -2064,13 +2064,13 @@ e do atendimento de exigências.
 
 Alertamos que para fins do cumprimento ao inciso V do art. 13 da Resolução CVM nº 160/2022, os
 
-documentos devem ser encaminhados através do Sistema SRE , em que pese eventuais orientações
+documentos devem ser encaminhados através do Sistema SRE, em que pese eventuais orientações
 
 para inclusão de certos documentos em outros sistemas da CVM, para fins de atendimento às regras
 
 das áreas técnicas que fazem a supervisão de emissores, quer sejam fundos, companhias abertas ou
 
-companhias securitizadoras . Ainda sobre a apresentação de documentos no Sistema SRE,
+companhias securitizadoras. Ainda sobre a apresentação de documentos no Sistema SRE,
 
 reforçamos que o sistema não deve ser usado como repositório de documentos, de modo que apenas
 
@@ -2078,7 +2078,7 @@ os documentos lá parametrizados para cada tipo de requerimento de registro (fru
 
 entre público-alvo e valor mobiliário) são os que devem ser encaminhados no Sistema SRE, além
 
-dos materiais publicitários na seção “ Documentos Adicionais ”. Qualquer outro documento apenas
+dos materiais publicitários na seção “Documentos Adicionais”. Qualquer outro documento apenas
 
 deverá ser incluído mediante orientação expressa para tanto por parte desta SRE. Assim, por
 
@@ -2090,7 +2090,7 @@ orientação é importante na medida em que, naturalmente, há um limite na capa
 
 armazenamento do referido sistema e o envio de documentos não solicitados compromete o
 
-planejamento de capacidade c onsiderado na operação do Sistema SRE.
+planejamento de capacidade considerado na operação do Sistema SRE.
 
 2.3. Rito de registro automático de distribuição
 
@@ -2098,7 +2098,7 @@ Os incisos I a XIV do art. 26 da Resolução CVM nº 160/2022, listam quais ofer
 
 distribuição podem seguir o rito de registro automático, considerando as variáveis tipo de emissor,
 
-valor mobiliário ofertado e público -alvo, desde que cumpridos o s requisitos e procedimentos
+valor mobiliário ofertado e público-alvo, desde que cumpridos os requisitos e procedimentos
 
 dispostos no art. 27 da mesma Resolução.
 
@@ -2110,15 +2110,15 @@ entrado em operação em 02/01/2023, mesma data do início da vigência da Resol
 
 da CVM. Convém ressaltar que a presente seção não abordará aspectos relacionados a orientações
 
-técnicas de uso do Sistema SRE, temas que continuam objeto de Ofícios -Circulares específicos ,
+técnicas de uso do Sistema SRE, temas que continuam objeto de Ofícios-Circulares específicos,
 
-assunto já tratado na primeira página deste Ofício -Circular.
+assunto já tratado na primeira página deste Ofício-Circular.
 
 Ressaltamos a obrigatoriedade de divulgação tanto do Anúncio de Início como do Anúncio de
 
 Encerramento de Distribuição bem como do Aviso ao Mercado, se aplicável. Vale lembrar que tais
 
-documentos se prestam a delimitar certas fases de uma distribuição públ ica e não há de se falar em
+documentos se prestam a delimitar certas fases de uma distribuição pública e não há de se falar em
 
 suprimi-los ou dar como atendida sua divulgação na CVM por outros meios que não o Sistema SRE.
 
@@ -2126,17 +2126,19 @@ A verificação de tais documentos no Sistema SRE faz parte de rotinas automatiz
 
 quais os requerimentos de registro são automaticamente migrados para as fases “Requerimento
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+28
 
-29
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Expirado” ou “Registro Caducado” nas hipóteses de não apresentação tempestiva, respectivamente,
 
 das informações finais para a obtenção do registro, no caso de ofertas que farão uso da fase a mercado
 
-antes do registro , e do Anúncio de Início , além de delimitar o status de distribuição ou seja, se a
+antes do registro, e do Anúncio de Início, além de delimitar o status de distribuição ou seja, se a
 
-oferta está em sua fase “a mercado” ou “em distribuição”4.
+oferta está em sua fase “a mercado” ou “em distribuição”4
+
+.
 
 Ainda sobre documentação em ofertas que sigam o rito automático de registro, notadamente em
 
@@ -2144,11 +2146,11 @@ relação aos documentos elencados no § 4º do art. 27 da Resolução CVM nº 1
 
 que na hipótese de ofertas que contem com período a mercado, no momento de envio do
 
-requerimento de registro , (i) os atos societários e a escritura de emissão de debênture podem estar
+requerimento de registro, (i) os atos societários e a escritura de emissão de debênture podem estar
 
-pendentes da formalização cabível ( registros cabíveis em junta/cartório ) e (ii) a declaração da B3
+pendentes da formalização cabível (registros cabíveis em junta/cartório) e (ii) a declaração da B3
 
-pode estar em análise. Em qualquer situação ( requerimento com ou sem ida a mercado ), para fins
+pode estar em análise. Em qualquer situação (requerimento com ou sem ida a mercado), para fins
 
 da efetiva concessão do registro, os atos e a escritura devem apresentar as formalidades cabíveis
 
@@ -2158,19 +2160,21 @@ Importante salientar que, no rito automático, a possibilidade contida no inciso
 
 Resolução CVM nº 161/2022, de que outras sociedades que não sejam instituições financeiras atuem
 
-como coordenadores de ofertas, restringe -se àquelas que estejam sujeitas a supervisão de entidade
+como coordenadores de ofertas, restringe-se àquelas que estejam sujeitas a supervisão de entidade
 
-autorreguladora que celebre com a CVM acordo de co operação técnica específico, conforme
+autorreguladora que celebre com a CVM acordo de cooperação técnica específico, conforme
 
 disposto no § 1º do precitado art. 3º. Em 23 de dezembro de 2022, foi firmado com a ANBIMA
 
 Acordo de Cooperação que prevê a coordenação de esforços para supervisão de coordenadores de
 
-ofertas públicas que não sejam instituições financeiras , de modo que tais instituições, quando
+ofertas públicas que não sejam instituições financeiras, de modo que tais instituições, quando
 
 registradas como Coordenadores de Ofertas Públicas e aderentes aos Códigos de Autorregulação da
 
-ANBIMA5, ficam autorizadas a realizar ofertas públicas pelo rito de registro automático, nos termos
+ANBIMA5
+
+, ficam autorizadas a realizar ofertas públicas pelo rito de registro automático, nos termos
 
 da Seção II da Resolução CVM nº 160/2022.
 
@@ -2178,33 +2182,33 @@ As ofertas de títulos de dívida de emissores não registrados só podem ser di
 
 profissionais (§ 2º do art. 25 da Resolução CVM nº 160/2022), com exceção de debêntures não
 
-conversíveis emitidas pelas sociedades previstas no s §§ 1º -A e 1º -B e caput do art. 2º da Lei nº
+conversíveis emitidas pelas sociedades previstas nos §§ 1º-A e 1º-B e caput do art. 2º da Lei nº
 
 12.431, de 24 de junho de 2011, relacionadas à captação de recursos com vistas a implementar
 
 projetos de investimento na área de infraestrutura, ou de produção econômica intensiva em pesquisa,
 
-desenvolvimento e inovação, considerados com o prioritários na forma regulamentada pelo Poder
+desenvolvimento e inovação, considerados como prioritários na forma regulamentada pelo Poder
 
 Executivo Federal, de acordo com os requisitos da referida Lei, que podem ser direcionadas a
 
-investidores qualificados ( inciso IX do art. 26, da Resolução CVM nº 160/2022) e seguem o rito
+investidores qualificados (inciso IX do art. 26, da Resolução CVM nº 160/2022) e seguem o rito
 
 automático de distribuição .
 
 Cabe frisar que a hipótese para utilização do rito automático acima citada é taxativamente aplicável
 
-apenas às debêntures de que tratam a Lei nº 12.431 /2011 (“debêntures incentivadas ” conforme
+apenas às debêntures de que tratam a Lei nº 12.431/2011 (“debêntures incentivadas” conforme
 
 definido no inciso I do art. 2º do Decreto nº 11.964/2024). Desta forma, não se aplica à recém-criada,
 
-pela Lei nº 14.801/2024, “ debênture de infraestrutura ”, conforme denominada no inciso II do art.
+pela Lei nº 14.801/2024, “debênture de infraestrutura”, conforme denominada no inciso II do art.
 
 2º do Decreto nº 11.964/2024. Importa ainda destacar entendimento desta área técnica no sentido de
 
 que não se faz necessário qualquer ajuste na norma de ofertas públicas para incluir estas debêntures
 
-no rol de va lores mobiliários que podem ser submetidos ao rito automático, em linha com o que
+no rol de valores mobiliários que podem ser submetidos ao rito automático, em linha com o que
 
 prevê o inciso IX do art. 26 da Resolução CVM nº 160/2022, já que a natureza tributária do benefício
 
@@ -2216,9 +2220,9 @@ CVM/SRE nº 01/24, o qual deve ser lido em conjunto com esta seção para pleno 
 
 autorregulação da entidade.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+29
 
-30
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 a elas conferido se relaciona ao emissor, não dispondo seus investidores do benefício fiscal dado às
 
@@ -2234,9 +2238,9 @@ convém pontuar entendimento no sentido de que ao serem tratados em um inciso es
 
 VIII do art. 26 da Resolução CVM nº 160/2022, as ofertas de securitização não poderão se beneficiar
 
-do rito de registro automático para ofertas que utilizem modelos padronizados , de modo que
+do rito de registro automático para ofertas que utilizem modelos padronizados, de modo que
 
-entendemos não ser possível o uso, para esse tipo de oferta , do desconto regulatório aplicável para
+entendemos não ser possível o uso, para esse tipo de oferta, do desconto regulatório aplicável para
 
 títulos padronizados.
 
@@ -2252,7 +2256,7 @@ CVM nº 160/2022, o emissor deve ao menos realizar uma ou duas ofertas, a depend
 
 submetidas ao rito ordinário no período de 4 anos, ainda que realize com frequência ofertas via rito
 
-automático nesse período. Esse escrutínio periódico por parte da CVM é important e para a
+automático nesse período. Esse escrutínio periódico por parte da CVM é importante para a
 
 manutenção do status de EFRF.
 
@@ -2272,7 +2276,7 @@ completo preocupações que possam decorrer de uma nova oferta desses mesmos val
 
 razão pela qual a oferta prévia com análise pela CVM ou da entidade autorreguladora para o mesmo
 
-público-alvo é condição para utilização da hipótese prevista no dispositivo nor mativo.
+público-alvo é condição para utilização da hipótese prevista no dispositivo normativo.
 
 Outro aspecto relevante introduzido pela Resolução CVM nº 160/2022 no caso de ofertas submetidas
 
@@ -2292,29 +2296,29 @@ Por sua vez, ofertas registradas em rito automático cujo plano de distribuiçã
 
 mercado devem permanecer em distribuição ao menos 3 dias úteis exceto no caso em que haja a
 
-distribuição da totalidade de valores mobiliários e isso não ten ha sido decorrente do exercício da
+distribuição da totalidade de valores mobiliários e isso não tenha sido decorrente do exercício da
 
 garantia firme.
 
 2.3.1. Revogação de ofertas em rito automático
 
-Apesar de a Resolução CVM nº 160/2022 não prever procedimento s diferentes para os ritos de
+Apesar de a Resolução CVM nº 160/2022 não prever procedimentos diferentes para os ritos de
 
 registro automático e ordinário, no caso da revogação de oferta, entendemos que o objetivo não foi
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+30
 
-31
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 impor necessidade de análise prévia por parte da SRE na hipótese de revogação da oferta cujo
 
 registro tenha ocorrido nos termos do art. 26 da citada Resolução.
 
-Uma vez que tanto a modificação, quanto a revogação, só podem ocorrer quando há “ alteração
+Uma vez que tanto a modificação, quanto a revogação, só podem ocorrer quando há “alteração
 
 substancial, posterior e imprevisível nas circunstâncias de fato existentes quando do protocolo do
 
-requerimento de registro de oferta pública de distribuição, ou que o fundamentem ”, nos termos do
+requerimento de registro de oferta pública de distribuição, ou que o fundamentem”, nos termos do
 
 caput do art. 67 da Resolução CVM nº 160/2022, ou seja, ambos os pleitos devem estar calcados em
 
@@ -2322,7 +2326,7 @@ fundamentos similares, não faria sentido que a verificação desta situação c
 
 da SRE nos pleitos de revogação de ofertas submetidas ao rito automático e não precisasse desta
 
-mesma análise no s pedidos de modificação de ofertas submetidas ao mesmo rito de registro,
+mesma análise nos pedidos de modificação de ofertas submetidas ao mesmo rito de registro,
 
 conforme explicita o § 2º do mesmo art. 67.
 
@@ -2338,11 +2342,11 @@ rito automático de registro não carecem de aprovação prévia da SRE, seguind
 
 prevista para as modificações de ofertas que observem esse rito de registro, devendo estar essas
 
-revogações obviamente fundamentadas na ocorrência de “ alteração substancial, posterior e
+revogações obviamente fundamentadas na ocorrência de “alteração substancial, posterior e
 
 imprevisível nas circunstâncias de fato existentes quando do protocolo do requerimento de registro
 
-de oferta pública de distribuição, ou que o fundamentem ” acarretando aumento relevante dos riscos
+de oferta pública de distribuição, ou que o fundamentem” acarretando aumento relevante dos riscos
 
 inerentes à própria oferta.
 
@@ -2350,7 +2354,7 @@ Nesse sentido, no caso de ofertas que sigam o rito de registro automático, a ev
 
 prescinde de manifestação da SRE e o Comunicado ao Mercado que notificará os investidores a
 
-respeito deverá ser apresentado por meio do Sistema SRE (mesmo siste ma por meio do qual foi
+respeito deverá ser apresentado por meio do Sistema SRE (mesmo sistema por meio do qual foi
 
 requerido o pedido de registro da oferta), dando conta da revogação e seus fundamentos. Ainda, nos
 
@@ -2360,25 +2364,25 @@ também nos locais previstos pelo art. 13 da Resolução CVM nº 160/2022.
 
 2.3.2. Ofertas com Reabertura de Série
 
-Inicialmente, é importante pontuar que as orientações contidas nesta seção aplicam -se às ofertas
+Inicialmente, é importante pontuar que as orientações contidas nesta seção aplicam-se às ofertas
 
-públicas de distribuição de (i) debêntures não -conversíveis ou não -permutáveis em ações e outros
+públicas de distribuição de (i) debêntures não-conversíveis ou não-permutáveis em ações e outros
 
 tipos de valores mobiliários representativos de dívida de emissor em fase operacional, registrado nas
 
-Categorias A e B, destinadas exclusivamente ao público investidor em geral , quando se tratar de
+Categorias A e B, destinadas exclusivamente ao público investidor em geral, quando se tratar de
 
 títulos com características idênticas, exceto pela taxa de remuneração efetiva do papel, a títulos que
 
 tenham sido previamente distribuídos em oferta pública destinada ao público investidor em geral,
 
-conforme hipótese prevista n o item 2 da alínea ‘c’ d o inciso V do art. 26 da Resolução CVM nº
+conforme hipótese prevista no item 2 da alínea ‘c’ do inciso V do art. 26 da Resolução CVM nº
 
 160/2022 e (ii) títulos de securitização emitidos por companhias securitizadoras registradas na CVM
 
-destinada exclusivamente ao público investidor em geral quando se tratar de títulos ( cujo lastro seja
+destinada exclusivamente ao público investidor em geral quando se tratar de títulos (cujo lastro seja
 
-composto por título de dívida de um único emissor ) com características idênticas, exceto pela taxa
+composto por título de dívida de um único emissor) com características idênticas, exceto pela taxa
 
 de remuneração efetiva do papel, inclusive com o mesmo instrumento de lastro e mesma data de
 
@@ -2388,9 +2392,9 @@ conforme hipótese prevista no art. 26, inciso VIII, alínea c, item 2 da Resolu
 
 ("Reabertura de Série").
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+31
 
-32
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Cabe pontuar que é justamente o fato de se tratar de oferta pública no âmbito de uma reabertura de
 
@@ -2408,7 +2412,7 @@ para o público investidor em geral somente se aplica às hipóteses (i) e (ii) 
 
 primeiro parágrafo desta seção;
 
-b) Conforme definido no ite m 2, alínea c, do inciso V e no item 2, alínea c, do inciso VIII,
+b) Conforme definido no item 2, alínea c, do inciso V e no item 2, alínea c, do inciso VIII,
 
 ambos do art. 26, a oferta da reabertura de série deve contar com os mesmos termos e
 
@@ -2424,23 +2428,23 @@ decorrente das condições de mercado;
 
 c) A reabertura de série não pode alcançar um público investidor diferente do público original;
 
-d) O instrumento de emissão do valor mobiliário ofertado inicialmente ( oferta inicial da série)
+d) O instrumento de emissão do valor mobiliário ofertado inicialmente (oferta inicial da série)
 
 deve conter a previsão de reabertura de série, especificando o volume e o prazo da oferta dos
 
 novos títulos a serem emitidos na reabertura de série e descrever a possibilidade de prioridade
 
-na alocação dos atuais investidores ( investidores da oferta inicial da série ) quando da
+na alocação dos atuais investidores (investidores da oferta inicial da série) quando da
 
 reabertura de série;
 
 e) As comunicações aos titulares de valores mobiliários acerca do exercício do direito de
 
-prioridade na alocação no âmbito da reabertura de série devem ser feita s nos sites da CVM
+prioridade na alocação no âmbito da reabertura de série devem ser feitas nos sites da CVM
 
 (Empresas.Net), da emissora e do agente fiduciário, sendo recomendável adicionalmente
 
-algum tipo de comunicação direta com os investidores nos canais usuais (e -mail ou outro);
+algum tipo de comunicação direta com os investidores nos canais usuais (e-mail ou outro);
 
 f) Os documentos da oferta inicial devem especificar qual será a destinação de recursos em uma
 
@@ -2450,7 +2454,7 @@ inicial;
 
 g) A documentação da oferta de reabertura de série deve ser elaborada a partir da atualização
 
-dos documentos da oferta inicial ( prospecto e lâmina);
+dos documentos da oferta inicial (prospecto e lâmina);
 
 h) A oferta da reabertura de série deve fazer referência, no prospecto e na lâmina, aos números
 
@@ -2470,29 +2474,29 @@ Finalmente, cabe ressaltar a possibilidade de reabertura de séries nas ofertas 
 
 profissionais e qualificados, embora esse não seja um requisito necessário para condução de ofertas
 
-em rito automático para esse público -alvo. Ademais, destaca mos que as características elencadas
+em rito automático para esse público-alvo. Ademais, destacamos que as características elencadas
+
+32
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-33
-
 nesta seção são uma recomendação de boas práticas para todas as ofertas públicas em que haja
 
-reabertura de séries, ainda que não destinadas ao público investidor em geral .
+reabertura de séries, ainda que não destinadas ao público investidor em geral.
 
 2.3.3. Regras de restrição à negociação
 
 Valores mobiliários que tenham sido objeto de oferta pública conduzida sob o rito automático de
 
-registro e com restrição de público -alvo, devem observar as regras de restrição à negociação por
+registro e com restrição de público-alvo, devem observar as regras de restrição à negociação por
 
 público-alvo previstas no art. 86 da Resolução CVM nº 160/2022.
 
 Caso tais valores mobiliários sejam objeto de oferta pública subsequente em rito automático com
 
-restrição de público -alvo, mas haja fungibilidade entre as cotas ofertadas anteriormente e aquelas
+restrição de público-alvo, mas haja fungibilidade entre as cotas ofertadas anteriormente e aquelas
 
-objeto da oferta a ser realizada, alguns aspectos devem ser o bservados.
+objeto da oferta a ser realizada, alguns aspectos devem ser observados.
 
 Nesse sentido, em se tratando de oferta de mesmo valor mobiliário objeto de oferta anterior
 
@@ -2518,19 +2522,19 @@ O art. 86 da Resolução CVM nº 160/2022 dispõe sobre a possibilidade de negoc
 
 mobiliários distribuídos por meio do rito automático de registro, nos termos do art. 26 da mesma
 
-Resolução, estabelecendo períodos de vedação à negociação junto a determinados públicos -alvo a
+Resolução, estabelecendo períodos de vedação à negociação junto a determinados públicos-alvo a
 
 depender do direcionamento inicial da oferta.
 
 Nada obstante, ressaltamos que além dos períodos de vedação acima mencionados, para que um
 
-valor mobiliário possa ser negociado junto a determinado público -alvo, deve-se observar também
+valor mobiliário possa ser negociado junto a determinado público-alvo, deve-se observar também
 
 eventual disposição que porventura exista em regulamentação específica que trate do valor
 
 mobiliário distribuído.
 
-Como exemplos não exaustivos, menciona -se os requisitos constantes: (i) do art. 4º do Anexo
+Como exemplos não exaustivos, menciona-se os requisitos constantes: (i) do art. 4º do Anexo
 
 Normativo I da Resolução CVM nº 60/2021, para as ofertas de CRI; e (ii) art. 7º do Anexo Normativo
 
@@ -2540,7 +2544,7 @@ Tais dispositivos estabelecem requisitos a serem observados no âmbito de opera�
 
 para que tais valores mobiliários possam ser negociados junto ao público investidor em geral e
 
-precisam ser plenamente observados para que um CRI ou um CRA dist ribuídos junto a investidores
+precisam ser plenamente observados para que um CRI ou um CRA distribuídos junto a investidores
 
 profissionais ou qualificados possam chegar a ser negociados junto ao público investidor mais
 
@@ -2548,15 +2552,15 @@ amplo, ainda que os períodos de vedação à negociação estabelecidos pelo ar
 
 nº 160/2022 tenham sido plenamente observados.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+33
 
-34
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Portanto, se um CRI ou CRA tiver lastro único em dívida de emissão de uma companhia de capital
 
 fechado, não haveria a possibilidade de esses valores mobiliários serem negociados junto ao público
 
-investidor em geral, uma vez que não seria observado o dispos to no inciso II do parágrafo único do
+investidor em geral, uma vez que não seria observado o disposto no inciso II do parágrafo único do
 
 art. 4º do Anexo Normativo I da Resolução CVM nº 60/2021, no caso dos CRI, bem como o disposto
 
@@ -2578,7 +2582,7 @@ de emissor nas categorias A ou B, devem ser observados os períodos de restriç�
 
 (lockup) considerados para os emissores registrados que realizam ofertas de dívida, previstas no
 
-inciso V, alínea a do art. 26, exclusivamente para investidores profissionais , conforme previstos no
+inciso V, alínea a do art. 26, exclusivamente para investidores profissionais, conforme previstos no
 
 art. 86, inciso II, sendo tais períodos de restrição igualmente contados a partir do encerramento
 
@@ -2586,7 +2590,7 @@ da oferta.
 
 2.3.6. Análise prévia por Entidade Autorreguladora e rito automático de registro
 
-Como visto no início da seção “2.3 Rito de registro automático de distribuição ”, o art. 26 da
+Como visto no início da seção “2.3 Rito de registro automático de distribuição”, o art. 26 da
 
 Resolução CVM nº 160/2022 lista os tipos de ofertas que podem seguir o rito de registro automático
 
@@ -2602,25 +2606,25 @@ Com base nessa previsão foi celebrado Acordo de Cooperação Técnica com a Ass
 
 das Entidades dos Mercados Financeiro e de Capitais - ANBIMA para realizar análises prévias e
 
-elaborar relatórios técnicos relativos a pedidos de registro de oferta s públicas de distribuição,
+elaborar relatórios técnicos relativos a pedidos de registro de ofertas públicas de distribuição,
 
 inicialmente dos seguintes valores mobiliários:
 
 (i) Debêntures simples e notas promissórias de companhias registradas e operacionais para
 
-público em geral;
+(ii) (iii) (iv) público em geral;
 
-(ii) Ações, bônus de subscrição, debêntures conversíveis ou permutáveis e units sobre esses
+Ações, bônus de subscrição, debêntures conversíveis ou permutáveis e units sobre esses
 
-valores mobiliários, de companhias registradas e operacionais : para todos os públicos, nas
+valores mobiliários, de companhias registradas e operacionais: para todos os públicos, nas
 
 ofertas iniciais, e para o público em geral, nas ofertas subsequentes;
 
-(iii) CRI, CRA, CR e Outros Títulos de Securitização de companhias securitizadoras registradas
+CRI, CRA, CR e Outros Títulos de Securitização de companhias securitizadoras registradas
 
 para público em geral;
 
-(iv) Cotas de fundos de investimento imobiliário, Fiagros, FIDC e FI -Infra (para os 3 últimos
+Cotas de fundos de investimento imobiliário, Fiagros, FIDC e FI-Infra (para os 3 últimos
 
 incluindo os FICs), para público em geral em ofertas iniciais ou ofertas subsequentes em
 
@@ -2630,15 +2634,15 @@ A lista atualizada e completa de ofertas sujeitas à análise previa pela ANBIMA
 
 página da entidade na internet.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+34
 
-35
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 As ofertas submetidas à análise prévia pela ANBIMA podem iniciar a fase a mercado durante essa
 
 análise desde que submetam à CVM o requerimento de registro de oferta pública com
 
-disponibilização do Aviso a Mercado no Sistema SRE . Nesses casos , deve ser selecionado um
+disponibilização do Aviso a Mercado no Sistema SRE. Nesses casos, deve ser selecionado um
 
 requerimento “com bookbuilding” o que permite que a oferta tenha uma fase a mercado antes do
 
@@ -2650,9 +2654,9 @@ pela ANBIMA que não aponte óbice ou condições para o deferimento do registro
 
 nos termos do inciso II do § 7º do art. 27 da Resolução CVM nº 160/2022.
 
-A adoção d e análise prévia por entidade autorreguladora para possibilitar o registro automático na
+A adoção de análise prévia por entidade autorreguladora para possibilitar o registro automático na
 
-CVM é uma faculdade conferida aos coordenadores de ofertas públicas , que poderão sempre optar
+CVM é uma faculdade conferida aos coordenadores de ofertas públicas, que poderão sempre optar
 
 pelo uso do rito de registro ordinário diretamente junto à CVM.
 
@@ -2662,7 +2666,7 @@ análise prévia, sem óbice, feita por entidade autorreguladora em alguma ofert
 
 investimento registrada ao amparo da Resolução CVM nº 160/2022 qualifica o fundo para realizar
 
-ofertas subsequentes de cotas para o público em geral em rito automático, conforme previ sto no art.
+ofertas subsequentes de cotas para o público em geral em rito automático, conforme previsto no art.
 
 26, inciso VII alínea ‘c’ da Resolução CVM nº 160/2022.
 
@@ -2712,9 +2716,9 @@ parte do ofertante, caberá à SRE, ou à entidade autorreguladora, conforme o c
 
 requerimento do registro ou ao pleito de análise prévia.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+35
 
-36
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Nas situações previstas no parágrafo anterior, é possível a manutenção do caráter reservado por parte
 
@@ -2750,7 +2754,9 @@ irão subsidiar a oferta de distribuição, o faça mantendo a reserva em relaç
 
 Ao submeter um pedido de registro de oferta pública de distribuição, através do Sistema SRE, deve
 
-ser selecionada a opção “Análise Reservada”, de modo que o pedido de registro e os seus documentos
+ser selecionada a opção “Análise Reservada”
+
+, de modo que o pedido de registro e os seus documentos
 
 possam ser tratados sob reserva, nos termos previstos na Resolução CVM nº 160/2022.
 
@@ -2780,7 +2786,7 @@ secundária.
 
 2.5. Dispensas de registro e de requisitos de registro das ofertas públicas
 
-As Resoluções CVM nº 160/2022 ( ofertas de distribuição ) e CVM nº 215/2024 (OPA) preveem a
+As Resoluções CVM nº 160/2022 (ofertas de distribuição) e CVM nº 215/2024 (OPA) preveem a
 
 possibilidade de dispensas de requisitos de registro, e até do próprio registro (no caso da Resolução
 
@@ -2794,9 +2800,9 @@ da oferta pública de distribuição deverá ser preenchido pelo coordenador lí
 
 fundamentos que apontem a existência de interesse público, a presença de adequada informação e a
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+36
 
-37
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 preservação da proteção ao investidor, conforme art. 43 da Resolução CVM nº 160/2022 e na forma
 
@@ -2806,15 +2812,15 @@ A análise do pedido de dispensa de requisitos será realizada previamente ao in
 
 requerimento do registro, cujos prazos, apartados, serão os mesmos previstos para a análise do rito
 
-de registro ordinário de distribuição, previstos nos art igos 36 a 38 da Resolução CVM nº 160/2022.
+de registro ordinário de distribuição, previstos nos artigos 36 a 38 da Resolução CVM nº 160/2022.
 
 Em relação à Resolução CVM nº 215/2024, a própria norma dispõe sobre situações em que requisitos
 
-estariam automaticamente dispensados, como aquelas previstas pelo art. 21 ( elaboração de laudo de
+estariam automaticamente dispensados, como aquelas previstas pelo art. 21 (elaboração de laudo de
 
-avaliação) e pelos artigos 26 e 27 (realização de leilão em ambiente de mercado organizado) . Nada
+avaliação) e pelos artigos 26 e 27 (realização de leilão em ambiente de mercado organizado). Nada
 
-obstante, para os casos que cuja dispensa não esteja expressamente delimitad a na norma, há a
+obstante, para os casos que cuja dispensa não esteja expressamente delimitada na norma, há a
 
 possibilidade de se pleiteá-la ou se adotar procedimentos diferenciados, nos termos do art. 70, desde
 
@@ -2822,11 +2828,11 @@ que tais pleitos sejam submetidos à análise da SRE juntamente com o requerimen
 
 OPA, nos casos de rito ordinário, ou anteriormente ao requerimento de registro da OPA, via consulta
 
-sigilosa de que trata m os artigos 67 a 69 , nos casos de rito automático. Tais pleitos poderão ser
+sigilosa de que tratam os artigos 67 a 69, nos casos de rito automático. Tais pleitos poderão ser
 
-aprovados diretamente pela SRE, caso tenham características similares a pedido s aprovados
+aprovados diretamente pela SRE, caso tenham características similares a pedidos aprovados
 
-anteriormente pelo Colegiado da CVM , ou, do contrário, deverão ser submetidos à aprovação do
+anteriormente pelo Colegiado da CVM, ou, do contrário, deverão ser submetidos à aprovação do
 
 referido Colegiado. No caso dos pleitos de unificação de diferentes modalidades de OPA, a norma
 
@@ -2838,7 +2844,7 @@ A modificação de oferta é caracterizada no art. 67 da Resolução CVM nº 160
 
 ressaltar que a alteração de documentação quando a oferta ainda não se encontra na fase a mercado
 
-não denota modificação de oferta, sem prejuízo da eventual ap licação da hipótese de fato novo, no
+não denota modificação de oferta, sem prejuízo da eventual aplicação da hipótese de fato novo, no
 
 caso de ofertas que sigam o rito ordinário, conforme previsto no § 8º do art. 38 da mesma Resolução,
 
@@ -2854,9 +2860,9 @@ documentos delimitam fases da oferta, de modo que, se já divulgados, não devem
 
 Toda modificação de oferta, ao ser implementada, deve ser acompanhada da adoção do
 
-procedimento previsto pelo § 1º do art. 69 da Resolução CVM nº 160/2022 ( abertura de prazo de
+procedimento previsto pelo § 1º do art. 69 da Resolução CVM nº 160/2022 (abertura de prazo de
 
-desistência aos investidores eventualmente vinculados ), com exceção apenas das modificações de
+desistência aos investidores eventualmente vinculados), com exceção apenas das modificações de
 
 oferta que sejam benéficas aos investidores ou que sejam implementadas em função de renúncia a
 
@@ -2868,7 +2874,7 @@ Com relação às exceções acima mencionadas, cumpre salientar que a SRE poder
 
 adoção do procedimento previsto no § 1º do art. 67 da Resolução CVM nº 160/2022, caso entenda
 
-que a modificação de oferta implementada não é benéfica aos investidores .
+que a modificação de oferta implementada não é benéfica aos investidores.
 
 Quanto às alterações no cronograma de uma oferta, entendemos que devem ser tratadas como
 
@@ -2876,15 +2882,15 @@ modificação de oferta apenas aquelas que alterem datas importantes para os inv
 
 período de reservas, período de coleta de intenções de investimento, data do procedimento de
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+37
 
-38
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 alocação, período de exercício de direito de preferência, período de negociação de direito de
 
 preferência, período de subscrição, data de liquidação, entre outras que possam afetar a decisão de
 
-investimento. Nessa linha, em ofertas destinadas exclusivament e a investidores profissionais,
+investimento. Nessa linha, em ofertas destinadas exclusivamente a investidores profissionais,
 
 quando usualmente as intenções de investimento não são irrevogáveis, nosso entendimento é de que
 
@@ -2894,13 +2900,13 @@ Ainda sobre alteração em cronograma de oferta, a despeito de uma modificação
 
 origine exclusivamente de alterações em seu cronograma não requerer aprovação prévia da SRE, é
 
-nosso entendimento que alterações no cronograma da oferta que se en quadrem como modificação
+nosso entendimento que alterações no cronograma da oferta que se enquadrem como modificação
 
 de oferta, conforme explicitamos no parágrafo acima, não devem ser consideradas como benéficas
 
 aos investidores, devendo em todos os casos serem acompanhadas do procedimento previsto pelo §
 
-1º do art. 69 da Resolução CVM nº 160/202 2.
+1º do art. 69 da Resolução CVM nº 160/2022.
 
 Com relação à previsão constante dos §§ 8º e 9º do art. 67 da Resolução CVM nº 160/2022, que
 
@@ -2924,13 +2930,13 @@ Resolução CVM nº 160/2022 prevê que “Tendo sido deferida a modificação, 
 
 vez, por sua própria iniciativa ou a requerimento do ofertante, prorrogar o prazo de distribuição
 
-da oferta por até 90 (noventa) dias” .
+da oferta por até 90 (noventa) dias”.
 
 Ademais, o § 8º do mesmo artigo prevê que as modificações de oferta que sejam benéficas aos
 
 investidores ou que sejam implementadas em função de renúncia a condição estabelecida pelo
 
-ofertante para realização da oferta, as quais não dependem de aprovação p révia da SRE, podem
+ofertante para realização da oferta, as quais não dependem de aprovação prévia da SRE, podem
 
 também contar, nos termos do inciso II do § 9º do mesmo artigo, com requerimento do ofertante
 
@@ -2966,9 +2972,9 @@ a ser realizado pelo ofertante deverá ser direcionado à SRE por meio do Sistem
 
 com o pedido de modificação da oferta.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+38
 
-39
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 A seguir, prestamos orientações específicas para os casos de modificação de oferta conforme o rito
 
@@ -2982,7 +2988,7 @@ As modificações de ofertas ocorridas após a concessão do registro, no caso d
 
 o rito ordinário de registro, devem ser previamente aprovadas pela SRE, a não ser que contemplem
 
-apenas alterações no cronograma, melhoria da oferta em fav or dos investidores ou renúncia à
+apenas alterações no cronograma, melhoria da oferta em favor dos investidores ou renúncia à
 
 condição da oferta estabelecida pelo ofertante, conforme preveem os §§ 1º e 8º do art. 67 da Resolução
 
@@ -2996,7 +3002,7 @@ minutas dos documentos alterados, com suas respectivas versões marcadas, bem co
 
 Comunicado ao Mercado a ser divulgado quando da implementação da modificação, o qual deverá
 
-dar destaque às alterações implementadas. Nesse caso de ve também ser encaminhado o documento
+dar destaque às alterações implementadas. Nesse caso deve também ser encaminhado o documento
 
 de aceitação da oferta, no qual se identifique o atendimento ao que prevê o art. 69 da Resolução CVM
 
@@ -3016,7 +3022,7 @@ das constantes do registro, conforme inciso I do art. 70 da Resolução CVM nº 
 
 obstante, para as ofertas que já estejam a mercado (que tiveram Aviso ao Mercado ou Anúncio de
 
-Início divulgados) deverá ser divulg ado, via Sistema SRE, Comunicado ao Mercado, quando do
+Início divulgados) deverá ser divulgado, via Sistema SRE, Comunicado ao Mercado, quando do
 
 protocolo do pedido de modificação de oferta, informando aos investidores que um pleito de
 
@@ -3028,13 +3034,13 @@ Vale pontuar que caso o rito de análise do pedido de modificação de oferta po
 
 a execução do cronograma da oferta, alterando datas importantes para o investidor, tais como período
 
-de reservas, período de coleta de intenções de investime nto, data do procedimento de alocação,
+de reservas, período de coleta de intenções de investimento, data do procedimento de alocação,
 
 período de exercício de direito de preferência, período de negociação de direito de preferência,
 
 período de subscrição, data de liquidação, entre outras, o procedimento previsto pelo § 1º do art. 69
 
-da Resolução CVM n º 160/2022 deve ser adotado quando do requerimento da modificação (com
+da Resolução CVM nº 160/2022 deve ser adotado quando do requerimento da modificação (com
 
 consequente divulgação de Comunicado ao Mercado nesse sentido, via Sistema SRE, junto ao pedido
 
@@ -3050,9 +3056,9 @@ Sistema SRE quando de sua divulgação, para que fiquem disponíveis ao mercado,
 
 demais documentos que foram disponibilizados por meio desse sistema durante a fase de registro da
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+39
 
-40
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 oferta. Novamente se faz necessário o envio do documento de aceitação da oferta, conforme orientado
 
@@ -3078,7 +3084,7 @@ A depender das alterações implementadas, poderá ainda a SRE entender que houv
 
 fins do rito de análise, conforme previsto na Subseção IV da Seção III do Capítulo IV da Resolução
 
-CVM nº 160/2022, o que estenderá o prazo de análise da SRE. Cu mpre lembrar que a ocorrência de
+CVM nº 160/2022, o que estenderá o prazo de análise da SRE. Cumpre lembrar que a ocorrência de
 
 fato novo deve ser comunicada pela SRE dentro dos prazos previstos nos §§ 4º e 7º do art. 38 da
 
@@ -3090,7 +3096,7 @@ As modificações de oferta realizadas anteriormente ao registro deverão ter se
 
 encaminhados à SRE por meio do Sistema SRE, em suas versões finais e marcadas, conforme áreas
 
-especificadas na aba “ Envio de Documentos ” do requerimento eletrônico de registro, assim como
+especificadas na aba “Envio de Documentos” do requerimento eletrônico de registro, assim como
 
 todos os documentos que serão encaminhados para fins do pedido de registro da oferta.
 
@@ -3110,7 +3116,7 @@ SRE.
 
 2.7. Suspensão de ofertas públicas de distribuição de valores mobiliários
 
-Nos termos do art. 70 da Resolução CVM nº 160/2022 , a CVM poderá suspender ou cancelar, a
+Nos termos do art. 70 da Resolução CVM nº 160/2022, a CVM poderá suspender ou cancelar, a
 
 qualquer tempo, a oferta de distribuição que: (i) esteja se processando em condições diversas das
 
@@ -3122,15 +3128,15 @@ sobre as regras, procedimentos e controles internos a serem observados na interm
 
 ou (iii) tenha sido havida por ilegal, contrária à regulamentação da CVM ou fraudulenta, ainda que
 
-após obtido o respectivo registro .
+após obtido o respectivo registro.
 
 A suspensão das ofertas públicas de distribuição é realizada pela Superintendência de Registro de
 
 Valores Mobiliários – SRE, quando presentes os elementos citados.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+40
 
-41
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 O prazo de suspensão da oferta não poderá ser superior a 30 dias, durante o qual a irregularidade
 
@@ -3146,13 +3152,13 @@ ser encaminhado à SRE e será analisado no prazo de até 5 dias úteis.
 
 A resilição voluntária do contrato de distribuição não implica revogação da oferta, mas sua suspensão,
 
-até que novo contrato de distribuição seja firmado , dentro do prazo de 30 dias estabelecido no § 2º do
+até que novo contrato de distribuição seja firmado, dentro do prazo de 30 dias estabelecido no § 2º do
 
 art. 70 da Resolução CVM nº 160/2022. Destacamos que é possível a resilição do contrato de distribuição
 
 com o coordenador líder, entretanto, caso seja firmado contrato de distribuição com novo coordenador
 
-líder, deverá ser dado o tratamento de modificação de oferta quando da revogação da suspensão .
+líder, deverá ser dado o tratamento de modificação de oferta quando da revogação da suspensão.
 
 Cumpre ainda lembrar que dentre as obrigações previstas para o coordenador líder de uma oferta
 
@@ -3160,7 +3166,7 @@ encontra-se o dever de “suspender a oferta na ocorrência de qualquer fato ou 
 
 inclusive após a obtenção do registro, que venha a justificar a suspensão ou o cancelamento do
 
-registro, durante o prazo máximo citado no § 2º do art. 70, aplicando -se ainda o procedimen to
+registro, durante o prazo máximo citado no § 2º do art. 70, aplicando-se ainda o procedimento
 
 previsto no art. 71”, nos termos do inciso XII do art. 83 da Resolução CVM 160.
 
@@ -3168,7 +3174,7 @@ Essa obrigação do coordenador líder se aplica a qualquer oferta, seja ela de 
 
 automático, devendo haver atenção constante no âmbito das ofertas para a identificação de eventual
 
-irregularidade que deva de pronto ser tratada, independentemente da atuação da CVM .
+irregularidade que deva de pronto ser tratada, independentemente da atuação da CVM.
 
 2.8. Orientações para elaboração do prospecto e demais documentos da oferta
 
@@ -3178,7 +3184,7 @@ A Resolução CVM nº 160/2022 prevê, como regra geral, que todas as ofertas de
 
 investidores que não sejam profissionais, inclusive nas ofertas que sigam o rito automático, sem ou
 
-com análise prévia por entidade autorreguladora, apresentem Lâmina e Prospecto. A s exceções são
+com análise prévia por entidade autorreguladora, apresentem Lâmina e Prospecto. As exceções são
 
 aquelas constantes dos incisos II e III do art. 9º da Resolução CVM nº 160/2022.
 
@@ -3194,13 +3200,13 @@ Isso não significa excluir informações complexas para tornar o documento mais
 
 Para que os investidores tomem decisões informadas, os documentos de divulgação devem transmitir
 
-informações complexas de forma didática, garantindo a apresent ação ordenada e clara de
+informações complexas de forma didática, garantindo a apresentação ordenada e clara de
 
-informações complexas para que os investidores possam entendê -las.
+informações complexas para que os investidores possam entendê-las.
 
 A Lâmina, cujas principais características estão descritas no art. 23 da Resolução CVM nº 160/2022,
 
-tem por objetivo sintetizar o conteúdo do Prospecto e apresentar, de forma padronizada , conforme
+tem por objetivo sintetizar o conteúdo do Prospecto e apresentar, de forma padronizada, conforme
 
 os modelos e requisitos de tópicos abordados nos Anexos F a J da mesma Resolução, as
 
@@ -3208,9 +3214,9 @@ características essenciais da oferta, a natureza e os riscos associados ao emis
 
 valores mobiliários.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+41
 
-42
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Além disso, a Lâmina deve ser escrita de forma clara, concisa e efetiva de forma que o investidor
 
@@ -3218,9 +3224,9 @@ possa compreender a oferta, permitindo a leitura em dispositivos eletrônicos m�
 
 aplicativos em geral de forma a possibilitar a comparação com alternativas de investimento à oferta.
 
-Tanto a L âmina quanto o Prospecto não são materiais publicitários. Ambos são documentos de
+Tanto a Lâmina quanto o Prospecto não são materiais publicitários. Ambos são documentos de
 
-informações e dados sobre a oferta, direcionado s aos investidores. Ele s devem conter informações
+informações e dados sobre a oferta, direcionados aos investidores. Eles devem conter informações
 
 necessárias e suficientes para permitir que os investidores possam tomar criteriosamente a sua
 
@@ -3244,9 +3250,9 @@ sempre vir acompanhadas da indicação de suas fontes.
 
 Nos termos do art. 18 da Resolução CVM nº 160/2022, o Prospecto deve obrigatoriamente ser
 
-apresentado na ordem disposta , conforme o tipo de valor mobiliário, nos Anexos de A até F da
+apresentado na ordem disposta, conforme o tipo de valor mobiliário, nos Anexos de A até F da
 
-Resolução CVM nº 160/2022 , mantendo a nomenclatura das seções e subseções , não podendo elas
+Resolução CVM nº 160/2022, mantendo a nomenclatura das seções e subseções, não podendo elas
 
 serem suprimidas, alteradas ou renomeadas. No caso de seções não aplicáveis, deve ser incluída a
 
@@ -3256,9 +3262,9 @@ Orientamos os ofertantes que não devem ser incluídas no Prospecto informaçõe
 
 importantes para garantir que o documento seja um retrato verdadeiro, preciso e completo de sua
 
-situação econômico -financeira e dos riscos inerentes às suas atividades e aos valores mobiliários
+situação econômico-financeira e dos riscos inerentes às suas atividades e aos valores mobiliários
 
-ofertados, tais como r epetições de textos legais, de notas explicativas e de partes de outros
+ofertados, tais como repetições de textos legais, de notas explicativas e de partes de outros
 
 documentos.
 
@@ -3266,7 +3272,7 @@ As informações constantes de estatutos, regulamento de fundo, escritura de deb
 
 securitização, documentos obrigatoriamente anexados ao Prospecto, que necessitem ser
 
-apresentadas também no corpo do prospecto, devem ser sintetizadas e alocad as por referência,
+apresentadas também no corpo do prospecto, devem ser sintetizadas e alocadas por referência,
 
 evitando-se as puras repetições de texto.
 
@@ -3286,13 +3292,13 @@ O Prospecto Preliminar deve ser disponibilizado pelo emissor/ofertante e pelos i
 
 juntamente com a divulgação do Aviso ao Mercado, como disposto no art. 57 da Resolução CVM
 
-nº 160/2022. O Prospecto Preliminar deverá estar disponível para os inv estidores pelo menos 5 dias
+nº 160/2022. O Prospecto Preliminar deverá estar disponível para os investidores pelo menos 5 dias
 
 úteis antes do prazo inicial para o recebimento de reservas.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+42
 
-43
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 O Prospecto Preliminar não deve ter lacunas quando da publicação do Aviso ao Mercado.
 
@@ -3300,17 +3306,19 @@ O Prospecto Definitivo deve ser disponibilizado pelo emissor/ofertante e pelos i
 
 juntamente com a divulgação do Anúncio de Início. O Prospecto Definitivo deverá estar disponível
 
-para os investidores pelo menos 5 dias úteis antes do prazo inici al para a aceitação da oferta, se não
+para os investidores pelo menos 5 dias úteis antes do prazo inicial para a aceitação da oferta, se não
 
 houver sido utilizado Prospecto Preliminar. Ver seção “2.1.1 Marcos temporais das ofertas
 
-públicas”.
+públicas”
+
+.
 
 Os Prospectos devem ser disponibilizados nos websites da CVM (via Sistema SRE), da emissora,
 
 do ofertante, dos mercados onde os valores mobiliários sejam negociados e de todas as instituições
 
-intermediárias participantes da operação, em atendimento ao disp osto no art. 13 da Resolução CVM
+intermediárias participantes da operação, em atendimento ao disposto no art. 13 da Resolução CVM
 
 nº 160/2022.
 
@@ -3318,7 +3326,7 @@ O Aviso ao Mercado e o Anúncio de Início devem ser disponibilizados nos mesmos
 
 Prospectos, conforme parágrafo anterior, juntamente com a divulgação, respectivamente, do
 
-Prospecto Preliminar e do Prospecto Definitivo. O Anúncio de Encerramento de ve igualmente ser
+Prospecto Preliminar e do Prospecto Definitivo. O Anúncio de Encerramento deve igualmente ser
 
 disponibilizado nos mesmos locais quando do encerramento da oferta.
 
@@ -3330,7 +3338,7 @@ Alertamos para o disposto no inciso IV do art. 96 da Resolução CVM nº 160/202
 
 infração grave, para efeitos do § 3º do art. 11 da Lei nº 6.386/1976, a não observância do disposto
 
-no art. 13 da mesma Resolução, o qual determina que a document ação da oferta esteja disponível
+no art. 13 da mesma Resolução, o qual determina que a documentação da oferta esteja disponível
 
 aos investidores na página da rede mundial de computadores dos participantes da oferta. Observamos
 
@@ -3342,7 +3350,7 @@ Observamos que a entrega, para análise da SRE, de Prospecto contendo lacunas ou
 
 minuta, nos casos de ofertas que sigam o rito de registro ordinário, pode ensejar a aplicação do
 
-disposto no § 1º do art. 37 da Resolução CVM nº 160/2022, ou exigên cias complementares acerca
+disposto no § 1º do art. 37 da Resolução CVM nº 160/2022, ou exigências complementares acerca
 
 de questões não suscitadas em um ofício de exigências, bem como dilação no prazo de análise do
 
@@ -3352,11 +3360,11 @@ Além disso, ao completar eventuais lacunas, caso sejam incluídas informações
 
 especialmente em relação à estrutura da oferta, deverá ser verificado se tal inclusão tem reflexos em
 
-outras seções do Prospecto que, se for o caso, deverão ser ajusta das de acordo.
+outras seções do Prospecto que, se for o caso, deverão ser ajustadas de acordo.
 
 2.8.3. Prospecto Preliminar e Prospecto Definitivo
 
-O Prospecto Preliminar , quando exigido, deve ser usado nas ofertas públicas de distribuição nas
+O Prospecto Preliminar, quando exigido, deve ser usado nas ofertas públicas de distribuição nas
 
 quais haja a necessidade de se dar publicidade à oferta antes do registro, englobando ou não a
 
@@ -3364,7 +3372,7 @@ realização de bookbuilding e/ou o recebimento de reserva anterior à concessã
 
 ou seja, nas ofertas que precisem fazer uso da fase “oferta a mercado” antes da obtenção do registro.
 
-O Prospecto Definitivo , quando exigido, será usado em todas as ofertas públicas de distribuição,
+O Prospecto Definitivo, quando exigido, será usado em todas as ofertas públicas de distribuição,
 
 depois de concedido o registro pela CVM, contendo o número e a data do registro.
 
@@ -3372,11 +3380,11 @@ Em princípio, o conteúdo do Prospecto Definitivo se diferencia do Prospecto Pr
 
 preenchimento das lacunas com os dados finais da oferta (preço, quantidade, informações sobre lotes
 
-adicional e suplementar entre os principais ) e o número do registro da oferta na CVM. Caso haja
+adicional e suplementar entre os principais) e o número do registro da oferta na CVM. Caso haja
+
+43
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-44
 
 divergência relevante entre as informações constantes do Prospecto Preliminar e do Prospecto
 
@@ -3396,13 +3404,13 @@ Os responsáveis das pessoas jurídicas que assinarem a declaração do art. 24 
 
 2.8.5. Informações não aplicáveis
 
-Caso uma informação solicitada no s Anexos A até J da Resolução CVM nº 160/2022 não seja
+Caso uma informação solicitada nos Anexos A até J da Resolução CVM nº 160/2022 não seja
 
 aplicável ao emissor em função de suas características, a inaplicabilidade deverá ser justificada na
 
 seção específica do Prospecto ou da Lâmina, considerando que não pode haver supressão das seções
 
-e subseções indicadas nos Anexos A a J .
+e subseções indicadas nos Anexos A a J.
 
 2.8.6. Orientações para o preenchimento do Prospecto
 
@@ -3410,7 +3418,7 @@ A Resolução CVM nº 160/2022, nos Anexos “A” até “E”, apresenta por t
 
 características que devem ser apresentadas no Prospecto e nos Anexos “F” até “J” as características,
 
-resumidas, que devem constar nas Lâminas, também por tipo d e valor mobiliário.
+resumidas, que devem constar nas Lâminas, também por tipo de valor mobiliário.
 
 2.8.6.1. Capa
 
@@ -3438,7 +3446,7 @@ Os textos dos Alertas expressamente determinados nos Anexos “A” até “E”
 
 160/2022, conforme o tipo de valor mobiliário da oferta, devem vir expressos na íntegra e com
 
-destaque gráfico (em negrito, caixa alta e com fonte dois pontos acim a do restante do texto), não
+destaque gráfico (em negrito, caixa alta e com fonte dois pontos acima do restante do texto), não
 
 sendo permitido adicioná-los com comentários.
 
@@ -3446,9 +3454,9 @@ Quando houver nota de classificação de risco para o valor mobiliário ofertado
 
 na capa. Se a classificação de risco for preliminar, isto deve estar especificado.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+44
 
-45
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Nas ofertas em que haja previsão de procedimento de bookbuilding para fixação de preço, o valor da
 
@@ -3456,7 +3464,7 @@ emissão pode não estar evidenciado na capa do Prospecto Preliminar, apresentan
 
 faixa de preços, esclarecendo que a faixa de preço é apenas indicativa, podendo ser alterada para mais
 
-ou para menos na con clusão do bookbuilding. Nos casos em que houver previsão de realizar
+ou para menos na conclusão do bookbuilding. Nos casos em que houver previsão de realizar
 
 procedimento de bookbuilding para definição da taxa de remuneração do valor mobiliário ofertado,
 
@@ -3470,15 +3478,17 @@ nominal de cada um dos Acionistas Vendedores, com a descrição individual da qu
 
 a serem ofertadas por cada um e os recursos líquidos obtidos com a referida alienação.
 
-No caso de valores mobiliários que contem com benefícios fiscais, observar as disposições d a seção
+No caso de valores mobiliários que contem com benefícios fiscais, observar as disposições da seção
 
-“2.11.1 Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais”.
+“2.11.1 Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais”
+
+.
 
 2.8.6.2. Índice
 
 Recomenda-se a elaboração de índice completo, informando, também, as páginas das subseções, de
 
-forma a que todo o conteúdo possa ser facilmente encontrado , com correspondente hiperlink para o
+forma a que todo o conteúdo possa ser facilmente encontrado, com correspondente hiperlink para o
 
 direcionamento à página que se queira acessar.
 
@@ -3504,7 +3514,7 @@ exigidas no respectivo Anexo à Resolução CVM nº 160/2022 a depender do tipo 
 
 ofertado e se limitar a 15 páginas.
 
-Deverá ser abordado também aspectos relevantes do plano de distribuição tais como , mas não se
+Deverá ser abordado também aspectos relevantes do plano de distribuição tais como, mas não se
 
 restringindo a: (i) os critérios de rateio que serão observados, (ii) se no processo de fixação do preço,
 
@@ -3514,9 +3524,9 @@ de pessoas vinculadas à distribuição e o detalhamento de como poderá se dar 
 
 como alerta aos investidores para o risco de má formação de preço ou de liquidez dos valores
 
-mobiliários no mercado secundário , (iii) as formas de comunicação escrita aceitas para que o
+mobiliários no mercado secundário, (iii) as formas de comunicação escrita aceitas para que o
 
-investidor possa desistir da Oferta, quando for o caso, devem ser indicadas , (iv) informação sobre
+investidor possa desistir da Oferta, quando for o caso, devem ser indicadas, (iv) informação sobre
 
 prazo para desistência da reserva ou restituição dos valores entregues pelos investidores aceitantes,
 
@@ -3524,13 +3534,13 @@ em caso de modificação ou revogação da oferta, inclusive eventual incidênci
 
 monetária sobre tais valores.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+45
 
-46
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.8.6.4. Destinação de Recursos
 
-Já no Prospecto Preliminar , quando da divulgação do Aviso ao Mercado, expor de forma clara e
+Já no Prospecto Preliminar, quando da divulgação do Aviso ao Mercado, expor de forma clara e
 
 objetiva, o percentual estimado para cada item da destinação dos recursos, bem como o impacto na
 
@@ -3550,9 +3560,11 @@ dos recursos for obtida, quais objetivos serão prioritários.
 
 No caso de valores mobiliários que contem com benefícios fiscais, observar as disposições da seção
 
-“2.11.1 Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais”.
+“2.11.1 Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais”
 
-No âmbito das ofertas de Fundos de Investimento , caso não haja ainda ativos específicos a serem
+.
+
+No âmbito das ofertas de Fundos de Investimento, caso não haja ainda ativos específicos a serem
 
 adquiridos pelo Fundo, mas haja um pipeline indicativo divulgado em outros documentos da oferta,
 
@@ -3584,7 +3596,7 @@ Nesta seção também é importante introduzir um fator de risco identificando t
 
 conflitos de interesse envolvendo as instituições intermediárias, a emissora e/ou os acionistas
 
-vendedores, inclusive, quando for o caso, os relacionados à vincul ação da remuneração das
+vendedores, inclusive, quando for o caso, os relacionados à vinculação da remuneração das
 
 instituições intermediárias ao preço por ação.
 
@@ -3600,13 +3612,13 @@ os prazos para, se for o caso, devolução e reembolso aos investidores.
 
 Deve ser mantido, sempre que possível, atualizado o cronograma das etapas da oferta ao longo do
 
-período de análise da CVM , nos casos de rito de registro ordinário ou a partir da fase “oferta a
+período de análise da CVM, nos casos de rito de registro ordinário ou a partir da fase “oferta a
 
-mercado”, nos casos de rito de registro automático .
+mercado”, nos casos de rito de registro automático.
+
+46
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-47
 
 A informação de que todas as datas previstas são meramente indicativas e estão sujeitas a alterações
 
@@ -3618,17 +3630,19 @@ Cronograma da Distribuição nas ofertas que sigam o rito ordinário de registro
 
 artigos 67 e 69 da Resolução CVM nº 160/2022. Ver seção “2.6 Dinâmica relacionada à
 
-modificação de ofertas”.
+modificação de ofertas”
+
+.
 
 Incluir informações acerca dos procedimentos que devem ser adotados no caso de suspensão,
 
-cancelamento ou modificação da Oferta, nos termos dos art igos 67 a 72 da Resolução CVM nº
+cancelamento ou modificação da Oferta, nos termos dos artigos 67 a 72 da Resolução CVM nº
 
 160/2022.
 
 2.8.6.7. Composição do Capital social
 
-No caso de oferta de ações , bônus de subscrição, debêntures conversíveis ou permutáveis em açõe s
+No caso de oferta de ações, bônus de subscrição, debêntures conversíveis ou permutáveis em ações
 
 e certificados de depósitos sobre esses valores mobiliários, deve ser apresentada tabela relacionando
 
@@ -3640,7 +3654,7 @@ quantitativos e percentuais. Na mesma tabela deve ser dado destaque aos acionist
 
 do bloco de controle. Sugerimos a inclusão de informação acerca do exercício do poder de controle
 
-após a Oferta, mencionando a possibilidade de a Companhia ser submetida a controle difus o ou
+após a Oferta, mencionando a possibilidade de a Companhia ser submetida a controle difuso ou
 
 esclarecendo se, após a Oferta, a Companhia continuará sob o grupo de controle atual.
 
@@ -3652,13 +3666,13 @@ substituição e remoção dos representantes dos Acionistas no Conselho de Admi
 
 Fiscal.
 
-Ainda, nesta seção, notadamente na subseção que trata da diluição econômica, deve ser e sclarecido
+Ainda, nesta seção, notadamente na subseção que trata da diluição econômica, deve ser esclarecido
 
 se houve ou se existe previsão para a ocorrência de desdobramento ou grupamento de ações da
 
 Companhia e em que momento isso se dará. Caso o grupamento ocorra antes da Oferta, esse fato
 
-deverá ser devidamente considerado nos cálculos de diluição e nas dema is seções aplicáveis do
+deverá ser devidamente considerado nos cálculos de diluição e nas demais seções aplicáveis do
 
 Prospecto. Também deve ser informada a diluição resultante do exercício de opções outorgadas pela
 
@@ -3672,7 +3686,7 @@ o valor patrimonial contábil por ação que conste das últimas Demonstrações
 
 A diluição dos novos investidores será representada pela diferença entre os dois valores anteriores.
 
-Ademais, deve ser apresentada a diluição percentual desses novos investidores, dividindo -se o valor
+Ademais, deve ser apresentada a diluição percentual desses novos investidores, dividindo-se o valor
 
 de diluição encontrado pelo Preço por Ação. É bem verdade que não haverá variação do valor
 
@@ -3688,23 +3702,23 @@ empregados da Companhia e/ou subsidiária, bem como dos titulares de suas repres
 
 comerciais (Alocação Prioritária).
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+47
 
-48
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.8.6.8. Relacionamentos e conflito de interesses
 
 Detalhar todo o relacionamento relevante entre os coordenadores e os ofertantes, e seus respectivos
 
-conglomerados econômicos, informando :
+conglomerados econômicos, informando:
 
 a) vínculos societários existentes;
 
 b) financiamentos, existentes ou que tenham sido liquidados nos 12 meses anteriores, e que tenham
 
-influenciado na contratação dos coordenadores para atuarem na oferta , indicando seu objeto,
+influenciado na contratação dos coordenadores para atuarem na oferta, indicando seu objeto,
 
-finalidade, datas de celebração e vencimentos, prazos, remunerações e parâmetros adotados ;
+finalidade, datas de celebração e vencimentos, prazos, remunerações e parâmetros adotados;
 
 c) indicação sucinta das transações comerciais vigentes nos 12 meses anteriores e o montante
 
@@ -3718,7 +3732,7 @@ Sobre os eventuais vínculos societários existentes, a princípio se pode enten
 
 acima de 5% deve ser reportado, não obstante o exame de cada caso conforme avaliação do
 
-Coordenador Líder em conjunto com o Ofertante, que pode revelar ser e ste percentual não
+Coordenador Líder em conjunto com o Ofertante, que pode revelar ser este percentual não
 
 significativo ou ainda, que participação em percentual inferior deva ser reportada. Ainda o vínculo
 
@@ -3746,7 +3760,7 @@ colaboradores, contas correntes de depósito e serviços de custódia e guarda d
 
 devem, em princípio, ser consideradas materiais e passíveis de disclosure no prospecto, a fim de não
 
-“poluir” a seção , sendo certo que cada coordenador deve ser responsável por avaliar quais
+“poluir” a seção, sendo certo que cada coordenador deve ser responsável por avaliar quais
 
 informações nas quais configura como parte devem ser inseridas na seção de relacionamento com
 
@@ -3758,11 +3772,11 @@ envolvendo os coordenadores e os ofertantes relacionados à vinculação da remu
 
 coordenadores ao preço da oferta e, havendo tal situação: (i) os critérios para cálculo da eventual
 
-remuneração devem ser detalhados, bem como serem incluídos na tabela de custos da distribuição ;
+remuneração devem ser detalhados, bem como serem incluídos na tabela de custos da distribuição;
 
 e (ii) deve ser feita referência cruzada ao fator de risco que aborde a excessiva dependência do
 
-coordenador em relação ao preço da oferta .
+coordenador em relação ao preço da oferta.
 
 Especialmente alertamos para que sejam aprimoradas as informações prestadas relativas às
 
@@ -3770,13 +3784,13 @@ Comissões de Incentivo ou Sucesso, as quais são bastante usuais em ofertas de 
 
 e debêntures, à luz das orientações ora prestadas.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+48
 
-49
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Deverão ser informadas as aquisições e vendas, pelos intermediários e seus respectivos
 
-conglomerados econômicos, de valores mobiliários de emissão d o ofertante primário, ocorridas no
+conglomerados econômicos, de valores mobiliários de emissão do ofertante primário, ocorridas no
 
 prazo mínimo de doze meses antecedentes ao protocolo do pedido de registro da oferta, com
 
@@ -3786,7 +3800,7 @@ indicação do objeto, preço e demais condições de cada negócio.
 
 econômicos em ofertas públicas de valores mobiliários do ofertante primário e em operações de
 
-financiamento e reestruturações societárias do grupo econômico d o ofertante primário, ocorridas no
+financiamento e reestruturações societárias do grupo econômico do ofertante primário, ocorridas no
 
 prazo mínimo de doze meses antecedentes ao protocolo do pedido de registro da oferta, informando
 
@@ -3794,11 +3808,11 @@ a remuneração recebida ou a receber e as demais características de cada opera
 
 2.8.6.9. Contrato de distribuição de valores mobiliários
 
-Nas ofertas de ações , dar destaque a eventuais cláusulas de garantias no contrato de distribuição
+Nas ofertas de ações, dar destaque a eventuais cláusulas de garantias no contrato de distribuição
 
 internacional, especialmente no que tange a eventos adversos que possam causar indenizações por
 
-parte da Companhia e que não tenham correspondência com as do contrato da oferta brasil eira.
+parte da Companhia e que não tenham correspondência com as do contrato da oferta brasileira.
 
 O local onde a cópia do contrato de distribuição estará disponível para consulta e reprodução deve
 
@@ -3808,7 +3822,7 @@ Já no Prospecto Preliminar, quando da publicação do Aviso ao Mercado, devem s
 
 valores demonstrativos dos custos de distribuição. Considerando, por exemplo, para o referido
 
-cálculo, o limite superior da faixa de preços estimada para a Ofert a como sendo o preço de emissão
+cálculo, o limite superior da faixa de preços estimada para a Oferta como sendo o preço de emissão
 
 por ação. Deve ser explicitado o critério utilizado. Adicionalmente, deve ser especificado o custo
 
@@ -3826,13 +3840,15 @@ agrupadas; os pequenos saldos poderão ser agregados, desde que indicada a sua n
 
 ultrapassem 0,1 (um décimo) do valor do respectivo grupo de contas; mas é vedada a utilização de
 
-designações genéricas, como "diversas contas" ou "contas -correntes"’.
+designações genéricas, como "diversas contas" ou "contas-correntes"’
+
+.
 
 Todas as formas de remuneração dos intermediários, devidas pela emissora e/ou acionistas
 
 vendedores, devem estar descritas, bem como toda e qualquer outra remuneração, além das previstas
 
-no contrato de distribuição, ainda que indireta, tais como as decorre ntes de empréstimos e garantias
+no contrato de distribuição, ainda que indireta, tais como as decorrentes de empréstimos e garantias
 
 vinculados à oferta pública, incluindo: (i) comissões; (ii) reembolso de despesas relacionadas à
 
@@ -3842,7 +3858,7 @@ a receber em razão da prestação de serviços de consultoria relativos à ofer
 
 companhia ou valores mobiliários referenciados ou conversíveis nessas ações, que tenham sido
 
-entregues ou terão de ser entregues em contrapartida à concessão de empréstimo à compa nhia ou a
+entregues ou terão de ser entregues em contrapartida à concessão de empréstimo à companhia ou a
 
 membros do grupo econômico da companhia, ou como forma de remuneração de qualquer outro
 
@@ -3854,13 +3870,13 @@ de registro, assessores legais etc.) que serão suportados pelos ofertantes secu
 
 primário, explicitando as bases utilizadas para o rateio de todos os custos. A tabela de custos de
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+49
 
-50
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 distribuição deverá ser subdividida de modo que fiquem claros os custos pagos pelos ofertantes
 
-secundários e pelo emissor primário .
+secundários e pelo emissor primário.
 
 Informar se foi ou será firmado contrato de garantia de liquidez e/ou Contrato de Formador de
 
@@ -3874,7 +3890,7 @@ Para fins de atendimento ao item 10.6 do Anexo E da Resolução CVM nº 160/2022
 
 de Certificados de Recebíveis “corporativos”, as informações estatísticas sobre inadimplementos,
 
-perdas ou pré -pagamento de créditos de mesma natureza dos direitos creditórios que comporão o
+perdas ou pré-pagamento de créditos de mesma natureza dos direitos creditórios que comporão o
 
 patrimônio do ofertante deverão ser calculadas com base nas informações existentes a respeito de
 
@@ -3886,9 +3902,9 @@ anteriores à data da oferta.
 
 Caso a operação conte com hipóteses de resgate antecipado e pré-pagamento em função de condições
 
-de mercado, faz -se importante constar do Prospecto informações estatísticas sobre pré -pagamento
+de mercado, faz-se importante constar do Prospecto informações estatísticas sobre pré-pagamento
 
-de operações de securitização com lastro corporativo dos último s 3 anos que foram realizados em
+de operações de securitização com lastro corporativo dos últimos 3 anos que foram realizados em
 
 função de condições de mercado, ainda que tal informação seja apresentada em relação às operações
 
@@ -3898,9 +3914,9 @@ Com fulcro no item 12.4 do Anexo E da Resolução CVM nº 160/2022, nas operaç�
 
 de Recebíveis “corporativos”, deverá ser inserida no Prospecto seção específica onde sejam expostos
 
-indicadores econômico -financeiros da devedora do lastro, bem como de eventuais coobrigados,
+indicadores econômico-financeiros da devedora do lastro, bem como de eventuais coobrigados,
 
-elaborados com base nas Demonstra ções Financeiras anexadas na forma prevista pelo item 12.3 do
+elaborados com base nas Demonstrações Financeiras anexadas na forma prevista pelo item 12.3 do
 
 Anexo E da Resolução CVM nº 160/2022, acompanhados desses mesmos indicadores atualizados
 
@@ -3914,7 +3930,7 @@ Nesse sentido, deverão ser incluídos no Prospecto indicadores dos seguintes ti
 
 liquidez (por exemplo: capital circulante líquido, índice de liquidez corrente e índice de liquidez
 
-seco); (ii) índices de atividade (por exemplo: giro dos es toques, prazo médio de cobrança, prazo
+seco); (ii) índices de atividade (por exemplo: giro dos estoques, prazo médio de cobrança, prazo
 
 médio de pagamento, giro dos ativos permanentes e giro do ativo total); (iii) índices de
 
@@ -3936,9 +3952,9 @@ relação a um deles, situação que se aplica ao item 12.4 em questão. Maiores
 
 decisão serão expostas na seção abaixo.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+50
 
-51
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.8.6.11. Informações sobre devedores ou coobrigados
 
@@ -3956,7 +3972,7 @@ nos seguintes termos:
 
 itens 60 e 63 do referido Ofício Interno, em síntese, no sentido de que:
 
-(i) os artigos 43 -A e 51 da Resolução CVM nº 60/2021, além do disposto no item 12.3 do Anexo E
+(i) os artigos 43-A e 51 da Resolução CVM nº 60/2021, além do disposto no item 12.3 do Anexo E
 
 à Resolução CVM nº 160/2022 (“RCVM 160”), conferem à companhia securitizadora a alternativa
 
@@ -3966,7 +3982,7 @@ representem mais de 20% da totalidade da emissão;
 
 (ii) caso devedor e coobrigado possuam exposição superior a 20% e tenham elaborado
 
-demonstrações financeiras auditadas, ambos devem apresentá -las;
+demonstrações financeiras auditadas, ambos devem apresentá-las;
 
 (iii) deve ser divulgada qualquer informação financeira de devedores ou coobrigados que tenha
 
@@ -3978,7 +3994,7 @@ momento;
 
 superior a 20% da emissão, desde que a outra parte, seja o devedor ou coobrigado, apresente
 
-demonstrações financeiras auditadas, nos termos da interpretação do i tem (i) acima;
+demonstrações financeiras auditadas, nos termos da interpretação do item (i) acima;
 
 (v) não há obrigatoriedade de elaboração ou apresentação de DFs auditadas do devedor, ou
 
@@ -4008,9 +4024,9 @@ regulatória idêntica à disposta no art. 45 do Anexo Normativo II à Resoluç�
 
 no item 11.3 do Anexo D à RCVM 160."
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+51
 
-52
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.9. Elaboração de material publicitário e publicidade em geral
 
@@ -4018,17 +4034,17 @@ Tendo em vista o que vem sendo identificado durante sua atividade de Supervisão
 
 relevante realizar algumas ressalvas pontuais a respeito do uso de material publicitário ou material
 
-de divulgação e apoio nos casos de ofertas submetidas ao rito de registro automático .
+de divulgação e apoio nos casos de ofertas submetidas ao rito de registro automático.
 
-Nesse sentido, em tais ofertas , solicita-se especial atenção à linguagem empregada bem como à
+Nesse sentido, em tais ofertas, solicita-se especial atenção à linguagem empregada bem como à
 
 correta abordagem dos riscos relacionados ao investimento. Cabe ressaltar que em se tratando de
 
-registro automático , em essência, se pressupõe uma atuação particularmente criteriosa, diligente e
+registro automático, em essência, se pressupõe uma atuação particularmente criteriosa, diligente e
 
 cautelosa por parte dos envolvidos na oferta. Isto porque não há o processo de interação junto à
 
-CVM, característico da etapa de análise de registro, interações por meio das qu ais se busca
+CVM, característico da etapa de análise de registro, interações por meio das quais se busca
 
 preventivamente a adequação ao que dispõe a norma, inclusive quanto ao conteúdo informacional a
 
@@ -4042,7 +4058,7 @@ salvo se permitido em legislação específica.
 
 2.9.1. Recomendações para a elaboração de material publicitário escrito
 
-A presente recomendação destina -se a materiais publicitários escritos, sejam impressos, enviados
+A presente recomendação destina-se a materiais publicitários escritos, sejam impressos, enviados
 
 por e-mail, disponíveis em sites ou disponibilizados de qualquer outra forma.
 
@@ -4056,11 +4072,11 @@ nº 160/2022. O referido texto deverá estar localizado preferencialmente na par
 
 do material publicitário e, tal informação, deverá ser apresentada de maneira legível e em destaque.
 
-Todo material publicitário deverá conter , em todas as suas páginas, a tarja “MATERIAL
+Todo material publicitário deverá conter, em todas as suas páginas, a tarja “MATERIAL
 
 PUBLICITÁRIO”, em atenção ao disposto no inciso II do § 4º do art. 12 da Resolução CVM nº
 
-160/2022. A referida tarja deverá estar localizada , sempre, na parte superior e acima de qualquer
+160/2022. A referida tarja deverá estar localizada, sempre, na parte superior e acima de qualquer
 
 outro conteúdo do material publicitário, de forma destacada, preferencialmente em fundo branco e
 
@@ -4070,7 +4086,7 @@ na página.
 
 Todo material publicitário deverá informar os locais em que o prospecto, o formulário de referência
 
-e documentos equivalentes estão disponíveis. Dentre esses locais incluem -se os sites na internet d a
+e documentos equivalentes estão disponíveis. Dentre esses locais incluem-se os sites na internet da
 
 CVM, da emissora, da ofertante, das instituições intermediárias líderes da oferta, e, quando for o
 
@@ -4086,15 +4102,15 @@ Conforme o disposto no inciso II do § 2º do art. 12 da Resolução CVM nº 160
 
 publicitário deverá ser elaborado em linguagem serena e moderada. Neste sentido, o material
 
-publicitário deverá apresentar , por exemplo, os fatores de risco da Oferta em letra de tamanho
+publicitário deverá apresentar, por exemplo, os fatores de risco da Oferta em letra de tamanho
 
 equivalente ao da utilizada nas informações favoráveis à Oferta que dele constarem. O mesmo se
 
 aplica ao tamanho dos textos em ambos os documentos, por exemplo: se as informações favoráveis
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+52
 
-53
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 à Oferta ocupam sete páginas no material publicitário e a seção de fatores de risco ocupa sete páginas
 
@@ -4110,13 +4126,13 @@ Sempre que o material publicitário adotar a forma de perguntas e respostas, dev
 
 equilíbrio entre as respostas favoráveis e desfavoráveis à oferta. Deste modo, o material publicitário
 
-deverá conter perguntas acerca do risco da operação, tais como “ posso perder todo o dinheiro
+deverá conter perguntas acerca do risco da operação, tais como “posso perder todo o dinheiro
 
-investido?”, “como faço para saber todos os riscos desse investimento? ” etc.
+investido?”, “como faço para saber todos os riscos desse investimento?” etc.
 
 2.9.2. Para materiais em áudio e vídeo
 
-O “ spot de rádio” deve ser produzido com uma entonação pausada, de modo a permitir a plena
+O “spot de rádio” deve ser produzido com uma entonação pausada, de modo a permitir a plena
 
 audição da advertência obrigatória sobre a necessidade de leitura do Prospecto e do formulário de
 
@@ -4124,7 +4140,7 @@ referência, em especial da seção de fatores de risco. No envio de comunicaç�
 
 material publicitário à SRE, o material deve ser apresentado em texto e também em áudio.
 
-O mesmo também se aplica ao filme publicitário para TV. Destaca -se que o áudio do filme também
+O mesmo também se aplica ao filme publicitário para TV. Destaca-se que o áudio do filme também
 
 merece uma entonação pausada, de modo a permitir a plena audição da advertência obrigatória sobre
 
@@ -4174,17 +4190,17 @@ nº 160/2022 a petição que o encaminhar deverá indicar as páginas do Prospec
 
 Referência em que se encontra o conteúdo apresentado no material publicitário.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+53
 
-54
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 A inserção de informações sobre a oferta em jornal interno ou dirigido a funcionários de qualquer
 
 instituição relacionada, direta ou indiretamente, à oferta, também é considerada material publicitário,
 
-cabendo-lhe, portanto, a obediência ao art. 1 2 da Resolução CVM nº 160/2022 e a observância do
+cabendo-lhe, portanto, a obediência ao art. 12 da Resolução CVM nº 160/2022 e a observância do
 
-presente Ofício -Circular. Não é considerado material publicitário aquele destinado a informar aos
+presente Ofício-Circular. Não é considerado material publicitário aquele destinado a informar aos
 
 próprios funcionários a maneira diferenciada de aderir à oferta ou o material utilizado para
 
@@ -4198,7 +4214,7 @@ investidores.
 
 2.9.4. Realização de “Roadshow” virtual e “Lives”
 
-Quanto à realização de " Roadshow" virtual ou “ Lives” sobre a Oferta, apesar de não haver, até a
+Quanto à realização de "Roadshow" virtual ou “Lives” sobre a Oferta, apesar de não haver, até a
 
 presente data, quaisquer orientações ou vedações específicas a esse respeito, lembramos que para
 
@@ -4206,11 +4222,11 @@ realização de tais "eventos" devem ser cumpridas as regras gerais da Resoluç�
 
 especialmente no que diz respeito, em sua realização, à obrigação de divulgação das informações de
 
-"forma abrangente, equitativa e simultânea para todo o mercado" . Nesse sentido, é fundamental que
+"forma abrangente, equitativa e simultânea para todo o mercado". Nesse sentido, é fundamental que
 
 o conteúdo e informações disponibilizados em tais "eventos" estejam previamente divulgados ao
 
-mercado, bem como deve -se atentar para o fato de que sejam tomadas as cautelas aplicáveis à
+mercado, bem como deve-se atentar para o fato de que sejam tomadas as cautelas aplicáveis à
 
 utilização de materiais publicitários previstas na Resolução CVM nº 160/2022 e no presente Ofício-
 
@@ -4222,23 +4238,23 @@ recomendação da leitura do Prospecto antes de aceitar a Oferta, em especial a 
 
 bem como a indicação da forma de se obter um exemplar de tal documento.
 
-Nada obstante, no que se refere à possibilidade de disponibilização da gravação do " Roadshow"
+Nada obstante, no que se refere à possibilidade de disponibilização da gravação do "Roadshow"
 
-virtual ou da “ Live” em sites e de seu envio a potenciais investidores, entendemos que, para tal, a
+virtual ou da “Live” em sites e de seu envio a potenciais investidores, entendemos que, para tal, a
 
 referida gravação deve ser, se necessário, editada, de modo a se tornar um material publicitário,
 
-sofrendo as adequações necessárias para observar todos os requisitos previsto s na regulamentação
+sofrendo as adequações necessárias para observar todos os requisitos previstos na regulamentação
 
 no que tange à utilização de materiais publicitários em formato de vídeo, em especial: (i) ser
 
-encaminhada à CVM até um dia após o início de sua utilização, nos termos d o § 6º do art. 12 da
+encaminhada à CVM até um dia após o início de sua utilização, nos termos do § 6º do art. 12 da
 
-Resolução CVM nº 160/2022 ; (ii) o Prospecto (Preliminar ou Definitivo) e o Aviso ao Mercado ou
+Resolução CVM nº 160/2022; (ii) o Prospecto (Preliminar ou Definitivo) e o Aviso ao Mercado ou
 
 Anúncio de Início, conforme o caso, estarem divulgados em todos os locais previstos pelo art. 13 da
 
-Resolução CVM nº 160/2022 ; (iii) todas as informações contidas na gravação se encontrarem
+Resolução CVM nº 160/2022; (iii) todas as informações contidas na gravação se encontrarem
 
 presentes no Prospecto da Oferta; (iv) a utilização de linguagem serena e moderada; (v) haver
 
@@ -4250,9 +4266,9 @@ DE REFERÊNCIA/REGULAMENTO DO FUNDO ANTES DE ACEITAR A OFERTA, EM
 
 ESPECIAL A SEÇÃO FATORES DE RISCO”; (vii) conter exibição de tela por um período razoável
 
-de tempo com informações sobre a forma de se obter um exemplar do P rospecto em todos os locais
+de tempo com informações sobre a forma de se obter um exemplar do Prospecto em todos os locais
 
-previstos pelo art. 13 da Resolução CVM nº 160/2022 ; (viii) haver equilíbrio entre informações
+previstos pelo art. 13 da Resolução CVM nº 160/2022; (viii) haver equilíbrio entre informações
 
 favoráveis e os riscos inerentes à Oferta; (ix) dar destaque aos principais Fatores de Risco da Oferta;
 
@@ -4260,11 +4276,11 @@ favoráveis e os riscos inerentes à Oferta; (ix) dar destaque aos principais Fa
 
 e do Formulário de Referência/Regulamento do Fundo, em especial da seção de Fatores de Risco;
 
-(xi) caso haja referência à rentabilidade alvo, que contemple, de forma destacada, que es ta não
+(xi) caso haja referência à rentabilidade alvo, que contemple, de forma destacada, que esta não
+
+54
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-55
 
 representa e nem deve ser considerada, sob qualquer hipótese, como promessa, garantia ou sugestão
 
@@ -4286,7 +4302,7 @@ Para fins deste Ofício-Circular, entende-se por “material publicitário insti
 
 anúncios, propagandas, campanhas publicitárias e outros materiais de divulgação da marca da
 
-emissora e não de seus produtos, veiculados durante a oferta , na mídia impressa, eletrônica, digital
+emissora e não de seus produtos, veiculados durante a oferta, na mídia impressa, eletrônica, digital
 
 e/ou funcional, tanto para divulgação externa quanto para divulgação interna na emissora, por
 
@@ -4304,9 +4320,9 @@ publicitário institucional, e avaliar a implementação das inclusões descrita
 
 O material publicitário institucional deve conter o seguinte texto ao final de sua veiculação:
 
-“A [nome da emissora ou ofertante ] está realizando uma oferta pública de distribuição [ primária
+“A [nome da emissora ou ofertante] está realizando uma oferta pública de distribuição [primária
 
-e/ou secundária ] de [ espécie dos valores mobiliários objeto da Oferta ] de sua emissão (ou de
+e/ou secundária] de [espécie dos valores mobiliários objeto da Oferta] de sua emissão (ou de
 
 emissão da [nome da emissora]) em processo de registro perante a Comissão de Valores Mobiliários.
 
@@ -4340,9 +4356,9 @@ deliberação em assembleia de cotistas de operações que envolvam conflito de 
 
 e o administrador, gestor ou consultor especializado.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+55
 
-56
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Notadamente tal estruturação tem sido empregada quando a destinação dos recursos da oferta pública
 
@@ -4364,7 +4380,7 @@ transcrita a seguir, por oportunidade da apreciação de recurso contra decisão
 
 exigências em oferta pública de distribuição de cotas do FII – HSI Malls Fundo de Investimento
 
-Imobiliário (Processo SEI 19957.003280/2019 -55), a qual deverá ser observada em pleitos de
+Imobiliário (Processo SEI 19957.003280/2019-55), a qual deverá ser observada em pleitos de
 
 registro de distribuição que contenham estruturas semelhantes:
 
@@ -4372,17 +4388,17 @@ registro de distribuição que contenham estruturas semelhantes:
 
 subscrição das cotas, à luz das peculiaridades e cautelas propostas pelos Recorrentes, no sentido de que a
 
-procuração: (i) não será obrigatória (e sim facult ativa); (ii) será dada sob condição suspensiva (i.e. que os
+procuração: (i) não será obrigatória (e sim facultativa); (ii) será dada sob condição suspensiva (i.e. que os
 
 outorgantes se tornem cotistas); (iii) não será irrevogável e irretratável; (iv) assegurará a possibilidade de
 
-orientação de voto contrário à proposta de aquisição dos Ativos Alvo (inclusive com o rientação de voto
+orientação de voto contrário à proposta de aquisição dos Ativos Alvo (inclusive com orientação de voto
 
 segregada por ativo); e (v) será dada por investidor que teve acesso, antes de outorgar a procuração, a todos
 
 os elementos informativos necessários ao exercício do voto, conforme dispostos no prospecto, no(s) laudo(s)
 
-de avaliação emitido s por terceiros independentes, no “Manual de Exercício de Voto” e nos demais
+de avaliação emitidos por terceiros independentes, no “Manual de Exercício de Voto” e nos demais
 
 documentos da Oferta.
 
@@ -4392,7 +4408,7 @@ Ademais, em aprimoramento das referidas cautelas, o Colegiado considerou pertine
 
 (i) que haja referência expressa, na procuração, ao conflito de interesses a ser descaracterizado com a
 
-aprovação pela assembleia geral de cotistas a se r convocada e ao respectivo conteúdo informacional que o
+aprovação pela assembleia geral de cotistas a ser convocada e ao respectivo conteúdo informacional que o
 
 descreva no prospecto; (ii) que seja explicitado que a procuração poderá ser revogada a qualquer tempo até
 
@@ -4406,19 +4422,19 @@ Não obstante, em casos de fundos de investimento imobiliário cujas operações
 
 em situação de conflito de interesses envolvam a aquisição de ativos financeiros, o caráter específico
 
-e informado da assembleia que deliberará sobre o investim ento em conflito de interesse tende a ser
+e informado da assembleia que deliberará sobre o investimento em conflito de interesse tende a ser
 
 inexequível para cada operação em particular, tendo em vista a dinâmica operacional de tais
 
 negociações, que difere em muito da aquisição de ativos imobiliários não financeiros.
 
-Nesse sentido, a área técnica responsável pelo acompanhamento de fundos estruturados ( SSE) já
+Nesse sentido, a área técnica responsável pelo acompanhamento de fundos estruturados (SSE) já
 
 manifestou entendimento de que o estabelecimento de critérios de elegibilidade adequadamente
 
 delimitados para a negociação de ativos financeiros em situação de conflito de interesse e a
 
-submissão destes à assembleia única, e não a cada aquisição, não se c onfunde com pré -aprovação
+submissão destes à assembleia única, e não a cada aquisição, não se confunde com pré-aprovação
 
 de tais operações, hipótese vedada.
 
@@ -4432,9 +4448,9 @@ interesse, subsidiando a futura tomada de decisão a respeito da matéria, em as
 
 convocada para este fim.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+56
 
-57
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Ainda sobre a questão, temos verificado outra forma de tratamento do assunto por parte dos
 
@@ -4448,9 +4464,9 @@ Nesse contexto, pontuamos que o caráter perene da deliberação sobre aquisiç�
 
 em situação de conflito de interesses com base em critérios de elegibilidade, diferentemente da
 
-deliberação aprovando a aquisição de um determinado ativo nã o financeiro, acaba por trazer,
+deliberação aprovando a aquisição de um determinado ativo não financeiro, acaba por trazer,
 
-potencialmente, efeitos no curso da vida de um fundo de investimento estruturado. Note -se que, em
+potencialmente, efeitos no curso da vida de um fundo de investimento estruturado. Note-se que, em
 
 última instância, poderia se dar uma oferta pública de distribuição na qual os novos subscritores
 
@@ -4458,7 +4474,7 @@ desconhecessem um aspecto relevante da política de investimento do fundo, aspec
 
 a possibilidade de aquisição de ativos em situação de conflito de interesses, inclusive vedado por
 
-Lei (inciso VII do art. 12 da Lei nº 8.668/1993) e que apenas pode ser afastado com qu órum
+Lei (inciso VII do art. 12 da Lei nº 8.668/1993) e que apenas pode ser afastado com quórum
 
 qualificado em assembleia de cotistas (art. 31 do Anexo Normativo III da Resolução CVM 175).
 
@@ -4474,19 +4490,19 @@ Essa necessidade de ratificação da decisão anterior poderia ser flexibilizada
 
 entendimento da SSE, sendo que para Fundos que já tiverem aprovado esse tipo de operação com
 
-critérios de elegibilidade devidamente delimitados e que tiverem, quan do da aprovação, "um
+critérios de elegibilidade devidamente delimitados e que tiverem, quando da aprovação, "um
 
 significativo número de cotistas e suas cotas negociadas em ambiente de bolsa de valores, não será
 
 necessária uma nova assembleia para ratificação da assembleia anterior que deliberou acerca da
 
-autorização para aquisição de ativos conflitados" .
+autorização para aquisição de ativos conflitados".
 
 Cabe também destacar o entendimento da SSE no sentido de que é irregular a deliberação em
 
 assembleia que promova a inserção em regulamento da prerrogativa de aquisição de ativos em
 
-situação de conflito de interesses. Na mesma linha, entendemos não ser possível que a d eliberação
+situação de conflito de interesses. Na mesma linha, entendemos não ser possível que a deliberação
 
 preveja aprovação da aquisição de ativos em tal situação para todo o período de duração do fundo.
 
@@ -4494,13 +4510,13 @@ Desse modo, alertamos para que os ofertantes façam constar no Prospecto a event
 
 aprovação anterior para a aquisição de ativos financeiros em situação de conflito de interesse,
 
-apontando em quais termos foi concedida tal aprovação, notadame nte indicando os critérios de
+apontando em quais termos foi concedida tal aprovação, notadamente indicando os critérios de
 
 elegibilidade para a aquisição e ainda o quórum com o qual se deu a aprovação de tal matéria.
 
 Ademais, havendo a referida aprovação prévia, informem a possibilidade de que, posteriormente à
 
-oferta, seja necessária a ratificaçã o de tal aprovação. Entendemos que tais informações devem
+oferta, seja necessária a ratificação de tal aprovação. Entendemos que tais informações devem
 
 constar na seção “Sumário da Oferta” com referência cruzada ao fator de risco que aborde o assunto
 
@@ -4510,7 +4526,7 @@ Dado o exposto acima, caso haja a utilização de procuração de conflito de in
 
 Oferta, deve constar do Prospecto e da minuta da Procuração que tal procuração: (i) não será
 
-obrigatória (e sim facultativa); (ii) será dada sob condição susp ensiva (i.e. que os outorgantes se
+obrigatória (e sim facultativa); (ii) será dada sob condição suspensiva (i.e. que os outorgantes se
 
 tornem cotistas); (iii) não será irrevogável e irretratável; (iv) assegurará a possibilidade de orientação
 
@@ -4520,17 +4536,15 @@ conflito); (v) será dada por investidor que teve acesso, antes de outorgar a pr
 
 elementos informativos necessários ao exercício do voto, conforme dispostos no prospecto no
 
-“Manual de Exercício de Voto” e nos demais documentos da Oferta; e (vi) não poderá se dar para
+“Manual de Exercício de Voto” e nos demais documentos da Oferta; e (vi) não poderá se dar para57
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-58
 
 todo o período de duração do Fundo, devendo, conforme o caso, ser ratificada de tempos em tempos,
 
 tendo em vista seu caráter perene, podendo não ser apta a produzir efeitos no futuro, na medida em
 
-que havendo alteração significativa de cotistas ou patrimôn io líquido haveria a necessidade de
+que havendo alteração significativa de cotistas ou patrimônio líquido haveria a necessidade de
 
 ratificação, posteriormente à oferta, de uma aprovação deliberada anteriormente.
 
@@ -4540,7 +4554,7 @@ Ademais, tais documentos deverão fazer referência expressa:
 
 a ser convocada e ao respectivo conteúdo informacional que o descreva; (ii) ao fato de que a
 
-procuração poderá ser revogada a qualquer tempo até a realiz ação da assembleia; e (iii) ao fato de
+procuração poderá ser revogada a qualquer tempo até a realização da assembleia; e (iii) ao fato de
 
 que o outorgado não possa ser o próprio gestor ou parte relacionada, devendo, ainda, os documentos
 
@@ -4576,9 +4590,9 @@ Nesse sentido, nas hipóteses em que o administrador ou gestor necessitem da pre
 
 instituições intermediárias para alcançar os objetivos do fundo na distribuição a ser realizada,
 
-entendemos que as responsabilidades previstas pela regulamentaçã o de ofertas públicas para um
+entendemos que as responsabilidades previstas pela regulamentação de ofertas públicas para um
 
-coordenador líder (art igos 77 a 83 da Resolução CVM nº 160/2022) ganham complexidade e
+coordenador líder (artigos 77 a 83 da Resolução CVM nº 160/2022) ganham complexidade e
 
 importância relevantes, de modo que a presença de “ao menos uma entidade registrada a atuar como
 
@@ -4594,7 +4608,7 @@ Dessa forma, caso o administrador ou o gestor de um fundo não sejam registrados
 
 coordenadores de oferta pública nos termos da Resolução CVM nº 161/2022 e pretendam contratar
 
-outras instituições intermediárias para atuar na oferta do fundo, deverão con tratar ao menos uma
+outras instituições intermediárias para atuar na oferta do fundo, deverão contratar ao menos uma
 
 instituição que seja registrada como coordenador de ofertas públicas nos termos da Resolução CVM
 
@@ -4602,9 +4616,9 @@ nº 161/2022, e essa instituição deve atuar na condição de coordenador líde
 
 administrador ou gestor do fundo, conforme o caso, integrar o pool de distribuição.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+58
 
-59
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 2.10.3. Direitos de preferência e oferta prioritária em ofertas de Fundos Fechados
 
@@ -4612,7 +4626,7 @@ Caso a oferta conte com direito de preferência para os atuais cotistas, o perí
 
 direito de preferência deve se dar após o registro da Oferta e divulgação do Anúncio de Início, pois
 
-o exercício de direito de preferência se assemelha à subs crição.
+o exercício de direito de preferência se assemelha à subscrição.
 
 Ademais, caso haja a possibilidade de cessão do direito de preferência, para que não se aplique a
 
@@ -4628,9 +4642,9 @@ demanda da Oferta.
 
 Outro aspecto que vale ser destacado se relaciona à interpretação do inciso I do art. 49 que foi
 
-proferido no âmbito de caso concreto. Com efeito, buscou -se, naquele caso, equiparar as “relações
+proferido no âmbito de caso concreto. Com efeito, buscou-se, naquele caso, equiparar as “relações
 
-de natureza comercial” com o emissor, no caso um fundo de inv estimento, com a relação comercial
+de natureza comercial” com o emissor, no caso um fundo de investimento, com a relação comercial
 
 existente entre seu gestor/administrador e cotistas de outros fundos por ele geridos/administrados.
 
@@ -4638,15 +4652,15 @@ existente entre seu gestor/administrador e cotistas de outros fundos por ele ger
 
 identificação do ofertante em uma oferta primária de cotas de fundos de investimento, entretanto a
 
-extensão da interpretação de que em linhas gerais o gestor se equip ara ao emissor não deve ser
+extensão da interpretação de que em linhas gerais o gestor se equipara ao emissor não deve ser
 
 aplicada indiscriminadamente. Recorrendo ao Relatório de Audiência Pública SDM nº 02/2021,
 
-encontramos a seguinte manifestação da SDM: " é oportuno observar que o art. 49 já contempla a
+encontramos a seguinte manifestação da SDM: "é oportuno observar que o art. 49 já contempla a
 
-concessão de prioridade de forma similar à indicada nas sugestões destes participantes ", ao tratar
+concessão de prioridade de forma similar à indicada nas sugestões destes participantes", ao tratar
 
-da sugestão de extensão da possibilidade de concessão de prioridade a " prestadores de serviço de
+da sugestão de extensão da possibilidade de concessão de prioridade a "prestadores de serviço de
 
 fundos de investimento e seus empregados quando a oferta for realizada por fundo de investimento".
 
@@ -4664,7 +4678,7 @@ comercial ou estratégica, entendemos que o regulador confere a possibilidade qu
 
 distribuição primária de seus valores mobiliários, privilegie pessoas que representem interesses
 
-diretos para si, de modo que, nesse caso, equiparando emissor e gestor, tal lógica se afasta ria, já que
+diretos para si, de modo que, nesse caso, equiparando emissor e gestor, tal lógica se afastaria, já que
 
 ao privilegiar cotistas de outros fundos do gestor o interesse comercial e estratégico reside
 
@@ -4672,11 +4686,11 @@ exclusivamente na figura do gestor, não implicando em interesse para o Fundo.
 
 2.10.4. Colocação privada de cotas de fundos de investimento
 
-Após consulta feita pela SRE , no âmbito do Processo SEI n.º 19957.003689/2017 -18, o Colegiado
+Após consulta feita pela SRE, no âmbito do Processo SEI n.º 19957.003689/2017-18, o Colegiado
 
 decidiu, em reunião realizada em 30/10/2018, que a CVM tem competência para conceder aos fundos
 
-de investimento fechados, que invistam em valores mobiliários, o registro para negociação de s uas
+de investimento fechados, que invistam em valores mobiliários, o registro para negociação de suas
 
 cotas em mercados regulamentados de valores mobiliários (“Registro de Emissor”), previsto no art.
 
@@ -4686,11 +4700,11 @@ art. 2º da citada Lei, independentemente da forma pública ou privada de coloca
 
 Tal decisão modificou o entendimento consubstanciado na Decisão do Colegiado, no âmbito do
 
-Processo CVM RJ 2005 -2345, em reunião realizada em 21/02/2006, em que foi deliberado não ser
+Processo CVM RJ 2005-2345, em reunião realizada em 21/02/2006, em que foi deliberado não ser
+
+59
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-60
 
 possível a concessão de registro pela CVM a qualquer fundo em que o administrador pretendesse
 
@@ -4698,9 +4712,9 @@ colocar suas cotas de modo privado.
 
 Na decisão mais recente, houve a deliberação apontando que ainda que a distribuição ocorra de modo
 
-exclusivamente privado, tais fundos encontram -se sob a regulamentação da CVM, visto que a
+exclusivamente privado, tais fundos encontram-se sob a regulamentação da CVM, visto que a
 
-admissão de suas cotas à negociação nos mercados regulamentados de valores mobiliários legi tima
+admissão de suas cotas à negociação nos mercados regulamentados de valores mobiliários legitima
 
 a atuação da autarquia.
 
@@ -4708,13 +4722,13 @@ A citada decisão excluiu: (a) os fundos que não investem em valores mobiliári
 
 fundos de investimento imobiliários (FII), tendo em vista que, caso não ocorra uma oferta pública,
 
-tais fundos sequer se qualificam como emissores de valores mo biliários.
+tais fundos sequer se qualificam como emissores de valores mobiliários.
 
 Mais recentemente, em 20/09/2019, houve alteração da Lei nº 10.406/2022 (Código Civil) pela Lei
 
 nº 13.874/2019 (Lei de Liberdade Econômica). Essa alteração teve impacto sobre o entendimento
 
-vigente após a reunião do Colegiado de 30/10/2018. Isso porque a l ei de Liberdade Econômica
+vigente após a reunião do Colegiado de 30/10/2018. Isso porque a lei de Liberdade Econômica
 
 acrescentou o art. 1368-C ao Código Civil, que passou a prever que todos os fundos de investimento
 
@@ -4724,7 +4738,7 @@ Nesse sentido, mesmo no caso dos fundos de investimento em direitos creditórios
 
 um modo geral não investem em valores mobiliários, ainda que a distribuição ocorra de modo
 
-exclusivamente privado, tais fundos encontram -se sob a regulamentação da CVM, por força do
+exclusivamente privado, tais fundos encontram-se sob a regulamentação da CVM, por força do
 
 citado art. 1368 do CC, o que legitima a atuação da autarquia.
 
@@ -4732,7 +4746,7 @@ Em relação aos fundos de investimento imobiliário, permanece o entendimento d
 
 oferta deve ser pública, por força do disposto no artigo 1º da Lei nº 8.668/93 e, uma vez realizada a
 
-primeira oferta pública de cotas, nada impede que as colocaç ões posteriores ocorram de forma
+primeira oferta pública de cotas, nada impede que as colocações posteriores ocorram de forma
 
 privada.
 
@@ -4750,27 +4764,27 @@ retratadas nos informes periódicos e eventuais dos fundos de investimento.
 
 2.11.1. Debêntures incentivadas, de infraestrutura e valores mobiliários com benefícios fiscais
 
-A presente seção atualiza e substitui integralmente o Ofício-Circular nº 3/2024/CVM/SRE ,
+A presente seção atualiza e substitui integralmente o Ofício-Circular nº 3/2024/CVM/SRE,
 
 divulgado em 11/10/2024 e contém orientações acerca dos procedimentos a serem observados pelos
 
 coordenadores líderes nas ofertas públicas de valores mobiliários com benefícios fiscais em atenção
 
-ao disposto no Decreto nº 11.964 de 26 de março de 2024 (“Regulamento” ou “Decreto 11. 964”),
+ao disposto no Decreto nº 11.964 de 26 de março de 2024 (“Regulamento” ou “Decreto 11.964”),
 
 que regulamentou as Leis nº 12.431/2011 e nº 14.801/2024, que por sua vez estabelecem os valores
 
 mobiliários que contam com benefícios fiscais sempre que forem objeto de oferta pública.
 
-De acordo com o art. 2º do Regulamento, consideram -se:
+De acordo com o art. 2º do Regulamento, consideram-se:
 
 Debêntures incentivadas: as debêntures de que trata o art. 2º da Lei nº 12.431/2011;
 
 Debêntures de infraestrutura: as debêntures de que trata a Lei nº 14.801/2024;
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+60
 
-61
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Valores mobiliários com benefícios fiscais: as debêntures incentivadas, as debêntures de
 
@@ -4782,7 +4796,7 @@ O § 1º do art. 3º do Decreto 11.964/2024 estabelece que cabe ao emissor e ao 
 
 assegurarem o enquadramento, a destinação dos recursos e a implementação do projeto de acordo
 
-com o disposto no Regulamento, sendo dispensada a exigência de apr ovação ministerial prévia,
+com o disposto no Regulamento, sendo dispensada a exigência de aprovação ministerial prévia,
 
 observado que os projetos que envolvam serviços públicos de titularidade dos entes subnacionais
 
@@ -4798,13 +4812,15 @@ responsável, devendo tal protocolo ser comprovado quando do envio do requerimen
 
 oferta, conforme orientado na seção “2.11.1.2 Informações a serem prestadas nos requerimentos
 
-de registro das ofertas”.
+de registro das ofertas”
+
+.
 
 É importante pontuar que cabe ao emissor assegurar o enquadramento, a destinação dos recursos e
 
 a implementação do projeto de acordo com o disposto no Regulamento, cabendo aos órgãos
 
-responsáveis pela supervisão setorial, à Secretaria Especial da Receita F ederal do Brasil e ao
+responsáveis pela supervisão setorial, à Secretaria Especial da Receita Federal do Brasil e ao
 
 Ministério da Fazenda a supervisão em relação a esses aspectos.
 
@@ -4812,13 +4828,13 @@ Nesse sentido, os coordenadores líderes de ofertas públicas de valores mobili�
 
 fiscais devem diligenciar no sentido de acompanhar, mesmo nos casos de projetos de investimento
 
-que não contem com portaria autorizativa prévia, o devido enqu adramento dos projetos de
+que não contem com portaria autorizativa prévia, o devido enquadramento dos projetos de
 
 investimento junto aos Ministérios Setoriais responsáveis, sendo responsáveis por suspender a
 
 distribuição pública, nos termos dos artigos 22 e 83, XII, ambos da Resolução CVM nº160/2022,
 
-caso os respectivos Órgãos se manifestem q uanto ao não enquadramento dos respectivos projetos.
+caso os respectivos Órgãos se manifestem quanto ao não enquadramento dos respectivos projetos.
 
 2.11.1.1. Informações a serem prestadas nas ofertas
 
@@ -4826,7 +4842,7 @@ O inciso III do art. 8º do Decreto 11.964/2024 estabelece as informações que 
 
 por ocasião da emissão pública de valores mobiliários com benefícios fiscais. O Regulamento prevê
 
-ainda que tais informações devem ser claras e de fácil acess o aos investidores, devendo ser
+ainda que tais informações devem ser claras e de fácil acesso aos investidores, devendo ser
 
 disponibilizadas no Prospecto e no Anúncio de Início e no caso de ofertas destinadas exclusivamente
 
@@ -4850,9 +4866,9 @@ próprios e do titular do projeto, quando se tratar de pessoas jurídicas distin
 
 em curso, a data de início efetivo, a descrição da fase atual e a data estimada para o encerramento;
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+61
 
-62
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 (f) volume estimado dos recursos financeiros totais necessários para a realização do projeto; e
 
@@ -4876,9 +4892,9 @@ Embora a Resolução CVM nº 160/2022 tenha previsão de conteúdo máximo para 
 
 Início e para o Aviso ao Mercado, as informações a seguir devem constar dos Anúncios de Início e
 
-Avisos ao Mercado nos casos de ofertas envolvendo valores mobiliários co m benefícios fiscais
+Avisos ao Mercado nos casos de ofertas envolvendo valores mobiliários com benefícios fiscais
 
-destinadas a qualquer público -alvo.
+destinadas a qualquer público-alvo.
 
 Número e a data de publicação da portaria de aprovação, quando exigida, ou número do
 
@@ -4886,7 +4902,7 @@ protocolo junto ao ministério setorial responsável pelo projeto, caso contrár
 
 Compromisso de alocar os recursos obtidos no projeto prioritário;
 
-Descrição do projeto contendo as informações (a) a (g) acima, admitindo -se nas ofertas que
+Descrição do projeto contendo as informações (a) a (g) acima, admitindo-se nas ofertas que
 
 contem com Prospecto, apenas a informação acerca do setor prioritário em que o projeto se
 
@@ -4924,9 +4940,9 @@ CNPJ, próprios e do titular do projeto, quando se tratar de pessoas jurídicas 
 
 (d) benefícios sociais ou ambientais advindos da implementação do projeto;
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+62
 
-63
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 (e) datas estimadas para o início e para o encerramento do projeto ou, na hipótese de
 
@@ -4934,9 +4950,9 @@ projetos já em curso, a data de início efetivo, a descrição da fase atual e 
 
 o encerramento;
 
-(f) volume estimado dos recursos financeiros totais necessários para a realização do
+(f) projeto; e
 
-projeto; e
+volume estimado dos recursos financeiros totais necessários para a realização do
 
 (g) volume de recursos financeiros que se estima captar com a emissão dos títulos ou
 
@@ -4970,7 +4986,7 @@ Nas ofertas públicas de valores mobiliários com benefícios fiscais, os requer
 
 oferta pública devem ser preenchidos com as informações solicitadas pelo Sistema SRE, conforme
 
-orientações prestadas no Ofício-Circular nº 1/2026/CVM/SRE , divulgado em 26/02/2026 e no
+orientações prestadas no Ofício-Circular nº 1/2026/CVM/SRE, divulgado em 26/02/2026 e no
 
 Ofício-Circular nº 3/2026/CVM/SRE, divulgado em 23/03/2026.
 
@@ -5010,9 +5026,9 @@ informações de que trata o inciso I do caput, para fins de apresentação do r
 
 pública dos valores mobiliários com benefícios fiscais.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+63
 
-64
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 "Comprovante protocolo do projeto no Ministério Setorial se Título incentivado ou Debêntures
 
@@ -5020,7 +5036,7 @@ infra".
 
 2.11.1.3. Debêntures incentivadas emitidas por emissores não registrados
 
-A presente seção subst itui integralmente os parágrafos 22 a 25 do Ofício-Circular nº
+A presente seção substitui integralmente os parágrafos 22 a 25 do Ofício-Circular nº
 
 9/2023/CVM/SRE, expedido em 21/08/2023 e os parágrafos 8º a 11 do Ofício-Circular nº
 
@@ -5056,11 +5072,11 @@ de referências e de modo a atender o disposto no item 11.1 do Anexo B à Resolu
 
 as informações exigidas dos emissores registrados nos itens 1.1, 1.2, 1.11, 1.14, 6.1, 7.1, 8.2, 11.2,
 
-12.1 e 12.3 do formulário de referência . Deve-se destacar a importância d e tais informações como
+12.1 e 12.3 do formulário de referência. Deve-se destacar a importância de tais informações como
 
 parte integrante do prospecto, pois são elas que permitem a compreensão, por parte dos investidores,
 
-do emissor e de suas atividades e características .
+do emissor e de suas atividades e características.
 
 Por fim, acerca da obrigatoriedade de cumprimento do item 11.2 do Anexo B da Resolução CVM nº
 
@@ -5068,9 +5084,9 @@ Por fim, acerca da obrigatoriedade de cumprimento do item 11.2 do Anexo B da Res
 
 últimos exercícios sociais encerrados, com os respectivos pareceres dos auditores independentes e
 
-eventos subsequentes, exceto quando o emissor não as possua por não te r iniciado suas atividades
+eventos subsequentes, exceto quando o emissor não as possua por não ter iniciado suas atividades
 
-previamente ao referido período ;”), sendo exigível o prospecto, seus anexos, documentos que são
+previamente ao referido período;”), sendo exigível o prospecto, seus anexos, documentos que são
 
 parte integrante do prospecto, devem ser apresentados, quer seja incorporados por referência ou
 
@@ -5088,35 +5104,35 @@ demonstrações financeiras no sistema Empresas.Net.
 
 2.11.2. Sociedades limitadas
 
-A presente seção t ece considerações acerca da possibilidade de emissão pública de debêntures por
+A presente seção tece considerações acerca da possibilidade de emissão pública de debêntures por
 
 sociedades limitadas.
 
+64
+
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-65
+Sobre a emissão de debêntures por sociedades limitadas, o Departamento Nacional de Registro
 
-Sobre a emissão de debêntures por sociedades limitadas , o Departamento Nacional de Registro
+Empresarial e Integração (DREI) se manifestou, por intermédio do OFÍCIO CIRCULAR SEI nº
 
-Empresarial e Integração (DREI) se manifestou , por intermédio do OFÍCIO CIRCULAR SEI nº
-
-92/2026/MEMP, expedido em 09/02/2026, no seguinte sentido: “ concluiu-se pela existência de
+92/2026/MEMP, expedido em 09/02/2026, no seguinte sentido: “concluiu-se pela existência de
 
 fundamento legal suficiente para admitir a emissão de debêntures por sociedades limitadas,
 
 especialmente na modalidade conversível, por se tratar do instrumento que melhor se amolda à
 
-natureza jurídica dessas sociedades ”.
+natureza jurídica dessas sociedades”.
 
 Nada obstante, ainda que a interpretação do DREI se aplique às emissões de debêntures por
 
 sociedades limitadas, a Superintendência de Registro de Valores Mobiliários tem entendimento
 
-diverso no que se refere à possibilidade de emissão pública desses tít ulos.
+diverso no que se refere à possibilidade de emissão pública desses títulos.
 
 Na opinião da SRE a emissão pública de debêntures constitui prerrogativa exclusiva das sociedades
 
-anônimas, nos termos da Lei nº 6.404/1976 , não estando disponível às sociedades limitadas .
+anônimas, nos termos da Lei nº 6.404/1976, não estando disponível às sociedades limitadas.
 
 Cabe observar que as sociedades limitadas podem ofertar outros títulos de dívida, com características
 
@@ -5136,7 +5152,7 @@ No âmbito das análises de pedidos de registro sob o rito ordinário de ofertas
 
 de CRI e CRA com lastro corporativo, cujo devedor seja companhia aberta e que tenha como
 
-público-alvo o público investidor em geral , a SRE consultará a SEP a respeito da atualização do
+público-alvo o público investidor em geral, a SRE consultará a SEP a respeito da atualização do
 
 registro da devedora do lastro.
 
@@ -5146,7 +5162,7 @@ Quando houver garantias vinculadas às operações de securitização, que não 
 
 tratada por dispositivos normativos específicos), deverão constar dos principais documentos da
 
-oferta informações que permitam ao investidor efetivamente aval iar em que medida tais garantias
+oferta informações que permitam ao investidor efetivamente avaliar em que medida tais garantias
 
 impactam o risco da operação.
 
@@ -5158,17 +5174,17 @@ informação sobre a Destinação dos Recursos da Oferta (no caso de CRA na dest
 
 Direitos Creditórios do Agronegócio (no caso de CRA na origem), declaração de que a Ofertante e
 
-o Coordenador -Líder da Oferta permanecerão responsáveis pela “veracidade, consistência,
+o Coordenador-Líder da Oferta permanecerão responsáveis pela “veracidade, consistência,
 
 qualidade e suficiência das informações prestadas”, nos termos do art. 24 da Resolução CVM nº
 
-160/2022, o que inclui a comprovação da e fetiva condição de produtor rural, ou suas cooperativas,
+160/2022, o que inclui a comprovação da efetiva condição de produtor rural, ou suas cooperativas,
 
 daqueles assim considerados na documentação da Oferta, bem como dos produtos transacionados
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+65
 
-66
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 no âmbito de seu lastro como produto ou insumo agropecuário, máquinas ou implementos agrícolas,
 
@@ -5176,17 +5192,17 @@ conforme constar expressamente de sua documentação.
 
 2.12.4. FIC-FIDC
 
-A aplicação dos itens 11.2, 11.3 e 11.4 do Anexo D da Resolução CVM nº 160/2022 aos FIC -FIDC
+A aplicação dos itens 11.2, 11.3 e 11.4 do Anexo D da Resolução CVM nº 160/2022 aos FIC-FIDC
 
 se dá em relação ao consolidado dos direitos creditórios que compõem e comporão o patrimônio dos
 
-FIDCs investidos. Nesse sentido, caso o FIC -FIDC, via seus FIDCs i nvestidos, esteja exposto a
+FIDCs investidos. Nesse sentido, caso o FIC-FIDC, via seus FIDCs investidos, esteja exposto a
 
 direitos creditórios cuja concentração atinja os limites previstos nos dispositivos normativos em
 
 questão, o Prospecto de oferta por ele realizada deve conter as informações exigidas por tais
 
-dispositivos sobre devedores e coobr igados dos referidos direitos creditórios ou, em havendo essa
+dispositivos sobre devedores e coobrigados dos referidos direitos creditórios ou, em havendo essa
 
 possibilidade, deverá ser inserida no Prospecto declaração do administrador se comprometendo a
 
@@ -5198,9 +5214,9 @@ limites sejam atingidos e a oferta ainda esteja em distribuição.
 
 Com base em precedentes analisados pelo Colegiado da CVM ao longo do tempo, notadamente no
 
-âmbito dos processos CVM nº 19957.000587/2016 -51 (decisão do colegiado de 16/8/2016, caso
+âmbito dos processos CVM nº 19957.000587/2016-51 (decisão do colegiado de 16/8/2016, caso
 
-Cyrela) e 19957.001669/2016 -13 (decisão do colegiado de 30/8/2016, caso Bur ger King), passou a
+Cyrela) e 19957.001669/2016-13 (decisão do colegiado de 30/8/2016, caso Burger King), passou a
 
 ser possível a emissão de CRI e CRA lastreados respectivamente em créditos considerados
 
@@ -5218,7 +5234,7 @@ Serão considerados CRIs lastreados em créditos considerados imobiliários na s
 
 em que cumulativamente:
 
-(i) seja incluída, na documentação da oferta , relação exaustiva dos imóveis para os quais serão
+(i) seja incluída, na documentação da oferta, relação exaustiva dos imóveis para os quais serão
 
 destinados os recursos oriundos da emissão, de modo a configurar o vínculo previsto pelo
 
@@ -5238,7 +5254,7 @@ a verificação da destinação de recursos da oferta;
 
 destinação dos recursos obtidos por meio da emissão, que deverá ser no máximo a data de
 
-vencimento dos CRI, sendo certo que, havendo a possibilidade de resgate o u vencimento
+vencimento dos CRI, sendo certo que, havendo a possibilidade de resgate ou vencimento
 
 antecipado, deverá ainda ser inserida na documentação da oferta informação de que as
 
@@ -5252,15 +5268,15 @@ dos recursos seja efetivada;
 
 destinação dos recursos obtidos por meio da emissão aos imóveis vinculados, definindo
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+66
 
-67
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 precisamente um percentual, relativo ao valor total captado na oferta, que será destinado a
 
 cada um dos referidos imóveis. Tal cronograma indicativo deverá conter informação sobre a
 
-previsão de destinação geral dos recursos oriundos da oferta no mínimo sem estralmente, em
+previsão de destinação geral dos recursos oriundos da oferta no mínimo semestralmente, em
 
 linha com a periodicidade estabelecida para o acompanhamento pelo agente fiduciário;
 
@@ -5274,7 +5290,7 @@ qualquer outro documento que se faça necessário;
 
 (vi) seja demonstrada a capacidade de se destinar aos imóveis vinculados todo o montante de
 
-recursos que será obtido com a emissão, dentro do prazo dos CRI .Deve-se levar em conta,
+recursos que será obtido com a emissão, dentro do prazo dos CRI.Deve-se levar em conta,
 
 com relação a cada imóvel, o montante de recursos até o momento despendido, a capacidade
 
@@ -5306,7 +5322,7 @@ lastro deixar de ser companhia aberta;
 
 destinação de recursos, além daqueles inicialmente previstos no Termo de Securitização, tal
 
-possibilidade tem que estar prevista no Termo de Securitização e nos de mais documentos da
+possibilidade tem que estar prevista no Termo de Securitização e nos demais documentos da
 
 oferta, assim como a informação sobre a necessidade de que essa inserção seja aprovada pelos
 
@@ -5326,7 +5342,7 @@ suas cooperativas, nos termos do inciso II do § 4º do art. 2º do Anexo II da 
 
 60/2021:
 
-(i) seja incluída na documentação da oferta previsão expressa de que os recursos oriundos da
+(i) (ii) seja incluída na documentação da oferta previsão expressa de que os recursos oriundos da
 
 emissão serão destinados exclusivamente a produtores rurais, ou suas cooperativas,
 
@@ -5338,19 +5354,19 @@ cooperativa de produtor rural, de todos aqueles que forem relacionados como tal 
 
 documentação da oferta;
 
-(ii) sejam apresentados os contratos ou outros documentos vigentes entre os terceiros e produtores
+sejam apresentados os contratos ou outros documentos vigentes entre os terceiros e produtores
 
 rurais ou suas cooperativas, em montantes e prazos compatíveis com os da emissão dos CRA;
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+67
 
-68
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 (iii) seja justificada a condição de produto agropecuário, insumo agropecuário ou máquinas e
 
 implementos utilizados na atividade agropecuária de todos os produtos que estão envolvidos
 
-nos negócios realizados entre produtores rurais, ou suas cooperativas, e terce iros, negócios
+nos negócios realizados entre produtores rurais, ou suas cooperativas, e terceiros, negócios
 
 esses aos quais se destinarão os recursos oriundos da oferta;
 
@@ -5370,7 +5386,7 @@ recursos da oferta;
 
 destinação dos recursos obtidos por meio da emissão, que deverá ser no máximo a data de
 
-vencimento dos CRA, sendo certo que, havendo a possibilidade de resgate o u vencimento
+vencimento dos CRA, sendo certo que, havendo a possibilidade de resgate ou vencimento
 
 antecipado, deverá ainda ser inserida na documentação da oferta informação de que as
 
@@ -5398,7 +5414,7 @@ ou suas cooperativas, e terceiros, no âmbito dos contratos ou outros documentos
 
 formalizem tais negócios, todo o montante de recursos que será obtido com a emissão, dentro
 
-do prazo dos CRA, levando -se em conta, para tal, o montante de recursos até o momento
+do prazo dos CRA, levando-se em conta, para tal, o montante de recursos até o momento
 
 despendido, bem como a destinação de recursos já programada em função de outros CRA já
 
@@ -5414,7 +5430,7 @@ aberta.
 
 (ix) Nos termos da Decisão do Colegiado da CVM de 22/01/2019, no âmbito do Processo CVM
 
-nº 19957.009605/2018 -22, foi esclarecido que o aluguel de máquinas e implementos
+nº 19957.009605/2018-22, foi esclarecido que o aluguel de máquinas e implementos
 
 agrícolas a produtores rurais pode ser considerado como destinação de recursos para fins de
 
@@ -5430,9 +5446,9 @@ por produtores rurais ou suas cooperativas, nos termos do inciso III do § 4º d
 
 Resolução CVM nº 60/2021:
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+68
 
-69
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 (i) seja incluída na documentação comprovação da condição de produtor rural, ou de cooperativa
 
@@ -5444,7 +5460,7 @@ CRA;
 
 suas cooperativas, às quais se destinarão os recursos oriundos da emissão dos CRA, que
 
-deverão se enquadrar dentre as atividades de produção, comercialização, benefi ciamento e
+deverão se enquadrar dentre as atividades de produção, comercialização, beneficiamento e
 
 industrialização compreendidas no caput e incisos do art. 2º do Anexo II da Resolução CVM
 
@@ -5480,7 +5496,7 @@ destinação de recursos da oferta;
 
 destinação dos recursos obtidos por meio da emissão, que deverá ser no máximo a data de
 
-vencimento dos CRA, sendo certo que, havendo a possibilidade de resgate o u vencimento
+vencimento dos CRA, sendo certo que, havendo a possibilidade de resgate ou vencimento
 
 antecipado, deverá ainda ser inserida na documentação da oferta informação de que as
 
@@ -5522,11 +5538,9 @@ de recursos já programada em função de outros CRA já emitidos, no âmbito de
 
 (viii) nas ofertas direcionadas a investidores em geral, qualificados ou não, realizadas nos termos
 
-do art. 7º do Anexo II da Resolução CVM nº 60/2021, em que a devedora do lastro deverá ser
+do art. 7º do Anexo II da Resolução CVM nº 60/2021, em que a devedora do lastro deverá ser69
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-70
 
 companhia aberta, hipótese de resgate antecipado em caso de a devedora do lastro deixar de
 
@@ -5542,7 +5556,7 @@ direito creditório do agronegócio (no caso do CRA), sempre na seção que trat
 
 recursos da oferta.
 
-Adicionalmente ao exposto acima, é importante ressaltar a edição da Resolução CMN nº 5.118 /24,
+Adicionalmente ao exposto acima, é importante ressaltar a edição da Resolução CMN nº 5.118/24,
 
 que introduziu limitadores à emissão de CRI e CRA, bem como CDCA, limitadores esses que devem
 
@@ -5556,13 +5570,13 @@ Certificados de Direitos Creditórios do Agronegócio – CDCAs.
 
 ## Art. 2º
 
-Para os efeitos desta Resolução, entende -se por:
+Para os efeitos desta Resolução, entende-se por:
 
 I - títulos de dívida: os títulos, valores mobiliários e instrumentos contratuais representativos de
 
 crédito, de promessa de pagamento futuro ou de operações de financiamento tais como debêntures,
 
-notas promissórias, notas comerciais, cédulas de crédito ba ncário, certificados de depósito
+notas promissórias, notas comerciais, cédulas de crédito bancário, certificados de depósito
 
 bancário, letras financeiras, contratos de empréstimo, contratos de financiamento, arrendamento
 
@@ -5584,7 +5598,7 @@ recepcionado pela Comissão de Valores Mobiliários.
 
 contratos e as obrigações de natureza comercial, tais como duplicatas e contratos de locação, de
 
-compra e venda, de promessa de compra e venda e de usufruto re lacionados a imóveis.
+compra e venda, de promessa de compra e venda e de usufruto relacionados a imóveis.
 
 ## Art. 3º
 
@@ -5608,9 +5622,9 @@ b) decorrentes de operações financeiras cujos recursos sejam utilizados para r
 
 despesas.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+70
 
-71
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Parágrafo único. Também ficam vedadas as emissões e ofertas em que as instituições e as
 
@@ -5676,7 +5690,7 @@ securitizadora será responsável pela efetiva vinculação de produtores rurais
 
 lastro da operação; (ii) os produtos ou insumos envolvidos nas transações que originaram os direitos
 
-creditórios lastro da operação sejam de utilização integral na produção agrícola; e (iii) os ceden tes
+creditórios lastro da operação sejam de utilização integral na produção agrícola; e (iii) os cedentes
 
 envolvidos na operação declarem que todos os seus clientes vinculados aos direitos creditórios lastro
 
@@ -5688,7 +5702,7 @@ da condição de produtor rural de todos aqueles assim considerados no âmbito d
 
 a responsabilidade do emissor e do coordenador líder da oferta, nos termos do art. 24 da Resolução
 
-CVM nº 160/2022, pela “ veracidade, consistência, qualidade e suficiência das informações
+CVM nº 160/2022, pela “veracidade, consistência, qualidade e suficiência das informações
 
 prestadas”, o que incluiria a condição de produtor rural de todos que assim foram considerados na
 
@@ -5698,15 +5712,15 @@ Por fim, cumpre destacar que, nesses casos, o Prospecto da oferta deverá inform
 
 adotados pela companhia securitizadora – tal como a verificação por amostragem – ou outras
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+71
 
-72
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 circunstâncias por ela consideradas para atestar a adequação do lastro dos CRA a serem distribuídos,
 
 permitindo, dessa forma, demonstrar sua diligência e responsabilidade pela regularidade da operação
 
-de securitização dos direitos creditórios. Adicionalmen te, dos fatores de risco devem constar, se for
+de securitização dos direitos creditórios. Adicionalmente, dos fatores de risco devem constar, se for
 
 o caso, considerações acerca da efetividade dos procedimentos adotados pela securitizadora nesse
 
@@ -5718,7 +5732,7 @@ Nos termos da Decisão do Colegiado no âmbito do Processo 19957.000001/2021-16,
 
 sido deliberada apenas por um ato global de emissões da Securitizadora, e desde que o Estatuto
 
-Social não preveja um ato específico para cada oferta e dê compe tência à Diretoria para tomar
+Social não preveja um ato específico para cada oferta e dê competência à Diretoria para tomar
 
 decisões sobre oferta dentro do capital autorizado, tal ato global seria suficiente para adimplir o
 
@@ -5756,7 +5770,7 @@ toda a vigência dos CDCA, seu lastro se mantenha com valor no mínimo igual ao 
 
 Ademais, como o CDCA confere direito de penhor sobre os direitos creditórios a ele vinculado, nos
 
-termos do Art. 32 da Lei nº 11.076/ 2004, deve constar da documentação da oferta informações
+termos do Art. 32 da Lei nº 11.076/2004, deve constar da documentação da oferta informações
 
 referentes aos direitos creditórios lastro dos CDCA, que constituem garantia aos CDCA e aos CRA,
 
@@ -5776,13 +5790,13 @@ produtores rurais ou suas cooperativas; e (ii) a obrigação de que a securitiza
 
 situação da documentação citada em (i) acima.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+72
 
-73
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Cumpre ainda ressaltar que, nos termos da Decisão do Colegiado da CVM de 21/05/2019, no âmbito
 
-do Processo CVM nº 19957.000395/2019 -98, foi esclarecido que as emissões de CRA que contam
+do Processo CVM nº 19957.000395/2019-98, foi esclarecido que as emissões de CRA que contam
 
 com lastro pulverizado, em que haja a vinculação de um número grande de produtores rurais a ponto
 
@@ -5794,7 +5808,7 @@ que a securitizadora será responsável pela efetiva verificação da vinculaç�
 
 direitos creditórios lastro da operação; (ii) os produtos ou insumos envolvidos nas transações que
 
-originaram os direitos creditórios lastro da operação sejam de utilização inte gral na produção
+originaram os direitos creditórios lastro da operação sejam de utilização integral na produção
 
 agrícola; e (iii) os cedentes envolvidos na operação declarem que todos os seus clientes vinculados
 
@@ -5806,7 +5820,7 @@ de produtor rural de todos aqueles assim considerados no âmbito da operação n
 
 responsabilidade do emissor e do coordenador líder da oferta, nos termos do art. 24 da Resolução
 
-CVM nº 160/2022, pela “ suficiência, veracidade, precisão, consistência e atualidade dos
+CVM nº 160/2022, pela “suficiência, veracidade, precisão, consistência e atualidade dos
 
 documentos da oferta e demais informações fornecidas ao mercado durante a oferta pública de
 
@@ -5818,7 +5832,7 @@ informar os procedimentos adotados pela companhia securitizadora – tal como a 
 
 amostragem – ou outras circunstâncias por ela consideradas para atestar a adequação do lastro dos
 
-CRA a serem distribuídos, permitindo, dessa fo rma, demonstrar sua diligência e responsabilidade
+CRA a serem distribuídos, permitindo, dessa forma, demonstrar sua diligência e responsabilidade
 
 pela regularidade da operação de securitização dos direitos creditórios. Adicionalmente, dos fatores
 
@@ -5828,7 +5842,7 @@ adotados pela securitizadora nesse sentido.
 
 2.12.11. Diferenças entre séries de classe sênior e reabertura de série
 
-Nos termos do § 2º do art. 41 da Resolução CVM nº 60/ 2021, "A classe sênior não pode se dividir
+Nos termos do § 2º do art. 41 da Resolução CVM nº 60/2021, "A classe sênior não pode se dividir
 
 em subclasses, admitindo-se sua divisão em séries exclusivamente com o fim de se estabelecer, para
 
@@ -5838,13 +5852,15 @@ Nesse sentido, entendemos que séries distintas de classe sênior de uma mesma e
 
 diferenciar por remuneração e/ou conter prazos distintos de amortização. Caso não haja essa
 
-diferenciação mínima requerida pela regulamentação, trata -se da mesma série, de modo que uma
+diferenciação mínima requerida pela regulamentação, trata-se da mesma série, de modo que uma
 
 oferta subsequente deve ser tratada como reabertura de série, e não como uma nova série, devendo,
 
-nesse sentido, observar as recomendações contidas n a seção “2.3.2 Ofertas com Reabertura de
+nesse sentido, observar as recomendações contidas na seção “2.3.2 Ofertas com Reabertura de
 
-Série”.
+Série”
+
+.
 
 2.12.12. Cronograma da oferta de diferentes séries ou com reabertura de séries
 
@@ -5860,9 +5876,9 @@ Cumpre citar que, em se tratando de determinada série de classe sênior de Cert
 
 de uma mesma emissão, trata-se do mesmo valor mobiliário, de modo que não poderia haver ofertas
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+73
 
-74
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 sendo realizadas concomitantemente, devendo a oferta vigente ser encerrada para que a próxima
 
@@ -5870,13 +5886,13 @@ possa ser iniciada.
 
 Ademais, caso a intenção do ofertante seja realizar ofertas de diferentes séries de classe sênior da
 
-mesma emissão (observado o disposto n a seção 2.12.11 acima), com diferentes datas de início da
+mesma emissão (observado o disposto na seção 2.12.11 acima), com diferentes datas de início da
 
 oferta, encerramento e liquidação, sob um mesmo requerimento de registro, cumpre esclarecer que o
 
 prazo máximo de 180 dias durante o qual a oferta deve ser realizada, nos termos do art. 48 da
 
-Resolução CVM nº 160/2022, iniciar -se-á quando da divulgação do Anúncio de Início de
+Resolução CVM nº 160/2022, iniciar-se-á quando da divulgação do Anúncio de Início de
 
 Distribuição, ainda que apenas a primeira das séries a serem ofertadas tenha de fato tido sua colocação
 
@@ -5892,7 +5908,7 @@ da oferta aplicam-se à oferta como um todo e valem para cada uma das séries of
 
 um mesmo requerimento contar com diferentes datas de início e encerramento para as séries.
 
-Nesse sentido, reiteramos a recomendação já externada por meio do Ofício -Circular
+Nesse sentido, reiteramos a recomendação já externada por meio do Ofício-Circular
 
 nº7/2023/CVM/SRE, nos seguintes termos:
 
@@ -5942,9 +5958,9 @@ Nada obstante, se a intenção do ofertante for de fato distribuir diferentes s�
 
 mesma emissão por meio de uma oferta única, com o esforço de colocação acontecendo
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+74
 
-75
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 simultaneamente para todos os valores mobiliários, deverá ser utilizado o mesmo requerimento de
 
@@ -5966,7 +5982,7 @@ Em 14 de setembro de 2020, foi editada a Resolução CVM nº 6/2020, que revogou
 
 nº 260/1997. Com base na atual redação da norma, as ofertas públicas de distribuição de certificados
 
-de investimento para a produção, distribuição, exibição e infra -estrutura técnica de obras
+de investimento para a produção, distribuição, exibição e infra-estrutura técnica de obras
 
 audiovisuais cinematográficas brasileiras (CAV) não estão sujeitas a registro na CVM, observados
 
@@ -5986,17 +6002,17 @@ Ressaltamos que os registros concedidos ao amparo da Instrução CVM nº 260/199
 
 todos com prazo de distribuição vencido, portanto não se prestando mais a amparar eventual
 
-distribuição pública de CAVs . Dessa forma , não se faz necessário pedido de cancelamento de
+distribuição pública de CAVs. Dessa forma, não se faz necessário pedido de cancelamento de
 
-registro de distribuição ou de cancelamento de quotas . Já as novas distribuições não estão mais
+registro de distribuição ou de cancelamento de quotas. Já as novas distribuições não estão mais
 
-sujeitas a prévio registro na CVM , nos termos da Resolução CVM nº 6/2020.
+sujeitas a prévio registro na CVM, nos termos da Resolução CVM nº 6/2020.
 
 Deste modo, não há quaisquer obrigações referentes ao antigo registro de distribuição obtido ao
 
 amparo da Instrução CVM nº 260/1997, caso não tenha havido subscrição de quotas no âmbito de
 
-ofertas públicas de CAVs . Já para os projetos que realizaram captações , são válidos os requisitos
+ofertas públicas de CAVs. Já para os projetos que realizaram captações, são válidos os requisitos
 
 informacionais nos termos da Resolução CVM nº 6/2020.
 
@@ -6016,19 +6032,19 @@ Cabe destacar que não se aplica ao procedimento para descontinuidade de program
 
 Resolução CVM nº 215/2024, a menos que tenha o ofertante, nos documentos da distribuição pública
 
-dos certificados , assumido o compromisso de realizar uma oferta pública de aquisição dos
+dos certificados, assumido o compromisso de realizar uma oferta pública de aquisição dos
 
-certificados, nos moldes previstos pela citada Resolução , quando de sua descontinuidade .
+certificados, nos moldes previstos pela citada Resolução, quando de sua descontinuidade.
+
+75
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-76
 
 A Resolução CVM nº 182/2023 prevê a obrigação de que os pedidos de cancelamento do registro
 
 de programa de BDR, a serem apreciados pela SRE de acordo com os prazos de análise aplicáveis a
 
-pedidos de registro de ofertas públicas de distribuição, sejam instr uídos com declaração da entidade
+pedidos de registro de ofertas públicas de distribuição, sejam instruídos com declaração da entidade
 
 administradora de mercado de balcão organizado ou bolsa de valores em que os certificados sejam
 
@@ -6040,7 +6056,7 @@ adicionais para instruir a análise do pedido de cancelamento.
 
 Vale lembrar que os procedimentos para descontinuidade dos programas de BDR devem observar o
 
-procedimento previsto no s artigos 78 e 79 do “Regulamento de Emissores ” da B3, disponível em:
+procedimento previsto nos artigos 78 e 79 do “Regulamento de Emissores” da B3, disponível em:
 
 https://www.b3.com.br/data/files/4F/80/31/4B/9BF5E91064BF82E9AC094EA8/Regulamento%20
 
@@ -6054,11 +6070,11 @@ Em situações excepcionais e justificadas, a instituição depositária ou o em
 
 conforme o caso, poderá submeter à aprovação da B3 procedimentos e condições diferenciados, para
 
-descontinuidade do programa de BDR, conforme art. 79 do Regulamento de Emissores . Tais
+descontinuidade do programa de BDR, conforme art. 79 do Regulamento de Emissores. Tais
 
 procedimentos, quando envolverem programa de BDR patrocinado, deverão ser submetidos à SRE
 
-para análise e posterior submissão ao Colegiado da CVM .
+para análise e posterior submissão ao Colegiado da CVM.
 
 3. OFERTA PÚBLICA DE AQUISIÇÃO – OPA
 
@@ -6068,7 +6084,7 @@ Esclarecemos que o pleito de cancelamento de registro de emissor deve obedecer a
 
 disposto no § 4º do art. 4º da Lei nº 6.404/1976, na Resolução CVM nº 215/2024 e nos artigos 51,
 
-52 e 55 da Resolução CVM nº 80/ 2022, devendo a companhia ser previamente objeto de oferta
+52 e 55 da Resolução CVM nº 80/2022, devendo a companhia ser previamente objeto de oferta
 
 pública de aquisição de ações (“OPA”) para cancelamento de registro, nos termos do dispositivo
 
@@ -6082,13 +6098,13 @@ exigidas pela própria norma, mas não a dispensa de OPA efetivamente, cuja obri
 
 de dispositivo legal, conforme já foi manifestado pelo Colegiado desta Comissão, em reuniões
 
-datadas de 24/8/2004 e 17/11/2009, esta última no âmbito do Processo CVM nº RJ 2009 -4470.
+datadas de 24/8/2004 e 17/11/2009, esta última no âmbito do Processo CVM nº RJ 2009-4470.
 
-Cabe à CVM, então, manifestar -se favoravelmente à não realização de OPA apenas nas hipóteses
+Cabe à CVM, então, manifestar-se favoravelmente à não realização de OPA apenas nas hipóteses
 
 em que: (i) não há previsão legal para a mesma; (ii) não há titulares de ações em circulação, conforme
 
-definido no art. 4º -A, § 2º da Lei nº 6.404/1976 e no inciso II do art. 2º da Resolução CVM nº
+definido no art. 4º-A, § 2º da Lei nº 6.404/1976 e no inciso II do art. 2º da Resolução CVM nº
 
 215/2024; e (iii) na eventualidade de existirem ações em circulação, a unanimidade dos titulares de
 
@@ -6098,21 +6114,21 @@ intermédio de Assembleia Geral Extraordinária, seja por meio de declaração i
 
 acionistas.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+76
 
-77
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Nos demais casos, deve-se analisar tão somente a possibilidade de realização de oferta pública com
 
 adoção de procedimento diferenciado, nos termos do art. 70 da Resolução CVM nº 215/2024, bem
 
-como o cumprimento do disposto nos art igos 51 e 52 da Resolução CVM nº 80/2022.
+como o cumprimento do disposto nos artigos 51 e 52 da Resolução CVM nº 80/2022.
 
 Ademais, cabe ressaltar que, para fins de cancelamento de registro de emissor na categoria A ou B,
 
 em existindo outros valores mobiliários em circulação que não ações e certificado de depósito de
 
-ações, deverão ser observadas todas as condições previstas p elo art. 51 da Resolução CVM nº
+ações, deverão ser observadas todas as condições previstas pelo art. 51 da Resolução CVM nº
 
 80/2022, não importando se tais valores mobiliários foram ou não distribuídos publicamente ou
 
@@ -6126,7 +6142,7 @@ Cumpre mencionar ainda que, quando o pleito de cancelamento de registro for prec
 
 de incorporação de ações de emissão da companhia aberta realizada por companhia fechada, há de
 
-se considerar os precedentes do Colegiado desta Autarquia (RJ 2005/5203 e CVM RJ 2004/2274 )
+se considerar os precedentes do Colegiado desta Autarquia (RJ 2005/5203 e CVM RJ 2004/2274)
 
 acerca desta hipótese, pelos quais entendemos que tal operação, ainda que promovida por companhia
 
@@ -6140,7 +6156,7 @@ previstos na legislação, em fraude à lei.
 
 Nesse sentido, sempre que houver essa situação, solicitamos que, junto ao pleito de cancelamento
 
-de registro da companhia aberta , seja apresentada manifestação sobre o tema em questão, em face
+de registro da companhia aberta, seja apresentada manifestação sobre o tema em questão, em face
 
 da incorporação da Companhia que foi realizada anteriormente ao pedido de cancelamento de seu
 
@@ -6158,11 +6174,11 @@ regulamentado ou tenha sido objeto de distribuição pública. Lembrando que val
 
 circulação são aqueles que não são detidos pela própria companhia, seu acionista controlador ou
 
-pessoa a ele vinculada ou por administradores, ainda que não estejam admitido s à negociação em
+pessoa a ele vinculada ou por administradores, ainda que não estejam admitidos à negociação em
 
-mercado regulamentado ou não tenham sido objeto de oferta pública .
+mercado regulamentado ou não tenham sido objeto de oferta pública.
 
-Solicitamos ainda que tod os os documentos encaminhados no âmbito do pleito de cancelamento de
+Solicitamos ainda que todos os documentos encaminhados no âmbito do pleito de cancelamento de
 
 registro sejam acompanhados, naquilo que couber, de documentação que comprove os poderes de
 
@@ -6178,9 +6194,9 @@ O pleito deve ser formulado por meio do Sistema SRE, seguindo as orientações c
 
 Circular CVM/SRE nº 04/25.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+77
 
-78
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 3.3. Dispensa de Laudo de Avaliação em OPA por concordância prévia com o preço
 
@@ -6190,13 +6206,15 @@ CVM nº 215/24, quando o preço da OPA for determinado “com base no preço ao 
 
 titulares de mais de 1/3 (um terço) das ações em circulação tenham se comprometido a vender tais
 
-ações na OPA[...]”, nas situações em que a OPA seja realizada apenas a determinada espécie e/ou
+ações na OPA[...]”
+
+, nas situações em que a OPA seja realizada apenas a determinada espécie e/ou
 
 classe de ações, o laudo de avaliação em questão seria um documento destinado aos titulares dessas
 
 ações, e não a todos os acionistas da companhia objeto, de modo que entendemos que a aplicação
 
-mais razoável para o dispositivo em questão seria considerar o termo "ações em circulação" , para
+mais razoável para o dispositivo em questão seria considerar o termo "ações em circulação", para
 
 fins deste dispositivo, como sendo as ações em circulação objeto da OPA.
 
@@ -6204,7 +6222,7 @@ Seguindo a mesma lógica, ao tratarmos do laudo de avaliação exigido para as O
 
 conforme previsto pelo § 1º do art. 18 da Resolução CVM 215, entendemos que referido documento
 
-também poderia ser dispensado com base em concordância prévia por pa rte de titulares de mais de
+também poderia ser dispensado com base em concordância prévia por parte de titulares de mais de
 
 1/3 das ações em circulação objeto da OPA, devendo a concordância prévia, nesse caso, ter como
 
@@ -6214,7 +6232,7 @@ ação objeto da OPA, desde que observados os requisitos do Art. 61 da Resoluç�
 
 os valores mobiliários dados em permuta devem ser admitidos à negociação em mercados
 
-regulamentados brasileiros, salvo exceções previstas na norma .
+regulamentados brasileiros, salvo exceções previstas na norma.
 
 Em complemento ao entendimento em questão, cabe enfatizar que, quando a OPA estiver sendo
 
@@ -6236,13 +6254,13 @@ diversos conforme a classe e espécie das ações objeto da OPA, desde que compa
 
 modalidade de OPA e se a diferença for justificada pelo laudo de avaliação da companhia objeto
 
-ou por declaração expressa do ofertante quanto às razões de sua oferta diferenciada" .
+ou por declaração expressa do ofertante quanto às razões de sua oferta diferenciada".
 
 Com base no dispositivo supra, entendemos que, quando houver fundamento para que as diferentes
 
 espécies e classes de ações objeto da OPA tenham preços distintos, especialmente no que tange às
 
-diferenças em seus direitos políticos e econômicos, a verificaçã o da aceitação por titulares de mais
+diferenças em seus direitos políticos e econômicos, a verificação da aceitação por titulares de mais
 
 de 1/3 das ações em circulação deve ser realizada individualmente por espécie e classe.
 
@@ -6250,25 +6268,25 @@ Ademais, é importante ressaltar que a utilização da faculdade prevista no inc
 
 Resolução CVM 215 não suprime as salvaguardas legais conferidas aos acionistas minoritários.
 
-Conforme expressamente previsto no § 1º do mesmo artigo, tal disp ensa não afasta o direito de os
+Conforme expressamente previsto no § 1º do mesmo artigo, tal dispensa não afasta o direito de os
 
-acionistas objeto da oferta pleitearem a revisão de seu preço, nos termos do art. 4º -A da Lei nº
+acionistas objeto da oferta pleitearem a revisão de seu preço, nos termos do art. 4º-A da Lei nº
 
 6.404/76 e dos artigos 39 a 43 da Resolução CVM 215.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+78
 
-79
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Dessa forma, caso os acionistas que não celebraram o compromisso de venda discordem do preço
 
 ofertado, eles mantêm o direito de requerer a convocação de assembleia especial para deliberar sobre
 
-a realização de nova avaliação, desde que preenchidos os requi sitos de titularidade mínima exigidos
+a realização de nova avaliação, desde que preenchidos os requisitos de titularidade mínima exigidos
 
 pela norma (10% das ações em circulação no mercado) e a oferta em questão seja da modalidade
 
-“para cancelamento de registro” ou “por aumento de participação” .
+“para cancelamento de registro” ou “por aumento de participação”.
 
 4. SUPERVISÃO E ENFORCEMENT
 
@@ -6288,7 +6306,7 @@ A SRE, em sua atividade de supervisionar as ofertas públicas de distribuição 
 
 e ofertas públicas de aquisição de ações (OPA), realiza diversas ações para cumprir os mandatos
 
-legais de proteger os investidores contra (i) emissões irreg ulares de valores mobiliários, (ii) práticas
+legais de proteger os investidores contra (i) emissões irregulares de valores mobiliários, (ii) práticas
 
 não-equitativas de mercado bem como (iii) assegurar ao público o acesso às informações sobre os
 
@@ -6306,7 +6324,7 @@ c) Fiscalização de ofertas efetuadas sem registro, em desacordo com o registro
 
 em desacordo com a condição de dispensa de registro.
 
-Em relação ao Plano Bienal do SBR elaborado para o período de 20 25-2026, vale destacar que
+Em relação ao Plano Bienal do SBR elaborado para o período de 2025-2026, vale destacar que
 
 nenhum dos riscos supervisionados pela SRE foi classificado como estratégico, entretanto a
 
@@ -6314,49 +6332,49 @@ Superintendência supervisiona os riscos relacionados a seguir nas suas atividad
 
 baseada em risco:
 
-1) Irregularidades nos termos de editais de OPA com registro automático;
+1) 2) 3) 4) 5) 6) Irregularidades nos termos de editais de OPA com registro automático;
 
-2) Ofertas públicas de valores mobiliários sem pedido ou dispensa de registro, em desacordo
+Ofertas públicas de valores mobiliários sem pedido ou dispensa de registro, em desacordo
 
 com a regulamentação. [Mercado Marginal];
 
-3) Divulgação de informações ou manifestação na imprensa em período vedado.
+Divulgação de informações ou manifestação na imprensa em período vedado.
 
 [Manifestação na mídia em ofertas públicas];
 
-4) Distribuição de CIC hoteleiro se processando com informações desatualizadas (prospecto
+Distribuição de CIC hoteleiro se processando com informações desatualizadas (prospecto
 
 e estudo de viabilidade);
 
-5) Utilização de materiais publicitários em oferta de CIC hoteleiro em desacordo com a
+Utilização de materiais publicitários em oferta de CIC hoteleiro em desacordo com a
 
 regulamentação;
 
-6) Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
+Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
 
 automático na CVM e destinadas a investidores profissionais;
 
+79
+
 Ofício-Circular/ANUAL-2026-CVM/SRE
 
-80
-
-7) Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
+7) 8) 9) 10) 11) Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
 
 automático na CVM, sem análise prévia pela entidade autorreguladora;
 
-8) Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
+Irregularidades e vícios em ofertas públicas de valores mobiliários com registro
 
 automático na CVM, com análise prévia pela entidade autorreguladora;
 
-9) Irregularidades e vícios na utilização de material publicitário em ofertas públicas de
+Irregularidades e vícios na utilização de material publicitário em ofertas públicas de
 
 distribuição;
 
-10) Falhas por parte de emissores não registrados em não apresentar DFs dos últimos 3
+Falhas por parte de emissores não registrados em não apresentar DFs dos últimos 3
 
 exercícios até o dia anterior ao início das negociações;
 
-11) Irregularidades no cumprimento dos requisitos da norma de registro de coordenadores de
+Irregularidades no cumprimento dos requisitos da norma de registro de coordenadores de
 
 ofertas públicas de distribuição de valores mobiliários.
 
@@ -6364,9 +6382,9 @@ Para cada evento de risco, uma amostra é selecionada e analisada para apuraçã
 
 durante ou após a oferta, conforme o caso.
 
-A íntegra da versão pública do Plano Bienal 20 25-2026 do SBR , contendo os riscos estratégicos
+A íntegra da versão pública do Plano Bienal 2025-2026 do SBR, contendo os riscos estratégicos
 
-tratados pela CVM , encontra-se disponível em https://www.gov.br/cvm/pt-br/acesso-a-informacao-
+tratados pela CVM, encontra-se disponível em https://www.gov.br/cvm/pt-br/acesso-a-informacao-
 
 cvm/acoes-e-programas/plano-de-supervisao-baseada-em-risco/2025-2026-1/plano-bienal-sbr-cvm-
 
@@ -6380,7 +6398,7 @@ Comissão de Valores Mobiliários é a Resolução CVM nº 45/2021, a qual pode 
 
 maiores detalhes acerca dos procedimentos atinentes aos processos sancionadores instaurados pela
 
-SRE. A referida Instrução pode ser acessada no site da CVM, no menu “ Assuntos” / “ Normas” /
+SRE. A referida Instrução pode ser acessada no site da CVM, no menu “Assuntos” / “Normas” /
 
 “Resoluções”, ou disponível em: https://conteudo.cvm.gov.br/legislacao/resolucoes.html.
 
@@ -6404,7 +6422,7 @@ encaminhar a proposta completa de termo de compromisso à Gerência de Controle 
 
 Sancionadores - GCP em até 30 dias após a apresentação de defesa.
 
-Nos termos do parágrafo 3º do art . 82 da Resolução CVM nº 45/2021, é admitida a apresentação de
+Nos termos do parágrafo 3º do art. 82 da Resolução CVM nº 45/2021, é admitida a apresentação de
 
 proposta de termo de compromisso ainda antes ou na fase de apuração preliminar dos fatos, que, neste
 
@@ -6416,9 +6434,9 @@ de celebração de termo de compromisso apresentada fora do prazo acima menciona
 
 de oferta de indenização substancial aos lesados pela conduta objeto do processo e de modificação da
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+80
 
-81
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 situação de fato existente quando do término do referido prazo, a análise e negociação da proposta
 
@@ -6444,19 +6462,19 @@ Tendo em vista a promulgação da Lei nº 13.506, de 13 de novembro 2017, os ter
 
 celebrados passaram a ser publicados no site da CVM, ao invés de no Diário Oficial da União, com
 
-discriminação do prazo para cumprimento das obrigações eventual mente assumidas (art. 11, § 7º).
+discriminação do prazo para cumprimento das obrigações eventualmente assumidas (art. 11, § 7º).
 
 Ressalta-se que o termo de compromisso constitui título executivo extrajudicial.
 
 Estão disponíveis no site da CVM na internet, no link “Assuntos”, localizado no menu à esquerda,
 
-em seguida “Processos”, e em seguida “Termos de Compromisso ”, informações sobre termos de
+em seguida “Processos”, e em seguida “Termos de Compromisso”, informações sobre termos de
 
 compromisso já celebrados com a CVM, que podem servir como exemplos para a apresentação de
 
 propostas.
 
-Por fim, merece destaque que, de acordo com o § único do art. 14 da Lei nº 13.506/2017 e o art . 81
+Por fim, merece destaque que, de acordo com o § único do art. 14 da Lei nº 13.506/2017 e o art. 81
 
 da Resolução CVM nº 45/2021, a celebração de termo de compromisso não importa em confissão
 
@@ -6468,7 +6486,7 @@ tenha dado origem.
 
 Nos termos previstos na Lei nº 13.506/2017 e no Capítulo V da Resolução CVM nº 45/2021, a CVM
 
-poderá celebrar acordo administrativo em processo de supervisão (“ Acordo de Supervisão ”) com
+poderá celebrar acordo administrativo em processo de supervisão (“Acordo de Supervisão”) com
 
 pessoas naturais ou jurídicas que confessarem a prática de infração às normas legais ou
 
@@ -6484,17 +6502,19 @@ que comprovem a infração noticiada ou sob apuração. Para maiores informaçõ
 
 Supervisão, consultar a Resolução CVM nº 45/2021, disponível no site da CVM, no menu “Assuntos”
 
-/ “Normas” / “Resoluções”.
+/ “Normas” / “Resoluções”
+
+.
+
+81
 
 Ofício-Circular/ANUAL-2026-CVM/SRE
-
-82
 
 5. PARTICIPANTES DO MERCADO DE VALORES MOBILIÁRIOS
 
 5.1. Coordenador de ofertas públicas de valores mobiliários
 
-Orientações acerca d a aplicação da Resolução CVM nº 161/2022, bem como da atividade de
+Orientações acerca da aplicação da Resolução CVM nº 161/2022, bem como da atividade de
 
 coordenadores de ofertas públicas de valores mobiliários e seus requerimentos de registro podem ser
 
@@ -6520,19 +6540,19 @@ As presentes orientações são decorrentes da experiência acumulada pela SRE n
 
 supervisão, especialmente na execução do Plano Bienal de Supervisão Baseada em Risco da CVM
 
-e estão focadas nos seguintes e principais aspectos: ( i) diligências prévias na emissão e estruturação
+e estão focadas nos seguintes e principais aspectos: (i) diligências prévias na emissão e estruturação
 
 da operação; (ii) registro e atualização do valor mobiliário no ambiente da B3; (iii) existência, gestão
 
-e controle de direitos creditórios e ativos utilizados como lastros e/ou garantias; ( iv) verificação dos
+e controle de direitos creditórios e ativos utilizados como lastros e/ou garantias; (iv) verificação dos
 
-registros contábeis, da destinação dos recursos captados e amortização, quando houver; ( v)
+registros contábeis, da destinação dos recursos captados e amortização, quando houver; (v)
 
-divulgação de informações da companhia emissora e da oferta pública ao mercado e à CVM; ( vi)
+divulgação de informações da companhia emissora e da oferta pública ao mercado e à CVM; (vi)
 
 adequação da procura e distribuição da oferta para investidores, na forma da regulamentação
 
-específica e aplicável; ( vii) integralização das operações, em aderência aos documentos vinculados
+específica e aplicável; (vii) integralização das operações, em aderência aos documentos vinculados
 
 à emissão do valor mobiliário.
 
@@ -6544,7 +6564,7 @@ Nesse contexto, as orientações possuem o propósito de esclarecer as ações e
 
 e dos coordenadores de oferta pública de distribuição de valores mobiliários e, assim, reduzir
 
-incertezas quanto às formas consideradas adequadas pela SRE par a fins de cumprimento da
+incertezas quanto às formas consideradas adequadas pela SRE para fins de cumprimento da
 
 regulamentação aplicável, bem como eventuais riscos que possam afetar o mercado de capitais.
 
@@ -6558,17 +6578,19 @@ distribuição, conforme determinações previstas no art. 24 da Resolução CVM
 
 fim, recomendamos a formalização e adoção dos seguintes procedimentos pelo ofertante:
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+82
 
-83
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 a. Providenciar opinião legal sobre a estrutura do valor mobiliário ofertado, elaborado por profissional
 
 contratado para assessorar juridicamente a estruturação da operação. Este documento deve ser
 
-emitido, datado e assinado com firma reconhecida em cartór io ou assinatura digital aceita pela SRE,
+emitido, datado e assinado com firma reconhecida em cartório ou assinatura digital aceita pela SRE,
 
-conforme seção “1.10 Assinatura Digital”.
+conforme seção “1.10 Assinatura Digital”
+
+.
 
 b. Fornecer laudos de avaliação e perícia técnica sobre imóveis, safras, entre outros ativos e direitos
 
@@ -6576,7 +6598,9 @@ vinculados à operação, elaborado por profissional qualificado e especializado
 
 este laudo ser emitido, datado e assinado com firma reconhecida em cartório ou assinatura digital
 
-aceita pela SRE, conforme seção “1.10 Assinatura Digital”.
+aceita pela SRE, conforme seção “1.10 Assinatura Digital”
+
+.
 
 c. Assegurar a existência e a validade das garantias vinculadas à oferta, bem como a sua devida
 
@@ -6584,7 +6608,7 @@ constituição e formalização.
 
 d. Quando previsto, assegurar a constituição de regime fiduciário sobre os direitos creditórios e
 
-ativos que lastreiam e/ou garantam a oferta, devendo indicá -lo na documentação pertinente à
+ativos que lastreiam e/ou garantam a oferta, devendo indicá-lo na documentação pertinente à
 
 operação.
 
@@ -6596,7 +6620,7 @@ f. Assegurar que os ativos financeiros vinculados à operação estejam registra
 
 entidades administradoras de mercado organizado ou registradora de créditos autorizada pelo Banco
 
-Central do Brasil, em conformidade às normas aplicáveis a ca da ativo e às informações previstas na
+Central do Brasil, em conformidade às normas aplicáveis a cada ativo e às informações previstas na
 
 documentação pertinente à operação.
 
@@ -6608,11 +6632,11 @@ respondendo pela falta de diligência ou omissão, para assegurar que as informa
 
 ofertante, inclusive aquelas eventuais ou periódicas constantes da atualização do registro do emissor
 
-na CVM e as constantes do estudo de viabilidade econômico -financeira do empreendimento, se
+na CVM e as constantes do estudo de viabilidade econômico-financeira do empreendimento, se
 
 aplicável, são suficientes, verdadeiras, precisas, consistentes e atuais, permitindo aos investidores
 
-uma tomada de decisão fund amentada a respeito da oferta, conforme exigência prevista no § 1º do
+uma tomada de decisão fundamentada a respeito da oferta, conforme exigência prevista no § 1º do
 
 artigo 24 da Resolução CVM nº 160/2022. Para esse fim, recomendamos a formalização e adoção
 
@@ -6622,7 +6646,7 @@ a. Formalizar a prestação de serviços contratados para distribuição da ofer
 
 mobiliários.
 
-b. Avaliar: (i) a consistência de documentos entregues pelo emissor do valor mobiliário; ( ii) os ativos
+b. Avaliar: (i) a consistência de documentos entregues pelo emissor do valor mobiliário; (ii) os ativos
 
 e/ou direitos utilizados como lastros e garantias da operação, previamente à emissão; e (iii) os aspectos
 
@@ -6630,27 +6654,27 @@ financeiros da operação no que se refere aos seus riscos, possibilidade de fra
 
 de ativos ou direitos utilizados como lastros e/ou garantias na oferta. Recomendamos que esta análise
 
-seja formalizada em documento data do e assinado com firma reconhecida em cartório ou assinatura
+seja formalizada em documento datado e assinado com firma reconhecida em cartório ou assinatura
 
-digital aceita pela SRE, conforme seção “1.10 Assinatura Digital ”, pelos respectivos responsáveis
+digital aceita pela SRE, conforme seção “1.10 Assinatura Digital”, pelos respectivos responsáveis
 
 no coordenador, no limite de suas atribuições.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+83
 
-84
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Com base no inciso I do art. 13 da Resolução CVM nº 161/2022, os coordenadores devem divulgar
 
 eventuais conflitos de interesse aos investidores, relacionados à estruturação e à distribuição da
 
-oferta. Para garantir o cumprimento ao disposto na regulamentaç ão vigente, orientamos que o
+oferta. Para garantir o cumprimento ao disposto na regulamentação vigente, orientamos que o
 
 coordenador realize diligências sobre eventuais conflitos de interesse existentes, sendo que o
 
 resultado da análise deve ser divulgado aos investidores procurados por meio dos documentos da
 
-oferta, sendo desejável possuir a com provação dessa divulgação.
+oferta, sendo desejável possuir a comprovação dessa divulgação.
 
 O coordenador deve assegurar a existência e suficiência dos procedimentos adotados no controle e
 
@@ -6660,15 +6684,15 @@ previstas nos artigos 59, 61, § 2º e 65 da Resolução CVM nº 160/2022. Para 
 
 aos dispositivos citados, orientamos que todas as consultas, procuras e negociações efetuadas por
 
-meio de canais de distribuição do coordenador, por exemplo plataforma operacional , aplicativo de
+meio de canais de distribuição do coordenador, por exemplo plataforma operacional, aplicativo de
 
 celular, e-mail, telefone, presencial, entre outros desta natureza, sejam formalizadas e passíveis de
 
-verificação, contendo no mínimo informações sobre: ( i) a identificação da oferta (tipo, série, classe,
+verificação, contendo no mínimo informações sobre: (i) a identificação da oferta (tipo, série, classe,
 
 quantidade e valor); (ii) a data da consulta ou procura dos investidores; (iii) o nome dos investidores;
 
-(iv) o número de CPF ou CNPJ; ( v) a decisão em relação à oferta; e ( vi) a adequação do perfil de
+(iv) o número de CPF ou CNPJ; (v) a decisão em relação à oferta; e (vi) a adequação do perfil de
 
 investimento do cliente, nos termos da regulamentação aplicável.
 
@@ -6676,9 +6700,9 @@ A formalização de procedimentos com a elaboração de documentos datados e ass
 
 reconhecida ou assinatura digital tem por objetivo assegurar a efetiva realização dos procedimentos
 
-quando são devidos (antes ou no curso das ofertas públicas) e p ermitir a respectiva comprovação
+quando são devidos (antes ou no curso das ofertas públicas) e permitir a respectiva comprovação
 
-dessa prática. Busca -se, dessa forma, coibir a não realização tempestiva desses procedimentos e a
+dessa prática. Busca-se, dessa forma, coibir a não realização tempestiva desses procedimentos e a
 
 produção extemporânea de documentos quando demandados pela fiscalização da SRE
 
@@ -6690,13 +6714,13 @@ As atividades relativas aos Agentes Fiduciários, a partir da publicação do no
 
 para a competência da Superintendência de Supervisão de Securitização – SSE, a qual poderá, se
 
-necessário, publicar Ofício -Circular tecendo orientações gerais sobre os procedimentos correlatos
+necessário, publicar Ofício-Circular tecendo orientações gerais sobre os procedimentos correlatos
 
 ao tema.
 
 Nada obstante, quanto aos Procedimentos recomendáveis ao agente fiduciário para o adequado
 
-exercício dos deveres elencados no art. 11 da Resolução CVM n° 17/ 2021, à luz de sua precípua
+exercício dos deveres elencados no art. 11 da Resolução CVM n° 17/2021, à luz de sua precípua
 
 função de gatekeeper, no âmbito da distribuição, bem como ao longo da vida de valores mobiliários
 
@@ -6714,15 +6738,15 @@ situações concretas. Por fim, não existe, tampouco, a pretensão de esgotar o
 
 devem ser adotados pelos agentes fiduciários em seu dever de diligência.
 
-Ofício-Circular/ANUAL-2026-CVM/SRE
+84
 
-85
+Ofício-Circular/ANUAL-2026-CVM/SRE
 
 Nesse sentido, em seu dever de agir com cuidado e diligência, o agente fiduciário não deve se limitar
 
 aos documentos fornecidos pelo emissor e declarações apresentadas. Deve buscar também todos os
 
-documentos que possam comprovar a completude, ausência de f alhas e defeitos das informações
+documentos que possam comprovar a completude, ausência de falhas e defeitos das informações
 
 apresentadas na escritura de debêntures, termo de securitização ou instrumento equivalente.
 
@@ -6747,3 +6771,5 @@ performance do investimento representado pelo valor mobiliário distribuído. Po
 precisam ser devidamente consignados na escritura de debêntures, termo de securitização ou
 
 instrumento equivalente.
+
+85

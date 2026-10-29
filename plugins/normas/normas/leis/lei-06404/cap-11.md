@@ -296,15 +296,15 @@ X - dissolução da companhia. (Incluído pela Lei nº 9.457, de 1997)
 
 ## Art. 136-A
 
-A aprovação da inserção de convenção de arbitragem no estatuto social, observado o quorum do art. 136, obriga a todos os acionistas, assegurado ao acionista dissidente o direito de retirar-se da companhia mediante o reembolso do valor de suas ações, nos termos do art. 45. (Incluído pela Lei nº 13.129, de 2015) (Vigência)
+A aprovação da inserção de convenção de arbitragem no estatuto social, observado o quorum do art. 136, obriga a todos os acionistas, assegurado ao acionista dissidente o direito de retirar-se da companhia mediante o reembolso do valor de suas ações, nos termos do art. 45. (Incluído pela Lei nº 13.129, de 2015)
 
-§ 1º A convenção somente terá eficácia após o decurso do prazo de 30 (trinta) dias, contado da publicação da ata da assembleia geral que a aprovou. (Incluído pela Lei nº 13.129, de 2015) (Vigência)
+§ 1º A convenção somente terá eficácia após o decurso do prazo de 30 (trinta) dias, contado da publicação da ata da assembleia geral que a aprovou. (Incluído pela Lei nº 13.129, de 2015)
 
-§ 2º O direito de retirada previsto no caput não será aplicável: (Incluído pela Lei nº 13.129, de 2015) (Vigência)
+§ 2º O direito de retirada previsto no caput não será aplicável: (Incluído pela Lei nº 13.129, de 2015)
 
-I - caso a inclusão da convenção de arbitragem no estatuto social represente condição para que os valores mobiliários de emissão da companhia sejam admitidos à negociação em segmento de listagem de bolsa de valores ou de mercado de balcão organizado que exija dispersão acionária mínima de 25% (vinte e cinco por cento) das ações de cada espécie ou classe; (Incluído pela Lei nº 13.129, de 2015) (Vigência)
+I - caso a inclusão da convenção de arbitragem no estatuto social represente condição para que os valores mobiliários de emissão da companhia sejam admitidos à negociação em segmento de listagem de bolsa de valores ou de mercado de balcão organizado que exija dispersão acionária mínima de 25% (vinte e cinco por cento) das ações de cada espécie ou classe; (Incluído pela Lei nº 13.129, de 2015)
 
-II - caso a inclusão da convenção de arbitragem seja efetuada no estatuto social de companhia aberta cujas ações sejam dotadas de liquidez e dispersão no mercado, nos termos das alíneas “a” e “b” do inciso II do art. 137 desta Lei. (Incluído pela Lei nº 13.129, de 2015) (Vigência)
+II - caso a inclusão da convenção de arbitragem seja efetuada no estatuto social de companhia aberta cujas ações sejam dotadas de liquidez e dispersão no mercado, nos termos das alíneas “a” e “b” do inciso II do art. 137 desta Lei. (Incluído pela Lei nº 13.129, de 2015)
 
 Direito de Retirada
 

@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0325.pdf
 sha256_fonte: 80283535f8c90ce6f850b004122d3192de2c72a3b4623a3c4adb6d18d9d3863a
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -452,11 +452,11 @@ coordenadas por coordenadores de ofertas públicas que não sejam instituições
 
 contatados por instituições financeiras participantes do consórcio de distribuição
 
-54. Este Ofício-Circular substitui os Ofícios-Circulares anteriormente divulgados acerca do
+54. tema.
 
-tema.
+55. Este Ofício-Circular substitui os Ofícios-Circulares anteriormente divulgados acerca do
 
-55. Caso sejam necessários esclarecimentos adicionais, entrar em contato com a Gerência de
+Caso sejam necessários esclarecimentos adicionais, entrar em contato com a Gerência de
 
 Registros 3 – GER-3, por meio do endereço eletrônico ger-3@cvm.gov.br.
 
@@ -472,12 +472,20 @@ Superintendente de Registro, em 30/09/2025, às 12:18, com fundamento no art. 6�
 
 nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2306752 e o código CRC 78352A0F.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2306752 and the "Código CRC" 78352A0F.
+
+autenticidade,
+
+autenticidade, and
 
 Referência: Processo nº Ofícios-Circulares SRE 2025 Documento SEI nº 2306752

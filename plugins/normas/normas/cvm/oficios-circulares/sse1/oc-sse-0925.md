@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0925.pdf
 sha256_fonte: 1c85688790eb8c5112bb69e1dd2638e3128ff377a2e04292fd703de44600581c
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+15/12/2025, 10:05 SEI/CVM - 2518075 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -40,11 +42,11 @@ Assunto: Melhorias na atual versão do Informe Mensal de FIDC disponível no sis
 
 Prezados(as),
 
-1. O presente Ofício‐Circular tem como objetivo comunicar que, a partir de 02/01/2026, estará
+1. melhorias:
+
+O presente Ofício‐Circular tem como objetivo comunicar que, a partir de 02/01/2026, estará
 
 disponível no Sistema Fundos.Net uma nova versão do Informe Mensal de FIDC (versão 6.6), com as seguintes
-
-melhorias:
 
 Tabela X: possibilidade de inclusão de subclasse sem estrutura de subordinação;
 
@@ -100,9 +102,27 @@ estrutura de subordinação.
 
 inclusão de subclasses numeradas. Os dados de subclasses e séries dos demais itens da Tabela X deverão ser
 
-15/12/2025, 10:05 SEI/CVM - 2518075 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 1/2
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+co... 1/2_
+
+15/12/2025, 10:05 SEI/CVM - 2518075 - Ofício-Circular
 
 preenchidos sob a mesma sistemática do item 1, a fim de manter a consistência.
 
@@ -166,16 +186,42 @@ Superintendente, em 12/12/2025, às 15:33, com fundamento no art. 6º do Decreto
 
 outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+autenticidade,
+
+_
 
 informando o código verificador 2518075 e o código CRC 586D792F.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the
 
 "Código Verificador" 2518075 and the "Código CRC" 586D792F.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2518075
 
-15/12/2025, 10:05 SEI/CVM - 2518075 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 2/2
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 2/2

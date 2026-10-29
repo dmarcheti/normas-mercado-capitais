@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sep/anexos/oc-snc-sep-0226.pdf
 sha256_fonte: b52781131bc341392f5440d7b676065ea2041f8b0cb98dbfb0154e80d1702e47
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -36,17 +36,11 @@ www.cvm.gov.br
 
 Ofício-Circular nº 2/2026/CVM/SNC/SEP
 
-Rio de Janeiro,
-
-na data da assinatura
-
-.
+Rio de Janeiro, na data da assinatura.
 
 Senhor/a Diretor/a de Relações com Investidores e Senhor/a Auditor/a Independente
 
-Assunto:
-
-Esclarecimentos sobre a aplicação da Resolução CVM nº 244/2026,
+Assunto: Esclarecimentos sobre a aplicação da Resolução CVM nº 244/2026,
 
 que alterou a Resolução CVM nº 193/2023.
 
@@ -56,13 +50,11 @@ Prezado/a Senhor/a,
 
 promovidas pela Resolução CVM nº 244/2026 na Resolução CVM nº 193/2023,
 
-especialmente quanto à divulgação do relatório de informações ﬁnanceiras
+especialmente quanto à divulgação do relatório de informações financeiras
 
 relacionadas à sustentabilidade elaborado com base no padrão emitido pelo
 
-International Sustainability Standards Board
-
-(ISSB), internalizados no Brasil pelo
+International Sustainability Standards Board (ISSB), internalizados no Brasil pelo
 
 Comitê Brasileiro de Pronunciamentos de Sustentabilidade (CBPS) e aprovados pelas
 
@@ -82,7 +74,7 @@ anteriormente vigentes, da continuidade das divulgações e da interpretação d
 
 determinados dispositivos da regulamentação.
 
-3. Com a ﬁnalidade de conferir maior transparência e uniformidade à compreensão
+3. Com a finalidade de conferir maior transparência e uniformidade à compreensão
 
 da matéria e facilitar a adequada aplicação da regulamentação pelos participantes
 
@@ -94,11 +86,11 @@ I. Escopo da Resolução CVM nº 193/2023
 
 4. Nos termos do art. 1º da Resolução CVM nº 193/2023, o “relatório de informações
 
-ﬁnanceiras relacionadas à sustentabilidade” é aquele elaborado com base no padrão
+financeiras relacionadas à sustentabilidade” é aquele elaborado com base no padrão
 
 internacional emitido pelo ISSB, conforme internalizados no Brasil pelo CBPS. A
 
-Resolução CVM nº 193/2023 disciplina especiﬁcamente a divulgação desse relatório,
+Resolução CVM nº 193/2023 disciplina especificamente a divulgação desse relatório,
 
 cuja caracterização pressupõe a observância completa desse padrão e a
 
@@ -108,11 +100,7 @@ apresentação de declaração explícita e sem reservas de conformidade.
 
 5. Relatórios de sustentabilidade elaborados com base em outras metodologias,
 
-como o padrão da
-
-Global Reporting Initiative (GRI)
-
-ou outros referenciais, não se
+como o padrão da Global Reporting Initiative (GRI) ou outros referenciais, não se
 
 enquadram no escopo do relatório disciplinado pela Resolução CVM nº 193/2023 e,
 
@@ -120,13 +108,21 @@ consequentemente, não estão sujeitos aos requerimentos dessa Resolução.
 
 6. A partir da edição da Resolução CVM nº 244/2026, contudo, o seu art. 3º passou a
 
-alcançar relatórios que contenham informações ﬁnanceiras relacionadas à
+alcançar relatórios que contenham informações financeiras relacionadas à
 
 sustentabilidade apresentadas como se elaboradas em conformidade com o padrão
 
 CBPS/ISSB. Seu escopo também abrange as situações que utilizarem termos como
 
-“inspirado”, “com referência a”, “baseado” ou outros que possam indicar
+“inspirado”
+
+,
+
+“com referência a”
+
+,
+
+“baseado” ou outros que possam indicar
 
 observância, integral ou parcial, desse padrão. Nessas hipóteses, devem ser
 
@@ -140,13 +136,13 @@ metodologias também contempladas por esse padrão, não caracteriza,
 
 isoladamente, descumprimento do art. 3º da Resolução CVM nº 244/2026. A
 
-presença de elementos comuns ao CBPS/ISSB, por si só, não é suﬁciente para atrair
+presença de elementos comuns ao CBPS/ISSB, por si só, não é suficiente para atrair
 
 a aplicação da Resolução CVM nº 193/2023. Contudo, a forma e conteúdo de
 
 apresentação dessas informações deve ser considerada na análise do caso concreto.
 
-Em particular, sua integração ou conectividade com as demonstrações ﬁnanceiras,
+Em particular, sua integração ou conectividade com as demonstrações financeiras,
 
 associada a outros elementos indicativos de observância do padrão CBPS/ISSB, pode
 
@@ -158,7 +154,7 @@ indique qual o referencial está sendo utilizado como base para a apresentação
 
 conter requisitos comuns ao CBPS/ISSB e uma mesma informação pode ser utilizada
 
-para ﬁnalidades distintas, conforme o referencial adotado e o público a que se
+para finalidades distintas, conforme o referencial adotado e o público a que se
 
 destina. A entidade, entretanto, não deve apresentar essas informações de modo
 
@@ -168,9 +164,9 @@ com o padrão CBPS/ISSB quando não forem observados todos os seus requisitos.
 
 9. Para avaliar se determinada divulgação atrai o regime disciplinado pela Resolução
 
-CVM nº 193/2023, para ﬁns do art. 3º da Resolução CVM nº 244/2026, devem ser
+CVM nº 193/2023, para fins do art. 3º da Resolução CVM nº 244/2026, devem ser
 
-considerados, em conjunto, a denominação e a ﬁnalidade do documento, o
+considerados, em conjunto, a denominação e a finalidade do documento, o
 
 referencial adotado e a forma de apresentação das informações, inclusive eventual
 
@@ -180,7 +176,7 @@ II. Divulgação parcial ou com referência ao padrão CBPS/ISSB
 
 10. A divulgação de informações, métricas, estruturas de divulgação ou outros
 
-elementos derivados do padrão de informações ﬁnanceiras de sustentabilidade
+elementos derivados do padrão de informações financeiras de sustentabilidade
 
 relacionados ao CBPS/ISSB não pode ser utilizada para contornar os requisitos
 
@@ -198,13 +194,13 @@ divulgadas.
 
 12. A esse respeito, o item 72 do CBPS 01 estabelece:
 
-“A entidade cujas divulgações ﬁnanceiras relacionadas à sustentabilidade
+“A entidade cujas divulgações financeiras relacionadas à sustentabilidade
 
 cumpram todos os requisitos dos Pronunciamentos CBPS de Divulgação de
 
 Sustentabilidade deverá fazer uma declaração de conformidade explícita e sem
 
-reservas. A entidade não deverá descrever as divulgações ﬁnanceiras
+reservas. A entidade não deverá descrever as divulgações financeiras
 
 Ofício-Circular 5 (2808146) SEI 19957.014302/2026-31 / pg. 2
 
@@ -212,11 +208,25 @@ relacionadas à sustentabilidade em conformidade com os Pronunciamentos
 
 CBPS de Divulgação de Sustentabilidade, a menos que cumpram todos os
 
-requisitos das Normas de Divulgação de Sustentabilidade.”
+requisitos das Normas de Divulgação de Sustentabilidade.
 
-13. Expressões como “alinhado ao padrão CBPS/ISSB”, “baseado no padrão
+”
 
-CBPS/ISSB”, “inspirado no padrão CBPS/ISSB”, “desenvolvido considerando o padrão
+13. Expressões como “alinhado ao padrão CBPS/ISSB”
+
+,
+
+“baseado no padrão
+
+CBPS/ISSB”
+
+,
+
+“inspirado no padrão CBPS/ISSB”
+
+,
+
+“desenvolvido considerando o padrão
 
 CBPS/ISSB” ou formulações semelhantes não devem ser utilizadas para transmitir
 
@@ -224,25 +234,21 @@ aos usuários percepção equivocada ou não objetiva sobre a observância integ
 
 respectivos requisitos. A IFRS Foundation tem destacado os riscos associados a
 
-divulgações apresentadas como “
+divulgações apresentadas como “aligned”
 
-aligned
+,
 
-”, “
+“based on”
 
-based on
+,
 
-”, “
-
-inspired by
-
-” ou
+“inspired by” ou
 
 desenvolvidas com referência ao padrão ISSB, especialmente quando não há
 
 observância integral dos requerimentos.
 
-14. Qualquer divulgação de informações ﬁnanceiras relacionadas à sustentabilidade
+14. Qualquer divulgação de informações financeiras relacionadas à sustentabilidade
 
 que faça referência ao padrão CBPS/ISSB ou insinue a sua utilização deve observar
 
@@ -250,7 +256,7 @@ integralmente os requisitos da Resolução CVM nº 193/2023 e ser acompanhada de
 
 declaração explícita e sem reservas de conformidade com as respectivas normas.
 
-Para ﬁns do art. 3º da Resolução CVM nº 244/2026, não devem ser utilizadas
+Para fins do art. 3º da Resolução CVM nº 244/2026, não devem ser utilizadas
 
 referências ao padrão CBPS/ISSB que sugiram conformidade ou observância quando
 
@@ -274,7 +280,7 @@ ainda venham a divulgá-lo em 2026, sob os requisitos da Resolução CVM nº
 
 aplica-se às companhias que optarem por divulgar o relatório de informações
 
-ﬁnanceiras relacionadas à sustentabilidade referente ao exercício social iniciado em,
+financeiras relacionadas à sustentabilidade referente ao exercício social iniciado em,
 
 ou após, 1º de janeiro de 2026.
 
@@ -288,7 +294,7 @@ em exercícios sociais iniciados a partir de 1º de janeiro de 2026.
 
 18. As companhias que, antes da edição da Resolução CVM nº 244/2026, tenham
 
-manifestado adesão voluntária à divulgação das informações ﬁnanceiras
+manifestado adesão voluntária à divulgação das informações financeiras
 
 relacionadas à sustentabilidade, inclusive mediante divulgação de informação ao
 
@@ -302,7 +308,7 @@ IV. Prazo para divulgações voluntárias relativas a exercícios anteriores a
 
 2026
 
-19. Para as divulgações voluntárias das informações ﬁnanceiras relacionadas à
+19. Para as divulgações voluntárias das informações financeiras relacionadas à
 
 sustentabilidade referentes a exercícios sociais anteriores a 2026, permanecem
 
@@ -310,13 +316,13 @@ aplicáveis os prazos previstos na Resolução CVM nº 193/2023 antes da ediçã
 
 Resolução CVM nº 244/2026.
 
-20. A entidade que decidir divulgar informações ﬁnanceiras relacionadas à
+20. A entidade que decidir divulgar informações financeiras relacionadas à
 
 Ofício-Circular 5 (2808146) SEI 19957.014302/2026-31 / pg. 3
 
 sustentabilidade referentes ao exercício social iniciado em, ou após, 1º de janeiro de
 
-2025 deve fazê-lo até o ﬁnal do nono mês subsequente ao encerramento desse
+2025 deve fazê-lo até o final do nono mês subsequente ao encerramento desse
 
 exercício. Para as entidades cujo exercício social tenha se encerrado em 31 de
 
@@ -342,11 +348,7 @@ V. Flexibilizações aplicáveis à adoção inicial
 
 22. A revogação do art. 3º da Resolução CVM nº 193/2023 não elimina a extensão
 
-das ﬂexibilizações (
-
-reliefs
-
-) anteriormente previstas para as companhias que tenham
+das flexibilizações (reliefs) anteriormente previstas para as companhias que tenham
 
 aderido voluntariamente à divulgação do relatório com base no exercício social
 
@@ -354,13 +356,13 @@ iniciado em, ou após, 1º de janeiro de 2024 ou 1º de janeiro de 2025. Neste c
 
 essas companhias que optaram pela adoção voluntária sob o regime anterior,
 
-podem utilizar as ﬂexibilizações nos termos do art. 3º da Resolução CVM nº
+podem utilizar as flexibilizações nos termos do art. 3º da Resolução CVM nº
 
 193/2023 antes da edição da Resolução CVM nº 244/2026.
 
 23. A redação anterior permitia que as companhias que optaram pela adoção
 
-voluntária sob o regime anterior utilizassem as ﬂexibilizações estabelecidas nas
+voluntária sob o regime anterior utilizassem as flexibilizações estabelecidas nas
 
 normas até o primeiro ano de adoção obrigatória, que correspondia aos exercícios
 
@@ -372,11 +374,11 @@ com efeitos a partir de 1º de janeiro de 2026, as áreas técnicas entendem que
 
 companhias que optaram por divulgar com base no regime anterior poderão utilizar
 
-as ﬂexibilizações até o exercício social de 2026 (que correspondia ao primeiro ano
+as flexibilizações até o exercício social de 2026 (que correspondia ao primeiro ano
 
 de adoção obrigatória na redação da RCVM 193/2023, antes da RCVM 244/2026).
 
-Caso haja opção pelo uso estendido das ﬂexibilizações, conforme estabelecido pelo
+Caso haja opção pelo uso estendido das flexibilizações, conforme estabelecido pelo
 
 regime anterior da Resolução CVM nº 193/2023, a companhia deverá divulgar, em
 
@@ -386,19 +388,19 @@ CBPS/ISSB, a qual deverá estar refletida na declaração de conformidade.
 
 24. Para as companhias que divulgarem o relatório sob o novo regime da Resolução
 
-CVM nº 244/2026, as ﬂexibilizações devem ser utilizadas conforme previsto no
+CVM nº 244/2026, as flexibilizações devem ser utilizadas conforme previsto no
 
 padrão, isto é, apenas no exercício social de adoção inicial.
 
-25. As ﬂexibilizações previstas no próprio padrão CBPS/ISSB devem ser distinguidas
+25. As flexibilizações previstas no próprio padrão CBPS/ISSB devem ser distinguidas
 
 da disciplina regulatória anteriormente estabelecida no art. 3º da Resolução CVM nº
 
 193/2023. A revogação desse artigo eliminou a regra regulatória que vinculava a
 
-utilização das ﬂexibilizações à transição entre a adoção voluntária e a adoção
+utilização das flexibilizações à transição entre a adoção voluntária e a adoção
 
-obrigatória, mas não eliminou as ﬂexibilizações previstas nos pronunciamentos do
+obrigatória, mas não eliminou as flexibilizações previstas nos pronunciamentos do
 
 CBPS e do ISSB, que permanecem sujeitas aos respectivos requisitos e condições de
 
@@ -408,7 +410,7 @@ utilização.
 
 alívios previstos no padrão CBPS/ISSB. Para quem já divulgou ou vier a divulgar com
 
-base no regime anterior, permanece a extensão da utilização das ﬂexibilizações
+base no regime anterior, permanece a extensão da utilização das flexibilizações
 
 para além do primeiro ano de adoção, nos termos daquele regime. Para quem
 
@@ -418,9 +420,9 @@ adoção, conforme previsto no padrão CBPS/ISSB.
 
 Ofício-Circular 5 (2808146) SEI 19957.014302/2026-31 / pg. 4
 
-VI. Justiﬁcativa da opção de não arquivar o relatório de informações
+VI. Justificativa da opção de não arquivar o relatório de informações
 
-ﬁnanceiras relacionadas à sustentabilidade de acordo com a Resolução
+financeiras relacionadas à sustentabilidade de acordo com a Resolução
 
 CVM nº 193/23
 
@@ -430,23 +432,23 @@ CVM nº 193/23
 
 2027, a companhia aberta que optar por não arquivar o relatório de informações
 
-ﬁnanceiras relacionadas à sustentabilidade deverá justiﬁcar essa opção por meio de
+financeiras relacionadas à sustentabilidade deverá justificar essa opção por meio de
 
 comunicado ao mercado, divulgado até a data do arquivamento das demonstrações
 
 financeiras anuais na CVM.
 
-28. A justiﬁcativa deve descrever os motivos considerados pela Administração para
+28. A justificativa deve descrever os motivos considerados pela Administração para
 
-a decisão de não arquivar o relatório de informações ﬁnanceiras relacionadas à
+a decisão de não arquivar o relatório de informações financeiras relacionadas à
 
 sustentabilidade. As áreas técnicas entendem que esta divulgação deve conter
 
-informações suﬁcientes para que os investidores e demais usuários compreendam
+informações suficientes para que os investidores e demais usuários compreendam
 
 os critérios e fatores que fundamentaram a decisão da Administração, consideradas
 
-as circunstâncias especíﬁcas da companhia. Para esse ﬁm, a companhia poderá
+as circunstâncias específicas da companhia. Para esse fim, a companhia poderá
 
 considerar, conforme aplicável, informações não exaustivas relativas:
 
@@ -454,7 +456,7 @@ a) aos principais critérios e fatores que motivaram a decisão;
 
 b) o entendimento da Administração sobre a relevância das informações e a
 
-avaliação sobre as limitações ou desaﬁos identiﬁcados para a elaboração do
+avaliação sobre as limitações ou desafios identificados para a elaboração do
 
 relatório de informações financeiras relacionadas à sustentabilidade;
 
@@ -466,11 +468,11 @@ d) a quaisquer outros elementos considerados relevantes pela Administração par
 
 compreensão da decisão.
 
-29. A justiﬁcativa deve reﬂetir os motivos efetivamente considerados pela
+29. A justificativa deve refletir os motivos efetivamente considerados pela
 
 Administração e ser apresentada de forma clara, objetiva e compatível com a
 
-relevância da decisão comunicada ao mercado. Justiﬁcativas genéricas ou
+relevância da decisão comunicada ao mercado. Justificativas genéricas ou
 
 meramente conclusivas podem reduzir a utilidade da informação para investidores e
 
@@ -500,62 +502,38 @@ Ofício-Circular 5 (2808146) SEI 19957.014302/2026-31 / pg. 5
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fabio Pinto Coelho,
 
-Fabio Pinto Coelho
-
-,
-
-Superintendente
-
-, em 26/08/2026, às 18:28, com fundamento no art. 6º do
+Superintendente, em 26/08/2026, às 18:28, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 27/08/2026, às 10:43, com fundamento no art. 6º do
+Superintendente, em 27/08/2026, às 10:43, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2808146
+autenticidade, informando o código verificador
 
-e o código CRC
-
-05487B52
-
-.
+2808146 e o código CRC 05487B52.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2808146
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2808146 and the "Código CRC" 05487B52.
 
-05487B52
-
-.
-
-Referência:
-
-Processo nº 19957.014302/2026-31
-
-Documento SEI nº 2808146
+Referência: Processo nº 19957.014302/2026-31 Documento SEI nº 2808146
 
 Ofício-Circular 5 (2808146) SEI 19957.014302/2026-31 / pg. 6

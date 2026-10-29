@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0326.pdf
 sha256_fonte: 87dc6fe85cce471f1afbc485a0e721c7402dd7a1fbc3437ba161f222ca0ef8b6
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -40,11 +42,7 @@ Ofício-Circular nº 3/2026/CVM/SEP
 
 Rio de Janeiro, 18 de maio de 2026.
 
-Assunto:
-
-Descontinuidade do endereço
-
-https://www.rad.cvm.gov.br/ENET
+Assunto: Descontinuidade do endereço https://www.rad.cvm.gov.br/ENET
 
 para acesso ao Sistema Empresas.Net
 
@@ -54,21 +52,19 @@ Sr. Diretor de Relações com Investidores/Representante Legal/Diretor,
 
 estrangeiras e incentivadas que, a partir de 06.07.2026, o Sistema Empresas.Net
 
-deve ser acessado no endereço
+deve ser acessado no endereço https://www.rad.cvm.gov.br/ENETWEB, clicando no
 
-https://www.rad.cvm.gov.br/ENETWEB
+botão “Entrar com gov.br”
 
-, clicando no
+.
 
-botão “Entrar com gov.br”.
+2. Dessa forma, a opção “Entrar com Empresas.NET”
 
-2. Dessa forma, a opção “Entrar com Empresas.NET” – atualmente disponível no
+– atualmente disponível no
 
 referido endereço será descontinuada, bem como a url
 
-https://www.rad.cvm.gov.br/ENET
-
-.
+https://www.rad.cvm.gov.br/ENET.
 
 3. O Diretor de Relações com Investidores ou o Representante Legal da Companhia,
 
@@ -108,50 +104,32 @@ Fernando Soares Vieira
 
 Superintendente de Relações com Empresas
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 18/05/2026, às 09:23, com fundamento no art. 6º do
+Superintendente, em 18/05/2026, às 09:23, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2708634
+autenticidade, informando o código verificador
 
-e o código CRC
-
-94878D50
-
-.
+2708634 e o código CRC 94878D50.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2708634
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2708634 and the "Código CRC" 94878D50.
 
-94878D50
-
-.
-
-Referência:
-
-Processo nº 19957.009233/2026-44
-
-Documento SEI nº 2708634
+Referência: Processo nº 19957.009233/2026-44 Documento SEI nº 2708634
 
 Ofício-Circular 3 (2708634) SEI 19957.009233/2026-44 / pg. 2

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/ocsse0123.pdf
 sha256_fonte: 424c3c291b8ace7e4268b0134fc2dbe51915f84df7bd7002dbe0a9daa164de1e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -48,69 +50,37 @@ Administradores de Fundo de Investimento em Direitos Creditórios (FIDC)
 
 Companhias Securitizadoras
 
-Assunto:
-
-Criação de novas associações no Sistema Fundos.NET.
+Assunto: Criação de novas associações no Sistema Fundos.NET.
 
 Prezados(as),
 
-1
-
-.
-
-O presente Ofício Circular tem como objetivo informar às companhias
+1. O presente Ofício Circular tem como objetivo informar às companhias
 
 securitizadoras e administradores de FII e FIDC sobre a criação de novas associações
 
 para entrega de documentos no Sistema Fundos.NET (FNET).
 
-2
-
-.
-
-A partir de 02/01/2023, para disponibilização da Lâmina da Oferta, em
+2. A partir de 02/01/2023, para disponibilização da Lâmina da Oferta, em
 
 atendimento ao disposto no artigo 23 da Resolução CVM n° 160/22, os referidos
 
 prestadores de serviço deverão utilizar:
 
-a
-
-.
-
-Companhias Securitizadoras
-
-, para cada emissão especíﬁca, a
+a. Companhias Securitizadoras, para cada emissão específica, a
 
 categoria: Documentos de Oferta de Distribuição Pública / tipo:
 
 Lâmina de Oferta de Securitização.
 
-b
-
-.
-
-Administradores de FII
-
-, a categoria: Oferta Pública de Distribuição
+b. Administradores de FII, a categoria: Oferta Pública de Distribuição
 
 de Cotas / tipo: Lâmina de Oferta de Fundos Fechados.
 
-c
-
-.
-
-Administradores de FIDC
-
-, a categoria: Oferta Pública de
+c. Administradores de FIDC, a categoria: Oferta Pública de
 
 Distribuição de Cotas / tipo: Lâmina de Oferta de FIDC.
 
-3
-
-.
-
-Ressaltamos que, apesar da criação de associação para entrega da
+3. Ressaltamos que, apesar da criação de associação para entrega da
 
 Lâmina da Oferta pelo FNET, esta deverá continuar a ser apresentada à
 
@@ -120,23 +90,15 @@ Ofício-Circular 1 (1681325) SEI 19957.009383/2021-43 / pg. 1
 
 Digital da CVM com os demais documentos pertinentes à distribuição.
 
-4
-
-.
-
-Informamos que dúvidas referentes à instalação, utilização e
+4. Informamos que dúvidas referentes à instalação, utilização e
 
 funcionamento do Sistema Fundos.NET, assim como o relato de problemas ou
 
-diﬁculdades no envio de documentos, devem ser encaminhadas para a
+dificuldades no envio de documentos, devem ser encaminhadas para a
 
 Superintendência de Emissores da B3.
 
-5
-
-.
-
-O contato com a Superintendência de Emissores pode ser feito pelo
+5. O contato com a Superintendência de Emissores pode ser feito pelo
 
 telefone (11) 2565-5064 ou por e-mail: emissores.fundos@b3.com.br.
 
@@ -146,52 +108,32 @@ NATHALIE ARAUJO VIDUAL
 
 Superintendente de Supervisão de Securitização - em exercício
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Nathalie de Andrade Araujo
 
-Nathalie de Andrade Araujo
-
-Matoso Vidual
-
-,
-
-Superintendente Substituto
-
-, em 03/01/2023, às 12:10,
+Matoso Vidual, Superintendente Substituto, em 03/01/2023, às 12:10,
 
 com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1681325
+autenticidade, informando o código verificador
 
-e o código CRC
-
-CCFEEC68
-
-.
+1681325 e o código CRC CCFEEC68.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1681325
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1681325 and the "Código CRC" CCFEEC68.
 
-CCFEEC68
-
-.
-
-Referência:
-
-Processo nº 19957.009383/2021-43
-
-Documento SEI nº 1681325
+Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 1681325
 
 Ofício-Circular 1 (1681325) SEI 19957.009383/2021-43 / pg. 2

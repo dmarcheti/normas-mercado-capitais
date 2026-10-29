@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0825.pdf
 sha256_fonte: 83e53bf155ce16e83e623918de296f914be05f13ae8082306ec8aad78a3689f8
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -92,9 +94,29 @@ FIDC e, também, enquadradas no conceito de direitos creditórios de que trata o
 
 Anexo.
 
-17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 1/5
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 1/5
+
+17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
 
 7. Entende-se que, de forma geral, para que as cotas de um FIAGRO sejam equiparadas a cotas
 
@@ -132,7 +154,9 @@ No âmbito das diligências relacionadas à aquisição de direitos creditórios
 
 verificar a existência, integridade e titularidade do lastro dos direitos e títulos representativos de
 
-crédito referidos na alínea “a” do inciso XII do art. 2º.
+crédito referidos na alínea “a” do inciso XII do art. 2º
+
+.
 
 10. Desse modo, o gestor deve adaptar os seus procedimentos de verificação de acordo com as
 
@@ -206,9 +230,29 @@ I – consultoria especializada; e
 
 II – agente de cobrança.
 
-17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 2/5
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 2/5
+
+17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
 
 § 1º Sem prejuízo da possibilidade de contratação de outros tipos de prestadores de serviço para a
 
@@ -316,9 +360,29 @@ aplicação em empreendimentos imobiliários, conforme definida em Lei.
 
 2º, XII, do Anexo Normativo II, desde que sejam considerados imobiliários, além de respeitar todos os
 
-17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 3/5
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 3/5
+
+17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
 
 demais requisitos do Anexo Normativo II. Assim, indiretamente, via aquisição de cotas de FIDC, o FII pode
 
@@ -422,15 +486,33 @@ política estratégica e na gestão da sociedade investida.
 
 36. Esse dispositivo se aplica a qualquer modalidade de FIAGRO, mesmo quando não esteja
 
-obrigado a seguir o Anexo Normativo IV. Nesse aspecto, assim, cabe ressaltar que, ainda que o FIAGRO
+obrigado a seguir o Anexo Normativo IV . Nesse aspecto, assim, cabe ressaltar que, ainda que o FIAGRO
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
+
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+co... 4/5_
 
 17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 4/5
+venha a adotar somente o Anexo Normativo VI ou outro Anexo Normativo distinto do IV , deve seguir
 
-venha a adotar somente o Anexo Normativo VI ou outro Anexo Normativo distinto do IV, deve seguir
-
-integralmente o art. 26 do IV, qualquer que seja o objetivo da participação societária em companhias
+integralmente o art. 26 do IV , qualquer que seja o objetivo da participação societária em companhias
 
 fechadas ou sociedades limitadas.
 
@@ -482,16 +564,42 @@ Superintendente, em 17/11/2025, às 11:09, com fundamento no art. 6º do Decreto
 
 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2440273 e o código CRC 3151357F.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 the "Código Verificador" 2440273 and the "Código CRC" 3151357F.
 
+autenticidade,
+
+autenticidade, and typing
+
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2440273
 
-17/11/2025, 11:12 SEI/CVM - 2440273 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_co… 5/5
+trabalhar&acao
+
+_
+
+_
+
+origem=procedimento
+
+controlar&acao
+
+_
+
+_
+
+retorno=procedimento
+
+_
+
+co... 5/5

@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0823.pdf
 sha256_fonte: eeb633a8854532e199378009caac37e25faf72d73da5ddfdf0eb38329c9e1df2
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -46,7 +46,9 @@ Senhor Diretor,
 
 introduzidas no SRE - Sistema de Registro de Ofertas ("Sistema SRE" ou "Sistema"), implementadas com
 
-vistas a sua adaptação ao término do período de transição de 180 dias previsto no art. 23[1] da Resolução
+vistas a sua adaptação ao término do período de transição de 180 dias previsto no art. 23[1]
+
+da Resolução
 
 CVM nº 161/22 ("RCVM 161"), conforme informado ao mercado no Ofício-Circular nº 7/2023-
 
@@ -80,9 +82,13 @@ conduzirá, como Coordenador Líder, a oferta em questão, de acordo com os regi
 
 mantenha junto à CVM, quer seja: (i) Coordenador Pleno (participante Coordenador de ofertas de valores
 
-mobiliários), (ii) Securitizadoras[2] (participante Companhias securitizadoras) (iii) Administrador de
+mobiliários), (ii) Securitizadoras[2]
 
-Carteiras[3] (participante Prest. serviços de administração de carteiras) e (iv) Coordenador Restrito[4]
+(participante Companhias securitizadoras) (iii) Administrador de
+
+Carteiras[3]
+
+(participante Prest. serviços de administração de carteiras) e (iv) Coordenador Restrito[4]
 
 (participante Coordenador de ofertas de valores mobiliários). Abaixo, tela que ilustra a nova característica:
 
@@ -122,7 +128,9 @@ participante "Prest. serviços de administração de carteiras"; e (iii) Diretor
 
 "Companhias securitizadoras". Ainda, à luz da regra de transição prevista na RCVM 161, é também
 
-considerado usuário master para acesso ao Sistema SRE o Diretor Responsável pela RCVM 35[5]. Deve-se
+considerado usuário master para acesso ao Sistema SRE o Diretor Responsável pela RCVM 35[5]
+
+. Deve-se
 
 observar que a mesma pessoa física pode acumular mais de uma das funções acima indicadas quando se
 
@@ -342,11 +350,19 @@ do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade, informando o código verificador 1828724 e o código
+https://super.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 1828724 e o código
 
 CRC CA5754CE.
 
-This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://super.cvm.gov.br/conferir
+
+autenticidade, and
+
+_
 
 typing the "Código Verificador" 1828724 and the "Código CRC" CA5754CE.
 

@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0525.pdf
 sha256_fonte: c73705a299a26d4a240565c0c63a1da9255e2cf6eaa770cdbf76e66cf672b83c
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -52,19 +52,25 @@ I. Envio de documentos e fases processuais
 
 2. Inicialmente transcrevemos a seguir trecho do precitado Ofício Circular, relevante para o esclarecimento ora prestado
 
-IV. Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
+IV . Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
 
 É importante que os usuários do Sistema SRE, ou seja o participante que atuará como Coordenador Líder da oferta pública, tenham amplo conhecimento sobre as
 
 regras e lógicas do referido sistema no que diz respeito ao envio de documentos através do Formulário Eletrônico de Requerimento da Oferta, na aba "Envio de
 
-Documentos".
+Documentos"
+
+.
 
 [...]
 
-Sobre o funcionamento da aba "Envio de Documentos", existem os botões "Salvar" e "Enviar documentos" na referida aba, além do botão “Enviar
+Sobre o funcionamento da aba "Envio de Documentos"
 
-requerimento”, em relação aos quais deve ficar claro para os Coordenadores suas respectivas funções.
+, existem os botões "Salvar" e "Enviar documentos" na referida aba, além do botão “Enviar
+
+requerimento”
+
+, em relação aos quais deve ficar claro para os Coordenadores suas respectivas funções.
 
 Desta forma, o botão "Salvar" serve exclusivamente para "anexar" um documento no Formulário Eletrônico de Requerimento da Oferta. Portanto ao usar tal
 
@@ -74,25 +80,35 @@ apresentação à CVM.
 
 Já para a instrução processual bem como a disponibilização na página da CVM, se aplicável, em momento que não ocorra a alteração na fase de análise do
 
-pedido de registro, o Coordenador Líder deve usar a função/botão "Enviar documentos". Através dela a área técnica é notificada, para todos os fins, sobre o
+pedido de registro, o Coordenador Líder deve usar a função/botão "Enviar documentos"
+
+. Através dela a área técnica é notificada, para todos os fins, sobre o
 
 encaminhamento do documento à CVM bem como ocorre sua divulgação, caso devido. Por exemplo, caso seja necessária a divulgação de Comunicado ao
 
 Mercado relacionado à oferta, o Coordenador Líder deverá inseri-lo no documento parametrizado "Comunicado ao Mercado" e ato contínuo usar o botão
 
-"Enviar documentos". Vale pontuar que essa ação também salva o documento na base de dados do Sistema SRE.
+"Enviar documentos"
 
-3. Como se depreende dos trechos acima, os botões "Salvar" e "Enviar documentos" não tem ação de mover o requerimento de fase processual.
+. Vale pontuar que essa ação também salva o documento na base de dados do Sistema SRE.
 
-4. Já na seção III. Fases processuais do requerimento de rito ordinário foi explicado que "Uma vez corrigidas todas as informações e documentos
+3. 4. 5. botão
+
+o botão
+
+Como se depreende dos trechos acima, os botões
+
+"Salvar" e "Enviar documentos" não tem ação de mover o requerimento de fase processual.
+
+Já na seção III. Fases processuais do requerimento de rito ordinário foi explicado que "Uma vez corrigidas todas as informações e documentos
 
 cabíveis o envio à SRE ocorre na ação/botão na cor azul “Enviar requerimento” - canto inferior direito.".
 
-5. Portanto, resta claro que o envio do requerimento para a CVM não ocorre meramente pela inclusão dos documentos, mesmo que se use o
+Portanto, resta claro que o envio do requerimento para a CVM não ocorre meramente pela inclusão dos documentos, mesmo que se use o
 
-botão "Enviar documentos". Desta forma, para que ocorra a mudança de fase, e se inicie a contagem de prazos, é imprescindível que o Coordenador Líder acione
+"Enviar documentos". Desta forma, para que ocorra a mudança de fase, e se inicie a contagem de prazos, é imprescindível que o Coordenador Líder acione
 
-o botão “Enviar requerimento”.
+“Enviar requerimento”.
 
 6. Considerando que identificamos falha no entendimento dos regulados sobre a dinâmica em questão, razão do presente esclarecimento,
 
@@ -140,7 +156,9 @@ definição de preço ou taxa. Importante observar que nesta opção, o Sistema 
 
 Para efeito de registro, são considerados os dados informados inicialmente. Caso haja necessidade de alterar o preço ou a taxa nessas ofertas, é sempre possível
 
-realizar tais alterações mediante procedimento de modificação de oferta[1].
+realizar tais alterações mediante procedimento de modificação de oferta[1]
+
+.
 
 12. Já nas ofertas em que houver previsão para realização de procedimento de coleta de intenções de investimento - bookbuilding, seja de preço ou de
 
@@ -152,11 +170,11 @@ após a realização do procedimento de bookbuilding.
 
 III. Suporte ao Sistema SRE
 
-13. Reiteramos a orientação para que consultas referentes ao Sistema SRE sejam direcionadas exclusivamente para o email suporte-
+13. endereço.
+
+Reiteramos a orientação para que consultas referentes ao Sistema SRE sejam direcionadas exclusivamente para o email suporte-
 
 sistemasre@cvm.gov.br. Apenas mensagens eletrônicas direcionadas a tal endereço serão respondidas, não sendo necessário o envio em cópia a qualquer outro
-
-endereço.
 
 Atenciosamente,
 
@@ -172,12 +190,20 @@ Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador 2462642 e o código CRC
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 2462642 e o código CRC
 
 159BAB0D.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 2462642 and the "Código CRC"
-
 159BAB0D.
+
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 2462642 and the "Código CRC"
 
 Referência: Processo nº Ofícios-Circulares SRE 2025 Documento SEI nº 2462642

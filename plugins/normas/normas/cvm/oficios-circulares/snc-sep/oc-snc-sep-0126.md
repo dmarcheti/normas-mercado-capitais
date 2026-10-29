@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sep/anexos/ocsncsep0126.pdf
 sha256_fonte: b4f7a67276e4a5616e5033bdd5f0a0aeefe7fb5ceff949aae91768445ca12eb3
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -38,29 +40,17 @@ www.cvm.gov.br
 
 Ofício-Circular nº 1/2026/CVM/SNC/SEP
 
-Rio de Janeiro,
-
-na data de assinatura eletrônica
-
-.
+Rio de Janeiro, na data de assinatura eletrônica.
 
 Senhor/a Diretor/a de Relações com Investidores e Senhor/a Auditor/a
 
 Independente
 
-Assunto:
+Assunto: Orientação quanto a aspectos relevantes a serem observados na
 
-Orientação quanto a aspectos relevantes a serem observados na
+contabilização de Arranjos de Computação na Nuvem (Cloud Computing
 
-contabilização de Arranjos de Computação na Nuvem (
-
-Cloud Computing
-
-Arrangements
-
-)
-
-.
+Arrangements).
 
 Prezado/a Senhor/a,
 
@@ -70,19 +60,15 @@ Contábeis e de Auditoria - SNC e pela Superintendência de Relações com Empre
 
 SEP visam orientar a elaboração das demonstrações contábeis e têm sido
 
-considerados um instrumento eﬁcaz pelas áreas técnicas da CVM para salvaguardar
+considerados um instrumento eficaz pelas áreas técnicas da CVM para salvaguardar
 
 a qualidade das informações disseminadas no mercado.
 
 2. Neste sentido, as áreas técnicas da CVM vêm esclarecer quanto ao tratamento
 
-contábil a ser dado a determinados eventos envolvendo
+contábil a ser dado a determinados eventos envolvendo Cloud Computing
 
-Cloud Computing
-
-Arrangements
-
-, que podem ser entendidos como um acordo entre um cliente e um
+Arrangements, que podem ser entendidos como um acordo entre um cliente e um
 
 provedor de serviços na nuvem para a entrega sob demanda de recursos
 
@@ -90,19 +76,11 @@ computacionais, incluindo software ou infraestrutura, através da internet.
 
 3. Nesse contexto, algumas divergências de tratamento contábil foram comunicadas
 
-às áreas técnicas da CVM, relacionadas a arranjos do tipo SaaS (
+às áreas técnicas da CVM, relacionadas a arranjos do tipo SaaS (Software as a
 
-Software as a
+Service), que, em apertada síntese, seriam um tipo específico de Cloud Computing
 
-Service
-
-), que, em apertada síntese, seriam um tipo especíﬁco de
-
-Cloud Computing
-
-Arrangements
-
-, cujo contrato transmite ao cliente, mediante pagamento, o direito de
+Arrangements, cujo contrato transmite ao cliente, mediante pagamento, o direito de
 
 acessar o software de aplicação do fornecedor, por determinado período, que está
 
@@ -116,69 +94,41 @@ especial quanto aos aspectos contábeis a serem observados, para que a informaç
 
 contábil não seja distorcida e que haja comparabilidade.
 
-4. Importante ressaltar que esse assunto foi tema de duas
-
-Agenda Decisions
-
-do IFRS
+4. Importante ressaltar que esse assunto foi tema de duas Agenda Decisions do IFRS
 
 IC, uma de março de 2019 e outra de abril de 2021, respectivamente:
 
 Ofício-Circular 2 (2568484) SEI 19957.000734/2026-65 / pg. 1
 
-·
+· Customer’s Right to Receive Access to the Supplier’s Software Hosted on
 
-Customer’s Right to Receive Access to the Supplier’s Software Hosted on
+the Cloud (IAS 38 Intangible Assets – Agenda Paper 7)
 
-the Cloud (IAS 38 Intangible Assets – Agenda Paper 7
+· Configuration or Customization Costs in a Cloud Computing Arrangement
 
-)
+(IAS 38 Intangible Assets – Agenda Paper 2)
 
-·
-
-Conﬁguration or Customization Costs in a Cloud Computing Arrangement
-
-(IAS 38 Intangible Assets – Agenda Paper 2
-
-)
-
-5. Na primeira
-
-Agenda Decision,
-
-o IFRS IC concluiu que um contrato no formato
+5. Na primeira Agenda Decision, o IFRS IC concluiu que um contrato no formato
 
 SaaS, conforme a descrição submetida, em que se transmite ao cliente apenas o
 
 direito de receber o acesso ao software aplicativo do fornecedor, hospedado na sua
 
-infraestrutura de nuvem, é um contrato de serviço,
-
-não podendo ser considerado
+infraestrutura de nuvem, é um contrato de serviço, não podendo ser considerado
 
 um arrendamento de software e nem uma licença de uso de software
 
-(ativo intangível)
+(ativo intangível).
 
-.
+6. Na segunda Agenda Decision, o tema submetido ao IFRS IC foi o tratamento
 
-6. Na segunda
+contábil a ser dado para os gastos de configuração e customização, com a finalidade
 
-Agenda Decision
+de adequar o uso às necessidades do cliente, em um arranjo de cloud computing no
 
-, o tema submetido ao IFRS IC foi o tratamento
+formato SaaS (contrato de serviço). Especificamente a dúvida trazida era se os
 
-contábil a ser dado para os gastos de conﬁguração e customização, com a ﬁnalidade
-
-de adequar o uso às necessidades do cliente, em um arranjo de
-
-cloud computing
-
-no
-
-formato SaaS (contrato de serviço). Especiﬁcamente a dúvida trazida era se os
-
-gastos de conﬁguração e customização poderiam ser considerados um ativo
+gastos de configuração e customização poderiam ser considerados um ativo
 
 intangível e, caso não o fosse, como deveria ser contabilizado.
 
@@ -186,15 +136,11 @@ intangível e, caso não o fosse, como deveria ser contabilizado.
 
 auditores independentes estejam atentos às características, natureza e
 
-particularidades dos contratos do tipo
+particularidades dos contratos do tipo SaaS, em particular aos gastos relacionados
 
-SaaS
+com configuração e/ou customização, para fins de reconhecimento, apresentação,
 
-, em particular aos gastos relacionados
-
-com conﬁguração e/ou customização, para ﬁns de reconhecimento, apresentação,
-
-mensuração e divulgação desses eventos nas demonstrações ﬁnanceiras, tomando
+mensuração e divulgação desses eventos nas demonstrações financeiras, tomando
 
 como base as normas contábeis aplicáveis.
 
@@ -208,37 +154,33 @@ condicionado à obtenção do controle sobre esse ativo (poder de obter os benef
 
 econômicos futuros e de restringir o acesso de terceiros a esses benefícios).
 
-9. Em se tratando de um ativo de arrendamento, o item 9 do CPC 06 (R2) deﬁne que
+9. Em se tratando de um ativo de arrendamento, o item 9 do CPC 06 (R2) define que
 
 um contrato é ou contém um arrendamento se o contrato transmite à entidade
 
-(cliente) o
-
-direito de controlar o uso de um ativo identiﬁcável
-
-durante um
+(cliente) o direito de controlar o uso de um ativo identificável durante um
 
 período em troca de uma contraprestação. Ao avaliar a existência desse direito, a
 
 entidade (cliente) deve avaliar (i) se possui o direito de obter substancialmente
 
-todos os benefícios econômicos do uso do ativo identiﬁcável e (ii) se possui o direito
+todos os benefícios econômicos do uso do ativo identificável e (ii) se possui o direito
 
 de direcionar o uso do ativo identificável.
 
 10. Ademais, os itens B24 a B27 trazem critérios que orientam a aplicação do
 
-referido conceito. No item B24, especiﬁcamente, é deﬁnido que a entidade tem o
+referido conceito. No item B24, especificamente, é definido que a entidade tem o
 
 direito de direcionar o uso quando tiver o direito de direcionar como e para que
 
-ﬁnalidade o ativo deve ser usado ou, se as decisões relevantes são
+finalidade o ativo deve ser usado ou, se as decisões relevantes são
 
 predeterminadas, (i) o cliente tem o direito de operar o ativo durante todo o período
 
 de uso sem que o fornecedor altere as instruções operacionais ou (ii) o cliente
 
-projetou o ativo de modo que predetermina como e para que ﬁnalidade o ativo deve
+projetou o ativo de modo que predetermina como e para que finalidade o ativo deve
 
 ser usado durante todo o período de uso.
 
@@ -248,7 +190,7 @@ de fornecedor ao longo do período contratado, o qual está hospedado na
 
 infraestrutura de nuvem controlada pelo fornecedor, não conferem, por si só, ao
 
-cliente qualquer direito ou poder de decisão sobre como e para que ﬁnalidade o
+cliente qualquer direito ou poder de decisão sobre como e para que finalidade o
 
 software será utilizado e nem confere também ao cliente o direito de obter
 
@@ -264,27 +206,21 @@ serviços, a natureza desses arranjos não pode ser considerada como um
 
 arrendamento de software.
 
-12. No caso especíﬁco de um ativo intangível, o item 10 do CPC 04 (R1) apresenta
+12. No caso específico de um ativo intangível, o item 10 do CPC 04 (R1) apresenta
 
-os seguintes requisitos para seu reconhecimento: (i) ser identiﬁcável; (ii) ser
+os seguintes requisitos para seu reconhecimento: (i) ser identificável; (ii) ser
 
 controlado pela entidade; e (iii) gerar benefícios econômicos futuros.
 
-13. Quanto à sua identiﬁcabilidade, o item 12 do mesmo CPC estabelece que o
+13. Quanto à sua identificabilidade, o item 12 do mesmo CPC estabelece que o
 
-critério é satisfeito se o ativo “(a) for separável,
+critério é satisfeito se o ativo “(a) for separável, ou seja, puder ser separado da
 
-ou seja, puder ser separado da
+entidade (...); ou (b) resultar de direitos contratuais ou outros direitos legais (...)”
 
-entidade
+.
 
-(...); ou (b) resultar de direitos contratuais ou outros direitos legais (...)”.
-
-14. Conforme as características dos arranjos do tipo
-
-SaaS
-
-em que a entidade
+14. Conforme as características dos arranjos do tipo SaaS em que a entidade
 
 (cliente) se compromete a pagar um valor em troca do direito de acesso, por
 
@@ -298,27 +234,17 @@ o direito sobre uma licença da propriedade intelectual que pudesse se caracteri
 
 como um ativo.
 
-15. Isso é reaﬁrmado na medida em que o fornecedor detém o controle do software
+15. Isso é reafirmado na medida em que o fornecedor detém o controle do software
 
 (incluindo o poder de decidir como ou quando realizar atualizações ou quais
 
-instâncias de
-
-hardware
-
-ou infraestrutura o
-
-software
-
-opera), dado o seu poder de
+instâncias de hardware ou infraestrutura o software opera), dado o seu poder de
 
 obter substancialmente todos os benefícios econômicos futuros gerados por esse
 
 ativo e o de restringir o acesso de terceiros a tais benefícios.
 
-16. Nesses arranjos, portanto, o fornecedor não transfere o ativo intangível
-
-software
+16. Nesses arranjos, portanto, o fornecedor não transfere o ativo intangível software
 
 ao cliente, mas apenas lhe confere o direito de acesso durante o período contratado,
 
@@ -330,11 +256,7 @@ acessar o software de aplicação do fornecedor, que está hospedado na
 
 infraestrutura de nuvem deste, tem-se que o cliente não controla o software,
 
-devendo, portanto, ser tratado como um
-
-contrato de prestação de serviços
-
-,
+devendo, portanto, ser tratado como um contrato de prestação de serviços,
 
 conforme normas contábeis vigentes aplicáveis.
 
@@ -344,21 +266,13 @@ descritas se referem aos tipos de contratos SaaS que não conferem ao cliente o
 
 controle sobre o software, ou seja, aqueles arranjos descritos na submissão que
 
-foram base das
+foram base das Agendas Decision do IFRS IC referidas neste Ofício-Circular.
 
-Agendas Decision
-
-do IFRS IC referidas neste Ofício-Circular.
-
-19. Contudo, na eventualidade de situações nas quais alguns arranjos especíﬁcos
+19. Contudo, na eventualidade de situações nas quais alguns arranjos específicos
 
 SaaS possam indicar a transferência do controle sobre o ativo para o cliente, essa
 
-situação deve ser analisada
-
-vis-à-vis
-
-os requerimentos das normas contábeis
+situação deve ser analisada vis-à-vis os requerimentos das normas contábeis
 
 vigentes, para se concluir a respeito do reconhecimento do ativo no cliente. Nesse
 
@@ -368,23 +282,17 @@ presentes nas normas contábeis aplicáveis, para avaliar se e quando o cliente
 
 obtém o controle sobre o ativo.
 
-Custos de Conﬁguração e/ou Customização em um Acordo de Computação
+Custos de Configuração e/ou Customização em um Acordo de Computação
 
 em Nuvem do tipo SaaS
 
 20. A segunda situação apresentada ao IFRS IC se refere a como o cliente
 
-contabiliza os gastos de conﬁguração e customização
+contabiliza os gastos de configuração e customização do software de
 
-do software de
+aplicação do fornecedor na implementação de acordos do tipo SaaS, que não
 
-aplicação do fornecedor na implementação de acordos do tipo SaaS,
-
-que não
-
-confere o controle do ativo software ao cliente
-
-, pois o direito do cliente se
+confere o controle do ativo software ao cliente, pois o direito do cliente se
 
 restringe ao acesso ao software do fornecedor, que está hospedado na
 
@@ -392,37 +300,29 @@ infraestrutura de nuvem deste, durante o prazo do contrato. As conclusões
 
 Ofício-Circular 2 (2568484) SEI 19957.000734/2026-65 / pg. 3
 
-alcançadas pelo IFRS IC na segunda
-
-Agenda Decision
-
-estão relacionadas a esses
+alcançadas pelo IFRS IC na segunda Agenda Decision estão relacionadas a esses
 
 arranjos, que são considerados contratos de prestação de serviço.
 
-21. Especiﬁcamente, a questão abordada se relaciona a se, em aplicando o CPC 04
+21. Especificamente, a questão abordada se relaciona a se, em aplicando o CPC 04
 
-(R1), o cliente reconhece um ativo intangível em relação aos gastos de conﬁguração
+(R1), o cliente reconhece um ativo intangível em relação aos gastos de configuração
 
 ou customização e se um ativo intangível não for reconhecido, como o cliente
 
 contabiliza tais gastos.
 
-22. Para que os gastos com conﬁguração ou customização de software de aplicação
+22. Para que os gastos com configuração ou customização de software de aplicação
 
-do fornecedor
+do fornecedor sejam tratados como ativo intangível, deve ser observado o que
 
-sejam tratados como ativo intangível, deve ser observado o que
-
-determina o item 18 do CPC 04 (R1), ou seja, atendimento da deﬁnição de ativo
+determina o item 18 do CPC 04 (R1), ou seja, atendimento da definição de ativo
 
 intangível e dos critérios para o seu reconhecimento. Os itens 9 a 17 do CPC 04 (R1)
 
-determinam que para um item atender a deﬁnição de ativo intangível ele deve ser
+determinam que para um item atender a definição de ativo intangível ele deve ser
 
-identiﬁcável, controlado e gerador de benefícios econômicos futuros
-
-. Sobre
+identificável, controlado e gerador de benefícios econômicos futuros. Sobre
 
 o reconhecimento, o item 21 do CPC 04 (R1) determina que um ativo intangível deve
 
@@ -430,47 +330,29 @@ ser reconhecido se for provável que os benefícios econômicos futuros gerados 
 
 ativo serão atribuíveis à entidade e que o custo possa ser estimado com
 
-conﬁabilidade. Deve-se ressaltar que a entidade detém o controle de um ativo se
+confiabilidade. Deve-se ressaltar que a entidade detém o controle de um ativo se
 
-possui o
+possui o poder de obter os benefícios econômicos futuros que fluirão do ativo e
 
-poder
-
-de obter os benefícios econômicos futuros que ﬂuirão do ativo e
-
-restringir
-
-terceiros de acessar esses benefícios econômicos futuros a serem
+restringir terceiros de acessar esses benefícios econômicos futuros a serem
 
 gerados.
 
-23. Ressalta-se que nos tipos de arranjos SaaS objetos desta análise
+23. Ressalta-se que nos tipos de arranjos SaaS objetos desta análise o cliente não
 
-o cliente não
+controla o software de aplicação do fornecedor que está sendo configurado
 
-controla o software de aplicação do fornecedor que está sendo conﬁgurado
+ou customizado e a avaliação de se os gastos de configuração ou customização
 
-ou customizado
-
-e a avaliação de se os gastos de conﬁguração ou customização
-
-originam um ativo para o cliente depende da
-
-natureza
-
-e do
-
-resultado
-
-de tais
+originam um ativo para o cliente depende da natureza e do resultado de tais
 
 configurações ou customizações efetuadas.
 
 24. Como nesses arranjos o cliente não possui o controle sobre o ativo software que
 
-é conﬁgurado ou customizado, normalmente tal conﬁguração ou customização não
+é configurado ou customizado, normalmente tal configuração ou customização não
 
-cria um recurso controlado pelo cliente, que seja separável (identiﬁcável) do
+cria um recurso controlado pelo cliente, que seja separável (identificável) do
 
 software. Assim, não havendo o controle, o cliente não possui o poder sobre os
 
@@ -478,7 +360,7 @@ benefícios econômicos futuros e nem de restringir o acesso de terceiros a esse
 
 benefícios.
 
-25. Por outro lado, em situações especíﬁcas, se o arranjo resultar na criação de
+25. Por outro lado, em situações específicas, se o arranjo resultar na criação de
 
 códigos adicionais ou na alteração ou desenvolvimento de softwares locais (legados)
 
@@ -488,35 +370,33 @@ criando funcionalidades adicionais que o cliente controla, tal situação enseja
 
 análise se o cliente deverá reconhecer um ativo intangível, de acordo com o CPC 04
 
-(R1), principalmente considerando se o item é identiﬁcável e atende aos critérios de
+(R1), principalmente considerando se o item é identificável e atende aos critérios de
 
 reconhecimento.
 
-26. Nos casos em que os gastos com conﬁguração e customização não atendam aos
+26. Nos casos em que os gastos com configuração e customização não atendam aos
 
 critérios do CPC 04 (R1) para serem reconhecidos como ativos intangíveis, devem
 
-ser aplicados os
+ser aplicados os itens 68 a 70 do CPC 04 (R1). O item 69 A especifica que “
 
-itens 68 a 70 do CPC 04 (R1)
+...
 
-. O item 69 A especiﬁca que “...
+Serviços são recebidos quando são prestados por um fornecedor de acordo
 
-Serviços são recebidos
+com contrato de prestação de serviços e não quando a entidade usa os
 
-quando são prestados por um fornecedor de acordo
+mesmos para prestar outros serviços....
 
-com contrato de prestação de serviços
+”
 
-e não quando a entidade usa os
+. Dessa forma, o CPC 04 (R1) requer que o
 
-mesmos para prestar outros serviços....”. Dessa forma, o CPC 04 (R1) requer que o
-
-cliente determine quando o fornecedor presta o serviço de conﬁguração e
+cliente determine quando o fornecedor presta o serviço de configuração e
 
 customização, de acordo com o contrato de prestação desses serviços.
 
-27. Se o contrato prevê que a entrega dos serviços de conﬁguração e customização
+27. Se o contrato prevê que a entrega dos serviços de configuração e customização
 
 será feita pelo próprio fornecedor do software de aplicação na nuvem (incluindo
 
@@ -526,114 +406,76 @@ deverá observar:
 
 1) se os serviços que o cliente recebe são distintos, então o cliente deve
 
-reconhecer os gastos com conﬁguração e customização como despesa
+reconhecer os gastos com configuração e customização como despesa
 
 Ofício-Circular 2 (2568484) SEI 19957.000734/2026-65 / pg. 4
 
-quando o fornecedor conﬁgura ou customiza o software de
+quando o fornecedor configura ou customiza o software de
 
-aplicação
-
-;
+aplicação;
 
 2) se os serviços que o cliente recebe não forem distintos, ou seja, não são
 
-separadamente identiﬁcáveis do acesso ao software de aplicação na
+separadamente identificáveis do acesso ao software de aplicação na
 
-nuvem, então o cliente reconhece os gastos com conﬁguração e
+nuvem, então o cliente reconhece os gastos com configuração e
 
-customização como despesa
+customização como despesa quando o fornecedor libera o acesso ao
 
-quando o fornecedor libera o acesso ao
+software de aplicação na nuvem.
 
-software de aplicação na nuvem
-
-.
-
-28. No caso de o contrato prever que a entrega dos serviços de conﬁguração e
+28. No caso de o contrato prever que a entrega dos serviços de configuração e
 
 customização será feita por uma terceira parte distinta do fornecedor que fornece o
 
 acesso para a aplicação na nuvem, então o cliente reconhece os gastos como
 
-despesa
+despesa quando a terceira parte configura ou customiza o software de
 
-quando a terceira parte conﬁgura ou customiza o software de
-
-aplicação
-
-.
+aplicação.
 
 Demais Requerimentos a Serem Observados
 
 29. Os administradores das companhias abertas deverão observar ainda os demais
 
-requisitos das normas contábeis aplicáveis,
+requisitos das normas contábeis aplicáveis, em específico o disposto no CPC 23
 
-em especíﬁco o disposto no CPC 23
-
-– Políticas Contábeis, Mudança de Estimativa e Retificação de Erro
-
-.
+– Políticas Contábeis, Mudança de Estimativa e Retificação de Erro.
 
 Atenciosamente,
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 02/02/2026, às 16:20, com fundamento no art. 6º do
+Superintendente, em 02/02/2026, às 16:20, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fabio Pinto Coelho,
 
-Fabio Pinto Coelho
-
-,
-
-Superintendente
-
-, em 02/02/2026, às 17:03, com fundamento no art. 6º do
+Superintendente, em 02/02/2026, às 17:03, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2568484
+autenticidade, informando o código verificador
 
-e o código CRC
-
-8E1A0DBD
-
-.
+2568484 e o código CRC 8E1A0DBD.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2568484
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2568484 and the "Código CRC" 8E1A0DBD.
 
-8E1A0DBD
-
-.
-
-Referência:
-
-Processo nº 19957.000734/2026-65
-
-Documento SEI nº 2568484
+Referência: Processo nº 19957.000734/2026-65 Documento SEI nº 2568484
 
 Ofício-Circular 2 (2568484) SEI 19957.000734/2026-65 / pg. 5

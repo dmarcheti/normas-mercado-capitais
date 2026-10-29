@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/soi/anexos/oficiocircularsoigoi012025.pdf
 sha256_fonte: fef06160c229251f8833fcb50c97e45ba4f045bc64c9ce7cccdc573205383f82
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -38,75 +40,39 @@ www.cvm.gov.br
 
 Ofício-Circular nº 1/2025/CVM/SOI
 
-São Paulo,
-
-na data da assinatura digital
-
-.
+São Paulo, na data da assinatura digital.
 
 Aos responsáveis pelas Ouvidorias no âmbito do Mercado de Valores Mobiliários.
 
-Assunto:
+Assunto: Verificação dos Relatórios de Ouvidoria previstos na Resolução CVM
 
-Verificação dos Relatórios de Ouvidoria previstos na Resolução CVM
+43/2022.
 
-43/2022
+Senhores(as),
 
-.
+1. Este Ofício-Circular tem como objetivo informar que, a partir do 2º
 
-Senhores(as)
+semestre de 2025, a Superintendência de Orientação aos Investidores e Finanças
 
-,
-
-1
-
-.
-
-Este Ofício-Circular tem como objetivo informar que,
-
-a partir do 2º
-
-semestre
-
-de
-
-2025
-
-, a Superintendência de Orientação aos Investidores e Finanças
-
-Sustentáveis (SOI)
-
-iniciará a veriﬁcação de conformidade dos Relatórios de
+Sustentáveis (SOI) iniciará a verificação de conformidade dos Relatórios de
 
 Ouvidoria ("Relatórios" ou "Relatório") quanto às obrigações previstas na Resolução
 
-CVM 43 ("RCVM 43")
+CVM 43 ("RCVM 43")[1].
 
-[1]
-
-.
-
-2
-
-.
-
-Para tanto, semestralmente, dentre as Ouvidorias dos participantes do
+2. Para tanto, semestralmente, dentre as Ouvidorias dos participantes do
 
 mercado de capitais (“Ouvidorias”) será selecionada uma amostra para supervisão,
 
-com base em metodologia e critérios objetivos pré-deﬁnidos pela SOI. As Ouvidorias
+com base em metodologia e critérios objetivos pré-definidos pela SOI. As Ouvidorias
 
-selecionadas serão notiﬁcadas via ofício, devendo encaminhar o relatório semestral
+selecionadas serão notificadas via ofício, devendo encaminhar o relatório semestral
 
-de que trata o art. 12, na forma do Anexo A, da RCVM 43. A primeira veriﬁcação terá
+de que trata o art. 12, na forma do Anexo A, da RCVM 43. A primeira verificação terá
 
 como referência o relatório do 1º semestre de 2025.
 
-3
-
-.
-
-Destaca-se que o Relatório deverá ser encaminhado em formato PDF
+3. Destaca-se que o Relatório deverá ser encaminhado em formato PDF
 
 pesquisável, DOC ou formato equivalente. Adicionalmente, as estatísticas e bases de
 
@@ -114,11 +80,7 @@ dados utilizados para sua confecção deverão ser enviados em formato XLS, TXT,
 
 CSV ou equivalente, acompanhados da descrição dos campos.
 
-4
-
-.
-
-Recomenda-se, ainda, a leitura complementar do Ofício-Circular nº
+4. Recomenda-se, ainda, a leitura complementar do Ofício-Circular nº
 
 1/2020-CVM/SMI-SOI, que presta orientações aos intermediários a respeito do
 
@@ -126,19 +88,11 @@ tratamento das reclamações de seus clientes, a partir da experiência dos serv
 
 orientação ao cidadão e supervisão de intermediários da CVM.
 
-5
-
-.
-
-Em caso de dúvidas referentes a este Ofício-Circular, a SOI pode ser
+5. Em caso de dúvidas referentes a este Ofício-Circular, a SOI pode ser
 
 Ofício-Circular 1 - Ouvidorias do Mercado de Valores Mobiliários (2324262) SEI 19957.004545/2025-81 / pg. 1
 
-contatada pelo
-
-e-mail
-
-goi@cvm.gov.br.
+contatada pelo e-mail goi@cvm.gov.br.
 
 _________________________________________________________
 
@@ -158,9 +112,7 @@ Atenciosamente,
 
 NATHALIE VIDUAL
 
-Superintendente de
-
-Orientação aos Investidores e Finanças Sustentáveis
+Superintendente de Orientação aos Investidores e Finanças Sustentáveis
 
 (SOI)
 
@@ -170,47 +122,23 @@ Assessor da SOI
 
 ROGÉRIO VICENTIN FERRAZ DE OLIVEIRA
 
-Gerente de
+Gerente de Atendimento e Orientação aos Investidores (GOI)
 
-Atendimento e Orientação aos Investidores (GOI)
+Documento assinado eletronicamente por Nathalie de Andrade Araujo
 
-Documento assinado eletronicamente por
-
-Nathalie de Andrade Araujo
-
-Matoso Vidual
-
-,
-
-Superintendente
-
-, em 02/06/2025, às 09:04, com
+Matoso Vidual, Superintendente, em 02/06/2025, às 09:04, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Gilson Nascimento Maia,
 
-Gilson Nascimento Maia
-
-,
-
-Inspetor Federal do Mercado de Capitais
-
-, em 02/06/2025, às 09:06, com
+Inspetor Federal do Mercado de Capitais, em 02/06/2025, às 09:06, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Rogerio Vicentin Ferraz de
 
-Rogerio Vicentin Ferraz de
-
-Oliveira
-
-,
-
-Gerente
-
-, em 02/06/2025, às 09:20, com fundamento no art. 6º do
+Oliveira, Gerente, em 02/06/2025, às 09:20, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
@@ -218,36 +146,24 @@ Ofício-Circular 1 - Ouvidorias do Mercado de Valores Mobiliários (2324262) SEI
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2324262
+autenticidade, informando o código verificador
 
-e o código CRC
-
-D4F0D558
-
-.
+2324262 e o código CRC D4F0D558.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2324262
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2324262 and the "Código CRC" D4F0D558.
 
-D4F0D558
-
-.
-
-Referência:
-
-Processo nº 19957.004545/2025-81
-
-Documento SEI nº 2324262
+Referência: Processo nº 19957.004545/2025-81 Documento SEI nº 2324262
 
 Ofício-Circular 1 - Ouvidorias do Mercado de Valores Mobiliários (2324262) SEI 19957.004545/2025-81 / pg. 3

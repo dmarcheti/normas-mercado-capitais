@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0224.pdf
 sha256_fonte: 89ce83bd03905c70a59cecccb7cd23715eb7e994f79745a4df3db13f1849b481
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -24,7 +24,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Ofício-Circular nº 2/2024/CVM/SIN
 
@@ -44,7 +44,7 @@ Resolução, bem como de dispositivos do Anexo I. Assim, este Ofício Circular c
 
 Circular-Conjunto nº 1/2023/CVM/SIN/SSE , de 11 de abril de 2023 e o Ofício-Circular-Conjunto
 
-nº 2/2023/CVM/SIN/SSE, de 27 de setembro de 2023 .
+nº 2/2023/CVM/SIN/SSE, de 27 de setembro de 2023.
 
 Para fins de melhor organização dos assuntos, os esclarecimentos serão feitos através de perguntas e
 
@@ -72,7 +72,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 1. Cobrança das Taxas na Classe ou Subclasse
 
@@ -82,7 +82,7 @@ diferenciadas e estabelece que em termos de taxas, essas podem se diferenciar pe
 
 administração, gestão, máxima de distribuição, ingresso e saída. Além disso, a CVM esclareceu
 
-através da questão 1.7 do Ofício -Circular -Conjunto nº 2/2023/CVM/SIN/SSE que a taxa de
+através da questão 1.7 do Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE que a taxa de
 
 performance poderá ser calculada tanto na classe quanto na subclasse. É correto afirmar que os
 
@@ -126,11 +126,11 @@ ambas as hipóteses simultaneamente.
 
 3. Rearranjo de taxas ao longo da vida do fundo
 
-A questão 35 do Ofício -Circular -Conjunto nº 1/2023/CVM/SIN/SSE esclareceu que é possível o
+A questão 35 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE esclareceu que é possível o
 
 rearranjo de taxas de administração, gestão e/ou distribuição máxima do fundo através de ato
 
-unilateral do administrador/gestor tanto no momento da adaptação como du rante a vida do
+unilateral do administrador/gestor tanto no momento da adaptação como durante a vida do
 
 fundo desde que não majore o custo total da estrutura aos investidores finais. Essa interpretação
 
@@ -148,7 +148,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 4. Esclarecimentos com relação a prestação de garantias pelos fundos
 
@@ -204,13 +204,13 @@ CVM 555 em seu artigo 125, inciso V, que trata da hipótese de prestação de ga
 
 em benefício de operações de interesse, mas que não sejam necessariamente diretamente de
 
-sua carteira; como por exemplo, aquelas realizadas por socied ade investida (e.g. de um FIP) ou
+sua carteira; como por exemplo, aquelas realizadas por sociedade investida (e.g. de um FIP) ou
 
 fundo de investimento (no Brasil ou no exterior) que receba investimentos do fundo que prestará
 
 a garantia. Ressalta-se que com relação aos fundos restritos (ou seja, aqueles destinados a
 
-investidores qualificados ou profi ssionais, apenas), além do disposto no art. 86, parágrafo
+investidores qualificados ou profissionais, apenas), além do disposto no art. 86, parágrafo
 
 primeiro, aplica-se, adicionalmente, o disposto no Art., 113, IV da parte geral da Resolução CVM
 
@@ -236,7 +236,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Resposta: Sim, na hipótese descrita, consideramos equiparáveis às operações da carteira própria
 
@@ -256,7 +256,7 @@ ser previamente autorizada pela assembleia de cotistas e contar com alerta em de
 
 divulgação.”
 
-A fim de que seja efetiva a flexibilização, muito bem -vinda, da possibilidade de utilização do
+A fim de que seja efetiva a flexibilização, muito bem-vinda, da possibilidade de utilização do
 
 mecanismo em classes de cotas destinadas ao público em geral, entendemos que a aprovação na
 
@@ -326,7 +326,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 partir de 01/10/2024 (caso o fundo possua subclasse), é correto afirmar que este monitoramento
 
@@ -346,7 +346,7 @@ patrimônio líquido diário para todos os fundos mesmo aqueles ainda regidos pe
 
 Poderiam confirmar qual será a taxonomia do código da subclasse?
 
-Resposta: Retificamos a resposta para a questão 11 do Ofício-Circular -Conjunto nº
+Resposta: Retificamos a resposta para a questão 11 do Ofício-Circular-Conjunto nº
 
 1/2023/CVM/SIN/SSE e esclarecemos que o código da subclasse será alfanumérico contendo 10
 
@@ -366,7 +366,7 @@ do regulamento por ato do administrador). Desta forma, é correto interpretar qu
 
 tais documentos societários em Registro de Títulos e Documentos passa a estar dispensado sob
 
-o regime da Resol ução CVM 175?
+o regime da Resolução CVM 175?
 
 Resposta: Sim, correto. De início, vale esclarecer que o termo “regulamento” previsto no artigo
 
@@ -406,7 +406,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 8. Processo operacional de adaptação dos fundos à Resolução CVM nº 175
 
@@ -426,7 +426,7 @@ adaptados à Resolução CVM 175 até o final do prazo de adaptação, 30/06/202
 
 mensagem direcionada ao endereço edyr@cvm.gov.br conforme formato excel previsto no
 
-Ofício-Circular -Conjunto nº 2/2023/CVM/SIN/SSE. As novas datas para envio da informação são:
+Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE. As novas datas para envio da informação são:
 
 28/06/2024, 30/09/2024, 27/12/2024, 31/03/2025 e 30/06/2025. Nestas datas, devem ser
 
@@ -446,7 +446,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Conforme disposto no art. 49, Anexo I da RCVM 175, a CVM veda a cobrança de taxa de
 
@@ -496,13 +496,13 @@ nos Fundos Incentivados em Infraestrutura. Isso porque esses fundos dispõem de 
 
 tributário específico sobre enquadramento da carteira para fornecer benefício fiscal a alguns
 
-cotistas (Lei nº 12.431, de 2011) que não se confund e com o controle da carteira para fins de
+cotistas (Lei nº 12.431, de 2011) que não se confunde com o controle da carteira para fins de
 
 enquadramento do fundo como curto ou longo prazo. Sendo assim, apesar das debentures de
 
 infraestrutura terem, de forma geral vencimentos muito superiores a 365 dias, o que atenderia
 
-integralmente ao critério de enq uadramento da carteira dos Fundos de Infraestrutura definido
+integralmente ao critério de enquadramento da carteira dos Fundos de Infraestrutura definido
 
 pela Receita Federal como longo prazo, seu regime fiscal próprio pode não atender de forma
 
@@ -514,7 +514,7 @@ desenquadramento da condição de fundo de infraestrutura, o regime tributário 
 
 passa a ser observado. Em adição aos pontos acima apresentados, cabe destacar que um FIDC
 
-estruturado com fundamento no artigo 3º da Lei nº 12.431, independente de seu público -alvo,
+estruturado com fundamento no artigo 3º da Lei nº 12.431, independente de seu público-alvo,
 
 poderá ter taxa de performance, visto que o artigo 13 do Anexo Normativo II não veda a
 
@@ -544,7 +544,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 Resposta: Sim, a flexibilização do inciso II do art. 49 diz respeito a “estratégia de investimento da
 
@@ -578,7 +578,7 @@ gestor tenha por objetivo adquirir ativos em um conjunto de países de uma mesma
 
 similaridade de perfil refletindo agrupamentos de uso comum, é possível prever no regulamento
 
-de forma genérica que o gestor tem por objetivo adquirir ativos de países de uma regi ão
+de forma genérica que o gestor tem por objetivo adquirir ativos de países de uma região
 
 geográfica específica ou de referidos agrupamentos, tais como os exemplos abaixo:
 
@@ -620,7 +620,7 @@ do fundo (análise de sensibilidade), atividade que a partir da Resolução CVM 
 
 ser do escopo dos gestores, a Autarquia faz menção somente ao administrador fiduciário neste
 
-documento. Inclusive na questão 17 do Ofício-Circular -Conjunto nº 1/2023/CVM/SIN/SSE a CVM
+documento. Inclusive na questão 17 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE a CVM
 
 esclarece:
 
@@ -628,7 +628,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 17. Considerando que o gestor é o responsável pelo gerenciamento de risco e teste de estresse periódico,
 
@@ -648,7 +648,7 @@ regulatórios da RCVM 175?
 
 Resposta: Sim, o gestor permanece responsável pela apuração e cálculo dessas informações,
 
-devendo o administrador fiduciário retransmiti -las à CVM.
+devendo o administrador fiduciário retransmiti-las à CVM.
 
 12. Extrato de Conta
 
@@ -712,7 +712,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 recebê-lo.
 
@@ -722,7 +722,7 @@ A CVM se manifestou, no item 33 do Ofício-Circular nº 2/2023/CVM/SIN, sobre a 
 
 obtenção do código ISIN como condição prévia para a aquisição de ativos financeiros de fundos
 
-constituídos de acordo com a Resolução CVM 175. No entanto, verifica -se que alguns
+constituídos de acordo com a Resolução CVM 175. No entanto, verifica-se que alguns
 
 instrumentos, principalmente os que possuem emissão primária e são originados por instituições
 
@@ -744,7 +744,7 @@ de impossibilidade da obtenção do ISIN no momento da aquisição do ativo pela
 
 Pergunta: Qual será a dinâmica de criação de CNPJs para os fundos monoclasses e multiclasses?
 
-Resposta: Diferentemente do sinalizado através do Ofício-Circular -Conjunto nº 1/2023/CVM/SIN/SSE,
+Resposta: Diferentemente do sinalizado através do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE,
 
 a CVM optou por manter uma dinâmica que permita uma melhor organização e rastreabilidade
 
@@ -784,7 +784,7 @@ COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
-Tel.: (21) 3554 -8686 - www.cvm.gov.br
+Tel.: (21) 3554-8686 - www.cvm.gov.br
 
 15. Compensação de margem em veículo local e offshore
 

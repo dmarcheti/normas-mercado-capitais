@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc-sse/anexos/oc-sse-snc-0324.pdf
 sha256_fonte: 377682d1100c45fef7572caae244b03e287536aae5db3fc9d697645844a0fae0
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+27/11/2024, 15:26 SEI/CVM - 2200310 - Ofício-Conjunto
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -92,11 +94,37 @@ acumulado segregando (i) a distribuição de lucro que correspondeu a lucro cont
 
 8.668/1993, acrescentando, em nota explicativa às demonstrações financeiras do Fundo,
 
-informações elucidativas acerca de tais valores.”
+informações elucidativas acerca de tais valores.
+
+”
+
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
+
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2327993&infra
+
+_
+
+_
+
+_
+
+siste... 1/3
 
 27/11/2024, 15:26 SEI/CVM - 2200310 - Ofício-Conjunto
-
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2327993&infra_siste… 1/3
 
 5. Nos casos em que a distribuição de rendimentos seja realizada exclusivamente com base no
 
@@ -154,11 +182,11 @@ funcionamento do FII, de modo a permitir a comprovação da distribuição míni
 
 do Lucro Caixa na visão acumulada, prevista na Lei 8.668.
 
-11. Ressaltam as superintendências que, seja qual for o método escolhido, este deve respeitar a
+11. FII.
+
+Ressaltam as superintendências que, seja qual for o método escolhido, este deve respeitar a
 
 distribuição mínima de 95% do lucro caixa apurado de forma acumulada desde o início das operações do
-
-FII.
 
 12. Por fim, importa reforçar que o presente Ofício-Circular-Conjunto não modifica as
 
@@ -174,9 +202,33 @@ Paulo Roberto Gonçalves Ferreira
 
 Superintendente de Normas Contábeis e Auditoria - SNC
 
-27/11/2024, 15:26 SEI/CVM - 2200310 - Ofício-Conjunto
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2327993&infra_siste… 2/3
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2327993&infra
+
+_
+
+_
+
+_
+
+siste... 2/3
+
+27/11/2024, 15:26 SEI/CVM - 2200310 - Ofício-Conjunto
 
 Documento assinado eletronicamente por Bruno de Freitas Gomes Condeixa Rodrigues,
 
@@ -190,16 +242,46 @@ Superintendente, em 27/11/2024, às 15:23, com fundamento no art. 6º do Decreto
 
 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2200310 e o código CRC 8FF41641.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2200310 and the "Código CRC" 8FF41641.
 
+autenticidade,
+
+autenticidade, and
+
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2200310
 
-27/11/2024, 15:26 SEI/CVM - 2200310 - Ofício-Conjunto
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2327993&infra_siste… 3/3
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2327993&infra
+
+_
+
+_
+
+_
+
+siste... 3/3

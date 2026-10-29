@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0224.pdf
 sha256_fonte: ea71605afcbb761495fd39572e66fa6dcee08a603883514d110910be3d18731a
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -38,35 +40,19 @@ www.cvm.gov.br
 
 Ofício Circular nº 2/2024-CVM/SEP
 
-Rio de Janeiro, 15
+Rio de Janeiro, 15 de fevereiro 2024.
 
-d
-
-e fevereiro 2024.
-
-Assunto:
-
-Melhorias no Sistema Empresas.Net
-
-.
+Assunto: Melhorias no Sistema Empresas.Net.
 
 Senhor Diretor de Relações com Investidores/Representante Legal,
 
-1
+1. O presente Ofício Circular tem como objetivo informar às companhias
 
-.
-
-O presente Ofício Circular tem como objetivo informar às companhias
-
-abertas
-
-e estrangeiras acerca das melhorias implementadas no sistema
+abertas e estrangeiras acerca das melhorias implementadas no sistema
 
 Empresas.Net, no último trimestre:
 
-Nov
-
-embro/23:
+Novembro/23:
 
 Formulário de Referência:
 
@@ -86,7 +72,7 @@ Dezembro/23:
 
 Formulário de Referência:
 
-- Quadros 8.2 e 8.3 - melhoria no ﬂuxo de validação de
+- Quadros 8.2 e 8.3 - melhoria no fluxo de validação de
 
 preenchimento, garantindo melhor qualidade dos dados.
 
@@ -98,11 +84,7 @@ Janeiro/24:
 
 Formulário de Referência:
 
-- Quadros 6.3, 6.4, 8.5, 8.11 e 8.1
-
-5 -
-
-melhoria no ﬂuxo de
+- Quadros 6.3, 6.4, 8.5, 8.11 e 8.15 - melhoria no fluxo de
 
 validação de preenchimento, garantindo melhor qualidade dos
 
@@ -110,59 +92,35 @@ Ofício-Circular 2 (1976434) SEI 19957.001075/2024-12 / pg. 1
 
 dados.
 
-2
-
-.
-
-Requeremos que as informações contidas neste ofício sejam levadas ao
+2. Requeremos que as informações contidas neste ofício sejam levadas ao
 
 conhecimento das equipes responsáveis pelo envio de informações por meio do
 
 Sistema Empresas.Net.
 
-Atendi
+Atendimento:
 
-mento:
+3. Informamos que dúvidas referentes à utilização e funcionamento do
 
-3
-
-.
-
-Informamos que dúvidas referentes à utilização e funcionamento do
-
-Sistema Empresas.NET, assim como o relato de problemas ou diﬁculdades no envio
+Sistema Empresas.NET, assim como o relato de problemas ou dificuldades no envio
 
 de documentos, devem ser encaminhados para a Superintendência de Emissores da
 
-B3
+B3.
 
-.
+4. O contato com a Superintendência de Emissores pode ser feito pelo
 
-4
-
-.
-
-O contato com a Superintendência de Emissores pode ser feito pelo
-
-telefone (11) 2565-5063 ou por e-mail:
-
-emissores.empresas@b3.com.br
-
-:
+telefone (11) 2565-5063 ou por e-mail: emissores.empresas@b3.com.br:
 
 a) Atendimento Normal: nos dias úteis, das 8h às 20h, pelo e-mail ou
 
 pelo telefone.
 
-b) Plantão de Atendimento: nos dias úteis, após às 20h ou em ﬁnais de
+b) Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de
 
 semana e feriados, exclusivamente por meio do e-mail.
 
-5
-
-.
-
-As questões recebidas após às 20h dos dias úteis e em ﬁnais de semana
+5. As questões recebidas após às 20h dos dias úteis e em finais de semana
 
 e feriados serão tratadas após às 8h do dia útil seguinte, exceto as relacionadas à
 
@@ -176,50 +134,32 @@ FERNANDO SOARES VIEIRA
 
 Superintendente de Relações com Empresas
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 15/02/2024, às 09:29, com fundamento no art. 6º do
+Superintendente, em 15/02/2024, às 09:29, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1976434
+autenticidade, informando o código verificador
 
-e o código CRC
-
-3339E337
-
-.
+1976434 e o código CRC 3339E337.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1976434
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1976434 and the "Código CRC" 3339E337.
 
-3339E337
-
-.
-
-Referência:
-
-Processo nº 19957.001075/2024-12
-
-Documento SEI nº 1976434
+Referência: Processo nº 19957.001075/2024-12 Documento SEI nº 1976434
 
 Ofício-Circular 2 (1976434) SEI 19957.001075/2024-12 / pg. 2

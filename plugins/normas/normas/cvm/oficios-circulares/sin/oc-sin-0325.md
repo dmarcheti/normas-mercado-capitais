@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin/anexos/oc-sin-0325.pdf
 sha256_fonte: e58dcbeff1cea386673c7500ace881d2be448dff946e2178d35f31710ab70d5e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -212,19 +212,19 @@ apenas cumpre com a exigência regulatória, mas também assegura que os investi
 
 tomem decisões conscientes, minimizando possíveis mal-entendidos e prejuízos financeiros.
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+5. COMISSÃO DE VALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil
 
 Tel.: (21) 3554-8686 - www.cvm.gov.br
 
-5. Operações no Âmbito de Copytrade
+Operações no Âmbito de Copytrade
 
 Adicionalmente, gostaríamos de ressaltar que as operações realizadas por analistas de
 
 valores mobiliários no âmbito de Copytrade devem ser realizadas exclusivamente em
 
-ambiente simulador . Isso se aplica devido os analistas de valores mobiliários terem que
+ambiente simulador. Isso se aplica devido os analistas de valores mobiliários terem que
 
 respeitar os períodos de vedação estabelecidos no art. 13, incisos III e IV da referida
 
@@ -258,13 +258,13 @@ indevida ocorra sobre as decisões de investimento dos investidores.
 
 Diante do exposto, recomendamos que:
 
-I. Plataformas e profissionais que oferecem o serviço de Copytrade garantam que todos
+I. II. III. IV. Plataformas e profissionais que oferecem o serviço de Copytrade garantam que todos
 
 os traders cujas operações serão copiadas estejam devidamente credenciados como
 
 analistas de valores mobiliários;
 
-II. Os analistas devem evitar a recomendação de ativos que tenham interesses financeiros
+Os analistas devem evitar a recomendação de ativos que tenham interesses financeiros
 
 e comerciais relevantes, especialmente nos casos em que poderiam ser beneficiados
 
@@ -272,13 +272,13 @@ no caso de criação de demanda e liquidez sobre os ativos, entre outras hipóte
 
 conflito de interesses previstas na regulação e legislação;
 
-III. Investidores devem ser devidamente informados de maneira adequada sobre a
+Investidores devem ser devidamente informados de maneira adequada sobre a
 
 natureza do serviço de Copytrade, incluindo os riscos envolvidos, metodologia utilizada
 
 e a forma como as operações são replicadas;
 
-IV. Operações de Copytrade sejam realizadas exclusivamente em ambiente simulador,
+Operações de Copytrade sejam realizadas exclusivamente em ambiente simulador,
 
 respeitando o período de vedação contido no art. 13, incisos III e IV da Resolução CVM
 

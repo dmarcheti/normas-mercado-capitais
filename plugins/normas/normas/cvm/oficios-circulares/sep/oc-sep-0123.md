@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0123.pdf
 sha256_fonte: 12add30505a1ac064e94c11f4b7939bce9a4be40ebadf331b74acdc7712fd646
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -38,97 +40,55 @@ www.cvm.gov.br
 
 Ofício Circular nº 1/2023-CVM/SEP
 
-Rio de Janeiro, 1
+Rio de Janeiro, 19 de julho 2023.
 
-9 d
-
-e julho 2023.
-
-Assunto:
-
-Criação de novas associações no Sistema Empresas.NET para
+Assunto: Criação de novas associações no Sistema Empresas.NET para
 
 companhia estrangeira (entidade de investimentos).
 
 Senhor Representante Legal,
 
-1
-
-.
-
-O presente Ofício Circular tem como objetivo informar às companhias
+1. O presente Ofício Circular tem como objetivo informar às companhias
 
 estrangeiras sobre a criação de novas associações para entrega de documentos no
 
 Sistema Empresas.NET (E-NET)
 
-2
+2. A partir de hoje, a companhia estrangeira registrada na categoria A, que
 
-.
-
-A partir de hoje, a companhia estrangeira registrada na categoria A,
-
-que
-
-seja uma entidade de investimentos
-
-, conforme deﬁnição das normas contábeis
+seja uma entidade de investimentos, conforme definição das normas contábeis
 
 que trate desse tema, deverá utilizar a categoria: Emissor Estrangeiro / tipo:
 
-Composição de Carteira
+Composição de Carteira e a categoria: Emissor Estrangeiro / tipo: Demais
 
-e
-
-a categoria: Emissor Estrangeiro / tipo: Demais
-
-informações especíﬁcas obrigatórias para disponibilização das informações
+informações específicas obrigatórias para disponibilização das informações
 
 solicitadas no artigo 8° do Anexo J da Resolução CVM n° 80/22, com redação dada
 
 pela Resolução CVM nº 183/23.
 
-3
-
-.
-
-Informamos que dúvidas referentes à instalação, utilização e
+3. Informamos que dúvidas referentes à instalação, utilização e
 
 funcionamento do Sistema Empresas.NET, assim como o relato de problemas ou
 
-diﬁculdades no envio de documentos, devem ser encaminhadas para a
+dificuldades no envio de documentos, devem ser encaminhadas para a
 
 Superintendência de Emissores da B3.
 
-4
-
-.
-
-O contato com a Superintendência de Emissores pode ser feito pelo
+4. O contato com a Superintendência de Emissores pode ser feito pelo
 
 telefone (11) 2565-5063 ou por e-mail: emissores.empresas@b3.com.br:
 
-a
-
-)
-
-Atendimento Normal: nos dias úteis, das 8h às 20h, pelo e-mail ou
+a) Atendimento Normal: nos dias úteis, das 8h às 20h, pelo e-mail ou
 
 pelo telefone.
 
-b
-
-)
-
-Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de
+b) Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de
 
 semana e feriados, exclusivamente por meio do e-mail.
 
-5
-
-.
-
-As questões recebidas após às 20h dos dias úteis e em ﬁnais de semana
+5. As questões recebidas após às 20h dos dias úteis e em finais de semana
 
 e feriados serão tratadas após às 8h do dia útil seguinte, exceto as relacionadas à
 
@@ -146,50 +106,32 @@ Superintendente de Relações com Empresas
 
 (Em exercício)
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Carla Verônica Oliveira Chaffim,
 
-Carla Verônica Oliveira Chaffim
-
-,
-
-Superintendente Substituto
-
-, em 19/07/2023, às 09:13, com fundamento
+Superintendente Substituto, em 19/07/2023, às 09:13, com fundamento
 
 no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-1830095
+autenticidade, informando o código verificador
 
-e o código CRC
-
-2F305FD5
-
-.
+1830095 e o código CRC 2F305FD5.
 
 This document's authenticity can be verified by accessing
 
-https://super.cvm.gov.br/conferir_autenticidade
+https://super.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-1830095
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+1830095 and the "Código CRC" 2F305FD5.
 
-2F305FD5
-
-.
-
-Referência:
-
-Processo nº 19957.008521/2023-39
-
-Documento SEI nº 1830095
+Referência: Processo nº 19957.008521/2023-39 Documento SEI nº 1830095
 
 Ofício-Circular 1 (1830095) SEI 19957.008521/2023-39 / pg. 2

@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0226.pdf
 sha256_fonte: 33f32ca7fac2cdad684b9ec227918bd92c9e27d79c7ce84bb500fe923364ce51
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -36,15 +38,11 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-Ofício Circular nº 2/2026-
-
-CVM/SEP
+Ofício Circular nº 2/2026-CVM/SEP
 
 Rio de Janeiro, 18 de maio de 2026.
 
-Assunto:
-
-Orientações às entidades administradoras de mercados organizados
+Assunto: Orientações às entidades administradoras de mercados organizados
 
 para obtenção de registro inicial de emissor de valores mobiliários de
 
@@ -54,15 +52,9 @@ Senhores(as) Representantes das Entidades Administradoras de Mercado
 
 Organizado,
 
-1
+1. O presente Ofício Circular tem como objetivo orientar as entidades
 
-.
-
-O presente Ofício Circular tem como objetivo orientar as entidades
-
-administradoras de mercados organizados ("Entidades Administradoras")
-
-quanto aos
+administradoras de mercados organizados ("Entidades Administradoras") quanto aos
 
 procedimentos a serem observados para a obtenção de registro inicial de emissor
 
@@ -72,141 +64,85 @@ Resolução CVM nº 232/25, em especial no que se refere à supervisão exercida
 
 tais entidades e ao fluxo operacional de comunicação à CVM.
 
-2
-
-.
-
-Preliminarmente, as Entidades Administradoras deverão analisar os
+2. Preliminarmente, as Entidades Administradoras deverão analisar os
 
 pedidos de listagem das companhias de menor porte de acordo com as regras
 
-previstas no
+previstas no Acordo de Cooperação Técnica celebrado com a CVM e em observância
 
-Acordo de Cooperação Técnica celebrado com a CVM e
-
-em observância
-
-ao disposto na Resolução CVM nº 232/25
-
-.
-
-Nesta etapa inicial, a análise da
+ao disposto na Resolução CVM nº 232/25. Nesta etapa inicial, a análise da
 
 documentação apresentada pela companhia deverá ser realizada fora do Sistema
 
 Empresas.Net (“Sistema E-NET”).
 
-3
+3. Após o deferimento do pedido de listagem, a Entidade Administradora
 
-.
+deverá encaminhar comunicação à CVM, por meio do Protocolo Digital
 
-Após o deferimento do pedido de listagem, a Entidade Administradora
+(https://www.gov.br/cvm/pt-br/canais
 
-deverá encaminhar
+_
 
-comunicação à CVM
+atendimento/protocolo-digital), endereçado à
 
-, por meio do Protocolo Digital
+Superintendência de Relações com Empresas ("SEP"), informando a listagem da
 
-(
-
-https://www.gov.br/cvm/pt-br/canais_atendimento/protocolo-digital
-
-), endereçado à
-
-Superintendência de Relações com Empresas ("SEP"),
-
-informando a listagem da
-
-companhia de menor porte, para ﬁns de obtenção automática do registro de emissor
+companhia de menor porte, para fins de obtenção automática do registro de emissor
 
 de valores mobiliários, nos termos da Resolução CVM nº 232/25.
 
-4
+4. A Entidade Administradora deverá certificar-se de que a CMP efetuou o
 
-.
+recolhimento da taxa de fiscalização devida, nos termos da Lei nº 7.940/89, bem
 
-A Entidade Administradora
+como de que o valor recolhido corresponde ao estabelecido no Anexo V da referida
 
-deverá certiﬁcar-se de que a CMP efetuou o
-
-recolhimento da taxa de ﬁscalização devida, nos termos da Lei nº 7.940/89, bem
-
-como de que o valor recolhido corresponde ao estabelecido no Anexo V
-
-da referida
-
-Lei
-
-.
+Lei.
 
 Ofício-Circular 2 (2678311) SEI 19957.005197/2026-40 / pg. 1
 
-5
+5. A comunicação protocolada deverá apresentar:
 
-.
-
-A comunicação protocolada deverá apresentar:
-
-a
-
-)
-
-os seguintes anexos
-
-(i)
-
-versão em PDF do Formulário Cadastral
+a) os seguintes anexos (i) versão em PDF do Formulário Cadastral
 
 (preenchido corretamente pelo emissor), que será utilizado para
 
-preenchimento dos sistemas da CVM; e
+preenchimento dos sistemas da CVM; e (ii) cópias da Guia de
 
-(ii)
-
-cópias da Guia de
-
-Recolhimento e do comprovante de pagamento da taxa de ﬁscalização
+Recolhimento e do comprovante de pagamento da taxa de fiscalização
 
 realizado pelo emissor; e
 
-b
-
-)
-
-relação dos documentos analisados pela Entidade Administradora,
+b)relação dos documentos analisados pela Entidade Administradora,
 
 que deverão ser disponibilizados publicamente pelo Sistema E-NET,
 
-após a obtenção do registro na CVM
-
-, de acordo com as
+após a obtenção do registro na CVM, de acordo com as
 
 Resoluções CVM nº 80/22 e n° 232/25, seguindo o modelo da tabela
 
 abaixo:
 
-Nº
-
-Documentos
-
-Associações no Sistema
-
-E-NET
+Nº Documentos
 
 1
 
+ou
+
+2
+
 Formulário Cadastral
-
-202
-
-X
 
 Conforme previsto na Resolução
 
+202X
+
 CVM nº 232/25, Anexo A, artigo
 
-1º, inciso VII. Destacamos que o
+1º
+
+, inciso VII. Destacamos que o
 
 documento deve ter os seguintes
 
@@ -214,9 +150,17 @@ campos adequadamente
 
 preenchidos: “Situação de
 
-Registro”, “Data de Registro
+Registro”
 
-CVM”, “Data início da situação do
+,
+
+“Data de Registro
+
+CVM”
+
+,
+
+“Data início da situação do
 
 registro” e de registro na atual
 
@@ -226,29 +170,13 @@ Mobiliários” deve ser atualizado,
 
 se for o caso.
 
-Categoria
-
-Formulário
-
-Cadastral
-
-2
-
 Formulário de
 
-Referência 202
-
-X
-
-ou
-
-Formulário FÁCIL
+Referência 202X
 
 Formulário de Referência,
 
-c
-
-onforme previsto no artigo 22,
+conforme previsto no artigo 22,
 
 inciso II c/c artigo 25, ambos da
 
@@ -258,11 +186,15 @@ não opte pelo encaminhamento
 
 do Formulário FÁCIL.
 
+Formulário FÁCIL
+
 ou
 
 Formulário FÁCIL 202X, conforme
 
-previsto no artigo 22, § 4º, da
+previsto no artigo 22, § 4º
+
+, da
 
 Resolução CVM nº 232/25, caso
 
@@ -270,15 +202,23 @@ não opte pelo encaminhamento
 
 do Formulário de Referência.
 
-Categoria
+Associações no Sistema
 
-ou
+E-NET
+
+Categoria Formulário
+
+Cadastral
 
 Categoria
 
 Formulário de
 
 Referência
+
+ou
+
+Categoria
 
 ou
 
@@ -289,6 +229,16 @@ FÁCIL
 Ofício-Circular 2 (2678311) SEI 19957.005197/2026-40 / pg. 2
 
 3
+
+4
+
+5
+
+6
+
+7
+
+8
 
 Formulário de
 
@@ -304,11 +254,25 @@ Informações
 
 Semestrais ("ISEM")
 
+Estatuto Social
+
+consolidado
+
+Demonstrações
+
+financeiras, auditadas
+
+e elaboradas de acordo
+
+com a Lei nº 6.404/76,
+
+e com as normas da
+
+CVM
+
 Formulário de Informações
 
-Trimestrais, c
-
-onforme previsto no
+Trimestrais, conforme previsto no
 
 artigo 22, inciso V, c/c artigo 31,
 
@@ -328,7 +292,9 @@ Formulário de Informações
 
 Semestrais, conforme previsto no
 
-artigo 22, § 9º, da Resolução
+artigo 22, § 9º
+
+, da Resolução
 
 CVM nº 232/25, caso não opte
 
@@ -338,9 +304,21 @@ Formulário de Informações
 
 Trimestrais (“ITR”).
 
-Categoria
+Em observância ao disposto na
 
-ou
+Resolução CVM nº 232/25, Anexo
+
+A, artigo 1º
+
+, inciso IV.
+
+Nos termos da Resolução CVM nº
+
+232/25, Anexo A, artigo 1º
+
+, inciso
+
+VIII.
 
 Categoria
 
@@ -350,6 +328,10 @@ Informações
 
 Trimestrais
 
+ou
+
+Categoria
+
 Formulário de
 
 Informações
@@ -358,41 +340,15 @@ Semestrais
 
 ISEM
 
-4
-
-Estatuto Social
-
-consolidado
-
-Em observância ao disposto na
-
-Resolução CVM nº 232/25, Anexo
-
-A, artigo 1º, inciso IV.
-
-Categoria
-
-Estatuto Social
-
-5
-
-Demonstrações
-
-financeiras, auditadas
-
-e elaboradas de acordo
-
-com a Lei nº 6.404/76,
-
-e com as normas da
-
-CVM
+Categoria Estatuto Social
 
 Nos termos da Resolução CVM nº
 
-232/25, Anexo A, artigo 1º, inciso
+232/25, Anexo A, artigo 1º
 
-VIII.
+, inciso
+
+X.
 
 Categoria
 
@@ -440,7 +396,9 @@ para Registro
 
 Inicial
 
-6
+Categoria Acordo de
+
+Acionistas
 
 Cópias dos acordos de
 
@@ -452,43 +410,11 @@ arquivados na sede do
 
 emissor
 
-Nos termos da Resolução CVM nº
-
-232/25, Anexo A, artigo 1º, inciso
-
-X.
-
-Categoria
-
-Acordo de
-
-Acionistas
-
-7
-
 Relação de dispensas
 
 de obrigações
 
 regulatórias
-
-Nos termos d
-
-o artigo 16 da
-
-Resolução CVM nº 232/25.
-
-Categoria
-
-Relação de
-
-Dispensa de
-
-Obrigações
-
-Regulatórias
-
-8
 
 Ata da assembleia
 
@@ -498,11 +424,25 @@ que tenha aprovado o
 
 pedido de listagem
 
+Nos termos do artigo 16 da
+
+Resolução CVM nº 232/25.
+
 Nos termos da Resolução CVM nº
 
-232/25, Anexo A, artigo 1º, inciso
+232/25, Anexo A, artigo 1º
+
+, inciso
 
 II.
+
+Categoria Relação de
+
+Dispensa de
+
+Obrigações
+
+Regulatórias
 
 Categoria
 
@@ -532,7 +472,9 @@ investidores
 
 Nos termos da Resolução CVM nº
 
-232/25, Anexo A, artigo 1º, inciso
+232/25, Anexo A, artigo 1º
+
+, inciso
 
 III.
 
@@ -552,11 +494,7 @@ Administração
 
 Ata
 
-6
-
-.
-
-Após a realização de procedimentos internos, a SEP enviará um Ofício-
+6. Após a realização de procedimentos internos, a SEP enviará um Ofício-
 
 RIC destinado à CMP, com cópia para a Entidade Administradora, informando o
 
@@ -566,31 +504,21 @@ terá habilitado o acesso do DRI da CMP ao Sistema E-NET, que estará habilitado
 
 para realizar o envio dos documentos pertinentes ao registro.
 
-7
-
-.
-
-Uma vez encaminhados pela CMP os documentos por meio do Sistema E-
+7. Uma vez encaminhados pela CMP os documentos por meio do Sistema E-
 
 NET, o que deve ocorrer imediatamente após a concessão do registro, caberá à
 
-Entidade Administradora veriﬁcar se os documentos disponibilizados correspondem
+Entidade Administradora verificar se os documentos disponibilizados correspondem
 
 àqueles analisados no âmbito do pedido de listagem, se todos foram enviados nas
 
 associações corretas do Sistema E-NET e se permanecem disponíveis na página da
 
-Entidade Administradora na rede mundial de computadores,
-
-conforme § 2º do art. 14
+Entidade Administradora na rede mundial de computadores, conforme § 2º do art. 14
 
 da Resolução CVM nº 80/22.
 
-8
-
-.
-
-Caso a Entidade Administradora constate que algum documento não foi
+8. Caso a Entidade Administradora constate que algum documento não foi
 
 encaminhado, esteja incorretamente preenchido ou tenha sido disponibilizado em
 
@@ -598,11 +526,7 @@ associação incorreta, deverá entrar em contato imediatamente com a companhia
 
 para que a inconsistência seja sanada.
 
-9
-
-.
-
-Ressaltamos que eventuais problemas ou diﬁculdades no envio desses
+9. Ressaltamos que eventuais problemas ou dificuldades no envio desses
 
 documentos devem ser reportados, nos dias úteis, das 8h às 20h, ao suporte
 
@@ -616,52 +540,34 @@ FERNANDO SOARES VIEIRA
 
 Superintendente de Relações com Empresas
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 18/05/2026, às 09:22, com fundamento no art. 6º do
+Superintendente, em 18/05/2026, às 09:22, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2678311
+autenticidade, informando o código verificador
 
-e o código CRC
-
-CEA32A57
-
-.
+2678311 e o código CRC CEA32A57.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2678311
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
-
-CEA32A57
-
-.
+2678311 and the "Código CRC" CEA32A57.
 
 Ofício-Circular 2 (2678311) SEI 19957.005197/2026-40 / pg. 4
 
-Referência:
-
-Processo nº 19957.005197/2026-40
-
-Documento SEI nº 2678311
+Referência: Processo nº 19957.005197/2026-40 Documento SEI nº 2678311
 
 Ofício-Circular 2 (2678311) SEI 19957.005197/2026-40 / pg. 5

@@ -62,20 +62,22 @@ Data: 2026-10-28. Teste 1: todo texto novo de um commit de ato aparece no texto 
 | lei-12431 | 0 |
 | lei-10406 | 0 |
 
-## Fase 2b: texto vigente por script (2026-10-28)
+## Fase 2b: texto vigente por script (2026-10-28; correções em 2026-10-29)
 
-Inventário: `scripts/inventario_acervo.py` → `fontes/acervo.json` (site da CVM e Estoque Regulatório de 2026-09-08). Conversão: `scripts/texto_vigente.py`, sem LLM. Cobertura = fração das palavras da fonte, extraídas pelo `textutil` do macOS (conversor independente), presentes no Markdown antes de tirar o texto tachado do consolidado.
+Inventário: `scripts/inventario_acervo.py` → `fontes/acervo.json` (site da CVM e Estoque Regulatório de 2026-09-08). Conversão: `scripts/texto_vigente.py`, sem LLM. Fontes baixadas em 2026-10-28 (`baixado_em`); conferência em 2026-10-29 (`verificado_em`). Cobertura = fração das palavras da fonte, lidas por um extrator independente, presentes no Markdown (palavras = letras e dígitos; "_" separa). Extrator independente: `textutil` do macOS para DOCX, DOC e HTM; pypdf para PDF, cujo texto da norma vem do PDFKit do macOS.
 
-| Camada | Itens | Com texto | Nível de verificação |
-|---|---|---|---|
-| 1: Resoluções e Instruções | 152 | 152 | 33 consolidado-convertido, 116 ato-convertido, 3 pdf-extraido (Res. 1, 10 e 12) |
-| 2: Pareceres e Ofícios-Circulares desde 2022 | 220 | 212 | 40 ato-convertido, 172 pdf-extraido |
-| 3: leis e decretos | 29 | 29 | compilado-planalto; `teste_lei` com 0 diferença nas 29 |
+| Camada | Itens | Com texto | Nível de verificação | Cobertura ≥ 99% |
+|---|---|---|---|---|
+| 1: Resoluções e Instruções | 152 | 152 | 33 consolidado-convertido, 116 ato-convertido, 3 pdf-extraido | 149 de 152 |
+| 2: Pareceres e Ofícios-Circulares desde 2022 | 220 | 220 | 40 ato-convertido, 172 pdf-extraido, 8 ocr | 174 de 212 conferidos |
+| 3: leis e decretos | 29 | 29 | compilado-planalto | `teste_lei` com 0 diferença nas 29 |
 
 - Instr. CVM 489: histórico por ato (Instr. 502/11 e 576/16), teste 1 com 0 linha fora do ato nos dois commits; sem teste 2, porque a CVM não publica consolidado.
-- Cobertura com conferência independente: 189 normas, 184 com 99% ou mais. Abaixo: Res. CVM 89 (98,6%), 94 (98,5%), 100 (96,2%), 103 (96,1%) e 122 (94,0%), todas pela mesma causa: diagramas em caixa de texto (74 a 612 palavras), que o conversor não lê. Está no `incerteza` de cada uma.
-- Notas de rodapé: 40 normas trazem a seção final "Notas de rodapé" (sem a âncora no texto).
-- PDF sem conferência independente (175 normas, quase todas Ofícios-Circulares): só a regra de legibilidade (fração de palavras alfabéticas ≥ 0,5 e ao menos 50 palavras).
-- Sem texto (8 Ofícios-Circulares, ficam como verbete no índice): SSE 03/26 e 02/26 (fonte Type3 sem mapa Unicode), SMI 02/23 (codificação de fonte), SEP 06/26, SSE 06/25, SSE 04/25, SNC/SSE/SIN 02/25 conjunto e SSE/SNC 02/25 (PDF escaneado). Só OCR resolve.
+- Camada 1 abaixo de 99%: Res. CVM 100 (98,1%), 103 (98,1%) e 122 (97,1%). Não falta texto: o `textutil` lê duas vezes cada diagrama (o Word grava a caixa de texto em duas cópias) e o conversor lê uma; descontada a cópia, as três passam de 99,8%.
+- Camada 2 abaixo de 99% (38 ofícios, mínima 94,5% no SIN 06/24): o pypdf, lado da conferência, parte palavras ("op eracionalização", "Ins titucionais"); conferido por amostra nas 5 mais baixas, sem perda no texto da norma. Por esse defeito o pypdf deixou de ser o extrator.
+- Diagramas: 10 normas trazem o texto das caixas em blocos "> [Diagrama]", sem o desenho.
+- Notas de rodapé: 40 normas, com âncora `[n]` no texto e a seção final "Notas de rodapé".
+- OCR (Vision, macOS) nos 8 ofícios sem camada de texto (PDF escaneado ou fonte Type3): confiança média de 0,86 (SMI 02/23, tabela de tickers e ISINs) a 0,996; aceito com confiança média ≥ 0,85. Erros pontuais de leitura são esperados e estão avisados no `incerteza`.
+- Ligaduras ("ﬁ") e espaços especiais dos PDFs normalizados (Unicode NFKC, preservando º e ª).
 - Parecer de Orientação 34: o DOC da CVM é um RTF com a página escaneada como imagem; o texto veio do PDF.
-- Leis: os rótulos de margem do Planalto ("(Vigência)", "Produção de efeito", "Vigência encerrada") saem do texto e do gabarito do teste; cada lei afetada diz isso no `incerteza`. Resíduo: 5 ocorrências no art. 136-A da Lei 6.404, coladas à nota "(Incluído pela Lei nº 13.129, de 2015)".
+- Leis: os rótulos de margem do Planalto ("(Vigência)", "Produção de efeito", "Vigência encerrada") saem do texto e do gabarito do teste; cada lei afetada diz isso no `incerteza`.

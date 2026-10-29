@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/old-sse-sin-snc/anexos/oc-snc-sse-sin-0125.pdf
 sha256_fonte: e559c34fa5ad0db2f598654abc471d2a143237347cba5b58d529c308f6748378
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -40,17 +42,11 @@ Ofício-Circular nº 1/2025/CVM/SNC/SSE/SIN
 
 Rio de Janeiro, 23 de janeiro de 2025.
 
-ASSUNTO:
-
-Orientações gerais sobre a elaboração das demonstrações
+ASSUNTO: Orientações gerais sobre a elaboração das demonstrações
 
 contábeis dos fundos de investimento e das classes de cotas, em relação à
 
-vigência da Resolução CVM n
-
-º
-
-175/22.
+vigência da Resolução CVM nº 175/22.
 
 Senhor Administrador de Fundo de Investimento, Gestor e Auditor
 
@@ -96,47 +92,23 @@ Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 1
 
 serviços de auditoria. O art. 66 estabelece que o fundo de investimento e suas
 
-classes de cotas
-
-devem ter escrituração contábil próprias
-
-, devendo haver
+classes de cotas devem ter escrituração contábil próprias, devendo haver
 
 segregação das contas e das demonstrações contábeis; o parágrafo 1º do art. 67
 
-estabelece que as demonstrações contábeis dos
+estabelece que as demonstrações contábeis dos fundos, que contam com diferentes
 
-fundos
+classes de cotas, são compostas, no mínimo, pelo balanço patrimonial,
 
-,
-
-que contam com diferentes
-
-classes de cotas
-
-, são compostas, no mínimo, pelo
-
-balanço patrimonial,
-
-demonstração do resultado do exercício e pela demonstração do ﬂuxo de caixa
-
-,
+demonstração do resultado do exercício e pela demonstração do fluxo de caixa,
 
 inexistindo obrigação de elaborar demonstrações consolidadas; o art. 68 determina
 
-que a elaboração e a divulgação das demonstrações contábeis
+que a elaboração e a divulgação das demonstrações contábeis devem observar as
 
-devem observar as
+regras específicas editadas pela CVM, conforme cada categoria de fundo de
 
-regras especíﬁcas editadas pela CVM
-
-,
-
-conforme cada categoria de fundo de
-
-investimento
-
-; e o art. 69 determina que as demonstrações contábeis dos fundos de
+investimento; e o art. 69 determina que as demonstrações contábeis dos fundos de
 
 investimento e de suas classes de cotas devem ser auditadas por auditor
 
@@ -146,13 +118,9 @@ independente registrado na CVM.
 
 da Associação Brasileira das Entidades do Mercado Financeiro e de Capitais
 
-(ANBIMA), na qual constam dúvidas adicionais e especíﬁcas sobre questões
+(ANBIMA), na qual constam dúvidas adicionais e específicas sobre questões
 
-contábeis relacionadas aos critérios trazidos pela Resolução CVM 175
-
-vis-à-vis
-
-as
+contábeis relacionadas aos critérios trazidos pela Resolução CVM 175 vis-à-vis as
 
 normas contábeis atualmente vigentes para os fundos de investimento. É importante
 
@@ -172,23 +140,21 @@ dúvidas elencadas, optou-se por se reproduzir aqui tais questões, de forma a d
 
 tratamento direcionado.
 
-A regra g
-
-eral da RCVM 175 dispõe, em seu Art. 67, sobre as demonstrações
+A regra geral da RCVM 175 dispõe, em seu Art. 67, sobre as demonstrações
 
 contábeis dos fundos que possuem diferentes classes. Considerando o
 
 exposto na regra, existe a indicação de uma nova obrigação na
 
-apresentação das demonstrações ﬁnanceiras dos fundos, que é o ﬂuxo de
+apresentação das demonstrações financeiras dos fundos, que é o fluxo de
 
 caixa. Sobre este tema, entendemos que será possível manter o atual
 
-modelo de demonstração ﬁnanceira, conforme disposto na ICVM 577
+modelo de demonstração financeira, conforme disposto na ICVM 577
 
 (COFI), até que nova norma seja editada com o modelo do demonstrativo
 
-de ﬂuxo de caixa exigido. Este entendimento está correto? Ainda,
+de fluxo de caixa exigido. Este entendimento está correto? Ainda,
 
 entendemos que tal obrigatoriedade é válida somente para os fundos que
 
@@ -204,23 +170,23 @@ com o advento da Resolução CVM 175, haverá a migração dessa regulação con
 
 para as diferentes classes de cotas existentes no fundo, em função delas contarem
 
-com patrimônio segregado, sendo, portanto, entidades de reporte para ﬁns de
+com patrimônio segregado, sendo, portanto, entidades de reporte para fins de
 
 aplicação das respectivas Instruções. Ou seja, nos fundos com diferentes classes de
 
-cotas, cada classe de cota será uma entidade de reporte, para ﬁns de aplicação das
+cotas, cada classe de cota será uma entidade de reporte, para fins de aplicação das
 
 normas de referência, incluindo elaboração e divulgação de demonstrações
 
-ﬁnanceiras especíﬁcas para cada classe. Isso também deve ser adotado para os
+financeiras específicas para cada classe. Isso também deve ser adotado para os
 
-fundos com classe única, que, por não terem classes distintas, ﬁcam circunscritos a
+fundos com classe única, que, por não terem classes distintas, ficam circunscritos a
 
 elaboração de um conjunto único de demonstrativos contábeis, como atualmente é
 
 feito.
 
-8. Em relação à aplicação dos critérios da ICVM 577, especiﬁcamente sobre o item
+8. Em relação à aplicação dos critérios da ICVM 577, especificamente sobre o item
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 2
 
@@ -228,7 +194,7 @@ Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 2
 
 serem elaborados e apresentados, quais sejam, o Demonstrativo da Composição e
 
-Diversiﬁcação da Carteira (Documento nº 3), Demonstração da Evolução do
+Diversificação da Carteira (Documento nº 3), Demonstração da Evolução do
 
 Patrimônio Líquido (Documento nº 4) e notas explicativas, entende-se que esse
 
@@ -236,7 +202,9 @@ conjunto de demonstrativos contábeis deverão ser apresentados pelas diferentes
 
 classes de cotas de um fundo, assim como pelo fundo com uma única classe. Em
 
-relação ao conjunto de demonstrações contábeis do fundo “casca”, que possua
+relação ao conjunto de demonstrações contábeis do fundo “casca”
+
+, que possua
 
 diferentes classes de cotas, este deverá seguir, quando aplicável, o que determina o
 
@@ -244,39 +212,35 @@ diferentes classes de cotas, este deverá seguir, quando aplicável, o que deter
 
 fundos do Anexo Normativo II, III e IV, cujas classes de cotas seguirão,
 
-respectivamente, as Instruções CVM 489, 516 e 579, ﬁcando a apresentação das
+respectivamente, as Instruções CVM 489, 516 e 579, ficando a apresentação das
 
 demonstrações contábeis dos fundos “casca” restritas ao que dispõe o §1º do art. 67
 
 da RCVM 175.
 
-Considerando a inclusão do ﬂuxo de caixa nas demonstrações ﬁnanceiras,
+Considerando a inclusão do fluxo de caixa nas demonstrações financeiras,
 
 entendemos que será possível manter o atual modelo de DF, conforme
 
 disposto nas atuais regras contábeis, incluindo apenas o demonstrativo de
 
-ﬂuxo de caixa. Esse entendimento está correto ou a CVM disponibilizará
+fluxo de caixa. Esse entendimento está correto ou a CVM disponibilizará
 
 novos modelos?
 
-9. Para ﬁns dos fundos (assim como suas diferentes classes de cotas) regidos pelas
+9. Para fins dos fundos (assim como suas diferentes classes de cotas) regidos pelas
 
 Instruções CVM 489, 516, 579, pelo fato dessas Instruções já preverem a elaboração
 
-e divulgação da Demonstração de Fluxo de Caixa, ﬁcam mantidos os critérios das
+e divulgação da Demonstração de Fluxo de Caixa, ficam mantidos os critérios das
 
 respectivas Instruções atualmente adotados, devendo ser aplicados às diferentes
 
 classes de cotas, além dos fundos, na vigência da Resolução CVM 175. No caso dos
 
-fundos (e suas diferentes classes de cotas) regidos pela ICVM 577,
+fundos (e suas diferentes classes de cotas) regidos pela ICVM 577, verificar
 
-verificar
-
-resposta no item 8
-
-.
+resposta no item 8.
 
 O relatório de audiência pública da AP 08/20 apresenta, em seu item 3.8,
 
@@ -284,17 +248,13 @@ maiores detalhes sobre as demonstrações contábeis considerando a nova
 
 regra e a nova estrutura dos fundos. Considerando o disposto no referido
 
-relatório, entendemos que a inclusão do ﬂuxo de caixa deverá ocorrer
+relatório, entendemos que a inclusão do fluxo de caixa deverá ocorrer
 
 apenas para os fundos que tiverem seus exercícios iniciados a partir de
 
 01/10/2024. Este entendimento está correto?
 
-10.
-
-O atual parágrafo 2
-
-º do art. 140 da Resolução CVM 175 determina que a
+10. O atual parágrafo 2º do art. 140 da Resolução CVM 175 determina que a
 
 aplicação do art. 5º da resolução (possibilidade de os fundos possuírem diferentes
 
@@ -304,11 +264,7 @@ aplicação do parágrafo 1º do art. 67 da Resolução CVM 175 deve ser observa
 
 os fundos com diferentes classes de cotas que venham a ser constituídos ou
 
-adaptados a partir de 1º de outubro de 2024,
-
-observada a resposta no item 8
-
-.
+adaptados a partir de 1º de outubro de 2024, observada a resposta no item 8.
 
 Qual a estrutura mínima esperada para apresentação das demonstrações
 
@@ -328,15 +284,11 @@ normativos.
 
 devem ser observados os critérios atuais existentes nas normas contábeis
 
-especíﬁcas, levando-se em consideração a materialidade dos eventos a serem
+específicas, levando-se em consideração a materialidade dos eventos a serem
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 3
 
-tratados,
-
-observando-se a resposta no item 8
-
-.
+tratados, observando-se a resposta no item 8.
 
 Conforme disposto no Ofício Circular CVM/SIN/SSE 01/23, pergunta 25, os
 
@@ -344,7 +296,7 @@ pagamentos das taxas podem ser feitos diretamente pelas classes ou
 
 subclasses dos fundos. Não transitando nenhum recurso pela conta do
 
-fundo, incluindo a taxa de ﬁscalização da CVM, haveria necessidade de
+fundo, incluindo a taxa de fiscalização da CVM, haveria necessidade de
 
 elaboração de demonstrações financeiras e auditoria do fundo casca?
 
@@ -356,17 +308,13 @@ Nos casos em que o regulamento do fundo de investimento previr
 
 diferentes classes de cotas, com direitos e obrigações distintos e patrimônio
 
-segregado para cada classe, nos termos do
+segregado para cada classe, nos termos do inciso III do caput do art. 1.368-D da
 
-inciso III do caput do art. 1.368-D da
-
-Lei nº 10.406, de 10 de janeiro de 2002
-
-(Código Civil), observada a
+Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), observada a
 
 regulamentação da Comissão de Valores Mobiliários, cada classe de cotas será
 
-considerada como um fundo de investimento para ﬁns de aplicação das regras
+considerada como um fundo de investimento para fins de aplicação das regras
 
 de tributação previstas na legislação.
 
@@ -374,17 +322,17 @@ de tributação previstas na legislação.
 
 fundos de investimento, no que se refere a aplicação das regras de tributação
 
-previstas na legislação, signiﬁcando que, para ﬁns de apuração e pagamento do
+previstas na legislação, significando que, para fins de apuração e pagamento do
 
 referido tributo, cada classe de cotas será tratada como um fundo de investimento.
 
-Assim, o pagamento da taxa de ﬁscalização deverá ser realizado por cada classe de
+Assim, o pagamento da taxa de fiscalização deverá ser realizado por cada classe de
 
 cotas separadamente, de acordo com seu patrimônio líquido.
 
 14. Respeitados os procedimentos estabelecidos nas normas contábeis aplicáveis,
 
-em especíﬁco o princípio da entidade, assim como o previsto no inciso III, do art.
+em específico o princípio da entidade, assim como o previsto no inciso III, do art.
 
 1368-D da Lei 10.406/02, para as classes de cotas, se não houver o trânsito de
 
@@ -392,7 +340,7 @@ recursos pelo fundo e não havendo a existência de nenhum ativo, passivo ou
 
 resultado a ele atribuído, entendemos não fazer sentido a apresentação de
 
-demonstrações ﬁnanceiras do fundo, mesmo porque, nessa situação, não haverá
+demonstrações financeiras do fundo, mesmo porque, nessa situação, não haverá
 
 nenhum valor a ser apresentado.
 
@@ -420,35 +368,39 @@ Nesse sentido, entendemos que o processo de elaboração das
 
 Demonstrações Contábeis, bem como revisão e auditoria, ocorre de forma
 
-segregada e independente (exemplo: caso a demonstração ﬁnanceira de
+segregada e independente (exemplo: caso a demonstração financeira de
 
-uma classe especíﬁca sofra algum tipo de ressalva ou abstenção de
+uma classe específica sofra algum tipo de ressalva ou abstenção de
 
 opinião entendemos que tal parecer não afetaria a demonstração
 
-ﬁnanceira das demais classes). Este entendimento está correto? Ou seja, é
+financeira das demais classes). Este entendimento está correto? Ou seja, é
 
-correto aﬁrmar que a auditoria de uma classe não impede ou beneﬁcia o
+correto afirmar que a auditoria de uma classe não impede ou beneficia o
 
 andamento do processo de auditoria de outra classe, bem como o processo
 
 de auditoria do próprio fundo (se necessário)?
 
-16. Conforme §2º do art. 5º da parte geral da Res. 175, “cada patrimônio segregado
+16. Conforme §2º do art. 5º da parte geral da Res. 175,
 
-responde somente por obrigações referentes à respectiva classe de cotas”. O
+“cada patrimônio segregado
+
+responde somente por obrigações referentes à respectiva classe de cotas”
+
+. O
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 4
 
-processo de elaboração, revisão e auditoria das demonstrações ﬁnanceiras deve
+processo de elaboração, revisão e auditoria das demonstrações financeiras deve
 
 ocorrer de forma segregada e independente nas classes de um mesmo fundo, assim
 
 como no próprio fundo que tiver mais de uma classe, quando aplicável. A princípio,
 
-uma opinião modiﬁcada do auditor sobre as demonstrações contábeis de uma classe
+uma opinião modificada do auditor sobre as demonstrações contábeis de uma classe
 
-não deveria inﬂuenciar a opinião sobre as demonstrações das demais classes do
+não deveria influenciar a opinião sobre as demonstrações das demais classes do
 
 mesmo fundo ou sobre a do fundo, exceto, por exemplo, na situação de falhas no
 
@@ -488,7 +440,7 @@ Como funcionará a comparabilidade entre exercícios sociais nas
 
 demonstrações financeiras a partir da entrada em vigor da RCVM 175?
 
-18. Considerando que os critérios contábeis requeridos pelas Instruções especíﬁcas
+18. Considerando que os critérios contábeis requeridos pelas Instruções específicas
 
 não foram alterados, não há que se falar em dispensa na apresentação de
 
@@ -510,17 +462,19 @@ O Art. 121 da regra geral da RCVM 175 prevê que nos casos de eventos
 
 societários deverão ser enviadas uma série de documentos à CVM “por
 
-meio de sistema disponível na rede mundial de computadores”. Para os
+meio de sistema disponível na rede mundial de computadores”
+
+. Para os
 
 FIPs e FIFs, ainda não existe campo para inclusão destas demonstrações
 
-ﬁnanceiras especíﬁcas – para os FIFs, existe apenas a recente criação da
+financeiras específicas – para os FIFs, existe apenas a recente criação da
 
-possibilidade de upload da demonstração ﬁnanceira de encerramento. Há
+possibilidade de upload da demonstração financeira de encerramento. Há
 
 expectativa de liberação dessas funcionalidades para upload de
 
-demonstrações ﬁnanceiras de todos os eventos para todos os tipos de
+demonstrações financeiras de todos os eventos para todos os tipos de
 
 Fundos?
 
@@ -538,15 +492,11 @@ de classes que possuam uma subclasse, daquele de classes que possuem
 
 mais de uma subclasse (ex.: informações sobre taxas, entre outros)?
 
-20. Não há que se falar em posição patrimonial e ﬁnanceira de subclasses, pois a
+20. Não há que se falar em posição patrimonial e financeira de subclasses, pois a
 
 regulação adotou como conceito da estrutura das subclasses um arranjo interno
 
-adotado para a
-
-segregação dos cotistas de uma dada classe
-
-, e assim, não havendo
+adotado para a segregação dos cotistas de uma dada classe , e assim, não havendo
 
 segregação de patrimônio ao nível da subclasse.
 
@@ -562,7 +512,9 @@ iniciados em 10/2024 ou para os prazos de envio a partir de 10/2024?
 
 patrimônio segregado, não faz sentido a referida demonstração ser apresentada
 
-para o fundo “casca”, considerando que o parágrafo 1º do Art. 67 da RCVM 175 não
+para o fundo “casca”
+
+, considerando que o parágrafo 1º do Art. 67 da RCVM 175 não
 
 exige a obrigação de elaboração de demonstrações consolidadas. Como respondido
 
@@ -590,11 +542,7 @@ um novo layout para o atual CADOC 4010 por parte da CVM? Se sim, a
 
 partir de qual mês de competência será exigido?
 
-23. Não há previsão para a alteração do
-
-layout
-
-no referido documento. O atual
+23. Não há previsão para a alteração do layout no referido documento. O atual
 
 padrão deve ser adotado como referência para a prestação das informações
 
@@ -616,49 +564,31 @@ realizados por força da adaptação à nova norma. Este entendimento está
 
 correto?
 
-24. Nos casos de adaptação da atual estrutura
-
-master/feeder
-
-para a estrutura
+24. Nos casos de adaptação da atual estrutura master/feeder para a estrutura
 
 classes/subclasses, onde o fundo master será convertido em classe e os fundos
 
-feeders
+feeders serão as subclasses dessa classe, entendemos que não haverá a
 
-serão as subclasses dessa classe, entendemos que não haverá a
-
-incorporação de patrimônio líquido/uniﬁcação de cotistas, mas simplesmente a
+incorporação de patrimônio líquido/unificação de cotistas, mas simplesmente a
 
 conversão dele em classe, não sendo necessário, a nosso ver, a realização de
 
-auditoria nesse procedimento. Nessa situação especíﬁca, o fundo
+auditoria nesse procedimento. Nessa situação específica, o fundo master (que
 
-master
-
-(que
-
-passará a ser classe) deverá continuar a apresentar demonstrações ﬁnanceiras
+passará a ser classe) deverá continuar a apresentar demonstrações financeiras
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 6
 
 comparativas, considerando a data de conversão da estrutura. Em relação aos
 
-fundos
+fundos feeders (que passarão a ser subclasses da classe), pelo fato de as subclasses
 
-feeders
+não possuírem segregação patrimonial e não serem entidades de reporte para fins
 
-(que passarão a ser subclasses da classe), pelo fato de as subclasses
+da aplicação das normas contábeis, entendemos que as demonstrações financeiras
 
-não possuírem segregação patrimonial e não serem entidades de reporte para ﬁns
-
-da aplicação das normas contábeis, entendemos que as demonstrações ﬁnanceiras
-
-dos fundos
-
-feeders
-
-deixarão de ser apresentadas a partir da data de conversão da
+dos fundos feeders deixarão de ser apresentadas a partir da data de conversão da
 
 estrutura. Um exemplo desta possibilidade seria um fundo master com quatro
 
@@ -670,15 +600,11 @@ vinculadas.
 
 contábil de encerramento para os Fundos cujos CNPJs serão cancelados, desde que
 
-sejam incluídas em nota explicativa especíﬁca informações úteis e suﬁcientes para
+sejam incluídas em nota explicativa específica informações úteis e suficientes para
 
 que o investidor consiga entender, de forma clara, o processo de migração ocorrido,
 
-seja ela de fundo master para classe de cotas ou fundo
-
-feeder
-
-para subclasse.
+seja ela de fundo master para classe de cotas ou fundo feeder para subclasse.
 
 26. No entanto, é bom ressaltar, na ocorrência de qualquer evento de incorporação
 
@@ -686,15 +612,9 @@ ou cisão de patrimônios, seja ele em função da adaptação à RCVM 175 ou n�
 
 necessária a realização de auditoria, conforme parametrizado na ICVM 577. Um
 
-exemplo desta possibilidade seria dois fundos
+exemplo desta possibilidade seria dois fundos feeders que se transformam em uma
 
-feeders
-
-que se transformam em uma
-
-só subclasse vinculado a um mesmo master ou a incorporação de dois
-
-feeders
+só subclasse vinculado a um mesmo master ou a incorporação de dois feeders
 
 vinculados a dois masters diferentes.
 
@@ -714,7 +634,7 @@ vigência, conforme já mencionado anteriormente, se dará de acordo com o
 
 parágrafo 2º do art. 140 da RCVM 175 (1º de outubro de 2024). Assim, a elaboração
 
-das demonstrações contábeis para reﬂetir essa nova estrutura deverá ser observada
+das demonstrações contábeis para refletir essa nova estrutura deverá ser observada
 
 a partir da vigência do parágrafo 2º do art. 140 da RCVM 175.
 
@@ -754,17 +674,9 @@ objeto de cisão, incorporação, fusão, transferência de administração ou
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 7
 
-transformação de categoria,
+transformação de categoria, levantadas na data da operação, devem ser auditadas,
 
-levantadas na data da operação
-
-, devem ser auditadas,
-
-no prazo máximo de 90 dias,
-
-contado da data da efetivação do evento
-
-. Já o art. 121
+no prazo máximo de 90 dias, contado da data da efetivação do evento. Já o art. 121
 
 determina que essas demonstrações contábeis auditadas devem ser encaminhadas
 
@@ -780,7 +692,7 @@ dos eventos mencionados, as demonstrações contábeis devem ser auditadas em at
 
 Considerando o disposto na pergunta 10 do Ofício Circular CVM/SIN/SSE
 
-01/23, gostaríamos de conﬁrmar: como se dará o funcionamento da
+01/23, gostaríamos de confirmar: como se dará o funcionamento da
 
 contabilização do envio do dinheiro/ recurso da classe para o pagamento
 
@@ -798,11 +710,7 @@ necessariamente a uma classe de cotas, o registro da despesa se dará no
 
 patrimônio correspondente a essa classe de cotas ao qual a subclasse está
 
-vinculada (
-
-como encargo específico da subclasse
-
-).
+vinculada (como encargo específico da subclasse).
 
 Atualmente, na ICVM 577, temos o disposto abaixo. Considerando que a
 
@@ -824,9 +732,7 @@ Função: Registrar o valor das cotas emitidas, resgatadas e em circulação
 
 do fundo.
 
-32.
-
-A classe de cotas é um patrimônio segregado e como estamos tratando de
+32. A classe de cotas é um patrimônio segregado e como estamos tratando de
 
 emissões de “cotas” dentro desse patrimônio, o controle deve ser efetuado no nível
 
@@ -834,7 +740,7 @@ dessas classes de cotas.
 
 Ainda sobre as notas explicativas das classes, deverão ser detalhadas as
 
-despesas especíﬁcas de cada subclasse? E na nota de transações com
+despesas específicas de cada subclasse? E na nota de transações com
 
 partes relacionadas, que nível de detalhes poderá ser exigido das taxas
 
@@ -848,15 +754,13 @@ explicativas, ver item 17.
 
 adotou como conceito da estrutura das subclasses um arranjo interno adotado para
 
-a
-
-segregação dos cotistas de uma dada classe
-
-, e assim, não havendo segregação de
+a segregação dos cotistas de uma dada classe , e assim, não havendo segregação de
 
 patrimônio ao nível da subclasse. Portanto, não faz sentido considerar as subclasses
 
-como “transações com partes relacionadas”, pois as subclasses são parte integrante
+como “transações com partes relacionadas”
+
+, pois as subclasses são parte integrante
 
 das classes de cotas as quais se referem.
 
@@ -888,7 +792,7 @@ considerado, portanto, dentro do conceito de prestador de serviço. Além disso,
 
 informações que o auditor externo obtém, no âmbito da execução de seu trabalho,
 
-estão cobertas pelo sigilo proﬁssional do auditor, conforme normas proﬁssionais
+estão cobertas pelo sigilo profissional do auditor, conforme normas profissionais
 
 aplicáveis.
 
@@ -898,7 +802,7 @@ fundo objeto de auditoria e do fundo investido, há uma lógica nesse procedimen
 
 para garantir que a informação reportada no fundo investidor não esteja defasada e,
 
-dessa forma, represente adequadamente a posição ﬁnanceira do fundo naquela
+dessa forma, represente adequadamente a posição financeira do fundo naquela
 
 data de reporte. Nesse sentido, essa questão deve ser levada em consideração
 
@@ -912,7 +816,7 @@ diferente da data-base do fundo investidor não enseja, por si só, motivo de re
 
 O auditor pode obter evidências de auditoria complementares sobre o período
 
-posterior às últimas demonstrações ﬁnanceiras auditadas do fundo investido,
+posterior às últimas demonstrações financeiras auditadas do fundo investido,
 
 adicionalmente aos demais procedimentos de auditoria requeridos. Essas evidências
 
@@ -922,17 +826,13 @@ responsável pela adequada elaboração das demonstrações contábeis,
 
 contando com a devida participação ativa dos gestores dos fundos
 
-envolvidos
-
-. Ou seja, para reportar corretamente o valor dos investimentos em
+envolvidos. Ou seja, para reportar corretamente o valor dos investimentos em
 
 fundos, o Administrador deve obter o conforto necessário sobre o patrimônio líquido
 
 dos fundos investidos e, assim, prover o auditor com as informações necessárias
 
-para que este possa formar a sua opinião.
-
-Entendemos que manter atualizados
+para que este possa formar a sua opinião. Entendemos que manter atualizados
 
 e em perfeita ordem os registros contábeis referentes às operações e ao
 
@@ -942,11 +842,9 @@ Administrador (art. 104 da parte geral da RCVM 175) e que uma ressalva
 
 ou abstenção na opinião de auditoria em relação às demonstrações
 
-ﬁnanceiras do fundo pode indicar uma falha grave do Administrador em
+financeiras do fundo pode indicar uma falha grave do Administrador em
 
-relação a tal dever
-
-.
+relação a tal dever.
 
 Como irá funcionar o rodízio de Auditores Independentes entre as classes
 
@@ -962,7 +860,7 @@ rotação desse prestador de serviços?
 
 estipulado na RCVM 23/21. Poderá ser contratado um único auditor para todas as
 
-classes ou auditores diferentes, a depender da deﬁnição da instituição
+classes ou auditores diferentes, a depender da definição da instituição
 
 administradora.
 
@@ -980,11 +878,7 @@ investimento deve ser encerrado a cada 12 (doze) meses, quando devem ser
 
 levantadas as demonstrações contábeis do fundo e, se houver, de suas classes de
 
-cotas,
-
-todas relativas ao mesmo período ﬁndo
-
-” (grifos nossos). Dessa forma, com
+cotas, todas relativas ao mesmo período findo” (grifos nossos). Dessa forma, com
 
 base na atual redação do art. 67, entendemos que o exercício social de todas as
 
@@ -1010,7 +904,7 @@ direcionar os procedimentos contábeis aplicáveis às IFRS. Não faz sentido, d
 
 de vista da regulação, continuar havendo segmentação de normas por produto,
 
-considerando que um ativo ﬁnanceiro, por exemplo, deve ser reconhecido e
+considerando que um ativo financeiro, por exemplo, deve ser reconhecido e
 
 mensurado seguindo os requerimentos da IFRS 9, independente do fundo em que
 
@@ -1034,7 +928,7 @@ econômicos que as impactem. Esses critérios são os mesmos, sejam aplicados ao
 
 fundos ou às classes de cotas. A apresentação de demonstrações contábeis para
 
-essas classes de cotas também deve seguir o que estiver deﬁnido nas normas
+essas classes de cotas também deve seguir o que estiver definido nas normas
 
 contábeis aplicáveis, enquanto não alteradas (ICVM 489, 516, 577 e 579).
 
@@ -1052,13 +946,13 @@ quanto forem os eventos econômicos a serem reportados ou até inexistente.
 
 43. Em relação ao elenco de contas disponível da ICVM 577 para os fundos de
 
-investimento ﬁnanceiro (incluindo-se as diferentes classes de cotas), pode-se
+investimento financeiro (incluindo-se as diferentes classes de cotas), pode-se
 
 realizar abertura de subcontas internas nas atuais contas contábeis para o registro e
 
 controle necessário. Um exemplo, é o caso de classes de cotas com subclasses,
 
-cujos encargos deverão ser segregados e registrados nas subclasses especíﬁcas,
+cujos encargos deverão ser segregados e registrados nas subclasses específicas,
 
 para a correta apuração da movimentação do PL, do valor da cota de cada subclasse
 
@@ -1086,78 +980,44 @@ Superintendente de Supervisão de
 
 Investidores Institucionais
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Osvaldo Zanetti Favero Junior,
 
-Osvaldo Zanetti Favero Junior
-
-,
-
-Superintendente Substituto
-
-, em 23/01/2025, às 09:48, com fundamento
+Superintendente Substituto, em 23/01/2025, às 09:48, com fundamento
 
 no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Marco Antonio Velloso de
 
-Marco Antonio Velloso de
-
-Sousa
-
-,
-
-Superintendente
-
-, em 23/01/2025, às 10:25, com fundamento no art.
+Sousa, Superintendente, em 23/01/2025, às 10:25, com fundamento no art.
 
 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Bruno de Freitas Gomes
 
-Bruno de Freitas Gomes
-
-Condeixa Rodrigues
-
-,
-
-Superintendente
-
-, em 23/01/2025, às 10:47, com
+Condeixa Rodrigues, Superintendente, em 23/01/2025, às 10:47, com
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2245301
+autenticidade, informando o código verificador
 
-e o código CRC
-
-81C2A298
-
-.
+2245301 e o código CRC 81C2A298.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2245301
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2245301 and the "Código CRC" 81C2A298.
 
-81C2A298
-
-.
-
-Referência:
-
-Processo nº 19957.008288/2024-75
-
-Documento SEI nº 2245301
+Referência: Processo nº 19957.008288/2024-75 Documento SEI nº 2245301
 
 Ofício-Circular 1 (2245301) SEI 19957.008288/2024-75 / pg. 11

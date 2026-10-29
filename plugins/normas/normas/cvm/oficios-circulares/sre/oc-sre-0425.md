@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0425.pdf
 sha256_fonte: 31a8c11e88f5be85b563c079281187cf2639958664c264eaee519cc275fcc9cb
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -214,7 +214,9 @@ requerimento do registro, para que o sistema possa autorizar a edição da quant
 
 19. Vale lembrar que é possível salvar as informações em preenchimento no Formulário Eletrônico de Requerimento da Oferta (botão na cor verde
 
-"Salvar" - canto inferior direito) para posterior envio em definitivo para a CVM. Uma vez preenchidas todas as informações e documentos cabíveis, o envio à
+"Salvar"
+
+- canto inferior direito) para posterior envio em definitivo para a CVM. Uma vez preenchidas todas as informações e documentos cabíveis, o envio à
 
 SRE ocorre na ação/botão na cor azul "Enviar requerimento" - canto inferior direito. Destaque-se ainda que ao "Salvar", o requerimento fica em formato de
 
@@ -224,19 +226,19 @@ junto algumas informações adicionais, como o Status. (Conforme imagem abaixo).
 
 B. Abertura de Requerimento (Em Preenchimento)
 
-20. Para um novo Requerimento, deve-se utilizar a opção "Abertura de Requerimento" (conforme destacado na imagem abaixo), no canto superior
+20. direito.
 
-direito.
+Para um novo Requerimento, deve-se utilizar a opção "Abertura de Requerimento" (conforme destacado na imagem abaixo), no canto superior
 
 21. Nesta etapa, o Intermediário preencherá todas as informações/documentos solicitados, sendo certo que a "Instituição Intermediária" é o
 
 Intermediário, o "Emissor" é a companhia objeto, e o "Valor Mobiliário" será sempre "Ações":
 
-22. Ao selecionar o "Tipo de Requerimento" e o "Valor Mobiliário", uma seção é aberta com as abas para o devido preenchimento. Inicialmente, o
+22. 23. Ao selecionar o "Tipo de Requerimento" e o "Valor Mobiliário", uma seção é aberta com as abas para o devido preenchimento. Inicialmente, o
 
 "Status" permanecerá "Em preenchimento", até o envio do requerimento.
 
-23. Deve-se, então, escolher a(s) "Modalidade(s)". Haverá opções diferentes entre os ritos Ordinário e Automático, conforme o Tipo de Requerimento
+Deve-se, então, escolher a(s) "Modalidade(s)". Haverá opções diferentes entre os ritos Ordinário e Automático, conforme o Tipo de Requerimento
 
 informado, nos termos do §11 deste ofício.
 
@@ -264,9 +266,9 @@ seguir o rito ordinário.
 
 modalidade acima. Informar ainda a OPA com que concorre, com preenchimento em texto livre.
 
-24. Após o preenchimento da "Modalidade", deve-se prosseguir com o preenchimento de todas as outras abas.
+24. 25. Após o preenchimento da "Modalidade", deve-se prosseguir com o preenchimento de todas as outras abas.
 
-25. Na aba "Ação Objeto", deve ser obrigatoriamente preenchida uma "Nova Ação Objeto", com preenchimento da espécie, classe (se for o caso),
+Na aba "Ação Objeto", deve ser obrigatoriamente preenchida uma "Nova Ação Objeto", com preenchimento da espécie, classe (se for o caso),
 
 quantidade e preço. Após o preenchimento destes 3 campos, deve-se selecionar o botão "+ Adicionar", para então preencher as "Características" de cada Ação
 
@@ -336,9 +338,9 @@ Requerimento", avançando de fase conforme a seguir.
 
 D. Abertura de Requerimento (Em Verificação de Protocolo)
 
-35. Uma vez enviado o Formulário Eletrônico de Requerimento da Oferta, segue-se a verificação do mesmo pela SRE, assumindo o status "Em
+35. Verificação de Protocolo", conforme tela a seguir:
 
-Verificação de Protocolo", conforme tela a seguir:
+Uma vez enviado o Formulário Eletrônico de Requerimento da Oferta, segue-se a verificação do mesmo pela SRE, assumindo o status "Em
 
 36. A partir dessa etapa, o Formulário Eletrônico de Requerimento da Oferta deixa de seguir com a numeração de rascunho e recebe um número de
 
@@ -490,7 +492,7 @@ imediata à CVM, via protocolo digital, da versão limpa e marcada do Instrument
 
 disponibilização do documento que é encaminhado pela entidade administradora do mercado organizado em que se processar o leilão da OPA, se for o caso.
 
-IV. Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
+IV . Dinâmica e regras para envio de documentos no Formulário Eletrônico de Requerimento da Oferta
 
 57. É importante que os usuários do Sistema SRE, ou seja, o participante que atuará como Intermediário da OPA, tenham amplo conhecimento sobre as
 
@@ -558,7 +560,7 @@ documento enviado em fase de atendimento e deseja apresentar a versão corrigida
 
 do Formulário Eletrônico de Requerimento da Oferta para a CVM (sem prejuízo de eventual recontagem de prazo de análise por parte da SRE).
 
-V. Modificação de oferta após o registro
+V . Modificação de oferta após o registro
 
 67. Caso seja necessário requerer uma modificação de oferta após a concessão do registro, tais requerimentos devem ser encaminhados à GER-1/SRE
 
@@ -586,12 +588,20 @@ Documento assinado eletronicamente por Luis Miguel Jacinto Mateus Rodrigues Sono
 
 fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador 2455557 e o código CRC
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, informando o código verificador 2455557 e o código CRC
 
 DA369AB3.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the "Código Verificador" 2455557 and the "Código CRC"
-
 DA369AB3.
+
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the "Código Verificador" 2455557 and the "Código CRC"
 
 Referência: Processo nº Ofícios-Circulares SRE 2025 Documento SEI nº 2455557

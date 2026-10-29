@@ -15,7 +15,7 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sep/anexos/oc-sep-0225.pdf
 sha256_fonte: b8071bf9d1608c9ea24956cd52c7aa8cacc6460c58a050529ff155372d44ba89
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
@@ -26,7 +26,9 @@ Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ –
 
 3554-8686
 
-Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
+Rua Cincinato Braga, 340/2º
+
+, 3º e 4º Andares, Bela Vista, São Paulo/ SP – CEP: 01333-010 – Brasil - Tel.: (11) 2146-
 
 2000
 
@@ -36,155 +38,69 @@ SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasíli
 
 www.cvm.gov.br
 
-Ofício Circular nº 2/2025-
+Ofício Circular nº 2/2025-CVM/SEP
 
-CVM/SEP
+Rio de Janeiro, 31 de março de 2025.
 
-Rio de Janeiro, 31
+Assunto: Aprimoramentos no Sistema Empresas.Net.
 
-d
+Senhor Diretor de Relações com Investidores/Representante Legal,
 
-e março de 2025.
-
-Assunto:
-
-A
-
-primoramentos no Sistema Empresas.Net
-
-.
-
-Senh
-
-or Diretor de R
-
-elações com Investidores/Representante Legal,
-
-1
-
-.
-
-O presente Ofício Circular tem como objetivo informar às companhias
+1. O presente Ofício Circular tem como objetivo informar às companhias
 
 abertas e estrangeiras registradas acerca de novos aprimoramentos implementados
 
-no Sistema Empresas.Net,
+no Sistema Empresas.Net, no último trimestre.
 
-no último trimestre
+a) No Formulário de Referência (FRE):
 
-.
-
-a
-
-)
-
-No
-
-Formulário de Referência (FRE):
-
-Quadro 8.15:
-
-“Remuneração
-
-mínima, média e máxima”
-
-:
+Quadro 8.15: “Remuneração mínima, média e máxima”:
 
 permitir a exportação e importação de arquivo excel.
 
-Quadro 12.3/7:
+Quadro 12.3/7: “Valores mobiliários emitidos no Brasil e no
 
-“Valores mobiliários emitidos no Brasil e no
+Exterior”
 
-Exterior” - inclusão da opção “Outros” no campo “Valor
+- inclusão da opção “Outros” no campo “Valor
 
-mobiliário”.
-
-b
-
-)
-
-No
-
-Formulário de
-
-Valores Mobiliários Negociados e Detidos
-
-:
-
-Inclusão de orientação no campo
-
-“Data de Operação”
+mobiliário”
 
 .
 
-Inclusão de orientação sobre as
+b)No Formulário de Valores Mobiliários Negociados e Detidos:
 
-reapresentações automáticas
+Inclusão de orientação no campo “Data de Operação”
 
-dos meses subsequentes
+.
 
-àquele cujas informações foram
+Inclusão de orientação sobre as reapresentações automáticas
+
+dos meses subsequentes àquele cujas informações foram
 
 alteradas.
 
-Ajuste na
+Ajuste na importação do excel, alterando de .csv para .xlsx.
 
-importação do excel
+c) No IPE Online:
 
-, alterando de .csv para .xlsx.
+Inclusão de orientações, no campo para upload do documento,
 
-c
+acerca das condições do arquivo a ser anexado (tamanho,
 
-)
-
-No
-
-IPE Online:
-
-Inclusão de
-
-orientações
-
-, no campo para upload do documento,
-
-acerca das condições do arquivo a ser anexado (
-
-tamanho,
-
-formato e nomeação do arquivo
-
-).
+formato e nomeação do arquivo).
 
 Retirada da exigência de UF no campo sobre divulgações em site.
 
-d
-
-)
-
-No
-
-a
-
-cesso ao Sistema (usuário e senha):
+d)No acesso ao Sistema (usuário e senha):
 
 Ofício-Circular 2 (2290983) SEI 19957.002924/2025-36 / pg. 1
 
-Inclusão de
-
-legenda e orientações
-
-sobre a redeﬁnição de
+Inclusão de legenda e orientações sobre a redefinição de
 
 senhas.
 
-2
-
-.
-
-Requeremos que a
-
-s informações contidas neste ofício sejam levadas ao
+2. Requeremos que as informações contidas neste ofício sejam levadas ao
 
 conhecimento das equipes responsáveis pelo envio de informações por meio do
 
@@ -192,41 +108,25 @@ Sistema Empresas.Net.
 
 Atendimento:
 
-3
+3. 4. Dúvidas referentes à utilização e funcionamento do Sistema
 
-.
-
-Dúvidas referentes à utilização e funcionamento do Sistema
-
-Empresas.Net, assim como o relato de problemas ou diﬁculdades no envio de
+Empresas.Net, assim como o relato de problemas ou dificuldades no envio de
 
 documentos, devem ser encaminhados para a Superintendência de Emissores da B3.
 
-4
-
-.
-
 O contato com a Superintendência de Emissores pode ser feito pelo
 
-telefone (11) 2565-5063 ou por e-mail:
-
-emissores.empresas@b3.com.br
-
-:
+telefone (11) 2565-5063 ou por e-mail: emissores.empresas@b3.com.br:
 
 a) Atendimento Normal: nos dias úteis, das 8h às 20h, pelo e-mail ou
 
 pelo telefone.
 
-b) Plantão de Atendimento: nos dias úteis, após às 20h ou em ﬁnais de
+b) Plantão de Atendimento: nos dias úteis, após às 20h ou em finais de
 
 semana e feriados, exclusivamente por meio do e-mail.
 
-5
-
-.
-
-As questões recebidas após às 20h dos dias úteis e em ﬁnais de semana
+5. As questões recebidas após às 20h dos dias úteis e em finais de semana
 
 e feriados serão tratadas após às 8h do dia útil seguinte, exceto as relacionadas à
 
@@ -240,50 +140,32 @@ FERNANDO SOARES VIEIRA
 
 Superintendente de Relações com Empresas
 
-Documento assinado eletronicamente por
+Documento assinado eletronicamente por Fernando Soares Vieira,
 
-Fernando Soares Vieira
-
-,
-
-Superintendente
-
-, em 31/03/2025, às 12:57, com fundamento no art. 6º do
+Superintendente, em 31/03/2025, às 12:57, com fundamento no art. 6º do
 
 Decreto nº 8.539, de 8 de outubro de 2015.
 
 A autenticidade do documento pode ser conferida no site
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, informando o código verificador
+_
 
-2290983
+autenticidade, informando o código verificador
 
-e o código CRC
-
-58BAFFF4
-
-.
+2290983 e o código CRC 58BAFFF4.
 
 This document's authenticity can be verified by accessing
 
-https://sei.cvm.gov.br/conferir_autenticidade
+https://sei.cvm.gov.br/conferir
 
-, and typing the "Código Verificador"
+_
 
-2290983
+autenticidade, and typing the "Código Verificador"
 
-and the "Código CRC"
+2290983 and the "Código CRC" 58BAFFF4.
 
-58BAFFF4
-
-.
-
-Referência:
-
-Processo nº 19957.002924/2025-36
-
-Documento SEI nº 2290983
+Referência: Processo nº 19957.002924/2025-36 Documento SEI nº 2290983
 
 Ofício-Circular 2 (2290983) SEI 19957.002924/2025-36 / pg. 2

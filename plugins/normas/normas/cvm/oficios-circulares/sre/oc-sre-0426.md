@@ -15,12 +15,12 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0426.pdf
 sha256_fonte: dd68981f31debfc3c5f63511eed2483274967f9350b6239df8918f891eb6500d
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -84,15 +84,13 @@ relacionamentos (requerimento x valor mobiliário), conforme a tabela a seguir:
 
 TIPO_REQUERIMENTO VALOR_MOBILIARIO
 
-OPD Aut Profissional - com bookbuilding
-
 Ações
+
+OPD Aut Profissional - com bookbuilding
 
 Certificado de depósito de ações (Unit)
 
 Debêntures Conversíveis
-
-OPD Aut Público em Geral ou Qualificado - com bookbuilding
 
 Ações
 
@@ -103,6 +101,8 @@ Certificados de Recebíveis Imobiliários
 Cotas de FIAGRO
 
 Cotas de FIDC
+
+OPD Aut Público em Geral ou Qualificado - com bookbuilding
 
 Cotas de FII
 
@@ -116,8 +116,6 @@ Notas Promissórias
 
 Outros títulos de securitização
 
-OPD Aut Público em Geral ou Qualificado - sem bookbuilding
-
 Certificados de Recebíveis Imobiliários
 
 Cotas de FIAGRO
@@ -125,6 +123,8 @@ Cotas de FIAGRO
 Cotas de FIDC
 
 Cotas de FII
+
+OPD Aut Público em Geral ou Qualificado - sem bookbuilding
 
 Cotas de Fundos de Infra
 
@@ -144,9 +144,9 @@ AR" na medida em que forem realizadas as adequações.
 
 Novos campos parametrizados
 
-7. Na aba "Informações da Oferta", serão criados os seguintes campos de preenchimento
+Na aba "Informações da Oferta", serão criados os seguintes campos de preenchimento
 
-obrigatório:
+7. obrigatório:
 
 A oferta conta com a análise prévia de entidade autorreguladora?
 
@@ -220,35 +220,35 @@ têm a identificação "- emissores não registrados".
 
 TIPO_REQUERIMENTO VALOR_MOBILIARIO
 
-OPD Aut Profissional - com bookbuilding - Emissor Não Registrado
-
 Cédula de Produto Rural Financeira
 
 Certificado de Direitos Creditórios do Agronegócio
 
 Debêntures
 
+OPD Aut Profissional - com bookbuilding - Emissor Não Registrado
+
 Notas Comerciais
 
 Notas Promissórias
 
 Outros títulos de securitização
-
-OPD Aut Profissional - sem bookbuilding - Emissor Não Registrado
 
 Cédula de Produto Rural Financeira
 
 Debêntures
 
+OPD Aut Profissional - sem bookbuilding - Emissor Não Registrado
+
 Notas Comerciais
 
 Notas Promissórias
 
 Outros títulos de securitização
 
-OPD Aut Qualificado - com bookbuilding - Emissor Não Registrado Debêntures
+OPD Aut Qualificado - com bookbuilding - Emissor Não Registrado OPD Aut Qualificado - sem bookbuilding - Emissor Não Registrado Debêntures
 
-OPD Aut Qualificado - sem bookbuilding - Emissor Não Registrado Debêntures
+Debêntures
 
 III. Contato de suporte
 
@@ -272,12 +272,20 @@ Superintendente, em 18/08/2026, às 11:37, com fundamento no art. 6º do Decreto
 
 de outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+_
 
 informando o código verificador 2635384 e o código CRC EC4EDB82.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
 
 typing the "Código Verificador" 2635384 and the "Código CRC" EC4EDB82.
+
+autenticidade,
+
+autenticidade, and
 
 Referência: Processo nº Ofícios-Circulares SRE 2026 Documento SEI nº 2635384

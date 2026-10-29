@@ -15,12 +15,14 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sse1/anexos/oc-sse-0225.pdf
 sha256_fonte: f6c3ce8d85e565abebea539561923208136be6a2574687aef87cd378840e105e
 baixado_em: 2026-10-28
-verificado_em: 2026-10-28
+verificado_em: 2026-10-29
 incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
 nivel_verificacao: pdf-extraido
 ---
 
-COMISSÃO DE VALORES MOBILIÁRIOS
+18/03/2025, 10:44 SEI/CVM - 2279462 - Ofício-Circular
+
+COMISSÃO DE V ALORES MOBILIÁRIOS
 
 Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – CEP: 20050-901 – Brasil - Tel.: (21) 3554-8686
 
@@ -56,7 +58,9 @@ II - não responde pessoalmente por qualquer obrigação legal ou contratual, re
 
 empreendimentos integrantes do fundo ou da administradora, salvo quanto à obrigação de pagamento do
 
-valor integral das quotas subscritas."
+valor integral das quotas subscritas.
+
+"
 
 RCVM 175
 
@@ -68,7 +72,9 @@ Parágrafo único. Caso o regulamento não limite a responsabilidade do cotista,
 
 eventual patrimônio líquido negativo, sem prejuízo da responsabilidade do prestador de serviço pelos
 
-prejuízos que causar quando proceder com dolo ou má-fé."
+prejuízos que causar quando proceder com dolo ou má-fé.
+
+"
 
 2. A alteração do Código Civil pela Lei 13.874/2019 com a inclusão dos arts. 1.368-A ao 1.368-F
 
@@ -96,9 +102,31 @@ Anexo Normativo III à RCVM 175.
 
 exclusivamente a aplicação em empreendimentos imobiliários, o referido artigo 40 do Anexo Normativo III
 
-18/03/2025, 10:44 SEI/CVM - 2279462 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2411755&infra_siste… 1/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2411755&infra
+
+siste... 1/2_
+
+_
+
+_
+
+18/03/2025, 10:44 SEI/CVM - 2279462 - Ofício-Circular
 
 regulamentou o conceito de empreendimentos imobiliários. Assim, esse conceito abarca, dentre outros, os
 
@@ -114,7 +142,9 @@ pela comunhão de recursos captados por meio do Sistema de Distribuição de Val
 
 forma da Lei nº 6.385, de 7 de dezembro de 1976, destinados a aplicação em empreendimentos
 
-imobiliários."
+imobiliários.
+
+"
 
 Anexo Normativo III à RCVM 175:
 
@@ -164,16 +194,46 @@ Superintendente, em 18/03/2025, às 10:43, com fundamento no art. 6º do Decreto
 
 outubro de 2015.
 
-A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir_autenticidade,
+A autenticidade do documento pode ser conferida no site https://sei.cvm.gov.br/conferir
+
+autenticidade,
+
+_
 
 informando o código verificador 2279462 e o código CRC 79E9C303.
 
-This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir_autenticidade, and typing the
+This document's authenticity can be verified by accessing https://sei.cvm.gov.br/conferir
+
+_
+
+autenticidade, and typing the
 
 "Código Verificador" 2279462 and the "Código CRC" 79E9C303.
 
 Referência: Processo nº 19957.009383/2021-43 Documento SEI nº 2279462
 
-18/03/2025, 10:44 SEI/CVM - 2279462 - Ofício-Circular
+https://sei.cvm.gov.br/sei/controlador.php?acao=documento
 
-https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=2411755&infra_siste… 2/2
+_
+
+imprimir
+
+web&acao
+
+_
+
+_
+
+origem=arvore
+
+visualizar&id
+
+documento=2411755&infra
+
+_
+
+_
+
+_
+
+siste... 2/2
