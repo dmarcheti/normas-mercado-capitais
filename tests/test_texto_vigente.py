@@ -1,6 +1,7 @@
 """Testes do texto vigente por script (Fase 2b). Sem rede, sem textutil e sem pypdf
 obrigatório: a conversão e a extração de PDF são substituídas onde dependem deles."""
 import os
+import shutil
 import sys
 import tempfile
 import unittest
@@ -12,6 +13,17 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 import texto_vigente as tv  # noqa: E402
 from validar import CAMPOS, ler_frontmatter  # noqa: E402
+from converter import docx_para_md  # noqa: E402
+
+
+def _textutil_falso(origem, formato, destino):
+    """No lugar do textutil (só macOS): a fixture .doc já é um DOCX."""
+    if formato == "docx":
+        shutil.copyfile(origem, destino)
+    else:
+        with open(destino, "w", encoding="utf-8") as f:
+            f.write(docx_para_md(origem))
+    return destino
 
 W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"'
 
@@ -236,6 +248,7 @@ class TestMontar(unittest.TestCase):
         self.assertEqual(rel["nivel_verificacao"], "consolidado-convertido")
         self.assertIn("## Art. 1º", corpo)
 
+    @mock.patch.object(tv, "_textutil", _textutil_falso)
     def test_frontmatter_instrucao_489_ato(self):
         md, _ = tv.montar(self.c1["cvm-instr-489"], self.docx, "ato", "doc", "https://x/inst489.doc")
         pares, v, _ = self._fm(md)
@@ -246,6 +259,7 @@ class TestMontar(unittest.TestCase):
         self.assertEqual(v["nivel_verificacao"], "ato-convertido")
         self.assertIn("[verificar] alterações de 502/11 e 576/16 não aplicadas", v["incerteza"])
 
+    @mock.patch.object(tv, "_textutil", _textutil_falso)
     def test_frontmatter_parecer_nao_informada(self):
         md, _ = tv.montar(self.c2["cvm-po-35"], self.docx, "ato", "doc", "https://x/pare035.doc")
         pares, v, _ = self._fm(md)
