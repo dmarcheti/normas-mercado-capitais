@@ -338,3 +338,115 @@ class TestRotulosDeVigencia(unittest.TestCase):
         self.assertNotIn("Produção de efeito", txt)
         self.assertNotIn("(Vigência)", txt)
         self.assertIn("Vigência da Lei", txt)
+
+
+class TestRotuloDeVigenciaComFonteDentroDoLink(unittest.TestCase):
+    """Lei 6.404, art. 136-A: o Planalto põe `<font>` dentro do link "(Vigência)"."""
+
+    HTML = ('<p>§ 1º A convenção somente terá eficácia após 30 dias. '
+            '<font size="2"><a href="../L13129.htm#art3">\r\n\t\t(Incluído pela Lei nº 13.129, de 2015)</a>'
+            '&nbsp;&nbsp;\r\n\t\t</font><a href="../L13129.htm#art5">\r\n\t\t<font size="2">(Vigência)</font></a></p>'
+            '<p>§ 2º Outro. <a href="../L13129.htm#art4"><font size="2">(Incluído pela Lei nº 13.129, de 2015)'
+            '</font></a> <a href="x.htm"><span><b> Vigência </b></span></a></p>')
+
+    def test_planalto_sem_rotulo(self):
+        md = planalto_html_para_md(self.HTML)
+        self.assertNotIn("Vigência", md)
+        self.assertIn("(Incluído pela Lei nº 13.129, de 2015)", md)
+
+    def test_gabarito_do_teste_lei_sem_rotulo(self):
+        from teste_lei import _texto_do_html
+        txt = _texto_do_html(self.HTML)
+        self.assertNotIn("Vigência", txt)
+        self.assertIn("(Incluído pela Lei nº 13.129, de 2015)", txt)
+
+
+NS_CAIXA = (NS + ' xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"'
+            ' xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"'
+            ' xmlns:v="urn:schemas-microsoft-com:vml"')
+
+
+def caixa_vml(*paragrafos):
+    return ("<w:r><w:pict><v:shape><v:textbox><w:txbxContent>%s</w:txbxContent></v:textbox>"
+            "</v:shape></w:pict></w:r>" % "".join(par(run(t)) for t in paragrafos))
+
+
+def caixa_alternativa(*paragrafos):
+    """Caixa como o Word grava: DrawingML em mc:Choice e cópia VML em mc:Fallback."""
+    conteudo = "<w:txbxContent>%s</w:txbxContent>" % "".join(par(run(t)) for t in paragrafos)
+    return ('<w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wps:wsp><wps:txbx>%s'
+            '</wps:txbx></wps:wsp></w:drawing></mc:Choice><mc:Fallback><w:pict><v:shape><v:textbox>%s'
+            '</v:textbox></v:shape></w:pict></mc:Fallback></mc:AlternateContent></w:r>' % (conteudo, conteudo))
+
+
+def docx_extras(corpo, notas=None):
+    xml = '<?xml version="1.0" encoding="UTF-8"?><w:document %s><w:body>%s</w:body></w:document>' % (NS_CAIXA, corpo)
+    fd, caminho = tempfile.mkstemp(suffix=".docx")
+    os.close(fd)
+    with zipfile.ZipFile(caminho, "w") as z:
+        z.writestr("word/document.xml", xml)
+        if notas:
+            z.writestr("word/footnotes.xml", '<w:footnotes %s>%s</w:footnotes>' % (NS, "".join(
+                '<w:footnote w:id="%s">%s</w:footnote>' % (k, par(run(t))) for k, t in notas)))
+    return caminho
+
+
+def ref_nota(k):
+    return '<w:r><w:rPr><w:rStyle w:val="Refdenotaderodap"/></w:rPr><w:footnoteReference w:id="%s"/></w:r>' % k
+
+
+class TestDocxCaixasDeTexto(unittest.TestCase):
+    def md(self, corpo, **kw):
+        caminho = docx_extras(corpo)
+        self.addCleanup(os.remove, caminho)
+        return docx_para_md(caminho, **kw)
+
+    def test_caixa_simples_vira_citacao_no_lugar(self):
+        corpo = (par(run("Antes.")) + par(run("Figura 1"), caixa_vml("Cedente", "Fundo"))
+                 + par(run("Depois.")))
+        self.assertEqual(self.md(corpo, caixas=True).split("\n\n"), [
+            "Antes.", "Figura 1", "> [Diagrama] Cedente\n> [Diagrama] Fundo", "Depois.\n"])
+
+    def test_caixa_em_alternate_content_sai_uma_vez(self):
+        md = self.md(par(caixa_alternativa("Cotista", "Gestor")), caixas=True)
+        self.assertEqual(md, "> [Diagrama] Cotista\n> [Diagrama] Gestor\n")
+
+    def test_varias_caixas_viram_blocos_separados(self):
+        md = self.md(par(caixa_alternativa("A"), caixa_vml("B")), caixas=True)
+        self.assertEqual(md, "> [Diagrama] A\n\n> [Diagrama] B\n")
+
+    def test_caixa_em_celula_vai_depois_da_tabela(self):
+        tbl = "<w:tbl><w:tr><w:tc>" + par(run("x"), caixa_vml("C")) + "</w:tc></w:tr></w:tbl>"
+        self.assertEqual(self.md(tbl, caixas=True), "| x |\n| --- |\n\n> [Diagrama] C\n")
+
+    def test_padrao_ignora_caixas(self):
+        corpo = par(run("Antes.")) + par(caixa_alternativa("Cotista")) + par(run("Figura"), caixa_vml("X"))
+        self.assertEqual(self.md(corpo), "Antes.\n\nFigura\n")
+        self.assertEqual(self.md(corpo, caixas=False), "Antes.\n\nFigura\n")
+
+
+class TestDocxAncorasDeNotas(unittest.TestCase):
+    def md(self, corpo, rodape, **kw):
+        caminho = docx_extras(corpo, rodape)
+        self.addCleanup(os.remove, caminho)
+        return docx_para_md(caminho, **kw)
+
+    NOTAS = [("-1", "sep"), ("0", "cont"), ("2", "Nota dois."), ("5", "Nota cinco.")]
+
+    def test_ancoras_na_ordem_de_exibicao(self):
+        # o id 5 aparece primeiro: é a nota [1]
+        corpo = par(run("Art. 1º Texto"), ref_nota(5), run(" meio"), ref_nota(2), run("."))
+        self.assertEqual(self.md(corpo, self.NOTAS, notas=True), "Art. 1º Texto [1] meio [2].\n")
+
+    def test_padrao_sem_ancora(self):
+        corpo = par(run("Art. 1º Texto"), ref_nota(5), run("."))
+        self.assertEqual(self.md(corpo, self.NOTAS), "Art. 1º Texto.\n")
+
+    def test_ordem_das_notas_casa_com_a_ancora(self):
+        from converter import ordem_das_notas
+        corpo = par(run("a"), ref_nota(5)) + par(run("b"), ref_nota(2), ref_nota(5))
+        caminho = docx_extras(corpo, self.NOTAS)
+        self.addCleanup(os.remove, caminho)
+        with zipfile.ZipFile(caminho) as z:
+            self.assertEqual(ordem_das_notas(z.read("word/document.xml")), ["5", "2"])
+        self.assertEqual(docx_para_md(caminho, notas=True), "a [1]\n\nb [2] [1]\n")

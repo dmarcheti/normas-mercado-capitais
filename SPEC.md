@@ -1,4 +1,4 @@
-# SPEC: formato do acervo (v0.3.0)
+# SPEC: formato do acervo (v0.3.1)
 
 Versão semântica. Campos novos opcionais = menor; campo obrigatório novo ou mudança de significado = maior.
 
@@ -46,8 +46,8 @@ Campos obrigatórios, nesta ordem:
 | `fonte_original` | URL da redação original |
 | `fonte_consolidada` | URL do texto consolidado usado na conferência |
 | `sha256_fonte` | hash do arquivo da fonte consolidada |
-| `baixado_em` | AAAA-MM-DD; em lei é a data-base do texto |
-| `verificado_em` | AAAA-MM-DD da última conferência contra o consolidado |
+| `baixado_em` | AAAA-MM-DD do download da fonte (data-base do texto); em lei é a data-base do texto |
+| `verificado_em` | AAAA-MM-DD da última conferência contra o consolidado (nos textos por script, a data da geração) |
 | `incerteza` | texto livre; vazio quando não há |
 
 Opcionais, depois de `incerteza`, nesta ordem:
@@ -58,6 +58,7 @@ Opcionais, depois de `incerteza`, nesta ordem:
   - `consolidado-convertido`: conversão do consolidado da CVM (DOCX, DOC ou HTM), sem histórico de atos; a conferência é só da conversão;
   - `ato-convertido`: conversão do texto do ato (DOCX, DOC ou HTM), para norma nunca alterada ou sem consolidado;
   - `pdf-extraido`: texto extraído do PDF da CVM (só há PDF); sujeito a erro de extração, descrito em `incerteza`;
+  - `ocr` (v0.3.1): texto reconhecido por OCR (Vision, macOS) de PDF sem camada de texto; erros pontuais de reconhecimento são esperados; a confiança média e a mínima por página ficam em `incerteza`;
   - `compilado-planalto`: texto compilado do Planalto (leis, decretos e leis complementares), conferido pelo `scripts/teste_lei.py`.
 
 Regras de valor (verificadas por `scripts/validar.py`):
@@ -68,7 +69,7 @@ Regras de valor (verificadas por `scripts/validar.py`):
 - Datas em AAAA-MM-DD válidas; `aguarda_consolidado_oficial` e `historico_parcial` são `true` ou `false`.
 - `situacao` ∈ `vigente`, `revogada`, `parcialmente-revogada`, `nao-informada`; `versao_texto` ∈ `consolidado`, `original`. `nao-informada` só em `parecer-orientacao` e `oficio-circular`: a CVM não publica a vigência deles.
 - `vigente_ate_ato`, nos tipos da CVM: número do último ato aplicado (inteiro, ex.: `226`) ou vazio quando só a redação original foi aplicada.
-- `nivel_verificacao`, quando presente, é um dos cinco valores acima.
+- `nivel_verificacao`, quando presente, é um dos seis valores acima.
 - `sha256_fonte`: 64 caracteres hexadecimais. `ementa`, `fonte_original` e `fonte_consolidada` não ficam vazios.
 
 ## Pastas validadas e índices
@@ -115,6 +116,7 @@ O dispositivo traz a redação atual e, depois dela, a futura, aberta por uma li
 
 ## Histórico de versões
 
+- v0.3.1: valor `ocr` em `nivel_verificacao`; `baixado_em` é a data do download da fonte e `verificado_em` a da geração.
 - v0.3.0: tipos `instrucao`, `parecer-orientacao`, `oficio-circular`, `decreto` e `lei-complementar`; `situacao: nao-informada` (só parecer e ofício); campo opcional `nivel_verificacao`; `## Art.` não é exigido; índice dividido em resumo e subíndices (`indices/`), com resoluções por grupo do Estoque Regulatório e verbetes de ofícios sem texto.
 - v0.2.0: norma em partes; leis (`tipo: lei`, `orgao: federal`); divergências aceitas; contagem de tabelas no teste final; numeração de listas do Word (incisos e alíneas numerados pelo Word) na conversão do consolidado.
 - v0.1.0: piloto com a Res. CVM 17.

@@ -2,7 +2,7 @@
 """Validador do frontmatter das normas (formato em SPEC.md).
 
 - validar_norma(path) -> lista de erros (vazia = ok). Aceita os tipos da SPEC
-  (v0.3.0): resolução, instrução e parecer (`NNNN.md`), ofício-circular
+  (v0.3.1): resolução, instrução e parecer (`NNNN.md`), ofício-circular
   (`<slug>.md`), lei (`lei-NNNNN.md`), decreto (`decreto-NNNNN.md`), lei
   complementar (`lcp-NNN.md`) e o `index.md` de norma em partes (`NNNN/index.md`,
   `lei-NNNNN/index.md` etc.).
@@ -45,7 +45,7 @@ SITUACOES = ("vigente", "revogada", "parcialmente-revogada", "nao-informada")
 # A CVM não publica a vigência de pareceres e ofícios: só neles cabe `nao-informada`.
 TIPOS_SEM_VIGENCIA = ("parecer-orientacao", "oficio-circular")
 NIVEIS_VERIFICACAO = ("historico-conferido", "consolidado-convertido", "ato-convertido",
-                      "pdf-extraido", "compilado-planalto")
+                      "pdf-extraido", "ocr", "compilado-planalto")  # `ocr`: v0.3.1
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 VERSOES = ("consolidado", "original")
 DATAS = ("data", "publicacao_dou", "baixado_em", "verificado_em")

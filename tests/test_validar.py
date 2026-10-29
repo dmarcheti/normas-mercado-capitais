@@ -316,7 +316,7 @@ class TestTiposV030(Base):
 
 class TestNivelVerificacao(Base):
     VALORES = ("historico-conferido", "consolidado-convertido", "ato-convertido",
-               "pdf-extraido", "compilado-planalto")
+               "pdf-extraido", "ocr", "compilado-planalto")
 
     def test_valores_aceitos(self):
         for valor in self.VALORES:
@@ -324,7 +324,7 @@ class TestNivelVerificacao(Base):
             self.assertEqual(self.erros(texto), [], valor)
 
     def test_valor_invalido_ou_vazio(self):
-        for valor in ("conferido", ""):
+        for valor in ("conferido", "", "OCR", "ocr-vision"):
             erros = self.erros(montar(extra=["nivel_verificacao: " + valor]))
             self.assertTrue(any("nivel_verificacao" in e for e in erros), (valor, erros))
 

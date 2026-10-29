@@ -118,6 +118,7 @@ class TestFonte(unittest.TestCase):
         self.assertEqual(tv.nivel_verificacao("ato", "doc"), "ato-convertido")
         self.assertEqual(tv.nivel_verificacao("ato", "pdf"), "pdf-extraido")
         self.assertEqual(tv.nivel_verificacao("consolidado", "pdf"), "pdf-extraido")
+        self.assertEqual(tv.nivel_verificacao("ato", "pdf", ocr=True), "ocr")
 
     def test_limpar_ementa(self):
         self.assertEqual(tv.limpar_ementa("Aprova o COFI. (Publicada no DOU de 13.07.06) (Retificada...)"),
@@ -258,7 +259,8 @@ class TestMontar(unittest.TestCase):
 
     def test_frontmatter_oficio_pdf_sem_dou(self):
         texto = "Ofício circular sobre taxa de performance em fundos de direitos creditórios. " * 20
-        with mock.patch.object(tv, "_pdf_txt", return_value=texto):
+        with mock.patch.object(tv, "_pdf_txt", return_value=texto), \
+                mock.patch.object(tv, "_pdfkit_txt", return_value=None):
             md, rel = tv.montar(self.c2["cvm-oc-sse-0326"], self.docx, "ato", "pdf",
                                 "https://x/sse1/anexos/oc-sse-0326.pdf")
         pares, v, _ = self._fm(md)
@@ -303,7 +305,9 @@ class TestPdf(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d, \
                 mock.patch.object(tv, "_baixar", side_effect=baixar), \
                 mock.patch.object(tv, "_pdf_txt", return_value=lixo), \
-                mock.patch.object(tv, "_pdf_type3", return_value=True):
+                mock.patch.object(tv, "_pdf_type3", return_value=True), \
+                mock.patch.object(tv, "_pdfkit_txt", return_value=None), \
+                mock.patch.object(tv, "_ocr", return_value=None):
             rel = tv.processar([item], os.path.join(d, "saida"), os.path.join(d, "cache"))
             self.assertFalse(os.path.exists(os.path.join(d, "saida", item["arquivo"])))
         self.assertEqual(rel[0]["resultado"], "sem-texto")
@@ -327,7 +331,9 @@ class TestPdf(unittest.TestCase):
             with open(path, "wb") as f:
                 w.write(f)
             item = tv.itens_do_acervo(ACERVO, 2)[1]
-            with self.assertRaises(tv.SemTexto) as ctx:
+            with self.assertRaises(tv.SemTexto) as ctx, \
+                    mock.patch.object(tv, "_pdfkit_txt", return_value=None), \
+                    mock.patch.object(tv, "_ocr", return_value=None):
                 tv.montar(item, path, "ato", "pdf", "https://x/a.pdf")
             self.assertEqual(ctx.exception.palavras, 0)
 
@@ -373,3 +379,179 @@ class TestFonteIlegivelPassaAdiante(unittest.TestCase):
         fontes = {"ato": {"doc": "https://x/pare034.doc", "pdf": "https://x/pare034.pdf"}}
         self.assertEqual([(t, e) for t, e, _ in tv.fontes_candidatas(fontes)],
                          [("ato", "doc"), ("ato", "pdf")])
+
+
+class TestCaixasENotasNoTextoVigente(unittest.TestCase):
+    """O texto vigente traz caixas como blocos "[Diagrama]" e a âncora [k] das notas."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.docx = os.path.join(self.tmp.name, "a.docx")
+        _docx_com_extras(self.docx)
+        p = mock.patch.object(tv, "texto_conferencia", return_value="Art. 1º Texto principal.")
+        p.start()
+        self.addCleanup(p.stop)
+        self.item = {i["id"]: i for i in tv.itens_do_acervo(ACERVO, 1)}["cvm-res-249"]
+
+    def test_corpo_com_diagrama_e_ancora(self):
+        md, rel = tv.montar(self.item, self.docx, "ato", "docx", "https://x/a.docx")
+        self.assertIn("Texto principal da norma com referência. [1]", md)
+        self.assertIn("> [Diagrama] Fluxo do diagrama com sete palavras aqui", md)
+        self.assertIn("[1] Restrito aos serviços públicos.", md)
+        self.assertEqual(rel["palavras_em_caixa_de_texto"], 7)
+
+    def test_incerteza_descreve_diagrama_e_notas(self):
+        md, _ = tv.montar(self.item, self.docx, "ato", "docx", "https://x/a.docx")
+        inc = [l for l in md.split("\n") if l.startswith("incerteza:")][0]
+        self.assertIn('blocos "[Diagrama]"', inc)
+        self.assertIn("sem o desenho", inc)
+        self.assertIn("[verificar no original]", inc)
+        self.assertNotIn("não convertidas", inc)
+        self.assertIn("Notas de rodapé", inc)
+        self.assertNotIn("sem a âncora", inc)
+
+    def test_notas_na_ordem_da_ancora(self):
+        corpo = ('<w:p><w:r><w:t>a</w:t></w:r><w:r><w:footnoteReference w:id="3"/></w:r>'
+                 '<w:r><w:footnoteReference w:id="1"/></w:r></w:p>')
+        notas = ('<w:footnotes %s><w:footnote w:id="1"><w:p><w:r><w:t>Um.</w:t></w:r></w:p></w:footnote>'
+                 '<w:footnote w:id="3"><w:p><w:r><w:t>Três.</w:t></w:r></w:p></w:footnote></w:footnotes>' % W_NS)
+        p = os.path.join(self.tmp.name, "b.docx")
+        with zipfile.ZipFile(p, "w") as z:
+            z.writestr("word/document.xml", '<w:document %s><w:body>%s</w:body></w:document>' % (W_NS, corpo))
+            z.writestr("word/footnotes.xml", notas)
+        self.assertEqual(tv.extras_docx(p)[0], ["Três.", "Um."])
+        self.assertEqual(tv.docx_para_md(p, caixas=True, notas=True), "a [1] [2]\n")
+
+
+# ---------------------------------------------------------------- PDFKit, OCR, métrica e datas
+
+BOM = ("O administrador do fundo deve divulgar a operacionalização das informações aos cotistas "
+       "em qualquer hipótese de entrega. ") * 6
+PARTIDO = BOM.replace("operacionalização", "op eracionalização").replace("qualquer", "qualq uer")
+LIXO = " ".join("/%d" % (i % 70) for i in range(300))
+TABELA = "\n".join("PETR4 BRPETRACNPR6 %d,%02d" % (i, i % 100) for i in range(40))  # tickers e ISINs
+
+
+def _pdf_falso(d, nome="a.pdf"):
+    path = os.path.join(d, nome)
+    with open(path, "wb") as f:
+        f.write(b"%PDF-1.4 falso")
+    return path
+
+
+class TestExtratorPdf(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.pdf = _pdf_falso(self.tmp.name)
+        self.item = {i["id"]: i for i in tv.itens_do_acervo(ACERVO, 2)}["cvm-oc-sse-0326"]
+
+    def _montar(self, pdfkit, pypdf, ocr=None):
+        with mock.patch.object(tv, "_pdfkit_txt", return_value=pdfkit), \
+                mock.patch.object(tv, "_pdf_txt", return_value=pypdf), \
+                mock.patch.object(tv, "_pdf_type3", return_value=False), \
+                mock.patch.object(tv, "_ocr", return_value=ocr):
+            return tv.montar(self.item, self.pdf, "ato", "pdf", "https://x/a.pdf")
+
+    def test_pdfkit_preferido_e_pypdf_como_conferencia(self):
+        md, rel = self._montar(BOM, PARTIDO)
+        self.assertIn("operacionalização", md)
+        self.assertNotIn("op eracionalização", md)
+        self.assertTrue(rel["conferencia_independente"])
+        self.assertEqual(rel["extrator"], "pdfkit")
+        self.assertEqual(rel["nivel_verificacao"], "pdf-extraido")
+        # as palavras partidas pelo pypdf faltam no Markdown do PDFKit
+        self.assertEqual(rel["cobertura"], tv.cobertura(PARTIDO, md.split("---\n", 2)[2]))
+        self.assertLess(rel["cobertura"], 1.0)
+
+    def test_sem_pdfkit_cai_no_pypdf_sem_conferencia(self):
+        md, rel = self._montar(None, PARTIDO)
+        self.assertIn("op eracionalização", md)
+        self.assertFalse(rel["conferencia_independente"])
+        self.assertEqual(rel["extrator"], "pypdf")
+
+    def test_pdfkit_so_no_macos(self):
+        with mock.patch.object(tv.sys, "platform", "linux"):
+            self.assertIsNone(tv._pdfkit_txt(self.pdf))
+            self.assertIsNone(tv._ocr(self.pdf))
+
+    def test_pdfkit_que_falha_vira_none(self):
+        falha = mock.Mock(side_effect=RuntimeError("swift ausente"))
+        with mock.patch.object(tv.sys, "platform", "darwin"), \
+                mock.patch.dict(sys.modules, {"pdf_macos": mock.Mock(texto_pdfkit=falha, ocr=falha)}):
+            self.assertIsNone(tv._pdfkit_txt(self.pdf))
+            self.assertIsNone(tv._ocr(self.pdf))
+
+    def test_nfkc_some_ligadura_e_preserva_ordinais(self):
+        self.assertEqual(tv.normalizar_pdf("a eﬁciência do ﬂuxo, art. 1º, nº 2, 1ª\xa0série"),
+                         "a eficiência do fluxo, art. 1º, nº 2, 1ª série")
+        md, _ = self._montar(BOM.replace("informações", "inﬁnitas informações"), BOM)
+        self.assertIn("infinitas", md)
+        self.assertNotIn("ﬁ", md)
+
+    def test_ocr_aceito_por_confianca_apesar_da_legibilidade(self):
+        self.assertLess(tv.legibilidade(TABELA)[0], tv.LEGIBILIDADE_MIN)
+        md, rel = self._montar(LIXO, LIXO, ocr=(TABELA, [0.95, 0.80, 0.83]))
+        pares, _, _ = ler_frontmatter(md)
+        v = dict(pares)
+        self.assertEqual(v["nivel_verificacao"], "ocr")
+        self.assertEqual(rel["nivel_verificacao"], "ocr")
+        self.assertEqual(rel["extrator"], "ocr")
+        self.assertFalse(rel["conferencia_independente"])
+        self.assertEqual((rel["ocr_confianca_media"], rel["ocr_confianca_minima"]), (0.86, 0.8))
+        self.assertIn("Texto por OCR (confiança média 0,86, mínima 0,80 por página); erros pontuais "
+                      "de reconhecimento são esperados [verificar no PDF oficial].", v["incerteza"])
+        self.assertIn("BRPETRACNPR6", md)
+
+    def test_ocr_recusado_por_confianca_baixa(self):
+        with self.assertRaises(tv.SemTexto) as ctx:
+            self._montar(LIXO, LIXO, ocr=(TABELA, [0.84, 0.80]))
+        self.assertIn("OCR recusado", ctx.exception.motivo)
+        self.assertEqual(ctx.exception.palavras, 300)
+
+    def test_ocr_recusado_com_poucas_palavras(self):
+        with self.assertRaises(tv.SemTexto) as ctx:
+            self._montar(LIXO, LIXO, ocr=("Página 1", [0.99]))
+        self.assertIn("OCR recusado", ctx.exception.motivo)
+
+    def test_sem_ocr_fica_sem_texto(self):
+        with self.assertRaises(tv.SemTexto) as ctx:
+            self._montar(LIXO, LIXO, ocr=None)
+        self.assertNotIn("OCR recusado", ctx.exception.motivo)
+
+    def test_pdfkit_ilegivel_e_pypdf_legivel_usa_pypdf(self):
+        md, rel = self._montar(LIXO, BOM)
+        self.assertEqual(rel["extrator"], "pypdf")
+        self.assertFalse(rel["conferencia_independente"])
+
+
+class TestMetrica(unittest.TestCase):
+    def test_sublinhado_separa_palavras(self):
+        self.assertEqual(tv.palavras("acao=documento_conferir&id_orgao=0"),
+                         ["acao", "documento", "conferir", "id", "orgao", "0"])
+        fonte = "controlador.php?acao=documento\n_\nimprimir"
+        self.assertEqual(tv.cobertura(fonte, "controlador.php?acao=documento_imprimir"), 1.0)
+
+    def test_italico_markdown_nao_conta_como_perda(self):
+        self.assertEqual(tv.cobertura("a palavra grifada", "a _palavra_ grifada"), 1.0)
+
+
+class TestDatas(unittest.TestCase):
+    def test_baixado_em_e_mtime_em_sao_paulo_e_verificado_em_hoje(self):
+        import calendar
+        # 2026-10-21 01:30 UTC = 2026-10-20 22:30 em São Paulo
+        ts = calendar.timegm((2026, 10, 21, 1, 30, 0))
+        with tempfile.TemporaryDirectory() as d:
+            docx = _docx(os.path.join(d, "f.docx"), [[("Art. 1º Esta Resolução entra em vigor.", False)]])
+            os.utime(docx, (ts, ts))
+            self.assertEqual(tv.data_arquivo(docx), "2026-10-20")
+            item = {i["id"]: i for i in tv.itens_do_acervo(ACERVO, 1)}["cvm-res-249"]
+            with mock.patch.object(tv, "texto_conferencia", return_value="Art. 1º Esta Resolução."), \
+                    mock.patch.object(tv, "DATA_BASE", "2026-10-29"):
+                md, rel = tv.montar(item, docx, "ato", "docx", "https://x/a.docx")
+        v = dict(ler_frontmatter(md)[0])
+        self.assertEqual(v["baixado_em"], "2026-10-20")
+        self.assertEqual(v["verificado_em"], "2026-10-29")
+        self.assertIn("data-base 2026-10-20", v["incerteza"])
+        self.assertEqual(rel["baixado_em"], "2026-10-20")

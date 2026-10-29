@@ -2,24 +2,34 @@
 """Texto vigente por script (Fase 2b): da fonte oficial da CVM ao Markdown da SPEC, sem LLM.
 
 Fonte, na ordem: consolidado DOCX > DOC > HTM > ato DOCX > DOC > HTM > PDF.
-- DOCX: converter.docx_para_md.
+- DOCX: converter.docx_para_md, com as caixas de texto (diagramas) em blocos "> [Diagrama]" e a
+  âncora [k] das notas de rodapé, numeradas na ordem de exibição como a seção final.
 - DOC e HTM: convertidos para DOCX pelo `textutil` do macOS e depois como DOCX.
-- PDF: pypdf (dependência opcional, fora da biblioteca padrão); nível de verificação menor.
+- PDF: no macOS, o texto do PDFKit (scripts/pdf_macos.py); fora dele, ou se o PDFKit falhar, o
+  do pypdf (dependência opcional, fora da biblioteca padrão). Os dois passam por NFKC (desfaz
+  as ligaduras ﬁ/ﬂ), preservando º e ª. Nível de verificação menor.
   PDF ilegível (fração de palavras alfabéticas de 3+ letras abaixo de 0,5, ou menos de 50
-  palavras: fonte Type3 sem mapa Unicode, escaneado) não vira arquivo; o relatório marca
-  `sem-texto` com o motivo.
+  palavras: fonte Type3 sem mapa Unicode, escaneado) vai para o OCR do Vision (macOS), aceito
+  com confiança média >= 0,85 e 50+ palavras, sem a regra da fração alfabética (há ofício que é
+  tabela de tickers e ISINs); sem OCR aceito, não vira arquivo e o relatório marca `sem-texto`
+  com o motivo.
 No consolidado, texto tachado (~~...~~, redação antiga) sai; no ato, fica marcado (num
 Documento de Revisão de CPC o tachado é o trecho excluído, conteúdo do ato). As notas de
 alteração do consolidado ficam, como nas leis, porque não há histórico de commits que as substitua.
 
 Conferência independente: o texto da fonte extraído pelo `textutil -convert txt` (DOCX,
-DOC, HTM) ou pelo próprio pypdf (PDF, sem conferência independente) contra o Markdown;
-`cobertura` = fração das palavras da fonte presentes no Markdown convertido, antes de tirar
-o tachado (multiconjunto); `palavras_tachadas` = quantas palavras estão em texto tachado.
+DOC, HTM) ou pelo pypdf (PDF cujo texto veio do PDFKit) contra o Markdown; sem PDFKit, ou no
+OCR, o PDF não tem conferência independente. `cobertura` = fração das palavras da fonte
+presentes no Markdown convertido, antes de tirar o tachado (multiconjunto; palavra =
+`[^\W_]+`, "_" separa, para as URLs do rodapé do SEI); `palavras_tachadas` = quantas palavras
+estão em texto tachado.
+
+Datas: `baixado_em` = data do download da fonte (mtime do arquivo em cache, fuso de São Paulo),
+que é a data-base do texto no `incerteza`; `verificado_em` = data da execução.
 
 Frontmatter: campos de validar.CAMPOS, na ordem, mais `vigencia_inicio` (só com bloco
-"vigente a partir de") e `nivel_verificacao` (consolidado-convertido, ato-convertido ou
-pdf-extraido). Resoluções e Instruções: `situacao: vigente`; Pareceres e Ofícios-Circulares:
+"vigente a partir de") e `nivel_verificacao` (consolidado-convertido, ato-convertido,
+pdf-extraido ou ocr). Resoluções e Instruções: `situacao: vigente`; Pareceres e Ofícios-Circulares:
 `nao-informada` (a CVM não publica a vigência deles).
 
 Uso:
@@ -34,6 +44,7 @@ Uso:
     relatório em <pasta de saída>/relatorio.json, fontes em <pasta de saída>/fontes/.
 """
 import argparse
+import datetime
 import hashlib
 import json
 import os
@@ -42,11 +53,12 @@ import subprocess
 import sys
 import tempfile
 import time
+import unicodedata
 import zipfile
 from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from converter import docx_para_md, normalizar_artigos  # noqa: E402
+from converter import docx_para_md, normalizar_artigos, ordem_das_notas, textos_das_caixas  # noqa: E402
 from inventario import USER_AGENT  # noqa: E402
 from inventario_acervo import citadas  # noqa: E402
 from validar import CAMPOS, MARCA_VIGENCIA  # noqa: E402
@@ -59,6 +71,7 @@ NUCLEO = (17, 21, 30, 50, 60, 80, 160, 175)  # já no acervo, com histórico (Fa
 INCLUIR_FORA_DO_ESTOQUE = (249,)  # editada depois da última atualização do Estoque (C1)
 CORTE_OFICIOS = "2022-01-01"  # C8
 LEGIBILIDADE_MIN, PALAVRAS_MIN = 0.5, 50
+OCR_CONFIANCA_MIN = 0.85  # média das páginas; o OCR não passa pela regra da fração alfabética
 # DOCX/DOC: texto curto em português fica perto de 0,45 ("de", "o", "1º"); lixo binário, perto de 0,2
 LEGIBILIDADE_MIN_WORD = 0.3
 NAO_INFORMADA = {
@@ -96,9 +109,9 @@ def escolher_fonte(fontes):
     return c[0] if c else None
 
 
-def nivel_verificacao(tipo_fonte, ext):
+def nivel_verificacao(tipo_fonte, ext, ocr=False):
     if ext == "pdf":
-        return "pdf-extraido"
+        return "ocr" if ocr else "pdf-extraido"
     return "consolidado-convertido" if tipo_fonte == "consolidado" else "ato-convertido"
 
 
@@ -228,7 +241,8 @@ def sem_tachado(md):
 
 
 def palavras(txt):
-    return re.findall(r"\w+", txt.lower())
+    """Palavras da métrica de cobertura: "_" separa (URLs do SEI, itálico do Markdown)."""
+    return re.findall(r"[^\W_]+", txt.lower())
 
 
 def cobertura(fonte_txt, md):
@@ -277,6 +291,90 @@ def _pdf_txt(path):
     return "\n".join(p.extract_text() or "" for p in PdfReader(path).pages)
 
 
+def _pdfkit_txt(path):
+    """Texto do PDF pelo PDFKit (macOS), ou None fora do macOS ou se ele falhar."""
+    if sys.platform != "darwin":
+        return None
+    try:
+        import pdf_macos
+        return pdf_macos.texto_pdfkit(path)
+    except Exception:  # noqa: BLE001 — cai no pypdf
+        return None
+
+
+def _ocr(path):
+    """(texto, [confiança média por página]) pelo Vision (macOS), ou None fora dele ou se falhar."""
+    if sys.platform != "darwin":
+        return None
+    try:
+        import pdf_macos
+        return pdf_macos.ocr(path)
+    except Exception:  # noqa: BLE001 — fica sem-texto
+        return None
+
+
+def normalizar_pdf(txt):
+    """NFKC do texto extraído de PDF (ligaduras ﬁ/ﬂ, espaço não separável), preservando º e ª,
+    que o NFKC trocaria por "o" e "a" ("nº", "1º")."""
+    return "".join(p if p in ("º", "ª") else unicodedata.normalize("NFKC", p)
+                   for p in re.split("([ºª])", txt or ""))
+
+
+def _md_pdf(txt):
+    linhas = [re.sub(r"\s+", " ", x).strip() for x in txt.replace("\f", "\n").split("\n")]
+    return "\n\n".join(x for x in linhas if x)
+
+
+def _fmt(x):
+    return ("%.2f" % x).replace(".", ",")
+
+
+def converter_pdf(path):
+    """(markdown, texto de conferência, conferência independente?); PDF ilegível tenta OCR e,
+    sem OCR aceito, levanta SemTexto. Grava o extrator e o OCR em converter_fonte.extras."""
+    kit = _pdfkit_txt(path)
+    try:
+        pyp = _pdf_txt(path)
+    except ImportError:
+        if kit is None:
+            raise
+        pyp = None
+    kit = None if kit is None else normalizar_pdf(kit)
+    pyp = None if pyp is None else normalizar_pdf(pyp)
+    for nome, txt, conf in (("pdfkit", kit, pyp), ("pypdf", pyp, None)):
+        if txt is not None and motivo_sem_texto(txt) is None:
+            converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(txt)}
+            return _md_pdf(txt), (txt if conf is None else conf), conf is not None
+    base = pyp if pyp is not None else kit
+    frac, n = legibilidade(base)
+    motivo = motivo_sem_texto(base, type3=False)
+    if n >= PALAVRAS_MIN:
+        motivo = motivo_sem_texto(base, type3=_pdf_type3(path))
+    r = _ocr(path)
+    if r is not None:
+        txt, conf = normalizar_pdf(r[0]), list(r[1])
+        media = sum(conf) / len(conf) if conf else 0.0
+        n_ocr = legibilidade(txt)[1]
+        if conf and media >= OCR_CONFIANCA_MIN and n_ocr >= PALAVRAS_MIN:
+            converter_fonte.extras = {
+                "extrator": "ocr", "legibilidade": legibilidade(txt),
+                "ocr": {"media": round(media, 4), "minima": round(min(conf), 4), "paginas": len(conf)}}
+            return _md_pdf(txt), txt, False
+        motivo += ("; OCR recusado: confiança média %s (mínimo %s), %d palavras (mínimo %d)"
+                   % (_fmt(media), _fmt(OCR_CONFIANCA_MIN), n_ocr, PALAVRAS_MIN))
+    raise SemTexto(motivo, frac, n)
+
+
+def data_arquivo(path):
+    """AAAA-MM-DD do mtime do arquivo no fuso de São Paulo (data do download da fonte)."""
+    try:
+        from zoneinfo import ZoneInfo
+        fuso = ZoneInfo("America/Sao_Paulo")
+    except Exception:  # noqa: BLE001 — sem base de fusos: UTC-3 (sem horário de verão desde 2019)
+        fuso = datetime.timezone(datetime.timedelta(hours=-3))
+    return datetime.datetime.fromtimestamp(os.path.getmtime(path), fuso).strftime("%Y-%m-%d")
+
+
 def _pdf_type3(path):
     """O PDF usa fonte Type3 sem /ToUnicode? (False se o pypdf não conseguir dizer.)"""
     try:
@@ -296,21 +394,27 @@ W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 
 
 def extras_docx(path):
-    """(notas de rodapé, palavras em caixas de texto) de um DOCX; o converter ignora os dois."""
+    """(notas de rodapé, palavras em caixas de texto) de um DOCX.
+
+    As notas vêm na ordem de exibição (ordem_das_notas: a primeira referência no texto), a mesma
+    da âncora [k] de docx_para_md(notas=True); nota sem referência e com texto vai para o fim.
+    Ficam de fora as notas especiais do Word (separadores, w:type) e as vazias sem referência.
+    As palavras de caixa contam cada caixa uma vez (mc:AlternateContent grava duas cópias)."""
     import xml.etree.ElementTree as ET
-    notas, caixa = [], 0
+    textos = {}
     with zipfile.ZipFile(path) as z:
         nomes = z.namelist()
         if "word/footnotes.xml" in nomes:
             for fn in ET.fromstring(z.read("word/footnotes.xml")).iter(W + "footnote"):
-                if int(fn.get(W + "id", "0")) <= 0:
+                if int(fn.get(W + "id", "0")) <= 0 or fn.get(W + "type", "normal") != "normal":
                     continue  # separadores
-                txt = re.sub(r"\s+", " ", "".join(t.text or "" for t in fn.iter(W + "t"))).strip()
-                if txt:
-                    notas.append(txt)
+                textos[fn.get(W + "id")] = re.sub(
+                    r"\s+", " ", "".join(t.text or "" for t in fn.iter(W + "t"))).strip()
         doc = ET.fromstring(z.read("word/document.xml"))
-        for tx in doc.iter(W + "txbxContent"):
-            caixa += len(re.findall(r"\w+", " ".join(t.text or "" for t in tx.iter(W + "t"))))
+    ordem = [k for k in ordem_das_notas(doc) if k in textos]
+    ordem += [k for k in textos if k not in ordem and textos[k]]
+    notas = [textos[k] or "(nota sem texto no arquivo da CVM)" for k in ordem]
+    caixa = sum(len(re.findall(r"\w+", t)) for t in textos_das_caixas(doc))
     return notas, caixa
 
 
@@ -331,22 +435,14 @@ def texto_conferencia(path, ext):
 
 def converter_fonte(path, ext):
     """(markdown, texto da fonte para conferência, conferência independente?).
-    PDF ilegível levanta SemTexto."""
+    PDF ilegível sem OCR aceito levanta SemTexto."""
     if ext == "pdf":
-        txt = _pdf_txt(path)
-        motivo = motivo_sem_texto(txt, type3=False)
-        if motivo:
-            frac, n = legibilidade(txt)
-            if n >= PALAVRAS_MIN:
-                motivo = motivo_sem_texto(txt, type3=_pdf_type3(path))
-            raise SemTexto(motivo, frac, n)
-        linhas = [re.sub(r"\s+", " ", x).strip() for x in txt.split("\n")]
-        return "\n\n".join(x for x in linhas if x), txt, False
+        return converter_pdf(path)
     if ext == "docx" and not zipfile.is_zipfile(path):
         ext = "doc"  # Word 97 servido com nome .docx: passa pelo textutil
     with tempfile.TemporaryDirectory() as d:
         docx = path if ext == "docx" else _textutil(path, "docx", os.path.join(d, "f.docx"))
-        md = docx_para_md(docx)
+        md = docx_para_md(docx, caixas=True, notas=True)
         notas, caixa = extras_docx(docx)
     frac, n = legibilidade(md)
     if n == 0 or frac < LEGIBILIDADE_MIN_WORD:  # ato curto existe: aqui não há mínimo de palavras
@@ -396,17 +492,21 @@ def _e(lista):
     return lista[0] if len(lista) == 1 else "%s e %s" % (", ".join(lista[:-1]), lista[-1])
 
 
-def incertezas(item, tipo_fonte, ext, sem_dou, vig):
+def incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em=None, ocr=None):
     situacao = item.get("situacao", "vigente")
     texto = "Texto vigente" if situacao == "vigente" else "Texto"
     out = ["%s convertido por script de %s %s da CVM, data-base %s, sem histórico de redações "
-           "nem conferência ato a ato." % (texto, tipo_fonte, ext.upper(), DATA_BASE)]
+           "nem conferência ato a ato." % (texto, tipo_fonte, ext.upper(), baixado_em or DATA_BASE)]
     if tipo_fonte == "ato" and item.get("alteradoras"):
         out.append("A CVM não publica consolidado desta norma: o texto é o do ato original; "
                    "[verificar] alterações de %s não aplicadas." % _e([str(a) for a in item["alteradoras"]]))
     if ext == "pdf":
         out.append("Extraído de PDF: quebras de linha, tabelas e numeração podem estar "
                    "deslocadas [verificar].")
+    if ocr:
+        out.append("Texto por OCR (confiança média %s, mínima %s por página); erros pontuais de "
+                   "reconhecimento são esperados [verificar no PDF oficial]."
+                   % (_fmt(ocr["media"]), _fmt(ocr["minima"])))
     if situacao == "nao-informada":
         out.append("A CVM não publica a vigência de %s; este texto pode tratar de norma já revogada."
                    % NAO_INFORMADA.get(item["tipo"], "atos deste tipo"))
@@ -423,8 +523,9 @@ def incertezas(item, tipo_fonte, ext, sem_dou, vig):
     return " ".join(out)
 
 
-def frontmatter(item, tipo_fonte, ext, url, sha, corpo):
+def frontmatter(item, tipo_fonte, ext, url, sha, corpo, baixado_em=None, ocr=None):
     vig = vigencia(corpo)
+    baixado_em = baixado_em or DATA_BASE
     sem_dou = not item.get("dou")
     v = {
         "id": item["id"], "orgao": "cvm", "tipo": item["tipo"],
@@ -435,13 +536,14 @@ def frontmatter(item, tipo_fonte, ext, url, sha, corpo):
         "vigente_ate_ato": item.get("vigente_ate_ato", "") if tipo_fonte == "consolidado" else "",
         "aguarda_consolidado_oficial": "false", "historico_parcial": "true",
         "fonte_original": item.get("fontes", {}).get("ato", {}).get("pdf") or url,
-        "fonte_consolidada": url, "sha256_fonte": sha, "baixado_em": DATA_BASE,
-        "verificado_em": DATA_BASE, "incerteza": incertezas(item, tipo_fonte, ext, sem_dou, vig),
+        "fonte_consolidada": url, "sha256_fonte": sha, "baixado_em": baixado_em,
+        "verificado_em": DATA_BASE,
+        "incerteza": incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em, ocr),
     }
     pares = [(c, v[c]) for c in CAMPOS]
     if vig[0]:
         pares.append(("vigencia_inicio", vig[0]))
-    pares.append(("nivel_verificacao", nivel_verificacao(tipo_fonte, ext)))
+    pares.append(("nivel_verificacao", nivel_verificacao(tipo_fonte, ext, ocr=bool(ocr))))
     return "---\n" + "\n".join(("%s: %s" % (k, x)) if x != "" else "%s:" % k
                                for k, x in pares) + "\n---\n\n"
 
@@ -453,26 +555,34 @@ def montar(item, path, tipo_fonte, ext, url):
     extras = converter_fonte.extras
     if extras.get("caixa"):
         item = dict(item, notas=item.get("notas", []) + [
-            "O arquivo da CVM tem %d palavras em caixas de texto (diagramas), não convertidas "
+            "O arquivo da CVM tem %d palavras em caixas de texto (diagramas), que estão como texto "
+            "em blocos \"[Diagrama]\", sem o desenho (setas e posição perdidas) "
             "[verificar no original]." % extras["caixa"]])
     if extras.get("notas"):
         item = dict(item, notas=item.get("notas", []) + [
-            "As %d notas de rodapé do arquivo da CVM estão na seção final \"Notas de rodapé\", "
-            "sem a âncora no texto." % extras["notas"]])
+            "As %d notas de rodapé do arquivo da CVM estão na seção final \"Notas de rodapé\"."
+            % extras["notas"]])
     tachado = len(palavras(md)) - len(palavras(sem_tachado(md)))
     corpo = normalizar_artigos(sem_tachado(md) if tipo_fonte == "consolidado" else md)
     with open(path, "rb") as f:
         sha = hashlib.sha256(f.read()).hexdigest()
-    cab = frontmatter(item, tipo_fonte, ext, url, sha, corpo)
+    baixado_em, ocr = data_arquivo(path), extras.get("ocr")
+    cab = frontmatter(item, tipo_fonte, ext, url, sha, corpo, baixado_em, ocr)
     rel = {"id": item["id"], "fonte": "%s %s" % (tipo_fonte, ext), "resultado": "ok",
-           "nivel_verificacao": nivel_verificacao(tipo_fonte, ext),
+           "nivel_verificacao": nivel_verificacao(tipo_fonte, ext, ocr=bool(ocr)),
            "artigos": len(re.findall(r"(?m)^## Art\. ", corpo)),
            "linhas": corpo.count("\n") + 1, "tabelas": len(re.findall(r"(?m)^\|.*\|\s*$\n(?!\|)", corpo)),
            "cobertura": cobertura(txt, md), "palavras_tachadas": tachado,
            "conferencia_independente": independente, "caracteres": len(corpo),
            "palavras_em_caixa_de_texto": extras.get("caixa", 0), "notas_de_rodape": extras.get("notas", 0)}
+    rel["baixado_em"] = baixado_em
     if ext == "pdf":
-        rel["legibilidade"], rel["palavras"] = legibilidade(txt)
+        rel["extrator"] = extras.get("extrator")
+        rel["legibilidade"], rel["palavras"] = extras.get("legibilidade") or legibilidade(txt)
+        if ocr:
+            rel["ocr_confianca_media"], rel["ocr_confianca_minima"] = (
+                round(ocr["media"], 4), round(ocr["minima"], 4))
+            rel["ocr_paginas"] = ocr["paginas"]
     return cab + corpo.strip() + "\n", rel
 
 
