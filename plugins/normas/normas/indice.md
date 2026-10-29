@@ -20,4 +20,4 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 | Pareceres de Orientação CVM | 41 | [indices/pareceres-orientacao.md](indices/pareceres-orientacao.md) |
 | Ofícios-Circulares CVM | 179 | [indices/oficios-circulares.md](indices/oficios-circulares.md) (mais 421 só verbete, sem texto) |
 | Leis, leis complementares e decretos | 29 | [indices/leis.md](indices/leis.md) |
-| Atos alteradores (texto integral do ato) | 51 | [indices/alteradoras.md](indices/alteradoras.md) |
+| Atos alteradores (texto integral do ato) | 58 | [indices/alteradoras.md](indices/alteradoras.md) |

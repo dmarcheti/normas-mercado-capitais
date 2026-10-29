@@ -135,8 +135,15 @@ Divergências aceitas: 1.250 entradas novas, quase todas de forma (títulos em c
 
 `teste_final` passou a aceitar cópia idêntica de uma entrada (a mesma divergência em dois dispositivos tem duas entradas iguais; a segunda não acusa "aceita não usada" quando a primeira já cobriu as linhas do mesmo contexto).
 
-Retificações do DOU não obtidas (constam do `incerteza`): normas 19, 45, 86, 88 e 210; atos 60, 64, 173, 204 e 239.
 
 ### Tabelas restauradas do consolidado (2026-10-29)
 
 Nas normas com original tirado do PDF da CVM, três tabelas viraram uma linha corrida ilegível: Res. 47, Anexo B; Res. 81, Anexo N; Res. 88, Anexo D. Um commit de forma, depois do histórico, devolveu a tabela do consolidado da CVM, com as mesmas palavras do trecho achatado (conferido palavra a palavra). Na Res. 88, a nota (1) do Anexo D, que está no PDF e não no consolidado, ficou depois da tabela. Ficam em linhas, por decisão: a Res. 45, Anexo A (o consolidado põe os incisos de cada grupo numa célula; em linhas, cada inciso é o que os atos alteram), e os formulários da Res. 88, Anexos G e H, e da Res. 135, Anexo B. Teste 2 refeito nas três: 0 diferença não aceita.
+
+## Retificações do DOU (2026-10-29)
+
+Lidas no in.gov.br pelo navegador; HTML salvo em `dados/fontes/manual/` (fora do Git), resumo e endereços no DOU em `dados/fontes/manual/retificacoes-dou-2026-10-29.md`. Sete mudam texto e viraram commits na data do DOU (um commit por retificação, arquivo em `alteradoras/NNNN-retificacao-AAAA-MM-DD.md`): Res. 19 (2021-03-02 e 2021-04-01), Res. 21 (2021-03-04, republicação dos Anexos D e E), Res. 60 (2023-01-06), Res. 86 (2022-07-08), Res. 160 (2022-12-05) e Res. 210 (2025-06-23). As de 19 e 210 eram as diferenças de conteúdo aceitas com [verificar]; o consolidado da CVM estava certo. A republicação da Res. 21 tirou 317 das 380 divergências aceitas da norma.
+
+Teste 1 dos commits de retificação: 19 e 21 limpos; 60, 86, 160 e 210 com 1 linha cada, a linha corrigida, porque a retificação cita só o trecho (mesmo caso da retificação da 175). Teste 2: 0 diferença não aceita nas seis.
+
+Sem mudança de texto: Res. 45 (2021-09-10), 64 (2022-02-09), 88 (2022-05-04), 173 (2023-01-06; o acervo já tinha o "§ 6º", o que explica a exceção do teste 1 da Fase 2), 204 (2024-06-19), 239 (2026-01-16) e 21 (2021-03-09, data no título da republicação). Res. 81, Anexo C, item 8: a republicação da Res. 59 no DOU de 2022-05-13 diz "5.l e 8.e"; o acervo está certo.
