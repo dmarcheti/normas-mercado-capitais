@@ -1,0 +1,506 @@
+{
+ "semente": 20261031,
+ "data": "2026-10-30",
+ "metodo": "random.Random(semente) sobre o universo ordenado por (camada, categoria, norma, posicao), categoria a categoria em ordem; shuffle e uma unidade por norma até completar; censo-norma: uma unidade (página) por norma",
+ "universo_sha256": "bbe707aa2691a414b124c34b711cfedd7e3d4bb0fd6c1fdeec201d227b019156",
+ "universo_data_base": "2026-10-30",
+ "tamanhos": {
+  "2/ocr": "censo-norma",
+  "4/so-pdf": "censo-norma"
+ },
+ "excluidos": 263,
+ "resumo": {
+  "2/ocr": {
+   "pedido": "censo-norma",
+   "universo": 31,
+   "normas_no_universo": 8,
+   "sorteado": 8,
+   "abaixo_do_pedido": false
+  },
+  "4/so-pdf": {
+   "pedido": "censo-norma",
+   "universo": 89,
+   "normas_no_universo": 26,
+   "sorteado": 26,
+   "abaixo_do_pedido": false
+  }
+ },
+ "itens": [
+  {
+   "id": "ub4332dd6d9",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sep/oc-sep-0626.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sep-0626.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u0e926b53f9",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/smi/oc-smi-0223.md",
+   "localizador": "página 8",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-smi-0223.pdf",
+   "paginas": [
+    8
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u54897be4b4",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/snc-sse/oc-conjunto-snc-sse-sin-0225.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-conjunto-snc-sse-sin-0225.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue5572b815f",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0225.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-snc-0225.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u7dd9b26904",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0226.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0226.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uc026b46c11",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0326.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0326.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub28e9025a3",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0425.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0425.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u0e62ba8b98",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0625.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0625.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "udfa4f7ceab",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3023.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3023.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u496002458b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3073.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3073.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud20effcc00",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3360.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3360.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u258d661d55",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3934.md",
+   "localizador": "página 7",
+   "posicao": 7,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3934.pdf",
+   "paginas": [
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8e455915ad",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3082.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3082.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u85ee072d9d",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3106.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3106.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ufe2ddfb29b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3282.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3282.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue4e7712607",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3614.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3614.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8960de9752",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3902.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3902.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u0ada372cc1",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3903.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3903.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ufcecdb341f",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/4036.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-4036.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6fc36619f5",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/0102.md",
+   "localizador": "página 5",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-102.pdf",
+   "paginas": [
+    5
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub6edd19085",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1502.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1502.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u728ea78a29",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1660.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1660.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u5d6eb2dbfe",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1775.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1775.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uece4ee26cd",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2686.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2686.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u70e1e6922b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2843.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2843.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u65a8ab6c40",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2907.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2907.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u13c17999a9",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3334.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3334.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "udce4ae0f91",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3427.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3427.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uc1e709a558",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4277.md",
+   "localizador": "página 5",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4277.pdf",
+   "paginas": [
+    5
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "udea0018d57",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4415.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4415.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u04d4db2848",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4593.md",
+   "localizador": "página 7",
+   "posicao": 7,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4593.pdf",
+   "paginas": [
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u44274ff3fd",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4662.md",
+   "localizador": "página 7",
+   "posicao": 7,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4662.pdf",
+   "paginas": [
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u9ab38ff5d4",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4734.md",
+   "localizador": "página 5",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4734.pdf",
+   "paginas": [
+    5
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ueffbb62b3a",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4815.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4815.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  }
+ ]
+}

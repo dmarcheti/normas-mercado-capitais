@@ -505,7 +505,7 @@ class TestExtratorPdf(unittest.TestCase):
         self.assertNotIn("ﬁ", md)
 
     def test_ocr_aceito_por_confianca_apesar_da_legibilidade(self):
-        self.assertLess(tv.legibilidade(TABELA)[0], tv.LEGIBILIDADE_MIN)
+        # o PDF dá LIXO; o OCR (uma tabela de tickers) é aceito pela confiança média
         md, rel = self._montar(LIXO, LIXO, ocr=(TABELA, [0.95, 0.80, 0.83]))
         pares, _, _ = ler_frontmatter(md)
         v = dict(pares)
@@ -901,3 +901,18 @@ class TestRegistroDeAssinaturas(unittest.TestCase):
     def test_sem_marcador_nao_muda(self):
         self.assertEqual(tv.sem_registro_de_assinaturas("texto\n"), ("texto\n", False))
         self.assertEqual(tv.sem_registro_de_assinaturas(None), (None, False))
+
+
+class TestLegibilidadeCodigos(unittest.TestCase):
+    def test_tabela_de_tickers_e_legivel(self):
+        txt = " ".join(["8 D1OW34 BRD1OWBDR005 500.000,00"] * 40)
+        self.assertIsNone(tv.motivo_sem_texto(txt))
+
+    def test_type3_continua_ilegivel(self):
+        txt = " ".join(["/12 /34 /56 !$%&"] * 60)
+        self.assertIsNotNone(tv.motivo_sem_texto(txt))
+
+    def test_bytes_de_imagem_nao_sao_codigo(self):
+        txt = " ".join(["4ß·gø Ôýï¬Aÿ7 ×Û¿‘ëú9 ~ßý‚^’ißô?ê"] * 40)
+        self.assertIsNotNone(tv.motivo_sem_texto(txt))
+

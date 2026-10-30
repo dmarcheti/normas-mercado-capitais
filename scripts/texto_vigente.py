@@ -609,12 +609,19 @@ def cobertura(fonte_txt, md):
 
 
 def legibilidade(txt):
-    """(fração de palavras alfabéticas de 3+ letras sobre o total, total de palavras)."""
+    """(fração de palavras legíveis, total de palavras). Legível: alfabética de 3+ letras, ou
+    código de 4 a 14 maiúsculas ASCII e dígitos, com os dois (ticker, ISIN). Número puro fica fora da fração
+    (tabela de negociação traz milhares), mas conta no total; fonte Type3 sem mapa sai como
+    dígito solto ou símbolo e continua ilegível."""
     ps = re.findall(r"\w+", txt or "")
     if not ps:
         return 0.0, 0
-    alfa = sum(1 for p in ps if p.isalpha() and len(p) >= 3)
-    return round(alfa / len(ps), 4), len(ps)
+    resto = [p for p in ps if not p.isdigit()]
+    if not resto:
+        return 0.0, len(ps)
+    leg = sum(1 for p in resto if (p.isalpha() and len(p) >= 3) or
+              (re.fullmatch(r"[A-Z0-9]{4,14}", p) and re.search(r"[A-Z]", p) and re.search(r"\d", p)))
+    return round(leg / len(resto), 4), len(ps)
 
 
 def motivo_sem_texto(txt, type3=False):
