@@ -475,7 +475,7 @@ def itens_camada5(anbima, b3, cache_pdf=None):
             titulo = titulo_anbima(d.get("titulo"))
             tipo = TIPOS_ANBIMA.get(d.get("tipo"), "orientacao-autorregulacao")
         else:
-            titulo = titulo_b3((d.get("rotulos") or [""])[0])
+            titulo = d.get("titulo") or titulo_b3((d.get("rotulos") or [""])[0])  # título curado no inventário
             tipo = tipo_b3(titulo + " " + nome_arq)
         base = slug(titulo) or slug(nome_arq) or "documento"
         avisos = []
@@ -661,9 +661,23 @@ def _fmt(x):
     return ("%.2f" % x).replace(".", ",")
 
 
+# Página de registro das assinaturas eletrônicas (PDFs assinados da ANBIMA): nome, e-mail, IP e
+# localização de quem assinou. Dado pessoal, fora do texto da norma: corta-se do marcador ao fim.
+MARCA_ASSINATURAS = re.compile(r"(?m)^.*Escaneie para realizar a valida[çc][ãa]o das assinaturas.*$")
+
+
+def sem_registro_de_assinaturas(txt):
+    """(texto sem a página de registro das assinaturas eletrônicas, cortou?)."""
+    if txt is None:
+        return None, False
+    m = MARCA_ASSINATURAS.search(txt)
+    return (txt[:m.start()].rstrip() + "\n", True) if m else (txt, False)
+
+
 def converter_pdf(path):
     """(markdown, texto de conferência, conferência independente?); PDF ilegível tenta OCR e,
-    sem OCR aceito, levanta SemTexto. Grava o extrator e o OCR em converter_fonte.extras."""
+    sem OCR aceito, levanta SemTexto. Grava o extrator e o OCR em converter_fonte.extras.
+    A página de registro das assinaturas eletrônicas sai dos dois textos (norma e conferência)."""
     kit = _pdfkit_txt(path)
     try:
         pyp = _pdf_txt(path)
@@ -673,9 +687,12 @@ def converter_pdf(path):
         pyp = None
     kit = None if kit is None else normalizar_pdf(kit)
     pyp = None if pyp is None else normalizar_pdf(pyp)
+    kit, corte_kit = sem_registro_de_assinaturas(kit)
+    pyp, corte_pyp = sem_registro_de_assinaturas(pyp)
     for nome, txt, conf in (("pdfkit", kit, pyp), ("pypdf", pyp, None)):
         if txt is not None and motivo_sem_texto(txt) is None:
-            converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(txt)}
+            converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(txt),
+                                      "assinaturas_retiradas": corte_kit or corte_pyp}
             return _md_pdf(txt), (txt if conf is None else conf), conf is not None
     base = pyp if pyp is not None else kit
     frac, n = legibilidade(base)
@@ -971,6 +988,10 @@ def montar(item, path, tipo_fonte, ext, url):
         item = dict(item, notas=item.get("notas", []) + [
             "As %d notas de rodapé do arquivo da CVM estão na seção final \"Notas de rodapé\"."
             % extras["notas"]])
+    if extras.get("assinaturas_retiradas"):
+        item = dict(item, notas=item.get("notas", []) + [
+            "A página final de registro das assinaturas eletrônicas do PDF (nomes, e-mails, IP e "
+            "localização dos signatários) foi retirada; a validação das assinaturas é feita no PDF oficial."])
     limpar = sem_tachado_bcb if conversor == "html_bcb" else sem_tachado
     tachado = len(palavras(md)) - len(palavras(limpar(md)))
     corpo = normalizar_artigos(limpar(md) if tipo_fonte == "consolidado" else md)

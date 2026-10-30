@@ -886,3 +886,18 @@ class TestProcessarCamadas4e5(unittest.TestCase):
             self.assertEqual(rel[0]["resultado"], "ok", rel)
             with open(os.path.join(d, "c", it["id"] + ".pdf"), "rb") as f:
                 self.assertEqual(f.read(), b"%PDF-1.4 fixture")
+
+
+class TestRegistroDeAssinaturas(unittest.TestCase):
+    def test_corta_do_marcador_ao_fim(self):
+        txt = ("Art. 51. Este Código entra em vigor.\n28\n← Escaneie para realizar a validação das assinaturas\n"
+               "Assinado Eletronicamente por:\nFulano\nE-mail: fulano@exemplo.com\nIP 10.0.0.1\nLatitude:-23.5\n")
+        out, cortou = tv.sem_registro_de_assinaturas(txt)
+        self.assertTrue(cortou)
+        self.assertNotIn("Fulano", out)
+        self.assertNotIn("Latitude", out)
+        self.assertIn("entra em vigor", out)
+
+    def test_sem_marcador_nao_muda(self):
+        self.assertEqual(tv.sem_registro_de_assinaturas("texto\n"), ("texto\n", False))
+        self.assertEqual(tv.sem_registro_de_assinaturas(None), (None, False))

@@ -91,10 +91,53 @@ SUBSTITUIDOS = {
 }
 
 
+# Título do documento: o rótulo do link, limpo. A B3 grava rótulos partidos ("ope racionais"),
+# curtos ("LIG - Sem Marca") ou em caixa alta; estes são corrigidos aqui (conferido em 2026-10-29).
+PARTIDAS = {"ope racionais": "operacionais", "CR A": "CRA", "B alcão": "Balcão",
+            "GA RANTIAS": "GARANTIAS", "Pe cuniárias": "Pecuniárias"}
+TITULOS = {
+    "Glossario do Balcao B3 - 31082026 - sem marcas.pdf": "Glossário das Normas do Balcão B3",
+    "Glossario.pdf": "Glossário das Normas da Câmara B3",
+    "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf": "Manual de Normas de Direito de Acesso do Balcão B3",
+    "Regulamento do Balcao B3 - 21092026 - sem marcas.pdf": "Regulamento do Balcão B3",
+    "MN dos Subsistemas - 31082026 - sem marcas.pdf":
+        "Manual de Normas do Subsistema de Registro, do Subsistema de Depósito Centralizado e do Subsistema de Compensação e Liquidação",
+    "Manual de Normas - Sistema de Registro de Garantias sobre Veiculos Automotores.final1.25042024.pdf":
+        "Manual de Normas do Sistema de Registro de Garantias sobre Veículos Automotores",
+    "Regulamento UIF.vfinal.30042024.pdf": "Regulamento da Infraestrutura para Financiamento B3",
+    "Regulamento TD Publicado no Site .11.07.2023.pdf": "Regulamento do Tesouro Direto",
+    "Regulamento de Acesso da B3.pdf": "Regulamento de Acesso da B3",
+    "Regulamento de Clube de Investimento.pdf": "Regulamento de Clubes de Investimento",
+}
+
+
+def titulo(d):
+    if d["arquivo"] in TITULOS:
+        return TITULOS[d["arquivo"]]
+    t = (d["rotulos"] or [""])[0]
+    for a, b in PARTIDAS.items():
+        t = t.replace(a, b)
+    t = re.sub(r"\s*-?\s*(com|sem)\s*marcas?\*?\s*(\(\.PDF[^)]*\))?\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s*\(\.PDF[^)]*\)\s*$", "", t).strip(" -–")
+    if (re.match(r"^(MN |Manual de Normas)", d["arquivo"]) and not re.match(r"^Manual", t, re.I)):
+        t = "Manual de Normas de " + t
+    return t[:1].upper() + t[1:]
+
+
+# Fora até decisão do Diogo: o texto cita CNPJ de empresa e a varredura do pre-commit bloqueia CNPJ.
+PENDENTES = {
+    "Regulamento do FILCB.pdf": "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
+    "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf":
+        "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
+}
+
+
 def perimetro(d):
     """(entra?, motivo) do documento na camada 5."""
     if d["arquivo"] in SUBSTITUIDOS:
         return False, SUBSTITUIDOS[d["arquivo"]]
+    if d["arquivo"] in PENDENTES:
+        return False, PENDENTES[d["arquivo"]]
     txt = " ".join(d["rotulos"]) + " " + d["arquivo"]
     if d["marcas"] == "com":
         return False, "versão com marcas (há a sem marcas)"
@@ -168,6 +211,7 @@ def main(argv):
     # perímetro e versão vigente: entre as versões do mesmo documento, a de data mais recente no nome
     for d in docs.values():
         d["entra"], d["motivo"] = perimetro(d)
+        d["titulo"] = titulo(d)
         d["chave"] = chave_versao(d["arquivo"])
     grupos = {}
     for d in docs.values():
