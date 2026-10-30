@@ -1,0 +1,4040 @@
+{
+ "semente": 20261030,
+ "data": "2026-10-30",
+ "metodo": "random.Random(semente) sobre o universo ordenado por (camada, categoria, norma, posicao), categoria a categoria em ordem; shuffle e uma unidade por norma até completar; censo-norma: uma unidade (página) por norma",
+ "universo_sha256": "48ed87a4c21fe56983176e9cbc7581f24af7817ed726800c9966f071e968ba23",
+ "universo_data_base": "2026-10-30",
+ "tamanhos": {
+  "1/revogacao": "censo",
+  "1/vigencia-diferida": "censo",
+  "1/inclusao": 12,
+  "1/nova-redacao": 15,
+  "1/tabela-anexo": 12,
+  "1/sem-historico": 10,
+  "2/ocr": "censo-norma",
+  "2/oficio-pdf": 12,
+  "2/parecer-doc": 5,
+  "2/nota-diagrama": 5,
+  "3/redacao-incluido": 14,
+  "3/revogado": 10,
+  "3/rotulo-margem": 5,
+  "3/tabela": "censo",
+  "4/tachado": 10,
+  "4/nota-redacao": 7,
+  "4/tabela": 8,
+  "4/so-pdf": "censo-norma",
+  "5/sumario": 6,
+  "5/quebra-pagina": 8,
+  "5/tabela": 6,
+  "5/assinaturas": "censo"
+ },
+ "excluidos": 0,
+ "resumo": {
+  "1/inclusao": {
+   "pedido": 12,
+   "universo": 72,
+   "normas_no_universo": 20,
+   "sorteado": 12,
+   "abaixo_do_pedido": false
+  },
+  "1/nova-redacao": {
+   "pedido": 15,
+   "universo": 234,
+   "normas_no_universo": 35,
+   "sorteado": 15,
+   "abaixo_do_pedido": false,
+   "por_sobrescrito": {
+    "false": {
+     "universo": 218,
+     "sorteado": 7
+    },
+    "true": {
+     "universo": 16,
+     "sorteado": 8
+    }
+   }
+  },
+  "1/revogacao": {
+   "pedido": "censo",
+   "universo": 56,
+   "normas_no_universo": 15,
+   "sorteado": 56,
+   "abaixo_do_pedido": false
+  },
+  "1/sem-historico": {
+   "pedido": 10,
+   "universo": 1074,
+   "normas_no_universo": 119,
+   "sorteado": 10,
+   "abaixo_do_pedido": false,
+   "por_lista_numerada": {
+    "false": {
+     "universo": 1064,
+     "sorteado": 5
+    },
+    "true": {
+     "universo": 10,
+     "sorteado": 5
+    }
+   }
+  },
+  "1/tabela-anexo": {
+   "pedido": 12,
+   "universo": 460,
+   "normas_no_universo": 25,
+   "sorteado": 12,
+   "abaixo_do_pedido": false
+  },
+  "1/vigencia-diferida": {
+   "pedido": "censo",
+   "universo": 12,
+   "normas_no_universo": 9,
+   "sorteado": 12,
+   "abaixo_do_pedido": false
+  },
+  "2/nota-diagrama": {
+   "pedido": 5,
+   "universo": 551,
+   "normas_no_universo": 39,
+   "sorteado": 5,
+   "abaixo_do_pedido": false
+  },
+  "2/ocr": {
+   "pedido": "censo-norma",
+   "universo": 39,
+   "normas_no_universo": 8,
+   "sorteado": 8,
+   "abaixo_do_pedido": false
+  },
+  "2/oficio-pdf": {
+   "pedido": 12,
+   "universo": 2282,
+   "normas_no_universo": 172,
+   "sorteado": 12,
+   "abaixo_do_pedido": false
+  },
+  "2/parecer-doc": {
+   "pedido": 5,
+   "universo": 304,
+   "normas_no_universo": 40,
+   "sorteado": 5,
+   "abaixo_do_pedido": false
+  },
+  "3/redacao-incluido": {
+   "pedido": 14,
+   "universo": 451,
+   "normas_no_universo": 45,
+   "sorteado": 14,
+   "abaixo_do_pedido": false
+  },
+  "3/revogado": {
+   "pedido": 10,
+   "universo": 131,
+   "normas_no_universo": 24,
+   "sorteado": 10,
+   "abaixo_do_pedido": false
+  },
+  "3/rotulo-margem": {
+   "pedido": 5,
+   "universo": 193,
+   "normas_no_universo": 24,
+   "sorteado": 5,
+   "abaixo_do_pedido": false
+  },
+  "3/tabela": {
+   "pedido": "censo",
+   "universo": 1,
+   "normas_no_universo": 1,
+   "sorteado": 1,
+   "abaixo_do_pedido": false
+  },
+  "4/nota-redacao": {
+   "pedido": 7,
+   "universo": 178,
+   "normas_no_universo": 33,
+   "sorteado": 7,
+   "abaixo_do_pedido": false
+  },
+  "4/so-pdf": {
+   "pedido": "censo-norma",
+   "universo": 18,
+   "normas_no_universo": 5,
+   "sorteado": 5,
+   "abaixo_do_pedido": false
+  },
+  "4/tabela": {
+   "pedido": 8,
+   "universo": 9,
+   "normas_no_universo": 7,
+   "sorteado": 8,
+   "abaixo_do_pedido": false
+  },
+  "4/tachado": {
+   "pedido": 10,
+   "universo": 199,
+   "normas_no_universo": 30,
+   "sorteado": 10,
+   "abaixo_do_pedido": false
+  },
+  "5/assinaturas": {
+   "pedido": "censo",
+   "universo": 10,
+   "normas_no_universo": 10,
+   "sorteado": 10,
+   "abaixo_do_pedido": false
+  },
+  "5/quebra-pagina": {
+   "pedido": 8,
+   "universo": 4143,
+   "normas_no_universo": 96,
+   "sorteado": 8,
+   "abaixo_do_pedido": false
+  },
+  "5/sumario": {
+   "pedido": 6,
+   "universo": 119,
+   "normas_no_universo": 62,
+   "sorteado": 6,
+   "abaixo_do_pedido": false
+  },
+  "5/tabela": {
+   "pedido": 6,
+   "universo": 78,
+   "normas_no_universo": 16,
+   "sorteado": 6,
+   "abaixo_do_pedido": false
+  }
+ },
+ "itens": [
+  {
+   "id": "u999d17a8a3",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0013.md",
+   "localizador": "Art. 2º",
+   "posicao": 41,
+   "commit": "56271deb33741a91ce62bd7932661573307db19b",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 7,
+   "mensagem": "Res. CVM 64/2022 (DOU 2022-02-08): altera Res. CVM 13",
+   "atos": [
+    "cvm/alteradoras/0064.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u64e02d8ccc",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0021.md",
+   "localizador": "Art. 33",
+   "posicao": 695,
+   "commit": "b838b2d5029d40dbc9cf843f81b2f55010ecdbcb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 38,
+   "mensagem": "Res. CVM 209/2024 (DOU 2024-08-27): altera Res. CVM 21, 31, 32, 35, 45 e 175",
+   "atos": [
+    "cvm/alteradoras/0209.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u95c671252d",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0035.md",
+   "localizador": "Art. 26-E",
+   "posicao": 561,
+   "commit": "31217cd90a492fbaa97aab784e465d120c8c0141",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 23,
+   "mensagem": "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 11, 19, 20, 21, 30, 35, 43, 45, 50 e 60",
+   "atos": [
+    "cvm/alteradoras/0179.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u218aaaa374",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0050.md",
+   "localizador": "Art. 17-A",
+   "posicao": 441,
+   "commit": "f82bb1cc59ac823f7d73012fa2d5a179523fca8b",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 56,
+   "mensagem": "Res. CVM 245/2026 (DOU 2026-07-03): altera Res. CVM 50",
+   "atos": [
+    "cvm/alteradoras/0245.md"
+   ],
+   "linhas_novas": 8,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u68e5874935",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "Art. 43-C",
+   "posicao": 785,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u2b9d26802f",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "Art. 59-A",
+   "posicao": 1051,
+   "commit": "796a6f040b14a7fc635fc1ddc79fd6979bbf7e34",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 27,
+   "mensagem": "Res. CVM 183/2023 (DOU 2023-05-12): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0183.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ucbd67b4e53",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 46-B",
+   "posicao": 680,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 7,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u8ce1cb3617",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0088.md",
+   "localizador": "Art. 8º",
+   "posicao": 254,
+   "commit": "5443781d4801c176f36d8bfa71db9ccec99b5b5c",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 45,
+   "mensagem": "Res. CVM 226/2025 (DOU 2025-03-07): altera Res. CVM 17, 60, 80, 88 e 160",
+   "atos": [
+    "cvm/alteradoras/0226.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u991a13f98a",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 78",
+   "posicao": 1208,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u71f4916fc2",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0166.md",
+   "localizador": "Art. 1º",
+   "posicao": 36,
+   "commit": "f9f64499301f4a79623a74936c9b0f9532c02030",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 50,
+   "mensagem": "Res. CVM 231/2025 (DOU 2025-07-04): altera Res. CVM 80 e 166",
+   "atos": [
+    "cvm/alteradoras/0231.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u208e265c67",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 87",
+   "posicao": 1178,
+   "commit": "3e280f22719b559b5fbfe382ca545e5a04f756bb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 33,
+   "mensagem": "Res. CVM 200/2024 (DOU 2024-03-13): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0200.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ufcb5e8910a",
+   "camada": "1",
+   "categoria": "inclusao",
+   "norma": "cvm/resolucoes/0210.md",
+   "localizador": "Art. 2º",
+   "posicao": 56,
+   "commit": "e2f4ff2b2cc09fff64ec78aec615064cb93de799",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 47,
+   "mensagem": "Res. CVM 229/2025 (DOU 2025-05-23): altera Res. CVM 210",
+   "atos": [
+    "cvm/alteradoras/0229.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ub498ac1e31",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0008.md",
+   "localizador": "Art. 1º",
+   "posicao": 31,
+   "commit": "b87b1752647825425c59c7fe5d8f127f3850abca",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 6,
+   "mensagem": "Res. CVM 61/2021 (DOU 2021-12-28): altera Res. CVM 6, 8 e 54",
+   "atos": [
+    "cvm/alteradoras/0061.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "ufd95e98b06",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0011.md",
+   "localizador": "Art. 17",
+   "posicao": 205,
+   "commit": "31217cd90a492fbaa97aab784e465d120c8c0141",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 23,
+   "mensagem": "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 11, 19, 20, 21, 30, 35, 43, 45, 50 e 60",
+   "atos": [
+    "cvm/alteradoras/0179.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u471e8954df",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0030.md",
+   "localizador": "Art. 11",
+   "posicao": 197,
+   "commit": "56ecd726698a3084f04f33ed826a9bd352a9a536",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 14,
+   "mensagem": "Res. CVM 162/2022 (DOU 2022-07-14): altera Res. CVM 8, 17, 21, 30, 45, 51, 60 e 80",
+   "atos": [
+    "cvm/alteradoras/0162.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u6faec4f94c",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0030.md",
+   "localizador": "Art. 12",
+   "posicao": 211,
+   "commit": "31217cd90a492fbaa97aab784e465d120c8c0141",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 23,
+   "mensagem": "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 11, 19, 20, 21, 30, 35, 43, 45, 50 e 60",
+   "atos": [
+    "cvm/alteradoras/0179.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u444713d920",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0045.md",
+   "localizador": "Art. 41",
+   "posicao": 505,
+   "commit": "34ea3a00f1a8131c96fc562e2db9874908b8c6be",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 51,
+   "mensagem": "Res. CVM 235/2025 (DOU 2025-11-24): altera Res. CVM 45",
+   "atos": [
+    "cvm/alteradoras/0235.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "uef8a7b1105",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "Art. 25",
+   "posicao": 375,
+   "commit": "cdaf88cc31d3c4299f21a9c30a96de13d82a4c4f",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 19,
+   "mensagem": "Res. CVM 173/2022 (DOU 2022-12-01): altera Res. CVM 80, 160 e 161",
+   "atos": [
+    "cvm/alteradoras/0173.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u476942101b",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 27",
+   "posicao": 307,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "ueb5fca707a",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 19",
+   "posicao": 279,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u9058cd7ec9",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 132",
+   "posicao": 1877,
+   "commit": "259e0d25b9fad12f81b5987408b81359fd164057",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 17,
+   "mensagem": "Res. CVM 170/2022 (DOU 2022-10-14): altera Res. CVM 135",
+   "atos": [
+    "cvm/alteradoras/0170.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "uf53cc1d6ff",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 28",
+   "posicao": 835,
+   "commit": "e84899d56d0db85504afaa778f35b80bd7ccfe11",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 37,
+   "mensagem": "Res. CVM 208/2024 (DOU 2024-08-14): altera Res. CVM 160",
+   "atos": [
+    "cvm/alteradoras/0208.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u64e885cbf4",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 86",
+   "posicao": 1655,
+   "commit": "d43853e652368d8907fce82ddcf901aad76467b5",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 24,
+   "mensagem": "Res. CVM 180/2023 (DOU 2023-03-23): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0180.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "ua27303a2ed",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0161.md",
+   "localizador": "Art. 18",
+   "posicao": 297,
+   "commit": "fa27c6ce2c2a282c43fafcc4aab7b0470ae921a6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 36,
+   "mensagem": "Res. CVM 207/2024 (DOU 2024-08-14): altera Res. CVM 47, 80 e 161",
+   "atos": [
+    "cvm/alteradoras/0207.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u117a99e4d0",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 85",
+   "posicao": 1162,
+   "commit": "c445adbddb583fd549574bb7f5d2eae3772665cb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 26,
+   "mensagem": "Retificacao da Res. CVM 175/2022 (DOU 2023-03-31)",
+   "atos": [
+    "cvm/alteradoras/0175-retificacao-2023-03-31.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u7d1ce78842",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 134",
+   "posicao": 1838,
+   "commit": "3e280f22719b559b5fbfe382ca545e5a04f756bb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 33,
+   "mensagem": "Res. CVM 200/2024 (DOU 2024-03-13): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0200.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u2950591232",
+   "camada": "1",
+   "categoria": "nova-redacao",
+   "norma": "cvm/resolucoes/0193.md",
+   "localizador": "Art. 3º",
+   "posicao": 65,
+   "commit": "ed9f6d4c9ba4a0a5ff935f85d704c02a86df47d1",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 46,
+   "mensagem": "Res. CVM 227/2025 (DOU 2025-04-01): altera Res. CVM 193",
+   "atos": [
+    "cvm/alteradoras/0227.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "ubd4812c7e2",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0013.md",
+   "localizador": "ANEXO A, Art. 1º",
+   "posicao": 255,
+   "commit": "56271deb33741a91ce62bd7932661573307db19b",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 7,
+   "mensagem": "Res. CVM 64/2022 (DOU 2022-02-08): altera Res. CVM 13",
+   "atos": [
+    "cvm/alteradoras/0064.md"
+   ],
+   "linhas_novas": 6,
+   "linhas_removidas": 10
+  },
+  {
+   "id": "uc7660aca13",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0045.md",
+   "localizador": "Art. 21",
+   "posicao": 273,
+   "commit": "34ea3a00f1a8131c96fc562e2db9874908b8c6be",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 51,
+   "mensagem": "Res. CVM 235/2025 (DOU 2025-11-24): altera Res. CVM 45",
+   "atos": [
+    "cvm/alteradoras/0235.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u27aeadd784",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0045.md",
+   "localizador": "ANEXO C À RESOLUÇÃO CVM Nº 45, DE 31 DE AGOSTO DE 2021, Art. 1º",
+   "posicao": 1471,
+   "commit": "56ecd726698a3084f04f33ed826a9bd352a9a536",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 14,
+   "mensagem": "Res. CVM 162/2022 (DOU 2022-07-14): altera Res. CVM 8, 17, 21, 30, 45, 51, 60 e 80",
+   "atos": [
+    "cvm/alteradoras/0162.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "u04383bc678",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0047.md",
+   "localizador": "Art. 18",
+   "posicao": 207,
+   "commit": "16e487960e47713a497d1609312a858ed8a8563a",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 13,
+   "mensagem": "Res. CVM 159/2022 (DOU 2022-07-11): altera Res. CVM 47",
+   "atos": [
+    "cvm/alteradoras/0159.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "uc9ea5974fe",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0053.md",
+   "localizador": "Art. 13",
+   "posicao": 169,
+   "commit": "53b48d05748b33da7369b07d564d72f4a7a3649f",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 53,
+   "mensagem": "Res. CVM 239/2026 (DOU 2026-01-12): altera Res. CVM 53",
+   "atos": [
+    "cvm/alteradoras/0239.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u2ad53654e5",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "Art. 3º",
+   "posicao": 87,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "uf7d5e7a15d",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "Art. 33",
+   "posicao": 567,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "uce51dd233c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO I, Art. 2º",
+   "posicao": 1163,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 6
+  },
+  {
+   "id": "u7e3a445f4e",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO I, Art. 3º",
+   "posicao": 1177,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u9189352597",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO I, Art. 5º",
+   "posicao": 1251,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ud911143c7c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO II - CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO, Art. 3º",
+   "posicao": 1297,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 8,
+   "linhas_removidas": 8
+  },
+  {
+   "id": "u4b55592f77",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO II - CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO, Art. 4º",
+   "posicao": 1319,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 4
+  },
+  {
+   "id": "u954f45ae46",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO II - CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO, Art. 5º",
+   "posicao": 1329,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u66cec62263",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "ANEXO NORMATIVO II - CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO, Art. 7º",
+   "posicao": 1347,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u83e991a96d",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "SUPLEMENTO A À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021, Art. 2º",
+   "posicao": 1399,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 9,
+   "linhas_removidas": 7
+  },
+  {
+   "id": "u573476afcc",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "SUPLEMENTO H À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+   "posicao": 2649,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 19
+  },
+  {
+   "id": "uc960806778",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "SUPLEMENTO I À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+   "posicao": 2672,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 27
+  },
+  {
+   "id": "uf9ae407958",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0060.md",
+   "localizador": "SUPLEMENTO J À RESOLUÇÃO CVM Nº 60, DE 23 DE DEZEMBRO DE 2021",
+   "posicao": 2703,
+   "commit": "4c0f6860bcfb782d3cfd4e98a24b3bad4a1fba55",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 31,
+   "mensagem": "Res. CVM 194/2023 (DOU 2023-11-20): altera Res. CVM 60",
+   "atos": [
+    "cvm/alteradoras/0194.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 23
+  },
+  {
+   "id": "u4378ffec13",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "Art. 41",
+   "posicao": 695,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "uf280f09237",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "Art. 67",
+   "posicao": 971,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "uf4270ba369",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO B",
+   "posicao": 1241,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 17
+  },
+  {
+   "id": "u5666c8edf5",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO E, Art. 2º",
+   "posicao": 2413,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "uc4ff94b569",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO E, Art. 5º",
+   "posicao": 2487,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "u94752e20d7",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO K, Art. 8º",
+   "posicao": 3037,
+   "commit": "d43853e652368d8907fce82ddcf901aad76467b5",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 24,
+   "mensagem": "Res. CVM 180/2023 (DOU 2023-03-23): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0180.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "ubd1e68a58e",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 10",
+   "posicao": 163,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u6ccf5e065a",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 11",
+   "posicao": 181,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u2050cabd35",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 26",
+   "posicao": 267,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 12,
+   "linhas_removidas": 9
+  },
+  {
+   "id": "uc0fbc722b6",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 28",
+   "posicao": 380,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u96db57e03f",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 31",
+   "posicao": 383,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "uc3e152f9ed",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 45",
+   "posicao": 563,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 9,
+   "linhas_removidas": 7
+  },
+  {
+   "id": "u32a4a8e13f",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "Art. 48",
+   "posicao": 611,
+   "commit": "704c3d25f19c956659c43d992e6df4db60911a32",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 34,
+   "mensagem": "Res. CVM 204/2024 (DOU 2024-06-05): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0204.md"
+   ],
+   "linhas_novas": 11,
+   "linhas_removidas": 10
+  },
+  {
+   "id": "ua9cc590eb4",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "ANEXO C",
+   "posicao": 1071,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 4
+  },
+  {
+   "id": "ue5c328b406",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0081.md",
+   "localizador": "ANEXO H",
+   "posicao": 1165,
+   "commit": "f8ab1fb0f8fd8322265d791ad52b3ee50d2a54ce",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 9,
+   "mensagem": "Res. CVM 59/2021 (DOU 2022-05-13): altera Res. CVM 80 e 81",
+   "atos": [
+    "cvm/alteradoras/0059.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u246487a644",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0086.md",
+   "localizador": "Art. 29",
+   "posicao": 303,
+   "commit": "09522e6762e859563cbca6664bda511ac8a20301",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 43,
+   "mensagem": "Res. CVM 221/2024 (DOU 2024-12-11): altera Res. CVM 86",
+   "atos": [
+    "cvm/alteradoras/0221.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u170ae53187",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0086.md",
+   "localizador": "Art. 30",
+   "posicao": 309,
+   "commit": "09522e6762e859563cbca6664bda511ac8a20301",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 43,
+   "mensagem": "Res. CVM 221/2024 (DOU 2024-12-11): altera Res. CVM 86",
+   "atos": [
+    "cvm/alteradoras/0221.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 15
+  },
+  {
+   "id": "ucad1d6ffc7",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0086.md",
+   "localizador": "ANEXO H",
+   "posicao": 575,
+   "commit": "09522e6762e859563cbca6664bda511ac8a20301",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 43,
+   "mensagem": "Res. CVM 221/2024 (DOU 2024-12-11): altera Res. CVM 86",
+   "atos": [
+    "cvm/alteradoras/0221.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u54c82c05d0",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 133",
+   "posicao": 1877,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u0f7c74aaac",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 134",
+   "posicao": 1883,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u1cbfc1338c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 135",
+   "posicao": 1887,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "ue87b756a8d",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0135.md",
+   "localizador": "Art. 152",
+   "posicao": 2005,
+   "commit": "d66d4182baf7c8725c1ea6401da43b6aa2219506",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 42,
+   "mensagem": "Res. CVM 220/2024 (DOU 2024-11-12): altera Res. CVM 31 e 135",
+   "atos": [
+    "cvm/alteradoras/0220.md"
+   ],
+   "linhas_novas": 21,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "ud7278057c6",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 26",
+   "posicao": 659,
+   "commit": "796a6f040b14a7fc635fc1ddc79fd6979bbf7e34",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 27,
+   "mensagem": "Res. CVM 183/2023 (DOU 2023-05-12): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0183.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "uf7964ab07a",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 26",
+   "posicao": 717,
+   "commit": "e84899d56d0db85504afaa778f35b80bd7ccfe11",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 37,
+   "mensagem": "Res. CVM 208/2024 (DOU 2024-08-14): altera Res. CVM 160",
+   "atos": [
+    "cvm/alteradoras/0208.md"
+   ],
+   "linhas_novas": 7,
+   "linhas_removidas": 4
+  },
+  {
+   "id": "uce7ff02fe3",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 28",
+   "posicao": 831,
+   "commit": "796a6f040b14a7fc635fc1ddc79fd6979bbf7e34",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 27,
+   "mensagem": "Res. CVM 183/2023 (DOU 2023-05-12): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0183.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u310ef40608",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0160.md",
+   "localizador": "Art. 86",
+   "posicao": 1687,
+   "commit": "796a6f040b14a7fc635fc1ddc79fd6979bbf7e34",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 27,
+   "mensagem": "Res. CVM 183/2023 (DOU 2023-05-12): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0183.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u2b83b512c5",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-01.md",
+   "localizador": "ANEXO NORMATIVO I - FUNDOS DE INVESTIMENTO FINANCEIRO, Art. 13",
+   "posicao": 180,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "ua461150475",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-02.md",
+   "localizador": "ANEXO NORMATIVO II - FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS, Art. 2º",
+   "posicao": 68,
+   "commit": "47a3788a4338ec975fc30963207bf86c7ff4a8c2",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 54,
+   "mensagem": "Res. CVM 240/2026 (DOU 2026-03-06): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0240.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u9401a68158",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-02.md",
+   "localizador": "ANEXO NORMATIVO II - FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS, Art. 15",
+   "posicao": 216,
+   "commit": "9842ac6318670d3fcd0eeb26ed804c779652471c",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 30,
+   "mensagem": "Res. CVM 187/2023 (DOU 2023-09-28): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0187.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u9cac779c5c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-02.md",
+   "localizador": "ANEXO NORMATIVO II - FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS, Art. 30",
+   "posicao": 464,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 6,
+   "linhas_removidas": 10
+  },
+  {
+   "id": "u32eb77ab2d",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-03.md",
+   "localizador": "ANEXO NORMATIVO III – FUNDOS DE INVESTIMENTO IMOBILIÁRIO, Art. 17",
+   "posicao": 210,
+   "commit": "657714cc990c54dda22e9250a0eed75c09fcf473",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 39,
+   "mensagem": "Res. CVM 214/2024 (DOU 2024-10-01): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0214.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 14
+  },
+  {
+   "id": "ue4cc324e7c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/anexo-03.md",
+   "localizador": "ANEXO NORMATIVO III – FUNDOS DE INVESTIMENTO IMOBILIÁRIO, Art. 32",
+   "posicao": 472,
+   "commit": "3e280f22719b559b5fbfe382ca545e5a04f756bb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 33,
+   "mensagem": "Res. CVM 200/2024 (DOU 2024-03-13): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0200.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 2
+  },
+  {
+   "id": "u87f7fcfe8c",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 16",
+   "posicao": 284,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "ub4d918dacb",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 48",
+   "posicao": 688,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 8,
+   "linhas_removidas": 6
+  },
+  {
+   "id": "u4e02022eac",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 121",
+   "posicao": 1612,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u920eaca87b",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 140",
+   "posicao": 1898,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 3
+  },
+  {
+   "id": "u8db6ab1627",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0193.md",
+   "localizador": "Art. 2º",
+   "posicao": 63,
+   "commit": "5ed5d82b9f031c7517f71695fbe61a9aeaa1fd6b",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 55,
+   "mensagem": "Res. CVM 244/2026 (DOU 2026-06-01): altera Res. CVM 193",
+   "atos": [
+    "cvm/alteradoras/0244.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u2030058136",
+   "camada": "1",
+   "categoria": "revogacao",
+   "norma": "cvm/resolucoes/0193.md",
+   "localizador": "Art. 5º",
+   "posicao": 81,
+   "commit": "5ed5d82b9f031c7517f71695fbe61a9aeaa1fd6b",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 55,
+   "mensagem": "Res. CVM 244/2026 (DOU 2026-06-01): altera Res. CVM 193",
+   "atos": [
+    "cvm/alteradoras/0244.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 4
+  },
+  {
+   "id": "u78219896d4",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0028.md",
+   "localizador": "Art. 2º",
+   "posicao": 32,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-28.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": true,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "uc6e0b7b7a3",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0042.md",
+   "localizador": "Art. 3º",
+   "posicao": 36,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-42.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": true,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u5855b8f777",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0052.md",
+   "localizador": "Art. 6º",
+   "posicao": 116,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-52.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": false,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u2f41cc166d",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0078.md",
+   "localizador": "Art. 19",
+   "posicao": 202,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-78.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": true,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u748399d05e",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0082.md",
+   "localizador": "Art. 41",
+   "posicao": 366,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-82.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": false,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u8b52e31e0d",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0099.md",
+   "localizador": "Art. 1º",
+   "posicao": 28,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-99.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": false,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "ucb5fac81c6",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0172.md",
+   "localizador": "Art. 1º",
+   "posicao": 28,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-172.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": false,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u5dae6b6f7f",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0223.md",
+   "localizador": "ANEXO “A”, Art. 7º",
+   "posicao": 386,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-223.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": true,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u9125345d61",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0225.md",
+   "localizador": "Art. 2º",
+   "posicao": 36,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-225.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": false,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u750a0e29af",
+   "camada": "1",
+   "categoria": "sem-historico",
+   "norma": "cvm/resolucoes/0234.md",
+   "localizador": "Art. 8º",
+   "posicao": 78,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-234.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "lista_numerada": true,
+   "lista_numerada_metodo": "conversao"
+  },
+  {
+   "id": "u9c07b57a9f",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0008.md",
+   "localizador": "ANEXO C À RESOLUÇÃO CVM Nº 8, DE 14 DE OUTUBRO DE 2020",
+   "posicao": 465,
+   "commit": "b87b1752647825425c59c7fe5d8f127f3850abca",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 6,
+   "mensagem": "Res. CVM 61/2021 (DOU 2021-12-28): altera Res. CVM 6, 8 e 54",
+   "atos": [
+    "cvm/alteradoras/0061.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u15629265e9",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0021.md",
+   "localizador": "ANEXO E",
+   "posicao": 907,
+   "commit": "126b18b7d5cd3135fc2731d98bfc8dbcc3ed24ab",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 4,
+   "mensagem": "Retificacao da Res. CVM 21/2021 (DOU 2021-03-04)",
+   "atos": [
+    "cvm/alteradoras/0021-retificacao-2021-03-04.md"
+   ],
+   "linhas_novas": 0,
+   "linhas_removidas": 138
+  },
+  {
+   "id": "u461316050d",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO J, Art. 3º",
+   "posicao": 2667,
+   "commit": "796a6f040b14a7fc635fc1ddc79fd6979bbf7e34",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 27,
+   "mensagem": "Res. CVM 183/2023 (DOU 2023-05-12): altera Res. CVM 80 e 160",
+   "atos": [
+    "cvm/alteradoras/0183.md"
+   ],
+   "linhas_novas": 13,
+   "linhas_removidas": 5
+  },
+  {
+   "id": "u9cd561db55",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-02.md",
+   "localizador": "ANEXO NORMATIVO II - FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS, Art. 28",
+   "posicao": 448,
+   "commit": "9842ac6318670d3fcd0eeb26ed804c779652471c",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 30,
+   "mensagem": "Res. CVM 187/2023 (DOU 2023-09-28): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0187.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 1
+  },
+  {
+   "id": "u8dd8d2f943",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-03.md",
+   "localizador": "ANEXO NORMATIVO III – FUNDOS DE INVESTIMENTO IMOBILIÁRIO, Art. 7º",
+   "posicao": 46,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "udc2b064a9e",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-05.md",
+   "localizador": "ANEXO NORMATIVO V – FUNDOS DE ÍNDICE",
+   "posicao": 2,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ufb1b03c9e4",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-06.md",
+   "localizador": "Art. 26",
+   "posicao": 346,
+   "commit": "657714cc990c54dda22e9250a0eed75c09fcf473",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 39,
+   "mensagem": "Res. CVM 214/2024 (DOU 2024-10-01): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0214.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "uf488f509be",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-07.md",
+   "localizador": "ANEXO NORMATIVO VII – FUNDOS MÚTUOS DE PRIVATIZAÇÃO – FGTS, Art. 26",
+   "posicao": 228,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ue3a06a3765",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-08.md",
+   "localizador": "Art. 6º",
+   "posicao": 78,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 2,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ub7a9e61ea4",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-10.md",
+   "localizador": "ANEXO NORMATIVO X – FUNDOS DE INVESTIMENTO CULTURAL E ARTÍSTICO, Art. 9º",
+   "posicao": 100,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "u36d971bcaa",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/anexo-12.md",
+   "localizador": "Art. 1º",
+   "posicao": 8,
+   "commit": "ea55a5bfc8d72aa3dc94206e3177d39299702e92",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 28,
+   "mensagem": "Res. CVM 184/2023 (DOU 2023-06-02): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0184.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ufb42095926",
+   "camada": "1",
+   "categoria": "tabela-anexo",
+   "norma": "cvm/resolucoes/0175/suplementos.md",
+   "localizador": "SUPLEMENTO I – INFORME MENSAL – FII",
+   "posicao": 1411,
+   "commit": "3e280f22719b559b5fbfe382ca545e5a04f756bb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 33,
+   "mensagem": "Res. CVM 200/2024 (DOU 2024-03-13): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0200.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 0
+  },
+  {
+   "id": "ua15fdc8eb5",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0008.md",
+   "localizador": "Art. 24",
+   "posicao": 265,
+   "commit": "3645cefa6bf754717239f88e6cd08525800c8305",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 2,
+   "mensagem": "Res. CVM 15/2021 (DOU 2021-01-20): altera Res. CVM 8",
+   "atos": [
+    "cvm/alteradoras/0015.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1,
+   "vigor": "2021-01-20",
+   "unidade_replay": "u2317961512"
+  },
+  {
+   "id": "u28ee9a33ac",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0035.md",
+   "localizador": "Art. 26-E",
+   "posicao": 561,
+   "commit": "31217cd90a492fbaa97aab784e465d120c8c0141",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 23,
+   "mensagem": "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 11, 19, 20, 21, 30, 35, 43, 45, 50 e 60",
+   "atos": [
+    "cvm/alteradoras/0179.md"
+   ],
+   "linhas_novas": 5,
+   "linhas_removidas": 0,
+   "vigor": "2024-01-02",
+   "unidade_replay": "u95c671252d"
+  },
+  {
+   "id": "u10b86b7bfc",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0035.md",
+   "localizador": "Art. 26-F",
+   "posicao": 571,
+   "commit": "31217cd90a492fbaa97aab784e465d120c8c0141",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 23,
+   "mensagem": "Res. CVM 179/2023 (DOU 2023-02-15): altera Res. CVM 11, 19, 20, 21, 30, 35, 43, 45, 50 e 60",
+   "atos": [
+    "cvm/alteradoras/0179.md"
+   ],
+   "linhas_novas": 12,
+   "linhas_removidas": 0,
+   "vigor": "2024-01-02",
+   "unidade_replay": "ua26fcd5729"
+  },
+  {
+   "id": "u859c676fb2",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0045.md",
+   "localizador": "ANEXO A À RESOLUÇÃO CVM Nº 45, DE 31 DE AGOSTO DE 2021",
+   "posicao": 1309,
+   "commit": "34ea3a00f1a8131c96fc562e2db9874908b8c6be",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 51,
+   "mensagem": "Res. CVM 235/2025 (DOU 2025-11-24): altera Res. CVM 45",
+   "atos": [
+    "cvm/alteradoras/0235.md"
+   ],
+   "linhas_novas": 11,
+   "linhas_removidas": 7,
+   "vigor": "2026-01-02",
+   "unidade_replay": "uaaf295d8fc"
+  },
+  {
+   "id": "u0435126fb1",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0080.md",
+   "localizador": "ANEXO C",
+   "posicao": 1795,
+   "commit": "7bccd16c65a8081c924036ca9d6ad9c4275d61be",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 32,
+   "mensagem": "Res. CVM 198/2024 (DOU 2024-02-02): altera Res. CVM 80",
+   "atos": [
+    "cvm/alteradoras/0198.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 2,
+   "vigor": "2025-01-02",
+   "unidade_replay": "uda8d272f84"
+  },
+  {
+   "id": "u8042ab0cd4",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0175/anexo-03.md",
+   "localizador": "ANEXO NORMATIVO III – FUNDOS DE INVESTIMENTO IMOBILIÁRIO, Art. 6º",
+   "posicao": 42,
+   "commit": "657714cc990c54dda22e9250a0eed75c09fcf473",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 39,
+   "mensagem": "Res. CVM 214/2024 (DOU 2024-10-01): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0214.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1,
+   "vigor": "2024-11-01",
+   "unidade_replay": "ue186d7af70"
+  },
+  {
+   "id": "u6b9792eae6",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 48",
+   "posicao": 688,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 8,
+   "linhas_removidas": 6,
+   "vigor": "2024-04-01",
+   "unidade_replay": "ub4d918dacb"
+  },
+  {
+   "id": "u4479bdf98e",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 140",
+   "posicao": 1898,
+   "commit": "a368c38a317bdff1dcb6a619c43427faacaa71d6",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": true,
+   "ordem_commit": 25,
+   "mensagem": "Res. CVM 181/2023 (DOU 2023-03-30): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0181.md"
+   ],
+   "linhas_novas": 4,
+   "linhas_removidas": 3,
+   "vigor": "2024-04-01",
+   "unidade_replay": "u920eaca87b"
+  },
+  {
+   "id": "u743a690735",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0175/parte-geral.md",
+   "localizador": "Art. 140",
+   "posicao": 1910,
+   "commit": "3e280f22719b559b5fbfe382ca545e5a04f756bb",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 33,
+   "mensagem": "Res. CVM 200/2024 (DOU 2024-03-13): altera Res. CVM 175",
+   "atos": [
+    "cvm/alteradoras/0200.md"
+   ],
+   "linhas_novas": 3,
+   "linhas_removidas": 3,
+   "vigor": "2024-03-13",
+   "unidade_replay": "u20e3b15ae8"
+  },
+  {
+   "id": "uc541593c06",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0210.md",
+   "localizador": "Art. 23",
+   "posicao": 339,
+   "commit": "e2f4ff2b2cc09fff64ec78aec615064cb93de799",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 47,
+   "mensagem": "Res. CVM 229/2025 (DOU 2025-05-23): altera Res. CVM 210",
+   "atos": [
+    "cvm/alteradoras/0229.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1,
+   "vigor": "2025-05-23",
+   "unidade_replay": "uc9fa44432c"
+  },
+  {
+   "id": "ua8c5ff2b89",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0215.md",
+   "localizador": "Art. 75",
+   "posicao": 1419,
+   "commit": "7054f6e22744b5261f6958d2f737162dd56f50b5",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 49,
+   "mensagem": "Res. CVM 230/2025 (DOU 2025-06-23): altera Res. CVM 215",
+   "atos": [
+    "cvm/alteradoras/0230.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1,
+   "vigor": "2025-06-23",
+   "unidade_replay": "ubee08cbb43"
+  },
+  {
+   "id": "u3e3abd944d",
+   "camada": "1",
+   "categoria": "vigencia-diferida",
+   "norma": "cvm/resolucoes/0232.md",
+   "localizador": "Art. 68",
+   "posicao": 953,
+   "commit": "4445b550f6b015216c3540433ba19e257feb7483",
+   "fonte": null,
+   "paginas": null,
+   "sobrescrito": false,
+   "ordem_commit": 52,
+   "mensagem": "Res. CVM 236/2025 (DOU 2025-12-12): altera Res. CVM 47 e 232",
+   "atos": [
+    "cvm/alteradoras/0236.md"
+   ],
+   "linhas_novas": 1,
+   "linhas_removidas": 1,
+   "vigor": "2025-12-12",
+   "unidade_replay": "ue87c932882"
+  },
+  {
+   "id": "uf499e7a729",
+   "camada": "2",
+   "categoria": "nota-diagrama",
+   "norma": "cvm/resolucoes/0076.md",
+   "localizador": "diagrama 24",
+   "posicao": 27,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-76.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "camada_norma": "1"
+  },
+  {
+   "id": "u359b42a526",
+   "camada": "2",
+   "categoria": "nota-diagrama",
+   "norma": "cvm/resolucoes/0103.md",
+   "localizador": "diagrama 13",
+   "posicao": 13,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-103.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "camada_norma": "1"
+  },
+  {
+   "id": "u0228c31bf7",
+   "camada": "2",
+   "categoria": "nota-diagrama",
+   "norma": "cvm/resolucoes/0113.md",
+   "localizador": "nota 36",
+   "posicao": 36,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-113.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "camada_norma": "1"
+  },
+  {
+   "id": "ube0c846ff6",
+   "camada": "2",
+   "categoria": "nota-diagrama",
+   "norma": "cvm/resolucoes/0119.md",
+   "localizador": "diagrama 8",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-119.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "camada_norma": "1"
+  },
+  {
+   "id": "u12dd1aab9c",
+   "camada": "2",
+   "categoria": "nota-diagrama",
+   "norma": "cvm/resolucoes/0132.md",
+   "localizador": "nota 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-res-132.docx",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato docx",
+   "camada_norma": "1"
+  },
+  {
+   "id": "u6f0749b720",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sep/oc-sep-0626.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sep-0626.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u4e8deed783",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/smi/oc-smi-0223.md",
+   "localizador": "página 19",
+   "posicao": 19,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-smi-0223.pdf",
+   "paginas": [
+    19
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u2879cca4a7",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/snc-sse/oc-conjunto-snc-sse-sin-0225.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-conjunto-snc-sse-sin-0225.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6fcbf4d46c",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0225.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-snc-0225.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u0af9a87cea",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0226.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0226.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8dd34cf2c9",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0326.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0326.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u3a79636240",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0425.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0425.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ueb90f73b22",
+   "camada": "2",
+   "categoria": "ocr",
+   "norma": "cvm/oficios-circulares/sse1/oc-sse-0625.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-0625.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ua5d85ea34d",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sep/oc-anual-sep-2022.md",
+   "localizador": "página 49",
+   "posicao": 49,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-sep-2022.pdf",
+   "paginas": [
+    49
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub35a8de3e9",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sep/oc-anual-sep-2023.md",
+   "localizador": "página 260",
+   "posicao": 260,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-sep-2023.pdf",
+   "paginas": [
+    260
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uee41bd2b9d",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sep/oc-anual-sep-2024.md",
+   "localizador": "página 59",
+   "posicao": 59,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-sep-2024.pdf",
+   "paginas": [
+    59
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub471daa7c3",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sep/oc-anual-sep-2025.md",
+   "localizador": "página 155",
+   "posicao": 155,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-sep-2025.pdf",
+   "paginas": [
+    155
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u2eb11e065b",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sep/oc-anual-sep-2026.md",
+   "localizador": "página 53",
+   "posicao": 53,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-sep-2026.pdf",
+   "paginas": [
+    53
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u70de0ee8d4",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sin/oc-sin-0223.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sin-0223.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub2a59af89b",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sin/oc-sin-0225.md",
+   "localizador": "página 8",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sin-0225.pdf",
+   "paginas": [
+    8
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u35129229aa",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sin/oc-sin-0623.md",
+   "localizador": "página 5",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sin-0623.pdf",
+   "paginas": [
+    5
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uad9a6d27de",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-occ-sin-smi-sse-0125.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uf76fcc54d9",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/smi/oc-smi-sin-sse-0225.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-smi-sin-sse-0225.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u46110898aa",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/snc-sse/oc-sse-snc-0125.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-sse-snc-0125.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ua41a948fb4",
+   "camada": "2",
+   "categoria": "oficio-pdf",
+   "norma": "cvm/oficios-circulares/sre/oc-anual-2026-sre.md",
+   "localizador": "página 72",
+   "posicao": 72,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-oc-anual-2026-sre.pdf",
+   "paginas": [
+    72
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue03c4f71bb",
+   "camada": "2",
+   "categoria": "parecer-doc",
+   "norma": "cvm/pareceres-orientacao/0007.md",
+   "localizador": "bloco 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-po-7.doc",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato doc",
+   "inicio": "4. Para efeitos contábeis, os montantes resultantes de variações da",
+   "fim": "determinação do lucro tributável para cálculo do imposto de renda."
+  },
+  {
+   "id": "u12c41ffbad",
+   "camada": "2",
+   "categoria": "parecer-doc",
+   "norma": "cvm/pareceres-orientacao/0014.md",
+   "localizador": "bloco 24",
+   "posicao": 24,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-po-14.doc",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato doc",
+   "inicio": "Resultados e balanços poderão ser diferentes por várias razões: correção",
+   "fim": "valor menor do que na escrituração mercantil, compensando aqueles efeitos."
+  },
+  {
+   "id": "u8858c030e3",
+   "camada": "2",
+   "categoria": "parecer-doc",
+   "norma": "cvm/pareceres-orientacao/0022.md",
+   "localizador": "bloco 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-po-22.doc",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato doc",
+   "inicio": "Embora, até hoje, não se tenha implementado este procedimento para",
+   "fim": "ORIENTAÇÃO CVM Nº 22, DE 16 DE JANEIRO DE 1991."
+  },
+  {
+   "id": "u9dae85f64c",
+   "camada": "2",
+   "categoria": "parecer-doc",
+   "norma": "cvm/pareceres-orientacao/0027.md",
+   "localizador": "bloco 16",
+   "posicao": 16,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-po-27.doc",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato doc",
+   "inicio": "Portanto, para uma folha de salários, cujo pagamento se dá",
+   "fim": "atualização monetária, esta é que teria o seu saldo anulado."
+  },
+  {
+   "id": "u0f47d2887a",
+   "camada": "2",
+   "categoria": "parecer-doc",
+   "norma": "cvm/pareceres-orientacao/0029.md",
+   "localizador": "bloco 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cvm-po-29.doc",
+   "paginas": null,
+   "sobrescrito": null,
+   "tipo_fonte": "ato doc",
+   "inicio": "b) Conteúdo Mínimo - a CVM entende que, na divulgação",
+   "fim": "de revisão trimestral, quando não revelados, os efeitos relevantes decorrentes."
+  },
+  {
+   "id": "ua66e09012b",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06385.md",
+   "localizador": "Art. 15",
+   "posicao": 362,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06385.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6385"
+  },
+  {
+   "id": "ud1b366578b",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-03.md",
+   "localizador": "Art. 15",
+   "posicao": 56,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "ud87e9cd3cf",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-05.md",
+   "localizador": "Art. 52",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "u5827e2aa44",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-09.md",
+   "localizador": "Art. 104",
+   "posicao": 68,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "ucab0b8e83a",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-12.md",
+   "localizador": "Art. 138",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "u57ed7251ea",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-18.md",
+   "localizador": "Art. 223",
+   "posicao": 40,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "ub81b6288ad",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-20.md",
+   "localizador": "Art. 254-A",
+   "posicao": 202,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "uce219e59c0",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-06404/cap-25.md",
+   "localizador": "Art. 293",
+   "posicao": 46,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "u483b8e906a",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-07913.md",
+   "localizador": "Art. 1º",
+   "posicao": 28,
+   "commit": null,
+   "fonte": "dados/fontes/lei-07913.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-7913"
+  },
+  {
+   "id": "ubb0fc16c1a",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-10931.md",
+   "localizador": "Art. 11-A",
+   "posicao": 132,
+   "commit": null,
+   "fonte": "dados/fontes/lei-10931.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-10931"
+  },
+  {
+   "id": "u4a13d63672",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-11076.md",
+   "localizador": "Art. 35-D",
+   "posicao": 514,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11076.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11076"
+  },
+  {
+   "id": "u929f0fedb3",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-11101.md",
+   "localizador": "Art. 167-N",
+   "posicao": 2650,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11101.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11101"
+  },
+  {
+   "id": "uf037fdb2cd",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-12431.md",
+   "localizador": "Art. 16-B",
+   "posicao": 486,
+   "commit": null,
+   "fonte": "dados/fontes/lei-12431.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-12431"
+  },
+  {
+   "id": "u4a2cdcc858",
+   "camada": "3",
+   "categoria": "redacao-incluido",
+   "norma": "leis/lei-13986.md",
+   "localizador": "Art. 6º",
+   "posicao": 100,
+   "commit": null,
+   "fonte": "dados/fontes/lei-13986.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-13986"
+  },
+  {
+   "id": "u0682bb70fa",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-04595.md",
+   "localizador": "Art. 43",
+   "posicao": 572,
+   "commit": null,
+   "fonte": "dados/fontes/lei-04595.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-4595"
+  },
+  {
+   "id": "u5e4cc98bcb",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-04728.md",
+   "localizador": "Art. 66",
+   "posicao": 832,
+   "commit": null,
+   "fonte": "dados/fontes/lei-04728.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-4728"
+  },
+  {
+   "id": "ud0987f00f2",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-06385.md",
+   "localizador": "Art. 29",
+   "posicao": 686,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06385.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6385"
+  },
+  {
+   "id": "u78c5619b23",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-06404/cap-15.md",
+   "localizador": "Art. 182",
+   "posicao": 162,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06404.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6404"
+  },
+  {
+   "id": "ud1a1bcc3e7",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-09514.md",
+   "localizador": "Art. 6º",
+   "posicao": 86,
+   "commit": null,
+   "fonte": "dados/fontes/lei-09514.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-9514"
+  },
+  {
+   "id": "u39d501e4e8",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-09613.md",
+   "localizador": "Art. 3º",
+   "posicao": 98,
+   "commit": null,
+   "fonte": "dados/fontes/lei-09613.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-9613"
+  },
+  {
+   "id": "ubad9bb524d",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-11076.md",
+   "localizador": "Art. 20",
+   "posicao": 266,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11076.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11076"
+  },
+  {
+   "id": "u6c6bf24154",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-11101.md",
+   "localizador": "Art. 86",
+   "posicao": 1532,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11101.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11101"
+  },
+  {
+   "id": "ud9447653ea",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-13506.md",
+   "localizador": "Art. 43",
+   "posicao": 714,
+   "commit": null,
+   "fonte": "dados/fontes/lei-13506.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-13506"
+  },
+  {
+   "id": "u73205fe206",
+   "camada": "3",
+   "categoria": "revogado",
+   "norma": "leis/lei-13986.md",
+   "localizador": "Art. 3º",
+   "posicao": 52,
+   "commit": null,
+   "fonte": "dados/fontes/lei-13986.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-13986"
+  },
+  {
+   "id": "u8e9a320aa0",
+   "camada": "3",
+   "categoria": "rotulo-margem",
+   "norma": "leis/lei-06385.md",
+   "localizador": "Art. 27-E",
+   "posicao": 664,
+   "commit": null,
+   "fonte": "dados/fontes/lei-06385.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-6385"
+  },
+  {
+   "id": "u13750a8504",
+   "camada": "3",
+   "categoria": "rotulo-margem",
+   "norma": "leis/lei-08668.md",
+   "localizador": "Art. 16-A",
+   "posicao": 168,
+   "commit": null,
+   "fonte": "dados/fontes/lei-08668.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-8668"
+  },
+  {
+   "id": "u4029258f88",
+   "camada": "3",
+   "categoria": "rotulo-margem",
+   "norma": "leis/lei-11101.md",
+   "localizador": "Art. 14",
+   "posicao": 256,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11101.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11101"
+  },
+  {
+   "id": "ua12e62344c",
+   "camada": "3",
+   "categoria": "rotulo-margem",
+   "norma": "leis/lei-13506.md",
+   "localizador": "Art. 62",
+   "posicao": 878,
+   "commit": null,
+   "fonte": "dados/fontes/lei-13506.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-13506"
+  },
+  {
+   "id": "u377f140115",
+   "camada": "3",
+   "categoria": "rotulo-margem",
+   "norma": "leis/lei-14754.md",
+   "localizador": "Art. 25",
+   "posicao": 566,
+   "commit": null,
+   "fonte": "dados/fontes/lei-14754.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-14754"
+  },
+  {
+   "id": "u1abdbd50a3",
+   "camada": "3",
+   "categoria": "tabela",
+   "norma": "leis/lei-11076.md",
+   "localizador": "Art. 55",
+   "posicao": 674,
+   "commit": null,
+   "fonte": "dados/fontes/lei-11076.html",
+   "paginas": null,
+   "sobrescrito": null,
+   "lei": "lei-11076"
+  },
+  {
+   "id": "uff1baadf7c",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/circulares/3106.md",
+   "localizador": "Art. 1º",
+   "posicao": 36,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3106.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uaf43bc3a98",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/instrucoes-normativas/0163.md",
+   "localizador": "Art. 5º",
+   "posicao": 70,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-163.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ubdd647e1ff",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0102.md",
+   "localizador": "Art. 1º",
+   "posicao": 34,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u36cd03e67b",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0264.md",
+   "localizador": "Art. 26",
+   "posicao": 576,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-264.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ufdd11e46c1",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0278.md",
+   "localizador": "Art. 17",
+   "posicao": 240,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-278.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u509dc196db",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "cmn/resolucoes/2907.md",
+   "localizador": "preambulo",
+   "posicao": 21,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2907.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u6d42d3530f",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "cmn/resolucoes/5070.md",
+   "localizador": "Art. 7º",
+   "posicao": 146,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-5070.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ubff07c2e8e",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3934.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3934.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8960de9752",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3902.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3902.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u70e1e6922b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2843.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2843.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u390efb22e8",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3042.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3042.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud6f3c2de9c",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3621.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3621.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u1c4a9ce2fe",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/circulares/3903.md",
+   "localizador": "Art. 8º",
+   "posicao": 82,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3903.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u33e74a7a0e",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/instrucoes-normativas/0487.md",
+   "localizador": "ANEXO I À INSTRUÇÃO NORMATIVA BCB Nº 487, DE 5 DE JULHO DE 2024, Art. 1º",
+   "posicao": 277,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-487.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uc30e42038a",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/instrucoes-normativas/0506.md",
+   "localizador": "Art. 17",
+   "posicao": 236,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u7c0a8b04f4",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0102.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021",
+   "posicao": 382,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uda6ddd50df",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "ANEXO I",
+   "posicao": 2343,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ud78ddd848b",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "ANEXO II",
+   "posicao": 2373,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u832ca89d20",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0472.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 472, DE 8 DE MAIO DE 2025",
+   "posicao": 118,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-472.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ubfb9cf6028",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0528.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 528, DE 3 DE DEZEMBRO DE 2025",
+   "posicao": 215,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-528.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u794c844146",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/instrucoes-normativas/0506.md",
+   "localizador": "Art. 19",
+   "posicao": 265,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uc5a614881f",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0055.md",
+   "localizador": "Art. 50",
+   "posicao": 674,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-55.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u1d5e253198",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0102.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021",
+   "posicao": 382,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u0f2ac50ef9",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0264.md",
+   "localizador": "Art. 11",
+   "posicao": 200,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-264.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uec8c77a747",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0278.md",
+   "localizador": "Art. 34",
+   "posicao": 442,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-278.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u0bbfcc0f72",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0308.md",
+   "localizador": "Art. 12",
+   "posicao": 278,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-308.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ufe6270a1bc",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0339.md",
+   "localizador": "Art. 33",
+   "posicao": 762,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-339.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ud60bc0a139",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "Art. 99",
+   "posicao": 2224,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u4654dab66a",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/4966.md",
+   "localizador": "Art. 49",
+   "posicao": 1011,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4966.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u2931be2a2a",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/4994.md",
+   "localizador": "Art. 7º",
+   "posicao": 83,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4994.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u6e01871e12",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/codigo-de-administracao-de-recursos-de-terceiros.md",
+   "localizador": "páginas 28-29",
+   "posicao": 28,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-codigo-de-administracao-de-recursos-de-terceiros.pdf",
+   "paginas": [
+    28,
+    29
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u51c87311f8",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/codigo-de-distribuicao-de-produtos-de-investimento.md",
+   "localizador": "páginas 19-20",
+   "posicao": 19,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-codigo-de-distribuicao-de-produtos-de-investimento.pdf",
+   "paginas": [
+    19,
+    20
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue052b7639f",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/codigo-de-ofertas-publicas.md",
+   "localizador": "páginas 19-20",
+   "posicao": 19,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-codigo-de-ofertas-publicas.pdf",
+   "paginas": [
+    19,
+    20
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u73008477b9",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/codigo-de-servicos-qualificados.md",
+   "localizador": "páginas 23-24",
+   "posicao": 23,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-codigo-de-servicos-qualificados.pdf",
+   "paginas": [
+    23,
+    24
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue336f98482",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/glossario-anbima.md",
+   "localizador": "páginas 30-31",
+   "posicao": 30,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-glossario-anbima.pdf",
+   "paginas": [
+    30,
+    31
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6a67de193c",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-de-deveres-basicos.md",
+   "localizador": "páginas 22-23",
+   "posicao": 22,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-de-deveres-basicos.pdf",
+   "paginas": [
+    22,
+    23
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ufd1af2f596",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md",
+   "localizador": "páginas 148-149",
+   "posicao": 148,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-de-ofertas-publicas.pdf",
+   "paginas": [
+    148,
+    149
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u81090d8c9f",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md",
+   "localizador": "páginas 250-251",
+   "posicao": 250,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.pdf",
+   "paginas": [
+    250,
+    251
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u53d0b8ac2b",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
+   "localizador": "páginas 113-114",
+   "posicao": 113,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-distribuicao.pdf",
+   "paginas": [
+    113,
+    114
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uc3e5ab3ad4",
+   "camada": "5",
+   "categoria": "assinaturas",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md",
+   "localizador": "páginas 39-40",
+   "posicao": 39,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-servicos-qualificados.pdf",
+   "paginas": [
+    39,
+    40
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue34e32ccf7",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/anbima/codigo-dos-processos.md",
+   "localizador": "páginas 21-22",
+   "posicao": 21,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-codigo-dos-processos.pdf",
+   "paginas": [
+    21,
+    22
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6bca628bcb",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
+   "localizador": "páginas 5-6",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-distribuicao.pdf",
+   "paginas": [
+    5,
+    6
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8f087a21ff",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md",
+   "localizador": "páginas 6-7",
+   "posicao": 6,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-servicos-qualificados.pdf",
+   "paginas": [
+    6,
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ue6abfee274",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/b3/manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3.md",
+   "localizador": "páginas 6-7",
+   "posicao": 6,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3.pdf",
+   "paginas": [
+    6,
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ucc16f69a2f",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/b3/manual-de-procedimentos-operacionais-da-central-depositaria-de-renda-variavel-b3.md",
+   "localizador": "páginas 83-84",
+   "posicao": 83,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-procedimentos-operacionais-da-central-depositaria-de-renda-variavel-b3.pdf",
+   "paginas": [
+    83,
+    84
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u4a4ea5eaba",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/b3/manual-do-emissor-anexos.md",
+   "localizador": "páginas 138-139",
+   "posicao": 138,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-do-emissor-anexos.pdf",
+   "paginas": [
+    138,
+    139
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6c49194193",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/b3/regulamento-da-camara-b3.md",
+   "localizador": "páginas 25-26",
+   "posicao": 25,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-regulamento-da-camara-b3.pdf",
+   "paginas": [
+    25,
+    26
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ude615d5d7d",
+   "camada": "5",
+   "categoria": "quebra-pagina",
+   "norma": "autorregulacao/b3/regulamento-da-infraestrutura-para-financiamento-b3.md",
+   "localizador": "páginas 27-28",
+   "posicao": 27,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-regulamento-da-infraestrutura-para-financiamento-b3.pdf",
+   "paginas": [
+    27,
+    28
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uafed97ae94",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u5f1406ad9e",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-distribuicao.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ucbbc08c887",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/b3/manual-de-normas-plataforma-imobiliaria-integracao-4088.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-normas-plataforma-imobiliaria-integracao-4088.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u62ea9d363b",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/b3/manual-de-procedimentos-operacionais-da-camara-b3.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-procedimentos-operacionais-da-camara-b3.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "udf5f4d361e",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/b3/manual-do-emissor-anexos.md",
+   "localizador": "página 7",
+   "posicao": 7,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-do-emissor-anexos.pdf",
+   "paginas": [
+    7
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u93758574d2",
+   "camada": "5",
+   "categoria": "sumario",
+   "norma": "autorregulacao/b3/regulamento-do-novo-mercado.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-regulamento-do-novo-mercado.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8f3a63c6f6",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
+   "localizador": "página 31",
+   "posicao": 31,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/anbima-regras-e-procedimentos-do-codigo-de-distribuicao.pdf",
+   "paginas": [
+    31
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u963a08e55f",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/b3/manual-de-administracao-de-risco-da-camara-b3.md",
+   "localizador": "página 16",
+   "posicao": 16,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-administracao-de-risco-da-camara-b3.pdf",
+   "paginas": [
+    16
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uc08a58f107",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/b3/manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u91cc0509aa",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/b3/manual-de-normas-de-letra-financeira.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-normas-de-letra-financeira.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud3d748f239",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/b3/manual-de-procedimentos-operacionais-da-camara-b3.md",
+   "localizador": "página 305",
+   "posicao": 305,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-manual-de-procedimentos-operacionais-da-camara-b3.pdf",
+   "paginas": [
+    305
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub8b988bff5",
+   "camada": "5",
+   "categoria": "tabela",
+   "norma": "autorregulacao/b3/regulamento-de-duplicata-escritural.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/b3-regulamento-de-duplicata-escritural.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  }
+ ]
+}
