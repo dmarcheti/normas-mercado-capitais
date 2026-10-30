@@ -503,6 +503,97 @@ def tem_nome(ementa, pessoas_):
     return ""
 
 
+# ---------------------------------------------------------------- D3 na ementa oficial
+
+PESSOA_OMITIDA = "[pessoa física]"
+AVISO_EMENTA = ("nomes de pessoa física omitidos da ementa do frontmatter; ementa integral na "
+                "seção Ementa")
+_PESSOAS_PADRAO = None
+
+
+def _trechos_de_nome(ementa, pessoas_):
+    """[(ini, fim)] dos trechos da ementa com duas ou mais palavras capitalizadas seguidas que
+    são, na ordem, partes do nome de uma pessoa da lista ("da", "de"... e iniciais no meio)."""
+    toks = [(m.start(), m.end(), m.group(0), _dobrar(m.group(0)).strip(".")) for m in
+            re.finditer(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’.\-]*", ementa or "")]
+    nomes = []
+    for p in pessoas_ or ():
+        d = [x for x in (_dobrar(t).strip(".") for t in _palavras_nome(p))
+             if x not in _LIGACAO and len(x) > 1]
+        if len(d) >= 2:
+            nomes.append(d)
+    out, i = [], 0
+    while i < len(toks):
+        ini, _, orig, d = toks[i]
+        melhor = None
+        if orig[0].isupper() and d not in _LIGACAO:
+            for nome in nomes:
+                if d not in nome:
+                    continue
+                pos, ult, n, k = nome.index(d), i, 1, i + 1
+                while k < len(toks) and not ementa[toks[k - 1][1]:toks[k][0]].strip():
+                    o2, d2 = toks[k][2], toks[k][3]
+                    if d2 in _LIGACAO or (len(d2) == 1 and o2[0].isupper()):
+                        k += 1
+                        continue
+                    if not (o2[0].isupper() and d2 in nome[pos + 1:]):
+                        break
+                    pos, ult, n, k = nome.index(d2, pos + 1), k, n + 1, k + 1
+                if n >= 2 and (melhor is None or ult > melhor):
+                    melhor = ult
+        if melhor is None:
+            i += 1
+            continue
+        fim, orig_ult = toks[melhor][1], toks[melhor][2]
+        if len(toks[melhor][3]) > 1:  # ponto final da frase não é do nome (o da inicial é)
+            fim -= len(orig_ult) - len(orig_ult.rstrip("."))
+        out.append((ini, fim))
+        i = melhor + 1
+    return out
+
+
+def trocar_nomes(ementa, pessoas_):
+    """A ementa com cada nome da lista trocado por "[pessoa física]"."""
+    for ini, fim in reversed(_trechos_de_nome(ementa, pessoas_)):
+        ementa = ementa[:ini] + PESSOA_OMITIDA + ementa[fim:]
+    return ementa
+
+
+def _nomes_em_caixa_alta(ementa):
+    """Pessoas da lista de acusados em caixa alta que abre as ementas antigas ("FULANO DE TAL e
+    ACME S.A. – Ementa...")."""
+    e = re.sub(r"\s+", " ", ementa or "").strip()
+    m = re.match(r"^(.{3,400}?)\s+[-–—]\s+(?=\S)", e)
+    return separar_partes(m.group(1)) if m and jc._caixa_alta(m.group(1)) else []
+
+
+def ementa_sem_pessoas(valores, corpo, pessoas_=None, publicada=""):
+    """D3 na ementa de qualquer fonte: (valores, corpo, nº de trocas). Os nomes da lista positiva
+    do julgado (`pessoas_`, ou a de `Pessoas().do_julgado`) e os da lista em caixa alta antes do
+    travessão viram "[pessoa física]" só no frontmatter; o corpo ganha `## Ementa` logo depois do
+    `# título` com a ementa como publicada (`publicada`, ou a do frontmatter), se ainda não tem."""
+    global _PESSOAS_PADRAO
+    ementa = valores.get("ementa") or ""
+    if pessoas_ is None:
+        if _PESSOAS_PADRAO is None:
+            _PESSOAS_PADRAO = Pessoas()
+        pessoas_ = _PESSOAS_PADRAO.do_julgado(valores, corpo)
+    lista = list(pessoas_) + _nomes_em_caixa_alta(publicada) + _nomes_em_caixa_alta(ementa)
+    trechos = _trechos_de_nome(ementa, lista)
+    if not trechos:
+        return valores, corpo, 0
+    inc = [x for x in (valores.get("incerteza") or "").split("; ") if x]
+    novos = dict(valores, ementa=trocar_nomes(ementa, lista),
+                 incerteza="; ".join(dict.fromkeys(inc + [AVISO_EMENTA])))
+    if not re.search(r"(?m)^## Ementa\s*$", corpo):
+        texto = re.sub(r"\s+", " ", publicada or ementa).strip()
+        m = re.search(r"(?m)^# .*\n", corpo)
+        fim = m.end() if m else 0
+        resto = corpo[fim:].lstrip("\n")
+        corpo = corpo[:fim] + "\n## Ementa\n\n" + texto + "\n\n" + resto
+    return novos, corpo, len(trechos)
+
+
 # ---------------------------------------------------------------- validação
 
 

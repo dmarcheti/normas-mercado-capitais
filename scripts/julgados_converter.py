@@ -38,11 +38,17 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import html_bcb  # noqa: E402
 import julgados_baixar as jb  # noqa: E402
 import julgados_comum as jc  # noqa: E402
+import julgados_extracao as je  # noqa: E402
 import pdf_macos  # noqa: E402
 import pii  # noqa: E402
 from inventario import _data_cvm  # noqa: E402
 
 RELATORIOS = os.path.join(jc.RAIZ, "dados", "fase-2d", "relatorios")
+LIGACOES_CRSFN = os.path.join(jc.RAIZ, "dados", "fase-2d", "crsfn-ligacoes.json")
+DADOS_ABERTOS_PAS = os.path.join(jc.RAIZ, "dados", "fase-2d", "inventario", "pas",
+                                 "processo_sancionador.csv")
+_LIGACOES_CRSFN = None  # carregam na 1ª consulta (ou vêm prontas, nos testes)
+_FASES_PAS = None
 MIN_CARACTERES_PAGINA = 20
 MIN_PAGINAS_REPETIDA = 3
 COBERTURA_BAIXA = 0.9
@@ -693,6 +699,56 @@ def _pas_da_noticia(item, reg, cv, incerteza):
     return titulo, ext["data"], ext["relator"], ementa, fonte_ementa, secoes, fonte, res
 
 
+def ligacoes_crsfn(caminho=LIGACOES_CRSFN):
+    """{processo CVM normalizado: [ids de acórdão do CRSFN]} (crsfn.py); sem o arquivo, {}."""
+    if not os.path.exists(caminho):
+        return {}
+    with open(caminho, encoding="utf-8") as f:
+        return json.load(f).get("ligacoes") or {}
+
+
+def fases_pas(caminho=DADOS_ABERTOS_PAS):
+    """{NUP só dígitos: (fase atual, data da última movimentação)} dos dados abertos do PAS."""
+    if not os.path.exists(caminho):
+        return {}
+    import csv
+    out = {}
+    with open(caminho, encoding="latin-1", newline="") as f:
+        for row in csv.DictReader(f, delimiter=";"):
+            nup_ = re.sub(r"\D", "", row.get("NUP") or "")
+            if nup_:
+                out[nup_] = ((row.get("Fase_Atual") or "").strip(),
+                             (row.get("Data_Ultima_Movimentacao") or "").strip())
+    return out
+
+
+def recurso_crsfn(valores, ligacoes=None, fases=None):
+    """Aviso de recurso ao CRSFN para o `incerteza` do PAS: os acórdãos ligados ao processo
+    (crsfn-ligacoes.json) ou, sem acórdão, a fase "Recurso CRSFN" dos dados abertos; senão ""."""
+    global _LIGACOES_CRSFN, _FASES_PAS
+    if ligacoes is None:
+        if _LIGACOES_CRSFN is None:
+            _LIGACOES_CRSFN = ligacoes_crsfn()
+        ligacoes = _LIGACOES_CRSFN
+    chaves = jc.processos(valores.get("processo", "")) + [valores.get("nup") or ""]
+    ids = []
+    for k in chaves:
+        for i in ligacoes.get(k, []) if k else []:
+            if i not in ids:
+                ids.append(i)
+    if ids:
+        return "recurso ao CRSFN: " + ", ".join(ids)
+    if fases is None:
+        if _FASES_PAS is None:
+            _FASES_PAS = fases_pas()
+        fases = _FASES_PAS
+    nup_ = re.sub(r"\D", "", valores.get("nup") or jc.nup(valores.get("processo", "")))
+    fase, data = fases.get(nup_, ("", "")) if nup_ else ("", "")
+    if fase == "Recurso CRSFN":
+        return "recurso ao CRSFN em andamento (dados abertos, %s)" % data
+    return ""
+
+
 def converter_item(item, pasta, pm=pdf_macos):
     """(valores do frontmatter, corpo, Conversao) de um julgado já baixado em `pasta`."""
     reg = jb.ler_registro(pasta)
@@ -705,7 +761,7 @@ def converter_item(item, pasta, pm=pdf_macos):
     titulo, data, relator, ementa, fonte_ementa = "", item.get("data"), item.get("relator", ""), \
         "", "titulo"
     secoes, rito = [], item.get("rito", "")
-    res_extrato = None
+    res_extrato, ementa_pag = None, ""
 
     if tipo == "pas" and item.get("origem") == "noticia":
         titulo, d, rel, ementa, fonte_ementa, secoes, fonte, res_extrato = _pas_da_noticia(
@@ -836,6 +892,15 @@ def converter_item(item, pasta, pm=pdf_macos):
         "baixado_em": fonte["baixado_em"], "nivel_verificacao": cv.nivel,
         "incerteza": "; ".join(dict.fromkeys(x for x in incerteza if x)),
     }
+    if tipo == "pas":
+        aviso = recurso_crsfn(valores)
+        if aviso:
+            valores["incerteza"] = "; ".join(dict.fromkeys(
+                [x for x in valores["incerteza"].split("; ") if x] + [aviso]))
+    # D3: nome de pessoa física na ementa sai do frontmatter; a publicada fica em ## Ementa
+    publicada = re.sub(r"^\s*Ementa\s*:\s*", "", re.sub(r"\s+", " ", ementa_pag), flags=re.I)
+    publicada = pii.limpar(publicada).strip()
+    valores, corpo_md, _ = je.ementa_sem_pessoas(valores, corpo_md, publicada=publicada)
     return valores, corpo_md, cv
 
 

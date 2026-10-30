@@ -23,7 +23,7 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 117 | pas | 16/1999 | 2000-11-23 | — | — | ANTÔNIO AMARAL JÚNIOR, MARCO ANTÔNIO DE BULHÕES MARCIAL, OLOV FOLKE BLOMQVIST, OSCAR GEORGE COX, VEIKKO OLAVI SARIOLA Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
+| art. 117 | pas | 16/1999 | 2000-11-23 | — | — | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
 | art. 117 | pas | 19957.003549/2018-12 | 2023-10-31 | absolvicao | — | Apuração de operações com contratos derivativos de taxas de juros, com eventual uso de práticas não equitativas, em infração à Instrução CVM nº 8/1979, II, “d”. Absolvições. | cvm/pas/2023/19957-003549-2018-12.md |
 
 ## art. 132
@@ -36,7 +36,7 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 140 | pas | 16/1999 | 2000-11-23 | — | — | ANTÔNIO AMARAL JÚNIOR, MARCO ANTÔNIO DE BULHÕES MARCIAL, OLOV FOLKE BLOMQVIST, OSCAR GEORGE COX, VEIKKO OLAVI SARIOLA Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
+| art. 140 | pas | 16/1999 | 2000-11-23 | — | — | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
 
 ## art. 142
 
@@ -54,7 +54,7 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 154 | pas | 16/1999 | 2000-11-23 | — | — | ANTÔNIO AMARAL JÚNIOR, MARCO ANTÔNIO DE BULHÕES MARCIAL, OLOV FOLKE BLOMQVIST, OSCAR GEORGE COX, VEIKKO OLAVI SARIOLA Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
+| art. 154 | pas | 16/1999 | 2000-11-23 | — | — | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
 
 ## art. 155
 
@@ -67,7 +67,7 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 156 | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de Eike Fuhrken Batista por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
+| art. 156 | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de [pessoa física] por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
 
 ## art. 176
 
@@ -80,4 +80,4 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 254 | pas | 16/1999 | 2000-11-23 | — | — | ANTÔNIO AMARAL JÚNIOR, MARCO ANTÔNIO DE BULHÕES MARCIAL, OLOV FOLKE BLOMQVIST, OSCAR GEORGE COX, VEIKKO OLAVI SARIOLA Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |
+| art. 254 | pas | 16/1999 | 2000-11-23 | — | — | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Abuso e desvio de poder de controlador. Alienação de controle sem realização de oferta pública para aquisição de ações. Não atendimento a intimações CVM. Não encaminhamento de informações. Composição do Conselho de Administração sem o quórum mínimo exigido por lei. Dilapidação do patrimônio da cia. aberta Prometal Produtos Metalúrgicos S/A. - Irregularidades configuradas. Penalidades. | cvm/pas/2000/16-1999.md |

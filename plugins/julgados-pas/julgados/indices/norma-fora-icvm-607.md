@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º, § 4º | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de Eike Fuhrken Batista por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
+| art. 4º, § 4º | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de [pessoa física] por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
 
 ## art. 5º
 
@@ -36,7 +36,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 70 | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de Eike Fuhrken Batista por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
+| art. 70 | pas | 19957.010833/2018-45 | 2021-03-23 | — | — | Responsabilidade de [pessoa física] por ter votado, em situação de conflito de interesses, na reunião do conselho de administração da MMX Mineração e Metálicos S.A. – EM RECUPERAÇÃO JUDICIAL, ocorrida em 10.04.2015. Descumprimento ao art. 156, caput, da Lei n° 6.404/1976. Multa. | cvm/pas/2021/19957-010833-2018-45.md |
 
 ## art. 82
 

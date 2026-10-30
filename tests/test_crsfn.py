@@ -7,16 +7,27 @@ import shutil
 import sys
 import tempfile
 import unittest
+from unittest import mock
 from contextlib import redirect_stderr
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 import crsfn  # noqa: E402
+import julgados_extracao as je  # noqa: E402
 import pdf_macos  # noqa: E402
 import validar  # noqa: E402
 
 FIX = os.path.join(AQUI, "fixtures", "crsfn")
+
+
+def setUpModule():
+    # lista positiva hermética: sem os dados abertos de dados/
+    je._PESSOAS_PADRAO = je.Pessoas(acusados={}, partes_tc={}, descricoes={})
+
+
+def tearDownModule():
+    je._PESSOAS_PADRAO = None
 PREF = ("https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/"
         "busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/")
 
@@ -277,6 +288,27 @@ class TestSecoes(unittest.TestCase):
         d, aviso = crsfn.escolher_data([("2013-12-10", "fecho")], 2014)
         self.assertEqual(d, "2013-12-10")
         self.assertIn("fora do ano", aviso)
+
+
+class TestEmentaSemPessoas(unittest.TestCase):
+    def test_nome_do_acusado_sai_da_ementa_do_frontmatter(self):
+        pasta = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, pasta)
+        html = ler("sei-cvm-10372-100012-2021-00.html").replace(
+            b"interna da BSM.", b"interna da BSM sobre Fulano Exemplar Teste.")
+        cam = os.path.join(pasta, "fonte.html")
+        with open(cam, "wb") as f:
+            f.write(html)
+        lista = je.Pessoas(acusados={"19957007543201903": ["Fulano Exemplar Teste"]},
+                           partes_tc={}, descricoes={})
+        reg = {"id": "crsfn-10372-100012-2021-00"}
+        with mock.patch.object(je, "_PESSOAS_PADRAO", lista):
+            valores, corpo, _ = crsfn.converter_item(reg, ISEI, cam, {}, PdfFalso())
+        self.assertIn("Apuração interna da BSM sobre [pessoa física].", valores["ementa"])
+        self.assertEqual(valores["ementa_fonte"], "crsfn")
+        self.assertIn(je.AVISO_EMENTA, valores["incerteza"])
+        self.assertIn("Apuração interna da BSM sobre Fulano Exemplar Teste.", corpo)
+        self.assertEqual(corpo.count("## Ementa\n"), 1)
 
 
 class TestPii(unittest.TestCase):

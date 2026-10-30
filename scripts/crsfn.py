@@ -32,6 +32,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import julgados_comum as jc  # noqa: E402
 import julgados_converter as jconv  # noqa: E402
+import julgados_extracao as je  # noqa: E402
 import pdf_macos  # noqa: E402
 import pii  # noqa: E402
 
@@ -682,6 +683,7 @@ def converter_item(reg, item, cam_fonte, meta, pm=pdf_macos):
                "nivel_verificacao": fonte["nivel"], "incerteza": "; ".join(incerteza)}
     info = {"motor": fonte["motor"], "retirado": "\n".join(retirado), "antes_pii": corpo_bruto,
             "secoes": [n for n, _ in secs], "avisos": avisos}
+    valores, corpo, _ = je.ementa_sem_pessoas(valores, corpo)  # D3 na ementa do frontmatter
     return valores, corpo, info
 
 

@@ -156,7 +156,7 @@ Em cada plugin: `.claude-plugin/plugin.json`, `skills/consultar-julgados/SKILL.m
 
 - `<proc>`: número do processo em minúsculas, só dígitos, letras e hífen (`19957-011607-2024-20`, `rj2015-1234`, `sp2010-0077`). Repetição do mesmo processo no mesmo tipo: sufixo `-2`, `-3`.
 - `AAAA` é o ano da sessão ou da decisão, igual ao ano de `data`.
-- Nenhum nome de pessoa física em `id`, nome de arquivo, `ementa` extraída (`ementa_fonte` `extracao` ou `titulo`) ou linha de índice.
+- Nenhum nome de pessoa física em `id`, nome de arquivo, `ementa` (de qualquer `ementa_fonte`) ou linha de índice. Na `ementa` oficial (`cvm`, `crsfn`), o nome da lista positiva do julgado (acusados dos dados abertos, compromitentes e proponentes, "Acusado(s):" do corpo, partes do título, lista em caixa alta antes do travessão) vira `[pessoa física]` só no frontmatter; o corpo guarda a ementa como publicada em `## Ementa`, logo depois do `# título`, e o `incerteza` registra "nomes de pessoa física omitidos da ementa do frontmatter; ementa integral na seção Ementa".
 
 ### Frontmatter dos julgados
 
@@ -196,7 +196,7 @@ Citações (`normas_citadas` e `dispositivos_citados`): o id é o do `plugins/no
 
 ### Corpo
 
-`# <título da fonte>` na primeira linha não vazia e, depois, uma seção `## ` por peça, na ordem da fonte: `## Extrato`, `## Relatório`, `## Voto`, `## Declaração de voto`, `## Manifestação da área técnica`, `## Parecer do Comitê de Termo de Compromisso`, `## Termo de compromisso`, `## Decisão`; a peça sem cabeçalho reconhecível fica em `## Texto`. No PDF anual de decisões antigas sem divisão possível, uma seção `## ` por decisão. Texto como a fonte publica, sem reescrita; dado pessoal cortado (CPF, RG, endereço, e-mail, telefone, data de nascimento, dados bancários e a qualificação pessoal do termo de compromisso) fica marcado `[dado pessoal retirado]`.
+`# <título da fonte>` na primeira linha não vazia e, depois, uma seção `## ` por peça, na ordem da fonte: `## Ementa` (a ementa publicada, quando a do frontmatter omite nomes; no `acordao-crsfn`, a do acórdão), `## Extrato`, `## Relatório`, `## Voto`, `## Declaração de voto`, `## Manifestação da área técnica`, `## Parecer do Comitê de Termo de Compromisso`, `## Termo de compromisso`, `## Decisão`; a peça sem cabeçalho reconhecível fica em `## Texto`. No PDF anual de decisões antigas sem divisão possível, uma seção `## ` por decisão. Texto como a fonte publica, sem reescrita; dado pessoal cortado (CPF, RG, endereço, e-mail, telefone, data de nascimento, dados bancários e a qualificação pessoal do termo de compromisso) fica marcado `[dado pessoal retirado]`.
 
 ### Validação e índices dos julgados
 

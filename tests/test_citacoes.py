@@ -28,6 +28,11 @@ def disp(texto, **kw):
 # Conjunto rotulado à mão: (frase, dispositivos esperados). Frases tiradas do acervo
 # (pareceres, ofícios e autorregulação) ou montadas com as variantes do plano.
 ROTULADAS = [
+    # acórdão do CRSFN (SEI, 2023): "6074/2019" é erro de digitação da fonte para a ICVM 607;
+    # ICVM com 4 dígitos não existe: a menção segura o "art. 70" e não vira citação
+    ("c/c art. 15 do Código de Processo Civil e do art. 70 da Instrução CVM nº 6074/2019, a exigir "
+     "a devolução do prazo recursal",
+     ["fora:lei-13105 art. 15"]),
     ("atende aos requisitos estabelecidos no artigo 100, parágrafo 1º, da Lei nº 6.404/76. 67 Vide",
      ["lei-6404 art. 100, § 1º"]),
     ("nos termos do artigo 19 da Resolução CVM nº 44/21, configura infração grave, para os fins previstos "
@@ -198,6 +203,8 @@ class TestFormato(unittest.TestCase):
         mencionadas = normas_mencionadas("a Resolução CVM nº 175 e a Lei 6.404", ids=IDS)
         self.assertEqual(mencionadas, ["cvm-res-175", "lei-6404"])
         self.assertEqual(formatar_normas_citadas(c, mencionadas), "lei-6404; fora:icvm-358; cvm-res-175")
+        # ICVM de 4 dígitos (erro da fonte) não entra nem como norma mencionada
+        self.assertEqual(normas_mencionadas("a ICVM 6074/2019 e a Lei 6.404", ids=IDS), ["lei-6404"])
 
     def test_rotulos_e_ids(self):
         self.assertEqual(citacoes.id_do_rotulo("res-cvm-175"), "cvm-res-175")

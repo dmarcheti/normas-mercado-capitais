@@ -82,6 +82,14 @@ class ProcessoTest(unittest.TestCase):
         self.assertEqual(jc.normalizar_processo("Processo Sancionador 22/1996"), "22-1996")
         self.assertEqual(jc.normalizar_processo("PAS 6/2007"), "06-2007")
 
+    def test_protocolo_antigo_sem_prefixo_nao_casa(self):
+        # "AA/NNNN" é protocolo (RJ ou SP, sem dizer qual); os PAS antigos guardam "NN/AAAA"
+        # (nº/ano) e não o protocolo: não há como casar com segurança, nem virar "nº/ano"
+        for t in ("98/3431", "Processo CVM 97/0873", "96/2035", "99/1946", "00/32"):
+            self.assertEqual(jc.normalizar_processo(t), "", t)
+        self.assertEqual(jc.normalizar_processo("PAS 08/2000"), "08-2000")
+        self.assertEqual(jc.normalizar_processo("RJ98/4966"), "rj1998-4966")
+
     def test_celula_com_dois_numeros(self):
         cel = "19957.010135/2018-40 (RJ2018/7396)"
         self.assertEqual(jc.processos(cel), ["19957-010135-2018-40", "rj2018-7396"])

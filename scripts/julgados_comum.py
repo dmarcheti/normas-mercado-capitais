@@ -84,6 +84,13 @@ _ANTIGO = re.compile(r"(?<![A-Za-z])(RJ|SP|IA|BSB|DF)\s*[-/]?\s*(\d{4}|\d{2})\s*
 _CURTO = re.compile(r"(?<![0-9A-Za-zÀ-ÿ/.\-])(\d{1,3})\s*/\s*((?:19|20)\d{2})(?![\d/])")
 
 
+_ANO_MIN = 1976  # criação da CVM
+
+
+def _ano_atual():
+    return datetime.date.today().year
+
+
 def _ano4(a):
     a = int(a)
     if a >= 100:
@@ -109,13 +116,14 @@ def _achados(texto):
             out.append((m.start(), m.end(), norm, False))
             ocupado.append((m.start(), m.end()))
     for m in _CURTO.finditer(texto):
-        if livre(m.start(), m.end()):
+        # "96/2035", "99/1946": protocolo sem prefixo (AA/NNNN), não PAS nº/ano
+        if livre(m.start(), m.end()) and _ANO_MIN <= int(m.group(2)) <= _ano_atual():
             out.append((m.start(), m.end(), "%s-%s" % (str(int(m.group(1))).zfill(2), m.group(2)),
                         False))
             ocupado.append((m.start(), m.end()))
     if not out:
         m = _CURTO_2.match(texto)
-        if m:
+        if m and int(m.group(1)):
             out.append((m.start(1), m.end(2), "%s-%d" % (str(int(m.group(1))).zfill(2),
                                                           _ano4(m.group(2))), False))
     return sorted(out)

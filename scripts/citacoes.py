@@ -276,9 +276,17 @@ def _mencoes(t):
     mencoes, fim = [], -1
     for ini, f, rot in achadas:
         if ini >= fim:
-            mencoes.append({"ini": ini, "fim": f, "rotulo": rot, "parte": ""})
+            mencoes.append({"ini": ini, "fim": f, "rotulo": rot, "parte": "",
+                            "impossivel": _impossivel(rot)})
             fim = f
     return mencoes
+
+
+def _impossivel(rotulo):
+    """Número que a espécie nunca teve (ICVM com 4 dígitos: "6074/2019" por "607/2019"). A
+    menção fica no lugar, para o artigo não se ligar à norma vizinha, mas não vira citação."""
+    m = re.fullmatch(r"icvm-(\d+)", rotulo)
+    return bool(m and int(m.group(1)) >= 1000)
 
 
 ROMANOS = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
@@ -328,10 +336,12 @@ def _resolver_anexos(t, mencoes):
             if an:
                 alvo = _anafora(an, mencoes + novas, a.start(), None)
                 if alvo:
-                    novas.append({"ini": a.start(), "fim": an.end(), "rotulo": alvo["rotulo"], "parte": parte})
+                    novas.append({"ini": a.start(), "fim": an.end(), "rotulo": alvo["rotulo"], "parte": parte,
+                                  "impossivel": alvo.get("impossivel", False)})
                     continue
         if alvo is not None:
-            novas.append({"ini": a.start(), "fim": alvo["fim"], "rotulo": alvo["rotulo"], "parte": parte})
+            novas.append({"ini": a.start(), "fim": alvo["fim"], "rotulo": alvo["rotulo"], "parte": parte,
+                          "impossivel": alvo.get("impossivel", False)})
         elif a.group("normativo"):
             antes = [m for m in mencoes if m["fim"] <= a.start() and m["rotulo"].startswith("res-cvm-")]
             rotulo = antes[-1]["rotulo"] if antes else "res-cvm-175"
@@ -584,7 +594,7 @@ def extrair_citacoes(texto, ids=None, documento=None):
             ligados[k] = _ligacao_esquerda(t, d, mencoes)
     saida = []
     for d, alvo, fim in zip(brutos, ligados, fins):
-        if alvo is None:
+        if alvo is None or alvo.get("impossivel"):
             continue
         rot = alvo["rotulo"]
         trecho = _trecho(t, d["ini"], max(fim, d["fim"]))
@@ -621,7 +631,8 @@ def normas_mencionadas(texto, ids=None):
     if ids is None:
         ids = carregar_ids()
     t, _mapa = _normalizar(texto)
-    return list(dict.fromkeys(_norma(m["rotulo"], ids) for m in _resolver_anexos(t, _mencoes(t))))
+    return list(dict.fromkeys(_norma(m["rotulo"], ids) for m in _resolver_anexos(t, _mencoes(t))
+                              if not m.get("impossivel")))
 
 
 def dispositivo(c):

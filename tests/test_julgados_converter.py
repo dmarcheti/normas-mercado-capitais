@@ -14,6 +14,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 import julgados_baixar as jb  # noqa: E402
 import julgados_comum as jc  # noqa: E402
 import julgados_converter as conv  # noqa: E402
+import julgados_extracao as je  # noqa: E402
 import pdf_macos  # noqa: E402
 
 FIX = os.path.join(os.path.dirname(__file__), "fixtures", "julgados")
@@ -24,6 +25,17 @@ CPF = "123.456." + "789-09"  # montado em partes: nenhum CPF literal no reposit�
 def fixture(nome):
     with open(os.path.join(FIX, nome), "rb") as f:
         return f.read()
+
+
+def setUpModule():
+    # lista positiva sem os dados de dados/ (hermético): só corpo e título do julgado
+    je._PESSOAS_PADRAO = je.Pessoas(acusados={}, partes_tc={}, descricoes={})
+    conv._LIGACOES_CRSFN, conv._FASES_PAS = {}, {}
+
+
+def tearDownModule():
+    je._PESSOAS_PADRAO = None
+    conv._LIGACOES_CRSFN = conv._FASES_PAS = None
 
 
 class PdfFalso:
@@ -218,6 +230,66 @@ class ConverterTest(unittest.TestCase):
         self.assertEqual(pdf["conferencia"], "pypdf")
         self.assertGreater(pdf["cobertura"], 0.6)
         self.gravar_e_validar(valores, corpo)
+
+    def test_pas_com_nome_na_ementa_da_pagina(self):
+        pagina = fixture("pas-pagina.html").replace(
+            "Ementa: Apurar responsabilidades por".encode(),
+            "Ementa: Apurar a responsabilidade de Beltrano Exemplar por".encode())
+        montar_cache(self.pasta(PAS), [
+            ("pagina", "PAS", PAS["url"], "01-pagina.html", pagina, "text/html; charset=utf-8"),
+            ("pdf", "Decisão completa", PDF_PAS, "02-pdf.pdf", b"%PDF-pas", "application/pdf")])
+        pm = PdfFalso({"02-pdf.pdf": "\f".join(PAGINAS_PAS) + "\f"})
+        lista = je.Pessoas(acusados={}, partes_tc={}, descricoes={
+            PAS["id"]: ("pas", "BELTRANO EXEMPLAR Apurar a responsabilidade. Multa.")})
+        with mock.patch.object(je, "_PESSOAS_PADRAO", lista), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=["\n".join(PAGINAS_PAS)]):
+            valores, corpo, cv = conv.converter_item(PAS, self.pasta(PAS), pm)
+        self.assertTrue(valores["ementa"].startswith(
+            "Apurar a responsabilidade de [pessoa física] por infração"))
+        self.assertEqual(valores["ementa_fonte"], "cvm")
+        self.assertIn("nomes de pessoa física omitidos da ementa do frontmatter; ementa integral "
+                      "na seção Ementa", valores["incerteza"])
+        self.assertEqual([s for s in corpo.splitlines() if s.startswith("## ")],
+                         ["## Ementa", "## Extrato", "## Relatório", "## Voto"])
+        self.assertIn("## Ementa\n\nApurar a responsabilidade de Beltrano Exemplar por", corpo)
+        self.gravar_e_validar(valores, corpo)
+
+    def test_recurso_crsfn_por_ligacao_ou_dados_abertos(self):
+        lig = {"rj2019-5673": ["crsfn-10372-100012-2021-00"], "08-2000": ["crsfn-4217"],
+               "19957-007543-2019-03": ["crsfn-10372-100012-2021-00", "crsfn-outro"]}
+        fases = {"19957000456202451": ("Recurso CRSFN", "2026-09-30"),
+                 "19957000999202411": ("Finalizado", "2025-01-02")}
+        v = {"processo": "19957.007543/2019-03; RJ2019/5673", "nup": "19957-007543-2019-03"}
+        self.assertEqual(conv.recurso_crsfn(v, lig, fases),
+                         "recurso ao CRSFN: crsfn-10372-100012-2021-00, crsfn-outro")
+        self.assertEqual(conv.recurso_crsfn({"processo": "08/2000", "nup": ""}, lig, fases),
+                         "recurso ao CRSFN: crsfn-4217")
+        v = {"processo": "19957.000456/2024-51", "nup": "19957-000456-2024-51"}
+        self.assertEqual(conv.recurso_crsfn(v, lig, fases),
+                         "recurso ao CRSFN em andamento (dados abertos, 2026-09-30)")
+        v = {"processo": "19957.000999/2024-11", "nup": "19957-000999-2024-11"}
+        self.assertEqual(conv.recurso_crsfn(v, lig, fases), "")
+        self.assertEqual(conv.recurso_crsfn(v, {}, {}), "")
+
+    def test_fases_dos_dados_abertos(self):
+        cam = os.path.join(self.raiz, "processo_sancionador.csv")
+        with open(cam, "w", encoding="latin-1", newline="") as f:
+            f.write("NUP;Objeto;Fase_Atual;Subfase_Atual;Data_Ultima_Movimentacao\n"
+                    "19957000456202451;Apurar;Recurso CRSFN;Envio dos autos ao CRSFN;2026-09-30\n")
+        self.assertEqual(conv.fases_pas(cam), {"19957000456202451": ("Recurso CRSFN", "2026-09-30")})
+        self.assertEqual(conv.fases_pas(os.path.join(self.raiz, "nao-existe.csv")), {})
+        self.assertEqual(conv.ligacoes_crsfn(os.path.join(self.raiz, "nao-existe.json")), {})
+
+    def test_pas_com_recurso_ao_crsfn_no_incerteza(self):
+        montar_cache(self.pasta(PAS), [
+            ("pagina", "PAS", PAS["url"], "01-pagina.html", fixture("pas-pagina.html"),
+             "text/html; charset=utf-8"),
+            ("pdf", "Decisão completa", PDF_PAS, "02-pdf.pdf", b"%PDF-pas", "application/pdf")])
+        pm = PdfFalso({"02-pdf.pdf": "\f".join(PAGINAS_PAS) + "\f"})
+        with mock.patch.object(conv, "_LIGACOES_CRSFN", {"19957-000456-2024-51": ["crsfn-x"]}), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=["\n".join(PAGINAS_PAS)]):
+            valores, corpo, cv = conv.converter_item(PAS, self.pasta(PAS), pm)
+        self.assertIn("recurso ao CRSFN: crsfn-x", valores["incerteza"])
 
     def test_pas_sem_ocr_disponivel(self):
         montar_cache(self.pasta(PAS), [

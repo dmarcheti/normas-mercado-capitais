@@ -147,6 +147,62 @@ class PessoasTest(unittest.TestCase):
                                      "pas")
         self.assertEqual(pas, ["FULANO DE TAL"])
 
+    def test_troca_nomes_da_lista_na_ementa(self):
+        lista = ["Fulano Beltrano de Tal Exemplar", "Cicrano J. Exemplo"]
+        casos = [
+            ("Apurar a responsabilidade de Fulano Beltrano de Tal Exemplar por infração.",
+             "Apurar a responsabilidade de [pessoa física] por infração."),
+            ("Multa a Fulano Exemplar e a Cicrano J. Exemplo; absolvição de Acme S.A.",
+             "Multa a [pessoa física] e a [pessoa física]; absolvição de Acme S.A."),
+            ("FULANO BELTRANO DE TAL EXEMPLAR – Uso de informação privilegiada.",
+             "[pessoa física] – Uso de informação privilegiada."),
+            # ponto final da frase fica; o da inicial sai com o nome
+            ("Recurso de Fulano Exemplar. Multa a Cicrano J. Exemplo.",
+             "Recurso de [pessoa física]. Multa a [pessoa física]."),
+            # sobrenome sozinho, ordem trocada e vírgula no meio não são nome da lista
+            ("Multa a Exemplar, diretor; Exemplar Beltrano; Fulano, Exemplar.",
+             "Multa a Exemplar, diretor; Exemplar Beltrano; Fulano, Exemplar."),
+        ]
+        for antes, depois in casos:
+            self.assertEqual(ex.trocar_nomes(antes, lista), depois, antes)
+        self.assertEqual(ex.trocar_nomes("Sem nome.", []), "Sem nome.")
+
+    def test_ementa_sem_pessoas_no_frontmatter_e_integral_no_corpo(self):
+        msg = ("nomes de pessoa física omitidos da ementa do frontmatter; ementa integral na "
+               "seção Ementa")
+        v = {"id": "cvm-pas-x", "tipo": "pas", "processo": "", "nup": "",
+             "ementa": "Apurar a responsabilidade de Fulano Exemplar por infração. Multa.",
+             "incerteza": "data aproximada"}
+        corpo = "# PAS CVM nº X\n\n## Voto\n\nTexto.\n"
+        v2, c2, n = ex.ementa_sem_pessoas(
+            v, corpo, ["Fulano Exemplar"],
+            publicada="FULANO EXEMPLAR - Apurar a responsabilidade de Fulano Exemplar por "
+                      "infração. Multa.")
+        self.assertEqual(n, 1)
+        self.assertEqual(v2["ementa"], "Apurar a responsabilidade de [pessoa física] por "
+                                       "infração. Multa.")
+        self.assertEqual(v2["incerteza"], "data aproximada; " + msg)
+        self.assertEqual(c2, "# PAS CVM nº X\n\n## Ementa\n\nFULANO EXEMPLAR - Apurar a "
+                             "responsabilidade de Fulano Exemplar por infração. Multa.\n\n"
+                             "## Voto\n\nTexto.\n")
+        self.assertEqual(v["ementa"][:30], "Apurar a responsabilidade de F")  # não muda o original
+        # seção Ementa já existe: o corpo fica como está
+        corpo_em = "# T\n\n## Ementa\n\nApurar a responsabilidade de Fulano Exemplar.\n"
+        _, c3, _ = ex.ementa_sem_pessoas(v, corpo_em, ["Fulano Exemplar"])
+        self.assertEqual(c3, corpo_em)
+        # sem nome da lista: nada muda
+        v4, c4, n4 = ex.ementa_sem_pessoas(dict(v, ementa="Multa."), corpo, ["Fulano Exemplar"])
+        self.assertEqual((v4["ementa"], v4["incerteza"], c4, n4), ("Multa.", "data aproximada",
+                                                                   corpo, 0))
+
+    def test_caixa_alta_antes_do_travessao_entra_na_lista(self):
+        v = {"id": "x", "tipo": "pas", "processo": "", "nup": "", "incerteza": "",
+             "ementa": "BELTRANO EXEMPLAR E ACME S.A. – Beltrano Exemplar negociou ações."}
+        v2, _, n = ex.ementa_sem_pessoas(v, "# T\n", [])
+        self.assertEqual(v2["ementa"], "[pessoa física] E ACME S.A. – [pessoa física] negociou "
+                                       "ações.")
+        self.assertEqual(n, 2)
+
     def test_carrega_csv_e_tabelas_de_dados(self):
         d = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, d)
