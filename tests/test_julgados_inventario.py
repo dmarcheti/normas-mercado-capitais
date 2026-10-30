@@ -197,7 +197,7 @@ class MontarTest(unittest.TestCase):
         self.assertEqual(r["tipo"], "termo-compromisso")
         self.assertEqual(len(r["termo_urls"]), 2)
         self.assertTrue(any("suspeito" in x for x in r["incerteza"]))
-        self.assertEqual(r["plugin"], "julgados-sancionadores")
+        self.assertEqual(r["plugin"], "julgados-tc-crsfn")
         # o item de 2002 não vira TC
         self.assertEqual(self.por_id["cvm-col-20020416-d09"]["tipo"], "decisao-colegiado")
 
@@ -246,6 +246,83 @@ class MontarTest(unittest.TestCase):
     def test_contagens(self):
         c = ji.contagens(self.regs)
         self.assertEqual(c["decisao-antiga"], {"ate-2009": 2, "total": 2})
+
+
+G = "https://www.gov.br/cvm/pt-br/assuntos/noticias"
+SEI = "https://sei.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?id_documento=%s"
+
+
+def entrada(nup, noticia, data, pecas=(), extratos=(), data_fonte="noticia"):
+    return {"nup": nup, "noticia": noticia, "titulo": "CVM multa acusados", "data": data,
+            "data_fonte": data_fonte, "pecas": list(pecas), "outras_noticias": [],
+            "extratos": [{"id_documento": i, "protocolo": "p" + i, "serie": "Extrato 1",
+                          "data_pub": d, "resumo": "PAS CVM nº %s - Apurar. Multa." % nup,
+                          "url": SEI % i} for i, d in extratos]}
+
+
+class NoticiasTest(unittest.TestCase):
+    """PAS fora da listagem: os pendentes da planilha e os julgados depois da listagem."""
+
+    @classmethod
+    def setUpClass(cls):
+        with tempfile.TemporaryDirectory() as d:
+            p = os.path.join(d, "p.xlsx")
+            with open(p, "wb") as f:
+                f.write(PLANILHA)
+            planilha = ji.ler_planilha(p)
+        noticias = {
+            # pendente da planilha: ganha a notícia, as peças e o extrato
+            "19957.005011/2020-67": entrada(
+                "19957.005011/2020-67", G + "/2022/cvm-multa", "2022-02-16",
+                [(G + "/anexos/2022/voto.pdf", "voto"), (G + "/anexos/2022/rel.pdf", "relatório")],
+                [("101", "2022-03-01"), ("102", "2022-03-10")]),
+            # já na listagem: fica como está
+            "19957.011607/2024-20": entrada("19957.011607/2024-20", G + "/2025/x", "2025-05-27"),
+            # depois da listagem, só com extrato
+            "19957.000333/2025-33": entrada("19957.000333/2025-33", "", "2025-07-20",
+                                            extratos=[("103", "2025-07-20")],
+                                            data_fonte="extrato"),
+            # depois da listagem, com notícia
+            "19957.000444/2025-44": entrada("19957.000444/2025-44", G + "/2025/y", "2025-12-09",
+                                            [(G + "/anexos/2025/v.pdf", "voto")]),
+            # antes da janela e fora da planilha: fica fora
+            "19957.000555/2023-55": entrada("19957.000555/2023-55", G + "/2023/z", "2023-04-04"),
+            # data futura: fica fora
+            "19957.000666/2026-66": entrada("19957.000666/2026-66", G + "/2026/w", "2026-11-03"),
+        }
+        cls.regs, cls.resumo = ji.montar(ji.ler_artigos(PAS), [], [], [], [], planilha, {},
+                                         noticias=noticias, hoje="2026-10-30")
+        cls.por_id = {r["id"]: r for r in cls.regs}
+
+    def test_pendente_da_planilha_vira_noticia(self):
+        r = self.por_id["cvm-pas-19957-005011-2020-67"]
+        self.assertEqual((r["origem"], r["fonte_pendente"]), ("noticia", False))
+        self.assertEqual(r["url"], G + "/2022/cvm-multa")
+        self.assertEqual(r["data"], "2022-02-15")  # a data da planilha vale
+        self.assertEqual([p["rotulo"] for p in r["pecas"]], ["voto", "relatório"])
+        self.assertEqual(r["sei_urls"], [SEI % "102"])  # o último extrato (retificação)
+        self.assertEqual(r["rito"], "ordinario")
+        self.assertEqual(r["plugin"], "julgados-pas")
+        self.assertEqual(self.resumo["pas_fonte_pendente"], 0)
+        self.assertEqual(self.resumo["planilha_com_noticia"], 1)
+
+    def test_julgados_depois_da_listagem(self):
+        r = self.por_id["cvm-pas-19957-000333-2025-33"]
+        self.assertEqual((r["origem"], r["url"], r["noticia"]), ("noticia", SEI % "103", ""))
+        self.assertTrue(any("data aproximada" in x for x in r["incerteza"]))
+        r2 = self.por_id["cvm-pas-19957-000444-2025-44"]
+        self.assertEqual((r2["data"], r2["processo"]), ("2025-12-09", "19957.000444/2025-44"))
+        self.assertEqual(self.resumo["noticia_nova"], 2)
+
+    def test_listados_antigos_e_futuros_ficam_como_estao(self):
+        r = self.por_id["cvm-pas-19957-011607-2024-20"]
+        self.assertEqual(r["origem"], "pas")
+        self.assertNotIn("cvm-pas-19957-000555-2023-55", self.por_id)
+        self.assertNotIn("cvm-pas-19957-000666-2026-66", self.por_id)
+        self.assertEqual(self.resumo["noticia_fora_da_janela"], 1)
+        self.assertEqual(self.resumo["noticia_futura"], 1)
+        nups = [r["nup"] for r in self.regs if r["tipo"] == "pas" and r["nup"]]
+        self.assertEqual(len(nups), len(set(nups)))
 
 
 class BaixarListagensTest(unittest.TestCase):

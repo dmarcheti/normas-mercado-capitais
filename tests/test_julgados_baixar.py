@@ -72,6 +72,9 @@ class LinksTest(unittest.TestCase):
         self.assertIn("acao=x&id=1", u)
         self.assertEqual(jb._nome_local("termo", 3, u, "text/html"), "03-termo.html")
         self.assertEqual(jb._nome_local("pdf", 1, PDF_PAS), "01-pdf.pdf")
+        # slug de notícia terminado em "-s.a" não vira extensão
+        self.assertEqual(jb._nome_local("noticia", 1, "https://www.gov.br/cvm/2025/multa-x-s.a",
+                                        "text/html;charset=utf-8"), "01-noticia.html")
 
 
 class BaixarItemTest(unittest.TestCase):
@@ -137,6 +140,21 @@ class BaixarItemTest(unittest.TestCase):
         self.baixar(PAS, cli)
         self.assertEqual(cli.gets, [PDF_PAS])
 
+    def test_extensao_invalida_no_cache_rebaixa(self):
+        self.baixar(PAS, Falso(self.mapa))
+        pasta = jb.pasta_do_item(PAS, self.raiz)
+        p = os.path.join(pasta, "registro.json")
+        with open(p, encoding="utf-8") as f:
+            reg = json.load(f)
+        os.rename(os.path.join(pasta, "01-pagina.html"), os.path.join(pasta, "01-pagina.a"))
+        reg["arquivos"][0]["arquivo"] = "01-pagina.a"
+        with open(p, "w", encoding="utf-8") as f:
+            json.dump(reg, f)
+        cli = Falso(self.mapa)
+        reg2 = self.baixar(PAS, cli)
+        self.assertEqual(cli.gets, [PAS["url"]])
+        self.assertEqual(reg2["arquivos"][0]["arquivo"], "01-pagina.html")
+
     def test_erro_de_rede_deixa_incompleto_e_retoma(self):
         reg = self.baixar(COL, Falso(self.mapa, falhar=[TERMO]))
         self.assertFalse(reg["completo"])
@@ -153,6 +171,27 @@ class BaixarItemTest(unittest.TestCase):
         reg = self.baixar(tc, cli)
         self.assertEqual([a["papel"] for a in reg["arquivos"]], ["documento"])
         self.assertEqual(cli.gets, [TERMO])
+
+    def test_noticia_baixa_pecas_e_extrato_sem_seguir_links(self):
+        g = "https://www.gov.br/cvm/pt-br/assuntos/noticias"
+        noticia, voto = g + "/2025/cvm-multa", g + "/anexos/2025/voto.pdf"
+        sei = "https://sei.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?id_documento=9"
+        outro = g + "/anexos/2025/outro.pdf"
+        html = ('<article class="contentTextoGeral"><a href="%s">outro caso</a></article>'
+                % outro).encode()
+        it = {"id": "cvm-pas-19957-000444-2025-44", "tipo": "pas", "data": "2025-12-09",
+              "url": noticia, "titulo": "", "origem": "noticia", "noticia": noticia,
+              "pecas": [{"url": voto, "rotulo": "voto"}], "sei_urls": [sei]}
+        cli = Falso({noticia: html, voto: b"%PDF-voto", sei: b"<html>extrato</html>"})
+        reg = self.baixar(it, cli)
+        self.assertTrue(reg["completo"])
+        self.assertEqual([(a["papel"], a["rotulo"]) for a in reg["arquivos"]],
+                         [("noticia", ""), ("pdf", "voto"), ("sei", "extrato de sessão de julgamento")])
+        self.assertNotIn(outro, cli.gets)
+        # sem notícia, o extrato é a fonte principal
+        it2 = dict(it, id="cvm-pas-19957-000333-2025-33", url=sei, noticia="", pecas=[])
+        reg2 = self.baixar(it2, Falso({sei: b"<html>extrato</html>"}))
+        self.assertEqual([a["papel"] for a in reg2["arquivos"]], ["sei"])
 
 
 class MainTest(unittest.TestCase):

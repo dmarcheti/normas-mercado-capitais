@@ -11,6 +11,11 @@ saida.json e aplica ao frontmatter, marcado como extração:
 - tema (tema_fonte: extracao) sempre que vazio;
 - resultado e relator só se vazios.
 
+A ementa é reprovada se passar de 60 palavras, trouxer dado pessoal ou nome (ou nome e
+sobrenome, ou sobrenome composto) de pessoa física do julgado, pela lista positiva de `Pessoas`.
+Reprovada, volta uma vez num lote de retentativa com a instrução reforçada (REFORCO); se falhar
+de novo, fica a ementa do título e o item é registrado em `ementa_do_titulo` no validacao.json.
+
     python3 scripts/julgados_extracao.py --ids a,b --model haiku [--simular]
     python3 scripts/julgados_extracao.py --onda 1 --tipo decisao-colegiado --model haiku
 
@@ -133,17 +138,31 @@ def entrada(caminho):
             "titulo": m.group(1).strip() if m else "", "recorte": recorte(corpo)}
 
 
-def montar_lotes(caminhos, pasta, prefixo, tamanho=TAMANHO_LOTE):
-    """Grava <pasta>/<prefixo>-NNN/lote.json com até `tamanho` julgados; devolve as pastas."""
+def _gravar_json(caminho, obj):
+    with open(caminho, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=1)
+
+
+def montar_lotes(caminhos, pasta, prefixo, tamanho=TAMANHO_LOTE, pessoas=None, motivos=None):
+    """Grava <pasta>/<prefixo>-NNN/ com lote.json (o que o modelo vê), caminhos.json e
+    pessoas.json (lista positiva de pessoas físicas por id, só para a validação); devolve as
+    pastas. `motivos` {caminho: motivo}: lote de retentativa (o motivo vai no item)."""
+    pessoas = pessoas or Pessoas()
     pastas = []
     for i in range(0, len(caminhos), tamanho):
         d = os.path.join(pasta, "%s-%03d" % (prefixo, i // tamanho + 1))
         os.makedirs(d, exist_ok=True)
-        lote = [entrada(c) for c in caminhos[i:i + tamanho]]
-        with open(os.path.join(d, "lote.json"), "w", encoding="utf-8") as f:
-            json.dump(lote, f, ensure_ascii=False, indent=1)
-        with open(os.path.join(d, "caminhos.json"), "w", encoding="utf-8") as f:
-            json.dump(caminhos[i:i + tamanho], f, ensure_ascii=False, indent=1)
+        lote, nomes = [], {}
+        for c in caminhos[i:i + tamanho]:
+            e = entrada(c)
+            if motivos:
+                e["motivo_retentativa"] = motivos.get(c, "")
+            lote.append(e)
+            v, corpo = ler_julgado(c)
+            nomes[e["id"]] = pessoas.do_julgado(v, corpo)
+        _gravar_json(os.path.join(d, "lote.json"), lote)
+        _gravar_json(os.path.join(d, "caminhos.json"), caminhos[i:i + tamanho])
+        _gravar_json(os.path.join(d, "pessoas.json"), nomes)
         pastas.append(d)
     return pastas
 
@@ -180,10 +199,26 @@ def custo(log):
     return None
 
 
-def rodar_lote(pasta_lote, modelo, trabalho=None, timeout=900):
+REFORCO = """
+
+## Retentativa
+
+Estes julgados voltaram porque a ementa da primeira rodada foi reprovada; o motivo está em
+`motivo_retentativa` de cada item. Regras reforçadas para a `ementa`:
+
+- no máximo 50 palavras (o limite é 60): conte antes de gravar;
+- nenhum nome de pessoa física, nem completo, nem nome e sobrenome, nem sobrenome composto:
+  escreva "o acusado", "o diretor", "os conselheiros", "a proponente". Nome de empresa, fundo e
+  entidade pode ficar.
+
+Os demais campos seguem as regras acima.
+"""
+
+
+def rodar_lote(pasta_lote, modelo, trabalho=None, timeout=900, reforco=""):
     """Roda o modelo numa pasta só com o lote; copia saida.json e grava log e custo."""
     with open(PROMPT, encoding="utf-8") as f:
-        prompt = f.read()
+        prompt = f.read() + reforco
     prompt += ("\n\n## Tarefa\n\nO lote está em `lote.json`, nesta pasta. Grave `saida.json` "
                "nesta pasta, conforme as regras acima, e nada mais.\n")
     work = pasta_de_trabalho(trabalho)
@@ -205,72 +240,279 @@ def rodar_lote(pasta_lote, modelo, trabalho=None, timeout=900):
     return info
 
 
-# ---------------------------------------------------------------- validação
+# ---------------------------------------------------------------- pessoas físicas do julgado
+#
+# A ementa é reprovada se trouxer nome ou sobrenome composto de uma pessoa física do próprio
+# julgado (lista positiva). A lista sai de dados/ em tempo de execução e só é gravada em
+# dados/ (pessoas.json do lote, fora do Git e fora da pasta que o modelo vê):
+#   - acusados do CSV de dados abertos (por NUP);
+#   - compromitentes e proponentes das tabelas de TC aceitos e rejeitados (por processo);
+#   - partes da descrição do inventário (acusados da listagem de PAS; "apresentada por" etc.);
+#   - linhas "Acusado(s):" do corpo (extrato da sessão);
+#   - o trecho de partes do título ("TIPO – PARTE – PROC.").
+# Fica fora o que tiver marca de entidade (S.A., Ltda, Fundo, Banco...).
 
-# Marca de entidade: a sequência inteira é nome de empresa, fundo ou escritório (fica).
-_ENTIDADE = re.compile(r"\b(S\.?\s?A\.?|Ltda|LTDA|Fundo|FUNDO|FIDC|FII|FIP|Banco|BANCO|Participa[çc]|"
-                       r"PARTICIPA[ÇC]|Corretora|CORRETORA|DTVM|CTVM|Distribuidora|DISTRIBUIDORA|"
-                       r"Companhia|COMPANHIA|Cia|CIA|Investimentos?|INVESTIMENTOS?|Capital|CAPITAL|"
-                       r"Gest[ãa]o|GEST[ÃA]O|Securitizadora|SECURITIZADORA|Holding|Asset|Bolsa|"
-                       r"BOLSA|Auditores|AUDITORES|Consultores|Associados|ASSOCIADOS|Advogados|"
-                       r"Group|Grupo|GRUPO|Energia|ENERGIA|Seguros|SEGUROS|Agropecu[áa]ria|"
-                       r"Empreendimentos|Imobili[áa]ria|Com[ée]rcio|Ind[úu]stria|Servi[çc]os)\b")
-# Palavra institucional ou de abertura de frase: corta a sequência (o nome pode vir depois).
-_CORTE = re.compile(r"^(Comiss[ãa]o|COMISS[ÃA]O|Valores|VALORES|Mobili[áa]rios|MOBILI[ÁA]RIOS|CVM|"
-                    r"Colegiado|COLEGIADO|Superintend[êe]ncia|Instru[çc][ãa]o|Resolu[çc][ãa]o|"
-                    r"Delibera[çc][ãa]o|Lei|Termo|TERMO|Compromisso|COMPROMISSO|Processo|PROCESSO|"
-                    r"Administrativo|Sancionador|Recurso|RECURSO|Conselho|Minist[ée]rio|Brasil|"
-                    r"Rio|Janeiro|S[ãa]o|Paulo|Federal|Nacional|Diretor|Diretora|Presidente|"
-                    r"Relator|Relatora|Multa|Proposta|Acusado|Acusada|Acusados|Recorrente|Pedido|"
-                    r"Decis[ãa]o|Voto|Parecer|Comit[êe]|Rito|Simplificado|Ordin[áa]rio|PAS|SEP|"
-                    r"SIN|SRE|SMI|SNC|SPS|SOI|SFI|SGE|PFE|Absolvi[çc][ãa]o|Condena[çc][ãa]o|"
-                    r"Arquivamento|Aceito|Rejeitado|Negado|Provido)$")
-_NOME = re.compile(r"\b[A-ZÀ-Ý][A-Za-zÀ-ÿ'’]+(?:\s+(?:d[aeo]s?|e)?\s*[A-ZÀ-Ý][A-Za-zÀ-ÿ'’]+){1,5}")
+ACUSADOS_CSV = os.path.join(jc.RAIZ, "dados", "fase-2d", "inventario", "pas",
+                            "processo_sancionador_acusado.csv")
+LISTAGENS = os.path.join(jc.RAIZ, "dados", "fase-2d", "listagens")
+INVENTARIO = os.path.join(jc.RAIZ, "dados", "fase-2d", "julgados-inventario.json")
+
+_LIGACAO = frozenset(("da", "de", "do", "das", "dos", "e", "d", "del", "della", "di", "van",
+                      "von", "y"))
+# Palavra que marca entidade (em minúsculas e sem acento): o nome inteiro sai da lista.
+_ENTIDADE = frozenset("""
+s.a s.a. s/a sa ltda ltda. eireli me epp fia fic fidc fii fip fiagro fiim fim fmp fundo fundos
+fund banco bank corretora distribuidora dtvm ctvm participacoes participacao securitizadora
+administradora gestora investimentos investimento associacao associados companhia cia cia.
+auditores auditoria consultoria consultores advogados sociedade simples holding asset capital
+gestao trust partners group grupo industrial industria industrias comercio comercial
+construtora incorporadora empreendimentos imobiliaria mineracao metalicos metalurgicos
+siderurgica energia eletrica petroleo seguros seguradora previdencia agropecuaria agricola
+alimentos servicos tecnologia telecomunicacoes textil engenharia transportes logistica
+financeira credito cooperativa instituto fundacao clube bolsa mercados valores mobiliarios
+inc ltd llc plc gmbh limited corporation corp co. administracao intervencao liquidacao
+recuperacao judicial outros outras brasil brasileira nacional internacional importacao
+exportacao representacoes comunicacao editora hotel hoteis farmaceutica quimica
+""".split())
+# Palavra que não é nome de gente (títulos e descrições do inventário).
+_NAO_NOME = frozenset("""
+recurso recursos contra decisao decisoes processo processos termo compromisso proposta
+propostas pedido pedidos credenciamento autorizacao registro dispensa consulta taxa
+fiscalizacao multa cominatoria arquivamento administrativo sancionador inquerito
+administrador administradores carteira agente autonomo autonomos diretor diretora diretores
+presidente conselheiro conselheiros acusado acusados acusada interessado interessados
+recorrente recorrentes proponente proponentes sr sra dr dra cvm sep sin sre smi snc sps soi
+sfi sge pfe ssr sse sma spc sdm colegiado comissao superintendencia apreciacao revisao
+relator relatora rito ordinario sumario simplificado pas proc procs instrucao resolucao
+deliberacao lei art nbc ta oferta publica opa reclamacao denuncia
+""".split())
+_TRATAMENTO = re.compile(r"^(?:(?:Sr|Sra|Srs|Dr|Dra|Sres)\.?\s+)+", re.I)
 
 
-_LIGACAO = ("da", "de", "do", "das", "dos", "e")
+def _dobrar(texto):
+    """Minúsculas sem acento, um caractere por caractere (mantém as posições)."""
+    import unicodedata
+    return "".join((unicodedata.normalize("NFD", ch)[0] if ch.strip() else ch).lower()
+                   for ch in texto)
 
 
-def nomes_do_texto(texto):
-    """Sequências de 2+ palavras capitalizadas ou em caixa alta, fora de nome de entidade e
-    cortadas nas palavras institucionais (candidatas a nome de pessoa física)."""
-    out = set()
-    for m in _NOME.finditer(texto):
-        s = re.sub(r"\s+", " ", m.group(0)).strip()
-        if _ENTIDADE.search(s):
-            continue
-        run = []
-        for t in s.split() + ["CVM"]:
-            if _CORTE.match(t):
-                while run and run[-1].lower() in _LIGACAO:
-                    run.pop()
-                if len([p for p in run if p.lower() not in _LIGACAO]) >= 2:
-                    out.add(" ".join(run))
-                run = []
-            elif run or t.lower() not in _LIGACAO:
-                run.append(t)
+def _palavras_nome(nome):
+    return re.findall(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’.\-]*", nome)
+
+
+def pessoa(nome):
+    """O nome limpo, se parece pessoa física (2 a 8 palavras, sem marca de entidade nem palavra
+    de título); senão ""."""
+    s = re.sub(r"\([^)]*\)?|[\"“”«»]", " ", nome or "")
+    s = re.sub(r"\s+", " ", s).strip(" .,;:-–")
+    s = _TRATAMENTO.sub("", re.sub(r"(?i)^(?:ou|e|a|o)\s+", "", s))
+    if not s or re.search(r"\d|@|/", s):
+        return ""
+    toks = _palavras_nome(s)
+    dobr = [_dobrar(t).strip(".") for t in toks]
+    if any(d in _ENTIDADE or d + "." in _ENTIDADE for d in dobr):
+        return ""
+    if any(d in _NAO_NOME for d in dobr):
+        return ""
+    plenas = [d for d in dobr if d not in _LIGACAO and len(d) > 1]
+    if not 2 <= len(plenas) <= 8:
+        return ""
+    return " ".join(toks)
+
+
+def separar_partes(texto):
+    """Nomes de uma lista de partes ("A, B e C"; um por linha; "; ")."""
+    texto = re.sub(r"(?i)\be\s+outr[oa]s\b", "", texto or "")
+    out = []
+    for p in re.split(r"\s*(?:[,;\n]|\s+e\s+|\s+E\s+)\s*", texto):
+        n = pessoa(p)
+        if n and n not in out:
+            out.append(n)
     return out
 
 
-def tem_nome(ementa, recorte_):
-    """A ementa traz duas ou mais palavras capitalizadas seguidas (fora de nome de entidade) que
-    também estão no recorte, em qualquer caixa? Então é nome de pessoa: reprova."""
-    ref = re.sub(r"\s+", " ", recorte_).lower()
-    for nome in nomes_do_texto(ementa):
-        t = nome.split()
-        for i in range(len(t)):
-            for j in range(i + 2, len(t) + 1):
-                sub = t[i:j]
-                if sub[0].lower() in _LIGACAO or sub[-1].lower() in _LIGACAO:
+_DESC_PARTES = (
+    re.compile(r"apresentad[ao]s?\s+(?:\(i+\)\s*)?(?:[a-zà-ÿ]+\s+){0,3}?por\s+(.{3,600}?)"
+               r"(?:\(|\bna qualidade\b|\bem raz[ãa]o\b|\bno [aâ]mbito\b|\bpara\b|[;:]|\.\s|$)"),
+    re.compile(r"interpost[oa]s?\s+pel[oa]s?\s+(.{3,300}?)(?:\(|\bcontra\b|\bna qualidade\b|"
+               r"[;:]|\.\s|$)"),
+    re.compile(r"INTERESSAD[OA]\(?S?\)?\s*:\s*(.{3,300}?)(?:\s{2,}|\b[A-Z]{4,}\s*:|$)"),
+    re.compile(r"[Rr]esponsabilidade de\s+(.{3,200}?)(?:\bpor\b|\(|[;:]|\.\s|$)"),
+)
+
+
+def partes_da_descricao(desc, tipo=""):
+    desc = re.sub(r"\s+", " ", desc or "")
+    out = []
+    if tipo == "pas":  # listagem de PAS: acusados em caixa alta antes da ementa
+        m = re.match(r"((?:[A-ZÀ-Ý0-9.,&'’/()\-]+\s+)+?)(?=[A-ZÀ-Ý][a-zà-ÿ]|$)", desc + " ")
+        if m:
+            out += separar_partes(m.group(1))
+    for rx in _DESC_PARTES:
+        for m in rx.finditer(desc):
+            out += [n for n in separar_partes(m.group(1)) if n not in out]
+    return out
+
+
+_ROTULO = re.compile(r"(?im)^\W*(?:acusad[oa]s?|acusado\(s\)|acusada\(s\)|interessad[oa]s?|"
+                     r"recorrentes?|proponentes?|compromitentes?)\s*:[ \t]*(.*)$")
+_OUTRO_ROTULO = re.compile(r"^\W*[A-ZÀ-Ý][A-Za-zÀ-ÿ()\s]{1,30}:")
+
+
+def partes_do_corpo(corpo):
+    """Nomes das linhas "Acusado(s):" (e afins) do corpo; o valor pode seguir nas linhas de
+    baixo, até o próximo rótulo ("Ementa:", "Assunto:") ou linha em branco."""
+    out = []
+    linhas = corpo.splitlines()
+    for i, ln in enumerate(linhas):
+        m = _ROTULO.match(ln)
+        if not m:
+            continue
+        valor = [re.sub(r"(?i)^assunto\s*:\s*", "", m.group(1)).strip()]
+        for prox in linhas[i + 1:i + 30]:
+            if not prox.strip() or prox.startswith("#") or _OUTRO_ROTULO.match(prox):
+                break
+            valor.append(prox.strip())
+        out += [n for n in separar_partes("\n".join(v for v in valor if v)) if n not in out]
+    return out
+
+
+def partes_do_titulo(titulo):
+    """O trecho de partes de "TIPO – PARTE – PROC. X" (sem o tipo e sem o processo)."""
+    seg = [s.strip() for s in re.split(r"\s+[–—-]\s+", titulo or "")]
+    out = []
+    for s in seg[1:]:
+        if re.match(r"(?i)(procs?\.?|pas|processos?|inqu[ée]rito|rj|sp|\d)", s):
+            continue
+        out += [n for n in separar_partes(s) if n not in out]
+    return out
+
+
+def _nup_digitos(texto):
+    return re.sub(r"\D", "", texto or "")
+
+
+class Pessoas:
+    """Lista positiva de pessoas físicas por julgado; as fontes de dados/ carregam na 1ª consulta
+    (ou vêm prontas, nos testes)."""
+
+    def __init__(self, acusados=None, partes_tc=None, descricoes=None, acusados_csv=ACUSADOS_CSV,
+                 listagens=LISTAGENS, inventario=INVENTARIO):
+        self._acusados, self._partes_tc, self._desc = acusados, partes_tc, descricoes
+        self._csv, self._listagens, self._inventario = acusados_csv, listagens, inventario
+
+    @property
+    def acusados(self):
+        if self._acusados is None:
+            self._acusados = {}
+            if os.path.exists(self._csv):
+                import csv
+                with open(self._csv, encoding="latin-1", newline="") as f:
+                    for row in csv.DictReader(f, delimiter=";"):
+                        n = pessoa(row.get("Nome_Acusado", ""))
+                        if n:
+                            self._acusados.setdefault(_nup_digitos(row.get("NUP")), []).append(n)
+        return self._acusados
+
+    @property
+    def partes_tc(self):
+        if self._partes_tc is None:
+            self._partes_tc = {}
+            import julgados_inventario as ji
+            for nome, colunas in (("tc_aceitos.html", (0, 4)), ("tc_rejeitados.html", (2,))):
+                c = os.path.join(self._listagens, nome)
+                if not os.path.exists(c):
                     continue
-                if re.search(r"(?<!\w)%s(?!\w)" % re.escape(" ".join(sub).lower()), ref):
-                    return True
-    return False
+                with open(c, encoding="utf-8", errors="replace") as f:
+                    html = f.read()
+                for tds in ji._linhas_tabela(html):
+                    proc = jc.normalizar_processo(ji._txt(tds[0]))
+                    if not proc:
+                        continue
+                    for col in colunas:
+                        if col >= len(tds):
+                            continue
+                        txt = ji._txt(tds[col])
+                        if col == 0:  # "RJ96/4025 - PARTE"
+                            txt = re.split(r"\s+[–-]\s+", txt, maxsplit=1)[1:] or [""]
+                            txt = txt[0]
+                        self._partes_tc.setdefault(proc, []).extend(separar_partes(txt))
+        return self._partes_tc
+
+    @property
+    def descricoes(self):
+        if self._desc is None:
+            self._desc = {}
+            if os.path.exists(self._inventario):
+                with open(self._inventario, encoding="utf-8") as f:
+                    for x in json.load(f).get("julgados", []):
+                        if x.get("desc"):
+                            self._desc[x["id"]] = (x.get("tipo", ""), x["desc"])
+        return self._desc
+
+    def do_julgado(self, valores, corpo):
+        out = []
+
+        vistos = set()
+
+        def mais(nomes):
+            for n in nomes:
+                if _dobrar(n) not in vistos:
+                    vistos.add(_dobrar(n))
+                    out.append(n)
+
+        mais(self.acusados.get(_nup_digitos(valores.get("nup")), []))
+        for p in re.split(r"\s*;\s*", valores.get("processo", "")):
+            proc = jc.normalizar_processo(p)
+            if proc:
+                mais(self.partes_tc.get(proc, []))
+                if not valores.get("nup") and jc.nup(p):
+                    mais(self.acusados.get(_nup_digitos(jc.nup(p)), []))
+        tipo, desc = self.descricoes.get(valores.get("id", ""), ("", ""))
+        mais(partes_da_descricao(desc, tipo or valores.get("tipo", "")))
+        mais(partes_do_corpo(corpo))
+        m = re.search(r"(?m)^# (.+)$", corpo)
+        mais(partes_do_titulo(m.group(1) if m else ""))
+        return out
 
 
-def validar_saida(lote, saida):
+def tem_nome(ementa, pessoas_):
+    """A ementa traz duas palavras capitalizadas seguidas (com "da", "de"... no meio) que são,
+    na mesma ordem, partes do nome de uma pessoa da lista? Pega nome completo, nome e sobrenome
+    ("Eike Batista") e sobrenome composto ("Silva Vargas"). Devolve o trecho ou ""."""
+    if not ementa or not pessoas_:
+        return ""
+    toks = [(m.group(0), _dobrar(m.group(0)).strip(".")) for m in
+            re.finditer(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’.\-]*", ementa)]
+    listas = []
+    for p in pessoas_:
+        d = [_dobrar(t).strip(".") for t in _palavras_nome(p)]
+        listas.append([x for x in d if x not in _LIGACAO and len(x) > 1])
+    for i, (orig, d) in enumerate(toks):
+        if not orig[0].isupper() or d in _LIGACAO:
+            continue
+        j = i + 1
+        while j < len(toks) and toks[j][1] in _LIGACAO and not toks[j][0][0].isupper():
+            j += 1
+        if j >= len(toks) or not toks[j][0][0].isupper():
+            continue
+        a, b = d, toks[j][1]
+        for nome in listas:
+            if a in nome and b in nome and nome.index(a) < len(nome) - 1 - nome[::-1].index(b):
+                return "%s %s" % (orig, toks[j][0])
+    return ""
+
+
+# ---------------------------------------------------------------- validação
+
+
+def validar_saida(lote, saida, pessoas=None, reprovadas=None):
     """(aprovados {id: campos}, erros). Erro de lote (ids faltando ou sobrando) reprova o lote;
-    campo inválido sai do item (ementa com nome de pessoa, tema ou resultado fora da lista)."""
+    campo inválido sai do item (ementa longa ou com nome de pessoa física do julgado, tema ou
+    resultado fora da lista). `pessoas`: {id: [nomes]} (pessoas.json do lote); `reprovadas`, se
+    dado, recebe {id: motivo} das ementas reprovadas (para a retentativa)."""
+    pessoas = pessoas or {}
+    reprovadas = {} if reprovadas is None else reprovadas
     erros = []
     if not isinstance(saida, list):
         return {}, ["saida.json não é uma lista"]
@@ -292,13 +534,17 @@ def validar_saida(lote, saida):
         ementa = re.sub(r"\s+", " ", str(o.get("ementa") or "")).strip()
         if ementa:
             if len(ementa.split()) > MAX_PALAVRAS_EMENTA:
-                erros.append("%s: ementa com mais de %d palavras" % (x["id"], MAX_PALAVRAS_EMENTA))
-            elif tem_nome(ementa, x["recorte"]):
-                erros.append("%s: ementa com nome de pessoa" % x["id"])
+                motivo = "ementa com mais de %d palavras" % MAX_PALAVRAS_EMENTA
+            elif tem_nome(ementa, pessoas.get(x["id"], [])):
+                motivo = "ementa com nome de pessoa"
             elif pii.limpar(ementa) != ementa:
-                erros.append("%s: ementa com dado pessoal" % x["id"])
+                motivo = "ementa com dado pessoal"
             else:
+                motivo = ""
                 campos["ementa"] = ementa
+            if motivo:
+                erros.append("%s: %s" % (x["id"], motivo))
+                reprovadas[x["id"]] = motivo
         tema = str(o.get("tema") or "").strip()
         if tema in TEMAS:
             campos["tema"] = tema
@@ -319,12 +565,17 @@ def validar_saida(lote, saida):
 # ---------------------------------------------------------------- aplicação
 
 
+def quer_ementa(v):
+    """A ementa extraída substitui a do título? (não na rotineira nem na decisão antiga)"""
+    return (v.get("ementa_fonte") == "titulo" and v.get("classe") not in ROTINEIRAS
+            and v.get("tipo") not in SEM_EMENTA_EXTRAIDA)
+
+
 def aplicar(caminho, campos):
     """Grava no frontmatter os campos extraídos, pelas regras da Task 4; devolve os alterados."""
     v, corpo = ler_julgado(caminho)
     mudou = []
-    if ("ementa" in campos and v.get("ementa_fonte") == "titulo"
-            and v.get("classe") not in ROTINEIRAS and v.get("tipo") not in SEM_EMENTA_EXTRAIDA):
+    if "ementa" in campos and quer_ementa(v):
         v["ementa"], v["ementa_fonte"] = campos["ementa"], "extracao"
         mudou.append("ementa")
     if campos.get("tema") and not v.get("tema"):
@@ -340,11 +591,21 @@ def aplicar(caminho, campos):
 
 
 def processar_lote(pasta_lote):
-    """Valida saida.json do lote e aplica; grava validacao.json."""
+    """Valida saida.json do lote e aplica; grava validacao.json. "retentar" traz {caminho:
+    motivo} das ementas reprovadas (longa, com nome, com dado pessoal) que ainda substituiriam a
+    do título."""
     with open(os.path.join(pasta_lote, "lote.json"), encoding="utf-8") as f:
         lote = json.load(f)
     with open(os.path.join(pasta_lote, "caminhos.json"), encoding="utf-8") as f:
         caminhos = dict(zip([x["id"] for x in lote], json.load(f)))
+    c_pessoas = os.path.join(pasta_lote, "pessoas.json")
+    if os.path.exists(c_pessoas):
+        with open(c_pessoas, encoding="utf-8") as f:
+            pessoas = json.load(f)
+    else:
+        p = Pessoas()
+        pessoas = {i: p.do_julgado(*ler_julgado(c)) for i, c in caminhos.items()}
+    reprovadas = {}
     try:
         with open(os.path.join(pasta_lote, "saida.json"), encoding="utf-8") as f:
             saida = json.load(f)
@@ -352,11 +613,12 @@ def processar_lote(pasta_lote):
         saida, aprovados, erros = None, {}, ["saida.json ausente ou inválido (%s)" %
                                              type(e).__name__]
     if saida is not None:
-        aprovados, erros = validar_saida(lote, saida)
+        aprovados, erros = validar_saida(lote, saida, pessoas, reprovadas)
     aplicados = {i: aplicar(caminhos[i], c) for i, c in aprovados.items()}
-    rel = {"erros": erros, "aplicados": aplicados}
-    with open(os.path.join(pasta_lote, "validacao.json"), "w", encoding="utf-8") as f:
-        json.dump(rel, f, ensure_ascii=False, indent=1)
+    retentar = {caminhos[i]: m for i, m in reprovadas.items()
+                if quer_ementa(ler_julgado(caminhos[i])[0])}
+    rel = {"erros": erros, "aplicados": aplicados, "retentar": retentar}
+    _gravar_json(os.path.join(pasta_lote, "validacao.json"), rel)
     return rel
 
 
@@ -385,15 +647,34 @@ def main(argv=None):
     print("%d julgado(s) em %d lote(s) em %s" % (len(itens), len(pastas), a.saida))
     if a.simular:
         return 0
-    total, falhas = 0.0, 0
-    for p in pastas:
-        info = rodar_lote(p, a.model, a.trabalho)
+    total, falhas, retentar = 0.0, 0, {}
+
+    def rodar(p, reforco=""):
+        nonlocal total, falhas
+        info = rodar_lote(p, a.model, a.trabalho, reforco=reforco)
         rel = processar_lote(p)
         total += info["total_cost_usd"] or 0
-        falhas += bool(rel["erros"]) or info["codigo"] != 0
+        falhas += info["codigo"] != 0 or any(e.split(":")[0] not in rel["aplicados"]
+                                             for e in rel["erros"])  # erro de lote
         print("%s: US$ %s; %d aplicado(s); %d erro(s)" % (
             os.path.basename(p), info["total_cost_usd"],
             sum(1 for v in rel["aplicados"].values() if v), len(rel["erros"])))
+        return rel
+
+    for p in pastas:
+        retentar.update(rodar(p)["retentar"])
+    if retentar:  # uma vez, com a instrução reforçada; se falhar, fica a ementa do título
+        ficaram = {}
+        for p in montar_lotes(sorted(retentar), a.saida, os.path.basename(pastas[0])[:-4]
+                              + "-retentativa", motivos=retentar):
+            rel = rodar(p, REFORCO)
+            ficaram.update({c: m for c, m in rel["retentar"].items()})
+            rel["ementa_do_titulo"] = sorted(rel["retentar"])
+            _gravar_json(os.path.join(p, "validacao.json"), rel)
+        print("retentativa: %d item(ns); %d ficaram com a ementa do título" % (
+            len(retentar), len(ficaram)))
+        for c, m in sorted(ficaram.items()):
+            print("  ementa do título: %s (%s)" % (os.path.basename(c), m), file=sys.stderr)
     print("custo total: US$ %.4f" % total)
     return 1 if falhas else 0
 

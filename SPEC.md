@@ -134,16 +134,17 @@ Desde a v0.5.0 o acervo tem julgados: decisões da CVM (PAS, termos de compromis
 
 ### Plugins e pastas
 
-Cada julgado mora no plugin do seu tipo e período, escolhido por uma função única, `plugin_do_julgado(tipo, ano)`, em `scripts/julgados_comum.py` (o corte final sai do tamanho medido no piloto):
+Cada julgado mora no plugin do seu tipo e período, escolhido por uma função única, `plugin_do_julgado(tipo, ano)`, em `scripts/julgados_comum.py` (cinco plugins, `PLUGINS_JULGADOS`; o corte saiu do tamanho medido no piloto):
 
 | Plugin | Conteúdo |
 |---|---|
-| `plugins/julgados-sancionadores/` | PAS, termos de compromisso e acórdãos do CRSFN |
+| `plugins/julgados-pas/` | PAS julgados pela CVM |
+| `plugins/julgados-tc-crsfn/` | termos de compromisso (aceitos e rejeitados) e acórdãos do CRSFN |
 | `plugins/julgados-colegiado-2002-2008/` | demais itens do Colegiado de 2002 a 2008 e as decisões antigas (1978 a 2001) |
 | `plugins/julgados-colegiado-2009-2015/` | idem, 2009 a 2015 |
 | `plugins/julgados-colegiado-2016-2026/` | idem, 2016 em diante |
 
-Em cada plugin: `.claude-plugin/plugin.json`, `skills/consultar-julgados/SKILL.md` (cópia idêntica nos quatro), `julgados/indice.md`, `julgados/indices/` e os julgados, um arquivo por julgado:
+Em cada plugin: `.claude-plugin/plugin.json`, `skills/consultar-julgados/SKILL.md` (cópia idêntica nos cinco; um teste confere) e a entrada no `.claude-plugin/marketplace.json` da raiz, `julgados/indice.md`, `julgados/indices/` e os julgados, um arquivo por julgado:
 
 | `tipo` | `orgao` | `id` | Arquivo (sob `julgados/`) |
 |---|---|---|---|

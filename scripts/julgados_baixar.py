@@ -1,5 +1,8 @@
 """Baixa as fontes dos julgados do inventário (página, PDFs, anexos e termos) para o cache local.
 
+PAS de origem `noticia` (fora da listagem): a notícia do resultado, os PDFs das peças ligados
+nela e o extrato do SEI, como listados no inventário.
+
 Cache: dados/fase-2d/cache/<tipo>/<ano>/<id>/, com um registro.json por julgado que guarda,
 para cada arquivo, papel, rótulo, URL, nome local, tamanho, sha256, data e content-type.
 No máximo 1 requisição por segundo. Retomável: arquivo já no cache é reaproveitado se um HEAD
@@ -54,10 +57,14 @@ def links_da_pagina(html):
     return list(vistos.items())
 
 
+_EXTENSOES = {".pdf", ".html", ".htm", ".doc", ".docx", ".xls", ".xlsx", ".odt", ".rtf", ".txt",
+              ".zip"}
+
+
 def _nome_local(papel, n, url, content_type=""):
     base = os.path.basename(url.split("?")[0].split("#")[0]) or "documento"
     ext = os.path.splitext(base)[1].lower()
-    if not ext or len(ext) > 6 or "sei.cvm.gov.br" in url:
+    if ext not in _EXTENSOES or "sei.cvm.gov.br" in url:
         ext = ".pdf" if "pdf" in (content_type or "") else ".html"
     return "%02d-%s%s" % (n, papel, ext)
 
@@ -92,6 +99,8 @@ def _cache_valido(cliente, pasta, anterior, verificar=True):
     um HEAD na URL devolve o mesmo tamanho ou não informa tamanho."""
     if not anterior:
         return False, ""
+    if os.path.splitext(anterior["arquivo"])[1] not in _EXTENSOES:
+        return False, "extensão inválida no cache"
     caminho = os.path.join(pasta, anterior["arquivo"])
     if not os.path.exists(caminho) or os.path.getsize(caminho) != anterior["tamanho"]:
         return False, ""
@@ -137,6 +146,18 @@ def _papel_principal(item):
     return "pagina"
 
 
+def _fila_inicial(item):
+    """[(papel, rótulo, URL)] para começar. PAS de origem `noticia`: a página da notícia (sem
+    seguir os links dela, que trazem outros casos), os PDFs das peças e o extrato do SEI."""
+    if item.get("origem") == "noticia":
+        fila = [("noticia", item.get("titulo", ""), item["noticia"])] if item.get("noticia") \
+            else []
+        fila += [("pdf", p.get("rotulo", ""), p["url"]) for p in item.get("pecas", [])]
+        fila += [("sei", "extrato de sessão de julgamento", u) for u in item.get("sei_urls", [])]
+        return fila
+    return [(_papel_principal(item), item.get("titulo", ""), item["url"])] if item["url"] else []
+
+
 def baixar_item(item, cliente, raiz=CACHE, verificar=True, log=print):
     """Baixa um julgado; devolve o registro gravado. Erro de rede num arquivo fica em `erros`
     e o item volta como incompleto (a próxima execução tenta de novo)."""
@@ -145,7 +166,7 @@ def baixar_item(item, cliente, raiz=CACHE, verificar=True, log=print):
     por_url = {a["url"]: a for a in antes.get("arquivos", [])}
     reg = {"id": item["id"], "tipo": item["tipo"], "url": item["url"], "arquivos": [],
            "ignorados": [], "erros": [], "avisos": []}
-    fila = [(_papel_principal(item), item.get("titulo", ""), item["url"])] if item["url"] else []
+    fila = _fila_inicial(item)
     feitos, novos = set(), 0
     while fila:
         papel, rotulo, url = fila.pop(0)

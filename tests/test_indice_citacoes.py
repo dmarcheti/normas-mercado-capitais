@@ -152,7 +152,7 @@ NORMAS = {"lei-6404": {"id": "lei-6404", "titulo": "Lei nº 6.404/1976", "caminh
 class TestIndicesDosJulgados(unittest.TestCase):
     def setUp(self):
         self._tmp = tempfile.TemporaryDirectory()
-        self.raiz = os.path.join(self._tmp.name, "plugins", "julgados-sancionadores", "julgados")
+        self.raiz = os.path.join(self._tmp.name, "plugins", "julgados-pas", "julgados")
         self.gravar("cvm/pas/2025/19957-011607-2024-20.md", BASE, "# PAS CVM nº 19957.011607/2024-20 - "
                     "FULANO DE TAL\n\n## Relatório\n\nx\n")
         tc = dict(BASE, id="cvm-col-20240603-d100", tipo="termo-compromisso", data="2024-06-03",
@@ -180,7 +180,7 @@ class TestIndicesDosJulgados(unittest.TestCase):
     def test_resumo_com_aviso_perimetro_e_contagem(self):
         md = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]["indice.md"]
         self.assertIn("Julgado não é norma", md)
-        self.assertIn("PAS, termos de compromisso e acórdãos do CRSFN", md)
+        self.assertIn("Processos administrativos sancionadores (PAS) julgados pela CVM", md)
         self.assertIn("[indices/pas-2025.md](indices/pas-2025.md)", md)
         self.assertIn("[indices/tema-deveres-administradores.md]", md)
         self.assertIn("[indices/norma-lei-6404.md]", md)

@@ -40,6 +40,11 @@ class Arvore(unittest.TestCase):
         self.raiz = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, self.raiz)
         self.saida = os.path.join(self.raiz, "dados", "extracao")
+        original = ex.Pessoas  # sem ler dados/ (CSV, tabelas, inventário) nos testes
+        p = mock.patch.object(ex, "Pessoas",
+                              lambda: original(acusados={}, partes_tc={}, descricoes={}))
+        p.start()
+        self.addCleanup(p.stop)
 
     def julgado(self, id_, tipo="decisao-colegiado", corpo=CORPO, **kw):
         plug = "julgados-pas" if tipo == "pas" else "julgados-colegiado-2016-2026"
@@ -89,17 +94,78 @@ class ValidacaoTest(unittest.TestCase):
                   "tema": "tema-inventado", "resultado": "nao-provido", "relator": "Fulano Exemplo"},
                  {"id": "b", "ementa": " ".join(["palavra"] * 61), "tema": "manipulacao-fraude",
                   "resultado": "aceito"}]
-        aprov, erros = ex.validar_saida(self.LOTE, saida)
+        reprovadas = {}
+        aprov, erros = ex.validar_saida(self.LOTE, saida, {"a": ["Beltrano Exemplar"]},
+                                        reprovadas)
         self.assertEqual(aprov["a"], {"resultado": "nao-provido", "relator": "Fulano Exemplo"})
         self.assertEqual(aprov["b"], {"tema": "manipulacao-fraude"})
         self.assertEqual(len(erros), 4)
-        self.assertTrue(any("nome de pessoa" in e for e in erros))
+        self.assertEqual(reprovadas, {"a": "ementa com nome de pessoa",
+                                      "b": "ementa com mais de 60 palavras"})
 
-    def test_nome_em_caixa_alta_no_texto_e_empresa(self):
-        self.assertTrue(ex.tem_nome("Multa a José da Silva Exemplo.", self.LOTE[1]["recorte"]))
-        self.assertFalse(ex.tem_nome("Multa à ACME S.A. por fato relevante.",
-                                     self.LOTE[1]["recorte"]))
-        self.assertFalse(ex.tem_nome("Recurso contra decisão da SEP. Negado provimento.", CORPO))
+
+class PessoasTest(unittest.TestCase):
+    """Lista positiva de pessoas físicas por julgado (nomes sintéticos)."""
+
+    def test_nome_completo_nome_e_sobrenome_e_sobrenome_composto(self):
+        lista = ["Fulano Beltrano de Tal Exemplar"]
+        for ementa in ("Multa a Fulano Beltrano de Tal Exemplar.", "Multa a Fulano Exemplar.",
+                       "Multa ao sr. Tal Exemplar.", "Multa a FULANO BELTRANO."):
+            self.assertTrue(ex.tem_nome(ementa, lista), ementa)
+        for ementa in ("Multa a Fulano, diretor.", "Exemplar Beltrano não é a ordem do nome.",
+                       "Multa a fulano exemplar, em minúsculas.", "Multa ao acusado."):
+            self.assertFalse(ex.tem_nome(ementa, lista), ementa)
+
+    def test_empresa_nao_entra_na_lista(self):
+        for empresa in ("Exemplo Industrial S.A.", "Construtora Exemplar S.A.", "Acme Ltda.",
+                        "Exemplo Mineração e Metálicos S.A.", "Boston Exemplo Plus FIA",
+                        "Banco Exemplo de Investimentos", "Fulano Participações",
+                        "Exemplo Auditores Independentes", "CONTRA DECISÃO DA SEP",
+                        "NBC TA 540", "Credenciamento de Administrador de Carteira"):
+            self.assertEqual(ex.pessoa(empresa), "", empresa)
+        self.assertEqual(ex.pessoa("Sr. Fulano de Tal (“Proponente”)"), "Fulano de Tal")
+        self.assertEqual(ex.separar_partes("FULANO DE TAL, ACME S.A. e Beltrano Exemplar"),
+                         ["FULANO DE TAL", "Beltrano Exemplar"])
+
+    def test_fontes(self):
+        nup = "19957" + "000001" + "2025" + "01"
+        p = ex.Pessoas(acusados={nup: ["Acusado Do Csv"]},
+                       partes_tc={"19957-000001-2025-01": ["Compromitente Da Tabela"]},
+                       descricoes={"cvm-col-1": ("decisao-colegiado",
+                                                 "Proposta apresentada por Cicrano Da Silva "
+                                                 "(“Proponente”), na qualidade de diretor.")})
+        corpo = ("# RECURSO CONTRA DECISÃO DA SEP – PARTE DO TITULO – PROC. 19957.000001/2025-01"
+                 "\n\n## Extrato\n\nAcusados:\nPrimeiro Exemplo Extrato\nAcme S.A.\n"
+                 "Ementa: multa.\nAcusado: Segundo Exemplo Extrato\n")
+        v = {"id": "cvm-col-1", "tipo": "decisao-colegiado",
+             "processo": "19957.000001/2025-01", "nup": "19957-000001-2025-01"}
+        self.assertEqual(p.do_julgado(v, corpo),
+                         ["Acusado Do Csv", "Compromitente Da Tabela", "Cicrano Da Silva",
+                          "Primeiro Exemplo Extrato", "Segundo Exemplo Extrato",
+                          "PARTE DO TITULO"])
+        pas = ex.partes_da_descricao("FULANO DE TAL, ACME S.A. E OUTROS Abuso de poder. Multa.",
+                                     "pas")
+        self.assertEqual(pas, ["FULANO DE TAL"])
+
+    def test_carrega_csv_e_tabelas_de_dados(self):
+        d = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, d)
+        nup = "19957" + "000002" + "2024" + "02"
+        csvp = os.path.join(d, "acusados.csv")
+        with open(csvp, "w", encoding="latin-1") as f:
+            f.write("NUP;Nome_Acusado;Situacao;Data_Situacao\n")
+            f.write("%s;JOSÉ EXEMPLO TESTE;Julgado;01/01/2025\n%s;ACME S.A.;Julgado;x\n"
+                    % (nup, nup))
+        os.makedirs(os.path.join(d, "listagens"))
+        with open(os.path.join(d, "listagens", "tc_rejeitados.html"), "w",
+                  encoding="utf-8") as f:
+            f.write("<table><tr><td>19957.000002/2024-02</td><td>02/12/2025</td>"
+                    "<td>Fulana Rejeitada Teste</td><td>x</td></tr></table>")
+        p = ex.Pessoas(acusados_csv=csvp, listagens=os.path.join(d, "listagens"),
+                       inventario=os.path.join(d, "nada.json"))
+        self.assertEqual(p.acusados, {nup: ["JOSÉ EXEMPLO TESTE"]})
+        self.assertEqual(p.partes_tc, {"19957-000002-2024-02": ["Fulana Rejeitada Teste"]})
+        self.assertEqual(p.descricoes, {})
 
 
 class ExecucaoTest(Arvore):
@@ -178,6 +244,52 @@ class ExecucaoTest(Arvore):
                          ("cvm", "opa", "Diretora Sicrana", "condenacao"))
         self.assertEqual(corpo3, CORPO)
         self.assertEqual(list(v3), list(jc.CAMPOS))
+
+    def test_retentativa_uma_vez_e_ementa_do_titulo_se_falhar(self):
+        corpo = CORPO.replace("ACME S.A.", "BELTRANO EXEMPLAR")
+        c1 = self.julgado("cvm-col-1", corpo=corpo, ementa="Recurso.", ementa_fonte="titulo")
+        c2 = self.julgado("cvm-col-2", ementa="Recurso 2.", ementa_fonte="titulo")
+        c3 = self.julgado("cvm-pas-3", tipo="pas", corpo=corpo, ementa="Da CVM.",
+                          ementa_fonte="cvm")
+        chamadas = []
+
+        def falso(cmd, input, cwd, capture_output, text, timeout):  # noqa: A002
+            lote = ler(os.path.join(cwd, "lote.json"))
+            retentativa = "## Retentativa" in input
+            chamadas.append((retentativa, [(x["id"], x.get("motivo_retentativa")) for x in lote]))
+            ementas = {"cvm-col-1": "Recurso de Beltrano Exemplar; negado.",
+                       "cvm-col-2": " ".join(["longa"] * 70),
+                       "cvm-pas-3": "Multa a Beltrano Exemplar."}
+            if retentativa:
+                ementas["cvm-col-1"] = "Recurso do acusado; negado."
+            saida = [{"id": x["id"], "ementa": ementas[x["id"]], "tema": "processual"}
+                     for x in lote]
+            with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
+                json.dump(saida, f)
+            return mock.Mock(returncode=0, stdout="", stderr="")
+
+        with mock.patch.object(ex.subprocess, "run", side_effect=falso), \
+                redirect_stdout(io.StringIO()) as out, redirect_stderr(io.StringIO()):
+            rc = ex.main(["--ids", "cvm-col-1,cvm-col-2,cvm-pas-3", "--raiz", self.raiz,
+                          "--saida", self.saida, "--trabalho", tempfile.mkdtemp()])
+        self.assertEqual(rc, 0)
+        # a PAS com ementa da CVM não volta: a extraída não seria usada
+        self.assertEqual(chamadas[1], (True, [("cvm-col-1", "ementa com nome de pessoa"),
+                                              ("cvm-col-2", "ementa com mais de 60 palavras")]))
+        self.assertEqual(len(chamadas), 2)
+        self.assertEqual(ex.ler_julgado(c1)[0]["ementa"], "Recurso do acusado; negado.")
+        v2 = ex.ler_julgado(c2)[0]
+        self.assertEqual((v2["ementa"], v2["ementa_fonte"], v2["tema"]),
+                         ("Recurso 2.", "titulo", "processual"))
+        self.assertEqual(ex.ler_julgado(c3)[0]["ementa"], "Da CVM.")
+        ret = [d for d in os.listdir(self.saida) if "retentativa" in d]
+        self.assertEqual(len(ret), 1)
+        val = ler(os.path.join(self.saida, ret[0], "validacao.json"))
+        self.assertEqual([os.path.basename(c) for c in val["ementa_do_titulo"]],
+                         ["cvm-col-2.md"])
+        self.assertIn("1 ficaram com a ementa do título", out.getvalue())
+        self.assertNotIn("Beltrano", json.dumps(ler(os.path.join(self.saida, ret[0],
+                                                                 "lote.json"))[0]["motivo_retentativa"]))
 
     def test_saida_ausente_nao_aplica_e_falha(self):
         c = self.julgado("cvm-col-9", ementa_fonte="titulo", ementa="X.")

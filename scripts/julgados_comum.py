@@ -44,20 +44,24 @@ CAMPOS = ("id", "orgao", "tipo", "classe", "processo", "nup", "rito", "data", "r
           "nivel_verificacao", "incerteza")
 PII = "[dado pessoal retirado]"
 
-PLUGIN_SANCIONADORES = "julgados-sancionadores"
+PLUGIN_PAS = "julgados-pas"
+PLUGIN_TC_CRSFN = "julgados-tc-crsfn"
 PERIODOS_COLEGIADO = ((None, 2008, "julgados-colegiado-2002-2008"),
                       (2009, 2015, "julgados-colegiado-2009-2015"),
                       (2016, None, "julgados-colegiado-2016-2026"))
+PLUGINS_JULGADOS = (PLUGIN_PAS, PLUGIN_TC_CRSFN) + tuple(p[2] for p in PERIODOS_COLEGIADO)
 ONDAS = {1: (2019, 2026), 2: (2010, 2018), 3: (None, 2009)}
 
 
 def plugin_do_julgado(tipo, ano):
-    """Plugin do julgado: PAS, TCs e CRSFN nos sancionadores; o resto do Colegiado (e as decisões
-    antigas, 1978 a 2001) por período. O corte final sai do tamanho medido no piloto."""
+    """Plugin do julgado: PAS em julgados-pas; TCs e acórdãos do CRSFN em julgados-tc-crsfn; o
+    resto do Colegiado (e as decisões antigas, 1978 a 2001) por período."""
     if tipo not in TIPOS:
         raise ValueError("tipo de julgado desconhecido: %r" % (tipo,))
-    if tipo in ("pas", "termo-compromisso", "acordao-crsfn"):
-        return PLUGIN_SANCIONADORES
+    if tipo == "pas":
+        return PLUGIN_PAS
+    if tipo in ("termo-compromisso", "acordao-crsfn"):
+        return PLUGIN_TC_CRSFN
     ano = int(ano)
     for ini, fim, nome in PERIODOS_COLEGIADO:
         if (ini is None or ano >= ini) and (fim is None or ano <= fim):

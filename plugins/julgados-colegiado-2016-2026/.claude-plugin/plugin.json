@@ -1,0 +1,10 @@
+{
+  "name": "julgados-colegiado-2016-2026",
+  "version": "0.5.0",
+  "description": "Decisões do Colegiado da CVM de 2016 em diante (recursos, consultas, dispensas, registros), com data, resultado e dispositivos citados. Material não oficial.",
+  "author": {
+    "name": "dmarcheti"
+  },
+  "repository": "https://github.com/dmarcheti/normas-mercado-capitais",
+  "license": "SEE LICENSE IN README.md"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "julgados-pas",
+  "version": "0.5.0",
+  "description": "Processos administrativos sancionadores (PAS) julgados pela CVM, com relatório, voto e extrato da sessão, data, relator, resultado e dispositivos citados. Material não oficial.",
+  "author": {
+    "name": "dmarcheti"
+  },
+  "repository": "https://github.com/dmarcheti/normas-mercado-capitais",
+  "license": "SEE LICENSE IN README.md"
+}

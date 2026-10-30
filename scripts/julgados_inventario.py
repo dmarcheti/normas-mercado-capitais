@@ -5,7 +5,9 @@ Lê as listagens (PAS julgados; decisões do Colegiado em janelas semestrais; TC
 rejeitados; decisões antigas de 1978 a 2001), a planilha de julgados por relator (2022 a 2025) e
 os dados abertos de processo sancionador; classifica os itens do Colegiado pelo título;
 deduplica por processo normalizado e URL; casa os TCs da tabela com o item do Colegiado que
-apreciou a proposta; marca como `fonte_pendente` os PAS da planilha que faltam na listagem.
+apreciou a proposta. Os PAS que faltam na listagem (os da planilha e os julgados depois de
+2025-05-27) vêm da notícia do resultado e do extrato do SEI (julgados_noticias, origem
+`noticia`); o PAS da planilha sem nenhuma das duas fica como `fonte_pendente`.
 
 Saídas:
 - dados/fase-2d/julgados-inventario.json (completo, com título e ementa da listagem; ignorado
@@ -32,6 +34,7 @@ from html import unescape
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import julgados_comum as jc  # noqa: E402
+import julgados_noticias as jn  # noqa: E402
 
 LISTAGENS = os.path.join(jc.RAIZ, "dados", "fase-2d", "listagens")
 SAIDA_COMPLETA = os.path.join(jc.RAIZ, "dados", "fase-2d", "julgados-inventario.json")
@@ -326,8 +329,25 @@ def _unico(id_, usados, sufixo=None):
     return "%s-%d" % (id_, n)
 
 
-def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos):
-    """Registros do inventário (dicionários) e o resumo de contagens."""
+DESDE_NOTICIAS = "2025-06-01"  # a listagem de PAS para em 2025-05-27
+
+
+def _campos_noticia(ent):
+    """Campos do registro de PAS que vem da notícia do resultado e do extrato do SEI: a URL
+    principal é a notícia (ou o extrato, sem notícia); só o último extrato (retificação)."""
+    ext = sorted(ent.get("extratos", []), key=lambda e: (e["data_pub"] or "", e["id_documento"]))
+    ult = ext[-1] if ext else None
+    return {"origem": "noticia", "url": ent["noticia"] or (ult["url"] if ult else ""),
+            "noticia": ent["noticia"], "outras_noticias": ent.get("outras_noticias", []),
+            "pecas": [{"url": u, "rotulo": r} for u, r in ent["pecas"]],
+            "sei_urls": [ult["url"]] if ult else [], "desc": ult["resumo"] if ult else "",
+            "fonte_pendente": False}
+
+
+def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos, noticias=None,
+           hoje=None):
+    """Registros do inventário (dicionários) e o resumo de contagens. `noticias`: {NUP: entrada}
+    de julgados_noticias.indice, para os PAS que faltam na listagem."""
     registros, usados = [], set()
     resumo = collections.Counter()
 
@@ -467,6 +487,7 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
                   "desc": it["desc"], "origem": "pas", "incerteza": []})
         if n:
             pas_por_nup[n].append(r)
+    por_nup_noticia = {jc.nup(k): v for k, v in (noticias or {}).items() if jc.nup(k)}
     for linha in planilha:
         achados = pas_por_nup.get(linha["nup"], [])
         if achados:
@@ -476,7 +497,6 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
                                 "data": linha["data"]}
             resumo["planilha_casada"] += 1
             continue
-        resumo["pas_fonte_pendente"] += 1
         r = novo({"id": _unico(jc.id_pas(linha["nup"]), usados), "tipo": "pas", "classe": "",
                   "classe_bruta": "", "processo": linha["processo"], "proc": linha["nup"],
                   "nup": linha["nup"], "procs": [linha["nup"]], "data": linha["data"],
@@ -485,7 +505,34 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
                   "planilha": {"tipo_processo": linha["tipo_processo"], "sup": linha["sup"],
                                "data": linha["data"]},
                   "incerteza": ["julgado na planilha da CVM e ausente da listagem de PAS"]})
+        ent = por_nup_noticia.get(linha["nup"])
+        if ent and (ent["noticia"] or ent.get("extratos")):
+            r.update(_campos_noticia(ent))
+            r["incerteza"] = ["julgado na planilha da CVM e ausente da listagem de PAS; fonte: "
+                              "notícia do resultado e extrato do SEI"]
+            resumo["planilha_com_noticia"] += 1
+        else:
+            resumo["pas_fonte_pendente"] += 1
         pas_por_nup[linha["nup"]].append(r)
+    hoje = hoje or jc.hoje_sp()
+    for n, ent in sorted(por_nup_noticia.items(), key=lambda x: (x[1]["data"] or "", x[0])):
+        if n in pas_por_nup:
+            continue
+        if not ent["data"] or ent["data"] > hoje:
+            resumo["noticia_futura"] += 1
+            continue
+        if ent["data"] < DESDE_NOTICIAS:
+            resumo["noticia_fora_da_janela"] += 1
+            continue
+        resumo["noticia_nova"] += 1
+        r = novo(dict({"id": _unico(jc.id_pas(n), usados), "tipo": "pas", "classe": "",
+                       "classe_bruta": "", "processo": ent["nup"], "proc": n, "nup": n,
+                       "procs": [n], "data": ent["data"], "titulo": "",
+                       "incerteza": ["julgado ausente da listagem de PAS; fonte: notícia do "
+                                     "resultado e extrato do SEI"]}, **_campos_noticia(ent)))
+        if ent["data_fonte"] != "noticia":
+            r["incerteza"].append("data aproximada: publicação do extrato no SEI")
+        pas_por_nup[n].append(r)
     for n, rs in pas_por_nup.items():
         ab = abertos.get(n)
         if not ab:
@@ -580,7 +627,14 @@ def main(argv=None):
         print("listagem sem itens: %s; confira a URL e rode com --refazer" % ", ".join(vazias),
               file=sys.stderr)
         return 1
-    registros, resumo = montar(*fontes)
+    noticias = {}
+    if os.path.isdir(jn.PASTA):
+        fonte = jn.carregar()
+        noticias = jn.indice(fonte)
+        print("notícias de resultado %d (artigos faltando %d), extratos do SEI %d, NUPs %d"
+              % (len(fonte["noticias"]), len(fonte["faltam"]), len(fonte["extratos"]),
+                 len(noticias)))
+    registros, resumo = montar(*fontes, noticias=noticias)
     gravar_json(SAIDA_COMPLETA, {"gerado_em": jc.hoje_sp(), "resumo": dict(resumo),
                                  "contagens": contagens(registros), "julgados": registros})
     gravar_json(SAIDA_ENXUTA, enxuto(registros))

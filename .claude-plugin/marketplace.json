@@ -12,6 +12,36 @@
       "source": "./plugins/normas",
       "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo. Material não oficial.",
       "version": "1.0.0"
+    },
+    {
+      "name": "julgados-pas",
+      "source": "./plugins/julgados-pas",
+      "description": "Processos administrativos sancionadores (PAS) julgados pela CVM, com relatório, voto e extrato da sessão, data, relator, resultado e dispositivos citados. Material não oficial.",
+      "version": "0.5.0"
+    },
+    {
+      "name": "julgados-tc-crsfn",
+      "source": "./plugins/julgados-tc-crsfn",
+      "description": "Termos de compromisso da CVM (aceitos e rejeitados, com parecer do comitê) e acórdãos do CRSFN em recursos contra decisões da CVM, com data, resultado e dispositivos citados. Material não oficial.",
+      "version": "0.5.0"
+    },
+    {
+      "name": "julgados-colegiado-2002-2008",
+      "source": "./plugins/julgados-colegiado-2002-2008",
+      "description": "Decisões do Colegiado da CVM de 2002 a 2008 (recursos, consultas, dispensas, registros) e decisões antigas de 1978 a 2001, com data, resultado e dispositivos citados. Material não oficial.",
+      "version": "0.5.0"
+    },
+    {
+      "name": "julgados-colegiado-2009-2015",
+      "source": "./plugins/julgados-colegiado-2009-2015",
+      "description": "Decisões do Colegiado da CVM de 2009 a 2015 (recursos, consultas, dispensas, registros), com data, resultado e dispositivos citados. Material não oficial.",
+      "version": "0.5.0"
+    },
+    {
+      "name": "julgados-colegiado-2016-2026",
+      "source": "./plugins/julgados-colegiado-2016-2026",
+      "description": "Decisões do Colegiado da CVM de 2016 em diante (recursos, consultas, dispensas, registros), com data, resultado e dispositivos citados. Material não oficial.",
+      "version": "0.5.0"
     }
   ]
 }

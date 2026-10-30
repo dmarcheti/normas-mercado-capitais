@@ -634,7 +634,8 @@ AVISO_JULGADO = ("Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu nu
                  "plugin `normas`.")
 NOTA_REDACAO = "texto vigente hoje; o julgado aplicou a redação da época"
 PERIMETRO_JULGADOS = {
-    "julgados-sancionadores": "PAS, termos de compromisso e acórdãos do CRSFN em recursos contra decisões da CVM.",
+    "julgados-pas": "Processos administrativos sancionadores (PAS) julgados pela CVM.",
+    "julgados-tc-crsfn": "Termos de compromisso (aceitos e rejeitados) e acórdãos do CRSFN em recursos contra decisões da CVM.",
     "julgados-colegiado-2002-2008": "Decisões do Colegiado da CVM de 2002 a 2008 e decisões antigas (1978 a 2001).",
     "julgados-colegiado-2009-2015": "Decisões do Colegiado da CVM de 2009 a 2015.",
     "julgados-colegiado-2016-2026": "Decisões do Colegiado da CVM de 2016 em diante.",

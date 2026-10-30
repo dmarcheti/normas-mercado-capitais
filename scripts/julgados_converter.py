@@ -7,6 +7,9 @@ frontmatter do contrato, no caminho de `julgados_comum.caminho_julgado`.
 - PAS: PDF pelo PDFKit; página com menos de 20 caracteres vai para OCR (Vision). Seções pelos
   cabeçalhos da peça (Extrato, Relatório, Voto, Declaração de voto, Manifestação da área
   técnica); sem cabeçalho reconhecível, `## Texto`.
+- PAS fora da listagem (origem `noticia`): `## Extrato` do SEI e as peças dos PDFs da notícia
+  (seção pelo cabeçalho ou pelo rótulo do link); ementa (`ementa_fonte: cvm`), data, relator e
+  resultado do extrato; `fonte_original` é a URL da notícia.
 - TC sem item do Colegiado: o termo (PDF ou extrato do SEI, ISO-8859-1, tabela vira bloco).
 - Decisões antigas: um arquivo por ano, `## ATA ...` por reunião e `### ` por decisão
   (segmentação por heurística, anotada em `incerteza`).
@@ -632,6 +635,64 @@ def decisoes_antigas(texto):
     return out
 
 
+_CARGO_RELATOR = re.compile(r"^(?:Presidente|Diretora?)(?:\s+(?:Interin[oa]|Substitut[oa]))?\s+")
+
+
+# parágrafo depois da decisão: presença, composição da sessão e votos (o vencido não decide)
+_FIM_DECISAO = (r"\n\s*\n\s*(?:Após|Presentes?\b|Participaram|Ausentes?\b|[OA] Diretora?\b|"
+                r"[OA] President[ea]\b|[^\n]*\bvotou\b)")
+
+
+def extrato_sei(md):
+    """{data, relator, ementa, decisao} do extrato de sessão de julgamento do SEI em markdown."""
+    plano = re.sub(r"\*+", "", md)
+    d = re.search(r"Data do julgamento:\s*(\d{1,2}/\d{1,2}/\d{4})", plano)
+    r = re.search(r"(?m)^\s*Relatora?:\s*(.+?)\s*$", plano)
+    e = re.search(r"(?m)^\s*Ementa:\s*(.+?)\s*$", plano)
+    dec = re.search(r"(?ms)^\s*Decis[ãa]o:\s*(.+?)(?=%s|\Z)" % _FIM_DECISAO, plano)
+    relator = _CARGO_RELATOR.sub("", r.group(1)).strip(" .") if r else ""
+    return {"data": jc.data_br(d.group(1)) if d else None,
+            "relator": relator if len(relator) <= 80 else "",
+            "ementa": re.sub(r"\s+", " ", e.group(1)).strip() if e else "",
+            "decisao": dec.group(1) if dec else ""}
+
+
+def _pas_da_noticia(item, reg, cv, incerteza):
+    """PAS fora da listagem (origem `noticia`): `## Extrato` do SEI e as peças dos PDFs da
+    notícia; ementa, data, relator e resultado do extrato; fonte original é a notícia."""
+    secoes, ext = [], {"data": None, "relator": "", "ementa": "", "decisao": ""}
+    for arq in _arquivos(reg, "sei"):
+        segs = cv.documento(arq, "Extrato")
+        secoes += segs
+        ext = extrato_sei("\n".join(t for _, t in segs))
+    if not _arquivos(reg, "sei"):
+        incerteza.append("sem extrato do SEI")
+    pdfs = _arquivos(reg, "pdf")
+    for arq in pdfs:
+        padrao = secao_do_anexo(arq.get("rotulo"))
+        for s, t in segmentar(cv.pdf(arq)):
+            s = padrao if s == "Texto" else s
+            if secoes and secoes[-1][0] == s:  # capa da peça e a peça: uma seção só
+                secoes[-1] = (s, secoes[-1][1] + "\n" + t)
+            else:
+                secoes.append((s, t))
+    if not pdfs:
+        incerteza.append("sem PDF das peças; corpo só com o extrato")
+    titulo = "PAS CVM nº %s" % item.get("processo", "")
+    ementa, fonte_ementa = jc.ementa_sem_partes(ext["ementa"]), "cvm"
+    if not ementa:
+        texto = "\n".join(t for _, t in secoes)
+        m = re.search(r"(?m)^\s*Ementa:\s*(.+(?:\n(?!\s*\n).+)*)", texto)
+        ementa = jc.ementa_sem_partes(m.group(1)) if m else ""
+    if not ementa:
+        ementa, fonte_ementa = "Processo administrativo sancionador. Proc. %s." % \
+            item.get("processo", ""), "titulo"
+    res = _um(_RES_PAS, ext["decisao"]) if ext["decisao"] else None
+    noticia = _arquivos(reg, "noticia")
+    fonte = noticia[0] if noticia else reg["arquivos"][0]
+    return titulo, ext["data"], ext["relator"], ementa, fonte_ementa, secoes, fonte, res
+
+
 def converter_item(item, pasta, pm=pdf_macos):
     """(valores do frontmatter, corpo, Conversao) de um julgado já baixado em `pasta`."""
     reg = jb.ler_registro(pasta)
@@ -644,8 +705,17 @@ def converter_item(item, pasta, pm=pdf_macos):
     titulo, data, relator, ementa, fonte_ementa = "", item.get("data"), item.get("relator", ""), \
         "", "titulo"
     secoes, rito = [], item.get("rito", "")
+    res_extrato = None
 
-    if tipo == "pas":
+    if tipo == "pas" and item.get("origem") == "noticia":
+        titulo, d, rel, ementa, fonte_ementa, secoes, fonte, res_extrato = _pas_da_noticia(
+            item, reg, cv, incerteza)
+        data, relator = d or data, relator or rel
+        bruto = "\n".join(cv.brutos)
+        relator = relator or relator_do_texto(bruto)
+        rito = rito or rito_do_texto(bruto)
+
+    elif tipo == "pas":
         if principal["papel"] == "pagina":
             titulo, d, ementa_pag = pas_da_pagina(cv.html(principal, "pas"))
             data = d or data
@@ -744,6 +814,8 @@ def converter_item(item, pasta, pm=pdf_macos):
         res = resultado(tipo, corpo_md, item)
     else:
         res = ""
+    if res_extrato is not None:
+        res = res_extrato
     cv.conferir("\n".join([corpo_md, ementa, data or "", relator]), antes_pii)
     baixas = [c for c in cv.conferencias if c["cobertura"] is not None
               and c["cobertura"] < COBERTURA_BAIXA]

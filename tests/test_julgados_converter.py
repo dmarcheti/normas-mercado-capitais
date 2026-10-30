@@ -184,7 +184,7 @@ class ConverterTest(unittest.TestCase):
         self.assertEqual(confs["02-anexo.pdf"]["conferencia"], "sem conferência independente")
         caminho, md = self.gravar_e_validar(valores, corpo)
         self.assertTrue(caminho.endswith(os.path.join(
-            "julgados-sancionadores", "julgados", "cvm", "colegiado", "2025",
+            "julgados-tc-crsfn", "julgados", "cvm", "colegiado", "2025",
             "col-20251202-d3228.md")))
         self.assertEqual(list(frontmatter(md)), list(jc.CAMPOS))
 
@@ -246,6 +246,54 @@ class ConverterTest(unittest.TestCase):
         with mock.patch.object(conv, "_pypdf_paginas", return_value=None):
             with self.assertRaises(pdf_macos.ErroPdfMacos):
                 conv.texto_pdf(caminho, SemMac({}))
+
+    def test_pas_da_noticia_com_extrato_do_sei(self):
+        g = "https://www.gov.br/cvm/pt-br/assuntos/noticias"
+        item = {"id": "cvm-pas-19957-000444-2025-44", "tipo": "pas", "classe": "",
+                "processo": "19957.000444/2025-44", "nup": "19957-000444-2025-44",
+                "data": "2025-09-10", "url": g + "/2025/cvm-multa", "titulo": "",
+                "origem": "noticia", "noticia": g + "/2025/cvm-multa", "incerteza": []}
+        noticia = b"<html><body><h1>CVM multa acusado</h1></body></html>"
+        sei = ("<html><body><p>Diário Eletrônico da CVM em 17/09/2025</p>"
+               "<p><b>COMISSÃO DE VALORES MOBILIÁRIOS</b></p><p>Extrato de Sessão de Julgamento</p>"
+               "<p><b>DO PROCESSO ADMINISTRATIVO SANCIONADOR CVM nº 19957.000444/2025-44</b></p>"
+               "<p><b>Data do julgamento:</b> 09/09/2025</p>"
+               "<p><b>Relator:</b> Presidente Interino Fulano Exemplo</p>"
+               "<p><b>Acusados:</b></p><p>Beltrano Exemplar</p>"
+               "<p><b>Ementa:</b> Apurar a responsabilidade por infração ao art. 11 da Resolução "
+               "CVM nº 80/2022.<i> Multa.</i></p>"
+               "<p><b>Decisão:</b> o Colegiado decidiu pela <b>condenação</b> de Beltrano "
+               "Exemplar à multa de R$ 100.000,00.</p>"
+               "<p>Presente a Fulana Exemplo, representante da Procuradoria.</p>"
+               "<p>Após analisar o caso, o Diretor Sicrano votou pela absolvição de Beltrano "
+               "Exemplar.</p></body></html>").encode("iso-8859-1")
+        voto = "VOTO\nI. MÉRITO\nEntendo comprovada a infração ao art. 11 da Resolução CVM nº 80."
+        rel = ("PROCESSO ADMINISTRATIVO SANCIONADOR CVM Nº 19957.000444/2025-44\n"
+               "Acusado: Beltrano Exemplar\nRELATÓRIO\nI. OBJETO E ORIGEM\n1. Trata-se de PAS.")
+        montar_cache(self.pasta(item), [
+            ("noticia", "", item["url"], "01-noticia.html", noticia, "text/html; charset=utf-8"),
+            ("pdf", "relatório", g + "/anexos/2025/relatorio.pdf", "02-pdf.pdf", b"%PDF-rel",
+             "application/pdf"),
+            ("pdf", "voto", g + "/anexos/2025/voto.pdf", "03-pdf.pdf", b"%PDF-voto",
+             "application/pdf"),
+            ("sei", "extrato de sessão de julgamento",
+             "https://sei.cvm.gov.br/sei/publicacoes/x?id_documento=9", "04-sei.html", sei,
+             "text/html; charset=iso-8859-1")])
+        with mock.patch.object(conv, "_pypdf_paginas", side_effect=[[rel], [voto]]):
+            valores, corpo, cv = conv.converter_item(
+                item, self.pasta(item), PdfFalso({"02-pdf.pdf": rel, "03-pdf.pdf": voto}))
+        # capa do relatório e o relatório viram uma seção só; o voto vencido não decide
+        self.assertEqual([s for s in corpo.splitlines() if s.startswith("## ")],
+                         ["## Extrato", "## Relatório", "## Voto"])
+        self.assertTrue(corpo.startswith("# PAS CVM nº 19957.000444/2025-44\n"))
+        self.assertEqual(valores["ementa"], "Apurar a responsabilidade por infração ao art. 11 "
+                                            "da Resolução CVM nº 80/2022. Multa.")
+        self.assertEqual(valores["ementa_fonte"], "cvm")
+        self.assertEqual((valores["data"], valores["relator"], valores["resultado"]),
+                         ("2025-09-09", "Fulano Exemplo", "condenacao"))
+        self.assertEqual(valores["fonte_original"], item["url"])
+        self.assertEqual(valores["sha256_fonte"], hashlib.sha256(noticia).hexdigest())
+        self.gravar_e_validar(valores, corpo)
 
     def test_tc_avulso_do_sei(self):
         item = {"id": "cvm-tc-19957-000789-2022-10-20230110", "tipo": "termo-compromisso",

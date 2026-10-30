@@ -51,7 +51,7 @@ def montar(valores, corpo=CORPO, ordem=None):
 class TestValidarJulgado(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
-        self.raiz = os.path.join(self.tmp.name, "plugins", "julgados-sancionadores", "julgados")
+        self.raiz = os.path.join(self.tmp.name, "plugins", "julgados-pas", "julgados")
 
     def tearDown(self):
         self.tmp.cleanup()
