@@ -82,3 +82,12 @@ class TestCnpjDeDigitoRepetido(unittest.TestCase):
     def test_sequencia_de_um_digito_nao_e_cnpj(self):
         from varrer_termos import varrer
         self.assertEqual(varrer({"a.md": "repetidos (p.ex., " + "9" * 14 + ")"}, []), [])
+
+
+class TestCnpjsPublicos(unittest.TestCase):
+    def test_cnpj_da_lista_passa(self):
+        self.assertEqual(varrer({"a.md": "Banco B3 S.A. CNPJ: 00.997.185/0001-50"}, []), [])
+
+    def test_outro_cnpj_continua_bloqueado(self):
+        outro = "11.222." + "333/0001-81"  # montado aqui para a varredura não barrar este arquivo
+        self.assertEqual(varrer({"a.md": "CNPJ: " + outro}, []), ["a.md: " + outro])

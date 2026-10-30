@@ -124,20 +124,10 @@ def titulo(d):
     return t[:1].upper() + t[1:]
 
 
-# Fora até decisão do Diogo: o texto cita CNPJ de empresa e a varredura do pre-commit bloqueia CNPJ.
-PENDENTES = {
-    "Regulamento do FILCB.pdf": "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
-    "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf":
-        "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
-}
-
-
 def perimetro(d):
     """(entra?, motivo) do documento na camada 5."""
     if d["arquivo"] in SUBSTITUIDOS:
         return False, SUBSTITUIDOS[d["arquivo"]]
-    if d["arquivo"] in PENDENTES:
-        return False, PENDENTES[d["arquivo"]]
     txt = " ".join(d["rotulos"]) + " " + d["arquivo"]
     if d["marcas"] == "com":
         return False, "versão com marcas (há a sem marcas)"

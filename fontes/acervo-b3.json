@@ -270,8 +270,8 @@
    "data_nome": "2026-07-20",
    "formato": "pdf",
    "categoria": "acesso",
-   "entra": false,
-   "motivo": "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
    "titulo": "Manual de Normas de Direito de Acesso do Balcão B3",
    "chave": "manual de normas de direito de acesso"
   },
@@ -2527,7 +2527,7 @@
    "formato": "pdf",
    "categoria": "central-depositaria",
    "entra": false,
-   "motivo": "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
+   "motivo": "versão anterior ou cópia de Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf",
    "titulo": "Manual de Normas de Direito de Acesso do Balcão B3",
    "chave": "manual de normas de direito de acesso"
   },
@@ -3496,8 +3496,8 @@
    "data_nome": null,
    "formato": "pdf",
    "categoria": "central-depositaria",
-   "entra": false,
-   "motivo": "aguarda decisão: o texto cita CNPJ de empresa (varredura do pre-commit)",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
    "titulo": "Regulamento do FILCB",
    "chave": "regulamento do filcb"
   },

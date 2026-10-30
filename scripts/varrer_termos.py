@@ -2,7 +2,9 @@
 """Varredura de termos proibidos antes de cada commit.
 
 Regras:
-- CNPJ (com ou sem pontuação) é regra fixa e sempre vale.
+- CNPJ (com ou sem pontuação) é regra fixa e sempre vale, salvo os CNPJs públicos de empresa
+  listados em CNPJS_PUBLICOS, que fazem parte do texto de uma norma do acervo (decisão do Diogo,
+  2026-10-29). Cada inclusão na lista é uma decisão dele, com o motivo.
 - Nomes proibidos vêm de uma lista local (um termo por linha, "#" comenta),
   lida de $NORMAS_TERMOS. A lista nunca entra neste repositório.
 - Sem a lista, o script avisa e aplica só a regra de CNPJ.
@@ -17,6 +19,13 @@ import sys
 
 # Sem letra ou dígito colado: 14 dígitos dentro de um hash hexadecimal (sha256) não são CNPJ.
 CNPJ = re.compile(r"(?<![0-9A-Za-z])\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}(?![0-9A-Za-z])")
+# CNPJ (só dígitos) -> motivo. Empresa citada no texto de norma do acervo; não é dado pessoal.
+CNPJS_PUBLICOS = {
+    "28671705000150": "FILCB (fundo de liquidez da Câmara B3), no Regulamento do FILCB",
+    "00997185000150": "Banco B3 S.A., administrador do FILCB, no Regulamento do FILCB",
+    "33268302000102": "Laqus Depositária de Valores Mobiliários S.A., no Manual de Normas de Direito de Acesso da B3",
+    "97521479000143": "SL Tools S.A., no Manual de Normas de Direito de Acesso da B3",
+}
 
 def _caminho_lista():
     """Caminho da lista de termos, que fica fora do repositório.
@@ -67,6 +76,8 @@ def varrer(textos, termos):
         for m in CNPJ.finditer(texto):
             if len(set(re.sub(r"\D", "", m.group(0)))) == 1:
                 continue  # 99999999999999: exemplo de CNPJ inválido citado em norma, não é CNPJ
+            if re.sub(r"\D", "", m.group(0)) in CNPJS_PUBLICOS:
+                continue  # CNPJ público de empresa, liberado com motivo
             if m.group(0) not in vistos:
                 vistos.add(m.group(0))
                 achados.append("%s: %s" % (arquivo, m.group(0)))

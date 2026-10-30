@@ -25,5 +25,5 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 | Normas do CMN | 57 | [indices/cmn.md](indices/cmn.md) (mais 33 ato(s) só alterador(es), sem arquivo) |
 | Normas do BCB | 71 | [indices/bcb.md](indices/bcb.md) (mais 44 ato(s) só alterador(es), sem arquivo) |
 | Autorregulação ANBIMA | 38 | [indices/anbima.md](indices/anbima.md) |
-| Autorregulação B3 | 57 | [indices/b3.md](indices/b3.md) |
+| Autorregulação B3 | 59 | [indices/b3.md](indices/b3.md) |
 | Atos alteradores (texto integral do ato) | 58 | [indices/alteradoras.md](indices/alteradoras.md) |

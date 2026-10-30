@@ -5424,6 +5424,16 @@
     "baixado_em": "2026-10-29"
   },
   {
+    "id": "b3-regulamento-do-filcb",
+    "tipo": "regulamento",
+    "titulo": "Regulamento do FILCB",
+    "ementa": "Regulamento do FILCB",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-do-filcb.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
     "id": "b3-regulamento-do-novo-mercado",
     "tipo": "regulamento",
     "titulo": "Regulamento do Novo Mercado",
@@ -5571,6 +5581,16 @@
     "situacao": "vigente",
     "vigente_ate_ato": "",
     "caminho": "autorregulacao/b3/manual-de-normas-de-direito-creditorio-e-de-unidade-de-recebiveis.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-direito-de-acesso-do-balcao-b3",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Direito de Acesso do Balcão B3",
+    "ementa": "Manual de Normas de Direito de Acesso do Balcão B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-direito-de-acesso-do-balcao-b3.md",
     "baixado_em": "2026-10-29"
   },
   {
