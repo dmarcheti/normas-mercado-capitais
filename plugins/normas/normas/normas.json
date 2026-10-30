@@ -3862,5 +3862,2235 @@
     "vigente_ate_ato": "",
     "caminho": "leis/decreto-11964.md",
     "baixado_em": "2026-10-28"
+  },
+  {
+    "id": "cmn-res-102",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 102/1968",
+    "ementa": "Aprova modelos para emissão de duplicatas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/0102.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1502",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.502/1988",
+    "ementa": "Autoriza o aceite por bancos comerciais em letras de câmbio, emitidas em decorrência de operações de crédito garantidas com caução de warrants.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1502.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1581",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.581/1989",
+    "ementa": "Autoriza o BCB a baixar normas sobre utilização de chancela mecânica em duplicatas emitidas ou endossadas pelo emitente, na forma que indica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1581.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1660",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.660/1989",
+    "ementa": "Aprova o regulamento que disciplina a conversão, em valores mobiliários, das quotas de emissão do Fundo de Investimentos da Amazônia (Finam), do Fundo de Investimentos do Nordeste (Finor), do Fundo de Investimentos Setoriais (Fiset) e do Fundo de Recuperação do Estado do Espírito Santo (Funres).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1660.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1775",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.775/1990",
+    "ementa": "Estabelece critérios de enquadramento nos limites de diversificação de risco de que trata a Resolução nº 1.559, de 22.12.88, e veda a aquisição de valores mobiliários de emissão de empresas ligadas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1775.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1777",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.777/1990",
+    "ementa": "Dispõe sobre a emissão de debêntures e respectiva subscrição por parte de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1777.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-1825",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 1.825/1991",
+    "ementa": "Estabelece condições para a emissão das cédulas pignoratícias de debêntures de que trata o art. 72 da Lei nº 6.404, de 15.12.76.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/1825.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2487",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.487/1998",
+    "ementa": "Fundos de Investimentos Regionais - Exercício Social - Resolução nº 1.660, de 26.10.89.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2487.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2572",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.572/1998",
+    "ementa": "Dispõe sobre a remuneração dos agentes fiduciários prevista no Decreto-lei nº 70, de 21.11.66.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2572.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2646",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.646/1999",
+    "ementa": "Faculta a utilização da Taxa de Juros de Longo Prazo - TJLP operações realizadas no mercado de valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2646.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2686",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.686/2000",
+    "ementa": "Estabelece condições para a cessão de créditos a sociedades anônimas de objeto exclusivo e a companhias securitizadoras de créditos imobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2686.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2734",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.734/2000",
+    "ementa": "Dispõe sobre a aplicação de recursos das sociedades seguradoras, das sociedades de capitalização, das entidades abertas de previdência privada e dos resseguradores locais em créditos securitizados pelo Tesouro Nacional e em títulos públicos de emissão de estados e municípios que tenham sido objeto de refinanciamento pelo Tesouro Nacional.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2734.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2830",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.830/2001",
+    "ementa": "Dispõe sobre a atuação das sociedades corretoras de títulos e valores mobiliários e das sociedades distribuidoras de títulos e valores mobiliários como agentes fiduciários em operações de crédito imobiliário com garantia hipotecária.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2830.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2843",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.843/2001",
+    "ementa": "Dispõe sobre a negociação de Cédulas de Crédito Bancário e sobre a emissão de certificado representativo dessas cédulas por parte de instituições financeiras.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2843.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2845",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.845/2001",
+    "ementa": "Autoriza a IFC - International Finance Corporation a emitir no mercado de valores mobiliários brasileiro obrigações representativas dos investimentos previstos no Decreto nº 41.724, de 1957.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2845.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-2907",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 2.907/2001",
+    "ementa": "Autoriza a constituição e o funcionamento de fundos de investimento em direitos creditórios e de fundos de aplicação em quotas de fundos de investimento em direitos creditórios.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/2907.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3042",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.042/2002",
+    "ementa": "Dispõe sobre a aplicação dos recursos das reservas, das provisões e dos fundos das sociedades seguradoras especializadas em seguro saúde, bem como acerca da aceitação dos ativos correspondentes como garantidores dos respectivos recursos, na forma da legislação e da regulamentação em vigor.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3042.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3111",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.111/2003",
+    "ementa": "Dispõe sobre o conceito de empresa ligada nos casos de aquisição de Certificados de Recebíveis Imobiliários - CRI.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3111.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3261",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.261/2005",
+    "ementa": "Dispõe acerca do exercício das atividades de administração e de gestão de fundos de investimento, bem como de distribuição de quotas desses condomínios e de captação de ordens pulverizadas de venda de ações.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3261.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3334",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.334/2005",
+    "ementa": "Estabelece normas a serem observadas pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, bem como altera e revoga disposições regulamentares e normas editadas pelo Banco Central do Brasil, relativas a fundos de investimento, em decorrência da Lei 10.303, de 2001, ou sem função.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3334.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3427",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.427/2006",
+    "ementa": "Estabelece, como política a ser observada no mercado de valores mobiliários, e como orientação geral das atividades finalísticas da CVM, a adoção de um modelo de regulação e supervisão baseado em risco, com a implantação de um Sistema de Supervisão Baseada em Risco do mercado de valores mobiliários - SBR.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3427.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3441",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.441/2007",
+    "ementa": "Dispõe sobre a análise, pela Comissão de Valores Mobiliários, de pleitos relativos a emissões de valores mobiliários no mercado brasileiro por organismos financeiros multilaterais autorizados a captar recursos no Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3441.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3505",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.505/2007",
+    "ementa": "Dispõe sobre a realização, no País, de operações de derivativos no mercado de balcão pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3505.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3621",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.621/2008",
+    "ementa": "Regulamenta a emissão de Certificados de Recebíveis do Agronegócio (CRA) para fins do disposto no inciso III do § 8º do art. 3º, da Lei nº 9.718, de 27 de novembro de 1998.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3621.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3824",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.824/2009",
+    "ementa": "Dispõe sobre o registro de instrumentos financeiros derivativos contratados por instituições financeiras no exterior.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3824.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3908",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.908/2010",
+    "ementa": "Dispõe sobre a indicação de diretor responsável pelos processos de consulta a informações relativas a posições em instrumentos financeiros derivativos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3908.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-3998",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 3.998/2011",
+    "ementa": "Dispõe sobre o registro de operações de cessão de créditos e de arrendamento mercantil em sistemas de registro e liquidação financeira de ativos autorizados pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/3998.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4277",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.277/2013",
+    "ementa": "Estabelece requisitos mínimos e ajustes prudenciais a serem observados no processo de apreçamento de instrumentos financeiros avaliados pelo valor de mercado.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4277.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4415",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.415/2015",
+    "ementa": "Dispõe sobre o direcionamento dos recursos captados por meio da emissão de Letra de Crédito do Agronegócio (LCA) lastreada em direitos creditórios originados de operações sujeitas aos direcionamentos de que tratam o MCR 6-2 e 6-4 ou contratadas com recursos de que trata o MCR 6-1-2 e veda gravame em duplicidade na emissão desse título.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4415.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4476",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.476/2016",
+    "ementa": "Dispõe sobre a liquidação antecipada das debêntures de infraestrutura de que trata o art. 2º da Lei nº 12.431, de 24 de junho de 2011.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4476.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4593",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.593/2017",
+    "ementa": "Dispõe sobre o registro e o depósito centralizado de ativos financeiros e valores mobiliários por parte de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, bem como sobre a prestação de serviços de custódia de ativos financeiros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4593.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4662",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.662/2018",
+    "ementa": "Dispõe sobre o requerimento de margem bilateral de garantia em operações com instrumentos financeiros derivativos realizadas no País ou no exterior por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, não liquidadas por meio de entidade que se interponha como contraparte central.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4662.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4734",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.734/2019",
+    "ementa": "Estabelece condições e procedimentos para a realização de operações de desconto de recebíveis de arranjo de pagamento integrante do Sistema de Pagamentos Brasileiro baseado em conta pós-paga e de depósito à vista e de operações de crédito garantidas por esses recebíveis, por parte das instituições financeiras; e altera o art. 2º da Resolução nº 4.593, de 28 de agosto de 2017.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4734.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4751",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.751/2019",
+    "ementa": "Dispõe sobre a liquidação antecipada das debêntures de infraestrutura de que trata o art. 2º da Lei nº 12.431, de 24 junho de 2011.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4751.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4815",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.815/2020",
+    "ementa": "Dispõe sobre condições e procedimentos para a realização de operações de desconto de recebíveis mercantis e de operações de crédito garantidas por esses recebíveis pelas instituições financeiras.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4815.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4947",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.947/2021",
+    "ementa": "Dispõe sobre a emissão de Certificado de Recebíveis do Agronegócio (CRA) com cláusula de correção pela variação cambial para investidor residente no Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4947.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4948",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.948/2021",
+    "ementa": "Dispõe sobre a realização de operações em derivativos no exterior por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e as transferências financeiras delas decorrentes; altera a Resolução nº 3.568, de 29 de maio de 2008, que dispõe sobre o mercado de câmbio, e a Resolução nº 4.033, de 30 de novembro de 2011, que dispõe sobre a aplicação no exterior das disponibilidades em moeda estrangeira dos bancos autorizados a operar no mercado de câmbio e sobre a captação de recursos externos para as finalidades que especifica; e revoga a Resolução nº 3.312, de 31 de agosto de 2005, que dispõe sobre operações de proteção (hedge) com instituições financeiras do exterior ou em bolsas estrangeiras, e a Resolução nº 3.833, de 28 de janeiro de 2010.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4948.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4952",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.952/2021",
+    "ementa": "Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação no âmbito do Sistema de Pagamentos Brasileiro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4952.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4966",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.966/2021",
+    "ementa": "Dispõe sobre os conceitos e os critérios contábeis aplicáveis a instrumentos financeiros, bem como para a designação e o reconhecimento das relações de proteção (contabilidade de hedge) pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4966.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4993",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.993/2022",
+    "ementa": "Dispõe sobre as normas que disciplinam a aplicação dos recursos das reservas técnicas, das provisões e dos fundos das sociedades seguradoras, das sociedades de capitalização, das entidades abertas de previdência complementar e dos resseguradores locais, sobre as aplicações dos recursos exigidos no País para a garantia das obrigações de ressegurador admitido e sobre a carteira dos Fundos de Aposentadoria Programada Individual (Fapi).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4993.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-4994",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 4.994/2022",
+    "ementa": "Dispõe sobre as diretrizes de aplicação dos recursos garantidores dos planos administrados pelas entidades fechadas de previdência complementar.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/4994.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5001",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.001/2022",
+    "ementa": "Dispõe sobre a emissão de Letras Imobiliárias Garantidas pelas instituições financeiras que específica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5001.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5006",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.006/2022",
+    "ementa": "Dispõe sobre a Letra de Crédito do Agronegócio (LCA).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5006.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5007",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.007/2022",
+    "ementa": "Dispõe sobre as condições de emissão de Letra Financeira pelas instituições financeiras que especifica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5007.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5008",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.008/2022",
+    "ementa": "Dispõe sobre a constituição, a organização e o funcionamento das sociedades corretoras de títulos e valores mobiliários e das sociedades distribuidoras de títulos e valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5008.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5046",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.046/2022",
+    "ementa": "Dispõe sobre a organização e o funcionamento de bancos de investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5046.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5050",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.050/2022",
+    "ementa": "Dispõe sobre a organização e o funcionamento de sociedade de crédito direto e de sociedade de empréstimo entre pessoas e disciplina a realização de operações de empréstimo e de financiamento entre pessoas por meio de plataforma eletrônica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5050.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5070",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.070/2023",
+    "ementa": "Dispõe sobre a realização de operações de derivativos de crédito no País por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5070.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5105",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.105/2023",
+    "ementa": "Estabelece diretrizes mínimas para a disciplina das condições de constituição e de funcionamento, para a autorização para constituição e funcionamento e para a supervisão das atividades das sociedades corretoras de títulos e valores mobiliários, das sociedades corretoras de câmbio e das sociedades distribuidoras de títulos e valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5105.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5111",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.111/2023",
+    "ementa": "Regulamenta os conceitos de entidade de investimento e de direitos creditórios para fins do disposto no art. 19 e no art. 23 da Lei nº 14.754, de 12 de dezembro de 2023, e no § 7º do art. 3º da Lei nº 11.312, de 27 de junho de 2006, incluído pelo art. 15 da Lei nº 14.711, de 30 de outubro de 2023.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5111.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5118",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.118/2024",
+    "ementa": "Dispõe sobre o lastro da emissão de Certificados de Recebíveis do Agronegócio (CRAs) e de Certificados de Recebíveis Imobiliários (CRIs).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5118.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5160",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.160/2024",
+    "ementa": "Disciplina a aplicação de recursos captados por emissão de Letra de Crédito do Agronegócio – LCA (MCR 6-7) em operações sujeitas à subvenção econômica da União, sob a forma de equalização de encargos financeiros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5160.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5166",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.166/2024",
+    "ementa": "Dispõe sobre as condições de emissão de Certificado de Operações Estruturadas – COE pelas instituições financeiras que especifica.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5166.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5169",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.169/2024",
+    "ementa": "Dispõe sobre as condições de emissão de Letra de Crédito do Desenvolvimento – LCD.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5169.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5210",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.210/2025",
+    "ementa": "Estabelece regras para os recursos captados por meio de emissão de Letra de Crédito do Agronegócio – LCA por cooperativas de crédito integrantes de sistemas cooperativos e disciplina o cumprimento do direcionamento de aplicação em crédito rural advindo dessa captação, de que trata a Seção 7 (Letra de Crédito do Agronegócio – LCA) do Capítulo 6 (Recursos) do Manual de Crédito Rural – MCR.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5210.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5272",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.272/2025",
+    "ementa": "Dispõe sobre as aplicações dos recursos dos regimes próprios de previdência social – RPPSs.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5272.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "cmn-res-5298",
+    "tipo": "resolucao-cmn",
+    "titulo": "Resolução CMN nº 5.298/2026",
+    "ementa": "Dispõe sobre a organização e o funcionamento do mercado de derivativos no país.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "cmn/resolucoes/5298.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-38",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 38/2020",
+    "ementa": "Consolida a remessa de informações sobre cotistas de fundos de investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0038.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-52",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 52/2020",
+    "ementa": "Dispõe sobre a disponibilização de informações relativas a Cédulas de Produto Rural registradas ou depositadas em sistema de registro ou de depósito centralizado operado por entidade registradora ou depositária central autorizada pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0052.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-55",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 55/2020",
+    "ementa": "Aprova o Regulamento do Sistema Especial de Liquidação e de Custódia (Selic).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0055.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-102",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 102/2021",
+    "ementa": "Dispõe sobre a elaboração e a remessa de informações relativas aos instrumentos financeiros objeto de garantia ao Fundo Garantidor de Créditos (FGC) e sobre a apuração da base de cálculo e o recolhimento das contribuições das instituições associadas ao FGC.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0102.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-122",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 122/2021",
+    "ementa": "Dispõe sobre o depósito de Letras Financeiras em entidade autorizada pelo Banco Central do Brasil e sobre a autorização para utilização de recursos captados por meio de Letra Financeira na composição do Patrimônio de Referência.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0122.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-144",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 144/2021",
+    "ementa": "Consolida e modifica a disciplina das operações de empréstimo por meio de Linha Temporária Especial de Liquidez para aquisição de Letra Financeira com garantia em ativos financeiros (LTEL-LFG).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0144.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-168",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 168/2021",
+    "ementa": "Dispõe sobre os critérios contábeis aplicáveis às instituições de pagamento, às sociedades corretoras de títulos e valores mobiliários, às sociedades distribuidoras de títulos e valores mobiliários e às sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil na elaboração dos documentos contábeis consolidados do conglomerado prudencial e sobre os procedimentos operacionais para a elaboração desses documentos pelas instituições financeiras e pelas instituições de pagamento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0168.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-196",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 196/2022",
+    "ementa": "Consolida e estabelece novas condições para o cadastramento de operações no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0196.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-218",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 218/2022",
+    "ementa": "Dispõe sobre as condições para registro e depósito centralizado da Letra de Crédito do Agronegócio (LCA) e dos direitos creditórios a ela vinculados.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0218.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-225",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 225/2022",
+    "ementa": "Dispõe sobre a autorização para o exercício da função de agente fiduciário em emissão de Letra Imobiliária Garantida (LIG), sobre os procedimentos e as informações necessárias para o depósito de LIG e para o registro ou depósito dos ativos integrantes da carteira de ativos e sobre a prestação de informações aos investidores por parte de instituições emissoras de LIG.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0225.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-264",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 264/2022",
+    "ementa": "Dispõe sobre o registro de recebíveis decorrentes de transações no âmbito de arranjo de pagamento baseado em conta pós-paga e de depósito à vista integrante do Sistema de Pagamentos Brasileiro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0264.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-278",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 278/2022",
+    "ementa": "Regulamenta a Lei nº 14.286, de 29 de dezembro de 2021, em relação ao capital estrangeiro no País, nas operações de crédito externo e de investimento estrangeiro direto, bem como a prestação de informações ao Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0278.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-280",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 280/2022",
+    "ementa": "Regulamenta o art. 1º da Lei nº 14.286, de 29 de dezembro de 2021, em relação à definição de residente e de não residente a ser aplicada para pessoas físicas e jurídicas.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0280.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-304",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 304/2023",
+    "ementa": "Aprova o Regulamento que disciplina, no âmbito do Sistema de Pagamentos Brasileiro, o funcionamento dos sistemas de liquidação, o exercício das atividades de registro e de depósito centralizado de ativos financeiros e a constituição de ônus e gravames sobre ativos financeiros registrados ou depositados, e consolida normas sobre a matéria.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0304.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-308",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 308/2023",
+    "ementa": "Dispõe sobre as condições para o exercício das atividades de registro e de depósito centralizado de recebíveis imobiliários por entidades registradoras e depositários centrais de ativos financeiros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0308.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-334",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 334/2023",
+    "ementa": "Estabelece requisitos mínimos e ajustes prudenciais a serem observados por conglomerado prudencial classificado como Tipo 3 no processo de apreçamento de instrumentos financeiros avaliados pelo valor de mercado.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0334.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-339",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 339/2023",
+    "ementa": "Dispõe sobre a atividade de escrituração de duplicata escritural, sobre o sistema eletrônico de escrituração gerido por entidade autorizada a exercer essa atividade e sobre o registro, o depósito centralizado e a negociação desses títulos de crédito escriturais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0339.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-352",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 352/2023",
+    "ementa": "Dispõe sobre os conceitos e os critérios contábeis aplicáveis a instrumentos financeiros, bem como para a designação e o reconhecimento das relações de proteção (contabilidade de hedge) pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários, pelas sociedades corretoras de câmbio, pelas administradoras de consórcio e pelas instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil e sobre os procedimentos contábeis para a definição de fluxos de caixas de ativo financeiro como somente pagamento de principal e juros, a aplicação da metodologia para apuração da taxa de juros efetiva de instrumentos financeiros, a constituição de provisão para perdas associadas ao risco de crédito e a evidenciação de informações relativas a instrumentos financeiros em notas explicativas a serem observados pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0352.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-358",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 358/2023",
+    "ementa": "Dispõe sobre a atuação das sociedades corretores de títulos e valores mobiliários e sociedades distribuidoras de títulos e valores mobiliários como contraparte em operações de carteiras de terceiros por elas administradas e sobre a segregação da atividade de administração de recursos de terceiros nessas instituições.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0358.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-369",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 369/2024",
+    "ementa": "Dispõe sobre a certificação de empregados das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários e das sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0369.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-392",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 392/2024",
+    "ementa": "Institui o Catálogo de Ativos Financeiros – CAF.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0392.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-411",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 411/2024",
+    "ementa": "Dispõe sobre as condições para depósito centralizado de Letra de Crédito do Desenvolvimento – LCD em entidade autorizada pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0411.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-472",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 472/2025",
+    "ementa": "Disciplina a padronização dos eventos de interoperabilidade passíveis de cobrança entre entidades registradoras de recebíveis de arranjos de pagamento e estabelece os limites máximos para os valores dessas tarifas e as suas formas de cobrança.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0472.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-519",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 519/2025",
+    "ementa": "Disciplina os processos de autorização relacionados ao funcionamento das sociedades corretoras de câmbio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários e das sociedades prestadoras de serviços de ativos virtuais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0519.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-525",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 525/2025",
+    "ementa": "Dispõe sobre a realização de operações compromissadas com títulos de renda fixa pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0525.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-res-528",
+    "tipo": "resolucao-bcb",
+    "titulo": "Resolução BCB nº 528/2025",
+    "ementa": "Dispõe sobre a elaboração e a remessa de informações relativas aos instrumentos financeiros objeto de garantia ao Fundo Garantidor do Cooperativismo do Crédito – FGCoop e sobre a apuração da base de cálculo e o recolhimento da contribuição ordinária das instituições associadas ao FGCoop.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes/0528.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-resc-9",
+    "tipo": "resolucao-conjunta",
+    "titulo": "Resolução Conjunta nº 9/2024",
+    "ementa": "Disciplina a atuação, os requisitos, as atribuições e as responsabilidades do agente fiduciário na emissão de Letra de Risco de Seguro por meio de Sociedade Seguradora de Propósito Específico.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes-conjuntas/0009.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-resc-12",
+    "tipo": "resolucao-conjunta",
+    "titulo": "Resolução Conjunta nº 12/2024",
+    "ementa": "Dispõe sobre a faculdade de concessão, como garantia de operações de crédito, do direito de resgate assegurado aos participantes de planos de previdência complementar aberta, aos segurados de seguros de pessoas e aos titulares de títulos de capitalização, de que trata a Lei nº 14.652, de 23 de agosto de 2023.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes-conjuntas/0012.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-resc-13",
+    "tipo": "resolucao-conjunta",
+    "titulo": "Resolução Conjunta nº 13/2024",
+    "ementa": "Dispõe sobre o investimento de não residente no mercado financeiro e no mercado de valores mobiliários.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/resolucoes-conjuntas/0013.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-1452",
+    "tipo": "circular",
+    "titulo": "Circular nº 1.452/1989",
+    "ementa": "Regulamenta a Resolução nº 1.581/1989, aprovando as normas que deverão ser observadas na autenticação por chancela mecânica das duplicatas emitidas ou endossadas pelo emitente.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/1452.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-1832",
+    "tipo": "circular",
+    "titulo": "Circular nº 1.832/1990",
+    "ementa": "Programa federal de desregulamentação/Decreto 99.179, de 15/03/90 - Dispensa o credenciamento prévio pelo Banco Central para exercer a função de agente fiduciário de debenturistas, atuar como agente fiduciário de empréstimos com garantia hipotecária, de que trata o artigo 30 do Decreto-lei 70, de 21/11/66 e para repassar recursos oficiais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/1832.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-1967",
+    "tipo": "circular",
+    "titulo": "Circular nº 1.967/1991",
+    "ementa": "Autoriza os bancos múltiplos com carteira comercial de investimento ou de desenvolvimento, os bancos comerciais, os bancos de os bancos de investimento e os bancos de desenvolvimento a emitirem cédulas pignoratícias de debêntures.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/1967.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3082",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.082/2002",
+    "ementa": "Estabelece e consolida critérios para registro e avaliação contábil de instrumentos financeiros derivativos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3082.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3106",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.106/2002",
+    "ementa": "Dispõe sobre a realização de operações de derivativos de crédito de que trata a Resolução 2.933, de 28 de fevereiro de 2002.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3106.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3282",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.282/2005",
+    "ementa": "Estabelece prazo para o registro de títulos e valores mobiliários e dispõe sobre a remessa de informações pelos sistemas de registro e de liquidação financeira, nos termos previstos na Resolução 3.272, de 2005.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3282.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3312",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.312/2006",
+    "ementa": "Faculta a realização de operações compromissadas tendo por objeto obrigações emitidas pela IFC International Finance Corporation e revoga a Circular 3.265, de 2004.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3312.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3453",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.453/2009",
+    "ementa": "Define prazo para o registro dos depósitos a prazo com garantia especial do Fundo Garantidor de Créditos (FGC) em sistema de registro e de liquidação financeira.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3453.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3553",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.553/2011",
+    "ementa": "Dispõe sobre as condições para registro de operações de cessão de créditos em sistemas de registro e de liquidação financeira de ativos autorizados pelo Banco Central do Brasil.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3553.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3614",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.614/2012",
+    "ementa": "Dispõe sobre as condições de emissão de Letra de Crédito Imobiliário (LCI) e autoriza sua emissão por banco de investimento.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3614.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3684",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.684/2013",
+    "ementa": "Estabelece metodologia padronizada para a realização de análise de sensibilidade do valor de mercado do Certificado de Operações Estruturadas (COE), para fins de informação à entidade administradora do sistema de registro.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3684.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3685",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.685/2013",
+    "ementa": "Estabelece critérios para avaliação da relação entre o investimento inicial em Certificado de Operações Estruturadas (COE) e os seus resultados potenciais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3685.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3736",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.736/2014",
+    "ementa": "Estabelece cronograma e condições para registro das operações de cessão de créditos que especifica, nos termos da Resolução nº 3.998, de 28 de julho de 2011.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3736.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3866",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.866/2017",
+    "ementa": "Estabelece procedimentos para registro contábil e divulgação de informações pela instituição emissora de Letra Imobiliária Garantida (LIG), na condição de administradora das carteiras de ativos submetidas ao regime fiduciário previsto no art. 69 da Lei nº 13.097, de 19 de janeiro de 2015.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3866.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3902",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.902/2018",
+    "ementa": "Dispõe sobre os procedimentos para o cumprimento do requerimento de margem bilateral de garantia em operações com instrumentos financeiros derivativos realizadas no País ou no exterior por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, não liquidadas por meio de entidade que se interponha como contraparte central.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3902.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-3903",
+    "tipo": "circular",
+    "titulo": "Circular nº 3.903/2018",
+    "ementa": "Estabelece procedimentos e regras para escrituração contábil e para elaboração, remessa e divulgação de demonstrações financeiras aplicáveis à sociedade de crédito direto e à sociedade de empréstimo entre pessoas, altera e exclui atributos no elenco de contas do Plano Contábil das Instituições do Sistema Financeiro Nacional e altera o Anexo 1 da Circular nº 3.764, de 26 de agosto de 2015.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/3903.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-circ-4036",
+    "tipo": "circular",
+    "titulo": "Circular nº 4.036/2020",
+    "ementa": "Dispõe sobre o exercício da atividade de escrituração de Cédula de Crédito Bancário e de Cédula de Crédito Rural por instituições financeiras e altera a Circular nº 3.616, de 30 de novembro de 2012.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/circulares/4036.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-2993",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 2.993/2002",
+    "ementa": "Esclarece sobre a cessão de créditos a pessoas não integrantes do Sistema Financeiro Nacional.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/2993.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3023",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.023/2002",
+    "ementa": "Cria, exclui e altera subgrupo, desdobramento de subgrupo, títulos e subtítulos do Cosif e esclarece acerca de procedimentos para registro dos títulos e valores mobiliários e instrumentos financeiros derivativos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3023.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3073",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.073/2002",
+    "ementa": "Cria títulos e subtítulos no Cosif e esclarece acerca de procedimentos para registro dos derivativos de crédito.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3073.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3360",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.360/2008",
+    "ementa": "Cria e altera desdobramento de subgrupo, títulos e subtítulos contábeis no Cosif para o registro contábil de operações de venda ou de transferência de ativos financeiros.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3360.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3577",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.577/2012",
+    "ementa": "Divulga procedimentos para a identificação das condições do crédito ou dos créditos que lastreiam a emissão de Letra de Crédito Imobiliário (LCI) registrada em sistemas de registro e liquidação financeira de ativos, de que trata a Circular n˚ 3.614, de 14 de novembro de 2012.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3577.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3619",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.619/2013",
+    "ementa": "Esclarece acerca dos instrumentos aptos a servir de lastro para emissão de letras de crédito imobiliário, nos termos da Circular nº 3.614, de 14 de novembro de 2012.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3619.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-cc-3934",
+    "tipo": "carta-circular",
+    "titulo": "Carta Circular nº 3.934/2019",
+    "ementa": "Esclarece acerca de dispositivos de que tratam a Resolução nº 4.707 e a Circular nº 3.924, ambas de 19 de dezembro de 2018, que dispõem sobre a utilização de recebíveis de arranjo de pagamento em garantia de operações de crédito.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/cartas-circulares/3934.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-41",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 41/2020",
+    "ementa": "Estabelece cronograma de testes homologatórios de integração que deve ser observado pelas instituições financeiras, instituições credenciadoras e subcredenciadoras e entidades registradoras para a realização das operações e atividades de que tratam a Resolução nº 4.734 e a Circular nº 3.952, ambas de 27 de junho de 2019.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0041.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-78",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 78/2021",
+    "ementa": "Estabelece o cronograma de ciclo complementar de testes homologatórios de integração que deve ser observado pelas instituições financeiras, instituições credenciadoras e subcredenciadoras e entidades registradoras para a realização das operações e atividades de que tratam a Resolução nº 4.734 e a Circular nº 3.952, ambas de 27 de junho de 2019, e altera as instruções normativas ns. 41, de 5 de novembro de 2020, e 70, de 15 de janeiro de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0078.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-94",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 94/2021",
+    "ementa": "Consolida os procedimentos para remessa de informações sobre cotistas de fundos de investimento, de que trata a Resolução BCB nº 38, de 11 de novembro de 2020.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0094.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-163",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 163/2021",
+    "ementa": "Divulga procedimentos a serem observados para a adesão, contratação e pagamento de operações de empréstimo por meio da Linha Temporária Especial de Liquidez para aquisição de Letra Financeira com garantia em ativos financeiros ou valores mobiliários (LTEL-LFG), de que tratam a Resolução BCB nº 144, de 24 de setembro de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0163.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-180",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 180/2021",
+    "ementa": "Consolida os procedimentos para verificação dos critérios de elegibilidade das garantias vinculadas para a Linha Temporária Especial de Liquidez via emissão de Letra Financeira com garantia em ativos financeiros (LTEL-LFG), quanto aos eventos de competência do Departamento de Monitoramento do Sistema Financeiro (Desig), para a atualização dos ativos financeiros e para a solicitação de desconstituição de gravames sobre esses ativos financeiros, de que trata a Resolução BCB nº 144, de 24 de setembro de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0180.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-222",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 222/2021",
+    "ementa": "Estabelece os procedimentos para a remessa das informações relativas aos riscos social, ambiental e climático de exposições em operações de crédito e títulos e valores mobiliários de que trata a Resolução BCB nº 151, de 6 de outubro de 2021.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0222.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-376",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 376/2023",
+    "ementa": "Estabelece orientações sobre a participação das entidades registradoras e dos depositários centrais de ativos financeiros no processo de elaboração da convenção que dispõe sobre as normas de autorregulação para o exercício das atividades de registro e de depósito centralizado de recebíveis imobiliários, de que trata o art. 12 da Resolução BCB n° 308, de 28 de março de 2023.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0376.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-411",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 411/2023",
+    "ementa": "Consolida os procedimentos para a remessa de informações diárias ao Banco Central do Brasil referentes aos Certificados de Depósito Bancário (CDBs), Recibos de Depósito Bancário (RDBs) e depósitos de aviso prévio de emissão própria, de que trata o art. 2º, inciso IV, da Resolução BCB nº 208, de 22 de março de 2022.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0411.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-487",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 487/2024",
+    "ementa": "Dispõe sobre os procedimentos para a solicitação de autorização para a utilização da metodologia completa para a avaliação da perda esperada e para a apuração e constituição da provisão para perdas esperadas associadas ao risco de crédito, facultada às instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, enquadradas no Segmento 4 (S4), mencionadas na Resolução CMN nº 4.966, de 25 de novembro de 2021, e na Resolução BCB nº 352, de 23 de novembro de 2023.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0487.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-506",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 506/2024",
+    "ementa": "Estabelece prazos, horários e procedimentos operacionais previstos no Regulamento do Sistema Especial de Liquidação e de Custódia (Selic).",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0506.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-520",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 520/2024",
+    "ementa": "Estabelece procedimentos para a prestação de informações relativas a títulos de crédito e direitos creditórios do agronegócio por instituições operadoras de sistema do mercado financeiro, e por instituições financeiras.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0520.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-595",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 595/2025",
+    "ementa": "Divulga procedimentos, documentos e informações necessários para a instrução de pedidos de autorização e de cancelamento da autorização para o exercício da atividade de escrituração de duplicata escritural.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0595.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-597",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 597/2025",
+    "ementa": "Estabelece o regramento dos ciclos de testes homologatórios a ser observado por instituições autorizadas, ou em processo de autorização, pelo Banco Central do Brasil, para o exercício das atividades de escrituração, registro e depósito centralizado de duplicata escritural.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0597.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-606",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 606/2025",
+    "ementa": "Estabelece orientações sobre o processo de elaboração e submissão da convenção que disporá sobre os eventos de crédito a serem utilizados pelas instituições autorizadas a funcionar pelo Banco Central do Brasil nas operações de derivativos de crédito contratadas no país ou na emissão de certificados de operações estruturadas (COE) na modalidade risco de crédito, conforme previsto na regulamentação específica desses produtos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0606.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-611",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 611/2025",
+    "ementa": "Dispõe sobre os tipos de ativos financeiros passíveis de vinculação a boletos de cobrança dinâmicos.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0611.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-690",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 690/2025",
+    "ementa": "Dispõe sobre os percentuais para remuneração da instituição custodiante, as hipóteses em que a remuneração não será devida, as isenções e a movimentação na conta Reservas Bancárias ou na Conta de Liquidação.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0690.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-704",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 704/2026",
+    "ementa": "Divulga procedimentos, documentos, prazos e informações necessários à instrução dos pedidos de autorização relacionados ao funcionamento das sociedades corretoras de câmbio, das sociedades corretoras de títulos e valores mobiliários, das sociedades distribuidoras de títulos e valores mobiliários e das sociedades prestadoras de serviços de ativos virtuais.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0704.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "bcb-in-775",
+    "tipo": "instrucao-normativa-bcb",
+    "titulo": "Instrução Normativa BCB nº 775/2026",
+    "ementa": "Dispõe sobre a natureza operacional da recepção, por meio dos sistemas de registro ou de depósito centralizado de duplicatas escriturais, e do redirecionamento ao escriturador das informações enviadas pelos agentes financiadores sobre os contratos, de que trata o caput do art. 12-A da Resolução BCB nº 339, de 24 de agosto de 2023, durante o prazo previsto no § 4º do referido artigo, bem como sobre os critérios de priorização para aplicação dos efeitos desses contratos às agendas de duplicatas do sacador.",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "bcb/instrucoes-normativas/0775.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-de-administracao-de-recursos-de-terceiros",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código de Administração de Recursos de Terceiros",
+    "ementa": "Código de Administração de Recursos de Terceiros",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-de-administracao-de-recursos-de-terceiros.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-de-distribuicao-de-produtos-de-investimento",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código de Distribuição de Produtos de Investimento",
+    "ementa": "Código de Distribuição de Produtos de Investimento",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-de-distribuicao-de-produtos-de-investimento.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-de-etica-para-associados",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código de Ética para Associados",
+    "ementa": "Código de Ética para Associados",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-de-etica-para-associados.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-de-ofertas-publicas",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código de Ofertas Públicas",
+    "ementa": "Código de Ofertas Públicas",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-de-ofertas-publicas.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-de-servicos-qualificados",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código de Serviços Qualificados",
+    "ementa": "Código de Serviços Qualificados",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-de-servicos-qualificados.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-codigo-dos-processos",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código dos Processos",
+    "ementa": "Código dos Processos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-dos-processos.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-de-certificacao",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos de Certificação",
+    "ementa": "Regras e Procedimentos de Certificação",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-de-certificacao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-de-deveres-basicos",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos de Deveres Básicos",
+    "ementa": "Regras e Procedimentos de Deveres Básicos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-de-deveres-basicos.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-de-ofertas-publicas",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos de Ofertas Públicas",
+    "ementa": "Regras e Procedimentos de Ofertas Públicas",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos do Código de Administração e Gestão de Recursos",
+    "ementa": "Regras e Procedimentos do Código de Administração e Gestão de Recursos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-do-codigo-de-distribuicao",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos do Código de Distribuição",
+    "ementa": "Regras e Procedimentos do Código de Distribuição",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-do-codigo-de-negociacao",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos do Código de Negociação",
+    "ementa": "Regras e Procedimentos do Código de Negociação",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-negociacao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-do-codigo-de-servicos-qualificados",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e Procedimentos do Código de Serviços Qualificados",
+    "ementa": "Regras e Procedimentos do Código de Serviços Qualificados",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-para-adesao-e-associacao-aos-codigos",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e procedimentos para adesão e associação aos Códigos",
+    "ementa": "Regras e procedimentos para adesão e associação aos Códigos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-para-adesao-e-associacao-aos-codigos.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-regras-e-procedimentos-para-envio-de-informacoes-para-a-base-de-dados",
+    "tipo": "regras-procedimentos",
+    "titulo": "Regras e procedimentos para envio de informações para a base de dados",
+    "ementa": "Regras e procedimentos para envio de informações para a base de dados",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/regras-e-procedimentos-para-envio-de-informacoes-para-a-base-de-dados.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-apendices-ao-regulamento-de-emissores",
+    "tipo": "regulamento",
+    "titulo": "Apêndices ao Regulamento de Emissores",
+    "ementa": "Apêndices ao Regulamento de Emissores",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/apendices-ao-regulamento-de-emissores.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-da-camara-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento da Câmara B3",
+    "ementa": "Regulamento da Câmara B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-da-camara-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-da-camara-de-cambio-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento da Câmara de Câmbio B3",
+    "ementa": "Regulamento da Câmara de Câmbio B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-da-camara-de-cambio-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-da-central-depositaria-de-renda-variavel-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento da Central Depositária de Renda Variável B3",
+    "ementa": "Regulamento da Central Depositária de Renda Variável B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-da-central-depositaria-de-renda-variavel-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-da-infraestrutura-para-financiamento-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento da Infraestrutura para Financiamento B3",
+    "ementa": "Regulamento da Infraestrutura para Financiamento B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-da-infraestrutura-para-financiamento-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-acesso-da-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Acesso da B3",
+    "ementa": "Regulamento de Acesso da B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-acesso-da-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-clubes-de-investimento",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Clubes de Investimento",
+    "ementa": "Regulamento de Clubes de Investimento",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-clubes-de-investimento.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-duplicata-escritural",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Duplicata Escritural",
+    "ementa": "Regulamento de Duplicata Escritural",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-duplicata-escritural.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-emissores",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Emissores",
+    "ementa": "Regulamento de Emissores",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-emissores.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-listagem-e-de-aplicacao-de-sancoes-pecuniarias-do-nivel-1",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Listagem e de Aplicação de Sanções Pecuniárias do Nível 1",
+    "ementa": "Regulamento de Listagem e de Aplicação de Sanções Pecuniárias do Nível 1",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-listagem-e-de-aplicacao-de-sancoes-pecuniarias-do-nivel-1.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-listagem-e-de-aplicacao-de-sancoes-pecuniarias-do-nivel-2",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Listagem e de Aplicação de Sanções Pecuniárias do Nível 2",
+    "ementa": "Regulamento de Listagem e de Aplicação de Sanções Pecuniárias do Nível 2",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-listagem-e-de-aplicacao-de-sancoes-pecuniarias-do-nivel-2.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-de-negociacao-da-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento de Negociação da B3",
+    "ementa": "Regulamento de Negociação da B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-de-negociacao-da-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-do-balcao-b3",
+    "tipo": "regulamento",
+    "titulo": "Regulamento do Balcão B3",
+    "ementa": "Regulamento do Balcão B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-do-balcao-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-do-novo-mercado",
+    "tipo": "regulamento",
+    "titulo": "Regulamento do Novo Mercado",
+    "ementa": "Regulamento do Novo Mercado",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-do-novo-mercado.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-regulamento-do-tesouro-direto",
+    "tipo": "regulamento",
+    "titulo": "Regulamento do Tesouro Direto",
+    "ementa": "Regulamento do Tesouro Direto",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/regulamento-do-tesouro-direto.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-criterios-para-criacao-e-exclusao-de-vencimentos-futuros-e-series-de-opcoes",
+    "tipo": "manual",
+    "titulo": "Critérios para Criação e Exclusão de Vencimentos Futuros e Séries de Opções",
+    "ementa": "Critérios para Criação e Exclusão de Vencimentos Futuros e Séries de Opções",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/criterios-para-criacao-e-exclusao-de-vencimentos-futuros-e-series-de-opcoes.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-administracao-de-risco-da-camara-b3",
+    "tipo": "manual",
+    "titulo": "Manual de administração de risco da Câmara B3",
+    "ementa": "Manual de administração de risco da Câmara B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-administracao-de-risco-da-camara-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-gerenciamento-de-risco-da-camara-de-cambio-b3",
+    "tipo": "manual",
+    "titulo": "Manual de gerenciamento de risco da Câmara de Câmbio B3",
+    "ementa": "Manual de gerenciamento de risco da Câmara de Câmbio B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-gerenciamento-de-risco-da-camara-de-cambio-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3",
+    "tipo": "manual",
+    "titulo": "Manual de Normas da Plataforma de Negociação do Balcão B3",
+    "ementa": "Manual de Normas da Plataforma de Negociação do Balcão B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-da-plataforma-de-negociacao-do-balcao-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-agente-de-calculo-e-acelerador",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Agente de Cálculo e Acelerador",
+    "ementa": "Manual de Normas de Agente de Cálculo e Acelerador",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-agente-de-calculo-e-acelerador.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-atuacao-da-b3-como-agente-de-calculo",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Atuação da B3 como Agente de Cálculo",
+    "ementa": "Manual de Normas de Atuação da B3 como Agente de Cálculo",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-atuacao-da-b3-como-agente-de-calculo.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-cda-wa-e-cpr",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de CDA, WA e CPR",
+    "ementa": "Manual de Normas de CDA, WA e CPR",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-cda-wa-e-cpr.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-cia-de-distribuicao-publica",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de CIA de Distribuição Pública",
+    "ementa": "Manual de Normas de CIA de Distribuição Pública",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-cia-de-distribuicao-publica.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-contrato-de-netting",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Contrato de Netting",
+    "ementa": "Manual de Normas de Contrato de Netting",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-contrato-de-netting.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-cotas-de-fundo-de-investimento",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Cotas de Fundo de Investimento",
+    "ementa": "Manual de Normas de Cotas de Fundo de Investimento",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-cotas-de-fundo-de-investimento.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-credito-de-descarbonizacao-cbio-e-credito-de-carbono",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Crédito de Descarbonização (CBIO) e Crédito de Carbono",
+    "ementa": "Manual de Normas de Crédito de Descarbonização (CBIO) e Crédito de Carbono",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-credito-de-descarbonizacao-cbio-e-credito-de-carbono.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-cri-de-distribuicao-publica-cra-de-distribuicao-publica-debe",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de CRI de Distribuição Pública, CRA de Distribuição Pública, Debênture e Nota Comercial",
+    "ementa": "Manual de Normas de CRI de Distribuição Pública, CRA de Distribuição Pública, Debênture e Nota Comercial",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-cri-de-distribuicao-publica-cra-de-distribuicao-publica-debe.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-direito-creditorio-e-de-unidade-de-recebiveis",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Direito Creditório e de Unidade de Recebíveis",
+    "ementa": "Manual de Normas de Direito Creditório e de Unidade de Recebíveis",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-direito-creditorio-e-de-unidade-de-recebiveis.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-duplicata-escritural",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Duplicata Escritural",
+    "ementa": "Manual de Normas de Duplicata Escritural",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-duplicata-escritural.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-estrategia-de-renda-fixa-com-opcoes-flexiveis-sobre-taxa-de",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Estratégia de Renda Fixa com Opções Flexíveis sobre Taxa de Câmbio",
+    "ementa": "Manual de Normas de Estratégia de Renda Fixa com Opções Flexíveis sobre Taxa de Câmbio",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-estrategia-de-renda-fixa-com-opcoes-flexiveis-sobre-taxa-de.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-gestao-de-garantias",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Gestão de Garantias",
+    "ementa": "Manual de Normas de Gestão de Garantias",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-gestao-de-garantias.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-instrumento-elegivel-para-compor-patrimonio-de-referencia",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Instrumento Elegível para compor Patrimônio de Referência",
+    "ementa": "Manual de Normas de Instrumento Elegível para compor Patrimônio de Referência",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-instrumento-elegivel-para-compor-patrimonio-de-referencia.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-intermediario-de-valores-mobiliarios",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Intermediário de Valores Mobiliários",
+    "ementa": "Manual de Normas de Intermediário de Valores Mobiliários",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-intermediario-de-valores-mobiliarios.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-lcd",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de LCD",
+    "ementa": "Manual de Normas de LCD",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-lcd.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-letra-de-arrendamento-mercantil-lam",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Letra de Arrendamento Mercantil - LAM",
+    "ementa": "Manual de Normas de Letra de Arrendamento Mercantil - LAM",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-letra-de-arrendamento-mercantil-lam.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-letra-financeira",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Letra Financeira",
+    "ementa": "Manual de Normas de Letra Financeira",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-letra-financeira.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-lig",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de LIG",
+    "ementa": "Manual de Normas de LIG",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-lig.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-modulo-de-distribuicao-de-ativos-mda",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Módulo de Distribuição de Ativos - MDA",
+    "ementa": "Manual de Normas de Módulo de Distribuição de Ativos - MDA",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-modulo-de-distribuicao-de-ativos-mda.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-operacao-com-derivativo",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Operação com Derivativo",
+    "ementa": "Manual de Normas de Operação com Derivativo",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-operacao-com-derivativo.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-operacao-de-derivativo-com-redutor-de-risco-de-credito-drrc",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Operação de Derivativo com Redutor de Risco de Crédito (“DRRC”)",
+    "ementa": "Manual de Normas de Operação de Derivativo com Redutor de Risco de Crédito (“DRRC”)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-operacao-de-derivativo-com-redutor-de-risco-de-credito-drrc.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-registro-de-informacoes-e-condicoes-de-instrumento-finance-2",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Registro de Informações e Condições de Instrumento Financeiro Derivativo Vinculado ao Custo da Dívida Originalmente Contratada em Empréstimo entre Residente ou Domiciliado no País e Residente ou Domiciliado no Exterior",
+    "ementa": "Manual de Normas de Registro de Informações e Condições de Instrumento Financeiro Derivativo Vinculado ao Custo da Dívida Originalmente Contratada em Empréstimo entre Residente ou Domiciliado no País e Residente ou Domiciliado no Exterior",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-registro-de-informacoes-e-condicoes-de-instrumento-finance-2.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-registro-de-informacoes-e-condicoes-de-instrumento-financeir",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Registro de Informações e Condições de Instrumento Financeiro Derivativo Contratado no Exterior",
+    "ementa": "Manual de Normas de Registro de Informações e Condições de Instrumento Financeiro Derivativo Contratado no Exterior",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-registro-de-informacoes-e-condicoes-de-instrumento-financeir.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-de-registro-de-informacoes-e-condicoes-de-operacao-de-protecao",
+    "tipo": "manual",
+    "titulo": "Manual de Normas de Registro de Informações e Condições de Operação de Proteção Realizada com Instituição Financeira do Exterior ou em Bolsa Estrangeira",
+    "ementa": "Manual de Normas de Registro de Informações e Condições de Operação de Proteção Realizada com Instituição Financeira do Exterior ou em Bolsa Estrangeira",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-de-registro-de-informacoes-e-condicoes-de-operacao-de-protecao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-do-sistema-de-registro-de-garantias-sobre-veiculos-automotores",
+    "tipo": "manual",
+    "titulo": "Manual de Normas do Sistema de Registro de Garantias sobre Veículos Automotores",
+    "ementa": "Manual de Normas do Sistema de Registro de Garantias sobre Veículos Automotores",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-do-sistema-de-registro-de-garantias-sobre-veiculos-automotores.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-do-subsistema-de-registro-do-subsistema-de-deposito-centralizad",
+    "tipo": "manual",
+    "titulo": "Manual de Normas do Subsistema de Registro, do Subsistema de Depósito Centralizado e do Subsistema de Compensação e Liquidação",
+    "ementa": "Manual de Normas do Subsistema de Registro, do Subsistema de Depósito Centralizado e do Subsistema de Compensação e Liquidação",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-do-subsistema-de-registro-do-subsistema-de-deposito-centralizad.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-mmg-cetip",
+    "tipo": "manual",
+    "titulo": "Manual de Normas MMG-Cetip",
+    "ementa": "Manual de Normas MMG-Cetip",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-mmg-cetip.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-mmg-selic",
+    "tipo": "manual",
+    "titulo": "Manual de Normas MMG-Selic",
+    "ementa": "Manual de Normas MMG-Selic",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-mmg-selic.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-normas-plataforma-imobiliaria-integracao-4088",
+    "tipo": "manual",
+    "titulo": "Manual de Normas - Plataforma Imobiliária-Integração 4088",
+    "ementa": "Manual de Normas - Plataforma Imobiliária-Integração 4088",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-normas-plataforma-imobiliaria-integracao-4088.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-operacoes-da-camara-de-cambio-b3",
+    "tipo": "manual",
+    "titulo": "Manual de operações da Câmara de Câmbio B3",
+    "ementa": "Manual de operações da Câmara de Câmbio B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-operacoes-da-camara-de-cambio-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-procedimentos-operacionais-da-camara-b3",
+    "tipo": "manual",
+    "titulo": "Manual de procedimentos operacionais da Câmara B3",
+    "ementa": "Manual de procedimentos operacionais da Câmara B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-procedimentos-operacionais-da-camara-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-procedimentos-operacionais-da-central-depositaria-de-renda-variavel-b3",
+    "tipo": "manual",
+    "titulo": "Manual de Procedimentos Operacionais da Central Depositária de Renda Variável B3",
+    "ementa": "Manual de Procedimentos Operacionais da Central Depositária de Renda Variável B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-procedimentos-operacionais-da-central-depositaria-de-renda-variavel-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-procedimentos-operacionais-de-alocacao-de-renda-fixa",
+    "tipo": "manual",
+    "titulo": "Manual de Procedimentos Operacionais de Alocação de Renda Fixa",
+    "ementa": "Manual de Procedimentos Operacionais de Alocação de Renda Fixa",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-procedimentos-operacionais-de-alocacao-de-renda-fixa.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-de-procedimentos-operacionais-de-negociacao-da-b3",
+    "tipo": "manual",
+    "titulo": "Manual de procedimentos operacionais de negociação da B3",
+    "ementa": "Manual de procedimentos operacionais de negociação da B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-de-procedimentos-operacionais-de-negociacao-da-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-do-emissor-anexos",
+    "tipo": "manual",
+    "titulo": "Manual do Emissor - Anexos",
+    "ementa": "Manual do Emissor - Anexos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-do-emissor-anexos.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-manual-do-emissor",
+    "tipo": "manual",
+    "titulo": "Manual do Emissor",
+    "ementa": "Manual do Emissor",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/manual-do-emissor.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-glossario-anbima",
+    "tipo": "glossario",
+    "titulo": "Glossário ANBIMA",
+    "ementa": "Glossário ANBIMA",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/glossario-anbima.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-glossario-das-normas-da-camara-b3",
+    "tipo": "glossario",
+    "titulo": "Glossário das Normas da Câmara B3",
+    "ementa": "Glossário das Normas da Câmara B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/glossario-das-normas-da-camara-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "b3-glossario-das-normas-do-balcao-b3",
+    "tipo": "glossario",
+    "titulo": "Glossário das Normas do Balcão B3",
+    "ementa": "Glossário das Normas do Balcão B3",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/b3/glossario-das-normas-do-balcao-b3.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-alinhamento-act-cvm-anbima-001-2025-enquadramento-fidc",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Alinhamento ACT CVM/ANBIMA 001/2025 - Enquadramento FIDC",
+    "ementa": "Alinhamento ACT CVM/ANBIMA 001/2025 - Enquadramento FIDC",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/alinhamento-act-cvm-anbima-001-2025-enquadramento-fidc.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-alinhamento-act-cvm-anbima-002-2025-informe-mensal-fidc",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Alinhamento ACT CVM/ANBIMA 002/2025 - Informe Mensal FIDC",
+    "ementa": "Alinhamento ACT CVM/ANBIMA 002/2025 - Informe Mensal FIDC",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/alinhamento-act-cvm-anbima-002-2025-informe-mensal-fidc.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-alinhamento-act-cvm-anbima-ofertas-publicas-001-2025-registro-automatico-follow",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Alinhamento ACT CVM/ANBIMA Ofertas Públicas 001/2025 - Registro automático follow-on",
+    "ementa": "Alinhamento ACT CVM/ANBIMA Ofertas Públicas 001/2025 - Registro automático follow-on",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/alinhamento-act-cvm-anbima-ofertas-publicas-001-2025-registro-automatico-follow.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-comunicado-de-supervisao-indicios-de-descumprimentos-mais-recorrentes-do-codigo",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Comunicado de Supervisão: indícios de descumprimentos mais recorrentes do Código de Ofertas",
+    "ementa": "Comunicado de Supervisão: indícios de descumprimentos mais recorrentes do Código de Ofertas",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/comunicado-de-supervisao-indicios-de-descumprimentos-mais-recorrentes-do-codigo.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-comunicado-de-supervisao-no-001-2021-parecer-de-orientacao-agentes-fiduciarios",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Comunicado de Supervisão nº 001/2021 - Parecer de orientação (Agentes Fiduciários)",
+    "ementa": "Comunicado de Supervisão nº 001/2021 - Parecer de orientação (Agentes Fiduciários)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/comunicado-de-supervisao-no-001-2021-parecer-de-orientacao-agentes-fiduciarios.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-comunicado-sobre-o-entendimento-conjunto-entre-anbima-e-cvm-sobre-suitability",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Comunicado sobre o Entendimento conjunto entre ANBIMA e CVM sobre Suitability",
+    "ementa": "Comunicado sobre o Entendimento conjunto entre ANBIMA e CVM sobre Suitability",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/comunicado-sobre-o-entendimento-conjunto-entre-anbima-e-cvm-sobre-suitability.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-deliberacao-diretoria-anbima-dispensa-de-aplicacao-das-regras-do-suitability-par",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Atualizada)",
+    "ementa": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Atualizada)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/deliberacao-diretoria-anbima-dispensa-de-aplicacao-das-regras-do-suitability-par.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-deliberacao-diretoria-anbima-ratificacao-dos-produtos-de-investimento-com-regist",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Deliberação Diretoria ANBIMA - Ratificação dos Produtos de Investimento com registro obrigatório no Sistema de Registro de Negócios (REUNE)",
+    "ementa": "Deliberação Diretoria ANBIMA - Ratificação dos Produtos de Investimento com registro obrigatório no Sistema de Registro de Negócios (REUNE)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/deliberacao-diretoria-anbima-ratificacao-dos-produtos-de-investimento-com-regist.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-deliberacao-no-01-do-conselho-de-negociacao",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Deliberação nº 01 do Conselho de Negociação",
+    "ementa": "Deliberação nº 01 do Conselho de Negociação",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/deliberacao-no-01-do-conselho-de-negociacao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-diretrizes-do-codigo-de-etica",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Diretrizes do Código de Ética",
+    "ementa": "Diretrizes do Código de Ética",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/diretrizes-do-codigo-de-etica.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-parecer-de-orientacao-no-01-2022-classificacao-de-clientes-e-derivativos-de-balc",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Parecer de Orientação nº 01/2022 - Classificação de clientes e derivativos de balcão",
+    "ementa": "Parecer de Orientação nº 01/2022 - Classificação de clientes e derivativos de balcão",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/parecer-de-orientacao-no-01-2022-classificacao-de-clientes-e-derivativos-de-balc.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-parecer-sobre-conflito-de-interesse",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "PARECER SOBRE CONFLITO DE INTERESSE",
+    "ementa": "PARECER SOBRE CONFLITO DE INTERESSE",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/parecer-sobre-conflito-de-interesse.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-das-regras-e-procedimentos-de-risco-de-liquidez-para-os-fu",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas das regras e procedimentos de risco de liquidez para os fundos abertos",
+    "ementa": "Perguntas e respostas das regras e procedimentos de risco de liquidez para os fundos abertos",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-das-regras-e-procedimentos-de-risco-de-liquidez-para-os-fu.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-das-regras-e-procedimentos-para-identificacao-de-fundos-2",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 2ª edição",
+    "ementa": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 2ª edição",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-das-regras-e-procedimentos-para-identificacao-de-fundos-2.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-das-regras-e-procedimentos-para-identificacao-de-fundos-su",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 1ª edição",
+    "ementa": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 1ª edição",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-das-regras-e-procedimentos-para-identificacao-de-fundos-su.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-das-regras-e-procedimentos-para-registro-das-carteiras-adm",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas das regras e procedimentos para registro das carteiras administradas",
+    "ementa": "Perguntas e respostas das regras e procedimentos para registro das carteiras administradas",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-das-regras-e-procedimentos-para-registro-das-carteiras-adm.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-do-codigo-de-distribuicao",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e Respostas do Código de Distribuição",
+    "ementa": "Perguntas e Respostas do Código de Distribuição",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-do-codigo-de-distribuicao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-sobre-apuracao-dos-valores-de-referencia",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas sobre Apuração dos Valores de Referência",
+    "ementa": "Perguntas e respostas sobre Apuração dos Valores de Referência",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-sobre-apuracao-dos-valores-de-referencia.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-sobre-intermediacao-no-exterior",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e respostas sobre intermediação no exterior",
+    "ementa": "Perguntas e respostas sobre intermediação no exterior",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-sobre-intermediacao-no-exterior.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-sobre-transparencia-na-remuneracao-1a-edicao",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e Respostas sobre Transparência na Remuneração (1ª edição)",
+    "ementa": "Perguntas e Respostas sobre Transparência na Remuneração (1ª edição)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-sobre-transparencia-na-remuneracao-1a-edicao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-perguntas-e-respostas-sobre-transparencia-na-remuneracao-2a-edicao",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Perguntas e Respostas sobre Transparência na Remuneração (2ª edição)",
+    "ementa": "Perguntas e Respostas sobre Transparência na Remuneração (2ª edição)",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/perguntas-e-respostas-sobre-transparencia-na-remuneracao-2a-edicao.md",
+    "baixado_em": "2026-10-29"
+  },
+  {
+    "id": "anbima-q-a-suitability",
+    "tipo": "orientacao-autorregulacao",
+    "titulo": "Q&A Suitability",
+    "ementa": "Q&A Suitability",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/q-a-suitability.md",
+    "baixado_em": "2026-10-29"
   }
 ]

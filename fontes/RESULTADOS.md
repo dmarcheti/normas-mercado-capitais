@@ -147,3 +147,19 @@ Lidas no in.gov.br pelo navegador; HTML salvo em `dados/fontes/manual/` (fora do
 Teste 1 dos commits de retificação: 19 e 21 limpos; 60, 86, 160 e 210 com 1 linha cada, a linha corrigida, porque a retificação cita só o trecho (mesmo caso da retificação da 175). Teste 2: 0 diferença não aceita nas seis.
 
 Sem mudança de texto: Res. 45 (2021-09-10), 64 (2022-02-09), 88 (2022-05-04), 173 (2023-01-06; o acervo já tinha o "§ 6º", o que explica a exceção do teste 1 da Fase 2), 204 (2024-06-19), 239 (2026-01-16) e 21 (2021-03-09, data no título da republicação). Res. 81, Anexo C, item 8: a republicação da Res. 59 no DOU de 2022-05-13 diz "5.l e 8.e"; o acervo está certo.
+
+## Fase 2c: camadas 4 (CMN e BCB) e 5 (ANBIMA e B3) (2026-10-29)
+
+Inventário por script: `scripts/inventario_bcb.py` (API da busca de normas do BCB: 2.128 normas vigentes), `scripts/inventario_b3.py` (páginas de regulamentos e manuais da B3), `scripts/inventario_anbima.py` (páginas de código da ANBIMA, lidas no navegador, porque parte da lista é montada por JavaScript). Perímetro da camada 4: `scripts/perimetro_camada4.py` (regra por assunto mais a revisão das ementas, com o motivo de cada decisão em `fontes/perimetro-camada4.json`). Conversão: `scripts/texto_vigente.py --camada 4|5`, sem LLM. Cobertura como na Fase 2b; extrator independente: `textutil` do macOS para o HTML do BCB (convertido por `scripts/html_bcb.py`, só biblioteca padrão) e pypdf para PDF (texto da norma pelo PDFKit).
+
+| Camada | Itens | Nível de verificação | Conferidos | Cobertura ≥ 99% |
+|---|---|---|---|---|
+| 4: CMN (57) e BCB (71) | 128 | 123 consolidado-convertido (HTML compilado pelo BCB), 4 pdf-extraido, 1 ocr | 127 | 124 de 127 |
+| 5: ANBIMA (38) e B3 (57) | 95 | 95 pdf-extraido | 95 | 78 de 95 |
+
+- Atos do BCB que só alteram normas do perímetro: sem arquivo (a compilação do BCB já traz a alteração); 77 verbetes nos subíndices `cmn.md` e `bcb.md`.
+- Normas da camada 4 sem HTML na busca do BCB, tiradas do PDF da última versão: CC 3.934, Circ. 3.902, Res. CMN 2.843 e 3.042 (pdf-extraido) e Res. CMN 3.621 (PDF sem camada de texto, por OCR, sem conferência independente).
+- Redação antiga tachada no HTML do BCB: 15.189 palavras retiradas nas 128 normas; 15 tabelas preservadas em Markdown (as de diagramação, de uma célula, viram parágrafos). O `textutil` descartava as tabelas do HTML do BCB, por isso o conversor próprio.
+- Abaixo de 99% (3 na camada 4, mínima 92,9% na Res. CMN 2.843; 17 na camada 5, mínima 87,5% no Comunicado de Supervisão de Ofertas da ANBIMA): conferido item a item, nenhum perde texto. As palavras que faltam são pedaços que o pypdf, lado da conferência, parte ("resolu" "ção", "informaçã o de ve") ou símbolos de fórmula; no Código dos Processos da ANBIMA, a diferença está só no sumário com linhas pontilhadas (página 2).
+- Camada 5: em 10 PDFs assinados da ANBIMA, a página final de registro das assinaturas eletrônicas (nomes, e-mails, IP e localização dos signatários) foi retirada do texto e da conferência, com aviso no `incerteza`. Dois documentos da B3 (Regulamento do FILCB e Manual de Normas de Direito de Acesso) ficam fora até decisão: citam CNPJ de empresa, e a varredura do pre-commit bloqueia CNPJ. Tabelas dos PDFs ficam como texto; numeração e quebras podem estar deslocadas. Data: início de vigência informado pela entidade ou data no nome do arquivo; nos demais, a data do arquivo no servidor (Last-Modified) ou da leitura, com [verificar] no `incerteza`.
+- Docling (conversor de PDF com modelos de layout) testado contra o DOU nos 10 originais da CVM tirados de PDF: texto igual ao do PDFKit (cobertura de 99,0% a 100%), tabelas recuperadas em parte (51% a 100% das células) mas partidas por página; 3 a 43 s por PDF e 1,8 GB de memória. Não adotado no lote.

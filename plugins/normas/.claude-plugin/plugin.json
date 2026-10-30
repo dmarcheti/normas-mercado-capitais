@@ -1,9 +1,9 @@
 {
   "name": "normas",
-  "description": "Resoluções e Instruções CVM vigentes, Pareceres de Orientação, Ofícios-Circulares e leis do mercado de capitais, com data-base e consulta por artigo. Material não oficial.",
+  "description": "Normas do mercado de capitais: Resoluções e Instruções CVM vigentes, Pareceres de Orientação, Ofícios-Circulares, leis, normas do CMN e do BCB e autorregulação da ANBIMA e da B3, com data-base e consulta por artigo. Material não oficial.",
   "author": {
     "name": "dmarcheti"
   },
   "repository": "https://github.com/dmarcheti/normas-mercado-capitais",
-  "license": "CC-BY-4.0"
+  "license": "SEE LICENSE IN README.md"
 }
