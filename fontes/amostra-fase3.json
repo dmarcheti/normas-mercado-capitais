@@ -148,34 +148,6 @@
    "sorteado": 1,
    "abaixo_do_pedido": false
   },
-  "4/nota-redacao": {
-   "pedido": 7,
-   "universo": 178,
-   "normas_no_universo": 33,
-   "sorteado": 7,
-   "abaixo_do_pedido": false
-  },
-  "4/so-pdf": {
-   "pedido": "censo-norma",
-   "universo": 18,
-   "normas_no_universo": 5,
-   "sorteado": 5,
-   "abaixo_do_pedido": false
-  },
-  "4/tabela": {
-   "pedido": 8,
-   "universo": 9,
-   "normas_no_universo": 7,
-   "sorteado": 8,
-   "abaixo_do_pedido": false
-  },
-  "4/tachado": {
-   "pedido": 10,
-   "universo": 199,
-   "normas_no_universo": 30,
-   "sorteado": 10,
-   "abaixo_do_pedido": false
-  },
   "5/assinaturas": {
    "pedido": "censo",
    "universo": 10,
@@ -202,6 +174,34 @@
    "universo": 78,
    "normas_no_universo": 16,
    "sorteado": 6,
+   "abaixo_do_pedido": false
+  },
+  "4/nota-redacao": {
+   "pedido": 7,
+   "universo": 171,
+   "normas_no_universo": 28,
+   "sorteado": 7,
+   "abaixo_do_pedido": false
+  },
+  "4/so-pdf": {
+   "pedido": "censo-norma",
+   "universo": 120,
+   "normas_no_universo": 31,
+   "sorteado": 31,
+   "abaixo_do_pedido": false
+  },
+  "4/tabela": {
+   "pedido": 8,
+   "universo": 8,
+   "normas_no_universo": 6,
+   "sorteado": 8,
+   "abaixo_do_pedido": false
+  },
+  "4/tachado": {
+   "pedido": 10,
+   "universo": 199,
+   "normas_no_universo": 30,
+   "sorteado": 10,
    "abaixo_do_pedido": false
   }
  },
@@ -3229,376 +3229,6 @@
    "lei": "lei-11076"
   },
   {
-   "id": "uff1baadf7c",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "bcb/circulares/3106.md",
-   "localizador": "Art. 1º",
-   "posicao": 36,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-circ-3106.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "uaf43bc3a98",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "bcb/instrucoes-normativas/0163.md",
-   "localizador": "Art. 5º",
-   "posicao": 70,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-in-163.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ubdd647e1ff",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "bcb/resolucoes/0102.md",
-   "localizador": "Art. 1º",
-   "posicao": 34,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u36cd03e67b",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "bcb/resolucoes/0264.md",
-   "localizador": "Art. 26",
-   "posicao": 576,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-264.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ufdd11e46c1",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "bcb/resolucoes/0278.md",
-   "localizador": "Art. 17",
-   "posicao": 240,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-278.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u509dc196db",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "cmn/resolucoes/2907.md",
-   "localizador": "preambulo",
-   "posicao": 21,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-2907.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u6d42d3530f",
-   "camada": "4",
-   "categoria": "nota-redacao",
-   "norma": "cmn/resolucoes/5070.md",
-   "localizador": "Art. 7º",
-   "posicao": 146,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-5070.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ubff07c2e8e",
-   "camada": "4",
-   "categoria": "so-pdf",
-   "norma": "bcb/cartas-circulares/3934.md",
-   "localizador": "página 1",
-   "posicao": 1,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-cc-3934.pdf",
-   "paginas": [
-    1
-   ],
-   "sobrescrito": null
-  },
-  {
-   "id": "u8960de9752",
-   "camada": "4",
-   "categoria": "so-pdf",
-   "norma": "bcb/circulares/3902.md",
-   "localizador": "página 2",
-   "posicao": 2,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-circ-3902.pdf",
-   "paginas": [
-    2
-   ],
-   "sobrescrito": null
-  },
-  {
-   "id": "u70e1e6922b",
-   "camada": "4",
-   "categoria": "so-pdf",
-   "norma": "cmn/resolucoes/2843.md",
-   "localizador": "página 1",
-   "posicao": 1,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-2843.pdf",
-   "paginas": [
-    1
-   ],
-   "sobrescrito": null
-  },
-  {
-   "id": "u390efb22e8",
-   "camada": "4",
-   "categoria": "so-pdf",
-   "norma": "cmn/resolucoes/3042.md",
-   "localizador": "página 1",
-   "posicao": 1,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-3042.pdf",
-   "paginas": [
-    1
-   ],
-   "sobrescrito": null
-  },
-  {
-   "id": "ud6f3c2de9c",
-   "camada": "4",
-   "categoria": "so-pdf",
-   "norma": "cmn/resolucoes/3621.md",
-   "localizador": "página 1",
-   "posicao": 1,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-3621.pdf",
-   "paginas": [
-    1
-   ],
-   "sobrescrito": null
-  },
-  {
-   "id": "u1c4a9ce2fe",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/circulares/3903.md",
-   "localizador": "Art. 8º",
-   "posicao": 82,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-circ-3903.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u33e74a7a0e",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/instrucoes-normativas/0487.md",
-   "localizador": "ANEXO I À INSTRUÇÃO NORMATIVA BCB Nº 487, DE 5 DE JULHO DE 2024, Art. 1º",
-   "posicao": 277,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-in-487.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "uc30e42038a",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/instrucoes-normativas/0506.md",
-   "localizador": "Art. 17",
-   "posicao": 236,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u7c0a8b04f4",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/resolucoes/0102.md",
-   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021",
-   "posicao": 382,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "uda6ddd50df",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/resolucoes/0352.md",
-   "localizador": "ANEXO I",
-   "posicao": 2343,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ud78ddd848b",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/resolucoes/0352.md",
-   "localizador": "ANEXO II",
-   "posicao": 2373,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u832ca89d20",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/resolucoes/0472.md",
-   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 472, DE 8 DE MAIO DE 2025",
-   "posicao": 118,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-472.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ubfb9cf6028",
-   "camada": "4",
-   "categoria": "tabela",
-   "norma": "bcb/resolucoes/0528.md",
-   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 528, DE 3 DE DEZEMBRO DE 2025",
-   "posicao": 215,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-528.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u794c844146",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/instrucoes-normativas/0506.md",
-   "localizador": "Art. 19",
-   "posicao": 265,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "uc5a614881f",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0055.md",
-   "localizador": "Art. 50",
-   "posicao": 674,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-55.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u1d5e253198",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0102.md",
-   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021",
-   "posicao": 382,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u0f2ac50ef9",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0264.md",
-   "localizador": "Art. 11",
-   "posicao": 200,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-264.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "uec8c77a747",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0278.md",
-   "localizador": "Art. 34",
-   "posicao": 442,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-278.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u0bbfcc0f72",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0308.md",
-   "localizador": "Art. 12",
-   "posicao": 278,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-308.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ufe6270a1bc",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0339.md",
-   "localizador": "Art. 33",
-   "posicao": 762,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-339.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "ud60bc0a139",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "bcb/resolucoes/0352.md",
-   "localizador": "Art. 99",
-   "posicao": 2224,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u4654dab66a",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "cmn/resolucoes/4966.md",
-   "localizador": "Art. 49",
-   "posicao": 1011,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-4966.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
-   "id": "u2931be2a2a",
-   "camada": "4",
-   "categoria": "tachado",
-   "norma": "cmn/resolucoes/4994.md",
-   "localizador": "Art. 7º",
-   "posicao": 83,
-   "commit": null,
-   "fonte": "dados/texto-vigente-fontes/cmn-res-4994.htm",
-   "paginas": null,
-   "sobrescrito": null
-  },
-  {
    "id": "u6e01871e12",
    "camada": "5",
    "categoria": "assinaturas",
@@ -4035,6 +3665,745 @@
     3
    ],
    "sobrescrito": null
+  },
+  {
+   "id": "u7cca19a247",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0055.md",
+   "localizador": "Art. 115",
+   "posicao": 1337,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-55.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u7781fc4b68",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0168.md",
+   "localizador": "Art. 13",
+   "posicao": 211,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-168.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u9aa6d36aa1",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0278.md",
+   "localizador": "Art. 29",
+   "posicao": 362,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-278.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uf434567b4f",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "Art. 1º",
+   "posicao": 33,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u5f3605d242",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "cmn/resolucoes/4993.md",
+   "localizador": "Art. 3º (2)",
+   "posicao": 96,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4993.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u244d8b4470",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "cmn/resolucoes/4994.md",
+   "localizador": "Art. 21",
+   "posicao": 235,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4994.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u3766e11250",
+   "camada": "4",
+   "categoria": "nota-redacao",
+   "norma": "cmn/resolucoes/5118.md",
+   "localizador": "Art. 3º",
+   "posicao": 48,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-5118.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uda3382d37e",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3023.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3023.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u9b3945dbd1",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3073.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3073.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8d441a6a80",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3360.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3360.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ubb1eb79d51",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/cartas-circulares/3934.md",
+   "localizador": "página 8",
+   "posicao": 8,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-cc-3934.pdf",
+   "paginas": [
+    8
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u0fbd8c562f",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/1832.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-1832.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u9b0d409767",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/1967.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-1967.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u66a499b5f1",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3082.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3082.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u9ac6eed2d2",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3106.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3106.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud222b4657d",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3282.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3282.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ufa4863dd8b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3614.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3614.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u76fd7b3d70",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3902.md",
+   "localizador": "página 6",
+   "posicao": 6,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3902.pdf",
+   "paginas": [
+    6
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u6db85a4015",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/3903.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-3903.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8651cc597f",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "bcb/circulares/4036.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-circ-4036.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ub157e1cd69",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/0102.md",
+   "localizador": "página 6",
+   "posicao": 6,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-102.pdf",
+   "paginas": [
+    6
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uc34e871a4d",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1502.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1502.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u127eedd157",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1660.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1660.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uadfa83a737",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/1775.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-1775.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u84609d44df",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2686.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2686.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud0650c78a1",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2734.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2734.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u7312fc99be",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2843.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2843.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u15db52521b",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/2907.md",
+   "localizador": "página 5",
+   "posicao": 5,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-2907.pdf",
+   "paginas": [
+    5
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u390efb22e8",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3042.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3042.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u7239cf3158",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3334.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3334.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u4c2679be71",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3427.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3427.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ud6f3c2de9c",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/3621.md",
+   "localizador": "página 1",
+   "posicao": 1,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-3621.pdf",
+   "paginas": [
+    1
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u04d8bb100f",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4277.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4277.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u56c03cc9b2",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4415.md",
+   "localizador": "página 2",
+   "posicao": 2,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4415.pdf",
+   "paginas": [
+    2
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "ubbae9fbea7",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4593.md",
+   "localizador": "página 4",
+   "posicao": 4,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4593.pdf",
+   "paginas": [
+    4
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "uac0af6622f",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4662.md",
+   "localizador": "página 9",
+   "posicao": 9,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4662.pdf",
+   "paginas": [
+    9
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u172a314866",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4734.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4734.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u8d2dbb8b85",
+   "camada": "4",
+   "categoria": "so-pdf",
+   "norma": "cmn/resolucoes/4815.md",
+   "localizador": "página 3",
+   "posicao": 3,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4815.pdf",
+   "paginas": [
+    3
+   ],
+   "sobrescrito": null
+  },
+  {
+   "id": "u33e74a7a0e",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/instrucoes-normativas/0487.md",
+   "localizador": "ANEXO I À INSTRUÇÃO NORMATIVA BCB Nº 487, DE 5 DE JULHO DE 2024, Art. 1º",
+   "posicao": 277,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-487.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uc30e42038a",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/instrucoes-normativas/0506.md",
+   "localizador": "Art. 17",
+   "posicao": 236,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uf76b832eb3",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/instrucoes-normativas/0506.md",
+   "localizador": "Art. 22",
+   "posicao": 294,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u7c0a8b04f4",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0102.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 102, DE 7 DE JUNHO DE 2021",
+   "posicao": 382,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-102.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uda6ddd50df",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "ANEXO I",
+   "posicao": 2343,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ud78ddd848b",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0352.md",
+   "localizador": "ANEXO II",
+   "posicao": 2373,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-352.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u832ca89d20",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0472.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 472, DE 8 DE MAIO DE 2025",
+   "posicao": 118,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-472.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ubfb9cf6028",
+   "camada": "4",
+   "categoria": "tabela",
+   "norma": "bcb/resolucoes/0528.md",
+   "localizador": "ANEXO À RESOLUÇÃO BCB Nº 528, DE 3 DE DEZEMBRO DE 2025",
+   "posicao": 215,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-528.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u3fce714a4b",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/instrucoes-normativas/0506.md",
+   "localizador": "Art. 15",
+   "posicao": 167,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-in-506.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u13fa3d7160",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0055.md",
+   "localizador": "Art. 82",
+   "posicao": 1028,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-55.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u5f1aa45ffa",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0168.md",
+   "localizador": "Art. 11",
+   "posicao": 197,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-168.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ucee539faa0",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0264.md",
+   "localizador": "Art. 25",
+   "posicao": 562,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-264.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ue7e9300f45",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0304.md",
+   "localizador": "Art. 139",
+   "posicao": 2430,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-304.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "uc153822b8a",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "bcb/resolucoes/0308.md",
+   "localizador": "Art. 11",
+   "posicao": 270,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/bcb-res-308.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ud592e0d5ca",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/4994.md",
+   "localizador": "Art. 37",
+   "posicao": 662,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-4994.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "ub85a355422",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/5008.md",
+   "localizador": "Art. 4º",
+   "posicao": 98,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-5008.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u949bd76187",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/5070.md",
+   "localizador": "Art. 7º",
+   "posicao": 146,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-5070.htm",
+   "paginas": null,
+   "sobrescrito": null
+  },
+  {
+   "id": "u7177fc6b7b",
+   "camada": "4",
+   "categoria": "tachado",
+   "norma": "cmn/resolucoes/5210.md",
+   "localizador": "Art. 1º",
+   "posicao": 32,
+   "commit": null,
+   "fonte": "dados/texto-vigente-fontes/cmn-res-5210.htm",
+   "paginas": null,
+   "sobrescrito": null
   }
- ]
+ ],
+ "camada4_ressorteada": {
+  "data": "2026-10-30",
+  "motivo": "correção da camada 4 (PDF _L da última versão do BCB em 26 normas) depois do primeiro sorteio; mesma semente, sorteio só das categorias 4/* sobre o universo regerado; os 30 itens da camada 4 do primeiro sorteio, anteriores à correção, saem sem auditoria",
+  "semente": 20261030
+ }
 }
