@@ -10,7 +10,8 @@
     {
       "name": "normas",
       "source": "./plugins/normas",
-      "description": "Texto das normas da CVM (piloto: Res. CVM 17) com data-base e consulta por artigo. Material não oficial."
+      "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo. Material não oficial.",
+      "version": "1.0.0"
     }
   ]
 }

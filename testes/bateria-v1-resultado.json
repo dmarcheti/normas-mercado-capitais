@@ -1,0 +1,787 @@
+{
+ "data": "2026-10-30",
+ "modelo_respostas": "claude-sonnet-5-5 (claude -p, sem web; sem acervo: sem ferramentas; com acervo: --plugin-dir e --tools Read,Skill)",
+ "modelo_juiz": "claude-opus-5-5, cego ao modo (60 respostas embaralhadas com a semente 20261030)",
+ "itens": [
+  {
+   "pergunta": "P01",
+   "modo": "com",
+   "resposta": "**Resposta:** a substituição deve ser comunicada à CVM **em até 7 (sete) dias úteis**. O prazo conta **da assinatura do aditamento** da escritura de emissão, do termo de securitização de direitos creditórios ou do instrumento equivalente. Quando a lei exigir o registro desses instrumentos nos órgãos competentes, conta **do registro**.\n\n**Fundamento:** art. 9º, *caput*, da Resolução CVM 17/2021.\n\n**Complementos:**\n- O parágrafo único do art. 9º manda enviar à CVM, junto com a comunicação, a declaração e as demais informações exigidas no *caput* e no § 1º do art. 5º. A declaração é a de inexistência de conflito de interesses, assinada por diretor estatutário. As informações são a comprovação do art. 4º e os dados cadastrais, no caso de agente sem cadastro na CVM.\n- Esse prazo é distinto do da substituição em si. Em caso de impedimento, renúncia, intervenção ou liquidação extrajudicial, o agente deve ser substituído em até 30 dias, por deliberação da assembleia (art. 7º, *caput*).\n- O art. 3º confirma que, nas substituições, o exercício da função do novo agente começa com o aditamento.\n\n**Data-base e verificação:**\n- Li o texto no acervo local: Res. CVM 17, consolidada e atualizada até a Res. CVM 226/25, lida em 2026-10-28.\n- A norma está vigente. O nível de verificação do arquivo é `consolidado-convertido`, ou seja, convertido por script, sem conferência ato a ato.\n- O campo `incerteza` do arquivo registra uma divergência sobre o art. 9º: o ato diz \"sete dias úteis\" e o consolidado da CVM diz \"7 (sete) dias úteis\". O prazo é o mesmo e vale o texto do ato.\n- Para parecer, contrato ou decisão, confira o texto na fonte oficial: https://www.in.gov.br/web/dou/-/resolucao-cvm-n-17-de-9-de-fevereiro-de-2021-303005375",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá 7 dias úteis da assinatura do aditamento, ou do registro quando exigido, com o art. 9º da Res. CVM 17, e informa atualização até a Res. CVM 226/25.",
+   "id_cego": "J38",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P01",
+   "modo": "sem",
+   "resposta": "**Resposta provável:** a substituição deve ser comunicada à CVM em até **7 (sete) dias úteis**, contados do **registro do aditamento** ao instrumento da emissão (escritura/termo de securitização) que formaliza a substituição, no órgão competente, e não da data da assembleia nem da renúncia.\n\n**Norma:** Resolução CVM nº 17/2021, que sucedeu a Instrução CVM 583/2016. A regra está no capítulo sobre substituição do agente fiduciário.\n\n**O que não consigo confirmar:** o número exato do artigo, parágrafo e inciso, e a redação literal do marco inicial do prazo. Estou citando de memória, sem acesso ao texto vigente, e não quero indicar um dispositivo que possa estar errado. Minha lembrança é de que o tema fica entre os arts. 7º e 9º da Resolução, mas isso é só uma pista para localizar a regra, não uma citação.\n\nComo a resolução pode ter sido alterada, confira o texto consolidado no site da CVM (conteudo.cvm.gov.br, \"Legislação e Regulamentação\", Resolução CVM 17) antes de usar isso em parecer ou em cumprimento de obrigação.\n\nSe quiser, posso verificar o dispositivo exato se você colar o texto da norma ou me indicar um arquivo local.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Acerta os 7 dias úteis, mas faz o prazo correr sempre do registro, quando a regra é a assinatura do aditamento; também não cita o art. 9º.",
+   "id_cego": "J16",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P02",
+   "modo": "com",
+   "resposta": "Até aqui li a Lei 14.430/2022 e a Res. CVM 60 no acervo. Não abri a Res. CVM 17 (agente fiduciário), então digo no fim o que isso deixa sem confirmação.\n\n## Resposta\n\nDecretada a falência da securitizadora, o agente fiduciário deve **assumir imediatamente a custódia e a administração do patrimônio separado** e, **em até 15 dias** da sua ciência, **convocar assembleia especial de investidores**. A assembleia delibera sobre substituir a securitizadora ou liquidar o patrimônio separado.\n\n### Dever e prazos, com o dispositivo\n\n| Providência | Prazo | Fundamento |\n|---|---|---|\n| Assumir a custódia e a administração do patrimônio separado | Imediatamente | art. 39, § 2º, Res. CVM 60; art. 31, *caput*, Lei 14.430 |\n| Convocar assembleia especial de investidores para deliberar sobre a substituição da securitizadora ou a liquidação do patrimônio separado | Até 15 dias, a contar da ciência da falência | art. 39, § 2º, Res. CVM 60 |\n| Realização da assembleia | Até 20 dias em primeira convocação e até 8 dias em segunda convocação (a contagem não está expressa no texto) | art. 39, § 2º, Res. CVM 60 |\n\n- **Base legal:** a falência está prevista como hipótese de destituição e substituição da securitizadora no art. 39, II, Res. CVM 60. O art. 31 da Lei 14.430 trata da \"insolvência\" e, pela regra de equiparação do art. 13, § 4º, Res. CVM 60, esse artigo aplica-se também ao cancelamento do registro.\n- **Poderes e competências:** o agente fiduciário tem poder de representação dos titulares (art. 29, *caput*, Lei 14.430). Cabe a ele administrar o patrimônio separado na insolvência (art. 29, § 1º, III) e promover a liquidação na forma do termo de securitização (art. 29, § 1º, IV). A assembleia pode deliberar sobre aporte de capital, dação em pagamento, leilão dos ativos ou transferência da administração para outra securitizadora ou para o agente fiduciário (art. 25, IV, \"a\" a \"d\", Res. CVM 60).\n- **Dação em pagamento:** o agente fiduciário pode resgatar os títulos por dação em pagamento dos bens do patrimônio separado se a assembleia não for instalada em segunda convocação ou se instalada não decidir (art. 31, § 1º, I e II, Lei 14.430). Os titulares passam a ser condôminos (art. 31, § 2º). O fundamento da CVM é o art. 39, § 2º, Res. CVM 60.\n- **Efeito sobre o patrimônio separado:** a insolvência da securitizadora ou do seu grupo não afeta os patrimônios separados (art. 31, § 3º, Lei 14.430). Eles não respondem perante os credores da securitizadora (art. 27, IV e V, Lei 14.430).\n- **Responsabilidade:** o agente fiduciário responde por prejuízos que causar por descumprimento de norma, negligência ou administração temerária (art. 29, § 2º, Lei 14.430).\n\n### Pontos a conferir\n\n1. **Prazo de convocação da assembleia.** O art. 39, § 2º, Res. CVM 60 fixa 15 dias para o agente fiduciário convocar, e 20 dias (primeira convocação) e 8 dias (segunda convocação) para a realização. O art. 26, § 1º, da mesma Resolução fixa 20 dias de antecedência mínima para a convocação, e 15 dias para deliberações sobre insuficiência de ativos. Não encontrei no texto lido regra que concilie o art. 39, § 2º com o art. 26, § 1º. O prazo específico do art. 39, § 2º é o que trata da falência.\n2. **Quórum.** O art. 28, *caput*, Res. CVM 60 exige 2/3 em primeira convocação para deliberações sobre insuficiência de ativos. A falência não está nessa hipótese no texto. Por isso confira o instrumento de emissão e o art. 28, *caput*, para saber qual quórum se aplica. Para as matérias de insuficiência, as deliberações valem por maioria dos presentes (art. 30, § 3º-A).\n3. **Res. CVM 17 e termo de securitização.** Não abri a Res. CVM 17 (deveres do agente fiduciário), nem o Suplemento A da Res. CVM 60. Podem existir deveres adicionais, como comunicações à CVM, ou prazos próprios no termo de securitização de cada emissão. Isso não está confirmado.\n\n### Data-base e nível de verificação\n\n- **Res. CVM 60:** texto atualizado até a Res. CVM 226/25. Nível `consolidado-convertido`, sem conferência ato a ato.\n- **Lei 14.430/2022:** texto do Planalto lido em 2026-10-28. Nível `compilado-planalto`. O arquivo avisa que não foi confirmado se a lei foi alterada depois.\n- **Recomendação:** confira a fonte oficial (DOU e Planalto) antes de usar a resposta em parecer, contrato ou decisão.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá a custódia imediata e os prazos de 15, 20 e 8 dias com o art. 39, II e § 2º, da Res. CVM 60, atualizada até a Res. CVM 226/25.",
+   "id_cego": "J09",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P02",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o número exato dos dispositivos. Não tenho acesso ao texto oficial nesta sessão, e citar artigo, parágrafo e inciso de memória seria arriscado.\n\n**O que a norma prevê (conteúdo, de memória):**\n- A norma é a **Lei nº 14.430/2022** (marco legal da securitização), no capítulo do regime fiduciário e do patrimônio separado. Esse regime substituiu o da Lei nº 9.514/1997 (arts. 9º a 16) para as companhias securitizadoras de forma geral.\n- O patrimônio separado não se confunde com o da securitizadora e não é afetado por sua falência ou insolvência. Ele não integra a massa falida.\n- Decretada a falência, o agente fiduciário **assume imediatamente a custódia e a administração do patrimônio separado**.\n- Em seguida, ele **convoca assembleia geral dos titulares dos títulos** para deliberar sobre a forma de administração do patrimônio separado ou sua liquidação. Pelo que lembro, o prazo é de **15 dias** (a conferir), e a assembleia pode escolher nova securitizadora ou a liquidação.\n- Se a assembleia não decidir pela continuidade, o agente fiduciário promove a liquidação do patrimônio separado, transferindo os bens e direitos aos titulares, na proporção de seus créditos.\n\n**Onde conferir:**\n- Lei 14.430/2022, na seção sobre regime fiduciário e patrimônio separado (arts. 25 a 34, pelo que me lembro). O dispositivo sobre falência ou insolvência da securitizadora e a atuação do agente fiduciário deve estar nessa faixa, mas não sei dizer qual artigo, parágrafo ou inciso.\n- Resolução CVM nº 17/2021, sobre os deveres do agente fiduciário. Ela pode ter regra complementar.\n- Resolução CVM nº 60/2021, sobre as companhias securitizadoras com oferta pública. Ela também pode tratar do tema.\n\nSe você me passar o texto da lei (ou eu puder acessá-lo), identifico o artigo, o parágrafo e o inciso e confirmo o prazo.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Dá a custódia imediata e os 15 dias só a conferir, omite os prazos de 20 e 8 dias da assembleia e não cita o art. 39 da Res. CVM 60.",
+   "id_cego": "J54",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P03",
+   "modo": "com",
+   "resposta": "**Resposta curta:** em regra, sim. Se um devedor ou coobrigado responde por 25% da emissão, a securitizadora deve enviar à CVM as demonstrações financeiras auditadas dele. A regra tem três exceções subjetivas e duas dispensas por público-alvo.\n\n**Dever e prazo.** O art. 51, *caput*, da Res. CVM 60 manda a companhia securitizadora encaminhar à CVM, anualmente, pelo sistema eletrônico, demonstrações financeiras **auditadas** de devedores ou coobrigados que tenham, direta ou indiretamente, exposição **maior que 20% de cada emissão**. Com 25%, o limite é superado. O prazo é de **até 5 dias úteis contados da disponibilização das demonstrações ao público**.\n\n**Duração do dever.** Pelo art. 51, § 1º, o envio vai até a data de vencimento dos títulos ou até o exercício em que os direitos creditórios deixarem de representar mais de 20% da emissão, o que ocorrer primeiro.\n\n**Exceções.**\n- **Art. 51, *caput*, incisos I a III** (exceções subjetivas). Não há o dever se o devedor ou coobrigado for:\n  - companhia aberta (I);\n  - instituição financeira ou equiparada (II);\n  - entidade cujas demonstrações do exercício imediatamente anterior à emissão tenham sido elaboradas conforme a Lei 6.404/76 e auditadas por auditor independente registrado na CVM (III).\n- **Art. 51, § 2º, incisos I e II** (dispensa por público-alvo). O envio periódico é dispensado se os títulos:\n  - tiverem como público-alvo exclusivamente sociedades do mesmo grupo econômico, seus administradores e controladores, com vedação de negociação no mercado secundário (I); ou\n  - forem destinados à subscrição e negociação exclusivamente por investidores profissionais (II).\n\nComo o CRI é público, a dispensa do inciso II só vale se a oferta for restrita a investidores profissionais. Em oferta ao público em geral ela não se aplica.\n\n**Dispositivos relacionados** (não são o dever de envio):\n- Art. 43-A: limita a 20% a exposição por devedor ou coobrigado na emissão e traz as mesmas exceções subjetivas e as mesmas dispensas por público-alvo (art. 43-A, § 2º). O art. 43-A, § 1º, equipara ao devedor o acionista controlador, as controladas, as coligadas e as sociedades sob controle comum.\n- Art. 17, IX: na aquisição dos créditos, a securitizadora deve verificar se algum devedor representa 20% ou mais do lastro e, se sim, diligenciar sobre a situação fiscal dele.\n\n**Ponto a conferir.** O art. 51, *caput*, diz \"exposição maior do que 20%\", e o art. 43-A e o art. 17, IX, usam \"20%\" e \"igual ou superior a 20%\". Isso não afeta o seu caso (25%), mas pesa se a exposição for exatamente 20%. O art. 51 não diz expressamente se a equiparação do art. 43-A, § 1º, vale para ele. Não encontrei essa remissão no texto.\n\n**Fonte e verificação.** Li o texto da Res. CVM 60 no acervo local, atualizado até a Res. CVM 226/25 (`vigente_ate_ato: 226`, `situacao: vigente`, consolidado lido em 2026-10-28). Esse acervo não é oficial. Antes de usar em parecer ou contrato, confira no DOU ou no consolidado da CVM. Não abri a Res. CVM 80 nem a Res. CVM 160. Não verifiquei se há norma posterior à 226 que altere o art. 51. A resposta cobre só o que consta da Res. CVM 60 e não analisa o seu caso concreto.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá o dever anual, os 5 dias úteis e as exceções dos incisos I a III do art. 51, e informa atualização até a Res. CVM 226/25.",
+   "id_cego": "J39",
+   "ferramentas_usadas": 7
+  },
+  {
+   "pergunta": "P03",
+   "modo": "sem",
+   "resposta": "**Resposta curta:** em regra, sim. Com 25% da emissão, o devedor passa do patamar de 20% que, no regime de securitização da Resolução CVM 60/2021, costuma acionar a divulgação das demonstrações financeiras dele. Não consigo confirmar os dispositivos exatos, então não vou citar números de artigo que eu não possa verificar.\n\n**O que sei com confiança razoável**\n- **Norma-base:** Resolução CVM 60/2021, que revogou a Instrução CVM 414 e trata das companhias securitizadoras e dos certificados de recebíveis. Ela é complementada pela Resolução CVM 160/2022 (ofertas públicas) e pela Resolução CVM 80/2022 (emissores registrados).\n- **Gatilho:** devedor ou coobrigado que concentre mais de 20% dos créditos do patrimônio separado ou da emissão. Aqui, 25% supera esse limite.\n- **Prazos:** a referência usual é o calendário dos emissores registrados, ou seja, DFP em até 3 meses do fim do exercício e ITR em até 45 dias do fim de cada trimestre (Resolução CVM 80). Não sei confirmar se a Resolução 60 aplica esse calendário diretamente ou define prazo próprio.\n- **Exceções:** a lógica geral é a dispensa quando o devedor já é emissor com registro na CVM, porque suas informações já são públicas. Não sei confirmar se há outras exceções nem a redação exata.\n\n**O que não consigo confirmar**\n- Artigo, parágrafo e inciso exatos da Resolução 60 sobre a concentração acima de 20%.\n- O texto atual da regra, que pode ter sido alterado por resoluções posteriores. Meu conhecimento pode estar defasado em relação a hoje (30/10/2026).\n- Os artigos exatos da Resolução 80 sobre os prazos de DFP e ITR.\n\nNeste ambiente não tenho acesso ao texto das normas. Se você colar o trecho da Resolução 60 (capítulo de informações periódicas e eventuais), eu identifico o dispositivo, o prazo e as exceções com precisão. Também vale conferir o texto consolidado no site da CVM antes de usar a resposta em parecer ou prospecto.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Aponta o gatilho de 20%, mas erra o prazo (fala em calendário DFP/ITR, não em 5 dias úteis) e as exceções, e não cita o art. 51.",
+   "id_cego": "J18",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P04",
+   "modo": "com",
+   "resposta": "**Resumo:** na classe não exclusiva, não. Na classe exclusiva, sim, desde que o regulamento permita. A base é o art. 32 do Anexo Normativo III da Res. CVM 175 (FII).\n\n**Classe não exclusiva**\n- O art. 32, V, Anexo Normativo III, Res. CVM 175, veda ao gestor, usando recursos da classe, \"constituir ônus reais sobre os imóveis integrantes do patrimônio da classe de cotas, exceto para garantir obrigações assumidas pela classe\".\n- Dívida de cotista é obrigação do cotista, não da classe. Por isso ela fica fora da exceção e a vedação se aplica.\n- O art. 32, § 1º, só ressalva a aquisição de imóvel que já tinha ônus real antes de entrar no patrimônio. Isso não altera o resultado.\n\n**Classe exclusiva**\n- O art. 32, § 3º, Anexo Normativo III, Res. CVM 175 dispõe: \"Na classe exclusiva, o Regulamento pode permitir que o gestor preste fiança, aval, aceite ou coobrigue-se sob qualquer forma, assim como que constitua ônus reais sobre os imóveis integrantes do patrimônio da classe, para garantir obrigações assumidas pelos cotistas.\"\n- A permissão não é automática. Ela depende de previsão expressa no regulamento.\n- A norma fala em \"obrigações assumidas pelos cotistas\", no plural. Não abri nenhum dispositivo que trate do caso de um único cotista.\n\n**Ponto de atenção**\n- O art. 30, II, \"f\", Anexo Normativo III, manda o administrador averbar nas matrículas que os imóveis \"não podem ser objeto de constituição de quaisquer ônus reais\". Isso decorre do art. 7º da Lei 8.668/1993.\n- Não li a Lei 8.668/1993 nesta consulta e não confirmei se ela admite a exceção do art. 32, § 3º. Antes de estruturar a garantia, confira essa relação. Confira também como o cartório de registro de imóveis trata a averbação.\n\n**O que não confirmei**\n- Não abri a definição de \"classe exclusiva\" na Parte Geral da Res. CVM 175.\n- O art. 32 trata do gestor. Não analisei o papel do administrador, que detém a propriedade fiduciária (art. 26, § 2º), nem a necessidade de assembleia de cotistas.\n\n**Data-base:** texto da Res. CVM 175 atualizado até a Res. CVM 240/26, \"consolidado\" no acervo, lido em 2026-10-28. O arquivo não traz o campo `nivel_verificacao`. Confira a fonte oficial (DOU e consolidado da CVM) antes de usar em parecer ou contrato.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde não para a classe não exclusiva e sim, se o regulamento permitir, para a exclusiva, com o art. 32, V e § 3º, do Anexo III, e informa atualização até a Res. CVM 240/26.",
+   "id_cego": "J46",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P04",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar os dispositivos exatos. Não tenho acesso ao texto consolidado da norma nesta sessão, e prefiro não inventar número de artigo, parágrafo ou inciso.\n\n**O que lembro, com ressalvas**\n\n- A norma aplicável é a Resolução CVM 175/2022, com o **Anexo Normativo III** (FII), que substituiu a Instrução CVM 472.\n- Na ICVM 472, o art. 35 vedava ao administrador, com recursos do fundo, prestar fiança, aval, aceite ou coobrigar-se de outra forma, e constituir ônus reais sobre os imóveis do fundo. Lembro dos temas, mas não tenho certeza dos incisos.\n- No Anexo III da Res. 175, a vedação equivalente deve estar no rol de vedações do administrador/gestor, mas não sei dizer o artigo e o inciso. Não sei se há ressalva específica para classes exclusivas ou restritas.\n\n**Resposta de mérito**\n\n- **Classe não exclusiva (varejo):** a regra geral é que o FII não pode dar seus imóveis em garantia real de dívida de terceiro, inclusive de cotista. Isso também decorre da vedação a fiança, aval e coobrigação. Posso estar equivocado quanto à existência de exceções, por exemplo para dívidas da própria classe.\n- **Classe exclusiva:** não tenho base para afirmar que a vedação deixa de valer. Se a Res. 175 flexibiliza algo para classes exclusivas ou restritas, isso estaria no próprio Anexo III ou no regulamento da classe, e eu precisaria ler o texto. Sem isso, o que posso dizer é que o regulamento não pode contrariar a vedação normativa, a menos que a norma diga o contrário.\n\n**Como confirmar**\n\n1. Abra a Res. CVM 175 consolidada no site da CVM (conteudo.cvm.gov.br) e vá ao Anexo Normativo III, na seção de vedações ao administrador e ao gestor.\n2. Procure por \"ônus reais\", \"fiança\" e \"coobrigar\" em todo o Anexo III e na parte geral.\n3. Verifique se há dispositivo específico sobre classes exclusivas ou restritas no Anexo III e na parte geral, e leia o regulamento do fundo.\n\nSe você me enviar o texto do Anexo III, ou colar aqui os trechos, eu cito os dispositivos exatos e fecho a resposta.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Não cita o art. 32 e, para a classe exclusiva, sugere que a vedação persiste, quando o § 3º permite a garantia se o regulamento a previr.",
+   "id_cego": "J04",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P05",
+   "modo": "com",
+   "resposta": "**Resposta curta:** não. Nessa hipótese o direito creditório **não é não-padronizado**, mas só se a condição restante do art. 2º, § 1º, I, estiver cumprida. Essa condição é a da alínea \"a\".\n\n**Base normativa** (Anexo Normativo II da Res. CVM 175, texto atualizado até a Res. CVM 240/26):\n\n- O art. 2º, XIII, \"f\", classifica como não-padronizados os direitos creditórios \"cedidos por sociedade empresária em recuperação judicial ou extrajudicial\". A própria alínea ressalva \"o disposto no inciso I do § 1º\".\n- O art. 2º, § 1º, I, diz que não são não-padronizados os direitos creditórios cedidos por sociedade empresária em recuperação judicial ou extrajudicial, desde que:\n  - **alínea \"a\":** \"não sejam originados por contratos mercantis de compra e venda de produtos, mercadorias e serviços para entrega ou prestação futura\";\n  - **alínea \"b\":** consta como \"(Revogado)\" e não está em vigor.\n\n**Aplicação ao caso:** como a alínea \"b\" foi revogada, resta só a alínea \"a\". Se a prestação de serviços já foi concluída, o crédito não decorre de serviço para prestação futura. Assim, em princípio, a alínea \"a\" é atendida e a exceção do § 1º, I, afasta a alínea \"f\" do inciso XIII.\n\n**Ressalvas:**\n\n- O afastamento vale só para a alínea \"f\". O crédito continua não-padronizado se tiver outra característica do inciso XIII. Por exemplo:\n  - a alínea \"a\", se estiver vencido e pendente de pagamento na cessão;\n  - a alínea \"e\", se o devedor também estiver em recuperação judicial ou extrajudicial;\n  - a alínea \"d\", se a validade da cessão for fator preponderante de risco.\n- Para o crédito ser padronizado, o inciso XIII precisa ser afastado em todas as alíneas, não só na \"f\".\n- A leitura de que serviço concluído equivale a \"não ser para prestação futura\" é minha interpretação do texto. Não encontrei no acervo orientação da CVM que a confirme.\n- Verifiquei o texto no acervo, em versão consolidada convertida (`nivel_verificacao` não confirmado por mim). Antes de usar em parecer ou contrato, confira o texto no DOU ou no consolidado da CVM.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde que não é não-padronizado, que resta só a alínea a e que a b foi revogada (art. 2º, § 1º, I, do Anexo II), e informa atualização até a Res. CVM 240/26.",
+   "id_cego": "J42",
+   "ferramentas_usadas": 3
+  },
+  {
+   "pergunta": "P05",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o texto exato do dispositivo, então não vou citar artigo, parágrafo e inciso como certos. Não tenho acesso à norma neste ambiente e não quero reconstruí-la de memória.\n\n**O que sei com razoável segurança:**\n- O conceito de \"direitos creditórios não padronizados\" está hoje na Resolução CVM 175, Anexo Normativo II (FIDC). Ele vinha da Instrução CVM 444, art. 1º, § 1º, e foi absorvido pelo regime atual.\n- Os créditos cedidos por empresa em recuperação judicial são, em regra, tratados como não padronizados. A norma prevê uma exceção para créditos já performados, como os originados de prestação de serviços concluída ou de bem já entregue.\n- Por isso, o crédito da sua hipótese tende a **não** ser classificado como não padronizado, desde que preenchidas as condições da exceção.\n\n**O que não consigo confirmar:**\n- A numeração exata (artigo, parágrafo, inciso) dessa exceção na Resolução CVM 175.\n- Qual condição resta no § 1º, I, depois de afastada a questão da prestação de serviço concluída. Minha lembrança é imprecisa, e um palpite aqui seria arriscado. Em geral, essas condições envolvem a existência e a exigibilidade do crédito e a ausência de pendência que o torne contingente, mas isso não é citação.\n\n**Próximo passo:** consulte o texto consolidado da Resolução CVM 175 e do Anexo Normativo II no site da CVM, ou me envie o trecho do dispositivo. Com o texto em mãos, respondo qual condição subsiste, com a citação exata.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não conseguir confirmar a condição que resta (alínea a) nem a revogação da alínea b, e não cita dispositivo nem data-base.",
+   "id_cego": "J02",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P06",
+   "modo": "com",
+   "resposta": "**Resposta:** o pedido é dirigido ao **administrador** do fundo. O administrador deve convocar a assembleia **no prazo máximo de 30 dias, contado do recebimento do pedido**.\n\n**Base normativa**\n- **Legitimidade:** art. 73, *caput*, da Resolução CVM 175, parte geral. Cotista ou grupo de cotistas que detenha, no mínimo, 5% do total de cotas emitidas pode convocar assembleia a qualquer tempo. Os 6% do caso atendem ao piso.\n- **Destinatário e prazo:** art. 73, § 1º, da Resolução CVM 175. O pedido de convocação feito por cotistas \"deve ser dirigido ao administrador, que deve, no prazo máximo de 30 (trinta) dias contado do recebimento, convocar a assembleia de cotistas\".\n- **Custeio:** art. 73, § 2º. A convocação e a realização da assembleia são custeadas pelos requerentes, salvo se a assembleia deliberar em contrário.\n\n**Observações**\n- O art. 73, § 1º, fixa o prazo para o administrador **convocar**, não para a assembleia se **realizar**. O art. 72, § 4º, exige antecedência mínima de 10 dias entre a convocação e a realização, \"sem prejuízo de regras específicas\" da categoria do fundo.\n- Li só a parte geral da Resolução CVM 175 e não abri os anexos normativos por categoria. Como o art. 72, § 4º, ressalva regras específicas, confirme se o anexo do tipo de fundo em questão traz prazo ou quórum diferente.\n- O texto é do acervo, atualizado até a Res. CVM 240/26, com nível de verificação `consolidado-convertido`. Antes de usar em parecer ou contrato, confira o dispositivo na fonte oficial: https://www.in.gov.br/web/dou/-/resolucao-cvm-n-175-de-23-de-dezembro-de-2022-454141408.\n- O art. 72, § 4º, aparece nas linhas que li, mas não vi o número do artigo no trecho exibido. Atribuo o § 4º ao art. 72 por inferência, porque o art. 73 vem logo depois. Confirme esse número na fonte.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Indica o administrador, 30 dias do recebimento e o piso de 5% com o art. 73, caput e § 1º, e informa atualização até a Res. CVM 240/26.",
+   "id_cego": "J12",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P06",
+   "modo": "sem",
+   "resposta": "**Resposta (com ressalva de confirmação):**\n\n- **A quem se dirige:** ao **administrador** do fundo.\n- **Prazo:** o administrador deve **convocar** a assembleia em até **30 dias** contados do recebimento do pedido. Esse é o prazo para convocar, não para realizar a assembleia. A convocação é feita às expensas dos requerentes, salvo deliberação em contrário da própria assembleia.\n- **Legitimidade:** 6% das cotas supera o piso de **5%** do total de cotas emitidas exigido dos cotistas, então o pedido é válido.\n\n**Norma em que me apoio:** Resolução CVM nº 175/2022, Parte Geral, **art. 72** (convocação da assembleia por administrador, gestor, custodiante ou cotistas com no mínimo 5% das cotas). O dever de o administrador convocar em 30 dias vem do mesmo capítulo da assembleia.\n\n**O que não consigo confirmar:**\n- Não tenho a norma à mão e não consultei o texto atualizado. Cito de memória, então **não garanto o número exato do parágrafo e do inciso**. Confira no texto consolidado no site da CVM.\n- A redação equivalente na norma anterior, a Instrução CVM 555/2014 (revogada), estava no **art. 66, §§ 1º e 2º**, e o prazo de 30 dias constava do § 2º. Essa referência é mais segura, mas não é a norma vigente.\n- Se for **FII, FIDC** ou outra classe com anexo próprio da Res. CVM 175, o percentual mínimo e o prazo podem diferir. Nesse caso, verifique o anexo específico e o regulamento do fundo, que pode fixar regras próprias.\n\nSe me disser o tipo de fundo, posso indicar com mais precisão onde procurar no anexo correspondente.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Indica o administrador, 30 dias e 5%, mas cita o art. 72 em vez do art. 73, § 1º, e não informa data-base.",
+   "id_cego": "J40",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P07",
+   "modo": "com",
+   "resposta": "**Resposta curta: não, nos dois casos.** A classe de FIAGRO destinada ao público em geral não pode prever a aplicação em nenhuma dessas duas categorias de direitos creditórios.\n\n**Fundamento**\n\nA vedação está no **art. 10, incisos I e III, do Anexo Normativo VI da Resolução CVM 175**. O caput diz que a política de investimento da classe destinada ao público em geral \"não pode prever a aplicação de recursos em ativos que são inelegíveis para o mesmo público em outras categorias de fundos, tais como\":\n\n- **Inciso I:** \"direitos creditórios não-padronizados, conforme definidos no art. 2º, inciso XIII, do Anexo Normativo II\".\n- **Inciso III:** \"direitos creditórios originados ou cedidos pelo administrador, gestor, consultoria especializada, custodiante, entidade registradora e partes a eles relacionadas\".\n\nO inciso II do mesmo artigo também veda, ao público em geral, direitos creditórios originados por contratos mercantis de compra e venda de produtos, mercadorias e serviços para entrega ou prestação futura.\n\n**Definição de \"não-padronizados\"**\n\nO **art. 2º, inciso XIII, alíneas \"a\" a \"i\", do Anexo Normativo II** (FIDC) os define como os direitos creditórios que tenham ao menos uma destas características:\n\n- vencidos e pendentes de pagamento quando da cessão;\n- decorrentes de receitas públicas;\n- decorrentes de litígio;\n- com risco preponderante de validade da cessão;\n- cujo devedor ou cedente esteja em recuperação;\n- de existência futura e montante desconhecido;\n- derivativos de crédito usados sem finalidade de proteção;\n- cotas de FIDC que invistam nesses direitos.\n\n**Ressalvas**\n\n- **Classe restrita ou para investidores profissionais.** O art. 10 só se aplica à classe destinada ao público em geral. Para direitos originados ou cedidos pelo administrador, pelo gestor, pela consultoria especializada ou por partes a eles relacionadas, o **art. 31, § 1º, do Anexo VI** permite que o regulamento da classe restrita afaste a vedação de conflito de interesses do **art. 31, II, \"a\"**. Isso exige que:\n  - o gestor, a entidade registradora e o custodiante não sejam partes relacionadas entre si (**inciso I**);\n  - a entidade registradora e o custodiante não sejam partes relacionadas ao originador ou cedente (**inciso II**).\n  \n  O **§ 2º** dispensa o inciso I para a classe exclusivamente destinada a investidores profissionais, e o **art. 39, II**, repete essa dispensa.\n- **Limite do que verifiquei.** O art. 10 veda a *previsão na política de investimento*. Não analisei se há outra via, como a aprovação em assembleia, para uma classe de varejo já constituída.\n- **Estrutura do art. 10.** O texto do art. 10, III, não faz ressalva para a classe de varejo. As exceções do art. 31, § 1º, e do art. 39 são todas voltadas a classes restritas ou profissionais.\n\n**Data-base e verificação**\n\n- **Fonte:** `normas/cvm/resolucoes/0175/anexo-06.md` e `anexo-02.md`.\n- **Atualização:** a Res. CVM 175 está vigente, com texto atualizado até a Res. CVM 240/26 (DOU 2026-03-06), lido em 2026-10-28.\n- **Divergência registrada:** o campo de incerteza do acervo lista divergências entre o consolidado da CVM e os atos. Nenhuma delas atinge os dispositivos citados aqui.\n- **Nível de verificação:** não li o campo `nivel_verificacao` no frontmatter dos anexos. Para parecer ou contrato, confira o texto na fonte oficial (DOU ou consolidado da CVM).\n\n**Correção:** na primeira consulta abri o Anexo V, que trata de fundos de índice, e não o dos FIAGRO. A resposta acima se baseia no Anexo VI, que é o dos FIAGRO.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde não nos dois casos com base no art. 10, I a III, do Anexo VI, e informa texto atualizado até a Res. CVM 240/26.",
+   "id_cego": "J03",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P07",
+   "modo": "sem",
+   "resposta": "Não consigo dar a resposta com citação exata de artigo, parágrafo e inciso, e prefiro não inventar numeração. Não tenho acesso à internet nem ao texto consolidado da norma nesta sessão, e o diretório de trabalho está vazio.\n\n**Onde a resposta está (confiança alta quanto à estrutura, não quanto à numeração):**\n- **Resolução CVM 175/2022, Anexo Normativo V (Fiagro):** define quais ativos o Fiagro pode ter e remete, conforme a estratégia (Fiagro-FIDC, Fiagro-FII, Fiagro-Direitos Creditórios), às regras do **Anexo Normativo II (FIDC)** e do **Anexo Normativo III (FII)**.\n- **Anexo Normativo II:** é onde ficam, pelo que me lembro, as restrições para classe destinada ao público em geral. Isso inclui o tratamento dos direitos creditórios não padronizados e as vedações ligadas a direitos originados ou cedidos por partes relacionadas, como o gestor. Não sei dizer com certeza o artigo e o inciso.\n\n**Resposta provável (confiança média, a confirmar no texto):**\n1. **Não padronizados:** a lógica da CVM desde a ICVM 444 e na Res. 175 é restringir esses ativos a investidores profissionais ou qualificados. Por isso, uma classe para o público em geral provavelmente não pode aplicar neles, ou só em condições bastante limitadas.\n2. **Originados ou cedidos pelo gestor:** a norma tende a vedar ou restringir fortemente a aquisição de ativos de partes relacionadas por classe de varejo, ou a condicioná-la a aprovação em assembleia por conflito de interesses. Não consigo afirmar qual das hipóteses vale nem em que dispositivo.\n\n**Como confirmar rápido:** no texto consolidado da Res. CVM 175 (site da CVM), leia o Anexo V, na parte sobre política de investimento e remissões ao Anexo II. Depois procure nele \"não padronizados\", \"público em geral\" e \"partes relacionadas\". Verifique também as alterações posteriores (Res. CVM 200 e seguintes), porque o Anexo V foi mexido depois da edição original.\n\nSe você colar aqui o trecho do Anexo II ou do Anexo V, eu identifico o dispositivo exato e confirmo a conclusão.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Responde só em termos prováveis, sem afirmar a vedação, e situa o FIAGRO no Anexo V em vez do art. 10 do Anexo VI.",
+   "id_cego": "J27",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P08",
+   "modo": "com",
+   "resposta": "**Teto geral: 25% da quantidade inicialmente requerida. Se a oferta for só para investidores profissionais, não há teto percentual, mas o valor máximo do lote adicional precisa constar dos documentos da oferta.**\n\n**1. Oferta de debêntures com registro automático**\n- O art. 50, *caput*, da Res. CVM 160 permite aumentar a quantidade distribuída, a critério do ofertante e sem novo requerimento de registro, até um montante que não exceda 25% da quantidade inicialmente requerida (lote adicional). Esse cálculo exclui o eventual lote suplementar do art. 51.\n- O art. 50 não distingue o rito de registro. Nos arts. 26 e 27, que tratam do registro automático, não encontrei regra própria sobre lote adicional. Por isso, o limite de 25% vale também para o rito automático.\n- Pela mesma lógica, a quantidade máxima de valores mobiliários adicionais deve constar do prospecto (art. 17, § 6º). Pela redação do art. 27, II, \"b\", o prospecto só é exigido no registro automático quando o público-alvo inclui quem não é investidor profissional.\n\n**2. Oferta destinada exclusivamente a investidores profissionais**\n- O art. 50, parágrafo único, dispensa a observância do limite de 25% do *caput*.\n- Em contrapartida, os documentos da oferta devem prever o valor máximo do lote adicional e a destinação dos recursos adicionais.\n\n**Pontos relacionados**\n- O lote suplementar (art. 51) tem teto próprio de 15% da quantidade inicialmente ofertada. O parágrafo único do art. 50 só dispensa o limite do lote adicional, não o do lote suplementar.\n- O valor da oferta compreende os lotes adicional e suplementar (art. 52).\n\n**Data-base e verificação**\n- O texto lido está atualizado até a Res. CVM 226/25, sem aviso de consolidado oficial pendente. O arquivo é `/private/tmp/claude-501/-Users-dma-cerebro-profissional-repos-publicos/277a6e8a-837b-43cb-9c7a-316620319e62/scratchpad/bat/plugin/normas/cvm/resolucoes/0160.md`.\n- O campo `nivel_verificacao` não aparece no frontmatter desse arquivo. Só aparece `versao_texto: consolidado`, e o campo `incerteza` não menciona os arts. 17, 26, 27, 50 a 52.\n- Não confirmei o nível de verificação do texto. Confira a fonte oficial antes de usar em parecer ou contrato.\n- Li os arts. 26 e 27 só do inciso V, alínea \"c\", em diante. Não li o início do art. 26, nem os anexos, nem normas da ANBIMA. Por isso a conclusão de que não há regra específica no rito automático vale apenas para o que li.\n- Não verifiquei, no acervo, se a ANBIMA tem regra própria sobre lote adicional que afete ofertas com análise por convênio.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá os 25% e a dispensa para profissionais com a previsão do valor máximo e da destinação (art. 50, caput e parágrafo único), e informa atualização até a Res. CVM 226/25.",
+   "id_cego": "J29",
+   "ferramentas_usadas": 8
+  },
+  {
+   "pergunta": "P08",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o dispositivo exato com segurança. Não tenho acesso à norma neste ambiente (sem internet ou texto da Resolução no diretório), e prefiro não inventar número de parágrafo ou inciso.\n\n**O que lembro, com confiança moderada:**\n- A norma é a **Resolução CVM 160/2022**. O lote adicional está regulado no **art. 50**, e o lote suplementar (*greenshoe*, até 15%) vem em dispositivo próximo.\n- O teto geral do lote adicional seria de **25%** da quantidade inicialmente ofertada, sem necessidade de novo pedido de registro ou modificação da oferta. Não tenho certeza se é o caput do art. 50 ou um parágrafo.\n- Esse teto aparentemente não depende de a oferta ser de rito automático ou ordinário. O que muda no rito automático é o procedimento de registro (art. 26 e seguintes), não o limite do lote.\n\n**Sobre ofertas exclusivamente para investidores profissionais:** não me lembro com segurança se a Resolução CVM 160 dispensa ou altera o limite de 25% nesse caso. Não vou afirmar que o teto é diferente ou inexistente sem ver o texto.\n\n**Como confirmar:** consulte o texto consolidado da Resolução CVM 160 no site da CVM (conteudo.cvm.gov.br, aba de normas) e leia o art. 50 com seus parágrafos. Verifique também se houve alteração posterior, por exemplo pela Resolução CVM 168/2022 ou normas mais recentes, já que a numeração e os limites podem ter mudado.\n\nSe você colar o texto do art. 50 aqui, eu confirmo e indico o parágrafo e o inciso exatos.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 1,
+    "data_base": 0
+   },
+   "motivo": "Dá os 25% com o art. 50, mas não sabe dizer se o limite cai na oferta exclusiva a profissionais; sem data-base.",
+   "id_cego": "J59",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P09",
+   "modo": "com",
+   "resposta": "**Prazos do administrador de FIDC (art. 27 do Anexo Normativo II da Res. CVM 175)**\n\n| Informação | Prazo | Dispositivo |\n|---|---|---|\n| Informe mensal | 15 dias após o encerramento do mês a que se referem as informações | art. 27, III, do Anexo Normativo II da Res. CVM 175 |\n| Demonstrativo trimestral | 45 dias após o encerramento do trimestre civil a que se referem as informações | art. 27, V, do Anexo Normativo II da Res. CVM 175 |\n\n- **Informe mensal:** o envio é por sistema eletrônico, no modelo do Suplemento G.\n- **Demonstrativo trimestral:** o envio também é por sistema eletrônico. O conteúdo está nas alíneas \"a\" a \"e\" do inciso V.\n- **Contagem em dias:** o art. 27 diz apenas \"dias\", sem \"úteis\". O parágrafo único do art. 31 usa \"dias úteis\" expressamente para o envio ao SCR, então a leitura natural é de dias corridos. Isso é interpretação minha, e o texto não define a contagem.\n\n**Dois prazos relacionados**\n- **Classes de investimento em cotas:** o demonstrativo mensal de composição e diversificação das aplicações também tem prazo de 15 dias após o fim do mês (art. 27, IV).\n- **Relatório trimestral do gestor:** o gestor deve enviá-lo ao administrador em até 40 dias após o fim do trimestre (art. 27, § 3º). Ele alimenta a alínea \"d\" do demonstrativo trimestral. Se o administrador não o receber no prazo, deve notificar o gestor e comunicar imediatamente à CVM (art. 27, § 4º).\n\n**Data-base e verificação**\n- Li o texto no acervo, no arquivo `normas/cvm/resolucoes/0175/anexo-02.md`.\n- O texto da Res. CVM 175 está atualizado até a Res. CVM 240/26. A situação é \"vigente\", e o histórico não é parcial.\n- O campo `nivel_verificacao` não consta no frontmatter, e a versão do texto é \"consolidado\". Por isso não consigo dizer se houve conferência ato a ato.\n- O campo de incertezas do acervo não aponta divergência no art. 27.\n- O acervo é material não oficial. Para parecer ou contrato, confira o texto no DOU ou no consolidado da CVM (https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/100/resol175consolid.docx).\n- Não verifiquei se há ofício ou norma específica que altere o calendário de envio, como prorrogação de prazo em caso concreto.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá 15 dias para o informe mensal e 45 dias para o demonstrativo trimestral com o art. 27, III e V, do Anexo II, e informa atualização até a Res. CVM 240/26.",
+   "id_cego": "J47",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P09",
+   "modo": "sem",
+   "resposta": "**Prazos (com ressalva de confiança):**\n\n- **Informe mensal:** até 10 dias após o encerramento do mês.\n- **Demonstrativo trimestral:** até 45 dias após o encerramento do trimestre.\n\n**Norma aplicável:** Resolução CVM 175/2022, Anexo Normativo II (FIDC), no capítulo sobre informações periódicas. Esse anexo substituiu a Resolução CVM 489/2011, que previa os mesmos prazos.\n\n**O que não consigo confirmar:** o número exato do artigo, parágrafo e inciso no Anexo Normativo II. Não tenho acesso à internet nesta sessão e não tenho o texto consolidado da norma. Também não sei se houve alteração posterior ao meu conhecimento, por exemplo por resoluções modificadoras da 175. Não vou citar um dispositivo de memória, porque um número errado seria pior do que nenhum.\n\n**Como verificar:** consulte o texto consolidado da Resolução CVM 175 no site da CVM (gov.br/cvm, em \"Legislação e Regulamentação\"). No Anexo Normativo II, procure o artigo que trata do envio de informações à CVM, com os incisos de informe mensal e demonstrativo trimestral. Se quiser, cole aqui o trecho e eu confirmo a leitura.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Dá 10 dias para o informe mensal quando o prazo é de 15, e não cita dispositivo.",
+   "id_cego": "J49",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P10",
+   "modo": "com",
+   "resposta": "**Resposta curta: não.** A SSE/CVM entende que a taxa de performance de um FIDC não pode ser destinada à consultoria especializada contratada pelo gestor, nem em parte. O risco apontado é de **gestão irregular de carteiras**, com responsabilização do consultor, do gestor ou do administrador do FIDC.\n\n## Onde está\n\n- **Ofício Circular CVM/SSE 03/26** (Ofício-Circular nº 3/2026/CVM/SSE, de 11/09/2026), item 1: a SSE esclarece a \"impossibilidade de destinação da taxa de performance […] ou de parcela desta, aos consultores contratados pelo gestor\".\n- Item 4: o consultor especializado não decide sobre investimento e desinvestimento da carteira. Por isso a remuneração dele \"não deve estar atrelada, vinculada ou fazer parte da taxa de performance devida pelo FIDC ao gestor\".\n- Item 6: a destinação, \"ainda que parcial\", é incompatível. A vinculação \"pode caracterizar gestão irregular de carteiras e implicar na responsabilização do consultor, gestor ou do administrador do FIDC\".\n- Item 7: administradores e gestores devem assegurar a adequada segregação de funções entre os prestadores e a transparência das informações aos investidores.\n\n## Fundamento normativo (Res. CVM 175)\n\n- **Art. 35 do Anexo Normativo II:** classes e subclasses de FIDC com taxa de performance devem seguir a disciplina do Anexo Normativo I.\n- **Art. 28, *caput*, do Anexo Normativo I:** \"O regulamento pode estabelecer a cobrança de taxa de performance **pelo gestor**.\"\n- **Art. 33, § 3º, do Anexo Normativo II:** o gestor pode contratar a consultoria especializada para atividades de análise, seleção, aquisição e substituição dos direitos creditórios. A norma não prevê que ela receba taxa de performance.\n- **Art. 20, IV, do Anexo Normativo II:** o regulamento deve dispor sobre a \"remuneração da consultoria especializada, se houver\". Essa remuneração tem de ser prevista como remuneração própria, e não como parcela da taxa de performance.\n- O ofício também cita a Res. CVM 21, segundo a qual a gestão profissional de carteira é atividade regulada que exige autorização.\n\n## Ressalvas\n\n- O Ofício Circular 3/26 é **orientação da superintendência (SSE)**, não norma. O ofício não cita um dispositivo que vede expressamente a destinação. Ele chega à conclusão pela leitura conjunta do art. 28 do Anexo I e do art. 35 do Anexo II, ambos da Res. CVM 175.\n- Quanto à data-base, o texto do ofício no acervo foi lido na fonte em 2026-10-28. A Res. CVM 175 está atualizada até a Res. CVM 240/26.\n- Quanto ao nível de verificação, o ofício está como `ocr` (extraído de PDF por OCR, com possíveis erros pontuais de leitura). A Res. CVM 175 está como `consolidado-convertido`. Confira ambos na fonte oficial da CVM antes de usá-los em parecer ou contrato.\n- A CVM não informa a vigência dos ofícios-circulares.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde não e aponta o risco de gestão irregular de carteiras com os itens 4 e 6 do Ofício-Circular 3/2026/SSE, e informa leitura em 2026-10-28.",
+   "id_cego": "J23",
+   "ferramentas_usadas": 17
+  },
+  {
+   "pergunta": "P10",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar com precisão o dispositivo nem o risco que a CVM aponta, e prefiro não inventar numeração de artigo. Não tenho acesso verificável ao texto da norma nesta sessão, e citar de memória artigo, parágrafo e inciso é onde esse tipo de resposta costuma errar.\n\n**O que tenho com razoável confiança (a verificar):**\n- O regime aplicável é a Resolução CVM 175/2022: a Parte Geral trata das taxas (administração, gestão, performance) e o Anexo Normativo II trata dos FIDC. Não sei indicar com certeza os artigos exatos da taxa de performance nem os da consultoria especializada.\n- A consultoria especializada é um prestador de serviço contratado pelo gestor ou pelo administrador, com funções de análise e seleção de direitos creditórios. A taxa de performance, por sua vez, remunera a gestão, de acordo com o regulamento.\n- Em tese, repassar parte da performance à consultoria pode ser feito por arranjo privado entre gestor e consultor, pago pelo próprio gestor, sem que o fundo pague diretamente ao consultor. Se o regulamento previr o pagamento pelo fundo, aí entram as regras de encargos e de divulgação da remuneração.\n\n**Risco que a CVM tende a apontar (sem poder citar a fonte exata):** conflito de interesses e falta de transparência. Se o consultor, o gestor ou partes relacionadas se beneficiam da performance, há incentivo para originar ou selecionar ativos de maior risco, e a remuneração pode ficar fora do que consta no regulamento e nos documentos do fundo.\n\n**Para obter a resposta com citação confiável**, vale consultar:\n1. O texto consolidado da Resolução CVM 175 no site da CVM, em especial o Anexo Normativo II e as regras de taxa de performance e encargos da Parte Geral.\n2. Os Ofícios-Circulares da SIN e da SMI sobre a Resolução 175.\n3. Processos Administrativos Sancionadores envolvendo FIDC e consultoria especializada.\n\nSe você me enviar o texto da norma ou o trecho do ofício ou do PAS, eu identifico o dispositivo exato e refaço a resposta com a citação correta.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Sugere que o repasse seria possível por arranjo privado e aponta conflito de interesses, o que contradiz a vedação e o risco de gestão irregular indicados pela SSE.",
+   "id_cego": "J44",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P11",
+   "modo": "com",
+   "resposta": "**Fonte principal: Parecer de Orientação CVM nº 35/2008, item 3 (\"Concretização dos Deveres Fiduciários\"), nos dois últimos blocos de recomendações.** Ele trata de operações entre controladora e controladas, com base no art. 264 da Lei 6.404/1976. Não tem artigos numerados. Os itens são identificados por algarismos romanos dentro de cada bloco.\n\n**Mecanismos adicionais** (item 3, bloco que começa em \"seguindo a experiência internacional\"). A CVM recomenda **uma das duas** alternativas:\n\n- **Inciso i:** um **comitê especial independente**, constituído para negociar a operação e submeter recomendações ao conselho de administração.\n- **Inciso ii:** condicionar a operação à **aprovação da maioria dos acionistas não controladores**. Isso inclui os titulares de ações sem voto ou com voto restrito.\n\n**Formação do comitê** (bloco seguinte do item 3). A CVM recomenda uma de três alternativas:\n\n- **Inciso i:** administradores da companhia, em sua maioria independentes.\n- **Inciso ii:** não administradores, todos independentes e com notória capacidade técnica. O comitê deve estar previsto no estatuto, para os fins do art. 160 da Lei 6.404/1976.\n- **Inciso iii:** três membros. Um administrador é escolhido pela maioria do conselho. Um conselheiro é eleito pelos não controladores. O terceiro, administrador ou não, é escolhido em conjunto pelos outros dois.\n\n**Independência.** Ela é examinada caso a caso. A CVM a presume, salvo prova em contrário, para quem atenda à definição de \"conselheiro independente\" do Regulamento do Novo Mercado da Bolsa de Valores de São Paulo (mesmo item 3).\n\n**Procedimentos-base.** Esses mecanismos vêm somados a 14 procedimentos que os administradores da controlada devem adotar (item 3, incisos i a xiv). Alguns exemplos:\n\n- Negociação efetiva da relação de troca (inciso i).\n- Assessores independentes do controlador e remunerados pela companhia (inciso viii).\n- Documentação das deliberações (inciso vi).\n- Disponibilização dos documentos aos acionistas, nos termos do art. 3º da Instrução CVM 319/1999 (inciso xiv).\n\n**Fundamento legal.** Os arts. 153, 154, 155 e 245 da Lei 6.404/1976 são a base dos deveres fiduciários que o parecer concretiza. O art. 264 e seus parágrafos tratam da avaliação por peritos ou empresa especializada, dos critérios de cálculo da relação de substituição e do direito de escolha do dissidente. O § 4º estende o regime a outras operações entre controladora, controlada e sociedades sob controle comum. O art. 264 não prevê comitê independente nem voto da maioria dos minoritários. Esses mecanismos vêm só do Parecer 35.\n\n**Ressalvas**\n- O parecer é orientação, não norma vinculante. O item 4 diz que os procedimentos \"não são exclusivos nem exaustivos\" e que a CVM pode admitir outros modos de cumprir os deveres legais.\n- O texto do Parecer 35 está no acervo como `ato-convertido` (conversão por script do DOC da CVM, base 2026-10-28). A CVM não publica a vigência de pareceres, e o acervo marca a situação como `nao-informada`.\n- A Lei 6.404 está no acervo como `compilado-planalto`, com base em 2026-10-28.\n- Não verifiquei se há norma posterior que altere ou substitua esse regime. Só abri o Parecer 35 e a Lei 6.404. Confira a fonte oficial antes de usar em parecer ou contrato.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá o comitê especial independente ou a aprovação da maioria dos não controladores, inclusive sem voto, com o item 3 do Parecer 35, e informa base de 2026-10-28.",
+   "id_cego": "J57",
+   "ferramentas_usadas": 6
+  },
+  {
+   "pergunta": "P11",
+   "modo": "sem",
+   "resposta": "**Resposta curta:** a CVM recomenda a criação de um **comitê especial independente** para negociar a relação de troca em nome da controlada (ou dos acionistas não controladores). Isso está no **Parecer de Orientação CVM nº 35/2008**, que trata dos deveres fiduciários dos administradores em operações entre controladora e controlada, ou entre sociedades sob controle comum.\n\n**Mecanismos que o Parecer recomenda (de memória, sem consulta ao texto):**\n- Comitê especial independente, formado por membros sem vínculo com o controlador, com mandato para negociar a relação de troca com a contraparte.\n- Poder para contratar assessores financeiros e jurídicos independentes, às custas da companhia.\n- Avaliação independente dos ativos e da relação de troca, em complemento à da própria operação.\n- Ampla divulgação ao mercado dos trabalhos, da fundamentação e das conclusões do comitê.\n- Possibilidade de condicionar a operação à aprovação dos minoritários, quando houver indícios de conflito.\n\n**Base normativa e limites da resposta:**\n1. **Art. 264 da Lei 6.404/76:** ele exige a justificação com o cálculo comparativo das relações de substituição, avaliando as duas companhias pelos mesmos critérios e na mesma data (caput e §1º). Ele também dá direito de retirada aos dissidentes se a relação do protocolo for menos vantajosa (§§2º e 3º). **Não confirmo a redação nem a vigência atual do artigo.** Tenho a lembrança de que a Lei 14.195/2021 o revogou, mas isso precisa ser verificado no texto consolidado no Planalto antes de você citá-lo.\n2. **Parecer de Orientação CVM 35/2008:** tenho confiança no número e no tema, mas **não consigo indicar o item exato** de cada recomendação. O Parecer é numerado por itens, não por artigos, parágrafos e incisos.\n3. **Natureza:** o Parecer é *soft law*. Ele orienta a fiscalização da CVM, mas não cria obrigação legal.\n\nNão tenho acesso à internet nesta sessão para conferir os textos. Se você me passar o PDF do Parecer ou o texto atualizado da Lei 6.404, eu cito os itens e dispositivos exatos.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Indica o comitê independente e a aprovação pelos minoritários, mas não aponta o item do Parecer 35 e não informa data-base.",
+   "id_cego": "J32",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P12",
+   "modo": "com",
+   "resposta": "Segundo o Parecer de Orientação CVM nº 40/2022, um criptoativo é valor mobiliário em duas hipóteses, previstas no item 4. O parecer não tem artigos, parágrafos nem incisos. Por isso cito pelos itens e subitens numerados do próprio texto.\n\n**Hipóteses (item 4, caput, alíneas (i) e (ii))**\n\nO caput do item 4 diz que os criptoativos não estão expressamente nos incisos do art. 2º da Lei 6.385/76. Diz também que os agentes devem analisar as características de cada um, e que ele é valor mobiliário quando:\n\n- **Item 4, (i):** é a representação digital de algum dos valores mobiliários previstos nos incisos I a VIII do art. 2º da Lei 6.385/76 ou na Lei 14.430/2022. O texto explica a Lei 14.430 como \"certificados de recebíveis em geral\".\n- **Item 4, (ii):** enquadra-se no conceito aberto do inciso IX do art. 2º da Lei 6.385/76, por ser contrato de investimento coletivo (CIC).\n\n**Token de recebíveis**\n\n- **Via do item 4, (i):** se o token representar digitalmente um certificado de recebíveis da Lei 14.430/2022 (ou outro valor mobiliário típico), é valor mobiliário.\n- **Via do item 4, (ii):** se não for esse caso, o token pode ainda ser valor mobiliário como CIC. Isso depende dos requisitos do item 4.1, que são estes:\n  - investimento;\n  - formalização;\n  - caráter coletivo;\n  - expectativa de benefício econômico (4.1.1);\n  - esforço de empreendedor ou de terceiro (4.1.2);\n  - oferta pública (4.1.3).\n- **Item 3, penúltimo parágrafo:** o token referenciado a ativo \"pode ou não\" ser valor mobiliário, conforme a essência econômica dos direitos que confere. O texto cita expressamente o \"direito a receber relacionado a estruturas assemelhadas às de securitização\" como modelo que aproxima o token do conceito de valor mobiliário. Esse trecho diz que há aproximação, não que o token seja valor mobiliário.\n- **Item 2:** o uso de tecnologia cripto ou de registro distribuído é irrelevante para o enquadramento.\n- **Item 4, penúltimo parágrafo:** derivativos são sempre valores mobiliários (art. 2º, VIII, Lei 6.385/76), qualquer que seja o subjacente.\n\n**Data-base e limites da confirmação**\n\n- **Fonte da consulta:** o texto vem do acervo de normas (`normas/cvm/pareceres-orientacao/0040.md`). O parecer é de 11/10/2022, publicado no DOU em 14/10/2022. O texto foi baixado em 28/10/2026, sem histórico de alterações.\n- **Verificação:** o nível é `ato-convertido`, ou seja, conversão automática do DOCX da CVM. Confira a fonte oficial da CVM antes de usar em parecer ou contrato.\n- **Vigência:** a CVM não publica a vigência dos pareceres, então não consigo confirmar que o texto segue em vigor. Não verifiquei se norma posterior, como a legislação específica sobre criptoativos que o próprio parecer prevê no item 1, alterou esse entendimento.\n- **Leis citadas:** não abri o texto da Lei 6.385/76 nem o da Lei 14.430/2022. As referências a seus dispositivos são as que o parecer faz.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá as duas hipóteses (representação digital de VM dos incisos I a VIII ou da Lei 14.430, e CIC) e os derivativos com base no item 4, e informa que o texto foi baixado em 2026-10-28.",
+   "id_cego": "J17",
+   "ferramentas_usadas": 3
+  },
+  {
+   "pergunta": "P12",
+   "modo": "sem",
+   "resposta": "**Aviso:** não consultei o texto do PO 40 nesta sessão. A resposta vem da minha memória, e a numeração exata dos itens do Parecer não consigo confirmar. Confira no texto oficial no site da CVM antes de citar.\n\n## Resposta\n\nO Parecer de Orientação CVM nº 40, de 11/10/2022, não cria um critério próprio. Ele remete ao **art. 2º da Lei 6.385/1976**. Um criptoativo é valor mobiliário quando, pela sua substância e independentemente da tecnologia ou do nome (token, NFT etc.), se enquadra em uma das hipóteses desse artigo:\n\n1. **Incisos I a VIII do art. 2º:** o token representa, ou confere direitos equivalentes aos de, um valor mobiliário já nomeado. Os exemplos são ações, debêntures, cotas de fundos, derivativos e certificados de depósito de valores mobiliários. Nesse caso o token é apenas a forma digital do ativo.\n\n2. **Inciso IX do art. 2º (contrato de investimento coletivo):** são \"quaisquer outros títulos ou contratos de investimento coletivo, que gerem direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de serviços, cujos rendimentos advêm do esforço do empreendedor ou de terceiros\", **quando ofertados publicamente**. O Parecer decompõe esse inciso nos seguintes elementos:\n   - investimento (aporte de recursos);\n   - formalização (título ou contrato);\n   - caráter coletivo;\n   - expectativa de benefício econômico;\n   - esforço de terceiro (empreendedor ou promotor);\n   - oferta pública.\n\n## Aplicação ao token de recebíveis\n\nO Parecer trata esse tipo como token lastreado em ativo (*asset-backed*). A conclusão que me lembro é esta:\n\n- Se o lastro for um valor mobiliário, o token também será.\n- Se o lastro não for valor mobiliário, por exemplo um recebível comum, o token ainda será valor mobiliário quando a oferta pública reunir os elementos do inciso IX. É o caso típico de frações de recebíveis oferecidas a investidores com retorno dependente da gestão ou da cobrança por terceiro.\n- Se faltar algum elemento, como a oferta pública ou a dependência do esforço de terceiro, não há valor mobiliário apenas por força desse inciso.\n\n## Observações\n\n- O Parecer de Orientação é ato interpretativo, sem força normativa própria. Quem vincula é a Lei 6.385/1976.\n- Também me lembro de que a Lei 14.478/2022 (marco legal dos ativos virtuais) ressalva a competência da CVM sobre valores mobiliários, mas não consigo confirmar o artigo e o inciso exatos.\n\nSe quiser, posso tentar buscar o texto oficial para conferir os itens do Parecer, caso eu tenha acesso à web neste ambiente.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Acerta as duas hipóteses (incisos I a VIII e CIC do inciso IX), mas não cita o item 4 do parecer e diz que respondeu de memória, sem data-base.",
+   "id_cego": "J35",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P13",
+   "modo": "com",
+   "resposta": "Estou conferindo no acervo o art. 2º do Anexo Normativo VI (FIAGRO) e o art. 2º, XII, do Anexo Normativo II (FIDC) da Res. CVM 175. Já li os dois dispositivos e o art. 14 do Anexo VI, e a resposta segue abaixo.\n\n## Resposta\n\n**Não. Poder investir mais de 50% em direitos creditórios não equipara as cotas do FIAGRO a cotas de FIDC.** Os dois dispositivos tratam de coisas diferentes.\n\n**1. O limite de 50% do FIAGRO só gera aplicação subsidiária de regras.**\n- O art. 2º, *caput*, do Anexo Normativo VI diz que, se a política de investimento da classe permitir aplicar mais de 50% do patrimônio líquido em ativos que também sejam objeto de outra categoria de fundo, a classe \"deve observar subsidiariamente as regras aplicáveis à respectiva categoria\".\n- Em caso de conflito, prevalece o Anexo VI.\n- O efeito é de regras da categoria, não de natureza jurídica. O texto não transforma o FIAGRO em FIDC nem torna suas cotas equiparáveis a cotas de FIDC.\n- Os §§ 1º e 2º do art. 2º exigem que o regulamento indique expressamente a categoria a que cada ativo pertence. Ativos da mesma natureza não podem ser indicados em categorias distintas na mesma classe.\n- O art. 15, § 4º, do Anexo VI exige que os limites da política de investimento sejam aderentes aos do anexo subsidiariamente aplicável.\n\n**2. A equiparação do art. 2º, XII, \"d\", do Anexo II vale para o ativo, não para o fundo.**\n- O art. 2º, XII, \"d\", do Anexo Normativo II define \"direitos creditórios\" e inclui, \"por equiparação, cotas de FIDC\".\n- Ele só diz que as cotas de FIDC contam como direito creditório na carteira de um FIDC.\n- Não há, nos dispositivos que li, menção a cotas de FIAGRO nesse inciso. Equiparar cotas de FIAGRO a cotas de FIDC exigiria previsão expressa, e eu não a encontrei.\n\n**3. As cotas de FIAGRO entram na carteira de outro FIAGRO por regra própria, não pela equiparação do FIDC.**\n- O art. 14, VII, do Anexo VI admite \"cotas de classes que apliquem mais de 50% [...] nos ativos referidos nos incisos I a VI, o que inclui cotas de outros FIAGRO, mas não se limita a essa categoria de fundos\".\n- O art. 14, § 3º, exige que a classe investida tenha política destinada às cadeias produtivas do agronegócio.\n- O art. 14, IV e V, tratam dos direitos creditórios do agronegócio e imobiliários rurais, e dos certificados de recebíveis (CRA e CRI) lastreados neles.\n\n**4. Restrições do FIDC que chegam ao FIAGRO.**\n- O art. 10 do Anexo VI proíbe a classe destinada ao público em geral de aplicar em ativos inelegíveis para esse público em outras categorias. São exemplos os direitos creditórios não-padronizados, definidos no art. 2º, XIII, do Anexo II.\n\n## Ressalvas\n\n- **Texto consultado:** Res. CVM 175 consolidada, com atualização até a Res. CVM 240/26, conforme o campo `vigente_ate_ato`. Os campos `nivel_verificacao` e `baixado_em` não constaram do trecho que li. Confira o texto na fonte oficial da CVM antes de usar em parecer.\n- **Não confirmei:** li o Anexo II só até o art. 2º, XIV, e o Anexo VI até o art. 20. Não verifiquei se outro dispositivo do Anexo II, da parte geral ou dos suplementos trata de cotas de FIAGRO como ativo de FIDC. Se isso importa para o seu caso, vale checar esses trechos.\n- **Anexo V × VI:** o FIAGRO está no **Anexo Normativo VI**. O Anexo Normativo V trata de fundos de índice.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 1
+   },
+   "motivo": "Acerta que não basta poder investir mais de 50%, mas nega a equiparação e omite a condição da SSE (política com mínimo de 50%); não cita o Ofício-Circular 8/2025.",
+   "id_cego": "J05",
+   "ferramentas_usadas": 6
+  },
+  {
+   "pergunta": "P13",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar a redação exata dos dispositivos. Não tenho acesso à base normativa da CVM nesta sessão e não vou citar de memória artigo, inciso ou parágrafo que talvez não corresponda ao texto vigente.\n\n**O que sei, com ressalvas:**\n\n- **Regime próprio:** o Fiagro tem regime próprio na Resolução CVM 175, em Anexo Normativo específico, que se aplica em conjunto com a Parte Geral. Não confirmo se esse anexo é o V ou o VI. O Anexo Normativo II é o do FIDC.\n- **Fiagro-FIDC:** o regulamento do Fiagro admite a categoria de Fiagro que investe em direitos creditórios, e o Fiagro que adota a forma de FIDC segue as regras do Anexo II, com adaptações. Confirme a redação exata no Anexo do Fiagro.\n- **Capacidade de investir:** a mera possibilidade de investir mais de 50% em direitos creditórios não equipara, por si só, a cota de Fiagro à cota de FIDC. Fiagro e FIDC são tipos distintos de fundo. A equiparação, quando existe, depende do texto da norma que a prevê, e esse texto geralmente fala em fundos constituídos como FIDC ou em carteira efetivamente composta de direitos creditórios.\n- **Art. 2º, XII, do Anexo II:** não consigo afirmar que esse dispositivo define \"direitos creditórios\" ou que trata da equiparação. Não confirmo o conteúdo dele, e mesmo que defina o conceito, isso não equipara cotas de Fiagro a cotas de FIDC.\n\n**Conclusão provisória:** a resposta tende a ser **não**. Basta a política de investimento permitir mais de 50% em direitos creditórios? Também tende a **não**. O que importa é a forma do veículo (Fiagro-FIDC ou não) e a finalidade da norma em que a equiparação é invocada. Esse ponto muda a resposta e eu não sei qual é o seu caso. Pode ser regra de elegibilidade, enquadramento de investidor, limites de concentração, tributação (Lei 14.754/2023 e Lei 8.668/1993) ou outra.\n\nSe você me disser em qual norma ou contexto a equiparação está sendo discutida, ou colar o texto do art. 2º do Anexo II e do Anexo do Fiagro, analiso o dispositivo exato.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Hesita, não dá a condição da SSE (política com mínimo de 50%) e não cita o Ofício-Circular 8/2025.",
+   "id_cego": "J26",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P14",
+   "modo": "com",
+   "resposta": "**Resposta curta:** a Res. CVM 88 não responde a essa pergunta, e a premissa dela é duvidosa. A obrigação de agente fiduciário vem da Lei 14.430 e da Res. CVM 60. Sem patrimônio separado, a Lei não exige agente fiduciário, mas a Res. CVM 60 o lista entre os prestadores que a securitizadora deve contratar. Não consegui fechar essa última parte.\n\n**1. Res. CVM 88**\n- Li a norma inteira, com os Anexos A a H. Ela não menciona agente fiduciário, securitizadora, certificado de recebíveis nem patrimônio separado.\n- A Res. 88 vale só para valores mobiliários de \"sociedade empresária de pequeno porte\" (art. 1º, *caput*, e art. 3º, IV). Essa sociedade é definida como a que não é registrada como emissor na CVM e tem receita bruta anual de até R$ 40 milhões (art. 2º, VII).\n- A securitizadora que emite publicamente é registrada na CVM (art. 2º, III, e art. 3º, Res. CVM 60). Pela minha leitura, ela não se enquadra como emissora nessa modalidade. Isso é inferência minha, não texto expresso. Se a estrutura que você tem em mente usa outro desenho, me diga qual.\n\n**2. Quando o agente fiduciário é obrigatório**\n- **Com regime fiduciário e emissão pública:** o termo de securitização deve conter a \"nomeação de agente fiduciário, quando se tratar de emissões públicas\" (art. 26, III, Lei 14.430). O § 4º do art. 29 manda observar a regulamentação da CVM nas emissões públicas.\n- **Res. CVM 60, art. 33:** a securitizadora \"deve contratar\" custodiante, escriturador, auditor independente e agente fiduciário (*caput*, I a IV). Segundo o *caput*, a contratação é feita \"em benefício do patrimônio separado, se houver\".\n\n**3. Se não houver patrimônio separado**\n- O art. 26, III, da Lei 14.430 está dentro das condições do regime fiduciário, que é o que constitui o patrimônio separado (art. 26, II). Sem regime fiduciário, essa exigência legal não se aplica.\n- O art. 33, IV, da Res. 60 não condiciona o agente fiduciário à existência de patrimônio separado. O \"se houver\" parece qualificar apenas o beneficiário da contratação. O art. 33, § 12, só permite dispensar o custodiante, e não o agente fiduciário.\n- Emissão pública sem regime fiduciário só cabe a securitizadora da categoria S2 (art. 3º, I e II, Res. 60).\n\n**O que não consegui confirmar**\n- Li a Res. 60 só até o art. 39. Faltam o restante, os Anexos Normativos e o Suplemento A (conteúdo do termo de securitização). Pode haver aí uma regra que afaste o agente fiduciário quando não há regime fiduciário.\n- Não abri a Res. CVM 17 (função de agente fiduciário) nem a Res. CVM 160 (ofertas).\n- Não verifiquei se a Lei 14.430 foi alterada depois da publicação.\n\n**Data-base e verificação**\n- Res. 88 e Res. 60: texto atualizado até a Res. CVM 226/25, com nível `historico-conferido`.\n- Lei 14.430: texto do Planalto lido em 2026-10-28, com histórico parcial.\n- O acervo não é oficial. Confira no DOU antes de usar a resposta em parecer ou contrato.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 1
+   },
+   "motivo": "Questiona a premissa e conclui que sem patrimônio separado a lei não exige agente fiduciário, o que contradiz a SSE; não cita o Ofício-Circular 6/2025.",
+   "id_cego": "J07",
+   "ferramentas_usadas": 10
+  },
+  {
+   "pergunta": "P14",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar os dispositivos exatos. Não tenho acesso ao texto das normas nesta sessão e não vou citar artigo, parágrafo ou inciso de memória, porque um número errado seria pior que nenhum.\n\n**O que sei, com grau de confiança variável:**\n\n1. **Res. CVM 88:** não me lembro de ela criar, por si só, a obrigação de agente fiduciário para certificados de recebíveis. Ela trata do regime de crowdfunding (plataforma, emissor, limites, informações). Antes de afirmar isso, é preciso ler o artigo que define quem pode ser emissor e se há tratamento específico para securitizadoras, e eu não consigo confirmar essa parte.\n\n2. **A obrigação, se existir, vem da disciplina de securitização:** Lei 14.430/2022 (regime fiduciário e patrimônio separado) e Res. CVM 60/2021 (certificados de recebíveis em oferta pública). Pelo que me lembro, a nomeação de agente fiduciário está ligada à instituição de regime fiduciário, com patrimônio separado, e não a toda emissão de certificado de recebíveis.\n\n3. **Sem patrimônio separado:** se não houver regime fiduciário, os créditos não ficam segregados e respondem pelas obrigações gerais da securitizadora. Minha leitura provável é que a obrigatoriedade do agente fiduciário cairia. Mas a Res. CVM 60 pode exigir ou dispensar o agente por outra via, ou impor outras condições à oferta pública sem regime fiduciário. Isso eu não consigo afirmar.\n\n**Para fechar a resposta**, é preciso ler:\n- na Res. CVM 88, o artigo sobre emissores admitidos e o tratamento de securitizadoras;\n- na Lei 14.430/2022, os artigos sobre regime fiduciário e agente fiduciário;\n- na Res. CVM 60, a seção sobre agente fiduciário e a que trata da oferta pública sem regime fiduciário.\n\nSe você colar esses trechos ou me indicar os arquivos, eu cruzo os dispositivos e respondo com a citação exata. Em uma operação real, vale confirmar também com a versão consolidada no site da CVM, pois essas normas foram alteradas depois da edição original.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Sugere que sem patrimônio separado o agente fiduciário deixaria de ser obrigatório, o que contradiz a SSE, e não cita dispositivo.",
+   "id_cego": "J55",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P15",
+   "modo": "com",
+   "resposta": "Já tenho o que preciso: li a Lei 14.430 e a Res. CVM 60 no acervo, e não falta nenhum dispositivo.\n\n## Resposta\n\n**Antecedência mínima: 15 dias. Quórum de instalação em 1ª convocação: titulares que representem, no mínimo, 2/3 do valor global dos títulos.**\n\n**Lei 14.430/2022, art. 30, § 3º, caput e inciso I**\n- O edital é publicado no sítio eletrônico da emissora, com antecedência mínima de 15 dias.\n- Em 1ª convocação, a assembleia se instala com beneficiários que representem, no mínimo, 2/3 do valor global dos títulos.\n- Em 2ª convocação (inciso II), instala-se com qualquer quantidade de beneficiários.\n- Pelo § 4º, as deliberações são válidas se tomadas pela maioria dos presentes, em 1ª ou 2ª convocação.\n- Pelo § 1º, a securitizadora convoca a assembleia, ou o agente fiduciário, se ela não o fizer.\n\n**Res. CVM 60/2021, para emissões públicas**\n- **Prazo:** o art. 26, § 1º, fixa 20 dias de antecedência como regra. Para deliberações sobre insuficiência de ativos do patrimônio separado, o prazo é de 15 dias.\n- **Quórum:** o art. 28 exige, para essas deliberações, instalação em 1ª convocação com titulares de, no mínimo, 2/3 do valor global dos títulos. Nos demais casos, a assembleia se instala com qualquer número.\n- **Deliberação:** o art. 30, § 3º-A, considera válidas as deliberações tomadas pela maioria dos presentes, em 1ª ou 2ª convocação.\n- **Competência:** o art. 25, IV, dá à assembleia especial de investidores a deliberação sobre administração ou liquidação do patrimônio separado em caso de insuficiência de ativos.\n- **Agente fiduciário:** o art. 33, § 5º, manda convocar a assembleia na hipótese de insuficiência.\n\nA Res. CVM 60 e a Lei 14.430 dão o mesmo resultado. A norma da CVM usa o termo \"assembleia especial de investidores\" e a lei, \"assembleia geral dos beneficiários\".\n\n## Ressalvas sobre as fontes\n- **Res. CVM 60:** o texto é o consolidado da CVM, atualizado até a Res. CVM 226/25 e lido em 2026-10-28. O frontmatter não traz o campo `nivel_verificacao`, então não consigo informar esse nível.\n- **Lei 14.430:** é o compilado do Planalto, lido em 2026-10-28, sem histórico de alterações (`historico_parcial: true`). O próprio acervo diz que não confirmou se a lei foi alterada depois da publicação.\n- **Antes de usar em parecer ou contrato:** confira a fonte oficial: o Planalto para a lei e o consolidado da CVM para a resolução.\n- **Instrumento de emissão:** vale ler o termo de securitização da emissão específica. A lei exige que ele traga as regras de assembleia (art. 22, XVI), e a Res. CVM 60 admite quórum diferente da maioria simples para outras matérias (art. 30, § 3º). Para o caso de insuficiência, a instalação em 1ª convocação (2/3) está fixada na lei e na resolução.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá 15 dias, 2/3 em primeira convocação, qualquer número na segunda e maioria dos presentes com o art. 30, § 3º, da Lei 14.430, e informa as datas de leitura.",
+   "id_cego": "J14",
+   "ferramentas_usadas": 7
+  },
+  {
+   "pergunta": "P15",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o dispositivo exato, e prefiro não citar artigo, parágrafo e inciso de memória, porque uma citação errada seria pior que nenhuma. Nesta sessão não tenho acesso verificado ao texto da norma.\n\n**O que sei com segurança**\n- A matéria é regida pela **Lei nº 14.430/2022** (marco legal da securitização), no capítulo sobre o regime fiduciário e o patrimônio separado. Lá estão a insuficiência do patrimônio separado e a convocação de assembleia geral dos titulares para deliberar sobre a administração ou liquidação dele.\n- A **Resolução CVM nº 60/2021** complementa a lei, com regras sobre assembleia, convocação e deveres do agente fiduciário.\n\n**O que não consigo afirmar sem consultar o texto**\n- O prazo mínimo de antecedência da convocação. Minha lembrança é de que se aplica o prazo das assembleias de titulares de valores mobiliários, algo na faixa de 20 a 21 dias. Não confirmo o número nem se ele vem da lei, da Resolução CVM 60 ou do termo de securitização.\n- O quórum de instalação em primeira convocação. Minha lembrança é de que exige titulares representando parcela relevante dos títulos em circulação, com instalação em segunda convocação com qualquer número. Também não confirmo o percentual nem o dispositivo.\n\n**Como verificar**\n1. Leia o capítulo do patrimônio separado na Lei 14.430/2022 (planalto.gov.br), procurando o artigo que trata de insuficiência e assembleia geral.\n2. Leia o capítulo de assembleia geral da Resolução CVM 60/2021 (gov.br/cvm).\n3. Confira o termo de securitização da emissão, que pode fixar regras adicionais ou mais rigorosas.\n\nSe você colar aqui o texto dos artigos relevantes, ou me autorizar a buscar as fontes, indico o dispositivo exato.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Não confirma os valores e sugere de 20 a 21 dias de antecedência, o que contradiz os 15 dias; não dá os 2/3 nem o dispositivo.",
+   "id_cego": "J34",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P16",
+   "modo": "com",
+   "resposta": "**Sim, mas só nas condições abaixo.** A fonte é a Lei 6.404/1976 (Lei das S.A.), art. 71.\n\n**Regra geral.** A escritura de emissão fixa a maioria necessária para aprovar modificação nas condições das debêntures. Essa maioria \"não será inferior à metade das debêntures em circulação\" (art. 71, § 5º).\n\n**Quando o quórum pode ser reduzido.**\n- **Autorização da CVM.** A CVM \"poderá autorizar a redução do quórum previsto no § 5º\" (art. 71, § 8º).\n- **Companhia aberta.** A redução vale apenas para debêntures de companhia aberta (art. 71, § 8º).\n- **Propriedade dispersa.** As debêntures devem estar dispersas no mercado (art. 71, § 8º). Há dispersão quando nenhum debenturista detém, direta ou indiretamente, mais da metade das debêntures (art. 71, § 10).\n\n**Em qual convocação.** Somente em **terceira convocação**. A autorização da CVM deve ser mencionada nos avisos de convocação (art. 71, § 9º).\n\n**Pontos a ter em conta.**\n- Os §§ 8º a 10 foram incluídos pela Lei 14.711/2023. O texto que consultei é o compilado do Planalto, lido em 2026-10-28, com `nivel_verificacao: compilado-planalto`. Confira a redação na fonte oficial antes de usar em parecer ou contrato (https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm).\n- Não abri nenhuma norma da CVM sobre o procedimento para obter essa autorização. Não sei dizer se há regulamentação específica, nem qual é, e não vou citar artigo que não verifiquei.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá todas as condições (companhia aberta, CVM, dispersão do § 10, terceira convocação, menção nos avisos) com art. 71, §§ 8º e 9º, e informa leitura do compilado em 2026-10-28.",
+   "id_cego": "J01",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P16",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o dispositivo exato. Estou sem acesso a texto oficial atualizado e prefiro não inventar número de parágrafo ou inciso.\n\n**O que sei, com a ressalva de que é de memória:**\n\n- A matéria está no **art. 71 da Lei 6.404/1976**, que trata da assembleia de debenturistas.\n- Pelo **§ 3º**, a assembleia se instala em primeira convocação com debenturistas que representem pelo menos metade das debêntures em circulação, e em segunda convocação com qualquer número.\n- O quórum de **deliberação** sobre modificação das condições das debêntures é a maioria (ou metade, conforme a redação vigente) das debêntures em circulação. Essa regra fica em um dos parágrafos seguintes do art. 71 (provavelmente o § 5º ou o § 6º, a confirmar).\n- A redação desse parágrafo foi alterada em reformas recentes, em especial pela **Lei 14.711/2023**. Não sei afirmar se a possibilidade de reduzir o quórum de deliberação, e em qual convocação, vem dessa alteração ou se ela fica a cargo da escritura de emissão.\n\n**Conclusão provisória:** a redução do quórum de **instalação** em segunda convocação (qualquer número) tem base legal clara, no art. 71, § 3º. Para o quórum de **aprovação** de modificação das condições, não consigo afirmar com segurança se a lei permite reduzi-lo, em quais casos e em qual convocação.\n\n**Como confirmar:** consulte o texto consolidado do art. 71 no Planalto (planalto.gov.br, Lei 6.404/1976), conferindo as alterações da Lei 14.711/2023, e a cláusula de assembleia da escritura de emissão em questão. Se você colar aqui o texto do art. 71 atualizado, eu respondo citando parágrafo e inciso com precisão.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Não sabe se o quórum de deliberação pode ser reduzido e confunde a pergunta com o quórum de instalação do § 3º.",
+   "id_cego": "J13",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P17",
+   "modo": "com",
+   "resposta": "**Resposta curta:** a carência é de **15 dias** e, depois de intimado, o devedor tem **15 dias** para purgar a mora.\n\n**1. Carência sem previsão contratual**\n- **Dispositivo:** art. 26, § 2º-A, da Lei 9.514/1997. Diz: \"Quando não for estabelecido o prazo de carência no contrato de que trata o § 2º deste artigo, este será de 15 (quinze) dias.\"\n- **Origem:** o § 2º-A foi incluído pela Lei 14.711/2023.\n- **Regra geral:** o art. 26, § 2º, na redação da Lei 14.711/2023, diz que o contrato \"poderá estabelecer\" a carência, após a qual será expedida a intimação.\n\n**2. Prazo para purgar a mora**\n- **Dispositivo:** art. 26, § 1º, da Lei 9.514/1997 (redação da Lei 14.711/2023). A intimação, feita pelo oficial do registro de imóveis a requerimento do fiduciário, é para satisfazer a dívida \"no prazo de 15 (quinze) dias\".\n- **O que se paga:** a prestação vencida e as que vencerem até o pagamento, os juros convencionais, as penalidades, os encargos contratuais e legais (inclusive tributos e contribuições condominiais) e as despesas de cobrança e de intimação.\n- **Edital:** se a intimação for por edital (art. 26, § 4º), o prazo conta da data da última publicação.\n- **Sem purga no prazo:** o oficial averba a consolidação da propriedade no nome do fiduciário (art. 26, § 7º).\n\n**3. Financiamento para imóvel residencial do devedor**\n- **Dispositivo:** art. 26-A, § 2º, da Lei 9.514/1997 (redação da Lei 14.711/2023).\n- **Regra:** a consolidação só é averbada 30 dias após o fim do prazo do art. 26, § 1º (art. 26-A, § 1º). Até a averbação, o devedor ainda pode pagar as parcelas vencidas e as despesas do art. 27, § 3º, II, e o contrato convalesce.\n- **Alcance:** vale para financiamentos de aquisição ou construção de imóvel residencial do devedor (art. 26-A, caput). Não se aplica a consórcio.\n\n**Base e limites da verificação**\n- **Fonte:** li os dispositivos no acervo local (`normas/leis/lei-09514.md`). O texto é o do Planalto, lido em 28/10/2026, com nível de verificação `compilado-planalto`.\n- **Não confirmei:** a data de início de vigência de cada redação, porque o acervo não a traz. Isso importa se o contrato ou a mora forem anteriores à Lei 14.711/2023. Nesse caso, confira o direito intertemporal e a redação aplicável.\n- **Antes de usar em peça ou contrato:** confira na fonte oficial: https://www.planalto.gov.br/ccivil_03/leis/l9514.htm",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá a carência supletiva de 15 dias (§ 2º-A) e a purga em 15 dias (§ 1º) do art. 26 da Lei 9.514, e informa leitura em 2026-10-28.",
+   "id_cego": "J51",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P17",
+   "modo": "sem",
+   "resposta": "**Resposta curta:** não há prazo de carência legal supletivo que eu consiga confirmar. O prazo para purgar a mora depois da intimação é de **15 dias**.\n\n**1. Carência antes da intimação**\n- A norma é a Lei 9.514/1997, **art. 26, § 2º**: \"O contrato definirá o prazo de carência após o qual será expedida a intimação.\"\n- Pelo que lembro, a lei não fixa um prazo supletivo para o caso de o contrato ser omisso, e a redação desse parágrafo não foi alterada pela Lei 14.711/2023.\n- Na omissão, a lei não diz qual prazo se aplica. A solução fica com a interpretação judicial e doutrinária, e não sei indicar com segurança qual entendimento do STJ prevalece. Não confirmei se há tese consolidada, então não vou citar precedente.\n\n**2. Prazo para purgar a mora após a intimação**\n- A norma é a Lei 9.514/1997, **art. 26, § 1º**, com a redação da Lei 14.711/2023.\n- O fiduciante é intimado pelo oficial do Registro de Imóveis a pagar, em **15 dias**, as prestações vencidas e as que vencerem até o pagamento. Entram ainda juros convencionais, penalidades, encargos contratuais e legais (inclusive tributos e contribuições condominiais) e as despesas de cobrança e intimação.\n- Purgada a mora no Registro de Imóveis, o contrato se restabelece. Isso está no **art. 26, § 5º**, e a numeração desse parágrafo é a que tenho menos certeza.\n\n**Ressalva:** respondo de memória, sem consultar o texto consolidado da lei neste ambiente. Os números de parágrafo e a redação atual do art. 26 devem ser conferidos no Planalto antes de qualquer uso em peça ou parecer.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Afirma que não há carência supletiva legal, o que contradiz os 15 dias do art. 26, § 2º-A; acerta só a purga em 15 dias.",
+   "id_cego": "J20",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P18",
+   "modo": "com",
+   "resposta": "**Resposta**\n\n- **Limite máximo da multa:** a multa **não deve exceder o maior** destes valores (art. 11, § 1º, I a IV, Lei 6.385/1976):\n  - **inciso I:** R$ 50.000.000,00;\n  - **inciso II:** o dobro do valor da emissão ou da operação irregular;\n  - **inciso III:** 3 vezes o montante da vantagem econômica obtida ou da perda evitada em decorrência do ilícito;\n  - **inciso IV:** o dobro do prejuízo causado aos investidores em decorrência do ilícito.\n- **Reincidência:** pode ser aplicada multa **de até o triplo** dos valores fixados no § 1º (art. 11, § 2º, Lei 6.385/1976). O teto absoluto de R$ 50 milhões passa, assim, a R$ 150 milhões. Os demais critérios (2×, 3×, 2×) também se triplicam.\n\n**Dosimetria:** o § 1º também exige proporcionalidade, razoabilidade, capacidade econômica do infrator e motivos que justifiquem a multa. O art. 11, *caput*, prevê a multa (inciso II) entre as penalidades, que podem ser aplicadas isoladas ou cumulativamente. Tanto o *caput* quanto os §§ 1º e 2º têm a redação dada pela Lei 13.506/2017.\n\n**Fonte e ressalvas**\n- Li o texto no acervo local (`normas/leis/lei-06385.md`), que é o compilado do Planalto lido em 2026-10-28. O nível de verificação é `compilado-planalto`, sem histórico ato a ato (`historico_parcial: true`).\n- O frontmatter avisa que a data em que cada redação passou a valer não consta do acervo. Não confirmei a data de início de vigência das alterações da Lei 13.506/2017.\n- O acervo não substitui o Diário Oficial. Antes de usar em parecer ou decisão, confira a fonte oficial: https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm\n- Não verifiquei se há norma específica com teto diferente para outras infrações. Por exemplo, o art. 9º, II e § 1º, IV, prevê multa cominatória por descumprimento de intimação ou de proibição. Também não procurei regulamentação infralegal sobre a dosimetria.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá os quatro tetos e o triplo na reincidência com o art. 11, §§ 1º e 2º, da Lei 6.385, e informa leitura em 2026-10-28.",
+   "id_cego": "J58",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P18",
+   "modo": "sem",
+   "resposta": "**Resposta (de memória, sem consulta ao texto vigente nesta sessão):**\n\n**Norma:** Lei nº 6.385/1976, art. 11, inciso II (a multa é uma das penalidades), com os limites no § 1º, na redação dada pela Lei nº 13.506/2017.\n\n**Limite máximo da multa (art. 11, § 1º):** a multa não excederá o **maior** entre estes valores:\n- **inciso I:** R$ 50.000.000,00;\n- **inciso II:** o dobro do valor da emissão ou operação irregular;\n- **inciso III:** três vezes o montante da vantagem econômica obtida ou da perda evitada em decorrência do ilícito;\n- **inciso IV:** o dobro do prejuízo causado aos investidores em decorrência do ilícito.\n\n**Reincidência (art. 11, § 2º):** minha lembrança é de que o dispositivo permite aplicar a multa **até o triplo** dos valores fixados no § 1º. Não tenho certeza da redação exata desse parágrafo na versão atual, nem de como ele define reincidência.\n\n**O que não consegui confirmar:**\n- O texto literal do § 2º e a eventual definição de reincidência. Vale conferir no Planalto (planalto.gov.br, Lei 6.385/1976) ou no texto consolidado da CVM.\n- Se houve alteração legislativa posterior a 2017, inclusive em 2025-2026, que mude os valores ou os parágrafos.\n\nSe quiser, posso tentar buscar o texto oficial para confirmar, desde que você libere acesso à web.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 0
+   },
+   "motivo": "Dá os tetos e o triplo na reincidência com o art. 11, §§ 1º e 2º, ainda que de memória, mas não informa data-base.",
+   "id_cego": "J60",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P19",
+   "modo": "com",
+   "resposta": "**Resposta curta:** sim, uma mineradora pode emitir, mas só se o projeto se enquadrar como prioritário. Há limite de porte, medido por faturamento: R$ 5 bilhões por ano.\n\n**1. Quem pode emitir**\n- O art. 2º, *caput*, da Lei 14.801/2024 permite a emissão a sociedades de propósito específico, concessionárias, permissionárias, autorizatárias ou arrendatárias, constituídas como sociedade por ações.\n- O § 7º do art. 2º estende a possibilidade às controladoras diretas ou indiretas dessas pessoas, também sob a forma de S.A. Os recursos devem ir para projetos prioritários, dentro dos limites e condições fixados pelo Executivo.\n- O § 1º do art. 2º exige que os recursos financiem projeto de infraestrutura (ou de produção econômica intensiva em P&D&I) considerado prioritário, na forma do regulamento.\n- O art. 2º, V, do Decreto 11.964/2024 define o emissor como pessoa jurídica constituída como S.A., que pode ser o titular do projeto ou sua controladora. O art. 2º, IV, define o titular como SPE, concessionária, permissionária, autorizatária ou arrendatária.\n\n**2. Minerais críticos**\n- O art. 2º, § 2º, II, da Lei 14.801 (redação da Lei 15.506/2026) prevê que o regulamento pode incentivar projetos de transformação de minerais críticos e estratégicos para a transição energética. Inclui o beneficiamento dos produtos da lavra, para obter minério de alto teor.\n- O art. 4º, XIV, do Decreto 11.964 lista como setor prioritário a \"transformação de minerais estratégicos para a transição energética\".\n- O art. 5º, § 3º, do Decreto 11.964 dispensa, nesse setor, a exigência de instrumento de concessão, permissão, autorização ou arrendamento (art. 5º, I). O § 4º permite computar despesas de lavra e desenvolvimento da mina, nos termos da portaria ministerial setorial.\n- Os critérios complementares ficam nas portarias do Ministério setorial (art. 4º, § 1º, e art. 15 do Decreto).\n\n**3. Limite de porte**\n- O art. 2º, § 10, da Lei 14.801 (incluído pela Lei 15.506/2026) fixa em R$ 5.000.000.000,00 o faturamento anual máximo para que empresas que se dediquem à pesquisa, lavra, beneficiamento e transformação mineral de minerais críticos ou estratégicos no País possam emitir as debêntures.\n- O dispositivo não diz como se apura o faturamento, se é da emissora ou do grupo, nem em qual período. Também não diz se a regra se aplica a controladora que emite em nome de SPE.\n\n**Outras condições**\n- O art. 2º, § 5º, limita a regra a emissões até 31/12/2030 e exige o cumprimento dos §§ 1º, 1º-C e 2º do art. 1º da Lei 12.431/2011.\n- O art. 5º, § 2º, do Decreto 11.964 limita a emissão ao montante das despesas de capital do projeto.\n\n**O que não consegui confirmar**\n- O texto é o compilado do Planalto, lido em 2026-10-28 (`nivel_verificacao: compilado-planalto`). Confira a fonte oficial antes de usar em parecer ou contrato.\n- O arquivo do Decreto 11.964 está sem notas de alteração. O próprio acervo registra que não foi confirmado se ele foi alterado depois da Lei 15.506/2026. Pode haver regulamentação nova sobre o § 10, inclusive sobre a apuração do faturamento.\n- Não abri a Lei 15.506/2026, a Lei 12.431/2011 nem as portarias do Ministério de Minas e Energia. Por isso não confirmo a vigência do § 10 nem os critérios setoriais de enquadramento.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde sim, com teto de faturamento de R$ 5 bilhões (art. 2º, § 10, Lei 14.801) e demais requisitos, e informa leitura em 2026-10-28.",
+   "id_cego": "J50",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P19",
+   "modo": "sem",
+   "resposta": "**Resposta curta:** em tese sim, mas **não consigo confirmar de memória o dispositivo exato** e não tenho aqui uma fonte consultada nesta sessão. Prefiro dizer isso a inventar numeração de artigo, parágrafo ou inciso.\n\n**O que lembro, com grau de confiança variável:**\n\n- **Norma-base:** Lei 14.801/2024, que institui a debênture de infraestrutura. Ela é regulamentada pelo Decreto 11.964/2024.\n- **Quem emite (confiança média):** a lei trata de sociedades por ações, de capital aberto ou fechado, e de SPEs. Lembro que o foco é em concessionárias, permissionárias, autorizatárias ou arrendatárias, ou em controladoras de SPE. Se a mineradora se enquadra depende de ela ter essa condição, o que costuma ser o ponto frágil no setor mineral, já que a atividade se dá por título minerário (concessão de lavra, regime da ANM).\n- **Projeto elegível (confiança média-baixa):** o que importa é o projeto de investimento ser considerado prioritário nos termos da lei e do decreto, não só quem emite. Não consigo afirmar de memória se minerais críticos ou estratégicos estão listados como setor prioritário, nem em que artigo ou inciso do decreto isso estaria. Esse é o ponto decisivo e precisa de checagem.\n- **Limite de porte (confiança média):** não lembro de nenhuma restrição de porte (receita, faturamento ou patrimônio) para o emissor na Lei 14.801. Os requisitos que conheço são de natureza do emissor e do projeto. Mas não posso citar um dispositivo que comprove essa ausência.\n\n**Como confirmar:**\n\n1. Ler na Lei 14.801/2024 (planalto.gov.br) os artigos sobre emissores e projetos prioritários.\n2. Ler no Decreto 11.964/2024 a lista de setores prioritários e o procedimento de enquadramento, e conferir se há ato posterior que inclua minerais críticos.\n3. Se o projeto for enquadrável, verificar as normas da CVM aplicáveis à oferta, que são distintas da lei.\n\nSe quiser, posso tentar buscar os textos oficiais e citar os dispositivos com precisão, desde que você me autorize a acessar a rede.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não conhecer limite de porte e ignora o teto de R$ 5 bilhões do art. 2º, § 10.",
+   "id_cego": "J11",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P20",
+   "modo": "com",
+   "resposta": "**Não.** Se o agronegócio responde por 60% da receita consolidada, o título de dívida dessa empresa não pode servir de lastro de CRA. A vedação vale quando a empresa é devedora, codevedora ou garantidora.\n\n**Definição de \"setor principal de atividade\"**\n- O art. 2º, II, da Res. CMN 5.118/2024 define o termo como o setor responsável por mais de 2/3 da receita consolidada da companhia. A apuração usa as demonstrações financeiras do último exercício social publicadas.\n- Dois terços equivalem a cerca de 66,7%. Com 60%, o agronegócio não passa desse limite e não é o setor principal da empresa.\n\n**Vedação**\n- O art. 3º, I, \"a\", da Res. CMN 5.118/2024 proíbe como lastro de CRA ou CDCA o título de dívida cujo devedor, codevedor ou garantidor seja pessoa jurídica cujo setor principal de atividade não seja o agronegócio.\n- O art. 3º, parágrafo único, também veda emissões e ofertas em que essas empresas assumam ou retenham riscos e benefícios.\n- O conceito de \"título de dívida\" está no art. 2º, I (debêntures, notas comerciais, CCB e outros). O § 2º do mesmo artigo exclui contratos e obrigações de natureza comercial relacionados a imóveis, como duplicatas e locação.\n\n**Ressalvas**\n- **Emissões anteriores:** o art. 4º da Res. CMN 5.118 afasta a vedação para CRA já distribuído, ou com pedido de registro de distribuição na CVM, antes da vigência da Resolução. O art. 4º-A faz o mesmo para CDCA anterior a 23/8/2024.\n- **Regras da CVM:** a Res. CVM 60 não traz essa vedação. Os requisitos do art. 2º do Anexo Normativo II (lastro vinculado a negócios com produtores rurais ou suas cooperativas, e destinação dos recursos) valem em paralelo. Em especial, o art. 2º, § 7º, exige que os recursos captados pelo terceiro sejam destinados a produtores rurais.\n- **Receita do agronegócio:** os dispositivos que li não dizem quais atividades contam como \"agronegócio\" no cálculo da receita. Não consegui confirmar isso, e a classificação precisa ser feita caso a caso sobre as demonstrações financeiras.\n\n**Data-base e conferência**\n- O texto da Res. CMN 5.118 é a compilação do BCB, lida em 2026-10-29, já com as alterações das Res. CMN 5.121/2024, 5.163/2024 e 5.212/2025. Não foi conferido contra o DOU e não tem histórico ato a ato (`nivel_verificacao: consolidado-convertido`).\n- Antes de usar em parecer ou contrato, confira a redação no site do BCB.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde não com o critério de mais de 2/3 da receita (art. 2º, II) e a vedação do art. 3º, I, a, da Res. CMN 5.118, e informa leitura em 2026-10-29.",
+   "id_cego": "J28",
+   "ferramentas_usadas": 13
+  },
+  {
+   "pergunta": "P20",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o artigo, parágrafo e inciso exatos sobre o critério de \"setor principal de atividade\". Prefiro não citar um dispositivo de memória e arriscar que esteja errado.\n\n**O que sei com razoável segurança:**\n- A base legal do CRA é a Lei 11.076/2004, art. 23. O § 1º (ou o parágrafo equivalente, conforme a redação vigente após a Lei 13.986/2020 e a Lei 14.430/2022) exige que o CRA seja vinculado a direitos creditórios originários de negócios entre produtores rurais, ou suas cooperativas, e terceiros, relacionados à produção, comercialização, beneficiamento ou industrialização de produtos agropecuários, ou de máquinas e insumos agrícolas.\n- A regulamentação da oferta e do funcionamento das securitizadoras está na Resolução CVM 60/2021, que a CVM alterou depois, inclusive em 2023 e 2025. Ela trata do lastro e da destinação dos recursos.\n\n**Sobre a sua pergunta:**\n- Pelo texto legal, o que qualifica o lastro é a natureza do crédito e a destinação dos recursos na cadeia do agronegócio. Isso não depende, em princípio, do percentual da receita consolidada do emissor.\n- Receber 60% da receita do agro pode ajudar a caracterizar a empresa como atuante no setor. Mas, pelo que conheço, a regra principal exige que o crédito e a destinação dos recursos sejam do agro. Não sei dizer se a norma atual fixa um percentual mínimo de receita, nem qual seria.\n- Não consigo confirmar qual é o critério de \"setor principal\" (receita, ativos, CNAE etc.) nem onde ele está. Ele pode estar na Resolução CVM 60 (e nas suas alterações), em ofício da SRE/CVM ou em regra posterior à minha base. Não sei afirmar que haja um dispositivo específico.\n\n**Para fechar a resposta:** consulte o texto consolidado da Resolução CVM 60/2021 no site da CVM e o art. 23 da Lei 11.076/2004 no Planalto, buscando \"preponderante\", \"receita\" e \"destinação\". Se você colar os trechos aqui, eu aponto o dispositivo aplicável.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Desconhece o critério de 2/3 da receita da Res. CMN 5.118 e sugere que o percentual de receita não importa.",
+   "id_cego": "J24",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P21",
+   "modo": "com",
+   "resposta": "A Res. CMN 4.963/2021 não é mais a norma aplicável. Foi revogada pela Res. CMN 5.272/2025 (art. 30), que está em vigor desde 2/2/2026 (art. 31). Abaixo, as condições segundo a 5.272.\n\n## Condições para a aplicação direta em cotas de FIDC (Res. CMN 5.272/2025)\n\n**1. Gestor e participação máxima, nas condições específicas de FIDC: art. 7º, § 4º**\n- **Gestor (inciso I):** é preciso comprovar que o gestor já realizou pelo menos dez ofertas públicas de cotas de subclasses seniores de FIDC, encerradas e integralmente liquidadas.\n- **Participação (inciso II):** o total das aplicações dos RPPSs deve ser, no máximo, 50% do total de cotas da subclasse sênior da classe de cotas do FIDC.\n\n**2. Ativo e limite de alocação: art. 7º, *caput*, inciso IX**\n- Só são admitidas cotas de subclasses **seniores** de FIDC.\n- O limite é de até 20% dos recursos do RPPS.\n- O art. 7º, § 7º fixa ainda um limite global de 35% para os incisos VII, VIII e IX somados.\n\n**3. Nível de certificação: art. 7º, § 1º, inciso V**\n- O investimento em FIDC é exclusivo para RPPS com nível IV de aderência ao programa de certificação institucional (art. 6º, § 3º).\n\n**4. Concentração**\n- **Art. 19, inciso I:** o RPPS pode deter até 5% do patrimônio líquido de uma mesma classe de FIDC.\n- **Art. 18, inciso IV:** até 20% em cotas de uma mesma classe de fundo.\n- **Art. 19, § 2º:** a participação total dos RPPSs fica limitada a 50% do patrimônio líquido do fundo. Há exceção, por exemplo, para os doze meses iniciais (inciso I).\n- **Art. 20:** a aplicação do RPPS não pode passar de 5% dos recursos de terceiros geridos pelo mesmo gestor ou por gestoras do mesmo grupo econômico.\n\n**5. Prestadores: art. 21, § 2º, incisos I a III (cumulativos)**\n- O administrador ou o gestor deve ser instituição autorizada pelo BCB e classificada como S1 ou S2 (inciso I). Ver também os §§ 7º a 10 do art. 21.\n- O administrador deve deter, no máximo, 50% dos recursos sob sua administração oriundos de RPPS (inciso II).\n- O gestor e o administrador devem ter sido previamente credenciados, nos termos do art. 1º, § 1º, inciso VI (inciso III).\n\n**6. Outros requisitos que se aplicam**\n- **Art. 2º, § 5º:** o regulamento deve prever limitação de responsabilidade do cotista ao valor subscrito.\n- **Art. 7º, § 3º:** os ativos da carteira e seus emissores são considerados de baixo risco de crédito, nos termos do art. 1º, § 1º, inciso VII, e § 10.\n- **Art. 28, inciso III:** é vedado investir em classe cujo regulamento ou política admita direitos creditórios não padronizados.\n- **Art. 28, inciso IX:** é vedado investir quando prestadores de serviço, ou partes a eles relacionadas, figurem como emissores dos ativos da carteira, salvo as hipóteses previstas em regulamentação da CVM.\n- **Art. 28, inciso VII:** se a subclasse for restrita a investidores qualificados ou profissionais, o RPPS deve atender aos critérios da regulamentação da CVM.\n\n## Ressalvas\n- **Data-base:** texto compilado pelo BCB, lido em 2026-10-29.\n- **Nível de verificação:** `consolidado-convertido`, sem conferência contra o DOU e sem histórico de alterações. Confira o texto na fonte oficial (BCB/DOU) antes de usá-lo em parecer ou decisão de investimento.\n- **Alteração posterior:** o acervo não registra ato alterador da Res. 5.272, mas não tenho como garantir que não haja.\n- **Fora do que consultei:** não abri a regulamentação da CVM sobre FIDC (Res. CVM 175 e seu anexo), nem as normas gerais do Ministério da Previdência Social sobre certificação e credenciamento, para as quais a Res. 5.272 remete.\n- **Regime de transição:** o art. 27, § 3º trata das aplicações anteriores à vigência da Res. 5.272. Se o investimento do RPPS é anterior a 2/2/2026, verifique também o art. 27.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá as dez ofertas do gestor e o limite de 50% da subclasse sênior (art. 7º, § 4º, I e II, Res. CMN 5.272), e informa leitura em 2026-10-29.",
+   "id_cego": "J41",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P21",
+   "modo": "sem",
+   "resposta": "Não consegui consultar o texto vigente nesta sessão. O que segue vem da minha memória da Resolução CMN nº 4.963/2021 e de suas alterações, e **não confirmei os números exatos de parágrafos e incisos**. Não os trate como citação literal.\n\n**O que tenho como razoavelmente seguro**\n\n- **Norma-base:** Resolução CMN nº 4.963/2021, que dispõe sobre as aplicações dos recursos dos RPPS. Também é preciso ver a Portaria MTP nº 1.467/2022 e as alterações posteriores do CMN.\n- **Segmento e limite:** a aplicação direta em cotas de FIDC fica no segmento de renda fixa, **art. 7º, inciso V**. O limite que lembro é de 5% dos recursos do RPPS, conjuntamente com outros ativos de crédito privado, e restrito a cotas de classe sênior. Não confirmei a alínea exata.\n- **Limite por fundo ou classe:** o RPPS não pode deter mais de **20% do patrimônio líquido** do fundo ou classe. Lembro disso no **art. 19**, mas não sei se o texto atual aplica o percentual à classe ou à subclasse.\n- **Gestor e administrador:** devem ser instituições autorizadas pela CVM e atender aos requisitos de qualificação, credenciamento e boa qualidade de gestão e ambiente de controle. Lembro isso no **art. 21**, com detalhamento na Portaria MTP 1.467/2022 (credenciamento de instituições), sem ter certeza dos parágrafos.\n\n**Pontos que não consigo afirmar**\n\n- O texto atual do inciso V (alíneas e remissões à nomenclatura da Resolução CVM 175).\n- O número exato do parágrafo que trata do FIDC e da participação máxima na subclasse.\n- Se alguma resolução posterior do CMN (2024 a 2026) mudou limites ou requisitos.\n\n**Para confirmar:** consulte a Resolução 4.963 consolidada no site do Banco Central (Normativos, \"Busca de normas\") e a Portaria MTP 1.467/2022 consolidada no site da Previdência. Se você colar o trecho do art. 7º, V e dos arts. 19 a 21, eu cruzo as condições com você dispositivo por dispositivo.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Usa a Res. CMN 4.963, já revogada, com limites errados e sem as condições do art. 7º, § 4º, da Res. CMN 5.272.",
+   "id_cego": "J48",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P22",
+   "modo": "com",
+   "resposta": "**Resposta curta:** a EFPC pode ter até **25% do patrimônio líquido de uma mesma classe de FIDC** e até **25% de uma mesma subclasse de cotas de FIDC**. Os dois limites estão no art. 28 da Res. CMN 4.994/2022.\n\n**Dispositivos**\n\n- **Por classe:** art. 28, *caput* e inciso I, alínea \"b\", Res. CMN 4.994. A EFPC deve observar, \"considerada a soma dos recursos por ela administrados\", o limite de concentração por emissor de até 25% do patrimônio líquido de \"classe de FIDC ou classe de investimento em cotas de FIDC\". A redação é da Res. CMN 5.202/2025.\n- **Por subclasse:** art. 28, § 2º, Res. CMN 4.994. A EFPC deve observar o limite de 25% de uma mesma subclasse de cotas de FIDC. A redação também é da Res. CMN 5.202/2025.\n\n**Pontos que afetam a aplicação**\n\n- **Soma dos recursos:** o limite considera todos os recursos administrados pela EFPC, não cada plano isoladamente (art. 28, *caput*).\n- **Prazo de enquadramento:** a EFPC tem até 60 dias da data de cada integralização para se enquadrar nos limites do inciso I (art. 28, § 5º). Isso vale para o limite por classe. O § 5º fala só nos limites do inciso I, e o limite por subclasse está no § 2º. Pela leitura literal, o prazo não alcança a subclasse. Esse é um ponto de interpretação meu, que o texto não resolve.\n- **Fundos de cotas (FIC-FIDC):** o limite do inciso I não se aplica à classe de investimento em cotas de fundo de investimento, se as aplicações da classe investida observarem os limites do artigo (art. 28, § 3º).\n- **Tratamento de cota:** as cotas de classes de FIDC e de classes de investimento em cotas de FIDC não são consolidadas com a carteira própria. Têm tratamento de cota (art. 32, parágrafo único, inciso II).\n- **Limite de alocação, que é outro limite:** a alocação em FIDC está no art. 21, inciso III, alínea \"e\". Dentro do segmento de renda fixa, o teto é de 20% dos recursos de cada plano. O teto de 80% do § 1º do art. 21 vale para o conjunto dos incisos II e III, e não para esse inciso isoladamente. Esse limite é sobre os recursos do plano. O de 25% é sobre o patrimônio líquido do fundo.\n- **Desenquadramento passivo:** ele não conta como descumprimento nas hipóteses do art. 35. O excesso deve ser eliminado em dois anos (art. 35, § 1º). Até lá, a EFPC não pode fazer investimentos que agravem o excesso (art. 35, § 2º).\n\n**Data-base e verificação**\n\n- O texto é a compilação do BCB, lida no acervo em 2026-10-29 e atualizada até a Res. CMN 5.202/2025.\n- O nível de verificação é `consolidado-convertido`. É uma conversão por script, sem conferência ato a ato e sem histórico de redações.\n- Para parecer, contrato ou decisão, confira a redação no site do BCB: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o+CMN&numero=4994\n\n**O que não verifiquei:** a regulamentação da Previc e as regras da CVM sobre FIDC, como a Res. CVM 175. Elas podem trazer exigências adicionais, mas não as abri.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá 25% por classe e por subclasse com o art. 28, I, b, e § 2º, e informa atualização até a Res. CMN 5.202/25.",
+   "id_cego": "J37",
+   "ferramentas_usadas": 2
+  },
+  {
+   "pergunta": "P22",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar com precisão o artigo, parágrafo e inciso, e prefiro não citar de memória um dispositivo que pode estar errado. Neste ambiente não tenho acesso à norma consolidada, e o texto vigente foi alterado depois de 2022, o que torna arriscado confiar na memória.\n\n**O que sei com segurança (nível de norma, não de dispositivo):**\n- A base é a **Resolução CMN nº 4.994/2022**, que trata das aplicações dos recursos das EFPC. Ela substituiu a Res. CMN 4.661/2018.\n- Os limites de concentração ficam no capítulo de **limites de alocação e de concentração**, separados dos limites por segmento. Há limite por emissor, por investimento (percentual do patrimônio do veículo ou da classe) e por classe/série de títulos.\n- Com a **Resolução CVM 175/2022** (classes e subclasses de cotas), a aplicação da regra por \"classe\" e por \"subclasse\" depende da redação atual da Res. CMN 4.994 e de eventuais alterações posteriores. Não sei dizer se a norma já trata expressamente de subclasses ou se ainda usa a terminologia antiga (série).\n\n**O que não consigo afirmar:**\n- Os percentuais exatos por classe e por subclasse de cotas de FIDC.\n- Os números de artigo, parágrafo e inciso.\n- Se há limite distinto para cotas sênior e subordinadas (o enquadramento de cotas subordinadas costuma ser mais restritivo, mas não confirmo o dispositivo).\n\n**Como fechar a resposta:**\n1. Consulte o texto consolidado da Res. CMN 4.994/2022 no site do Banco Central (Normativos) ou da Previc, e verifique as resoluções que a alteraram.\n2. Procure o capítulo de limites de concentração e as remissões a \"FIDC\" e \"classe/subclasse\".\n3. Se quiser, cole aqui o trecho, ou me autorize a buscar a norma na web, e eu monto a resposta com a citação exata.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não saber os percentuais nem o dispositivo.",
+   "id_cego": "J33",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P23",
+   "modo": "com",
+   "resposta": "**Em regra, não contam. Há exceção.** O teste de 67% do art. 19 da Lei 14.754 usa a definição de direitos creditórios da regulamentação do CMN, e a Res. CMN 5.111/2023 exclui expressamente as debêntures não conversíveis de distribuição pública.\n\n**Fundamento**\n\n1. **Lei 14.754/2023, art. 19, *caput*:** são FIDCs, para fins da Lei, os fundos com carteira de no mínimo 67% de direitos creditórios.\n2. **Art. 19, § 1º:** a definição de direitos creditórios \"obedecerá à regulamentação do Conselho Monetário Nacional\".\n3. **Res. CMN 5.111/2023, art. 4º, § 1º, V:** não são direitos creditórios as \"debêntures não conversíveis ou sem participação nos lucros objeto de distribuição pública\". O inciso VI faz o mesmo com as notas comerciais de distribuição pública.\n4. **Exceção, art. 4º, § 2º, da mesma Resolução:** esses ativos voltam a contar como direitos creditórios se, no momento da aquisição, ocorrer uma de duas situações:\n   - **Inciso I:** o emissor está em recuperação judicial ou extrajudicial.\n   - **Inciso II:** houve assembleia de debenturistas para pedir flexibilização das cláusulas de vencimento antecipado, ou o emissor está inadimplente em obrigação pecuniária. Isso deve estar evidenciado por comunicação ao mercado ou por informação do administrador de mercados organizados.\n\n**Pontos de atenção**\n\n- **Debênture conversível ou com participação nos lucros:** o texto exclui só a debênture \"não conversível ou sem participação nos lucros\". Ele traz uma disjunção (\"ou\"), então vale conferir a leitura na fonte oficial. A conversível ou com participação nos lucros fica fora dessa exclusão específica.\n- **Oferta restrita (CVM 160):** o texto fala em \"distribuição pública\". Não encontrei no acervo dispositivo que trate das ofertas com esforços restritos, e não confirmei se elas ficam fora da exclusão.\n- **Res. CVM 175, Anexo Normativo II:** o art. 2º, XII, traz um conceito próprio de direitos creditórios, incluindo valores mobiliários representativos de crédito. O limite do art. 44 é de mais de 50% da carteira, e não de 67%. Esse conceito serve à regulação do fundo e não ao teste tributário do art. 19. Para o teste tributário vale a Res. CMN 5.111.\n- **Prazo de enquadramento:** o art. 19, §§ 2º e 3º, da Lei dá 180 dias da primeira integralização, ou até 30/06/2024 para fundos já constituídos em 31/12/2023. O art. 4º, § 6º, da Res. CMN 5.111 estende esses prazos à adequação da carteira à própria Resolução.\n\n**Data-base e verificação**\n- **Lei 14.754:** compilado do Planalto lido em 2026-10-28, nível `compilado-planalto`.\n- **Res. CMN 5.111:** compilação do BCB lida em 2026-10-29, nível `consolidado-convertido`. Não há histórico de alterações nem conferência contra o DOU. Não identifiquei no acervo ato alterador dela, mas isso não prova que não exista.\n- **Antes de usar em parecer ou contrato:** confira a fonte oficial.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Regra e exceções corretas com o art. 4º, § 1º, V, e § 2º, da Res. CMN 5.111, e datas de leitura informadas.",
+   "id_cego": "J22",
+   "ferramentas_usadas": 14
+  },
+  {
+   "pergunta": "P23",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o texto da norma. Não tenho acesso à internet neste ambiente e o diretório de trabalho está vazio, então qualquer citação literal de artigo, parágrafo ou inciso seria de memória, e não vou apresentá-la como confirmada.\n\n**O que não consigo afirmar com segurança**\n- Que o art. 19 da Lei 14.754/2023 seja de fato o dispositivo do teste de 67%. Não tenho certeza da numeração dos artigos do capítulo sobre FIDC, então trate a referência da sua pergunta como não verificada.\n- Se debêntures não conversíveis de oferta pública contam ou não como direitos creditórios para esse teste.\n- Se existe exceção no próprio dispositivo (parágrafo ou inciso), e qual.\n\n**O que posso dizer, com ressalva**\n- Meu entendimento, a confirmar, é que a Lei 14.754 remete a definição de direitos creditórios à regulamentação da CVM, hoje a Resolução CVM 175, Anexo Normativo II (FIDC).\n- A questão das debêntures provavelmente se resolve nesse Anexo e na definição de \"direitos creditórios\" nele, e não só na lei. Não confirmei se ele inclui ou exclui valores mobiliários representativos de dívida, como debêntures.\n\n**Como verificar**\n1. Leia o capítulo da Lei 14.754/2023 sobre FIDC no Planalto (planalto.gov.br), procurando o percentual de 67% e eventuais parágrafos e incisos de exclusão.\n2. Leia o Anexo Normativo II da Resolução CVM 175, na definição de direitos creditórios e na lista de ativos que contam ou não para o limite.\n3. Consulte a Receita Federal e a CVM, nos ofícios e perguntas e respostas sobre o tema, para ver se há interpretação específica sobre debêntures.\n\nSe você colar aqui o texto do artigo e do Anexo II, eu analiso e respondo com a citação exata.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não saber se as debêntures contam nem qual a exceção, e não cita a Res. CMN 5.111.",
+   "id_cego": "J15",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P24",
+   "modo": "com",
+   "resposta": "Para a instituição financeira que concede crédito garantido por recebíveis de cartão, a norma aplicável é a **Resolução CMN 4.734/2019**. Os três pontos estão nos arts. 7º-C e 7º-D, incluídos pela Res. CMN 5.045/2022 e em vigor desde 1º/12/2022.\n\n**1. Contestações encaminhadas pelos sistemas de registro**\n- A instituição financeira deve receber, tratar e responder em **até 3 dias úteis**, contados da data do recebimento.\n- Dispositivo: art. 7º-C, Res. CMN 4.734.\n- O prazo vale para contestações \"relacionadas às suas operações com recebíveis de arranjos de pagamento\" que os sistemas de registro lhe direcionem.\n\n**2. Frequência de conciliação**\n- A conciliação deve ser feita no mínimo **mensalmente**.\n- Dispositivo: art. 7º-D, *caput*, Res. CMN 4.734.\n- O objeto é duplo: as autorizações para consulta de agendas de recebíveis e os contratos de negociação relativos a essas agendas. A conciliação é feita com os sistemas de registro com os quais a instituição tenha relacionamento.\n\n**3. Prazo para corrigir inconsistências**\n- Há prazo: **até 2 dias úteis**, contados da identificação da inconsistência.\n- Dispositivo: art. 7º-D, parágrafo único, Res. CMN 4.734.\n\n**Atenção à Res. BCB 264/2022**\n- Ela traz prazos parecidos, mas dirigidos a outros agentes. Não os atribua à instituição financeira credora.\n- Art. 11, § 1º, e § 2º: conciliação diária, semanal e quinzenal, e correção em 2 dias úteis. Obrigam as **instituições credenciadoras**.\n- Art. 12: resposta em 3 dias úteis às contestações dos sistemas de registro. Obriga as **credenciadoras**.\n- Art. 15, § 7º, inciso II: prazo de até 5 dias úteis para os **sistemas de registro** atenderem às contestações dos participantes.\n- Art. 15, § 5º: conciliação semanal e mensal pelos **sistemas de registro**.\n\n**Outros prazos da Res. 4.734 para a instituição credora**\n- Art. 6º, inciso I: desconstituir gravames em até 2 dias úteis após o cumprimento das obrigações pelo usuário final recebedor.\n- Art. 6º, inciso II: desconstituir o excedente do limite em até 1 dia útil (solicitação direta) ou 2 dias úteis (solicitação indireta).\n- Art. 6º, inciso III: desconstituir o excedente sobre o valor máximo em garantia no mesmo dia, se superior a 5%, e no mínimo semanalmente, se inferior a 5%.\n- Art. 4º, § 4º: reter recursos de antecipação por até 2 dias úteis.\n\n**Data-base e nível de verificação**\n- **Res. CMN 4.734:** texto compilado pelo BCB, lido em 2026-10-30. O nível de verificação é `pdf-extraido`, ou seja, texto extraído de PDF, sujeito a erro de extração, sem histórico ato a ato nem conferência contra o DOU. Os arts. 7º-C e 7º-D saíram legíveis e completos, mas **confira na fonte oficial do BCB** antes de usar em parecer ou contrato.\n- **Res. BCB 264:** compilação do BCB lida em 2026-10-29, nível `consolidado-convertido`. Algumas redações dadas pelas Res. BCB 514/2025 e 562/2026 só valem a partir de 11/5/2026, e esse prazo já passou.\n- **Fora do acervo:** a convenção entre entidades registradoras e os regulamentos dos sistemas de registro, que podem detalhar horários e procedimentos. Não os consultei.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá 3 dias úteis, conciliação mensal e correção em 2 dias úteis com os arts. 7º-C e 7º-D da Res. CMN 4.734, e informa leitura em 2026-10-30.",
+   "id_cego": "J36",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P24",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o prazo de resposta, a periodicidade da conciliação nem o prazo de correção com o dispositivo exato (artigo, parágrafo e inciso). Não tenho acesso à internet nesta sessão e o diretório de trabalho está vazio, então não há texto de norma para consultar. Citar números de artigo de memória, em matéria regulatória, seria arriscado.\n\n**O que sei, com confiança moderada**\n- O regime de registro de recebíveis de arranjos de pagamento, usado como garantia em operações de crédito, está no arcabouço do Banco Central. Ele combina a Resolução CMN nº 4.734/2019 (ou norma sucessora que a tenha consolidado) com a regulamentação do BCB. A regulamentação inicial foi a Circular BCB nº 3.952/2019, que pode ter sido substituída por resolução BCB posterior.\n- Esse arcabouço prevê obrigações de registro, de verificação de consistência com a entidade registradora e de tratamento de divergências.\n\n**O que não consigo afirmar**\n- O prazo em horas ou dias para responder às contestações encaminhadas pelos sistemas de registro.\n- A periodicidade obrigatória de conciliação de agendas e contratos, se diária ou outra.\n- Se há prazo normativo para corrigir inconsistências, ou se isso fica a cargo das regras e manuais operacionais da própria registradora (por exemplo, Cerc, CIP ou TAG), caso em que o prazo seria contratual e não normativo.\n\n**Como confirmar**\n1. Consulte a base de normas do BCB (normativos.bcb.gov.br), buscando \"registro de recebíveis de arranjos de pagamento\", e confira a versão vigente. Hoje são 30/10/2026, e a norma pode ter sido alterada ou substituída.\n2. Procure nela os termos \"contestação\", \"conciliação\" e \"inconsistência\".\n3. Confira também os regulamentos e manuais operacionais das entidades registradoras com as quais você opera, porque os prazos operacionais costumam estar ali.\n\nSe você colar aqui o texto da norma vigente, ou me indicar o arquivo, eu identifico os dispositivos exatos e respondo com a citação precisa.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não saber nenhum dos três prazos nem os dispositivos.",
+   "id_cego": "J53",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P25",
+   "modo": "com",
+   "resposta": "**Resposta curta:** pela norma, quem comunica à CVM é o **gestor**, não o administrador. As explicações vão **ao final de 15 dias úteis consecutivos** de desenquadramento. O reenquadramento é informado **\"tão logo ocorrido\"**.\n\n**Dispositivos**\n\n- **Art. 90, § 1º, Parte Geral, Res. CVM 175:** \"Caso o desenquadramento passivo se prolongue por 15 (quinze) dias úteis consecutivos, ao final desse prazo o gestor deve encaminhar à CVM suas explicações para o desenquadramento.\"\n- **Art. 90, § 2º, Parte Geral, Res. CVM 175:** \"O gestor deve informar à CVM o reenquadramento da carteira, tão logo ocorrido.\"\n- **Art. 90, caput:** o gestor só fica livre das penalidades se o desenquadramento for passivo, \"decorrente de fatos alheios à sua vontade, que causem alterações imprevisíveis e significativas no patrimônio líquido ou nas condições gerais do mercado\". Isso vale para os limites de concentração e diversificação do regulamento e da Resolução.\n\n**Por que vale para o FIDC**\n\n- O Anexo Normativo II (FIDC) não tem regra própria sobre desenquadramento passivo. Os arts. 44 e 45 tratam dos limites de enquadramento e concentração. O art. 56, I, trata da infração grave por descumprimento dos limites.\n- O art. 2º, parágrafo único, da Parte Geral manda aplicar a regra específica só quando ela conflitar com a geral. Como não há conflito, vale o art. 90.\n- O art. 105, IV, da Parte Geral reforça que cabe ao gestor manter a carteira enquadrada.\n\n**Pontos que o texto não resolve**\n\n- **Início da contagem:** o § 1º não diz expressamente de que marco os 15 dias úteis correm. A leitura natural é a partir da ocorrência do desenquadramento, mas isso é interpretação minha.\n- **Papel do administrador:** o art. 90 não atribui a ele essa comunicação. Se o administrador ou o gestor tiver feito o envio de outra forma, a norma não trata disso. O administrador tem outros deveres de comunicação nesse anexo, por exemplo o art. 27, § 4º, do Anexo II, mas eles são de outra matéria.\n- **Art. 91:** se o descumprimento passar do prazo da regra específica da categoria, a Superintendência pode determinar a convocação de assembleia. Para o FIDC, o único prazo de enquadramento que identifiquei no Anexo II é o de 180 dias do início das atividades (art. 44). Não confirmei se ele se aplica ao desenquadramento passivo posterior.\n\n**Data-base e verificação:** li a Res. CVM 175 no consolidado, atualizado até a Res. CVM 240/26. O acervo registra a leitura em 2026-10-28 e não traz o campo de nível de verificação. Antes de usar em parecer ou contrato, confira a redação no DOU ou no consolidado da CVM. O arquivo não aponta alteração no art. 90.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 1
+   },
+   "motivo": "Diz que quem comunica é o gestor, o que contradiz o gabarito (envio pelo administrador fiduciário), e não cita o Alinhamento ACT 001/2025.",
+   "id_cego": "J30",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P25",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o artigo, parágrafo e inciso exatos de memória, e prefiro não inventar uma citação. Posso apontar apenas o que é provável e o que precisa ser verificado.\n\n**O que é provável (sem confirmação do dispositivo)**\n- **Quem comunica:** o administrador fiduciário, e não o gestor. Na Resolução CVM 175, a responsabilidade pelas comunicações à CVM é do administrador. O gestor pode elaborar as explicações e o plano de reenquadramento, mas o envio é do administrador.\n- **Onde provavelmente está:** na Parte Geral da Resolução CVM 175, na seção sobre limites de composição e concentração da carteira (região dos arts. 44 a 46). Pode haver regra específica no Anexo Normativo II (FIDC). Não sei dizer qual dos dois prevalece para FIDC nem o número exato do artigo, parágrafo ou inciso.\n\n**O que não consigo afirmar**\n- **Termo inicial do prazo:** não sei se a contagem parte da data do desenquadramento, da ciência pelo administrador ou do fim de algum prazo de tolerância.\n- **Prazo em si:** não sei se é \"no dia útil seguinte\", prazo em dias corridos ou outro.\n- **Redação da norma:** não tenho a redação para citar literalmente.\n\n**Como confirmar**\nConsulte o texto consolidado da Resolução CVM 175 no site da CVM (gov.br/cvm), na Parte Geral e no Anexo Normativo II. Procure por \"desenquadramento passivo\" e confira também as alterações posteriores, como a Resolução CVM 187 e outras, porque o texto foi mudado desde a edição original.\n\nSe quiser, posso tentar baixar o texto consolidado e localizar o dispositivo, desde que você autorize o acesso à rede. Assim eu cito a redação exata.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Indica o administrador, mas não sabe o prazo de 15 dias úteis nem o momento do reenquadramento e não cita dispositivo.",
+   "id_cego": "J06",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P26",
+   "modo": "com",
+   "resposta": "**Resposta curta:** sim, pode, mas por interpretação conjunta da SRE/CVM e da ANBIMA, não por texto expresso da norma. A condição central é que o fundo não tenha mudado a política de investimentos nem ampliado o público-alvo.\n\n**1. O que diz a norma**\n- Art. 26, caput e inciso VII, alínea \"c\", Res. CVM 160 (texto atualizado até a Res. CVM 226/25, lido em 2026-10-28). O registro automático, sem análise prévia, vale para oferta subsequente de cotas de fundo fechado não exclusivo, destinada ao público em geral, \"desde que tenha havido oferta anterior objeto de análise prévia por parte da CVM e não tenha havido ampliação de público-alvo do fundo ou alteração em sua política de investimento\".\n- A letra da alínea fala só em análise \"por parte da CVM\". Ela não menciona a análise feita pela ANBIMA no convênio.\n- Quem quer usar a via do convênio com nova análise tem a alínea \"d\" do mesmo inciso. Nela, o requerimento é previamente analisado pela entidade autorreguladora, e o relatório técnico sem óbice é exigido pelo art. 27, § 7º, II.\n- Para investidores profissionais ou qualificados, valem as alíneas \"a\" e \"b\" do inciso VII, que não exigem análise prévia. Elas estão sujeitas ao art. 86, II e III, que não li. O ponto só se coloca para o público em geral.\n\n**2. A equivalência**\n- Fonte: Alinhamento ACT CVM/ANBIMA Ofertas Públicas 001/2025, de 22/12/2025, que registra reunião entre a SRE e a Supervisão de Mercados da ANBIMA em 02/12/2025.\n- O documento formaliza a interpretação do art. 26, VII, \"c\". Ele estabelece equivalência, para esse fim, entre oferta analisada pela ANBIMA no convênio e oferta analisada pela CVM.\n- Resultado: o follow-on segue o rito automático sem análise prévia da CVM nem da ANBIMA.\n\n**3. Condições**\nO alinhamento exige que as quatro condições estejam presentes ao mesmo tempo:\n- a) Parecer técnico da ANBIMA sem óbice para o registro automático, emitido na oferta anterior.\n- b) Nenhuma alteração na política de investimentos ou em outras características que mudem materialmente o perfil de risco ou a elegibilidade. O alinhamento diz que o fundo deve manter as características que tinha na oferta analisada.\n- c) Cumprimento integral dos requisitos formais e documentais da Res. CVM 160 para o rito automático, incluindo prazos e conteúdo. Isso abrange o art. 27, II (lâmina e prospecto) e o § 5º.\n- d) Cumprimento integral dos requisitos dos Códigos ANBIMA aplicáveis.\n\nHá um detalhe operacional. No sistema SRE, o requerimento não deve marcar a opção \"AR\", porque a oferta não foi analisada pelo autorregulador.\n\n**4. Ressalvas**\n- A alínea \"c\" também veda \"ampliação de público-alvo\". O alinhamento só cita expressamente a política de investimentos, mas a condição (b) é aberta (\"outras características\") e a vedação da norma continua valendo. Trate as duas como impeditivas.\n- O alinhamento é orientação de autorregulação. Não é norma estatal e só vincula aderentes ao Código de Ofertas Públicas da ANBIMA. Para a CVM, o apoio é a prática da SRE descrita no próprio documento.\n- O arquivo é extração de PDF (`nivel_verificacao: pdf-extraido`), sem data de vigência própria. Confira a fonte oficial na ANBIMA antes de usar em parecer ou em protocolo.\n- Não li o Código de Ofertas Públicas nem as Regras e Procedimentos de Ofertas Públicas da ANBIMA. Por isso não confirmo se eles têm dispositivo próprio sobre o tema.\n- Não li o art. 86 da Res. CVM 160.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Responde sim, sem alteração da política de investimentos, com base no Alinhamento 001/2025 e no art. 26, VII, c, e informa atualização até a Res. CVM 226/25.",
+   "id_cego": "J25",
+   "ferramentas_usadas": 7
+  },
+  {
+   "pergunta": "P26",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o dispositivo exato, e prefiro não chutar artigo, parágrafo e inciso.\n\n**O que sei com segurança**\n- O regime aplicável é a Resolução CVM 160/2022, que disciplina os ritos de registro (automático e ordinário) e o convênio de análise com entidades autorreguladoras, como a ANBIMA.\n- As hipóteses de rito automático ficam no art. 26 da Resolução CVM 160. A análise delegada à ANBIMA pelo convênio se aplica, em regra, às ofertas de fundos de investimento sujeitas ao rito ordinário.\n- Para fundos regidos pela Resolução CVM 175, convém checar também o anexo normativo da categoria (FII, FIDC, FIP etc.), porque pode haver regra específica sobre emissões subsequentes.\n\n**O que não consigo afirmar**\n- Que exista uma hipótese de rito automático específica para follow-on de cotas de fundo fechado cuja oferta anterior foi analisada pela ANBIMA.\n- Qual seria a condição (por exemplo, prazo desde a oferta anterior, identidade ou não alteração material do regulamento, ou tipo de público-alvo), nem o inciso ou alínea em que estaria.\n\nQualquer condição que eu citasse aqui seria de memória, e esse tipo de detalhe costuma mudar com alterações da norma. Hoje é 30/10/2026, então também pode haver alteração posterior ao que conheço.\n\n**Como confirmar rapidamente**\n1. Abra o art. 26 da Resolução CVM 160 na versão consolidada no site da CVM e leia os incisos que tratam de cotas de fundos fechados e de ofertas subsequentes.\n2. Verifique o Anexo Normativo da Resolução CVM 175 da categoria do seu fundo.\n3. Consulte o convênio CVM–ANBIMA e o código/regras ANBIMA de ofertas públicas, que dizem quando a análise prévia é dispensada.\n\nSe você colar o texto do art. 26 (ou me indicar onde está a versão consolidada), eu identifico o inciso e a condição com precisão.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não poder afirmar que há essa hipótese de rito automático nem qual a condição.",
+   "id_cego": "J52",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P27",
+   "modo": "com",
+   "resposta": "**Resposta curta:** o certificado fica impedido de ser negociado imediatamente e é resgatado antecipado, pelo valor unitário atualizado, no 2º dia útil após a B3 receber a informação do indeferimento. Isso não depende da anuência dos titulares.\n\n**Fundamento:** art. 29, incisos I, II e III, do Manual de Normas de CRI de Distribuição Pública, CRA de Distribuição Pública, Debênture e Nota Comercial da B3 (Cap. VIII, Seção XI), vigente desde 2025-11-10. O artigo diz que o indeferimento ou o cancelamento do registro provisório de CR, CRA ou CRI de distribuição pública pela CVM resulta:\n\n- **Inciso I:** no imediato impedimento da negociação do certificado.\n- **Inciso II:** no resgate antecipado do certificado, pelo valor unitário atualizado, \"no segundo dia útil subsequente ao do recebimento pela B3 da informação do indeferimento ou do cancelamento, independentemente da anuência dos seus titulares\".\n- **Inciso III:** se houver Certificado de Colocação Privada vinculado ao CRI cujo registro foi indeferido ou cancelado, a série desse certificado também é resgatada antecipadamente, com o mesmo prazo e as mesmas condições.\n\n**Ressalvas:**\n- **A fonte é autorregulação da B3, não norma da CVM.** Ela vincula só os participantes do ambiente da B3.\n- **Não achei o prazo na regulamentação da CVM.** Li a Res. CVM 160 (texto atualizado até a Res. CVM 226/25) dos arts. 11 a 98 e não encontrei \"registro provisório\" nem esse resgate. Não li os arts. 1º a 10 nem os anexos. Também não consultei a Res. CVM 60 e a Lei 14.430, então não posso afirmar que a regra não esteja lá.\n- **Indeferimento na Res. CVM 160:** o art. 40 trata das hipóteses e do recurso ao Colegiado (parágrafo único). O art. 70, § 3º, trata do indeferimento após suspensão. Nenhum dos dois cuida do destino dos certificados.\n- **Nível de verificação:** o texto do manual está como `pdf-extraido`, sujeito a erro de extração, e o frontmatter alerta que numeração e quebras podem estar deslocadas. Antes de usar em parecer ou contrato, confira o artigo na versão oficial de 10/11/2025, no site da B3.\n- **Contagem do prazo:** o artigo conta a partir do \"recebimento pela B3 da informação\", não da data da decisão da CVM. Esse marco e o procedimento operacional ficam no Manual de Operações da B3, que não está no acervo.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Dá o impedimento imediato e o resgate no segundo dia útil sem anuência, com o art. 29, I e II, do Manual da B3 na versão vigente desde 2025-11-10.",
+   "id_cego": "J31",
+   "ferramentas_usadas": 15
+  },
+  {
+   "pergunta": "P27",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o dispositivo exato, então não vou citar artigo, parágrafo e inciso de memória. Citar com falsa precisão seria pior do que dizer que não sei.\n\n**Onde procurar**\n- O regime aplicável é o da **Resolução CVM 160/2022** (ofertas públicas de distribuição), combinada com a **Resolução CVM 60/2021** (securitização, que rege os CRI). Os dispositivos sobre indeferimento do registro, cancelamento ou revogação da oferta e devolução de valores estão na RCVM 160.\n- Na RCVM 160 eu não localizo com segurança um \"registro provisório\" como figura própria. O que ela prevê são os ritos de **registro automático** e **ordinário**, além da análise prévia e do depósito dos ativos. Pode ser que a expressão venha de um procedimento operacional da B3 ou de uma norma anterior (Instrução CVM 400/2003), e não da RCVM 160. Se você tiver o dispositivo em mente, me diga qual é.\n\n**Pontos sobre o mérito, com confiança limitada**\n- Sem registro válido, a oferta não pode prosseguir. Se houve aceitação de ordens ou subscrição, o esperado é a oferta ser encerrada e os investidores serem restituídos.\n- Quanto aos certificados já depositados na B3, a consequência prática seria o cancelamento do depósito e dos registros, mas não consigo indicar o prazo nem o dispositivo.\n- Também não consigo confirmar o prazo de devolução dos valores aos investidores.\n\n**Para confirmar**\nConsulte o texto consolidado da RCVM 160 no site da CVM (conteudo.cvm.gov.br), nos capítulos sobre registro, cancelamento/revogação e devolução de valores. Veja também o Regulamento de Operações e os Ofícios Circulares da B3 sobre cancelamento de depósito de CRI. Se você colar o trecho, eu analiso e aponto o dispositivo.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Não sabe dizer o impedimento de negociação nem o resgate no segundo dia útil, e não cita o art. 29 do Manual da B3.",
+   "id_cego": "J19",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P28",
+   "modo": "com",
+   "resposta": "**Resposta: 2 (dois) dias úteis, contados da identificação da inconsistência.**\n\n**Fundamento:** art. 44, § 1º, do Manual de Normas de Duplicatas Escriturais da B3 (versão de 30/06/2026). Segundo o texto:\n\n- **Caput:** o Agente Financiador deve conciliar com o Subsistema de Registro no mínimo mensalmente. A conciliação verifica as autorizações de consulta de Agenda, o histórico de duplicatas e a execução de comandos ligados a Atos Cambiais com Efeito de Negociação e a Contratos de Negociação.\n- **§ 1º:** se a conciliação identificar inconsistências, o Agente Financiador \"deverá corrigi-las no Subsistema de Registro em até 2 (dois) dias úteis da sua identificação\".\n- **§ 2º:** a B3 fornece as informações necessárias para essa conciliação.\n\n**Ressalvas:**\n- **Natureza da norma:** é autorregulação da B3. Vincula só os participantes do ambiente, não é norma estatal.\n- **Prazo:** conta da identificação da inconsistência, não da data da conciliação. O Manual não define o que caracteriza a \"identificação\". Só abri o texto até a linha 1982 do arquivo. Não verifiquei se o Regulamento de Duplicata Escritural ou outro trecho do Manual, como o Capítulo VIII ou as regras de penalidades, trata do assunto de outra forma.\n- **Verificação:** o texto foi extraído de PDF por script (`nivel_verificacao: pdf-extraido`), com data-base em 2026-10-29. Pode haver erro de extração. Antes de usar em parecer ou contrato, confira o PDF oficial: https://www.b3.com.br/data/files/70/D7/97/89/42A1F910ADC36BE9AC094EA8/Manual%20de%20Normas%20de%20Duplicata%20Escritural%20-%2030062026.pdf",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 0,
+    "data_base": 1
+   },
+   "motivo": "Acerta os 2 dias úteis da identificação, mas cita o art. 44, § 1º, do Manual de Normas em vez do item 4.3.3 do Regulamento de Duplicata Escritural; informa data-base.",
+   "id_cego": "J56",
+   "ferramentas_usadas": 4
+  },
+  {
+   "pergunta": "P28",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o prazo nem o dispositivo exato, e prefiro não chutar um número ou um artigo que pareça plausível mas possa estar errado.\n\n**O que sei com segurança:**\n- A base legal da duplicata escritural é a Lei nº 13.775/2018. Ela trata da emissão, da escrituração por entidades autorizadas pelo Banco Central e da função do gestor do sistema. Pelo que me lembro, ela não fixa prazo de correção de inconsistências na conciliação entre Agente Financiador e Subsistema de Registro.\n- O prazo que você pergunta deve estar em norma infralegal ou em regulamento da B3, como o regulamento ou manual operacional do registro de duplicatas escriturais, ou em regulamentação do Banco Central e do CMN sobre o tema. Não consigo citar o número da norma nem o artigo, parágrafo e inciso de memória.\n\n**Como confirmar:**\n1. Consulte o regulamento e o manual operacional do serviço de duplicatas escriturais no site da B3. Procure pelos termos \"conciliação\", \"inconsistência\" e \"Agente Financiador\".\n2. Verifique na regulamentação do Banco Central, no Normativos do BCB, se há norma sobre registro e conciliação de duplicatas escriturais que o regulamento da B3 reproduza.\n3. Se você me enviar o texto ou o PDF da norma, eu localizo o dispositivo e confirmo o prazo, citando artigo, parágrafo e inciso.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 0,
+    "data_base": 0
+   },
+   "motivo": "Diz não saber o prazo nem o dispositivo.",
+   "id_cego": "J43",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P29",
+   "modo": "com",
+   "resposta": "**Resumo:** consigo confirmar a norma aplicável, mas não consigo confirmar o precedente do Colegiado. Julgados da CVM estão fora do acervo de normas que consultei. Não vou indicar número de PAS nem ementa de memória, porque poderia errar o processo ou o que foi decidido.\n\n## O que confirmei na norma\n\nFonte: Anexo Normativo II da Res. CVM 175, texto atualizado até a Res. CVM 240/26 (nível `consolidado`, lido em 2026-10-28). Confira o texto na fonte oficial antes de usar em peça ou parecer.\n\n- **Art. 2º, XVII:** define lastro como a documentação capaz de comprovar a origem, a existência e a exigibilidade do direito creditório.\n- **Art. 30, II e IV:** o administrador deve contratar, em nome do fundo, a custódia e a guarda da documentação que constitui o lastro.\n- **Art. 30, § 1º:** o administrador deve diligenciar para que os prestadores contratados tenham regras e procedimentos adequados, por escrito e passíveis de verificação, para controlar a movimentação da documentação.\n- **Art. 36, caput:** na aquisição, o gestor verifica a existência, a integridade e a titularidade do lastro.\n- **Art. 36, §§ 4º e 5º:** o gestor pode terceirizar essa verificação, mas deve fiscalizar quem a faz.\n- **Art. 38, caput:** o custodiante deve verificar, a cada trimestre ou em periodicidade compatível com o prazo médio ponderado da carteira (vale o maior), a existência, a integridade e a titularidade do lastro. A verificação cobre os direitos que entraram por substituição e os vencidos e não pagos no período.\n- **Art. 38, § 1º:** o regulamento pode atribuir essa verificação periódica ao administrador, se ele não for parte relacionada ao gestor ou à consultoria especializada.\n- **Art. 38, § 2º:** quem verifica pode usar informações da entidade registradora, mas deve checar se elas são consistentes e adequadas.\n- **Art. 27, V, \"a\":** o administrador reporta à CVM, no demonstrativo trimestral, o resultado da verificação feita pelo custodiante e a quantidade e a relevância dos créditos inexistentes encontrados.\n\n## O que não consegui confirmar\n\n1. **O precedente.** Não tenho como identificar o PAS nem o que o Colegiado decidiu sobre a responsabilidade do administrador e do custodiante pela inexistência do lastro. A fonte oficial é a página de julgados do site da CVM. Posso ajudar a montar a pesquisa, por exemplo com termos como \"FIDC\", \"lastro\", \"custodiante\" e \"art. 38\", se você trouxer o acórdão ou o voto.\n2. **Os deveres gerais do administrador.** Não abri a parte geral da Res. CVM 175 (deveres fiduciários e de diligência). Por isso não cito esses artigos.\n3. **Fatos anteriores a 2023.** A Res. CVM 175 só se aplica aos FIDC adaptados. Os fatos de PAS antigos costumam ser regidos pela Instrução CVM 356. Não abri a ICVM 356 nesta consulta, então não confirmei seu art. 38 nem sua vigência.\n\nSe você me passar o número do PAS ou o acórdão, confronto a fundamentação com esses dispositivos.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 1
+   },
+   "motivo": "Diz que julgados estão fora do acervo sem inventar precedente, cita os arts. 36 e 38 do Anexo II e informa atualização até a Res. CVM 240/26.",
+   "id_cego": "J21",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P29",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o precedente exato, e prefiro não inventar número de PAS, relator ou data de julgamento. Nesta sessão não tenho acesso verificado à base de decisões da CVM, e citar de memória um processo, artigo ou inciso errado seria pior do que não citar.\n\n**O que posso afirmar com razoável segurança, sem garantia de literalidade:**\n\n- **Linha geral do Colegiado:** a responsabilização não é objetiva. A inexistência do lastro não basta, por si só, para condenar. O Colegiado examina se o administrador e o custodiante cumpriram os deveres de diligência, de verificação e de controle que a regulação lhes atribui. Quando não há verificação efetiva da existência e da regularidade dos direitos creditórios, ambos tendem a ser responsabilizados, cada um por seus próprios deveres.\n- **Administrador:** responde pelo dever de diligência e pela fiscalização dos prestadores de serviço que contrata. Terceirizar a gestão, a consultoria ou a cobrança não o exime.\n- **Custodiante:** responde pela verificação do lastro e pela guarda da documentação que o evidencia. Em geral, ele não pode se limitar a receber arquivos ou declarações do cedente.\n\n**Fundamentos normativos prováveis, que você deve conferir:**\n\n- Para fatos anteriores à Resolução CVM 175, a Instrução CVM 356/2001, nas disposições sobre deveres do administrador e do custodiante (em torno dos arts. 38 e 39).\n- Para fatos posteriores, a Resolução CVM 175/2022 e o Anexo Normativo II (FIDC).\n- O dever de diligência do administrador, previsto no art. 153 da Lei 6.404/76, aplicado por remissão.\n\nNão confirmei a numeração exata de parágrafos e incisos. Não os cito para evitar erro.\n\n**Para chegar ao precedente:** pesquise no site da CVM, em \"Processos Sancionadores > Julgados do Colegiado\", com os termos \"FIDC\", \"lastro\", \"custodiante\" e \"verificação de lastro\". Se você tiver o texto do voto ou o número do PAS, eu leio e extraio os dispositivos exatos.",
+   "notas": {
+    "conteudo": 0,
+    "dispositivo": 1,
+    "data_base": 0
+   },
+   "motivo": "Não cita precedente, mas inventa a linha geral do Colegiado com razoável segurança; não cita dispositivo inexistente e não informa data-base.",
+   "id_cego": "J45",
+   "ferramentas_usadas": 0
+  },
+  {
+   "pergunta": "P30",
+   "modo": "com",
+   "resposta": "Estou concluindo a consulta: localizei o ofício no acervo de normas, mas só como verbete, sem o texto.\n\n**O que o acervo confirma**\n\n- **Existência e assunto:** o Ofício-Circular CVM/SIN/SNC 02/13, de 2013-06-11, tem como assunto \"Conflito de interesses entre a auditoria das demonstrações financeiras de FIDC e a verificação de lastro dos direitos creditórios\" (subíndice de Ofícios-Circulares, pasta `sin-snc`).\n- **Sem texto no acervo:** o acervo só traz o texto dos ofícios editados desde 2022-01-01. Os anteriores aparecem apenas como verbete. Por isso não consegui ler o ofício.\n- **Vigência:** a CVM não informa a situação do ofício.\n- **Fonte oficial:** https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sin-snc/anexos/oc-sin-snc-0213.pdf\n\n**O que não consigo confirmar**\n\n- A conclusão da CVM sobre o conflito de interesses.\n- Qualquer dispositivo da norma. Ofícios-circulares em geral não têm artigos, e eu citaria o item ou o trecho do documento.\n- Os dispositivos da Instrução CVM 489/11 ou da Instrução CVM 356/01 em que o ofício se apoia.\n\nNão vou responder de memória sobre a conclusão, porque você pediu citação exata e eu não abri o texto. Para obtê-la, leia o PDF acima. Se você colar o conteúdo aqui, eu extraio a conclusão e indico o item exato.\n\nMesmo com o texto, vale checar se a Instrução CVM 489/11 e a Instrução CVM 356/01, que o ofício provavelmente cita, continuam vigentes. Boa parte da regulação de FIDC foi substituída pela Resolução CVM 175 e seu Anexo Normativo II. Posso verificar isso no acervo se você quiser.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 0
+   },
+   "motivo": "Diz que o acervo só tem o verbete e não inventa conclusão, mas não informa até quando a fonte consultada está atualizada.",
+   "id_cego": "J08",
+   "ferramentas_usadas": 5
+  },
+  {
+   "pergunta": "P30",
+   "modo": "sem",
+   "resposta": "Não consigo confirmar o conteúdo desse ofício-circular, então não vou indicar uma conclusão da CVM nem o dispositivo exato. Não tenho acesso a esta sessão para consultar o texto oficial. Qualquer conclusão ou citação de artigo, parágrafo ou inciso que eu desse seria reconstrução de memória e correria o risco de atribuir à CVM uma posição que ela não adotou.\n\n**O que posso dizer, com ressalva:**\n- O tema está na intersecção de duas normas, que são o ponto de partida para localizar o trecho relevante:\n  - a regulamentação dos FIDC (Instrução CVM 356/2001, e hoje a Resolução CVM 175/2022 e seu Anexo Normativo II), que trata da verificação do lastro dos direitos creditórios;\n  - a norma de auditoria independente (Instrução CVM 308/1999, hoje substituída pela Resolução CVM 23/2021), que trata de independência e de serviços incompatíveis com a auditoria.\n- Não sei dizer, sem o texto, se o ofício conclui pela existência ou não de conflito, nem com quais condições. Também não me recordo com segurança do número exato do ofício (se é de 2013) nem dos dispositivos que ele cita.\n\n**Como confirmar rápido:**\n1. Busque o ofício no site da CVM, em *Legislação e Regulamentação → Ofícios Circulares → SIN* (ou SNC), pelo número \"02/13\".\n2. Verifique se ele ainda está vigente. A Resolução CVM 175 e a Resolução CVM 23 mudaram o arcabouço citado, e a CVM revogou ou consolidou vários ofícios antigos.\n\nSe você colar aqui o texto do ofício ou o trecho relevante, resumo a conclusão e indico os dispositivos exatos em que ela se apoia.",
+   "notas": {
+    "conteudo": 1,
+    "dispositivo": 1,
+    "data_base": 0
+   },
+   "motivo": "Diz que não pode confirmar o conteúdo do ofício, sem inventar conclusão nem dispositivo, e não informa data-base.",
+   "id_cego": "J10",
+   "ferramentas_usadas": 0
+  }
+ ]
+}

@@ -23,6 +23,7 @@ Fora do acervo: normas do CMN e do BCB de política monetária, câmbio comercia
 
 Use só a ferramenta de ler arquivo da sua plataforma. Não use comando de shell (`cat`, `ls`, `grep`, `find`) nem execução de código para abrir os arquivos: em algumas plataformas eles não existem, e a leitura direta funciona em todas.
 
+0. Pergunta sobre um produto (CRI, FIDC, FII): leia antes o mapa do produto, `normas/mapas/cri.md`, `fidc.md` ou `fii.md`, que lista as normas de cada camada, os dispositivos-chave e o caminho dos arquivos.
 1. Leia `normas/indice.md`. O caminho é relativo à pasta do plugin, a que contém `skills/` e `normas/`; em Claude Code, `${CLAUDE_PLUGIN_ROOT}/normas/indice.md`. Ele é um resumo, com um subíndice por tipo.
 2. Leia o subíndice do tipo da pergunta, em `normas/indices/`: `resolucoes.md` (agrupadas por tema; normas contábeis no fim), `instrucoes.md`, `pareceres-orientacao.md`, `oficios-circulares.md` (por superintendência), `leis.md`, `cmn.md` e `bcb.md` (por tipo; ao fim, os atos que só alteram normas do acervo, sem arquivo), `anbima.md`, `b3.md` e `alteradoras.md`. Cada linha traz a ementa e o caminho do arquivo, relativo a `normas/`.
 3. Leia o arquivo da norma (ex.: `normas/cvm/resolucoes/0017.md`, `normas/cmn/resolucoes/4966.md`, `normas/bcb/circulares/3553.md`, `normas/autorregulacao/anbima/<slug>.md`). O frontmatter fica no começo do arquivo, entre as duas linhas `---`.

@@ -8,13 +8,13 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 
 ## Status
 
-Em construção (repositório privado). Acervo atual, em camadas declaradas (data-base 2026-10-28 nas camadas 1 a 3 e 2026-10-29 nas camadas 4 e 5):
+Em construção (repositório privado). Acervo atual, em camadas declaradas (data-base 2026-10-28 nas camadas 1 a 3, 2026-10-29 na camada 5 e 2026-10-30 na camada 4):
 
 1. **Regulação da CVM:** as 155 Resoluções CVM vigentes (as 154 do Estoque Regulatório da CVM de 2026-09-08, mais a Res. 249) e as 5 Instruções CVM ainda em vigor (438, 445, 489, 516 e 579, contábeis de fundos). Ficam fora as revogadas, as que só alteram outras e a Res. 26 (prorrogação de prazos de 2021, sem efeito atual [verificar]).
-2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 179 Ofícios-Circulares editados desde 2022-01-01 (8 deles por OCR, porque o PDF da CVM não tem camada de texto). Os 421 anteriores a 2022 aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
+2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 179 Ofícios-Circulares editados desde 2022-01-01 (7 deles por OCR, porque o PDF da CVM não tem camada de texto). Os 421 anteriores a 2022 aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
 3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/normas/indices/leis.md`).
 
-4. **CMN e BCB:** 128 normas vigentes que tocam mercado de capitais, fundos, securitização, crédito negociável e instituições do mercado (57 do CMN e 71 do BCB: Resoluções, Resoluções Conjuntas, Circulares, Cartas Circulares e Instruções Normativas), no texto compilado pelo BCB na busca de normas, sem histórico nem conferência contra o DOU. Os atos que só alteram essas normas aparecem como verbete. Ficam fora política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas e consórcios, prudencial e PLD; o critério de cada norma está em `fontes/perimetro-camada4.json`.
+4. **CMN e BCB:** 128 normas vigentes que tocam mercado de capitais, fundos, securitização, crédito negociável e instituições do mercado (57 do CMN e 71 do BCB: Resoluções, Resoluções Conjuntas, Circulares, Cartas Circulares e Instruções Normativas), no texto compilado pelo BCB, sem histórico nem conferência contra o DOU: o da busca de normas, ou, nas 26 normas alteradas cujo texto na busca é a redação original, o PDF da última versão compilada (relido em 2026-10-30). Os atos que só alteram essas normas aparecem como verbete. Ficam fora política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas e consórcios, prudencial e PLD; o critério de cada norma está em `fontes/perimetro-camada4.json`.
 5. **Autorregulação:** 38 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/normas/autorregulacao/README.md`.
 
 Fora do acervo: julgados da CVM.
@@ -22,6 +22,41 @@ Fora do acervo: julgados da CVM.
 Cada norma informa o nível de verificação (`nivel_verificacao`): 38 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU: 37 Resoluções CVM (o núcleo de fundos e securitização, 17, 21, 30, 50, 60, 80, 160 e 175, e as substantivas 6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88, 135, 161, 166, 193, 210, 215 e 232) e a Instr. CVM 489; as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
 
 Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
+
+## Verificação
+
+Auditoria cega por amostragem em 2026-10-30, nas 5 camadas: 297 itens sorteados (263 na amostra e 34 na re-auditoria) (semente registrada), refeitos ou transcritos por um modelo que só via a fonte, e comparados com o acervo por script. Resultado por camada, método, erros achados e ressalvas em `VERIFICACAO.md`. Em resumo:
+
+- Camada 1: zero erro de texto em 114 itens (taxa abaixo de 2,6% com 95% de confiança).
+- Camada 2: zero erro em 22 itens fora do OCR (abaixo de 13,6%). Os 7 ofícios lidos por OCR têm erros pontuais de leitura: confira o PDF da CVM.
+- Camada 3: zero erro em 28 itens (abaixo de 10,7%).
+- Camada 4: 1 erro, corrigido. Depois da correção, zero erro em 50 itens (abaixo de 6%).
+- Camada 5: 1 erro, sem correção. Ressalva: no Glossário ANBIMA, verbetes e definições podem estar desalinhados.
+
+## Bateria de perguntas
+
+30 perguntas com gabarito, cobrindo as 5 camadas, mais 2 fora do perímetro (`testes/bateria-v1.md`). Cada gabarito foi conferido na fonte oficial. As perguntas foram respondidas pelo Claude Sonnet 5.5, sem web, em dois modos:
+
+- **com o acervo:** só lendo os arquivos do plugin;
+- **sem o acervo:** sem nenhuma ferramenta.
+
+Um Claude Opus 5.5 corrigiu as 60 respostas sem saber de que modo vinha cada uma. Em 2026-10-30:
+
+| Camada | Perguntas | Conteúdo certo, com acervo | Conteúdo certo, sem acervo |
+|---|---|---|---|
+| 1. CVM | 9 | 9 | 1 |
+| 2. Pareceres e ofícios | 5 | 3 | 2 |
+| 3. Leis | 5 | 5 | 1 |
+| 4. CMN e BCB | 5 | 5 | 0 |
+| 5. ANBIMA e B3 | 4 | 3 | 0 |
+| Fora do perímetro | 2 | 2 | 1 |
+| **Total** | **30** | **27** | **5** |
+
+Com o acervo, 26 respostas citaram o dispositivo certo e 29 informaram a data-base; sem ele, 4 e 0. As 3 respostas erradas com o acervo têm a mesma causa: ofício ou documento da ANBIMA sem artigos que o modelo não abriu, porque procurou na norma de base. É o ponto fraco da consulta.
+
+## Mapas por produto
+
+`plugins/normas/normas/mapas/` tem um mapa para CRI, um para FIDC e um para FII: que normas do acervo regem cada produto, por camada, com os dispositivos-chave e o caminho do arquivo. São mapas de navegação, não parecer.
 
 ## Instalação
 

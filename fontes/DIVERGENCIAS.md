@@ -1532,3 +1532,9 @@ Retificações que não mudam o texto do acervo (sem passo novo):
 - Res. CVM 204, DOU de 2024-06-19.
 - Res. CVM 239, DOU de 2026-01-16: não toca a Res. CVM 53.
 - Res. CVM 81, Anexo C, item 8: o DOU de 2022-05-13 (republicação da Res. CVM 59) diz "5.l e 8.e". O acervo está certo; o consolidado da CVM, não.
+
+## Fase 3: auditoria (2026-10-30)
+
+- Res. CVM 81, art. 45, inciso III: o auditor cego, aplicando a Res. CVM 204/24 ao pé da letra, tirou o inciso. A decisão do replay se mantém: o ato não revoga o inciso e o consolidado da CVM o mantém. Fica como ressalva em `VERIFICACAO.md` [verificar no DOU].
+- Res. CVM 232, art. 68: o auditor tirou os §§ 1º e 2º ao aplicar a nova redação da Res. CVM 236/25. O consolidado da CVM diz "Caput com redação dada pela Resolução CVM nº 236" e mantém os parágrafos. O acervo está certo.
+- Res. CVM 166, art. 1º ("Parágrafo único" × "§ 1º") e Res. CVM 80, art. 25 (§ 5º × § 6º, ato 173): divergências já registradas na Fase 2 e na onda 1, encontradas de novo pelo auditor.

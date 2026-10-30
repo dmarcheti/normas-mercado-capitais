@@ -1,5 +1,6 @@
 {
   "name": "normas",
+  "version": "1.0.0",
   "description": "Normas do mercado de capitais: Resoluções e Instruções CVM vigentes, Pareceres de Orientação, Ofícios-Circulares, leis, normas do CMN e do BCB e autorregulação da ANBIMA e da B3, com data-base e consulta por artigo. Material não oficial.",
   "author": {
     "name": "dmarcheti"
