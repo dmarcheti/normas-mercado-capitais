@@ -1,6 +1,6 @@
 # Atos alteradores (texto integral do ato)
 
-Material não oficial. Não substitui o Diário Oficial da União nem o site da CVM.
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `normas/` (a pasta do `indice.md`).
 

@@ -62,6 +62,34 @@ FORA = [
     ("prudencial", r"patrimonio de referencia|basileia|requerimento minimo de capital|indice de liquidez|"
                    r"rwa|parcela .* ativos ponderados|limite de exposicao por cliente"),
 ]
+# Revisão das ementas (Fase 2c, 2026-10-29): exceções à regra, com o motivo. (tipo, número) -> (decisão, motivo)
+_FORA_REVISADO = "revisão da ementa: %s"
+REVISAO = {
+    **{("resolucao-cmn", n): ("fora", _FORA_REVISADO % "crédito rural ou programa de governo")
+       for n in (2813, 3440, 3468, 3507, 3523, 3571, 4847)},
+    **{("resolucao-cmn", n): ("fora", _FORA_REVISADO % "operação do BCB com bancos centrais")
+       for n in (2939, 4202, 5211)},
+    ("resolucao-cmn", 1020): ("fora", _FORA_REVISADO % "Sistema Financeiro da Habitação"),
+    ("resolucao-cmn", 1764): ("fora", _FORA_REVISADO % "agente fiduciário de empréstimo hipotecário (DL 70)"),
+    ("resolucao-cmn", 3516): ("fora", _FORA_REVISADO % "tarifa de liquidação antecipada de crédito"),
+    ("circular", 3290): ("fora", _FORA_REVISADO % "registro de cheques"),
+    ("carta-circular", 3260): ("fora", _FORA_REVISADO % "registro de cheques"),
+    ("circular", 1846): ("fora", _FORA_REVISADO % "câmbio de exportação"),
+    ("instrucao-normativa-bcb", 377): ("fora", _FORA_REVISADO % "Open Finance de seguros"),
+    ("instrucao-normativa-bcb", 380): ("fora", _FORA_REVISADO % "contas de embaixadas e organismos"),
+    ("resolucao-bcb", 273): ("fora", _FORA_REVISADO % "grupo de trabalho interno do BCB"),
+    ("carta-circular", 3934): ("entra", "revisão da ementa: registro de recebíveis de arranjo de pagamento"),
+    ("circular", 4036): ("entra", "revisão da ementa: escrituração de CCB"),
+    ("resolucao-bcb", 122): ("entra", "revisão da ementa: depósito de Letra Financeira"),
+    ("resolucao-bcb", 168): ("entra", "revisão da ementa: critérios contábeis de corretoras e distribuidoras"),
+    ("resolucao-bcb", 264): ("entra", "revisão da ementa: registro de recebíveis"),
+    ("resolucao-bcb", 352): ("entra", "revisão da ementa: contábil de instrumentos financeiros"),
+    ("resolucao-bcb", 472): ("entra", "revisão da ementa: entidades registradoras de recebíveis"),
+    ("resolucao-bcb", 525): ("entra", "revisão da ementa: operações compromissadas"),
+    ("resolucao-cmn", 4948): ("entra", "revisão da ementa: derivativos no exterior"),
+    **{("resolucao-cmn", n): ("entra", "revisão da ementa: Letra de Crédito do Agronegócio")
+       for n in (4415, 5160, 5210)},
+}
 ALTERA = re.compile(r"^(altera|revoga|da nova redacao|acrescenta|inclui|prorroga|ajusta|modifica|"
                     r"esclarece acerca|divulga)\b")
 
@@ -98,8 +126,14 @@ def main(argv):
         if n["situacao"] != "vigente":
             continue
         dec, temas, fora, alvo = classificar(n)
+        motivo = "regra: " + (", ".join(temas) if dec in ("entra", "revisar") else
+                              ", ".join(fora) or "assunto fora do perímetro") if dec != "alteradora" else "só alteradora"
+        if (n["tipo"], n["numero"]) in REVISAO:
+            dec, motivo = REVISAO[(n["tipo"], n["numero"])]
+        elif dec == "revisar":
+            dec, motivo = "fora", "revisão da ementa: tema de fora predomina (%s)" % ", ".join(fora)
         out.append({"tipo": n["tipo"], "numero": n["numero"], "data": n["data"], "assunto": n["assunto"],
-                    "decisao": dec, "temas": temas, "exclusao": fora, "altera": alvo,
+                    "decisao": dec, "motivo": motivo, "temas": temas, "exclusao": fora, "altera": alvo,
                     "palavras": n.get("palavras", 0), "formato": n.get("formato")})
     with open(args.saida, "w", encoding="utf-8") as f:  # uma norma por linha; a ementa está em acervo-bcb.json
         f.write("[\n" + ",\n".join(json.dumps({k: v for k, v in o.items() if k != "assunto"}, ensure_ascii=False)

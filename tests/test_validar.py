@@ -374,5 +374,177 @@ class TestArquivosDeNormasV030(unittest.TestCase):
             ]))
 
 
+# SPEC v0.4.0: camada 4 (CMN e BCB) e camada 5 (autorregulação ANBIMA e B3)
+CMN = {"id": "cmn-res-4966", "orgao": "cmn", "tipo": "resolucao-cmn", "numero": "4966",
+       "data": "2021-11-25", "publicacao_dou": "2021-11-29", "vigente_ate_ato": "",
+       "historico_parcial": "true", "aguarda_consolidado_oficial": "false"}
+AUTO = {"id": "anbima-codigo-administracao-gestao", "orgao": "anbima", "tipo": "codigo-autorregulacao",
+        "numero": "", "data": "2023-10-02", "publicacao_dou": "", "versao_texto": "original",
+        "vigente_ate_ato": "", "historico_parcial": "true", "aguarda_consolidado_oficial": "false"}
+PDF = ["nivel_verificacao: pdf-extraido"]
+SEM_ARTIGOS = "\n# Texto\n\nSem artigos.\n"
+
+
+class TestTiposV040(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+
+    def erros(self, rel, valores, extra=(), corpo=SEM_ARTIGOS):
+        caminho = os.path.join(self._tmp.name, *rel.split("/"))
+        os.makedirs(os.path.dirname(caminho), exist_ok=True)
+        with open(caminho, "w", encoding="utf-8") as f:
+            f.write(montar(valores, extra=extra, corpo=corpo))
+        return validar_norma(caminho)
+
+    def assertErro(self, termo, erros):
+        self.assertTrue(any(termo in e for e in erros), (termo, erros))
+
+    def test_um_arquivo_valido_de_cada_tipo_da_camada_4(self):
+        casos = [
+            ("cmn/resolucoes/4966.md", CMN),
+            ("cmn/resolucoes/2907.md", dict(CMN, id="cmn-res-2907", numero="2907", versao_texto="original")),
+            ("bcb/resolucoes/0264.md", dict(CMN, id="bcb-res-264", orgao="bcb", tipo="resolucao-bcb", numero="264")),
+            ("bcb/resolucoes-conjuntas/0001.md", dict(CMN, id="bcb-resc-1", orgao="bcb",
+                                                      tipo="resolucao-conjunta", numero="1")),
+            ("bcb/circulares/3952.md", dict(CMN, id="bcb-circ-3952", orgao="bcb", tipo="circular", numero="3952")),
+            ("bcb/cartas-circulares/4056.md", dict(CMN, id="bcb-cc-4056", orgao="bcb",
+                                                   tipo="carta-circular", numero="4056")),
+            ("bcb/instrucoes-normativas/0094.md", dict(CMN, id="bcb-in-94", orgao="bcb",
+                                                       tipo="instrucao-normativa-bcb", numero="94")),
+        ]
+        for rel, valores in casos:
+            self.assertEqual(self.erros(rel, valores, extra=["nivel_verificacao: consolidado-convertido"]), [], rel)
+
+    def test_camada_4_em_partes(self):
+        rel = "cmn/resolucoes/4966/index.md"
+        pasta = os.path.join(self._tmp.name, "cmn", "resolucoes", "4966")
+        os.makedirs(pasta)
+        with open(os.path.join(pasta, "anexo-01.md"), "w", encoding="utf-8") as f:
+            f.write("# Anexo\n\nTexto.\n")
+        self.assertEqual(self.erros(rel, CMN, corpo="\n## Partes\n\n- anexo-01.md\n"), [])
+
+    def test_camada_4_invalidos(self):
+        casos = [
+            ("cmn/resolucoes/4966.md", dict(CMN, orgao="bcb"), "orgao"),
+            ("cmn/resolucoes/4966.md", dict(CMN, id="cmn-resolucao-4966"), "id"),
+            ("cmn/resolucoes/4966.md", dict(CMN, numero=""), "numero"),
+            ("cmn/resolucoes/4966.md", dict(CMN, publicacao_dou=""), "publicacao_dou"),
+            ("cmn/resolucoes/4966.md", dict(CMN, vigente_ate_ato="5000"), "vigente_ate_ato"),
+            ("cmn/resolucoes/4966.md", dict(CMN, situacao="revogada"), "situacao"),
+            ("cmn/resolucoes/4966.md", dict(CMN, historico_parcial="false"), "historico_parcial"),
+            ("cmn/resolucoes/4966.md", dict(CMN, aguarda_consolidado_oficial="true"), "aguarda_consolidado_oficial"),
+            ("cmn/resolucoes/496.md", CMN, "arquivo"),
+            # resoluções do CMN e do BCB dividem o nome `resolucoes/` com a CVM: a pasta do órgão conta
+            ("cvm/resolucoes/4966.md", CMN, "cmn/resolucoes/"),
+            ("cmn/resolucoes/0264.md", dict(CMN, id="bcb-res-264", orgao="bcb", tipo="resolucao-bcb",
+                                            numero="264"), "bcb/resolucoes/"),
+            ("bcb/circulares/3952.md", dict(CMN, id="bcb-circ-3952", orgao="bcb", tipo="carta-circular",
+                                            numero="3952"), "id"),
+            ("bcb/circulares/3952.md", dict(CMN, id="bcb-cc-3952", orgao="bcb", tipo="carta-circular",
+                                            numero="3952"), "bcb/cartas-circulares/"),
+            ("bcb/resolucoes-conjuntas/0001.md", dict(CMN, id="bcb-resc-1", orgao="cmn",
+                                                      tipo="resolucao-conjunta", numero="1"), "orgao"),
+            ("bcb/instrucoes-normativas/0094.md", dict(CMN, id="bcb-in-94", orgao="bcb",
+                                                       tipo="instrucao-normativa-bcb", numero="94",
+                                                       vigente_ate_ato="100"), "vigente_ate_ato"),
+        ]
+        for rel, valores, termo in casos:
+            self.assertErro(termo, self.erros(rel, valores))
+
+    def test_um_arquivo_valido_de_cada_tipo_da_camada_5(self):
+        casos = [
+            ("autorregulacao/anbima/codigo-administracao-gestao.md", AUTO),
+            ("autorregulacao/anbima/regras-procedimentos-fundos.md",
+             dict(AUTO, id="anbima-regras-procedimentos-fundos", tipo="regras-procedimentos")),
+            ("autorregulacao/anbima/glossario-anbima.md",
+             dict(AUTO, id="anbima-glossario-anbima", tipo="glossario")),
+            ("autorregulacao/anbima/deliberacao-75.md",
+             dict(AUTO, id="anbima-deliberacao-75", tipo="orientacao-autorregulacao")),
+            ("autorregulacao/b3/regulamento-de-emissores.md",
+             dict(AUTO, id="b3-regulamento-de-emissores", orgao="b3", tipo="regulamento")),
+            ("autorregulacao/b3/manual-do-emissor.md",
+             dict(AUTO, id="b3-manual-do-emissor", orgao="b3", tipo="manual")),
+            ("autorregulacao/b3/" + "a" * 80 + ".md", dict(AUTO, id="b3-" + "a" * 80, orgao="b3", tipo="manual")),
+        ]
+        for rel, valores in casos:
+            self.assertEqual(self.erros(rel, valores, extra=PDF), [], rel)
+
+    def test_camada_5_invalidos(self):
+        rel = "autorregulacao/anbima/codigo-administracao-gestao.md"
+        casos = [
+            (rel, dict(AUTO, numero="1"), PDF, "numero"),
+            (rel, dict(AUTO, publicacao_dou="2023-10-02"), PDF, "publicacao_dou"),
+            (rel, dict(AUTO, data=""), PDF, "data"),
+            (rel, dict(AUTO, id="anbima-codigo"), PDF, "id"),
+            (rel, dict(AUTO, id="b3-codigo-administracao-gestao"), PDF, "id"),
+            (rel, dict(AUTO, orgao="cvm", id="cvm-codigo-administracao-gestao"), PDF, "orgao"),
+            (rel, dict(AUTO, versao_texto="consolidado"), PDF, "versao_texto"),
+            (rel, dict(AUTO, vigente_ate_ato="3"), PDF, "vigente_ate_ato"),
+            (rel, dict(AUTO, situacao="revogada"), PDF, "situacao"),
+            (rel, dict(AUTO, historico_parcial="false"), PDF, "historico_parcial"),
+            (rel, AUTO, [], "nivel_verificacao"),
+            (rel, AUTO, ["nivel_verificacao: ocr"], "nivel_verificacao"),
+            ("autorregulacao/b3/codigo-administracao-gestao.md", AUTO, PDF, "autorregulacao/anbima/"),
+            ("anbima/codigo-administracao-gestao.md", AUTO, PDF, "autorregulacao/anbima/"),
+            ("autorregulacao/anbima/Codigo_ANBIMA.md", dict(AUTO, id="anbima-Codigo_ANBIMA"), PDF, "slug"),
+            ("autorregulacao/b3/" + "a" * 81 + ".md", dict(AUTO, id="b3-" + "a" * 81, orgao="b3"), PDF, "80"),
+        ]
+        for caminho, valores, extra, termo in casos:
+            self.assertErro(termo, self.erros(caminho, valores, extra=extra))
+
+    def test_tipos_existentes_nao_mudam(self):
+        # `numero` e `publicacao_dou` vazios só na autorregulação
+        for campo in ("numero", "publicacao_dou"):
+            self.assertErro(campo, self.erros("cvm/resolucoes/0017.md", {campo: ""}))
+        # resolução da CVM continua sem regra de pasta
+        self.assertEqual(self.erros("x/0017.md", {}), [])
+
+    def test_tipo_desconhecido_lista_os_novos(self):
+        erros = self.erros("cvm/resolucoes/0017.md", {"tipo": "deliberacao"})
+        msg = next(e for e in erros if "tipo" in e)
+        for t in ("resolucao-cmn", "resolucao-bcb", "resolucao-conjunta", "circular", "carta-circular",
+                  "instrucao-normativa-bcb", "codigo-autorregulacao", "regras-procedimentos",
+                  "regulamento", "manual", "glossario", "orientacao-autorregulacao"):
+            self.assertIn(t, msg)
+
+    def test_arquivos_de_normas_le_as_pastas_novas(self):
+        raiz = self._tmp.name
+        rels = [
+            "cmn/resolucoes/4966.md",
+            "cmn/resolucoes/4967/index.md",
+            "cmn/resolucoes/4967/anexo-01.md",
+            "bcb/resolucoes/0264.md",
+            "bcb/resolucoes-conjuntas/0001.md",
+            "bcb/circulares/3952.md",
+            "bcb/cartas-circulares/4056.md",
+            "bcb/instrucoes-normativas/0094.md",
+            "autorregulacao/README.md",
+            "autorregulacao/anbima/codigo-x.md",
+            "autorregulacao/anbima/codigo-y/index.md",
+            "autorregulacao/anbima/codigo-y/anexo-01.md",
+            "autorregulacao/b3/regulamento-z.md",
+            "indices/cmn.md",
+        ]
+        for rel in rels:
+            caminho = os.path.join(raiz, *rel.split("/"))
+            os.makedirs(os.path.dirname(caminho), exist_ok=True)
+            with open(caminho, "w") as f:
+                f.write("x")
+        achados = sorted(os.path.relpath(c, raiz).replace(os.sep, "/") for c in arquivos_de_normas(raiz))
+        self.assertEqual(achados, sorted([
+            "cmn/resolucoes/4966.md",
+            "cmn/resolucoes/4967/index.md",
+            "bcb/resolucoes/0264.md",
+            "bcb/resolucoes-conjuntas/0001.md",
+            "bcb/circulares/3952.md",
+            "bcb/cartas-circulares/4056.md",
+            "bcb/instrucoes-normativas/0094.md",
+            "autorregulacao/anbima/codigo-x.md",
+            "autorregulacao/anbima/codigo-y/index.md",
+            "autorregulacao/b3/regulamento-z.md",
+        ]))
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -1,6 +1,6 @@
 # Ofícios-Circulares CVM
 
-Material não oficial. Não substitui o Diário Oficial da União nem o site da CVM.
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `normas/` (a pasta do `indice.md`).
 Por pasta da CVM (superintendência), do mais recente ao mais antigo. A CVM não informa a vigência dos ofícios. Os marcados "só verbete" não têm o texto no acervo: siga o link.

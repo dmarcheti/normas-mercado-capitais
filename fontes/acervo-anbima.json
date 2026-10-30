@@ -471,6 +471,19 @@
    "formato": "pdf"
   },
   {
+   "titulo": "Código de Ética para Associados",
+   "url": "https://www.anbima.com.br/data/files/EE/45/B0/E3/9336A7103955D5A76B2BA2A8/ANBIMA-Codigo-de-Etica.pdf",
+   "arquivo": "ANBIMA-Codigo-de-Etica.pdf",
+   "situacao": "anterior",
+   "vigente_desde": null,
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
+   ],
+   "motivo": "cópia anterior; vigente: ANBIMA-Codigo-de-Etica vigente.pdf",
+   "tipo": "codigo",
+   "formato": "pdf"
+  },
+  {
    "titulo": "Código de Ética para Associados (versão anterior)",
    "url": "https://www.anbima.com.br/data/files/8E/16/A2/58/FAC4E9107089D3E9BA2BA2A8/01.05.2020%20Codigo%20de%20Etica%20versao%20anterior.pdf",
    "arquivo": "01.05.2020 Codigo de Etica versao anterior.pdf",
@@ -528,6 +541,19 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/processos.htm"
    ],
    "tipo": "codigo",
+   "formato": "pdf"
+  },
+  {
+   "titulo": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Revogada)",
+   "url": "https://www.anbima.com.br/data/files/20/84/86/E6/FD67E8107EBC36E8B82BA2A8/Deliberacao%20Diretoria_dispensa%20Renda_%20e%20Educa__2024__87_.pdf",
+   "arquivo": "Deliberacao Diretoria_dispensa Renda_ e Educa__2024__87_.pdf",
+   "situacao": "anterior",
+   "vigente_desde": null,
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
+   ],
+   "motivo": "deliberação de 2024; vigente: a de 2025 (Deliberacao Diretoria_dispensa Renda_ e Educa__2025vl_.pdf)",
+   "tipo": "deliberacao",
    "formato": "pdf"
   },
   {
@@ -1463,18 +1489,6 @@
    "formato": "pdf"
   },
   {
-   "titulo": "Código de Ética para Associados",
-   "url": "https://www.anbima.com.br/data/files/EE/45/B0/E3/9336A7103955D5A76B2BA2A8/ANBIMA-Codigo-de-Etica.pdf",
-   "arquivo": "ANBIMA-Codigo-de-Etica.pdf",
-   "situacao": "vigente",
-   "vigente_desde": null,
-   "paginas": [
-    "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
-   ],
-   "tipo": "codigo",
-   "formato": "pdf"
-  },
-  {
    "titulo": "Código de Ética para Associados (vigente)",
    "url": "https://www.anbima.com.br/data/files/99/52/7E/95/9AC4E9107089D3E9BA2BA2A8/ANBIMA-Codigo-de-Etica%20vigente.pdf",
    "arquivo": "ANBIMA-Codigo-de-Etica vigente.pdf",
@@ -1502,18 +1516,6 @@
    "titulo": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Atualizada)",
    "url": "https://www.anbima.com.br/data/files/12/67/39/B9/3BCD49104B0F0D49B82BA2A8/Deliberacao%20Diretoria_dispensa%20Renda_%20e%20Educa__2025vl_.pdf",
    "arquivo": "Deliberacao Diretoria_dispensa Renda_ e Educa__2025vl_.pdf",
-   "situacao": "vigente",
-   "vigente_desde": null,
-   "paginas": [
-    "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
-   ],
-   "tipo": "deliberacao",
-   "formato": "pdf"
-  },
-  {
-   "titulo": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Revogada)",
-   "url": "https://www.anbima.com.br/data/files/20/84/86/E6/FD67E8107EBC36E8B82BA2A8/Deliberacao%20Diretoria_dispensa%20Renda_%20e%20Educa__2024__87_.pdf",
-   "arquivo": "Deliberacao Diretoria_dispensa Renda_ e Educa__2024__87_.pdf",
    "situacao": "vigente",
    "vigente_desde": null,
    "paginas": [

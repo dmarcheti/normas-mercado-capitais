@@ -1,0 +1,10 @@
+[
+  {"tipo": "resolucao-cmn", "numero": 4966, "data": "2021-11-25", "decisao": "entra", "temas": [], "exclusao": [], "altera": []},
+  {"tipo": "resolucao-cmn", "numero": 5000, "data": "2022-03-01", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["resolucao cmn 4.966"]},
+  {"tipo": "resolucao-cmn", "numero": 3000, "data": "2002-07-24", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["resolucao 2.907"]},
+  {"tipo": "resolucao-bcb", "numero": 300, "data": "2023-02-02", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["resolucao bcb 264", "circular 3.952"]},
+  {"tipo": "carta-circular", "numero": 4100, "data": "2021-03-10", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["carta circular 4.056", "resolucao cmn 4.966"]},
+  {"tipo": "instrucao-normativa-bcb", "numero": 100, "data": "2021-05-05", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["instrucao normativa bcb 94"]},
+  {"tipo": "circular", "numero": 3952, "data": "2019-06-27", "decisao": "alteradora", "temas": [], "exclusao": [], "altera": ["resolucao bcb 264"]},
+  {"tipo": "circular", "numero": 3999, "data": "2020-01-10", "decisao": "fora", "temas": [], "exclusao": [], "altera": ["resolucao bcb 264"]}
+]

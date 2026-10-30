@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""Índice das normas do acervo (SPEC v0.3.0).
+"""Índice das normas do acervo (SPEC v0.4.0).
 
-gerar_indice(raiz, acervo=None) -> (arquivos, itens). `raiz` é `plugins/normas/normas`;
-`acervo` é o caminho de `fontes/acervo.json` (None ou arquivo ausente = sem grupos
-e sem verbetes). `arquivos` mapeia o caminho relativo à raiz no conteúdo:
+gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None) -> (arquivos, itens).
+`raiz` é `plugins/normas/normas`; `acervo` é o caminho de `fontes/acervo.json` (None ou
+arquivo ausente = sem grupos e sem verbetes); `perimetro` e `acervo_bcb`, os de
+`fontes/perimetro-camada4.json` e `fontes/acervo-bcb.json` (None ou ausente = sem a
+seção de atos só alteradores do CMN e do BCB). `arquivos` mapeia o caminho relativo à
+raiz no conteúdo:
 
 - `indice.md`: resumo curto (aviso, perímetro, contagem por tipo e link para cada
   subíndice);
@@ -11,15 +14,18 @@ e sem verbetes). `arquivos` mapeia o caminho relativo à raiz no conteúdo:
   normas contábeis por último), `indices/instrucoes.md`,
   `indices/pareceres-orientacao.md`, `indices/oficios-circulares.md` (por pasta da
   CVM, data decrescente, com os verbetes sem texto do acervo.json), `indices/leis.md`
-  (leis, leis complementares e decretos) e `indices/alteradoras.md`. Subíndice vazio
-  não é gerado;
+  (leis, leis complementares e decretos), `indices/cmn.md` e `indices/bcb.md` (por
+  tipo; ao fim, os atos só alteradores do perímetro que tocam norma do acervo, sem
+  arquivo, com ementa e link do BCB), `indices/anbima.md` e `indices/b3.md` (por tipo)
+  e `indices/alteradoras.md`. Subíndice vazio não é gerado;
 - `normas.json`: todas as normas (sem os atos alteradores nem os verbetes), cada uma
   {id, tipo, titulo, ementa, situacao, vigente_ate_ato, caminho} mais `grupo`
-  (resolução no Estoque) e `baixado_em` (lei, decreto e LC).
+  (resolução no Estoque) e `baixado_em` (lei, decreto, LC, CMN, BCB e autorregulação).
 
-Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO]              grava os arquivos
-     python3 scripts/indice.py [raiz] [--acervo CAMINHO] --verificar  saída 1 se defasados
-A raiz padrão é plugins/normas/normas e o acervo padrão, fontes/acervo.json. Ao
+Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO] [--perimetro CAMINHO]
+                               [--acervo-bcb CAMINHO]              grava os arquivos
+     python3 scripts/indice.py ... --verificar                    saída 1 se defasados
+A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
 gravar, apaga de `indices/` o subíndice que não é mais gerado; `--verificar` acusa
 esse subíndice. Sem data de geração: a saída só muda quando o acervo muda.
 """
@@ -29,19 +35,24 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from validar import (  # noqa: E402
-    PASTAS_DE_NORMAS, TIPOS, arquivos_da_pasta, arquivos_de_oficios, ler_frontmatter,
+    TIPOS, TIPOS_AUTORREGULACAO, TIPOS_BCB, arquivos_de_normas, ler_frontmatter,
 )
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 RAIZ_PADRAO = os.path.join(REPO, "plugins", "normas", "normas")
 ACERVO_PADRAO = os.path.join(REPO, "fontes", "acervo.json")
+PERIMETRO_PADRAO = os.path.join(REPO, "fontes", "perimetro-camada4.json")
+ACERVO_BCB_PADRAO = os.path.join(REPO, "fontes", "acervo-bcb.json")
 PASTA_SUBINDICES = "indices"
 SEM_GRUPO = "Sem grupo no Estoque Regulatório"
-AVISO = "Material não oficial. Não substitui o Diário Oficial da União nem o site da CVM."
+AVISO = ("Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos "
+         "e entidades de origem.")
 GERADO = "Gerado por `scripts/indice.py`; não edite à mão."
 
 ORDEM_TIPOS = ["resolucao", "instrucao", "parecer-orientacao", "oficio-circular",
-               "lei", "lei-complementar", "decreto"]
+               "lei", "lei-complementar", "decreto",
+               "resolucao-cmn", "resolucao-bcb", "resolucao-conjunta", "circular", "carta-circular",
+               "instrucao-normativa-bcb"] + list(TIPOS_AUTORREGULACAO)
 NOME_TIPO = {
     "resolucao": "Resolução CVM",
     "instrucao": "Instrução CVM",
@@ -49,8 +60,42 @@ NOME_TIPO = {
     "lei": "Lei",
     "lei-complementar": "Lei Complementar",
     "decreto": "Decreto",
+    "resolucao-cmn": "Resolução CMN",
+    "resolucao-bcb": "Resolução BCB",
+    "resolucao-conjunta": "Resolução Conjunta",
+    "circular": "Circular",
+    "carta-circular": "Carta Circular",
+    "instrucao-normativa-bcb": "Instrução Normativa BCB",
 }
 SECAO_FEDERAL = {"lei": "Leis", "lei-complementar": "Leis complementares", "decreto": "Decretos"}
+SECAO_TIPO = {
+    "resolucao-cmn": "Resoluções CMN",
+    "resolucao-bcb": "Resoluções BCB",
+    "resolucao-conjunta": "Resoluções Conjuntas",
+    "circular": "Circulares",
+    "carta-circular": "Cartas Circulares",
+    "instrucao-normativa-bcb": "Instruções Normativas BCB",
+    "codigo-autorregulacao": "Códigos de autorregulação",
+    "regras-procedimentos": "Regras e procedimentos",
+    "regulamento": "Regulamentos",
+    "manual": "Manuais",
+    "glossario": "Glossários",
+    "orientacao-autorregulacao": "Orientações (deliberações, pareceres, alinhamentos, perguntas e respostas)",
+}
+TIPOS_CMN = tuple(t for t in TIPOS_BCB if TIPOS[t][0] == "cmn")
+TIPOS_SO_BCB = tuple(t for t in TIPOS_BCB if TIPOS[t][0] == "bcb")
+SECAO_ALTERADORAS = "Atos só alteradores, sem arquivo"
+# Prefixo do campo `altera` de perimetro-camada4.json (sem acento) -> tipo. "resolucao" sem
+# complemento é do CMN (as resoluções até a 4.838 não levam "CMN" no nome).
+ALTERA_TIPO = [
+    ("resolucao conjunta", "resolucao-conjunta"),
+    ("resolucao cmn", "resolucao-cmn"),
+    ("resolucao bcb", "resolucao-bcb"),
+    ("resolucao", "resolucao-cmn"),
+    ("carta circular", "carta-circular"),
+    ("circular", "circular"),
+    ("instrucao normativa bcb", "instrucao-normativa-bcb"),
+]
 SITUACAO_LEGIVEL = {"nao-informada": "não informada pela CVM"}
 # subíndice -> (título, tipos que entram nele)
 SUBINDICES = [
@@ -59,6 +104,10 @@ SUBINDICES = [
     ("pareceres-orientacao", "Pareceres de Orientação CVM", ("parecer-orientacao",)),
     ("oficios-circulares", "Ofícios-Circulares CVM", ("oficio-circular",)),
     ("leis", "Leis, leis complementares e decretos", ("lei", "lei-complementar", "decreto")),
+    ("cmn", "Normas do CMN", TIPOS_CMN),
+    ("bcb", "Normas do BCB", TIPOS_SO_BCB),
+    ("anbima", "Autorregulação ANBIMA", TIPOS_AUTORREGULACAO),
+    ("b3", "Autorregulação B3", TIPOS_AUTORREGULACAO),
     ("alteradoras", "Atos alteradores (texto integral do ato)", ()),
 ]
 assert set(ORDEM_TIPOS) == set(TIPOS)
@@ -80,6 +129,44 @@ def ler_acervo(caminho):
         dados = json.load(f)
     grupos = (dados.get("estoque_regulatorio") or {}).get("grupos") or {}
     return {str(k): v for k, v in grupos.items()}, dados.get("oficios_circulares") or []
+
+
+def _lista_json(caminho):
+    """Lista de normas de um JSON de fontes/: a própria lista, ou a chave `normas`."""
+    with open(caminho, encoding="utf-8") as f:
+        dados = json.load(f)
+    return dados if isinstance(dados, list) else (dados.get("normas") or [])
+
+
+def ler_alteradoras(perimetro, acervo_bcb):
+    """Atos só alteradores do perímetro da camada 4: [{tipo, numero, data, altera: [(tipo,
+    numero)], ementa, url}]. Vazio se algum dos dois arquivos faltar."""
+    if not (perimetro and acervo_bcb and os.path.exists(perimetro) and os.path.exists(acervo_bcb)):
+        return []
+    bcb = {(n.get("tipo"), int(n["numero"])): n for n in _lista_json(acervo_bcb)
+           if str(n.get("numero", "")).isdigit()}
+    atos = []
+    for n in _lista_json(perimetro):
+        if n.get("decisao") != "alteradora" or not str(n.get("numero", "")).isdigit():
+            continue
+        altera = [a for a in (_ref_altera(x) for x in n.get("altera") or []) if a]
+        if not altera:
+            continue
+        fonte = bcb.get((n.get("tipo"), int(n["numero"]))) or {}
+        atos.append({"tipo": n.get("tipo"), "numero": int(n["numero"]), "data": n.get("data") or "",
+                     "altera": altera, "ementa": fonte.get("assunto") or "",
+                     "url": fonte.get("url_pagina") or ""})
+    return atos
+
+
+def _ref_altera(texto):
+    """'resolucao cmn 4.966' -> ('resolucao-cmn', 4966); fora do padrão -> None."""
+    t = " ".join(str(texto).lower().split())
+    for prefixo, tipo in ALTERA_TIPO:
+        if t.startswith(prefixo + " "):
+            numero = t[len(prefixo) + 1:].replace(".", "")
+            return (tipo, int(numero)) if numero.isdigit() else None
+    return None
 
 
 def _arquivos(raiz, pasta):
@@ -111,7 +198,9 @@ def _titulo(v, caminho_rel, titulos_oc):
             return titulos_oc[slug]
         pasta = caminho_rel.split("/")[2] if caminho_rel.count("/") >= 3 else ""
         return "Ofício-Circular nº %s/%s/CVM/%s" % (v["numero"], ano, pasta.upper().replace("-", "/"))
-    if v["tipo"] in ("lei", "decreto"):
+    if v["tipo"] in TIPOS_AUTORREGULACAO:
+        return v["ementa"]  # sem número: o documento é nomeado pela ementa (título na entidade)
+    if v["tipo"] in ("lei", "decreto") or v["tipo"] in TIPOS_BCB:
         return "%s nº %s/%s" % (NOME_TIPO[v["tipo"]], _milhar(v["numero"]), ano)
     if v["tipo"] in NOME_TIPO:
         return "%s nº %s/%s" % (NOME_TIPO[v["tipo"]], v["numero"], ano)
@@ -132,9 +221,10 @@ def _item(raiz, caminho, grupos, titulos_oc):
     }
     if v["tipo"] == "resolucao" and v["numero"] in grupos:
         item["grupo"] = grupos[v["numero"]]
-    if v["tipo"] in ("lei", "lei-complementar", "decreto"):
+    if v["tipo"] in ("lei", "lei-complementar", "decreto") or v["tipo"] in TIPOS_BCB + TIPOS_AUTORREGULACAO:
         item["baixado_em"] = v["baixado_em"]
     item["_data"] = v["data"]
+    item["_orgao"] = v["orgao"]
     item["_numero"] = int(v["numero"]) if v["numero"].isdigit() else 0
     return item
 
@@ -233,6 +323,69 @@ def _md_leis(itens):
     return md
 
 
+def _titulo_ato(tipo, numero, data):
+    return "%s nº %s/%s" % (NOME_TIPO.get(tipo, tipo), _milhar(numero), data[:4])
+
+
+def _md_bcb(titulo, itens, tipos, alteradoras):
+    """CMN ou BCB: uma seção por tipo; ao fim, os atos só alteradores que tocam estas normas."""
+    md = _cabecalho(titulo, [
+        "Texto compilado pelo BCB, sem conferência contra o DOU; a data-base é `baixado_em`."])
+    for tipo in tipos:
+        do_tipo = [i for i in itens if i["tipo"] == tipo]
+        if not do_tipo:
+            continue
+        md += ["## %s" % SECAO_TIPO[tipo], "",
+               "| Norma | Ementa | Situação | Data-base | Arquivo |", "|---|---|---|---|---|"]
+        for i in do_tipo:
+            md.append("| %s | %s | %s | %s | %s |" % (
+                i["titulo"], _celula(i["ementa"]), _situacao(i["situacao"]), i["baixado_em"], i["caminho"]))
+        md.append("")
+    if alteradoras:
+        md += ["## %s" % SECAO_ALTERADORAS, "",
+               "Atos do perímetro que só alteram normas deste subíndice. A alteração já está no texto "
+               "compilado da norma alterada; o ato não tem arquivo no acervo: siga o link.", "",
+               "| Ato | Data | Ementa | Altera | Link |", "|---|---|---|---|---|"]
+        for a, alteradas in alteradoras:
+            link = "[BCB](%s)" % a["url"] if a["url"] else ""
+            md.append("| %s | %s | %s | %s | %s |" % (
+                _titulo_ato(a["tipo"], a["numero"], a["data"]), a["data"], _celula(a["ementa"]),
+                "; ".join(alteradas), link))
+        md.append("")
+    return md
+
+
+def _md_autorregulacao(titulo, itens):
+    md = _cabecalho(titulo, [
+        "Autorregulação: texto de titularidade da entidade, uso informativo (ver "
+        "`autorregulacao/README.md`). Vincula só aderentes e participantes; não é norma estatal. "
+        "Cite o documento com a data de início de vigência ou da versão."])
+    for tipo in TIPOS_AUTORREGULACAO:
+        do_tipo = [i for i in itens if i["tipo"] == tipo]
+        if not do_tipo:
+            continue
+        md += ["## %s" % SECAO_TIPO[tipo], "",
+               "| Documento | Vigência ou versão | Data-base | Arquivo |", "|---|---|---|---|"]
+        for i in do_tipo:
+            md.append("| %s | %s | %s | %s |" % (
+                _celula(i["titulo"]), i["_data"], i["baixado_em"], i["caminho"]))
+        md.append("")
+    return md
+
+
+def _alteradoras_do_subindice(atos, itens):
+    """[(ato, [títulos das normas alteradas deste subíndice])], só os atos que tocam `itens`
+    e que não têm arquivo no acervo."""
+    por_ref = {(i["tipo"], i["_numero"]): i["titulo"] for i in itens}
+    saida = []
+    for a in atos:
+        alteradas = [por_ref[r] for r in a["altera"] if r in por_ref]
+        if alteradas:
+            saida.append((a, list(dict.fromkeys(alteradas))))
+    return sorted(saida, key=lambda x: (ORDEM_TIPOS.index(x[0]["tipo"]) if x[0]["tipo"] in ORDEM_TIPOS
+                                        else len(ORDEM_TIPOS), x[0]["numero"]))
+
+
 def _md_alteradoras(atos):
     md = _cabecalho("Atos alteradores (texto integral do ato)") + ["| Ato | Ementa | Arquivo |", "|---|---|---|"]
     for i in atos:
@@ -247,6 +400,9 @@ def _md_resumo(contagens):
         "- Camada 1: Resoluções e Instruções da CVM, em texto vigente.",
         "- Camada 2: Pareceres de Orientação e Ofícios-Circulares da CVM (a CVM não informa a vigência deles).",
         "- Camada 3: leis, leis complementares e decretos federais, no texto compilado do Planalto.",
+        "- Camada 4: normas do CMN e do BCB, no texto compilado pelo BCB (sem conferência contra o DOU).",
+        "- Camada 5: autorregulação, texto de titularidade da ANBIMA e da B3, uso informativo "
+        "(ver `autorregulacao/README.md`).",
         "",
         "## Conteúdo", "",
         "O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subíndice.", "",
@@ -258,13 +414,14 @@ def _md_resumo(contagens):
     return md + [""]
 
 
-def gerar_indice(raiz, acervo=None):
+def gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None):
     grupos, oficios = ler_acervo(acervo)
     titulos_oc = {_slug_do_verbete(oc): oc["titulo"] for oc in oficios if oc.get("titulo")}
-    caminhos = arquivos_de_oficios(raiz)
-    for pasta in PASTAS_DE_NORMAS:
-        caminhos += arquivos_da_pasta(raiz, pasta)
+    caminhos = arquivos_de_normas(raiz)
     itens = sorted((_item(raiz, c, grupos, titulos_oc) for c in caminhos), key=_chave)
+    com_arquivo_bcb = {(i["tipo"], i["_numero"]) for i in itens if i["tipo"] in TIPOS_BCB}
+    atos_bcb = [a for a in ler_alteradoras(perimetro, acervo_bcb)
+                if (a["tipo"], a["numero"]) not in com_arquivo_bcb]
     atos = sorted((_item(raiz, c, {}, {}) for c in _arquivos(raiz, "alteradoras")),
                   key=lambda i: i["caminho"])
     com_arquivo = {i["id"][len("cvm-"):] for i in itens if i["tipo"] == "oficio-circular"}
@@ -282,6 +439,14 @@ def gerar_indice(raiz, acervo=None):
                 extra = " (mais %d só verbete, sem texto)" % len(verbetes)
         elif nome == "leis":
             md = _md_leis(do_tipo) if do_tipo else None
+        elif nome in ("cmn", "bcb"):
+            alt = _alteradoras_do_subindice(atos_bcb, do_tipo)
+            md = _md_bcb(titulo, do_tipo, tipos, alt) if do_tipo else None
+            if alt:
+                extra = " (mais %d ato(s) só alterador(es), sem arquivo)" % len(alt)
+        elif nome in ("anbima", "b3"):
+            do_tipo = [i for i in do_tipo if i["_orgao"] == nome]
+            md = _md_autorregulacao(titulo, do_tipo) if do_tipo else None
         elif nome == "alteradoras":
             do_tipo = atos
             md = _md_alteradoras(atos) if atos else None
@@ -307,6 +472,7 @@ def _sobrando(raiz, arquivos):
 
 def main(argv):
     args, acervo, verificar = [], ACERVO_PADRAO, False
+    perimetro, acervo_bcb = PERIMETRO_PADRAO, ACERVO_BCB_PADRAO
     resto = list(argv[1:])
     while resto:
         a = resto.pop(0)
@@ -314,6 +480,10 @@ def main(argv):
             verificar = True
         elif a == "--acervo" and resto:
             acervo = resto.pop(0)
+        elif a == "--perimetro" and resto:
+            perimetro = resto.pop(0)
+        elif a == "--acervo-bcb" and resto:
+            acervo_bcb = resto.pop(0)
         elif a.startswith("--"):
             print(__doc__)
             return 2
@@ -326,7 +496,7 @@ def main(argv):
     if not os.path.isdir(raiz):
         print("indice: %s não existe" % raiz)
         return 2
-    arquivos, itens = gerar_indice(raiz, acervo)
+    arquivos, itens = gerar_indice(raiz, acervo, perimetro, acervo_bcb)
     sobrando = _sobrando(raiz, arquivos)
     if verificar:
         defasados = []

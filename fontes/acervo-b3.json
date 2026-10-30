@@ -3213,8 +3213,8 @@
    "data_nome": "2023-01-30",
    "formato": "pdf",
    "categoria": "central-depositaria",
-   "entra": true,
-   "motivo": "regulamento, manual de normas ou procedimento",
+   "entra": false,
+   "motivo": "versão de 30/01/2023; vigente: Regulamento da CSD de RV B3.pdf (versão de 23/02/2026)",
    "chave": "regulamento central depositaria rv b3"
   },
   {
@@ -3353,8 +3353,8 @@
    "data_nome": null,
    "formato": "pdf",
    "categoria": "central-depositaria",
-   "entra": true,
-   "motivo": "regulamento, manual de normas ou procedimento",
+   "entra": false,
+   "motivo": "versão de julho de 2017; vigente: Regulamento TD Publicado no Site .11.07.2023.pdf",
    "chave": "regulamento tesouro direto"
   },
   {

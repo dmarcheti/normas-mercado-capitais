@@ -40,6 +40,12 @@ FORA = re.compile(r"^(Para |De |Checklist|Modelo|Manual|Guia|FIP - |PAF|Relat[ó
 INTERPRETACAO = re.compile(r"Delibera|Parecer|PARECER|Alinhamento ACT|Perguntas e [Rr]espostas|Q&A|"
                            r"Comunicado|Diretrizes", re.I)
 DATA = r"(\d{2})[./](\d{2})[./](\d{2,4})"
+# Versão substituída listada sem data de fim (conferido em 2026-10-29): arquivo -> motivo
+SUBSTITUIDOS = {
+    "ANBIMA-Codigo-de-Etica.pdf": "cópia anterior; vigente: ANBIMA-Codigo-de-Etica vigente.pdf",
+    "Deliberacao Diretoria_dispensa Renda_ e Educa__2024__87_.pdf":
+        "deliberação de 2024; vigente: a de 2025 (Deliberacao Diretoria_dispensa Renda_ e Educa__2025vl_.pdf)",
+}
 
 
 def _data(m):
@@ -115,6 +121,8 @@ def main(argv):
             if ordem[sit] < ordem[d["situacao"]]:
                 d.update(titulo=limpo, situacao=sit, vigente_desde=desde)
     for d in docs.values():
+        if d["arquivo"] in SUBSTITUIDOS:
+            d.update(situacao="anterior", motivo=SUBSTITUIDOS[d["arquivo"]])
         d["tipo"] = tipo_doc(d["titulo"])
         d["formato"] = d["arquivo"].rsplit(".", 1)[-1].lower()
     out = {"fonte": "páginas de código da ANBIMA (lidas no navegador) e página de Ética",

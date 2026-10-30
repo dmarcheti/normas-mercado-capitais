@@ -2,19 +2,23 @@
 """Validador do frontmatter das normas (formato em SPEC.md).
 
 - validar_norma(path) -> lista de erros (vazia = ok). Aceita os tipos da SPEC
-  (v0.3.1): resolução, instrução e parecer (`NNNN.md`), ofício-circular
+  (v0.4.0): resolução, instrução e parecer (`NNNN.md`), ofício-circular
   (`<slug>.md`), lei (`lei-NNNNN.md`), decreto (`decreto-NNNNN.md`), lei
-  complementar (`lcp-NNN.md`) e o `index.md` de norma em partes (`NNNN/index.md`,
-  `lei-NNNNN/index.md` etc.).
+  complementar (`lcp-NNN.md`), os atos do CMN e do BCB (`cmn/resolucoes/NNNN.md`,
+  `bcb/<pasta do tipo>/NNNN.md`), os documentos de autorregulação
+  (`autorregulacao/<anbima|b3>/<slug>.md`) e o `index.md` de norma em partes
+  (`NNNN/index.md`, `lei-NNNNN/index.md` etc.).
 - partes_da_norma(index_path) -> caminhos das partes, na ordem de `## Partes`.
 - texto_da_norma(path) -> texto do arquivo único, ou do `index.md` seguido das
   partes (na ordem), concatenados.
 
 Uso: python3 scripts/validar.py plugins/normas/normas
 Valida cada norma em `<orgao>/resolucoes/`, `instrucoes/`, `pareceres-orientacao/`,
-`oficios-circulares/<pasta>/` e em `leis/` sob o diretório dado (arquivo único ou
-o `index.md` da pasta). Os atos alteradores (`alteradoras/`) e os índices
-(`indice.md`, `indices/`) não seguem este schema.
+`oficios-circulares/<pasta>/`, `leis/`, nas pastas do BCB (`resolucoes-conjuntas/`,
+`circulares/`, `cartas-circulares/`, `instrucoes-normativas/`) e em
+`autorregulacao/<orgao>/` sob o diretório dado (arquivo único ou o `index.md` da
+pasta). Os atos alteradores (`alteradoras/`), os índices (`indice.md`, `indices/`) e
+o `autorregulacao/README.md` não seguem este schema.
 Saída 0 = ok; 1 = erros; 2 = uso incorreto.
 """
 import datetime
@@ -39,8 +43,28 @@ TIPOS = {
     "lei": ("federal", "lei-", "lei-%05d", "leis"),
     "decreto": ("federal", "decreto-", "decreto-%05d", "leis"),
     "lei-complementar": ("federal", "lcp-", "lcp-%03d", "leis"),
+    # v0.4.0, camada 4: CMN e BCB (pasta sob a raiz: `<orgao>/<pasta>`)
+    "resolucao-cmn": ("cmn", "cmn-res-", "%04d", "resolucoes"),
+    "resolucao-bcb": ("bcb", "bcb-res-", "%04d", "resolucoes"),
+    "resolucao-conjunta": ("bcb", "bcb-resc-", "%04d", "resolucoes-conjuntas"),
+    "circular": ("bcb", "bcb-circ-", "%04d", "circulares"),
+    "carta-circular": ("bcb", "bcb-cc-", "%04d", "cartas-circulares"),
+    "instrucao-normativa-bcb": ("bcb", "bcb-in-", "%04d", "instrucoes-normativas"),
 }
+# v0.4.0, camada 5: autorregulação. Arquivo `autorregulacao/<orgao>/<slug>.md`; o id é
+# `<orgao>-<slug>` (molde None); `numero` e `publicacao_dou` ficam vazios.
+ORGAOS_AUTORREGULACAO = ("anbima", "b3")
+PASTA_AUTORREGULACAO = "autorregulacao"
+TIPOS_AUTORREGULACAO = ("codigo-autorregulacao", "regras-procedimentos", "regulamento",
+                        "manual", "glossario", "orientacao-autorregulacao")
+for _t in TIPOS_AUTORREGULACAO:
+    TIPOS[_t] = (ORGAOS_AUTORREGULACAO, None, None, PASTA_AUTORREGULACAO)
 TIPOS_FEDERAIS = tuple(t for t, (orgao, *_r) in TIPOS.items() if orgao == "federal")
+TIPOS_BCB = tuple(t for t, (orgao, *_r) in TIPOS.items() if orgao in ("cmn", "bcb"))
+# Tipos sem atos aplicados em sequência: `vigente_ate_ato` vazio, `historico_parcial: true`,
+# `aguarda_consolidado_oficial: false` (a data-base é `baixado_em`).
+TIPOS_SEM_SEQUENCIA = TIPOS_FEDERAIS + TIPOS_BCB + TIPOS_AUTORREGULACAO
+SLUG_MAX = 80  # caracteres do slug da autorregulação
 SITUACOES = ("vigente", "revogada", "parcialmente-revogada", "nao-informada")
 # A CVM não publica a vigência de pareceres e ofícios: só neles cabe `nao-informada`.
 TIPOS_SEM_VIGENCIA = ("parecer-orientacao", "oficio-circular")
@@ -144,6 +168,20 @@ def _erros_partes(index_path):
     return erros
 
 
+def _erros_pasta(path, em_partes, v):
+    """CMN, BCB e autorregulação: o arquivo fica em `<orgao>/<pasta do tipo>/` (CMN e BCB)
+    ou em `autorregulacao/<orgao>/`; a pasta `resolucoes/` é dividida com a CVM."""
+    orgao, _prefixo, _molde, pasta = TIPOS[v["tipo"]]
+    esperado = [PASTA_AUTORREGULACAO, v["orgao"]] if isinstance(orgao, tuple) else [orgao, pasta]
+    alvo = os.path.dirname(os.path.abspath(path))
+    if em_partes:
+        alvo = os.path.dirname(alvo)
+    atual = [os.path.basename(os.path.dirname(alvo)), os.path.basename(alvo)]
+    if atual != esperado:
+        return ["arquivo deve ficar em %s/ para tipo %s, está em %s/" % ("/".join(esperado), v["tipo"], "/".join(atual))]
+    return []
+
+
 def validar_norma(path):
     with open(path, encoding="utf-8") as f:
         texto = f.read()
@@ -176,16 +214,32 @@ def validar_norma(path):
         orgao, prefixo, molde, _pasta = TIPOS["resolucao"]
     else:
         orgao, prefixo, molde, _pasta = TIPOS[v["tipo"]]
-        if v["orgao"] != orgao:
+        if isinstance(orgao, tuple):
+            if v["orgao"] not in orgao:
+                erros.append("orgao deve ser %s para tipo %s, veio %r" % (" ou ".join(orgao), v["tipo"], v["orgao"]))
+        elif v["orgao"] != orgao:
             erros.append("orgao deve ser %s para tipo %s, veio %r" % (orgao, v["tipo"], v["orgao"]))
-    numero_ok = bool(re.fullmatch(r"[1-9]\d*", v["numero"]))
-    if not numero_ok:
-        erros.append("numero deve ser inteiro, veio %r" % v["numero"])
+    autorregulacao = v["tipo"] in TIPOS_AUTORREGULACAO
+    if autorregulacao:
+        numero_ok = False
+        if v["numero"] != "":
+            erros.append("numero deve ficar vazio em %s (autorregulação), veio %r" % (v["tipo"], v["numero"]))
+    else:
+        numero_ok = bool(re.fullmatch(r"[1-9]\d*", v["numero"]))
+        if not numero_ok:
+            erros.append("numero deve ser inteiro, veio %r" % v["numero"])
     if em_partes:
         nome_atual = os.path.basename(os.path.dirname(os.path.abspath(path)))
     else:
         nome_atual = os.path.basename(path)[:-3] if path.endswith(".md") else os.path.basename(path)
-    if v["tipo"] == "oficio-circular":
+    if autorregulacao:
+        # o id é `<orgao>-` + slug (nome do arquivo); sem número
+        if not SLUG.fullmatch(nome_atual) or len(nome_atual) > SLUG_MAX:
+            erros.append("nome do arquivo do documento de autorregulação deve ser um slug "
+                         "(minúsculas, dígitos e hífen, até %d caracteres), veio %r" % (SLUG_MAX, nome_atual))
+        elif v["id"] != "%s-%s" % (v["orgao"], nome_atual):
+            erros.append("id %r incoerente com o nome do arquivo (esperado %s-%s)" % (v["id"], v["orgao"], nome_atual))
+    elif v["tipo"] == "oficio-circular":
         # sem regra entre numero e id: o id vem do slug da página da CVM (nome do arquivo)
         if not SLUG.fullmatch(nome_atual):
             erros.append("nome do arquivo do ofício deve ser o slug da página da CVM "
@@ -201,16 +255,25 @@ def validar_norma(path):
                 erros.append("o index.md deve ficar na pasta %s/" % nome)
         elif nome_atual != nome:
             erros.append("nome do arquivo deve ser %s.md" % nome)
+    if v["tipo"] in TIPOS_BCB or autorregulacao:
+        erros += _erros_pasta(path, em_partes, v)
     for c in DATAS:
-        if not _data_valida(v[c]):
+        if autorregulacao and c == "publicacao_dou":
+            if v[c] != "":
+                erros.append("publicacao_dou deve ficar vazio em %s (autorregulação), veio %r" % (v["tipo"], v[c]))
+        elif not _data_valida(v[c]):
             erros.append("%s deve ser AAAA-MM-DD válida, veio %r" % (c, v[c]))
     if v["situacao"] not in SITUACOES:
         erros.append("situacao fora da lista %s: %r" % (", ".join(SITUACOES), v["situacao"]))
     elif v["situacao"] == "nao-informada" and v["tipo"] not in TIPOS_SEM_VIGENCIA:
         erros.append("situacao nao-informada só cabe em %s, não em %s" % (" e ".join(TIPOS_SEM_VIGENCIA), v["tipo"]))
+    elif v["situacao"] != "vigente" and (v["tipo"] in TIPOS_BCB or autorregulacao):
+        erros.append("situacao deve ser vigente em %s (o perímetro é só o vigente), veio %r" % (v["tipo"], v["situacao"]))
     if v["versao_texto"] not in VERSOES:
         erros.append("versao_texto fora da lista %s: %r" % (", ".join(VERSOES), v["versao_texto"]))
-    if v["tipo"] in TIPOS_FEDERAIS:
+    elif autorregulacao and v["versao_texto"] != "original":
+        erros.append("versao_texto deve ser original em %s (autorregulação), veio %r" % (v["tipo"], v["versao_texto"]))
+    if v["tipo"] in TIPOS_SEM_SEQUENCIA:
         if v["vigente_ate_ato"] != "":
             erros.append("vigente_ate_ato deve ficar vazio em %s (a data-base é baixado_em), veio %r" % (v["tipo"], v["vigente_ate_ato"]))
         if v["historico_parcial"] != "true":
@@ -230,6 +293,9 @@ def validar_norma(path):
 
     if "nivel_verificacao" in v and v["nivel_verificacao"] not in NIVEIS_VERIFICACAO:
         erros.append("nivel_verificacao fora da lista %s: %r" % (", ".join(NIVEIS_VERIFICACAO), v["nivel_verificacao"]))
+    elif autorregulacao and v.get("nivel_verificacao") != "pdf-extraido":
+        erros.append("nivel_verificacao deve ser pdf-extraido em %s (autorregulação), veio %r" % (
+            v["tipo"], v.get("nivel_verificacao", "(ausente)")))
 
     if em_partes:
         erros += _erros_partes(path)
@@ -268,11 +334,23 @@ def arquivos_de_oficios(raiz):
     return sorted(achados)
 
 
-PASTAS_DE_NORMAS = ("resolucoes", "instrucoes", "pareceres-orientacao", "leis")
+def arquivos_de_autorregulacao(raiz):
+    """Documentos de autorregulação: normas de cada subpasta (entidade) de `autorregulacao/`.
+    O `autorregulacao/README.md` fica fora (não é norma)."""
+    achados = []
+    for dirpath, dirs, nomes in os.walk(raiz):
+        if os.path.basename(os.path.dirname(dirpath)) == PASTA_AUTORREGULACAO:
+            achados += _normas_em(dirpath, nomes, dirs)
+    return sorted(achados)
+
+
+PASTAS_DE_NORMAS = ("resolucoes", "instrucoes", "pareceres-orientacao", "leis",
+                    # v0.4.0: pastas do BCB (as resoluções do CMN e do BCB ficam em `resolucoes/`)
+                    "resolucoes-conjuntas", "circulares", "cartas-circulares", "instrucoes-normativas")
 
 
 def arquivos_de_normas(raiz):
-    achados = arquivos_de_oficios(raiz)
+    achados = arquivos_de_oficios(raiz) + arquivos_de_autorregulacao(raiz)
     for pasta in PASTAS_DE_NORMAS:
         achados += arquivos_da_pasta(raiz, pasta)
     return sorted(achados)

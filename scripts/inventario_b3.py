@@ -82,8 +82,19 @@ def chave_versao(nome):
     return re.sub(r"[\s_.-]+", " ", n).strip()
 
 
+# Mesma norma com nomes diferentes (conferido pela data no texto, 2026-10-29): arquivo -> motivo
+SUBSTITUIDOS = {
+    "Regulamento Central Depositaria RV B3 - 20230130.doc.pdf":
+        "versão de 30/01/2023; vigente: Regulamento da CSD de RV B3.pdf (versão de 23/02/2026)",
+    "Regulamento_Tesouro_Direto.pdf":
+        "versão de julho de 2017; vigente: Regulamento TD Publicado no Site .11.07.2023.pdf",
+}
+
+
 def perimetro(d):
     """(entra?, motivo) do documento na camada 5."""
+    if d["arquivo"] in SUBSTITUIDOS:
+        return False, SUBSTITUIDOS[d["arquivo"]]
     txt = " ".join(d["rotulos"]) + " " + d["arquivo"]
     if d["marcas"] == "com":
         return False, "versão com marcas (há a sem marcas)"

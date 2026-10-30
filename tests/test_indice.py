@@ -13,6 +13,8 @@ from validar import CAMPOS  # noqa: E402
 
 ACERVO = os.path.join(AQUI, "fixtures", "v030-acervo.json")
 SEM_ACERVO = os.path.join(AQUI, "fixtures", "v030-nao-existe.json")
+PERIMETRO = os.path.join(AQUI, "fixtures", "v040-perimetro-camada4.json")
+ACERVO_BCB = os.path.join(AQUI, "fixtures", "v040-acervo-bcb.json")
 
 VALORES = {
     "id": "cvm-res-9", "orgao": "cvm", "tipo": "resolucao", "numero": "9",
@@ -298,6 +300,157 @@ class TestIndiceSlugDoAcervo(unittest.TestCase):
         self.assertIn("Antigo", md)
         self.assertIn("2 só verbete", next(l for l in self.arqs["indice.md"].split("\n")
                                            if "indices/oficios-circulares.md" in l))
+
+
+CAMADA4 = dict(vigente_ate_ato="", historico_parcial="true", baixado_em="2026-10-29")
+CAMADA5 = dict(numero="", publicacao_dou="", versao_texto="original", vigente_ate_ato="",
+               historico_parcial="true", baixado_em="2026-10-29")
+
+
+class TestIndiceV040(unittest.TestCase):
+    """Subíndices do CMN e do BCB (com os atos só alteradores) e da autorregulação."""
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+        r = self.raiz = self._tmp.name
+        gravar(r, "cvm/resolucoes/0017.md", id="cvm-res-17", numero="17")
+        gravar(r, "cmn/resolucoes/4966.md", id="cmn-res-4966", orgao="cmn", tipo="resolucao-cmn",
+               numero="4966", data="2021-11-25", ementa="Instrumentos financeiros.", **CAMADA4)
+        gravar(r, "cmn/resolucoes/2907.md", id="cmn-res-2907", orgao="cmn", tipo="resolucao-cmn",
+               numero="2907", data="2001-11-29", ementa="FIDC.", **CAMADA4)
+        gravar(r, "bcb/circulares/3952.md", id="bcb-circ-3952", orgao="bcb", tipo="circular",
+               numero="3952", data="2019-06-27", ementa="Circular de fixture.", **CAMADA4)
+        gravar(r, "bcb/resolucoes/0264.md", id="bcb-res-264", orgao="bcb", tipo="resolucao-bcb",
+               numero="264", data="2022-11-25", ementa="Resolução BCB de fixture.", **CAMADA4)
+        gravar(r, "autorregulacao/anbima/codigo-administracao-gestao.md", id="anbima-codigo-administracao-gestao",
+               orgao="anbima", tipo="codigo-autorregulacao", data="2023-10-02",
+               ementa="Código de Administração e Gestão de Recursos de Terceiros", **CAMADA5)
+        gravar(r, "autorregulacao/anbima/glossario-anbima.md", id="anbima-glossario-anbima",
+               orgao="anbima", tipo="glossario", data="2024-01-02", ementa="Glossário ANBIMA", **CAMADA5)
+        gravar(r, "autorregulacao/b3/regulamento-de-emissores.md", id="b3-regulamento-de-emissores",
+               orgao="b3", tipo="regulamento", data="2023-01-30", ementa="Regulamento para Listagem de Emissores",
+               **CAMADA5)
+        with open(os.path.join(r, "autorregulacao", "README.md"), "w", encoding="utf-8") as f:
+            f.write("# Autorregulação\n\nNão é norma.\n")
+        self.arqs, self.itens = indice.gerar_indice(r, SEM_ACERVO, PERIMETRO, ACERVO_BCB)
+
+    def secao(self, md, titulo):
+        return md.split("## %s" % titulo)[1].split("\n## ")[0]
+
+    def test_subindices_gerados(self):
+        self.assertEqual(sorted(self.arqs), [
+            "indice.md", "indices/anbima.md", "indices/b3.md", "indices/bcb.md", "indices/cmn.md",
+            "indices/resolucoes.md", "normas.json"])
+        self.assertNotIn("README", json.dumps(self.itens))
+
+    def test_ordem_titulos_e_data_base_no_json(self):
+        ids = [i["id"] for i in self.itens]
+        self.assertEqual(ids, ["cvm-res-17", "cmn-res-2907", "cmn-res-4966", "bcb-res-264", "bcb-circ-3952",
+                               "anbima-codigo-administracao-gestao", "b3-regulamento-de-emissores",
+                               "anbima-glossario-anbima"])
+        item = {i["id"]: i for i in self.itens}
+        self.assertEqual(item["cmn-res-4966"]["titulo"], "Resolução CMN nº 4.966/2021")
+        self.assertEqual(item["bcb-circ-3952"]["titulo"], "Circular nº 3.952/2019")
+        self.assertEqual(item["cmn-res-4966"]["baixado_em"], "2026-10-29")
+        self.assertEqual(item["b3-regulamento-de-emissores"]["titulo"], "Regulamento para Listagem de Emissores")
+        self.assertEqual(item["b3-regulamento-de-emissores"]["baixado_em"], "2026-10-29")
+        self.assertNotIn("_orgao", item["b3-regulamento-de-emissores"])
+
+    def test_cmn_por_tipo_com_alteradoras(self):
+        md = self.arqs["indices/cmn.md"]
+        self.assertIn("os sites dos órgãos e entidades de origem", md)
+        self.assertIn("compilado pelo BCB", md)
+        titulos = [l[3:] for l in md.split("\n") if l.startswith("## ")]
+        self.assertEqual(titulos, ["Resoluções CMN", "Atos só alteradores, sem arquivo"])
+        resol = self.secao(md, "Resoluções CMN")
+        self.assertLess(resol.index("cmn/resolucoes/2907.md"), resol.index("cmn/resolucoes/4966.md"))
+        alt = self.secao(md, "Atos só alteradores, sem arquivo")
+        linhas = [l for l in alt.split("\n") if l.startswith("| ") and "nº" in l]
+        # por tipo e número; "resolucao 2.907" (sem complemento) é do CMN
+        self.assertEqual([l.split(" | ")[0] for l in linhas], [
+            "| Resolução CMN nº 3.000/2002", "| Resolução CMN nº 5.000/2022", "| Carta Circular nº 4.100/2021"])
+        r5000 = linhas[1]
+        self.assertIn("Altera a Resolução CMN nº 4.966 \\| com barra.", r5000)
+        self.assertIn("2022-03-01", r5000)
+        self.assertIn("| Resolução CMN nº 4.966/2021 |", r5000)
+        self.assertIn("[BCB](https://exemplo.invalid/exibenormativo?tipo=Resolu%C3%A7%C3%A3o+CMN&numero=5000)", r5000)
+        self.assertIn("Resolução CMN nº 2.907/2001", linhas[0])
+        # a carta circular altera uma norma fora do acervo e uma do CMN: entra só pela do CMN
+        self.assertIn("| Resolução CMN nº 4.966/2021 |", linhas[2])
+        self.assertNotIn("4.056", linhas[2].split(" | ")[3])
+
+    def test_bcb_por_tipo_com_alteradoras(self):
+        md = self.arqs["indices/bcb.md"]
+        titulos = [l[3:] for l in md.split("\n") if l.startswith("## ")]
+        self.assertEqual(titulos, ["Resoluções BCB", "Circulares", "Atos só alteradores, sem arquivo"])
+        alt = self.secao(md, "Atos só alteradores, sem arquivo")
+        linhas = [l for l in alt.split("\n") if l.startswith("| ") and "nº" in l]
+        self.assertEqual(len(linhas), 1, linhas)
+        self.assertIn("| Resolução BCB nº 300/2023 |", linhas[0])
+        self.assertIn("| Resolução BCB nº 264/2022; Circular nº 3.952/2019 |", linhas[0])
+        # fora: a alteradora com arquivo (Circ. 3.952), a de norma fora do acervo (IN 100) e a "fora"
+        self.assertNotIn("Instrução Normativa BCB nº 100", md)
+        self.assertNotIn("3.999", md)
+        self.assertEqual(sum(1 for l in md.split("\n") if l.startswith("| Circular nº 3.952")), 1)
+
+    def test_autorregulacao_por_entidade_e_tipo(self):
+        anbima, b3 = self.arqs["indices/anbima.md"], self.arqs["indices/b3.md"]
+        self.assertEqual([l[3:] for l in anbima.split("\n") if l.startswith("## ")],
+                         ["Códigos de autorregulação", "Glossários"])
+        self.assertEqual([l[3:] for l in b3.split("\n") if l.startswith("## ")], ["Regulamentos"])
+        self.assertIn("autorregulacao/anbima/codigo-administracao-gestao.md", anbima)
+        self.assertNotIn("autorregulacao/b3/", anbima)
+        self.assertNotIn("autorregulacao/anbima/", b3)
+        linha = next(l for l in b3.split("\n") if "regulamento-de-emissores.md" in l)
+        self.assertEqual(linha, "| Regulamento para Listagem de Emissores | 2023-01-30 | 2026-10-29 | "
+                                "autorregulacao/b3/regulamento-de-emissores.md |")
+        self.assertIn("não é norma estatal", anbima)
+
+    def test_resumo_com_cinco_camadas_e_contagens(self):
+        md = self.arqs["indice.md"]
+        self.assertIn("Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos "
+                      "e entidades de origem.", md)
+        self.assertNotIn("nem o site da CVM", md)
+        for n in range(1, 6):
+            self.assertIn("- Camada %d:" % n, md)
+        self.assertIn("- Camada 4: normas do CMN e do BCB, no texto compilado pelo BCB", md)
+        self.assertIn("- Camada 5: autorregulação, texto de titularidade da ANBIMA e da B3, uso informativo "
+                      "(ver `autorregulacao/README.md`).", md)
+        linhas = {rel: next(l for l in md.split("\n") if "(%s)" % rel in l)
+                  for rel in ("indices/cmn.md", "indices/bcb.md", "indices/anbima.md", "indices/b3.md")}
+        self.assertIn("| 2 |", linhas["indices/cmn.md"])
+        self.assertIn("mais 3 ato(s) só alterador(es), sem arquivo", linhas["indices/cmn.md"])
+        self.assertIn("| 2 |", linhas["indices/bcb.md"])
+        self.assertIn("mais 1 ato(s) só alterador(es)", linhas["indices/bcb.md"])
+        self.assertIn("| 2 |", linhas["indices/anbima.md"])
+        self.assertIn("| 1 |", linhas["indices/b3.md"])
+
+    def test_sem_os_json_de_fontes_sai_sem_alteradoras(self):
+        faltando = os.path.join(AQUI, "fixtures", "v040-nao-existe.json")
+        for perimetro, acervo_bcb in ((None, None), (faltando, ACERVO_BCB), (PERIMETRO, faltando)):
+            arqs, _itens = indice.gerar_indice(self.raiz, SEM_ACERVO, perimetro, acervo_bcb)
+            self.assertIn("indices/cmn.md", arqs)
+            self.assertNotIn("Atos só alteradores", arqs["indices/cmn.md"])
+            self.assertNotIn("Atos só alteradores", arqs["indices/bcb.md"])
+            self.assertNotIn("só alterador", arqs["indice.md"])
+
+    def test_alteradora_sem_norma_do_acervo_nao_gera_subindice(self):
+        with tempfile.TemporaryDirectory() as r:
+            gravar(r, "cvm/resolucoes/0017.md", id="cvm-res-17", numero="17")
+            arqs, _itens = indice.gerar_indice(r, SEM_ACERVO, PERIMETRO, ACERVO_BCB)
+            self.assertEqual(sorted(arqs), ["indice.md", "indices/resolucoes.md", "normas.json"])
+
+    def test_verificar_com_os_json_de_fontes(self):
+        args = ["indice.py", self.raiz, "--acervo", SEM_ACERVO, "--perimetro", PERIMETRO,
+                "--acervo-bcb", ACERVO_BCB]
+        self.assertEqual(indice.main(args), 0)
+        self.assertEqual(indice.main(args + ["--verificar"]), 0)
+        self.assertIn("Atos só alteradores", ler(self.raiz, "indices/cmn.md"))
+        # sem os JSON, o subíndice muda e fica defasado
+        sem = ["indice.py", self.raiz, "--acervo", SEM_ACERVO, "--perimetro", SEM_ACERVO,
+               "--acervo-bcb", SEM_ACERVO, "--verificar"]
+        self.assertEqual(indice.main(sem), 1)
 
 
 if __name__ == "__main__":

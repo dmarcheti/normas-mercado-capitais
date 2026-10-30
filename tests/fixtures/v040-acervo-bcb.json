@@ -1,0 +1,12 @@
+{
+  "fonte": "fixture",
+  "lido_em": "2026-10-29",
+  "normas": [
+    {"tipo": "resolucao-cmn", "numero": 5000, "assunto": "Altera a Resolução CMN nº 4.966 | com barra.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Resolu%C3%A7%C3%A3o+CMN&numero=5000"},
+    {"tipo": "resolucao-cmn", "numero": 3000, "assunto": "Altera a Resolução nº 2.907.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3000"},
+    {"tipo": "resolucao-bcb", "numero": 300, "assunto": "Altera a Resolução BCB nº 264 e a Circular nº 3.952.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Resolu%C3%A7%C3%A3o+BCB&numero=300"},
+    {"tipo": "carta-circular", "numero": 4100, "assunto": "Altera a Carta Circular nº 4.056.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Carta+Circular&numero=4100"},
+    {"tipo": "instrucao-normativa-bcb", "numero": 100, "assunto": "Altera a Instrução Normativa BCB nº 94.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Instru%C3%A7%C3%A3o+Normativa+BCB&numero=100"},
+    {"tipo": "circular", "numero": 3952, "assunto": "Circular com arquivo no acervo.", "url_pagina": "https://exemplo.invalid/exibenormativo?tipo=Circular&numero=3952"}
+  ]
+}

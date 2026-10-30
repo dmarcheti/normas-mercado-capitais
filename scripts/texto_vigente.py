@@ -32,11 +32,29 @@ Frontmatter: campos de validar.CAMPOS, na ordem, mais `vigencia_inicio` (só com
 pdf-extraido ou ocr). Resoluções e Instruções: `situacao: vigente`; Pareceres e Ofícios-Circulares:
 `nao-informada` (a CVM não publica a vigência deles).
 
+Fase 2c (SPEC v0.4.0):
+- Camada 4 (CMN e BCB): as normas de fontes/perimetro-camada4.json com decisao "entra", juntadas a
+  fontes/acervo-bcb.json. Fonte: o campo Texto da API da busca de normas do BCB (cache em
+  dados/fase-2c/bcb/<tipo_bcb com _>-NNNNN.json; se faltar, a API), gravado como .htm e convertido
+  por scripts/html_bcb.py (item com `conversor: "html_bcb"`; não passa pelo textutil). Conferência
+  independente: `textutil -convert txt` do .htm (macOS); sem textutil, o texto do html.parser e
+  `conferencia_independente: false`. No consolidado do BCB, o tachado sai e, com ele, as linhas de
+  tabela que ficam vazias. Norma sem texto na API: o PDF da última versão listado em Documentos
+  (sufixo L, texto compilado; v1 O, ato original), em normativos.bcb.gov.br/Lists/Normativos/
+  Attachments/<Id>/<arquivo>; sem PDF, `sem-texto` com o motivo.
+- Camada 5 (ANBIMA e B3): fontes/acervo-anbima.json (situacao "vigente") e fontes/acervo-b3.json
+  (entra true); PDF do cache dados/fase-2c/pdf-anbima|pdf-b3/<sha1(url)[:10]>.pdf, senão baixado;
+  extração como a dos PDFs da CVM. Slug do título, até 80 caracteres; colisão ganha -2 e aviso.
+- Frontmatter: `orgao` do item (padrão cvm); camada 5 com `numero` e `publicacao_dou` vazios;
+  `incerteza` por órgão.
+
 Uso:
-  python3 scripts/texto_vigente.py --camada 1|2 [--acervo fontes/acervo.json]
+  python3 scripts/texto_vigente.py --camada 1|2|4|5 [--acervo fontes/acervo.json]
       [--saida plugins/normas/normas] [--limite N] [--cache DIR] [--relatorio ARQ]
     camada 1: Resoluções vigentes mais a 249, menos as 8 do núcleo, e Instruções vigentes;
-    camada 2: os Pareceres de Orientação e os Ofícios-Circulares desde 2022-01-01.
+    camada 2: os Pareceres de Orientação e os Ofícios-Circulares desde 2022-01-01;
+    camada 4: CMN e BCB (--perimetro, --acervo-bcb, --cache-bcb);
+    camada 5: ANBIMA e B3 (--acervo-anbima, --acervo-b3, --cache-anbima, --cache-b3).
     Relatório em dados/texto-vigente-camada-N.json; fontes baixadas em dados/texto-vigente-fontes/.
   python3 scripts/texto_vigente.py <itens.json> <pasta de saída>   (modo do piloto)
     itens.json: lista de {id, tipo, numero, data, dou, ementa, situacao, url_pagina, arquivo,
@@ -45,10 +63,12 @@ Uso:
 """
 import argparse
 import datetime
+import email.utils
 import hashlib
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -59,6 +79,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from converter import docx_para_md, normalizar_artigos, ordem_das_notas, textos_das_caixas  # noqa: E402
+import html_bcb  # noqa: E402
 from inventario import USER_AGENT  # noqa: E402
 from inventario_acervo import citadas  # noqa: E402
 from validar import CAMPOS, MARCA_VIGENCIA  # noqa: E402
@@ -78,6 +99,26 @@ NAO_INFORMADA = {
     "parecer-orientacao": "pareceres de orientação",
     "oficio-circular": "ofícios-circulares",
 }
+# Fase 2c. Camada 4: tipo -> (orgao, prefixo do id, pasta sob o diretório de saída)
+TIPOS_BCB = {
+    "resolucao-cmn": ("cmn", "cmn-res-", "cmn/resolucoes"),
+    "resolucao-bcb": ("bcb", "bcb-res-", "bcb/resolucoes"),
+    "resolucao-conjunta": ("bcb", "bcb-resc-", "bcb/resolucoes-conjuntas"),
+    "circular": ("bcb", "bcb-circ-", "bcb/circulares"),
+    "carta-circular": ("bcb", "bcb-cc-", "bcb/cartas-circulares"),
+    "instrucao-normativa-bcb": ("bcb", "bcb-in-", "bcb/instrucoes-normativas"),
+}
+CACHE_BCB = "dados/fase-2c/bcb"
+CACHE_PDF = {"anbima": "dados/fase-2c/pdf-anbima", "b3": "dados/fase-2c/pdf-b3"}
+PDF_BCB = "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/%s/%s"
+API_BCB = "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?"
+PALAVRAS_MIN_HTML = 30  # o mesmo corte do inventario_bcb (formato "html" x "sem-texto")
+NOMES = {"anbima": "ANBIMA", "b3": "B3"}
+TIPOS_ANBIMA = {"codigo": "codigo-autorregulacao", "regras-procedimentos": "regras-procedimentos",
+                "glossario": "glossario", "deliberacao": "orientacao-autorregulacao",
+                "parecer": "orientacao-autorregulacao", "diretrizes": "orientacao-autorregulacao",
+                "orientacao": "orientacao-autorregulacao"}
+SLUG_MAX = 80
 MESES = {m: i + 1 for i, m in enumerate(
     "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split())}
 
@@ -152,11 +193,13 @@ def _pasta_slug(oc):
     return pasta, slug
 
 
-def itens_do_acervo(acervo, camada):
+def itens_do_acervo(acervo, camada, cache_bcb=CACHE_BCB, cache_pdf=None):
     """Itens prontos para `processar`, a partir de fontes/acervo.json.
 
     Camada 1: Resoluções vigentes e as de INCLUIR_FORA_DO_ESTOQUE, menos o NUCLEO; Instruções
     vigentes. Camada 2: Pareceres de Orientação (todos) e Ofícios-Circulares desde CORTE_OFICIOS.
+    Camada 4: `acervo` = {"perimetro": [...], "bcb": acervo-bcb.json} (itens_camada4).
+    Camada 5: `acervo` = {"anbima": acervo-anbima.json, "b3": acervo-b3.json} (itens_camada5).
     """
     revogadas = (["Instrução CVM %d" % i["numero"] for i in acervo.get("instrucoes", [])
                   if i.get("situacao") == "revogada"]
@@ -224,8 +267,243 @@ def itens_do_acervo(acervo, camada):
                 "arquivo": "cvm/oficios-circulares/%s/%s.md" % (pasta, slug),
                 "revogadas_citadas": _revogadas_citadas(ementa, revogadas), "notas": [],
             })
+    elif camada == 4:
+        return itens_camada4(acervo["perimetro"], acervo["bcb"], cache_bcb=cache_bcb)
+    elif camada == 5:
+        return itens_camada5(acervo.get("anbima") or {}, acervo.get("b3") or {}, cache_pdf=cache_pdf)
     else:
-        raise ValueError("camada deve ser 1 ou 2, veio %r" % camada)
+        raise ValueError("camada deve ser 1, 2, 4 ou 5, veio %r" % camada)
+    return itens
+
+
+def _arquivo_api_bcb(tipo_bcb, numero, cache_bcb=CACHE_BCB):
+    return os.path.join(cache_bcb, "%s-%05d.json" % (tipo_bcb.replace(" ", "_"), numero))
+
+
+def itens_camada4(perimetro, acervo_bcb, cache_bcb=CACHE_BCB):
+    """Itens das normas do CMN e do BCB com decisao "entra" no perímetro (C1), com os campos de
+    identificação de fontes/acervo-bcb.json. Texto da API (html_bcb) se o formato é "html";
+    "sem-texto": o PDF, resolvido em processar (preparar_bcb), que precisa do Id da API."""
+    idx = {(n["tipo"], n["numero"]): n for n in acervo_bcb.get("normas", [])}
+    itens = []
+    for p in perimetro:
+        if p.get("decisao") != "entra":
+            continue
+        tipo, numero = p["tipo"], int(p["numero"])
+        orgao, prefixo, pasta = TIPOS_BCB[tipo]
+        n = idx.get((tipo, numero))
+        item = {"id": "%s%d" % (prefixo, numero), "orgao": orgao, "tipo": tipo, "numero": numero,
+                "data": p.get("data"), "dou": None, "ementa": "", "situacao": "vigente",
+                "url_pagina": None, "fontes": {}, "alteradoras": [], "vigente_ate_ato": "",
+                "arquivo": "%s/%04d.md" % (pasta, numero), "notas": []}
+        if n is None:
+            item["sem_texto_motivo"] = "norma do perímetro ausente de fontes/acervo-bcb.json"
+            itens.append(item)
+            continue
+        formato = n.get("formato") or ""
+        item.update({
+            "data": n.get("data") or p.get("data"), "dou": n.get("dou"),
+            "ementa": limpar_ementa(n.get("assunto")), "url_pagina": n.get("url_pagina"),
+            "tipo_bcb": n["tipo_bcb"], "versao": n.get("versao"), "formato": formato,
+            "documentos": n.get("documentos") or "",
+            "cache_api": _arquivo_api_bcb(n["tipo_bcb"], numero, cache_bcb),
+        })
+        if formato.startswith("html"):
+            item["conversor"] = "html_bcb"
+            item["fontes"] = {"consolidado": {"htm": n.get("url_pagina")}}
+        itens.append(item)
+    return itens
+
+
+def documentos_bcb(documentos):
+    """[(arquivo, versão, sufixo)] do campo Documentos da API ("Circ_3290_v3_L.pdf;21#;...")."""
+    out = []
+    for parte in re.split(r";\d*#;?", documentos or ""):
+        nome = parte.strip().strip(";")
+        m = re.search(r"_v(\d+)_([A-Za-z])\.pdf$", nome, re.I)
+        if m:
+            out.append((nome, int(m.group(1)), m.group(2).upper()))
+    return out
+
+
+def pdf_da_ultima_versao(documentos):
+    """(arquivo, versão, sufixo) do PDF da última versão: maior vN; nela, L (texto compilado
+    limpo) antes de O (ato original) e de P; ou None."""
+    docs = documentos_bcb(documentos)
+    if not docs:
+        return None
+    ordem = {"L": 0, "O": 1, "P": 2}
+    return sorted(docs, key=lambda d: (-d[1], ordem.get(d[2], 3)))[0]
+
+
+def _ler_api_bcb(item):
+    """JSON da norma na API do BCB: o cache, ou a API (gravando o cache, como inventario_bcb)."""
+    destino = item["cache_api"]
+    if not (os.path.exists(destino) and os.path.getsize(destino)):
+        import urllib.parse
+        from inventario_bcb import _get
+        d = _get(API_BCB + urllib.parse.urlencode({"p1": item["tipo_bcb"], "p2": item["numero"]}))
+        os.makedirs(os.path.dirname(destino) or ".", exist_ok=True)
+        with open(destino, "w", encoding="utf-8") as f:
+            json.dump(d, f, ensure_ascii=False)
+    with open(destino, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def orgaos_conjunta(texto_html):
+    """Órgãos que editam a Resolução Conjunta, pelo preâmbulo ("A X e o Y tornam público"), ou None."""
+    t = re.sub(r"\s+", " ", html_bcb.INVISIVEIS.sub("", re.sub(r"<[^>]+>", " ", texto_html or "")))
+    import html as htmllib
+    t = re.sub(r"\s+", " ", htmllib.unescape(t).replace("\xa0", " ")).strip()
+    m = re.search(r"(?:^|[.;:]\s)(?:[AO]s? )?([A-ZÁÉÍÓÚÂÊÔÃÕÇ][^.;:]{3,300}?) tornam? público", t)
+    return m.group(1).strip() if m else None
+
+
+def preparar_bcb(item):
+    """Completa o item da camada 4 com a API: Id e PDFs (fonte_original; fonte da norma sem
+    texto), DOU que faltar e órgãos da Resolução Conjunta. Devolve o conteúdo da API."""
+    c = (_ler_api_bcb(item).get("conteudo") or [{}])[0]
+    if not item.get("dou"):
+        from inventario_bcb import data_dou
+        item["dou"] = data_dou(c.get("DOU"))
+    if item.get("versao") is None and c.get("VersaoNormativo"):
+        item["versao"] = c.get("VersaoNormativo")
+    docs = c.get("Documentos") if isinstance(c.get("Documentos"), str) else item.get("documentos")
+    ident = c.get("Id")
+    originais = [d for d in documentos_bcb(docs) if d[2] == "O"]
+    if ident and originais:
+        item["fonte_original"] = PDF_BCB % (ident, sorted(originais, key=lambda d: d[1])[0][0])
+    if item["tipo"] == "resolucao-conjunta":
+        org = orgaos_conjunta(c.get("Texto"))
+        item["notas"] = item.get("notas", []) + [
+            "Resolução Conjunta; órgãos no preâmbulo: %s; o acervo a classifica sob o BCB." % org if org else
+            "Resolução Conjunta do BCB com outro órgão; o acervo a classifica sob o BCB "
+            "[verificar os órgãos no preâmbulo]."]
+    if item.get("conversor") != "html_bcb":
+        ultima = pdf_da_ultima_versao(docs)
+        if not ultima or not ident:
+            item["sem_texto_motivo"] = (
+                "sem texto HTML na API do BCB (formato %s) e %s" % (
+                    item.get("formato") or "?",
+                    "sem PDF no campo Documentos" if not ultima else "sem Id da norma na API"))
+        else:
+            arq, versao, sufixo = ultima
+            tipo_fonte = "ato" if sufixo == "O" else "consolidado"
+            item["fontes"] = {tipo_fonte: {"pdf": PDF_BCB % (ident, arq)}}
+            item["pdf_bcb"] = {"arquivo": arq, "versao": versao, "sufixo": sufixo}
+    return c
+
+
+def gravar_htm_bcb(item, destino, conteudo=None):
+    """Grava o campo Texto da API como .htm, com o mtime do cache da API (data da leitura, C5)."""
+    if conteudo is None:
+        conteudo = (_ler_api_bcb(item).get("conteudo") or [{}])[0]
+    with open(destino, "w", encoding="utf-8") as f:
+        f.write("<html><head><meta charset='utf-8'></head><body>%s</body></html>"
+                % (conteudo.get("Texto") or ""))
+    t = os.path.getmtime(item["cache_api"])
+    os.utime(destino, (t, t))
+    return destino
+
+
+# ---------------------------------------------------------------- camada 5
+
+def slug(texto, maximo=SLUG_MAX):
+    s = unicodedata.normalize("NFKD", texto or "")
+    s = "".join(ch for ch in s if not unicodedata.combining(ch)).lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s[:maximo].rstrip("-")
+
+
+def titulo_anbima(titulo):
+    """Título sem "(vigente ...)"."""
+    t = re.sub(r"\s*\(\s*vigente\b[^)]*\)", "", titulo or "", flags=re.I)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def titulo_b3(rotulo):
+    """Rótulo sem "- Sem Marca(s)", "(.PDF, 2MB)", "*"; rótulo genérico de versão ("Versão em
+    vigor", "versão 28/10/2024") vale como vazio (o slug sai do nome do arquivo)."""
+    t = re.sub(r"\(\s*\.?\s*pdf\b[^)]*\)", "", rotulo or "", flags=re.I)
+    t = re.sub(r"\s*[-–]\s*sem\s+marcas?\b\*?", "", t, flags=re.I)
+    t = re.sub(r"\s+", " ", t.replace("*", " ")).strip(" -–")
+    if re.match(r"^vers[aã]o\b", t, re.I):
+        return ""
+    return t
+
+
+def tipo_b3(nome):
+    n = slug(nome, 1000)
+    if "regulamento" in n:
+        return "regulamento"
+    if "glossario" in n:
+        return "glossario"
+    return "manual"
+
+
+def _data_last_modified(valor):
+    try:
+        d = email.utils.parsedate_to_datetime(valor)
+    except (TypeError, ValueError, IndexError):
+        return None
+    if d is None:
+        return None
+    try:
+        from zoneinfo import ZoneInfo
+        fuso = ZoneInfo("America/Sao_Paulo")
+    except Exception:  # noqa: BLE001
+        fuso = datetime.timezone(datetime.timedelta(hours=-3))
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=datetime.timezone.utc)
+    return d.astimezone(fuso).strftime("%Y-%m-%d")
+
+
+def _cache_pdf(url, pasta):
+    return os.path.join(pasta, "%s.pdf" % hashlib.sha1(url.encode("utf-8")).hexdigest()[:10])
+
+
+def itens_camada5(anbima, b3, cache_pdf=None):
+    """Itens da autorregulação: ANBIMA (situacao "vigente") e B3 (entra true), na ordem dos acervos."""
+    cache_pdf = dict(CACHE_PDF, **(cache_pdf or {}))
+    itens, usados = [], {"anbima": {}, "b3": {}}
+    docs = [("anbima", d, anbima.get("lido_em")) for d in anbima.get("documentos", [])
+            if d.get("situacao") == "vigente"]
+    docs += [("b3", d, b3.get("lido_em")) for d in b3.get("documentos", []) if d.get("entra") is True]
+    for orgao, d, lido_em in docs:
+        nome_arq = re.sub(r"\.pdf$", "", d.get("arquivo") or "", flags=re.I)
+        if orgao == "anbima":
+            titulo = titulo_anbima(d.get("titulo"))
+            tipo = TIPOS_ANBIMA.get(d.get("tipo"), "orientacao-autorregulacao")
+        else:
+            titulo = titulo_b3((d.get("rotulos") or [""])[0])
+            tipo = tipo_b3(titulo + " " + nome_arq)
+        base = slug(titulo) or slug(nome_arq) or "documento"
+        avisos = []
+        s, k = base, 1
+        while s in usados[orgao]:
+            k += 1
+            suf = "-%d" % k
+            s = base[:SLUG_MAX - len(suf)].rstrip("-") + suf
+        if s != base:
+            avisos.append("slug %r já usado por %s; este ficou %r" % (base, usados[orgao][base], s))
+        usados[orgao][s] = d.get("arquivo") or d.get("url")
+        if d.get("vigente_desde"):
+            data, origem = d["vigente_desde"], "vigencia"
+        elif d.get("data_nome"):
+            data, origem = d["data_nome"], "versao"
+        elif _data_last_modified(d.get("last_modified")):
+            data, origem = _data_last_modified(d.get("last_modified")), "last-modified"
+        else:
+            data, origem = lido_em or DATA_BASE, "leitura"
+        url = d["url"]
+        itens.append({
+            "id": "%s-%s" % (orgao, s), "orgao": orgao, "tipo": tipo, "numero": None,
+            "data": data, "data_origem": origem, "dou": None, "ementa": titulo or nome_arq,
+            "situacao": "vigente", "url_pagina": (d.get("paginas") or [url])[0],
+            "fontes": {"ato": {"pdf": url}}, "alteradoras": [], "vigente_ate_ato": "",
+            "arquivo": "autorregulacao/%s/%s.md" % (orgao, s), "notas": [], "avisos": avisos,
+            "cache_pdf": _cache_pdf(url, cache_pdf[orgao]), "camada": 5,
+        })
     return itens
 
 
@@ -238,6 +516,60 @@ def _revogadas_citadas(texto, revogadas):
 
 def sem_tachado(md):
     return re.sub(r"~~.*?~~", "", md)
+
+
+def _celulas_md(linha):
+    return [c.strip() for c in re.split(r"(?<!\\)\|", linha.strip())[1:-1]]
+
+
+def _tabela_sem_tachado(linhas):
+    """Linhas de uma tabela em pipes sem o tachado: some a linha que fica vazia; sem linhas, a tabela."""
+    rows = []
+    for i, ln in enumerate(linhas):
+        cel = _celulas_md(ln)
+        if i == 1 and all(re.fullmatch(r":?-{3,}:?", c) for c in cel):
+            continue  # separador
+        cel = [re.sub(r"\s{2,}", " ", sem_tachado(c)).strip() for c in cel]
+        if any(c for c in cel):
+            rows.append(cel)
+    if not rows:
+        return []
+    n = max(len(r) for r in rows)
+    rows = [r + [""] * (n - len(r)) for r in rows]
+    out = ["| " + " | ".join(rows[0]) + " |", "|" + " --- |" * n]
+    return out + ["| " + " | ".join(r) + " |" for r in rows[1:]]
+
+
+def sem_tachado_bcb(md):
+    """Tachado fora do Markdown do html_bcb (redações revogadas no texto compilado do BCB):
+    tira o trecho, a linha ou a linha de tabela que ficar vazia, e a tabela inteira se for o caso.
+    Não mexe em bloco de código (texto de largura fixa, <pre>)."""
+    out, tabela, cerca = [], [], False
+
+    def fecha():
+        out.extend(_tabela_sem_tachado(tabela))
+        tabela.clear()
+
+    for ln in md.split("\n"):
+        if ln.startswith("```"):
+            fecha()
+            cerca = not cerca
+            out.append(ln)
+            continue
+        if cerca:
+            out.append(ln)
+            continue
+        if ln.startswith("|"):
+            tabela.append(ln)
+            continue
+        fecha()
+        if "~~" in ln:
+            ln = re.sub(r" {2,}", " ", sem_tachado(ln)).strip()
+            if not re.search(r"[^\W_]", ln):
+                continue
+        out.append(ln)
+    fecha()
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip("\n") + "\n"
 
 
 def palavras(txt):
@@ -433,9 +765,32 @@ def texto_conferencia(path, ext):
             return f.read()
 
 
-def converter_fonte(path, ext):
+def _texto_html(html):
+    """Texto simples do HTML, para a métrica quando não há `textutil` (não é conferência independente)."""
+    import html as htmllib
+    t = re.sub(r"(?is)<(style|script|title|head)\b.*?</\1\s*>", " ", html)
+    return htmllib.unescape(re.sub(r"<[^>]+>", " ", t))
+
+
+def converter_html_bcb(path):
+    """(markdown, texto de conferência, conferência independente?) do HTML da API do BCB."""
+    with open(path, encoding="utf-8", errors="replace") as f:
+        html = f.read()
+    md = html_bcb.html_para_md(html)
+    frac, n = legibilidade(md)
+    if n < PALAVRAS_MIN_HTML:
+        raise SemTexto("HTML do BCB sem texto: %d palavras (mínimo %d)" % (n, PALAVRAS_MIN_HTML), frac, n)
+    converter_fonte.extras = {}
+    if shutil.which("textutil"):
+        return md, texto_conferencia(path, "htm"), True
+    return md, _texto_html(html), False
+
+
+def converter_fonte(path, ext, conversor=None):
     """(markdown, texto da fonte para conferência, conferência independente?).
-    PDF ilegível sem OCR aceito levanta SemTexto."""
+    PDF ilegível sem OCR aceito levanta SemTexto. `conversor` "html_bcb": HTML da API do BCB."""
+    if conversor == "html_bcb":
+        return converter_html_bcb(path)
     if ext == "pdf":
         return converter_pdf(path)
     if ext == "docx" and not zipfile.is_zipfile(path):
@@ -492,11 +847,57 @@ def _e(lista):
     return lista[0] if len(lista) == 1 else "%s e %s" % (", ".join(lista[:-1]), lista[-1])
 
 
-def incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em=None, ocr=None):
+def _versao_bcb(v):
+    """"versão N da busca de normas" (VersaoNormativo da API, C5), ou a busca sem número de versão."""
+    try:
+        f = float(v)
+    except (TypeError, ValueError):
+        return "busca de normas, sem número de versão"
+    return "versão %s da busca de normas" % (int(f) if f == int(f) else f)
+
+
+DATA_ORIGEM = {
+    "vigencia": "vigente a partir de %s, segundo a página da entidade",
+    "versao": "versão de %s",
+    "last-modified": "data %s do cabeçalho Last-Modified do PDF [verificar a vigência]",
+    "leitura": "sem data no documento nem na página; %s é a data da leitura da página [verificar]",
+}
+
+
+def _abertura(item, tipo_fonte, ext, baixado_em):
+    """Primeira frase do `incerteza`, por órgão."""
+    orgao = item.get("orgao", "cvm")
+    if orgao in ("cmn", "bcb"):
+        versao = _versao_bcb(item.get("versao"))
+        if ext != "pdf":
+            return ("Texto vigente compilado pelo BCB (%s), convertido por script "
+                    "do HTML, data-base %s; sem histórico de redações nem conferência contra o DOU."
+                    % (versao, baixado_em))
+        arq = (item.get("pdf_bcb") or {}).get("arquivo", "")
+        if tipo_fonte == "ato":
+            return ("Texto do ato original (PDF %s do BCB, %s), extraído por script "
+                    "do PDF, data-base %s; o BCB não publica o texto em HTML: [verificar] alterações "
+                    "posteriores não aplicadas; sem histórico de redações nem conferência contra o DOU."
+                    % (arq, versao, baixado_em))
+        return ("Texto vigente compilado pelo BCB (PDF %s, %s), extraído por script "
+                "do PDF, data-base %s; sem histórico de redações nem conferência contra o DOU."
+                % (arq, versao, baixado_em))
+    if orgao in NOMES:
+        nome = NOMES[orgao]
+        quando = DATA_ORIGEM.get(item.get("data_origem"), DATA_ORIGEM["leitura"]) % item["data"]
+        return ("Documento de autorregulação da %s (%s), extraído por script do PDF, data-base %s. "
+                "Vincula só as instituições aderentes ou participantes. Texto de titularidade da %s, "
+                "reproduzido para uso informativo; retirado a pedido (ver autorregulacao/README.md)."
+                % (nome, quando, baixado_em, nome))
     situacao = item.get("situacao", "vigente")
     texto = "Texto vigente" if situacao == "vigente" else "Texto"
-    out = ["%s convertido por script de %s %s da CVM, data-base %s, sem histórico de redações "
-           "nem conferência ato a ato." % (texto, tipo_fonte, ext.upper(), baixado_em or DATA_BASE)]
+    return ("%s convertido por script de %s %s da CVM, data-base %s, sem histórico de redações "
+            "nem conferência ato a ato." % (texto, tipo_fonte, ext.upper(), baixado_em))
+
+
+def incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em=None, ocr=None):
+    situacao = item.get("situacao", "vigente")
+    out = [_abertura(item, tipo_fonte, ext, baixado_em or DATA_BASE)]
     if tipo_fonte == "ato" and item.get("alteradoras"):
         out.append("A CVM não publica consolidado desta norma: o texto é o do ato original; "
                    "[verificar] alterações de %s não aplicadas." % _e([str(a) for a in item["alteradoras"]]))
@@ -512,8 +913,9 @@ def incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em=None, ocr=None):
                    % NAO_INFORMADA.get(item["tipo"], "atos deste tipo"))
         if item.get("revogadas_citadas"):
             out.append("A descrição cita norma revogada: %s." % _e(item["revogadas_citadas"]))
-    if sem_dou:
-        out.append("Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.")
+    if sem_dou and item.get("orgao", "cvm") not in NOMES:
+        out.append("Sem publicação no DOU informada pel%s; publicacao_dou repete a data do ato."
+                   % ("o BCB" if item.get("orgao") in ("cmn", "bcb") else "a CVM"))
     primeira, outras, ha_bloco = vig
     if ha_bloco and not primeira:
         out.append('[verificar] bloco "vigente a partir de" sem data reconhecida pelo script.')
@@ -524,18 +926,23 @@ def incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em=None, ocr=None):
 
 
 def frontmatter(item, tipo_fonte, ext, url, sha, corpo, baixado_em=None, ocr=None):
-    vig = vigencia(corpo)
+    orgao = item.get("orgao", "cvm")
+    autorregulacao = orgao in NOMES
+    # "vigente a partir de" é bloco dos consolidados da CVM; nos outros órgãos não se lê
+    vig = vigencia(corpo) if orgao == "cvm" else (None, [], False)
     baixado_em = baixado_em or DATA_BASE
     sem_dou = not item.get("dou")
     v = {
-        "id": item["id"], "orgao": "cvm", "tipo": item["tipo"],
-        "numero": "" if item.get("numero") is None else item["numero"],
-        "data": item["data"], "publicacao_dou": item.get("dou") or item["data"],
+        "id": item["id"], "orgao": orgao, "tipo": item["tipo"],
+        "numero": "" if item.get("numero") is None or autorregulacao else item["numero"],
+        "data": item["data"],
+        "publicacao_dou": "" if autorregulacao else (item.get("dou") or item["data"]),
         "ementa": item["ementa"], "situacao": item.get("situacao", "vigente"),
         "versao_texto": "consolidado" if tipo_fonte == "consolidado" else "original",
         "vigente_ate_ato": item.get("vigente_ate_ato", "") if tipo_fonte == "consolidado" else "",
         "aguarda_consolidado_oficial": "false", "historico_parcial": "true",
-        "fonte_original": item.get("fontes", {}).get("ato", {}).get("pdf") or url,
+        "fonte_original": (item.get("fonte_original")
+                           or item.get("fontes", {}).get("ato", {}).get("pdf") or url),
         "fonte_consolidada": url, "sha256_fonte": sha, "baixado_em": baixado_em,
         "verificado_em": DATA_BASE,
         "incerteza": incertezas(item, tipo_fonte, ext, sem_dou, vig, baixado_em, ocr),
@@ -551,7 +958,9 @@ def frontmatter(item, tipo_fonte, ext, url, sha, corpo, baixado_em=None, ocr=Non
 def montar(item, path, tipo_fonte, ext, url):
     """(markdown com frontmatter, relatório). PDF ilegível levanta SemTexto."""
     converter_fonte.extras = {}
-    md, txt, independente = converter_fonte(path, ext)
+    conversor = item.get("conversor")
+    md, txt, independente = (converter_fonte(path, ext, conversor) if conversor
+                             else converter_fonte(path, ext))
     extras = converter_fonte.extras
     if extras.get("caixa"):
         item = dict(item, notas=item.get("notas", []) + [
@@ -562,8 +971,9 @@ def montar(item, path, tipo_fonte, ext, url):
         item = dict(item, notas=item.get("notas", []) + [
             "As %d notas de rodapé do arquivo da CVM estão na seção final \"Notas de rodapé\"."
             % extras["notas"]])
-    tachado = len(palavras(md)) - len(palavras(sem_tachado(md)))
-    corpo = normalizar_artigos(sem_tachado(md) if tipo_fonte == "consolidado" else md)
+    limpar = sem_tachado_bcb if conversor == "html_bcb" else sem_tachado
+    tachado = len(palavras(md)) - len(palavras(limpar(md)))
+    corpo = normalizar_artigos(limpar(md) if tipo_fonte == "consolidado" else md)
     with open(path, "rb") as f:
         sha = hashlib.sha256(f.read()).hexdigest()
     baixado_em, ocr = data_arquivo(path), extras.get("ocr")
@@ -576,6 +986,8 @@ def montar(item, path, tipo_fonte, ext, url):
            "conferencia_independente": independente, "caracteres": len(corpo),
            "palavras_em_caixa_de_texto": extras.get("caixa", 0), "notas_de_rodape": extras.get("notas", 0)}
     rel["baixado_em"] = baixado_em
+    if item.get("avisos"):
+        rel["avisos"] = list(item["avisos"])
     if ext == "pdf":
         rel["extrator"] = extras.get("extrator")
         rel["legibilidade"], rel["palavras"] = extras.get("legibilidade") or legibilidade(txt)
@@ -588,12 +1000,43 @@ def montar(item, path, tipo_fonte, ext, url):
 
 # ---------------------------------------------------------------- lote
 
+def obter_fonte(item, tipo_fonte, ext, url, cache, conteudo_api=None):
+    """Caminho local da fonte: o .htm gravado do cache da API do BCB (html_bcb), o PDF do cache
+    da autorregulação (cópia com o mtime, que é a data do download) ou o download."""
+    destino = os.path.join(cache, "%s.%s" % (item["id"], ext))
+    if item.get("conversor") == "html_bcb" and ext == "htm":
+        return gravar_htm_bcb(item, destino, conteudo_api)
+    origem = item.get("cache_pdf")
+    if ext == "pdf" and origem and os.path.exists(origem) and os.path.getsize(origem) \
+            and not (os.path.exists(destino) and os.path.getsize(destino)):
+        shutil.copy2(origem, destino)
+    return _baixar(url, destino)
+
+
 def processar(itens, saida, cache, mostrar=False):
     """Converte cada item e grava em <saida>/<arquivo>; devolve o relatório (lista)."""
     os.makedirs(cache, exist_ok=True)
     relatorio = []
+
+    def registra(rel):
+        relatorio.append(rel)
+        if mostrar:
+            print(json.dumps(rel, ensure_ascii=False))
+
     for item in itens:
         t0 = time.time()
+        item = dict(item)
+        base = {"id": item["id"], "arquivo": item["arquivo"]}
+        conteudo_api = None
+        if item.get("cache_api"):
+            try:
+                conteudo_api = preparar_bcb(item)
+            except Exception as e:  # noqa: BLE001 — registra e segue
+                registra(dict(base, resultado="erro", erro=("API do BCB: %s: %s" % (type(e).__name__, e))[:200]))
+                continue
+        if item.get("sem_texto_motivo"):
+            registra(dict(base, resultado="sem-texto", motivo=item["sem_texto_motivo"]))
+            continue
         candidatas = fontes_candidatas(item.get("fontes"))
         if not candidatas:
             relatorio.append({"id": item["id"], "resultado": "erro", "erro": "sem fonte"})
@@ -603,7 +1046,7 @@ def processar(itens, saida, cache, mostrar=False):
             for i, (tipo_fonte, ext, url) in enumerate(candidatas):
                 base = {"id": item["id"], "fonte": "%s %s" % (tipo_fonte, ext), "arquivo": item["arquivo"]}
                 try:
-                    path = _baixar(url, os.path.join(cache, "%s.%s" % (item["id"], ext)))
+                    path = obter_fonte(item, tipo_fonte, ext, url, cache, conteudo_api)
                     md, rel = montar(item, path, tipo_fonte, ext, url)
                     break
                 except SemTexto as e:
@@ -649,6 +1092,9 @@ def resumo(relatorio):
     for r in relatorio:
         if r.get("resultado") in ("erro", "sem-texto"):
             linhas.append("  %s %s: %s" % (r["resultado"], r["id"], r.get("erro") or r.get("motivo")))
+    for r in relatorio:
+        for a in r.get("avisos", []):
+            linhas.append("  aviso %s: %s" % (r["id"], a))
     return "\n".join(linhas)
 
 
@@ -656,16 +1102,32 @@ def main(argv):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("itens", nargs="?", help="itens.json (modo do piloto)")
     ap.add_argument("pasta", nargs="?", help="pasta de saída (modo do piloto)")
-    ap.add_argument("--camada", type=int, choices=(1, 2))
+    ap.add_argument("--camada", type=int, choices=(1, 2, 4, 5))
     ap.add_argument("--acervo", default="fontes/acervo.json")
+    ap.add_argument("--perimetro", default="fontes/perimetro-camada4.json")
+    ap.add_argument("--acervo-bcb", default="fontes/acervo-bcb.json")
+    ap.add_argument("--cache-bcb", default=CACHE_BCB, help="JSON da API do BCB por norma")
+    ap.add_argument("--acervo-anbima", default="fontes/acervo-anbima.json")
+    ap.add_argument("--acervo-b3", default="fontes/acervo-b3.json")
+    ap.add_argument("--cache-anbima", default=CACHE_PDF["anbima"])
+    ap.add_argument("--cache-b3", default=CACHE_PDF["b3"])
     ap.add_argument("--saida", default="plugins/normas/normas")
     ap.add_argument("--limite", type=int, help="só os N primeiros itens")
     ap.add_argument("--cache", help="padrão: dados/texto-vigente-fontes (camada) ou <pasta>/fontes")
     ap.add_argument("--relatorio", help="padrão: dados/texto-vigente-camada-N.json")
     args = ap.parse_args(argv[1:])
+    def ler(caminho):
+        with open(caminho, encoding="utf-8") as f:
+            return json.load(f)
+
+    if args.camada in (4, 5):
+        acervo = ({"perimetro": ler(args.perimetro), "bcb": ler(args.acervo_bcb)} if args.camada == 4
+                  else {"anbima": ler(args.acervo_anbima), "b3": ler(args.acervo_b3)})
+        itens = itens_do_acervo(acervo, args.camada, cache_bcb=args.cache_bcb,
+                                cache_pdf={"anbima": args.cache_anbima, "b3": args.cache_b3})
     if args.camada:
-        with open(args.acervo, encoding="utf-8") as f:
-            itens = itens_do_acervo(json.load(f), args.camada)
+        if args.camada in (1, 2):
+            itens = itens_do_acervo(ler(args.acervo), args.camada)
         saida, cache = args.saida, args.cache or "dados/texto-vigente-fontes"
         destino_rel = args.relatorio or "dados/texto-vigente-camada-%d.json" % args.camada
     elif args.itens and args.pasta:
