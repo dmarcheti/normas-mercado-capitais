@@ -79,6 +79,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from converter import docx_para_md, normalizar_artigos, ordem_das_notas, textos_das_caixas  # noqa: E402
+import bcb_versoes  # noqa: E402
 import html_bcb  # noqa: E402
 from inventario import USER_AGENT  # noqa: E402
 from inventario_acervo import citadas  # noqa: E402
@@ -359,9 +360,20 @@ def orgaos_conjunta(texto_html):
     return m.group(1).strip() if m else None
 
 
-def preparar_bcb(item):
+def versao_bcb(item, conteudo, documentos):
+    """Decisão HTML x PDF da última versão (bcb_versoes.decidir_fonte): baixa o PDF L para
+    dados/fase-3/bcb-versoes/ e o compara, pelo PDFKit, com o HTML da API sem o tachado."""
+    texto = conteudo.get("Texto") or ""
+    md = sem_tachado_bcb(html_bcb.html_para_md(texto)) if texto.strip() else ""
+    return bcb_versoes.decidir_fonte(item, conteudo, documentos, md, _pdfkit_txt, data_base=DATA_BASE)
+
+
+def preparar_bcb(item, versoes=None):
     """Completa o item da camada 4 com a API: Id e PDFs (fonte_original; fonte da norma sem
-    texto), DOU que faltar e órgãos da Resolução Conjunta. Devolve o conteúdo da API."""
+    texto), DOU que faltar e órgãos da Resolução Conjunta. Devolve o conteúdo da API.
+    Norma com HTML e versão >= 2 em Documentos (Fase 3): se o HTML não cobre o PDF L da última
+    versão (99% nos dois sentidos), a fonte passa a ser esse PDF. `versoes` (padrão versao_bcb)
+    devolve a decisão; o resumo dela fica em item["versao_bcb"] para o relatório."""
     c = (_ler_api_bcb(item).get("conteudo") or [{}])[0]
     if not item.get("dou"):
         from inventario_bcb import data_dou
@@ -379,7 +391,20 @@ def preparar_bcb(item):
             "Resolução Conjunta; órgãos no preâmbulo: %s; o acervo a classifica sob o BCB." % org if org else
             "Resolução Conjunta do BCB com outro órgão; o acervo a classifica sob o BCB "
             "[verificar os órgãos no preâmbulo]."]
-    if item.get("conversor") != "html_bcb":
+    if item.get("conversor") == "html_bcb" and ident:
+        dec = (versoes or versao_bcb)(item, c, documentos_bcb(docs))
+        if dec:
+            item["versao_bcb"] = {k: v for k, v in dec.items() if k != "path"}
+        if dec and dec["decisao"] == "pdf":
+            del item["conversor"]
+            item["fontes"] = {"consolidado": {"pdf": dec["url"]}}
+            item["pdf_bcb"] = {"arquivo": dec["arquivo"], "versao": dec["versao"], "sufixo": dec["sufixo"]}
+            item["cache_pdf"] = dec["path"]
+            item["notas"] = (item.get("notas", []) + [bcb_versoes.incerteza_pdf(dec["versao"], dec["arquivo"])]
+                             + dec.get("notas_vigencia", []))
+            if dec.get("aviso"):
+                item["notas"].append("[verificar] %s." % dec["aviso"])
+    elif item.get("conversor") != "html_bcb":
         ultima = pdf_da_ultima_versao(docs)
         if not ultima or not ident:
             item["sem_texto_motivo"] = (
@@ -620,7 +645,7 @@ def _textutil(origem, formato, destino):
 
 def _pdf_txt(path):
     from pypdf import PdfReader  # dependência opcional
-    return "\n".join(p.extract_text() or "" for p in PdfReader(path).pages)
+    return "\f".join(p.extract_text() or "" for p in PdfReader(path).pages)  # \f: página, como o PDFKit
 
 
 def _pdfkit_txt(path):
@@ -674,10 +699,13 @@ def sem_registro_de_assinaturas(txt):
     return (txt[:m.start()].rstrip() + "\n", True) if m else (txt, False)
 
 
-def converter_pdf(path):
+def converter_pdf(path, limpar=None, legivel=None):
     """(markdown, texto de conferência, conferência independente?); PDF ilegível tenta OCR e,
     sem OCR aceito, levanta SemTexto. Grava o extrator e o OCR em converter_fonte.extras.
-    A página de registro das assinaturas eletrônicas sai dos dois textos (norma e conferência)."""
+    A página de registro das assinaturas eletrônicas sai dos dois textos (norma e conferência);
+    `limpar(txt)` (PDF do BCB: cabeçalho, rodapé e aviso do DOU) também se aplica aos dois;
+    `legivel(txt)`: o texto sobre o qual se mede a legibilidade (padrão: o próprio)."""
+    legivel = legivel or (lambda t: t)
     kit = _pdfkit_txt(path)
     try:
         pyp = _pdf_txt(path)
@@ -689,9 +717,11 @@ def converter_pdf(path):
     pyp = None if pyp is None else normalizar_pdf(pyp)
     kit, corte_kit = sem_registro_de_assinaturas(kit)
     pyp, corte_pyp = sem_registro_de_assinaturas(pyp)
+    if limpar:
+        kit, pyp = limpar(kit), limpar(pyp)
     for nome, txt, conf in (("pdfkit", kit, pyp), ("pypdf", pyp, None)):
-        if txt is not None and motivo_sem_texto(txt) is None:
-            converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(txt),
+        if txt is not None and motivo_sem_texto(legivel(txt)) is None:
+            converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(legivel(txt)),
                                       "assinaturas_retiradas": corte_kit or corte_pyp}
             return _md_pdf(txt), (txt if conf is None else conf), conf is not None
     base = pyp if pyp is not None else kit
@@ -803,13 +833,14 @@ def converter_html_bcb(path):
     return md, _texto_html(html), False
 
 
-def converter_fonte(path, ext, conversor=None):
+def converter_fonte(path, ext, conversor=None, limpar=None, legivel=None):
     """(markdown, texto da fonte para conferência, conferência independente?).
-    PDF ilegível sem OCR aceito levanta SemTexto. `conversor` "html_bcb": HTML da API do BCB."""
+    PDF ilegível sem OCR aceito levanta SemTexto. `conversor` "html_bcb": HTML da API do BCB;
+    `limpar` e `legivel`: limpeza e prova de legibilidade do texto do PDF (converter_pdf)."""
     if conversor == "html_bcb":
         return converter_html_bcb(path)
     if ext == "pdf":
-        return converter_pdf(path)
+        return converter_pdf(path, limpar, legivel) if limpar or legivel else converter_pdf(path)
     if ext == "docx" and not zipfile.is_zipfile(path):
         ext = "doc"  # Word 97 servido com nome .docx: passa pelo textutil
     with tempfile.TemporaryDirectory() as d:
@@ -976,8 +1007,13 @@ def montar(item, path, tipo_fonte, ext, url):
     """(markdown com frontmatter, relatório). PDF ilegível levanta SemTexto."""
     converter_fonte.extras = {}
     conversor = item.get("conversor")
-    md, txt, independente = (converter_fonte(path, ext, conversor) if conversor
-                             else converter_fonte(path, ext))
+    if ext == "pdf" and item.get("orgao") in ("cmn", "bcb") and item.get("numero") is not None:
+        numero = item["numero"]
+        md, txt, independente = converter_fonte(path, ext, limpar=lambda t: bcb_versoes.limpar_pdf(t, numero),
+                                                legivel=bcb_versoes.texto_legivel)
+    else:
+        md, txt, independente = (converter_fonte(path, ext, conversor) if conversor
+                                 else converter_fonte(path, ext))
     extras = converter_fonte.extras
     if extras.get("caixa"):
         item = dict(item, notas=item.get("notas", []) + [
@@ -1007,6 +1043,8 @@ def montar(item, path, tipo_fonte, ext, url):
            "conferencia_independente": independente, "caracteres": len(corpo),
            "palavras_em_caixa_de_texto": extras.get("caixa", 0), "notas_de_rodape": extras.get("notas", 0)}
     rel["baixado_em"] = baixado_em
+    if item.get("versao_bcb"):
+        rel["versao_bcb"] = item["versao_bcb"]
     if item.get("avisos"):
         rel["avisos"] = list(item["avisos"])
     if ext == "pdf":

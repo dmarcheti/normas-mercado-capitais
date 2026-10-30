@@ -35,7 +35,8 @@ from teste_lei import nome_do_arquivo  # noqa: E402
 RAIZ = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 DADOS = os.path.join(RAIZ, "dados")
 FONTES = os.path.join(DADOS, "fontes")
-DOMINIOS = ("www.in.gov.br", "www.planalto.gov.br", "conteudo.cvm.gov.br", "api.github.com")
+DOMINIOS = ("www.in.gov.br", "www.planalto.gov.br", "conteudo.cvm.gov.br", "api.github.com",
+            "normativos.bcb.gov.br")  # PDFs das versões do BCB (Fase 3, scripts/bcb_versoes.py)
 PAUSA = 2.0
 DOU = "https://www.in.gov.br/web/dou/-/"
 BUSCA = "https://www.in.gov.br/consulta/-/buscar/dou?q=%s&s=todos&exactDate=all&sortType=0"
