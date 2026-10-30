@@ -33,6 +33,10 @@ class CpfTest(unittest.TestCase):
         self.assertEqual(pii.limpar("C.P.F. nº " + ruido + "."), "C.P.F. nº " + M + ".")
         self.assertEqual(pii.limpar("CPF: 123 456 " + "789 09"), "CPF: " + M)
 
+    def test_cpf_me_com_hifen_depois_do_numero(self):
+        self.assertEqual(pii.limpar("inscrito no CPF/ME sob o nº-%s, com" % CPF_FMT),
+                         "inscrito no CPF/ME sob o nº-%s, com" % M)
+
     def test_cnpj_fica(self):
         t = "inscrita no CNPJ sob o nº %s, com sede na Rua A, 10" % CNPJ_FMT
         self.assertEqual(pii.limpar(t), t)

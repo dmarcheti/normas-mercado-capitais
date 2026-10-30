@@ -201,6 +201,18 @@ class MontarTest(unittest.TestCase):
         # o item de 2002 não vira TC
         self.assertEqual(self.por_id["cvm-col-20020416-d09"]["tipo"], "decisao-colegiado")
 
+    def test_data_da_listagem_contra_url_normalizada(self):
+        self.assertFalse([x for r in self.regs for x in r["incerteza"] if "difere da URL" in x])
+        col = ji.ler_artigos(artigo("/decisoes/2020/20200915_R1/20200915_D1913.html", "CONSULTA",
+                                    "16/09/2020") +
+                             artigo("/decisoes/2021/20210105_R1/20210105_D0001.html", "CONSULTA",
+                                    ""))
+        regs, _ = ji.montar([], col, [], [], [], {}, {})
+        por = {r["id"]: r for r in regs}
+        self.assertIn("data da listagem 2020-09-16 difere da URL 2020-09-15",
+                      por["cvm-col-20200915-d1913"]["incerteza"])
+        self.assertEqual(por["cvm-col-20210105-d0001"]["data"], "2021-01-05")
+
     def test_tc_rejeitado_sem_link_fica_pendente(self):
         r = self.por_id["cvm-tc-19957-000999-2016-10-20190219"]
         self.assertTrue(r["fonte_pendente"])

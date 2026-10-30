@@ -33,8 +33,8 @@ def _dv_cpf_ok(d):
 _CPF_FMT = re.compile(r"(?<![\w./-])\d{3}\s?[.,]\s?\d{3}\s?[.,]\s?\d{3}\s?[-–]\s?\d{2}(?![\w/])")
 # CPF rotulado ("CPF/MF nº", "C.P.F.", "CIC", "inscrito no CPF sob o nº"), número com ruído.
 _CPF_ROT = re.compile(
-    r"(?:\bCPF|\bC\.\s?P\.\s?F\.?|\bCIC)(?:\s*[/I]\s*M\.?F\.?)?\s*(?:[:\-–]\s*)?"
-    r"(?:(?:sob\s+o\s+)?(?:n[º°o'’]\.?|n\.|número)\s*)?[:\s]*"
+    r"(?:\bCPF|\bC\.\s?P\.\s?F\.?|\bCIC)(?:\s*[/I]\s*M\.?[FE]\.?)?\s*(?:[:\-–]\s*)?"
+    r"(?:(?:sob\s+o\s+)?(?:n[º°o'’]\.?|n\.|número)\s*)?[:\s\-–]*"
     r"(" + _D + r"(?:[\s.,\-–/]{0,2}" + _D + r"){7,11}[\s.,\-–/]{0,2}\d)(?![0-9])", re.I)
 # CPF só com dígitos: 11 dígitos soltos com dígito verificador válido.
 _CPF_PURO = re.compile(r"(?<![\w./-])\d{11}(?![\w/])")

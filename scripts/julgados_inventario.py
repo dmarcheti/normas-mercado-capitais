@@ -346,6 +346,7 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
             continue
         try:
             data_url, _, reuniao = jc.slug_colegiado(chave)
+            data_url = "%s-%s-%s" % (data_url[:4], data_url[4:6], data_url[6:])  # ISO, como a listagem
             base = jc.id_colegiado(chave)
         except ValueError:
             resumo["colegiado_url_fora_do_padrao"] += 1

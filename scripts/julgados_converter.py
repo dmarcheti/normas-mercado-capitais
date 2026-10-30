@@ -113,7 +113,7 @@ def _cabecalho(linha):
     return None
 
 
-def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA):
+def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA, retirado=None):
     """Junta as páginas sem as linhas (de 8 caracteres ou mais) que aparecem em `minimo` ou mais
     páginas, com os números trocados por # (cabeçalho e rodapé com número de página).
     Cabeçalho de peça fica. Devolve (texto, nº de linhas retiradas)."""
@@ -130,10 +130,84 @@ def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA):
         for linha in p.splitlines():
             if len(linha.strip()) >= 8 and chave(linha) in fora and not _cabecalho(linha):
                 retiradas += 1
+                if retirado is not None:
+                    retirado.append(linha)
                 continue
             saida.append(linha.rstrip())
         saida.append("")
     return "\n".join(saida), retiradas
+
+
+# Timbre e rodapé da CVM e do SEI, por padrão explícito: valem também nas páginas por OCR e
+# nos PDFs curtos, onde a regra da linha repetida não alcança. Saem antes do pii.py (o telefone
+# da CVM não é dado pessoal).
+_CEP_CVM = r"(?:20050-901|01333-010|70712-900)"
+_SEDE_CVM = (r"(?:Rua\s+Sete\s+de\s+Setembro,?\s*111|Rua\s+Cincinato\s+Braga,?\s*340|"
+             r"SCN\s*Q\.?\s*0?2\b|Corporate\s+Financial\s+Center)")
+_TEL_CVM = r"\(?\b(?:21|11|61)\)?\s*(?:3554|2146|3327)[-.\s]?\d{4}(?:\s*/\s*\d{4})?"
+_LINHA_TIMBRE = re.compile(
+    r".*%s.*|.*%s.*(?:Andar|CEP|Tel|Brasil).*|" % (_CEP_CVM, _SEDE_CVM)
+    + r"(?:(?:Site|Tel\.?|Fax|Telefone|SAC|Ouvidoria)[:.\s]*|www\.cvm\.gov\.br/?|https?://www\.cvm"
+      r"\.gov\.br/?|%s|[\s|•–—,;/-])+|" % _TEL_CVM
+    + r"SEI/CVM\s*-\s*\d{5,9}\s*-\s.{0,160}|"
+      r"https?://sei\.cvm\.gov\.br/sei/controlador\.php\S*|"
+      r"\d{1,3}\s+(?:of|de)\s+\d{1,3}\s+\d{2}/\d{2}/\d{4},?\s+\d{1,2}:\d{2}(?::\d{2})?|"
+      r".{0,100}\(\d{6,9}\)\s*SEI\s*[\d./\s-]{10,30}/\s*pg\.?\s*\d+|"
+      r"COMISS[ÃA]O\s+DE\s+VALORES\s+MOBILI[ÁA]RIOS", re.I)
+_FRAGMENTO_TIMBRE = "COMISSÃO DE VALORES MOBILIÁRIOS"
+_SPANS_SEI = (
+    re.compile(r"Documento\s+assinado\s+eletronicamente\s+por\s.{1,300}?(?:Decreto\s+n\S*\s*8\.539"
+               r"(?:,?\s*de\s+8\s+de\s+outubro\s+de\s+2015)?|de\s+8\s+de\s+outubro\s+de\s+2015)\.?",
+               re.S | re.I),
+    re.compile(r"Documento\s+assinado\s+eletronicamente\s+por\s[^\n]{1,200}?,\s*em\s+\d{1,2}/\d{1,2}/"
+               r"\d{4}(?:,?\s+[àa]s\s+\d{1,2}:\d{2})?\.?", re.I),
+    re.compile(r"A\s+autenticidade\s+(?:deste|do)\s+documento\s+pode\s+ser\s+conferida.{1,300}?"
+               r"c[óo]digo\s+CRC[\s*_\"]{0,10}[0-9A-F]+[*_\"]*\.?[*_]*", re.S | re.I),
+    re.compile(r"This\s+document'?s\s+authenticity\s+can\s+be\s+verified.{1,300}?C[óo]digo\s+CRC"
+               r"[\s*_\"]{0,10}[0-9A-F]+[*_\"]*\.?[*_]*", re.S | re.I),
+    re.compile(r"Refer[êe]ncia:\s*Processo\s+n\S*\s*[\d./-]+\s+SEI\s+n\S*\s*\d+\.?", re.I),
+)
+
+
+def _linha_de_timbre(linha):
+    s = re.sub(r"\s+", " ", linha.strip())
+    if not s:
+        return False
+    if len(s) >= 5 and s.upper() == s and s in _FRAGMENTO_TIMBRE and re.search(r"[A-ZÀ-Ý]{3}", s):
+        return True  # pedaço do logotipo lido pelo OCR ("VALORES", "MOBILIÁRIOS")
+    return bool(_LINHA_TIMBRE.fullmatch(s)) and bool(re.search(r"[A-Za-z0-9]", s))
+
+
+def tirar_timbre(texto, retirado=None):
+    """Texto sem o timbre e o rodapé da CVM e do SEI: endereços das sedes, CEPs, telefones e site
+    da CVM; "Documento assinado eletronicamente por ...", "A autenticidade deste documento ...",
+    "Referência: Processo nº ... SEI nº ..." (o número SEI citado no meio do texto fica);
+    cabeçalho e rodapé da impressão do SEI. Devolve (texto, nº de trechos retirados)."""
+    retirado = [] if retirado is None else retirado
+    n0 = len(retirado)
+    for rx in _SPANS_SEI:
+        partes, ini = [], 0
+        for m in rx.finditer(texto):
+            a, b = m.start(), m.end()
+            ls = texto.rfind("\n", 0, a) + 1
+            if not texto[ls:a].strip(" \t*_"):
+                a = ls
+            le = texto.find("\n", b)
+            le = len(texto) if le < 0 else le
+            if not texto[b:le].strip(" \t*_."):
+                b = min(le + 1, len(texto))
+            partes.append(texto[ini:a])
+            retirado.append(texto[a:b])
+            ini = b
+        partes.append(texto[ini:])
+        texto = "".join(partes)
+    linhas = []
+    for linha in texto.split("\n"):
+        if _linha_de_timbre(linha):
+            retirado.append(linha)
+        else:
+            linhas.append(linha)
+    return "\n".join(linhas), len(retirado) - n0
 
 
 def _escapar(linha):
@@ -304,9 +378,26 @@ def citacoes(texto):
         ids = _CITACOES["ids"]
         lista = cit.extrair_citacoes(texto, ids)
         normas = cit.formatar_normas_citadas(lista, cit.normas_mencionadas(texto, ids))
-        return normas, cit.formatar_dispositivos_citados(lista), ""
+        disp = cit.formatar_dispositivos_citados(lista)
     except Exception as e:  # noqa: BLE001 — módulo ausente ou em obras: campos vazios
         return "", "", "citações não extraídas (%s)" % type(e).__name__
+    return _sem_fora_sem_numero(normas, disp)
+
+
+def _sem_fora_sem_numero(normas, disp):
+    """Guarda: rótulo `fora:` sempre leva número (fora:lei-9784). Sem número, sai da lista de
+    normas e dos dispositivos, com aviso."""
+    def ruim(x):
+        x = x.strip()
+        return x.startswith("fora:") and not re.search(r"\d", x.split("#")[0].split(" ")[0])
+    itens_n = [x for x in normas.split(";") if x.strip()] if normas else []
+    itens_d = [x for x in disp.split(";") if x.strip()] if disp else []
+    tirados = [x.strip() for x in itens_n + itens_d if ruim(x)]
+    if not tirados:
+        return normas, disp, ""
+    n = "; ".join(x.strip() for x in itens_n if not ruim(x))
+    d = "; ".join(x.strip() for x in itens_d if not ruim(x))
+    return n, d, "rótulo fora: sem número descartado (%s)" % ", ".join(sorted(set(tirados)))
 
 
 # ---------------------------------------------------------------- cobertura
@@ -316,14 +407,62 @@ def _palavras(texto):
     return set(re.findall(r"[a-zà-ÿ0-9]{4,}", (texto or "").lower()))
 
 
-def cobertura(referencia, saida):
+def _compacto(texto):
+    t = re.sub(r"\s+", "", (texto or "").lower())
+    return t, t.replace("-", "").replace("­", "")
+
+
+def medir(referencia, saida, retirado="", antes_pii=""):
+    """Cobertura das palavras (4+ letras) da referência na saída. Palavra ausente que é pedaço de
+    texto da saída sem espaços conta como coberta (o extrator parte ou cola palavras); a que está
+    no timbre/rodapé retirado vai para `retiradas`, e a cortada pelo pii.py para `pii`, fora da
+    conta. Devolve {cobertura, palavras, retiradas, pii, faltam (até 20)}."""
     ref = _palavras(referencia)
     if not ref:
-        return None
-    return round(len(ref & _palavras(saida)) / len(ref), 4)
+        return {"cobertura": None, "palavras": 0, "fragmentos": 0, "retiradas": 0, "pii": 0,
+                "faltam": []}
+    fora = sorted(ref - _palavras(saida))
+    comp = _compacto(saida)
+    n_fora = len(fora)
+    fora = [w for w in fora if w not in comp[0] and w not in comp[1]]
+    fragmentos = n_fora - len(fora)
+    ret_p, ret_c = _palavras(retirado), _compacto(retirado)
+    retiradas = [w for w in fora if w in ret_p or w in ret_c[0] or w in ret_c[1]]
+    fora = [w for w in fora if w not in set(retiradas)]
+    pii_p, pii_c = _palavras(antes_pii), _compacto(antes_pii)
+    cortadas = [w for w in fora if w in pii_p or w in pii_c[0]]
+    fora = [w for w in fora if w not in set(cortadas)]
+    base = len(ref) - len(retiradas) - len(cortadas)
+    return {"cobertura": round((base - len(fora)) / base, 4) if base else None,
+            "palavras": len(ref), "fragmentos": fragmentos, "retiradas": len(retiradas),
+            "pii": len(cortadas),
+            "faltam": fora[:20]}
 
 
-def conferir(arq, caminho, motor, saida):
+def cobertura(referencia, saida):
+    return medir(referencia, saida)["cobertura"]
+
+
+def regiao_html(html, regiao):
+    """Trecho da página que o conversor usa: `artigo` (o <article> sem a caixa de anexos),
+    `pas` (título, data e ementa da página do PAS) ou `sei` (corpo do extrato, sem imagens)."""
+    if regiao == "pas":
+        corpo = artigo(html)
+        partes = re.findall(r"<h2[^>]*>.*?</h2>", corpo, re.S | re.I)
+        d = re.search(r"Data da Sess[ãa]o de julgamento</b>(.*?)</p>", corpo, re.S | re.I)
+        e = re.search(r"<b>\s*Ementa\s*</b>(.*?)(?:<div|</section)", corpo, re.S | re.I)
+        if d:
+            partes.append(_data_cvm(_txt(d.group(1))) or "")
+        if e:
+            partes.append(e.group(1))
+        return " ".join(partes)
+    if regiao == "sei":
+        m = re.search(r"<body\b[^>]*>(.*)</body>", html, re.S | re.I)
+        return re.sub(r"<img\b[^>]*>", "", m.group(1) if m else html, flags=re.I)
+    return _VEJA_MAIS.sub("", artigo(html))
+
+
+def conferir(arq, caminho, motor, saida, regiao="artigo", retirado="", antes_pii=""):
     """Cobertura de um arquivo da fonte por extrator independente do usado na conversão."""
     if caminho.lower().endswith(".pdf"):
         if motor == "pypdf":
@@ -335,12 +474,13 @@ def conferir(arq, caminho, motor, saida):
                     type(e).__name__}
         if pags is None:
             return {"arquivo": arq, "cobertura": None, "conferencia": "sem conferência independente"}
-        return {"arquivo": arq, "cobertura": cobertura(" ".join(pags), saida),
-                "conferencia": "pypdf"}
+        return dict({"arquivo": arq, "conferencia": "pypdf"},
+                    **medir(" ".join(pags), saida, retirado, antes_pii))
     with open(caminho, "rb") as f:
         html = jc.decodificar(f.read())
-    return {"arquivo": arq, "cobertura": cobertura(texto_html_independente(artigo(html)), saida),
-            "conferencia": "html.parser"}
+    ref = texto_html_independente(regiao_html(html, regiao))
+    return dict({"arquivo": arq, "conferencia": "html.parser"},
+                **medir(ref, saida, retirado, antes_pii))
 
 
 # ---------------------------------------------------------------- conversão
@@ -373,8 +513,10 @@ class Conversao:
         self.pasta, self.pm = pasta, pm
         self.secoes, self.avisos, self.conferencias = [], [], []
         self.nivel, self.paginas_ocr, self.linhas_repetidas = "html-convertido", 0, 0
-        self._fontes = []  # (arquivo, caminho, motor)
+        self._fontes = []  # (arquivo, caminho, motor, região do HTML)
         self.brutos = []  # texto dos PDFs antes de tirar as repetidas (relator, data)
+        self.retirado = []  # linhas e trechos de timbre e rodapé retirados
+        self.trechos_timbre = 0
 
     def _subir(self, nivel):
         if _NIVEL_ORDEM[nivel] > _NIVEL_ORDEM[self.nivel]:
@@ -388,18 +530,24 @@ class Conversao:
         self._subir(nivel)
         self.paginas_ocr += n_ocr
         self.avisos += ["%s: %s" % (arq["arquivo"], a) for a in avisos]
-        self._fontes.append((arq["arquivo"], self.caminho(arq), motor))
+        self._fontes.append((arq["arquivo"], self.caminho(arq), motor, None))
         self.brutos.append("\n".join(paginas))
         if limpar_repetidas:
-            texto, n = tirar_repetidas(paginas)
+            texto, n = tirar_repetidas(paginas, retirado=self.retirado)
             self.linhas_repetidas += n
-            return texto
-        return "\n".join(paginas)
+        else:
+            texto = "\n".join(paginas)
+        return self.timbre(texto)
 
-    def html(self, arq):
+    def timbre(self, texto):
+        texto, n = tirar_timbre(texto, self.retirado)
+        self.trechos_timbre += n
+        return texto
+
+    def html(self, arq, regiao="artigo"):
         with open(self.caminho(arq), "rb") as f:
             dados = f.read()
-        self._fontes.append((arq["arquivo"], self.caminho(arq), "html"))
+        self._fontes.append((arq["arquivo"], self.caminho(arq), "html", regiao))
         return jc.decodificar(dados, {"content-type": arq.get("content_type", "")})
 
     def documento(self, arq, secao_padrao):
@@ -408,13 +556,16 @@ class Conversao:
         if arq["arquivo"].lower().endswith(".pdf"):
             segs = segmentar(self.pdf(arq))
             return [(secao_padrao if s == "Texto" else s, t) for s, t in segs]
-        html = self.html(arq)
-        md = sei_para_md(html) if "sei.cvm.gov.br" in arq["url"] or arq["papel"] in (
-            "termo", "sei") else html_bcb.html_para_md(artigo(html)).strip()
+        sei = "sei.cvm.gov.br" in arq["url"] or arq["papel"] in ("termo", "sei")
+        html = self.html(arq, "sei" if sei else "artigo")
+        md = sei_para_md(html) if sei else html_bcb.html_para_md(artigo(html)).strip()
+        md = self.timbre(md).strip()
         return [(secao_padrao, md)] if md else []
 
-    def conferir(self, saida):
-        self.conferencias = [conferir(a, c, m, saida) for a, c, m in self._fontes]
+    def conferir(self, saida, antes_pii=""):
+        ret = "\n".join(self.retirado)
+        self.conferencias = [conferir(a, c, m, saida, r or "artigo", ret, antes_pii)
+                             for a, c, m, r in self._fontes]
 
 
 def _arquivos(reg, *papeis):
@@ -429,7 +580,7 @@ def _montar_corpo(titulo, secoes, nivel_secao="##"):
     return "\n\n".join(partes).strip() + "\n"
 
 
-_ATA = re.compile(r"ATA DA REUNI[ÃA]O(?: [A-ZÇÃÁÉÍÓÚÊÔ]+)? DO COLEGIADO(?: N[º°o]\.?\s*\d+)?"
+_ATA = re.compile(r"ATA DA REUNI[ÃA]O(?: [A-ZÇÃÁÉÍÓÚÊÔ]+)? D[OE] COLEGIADO(?: N[º°o]\.?\s*\d+)?"
                   r" DE (\d{1,2})\.(\d{1,2})\.(\d{2,4})")
 _PARTICIPANTE = re.compile(r"^[A-ZÀ-Ý][A-ZÀ-Ý .'\-]+\s+[–-]\s+(?:Presidente|Diretora?|"
                            r"Superintendente|Procurador)", re.I)
@@ -496,7 +647,7 @@ def converter_item(item, pasta, pm=pdf_macos):
 
     if tipo == "pas":
         if principal["papel"] == "pagina":
-            titulo, d, ementa_pag = pas_da_pagina(cv.html(principal))
+            titulo, d, ementa_pag = pas_da_pagina(cv.html(principal, "pas"))
             data = d or data
         else:
             ementa_pag = ""
@@ -514,6 +665,7 @@ def converter_item(item, pasta, pm=pdf_macos):
             m = re.search(r"(?m)^\s*Ementa:\s*(.+(?:\n(?!\s*\n).+)*)", texto)
             ementa_pag = m.group(1) if m else ""
         ementa, fonte_ementa = jc.ementa_sem_partes(ementa_pag), "cvm"
+        cv.retirado.append(ementa_pag)  # nomes das partes que saem da ementa não são falta
         if not ementa:
             ementa, fonte_ementa = jc.ementa_de_titulo(item.get("titulo", "")), "titulo"
         if not pdfs:
@@ -547,6 +699,7 @@ def converter_item(item, pasta, pm=pdf_macos):
 
     elif principal["papel"] == "pagina":  # Colegiado e TC com item do Colegiado
         titulo, d, rel, md = colegiado_da_pagina(cv.html(principal))
+        md = cv.timbre(md).strip()
         data, relator = d or data, rel or relator
         secoes = [("Decisão", md)] if md else []
         for arq in _arquivos(reg, "anexo"):
@@ -573,6 +726,7 @@ def converter_item(item, pasta, pm=pdf_macos):
 
     if tipo != "decisao-antiga":
         corpo_md = _montar_corpo(titulo, secoes)
+    antes_pii = corpo_md
     corpo_md, cortes = pii.limpar_contando(corpo_md)
     if not re.search(r"(?m)^## ", corpo_md):
         corpo_md = corpo_md.rstrip("\n") + "\n\n## Texto\n"
@@ -580,6 +734,8 @@ def converter_item(item, pasta, pm=pdf_macos):
     cv.pii = cortes
     if cv.linhas_repetidas:
         cv.avisos.append("%d linha(s) de cabeçalho/rodapé retiradas" % cv.linhas_repetidas)
+    if cv.trechos_timbre:
+        cv.avisos.append("%d trecho(s) de timbre/rodapé da CVM e do SEI retirados" % cv.trechos_timbre)
 
     normas, disp, aviso = citacoes(corpo_md)
     if aviso:
@@ -588,7 +744,7 @@ def converter_item(item, pasta, pm=pdf_macos):
         res = resultado(tipo, corpo_md, item)
     else:
         res = ""
-    cv.conferir(corpo_md)
+    cv.conferir("\n".join([corpo_md, ementa, data or "", relator]), antes_pii)
     baixas = [c for c in cv.conferencias if c["cobertura"] is not None
               and c["cobertura"] < COBERTURA_BAIXA]
     if baixas:

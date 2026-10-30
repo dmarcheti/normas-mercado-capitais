@@ -170,7 +170,7 @@ class ConverterTest(unittest.TestCase):
         for fora in ("Rua das Acácias", "Fulana Exemplo", "base64", "Decisão do colegiado de",
                      "Consulte a Ata"):
             self.assertNotIn(fora, corpo)
-        self.assertIn("Presidente Exemplo", corpo)  # assinatura de autoridade fica
+        self.assertNotIn("Documento assinado eletronicamente", corpo)  # rodapé do SEI sai
         self.assertIn("19957.000789/2022-10", corpo)  # célula da tabela do SEI vira texto
         self.assertEqual((valores["relator"], valores["data"], valores["resultado"]),
                          ("SGE", "2025-12-02", "aceito"))
@@ -213,6 +213,7 @@ class ConverterTest(unittest.TestCase):
         self.assertEqual(valores["fonte_original"], PDF_PAS)
         self.assertEqual(valores["sha256_fonte"], hashlib.sha256(b"%PDF-pas").hexdigest())
         self.assertIn("1 página(s) por OCR", valores["incerteza"])
+        self.assertEqual([f[3] for f in cv._fontes if f[0] == "01-pagina.html"], ["pas"])
         pdf = [c for c in cv.conferencias if c["arquivo"] == "02-pdf.pdf"][0]
         self.assertEqual(pdf["conferencia"], "pypdf")
         self.assertGreater(pdf["cobertura"], 0.6)
@@ -295,6 +296,135 @@ class ConverterTest(unittest.TestCase):
     def test_sem_cache_e_erro(self):
         with self.assertRaises(ValueError):
             conv.converter_item(PAS, self.pasta(PAS), PdfFalso({}))
+
+
+TEL = "(21) 3554-" + "8686"  # telefone da sede da CVM, montado em partes
+
+
+class TimbreTest(unittest.TestCase):
+    def test_endereco_cep_telefone_e_site_da_cvm_saem_antes_do_pii(self):
+        texto = ("COMISSÃO DE VALORES MOBILIÁRIOS\n"
+                 "Rua Sete de Setembro, 111/2-5º e 23-34º Andares, Centro, Rio de Janeiro/RJ – "
+                 "CEP: 20050-901 – Brasil - Tel.: " + TEL + "\n"
+                 "Rua Cincinato Braga, 340/2º, 3º e 4º Andares, Bela Vista, São Paulo/SP – CEP: "
+                 "01333-010 – Brasil - Tel.: (11) 2146-2000\n"
+                 "SCN Q.02 – Bl. A – Ed. Corporate Financial Center, S.404/4º Andar, Brasília/DF – "
+                 "CEP: 70712-900 – Brasil -Tel.: (61) 3327-2030/2031\n"
+                 "www.cvm.gov.br\n"
+                 "O Colegiado aprovou o voto do relator.")
+        limpo, n = conv.tirar_timbre(texto)
+        self.assertEqual(limpo.strip(), "O Colegiado aprovou o voto do relator.")
+        self.assertEqual(n, 5)
+        corpo, cortes = conv.pii.limpar_contando(limpo)
+        self.assertNotIn(jc.PII, corpo)
+
+    def test_rodape_do_sei_em_linhas_quebradas_e_numero_sei_no_texto_fica(self):
+        texto = ("Conforme o despacho SEI nº 0284733, o processo segue.\n"
+                 "Documento assinado eletronicamente por Fulano Exemplo, Superintendente, em\n"
+                 "03/10/2018, às 12:22, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de "
+                 "outubro de 2015.\n"
+                 "A autenticidade deste documento pode ser conferida no site\n"
+                 "https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador "
+                 "0594322 e o código CRC 3F2A9B1C.\n"
+                 "Referência: Processo nº 19957.001067/2017-47 SEI nº 0594322\n"
+                 "Fim do extrato.")
+        retirado = []
+        limpo, n = conv.tirar_timbre(texto, retirado)
+        self.assertIn("SEI nº 0284733", limpo)
+        self.assertIn("Fim do extrato.", limpo)
+        for fora in ("assinado", "autenticidade", "CRC", "Referência", "Fulano"):
+            self.assertNotIn(fora, limpo)
+        self.assertEqual(n, 3)
+        self.assertTrue(any("Fulano" in r for r in retirado))
+
+    def test_rodape_do_sei_em_markdown(self):
+        texto = ("CLÁUSULA FINAL. Vale o acordo.\n\n"
+                 "Documento assinado eletronicamente por **Fulano Exemplo**, **Presidente**, em "
+                 "10/01/2024, às 18:01, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 "
+                 "de outubro de 2015.\n\n"
+                 "A autenticidade do documento pode ser conferida no site "
+                 "https://sei.cvm.gov.br/conferir_autenticidade, informando o código verificador "
+                 "**1987436** e o código CRC **87D15CC0**.\n\n"
+                 "*This document's authenticity can be verified by accessing "
+                 "https://sei.cvm.gov.br/conferir_autenticidade, and typing the \"Código "
+                 "Verificador\"* ***1987436*** *and the \"Código CRC\"* ***87D15CC0****.*\n")
+        limpo, n = conv.tirar_timbre(texto)
+        self.assertEqual(limpo.strip(), "CLÁUSULA FINAL. Vale o acordo.")
+        self.assertEqual(n, 3)
+
+    def test_impressao_do_sei_e_logotipo_do_ocr(self):
+        texto = ("SEI/CVM - 0594322 - Extrato de Sessão de Julgamento "
+                 "https://sei.cvm.gov.br/sei/controlador.php?acao=documento_imprimir_web&id=1\n"
+                 "1 of 2 03/10/2018 12:22\n"
+                 "Extrato de Sessão de Julgamento (0594322) SEI 19957.001067/2017-47 / pg. 1\n"
+                 "ÁRIOS\nVALORES\nSSÃO DE\n"
+                 "O Diretor VALORES votou.\nCVM")
+        limpo, _ = conv.tirar_timbre(texto)
+        self.assertEqual(limpo.strip(), "O Diretor VALORES votou.\nCVM")
+
+    def test_pdf_tira_timbre_tambem_sem_regra_de_repetidas(self):
+        pasta = tempfile.mkdtemp()
+        with open(os.path.join(pasta, "a.pdf"), "wb") as f:
+            f.write(b"%PDF")
+        cv = conv.Conversao(pasta, PdfFalso({"a.pdf": "Texto da ata.\nwww.cvm.gov.br\n"}))
+        with mock.patch.object(conv, "_pypdf_paginas", return_value=None):
+            texto = cv.pdf({"arquivo": "a.pdf", "url": "u", "papel": "documento"},
+                           limpar_repetidas=False)
+        self.assertNotIn("cvm.gov.br", texto)
+        self.assertEqual((cv.trechos_timbre, cv.retirado), (1, ["www.cvm.gov.br"]))
+
+    def test_ata_extraordinaria_de_colegiado(self):
+        atas = conv.decisoes_antigas(
+            "ATA DA REUNIÃO EXTRAORDINÁRIA DE COLEGIADO DE 05.03.1991\nPARTICIPANTES:\n"
+            "FULANO EXEMPLO – Presidente\nRECURSO CONTRA DECISÃO DA SEP\nO Colegiado decidiu.\n")
+        self.assertEqual(len(atas), 1)
+        self.assertEqual(atas[0][1], "1991-03-05")
+
+
+class CitacoesGuardaTest(unittest.TestCase):
+    def test_fora_sem_numero_sai_com_aviso(self):
+        falso = mock.MagicMock()
+        falso.carregar_ids.return_value = set()
+        falso.formatar_normas_citadas.return_value = "fora:lei; fora:lei-9784; lei-6385"
+        falso.formatar_dispositivos_citados.return_value = "fora:lei art. 2º; lei-6385 art. 11"
+        conv._CITACOES.clear()
+        try:
+            with mock.patch.dict(sys.modules, {"citacoes": falso}):
+                normas, disp, aviso = conv.citacoes("texto")
+        finally:
+            conv._CITACOES.clear()
+        self.assertEqual(normas, "fora:lei-9784; lei-6385")
+        self.assertEqual(disp, "lei-6385 art. 11")
+        self.assertIn("fora:lei", aviso)
+
+
+class CoberturaTest(unittest.TestCase):
+    def test_pdf_palavra_partida_ou_colada_conta_como_coberta(self):
+        m = conv.medir("responsabilidade administrativa", "respon sabilidade adminis-\ntrativa")
+        self.assertEqual((m["cobertura"], m["faltam"], m["fragmentos"]), (1.0, [], 2))
+
+    def test_retiradas_e_pii_fora_da_conta(self):
+        ref = "decisao colegiado setembro sete telefone fulano beltrano"
+        m = conv.medir(ref, "decisao colegiado", retirado="Rua Sete de Setembro telefone",
+                       antes_pii="decisao colegiado fulano")
+        self.assertEqual((m["retiradas"], m["pii"], m["faltam"]), (3, 1, ["beltrano"]))
+        self.assertEqual(m["cobertura"], round(2 / 3, 4))
+
+    def test_html_compara_so_a_regiao_usada(self):
+        html = ("<html><nav>Menu Institucional Legislação Ouvidoria</nav>"
+                "<article class=\"contentTextoGeral\"><h2>02/12/2025</h2>"
+                "<p>O Colegiado deliberou aceitar a proposta.</p>"
+                "<div class=\"contentVejaMais\">Consulte anexos relacionados</div></article>"
+                "<footer>Rodapé portal governo</footer></html>")
+        ref = conv.texto_html_independente(conv.regiao_html(html, "artigo"))
+        self.assertNotIn("Menu", ref)
+        self.assertNotIn("Consulte", ref)
+        self.assertIn("deliberou", ref)
+        m = conv.medir(ref, "2025-12-02 O Colegiado deliberou aceitar a proposta.")
+        self.assertEqual(m["cobertura"], 1.0)
+        pas = conv.regiao_html(fixture("pas-pagina.html").decode("utf-8"), "pas")
+        self.assertIn("2025-05-27", pas)
+        self.assertNotIn("Data da Sess", pas)
 
 
 class MainTest(unittest.TestCase):

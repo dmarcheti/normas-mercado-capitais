@@ -115,3 +115,16 @@ class TestCpfERg(unittest.TestCase):
 
     def test_rotulo_de_formulario_passa(self):
         self.assertEqual(varrer({"a.md": "CPF/CNPJ: RG: RG: Endereço:"}, []), [])
+
+
+class TestJulgados(unittest.TestCase):
+    def test_cnpj_liberado_so_nos_julgados(self):
+        cnpj = "60.701.190/" + "0001-04"
+        txt = "Banco X, CNPJ " + cnpj
+        self.assertEqual(varrer({"plugins/julgados-pas/julgados/cvm/pas/2023/x.md": txt}, []), [])
+        self.assertEqual(varrer({"plugins/normas/normas/x.md": txt}, []), ["plugins/normas/normas/x.md: " + cnpj])
+
+    def test_termo_e_cpf_continuam_nos_julgados(self):
+        arq = "plugins/julgados-pas/julgados/cvm/pas/2023/x.md"
+        self.assertEqual(varrer({arq: "caso da Fulana Ltda"}, ["Fulana"]), [arq + ": Fulana"])
+

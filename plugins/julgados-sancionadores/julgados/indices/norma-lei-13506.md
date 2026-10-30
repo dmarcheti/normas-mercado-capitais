@@ -1,0 +1,14 @@
+# Julgados que citam Lei nº 13.506/2017
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.001067/2017-47; RJ2017/490 | 2018-07-24 | condenacao | — | Não elaboração de demonstrações financeiras – não envio à CVM de informações periódicas obrigatórias – não convocação de Assembleia Geral Ordinária. Infração aos arts. 132 c/c 142, IV e 176 da Lei nº 6.404/76. Infração aos arts. 21, incisos III e V, e art. 25, §2º da Instrução CVM nº 480/09. Multas. | cvm/pas/2018/19957-001067-2017-47.md |

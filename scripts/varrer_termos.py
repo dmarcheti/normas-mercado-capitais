@@ -69,6 +69,12 @@ def _padrao_termo(termo):
     return re.compile(r"(?<!\w)" + re.escape(termo) + r"(?!\w)", re.IGNORECASE)
 
 
+# Julgados (Fase 2d): texto gerado por script a partir das fontes da CVM e do CRSFN, que citam
+# CNPJ de empresas aos milhares; a lista fechada não escala. A regra de CNPJ não vale nessas
+# pastas; CPF, RG e a lista de termos continuam valendo (decisão C do plano da Fase 2d).
+PASTA_JULGADOS = re.compile(r"^plugins/julgados-[a-z0-9-]+/julgados/")
+
+
 def varrer(textos, termos):
     """Devolve os achados no formato "arquivo: termo", em ordem estável.
 
@@ -80,7 +86,7 @@ def varrer(textos, termos):
     for arquivo in sorted(textos):
         texto = textos[arquivo]
         vistos = set()
-        for m in CNPJ.finditer(texto):
+        for m in ([] if PASTA_JULGADOS.match(arquivo) else CNPJ.finditer(texto)):
             if len(set(re.sub(r"\D", "", m.group(0)))) == 1:
                 continue  # 99999999999999: exemplo de CNPJ inválido citado em norma, não é CNPJ
             if re.sub(r"\D", "", m.group(0)) in CNPJS_PUBLICOS:
