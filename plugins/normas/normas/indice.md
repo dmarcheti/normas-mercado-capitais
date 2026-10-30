@@ -27,3 +27,8 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 | Autorregulação ANBIMA | 38 | [indices/anbima.md](indices/anbima.md) |
 | Autorregulação B3 | 59 | [indices/b3.md](indices/b3.md) |
 | Atos alteradores (texto integral do ato) | 58 | [indices/alteradoras.md](indices/alteradoras.md) |
+
+## Citações e julgados
+
+- [indices/citacoes.md](indices/citacoes.md): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de autorregulação do acervo que o citam (70 norma(s) citada(s); extração por script).
+- Os julgados da CVM e do CRSFN ficam nos plugins `julgados-*`. Julgado não é norma: diz o que se decidiu num caso, com a redação da época.

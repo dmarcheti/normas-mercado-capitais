@@ -1,0 +1,126 @@
+# Citações: Lei nº 6.404/1976
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `normas/` (a pasta do `indice.md`).
+
+Pareceres, ofícios-circulares e documentos de autorregulação do acervo que citam esta norma, por dispositivo. Extração por script (regex), sem conferência manual: abra o documento antes de citá-lo. Norma: `leis/lei-06404/index.md`.
+Um arquivo por artigo citado, nesta pasta (o índice passaria de 40 KB num arquivo só).
+
+| Parte | Artigo | Citações | Arquivo |
+|---|---|---|---|
+| parte geral | 2º | 1 | [art-0002.md](art-0002.md) |
+| parte geral | 3º | 5 | [art-0003.md](art-0003.md) |
+| parte geral | 4º | 13 | [art-0004.md](art-0004.md) |
+| parte geral | 4º-A | 2 | [art-0004-a.md](art-0004-a.md) |
+| parte geral | 4º-O | 1 | [art-0004-o.md](art-0004-o.md) |
+| parte geral | 5º | 6 | [art-0005.md](art-0005.md) |
+| parte geral | 6º | 4 | [art-0006.md](art-0006.md) |
+| parte geral | 7º | 5 | [art-0007.md](art-0007.md) |
+| parte geral | 8º | 7 | [art-0008.md](art-0008.md) |
+| parte geral | 9º | 4 | [art-0009.md](art-0009.md) |
+| parte geral | 11 | 1 | [art-0011.md](art-0011.md) |
+| parte geral | 15 | 1 | [art-0015.md](art-0015.md) |
+| parte geral | 20 | 1 | [art-0020.md](art-0020.md) |
+| parte geral | 30 | 10 | [art-0030.md](art-0030.md) |
+| parte geral | 46 | 2 | [art-0046.md](art-0046.md) |
+| parte geral | 55 | 10 | [art-0055.md](art-0055.md) |
+| parte geral | 59 | 5 | [art-0059.md](art-0059.md) |
+| parte geral | 62 | 2 | [art-0062.md](art-0062.md) |
+| parte geral | 68 | 5 | [art-0068.md](art-0068.md) |
+| parte geral | 71 | 5 | [art-0071.md](art-0071.md) |
+| parte geral | 86 | 1 | [art-0086.md](art-0086.md) |
+| parte geral | 100 | 11 | [art-0100.md](art-0100.md) |
+| parte geral | 105 | 5 | [art-0105.md](art-0105.md) |
+| parte geral | 109 | 7 | [art-0109.md](art-0109.md) |
+| parte geral | 110-A | 5 | [art-0110-a.md](art-0110-a.md) |
+| parte geral | 111 | 2 | [art-0111.md](art-0111.md) |
+| parte geral | 115 | 6 | [art-0115.md](art-0115.md) |
+| parte geral | 116 | 5 | [art-0116.md](art-0116.md) |
+| parte geral | 117 | 5 | [art-0117.md](art-0117.md) |
+| parte geral | 118 | 1 | [art-0118.md](art-0118.md) |
+| parte geral | 119 | 5 | [art-0119.md](art-0119.md) |
+| parte geral | 120 | 3 | [art-0120.md](art-0120.md) |
+| parte geral | 124 | 21 | [art-0124.md](art-0124.md) |
+| parte geral | 125 | 1 | [art-0125.md](art-0125.md) |
+| parte geral | 126 | 10 | [art-0126.md](art-0126.md) |
+| parte geral | 128 | 5 | [art-0128.md](art-0128.md) |
+| parte geral | 130 | 12 | [art-0130.md](art-0130.md) |
+| parte geral | 132 | 6 | [art-0132.md](art-0132.md) |
+| parte geral | 133 | 27 | [art-0133.md](art-0133.md) |
+| parte geral | 135 | 6 | [art-0135.md](art-0135.md) |
+| parte geral | 136 | 5 | [art-0136.md](art-0136.md) |
+| parte geral | 137 | 20 | [art-0137.md](art-0137.md) |
+| parte geral | 138 | 11 | [art-0138.md](art-0138.md) |
+| parte geral | 140 | 1 | [art-0140.md](art-0140.md) |
+| parte geral | 141 | 42 | [art-0141.md](art-0141.md) |
+| parte geral | 142 | 6 | [art-0142.md](art-0142.md) |
+| parte geral | 143 | 5 | [art-0143.md](art-0143.md) |
+| parte geral | 147 | 9 | [art-0147.md](art-0147.md) |
+| parte geral | 150 | 3 | [art-0150.md](art-0150.md) |
+| parte geral | 152 | 6 | [art-0152.md](art-0152.md) |
+| parte geral | 153 | 7 | [art-0153.md](art-0153.md) |
+| parte geral | 154 | 7 | [art-0154.md](art-0154.md) |
+| parte geral | 155 | 12 | [art-0155.md](art-0155.md) |
+| parte geral | 156 | 11 | [art-0156.md](art-0156.md) |
+| parte geral | 157 | 15 | [art-0157.md](art-0157.md) |
+| parte geral | 158 | 5 | [art-0158.md](art-0158.md) |
+| parte geral | 159 | 11 | [art-0159.md](art-0159.md) |
+| parte geral | 160 | 7 | [art-0160.md](art-0160.md) |
+| parte geral | 161 | 29 | [art-0161.md](art-0161.md) |
+| parte geral | 162 | 5 | [art-0162.md](art-0162.md) |
+| parte geral | 163 | 15 | [art-0163.md](art-0163.md) |
+| parte geral | 167 | 2 | [art-0167.md](art-0167.md) |
+| parte geral | 168 | 6 | [art-0168.md](art-0168.md) |
+| parte geral | 169 | 1 | [art-0169.md](art-0169.md) |
+| parte geral | 170 | 3 | [art-0170.md](art-0170.md) |
+| parte geral | 171 | 11 | [art-0171.md](art-0171.md) |
+| parte geral | 173 | 5 | [art-0173.md](art-0173.md) |
+| parte geral | 174 | 5 | [art-0174.md](art-0174.md) |
+| parte geral | 175 | 5 | [art-0175.md](art-0175.md) |
+| parte geral | 176 | 12 | [art-0176.md](art-0176.md) |
+| parte geral | 177 | 14 | [art-0177.md](art-0177.md) |
+| parte geral | 182 | 1 | [art-0182.md](art-0182.md) |
+| parte geral | 183 | 6 | [art-0183.md](art-0183.md) |
+| parte geral | 184 | 3 | [art-0184.md](art-0184.md) |
+| parte geral | 185 | 3 | [art-0185.md](art-0185.md) |
+| parte geral | 186 | 2 | [art-0186.md](art-0186.md) |
+| parte geral | 187 | 5 | [art-0187.md](art-0187.md) |
+| parte geral | 188 | 8 | [art-0188.md](art-0188.md) |
+| parte geral | 189 | 1 | [art-0189.md](art-0189.md) |
+| parte geral | 190 | 1 | [art-0190.md](art-0190.md) |
+| parte geral | 191 | 1 | [art-0191.md](art-0191.md) |
+| parte geral | 192 | 1 | [art-0192.md](art-0192.md) |
+| parte geral | 193 | 3 | [art-0193.md](art-0193.md) |
+| parte geral | 194 | 3 | [art-0194.md](art-0194.md) |
+| parte geral | 195 | 3 | [art-0195.md](art-0195.md) |
+| parte geral | 196 | 10 | [art-0196.md](art-0196.md) |
+| parte geral | 197 | 3 | [art-0197.md](art-0197.md) |
+| parte geral | 198 | 1 | [art-0198.md](art-0198.md) |
+| parte geral | 199 | 1 | [art-0199.md](art-0199.md) |
+| parte geral | 202 | 13 | [art-0202.md](art-0202.md) |
+| parte geral | 203 | 5 | [art-0203.md](art-0203.md) |
+| parte geral | 219 | 5 | [art-0219.md](art-0219.md) |
+| parte geral | 223 | 6 | [art-0223.md](art-0223.md) |
+| parte geral | 224 | 5 | [art-0224.md](art-0224.md) |
+| parte geral | 225 | 5 | [art-0225.md](art-0225.md) |
+| parte geral | 238 | 5 | [art-0238.md](art-0238.md) |
+| parte geral | 239 | 6 | [art-0239.md](art-0239.md) |
+| parte geral | 240 | 5 | [art-0240.md](art-0240.md) |
+| parte geral | 245 | 6 | [art-0245.md](art-0245.md) |
+| parte geral | 246 | 6 | [art-0246.md](art-0246.md) |
+| parte geral | 247 | 1 | [art-0247.md](art-0247.md) |
+| parte geral | 248 | 2 | [art-0248.md](art-0248.md) |
+| parte geral | 249 | 3 | [art-0249.md](art-0249.md) |
+| parte geral | 252 | 6 | [art-0252.md](art-0252.md) |
+| parte geral | 253 | 5 | [art-0253.md](art-0253.md) |
+| parte geral | 254-A | 1 | [art-0254-a.md](art-0254-a.md) |
+| parte geral | 256 | 15 | [art-0256.md](art-0256.md) |
+| parte geral | 264 | 11 | [art-0264.md](art-0264.md) |
+| parte geral | 265 | 5 | [art-0265.md](art-0265.md) |
+| parte geral | 275 | 2 | [art-0275.md](art-0275.md) |
+| parte geral | 289 | 15 | [art-0289.md](art-0289.md) |
+| parte geral | 291 | 5 | [art-0291.md](art-0291.md) |
+| parte geral | 294-B | 1 | [art-0294-b.md](art-0294-b.md) |
+| parte geral | 295 | 6 | [art-0295.md](art-0295.md) |
+| parte geral | 297 | 3 | [art-0297.md](art-0297.md) |

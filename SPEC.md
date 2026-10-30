@@ -1,4 +1,4 @@
-# SPEC: formato do acervo (v0.4.0)
+# SPEC: formato do acervo (v0.5.0)
 
 Versão semântica. Campos novos opcionais = menor; campo obrigatório novo ou mudança de significado = maior.
 
@@ -70,6 +70,7 @@ Opcionais, depois de `incerteza`, nesta ordem:
   - `pdf-extraido`: texto extraído do PDF da CVM (só há PDF); sujeito a erro de extração, descrito em `incerteza`;
   - `ocr` (v0.3.1): texto reconhecido por OCR (Vision, macOS) de PDF sem camada de texto; erros pontuais de reconhecimento são esperados; a confiança média e a mínima por página ficam em `incerteza`;
   - `compilado-planalto`: texto compilado do Planalto (leis, decretos e leis complementares), conferido pelo `scripts/teste_lei.py`.
+  - `html-convertido` (v0.5.0): conversão de página HTML da fonte; nesta versão, só em julgados (seção Julgados).
 
 Regras de valor (verificadas por `scripts/validar.py`):
 
@@ -81,13 +82,14 @@ Regras de valor (verificadas por `scripts/validar.py`):
 - Datas em AAAA-MM-DD válidas (`publicacao_dou` vazio só na autorregulação); `aguarda_consolidado_oficial` e `historico_parcial` são `true` ou `false`.
 - `situacao` ∈ `vigente`, `revogada`, `parcialmente-revogada`, `nao-informada`; `versao_texto` ∈ `consolidado`, `original`. `nao-informada` só em `parecer-orientacao` e `oficio-circular`: a CVM não publica a vigência deles.
 - `vigente_ate_ato`, nos tipos da CVM: número do último ato aplicado (inteiro, ex.: `226`) ou vazio quando só a redação original foi aplicada.
-- `nivel_verificacao`, quando presente, é um dos seis valores acima.
+- `nivel_verificacao`, quando presente, é um dos seis primeiros valores acima (`html-convertido` é só dos julgados).
 - `sha256_fonte`: 64 caracteres hexadecimais. `ementa`, `fonte_original` e `fonte_consolidada` não ficam vazios.
 
 ## Pastas validadas e índices
 
 - O validador (`scripts/validar.py <raiz>`) lê as normas de `resolucoes/`, `instrucoes/`, `pareceres-orientacao/`, `oficios-circulares/<pasta>/` e `leis/` e, desde a v0.4.0, de `cmn/resolucoes/`, `bcb/{resolucoes,resolucoes-conjuntas,circulares,cartas-circulares,instrucoes-normativas}/` e `autorregulacao/{anbima,b3}/`. Os atos alteradores (`alteradoras/`), os índices e o `autorregulacao/README.md` não seguem o schema.
 - O índice (`scripts/indice.py`) gera, na raiz `plugins/normas/normas/`: `indice.md` (resumo: aviso, perímetro, contagem por tipo e link para cada subíndice), `normas.json` (todas as normas, com `tipo` e, na resolução do Estoque Regulatório, `grupo`) e os subíndices em `indices/`: `resolucoes.md` (por grupo temático do Estoque Regulatório da CVM, lido de `fontes/acervo.json`, chave `estoque_regulatorio.grupos`; normas contábeis por último), `instrucoes.md`, `pareceres-orientacao.md`, `oficios-circulares.md` (por pasta, data decrescente; os ofícios de `fontes/acervo.json` sem arquivo no acervo entram como verbete, com link e sem texto), `leis.md` (leis, leis complementares e decretos), `cmn.md` e `bcb.md` (v0.4.0; uma seção por tipo e, ao fim, "Atos só alteradores, sem arquivo": os atos de `fontes/perimetro-camada4.json` com `decisao: alteradora` cujo `altera` aponta para norma com arquivo no acervo, com a ementa e o link `url_pagina` de `fontes/acervo-bcb.json`; sem esses arquivos, a seção não sai), `anbima.md` e `b3.md` (v0.4.0; uma seção por tipo) e `alteradoras.md`. O `indice.md` descreve o perímetro em 5 camadas: CVM (1 e 2), leis federais (3), CMN e BCB no texto compilado pelo BCB (4) e autorregulação da ANBIMA e da B3, de titularidade delas e de uso informativo (5). Subíndice vazio não é gerado. A saída não tem data de geração; `--verificar` falha se algum arquivo estiver defasado ou se sobrar em `indices/` subíndice que não é mais gerado.
+- Citações (v0.5.0): o índice também gera `indices/citacoes/<id>.md`, o índice reverso de cada norma do acervo citada por um documento de interpretação do acervo (parecer de orientação, ofício-circular e autorregulação): uma seção por artigo (`## art. 90`, `## Anexo II, art. 2º`, a parte geral primeiro) e, em cada linha, o dispositivo completo, o título curto do documento, o tipo, a data, o caminho relativo a `normas/` e um trecho de até 160 caracteres, cortado em palavra. Se o subíndice de uma norma passar de 40 KB, ele vira a pasta `indices/citacoes/<id>/`, com `index.md` (parte, artigo, número de citações e arquivo de cada artigo) e um arquivo por artigo, de nome estável e ordenável (`art-0155.md`, `anexo-ii-art-0002.md`, `art-1368-c.md`); `indices/citacoes.md` aponta para o arquivo ou para o `index.md` da pasta. A extração é por script (`scripts/citacoes.py`, regex), sem conferência manual; norma fora do acervo e autocitação não entram, e o par (documento, dispositivo) não se repete. `indices/citacoes.md` lista as normas citadas com o número de documentos e de citações. Sem citação, nada é gerado. O `indice.md` aponta o `indices/citacoes.md` e avisa que os julgados ficam nos plugins `julgados-*`. `--verificar` cobre `indices/citacoes/` e as subpastas (defasado ou sobra = falha).
 
 ## Norma em partes: regras do validador
 
@@ -126,8 +128,83 @@ O dispositivo traz a redação atual e, depois dela, a futura, aberta por uma li
 - Notas de alteração do consolidado ("Caput com redação dada pela...", "(NR)") não entram no texto da norma; o histórico de commits as substitui.
 - Redação antiga tachada no consolidado é descartada na comparação.
 
+## Julgados
+
+Desde a v0.5.0 o acervo tem julgados: decisões da CVM (PAS, termos de compromisso, itens do Colegiado e decisões antigas) e acórdãos do CRSFN em recursos contra decisões da CVM. **Julgado não é norma**: diz o que se decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Os julgados ficam fora de `plugins/normas/`, em plugins próprios, e não entram no `normas.json` nem nos índices das normas.
+
+### Plugins e pastas
+
+Cada julgado mora no plugin do seu tipo e período, escolhido por uma função única, `plugin_do_julgado(tipo, ano)`, em `scripts/julgados_comum.py` (o corte final sai do tamanho medido no piloto):
+
+| Plugin | Conteúdo |
+|---|---|
+| `plugins/julgados-sancionadores/` | PAS, termos de compromisso e acórdãos do CRSFN |
+| `plugins/julgados-colegiado-2002-2008/` | demais itens do Colegiado de 2002 a 2008 e as decisões antigas (1978 a 2001) |
+| `plugins/julgados-colegiado-2009-2015/` | idem, 2009 a 2015 |
+| `plugins/julgados-colegiado-2016-2026/` | idem, 2016 em diante |
+
+Em cada plugin: `.claude-plugin/plugin.json`, `skills/consultar-julgados/SKILL.md` (cópia idêntica nos quatro), `julgados/indice.md`, `julgados/indices/` e os julgados, um arquivo por julgado:
+
+| `tipo` | `orgao` | `id` | Arquivo (sob `julgados/`) |
+|---|---|---|---|
+| `pas` | `cvm` | `cvm-pas-<proc>` | `cvm/pas/AAAA/<proc>.md` |
+| `termo-compromisso` | `cvm` | `cvm-col-AAAAMMDD-dNNNN` (ou `cvm-tc-<proc>-AAAAMMDD`, sem item do Colegiado) | `cvm/colegiado/AAAA/<id sem cvm->.md` |
+| `decisao-colegiado` | `cvm` | `cvm-col-AAAAMMDD-dNNNN` | `cvm/colegiado/AAAA/col-AAAAMMDD-dNNNN.md` |
+| `decisao-antiga` | `cvm` | `cvm-dec-AAAA[-NNN]` | `cvm/decisoes-antigas/AAAA[-NNN].md` |
+| `acordao-crsfn` | `crsfn` | `crsfn-<recurso ou proc>` | `crsfn/AAAA/<slug>.md` |
+
+- `<proc>`: número do processo em minúsculas, só dígitos, letras e hífen (`19957-011607-2024-20`, `rj2015-1234`, `sp2010-0077`). Repetição do mesmo processo no mesmo tipo: sufixo `-2`, `-3`.
+- `AAAA` é o ano da sessão ou da decisão, igual ao ano de `data`.
+- Nenhum nome de pessoa física em `id`, nome de arquivo, `ementa` extraída (`ementa_fonte` `extracao` ou `titulo`) ou linha de índice.
+
+### Frontmatter dos julgados
+
+Campos, todos obrigatórios, nesta ordem; um valor por linha (`chave: valor`), sem listas YAML:
+
+| Campo | Conteúdo |
+|---|---|
+| `id` | conforme o tipo (tabela acima) |
+| `orgao` | `cvm`; `crsfn` no `acordao-crsfn` |
+| `tipo` | `pas`, `termo-compromisso`, `decisao-colegiado`, `decisao-antiga` ou `acordao-crsfn` |
+| `classe` | só no Colegiado: `recurso`, `consulta`, `dispensa`, `registro`, `normativo`, `reconsideracao`, `incidente-pas`, `multa-cominatoria`, `institucional` ou `outros` (pelo título); obrigatória em `decisao-colegiado` |
+| `processo` | número(s) do processo como publicado(s), separados por `; `, sem nome de parte; vazio só em `decisao-antiga` |
+| `nup` | NUP normalizado (`19957-011607-2024-20`) ou vazio |
+| `rito` | `ordinario`, `simplificado` ou vazio |
+| `data` | data da sessão, reunião ou decisão, AAAA-MM-DD |
+| `relator` | nome ou sigla, como publicado, ou vazio |
+| `resultado` | lista fechada por tipo (abaixo) ou vazio |
+| `ementa` | ementa da fonte ou montada (ver `ementa_fonte`) |
+| `ementa_fonte` | `cvm` (publicada pela CVM), `crsfn` (publicada pelo CRSFN), `extracao` (extraída por LLM, não oficial) ou `titulo` (montada por script a partir do título da CVM, sem o trecho das partes) |
+| `tema` | tema da lista fechada ou vazio (até a extração) |
+| `tema_fonte` | `script` ou `extracao`; vazio só quando `tema` é vazio |
+| `normas_citadas` | ids do acervo ou `fora:<rotulo>`, separados por `; `, ou vazio |
+| `dispositivos_citados` | `<id ou fora:rotulo> [<parte> ]art. N[, § N \| , parágrafo único][, inciso X][, alínea y]`, separados por `; `, ou vazio (ex.: `cvm-res-175 Anexo II art. 2º, inciso XII, alínea d; lei-6404 art. 155, § 1º`) |
+| `fonte_original` | URL da fonte |
+| `sha256_fonte` | hash do arquivo da fonte (64 caracteres hexadecimais) |
+| `baixado_em` | AAAA-MM-DD do download |
+| `nivel_verificacao` | `html-convertido`, `pdf-extraido` ou `ocr` |
+| `incerteza` | texto livre; vazio quando não há (ex.: "recurso ao CRSFN") |
+
+`resultado`, lista fechada:
+
+- `pas` e `acordao-crsfn`: `condenacao`, `absolvicao`, `parcial` (condenação e absolvição no mesmo processo), `extincao`, `arquivamento`, `outro`;
+- `termo-compromisso`: `aceito`, `rejeitado`, `outro`;
+- `decisao-colegiado` e `decisao-antiga`: `deferido`, `indeferido`, `provido`, `nao-provido`, `parcial`, `conhecimento`, `outro`.
+
+Citações (`normas_citadas` e `dispositivos_citados`): o id é o do `plugins/normas/normas/normas.json`; norma fora do acervo usa `fora:<rotulo>`, com o rótulo do `scripts/citacoes.py` (`icvm-358`, `res-cvm-35`, `deliberacao-cvm-538`, `lei-7940`, `lcp-105`, `res-cmn-2689` etc.). `fora:` com rótulo de norma que está no acervo é erro. A parte da norma em partes vai antes do artigo (`Anexo II`, `Suplemento A`); na parte geral, nada.
+
+### Corpo
+
+`# <título da fonte>` na primeira linha não vazia e, depois, uma seção `## ` por peça, na ordem da fonte: `## Extrato`, `## Relatório`, `## Voto`, `## Declaração de voto`, `## Manifestação da área técnica`, `## Parecer do Comitê de Termo de Compromisso`, `## Termo de compromisso`, `## Decisão`; a peça sem cabeçalho reconhecível fica em `## Texto`. No PDF anual de decisões antigas sem divisão possível, uma seção `## ` por decisão. Texto como a fonte publica, sem reescrita; dado pessoal cortado (CPF, RG, endereço, e-mail, telefone, data de nascimento, dados bancários e a qualificação pessoal do termo de compromisso) fica marcado `[dado pessoal retirado]`.
+
+### Validação e índices dos julgados
+
+- `python3 scripts/validar.py plugins/julgados-<plugin>/julgados` (raiz chamada `julgados`, ou `--julgados`) valida cada `.md` sob a raiz, fora `indice.md` e `indices/`: ordem e conjunto de chaves, vazios, coerência entre `tipo`, `orgao`, `id`, `data` e caminho, datas, listas fechadas, formato e existência das citações (contra o `normas.json`; `--normas-json` muda o caminho; sem o arquivo, só o formato), `sha256_fonte` e o corpo (`# ` e ao menos um `## `). A CI valida cada `plugins/julgados-*/julgados` que existir.
+- `python3 scripts/indice.py` gera, em cada `plugins/julgados-*/julgados/`: `indice.md` (aviso de que julgado não é norma, perímetro do plugin, contagem por tipo e ano, links), `indices/<tipo>-<ano>.md`, `indices/tema-<tema>.md` (tema sem acento, em kebab-case) e `indices/norma-<id>.md` (`norma-fora-<rotulo>.md` fora do acervo): o índice reverso, uma seção por artigo, com link relativo para a norma no plugin `normas` e a nota "texto vigente hoje; o julgado aplicou a redação da época" (fora do acervo: "fora do acervo"); a norma citada sem dispositivo fica numa seção própria. A linha do índice traz tipo, processo, data, resultado, tema, ementa e arquivo, nunca o título (que pode ter nome de pessoa). Sem julgados, nada é gerado e o `--verificar` passa; com eles, defasado ou sobra = falha.
+
 ## Histórico de versões
 
+- v0.5.0: julgados (seção Julgados): plugins `julgados-*`, tipos `pas`, `termo-compromisso`, `decisao-colegiado`, `decisao-antiga` e `acordao-crsfn`, órgão `crsfn`, frontmatter próprio, listas fechadas de `resultado`, `ementa_fonte` (com `titulo`) e `tema_fonte`, citações por id do acervo ou `fora:<rotulo>`, corpo com seções `##` e a marca `[dado pessoal retirado]`; valor `html-convertido` em `nivel_verificacao` (só julgados); validador e índices dos julgados; índice reverso de citações no acervo de normas (`indices/citacoes/`). Julgado não é norma.
 - v0.4.0: camada 4 (CMN e BCB: tipos `resolucao-cmn`, `resolucao-bcb`, `resolucao-conjunta`, `circular`, `carta-circular` e `instrucao-normativa-bcb`; órgãos `cmn` e `bcb`) e camada 5 (autorregulação: tipos `codigo-autorregulacao`, `regras-procedimentos`, `regulamento`, `manual`, `glossario` e `orientacao-autorregulacao`; órgãos `anbima` e `b3`; `numero` e `publicacao_dou` vazios; id pelo slug); pastas novas no validador; subíndices `cmn.md`, `bcb.md` (com os atos só alteradores, sem arquivo), `anbima.md` e `b3.md`; perímetro do índice em 5 camadas; aviso generalizado.
 - v0.3.1: valor `ocr` em `nivel_verificacao`; `baixado_em` é a data do download da fonte e `verificado_em` a da geração.
 - v0.3.0: tipos `instrucao`, `parecer-orientacao`, `oficio-circular`, `decreto` e `lei-complementar`; `situacao: nao-informada` (só parecer e ofício); campo opcional `nivel_verificacao`; `## Art.` não é exigido; índice dividido em resumo e subíndices (`indices/`), com resoluções por grupo do Estoque Regulatório e verbetes de ofícios sem texto.

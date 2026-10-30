@@ -7,7 +7,11 @@ Regras:
   2026-10-29). Cada inclusão na lista é uma decisão dele, com o motivo.
 - Nomes proibidos vêm de uma lista local (um termo por linha, "#" comenta),
   lida de $NORMAS_TERMOS. A lista nunca entra neste repositório.
-- Sem a lista, o script avisa e aplica só a regra de CNPJ.
+- CPF (formatado, rotulado com ruído de OCR ou 11 dígitos com verificador válido) e RG
+  (rótulo seguido de número) também são regra fixa (decisão D3 da Fase 2d). O que já foi
+  trocado por "[dado pessoal retirado]" não dispara. O achado mostra só a linha, nunca o número,
+  porque a saída do CI é pública.
+- Sem a lista, o script avisa e aplica só as regras fixas.
 
 Uso como hook: .githooks/pre-commit chama este script, que lê os arquivos
 em stage. Saída 0 = ok; 1 = achados (commit bloqueado).
@@ -16,6 +20,9 @@ import os
 import re
 import subprocess
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import pii  # noqa: E402
 
 # Sem letra ou dígito colado: 14 dígitos dentro de um hash hexadecimal (sha256) não são CNPJ.
 CNPJ = re.compile(r"(?<![0-9A-Za-z])\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}(?![0-9A-Za-z])")
@@ -66,7 +73,7 @@ def varrer(textos, termos):
     """Devolve os achados no formato "arquivo: termo", em ordem estável.
 
     textos: dict nome_do_arquivo -> conteúdo. termos: lista de nomes proibidos.
-    Para CNPJ, o "termo" é o próprio número achado.
+    Para CNPJ, o "termo" é o próprio número achado; para CPF e RG, "CPF na linha N".
     """
     achados = []
     padroes = [(t, _padrao_termo(t)) for t in termos]
@@ -81,6 +88,9 @@ def varrer(textos, termos):
             if m.group(0) not in vistos:
                 vistos.add(m.group(0))
                 achados.append("%s: %s" % (arquivo, m.group(0)))
+        for rotulo, achar in (("CPF", pii.achar_cpfs), ("RG", pii.achar_rgs)):
+            for a, _ in achar(texto):
+                achados.append("%s: %s na linha %d" % (arquivo, rotulo, texto.count("\n", 0, a) + 1))
         for termo, padrao in padroes:
             if padrao.search(texto):
                 achados.append("%s: %s" % (arquivo, termo))
@@ -103,7 +113,7 @@ def main():
     termos = carregar_termos(caminho) if caminho else None
     if termos is None:
         print(
-            "AVISO: lista de termos não encontrada; só a regra de CNPJ foi aplicada.",
+            "AVISO: lista de termos não encontrada; só as regras fixas (CNPJ, CPF, RG) foram aplicadas.",
             file=sys.stderr,
         )
         termos = []

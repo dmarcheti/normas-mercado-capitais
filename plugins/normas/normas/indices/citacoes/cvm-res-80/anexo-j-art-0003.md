@@ -1,0 +1,17 @@
+# Citações: Resolução CVM nº 80/2022, Anexo J, art. 3º
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `normas/` (a pasta do `indice.md`).
+
+Pareceres, ofícios-circulares e documentos de autorregulação do acervo que citam esta norma, por dispositivo. Extração por script (regex), sem conferência manual: abra o documento antes de citá-lo. Norma: `cvm/resolucoes/0080.md`.
+
+## Anexo J, art. 3º
+
+| Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
+|---|---|---|---|---|---|
+| Anexo J art. 3º | Ofício Circular Anual 2023 CVM/SEP | oficio-circular | 2023-02-28 | cvm/oficios-circulares/sep/oc-anual-sep-2023.md | na categoria B, nos demais casos. O artigo 3º do Anexo J à Resolução CVM nº 80/22 prevê que as pessoas abaixo indicadas deverão designar representantes |
+| Anexo J art. 3º | Ofício Circular Anual 2024 CVM/SEP | oficio-circular | 2024-03-07 | cvm/oficios-circulares/sep/oc-anual-sep-2024.md | registro com base no cumprimento do artigo 3º do Anexo J da Resolução CVM nº 80/22, o emissor estrangeiro deve ter como principal mercado de negociação de |
+| Anexo J art. 3º | Ofício Circular Anual 2025 CVM/SEP | oficio-circular | 2025-02-27 | cvm/oficios-circulares/sep/oc-anual-sep-2025.md | registro com base no cumprimento do artigo 3º do Anexo J da Resolução CVM nº 80/22, o emissor estrangeiro deve ter como principal mercado de negociação de |
+| Anexo J art. 3º | Ofício Circular Anual 2026 CVM/SEP | oficio-circular | 2026-02-26 | cvm/oficios-circulares/sep/oc-anual-sep-2026.md | registro com base no cumprimento do artigo 3º do Anexo J da Resolução CVM nº 80/22, o emissor estrangeiro deve ter como principal mercado de negociação de |
+| Anexo J art. 3º, § 3º | Ofício Circular Anual 2023 CVM/SEP | oficio-circular | 2023-02-28 | cvm/oficios-circulares/sep/oc-anual-sep-2023.md | conforme previsto no parágrafo 3º do artigo 3º do Anexo J à Resolução CVM nº 80/22. Alerta-se ainda que o parágrafo 2º do artigo 48 da Resolução |

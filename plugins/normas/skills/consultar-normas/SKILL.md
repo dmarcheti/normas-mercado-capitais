@@ -17,7 +17,7 @@ Perguntas sobre o mercado de capitais que dependam do texto de uma norma ou orie
 4. Normas vigentes do CMN e do BCB que tocam mercado de capitais, fundos, securitização, crédito negociável, registro de ativos e recebíveis, investidores institucionais e instituições do mercado (ex.: Res. CMN 4.966, 2.907, 5.118, 4.994, 5.272), no texto compilado pelo BCB.
 5. Autorregulação vigente da ANBIMA (códigos, regras e procedimentos, deliberações e orientações) e da B3 (regulamentos e manuais de normas).
 
-Fora do acervo: normas do CMN e do BCB de política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas, consórcios e prudencial; julgados da CVM.
+Fora do acervo: normas do CMN e do BCB de política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas, consórcios e prudencial. Julgados da CVM e do CRSFN ficam nos plugins `julgados-*`, com a skill `consultar-julgados`.
 
 ## Como navegar
 
@@ -30,6 +30,8 @@ Use só a ferramenta de ler arquivo da sua plataforma. Não use comando de shell
 4. Norma em partes (Res. CVM 175 e Lei 6.404): o caminho leva a um `index.md`, com o frontmatter e a lista `## Partes`. Leia o `index.md` e depois a parte do dispositivo (ex.: `normas/cvm/resolucoes/0175/anexo-02.md` para FIDC; os suplementos estão em `suplementos.md`).
 5. Resoluções, Instruções e leis: vá ao artigo pelo título `## Art. N`. Parágrafos, incisos e alíneas estão como texto abaixo dele. Leia o artigo inteiro e os que ele cita. Pareceres, Ofícios-Circulares e parte da autorregulação (manuais da B3, perguntas e respostas da ANBIMA) não têm artigos: leia o documento e cite o item, capítulo ou trecho.
 6. O texto integral de cada ato alterador está em `normas/cvm/alteradoras/`. Use-o quando a pergunta for sobre o que um ato mudou.
+7. Achado o dispositivo, veja quem o interpreta: leia `normas/indices/citacoes.md`, que aponta para o subíndice da norma (`normas/indices/citacoes/<id>.md` ou, nas normas grandes, `normas/indices/citacoes/<id>/index.md` e o arquivo do artigo). Ele lista os Pareceres de Orientação, Ofícios-Circulares e documentos da ANBIMA e da B3 que citam cada dispositivo, com o trecho. Abra os que tratam do ponto da pergunta e leia o documento inteiro antes de responder: o ofício ou a orientação pode mudar a resposta (quem envia, a partir de quando, se uma condição basta).
+8. Julgados da CVM e do CRSFN (decisões do Colegiado, processos sancionadores, termos de compromisso) não ficam neste acervo; se os plugins `julgados-*` estiverem instalados, use a skill `consultar-julgados`. Julgado não é norma.
 
 ## Regras
 

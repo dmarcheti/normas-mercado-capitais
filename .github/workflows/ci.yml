@@ -16,6 +16,12 @@ jobs:
         run: python3 -m unittest discover -s tests
       - name: Validar frontmatter das normas
         run: python3 scripts/validar.py plugins/normas/normas
+      - name: Validar frontmatter dos julgados
+        run: |
+          for d in plugins/julgados-*/julgados; do
+            [ -d "$d" ] || continue
+            python3 scripts/validar.py "$d" || exit 1
+          done
       - name: Índice em dia (desatualizado = falha)
         run: python3 scripts/indice.py --verificar
 

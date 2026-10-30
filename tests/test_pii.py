@@ -1,0 +1,149 @@
+"""Testes do corte de dados pessoais. Números montados em pedaços (fictícios), para que este
+arquivo não dispare a varredura do pre-commit."""
+import os
+import sys
+import unittest
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
+
+import pii  # noqa: E402
+
+M = pii.MARCADOR
+CPF_FMT = "123.456." + "789-09"       # dígito verificador válido (exemplo didático)
+CPF_PURO = "123456" + "78909"
+CPF_DV_RUIM = "123456" + "78900"
+CNPJ_FMT = "12.345.678/" + "0001-95"
+RG_NUM = "12.345." + "678-9"
+
+
+class CpfTest(unittest.TestCase):
+    def test_formatado(self):
+        self.assertEqual(pii.limpar("inscrito no CPF/MF sob o nº %s, e" % CPF_FMT),
+                         "inscrito no CPF/MF sob o nº %s, e" % M)
+
+    def test_sem_pontuacao_valido(self):
+        self.assertEqual(pii.limpar("CPF " + CPF_PURO), "CPF " + M)
+        self.assertEqual(pii.limpar("número " + CPF_PURO + " solto"), "número %s solto" % M)
+
+    def test_puro_sem_rotulo_com_dv_ruim_fica(self):
+        self.assertIn(CPF_DV_RUIM, pii.limpar("protocolo " + CPF_DV_RUIM))
+
+    def test_rotulado_com_ruido_de_ocr(self):
+        ruido = "123.4S6".replace("S", "5") + ".7B9-O9".replace("B", "8")
+        self.assertEqual(pii.limpar("C.P.F. nº " + ruido + "."), "C.P.F. nº " + M + ".")
+        self.assertEqual(pii.limpar("CPF: 123 456 " + "789 09"), "CPF: " + M)
+
+    def test_cnpj_fica(self):
+        t = "inscrita no CNPJ sob o nº %s, com sede na Rua A, 10" % CNPJ_FMT
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_achar(self):
+        self.assertEqual(len(pii.achar_cpfs("a %s b %s" % (CPF_FMT, CPF_PURO))), 2)
+        self.assertEqual(pii.achar_cpfs("CPF: " + M), [])
+        self.assertEqual(pii.achar_cpfs("NUP 19957.011607/2024-20 e CNPJ " + CNPJ_FMT), [])
+
+
+class RgTest(unittest.TestCase):
+    def test_rg(self):
+        self.assertEqual(pii.limpar("RG nº %s, expedida pela SSP/SP, e" % RG_NUM),
+                         "RG nº %s, e" % M)
+        self.assertEqual(pii.limpar("portador da carteira de identidade nº %s IFP/RJ" % RG_NUM),
+                         "portador da carteira de identidade nº " + M)
+        self.assertEqual(pii.limpar("RG: " + "1234567-8" + " SSP/SP;"), "RG: %s;" % M)
+
+    def test_rotulo_sem_numero_nao_dispara(self):
+        t = "CPF/CNPJ: RG: RG: Endereço:"
+        self.assertEqual(pii.limpar(t), t)
+        self.assertEqual(pii.achar_rgs(t), [])
+
+
+class EnderecoTest(unittest.TestCase):
+    def test_residente_ate_o_fim_da_clausula(self):
+        t = ("FULANO DE TAL, residente e domiciliado na Av. Paulista, nº 1000, apto. 12, na "
+             "cidade de São Paulo – SP, portador do documento X. Segue.")
+        self.assertEqual(pii.limpar(t), "FULANO DE TAL, residente e domiciliado %s, portador "
+                                        "do documento X. Segue." % M)
+
+    def test_com_endereco_e_ponto_final(self):
+        t = "Beltrano, com endereço na Rua das Flores, 99, Rio de Janeiro. O Colegiado decidiu."
+        self.assertEqual(pii.limpar(t), "Beltrano, com endereço %s. O Colegiado decidiu." % M)
+
+    def test_sede_de_empresa_fica(self):
+        t = "Companhia Exemplo S.A., com sede na Rua Direita, 10, São Paulo"
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_domiciliado_sem_endereco_fica(self):
+        t = "investidor domiciliado no exterior; a regra vale."
+        self.assertEqual(pii.limpar(t), t)
+
+
+class OutrosTest(unittest.TestCase):
+    def test_email(self):
+        self.assertEqual(pii.limpar("e-mail fulano.tal@exemplo.com.br."), "e-mail %s." % M)
+        self.assertEqual(pii.limpar("escreva para sep@cvm.gov.br"), "escreva para sep@cvm.gov.br")
+
+    def test_telefone(self):
+        self.assertEqual(pii.limpar("telefone (11) 91234-5678, e"), "telefone %s, e" % M)
+        self.assertEqual(pii.limpar("Tel.: 21 3554-8686"), "Tel.: " + M)
+        self.assertEqual(pii.limpar("no período 2019-2020 e 1234-5678"),
+                         "no período 2019-2020 e 1234-5678")
+
+    def test_nascimento(self):
+        self.assertEqual(pii.limpar("nascido em 01/02/1960, filho"), "nascido em %s, filho" % M)
+        self.assertEqual(pii.limpar("data de nascimento: 3 de março de 1955"),
+                         "data de nascimento: " + M)
+
+    def test_banco(self):
+        t = "depósito no Banco Exemplo, agência nº 1234-5, conta corrente nº 98765-4, de sua"
+        self.assertEqual(pii.limpar(t), "depósito no %s, de sua" % M)
+
+    def test_qualificacao(self):
+        t = ("o Sr. FULANO DE TAL, brasileiro, casado, engenheiro civil, residente e domiciliado "
+             "na Rua X, nº 99, São Paulo – SP, RG nº %s, CPF/MF nº %s, doravante "
+             "Compromitente" % (RG_NUM, CPF_FMT))
+        out = pii.limpar(t)
+        self.assertTrue(out.startswith("o Sr. FULANO DE TAL, " + M), out)
+        for x in ("brasileiro", "casado", "engenheiro", "Rua X", RG_NUM, CPF_FMT):
+            self.assertNotIn(x, out)
+        self.assertIn("doravante Compromitente", out)
+
+    def test_qualificacao_sem_estado_civil(self):
+        t = ("MARIA EXEMPLO, brasileira, administradora de empresas, portadora da Cédula de "
+             "Identidade RG nº %s, inscrita no CPF/MF sob o nº %s, e" % (RG_NUM, CPF_FMT))
+        self.assertEqual(pii.limpar(t), "MARIA EXEMPLO, %s, portadora da Cédula de Identidade "
+                                        "RG nº %s, inscrita no CPF/MF sob o nº %s, e" % (M, M, M))
+        t2 = "o investidor brasileiro, em geral, prefere renda fixa"
+        self.assertEqual(pii.limpar(t2), t2)
+
+    def test_rg_com_letra_e_orgao(self):
+        self.assertEqual(pii.limpar("carteira de identidade nº " + "1234-D/ CREA-PR e"),
+                         "carteira de identidade nº %s e" % M)
+
+    def test_testemunha_assinatura(self):
+        t = ("Documento assinado eletronicamente por **Fulano de Tal**, **Testemunha**, em "
+             "10/01/2024. Documento assinado eletronicamente por **Presidente X**, "
+             "**Presidente**, em 10/01/2024.")
+        out = pii.limpar(t)
+        self.assertIn("por **%s**, **Testemunha**" % M, out)
+        self.assertIn("Presidente X", out)
+
+    def test_bloco_de_testemunhas(self):
+        t = "Fecho do termo.\n\nTESTEMUNHAS:\n\n____________\nNome: Fulano\nCPF: " + CPF_FMT + \
+            "\n\n____________\nNome: Beltrano\n\n\n\n## Decisão\n"
+        out = pii.limpar(t)
+        self.assertNotIn("Fulano", out)
+        self.assertNotIn("Beltrano", out)
+        self.assertIn("## Decisão", out)
+        self.assertIn("TESTEMUNHAS:", out)
+
+    def test_contagem(self):
+        _, cont = pii.limpar_contando("CPF %s e e-mail a@b.com" % CPF_FMT)
+        self.assertEqual(cont, {"cpf": 1, "email": 1})
+
+    def test_nome_e_cargo_ficam(self):
+        t = "FULANO DE TAL, Diretor de Relações com Investidores da Companhia"
+        self.assertEqual(pii.limpar(t), t)
+
+
+if __name__ == "__main__":
+    unittest.main()

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Índice das normas do acervo (SPEC v0.4.0).
+"""Índice das normas do acervo e dos julgados (SPEC v0.5.0).
 
 gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None) -> (arquivos, itens).
 `raiz` é `plugins/normas/normas`; `acervo` é o caminho de `fontes/acervo.json` (None ou
@@ -20,7 +20,16 @@ raiz no conteúdo:
   e `indices/alteradoras.md`. Subíndice vazio não é gerado;
 - `normas.json`: todas as normas (sem os atos alteradores nem os verbetes), cada uma
   {id, tipo, titulo, ementa, situacao, vigente_ate_ato, caminho} mais `grupo`
-  (resolução no Estoque) e `baixado_em` (lei, decreto, LC, CMN, BCB e autorregulação).
+  (resolução no Estoque) e `baixado_em` (lei, decreto, LC, CMN, BCB e autorregulação);
+- v0.5.0: `indices/citacoes/<id>.md` (índice reverso: dispositivo -> pareceres, ofícios e
+  autorregulação que o citam, pelo `citacoes.py`; acima de 40 KB, a pasta
+  `indices/citacoes/<id>/` com `index.md` e um arquivo por artigo, `art-0155.md`,
+  `anexo-ii-art-0002.md`) e `indices/citacoes.md`; nada sem citação.
+
+gerar_indice_julgados(raiz, normas) -> (arquivos, n): índices de um plugin `julgados-*`
+(`indice.md`, `indices/<tipo>-<ano>.md`, `indices/tema-<tema>.md`, `indices/norma-<id>.md`).
+Sem raiz posicional, o script cuida das normas e de todo `plugins/julgados-*/julgados`; com
+uma raiz chamada `julgados`, só dela (normas lidas do normas.json); com outra raiz, só normas.
 
 Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO] [--perimetro CAMINHO]
                                [--acervo-bcb CAMINHO]              grava os arquivos
@@ -29,13 +38,18 @@ A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
 gravar, apaga de `indices/` o subíndice que não é mais gerado; `--verificar` acusa
 esse subíndice. Sem data de geração: a saída só muda quando o acervo muda.
 """
+import glob
 import json
 import os
+import re
 import sys
+import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import citacoes as cit  # noqa: E402
 from validar import (  # noqa: E402
-    TIPOS, TIPOS_AUTORREGULACAO, TIPOS_BCB, arquivos_de_normas, ler_frontmatter,
+    TIPOS, TIPOS_AUTORREGULACAO, TIPOS_BCB, arquivos_de_julgados, arquivos_de_normas, ler_frontmatter,
+    texto_da_norma,
 )
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -110,6 +124,11 @@ SUBINDICES = [
     ("b3", "Autorregulação B3", TIPOS_AUTORREGULACAO),
     ("alteradoras", "Atos alteradores (texto integral do ato)", ()),
 ]
+# v0.5.0: índice reverso de citações (dispositivo -> documentos de interpretação que o citam)
+PASTA_CITACOES = "citacoes"
+TIPOS_INTERPRETACAO = ("parecer-orientacao", "oficio-circular") + tuple(TIPOS_AUTORREGULACAO)
+TITULO_CURTO = 90
+LIMITE_SUBINDICE = 40 * 1024  # bytes: acima disso, o subíndice de citações vira pasta
 assert set(ORDEM_TIPOS) == set(TIPOS)
 
 
@@ -393,7 +412,7 @@ def _md_alteradoras(atos):
     return md + [""]
 
 
-def _md_resumo(contagens):
+def _md_resumo(contagens, n_citadas=0):
     md = [
         "# Índice das normas", "", AVISO, GERADO, "",
         "## Perímetro", "",
@@ -411,6 +430,13 @@ def _md_resumo(contagens):
     for nome, titulo, n, extra in contagens:
         rel = "%s/%s.md" % (PASTA_SUBINDICES, nome)
         md.append("| %s | %d | [%s](%s)%s |" % (titulo, n, rel, rel, extra))
+    md += ["", "## Citações e julgados", ""]
+    if n_citadas:
+        rel = "%s/%s.md" % (PASTA_SUBINDICES, PASTA_CITACOES)
+        md.append("- [%s](%s): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de "
+                  "autorregulação do acervo que o citam (%d norma(s) citada(s); extração por script)." % (rel, rel, n_citadas))
+    md.append("- Os julgados da CVM e do CRSFN ficam nos plugins `julgados-*`. Julgado não é norma: diz o que "
+              "se decidiu num caso, com a redação da época.")
     return md + [""]
 
 
@@ -456,18 +482,342 @@ def gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None):
             continue
         arquivos["%s/%s.md" % (PASTA_SUBINDICES, nome)] = "\n".join(md).rstrip("\n") + "\n"
         contagens.append((nome, titulo, len(do_tipo), extra))
-    arquivos["indice.md"] = "\n".join(_md_resumo(contagens)).rstrip("\n") + "\n"
+    citados = _citacoes_do_acervo(raiz, itens)
+    arquivos.update(_md_citacoes(citados, {i["id"]: i for i in itens}))
+    arquivos["indice.md"] = "\n".join(_md_resumo(contagens, len(citados))).rstrip("\n") + "\n"
     publicos = [{k: v for k, v in i.items() if not k.startswith("_")} for i in itens]
     arquivos["normas.json"] = json.dumps(publicos, ensure_ascii=False, indent=2) + "\n"
     return arquivos, publicos
 
 
-def _sobrando(raiz, arquivos):
-    pasta = os.path.join(raiz, PASTA_SUBINDICES)
-    if not os.path.isdir(pasta):
-        return []
-    return sorted("%s/%s" % (PASTA_SUBINDICES, n) for n in os.listdir(pasta)
-                  if n.endswith(".md") and "%s/%s" % (PASTA_SUBINDICES, n) not in arquivos)
+# ---------------------------------------------------------------- citações (v0.5.0)
+
+def _num_artigo(a):
+    m = re.match(r"([\d.]+)º?(?:-([A-Z]))?", a)
+    return (int(m.group(1).replace(".", "")), m.group(2) or "") if m else (0, a)
+
+
+def _num_parte(p):
+    """'' (parte geral) primeiro, depois os anexos (romano ou número) e os suplementos."""
+    if not p:
+        return (0, 0, "")
+    tipo, ident = p.split(" ", 1)
+    rom = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+    if ident.isdigit():
+        n = int(ident)
+    elif set(ident) <= set(rom):
+        n, ant = 0, 0
+        for ch in reversed(ident):
+            v = rom[ch]
+            n, ant = (n - v, ant) if v < ant else (n + v, v)
+    else:
+        n = 0
+    return (1 if tipo == "Anexo" else 2, n, ident)
+
+
+def _ordem_dispositivo(d):
+    return (_num_parte(d.get("parte", "")), _num_artigo(d["artigo"]), d.get("paragrafo", "") != "",
+            d.get("paragrafo", ""), d.get("inciso", ""), d.get("alinea", ""))
+
+
+def _citacoes_do_acervo(raiz, itens):
+    """{id da norma citada: [(documento, citação)]}: o extrator sobre pareceres, ofícios e
+    autorregulação; só normas do acervo, sem autocitação, sem repetir (documento, dispositivo)."""
+    ids = frozenset(i["id"] for i in itens)
+    citados = {}
+    for doc in itens:
+        if doc["tipo"] not in TIPOS_INTERPRETACAO:
+            continue
+        texto = texto_da_norma(os.path.join(raiz, *doc["caminho"].split("/")))
+        _pares, texto, _erro = ler_frontmatter(texto)  # o frontmatter não entra no trecho
+        vistos = set()
+        for c in cit.extrair_citacoes(texto, ids=ids):
+            if c["norma"].startswith("fora:") or c["norma"] == doc["id"]:
+                continue
+            d = cit.dispositivo(c)
+            if d in vistos:
+                continue
+            vistos.add(d)
+            citados.setdefault(c["norma"], []).append((doc, c))
+    return citados
+
+
+def _curto(txt, n=TITULO_CURTO):
+    txt = " ".join((txt or "").split())
+    return txt if len(txt) <= n else txt[:n - 1].rstrip() + "…"
+
+
+def _nome_artigo(parte, artigo):
+    """Nome estável e ordenável do arquivo de um artigo: 'art-0155', 'anexo-ii-art-0002',
+    'art-1368-c'."""
+    num, letra = _num_artigo(artigo)
+    nome = "art-%04d" % num + ("-" + letra.lower() if letra else "")
+    return (parte.lower().replace(" ", "-") + "-" if parte else "") + nome
+
+
+def _secao_artigo(nid, parte, artigo, linhas):
+    md = ["## %sart. %s" % (parte + ", " if parte else "", artigo), "",
+          "| Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |", "|---|---|---|---|---|---|"]
+    for doc, c in sorted(linhas, key=lambda x: (_ordem_dispositivo(x[1]), x[0]["_data"], x[0]["caminho"])):
+        md.append("| %s | %s | %s | %s | %s | %s |" % (
+            cit.dispositivo(c)[len(nid) + 1:], _celula(_curto(doc["titulo"])), doc["tipo"], doc["_data"],
+            doc["caminho"], _celula(c["trecho"])))
+    return md + [""]
+
+
+def _texto(md):
+    return "\n".join(md).rstrip("\n") + "\n"
+
+
+def _md_citacoes(citados, por_id):
+    """`indices/citacoes/<id>.md` (uma seção por artigo citado) ou, acima de LIMITE_SUBINDICE
+    bytes, a pasta `indices/citacoes/<id>/` (`index.md` e um arquivo por artigo); e
+    `indices/citacoes.md`."""
+    if not citados:
+        return {}
+    arquivos, linhas = {}, []
+    explicacao = ("Pareceres, ofícios-circulares e documentos de autorregulação do acervo que citam esta norma, "
+                  "por dispositivo. Extração por script (regex), sem conferência manual: abra o documento antes "
+                  "de citá-lo.")
+    for nid in sorted(citados, key=lambda x: _chave(por_id[x])):
+        norma = por_id[nid]
+        secoes = {}
+        for doc, c in citados[nid]:
+            secoes.setdefault((c["parte"], c["artigo"]), []).append((doc, c))
+        ordem = sorted(secoes, key=lambda k: (_num_parte(k[0]), _num_artigo(k[1])))
+        cab = ["", explicacao + " Norma: `%s`." % norma["caminho"]]
+        md = _cabecalho("Citações: %s" % norma["titulo"], cab)
+        for parte, artigo in ordem:
+            md += _secao_artigo(nid, parte, artigo, secoes[(parte, artigo)])
+        base = "%s/%s" % (PASTA_SUBINDICES, PASTA_CITACOES)
+        unico = _texto(md)
+        if len(unico.encode("utf-8")) <= LIMITE_SUBINDICE:
+            arquivos["%s/%s.md" % (base, nid)] = unico
+            link = "%s/%s.md" % (PASTA_CITACOES, nid)
+        else:
+            idx = _cabecalho("Citações: %s" % norma["titulo"], cab + [
+                "Um arquivo por artigo citado, nesta pasta (o índice passaria de %d KB num arquivo só)."
+                % (LIMITE_SUBINDICE // 1024)])
+            idx += ["| Parte | Artigo | Citações | Arquivo |", "|---|---|---|---|"]
+            for parte, artigo in ordem:
+                nome = _nome_artigo(parte, artigo) + ".md"
+                titulo = "Citações: %s, %sart. %s" % (norma["titulo"], parte + ", " if parte else "", artigo)
+                arquivos["%s/%s/%s" % (base, nid, nome)] = _texto(
+                    _cabecalho(titulo, cab) + _secao_artigo(nid, parte, artigo, secoes[(parte, artigo)]))
+                idx.append("| %s | %s | %d | [%s](%s) |" % (parte or "parte geral", artigo,
+                                                            len(secoes[(parte, artigo)]), nome, nome))
+            arquivos["%s/%s/index.md" % (base, nid)] = _texto(idx)
+            link = "%s/%s/index.md" % (PASTA_CITACOES, nid)
+        docs = {d["id"] for d, _c in citados[nid]}
+        linhas.append("| %s | %d | %d | [%s](%s) |" % (norma["titulo"], len(docs), len(citados[nid]), nid, link))
+    resumo = _cabecalho("Citações por norma", [
+        "", "Índice reverso: para cada norma do acervo, os pareceres, ofícios-circulares e documentos de "
+        "autorregulação que citam um dispositivo dela. Extração por script (regex); só normas do acervo. "
+        "Os links da última coluna são relativos a `indices/`; norma muito citada tem uma pasta, com um "
+        "arquivo por artigo e o `index.md`."])
+    resumo += ["| Norma | Documentos | Citações | Subíndice |", "|---|---|---|---|"] + linhas
+    arquivos["%s/%s.md" % (PASTA_SUBINDICES, PASTA_CITACOES)] = "\n".join(resumo) + "\n"
+    return arquivos
+
+
+# ---------------------------------------------------------------- julgados (v0.5.0)
+
+NOME_JULGADO = {
+    "pas": "Processos Administrativos Sancionadores (PAS)",
+    "termo-compromisso": "Termos de compromisso",
+    "decisao-colegiado": "Decisões do Colegiado",
+    "decisao-antiga": "Decisões antigas (1978 a 2001)",
+    "acordao-crsfn": "Acórdãos do CRSFN (recursos contra decisões da CVM)",
+}
+AVISO_JULGADO = ("Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a "
+                 "redação das normas da época, e não vincula como norma. Para o texto vigente, use o "
+                 "plugin `normas`.")
+NOTA_REDACAO = "texto vigente hoje; o julgado aplicou a redação da época"
+PERIMETRO_JULGADOS = {
+    "julgados-sancionadores": "PAS, termos de compromisso e acórdãos do CRSFN em recursos contra decisões da CVM.",
+    "julgados-colegiado-2002-2008": "Decisões do Colegiado da CVM de 2002 a 2008 e decisões antigas (1978 a 2001).",
+    "julgados-colegiado-2009-2015": "Decisões do Colegiado da CVM de 2009 a 2015.",
+    "julgados-colegiado-2016-2026": "Decisões do Colegiado da CVM de 2016 em diante.",
+}
+
+
+def slug_tema(tema):
+    t = unicodedata.normalize("NFKD", tema).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+
+
+def _cab_julgados(titulo, extra=()):
+    return ["# %s" % titulo, "", AVISO, AVISO_JULGADO, GERADO,
+            "Caminhos relativos a `julgados/` (a pasta do `indice.md`)."] + list(extra) + [""]
+
+
+def _ler_julgados(raiz):
+    itens = []
+    for caminho in arquivos_de_julgados(raiz):
+        v = _ler(caminho)
+        v["_caminho"] = os.path.relpath(caminho, raiz).replace(os.sep, "/")
+        itens.append(v)
+    return sorted(itens, key=lambda v: (v.get("data", ""), v["_caminho"]), reverse=True)
+
+
+def _tabela_julgados(itens, com_tipo=False, extra=None):
+    cab = (["Tipo"] if com_tipo else []) + ["Processo", "Data", "Resultado", "Tema", "Ementa", "Arquivo"]
+    if extra:
+        cab = [extra[0]] + cab
+    md = ["| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
+    for linha in itens:
+        v, pre = (linha if extra else (linha, None))
+        cel = ([v["tipo"]] if com_tipo else []) + [
+            _celula(v.get("processo")) or "—", v.get("data", ""), v.get("resultado") or "—",
+            v.get("tema") or "—", _celula(v.get("ementa")), v["_caminho"]]
+        if extra:
+            cel = [pre] + cel
+        md.append("| %s |" % " | ".join(cel))
+    return md
+
+
+def _arquivo_norma(norma):
+    return "norma-%s.md" % (norma.replace("fora:", "fora-"))
+
+
+def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", plugin=None):
+    """(arquivos, n_julgados) dos índices de um plugin de julgados. `raiz` é a pasta `julgados/`;
+    `normas` mapeia o id da norma no item do normas.json (titulo, caminho); `link_normas` é o
+    caminho de `julgados/indices/` até a raiz das normas. Sem julgados, nada é gerado."""
+    itens = _ler_julgados(raiz)
+    if not itens:
+        return {}, 0
+    plugin = plugin or os.path.basename(os.path.dirname(os.path.abspath(raiz)))
+    arquivos = {}
+    ordem_tipos = list(NOME_JULGADO)
+    por_tipo_ano, por_tema, por_norma = {}, {}, {}
+    for v in itens:
+        por_tipo_ano.setdefault((v["tipo"], v.get("data", "")[:4]), []).append(v)
+        if v.get("tema"):
+            por_tema.setdefault(v["tema"], []).append(v)
+        disps = [d for d in (cit.ler_dispositivo(x) for x in (v.get("dispositivos_citados") or "").split("; ")
+                             if x) if d]
+        com_disp = set()
+        for d in disps:
+            por_norma.setdefault(d["norma"], {"disp": [], "sem": []})["disp"].append((d, v))
+            com_disp.add(d["norma"])
+        for n in (v.get("normas_citadas") or "").split("; "):
+            if n and n not in com_disp:
+                por_norma.setdefault(n, {"disp": [], "sem": []})["sem"].append(v)
+
+    for (tipo, ano), lista in por_tipo_ano.items():
+        md = _cab_julgados("%s, %s" % (NOME_JULGADO.get(tipo, tipo), ano)) + _tabela_julgados(lista)
+        arquivos["%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano)] = "\n".join(md) + "\n"
+    temas = {}
+    for tema, lista in por_tema.items():
+        rel = "%s/tema-%s.md" % (PASTA_SUBINDICES, slug_tema(tema))
+        temas[tema] = (rel, len(lista))
+        md = _cab_julgados("Julgados do tema %s" % tema) + _tabela_julgados(lista, com_tipo=True)
+        arquivos[rel] = "\n".join(md) + "\n"
+    normas_idx = {}
+    for nid, grupos in por_norma.items():
+        rel = "%s/%s" % (PASTA_SUBINDICES, _arquivo_norma(nid))
+        if nid.startswith("fora:"):
+            titulo, ref = nid[5:], "fora do acervo"
+        elif nid in normas:
+            titulo = normas[nid]["titulo"]
+            ref = "[%s](%s/%s) (%s)" % (normas[nid]["caminho"], link_normas, normas[nid]["caminho"], NOTA_REDACAO)
+        else:
+            titulo, ref = nid, "não encontrada no normas.json"
+        md = _cab_julgados("Julgados que citam %s" % titulo, ["", "Norma: %s." % ref])
+        secoes = {}
+        for d, v in grupos["disp"]:
+            secoes.setdefault((d["parte"], d["artigo"]), []).append((d, v))
+        for parte, artigo in sorted(secoes, key=lambda k: (_num_parte(k[0]), _num_artigo(k[1]))):
+            linhas = sorted(secoes[(parte, artigo)], key=lambda x: (_ordem_dispositivo(x[0]), x[1]["_caminho"]))
+            vistos, uniq = set(), []
+            for d, v in linhas:
+                rot = cit.dispositivo(d)[len(nid) + 1:]
+                if (rot, v["_caminho"]) not in vistos:
+                    vistos.add((rot, v["_caminho"]))
+                    uniq.append((v, rot))
+            md += ["## %sart. %s" % (parte + ", " if parte else "", artigo), ""]
+            md += _tabela_julgados(uniq, com_tipo=True, extra=("Dispositivo",)) + [""]
+        if grupos["sem"]:
+            md += ["## Citada sem dispositivo identificado", ""] + _tabela_julgados(grupos["sem"], com_tipo=True) + [""]
+        arquivos[rel] = "\n".join(md).rstrip("\n") + "\n"
+        normas_idx[nid] = (rel, titulo, len({v["_caminho"] for _d, v in grupos["disp"]} |
+                                              {v["_caminho"] for v in grupos["sem"]}))
+
+    md = ["# Índice dos julgados: %s" % plugin, "", AVISO, AVISO_JULGADO, GERADO, "",
+          "## Perímetro", "", PERIMETRO_JULGADOS.get(plugin, "Julgados do plugin `%s`." % plugin),
+          "Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pela ementa.", "",
+          "## Por tipo e ano", "", "| Tipo | Ano | Julgados | Subíndice |", "|---|---|---|---|"]
+    for (tipo, ano) in sorted(por_tipo_ano, key=lambda k: (ordem_tipos.index(k[0]) if k[0] in ordem_tipos
+                                                            else len(ordem_tipos), -int(k[1] or 0))):
+        rel = "%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano)
+        md.append("| %s | %s | %d | [%s](%s) |" % (NOME_JULGADO.get(tipo, tipo), ano,
+                                                   len(por_tipo_ano[(tipo, ano)]), rel, rel))
+    contagem = {}
+    for v in itens:
+        contagem[v["tipo"]] = contagem.get(v["tipo"], 0) + 1
+    md += ["", "Total: %s." % "; ".join("%s, %d" % (NOME_JULGADO.get(t, t), n) for t, n in
+                                           sorted(contagem.items(), key=lambda x: ordem_tipos.index(x[0])
+                                                  if x[0] in ordem_tipos else 99))]
+    if temas:
+        md += ["", "## Por tema", "", "| Tema | Julgados | Subíndice |", "|---|---|---|"]
+        for tema in sorted(temas):
+            md.append("| %s | %d | [%s](%s) |" % (tema, temas[tema][1], temas[tema][0], temas[tema][0]))
+    if normas_idx:
+        md += ["", "## Por norma citada", "",
+               "Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao %s." % NOTA_REDACAO,
+               "", "| Norma | Julgados | Subíndice |", "|---|---|---|"]
+        for nid in sorted(normas_idx, key=lambda x: (x.startswith("fora:"), x)):
+            rel, titulo, n = normas_idx[nid]
+            md.append("| %s | %d | [%s](%s) |" % (titulo, n, rel, rel))
+    arquivos["indice.md"] = "\n".join(md) + "\n"
+    return arquivos, len(itens)
+
+
+def raizes_de_julgados(repo=REPO):
+    return sorted(d for d in glob.glob(os.path.join(repo, "plugins", "julgados-*", "julgados")) if os.path.isdir(d))
+
+
+def _sobrando(raiz, arquivos, pastas=(PASTA_SUBINDICES,), raiz_md=(),
+              recursivas=(PASTA_SUBINDICES + "/" + PASTA_CITACOES,)):
+    """Arquivos .md de `pastas` (só o nível), de `recursivas` (com as subpastas) e da raiz
+    (`raiz_md`) que não são mais gerados."""
+    sobra = [n for n in raiz_md if os.path.exists(os.path.join(raiz, n)) and n not in arquivos]
+    for rel in pastas:
+        pasta = os.path.join(raiz, *rel.split("/"))
+        if os.path.isdir(pasta):
+            sobra += ["%s/%s" % (rel, n) for n in os.listdir(pasta)
+                      if n.endswith(".md") and "%s/%s" % (rel, n) not in arquivos]
+    for rel in recursivas:
+        pasta = os.path.join(raiz, *rel.split("/"))
+        for dirpath, _dirs, nomes in os.walk(pasta):
+            sub = os.path.relpath(dirpath, raiz).replace(os.sep, "/")
+            sobra += ["%s/%s" % (sub, n) for n in nomes
+                      if n.endswith(".md") and "%s/%s" % (sub, n) not in arquivos]
+    return sorted(set(sobra))
+
+
+def _alvos(args, acervo, perimetro, acervo_bcb):
+    """[(raiz, arquivos, sobrando, descrição)] a verificar ou gravar."""
+    raiz = args[0] if args else None
+    alvos = []
+    normas = None
+    if raiz is None or os.path.basename(os.path.normpath(os.path.abspath(raiz))) != "julgados":
+        rn = raiz or RAIZ_PADRAO
+        arquivos, itens = gerar_indice(rn, acervo, perimetro, acervo_bcb)
+        alvos.append((rn, arquivos, _sobrando(rn, arquivos), "%d norma(s)" % len(itens)))
+        normas = {i["id"]: i for i in itens}
+        if raiz is not None:
+            return alvos
+    if normas is None:
+        nj = os.path.join(RAIZ_PADRAO, "normas.json")
+        normas = {i["id"]: i for i in (_lista_json(nj) if os.path.exists(nj) else [])}
+    for rj in ([raiz] if raiz else raizes_de_julgados()):
+        # link relativo dentro do repositório: plugins/julgados-*/julgados/indices -> plugins/normas/normas
+        arquivos, n = gerar_indice_julgados(rj, normas)
+        alvos.append((rj, arquivos, _sobrando(rj, arquivos, (PASTA_SUBINDICES,), ("indice.md",), ()),
+                      "%d julgado(s)" % n))
+    return alvos
 
 
 def main(argv):
@@ -492,38 +842,42 @@ def main(argv):
     if len(args) > 1:
         print(__doc__)
         return 2
-    raiz = args[0] if args else RAIZ_PADRAO
-    if not os.path.isdir(raiz):
-        print("indice: %s não existe" % raiz)
+    if args and not os.path.isdir(args[0]):
+        print("indice: %s não existe" % args[0])
         return 2
-    arquivos, itens = gerar_indice(raiz, acervo, perimetro, acervo_bcb)
-    sobrando = _sobrando(raiz, arquivos)
+    alvos = _alvos(args, acervo, perimetro, acervo_bcb)
     if verificar:
-        defasados = []
-        for rel, conteudo in sorted(arquivos.items()):
+        rc = 0
+        for raiz, arquivos, sobrando, desc in alvos:
+            defasados = []
+            for rel, conteudo in sorted(arquivos.items()):
+                caminho = os.path.join(raiz, *rel.split("/"))
+                atual = None
+                if os.path.exists(caminho):
+                    with open(caminho, encoding="utf-8") as f:
+                        atual = f.read()
+                if atual != conteudo:
+                    defasados.append(rel)
+            defasados += ["%s (sobrou de geração anterior)" % s for s in sobrando]
+            if defasados:
+                print("indice: %s desatualizado (%s); rode python3 scripts/indice.py" % (raiz, ", ".join(defasados)))
+                rc = 1
+            else:
+                print("indice: em dia (%s, %d arquivo(s))" % (desc, len(arquivos)))
+        return rc
+    for raiz, arquivos, sobrando, desc in alvos:
+        for rel, conteudo in arquivos.items():
             caminho = os.path.join(raiz, *rel.split("/"))
-            atual = None
-            if os.path.exists(caminho):
-                with open(caminho, encoding="utf-8") as f:
-                    atual = f.read()
-            if atual != conteudo:
-                defasados.append(rel)
-        defasados += ["%s (sobrou de geração anterior)" % s for s in sobrando]
-        if defasados:
-            print("indice: desatualizado (%s); rode python3 scripts/indice.py" % ", ".join(defasados))
-            return 1
-        print("indice: em dia (%d norma(s), %d arquivo(s))" % (len(itens), len(arquivos)))
-        return 0
-    for rel, conteudo in arquivos.items():
-        caminho = os.path.join(raiz, *rel.split("/"))
-        os.makedirs(os.path.dirname(caminho), exist_ok=True)
-        with open(caminho, "w", encoding="utf-8") as f:
-            f.write(conteudo)
-    for rel in sobrando:
-        os.remove(os.path.join(raiz, *rel.split("/")))
-    print("indice: %d norma(s) em %d arquivo(s) gravado(s) em %s%s" % (
-        len(itens), len(arquivos), raiz,
-        "; apagado(s): %s" % ", ".join(sobrando) if sobrando else ""))
+            os.makedirs(os.path.dirname(caminho), exist_ok=True)
+            with open(caminho, "w", encoding="utf-8") as f:
+                f.write(conteudo)
+        for rel in sobrando:
+            os.remove(os.path.join(raiz, *rel.split("/")))
+            pasta = os.path.dirname(os.path.join(raiz, *rel.split("/")))
+            if os.path.basename(os.path.dirname(pasta)) == PASTA_CITACOES and not os.listdir(pasta):
+                os.rmdir(pasta)  # pasta de citações que voltou a ser arquivo único
+        print("indice: %s em %d arquivo(s) gravado(s) em %s%s" % (
+            desc, len(arquivos), raiz, "; apagado(s): %s" % ", ".join(sobrando) if sobrando else ""))
     return 0
 
 

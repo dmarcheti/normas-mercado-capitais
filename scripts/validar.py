@@ -19,6 +19,11 @@ Valida cada norma em `<orgao>/resolucoes/`, `instrucoes/`, `pareceres-orientacao
 `autorregulacao/<orgao>/` sob o diretório dado (arquivo único ou o `index.md` da
 pasta). Os atos alteradores (`alteradoras/`), os índices (`indice.md`, `indices/`) e
 o `autorregulacao/README.md` não seguem este schema.
+Julgados (SPEC v0.5.0): `python3 scripts/validar.py plugins/julgados-<plugin>/julgados`
+(raiz chamada `julgados`, ou qualquer raiz com `--julgados`). Valida cada `.md` sob a raiz,
+fora o `indice.md` e a pasta `indices/`, com validar_julgado(path, ids). Os ids de
+`normas_citadas` e `dispositivos_citados` são conferidos contra o `normas.json` do acervo
+(`--normas-json CAMINHO`; sem o arquivo, só o formato é conferido).
 Saída 0 = ok; 1 = erros; 2 = uso incorreto.
 """
 import datetime
@@ -356,14 +361,215 @@ def arquivos_de_normas(raiz):
     return sorted(achados)
 
 
+# ---------------------------------------------------------------- julgados (v0.5.0)
+
+AQUI = os.path.dirname(os.path.abspath(__file__))
+NORMAS_JSON = os.path.join(AQUI, "..", "plugins", "normas", "normas", "normas.json")
+# id e arquivo por tipo: (órgão, regex do id, pasta sob julgados/ com {ano}, prefixo tirado do id)
+_PROC = r"[a-z0-9]+(?:-[a-z0-9]+)*"
+JULGADO_TIPOS = {
+    "pas": ("cvm", r"cvm-pas-" + _PROC, "cvm/pas/{ano}", "cvm-pas-"),
+    "termo-compromisso": ("cvm", r"cvm-(?:col-\d{8}-[a-z0-9]+(?:-[a-z0-9]+)*|tc-" + _PROC + r"-\d{8})",
+                          "cvm/colegiado/{ano}", "cvm-"),
+    "decisao-colegiado": ("cvm", r"cvm-col-\d{8}-[a-z0-9]+(?:-[a-z0-9]+)*", "cvm/colegiado/{ano}", "cvm-"),
+    "decisao-antiga": ("cvm", r"cvm-dec-(?P<ano>\d{4})(?:-\d{3})?", "cvm/decisoes-antigas", "cvm-dec-"),
+    "acordao-crsfn": ("crsfn", r"crsfn-" + _PROC, "crsfn/{ano}", "crsfn-"),
+}
+JULGADO_VAZIOS = ("classe", "nup", "rito", "relator", "resultado", "tema", "tema_fonte",
+                  "normas_citadas", "dispositivos_citados", "incerteza")
+RITOS = ("ordinario", "simplificado")
+TEMA_FONTES = ("script", "extracao")
+NUP_RE = re.compile(r"\d{5}-\d{6}-\d{4}-\d{2}")
+SHA256_RE = re.compile(r"[0-9a-f]{64}")
+
+
+def _contrato_julgados():
+    """Listas fechadas do contrato, de `julgados_comum` (fonte única)."""
+    import julgados_comum as jc
+    return jc
+
+
+def raiz_dos_julgados(path):
+    """Ancestral mais próximo chamado `julgados` (ou None)."""
+    d = os.path.dirname(os.path.abspath(path))
+    while True:
+        if os.path.basename(d) == "julgados":
+            return d
+        pai = os.path.dirname(d)
+        if pai == d:
+            return None
+        d = pai
+
+
+def _erros_citacoes(v, ids):
+    import citacoes
+    erros = []
+
+    def conferir_norma(norma, campo):
+        if norma.startswith("fora:"):
+            rotulo = norma[5:]
+            id_ = citacoes.id_do_rotulo(rotulo)
+            if ids and id_ in ids:
+                erros.append("%s: %r está no acervo, use o id %s" % (campo, norma, id_))
+        elif ids and norma not in ids:
+            erros.append("%s: %r não está no normas.json (use fora:<rotulo>)" % (campo, norma))
+
+    for campo, ler in (("normas_citadas", lambda x: x if citacoes.NORMA_RE.fullmatch(x) else None),
+                       ("dispositivos_citados", lambda x: (citacoes.ler_dispositivo(x) or {}).get("norma"))):
+        if not v.get(campo):
+            continue
+        itens = v[campo].split("; ")
+        for c in sorted({x for x in itens if itens.count(x) > 1}):
+            erros.append("%s: item repetido %r" % (campo, c))
+        for item in itens:
+            norma = ler(item)
+            if not norma:
+                erros.append("%s: item fora do formato: %r" % (campo, item))
+            else:
+                conferir_norma(norma, campo)
+    return erros
+
+
+def validar_julgado(path, ids=None):
+    """Erros do julgado em `path` (contrato da SPEC v0.5.0). `ids`: ids do acervo de normas
+    (None ou vazio = só o formato das citações é conferido)."""
+    jc = _contrato_julgados()
+    with open(path, encoding="utf-8") as f:
+        texto = f.read()
+    pares, corpo, erro = ler_frontmatter(texto)
+    if erro:
+        return [erro]
+    erros = [valor for chave, valor in pares if chave is None]
+    pares = [(c, x) for c, x in pares if c is not None]
+    chaves = [c for c, _ in pares]
+    v = dict(pares)
+    campos = list(jc.CAMPOS)
+    for c in sorted({c for c in chaves if chaves.count(c) > 1}):
+        erros.append("campo repetido: %s" % c)
+    for c in campos:
+        if c not in v:
+            erros.append("campo obrigatório ausente: %s" % c)
+    for c in chaves:
+        if c not in campos:
+            erros.append("campo desconhecido: %s" % c)
+    presentes = [c for c in dict.fromkeys(chaves) if c in campos]
+    if presentes != [c for c in campos if c in presentes]:
+        erros.append("campos fora da ordem da SPEC: %s" % ", ".join(presentes))
+    for c in campos:
+        if c in v and not v[c] and c not in JULGADO_VAZIOS:
+            if not (c == "processo" and v.get("tipo") == "decisao-antiga"):
+                erros.append("%s vazio" % c)
+
+    tipo = v.get("tipo", "")
+    if tipo not in JULGADO_TIPOS:
+        erros.append("tipo %r desconhecido; aceitos: %s" % (tipo, ", ".join(JULGADO_TIPOS)))
+    else:
+        orgao, id_re, pasta, prefixo = JULGADO_TIPOS[tipo]
+        if v.get("orgao") != orgao:
+            erros.append("orgao deve ser %r no tipo %s, veio %r" % (orgao, tipo, v.get("orgao")))
+        id_ = v.get("id", "")
+        m = re.fullmatch(id_re, id_)
+        if not m:
+            erros.append("id %r fora do padrão do tipo %s" % (id_, tipo))
+        ano = v.get("data", "")[:4]
+        if m and m.groupdict().get("ano") and m.group("ano") != ano:
+            erros.append("ano do id (%s) difere do ano de data (%s)" % (m.group("ano"), ano))
+        raiz = raiz_dos_julgados(path)
+        if raiz is None:
+            erros.append("arquivo fora de uma pasta julgados/")
+        elif m:
+            esperado = os.path.join(pasta.format(ano=ano), id_[len(prefixo):] + ".md")
+            rel = os.path.relpath(os.path.abspath(path), raiz)
+            if rel.replace(os.sep, "/") != esperado:
+                erros.append("caminho %s não combina com tipo, id e data (esperado %s)" % (rel, esperado))
+        resultados = jc.RESULTADOS.get(tipo, ())
+        if v.get("resultado") and v["resultado"] not in resultados:
+            erros.append("resultado %r fora da lista do tipo %s: %s" % (v["resultado"], tipo, ", ".join(resultados)))
+        if tipo == "decisao-colegiado" and "classe" in v and not v["classe"]:
+            erros.append("classe vazia (obrigatória no item do Colegiado)")
+
+    if v.get("classe") and v["classe"] not in jc.CLASSES:
+        erros.append("classe %r fora da lista: %s" % (v["classe"], ", ".join(jc.CLASSES)))
+    if v.get("rito") and v["rito"] not in RITOS:
+        erros.append("rito %r fora da lista: %s" % (v["rito"], ", ".join(RITOS)))
+    if v.get("nup") and not NUP_RE.fullmatch(v["nup"]):
+        erros.append("nup %r fora do formato normalizado 00000-000000-0000-00" % v["nup"])
+    for c in ("data", "baixado_em"):
+        if v.get(c) and not _data_valida(v[c]):
+            erros.append("%s deve ser AAAA-MM-DD válida, veio %r" % (c, v[c]))
+    if v.get("ementa_fonte") and v["ementa_fonte"] not in jc.EMENTA_FONTES:
+        erros.append("ementa_fonte %r fora da lista: %s" % (v["ementa_fonte"], ", ".join(jc.EMENTA_FONTES)))
+    if v.get("tema_fonte") and v["tema_fonte"] not in TEMA_FONTES:
+        erros.append("tema_fonte %r fora da lista: %s" % (v["tema_fonte"], ", ".join(TEMA_FONTES)))
+    if v.get("tema") and not v.get("tema_fonte"):
+        erros.append("tema preenchido sem tema_fonte")
+    if v.get("tema_fonte") and not v.get("tema"):
+        erros.append("tema_fonte preenchido com tema vazio")
+    if v.get("nivel_verificacao") and v["nivel_verificacao"] not in jc.NIVEIS:
+        erros.append("nivel_verificacao %r fora da lista: %s" % (v["nivel_verificacao"], ", ".join(jc.NIVEIS)))
+    if v.get("sha256_fonte") and not SHA256_RE.fullmatch(v["sha256_fonte"]):
+        erros.append("sha256_fonte deve ter 64 caracteres hexadecimais")
+    erros += _erros_citacoes(v, ids)
+
+    linhas = [x for x in corpo.split("\n") if x.strip()]
+    if not linhas or not linhas[0].startswith("# "):
+        erros.append("o corpo deve começar com '# <título>'")
+    if not any(x.startswith("## ") for x in linhas):
+        erros.append("o corpo não tem seção '## '")
+    return erros
+
+
+def arquivos_de_julgados(raiz):
+    """Julgados sob `raiz`: todo `.md`, fora o `indice.md` da raiz e a pasta `indices/`."""
+    achados = []
+    for dirpath, dirs, nomes in os.walk(raiz):
+        if dirpath == raiz:
+            dirs[:] = [d for d in dirs if d != "indices"]
+        achados += [os.path.join(dirpath, n) for n in nomes
+                    if n.endswith(".md") and not (dirpath == raiz and n == "indice.md")]
+    return sorted(achados)
+
+
+def _main_julgados(raiz, normas_json):
+    import citacoes
+    ids = citacoes.carregar_ids(normas_json)
+    if not ids:
+        print("validar: %s ausente; citações conferidas só no formato" % normas_json)
+    arquivos = arquivos_de_julgados(raiz)
+    if not arquivos:
+        print("validar: nenhum julgado em %s; nada a validar" % raiz)
+        return 0
+    total = 0
+    for caminho in arquivos:
+        for e in validar_julgado(caminho, ids):
+            total += 1
+            print("%s: %s" % (caminho, e))
+    print("validar: %d julgado(s), %d erro(s)" % (len(arquivos), total))
+    return 1 if total else 0
+
+
 def main(argv):
-    if len(argv) != 2:
+    args = list(argv[1:])
+    julgados = "--julgados" in args
+    if julgados:
+        args.remove("--julgados")
+    normas_json = NORMAS_JSON
+    if "--normas-json" in args:
+        i = args.index("--normas-json")
+        if i + 1 >= len(args):
+            print(__doc__)
+            return 2
+        normas_json = args[i + 1]
+        del args[i:i + 2]
+    if len(args) != 1:
         print(__doc__)
         return 2
-    raiz = argv[1]
+    raiz = args[0]
     if not os.path.isdir(raiz):
         print("validar: %s não existe ainda; nada a validar" % raiz)
         return 0
+    if julgados or os.path.basename(os.path.normpath(os.path.abspath(raiz))) == "julgados":
+        return _main_julgados(raiz, normas_json)
     arquivos = arquivos_de_normas(raiz)
     if not arquivos:
         print("validar: nenhuma norma em %s; nada a validar" % raiz)

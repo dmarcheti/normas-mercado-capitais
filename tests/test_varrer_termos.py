@@ -91,3 +91,27 @@ class TestCnpjsPublicos(unittest.TestCase):
     def test_outro_cnpj_continua_bloqueado(self):
         outro = "11.222." + "333/0001-81"  # montado aqui para a varredura não barrar este arquivo
         self.assertEqual(varrer({"a.md": "CNPJ: " + outro}, []), ["a.md: " + outro])
+
+
+class TestCpfERg(unittest.TestCase):
+    # Números fictícios montados em pedaços, para a varredura não barrar este arquivo.
+    CPF = "123.456." + "789-09"
+    RG = "12.345." + "678-9"
+
+    def test_cpf_e_achado_sem_mostrar_o_numero(self):
+        achados = varrer({"a.md": "linha 1\nCPF nº %s." % self.CPF}, [])
+        self.assertEqual(achados, ["a.md: CPF na linha 2"])
+
+    def test_cpf_sem_pontuacao_valido(self):
+        self.assertEqual(varrer({"a.md": "x " + self.CPF.replace(".", "").replace("-", "")}, []),
+                         ["a.md: CPF na linha 1"])
+
+    def test_rg_e_achado(self):
+        self.assertEqual(varrer({"a.md": "RG nº %s, e" % self.RG}, []), ["a.md: RG na linha 1"])
+
+    def test_ja_cortado_passa(self):
+        t = "inscrito no CPF sob o nº [dado pessoal retirado], RG nº [dado pessoal retirado]"
+        self.assertEqual(varrer({"a.md": t}, []), [])
+
+    def test_rotulo_de_formulario_passa(self):
+        self.assertEqual(varrer({"a.md": "CPF/CNPJ: RG: RG: Endereço:"}, []), [])
