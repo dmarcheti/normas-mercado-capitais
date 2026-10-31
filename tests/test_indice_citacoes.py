@@ -4,6 +4,7 @@ import os
 import sys
 import tempfile
 import unittest
+from unittest import mock
 from contextlib import redirect_stdout
 
 AQUI = os.path.dirname(__file__)
@@ -173,7 +174,7 @@ class TestIndicesDosJulgados(unittest.TestCase):
         arqs, n = indice.gerar_indice_julgados(self.raiz, NORMAS)
         self.assertEqual(n, 2)
         self.assertEqual(sorted(arqs), [
-            "indice.md", "indices/norma-fora-icvm-358.md", "indices/norma-lei-6404.md",
+            "indice.md", "indices/norma-fora-outras-icvm.md", "indices/norma-lei-6404.md",
             "indices/pas-2025.md", "indices/tema-deveres-administradores.md",
             "indices/termo-compromisso-2024.md"])
 
@@ -204,9 +205,25 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("| § 1º | pas |", md.replace("art. 155, § 1º", "§ 1º"))
         self.assertIn("## Citada sem dispositivo identificado", md)  # o TC cita só a norma
         self.assertIn("col-20240603-d100.md", md)
-        fora = arqs["indices/norma-fora-icvm-358.md"]
+        # fora do acervo com menos de FORA_MIN_PROPRIO julgados: arquivo da família, seção por norma
+        fora = arqs["indices/norma-fora-outras-icvm.md"]
         self.assertIn("fora do acervo", fora)
-        self.assertIn("## art. 3º", fora)
+        self.assertIn("## icvm-358", fora)
+        self.assertIn("### art. 3º", fora)
+        self.assertIn("[indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md)",
+                      arqs["indice.md"])
+
+    def test_fora_do_acervo_muito_citada_tem_arquivo_proprio(self):
+        with mock.patch.object(indice, "FORA_MIN_PROPRIO", 1):
+            arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
+        self.assertIn("indices/norma-fora-icvm-358.md", arqs)
+        self.assertNotIn("indices/norma-fora-outras-icvm.md", arqs)
+        self.assertIn("## art. 3º", arqs["indices/norma-fora-icvm-358.md"])
+
+    def test_familia_da_norma_fora(self):
+        self.assertEqual([indice.familia_fora(r) for r in
+                          ("icvm-358", "res-cmn-4656", "decreto-lei-2848", "lei-6385", "mp-2158-35")],
+                         ["icvm", "res-cmn", "decreto-lei", "lei", "mp"])
 
     def test_sem_julgados_nada_e_gerado(self):
         with tempfile.TemporaryDirectory() as r:

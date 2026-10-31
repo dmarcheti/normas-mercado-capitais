@@ -681,6 +681,36 @@ def _arquivo_norma(norma):
     return "norma-%s.md" % (norma.replace("fora:", "fora-"))
 
 
+# Norma fora do acervo citada por menos julgados que isto fica no arquivo da família
+# (`norma-fora-outras-<família>.md`), uma seção por norma: centenas de leis e instruções antigas
+# citadas uma ou duas vezes estourariam o limite de 5.000 arquivos por plugin.
+FORA_MIN_PROPRIO = 10
+
+
+def familia_fora(rotulo):
+    """'icvm-358' -> 'icvm'; 'res-cmn-4656' -> 'res-cmn'; 'mp-2158-35' -> 'mp'."""
+    return re.sub(r"-\d.*$", "", rotulo) or rotulo
+
+
+def _secoes_norma(nid, grupos, h="##"):
+    md, secoes = [], {}
+    for d, v in grupos["disp"]:
+        secoes.setdefault((d["parte"], d["artigo"]), []).append((d, v))
+    for parte, artigo in sorted(secoes, key=lambda k: (_num_parte(k[0]), _num_artigo(k[1]))):
+        linhas = sorted(secoes[(parte, artigo)], key=lambda x: (_ordem_dispositivo(x[0]), x[1]["_caminho"]))
+        vistos, uniq = set(), []
+        for d, v in linhas:
+            rot = cit.dispositivo(d)[len(nid) + 1:]
+            if (rot, v["_caminho"]) not in vistos:
+                vistos.add((rot, v["_caminho"]))
+                uniq.append((v, rot))
+        md += ["%s %sart. %s" % (h, parte + ", " if parte else "", artigo), ""]
+        md += _tabela_julgados(uniq, com_tipo=True, extra=("Dispositivo",)) + [""]
+    if grupos["sem"]:
+        md += ["%s Citada sem dispositivo identificado" % h, ""] + _tabela_julgados(grupos["sem"], com_tipo=True) + [""]
+    return md
+
+
 def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", plugin=None):
     """(arquivos, n_julgados) dos índices de um plugin de julgados. `raiz` é a pasta `julgados/`;
     `normas` mapeia o id da norma no item do normas.json (titulo, caminho); `link_normas` é o
@@ -715,8 +745,15 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
         temas[tema] = (rel, len(lista))
         md = _cab_julgados("Julgados do tema %s" % tema) + _tabela_julgados(lista, com_tipo=True)
         arquivos[rel] = "\n".join(md) + "\n"
-    normas_idx = {}
+    normas_idx, familias = {}, {}
     for nid, grupos in por_norma.items():
+        n_julgados = len({v["_caminho"] for _d, v in grupos["disp"]} | {v["_caminho"] for v in grupos["sem"]})
+        if nid.startswith("fora:") and n_julgados < FORA_MIN_PROPRIO:
+            fam = familia_fora(nid[5:])
+            rel = "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)
+            familias.setdefault(fam, []).append(nid)
+            normas_idx[nid] = (rel, nid[5:], n_julgados)
+            continue
         rel = "%s/%s" % (PASTA_SUBINDICES, _arquivo_norma(nid))
         if nid.startswith("fora:"):
             titulo, ref = nid[5:], "fora do acervo"
@@ -725,25 +762,16 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
             ref = "[%s](%s/%s) (%s)" % (normas[nid]["caminho"], link_normas, normas[nid]["caminho"], NOTA_REDACAO)
         else:
             titulo, ref = nid, "não encontrada no normas.json"
-        md = _cab_julgados("Julgados que citam %s" % titulo, ["", "Norma: %s." % ref])
-        secoes = {}
-        for d, v in grupos["disp"]:
-            secoes.setdefault((d["parte"], d["artigo"]), []).append((d, v))
-        for parte, artigo in sorted(secoes, key=lambda k: (_num_parte(k[0]), _num_artigo(k[1]))):
-            linhas = sorted(secoes[(parte, artigo)], key=lambda x: (_ordem_dispositivo(x[0]), x[1]["_caminho"]))
-            vistos, uniq = set(), []
-            for d, v in linhas:
-                rot = cit.dispositivo(d)[len(nid) + 1:]
-                if (rot, v["_caminho"]) not in vistos:
-                    vistos.add((rot, v["_caminho"]))
-                    uniq.append((v, rot))
-            md += ["## %sart. %s" % (parte + ", " if parte else "", artigo), ""]
-            md += _tabela_julgados(uniq, com_tipo=True, extra=("Dispositivo",)) + [""]
-        if grupos["sem"]:
-            md += ["## Citada sem dispositivo identificado", ""] + _tabela_julgados(grupos["sem"], com_tipo=True) + [""]
+        md = _cab_julgados("Julgados que citam %s" % titulo, ["", "Norma: %s." % ref]) + _secoes_norma(nid, grupos)
         arquivos[rel] = "\n".join(md).rstrip("\n") + "\n"
-        normas_idx[nid] = (rel, titulo, len({v["_caminho"] for _d, v in grupos["disp"]} |
-                                              {v["_caminho"] for v in grupos["sem"]}))
+        normas_idx[nid] = (rel, titulo, n_julgados)
+    for fam, nids in familias.items():
+        md = _cab_julgados("Julgados que citam normas fora do acervo (%s)" % fam, [
+            "", "Norma: fora do acervo. Cada norma desta família citada por menos de %d julgados tem "
+            "aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio." % FORA_MIN_PROPRIO, ""])
+        for nid in sorted(nids, key=lambda x: [int(p) if p.isdigit() else p for p in re.split(r"(\d+)", x)]):
+            md += ["## %s" % nid[5:], ""] + _secoes_norma(nid, por_norma[nid], "###")
+        arquivos["%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)] = "\n".join(md).rstrip("\n") + "\n"
 
     md = ["# Índice dos julgados: %s" % plugin, "", AVISO, AVISO_JULGADO, GERADO, "",
           "## Perímetro", "", PERIMETRO_JULGADOS.get(plugin, "Julgados do plugin `%s`." % plugin),

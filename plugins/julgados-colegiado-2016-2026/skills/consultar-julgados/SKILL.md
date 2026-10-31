@@ -29,7 +29,7 @@ Use só a ferramenta de ler arquivo da sua plataforma; não use shell nem execu�
 
 1. Leia `julgados/indice.md` do plugin: perímetro, contagens e subíndices.
 2. Escolha o subíndice em `julgados/indices/`:
-   - `norma-<id>.md`: julgados que citam cada dispositivo de uma norma (ex.: `norma-lei-6404.md`, `norma-cvm-res-175.md`; norma revogada, como `norma-fora-icvm-358.md`). É o caminho para "como a CVM aplicou o art. X";
+   - `norma-<id>.md`: julgados que citam cada dispositivo de uma norma (ex.: `norma-lei-6404.md`, `norma-cvm-res-175.md`; norma revogada, como `norma-fora-icvm-358.md`; a norma fora do acervo pouco citada fica no arquivo da família, como `norma-fora-outras-icvm.md`, com uma seção `## icvm-NNN` por norma). É o caminho para "como a CVM aplicou o art. X";
    - `tema-<tema>.md`: por assunto (ex.: `tema-informacao-privilegiada.md`, `tema-securitizacao.md`);
    - `<tipo>-<ano>.md`: por tipo e ano (ex.: `pas-2024.md`).
    Cada linha traz data, processo, resultado, tema, ementa e caminho.
