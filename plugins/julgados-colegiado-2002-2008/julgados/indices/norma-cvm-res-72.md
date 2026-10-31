@@ -1,0 +1,14 @@
+# Julgados que citam Resolução CVM nº 72/2022
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [cvm/resolucoes/0072.md](../../../normas/normas/cvm/resolucoes/0072.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2002/2714 | 2002-07-11 | indeferido | contabil-demonstracoes | Recurso contra a decisão da SEP de republicação de demonstrações financeiras. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20020711-d01.md |

@@ -1,0 +1,31 @@
+# Julgados que citam deliberacao-cvm-29
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: fora do acervo.
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2005/4105 | 2005-12-06 | nao-provido | contabil-demonstracoes | Recurso da Tec Toy S.A. contra entendimento da SEP/SNC que não admitiu classificar debêntures perpétuas no patrimônio líquido do balanço de 2004. Colegiado, por maioria, negou provimento. | cvm/colegiado/2005/col-20051206-d02.md |
+| decisao-colegiado | RJ2004/3491 | 2005-01-25 | nao-provido | contabil-demonstracoes | Recurso da Econorte contra determinação da SEP de estornar a capitalização de reserva de reavaliação e refazer as ITRs a partir de 31.03.2004. Reserva de reavaliação não pode ser capitalizada antes de realizada; recurso não provido. | cvm/colegiado/2005/col-20050125-d14.md |
+| decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | opa | Pedido do ofertante de OPA voluntária com procedimento diferenciado para cancelamento de registro (art. 34 da Instrução CVM 361/02), com resgate das ações remanescentes (§ 5º do art. 4º da Lei 6.404/76). Não acolhido, por unanimidade. | cvm/colegiado/2004/col-20041005-d01.md |
+| decisao-colegiado | RJ2004/4877 | 2004-09-21 | provido | auditoria-independente | Recurso contra decisão da SNC que entendeu violado o rodízio de auditores (Instrução CVM 308/99, art. 31) na substituição de auditoria da Excelsior Alimentos S/A. Recurso provido por maioria, com o entendimento de que o rodízio se refere à pessoa jurídica. | cvm/colegiado/2004/col-20040921-d06.md |
+| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | — | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | cvm/colegiado/2004/col-20040921-d01.md |
+| decisao-colegiado | RJ2004/3666 | 2004-06-24 | deferido | assembleia-acionistas | Pedido do Unibanco e da Unibanco Holdings de procedimento diferenciado (art. 23 da Instrução CVM 10/80) para alienar ações preferenciais em tesouraria por operação privada, em permuta por controle do Banco BNL do Brasil. Afastado direito de preferência, pois não há emissão de novas ações. Deferido. | cvm/colegiado/2004/col-20040624-d03.md |
+| decisao-colegiado | RJ2003/3709; RJ2003/6082 | 2004-03-09 | provido | contabil-demonstracoes | Recurso contra determinação da SEP de republicação das demonstrações financeiras de 2002 da controladora, pelos mesmos créditos tributários de IPI sem decisão final, com reflexo nas demonstrações consolidadas. Colegiado, por maioria, deu provimento ao recurso. | cvm/colegiado/2004/col-20040309-d02.md |
+| decisao-colegiado | RJ2003/6068; RJ2003/3710 | 2004-03-09 | provido | contabil-demonstracoes | Recurso contra determinação da SEP de republicação das demonstrações financeiras de 2002 de companhia com créditos tributários de IPI registrados sem decisão final, ressalvados pelos auditores. Colegiado, por maioria, deu provimento ao recurso. | cvm/colegiado/2004/col-20040309-d01.md |
+| decisao-colegiado | RJ2003/6537 | 2004-01-21 | nao-provido | contabil-demonstracoes | Recurso da Companhia Siderúrgica de Tubarão contra entendimento da SEP que vedou mudança de critério contábil de reavaliação de ativo imobilizado para custo histórico. O Colegiado negou provimento: a alteração não é oportuna, sobretudo às vésperas da reavaliação periódica exigida pelo item 15 do Pronunciamento IBRACON. | cvm/colegiado/2004/col-20040121-d10.md |
+| decisao-colegiado | RJ2003/7043 | 2004-01-21 | nao-provido | auditoria-independente | Consulta da Deloitte sobre rodízio de auditor (art. 31 da Instrução CVM nº 308/99) para clientes transferidos da Arthur Andersen. Por maioria, o Colegiado entendeu que o prazo deve contar da data em que esses clientes passaram a ser auditados pela consulente. | cvm/colegiado/2004/col-20040121-d05.md |
+| decisao-colegiado | RJ2003/2367 | 2003-11-04 | provido | contabil-demonstracoes | Recurso contra decisão da SEP sobre ajuste do ágio incorporado. Admissível, segundo a SEP, reclassificar o saldo do ativo diferido para intangível, com amortização pelo prazo da concessão e sem ajuste retrospectivo. Colegiado, por maioria, deu provimento ao recurso. | cvm/colegiado/2003/col-20031104-d03.md |
+| decisao-colegiado | RJ2003/6116; RJ2002/4166 | 2003-09-02 | nao-provido | contabil-demonstracoes | Recurso da Wetzel S.A. contra decisão da SEP que determinou refazimento, republicação e reapresentação das demonstrações de 2001 e 2002, da IAN/2001 e da 1ª ITR/2002, com estorno de efeitos do ajuste a valor presente. Colegiado negou provimento, em linha com os pareceres da SNC. | cvm/colegiado/2003/col-20030902-d02.md |
+| decisao-colegiado | RJ2002/3581; RJ2002/6862; RJ2002/5582 | 2003-02-14 | deferido | contabil-demonstracoes | Recurso da Varig contra determinação da SEP de refazer e republicar demonstrações de 2001 e ITRs de 2002, por ativo contingente de ICMS, resultado não operacional e outros itens. Colegiado manteve a determinação, propondo publicação comparativa às demonstrações de 2002, com reapresentação da DFP de 2001 quanto a um item. | cvm/colegiado/2003/col-20030214-d01-r2.md |
+| decisao-colegiado | SP2001/0074 | 2002-07-03 | parcial | contabil-demonstracoes | Recurso contra a decisão da SMI de ajustes nos demonstrativos financeiros e no fundo de garantia. Proc. SP2001/0074. | cvm/colegiado/2002/col-20020703-d01.md |
+| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+| decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
+| decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | cvm/decisoes-antigas/1989.md |
