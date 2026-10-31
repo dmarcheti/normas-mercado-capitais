@@ -262,6 +262,13 @@ SINAIS = (
 )
 
 
+# "Processo origem CVM 95/1449", "Processo CVM RJ2001/6094", "Processo na primeira instância CVM
+# 08/2009": o processo de primeira instância é da CVM, e isso decide sobre o "RECORRIDO: BANCO
+# CENTRAL" que o modelo dos acórdãos antigos trazia em recursos da CVM.
+ORIGEM_CVM = re.compile(r"\bPROCESSOS?\s+(?:DE\s+)?(?:ORIGEM\s+)?(?:NA\s+PRIMEIRA\s+INST[ÂA]NCIA\s*:?\s*)?"
+                        r"(?:BCB\s+)?CVM\s+(?:N[º°O.]*\s*)?(?:RJ|SP)?\s*[-/]?\s*\d", re.I)
+
+
 def orgao_por_sinais(texto):
     """(órgão, critério) pelos sinais do preâmbulo."""
     t = plana(texto.replace("\n", " "))
@@ -274,8 +281,11 @@ def orgao_por_sinais(texto):
         (o, nomes), = achados.items()
         return o, "preâmbulo: " + ", ".join(nomes)
     if achados:
-        return "INDETERMINADO", "sinais conflitantes (%s)" % "; ".join(
+        conflito = "sinais conflitantes (%s)" % "; ".join(
             "%s: %s" % (o, ", ".join(n)) for o, n in achados.items())
+        if "CVM" in achados and ORIGEM_CVM.search(t):
+            return "CVM", "processo de origem da CVM; " + conflito
+        return "INDETERMINADO", conflito
     return "INDETERMINADO", "sem sinal no preâmbulo"
 
 
@@ -350,8 +360,8 @@ def classificar(pares, cliente, cam, pm=pdf_macos, log=print):
     classif.setdefault("erros", {})
     feitos = 0
     for id_, item in pares:
-        if id_ in classif["itens"]:
-            continue
+        if id_ in classif["itens"] and classif["itens"][id_]["orgao"] != "INDETERMINADO":
+            continue  # indeterminado é reclassificado (a regra pode ter mudado)
         try:
             reg = classificar_item(id_, item, cliente, cam["cache"], pm)
         except Exception as e:  # noqa: BLE001 — erro do item fica registrado; nova tentativa depois

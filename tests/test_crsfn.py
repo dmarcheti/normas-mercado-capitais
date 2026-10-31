@@ -191,6 +191,18 @@ class TestClassificar(Base):
         self.assertIn("conflitantes", crit)
         self.assertEqual(crsfn.orgao_por_sinais("Recurso 1")[1], "sem sinal no preâmbulo")
 
+    def test_processo_de_origem_da_cvm_decide_o_conflito(self):
+        # acórdão antigo: modelo com "RECORRIDO: BANCO CENTRAL", processo de origem da CVM
+        for texto in ("Processo origem CVM 95/1449 RECURSOS VOLUNTÁRIOS RECORRIDO: BANCO CENTRAL DO BRASIL",
+                      "Processo BCB CVM RJ/2001/007686 RECORRIDA: COMISSÃO DE VALORES MOBILIÁRIOS e BACEN",
+                      "Processo na primeira instância CVM 08/2009 EMBARGADO: CONSELHO; BANCO CENTRAL"):
+            o, crit = crsfn.orgao_por_sinais(texto)
+            self.assertEqual(o, "CVM", texto)
+            self.assertIn("processo de origem da CVM", crit)
+        # processo do BCB com a CVM só citada continua em conflito
+        self.assertEqual(crsfn.orgao_por_sinais("Processo BCB 0301203449 RECORRIDO: COMISSÃO DE "
+                                                "VALORES MOBILIÁRIOS; Banco Central")[0], "INDETERMINADO")
+
 
 class TestConverter(Base):
     def setUp(self):
