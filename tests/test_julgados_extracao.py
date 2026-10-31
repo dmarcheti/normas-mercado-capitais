@@ -256,6 +256,14 @@ class ExecucaoTest(Arvore):
         self.assertEqual([x["id"] for x in ler(os.path.join(self.saida, lote, "lote.json"))],
                          ["cvm-col-20250001-d1"])
 
+    def test_prefixo_do_lote_leva_o_pid(self):
+        # duas filas que começam no mesmo segundo não podem escrever nas mesmas pastas
+        self.julgado("cvm-col-20250001-d1")
+        with mock.patch.object(ex.os, "getpid", return_value=4242), redirect_stdout(io.StringIO()):
+            ex.main(["--onda", "1", "--simular", "--raiz", self.raiz, "--saida", self.saida])
+        (lote,) = os.listdir(self.saida)
+        self.assertRegex(lote, r"-haiku-\d{6}-4242-001$")
+
     def test_trabalho_dentro_do_repositorio_e_recusado(self):
         with self.assertRaises(ValueError):
             ex.pasta_de_trabalho(os.path.join(jc.RAIZ, "dados"))

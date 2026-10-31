@@ -30,6 +30,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -735,10 +736,9 @@ def main(argv=None):
             print("sem arquivo convertido: %s" % ", ".join(sorted(faltam)), file=sys.stderr)
     else:  # retomável: sem --ids, fica de fora o que já tem tema e não quer mais ementa
         itens = [x for x in itens if x["pendente"]]
-    prefixo = "%s-%s" % (jc.hoje_sp(), a.model)
-    n = len(glob.glob(os.path.join(a.saida, prefixo + "*")))
-    pastas = montar_lotes([x["url"] for x in itens], a.saida,
-                          prefixo + ("-%d" % n if n else ""))
+    # hora e pid no prefixo: filas paralelas que começam juntas não dividem pastas de lote
+    prefixo = "%s-%s-%s-%d" % (jc.hoje_sp(), a.model, time.strftime("%H%M%S"), os.getpid())
+    pastas = montar_lotes([x["url"] for x in itens], a.saida, prefixo)
     print("%d julgado(s) em %d lote(s) em %s" % (len(itens), len(pastas), a.saida))
     if a.simular:
         return 0
