@@ -904,8 +904,27 @@ def converter_item(item, pasta, pm=pdf_macos):
     return valores, corpo_md, cv
 
 
+def _preservar_extracao(valores, caminho):
+    """Reconversão não apaga a extração (Task 4): ementa e tema extraídos ficam enquanto a fonte
+    não trouxer os seus; resultado e relator antigos ficam se a conversão não achar outros."""
+    try:
+        antigo, _ = je.ler_julgado(caminho)
+    except (OSError, ValueError):
+        return valores
+    v = dict(valores)
+    if antigo.get("ementa_fonte") == "extracao" and v.get("ementa_fonte") in ("titulo", ""):
+        v["ementa"], v["ementa_fonte"] = antigo.get("ementa", ""), "extracao"
+    if antigo.get("tema_fonte") == "extracao" and not v.get("tema"):
+        v["tema"], v["tema_fonte"] = antigo.get("tema", ""), "extracao"
+    for c in ("resultado", "relator"):
+        if not v.get(c) and antigo.get(c):
+            v[c] = antigo[c]
+    return v
+
+
 def gravar_julgado(valores, corpo, raiz=jc.RAIZ):
     caminho = jc.caminho_julgado(valores["tipo"], valores["id"], valores["data"][:4], raiz)
+    valores = _preservar_extracao(valores, caminho)
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     tmp = caminho + ".parcial"
     with open(tmp, "w", encoding="utf-8") as f:

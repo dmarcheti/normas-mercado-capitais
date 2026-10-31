@@ -156,6 +156,27 @@ class ConverterTest(unittest.TestCase):
             pass
         return caminho, md
 
+    def test_reconversao_preserva_a_extracao(self):
+        novo = {c: "" for c in jc.CAMPOS}
+        novo.update(id="cvm-col-20250101-d1", orgao="cvm", tipo="decisao-colegiado",
+                    data="2025-01-01", ementa="RECURSO", ementa_fonte="titulo")
+        extraido = dict(novo, ementa="Recurso contra multa; negado.", ementa_fonte="extracao",
+                        tema="processual", tema_fonte="extracao", resultado="nao-provido",
+                        relator="SEP")
+        caminho = conv.gravar_julgado(extraido, "# X\n", self.raiz)
+        conv.gravar_julgado(dict(novo), "# X\n", self.raiz)
+        v, _ = je.ler_julgado(caminho)
+        self.assertEqual((v["ementa"], v["ementa_fonte"], v["tema"], v["tema_fonte"],
+                          v["resultado"], v["relator"]),
+                         ("Recurso contra multa; negado.", "extracao", "processual", "extracao",
+                          "nao-provido", "SEP"))
+        # o que a conversão traz da fonte prevalece sobre o extraído
+        conv.gravar_julgado(dict(novo, ementa="Ementa publicada.", ementa_fonte="cvm",
+                                 resultado="provido"), "# X\n", self.raiz)
+        v, _ = je.ler_julgado(caminho)
+        self.assertEqual((v["ementa"], v["ementa_fonte"], v["resultado"]),
+                         ("Ementa publicada.", "cvm", "provido"))
+
     def test_colegiado_com_anexo_termo_sei_e_alheio(self):
         pagina = fixture("colegiado-item.html").replace(b"__CPF__", CPF.encode())
         anexo = B + "/export/sites/cvm/decisoes/anexos/2025/20251202/3228_25.pdf"
