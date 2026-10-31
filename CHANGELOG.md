@@ -1,5 +1,18 @@
 # Histórico de versões
 
+## v1.1.0 (em preparo; a tag sai depois da Fase 3b)
+
+- **Julgados:** 15.000 julgados em 5 plugins `julgados-*`.
+  - 10.501 decisões do Colegiado;
+  - 1.714 termos de compromisso;
+  - 1.419 PAS;
+  - 1.342 acórdãos do CRSFN em recurso de decisão da CVM;
+  - 24 arquivos anuais de decisões antigas (1978–2001).
+- **Índices:** por ano, por tema e por norma citada, com índice reverso de citações no acervo de normas (`indices/citacoes/`).
+- **Extração:** ementa (onde a fonte não traz a sua) e tema por LLM, validados item a item; nome de pessoa fora do frontmatter, dados pessoais retirados do corpo.
+- **SPEC v0.5.0:** seção Julgados, com frontmatter próprio e listas fechadas de `resultado`.
+- **Resultados e exceções:** `fontes/RESULTADOS.md`, seção Fase 2d.
+
 ## v1.0.0 (2026-10-30)
 
 Primeira versão completa do acervo, ainda em repositório privado.

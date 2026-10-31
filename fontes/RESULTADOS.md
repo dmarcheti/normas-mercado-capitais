@@ -170,3 +170,35 @@ Método, amostra e resultado em `VERIFICACAO.md`. Scripts: `scripts/auditoria.py
 
 - Camada 4: as 26 normas do CMN e do BCB alteradas cujo texto na busca de normas do BCB é a redação original passam a vir do PDF `_vN_L` da última versão (`scripts/bcb_versoes.py`). Ficam com `nivel_verificacao: pdf-extraido`. A conferência pelo pypdf fica abaixo de 99% em 24 das 31 normas da camada tiradas de PDF, porque o pypdf parte palavras. A ordem das palavras foi medida contra o pypdf: só a Res. CMN 1.502 tinha desvio relevante, e ela foi corrigida à mão.
 - Legibilidade de PDF: tickers e ISINs contam como texto legível, e números puros saem da fração. O OC CVM/SMI 2/2023 deixa o OCR. Os outros 7 ofícios por OCR não têm camada de texto.
+
+## Fase 2d: julgados da CVM e do CRSFN (2026-10-31)
+
+15.000 julgados em 5 plugins: 10.501 decisões do Colegiado, 1.714 termos de compromisso, 1.419 PAS, 1.342 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Por data: 3.448 de 2019 em diante, 6.531 de 2010 a 2018 e 5.021 até 2009. Scripts: `scripts/julgados_inventario.py`, `julgados_baixar.py`, `julgados_converter.py`, `crsfn.py`, `julgados_extracao.py`, `pii.py` e `indice.py`; regras na SPEC v0.5.0.
+
+| Plugin | Julgados | Arquivos | Tamanho |
+|---|---|---|---|
+| `julgados-colegiado-2002-2008` (com as decisões antigas) | 2.983 | 3.208 | 45,1 MB |
+| `julgados-colegiado-2009-2015` | 4.161 | 4.363 | 59,3 MB |
+| `julgados-colegiado-2016-2026` | 3.381 | 3.734 | 77,5 MB |
+| `julgados-pas` | 1.419 | 1.726 | 113,4 MB |
+| `julgados-tc-crsfn` | 3.056 | 3.367 | 121,4 MB |
+
+Limite do claude.ai: 200 MB e 5.000 arquivos por plugin. Normas fora do acervo citadas por menos de 10 julgados ficam num arquivo por família (`indices/norma-fora-outras-<família>.md`).
+
+- **Conversão e conferência.** Nível de verificação: 4.156 `html-convertido`, 10.539 `pdf-extraido` e 305 `ocr`. A conferência independente (pypdf ou texto do HTML) fica abaixo do limite em 4 decisões do Colegiado, marcadas no `incerteza`; nos casos abertos, a diferença é artefato (menu do HTML, palavras partidas pelo pypdf), não texto perdido.
+- **Citações.** Amostra de 40 julgados conferida contra o texto: 39 certas (97,5%). No erro, a fonte escreve "Deliberação CVM nº 480/09" para outra norma. Correções no lote: ponto de milhar em intervalo de artigos ("1.009"), "Lei das Estatais" como Lei 13.303, conectivo colado ao número ("4ºe 5º", "132 e133").
+- **Extração por LLM** (Haiku, `claude -p`, lotes de 25, validação item a item): tema em todos os julgados, exceto as 24 decisões antigas (um arquivo por ano, com dezenas de decisões); ementa onde a fonte não traz a sua (7.830 extraídas; 1.405 PAS com a ementa da CVM e 1.339 acórdãos com a do CRSFN). Custo equivalente na API: US$ 31,90.
+  - 172 julgados ficam com a ementa montada do título: a ementa extraída foi reprovada pelo validador (nome de pessoa, dado pessoal ou tamanho) duas vezes.
+  - Recorte da extração: nas decisões do Colegiado, a deliberação fica no meio da seção "Decisão" e o fim do documento é o anexo da área técnica. O recorte passou a levar os parágrafos de deliberação e o fim da seção; as 559 decisões cuja ementa dizia "sem decisão no recorte" foram reextraídas. Ficam 144 ementas que mencionam o recorte, a maioria de atas de pauta normativa em que a fonte não traz o texto da minuta.
+  - 1.228 decisões do Colegiado, 81 termos de compromisso e 30 PAS ficam sem `resultado` (matéria sem deliberação de mérito ou texto sem o dispositivo).
+- **Dados pessoais (D3).** Nome de pessoa só no corpo; CPF, RG, endereço residencial, telefone, e-mail pessoal, data de nascimento e conta bancária viram `[dado pessoal retirado]`. A varredura final achou CPF e RG que escapavam (hífen antes do número, "CPFMF", "RG n.º", "identidade nº", "RG/SSP/SP") e endereços residenciais (parêntese no meio do endereço, "nesta cidade", "reside na Rua", endereço depois do CPF, logradouro com apartamento); `pii.py` foi corrigido e 79 julgados reconvertidos. Varredura final: 0 CPF, 0 RG; e-mails só `@cvm.gov.br`. CNPJ fica no texto dos julgados (decisão C do plano).
+- **Decisões antigas.** Os PDFs anuais trazem atas de anos anteriores; a `data` é a da primeira reunião do ano do arquivo. Atas com complemento antes da data ("COM O SUPERINTENDENTE GERAL", 1979) eram descartadas com a capa; corrigido, cobertura de 0,9926 a 1,0 nos 24 arquivos.
+- **Termos de compromisso de 2004–2006** sem processo na listagem: o número do PAS vem do título ("PAS CVM Nº 27/99" → `27/99`). Três itens do Colegiado sem número publicado ficam com `processo` vazio (SPEC).
+- **Teste de fumaça:** 5 perguntas via `claude -p` com a skill de cada plugin (PAS com FIDC em 2023, CRSFN e insider trading, dispensa em oferta de CRI, atas de 1979, TC e art. 11, § 5º, da Lei 6.385). As 5 respostas citam processo e data e trazem as ressalvas de fonte; a terceira apontou a ementa errada que levou à correção do recorte.
+
+Exceções:
+
+- `cvm-col-20250408-d3248`: a página responde HTTP 410; fica fora.
+- CRSFN: 20 acórdãos sem fonte disponível (19 em `sei.economia.gov.br`, um deles da CVM, processo 19957.100008/2019-12, e `crsfn-14303`); 4 sem data da sessão (`crsfn-5440`, `crsfn-8252`, `crsfn-9248`, `crsfn-8542`). `crsfn-5991` (sem processo de origem no texto) e `crsfn-edcl-14324` (preâmbulo com codificação quebrada) são da CVM, mas a classificação automática não os pega.
+- Três acórdãos do CRSFN (`crsfn-2959`, `crsfn-2912`, `crsfn-2824`) julgam PAS de 1993, 1996 e 1997 que não estão na lista de PAS da CVM.
+- 19 julgados e 30 índices citam nomes que estão na lista privada de termos do pre-commit; ficaram fora do commit até decisão do mantenedor.
