@@ -30,11 +30,11 @@ def _dv_cpf_ok(d):
 
 
 # CPF formatado (pontos/vírgulas e hífen, com espaço solto do OCR); não casa CNPJ (2.3.3/4-2).
-_CPF_FMT = re.compile(r"(?<![\w./-])\d{3}\s?[.,]\s?\d{3}\s?[.,]\s?\d{3}\s?[-–]\s?\d{2}(?![\w/])")
+_CPF_FMT = re.compile(r"(?<![\w./])(?<!\d[-–])\d{3}\s?[.,]\s?\d{3}\s?[.,]\s?\d{3}\s?[-–]\s?\d{2}(?![\w/])")
 # CPF rotulado ("CPF/MF nº", "C.P.F.", "CIC", "inscrito no CPF sob o nº"), número com ruído.
 _CPF_ROT = re.compile(
-    r"(?:\bCPF|\bC\.\s?P\.\s?F\.?|\bCIC)(?:\s*[/I]\s*M\.?[FE]\.?)?\s*(?:[:\-–]\s*)?"
-    r"(?:(?:sob\s+o\s+)?(?:n[º°o'’]\.?|n\.|número)\s*)?[:\s\-–]*"
+    r"(?:\bCPF|\bC\.\s?P\.\s?F\.?|\bCIC)(?:\s*[/I]?\s*M\.?[FE]\.?)?\s*(?:[:\-–]\s*)?"
+    r"(?:(?:sob[\s\-]+o[\s\-]+)?(?:n\.?\s?[º°o'’]\.?|n\.|número)\s*)?[:\s\-–]*"
     r"(" + _D + r"(?:[\s.,\-–/]{0,2}" + _D + r"){7,11}[\s.,\-–/]{0,2}\d)(?![0-9])", re.I)
 # CPF só com dígitos: 11 dígitos soltos com dígito verificador válido.
 _CPF_PURO = re.compile(r"(?<![\w./-])\d{11}(?![\w/])")
@@ -46,7 +46,7 @@ def achar_cpfs(texto):
     for m in _CPF_ROT.finditer(texto):
         num = m.group(1)
         dig = re.sub(r"\D", "", num.translate(str.maketrans("OoIl", "0011")))
-        if 9 <= len(dig) <= 11 and len(set(dig)) > 1 and not re.search(r"\d{2}\.?\d{3}\.?\d{3}/\d{4}", num):
+        if 9 <= len(dig) <= 12 and len(set(dig)) > 1 and not re.search(r"\d{2}\.?\d{3}\.?\d{3}/\d{4}", num):
             spans.append(m.span(1))
     for m in _CPF_FMT.finditer(texto):
         if len(set(re.sub(r"\D", "", m.group(0)))) > 1:
@@ -59,12 +59,12 @@ def achar_cpfs(texto):
 
 # RG: rótulo + número (com dígitos) + órgão expedidor opcional. "RG:" sem número não dispara.
 _RG = re.compile(
-    r"(?:\bR\.?\s?G\.?(?=[\s:nN])|\b[Cc]arteira\s+de\s+[Ii]dentidade(?:\s+[Pp]rofissional)?|"
+    r"(?:\bR\.?\s?G\.?(?=[\s:nN/])|\b[Ii]dentidade(?=\s*(?:n|:))|\b[Cc]arteira\s+de\s+[Ii]dentidade(?:\s+[Pp]rofissional)?|"
     r"\b[Cc][ée]dula\s+de\s+[Ii]dentidade|\bdocumento\s+de\s+identidade)"
-    r"(?:\s*/\s*[A-Z]{2,})?\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:n[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
+    r"(?:\s*/\s*[A-Z]{2,}){0,3}\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:n\.?\s?[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
     # o número (com ruído de OCR e órgão emissor) vai até a vírgula, o ponto e vírgula, o " e " ou
     # o "inscrito"/"expedida" seguinte; precisa de 4 dígitos para contar
-    r"(\d[^,;\n()]{2,38}?(?=\s*(?:[,;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|$))"
+    r"(\d[^,;\n()]{2,38}?(?=\s*(?:[,;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
     r"(?:\s*,?\s*(?:expedid[ao]|emitid[ao])\s+pel[ao]\s+[A-ZÀ-Ýa-z/\-. ]{2,30}?(?=[,;)\n]|\s+e\s|$))?)")
 
 
@@ -94,13 +94,25 @@ def _substituir(texto, spans):
 
 # ---------------------------------------------------------------- endereço
 
+_LOGRADOURO = (r"(?:Rua|R\.|Av\.?|Avenida|Alameda|Al\.|Travessa|Estrada|Largo|Praça|Rodovia)"
+               r"(?=\s)")
 _END_GATILHO = re.compile(
     r"\b(?:residentes?\s+e\s+domiciliad[oa]s?|domiciliad[oa]s?|residentes?|"
+    # o verbo só com logradouro: "reside na Rua A" (e não "a questão reside no fato")
+    r"resid(?:e|em|ia|iam)(?=\s+(?:na|no|à)\s+" + _LOGRADOURO + r")|"
     r"com\s+endere[çc]o(?:\s+residencial)?|endere[çc]o\s+residencial|"
-    # "O endereço constante da base de dados do SERPRO é a Rua ..." (cadastro citado no voto)
+    # "O endereço constante da base de dados do SERPRO é a Rua ..." (cadastro citado no voto);
+    # "o último endereço informado pelo Sr. Fulano: Rua ..."
     r"endere[çc]o\s+(?:residencial\s+)?(?:constante|cadastrad[oa]|registrad[oa]|informad[oa]|"
-    r"conhecid[oa]|atual|indicad[oa])[^.;\n]{0,60}?\s(?:é|era|seria))\s*:?\s*"
-    r"(?=(?:na|no|nas|nos|em|à|a)\b|:)", re.I)
+    r"conhecid[oa]|atual|indicad[oa])(?:[^.;\n]|\bSra?\.){0,60}?(?:\s(?:é|era|seria)|(?=:))|"
+    r"ficha\s+cadastral(?=\s*:\s*[\"“]?\s*" + _LOGRADOURO + r")|"
+    # endereço logo depois do CPF ou do RG ("inscrita no CPF sob o nº X, na rua A, 300")
+    r"(?:\bCPF|C\.P\.F|\bRG\b|identidade)[^;\n]{0,60}?,(?=\s*(?:na|no|à)\s+" + _LOGRADOURO + r"))"
+    r"\s*:?\s*[\"“”]?\s*\(?\s*"
+    r"(?=(?:na|no|nas|nos|em|à|a|nest[ae])\b|:|cidade\b|" + _LOGRADOURO + r")", re.I)
+# Logradouro com apartamento é endereço de pessoa, mesmo sem gatilho ("Largo A, 96 apto. 18").
+_END_APTO = re.compile(r"\b" + _LOGRADOURO + r"[^;\n()]{2,80}?\b(?:apto?|aptº|apartamento)\.?\s*"
+                       r"(?:n[º°]\.?\s*)?\d+", re.I)
 # CEP logo depois do fim do endereço ("residente na Rua A (Centro), CEP 24000-000") sai junto.
 _CEP_RESTO = re.compile(r"\)?\s*[,–-]?\s*CEP\s*:?\s*\d{2}\.?\d{3}-?\d{3}", re.I)
 _ABREV = {"av", "r", "al", "pça", "pç", "praça", "rod", "est", "estr", "cj", "conj", "ap", "apto",
@@ -109,7 +121,8 @@ _ABREV = {"av", "r", "al", "pça", "pç", "praça", "rod", "est", "estr", "cj", 
           "dr", "dra", "sr", "sra", "tv", "trav", "lgo", "sh", "shis", "qi", "ql", "km", "cond",
           "edif", "ed", "res", "loja", "sala", "andar", "nr", "num", "dep", "fl"}
 _FIM_END = re.compile(
-    r";|\n\s*\n|\)|"
+    # parêntese no meio do endereço ("na Cidade de São Paulo (SP), na Rua A") não encerra
+    r";|\n\s*\n|\)(?!\s*,?\s*(?:na|no|em|à)\s+" + _LOGRADOURO + r")|"
     r",?\s+e\s+(?:o|a|os|as)\s+(?:Sr|Sra|Srs|senhor|senhora)\b|"
     r",\s*(?=(?:portador|inscrit|neste\s+ato|doravante|denominad|aqui\s+representad|"
     r"brasileir|nascid|filh[oa]\s+de|e-?mail|telefone|tel\.|fone|RG\b|R\.G\.|CPF|C\.P\.F|CIC\b|"
@@ -151,6 +164,12 @@ def _enderecos(texto):
                      r"município|bairro|cep|quadra|lote|condomínio|SQS|SQN|SHIS|estado)\b",
                      trecho, re.I):
             spans.append((ini, fim))
+    for m in _END_APTO.finditer(texto):
+        if re.search(r"\bsede\b", texto[max(0, m.start() - 40):m.start()], re.I):
+            continue
+        fim = _fim_endereco(texto, m.end())
+        resto = _CEP_RESTO.match(texto, fim)
+        spans.append((m.start(), resto.end() if resto else fim))
     return spans
 
 

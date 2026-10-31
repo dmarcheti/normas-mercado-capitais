@@ -74,6 +74,17 @@ class RecorteTest(unittest.TestCase):
         self.assertTrue(r.endswith("p2999"))
         self.assertLess(len(r.split()), 1100)
 
+    def test_deliberacao_do_colegiado_no_meio_entra(self):
+        # a deliberação fica no meio da "## Decisão"; o fim do documento é o anexo da área técnica
+        corpo = ("# CONSULTA\n\n## Decisão\n\n" + " ".join("d%d" % i for i in range(1500))
+                 + "\n\nO Colegiado, por unanimidade, acompanhou as conclusões da área técnica.\n\n"
+                 + " ".join("e%d" % i for i in range(800))
+                 + "\n\n## Manifestação da área técnica\n\n" + " ".join("m%d" % i for i in range(5000)))
+        r = ex.recorte(corpo)
+        self.assertIn("O Colegiado, por unanimidade, acompanhou", r)
+        self.assertIn("e799", r)  # fim da seção "## Decisão"
+        self.assertLess(len(r.split()), 1700)
+
     def test_temas_iguais_ao_prompt(self):
         with open(ex.PROMPT, encoding="utf-8") as f:
             prompt = f.read()
@@ -255,6 +266,22 @@ class ExecucaoTest(Arvore):
         (lote,) = os.listdir(self.saida)
         self.assertEqual([x["id"] for x in ler(os.path.join(self.saida, lote, "lote.json"))],
                          ["cvm-col-20250001-d1"])
+
+    def test_refazer_sobrescreve_ementa_extraida_e_resultado(self):
+        c = self.julgado("cvm-col-20250003-d3", tema="processual", tema_fonte="extracao",
+                         ementa="Consulta. Sem decisão no recorte.", ementa_fonte="extracao",
+                         resultado="indeferido")
+        novo = {"ementa": "Consulta; dispensa deferida.", "resultado": "deferido", "tema": "ofertas"}
+        self.assertEqual(ex.aplicar(c, novo), [])  # sem refazer, nada muda
+        self.assertEqual(sorted(ex.aplicar(c, novo, refazer=True)), ["ementa", "resultado"])
+        v, _ = ex.ler_julgado(c)
+        self.assertEqual((v["ementa"], v["resultado"], v["tema"]),
+                         ("Consulta; dispensa deferida.", "deferido", "processual"))
+        # ementa da fonte (cvm) não é tocada nem no refazer
+        c2 = self.julgado("cvm-pas-4", tipo="pas", ementa="Ementa da CVM.", ementa_fonte="cvm")
+        self.assertNotIn("ementa", ex.aplicar(c2, novo, refazer=True))
+        with self.assertRaises(SystemExit), redirect_stderr(io.StringIO()):
+            ex.main(["--refazer", "--onda", "1", "--simular", "--raiz", self.raiz])
 
     def test_prefixo_do_lote_leva_o_pid(self):
         # duas filas que começam no mesmo segundo não podem escrever nas mesmas pastas

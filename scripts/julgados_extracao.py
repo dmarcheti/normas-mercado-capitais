@@ -42,6 +42,11 @@ SAIDA = os.path.join(jc.RAIZ, "dados", "fase-2d", "extracao")
 COFRE = os.path.realpath(os.path.expanduser("~/cerebro"))
 TAMANHO_LOTE = 25
 PALAVRAS_INICIO, PALAVRAS_FIM, PALAVRAS_EXTRATO, PALAVRAS_SUMARIO = 600, 400, 900, 250
+PALAVRAS_DELIBERACAO, PALAVRAS_FIM_DECISAO = 300, 200
+# parágrafo em que o Colegiado delibera ("O Colegiado, por unanimidade, acompanhou...")
+_DELIBERACAO = re.compile(r"\bColegiado\b[^.]{0,160}?\b(?:decidiu|deliberou|acompanh|deu\s+provimento|"
+                          r"negou|aprovou|rejeitou|deferiu|indeferiu|aceitou|conheceu|determinou|"
+                          r"concluiu|entendeu|votou|julgou)", re.I)
 MAX_PALAVRAS_EMENTA = 60
 ROTINEIRAS = {"multa-cominatoria"}  # ementa de modelo, a partir do título, sem LLM (C7)
 SEM_EMENTA_EXTRAIDA = {"decisao-antiga"}  # um arquivo por ano, com dezenas de decisões
@@ -125,6 +130,17 @@ def recorte(corpo):
         miolo = (_palavras(texto, PALAVRAS_INICIO) + "\n[...]\n"
                  + _palavras(texto, PALAVRAS_FIM, do_fim=True))
     partes = [titulo, miolo]
+    # Colegiado: a deliberação costuma ficar no meio da "## Decisão", e o fim do documento é o
+    # anexo da área técnica; entram os parágrafos de deliberação e o fim da seção
+    decisao = re.sub(r"(?m)^#{2,6}\s+", "", _secao(corpo, "Decisão"))
+    if not extrato and decisao and decisao.strip() not in miolo:
+        delib = [p.strip() for p in re.split(r"\n\s*\n", decisao) if _DELIBERACAO.search(p)]
+        delib = [p for p in delib if p not in miolo]
+        if delib:
+            partes.append("DELIBERAÇÃO: " + _palavras("\n".join(delib), PALAVRAS_DELIBERACAO))
+        fim = _palavras(decisao, PALAVRAS_FIM_DECISAO, do_fim=True)
+        if fim not in miolo:
+            partes.append("FIM DA DECISÃO: " + fim)
     s = re.search(r"(?m)^\W*SUM[ÁA]RIO\b.*$", texto)
     if s and s.group(0).strip() not in miolo:
         partes.append("SUMÁRIO: " + _palavras(texto[s.end():], PALAVRAS_SUMARIO))
@@ -665,26 +681,32 @@ def quer_ementa(v):
             and v.get("tipo") not in SEM_EMENTA_EXTRAIDA)
 
 
-def aplicar(caminho, campos):
-    """Grava no frontmatter os campos extraídos, pelas regras da Task 4; devolve os alterados."""
+def aplicar(caminho, campos, refazer=False):
+    """Grava no frontmatter os campos extraídos, pelas regras da Task 4; devolve os alterados.
+    `refazer` (--refazer): a ementa extraída antes e o resultado também são substituídos."""
     v, corpo = ler_julgado(caminho)
     mudou = []
-    if "ementa" in campos and quer_ementa(v):
+    if refazer and v.get("ementa_fonte") == "extracao":
+        v["ementa_fonte"] = "titulo"  # volta a aceitar a ementa extraída (quer_ementa)
+    if "ementa" in campos and quer_ementa(v) and campos["ementa"] != v.get("ementa"):
         v["ementa"], v["ementa_fonte"] = campos["ementa"], "extracao"
         mudou.append("ementa")
     if campos.get("tema") and not v.get("tema"):
         v["tema"], v["tema_fonte"] = campos["tema"], "extracao"
         mudou.append("tema")
     for c in ("resultado", "relator"):
-        if campos.get(c) and not v.get(c):
+        if campos.get(c) and (not v.get(c) or (refazer and c == "resultado"
+                                                and campos[c] != v[c])):
             v[c] = campos[c]
             mudou.append(c)
+    if refazer and "ementa" not in mudou and v.get("ementa_fonte") == "titulo":
+        v["ementa_fonte"] = "extracao"  # a ementa extraída antes fica como estava
     if mudou:
         gravar(caminho, {k: v.get(k, "") for k in jc.CAMPOS}, corpo)
     return mudou
 
 
-def processar_lote(pasta_lote):
+def processar_lote(pasta_lote, refazer=False):
     """Valida saida.json do lote e aplica; grava validacao.json. "retentar" traz {caminho:
     motivo} das ementas reprovadas (longa, com nome, com dado pessoal) que ainda substituiriam a
     do título."""
@@ -708,7 +730,7 @@ def processar_lote(pasta_lote):
                                              type(e).__name__]
     if saida is not None:
         aprovados, erros = validar_saida(lote, saida, pessoas, reprovadas)
-    aplicados = {i: aplicar(caminhos[i], c) for i, c in aprovados.items()}
+    aplicados = {i: aplicar(caminhos[i], c, refazer) for i, c in aprovados.items()}
     retentar = {caminhos[i]: m for i, m in reprovadas.items()
                 if quer_ementa(ler_julgado(caminhos[i])[0])}
     rel = {"erros": erros, "aplicados": aplicados, "retentar": retentar}
@@ -724,10 +746,14 @@ def main(argv=None):
     ap.add_argument("--limite", type=int)
     ap.add_argument("--model", default="haiku", choices=("haiku", "sonnet"))
     ap.add_argument("--simular", action="store_true", help="só monta os lotes, sem o modelo")
+    ap.add_argument("--refazer", action="store_true",
+                    help="com --ids: substitui a ementa extraída antes e o resultado")
     ap.add_argument("--trabalho", help="pasta-base de trabalho fora do cofre (padrão /private/tmp)")
     ap.add_argument("--raiz", default=jc.RAIZ)
     ap.add_argument("--saida", default=SAIDA)
     a = ap.parse_args(argv)
+    if a.refazer and not a.ids:
+        ap.error("--refazer só com --ids")
     ids = [x.strip() for x in a.ids.split(",") if x.strip()] if a.ids else None
     itens = jc.selecionar(julgados(a.raiz), ids=ids, tipo=a.tipo, onda=a.onda, limite=a.limite)
     if ids:
@@ -747,7 +773,7 @@ def main(argv=None):
     def rodar(p, reforco=""):
         nonlocal total, falhas
         info = rodar_lote(p, a.model, a.trabalho, reforco=reforco)
-        rel = processar_lote(p)
+        rel = processar_lote(p, a.refazer)
         total += info["total_cost_usd"] or 0
         falhas += info["codigo"] != 0 or any(e.split(":")[0] not in rel["aplicados"]
                                              for e in rel["erros"])  # erro de lote

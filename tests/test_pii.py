@@ -55,6 +55,25 @@ class RgTest(unittest.TestCase):
                          "portador da carteira de identidade nº " + M)
         self.assertEqual(pii.limpar("RG: " + "1234567-8" + " SSP/SP;"), "RG: %s;" % M)
 
+    def test_rg_variantes_da_fonte(self):
+        # "n.º" com ponto antes do º, "identidade nº" sem "carteira", "RG/SSP/SP", "RG/SP/SSP"
+        for t in ("portador da Carteira de Identidade n.º %s, emitida pelo CRC/MG",
+                  "portador da Cédula de Identidade RG n.° %s-SSP/SP, inscrito",
+                  "portador da identidade n° %s IFP/RJ, inscrito",
+                  "identidade nº: %s, expedida pelo IFP",
+                  "Nome: RG/SSP/SP n° %s CPF",
+                  "cédula de identidade RG/SP/SSP n° %s e inscrito"):
+            self.assertNotIn(RG_NUM, pii.limpar(t % RG_NUM), t)
+
+    def test_cpf_variantes_da_fonte(self):
+        # hífen no lugar do espaço, "CPFMF" sem barra, número colado ao "nº", dígito a mais
+        for t in ("inscrito-no CPF/MF sob-o-n°-%s, com" % CPF_FMT,
+                  "inscrito no CPFMF sob o nº%s, com" % CPF_FMT,
+                  "CPF nº%s8, MARIA" % CPF_FMT,
+                  "CPF: %s %s" % (CPF_FMT[:3], CPF_FMT[4:])):
+            self.assertEqual(pii.achar_cpfs(t) != [], True, t)
+            self.assertNotIn(CPF_FMT[4:], pii.limpar(t), t)
+
     def test_rotulo_sem_numero_nao_dispara(self):
         t = "CPF/CNPJ: RG: RG: Endereço:"
         self.assertEqual(pii.limpar(t), t)
@@ -92,6 +111,46 @@ class EnderecoTest(unittest.TestCase):
         self.assertNotIn("Rua B", limpo)
         self.assertNotIn("22000-000", limpo)
         self.assertIn("No entanto, o acusado.", limpo)
+
+    def test_enderecos_residenciais_que_vazavam(self):
+        casos = [
+            # parêntese no meio do endereço não encerra o corte
+            "residente e domiciliado na Cidade de São Paulo (SP), na Rua A, nº 111, CEP 05000-000, "
+            "Cidade de São Paulo. Fim.",
+            # "nesta cidade", "Cidade" sem preposição
+            "residente e domiciliado nesta cidade, na Rua A, n.º 35, apto. 201. Fim.",
+            "residente e domiciliado Cidade e no Estado de São Paulo, na Av. A, 598, apto. 84. Fim.",
+            # verbo "reside"/"residia"
+            "mesmo porque ele reside na Rua A nº 740, aptº 202, e o endereço. Fim.",
+            "consta que Fulano residia na Estrada A nº 817, apartamento 502, em São Conrado. Fim.",
+            # endereço residencial entre aspas e parêntese; último endereço com dois-pontos
+            "como \"endereço residencial\" (Rua A, 125, complemento 302, Porto Alegre, RS, "
+            "CEP 90.000-120). Fim.",
+            "o último endereço informado pelo Sr. Fulano: Rua A, 81, Vila B, São Paulo –SP, "
+            "CEP: 02000-050. Fim.",
+            # depois do CPF já retirado
+            "Sra. Fulana, inscrita no CPF/MF sob o n° %s, na rua A n°. 300, bairro B, Joinvile - SC, "
+            "CEP: 89000-400. Fim." % M,
+            # ficha cadastral
+            "(Ficha cadastral: \"Rua 3, nº 470 – Lote 11 C3 – Bairro B – GO – CEP 74000-000\"). Fim.",
+            # logradouro com apartamento, sem gatilho
+            "foi enviado para o endereço Largo A, 96 apto. 1803 – Vila B CEP 01000-010. Fim.",
+        ]
+        for t in casos:
+            limpo = pii.limpar(t)
+            self.assertNotRegex(limpo, r"\b(?:Rua|Av\.|Estrada|Largo) A\b|Rua 3", t)
+            self.assertTrue(limpo.endswith("Fim."), limpo)
+
+    def test_endereco_comercial_e_apartamento_de_empreendimento_ficam(self):
+        for t in ("Beltrano, com endereço comercial na Rua A, 10, sala 2, São Paulo. Fim.",
+                  "contrato de compra e venda referente ao apartamento 436 do empreendimento X. Fim.",
+                  "Companhia X, com sede na Rua A, 10, 5º andar, CEP 20000-000. Fim.",
+                  # "reside" figurado e cidade de residência não são endereço
+                  "a disciplina legal própria reside no art. 115, da LSA e que. Fim.",
+                  "O fulcro da questão residia no fato de a SEP ter determinado. Fim.",
+                  "conselheiro que residia em Nova Iorque à época dos fatos. Fim.",
+                  "- Não atualização da ficha Cadastral: a discussão sobre sua atualização. Fim."):
+            self.assertEqual(pii.limpar(t), t)
 
 
 class OutrosTest(unittest.TestCase):
