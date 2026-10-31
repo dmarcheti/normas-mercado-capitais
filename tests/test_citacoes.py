@@ -94,6 +94,9 @@ ROTULADAS = [
      ["cmn-res-4966 art. 4º, § 2º"]),
     ("conforme o art. 1.368-C do Código Civil, o fundo",
      ["lei-10406 art. 1.368-C"]),
+    # "Lei das Estatais" é menção: o "seu artigo 17" não cai na Lei 6.404 citada antes
+    ("o artigo 147, §1º, da Lei nº 6.404/1976. Adicionalmente, a Lei das Estatais prescreve em seu artigo 17, §2º, II, que",
+     ["lei-6404 art. 147, § 1º", "fora:lei-13303 art. 17, § 2º, inciso II"]),
     ("Segundo o artigo 9º , as ações em tesouraria não podem exceder", []),
     ("CAPÍTULO III: DISPOSIÇÕES FINAIS ## Art. 108º O presente regulamento é aprovado", []),
     ("conforme o art. 4º da Lei nº 4.595/64, compete ao CMN",

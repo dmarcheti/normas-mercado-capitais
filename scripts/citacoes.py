@@ -161,7 +161,8 @@ RX_CIRC = re.compile(
     r"\s*,?\s*" + _i(NO) + r"(?P<num>" + NUM + r")(?!\d)" + ANO)
 RX_ALIAS = re.compile(
     r"(?<![\w-])(?:(?P<lsa>" + _i(r"lei\s+das\s+(?:S\.?\s?A\.?|sociedades\s+(?:por\s+a[çc][õo]es|an[ôo]nimas))") +
-    r"|LSA)|(?P<cpc>" + _i(r"c[óo]digo\s+de\s+processo\s+civil") + r"|CPC)|(?P<cc>" + _i(r"c[óo]digo\s+civil") + r"))"
+    r"|LSA)|(?P<cpc>" + _i(r"c[óo]digo\s+de\s+processo\s+civil") + r"|CPC)|(?P<cc>" + _i(r"c[óo]digo\s+civil") + r")"
+    r"|(?P<estatais>" + _i(r"lei\s+das\s+estatais") + r"))"
     r"(?![\w])")
 RX_ANEXO = re.compile(
     r"(?<![\w-])(?P<tipo>" + _i("anexo") + r"(?P<normativo>\s+" + _i("normativo") + r")?|" + _i("suplemento") + r")"
@@ -234,6 +235,8 @@ def _rotulo_alias(m):
         return "lei-6404"
     if m.group("cpc"):
         return "lei-13105"
+    if m.group("estatais"):
+        return "lei-13303"
     return "lei-10406"
 
 
