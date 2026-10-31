@@ -11,6 +11,10 @@ Regras:
   (rótulo seguido de número) também são regra fixa (decisão D3 da Fase 2d). O que já foi
   trocado por "[dado pessoal retirado]" não dispara. O achado mostra só a linha, nunca o número,
   porque a saída do CI é pública.
+- Linhas da lista que começam com "+" são expressões liberadas, que valem só nas pastas de
+  julgados: o julgado cita um fundo ou uma empresa cujo nome contém um termo da lista (decisão do
+  Diogo, 2026-10-31). A expressão liberada sai do texto antes da busca; o mesmo termo fora dela
+  continua barrando. As expressões ficam na lista privada, porque contêm os próprios termos.
 - Sem a lista, o script avisa e aplica só as regras fixas.
 
 Uso como hook: .githooks/pre-commit chama este script, que lê os arquivos
@@ -49,24 +53,37 @@ def _caminho_lista():
         return None
 
 
-def carregar_termos(caminho):
-    """Lê a lista de termos. Devolve None se o arquivo não existir."""
+def _ler_linhas(caminho):
+    """Linhas úteis da lista (sem comentário nem linha vazia). None se o arquivo não existir."""
     try:
         with open(caminho, encoding="utf-8") as f:
             linhas = f.read().splitlines()
     except OSError:
         return None
-    termos = []
-    for linha in linhas:
-        linha = linha.strip()
-        if linha and not linha.startswith("#"):
-            termos.append(linha)
-    return termos
+    return [l.strip() for l in linhas if l.strip() and not l.strip().startswith("#")]
+
+
+def carregar_termos(caminho):
+    """Lê a lista de termos (sem as expressões liberadas). Devolve None se o arquivo não existir."""
+    linhas = _ler_linhas(caminho)
+    return None if linhas is None else [l for l in linhas if not l.startswith("+")]
+
+
+def carregar_liberadas(caminho):
+    """Lê as expressões liberadas nos julgados (linhas com "+"). Lista vazia sem o arquivo."""
+    return [l[1:].strip() for l in _ler_linhas(caminho) or [] if l.startswith("+") and l[1:].strip()]
 
 
 def _padrao_termo(termo):
     # Casa o termo inteiro, sem diferenciar maiúsculas, e não dentro de outra palavra.
     return re.compile(r"(?<!\w)" + re.escape(termo) + r"(?!\w)", re.IGNORECASE)
+
+
+def _padrao_liberada(expressao):
+    # Espaço da expressão casa qualquer espaço ou quebra; hífen aceita espaço em volta, como o
+    # texto extraído de PDF traz ("FIDC- NP"). O fim fica aberto ("Investimento" casa "Investimentos").
+    pedacos = [re.escape(p).replace(r"\-", r"\s*-\s*") for p in expressao.split()]
+    return re.compile(r"(?<!\w)" + r"\s+".join(pedacos), re.IGNORECASE)
 
 
 # Julgados (Fase 2d): texto gerado por script a partir das fontes da CVM e do CRSFN, que citam
@@ -75,14 +92,16 @@ def _padrao_termo(termo):
 PASTA_JULGADOS = re.compile(r"^plugins/julgados-[a-z0-9-]+/julgados/")
 
 
-def varrer(textos, termos):
+def varrer(textos, termos, liberadas=()):
     """Devolve os achados no formato "arquivo: termo", em ordem estável.
 
     textos: dict nome_do_arquivo -> conteúdo. termos: lista de nomes proibidos.
+    liberadas: expressões que saem do texto dos julgados antes da busca dos termos.
     Para CNPJ, o "termo" é o próprio número achado; para CPF e RG, "CPF na linha N".
     """
     achados = []
     padroes = [(t, _padrao_termo(t)) for t in termos]
+    padroes_liberadas = [_padrao_liberada(e) for e in liberadas]
     for arquivo in sorted(textos):
         texto = textos[arquivo]
         vistos = set()
@@ -97,6 +116,9 @@ def varrer(textos, termos):
         for rotulo, achar in (("CPF", pii.achar_cpfs), ("RG", pii.achar_rgs)):
             for a, _ in achar(texto):
                 achados.append("%s: %s na linha %d" % (arquivo, rotulo, texto.count("\n", 0, a) + 1))
+        if PASTA_JULGADOS.match(arquivo):
+            for padrao in padroes_liberadas:
+                texto = padrao.sub(" ", texto)
         for termo, padrao in padroes:
             if padrao.search(texto):
                 achados.append("%s: %s" % (arquivo, termo))
@@ -117,6 +139,7 @@ def _arquivos_em_stage():
 def main():
     caminho = _caminho_lista()
     termos = carregar_termos(caminho) if caminho else None
+    liberadas = carregar_liberadas(caminho) if caminho else []
     if termos is None:
         print(
             "AVISO: lista de termos não encontrada; só as regras fixas (CNPJ, CPF, RG) foram aplicadas.",
@@ -142,7 +165,7 @@ def main():
         # O nome do arquivo também é varrido.
         textos[arq + " (nome)"] = arq
 
-    achados = varrer(textos, termos)
+    achados = varrer(textos, termos, liberadas)
     if achados:
         print("Varredura bloqueou o commit:", file=sys.stderr)
         for a in achados:

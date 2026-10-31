@@ -201,4 +201,4 @@ Exceções:
 - `cvm-col-20250408-d3248`: a página responde HTTP 410; fica fora.
 - CRSFN: 20 acórdãos sem fonte disponível (19 em `sei.economia.gov.br`, um deles da CVM, processo 19957.100008/2019-12, e `crsfn-14303`); 4 sem data da sessão (`crsfn-5440`, `crsfn-8252`, `crsfn-9248`, `crsfn-8542`). `crsfn-5991` (sem processo de origem no texto) e `crsfn-edcl-14324` (preâmbulo com codificação quebrada) são da CVM, mas a classificação automática não os pega.
 - Três acórdãos do CRSFN (`crsfn-2959`, `crsfn-2912`, `crsfn-2824`) julgam PAS de 1993, 1996 e 1997 que não estão na lista de PAS da CVM.
-- 19 julgados e 30 índices citam nomes que estão na lista privada de termos do pre-commit; ficaram fora do commit até decisão do mantenedor.
+- 19 julgados e 30 índices citam fundos e empresas cujo nome contém um termo da lista privada do pre-commit. Por decisão do Diogo (2026-10-31), entram na base: a lista privada passou a aceitar expressões liberadas (linhas com "+"), que valem só nas pastas de julgados; o mesmo termo fora dessas expressões continua barrando.

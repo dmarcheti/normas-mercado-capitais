@@ -128,3 +128,38 @@ class TestJulgados(unittest.TestCase):
         arq = "plugins/julgados-pas/julgados/cvm/pas/2023/x.md"
         self.assertEqual(varrer({arq: "caso da Fulana Ltda"}, ["Fulana"]), [arq + ": Fulana"])
 
+
+
+class TestExpressoesLiberadas(unittest.TestCase):
+    ARQ = "plugins/julgados-pas/julgados/cvm/pas/2023/x.md"
+
+    def test_expressao_liberada_passa_so_nos_julgados(self):
+        txt = "a administradora do Fundo Alfa Credito respondeu"
+        self.assertEqual(varrer({self.ARQ: txt}, ["Alfa"], ["Fundo Alfa"]), [])
+        self.assertEqual(varrer({"plugins/normas/normas/x.md": txt}, ["Alfa"], ["Fundo Alfa"]),
+                         ["plugins/normas/normas/x.md: Alfa"])
+
+    def test_termo_fora_da_expressao_continua_barrando(self):
+        txt = "o Fundo Alfa e a Alfa Gestora"
+        self.assertEqual(varrer({self.ARQ: txt}, ["Alfa"], ["Fundo Alfa"]), [self.ARQ + ": Alfa"])
+
+    def test_espaco_quebra_hifen_e_maiusculas(self):
+        txt = "do fundo\nALFA, do Alfa FIDC- NP e da Alfa Fundo de Investimentos"
+        lib = ["Fundo Alfa", "Alfa FIDC-NP", "Alfa Fundo de Investimento"]
+        self.assertEqual(varrer({self.ARQ: txt}, ["Alfa"], lib), [])
+
+
+class TestCarregarLiberadas(unittest.TestCase):
+    def test_linhas_com_mais_viram_liberadas_e_saem_dos_termos(self):
+        import tempfile
+        from varrer_termos import carregar_liberadas
+
+        with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
+            f.write("# c\nAlfa\n+ Fundo Alfa\n+Alfa FIDC-NP\n+\n")
+            caminho = f.name
+        try:
+            self.assertEqual(carregar_termos(caminho), ["Alfa"])
+            self.assertEqual(carregar_liberadas(caminho), ["Fundo Alfa", "Alfa FIDC-NP"])
+        finally:
+            os.unlink(caminho)
+        self.assertEqual(carregar_liberadas("/caminho/que/nao/existe.txt"), [])

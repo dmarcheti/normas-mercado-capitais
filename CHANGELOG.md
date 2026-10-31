@@ -10,6 +10,7 @@
   - 24 arquivos anuais de decisões antigas (1978–2001).
 - **Índices:** por ano, por tema e por norma citada, com índice reverso de citações no acervo de normas (`indices/citacoes/`).
 - **Extração:** ementa (onde a fonte não traz a sua) e tema por LLM, validados item a item; nome de pessoa fora do frontmatter, dados pessoais retirados do corpo.
+- **Varredura do pre-commit:** CPF e RG viram regra fixa; nas pastas de julgados, CNPJ não barra e a lista privada aceita expressões liberadas (linhas com "+").
 - **SPEC v0.5.0:** seção Julgados, com frontmatter próprio e listas fechadas de `resultado`.
 - **Resultados e exceções:** `fontes/RESULTADOS.md`, seção Fase 2d.
 
