@@ -457,7 +457,9 @@ def validar_julgado(path, ids=None):
         erros.append("campos fora da ordem da SPEC: %s" % ", ".join(presentes))
     for c in campos:
         if c in v and not v[c] and c not in JULGADO_VAZIOS:
-            if not (c == "processo" and v.get("tipo") in ("decisao-antiga", "decisao-colegiado")):
+            # processo vazio: decisão antiga e item do Colegiado (decisão ou TC) sem número publicado
+            if not (c == "processo" and (v.get("tipo") in ("decisao-antiga", "decisao-colegiado")
+                                         or v.get("id", "").startswith("cvm-col-"))):
                 erros.append("%s vazio" % c)
 
     tipo = v.get("tipo", "")

@@ -429,7 +429,8 @@ def _fmt_par(txt):
 
 def _lista(txt, item, expande):
     """'153 e 154' -> ['153', '154']; '153 a 155' -> ['153', '154', '155'] (até MAX_INTERVALO)."""
-    pedacos = re.split(r"\s?(,|\be\b|\ba\b|\bao\b)\s?", txt)
+    # conectivo entre não letras, não \b: "4ºe 5º" (º conta como letra) e "132 e133" na fonte
+    pedacos = re.split(r"\s?(,|(?<![A-Za-zÀ-ÿ])(?:e|ao|a)(?![A-Za-zÀ-ÿ]))\s?", txt)
     valores, intervalo = [], False
     for p in pedacos:
         p = p.strip()

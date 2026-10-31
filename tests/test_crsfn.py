@@ -228,6 +228,15 @@ class TestConverter(Base):
                          os.path.join("plugins", crsfn.jc.caminho_relativo("acordao-crsfn", "crsfn-5279", 2005)))
         self.assertTrue(self.rel["crsfn-5279"]["arquivo"].endswith("/julgados/crsfn/2005/5279.md"))
 
+    def test_reconversao_preserva_o_tema_extraido(self):
+        caminho = os.path.join(self.raiz, self.rel["crsfn-5279"]["arquivo"])
+        v, corpo = je.ler_julgado(caminho)
+        v.update(tema="processual", tema_fonte="extracao")
+        je.gravar(caminho, {k: v.get(k, "") for k in crsfn.jc.CAMPOS}, corpo)
+        self.rodar("converter", "--ids", "crsfn-5279")
+        v, _ = je.ler_julgado(caminho)
+        self.assertEqual((v["tema"], v["tema_fonte"]), ("processual", "extracao"))
+
     def test_valido_pelo_validador(self):
         for id_ in self.rel:
             caminho = os.path.join(self.raiz, self.rel[id_]["arquivo"])

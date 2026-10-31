@@ -160,6 +160,17 @@ def processo_publicado(texto):
     return "; ".join(vistos)
 
 
+_PAS_TITULO = re.compile(r"\bPAS\s+(?:CVM\s+)?(?:N[º°o]\.?\s*)?"
+                         r"((?:TA)?(?:RJ|SP)\s*\d{4}\s*/\s*\d{1,6}|\d{1,3}\s*/\s*\d{2}(?:\d{2})?)(?![\d/])")
+
+
+def pas_do_titulo(titulo):
+    """Número do PAS como publicado no título do Colegiado ("PAS CVM Nº 27/99", "PAS Nº
+    TARJ2001/7557") ou "". Nos TCs de 2004–2006 o número só aparece aí."""
+    m = _PAS_TITULO.search(titulo or "")
+    return re.sub(r"\s+", "", m.group(1)) if m else ""
+
+
 # ---------------------------------------------------------------- ids e caminhos
 
 def id_pas(proc):

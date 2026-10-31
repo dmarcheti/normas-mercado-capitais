@@ -817,9 +817,12 @@ def converter_item(item, pasta, pm=pdf_macos):
                 for t, c in decs:
                     partes.append("### %s\n\n%s" % (t, c) if c else "### " + t)
             corpo_md = "\n\n".join(partes).strip() + "\n"
-            data = min(d for _, d, _, _ in atas)
+            # o PDF anual traz atas de anos anteriores: data da primeira reunião do ano do id
+            datas = [d for _, d, _, _ in atas]
+            ano = item["id"].split("-")[2][:4]
+            data = min([d for d in datas if d[:4] == ano] or datas)
             incerteza.append("decisões separadas por heurística (título em caixa alta), %d ATA(s) "
-                             "e %d decisão(ões); data da primeira reunião do arquivo"
+                             "e %d decisão(ões); data da primeira reunião do ano do arquivo"
                              % (len(atas), sum(len(x[3]) for x in atas)))
         titulo = item.get("titulo", "")
         ementa = jc.ementa_de_titulo(titulo)
@@ -886,7 +889,8 @@ def converter_item(item, pasta, pm=pdf_macos):
         raise ValueError("%s: sem data (página, inventário e PDF)" % item["id"])
     valores = {
         "id": item["id"], "orgao": "cvm", "tipo": tipo, "classe": item.get("classe", ""),
-        "processo": item.get("processo", ""), "nup": item.get("nup", ""), "rito": rito,
+        "processo": item.get("processo", "") or jc.pas_do_titulo(item.get("titulo")),
+        "nup": item.get("nup", ""), "rito": rito,
         "data": data, "relator": pii.limpar(relator), "resultado": res,
         "ementa": pii.limpar(ementa), "ementa_fonte": fonte_ementa if ementa else "",
         "tema": "", "tema_fonte": "", "normas_citadas": normas, "dispositivos_citados": disp,

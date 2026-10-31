@@ -109,6 +109,15 @@ class ProcessoTest(unittest.TestCase):
                          "RJ2016/5039")
         self.assertEqual(jc.processo_publicado("Sem número"), "")
 
+    def test_pas_do_titulo(self):
+        # título do Colegiado de 2004–2006: "PAS nº/AA" com ano de dois dígitos, ou "TA" + antigo
+        t = "APRECIAÇÃO DE PROPOSTA DE TERMO DE COMPROMISSO - PAS %s - FULANO S.A."
+        self.assertEqual(jc.pas_do_titulo(t % "06/01"), "06/01")
+        self.assertEqual(jc.pas_do_titulo(t % "CVM Nº 27/99"), "27/99")
+        self.assertEqual(jc.pas_do_titulo(t % "Nº TARJ2001/7557"), "TARJ2001/7557")
+        self.assertEqual(jc.pas_do_titulo(t % "CVM Nº TASP2001/0034"), "TASP2001/0034")
+        self.assertEqual(jc.pas_do_titulo("ALTERAÇÃO DA DELIBERAÇÃO 390/01 - TERMO DE COMPROMISSO"), "")
+
 
 class IdsTest(unittest.TestCase):
     def test_colegiado(self):

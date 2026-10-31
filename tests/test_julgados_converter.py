@@ -434,6 +434,28 @@ class ConverterTest(unittest.TestCase):
         caminho, _ = self.gravar_e_validar(valores, corpo)
         self.assertTrue(caminho.endswith(os.path.join("decisoes-antigas", "1990.md")))
 
+    def test_decisao_antiga_com_ata_de_outro_ano(self):
+        # o PDF anual traz atas de anos anteriores; a data é a da primeira reunião do ano do id
+        item = {"id": "cvm-dec-1990", "tipo": "decisao-antiga", "classe": "", "processo": "",
+                "data": "1990-01-01", "url": B + "/x/d1990.pdf",
+                "titulo": "Decisões do Colegiado de 1990", "incerteza": []}
+        texto = ("ATA DA REUNIÃO DO COLEGIADO Nº 47 DE 20.12.1990\nPARTICIPANTES:\n"
+                 "FULANO EXEMPLO – Presidente\nPEDIDO DE DISPENSA DE REGISTRO\n"
+                 "O Colegiado deferiu o pedido.\n"
+                 "ATA DA REUNIÃO DO COLEGIADO Nº 05 DE 13.02.1989\nPARTICIPANTES:\n"
+                 "FULANO EXEMPLO – Presidente\nRECURSO CONTRA DECISÃO DA SEP\n"
+                 "O Colegiado negou provimento.\n"
+                 "ATA DA REUNIÃO DO COLEGIADO Nº 02 DE 18.01.1990\nPARTICIPANTES:\n"
+                 "FULANO EXEMPLO – Presidente\nCONSULTA SOBRE PRAZO DE PUBLICAÇÃO\n"
+                 "O Colegiado respondeu à consulta.\n")
+        montar_cache(self.pasta(item), [("documento", "", item["url"], "01-documento.pdf",
+                                         b"%PDF-1990", "application/pdf")])
+        with mock.patch.object(conv, "_pypdf_paginas", return_value=None):
+            valores, corpo, cv = conv.converter_item(item, self.pasta(item),
+                                                     PdfFalso({"01-documento.pdf": texto}))
+        self.assertEqual(valores["data"], "1990-01-18")
+        self.gravar_e_validar(valores, corpo)
+
     def test_sem_cache_e_erro(self):
         with self.assertRaises(ValueError):
             conv.converter_item(PAS, self.pasta(PAS), PdfFalso({}))

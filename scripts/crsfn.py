@@ -699,6 +699,7 @@ def converter_item(reg, item, cam_fonte, meta, pm=pdf_macos):
 
 def gravar(valores, corpo, raiz=jc.RAIZ):
     caminho = jc.caminho_julgado(TIPO, valores["id"], valores["data"][:4], raiz)
+    valores = jconv._preservar_extracao(valores, caminho)  # reconversão não apaga o tema extraído
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     with open(caminho + ".parcial", "w", encoding="utf-8") as f:
         f.write(jc.frontmatter(valores) + corpo)

@@ -81,6 +81,12 @@ class TestValidarJulgado(unittest.TestCase):
         tc = dict(col, id="cvm-tc-19957-011607-2024-20-20250603", tipo="termo-compromisso", classe="",
                   data="2025-06-03", resultado="aceito")
         self.assertEqual(self.erros(tc, "cvm/colegiado/2025/tc-19957-011607-2024-20-20250603.md"), [])
+        # TC de item do Colegiado sem número publicado ("ALTERAÇÃO DA DELIBERAÇÃO 390/01 - TERMO
+        # DE COMPROMISSO"); o TC da listagem, que nasce do processo, continua exigindo o número
+        tc_col = dict(col, tipo="termo-compromisso", classe="", resultado="aceito", processo="")
+        self.assertEqual(self.erros(tc_col, "cvm/colegiado/2025/col-20251202-d3228.md"), [])
+        self.assertIn("processo vazio", self.erros(
+            dict(tc, processo=""), "cvm/colegiado/2025/tc-19957-011607-2024-20-20250603.md"))
         antiga = dict(col, id="cvm-dec-1995-012", tipo="decisao-antiga", classe="", processo="",
                       data="1995-03-10", resultado="", ementa_fonte="titulo", nivel_verificacao="ocr")
         self.assertEqual(self.erros(antiga, "cvm/decisoes-antigas/1995-012.md"), [])

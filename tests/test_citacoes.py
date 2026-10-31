@@ -129,6 +129,13 @@ class TestVariantes(unittest.TestCase):
                          ["lei-10406 art. 1.008", "lei-10406 art. 1.009",
                           "lei-10406 art. 1.010"])
 
+    def test_conectivo_colado_no_numero(self):
+        # "4ºe 5º" e "132 e133": texto da fonte sem espaço em volta do "e"
+        self.assertEqual(disp("os artigos 132 e133 da Lei 6.404"),
+                         ["lei-6404 art. 132", "lei-6404 art. 133"])
+        self.assertEqual(disp("os artigos 4ºe 5º da Lei 6.385"),
+                         ["lei-6385 art. 4º", "lei-6385 art. 5º"])
+
     def test_artigo_singular_nao_vira_lista(self):
         self.assertEqual(disp("o art. 5º, 30 (trinta) dias depois, da Lei 6.404"), [])
 
