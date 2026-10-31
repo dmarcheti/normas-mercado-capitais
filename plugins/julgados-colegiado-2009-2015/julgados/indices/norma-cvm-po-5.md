@@ -1,0 +1,19 @@
+# Julgados que citam Parecer de Orientação CVM nº 5/1979
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [cvm/pareceres-orientacao/0005.md](../../../normas/normas/cvm/pareceres-orientacao/0005.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/4196; RJ2014/4197; RJ2014/4198; RJ2014/4199; RJ2014/4298 | 2014-04-28 | indeferido | assembleia-acionistas | Cinco pedidos de acionistas para adiar ou interromper o prazo de convocação de AGE da Forjas Taurus S.A. sobre aumento de capital e remuneração do conselho (art. 124, § 5º, da Lei 6.404/76). A SEP entendeu os pedidos intempestivos e fora das hipóteses legais. Resultado não consta do recorte. | cvm/colegiado/2014/col-20140428-d01.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | registro-emissor | Recurso da Azul S.A. contra decisão da SEP sobre registro inicial de companhia aberta. Colegiado declarou legal, por unanimidade, o art. 5º do estatuto que prevê ações superpreferenciais (art. 15, § 2º, Lei 6.404/1976) e deu provimento ao recurso; recomendou à SEP análise dos arts. 19, 202, § 1º, e 17, II, da mesma lei. | cvm/colegiado/2014/col-20140131-d01.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-28 | indeferido | registro-emissor | Recurso da Azul S.A. contra indeferimento pela SEP de registro inicial de companhia aberta: estatuto atribui às preferenciais vantagens de 75 vezes as das ordinárias, em conflito com o art. 15, §2º da Lei 6.404/76, segundo a SEP e a PFE. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
+| decisao-colegiado | RJ2010/16884 | 2013-12-17 | indeferido | deveres-administradores | Recurso de fundo acionista do Bradesco contra Ofício de Alerta da SEP sobre aumento de capital de R$ 1,5 bilhão com preço único para ações ordinárias e preferenciais (art. 170, §§ 1º e 7º, Lei 6.404/76). Colegiado entendeu que a SEP podia alertar em vez de instaurar processo sancionador (Deliberação CVM 542/08) e negou provimento. | cvm/colegiado/2013/col-20131217-d28.md |
+| decisao-colegiado | RJ2010/17202 | 2010-12-16 | indeferido | assembleia-acionistas | Pedido de interrupção do prazo de convocação de AGE do Banco Bradesco S.A. para aumento de capital de R$ 1,5 bilhão com preço único para ordinárias e preferenciais (art. 170, §§ 1º e 7º, Lei 6.404/76). Colegiado indeferiu: a apuração da ilegalidade não cabia no prazo de 15 dias. | cvm/colegiado/2010/col-20101216-d01.md |
+| decisao-colegiado | RJ2009/5811 | 2009-07-28 | outro | assembleia-acionistas | Incorporação da Duratex pela Satipel com relações de troca mais favoráveis aos controladores. Colegiado entendeu haver benefício particular (art. 115, §1º, Lei 6.404/76), impedindo os controladores de votar na assembleia. Decisão por maioria. | cvm/colegiado/2009/col-20090728-d02.md |
