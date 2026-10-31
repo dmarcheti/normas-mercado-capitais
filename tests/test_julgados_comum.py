@@ -99,6 +99,10 @@ class ProcessoTest(unittest.TestCase):
         self.assertEqual(jc.processos(cel2), ["rj2012-1131", "rj2012-4412"])
         self.assertEqual(jc.nup(cel2), "")
         self.assertEqual(jc.processo_publicado(cel2), "RJ2012/1131; RJ2012/4412")
+        # dígito verificador truncado na fonte: processo como publicado, sem NUP
+        cel3 = "19957.004598/2020-9"
+        self.assertEqual(jc.nup(cel3), "")
+        self.assertEqual(jc.processo_publicado(cel3), "19957.004598/2020-9")
 
     def test_publicado_sem_nome(self):
         self.assertEqual(jc.processo_publicado("RJ2016/5039 - FULANO DE TAL e BELTRANO"),

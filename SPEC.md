@@ -168,7 +168,7 @@ Campos, todos obrigatórios, nesta ordem; um valor por linha (`chave: valor`), s
 | `orgao` | `cvm`; `crsfn` no `acordao-crsfn` |
 | `tipo` | `pas`, `termo-compromisso`, `decisao-colegiado`, `decisao-antiga` ou `acordao-crsfn` |
 | `classe` | só no Colegiado: `recurso`, `consulta`, `dispensa`, `registro`, `normativo`, `reconsideracao`, `incidente-pas`, `multa-cominatoria`, `institucional` ou `outros` (pelo título); obrigatória em `decisao-colegiado` |
-| `processo` | número(s) do processo como publicado(s), separados por `; `, sem nome de parte; vazio só em `decisao-antiga` |
+| `processo` | número(s) do processo como publicado(s), separados por `; `, sem nome de parte; vazio só em `decisao-antiga` e na `decisao-colegiado` de matéria sem processo publicado (agenda regulatória, plano de auditoria, apresentação) |
 | `nup` | NUP normalizado (`19957-011607-2024-20`) ou vazio |
 | `rito` | `ordinario`, `simplificado` ou vazio |
 | `data` | data da sessão, reunião ou decisão, AAAA-MM-DD |

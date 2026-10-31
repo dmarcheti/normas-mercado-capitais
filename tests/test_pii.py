@@ -80,6 +80,19 @@ class EnderecoTest(unittest.TestCase):
         t = "investidor domiciliado no exterior; a regra vale."
         self.assertEqual(pii.limpar(t), t)
 
+    def test_cep_depois_do_parentese_sai_junto(self):
+        t = ("a. Sr. Fulano, residente na Rua A, 10 (Centro, Niterói), CEP 24000-000, na "
+             "qualidade de diretor.")
+        self.assertEqual(pii.limpar(t), "a. Sr. Fulano, residente %s, na qualidade de diretor." % M)
+
+    def test_endereco_constante_de_cadastro(self):
+        t = ("116 O endereço constante da base de dados do SERPRO é a Rua B, nº 4, Apto. 20, "
+             "Rio de Janeiro/RJ, CEP 22000-000 (fl. 749). No entanto, o acusado.")
+        limpo = pii.limpar(t)
+        self.assertNotIn("Rua B", limpo)
+        self.assertNotIn("22000-000", limpo)
+        self.assertIn("No entanto, o acusado.", limpo)
+
 
 class OutrosTest(unittest.TestCase):
     def test_email(self):

@@ -144,8 +144,9 @@ def normalizar_processo(texto):
 
 
 def nup(texto):
-    """NUP normalizado (primeiro da célula) ou ""."""
-    return next((a[2] for a in _achados(texto) if a[3]), "")
+    """NUP normalizado (primeiro da célula) ou "". Dígito verificador truncado na fonte
+    ("19957.004598/2020-9") não vira NUP."""
+    return next((a[2] for a in _achados(texto) if a[3] and len(a[2]) == 20), "")
 
 
 def processo_publicado(texto):

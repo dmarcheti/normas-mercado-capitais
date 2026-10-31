@@ -448,7 +448,8 @@ def _arts(txt):
     def expande(a):
         m = re.fullmatch(r"(\d{1,3}(?:\.\d{3})?)\s?[º°o]?", a.strip())
         return int(m.group(1).replace(".", "")) if m else None
-    return [_fmt_art(a) for a in _lista(txt, lambda _i0, k: str(k), expande)]
+    # artigo gerado no intervalo leva o ponto de milhar, como o publicado ("1.009")
+    return [_fmt_art(a) for a in _lista(txt, lambda _i0, k: "{:,}".format(k).replace(",", "."), expande)]
 
 
 def _romanos(txt):

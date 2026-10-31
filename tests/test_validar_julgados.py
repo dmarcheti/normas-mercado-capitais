@@ -76,6 +76,8 @@ class TestValidarJulgado(unittest.TestCase):
         col = {"id": "cvm-col-20251202-d3228", "tipo": "decisao-colegiado", "classe": "recurso",
                "data": "2025-12-02", "resultado": "nao-provido", "rito": "", "nup": "", "ementa_fonte": "extracao"}
         self.assertEqual(self.erros(col, "cvm/colegiado/2025/col-20251202-d3228.md"), [])
+        # matéria institucional (agenda regulatória, PAINT): a CVM não publica número de processo
+        self.assertEqual(self.erros(dict(col, processo=""), "cvm/colegiado/2025/col-20251202-d3228.md"), [])
         tc = dict(col, id="cvm-tc-19957-011607-2024-20-20250603", tipo="termo-compromisso", classe="",
                   data="2025-06-03", resultado="aceito")
         self.assertEqual(self.erros(tc, "cvm/colegiado/2025/tc-19957-011607-2024-20-20250603.md"), [])

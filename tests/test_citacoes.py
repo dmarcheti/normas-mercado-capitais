@@ -121,6 +121,11 @@ class TestVariantes(unittest.TestCase):
                          ["cvm-res-80 art. 33, inciso XX", "cvm-res-80 art. 33, inciso XXI",
                           "cvm-res-80 art. 33, inciso XXII"])
 
+    def test_intervalo_acima_de_mil_mantem_ponto(self):
+        self.assertEqual(disp("arts. 1.008 a 1.010 da Lei nº 10.406/2002"),
+                         ["lei-10406 art. 1.008", "lei-10406 art. 1.009",
+                          "lei-10406 art. 1.010"])
+
     def test_artigo_singular_nao_vira_lista(self):
         self.assertEqual(disp("o art. 5º, 30 (trinta) dias depois, da Lei 6.404"), [])
 

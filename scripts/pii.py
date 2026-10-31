@@ -96,8 +96,13 @@ def _substituir(texto, spans):
 
 _END_GATILHO = re.compile(
     r"\b(?:residentes?\s+e\s+domiciliad[oa]s?|domiciliad[oa]s?|residentes?|"
-    r"com\s+endere[çc]o(?:\s+residencial)?|endere[çc]o\s+residencial)\s*:?\s*"
+    r"com\s+endere[çc]o(?:\s+residencial)?|endere[çc]o\s+residencial|"
+    # "O endereço constante da base de dados do SERPRO é a Rua ..." (cadastro citado no voto)
+    r"endere[çc]o\s+(?:residencial\s+)?(?:constante|cadastrad[oa]|registrad[oa]|informad[oa]|"
+    r"conhecid[oa]|atual|indicad[oa])[^.;\n]{0,60}?\s(?:é|era|seria))\s*:?\s*"
     r"(?=(?:na|no|nas|nos|em|à|a)\b|:)", re.I)
+# CEP logo depois do fim do endereço ("residente na Rua A (Centro), CEP 24000-000") sai junto.
+_CEP_RESTO = re.compile(r"\)?\s*[,–-]?\s*CEP\s*:?\s*\d{2}\.?\d{3}-?\d{3}", re.I)
 _ABREV = {"av", "r", "al", "pça", "pç", "praça", "rod", "est", "estr", "cj", "conj", "ap", "apto",
           "apt", "bl", "n", "nº", "s", "sta", "sto", "jd", "jardim", "vl", "pq", "lt", "qd", "sl",
           "cep", "gal", "eng", "prof", "des", "gov", "mal", "pres", "brig", "cel", "ten", "cap",
@@ -136,6 +141,9 @@ def _enderecos(texto):
     for m in _END_GATILHO.finditer(texto):
         ini = m.end()
         fim = _fim_endereco(texto, ini)
+        resto = _CEP_RESTO.match(texto, fim)
+        if resto:
+            fim = resto.end()
         trecho = texto[ini:fim]
         # endereço de pessoa jurídica ("com sede na") não dispara; aqui só o trecho com algo
         # de endereço (logradouro, número, cidade) é cortado.
