@@ -1,0 +1,30 @@
+# Julgados que citam res-cvm-39
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: fora do acervo.
+
+## art. 24
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 24, § 1º | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.013886/2022-02 | 2025-11-25 | parcial | manipulacao-fraude | Apurar eventuais irregularidades relacionadas às práticas de manipulação de preços, operações fraudulentas e uso de práticas não equitativas. Multas e Absolvições. | cvm/pas/2025/19957-013886-2022-02.md |
+| pas | 19957.002306/2023-24 | 2024-11-26 | condenacao | manipulacao-fraude | Apurar responsabilidade de investidor por infração ao item I c/c item II, alínea “b”, da Instrução CVM n° 08/79, em razão de suposta prática de manipulação de preços do ativo AZEV4, no período de 23.02.2018 a 25.05.2018. Multa | cvm/pas/2024/19957-002306-2023-24.md |
+| pas | 19957.008143/2018-26 | 2023-12-20 | parcial | manipulacao-fraude | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I c/c item II, “c”, da Instrução CVM nº 8/1979, pela prática de operação fraudulenta; no art. 11, I, da Instrução CVM nº 476/2009, por descumprimento do dever de diligência; no art. 90, X, da Instrução CVM nº 555/2014, por descumprimento do dever de fiscalização; no art. 10, II, da Instrução CVM nº 521/2012, pela emissão de relatório de rating que induz usuários a erro; e no art. 11, I, II, V e VII, da Instrução CVM nº 583/2016, por descumprimento de deveres por agente fiduciário dos debenturistas. Multas, proibição temporária, extinção da punibilidade e absolvição. | cvm/pas/2023/19957-008143-2018-26.md |
+| pas | 19957.001616/2022-41 | 2023-11-14 | condenacao | manipulacao-fraude | Apurar responsabilidade por suposta manipulação de preços do ativo IDNT3, em infração ao item I c/c item II, alínea “b”, da Instrução CVM n° 8/1979 Multas. | cvm/pas/2023/19957-001616-2022-41.md |
+| pas | 19957.002026/2019-30 | 2023-09-26 | parcial | fundos-investimento | Apuração de responsabilidades pela prática de operações fraudulentas no mercado de valores mobiliários (itens I e II, “c”, da Instrução CVM nº 8/1979); por descumprimento do dever de lealdade em gestão de fundo de investimento (art. 65-A, inciso I, da Instrução CVM n° 409/2004); e por descumprimento do dever de fiscalizar a prestação de serviços de terceiros contratados por fundo de investimento (art. 65, inciso XV, da Instrução CVM n° 409/2004). Absolvições e Multas. | cvm/pas/2023/19957-002026-2019-30.md |
+| pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | manipulacao-fraude | Responsabilidade por manipulação de preço no mercado de valores mobiliários, em infração ao inciso I da Instrução CVM nº 8/1979, conforme inciso II da referida norma. Multas. | cvm/pas/2022/19957-008818-2018-37.md |
+| pas | 19957.009452/2018-13 | 2022-06-21 | condenacao | manipulacao-fraude | Manipulação de preços por meio da utilização de ofertas artificiais de negociação, nas modalidades layering e spoofing, em infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. | cvm/pas/2022/19957-009452-2018-13.md |
+| pas | RJ2014/6517 | 2019-06-25 | parcial | divulgacao-informacoes | Divulgação de fatos relevantes como instrumento de manipulação de preços da OGX Petróleo e Gás Participações S.A. Divulgação de fato relevante com omissão material, induzindo investidores a erro. Infração ao inciso I, na forma prevista pelo item II, ‘b’, da Instrução CVM nº 08/79. Infração ao art. 153 da Lei nº 6.404/76, c/c o art. 14 da Instrução CVM nº 480/09. Absolvições e Multas. Data decisão CVM Tue Jun 25 15:48:00 BRT 2019 | cvm/pas/2019/rj2014-6517.md |
+| pas | RJ2013/8880 | 2019-06-11 | condenacao | manipulacao-fraude | Manipulação de preços das ações da RJCP Equity S.A. e descumprimento do dever de diligência. Infração definida pelo inciso II, ‘b’, e vedada pelo inciso I, ambos da Instrução CVM nº 08/79. Infração ao art. 153 c/c o art. 142, III, da Lei nº 6.404/76. Inabilitação. multas. Data decisão CVM Tue Jun 11 15:55:00 BRT 2019 | cvm/pas/2019/rj2013-8880.md |
+| pas | RJ2014/0578 | 2019-05-27 | condenacao | informacao-privilegiada | Utilização de informações privilegiadas na negociação de ações emissão da da OGX Petróleo e Gás Participações S.A. e da da OSX Brasil S.A. Manipulação de preços de ações de emissão das Companhias. Infração ao art. 155, §1º, da Lei nº 6.404/76 c/c art. 13, caput, da Instrução CVM nº 538/02. Infração ao item II, alínea "b", vedada pelo item I, da Instrução CVM nº 08/79. Multas e inabilitação temporária. Data decisão CVM Mon May 27 15:46:00 BRT 2019 | cvm/pas/2019/rj2014-0578.md |
+| pas | RJ2016/7192 | 2018-03-13 | condenacao | manipulacao-fraude | Manipulação de preços por meio da inserção de ordens artificiais de compra e venda de valores mobiliários, caracterizando a prática de spoofing. Multas. | cvm/pas/2018/rj2016-7192.md |

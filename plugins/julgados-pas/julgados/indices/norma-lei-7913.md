@@ -1,0 +1,22 @@
+# Julgados que citam Lei nº 7.913/1989
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [leis/lei-07913.md](../../../normas/normas/leis/lei-07913.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 1º, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de [pessoa física] - CEMAT: - Atos de liberalidade por parte de administradores da companhia aberta e abuso de poder do acionista controlador; - Irregularidades com a negociação das debêntures da empresa no mercado secundário. | cvm/pas/2001/11-1997.md |
+| art. 1º, inciso I | pas | RJ2002/2937 | 2003-09-17 | condenacao | manipulacao-fraude | a) Realização de operação fraudulenta no mercado de valores mobiliários envolvendo entidade de previdência privada (Instrução CVM Nº 8/79); b) Não comunicação à CVM de negócio realizado no mercado de balcão (Instrução CVM Nº 42/84, artigo 3º); e c) Caracterização de embaraço à fiscalização (Instrução CVM Nº 18/81). | cvm/pas/2003/rj2002-2937.md |
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | RJ2003/0435 | 2003-12-17 | parcial | divulgacao-informacoes | Contratos de Investimento Coletivo (CICs) da Suinvest Agropecuária S/A - Obrigatoriedade de manutenção do registro de companhia aberta atualizado. Infração ao inciso III do art. 11, incisos I e II do art. 12 da Instrução CVM nº 270/98 e incisos I e IV do art. 13 da Instrução CVM nº 296/98; Multas e Absolvição. - Destinação dos recursos captados em desacordo com o previsto nos CICs. Infração ao inciso III do art. 18 da Instrução CVM nº 296/98; Multas. - Desatualização de livros e registros contábeis e não contratação de auditoria independente para as demonstrações financeiras anuais e trimestrais. Infração ao art. 177 da Lei nº 6.404/76, inciso I do art. 11 e art. 14 da Instrução CVM nº 270/98, e art. 14 e § único da Instrução CVM nº 296/98. Multas. - Não comunicação à CVM do encerramento da distribuição. Infração ao inciso IV do art. 13 da Instrução CVM nº 296/98. Multas. - Falta para com o dever de diligência. Infração ao art. 153 da Lei nº 6.404/76. Multa. - Não comunicação da troca do principal administrador da companhia e de mudança de endereço. Infração ao art. 9º da Instrução CVM nº 270/98. Absolvição. - Utilização de expediente de ofertar publicamente valores mobiliários, a título de reaplicação de valores de resgate de CIC sem o competente registro da CVM. Infração ao art. 19 da Lei nº 6.385/76. Absolvição por ausência de documentação comprobatória nos autos. | cvm/pas/2003/rj2003-0435.md |
+| pas | 17/1998 | 2000-05-04 | condenacao | exercicio-irregular | [pessoa física], [pessoa física], SIGNUS CORRETORES ASSOCIADOS S/C LTDA, [pessoa física] Intermediação irregular no mercado de valores mobiliários. - Infração configurada. – Multa. | cvm/pas/2000/17-1998.md |
