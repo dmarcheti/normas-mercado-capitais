@@ -521,6 +521,16 @@ class TimbreTest(unittest.TestCase):
         self.assertEqual(len(atas), 1)
         self.assertEqual(atas[0][1], "1991-03-05")
 
+    def test_ata_com_complemento_antes_da_data(self):
+        # 1979: "... DO COLEGIADO COM O SUPERINTENDENTE GERAL DE 17.12.1979" não pode sumir
+        atas = conv.decisoes_antigas(
+            "Decisões do Colegiado\n1979\n"
+            "ATA DA REUNIÃO DO COLEGIADO COM O SUPERINTENDENTE GERAL DE 17.12.1979\nPresentes:\n"
+            "PROJETO DE RESOLUÇÃO SOBRE AS BOLSAS\nO projeto será colocado em audiência.\n"
+            "ATA DA REUNIÃO DO COLEGIADO DE 17.07.1979\nPresentes:\n"
+            "AÇÕES EM TESOURARIA E OUTROS\nO Colegiado aprovou.\n")
+        self.assertEqual([a[1] for a in atas], ["1979-12-17", "1979-07-17"])
+
 
 class CitacoesGuardaTest(unittest.TestCase):
     def test_fora_sem_numero_sai_com_aviso(self):

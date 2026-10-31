@@ -589,8 +589,10 @@ def _montar_corpo(titulo, secoes, nivel_secao="##"):
     return "\n\n".join(partes).strip() + "\n"
 
 
+# Complemento entre COLEGIADO e a data ("COM O SUPERINTENDENTE GERAL", 1979) é aceito: ATA não
+# reconhecida faz o texto dela cair junto com a capa.
 _ATA = re.compile(r"ATA DA REUNI[ÃA]O(?: [A-ZÇÃÁÉÍÓÚÊÔ]+)? D[OE] COLEGIADO(?: N[º°o]\.?\s*\d+)?"
-                  r" DE (\d{1,2})\.(\d{1,2})\.(\d{2,4})")
+                  r"(?: [A-ZÇÃÁÉÍÓÚÊÔÀ ]{2,60}?)? DE (\d{1,2})\.(\d{1,2})\.(\d{2,4})")
 _PARTICIPANTE = re.compile(r"^[A-ZÀ-Ý][A-ZÀ-Ý .'\-]+\s+[–-]\s+(?:Presidente|Diretora?|"
                            r"Superintendente|Procurador)", re.I)
 
