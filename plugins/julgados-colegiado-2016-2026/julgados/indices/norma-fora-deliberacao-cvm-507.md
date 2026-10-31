@@ -1,0 +1,162 @@
+# Julgados que citam deliberacao-cvm-507
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: fora do acervo.
+
+## art. 4º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | 19957.010170/2018-69 | 2020-06-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010170/2018-69. | cvm/colegiado/2020/col-20200616-d1773.md |
+| art. 4º | decisao-colegiado | 19957.000049/2019-18 | 2021-02-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000049/2019-18. | cvm/colegiado/2021/col-20210218-d2075.md |
+| art. 4º | decisao-colegiado | 19957.000089/2017-90 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000089/2017-90. | cvm/colegiado/2021/col-20210316-d2100.md |
+| art. 4º | decisao-colegiado | 19957.000167/2017-56 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000167/2017-56. | cvm/colegiado/2021/col-20210316-d2101.md |
+| art. 4º | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | cvm/colegiado/2021/col-20210323-d2107.md |
+| art. 4º | decisao-colegiado | 19957.004865/2016-40 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004865/2016-40. | cvm/colegiado/2021/col-20210323-d2108.md |
+| art. 4º | decisao-colegiado | 19957.001000/2017-11 | 2021-05-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.001000/2017-11. | cvm/colegiado/2021/col-20210504-d2145.md |
+| art. 4º | decisao-colegiado | 19957.000124/2017-71 | 2021-05-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000124/2017-71. | cvm/colegiado/2021/col-20210525-d2178.md |
+| art. 4º | decisao-colegiado | 19957.009399/2016-99 | 2021-05-25 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.009399/2016-99. | cvm/colegiado/2021/col-20210525-d2180.md |
+| art. 4º | decisao-colegiado | 19957.004018/2017-66 | 2021-06-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004018/2017-66. | cvm/colegiado/2021/col-20210608-d2193.md |
+| art. 4º | decisao-colegiado | 19957.000174/2017-58 | 2021-06-08 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000174/2017-58. | cvm/colegiado/2021/col-20210608-d2194.md |
+| art. 4º | decisao-colegiado | 19957.010165/2018-56 | 2021-07-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010165/2018-56. | cvm/colegiado/2021/col-20210713-d2234.md |
+| art. 4º | decisao-colegiado | 19957.011528/2019-51 | 2021-07-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.011528/2019-51. | cvm/colegiado/2021/col-20210727-d2257.md |
+| art. 4º | decisao-colegiado | 19957.006460/2017-27 | 2021-09-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006460/2017-27. | cvm/colegiado/2021/col-20210921-d2309.md |
+| art. 4º | decisao-colegiado | RJ2015/4107 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/4107. | cvm/colegiado/2021/col-20211014-d2324.md |
+| art. 4º | decisao-colegiado | RJ2015/02462 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/02462. | cvm/colegiado/2021/col-20211014-d2326.md |
+| art. 4º | decisao-colegiado | 19957.008077/2019-75 | 2021-10-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.008077/2019-75. | cvm/colegiado/2021/col-20211026-d2362.md |
+| art. 4º | decisao-colegiado | 19957.000156/2017-76 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000156/2017-76. | cvm/colegiado/2022/col-20220315-d2494.md |
+| art. 4º | decisao-colegiado | 19957.002630/2021-81 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.002630/2021-81. | cvm/colegiado/2022/col-20220315-d2495.md |
+| art. 4º | decisao-colegiado | 19957.000413/2021-56 | 2022-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000413/2021-56. | cvm/colegiado/2022/col-20220322-d2532.md |
+| art. 4º | decisao-colegiado | 19957.006459/2017-01 | 2022-04-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006459/2017-01. | cvm/colegiado/2022/col-20220419-d2565.md |
+| art. 4º | decisao-colegiado | 19957.006214/2018-56 | 2022-05-24 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006214/2018-56. | cvm/colegiado/2022/col-20220524-d2587.md |
+| art. 4º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | cvm/colegiado/2022/col-20221213-d2729.md |
+
+## art. 5º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 5º, inciso VIII | decisao-colegiado | 19957.000174/2017-58 | 2021-06-08 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000174/2017-58. | cvm/colegiado/2021/col-20210608-d2194.md |
+| art. 5º, inciso VIII | decisao-colegiado | 19957.006459/2017-01 | 2022-04-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006459/2017-01. | cvm/colegiado/2022/col-20220419-d2565.md |
+
+## art. 6º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 6º, inciso I | decisao-colegiado | 19957.006460/2017-27 | 2021-09-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006460/2017-27. | cvm/colegiado/2021/col-20210921-d2309.md |
+| art. 6º, inciso I | decisao-colegiado | 19957.002630/2021-81 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.002630/2021-81. | cvm/colegiado/2022/col-20220315-d2495.md |
+| art. 6º, inciso I | decisao-colegiado | 19957.006459/2017-01 | 2022-04-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006459/2017-01. | cvm/colegiado/2022/col-20220419-d2565.md |
+
+## art. 11
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 11 | decisao-colegiado | RJ2014/13559 | 2018-04-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/13559. | cvm/colegiado/2018/col-20180424-d1017.md |
+
+## art. 20
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 20, inciso III | decisao-colegiado | 19957.000089/2017-90 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000089/2017-90. | cvm/colegiado/2021/col-20210316-d2100.md |
+| art. 20, inciso III | decisao-colegiado | 19957.000167/2017-56 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000167/2017-56. | cvm/colegiado/2021/col-20210316-d2101.md |
+
+## art. 25
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 25 | decisao-colegiado | RJ2012/8073 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm/colegiado/2016/col-20160322-d0156.md |
+| art. 25 | decisao-colegiado | RJ2013/10980 | 2016-06-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10980. | cvm/colegiado/2016/col-20160607-d0241.md |
+| art. 25 | decisao-colegiado | RJ2013/10336 | 2016-06-14 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10336. | cvm/colegiado/2016/col-20160614-d0244.md |
+| art. 25 | decisao-colegiado | RJ2011/4462 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4462. | cvm/colegiado/2016/col-20160621-d0262.md |
+| art. 25 | decisao-colegiado | RJ2012/8112 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8112. | cvm/colegiado/2016/col-20160621-d0263.md |
+| art. 25 | decisao-colegiado | RJ2012/15312 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15312. | cvm/colegiado/2016/col-20160621-d0264.md |
+| art. 25 | decisao-colegiado | RJ2012/15534 | 2016-06-21 | outro | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15534. | cvm/colegiado/2016/col-20160621-d0265.md |
+| art. 25 | decisao-colegiado | RJ2013/10338 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10338. | cvm/colegiado/2016/col-20160621-d0266.md |
+| art. 25 | decisao-colegiado | RJ2011/3493 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/3493. | cvm/colegiado/2016/col-20160621-d8888.md |
+| art. 25 | decisao-colegiado | RJ2013/9599 | 2016-10-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9599. | cvm/colegiado/2016/col-20161004-d0375.md |
+| art. 25 | decisao-colegiado | RJ2011/4464 | 2016-12-20 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4464. | cvm/colegiado/2016/col-20161220-d0461.md |
+| art. 25 | decisao-colegiado | RJ1998/4463 | 2016-12-20 | outro | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4463. | cvm/colegiado/2016/col-20161220-d0508.md |
+| art. 25 | decisao-colegiado | RJ2013/9992 | 2019-03-26 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm/colegiado/2019/col-20190326-d1357.md |
+| art. 25 | decisao-colegiado | RJ2015/3721 | 2020-07-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/3721. | cvm/colegiado/2020/col-20200721-d1856.md |
+| art. 25 | decisao-colegiado | RJ2014/7566; 19957.000197/2021-49 | 2021-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/7566 (PROC. SEI 19957.000197/2021-49). | cvm/colegiado/2021/col-20210302-d2077.md |
+| art. 25 | decisao-colegiado | 19957.001000/2017-11 | 2021-05-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.001000/2017-11. | cvm/colegiado/2021/col-20210504-d2145.md |
+| art. 25 | decisao-colegiado | 19957.006460/2017-27 | 2021-09-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006460/2017-27. | cvm/colegiado/2021/col-20210921-d2309.md |
+| art. 25 | decisao-colegiado | RJ2015/4107 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/4107. | cvm/colegiado/2021/col-20211014-d2324.md |
+| art. 25 | decisao-colegiado | RJ2015/02462 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/02462. | cvm/colegiado/2021/col-20211014-d2326.md |
+| art. 25 | decisao-colegiado | 19957.008077/2019-75 | 2021-10-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.008077/2019-75. | cvm/colegiado/2021/col-20211026-d2362.md |
+| art. 25 | decisao-colegiado | 19957.000156/2017-76 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000156/2017-76. | cvm/colegiado/2022/col-20220315-d2494.md |
+| art. 25 | decisao-colegiado | 19957.006459/2017-01 | 2022-04-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006459/2017-01. | cvm/colegiado/2022/col-20220419-d2565.md |
+| art. 25 | decisao-colegiado | 19957.006214/2018-56 | 2022-05-24 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006214/2018-56. | cvm/colegiado/2022/col-20220524-d2587.md |
+
+## art. 26
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 26 | decisao-colegiado | RJ2012/8073 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm/colegiado/2016/col-20160322-d0156.md |
+| art. 26 | decisao-colegiado | RJ2013/10980 | 2016-06-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10980. | cvm/colegiado/2016/col-20160607-d0241.md |
+| art. 26 | decisao-colegiado | RJ2013/10336 | 2016-06-14 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10336. | cvm/colegiado/2016/col-20160614-d0244.md |
+| art. 26 | decisao-colegiado | RJ2011/4462 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4462. | cvm/colegiado/2016/col-20160621-d0262.md |
+| art. 26 | decisao-colegiado | RJ2012/8112 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8112. | cvm/colegiado/2016/col-20160621-d0263.md |
+| art. 26 | decisao-colegiado | RJ2012/15312 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15312. | cvm/colegiado/2016/col-20160621-d0264.md |
+| art. 26 | decisao-colegiado | RJ2013/10338 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10338. | cvm/colegiado/2016/col-20160621-d0266.md |
+| art. 26 | decisao-colegiado | RJ2011/3493 | 2016-06-21 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/3493. | cvm/colegiado/2016/col-20160621-d8888.md |
+| art. 26 | decisao-colegiado | RJ2013/9599 | 2016-10-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9599. | cvm/colegiado/2016/col-20161004-d0375.md |
+| art. 26 | decisao-colegiado | RJ2011/4464 | 2016-12-20 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4464. | cvm/colegiado/2016/col-20161220-d0461.md |
+| art. 26 | decisao-colegiado | RJ1998/4463 | 2016-12-20 | outro | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4463. | cvm/colegiado/2016/col-20161220-d0508.md |
+| art. 26 | decisao-colegiado | RJ2014/13575 | 2018-04-03 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/13575. | cvm/colegiado/2018/col-20180403-d1003.md |
+| art. 26 | decisao-colegiado | RJ2014/4380 | 2018-04-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/4380. | cvm/colegiado/2018/col-20180403-d1004.md |
+| art. 26 | decisao-colegiado | RJ2014/13559 | 2018-04-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/13559. | cvm/colegiado/2018/col-20180424-d1017.md |
+| art. 26 | decisao-colegiado | RJ2013/11372 | 2018-06-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/11372. | cvm/colegiado/2018/col-20180626-d1069.md |
+| art. 26 | decisao-colegiado | RJ2015/0199 | 2018-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/0199. | cvm/colegiado/2018/col-20180724-d1093.md |
+| art. 26 | decisao-colegiado | RJ2014/1880 | 2018-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/1880. | cvm/colegiado/2018/col-20180911-d1156.md |
+| art. 26 | decisao-colegiado | RJ2014/12935 | 2018-10-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/12935. | cvm/colegiado/2018/col-20181002-d1176.md |
+| art. 26 | decisao-colegiado | RJ2014/6050 | 2018-10-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/6050. | cvm/colegiado/2018/col-20181002-d1177.md |
+| art. 26 | decisao-colegiado | RJ2009/10638 | 2018-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/10638. | cvm/colegiado/2018/col-20181030-d1199.md |
+| art. 26 | decisao-colegiado | RJ2009/10641 | 2018-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/10641. | cvm/colegiado/2018/col-20181030-d1200.md |
+| art. 26 | decisao-colegiado | RJ2013/9992 | 2019-03-26 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm/colegiado/2019/col-20190326-d1357.md |
+| art. 26 | decisao-colegiado | RJ2015/0204 | 2019-12-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/0204. | cvm/colegiado/2019/col-20191223-d1651.md |
+| art. 26 | decisao-colegiado | RJ2015/1587 | 2019-12-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/1587. | cvm/colegiado/2019/col-20191223-d1652.md |
+| art. 26 | decisao-colegiado | RJ2015/5571 | 2019-12-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/5571. | cvm/colegiado/2019/col-20191223-d1653.md |
+| art. 26 | decisao-colegiado | RJ2015/0191 | 2020-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/0191. | cvm/colegiado/2020/col-20200303-d1732.md |
+| art. 26 | decisao-colegiado | RJ2015/1595 | 2020-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/1595. | cvm/colegiado/2020/col-20200317-d1753.md |
+| art. 26 | decisao-colegiado | 19957.010170/2018-69 | 2020-04-07 | outro | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010170/2018-69. | cvm/colegiado/2020/col-20200407-d1773.md |
+| art. 26 | decisao-colegiado | 19957.007518/2018-31 | 2020-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.007518/2018-31. | cvm/colegiado/2020/col-20200414-d1780.md |
+| art. 26 | decisao-colegiado | 19957.007519/2018-85 | 2020-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.007519/2018-85. | cvm/colegiado/2020/col-20200414-d1781.md |
+| art. 26 | decisao-colegiado | 19957.006859/2018-99 | 2020-05-05 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006859/2018-99. | cvm/colegiado/2020/col-20200505-d1789.md |
+| art. 26 | decisao-colegiado | 19957.006630/2018-54 | 2020-06-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006630/2018-54. | cvm/colegiado/2020/col-20200609-d1827.md |
+| art. 26 | decisao-colegiado | 19957.010170/2018-69 | 2020-06-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010170/2018-69. | cvm/colegiado/2020/col-20200616-d1773.md |
+| art. 26 | decisao-colegiado | 19957.011154/2018-93 | 2020-06-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.011154/2018-93. | cvm/colegiado/2020/col-20200624-d1843.md |
+| art. 26 | decisao-colegiado | 19957.000049/2019-18 | 2021-02-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000049/2019-18. | cvm/colegiado/2021/col-20210218-d2075.md |
+| art. 26 | decisao-colegiado | RJ2014/7566; 19957.000197/2021-49 | 2021-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/7566 (PROC. SEI 19957.000197/2021-49). | cvm/colegiado/2021/col-20210302-d2077.md |
+| art. 26 | decisao-colegiado | RJ2015/3716; 19957.001561/2020-15 | 2021-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/3716 (PROC. SEI 19957.001561/2020-15). | cvm/colegiado/2021/col-20210302-d2078.md |
+| art. 26 | decisao-colegiado | 19957.000089/2017-90 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000089/2017-90. | cvm/colegiado/2021/col-20210316-d2100.md |
+| art. 26 | decisao-colegiado | 19957.000167/2017-56 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000167/2017-56. | cvm/colegiado/2021/col-20210316-d2101.md |
+| art. 26 | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | cvm/colegiado/2021/col-20210323-d2107.md |
+| art. 26 | decisao-colegiado | 19957.004865/2016-40 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004865/2016-40. | cvm/colegiado/2021/col-20210323-d2108.md |
+| art. 26 | decisao-colegiado | 19957.001000/2017-11 | 2021-05-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.001000/2017-11. | cvm/colegiado/2021/col-20210504-d2145.md |
+| art. 26 | decisao-colegiado | 19957.000124/2017-71 | 2021-05-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000124/2017-71. | cvm/colegiado/2021/col-20210525-d2178.md |
+| art. 26 | decisao-colegiado | 19957.009399/2016-99 | 2021-05-25 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.009399/2016-99. | cvm/colegiado/2021/col-20210525-d2180.md |
+| art. 26 | decisao-colegiado | 19957.004018/2017-66 | 2021-06-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.004018/2017-66. | cvm/colegiado/2021/col-20210608-d2193.md |
+| art. 26 | decisao-colegiado | 19957.000174/2017-58 | 2021-06-08 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000174/2017-58. | cvm/colegiado/2021/col-20210608-d2194.md |
+| art. 26 | decisao-colegiado | 19957.010165/2018-56 | 2021-07-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.010165/2018-56. | cvm/colegiado/2021/col-20210713-d2234.md |
+| art. 26 | decisao-colegiado | 19957.011528/2019-51 | 2021-07-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.011528/2019-51. | cvm/colegiado/2021/col-20210727-d2257.md |
+| art. 26 | decisao-colegiado | 19957.006460/2017-27 | 2021-09-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006460/2017-27. | cvm/colegiado/2021/col-20210921-d2309.md |
+| art. 26 | decisao-colegiado | RJ2015/4107 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/4107. | cvm/colegiado/2021/col-20211014-d2324.md |
+| art. 26 | decisao-colegiado | RJ2015/02462 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/02462. | cvm/colegiado/2021/col-20211014-d2326.md |
+| art. 26 | decisao-colegiado | 19957.008077/2019-75 | 2021-10-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.008077/2019-75. | cvm/colegiado/2021/col-20211026-d2362.md |
+| art. 26 | decisao-colegiado | 19957.000156/2017-76 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000156/2017-76. | cvm/colegiado/2022/col-20220315-d2494.md |
+| art. 26 | decisao-colegiado | 19957.006459/2017-01 | 2022-04-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.006459/2017-01. | cvm/colegiado/2022/col-20220419-d2565.md |
+| art. 26 | decisao-colegiado | RJ2015/00191 | 2022-07-12 | provido | multa-cominatoria-taxa | Revisão de ofício de decisão proferida na reunião de colegiado de 03.03.2020 em processo de taxa de fiscalização. Proc. RJ2015/00191. | cvm/colegiado/2022/col-20220712-d1732.md |
+| art. 26 | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | cvm/colegiado/2022/col-20221213-d2729.md |
+| art. 26 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005279/2020-07. | cvm/colegiado/2022/col-20221213-d2730.md |
+| art. 26, § 1º | decisao-colegiado | RJ2012/15534 | 2016-06-21 | outro | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15534. | cvm/colegiado/2016/col-20160621-d0265.md |
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.006545/2021-91 | 2021-10-19 | outro | multa-cominatoria-taxa | Proposta de resolução. Proc. SEI 19957.006545/2021-91. | cvm/colegiado/2021/col-20211019-d2349.md |
+| decisao-colegiado | 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | multa-cominatoria-taxa | Apresentação. Proc. SEI 19957.000797/2020-26) / RESTITUIÇÃO e COMPENSAÇÃO DE VALORES (PROC. SEI 19957.001439/2020-31) / PROVA DE QUITAÇÃO DE DÉBITOS (PROC. SEI 19957.001885/2020-45) / TAXA DE FISCALIZAÇÃO DOS MERCADOS DE TÍTULOS e VALORES MOBILIÁRIOS (PROC. SEI 19957.006545/2021-91). | cvm/colegiado/2021/col-20211013-d2346.md |

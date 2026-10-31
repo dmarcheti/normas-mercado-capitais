@@ -1,0 +1,14 @@
+# Julgados que citam Resolução CVM nº 176/2022
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [cvm/resolucoes/0176.md](../../../normas/normas/cvm/resolucoes/0176.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 02/2022; 21/2022; 19957.010578/2022-17 | 2022-11-29 | parcial | contabil-demonstracoes | Aprovada a Resolução CVM 176/2022, que torna obrigatório às companhias abertas o Documento de Revisão de Pronunciamentos Técnicos 21/2022 (IFRS 17 e alterações). Indeferido o pedido de adiamento da aplicação do CPC 50. Dispensada AIR (art. 4º, VI, do Decreto 10.411/2020). | cvm/colegiado/2022/col-20221129-d2667.md |

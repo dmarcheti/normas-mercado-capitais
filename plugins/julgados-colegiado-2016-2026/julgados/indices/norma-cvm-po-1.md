@@ -1,0 +1,21 @@
+# Julgados que citam Parecer de Orientação CVM nº 1/1978
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [cvm/pareceres-orientacao/0001.md](../../../normas/normas/cvm/pareceres-orientacao/0001.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.004081/2023-41 | 2024-01-16 | deferido | opa | Recurso da Argucia Capital contra decisão da SRE que deferiu registro de OPA por aumento de participação na Eucatex (art. 4º, §6º, Lei 6.404/1976), pleiteando suspensão por laudo de avaliação com premissas incompatíveis. Voto da diretora: a CVM não avalia o preço, mas verifica deveres fiduciários na relação com avaliadores (art. 10, RCVM 85/2022). | cvm/colegiado/2024/col-20240116-d2929.md |
+| decisao-colegiado | 19957.004081/2023-41 | 2023-09-26 | deferido | opa | Recurso da ofertante contra entendimento da SRE em OPA por aumento de participação na Eucatex, sobre rito de nova avaliação e convocação de assembleia especial (art. 4º-A da Lei 6.404/76; art. 28 da Resolução CVM 85/2022). A área técnica propõe tratar o tema como consulta ao Colegiado. | cvm/colegiado/2023/col-20230926-d2929.md |
+| decisao-colegiado | 19957.004478/2019-56 | 2023-02-28 | — | deveres-administradores | Recurso da Gafisa S.A. contra manifestação da SEP que concluiu pela irregularidade das condições de aumento de capital por subscrição privada: inconsistências no aviso aos acionistas, falta de informações exigidas pela LSA e ICVM 480/2009, e dois deságios escalonados sobre o preço de emissão (art. 170, §1º, LSA). | cvm/colegiado/2023/col-20230228-d1439.md |
+| decisao-colegiado | 19957.010925/2017-44 | 2017-12-01 | — | assembleia-acionistas | Pedido de acionistas para suspender e interromper o prazo de convocação de AGE da Coelba com aumento de capital a preço fixado pelo patrimônio líquido contábil. Área técnica sugeriu declarar a ilegalidade, sem interrupção do prazo, por falta de justificativa pormenorizada do critério de preço (art. 170, §7º, Lei 6.404/76). | cvm/colegiado/2017/col-20171201-d0858.md |
+| decisao-colegiado | 19957.008672/2016-68 | 2017-09-19 | — | deveres-administradores | Recurso de acionista minoritário contra arquivamento pela SEP de pedido de apuração sobre aumento de capital da CEB por subscrição particular, com preço de emissão questionado (art. 170, §1º, da Lei 6.404/1976; Parecer de Orientação CVM 01/1978). Voto do relator pelo não conhecimento e pedido à área para reavaliar questões formais. | cvm/colegiado/2017/col-20170919-d0477.md |
+| decisao-colegiado | 19957.005870/2017-51 | 2017-06-23 | — | assembleia-acionistas | Pedido de interrupção, por até 15 dias, do prazo de antecedência da AGE da Vale S.A. convocada para reestruturação societária, com conversão de ações preferenciais e incorporação da Valepar (Lei 6.404/1976, art. 124, §5º, II; Instrução CVM 372/2002). A área técnica não identificou elementos de irregularidade que justificassem a interrupção. | cvm/colegiado/2017/col-20170623-d0721.md |
+| decisao-colegiado | RJ2014/5297 | 2016-09-13 | — | ofertas-publicas | Recurso de acionista minoritária da Oi S.A. contra arquivamento de reclamação sobre oferta pública primária de ações. Alegados diluição com integralização de bens, tratamento não equitativo e erros no prospecto (art. 170, §1º, da Lei 6.404/1976; art. 21 da Instrução CVM 400/2003). Relator propôs indeferimento. | cvm/colegiado/2016/col-20160913-d9179.md |
+| decisao-colegiado | 19957.001060/2016-44 | 2016-03-01 | — | opa | Recurso da controladora contra exigência da SRE para que laudo de avaliação de OPA para conversão de registro de categoria A para B contemple o valor de novas concessões e renovações. Colegiado exigiu aprimoramento fundamentado do laudo (ICVM 361/2002, Anexo III). | cvm/colegiado/2016/col-20160301-d0132.md |

@@ -1,0 +1,31 @@
+# Julgados que citam icvm-487
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: fora do acervo.
+
+## art. 8º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | RJ2011/2817 | 2016-08-02 | deferido | opa | Recurso contra decisão da SRE sobre OPA por aumento de participação em ações preferenciais da Investco S.A. (Lei 6.404/1976, art. 4º, §6º; Instrução CVM 361/2002, art. 26). Voto: OPA não obrigatória para PNC, impossível para PNB e necessária para PNA; responsabilidade remetida à SRE. | cvm/colegiado/2016/col-20160802-d7695.md |
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.013926/2023-99 | 2024-03-19 | provido | opa | Retomada de recurso contra entendimento da SRE sobre atualização do preço de OPA voluntária da Getninjas S.A. (art. 21 da Resolução CVM 85/2022 e art. 55, §1º, do Estatuto Social). Novo pedido de vista, sem julgamento final. | cvm/colegiado/2024/col-20240319-d3026.md |
+| decisao-colegiado | 19957.005411/2019-39 | 2021-06-01 | — | opa | Pedido de dispensa da contraprestação em valores mobiliários (art. 29, §8º, da ICVM 361/2002) em OPA por alienação indireta de controle, para pagamento integral em dinheiro a aproximadamente 180 acionistas. A SRE opina contra a dispensa e pela aplicação do art. 29, com opção dos destinatários. Sem deliberação registrada. | cvm/colegiado/2021/col-20210601-d1864.md |
+| decisao-colegiado | 19957.006377/2020-53; 19957.005060/2019-66 | 2020-10-13 | — | opa | Recurso da Energisa contra determinação da SRE de registrar OPA por aumento de participação na Rede Energia Participações, após aquisição de ações da BNDESPAR que ultrapassou 1/3 das ações em circulação (art. 4º, §6º, LSA; art. 26 da ICVM 361/02). | cvm/colegiado/2020/col-20201013-d1946.md |
+| decisao-colegiado | 19957.011434/2019-82 | 2020-01-21 | nao-provido | opa | Recurso da Energisa S.A. contra decisão da SRE que afastou a necessidade de OPA por aumento de participação na Cataguases, em reclamação que apontava aquisições de ações em circulação por membros do grupo de controle. O Colegiado, por unanimidade, negou provimento ao recurso (art. 4º, §6º, da Lei 6.404/76). | cvm/colegiado/2020/col-20200121-d1680.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-15 | outro | processual | Pedido de reconsideração da Eletropaulo contra decisão do Colegiado sobre o processo competitivo de OPAs concorrentes (Neoenergia e Enel), alegando que o compromisso de capitalização de uma das ofertas as tornaria distintas. A SRE não identificou erro, omissão ou contradição. Colegiado, por unanimidade, não conheceu do pedido. | cvm/colegiado/2018/col-20180515-d1024-pedidoreconsid.md |
+| decisao-colegiado | 19957.003818/2018-41 | 2018-05-02 | — | opa | Pedido de esclarecimentos da Neoenergia e da B3 sobre três OPAs concorrentes pelo controle da Eletropaulo: leilão conjunto, aditamento de editais e elevação de preço (art. 12, §§2º e 7º, Instrução CVM 361/02). A SRE foi favorável ao leilão conjunto, mas contrária à elevação de preço e a interferentes. O voto acompanhou a SRE quanto aos aditivos. | cvm/colegiado/2018/col-20180502-d1024.md |
+| decisao-colegiado | 19957.001656/2017-25 | 2018-05-02 | — | opa | Recurso da ofertante contra decisão da SRE que não validou a Demonstração Justificada de Preço de OPA por alienação indireta de controle da CPFL Energias Renováveis S.A. (R$ 12,20 por ação). A SRE entendeu que o preço mínimo seria de R$ 16,69, com base em preços-alvo de analistas (art. 254-A da Lei 6.404/76). Recorte sem decisão do Colegiado. | cvm/colegiado/2018/col-20180502-d1000.md |
+| decisao-colegiado | 19957.001656/2017-25 | 2018-03-27 | — | opa | Recurso da State Grid Brazil Power Participações contra decisão da SRE que considerou não razoáveis as premissas do laudo de avaliação em OPA por alienação indireta de controle da CPFL Energias Renováveis (Novo Mercado). Teste de consistência do preço pela Demonstração Justificada de Preço não realizável com base no laudo. Decisão adiada. | cvm/colegiado/2018/col-20180327-d1000.md |
+| decisao-colegiado | 19957.008790/2017-57 | 2017-11-21 | — | opa | Recurso da ofertante contra indeferimento pela SRE de tratamento sigiloso ao laudo de avaliação da Investco S.A. em OPA por aumento de participação. Área técnica propôs manter o indeferimento: o laudo deve ser público (Instrução CVM 361/2002) e não há hipótese de sigilo na Lei 12.527/2011. | cvm/colegiado/2017/col-20171121-d0853.md |
+| decisao-colegiado | 19957.002961/2015-72 | 2016-12-13 | indeferido | opa | Recurso do controlador contra exigência da SRE no registro de OPA para cancelamento de registro da Manufatura de Brinquedos Estrela S.A. Preço médio ponderado chegou a R$ 0,83 após fato relevante de 20.9.2016, e a SRE exigiu atualização do laudo (Instrução CVM 361/2002, art. 8º, §9º, II). Voto pelo indeferimento. | cvm/colegiado/2016/col-20161213-d0194.md |
+| decisao-colegiado | 19957.008350/2016-19 | 2016-11-23 | — | assembleia-acionistas | Pedido de acionista para ampliar em 30 dias o prazo de convocação de AGE da Prumo Logística S.A. (saída do Novo Mercado e OPA). A SEP entendeu que o art. 124, §5º, da Lei 6.404/1976 não se aplica: AGE convocada com 30 dias de antecedência e documentos disponíveis (Instrução CVM 372/2002, art. 2º, §1º). Pedido considerado intempestivo. | cvm/colegiado/2016/col-20161123-d0439.md |
+| decisao-colegiado | RJ2015/7158 | 2016-03-29 | deferido | opa | Pedido de registro de OPA para cancelamento de registro da CELG de Participações, formulado pelo Estado de Goiás, com dispensa de laudo de avaliação (art. 8º da Instrução CVM 361/2002) por procedimento diferenciado (art. 34). Deferido com base no precedente Máquinas Fuchs. | cvm/colegiado/2016/col-20160329-d0164.md |

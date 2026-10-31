@@ -1,0 +1,15 @@
+# Julgados que citam Resolução CVM nº 166/2022
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: [cvm/resolucoes/0166.md](../../../normas/normas/cvm/resolucoes/0166.md) (texto vigente hoje; o julgado aplicou a redação da época).
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.009696/2021-00 | 2023-07-05 | outro | normativo | Colegiado apresentou AIR sobre a revisão da obrigatoriedade do conselho fiscal em companhias de pequeno e médio porte e optou pela alternativa da não ação, por não ser prioritária no momento. Relatório de AIR a ser publicado (art. 21 da RCVM 67/2022). | cvm/colegiado/2023/col-20230705-d2909.md |
+| decisao-colegiado | 19957.011042/2022-19 | 2022-08-31 | deferido | divulgacao-informacoes | Aprovada a Resolução CVM nº 166/2022: companhias abertas de menor porte, inclusive securitizadoras, podem fazer as publicações da Lei nº 6.404/1976 pelos sistemas Empresas.Net e Fundos.Net. Dispensadas AIR e consulta pública. | cvm/colegiado/2022/col-20220831-d2682.md |

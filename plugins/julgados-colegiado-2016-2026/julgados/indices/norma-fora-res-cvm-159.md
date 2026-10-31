@@ -1,0 +1,35 @@
+# Julgados que citam res-cvm-159
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Norma: fora do acervo.
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.010218/2022-15 | 2024-11-12 | nao-provido | multa-cominatoria-taxa | Recursos da MAF DTVM contra multas cominatórias por falta de envio ao SCR do Banco Central de informações de 18 fundos de direitos creditórios não padronizados (art. 3º da RCVM 47/2021; Instrução CVM 504/2011). Não provido: a entrega é periódica, com calendário anual divulgado, e as multas de R$ 30 mil por fundo foram mantidas. | cvm/colegiado/2024/col-20241112-d3174.md |
+| decisao-colegiado | 19957.012902/2022-31 | 2023-01-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012902/2022-31. | cvm/colegiado/2023/col-20230110-d2779.md |
+| decisao-colegiado | 19957.000152/2022-55 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000152/2022-55. | cvm/colegiado/2023/col-20230103-d2771.md |
+| decisao-colegiado | 19957.000151/2022-19 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000151/2022-19. | cvm/colegiado/2023/col-20230103-d2770.md |
+| decisao-colegiado | 19957.000150/2022-66 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000150/2022-66. | cvm/colegiado/2023/col-20230103-d2769.md |
+| decisao-colegiado | 19957.012904/2022-21 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012904/2022-21. | cvm/colegiado/2023/col-20230103-d2767.md |
+| decisao-colegiado | 19957.013064/2022-13 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013064/2022-13. | cvm/colegiado/2023/col-20230103-d2766.md |
+| decisao-colegiado | 19957.013066/2022-11 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013066/2022-11. | cvm/colegiado/2023/col-20230103-d2765.md |
+| decisao-colegiado | 19957.012927/2022-35 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012927/2022-35. | cvm/colegiado/2023/col-20230103-d2764.md |
+| decisao-colegiado | 19957.012858/2022-60 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.012858/2022-60. | cvm/colegiado/2023/col-20230103-d2763.md |
+| decisao-colegiado | 19957.013063/2022-79 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013063/2022-79. | cvm/colegiado/2023/col-20230103-d2762.md |
+| decisao-colegiado | 19957.013062/2022-24 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013062/2022-24. | cvm/colegiado/2023/col-20230103-d2761.md |
+| decisao-colegiado | 19957.013065/2022-68 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013065/2022-68. | cvm/colegiado/2023/col-20230103-d2760.md |
+| decisao-colegiado | 19957.013061/2022-80 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013061/2022-80. | cvm/colegiado/2023/col-20230103-d2759.md |
+| decisao-colegiado | 19957.013060/2022-35 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013060/2022-35. | cvm/colegiado/2022/col-20221227-d2758.md |
+| decisao-colegiado | 19957.010627/2021-31 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.010627/2021-31. | cvm/colegiado/2022/col-20221227-d2755.md |
+| decisao-colegiado | 19957.010628/2021-85 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.010628/2021-85. | cvm/colegiado/2022/col-20221227-d2754.md |
+| decisao-colegiado | 19957.010626/2021-96 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.010626/2021-96. | cvm/colegiado/2022/col-20221227-d2753.md |
+| decisao-colegiado | 19957.000135/2022-18 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.000135/2022-18. | cvm/colegiado/2022/col-20221227-d2752.md |
+| decisao-colegiado | 19957.010623/2021-52 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso da Rumo Malha Norte contra multas cominatórias de R$ 7.000,00, R$ 2.000,00 e R$ 5.500,00 por atraso na entrega da DF 2020, do ITR 1T21 e do Formulário Cadastral 2021 (ICVM 480). Alegação de ausência de prejuízo ao mercado não afastou a multa. Não provido. | cvm/colegiado/2022/col-20221227-d2751.md |
+| decisao-colegiado | 19957.000134/2022-73 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso da Rumo Malha Paulista contra multas cominatórias de R$ 4.200,00, R$ 1.200,00 e R$ 3.300,00 por atraso na entrega da DF 2020, do ITR 1T21 e do Formulário Cadastral 2021 (ICVM 480). Alegação de ausência de prejuízo ao mercado não afastou a multa. Não provido. | cvm/colegiado/2022/col-20221227-d2750.md |
+| decisao-colegiado | 24/2021; 47/2021; 19957.005582/2022-63 | 2022-07-05 | outro | institucional | Edição da Resolução CVM 159/2022, que altera o Regimento Interno (Resolução CVM 24/2021) quanto às competências da ASA, SSR, STI, SGE e SAD, e a Resolução CVM 47/2021 sobre multas cominatórias, para adequar o fluxo recursal ao § 12 do art. 11 da Lei 6.385/1976 (Lei 14.317/2022). Aprovada sem consulta pública e sem AIR. | cvm/colegiado/2022/col-20220705-d2646.md |
