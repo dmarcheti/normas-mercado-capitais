@@ -84,10 +84,16 @@ class ValidacaoTest(unittest.TestCase):
     LOTE = [{"id": "a", "tipo": "decisao-colegiado", "recorte": CORPO},
             {"id": "b", "tipo": "pas", "recorte": "PAS. A ACME S.A. e JOSÉ DA SILVA EXEMPLO."}]
 
-    def test_ids_incompletos_reprovam_o_lote(self):
-        aprov, erros = ex.validar_saida(self.LOTE, [{"id": "a", "tema": "processual"}])
-        self.assertEqual(aprov, {})
-        self.assertIn("ids faltando: b", erros[0])
+    def test_id_divergente_nao_reprova_o_lote(self):
+        # o modelo trocou o id de "b": "a" é aplicado; "b" vai para a retentativa; "x" é ignorado
+        reprovadas = {}
+        aprov, erros = ex.validar_saida(self.LOTE, [{"id": "a", "tema": "processual"},
+                                                    {"id": "x", "tema": "processual"}],
+                                        reprovadas=reprovadas)
+        self.assertEqual(aprov, {"a": {"tema": "processual"}})
+        self.assertIn("ids faltando: b", erros)
+        self.assertIn("ids a mais: x", erros)
+        self.assertEqual(reprovadas, {"b": "id ausente na saída"})
 
     def test_campos_invalidos_saem_do_item(self):
         saida = [{"id": "a", "ementa": "Recurso de Beltrano Exemplar contra multa. Negado.",
@@ -239,6 +245,16 @@ class ExecucaoTest(Arvore):
         item = ler(os.path.join(self.saida, lotes[0], "lote.json"))[0]
         self.assertEqual(set(item), {"id", "tipo", "classe", "processo", "data", "titulo",
                                      "recorte"})
+
+    def test_retomavel_pula_o_que_ja_foi_extraido(self):
+        self.julgado("cvm-col-20250001-d1")
+        self.julgado("cvm-col-20250002-d2", tema="processual", tema_fonte="extracao",
+                     ementa="Recurso negado.", ementa_fonte="extracao")
+        with redirect_stdout(io.StringIO()):
+            ex.main(["--onda", "1", "--simular", "--raiz", self.raiz, "--saida", self.saida])
+        (lote,) = os.listdir(self.saida)
+        self.assertEqual([x["id"] for x in ler(os.path.join(self.saida, lote, "lote.json"))],
+                         ["cvm-col-20250001-d1"])
 
     def test_trabalho_dentro_do_repositorio_e_recusado(self):
         with self.assertRaises(ValueError):

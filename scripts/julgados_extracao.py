@@ -91,7 +91,7 @@ def julgados(raiz=jc.RAIZ):
             continue
         if v.get("id"):
             out.append({"id": v["id"], "tipo": v.get("tipo", ""), "data": v.get("data", ""),
-                        "url": c})
+                        "url": c, "pendente": not v.get("tema") or quer_ementa(v)})
     return out
 
 
@@ -598,8 +598,8 @@ def ementa_sem_pessoas(valores, corpo, pessoas_=None, publicada=""):
 
 
 def validar_saida(lote, saida, pessoas=None, reprovadas=None):
-    """(aprovados {id: campos}, erros). Erro de lote (ids faltando ou sobrando) reprova o lote;
-    campo inválido sai do item (ementa longa ou com nome de pessoa física do julgado, tema ou
+    """(aprovados {id: campos}, erros). Id faltando vai para `reprovadas` (retentativa) e id
+    sobrando é ignorado, sem reprovar o resto do lote; campo inválido sai do item (ementa longa ou com nome de pessoa física do julgado, tema ou
     resultado fora da lista). `pessoas`: {id: [nomes]} (pessoas.json do lote); `reprovadas`, se
     dado, recebe {id: motivo} das ementas reprovadas (para a retentativa)."""
     pessoas = pessoas or {}
@@ -617,10 +617,12 @@ def validar_saida(lote, saida, pessoas=None, reprovadas=None):
         erros.append("ids faltando: %s" % ", ".join(sorted(faltam)))
     if sobram:
         erros.append("ids a mais: %s" % ", ".join(sorted(sobram)))
-    if faltam or sobram:
-        return {}, erros
+    for i in sorted(faltam):
+        reprovadas[i] = "id ausente na saída"
     aprovados = {}
     for x in lote:
+        if x["id"] in faltam:
+            continue
         o, campos = por_id[x["id"]], {}
         ementa = re.sub(r"\s+", " ", str(o.get("ementa") or "")).strip()
         if ementa:
@@ -731,6 +733,8 @@ def main(argv=None):
         faltam = set(ids) - {x["id"] for x in itens}
         if faltam:
             print("sem arquivo convertido: %s" % ", ".join(sorted(faltam)), file=sys.stderr)
+    else:  # retomável: sem --ids, fica de fora o que já tem tema e não quer mais ementa
+        itens = [x for x in itens if x["pendente"]]
     prefixo = "%s-%s" % (jc.hoje_sp(), a.model)
     n = len(glob.glob(os.path.join(a.saida, prefixo + "*")))
     pastas = montar_lotes([x["url"] for x in itens], a.saida,
