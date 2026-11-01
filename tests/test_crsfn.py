@@ -69,12 +69,17 @@ class ClienteFalso:
         return dados, cab, final or url
 
 
+# Bytes de PDF sintéticos: o .gitignore barra *.pdf, e o texto de cada PDF vem do .txt da fixture
+# (PdfFalso). Sem conteúdo real, o pypdf falha e a leitura cai no PdfFalso, com ou sem pypdf.
+PDF_SINTETICO = b"%PDF-1.4\n% fixture sem conteudo; texto em "
+
+
 def rotas():
     pdf = {"content-type": "application/pdf"}
     sei = "https://sei.economia.gov.br/sei/publicacoes/controlador_publicacoes.php?x=1"
     return {
-        I1999["item_url"] + "/@@download/file": (ler("pdf-1999-recurso-2613.pdf"), pdf, None),
-        I2005["item_url"] + "/@@download/file": (ler("pdf-2005-recurso-5279.pdf"), pdf, None),
+        I1999["item_url"] + "/@@download/file": (PDF_SINTETICO + b"pdf-1999-recurso-2613.txt\n", pdf, None),
+        I2005["item_url"] + "/@@download/file": (PDF_SINTETICO + b"pdf-2005-recurso-5279.txt\n", pdf, None),
         ISEI["item_url"]: (ler("sei-cvm-10372-100012-2021-00.html"),
                            {"content-type": "text/html; charset=iso-8859-1"}, sei),
         IBCB["item_url"]: (ler("sei-bcb-10372-100124-2021-52.html"),
