@@ -8,6 +8,14 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## res-cvm-88-1968
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | Recurso da IASA contra decisão da SEP que negou a conversão de registro de companhia aberta em companhia incentivada. Negado provimento: o cancelamento segue o art. 4º, §4º, da Lei 6.404/76 e as IN CVM 361/02 e 480/09; há cerca de 460 acionistas minoritários. | cvm/colegiado/2012/col-20120529-d04.md |
+
 ## res-cvm-303
 
 ### art. 10
@@ -58,14 +66,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | cvm/colegiado/2015/col-20150707-d8708.md |
 
-## res-cvm-527
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/0186 | 2012-11-22 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários (Instrução CVM 43/85), por falta de comprovação de atuação no mercado de valores mobiliários e da experiência mínima de três anos em análise de investimentos. Colegiado, acompanhando a área técnica, indeferiu o recurso. | cvm/colegiado/2012/col-20121122-d11.md |
-
 ## res-cvm-737
 
 ### Citada sem dispositivo identificado
@@ -88,7 +88,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/0186 | 2012-11-22 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários (Instrução CVM 43/85), por falta de comprovação de atuação no mercado de valores mobiliários e da experiência mínima de três anos em análise de investimentos. Colegiado, acompanhando a área técnica, indeferiu o recurso. | cvm/colegiado/2012/col-20121122-d11.md |
 | decisao-colegiado | RJ2002/5412 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5412. | cvm/colegiado/2009/col-20090303-d06.md |
 | decisao-colegiado | RJ1999/3978 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3978. | cvm/colegiado/2009/col-20090303-d04.md |
 

@@ -61,6 +61,51 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2007/11086 | 2008-09-23 | indeferido | assembleia-acionistas | Pedido de reconsideração de decisão do Colegiado sobre o art. 161, §4º, 'a', da Lei 6.404/76. Para a eleição de conselheiro fiscal por minoritários, o requisito de 10% refere-se ao número de ações dos minoritários, e não ao quórum presente na assembleia. Colegiado manteve a decisão e indeferiu o pedido. | cvm/colegiado/2008/col-20080923-d02.md |
 | decisao-colegiado | RJ2006/6209 | 2006-09-25 | nao-provido | opa | Recurso da recorrente contra entendimento da SRE e da SEP de que deveria lançar OPA aos minoritários da Arcelor Brasil, por força do art. 10 do estatuto e do parágrafo único do art. 116 da Lei 6.404/76. Não provido. | cvm/colegiado/2006/col-20060925-d01.md |
 
+## lei-6
+
+### art. 4º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 4º, § 4º | decisao-colegiado | RJ2002/7753 | 2003-04-17 | deferido | opa | Consulta da SRE sobre OPA unificada para cancelamento de registro da Rhodia-Ster S.A. e alienação de controle (art. 254-A, Lei 6.404/76). Acolhido o pedido de registro da OPA unificada (art. 34, § 2º, Instrução CVM 361/02), com estudo sobre delegar à SRE a apreciação dessas unificações. | cvm/colegiado/2003/col-20030417-d05.md |
+
+### art. 11
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 11, § 3º | decisao-colegiado | RJ2003/6108 | 2003-11-11 | nao-provido | multa-cominatoria-taxa | Recurso de contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2003/6108. | cvm/colegiado/2003/col-20031111-d06.md |
+
+### art. 21
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 21, § 3º | decisao-colegiado | RJ2007/11593 | 2008-01-22 | outro | ofertas-publicas | Pedido de dispensa de registro de oferta pública de CCBs da Bracor Investimentos Imobiliários Ltda., restrita a fundos. Colegiado fixa diretrizes: CCBs são valores mobiliários se o banco emitente fizer oferta pública e excluir sua responsabilidade. Processo devolvido à SRE, à luz da Instrução 422/05. | cvm/colegiado/2008/col-20080122-d01.md |
+
+### art. 115
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 115, § 1º | decisao-colegiado | RJ2004/5494 | 2004-12-16 | parcial | deveres-administradores | Recurso da Previ contra decisão da SEP que não abriu inquérito administrativo sobre permuta de ações da AMBEV e incorporação da Labatt. Não havia elementos de abuso de poder de controle nem de usurpação de oportunidade; reconhecido conflito de interesses de administradores impedidos de deliberar; sugerida à SEP apuração de violação ao art. 156 da Lei 6.404/76. | cvm/colegiado/2004/col-20041216-d04.md |
+
+### art. 141
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 141, § 4º | decisao-colegiado | RJ2007/0196 | 2007-06-12 | provido | divulgacao-informacoes | Recurso da Dynamo Administração de Recursos Ltda. contra indeferimento de dispensa de fato relevante sobre aquisição de ações da Odontoprev S.A. (art. 12 da Instrução CVM 358/02, com redação da Instrução CVM 449/07). Colegiado dá provimento: exigir publicação após a alteração da norma seria excesso de preciosismo, dada a informação desatualizada. | cvm/colegiado/2007/col-20070612-d08.md |
+| art. 141, § 5º | decisao-colegiado | RJ2007/0196 | 2007-06-12 | provido | divulgacao-informacoes | Recurso da Dynamo Administração de Recursos Ltda. contra indeferimento de dispensa de fato relevante sobre aquisição de ações da Odontoprev S.A. (art. 12 da Instrução CVM 358/02, com redação da Instrução CVM 449/07). Colegiado dá provimento: exigir publicação após a alteração da norma seria excesso de preciosismo, dada a informação desatualizada. | cvm/colegiado/2007/col-20070612-d08.md |
+
+### art. 191
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 191 | decisao-colegiado | RJ2006/0594; RJ2005/0147 | 2007-07-10 | parcial | assembleia-acionistas | Recurso contra entendimento da SEP sobre pagamento de JCP com prejuízos acumulados (arts. 189 e 210, Lei 6.404/76), vantagem de 10% às preferenciais e redução de capital sem parecer do Conselho Fiscal (art. 163, III). Constam os votos do relator; a deliberação final não consta do recorte. | cvm/colegiado/2007/col-20070710-d03.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | assembleia-acionistas | Recurso da Livraria do Globo S.A. contra decisão da SEP que considerou retenção ilegal de lucros a reserva estatutária para investimentos e capital de giro (art. 194, Lei 6.404/76). O Colegiado, por maioria, deu provimento ao recurso. | cvm/colegiado/2002/col-20020426-d05.md |
+
 ## lei-7
 
 ### art. 115
@@ -117,14 +162,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2004/2060 | 2004-06-01 | nao-provido | assembleia-acionistas | Recurso da Siderúrgica do Maranhão S.A. (SIMASA) contra decisão da SEP sobre eleição de membro do conselho fiscal pelos acionistas preferencialistas. Negado provimento, com base no Parecer de Orientação CVM 19/90; a AGO de 08.04.2004 já havia sido realizada. | cvm/colegiado/2004/col-20040601-d05.md |
 | decisao-colegiado | RJ2004/2559 | 2004-06-01 | nao-provido | assembleia-acionistas | Recurso da Companhia Siderúrgica do Maranhão S.A. (COSIMA) contra decisão da SEP sobre eleição de membro do conselho fiscal pelos acionistas preferencialistas. Negado provimento, com base no Parecer de Orientação CVM 19/90, que assegura a esses acionistas o direito instrumental de fiscalização. | cvm/colegiado/2004/col-20040601-d04.md |
-
-## lei-63
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/5907 | 2002-08-13 | — | assembleia-acionistas | Requerimento de acionista para adiar por 30 dias a AGE da Copene Petroquímica do Nordeste S.A., convocada com 22 dias de antecedência (art. 124, § 5º, I, da Lei nº 6.404/76). Voto do relator pelo indeferimento: pedido intempestivo, custo desproporcional e participação irrelevante do requerente. | cvm/colegiado/2002/col-20020813-d07.md |
 
 ## lei-119
 
@@ -395,6 +432,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/0547 | 2007-07-10 | nao-provido | securitizacao | Recurso contra indeferimento de registro definitivo de oferta de CRI da Rio Bravo Crédito Cia. de Securitização. Somente créditos imobiliários constituídos e de valor determinado podem lastrear CRI (art. 8º da Lei 9.514/97), não direitos creditórios futuros. Colegiado negou provimento. | cvm/colegiado/2007/col-20070710-d22.md |
 
+## lei-4728-1967
+
+### art. 47
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-09-23 | — | assembleia-acionistas | Consulta do Unibanco sobre bonificação de ações em tesouraria. Relator votou que a Lei 6.404/76 e a Instrução CVM 10/80 não permitem bonificar ações em tesouraria; pedido de vista impede conclusão no recorte. | cvm/colegiado/2008/col-20080923-d01.md |
+| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-11-04 | — | assembleia-acionistas | Consulta do Unibanco S.A. e Unibanco Holdings S.A. sobre bonificação de ações mantidas em tesouraria (Instrução CVM 10/80, art. 16; Lei 6.404/76, art. 30, §4º). Votos divergentes; pedido de vista adiou a decisão. | cvm/colegiado/2008/col-20081104-d14.md |
+| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-11-25 | outro | outros | Consulta de companhia sobre bonificação de ações em tesouraria. Por maioria, o Colegiado entendeu que essas ações devem ser bonificadas e determinou a correção da Nota Explicativa à Instrução CVM 10/80, que vedava a bonificação. | cvm/colegiado/2008/col-20081125-d03.md |
+
 ## lei-4869
 
 ### art. 18
@@ -663,6 +710,47 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 2º, inciso IX | decisao-colegiado | RJ2007/11593 | 2008-01-22 | outro | ofertas-publicas | Pedido de dispensa de registro de oferta pública de CCBs da Bracor Investimentos Imobiliários Ltda., restrita a fundos. Colegiado fixa diretrizes: CCBs são valores mobiliários se o banco emitente fizer oferta pública e excluir sua responsabilidade. Processo devolvido à SRE, à luz da Instrução 422/05. | cvm/colegiado/2008/col-20080122-d01.md |
+
+## lei-6404-1946
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | — | 2003-04-17 | outro | assembleia-acionistas | Consulta da SEP sobre revisão de decisão anterior (Proc. CVM 97/1297): o direito de voto do art. 111, § 1º, Lei 6.404/76, por falta de dividendo, aplica-se só às ações preferenciais com prioridade em dividendo fixo ou mínimo. Maioria acompanhou o relator; voto divergente declarado. | cvm/colegiado/2003/col-20030417-d08.md |
+
+## lei-6404-1964
+
+### art. 17
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 17, § 3º | decisao-colegiado | RJ2002/7500 | 2003-01-28 | nao-provido | assembleia-acionistas | Recurso contra entendimento da SEP referente à distribuição aos acionistas detentores de ações preferenciais dos dividendos prioritários mínimos. Proc. RJ2002/7500. | cvm/colegiado/2003/col-20030128-d03.md |
+
+### art. 137
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 137 | decisao-colegiado | RJ2003/5457 | 2004-08-05 | provido | deveres-administradores | Recurso contra decisão da SEP sobre suposto desvio de objeto social da companhia, em investimento em shopping center. Colegiado deu provimento para que a área técnica aprofunde a apuração, diante de indícios de que o controlador levou a companhia a atividade fora do objeto (Lei 6.404/76, art. 117, § 1º, a). O voto vencido reconhecia alteração do objeto sem assembleia. | cvm/colegiado/2004/col-20040805-d01.md |
+
+## lei-6404-1967
+
+### art. 264
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 264 | decisao-colegiado | RJ2004/2040 | 2004-04-06 | parcial | deveres-administradores | Consulta do Unibanco sobre a aplicabilidade da Instrução CVM 319/99 à incorporação de controlada (UNIPART), sem emissão de ações. Colegiado acolheu parcialmente o pleito, por não haver prejuízo econômico-financeiro aos minoritários, condicionando-o à divulgação nos termos da Instrução CVM 358/02 e ao art. 12 da Instrução CVM 319/99 (auditor registrado na CVM). | cvm/colegiado/2004/col-20040406-d04.md |
+| art. 264 | decisao-colegiado | RJ2007/3465 | 2007-05-29 | parcial | divulgacao-informacoes | Pedido de dispensa da Instrução CVM 319/99 e do art. 264 da Lei 6.404/76 na incorporação da Beverage Associates Holding Ltd. pela AmBev. Colegiado: não é possível dispensar dispositivo legal, mas não se exige laudo a preços de mercado sem minoritários a tutelar; divulgação do fato relevante a critério da companhia. | cvm/colegiado/2007/col-20070529-d07.md |
+| art. 264 | decisao-colegiado | RJ2007/13459 | 2007-11-12 | deferido | auditoria-independente | Pedido de dispensa de auditoria independente nas demonstrações da Suzano Petroquímica e de sua controlada SPQ Investimentos para incorporação (art. 12 da Instrução CVM 319/99). Deferido com condição: na data da operação, as incorporadas devem ser companhias fechadas com controle total da Suzano. | cvm/colegiado/2007/col-20071112-d02.md |
+
+## lei-6404-1979
+
+### art. 45
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 45 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
+| art. 45, § 2º | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
 
 ## lei-6406
 
@@ -1612,6 +1700,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2006/7551 | 2006-12-12 | deferido | fundos-investimento | Registro de funcionamento e de oferta pública de cotas do FIDC CPTM, cujo patrimônio é majoritariamente de créditos não performados originados de bilhetes de transporte de estatal paulista (arts. 8º e 20, Instrução CVM 356/01). Colegiado deferiu os registros, acompanhando a área técnica. | cvm/colegiado/2006/col-20061212-d10.md |
+
+## lei-9514-1994
+
+### art. 6º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2002/3032 | 2003-05-13 | nao-provido | securitizacao | Recurso da CIBRASEC contra indeferimento de registro definitivo de CRI da 10ª série, 2ª emissão. Negado provimento: crédito imobiliário é o que decorre do imóvel, não de atividade econômica da tomadora, e o termo de securitização deve ser averbado no registro do imóvel (Lei 9.514/97, art. 10, parágrafo único). | cvm/colegiado/2003/col-20030513-d03.md |
 
 ## lei-9517
 

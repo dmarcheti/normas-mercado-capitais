@@ -146,6 +146,12 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 28, § 1º, inciso VIII | decisao-colegiado | 19957.004373/2017-35 | 2017-06-13 | deferido | infraestrutura-mercado | Aprovação de alterações estatutárias da B3 S.A. Brasil, Bolsa, Balcão, decorrentes da combinação com a CETIP, nos termos do art. 117, II, da Instrução CVM 461/2007. Rebalanceamento de competências entre Presidente e Diretoria Colegiada e aumento temporário do Conselho de Administração, considerados compatíveis com a Instrução. | cvm/colegiado/2017/col-20170613-d0708.md |
 
+## art. 32
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 32, parágrafo único | decisao-colegiado | 19957.009370/2021-74 | 2021-12-21 | deferido | infraestrutura-mercado | Autorização, nos termos do art. 13, §1º, da Instrução CVM 461/2007, para a B3 adquirir 100% da Neoway por R$ 1,8 bilhão. Operação considerada conexa às atividades reguladas e de risco residual baixo, segundo a própria B3. Deferido por unanimidade. | cvm/colegiado/2021/col-20211221-d2442.md |
+
 ## art. 37
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

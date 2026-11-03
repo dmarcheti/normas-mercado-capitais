@@ -59,6 +59,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 13, § 1º, inciso II | decisao-colegiado | 19957.004374/2018-61 | 2020-09-22 | — | crowdfunding | Proposta da SMI e da SRE de cancelamento de ofício da autorização de plataforma de investimento participativo (art. 17, II, b, da ICVM 588/17) por descumprimento de requisitos, incluindo operação fraudulenta em que a própria plataforma subscrevia as ofertas. | cvm/colegiado/2020/col-20200922-d1924.md |
+| art. 13, § 1º, inciso II, alínea d | decisao-colegiado | 19957.004374/2018-61 | 2020-09-22 | — | crowdfunding | Proposta da SMI e da SRE de cancelamento de ofício da autorização de plataforma de investimento participativo (art. 17, II, b, da ICVM 588/17) por descumprimento de requisitos, incluindo operação fraudulenta em que a própria plataforma subscrevia as ofertas. | cvm/colegiado/2020/col-20200922-d1924.md |
 | art. 13, § 2º | decisao-colegiado | 19957.004374/2018-61 | 2020-09-22 | — | crowdfunding | Proposta da SMI e da SRE de cancelamento de ofício da autorização de plataforma de investimento participativo (art. 17, II, b, da ICVM 588/17) por descumprimento de requisitos, incluindo operação fraudulenta em que a própria plataforma subscrevia as ofertas. | cvm/colegiado/2020/col-20200922-d1924.md |
 
 ## art. 14

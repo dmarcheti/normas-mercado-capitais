@@ -1070,9 +1070,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados [dado pessoal retirado]. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
-| art. 1º, inciso VI | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados [dado pessoal retirado]. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
-| art. 1º, inciso VI, alínea b | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados [dado pessoal retirado]. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
+| art. 1º | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados no Brasil de cotas emitidas por investidor estrangeiro registrado na CVM na forma do Anexo IV à Resolução CMN n.° 1.289/87 em infração à Instrução CVM n.° 169/92, art. 1º, VI. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
+| art. 1º, inciso VI | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados no Brasil de cotas emitidas por investidor estrangeiro registrado na CVM na forma do Anexo IV à Resolução CMN n.° 1.289/87 em infração à Instrução CVM n.° 169/92, art. 1º, VI. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
+| art. 1º, inciso VI, alínea b | pas | 08/2001 | 2004-09-23 | condenacao | ofertas-publicas | Oferta a investidores residentes e domiciliados no Brasil de cotas emitidas por investidor estrangeiro registrado na CVM na forma do Anexo IV à Resolução CMN n.° 1.289/87 em infração à Instrução CVM n.° 169/92, art. 1º, VI. Inserção a destempo, em prospecto, de alerta relativo a restrição de participação de cotistas residentes e domiciliados no Brasil. | cvm/pas/2004/08-2001.md |
 
 ### art. 2º
 

@@ -13,4 +13,3 @@ Norma: [cvm/pareceres-orientacao/0029.md](../../../normas/normas/cvm/pareceres-o
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
-| decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |

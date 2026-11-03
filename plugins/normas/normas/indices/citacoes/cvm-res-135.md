@@ -28,7 +28,7 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 86 | Ofício-Circular Conjunto CVM/SIN/SMI/SSE 01/25 | oficio-circular | 2025-03-10 | cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md | é necessário observar que: a) o art. 86 da Resolução CVM n. º 135, de 10 de junho de 2022, estabelece que as EAMOs devem manter cadastro atualizado |
+| art. 86 | Ofício-Circular Conjunto CVM/SIN/SMI/SSE 01/25 | oficio-circular | 2025-03-10 | cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md | é necessário observar que: a) o art. 86 da Resolução CVM n. º 135, de 10 de junho de 2022, estabelece que as EAMOs devem manter cadastro atualizado de |
 
 ## art. 87
 
@@ -48,8 +48,8 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 142, inciso I | Ofício Circular CVM/SMI 02/2026 | oficio-circular | 2026-04-02 | cvm/oficios-circulares/smi/oc-smi-0226.md | / pg. 1 negociação, nos termos do art. 142, incisos I e III da Resolução CVM n. º 135, de 10 de junho de 2022. No entendimento da SMI, eles são mecanismos de |
-| art. 142, inciso III | Ofício Circular CVM/SMI 02/2026 | oficio-circular | 2026-04-02 | cvm/oficios-circulares/smi/oc-smi-0226.md | / pg. 1 negociação, nos termos do art. 142, incisos I e III da Resolução CVM n. º 135, de 10 de junho de 2022. No entendimento da SMI, eles são mecanismos de |
+| art. 142, inciso I | Ofício Circular CVM/SMI 02/2026 | oficio-circular | 2026-04-02 | cvm/oficios-circulares/smi/oc-smi-0226.md | negociação, nos termos do art. 142, incisos I e III da Resolução CVM n. º 135, de 10 de junho de 2022. No entendimento da SMI, eles são mecanismos de |
+| art. 142, inciso III | Ofício Circular CVM/SMI 02/2026 | oficio-circular | 2026-04-02 | cvm/oficios-circulares/smi/oc-smi-0226.md | negociação, nos termos do art. 142, incisos I e III da Resolução CVM n. º 135, de 10 de junho de 2022. No entendimento da SMI, eles são mecanismos de |
 | art. 142, inciso IV | Ofício-Circular-Conjunto CVM/SMI-SRE-SEP 01/22 | oficio-circular | 2022-12-15 | cvm/oficios-circulares/smi/oc-smi-sre-sep-0122.md | previamente realizadas na forma do art. 142, IV da Resolução CVM n. º 135/2022 e as operações privadas (art. 94, I); c) as regras, procedimentos e |
 
 ## art. 143

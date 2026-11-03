@@ -144,18 +144,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
 
-### art. 29
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29 | pas | 19957.006739/2018-91; 18/2013 | 2018-05-08 | parcial | divulgacao-informacoes | Não convocação de assembleias gerais ordinárias – não elaboração de demonstrações financeiras da companhia – não envio à CVM das informações periódicas obrigatórias – não manutenção atualizada do registro da companhia –Absolvições, advertência e multas pecuniárias. | cvm/pas/2018/19957-006739-2018-91.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | SP2014/230 | 2018-05-29 | condenacao | manipulacao-fraude | Criação de condições artificiais de demanda, oferta e preço no mercado de valores mobiliários. Multas. | cvm/pas/2018/sp2014-0230.md |
-| pas | RJ2016/7192 | 2018-03-13 | condenacao | manipulacao-fraude | Manipulação de preços por meio da inserção de ordens artificiais de compra e venda de valores mobiliários, caracterizando a prática de spoofing. Multas. | cvm/pas/2018/rj2016-7192.md |
 | pas | 01/2011 | 2018-02-27 | parcial | deveres-administradores | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE EXIGIDOS DOS ADMINISTRADORES DE UMA COMPANHIA ABERTA. TRANSFERÊNCIAS INJUSTIFICADAS DE RECURSOS DA COMPANHIA PARA SOCIEDADES COLIGADAS – OPERAÇÕES NÃO COMUTATIVAS – ABUSO DO PODER DE CONTROLE. ABSOLVIÇÃO, INABILITAÇÕES E MULTAS PECUNIÁRIAS. | cvm/pas/2018/01-2011.md |
 
 ## lei-14
@@ -575,14 +567,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
 
-## lei-63
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | pas | RJ2005/3304 | 2006-05-30 | parcial | exercicio-irregular | Exercício da atividade de agente autônomo de investimento sem autorização da CVM: advertência. - Manutenção de contrato de prestação de serviços de agente autônomo de investimento com pessoa não registrada: absolvição. | cvm/pas/2006/rj2005-3304.md |
-
 ## lei-66
 
 ### Citada sem dispositivo identificado
@@ -928,6 +912,22 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 13/2003 | 2005-12-14 | parcial | fundos-investimento | Contrato de agenciamento celebrado entre duas instituições financeiras com o objetivo de captar recursos para aplicação em fundos de investimento. Falha na prestação de informações relativas aos riscos envolvidos nas aplicações. Responsabilidade da instituição captadora e de seus administradores quanto ao dever de informar aos quotistas dos fundos sobre tais riscos. | cvm/pas/2005/13-2003.md |
 
+## lei-4595-1966
+
+### art. 44
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 44 | pas | 13/2003 | 2005-12-14 | parcial | fundos-investimento | Contrato de agenciamento celebrado entre duas instituições financeiras com o objetivo de captar recursos para aplicação em fundos de investimento. Falha na prestação de informações relativas aos riscos envolvidos nas aplicações. Responsabilidade da instituição captadora e de seus administradores quanto ao dever de informar aos quotistas dos fundos sobre tais riscos. | cvm/pas/2005/13-2003.md |
+
+## lei-4595-1994
+
+### art. 17
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 17 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
+
 ## lei-4680
 
 ### Citada sem dispositivo identificado
@@ -1166,6 +1166,23 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 11, inciso VIII | pas | RJ2012/11002 | 2016-12-15 | absolvicao | manipulacao-fraude | Suposta violação do dever de guardar sigilo. Absolvição – Suposto uso indevido de informação privilegiada. Absolvição – Suposta concorrência para a manipulação do preço das ações de emissão da Mundial S.A. – Produtos de Consumo. Absolvições – Manipulação do preço das ações de emissão da Mundial S.A. – Produtos de Consumo. Absolvição e Proibição temporária. | cvm/pas/2016/rj2012-11002.md |
 
+## lei-6385-2001
+
+### art. 2º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º, inciso IX | pas | RJ2016/8347 | 2018-08-07 | parcial | ofertas-publicas | Oferta pública de contratos de investimento coletivo referentes a empreendimentos hoteleiros, sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03, e sem a dispensa prevista no inciso I, do §5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Absolvições, advertências e multas. | cvm/pas/2018/rj2016-8347.md |
+
+## lei-6385-2016
+
+### art. 11
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 11, inciso I | pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | intermediacao | Apurar eventual responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do disposto na Instrução CVM nº 505/2011, em infração ao art. 3º, inciso I; e (b) procedimentos e controles internos com o objetivo de verificar a implementação, aplicação e eficácia dessas regras, em infração ao art. 3º, inciso II; e (ii) à falhas na elaboração e no conteúdo dos relatórios de controles internos, em infração ao art. 4º, §5º, inciso III, da Instrução CVM nº 505/2011. Multas e advertência. | cvm/pas/2023/19957-009663-2017-75.md |
+| art. 11, inciso II | pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | intermediacao | Apurar eventual responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do disposto na Instrução CVM nº 505/2011, em infração ao art. 3º, inciso I; e (b) procedimentos e controles internos com o objetivo de verificar a implementação, aplicação e eficácia dessas regras, em infração ao art. 3º, inciso II; e (ii) à falhas na elaboração e no conteúdo dos relatórios de controles internos, em infração ao art. 4º, §5º, inciso III, da Instrução CVM nº 505/2011. Multas e advertência. | cvm/pas/2023/19957-009663-2017-75.md |
+
 ## lei-6387
 
 ### art. 15
@@ -1213,6 +1230,28 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 154 | pas | RJ2013/11703 | 2018-07-31 | absolvicao | deveres-administradores | Apuração de responsabilidade dos membros do conselho de administração da HRT Participações em Petróleo S.A. na elaboração, aprovação e implementação do Severance Package em suposto desvio de poder. Art. 154 da Lei nº 6.404/76. Absolvições. | cvm/pas/2018/rj2013-11703.md |
+
+## lei-6404-2004
+
+### art. 157
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 157, § 4º | pas | 19957.003714/2023-01 | 2025-03-25 | condenacao | divulgacao-informacoes | Apurar responsabilidade do DRI da Saraiva Livreiros S.A. - Em Recuperação Judicial por eventual violação ao art. 157, §4º, da Lei nº 6.404/1976, art. 3º c/c art. 6º, parágrafo único, e art. 4º, parágrafo único, todos da Resolução CVM nº 44/2021. Multas. | cvm/pas/2025/19957-003714-2023-01.md |
+
+## lei-6404-2016
+
+### art. 245
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 245 | pas | RJ2011/11073 | 2015-12-15 | parcial | deveres-administradores | Não divulgação, no Formulário de Referência, de informações relevantes acerca de contratos de mútuo. Advertência e Absolvições. Operação fraudulenta. Multas. Abuso do poder de controle. Multa e absolvições. Não apresentação de justificativa pormenorizada para fixação do preço de emissão de ações decorrentes de aumento de capital. Advertências. Suposto descumprimento do dever de diligência. Absolvições. | cvm/pas/2015/rj2011-11073.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | RJ2017/3522 | 2018-06-19 | condenacao | deveres-administradores | Descumprimentos de normas previstas na legislação societária referentes aos livros sociais, à escrituração contábil e a não divulgação de informações devidas por uma companhia aberta. Descumprimento dos deveres de diligência e de fiscalização. Multas . | cvm/pas/2018/rj2017-3522.md |
 
 ## lei-6406
 
@@ -1744,6 +1783,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | deveres-administradores | Ementa : Responsabilidade de membros do conselho de administração da OGX Petróleo e Gás Participações S.A., por descumprimento do dever de diligência no exercício de suas atribuições. Infração ao art. 153 da Lei nº 6.404/76. Absolvições. | cvm/pas/2019/19957-005981-2016-86.md |
 | pas | 04/2004 | 2006-06-28 | parcial | informacao-privilegiada | Negociações de valores mobiliários realizadas por advogados que tiveram acesso, no exercício de sua profissão, a informações sobre negócios dos emissores (insider trading). Absolvição e multa. | cvm/pas/2006/04-2004.md |
 
+## lei-8929-1997
+
+### art. 19
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 19, § 1º | pas | 14/2008 | 2011-08-09 | condenacao | exercicio-irregular | BOVINUS Tecnologia em Pecuária S.A emissão e distribuição pública de valores mobiliários sem registro na CVM – não envio à CVM de informações periódicas e eventuais – Multas. | cvm/pas/2011/14-2008.md |
+
 ## lei-8934
 
 ### Citada sem dispositivo identificado
@@ -2234,6 +2281,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | SP2005/0155 | 2007-08-21 | parcial | informacao-privilegiada | É vedada, como prática não eqüitativa, a negociação com valores mobiliários realizada por quem quer que, em virtude de seu cargo, função ou posição, tenha conhecimento de informação relativa a ato, ou fato relevante, antes de sua comunicação e divulgação ao mercado. - Imputação de uso de informação privilegiada: advertências e absolvições. - Não divulgação de fato relevante: multa. | cvm/pas/2007/sp2005-0155.md |
+
+## lei-11101-2003
+
+### art. 197
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 197 | pas | 01/2005 | 2008-11-26 | parcial | fundos-investimento | Banco Santos S/A e outros Não utilização, no exercício das atividades de administração e gestão de carteiras de fundos de investimento, do cuidado e da diligência que todo homem ativo e probo costuma dispensar à administração de seus próprios negócios. Inabilitações e multas. Não cumprimento de normas de segregação na administração de recursos de terceiros e a existência de um visível conflito de interesse entre o administrador (Banco Santos) e a gestora (Santos Asset Management) dos fundos que foram objeto da investigação, tendo sido comprovada a falta de independência da equipe técnica da gestora em relação às operações de interesse do administrador, ficando claro que o chamado “chinese wall” não passava de mera formalidade, sem efeito prático. Multas. Não observação do limite máximo de aplicação de 10% (dez por cento) do patrimônio líquido do fundo Santos Credit Master FIF em cédulas de crédito bancário (CCBs) de emissão do “Grupo CAOA”. Multas. Não verificação da adequação da carteira do fundo Santos Cambial FIF ao seu respectivo referencial e dos fundos Santos Agro Brasilis DI FIF e Santos Maxi Money DI FIF aos níveis de composição de ativos. Multas. Colocação de debêntures de emissão da Procid Participações e Negócios S.A., Procid Invest Participações e Negócios S.A., Invest Santos Negócios, Administração e Participações S.A., Santospar Investimentos, Participações e Negócios S.A. e Sanvest Participações S.A., sem o prévio registro nesta CVM, as quais deveriam ser colocadas de forma privada, mas que comprovadamente foram negociadas nas dependências do Banco Santos, sociedade integrante do sistema de distribuição, com efetiva e intensiva participação de seus agentes e funcionários. Multas e absolvições. Embaraço à Fiscalização da CVM, tendo em vista o não atendimento de intimação para prestação de esclarecimentos. Multa. | cvm/pas/2008/01-2005.md |
 
 ## lei-11105
 

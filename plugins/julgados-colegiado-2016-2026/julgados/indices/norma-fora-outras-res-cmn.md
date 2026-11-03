@@ -24,6 +24,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008889/2020-54 | 2021-05-04 | — | infraestrutura-mercado | Pedido da SL Tools de autorização para prestar serviço de empréstimo de valores mobiliários (ICVM 441/2006), com dispensa de requisitos, por plataforma eletrônica de encontro de ofertas. SMI propõe autorização limitada ao provimento da plataforma, com obrigações de transparência e monitoramento. Resultado não consta. | cvm/colegiado/2021/col-20210504-d2156.md |
 
+## res-cmn-39
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/13261 | 2016-06-28 | — | ofertas-publicas | Consulta do Banco Itaú BBA S.A. e outro, tratada em conjunto com consultas da ANBIMA e da BM&FBOVESPA, sobre lote suplementar e estabilização de preço em ofertas com esforços restritos (Instrução CVM 476/2009). Voto do relator admite o lote suplementar, não admite exclusão de prioridade dos acionistas quanto à parte usada na estabilização e não admite estabilização sem norma específica. | cvm/colegiado/2016/col-20160628-d9828.md |
+
 ## res-cmn-394
 
 ### Citada sem dispositivo identificado
@@ -434,6 +442,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 244/1998; RJ2015/12035 | 2016-02-11 | deferido | administracao-carteiras | Pedido de credenciamento do IRB Brasil Resseguros S.A. como administrador de carteiras, com base na dispensa da Deliberação CVM 244/1998 concedida a seguradoras. PFE/CVM entendeu aplicável às resseguradoras, por submissão ao mesmo regime. Colegiado acatou o pedido e determinou à SDM avaliar alteração da Deliberação 244. | cvm/colegiado/2016/col-20160211-d0075.md |
+
+## res-cmn-3689
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | intermediacao | Consulta da SMI sobre oferta, no Brasil, de serviços de intermediação de valores mobiliários prestados no exterior por instituição estrangeira em parceria com intermediário nacional. Colegiado considerou não haver óbice nas normas vigentes e aprovou critérios mínimos para a parceria. | cvm/colegiado/2021/col-20210223-d1583.md |
 
 ## res-cmn-3694
 

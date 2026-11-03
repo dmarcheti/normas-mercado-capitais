@@ -60,18 +60,23 @@ def achar_cpfs(texto):
 # RG: rótulo + número (com dígitos) + órgão expedidor opcional. "RG:" sem número não dispara.
 _RG = re.compile(
     r"(?:\bR\.?\s?G\.?(?=[\s:nN/])|\b[Ii]dentidade(?=\s*(?:n|:))|\b[Cc]arteira\s+de\s+[Ii]dentidade(?:\s+[Pp]rofissional)?|"
-    r"\b[Cc][ée]dula\s+de\s+[Ii]dentidade|\bdocumento\s+de\s+identidade)"
-    r"(?:\s*/\s*[A-Z]{2,}){0,3}\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:n\.?\s?[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
+    r"\b[Cc][ée]dula\s+de\s+[Ii]dentidade|\bdocumento\s+de\s+identidade|"
+    # "portador da C.I n.º" (carteira de identidade; "C.I." sozinha é comunicação interna)
+    r"\bportador[ae]?\s+d[ao]\s+C\.\s?I\b\.?|\bRNE\b)"
+    r"(?:\s+(?:RNE|RG|R\.G\.)(?![\w]))?"
+    r"(?:\s*/\s*[A-Z]{2,}){0,3}\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:[nN]\.?\s?[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
     # o número (com ruído de OCR e órgão emissor) vai até a vírgula, o ponto e vírgula, o " e " ou
     # o "inscrito"/"expedida" seguinte; precisa de 4 dígitos para contar
-    r"(\d[^,;\n()]{2,38}?(?=\s*(?:[,;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
+    r"((?:\d|[A-Z]\d|(?:RNE-?)?[A-Z]{1,2}-\d)[^,;\n()]{2,38}?(?=\s*(?:[,;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
     r"(?:\s*,?\s*(?:expedid[ao]|emitid[ao])\s+pel[ao]\s+[A-ZÀ-Ýa-z/\-. ]{2,30}?(?=[,;)\n]|\s+e\s|$))?)")
 
 
 def achar_rgs(texto):
     spans = []
     for m in _RG.finditer(texto):
-        if len(re.findall(r"\d", m.group(1))) >= 4:
+        # 3 dígitos bastam com rótulo de identidade (número curto emitido por conselho profissional)
+        minimo = 3 if re.search(r"dentidade", m.group(0)) else 4
+        if len(re.findall(r"\d", m.group(1))) >= minimo:
             spans.append(m.span(1))
     return _unir(spans)
 
@@ -119,12 +124,21 @@ _ABREV = {"av", "r", "al", "pça", "pç", "praça", "rod", "est", "estr", "cj", 
           "apt", "bl", "n", "nº", "s", "sta", "sto", "jd", "jardim", "vl", "pq", "lt", "qd", "sl",
           "cep", "gal", "eng", "prof", "des", "gov", "mal", "pres", "brig", "cel", "ten", "cap",
           "dr", "dra", "sr", "sra", "tv", "trav", "lgo", "sh", "shis", "qi", "ql", "km", "cond",
-          "edif", "ed", "res", "loja", "sala", "andar", "nr", "num", "dep", "fl"}
+          "edif", "ed", "res", "loja", "sala", "andar", "nr", "num", "dep", "fl", "st"}
+_NOME_CAIXA_ALTA = r"(?-i:[A-ZÀ-Ý][A-ZÀ-Ý'\-]+(?:\s+(?:[A-ZÀ-Ý][A-ZÀ-Ý'\-.]*|DA|DE|DO|DOS|DAS|E)){1,8})"
 _FIM_END = re.compile(
     # parêntese no meio do endereço ("na Cidade de São Paulo (SP), na Rua A") não encerra
     r";|\n\s*\n|\)(?!\s*,?\s*(?:na|no|em|à)\s+" + _LOGRADOURO + r")|"
     r",?\s+e\s+(?:o|a|os|as)\s+(?:Sr|Sra|Srs|senhor|senhora)\b|"
-    r",\s*(?=(?:portador|inscrit|neste\s+ato|doravante|denominad|aqui\s+representad|"
+    # o compromitente seguinte (", e FULANO DE TAL", "CEP 01000-000 e FULANO DE TAL")
+    r",?\s+e\s+(?=" + _NOME_CAIXA_ALTA + r"(?![\w]))|"
+    # outra parte qualificada logo depois (", FULANO DE TAL, brasileiro")
+    r",\s*(?=" + _NOME_CAIXA_ALTA + r"\s*,\s*(?:" + r"brasileir|estrangeir|portador|inscrit|pessoa\s+jur|"
+    r"com\s+sede|sociedade|empresa|institui[çc][ãa]o))|"
+    # o resto da frase: "tendo em vista a proposta", "doravante", "neste ato", "cujo beneficiário"
+    r",?\s+(?=tendo\s+em\s+vista\b|doravante\b|neste\s+ato\b|cuj[oa]s?\b)|"
+    r",\s*(?=(?:portador|inscrit|neste\s+ato|doravante|denominad|aqui\s+representad|todos\b|ambos\b|"
+    r"pessoa\s+jur|com\s+sede|"
     r"brasileir|nascid|filh[oa]\s+de|e-?mail|telefone|tel\.|fone|RG\b|R\.G\.|CPF|C\.P\.F|CIC\b|"
     r"carteira|c[ée]dula|documento\s+de\s+identidade|titular|na\s+qualidade|vem|v[êe]m|resolve|"
     r"celebra|firma|apresent|propo|requer|e\s+(?:o|a)\s))", re.I)
@@ -149,6 +163,10 @@ def _fim_endereco(texto, ini, maximo=320):
     return lim
 
 
+_LUGAR_GENERICO = re.compile(r"\s*(?:no|em)\s+(?:exterior|Brasil|pa[íi]s)\b(?!\s*,)", re.I)
+_MARCA_EMPRESA = re.compile(r"\bS\.\s?A\.|\bS/A\b|\bLtda\b|\b[Bb]anco\b|\bsede\b|\bPiso\s+[A-ZÀ-Ý]")
+
+
 def _enderecos(texto):
     spans = []
     for m in _END_GATILHO.finditer(texto):
@@ -158,6 +176,13 @@ def _enderecos(texto):
         if resto:
             fim = resto.end()
         trecho = texto[ini:fim]
+        # "entidade domiciliada no exterior cujo ...": lugar genérico, não endereço
+        if _LUGAR_GENERICO.match(trecho):
+            continue
+        # "com endereço na <sede da empresa>" (Piso Itaú Unibanco, S.A., Ltda): endereço comercial fica
+        if (re.match(r"com\s+endere[çc]o\s*$", m.group(0).strip(" :\"“”(\t\n"), re.I)
+                and _MARCA_EMPRESA.search(trecho)):
+            continue
         # endereço de pessoa jurídica ("com sede na") não dispara; aqui só o trecho com algo
         # de endereço (logradouro, número, cidade) é cortado.
         if re.search(r"\d|\b(?:rua|av|avenida|alameda|praça|estrada|rodovia|travessa|cidade|"
@@ -199,24 +224,67 @@ _DOC_SEG = (r"residente|domiciliad|portador|inscrit|com\s+endere|R\.?G\b|CPF|C\.
             r"c[ée]dula|documento\s+de\s+identidade|neste|doravante|nascid|filh|registrad")
 _QUALIF = re.compile(
     r"\b" + _NACIONALIDADE + r"\s*,\s*" + _ESTADO_CIVIL +
+    r"(?:\s+(?:judicialmente|consensualmente|de\s+fato))?"
     r"(?:\s+(?:sob\s+o\s+regime|em\s+regime|pelo\s+regime)[^,;\n]{0,80})?"
-    r"(?:\s*,\s*(?!" + _DOC_SEG + r")[^,;\d]{2,70}?(?=\s*[,;]|\s*$))?", re.I)
+    r"(?:\s*,\s*(?!\s*(?:" + _DOC_SEG + r"))[^,;\d]{2,70}?(?=\s*[,;]|\s*$))?", re.I)
 # Nacionalidade sem estado civil: só quando o que vem depois é documento ou endereço.
 _QUALIF2 = re.compile(
-    r"\b" + _NACIONALIDADE + r"(?:\s*,\s*(?!" + _DOC_SEG + r")[^,;\d]{2,70}?)?"
+    r"\b" + _NACIONALIDADE + r"(?:\s*,\s*(?!\s*(?:" + _DOC_SEG + r"))[^,;\d]{2,70}?){0,2}"
     r"(?=\s*,\s*(?:" + _DOC_SEG + r"))", re.I)
 _TESTEMUNHA_ASSIN = re.compile(
     r"(assinad[oa]\s+eletronicamente\s+por\s+)(\**)([^,\n*]{3,90}?)(\**\s*,\s*\**\s*Testemunha)",
     re.I)
-_TESTEMUNHAS_CAB = re.compile(r"^\s*\**\s*TESTEMUNHAS?\s*\**\s*:?\s*\**\s*$", re.I | re.M)
+# cabeçalho sozinho na linha, ou com resto curto depois dos dois-pontos ("Testemunhas: Fulano")
+_TESTEMUNHAS_CAB = re.compile(
+    r"^\s*\**\s*TESTEMUNHAS?\s*\**\s*(?::\s*\**\s*(?P<resto>[^\n]{0,40}?)|\**)\s*$", re.I | re.M)
+# cabeçalho no meio da linha, depois de ruído de OCR do carimbo ("PRIMEIRO Testemunhas:"): só
+# quando "Nome:" ou "CPF:" vem logo depois (bloco de assinatura, não "provar com testemunhas:")
+_TESTEMUNHAS_CAB_MEIO = re.compile(
+    r"^[^\n]{1,40}?\bTESTEMUNHAS\s*:\s*(?P<resto>[^\n]{0,40}?)\s*$", re.I | re.M)
+_ASSIN_CAMPO = re.compile(r"\b(?:Nome|CPF)\s*:")
+
+
+def _testemunhas_cabecalhos(texto):
+    cabs = list(_TESTEMUNHAS_CAB.finditer(texto))
+    cabs += [m for m in _TESTEMUNHAS_CAB_MEIO.finditer(texto)
+             if _ASSIN_CAMPO.search(texto, m.end(), m.end() + 200)]
+    return cabs
+
+
+# carimbo de cartório e campos de assinatura: ficam no bloco (trazem nome de testemunha e signatário)
+_CARIMBO = re.compile(
+    r"cart[óo]ri|tabeli|reconhe[çc]|semelhan[çc]|dou\s*f[ée]|verdade|escreven|selo|emol|firma|"
+    r"notar|autentic|consulte|fundos|total\s*:?\s*r\$|\b(?:nome|cpf|rg)\b|_{3,}", re.I)
+# linha com cara de nome: só letras (ou o marcador), começa em maiúscula, até 8 palavras
+_LINHA_NOME = re.compile(r"^(?:\[dado pessoal retirado\]|[A-ZÀ-Ý][^\d,;:()]*)$")
+
+
+def _linha_do_bloco(s, seguintes):
+    """Linha que continua o bloco de testemunhas: nome, campo de assinatura ou carimbo; ruído
+    de OCR só quando um carimbo vem nas 3 linhas seguintes (tabela ou lista retomada depois
+    do bloco, ou fala de depoimento, encerram o bloco)."""
+    if _CARIMBO.search(s):
+        return True
+    if _LINHA_NOME.match(s) and len(s.split()) <= 8:
+        return True
+    return any(_CARIMBO.search(x) for x in seguintes[:3])
 
 
 def _testemunhas_bloco(texto):
-    """Linhas curtas depois de um cabeçalho "TESTEMUNHAS:" (nome, CPF, traço de assinatura)."""
+    """Linhas curtas depois de um cabeçalho "TESTEMUNHAS:" (nome, CPF, traço de assinatura).
+
+    Cabeçalho no singular com texto na mesma linha ("Testemunha: Fulano") é rótulo de fala em
+    depoimento: sai só o resto da linha, sem estender o bloco."""
     spans = []
-    for m in _TESTEMUNHAS_CAB.finditer(texto):
+    for m in _testemunhas_cabecalhos(texto):
         pos, ini, fim, vazias, n = m.end(), None, None, 0, 0
-        for lm in re.finditer(r"[^\n]*(?:\n|$)", texto[pos:]):
+        if m.group("resto"):
+            ini, fim = m.span("resto")
+            if not re.search(r"TESTEMUNHAS", m.group(0), re.I):
+                spans.append((ini, fim))
+                continue
+        linhas = list(re.finditer(r"[^\n]*(?:\n|$)", texto[pos:pos + 4000]))
+        for i, lm in enumerate(linhas):
             linha = lm.group(0)
             if not linha:
                 break
@@ -227,6 +295,9 @@ def _testemunhas_bloco(texto):
                     break
                 continue
             if len(s) > 90 or s.startswith("#") or n >= 10:
+                break
+            seguintes = [x.group(0).strip() for x in linhas[i + 1:i + 8] if x.group(0).strip()]
+            if not _linha_do_bloco(s, seguintes):
                 break
             vazias = 0
             n += 1

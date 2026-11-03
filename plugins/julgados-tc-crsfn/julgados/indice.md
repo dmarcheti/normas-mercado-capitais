@@ -42,9 +42,9 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 | Termos de compromisso | 1999 | 1 | [indices/termo-compromisso-1999.md](indices/termo-compromisso-1999.md) |
 | Termos de compromisso | 1998 | 3 | [indices/termo-compromisso-1998.md](indices/termo-compromisso-1998.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2026 | 21 | [indices/acordao-crsfn-2026.md](indices/acordao-crsfn-2026.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2025 | 51 | [indices/acordao-crsfn-2025.md](indices/acordao-crsfn-2025.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2025 | 48 | [indices/acordao-crsfn-2025.md](indices/acordao-crsfn-2025.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2024 | 59 | [indices/acordao-crsfn-2024.md](indices/acordao-crsfn-2024.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2023 | 72 | [indices/acordao-crsfn-2023.md](indices/acordao-crsfn-2023.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2023 | 71 | [indices/acordao-crsfn-2023.md](indices/acordao-crsfn-2023.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2022 | 69 | [indices/acordao-crsfn-2022.md](indices/acordao-crsfn-2022.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2021 | 40 | [indices/acordao-crsfn-2021.md](indices/acordao-crsfn-2021.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2020 | 60 | [indices/acordao-crsfn-2020.md](indices/acordao-crsfn-2020.md) |
@@ -55,25 +55,25 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2015 | 37 | [indices/acordao-crsfn-2015.md](indices/acordao-crsfn-2015.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2014 | 57 | [indices/acordao-crsfn-2014.md](indices/acordao-crsfn-2014.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2013 | 38 | [indices/acordao-crsfn-2013.md](indices/acordao-crsfn-2013.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2012 | 41 | [indices/acordao-crsfn-2012.md](indices/acordao-crsfn-2012.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2012 | 40 | [indices/acordao-crsfn-2012.md](indices/acordao-crsfn-2012.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2011 | 31 | [indices/acordao-crsfn-2011.md](indices/acordao-crsfn-2011.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2010 | 81 | [indices/acordao-crsfn-2010.md](indices/acordao-crsfn-2010.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2009 | 58 | [indices/acordao-crsfn-2009.md](indices/acordao-crsfn-2009.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2009 | 56 | [indices/acordao-crsfn-2009.md](indices/acordao-crsfn-2009.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2008 | 54 | [indices/acordao-crsfn-2008.md](indices/acordao-crsfn-2008.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2007 | 16 | [indices/acordao-crsfn-2007.md](indices/acordao-crsfn-2007.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2006 | 13 | [indices/acordao-crsfn-2006.md](indices/acordao-crsfn-2006.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2005 | 21 | [indices/acordao-crsfn-2005.md](indices/acordao-crsfn-2005.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 2005 | 19 | [indices/acordao-crsfn-2005.md](indices/acordao-crsfn-2005.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2004 | 33 | [indices/acordao-crsfn-2004.md](indices/acordao-crsfn-2004.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2003 | 26 | [indices/acordao-crsfn-2003.md](indices/acordao-crsfn-2003.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2002 | 30 | [indices/acordao-crsfn-2002.md](indices/acordao-crsfn-2002.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2001 | 21 | [indices/acordao-crsfn-2001.md](indices/acordao-crsfn-2001.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 2000 | 74 | [indices/acordao-crsfn-2000.md](indices/acordao-crsfn-2000.md) |
-| Acórdãos do CRSFN (recursos contra decisões da CVM) | 1999 | 44 | [indices/acordao-crsfn-1999.md](indices/acordao-crsfn-1999.md) |
+| Acórdãos do CRSFN (recursos contra decisões da CVM) | 1999 | 43 | [indices/acordao-crsfn-1999.md](indices/acordao-crsfn-1999.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 1998 | 38 | [indices/acordao-crsfn-1998.md](indices/acordao-crsfn-1998.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 1997 | 16 | [indices/acordao-crsfn-1997.md](indices/acordao-crsfn-1997.md) |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | 1996 | 22 | [indices/acordao-crsfn-1996.md](indices/acordao-crsfn-1996.md) |
 
-Total: Termos de compromisso, 1714; Acórdãos do CRSFN (recursos contra decisões da CVM), 1342.
+Total: Termos de compromisso, 1714; Acórdãos do CRSFN (recursos contra decisões da CVM), 1332.
 
 ## Por tema
 
@@ -82,20 +82,20 @@ Total: Termos de compromisso, 1714; Acórdãos do CRSFN (recursos contra decisõ
 | administracao-carteiras | 89 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
 | analistas-rating | 26 | [indices/tema-analistas-rating.md](indices/tema-analistas-rating.md) |
 | assembleia-acionistas | 101 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
-| auditoria-independente | 236 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
+| auditoria-independente | 234 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
 | contabil-demonstracoes | 71 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
-| criptoativos | 7 | [indices/tema-criptoativos.md](indices/tema-criptoativos.md) |
+| criptoativos | 6 | [indices/tema-criptoativos.md](indices/tema-criptoativos.md) |
 | deveres-administradores | 312 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
-| divulgacao-informacoes | 667 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
+| divulgacao-informacoes | 665 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
 | exercicio-irregular | 112 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
-| fundos-investimento | 241 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
+| fundos-investimento | 238 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
 | informacao-privilegiada | 273 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
 | infraestrutura-mercado | 13 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
 | intermediacao | 155 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
 | manipulacao-fraude | 375 | [indices/tema-manipulacao-fraude.md](indices/tema-manipulacao-fraude.md) |
 | multa-cominatoria-taxa | 3 | [indices/tema-multa-cominatoria-taxa.md](indices/tema-multa-cominatoria-taxa.md) |
 | normativo | 7 | [indices/tema-normativo.md](indices/tema-normativo.md) |
-| ofertas-publicas | 164 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
+| ofertas-publicas | 162 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
 | opa | 14 | [indices/tema-opa.md](indices/tema-opa.md) |
 | outros | 50 | [indices/tema-outros.md](indices/tema-outros.md) |
 | pld | 23 | [indices/tema-pld.md](indices/tema-pld.md) |
@@ -113,7 +113,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Resolução CMN nº 2.907/2001 | 1 | [indices/norma-cmn-res-2907.md](indices/norma-cmn-res-2907.md) |
 | Resolução CMN nº 3.505/2007 | 1 | [indices/norma-cmn-res-3505.md](indices/norma-cmn-res-3505.md) |
 | Instrução CVM nº 438/2006 | 10 | [indices/norma-cvm-instr-438.md](indices/norma-cvm-instr-438.md) |
-| Instrução CVM nº 489/2011 | 2 | [indices/norma-cvm-instr-489.md](indices/norma-cvm-instr-489.md) |
+| Instrução CVM nº 489/2011 | 1 | [indices/norma-cvm-instr-489.md](indices/norma-cvm-instr-489.md) |
 | Instrução CVM nº 516/2011 | 9 | [indices/norma-cvm-instr-516.md](indices/norma-cvm-instr-516.md) |
 | Instrução CVM nº 579/2016 | 5 | [indices/norma-cvm-instr-579.md](indices/norma-cvm-instr-579.md) |
 | Parecer de Orientação CVM nº 1/1978 | 9 | [indices/norma-cvm-po-1.md](indices/norma-cvm-po-1.md) |
@@ -129,15 +129,12 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Parecer de Orientação CVM nº 35/2008 | 7 | [indices/norma-cvm-po-35.md](indices/norma-cvm-po-35.md) |
 | Parecer de Orientação CVM nº 37/2011 | 1 | [indices/norma-cvm-po-37.md](indices/norma-cvm-po-37.md) |
 | Parecer de Orientação CVM nº 38/2018 | 1 | [indices/norma-cvm-po-38.md](indices/norma-cvm-po-38.md) |
-| Parecer de Orientação CVM nº 4/1979 | 1 | [indices/norma-cvm-po-4.md](indices/norma-cvm-po-4.md) |
 | Parecer de Orientação CVM nº 40/2022 | 3 | [indices/norma-cvm-po-40.md](indices/norma-cvm-po-40.md) |
 | Parecer de Orientação CVM nº 5/1979 | 2 | [indices/norma-cvm-po-5.md](indices/norma-cvm-po-5.md) |
 | Parecer de Orientação CVM nº 6/1980 | 1 | [indices/norma-cvm-po-6.md](indices/norma-cvm-po-6.md) |
 | Resolução CVM nº 1/2020 | 5 | [indices/norma-cvm-res-1.md](indices/norma-cvm-res-1.md) |
 | Resolução CVM nº 10/2020 | 3 | [indices/norma-cvm-res-10.md](indices/norma-cvm-res-10.md) |
 | Resolução CVM nº 101/2022 | 1 | [indices/norma-cvm-res-101.md](indices/norma-cvm-res-101.md) |
-| Resolução CVM nº 115/2022 | 1 | [indices/norma-cvm-res-115.md](indices/norma-cvm-res-115.md) |
-| Resolução CVM nº 129/2022 | 1 | [indices/norma-cvm-res-129.md](indices/norma-cvm-res-129.md) |
 | Resolução CVM nº 135/2022 | 7 | [indices/norma-cvm-res-135.md](indices/norma-cvm-res-135.md) |
 | Resolução CVM nº 160/2022 | 5 | [indices/norma-cvm-res-160.md](indices/norma-cvm-res-160.md) |
 | Resolução CVM nº 172/2022 | 2 | [indices/norma-cvm-res-172.md](indices/norma-cvm-res-172.md) |
@@ -145,29 +142,25 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Resolução CVM nº 178/2023 | 4 | [indices/norma-cvm-res-178.md](indices/norma-cvm-res-178.md) |
 | Resolução CVM nº 21/2021 | 26 | [indices/norma-cvm-res-21.md](indices/norma-cvm-res-21.md) |
 | Resolução CVM nº 23/2021 | 21 | [indices/norma-cvm-res-23.md](indices/norma-cvm-res-23.md) |
-| Resolução CVM nº 238/2025 | 7 | [indices/norma-cvm-res-238.md](indices/norma-cvm-res-238.md) |
+| Resolução CVM nº 238/2025 | 2 | [indices/norma-cvm-res-238.md](indices/norma-cvm-res-238.md) |
 | Resolução CVM nº 24/2021 | 23 | [indices/norma-cvm-res-24.md](indices/norma-cvm-res-24.md) |
-| Resolução CVM nº 242/2026 | 1 | [indices/norma-cvm-res-242.md](indices/norma-cvm-res-242.md) |
 | Resolução CVM nº 25/2021 | 1 | [indices/norma-cvm-res-25.md](indices/norma-cvm-res-25.md) |
-| Resolução CVM nº 28/2021 | 1 | [indices/norma-cvm-res-28.md](indices/norma-cvm-res-28.md) |
 | Resolução CVM nº 32/2021 | 2 | [indices/norma-cvm-res-32.md](indices/norma-cvm-res-32.md) |
 | Resolução CVM nº 33/2021 | 1 | [indices/norma-cvm-res-33.md](indices/norma-cvm-res-33.md) |
 | Resolução CVM nº 34/2021 | 1 | [indices/norma-cvm-res-34.md](indices/norma-cvm-res-34.md) |
 | Resolução CVM nº 35/2021 | 5 | [indices/norma-cvm-res-35.md](indices/norma-cvm-res-35.md) |
 | Resolução CVM nº 44/2021 | 115 | [indices/norma-cvm-res-44.md](indices/norma-cvm-res-44.md) |
-| Resolução CVM nº 45/2021 | 413 | [indices/norma-cvm-res-45.md](indices/norma-cvm-res-45.md) |
+| Resolução CVM nº 45/2021 | 410 | [indices/norma-cvm-res-45.md](indices/norma-cvm-res-45.md) |
 | Resolução CVM nº 46/2021 | 9 | [indices/norma-cvm-res-46.md](indices/norma-cvm-res-46.md) |
 | Resolução CVM nº 47/2021 | 1 | [indices/norma-cvm-res-47.md](indices/norma-cvm-res-47.md) |
 | Resolução CVM nº 48/2021 | 1 | [indices/norma-cvm-res-48.md](indices/norma-cvm-res-48.md) |
-| Resolução CVM nº 50/2021 | 2 | [indices/norma-cvm-res-50.md](indices/norma-cvm-res-50.md) |
+| Resolução CVM nº 50/2021 | 1 | [indices/norma-cvm-res-50.md](indices/norma-cvm-res-50.md) |
 | Resolução CVM nº 55/2021 | 1 | [indices/norma-cvm-res-55.md](indices/norma-cvm-res-55.md) |
-| Resolução CVM nº 6/2020 | 1 | [indices/norma-cvm-res-6.md](indices/norma-cvm-res-6.md) |
 | Resolução CVM nº 60/2021 | 1 | [indices/norma-cvm-res-60.md](indices/norma-cvm-res-60.md) |
 | Resolução CVM nº 62/2022 | 55 | [indices/norma-cvm-res-62.md](indices/norma-cvm-res-62.md) |
 | Resolução CVM nº 67/2022 | 1 | [indices/norma-cvm-res-67.md](indices/norma-cvm-res-67.md) |
 | Resolução CVM nº 70/2022 | 1 | [indices/norma-cvm-res-70.md](indices/norma-cvm-res-70.md) |
 | Resolução CVM nº 77/2022 | 1 | [indices/norma-cvm-res-77.md](indices/norma-cvm-res-77.md) |
-| Resolução CVM nº 8/2020 | 3 | [indices/norma-cvm-res-8.md](indices/norma-cvm-res-8.md) |
 | Resolução CVM nº 80/2022 | 41 | [indices/norma-cvm-res-80.md](indices/norma-cvm-res-80.md) |
 | Resolução CVM nº 81/2022 | 7 | [indices/norma-cvm-res-81.md](indices/norma-cvm-res-81.md) |
 | Resolução CVM nº 84/2022 | 1 | [indices/norma-cvm-res-84.md](indices/norma-cvm-res-84.md) |
@@ -176,15 +169,15 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Resolução CVM nº 9/2020 | 2 | [indices/norma-cvm-res-9.md](indices/norma-cvm-res-9.md) |
 | Resolução CVM nº 90/2022 | 1 | [indices/norma-cvm-res-90.md](indices/norma-cvm-res-90.md) |
 | Lei nº 10.198/2001 | 10 | [indices/norma-lei-10198.md](indices/norma-lei-10198.md) |
-| Lei nº 10.406/2002 | 135 | [indices/norma-lei-10406.md](indices/norma-lei-10406.md) |
+| Lei nº 10.406/2002 | 134 | [indices/norma-lei-10406.md](indices/norma-lei-10406.md) |
 | Lei nº 10.931/2004 | 5 | [indices/norma-lei-10931.md](indices/norma-lei-10931.md) |
 | Lei nº 11.101/2005 | 29 | [indices/norma-lei-11101.md](indices/norma-lei-11101.md) |
 | Lei nº 12.431/2011 | 1 | [indices/norma-lei-12431.md](indices/norma-lei-12431.md) |
-| Lei nº 13.506/2017 | 411 | [indices/norma-lei-13506.md](indices/norma-lei-13506.md) |
-| Lei nº 4.595/1964 | 19 | [indices/norma-lei-4595.md](indices/norma-lei-4595.md) |
+| Lei nº 13.506/2017 | 408 | [indices/norma-lei-13506.md](indices/norma-lei-13506.md) |
+| Lei nº 4.595/1964 | 18 | [indices/norma-lei-4595.md](indices/norma-lei-4595.md) |
 | Lei nº 4.728/1965 | 6 | [indices/norma-lei-4728.md](indices/norma-lei-4728.md) |
-| Lei nº 6.385/1976 | 2456 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
-| Lei nº 6.404/1976 | 1207 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
+| Lei nº 6.385/1976 | 2452 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
+| Lei nº 6.404/1976 | 1208 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
 | Lei nº 7.913/1989 | 3 | [indices/norma-lei-7913.md](indices/norma-lei-7913.md) |
 | Lei nº 8.668/1993 | 4 | [indices/norma-lei-8668.md](indices/norma-lei-8668.md) |
 | Lei nº 8.929/1994 | 2 | [indices/norma-lei-8929.md](indices/norma-lei-8929.md) |
@@ -211,11 +204,11 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | circular-bcb-2594 | 5 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2601 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2615 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2616 | 40 | [indices/norma-fora-circular-bcb-2616.md](indices/norma-fora-circular-bcb-2616.md) |
+| circular-bcb-2616 | 39 | [indices/norma-fora-circular-bcb-2616.md](indices/norma-fora-circular-bcb-2616.md) |
 | circular-bcb-2626 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2635 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2654 | 10 | [indices/norma-fora-circular-bcb-2654.md](indices/norma-fora-circular-bcb-2654.md) |
-| circular-bcb-2688 | 2 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
+| circular-bcb-2688 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2737 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2786 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
 | circular-bcb-2929 | 2 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
@@ -247,7 +240,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | decreto-177 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
 | decreto-17981 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
 | decreto-1832 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1935 | 169 | [indices/norma-fora-decreto-1935.md](indices/norma-fora-decreto-1935.md) |
+| decreto-1935 | 168 | [indices/norma-fora-decreto-1935.md](indices/norma-fora-decreto-1935.md) |
 | decreto-19398 | 2 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
 | decreto-20910 | 10 | [indices/norma-fora-decreto-20910.md](indices/norma-fora-decreto-20910.md) |
 | decreto-22626 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
@@ -302,7 +295,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | decreto-lei-201 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
 | decreto-lei-2229 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
 | decreto-lei-2286 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2298 | 5 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
+| decreto-lei-2298 | 4 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
 | decreto-lei-2627 | 3 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
 | decreto-lei-2848 | 6 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
 | decreto-lei-3688 | 3 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
@@ -364,7 +357,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | deliberacao-cvm-383 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-387 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-39 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-390 | 1200 | [indices/norma-fora-deliberacao-cvm-390.md](indices/norma-fora-deliberacao-cvm-390.md) |
+| deliberacao-cvm-390 | 1199 | [indices/norma-fora-deliberacao-cvm-390.md](indices/norma-fora-deliberacao-cvm-390.md) |
 | deliberacao-cvm-39010 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-390101 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-3908 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
@@ -409,7 +402,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | deliberacao-cvm-538108 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-53812008 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-539 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-542 | 10 | [indices/norma-fora-deliberacao-cvm-542.md](indices/norma-fora-deliberacao-cvm-542.md) |
+| deliberacao-cvm-542 | 9 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-544 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-549 | 9 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-550 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
@@ -465,7 +458,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | deliberacao-cvm-7 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-70 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-704 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-712 | 5 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
+| deliberacao-cvm-712 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-716 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-723 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-724 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
@@ -492,7 +485,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | deliberacao-cvm-815 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-826 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-830 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-831 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
+| deliberacao-cvm-831 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-832 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-834 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
 | deliberacao-cvm-845 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
@@ -523,13 +516,13 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-20 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-200 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-201 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-202 | 259 | [indices/norma-fora-icvm-202.md](indices/norma-fora-icvm-202.md) |
+| icvm-202 | 258 | [indices/norma-fora-icvm-202.md](indices/norma-fora-icvm-202.md) |
 | icvm-205 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-206 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-207 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-209 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-215 | 23 | [indices/norma-fora-icvm-215.md](indices/norma-fora-icvm-215.md) |
-| icvm-216 | 28 | [indices/norma-fora-icvm-216.md](indices/norma-fora-icvm-216.md) |
+| icvm-216 | 26 | [indices/norma-fora-icvm-216.md](indices/norma-fora-icvm-216.md) |
 | icvm-220 | 81 | [indices/norma-fora-icvm-220.md](indices/norma-fora-icvm-220.md) |
 | icvm-223 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-224 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
@@ -568,11 +561,11 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-3 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-30 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-301 | 42 | [indices/norma-fora-icvm-301.md](indices/norma-fora-icvm-301.md) |
-| icvm-302 | 52 | [indices/norma-fora-icvm-302.md](indices/norma-fora-icvm-302.md) |
+| icvm-302 | 51 | [indices/norma-fora-icvm-302.md](indices/norma-fora-icvm-302.md) |
 | icvm-303 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-304 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-305 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-306 | 214 | [indices/norma-fora-icvm-306.md](indices/norma-fora-icvm-306.md) |
+| icvm-306 | 213 | [indices/norma-fora-icvm-306.md](indices/norma-fora-icvm-306.md) |
 | icvm-308 | 233 | [indices/norma-fora-icvm-308.md](indices/norma-fora-icvm-308.md) |
 | icvm-309 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-31 | 45 | [indices/norma-fora-icvm-31.md](indices/norma-fora-icvm-31.md) |
@@ -598,7 +591,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-350 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-352 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-355 | 45 | [indices/norma-fora-icvm-355.md](indices/norma-fora-icvm-355.md) |
-| icvm-356 | 58 | [indices/norma-fora-icvm-356.md](indices/norma-fora-icvm-356.md) |
+| icvm-356 | 57 | [indices/norma-fora-icvm-356.md](indices/norma-fora-icvm-356.md) |
 | icvm-358 | 609 | [indices/norma-fora-icvm-358.md](indices/norma-fora-icvm-358.md) |
 | icvm-359 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-361 | 47 | [indices/norma-fora-icvm-361.md](indices/norma-fora-icvm-361.md) |
@@ -626,12 +619,12 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-394 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-4 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-40 | 28 | [indices/norma-fora-icvm-40.md](indices/norma-fora-icvm-40.md) |
-| icvm-400 | 170 | [indices/norma-fora-icvm-400.md](indices/norma-fora-icvm-400.md) |
+| icvm-400 | 167 | [indices/norma-fora-icvm-400.md](indices/norma-fora-icvm-400.md) |
 | icvm-402 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-404 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-405 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-408 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-409 | 204 | [indices/norma-fora-icvm-409.md](indices/norma-fora-icvm-409.md) |
+| icvm-409 | 202 | [indices/norma-fora-icvm-409.md](indices/norma-fora-icvm-409.md) |
 | icvm-411 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-412 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-414 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
@@ -667,6 +660,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-481 | 40 | [indices/norma-fora-icvm-481.md](indices/norma-fora-icvm-481.md) |
 | icvm-483 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-487 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
+| icvm-489-2005 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-490 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-491 | 26 | [indices/norma-fora-icvm-491.md](indices/norma-fora-icvm-491.md) |
 | icvm-494 | 11 | [indices/norma-fora-icvm-494.md](indices/norma-fora-icvm-494.md) |
@@ -682,7 +676,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-521 | 10 | [indices/norma-fora-icvm-521.md](indices/norma-fora-icvm-521.md) |
 | icvm-53 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-530 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-531 | 12 | [indices/norma-fora-icvm-531.md](indices/norma-fora-icvm-531.md) |
+| icvm-531 | 11 | [indices/norma-fora-icvm-531.md](indices/norma-fora-icvm-531.md) |
 | icvm-533 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-538 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-539 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
@@ -716,7 +710,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-670 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-69 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-697 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-8 | 484 | [indices/norma-fora-icvm-8.md](indices/norma-fora-icvm-8.md) |
+| icvm-8 | 483 | [indices/norma-fora-icvm-8.md](indices/norma-fora-icvm-8.md) |
 | icvm-82 | 32 | [indices/norma-fora-icvm-82.md](indices/norma-fora-icvm-82.md) |
 | icvm-85 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-88 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
@@ -766,7 +760,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-10177 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-10192 | 18 | [indices/norma-fora-lei-10192.md](indices/norma-fora-lei-10192.md) |
 | lei-10217 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10303 | 89 | [indices/norma-fora-lei-10303.md](indices/norma-fora-lei-10303.md) |
+| lei-10303 | 88 | [indices/norma-fora-lei-10303.md](indices/norma-fora-lei-10303.md) |
 | lei-10313 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-10352 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-10411 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -807,13 +801,13 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-12783 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-12813 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-12838 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-12846 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-12846 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-12850 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-12865 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-1290 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-12996 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-13043 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-13105 | 316 | [indices/norma-fora-lei-13105.md](indices/norma-fora-lei-13105.md) |
+| lei-13105 | 315 | [indices/norma-fora-lei-13105.md](indices/norma-fora-lei-13105.md) |
 | lei-13303 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-13494 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-13505 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -821,8 +815,8 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-13665 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-13848 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-13869 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-13874 | 17 | [indices/norma-fora-lei-13874.md](indices/norma-fora-lei-13874.md) |
-| lei-13979 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-13874 | 16 | [indices/norma-fora-lei-13874.md](indices/norma-fora-lei-13874.md) |
+| lei-13979 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14133 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14195 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14230 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -851,6 +845,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-4404 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-4505 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-4591 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-4595-1976 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-4680 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-4717 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-4737 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -862,7 +857,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-5474 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-5869 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-59 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6 | 76 | [indices/norma-fora-lei-6.md](indices/norma-fora-lei-6.md) |
+| lei-6 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6015 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6024 | 24 | [indices/norma-fora-lei-6024.md](indices/norma-fora-lei-6024.md) |
 | lei-6105 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -873,10 +868,25 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-6382 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6383 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6384 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1964 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1971 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1974 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1979 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1986 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-1999 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-2007 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-2011 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6385-2019 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6386 | 12 | [indices/norma-fora-lei-6386.md](indices/norma-fora-lei-6386.md) |
 | lei-6387 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6389 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6395 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-1946 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-1964 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-1974 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-1978 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-1979 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6404-2016 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-640476 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6406 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6435 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -888,7 +898,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-6813 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6830 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-6835 | 12 | [indices/norma-fora-lei-6835.md](indices/norma-fora-lei-6835.md) |
-| lei-6838 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-6838 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-689 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-7 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-7209 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -905,7 +915,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-8069 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8072 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8078 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8112 | 12 | [indices/norma-fora-lei-8112.md](indices/norma-fora-lei-8112.md) |
+| lei-8112 | 11 | [indices/norma-fora-lei-8112.md](indices/norma-fora-lei-8112.md) |
 | lei-8117 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8137 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8167 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -920,13 +930,15 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-8383 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8429 | 10 | [indices/norma-fora-lei-8429.md](indices/norma-fora-lei-8429.md) |
 | lei-8630 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8666 | 9 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-8666 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8685 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8742 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8873 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8884 | 12 | [indices/norma-fora-lei-8884.md](indices/norma-fora-lei-8884.md) |
 | lei-8906 | 9 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-8929-1997 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8934 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
+| lei-8935 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8951 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-8987 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -945,7 +957,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-9427 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9430 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9447 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9457 | 112 | [indices/norma-fora-lei-9457.md](indices/norma-fora-lei-9457.md) |
+| lei-9457 | 110 | [indices/norma-fora-lei-9457.md](indices/norma-fora-lei-9457.md) |
 | lei-9472 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9475 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9477 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -969,7 +981,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-9841 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9868 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9872 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9873 | 369 | [indices/norma-fora-lei-9873.md](indices/norma-fora-lei-9873.md) |
+| lei-9873 | 365 | [indices/norma-fora-lei-9873.md](indices/norma-fora-lei-9873.md) |
 | lei-9874 | 49 | [indices/norma-fora-lei-9874.md](indices/norma-fora-lei-9874.md) |
 | lei-9964 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-9973 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
@@ -1005,6 +1017,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | mp-8 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
 | mp-928 | 27 | [indices/norma-fora-mp-928.md](indices/norma-fora-mp-928.md) |
 | mp-931 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
+| po-cvm-4-2018 | 1 | [indices/norma-fora-outras-po-cvm.md](indices/norma-fora-outras-po-cvm.md) |
 | res-bcb-131 | 3 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
 | res-bcb-2682 | 2 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
 | res-bcb-2689 | 1 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
@@ -1024,7 +1037,8 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cmn-1231 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-1259 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-1282 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1289 | 11 | [indices/norma-fora-res-cmn-1289.md](indices/norma-fora-res-cmn-1289.md) |
+| res-cmn-1289 | 12 | [indices/norma-fora-res-cmn-1289.md](indices/norma-fora-res-cmn-1289.md) |
+| res-cmn-1298 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-1323 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-1377 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-1397 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
@@ -1059,7 +1073,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cmn-268 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-2682 | 13 | [indices/norma-fora-res-cmn-2682.md](indices/norma-fora-res-cmn-2682.md) |
 | res-cmn-2688 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2689 | 23 | [indices/norma-fora-res-cmn-2689.md](indices/norma-fora-res-cmn-2689.md) |
+| res-cmn-2689 | 24 | [indices/norma-fora-res-cmn-2689.md](indices/norma-fora-res-cmn-2689.md) |
 | res-cmn-2690 | 12 | [indices/norma-fora-res-cmn-2690.md](indices/norma-fora-res-cmn-2690.md) |
 | res-cmn-2691 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-2774 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
@@ -1095,7 +1109,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cmn-401 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-436 | 7 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-4373 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-454 | 31 | [indices/norma-fora-res-cmn-454.md](indices/norma-fora-res-cmn-454.md) |
+| res-cmn-454 | 36 | [indices/norma-fora-res-cmn-454.md](indices/norma-fora-res-cmn-454.md) |
 | res-cmn-457 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-4604 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-4661 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
@@ -1104,9 +1118,12 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cmn-4963 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-702 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-922 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
+| res-cmn-961 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cvm-0 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-1022 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-115-2010 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-1289 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-129-1979 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-16 | 6 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-1657 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-168 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
@@ -1114,9 +1131,13 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cvm-180 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-181 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-202 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-23-2012 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-238-1972 | 6 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-241 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-242-2001 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-26 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-2689 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-28-1983 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-303 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-306 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-320 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
@@ -1129,21 +1150,26 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cvm-427 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-436 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-441 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-454 | 10 | [indices/norma-fora-res-cvm-454.md](indices/norma-fora-res-cvm-454.md) |
+| res-cvm-45-2001 | 4 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-45-2019 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-454 | 6 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-481 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-5 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-50-1993 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-51 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-550 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-560 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-6-1999 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-607 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-66 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-700 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-750 | 4 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-752 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-8-1979 | 3 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| res-cvm-80-2020 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-820 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-830 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-836 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-910 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-922 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
 | res-cvm-953 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-961 | 3 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |

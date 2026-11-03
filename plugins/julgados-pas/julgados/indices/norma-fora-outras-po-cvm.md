@@ -8,6 +8,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## po-cvm-2-2015
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | RJ2015/12594 | 2016-12-06 | absolvicao | divulgacao-informacoes | Divulgação intempestiva de fato relevante. Absolvição. | cvm/pas/2016/rj2015-12594.md |
+
+## po-cvm-11-2008
+
+### art. 7º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 7º | pas | RJ2011/4517 | 2013-12-17 | parcial | administracao-carteiras | GRP Investimentos Ltda. Inobservância do dever de diligência. Absolvições, advertências e multas. | cvm/pas/2013/rj2011-4517.md |
+
 ## po-cvm-46
 
 ### Citada sem dispositivo identificado

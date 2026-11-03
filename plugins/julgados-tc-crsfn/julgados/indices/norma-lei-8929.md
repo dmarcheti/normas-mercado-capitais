@@ -20,8 +20,8 @@ Norma: [leis/lei-08929.md](../../../normas/normas/leis/lei-08929.md) (texto vige
 |---|---|---|---|---|---|---|---|
 | art. 4º-A | acordao-crsfn | RJ-2007-13207 | 2012-07-30 | condenacao | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Emissão pública - Oferta pública de distribuição de contrato de investimento coletivo sem prévio registro na autoridade supervisora e por entidade não habilitada - Irregularidades caracterizadas - Apelo voluntário a que se nega provimento. | crsfn/2012/12360.md |
 
-## art. 19
+## Citada sem dispositivo identificado
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19, § 1º | acordao-crsfn | 14/2008 | 2015-07-28 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de valores mobiliários sem registro na entidade supervisora - Irregularidade não caracterizada – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/13420.md |
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| acordao-crsfn | 14/2008 | 2015-07-28 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de valores mobiliários sem registro na entidade supervisora - Irregularidade não caracterizada – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/13420.md |

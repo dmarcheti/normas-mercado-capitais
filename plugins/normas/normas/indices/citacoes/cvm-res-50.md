@@ -16,7 +16,7 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 17 | Ofício Circular Conjunto CVM/SIN/SMI 01/22 | oficio-circular | 2022-01-31 | cvm/oficios-circulares/sin/occ-sin-smi-0122.md | de PLD/FTP da CVM, em especial o art. 17 da Resolução 50, de 31 de agosto de 2021 (“Resolução CVM 50/21”), pressupõe o compartilhamento de |
+| art. 17 | Ofício Circular Conjunto CVM/SIN/SMI 01/22 | oficio-circular | 2022-01-31 | cvm/oficios-circulares/sin/occ-sin-smi-0122.md | de PLD/FTP da CVM, em especial o art. 17 da Resolução 50, de 31 de agosto de 2021 (“Resolução CVM 50/21”), pressupõe o compartilhamento de informações – |
 
 ## art. 24
 

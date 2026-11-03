@@ -170,12 +170,23 @@ class ConverterTest(unittest.TestCase):
                           v["resultado"], v["relator"]),
                          ("Recurso contra multa; negado.", "extracao", "processual", "extracao",
                           "nao-provido", "SEP"))
-        # o que a conversão traz da fonte prevalece sobre o extraído
+        # a ementa que a conversão traz da fonte prevalece sobre a extraída; o resultado já
+        # gravado não (não tem _fonte; a reconversão não troca o extraído pelo do conversor)
         conv.gravar_julgado(dict(novo, ementa="Ementa publicada.", ementa_fonte="cvm",
                                  resultado="provido"), "# X\n", self.raiz)
         v, _ = je.ler_julgado(caminho)
         self.assertEqual((v["ementa"], v["ementa_fonte"], v["resultado"]),
-                         ("Ementa publicada.", "cvm", "provido"))
+                         ("Ementa publicada.", "cvm", "nao-provido"))
+
+    def test_reconversao_so_preenche_resultado_vazio(self):
+        novo = {c: "" for c in jc.CAMPOS}
+        novo.update(id="cvm-col-20250101-d2", orgao="cvm", tipo="decisao-colegiado",
+                    data="2025-01-01", ementa="RECURSO", ementa_fonte="titulo")
+        caminho = conv.gravar_julgado(dict(novo), "# X\n", self.raiz)
+        conv.gravar_julgado(dict(novo, resultado="indeferido"), "# X\n", self.raiz)
+        self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "indeferido")
+        conv.gravar_julgado(dict(novo, resultado="deferido"), "# X\n", self.raiz)
+        self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "indeferido")
 
     def test_colegiado_com_anexo_termo_sei_e_alheio(self):
         pagina = fixture("colegiado-item.html").replace(b"__CPF__", CPF.encode())
@@ -339,6 +350,22 @@ class ConverterTest(unittest.TestCase):
         with mock.patch.object(conv, "_pypdf_paginas", return_value=None):
             with self.assertRaises(pdf_macos.ErroPdfMacos):
                 conv.texto_pdf(caminho, SemMac({}))
+
+    def test_pdf_de_duas_paginas_sem_texto_manda_as_duas_ao_ocr(self):
+        # PDFKit devolve "\f" (2 páginas vazias): a última não pode sumir antes do OCR
+        caminho = os.path.join(self.raiz, "b.pdf")
+        pm = PdfFalso({"b.pdf": "\f"}, ocr={"b.pdf": "Página um lida por OCR.\fPágina dois lida por OCR."})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2):
+            pags, nivel, motor, _, n_ocr = conv.texto_pdf(caminho, pm)
+        self.assertEqual((motor, nivel, n_ocr, len(pags)), ("pdfkit", "ocr", 2, 2))
+        self.assertIn("Página dois", pags[1])
+
+    def test_elemento_vazio_alem_do_numero_de_paginas_sai(self):
+        caminho = os.path.join(self.raiz, "c.pdf")
+        pm = PdfFalso({"c.pdf": "Texto da única página do documento.\f"})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=1):
+            pags, nivel, _, _, n_ocr = conv.texto_pdf(caminho, pm)
+        self.assertEqual((len(pags), nivel, n_ocr, pm.ocr_chamado), (1, "pdf-extraido", 0, 0))
 
     def test_pas_da_noticia_com_extrato_do_sei(self):
         g = "https://www.gov.br/cvm/pt-br/assuntos/noticias"

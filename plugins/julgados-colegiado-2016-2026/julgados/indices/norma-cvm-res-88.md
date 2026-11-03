@@ -53,12 +53,6 @@ Norma: [cvm/resolucoes/0088.md](../../../normas/normas/cvm/resolucoes/0088.md) (
 |---|---|---|---|---|---|---|---|
 | art. 36, inciso VIII | decisao-colegiado | 19957.004968/2021-77 | 2023-08-01 | deferido | crowdfunding | Alteração da Deliberação 877/2021 (crowdfunding e balcão de startups) para prorrogar por um ano a autorização e substituir a administradora do mercado pela Estar S.A. Deferido. | cvm/colegiado/2023/col-20230801-d2393.md |
 
-## art. 51
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 51 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | registro-emissor | Recurso contra exigência da SEP de comprovação do art. 51 da RCVM 80/2022 como condição para analisar o cancelamento de registro de companhia aberta categoria B da XP Investimentos S.A., quanto a debêntures lastro de CRI sem negociação. Colegiado deu provimento e dispensou a comprovação. | cvm/colegiado/2025/col-20250916-d3313.md |
-
 ## art. 53
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

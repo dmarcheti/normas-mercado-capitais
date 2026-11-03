@@ -49,13 +49,45 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/5993 | 2014-01-28 | indeferido | registro-emissor | Recurso da Azul S.A. contra indeferimento pela SEP de registro inicial de companhia aberta: estatuto atribui às preferenciais vantagens de 75 vezes as das ordinárias, em conflito com o art. 15, §2º da Lei 6.404/76, segundo a SEP e a PFE. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
 
+## lei-6
+
+### art. 100
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 100, § 1º | decisao-colegiado | RJ2009/5356 | 2009-12-08 | outro | assembleia-acionistas | Resposta à consulta da AMEC sobre pedidos de lista de acionistas (art. 100, §1º, LSA). O pedido deve fundamentar o direito ou a situação de interesse pessoal; a lista integral só se impõe quando o direito violado é inerente à qualidade de acionista. | cvm/colegiado/2009/col-20091208-d24.md |
+
+### art. 115
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 115, § 1º | decisao-colegiado | RJ2012/1716 | 2012-02-16 | indeferido | assembleia-acionistas | Pedido de acionistas da Brasil Telecom S.A. para interromper o prazo de antecedência de convocação de AGE marcada para 27.02.12 (art. 3º da ICVM 372/02 e art. 124, §5º, II, da Lei 6.404/76), no contexto da reorganização do Grupo Oi. O Colegiado, por unanimidade, indefere e remete aos fundamentos das decisões sobre recesso (RJ2012/0249 e RJ2011/9011). | cvm/colegiado/2012/col-20120216-d12.md |
+
+### art. 154
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 154 | decisao-colegiado | RJ2011/5211 | 2013-12-17 | outro | deveres-administradores | Recapitulação legal de infrações em PAS contra membros do conselho de administração da Electro Aço Altona S.A. por fixação da remuneração da presidente do conselho em desacordo com o art. 152 da Lei 6.404/76. Colegiado aprovou nova definição jurídica (arts. 154 c/c 152) e determinou nova intimação para aditamento de defesa (art. 26, Deliberação CVM 538/08). | cvm/colegiado/2013/col-20131217-d7944.md |
+
+### art. 264
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 264 | decisao-colegiado | RJ2009/7847 | 2009-09-01 | parcial | outros | Consulta do Banco do Brasil S.A. sobre o uso do critério de fluxo de caixa descontado, em vez da cotação de mercado, na incorporação do Banco Nossa Caixa S.A. (art. 264 da Lei 6.404/76). Colegiado admitiu o critério, desde que os laudos tenham data-base recente, e não 31.12.07. | cvm/colegiado/2009/col-20090901-d08.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2015/5021 | 2015-08-25 | — | assembleia-acionistas | Recursos contra decisão da SEP. Proc. RJ2015/5021. | cvm/colegiado/2015/col-20150825-d9784.md |
+| decisao-colegiado | RJ2012/9379 | 2012-09-04 | indeferido | ofertas-publicas | Recurso contra decisão da SRE. Proc. RJ2012/9379. | cvm/colegiado/2012/col-20120904-d12.md |
+
 ## lei-8
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | Pedido da BRL Trust DTVM S.A., administradora do Arena FII, de dispensa do inciso IV do art. 35 da Instrução CVM 472/2008 para implementar contrato de garantia com cessão fiduciária de direitos creditórios e da conta corrente do fundo. Área técnica: a AGC de 28.11.2013 extrapolou o art. 18 da Instrução 472. Indeferido. | cvm/colegiado/2015/col-20150908-d9820.md |
 | decisao-colegiado | RJ2008/10302 | 2009-01-21 | outro | ofertas-publicas | Oferta pública irregular de contratos de investimento coletivo (projeto de reflorestamento) pela Pothencia Tecnologia Ambiental Ltda. Determinada suspensão imediata, inclusive com retirada do site, por tratar-se de valor mobiliário sujeito a registro (art. 2º, IX, da Lei nº 6.385/76). | cvm/colegiado/2009/col-20090121-d04.md |
 
 ## lei-9
@@ -83,7 +115,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/10623 | 2015-11-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/10623. | cvm/colegiado/2015/col-20151110-d9911.md |
 | decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | Pedido da BRL Trust DTVM S.A., administradora do Arena FII, de dispensa do inciso IV do art. 35 da Instrução CVM 472/2008 para implementar contrato de garantia com cessão fiduciária de direitos creditórios e da conta corrente do fundo. Área técnica: a AGC de 28.11.2013 extrapolou o art. 18 da Instrução 472. Indeferido. | cvm/colegiado/2015/col-20150908-d9820.md |
 | decisao-colegiado | RJ2015/2581 | 2015-06-23 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários (Instrução CVM 43/1985). Experiência de analista de investimentos por oito meses não atinge o período mínimo de três anos exigido. Indeferido. | cvm/colegiado/2015/col-20150623-d9711.md |
 | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | indeferido | fundos-investimento | Recurso da administradora de FII contra interpretação da SIN sobre o art. 47 da Instrução CVM 472/2008. Multas administrativas municipais por descumprimento de normas de conservação de imóvel são encargo da administradora, não despesa do fundo (art. 47, §1º e XIII). Recurso indeferido. | cvm/colegiado/2015/col-20150616-d9688.md |
@@ -95,22 +126,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/11888 | 2014-10-22 | — | assembleia-acionistas | Pedido de interrupção do prazo de convocação de assembleia geral extraordinária de companhia de energia para aumento de capital, por falta de divulgação de laudo de avaliação (art. 124, §5º, da Lei 6.404/1976). A SEP propôs ampliar em 15 dias o prazo de antecedência da convocação. | cvm/colegiado/2014/col-20141022-d01-r2.md |
-
-## lei-64
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/9415 | 2015-09-29 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9415. | cvm/colegiado/2015/col-20150929-d9854.md |
-
-## lei-638
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/5172 | 2015-06-09 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5172. | cvm/colegiado/2015/col-20150609-d9677.md |
 
 ## lei-1083
 
@@ -238,6 +253,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 21 | decisao-colegiado | RJ2009/2905 | 2009-04-17 | indeferido | assembleia-acionistas | Nova petição do mesmo acionista do Banco do Brasil, após a demissão do presidente da companhia, pedindo o cancelamento da AGO/E de 23.04.09 e nova convocação em 60 dias. Colegiado indeferiu: os questionamentos não se relacionam às deliberações propostas. | cvm/colegiado/2009/col-20090417-d01.md |
 
+## lei-4728-1967
+
+### art. 47
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 47 | decisao-colegiado | RJ2009/11977 | 2010-07-06 | — | assembleia-acionistas | Pedido de autorização para aquisição privada de ações de própria emissão no exercício de preferência sobre ações de plano de opções (Instrução CVM 10/80, art. 23). Voto do relator pelo indeferimento: tratamento desigual entre acionistas (Lei 6.404/76, art. 109, §1º) e competência da assembleia para aprovar o plano (art. 168, §3º). Vista solicitada; sem decisão. | cvm/colegiado/2010/col-20100706-d04.md |
+| art. 47 | decisao-colegiado | RJ2009/11977 | 2010-08-10 | deferido | assembleia-acionistas | Pedido da Contax Participações S.A. de autorização para aquisição privada de ações de própria emissão, ligada ao direito de preferência em plano de opções. Colegiado concedeu a autorização (art. 23, Instrução 10/80) e admitiu a transferência da preferência a terceiros; determinou à SEP estudo sobre limites de poderes à gestão do plano. | cvm/colegiado/2010/col-20100810-d01.md |
+| art. 47 | decisao-colegiado | RJ2007/2257 | 2010-12-14 | indeferido | divulgacao-informacoes | Recurso de investidor contra decisão da SEP sobre reclamações relativas ao programa de recompra de ações preferenciais da Petrobras, à divulgação de declaração de comercialidade de reservas e a aumento de capital. Recurso indeferido por não haver indícios de irregularidade (Instrução CVM 10/80 e 358/02). | cvm/colegiado/2010/col-20101214-d14.md |
+
 ## lei-5524
 
 ### Citada sem dispositivo identificado
@@ -277,6 +302,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 11 | decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2010/11571. | cvm/colegiado/2010/col-20101104-d02.md |
 | art. 11 | decisao-colegiado | RJ2011/7387 | 2011-12-06 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2011/7387. | cvm/colegiado/2011/col-20111206-d10.md |
 
+## lei-6385-1979
+
+### art. 2º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | 361/2002; RJ2014/12977 | 2015-02-10 | deferido | opa | Consulta da Biosev e de sua controladora sobre cumprimento de decisão de recomposição de free float (art. 28 da ICVM 361/2002) por aumento de capital com cessão de direitos de subscrição ao IFC. Colegiado entendeu que a operação, da forma proposta, atende à decisão, com estrita observância do escopo da norma. | cvm/colegiado/2015/col-20150210-d9467.md |
+
 ## lei-6386
 
 ### art. 2º
@@ -284,6 +317,39 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 2º, inciso IX | decisao-colegiado | RJ2008/10302 | 2009-01-21 | outro | ofertas-publicas | Oferta pública irregular de contratos de investimento coletivo (projeto de reflorestamento) pela Pothencia Tecnologia Ambiental Ltda. Determinada suspensão imediata, inclusive com retirada do site, por tratar-se de valor mobiliário sujeito a registro (art. 2º, IX, da Lei nº 6.385/76). | cvm/colegiado/2009/col-20090121-d04.md |
+
+## lei-6404-1946
+
+### art. 170
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 170, § 1º | decisao-colegiado | RJ2010/17202 | 2010-12-16 | indeferido | assembleia-acionistas | Pedido de interrupção do prazo de convocação de AGE do Banco Bradesco S.A. para aumento de capital de R$ 1,5 bilhão com preço único para ordinárias e preferenciais (art. 170, §§ 1º e 7º, Lei 6.404/76). Colegiado indeferiu: a apuração da ilegalidade não cabia no prazo de 15 dias. | cvm/colegiado/2010/col-20101216-d01.md |
+
+### art. 254-A
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 254-A | decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | opa | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm/colegiado/2009/col-20090715-d01-r2.md |
+| art. 254-A | decisao-colegiado | RJ2014/10023 | 2015-03-24 | deferido | opa | Pedido de registro de OPA para cancelamento de registro da BHG S.A., nos termos do art. 4º, § 4º, da Lei 6.404/1976 e da Instrução CVM 361/2002. Admitida a Latin America Hotels, LLC como controladora para este caso, com 29,51% do capital. Deferido. | cvm/colegiado/2015/col-20150324-d9561.md |
+| art. 254-A, parágrafo único | decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | opa | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm/colegiado/2009/col-20090715-d01-r2.md |
+| art. 254-A, parágrafo único | decisao-colegiado | RJ2014/10023 | 2015-03-24 | deferido | opa | Pedido de registro de OPA para cancelamento de registro da BHG S.A., nos termos do art. 4º, § 4º, da Lei 6.404/1976 e da Instrução CVM 361/2002. Admitida a Latin America Hotels, LLC como controladora para este caso, com 29,51% do capital. Deferido. | cvm/colegiado/2015/col-20150324-d9561.md |
+
+## lei-6404-1964
+
+### art. 171
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 171, § 3º | decisao-colegiado | RJ2011/5238 | 2012-01-27 | deferido | assembleia-acionistas | Consulta da Cielo sobre plano de ações restritas para administradores e empregados. SEP condicionou a legalidade a seis requisitos, entre eles inclusão na remuneração global ou individual (art. 152, Lei 6.404/76) e autorização prévia da CVM a cada concessão. | cvm/colegiado/2012/col-20120127-d02.md |
+
+## lei-6404-1974
+
+### art. 124
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 124, § 5º, inciso II | decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | Pedido de acionista para interromper, por até 15 dias, o prazo de convocação de AGE da Embratel Participações S.A., que trata de cisão e incorporação pela Claro, por alegadas falhas na negociação da relação de troca. Colegiado, acompanhando a SEP, indeferiu a interrupção (Lei 6.404/1976, art. 124, §5º, II). | cvm/colegiado/2014/col-20141217-d01-r2.md |
 
 ## lei-6530
 
@@ -514,6 +580,22 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/13609 | 2014-12-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2014/13609. | cvm/colegiado/2014/col-20141216-d13.md |
 | decisao-colegiado | RJ2014/6385 | 2014-06-24 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2014/6385. | cvm/colegiado/2014/col-20140624-d05.md |
+
+## lei-8668-1938
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/11704 | 2015-03-17 | indeferido | fundos-investimento | Manifestação da ANBIMA contestando orientações do Ofício-Circular CVM/SIN/SNC 1/2014 sobre lucros auferidos de FII (art. 10, parágrafo único, da Lei 8.668/1993). Colegiado ratificou o entendimento técnico: distribuição de 95% semestral obrigatória, retenção só por assembleia de cotistas; autorizou AGOs de 2014 até 30.06.2015. | cvm/colegiado/2015/col-20150317-d9595.md |
+
+## lei-8668-2003
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/11704 | 2015-03-17 | indeferido | fundos-investimento | Manifestação da ANBIMA contestando orientações do Ofício-Circular CVM/SIN/SNC 1/2014 sobre lucros auferidos de FII (art. 10, parágrafo único, da Lei 8.668/1993). Colegiado ratificou o entendimento técnico: distribuição de 95% semestral obrigatória, retenção só por assembleia de cotistas; autorizou AGOs de 2014 até 30.06.2015. | cvm/colegiado/2015/col-20150317-d9595.md |
 
 ## lei-8669
 

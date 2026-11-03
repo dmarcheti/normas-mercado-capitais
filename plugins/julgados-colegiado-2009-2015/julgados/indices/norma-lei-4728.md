@@ -7,14 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-04728.md](../../../normas/normas/leis/lei-04728.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
-## art. 47
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 47 | decisao-colegiado | RJ2009/11977 | 2010-07-06 | — | assembleia-acionistas | Pedido de autorização para aquisição privada de ações de própria emissão no exercício de preferência sobre ações de plano de opções (Instrução CVM 10/80, art. 23). Voto do relator pelo indeferimento: tratamento desigual entre acionistas (Lei 6.404/76, art. 109, §1º) e competência da assembleia para aprovar o plano (art. 168, §3º). Vista solicitada; sem decisão. | cvm/colegiado/2010/col-20100706-d04.md |
-| art. 47 | decisao-colegiado | RJ2009/11977 | 2010-08-10 | deferido | assembleia-acionistas | Pedido da Contax Participações S.A. de autorização para aquisição privada de ações de própria emissão, ligada ao direito de preferência em plano de opções. Colegiado concedeu a autorização (art. 23, Instrução 10/80) e admitiu a transferência da preferência a terceiros; determinou à SEP estudo sobre limites de poderes à gestão do plano. | cvm/colegiado/2010/col-20100810-d01.md |
-| art. 47 | decisao-colegiado | RJ2007/2257 | 2010-12-14 | indeferido | divulgacao-informacoes | Recurso de investidor contra decisão da SEP sobre reclamações relativas ao programa de recompra de ações preferenciais da Petrobras, à divulgação de declaração de comercialidade de reservas e a aumento de capital. Recurso indeferido por não haver indícios de irregularidade (Instrução CVM 10/80 e 358/02). | cvm/colegiado/2010/col-20101214-d14.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

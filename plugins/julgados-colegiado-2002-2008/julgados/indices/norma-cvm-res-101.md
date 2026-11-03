@@ -12,9 +12,3 @@ Norma: [cvm/resolucoes/0101.md](../../../normas/normas/cvm/resolucoes/0101.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 1º, § 1º | decisao-colegiado | RJ2003/7878 | 2003-09-05 | indeferido | assembleia-acionistas | Pedido de suspensão de assembleias gerais extraordinárias da Brasil Telecom Participações S.A. e da Brasil Telecom S.A. Colegiado entendeu desnecessário adiar, por concluir que as propostas de alteração estatutária sobre impedimento de conselheiros e exercício de voto violam a Lei 6.404/76. | cvm/colegiado/2003/col-20030905-d01.md |
-
-## Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/5718 | 2004-11-30 | outro | assembleia-acionistas | Pedido de reconhecimento do direito de voto de fundos minoritários para eleger conselheiros de Telemig e Tele Norte, suspenso por decisões judicial e da Anatel, com atuação da CVM como amicus curiae. Processo baixado em diligência para a SEP oficiar a Anatel. | cvm/colegiado/2004/col-20041130-d01.md |

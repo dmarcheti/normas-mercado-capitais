@@ -341,10 +341,44 @@ def classificar_item(id_, item, cliente, cache, pm=pdf_macos):
     return reg
 
 
-def gravar_ligacoes(classif, destino):
+def _sha_da_fonte(id_, cache):
+    """sha256 da fonte do item no cache, ou None (sem fonte baixada)."""
+    meta = _ler_json(os.path.join(cache, id_ + ".json"), {})
+    cam = os.path.join(cache, meta.get("arquivo") or "")
+    if not meta.get("arquivo") or not os.path.isfile(cam):
+        return None
+    with open(cam, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
+
+
+def duplicatas(ids, cache):
+    """{id repetido: id mantido}. Mesmo sha256 da fonte é o mesmo arquivo e dá o mesmo corpo: um
+    julgado só. Fica o primeiro de `ids` (a ordem de atribuir_ids, em que o id sem sufixo vem
+    antes do -2); ids sem fonte no cache não entram."""
+    primeiro, rep = {}, {}
+    for i in ids:
+        sha = _sha_da_fonte(i, cache)
+        if sha is None:
+            continue
+        if sha in primeiro:
+            rep[i] = primeiro[sha]
+        else:
+            primeiro[sha] = i
+    return rep
+
+
+def _ordem_id(i):
+    """Ordem de atribuir_ids dentro do mesmo número: base, -2, -3..."""
+    m = re.fullmatch(r"(.+?)-([2-9])", i)
+    return (m.group(1), int(m.group(2))) if m else (i, 1)
+
+
+def gravar_ligacoes(classif, destino, cache=None):
     lig = {}
+    cvm = sorted((i for i, r in classif.get("itens", {}).items() if r.get("orgao") == "CVM"), key=_ordem_id)
+    rep = duplicatas(cvm, cache) if cache else {}
     for i, r in sorted(classif.get("itens", {}).items()):
-        if r.get("orgao") != "CVM":
+        if r.get("orgao") != "CVM" or i in rep:
             continue
         for p in dict.fromkeys([r.get("processo")] + list(r.get("processos") or [])):
             if p:
@@ -377,7 +411,7 @@ def classificar(pares, cliente, cam, pm=pdf_macos, log=print):
             _gravar_json(cam["classificacao"], classif)
     classif["gerado"] = _agora()
     _gravar_json(cam["classificacao"], classif)
-    gravar_ligacoes(classif, cam["ligacoes"])
+    gravar_ligacoes(classif, cam["ligacoes"], cam["cache"])
     return classif
 
 
@@ -644,6 +678,14 @@ def ementa_oficial(texto_ementa):
 
 # ---------------------------------------------------------------- conversão
 
+# Documentos do CRSFN com mais de um acórdão no mesmo arquivo da fonte. Ficam inteiros
+# (um julgado por arquivo da fonte); o incerteza registra os acórdãos que o corpo contém.
+INCERTEZA_DOCUMENTO = {
+    "crsfn-14361": "documento com 2 acórdãos: Ac. 48/2018 (2018-02-20, 410ª sessão); "
+                   "Ac. 141/2018 (2018-06-26)",
+}
+
+
 def converter_item(reg, item, cam_fonte, meta, pm=pdf_macos):
     """(valores, corpo, info) do item CVM. Sem data: ValueError."""
     fonte = ler_fonte(cam_fonte, pm)
@@ -665,6 +707,8 @@ def converter_item(reg, item, cam_fonte, meta, pm=pdf_macos):
     if not pub:
         pub = jc.processo_publicado(item.get("titulo") or "") or item.get("titulo") or reg["id"]
         incerteza.append("processo CVM de origem não achado; processo do título do CRSFN")
+    if reg["id"] in INCERTEZA_DOCUMENTO:
+        incerteza.append(INCERTEZA_DOCUMENTO[reg["id"]])
     sec = dict(secs)
     ementa_txt = sec.get("Ementa", "")
     ementa = ementa_oficial(ementa_txt) if ementa_txt else ""
@@ -718,10 +762,16 @@ def _conferir(cam_fonte, motor, corpo, retirado, antes_pii):
 
 def converter(pares, cliente, cam, raiz=jc.RAIZ, pm=pdf_macos, log=print):
     classif = _ler_json(cam["classificacao"], {"itens": {}})
-    relat = {"gerado": _agora(), "itens": [], "erros": []}
+    relat = {"gerado": _agora(), "itens": [], "erros": [], "duplicatas": {}}
+    cvm = sorted((i for i, r in classif["itens"].items() if r.get("orgao") == "CVM"), key=_ordem_id)
+    rep = duplicatas(cvm, cam["cache"])
     for id_, item in pares:
         reg = classif["itens"].get(id_)
         if not reg or reg.get("orgao") != "CVM":
+            continue
+        if id_ in rep:  # mesma fonte de outro id: um julgado só
+            relat["duplicatas"][id_] = rep[id_]
+            log("%s: duplicata de %s (mesmo sha256), não convertido" % (id_, rep[id_]))
             continue
         try:
             cam_fonte, meta = baixar(item, id_, cliente, cam["cache"])
@@ -744,7 +794,7 @@ def converter(pares, cliente, cam, raiz=jc.RAIZ, pm=pdf_macos, log=print):
     os.makedirs(cam["relatorios"], exist_ok=True)
     nome = "crsfn-%s.json" % datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
     _gravar_json(os.path.join(cam["relatorios"], nome), relat)
-    gravar_ligacoes(_ler_json(cam["classificacao"], {"itens": {}}), cam["ligacoes"])
+    gravar_ligacoes(_ler_json(cam["classificacao"], {"itens": {}}), cam["ligacoes"], cam["cache"])
     return relat
 
 

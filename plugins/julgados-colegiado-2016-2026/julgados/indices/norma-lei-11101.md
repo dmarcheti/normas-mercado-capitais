@@ -25,8 +25,6 @@ Norma: [leis/lei-11101.md](../../../normas/normas/leis/lei-11101.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 36 | decisao-colegiado | 19957.000196/2020-13 | 2020-02-18 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000196/2020-13. | cvm/colegiado/2020/col-20200218-d1725.md |
-| art. 36, § 1º | decisao-colegiado | 19957.000196/2020-13 | 2020-02-18 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000196/2020-13. | cvm/colegiado/2020/col-20200218-d1725.md |
-| art. 36, § 3º | decisao-colegiado | 19957.000196/2020-13 | 2020-02-18 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000196/2020-13. | cvm/colegiado/2020/col-20200218-d1725.md |
 
 ## art. 37
 
@@ -123,12 +121,6 @@ Norma: [leis/lei-11101.md](../../../normas/normas/leis/lei-11101.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 136, § 1º | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | deferido | fundos-investimento | Consulta da ANFIDC sobre aquisição por FIDC padronizado de créditos performados cedidos por empresa em recuperação judicial, sem trânsito em julgado do plano, e com coobrigação do cedente. Relator acolheu o primeiro pedido e admitiu a coobrigação sem atribuição de valor a ela na precificação. | cvm/colegiado/2016/col-20160906-d0301.md |
-
-## art. 142
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 142, inciso III | decisao-colegiado | 19957.002615/2020-51 | 2020-12-15 | — | deveres-administradores | Recurso de cotista de FIP contra decisão da SIN em reclamação sobre conflito de interesses de gestora e administradora na transferência de cotas classe A a parte relacionada, sem convocação de assembleia, e sobre exercício irregular de administração de carteira (Instrução CVM 558/15, art. 5º). SIN propõe manutenção da decisão e emissão de Ofício de Alerta. | cvm/colegiado/2020/col-20201215-d2016.md |
 
 ## art. 163
 

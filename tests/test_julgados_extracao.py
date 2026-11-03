@@ -289,7 +289,7 @@ class ExecucaoTest(Arvore):
         with mock.patch.object(ex.os, "getpid", return_value=4242), redirect_stdout(io.StringIO()):
             ex.main(["--onda", "1", "--simular", "--raiz", self.raiz, "--saida", self.saida])
         (lote,) = os.listdir(self.saida)
-        self.assertRegex(lote, r"-haiku-\d{6}-4242-001$")
+        self.assertRegex(lote, r"-sonnet-\d{6}-4242-001$")  # Sonnet é o padrão desde a 3b
 
     def test_trabalho_dentro_do_repositorio_e_recusado(self):
         with self.assertRaises(ValueError):
@@ -410,6 +410,325 @@ class ExecucaoTest(Arvore):
         self.assertEqual(rc, 1)
         with open(c, encoding="utf-8") as f:
             self.assertEqual(f.read(), antes)
+
+
+# ---------------------------------------------------------------- fase 3b: reextração
+
+PARTICIPANTES = ("**Participantes**\n\n**• FULANO EXEMPLO DA SILVA – PRESIDENTE**\n"
+                 "**• BELTRANO EXEMPLAR – DIRETOR**\n\n")
+
+
+def decisao(*paragrafos, titulo="RECURSO CONTRA DECISÃO DA SEP – ACME S.A. – PROC. 1",
+            anexo=""):
+    corpo = "# %s\n\n## Decisão\n\n%sReg. nº 1/25\nRelator: SEP\n\n%s\n" % (
+        titulo, PARTICIPANTES, "\n\n".join(paragrafos))
+    return corpo + ("\n## Manifestação da área técnica\n\n" + anexo + "\n" if anexo else "")
+
+
+class RecorteDeliberacaoTest(unittest.TestCase):
+    def test_deliberacao_no_meio_e_anexo_longo_no_fim(self):
+        corpo = decisao(
+            "Trata-se de pedido de dispensa de requisitos da ACME S.A.",
+            " ".join("c%d" % i for i in range(1500)),
+            "A SEP propôs o indeferimento do pedido.",
+            "O Colegiado, por unanimidade, deliberou deferir o pedido, nos termos do voto.",
+            " ".join("e%d" % i for i in range(300)),
+            anexo=(" ".join("m%d" % i for i in range(5000)) + "\n\nDiante do exposto, propomos "
+                   "o indeferimento do pedido de dispensa, " + "por razões " * 30 + ".\n\n"
+                   "Atenciosamente, Sicrano Exemplo"))
+        r = ex.recorte_3b(corpo)
+        self.assertTrue(r.startswith("TÍTULO: RECURSO CONTRA DECISÃO DA SEP"))
+        i_delib = r.index("DELIBERAÇÃO DO COLEGIADO")
+        i_pedido = r.index("PEDIDO E FUNDAMENTOS")
+        i_area = r.index("POSIÇÃO DA ÁREA TÉCNICA OU DO COMITÊ")
+        self.assertLess(i_delib, i_pedido)
+        self.assertLess(i_pedido, i_area)
+        self.assertIn("deliberou deferir o pedido", r[i_delib:i_pedido])
+        self.assertIn("Trata-se de pedido", r[i_pedido:i_area])
+        self.assertIn("A SEP propôs o indeferimento", r[i_pedido:i_area])
+        self.assertIn("Diante do exposto, propomos", r[i_area:])
+        self.assertNotIn("Atenciosamente", r)
+        self.assertNotIn("FULANO EXEMPLO", r)  # sem a lista de participantes
+        self.assertNotIn("m100 ", r)  # o miolo do anexo fica de fora
+        self.assertNotIn("c800 ", r)  # o miolo do relato também
+        self.assertLess(len(r.split()), 1800)
+
+    def test_decisao_curta_vai_inteira(self):
+        corpo = decisao("Trata-se de recurso contra multa cominatória.",
+                        "O Colegiado, acompanhando a SEP, negou provimento ao recurso.")
+        r = ex.recorte_3b(corpo)
+        self.assertIn("DECISÃO NA ÍNTEGRA", r)
+        self.assertIn("Trata-se de recurso", r)
+        self.assertNotIn("PEDIDO E FUNDAMENTOS", r)
+
+    def test_data_no_meio_da_frase_nao_esconde_a_deliberacao(self):
+        corpo = decisao("Trata-se de consulta.",
+                        "Ao apreciar a consulta, o Colegiado, nos termos do voto do Diretor "
+                        "Relator, que havia pedido vista em reunião de 20.07.10, concluiu que "
+                        "o dispositivo não alcança os créditos.", "Texto final sem verbo.")
+        r = ex.recorte_3b(corpo)
+        delib = r[r.index("DELIBERAÇÃO DO COLEGIADO"):r.index("DECISÃO NA ÍNTEGRA")]
+        self.assertIn("concluiu que o dispositivo", delib)
+
+    def test_sem_decisao_ou_outro_tipo_usa_o_recorte_antigo(self):
+        corpo = "# PAS 1\n\n## Extrato\n\nExtrato da sessão: multa ao acusado.\n"
+        self.assertEqual(ex.recorte_3b(corpo, "pas"), ex.recorte(corpo))
+        corpo = decisao("O Colegiado deliberou aceitar a proposta.")
+        self.assertEqual(ex.recorte_3b(corpo, "pas"), ex.recorte(corpo))
+
+    def test_entrada_nova_usa_o_recorte_3b(self):
+        d = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, d)
+        c = os.path.join(d, "x.md")
+        ex.gravar(c, valores(id="cvm-col-1", tipo="decisao-colegiado"),
+                  decisao("O Colegiado deliberou deferir o pedido."))
+        self.assertTrue(ex.entrada(c, novo=True)["recorte"].startswith("TÍTULO:"))
+        self.assertFalse(ex.entrada(c)["recorte"].startswith("TÍTULO:"))
+
+    def test_prompt_pede_situacao_e_rotulo(self):
+        with open(ex.PROMPT, encoding="utf-8") as f:
+            prompt = f.read()
+        for s in ex.SITUACOES:
+            self.assertIn("`%s`" % s, prompt)
+        self.assertIn("DELIBERAÇÃO DO COLEGIADO", prompt)
+
+
+class SituacaoTest(unittest.TestCase):
+    def sit(self, *paragrafos):
+        return ex.situacao_deliberacao(decisao(*paragrafos).split("## Decisão", 1)[1])
+
+    def test_pedido_de_vista_no_fim_suspende(self):
+        self.assertEqual(self.sit(
+            "Trata-se de recurso.", "O Relator votou pelo indeferimento do recurso.",
+            "O Colegiado deu início à discussão do assunto, tendo o Diretor Beltrano "
+            "solicitado vista do processo."), "suspenso")
+        # já havia votos pelo não provimento: continua suspenso
+        self.assertEqual(self.sit(
+            "Após o Diretor Fulano e o Presidente terem votado pelo não provimento do recurso, "
+            "o Diretor Beltrano solicitou vista do processo."), "suspenso")
+
+    def test_adiamento_e_retirada_de_pauta_suspendem(self):
+        self.assertEqual(self.sit("O Colegiado deu início à discussão do assunto, tendo ficado "
+                                  "adiada sua decisão."), "suspenso")
+        self.assertEqual(self.sit("Retirado de pauta, por solicitação da PFE."), "suspenso")
+        self.assertEqual(self.sit("O Diretor Fulano solicitou vista dos autos, ficando adiada a "
+                                  "decisão."), "suspenso")
+
+    def test_retomada_com_deliberacao_e_decidida(self):
+        self.assertEqual(self.sit(
+            "O Diretor Beltrano, que havia pedido vista do processo, apresentou seu voto.",
+            "O Colegiado, por maioria, deliberou negar provimento ao recurso."), "decidido")
+        self.assertEqual(self.sit(
+            "Em reunião anterior, o Diretor Beltrano pediu vista do processo.",
+            "Retomada a discussão, o Colegiado, por unanimidade, deu provimento ao recurso."),
+            "decidido")
+        corpo = decisao("O Colegiado acompanhou o voto do relator e indeferiu o pedido.")
+        corpo = corpo.replace("Relator: SEP", "Relator: SEP (PEDIDO DE VISTA DO DLA)")
+        self.assertEqual(ex.situacao_deliberacao(corpo.split("## Decisão", 1)[1]), "decidido")
+
+    def test_vista_dos_autos_como_objeto_nao_suspende(self):
+        self.assertEqual(self.sit(
+            "O Colegiado negou provimento ao recurso, mantendo a decisão da SMI que indeferiu "
+            "o pedido de vista e cópia integral dos autos."), "decidido")
+        self.assertEqual(self.sit(
+            "Trata-se de recurso contra decisão que negou vista dos autos do PAS 1.",
+            "O Colegiado deliberou dar provimento ao recurso.",
+            "O recorrente havia solicitado vista dos autos do Proc. 2 antes do depoimento."),
+            "decidido")
+
+    def test_sem_deliberacao_nem_suspensao(self):
+        self.assertEqual(self.sit("Trata-se de recurso.", "A SEP opinou pelo indeferimento."),
+                         "")
+
+
+class ReextracaoTest(Arvore):
+    """Lista, reextração retomável (sem tocar em plugins/) e aplicação."""
+
+    def setUp(self):
+        super().setUp()
+        self.saida = os.path.join(self.raiz, "dados", "fase-3b", "extracao")
+        self.inventario = os.path.join(self.raiz, "inventario.json")
+        with open(self.inventario, "w", encoding="utf-8") as f:
+            json.dump({"julgados": [{"id": "cvm-col-tc1", "tipo": "termo-compromisso",
+                                     "resultado": "aceito"}]}, f)
+        self.respostas, self.chamadas = {}, []
+        self.trabalho = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, self.trabalho)
+
+    def arvore(self):
+        self.julgado("cvm-col-a", ementa="Ementa antiga A.", ementa_fonte="extracao",
+                     resultado="indeferido", tema="processual", tema_fonte="extracao",
+                     relator="SEP", normas_citadas="cvm-res-160", classe="dispensa",
+                     corpo=decisao("Trata-se de pedido de dispensa.",
+                                   "O Colegiado, por unanimidade, deliberou conceder a dispensa."))
+        self.julgado("cvm-col-b", ementa="Recurso.", ementa_fonte="titulo",
+                     classe="multa-cominatoria", resultado="indeferido", tema="processual",
+                     tema_fonte="script",
+                     corpo=decisao("O Relator votou pelo indeferimento.",
+                                   "O Colegiado deu início à discussão do assunto, tendo o "
+                                   "Diretor Beltrano solicitado vista do processo."))
+        self.julgado("cvm-col-tc1", tipo="termo-compromisso", ementa="Ementa TC.",
+                     ementa_fonte="extracao", resultado="aceito")
+        self.julgado("cvm-col-tc2", tipo="termo-compromisso", ementa="TC.",
+                     ementa_fonte="titulo", resultado="aceito")
+        self.julgado("cvm-pas-1", tipo="pas", ementa="Ementa PAS.", ementa_fonte="extracao")
+        self.julgado("cvm-pas-2", tipo="pas", ementa="Ementa da CVM.", ementa_fonte="cvm")
+
+    def lista(self):
+        lista = ex.montar_lista(self.raiz, self.inventario)
+        c = os.path.join(self.raiz, "lista.json")
+        ex._gravar_json(c, lista)
+        return lista, c
+
+    def falso(self, cmd, input, cwd, capture_output, text, timeout):  # noqa: A002
+        lote = ler(os.path.join(cwd, "lote.json"))
+        self.chamadas.append([x["id"] for x in lote])
+        saida = [dict(self.respostas.get(x["id"], {}), id=x["id"]) for x in lote]
+        with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
+            json.dump(saida, f)
+        log = json.dumps({"type": "result", "total_cost_usd": 0.5})
+        return mock.Mock(returncode=0, stdout=log, stderr="")
+
+    def rodar(self, *args):
+        _, c = self.lista()
+        with mock.patch.object(ex.subprocess, "run", side_effect=self.falso), \
+                redirect_stdout(io.StringIO()) as out, redirect_stderr(io.StringIO()):
+            rc = ex.main(["--reextrair", "--lista", c, "--raiz", self.raiz, "--saida",
+                          self.saida, "--trabalho", self.trabalho] + list(args))
+        return rc, out.getvalue()
+
+    def aplicar(self, *args):
+        _, c = self.lista()
+        with redirect_stdout(io.StringIO()):
+            ex.main(["--aplicar-reextracao", "--lista", c, "--raiz", self.raiz, "--saida",
+                     self.saida] + list(args))
+        (rel,) = [x for x in os.listdir(self.saida) if x.startswith("aplicacao-")]
+        return ler(os.path.join(self.saida, rel))
+
+    def plugins(self):
+        out = {}
+        for c in sorted(ex.glob.glob(os.path.join(self.raiz, "plugins", "**", "*.md"),
+                                     recursive=True)):
+            with open(c, encoding="utf-8") as f:
+                out[c] = f.read()
+        return out
+
+    def test_lista_por_escopo_e_tipo(self):
+        self.arvore()
+        lista, _ = self.lista()
+        self.assertEqual(lista["itens"], {
+            "cvm-col-a": {"tipo": "decisao-colegiado", "classe": "dispensa",
+                          "campos": ["ementa", "resultado"]},
+            "cvm-col-b": {"tipo": "decisao-colegiado", "classe": "multa-cominatoria",
+                          "campos": ["resultado"]},
+            "cvm-col-tc1": {"tipo": "termo-compromisso", "classe": "", "campos": ["ementa"]},
+            "cvm-col-tc2": {"tipo": "termo-compromisso", "classe": "", "campos": ["resultado"]},
+            "cvm-pas-1": {"tipo": "pas", "classe": "", "campos": ["ementa"]}})
+        self.assertEqual(lista["contagens"]["decisao-colegiado"],
+                         {"itens": 2, "ementa": 1, "resultado": 2, "ementa_e_resultado": 1})
+        self.assertEqual(lista["contagens"]["total"]["itens"], 5)
+
+    def test_reextrair_retoma_sem_refazer_e_nao_toca_em_plugins(self):
+        self.arvore()
+        antes = self.plugins()
+        rc, out = self.rodar("--limite", "2", "--model", "sonnet")
+        self.assertEqual(rc, 0)
+        self.assertEqual(self.chamadas, [["cvm-col-a", "cvm-col-b"]])
+        lote = ler(os.path.join(self.saida, sorted(os.listdir(self.saida))[0], "lote.json"))
+        self.assertTrue(lote[0]["recorte"].startswith("TÍTULO:"))
+        rc, out = self.rodar()  # retoma: só o que falta
+        self.assertEqual(self.chamadas[1], ["cvm-col-tc1", "cvm-col-tc2", "cvm-pas-1"])
+        rc, out = self.rodar()  # nada pendente
+        self.assertEqual(len(self.chamadas), 2)
+        self.assertIn("0 de 5", out)
+        self.assertEqual(self.plugins(), antes)
+        for d in os.listdir(self.saida):
+            self.assertEqual(sorted(os.listdir(os.path.join(self.saida, d))),
+                             sorted(["caminhos.json", "escopo.json", "execucao.json",
+                                     "lote.json", "log.jsonl", "pessoas.json", "saida.json",
+                                     "validacao.json"]))
+
+    def test_lote_sem_saida_fica_pendente(self):
+        self.arvore()
+
+        def sem_saida(cmd, input, cwd, capture_output, text, timeout):  # noqa: A002
+            return mock.Mock(returncode=1, stdout="", stderr="cota")
+
+        _, c = self.lista()
+        with mock.patch.object(ex.subprocess, "run", side_effect=sem_saida), \
+                redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
+            rc = ex.main(["--reextrair", "--lista", c, "--raiz", self.raiz, "--saida",
+                          self.saida, "--trabalho", self.trabalho])
+        self.assertEqual(rc, 0)
+        self.assertEqual(ex.estado_reextracao(self.saida)["resultados"], {})
+        self.rodar()
+        self.assertEqual(len(self.chamadas), 1)  # tudo de novo, num lote só
+
+    def test_aplicar_so_os_campos_do_escopo_e_preserva_o_resto(self):
+        self.arvore()
+        self.respostas = {
+            "cvm-col-a": {"situacao": "decidido", "ementa": "O Colegiado concedeu a dispensa.",
+                          "tema": "ofertas-publicas", "resultado": "deferido",
+                          "relator": "Outro"},
+            # o modelo diz decidido, mas o texto termina com pedido de vista: fica vazio
+            "cvm-col-b": {"situacao": "decidido", "ementa": "Não entra (fora do escopo).",
+                          "tema": "multa-cominatoria-taxa", "resultado": "indeferido"},
+            "cvm-col-tc1": {"situacao": "decidido", "ementa": "Nova ementa do TC.",
+                            "resultado": "rejeitado"},
+            "cvm-col-tc2": {"situacao": "suspenso", "resultado": ""},
+            "cvm-pas-1": {"situacao": "decidido", "ementa": "Nova ementa do PAS.",
+                          "resultado": "condenacao"}}
+        self.rodar()
+        antes = self.plugins()
+        rel = self.aplicar("--simular")
+        self.assertEqual(self.plugins(), antes)  # simulado: nada gravado
+        self.assertTrue(rel["simulado"])
+        os.remove(os.path.join(self.saida, [x for x in os.listdir(self.saida)
+                                            if x.startswith("aplicacao-")][0]))
+        rel = self.aplicar()
+        depois = self.plugins()
+        a = [c for c in depois if c.endswith("cvm-col-a.md")][0]
+        v, _ = ex.ler_julgado(a)
+        self.assertEqual(v["ementa"], "O Colegiado concedeu a dispensa.")
+        self.assertEqual(v["ementa_fonte"], "extracao")
+        self.assertEqual(v["resultado"], "deferido")
+        self.assertEqual((v["tema"], v["tema_fonte"]), ("ofertas-publicas", "extracao"))
+        self.assertEqual(v["relator"], "SEP")  # relator não é reaplicado
+        self.assertEqual(v["normas_citadas"], "cvm-res-160")
+        # o resto do arquivo fica igual: só as linhas de ementa, resultado e tema mudam
+        linhas_antes = antes[a].splitlines()
+        linhas_depois = depois[a].splitlines()
+        self.assertEqual(len(linhas_antes), len(linhas_depois))
+        mudaram = {x.split(":")[0] for x, y in zip(linhas_antes, linhas_depois) if x != y}
+        self.assertEqual(mudaram, {"resultado", "ementa", "tema"})
+        b = [c for c in depois if c.endswith("cvm-col-b.md")][0]
+        vb, _ = ex.ler_julgado(b)
+        self.assertEqual(vb["resultado"], "")
+        self.assertEqual(vb["ementa"], "Recurso.")  # ementa fora do escopo
+        self.assertEqual(vb["tema"], "processual")  # tema do script fica
+        self.assertEqual(rel["conflitos_situacao"][0]["id"], "cvm-col-b")
+        self.assertEqual(rel["resultado_esvaziado"][0]["antes"], "indeferido")
+        tc1 = ex.ler_julgado([c for c in depois if c.endswith("cvm-col-tc1.md")][0])[0]
+        self.assertEqual((tc1["ementa"], tc1["resultado"]), ("Nova ementa do TC.", "aceito"))
+        tc2 = ex.ler_julgado([c for c in depois if c.endswith("cvm-col-tc2.md")][0])[0]
+        self.assertEqual(tc2["resultado"], "")
+        pas = ex.ler_julgado([c for c in depois if c.endswith("cvm-pas-1.md")][0])[0]
+        self.assertEqual((pas["ementa"], pas["resultado"]), ("Nova ementa do PAS.", ""))
+        self.assertEqual(rel["contagens"]["arquivos"], 5)
+
+    def test_ementa_reprovada_duas_vezes_fica_a_do_titulo(self):
+        self.arvore()
+        self.respostas = {"cvm-col-a": {"situacao": "decidido", "resultado": "deferido",
+                                        "ementa": " ".join(["palavra"] * 70)}}
+        self.rodar()
+        self.assertEqual(self.chamadas[-1], ["cvm-col-a"])  # retentativa só da ementa no escopo
+        rel = self.aplicar()
+        v, corpo = ex.ler_julgado([c for c in self.plugins() if c.endswith("cvm-col-a.md")][0])
+        titulo = re.search(r"(?m)^# (.+)$", corpo).group(1)
+        self.assertEqual(v["ementa"], jc.ementa_de_titulo(titulo, "dispensa"))
+        self.assertEqual(v["ementa_fonte"], "titulo")
+        self.assertEqual(v["resultado"], "deferido")
+        self.assertEqual(rel["ementa_do_titulo"], ["cvm-col-a"])
 
 
 if __name__ == "__main__":

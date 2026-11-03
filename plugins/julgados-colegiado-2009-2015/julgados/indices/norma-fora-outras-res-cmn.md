@@ -87,6 +87,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2011/0302 | 2014-06-24 | indeferido | deveres-administradores | Recurso de reclamantes contra decisão da SEP de não instaurar PAS contra acionistas controladores e administradores do Itaú Unibanco Holding S.A. por suposto abuso de poder de controle (uso gratuito de serviços da companhia; ICVM 323/2000, art. 1º, IV; Lei 6.404/1976, arts. 116 e 154, § 2º). Colegiado indeferiu o recurso. | cvm/colegiado/2014/col-20140624-d04.md |
 
+## res-cmn-527
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2012/0186 | 2012-11-22 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários (Instrução CVM 43/85), por falta de comprovação de atuação no mercado de valores mobiliários e da experiência mínima de três anos em análise de investimentos. Colegiado, acompanhando a área técnica, indeferiu o recurso. | cvm/colegiado/2012/col-20121122-d11.md |
+
 ## res-cmn-702
 
 ### Citada sem dispositivo identificado
@@ -123,6 +131,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2012/0186 | 2012-11-22 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários (Instrução CVM 43/85), por falta de comprovação de atuação no mercado de valores mobiliários e da experiência mínima de três anos em análise de investimentos. Colegiado, acompanhando a área técnica, indeferiu o recurso. | cvm/colegiado/2012/col-20121122-d11.md |
 | decisao-colegiado | RJ2009/9811 | 2010-10-19 | indeferido | fundos-investimento | Recurso de gestora contra indeferimento de fundo regido pela Instrução 409/04 para adquirir direitos econômicos sobre atletas. Indeferido: tais direitos são direitos creditórios de existência futura e incerta (Instrução 444/06, art. 1º, §1º, VI). Pedido de dispensa do art. 87, I, prejudicado. | cvm/colegiado/2010/col-20101019-d01.md |
 | decisao-colegiado | RJ2002/5412 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5412. | cvm/colegiado/2009/col-20090303-d06.md |
 | decisao-colegiado | RJ1999/3978 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3978. | cvm/colegiado/2009/col-20090303-d04.md |
@@ -212,6 +221,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/10962 | 2015-07-28 | deferido | opa | Registro de OPA unificada por alienação de controle do Banco Industrial e Comercial S.A., para cancelamento de registro e saída do Nível 1, com opções de preço parcelado ou à vista, nos termos do art. 254-A da Lei 6.404/1976. Deferido. | cvm/colegiado/2015/col-20150728-d9514.md |
+
+## res-cmn-1775-1996
+
+### art. 6º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2012/7698 | 2012-11-13 | deferido | outros | Pedido da Cibrasec Companhia Brasileira de Securitização (categoria B) para adquirir de forma privada ações de própria emissão (art. 23 da Instrução CVM 10/80), a fim de reduzir a participação de instituições financeiras. Deferido, com o art. 9º afastado para a categoria B; excessos ao limite do art. 3º tratados como transitórios. | cvm/colegiado/2012/col-20121113-d05.md |
 
 ## res-cmn-1907
 

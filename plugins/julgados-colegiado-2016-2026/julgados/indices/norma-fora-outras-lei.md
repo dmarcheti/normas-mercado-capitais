@@ -71,6 +71,28 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 71 | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | — | processual | Pedido de efeito suspensivo à proibição temporária de 36 meses para exercer atividade de assessor de investimento, imposta ao acusado em PAS por infração ao art. 10 da ICVM 497. O voto propõe concedê-lo, por plausibilidade na dosimetria, justo receio de dano de difícil reparação (Lei 9.784, art. 61) e vedação à retroatividade da norma mais gravosa. | cvm/colegiado/2025/col-20250415-d2014.md |
 
+## lei-6
+
+### art. 155
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 155, inciso II | decisao-colegiado | RJ2013/6183 | 2016-07-26 | outro | deveres-administradores | Recapitulação legal de infrações (art. 25 da Deliberação CVM 538/2008) em PAS sobre aquisição de créditos imobiliários com cobertura do FCVS pelo BRB – Banco de Brasília S.A. Imputação de um diretor passa de art. 155, II, para art. 154, caput, da Lei 6.404/1976; o acusado será intimado para aditamento. | cvm/colegiado/2016/col-20160726-d8565.md |
+
+### art. 264
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 264 | decisao-colegiado | 19957.007323/2019-71 | 2019-08-27 | deferido | deveres-administradores | Pedido de dispensa de laudos de avaliação a preços de mercado (art. 264 da Lei 6.404/76 e ICVM 565/15, art. 8º) na incorporação de ações da Natura por holding do grupo controlador. Área técnica entendeu não se justificar a exigência: sem minoritário afetado e com custo desproporcional ao benefício. | cvm/colegiado/2019/col-20190827-d1513.md |
+| art. 264 | decisao-colegiado | 19957.003336/2020-13 | 2020-06-24 | deferido | outros | Consulta da JSL S.A. sobre dispensa de laudos de avaliação (art. 264 da Lei 6.404/76) na incorporação de ações pela controladora Simpar, sem diluição de minoritários e com relação de troca de 1 para 1. Colegiado entendeu não se justificar exigir os laudos. | cvm/colegiado/2020/col-20200624-d1844.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2015/9136 | 2017-10-03 | deferido | opa | Recurso da CBD contra determinação da SRE de pagamento adicional, de no mínimo 80% do valor pago à Morzan em sentença arbitral, aos minoritários da Globex (Lei 6.404/1976, art. 254-A). Relator votou pelo provimento, por entender que a sentença não se estende aos minoritários e que a CVM não converte obrigação específica em indenização. | cvm/colegiado/2017/col-20171003-d0449.md |
+| decisao-colegiado | RJ2015/3234 | 2016-01-19 | indeferido | deveres-administradores | Companhia Providência Indústria e Comércio S.A.: recurso contra entendimento da SEP que considerou irregular a imputação à companhia de despesas da alienação de controle acionário (R$ 18.995.653,00, incluindo assessores e bônus de retenção). Voto do relator pelo indeferimento, com ressalva sobre dedução de custos do preço pago pela PGI. | cvm/colegiado/2016/col-20160119-d9648.md |
+
 ## lei-7
 
 ### Citada sem dispositivo identificado
@@ -80,12 +102,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.014289/2022-97 | 2024-04-30 | — | criptoativos | Nova retomada do recurso da Dynasty Global Investments BR contra parecer da SSE sobre a caracterização do token D¥Ns como valor mobiliário (art. 2º, IX, Lei 6.385/1976). Novas manifestações de voto, incluindo a do Presidente, e novo pedido de vista. | cvm/colegiado/2024/col-20240430-d3015.md |
 
 ## lei-8
-
-### art. 10
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Recurso do administrador de FII contra decisão da SSE que condicionou a distribuição de rendimentos à existência de lucro contábil, com base no art. 10, parágrafo único, da Lei 8.668/1993 e no Ofício-Circular SIN/SNC 1/2014. Provido parcialmente, por maioria, vencido um diretor. | cvm/colegiado/2021/col-20211221-d2388.md |
 
 ### Citada sem dispositivo identificado
 
@@ -130,12 +146,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 1º | decisao-colegiado | 19957.000887/2020-17 | 2022-03-22 | outro | deveres-administradores | Recurso do FIP Multiner contra decisão da SEP de não acusar administradores e acionista controlador da Multiner S.A. por deveres fiduciários e abuso de poder de controle (mútuos). Não conhecido por ausência de requisitos de admissibilidade (ICVM 607/2019, art. 4º, §4º). | cvm/colegiado/2022/col-20220322-d2120.md |
-
-### art. 23
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23, § 1º | decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | securitizacao | Recurso contra entendimento da SSE sobre CRA. Colegiado deu provimento quanto ao CRA de reembolso de despesas, com salvaguardas (especificação no termo, prazo de até 24 meses e verificação pelo agente fiduciário); negou provimento quanto à comprovação prévia com produtores rurais e à equiparação de agentes da cadeia agro. | cvm/colegiado/2022/col-20220913-d2642.md |
 
 ### Citada sem dispositivo identificado
 
@@ -664,6 +674,30 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 21 | decisao-colegiado | RJ2015/10253 | 2016-05-10 | indeferido | opa | Pedido de registro de OPA para cancelamento de registro, com dispensa de leilão (ICVM 361/2002, art. 4º, VII, e art. 12), formulado pelo controlador. Indeferido: custos do leilão pouco significativos frente ao valor da oferta e risco de prejuízo aos destinatários. | cvm/colegiado/2016/col-20160510-d0194.md |
 | art. 21 | decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | opa | Pedido de OPA para cancelamento de registro da Marina de Iracema Park S.A., pela controladora Indústria Naval do Ceará S.A., com dispensa de leilão, de edital e inversão simples do quórum (art. 34 da Instrução CVM 361/2002). Deferido, condicionado ao cumprimento dos arts. 47 e 48 da Instrução CVM 480/2009 quanto às debêntures do FINOR. | cvm/colegiado/2016/col-20160614-d0125.md |
 
+## lei-6385-1965
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.000570/2018-66 | 2019-12-03 | — | ofertas-publicas | Proposta de deliberação para alertar que a Biva Serviços Financeiros S.A. não está habilitada a ofertar publicamente contratos de investimento coletivo (RDBs vinculados a CCBs) em plataforma P2P, por oferta pública de valor mobiliário sem registro (Lei 6.385/76, art. 2º, IX, e art. 19). Propõe-se suspensão da oferta, sob multa. | cvm/colegiado/2019/col-20191203-d1626.md |
+
+## lei-6385-2001
+
+### art. 2º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º, inciso IX | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | deferido | ofertas-publicas | Recurso contra exigência da SRE, no pedido de dispensa de registro de contratos de investimento coletivo de empreendimento hoteleiro (Deliberação CVM 734/2015; arts. 20 e 27 da Instrução CVM 400/2003), que exigia direito de retratação a 75 adquirentes. Relator votou pelo deferimento, por falta de segurança jurídica quanto aos condo-hotéis antes do Alerta da CVM de 12/12/2013. | cvm/colegiado/2016/col-20160412-d0050.md |
+
+## lei-6385-2017
+
+### art. 11
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 11, § 4º | decisao-colegiado | 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | — | processual | Pedido de efeito suspensivo, pela recorrente, de condenação em PAS: multa de R$ 34.000.000,00 por oferta irregular (art. 19, Lei 6.385/1976) e proibição temporária de 102 meses por operação fraudulenta (ICVM 8/1979). Multa suspensa automaticamente (art. 72, RCVM 45/2021); voto por negar efeito suspensivo à proibição (art. 71). | cvm/colegiado/2023/col-20231219-d2820.md |
+
 ## lei-6386
 
 ### art. 15
@@ -677,6 +711,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | provido | securitizacao | Recurso contra exigência da SRE no registro de oferta de CRI da 1ª emissão da Barigui Securitizadora. Por maioria, provido para admitir como lastro de CRI instrumentos de empréstimo com alienação fiduciária de imóvel em garantia, divergindo da área técnica. Sustentação oral negada por unanimidade. | cvm/colegiado/2018/col-20180116-d0894.md |
+
+## lei-6404-1946
+
+### art. 163
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 163 | decisao-colegiado | RJ2014/12954 | 2016-09-06 | indeferido | deveres-administradores | Recurso da RJCP Equity S.A. contra entendimento da SEP: aumento de capital aprovado pelo Conselho de Administração exige parecer prévio do Conselho Fiscal (art. 166, §2º, da Lei 6.404/1976). Ofício-Circular não dispensa o parecer. Recurso indeferido. | cvm/colegiado/2016/col-20160906-d9442.md |
 
 ## lei-6435
 
@@ -928,6 +970,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Recurso do administrador de FII contra decisão da SSE que condicionou a distribuição de rendimentos à existência de lucro contábil, com base no art. 10, parágrafo único, da Lei 8.668/1993 e no Ofício-Circular SIN/SNC 1/2014. Provido parcialmente, por maioria, vencido um diretor. | cvm/colegiado/2021/col-20211221-d2388.md |
+
+## lei-8668-2013
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 
 ## lei-8685
 
@@ -1200,6 +1250,30 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 81, § 1º | decisao-colegiado | SP2014/0404 | 2017-04-18 | indeferido | deveres-administradores | Recurso contra entendimento da SEP que não identificou infração em doações eleitorais de companhias abertas (Braskem, Marcopolo, Itaú Unibanco e Iguatemi). Discute-se a competência decisória, a divulgação e os deveres fiduciários (art. 154, § 4º, da Lei 6.404/1976; art. 30, V, da Instrução CVM 480/2009). Voto pelo indeferimento. | cvm/colegiado/2017/col-20170418-d9658.md |
 
+## lei-9514-1976
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | securitizacao | Recurso contra entendimento da SSE sobre CRA. Colegiado deu provimento quanto ao CRA de reembolso de despesas, com salvaguardas (especificação no termo, prazo de até 24 meses e verificação pelo agente fiduciário); negou provimento quanto à comprovação prévia com produtores rurais e à equiparação de agentes da cadeia agro. | cvm/colegiado/2022/col-20220913-d2642.md |
+
+## lei-9514-1991
+
+### art. 8º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | 19957.010732/2022-51 | 2022-09-13 | deferido | securitizacao | Consulta com pedido de dispensa do Itaú BBA sobre a averbação, nas matrículas, de contratos de locação que lastreiam a destinação de recursos de debêntures da Americanas S.A. (CRI da 1ª série, 39ª emissão da Virgo Companhia de Securitização). Colegiado deferiu a dispensa, acompanhando a SSE; contratos que venham por substituição devem estar vigentes na data de emissão dos CRI. | cvm/colegiado/2022/col-20220913-d2684.md |
+
+## lei-9514-1999
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.000587/2016-51 | 2016-08-16 | deferido | securitizacao | Pedido da Brazil Realty Companhia Securitizadora de Créditos Imobiliários S.A. para dispensa dos incisos I e II do art. 6º da Instrução CVM 414/2004 na 1ª série da 5ª emissão de CRI, lastreados em debêntures sem risco de performance. Deferido por unanimidade, acompanhando a área técnica. | cvm/colegiado/2016/col-20160816-d0331.md |
+
 ## lei-9577
 
 ### Citada sem dispositivo identificado
@@ -1427,6 +1501,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 1º, § 4º, inciso XII | decisao-colegiado | 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | fundos-investimento | Recurso de gestora e administradoras contra decisão da SIN e SSE que não enquadrou Unidades de Crédito de Sustentabilidade como direitos creditórios (ICVM 356 e 444) nem como ativos financeiros (ICVM 555), determinando o encerramento de dois FIDCs que detinham apenas UCS. Área técnica propôs manter o entendimento. | cvm/colegiado/2021/col-20210817-d2274.md |
 | art. 1º, § 4º, inciso XIII | decisao-colegiado | 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | fundos-investimento | Recurso de gestora e administradoras contra decisão da SIN e SSE que não enquadrou Unidades de Crédito de Sustentabilidade como direitos creditórios (ICVM 356 e 444) nem como ativos financeiros (ICVM 555), determinando o encerramento de dois FIDCs que detinham apenas UCS. Área técnica propôs manter o entendimento. | cvm/colegiado/2021/col-20210817-d2274.md |
 
+## lei-11033-2014
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008144/2016-17; RJ2016/2365 | 2018-03-13 | indeferido | fundos-investimento | Pedido de reconsideração da Claritas Administração de Recursos contra decisão que indeferiu recurso sobre aquisição de cotas do Domo FII pelos fundos geridos pela Fram, na plataforma Fundos 21. Relator vota pelo não conhecimento (Deliberação CVM 463/2003, inciso IX) e pela apuração de irregularidades informacionais em oferta restrita de cotas. | cvm/colegiado/2018/col-20180313-d0329.md |
+
 ## lei-11074
 
 ### Citada sem dispositivo identificado
@@ -1435,6 +1517,28 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/3721 | 2020-07-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/3721. | cvm/colegiado/2020/col-20200721-d1856.md |
 
+## lei-11076-2009
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | provido | securitizacao | Recurso contra exigência da SRE no registro de oferta de CRI da 1ª emissão da Barigui Securitizadora. Por maioria, provido para admitir como lastro de CRI instrumentos de empréstimo com alienação fiduciária de imóvel em garantia, divergindo da área técnica. Sustentação oral negada por unanimidade. | cvm/colegiado/2018/col-20180116-d0894.md |
+
+## lei-11076-2014
+
+### art. 28
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 28 | decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | securitizacao | Recurso contra exigência da SRE em registro de oferta de CRA, sobre a previsão de variação do valor nominal dos direitos creditórios vinculados aos CDCA (art. 42 da Lei 11.076/2004). Colegiado, por maioria, não proveu o recurso, acompanhando as áreas técnicas. | cvm/colegiado/2021/col-20210909-d2300.md |
+
+### art. 42
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 42 | decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | securitizacao | Recurso contra exigência da SRE em registro de oferta de CRA, sobre a previsão de variação do valor nominal dos direitos creditórios vinculados aos CDCA (art. 42 da Lei 11.076/2004). Colegiado, por maioria, não proveu o recurso, acompanhando as áreas técnicas. | cvm/colegiado/2021/col-20210909-d2300.md |
+
 ## lei-11079
 
 ### Citada sem dispositivo identificado
@@ -1442,6 +1546,23 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | provido | securitizacao | Recurso contra exigência da SRE no registro de oferta de CRI da 1ª emissão da Barigui Securitizadora. Por maioria, provido para admitir como lastro de CRI instrumentos de empréstimo com alienação fiduciária de imóvel em garantia, divergindo da área técnica. Sustentação oral negada por unanimidade. | cvm/colegiado/2018/col-20180116-d0894.md |
+
+## lei-11101-2011
+
+### art. 142
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 142, inciso III | decisao-colegiado | 19957.002615/2020-51 | 2020-12-15 | — | deveres-administradores | Recurso de cotista de FIP contra decisão da SIN em reclamação sobre conflito de interesses de gestora e administradora na transferência de cotas classe A a parte relacionada, sem convocação de assembleia, e sobre exercício irregular de administração de carteira (Instrução CVM 558/15, art. 5º). SIN propõe manutenção da decisão e emissão de Ofício de Alerta. | cvm/colegiado/2020/col-20201215-d2016.md |
+
+## lei-11101-2015
+
+### art. 36
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 36, § 1º | decisao-colegiado | 19957.000196/2020-13 | 2020-02-18 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000196/2020-13. | cvm/colegiado/2020/col-20200218-d1725.md |
+| art. 36, § 3º | decisao-colegiado | 19957.000196/2020-13 | 2020-02-18 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000196/2020-13. | cvm/colegiado/2020/col-20200218-d1725.md |
 
 ## lei-11196
 
@@ -1889,6 +2010,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.000492/2019-81 | 2019-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000492/2019-81. | cvm/colegiado/2019/col-20190129-d1295.md |
+
+## lei-13506-1976
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 16/2010 | 2019-05-21 | — | processual | Pedido de efeito suspensivo a recurso contra inabilitação temporária de 60 meses imposta em PAS a administrador de companhia em recuperação judicial, por omissão quanto ao recebimento de mútuos com partes relacionadas (Lei 6.404/76, art. 155, II). Relator vota pelo desprovimento; recurso só no efeito devolutivo (Lei 13.506/17, art. 34, §2º). | cvm/colegiado/2019/col-20190521-d0337-2.md |
+| decisao-colegiado | 19957.001068/2017-91 | 2018-08-28 | — | processual | Pedido de reconsideração de decisão que não conheceu de pedido de efeito suspensivo contra condenação de administrador à inabilitação temporária por cinco anos (art. 11, IV, Lei 6.385/76) por infração ao art. 245 da Lei 6.404/76. Voto do relator: conhecer, reformar a decisão e indeferir o efeito suspensivo, por força do art. 34, §2º, da Lei 13.506/17. | cvm/colegiado/2018/col-20180828-d0798.md |
 
 ## lei-13576
 

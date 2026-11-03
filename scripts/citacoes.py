@@ -115,7 +115,7 @@ def _normalizar(texto):
 
 NUM = r"\d{1,3}(?:\.\d{3})+|\d+"
 NO = r"(?:n(?:\.\s?)?[º°o]?\.?\s?|n[úu]mero\s+)?"  # nº, n°, n. º, no, n.
-ANO = r"(?:\s?/\s?(?:\d{4}|\d{2})(?!\d))?"
+ANO = r"(?:\s?/\s?(?P<ano>\d{4}|\d{2})(?!\d))?"
 ORG_CVM = r"CVM|Comiss[ãa]o\s+de\s+Valores\s+Mobili[áa]rios"
 ORG_CMN = r"CMN|Conselho\s+Monet[áa]rio\s+Nacional"
 ORG_BCB = r"BCB|BACEN|Banco\s+Central(?:\s+do\s+Brasil)?"
@@ -130,7 +130,12 @@ RX_RES = re.compile(
     r"(?<![\w-])" + _i(r"resolu[çc][ãa]o") + r"(?P<conj>\s+" + _i("conjunta") + r")?"
     r"(?:\s+(?:d[oa]\s+)?(?P<org>" + _i(ORG_CVM) + "|" + _i(ORG_CMN) + "|" + _i(ORG_BCB) + r"))?"
     r"\s*,?\s*" + _i(NO) + r"(?P<num>" + NUM + r")(?!\d)" + ANO +
+    r"(?:" + _i(r",?\s+de\s+(?:\d{1,2}\.\d{1,2}\.\d{2,4}|\d{1,2}º?\s+de\s+[a-zç]+\s+de\s+\d{4}),?") + r")?"
     r"(?:,?\s+(?:d[oa]\s+)(?P<org2>" + _i(ORG_CVM) + "|" + _i(ORG_CMN) + "|" + _i(ORG_BCB) + r"))?")
+# "Resolução 454/77, com a redação dada pela Resolução 2.785/00, ambas do Conselho Monetário Nacional"
+RX_ORG_COLETIVO = re.compile(
+    r"(?:[^.;]|\.(?=\d)){0,160}?\b" + _i(r"(?:ambas|todas)\s+d[oa]s?\s+") +
+    r"(?P<org>" + _i(ORG_CVM) + "|" + _i(ORG_CMN) + r")")
 RX_SIGLA = re.compile(
     r"(?<![\w-])(?P<sig>RCVM|ICVM|IN\s?CVM|Res\.\s?CVM|Instr?\.\s?CVM|RCMN|Res\.\s?CMN|Res\.\s?BCB)"
     r"\s*" + _i(NO) + r"(?P<num>" + NUM + r")(?!\d)" + ANO)
@@ -191,6 +196,9 @@ def _rotulo_res(m):
     org = _org(m.group("org"))
     if org is None:
         org2 = _org(m.group("org2"))
+        if org2 not in ("cvm", "cmn"):
+            col = RX_ORG_COLETIVO.match(m.string, m.end())
+            org2 = _org(col.group("org")) if col else None
         org = org2 if org2 in ("cvm", "cmn") else ("cvm" if n < 1000 else "cmn")
     return "res-%s-%d" % (org, n)
 
@@ -222,8 +230,32 @@ def _rotulo_instr(m):
     return "icvm-%d" % n  # Instrução sem órgão: CVM
 
 
+# "Lei nº 6 6.404/76", "Lei 6.4 404/76", "Lei nO 6.385176": o número que a fonte (OCR, quebra
+# de linha) partiu ou sujou. Só se recupera número de lei do acervo.
+RX_NUM_PARTIDO = re.compile(r"[\d.,;]+(?: [\d.,;]+){0,2}")
+
+
+def _lei_recuperada(m):
+    """Lei do acervo cujo número começa os dígitos que seguem a menção, ou None."""
+    bruto = RX_NUM_PARTIDO.match(m.string, m.start("num"))
+    if not bruto:
+        return None
+    txt = re.sub(r"(\d) (?=\1)", "", bruto.group(0))  # dígito repetido na quebra: "6 6.404", "6.4 404"
+    digitos = re.sub(r"\D", "", txt)
+    leis = sorted((i[4:] for i in carregar_ids() if re.fullmatch(r"lei-\d{4,}", i)), key=len, reverse=True)
+    for n in leis:
+        if digitos.startswith(n) and len(n) > len(m.group("num").replace(".", "")):
+            return int(n)
+    return None
+
+
 def _rotulo_lei(m):
-    return ("lcp-%d" if m.group("comp") else "lei-%d") % _num(m.group("num"))
+    if m.group("comp"):
+        return "lcp-%d" % _num(m.group("num"))
+    n = _num(m.group("num"))
+    if n < 1000:
+        n = _lei_recuperada(m) or n
+    return "lei-%d" % n
 
 
 def _rotulo_decreto(m):
@@ -263,7 +295,7 @@ ESPECIE = {
 
 
 def _especie(rotulo):
-    m = re.fullmatch(r"(.+)-\d+", rotulo)
+    m = re.fullmatch(r"(.+?)-\d+(?:-\d{4})?", rotulo)  # "-2023": ano que não é o da norma do acervo
     if not m:
         return None
     return ESPECIE.get(m.group(1)) or ("instrucao" if m.group(1).startswith("in-") else None)
@@ -274,14 +306,58 @@ def _mencoes(t):
     achadas = []
     for rx, fn, _esp in MENCOES:
         for m in rx.finditer(t):
-            achadas.append((m.start(), m.end(), fn(m)))
+            ano = m.group("ano") if "ano" in rx.groupindex else None
+            achadas.append((m.start(), m.end(), fn(m), ano))
     achadas.sort(key=lambda x: (x[0], -(x[1] - x[0])))
     mencoes, fim = [], -1
-    for ini, f, rot in achadas:
+    for ini, f, rot, ano in achadas:
         if ini >= fim:
             mencoes.append({"ini": ini, "fim": f, "rotulo": rot, "parte": "",
-                            "impossivel": _impossivel(rot)})
+                            "impossivel": _impossivel(rot), "ano": ano})
             fim = f
+    return mencoes
+
+
+_anos_cache = {}
+
+
+def carregar_anos(caminho=NORMAS_JSON):
+    """{id: ano} das normas do acervo, pelo título ("Resolução CVM nº 17/2021" -> 2021)."""
+    if caminho not in _anos_cache:
+        anos = {}
+        if os.path.exists(caminho):
+            with open(caminho, encoding="utf-8") as f:
+                for i in json.load(f):
+                    m = re.search(r"/(\d{4})\b", i.get("titulo") or "")
+                    if m:
+                        anos[i["id"]] = int(m.group(1))
+        _anos_cache[caminho] = anos
+    return _anos_cache[caminho]
+
+
+def _ano_escrito(txt):
+    """Ano escrito na menção; None quando não é ano ("/7610": "/76" com a nota de rodapé 10)."""
+    a = int(txt)
+    if len(txt) == 2:
+        return a + (2000 if a <= 30 else 1900)
+    return a if 1900 <= a <= 2030 else None
+
+
+TOLERANCIA_ANO = 1
+
+
+def _ajustar_ano(mencoes, ids):
+    """Número com ano que não é o da norma do acervo ("Resolução CVM nº 17/2023", e a 17 é de
+    2021) não vira o id: fica fora:, com o rótulo como escrito (`fora:res-cvm-17-2023`). Ano a
+    1 de distância é erro de digitação comum da fonte ("Lei 6.385/75") e liga à norma."""
+    anos = carregar_anos()
+    for m in mencoes:
+        id_ = id_do_rotulo(m["rotulo"])
+        if not m.get("ano") or not id_ or id_ not in ids or id_ not in anos:
+            continue
+        ano = _ano_escrito(m["ano"])
+        if ano and abs(ano - anos[id_]) > TOLERANCIA_ANO:
+            m["rotulo"] = "%s-%d" % (m["rotulo"], ano)
     return mencoes
 
 
@@ -580,7 +656,7 @@ def extrair_citacoes(texto, ids=None, documento=None):
     if ids is None:
         ids = carregar_ids()
     t, mapa = _normalizar(texto)
-    mencoes = _resolver_anexos(t, _mencoes(t))
+    mencoes = _resolver_anexos(t, _ajustar_ano(_mencoes(t), ids))
     por_ini = {}
     for m in mencoes:  # a menção mais longa que começa na posição (anexo com a norma)
         if m["ini"] not in por_ini or m["fim"] > por_ini[m["ini"]]["fim"]:
@@ -636,7 +712,7 @@ def normas_mencionadas(texto, ids=None):
     if ids is None:
         ids = carregar_ids()
     t, _mapa = _normalizar(texto)
-    return list(dict.fromkeys(_norma(m["rotulo"], ids) for m in _resolver_anexos(t, _mencoes(t))
+    return list(dict.fromkeys(_norma(m["rotulo"], ids) for m in _resolver_anexos(t, _ajustar_ano(_mencoes(t), ids))
                               if not m.get("impossivel")))
 
 

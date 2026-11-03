@@ -10,10 +10,10 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 12-A, § 4º | Regulamento de Duplicata Escritural | regulamento | 2026-06-30 | autorregulacao/b3/regulamento-de-duplicata-escritural.md | Financiadores, conforme previsto no §4º do art. 12-A da Resolução BCB nº 339, de 24 de agosto de 2023; III - recepcionar e processar as informações |
+| art. 12-A, § 4º | Regulamento de Duplicata Escritural | regulamento | 2026-06-30 | autorregulacao/b3/regulamento-de-duplicata-escritural.md | conforme previsto no §4º do art. 12-A da Resolução BCB nº 339, de 24 de agosto de 2023; III - recepcionar e processar as informações relativas a |
 
 ## art. 30
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 30 | Regulamento de Duplicata Escritural | regulamento | 2026-06-30 | autorregulacao/b3/regulamento-de-duplicata-escritural.md | para fins de atendimento ao disposto no art. 30 da Resolução BCB nº 339, de 24 de agosto de 2023, firmada em 18 de novembro de 2024. “Digitador” O Digitador |
+| art. 30 | Regulamento de Duplicata Escritural | regulamento | 2026-06-30 | autorregulacao/b3/regulamento-de-duplicata-escritural.md | de atendimento ao disposto no art. 30 da Resolução BCB nº 339, de 24 de agosto de 2023, firmada em 18 de novembro de 2024. “Digitador” O Digitador é |

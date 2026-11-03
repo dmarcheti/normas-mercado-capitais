@@ -141,7 +141,6 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 55 | acordao-crsfn | RJ-2005-5272 | 2009-03-18 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Aquisição de ações preferenciais em subscrição privada – Prática infrativa de responsabilidade do gestor, credenciado na autoridade supervisora para o exercício de função dessa índole – Recurso improvido. | crsfn/2009/11435-2.md |
 | art. 55 | acordao-crsfn | RJ-2005-5272 | 2009-03-18 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Aquisição de ações preferenciais em subscrição privada – Prática infrativa de responsabilidade do gestor, credenciado na autoridade supervisora para o exercício de função dessa índole – Recurso improvido. | crsfn/2009/11435.md |
 
 ## art. 56

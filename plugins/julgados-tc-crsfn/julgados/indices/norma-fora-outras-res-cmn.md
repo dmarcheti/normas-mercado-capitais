@@ -108,6 +108,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 04/2012 | 2018-12-11 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Não informar à CVM e ao mercado a aquisição de mais de 10% de participação no capital social de Companhia. Compra de ações de emissão de Companhia fora dos mercados de bolsa e de balcão. Infração ao item I da Deliberação CVM nº 20/85. Recurso voluntário provido. Absolvição. Recurso de ofício provido. Pena de advertência. | crsfn/2018/14227.md |
 
+## res-cmn-961
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| termo-compromisso | 19957.000102/2019-72 | 2019-08-27 | aceito | exercicio-irregular | Proposta conjunta de termo de compromisso de três pessoas acusadas de exercer consultoria de valores mobiliários sem registro na CVM (art. 27, Lei 6.385/76; Instrução CVM 43/85, item I). Aceita, com pagamento de R$ 45.000,00 e compromisso de não atuar no mercado por cinco anos. | cvm/colegiado/2019/col-20190827-d1508.md |
+| termo-compromisso | 19957.002595/2017-13 | 2019-08-20 | outro | intermediacao | Propostas de termo de compromisso de corretora, seu diretor, agente autônomo, gestores de fundo e investidora acusados de prática não equitativa (Instrução CVM 08/79), quebra de sigilo, uso de celular e conta erro (Instrução CVM 497/11), consultoria sem registro (Instrução CVM 43/85) e falta de arquivamento de ordens (Instrução CVM 505/11, art. 13). Termos firmados. | cvm/colegiado/2019/col-20190820-d1286.md |
+| termo-compromisso | RJ2005/5038 | 2006-05-30 | rejeitado | administracao-carteiras | Propostas de termo de compromisso da SLW CVC Ltda., de seu representante legal e da Private Risk Management Ltda., por atuar como consultor ou administrador de carteira sem credenciamento na CVM (Instrução CVM 306/99, art. 3º; Lei 6.385/76, art. 23). Rejeitadas: não recompunham danos difusos ao mercado. | cvm/colegiado/2006/col-20060530-d03.md |
+
 ## res-cmn-1014
 
 ### Citada sem dispositivo identificado
@@ -228,6 +238,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS. Não conformidade dos trabalhos de auditoria em demonstrações financeiras. Auditoria Independente. Recursos conhecido e parcialmente providos. | crsfn/2020/10372-100018-2019-54.md |
+
+## res-cmn-1298
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | ofertas-publicas | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Esforço de colocação, a investidores residentes e domiciliados no Brasil, cotas emitidas por investidor estrangeiro registrado na CVM – Inserção, a destempo, em prospecto, de alerta relativo a restrição de participação, em fundo de investimento, de cotistas residentes e domiciliados no País – Acolhimento anterior pelo Plenário do CRSFN, para fins de juntada aos vertentes autos, de peça explicitadora das razões de defesa originais – Falta de suficientes elementos comprobatórios de deflagração de procedimentos voltados para subscrição de cotas em desarmonia com norma baixada pelo Conselho Monetário Nacional e de atendimento a cobrança de documentação formulada pela autoridade fiscalizadora – Ausência de má-fé – Irregularidades não caracterizadas – Apelos a que se dá provimento. | crsfn/2007/6255.md |
 
 ## res-cmn-1323
 

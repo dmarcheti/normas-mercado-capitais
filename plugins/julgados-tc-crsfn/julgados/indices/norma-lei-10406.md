@@ -524,7 +524,6 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1.368-D | acordao-crsfn | 19957.006688/2016-36; RJ2016/8375 | 2023-11-07 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS. CVM. FALHA NO DEVER DE GUARDA E MANUTENÇÃO DE DOCUMENTOS. FALHA NA VERIFICAÇÃO DE LASTRO DOS DIREITOS CREDITÓRIOS REPRESENTADOS POR OPERAÇÕES FINANCEIRAS, COMERCIAIS E DE SERVIÇOS. FALHA DE SUPERVISÃO DAS ATIVIDADES DE CUSTÓDIA DESEMPENHADAS PELOS PRESTADORES DE SERVIÇOS DO FUNDO DE INVESTIMENTO. Infrações caraterizadas. Ajuste na dosimetria da pena. Recursos conhecidos, parciais provimentos e desprovimento. | crsfn/2023/10372-100083-2022-85-2.md |
 | art. 1.368-D | acordao-crsfn | 19957.006688/2016-36; RJ2016/8375 | 2023-11-07 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS. CVM. FALHA NO DEVER DE GUARDA E MANUTENÇÃO DE DOCUMENTOS. FALHA NA VERIFICAÇÃO DE LASTRO DOS DIREITOS CREDITÓRIOS REPRESENTADOS POR OPERAÇÕES FINANCEIRAS, COMERCIAIS E DE SERVIÇOS. FALHA DE SUPERVISÃO DAS ATIVIDADES DE CUSTÓDIA DESEMPENHADAS PELOS PRESTADORES DE SERVIÇOS DO FUNDO DE INVESTIMENTO. Infrações caraterizadas. Ajuste na dosimetria da pena. Recursos conhecidos, parciais provimentos e desprovimento. | crsfn/2023/10372-100083-2022-85.md |
 
 ## art. 1.417

@@ -7,13 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0017.md](../../../normas/normas/cvm/resolucoes/0017.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
-## art. 25
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25, inciso IV | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | exercicio-irregular | Apurar infrações, por agente autônomo de investimentos, ao art. 23 da Lei nº 6.385/1976 c/c art. 2º da Instrução CVM nº 558/2015 c/c art. 13, inciso IV, da Instrução CVM nº 497/2011, pelo exercício irregular da administração de carteira de valores mobiliários; e ao art. 10 da Instrução CVM nº 497/2011, por manter clientes em erro sobre a situação de seus investimentos. Multa, Proibição Temporária. | cvm/pas/2024/19957-002296-2020-84.md |
-| art. 25, inciso IV | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | manipulacao-fraude | Apurar infrações ao art. 3º da Instrução 306/1999 e art. 2º da Instrução CVM nº 558/2015, c/c art. 23, caput, da Lei nº 6.385/1976, pela administração irregular de carteiras de valores mobiliários, e ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores mobiliários. Multas e Proibição Temporária. | cvm/pas/2025/19957-001450-2022-62.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

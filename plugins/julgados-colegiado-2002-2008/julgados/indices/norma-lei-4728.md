@@ -44,14 +44,6 @@ Norma: [leis/lei-04728.md](../../../normas/normas/leis/lei-04728.md) (texto vige
 |---|---|---|---|---|---|---|---|
 | art. 44, § 8º | decisao-colegiado | RJ2007/11413 | 2008-04-15 | indeferido | outros | Pedido de autorização para aquisição, por controlada, de debêntures conversíveis da controladora, com conversão e alienação imediata das ações (Instrução CVM 168/91). Colegiado não autorizou, por vedação legal à participação recíproca sem lucros ou reservas suficientes (art. 30, §1º, b, da Lei das S.A.). | cvm/colegiado/2008/col-20080415-d12.md |
 
-## art. 47
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-09-23 | — | assembleia-acionistas | Consulta do Unibanco sobre bonificação de ações em tesouraria. Relator votou que a Lei 6.404/76 e a Instrução CVM 10/80 não permitem bonificar ações em tesouraria; pedido de vista impede conclusão no recorte. | cvm/colegiado/2008/col-20080923-d01.md |
-| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-11-04 | — | assembleia-acionistas | Consulta do Unibanco S.A. e Unibanco Holdings S.A. sobre bonificação de ações mantidas em tesouraria (Instrução CVM 10/80, art. 16; Lei 6.404/76, art. 30, §4º). Votos divergentes; pedido de vista adiou a decisão. | cvm/colegiado/2008/col-20081104-d14.md |
-| art. 47 | decisao-colegiado | RJ2008/6446 | 2008-11-25 | outro | outros | Consulta de companhia sobre bonificação de ações em tesouraria. Por maioria, o Colegiado entendeu que essas ações devem ser bonificadas e determinou a correção da Nota Explicativa à Instrução CVM 10/80, que vedava a bonificação. | cvm/colegiado/2008/col-20081125-d03.md |
-
 ## art. 48
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -96,6 +88,9 @@ Norma: [leis/lei-04728.md](../../../normas/normas/leis/lei-04728.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2008/6446 | 2008-11-25 | outro | outros | Consulta de companhia sobre bonificação de ações em tesouraria. Por maioria, o Colegiado entendeu que essas ações devem ser bonificadas e determinou a correção da Nota Explicativa à Instrução CVM 10/80, que vedava a bonificação. | cvm/colegiado/2008/col-20081125-d03.md |
+| decisao-colegiado | RJ2008/6446 | 2008-11-04 | — | assembleia-acionistas | Consulta do Unibanco S.A. e Unibanco Holdings S.A. sobre bonificação de ações mantidas em tesouraria (Instrução CVM 10/80, art. 16; Lei 6.404/76, art. 30, §4º). Votos divergentes; pedido de vista adiou a decisão. | cvm/colegiado/2008/col-20081104-d14.md |
+| decisao-colegiado | RJ2008/6446 | 2008-09-23 | — | assembleia-acionistas | Consulta do Unibanco sobre bonificação de ações em tesouraria. Relator votou que a Lei 6.404/76 e a Instrução CVM 10/80 não permitem bonificar ações em tesouraria; pedido de vista impede conclusão no recorte. | cvm/colegiado/2008/col-20080923-d01.md |
 | decisao-colegiado | RJ2006/8566 | 2007-02-26 | outro | ofertas-publicas | Consulta do Unibanco sobre cédulas de debêntures não vinculadas. Quando ofertadas publicamente, são valores mobiliários (art. 2º, IV, Lei 6.385/76). Colocação em lote único nos moldes propostos não caracteriza oferta pública, dispensada do registro. Sem tratamento confidencial. | cvm/colegiado/2007/col-20070226-d01.md |
 | decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | fundos-investimento | Recurso do Banco JP Morgan contra indeferimento pela SIN de incorporação de três fundos por um fundo cancelado. Colegiado, pelo voto do relator, entendeu não haver fundamento legal para vedar incorporação por fundo cancelado por patrimônio líquido abaixo do mínimo; deu provimento. | cvm/colegiado/2007/col-20070214-d02.md |
 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Consulta da SRE sobre distribuição privada de cotas de FIP e FIDC. Colegiado concluiu que a CVM só registra fundos com distribuição pública, determinou revisão da Instrução 409/04 e acompanhou o voto do relator. | cvm/colegiado/2006/col-20060221-d01.md |

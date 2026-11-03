@@ -8,6 +8,14 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## res-cvm-1-2016
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.006626/2020-19 | 2021-07-20 | — | processual | Expediente da BSM pedindo aprovação de alterações em seu Regulamento Processual. A SMI propõe autorizar as mudanças, exceto o efeito vinculante das respostas a consultas (art. 2º, §3º) e a comunicação ao investigado sobre informes ao Conselho de Supervisão (art. 8º). | cvm/colegiado/2021/col-20210720-d2235.md |
+
 ## res-cvm-2
 
 ### art. 85
@@ -86,6 +94,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.001391/2021-41 | 2021-03-31 | outro | fundos-investimento | Aprovada a Resolução CVM 26/2021, que posterga prazos de entrega de informações de fundos de investimento e do formulário de referência de administradores de carteiras, a pedido da ANBIMA, em razão de feriados antecipados e da pandemia de COVID-19. Vigência na data de publicação. | cvm/colegiado/2021/col-20210331-d2130.md |
 
+## res-cvm-31-2025
+
+### Anexo A, art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| Anexo A art. 1º | decisao-colegiado | 19957.015727/2022-34 | 2025-11-25 | indeferido | infraestrutura-mercado | Pedido da CERC S.A. de autorização para prestar serviço de depósito centralizado de CR, CRA, CRI, debêntures e notas comerciais de distribuição pública (RCVM 31/2025). A SMI concluiu pelo atendimento dos requisitos e recomendou plano de segregação de supervisores e usuários em 30 dias. Julgamento suspenso por pedido de vista. | cvm/colegiado/2025/col-20251125-d3332.md |
+| Anexo A art. 1º | decisao-colegiado | 19957.015727/2022-34 | 2025-12-02 | deferido | infraestrutura-mercado | Concedida, por unanimidade, autorização à CERC S.A. para prestar serviço de depósito centralizado de CR, CRA, CRI, debêntures e notas comerciais de distribuição pública (RCVM 31/2025), nos termos do Ofício Interno SMI 7/2025, incluído o plano de segregação de supervisores e usuários em 30 dias. | cvm/colegiado/2025/col-20251202-d3332.md |
+
 ## res-cvm-39
 
 ### art. 2º
@@ -107,7 +124,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-11 | outro | fundos-investimento | Aprovou a Resolução CVM 214/2024, que acrescenta o Anexo VI à Resolução CVM 175/22 para FIAGRO: permite derivativos (proteção patrimonial), caixa, créditos de carbono e CBIO; AIR dispensada. | cvm/colegiado/2024/col-20240911-d2242.md |
 | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | — | fundos-investimento | Recurso de gestora contra entendimento da SSE de que FII e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais (Lei 13.986/2020), por não se enquadrarem no art. 45 da Instrução CVM 472/2008. Parecer PFE-CVM 15/2021 respalda a conclusão. Área técnica propôs manter o entendimento. | cvm/colegiado/2021/col-20211026-d2359.md |
 | decisao-colegiado | 19957.004974/2021-24 | 2021-07-01 | outro | fundos-investimento | Colegiado aprovou a Resolução CVM 39/2021, que institui regime transitório e experimental de registro de funcionamento de FIAGRO, conforme a Lei 14.130/2021 (arts. 4º e 20-A da Lei 8.668/1993). Não houve audiência pública nem análise de impacto regulatório, por decorrer de norma superior. | cvm/colegiado/2021/col-20210701-d2242.md |
-| decisao-colegiado | RJ2014/13261 | 2016-06-28 | — | ofertas-publicas | Consulta do Banco Itaú BBA S.A. e outro, tratada em conjunto com consultas da ANBIMA e da BM&FBOVESPA, sobre lote suplementar e estabilização de preço em ofertas com esforços restritos (Instrução CVM 476/2009). Voto do relator admite o lote suplementar, não admite exclusão de prioridade dos acionistas quanto à parte usada na estabilização e não admite estabilização sem norma específica. | cvm/colegiado/2016/col-20160628-d9828.md |
 
 ## res-cvm-40
 
@@ -130,6 +146,38 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 01/2021; 19957.003823/2021-59 | 2021-07-21 | outro | contabil-demonstracoes | Colegiado aprovou a Resolução CVM 41/2021, após a Audiência Pública SNC 01/2021, que revisa o CPC 18 para prorrogar o expediente prático não mandatório de benefícios da COVID-19 a arrendatários, em linha com a IFRS 16. | cvm/colegiado/2021/col-20210721-d2164.md |
+
+## res-cvm-43-2001
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.010275/2017-37 | 2017-11-14 | deferido | ofertas-publicas | Anuência da CVM, nos termos do art. 1º da Resolução CMN 2.391/1997, à 11ª emissão privada de debêntures simples com garantia real da COPASA, em duas séries subscritas pelo BNDES e pela BNDESPAR, no valor de R$ 226.448.640,00. Área técnica verificou ausência de agente fiduciário e de anuência de órgão regulador. | cvm/colegiado/2017/col-20171114-d0849.md |
+
+## res-cvm-45-2001
+
+### art. 4º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 4º, § 8º | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | — | deveres-administradores | Recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP que afastou acusação, em reclamação, contra administradores e acionistas controladores da JBS S.A. por infrações à LSA (arts. 156 e 246). Discute a ação de responsabilidade contra o controlador. | cvm/colegiado/2023/col-20230228-d2672.md |
+
+### art. 70
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 70 | decisao-colegiado | 19957.004381/2021-68 | 2023-05-16 | outro | processual | Embargos de declaração contra condenação em PAS (Monetar DTVM e outro) alegando obscuridade e omissão quanto às ações judiciais, ao cálculo das penas-base e às atenuantes. Não cabem embargos pela Resolução CVM 45/2021, e a decisão era motivada. Voto pelo não conhecimento. | cvm/colegiado/2023/col-20230516-d2479.md |
+| art. 70 | decisao-colegiado | 19957.004416/2016-00; 19957.009023/2023-11 | 2023-09-05 | — | processual | Pedido de efeito suspensivo, formulado pelo recorrente, à inabilitação temporária de 120 meses imposta em PAS por infração ao art. 154, caput e §2º, c/c art. 152, da Lei 6.404/1976, pendente de recurso ao CRSFN (art. 71 da Resolução CVM 45/2021). Relator votou pelo não provimento e rejeitou alegação de bis in idem. | cvm/colegiado/2023/col-20230905-d1498.md |
+| art. 70 | decisao-colegiado | 19957.002835/2022-47; 19957.015162/2023-76 | 2023-12-19 | — | processual | Pedido de efeito suspensivo, pela recorrente, de condenação em PAS: multa de R$ 34.000.000,00 por oferta irregular (art. 19, Lei 6.385/1976) e proibição temporária de 102 meses por operação fraudulenta (ICVM 8/1979). Multa suspensa automaticamente (art. 72, RCVM 45/2021); voto por negar efeito suspensivo à proibição (art. 71). | cvm/colegiado/2023/col-20231219-d2820.md |
+
+## res-cvm-46-2001
+
+### art. 15
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 15 | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | — | deveres-administradores | Recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP que afastou acusação, em reclamação, contra administradores e acionistas controladores da JBS S.A. por infrações à LSA (arts. 156 e 246). Discute a ação de responsabilidade contra o controlador. | cvm/colegiado/2023/col-20230228-d2672.md |
 
 ## res-cvm-58
 
@@ -159,6 +207,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003690/2017-34 | 2023-04-11 | — | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. 19957.003690/2017-34. | cvm/colegiado/2023/col-20230411-d0677.md |
 | decisao-colegiado | 400/2003; 476/2009; 480/2009; 588/2017; 6/2020; 8/2020; 54/2021; 19957.006333/2020-23 | 2021-12-22 | outro | multa-cominatoria-taxa | Proposta de resolução. Proc. SEI 19957.006333/2020-23. | cvm/colegiado/2021/col-20211222-d2457.md |
+
+## res-cvm-62-2024
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008361/2023-28 | 2024-10-29 | — | manipulacao-fraude | Recurso de fundo multimercado contra o Parecer Técnico 85/2024 da SMI, que encerrou reclamação sobre suposta manipulação de preços de ativo por gestora de fundos. Segundo a área técnica, as operações não tiveram efeito atípico sobre os preços e não há justa causa para diligências adicionais. | cvm/colegiado/2024/col-20241029-d3162.md |
 
 ## res-cvm-63
 
@@ -209,6 +265,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | normativo | Aprovada a Resolução CVM 79/2022, que revoga normas obsoletas (ICVM 200/1993, 280/1998 e 424/2005, Deliberação CVM 475/2004 e itens da Resolução CVM 51/2001), com dispensa de AIR (art. 4º, IV, Decreto 10.411/2020). | cvm/colegiado/2022/col-20220323-d2538.md |
 
+## res-cvm-81-2002
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | deferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | cvm/colegiado/2026/col-20260428-d3526.md |
+| decisao-colegiado | 19957.014411/2024-97 | 2024-09-17 | indeferido | assembleia-acionistas | Pedido de acionista para interromper o prazo de convocação de AGE da Mobly, que deliberaria aumento de capital vinculado à aquisição da Tok&Stok, alegando ilegalidade do preço de emissão e da integralização em bens (art. 124, §5º, II, Lei 6.404/76). Colegiado indeferiu, acompanhando a área técnica. | cvm/colegiado/2024/col-20240917-d3138.md |
+
 ## res-cvm-83
 
 ### Citada sem dispositivo identificado
@@ -224,6 +289,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 59/2021; 19957.009725/2021-25 | 2022-03-30 | outro | normativo | Colegiado aprovou a Resolução CVM 87/2022, que republica a Resolução CVM 59/2021 para adequá-la às Resoluções CVM 80 e 81/2022, que substituíram as Instruções CVM 480 e 481/2009. Sem mudança de mérito; sem consulta pública; dispensa automática de AIR (art. 4º, IV, Decreto 10.411/2020). | cvm/colegiado/2022/col-20220330-d2516.md |
+
+## res-cvm-88-2002
+
+### art. 51
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 51 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | registro-emissor | Recurso contra exigência da SEP de comprovação do art. 51 da RCVM 80/2022 como condição para analisar o cancelamento de registro de companhia aberta categoria B da XP Investimentos S.A., quanto a debêntures lastro de CRI sem negociação. Colegiado deu provimento e dispensou a comprovação. | cvm/colegiado/2025/col-20250916-d3313.md |
 
 ## res-cvm-98
 
@@ -296,6 +369,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 88/2022; 19957.005349/2022-81 | 2022-06-28 | deferido | crowdfunding | Edição da Resolução CVM 158/2022, que altera pontualmente a Resolução CVM 88/2022 (crowdfunding de investimento): limita a negociação secundária a investidores atuais de sociedades de pequeno porte e posterga o controle de titularidade para ofertas iniciadas após 90 dias. Vigência imediata por urgência. | cvm/colegiado/2022/col-20220628-d2636.md |
+
+## res-cvm-160-2024
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.019375/2024-58 | 2025-03-18 | — | securitizacao | Consulta da ANBIMA sobre os arts. 43-A e 51 da RCVM 60/2021 e o Anexo E da RCVM 160/2022: demonstrações financeiras auditadas de devedores e coobrigados acima de 20% dos direitos creditórios, inclusive consolidadas e de pessoas físicas. Área técnica propõe acomodação interpretativa ou revisão normativa pela SDM. | cvm/colegiado/2025/col-20250318-d3233.md |
 
 ## res-cvm-162
 
@@ -570,6 +651,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | — | fundos-investimento | Consulta sobre recompra de cotas próprias por FII e Fiagro (Lei 8.668/1993, art. 12, IV; RCVM 175, art. 110). A SSE entende que a aquisição para cancelamento não se enquadra na vedação. O voto ressalta que a OPAC sobre cotas próprias não pode substituir programa de recompra, prevalecendo a substância, e que administrador e gestor devem observar deveres fiduciários. | cvm/colegiado/2025/col-20250520-d3280.md |
 | decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-11 | outro | fundos-investimento | Aprovou a Resolução CVM 214/2024, que acrescenta o Anexo VI à Resolução CVM 175/22 para FIAGRO: permite derivativos (proteção patrimonial), caixa, créditos de carbono e CBIO; AIR dispensada. | cvm/colegiado/2024/col-20240911-d2242.md |
+
+## res-cvm-215-2022
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008951/2024-31 | 2025-07-29 | provido | opa | Recursos contra decisão da SRE que determinou OPA por aumento de participação na Ambipar Participações e Empreendimentos S.A. (RCVM 85/2022, art. 30, §§2º e 5º), por aquisições feitas entre junho e julho de 2024. Colegiado, por maioria, deu provimento por não haver elementos suficientes de pessoa vinculada ou atuação conjunta com o controlador. | cvm/colegiado/2025/col-20250729-d3287.md |
 
 ## res-cvm-216
 

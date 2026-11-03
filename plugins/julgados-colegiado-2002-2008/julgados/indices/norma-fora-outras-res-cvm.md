@@ -8,6 +8,23 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## res-cvm-1-1997
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+| decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
+
+## res-cvm-1-2003
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | SP2001/0227 | 2003-05-13 | indeferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
+
 ## res-cvm-2
 
 ### Citada sem dispositivo identificado
@@ -24,6 +41,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | cvm/decisoes-antigas/1981.md |
+
+## res-cvm-30-2004
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2004/7164 | 2005-03-01 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento para administração de carteira de valores mobiliários, por falta de experiência profissional (art. 4º, II, da Instrução CVM 306/99). Notório saber e elevada qualificação (§2º do mesmo artigo) não comprovados; recurso julgado improcedente. | cvm/colegiado/2005/col-20050301-d09.md |
 
 ## res-cvm-39
 
@@ -133,6 +158,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2004/4232 | 2004-08-18 | deferido | ofertas-publicas | Pedido de aprovação de procedimento de estabilização de preço e de dispensas na distribuição secundária de ações preferenciais da WEG S.A., com ofertantes Bradesco Templeton (fundo FVL), Previ e BNDES (FPS). Colegiado deferiu as dispensas pleiteadas, inclusive a do art. 9º da Instrução CVM 10/80 quanto à alienação de ações em tesouraria. | cvm/colegiado/2004/col-20040818-d04.md |
 | decisao-colegiado | 236/2003 | 2003-11-18 | deferido | ofertas-publicas | Aprovação de contrato de estabilização de preço das ações preferenciais da Suzano Papel e Celulose no âmbito de distribuição pública primária e secundária, conduzido pelo Banco UBS. Colegiado aprovou nos termos da minuta; o procedimento pode configurar manipulação de preço e exige análise caso a caso. | cvm/colegiado/2003/col-20031118-d06.md |
 
+## res-cvm-49-1995
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2004/6511 | 2005-03-08 | indeferido | contabil-demonstracoes | Pedido de reconsideração de decisão que determinou refazer e republicar as demonstrações de 31.12.03 da Indústrias Arteb S.A. Indeferido quanto à ativação de crédito-prêmio do IPI (R$ 23,2 milhões): discussão judicial pendente e não conformidade ao Parecer de Orientação 15/87 e à Interpretação Técnica IBRACON 03/02, pelo conservadorismo. | cvm/colegiado/2005/col-20050308-d02.md |
+
 ## res-cvm-83
 
 ### Citada sem dispositivo identificado
@@ -140,6 +173,22 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
+
+## res-cvm-91-2001
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2003/4306 | 2003-12-16 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração da Companhia Energética de Brasília S.A. contra decisão que manteve multas cominatórias por atraso na entrega de ITRs e DFP de 2001 e 2002 (Instrução CVM 202/93; Deliberação CVM 463/03). Indeferido por não trazer fatos novos. | cvm/colegiado/2003/col-20031216-d02.md |
+
+## res-cvm-101-1999
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2002/5718 | 2004-11-30 | outro | assembleia-acionistas | Pedido de reconhecimento do direito de voto de fundos minoritários para eleger conselheiros de Telemig e Tele Norte, suspenso por decisões judicial e da Anatel, com atuação da CVM como amicus curiae. Processo baixado em diligência para a SEP oficiar a Anatel. | cvm/colegiado/2004/col-20041130-d01.md |
 
 ## res-cvm-118
 
@@ -149,6 +198,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/0322 | 2007-01-30 | nao-provido | auditoria-independente | Recurso da Sul América Companhia Nacional de Seguros contra decisão da SNC sobre prazo do rodízio de auditor independente. Colegiado negou provimento: prevalece a Instrução CVM 308/99 sobre a Resolução CNSP 118/04, por ser companhia aberta, sem conflito aparente de normas. | cvm/colegiado/2007/col-20070130-d08.md |
 
+## res-cvm-150-1980
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | cvm/decisoes-antigas/1980.md |
+
 ## res-cvm-168
 
 ### Citada sem dispositivo identificado
@@ -156,6 +213,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
+
+## res-cvm-172-1982
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-antiga | — | 1982-01-07 | — | — | Decisões do colegiado de 1982. | cvm/decisoes-antigas/1982.md |
 
 ## res-cvm-195
 
@@ -174,6 +239,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 2º | decisao-colegiado | RJ2000/4801 | 2002-02-14 | indeferido | processual | Pedido de reconsideração da corretora Walpires S.A. contra decisão do Colegiado que determinou indenização pelo Fundo de Garantia da Bovespa. Não cabe novo recurso fora do inciso VII da Deliberação CVM 202/96, e não há erro, contradição ou dúvida na decisão. Indeferido. | cvm/colegiado/2002/col-20020214-d03.md |
 | art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
+## res-cvm-211-2001
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2002/2713 | 2002-08-30 | nao-provido | contabil-demonstracoes | Recurso da AES Tietê S.A. contra determinação da SEP de refazer e republicar demonstrações de 2001. Receita de R$ 53.132 mil de energia livre (Acordo Geral do Setor Elétrico) só pode ser reconhecida quando definitivamente realizável; controvérsia ainda pendente. Mantida a determinação; recurso não provido. | cvm/colegiado/2002/col-20020830-d04.md |
+
 ## res-cvm-231
 
 ### Citada sem dispositivo identificado
@@ -181,6 +254,23 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1982-01-07 | — | — | Decisões do colegiado de 1982. | cvm/decisoes-antigas/1982.md |
+
+## res-cvm-238-1972
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | Pedido da SMI de reconsideração para uniformizar a autorização de agente autônomo de investimento. Colegiado manteve a exigência de comprovação de credenciamento por contrato com corretora, para pessoas registradas no RGA em 1º/06/2001 (Instrução CVM 355/01, art. 21, III). | cvm/colegiado/2005/col-20050408-d02.md |
+| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+## res-cvm-238-1994
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | SP2002/0562 | 2005-04-08 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0562. | cvm/colegiado/2005/col-20050408-d05.md |
 
 ## res-cvm-259
 
@@ -385,9 +475,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/4747 | 2007-10-02 | provido | administracao-carteiras | Recurso contra indeferimento pela SIN de credenciamento como consultora de valores mobiliários. Para o Relator, a Instrução CVM 306/99 não se aplica, nem por analogia; a experiência no mercado de valores mobiliários exigida pela Instrução CVM 43/85 estaria comprovada. Colegiado deu provimento ao recurso. | cvm/colegiado/2007/col-20071002-d08.md |
-| decisao-colegiado | RJ2005/0131 | 2005-03-08 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários por falta de experiência no mercado de capitais (inciso II da Instrução CVM 43/85). O decurso do prazo de análise não supre a falta de requisito; recurso negado. | cvm/colegiado/2005/col-20050308-d04.md |
-| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | cvm/decisoes-antigas/1984.md |
 
 ## res-cvm-669
@@ -432,15 +519,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1983-02-03 | — | — | Decisões do colegiado de 1983. | cvm/decisoes-antigas/1983.md |
-
-## res-cvm-961
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ1999/3663 | 2007-07-10 | outro | administracao-carteiras | Consulta da SIN sobre exigência de credenciamento específico para administrador de carteira exercer consultoria de valores mobiliários. Não é ilícito, à luz da Instrução CVM 43/85, não revogada no particular, mas a pessoa jurídica deve segregar as atividades e ter um responsável para cada uma. | cvm/colegiado/2007/col-20070710-d19.md |
-| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## res-cvm-989
 

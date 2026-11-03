@@ -8,6 +8,14 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## po-cvm-35-2020
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 607/2019; 19957.010563/2018-72 | 2020-03-03 | outro | processual | Recurso de gestoras e outros contra decisão da SEP que considerou inadmissível recurso sobre o não lavramento de termo de acusação em reclamações de suposta manipulação de preços e abuso de poder de controle na Smiles Fidelidade S.A. O Colegiado não conheceu do recurso, por não atender ao art. 4º, §4º, da Instrução CVM 607/19. | cvm/colegiado/2020/col-20200303-d1666.md |
+
 ## po-cvm-3661
 
 ### Citada sem dispositivo identificado

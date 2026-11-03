@@ -12,8 +12,5 @@ Norma: [cvm/resolucoes/0001.md](../../../normas/normas/cvm/resolucoes/0001.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ90/0387 | 2005-04-12 | provido | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm/colegiado/2005/col-20050412-d03.md |
-| decisao-colegiado | SP2001/0227 | 2003-05-13 | indeferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
-| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
-| decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |

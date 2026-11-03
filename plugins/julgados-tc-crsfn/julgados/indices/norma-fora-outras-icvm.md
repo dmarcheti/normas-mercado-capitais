@@ -2022,6 +2022,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 13, inciso I, alínea c | acordao-crsfn | SP-2014-14 | 2019-11-27 | parcial | intermediacao | RECURSO VOLUNTÁRIO. Utilização de pessoas não integrantes do sistema de distribuição de valores mobiliários nas atividades próprias dos integrantes deste sistema. Descumprimento do dever de supervisão sobre os atos praticados por agente autônomo de investimento. Infrações configuradas. Incidência de Multa. | crsfn/2019/10372-100294-2018-31.md |
 
+## icvm-489-2005
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| acordao-crsfn | 03/2011 | 2023-08-09 | absolvicao | auditoria-independente | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA COMPOSIÇÃO E DIVULGAÇÃO DE CONTINGÊNCIAS JUDICIAIS EM DEMONSTRAÇÕES FINANCEIRAS. FALHA NO TRABALHO DE AUDITORIA. Irregularidades afastadas. Absolvições. Recursos conhecidos e providos. | crsfn/2023/10372-100285-2019-21.md |
+
 ## icvm-490
 
 ### art. 29

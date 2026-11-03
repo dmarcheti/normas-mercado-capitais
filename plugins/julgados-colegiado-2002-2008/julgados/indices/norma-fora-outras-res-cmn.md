@@ -155,7 +155,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2008/0296; RJ2008/1839; RJ2008/4324 | 2008-08-19 | outro | administracao-carteiras | Consulta da SIN sobre critérios de credenciamento de consultores de valores mobiliários (Instrução CVM 43/85; Instrução CVM 306/99; Resolução CMN 3.041/02; Lei 9.784/99): documentos exigidos de pessoas físicas e jurídicas, em caráter transitório até nova regulamentação. | cvm/colegiado/2008/col-20080819-d06.md |
+| decisao-colegiado | RJ2007/4747 | 2007-10-02 | provido | administracao-carteiras | Recurso contra indeferimento pela SIN de credenciamento como consultora de valores mobiliários. Para o Relator, a Instrução CVM 306/99 não se aplica, nem por analogia; a experiência no mercado de valores mobiliários exigida pela Instrução CVM 43/85 estaria comprovada. Colegiado deu provimento ao recurso. | cvm/colegiado/2007/col-20071002-d08.md |
 | decisao-colegiado | RJ2005/0131 | 2005-03-08 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como consultor de valores mobiliários por falta de experiência no mercado de capitais (inciso II da Instrução CVM 43/85). O decurso do prazo de análise não supre a falta de requisito; recurso negado. | cvm/colegiado/2005/col-20050308-d04.md |
+| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## res-cmn-607
 
@@ -221,6 +223,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1983-02-03 | — | — | Decisões do colegiado de 1983. | cvm/decisoes-antigas/1983.md |
+
+## res-cmn-961
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ1999/3663 | 2007-07-10 | outro | administracao-carteiras | Consulta da SIN sobre exigência de credenciamento específico para administrador de carteira exercer consultoria de valores mobiliários. Não é ilícito, à luz da Instrução CVM 43/85, não revogada no particular, mas a pessoa jurídica deve segregar as atividades e ter um responsável para cada uma. | cvm/colegiado/2007/col-20070710-d19.md |
+| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## res-cmn-1002
 

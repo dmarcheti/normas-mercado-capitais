@@ -294,6 +294,42 @@ class TestConverter(Base):
                                          "que votou por dar parcial provimento."), "condenacao")
 
 
+class TestDuplicatas(Base):
+    """Mesmo sha256 da fonte (logo, mesmo corpo) é um julgado só: o id sem sufixo."""
+
+    def setUp(self):
+        super().setUp()
+        dup = item(2005, "2005/250a-sessao-de-julgamento/recurso-5279-republicado", "Recurso 5279", 5279)
+        self.inv.append(dup)
+        with open(self.cam["inventario"], "w", encoding="utf-8") as f:
+            json.dump({"n": len(self.inv), "itens": self.inv}, f)
+        self.cli.rotas[dup["item_url"] + "/@@download/file"] = self.cli.rotas[I2005["item_url"] + "/@@download/file"]
+        PdfFalso.TEXTOS["crsfn-5279-2.pdf"] = PdfFalso.TEXTOS["crsfn-5279.pdf"]
+        self.addCleanup(PdfFalso.TEXTOS.pop, "crsfn-5279-2.pdf")
+
+    def test_mesmo_sha_vira_um_julgado(self):
+        self.rodar("classificar")
+        self.assertEqual(self.classif()["crsfn-5279-2"]["orgao"], "CVM")
+        self.assertEqual(crsfn.duplicatas(["crsfn-5279", "crsfn-5279-2", "crsfn-2613"], self.cam["cache"]),
+                         {"crsfn-5279-2": "crsfn-5279"})
+        self.rodar("converter")
+        rel = os.listdir(self.cam["relatorios"])
+        with open(os.path.join(self.cam["relatorios"], rel[0]), encoding="utf-8") as f:
+            r = json.load(f)
+        self.assertEqual(r["duplicatas"], {"crsfn-5279-2": "crsfn-5279"})
+        self.assertNotIn("crsfn-5279-2", [x["id"] for x in r["itens"]])
+        self.assertFalse(os.path.exists(os.path.join(
+            self.raiz, "plugins", crsfn.jc.caminho_relativo("acordao-crsfn", "crsfn-5279-2", 2005))))
+        with open(self.cam["ligacoes"], encoding="utf-8") as f:
+            self.assertNotIn("crsfn-5279-2", sum(json.load(f)["ligacoes"].values(), []))
+
+    def test_sha_diferente_nao_e_duplicata(self):
+        self.cli.rotas[self.inv[-1]["item_url"] + "/@@download/file"] = (
+            PDF_SINTETICO + b"pdf-2005-recurso-5279.txt\n% outra versao\n", {"content-type": "application/pdf"}, None)
+        self.rodar("classificar")
+        self.assertEqual(crsfn.duplicatas(["crsfn-5279", "crsfn-5279-2"], self.cam["cache"]), {})
+
+
 class TestSecoes(unittest.TestCase):
     def test_cabecalhos_de_voto_e_documento_sem_cabecalho_conhecido(self):
         docs = ["1ª Sessão\nRECURSO VOLUNTÁRIO\nEMENTA: Ementa.\nACÓRDÃO CRSFN 1/2020\nVistos.",
@@ -335,6 +371,20 @@ class TestEmentaSemPessoas(unittest.TestCase):
         self.assertIn(je.AVISO_EMENTA, valores["incerteza"])
         self.assertIn("Apuração interna da BSM sobre Fulano Exemplar Teste.", corpo)
         self.assertEqual(corpo.count("## Ementa\n"), 1)
+
+    def test_documento_com_dois_acordaos_registra_no_incerteza(self):
+        pasta = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, pasta)
+        cam = os.path.join(pasta, "fonte.html")
+        with open(cam, "wb") as f:
+            f.write(ler("sei-cvm-10372-100012-2021-00.html"))
+        reg = {"id": "crsfn-10372-100012-2021-00"}
+        nota = "documento com 2 acórdãos: Ac. 1/2021 (2021-01-01); Ac. 2/2021 (2021-02-01)"
+        with mock.patch.dict(crsfn.INCERTEZA_DOCUMENTO, {reg["id"]: nota}):
+            valores, _, _ = crsfn.converter_item(reg, ISEI, cam, {}, PdfFalso())
+        self.assertIn(nota, valores["incerteza"])
+        valores, _, _ = crsfn.converter_item(reg, ISEI, cam, {}, PdfFalso())
+        self.assertNotIn("documento com 2 acórdãos", valores["incerteza"])
 
 
 class TestPii(unittest.TestCase):

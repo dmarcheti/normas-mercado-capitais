@@ -48,6 +48,7 @@ _DELIBERACAO = re.compile(r"\bColegiado\b[^.]{0,160}?\b(?:decidiu|deliberou|acom
                           r"negou|aprovou|rejeitou|deferiu|indeferiu|aceitou|conheceu|determinou|"
                           r"concluiu|entendeu|votou|julgou)", re.I)
 MAX_PALAVRAS_EMENTA = 60
+SITUACOES = ("decidido", "suspenso", "sem-deliberacao")  # campo `situacao` da saída (3b)
 ROTINEIRAS = {"multa-cominatoria"}  # ementa de modelo, a partir do título, sem LLM (C7)
 SEM_EMENTA_EXTRAIDA = {"decisao-antiga"}  # um arquivo por ano, com dezenas de decisões
 TEMAS = ("divulgacao-informacoes", "informacao-privilegiada", "manipulacao-fraude",
@@ -147,12 +148,189 @@ def recorte(corpo):
     return "\n\n".join(x for x in partes if x)
 
 
-def entrada(caminho):
+# ------------------------------------------------ recorte pela deliberação (fase 3b)
+#
+# Na "## Decisão" do Colegiado e do TC, a deliberação costuma vir no fim de um relato longo da
+# área técnica ou do Comitê, e o fim do documento é o anexo da área técnica. O recorte da 3b
+# começa pela deliberação, depois o pedido e os fundamentos, e por último a posição da área
+# técnica ou do Comitê, rotulada como tal.
+
+PALAVRAS_DELIB_3B, PALAVRAS_POS_DELIB, PALAVRAS_DECISAO_INTEIRA = 450, 150, 900
+PALAVRAS_PEDIDO, PALAVRAS_ANTES_DELIB, PALAVRAS_AREA, PALAVRAS_UNIDADE = 300, 350, 200, 250
+_DELIB_3B = re.compile(
+    r"\bColegiado\b(?:[^.;]|\.(?=\s*\d)|(?<=\bS)\.|(?<=\bA)\.|(?<=\bSr)\.|(?<=\bSra)\.|"
+    r"(?<=\bDr)\.|(?<=\bart)\.|(?<=\barts)\.|(?<=\bProc)\.|(?<=\bn)\.){0,250}?\b(?:deliber|decid|acompanh|acat|acolh|aprov|defer|indefer|"
+    r"neg(?:ou|ar)\b|deu\s+provimento|dar\s+provimento|rejeit|aceit|conhec|conclu|determin|"
+    r"autoriz|admit|mant(?:eve|er)\b|conced|diverg|entend|fez\s+exig|julg|homolog|referend|"
+    r"resolv|reconhec|reform|cancel|dispens)", re.I)
+_ACOMPANHADO = re.compile(r"acompanhad[oa]s?\s+pel[oa]s\s+demais\s+(?:membros|diretores)|"
+                          r"demais\s+membros\s+do\s+Colegiado\s+acompanh", re.I)
+# o julgamento parou: vista, adiamento, retirada de pauta, sobrestamento
+_SUSPENSAO = re.compile(
+    r"\b(?:pediu|solicitou|solicitad[oa]|pedido|requereu|requerid[oa]|"
+    r"concedid[oa])\s+vistas?\b|"
+    r"\bpedido\s+de\s+vistas?\s+d[oa]\s+(?:Diretor|Diretora|Presidente|Relator|Relatora)|"
+    r"\badiad[ao]s?\s+(?:a\s+|sua\s+)?(?:decis|delibera|aprecia|discuss|julgamento|exame|"
+    r"an[áa]lise)|"
+    r"\b(?:decis[ãa]o|aprova\w*|delibera\w*|julgamento)\s+(?:\w+\s+){0,3}?adiad|"
+    r"\badiar\s+(?:a\s+|o\s+|sua\s+)?(?:decis|delibera|aprecia|discuss|julgamento|exame|"
+    r"an[áa]lise)|"
+    r"\b(?:fo(?:i|ram)|sido)\s+retirad[oa]s?\s+de\s+pauta|(?-i:\bRetirad[oa]s?\s+de\s+pauta)",
+    re.I)
+# vista como acesso aos autos (objeto do pedido), não como suspensão do julgamento
+_VISTA_ACESSO = re.compile(r"\s*(?:e\s+(?:de\s+)?(?:c[óo]pia|extra)|integral|,\s*c[óo]pia|"
+                           r"ter\b|(?:d[oa]s?\s+autos\s+)?d[oa]s?\s+(?:PAS\b|Proc\.|processo\s+"
+                           r"(?:administrativo|sancionador|CVM)|inqu[ée]rito|termo|procedimento))",
+                           re.I)
+_VISTA_ACESSO_ANTES = re.compile(r"(?:deferi\w*|indeferi\w*|negou|nega\w*|negativa\s+de|"
+                                 r"futuro|eventual|tenha|tiver)\s+(?:d?o\s+)?$", re.I)
+# menção a uma suspensão anterior ("que havia pedido vista", "(PEDIDO DE VISTA DO DLA)",
+# "pediu vista em reunião de 04/10")
+_RETROSPECTIVA = re.compile(r"havia|haviam|retorn|retomad|\(pedido\s+de\s+vista", re.I)
+_RETROSPECTIVA_DEPOIS = re.compile(r"\s*(?:d[oa]s?\s+(?:autos|processo)\s*,?\s*)?"
+                                   r"(?:em|na)\s+(?:reuni[ãa]o|sess[ãa]o)\s+(?:de|anterior|"
+                                   r"realizada|do\s+dia)", re.I)
+_PARTICIPANTE = re.compile(r"^\W*(?:Participantes\b|[•·]|\(\*\))")
+_REG = re.compile(r"(?m)^\W*Reg\.?\s*n")
+_CONCLUSAO_AREA = re.compile(r"diante\s+do\s+exposto|ante\s+o\s+exposto|em\s+conclus|"
+                             r"pelo\s+exposto|isto\s+posto|por\s+todo\s+o\s+exposto|"
+                             r"\bconclus[ãa]o\b", re.I)
+_ASSINATURA = re.compile(r"\bAtenciosamente\b|\bDe\s+acordo\.\s+Encaminhe", re.I)
+_SECAO_AREA = re.compile(r"Manifesta|Parecer|Memorando|Nota\b|Of[íi]cio|Despacho", re.I)
+
+
+def limpar_decisao(decisao):
+    """A "## Decisão" sem a lista de participantes (o que vem antes de "Reg. nº")."""
+    texto = re.sub(r"(?m)^#{2,6}\s+", "", decisao)
+    m = _REG.search(texto)
+    if m and len(texto[:m.start()].split()) <= 150:
+        return texto[m.start():].strip()
+    return "\n".join(x for x in texto.splitlines() if not _PARTICIPANTE.match(x)).strip()
+
+
+def _unidades(texto):
+    """Parágrafos; o parágrafo de mais de 250 palavras vira frases."""
+    out = []
+    for p in re.split(r"\n\s*\n", texto):
+        p = re.sub(r"\s+", " ", p).strip()
+        if not p:
+            continue
+        if len(p.split()) > PALAVRAS_UNIDADE:
+            out.extend(s for s in re.split(r"(?<=[.;])\s+(?=[\"“*(]?[A-ZÀ-Ý])", p) if s)
+        else:
+            out.append(p)
+    return out
+
+
+def _delibera(u):
+    return bool(_DELIB_3B.search(u) or _ACOMPANHADO.search(u) or _SUSPENSAO.search(u))
+
+
+def _deliberacao(unidades):
+    """Índices das unidades da deliberação: a última que delibera e as anteriores próximas
+    (até 2 unidades de intervalo), em até 450 palavras."""
+    idx = [i for i, u in enumerate(unidades) if _delibera(u)]
+    if not idx:
+        return []
+    escolhidas, palavras, anterior = [], 0, None
+    for i in reversed(idx):
+        n = len(unidades[i].split())
+        if escolhidas and (anterior - i > 3 or palavras + n > PALAVRAS_DELIB_3B):
+            break
+        escolhidas.insert(0, i)
+        palavras += n
+        anterior = i
+    return escolhidas
+
+
+def _area_tecnica(corpo, tipo):
+    """Posição da área técnica ou do Comitê, fora da "## Decisão" (até 200 palavras)."""
+    secoes = re.findall(r"(?ms)^## (.+?)\s*\n(.*?)(?=^## |\Z)", corpo)
+    fora = "\n\n".join(t for nome, t in secoes if nome.strip() != "Decisão")
+    s = re.search(r"(?m)^\W*SUM[ÁA]RIO\b.*$", fora)
+    if s:
+        return _palavras(fora[s.end():], PALAVRAS_AREA)
+    if tipo == "termo-compromisso":
+        return ""
+    for nome, t in secoes:
+        if nome.strip() != "Decisão" and _SECAO_AREA.search(nome):
+            t = re.sub(r"(?m)^#{2,6}\s+", "", t)
+            a = _ASSINATURA.search(t)
+            t = t[:a.start()] if a else t  # sem o bloco de assinaturas
+            ms = [m for m in _CONCLUSAO_AREA.finditer(t) if len(t[m.start():].split()) >= 40]
+            return _palavras(t[ms[-1].start():] if ms else t,
+                             PALAVRAS_AREA, do_fim=not ms)
+    return ""
+
+
+def recorte_3b(corpo, tipo="decisao-colegiado"):
+    """Recorte que começa pela deliberação do Colegiado; sem "## Decisão", o recorte antigo."""
+    decisao = _secao(corpo, "Decisão")
+    if not decisao or tipo not in ("decisao-colegiado", "termo-compromisso"):
+        return recorte(corpo)
+    m = re.search(r"(?m)^# (.+)$", corpo)
+    titulo = m.group(1).strip() if m else ""
+    unidades = _unidades(limpar_decisao(decisao))
+    escolhidas = _deliberacao(unidades)
+    partes = ["TÍTULO: " + titulo]
+    if escolhidas:
+        delib = [unidades[i] for i in escolhidas]
+        seguintes = []
+        for u in unidades[escolhidas[-1] + 1:]:
+            if len(" ".join(seguintes + [u]).split()) > PALAVRAS_POS_DELIB:
+                break
+            seguintes.append(u)
+        partes.append("DELIBERAÇÃO DO COLEGIADO (o resultado sai daqui):\n"
+                      + "\n".join(delib + seguintes))
+    else:
+        partes.append("FIM DA DECISÃO (não se achou parágrafo de deliberação do Colegiado):\n"
+                      + _palavras("\n".join(unidades), PALAVRAS_FIM_DECISAO, do_fim=True))
+    texto = "\n".join(unidades)
+    if len(texto.split()) <= PALAVRAS_DECISAO_INTEIRA:
+        partes.append("DECISÃO NA ÍNTEGRA (traz o pedido e pode trazer a posição da área técnica, "
+                      "do Comitê ou do relator, que não são a decisão do Colegiado):\n" + texto)
+    else:
+        antes = "\n".join(unidades[:escolhidas[0]]) if escolhidas else texto
+        inicio = _palavras(antes, PALAVRAS_PEDIDO)
+        resto = antes.split()[PALAVRAS_PEDIDO:]
+        miolo = inicio + ("\n[...]\n" + " ".join(resto[-PALAVRAS_ANTES_DELIB:]) if resto else "")
+        partes.append("PEDIDO E FUNDAMENTOS (trechos da decisão antes da deliberação; podem trazer "
+                      "a posição da área técnica, do Comitê ou do relator, que não são a decisão "
+                      "do Colegiado):\n" + miolo)
+    area = _area_tecnica(corpo, tipo)
+    if area:
+        partes.append("POSIÇÃO DA ÁREA TÉCNICA OU DO COMITÊ (anexo; não é a decisão do "
+                      "Colegiado):\n" + area)
+    return "\n\n".join(partes)
+
+
+def situacao_deliberacao(decisao):
+    """"suspenso" se o texto termina com o julgamento parado (vista, adiamento, retirada de
+    pauta) sem deliberação depois; "decidido" se há deliberação depois da última suspensão;
+    "" se não há nem uma nem outra."""
+    texto = re.sub(r"\s+", " ", limpar_decisao(decisao))
+    ult_susp = -1
+    for m in _SUSPENSAO.finditer(texto):
+        antes = texto[max(0, m.start() - 60):m.start()]
+        if (_VISTA_ACESSO.match(texto, m.end()) or _VISTA_ACESSO_ANTES.search(antes)
+                or _RETROSPECTIVA.search(antes + m.group(0))
+                or _RETROSPECTIVA_DEPOIS.match(texto, m.end())):
+            continue
+        ult_susp = m.start()
+    fim_delib = max([m.end() for m in _DELIB_3B.finditer(texto)]
+                    + [m.end() for m in _ACOMPANHADO.finditer(texto)] + [-1])
+    if ult_susp >= 0 and ult_susp > fim_delib - 1:
+        return "suspenso"
+    return "decidido" if fim_delib >= 0 else ""
+
+
+def entrada(caminho, novo=False):
     v, corpo = ler_julgado(caminho)
     m = re.search(r"(?m)^# (.+)$", corpo)
     return {"id": v["id"], "tipo": v.get("tipo", ""), "classe": v.get("classe", ""),
             "processo": v.get("processo", ""), "data": v.get("data", ""),
-            "titulo": m.group(1).strip() if m else "", "recorte": recorte(corpo)}
+            "titulo": m.group(1).strip() if m else "",
+            "recorte": recorte_3b(corpo, v.get("tipo", "")) if novo else recorte(corpo)}
 
 
 def _gravar_json(caminho, obj):
@@ -160,10 +338,12 @@ def _gravar_json(caminho, obj):
         json.dump(obj, f, ensure_ascii=False, indent=1)
 
 
-def montar_lotes(caminhos, pasta, prefixo, tamanho=TAMANHO_LOTE, pessoas=None, motivos=None):
+def montar_lotes(caminhos, pasta, prefixo, tamanho=TAMANHO_LOTE, pessoas=None, motivos=None,
+                 novo=False):
     """Grava <pasta>/<prefixo>-NNN/ com lote.json (o que o modelo vê), caminhos.json e
     pessoas.json (lista positiva de pessoas físicas por id, só para a validação); devolve as
-    pastas. `motivos` {caminho: motivo}: lote de retentativa (o motivo vai no item)."""
+    pastas. `motivos` {caminho: motivo}: lote de retentativa (o motivo vai no item); `novo`:
+    recorte pela deliberação (fase 3b)."""
     pessoas = pessoas or Pessoas()
     pastas = []
     for i in range(0, len(caminhos), tamanho):
@@ -171,7 +351,7 @@ def montar_lotes(caminhos, pasta, prefixo, tamanho=TAMANHO_LOTE, pessoas=None, m
         os.makedirs(d, exist_ok=True)
         lote, nomes = [], {}
         for c in caminhos[i:i + tamanho]:
-            e = entrada(c)
+            e = entrada(c, novo)
             if motivos:
                 e["motivo_retentativa"] = motivos.get(c, "")
             lote.append(e)
@@ -668,6 +848,11 @@ def validar_saida(lote, saida, pessoas=None, reprovadas=None):
         rel = str(o.get("relator") or "").strip()
         if rel:
             campos["relator"] = pii.limpar(rel)
+        sit = str(o.get("situacao") or "").strip()
+        if sit in SITUACOES:
+            campos["situacao"] = sit
+        elif sit:
+            erros.append("%s: situação fora da lista (%s)" % (x["id"], sit))
         aprovados[x["id"]] = campos
     return aprovados, erros
 
@@ -738,23 +923,316 @@ def processar_lote(pasta_lote, refazer=False):
     return rel
 
 
+# ---------------------------------------------------------------- reextração (fase 3b)
+#
+# A auditoria da 3b achou ementas que trazem a posição da área técnica como se fosse a decisão
+# e resultados tirados do voto do relator, da proposta da área técnica ou de julgamento
+# suspenso. A reextração refaz, com o recorte pela deliberação (recorte_3b) e o Sonnet:
+#   - a ementa de todo julgado com ementa_fonte: extracao;
+#   - o resultado de toda decisão do Colegiado e do TC sem resultado da listagem oficial.
+# Roda em lotes retomáveis em dados/fase-3b/extracao/ e não toca em plugins/; a aplicação ao
+# frontmatter é um passo à parte (--aplicar-reextracao).
+
+SAIDA_3B = os.path.join(jc.RAIZ, "dados", "fase-3b", "extracao")
+LISTA_3B = os.path.join(jc.RAIZ, "dados", "fase-3b", "reextracao-lista.json")
+FALHAS_SEGUIDAS = 3  # lotes seguidos sem saída: para (cota, rede), para retomar depois
+
+
+def tc_com_resultado_da_listagem(inventario=INVENTARIO):
+    """ids de TC cujo resultado veio da listagem oficial (aceitos/rejeitados)."""
+    if not os.path.exists(inventario):
+        return set()
+    with open(inventario, encoding="utf-8") as f:
+        d = json.load(f)
+    return {x["id"] for x in d.get("julgados", [])
+            if x.get("tipo") == "termo-compromisso" and x.get("resultado")}
+
+
+def escopo_3b(v, tc_listagem=frozenset()):
+    """Campos que a reextração refaz neste julgado (lista vazia: fica fora)."""
+    campos = []
+    if v.get("ementa_fonte") == "extracao":
+        campos.append("ementa")
+    if v.get("tipo") == "decisao-colegiado" or (v.get("tipo") == "termo-compromisso"
+                                                 and v.get("id") not in tc_listagem):
+        campos.append("resultado")
+    return campos
+
+
+def montar_lista(raiz=jc.RAIZ, inventario=INVENTARIO):
+    """{gerado_em, criterio, contagens, itens: {id: {tipo, classe, campos}}}."""
+    tc = tc_com_resultado_da_listagem(inventario)
+    itens, contagens = {}, {}
+    for x in julgados(raiz):
+        v, _ = ler_julgado(x["url"])
+        campos = escopo_3b(v, tc)
+        if not campos:
+            continue
+        itens[x["id"]] = {"tipo": x["tipo"], "classe": v.get("classe", ""), "campos": campos}
+        c = contagens.setdefault(x["tipo"], {"itens": 0, "ementa": 0, "resultado": 0,
+                                             "ementa_e_resultado": 0})
+        c["itens"] += 1
+        for k in campos:
+            c[k] += 1
+        c["ementa_e_resultado"] += len(campos) == 2
+    contagens["total"] = {k: sum(c[k] for c in contagens.values())
+                          for k in ("itens", "ementa", "resultado", "ementa_e_resultado")}
+    return {"gerado_em": jc.hoje_sp(),
+            "criterio": "ementa: ementa_fonte extracao; resultado: toda decisao-colegiado e "
+                        "termo-compromisso sem resultado da listagem oficial (inventário 2d)",
+            "contagens": contagens, "itens": dict(sorted(itens.items()))}
+
+
+def _ler_json(caminho, padrao=None):
+    try:
+        with open(caminho, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return padrao
+
+
+def processar_lote_3b(pasta_lote, escopo):
+    """Valida saida.json do lote, sem aplicar; grava validacao.json {erros, aprovados,
+    retentar: {id: motivo}} (ementa reprovada onde a ementa está no escopo, ou id ausente)."""
+    lote = _ler_json(os.path.join(pasta_lote, "lote.json"), [])
+    pessoas = _ler_json(os.path.join(pasta_lote, "pessoas.json"), {})
+    saida = _ler_json(os.path.join(pasta_lote, "saida.json"))
+    reprovadas = {}
+    if saida is None:
+        aprovados, erros = {}, ["saida.json ausente ou inválido"]
+    else:
+        aprovados, erros = validar_saida(lote, saida, pessoas, reprovadas)
+    retentar = {i: m for i, m in reprovadas.items()
+                if m == "id ausente na saída" or "ementa" in escopo.get(i, ())}
+    rel = {"erros": erros, "aprovados": aprovados, "retentar": retentar}
+    if "-retentativa-" in os.path.basename(pasta_lote):
+        rel["ementa_do_titulo"] = sorted(i for i in retentar if "ementa" in escopo.get(i, ()))
+    _gravar_json(os.path.join(pasta_lote, "validacao.json"), rel)
+    return rel
+
+
+def estado_reextracao(saida):
+    """O que já rodou em `saida`: {resultados: {id: [campos por lote, em ordem]}, retentar:
+    {id: motivo} ainda sem retentativa, ementa_do_titulo: {ids reprovados duas vezes}}."""
+    resultados, retentar, retentados, do_titulo = {}, {}, set(), set()
+    for val in sorted(glob.glob(os.path.join(saida, "*", "validacao.json")),
+                      key=lambda c: (os.path.getmtime(c), c)):
+        pasta = os.path.dirname(val)
+        rel = _ler_json(val, {})
+        for i, campos in rel.get("aprovados", {}).items():
+            resultados.setdefault(i, []).append(campos)
+        if "-retentativa-" in os.path.basename(pasta):
+            retentados.update(x["id"] for x in _ler_json(os.path.join(pasta, "lote.json"), []))
+            do_titulo.update(rel.get("ementa_do_titulo", []))
+        else:
+            retentar.update(rel.get("retentar", {}))
+    return {"resultados": resultados, "ementa_do_titulo": do_titulo,
+            "retentar": {i: m for i, m in retentar.items() if i not in retentados}}
+
+
+def _montar_lotes_3b(ids, caminhos, escopo, saida, prefixo, motivos=None):
+    cams = [caminhos[i] for i in ids]
+    mot = {caminhos[i]: m for i, m in motivos.items() if i in caminhos} if motivos else None
+    pastas = montar_lotes(cams, saida, prefixo, motivos=mot, novo=True)
+    for p in pastas:
+        lote = _ler_json(os.path.join(p, "lote.json"), [])
+        _gravar_json(os.path.join(p, "escopo.json"), {x["id"]: escopo[x["id"]] for x in lote})
+    return pastas
+
+
+def reextrair(lista, saida, modelo, raiz=jc.RAIZ, ids=None, limite=None, simular=False,
+              trabalho=None):
+    """Roda os ids pendentes da lista em lotes de 25 (retomável: pula o que já tem
+    validacao.json em `saida`), depois a retentativa das ementas reprovadas. Não aplica."""
+    escopo = {i: x["campos"] for i, x in lista["itens"].items()}
+    alvo = [i for i in (ids or sorted(escopo)) if i in escopo]
+    fora = sorted(set(ids or ()) - set(escopo))
+    if fora:
+        print("fora da lista: %s" % ", ".join(fora), file=sys.stderr)
+    os.makedirs(saida, exist_ok=True)
+    estado = estado_reextracao(saida)
+    pendentes = [i for i in alvo if i not in estado["resultados"]]
+    if limite:
+        pendentes = pendentes[:limite]
+    caminhos = {x["id"]: x["url"] for x in julgados(raiz)}
+    sem = [i for i in pendentes if i not in caminhos]
+    if sem:
+        print("sem arquivo convertido: %s" % ", ".join(sem), file=sys.stderr)
+    pendentes = [i for i in pendentes if i in caminhos]
+    prefixo = "%s-%s-%s-%d" % (jc.hoje_sp(), modelo, time.strftime("%H%M%S"), os.getpid())
+    n = 1
+    while glob.glob(os.path.join(saida, glob.escape(prefixo) + "-*")):  # mesma hora e pid
+        n += 1
+        prefixo = "%s-%s-%s-%d-%d" % (jc.hoje_sp(), modelo, time.strftime("%H%M%S"),
+                                      os.getpid(), n)
+    pastas = _montar_lotes_3b(pendentes, caminhos, escopo, saida, prefixo)
+    print("%d de %d julgado(s) pendente(s) em %d lote(s) em %s" % (
+        len(pendentes), len(alvo), len(pastas), saida), flush=True)
+    if simular:
+        return 0
+    total, seguidas = 0.0, 0
+
+    def rodar(p, reforco=""):
+        nonlocal total, seguidas
+        try:
+            info = rodar_lote(p, modelo, trabalho, reforco=reforco)
+        except subprocess.TimeoutExpired:
+            info = {"modelo": modelo, "codigo": "timeout", "total_cost_usd": None,
+                    "saida": False}
+            _gravar_json(os.path.join(p, "execucao.json"), info)
+        if not info["saida"]:
+            seguidas += 1
+            print("%s: sem saida.json (%s)" % (os.path.basename(p), info["codigo"]),
+                  file=sys.stderr, flush=True)
+            if seguidas >= FALHAS_SEGUIDAS:
+                raise RuntimeError("%d lotes seguidos sem saída; retome depois" % seguidas)
+            return None
+        seguidas = 0
+        rel = processar_lote_3b(p, _ler_json(os.path.join(p, "escopo.json"), {}))
+        total += info["total_cost_usd"] or 0
+        print("%s: US$ %s; %d aprovado(s); %d erro(s); acumulado US$ %.2f" % (
+            os.path.basename(p), info["total_cost_usd"], len(rel["aprovados"]),
+            len(rel["erros"]), total), flush=True)
+        return rel
+
+    try:
+        for p in pastas:
+            rodar(p)
+        retentar = estado_reextracao(saida)["retentar"]
+        retentar = {i: m for i, m in retentar.items() if i in caminhos}
+        if retentar:  # uma vez, com a instrução reforçada; se falhar, ementa do título
+            for p in _montar_lotes_3b(sorted(retentar), caminhos, escopo, saida,
+                                      prefixo + "-retentativa", motivos=retentar):
+                rodar(p, REFORCO)
+            print("retentativa: %d item(ns)" % len(retentar), flush=True)
+    except RuntimeError as e:
+        print("parado: %s; custo nesta execução US$ %.4f" % (e, total), file=sys.stderr)
+        return 1
+    print("custo nesta execução: US$ %.4f" % total)
+    return 0
+
+
+def _juntar(entradas):
+    """Campos de um id em vários lotes: o valor não vazio mais recente vale."""
+    out = {}
+    for campos in entradas:
+        out.update({k: v for k, v in campos.items() if v})
+    return out
+
+
+def aplicar_reextracao(lista, saida, raiz=jc.RAIZ, simular=False):
+    """Aplica ao frontmatter só ementa, ementa_fonte, resultado e tema (tema_fonte), nos campos
+    do escopo de cada id; o resto do arquivo fica como está. Grava aplicacao-*.json em `saida`.
+
+    - ementa: a extraída (ementa_fonte: extracao); reprovada duas vezes, a do título (titulo);
+    - resultado: vazio se o modelo ou o detector (situacao_deliberacao) acham o julgamento
+      suspenso, ou se o modelo não acha deliberação; senão o extraído; sem extraído, fica;
+    - tema: o extraído, se o tema atual também veio da extração e mudou."""
+    escopo = {i: x["campos"] for i, x in lista["itens"].items()}
+    estado = estado_reextracao(saida)
+    caminhos = {x["id"]: x["url"] for x in julgados(raiz)}
+    rel = {"simulado": simular, "saida": saida, "contagens": {}, "alterados": {},
+           "conflitos_situacao": [], "resultado_esvaziado": [], "sem_resultado_extraido": [],
+           "ementa_do_titulo": [], "sem_arquivo": [],
+           "sem_extracao": sorted(set(escopo) - set(estado["resultados"]))}
+    cont = rel["contagens"]
+    for i in sorted(estado["resultados"]):
+        if i not in escopo:
+            continue
+        if i not in caminhos:
+            rel["sem_arquivo"].append(i)
+            continue
+        novo, campos = _juntar(estado["resultados"][i]), escopo[i]
+        v, corpo = ler_julgado(caminhos[i])
+        antes = dict(v)
+        if "ementa" in campos:
+            if novo.get("ementa"):
+                v["ementa"], v["ementa_fonte"] = novo["ementa"], "extracao"
+            elif i in estado["ementa_do_titulo"]:
+                m = re.search(r"(?m)^# (.+)$", corpo)
+                v["ementa"] = jc.ementa_de_titulo(m.group(1) if m else "", v.get("classe"))
+                v["ementa_fonte"] = "titulo"
+                rel["ementa_do_titulo"].append(i)
+        if "resultado" in campos:
+            decisao = _secao(corpo, "Decisão")
+            det = situacao_deliberacao(decisao) if decisao else ""
+            sit = novo.get("situacao", "")
+            if sit and (sit == "suspenso") != (det == "suspenso"):
+                rel["conflitos_situacao"].append({"id": i, "modelo": sit, "detector": det,
+                                                  "resultado_extraido": novo.get("resultado", "")})
+            if sit in ("suspenso", "sem-deliberacao") or det == "suspenso":
+                v["resultado"] = ""
+                if antes.get("resultado"):
+                    rel["resultado_esvaziado"].append(
+                        {"id": i, "antes": antes["resultado"], "modelo": sit, "detector": det})
+            elif novo.get("resultado"):
+                v["resultado"] = novo["resultado"]
+            else:
+                rel["sem_resultado_extraido"].append(i)
+        if (novo.get("tema") and v.get("tema_fonte", "") in ("extracao", "")
+                and novo["tema"] != v.get("tema")):
+            v["tema"], v["tema_fonte"] = novo["tema"], "extracao"
+        mudou = [k for k in ("ementa", "ementa_fonte", "resultado", "tema", "tema_fonte")
+                 if v.get(k, "") != antes.get(k, "")]
+        for k in mudou:
+            cont[k] = cont.get(k, 0) + 1
+        if mudou:
+            rel["alterados"][i] = {k: [antes.get(k, ""), v.get(k, "")] for k in mudou}
+            if not simular:
+                gravar(caminhos[i], {k: v.get(k, "") for k in jc.CAMPOS}, corpo)
+    cont["arquivos"] = len(rel["alterados"])
+    nome = "aplicacao-%s-%s%s.json" % (jc.hoje_sp(), time.strftime("%H%M%S"),
+                                       "-simulada" if simular else "")
+    os.makedirs(saida, exist_ok=True)
+    _gravar_json(os.path.join(saida, nome), rel)
+    rel["relatorio"] = os.path.join(saida, nome)
+    return rel
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--ids", help="ids separados por vírgula")
     ap.add_argument("--onda", type=int, choices=sorted(jc.ONDAS))
     ap.add_argument("--tipo", choices=jc.TIPOS)
     ap.add_argument("--limite", type=int)
-    ap.add_argument("--model", default="haiku", choices=("haiku", "sonnet"))
+    ap.add_argument("--model", default="sonnet", choices=("haiku", "sonnet"))
     ap.add_argument("--simular", action="store_true", help="só monta os lotes, sem o modelo")
     ap.add_argument("--refazer", action="store_true",
                     help="com --ids: substitui a ementa extraída antes e o resultado")
     ap.add_argument("--trabalho", help="pasta-base de trabalho fora do cofre (padrão /private/tmp)")
     ap.add_argument("--raiz", default=jc.RAIZ)
-    ap.add_argument("--saida", default=SAIDA)
+    ap.add_argument("--saida", help="pasta dos lotes (padrão %s; na 3b, %s)" % (
+        os.path.relpath(SAIDA, jc.RAIZ), os.path.relpath(SAIDA_3B, jc.RAIZ)))
+    g = ap.add_mutually_exclusive_group()
+    g.add_argument("--montar-lista", action="store_true",
+                   help="3b: grava a lista de reextração (--lista) com as contagens por tipo")
+    g.add_argument("--reextrair", action="store_true",
+                   help="3b: roda a reextração dos itens da lista, retomável, sem aplicar")
+    g.add_argument("--aplicar-reextracao", action="store_true",
+                   help="3b: aplica ementa, resultado e tema extraídos em --saida")
+    ap.add_argument("--lista", default=LISTA_3B)
     a = ap.parse_args(argv)
+    ids = [x.strip() for x in a.ids.split(",") if x.strip()] if a.ids else None
+    if a.montar_lista:
+        lista = montar_lista(a.raiz)
+        os.makedirs(os.path.dirname(a.lista), exist_ok=True)
+        _gravar_json(a.lista, lista)
+        print(json.dumps(lista["contagens"], ensure_ascii=False))
+        return 0
+    if a.reextrair or a.aplicar_reextracao:
+        lista = _ler_json(a.lista)
+        if not lista:
+            ap.error("lista ausente: rode --montar-lista antes (%s)" % a.lista)
+        saida = a.saida or SAIDA_3B
+        if a.reextrair:
+            return reextrair(lista, saida, a.model, a.raiz, ids, a.limite, a.simular, a.trabalho)
+        rel = aplicar_reextracao(lista, saida, a.raiz, a.simular)
+        print(json.dumps(rel["contagens"], ensure_ascii=False))
+        print("relatório: %s" % rel["relatorio"])
+        return 0
+    a.saida = a.saida or SAIDA
     if a.refazer and not a.ids:
         ap.error("--refazer só com --ids")
-    ids = [x.strip() for x in a.ids.split(",") if x.strip()] if a.ids else None
     itens = jc.selecionar(julgados(a.raiz), ids=ids, tipo=a.tipo, onda=a.onda, limite=a.limite)
     if ids:
         faltam = set(ids) - {x["id"] for x in itens}

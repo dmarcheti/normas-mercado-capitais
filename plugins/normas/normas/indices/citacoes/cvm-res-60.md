@@ -39,7 +39,7 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 47 | Ofício Circular CVM/SSE 05/23 | oficio-circular | 2023-05-30 | cvm/oficios-circulares/sse1/oc-sse-0523.md | de envio das informações previstas no art. 47 da Resolução CVM nº 60, de 23 de dezembro de 2021 (“Res. 60” ou “Resolução”). I) Nova função no Sistema |
+| art. 47 | Ofício Circular CVM/SSE 05/23 | oficio-circular | 2023-05-30 | cvm/oficios-circulares/sse1/oc-sse-0523.md | das informações previstas no art. 47 da Resolução CVM nº 60, de 23 de dezembro de 2021 (“Res. 60” ou “Resolução”). I) Nova função no Sistema Fundos.Net |
 | art. 47, parágrafo único | Ofício Circular CVM/SSE 05/23 | oficio-circular | 2023-05-30 | cvm/oficios-circulares/sse1/oc-sse-0523.md | da ocorrência dos fatos listados no parágrafo único do referido artigo. 8. Nesse sentido, destacamos que o formulário estruturado para entrega do FRe, |
 
 ## art. 51

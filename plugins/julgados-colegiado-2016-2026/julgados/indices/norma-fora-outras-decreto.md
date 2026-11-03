@@ -231,11 +231,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 6º | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | — | normativo | Consulta sobre aceitação, em pedidos de registro submetidos à SRE, de assinatura eletrônica fora do padrão ICP-Brasil em documentos firmados entre partes. A área técnica propôs aceitar, além da ICP-Brasil, assinaturas da Plataforma GOV.BR de nível ao menos avançado, com base no art. 10, §2º, da MP 2.200-2/2001. | cvm/colegiado/2021/col-20210622-d1921.md |
+| art. 6º | decisao-colegiado | 19957.008361/2023-28 | 2024-10-29 | — | manipulacao-fraude | Recurso de fundo multimercado contra o Parecer Técnico 85/2024 da SMI, que encerrou reclamação sobre suposta manipulação de preços de ativo por gestora de fundos. Segundo a área técnica, as operações não tiveram efeito atípico sobre os preços e não há justa causa para diligências adicionais. | cvm/colegiado/2024/col-20241029-d3162.md |
+| art. 6º | decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | indeferido | infraestrutura-mercado | Pedido da CERC S.A. para funcionar como entidade de balcão organizado (RCVM 135). Voto do diretor substituto concede a autorização, condicionada a layouts aprovados pela SEMOM; concede dispensa do art. 39, IV, mas nega a do art. 41, III (informações trimestrais). | cvm/colegiado/2025/col-20251125-d3333.md |
+| art. 6º | decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | indeferido | infraestrutura-mercado | Pedido da CERC S.A. de autorização para funcionar como entidade administradora de mercado de balcão organizado (RCVM 135), com dispensas de divulgação de intermediários (art. 39, IV) e de informações trimestrais (art. 41, III). Em 25.11.2025, Diretor Substituto votou pela autorização e pela dispensa do art. 39, IV, e contra a do art. 41, III. | cvm/colegiado/2025/col-20251202-d3333.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | indeferido | processual | Recurso contra indeferimento de acesso integral a autos de inquéritos administrativos da SPS, sob sigilo do art. 9º, § 2º, da Lei 6.385/76 e do art. 14 da Instrução CVM 607/19, e contra sigilo de documentos do IRB Brasil Resseguros S.A. (art. 157, § 5º, da Lei 6.404/76). Voto divergente quanto ao sigilo de diligências em curso. | cvm/colegiado/2020/col-20200908-d1905.md |
 | decisao-colegiado | RJ2013/9992 | 2019-03-26 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm/colegiado/2019/col-20190326-d1357.md |
 
 ## decreto-8652

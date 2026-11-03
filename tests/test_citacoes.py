@@ -2,6 +2,7 @@
 import os
 import sys
 import unittest
+from unittest import mock
 
 AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
@@ -267,6 +268,72 @@ class TestTrechosDoAcervo(unittest.TestCase):
     def test_oc_sse_6_2025_lei_14430(self):
         c = self.citacoes_de("cvm/oficios-circulares/sse1/oc-sse-0625.md")
         self.assertIn("lei-14430 art. 26", c)
+
+
+
+ANOS = {"cvm-res-17": 2021, "cvm-res-80": 2022, "cvm-res-160": 2022, "lei-6385": 1976, "lei-6404": 1976,
+        "lei-9613": 1998, "lei-13506": 2017}
+LEIS = frozenset(["lei-6385", "lei-6404", "lei-14430", "lei-9613", "lei-13506"])
+
+
+@mock.patch.object(citacoes, "carregar_anos", lambda *a: ANOS)
+@mock.patch.object(citacoes, "carregar_ids", lambda *a: LEIS)
+class TestFase3b(unittest.TestCase):
+    """Erros de citação achados na auditoria da Fase 3b."""
+    IDS = IDS | {"cvm-res-17", "cvm-res-80", "lei-9613", "lei-13506"}
+
+    def d(self, texto):
+        return disp(texto, ids=self.IDS)
+
+    # cvm-col-20161213-d0473 e ~150 julgados: número de lei partido pela fonte virava fora:lei-6
+    def test_lei_partida_pelo_ocr_recupera_a_lei_do_acervo(self):
+        for frase in ("art. 202, § 4º, da Lei 6 6.404/76 e", "art. 202, § 4º, da Lei 6.4 404/76, a",
+                      "art. 202, § 4º, da Lei nº 6. .404/76 e", "art. 202, § 4º, da Lei n° 6.404176 c/c"):
+            self.assertEqual(self.d(frase), ["lei-6404 art. 202, § 4º"], frase)
+        self.assertEqual(self.d("art. 11 da Lei nO 6.385176, bem"), ["lei-6385 art. 11"])
+
+    def test_lei_partida_sem_lei_do_acervo_fica_como_esta(self):
+        self.assertEqual(self.d("art. 3º da Lei 6.04/76, em"), ["fora:lei-6 art. 3º"])
+        self.assertEqual(self.d("art. 3º da Lei nº 8.668/93"), ["fora:lei-8668 art. 3º"])
+
+    # cvm-pas-rj2001-4187: Resolução CMN 454 virava fora:res-cvm-454
+    def test_resolucao_com_orgao_depois_da_data(self):
+        self.assertEqual(self.d("parágrafo único do artigo 14 da Resolução nº 454, de 16.11.77, do Conselho "
+                                "Monetário Nacional, prazo"), ["fora:res-cmn-454 art. 14, parágrafo único"])
+
+    def test_resolucoes_com_orgao_coletivo(self):
+        self.assertEqual(self.d("por força do art. 4º da Resolução 454/77, com a redação dada pela Resolução "
+                                "2.785/00, ambas do Conselho Monetário Nacional."),
+                         ["fora:res-cmn-454 art. 4º"])
+        self.assertEqual(self.d("art. 4º da Resolução 30/2021, com a redação da Resolução 35. Ambas do CMN"),
+                         ["cvm-res-30 art. 4º"])
+
+    # cvm-pas-19957-002296-2020-84 e 19957-001450-2022-62: "Resolução CVM nº 17/2023" virava cvm-res-17
+    def test_ano_que_nao_e_o_da_norma_do_acervo_fica_fora(self):
+        texto = "art. 2º da Resolução CVM nº 17/2023 e art. 3º da Resolução CVM nº 17/2021"
+        self.assertEqual(self.d(texto), ["fora:res-cvm-17-2023 art. 2º", "cvm-res-17 art. 3º"])
+        self.assertEqual(normas_mencionadas(texto, ids=self.IDS), ["fora:res-cvm-17-2023", "cvm-res-17"])
+        self.assertEqual(self.d("art. 11 da Lei nº 6.385/76"), ["lei-6385 art. 11"])
+        self.assertEqual(self.d("art. 11 da Lei nº 6.385/78"), ["fora:lei-6385-1978 art. 11"])
+        self.assertEqual(self.d("art. 11 da Lei nº 6.385/7610, e"), ["lei-6385 art. 11"])  # /76 + nota 10
+
+    # ano a 1 de distância do da norma é erro de digitação da fonte: liga à norma do acervo
+    def test_ano_a_um_de_distancia_liga_a_norma(self):
+        self.assertEqual(self.d("art. 11 da Lei nº 6.385/75, e"), ["lei-6385 art. 11"])
+        self.assertEqual(self.d("art. 12 da Lei nº 9.613/99, no"), ["lei-9613 art. 12"])
+        self.assertEqual(self.d("art. 2º da Lei nº 13.506/2016, que"), ["lei-13506 art. 2º"])
+        self.assertEqual(self.d("art. 61 da Resolução CVM nº 80/2021, o"), ["cvm-res-80 art. 61"])
+        self.assertEqual(self.d("art. 2º da Resolução CVM nº 17/2023, e"), ["fora:res-cvm-17-2023 art. 2º"])
+
+    def test_ano_diferente_continua_ligando_a_anafora(self):
+        self.assertEqual(self.d("art. 2º da Resolução CVM nº 17/2023 e art. 3º da mesma Resolução"),
+                         ["fora:res-cvm-17-2023 art. 2º", "fora:res-cvm-17-2023 art. 3º"])
+
+    # cvm-pas-19957-016206-2023-85: "art. 545 da RCVM nº 160/2022" é erro de digitação da fonte
+    # (a Res. CVM 160 não tem art. 545). Exceção registrada: o extrator não corrige a fonte.
+    def test_artigo_inexistente_por_erro_da_fonte_fica_como_escrito(self):
+        self.assertEqual(self.d("Nos termos do art. 545 da RCVM nº 160/2022, o período vedado"),
+                         ["cvm-res-160 art. 545"])
 
 
 if __name__ == "__main__":

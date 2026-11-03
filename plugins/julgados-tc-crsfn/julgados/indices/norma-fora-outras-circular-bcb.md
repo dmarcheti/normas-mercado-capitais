@@ -272,7 +272,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 14/03 | 2012-04-16 | arquivamento | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento - Descumprimento das regras de diversificação de carteiras – Irregularidade não caracterizada - Recurso de ofício improvido - Arquivamento. | crsfn/2012/11472.md |
-| acordao-crsfn | 14/03 | 2012-04-16 | arquivamento | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento - Descumprimento das regras de diversificação de carteiras – Irregularidade não caracterizada - Recurso de ofício improvido - Arquivamento. | crsfn/2012/11472-2.md |
 
 ## circular-bcb-2737
 

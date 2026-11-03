@@ -16,7 +16,7 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 16 | Ofício-Circular Conjunto CVM/SIN/SMI/SSE 01/25 | oficio-circular | 2025-03-10 | cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md | um cadastro único e atualizado; b)o art. 16 da Resolução CVM n. º 31, de 19 de maio de 2021, exige que os depositários centrais sejam aptos a identificar |
+| art. 16 | Ofício-Circular Conjunto CVM/SIN/SMI/SSE 01/25 | oficio-circular | 2025-03-10 | cvm/oficios-circulares/sin/occ-sin-smi-sse-0125.md | cadastro único e atualizado; b)o art. 16 da Resolução CVM n. º 31, de 19 de maio de 2021, exige que os depositários centrais sejam aptos a identificar os |
 
 ## art. 45
 

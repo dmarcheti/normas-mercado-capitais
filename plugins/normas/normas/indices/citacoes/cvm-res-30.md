@@ -22,7 +22,7 @@ Pareceres, ofícios-circulares e documentos de autorregulação do acervo que ci
 
 | Dispositivo | Documento | Tipo | Data | Arquivo | Trecho |
 |---|---|---|---|---|---|
-| art. 11 | Parecer de Orientação CVM nº 41/2023 | parecer-orientacao | 2023-08-21 | cvm/pareceres-orientacao/0041.md | profissionais, conforme definidos no art. 11 da Resolução CVM nº 30, de 11 de maio de 2021. 5.2. Debêntures-Fut O art. 26 da Lei da SAF disciplina a |
+| art. 11 | Parecer de Orientação CVM nº 41/2023 | parecer-orientacao | 2023-08-21 | cvm/pareceres-orientacao/0041.md | conforme definidos no art. 11 da Resolução CVM nº 30, de 11 de maio de 2021. 5.2. Debêntures-Fut O art. 26 da Lei da SAF disciplina a |
 | art. 11 | Perguntas e Respostas sobre Transparência na Remuneração (1ª edição) | orientacao-autorregulacao | 2026-10-29 | autorregulacao/anbima/perguntas-e-respostas-sobre-transparencia-na-remuneracao-1a-edicao.md | informação: PÚBLICA força do inciso I, do art. 11 da Resolução CVM 30/202110). Deve-se atentar, no entanto, que a instituição sujeita à regra deve ter |
 | art. 11 | Perguntas e Respostas sobre Transparência na Remuneração (2ª edição) | orientacao-autorregulacao | 2026-10-29 | autorregulacao/anbima/perguntas-e-respostas-sobre-transparencia-na-remuneracao-2a-edicao.md | financeiras, por força do inciso I, do art. 11 da Resolução CVM 30/202112). Deve-se atentar, no entanto, que a instituição sujeita à regra deve ter |
 | art. 11, inciso V | Ofício-Circular CVM/SIN 02/25 | oficio-circular | 2025-01-23 | cvm/oficios-circulares/sin/oc-sin-0225.md | profissionais, nos termos do art. 11, inciso V, da Resolução CVM nº 30. Deverão ser observadas, ainda, as previsões de cada Anexo Normativo quanto |

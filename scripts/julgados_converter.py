@@ -66,6 +66,15 @@ def _pypdf_paginas(caminho):
     return [(p.extract_text() or "") for p in leitor.pages]
 
 
+def _numero_de_paginas(caminho):
+    """Número de páginas do PDF pelo pypdf, ou None (sem o módulo ou PDF ilegível)."""
+    try:
+        import pypdf
+        return len(pypdf.PdfReader(caminho).pages)
+    except Exception:  # noqa: BLE001 — sem o número, nenhuma página é descartada
+        return None
+
+
 def texto_pdf(caminho, pm=pdf_macos):
     """(páginas, nível, motor, avisos, nº de páginas por OCR). PDFKit primeiro (pypdf fora do
     macOS); páginas com menos de 20 caracteres passam pelo OCR do Vision."""
@@ -76,7 +85,10 @@ def texto_pdf(caminho, pm=pdf_macos):
         paginas, motor = _pypdf_paginas(caminho), "pypdf"
         if paginas is None:
             raise
-    if paginas and not paginas[-1].strip() and len(paginas) > 1:
+    # elemento final vazio só sai se passar do número real de páginas: a última página sem
+    # texto (assinatura escaneada) é página de verdade e vai ao OCR
+    n_real = len(paginas) if motor == "pypdf" else _numero_de_paginas(caminho)
+    if n_real is not None and len(paginas) > n_real and not paginas[-1].strip():
         paginas = paginas[:-1]
     paginas = [jc.normalizar_pdf(p) for p in paginas]
     vazias = [i for i, p in enumerate(paginas) if len(p.strip()) < MIN_CARACTERES_PAGINA]
@@ -912,7 +924,9 @@ def converter_item(item, pasta, pm=pdf_macos):
 
 def _preservar_extracao(valores, caminho):
     """Reconversão não apaga a extração (Task 4): ementa e tema extraídos ficam enquanto a fonte
-    não trouxer os seus; resultado e relator antigos ficam se a conversão não achar outros."""
+    não trouxer os seus; relator antigo fica se a conversão não achar outro. O resultado já
+    gravado, quando não vazio, fica sempre: não tem _fonte, e a extração o grava por cima do da
+    conversão (Fase 3b: reconversão trocava "provido" extraído por "indeferido" do conversor)."""
     try:
         antigo, _ = je.ler_julgado(caminho)
     except (OSError, ValueError):
@@ -922,9 +936,10 @@ def _preservar_extracao(valores, caminho):
         v["ementa"], v["ementa_fonte"] = antigo.get("ementa", ""), "extracao"
     if antigo.get("tema_fonte") == "extracao" and not v.get("tema"):
         v["tema"], v["tema_fonte"] = antigo.get("tema", ""), "extracao"
-    for c in ("resultado", "relator"):
-        if not v.get(c) and antigo.get(c):
-            v[c] = antigo[c]
+    if antigo.get("resultado"):
+        v["resultado"] = antigo["resultado"]
+    if not v.get("relator") and antigo.get("relator"):
+        v["relator"] = antigo["relator"]
     return v
 
 

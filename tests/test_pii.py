@@ -221,5 +221,176 @@ class OutrosTest(unittest.TestCase):
         self.assertEqual(pii.limpar(t), t)
 
 
+class Fase3bTest(unittest.TestCase):
+    """Casos da auditoria da Fase 3b: um positivo (sai) e um negativo (fica) por regra. Nomes e
+    números fictícios."""
+
+    # --- dado pessoal que ficava
+    def test_ci_de_portador_sai(self):
+        t = "FULANO DE TAL, portador da C.I n.\nº" + "8765" + "432-1 e portador do CPF"
+        self.assertNotIn("8765", pii.limpar(t))
+
+    def test_ci_comunicacao_interna_fica(self):
+        t = "conforme a C.I. nº " + "1234" + "/2005 da SEP"
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_cedula_rne_sai(self):
+        t = "portador da Cédula de Identidade RNE nº W" + "123" + "456K, inscrito"
+        self.assertEqual(pii.limpar(t), "portador da Cédula de Identidade RNE nº %s, inscrito" % M)
+
+    def test_rne_sem_numero_fica(self):
+        t = "o estrangeiro tem RNE válido, conforme o processo"
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_endereco_no_exterior_sai_inteiro(self):
+        t = ("BELTRANO EXEMPLAR, domiciliado na Suíça, na Cidade de St. Exemplo, à Rua Exemplostrasse 4, "
+             "3rd Flr, CH – 900; CICRANO DA SILVA, brasileiro")
+        saida = pii.limpar(t)
+        self.assertNotIn("Exemplostrasse", saida)
+        self.assertIn("; CICRANO DA SILVA", saida)
+
+    def test_endereco_nacional_com_abreviacao_st_fica_ate_o_fim(self):
+        t = "Sede da Companhia na Rua St. Exemplo, 10. O Colegiado decidiu."
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_bloco_de_testemunhas_com_resto_na_linha_sai(self):
+        t = ("Testemunhas: Wxyz\nNome: FULANO DE TAL Nome:\nCPF: CPF:\nBeltrana Exemplo\n"
+             "8º Cartório de Notas da Capital\nReconheço por semelhança a firma de BELTRANA EXEMPLO\n"
+             "\n\n\nO Colegiado aprovou a proposta de termo de compromisso apresentada pelos proponentes.")
+        saida = pii.limpar(t)
+        self.assertNotIn("FULANO", saida)
+        self.assertNotIn("Beltrana", saida)
+        self.assertNotIn("BELTRANA", saida)  # o carimbo do cartório repete o nome da testemunha
+        self.assertTrue(saida.startswith("Testemunhas: " + M))
+        self.assertIn("O Colegiado aprovou a proposta", saida)
+
+    def test_testemunhas_em_frase_longa_fica(self):
+        t = "Testemunhas: foram ouvidas três pessoas durante a instrução do processo administrativo."
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_qualificacao_com_dois_segmentos_sai(self):
+        t = "FULANO DE TAL, brasileiro, casado, economista, portador da Cédula"
+        self.assertEqual(pii.limpar(t), "FULANO DE TAL, %s, portador da Cédula" % M)
+        t = "FULANO DE TAL, brasileiro, estado civil, profissão, portador da Cédula"
+        self.assertEqual(pii.limpar(t), "FULANO DE TAL, %s, portador da Cédula" % M)
+
+    def test_separado_judicialmente_sai(self):
+        t = "FULANO DE TAL, brasileiro, separado judicialmente, economista, portador da Cédula"
+        self.assertEqual(pii.limpar(t), "FULANO DE TAL, %s, portador da Cédula" % M)
+
+    def test_qualificacao_nao_engole_documento_seguinte(self):
+        t = ("FULANO DE TAL, brasileiro, economista, portador da\nCédula de Identidade nº " + RG_NUM +
+             ", CPF: " + CPF_FMT + ", domiciliado")
+        saida = pii.limpar(t)
+        self.assertIn("portador da\nCédula de Identidade nº " + M, saida)
+        self.assertIn("CPF: " + M, saida)
+
+    # --- corte indevido
+    def test_endereco_para_em_tendo_em_vista(self):
+        t = ("residente e domiciliado na Rua das Flores, 99, Rio de Janeiro, RJ, tendo em vista a proposta "
+             "formulada nos autos do Processo")
+        self.assertEqual(pii.limpar(t), "residente e domiciliado %s, tendo em vista a proposta formulada "
+                                        "nos autos do Processo" % M)
+
+    def test_endereco_sem_delimitador_continua_cortado(self):
+        t = "residente na Rua das Flores, 99, Rio de Janeiro, RJ"
+        self.assertEqual(pii.limpar(t), "residente %s" % M)
+
+    def test_endereco_para_no_compromitente_seguinte(self):
+        t = "domiciliado na Rua das Flores, 99, São Paulo, SP, e BELTRANO EXEMPLAR, brasileiro"
+        self.assertIn(", e BELTRANO EXEMPLAR", pii.limpar(t))
+        t = "domiciliado na Rua A, 1, CEP 01000-000 e BELTRANO EXEMPLAR, brasileiro"
+        self.assertIn(" e BELTRANO EXEMPLAR", pii.limpar(t))
+        t = "domiciliado na Rua A, 1, Botafogo, BELTRANO EXEMPLAR\nDA SILVA, brasileiro"
+        self.assertIn("BELTRANO EXEMPLAR\nDA SILVA", pii.limpar(t))
+
+    def test_endereco_e_estado_em_minuscula_continua_cortado(self):
+        t = "domiciliado na Rua A, 1, Centro e Rio de Janeiro"
+        self.assertNotIn("Rua A", pii.limpar(t))
+
+    def test_endereco_para_em_outra_parte_qualificada(self):
+        t = ("residente e domiciliado na Rua A, 1, São Paulo, e EXEMPLO WORLDWIDE\nLTD., pessoa jurídica "
+             "de direito privado")
+        self.assertIn("e EXEMPLO WORLDWIDE\nLTD., pessoa jurídica", pii.limpar(t))
+
+    def test_endereco_para_em_todos(self):
+        t = "domiciliado na Rua A, 1, São Paulo, todos, administradores da Exemplo S/A"
+        self.assertIn(", todos, administradores da Exemplo S/A", pii.limpar(t))
+
+    def test_endereco_na_sede_da_empresa_fica(self):
+        t = ("FULANO DE TAL, inscrito no CPF sob o nº " + CPF_FMT + ", com endereço na Praça Exemplo, 100, "
+             "Torre Sul, Piso Banco Exemplo, São Paulo, SP, tendo em vista")
+        saida = pii.limpar(t)
+        self.assertIn("com endereço na Praça Exemplo, 100", saida)
+        self.assertNotIn(CPF_FMT, saida)
+
+    def test_com_endereco_residencial_sem_empresa_sai(self):
+        t = "FULANO DE TAL, com endereço na Praça Exemplo, 100, apto. 12, São Paulo, SP, tendo em vista"
+        self.assertNotIn("Praça Exemplo", pii.limpar(t))
+
+    def test_domiciliada_no_exterior_fica(self):
+        t = ("a Exemplo Ltd., entidade\ndomiciliada no exterior cujo beneficiário final no Brasil era o "
+             "próprio Fulano, realizou 32 operações")
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_domiciliado_no_exterior_com_endereco_sai(self):
+        t = "FULANO DE TAL, domiciliado no exterior, na Rua Exemplo 4, Zurique; e"
+        self.assertNotIn("Rua Exemplo", pii.limpar(t))
+
+
+class Fase3bVarreduraTest(unittest.TestCase):
+    """Resíduos achados na varredura final da Fase 3b."""
+
+    def test_bloco_de_testemunhas_para_em_tabela_retomada(self):
+        t = ("Testemunhas:\nFULANA EXEMPLO BELTRANO EXEMPLO\nFundo Alfa FIA 12345 Transferido em\n"
+             "4. Reclamante: Empresa Exemplo Ltda.\n5. Reclamante: Outra Exemplo S.A.\n")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r)
+        self.assertIn("Fundo Alfa FIA 12345 Transferido em", r)
+        self.assertIn("4. Reclamante: Empresa Exemplo Ltda.", r)
+
+    def test_bloco_de_testemunhas_segue_no_carimbo_com_ruido(self):
+        t = ("Testemunhas:\nNome: FULANA EXEMPLO\n48 x#1\nReconheço por semelhança a firma de\n"
+             "BELTRANO EXEMPLO\nEscrevente autorizado\n")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r)
+        self.assertNotIn("BELTRANO", r)
+
+    def test_testemunha_no_singular_em_depoimento_nao_estende(self):
+        t = "Testemunha: Sim, confirmo.\nfaça e o efeito seja positivo.\nAdvogado: Uma pergunta.\n"
+        r = pii.limpar(t)
+        self.assertIn("faça e o efeito seja positivo.", r)
+        self.assertIn("Advogado: Uma pergunta.", r)
+
+    def test_identidade_com_n_maiusculo(self):
+        t = "portador da carteira de identidade Nº " + "07.140" + ".649-0, emitida pelo IFP e inscrito"
+        self.assertEqual(pii.limpar(t), "portador da carteira de identidade Nº %s e inscrito" % M)
+        # negativo: "Nº" de norma não é documento
+        self.assertEqual(pii.limpar("art. 2º da Lei Nº 6.385, de 1976"), "art. 2º da Lei Nº 6.385, de 1976")
+
+    def test_rne_com_letras_antes_do_numero(self):
+        for num in ("RNE-W-" + "208-029-0", "W-" + "476.929-S"):
+            t = "portador da Cédula de Identidade nº %s, inscrito" % num
+            self.assertEqual(pii.limpar(t), "portador da Cédula de Identidade nº %s, inscrito" % M, num)
+        # negativo: sigla com hífen sem rótulo de identidade fica
+        self.assertEqual(pii.limpar("operação W-208 na B3, e"), "operação W-208 na B3, e")
+
+    def test_identidade_de_conselho_com_tres_digitos(self):
+        t = "portador da cédula de identidade n° " + "83" + "1, emitida pelo 6o CRA (MG), inscrito"
+        self.assertEqual(pii.limpar(t), "portador da cédula de identidade n° %s, emitida pelo 6o CRA (MG), inscrito" % M)
+        # negativo: 3 dígitos sem rótulo de identidade não bastam
+        self.assertEqual(pii.limpar("RG nº 831, e"), "RG nº 831, e")
+
+    def test_cabecalho_de_testemunhas_no_meio_da_linha(self):
+        t = ("Jean Exemplo\nPRIMEIRO Testemunhas: PRIMEIRO\nTABELIONATO\nNome: Fulano Exemplo Nome:\n"
+             "CPF: %s CPF:\n\n\n\nO Colegiado decidiu." % M)
+        saida = pii.limpar(t)
+        self.assertNotIn("Fulano", saida)
+        self.assertIn("O Colegiado decidiu.", saida)
+        # negativo: "provar com testemunhas:" em citação de lei não é bloco de assinatura
+        t = "É lícito à parte inocente provar com testemunhas:\nI - nos contratos simulados"
+        self.assertEqual(pii.limpar(t), t)
+
+
 if __name__ == "__main__":
     unittest.main()

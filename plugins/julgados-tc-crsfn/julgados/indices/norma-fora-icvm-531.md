@@ -11,7 +11,6 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º, parágrafo único, inciso I | acordao-crsfn | 19957.006688/2016-36; RJ2016/8375 | 2023-11-07 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS. CVM. FALHA NO DEVER DE GUARDA E MANUTENÇÃO DE DOCUMENTOS. FALHA NA VERIFICAÇÃO DE LASTRO DOS DIREITOS CREDITÓRIOS REPRESENTADOS POR OPERAÇÕES FINANCEIRAS, COMERCIAIS E DE SERVIÇOS. FALHA DE SUPERVISÃO DAS ATIVIDADES DE CUSTÓDIA DESEMPENHADAS PELOS PRESTADORES DE SERVIÇOS DO FUNDO DE INVESTIMENTO. Infrações caraterizadas. Ajuste na dosimetria da pena. Recursos conhecidos, parciais provimentos e desprovimento. | crsfn/2023/10372-100083-2022-85-2.md |
 | art. 4º, parágrafo único, inciso I | acordao-crsfn | 19957.006688/2016-36; RJ2016/8375 | 2023-11-07 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS. CVM. FALHA NO DEVER DE GUARDA E MANUTENÇÃO DE DOCUMENTOS. FALHA NA VERIFICAÇÃO DE LASTRO DOS DIREITOS CREDITÓRIOS REPRESENTADOS POR OPERAÇÕES FINANCEIRAS, COMERCIAIS E DE SERVIÇOS. FALHA DE SUPERVISÃO DAS ATIVIDADES DE CUSTÓDIA DESEMPENHADAS PELOS PRESTADORES DE SERVIÇOS DO FUNDO DE INVESTIMENTO. Infrações caraterizadas. Ajuste na dosimetria da pena. Recursos conhecidos, parciais provimentos e desprovimento. | crsfn/2023/10372-100083-2022-85.md |
 
 ## Citada sem dispositivo identificado
