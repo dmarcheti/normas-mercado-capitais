@@ -577,3 +577,17 @@ class Fase3bReauditoria3Test(unittest.TestCase):
         self.assertNotIn("11 /0", pii.limpar(t))
         for t in ("CPF: não informado", "o CPF: documento exigido"):
             self.assertEqual(pii.limpar(t), t)
+
+    def test_rg_com_letra_e_hifen_no_fim_da_linha(self):
+        t = "portador da Cédula de Identidade RG nº M-\n" + "1.263" + ".895, emitida pela SSP/DF, inscrito"
+        r = pii.limpar(t)
+        self.assertNotIn("263", r)
+        self.assertIn("inscrito", r)
+
+    def test_nacionalidades_estrangeiras(self):
+        for nac in ("norueguês", "guatemalteco", "sueca", "estadunidense"):
+            t = "FULANO DE TAL, %s, casado, economista, portador da Cédula" % nac
+            r = pii.limpar(t)
+            self.assertNotIn(nac, r)
+            self.assertNotIn("economista", r)
+

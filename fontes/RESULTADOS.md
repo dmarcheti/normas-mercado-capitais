@@ -185,7 +185,7 @@ Método, amostra e resultado em `VERIFICACAO.md`. Scripts: `scripts/auditoria.py
 
 Limite do claude.ai: 200 MB e 5.000 arquivos por plugin. Normas fora do acervo citadas por menos de 10 julgados ficam num arquivo por família (`indices/norma-fora-outras-<família>.md`).
 
-- **Conversão e conferência.** Nível de verificação: 4.156 `html-convertido`, 10.539 `pdf-extraido` e 305 `ocr`. A conferência independente (pypdf ou texto do HTML) fica abaixo do limite em 4 decisões do Colegiado, marcadas no `incerteza`; nos casos abertos, a diferença é artefato (menu do HTML, palavras partidas pelo pypdf), não texto perdido.
+- **Conversão e conferência.** Nível de verificação: 4.156 `html-convertido`, 10.539 `pdf-extraido` e 305 `ocr`. Depois das correções da Fase 3b (texto de imagem em PDF nativo passou pelo OCR), em 2026-11-04: 4.152 `html-convertido`, 10.081 `pdf-extraido` e 757 `ocr`. A conferência independente (pypdf ou texto do HTML) fica abaixo do limite em 4 decisões do Colegiado, marcadas no `incerteza`; nos casos abertos, a diferença é artefato (menu do HTML, palavras partidas pelo pypdf), não texto perdido.
   - Fase 3b: tabelas e cartas que vinham só como imagem dentro do PDF passaram a entrar por OCR, no ponto da página onde a imagem está (o julgado fica `ocr`, com "N página(s) por OCR" no `incerteza`). Em tabela lida por OCR, número pode sair trocado (dígito, vírgula, nota de rodapé lida como algarismo) e linhas de organograma saem fora de ordem; não há regra segura para corrigir. Número de tabela em julgado `ocr` deve ser conferido na `fonte_original` antes de ser citado.
 - **Citações.** Amostra de 40 julgados conferida contra o texto: 39 certas (97,5%). No erro, a fonte escreve "Deliberação CVM nº 480/09" para outra norma. Correções no lote: ponto de milhar em intervalo de artigos ("1.009"), "Lei das Estatais" como Lei 13.303, conectivo colado ao número ("4ºe 5º", "132 e133").
 - **Extração por LLM** (Haiku, `claude -p`, lotes de 25, validação item a item): tema em todos os julgados, exceto as 24 decisões antigas (um arquivo por ano, com dezenas de decisões); ementa onde a fonte não traz a sua (7.830 extraídas; 1.405 PAS com a ementa da CVM e 1.339 acórdãos com a do CRSFN). Custo equivalente na API: US$ 31,90.
@@ -203,3 +203,30 @@ Exceções:
 - CRSFN: 20 acórdãos sem fonte disponível (19 em `sei.economia.gov.br`, um deles da CVM, processo 19957.100008/2019-12, e `crsfn-14303`); 4 sem data da sessão (`crsfn-5440`, `crsfn-8252`, `crsfn-9248`, `crsfn-8542`). `crsfn-5991` (sem processo de origem no texto) e `crsfn-edcl-14324` (preâmbulo com codificação quebrada) são da CVM, mas a classificação automática não os pega.
 - Três acórdãos do CRSFN (`crsfn-2959`, `crsfn-2912`, `crsfn-2824`) julgam PAS de 1993, 1996 e 1997 que não estão na lista de PAS da CVM.
 - 19 julgados e 30 índices citam fundos e empresas cujo nome contém um termo da lista privada do pre-commit. Por decisão do Diogo (2026-10-31), entram na base: a lista privada passou a aceitar expressões liberadas (linhas com "+"), que valem só nas pastas de julgados; o mesmo termo fora dessas expressões continua barrando.
+
+## Fase 3b: auditoria dos julgados (2026-11-03 a 2026-11-04)
+
+Método e taxas em `VERIFICACAO.md`, seção Julgados. Aqui ficam as correções feitas por causa da auditoria e as exceções que não contam como erro.
+
+Correções (todas com reconversão a partir da fonte, nunca sobre o texto publicado):
+
+- **Recorte da extração.** A deliberação que acompanha um voto "a seguir transcrito" deixava o dispositivo fora do recorte, e 473 ementas falavam "do recorte". O recorte passou a levar a conclusão do voto; o validador reprova a ementa que cita o recorte; 10.297 julgados com ementa, tema ou resultado reextraídos.
+- **Resultado do CRSFN.** Recurso de ofício negado mantém a absolvição; com recursos voluntários negados no mesmo acórdão, o resultado é `parcial` (110 acórdãos corrigidos; regra na SPEC).
+- **Texto perdido no PDF.** A regra das linhas repetidas apagava qualquer linha que aparecesse em 3 ou mais páginas, com os dígitos normalizados, inclusive texto de mérito e notas "Doc. nº". Passou a valer só na borda da página (1.995 julgados).
+- **Texto sobreposto.** PDFs que desenham o texto em camadas saíam com linhas repetidas e picadas (`cvm-pas-rj2014-3616`: 1.580 linhas duplicadas). As camadas viram uma linha (38 julgados).
+- **Ordem das linhas.** Trecho deslocado pelo PDFKit (número de parágrafo, sobrescrito, itálico) volta ao lugar quando o pypdf confirma (1.221 PDFs).
+- **Imagem em PDF nativo.** Tabelas e cartas que vinham só como imagem passam pelo OCR (448 julgados passaram a `ocr`).
+- **OCR.** "§" lido como "8" ou "$", romanos de incisos ("Il", "VIll"), siglas ("PAiS", "CVMi"), CNPJ/ME antes de 2019.
+- **Dados pessoais.** Passaporte; RG com órgão expedidor antes do número; regime de bens e profissão; nacionalidade antes de "com escritório"; endereço com ponto do OCR no meio; linha "CPF:" deformada pelo OCR; nome da testemunha no carimbo. "Residentes no Brasil", "no exterior" e "no país" deixaram de ser cortados como endereço (orações e citações restauradas). Política do corte conservador na SPEC.
+- **Ementa sem nome.** Ente público ("Estado de São Paulo", "União Federal") e frase do voto lida como parte deixaram de virar `[pessoa física]` (25 ementas).
+- **Metadados.** Termo de compromisso avulso usa a data de aprovação do texto, não a do nome do PDF (4); audiência pública sobre rito sumário é `normativo` (3); resultado de julgamento suspenso fica vazio na reconversão.
+
+Exceções (não contam como erro):
+
+- Quatro julgados do inventário sem endereço de fonte publicado: `cvm-pas-19957-001275-2016-65`, `cvm-tc-19957-004515-2018-45-20190326`, `cvm-tc-19957-009525-2018-17-20190910` e `cvm-tc-19957-010505-2018-49-20191023`.
+- CRSFN: 10 duplicatas (mesmo sha256 e mesmo corpo) apagadas. Grupos de PAS com o mesmo PDF e processos diferentes (julgamento conjunto) ficam, um arquivo por processo.
+- `crsfn-14361`: o documento traz dois acórdãos (Ac. 48/2018, de 2018-02-20, e Ac. 141/2018, de 2018-06-26), registrado no `incerteza`.
+- `crsfn-8543`: o PDF da fonte repete o texto do acórdão três vezes; o acervo reproduz e registra no `incerteza`.
+- `cvm-pas-19957-016206-2023-85` cita "art. 545 da RCVM nº 160/2022", artigo que não existe; o índice reproduz a citação como está no texto.
+- Decisões antigas (PDF anual de 1978 a 2001): um arquivo por ano, sem `tema` nem `resultado` por decisão.
+- Taxonomia: `classe: multa-cominatoria` agrupa recurso de multa cominatória, taxa de fiscalização, mecanismo de ressarcimento de prejuízos e fundo de garantia; no resultado do Colegiado, recurso contra indeferimento da área técnica é `provido`/`nao-provido` (SPEC).

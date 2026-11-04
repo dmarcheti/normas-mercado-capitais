@@ -81,7 +81,7 @@ _RG = re.compile(
     # o número (com ruído de OCR e órgão emissor) vai até a vírgula, o ponto e vírgula, o " e " ou
     # o "inscrito"/"expedida" seguinte; precisa de 4 dígitos para contar
     # (vírgula colada em dígito é separador lido errado pelo OCR: "12,345.678-9")
-    r"((?:\d|[A-Z]\d|(?:RNE-?)?[A-Z]{1,2}-\d)(?:[^,;\n()]|,(?=\d)){2,38}?(?=\s*(?:,(?!\d)|[;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
+    r"((?:\d|[A-Z]\d|(?:RNE-?)?[A-Z]{1,2}-\s?\d)(?:[^,;\n()]|,(?=\d)){2,38}?(?=\s*(?:,(?!\d)|[;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
     r"(?:\s*,?\s*(?:expedid[ao]|emitid[ao])\s+pel[ao]\s+[A-ZÀ-Ýa-z/\-. ]{2,30}?(?=[,;)\n]|\s+e\s|$))?)")
 
 
@@ -242,7 +242,10 @@ _PASSAPORTE = re.compile(r"\bpassaporte(?:\s+[a-zà-ÿ]+){0,2}?\s*(?:n[º°o.]*\
 _NACIONALIDADE = (r"(?:brasileir|estrangeir|portugu[êe]s|argentin|american|norte-american|italian|"
                   r"espanhol|franc[êe]s|alem[ãa]|urugua|chilen|paraguai|japon[êe]s|chin[êe]s|"
                   r"ingl[êe]s|britânic|suíç|holand[êe]s|belg|canadense|mexican|colombian|"
-                  r"peruan|venezuelan|libanês|naturalizad)[a-zçã]*")
+                  r"peruan|venezuelan|libanês|naturalizad|norueg|suec|dinamarqu|finland|"
+                  r"austr[ií]ac|russ|polon|h[úu]ngar|tchec|grec|israelense|sul-african|angolan|"
+                  r"moçambican|indian|coreano|australian|irland|luxemburgu|cubano|equatorian|"
+                  r"bolivian|panamenh|guatemaltec|dominican|estadunidense)[a-zçãêé]*")
 _ESTADO_CIVIL = r"(?:solteir|casad|divorciad|separad|vi[uú]v|desquitad|em\s+uni[ãa]o\s+est[áa]vel|convivente)[a-z]*"
 _DOC_SEG = (r"residente|domiciliad|portador|inscrit|com\s+endere|com\s+escrit|passaporte|"
             r"R\.?G\b|CPF|C\.P\.F|carteira|"

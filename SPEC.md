@@ -167,7 +167,7 @@ Campos, todos obrigatórios, nesta ordem; um valor por linha (`chave: valor`), s
 | `id` | conforme o tipo (tabela acima) |
 | `orgao` | `cvm`; `crsfn` no `acordao-crsfn` |
 | `tipo` | `pas`, `termo-compromisso`, `decisao-colegiado`, `decisao-antiga` ou `acordao-crsfn` |
-| `classe` | só no Colegiado: `recurso`, `consulta`, `dispensa`, `registro`, `normativo`, `reconsideracao`, `incidente-pas`, `multa-cominatoria`, `institucional` ou `outros` (pelo título); obrigatória em `decisao-colegiado` |
+| `classe` | só no Colegiado: `recurso`, `consulta`, `dispensa`, `registro`, `normativo`, `reconsideracao`, `incidente-pas`, `multa-cominatoria`, `institucional` ou `outros` (pelo título; `multa-cominatoria` agrupa multa cominatória, taxa de fiscalização, mecanismo de ressarcimento de prejuízos e fundo de garantia); obrigatória em `decisao-colegiado` |
 | `processo` | número(s) do processo como publicado(s), separados por `; `, sem nome de parte; vazio só em `decisao-antiga` e no item do Colegiado (`decisao-colegiado` ou `termo-compromisso` com id `cvm-col-`) sem processo publicado (agenda regulatória, plano de auditoria, apresentação, alteração de termo); nos TCs de 2004–2006 o número do PAS vem do título ("PAS CVM Nº 27/99" → `27/99`) |
 | `nup` | NUP normalizado (`19957-011607-2024-20`) ou vazio |
 | `rito` | `ordinario`, `simplificado` ou vazio |
