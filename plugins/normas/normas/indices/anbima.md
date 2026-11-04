@@ -25,7 +25,7 @@ Autorregulação: texto de titularidade da entidade, uso informativo (ver `autor
 | Regras e Procedimentos de Ofertas Públicas | 2025-03-24 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-de-ofertas-publicas.md |
 | Regras e Procedimentos do Código de Administração e Gestão de Recursos | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-administracao-e-gestao-de-recursos.md |
 | Regras e Procedimentos do Código de Distribuição | 2025-09-22 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-distribuicao.md |
-| Regras e Procedimentos do Código de Negociação | 2026-10-29 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-negociacao.md |
+| Regras e Procedimentos do Código de Negociação | 2024-11-01 | 2026-11-04 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-negociacao.md |
 | Regras e Procedimentos do Código de Serviços Qualificados | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-do-codigo-de-servicos-qualificados.md |
 | Regras e procedimentos para adesão e associação aos Códigos | 2026-10-29 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-para-adesao-e-associacao-aos-codigos.md |
 | Regras e procedimentos para envio de informações para a base de dados | 2024-01-02 | 2026-10-29 | autorregulacao/anbima/regras-e-procedimentos-para-envio-de-informacoes-para-a-base-de-dados.md |
