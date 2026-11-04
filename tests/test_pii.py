@@ -349,6 +349,15 @@ class Fase3bVarreduraTest(unittest.TestCase):
         self.assertIn("Fundo Alfa FIA 12345 Transferido em", r)
         self.assertIn("4. Reclamante: Empresa Exemplo Ltda.", r)
 
+    def test_bloco_de_testemunhas_para_no_titulo_de_anexo(self):
+        for titulo in ("Anexo 1", "ANEXO I", "ANEXO II - Declaração"):
+            t = ("Testemunhas:\nNome: FULANA EXEMPLO\nCPF:\nNome: BELTRANO EXEMPLO\nCPF:\n"
+                 + titulo + "\n\"Na qualidade de ex-diretor, o declarante reconhece o dever.\"\n")
+            r = pii.limpar(t)
+            self.assertNotIn("FULANA", r)
+            self.assertNotIn("BELTRANO", r)
+            self.assertIn("\n" + titulo + "\n\"Na qualidade", r)
+
     def test_bloco_de_testemunhas_segue_no_carimbo_com_ruido(self):
         t = ("Testemunhas:\nNome: FULANA EXEMPLO\n48 x#1\nReconheço por semelhança a firma de\n"
              "BELTRANO EXEMPLO\nEscrevente autorizado\n")

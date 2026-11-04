@@ -175,6 +175,20 @@ class PecasTest(unittest.TestCase):
         texto, n = conv.tirar_repetidas(paginas)
         self.assertEqual((n, texto.count(fecho)), (0, 3))
 
+    def test_tirar_repetidas_mantem_linha_de_tabela_so_com_numeros(self):
+        # cvm-pas-19957-002595-2017-13: linhas de tabela só com números ("29.100 12:24:42 /
+        # 12:30:41") na borda de 3 páginas não são rodapé; o rodapé só de números igual sai
+        paginas = []
+        for i, nome in enumerate(NOMES_PAGINA[:3]):
+            paginas.append("\n".join(
+                ["%d.100 12:2%d:42 / 12:30:41" % (20 + i, i)] + [unica(nome, j) for j in range(5)]
+                + ["19957.000003/2022-03"]))
+        texto, n = conv.tirar_repetidas(paginas)
+        self.assertEqual(n, 3)
+        self.assertNotIn("19957.000003/2022-03", texto)
+        for i in range(3):
+            self.assertIn("%d.100 12:2%d:42 / 12:30:41" % (20 + i, i), texto)
+
     def test_tirar_repetidas_preserva_bloco_de_interessados(self):
         # cvm-pas-rj2007-4247: o 2º interessado, linha só com o nome, repetido no topo das peças
         paginas = []
@@ -308,6 +322,85 @@ class PecasTest(unittest.TestCase):
         self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(pk, ""), pk)
         self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(pk, pk), pk)
 
+    def test_ordem_do_pypdf_devolve_linha_curta_solta_ao_meio_da_frase(self):
+        pk = ("b. a norma, de fato, não se aplica ao caso, pelo que a multa de que se trata foi "
+              "aplicada em razão do atraso, mas sim nos termos do item 7\n"
+              ", retro ;\nnão\nc. na assembleia, estavam presentes todos os acionistas;\n"
+              "d. o comparecimento dispensa o edital de convocação.\n")
+        py = ("b\n. \na norma, de fato, \nnão\n se aplica ao caso, pelo que a multa de que se trata "
+              "\nnão\nfoi aplicada em razão do atraso, \nmas sim nos termos do item 7, retro\n;\nc\n."
+              " \nna assembleia, estavam presentes todos os acionistas;\nd\n. \no comparecimento "
+              "dispensa o edital de convocação.\n")
+        dbg = []
+        t = conv.reordenar_pela_ordem_do_pypdf(pk, py, dbg)
+        self.assertIn("de que se trata não foi aplicada", t)
+        self.assertIn(", retro ;\nc. na assembleia", t)
+        self.assertEqual(sorted(t.split()), sorted(pk.split()))
+        self.assertEqual(dbg, [("não", "linha-curta")])
+        termo = ("Cláusula 7ª - A Superintendência deverá atestar o cumprimento das obrigações.\n"
+                 "Cláusula 8ª - Uma vez cumpridas as obrigações, conforme atestado pela homologado "
+                 "pelo Colegiado, o processo será arquivado.\nSAD e\n"
+                 "Cláusula 9ª - Caso o compromitente não cumpra as obrigações assumidas.\n")
+        py2 = ("Cláusula 7ª - \nA Superintendência deverá atestar o cumprimento das obrigações.\n"
+               "Cláusula 8ª -\n Uma vez cumpridas as obrigações, conforme atestado pela \nSAD\n e\n"
+               "homologado pelo Colegiado, o processo será arquivado.\nCláusula 9ª\n - Caso o "
+               "compromitente não cumpra as obrigações assumidas.\n")
+        self.assertIn("atestado pela SAD e homologado pelo Colegiado, o processo será arquivado.\n"
+                      "Cláusula 9ª", conv.reordenar_pela_ordem_do_pypdf(termo, py2))
+
+    def test_ordem_do_pypdf_devolve_linha_inteira_levada_para_longe(self):
+        miolo = "".join("Linha %s do histórico, com texto próprio e sem relação.\n" % c
+                        for c in "abcdefgh")
+        pk = ("Cabeçalho do documento\nRelatório da área técnica\nAssunto do pedido\n"
+              "HISTÓRICO:\n"
+              "Em resposta protocolada em 1/11/2006, a companhia solicitou o registro, conforme "
+              "apresentado a\nEm 16/8/2006 os administradores solicitaram o cancelamento.\n" + miolo
+              + "Instrução.\nseguir.\nALEGAÇÕES DA COMPANHIA:\nTexto das alegações da companhia.\n"
+              "Mais texto das alegações.\nFim do texto da página.\n")
+        py = ("Cabeçalho do documento\nRelatório da área técnica\nAssunto do pedido\nHISTÓRICO:\n"
+              "Em 16/8/2006 os administradores solicitaram o cancelamento.\n" + miolo +
+              "Instrução.\nEm resposta protocolada em 1/11/2006, a companhia solicitou o registro, "
+              "conforme apresentado a\nseguir.\nALEGAÇÕES DA COMPANHIA:\nTexto das alegações da "
+              "companhia.\nMais texto das alegações.\nFim do texto da página.\n")
+        dbg = []
+        t = conv.reordenar_pela_ordem_do_pypdf(pk, py, dbg)
+        self.assertEqual(t, py)
+        self.assertEqual([g for _, g in dbg], ["linha-longe"])
+        # destino no meio da linha: entra com espaço
+        pk2 = ("21. As intimações foram recebidas.\nTexto do relatório.\nVI. Defesa\n22. seção.\n23. Preliminarmente, alegaram a decadência do processo.\n"
+               + miolo + "como também este não\nEm defesa conjunta apresentada pelos acusados, "
+               "trouxeram os argumentos descritos nesta\n3/8\n")
+        py2 = ("21\n. \nAs intimações foram recebidas.\nTexto do relatório.\nVI\n. \nDefesa\n22\n. \nEm defesa conjunta apresentada pelos acusados, trouxeram os "
+               "argumentos descritos nesta\nseção.\n23\n. \nPreliminarmente, alegaram a decadência "
+               "do processo.\n" + miolo + "como também este não\n3/8")
+        t2 = conv.reordenar_pela_ordem_do_pypdf(pk2, py2)
+        self.assertIn("22. Em defesa conjunta apresentada pelos acusados, trouxeram os argumentos "
+                      "descritos nesta seção.\n23.", t2)
+        self.assertIn("este não\n3/8", t2)
+
+    def test_ordem_do_pypdf_linha_solta_ambigua_rodape_ou_fim_de_frase_fica(self):
+        miolo = "".join("Linha %s do voto, com texto próprio e sem relação.\n" % c
+                        for c in "abcdefgh")
+        topo = "COMISSÃO DE VALORES MOBILIÁRIOS\nwww.cvm.gov.br\n"
+        # rodapé de paginação que o pypdf põe no alto da página
+        rod = topo + "continuação da frase da página anterior.\n" + miolo + (
+            "Processo Administrativo Sancionador CVM nº 17/2013 – Voto 17 de 18\nVoto pg. 32\n")
+        py = topo + ("Processo Administrativo Sancionador CVM nº 17/2013 – Voto 17 de 18\n"
+                     "continuação da frase da página anterior.\n" + miolo + "Voto pg. 32\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(rod, py), rod)
+        # nota de rodapé que fecha frase não entra entre dois parágrafos
+        nota = ("Primeiro parágrafo do voto termina aqui.\nSegundo parágrafo do voto começa aqui.\n"
+                + miolo + "12 Ver o art. 5º da Instrução.\nFim.\n")
+        py2 = ("Primeiro parágrafo do voto termina aqui.\n12 Ver o art. 5º da Instrução.\n"
+               "Segundo parágrafo do voto começa aqui.\n" + miolo + "Fim.\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(nota, py2), nota)
+        # palavra curta com dois destinos possíveis no pypdf: fica
+        amb = ("o caso se aplica à companhia e o caso se aplica ao fundo.\nnão\n"
+               "Texto seguinte do voto.\n")
+        py3 = ("o caso não se aplica à companhia e o caso não se aplica ao fundo.\n"
+               "Texto seguinte do voto.\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(amb, py3), amb)
+
     def test_texto_pdf_reordena_so_com_o_pypdf_disponivel(self):
         caminho = os.path.join(tempfile.gettempdir(), "nao-existe-ordem.pdf")
         pk = ("Da negociação com uso de informação privilegiada\n7. abertas:\n"
@@ -352,6 +445,47 @@ class PecasTest(unittest.TestCase):
             pagina, self.TABELA_OCR + "4. O incremento das análises exigiu mais servidores.\n", "")
         self.assertEqual(dup.count("O incremento"), 1)
 
+    def test_duas_imagens_com_clausulas_parecidas_entram_as_duas(self):
+        # cvm-col-20250319-d1: cláusula 7.6.1 da 1ª emissão e 7.9.1 da 2ª, quase iguais, em duas
+        # imagens da mesma página: a segunda não é cópia da primeira (só do texto da página)
+        pagina = "Escritura de Emissão da Primeira Emissão:\nEscritura da Segunda:\n12. Fim.\n"
+        um = ("7.6.1. Qualquer alteração (i) no prazo de vigência das Debêntures; (ii) na Data\n"
+              "de Vencimento; (iii) no parâmetro de cálculo dos Juros Remuneratórios; (iv)\n"
+              "no quórum de deliberação das Assembleias Gerais de Debenturistas.\n")
+        # mesma cláusula com outra quebra de linha (nenhuma linha idêntica, como na fonte)
+        dois = ("7.9.1. Qualquer alteração (i) no prazo de vigência das Debêntures; (ii) na\n"
+                "Data de Vencimento; (iii) no parâmetro de cálculo dos Juros Remuneratórios;\n"
+                "(iv) no quórum de deliberação das Assembleias Gerais de Debenturistas.\n")
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-duas.pdf")
+        pm = PdfFalso({"nao-existe-duas.pdf": "Capa do voto, sem imagem nenhuma.\f" + pagina})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                mock.patch.object(conv, "_imagens_sem_texto", return_value=[
+                    (1, (40, 600, 520, 90), "Escritura da Segunda", True),
+                    (1, (40, 400, 520, 90), "12. Fim.", True)]), \
+                mock.patch.object(conv, "_ocr_regiao", side_effect=[(um, 1.0), (dois, 1.0)]):
+            pags = conv.texto_pdf(caminho, pm)[0]
+        self.assertIn("Primeira Emissão:\n7.6.1. Qualquer", pags[1])
+        self.assertIn("Segunda:\n7.9.1. Qualquer", pags[1])
+        self.assertEqual(pags[1].count("quórum de deliberação"), 2)
+
+    def test_mesma_imagem_lida_duas_vezes_entra_uma_vez(self):
+        # cvm-pas-rj2014-3616: a mesma tabela em caixas sobrepostas
+        pagina = "Relatório de auditoria\nPontos levantados:\n13. Fim.\n"
+        um = ("Ponto Assunto Valor envolvido e descrição do achado\n"
+              "1 Gestão dos MR$ 222 no 3º trimestre de 2010 o Grupo vem identificando\n"
+              "2 Provisões de curto prazo sem lastro documental adequado no período\n")
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-repetida.pdf")
+        pm = PdfFalso({"nao-existe-repetida.pdf": "Capa.\f" + pagina})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                mock.patch.object(conv, "_imagens_sem_texto", return_value=[
+                    (1, (40, 600, 520, 90), "13. Fim.", False),
+                    (1, (40, 590, 520, 95), "13. Fim.", False)]), \
+                mock.patch.object(conv, "_ocr_regiao", side_effect=[(um, 1.0), (um, 1.0)]):
+            pags = conv.texto_pdf(caminho, pm)[0]
+        self.assertEqual(pags[1].count("Provisões de curto prazo"), 1)
+
     def test_texto_de_imagem_curto_ou_so_timbre_nao_entra(self):
         pagina = "Texto da página com o voto.\n"
         for ocr in ("COMISSÃO DE VALORES MOBILIÁRIOS\n", "3211\n",
@@ -388,6 +522,59 @@ class PecasTest(unittest.TestCase):
                     mock.patch.object(conv, "_ocr_regiao", return_value=ocr):
                 self.assertEqual(conv.texto_pdf(caminho, pm)[:2],
                                  ([jc.normalizar_pdf(x) for x in pk.split("\f")], "pdf-extraido"))
+
+    def test_imagem_em_faixa_larga_entra_e_logotipo_ou_cabecalho_repetido_nao(self):
+        f, area, larg = conv._tipo_de_imagem, 595 * 842, 595
+        self.assertEqual(f(371, 85, larg, area), "faixa")      # recorte de citação: ~6% da página
+        self.assertEqual(f(500, 300, larg, area), "grande")    # tabela grande: ~30%
+        self.assertIsNone(f(200, 150, larg, area))             # logotipo/assinatura: estreita
+        self.assertIsNone(f(500, 20, larg, area))              # filete: menos de 3%
+        self.assertIsNone(f(595, 842, larg, area))             # página inteira
+        caixas = [(n, (40, 760, 520, 60), "", True) for n in range(3)]
+        caixas += [(4, (116, 426, 371, 85), "13. Além", True), (5, (40, 300, 520, 300), "", False)]
+        self.assertEqual(conv._sem_faixas_repetidas(caixas),
+                         [(4, (116, 426, 371, 85), "13. Além", True),
+                          (5, (40, 300, 520, 300), "", False)])
+
+    def test_ocr_de_faixa_embaralhado_nao_entra(self):
+        self.assertTrue(conv._ocr_embaralhado(
+            "48719 DOH DELD=DYqCAÑDDuSODD SOH§OLBDDDD DDBS*D/ONOiOr5 DDDVD quDRSSD0D0RSD05IbDD\n"
+            "Jan-15 fev-15 rnw-15 *p15 rn*15 hTr15 2br15 TOTE\n"))
+        self.assertFalse(conv._ocr_embaralhado(self.TABELA_OCR))
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-faixa.pdf")
+        pk = ("Texto da primeira página do voto, sem imagem.\f"
+              "3. O mercado cresceu a partir desta década.\n"
+              "4. O incremento das análises exigiu mais servidores.\n")
+        pm = PdfFalso({"nao-existe-faixa.pdf": pk})
+        lixo = "".join("Jan-15 rnw-15 *p15 hTr15 2br15 DDBS*D/ONOi DYqCAÑ %d\n" % i
+                       for i in range(4))
+        for ocr, entra in ((self.TABELA_OCR, True), (lixo, False)):
+            with mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                    mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                    mock.patch.object(conv, "_imagens_sem_texto",
+                                      return_value=[(1, (116, 426, 371, 85), "4. O incr", True)]), \
+                    mock.patch.object(conv, "_ocr_regiao", return_value=(ocr, 1.0)):
+                pags = conv.texto_pdf(caminho, pm)[0]
+            self.assertEqual("Número de entidades" in pags[1] or "rnw-15" in pags[1], entra, ocr)
+
+    def test_ocr_vao_no_inicio_de_frase_vira_nao(self):
+        f = conv.corrigir_ocr
+        self.assertEqual(f("foge à competência da CVM.\nVão é possível, contudo, considerar"),
+                         "foge à competência da CVM.\nNão é possível, contudo, considerar")
+        self.assertEqual(f("do controle. Vão se cuida, portanto"), "do controle. Não se cuida, portanto")
+        self.assertEqual(f("Vão obstante o exposto"), "Não obstante o exposto")
+        self.assertEqual(f("12. Vão houve dano"), "12. Não houve dano")
+        # verbo "ir" de verdade, meio de frase ou palavra fora da lista: fica
+        for t in ("Vão se tornando comuns esses recursos", "no mês passado. Vão ser sete ligações",
+                  "os recursos que vão é para lá", "Outros Direitos de Vão coberta",
+                  "Multa\nVão caracterização da imputação"):
+            self.assertEqual(f(t), t)
+        # só no OCR: a página extraída do PDF não passa por corrigir_ocr
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-vao.pdf")
+        pm = PdfFalso({"nao-existe-vao.pdf": "Vão é possível concluir de outro modo aqui."})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=1), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=None):
+            self.assertIn("Vão é possível", conv.texto_pdf(caminho, pm)[0][0])
 
     def test_ocr_paragrafo_lido_como_8(self):
         f = conv.corrigir_ocr
@@ -980,6 +1167,17 @@ class TimbreTest(unittest.TestCase):
                  "O Diretor VALORES votou.\nCVM")
         limpo, _ = conv.tirar_timbre(texto)
         self.assertEqual(limpo.strip(), "O Diretor VALORES votou.\nCVM")
+
+    def test_brasil_sozinho_so_e_timbre_depois_do_endereco(self):
+        # "Banco Central do / Brasil." é texto (rj2014-0918, 22-2005); "Brasil" depois do
+        # endereço da CVM é timbre (col-20020529-d07)
+        texto = ("autorizadas a funcionar pelo Banco Central do\nBrasil.\nArt. 9º A instituição\n"
+                 "20159-900 Rio de Janeiro RJ\nBrasil\nTel: (21) 3233-8686\nFim do voto.")
+        limpo, n = conv.tirar_timbre(texto)
+        self.assertEqual(limpo, "autorizadas a funcionar pelo Banco Central do\nBrasil.\n"
+                                "Art. 9º A instituição\nFim do voto.")
+        self.assertEqual(n, 3)
+        self.assertFalse(conv._linha_de_timbre("Brasil."))
 
     def test_pdf_tira_timbre_tambem_sem_regra_de_repetidas(self):
         pasta = tempfile.mkdtemp()

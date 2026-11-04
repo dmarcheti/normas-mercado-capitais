@@ -266,6 +266,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 5º | decisao-colegiado | RJ2005/5211 | 2007-05-08 | indeferido | securitizacao | O Colegiado indeferiu a renúncia dos Bancos Tricury S.A. e Paulista S.A. como agentes fiduciários de debêntures da Feniciapar S.A. e manteve sua atuação, acompanhando o voto do Presidente. Fundamento: são inúmeros os titulares, e a manutenção resguarda seus interesses até que a assembleia de debenturistas delibere sobre novo agente. | cvm/colegiado/2007/col-20070508-d05.md |
 
+### art. 6º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2003/5675 | 2003-06-25 | nao-provido | outros | O Colegiado indeferiu recurso contra manifestação da PJU, na qualidade de amicus curiae, em processo de falência da Teletrust Recebíveis S/A, na qual a PJU opinou que a Karta DTVM era legítima representante dos debenturistas para requerer a falência. | cvm/colegiado/2003/col-20030625-d01.md |
+
 ### art. 7º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -314,7 +320,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/5675 | 2003-06-25 | nao-provido | outros | O Colegiado indeferiu recurso contra manifestação da PJU, na qualidade de amicus curiae, em processo de falência da Teletrust Recebíveis S/A, na qual a PJU opinou que a Karta DTVM era legítima representante dos debenturistas para requerer a falência. | cvm/colegiado/2003/col-20030625-d01.md |
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
 
 ## icvm-29
@@ -1453,11 +1458,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-224
 
+### art. 34
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 34 | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
+
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
 | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | fundos-investimento | O Colegiado deu provimento a recurso da Hedging-Griffo CV S.A., administradora do Tarpon HG Fundo de Investimento em Ações, contra decisão da SIN que determinou resgate do montante aplicado no fundo por FIFs, publicação de esclarecimentos na Gazeta Mercantil e supressão da palavra 'Tarpon' da denominação do fundo, nos termos do voto do diretor-relator. | cvm/colegiado/2003/col-20030408-d01.md |
 
 ## icvm-225

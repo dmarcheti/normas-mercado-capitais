@@ -17,14 +17,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2006/4320 | 2006-08-15 | outro | infraestrutura-mercado | O Colegiado aprovou, por unanimidade, enviar ao CMN proposta de alteração da Resolução 2.689/00 para prever cancelamento unilateral do registro em casos como o de títulos não negociáveis por falência das emissoras, nos termos do voto do Presidente. O pleito de write-off do BankBoston não tinha respaldo em norma expressa do CMN. | cvm/colegiado/2006/col-20060815-d03.md |
 | decisao-colegiado | SP2001/0300 | 2002-06-11 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0300. | cvm/colegiado/2002/col-20020611-d09.md |
 
-## res-cmn-6
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/8252 | 2008-04-15 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2006/8252. | cvm/colegiado/2008/col-20080415-d04.md |
-
 ## res-cmn-39
 
 ### art. 11

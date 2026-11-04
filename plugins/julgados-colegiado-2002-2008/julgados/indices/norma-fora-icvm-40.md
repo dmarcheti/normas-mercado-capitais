@@ -71,12 +71,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 20 | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
 
-## art. 34
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 34 | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

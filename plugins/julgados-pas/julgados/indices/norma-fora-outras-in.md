@@ -58,11 +58,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## in-358
 
-### Citada sem dispositivo identificado
+### art. 2º
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual descumprimento ao disposto no art. 157, §4º, da Lei nº 6.404/1976 c/c art. 3º, §5º, da Instrução CVM nº 358/2002. Multa. | cvm/pas/2023/19957-007550-2019-05.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º | pas | 19957.007550/2019-05 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual descumprimento ao disposto no art. 157, §4º, da Lei nº 6.404/1976 c/c art. 3º, §5º, da Instrução CVM nº 358/2002. Multa. | cvm/pas/2023/19957-007550-2019-05.md |
 
 ## in-371
 

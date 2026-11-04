@@ -350,6 +350,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2006/0105 | 2008-12-02 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0105. | cvm/colegiado/2008/col-20081202-d06.md |
 | decisao-colegiado | SP2006/0211 | 2008-11-25 | nao-provido | processual | Pedido de reconsideração de decisão colegiado em processo de fundo de garantia. Proc. SP2006/0211. | cvm/colegiado/2008/col-20081125-d21.md |
+| decisao-colegiado | RJ2006/8252 | 2008-04-15 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2006/8252. | cvm/colegiado/2008/col-20080415-d04.md |
 | decisao-colegiado | — | 2008-02-26 | parcial | infraestrutura-mercado | Regulamento processual e regulamento do mecanismo de ressarcimento de prejuízos da BSM. | cvm/colegiado/2008/col-20080226-d41.md |
 | decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2007/0202. | cvm/colegiado/2007/col-20071204-d04.md |
 | decisao-colegiado | SP2007/0168 | 2007-10-09 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento a recurso da BM&F contra decisão da SMI que determinara divulgar aos associados o detalhamento das mutações do patrimônio líquido de 2006. Fundamentos: a BM&F não é companhia aberta e não houve infração à Resolução CMN 2.690/00. Um diretor ficou vencido. | cvm/colegiado/2007/col-20071009-d02.md |

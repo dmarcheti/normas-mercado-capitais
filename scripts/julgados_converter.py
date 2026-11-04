@@ -28,6 +28,7 @@ Uso:
 """
 import argparse
 import bisect
+import collections
 import datetime
 import difflib
 import json
@@ -100,15 +101,22 @@ _OCR_CIFRAO = re.compile(r"(?<![A-Za-z])\$(\s?)(\d{1,2})\s*[°º]")
 _OCR_CNPJ_ME = re.compile(r"\bCNPJ(\s*/\s*)ME\b")
 DATA_CNPJ_ME = "2019-01-01"
 
+# "Não" lido como "Vão" no início da frase, antes de verbo ou expressão que só segue a negação
+# ("Vão é possível", "Vão obstante"); "Vão se" + gerúndio é o verbo "ir" ("Vão se tornando").
+_OCR_NAO = re.compile(r"(^|[.!?:;][ \t]+|\n[ \t]*)Vão(?=[ \t]+(?:é|há|foi|houve|obstante|cabe|"
+                      r"consta|existe|pode|deve|sendo|se(?![ \t]+\w+ndo\b))\b)")
+
 
 def corrigir_ocr(texto, data=None):
-    """Texto de página lida por OCR com "§" e os romanos I e II corrigidos (padrões acima) e, em
+    """Texto de página lida por OCR com "§" e os romanos I e II corrigidos (padrões acima),
+    "Vão" no início da frase como "Não" (antes de é, há, foi etc.) e, em
     julgado anterior a 2019 (`data` AAAA-MM-DD), "CNPJ/ME" como "CNPJ/MF"."""
     if data and data < DATA_CNPJ_ME:
         texto = _OCR_CNPJ_ME.sub(r"CNPJ\1MF", texto)
     texto = _OCR_PARAGRAFO.sub(lambda m: "%s§%s%sº" % (m.group(1), "§" if m.group(2) else "",
                                                       m.group(3)), texto)
     texto = _OCR_INCISOS.sub(r"\1I\2II", texto)
+    texto = _OCR_NAO.sub(r"\1Não", texto)
 
     def _inciso(m):
         rom = m.group(2).replace("l", "I").replace("1", "I")
@@ -270,7 +278,12 @@ def _maior_crescente(seq):
 
 def reordenar_pela_ordem_do_pypdf(pk, py, debug=None):
     """Página do PDFKit `pk` com os trechos fora de ordem de volta ao lugar que têm no texto do
-    pypdf `py` (regra acima). `debug`: lista que recebe (trecho, gatilho) de cada trecho movido."""
+    pypdf `py` (regra acima) e, depois, as linhas soltas (mover_linhas_soltas). `debug`: lista
+    que recebe (trecho, gatilho) de cada trecho ou linha movida."""
+    return mover_linhas_soltas(_reordenar_trechos(pk, py, debug), py, debug)
+
+
+def _reordenar_trechos(pk, py, debug=None):
     us = _trechos_no_pypdf(pk, py or "")
     if not us:
         return pk
@@ -323,6 +336,96 @@ def reordenar_pela_ordem_do_pypdf(pk, py, debug=None):
     return pk[:us[0][0]] + "".join(pk[us[i][0]:us[i][1]] for i in seq)
 
 
+# Linha solta inteira fora do lugar (depois da passada por trechos): uma palavra curta tirada da
+# frase ("de que se trata foi aplicada" + linha "não"; "atestado pela homologado" + linha
+# "SAD e") ou uma linha inteira levada para longe ("22. seção." e a linha "Em defesa conjunta...
+# nesta" no fim da página). A linha volta para o lugar em que o pypdf a põe quando: (1) no lugar
+# atual o pypdf a contradiz (o texto de antes ou o de depois não encosta nela no pypdf) e, sem
+# ela, o texto de antes encosta no de depois (o lugar velho se fecha); (2) o lugar novo é único:
+# só um ponto da página, entre palavras inteiras, tem à esquerda e à direita os 12 caracteres
+# que cercam a linha no pypdf; (3) o lugar novo é meio de frase (a linha não fecha frase e o
+# texto seguinte começa em minúscula, ou o texto anterior não fecha frase e a linha começa em
+# minúscula); (4) linha curta (até 3 palavras, 2 letras ou mais) só a até 4 linhas; linha mais
+# longa (20 caracteres ou mais) vai a qualquer ponto da página, se aparece uma só vez no pypdf
+# da página, mas não para as 3 primeiras linhas fora do timbre nem as 3 últimas (o rodapé que o
+# pypdf põe no alto da página). Não se movem a primeira e a última linha da página, linha sem
+# letra (número de página), linha com paginação ("Página 6 de 46", "pg. 38", "Voto 17 de 18")
+# nem linha de timbre. O texto da linha não muda.
+ORDEM_CONTEXTO, ORDEM_LINHA_CURTA, ORDEM_LINHA_LONGA, ORDEM_MAX_LINHAS = 12, 3, 20, 5
+_FIM_DE_FRASE = ".;:!?"
+_PAGINACAO = re.compile(
+    r"(?i)\bp[áa]g(?:ina|\.)?\s*\d+\s*(?:de|/)\s*\d+|\bpg\.\s*\d+|\b\d+\s+de\s+\d+\s*$")
+
+
+def _mover_uma_linha(pk, cp, debug):
+    """Página com uma linha solta de volta ao lugar (regra acima), ou None."""
+    linhas = pk.split("\n")
+    cs = [re.sub(r"\s+", "", x) for x in linhas]
+    cheias = [i for i, c in enumerate(cs) if c]
+    m = ORDEM_CONTEXTO
+    for li in cheias[1:-1]:
+        c, solta = cs[li], linhas[li].strip()
+        curta = len(solta.split()) <= ORDEM_LINHA_CURTA
+        if curta:
+            if sum(ch.isalpha() for ch in c) < 2:
+                continue
+        elif len(c) < ORDEM_LINHA_LONGA or cp.count(c) != 1:
+            continue
+        if (not any(ch.isalpha() for ch in c) or _linha_de_timbre(solta)
+                or _PAGINACAO.search(solta)):
+            continue
+        antes, depois = "".join(cs[:li])[-m:], "".join(cs[li + 1:])[:m]
+        if (antes + c in cp and c + depois in cp) or antes + depois not in cp:
+            continue
+        texto = "\n".join(linhas[:li] + linhas[li + 1:])
+        cr, ir = _sem_espacos(texto)
+        destinos = set()
+        p = cp.find(c)
+        while p >= 0:
+            a, b = cp[max(0, p - m):p], cp[p + len(c):p + len(c) + m]
+            q = cr.find(a + b) if a and b else -1
+            while q >= 0:
+                destinos.add(q + len(a))
+                q = cr.find(a + b, q + 1)
+            p = cp.find(c, p + 1)
+        if len(destinos) != 1:
+            continue
+        s = destinos.pop()
+        ini, vao = ir[s], texto[ir[s - 1] + 1:ir[s]]
+        if not vao:
+            continue  # destino no meio de uma palavra
+        destino = texto.count("\n", 0, ini)
+        if curta and abs((destino if destino < li else destino + 1) - li) > ORDEM_JANELA:
+            continue
+        if not curta:
+            acima = sum(1 for x in texto[:ini].split("\n")
+                        if x.strip() and not _linha_de_timbre(x))
+            if not BORDA_LINHAS <= acima <= len(cheias) - 1 - BORDA_LINHAS:
+                continue  # destino na borda da página
+        esquerda = texto[:ini].rstrip()
+        if not ((solta[-1] not in _FIM_DE_FRASE and texto[ini].islower())
+                or (esquerda[-1:] not in _FIM_DE_FRASE and solta[0].islower())):
+            continue
+        if debug is not None:
+            debug.append((solta, "linha-curta" if curta else "linha-longe"))
+        return texto[:ini] + solta + ("\n" if "\n" in vao else " ") + texto[ini:]
+    return None
+
+
+def mover_linhas_soltas(pk, py, debug=None):
+    """Página do PDFKit `pk` com as linhas soltas de volta ao lugar que têm no pypdf `py`
+    (regra acima). `debug`: lista que recebe (linha, "linha-curta" ou "linha-longe")."""
+    cp = _sem_espacos(py or "")[0]
+    if not cp:
+        return pk
+    for _ in range(ORDEM_MAX_LINHAS):
+        nova = _mover_uma_linha(pk, cp, debug)
+        if nova is None:
+            break
+        pk = nova
+    return pk
+
+
 def _paginas_pypdf_ou_nada(caminho):
     """Páginas do pypdf normalizadas, ou None (sem o módulo, PDF ilegível)."""
     try:
@@ -335,18 +438,67 @@ def _paginas_pypdf_ou_nada(caminho):
 # Imagem grande numa página com texto (tabela colada como imagem, trecho escaneado): o PDFKit
 # não lê o que está nela. Imagem que cobre de 10% a 90% da página, sem texto (pypdf) dentro da
 # área dela, passa pelo OCR só na área da imagem; as linhas lidas entram antes da primeira linha
-# de texto abaixo da imagem (ou no fim da página). Não entram linhas de timbre nem linhas longas
-# que já estão na página; o bloco só entra com confiança média de 0,8, 3 linhas, 100 caracteres
+# de texto abaixo da imagem (ou no fim da página). Vale também a faixa larga de 3% a 10% da página
+# (largura de metade da página ou mais): o recorte de uma citação ou de uma tabela de poucas
+# linhas, que a figura pequena (logotipo, assinatura) não alcança; a faixa na mesma posição em 3
+# páginas ou mais (cabeçalho em imagem) fica de fora, e o OCR da faixa com 12% ou mais das
+# palavras embaralhadas (gráfico, tela de sistema) não entra. Não entram linhas de timbre
+# nem linhas longas que já estão na página; o bloco só entra com confiança média de 0,8, 3 linhas, 100 caracteres
 # e 12 caracteres por linha, em média (o logotipo da CVM e os rótulos de gráfico ficam de fora).
 IMAGEM_FRACAO_MIN, IMAGEM_FRACAO_MAX, IMAGEM_TEXTO_DENTRO = 0.10, 0.90, 20
 IMAGEM_PIXELS_MIN = 60000
+IMAGEM_FAIXA_MIN, IMAGEM_FAIXA_LARGURA = 0.03, 0.5
 IMAGEM_CONFIANCA, IMAGEM_LINHAS, IMAGEM_CARACTERES, IMAGEM_LINHA_LONGA = 0.8, 3, 100, 15
 IMAGEM_MEDIA_LINHA = 12
+IMAGEM_EMBARALHADO = 0.12
+_OCR_PALAVRA_OK = re.compile(r"[\wÀ-ÿ.,;:()\[\]%/\-–—'\"“”‘’ºª°§$+&=<>@#!?]+")
+_OCR_VOGAL = re.compile(r"[aeiouyáéíóúâêôãõàAEIOUYÁÉÍÓÚÂÊÔÃÕÀ]")
+
+
+def _palavra_embaralhada(t):
+    t = t.strip("*|•")  # nota (*) e borda de tabela nas pontas não contam
+    if not t:
+        return False
+    if not _OCR_PALAVRA_OK.fullmatch(t) or "_" in t:
+        return True
+    letras = re.sub(r"[^A-Za-zÀ-ÿ]", "", t)
+    if len(letras) >= 3 and re.search(r"[a-zß-ÿ][A-ZÀ-Þ]", letras):
+        return True  # caixa trocada no meio da palavra ("DYqCA", "SAlOs")
+    return (len(letras) >= 4 and not re.search(r"\d", t) and not letras.isupper()
+            and not _OCR_VOGAL.search(letras))  # palavra sem vogal ("Telfnc"), não hora "17h11m"
+
+
+def _ocr_embaralhado(texto):
+    """True se 12% ou mais das palavras de 3+ caracteres do OCR estão embaralhadas (caractere
+    fora do alfabeto e da pontuação, caixa trocada no meio, palavra sem vogal)."""
+    palavras = [t for t in texto.split() if len(t) >= 3]
+    ruins = sum(_palavra_embaralhada(t) for t in palavras)
+    return bool(palavras) and ruins >= IMAGEM_EMBARALHADO * len(palavras)
+
+
+def _tipo_de_imagem(w, h, largura, area):
+    """"grande" (10% a 90% da página), "faixa" (3% a 10%, metade da largura ou mais) ou None."""
+    fr = w * h / area if area else 0
+    if IMAGEM_FRACAO_MIN <= fr < IMAGEM_FRACAO_MAX:
+        return "grande"
+    if IMAGEM_FAIXA_MIN <= fr < IMAGEM_FRACAO_MIN and w >= IMAGEM_FAIXA_LARGURA * largura:
+        return "faixa"
+    return None
+
+
+def _sem_faixas_repetidas(caixas):
+    """[(página, caixa, seguinte, é faixa)] sem a faixa na mesma posição em 3 páginas ou mais
+    (cabeçalho ou rodapé em imagem, não conteúdo)."""
+    def _pos(c):
+        return tuple(round(v) for v in c)
+    vezes = collections.Counter(_pos(c) for _, c, _, f in caixas if f)
+    return [x for x in caixas if not x[3] or vezes[_pos(x[1])] < MIN_PAGINAS_REPETIDA]
 
 
 def _imagens_sem_texto(caminho):
-    """[(página, (x, y, largura, altura), texto da linha logo abaixo da imagem)] das imagens
-    grandes sem texto dentro (regra acima), pelo pypdf; [] sem o módulo ou com PDF ilegível."""
+    """[(página, (x, y, largura, altura), texto da linha logo abaixo da imagem, é faixa)] das
+    imagens grandes ou em faixa sem texto dentro (regra acima), pelo pypdf; [] sem o módulo ou
+    com PDF ilegível."""
     try:
         import pypdf
         leitor = pypdf.PdfReader(caminho)
@@ -360,7 +512,8 @@ def _imagens_sem_texto(caminho):
                        and (v.get_object().get("/Width") or 0) * (v.get_object().get("/Height") or 0)
                        >= IMAGEM_PIXELS_MIN for v in xo.values()):
                 continue
-            area = float(pag.mediabox.width) * float(pag.mediabox.height)
+            largura = float(pag.mediabox.width)
+            area = largura * float(pag.mediabox.height)
             caixas, textos = [], []
 
             def _op(op, args, cm, tm):
@@ -377,7 +530,8 @@ def _imagens_sem_texto(caminho):
 
             pag.extract_text(visitor_operand_before=_op, visitor_text=_txt)
             for x, y, w, h in caixas:
-                if not area or not IMAGEM_FRACAO_MIN <= w * h / area < IMAGEM_FRACAO_MAX:
+                tipo = _tipo_de_imagem(w, h, largura, area)
+                if tipo is None:
                     continue
                 dentro = sum(len(t) for a, b, t in textos if x <= a <= x + w and y <= b <= y + h)
                 if dentro > IMAGEM_TEXTO_DENTRO:
@@ -390,8 +544,10 @@ def _imagens_sem_texto(caminho):
                     else:
                         linhas.append((b, [t]))
                 seguinte = "\n".join(" ".join(ts) for _, ts in linhas[:3])
-                out.append((n, (x, y, w, h), seguinte))
-        return out
+                out.append((n, (x, y, w, h), seguinte, tipo == "faixa"))
+        # de cima para baixo: duas imagens antes da mesma linha entram na ordem da página
+        out.sort(key=lambda z: (z[0], -(z[1][1] + z[1][3])))
+        return _sem_faixas_repetidas(out)
     except Exception:  # noqa: BLE001 — sem pypdf ou PDF ilegível: sem OCR de imagem
         return []
 
@@ -414,19 +570,24 @@ def _ocr_regiao(caminho, pagina, caixa, pm):
     return texto, (sum(conf) / len(conf) if conf else 0.0)
 
 
-def inserir_texto_de_imagem(pagina, texto_ocr, seguinte):
-    """Página com as linhas do OCR da imagem antes da linha `seguinte` (ou no fim): regra acima."""
+def inserir_texto_de_imagem(pagina, texto_ocr, seguinte, original=None):
+    """Página com as linhas do OCR da imagem antes da linha `seguinte` (ou no fim): regra acima.
+    `original`: a página antes do OCR das outras imagens; a semelhança (60%) se mede contra ela,
+    para o bloco de uma imagem não apagar as linhas parecidas da imagem seguinte (cláusulas quase
+    iguais); contra o já inserido, só a linha idêntica sai (a mesma imagem lida duas vezes)."""
     compacta, idx = _sem_espacos(pagina)
+    lida = compacta if original is None else _sem_espacos(original)[0]
+    linhas_atuais = {re.sub(r"\s+", "", x) for x in pagina.split("\n")}
     bloco = []
     for linha in jc.normalizar_pdf(texto_ocr).split("\n"):
         c = re.sub(r"\s+", "", linha)
         if not c or _linha_de_timbre(linha):
             continue
         if len(c) >= IMAGEM_LINHA_LONGA:
-            if c in compacta:
+            if c in lida or c in linhas_atuais:
                 continue
-            m = difflib.SequenceMatcher(None, c, compacta, autojunk=False).find_longest_match(
-                0, len(c), 0, len(compacta))
+            m = difflib.SequenceMatcher(None, c, lida, autojunk=False).find_longest_match(
+                0, len(c), 0, len(lida))
             if m.size >= 0.6 * len(c):
                 continue
         bloco.append(linha.strip())
@@ -492,8 +653,8 @@ def texto_pdf(caminho, pm=pdf_macos, data=None):
         except pm.ErroPdfMacos:
             avisos.append("%d página(s) sem texto e sem OCR (fora do macOS)" % len(vazias))
     if motor == "pdfkit":
-        n_img = 0
-        for i, caixa, seguinte in _imagens_sem_texto(caminho):
+        n_img, originais = 0, list(paginas)
+        for i, caixa, seguinte, *faixa in _imagens_sem_texto(caminho):
             if i >= len(paginas) or i in vazias:
                 continue
             lido = _ocr_regiao(caminho, i, caixa, pm)
@@ -501,7 +662,9 @@ def texto_pdf(caminho, pm=pdf_macos, data=None):
                 continue
             texto = corrigir_siglas_ocr(corrigir_ocr(jc.normalizar_pdf(lido[0]), data),
                                         "\n".join(paginas))
-            nova = inserir_texto_de_imagem(paginas[i], texto, seguinte)
+            if faixa and faixa[0] and _ocr_embaralhado(texto):
+                continue
+            nova = inserir_texto_de_imagem(paginas[i], texto, seguinte, originais[i])
             if nova != paginas[i]:
                 paginas[i], n_img = nova, n_img + 1
         if n_img:
@@ -561,12 +724,15 @@ def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA, retirado=None, borda=B
     """Junta as páginas sem o cabeçalho e o rodapé de página: linha (de 8 caracteres ou mais)
     que aparece na borda (entre as `borda` primeiras ou últimas linhas não vazias) de `minimo` ou
     mais páginas, duas delas seguidas e na mesma borda, com os números trocados por # (número de
-    página). Só a ocorrência na borda sai: a mesma linha no miolo da página é texto da peça
+    página; a linha sem letra conta pelo texto inteiro). Só a ocorrência na borda sai: a mesma linha no miolo da página é texto da peça
     (termos parecidos, fecho, subtítulo, data). Título repetido só no topo de cada peça (páginas
     não seguidas), nota de rodapé, cabeçalho de peça e bloco de partes ("Interessados:") ficam.
     Devolve (texto, nº de linhas retiradas)."""
     def chave(linha):
-        return re.sub(r"\d+", "#", re.sub(r"\s+", " ", linha.strip()))
+        # linha só de números (linha de tabela: "29.100 12:24:42 / 12:30:41") conta pelo texto
+        # inteiro: com os números trocados por #, linhas diferentes da tabela virariam uma só
+        t = re.sub(r"\s+", " ", linha.strip())
+        return re.sub(r"\d+", "#", t) if re.search(r"[^\W\d_]", t) else t
 
     def candidatas(linhas):
         # o timbre não ocupa lugar na borda: o cabeçalho de 5 linhas (logotipo, endereços, site)
@@ -651,9 +817,14 @@ _SPANS_SEI = (
 )
 
 
+_SO_BRASIL = re.compile(r"\s*Brasil[:.\s]*", re.I)
+
+
 def _linha_de_timbre(linha):
+    """Linha de timbre por si só. "Brasil" sozinho não conta: quase sempre é o fim de "Banco
+    Central do / Brasil."; só é timbre logo depois do endereço (ver tirar_timbre)."""
     s = re.sub(r"\s+", " ", linha.strip())
-    if not s:
+    if not s or _SO_BRASIL.fullmatch(s):
         return False
     if len(s) >= 5 and s.upper() == s and s in _FRAGMENTO_TIMBRE and re.search(r"[A-ZÀ-Ý]{3}", s):
         return True  # pedaço do logotipo lido pelo OCR ("VALORES", "MOBILIÁRIOS")
@@ -683,12 +854,14 @@ def tirar_timbre(texto, retirado=None):
             ini = b
         partes.append(texto[ini:])
         texto = "".join(partes)
-    linhas = []
+    linhas, anterior_timbre = [], False
     for linha in texto.split("\n"):
-        if _linha_de_timbre(linha):
+        if _linha_de_timbre(linha) or (anterior_timbre and _SO_BRASIL.fullmatch(linha)):
             retirado.append(linha)
+            anterior_timbre = True
         else:
             linhas.append(linha)
+            anterior_timbre = anterior_timbre if not linha.strip() else False
     return "\n".join(linhas), len(retirado) - n0
 
 

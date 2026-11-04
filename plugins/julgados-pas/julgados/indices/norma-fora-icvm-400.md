@@ -13,6 +13,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 1º | pas | 19957.007960/2016-03; RJ2016/8203 | 2019-12-10 | condenacao | ofertas-publicas | Ementa : Irregularidades praticadas na oferta pública primária de ações da Multiplus S.A realizada em 2010. Infração aos artigos 1º e 45, §1º, da Instrução CVM nº 400/03. Infração ao disposto no parágrafo único do art. 4º da Instrução CVM nº 387/03. Multas. | cvm/pas/2019/19957-007960-2016-03.md |
 | art. 1º | pas | 19957.001908/2021-01 | 2024-09-24 | condenacao | ofertas-publicas | Apurar responsabilidade por suposta oferta pública de distribuição de valores mobiliários sem a obtenção do registro. Multas. | cvm/pas/2024/19957-001908-2021-01.md |
+| art. 1º | pas | 19957.010181/2022-25 | 2024-01-30 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública de valores mobiliários, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2024/19957-010181-2022-25.md |
 
 ## art. 2º
 

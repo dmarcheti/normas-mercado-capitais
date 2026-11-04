@@ -285,6 +285,8 @@ _CARIMBO = re.compile(
     r"notar|autentic|consulte|fundos|total\s*:?\s*r\$|\b(?:nome|cpf|rg)\b|_{3,}", re.I)
 # linha com cara de nome: só letras (ou o marcador), começa em maiúscula, até 8 palavras
 _LINHA_NOME = re.compile(r"^(?:\[dado pessoal retirado\]|[A-ZÀ-Ý][^\d,;:()]*)$")
+# título de anexo ("Anexo 1", "ANEXO I"): o documento seguinte começa, o bloco acaba
+_TITULO_ANEXO = re.compile(r"^\**\s*(?:ANEXO|Anexo)\s+(?:\d+|[IVXL]+)\b")
 
 
 def _linha_do_bloco(s, seguintes):
@@ -322,7 +324,7 @@ def _testemunhas_bloco(texto):
                 if vazias >= 3:
                     break
                 continue
-            if len(s) > 90 or s.startswith("#") or n >= 10:
+            if len(s) > 90 or s.startswith("#") or n >= 10 or _TITULO_ANEXO.match(s):
                 break
             seguintes = [x.group(0).strip() for x in linhas[i + 1:i + 8] if x.group(0).strip()]
             if not _linha_do_bloco(s, seguintes):

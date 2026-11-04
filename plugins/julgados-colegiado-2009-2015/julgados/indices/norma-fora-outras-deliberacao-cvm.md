@@ -36,7 +36,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
 | decisao-colegiado | RJ2002/5788 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5788. | cvm/colegiado/2009/col-20090526-d02.md |
 | decisao-colegiado | RJ1999/4417 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4417. | cvm/colegiado/2009/col-20090519-d09.md |
 

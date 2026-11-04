@@ -2853,6 +2853,12 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | art. 183 | decisao-colegiado | RJ2010/14254 | 2013-08-20 | provido | deveres-administradores | O Colegiado deu provimento ao recurso da BR Malls Participações S.A. contra entendimento da SEP, reformando-o: a avaliação do patrimônio líquido a preços de mercado (art. 256, II, b, da Lei 6.404/76) não exige presumir o desmonte de ativos que formam unidades produtivas, e o fluxo de caixa descontado não é incoerente com essa avaliação para tais ativos. | cvm/colegiado/2013/col-20130820-d09.md |
 | art. 183, inciso III | decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | opa | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm/colegiado/2009/col-20090715-d01-r2.md |
 
+## art. 184
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 184 | decisao-colegiado | RJ2014/4375 | 2015-04-07 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, negou provimento a recurso de acionista minoritário da Eletrobrás contra entendimento da SEP: não é possível aplicar cumulativamente os arts. 141, §5º, e 239 da Lei 6.404/1976 na eleição de conselheiro de sociedade de economia mista. Acompanhou o voto da relatora. | cvm/colegiado/2015/col-20150407-d9116.md |
+
 ## art. 189
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

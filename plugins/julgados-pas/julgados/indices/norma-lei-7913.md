@@ -11,7 +11,7 @@ Norma: [leis/lei-07913.md](../../../normas/normas/leis/lei-07913.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de [pessoa física] - CEMAT: - Atos de liberalidade por parte de administradores da companhia aberta e abuso de poder do acionista controlador; - Irregularidades com a negociação das debêntures da empresa no mercado secundário. | cvm/pas/2001/11-1997.md |
+| art. 1º, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de Mato Grosso - CEMAT: - Atos de liberalidade por parte de administradores da companhia aberta e abuso de poder do acionista controlador; - Irregularidades com a negociação das debêntures da empresa no mercado secundário. | cvm/pas/2001/11-1997.md |
 | art. 1º, inciso I | pas | RJ2002/2937 | 2003-09-17 | condenacao | manipulacao-fraude | a) Realização de operação fraudulenta no mercado de valores mobiliários envolvendo entidade de previdência privada (Instrução CVM Nº 8/79); b) Não comunicação à CVM de negócio realizado no mercado de balcão (Instrução CVM Nº 42/84, artigo 3º); e c) Caracterização de embaraço à fiscalização (Instrução CVM Nº 18/81). | cvm/pas/2003/rj2002-2937.md |
 
 ## Citada sem dispositivo identificado

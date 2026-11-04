@@ -34,6 +34,8 @@ Norma: fora do acervo.
 | art. 12 | decisao-colegiado | RJ2011/8606 | 2011-10-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8606. | cvm/colegiado/2011/col-20111011-d07.md |
 | art. 12 | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
 | art. 12 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
+| art. 12 | decisao-colegiado | RJ2012/11663 | 2013-01-04 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11663. | cvm/colegiado/2013/col-20130104-d01.md |
+| art. 12 | decisao-colegiado | RJ2012/11664 | 2013-01-04 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11664. | cvm/colegiado/2013/col-20130104-d02.md |
 | art. 12 | decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
 | art. 12 | decisao-colegiado | RJ2013/2321 | 2013-05-21 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/2321. | cvm/colegiado/2013/col-20130521-d05.md |
 

@@ -1310,6 +1310,12 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 |---|---|---|---|---|---|---|---|
 | art. 90, inciso I, alínea g | decisao-colegiado | 19957.009590/2018-01 | 2019-04-02 | nao-provido | analistas-rating | O Colegiado conheceu do recurso da Empiricus Research Publicações Ltda., com efeitos devolutivo e suspensivo, e negou-lhe provimento: mantida a intimação da SIN para login de acesso ao site por um ano (art. 9º, I, g, Lei 6.385/76). Por maioria, vencido um diretor, quanto ao prazo. | cvm/colegiado/2019/col-20190402-d1321.md |
 
+## art. 99
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 99, § 2º | decisao-colegiado | 19957.005195/2025-70 | 2025-12-04 | nao-provido | processual | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra decisão da SPS que concedeu acesso parcial a inquérito administrativo, com tarjamento de documentos sujeitos a sigilo legal (investigação, operações no mercado de valores mobiliários e informações pessoais). | cvm/colegiado/2025/col-20251204-d3436.md |
+
 ## art. 133
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
