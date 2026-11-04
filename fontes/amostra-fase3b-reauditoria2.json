@@ -1,0 +1,1881 @@
+{
+ "semente": 20261105,
+ "gerado_em": "2026-11-04T04:55:55",
+ "universo_gerado_em": "2026-11-04T04:53:21",
+ "itens": [
+  {
+   "uid": "RA001",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20200901-d1864",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2020/col-20200901-d1864.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2020/cvm-col-20200901-d1864/03-anexo.pdf",
+   "paginas": [
+    38
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA002",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20110823-d03",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2011/col-20110823-d03.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2011/cvm-col-20110823-d03/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA003",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20090217-d04",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2009/col-20090217-d04.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2009/cvm-col-20090217-d04/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA004",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20260624-d4-d3436",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2026/col-20260624-d4-d3436.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2026/cvm-col-20260624-d4-d3436/03-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA005",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20220927-d2690",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2022/col-20220927-d2690.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2022/cvm-col-20220927-d2690/02-anexo.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA006",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20251118-d3324",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2025/col-20251118-d3324.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2025/cvm-col-20251118-d3324/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA007",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20021029-d09",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2002/col-20021029-d09.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2002/cvm-col-20021029-d09/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA008",
+   "bloco": "A",
+   "estrato": "colegiado-ocr",
+   "id": "cvm-col-20260317-d3506",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2026/col-20260317-d3506.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2026/cvm-col-20260317-d3506/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA009",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20060321-d02",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2006/col-20060321-d02.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2006/cvm-col-20060321-d02/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA010",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20071113-d18",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2007/col-20071113-d18.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2007/cvm-col-20071113-d18/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA011",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20131029-d16",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2013/col-20131029-d16.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2013/cvm-col-20131029-d16/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA012",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20180828-d1130",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2018/col-20180828-d1130.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2018/cvm-col-20180828-d1130/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA013",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20091013-d18",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2009/col-20091013-d18.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2009/cvm-col-20091013-d18/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA014",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20090714-d07",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2009/col-20090714-d07.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2009/cvm-col-20090714-d07/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA015",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20090414-d06",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2009/col-20090414-d06.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2009/cvm-col-20090414-d06/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA016",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20110329-d07",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2011/col-20110329-d07.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2011/cvm-col-20110329-d07/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA017",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20101116-d6484",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2010/col-20101116-d6484.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2010/cvm-col-20101116-d6484/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA018",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20101116-d03",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2010/col-20101116-d03.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2010/cvm-col-20101116-d03/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA019",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20131015-d12",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2013/col-20131015-d12.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2013/cvm-col-20131015-d12/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA020",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20120515-d04",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2012/col-20120515-d04.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2012/cvm-col-20120515-d04/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA021",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20080311-d07",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2008/col-20080311-d07.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2008/cvm-col-20080311-d07/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA022",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20071113-d16",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2007/col-20071113-d16.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2007/cvm-col-20071113-d16/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA023",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20070731-d08",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2007/col-20070731-d08.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2007/cvm-col-20070731-d08/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA024",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20050125-d10",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2002-2008/julgados/cvm/colegiado/2005/col-20050125-d10.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2005/cvm-col-20050125-d10/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA025",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20160301-d0097",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2016-2026/julgados/cvm/colegiado/2016/col-20160301-d0097.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2016/cvm-col-20160301-d0097/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA026",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20111101-d04",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2011/col-20111101-d04.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2011/cvm-col-20111101-d04/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA027",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20130424-d04",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2013/col-20130424-d04.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2013/cvm-col-20130424-d04/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA028",
+   "bloco": "A",
+   "estrato": "colegiado-pdf",
+   "id": "cvm-col-20111129-d30",
+   "tipo": "decisao-colegiado",
+   "arquivo": "plugins/julgados-colegiado-2009-2015/julgados/cvm/colegiado/2011/col-20111129-d30.md",
+   "fonte": "dados/fase-2d/cache/decisao-colegiado/2011/cvm-col-20111129-d30/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA029",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-2479",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/1998/2479.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-2479.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA030",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-12470",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2014/12470.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-12470.pdf",
+   "paginas": [
+    12
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA031",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-3328",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2001/3328.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-3328.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA032",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-3921",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2002/3921.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-3921.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA033",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-11417",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2012/11417.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-11417.pdf",
+   "paginas": [
+    84
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA034",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-11749",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2010/11749.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-11749.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA035",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-4015",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2003/4015.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-4015.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA036",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-13190",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2014/13190.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-13190.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA037",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-12041",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2009/12041.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-12041.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA038",
+   "bloco": "A",
+   "estrato": "crsfn-pdf",
+   "id": "crsfn-13177",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2014/13177.md",
+   "fonte": "dados/fase-2d/cache/crsfn/crsfn-13177.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA039",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-rj2016-7963",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/rj2016-7963.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-rj2016-7963/02-pdf.pdf",
+   "paginas": [
+    13
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA040",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-24-2006",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2013/24-2006.md",
+   "fonte": "dados/fase-2d/cache/pas/2013/cvm-pas-24-2006/02-pdf.pdf",
+   "paginas": [
+    6
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA041",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-19957-001067-2017-47",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/19957-001067-2017-47.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-19957-001067-2017-47/02-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA042",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-rj2013-9766",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2014/rj2013-9766.md",
+   "fonte": "dados/fase-2d/cache/pas/2014/cvm-pas-rj2013-9766/02-pdf.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA043",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-rj2016-4685",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2019/rj2016-4685.md",
+   "fonte": "dados/fase-2d/cache/pas/2019/cvm-pas-rj2016-4685/02-pdf.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA044",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-19957-014716-2023-18",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2024/19957-014716-2023-18.md",
+   "fonte": "dados/fase-2d/cache/pas/2024/cvm-pas-19957-014716-2023-18/03-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA045",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-19957-006977-2017-16",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/19957-006977-2017-16.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-19957-006977-2017-16/02-pdf.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA046",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-19957-005450-2021-51",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2024/19957-005450-2021-51.md",
+   "fonte": "dados/fase-2d/cache/pas/2024/cvm-pas-19957-005450-2021-51/02-pdf.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA047",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-rj2009-1365",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2010/rj2009-1365.md",
+   "fonte": "dados/fase-2d/cache/pas/2010/cvm-pas-rj2009-1365/02-pdf.pdf",
+   "paginas": [
+    6
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA048",
+   "bloco": "A",
+   "estrato": "pas-ocr",
+   "id": "cvm-pas-rj2017-1298",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/rj2017-1298.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-rj2017-1298/02-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA049",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2002-6982",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2003/rj2002-6982.md",
+   "fonte": "dados/fase-2d/cache/pas/2003/cvm-pas-rj2002-6982/02-pdf.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA050",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2015-6143",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/rj2015-6143.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-rj2015-6143/02-pdf.pdf",
+   "paginas": [
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA051",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2007-1079",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2007/rj2007-1079.md",
+   "fonte": "dados/fase-2d/cache/pas/2007/cvm-pas-rj2007-1079/02-pdf.pdf",
+   "paginas": [
+    13
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA052",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2016-7190",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2019/rj2016-7190.md",
+   "fonte": "dados/fase-2d/cache/pas/2019/cvm-pas-rj2016-7190/02-pdf.pdf",
+   "paginas": [
+    15
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA053",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2015-10020",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2019/rj2015-10020.md",
+   "fonte": "dados/fase-2d/cache/pas/2019/cvm-pas-rj2015-10020/02-pdf.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA054",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2005-4990",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2006/rj2005-4990.md",
+   "fonte": "dados/fase-2d/cache/pas/2006/cvm-pas-rj2005-4990/02-pdf.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA055",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2000-5907",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2001/rj2000-5907.md",
+   "fonte": "dados/fase-2d/cache/pas/2001/cvm-pas-rj2000-5907/02-pdf.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA056",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-29-2005",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2008/29-2005.md",
+   "fonte": "dados/fase-2d/cache/pas/2008/cvm-pas-29-2005/02-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA057",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-sp2003-0100",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2004/sp2003-0100.md",
+   "fonte": "dados/fase-2d/cache/pas/2004/cvm-pas-sp2003-0100/02-pdf.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA058",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-19957-007774-2025-57",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2026/19957-007774-2025-57.md",
+   "fonte": "dados/fase-2d/cache/pas/2026/cvm-pas-19957-007774-2025-57/04-pdf.pdf",
+   "paginas": [
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA059",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2014-3616",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2018/rj2014-3616.md",
+   "fonte": "dados/fase-2d/cache/pas/2018/cvm-pas-rj2014-3616/02-pdf.pdf",
+   "paginas": [
+    31
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA060",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-19957-009721-2021-47",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2023/19957-009721-2021-47.md",
+   "fonte": "dados/fase-2d/cache/pas/2023/cvm-pas-19957-009721-2021-47/02-pdf.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA061",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-04-2007",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2010/04-2007.md",
+   "fonte": "dados/fase-2d/cache/pas/2010/cvm-pas-04-2007/02-pdf.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA062",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-19957-003612-2020-35",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2026/19957-003612-2020-35.md",
+   "fonte": "dados/fase-2d/cache/pas/2026/cvm-pas-19957-003612-2020-35/04-pdf.pdf",
+   "paginas": [
+    18
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA063",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2013-13172",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2017/rj2013-13172.md",
+   "fonte": "dados/fase-2d/cache/pas/2017/cvm-pas-rj2013-13172/02-pdf.pdf",
+   "paginas": [
+    22
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA064",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-04-2012",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2014/04-2012.md",
+   "fonte": "dados/fase-2d/cache/pas/2014/cvm-pas-04-2012/02-pdf.pdf",
+   "paginas": [
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA065",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2005-8604",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2007/rj2005-8604.md",
+   "fonte": "dados/fase-2d/cache/pas/2007/cvm-pas-rj2005-8604/02-pdf.pdf",
+   "paginas": [
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA066",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2002-6032",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2006/rj2002-6032.md",
+   "fonte": "dados/fase-2d/cache/pas/2006/cvm-pas-rj2002-6032/02-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA067",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-rj2006-1267",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2006/rj2006-1267.md",
+   "fonte": "dados/fase-2d/cache/pas/2006/cvm-pas-rj2006-1267/02-pdf.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA068",
+   "bloco": "A",
+   "estrato": "pas-pdf",
+   "id": "cvm-pas-09-1993",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2006/09-1993.md",
+   "fonte": "dados/fase-2d/cache/pas/2006/cvm-pas-09-1993/02-pdf.pdf",
+   "paginas": [
+    11
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA069",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20141111-d01",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2014/col-20141111-d01.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2014/cvm-col-20141111-d01/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA070",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20150407-d9304",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2015/col-20150407-d9304.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2015/cvm-col-20150407-d9304/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA071",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20181023-d1122",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20181023-d1122.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20181023-d1122/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA072",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20181211-d1237",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20181211-d1237.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20181211-d1237/02-anexo.pdf",
+   "paginas": [
+    6
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA073",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20160426-d0184",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2016/col-20160426-d0184.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2016/cvm-col-20160426-d0184/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA074",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20141202-d13",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2014/col-20141202-d13.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2014/cvm-col-20141202-d13/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA075",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20170418-d0662",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2017/col-20170418-d0662.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2017/cvm-col-20170418-d0662/03-termo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "saida"
+  },
+  {
+   "uid": "RA076",
+   "bloco": "A",
+   "estrato": "tc-ocr",
+   "id": "cvm-col-20180703-d1076",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20180703-d1076.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20180703-d1076/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA077",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20210914-d2040",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2021/col-20210914-d2040.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2021/cvm-col-20210914-d2040/02-anexo.pdf",
+   "paginas": [
+    10
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA078",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20130730-d02",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2013/col-20130730-d02.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2013/cvm-col-20130730-d02/02-anexo.pdf",
+   "paginas": [
+    6
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA079",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20150317-d9600",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2015/col-20150317-d9600.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2015/cvm-col-20150317-d9600/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA080",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20190806-d1312",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2019/col-20190806-d1312.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2019/cvm-col-20190806-d1312/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA081",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20110301-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2011/col-20110301-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2011/cvm-col-20110301-d03/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA082",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20111019-d02",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2011/col-20111019-d02.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2011/cvm-col-20111019-d02/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA083",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20110301-d01",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2011/col-20110301-d01.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2011/cvm-col-20110301-d01/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA084",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20251014-d3401",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2025/col-20251014-d3401.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2025/cvm-col-20251014-d3401/02-anexo.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA085",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20181211-d1089",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20181211-d1089.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20181211-d1089/02-anexo.pdf",
+   "paginas": [
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA086",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20100525-d06",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2010/col-20100525-d06.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2010/cvm-col-20100525-d06/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA087",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20240827-d2655",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2024/col-20240827-d2655.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2024/cvm-col-20240827-d2655/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RA088",
+   "bloco": "A",
+   "estrato": "tc-pdf",
+   "id": "cvm-col-20110510-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2011/col-20110510-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2011/cvm-col-20110510-d03/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RC001",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-10372-000168-2024-26",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2025/10372-000168-2024-26.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-10372-000168-2024-26.html",
+     "papel": "acordao"
+    }
+   ]
+  },
+  {
+   "uid": "RC002",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-5116",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2006/5116.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-5116.pdf",
+     "paginas": [
+      1,
+      2,
+      6,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC003",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-3710",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2003/3710.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-3710.pdf",
+     "paginas": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC004",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-1620",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/1996/1620.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-1620.pdf",
+     "paginas": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC005",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-13225",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2015/13225.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-13225.pdf",
+     "paginas": [
+      1,
+      2,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC006",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-revisao-1739",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2008/revisao-1739.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-revisao-1739.pdf",
+     "paginas": [
+      1,
+      2,
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC007",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-4877",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2004/4877.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-4877.pdf",
+     "paginas": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC008",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-12077",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2015/12077.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-12077.pdf",
+     "paginas": [
+      1,
+      2,
+      7,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RC009",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-10372-100199-2017-57",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2017/10372-100199-2017-57.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-10372-100199-2017-57.html",
+     "papel": "acordao"
+    }
+   ]
+  },
+  {
+   "uid": "RC010",
+   "bloco": "C",
+   "estrato": "resultado-crsfn",
+   "id": "crsfn-11643",
+   "tipo": "acordao-crsfn",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/crsfn/2010/11643.md",
+   "pecas": [
+    {
+     "fonte": "dados/fase-2d/cache/crsfn/crsfn-11643.pdf",
+     "paginas": [
+      1,
+      2,
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "uid": "RE001",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20080325-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2008/col-20080325-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2008/cvm-col-20080325-d03/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE002",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20200609-d0513",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2020/col-20200609-d0513.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2020/cvm-col-20200609-d0513/01-pagina.html",
+   "papel": "pagina",
+   "blocos": [
+    2,
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE003",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20210921-d2310",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2021/col-20210921-d2310.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2021/cvm-col-20210921-d2310/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    5,
+    9
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE004",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20230829-d2919",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2023/col-20230829-d2919.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2023/cvm-col-20230829-d2919/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE005",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20210105-d2025",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2021/col-20210105-d2025.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2021/cvm-col-20210105-d2025/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    8,
+    10
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE006",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20200218-d1475",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2020/col-20200218-d1475.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2020/cvm-col-20200218-d1475/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    0,
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE007",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20180508-d1032",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20180508-d1032.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20180508-d1032/02-anexo.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE008",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-pas-19957-011363-2024-85",
+   "tipo": "pas",
+   "arquivo": "plugins/julgados-pas/julgados/cvm/pas/2026/19957-011363-2024-85.md",
+   "fonte": "dados/fase-2d/cache/pas/2026/cvm-pas-19957-011363-2024-85/03-pdf.pdf",
+   "paginas": [
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE009",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20200519-d1805",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2020/col-20200519-d1805.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2020/cvm-col-20200519-d1805/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    0,
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE010",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20250408-d3253",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2025/col-20250408-d3253.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2024/cvm-col-20250408-d3253/02-anexo.pdf",
+   "paginas": [
+    5
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE011",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20181030-d1196",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20181030-d1196.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20181030-d1196/02-anexo.pdf",
+   "paginas": [
+    7
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE012",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20180522-d0872",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20180522-d0872.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20180522-d0872/03-termo.pdf",
+   "paginas": [
+    1,
+    2
+   ],
+   "ancora": "posicao",
+   "marcador": 0
+  },
+  {
+   "uid": "RE013",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20070411-d01",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2007/col-20070411-d01.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2007/cvm-col-20070411-d01/03-termo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "posicao",
+   "marcador": 0
+  },
+  {
+   "uid": "RE014",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20100126-d01",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2010/col-20100126-d01.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2010/cvm-col-20100126-d01/04-termo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE015",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20091208-d23",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2009/col-20091208-d23.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2009/cvm-col-20091208-d23/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE016",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20180424-d0952",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20180424-d0952.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20180424-d0952/04-termo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "posicao",
+   "marcador": 3
+  },
+  {
+   "uid": "RE017",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20070918-d04",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2007/col-20070918-d04.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2007/cvm-col-20070918-d04/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE018",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20131217-d09",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2013/col-20131217-d09.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2013/cvm-col-20131217-d09/02-anexo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE019",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20251216-d3433",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2025/col-20251216-d3433.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2025/cvm-col-20251216-d3433/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    0,
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE020",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20240416-d2997",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2024/col-20240416-d2997.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2024/cvm-col-20240416-d2997/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    0,
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE021",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20210218-d2062",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2021/col-20210218-d2062.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2021/cvm-col-20210218-d2062/02-anexo.pdf",
+   "paginas": [
+    4
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE022",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20230418-d2841",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2023/col-20230418-d2841.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2023/cvm-col-20230418-d2841/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    4,
+    9
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE023",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20150428-d9631",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2015/col-20150428-d9631.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2015/cvm-col-20150428-d9631/03-termo.pdf",
+   "paginas": [
+    7,
+    8
+   ],
+   "ancora": "posicao",
+   "marcador": 7
+  },
+  {
+   "uid": "RE024",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20200908-d0513",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2020/col-20200908-d0513.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2020/cvm-col-20200908-d0513/02-anexo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE025",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20060411-d07",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2006/col-20060411-d07.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2006/cvm-col-20060411-d07/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE026",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20220315-d2500",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2022/col-20220315-d2500.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2022/cvm-col-20220315-d2500/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    5,
+    9
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE027",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20200929-d1489",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2020/col-20200929-d1489.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2020/cvm-col-20200929-d1489/02-anexo.pdf",
+   "paginas": [
+    26
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE028",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20220322-d2530",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2022/col-20220322-d2530.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2022/cvm-col-20220322-d2530/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    5,
+    9
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE029",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20181211-d1237",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20181211-d1237.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20181211-d1237/02-anexo.pdf",
+   "paginas": [
+    3
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE030",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20100126-d07",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2010/col-20100126-d07.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2010/cvm-col-20100126-d07/04-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE031",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20051101-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2005/col-20051101-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2005/cvm-col-20051101-d03/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE032",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20070130-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2007/col-20070130-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2007/cvm-col-20070130-d03/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE033",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20081104-d07",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2008/col-20081104-d07.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2008/cvm-col-20081104-d07/01-pagina.html",
+   "papel": "pagina",
+   "blocos": [
+    3,
+    6
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE034",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20030312-d02",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2003/col-20030312-d02.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2003/cvm-col-20030312-d02/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE035",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20240709-d3095",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2024/col-20240709-d3095.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2024/cvm-col-20240709-d3095/03-termo.html",
+   "papel": "termo",
+   "blocos": [
+    7,
+    8
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE036",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20190319-d1323",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2019/col-20190319-d1323.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2019/cvm-col-20190319-d1323/05-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE037",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20150324-d9608",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2015/col-20150324-d9608.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2015/cvm-col-20150324-d9608/03-termo.pdf",
+   "paginas": [
+    1,
+    2
+   ],
+   "ancora": "posicao",
+   "marcador": 1
+  },
+  {
+   "uid": "RE038",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20130730-d03",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2013/col-20130730-d03.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2013/cvm-col-20130730-d03/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  },
+  {
+   "uid": "RE039",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20180904-d1109",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2018/col-20180904-d1109.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2018/cvm-col-20180904-d1109/04-termo.pdf",
+   "paginas": [
+    2
+   ],
+   "ancora": "posicao",
+   "marcador": 1
+  },
+  {
+   "uid": "RE040",
+   "bloco": "E",
+   "estrato": "qualificacao",
+   "id": "cvm-col-20060801-d02",
+   "tipo": "termo-compromisso",
+   "arquivo": "plugins/julgados-tc-crsfn/julgados/cvm/colegiado/2006/col-20060801-d02.md",
+   "fonte": "dados/fase-2d/cache/termo-compromisso/2006/cvm-col-20060801-d02/03-termo.pdf",
+   "paginas": [
+    1
+   ],
+   "ancora": "fonte"
+  }
+ ],
+ "faltas": [],
+ "pulados": {
+  "E/qualificacao": 1
+ }
+}

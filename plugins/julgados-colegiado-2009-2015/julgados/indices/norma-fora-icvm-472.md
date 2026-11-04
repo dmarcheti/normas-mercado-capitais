@@ -121,6 +121,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 33 | decisao-colegiado | 472/2008; RJ2012/11170 | 2013-04-02 | outro | fundos-investimento | Consulta sobre interpretação do inciso VII do artigo 45 da instrução CVM 472/2008. Proc. RJ2012/11170. | cvm/colegiado/2013/col-20130402-d09.md |
+| art. 33 | decisao-colegiado | SP2015/0118 | 2015-06-30 | nao-provido | fundos-investimento | O Colegiado negou provimento ao recurso da administradora contra decisão da SIN que exigiu aprovação, em assembleia de cotistas do BC Fund, da participação do FII Prime na OPA da BR Properties, por conflito de interesse, nos termos do art. 34 da ICVM 472/2008. Acompanhou o voto, que trocou o fundamento para o art. 9º, §1º, III, da Lei 6.385/1976. | cvm/colegiado/2015/col-20150630-d9747.md |
 
 ## art. 34
 

@@ -3434,11 +3434,3 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2014/11830 | 2016-11-29 | condenacao | auditoria-independente | Inobservância das normas emanadas do Conselho Federal de Contabilidade e dos Pronunciamentos Técnicos do IBRACON. Ausência de procedimentos para a obtenção do entendimento do controle interno das entidades auditadas. Não emissão de Relatório Circunstanciado. Multas. | cvm/pas/2016/rj2014-11830.md |
-
-## icvm-976
-
-### art. 13
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | pas | RJ2014/3616 | 2018-11-13 | parcial | informacao-privilegiada | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a sociedade antes de sua divulgação ao mercado. Infração ao ao art. 155, §1º da Lei nº 6.404/76 c/c o art. 13 da Instrução CVM nº 358/02. Multas. Absolvição. Data decisão CVM Tue Nov 13 11:50:00 BRST 2018 | cvm/pas/2018/rj2014-3616.md |

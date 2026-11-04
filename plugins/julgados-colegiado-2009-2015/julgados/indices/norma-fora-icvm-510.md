@@ -259,7 +259,6 @@ Norma: fora do acervo.
 | art. 5º | decisao-colegiado | RJ2015/5819 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5819. | cvm/colegiado/2015/col-20150623-d9708.md |
 | art. 5º | decisao-colegiado | RJ2015/5885 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5885. | cvm/colegiado/2015/col-20150623-d9715.md |
 | art. 5º | decisao-colegiado | RJ2015/5113 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5113. | cvm/colegiado/2015/col-20150623-d9719.md |
-| art. 5º | decisao-colegiado | RJ2015/5634 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5634. | cvm/colegiado/2015/col-20150630-d9742.md |
 | art. 5º | decisao-colegiado | RJ2015/11553 | 2015-11-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/11553. | cvm/colegiado/2015/col-20151124-d9943.md |
 | art. 5º | decisao-colegiado | RJ2015/11554 | 2015-11-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/11554. | cvm/colegiado/2015/col-20151124-d9944.md |
 | art. 5º | decisao-colegiado | RJ2015/11608 | 2015-11-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/11608. | cvm/colegiado/2015/col-20151124-d9945.md |
@@ -328,9 +327,11 @@ Norma: fora do acervo.
 | art. 5º, inciso II | decisao-colegiado | RJ2015/5775 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5775. | cvm/colegiado/2015/col-20150623-d9706.md |
 | art. 5º, inciso II | decisao-colegiado | RJ2015/5652 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5652. | cvm/colegiado/2015/col-20150623-d9720.md |
 | art. 5º, inciso II | decisao-colegiado | RJ2015/4959 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/4959. | cvm/colegiado/2015/col-20150630-d9732.md |
+| art. 5º, inciso II | decisao-colegiado | RJ2015/5014 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5014. | cvm/colegiado/2015/col-20150630-d9733.md |
 | art. 5º, inciso II | decisao-colegiado | RJ2015/5248 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5248. | cvm/colegiado/2015/col-20150630-d9734.md |
 | art. 5º, inciso II | decisao-colegiado | RJ2015/5523 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5523. | cvm/colegiado/2015/col-20150630-d9735.md |
 | art. 5º, inciso II | decisao-colegiado | RJ2015/5840 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5840. | cvm/colegiado/2015/col-20150630-d9737.md |
+| art. 5º, inciso II | decisao-colegiado | RJ2015/5843 | 2015-06-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5843. | cvm/colegiado/2015/col-20150630-d9738.md |
 
 ## art. 6º
 

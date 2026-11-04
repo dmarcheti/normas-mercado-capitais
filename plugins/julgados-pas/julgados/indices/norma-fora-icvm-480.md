@@ -11,6 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
+| art. 3º | pas | RJ2013/9463 | 2014-07-22 | condenacao | divulgacao-informacoes | Irregularidades na divulgação e na atualização de informações exigidas no preenchimento do Formulário de Referência 2011 (FRE), versões 9 E 10. Multas. | cvm/pas/2014/rj2013-9463.md |
 | art. 3º | pas | RJ2015/10545 | 2019-02-19 | parcial | divulgacao-informacoes | Ementa : Não indicação de representante legal, não divulgação de fato relevante e inadequação das informações divulgadas em fato relevante por representante legal equiparado ao diretor de relações com investidores da LAEP Investments Ltd. Infração ao art. 3º, §2º, Anexo 32-I da Instrução CVM nº 480/09. Infração ao art. 3º da Instrução CVM nº 358/02. Infração aos artigos 14 e 19, parágrafo único, da Instrução CVM nº 480/09. Preliminar: ilegitimidade passiva. Multa. Absolvição. Data decisão CVM Tue Feb 19 11:30:00 BRT 2019 | cvm/pas/2019/rj2015-10545.md |
 
 ## art. 4º

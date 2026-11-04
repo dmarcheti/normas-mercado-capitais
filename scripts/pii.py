@@ -117,6 +117,9 @@ _END_GATILHO = re.compile(
     # endereço logo depois do CPF ou do RG ("inscrita no CPF sob o nº X, na rua A, 300")
     r"(?:\bCPF|C\.P\.F|\bRG\b|identidade)[^;\n]{0,60}?,(?=\s*(?:na|no|à)\s+" + _LOGRADOURO + r"))"
     r"\s*:?\s*[\"“”]?\s*\(?\s*"
+    # "residentes no Brasil", "domiciliados no exterior": lugar genérico, não endereço
+    r"(?!(?:n[oa]|em|fora\s+d[oa])\s+(?:Brasil|exterior|pa[ií]s|territ[óo]rio)\b"
+    r"(?![,\s]*(?:n[ao]s?|à|em)\s+(?:cidade\b|" + _LOGRADOURO + r")))"
     r"(?=(?:na|no|nas|nos|em|à|a|nest[ae])\b|:|cidade\b|" + _LOGRADOURO + r")", re.I)
 # Logradouro com apartamento é endereço de pessoa, mesmo sem gatilho ("Largo A, 96 apto. 18").
 _END_APTO = re.compile(r"\b" + _LOGRADOURO + r"[^;\n()]{2,80}?\b(?:apto?|aptº|apartamento)\.?\s*"
@@ -218,22 +221,26 @@ _BANCO = re.compile(
     r"\bag[êe]ncia\s*(?:n[º°.]?\s*)?[:\s]*\d[\dxX.\-]*\s*(?:,|e|/)?\s*"
     r"(?:d[ao]\s+)?(?:conta(?:[\s-]+corrente)?|c/c|c\.c\.|cc)\s*(?:n[º°.]?\s*)?[:\s]*\d[\dxX.\-]*",
     re.I)
+# número de passaporte ("passaporte americano nº 034768885"): documento de identidade
+_PASSAPORTE = re.compile(r"\bpassaporte(?:\s+[a-zà-ÿ]+){0,2}?\s*(?:n[º°o.]*\s*)?[:\s]*"
+                         r"((?-i:[A-Z]{0,3})\s?\d[\dA-Z.\-]{4,14})", re.I)
 _NACIONALIDADE = (r"(?:brasileir|estrangeir|portugu[êe]s|argentin|american|norte-american|italian|"
                   r"espanhol|franc[êe]s|alem[ãa]|urugua|chilen|paraguai|japon[êe]s|chin[êe]s|"
                   r"ingl[êe]s|britânic|suíç|holand[êe]s|belg|canadense|mexican|colombian|"
                   r"peruan|venezuelan|libanês|naturalizad)[a-zçã]*")
 _ESTADO_CIVIL = r"(?:solteir|casad|divorciad|separad|vi[uú]v|desquitad|em\s+uni[ãa]o\s+est[áa]vel|convivente)[a-z]*"
-_DOC_SEG = (r"residente|domiciliad|portador|inscrit|com\s+endere|R\.?G\b|CPF|C\.P\.F|carteira|"
+_DOC_SEG = (r"residente|domiciliad|portador|inscrit|com\s+endere|com\s+escrit|passaporte|"
+            r"R\.?G\b|CPF|C\.P\.F|carteira|"
             r"c[ée]dula|documento\s+de\s+identidade|neste|doravante|nascid|filh|registrad")
 _QUALIF = re.compile(
     r"\b" + _NACIONALIDADE + r"\s*,\s*" + _ESTADO_CIVIL +
     r"(?:\s+(?:judicialmente|consensualmente|de\s+fato))?"
-    r"(?:\s+(?:sob\s+o\s+regime|em\s+regime|pelo\s+regime)[^,;\n]{0,80})?"
+    r"(?:\s+(?:sob\s+(?:o\s+)?regime|em\s+regime|pelo\s+regime)[^,;]{0,80})?"
     r"(?:\s*,\s*(?!\s*(?:" + _DOC_SEG + r"))[^,;\d]{2,70}?(?=\s*[,;]|\s*$))?", re.I)
 # Nacionalidade sem estado civil: só quando o que vem depois é documento ou endereço.
 _QUALIF2 = re.compile(
     r"\b" + _NACIONALIDADE + r"(?:\s*,\s*(?!\s*(?:" + _DOC_SEG + r"))[^,;\d]{2,70}?){0,2}"
-    r"(?=\s*,\s*(?:" + _DOC_SEG + r"))", re.I)
+    r"(?=\s*,\s*(?:" + _DOC_SEG + r")|\s+com\s+escrit)", re.I)
 _TESTEMUNHA_ASSIN = re.compile(
     r"(assinad[oa]\s+eletronicamente\s+por\s+)(\**)([^,\n*]{3,90}?)(\**\s*,\s*\**\s*Testemunha)",
     re.I)
@@ -448,6 +455,7 @@ def limpar_contando(texto):
     aplica("nascimento", [m.span(1) for m in _NASC.finditer(texto)])
     aplica("cpf", achar_cpfs(texto))
     aplica("rg", achar_rgs(texto))
+    aplica("passaporte", [m.span(1) for m in _PASSAPORTE.finditer(texto)])
     aplica("telefone", [m.span(1) for m in _TEL.finditer(texto)] +
            [m.span() for m in _TEL_DDD.finditer(texto)])
     aplica("banco", [m.span() for m in _BANCO.finditer(texto)])

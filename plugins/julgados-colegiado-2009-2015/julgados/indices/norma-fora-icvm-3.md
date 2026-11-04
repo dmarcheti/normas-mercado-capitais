@@ -11,14 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º | decisao-colegiado | RJ2014/8063 | 2015-07-07 | deferido | outros | O Colegiado deferiu pedido da BM&FBOVESPA para alienar privadamente ações em tesouraria no âmbito do Plano de Concessão de Ações (art. 23 da ICVM 10/1980), desde que mantidas inalteradas as condições do Plano, exigência do relator. A SEP propôs também vincular a remuneração ao art. 152 da Lei 6.404/1976; o relator dispensou essa condição por já ser obrigatória. | cvm/colegiado/2015/col-20150707-d9544.md |
 | art. 9º, § 5º | decisao-colegiado | 398/2003; RJ2015/1278 | 2015-05-26 | outro | fundos-investimento | O Colegiado, acompanhando a SIN, entendeu que o §5º do art. 9º da ICVM 398/2003 segue vigente e se aplica apenas à aquisição de ações de companhias abertas; que o FUNCINE pode adquirir participação em S.A. de capital aberto ou fechado, observada a limitação de objeto social; e que é desnecessário pedido de dispensa. | cvm/colegiado/2015/col-20150526-d9653.md |
-
-## art. 32
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 32, inciso I | decisao-colegiado | RJ2015/0401; RJ2015/0402 | 2015-10-27 | nao-provido | multa-cominatoria-taxa | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/0401 e RJ2015/0402. | cvm/colegiado/2015/col-20151027-d9902.md |
 
 ## Citada sem dispositivo identificado
 

@@ -65,25 +65,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-5
 
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2014/8063 | 2015-07-07 | deferido | outros | O Colegiado deferiu pedido da BM&FBOVESPA para alienar privadamente ações em tesouraria no âmbito do Plano de Concessão de Ações (art. 23 da ICVM 10/1980), desde que mantidas inalteradas as condições do Plano, exigência do relator. A SEP propôs também vincular a remuneração ao art. 152 da Lei 6.404/1976; o relator dispensou essa condição por já ser obrigatória. | cvm/colegiado/2015/col-20150707-d9544.md |
-
-### art. 45
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 45 | decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | cvm/colegiado/2015/col-20150707-d8708.md |
-| art. 45, § 3º | decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | cvm/colegiado/2015/col-20150707-d8708.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/12862 | 2015-12-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/12862. | cvm/colegiado/2015/col-20151222-d9981.md |
 | decisao-colegiado | RJ2015/3610 | 2015-12-08 | outro | outros | O Colegiado declarou a perda do objeto do pedido da Rodobens de autorização para alienação privada de ações próprias, acompanhando o voto do relator. Fundamento: a Instrução CVM 10/1980 foi revogada pela Instrução 567/2015, que atribui a deliberação à assembleia ou ao conselho. | cvm/colegiado/2015/col-20151208-d9717.md |
+| decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | cvm/colegiado/2015/col-20150707-d8708.md |
 | decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | cvm/colegiado/2015/col-20150609-d5474.md |
 
 ## icvm-9

@@ -198,14 +198,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 
-## res-cmn-1206
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| termo-compromisso | RJ2014/13581 | 2015-11-24 | rejeitado | auditoria-independente | O Colegiado rejeitou proposta conjunta de Termo de Compromisso de R$ 13.000,00 por proponente (R$ 26.000,00 no total), apresentada pela JPPS Auditores Independentes S/S e pelo seu responsável técnico, acompanhando o Comitê, que a considerou desproporcional à gravidade das infrações em pareceres de auditoria de 2006 a 2011 (ICVM 308/1999). | cvm/colegiado/2015/col-20151124-d9950.md |
-
 ## res-cmn-1220
 
 ### Citada sem dispositivo identificado

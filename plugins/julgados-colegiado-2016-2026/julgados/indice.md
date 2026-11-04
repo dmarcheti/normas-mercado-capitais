@@ -244,7 +244,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Lei nº 10.214/2001 | 6 | [indices/norma-lei-10214.md](indices/norma-lei-10214.md) |
 | Lei nº 10.406/2002 | 129 | [indices/norma-lei-10406.md](indices/norma-lei-10406.md) |
 | Lei nº 10.931/2004 | 11 | [indices/norma-lei-10931.md](indices/norma-lei-10931.md) |
-| Lei nº 11.033/2004 | 5 | [indices/norma-lei-11033.md](indices/norma-lei-11033.md) |
+| Lei nº 11.033/2004 | 6 | [indices/norma-lei-11033.md](indices/norma-lei-11033.md) |
 | Lei nº 11.076/2004 | 23 | [indices/norma-lei-11076.md](indices/norma-lei-11076.md) |
 | Lei nº 11.101/2005 | 27 | [indices/norma-lei-11101.md](indices/norma-lei-11101.md) |
 | Lei nº 12.431/2011 | 28 | [indices/norma-lei-12431.md](indices/norma-lei-12431.md) |
@@ -258,7 +258,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Lei nº 14.754/2023 | 1 | [indices/norma-lei-14754.md](indices/norma-lei-14754.md) |
 | Lei nº 4.595/1964 | 10 | [indices/norma-lei-4595.md](indices/norma-lei-4595.md) |
 | Lei nº 4.728/1965 | 4 | [indices/norma-lei-4728.md](indices/norma-lei-4728.md) |
-| Lei nº 6.385/1976 | 632 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
+| Lei nº 6.385/1976 | 634 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
 | Lei nº 6.404/1976 | 677 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
 | Lei nº 8.668/1993 | 25 | [indices/norma-lei-8668.md](indices/norma-lei-8668.md) |
 | Lei nº 8.929/1994 | 7 | [indices/norma-lei-8929.md](indices/norma-lei-8929.md) |

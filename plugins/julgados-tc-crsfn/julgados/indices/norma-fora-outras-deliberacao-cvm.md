@@ -49,14 +49,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | termo-compromisso | RJ2015/1483 | 2016-04-26 | aceito | contabil-demonstracoes | O Colegiado aceitou, por maioria, a proposta conjunta de Termo de Compromisso de administradores da Panatlântica S.A., acusados de incluir indevidamente receitas e despesas anteriores à aquisição de controle nas demonstrações financeiras de 2013, acompanhando o Comitê. Pagamentos de R$ 50.000,00 (diretores) e R$ 20.000,00 (conselheiros). Com voto vencido do Presidente. | cvm/colegiado/2016/col-20160426-d0182.md |
 | termo-compromisso | RJ2014/12753 | 2016-02-23 | rejeitado | deveres-administradores | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de sete administradores da Rossi Residencial S.A., acompanhando o Comitê, que recomendou pronunciamento norteador em julgamento. Propostas somavam R$ 700.000,00. Supostas infrações: arts. 153, 176 e 177 da Lei 6.404 e Instrução 480. | cvm/colegiado/2016/col-20160223-d0112.md |
 
-## deliberacao-cvm-7
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| termo-compromisso | RJ2014/13534 | 2015-11-10 | rejeitado | auditoria-independente | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de Termo de Compromisso de duas sociedades de auditoria independente, que ofereceram R$ 10.000,00 cada, por descumprimento do rodízio de auditores (art. 31 da ICVM 308/1999). O Comitê considerou a celebração inconveniente e inoportuna após o insucesso das negociações. | cvm/colegiado/2015/col-20151110-d9922.md |
-
 ## deliberacao-cvm-11
 
 ### art. 7º
@@ -64,6 +56,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 7º | termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, as propostas de nove administradores da Multiner S.A., acompanhando o Comitê; seis delas, com pagamentos individuais de R$ 20.000,00 a R$ 40.000,00. Imputação: atraso na entrega de demonstrações financeiras e não convocação de assembleias gerais ordinárias (arts. 132 e 176 da Lei 6.404/1976). | cvm/colegiado/2014/col-20141216-d02.md |
+| art. 7º, § 8º | termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, as propostas de nove administradores da Multiner S.A., acompanhando o Comitê; seis delas, com pagamentos individuais de R$ 20.000,00 a R$ 40.000,00. Imputação: atraso na entrega de demonstrações financeiras e não convocação de assembleias gerais ordinárias (arts. 132 e 176 da Lei 6.404/1976). | cvm/colegiado/2014/col-20141216-d02.md |
 
 ### Citada sem dispositivo identificado
 
@@ -86,12 +79,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | termo-compromisso | 27/2005 | 2007-10-30 | rejeitado | deveres-administradores | Por unanimidade, o Colegiado rejeitou as propostas de Termo de Compromisso da Parmalat Brasil S.A., da Deloitte e de dois sócios, e de três conselheiros no PAS 27/2005, acompanhando o Comitê. Fundamento: desequilíbrio entre a gravidade das acusações e os compromissos propostos; caso emblemático que merece julgamento. Julgou mesmo após pedido de retirada de pauta. | cvm/colegiado/2007/col-20071030-d03.md |
 
 ## deliberacao-cvm-39
-
-### art. 8º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º, § 4º | termo-compromisso | RJ2014/12058 | 2015-11-24 | rejeitado | auditoria-independente | O Colegiado, acompanhando o parecer do Comitê, rejeitou proposta de Termo de Compromisso de uma sociedade de auditoria e seu responsável técnico, que ofereceram R$ 50.000,00 (R$ 25.000,00 cada, em dez parcelas iguais) por emissão de relatórios sem ressalvas em desacordo com o art. 20 da ICVM 308/1999. O Comitê considerou os valores inadequados. | cvm/colegiado/2015/col-20151124-d9949.md |
 
 ### Citada sem dispositivo identificado
 

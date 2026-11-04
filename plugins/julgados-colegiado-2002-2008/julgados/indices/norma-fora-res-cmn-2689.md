@@ -7,6 +7,12 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 1º, § 1º | decisao-colegiado | RJ2004/5795 | 2004-11-16 | parcial | ofertas-publicas | O Colegiado, acompanhando a área técnica (Memo/SRE/212/04), concedeu dispensas de disponibilização de prospecto na internet pelos acionistas vendedores e de vedação à colocação para controladores, administradores e vinculados, com reservas até 7 a 12 dias úteis antes da conclusão da coleta; aprovou o contrato de estabilização de preços; negou a dispensa de declaração de recebimento do Prospecto Definitivo. | cvm/colegiado/2004/col-20041116-d06.md |
+
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -73,6 +79,7 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/0880 | 2005-11-29 | outro | fundos-investimento | O Colegiado confirmou que o reembolso de capital do The Brazil Fund, Inc. pode ser feito in natura ou in pecunia (art. 4º, IV, da Deliberação CVM 61/88, com redação da Deliberação 485/05). Quanto às demais questões, determinou discussão prévia com o Banco Central sobre migração para a Resolução CMN 2.689/00; se favorável, a questão tributária irá à Receita Federal. | cvm/colegiado/2005/col-20051129-d01.md |
 | decisao-colegiado | RJ2005/0880 | 2005-05-31 | deferido | fundos-investimento | O Colegiado acolheu, sob condições, pleito do The Brazil Fund, Inc. para flexibilizar as regras de repatriação de capital da Deliberação CVM 61/88, acompanhando o relator, que a considerou factível mediante alteração dessa norma. Condições: registro prévio dos investimentos no Banco Central e autorização da entidade reguladora norte-americana antes do programa de recompra de quotas. | cvm/colegiado/2005/col-20050531-d02.md |
 | decisao-colegiado | RJ2005/0610 | 2005-03-08 | indeferido | ofertas-publicas | O Colegiado negou as dispensas de requisitos de registro pedidas por Monteiro Aranha S.A. na oferta de ações da Ultrapar Participações S.A., nos termos do Memo SRE/031/05. As dispensas diziam respeito a prospectos na internet e a nomes e endereços dos vendedores nos anúncios. | cvm/colegiado/2005/col-20050308-d07.md |
+| decisao-colegiado | RJ2004/6550 | 2004-11-23 | deferido | ofertas-publicas | Com base na manifestação favorável da SRE (Memo/SRE/221/04), o Colegiado concedeu, nos termos do art. 4º da Instrução CVM 400/03, dispensa quanto à vedação do art. 55 a controladores, administradores e pessoas vinculadas na distribuição primária de ações da Suzano Petroquímica S.A. Condição: reservas formuladas até sete dias úteis antes da conclusão da coleta de intenções. | cvm/colegiado/2004/col-20041123-d10.md |
 | decisao-colegiado | RJ2004/6545 | 2004-11-23 | deferido | ofertas-publicas | O Colegiado aprovou contrato de estabilização de preço e concedeu dispensa de requisitos de registro na oferta primária de ações da Bradespar S.A., com base em manifestação favorável da área técnica. Condicionou as reservas de investidores vinculados até sete dias úteis antes do fim da coleta de intenções. | cvm/colegiado/2004/col-20041123-d09.md |
-| decisao-colegiado | RJ2004/5795 | 2004-11-16 | parcial | ofertas-publicas | O Colegiado, acompanhando a área técnica (Memo/SRE/212/04), concedeu dispensas de disponibilização de prospecto na internet pelos acionistas vendedores e de vedação à colocação para controladores, administradores e vinculados, com reservas até 7 a 12 dias úteis antes da conclusão da coleta; aprovou o contrato de estabilização de preços; negou a dispensa de declaração de recebimento do Prospecto Definitivo. | cvm/colegiado/2004/col-20041116-d06.md |
+| decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | ofertas-publicas | O Colegiado aprovou as dispensas de requisitos do registro e o procedimento de estabilização de preços na oferta pública primária e secundária de ações ordinárias da CPFL Energia S.A., acompanhando a SRE (Memo/SRE/154/04), favorável ao pleito. | cvm/colegiado/2004/col-20040824-d10.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |

@@ -236,13 +236,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 6º | decisao-colegiado | 19957.008361/2023-28 | 2024-10-29 | conhecimento | manipulacao-fraude | O Colegiado, por unanimidade, não conheceu de recurso de fundo multimercado contra entendimento da SMI sobre reclamação de possível manipulação de mercado. Recebido como recurso contra a não instauração de Termo de Acusação, faltam os requisitos do art. 4º, §4º, da RCVM 45. Também não conheceu do pedido de acompanhamento do processo por diretor, sem previsão normativa. | cvm/colegiado/2024/col-20241029-d3162.md |
 | art. 6º | decisao-colegiado | 19957.008271/2023-37 | 2025-11-25 | — | infraestrutura-mercado | Pedido da CERC S.A. de autorização para funcionar como administradora de mercado de balcão organizado, com dispensa de divulgar os intermediários de cada negócio e, por 24 meses, as informações financeiras trimestrais. Julgamento retomado e suspenso novamente por pedido de vista. | cvm/colegiado/2025/col-20251125-d3333.md |
 | art. 6º | decisao-colegiado | 19957.008271/2023-37 | 2025-12-02 | deferido | infraestrutura-mercado | O Colegiado concedeu à CERC S.A. autorização para funcionar como entidade administradora de mercado de balcão organizado, condicionada à aprovação prévia dos layouts de acompanhamento de mercado pela SEMOM. Deferiu dispensas de divulgar intermediários de cada negócio e, por maioria, de informações financeiras trimestrais nos 24 primeiros meses (vencido um diretor substituto). | cvm/colegiado/2025/col-20251202-d3333.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2013/9992 | 2019-03-26 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm/colegiado/2019/col-20190326-d1357.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003611/2020-91; 19957.003612/2020-35 | 2020-09-08 | nao-provido | processual | O Colegiado, por unanimidade, negou provimento ao recurso de acesso aos autos de inquéritos administrativos, mantendo sigilo sobre parte dos documentos com base no § 2º do art. 9º da Lei 6.385/76 e no art. 14 da Instrução CVM 607/19, acompanhando a área técnica. Um diretor divergiu sobre o sigilo. | cvm/colegiado/2020/col-20200908-d1905.md |
-| decisao-colegiado | RJ2013/9992 | 2019-03-26 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/9992. | cvm/colegiado/2019/col-20190326-d1357.md |
 
 ## decreto-8652
 

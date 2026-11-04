@@ -1393,12 +1393,6 @@ Norma: fora do acervo.
 | art. 132, § 1º | acordao-crsfn | 13/2009 | 2015-07-28 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informações relevantes ainda não divulgadas ao mercado em operações de venda de ações de companhia aberta – Razões de defesa acolhidas em parte – Negado provimento ao apelo voluntário de um dos indiciados e os demais providos parcial ou integralmente – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2015/13422.md |
 | art. 132, § 1º | acordao-crsfn | IA-2009-13 | 2015-07-28 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informações relevantes ainda não divulgadas ao mercado em operações de venda de ações de companhia aberta – Razões de defesa acolhidas em parte – Negado provimento ao apelo voluntário de um dos indiciados e os demais providos parcial ou integralmente – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2015/13447.md |
 
-## art. 155
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 155 | termo-compromisso | RJ2014/10082 | 2015-11-24 | rejeitado | informacao-privilegiada | O Colegiado rejeitou proposta de termo de compromisso de ex-diretor presidente acusado de infração ao dever de sigilo sobre informação não divulgada (art. 155, §1º, da Lei 6.404/1976 c/c art. 8º da Instrução CVM 358/2002), que oferecia R$ 200.000,00. Contra o parecer do Comitê, que sugerira aceitar, entendeu a aceitação inconveniente e inoportuna, pois o caso demanda pronunciamento em julgamento. | cvm/colegiado/2015/col-20151124-d9948.md |
-
 ## art. 157
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

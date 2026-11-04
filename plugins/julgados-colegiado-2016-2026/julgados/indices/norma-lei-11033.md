@@ -31,4 +31,5 @@ Norma: [leis/lei-11033.md](../../../normas/normas/leis/lei-11033.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | cvm/colegiado/2021/col-20211221-d2388.md |
 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7756. | cvm/colegiado/2016/col-20161108-d0419.md |

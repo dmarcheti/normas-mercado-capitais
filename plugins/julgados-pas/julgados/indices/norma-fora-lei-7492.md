@@ -143,12 +143,6 @@ Norma: fora do acervo.
 | art. 17 | pas | 02/2014; 19957.010256/2019-72 | 2019-12-17 | parcial | manipulacao-fraude | Ementa : Realização de negócios irregulares no mercado de bolsa com ações preferenciais de emissão do Banco Cruzeiro do Sul S.A., caracterizando a manipulação de preços. Infração ao item I, c/c o item II, alínea ‘b’, da Instrução CVM nº 08/79. Multas. Absolvições. | cvm/pas/2019/19957-010256-2019-72.md |
 | art. 17 | pas | 19957.001124/2021-74 | 2023-12-12 | condenacao | manipulacao-fraude | Alegada prática de operação fraudulenta e de oferta de valores mobiliários sem obtenção de registro ou de sua dispensa. Multas e proibição temporária. | cvm/pas/2023/19957-001124-2021-74.md |
 
-## art. 19
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19, § 3º | pas | 22/2010 | 2014-10-21 | — | ofertas-publicas | Oferta pública irregular de quotas de fundo off-shore - quebra do dever fiduciário. Inabilitação temporária e multas. | cvm/pas/2014/22-2010.md |
-
 ## art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

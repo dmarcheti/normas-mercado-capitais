@@ -505,6 +505,52 @@ class Fase3bConv6Test(unittest.TestCase):
         r = pii.limpar(t)
         self.assertIn("A Fulana Exemplo e FULANA votaram; Beltrano Exemplo também.", r)
 
+class Fase3bReauditoria2Test(unittest.TestCase):
+    """Re-auditoria da semente 20261105: passaporte, regime de bens, profissão e "residentes no"."""
+
+    def test_passaporte_e_nacionalidade_saem_escritorio_fica(self):
+        t = ("FULANO EXEMPLO, americano,\npassaporte americano nº " + "034768885" +
+             ", com escritório na Dayton Avenue, nº 20, Connecticut")
+        r = pii.limpar(t)
+        self.assertNotIn("034768885", r)
+        self.assertNotIn("americano,", r)
+        self.assertIn("com escritório na Dayton Avenue", r)
+
+    def test_formatos_de_passaporte(self):
+        for t, num in (("portador do passaporte nº CK " + "083355" + ", emitido pelo DPF-RJ", "083355"),
+                       ("portadora do Passaporte Espanhol nº XD " + "195931" + ", residente", "195931"),
+                       ("portador do Passaporte n° G" + "03962146" + ", e", "03962146"),
+                       ("passaporte da Argentina n° 08." + "104.991" + "-M, com", "104.991")):
+            self.assertNotIn(num, pii.limpar(t), t)
+        for t in ("apresentou cópia de Passaporte Chinês, emitido em 22.05.1997, com validade",
+                  "reuniões sobre o passaporte europeu de fundos, realizadas de 22 a 28"):
+            self.assertEqual(pii.limpar(t), t)
+
+    def test_regime_de_bens_e_profissao_saem(self):
+        for t in ("FULANO DE TAL, brasileiro, casado sob regime de comunhão universal de bens, "
+                  "industrial, portador da Cédula de Identidade",
+                  "BELTRANO EXEMPLO, brasileiro, casado sob o regime de comunhão parcial de\n"
+                  "bens, empresário, portador da Cédula de Identidade"):
+            r = pii.limpar(t)
+            for fora in ("regime", "bens", "industrial", "empresário"):
+                self.assertNotIn(fora, r, t)
+            self.assertIn("portador da Cédula de Identidade", r)
+
+    def test_nacionalidade_e_profissao_antes_de_com_escritorio(self):
+        t = ("CICRANO EXEMPLO, brasileiro, administrador de empresas com escritório na Rua "
+             "Exemplo, nº 78, conj. 91, Cidade Exemplo")
+        r = pii.limpar(t)
+        self.assertNotIn("brasileiro", r)
+        self.assertNotIn("administrador de empresas", r)
+        self.assertIn("com escritório na Rua Exemplo, nº 78", r)
+
+    def test_residentes_no_brasil_nao_e_endereco(self):
+        for t in ("restrição à negociação por pessoas residentes no Brasil, não tendo sido "
+                  "adotados os\ncuidados previstos no PO CVM 33;",
+                  "investidores residentes no exterior podem aplicar",
+                  "pessoas domiciliadas no país"):
+            self.assertEqual(pii.limpar(t), t)
+
 
 if __name__ == "__main__":
     unittest.main()

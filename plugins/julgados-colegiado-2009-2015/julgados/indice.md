@@ -325,7 +325,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-287 | 15 | [indices/norma-fora-icvm-287.md](indices/norma-fora-icvm-287.md) |
 | icvm-296 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-299 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-3 | 17 | [indices/norma-fora-icvm-3.md](indices/norma-fora-icvm-3.md) |
+| icvm-3 | 15 | [indices/norma-fora-icvm-3.md](indices/norma-fora-icvm-3.md) |
 | icvm-30 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-301 | 33 | [indices/norma-fora-icvm-301.md](indices/norma-fora-icvm-301.md) |
 | icvm-302 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
@@ -446,7 +446,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-496 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-497 | 25 | [indices/norma-fora-icvm-497.md](indices/norma-fora-icvm-497.md) |
 | icvm-499 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-5 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
+| icvm-5 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-503 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-504 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-505 | 16 | [indices/norma-fora-icvm-505.md](indices/norma-fora-icvm-505.md) |

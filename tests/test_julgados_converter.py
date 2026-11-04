@@ -193,6 +193,35 @@ class PecasTest(unittest.TestCase):
                          {1, 2})
         self.assertEqual(conv._linhas_de_partes(["Interessado: A", "RELATÓRIO", "B"]), {0})
 
+    def test_texto_sobreposto_do_pdf_vira_uma_linha(self):
+        pagina = "\n".join([
+            "PROCESSO ADMINISTRATIVO SANCIONADOR CVM Nº RJ2014/0001",
+            "PROCESSO ADMINISTRATIVO SANCIONADOR CVM Nº RJ2014/0001",
+            "91. Em 2012, o acusado não teria exercido todas as opções que tinha disponívei",
+            "Em 2012, o acusado não teria exercido todas as opções que tinha disponívei",
+            "Em 2012, o acusado não teria exercido todas as opções que tinha disponíveis",
+            "tampouco teria vendido em bolsa todas as suas ações, permanecendo com cerca de",
+            "tampouco teria vendido em bolsa todas as suas ações, permanecendo com cerca de",
+            "carteira em março de 2012. O acusado poderia ter alienado um milhão de ações",
+            "carteira em março de 2012. O acusado poderia ter alienado um milhão de ações adicionais",
+            "naqueles primeiros meses de 2012, mas não o fez.",
+            "naqueles primeiros meses de 2012, mas não o fez.",
+            "1º 1.550.000",
+            "1.550.000 01.01.2011"])
+        self.assertEqual(conv.desfazer_sobreposicao(pagina), "\n".join([
+            "PROCESSO ADMINISTRATIVO SANCIONADOR CVM Nº RJ2014/0001",
+            "91. Em 2012, o acusado não teria exercido todas as opções que tinha disponíveis",
+            "tampouco teria vendido em bolsa todas as suas ações, permanecendo com cerca de",
+            "carteira em março de 2012. O acusado poderia ter alienado um milhão de ações adicionais",
+            "naqueles primeiros meses de 2012, mas não o fez.",
+            "1º 1.550.000",
+            "1.550.000 01.01.2011"]))
+        # página normal: uma repetição só (citação repetida de propósito) fica
+        normal = ("O Colegiado decidiu o seguinte sobre o caso.\n"
+                  "O Colegiado decidiu o seguinte sobre o caso.\n" +
+                  "".join("Linha %d do voto, com texto próprio.\n" % n for n in range(8)))
+        self.assertEqual(conv.desfazer_sobreposicao(normal), normal)
+
     def test_ocr_paragrafo_lido_como_8(self):
         f = conv.corrigir_ocr
         self.assertEqual(f("nos termos do art. 17, 82°, II, da Lei"),
@@ -206,6 +235,17 @@ class PecasTest(unittest.TestCase):
         # sem "art." antes, ou sem o grau, fica
         for t in ("multa de 82° graus", "art. 17, 82, II", "Lei 6.385, 82°", "art. 8º, inciso I",
                   "art. 11, 85.000 ações", "o art. 82º da Lei"):
+            self.assertEqual(f(t), t)
+
+    def test_ocr_romano_isolado_e_paragrafo_lido_como_cifrao(self):
+        f = conv.corrigir_ocr
+        self.assertEqual(f("art. 11, inciso Il, alínea a"), "art. 11, inciso II, alínea a")
+        self.assertEqual(f("art. 4º, inciso VIll, da Instrução"), "art. 4º, inciso VIII, da Instrução")
+        self.assertEqual(f("inciso l, c/c"), "inciso I, c/c")
+        self.assertEqual(f("c/c art. 24, $ 1°, da"), "c/c art. 24, § 1º, da")
+        # algarismo puro, romano válido, "L" e dinheiro ficam
+        for t in ("inciso 1, c/c", "inciso L, c/c", "inciso XIV, da", "R$ 1° lote", "US$ 2º",
+                  "incisos 1 e 2 do art. 3º", "inciso Ilegal"):
             self.assertEqual(f(t), t)
 
     def test_ocr_romanos_em_incisos_e_titulos(self):

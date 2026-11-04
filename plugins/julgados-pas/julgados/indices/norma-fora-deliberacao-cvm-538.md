@@ -781,12 +781,6 @@ Norma: fora do acervo.
 | art. 20 | pas | RJ2016/4685 | 2019-02-19 | condenacao | intermediacao | Ementa : Atuação do agente autônomo de investimento como procurador de cliente perante instituição integrante do sistema de distribuição de valores mobiliários. Infração ao art. 13, III da Instrução CVM nº 497/11. Multa. Data decisão CVM Tue Feb 19 16:15:00 BRT 2019 | cvm/pas/2019/rj2016-4685.md |
 | art. 20 | pas | RJ2017/3090 | 2019-05-07 | condenacao | ofertas-publicas | Oferta pública irregular de contratos de investimento coletivo. Infração ao disposto nos artigos 19, da Lei nº 6.385/76, e 2º, da Instrução CVM nº 400/03. Multas. Data decisão CVM Tue May 07 16:51:00 BRT 2019 | cvm/pas/2019/rj2017-3090.md |
 
-## art. 21
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21 | pas | RJ2014/3616 | 2018-11-13 | parcial | informacao-privilegiada | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a sociedade antes de sua divulgação ao mercado. Infração ao ao art. 155, §1º da Lei nº 6.404/76 c/c o art. 13 da Instrução CVM nº 358/02. Multas. Absolvição. Data decisão CVM Tue Nov 13 11:50:00 BRST 2018 | cvm/pas/2018/rj2014-3616.md |
-
 ## art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

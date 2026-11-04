@@ -534,7 +534,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-321 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-323 | 23 | [indices/norma-fora-icvm-323.md](indices/norma-fora-icvm-323.md) |
 | icvm-324 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-325 | 13 | [indices/norma-fora-icvm-325.md](indices/norma-fora-icvm-325.md) |
+| icvm-325 | 17 | [indices/norma-fora-icvm-325.md](indices/norma-fora-icvm-325.md) |
 | icvm-326 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-327 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-33 | 11 | [indices/norma-fora-icvm-33.md](indices/norma-fora-icvm-33.md) |
@@ -988,7 +988,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | res-cmn-2517 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-2609 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-2676 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2689 | 32 | [indices/norma-fora-res-cmn-2689.md](indices/norma-fora-res-cmn-2689.md) |
+| res-cmn-2689 | 34 | [indices/norma-fora-res-cmn-2689.md](indices/norma-fora-res-cmn-2689.md) |
 | res-cmn-2690 | 155 | [indices/norma-fora-res-cmn-2690.md](indices/norma-fora-res-cmn-2690.md) |
 | res-cmn-2720 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
 | res-cmn-2747 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |

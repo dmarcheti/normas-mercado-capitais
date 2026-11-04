@@ -375,11 +375,23 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## res-cvm-400
 
+### art. 2º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º | pas | 19957.005524/2022-30 | 2024-07-16 | condenacao | ofertas-publicas | Apurar eventual responsabilidade por oferta pública, distribuição e intermediação de negociações de valores mobiliários ofertados a cidadãos residentes no Brasil sem ser integrante do sistema de distribuição de valores mobiliários e sem obter o necessário registro ou dispensa de registro junto à CVM. Infração ao art. 16, incisos I e III, ao art. 19, caput e § 1º, da Lei nº 6.385/1976, e aos arts. 2º e 4º da Instrução CVM nº 400/2003. Multa. | cvm/pas/2024/19957-005524-2022-30.md |
+
 ### art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º | pas | 01/2005 | 2008-11-26 | parcial | fundos-investimento | Banco Santos S/A e outros Não utilização, no exercício das atividades de administração e gestão de carteiras de fundos de investimento, do cuidado e da diligência que todo homem ativo e probo costuma dispensar à administração de seus próprios negócios. Inabilitações e multas. Não cumprimento de normas de segregação na administração de recursos de terceiros e a existência de um visível conflito de interesse entre o administrador (Banco Santos) e a gestora (Santos Asset Management) dos fundos que foram objeto da investigação, tendo sido comprovada a falta de independência da equipe técnica da gestora em relação às operações de interesse do administrador, ficando claro que o chamado “chinese wall” não passava de mera formalidade, sem efeito prático. Multas. Não observação do limite máximo de aplicação de 10% (dez por cento) do patrimônio líquido do fundo Santos Credit Master FIF em cédulas de crédito bancário (CCBs) de emissão do “Grupo CAOA”. Multas. Não verificação da adequação da carteira do fundo Santos Cambial FIF ao seu respectivo referencial e dos fundos Santos Agro Brasilis DI FIF e Santos Maxi Money DI FIF aos níveis de composição de ativos. Multas. Colocação de debêntures de emissão da Procid Participações e Negócios S.A., Procid Invest Participações e Negócios S.A., Invest Santos Negócios, Administração e Participações S.A., Santospar Investimentos, Participações e Negócios S.A. e Sanvest Participações S.A., sem o prévio registro nesta CVM, as quais deveriam ser colocadas de forma privada, mas que comprovadamente foram negociadas nas dependências do Banco Santos, sociedade integrante do sistema de distribuição, com efetiva e intensiva participação de seus agentes e funcionários. Multas e absolvições. Embaraço à Fiscalização da CVM, tendo em vista o não atendimento de intimação para prestação de esclarecimentos. Multa. | cvm/pas/2008/01-2005.md |
+
+### art. 4º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 4º | pas | 19957.005524/2022-30 | 2024-07-16 | condenacao | ofertas-publicas | Apurar eventual responsabilidade por oferta pública, distribuição e intermediação de negociações de valores mobiliários ofertados a cidadãos residentes no Brasil sem ser integrante do sistema de distribuição de valores mobiliários e sem obter o necessário registro ou dispensa de registro junto à CVM. Infração ao art. 16, incisos I e III, ao art. 19, caput e § 1º, da Lei nº 6.385/1976, e aos arts. 2º e 4º da Instrução CVM nº 400/2003. Multa. | cvm/pas/2024/19957-005524-2022-30.md |
 
 ### art. 59
 

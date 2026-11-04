@@ -28,6 +28,7 @@ Uso:
 """
 import argparse
 import datetime
+import difflib
 import json
 import os
 import re
@@ -85,6 +86,12 @@ _OCR_PARAGRAFO = re.compile(
     r"(\b(?:arts?\.|artigos?)\s*\d+[A-Z]?(?:-[A-Z])?,?\s+)8(8?)\s?(\d{1,2})\s*[°º]")
 _OCR_INCISOS = re.compile(r"\b(incisos?\s+)(?:I|1|l)(\s+e\s+)(?:II|11|Il|lI)\b")
 _OCR_TITULO_II = re.compile(r"(?m)^([ \t]*)(?:Il|lI)(?=\s+[-–]\s|\.)")
+# romano isolado depois de "inciso" com "l" ou "1" no lugar de "I" ("inciso Il", "inciso VIll");
+# só se tem "l" (algarismo puro fica: "inciso 1" pode ser numeração arábica da norma)
+_OCR_INCISO = re.compile(r"\b(incisos?\s+)([IVXl1]*l[IVXl1]*)(?![\wÀ-ÿ])")
+_ROMANO = re.compile(r"^(?:X{0,3})(?:IX|IV|V?I{0,3})$")
+# "§" lido como "$" antes do número com grau ("art. 24, $ 1°"); "R$"/"US$" ficam
+_OCR_CIFRAO = re.compile(r"(?<![A-Za-z])\$(\s?)(\d{1,2})\s*[°º]")
 
 
 def corrigir_ocr(texto):
@@ -92,7 +99,54 @@ def corrigir_ocr(texto):
     texto = _OCR_PARAGRAFO.sub(lambda m: "%s§%s%sº" % (m.group(1), "§" if m.group(2) else "",
                                                       m.group(3)), texto)
     texto = _OCR_INCISOS.sub(r"\1I\2II", texto)
+
+    def _inciso(m):
+        rom = m.group(2).replace("l", "I").replace("1", "I")
+        return m.group(1) + rom if rom and _ROMANO.match(rom) else m.group(0)
+
+    texto = _OCR_INCISO.sub(_inciso, texto)
+    texto = _OCR_CIFRAO.sub(r"§\1\2º", texto)
     return _OCR_TITULO_II.sub(r"\1II", texto)
+
+
+# PDF que desenha o mesmo texto 2 ou 3 vezes em camadas sobrepostas (cada camada com pedaços
+# diferentes): o PDFKit devolve as camadas em linhas seguidas. Linhas seguidas cujo trecho comum
+# cobre 80% da menor, e que só se estendem uma à outra, viram uma; só na página em que isso é
+# sistemático (5 pares e 10% das linhas), para não fundir repetição de verdade.
+SOBREPOSICAO_MIN_PARES, SOBREPOSICAO_FRACAO, SOBREPOSICAO_COBRE = 5, 0.10, 0.80
+
+
+def _fundir_sobrepostas(a, b):
+    a, b = a.strip(), b.strip()
+    menor = min(len(a), len(b))
+    if menor < 15:
+        return None
+    i, j, k = difflib.SequenceMatcher(None, a, b, autojunk=False).find_longest_match(
+        0, len(a), 0, len(b))
+    if k < SOBREPOSICAO_COBRE * menor:
+        return None
+    if (i and j) or (i + k < len(a) and j + k < len(b)):
+        return None  # as duas divergem no começo ou no fim: linhas diferentes, não camadas
+    comeco = a[:i] if i >= j else b[:j]
+    fim = a[i + k:] if len(a) - i >= len(b) - j else b[j + k:]
+    return comeco + a[i:i + k] + fim
+
+
+def desfazer_sobreposicao(pagina):
+    """Página do PDFKit sem as camadas de texto sobrepostas (ver acima)."""
+    linhas = pagina.split("\n")
+    cheias = [x for x in linhas if x.strip()]
+    pares = sum(1 for x, y in zip(cheias, cheias[1:]) if _fundir_sobrepostas(x, y))
+    if pares < SOBREPOSICAO_MIN_PARES or pares < SOBREPOSICAO_FRACAO * len(cheias):
+        return pagina
+    out = []
+    for x in linhas:
+        junta = _fundir_sobrepostas(out[-1], x) if out and out[-1].strip() and x.strip() else None
+        if junta is not None:
+            out[-1] = junta
+        else:
+            out.append(x)
+    return "\n".join(out)
 
 
 def texto_pdf(caminho, pm=pdf_macos):
@@ -111,6 +165,8 @@ def texto_pdf(caminho, pm=pdf_macos):
     if n_real is not None and len(paginas) > n_real and not paginas[-1].strip():
         paginas = paginas[:-1]
     paginas = [jc.normalizar_pdf(p) for p in paginas]
+    if motor == "pdfkit":
+        paginas = [desfazer_sobreposicao(p) for p in paginas]
     vazias = [i for i, p in enumerate(paginas) if len(p.strip()) < MIN_CARACTERES_PAGINA]
     nivel, n_ocr = "pdf-extraido", 0
     if vazias:
