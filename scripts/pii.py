@@ -35,7 +35,8 @@ _CPF_FMT = re.compile(r"(?<![\w./])(?<!\d[-–])\d{3}\s?[.,]\s?\d{3}\s?[.,]\s?\d
 _CPF_ROT = re.compile(
     r"(?:\bCPF|\bC\.\s?P\.\s?F\.?|\bCIC)(?:\s*[/I]?\s*M\.?[FE]\.?)?\s*(?:[:\-–]\s*)?"
     r"(?:(?:sob[\s\-]+o[\s\-]+)?(?:n\.?\s?[º°o'’]\.?|n\.|número)\s*)?[:\s\-–]*"
-    r"(" + _D + r"(?:[\s.,\-–/]{0,2}" + _D + r"){7,11}[\s.,\-–/]{0,2}\d)(?![0-9])", re.I)
+    # ":" entre os grupos: "CPF: 008: 350..." lido pelo OCR no bloco de assinatura
+    r"(" + _D + r"(?:[\s.,:\-–/]{0,2}" + _D + r"){7,11}[\s.,:\-–/]{0,2}\d)(?![0-9])", re.I)
 # CPF só com dígitos: 11 dígitos soltos com dígito verificador válido.
 _CPF_PURO = re.compile(r"(?<![\w./-])\d{11}(?![\w/])")
 
@@ -437,16 +438,37 @@ def _nome_de_pessoa(trecho):
 _CONTEXTO_DE_FIRMA = re.compile(r"reconhe[cç]|\bfirmas?\b|testem|\bnome\s*:|\bR\.?\s?G\b|\bCPF\b"
                                 r"|assinad|tabeli|cart[óo]rio", re.I)
 _JANELA_DE_FIRMA = 150
+# Depois do nome, só o carimbo conta: "inscrito no CPF" depois do nome é a qualificação da parte.
+_CARIMBO_DEPOIS = re.compile(r"reconhe[cç]|\bfirmas?\b|tabeli|cart[óo]rio", re.I)
+
+
+_SEM_ACENTO = {"a": "aáàâã", "e": "eéê", "i": "ií", "o": "oóôõ", "u": "uúü", "c": "cç"}
+
+
+def _letra_sem_acento(ch):
+    base = ch.lower().translate(str.maketrans("áàâãéêíóôõúüç", "aaaaeeiooouuc"))
+    return "[%s]" % _SEM_ACENTO[base] if base in _SEM_ACENTO else re.escape(ch)
 
 
 def _outras_ocorrencias(texto, nomes):
+    """Outras ocorrências do nome da testemunha (sem distinguir acento: "João" e "JOAO" no
+    carimbo), quando há contexto de carimbo/assinatura antes ou logo depois do nome."""
     spans = []
     for nome in sorted(set(nomes), key=len, reverse=True):
-        rx = re.compile(r"(?<![\wÀ-ÿ])" + r"\s+".join(re.escape(p) for p in nome.split())
+        partes = nome.split()
+        rx = re.compile(r"(?<![\wÀ-ÿ])" + r"\s+".join("".join(_letra_sem_acento(c) for c in p)
+                                                     for p in partes)
                         + r"(?![\wÀ-ÿ])", re.I)
+        if any(len(p.strip(".")) == 1 for p in partes) and len(partes) >= 3:
+            # nome abreviado no bloco ("João P. M Figueiredo"): no carimbo vem por extenso
+            # ("JOAO PEDRO MARTINS DO COUTO DE FIGUEIREDO"); primeiro e último nome iguais
+            prim, ult = ("".join(_letra_sem_acento(c) for c in x) for x in (partes[0], partes[-1]))
+            rx = re.compile(r"(?<![\wÀ-ÿ])%s(?:\s+[\wÀ-ÿ.]+){1,6}?\s+%s(?![\wÀ-ÿ])"
+                            % (prim, ult), re.I)
         spans += [m.span() for m in rx.finditer(texto)
                   if _CONTEXTO_DE_FIRMA.search(texto, max(0, m.start() - _JANELA_DE_FIRMA),
-                                               m.start())]
+                                               m.start())
+                  or _CARIMBO_DEPOIS.search(texto, m.end(), m.end() + 40)]
     return spans
 
 

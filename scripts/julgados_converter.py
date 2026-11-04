@@ -821,10 +821,11 @@ _SO_BRASIL = re.compile(r"\s*Brasil[:.\s]*", re.I)
 
 
 def _linha_de_timbre(linha):
-    """Linha de timbre por si só. "Brasil" sozinho não conta: quase sempre é o fim de "Banco
-    Central do / Brasil."; só é timbre logo depois do endereço (ver tirar_timbre)."""
+    """Linha de timbre por si só. "Brasil" sozinho, com qualquer pontuação, não conta: é o fim de
+    "Banco Central do / Brasil.", "no / Brasil;" ou "B3 S.A. / – Brasil,"; só é timbre logo
+    depois do endereço (ver tirar_timbre)."""
     s = re.sub(r"\s+", " ", linha.strip())
-    if not s or _SO_BRASIL.fullmatch(s):
+    if not s or re.fullmatch(r"[\W_]*brasil[\W_]*", s, re.I):
         return False
     if len(s) >= 5 and s.upper() == s and s in _FRAGMENTO_TIMBRE and re.search(r"[A-ZÀ-Ý]{3}", s):
         return True  # pedaço do logotipo lido pelo OCR ("VALORES", "MOBILIÁRIOS")
@@ -1610,7 +1611,7 @@ def gravar_julgado(valores, corpo, raiz=jc.RAIZ):
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     tmp = caminho + ".parcial"
     with open(tmp, "w", encoding="utf-8") as f:
-        f.write(jc.frontmatter(valores) + corpo)
+        f.write(jc.sem_controle(jc.frontmatter(valores) + corpo))
     os.replace(tmp, caminho)
     return caminho
 

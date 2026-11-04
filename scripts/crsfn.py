@@ -469,7 +469,9 @@ def _gatilho(p, estado, ementa_vista, ementa_depois, voto_depois):
         return "Relatório", False, False
     if _e_voto(p):
         return "Voto", False, False
-    if len(p) <= 120 and re.match(r"^(?:DECLARA[ÇC][ÃA]O|MANIFESTA[ÇC][ÃA]O)\s+DE\s+VOTO\b", p, re.I):
+    # inicial maiúscula: "declaração de voto, na qual..." é a frase do relatório, não o título
+    if (len(p) <= 120 and p[:1].isupper()
+            and re.match(r"^(?:DECLARA[ÇC][ÃA]O|MANIFESTA[ÇC][ÃA]O)\s+DE\s+VOTO\b", p, re.I)):
         return "Declaração de voto", True, False
     if len(p) <= 40 and c in ("DECISÃO", "DECISAO") and estado in (None, "Texto", "Ementa"):
         return "Decisão", False, False
@@ -746,7 +748,7 @@ def gravar(valores, corpo, raiz=jc.RAIZ):
     valores = jconv._preservar_extracao(valores, caminho)  # reconversão não apaga o tema extraído
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
     with open(caminho + ".parcial", "w", encoding="utf-8") as f:
-        f.write(jc.frontmatter(valores) + corpo)
+        f.write(jc.sem_controle(jc.frontmatter(valores) + corpo))
     os.replace(caminho + ".parcial", caminho)
     return caminho
 

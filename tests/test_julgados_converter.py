@@ -1179,6 +1179,13 @@ class TimbreTest(unittest.TestCase):
         self.assertEqual(n, 3)
         self.assertFalse(conv._linha_de_timbre("Brasil."))
 
+    def test_brasil_com_pontuacao_no_meio_do_texto_fica(self):
+        # "no / Brasil;" no fim de item (05-2004) e "B3 S.A. / – Brasil, / Bolsa, Balcão" (d2311)
+        for linha in ("Brasil;", "– Brasil,", "- Brasil,", "BRASIL"):
+            self.assertFalse(conv._linha_de_timbre(linha), linha)
+        texto = "submetido à B3 S.A.\n– Brasil,\nBolsa, Balcão (“B3”) um procedimento"
+        self.assertEqual(conv.tirar_timbre(texto)[0], texto)
+
     def test_pdf_tira_timbre_tambem_sem_regra_de_repetidas(self):
         pasta = tempfile.mkdtemp()
         with open(os.path.join(pasta, "a.pdf"), "wb") as f:

@@ -17,7 +17,7 @@ Em construção (repositório privado). Acervo atual, em camadas declaradas (dat
 4. **CMN e BCB:** 128 normas vigentes que tocam mercado de capitais, fundos, securitização, crédito negociável e instituições do mercado (57 do CMN e 71 do BCB: Resoluções, Resoluções Conjuntas, Circulares, Cartas Circulares e Instruções Normativas), no texto compilado pelo BCB, sem histórico nem conferência contra o DOU: o da busca de normas, ou, nas 26 normas alteradas cujo texto na busca é a redação original, o PDF da última versão compilada (relido em 2026-10-30). Os atos que só alteram essas normas aparecem como verbete. Ficam fora política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas e consórcios, prudencial e PLD; o critério de cada norma está em `fontes/perimetro-camada4.json`.
 5. **Autorregulação:** 38 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/normas/autorregulacao/README.md`.
 
-Fora do acervo: julgados da CVM.
+6. **Julgados (v1.1):** 14.990 julgados em 5 plugins `julgados-*`: 1.419 PAS julgados pela CVM, 10.501 decisões do Colegiado (2002 em diante), 1.714 termos de compromisso, 1.332 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Cada julgado traz o texto da fonte, processo, data, relator, resultado, ementa (a da CVM ou do CRSFN, ou extraída por LLM e marcada `ementa_fonte: extracao`), tema e as normas citadas, com índices por ano, por tema e por norma, e o índice reverso de citações no plugin `normas`. Dados pessoais (CPF, RG, endereço, qualificação, testemunhas) saem do texto; o nome da parte fica. Julgado não é norma: diz o que a CVM ou o CRSFN decidiu num caso, com a redação das normas da época.
 
 Cada norma informa o nível de verificação (`nivel_verificacao`): 38 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU: 37 Resoluções CVM (o núcleo de fundos e securitização, 17, 21, 30, 50, 60, 80, 160 e 175, e as substantivas 6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88, 135, 161, 166, 193, 210, 215 e 232) e a Instr. CVM 489; as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
 
@@ -32,6 +32,17 @@ Auditoria cega por amostragem em 2026-10-30, nas 5 camadas: 297 itens sorteados 
 - Camada 3: zero erro em 28 itens (abaixo de 10,7%).
 - Camada 4: 1 erro, corrigido. Depois da correção, zero erro em 50 itens (abaixo de 6%).
 - Camada 5: 1 erro, sem correção. Ressalva: no Glossário ANBIMA, verbetes e definições podem estar desalinhados.
+
+### Julgados
+
+Auditoria cega por amostragem de 2026-11-03 a 2026-11-04, em seis rodadas (1.021 itens), com adjudicação de cada diferença contra a página da fonte. Na última rodada:
+
+- Texto em PDF: zero erro em 20 decisões do Colegiado, 12 termos e 10 acórdãos do CRSFN; 2 erros em 20 PAS (linha fora de lugar).
+- Texto por OCR (813 julgados, `nivel_verificacao: ocr`): 4 erros em 24 (tabela ou figura que é imagem, dígito de tabela, nome de testemunha num carimbo, este já corrigido). Ressalva: confira número de tabela na fonte.
+- Dados pessoais: nenhum dado que ficou em 40 qualificações.
+- Extração por LLM: ementa 2 erros em 40; resultado 2 em 80, corrigidos; tema zero em 80.
+
+Método, todas as rodadas e ressalvas em `VERIFICACAO.md`, seção Julgados.
 
 ## Bateria de perguntas
 
@@ -54,6 +65,19 @@ Um Claude Opus 5.5 corrigiu as 60 respostas sem saber de que modo vinha cada uma
 
 Com o acervo, 26 respostas citaram o dispositivo certo e 29 informaram a data-base; sem ele, 4 e 0. As 3 respostas erradas com o acervo têm a mesma causa: ofício ou documento da ANBIMA sem artigos que o modelo não abriu, porque procurou na norma de base. É o ponto fraco da consulta.
 
+### Julgados
+
+30 perguntas sobre julgados (`testes/bateria-v2.md`), com gabarito conferido na página da CVM ou do CRSFN, respondidas com e sem os plugins de julgados e corrigidas às cegas pelo Claude Opus:
+
+| Critério | Com os julgados | Sem os julgados |
+|---|---|---|
+| Acha o caso certo | 25 | 1 |
+| Conteúdo certo | 27 | 2 |
+| Ressalvas de fonte | 29 | 5 |
+| Tudo certo | 24 | 1 |
+
+As 6 falhas com os julgados são de busca: o caso está no acervo, mas a resposta não o achou.
+
 ## Mapas por produto
 
 `plugins/normas/normas/mapas/` tem um mapa para CRI, um para FIDC e um para FII: que normas do acervo regem cada produto, por camada, com os dispositivos-chave e o caminho do arquivo. São mapas de navegação, não parecer.
@@ -65,7 +89,12 @@ Para quem for usar com um assistente de IA, ver `COMECE-AQUI.md`. No Claude Code
 ```
 /plugin marketplace add dmarcheti/normas-mercado-capitais
 /plugin install normas@normas-mercado-capitais
+/plugin install julgados-pas@normas-mercado-capitais
+/plugin install julgados-tc-crsfn@normas-mercado-capitais
+/plugin install julgados-colegiado-2016-2026@normas-mercado-capitais
 ```
+
+Os plugins de julgados são independentes: instale só os períodos e tipos que usar (`julgados-colegiado-2002-2008` e `julgados-colegiado-2009-2015` para decisões mais antigas).
 
 ## Licença
 

@@ -600,3 +600,27 @@ class Fase3bReauditoria3Test(unittest.TestCase):
             self.assertNotIn(nac, r)
             self.assertNotIn("economista", r)
 
+    def test_nome_da_testemunha_sem_acento_no_carimbo(self):
+        t = ("Cláusula final do termo, com João Exemplo Fictício Teste citado no mérito.\n"
+             "JOAO EXEMPLO FICTICIO TESTE.. Reconheço a(s) firma(s) de por SEMELHANCA:")
+        spans = pii._outras_ocorrencias(t, ["João Exemplo Fictício Teste"])
+        self.assertEqual([t[a:b] for a, b in spans], ["JOAO EXEMPLO FICTICIO TESTE"])
+
+    def test_nome_abreviado_no_bloco_por_extenso_no_carimbo(self):
+        t = ("O termo foi assinado.\n"
+             "Reconheço a(s) firma(s) de por SEMELHANÇA\nJOAO PEDRO MARTINS DO EXEMPLO DE FICTICIO\n")
+        spans = pii._outras_ocorrencias(t, ["João P. M Fictício"])
+        self.assertEqual([t[a:b] for a, b in spans], ["JOAO PEDRO MARTINS DO EXEMPLO DE FICTICIO"])
+
+
+    def test_compromitente_seguido_de_cpf_fica(self):
+        # o "Nome:" do bloco digitalizado traz o compromitente; na qualificação ele é parte e fica
+        t = ("outro, o doravante denominado COMPROMITENTE, FULANO EXEMPLO, inscrito no CPF/MF\n"
+             "sob o nº X, com endereço Y.")
+        self.assertEqual(pii._outras_ocorrencias(t, ["Fulano Exemplo"]), [])
+
+    def test_cpf_com_dois_pontos_do_ocr(self):
+        t = "Nome: Fulano Nome: Beltrano\nCPF: 123: 456" + ".789-09 CPF: 987.654" + ".321-00\nFeconheço"
+        r = pii.limpar(t)
+        self.assertNotIn("456.789", r)
+        self.assertNotIn("654.321", r)

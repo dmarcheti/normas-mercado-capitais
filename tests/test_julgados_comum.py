@@ -238,5 +238,11 @@ class SelecaoTest(unittest.TestCase):
         self.assertFalse(jc.anexo_alheio("PARECER DO COMITÊ"))
 
 
+
+class SemControleTest(unittest.TestCase):
+    def test_nul_vira_marca_visivel_e_stx_vira_hifen(self):
+        self.assertEqual(jc.sem_controle("O\x00cios na sexta\x02feira\x0b."), "O\ufffdcios na sexta-feira.")
+        self.assertEqual(jc.sem_controle("linha\n\ttab\r\n"), "linha\n\ttab\r\n")
+
 if __name__ == "__main__":
     unittest.main()

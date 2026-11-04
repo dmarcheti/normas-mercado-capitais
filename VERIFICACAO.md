@@ -1,4 +1,6 @@
-# Verificação do acervo (v1.0)
+# Verificação do acervo (v1.1)
+
+As normas (v1.0) e os julgados (v1.1) foram auditados em separado; a seção [Julgados](#julgados-v11) fica no fim.
 
 Auditoria cega por amostragem feita em 2026-10-30, sobre as 5 camadas do acervo (634 normas). Ela mede uma coisa: se o texto do acervo é igual ao da fonte oficial. Não mede se a norma é a certa para um caso nem se a interpretação está correta.
 
@@ -103,3 +105,96 @@ python3 scripts/auditoria.py comparar --amostra fontes/amostra-fase3.json --said
 ```
 
 As fontes ficam em `dados/`, fora do Git. O universo depende delas e do histórico da `main` em 2026-10-30.
+
+# Julgados (v1.1)
+
+Auditoria cega por amostragem feita de 2026-11-03 a 2026-11-04 sobre os 14.990 julgados (PAS, decisões do Colegiado, termos de compromisso e acórdãos do CRSFN), em seis blocos: texto, metadados, extração por LLM, citações, dados pessoais e completude. Como nas normas, ela mede se o acervo reproduz a fonte; não mede se a decisão está certa.
+
+## Resultado
+
+Texto (bloco A), última rodada de cada estrato. "Erros" conta itens com pelo menos um erro; a taxa vale para a população do estrato.
+
+| Estrato | População | Rodada | Itens | Erros | O que se pode afirmar |
+|---|---|---|---|---|---|
+| Colegiado, PDF com texto | 6.601 | 20261108 | 20 | 0 | abaixo de 15% com 95% de confiança |
+| PAS, PDF com texto | 1.181 | 20261108 | 20 | 2 | 2 em 20: linha fora de lugar (uma inverte uma negação) |
+| TC, PDF com texto | 1.469 | 20261108 | 12 | 0 | abaixo de 25% |
+| CRSFN, PDF | 767 | 20261108 | 10 | 0 | abaixo de 30% |
+| Colegiado, OCR | 394 | 20261108 | 8 | 3 | ressalva: tabela ou figura que é imagem, dígito de tabela |
+| PAS, OCR | 238 | 20261108 | 10 | 0 | abaixo de 30% |
+| TC, OCR | 164 | 20261108 | 6 | 1 | 1 em 6: nome de testemunha no carimbo (corrigido) |
+| Colegiado, HTML | 3.506 | 20261103 | 13 | 0 | abaixo de 23% |
+| CRSFN, HTML | 569 | 20261103 | 6 | 0 | abaixo de 50% |
+| TC, extrato HTML do SEI | 81 | 20261103 | 4 | 0 | amostra pequena |
+| Decisões antigas (PDF anual) | 24 arquivos | 20261103 | 6 trechos | 0 | amostra pequena |
+
+Demais blocos:
+
+| Bloco | Itens | Erros | O que se pode afirmar |
+|---|---|---|---|
+| B. Metadados: Colegiado / PAS / TC / CRSFN | 20 / 15 / 15 / 10 | 1 / 0 / 1 / 0 | os 2 erros (classe de audiência pública, data de termo) corrigidos na regra |
+| C. Ementa extraída | 40 | 2 | 2 em 40 depois da reextração (meta D1: até 2 em 40) |
+| C. Tema | 40 + 40 | 0 | abaixo de 3,75% |
+| C. Resultado: Colegiado / TC / PAS / CRSFN | 40 / 20 / 10 / 10 | 2 / 0 / 0 / 0 | 2 em 80; os 2 corrigidos; CRSFN medido de novo depois da regra do recurso de ofício |
+| D. Citações (40 trechos) | 30 válidos | 2 | precisão 97,2% (69 de 71 listadas); revocação 65,7% (69 de 105) |
+| E. Dados pessoais (qualificação) | 40 | 0 dado que ficou; 1 nome cortado junto | depois de 5 rodadas com correção a cada uma |
+| F. CRSFN classificado como não CVM com "CVM" no preâmbulo | 30 | 0 | abaixo de 10% |
+| F. Completude | censo | 4 + 4 | 13.658 de 13.662 julgados da CVM e 1.342 de 1.346 acórdãos do CRSFN; os 8 fora estão nas exceções |
+
+A taxa vale para o estrato de onde o item foi sorteado, não para os 14.990 julgados. Zero erro em N itens põe a taxa abaixo de 3/N com 95% de confiança.
+
+## Método
+
+- **Item.** Texto: um trecho sorteado por julgado, transcrito pelo auditor a partir da fonte (até 4 páginas do PDF, recortadas, ou o bloco do HTML). Campo: o auditor preenche resultado, ementa, tema, metadados ou dados pessoais a partir da fonte, sem ver o acervo.
+- **Auditor cego.** Lotes de até 10 itens, cada um numa pasta isolada fora do repositório, com `claude -p --tools Read,Write` (Opus no texto, Sonnet nos campos). O log de cada sessão mostra que o auditor não leu nada fora da pasta.
+- **Comparação e adjudicação.** Um script compara saída e acervo (`scripts/auditoria_julgados.py comparar`). Toda diferença de texto foi adjudicada por um segundo agente, com a página da fonte aberta como imagem, e classificada como erro do acervo ou ruído; as adjudicações ficaram em arquivo, uma linha por diferença.
+- **Erro (C7).** Texto: palavra, número ou sinal que muda o sentido; trecho omitido, duplicado, alheio ou fora de ordem com mudança de sentido; dado pessoal que ficou; trecho que não é dado pessoal cortado como se fosse. Campo: valor diferente do que a fonte diz. Ementa: afirmação contrária ao texto, decisão omitida ou nome de pessoa física. Não conta: caixa, espaço, Markdown, º/o, hifenização, numeração de parágrafo ou de nota solta, tabela linearizada, timbre e rodapé da CVM e do SEI, carimbo de cartório, bloco de assinatura e o corte conservador de endereço, e-mail e número de documento na qualificação (SPEC).
+- **Sorteio.** `random.Random(semente)` sobre o universo ordenado; cada amostra foi para o Git antes da auditoria (`fontes/amostra-fase3b*.json`), e nenhuma rodada repete item de outra.
+- **Gate.** Estrato com erro foi corrigido por regra no conversor (nunca à mão no texto publicado), reconvertido da fonte e auditado de novo com outra semente.
+
+## Rodadas
+
+| Semente | Escopo | Itens | O que mudou depois |
+|---|---|---|---|
+| 20261103 | todos os blocos | 411 | recorte da extração pela deliberação; reextração de 10.297 julgados; dados pessoais |
+| 20261104 | ementa, tema, resultado, OCR, dados pessoais | 176 | regra do recurso de ofício no CRSFN; linhas repetidas só na borda da página; pii |
+| 20261105 | texto PDF e OCR, dados pessoais, resultado do CRSFN | 138 | texto sobreposto; romanos e "§" do OCR; ordem de linhas pelo pypdf; OCR de imagem em PDF nativo; pii |
+| 20261106 | dados pessoais | 40 | RG, endereço e CPF lidos pelo OCR |
+| 20261107 | texto PDF e OCR, dados pessoais | 128 | linhas soltas e deslocadas; OCR de faixa de imagem; "Vão" por "Não"; nacionalidades |
+| 20261108 | texto PDF e OCR, dados pessoais | 128 | nome de testemunha abreviado no bloco e por extenso no carimbo; título espúrio no CRSFN; e, na revisão do diff da reconversão, CPF com ":" do OCR, "Brasil" do texto tomado por timbre e caractere de controle no lugar de glifo |
+
+Itens com erro de texto por rodada, nos sete estratos de PDF e OCR: 10 em 86 (20261103), 11 em 86 (20261105), 9 em 87 (20261107) e 6 em 86 (20261108). Cada rodada traz itens novos; a queda reflete as correções, com a margem de amostras desse tamanho. As correções e as exceções estão em `fontes/RESULTADOS.md`, seção Fase 3b.
+
+## Ressalvas
+
+1. **Julgado lido por OCR** (`nivel_verificacao: ocr`, 813 julgados). Tabela, figura e número lidos por OCR podem sair com dígito trocado, linha faltando ou fora de ordem. Antes de citar número de tabela, confira a `fonte_original`.
+2. **Ordem de linha no PDF.** O extrator do macOS desloca às vezes uma linha (número de parágrafo, sobrescrito, itálico). Uma regra confere com o pypdf e devolve a linha ao lugar; os casos que ela não alcança ficaram em 2 de 20 PAS na última rodada. Numa citação literal, confira a fonte.
+3. **Ementa e resultado extraídos por LLM.** Ementa com `ementa_fonte: extracao`, tema e resultado do Colegiado e do TC vêm do modelo, a partir do texto; a taxa medida está acima.
+4. **Citações.** O índice de citações acha 2 de cada 3 dispositivos citados; não use a ausência no índice como prova de que um julgado não cita uma norma.
+
+## Bateria de perguntas
+
+30 perguntas sobre julgados, com gabarito conferido na página da CVM ou do CRSFN (`testes/bateria-v2.md`), respondidas pelo Claude com e sem os plugins de julgados e julgadas às cegas pelo Claude Opus, que não sabia de qual modo vinha cada resposta, em quatro critérios:
+
+| Critério | Sem os julgados | Com os julgados |
+|---|---|---|
+| Acha o caso certo | 1 | 25 |
+| Conteúdo certo (resultado, valores, fundamento) | 2 | 27 |
+| Ressalvas de fonte | 5 | 29 |
+| Tudo certo | 1 | 24 |
+
+As 6 falhas com os julgados são de busca: o caso existe no acervo, mas a resposta não o achou (duas estavam nos arquivos anuais de decisões antigas).
+
+## Reprodução
+
+```
+python3 scripts/auditoria_julgados.py universo
+python3 scripts/auditoria_julgados.py sortear --semente 20261103
+python3 scripts/auditoria_julgados.py sortear --semente <S> --estratos <bloco/estrato,...> --amostra-anterior <amostras já usadas>
+python3 scripts/auditoria_julgados.py insumos --amostra fontes/amostra-fase3b.json --saida <pasta>
+python3 scripts/auditoria_julgados.py rodar --lotes <pasta> --paralelo 4
+python3 scripts/auditoria_julgados.py comparar --amostra fontes/amostra-fase3b.json --saidas <pasta>
+```
+
+As fontes ficam em `dados/fase-2d/cache`, fora do Git.
+

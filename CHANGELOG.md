@@ -1,18 +1,20 @@
 # Histórico de versões
 
-## v1.1.0 (em preparo; a tag sai depois da Fase 3b)
+## v1.1.0 (2026-11-04)
 
-- **Julgados:** 15.000 julgados em 5 plugins `julgados-*`.
+- **Julgados:** 14.990 julgados em 5 plugins `julgados-*`.
   - 10.501 decisões do Colegiado;
   - 1.714 termos de compromisso;
   - 1.419 PAS;
-  - 1.342 acórdãos do CRSFN em recurso de decisão da CVM;
+  - 1.332 acórdãos do CRSFN em recurso de decisão da CVM;
   - 24 arquivos anuais de decisões antigas (1978–2001).
 - **Índices:** por ano, por tema e por norma citada, com índice reverso de citações no acervo de normas (`indices/citacoes/`).
 - **Extração:** ementa (onde a fonte não traz a sua) e tema por LLM, validados item a item; nome de pessoa fora do frontmatter, dados pessoais retirados do corpo.
 - **Varredura do pre-commit:** CPF e RG viram regra fixa; nas pastas de julgados, CNPJ não barra e a lista privada aceita expressões liberadas (linhas com "+").
 - **SPEC v0.5.0:** seção Julgados, com frontmatter próprio e listas fechadas de `resultado`.
-- **Resultados e exceções:** `fontes/RESULTADOS.md`, seção Fase 2d.
+- **Auditoria dos julgados (Fase 3b):** seis rodadas cegas por amostragem (1.021 itens) com adjudicação contra a fonte; resultado, método e ressalvas em `VERIFICACAO.md`, seção Julgados. Correções no conversor (texto sobreposto, ordem de linha pelo pypdf, OCR de imagem e de faixa, timbre da CVM), no corte de dados pessoais (corte conservador de endereço, e-mail e documento na qualificação; testemunhas) e na regra do resultado do CRSFN; 10 acórdãos duplicados do CRSFN apagados.
+- **Bateria v2:** 30 perguntas sobre julgados (`testes/bateria-v2.md`); com os plugins, 24 respostas inteiramente certas, contra 1 sem eles.
+- **Resultados e exceções:** `fontes/RESULTADOS.md`, seções Fase 2d e Fase 3b.
 
 ## v1.0.0 (2026-10-30)
 

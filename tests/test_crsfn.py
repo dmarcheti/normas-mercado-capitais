@@ -331,6 +331,12 @@ class TestDuplicatas(Base):
 
 
 class TestSecoes(unittest.TestCase):
+    def test_declaracao_de_voto_em_minuscula_e_frase_nao_titulo(self):
+        self.assertIsNone(crsfn._gatilho("declaração de voto, na qual acompanha o relator.",
+                                         "Relatório", True, False, True))
+        self.assertEqual(crsfn._gatilho("DECLARAÇÃO DE VOTO", "Voto", True, False, False)[0],
+                         "Declaração de voto")
+
     def test_cabecalhos_de_voto_e_documento_sem_cabecalho_conhecido(self):
         docs = ["1ª Sessão\nRECURSO VOLUNTÁRIO\nEMENTA: Ementa.\nACÓRDÃO CRSFN 1/2020\nVistos.",
                 "MINISTÉRIO DA FAZENDA\nRECURSO VOLUNTÁRIO\nRELATÓRIO\nFatos.\nDECISÃO\nDa CVM.",
