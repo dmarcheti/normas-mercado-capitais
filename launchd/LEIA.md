@@ -6,6 +6,27 @@ O `br.normas.auto.plist` é modelo: `__REPO__` é o caminho do clone principal e
 
 Antes: o token no Keychain (`security add-generic-password -s normas-auto-token -a normas-auto -w`), e `fontes/automacao.json` com `"sombra": true` até o gate da fase.
 
+O token é fine-grained, só neste repositório, com estas permissões:
+
+| Permissão | Acesso | Para quê |
+| --- | --- | --- |
+| Contents | escrita | push de `auto/*` e merge |
+| Pull requests | escrita | abrir, comentar e fazer o merge do PR |
+| Issues | escrita | `fonte-mudou`, `perimetro`, `job-falhou`, `push-bloqueado`, `CI sem conclusão` |
+| Variables | escrita | heartbeat: `ULTIMA_VERIFICACAO`, `ULTIMO_STATUS`, `DIAS_SEM_OK` |
+| Metadata | leitura | obrigatória |
+| Actions | leitura | ler o run do `ci.yml` e os jobs `testes` e `gitleaks` |
+| Commit statuses | leitura | estado do CI no commit |
+
+Sem Actions (leitura), a API dos runs não responde, o CI fica "pendente" até esgotar os 30 min e o merge nunca sai: só a issue "CI sem conclusão".
+
+Sem token no Keychain, o job não faz push nem lista PRs. Pela sessão do `gh` logada na máquina, grava só o heartbeat e abre as issues `fonte-mudou` e `job-falhou`.
+
+O estado entre execuções fica em `~/normas-auto/estado.json`, fora do Git:
+
+- `ultima_semanal_ok`: data da última execução `todas` com todas as fontes ok. A detecção `todas` e o `publicar` rodam às segundas, ou quando essa data tem mais de 7 dias.
+- `dias_sem_ok`: dias seguidos fora de "ok", que vão para `DIAS_SEM_OK`. A vigia abre issue com 3 ou mais.
+
 Os três comandos, rodados na raiz do clone:
 
 1. Instalar:

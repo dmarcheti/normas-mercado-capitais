@@ -732,5 +732,28 @@ class TestContrato(unittest.TestCase):
         self.assertEqual(dt.normas_com_historico(d), {"cvm-res-1", "cvm-res-2", "cvm-res-175"})
 
 
+class TestMainExecucaoId(unittest.TestCase):
+    def test_grava_o_execucao_id_e_apaga_o_anterior(self):
+        from unittest import mock
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, tmp)
+        arq = os.path.join(tmp, "deteccao.json")
+        with open(arq, "w") as f:
+            json.dump({"execucao_id": "ontem", "fontes": {}, "itens": []}, f)
+        visto = {}
+
+        def detectar(ctx, fontes, freq, excluir):
+            visto["existia"] = os.path.exists(arq)
+            return {"gerado_em": HOJE, "fontes": {}, "itens": []}, 0
+        with mock.patch.object(dt, "Contexto") as C, mock.patch.object(dt, "detectar", side_effect=detectar), \
+                mock.patch.object(dt, "navegador_chrome"), mock.patch.object(dt, "classificador_crsfn"), \
+                mock.patch.object(dt, "Rede"):
+            C.do_repo.return_value.hoje = HOJE
+            self.assertEqual(dt.main(["--saida", tmp, "--execucao-id", "exec-1"]), 0)
+        self.assertFalse(visto["existia"])
+        with open(arq) as f:
+            self.assertEqual(json.load(f)["execucao_id"], "exec-1")
+
+
 if __name__ == "__main__":
     unittest.main()

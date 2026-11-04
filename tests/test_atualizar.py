@@ -548,6 +548,9 @@ class TestCriterio(Base):
         crit, r = self.um([j("cvm-col-1")])
         self.assertEqual(r["condicoes"]["4-varredura"], "falha")
         self.assertFalse(crit["conjunto"]["pr_automatico"])
+        self.assertEqual(crit["conjunto"]["bloqueio_push"], [{"id": "cvm-col-1", "problema": "varredura: CPF"}])
+        self.assertNotIn(CPF_FICTICIO, json.dumps(crit, ensure_ascii=False))
+        self.assertNotIn(CPF_FICTICIO, ler(self.saida, "resumo.md"))
 
     def test_condicao_4_caractere_de_controle(self):
         self.sim.julgado_extra["cvm-col-1"] = "texto" + chr(1)
@@ -555,10 +558,16 @@ class TestCriterio(Base):
         self.assertEqual(r["condicoes"]["4-varredura"], "falha")
 
     def test_condicao_5_revisor_marcou(self):
-        self.sim.revisor["cvm-col-1"] = {"ok": False, "alertas": [{"trecho": "nome de parte"}]}
+        self.sim.revisor["cvm-col-1"] = {"ok": False, "alertas": [{"tipo": "dado-pessoal", "trecho": "nome de parte"}]}
         _, r = self.um([j("cvm-col-1")])
         self.assertEqual(r["condicoes"]["5-revisor"], "falha")
-        self.assertIn("revisor marcou", r["motivo"])
+        self.assertEqual(r["motivo"], "revisor marcou: dado-pessoal")
+        # nem o trecho do revisor nem as linhas do julgado vão ao resumo (corpo do PR) ou ao itens-diogo
+        self.assertNotIn("nome de parte", ler(self.saida, "resumo.md"))
+        d = ler(self.saida, "itens-diogo.json")["itens"][0]
+        self.assertNotIn("nome de parte", json.dumps(d, ensure_ascii=False))
+        self.assertEqual(d["diff"], "")
+        self.assertEqual(d["caminhos"], [cam_j("cvm-col-1")])
         self.assertFalse(os.path.exists(os.path.join(self.raiz, cam_j("cvm-col-1"))))
         self.assertEqual(ler(self.raiz, "fontes/julgados-inventario.json"), [])
 
@@ -666,6 +675,27 @@ class TestCriterio(Base):
         crit = at.criterio(a, {r_auto["chave"]: r_auto, r_d["chave"]: r_d}, [], [], {})
         self.assertFalse(crit["conjunto"]["pr_automatico_antes_do_ci"])
         self.assertTrue(any("cvm-res-249" in m for m in crit["conjunto"]["motivos"]))
+
+    def test_reversao_incompleta_bloqueia_o_push(self):
+        a = self.amb()
+        r_d = dict(at.novo_resultado(item("A", "cvm-res-249", ["cvm-res-249"])), estado="diogo",
+                   motivo="x", arquivos=[], nao_revertidos=[NORMAS + "/cvm/resolucoes/0249.md"])
+        crit = at.criterio(a, {r_d["chave"]: r_d}, [], [], {})
+        self.assertEqual(crit["conjunto"]["bloqueio_push"], [{"id": "cvm-res-249", "problema": "arquivo não revertido"}])
+
+    def test_condicao_6_automacao_e_versoes_nunca_sao_esperados(self):
+        a = self.amb()
+        for prot in at.PROTEGIDOS:
+            r = dict(at.novo_resultado(b1()), estado="automatico", arquivos=[prot], esperados=[prot])
+            crit = at.criterio(a, {r["chave"]: r}, [prot], [], {})
+            self.assertEqual(crit["itens"][0]["condicoes"]["6-arquivos"], "falha", prot)
+            self.assertFalse(crit["conjunto"]["pr_automatico_antes_do_ci"])
+            r = dict(at.novo_resultado(b1()), estado="automatico", arquivos=[], esperados=[])
+            crit = at.criterio(a, {r["chave"]: r}, [prot], [], {})
+            self.assertIn("arquivo sem item: %s" % prot, crit["conjunto"]["motivos"])
+        r = dict(at.novo_resultado(b1()), estado="automatico", arquivos=["fontes/acervo.json"])
+        crit = at.criterio(a, {r["chave"]: r}, ["fontes/acervo.json"], [], {})
+        self.assertEqual(crit["itens"][0]["condicoes"]["6-arquivos"], "ok")
 
     def test_condicao_8_plugin_grande(self):
         with mock.patch.object(at, "LIMITE_ARQUIVOS", 3):

@@ -4,10 +4,11 @@ mudou, sem aplicar nada.
 
     python3 scripts/detectar.py [--fontes cvm,bcb,leis,b3,anbima,colegiado,pas,tc,crsfn]
         [--frequencia diaria|semanal|todas] [--desde AAAA-MM-DD] [--saida dados/auto/<data>]
-        [--excluir-ids arquivo]
+        [--excluir-ids arquivo] [--execucao-id ID]
     python3 scripts/detectar.py --registrar-head   # grava tamanho e Last-Modified de referência
 
-Grava <saida>/deteccao.json e imprime uma linha por fonte. Código de saída 0 com ou sem item
+Grava <saida>/deteccao.json (com `execucao_id`: o recebido em --execucao-id, que o job confere,
+ou um gerado) e imprime uma linha por fonte. Código de saída 0 com ou sem item
 novo; 2 se alguma fonte falhou (as outras seguem).
 
 Sem estado próprio (C2): a referência é o que está no Git (fontes/acervo*.json,
@@ -1413,6 +1414,7 @@ def main(argv=None):
     ap.add_argument("--desde", help="BCB: data inicial da busca (padrão: lido_em do acervo-bcb.json)")
     ap.add_argument("--saida", help="pasta de saída (padrão: dados/auto/<hoje>)")
     ap.add_argument("--excluir-ids", help="arquivo com ids a pular (um por linha ou lista JSON)")
+    ap.add_argument("--execucao-id", help="id gravado no deteccao.json (o job confere que é o desta execução)")
     ap.add_argument("--registrar-head", action="store_true", help=argparse.SUPPRESS)
     args = ap.parse_args(argv)
     cache = os.path.join(RAIZ, "dados", "auto", "cache")
@@ -1430,9 +1432,14 @@ def main(argv=None):
                            navegador=navegador_chrome(os.path.join(cache, "chrome-perfil"), rede),
                            classificador_crsfn=classificador_crsfn(os.path.join(cache, "crsfn")))
     excluir = ler_excluir(args.excluir_ids) if args.excluir_ids else ()
-    saida, codigo = detectar(ctx, [f for f in FONTES if f in fontes], args.frequencia, excluir)
     pasta = args.saida or os.path.join(RAIZ, "dados", "auto", ctx.hoje)
     os.makedirs(pasta, exist_ok=True)
+    arq = os.path.join(pasta, "deteccao.json")
+    if os.path.exists(arq):
+        os.remove(arq)  # detector que cai não deixa o arquivo de outra execução
+    saida, codigo = detectar(ctx, [f for f in FONTES if f in fontes], args.frequencia, excluir)
+    saida["execucao_id"] = args.execucao_id or "%s-%d" % (datetime.datetime.now().strftime("%Y%m%dT%H%M%S"),
+                                                          os.getpid())
     gravar_json(os.path.join(pasta, "deteccao.json"), saida)
     for fonte, ent in saida["fontes"].items():
         print(resumo(fonte, ent, saida["itens"]))

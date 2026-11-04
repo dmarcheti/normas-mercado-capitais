@@ -41,7 +41,7 @@ class Simulador:
 
     def __init__(self, job_saida, token="SEGREDO-123", prs=(), det=None, crit=None, auto=(), diogo=(),
                  ci="verde", issues_abertas=(), exec_id=EXEC, atualizar_rc=0, commit_rc=0, remotos=(),
-                 wt=None, clone=None):
+                 wt=None, clone=None, det_falha=False, issue_rc=0):
         self.saida = job_saida
         self.token, self.prs, self.ci = token, list(prs), ci
         self.remotos, self.wt, self.clone = list(remotos), wt, clone
@@ -52,6 +52,7 @@ class Simulador:
         self.issues_abertas = list(issues_abertas)
         self.exec_id, self.atualizar_rc, self.commit_rc = exec_id, atualizar_rc, commit_rc
         self.chamadas = []
+        self.det_falha, self.issue_rc = det_falha, issue_rc
         self.staged = bool(self.auto)
 
     def __call__(self, cmd, cwd=None, env=None, timeout=None):
@@ -73,8 +74,13 @@ class Simulador:
         nome = os.path.basename(script)
         if nome == "detectar.py":
             os.makedirs(self.saida, exist_ok=True)
+            if self.det_falha:  # detector que cai sem gravar
+                return 2, "", "caiu"
+            det = dict(self.det)
+            if "execucao_id" not in det:
+                det["execucao_id"] = args[args.index("--execucao-id") + 1]
             with open(os.path.join(self.saida, "deteccao.json"), "w") as f:
-                json.dump(self.det, f)
+                json.dump(det, f)
             return 0, "", ""
         if nome == "atualizar.py":
             for n, d in (("criterio.json", self.crit),
@@ -119,6 +125,8 @@ class Simulador:
             return 0, json.dumps(jobs if "/jobs" in a[1] else runs), ""
         if a[:2] == ["issue", "list"]:
             return 0, json.dumps([{"title": t} for t in self.issues_abertas]), ""
+        if a[:2] == ["issue", "create"] and self.issue_rc:
+            return self.issue_rc, "", "erro"
         return 0, "", ""
 
     # consultas
@@ -145,6 +153,17 @@ class Base(unittest.TestCase):
         open(os.path.join(self.wt, ".git"), "w").close()
         os.symlink(os.path.join(self.clone, "dados"), os.path.join(self.wt, "dados"))  # como o wrapper
         self.cfg({"sombra": True, "classes_automaticas": []})
+        self.estado = os.path.join(self.tmp, "normas-auto", "estado.json")
+        self.gravar_estado({"ultima_semanal_ok": "2026-11-02"})  # semanal em dia: quarta é `diaria`
+
+    def gravar_estado(self, e):
+        os.makedirs(os.path.dirname(self.estado), exist_ok=True)
+        with open(self.estado, "w") as f:
+            json.dump(e, f)
+
+    def ler_estado(self):
+        with open(self.estado) as f:
+            return json.load(f)
 
     def tearDown(self):
         shutil.rmtree(self.tmp)
@@ -157,7 +176,8 @@ class Base(unittest.TestCase):
         saida = os.path.join(self.wt, "dados", "auto", hoje)
         sim = Simulador(saida, wt=self.wt, clone=self.clone, **kw)
         j = job.Job(self.clone, self.wt, hoje, rodar=sim, ambiente={"PATH": "/bin"},
-                    dormir=lambda s: None, agora=lambda: "2026-11-04T07:00:00-03:00", log=lambda m: None)
+                    dormir=lambda s: None, agora=lambda: "2026-11-04T07:00:00-03:00", log=lambda m: None,
+                    estado=self.estado)
         rc = j.executar()
         return rc, sim, j
 
@@ -267,9 +287,14 @@ class TestJob(Base):
         rc, sim, j = self.rodar(token=None, auto=[AUTO_H], det=det)
         self.assertEqual(rc, 0)
         self.assertEqual(sim.cmds("git", "-c"), [])  # push
-        gh = [c for c, _ in sim.chamadas if c[0] == "gh"]
+        gh = [(c, e) for c, e in sim.chamadas if c[0] == "gh"]
         self.assertTrue(gh)
-        self.assertTrue(all(c[1:3] == ["variable", "set"] for c in gh), gh)  # só o heartbeat
+        # pela sessão do gh: só o heartbeat e a issue fonte-mudou
+        self.assertTrue(all(c[1:3] == ["variable", "set"] or c[1] in ("issue", "label") for c, _ in gh), gh)
+        self.assertTrue(all("GH_TOKEN" not in e for _, e in gh))
+        self.assertEqual(sim.gh_cmds("pr", "list"), [])
+        titulos = [c[c.index("--title") + 1] for c in sim.gh_cmds("issue", "create")]
+        self.assertEqual(titulos, ["fonte-mudou: cvm"])
         self.assertEqual(sim.variavel("ULTIMO_STATUS"), "sem token")
         self.assertEqual(sim.variavel("ULTIMA_VERIFICACAO"), "2026-11-04T07:00:00-03:00")
         self.assertTrue(sim.cmds("git", "commit"))
@@ -379,6 +404,110 @@ class TestJob(Base):
         det = sim.cmds("python3", "scripts/detectar.py")[0]
         self.assertEqual(det[det.index("--frequencia") + 1], "todas")
         self.assertTrue(sim.cmds("python3", "scripts/publicar.py"))
+
+    # -- revisão final: heartbeat, dado pessoal, deteccao.json, semanal
+    def titulos(self, sim):
+        return [c[c.index("--title") + 1] for c in sim.gh_cmds("issue", "create")]
+
+    def test_erro_inesperado_e_falha_com_issue_e_heartbeat(self):
+        with mock.patch.object(job.Job, "commits_do_dia", side_effect=KeyError("x")):
+            rc, sim, _ = self.rodar(auto=[AUTO_H])
+        self.assertEqual(rc, 1)
+        self.assertEqual(sim.variavel("ULTIMO_STATUS"), "falha")
+        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "1")
+        self.assertEqual(self.titulos(sim), ["job-falhou"])
+        self.assertEqual(sim.cmds("git", "-c"), [])
+
+    def test_falha_abre_job_falhou_sem_duplicar(self):
+        rc, sim, _ = self.rodar(auto=[AUTO_H], atualizar_rc=2)
+        self.assertEqual(rc, 1)
+        self.assertEqual(self.titulos(sim), ["job-falhou"])
+        corpo = sim.gh_cmds("issue", "create")[0]
+        self.assertIn("atualizar.py rc 2", corpo[corpo.index("--body") + 1])
+        _, sim, _ = self.rodar(auto=[AUTO_H], atualizar_rc=2, issues_abertas=["job-falhou"])
+        self.assertEqual(self.titulos(sim), [])
+
+    def test_falha_sem_token_abre_job_falhou_pela_sessao(self):
+        rc, sim, _ = self.rodar(token=None, atualizar_rc=2)
+        self.assertEqual(rc, 1)
+        self.assertEqual(self.titulos(sim), ["job-falhou"])
+        self.assertTrue(all("GH_TOKEN" not in e for c, e in sim.chamadas if c[0] == "gh"))
+
+    def test_dias_sem_ok_conta_dias_seguidos(self):
+        self.gravar_estado({"ultima_semanal_ok": "2026-11-02", "dias_sem_ok": 2, "ultimo_dia": "2026-11-03"})
+        _, sim, _ = self.rodar(atualizar_rc=2)
+        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "3")
+        _, sim, _ = self.rodar(atualizar_rc=2)  # segunda execução do mesmo dia
+        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "3")
+        _, sim, _ = self.rodar(auto=[AUTO_H])
+        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "0")
+        self.assertEqual(self.ler_estado()["ultimo_status"], "ok")
+
+    def test_bloqueio_da_varredura_nao_faz_push_e_abre_issue_so_com_id_e_tipo(self):
+        crit = {"execucao_id": EXEC, "itens": [], "conjunto": {
+            "pr_automatico_antes_do_ci": False,
+            "bloqueio_push": [{"id": "cvm-col-1", "problema": "varredura: CPF"},
+                              {"id": "pas-2", "problema": "arquivo não revertido"}]}}
+        diogo = [{"id": "pas-2", "chave": "pas-2|J|", "classe": "J", "motivo": "x", "caminhos": []}]
+        rc, sim, _ = self.rodar(auto=[AUTO_H], crit=crit, diogo=diogo)
+        self.assertEqual(rc, 0)
+        self.assertEqual(sim.cmds("git", "-c"), [])
+        self.assertEqual(sim.gh_cmds("pr", "create"), [])
+        self.assertEqual(self.titulos(sim), ["push bloqueado: cvm-col-1", "push bloqueado: pas-2"])
+        corpo = sim.gh_cmds("issue", "create")[0]
+        self.assertIn("varredura: CPF", corpo[corpo.index("--body") + 1])
+        self.assertEqual(sim.variavel("ULTIMO_STATUS"), "push bloqueado")
+
+    def test_corpo_do_pr_de_item_sem_texto_do_julgado(self):
+        texto = "Fulano de Tal, inscrito no CPF sob o n\u00ba " + "123." + "456"
+        diogo = [{"id": "cvm-col-1", "chave": "cvm-col-1|J|", "classe": "J", "motivo": "revisor marcou: nome",
+                  "o_que_seria_feito": "converter", "diff": texto,
+                  "caminhos": ["plugins/julgados-colegiado/julgados/2026/cvm-col-1.md"]}]
+        _, sim, _ = self.rodar(diogo=diogo)
+        corpo = sim.gh_cmds("pr", "create")[0]
+        corpo = corpo[corpo.index("--body") + 1]
+        self.assertNotIn("Fulano", corpo)
+        self.assertIn("revisor marcou: nome", corpo)
+        self.assertIn("plugins/julgados-colegiado/julgados/2026/cvm-col-1.md", corpo)
+
+    def test_deteccao_de_outra_execucao_e_falha(self):
+        det = {"execucao_id": "ontem", "fontes": {"cvm": {"status": "ok"}}, "itens": []}
+        rc, sim, _ = self.rodar(det=det)
+        self.assertEqual(rc, 1)
+        self.assertEqual(sim.cmds("python3", "scripts/atualizar.py"), [])
+
+    def test_deteccao_velha_e_apagada_antes_do_detector(self):
+        saida = os.path.join(self.wt, "dados", "auto", HOJE)
+        os.makedirs(saida)
+        with open(os.path.join(saida, "deteccao.json"), "w") as f:
+            json.dump({"fontes": {}, "itens": []}, f)
+        rc, sim, _ = self.rodar(det_falha=True)
+        self.assertEqual(rc, 1)
+        self.assertFalse(os.path.exists(os.path.join(saida, "deteccao.json")))
+        self.assertEqual(sim.cmds("python3", "scripts/atualizar.py"), [])
+
+    def test_semanal_vencida_roda_todas_e_publica_fora_da_segunda(self):
+        self.gravar_estado({"ultima_semanal_ok": "2026-10-27"})  # 8 dias antes da quarta
+        _, sim, _ = self.rodar()
+        det = sim.cmds("python3", "scripts/detectar.py")[0]
+        self.assertEqual(det[det.index("--frequencia") + 1], "todas")
+        self.assertTrue(sim.cmds("python3", "scripts/publicar.py"))
+        self.assertEqual(self.ler_estado()["ultima_semanal_ok"], HOJE)
+
+    def test_semanal_com_7_dias_ainda_e_diaria(self):
+        self.gravar_estado({"ultima_semanal_ok": "2026-10-28"})
+        _, sim, _ = self.rodar()
+        det = sim.cmds("python3", "scripts/detectar.py")[0]
+        self.assertEqual(det[det.index("--frequencia") + 1], "diaria")
+        self.assertEqual(sim.cmds("python3", "scripts/publicar.py"), [])
+
+    def test_sem_estado_roda_todas_e_fonte_em_falha_nao_conta_como_semanal(self):
+        os.remove(self.estado)
+        det = {"fontes": {"cvm": {"status": "ok"}, "b3": {"status": "falha"}}, "itens": []}
+        _, sim, _ = self.rodar(det=det)
+        cmd = sim.cmds("python3", "scripts/detectar.py")[0]
+        self.assertEqual(cmd[cmd.index("--frequencia") + 1], "todas")
+        self.assertNotIn("ultima_semanal_ok", self.ler_estado())
 
     def test_item_do_diogo_ganha_pr_proprio_com_rotulo(self):
         diogo = [{"id": "cvm-res-251", "chave": "cvm-res-251|C|cvm-res-175", "classe": "C",

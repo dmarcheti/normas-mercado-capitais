@@ -6,6 +6,7 @@ import shutil
 import sys
 import tempfile
 import unittest
+from unittest import mock
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
@@ -136,6 +137,25 @@ class TestVigia(Base):
         self.assertEqual(t, ["vigia: heartbeat parado"])
         t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-09", "", git=self.git_falso())]
         self.assertEqual(t, ["vigia: heartbeat ausente"])
+
+    def test_job_fora_de_ok_por_3_dias_abre_issue(self):
+        hb = "2026-11-04T07:00:00-03:00"
+        p = lambda d, st="falha": vigia.problemas(self.raiz, "2026-11-05", hb, git=self.git_falso(),  # noqa: E731
+                                                  status=st, dias_sem_ok=d)
+        self.assertEqual(p("2"), [])
+        self.assertEqual(p("0", "ok"), [])
+        self.assertEqual(p(""), [])
+        achados = p("3")
+        self.assertEqual([x[0] for x in achados], ["vigia: job fora de ok"])
+        self.assertIn("falha", achados[0][1])
+        self.assertEqual([x[0] for x in p("x")], ["vigia: DIAS_SEM_OK ilegível"])
+
+    def test_main_le_status_e_dias_do_ambiente(self):
+        env = {"ULTIMA_VERIFICACAO": "2026-11-04T07:00:00-03:00", "ULTIMO_STATUS": "sem token", "DIAS_SEM_OK": "4"}
+        with mock.patch.dict(os.environ, env), mock.patch.object(vigia, "problemas", wraps=vigia.problemas) as pr, \
+                mock.patch.object(vigia.pub, "divergentes", return_value=[]):
+            vigia.main(["--raiz", self.raiz, "--hoje", "2026-11-05"])
+        self.assertEqual(pr.call_args.kwargs, {"status": "sem token", "dias_sem_ok": "4"})
 
     def test_conteudo_sem_versao_por_mais_de_8_dias(self):
         _gravar(self.p("plugins", "normas", "normas", "cvm", "b.md"), "novo\n")

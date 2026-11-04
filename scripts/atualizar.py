@@ -76,6 +76,8 @@ from controle import contar_controle, sem_controle  # noqa: E402
 from teste_ato import linhas_novas_fora_do_ato  # noqa: E402
 
 AUTOMATICAS = ("A", "B1", "B2", "F", "G", "H", "I", "J")
+# nunca são arquivo esperado de item (condição 6): mudança neles trava o PR do dia
+PROTEGIDOS = ("fontes/automacao.json", "fontes/versoes-plugins.json")
 SO_DIOGO = ("D", "E", "F-OCR", "H-novo", "I-novo", "G-novo")
 ORDEM = {"A": 1, "B1": 2, "C": 3, "B2": 4, "F": 5, "G": 6, "H": 7, "I": 8, "J": 9}
 ESTADOS_OK = ("automatico", "fora", "sem-mudanca", "excecao")
@@ -933,9 +935,10 @@ def aplicar_julgados(amb, itens, resultados):
                 para_diogo(por_id[i], "revisor sem resposta para o julgado", O_QUE_SERIA["J"])
             elif not v.get("ok"):
                 por_id[i]["revisor"] = "falha"
-                al = "; ".join(str(a.get("trecho") or a) if isinstance(a, dict) else str(a)
-                               for a in (v.get("alertas") or []))
-                para_diogo(por_id[i], "revisor marcou: %s" % al[:200], O_QUE_SERIA["J"])
+                # só o tipo do alerta: o trecho é texto do julgado e fica em dados/auto/<dia>/revisor/
+                tipos = sorted({str(a.get("tipo") or "sem-tipo") if isinstance(a, dict) else "sem-tipo"
+                                for a in (v.get("alertas") or [])})
+                para_diogo(por_id[i], "revisor marcou: %s" % ", ".join(tipos)[:200], O_QUE_SERIA["J"])
             else:
                 por_id[i]["revisor"] = "ok"
     # diff curto e reversão dos que foram para o Diogo
@@ -944,8 +947,7 @@ def aplicar_julgados(amb, itens, resultados):
     for i in ids:
         r = por_id[i]
         if i in caminhos:
-            r["esperados"].append(caminhos[i])
-            r["diff"] = "\n".join((ler_texto(amb.p(caminhos[i])) or "").splitlines()[:40])
+            r["esperados"].append(caminhos[i])  # sem diff: o texto do julgado não sai do worktree
         r["esperados"].append("fontes/julgados-inventario.json")
         r["arquivos"] = [t for t in tocados if t == caminhos.get(i) or t == "fontes/julgados-inventario.json"]
         r["julgado_novo"] = r["estado"] == "automatico"
@@ -1147,13 +1149,15 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
     atribuidos = set()
     saida_itens = []
     no_dia = {}  # item fora do PR do dia (Diogo) com arquivo que ficou no worktree
+    bloqueio = []  # varredura reprovada ou arquivo não revertido: o job não faz push de auto/*
     for r in sorted(itens, key=lambda x: (ORDEM.get(x["classe"], 99), x["id"])):
         meus = [m for m in mudados if m in r["arquivos"]]
         atribuidos |= set(meus)
         restos = sorted(set(meus) | set(r.get("nao_revertidos") or []))
-        fora_esp = [m for m in meus if not (m.startswith("fontes/") and m.endswith(".json"))
-                    and not e_indice(m) and not any(m == e or (e.endswith("/") and m.startswith(e))
-                                                    for e in r["esperados"])]
+        fora_esp = [m for m in meus if m in PROTEGIDOS or (
+            not (m.startswith("fontes/") and m.endswith(".json"))
+            and not e_indice(m) and not any(m == e or (e.endswith("/") and m.startswith(e))
+                                            for e in r["esperados"]))]
         varr = varrer(amb, meus)
         ok_estado = r["estado"] in ESTADOS_OK
         cond = {
@@ -1176,11 +1180,15 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
                      and all(v in ("ok", "n/a", "pendente") for k, v in cond.items() if k != "1-classes"))
         if not auto and restos and not parte:
             no_dia[r["id"]] = restos
+        if varr:
+            bloqueio.append({"id": r["id"], "problema": "varredura: " + tipos_varredura(varr)})
+        if r.get("nao_revertidos"):
+            bloqueio.append({"id": r["id"], "problema": "arquivo não revertido"})
         saida_itens.append({"id": r["id"], "chave": r["chave"], "classe": r["classe"], "estado": r["estado"],
                             "automatico": auto, "parte_automatica": parte, "condicoes": cond,
                             "motivo": "; ".join(m for m in motivos if m) or r["motivo"]})
-    sobra = [m for m in mudados if m not in atribuidos and not e_indice(m)
-             and not (m.startswith("fontes/") and m.endswith(".json"))]
+    sobra = [m for m in mudados if m not in atribuidos and (m in PROTEGIDOS or (
+        not e_indice(m) and not (m.startswith("fontes/") and m.endswith(".json"))))]
     # O PR do dia leva só os itens automáticos; os do Diogo vão em PR próprio (C15) e não o travam,
     # desde que nenhum arquivo deles tenha ficado no worktree (reversão incompleta deixa os
     # nao_revertidos). O aviso e o pendente da C são parte automática se passarem nas condições 2 a 9.
@@ -1192,6 +1200,8 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
     motivos += ["arquivo sem item: %s" % m for m in sobra]
     varr_geral = varrer(amb, [m for m in mudados if m not in atribuidos])
     motivos += varr_geral
+    if varr_geral:
+        bloqueio.append({"id": "(sem item)", "problema": "varredura: " + tipos_varredura(varr_geral)})
     n_auto = sum(1 for x in saida_itens if x["automatico"] or x["parte_automatica"])
     antes_do_ci = not motivos and n_auto > 0
     if not saida_itens:
@@ -1202,11 +1212,16 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
     conj = {"pr_automatico": False, "pr_automatico_antes_do_ci": antes_do_ci,
             "motivos": motivos + ["CI pendente (condição 9)"], "ci": "pendente",
             "julgados_novos": jul_novos, "normas_alteradas": normas_alt, "plugins": plugins,
-            "arquivos_mudados": len(mudados)}
+            "arquivos_mudados": len(mudados), "bloqueio_push": bloqueio}
     if amb.sombra:
         conj.update({"sombra": True, "registro": "decisão do critério (sombra: a Task 3b não faz merge)"})
     return {"execucao_id": amb.execucao_id, "gerado_em": amb.hoje, "sombra": amb.sombra,
             "itens": saida_itens, "conjunto": conj}
+
+
+def tipos_varredura(falhas):
+    """"<caminho>: <tipo>" -> tipos distintos, sem o caminho nem o texto."""
+    return ", ".join(sorted({f.split(": ", 1)[-1] for f in falhas}))
 
 
 def custo_llm(saida):
@@ -1278,7 +1293,8 @@ def executar(amb, itens):
     diogo = [{"id": r["id"], "chave": r["chave"], "classe": r["classe"],
               "parte_automatica": por_chave[r["chave"]]["parte_automatica"],
               "motivo": por_chave[r["chave"]]["motivo"] or r["motivo"],
-              "o_que_seria_feito": r["o_que_seria_feito"], "diff": r["diff"]}
+              "o_que_seria_feito": r["o_que_seria_feito"], "diff": r["diff"],
+              "caminhos": sorted({e for e in r["esperados"] if not e.startswith("fontes/")})}
              for r in resultados.values() if r["chave"] in por_chave and not por_chave[r["chave"]]["automatico"]]
     det.gravar_json(amb.s("itens-automaticos.json"), {"execucao_id": amb.execucao_id, "itens": auto})
     det.gravar_json(amb.s("itens-diogo.json"), {"execucao_id": amb.execucao_id, "itens": diogo})

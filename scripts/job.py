@@ -13,26 +13,31 @@ Uma execução:
      dados` e conferência do link (`dados/` real no worktree: falha);
   b. ids em PR aberto (`gh pr list`: branch `auto/item-<id>` e o marcador do corpo) vão ao
      `--excluir-ids` do detector;
-  c. detectar.py (`todas` às segundas, senão `diaria`) e atualizar.py, com `--sombra` enquanto
+  c. detectar.py (`todas` às segundas ou quando a última semanal com sucesso, em
+     ~/normas-auto/estado.json, tem mais de 7 dias; senão `diaria`), com `--execucao-id` conferido
+     no deteccao.json (o anterior é apagado antes), e atualizar.py, com `--sombra` enquanto
      `fontes/automacao.json` disser {"sombra": true}; `--sem-llm` se o `claude` não responder;
   d. um commit por ato (identidade neutra do replay, data do DOU) e um para o resto
      (`Atualizacao automatica`, mensagem `auto: <o quê>`); o pre-commit roda, nunca --no-verify;
-  e. push só de `auto/*`, com o token do Keychain (sem token: status "sem token" antes de qualquer
-     chamada ao gh; sem lista de PRs, sem issues, sem push; só o heartbeat); PR do dia com o
-     resumo.md; item `precisa-diogo` ou `aguarda-consolidado` (classe C, replay manual) em PR
-     próprio `auto/item-<id>` (commit vazio: o atualizar já reverteu o item; o corpo diz o que
-     seria feito); branch já no remoto sem PR aberto: `auto/item-<id>-<AAAAMMDD>`, nada é apagado.
-     O job nunca faz merge de PR de item;
+  e. push só de `auto/*`, com o token do Keychain (sem token: status "sem token"; sem lista de
+     PRs, sem push; pela sessão do gh, só o heartbeat e as issues `fonte-mudou` e `job-falhou`).
+     Nenhum push quando o critério traz `bloqueio_push` (varredura reprovada ou arquivo não
+     revertido): só uma issue `push-bloqueado` por item, com o id e o tipo do problema. PR do dia
+     com o resumo.md; item `precisa-diogo` ou `aguarda-consolidado` (classe C, replay manual) em PR
+     próprio `auto/item-<id>` (commit vazio: o atualizar já reverteu o item; o corpo leva só id,
+     classe, tipo do alerta e caminhos, nunca texto de julgado); branch já no remoto sem PR
+     aberto: `auto/item-<id>-<AAAAMMDD>`, nada é apagado. O job nunca faz merge de PR de item;
   f. merge do PR do dia só com `pr_automatico_antes_do_ci`, sombra desligada, todas as classes em
      `classes_automaticas` e o CI do evento `pull_request` concluído para o sha empurrado: run do
      ci.yml com os jobs `testes` e `gitleaks` presentes e todos os jobs com `success` (até 30 min;
      esgotado: sem merge e issue). Merge `gh pr merge --rebase --match-head-commit <sha>`, sem
      force e sem --admin (o repo não tem proteção de branch);
-  h. heartbeat: variáveis ULTIMA_VERIFICACAO e ULTIMO_STATUS do repo;
+  h. heartbeat: variáveis ULTIMA_VERIFICACAO, ULTIMO_STATUS e DIAS_SEM_OK (dias seguidos fora de
+     "ok", contados em ~/normas-auto/estado.json) do repo, gravadas mesmo com falha;
   i. fonte com falha: issue `fonte-mudou` (uma por fonte, sem duplicar); perímetro duvidoso:
-     issue `perimetro`.
-Às segundas, depois do dia, roda scripts/publicar.py num branch `auto/publicar-AAAA-MM-DD`, com
-o mesmo critério (classe `publicar` em `classes_automaticas`).
+     issue `perimetro`; execução com falha: issue `job-falhou` (uma aberta por vez).
+Na execução `todas`, depois do dia, roda scripts/publicar.py num branch `auto/publicar-AAAA-MM-DD`,
+com o mesmo critério (classe `publicar` em `classes_automaticas`).
 Saída 0 = execução concluída (mesmo com item para o Diogo); 1 = falha; 3 = outra execução ativa.
 """
 import argparse
@@ -44,6 +49,7 @@ import shutil
 import subprocess
 import sys
 import time
+import traceback
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, AQUI)
@@ -59,16 +65,18 @@ CAMINHOS_DO_COMMIT = ("plugins", "fontes", ".claude-plugin", "CHANGELOG.md")
 MARCADOR = "<!-- normas-auto: %s -->"
 MARCADOR_RE = re.compile(r"<!-- normas-auto: (\{.*?\}) -->")
 ROTULOS = {"precisa-diogo": "d93f0b", "aguarda-consolidado": "fbca04", "fonte-mudou": "b60205",
-           "perimetro": "5319e7", "sombra": "c5def5", "automatico": "0e8a16"}
+           "perimetro": "5319e7", "sombra": "c5def5", "automatico": "0e8a16", "job-falhou": "b60205",
+           "push-bloqueado": "b60205"}
+DIAS_SEMANAL = 7  # `todas` quando a última semanal com sucesso tem mais que isto
 CI_ESPERA = 1800  # 30 min
 CI_INTERVALO = 30
 CI_WORKFLOW = ".github/workflows/ci.yml"
 CI_JOBS_EXIGIDOS = ("testes", "gitleaks")
 ITEM_DATADO_RE = re.compile(r"-\d{8}(?:-\d+)?$")
 
-STATUS_OK, STATUS_FONTE, STATUS_TOKEN, STATUS_LLM, STATUS_FALHA = (
-    "ok", "falha de fonte", "sem token", "LLM indisponível", "falha")
-GRAVIDADE = {STATUS_OK: 0, STATUS_LLM: 1, STATUS_FONTE: 2, STATUS_TOKEN: 3, STATUS_FALHA: 4}
+STATUS_OK, STATUS_FONTE, STATUS_TOKEN, STATUS_LLM, STATUS_FALHA, STATUS_BLOQUEIO = (
+    "ok", "falha de fonte", "sem token", "LLM indisponível", "falha", "push bloqueado")
+GRAVIDADE = {STATUS_OK: 0, STATUS_LLM: 1, STATUS_FONTE: 2, STATUS_BLOQUEIO: 2, STATUS_TOKEN: 3, STATUS_FALHA: 4}
 
 
 class Falha(Exception):
@@ -226,7 +234,7 @@ def pode_merge(crit, classes, cfg, ci_ok):
 
 class Job:
     def __init__(self, clone=CLONE_PADRAO, worktree=None, hoje=None, rodar=None, ambiente=None,
-                 dormir=None, agora=None, log=None, publicar=True):
+                 dormir=None, agora=None, log=None, publicar=True, estado=None):
         self.clone = os.path.abspath(clone)
         self.wt = os.path.abspath(worktree or os.path.join(BASE, "worktree"))
         self.hoje = hoje or datetime.date.today().isoformat()
@@ -236,6 +244,10 @@ class Job:
         self.agora = agora or (lambda: datetime.datetime.now().astimezone().isoformat(timespec="seconds"))
         self.log = log or (lambda m: print("[%s] %s" % (time.strftime("%H:%M:%S"), m), flush=True))
         self.publicar = publicar
+        self.estado_arq = estado or os.path.join(BASE, "estado.json")  # fora do Git
+        self.semanal_ok = False
+        self.execucao_det = None
+        self.freq = None
         self.status = STATUS_OK
         self.token = None
         self.rotulos_ok = set()
@@ -324,6 +336,31 @@ class Job:
             cand = "%s-%d" % (nome, n)
         return cand
 
+    def ler_estado(self):
+        try:
+            e = ler_json(self.estado_arq, {})
+        except (OSError, ValueError):
+            e = {}
+        return e if isinstance(e, dict) else {}
+
+    def gravar_estado(self, e):
+        os.makedirs(os.path.dirname(self.estado_arq) or ".", exist_ok=True)
+        tmp = self.estado_arq + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(e, f, ensure_ascii=False, indent=1)
+        os.replace(tmp, self.estado_arq)
+
+    def frequencia(self):
+        """`todas` às segundas ou com a última semanal com sucesso há mais de DIAS_SEMANAL dias."""
+        hoje = datetime.date.fromisoformat(self.hoje)
+        if hoje.weekday() == 0:
+            return "todas"
+        try:
+            ult = datetime.date.fromisoformat(self.ler_estado().get("ultima_semanal_ok") or "")
+        except (TypeError, ValueError):
+            return "todas"
+        return "todas" if (hoje - ult).days > DIAS_SEMANAL else "diaria"
+
     def config(self):
         return ler_json(os.path.join(self.wt, "fontes", "automacao.json"), {}) or {}
 
@@ -341,11 +378,18 @@ class Job:
         arq = os.path.join(self.saida, "excluir-ids.json")
         with open(arq, "w", encoding="utf-8") as f:
             json.dump(excluir, f, ensure_ascii=False)
-        freq = "todas" if datetime.date.fromisoformat(self.hoje).weekday() == 0 else "diaria"
-        rc, out, _ = self.py("detectar.py", "--frequencia", freq, "--saida", self.saida, "--excluir-ids", arq)
-        det = ler_json(os.path.join(self.saida, "deteccao.json"))
+        self.freq = freq = self.frequencia()
+        self.execucao_det = "%s-%d-%s" % (self.hoje, os.getpid(), os.urandom(4).hex())
+        cam = os.path.join(self.saida, "deteccao.json")
+        if os.path.exists(cam):
+            os.remove(cam)  # sem isto, um detector que cai deixaria o deteccao.json de ontem
+        rc, out, _ = self.py("detectar.py", "--frequencia", freq, "--saida", self.saida, "--excluir-ids", arq,
+                             "--execucao-id", self.execucao_det)
+        det = ler_json(cam)
         if det is None:
             raise Falha("detectar.py rc %s sem deteccao.json" % rc)
+        if det.get("execucao_id") != self.execucao_det:
+            raise Falha("deteccao.json não é desta execução (%r)" % det.get("execucao_id"))
         self.log("detectar (%s): rc %s, %d item(ns)" % (freq, rc, len(det.get("itens", []))))
         return det
 
@@ -461,11 +505,12 @@ class Job:
         self.push(branch)
         marca = {"ids": [it["id"]], "classe": it.get("classe"),
                  "norma_alvo": (det_item or {}).get("norma_alvo") or alvos_da_chave(it.get("chave"))}
+        # só id, classe, tipo do alerta e caminhos: nada de texto de julgado (diff e trechos ficam em
+        # dados/auto/<dia>/ na máquina do job, fora do Git)
         corpo = "\n".join([
             "# %s (%s)" % (it["id"], it.get("classe")), "",
-            "Motivo: %s" % (it.get("motivo") or ""), "",
-            "O que seria feito: %s" % (it.get("o_que_seria_feito") or ""), "",
-            "```diff", (it.get("diff") or "")[:20000], "```", "",
+            "Alerta: %s" % (it.get("motivo") or "")[:300], "",
+            "Caminhos: %s" % (", ".join("`%s`" % c for c in (it.get("caminhos") or [])) or "nenhum"), "",
             ("Commit vazio: o aviso e o pendente seguem no PR do dia (parte automática); este PR pede o "
              "replay manual, guarda a espera e tira o id da detecção." if it.get("parte_automatica") else
              "Commit vazio: o item foi revertido pelo atualizar.py; este PR guarda a espera e tira o id "
@@ -550,7 +595,7 @@ class Job:
         self.relatorio["issues"].append(titulo)
         return True
 
-    def issues_da_deteccao(self, det):
+    def issues_da_deteccao(self, det, so_fontes=False):
         for fonte, ent in sorted((det.get("fontes") or {}).items()):
             if ent.get("status") != "ok":
                 self.piora(STATUS_FONTE)
@@ -558,18 +603,56 @@ class Job:
                            "Detecção de %s em %s: %s\n\n```json\n%s\n```" % (
                                fonte, self.hoje, ent.get("motivo") or "falha",
                                json.dumps({k: v for k, v in ent.items() if k != "etapas"}, ensure_ascii=False)[:3000]))
-        for it in det.get("itens", []):
+        for it in [] if so_fontes else det.get("itens", []):
             if (it.get("dados") or {}).get("perimetro") == "duvidosa":
                 self.issue("perimetro: %s" % it["id"], "perimetro",
                            "Item %s (%s) com perímetro duvidoso: %s\n\n%s" % (
                                it["id"], it.get("classe"), it.get("motivo") or "", it.get("url") or ""))
 
+    def job_falhou(self, motivo):
+        """Issue `job-falhou`, uma aberta por vez (sem token: pela sessão do gh, como o heartbeat)."""
+        try:
+            self.issue("job-falhou", "job-falhou", "Execução de %s com falha: %s\n\nLog: "
+                       "`~/normas-auto/logs/%s.log`." % (self.hoje, motivo[:500], self.hoje))
+        except Exception as e:  # noqa: BLE001 - a issue não pode esconder a falha original
+            self.log("issue job-falhou não aberta: %s" % e)
+
+    def bloquear_push(self, bloqueio):
+        """Varredura reprovada ou arquivo não revertido: nenhum push de auto/*; issue só com id e tipo."""
+        self.piora(STATUS_BLOQUEIO)
+        for b in bloqueio:
+            self.issue("push bloqueado: %s" % b.get("id"), "push-bloqueado",
+                       "Item `%s`: %s. Nenhum push de `auto/*` nesta execução (%s); o detalhe fica em "
+                       "`dados/auto/%s/` na máquina do job." % (b.get("id"), b.get("problema"), self.hoje, self.hoje))
+        self.relatorio["avisos"].append("push bloqueado: %s" % ", ".join(
+            "%s (%s)" % (b.get("id"), b.get("problema")) for b in bloqueio))
+
     # -- h. heartbeat
     def heartbeat(self):
+        """Grava as variáveis mesmo com falha: o ULTIMO_STATUS e o DIAS_SEM_OK dizem se foi ok."""
+        e = self.ler_estado()
+        try:
+            dias = int(e.get("dias_sem_ok") or 0)
+        except (TypeError, ValueError):
+            dias = 0
+        if self.status == STATUS_OK:
+            dias = 0
+        elif e.get("ultimo_dia") == self.hoje:
+            dias = max(dias, 1)  # segunda execução do dia não conta outro dia
+        else:
+            dias += 1
+        e.update({"ultimo_dia": self.hoje, "ultimo_status": self.status, "dias_sem_ok": dias})
+        if self.semanal_ok:
+            e["ultima_semanal_ok"] = self.hoje
+        try:
+            self.gravar_estado(e)
+        except OSError as x:
+            self.log("estado.json não gravado: %s" % x)
         self.gh("variable", "set", "ULTIMA_VERIFICACAO", "--body", self.agora())
         self.gh("variable", "set", "ULTIMO_STATUS", "--body", self.status)
+        self.gh("variable", "set", "DIAS_SEM_OK", "--body", str(dias))
 
-    # -- publicar (segundas)
+    # -- publicar (execução `todas`)
     def rodar_publicar(self, cfg):
         branch = "auto/publicar-%s" % self.hoje
         self.git_ok("checkout", "--force", "-B", branch, "origin/main")
@@ -605,9 +688,12 @@ class Job:
             prs = self.prs_abertos() if self.token else []
             excluir = ids_de_prs(prs)
             det = self.detectar(excluir)
-            if self.token:
-                self.issues_da_deteccao(det)
+            self.issues_da_deteccao(det, so_fontes=not self.token)  # sem token: pela sessão do gh
             crit, auto, diogo, resumo = self.atualizar(det, cfg)
+            bloqueio = crit["conjunto"].get("bloqueio_push") or []
+            if bloqueio:
+                self.bloquear_push(bloqueio)
+                return 0
             n = self.commits_do_dia(auto, det)
             if not self.token:
                 self.relatorio["avisos"].append("sem token: %d commit(s) locais em %s, sem push" % (n, branch))
@@ -631,14 +717,24 @@ class Job:
             por_id = {i["id"]: i for i in det.get("itens", [])}
             for it in diogo:
                 self.pr_do_item(it, por_id.get(it["id"]))
-            if self.publicar and datetime.date.fromisoformat(self.hoje).weekday() == 0:
-                self.git_ok("fetch", "origin")
-                self.rodar_publicar(cfg)
+            if self.freq == "todas":
+                if self.publicar:
+                    self.git_ok("fetch", "origin")
+                    self.rodar_publicar(cfg)
+                # semanal com sucesso: todas as fontes ok e publicar sem falha
+                self.semanal_ok = all((e or {}).get("status") == "ok" for e in (det.get("fontes") or {}).values())
             return 0
         except Falha as e:
             self.log("falha: %s" % e)
             self.piora(STATUS_FALHA)
             self.relatorio["avisos"].append(str(e))
+            self.job_falhou(str(e))
+            return 1
+        except Exception as e:  # noqa: BLE001 - erro inesperado também é falha, não "ok"
+            self.log("falha inesperada: %s: %s\n%s" % (type(e).__name__, e, traceback.format_exc()))
+            self.piora(STATUS_FALHA)
+            self.relatorio["avisos"].append("%s: %s" % (type(e).__name__, e))
+            self.job_falhou("%s: %s" % (type(e).__name__, str(e)[:300]))
             return 1
         finally:
             self.heartbeat()

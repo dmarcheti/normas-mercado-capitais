@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Vigia do job diário (Fase 4, C11), para a Action `vigia.yml`: sem rede para as fontes, sem LLM.
 
-Uso: ULTIMA_VERIFICACAO=<ISO> python3 scripts/vigia.py [--hoje AAAA-MM-DD] [--abrir]
+Uso: ULTIMA_VERIFICACAO=<ISO> ULTIMO_STATUS=<status> DIAS_SEM_OK=<n> python3 scripts/vigia.py
+       [--hoje AAAA-MM-DD] [--abrir]
 
 Problemas:
 - heartbeat (`vars.ULTIMA_VERIFICACAO`, gravado pelo job) ausente ou com mais de 3 dias;
+- job fora de "ok" há 3 dias seguidos ou mais (`vars.DIAS_SEM_OK`, contado pelo job, com o
+  `vars.ULTIMO_STATUS` no corpo): o job grava o heartbeat mesmo quando falha, e só a data
+  esconderia a falha;
 - plugin com conteúdo diferente do hash em `fontes/versoes-plugins.json` (o mesmo
   `publicar.hash_plugin`) há mais de 8 dias. "Há quanto tempo": data do primeiro commit que tocou
   o plugin depois do último commit do registro (`git log`, checkout com histórico completo).
@@ -23,6 +27,7 @@ import publicar as pub  # noqa: E402
 
 DIAS_HEARTBEAT = 3
 DIAS_VERSAO = 8
+DIAS_SEM_OK = 3
 
 
 def _git(raiz, *args):
@@ -39,7 +44,7 @@ def desde_quando(raiz, plugin_rel, git=_git):
     return datas[0] if datas else git(raiz, "log", "-1", "--format=%cs", base).strip() or None
 
 
-def problemas(raiz, hoje, ultima, git=_git):
+def problemas(raiz, hoje, ultima, git=_git, status=None, dias_sem_ok=None):
     hoje_d = datetime.date.fromisoformat(hoje)
     saida = []
     try:
@@ -51,6 +56,15 @@ def problemas(raiz, hoje, ultima, git=_git):
     elif (hoje_d - ult).days > DIAS_HEARTBEAT:
         saida.append(("vigia: heartbeat parado", "Última verificação do job em %s, há %d dias (limite %d)."
                       % (ult, (hoje_d - ult).days, DIAS_HEARTBEAT)))
+    try:
+        dias = int(dias_sem_ok) if dias_sem_ok not in (None, "") else None
+    except ValueError:
+        dias = None
+        saida.append(("vigia: DIAS_SEM_OK ilegível", "DIAS_SEM_OK = %r (status %r)." % (dias_sem_ok, status)))
+    if dias is not None and dias >= DIAS_SEM_OK:
+        saida.append(("vigia: job fora de ok", "O job está fora de \"ok\" há %d dias seguidos "
+                      "(limite %d); último status: %s. Ver a issue job-falhou e o log em ~/normas-auto/logs/."
+                      % (dias, DIAS_SEM_OK, status or "?")))
     for nome, vr, va in pub.divergentes(raiz):
         rel = None
         for n, pasta, _ in pub.plugins_do_marketplace(raiz):
@@ -84,7 +98,8 @@ def main(argv=None):
     ap.add_argument("--abrir", action="store_true")
     a = ap.parse_args(argv)
     try:
-        achados = problemas(a.raiz, a.hoje, os.environ.get("ULTIMA_VERIFICACAO", ""))
+        achados = problemas(a.raiz, a.hoje, os.environ.get("ULTIMA_VERIFICACAO", ""),
+                            status=os.environ.get("ULTIMO_STATUS", ""), dias_sem_ok=os.environ.get("DIAS_SEM_OK", ""))
     except Exception as e:  # noqa: BLE001
         print("vigia: erro: %s: %s" % (type(e).__name__, e))
         return 2
