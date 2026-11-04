@@ -24,7 +24,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | RJ2001/9701 | 2006-03-06 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
+| art. 5º | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 | art. 5º | acordao-crsfn | IA-2003-04 | 2009-03-18 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Fundo de investimento – Não cobrança de comissão de colocação, a determinados quotistas, em desconformidade com disposições encartadas no regulamento do condomínio – Práticas infringentes da relação fiduciária mantida pelo administrador de carteira com seus clientes – Irregularidades caracterizadas – Razões de defesa acolhidas em parte – Apelos a que se dá provimento parcial. | crsfn/2009/9794.md |
 | art. 5º | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | manipulacao-fraude | O Colegiado rejeitou proposta de Termo de Compromisso do Banco Opportunity S.A. e de um indiciado pessoa física no PAS 04/2003, por tratamento não equitativo aos cotistas do fundo CVC/Opportunity Equity Partners na cobrança de comissão de colocação. Considerou a proposta inoportuna e inconveniente, acompanhando o relator. | cvm/colegiado/2005/col-20050426-d02.md |
 
@@ -45,7 +45,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 29, inciso V | acordao-crsfn | RJ2001/9701 | 2006-03-06 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
+| art. 29, inciso V | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 
 ## art. 32
 

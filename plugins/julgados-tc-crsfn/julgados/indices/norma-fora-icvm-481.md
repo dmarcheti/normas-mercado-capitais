@@ -96,7 +96,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 13 | acordao-crsfn | RJ2011/11073 | 2018-03-21 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não divulgação de informações relevantes. Operação fraudulenta. Abuso de poder de controle. Não apresentação de justificativa pormenorizada para fixação do preço de emissão de ações decorrentes de aumento de capital. Não provimento dos recursos. | crsfn/2018/14486.md |
+| art. 13 | acordao-crsfn | RJ2011/11073 | 2018-03-21 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não divulgação de informações relevantes. Operação fraudulenta. Abuso de poder de controle. Não apresentação de justificativa pormenorizada para fixação do preço de emissão de ações decorrentes de aumento de capital. Não provimento dos recursos. | crsfn/2018/14486.md |
 
 ## art. 14
 

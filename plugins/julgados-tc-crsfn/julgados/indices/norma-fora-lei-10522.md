@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | registro-emissor | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de atualização de registro de companhia aberta - Falta de envio ou atraso no envio de informações obrigatórias periódicas ou eventuais – Não convocação, não realização ou realização em atraso de assembleias gerais ordinárias – Irregularidades caracterizadas – Apelos dos membros do conselho de administração não conhecidos por intempestividade – Demais recursos voluntários improvidos – Recurso de ofício provido. | crsfn/2014/12905.md |
+| art. 12 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de atualização de registro de companhia aberta - Falta de envio ou atraso no envio de informações obrigatórias periódicas ou eventuais – Não convocação, não realização ou realização em atraso de assembleias gerais ordinárias – Irregularidades caracterizadas – Apelos dos membros do conselho de administração não conhecidos por intempestividade – Demais recursos voluntários improvidos – Recurso de ofício provido. | crsfn/2014/12905.md |
 
 ## art. 29
 

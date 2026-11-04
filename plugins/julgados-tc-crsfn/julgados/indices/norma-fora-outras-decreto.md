@@ -94,7 +94,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 38 | acordao-crsfn | 14/00 | 2008-01-29 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsa de valores – Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2008/7359.md |
+| art. 38 | acordao-crsfn | 14/00 | 2008-01-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsa de valores – Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2008/7359.md |
 
 ## decreto-2298
 
@@ -148,7 +148,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 6º | acordao-crsfn | RJ2002/5015 | 2006-12-13 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Criação de condições artificiais de mercado (ilicitudes de demanda, oferta e preço) – Prejuízos infligidos à sociedade corretora apelante – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5591.md |
-| art. 6º | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Atuação habitual na intermediação sem a entidade integrar o sistema – Indevida realização de operações de venda de ações em bolsa de valores por meio de procuração pública – Não cessação das atividades mesmo em face de deliberação (stop order) da autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos a que se nega provimento. | crsfn/2009/5416.md |
+| art. 6º | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Atuação habitual na intermediação sem a entidade integrar o sistema – Indevida realização de operações de venda de ações em bolsa de valores por meio de procuração pública – Não cessação das atividades mesmo em face de deliberação (stop order) da autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos a que se nega provimento. | crsfn/2009/5416.md |
 
 ## decreto-4176
 
@@ -421,7 +421,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## decreto-19398
 
@@ -438,7 +438,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0007/2004 | 2014-12-09 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Prática não equitativa - Uso de informação privilegiada em compra de cotas de clube de investimento – Falta de probidade e diligência na administração do clube - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício improvido. | crsfn/2014/11751.md |
+| acordao-crsfn | 0007/2004 | 2014-12-09 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Prática não equitativa - Uso de informação privilegiada em compra de cotas de clube de investimento – Falta de probidade e diligência na administração do clube - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício improvido. | crsfn/2014/11751.md |
 
 ## decreto-23258
 
@@ -504,5 +504,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.010904/2018-18; RJ2018/8378 | 2022-04-12 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA POR PARTE DE ADMINISTRADORES DE COMPANHIA ABERTA. UTILIZAÇÃO DE BEM (AERONAVE) DA COMPANHIA PARA FINS PARTICULARES. PRÁTICA DE ATO DE LIBERALIDADE À CUSTA DA COMPANHIA, AO AUTORIZAR O USO DE AERONAVE, EM VIAGEM INTERNACIONAL, PARA FINS PARTICULARES. NÃO ADOÇÃO DE PROCEDIMENTOS E CAUTELAS EXIGÍVEIS NA GESTÃO DA COMPANHIA, RELACIONADAS À IMPLEMENTAÇÃO DE CONTROLES À AUTORIZAÇÃO PARA O USO DE AERONAVE. Descumprimento do art. 154, §2º, alínea “b” e do art. 153 da Lei nº 6.404/1976. Infrações configuradas. Recursos conhecidos e desprovidos. | crsfn/2022/10372-100055-2021-87.md |
-| acordao-crsfn | RJ2001/9701 | 2006-03-06 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
+| acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos auditores independentes pelo diretor do Fundo – Ausência de recursos financeiros para arcar com as despesas relativas à elaboração dos laudos e correspondente publicação – Irregularidade não configurada – Recurso conhecido e improvido. | crsfn/2005/5953.md |

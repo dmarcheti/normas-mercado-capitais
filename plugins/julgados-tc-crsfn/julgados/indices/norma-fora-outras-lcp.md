@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | SP-24/03 | 2009-09-30 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
+| acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
 
 ## lcp-64
 
@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | SP-24/03 | 2009-09-30 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
+| acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
 
 ## lcp-73
 

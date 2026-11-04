@@ -46,7 +46,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | RJ2006/3295 | 2018-02-21 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Demonstrações financeiras irregulares. Responsabilidade dos diretores pela elaboração configurada. Responsabilidade dos membros do conselho de administração pela aprovação também configurada. Abuso de poder de controle não configurado. Recursos conhecidos, mas não providos. | crsfn/2018/13903.md |
+| acordao-crsfn | RJ2006/3295 | 2018-02-21 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Demonstrações financeiras irregulares. Responsabilidade dos diretores pela elaboração configurada. Responsabilidade dos membros do conselho de administração pela aprovação também configurada. Abuso de poder de controle não configurado. Recursos conhecidos, mas não providos. | crsfn/2018/13903.md |
 
 ## res-cmn-436
 
@@ -55,9 +55,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.006551/2020-68 | 2023-07-25 | aceito | fundos-investimento | O Colegiado aceitou a proposta conjunta de termo de compromisso da BV DTVM e de dois diretores responsáveis, em processo administrativo pré-sancionador da SSE sobre o FII Securities IV (ICVM 472 e 555: fato relevante, diligência, reembolso e concentração), acompanhando o Comitê, que fixou R$ 4.258.500,00 em parcela única; pagamento é condição do termo. | cvm/colegiado/2023/col-20230725-d2900.md |
-| acordao-crsfn | 30/00 | 2012-01-10 | condenacao | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aquisição, no mercado de balcão não organizado, de forma sistemática e habitual, de ações admitidas à negociação em bolsa de valores – Uso de práticas não-equitativas Exercício irregular de intermediação no sistema de distribuição de valores mobiliários fora da bolsa - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício provido quanto ao sócio- gerente. | crsfn/2012/11634.md |
+| acordao-crsfn | 30/00 | 2012-01-10 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aquisição, no mercado de balcão não organizado, de forma sistemática e habitual, de ações admitidas à negociação em bolsa de valores – Uso de práticas não-equitativas Exercício irregular de intermediação no sistema de distribuição de valores mobiliários fora da bolsa - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício provido quanto ao sócio- gerente. | crsfn/2012/11634.md |
 | acordao-crsfn | 13/01 | 2010-10-27 | absolvicao | exercicio-irregular | RECURSO DE OFÍCIO - Mercado de valores mobiliários - Atuação de empresas e pessoas físicas não integrantes do sistema distribuição, mediante venda, em bolsa, de modo sistemático e habitual, de ações adquiridas no mercado de balcão não organizado, sem devida autorização da CVM - Intermediação indevida em negócios com ações - Transações no mercado de balcão não organizado com papéis admitidos somente | crsfn/2010/11412.md |
-| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora – Negociação de ações adquiridas no mercado de balcão não organizado e em sua maior parte de emissão de companhias listadas para transação em bolsa – Aquisição dos papéis mediante pagamento de preços abaixo dos praticados no mercado, a configurar uso de prática não-equitativa – Irregularidades caracterizadas – Arquivamento do processo | crsfn/2009/8548.md |
+| acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora – Negociação de ações adquiridas no mercado de balcão não organizado e em sua maior parte de emissão de companhias listadas para transação em bolsa – Aquisição dos papéis mediante pagamento de preços abaixo dos praticados no mercado, a configurar uso de prática não-equitativa – Irregularidades caracterizadas – Arquivamento do processo | crsfn/2009/8548.md |
 | acordao-crsfn | RJ-2003/823 | 2008-12-10 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Desbloqueio de ações pertencentes a massas falidas, mediante uso de procurações falsas e à míngua de competente autorização judicial e com negociação posterior – Sancionamento de indiciados (3-três) na instância de origem (por realização de operação fraudulenta) não questionado em esfera recursal administrativa – Não responsabilização por garimpagem, prática não eqüitativa e transação no mercado de balcão de ações negociadas em bolsa de valores – Arquivamento do processo quanto à matéria objeto de subida compulsória – Recurso improvido | crsfn/2008/9550.md |
 | termo-compromisso | 13/2001 | 2006-10-03 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pela TUMIM Consultoria Empreendimentos e Participações Ltda., seus sócios e outros proponentes no PAS 13/2001, determinando o prosseguimento do feito. Baseou-se no voto da relatora, que também opinara pela rejeição. | cvm/colegiado/2006/col-20061003-d03.md |
 | termo-compromisso | IA13/01 | 2004-03-02 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso no IA CVM 13/01 (Mercobank S.A.), apresentadas pela TUMIM Consultoria e por outras seis pessoas físicas, nos termos do voto do relator. Um diretor também rejeitou, por considerar insuficientes as condições propostas. | cvm/colegiado/2004/col-20040302-d06.md |
@@ -196,7 +196,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 
 ## res-cmn-1206
 
@@ -269,7 +269,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## res-cmn-1423
 
@@ -295,7 +295,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 11/2002 | 2018-03-20 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Violações a deveres fiduciários. Imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Descumprimento do dever de diligência. Prática de atos de liberalidade na administração do Banestado. Desvio de poder na administração dos negócios da companhia. | crsfn/2018/13747.md |
+| acordao-crsfn | 11/2002 | 2018-03-20 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Violações a deveres fiduciários. Imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Descumprimento do dever de diligência. Prática de atos de liberalidade na administração do Banestado. Desvio de poder na administração dos negócios da companhia. | crsfn/2018/13747.md |
 
 ## res-cmn-1645
 
@@ -303,8 +303,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 04/01 | 2015-05-26 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos voluntários desprovidos, exceto de um dos recorrentes (provido parcialmente) – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/9058.md |
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | 04/01 | 2015-05-26 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos voluntários desprovidos, exceto de um dos recorrentes (provido parcialmente) – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/9058.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 | acordao-crsfn | 09/04 | 2010-08-18 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Celebração de contrato entre corretora e agente autônomo sem devida comunicação à CVM – Irregularidades caracterizadas - Apelo voluntário a que se nega provimento – Recurso de ofício provido parcialmente. | crsfn/2010/11107.md |
 | acordao-crsfn | IA21/1999 | 2009-10-27 | absolvicao | infraestrutura-mercado | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de adoção de providências relacionadas com ilícitos em operações day-trade envolvendo fundos de investimento – Ambiente de risco cambial – Correção de anormalidades no mercado de dólar futuro mediante uso do mercado de Ibovespa futuro – Ausência de notícia à autoridade supervisora relevada no episódio – Irregularidade não caracterizada – Recurso de ofício improvido – Arquivamento do processo quanto à matéria objeto de subida compulsória. | crsfn/2009/7463.md |
 | acordao-crsfn | 37/00 | 2008-08-15 | condenacao | infraestrutura-mercado | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Realização de operações com contratos futuros de Ibovespa em bolsa de mercadorias – Ocorrência de reiteradas day-trades em transações pré-combinadas e indevidas, com lucros aos comitentes e pessoas interpostas e prejuízos a entidades de previdência fechada – Ausência de mecanismos de controle de registro de ordens de clientes – Adoção a posteriori de medidas voltadas para o pleno exercício de fiscalização das operações cursadas e conseqüente aprimoramento da auto-regulação – Irregularidade configurada – Recurso provido. | crsfn/2008/7530.md |
@@ -327,7 +327,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, inciso III | acordao-crsfn | SP-2001-240 | 2007-04-25 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício também improvido. | crsfn/2007/6187.md |
+| art. 11, inciso III | acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | manipulacao-fraude | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício também improvido. | crsfn/2007/6187.md |
 
 ## res-cmn-1748
 
@@ -363,7 +363,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 
 ## res-cmn-1970
 
@@ -418,13 +418,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º, inciso V | acordao-crsfn | RJ–2002-397 | 2009-09-30 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não equitativas – Intermediação de ações de companhia fechada no mercado de balcão não organizado – Inobservância ao princípio de probidade na condução das atividades em prol do cliente, da prevenção de conflito de interesses e de integridade do sistema – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2009/5632.md |
+| art. 8º, inciso V | acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não equitativas – Intermediação de ações de companhia fechada no mercado de balcão não organizado – Inobservância ao princípio de probidade na condução das atividades em prol do cliente, da prevenção de conflito de interesses e de integridade do sistema – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2009/5632.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, | crsfn/2009/6180.md |
+| acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, | crsfn/2009/6180.md |
 
 ## res-cmn-2451
 
@@ -442,7 +442,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2011/10415 | 2020-02-11 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. FIDCS. Subcontratação de atividades pelo Custodiante. Possibilidade. Ausência de divulgação de informações e de outras irregularidades. Afastamento parcial de infrações. Provimento parcial e desprovimento dos recursos voluntários. Não provimento do recurso de ofício. | crsfn/2020/10372-000322-2016-50.md |
-| acordao-crsfn | IA-2005-1 | 2012-12-05 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
+| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de publicação de anúncios (início e encerramento) de distribuição pública de cotas e de informações adicionais franqueadas aos potenciais investidores - Irregularidade caracterizada – Desistência do recurso voluntário – Recurso de ofício improvido. | crsfn/2010/11453.md |
 
 ## res-cmn-2486
@@ -467,7 +467,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | RJ–2002-397 | 2009-09-30 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não equitativas – Intermediação de ações de companhia fechada no mercado de balcão não organizado – Inobservância ao princípio de probidade na condução das atividades em prol do cliente, da prevenção de conflito de interesses e de integridade do sistema – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2009/5632.md |
+| acordao-crsfn | RJ–2002-397 | 2009-09-30 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, com utilização de práticas não equitativas – Intermediação de ações de companhia fechada no mercado de balcão não organizado – Inobservância ao princípio de probidade na condução das atividades em prol do cliente, da prevenção de conflito de interesses e de integridade do sistema – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2009/5632.md |
 
 ## res-cmn-2554
 
@@ -503,7 +503,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | IA-2005-1 | 2012-12-05 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
+| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
 
 ## res-cmn-2656
 
@@ -519,7 +519,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 
 ## res-cmn-2691
 
@@ -552,14 +552,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 61, inciso II | acordao-crsfn | 12/06 | 2014-05-13 | condenacao | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND) - Falhas no processamento de ordens de negociação - Favorecimento a determinados investidores - Exercício da atividade de administração de carteira sem autorização prévia – Irregularidades caracterizadas – Recursos a que se nega provimento – Arquivamento confirmado no tocante à subida obrigatória. | crsfn/2014/13263.md |
+| art. 61, inciso II | acordao-crsfn | 12/06 | 2014-05-13 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND) - Falhas no processamento de ordens de negociação - Favorecimento a determinados investidores - Exercício da atividade de administração de carteira sem autorização prévia – Irregularidades caracterizadas – Recursos a que se nega provimento – Arquivamento confirmado no tocante à subida obrigatória. | crsfn/2014/13263.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 08/2004 | 2020-03-10 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas no mercado de valores mobiliários. Especificações tardias de ordens na BM&F. Admissibilidade de provas indiciárias. Cabimento de Recurso de Ofício contra decisão condenatória pela CVM. Recursos de Ofício providos e desprovidos. Recursos voluntários conhecidos mas não providos. Multa. | crsfn/2020/13732.md |
-| acordao-crsfn | 05/2008 | 2017-02-07 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de operações fraudulentas no mercado de valores mobiliários - anuência, concorrência e/ou benefício com operações cursadas no mercado de derivativos da BM&F. | crsfn/2017/13727.md |
+| acordao-crsfn | 05/2008 | 2017-02-07 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de operações fraudulentas no mercado de valores mobiliários - anuência, concorrência e/ou benefício com operações cursadas no mercado de derivativos da BM&F. | crsfn/2017/13727.md |
 | acordao-crsfn | 20/2005 | 2015-03-24 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas no mercado futuro de Ibovespa - Falta de cuidado e diligência em administração da carteira – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Demais apelos improvidos (inclusive o recurso de ofício). | crsfn/2015/13356.md |
 | acordao-crsfn | IA-2005-16 | 2014-07-22 | absolvicao | outros | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Entidade fechada de previdência complementar – Aquisição de ações e lançamento de opções de compra a preços inferiores aos tidos por justo – Irrelevância econômica dos ganhos a representar contraindício – Falta de suficientes elementos, nos autos, para declaração de existência de conluio | crsfn/2014/13188.md |
 | acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de publicação de anúncios (início e encerramento) de distribuição pública de cotas e de informações adicionais franqueadas aos potenciais investidores - Irregularidade caracterizada – Desistência do recurso voluntário – Recurso de ofício improvido. | crsfn/2010/11453.md |
@@ -579,7 +579,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º, inciso II | acordao-crsfn | 18/2006 | 2014-08-26 | condenacao | administracao-carteiras | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND) - Exercício da atividade de administração de carteira sem autorização prévia – Irregularidades caracterizadas – Recursos a que se nega provimento (inclusive o de ofício, tido por interposto) – Arquivamento confirmado no tocante à subida obrigatória. | crsfn/2014/13067.md |
+| art. 2º, inciso II | acordao-crsfn | 18/2006 | 2014-08-26 | parcial | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND) - Exercício da atividade de administração de carteira sem autorização prévia – Irregularidades caracterizadas – Recursos a que se nega provimento (inclusive o de ofício, tido por interposto) – Arquivamento confirmado no tocante à subida obrigatória. | crsfn/2014/13067.md |
 | art. 2º, inciso II | termo-compromisso | RJ2007/1854 | 2007-11-13 | rejeitado | exercicio-irregular | O Colegiado rejeitou as propostas de termo de compromisso de Megainvestidor.com Ltda. e de SLW CVC Ltda., acompanhando o Comitê. Este viu desproporção entre os compromissos e o montante que superou R$ 380 mil em 2003, e não viu base para negociação. Imputava-se exercício irregular de agente autônomo e contratação de pessoa jurídica não autorizada. | cvm/colegiado/2007/col-20071113-d06.md |
 
 ### art. 5º
@@ -607,7 +607,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
 
 ## res-cmn-2878
 

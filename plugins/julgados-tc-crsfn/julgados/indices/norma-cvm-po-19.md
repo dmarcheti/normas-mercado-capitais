@@ -11,7 +11,7 @@ Norma: [cvm/pareceres-orientacao/0019.md](../../../normas/normas/cvm/pareceres-o
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 117, § 1º, alínea c | acordao-crsfn | 20/04 | 2013-07-30 | condenacao | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Exercício abusivo do poder de controle - Descumprimento dos deveres de diligência e de lealdade – Abuso do direito de voto nas eleições para o conselho fiscal – Irregularidades caracterizadas - Recursos improvidos. | crsfn/2013/12356.md |
+| art. 117, § 1º, alínea c | acordao-crsfn | 20/04 | 2013-07-30 | parcial | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Exercício abusivo do poder de controle - Descumprimento dos deveres de diligência e de lealdade – Abuso do direito de voto nas eleições para o conselho fiscal – Irregularidades caracterizadas - Recursos improvidos. | crsfn/2013/12356.md |
 
 ## Citada sem dispositivo identificado
 

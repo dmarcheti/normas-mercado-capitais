@@ -112,7 +112,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | SP2007/139 | 2017-02-08 | condenacao | manipulacao-fraude | Recursos voluntários e de ofício. Práticas não equitativas. Permitir o registro de ordens de operação no mercado de valores mobiliários sem a correta identificação do cliente que as emitiu. Não empregar o devido cuidado e a diligência que se exigia no exercício de suas funções de Diretor Responsável para coibir o reiterado registro de ordens de operação no mercado de valores mobiliários, no período de 17.02.2004 a 06.07.2004 sem a correta identificação do cliente que as emitiu. Por ter anuído e se beneficiado do uso de "prática não equitativa". Recursos voluntários conhecidos e desprovidos. Recursos de ofício desprovidos. | crsfn/2017/13873.md |
+| acordao-crsfn | SP2007/139 | 2017-02-08 | parcial | manipulacao-fraude | Recursos voluntários e de ofício. Práticas não equitativas. Permitir o registro de ordens de operação no mercado de valores mobiliários sem a correta identificação do cliente que as emitiu. Não empregar o devido cuidado e a diligência que se exigia no exercício de suas funções de Diretor Responsável para coibir o reiterado registro de ordens de operação no mercado de valores mobiliários, no período de 17.02.2004 a 06.07.2004 sem a correta identificação do cliente que as emitiu. Por ter anuído e se beneficiado do uso de "prática não equitativa". Recursos voluntários conhecidos e desprovidos. Recursos de ofício desprovidos. | crsfn/2017/13873.md |
 | termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | intermediacao | O Colegiado aceitou as propostas de Termo de Compromisso da Fator S.A. Corretora de Valores e de um diretor responsável, de R$ 200.000,00 cada, por registro de ordens sem horário de recebimento e sem identificação do cliente (Instrução 387/03). Acompanhou o parecer do Comitê. | cvm/colegiado/2011/col-20110510-d06.md |
 
 ## circular-bcb-98
@@ -129,7 +129,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | SP-2001-0034 | 2007-09-26 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Exercício de atividade de intermediação de valores mobiliários sem ser integrante do sistema de distribuição – Realização de operações fraudulentas – Irregularidades caracterizadas - Apelos a que se nega provimento. | crsfn/2007/7361.md |
+| acordao-crsfn | SP-2001-0034 | 2007-09-26 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Exercício de atividade de intermediação de valores mobiliários sem ser integrante do sistema de distribuição – Realização de operações fraudulentas – Irregularidades caracterizadas - Apelos a que se nega provimento. | crsfn/2007/7361.md |
 
 ## circular-bcb-118
 
@@ -137,7 +137,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 30/2005 | 2020-04-14 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
 
 ## circular-bcb-193
 
@@ -170,7 +170,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-1846
 
@@ -178,7 +178,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-1922
 
@@ -219,7 +219,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-2594
 
@@ -263,7 +263,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-2688
 
@@ -305,8 +305,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º, inciso I | acordao-crsfn | IA-2005-1 | 2012-12-05 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
-| art. 2º, inciso II | acordao-crsfn | IA-2005-1 | 2012-12-05 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
+| art. 2º, inciso I | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
+| art. 2º, inciso II | acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
 
 ### art. 3º
 
@@ -332,7 +332,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0022/2005 | 2014-11-25 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
+| acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
 
 ## circular-bcb-3096
 
@@ -380,5 +380,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | intermediacao | RECURSO VOLUNTÁRIO. AUSÊNCIA DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DE NORMAS SOBRE AS OPERAÇÕES. AUSÊNCIA DE PROCEDIMENTOS E CONTROLES INTERNOS. Descumprimento da Instrução CVM nº 505, de 27 de setembro de 2011. Penalidade de advertência. Sucessão por incorporação posterior às ocorrências e anterior ao processo sancionador. Não transcendência subjetiva de sanções personalíssimas. Princípio da pessoalidade da pena. Impossibilidade de apenar a empresa sucessora com advertência. Extinção de punibilidade e arquivamento do processo. Recurso provido. Análise do mérito prejudicada. | crsfn/2022/10372-100106-2021-71.md |
 | acordao-crsfn | RJ2017/1239 | 2020-11-18 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor hoteleiro. Recurso conhecido e provido parcialmente. | crsfn/2020/10372-100056-2019-15.md |
 | acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor hoteleiro. | crsfn/2020/10372-100052-2019-29.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
 | acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | auditoria-independente | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva, deixando de observar o disposto nas normas profissionais de auditoria independente. Recurso conhecido e desprovido. | crsfn/2018/14420.md |

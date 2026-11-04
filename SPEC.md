@@ -192,6 +192,12 @@ Campos, todos obrigatórios, nesta ordem; um valor por linha (`chave: valor`), s
 - `termo-compromisso`: `aceito`, `rejeitado`, `outro`;
 - `decisao-colegiado` e `decisao-antiga`: `deferido`, `indeferido`, `provido`, `nao-provido`, `parcial`, `conhecimento`, `outro`.
 
+Como o valor é escolhido (v1.1.0):
+
+- O resultado sai da deliberação do Colegiado, nunca da proposta da área técnica ou do Comitê, nem do voto do relator; julgamento suspenso (vista, adiamento, retirada de pauta) ou sem deliberação fica com `resultado` vazio.
+- Decisão do Colegiado: `deferido`/`indeferido` para pedido (dispensa, registro, autorização, prazo); `provido`/`nao-provido` para recurso, inclusive o recurso contra indeferimento da área técnica, e para pedido de reconsideração em que o Colegiado reformou ou manteve a decisão; `parcial` para pedido ou recurso atendido em parte; `conhecimento` quando não conheceu do recurso ou só tomou conhecimento; `outro` para o que não cabe na lista (consulta que fixa entendimento, norma aprovada, diligência).
+- Acórdão do CRSFN: o que fica valendo depois do acórdão. Recurso de ofício negado mantém a absolvição da CVM; com recurso voluntário negado no mesmo acórdão, o resultado é `parcial`.
+
 Citações (`normas_citadas` e `dispositivos_citados`): o id é o do `plugins/normas/normas/normas.json`; norma fora do acervo usa `fora:<rotulo>`, com o rótulo do `scripts/citacoes.py` (`icvm-358`, `res-cvm-35`, `deliberacao-cvm-538`, `lei-7940`, `lcp-105`, `res-cmn-2689` etc.). `fora:` com rótulo de norma que está no acervo é erro. A parte da norma em partes vai antes do artigo (`Anexo II`, `Suplemento A`); na parte geral, nada.
 
 ### Corpo

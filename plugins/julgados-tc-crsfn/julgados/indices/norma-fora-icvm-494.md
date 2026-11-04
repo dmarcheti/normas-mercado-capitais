@@ -56,7 +56,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 38 | acordao-crsfn | RJ2011/1894 | 2015-12-15 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Instituição financeira – Corretora de Câmbio, Títulos e Valores Mobiliários - Diretor responsável - Alteração unilateral de taxa de administração de Clube de Investimento – Falta de atualização de Estatuto Social de Clube de Investimento após alteração de sua taxa de administração - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2015/13513.md |
+| art. 38 | acordao-crsfn | RJ2011/1894 | 2015-12-15 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Instituição financeira – Corretora de Câmbio, Títulos e Valores Mobiliários - Diretor responsável - Alteração unilateral de taxa de administração de Clube de Investimento – Falta de atualização de Estatuto Social de Clube de Investimento após alteração de sua taxa de administração - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2015/13513.md |
 
 ## Citada sem dispositivo identificado
 

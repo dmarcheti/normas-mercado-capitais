@@ -21,14 +21,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 132 | acordao-crsfn | RJ2007/4665 | 2016-03-29 | parcial | registro-emissor | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras no prazo legal - Não eleição de diretor de relações com investidores – Ausência de convocação e de realização de assembleias gerais ordinárias – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2016/12570.md |
-| art. 132 | acordao-crsfn | RJ2015/3529 | 2018-05-23 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de outros documentos obrigatórios. Não convocação de Assembleias Gerais Ordinárias. Ausência de recursos em função das dificuldades financeiras da Companhia não constituiu escusa aceitável para as infrações. Infrações caracterizadas. Arquivamentos efetuados foram adequados. Recursos conhecidos e desprovidos. | crsfn/2018/14446.md |
+| art. 132 | acordao-crsfn | RJ2015/3529 | 2018-05-23 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de outros documentos obrigatórios. Não convocação de Assembleias Gerais Ordinárias. Ausência de recursos em função das dificuldades financeiras da Companhia não constituiu escusa aceitável para as infrações. Infrações caracterizadas. Arquivamentos efetuados foram adequados. Recursos conhecidos e desprovidos. | crsfn/2018/14446.md |
 
 ### art. 142
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 142 | acordao-crsfn | RJ2007/4665 | 2016-03-29 | parcial | registro-emissor | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de elaboração de demonstrações financeiras no prazo legal - Não eleição de diretor de relações com investidores – Ausência de convocação e de realização de assembleias gerais ordinárias – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Recurso de ofício desprovido (arquivamento confirmado). | crsfn/2016/12570.md |
-| art. 142, inciso IV | acordao-crsfn | RJ2015/3529 | 2018-05-23 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de outros documentos obrigatórios. Não convocação de Assembleias Gerais Ordinárias. Ausência de recursos em função das dificuldades financeiras da Companhia não constituiu escusa aceitável para as infrações. Infrações caracterizadas. Arquivamentos efetuados foram adequados. Recursos conhecidos e desprovidos. | crsfn/2018/14446.md |
+| art. 142, inciso IV | acordao-crsfn | RJ2015/3529 | 2018-05-23 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Não elaboração de escrituração contábil. Consequente não entrega das Demonstrações Financeiras e de outros documentos obrigatórios. Não convocação de Assembleias Gerais Ordinárias. Ausência de recursos em função das dificuldades financeiras da Companhia não constituiu escusa aceitável para as infrações. Infrações caracterizadas. Arquivamentos efetuados foram adequados. Recursos conhecidos e desprovidos. | crsfn/2018/14446.md |
 
 ### art. 157
 
@@ -41,7 +41,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | RJ2006/3295 | 2018-02-21 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Demonstrações financeiras irregulares. Responsabilidade dos diretores pela elaboração configurada. Responsabilidade dos membros do conselho de administração pela aprovação também configurada. Abuso de poder de controle não configurado. Recursos conhecidos, mas não providos. | crsfn/2018/13903.md |
+| acordao-crsfn | RJ2006/3295 | 2018-02-21 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Demonstrações financeiras irregulares. Responsabilidade dos diretores pela elaboração configurada. Responsabilidade dos membros do conselho de administração pela aprovação também configurada. Abuso de poder de controle não configurado. Recursos conhecidos, mas não providos. | crsfn/2018/13903.md |
 
 ## lei-2
 
@@ -77,7 +77,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 39/00 | 2012-11-26 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Aquisição de empresa – Efetivação do negócio por sociedade controlada sem o beneplácito expresso e direto dos acionistas da companhia controladora - Necessidade de chamada de assembleia geral extraordinária pelo vínculo de dependência e importância na atuação das duas firmas integrantes do grupo econômico adquirente – Publicação de fato relevante sem força, na espécie, para suprir a não realização do conclave – Falta de tempestiva prestação de informações solicitada por membro do conselho fiscal - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/8541.md |
+| acordao-crsfn | 39/00 | 2012-11-26 | parcial | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Aquisição de empresa – Efetivação do negócio por sociedade controlada sem o beneplácito expresso e direto dos acionistas da companhia controladora - Necessidade de chamada de assembleia geral extraordinária pelo vínculo de dependência e importância na atuação das duas firmas integrantes do grupo econômico adquirente – Publicação de fato relevante sem força, na espécie, para suprir a não realização do conclave – Falta de tempestiva prestação de informações solicitada por membro do conselho fiscal - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/8541.md |
 | acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Comunicação intempestiva, ao mercado, sobre alienação de ações que correspondam a 5% (cinco por cento) ou mais de espécie ou classe de ações representativas do capital de companhia aberta – Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2010/11956.md |
 
 ## lei-5
@@ -100,9 +100,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | 16/2002 | 2015-01-27 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operação fraudulenta - Exercício irregular da atividade de mediação de valores mobiliários - Emissão de Ordens de Transferência de Ações anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2015/11411.md |
-| art. 11, inciso I | acordao-crsfn | RJ00/6479 | 2005-08-23 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
-| art. 11, § 2º | acordao-crsfn | RJ00/6479 | 2005-08-23 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
+| art. 11 | acordao-crsfn | 16/2002 | 2015-01-27 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Realização de operação fraudulenta - Exercício irregular da atividade de mediação de valores mobiliários - Emissão de Ordens de Transferência de Ações anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes - Irregularidades caracterizadas – Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2015/11411.md |
+| art. 11, inciso I | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
+| art. 11, § 2º | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
 
 ### art. 142
 
@@ -131,14 +131,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | 0022/2005 | 2014-11-25 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
+| art. 6º | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0006/2004 | 2014-10-21 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
-| acordao-crsfn | RJ-2001-8473 | 2011-06-15 | condenacao | auditoria-independente | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Atuação em desacordo com as normas legais, regulamentares e profissionais - Exercício insuficiente e inadequado das funções (laudos sem ressalvas e lacunosos – emissão de Contratos de Investimento Coletivo-CIC sem verificação de regularidade; negociação de rebanhos desacompanhadas de notas fiscais e de bens imóveis sem escrituras públicas; em papéis de trabalho, falta de registros quanto a acompanhamento de inventário físico) – Irregularidades caracterizadas – Apelos voluntários a que se nega provimento, agravada a penalidade originalmente estabelecida - Reformatio in pejus – Preliminar acolhida do instituto na 279ª Sessão de Julgamento - Recurso de ofício improvido – Arquivamento do processo no tangente à matéria objeto de subida compulsória. | crsfn/2011/7357.md |
+| acordao-crsfn | 0006/2004 | 2014-10-21 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço - Práticas irregulares relacionadas a negócios realizados na Bolsa de Mercadorias e Futuros envolvendo corretoras e pessoas ligadas, clientes, intermediários e comitentes – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/13285.md |
+| acordao-crsfn | RJ-2001-8473 | 2011-06-15 | parcial | auditoria-independente | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Auditoria independente – Atuação em desacordo com as normas legais, regulamentares e profissionais - Exercício insuficiente e inadequado das funções (laudos sem ressalvas e lacunosos – emissão de Contratos de Investimento Coletivo-CIC sem verificação de regularidade; negociação de rebanhos desacompanhadas de notas fiscais e de bens imóveis sem escrituras públicas; em papéis de trabalho, falta de registros quanto a acompanhamento de inventário físico) – Irregularidades caracterizadas – Apelos voluntários a que se nega provimento, agravada a penalidade originalmente estabelecida - Reformatio in pejus – Preliminar acolhida do instituto na 279ª Sessão de Julgamento - Recurso de ofício improvido – Arquivamento do processo no tangente à matéria objeto de subida compulsória. | crsfn/2011/7357.md |
 
 ## lei-8
 
@@ -278,8 +278,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | IS-2003-19 | 2013-03-26 | condenacao | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | crsfn/2013/11833.md |
-| art. 9º, § 2º | acordao-crsfn | IS-2003-19 | 2013-03-26 | condenacao | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | crsfn/2013/11833.md |
+| art. 9º | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | crsfn/2013/11833.md |
+| art. 9º, § 2º | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | crsfn/2013/11833.md |
 
 ## lei-264
 
@@ -431,7 +431,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | 19957.008274/2018-11; RJ2018/5469 | 2021-09-14 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. Ausência de registro ou de dispensa de registro de oferta de contratos de investimento coletivo relacionados a empreendimentos imobiliários hoteleiros (condo-hotéis), respectivamente nos termos do art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03 e no inciso I do § 5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Recursos conhecidos e parcialmente providos. | crsfn/2021/10372-100180-2020-14.md |
 | termo-compromisso | 19957.002921/2017-92 | 2018-04-03 | aceito | ofertas-publicas | O Colegiado aceitou propostas de termo de compromisso da Meliá Brasil e de seu administrador (R$ 100.000,00 e R$ 50.000,00) e rejeitou as de outra sociedade e seu administrador, por não observarem a contraproposta do Comitê. Acusação: oferta sem registro (art. 19, Lei 6.385/76; art. 2º, Instrução CVM 400/2003). | cvm/colegiado/2018/col-20180403-d1008.md |
 | acordao-crsfn | RJ-2012-10487 | 2017-04-19 | arquivamento | deveres-administradores | Recurso de Ofício. Descumprimento do dever de lealdade por parte de acionista controlador - Recurso desprovido - Arquivamentos confirmados. | crsfn/2017/13883.md |
-| acordao-crsfn | 18/2010 | 2016-06-28 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia – Omissão de membro do Conselho Fiscal ao dever de fiscalizar os atos praticados pelos administradores -Desprovimento dos recursos voluntários e de ofício | crsfn/2016/10372-000632-2016-74.md |
+| acordao-crsfn | 18/2010 | 2016-06-28 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia – Omissão de membro do Conselho Fiscal ao dever de fiscalizar os atos praticados pelos administradores -Desprovimento dos recursos voluntários e de ofício | crsfn/2016/10372-000632-2016-74.md |
 
 ## lei-4595-1976
 
@@ -840,7 +840,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.004286/2022-45 | 2025-05-13 | condenacao | deveres-administradores | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. NÃO DILIGENCIAR PARA FAZER ELABORAR E ENVIAR DEMONSTRAÇÕES FINANCEIRAS. DEIXAR DE ELABORAR E DE ENTREGAR INFORMAÇÕES TRIMESTRAIS. NÃO CONVOCAR ASSEMBLEIA GERAL ORDINÁRIA. NÃO DILIGENCIAR PARA RECOMPOSIÇÃO DOS CARGOS DE DIRETOR E DE CONSELHEIRO. Apuração da responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. Infrações caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | crsfn/2025/10372-000073-2024-11.md |
-| acordao-crsfn | RJ-2005-7229 | 2010-09-14 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
+| acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
 
 ## lei-6404-1974
 
@@ -938,7 +938,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 25/04 | 2013-09-25 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Não comunicação, por membro do conselho de administração, à companhia e à CVM, da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em sua posição acionária antes da publicação do ato ou fato relevante – Irregularidades caracterizadas – Apelos voluntário a que se nega provimento – Recurso de ofício não conhecido em relação a um dos recorridos (declaração de extinção de punibilidade) e improvido em relação aos demais. | crsfn/2013/12353.md |
+| acordao-crsfn | 25/04 | 2013-09-25 | parcial | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Não comunicação, por membro do conselho de administração, à companhia e à CVM, da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em sua posição acionária antes da publicação do ato ou fato relevante – Irregularidades caracterizadas – Apelos voluntário a que se nega provimento – Recurso de ofício não conhecido em relação a um dos recorridos (declaração de extinção de punibilidade) e improvido em relação aos demais. | crsfn/2013/12353.md |
 
 ## lei-6435
 
@@ -1036,14 +1036,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, inciso I | acordao-crsfn | RJ00/6479 | 2005-08-23 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
+| art. 11, inciso I | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. Prática não equitativa no mercado de valores mobiliários. Infração ao item I c/c item II, “d”, da Instrução CVM nº 8 de 1979, vigente à época dos fatos. Infração caracterizada. Aplicação da correção pelo IPCA à base de cálculo da penalidade. Recurso conhecido e desprovido. | crsfn/2023/10372-100184-2020-94.md |
-| acordao-crsfn | 03/95 | 2010-08-18 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
+| acordao-crsfn | 03/95 | 2010-08-18 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
 | acordao-crsfn | IA-1993-9 | 2008-03-26 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Prática não eqüitativa – Alienação, pelos acionistas controladores e por pessoas a eles vinculadas, de ações de emissão da companhia pelos preços máximos praticados no período da venda – Suspensão do andamento do vertente processo administrativo por força de decisão judicial, com alcance dos indiciados não aceitos para integrar a lide originária na qualidade de litisconsortes ativos – Irregularidade caracterizada – Apelos a que se nega provimento. | crsfn/2008/revisao-1739.md |
 | acordao-crsfn | 08/00 | 2005-02-23 | outro | auditoria-independente | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Falhas em auditoria de demonstrações financeiras de companhias incentivadas – Intempestividade – Apelos não conhecidos. | crsfn/2005/4217.md |
 
@@ -1237,7 +1237,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 05/00 | 2009-02-16 | condenacao | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
+| acordao-crsfn | 05/00 | 2009-02-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
 
 ## lei-8212
 
@@ -1258,7 +1258,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 123, inciso III | acordao-crsfn | 17/01 | 2007-09-27 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Distorção na conta estoque de gado por incluir bens de existência duvidosa – Diferença de provisão contábil de rendimentos (ganho de peso ou engorda) a pagar aos parceiros – Distribuição de contratos de investimentos coletivos sem autorização da CVM – Atos de liberalidade – Irregularidades, inclusive de natureza grave, caracterizadas - Apelos a que se nega provimento. | crsfn/2007/5310.md |
+| art. 123, inciso III | acordao-crsfn | 17/01 | 2007-09-27 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Distorção na conta estoque de gado por incluir bens de existência duvidosa – Diferença de provisão contábil de rendimentos (ganho de peso ou engorda) a pagar aos parceiros – Distribuição de contratos de investimentos coletivos sem autorização da CVM – Atos de liberalidade – Irregularidades, inclusive de natureza grave, caracterizadas - Apelos a que se nega provimento. | crsfn/2007/5310.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1272,7 +1272,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 14 | acordao-crsfn | RJ00/6479 | 2005-08-23 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
+| art. 14 | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
 
 ## lei-8245
 
@@ -1302,7 +1302,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 62 | acordao-crsfn | RJ00/6479 | 2005-08-23 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
+| art. 62 | acordao-crsfn | RJ00/6479 | 2005-08-23 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Recebimento de a) valores a título de administração de imóveis sem comprovação de realização dos serviços e de b) comissões pagas por fornecedores de mercadorias em benefício único dos controladores – Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2005/5123.md |
 
 ## lei-8630
 
@@ -1349,7 +1349,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2012/2766 | 2012-07-17 | aceito | ofertas-publicas | O Colegiado aceitou proposta de termo de compromisso da SOCOPA Sociedade Corretora Paulista S.A. (R$ 50.000,00, auditoria e manuais de compliance) por distribuição de certificados antes do registro da oferta, acompanhando o parecer do Comitê, que a considerou conveniente após o ressarcimento do investidor. Pagamento como condição para celebração do termo. | cvm/colegiado/2012/col-20120717-d03.md |
-| acordao-crsfn | 12/00 | 2002-12-11 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Captação de recursos com base na Lei 8.685/93 (Lei do audiovisual) – Registro, emissão e distribuição de certificado de investimento – Prestação de informações obrigatórias (Instrução CVM 260/97) de modo incorreto e fora do prazo regulamentar – Competência da autoridade supervisora em face da competência do Tribunal de Contas da União-TCU – Responsabilização dos agentes produtores – Acolhimento, em parte, das razões aduzidas pela distribuidora dos títulos – Recurso de ofício improvido. | crsfn/2002/4122.md |
+| acordao-crsfn | 12/00 | 2002-12-11 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Captação de recursos com base na Lei 8.685/93 (Lei do audiovisual) – Registro, emissão e distribuição de certificado de investimento – Prestação de informações obrigatórias (Instrução CVM 260/97) de modo incorreto e fora do prazo regulamentar – Competência da autoridade supervisora em face da competência do Tribunal de Contas da União-TCU – Responsabilização dos agentes produtores – Acolhimento, em parte, das razões aduzidas pela distribuidora dos títulos – Recurso de ofício improvido. | crsfn/2002/4122.md |
 
 ## lei-8742
 
@@ -1365,7 +1365,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, § 2º | acordao-crsfn | 30/2005 | 2020-04-14 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
+| art. 1º, § 2º | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
 
 ## lei-8906
 
@@ -1373,7 +1373,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 18/2010 | 2016-06-28 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia – Omissão de membro do Conselho Fiscal ao dever de fiscalizar os atos praticados pelos administradores -Desprovimento dos recursos voluntários e de ofício | crsfn/2016/10372-000632-2016-74.md |
+| art. 1º | acordao-crsfn | 18/2010 | 2016-06-28 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia – Omissão de membro do Conselho Fiscal ao dever de fiscalizar os atos praticados pelos administradores -Desprovimento dos recursos voluntários e de ofício | crsfn/2016/10372-000632-2016-74.md |
 
 ### art. 5º
 
@@ -1535,7 +1535,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º, parágrafo único | acordao-crsfn | 05/00 | 2009-02-16 | condenacao | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
+| art. 4º, parágrafo único | acordao-crsfn | 05/00 | 2009-02-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
 
 ### art. 9º
 
@@ -1566,7 +1566,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 16 | acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa - Inobservância do dever de guarda do sigilo de informação (ato ou fato relevante) ainda não divulgada ao mercado, obtida em razão do cargo e capaz de influir nas cotações com indevida vantagem, para si ou para outrem - Não comunicação da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em suas posições - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/11744.md |
 | art. 16 | termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | manipulacao-fraude | O Colegiado aceitou a proposta de termo de compromisso da corretora e de seu diretor, no valor conjunto de R$ 40.000,00 a pagar em 30 dias, no processo sobre oscilação de 334,7% nas ações da Cambuci S.A. Pelas razões do Comitê, a conduta dos proponentes limitou-se a questões cadastrais. | cvm/colegiado/2006/col-20061003-d04.md |
-| art. 16, § 1º | acordao-crsfn | RJ-2001-8363 | 2009-06-29 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora – Negociação de ações adquiridas no mercado de balcão não organizado e em sua maior parte de emissão de companhias listadas para transação em bolsa – Aquisição dos papéis mediante pagamento de preços abaixo dos praticados no mercado, a configurar uso de prática não-equitativa – Irregularidades caracterizadas – Arquivamento do processo | crsfn/2009/8548.md |
+| art. 16, § 1º | acordao-crsfn | RJ-2001-8363 | 2009-06-29 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora – Negociação de ações adquiridas no mercado de balcão não organizado e em sua maior parte de emissão de companhias listadas para transação em bolsa – Aquisição dos papéis mediante pagamento de preços abaixo dos praticados no mercado, a configurar uso de prática não-equitativa – Irregularidades caracterizadas – Arquivamento do processo | crsfn/2009/8548.md |
 | art. 16, § 1º | acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa - Inobservância do dever de guarda do sigilo de informação (ato ou fato relevante) ainda não divulgada ao mercado, obtida em razão do cargo e capaz de influir nas cotações com indevida vantagem, para si ou para outrem - Não comunicação da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em suas posições - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/11744.md |
 | art. 16, § 1º | acordao-crsfn | 20/2005 | 2015-03-24 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas no mercado futuro de Ibovespa - Falta de cuidado e diligência em administração da carteira – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Demais apelos improvidos (inclusive o recurso de ofício). | crsfn/2015/13356.md |
 
@@ -1600,7 +1600,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 97 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
+| art. 97 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
 
 ## lei-9430
 
@@ -1623,7 +1623,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | contabil-demonstracoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Elaboração inadequada de demonstrações financeiras – Geração artificial de lucros através de operações ilícitas (estornos de reservas de reavaliação, compra e venda de títulos da dívida externa brasileira, ágio agregado em negócios envolvendo ações representativas do capital de empresas ligadas, contratos de financiamento habitacional com cobertura do FCVS, provisão para impostos e tributos, avaliação de investimentos e provisão para perdas em créditos vinculados ao SFH) - Irregularidades caracterizadas – Acolhimento parcial ao apelo trazido pelos indiciados membros do conselho de administração – Recurso de ofício provido em relação à pessoa jurídica – Improvimento aos demais recursos. | crsfn/2010/7702.md |
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## lei-9472
 
@@ -1631,7 +1631,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 68 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
+| art. 68 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
 
 ### art. 97
 
@@ -1643,7 +1643,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 201 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
+| art. 201 | acordao-crsfn | RJ-2005-7229 | 2010-09-14 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desconvocação da assembléia geral sem prévia anuência do conselho de administração da companhia e sem respaldo em interesse social efetivo – Irregularidade de natureza grave caracterizada – Recursos a que se nega provimento. | crsfn/2010/11145.md |
 
 ## lei-9475
 
@@ -1651,7 +1651,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | RJ-2008-9947 | 2013-01-10 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de notícia tempestiva, à companhia, sobre compra de participação acionária e aumento de posição superior a 5% (cinco por cento) de ações preferenciais – Não publicação de fato relevante - Irregularidades caracterizadas – Recursos improvidos – Arquivamento do processo quanto à matéria objeto de subida compulsória. | crsfn/2013/12955.md |
+| art. 2º | acordao-crsfn | RJ-2008-9947 | 2013-01-10 | parcial | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de notícia tempestiva, à companhia, sobre compra de participação acionária e aumento de posição superior a 5% (cinco por cento) de ações preferenciais – Não publicação de fato relevante - Irregularidades caracterizadas – Recursos improvidos – Arquivamento do processo quanto à matéria objeto de subida compulsória. | crsfn/2013/12955.md |
 
 ## lei-9477
 
@@ -1677,7 +1677,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º, § 2º | acordao-crsfn | RJ-2002-6738 | 2009-06-29 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, | crsfn/2009/6180.md |
+| art. 4º, § 2º | acordao-crsfn | RJ-2002-6738 | 2009-06-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas, | crsfn/2009/6180.md |
 
 ## lei-9494
 
@@ -1789,13 +1789,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | acordao-crsfn | SP-24/03 | 2009-09-30 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
+| art. 3º | acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | SP-24/03 | 2009-09-30 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
+| art. 8º | acordao-crsfn | SP-24/03 | 2009-09-30 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios de contabilidade geralmente aceitos – Embaraço à fiscalização – Falta de fiscalização, por integrantes do conselho de administração, dos atos de execução dos negócios sociais a cargo da diretoria – Abuso de poder de controle (aprovação de retenção dos lucros sociais, sem existência de prévia de orçamento de capital justificadora) – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/8928.md |
 
 ## lei-9785
 
@@ -1903,7 +1903,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 0022/2005 | 2014-11-25 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
+| acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | crsfn/2014/12444.md |
 
 ## lei-9983
 
@@ -2191,7 +2191,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP2013/210 | 2021-08-11 | arquivamento | processual | RECURSO VOLUNTÁRIO. Operação fraudulenta no mercado de valores imobiliários. Recurso conhecido e prescrição configurada (art. 1º, da Lei 9.873/99) – Arquivamento do processo; | crsfn/2021/10372-100139-2019-04.md |
-| acordao-crsfn | 04/2007 | 2016-01-21 | condenacao | registro-emissor | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção do registro atualizado de companhia aberta – Não elaboração, no prazo legal, de Demonstrações Financeiras – Não convocação, no prazo legal, de Assembleias Gerais Ordinárias – Adoção de práticas não equitativas - Irregularidades caracterizadas – Apelos voluntários a que se | crsfn/2016/13274.md |
+| acordao-crsfn | 04/2007 | 2016-01-21 | parcial | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de manutenção do registro atualizado de companhia aberta – Não elaboração, no prazo legal, de Demonstrações Financeiras – Não convocação, no prazo legal, de Assembleias Gerais Ordinárias – Adoção de práticas não equitativas - Irregularidades caracterizadas – Apelos voluntários a que se | crsfn/2016/13274.md |
 
 ## lei-12249
 

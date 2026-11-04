@@ -64,7 +64,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 04/01 | 2015-05-26 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos voluntários desprovidos, exceto de um dos recorrentes (provido parcialmente) – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/9058.md |
+| acordao-crsfn | 04/01 | 2015-05-26 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários - Realização de operações fraudulentas – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos voluntários desprovidos, exceto de um dos recorrentes (provido parcialmente) – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/9058.md |
 | acordao-crsfn | SP-2003-0489 | 2011-08-30 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Agente autônomo – Realização de operações fraudulentas – Movimentação de valores à revelia de clientes – Quebra de fidúcia – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2011/10984.md |
 | termo-compromisso | 16/01 | 2005-04-08 | aceito | outros | O Colegiado aprovou a celebração de Termo de Compromisso com o Bank of America – Brasil S.A., incorporador do Banco Liberal S.A., e com o Bank of America S.A. CCVM (atual denominação da Liberal S.A. CCVM), por considerar a proposta conveniente e oportuna. O processo segue contra os demais acusados. | cvm/colegiado/2005/col-20050408-d01.md |
 
@@ -159,7 +159,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## res-cvm-51
 
@@ -336,7 +336,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | IA-2005-1 | 2012-12-05 | condenacao | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
+| acordao-crsfn | IA-2005-1 | 2012-12-05 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento - Falhas na segregação entre a gestão dos condomínios e as demais atividades da instituição financeira – Excesso de limite operacional – Descumprimento de limites de alocação de ativos – Oferta pública de valores mobiliários sem registro na autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2012/12519.md |
 
 ## res-cvm-427
 
@@ -381,8 +381,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | acordao-crsfn | RJ2001/9701 | 2006-03-06 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
-| art. 4º | acordao-crsfn | RJ-2005-5132 | 2010-10-27 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aumento de capital - Subscrição sem assentamento de justificativas pormenorizadas dos aspectos econômicos e financeiros determinantes do preço das ações emitidas pela companhia - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11206.md |
+| art. 4º | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
+| art. 4º | acordao-crsfn | RJ-2005-5132 | 2010-10-27 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Aumento de capital - Subscrição sem assentamento de justificativas pormenorizadas dos aspectos econômicos e financeiros determinantes do preço das ações emitidas pela companhia - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11206.md |
 
 ### art. 8º
 
@@ -458,7 +458,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | RJ2010/3695 | 2019-07-23 | condenacao | auditoria-independente | Recursos voluntários e de ofício. Auditoria Independente. Inobservância de normas emanadas pelo Conselho Federal de Contabilidade e não elaboração do relatório circunstanciado sobre os controles internos da companhia auditada. | crsfn/2019/14430.md |
+| acordao-crsfn | RJ2010/3695 | 2019-07-23 | parcial | auditoria-independente | Recursos voluntários e de ofício. Auditoria Independente. Inobservância de normas emanadas pelo Conselho Federal de Contabilidade e não elaboração do relatório circunstanciado sobre os controles internos da companhia auditada. | crsfn/2019/14430.md |
 
 ## res-cvm-820
 

@@ -1546,7 +1546,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2002/2714 | 2002-11-12 | nao-provido | processual | Pedido de reconsideração de decisão do colegiado. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20021112-d09.md |
 | decisao-colegiado | RJ2002/2714 | 2002-10-29 | — | outros | Pedido de reconsideração de decisão do colegiado. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20021029-d04.md |
 | decisao-colegiado | RJ2002/2714 | 2002-07-11 | nao-provido | contabil-demonstracoes | Recurso contra a decisão da SEP de republicação de demonstrações financeiras. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20020711-d01.md |
-| decisao-colegiado | RJ2001/4228 | 2002-03-12 | parcial | contabil-demonstracoes | O Colegiado manteve decisão que acolhera em parte o recurso da Recrusul S.A. contra determinação da SEP de refazer e republicar demonstrações de 2000. Manteve o acolhimento quanto à destinação do lucro e à nota de instrumentos financeiros, e a exigência de reverter o diferimento da variação cambial passiva e de reelaborar a nota sobre partes relacionadas. | cvm/colegiado/2002/col-20020312-d04.md |
+| decisao-colegiado | RJ2001/4228 | 2002-03-12 | nao-provido | contabil-demonstracoes | O Colegiado manteve decisão que acolhera em parte o recurso da Recrusul S.A. contra determinação da SEP de refazer e republicar demonstrações de 2000. Manteve o acolhimento quanto à destinação do lucro e à nota de instrumentos financeiros, e a exigência de reverter o diferimento da variação cambial passiva e de reelaborar a nota sobre partes relacionadas. | cvm/colegiado/2002/col-20020312-d04.md |
 
 ## icvm-237
 

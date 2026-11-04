@@ -79,27 +79,27 @@ Total: Termos de compromisso, 1714; Acórdãos do CRSFN (recursos contra decisõ
 
 | Tema | Julgados | Subíndice |
 |---|---|---|
-| administracao-carteiras | 110 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
+| administracao-carteiras | 109 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
 | analistas-rating | 21 | [indices/tema-analistas-rating.md](indices/tema-analistas-rating.md) |
-| assembleia-acionistas | 93 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
-| auditoria-independente | 232 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
-| contabil-demonstracoes | 63 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
+| assembleia-acionistas | 91 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
+| auditoria-independente | 233 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
+| contabil-demonstracoes | 64 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
 | criptoativos | 4 | [indices/tema-criptoativos.md](indices/tema-criptoativos.md) |
-| deveres-administradores | 320 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
-| divulgacao-informacoes | 653 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
-| exercicio-irregular | 109 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
+| deveres-administradores | 319 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
+| divulgacao-informacoes | 659 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
+| exercicio-irregular | 108 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
 | fundos-investimento | 200 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
-| informacao-privilegiada | 267 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
+| informacao-privilegiada | 265 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
 | infraestrutura-mercado | 15 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
-| intermediacao | 164 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
-| manipulacao-fraude | 338 | [indices/tema-manipulacao-fraude.md](indices/tema-manipulacao-fraude.md) |
+| intermediacao | 165 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
+| manipulacao-fraude | 340 | [indices/tema-manipulacao-fraude.md](indices/tema-manipulacao-fraude.md) |
 | normativo | 5 | [indices/tema-normativo.md](indices/tema-normativo.md) |
-| ofertas-publicas | 161 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
+| ofertas-publicas | 162 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
 | opa | 15 | [indices/tema-opa.md](indices/tema-opa.md) |
 | outros | 146 | [indices/tema-outros.md](indices/tema-outros.md) |
 | pld | 23 | [indices/tema-pld.md](indices/tema-pld.md) |
 | processual | 71 | [indices/tema-processual.md](indices/tema-processual.md) |
-| registro-emissor | 29 | [indices/tema-registro-emissor.md](indices/tema-registro-emissor.md) |
+| registro-emissor | 24 | [indices/tema-registro-emissor.md](indices/tema-registro-emissor.md) |
 | securitizacao | 7 | [indices/tema-securitizacao.md](indices/tema-securitizacao.md) |
 
 ## Por norma citada

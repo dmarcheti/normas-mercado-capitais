@@ -76,6 +76,11 @@ Regras do resultado:
   - Pedido de reconsideração ou de revisão de decisão do Colegiado: `provido`/`nao-provido` quando o Colegiado reformou ou manteve a decisão. Use `outro` quando ele só admitiu reexaminar ou condicionou a revisão a exigências ainda a cumprir.
   - `parcial`: pedido ou recurso atendido em parte, ou vários pedidos com decisões em sentidos diferentes.
   - `conhecimento`: o Colegiado não conheceu do recurso ou só tomou conhecimento.
+- No acórdão do CRSFN, o resultado é o que fica valendo depois do acórdão, para o conjunto dos acusados:
+  - Recurso voluntário é do acusado condenado pela CVM; recurso de ofício é da CVM, quando ela absolveu ou arquivou. Recurso de ofício negado mantém a absolvição.
+  - `condenacao`: só condenações ficam valendo (voluntários negados e, se houver recurso de ofício, ele provido).
+  - `absolvicao`: só absolvições ficam valendo (voluntários providos, ofício negado).
+  - `parcial`: ficam valendo condenação e absolvição no mesmo processo, por exemplo, voluntários negados e ofício negado ("Recursos improvidos" num acórdão com recursos voluntários e de ofício), ou voluntário provido em parte.
 - No termo de compromisso:
   - `aceito`/`rejeitado`: a decisão sobre a proposta.
   - Várias propostas com decisões diferentes: `outro`.

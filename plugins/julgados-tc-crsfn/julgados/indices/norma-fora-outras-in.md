@@ -161,7 +161,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 05/00 | 2009-02-16 | condenacao | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
+| acordao-crsfn | 05/00 | 2009-02-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
 
 ## in-480
 
@@ -216,7 +216,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. REALIZAÇÃO DE OFERTA PÚBLICA DE AÇÕES SEM O REGISTRO NA CVM. DESCUMPRIMENTO AO ARTIGO 19 DA LEI Nº 6.385/1976 E AO ARTIGO 2º DA INSTRUÇÃO CVM Nº 400/2003. Inocorrência de nulidade de citação ou de prescrição. Realização de oferta pública de baixo impacto e ausência de relevantes prejuízos a investidores e ao Mercado. Recurso conhecido e parcialmente provido. | crsfn/2022/10372-100008-2021-33.md |
-| acordao-crsfn | 30/2005 | 2020-04-14 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
 
 ## in-834
 

@@ -18,7 +18,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, § 3º | acordao-crsfn | 14/00 | 2008-01-29 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsa de valores – Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2008/7359.md |
+| art. 7º, § 3º | acordao-crsfn | 14/00 | 2008-01-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsa de valores – Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2008/7359.md |
 | art. 7º, § 3º | acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Contratação de agentes autônomos de | crsfn/2011/8254.md |
 | art. 7º, § 3º | termo-compromisso | 19957.003200/2017-08 | 2018-05-22 | rejeitado | administracao-carteiras | O Colegiado, por unanimidade, rejeitou as propostas de termo de compromisso da administradora e da gestora de FIPs e de seus diretores, acompanhando o Comitê. Acusação: falta de diligência na administração e gestão de FIPs (ICVM 409, arts. 65, XV, e 65-A, I). A PFE/CVM apontou óbice legal sem indenização aos cotistas; sem adesão à contraproposta do Comitê. | cvm/colegiado/2018/col-20180522-d1034.md |
 
@@ -26,7 +26,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | 03/95 | 2010-08-18 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
+| art. 11 | acordao-crsfn | 03/95 | 2010-08-18 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
 | art. 11 | acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Contratação de agentes autônomos de | crsfn/2011/8254.md |
 | art. 11, inciso II | acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Contratação de agentes autônomos de | crsfn/2011/8254.md |
 | art. 11, inciso II, alínea b | acordao-crsfn | IA-1998-12 | 2011-04-27 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Contratação de agentes autônomos de | crsfn/2011/8254.md |
@@ -35,7 +35,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | 03/95 | 2010-08-18 | condenacao | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
+| art. 18 | acordao-crsfn | 03/95 | 2010-08-18 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
 
 ## Citada sem dispositivo identificado
 

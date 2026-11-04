@@ -53,7 +53,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 24 | acordao-crsfn | RJ-2003-11503 | 2009-07-21 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Auditoria Independente - Descumprimento de normas e procedimentos disciplinares da atividade profissional (insuficiência do nº de horas despendidas, em detrimento das circularizações necessárias; falta de papéis de trabalho e de planejamento dos serviços) - Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/9426.md |
+| art. 24 | acordao-crsfn | RJ-2003-11503 | 2009-07-21 | parcial | auditoria-independente | RECURSO VOLUNTÁRIO E DE OFÍCIO - Mercado de valores mobiliários – Auditoria Independente - Descumprimento de normas e procedimentos disciplinares da atividade profissional (insuficiência do nº de horas despendidas, em detrimento das circularizações necessárias; falta de papéis de trabalho e de planejamento dos serviços) - Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2009/9426.md |
 
 ## art. 56
 
