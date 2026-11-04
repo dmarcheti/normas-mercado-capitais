@@ -304,6 +304,25 @@ def _numero(titulo):
     return int(m.group(1)) if m else None
 
 
+def resolucao_do_acervo(n, titulo, url, html, estoque):
+    """Entrada de uma resolução no acervo.json, a partir da página dela no site da CVM.
+
+    Usada aqui e pelo atualizar.py (classe A), para a entrada nova ter o mesmo formato."""
+    pag, det = extrair_pagina(html), detalhes_da_pagina(html)
+    cons = pag["url_consolidado"]
+    ementa = pag["ementa"] or det["ementa"]  # Res. 122: ementa num <div>, sem <p>
+    return {
+        "numero": n, "titulo": titulo, "data": pag["data"], "dou": pag["dou"] or det["dou"],
+        "ementa": ementa, "no_estoque": n in estoque,
+        "situacao": situacao_resolucao(titulo, det["revogada"], ementa, n in estoque),
+        "revogada": det["revogada"],
+        "alteradoras": [a["numero"] for a in pag["alteradoras"]],
+        "consolidado": {k: v for k, v in cons.items() if k in ("docx", "pdf", "htm")},
+        "consolidado_em_partes": len(cons.get("partes", [])),
+        "ato": pag["url_ato"], "url_pagina": url,
+    }
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--cache", default="dados/paginas-cvm")
@@ -320,19 +339,7 @@ def main(argv=None):
     for it in sorted(busca["resolucoes"], key=lambda x: _numero(x["titulo"])):
         n = _numero(it["titulo"])
         html = _get(it["url"], os.path.join(c, "resol%03d.html" % n))
-        pag, det = extrair_pagina(html), detalhes_da_pagina(html)
-        cons = pag["url_consolidado"]
-        ementa = pag["ementa"] or det["ementa"]  # Res. 122: ementa num <div>, sem <p>
-        resolucoes.append({
-            "numero": n, "titulo": it["titulo"], "data": pag["data"], "dou": pag["dou"] or det["dou"],
-            "ementa": ementa, "no_estoque": n in estoque,
-            "situacao": situacao_resolucao(it["titulo"], det["revogada"], ementa, n in estoque),
-            "revogada": det["revogada"],
-            "alteradoras": [a["numero"] for a in pag["alteradoras"]],
-            "consolidado": {k: v for k, v in cons.items() if k in ("docx", "pdf", "htm")},
-            "consolidado_em_partes": len(cons.get("partes", [])),
-            "ato": pag["url_ato"], "url_pagina": it["url"],
-        })
+        resolucoes.append(resolucao_do_acervo(n, it["titulo"], it["url"], html, estoque))
 
     instrucoes = []
     for it in busca["instrucoes"]:

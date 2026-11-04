@@ -32,7 +32,8 @@ Sem raiz posicional, o script cuida das normas e de todo `plugins/julgados-*/jul
 uma raiz chamada `julgados`, só dela (normas lidas do normas.json); com outra raiz, só normas.
 
 Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO] [--perimetro CAMINHO]
-                               [--acervo-bcb CAMINHO]              grava os arquivos
+                               [--acervo-bcb CAMINHO] [--pendentes CAMINHO]
+                                                                   grava os arquivos
      python3 scripts/indice.py ... --verificar                    saída 1 se defasados
 A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
 gravar, apaga de `indices/` o subíndice que não é mais gerado; `--verificar` acusa
@@ -57,6 +58,9 @@ RAIZ_PADRAO = os.path.join(REPO, "plugins", "normas", "normas")
 ACERVO_PADRAO = os.path.join(REPO, "fontes", "acervo.json")
 PERIMETRO_PADRAO = os.path.join(REPO, "fontes", "perimetro-camada4.json")
 ACERVO_BCB_PADRAO = os.path.join(REPO, "fontes", "acervo-bcb.json")
+# Atos publicados e ainda não aplicados ao texto (classes B1 e C do atualizar.py): lista de
+# {norma, ato, ato_url, data_dou, data_deteccao, classe}. Vazia, o indice.md não muda.
+PENDENTES_PADRAO = os.path.join(REPO, "fontes", "pendentes.json")
 PASTA_SUBINDICES = "indices"
 SEM_GRUPO = "Sem grupo no Estoque Regulatório"
 AVISO = ("Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos "
@@ -412,7 +416,31 @@ def _md_alteradoras(atos):
     return md + [""]
 
 
-def _md_resumo(contagens, n_citadas=0):
+def ler_pendentes(caminho):
+    if not caminho or not os.path.exists(caminho):
+        return []
+    with open(caminho, encoding="utf-8") as f:
+        dados = json.load(f)
+    return dados if isinstance(dados, list) else []
+
+
+def _md_pendentes(pendentes):
+    if not pendentes:
+        return []
+    md = ["## Atos publicados ainda não aplicados", "",
+          "O texto destas normas ainda não traz a alteração do ato: aguarda o texto consolidado "
+          "do órgão. Confira o ato antes de citar o dispositivo alterado.", "",
+          "| Norma | Ato | DOU | Detectado em |", "|---|---|---|---|"]
+    for p in sorted(pendentes, key=lambda x: (x.get("norma") or "", x.get("ato") or "")):
+        ato = _celula(p.get("ato"))
+        if p.get("ato_url"):
+            ato = "[%s](%s)" % (ato, p["ato_url"])
+        md.append("| %s | %s | %s | %s |" % (_celula(p.get("norma")), ato,
+                                            p.get("data_dou") or "", p.get("data_deteccao") or ""))
+    return md + [""]
+
+
+def _md_resumo(contagens, n_citadas=0, pendentes=()):
     md = [
         "# Índice das normas", "", AVISO, GERADO, "",
         "## Perímetro", "",
@@ -437,10 +465,11 @@ def _md_resumo(contagens, n_citadas=0):
                   "autorregulação do acervo que o citam (%d norma(s) citada(s); extração por script)." % (rel, rel, n_citadas))
     md.append("- Os julgados da CVM e do CRSFN ficam nos plugins `julgados-*`. Julgado não é norma: diz o que "
               "se decidiu num caso, com a redação da época.")
-    return md + [""]
+    md.append("")
+    return md + _md_pendentes(pendentes)
 
 
-def gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None):
+def gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None, pendentes=PENDENTES_PADRAO):
     grupos, oficios = ler_acervo(acervo)
     titulos_oc = {_slug_do_verbete(oc): oc["titulo"] for oc in oficios if oc.get("titulo")}
     caminhos = arquivos_de_normas(raiz)
@@ -484,7 +513,7 @@ def gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None):
         contagens.append((nome, titulo, len(do_tipo), extra))
     citados = _citacoes_do_acervo(raiz, itens)
     arquivos.update(_md_citacoes(citados, {i["id"]: i for i in itens}))
-    arquivos["indice.md"] = "\n".join(_md_resumo(contagens, len(citados))).rstrip("\n") + "\n"
+    arquivos["indice.md"] = "\n".join(_md_resumo(contagens, len(citados), ler_pendentes(pendentes))).rstrip("\n") + "\n"
     publicos = [{k: v for k, v in i.items() if not k.startswith("_")} for i in itens]
     arquivos["normas.json"] = json.dumps(publicos, ensure_ascii=False, indent=2) + "\n"
     return arquivos, publicos
@@ -826,14 +855,14 @@ def _sobrando(raiz, arquivos, pastas=(PASTA_SUBINDICES,), raiz_md=(),
     return sorted(set(sobra))
 
 
-def _alvos(args, acervo, perimetro, acervo_bcb):
+def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO):
     """[(raiz, arquivos, sobrando, descrição)] a verificar ou gravar."""
     raiz = args[0] if args else None
     alvos = []
     normas = None
     if raiz is None or os.path.basename(os.path.normpath(os.path.abspath(raiz))) != "julgados":
         rn = raiz or RAIZ_PADRAO
-        arquivos, itens = gerar_indice(rn, acervo, perimetro, acervo_bcb)
+        arquivos, itens = gerar_indice(rn, acervo, perimetro, acervo_bcb, pendentes)
         alvos.append((rn, arquivos, _sobrando(rn, arquivos), "%d norma(s)" % len(itens)))
         normas = {i["id"]: i for i in itens}
         if raiz is not None:
@@ -851,7 +880,7 @@ def _alvos(args, acervo, perimetro, acervo_bcb):
 
 def main(argv):
     args, acervo, verificar = [], ACERVO_PADRAO, False
-    perimetro, acervo_bcb = PERIMETRO_PADRAO, ACERVO_BCB_PADRAO
+    perimetro, acervo_bcb, pendentes = PERIMETRO_PADRAO, ACERVO_BCB_PADRAO, PENDENTES_PADRAO
     resto = list(argv[1:])
     while resto:
         a = resto.pop(0)
@@ -863,6 +892,8 @@ def main(argv):
             perimetro = resto.pop(0)
         elif a == "--acervo-bcb" and resto:
             acervo_bcb = resto.pop(0)
+        elif a == "--pendentes" and resto:
+            pendentes = resto.pop(0)
         elif a.startswith("--"):
             print(__doc__)
             return 2
@@ -874,7 +905,7 @@ def main(argv):
     if args and not os.path.isdir(args[0]):
         print("indice: %s não existe" % args[0])
         return 2
-    alvos = _alvos(args, acervo, perimetro, acervo_bcb)
+    alvos = _alvos(args, acervo, perimetro, acervo_bcb, pendentes)
     if verificar:
         rc = 0
         for raiz, arquivos, sobrando, desc in alvos:

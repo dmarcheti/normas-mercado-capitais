@@ -97,6 +97,9 @@ ORDEM = [("consolidado", "docx"), ("consolidado", "doc"), ("consolidado", "htm")
 DATA_BASE = time.strftime("%Y-%m-%d")
 NUCLEO = (17, 21, 30, 50, 60, 80, 160, 175)  # já no acervo, com histórico (Fase 2)
 INCLUIR_FORA_DO_ESTOQUE = (249,)  # editada depois da última atualização do Estoque (C1)
+# Resolução nova incluída pelo atualizar.py (classe A) leva "incluida_pela_automacao": true no
+# acervo.json e é tratada como as de INCLUIR_FORA_DO_ESTOQUE (fica fora do Estoque até a CVM
+# atualizá-lo).
 CORTE_OFICIOS = "2022-01-01"  # C8
 LEGIBILIDADE_MIN, PALAVRAS_MIN = 0.5, 50
 OCR_CONFIANCA_MIN = 0.85  # média das páginas; o OCR não passa pela regra da fração alfabética
@@ -217,7 +220,8 @@ def itens_do_acervo(acervo, camada, cache_bcb=CACHE_BCB, cache_pdf=None):
         data_estoque = acervo.get("estoque_regulatorio", {}).get("atualizado_em")
         for r in acervo.get("resolucoes", []):
             n = r["numero"]
-            if n in NUCLEO or not (r["situacao"] == "vigente" or n in INCLUIR_FORA_DO_ESTOQUE):
+            fora_do_estoque = n in INCLUIR_FORA_DO_ESTOQUE or r.get("incluida_pela_automacao")
+            if n in NUCLEO or not (r["situacao"] == "vigente" or fora_do_estoque):
                 continue
             fontes = {"consolidado": r.get("consolidado") or {}, "ato": r.get("ato") or {}}
             alt = [str(a) for a in r.get("alteradoras", [])]
