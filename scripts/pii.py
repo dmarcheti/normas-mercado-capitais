@@ -62,12 +62,15 @@ _RG = re.compile(
     r"(?:\bR\.?\s?G\.?(?=[\s:nN/])|\b[Ii]dentidade(?=\s*(?:n|:))|\b[Cc]arteira\s+de\s+[Ii]dentidade(?:\s+[Pp]rofissional)?|"
     r"\b[Cc][ée]dula\s+de\s+[Ii]dentidade|\bdocumento\s+de\s+identidade|"
     # "portador da C.I n.º" (carteira de identidade; "C.I." sozinha é comunicação interna)
-    r"\bportador[ae]?\s+d[ao]\s+C\.\s?I\b\.?|\bRNE\b)"
+    r"\bportador[ae]?\s+d[ao]\s+C\.\s?I\b\.?|\bRNE\b|"
+    # "TG/SSP/SP n°": RG lido errado pelo OCR, reconhecido pelo órgão emissor
+    r"\b[A-Z]G(?=\s*/\s*SSP\b))"
     r"(?:\s+(?:RNE|RG|R\.G\.)(?![\w]))?"
     r"(?:\s*/\s*[A-Z]{2,}){0,3}\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:[nN]\.?\s?[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
     # o número (com ruído de OCR e órgão emissor) vai até a vírgula, o ponto e vírgula, o " e " ou
     # o "inscrito"/"expedida" seguinte; precisa de 4 dígitos para contar
-    r"((?:\d|[A-Z]\d|(?:RNE-?)?[A-Z]{1,2}-\d)[^,;\n()]{2,38}?(?=\s*(?:[,;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
+    # (vírgula colada em dígito é separador lido errado pelo OCR: "12,345.678-9")
+    r"((?:\d|[A-Z]\d|(?:RNE-?)?[A-Z]{1,2}-\d)(?:[^,;\n()]|,(?=\d)){2,38}?(?=\s*(?:,(?!\d)|[;)\n]|\s+e(?:\s|$)|\s+inscrit|\s+expedid|\s+emitid|\s+portador|\s+CPF|\s+Nome|$))"
     r"(?:\s*,?\s*(?:expedid[ao]|emitid[ao])\s+pel[ao]\s+[A-ZÀ-Ýa-z/\-. ]{2,30}?(?=[,;)\n]|\s+e\s|$))?)")
 
 
@@ -310,6 +313,77 @@ def _testemunhas_bloco(texto):
     return spans
 
 
+# Bloco de assinatura sem o cabeçalho "Testemunhas" (perdido pelo OCR): linha que começa com
+# "Nome:" ("NOme FULANA" sem os dois-pontos, quando o nome em maiúsculas vem logo depois) e tem
+# CPF, RG ou C.I. nas 3 linhas seguintes.
+_ASSIN_NOME_INICIO = re.compile(r"^\s*\**\s*N(?:ome|Ome|OME|óme)\b(?P<dp>\s*:|(?=\s+[A-ZÀ-Ý]{2,}))")
+_ASSIN_NOME = re.compile(r"\bN(?:ome|Ome|OME|óme)\s*:")
+_ASSIN_FIM_NOME = re.compile(r"\bN(?:ome|Ome|OME|óme)\s*:|\bCPF\b|\bR\.?G\b|\bC\.\s?I\.")
+_ASSIN_DOC = re.compile(r"\bCPF\b|\bR\.?\s?G\b|\bC\.\s?I\.|/\s*SSP\b")
+# nome em uma ou duas colunas, só palavras em maiúsculas ("FULANO DE TAL BELTRANO F. DA SILVA")
+_ASSIN_LINHA_MAIUSC = re.compile(r"^[A-ZÀ-Ý][A-ZÀ-Ý'\-.]*(?:\s+[A-ZÀ-Ý][A-ZÀ-Ý'\-.]*)+$")
+# profissão isolada depois da qualificação já cortada ("[dado pessoal retirado], CONTADOR")
+_ASSIN_PROFISSAO = re.compile(re.escape(MARCADOR) + r"\s*,\s*[A-Za-zÀ-ÿ]+(?:\s+[A-Za-zÀ-ÿ]+){0,2}\s*$")
+# na linha do CPF: residência ("Res. N/ Capital") e registro em conselho ("CRC/RS 12.345")
+_ASSIN_RESIDENCIA = re.compile(r"\bRes\.\s*[^\n]*?(?=\s*[-–]?\s*\bCPF\b|\s*$)")
+_ASSIN_CONSELHO = re.compile(
+    r"\b(?:CRC|OAB|CRM|CREA|CRA|CRO|CRECI|CORECON|CRF|CRP|CRMV)[A-Z]{0,4}\s*(?:[/\-]\s*[A-Z]{2})?"
+    r"\s*(?:n[º°o]\.?\s*)?[:\s]*\d[\d.\-/]*")
+
+
+def _assinatura_bloco(texto):
+    """Nome, profissão, residência e registro em conselho no bloco de assinatura sem cabeçalho."""
+    linhas, pos = [], 0
+    for l in texto.split("\n"):
+        linhas.append((pos, l))
+        pos += len(l) + 1
+    spans = []
+    for i, (a, linha) in enumerate(linhas):
+        ini = _ASSIN_NOME_INICIO.match(linha)
+        if not ini:
+            continue
+        seguintes = [(b, l) for b, l in linhas[i + 1:i + 12] if l.strip()][:4]
+        # o documento vem num campo curto do bloco (não em parágrafo ou tabela de cadastro)
+        if not any(_ASSIN_DOC.search(l) and len(l.strip()) <= 90 for _, l in seguintes[:3]):
+            continue
+        # sem os dois-pontos ("NOme FULANA"), só se a linha seguinte for outro campo do bloco
+        if ":" not in ini.group("dp") and not (
+                _ASSIN_NOME_INICIO.match(seguintes[0][1]) or _ASSIN_DOC.search(seguintes[0][1])):
+            continue
+        # nome depois de cada "Nome:" da linha
+        rotulos = [ini] + [m for m in _ASSIN_NOME.finditer(linha)
+                                                       if m.start() > 0 and linha[:m.start()].strip()]
+        com_nome = False
+        for r in rotulos:
+            fim = _ASSIN_FIM_NOME.search(linha, r.end())
+            ini_n, fim_n = r.end(), fim.start() if fim else len(linha)
+            trecho = linha[ini_n:fim_n]
+            nome = trecho.strip(" \t*,;.-–")
+            # até 2 dígitos: ruído de OCR no nome ("Fulana A. de 1", "2ILMA" por "ZILMA")
+            if (nome and nome != MARCADOR and len(re.findall(r"[A-Za-zÀ-ÿ]", nome)) >= 3
+                    and len(re.findall(r"\d", nome)) <= 2):
+                desl = trecho.index(nome)
+                spans.append((a + ini_n + desl, a + ini_n + desl + len(nome)))
+                com_nome = True
+        # "Nome: Nome:" com os nomes em maiúsculas na linha seguinte
+        if not com_nome and seguintes:
+            b, l = seguintes[0]
+            s = l.strip()
+            if _ASSIN_LINHA_MAIUSC.match(s) and not _ASSIN_DOC.search(s):
+                spans.append((b + l.index(s), b + l.index(s) + len(s)))
+        for b, l in seguintes:
+            if len(l.strip()) > 90 or l.lstrip().startswith("#"):
+                break
+            m = _ASSIN_PROFISSAO.search(l)
+            if m:
+                spans.append((b + m.start(), b + m.start() + len(m.group(0).rstrip())))
+            if re.search(r"\bCPF\b", l):
+                spans += [(b + m.start(), b + m.end()) for m in _ASSIN_RESIDENCIA.finditer(l)
+                          if m.group(0).strip() != "Res."]
+                spans += [(b + m.start(), b + m.end()) for m in _ASSIN_CONSELHO.finditer(l)]
+    return spans
+
+
 def limpar_contando(texto):
     """Texto sem dados pessoais e a contagem de cortes por regra."""
     texto = texto or ""
@@ -335,6 +409,8 @@ def limpar_contando(texto):
     aplica("endereco", _enderecos(texto))
     aplica("qualificacao", [m.span() for m in _QUALIF.finditer(texto)])
     aplica("qualificacao", [m.span() for m in _QUALIF2.finditer(texto)])
+    # por último: a profissão isolada só aparece depois do corte da qualificação
+    aplica("assinatura", _assinatura_bloco(texto))
     return texto, cont
 
 

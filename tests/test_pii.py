@@ -392,5 +392,78 @@ class Fase3bVarreduraTest(unittest.TestCase):
         self.assertEqual(pii.limpar(t), t)
 
 
+class Fase3bReauditoriaTest(unittest.TestCase):
+    """Bloco de assinatura de termo digitalizado por OCR sem o cabeçalho "Testemunhas"."""
+
+    def test_rg_com_virgula_do_ocr_depois_de_rotulo(self):
+        t = "RG/SSP/SP n° " + "12,345" + ".678-9\n"
+        self.assertEqual(pii.limpar(t), "RG/SSP/SP n° %s\n" % M)
+        t = "portador da carteira de identidade nº " + "12,345" + ".678-9, inscrito"
+        self.assertEqual(pii.limpar(t), "portador da carteira de identidade nº %s, inscrito" % M)
+        # três dígitos antes da vírgula: a vírgula colada não encerra o número
+        t = "RG nº " + "123,456" + ".789-0, inscrito"
+        self.assertEqual(pii.limpar(t), "RG nº %s, inscrito" % M)
+
+    def test_rg_com_rotulo_trocado_pelo_ocr_antes_de_ssp(self):
+        t = "TG/SSP/SP n° " + "12,345" + ".678*9\n"
+        self.assertEqual(pii.limpar(t), "TG/SSP/SP n° %s\n" % M)
+
+    def test_valor_com_virgula_sem_rotulo_fica(self):
+        self.assertEqual(pii.limpar("multa de R$ " + "98,765" + ".432 e"), "multa de R$ " + "98,765" + ".432 e")
+        self.assertEqual(pii.limpar("taxa de " + "12,345" + ".678-9 ao ano"), "taxa de " + "12,345" + ".678-9 ao ano")
+        self.assertEqual(pii.limpar("SSP/SP n° " + "12,345" + ".678"), "SSP/SP n° " + "12,345" + ".678")
+
+    def test_nome_de_testemunha_sem_cabecalho_com_rg(self):
+        t = ("Rio de Janeiro, 28 de setembro de 2017.\nFULANO COMPROMITENTE\n"
+             "Nome: FULANA EXEMPLO DE TAL Nome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF: CPF:\n\nTexto seguinte.")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r)
+        self.assertIn("Nome: %s Nome:" % M, r)
+        self.assertIn("FULANO COMPROMITENTE", r)
+        self.assertIn("Texto seguinte.", r)
+
+    def test_nome_sem_dois_pontos_do_ocr(self):
+        t = "NOme FULANA EXEMPLO DE TAL\nNome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF:\n"
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r)
+        self.assertTrue(r.startswith("NOme %s\nNome:\nRG" % M), r)
+
+    def test_nome_na_linha_seguinte_em_duas_colunas(self):
+        t = ("Nome: Nome:\nFULANO EXEMPLO DE TAL BELTRANO F. DA SILVA\n"
+             "Brasileiro, casado, administrador, CONTADOR\nCPF: CPF:\n"
+             "Res. N/ Capital - CPF " + CPF_FMT + " CRC/RS 12.345\nTexto seguinte.")
+        r = pii.limpar(t)
+        for x in ("FULANO", "BELTRANO", "CONTADOR", "Capital", "12.345", "CRC"):
+            self.assertNotIn(x, r, x)
+        self.assertIn("Nome: Nome:\n%s\n%s\nCPF: CPF:\n" % (M, M), r)
+        self.assertIn("Texto seguinte.", r)
+
+    def test_nome_de_empresa_sem_documento_fica(self):
+        t = "Nome: ACME S.A.\nCargo: Diretor\nData: 01/02/2017\nAssinatura: ____\nCPF: " + M
+        self.assertEqual(pii.limpar(t), t)
+        t = "Nome: ACME S.A.\nEndereço comercial: Av. Exemplo\n"
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_nome_no_corpo_sem_rotulo_fica(self):
+        t = ("O Diretor FULANO EXEMPLO votou com a relatora.\nNome da companhia: ACME S.A.\n"
+             "CPF dos administradores consta do processo.")
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_cabecalho_de_tabela_de_cadastro_fica(self):
+        t = ("NOME DO CLIENTE IRREGULARIDADES FLS.\nFulano Exemplo Não consta renda mensal; e\n103 e 104\n"
+             "Beltrano Exemplo " + "Não possuiu cópia do CPF. Não declarou rendimento mensal. " * 3 + "\n")
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_nome_com_acento_e_ruido_de_ocr(self):
+        t = "Nóme: Fulana Exemplo Nome: Beltrana A. de 1\nCPF: CPF:\n"
+        self.assertEqual(pii.limpar(t), "Nóme: %s Nome: %s\nCPF: CPF:\n" % (M, M))
+        t = "Nome: 2ILMA EXEMPLO Nome: Fulana\nCPF: CPF:\n"
+        self.assertEqual(pii.limpar(t), "Nome: %s Nome: %s\nCPF: CPF:\n" % (M, M))
+
+    def test_linha_seguinte_com_texto_nao_e_cortada(self):
+        t = "Nome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF:\n"
+        self.assertEqual(pii.limpar(t), "Nome:\nRG/SSP/SP n° %s\nCPF:\n" % M)
+
+
 if __name__ == "__main__":
     unittest.main()
