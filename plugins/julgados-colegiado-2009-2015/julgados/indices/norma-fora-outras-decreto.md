@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2008/11892 | 2011-01-11 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11892. | cvm/colegiado/2011/col-20110111-d04.md |
+| decisao-colegiado | RJ2008/11892 | 2011-01-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11892. | cvm/colegiado/2011/col-20110111-d04.md |
 
 ## decreto-177
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | Pedido de dispensa parcial da Instrução CVM 28/83 (art. 10, I, a) para contratar agente fiduciário já atuante em emissões de empresas do mesmo grupo, em debêntures do grupo CPFL com esforços restritos. Indeferido por maioria, com a regra da Instrução mantida. | cvm/colegiado/2009/col-20090728-d03.md |
+| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | O Colegiado, por maioria, indeferiu pedido de dispensa da vedação da Instrução 28/83 (art. 10, I, a) à contratação de agente fiduciário do mesmo grupo econômico, para sete ofertas de debêntures de companhias desse grupo. Entendeu que a Lei 6.404/76 protege mais os debenturistas e que a questão pode ser resolvida por mecanismos de mercado. | cvm/colegiado/2009/col-20090728-d03.md |
 
 ## decreto-434
 
@@ -30,8 +30,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/2986 | 2013-08-13 | indeferido | fundos-investimento | Recurso da Caixa, administradora do BB FII Progressivo, contra determinação da SIN sobre quórum para destituição do administrador. Colegiado, por unanimidade, entendeu que essa matéria não exige quórum qualificado (art. 20 da ICVM 472) e manteve a determinação de ajuste do regulamento. | cvm/colegiado/2013/col-20130813-d01.md |
-| decisao-colegiado | RJ2007/2257 | 2010-12-14 | indeferido | divulgacao-informacoes | Recurso de investidor contra decisão da SEP sobre reclamações relativas ao programa de recompra de ações preferenciais da Petrobras, à divulgação de declaração de comercialidade de reservas e a aumento de capital. Recurso indeferido por não haver indícios de irregularidade (Instrução CVM 10/80 e 358/02). | cvm/colegiado/2010/col-20101214-d14.md |
+| decisao-colegiado | RJ2012/2986 | 2013-08-13 | nao-provido | fundos-investimento | O Colegiado manteve a determinação da SIN, acompanhando o voto de um diretor: a destituição e a substituição do administrador de FII deixaram de constar do rol de quórum qualificado do art. 20, parágrafo único, da ICVM 472/08, e o BB FII Progressivo deve ajustar o regulamento, excluindo incisos do art. 41, §§ 3º e 4º. | cvm/colegiado/2013/col-20130813-d01.md |
+| decisao-colegiado | RJ2007/2257 | 2010-12-14 | nao-provido | divulgacao-informacoes | O Colegiado indeferiu recurso de investidor contra entendimento da SOI e da SEP, que não encontraram irregularidades no programa de recompra de ações preferenciais da Petrobras, na divulgação de declaração de comercialidade de reservas (29.12.06) e no aumento de capital de 30.04.10. Acompanhou o voto do relator. | cvm/colegiado/2010/col-20101214-d14.md |
 
 ## decreto-1035
 
@@ -39,9 +39,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/2393 | 2013-03-19 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
-| decisao-colegiado | RJ2012/11664 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
-| decisao-colegiado | RJ2012/11663 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
+| decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
+| decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
+| decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
 | decisao-colegiado | RJ2011/8606 | 2011-10-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8606. | cvm/colegiado/2011/col-20111011-d07.md |
 
 ## decreto-1935
@@ -50,15 +50,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, inciso I, alínea a | decisao-colegiado | RJ2015/1017 | 2015-07-14 | nao-provido | registro-emissor | Pedido de reconsideração contra decisão que manteve o cancelamento de registro de companhia aberta por atraso reiterado de informações periódicas. Recuperação judicial não afasta a obrigação de informar; a ICVM 480, art. 36, dispensa apenas o FRE. Não conhecido; mérito mantido. | cvm/colegiado/2015/col-20150714-d9581.md |
+| art. 3º, inciso I, alínea a | decisao-colegiado | RJ2015/1017 | 2015-07-14 | nao-provido | registro-emissor | O Colegiado manteve sua decisão de 14.04.2015 e a decisão da SEP que cancelou o registro de companhia aberta da Clarion S.A. Agroindustrial, por não haver erro, omissão, obscuridade ou contradição (Deliberação CVM 463/2003, item IX). Pelo voto do relator, a recuperação judicial não isenta da prestação de informações, pois a ICVM 480 só dispensa o FRE (art. 36). | cvm/colegiado/2015/col-20150714-d9581.md |
 
 ### art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º | decisao-colegiado | RJ2013/5583 | 2013-12-10 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/5583. | cvm/colegiado/2013/col-20131210-d07.md |
-| art. 9º | decisao-colegiado | RJ2013/7386 | 2013-12-10 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7386. | cvm/colegiado/2013/col-20131210-d08.md |
-| art. 9º | decisao-colegiado | RJ2013/7388 | 2013-12-10 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7388. | cvm/colegiado/2013/col-20131210-d09.md |
+| art. 9º | decisao-colegiado | RJ2013/5583 | 2013-12-10 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/5583. | cvm/colegiado/2013/col-20131210-d07.md |
+| art. 9º | decisao-colegiado | RJ2013/7386 | 2013-12-10 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7386. | cvm/colegiado/2013/col-20131210-d08.md |
+| art. 9º | decisao-colegiado | RJ2013/7388 | 2013-12-10 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/7388. | cvm/colegiado/2013/col-20131210-d09.md |
 
 ## decreto-2521
 
@@ -67,9 +67,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 85 | decisao-colegiado | RJ2011/8606 | 2011-10-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8606. | cvm/colegiado/2011/col-20111011-d07.md |
-| art. 85 | decisao-colegiado | RJ2012/11663 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
-| art. 85 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
-| art. 85 | decisao-colegiado | RJ2013/2393 | 2013-03-19 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
+| art. 85 | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
+| art. 85 | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
+| art. 85 | decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
 
 ## decreto-2617
 
@@ -77,7 +77,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/10913 | 2014-03-25 | parcial | assembleia-acionistas | Recursos da Oi S.A. e do Tempo Capital contra entendimento da SEP sobre operações de união com a Portugal Telecom: voto de controladores na avaliação dos Ativos PT (art. 115, § 1º, Lei 6.404/1976) e direito de recesso na incorporação de ações pela Telpart. Admitido o voto dos controladores da Oi, exceto a PT e sociedades ligadas. | cvm/colegiado/2014/col-20140325-d07.md |
+| decisao-colegiado | RJ2013/10913 | 2014-03-25 | parcial | assembleia-acionistas | Recursos da Tempo Capital Principal FI de Ações e da Oi S.A. contra entendimentos da SEP sobre reorganização Oi-PT. Por maioria, o Colegiado entendeu que não há benefício particular que impeça o voto dos controladores da Oi, exceto PT e sociedades ligadas, na assembleia de 27.03.2014 (art. 115, §1º, Lei 6.404/76). Nos demais pontos, acompanhou o voto da relatora. | cvm/colegiado/2014/col-20140325-d07.md |
 
 ## decreto-2627
 
@@ -85,8 +85,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/5993 | 2014-01-28 | indeferido | registro-emissor | Recurso da Azul S.A. contra indeferimento pela SEP de registro inicial de companhia aberta: estatuto atribui às preferenciais vantagens de 75 vezes as das ordinárias, em conflito com o art. 15, §2º da Lei 6.404/76, segundo a SEP e a PFE. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
-| decisao-colegiado | RJ2012/0249 | 2012-02-16 | nao-provido | assembleia-acionistas | Recurso de fundos acionistas da Telemar Norte Leste S.A. contra decisão da SEP sobre exigência de titularidade ininterrupta das ações, desde o fato relevante, para exercício do direito de recesso (art. 137 da Lei 6.404/1976). Colegiado indeferiu o recurso. | cvm/colegiado/2012/col-20120216-d04.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
+| decisao-colegiado | RJ2012/0249 | 2012-02-16 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso de fundos acionistas da Telemar Norte Leste S.A. contra decisão da SEP que indeferiu reclamação sobre direito de recesso. Manteve a exigência de titularidade ininterrupta das ações desde o fato relevante de 24.05.2011 até a assembleia da reorganização, acompanhando a relatora e a SEP. | cvm/colegiado/2012/col-20120216-d04.md |
 
 ## decreto-2673
 
@@ -94,7 +94,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2011/7085 | 2012-06-19 | nao-provido | contabil-demonstracoes | Recurso da Telebrás contra determinação da SEP de refazer e republicar as demonstrações de 2011, reclassificando do patrimônio líquido para o passivo o AFAC da União (CPC 39; Deliberação CVM 604/09). O relator entendeu que o AFAC não atendia às condições do CPC 39 para instrumento patrimonial. | cvm/colegiado/2012/col-20120619-d04.md |
+| decisao-colegiado | RJ2011/7085 | 2012-06-19 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SEP e determinou o refazimento das DFs de 2011 da Telebrás para corrigir a contabilização do AFAC da União, e a reapresentação do Formulário 1º ITR/2012. Como alternativa à republicação, admitiu fato relevante com as retificações, acompanhando o voto do relator, que seguiu a SNC. | cvm/colegiado/2012/col-20120619-d04.md |
 
 ## decreto-3995
 
@@ -102,12 +102,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/13442 | 2014-01-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória extraordinária. Proc. RJ2013/13442. | cvm/colegiado/2014/col-20140107-d09.md |
-| decisao-colegiado | RJ2012/13046 | 2013-02-19 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13046. | cvm/colegiado/2013/col-20130219-d05.md |
-| decisao-colegiado | RJ2012/0222 | 2012-06-19 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/0222. | cvm/colegiado/2012/col-20120619-d05.md |
-| decisao-colegiado | RJ2011/14493 | 2012-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/14493. | cvm/colegiado/2012/col-20120605-d03.md |
-| decisao-colegiado | RJ2009/7871 | 2009-09-01 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2009/7871. | cvm/colegiado/2009/col-20090901-d05.md |
-| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | Pedido de dispensa parcial da Instrução CVM 28/83 (art. 10, I, a) para contratar agente fiduciário já atuante em emissões de empresas do mesmo grupo, em debêntures do grupo CPFL com esforços restritos. Indeferido por maioria, com a regra da Instrução mantida. | cvm/colegiado/2009/col-20090728-d03.md |
+| decisao-colegiado | RJ2013/13442 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória extraordinária. Proc. RJ2013/13442. | cvm/colegiado/2014/col-20140107-d09.md |
+| decisao-colegiado | RJ2012/13046 | 2013-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/13046. | cvm/colegiado/2013/col-20130219-d05.md |
+| decisao-colegiado | RJ2012/0222 | 2012-06-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/0222. | cvm/colegiado/2012/col-20120619-d05.md |
+| decisao-colegiado | RJ2011/14493 | 2012-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/14493. | cvm/colegiado/2012/col-20120605-d03.md |
+| decisao-colegiado | RJ2009/7871 | 2009-09-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2009/7871. | cvm/colegiado/2009/col-20090901-d05.md |
+| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | O Colegiado, por maioria, indeferiu pedido de dispensa da vedação da Instrução 28/83 (art. 10, I, a) à contratação de agente fiduciário do mesmo grupo econômico, para sete ofertas de debêntures de companhias desse grupo. Entendeu que a Lei 6.404/76 protege mais os debenturistas e que a questão pode ser resolvida por mecanismos de mercado. | cvm/colegiado/2009/col-20090728-d03.md |
 
 ## decreto-6018
 
@@ -115,7 +115,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/4470 | 2009-11-17 | deferido | opa | Pedido da Dersa – Desenvolvimento Rodoviário S.A. de dispensa de OPA para cancelamento de registro de companhia aberta (Lei 6.404/76, art. 4º, §4º; Instrução CVM 361/02, art. 16). Área técnica opinou pela não incidência de OPA; voto divergente admitiu procedimento diferenciado (art. 34 da Instrução 361/02). Colegiado acatou o pedido. | cvm/colegiado/2009/col-20091117-d37.md |
+| decisao-colegiado | RJ2009/4470 | 2009-11-17 | deferido | opa | O Colegiado deferiu dispensa de OPA para cancelamento de registro de companhia aberta (art. 16, Instrução 361/02), pelos fundamentos da declaração de voto de um diretor. Esse voto, em consonância com a área técnica (SRE), admitiu a aquisição das ações dispersas em mercado sob procedimento diferenciado (art. 34), reservando valores a acionistas não localizados ou sem resposta. | cvm/colegiado/2009/col-20091117-d37.md |
 
 ## decreto-6022
 
@@ -123,7 +123,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/8750 | 2010-03-23 | outro | institucional | Aprovação de minuta de convênio entre a CVM e a Receita Federal do Brasil para fornecimento de dados do Sistema Público de Escrituração Digital (SPED), observado o Decreto 6.022/07. | cvm/colegiado/2010/col-20100323-d01.md |
+| decisao-colegiado | RJ2009/8750 | 2010-03-23 | outro | institucional | O Colegiado aprovou a minuta de convênio entre a CVM e a Secretaria da Receita Federal do Brasil, para que a RFB atenda às solicitações da CVM de dados do Sistema Público de Escrituração Digital (SPED), observados os termos do Decreto 6022/07. | cvm/colegiado/2010/col-20100323-d01.md |
 
 ## decreto-6304
 
@@ -131,8 +131,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | RJ2011/13946 | 2012-01-24 | indeferido | fundos-investimento | Pedido do administrador do Investimage 1 FUNCINE de prorrogação do prazo para enquadramento da carteira (art. 78, §1º, da Instrução CVM 398/03). Prorrogação autorizada até 31.12.2012. | cvm/colegiado/2012/col-20120124-d05.md |
-| art. 22 | decisao-colegiado | RJ2010/10966 | 2012-01-31 | deferido | fundos-investimento | Consulta da BNY Mellon, administradora de FUNCINE, sobre o art. 9º da Instrução CVM 398/03. Colegiado admitiu como direcionados recursos aprovados pelo comitê e formalizados com o produtor, ainda aplicados em títulos públicos. | cvm/colegiado/2012/col-20120131-d02.md |
+| art. 22 | decisao-colegiado | RJ2011/13946 | 2012-01-24 | deferido | fundos-investimento | O Colegiado autorizou a prorrogação do prazo de enquadramento da carteira do Investimage 1 FUNCINE até 31.12.2012 (fim do exercício), com base no art. 78, §1º, da Instrução CVM 398/03, tendo em vista a manifestação favorável da área técnica (Memo/SIN/GIE/16/2012). | cvm/colegiado/2012/col-20120124-d05.md |
+| art. 22 | decisao-colegiado | RJ2010/10966 | 2012-01-31 | outro | fundos-investimento | Em consulta, o Colegiado entendeu que os recursos direcionados do art. 9º da Instrução CVM 398/03 englobam os já comprometidos com projetos cinematográficos e ainda aplicados em títulos públicos, desde que aprovados pelo comitê de investimentos e com compromisso de investimento celebrado. | cvm/colegiado/2012/col-20120131-d02.md |
 
 ## decreto-6382
 
@@ -140,13 +140,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/11299 | 2014-10-29 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2014/11299. | cvm/colegiado/2014/col-20141029-d07.md |
-| decisao-colegiado | 400/2003; RJ2014/9466 | 2014-10-29 | deferido | ofertas-publicas | Pedido de dispensa de registro de oferta pública de contratos de investimento coletivo de unidades de hotel (art. 4º da Instrução CVM 400/2003), com dispensa de contratação de instituição distribuidora e de registro de emissor. Deferido por unanimidade, condicionado à prévia aprovação dos materiais pela SRE e à divulgação e auditoria contínuas das informações financeiras. | cvm/colegiado/2014/col-20141029-d06.md |
-| decisao-colegiado | RJ2014/10641 | 2014-10-29 | deferido | ofertas-publicas | Anuência da CVM, nos termos da Resolução CMN 2.391/1997, para a 4ª emissão privada de debêntures simples com garantia real, em duas séries, da Companhia de Saneamento do Paraná (Sanepar), sociedade de economia mista controlada pelo Estado. Anuência concedida. | cvm/colegiado/2014/col-20141029-d05.md |
-| decisao-colegiado | 400/2003; RJ2014/6202 | 2014-10-29 | deferido | ofertas-publicas | Pedido de dispensa de registro de oferta pública de contratos de investimento coletivo de unidades de hotel (art. 4º da Instrução CVM 400/2003), com dispensa de contratação de instituição distribuidora e de registro de emissor. Deferido por unanimidade, condicionado à prévia aprovação dos materiais de divulgação pela SRE. | cvm/colegiado/2014/col-20141029-d04.md |
-| decisao-colegiado | RJ2010/16260 | 2014-10-29 | outro | institucional | Aprovação, por unanimidade, do segundo termo aditivo ao acordo de cooperação técnica entre a CVM e o Ministério da Justiça, por meio da Senacon, prorrogando a vigência do acordo para intercâmbio de informações, fiscalização e educação de investidores. | cvm/colegiado/2014/col-20141029-d03.md |
-| decisao-colegiado | RJ2014/7088 | 2014-10-29 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7088. | cvm/colegiado/2014/col-20141029-d02.md |
-| decisao-colegiado | RJ2014/7076 | 2014-10-29 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
+| decisao-colegiado | RJ2014/11299 | 2014-10-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2014/11299. | cvm/colegiado/2014/col-20141029-d07.md |
+| decisao-colegiado | 400/2003; RJ2014/9466 | 2014-10-29 | deferido | ofertas-publicas | O Colegiado deferiu pedidos de dispensa (registro e distribuição de oferta, prazos e registro de emissor) para CICs de unidades hoteleiras, em linha com a SRE, favorável sob condições de prévia aprovação de materiais e de divulgação, durante toda a vida do empreendimento, de informações financeiras auditadas. | cvm/colegiado/2014/col-20141029-d06.md |
+| decisao-colegiado | RJ2014/10641 | 2014-10-29 | deferido | ofertas-publicas | O Colegiado concedeu anuência à SANEPAR para a distribuição privada de debêntures simples e nominativas, com garantia real, da 4ª emissão, em duas séries, nos termos do art. 1º da Resolução CMN 2.391/97, acompanhando a manifestação favorável da SRE. | cvm/colegiado/2014/col-20141029-d05.md |
+| decisao-colegiado | 400/2003; RJ2014/6202 | 2014-10-29 | deferido | ofertas-publicas | O Colegiado deferiu os pedidos de dispensa de registro de oferta de CICs de empreendimento hoteleiro, de distribuidor, de prazos e de registro de emissor, em linha com o Memorando da SRE, que propôs condicionar o deferimento à prévia aprovação dos materiais de divulgação. Reiterou que as informações financeiras devem ser auditadas e divulgadas durante toda a vida do empreendimento. | cvm/colegiado/2014/col-20141029-d04.md |
+| decisao-colegiado | RJ2010/16260 | 2014-10-29 | outro | institucional | O Colegiado aprovou, por unanimidade, a minuta do Segundo Termo Aditivo ao Acordo de Cooperação Técnica entre a CVM e o Ministério da Justiça, por meio da Senacon, para prorrogar a vigência do acordo e manter e intensificar o intercâmbio de informações, a regulação, a fiscalização e a educação de investidores. | cvm/colegiado/2014/col-20141029-d03.md |
+| decisao-colegiado | RJ2014/7088 | 2014-10-29 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7088. | cvm/colegiado/2014/col-20141029-d02.md |
+| decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
 
 ## decreto-6647
 
@@ -154,7 +154,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/3455 | 2009-04-28 | provido | assembleia-acionistas | Pedido de acionista da Eletrobrás para interromper o prazo de convocação da AGO de 30.04.09, por causa da manutenção de reserva especial de dividendos. Colegiado indeferiu: o art. 124, II, da Lei 6.404/76 e o art. 3º da Instrução CVM 372/02 não se aplicam a AGO, e a retenção de lucros já fora considerada irregular (art. 202, §5º). | cvm/colegiado/2009/col-20090428-d01.md |
+| decisao-colegiado | RJ2009/3455 | 2009-04-28 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedido de interrupção do prazo de convocação da AGO da Eletrobrás de 30.04.09, acompanhando a SEP: o art. 124, II, da Lei 6.404/76 não se aplica a AGOs, e o Colegiado já considerara irregulares reservas e retenção de lucros em recentes AGOs, por haver saldo em reserva especial (art. 202, §5º). | cvm/colegiado/2009/col-20090428-d01.md |
 
 ## decreto-7212
 
@@ -162,8 +162,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/3677 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | Recurso de pessoa física contra notificação complementar de multa de mora sobre multa pecuniária de processo administrativo (Inquérito CVM 15/97) não paga na data de vencimento. Argumentos já vencidos e sem fato novo (Lei 9.784/99, art. 65). Indeferido, multa mantida. | cvm/colegiado/2014/col-20140107-d10.md |
-| decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | multa-cominatoria-taxa | Recurso do acusado contra multa de mora (art. 37-A da Lei 10.522/02) incidente sobre multa pecuniária de R$ 20.000,00 não paga no vencimento. Indeferido, mantida a multa de mora; a discussão sobre a multa pecuniária estaria preclusa, segundo a Procuradoria da CVM. | cvm/colegiado/2013/col-20130709-d06.md |
+| decisao-colegiado | RJ2012/3677 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recurso de pessoa física contra a cobrança de multa de mora pela SAD sobre o valor principal da multa pecuniária do Inquérito Administrativo CVM 15/97, com base no Memo/SAD/GAC/Nº 342/2013. | cvm/colegiado/2014/col-20140107-d10.md |
+| decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu recurso contra multa de mora (art. 37-A da Lei 10.522/02) incidente sobre a multa pecuniária do PAS RJ2007/8672, mantendo a multa de mora. Fundamento: manifestação da área técnica e da Procuradoria Jurídica, que viu preclusão consumativa quanto à multa pecuniária. | cvm/colegiado/2013/col-20130709-d06.md |
 
 ## decreto-7259
 
@@ -171,7 +171,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP2010/0279 | 2010-12-14 | outro | normativo | Deliberação que regulamenta o Decreto 7.259/2010 e executa no território nacional a Resolução 1.929/10 do Conselho de Segurança da ONU, impondo sanções ao Irã. | cvm/colegiado/2010/col-20101214-d12.md |
+| decisao-colegiado | SP2010/0279 | 2010-12-14 | outro | normativo | O Colegiado aprovou a edição de Deliberação para regulamentar o Decreto nº 7.259/10, que dispõe sobre a execução, no território nacional, da Resolução nº 1.929/10 do Conselho de Segurança das Nações Unidas (sanções ao Irã). | cvm/colegiado/2010/col-20101214-d12.md |
 
 ## decreto-7295
 
@@ -179,8 +179,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2010/13650 | 2010-09-09 | deferido | fundos-investimento | Pedido do BB Gestão de Recursos DTVM para venda privada, pelo FFIE, de ações da Petrobras em carteira, com base no art. 64, VI, da Instrução 409/04 e no Decreto 7.295/10. Área técnica não viu óbice: a União é cotista exclusivo do fundo e único acionista da CEF, interessada na operação. Autorizado. | cvm/colegiado/2010/col-20100909-d16.md |
-| art. 2º, parágrafo único, inciso II | decisao-colegiado | RJ2010/13650 | 2010-09-09 | deferido | fundos-investimento | Pedido do BB Gestão de Recursos DTVM para venda privada, pelo FFIE, de ações da Petrobras em carteira, com base no art. 64, VI, da Instrução 409/04 e no Decreto 7.295/10. Área técnica não viu óbice: a União é cotista exclusivo do fundo e único acionista da CEF, interessada na operação. Autorizado. | cvm/colegiado/2010/col-20100909-d16.md |
+| art. 2º | decisao-colegiado | RJ2010/13650 | 2010-09-09 | deferido | fundos-investimento | O Colegiado deferiu pedido da BB Gestão de Recursos DTVM para negociação privada de ações de companhia aberta da carteira do FFIE, nos termos propostos, com base no art. 64, VI, da Instrução 409/04 e no Decreto 7.295/10. Acompanhou a SIN, que considerou a previsão normativa específica e o valor de referência de mercado. | cvm/colegiado/2010/col-20100909-d16.md |
+| art. 2º, parágrafo único, inciso II | decisao-colegiado | RJ2010/13650 | 2010-09-09 | deferido | fundos-investimento | O Colegiado deferiu pedido da BB Gestão de Recursos DTVM para negociação privada de ações de companhia aberta da carteira do FFIE, nos termos propostos, com base no art. 64, VI, da Instrução 409/04 e no Decreto 7.295/10. Acompanhou a SIN, que considerou a previsão normativa específica e o valor de referência de mercado. | cvm/colegiado/2010/col-20100909-d16.md |
 
 ## decreto-7605
 
@@ -188,7 +188,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2011/7085 | 2012-06-19 | nao-provido | contabil-demonstracoes | Recurso da Telebrás contra determinação da SEP de refazer e republicar as demonstrações de 2011, reclassificando do patrimônio líquido para o passivo o AFAC da União (CPC 39; Deliberação CVM 604/09). O relator entendeu que o AFAC não atendia às condições do CPC 39 para instrumento patrimonial. | cvm/colegiado/2012/col-20120619-d04.md |
+| decisao-colegiado | RJ2011/7085 | 2012-06-19 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SEP e determinou o refazimento das DFs de 2011 da Telebrás para corrigir a contabilização do AFAC da União, e a reapresentação do Formulário 1º ITR/2012. Como alternativa à republicação, admitiu fato relevante com as retificações, acompanhando o voto do relator, que seguiu a SNC. | cvm/colegiado/2012/col-20120619-d04.md |
 
 ## decreto-7724
 
@@ -196,14 +196,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º, § 2º | decisao-colegiado | RJ2014/7526 | 2014-07-29 | indeferido | processual | Recurso contra indeferimento de pedido de vista em processo administrativo sancionador sobre manipulação de preços e uso de informação não divulgada, enquanto pendente pedido de confidencialidade (Deliberação CVM 481/2005, art. 3º, § 4º). Indeferido, sem prejuízo de vista futura. | cvm/colegiado/2014/col-20140729-d04.md |
+| art. 5º, § 2º | decisao-colegiado | RJ2014/7526 | 2014-07-29 | nao-provido | processual | O Colegiado manteve decisão da SEP que indeferiu pedido de vista de recorrente em processo sancionador sobre manipulação de preços e uso de informação não divulgada de um acusado, enquanto o Presidente não analisasse pedido de confidencialidade da defesa (art. 3º, §4º, Deliberação CVM 481/2005). Ressalvou que o indeferimento não impede futuro pedido de vista, ainda que parcial. | cvm/colegiado/2014/col-20140729-d04.md |
 
 ### art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2012/7865 | 2013-02-26 | indeferido | processual | Recurso de advogado e acionista de companhia contra decisão da SEP que negou pedido de vista de processo em fase investigativa, por conter documentos sigilosos (art. 9º, § 2º, da Lei 6.385/76; Deliberação CVM 481/05). Colegiado indeferiu o recurso, por unanimidade. | cvm/colegiado/2013/col-20130226-d04.md |
-| art. 6º, inciso I | decisao-colegiado | RJ2013/1646 | 2013-02-26 | indeferido | processual | Reapreciação de decisão da SGE que indeferiu pedido, via e-SIC, de acesso a notificação enviada pela CVM a autoridade estrangeira e à respectiva resposta, por sigilo de apuração em curso (art. 9º, § 2º, da Lei 6.385/76; art. 6º, I, do Decreto 7.724/12). Colegiado manteve o indeferimento. | cvm/colegiado/2013/col-20130226-d07.md |
+| art. 6º | decisao-colegiado | RJ2012/7865 | 2013-02-26 | nao-provido | processual | O Colegiado negou provimento a recurso de acionista, terceiro interessado, contra decisão da SEP que indeferiu pedido de vista de processo em fase investigativa. Fundamentos: sigilo necessário à efetividade, documentos sigilosos que exigem autorização judicial, e informações públicas acessíveis por outros meios. Acompanhou por unanimidade o voto da relatora. | cvm/colegiado/2013/col-20130226-d04.md |
+| art. 6º, inciso I | decisao-colegiado | RJ2013/1646 | 2013-02-26 | nao-provido | institucional | O Colegiado, em reapreciação e com base na manifestação da SGE, manteve o indeferimento de pedido de pessoa física de acesso, via e-SIC, à notificação da CVM à Bermuda Monetary Authority e à respectiva resposta, por sigilo do art. 9º, §2º, da Lei 6.385/76 sobre apuração em curso. | cvm/colegiado/2013/col-20130226-d07.md |
 
 ## decreto-7805
 
@@ -211,7 +211,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/14312; RJ2012/14317 | 2012-11-30 | — | assembleia-acionistas | Pedido de interrupção do prazo de convocação da AGE da Eletrobras (art. 124, § 5º, II, da Lei 6.404/76) para análise de propostas sobre conselheiro minoritário e prorrogação de concessões (MP 579). O requerente alegava falhas nas informações aos acionistas. A área técnica opinou pela não interrupção do prazo. | cvm/colegiado/2012/col-20121130-d01.md |
+| decisao-colegiado | RJ2012/14312; RJ2012/14317 | 2012-11-30 | indeferido | assembleia-acionistas | O Colegiado não interrompeu o prazo de convocação da AGE da Eletrobras, por entender que a proposta de prorrogação de concessões nos termos da MP 579 não é ilegal e que as informações foram razoáveis. Em análise preliminar, não afirmou conflito de interesses que impeça o voto da União; acompanhando a área técnica, cabe à União avaliar eventual abstenção. | cvm/colegiado/2012/col-20121130-d01.md |
 
 ## decreto-8821
 
@@ -219,7 +219,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/2257 | 2010-12-14 | indeferido | divulgacao-informacoes | Recurso de investidor contra decisão da SEP sobre reclamações relativas ao programa de recompra de ações preferenciais da Petrobras, à divulgação de declaração de comercialidade de reservas e a aumento de capital. Recurso indeferido por não haver indícios de irregularidade (Instrução CVM 10/80 e 358/02). | cvm/colegiado/2010/col-20101214-d14.md |
+| decisao-colegiado | RJ2007/2257 | 2010-12-14 | nao-provido | divulgacao-informacoes | O Colegiado indeferiu recurso de investidor contra entendimento da SOI e da SEP, que não encontraram irregularidades no programa de recompra de ações preferenciais da Petrobras, na divulgação de declaração de comercialidade de reservas (29.12.06) e no aumento de capital de 30.04.10. Acompanhou o voto do relator. | cvm/colegiado/2010/col-20101214-d14.md |
 
 ## decreto-20910
 
@@ -235,8 +235,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2013/5993 | 2014-01-28 | indeferido | registro-emissor | Recurso da Azul S.A. contra indeferimento pela SEP de registro inicial de companhia aberta: estatuto atribui às preferenciais vantagens de 75 vezes as das ordinárias, em conflito com o art. 15, §2º da Lei 6.404/76, segundo a SEP e a PFE. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
-| art. 1º | decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | registro-emissor | Recurso da Azul S.A. contra decisão da SEP sobre registro inicial de companhia aberta. Colegiado declarou legal, por unanimidade, o art. 5º do estatuto que prevê ações superpreferenciais (art. 15, § 2º, Lei 6.404/1976) e deu provimento ao recurso; recomendou à SEP análise dos arts. 19, 202, § 1º, e 17, II, da mesma lei. | cvm/colegiado/2014/col-20140131-d01.md |
+| art. 1º | decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
+| art. 1º | decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | registro-emissor | O Colegiado, por unanimidade, deu provimento ao recurso da Azul S.A. contra o indeferimento, pela SEP, do registro inicial de companhia aberta, reconhecendo a legalidade do art. 5º do estatuto social. Por maioria, recomendou à SEP que avalie o art. 35 da minuta (dividendos) e o art. 5º, §10 (prioridade do art. 17, II, da Lei 6.404/76). | cvm/colegiado/2014/col-20140131-d01.md |
 
 ## decreto-21536
 
@@ -244,8 +244,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | registro-emissor | Recurso da Azul S.A. contra decisão da SEP sobre registro inicial de companhia aberta. Colegiado declarou legal, por unanimidade, o art. 5º do estatuto que prevê ações superpreferenciais (art. 15, § 2º, Lei 6.404/1976) e deu provimento ao recurso; recomendou à SEP análise dos arts. 19, 202, § 1º, e 17, II, da mesma lei. | cvm/colegiado/2014/col-20140131-d01.md |
-| decisao-colegiado | RJ2013/5993 | 2014-01-28 | indeferido | registro-emissor | Recurso da Azul S.A. contra indeferimento pela SEP de registro inicial de companhia aberta: estatuto atribui às preferenciais vantagens de 75 vezes as das ordinárias, em conflito com o art. 15, §2º da Lei 6.404/76, segundo a SEP e a PFE. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-31 | provido | registro-emissor | O Colegiado, por unanimidade, deu provimento ao recurso da Azul S.A. contra o indeferimento, pela SEP, do registro inicial de companhia aberta, reconhecendo a legalidade do art. 5º do estatuto social. Por maioria, recomendou à SEP que avalie o art. 35 da minuta (dividendos) e o art. 5º, §10 (prioridade do art. 17, II, da Lei 6.404/76). | cvm/colegiado/2014/col-20140131-d01.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
 
 ## decreto-53094
 
@@ -253,7 +253,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/9379 | 2012-09-04 | indeferido | ofertas-publicas | Recurso contra decisão da SRE. Proc. RJ2012/9379. | cvm/colegiado/2012/col-20120904-d12.md |
+| decisao-colegiado | RJ2012/9379 | 2012-09-04 | provido | ofertas-publicas | Recurso contra decisão da SRE. Proc. RJ2012/9379. | cvm/colegiado/2012/col-20120904-d12.md |
 
 ## decreto-76975
 
@@ -261,7 +261,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/12861 | 2010-10-05 | indeferido | registro-emissor | Pedido da Telefónica para cancelamento do programa de BDRs e do registro de emissor estrangeiro, com resgate dos BDRs e venda das ações no mercado espanhol por sale facility. Discutidas a dispensa de OPA, a divulgação aos detentores e a alienação das ações de quem não se manifestar, questionada pela PFE. | cvm/colegiado/2010/col-20101005-d01.md |
+| decisao-colegiado | RJ2009/12861 | 2010-10-05 | deferido | registro-emissor | O Colegiado aprovou o plano de cancelamento do Programa de BDRs e do registro de emissor estrangeiro da Telefónica (art. 48, parágrafo único, da Instrução 480/09), desde que atendidas as providências do voto do relator. Segundo a PFE, a venda automática das ações de quem não se manifestar é questionável; a SRE foi favorável. | cvm/colegiado/2010/col-20101005-d01.md |
 
 ## decreto-83937
 
@@ -269,7 +269,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/2080 | 2015-03-17 | outro | ofertas-publicas | Edita Deliberação 734/2015, que delega à SRE competência para conceder dispensas em ofertas públicas de contratos de investimento coletivo vinculados a participação em resultados de empreendimento hoteleiro, nas hipóteses especificadas, com base no art. 4º da Instrução CVM 400/2003. | cvm/colegiado/2015/col-20150317-d9602.md |
+| decisao-colegiado | RJ2015/2080 | 2015-03-17 | outro | normativo | O Colegiado aprovou, por unanimidade, Deliberação que delega à SRE a concessão de dispensas em ofertas públicas de contratos de investimento coletivo em projetos imobiliários vinculados a empreendimentos hoteleiros, nas hipóteses especificadas. Consolida o entendimento de nove processos anteriores, para reduzir o cronograma de análise. | cvm/colegiado/2015/col-20150317-d9602.md |
 
 ## decreto-90922
 
@@ -278,6 +278,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 4º, § 2º | decisao-colegiado | RJ2011/8606 | 2011-10-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8606. | cvm/colegiado/2011/col-20111011-d07.md |
-| art. 4º, § 2º | decisao-colegiado | RJ2012/11663 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
-| art. 4º, § 2º | decisao-colegiado | RJ2012/11664 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
-| art. 4º, § 2º | decisao-colegiado | RJ2013/2393 | 2013-03-19 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
+| art. 4º, § 2º | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
+| art. 4º, § 2º | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
+| art. 4º, § 2º | decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |

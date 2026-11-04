@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0012.md](../../../normas/normas/cvm/resolucoes/0012.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | normativo | Aprovadas, por unanimidade, as Resoluções CVM 11/2020 (clubes de investimento, em substituição à Instrução CVM 494/2011) e 12/2020 (demonstrações financeiras dos clubes, em substituição à Instrução CVM 495/2011), no âmbito da consolidação do Decreto 10.139/2019. Sem audiência pública por não haver mudança de mérito. | cvm/colegiado/2020/col-20201117-d1975.md |
+| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM 11/2020 (clubes de investimento, em substituição à ICVM 494/2011) e a Resolução CVM 12/2020 (demonstrações financeiras dos clubes, em substituição à ICVM 495/2011), no âmbito da consolidação do Decreto 10.139/2019. Sem audiência pública e sem AIR, por não alterarem obrigações de mérito. | cvm/colegiado/2020/col-20201117-d1975.md |

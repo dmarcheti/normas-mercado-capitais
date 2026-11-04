@@ -11,42 +11,42 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, inciso II | decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | intermediacao | Processo para estender às corretoras que operam nos mercados da BM&F a obrigação de identificação de comitentes da Instrução CVM 122/90. A SDM propôs o arquivamento, pois a matéria já é tratada na Instrução CVM 387/03 e na minuta de regulamento dos mercados regulamentados (audiência pública 06/2007). Colegiado arquivou. | cvm/colegiado/2007/col-20070717-d05.md |
+| art. 3º, inciso II | decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | normativo | O Colegiado determinou o arquivamento de processo que propunha estender a identificação de comitentes da Instrução CVM 122/90 às corretoras que operavam nos mercados da BM&F, conforme sugerido pela SDM. Base: a obrigação já é tratada na Instrução 387/03 (art. 3º, II) e na minuta de instrução sobre mercados regulamentados (audiência pública 06/2007). | cvm/colegiado/2007/col-20070717-d05.md |
 
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º, parágrafo único | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | Recapitulação de acusações contra a Ativa S.A. CTVM: negociação de FRA fora de bolsa (Deliberação CVM 20/85 e art. 36, Resolução CMN 2.690/00); gravações de ordens não mantidas por cinco anos (art. 12, §1º, Instrução CVM 387/03). Acusados reintimados para aditamento de defesa. | cvm/colegiado/2007/col-20071204-d5492.md |
+| art. 4º, parágrafo único | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | O Colegiado aprovou a recapitulação das infrações imputadas à Ativa S.A. CTVM e a seu diretor responsável, nos termos do voto do relator (art. 30-A da Deliberação 457/02). Reclassificou as acusações (negociação de FRA fora da bolsa; gravação de ordens não guardada por cinco anos) e manteve a de dever de diligência. Prazo de 30 dias para aditamento das defesas. | cvm/colegiado/2007/col-20071204-d5492.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 6º | decisao-colegiado | RJ2005/1595 | 2006-08-22 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2005/1595. | cvm/colegiado/2006/col-20060822-d06.md |
-| art. 6º, § 2º | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | Termo de acusação contra distribuidora e seu diretor-responsável por infrações às Instruções CVM 387/03 e 08/79 em cadastro e registro de ordens de clientes. Colegiado determinou nova intimação para defesa quanto à violação da Instrução CVM 301/99 (prevenção à lavagem de dinheiro), em autos apartados. | cvm/colegiado/2006/col-20060523-d5048.md |
-| art. 6º, § 2º | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | Recapitulação de acusações contra a Ativa S.A. CTVM: negociação de FRA fora de bolsa (Deliberação CVM 20/85 e art. 36, Resolução CMN 2.690/00); gravações de ordens não mantidas por cinco anos (art. 12, §1º, Instrução CVM 387/03). Acusados reintimados para aditamento de defesa. | cvm/colegiado/2007/col-20071204-d5492.md |
+| art. 6º, § 2º | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | O Colegiado acompanhou o relator e determinou nova intimação dos acusados, com 30 dias para defesa, sobre violação à Instrução CVM 301/99 (art. 3º, §1º), por possível definição jurídica diversa para cadastro de clientes (arts. 9º e 10 da Instrução CVM 387/03). Essa acusação será julgada em autos apartados; o restante segue normalmente. | cvm/colegiado/2006/col-20060523-d5048.md |
+| art. 6º, § 2º | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | O Colegiado aprovou a recapitulação das infrações imputadas à Ativa S.A. CTVM e a seu diretor responsável, nos termos do voto do relator (art. 30-A da Deliberação 457/02). Reclassificou as acusações (negociação de FRA fora da bolsa; gravação de ordens não guardada por cinco anos) e manteve a de dever de diligência. Prazo de 30 dias para aditamento das defesas. | cvm/colegiado/2007/col-20071204-d5492.md |
 | art. 6º, § 2º | decisao-colegiado | RJ2006/3312 | 2008-11-18 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2006/3312. | cvm/colegiado/2008/col-20081118-d07.md |
-| art. 6º, § 3º | decisao-colegiado | SP2005/0238 | 2006-05-03 | indeferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2005/0238. | cvm/colegiado/2006/col-20060503-d03.md |
+| art. 6º, § 3º | decisao-colegiado | SP2005/0238 | 2006-05-03 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2005/0238. | cvm/colegiado/2006/col-20060503-d03.md |
 
 ## art. 9º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 9º | decisao-colegiado | SP2003/0101 | 2005-03-14 | nao-provido | pld | Recurso contra decisão da SMI em processo de rito sumário. Proc. SP2003/0101. | cvm/colegiado/2005/col-20050314-d03.md |
-| art. 9º | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | Termo de acusação contra distribuidora e seu diretor-responsável por infrações às Instruções CVM 387/03 e 08/79 em cadastro e registro de ordens de clientes. Colegiado determinou nova intimação para defesa quanto à violação da Instrução CVM 301/99 (prevenção à lavagem de dinheiro), em autos apartados. | cvm/colegiado/2006/col-20060523-d5048.md |
+| art. 9º | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | O Colegiado acompanhou o relator e determinou nova intimação dos acusados, com 30 dias para defesa, sobre violação à Instrução CVM 301/99 (art. 3º, §1º), por possível definição jurídica diversa para cadastro de clientes (arts. 9º e 10 da Instrução CVM 387/03). Essa acusação será julgada em autos apartados; o restante segue normalmente. | cvm/colegiado/2006/col-20060523-d5048.md |
 | art. 9º | decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2007/0202. | cvm/colegiado/2007/col-20071204-d04.md |
 | art. 9º | decisao-colegiado | SP2008/0060 | 2008-10-21 | deferido | intermediacao | Consulta relativa à negociação de valores mobiliários por meio eletrônico. Proc. SP2008/0060. | cvm/colegiado/2008/col-20081021-d09.md |
-| art. 9º, § 1º | decisao-colegiado | SP2005/0148 | 2006-08-15 | deferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2005/0148. | cvm/colegiado/2006/col-20060815-d09.md |
+| art. 9º, § 1º | decisao-colegiado | SP2005/0148 | 2006-08-15 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2005/0148. | cvm/colegiado/2006/col-20060815-d09.md |
 
 ## art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | RJ2003/8151 | 2003-09-23 | deferido | normativo | Colegiado aprovou minuta de instrução que acrescenta o § 11 ao art. 10 da Instrução CVM 387/03. | cvm/colegiado/2003/col-20030923-d05.md |
-| art. 10 | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | Termo de acusação contra distribuidora e seu diretor-responsável por infrações às Instruções CVM 387/03 e 08/79 em cadastro e registro de ordens de clientes. Colegiado determinou nova intimação para defesa quanto à violação da Instrução CVM 301/99 (prevenção à lavagem de dinheiro), em autos apartados. | cvm/colegiado/2006/col-20060523-d5048.md |
-| art. 10 | decisao-colegiado | SP2008/0264 | 2008-12-09 | deferido | intermediacao | Pedidos da Gerdau S.A. e da Metalúrgica Gerdau S.A. para programas de reinvestimento de dividendos e JCP em novas ações preferenciais, com compra por corretora sem cadastro de comitentes em bolsa, até R$ 5.000,00 por acionista. Aprovados, condicionados à corretora manter o cadastro dos investidores por 5 anos (Instrução CVM 454/07, art. 10, §2º). | cvm/colegiado/2008/col-20081209-d09.md |
-| art. 10, § 8º | decisao-colegiado | SP2008/0264 | 2008-12-09 | deferido | intermediacao | Pedidos da Gerdau S.A. e da Metalúrgica Gerdau S.A. para programas de reinvestimento de dividendos e JCP em novas ações preferenciais, com compra por corretora sem cadastro de comitentes em bolsa, até R$ 5.000,00 por acionista. Aprovados, condicionados à corretora manter o cadastro dos investidores por 5 anos (Instrução CVM 454/07, art. 10, §2º). | cvm/colegiado/2008/col-20081209-d09.md |
+| art. 10 | decisao-colegiado | RJ2003/8151 | 2003-09-23 | outro | normativo | O Colegiado aprovou a minuta de Instrução que acrescenta o § 11 ao art. 10 da Instrução CVM 387/03. | cvm/colegiado/2003/col-20030923-d05.md |
+| art. 10 | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | O Colegiado acompanhou o relator e determinou nova intimação dos acusados, com 30 dias para defesa, sobre violação à Instrução CVM 301/99 (art. 3º, §1º), por possível definição jurídica diversa para cadastro de clientes (arts. 9º e 10 da Instrução CVM 387/03). Essa acusação será julgada em autos apartados; o restante segue normalmente. | cvm/colegiado/2006/col-20060523-d5048.md |
+| art. 10 | decisao-colegiado | SP2008/0264 | 2008-12-09 | deferido | assembleia-acionistas | O Colegiado aprovou os programas de reinvestimento de dividendos e juros sobre capital próprio da Gerdau S.A. e da Metalúrgica Gerdau S.A., acompanhando o relator. A aprovação foi condicionada à corretora manter informações cadastrais dos investidores à disposição da CVM e das bolsas por cinco anos. | cvm/colegiado/2008/col-20081209-d09.md |
+| art. 10, § 8º | decisao-colegiado | SP2008/0264 | 2008-12-09 | deferido | assembleia-acionistas | O Colegiado aprovou os programas de reinvestimento de dividendos e juros sobre capital próprio da Gerdau S.A. e da Metalúrgica Gerdau S.A., acompanhando o relator. A aprovação foi condicionada à corretora manter informações cadastrais dos investidores à disposição da CVM e das bolsas por cinco anos. | cvm/colegiado/2008/col-20081209-d09.md |
 
 ## art. 11
 
@@ -59,74 +59,74 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12, § 1º | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | Recapitulação de acusações contra a Ativa S.A. CTVM: negociação de FRA fora de bolsa (Deliberação CVM 20/85 e art. 36, Resolução CMN 2.690/00); gravações de ordens não mantidas por cinco anos (art. 12, §1º, Instrução CVM 387/03). Acusados reintimados para aditamento de defesa. | cvm/colegiado/2007/col-20071204-d5492.md |
+| art. 12, § 1º | decisao-colegiado | SP2006/0137 | 2007-12-04 | outro | intermediacao | O Colegiado aprovou a recapitulação das infrações imputadas à Ativa S.A. CTVM e a seu diretor responsável, nos termos do voto do relator (art. 30-A da Deliberação 457/02). Reclassificou as acusações (negociação de FRA fora da bolsa; gravação de ordens não guardada por cinco anos) e manteve a de dever de diligência. Prazo de 30 dias para aditamento das defesas. | cvm/colegiado/2007/col-20071204-d5492.md |
 
 ## art. 12-A
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12-A, inciso V | decisao-colegiado | RJ2003/13239 | 2006-07-05 | outro | normativo | Colegiado aprovou proposta de alteração do inciso V do art. 12-A da Instrução CVM 387/03, em minuta de instrução. O recorte não traz o texto da alteração. | cvm/colegiado/2006/col-20060705-d05.md |
+| art. 12-A, inciso V | decisao-colegiado | RJ2003/13239 | 2006-07-05 | outro | normativo | O Colegiado aprovou proposta de alteração da redação do inciso V do art. 12-A da Instrução CVM nº 387/03. | cvm/colegiado/2006/col-20060705-d05.md |
 
 ## art. 15
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 15 | decisao-colegiado | 387/2003; SP2005/0258 | 2005-07-21 | deferido | intermediacao | Consulta do Citibank CCTVM S.A. sobre flexibilização do art. 15 da Instrução CVM 387/03, para que pessoas vinculadas operem por outras corretoras, atuando a consulente como custodiante. Atendida: havendo transmissão de ordens, até três corretoras e termo de compromisso de informação prévia ao compliance. | cvm/colegiado/2005/col-20050721-d02.md |
-| art. 15 | decisao-colegiado | SP2006/0008 | 2006-01-24 | deferido | intermediacao | Consulta da ING CCT S.A. sobre flexibilização do art. 15 da Instrução CVM 387/03 para pessoas vinculadas operarem na Bovespa por outras corretoras. Colegiado atendeu, mas condicionou: se a corretora passar a transmitir ordens ou atuar na BM&F em mercados que influenciem a Bovespa, exige-se lista de até três corretoras e termo de compromisso. | cvm/colegiado/2006/col-20060124-d11.md |
+| art. 15 | decisao-colegiado | 387/2003; SP2005/0258 | 2005-07-21 | deferido | intermediacao | O Colegiado atendeu consulta do Citibank CCTVM e autorizou operações na Bovespa de pessoas vinculadas por outras corretoras, pois o art. 15 da IN 387/03 só se aplica à intermediação. Se o custodiante transmitir ordens, exige lista de até três corretoras e termo de compromisso. | cvm/colegiado/2005/col-20050721-d02.md |
+| art. 15 | decisao-colegiado | SP2006/0008 | 2006-01-24 | deferido | intermediacao | O Colegiado autorizou operações na Bovespa de pessoas vinculadas à ING CCT S.A. por outras corretoras, pois o art. 15 da Instrução 387/03 só vale se a consulente intermediar na Bovespa. Se transmitir ordens a terceiros ou atuar na BM&F em mercados que influenciem a Bovespa, exige-se lista de até três corretoras e termo de compromisso com o compliance. | cvm/colegiado/2006/col-20060124-d11.md |
 | art. 15 | decisao-colegiado | SP2008/0060 | 2008-10-21 | deferido | intermediacao | Consulta relativa à negociação de valores mobiliários por meio eletrônico. Proc. SP2008/0060. | cvm/colegiado/2008/col-20081021-d09.md |
-| art. 15 | decisao-colegiado | SP2008/0062 | 2008-10-21 | deferido | infraestrutura-mercado | Considerados adaptados à Instrução CVM 461/07 os estatutos, normas e regulamentos da CETIP S.A., com aprovação como entidade administradora de mercado de balcão organizado, após atendimento ao Ofício/CVM/SMI/063/08. | cvm/colegiado/2008/col-20081021-d10.md |
+| art. 15 | decisao-colegiado | SP2008/0062 | 2008-10-21 | outro | infraestrutura-mercado | O Colegiado considerou adaptados à Instrução CVM 461/07 os estatutos e normas da CETIP S.A., com base na manifestação favorável da SMI (MEMO/CVM/SMI/GMN/043/2008), e concordou em aprovar a CETIP como entidade administradora do mercado de balcão organizado. | cvm/colegiado/2008/col-20081021-d10.md |
 
 ## art. 19
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 19 | decisao-colegiado | SP2006/0047 | 2006-11-07 | indeferido | processual | Recurso em processo de fundo de garantia. Proc. SP2006/0047. | cvm/colegiado/2006/col-20061107-d07.md |
-| art. 19, inciso II | decisao-colegiado | SP2006/0047 | 2006-11-07 | indeferido | processual | Recurso em processo de fundo de garantia. Proc. SP2006/0047. | cvm/colegiado/2006/col-20061107-d07.md |
+| art. 19 | decisao-colegiado | SP2006/0047 | 2006-11-07 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2006/0047. | cvm/colegiado/2006/col-20061107-d07.md |
+| art. 19, inciso II | decisao-colegiado | SP2006/0047 | 2006-11-07 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2006/0047. | cvm/colegiado/2006/col-20061107-d07.md |
 
 ## art. 21
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 21 | decisao-colegiado | SP2008/0062 | 2008-10-21 | deferido | infraestrutura-mercado | Considerados adaptados à Instrução CVM 461/07 os estatutos, normas e regulamentos da CETIP S.A., com aprovação como entidade administradora de mercado de balcão organizado, após atendimento ao Ofício/CVM/SMI/063/08. | cvm/colegiado/2008/col-20081021-d10.md |
+| art. 21 | decisao-colegiado | SP2008/0062 | 2008-10-21 | outro | infraestrutura-mercado | O Colegiado considerou adaptados à Instrução CVM 461/07 os estatutos e normas da CETIP S.A., com base na manifestação favorável da SMI (MEMO/CVM/SMI/GMN/043/2008), e concordou em aprovar a CETIP como entidade administradora do mercado de balcão organizado. | cvm/colegiado/2008/col-20081021-d10.md |
 
 ## art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | 387/2003 | 2003-07-29 | outro | infraestrutura-mercado | Colegiado aprovou as Resoluções nºs 288/03, 289/03, 290/03 e 291/03 do Conselho de Administração da Bovespa, nos termos do art. 22 da Instrução CVM nº 387/2003. | cvm/colegiado/2003/col-20030729-d03.md |
-| art. 22 | decisao-colegiado | — | 2003-10-07 | deferido | intermediacao | Pedido da Bovespa de prorrogação do prazo do art. 22 da Instrução CVM 387/03 para elaboração de regras de atuação das corretoras. Aprovado, com entrada em vigor em 2 de janeiro de 2004, para bolsas, entidades de balcão organizado e sociedades membros. | cvm/colegiado/2003/col-20031007-d03.md |
+| art. 22 | decisao-colegiado | 387/2003 | 2003-07-29 | outro | infraestrutura-mercado | O Colegiado aprovou as Resoluções nºs 288/03, 289/03, 290/03 e 291/03 do Conselho de Administração da Bovespa, nos termos do art. 22 da Instrução CVM 387/2003. | cvm/colegiado/2003/col-20030729-d03.md |
+| art. 22 | decisao-colegiado | — | 2003-10-07 | deferido | intermediacao | O Colegiado aprovou prorrogação, pedida pela Bovespa, do prazo do art. 22 da IN CVM 387/03 para elaboração de regras de atuação das corretoras. A vigência, a partir de 2 de janeiro de 2004, é unificada para bolsas, entidades de balcão organizado, sociedades membros e demais integrantes do sistema de distribuição. | cvm/colegiado/2003/col-20031007-d03.md |
 
 ## art. 56
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 56, inciso II | decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | intermediacao | Processo para estender às corretoras que operam nos mercados da BM&F a obrigação de identificação de comitentes da Instrução CVM 122/90. A SDM propôs o arquivamento, pois a matéria já é tratada na Instrução CVM 387/03 e na minuta de regulamento dos mercados regulamentados (audiência pública 06/2007). Colegiado arquivou. | cvm/colegiado/2007/col-20070717-d05.md |
+| art. 56, inciso II | decisao-colegiado | RJ2003/7911 | 2007-07-17 | outro | normativo | O Colegiado determinou o arquivamento de processo que propunha estender a identificação de comitentes da Instrução CVM 122/90 às corretoras que operavam nos mercados da BM&F, conforme sugerido pela SDM. Base: a obrigação já é tratada na Instrução 387/03 (art. 3º, II) e na minuta de instrução sobre mercados regulamentados (audiência pública 06/2007). | cvm/colegiado/2007/col-20070717-d05.md |
 
 ## art. 101
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 101 | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | Termo de acusação contra distribuidora e seu diretor-responsável por infrações às Instruções CVM 387/03 e 08/79 em cadastro e registro de ordens de clientes. Colegiado determinou nova intimação para defesa quanto à violação da Instrução CVM 301/99 (prevenção à lavagem de dinheiro), em autos apartados. | cvm/colegiado/2006/col-20060523-d5048.md |
+| art. 101 | decisao-colegiado | SP2004/0543 | 2006-05-23 | outro | pld | O Colegiado acompanhou o relator e determinou nova intimação dos acusados, com 30 dias para defesa, sobre violação à Instrução CVM 301/99 (art. 3º, §1º), por possível definição jurídica diversa para cadastro de clientes (arts. 9º e 10 da Instrução CVM 387/03). Essa acusação será julgada em autos apartados; o restante segue normalmente. | cvm/colegiado/2006/col-20060523-d5048.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/14868 | 2008-07-22 | nao-provido | intermediacao | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2007/14868. | cvm/colegiado/2008/col-20080722-d22.md |
-| decisao-colegiado | RJ2005/4555 | 2007-12-11 | outro | intermediacao | Cumprimento de termo de compromisso da Estratégia Investimentos S.A. CVC: pagamento pecuniário (SAD) e relatório de auditor independente sobre procedimentos da Instrução CVM 387/03, com cessação da prática ilícita (SMI), atestados. Arquivamento em relação aos compromitentes. | cvm/colegiado/2007/col-20071211-d03.md |
-| decisao-colegiado | SP2006/0138 | 2007-01-09 | outro | intermediacao | Consulta de corretora sobre a utilização de assinatura eletrônica em contratos e fichas cadastrais de clientes (Instruções CVM 301/99 e 387/03). O Colegiado respondeu que a matéria será tratada em eventual alteração da Instrução 387/03, com sugestões da SMI. | cvm/colegiado/2007/col-20070109-d03.md |
+| decisao-colegiado | RJ2005/4555 | 2007-12-11 | outro | intermediacao | Com as confirmações da SAD e da SMI de que o termo de compromisso aprovado em 06.03.07 foi cumprido na forma convencionada e não há obrigação adicional, o Colegiado arquivou o processo em relação aos compromitentes. | cvm/colegiado/2007/col-20071211-d03.md |
+| decisao-colegiado | SP2006/0138 | 2007-01-09 | outro | pld | O Colegiado acompanhou o voto do relator e informou à consulente que a assinatura eletrônica em cadastros e contratos de clientes está em análise em eventual alteração da norma de cadastro, determinando à SMI incluir sugestões na minuta. Fundamento: a PFE entendeu que o valor probatório depende de registro em RTD, cuja conveniência cabe ao Colegiado. | cvm/colegiado/2007/col-20070109-d03.md |
 | decisao-colegiado | SP2006/0056 | 2006-08-15 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0056. | cvm/colegiado/2006/col-20060815-d08.md |
-| decisao-colegiado | RJ2003/5746 | 2006-03-07 | indeferido | intermediacao | Terceiro pedido de reconsideração contra decisão que indeferiu ressarcimento, pelo Fundo de Garantia da Bovespa, de prejuízo em operações de homebroker de corretora. Rejeitado: não houve prova cabal de autoria. Ressalvada a via judicial. Resolução CMN 2.690/00. | cvm/colegiado/2006/col-20060307-d03.md |
-| decisao-colegiado | RJ2005/3104 | 2005-12-20 | indeferido | infraestrutura-mercado | Reclamação de corretora sobre o número de conselheiros da BM&F: o estatuto prevê 17, e a Resolução CMN 2.690/00 (aplicável pela Instrução CVM 362/02) prevê 13. O Colegiado, por maioria, não se manifestou pela invalidade da sistemática adotada. | cvm/colegiado/2005/col-20051220-d02.md |
-| decisao-colegiado | — | 2005-10-31 | deferido | normativo | Pedido da BOVESPA de prorrogação do prazo de adaptação do art. 5º da Instrução CVM 419/05, sobre cadastramento de investidores não residentes. Colegiado, por unanimidade, editou normativo prorrogando o prazo para 31/12/2005 e manteve em vigor a Instrução CVM 387 até lá. | cvm/colegiado/2005/col-20051031-d01.md |
-| decisao-colegiado | RJ2004/7380 | 2005-08-23 | deferido | ofertas-publicas | Consulta da Ágora Sênior CTVM sobre adesão online a ofertas públicas por assinatura eletrônica (pedido de reserva, boletim e aquisição). O Colegiado aceitou o pleito, condicionado a auditoria externa periódica do sistema e autorização escrita prévia do cliente; determinou à SMI minuta de alteração da Instrução CVM nº 387/03. | cvm/colegiado/2005/col-20050823-d04.md |
-| decisao-colegiado | RJ2005/4490 | 2005-07-26 | deferido | pld | Aprovação de alterações nas regras da Bovespa, da CBLC e da BM&F para a nova sistemática de cadastramento de investidores estrangeiros (Instrução CVM 419/05), com prorrogação do prazo fixado nessa instrução até 31.10.05. Determinado ofício à CETIP: sem adaptação, só poderá registrar operações de estrangeiros com cadastro completo (Instrução CVM 387/03). | cvm/colegiado/2005/col-20050726-d02.md |
-| decisao-colegiado | RJ2003/5746 | 2005-07-05 | indeferido | intermediacao | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm/colegiado/2005/col-20050705-d03.md |
+| decisao-colegiado | RJ2003/5746 | 2006-03-07 | nao-provido | intermediacao | O Colegiado, acompanhando o relator, rejeitou o terceiro pedido de reconsideração de decisão que indeferiu ressarcimento pelo Fundo de Garantia da Bovespa de prejuízo em operações homebroker com corretora, por não se ter obtido prova cabal de autoria. A decisão não impede discussão judicial. | cvm/colegiado/2006/col-20060307-d03.md |
+| decisao-colegiado | RJ2005/3104 | 2005-12-20 | outro | infraestrutura-mercado | O Colegiado, por maioria, manteve o número de conselheiros do estatuto da BM&F desde 2002 (17, acima do máximo de 13 do art. 13 da Resolução CMN 2.690/00, conforme denúncia da Tov CCTVM) e não se manifestou pela invalidade da sistemática. Vencidos dois diretores, que votaram pela adequação do estatuto à Resolução 2.690/00. | cvm/colegiado/2005/col-20051220-d02.md |
+| decisao-colegiado | — | 2005-10-31 | deferido | normativo | O Colegiado deferiu, por unanimidade, pedido da Bovespa e editou normativo prorrogando para 31.12.2005 o prazo de adaptação do art. 5º da Instrução CVM 419/05 (cadastro de investidores não residentes). Até lá, permanecem em vigor as disposições da Instrução 387/00. Determinou à SMI acompanhar a adaptação. | cvm/colegiado/2005/col-20051031-d01.md |
+| decisao-colegiado | RJ2004/7380 | 2005-08-23 | outro | ofertas-publicas | O Colegiado acompanhou o voto do relator e aceitou o pleito da Ágora Sênior CTVM S/A para adesão online a ofertas públicas por assinatura eletrônica, por entender que, em tese, não é incompatível com as Instruções CVM 387/03 e 400/03. Determinou à SMI minuta de alteração da Instrução 387/03 exigindo autorização prévia e escrita do cliente. | cvm/colegiado/2005/col-20050823-d04.md |
+| decisao-colegiado | RJ2005/4490 | 2005-07-26 | deferido | pld | O Colegiado, acompanhando a área técnica, que considerou cumpridas as exigências da Instrução CVM 419/05, aprovou alterações nas regras da Bovespa, CBLC, BM&F e entidades de balcão para o cadastro de investidores estrangeiros. Prorrogou até 31.10.05 o prazo para regularização das informações de clientes e determinou ofício à CETIP sobre sua adaptação às novas regras. | cvm/colegiado/2005/col-20050726-d02.md |
+| decisao-colegiado | RJ2003/5746 | 2005-07-05 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ2003/5746. | cvm/colegiado/2005/col-20050705-d03.md |
 | decisao-colegiado | RJ2003/5746 | 2005-05-10 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2003/5746. | cvm/colegiado/2005/col-20050510-d04.md |
-| decisao-colegiado | SP2003/0099 | 2005-01-31 | provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2003/0099. | cvm/colegiado/2005/col-20050131-d06.md |
+| decisao-colegiado | SP2003/0099 | 2005-01-31 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2003/0099. | cvm/colegiado/2005/col-20050131-d06.md |
 | decisao-colegiado | RJ2003/7776 | 2004-09-15 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2003/7776. | cvm/colegiado/2004/col-20040915-d01.md |
 | decisao-colegiado | RJ2003/6973 | 2004-08-24 | provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2003/6973. | cvm/colegiado/2004/col-20040824-d05.md |
-| decisao-colegiado | RJ2003/13239 | 2004-01-27 | outro | pld | Pedido da Bovespa de alterar a sistemática de cadastro de investidores estrangeiros (Instrução CVM nº 387/03), com contratos entre corretora e custodiante locais e estrangeiros. O Colegiado concedeu 60 dias para a Bovespa detalhar a proposta e atender às ressalvas das áreas técnicas. | cvm/colegiado/2004/col-20040127-d05.md |
-| decisao-colegiado | — | 2003-10-14 | deferido | intermediacao | Aprovação pelo Colegiado das deliberações da BM&F que regulam tipos de ordens e de ofertas e as regras de conduta das corretoras (Instrução 387/03), com entrada em vigor em 2 de janeiro de 2004. | cvm/colegiado/2003/col-20031014-d02.md |
-| decisao-colegiado | — | 2003-10-07 | outro | intermediacao | Aprovadas resoluções da SOMA que disciplinam as regras de conduta dos intermediários credenciados, os tipos de ordens, o cadastro de investidores e a execução de ordens, no âmbito da Instrução CVM 387/03. | cvm/colegiado/2003/col-20031007-d05.md |
-| decisao-colegiado | — | 2003-10-07 | outro | intermediacao | Aprovada alteração da resolução da Bovespa que regula o cadastro de investidores, no âmbito da Instrução CVM 387/03. | cvm/colegiado/2003/col-20031007-d02.md |
+| decisao-colegiado | RJ2003/13239 | 2004-01-27 | outro | pld | Em tese, o Colegiado entendeu que a proposta da Bovespa de usar contratos entre corretoras e custodiantes locais e estrangeiros como alternativa de cadastro de investidores estrangeiros (Instrução CVM 387/03) merece exame; concedeu 60 dias para a Bovespa detalhar a proposta, atendendo às preocupações das áreas técnicas. | cvm/colegiado/2004/col-20040127-d05.md |
+| decisao-colegiado | — | 2003-10-14 | outro | intermediacao | O Colegiado aprovou as deliberações da BM&F que regulam tipos de ordens e de ofertas e as regras de conduta das corretoras, na forma da IN CVM 387/03, com entrada em vigor em 2 de janeiro de 2004. | cvm/colegiado/2003/col-20031014-d02.md |
+| decisao-colegiado | — | 2003-10-07 | outro | intermediacao | O Colegiado aprovou as resoluções da SOMA que regulam as regras de conduta dos intermediários por ela credenciados, os tipos de ordens, o cadastro de investidores e a execução das ordens (Instrução CVM 387/03). | cvm/colegiado/2003/col-20031007-d05.md |
+| decisao-colegiado | — | 2003-10-07 | outro | normativo | O Colegiado aprovou a alteração da resolução da Bovespa que regula o cadastro de investidores, com base em memorando da SMI. | cvm/colegiado/2003/col-20031007-d02.md |

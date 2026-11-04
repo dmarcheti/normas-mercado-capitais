@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 14 | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | indeferido | securitizacao | Recurso contra entendimento da SRE que negou registro de oferta de CRA lastreado em debêntures de rede de restaurantes, cujos recursos financiariam aquisição de carne in natura de fornecedores do agronegócio. Relator votou pelo provimento, com condicionantes, por interpretação teleológica do § 1º do art. 23 da Lei 11.076/2004. | cvm/colegiado/2016/col-20160830-d0291.md |
+| art. 14 | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | securitizacao | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com lastro em debêntures da BK Brasil. Condicionou o registro à previsão, na escritura, de prestação trimestral com notas fiscais da compra de carne dos fornecedores, verificada pelo agente fiduciário. | cvm/colegiado/2016/col-20160830-d0291.md |
 
 ## mp-4
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008030/2020-45 | 2021-05-04 | — | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008030/2020-45. | cvm/colegiado/2021/col-20210504-d2152.md |
+| decisao-colegiado | 19957.008030/2020-45 | 2021-05-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008030/2020-45. | cvm/colegiado/2021/col-20210504-d2152.md |
 
 ## mp-8
 
@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | — | processual | Recursos da corretora Solidez CCTVM Ltda. e de seu diretor contra decisão da SMI que não conheceu recurso sobre processos disciplinares da BSM. Alegam competência da CVM para rever atos da BSM. Relator vota pelo não conhecimento: a CVM não é sede recursal de PAD autorregulatório (art. 49, § 3º, Instrução CVM 461/2007). | cvm/colegiado/2017/col-20171017-d0302.md |
+| decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | processual | O Colegiado, pelo voto do relator, não conheceu de recursos da Solidez CCTVM e de seu diretor contra decisão da SMI, mantendo decisões da BSM em PADs. Fundamento: art. 45 do Regulamento Processual da BSM e art. 49, §3º, da Instrução CVM 461/07, que não preveem recurso à CVM nesses processos, diferentemente do MRP. | cvm/colegiado/2017/col-20171017-d0302.md |
 
 ## mp-110
 
@@ -46,7 +46,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001796/2020-07 | 2020-05-12 | outro | institucional | Acordo de cooperação para movimentação temporária de empregados entre a CVM e a BB Tecnologia e Serviços (BBTS), nos termos do art. 93, §7º, da Lei nº 8.112/1990 e da Portaria MP nº 193/2018. Minuta aprovada por unanimidade. | cvm/colegiado/2020/col-20200512-d1802.md |
+| decisao-colegiado | 19957.001796/2020-07 | 2020-05-12 | outro | institucional | O Colegiado, por unanimidade, aprovou a minuta de acordo de cooperação para movimentação temporária de empregados entre a CVM e a BB Tecnologia e Serviços (BBTS), com base no art. 93, §7º, da Lei 8.112/1990 e na Portaria MP 193/2018, para atividades administrativas ou técnicas. | cvm/colegiado/2020/col-20200512-d1802.md |
 
 ## mp-221
 
@@ -54,8 +54,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | securitizacao | Recurso contra exigência da SRE em registro de oferta de CRA, sobre a previsão de variação do valor nominal dos direitos creditórios vinculados aos CDCA (art. 42 da Lei 11.076/2004). Colegiado, por maioria, não proveu o recurso, acompanhando as áreas técnicas. | cvm/colegiado/2021/col-20210909-d2300.md |
-| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | indeferido | securitizacao | Recurso contra entendimento da SRE que negou registro de oferta de CRA lastreado em debêntures de rede de restaurantes, cujos recursos financiariam aquisição de carne in natura de fornecedores do agronegócio. Relator votou pelo provimento, com condicionantes, por interpretação teleológica do § 1º do art. 23 da Lei 11.076/2004. | cvm/colegiado/2016/col-20160830-d0291.md |
+| decisao-colegiado | 19957.003851/2021-76 | 2021-09-09 | nao-provido | securitizacao | Por maioria, vencido um dos diretores, o Colegiado negou provimento a recurso contra exigência da SRE para aprimoramento dos mecanismos de reforço do lastro (CDCA) no registro de oferta de CRA da Eco Securitizadora, acompanhando as áreas técnicas. Fundamento: o pleito contrariaria a Lei 11.076 (arts. 28 e 42) nos sentidos literal, finalístico e sistemático. | cvm/colegiado/2021/col-20210909-d2300.md |
+| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | securitizacao | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com lastro em debêntures da BK Brasil. Condicionou o registro à previsão, na escritura, de prestação trimestral com notas fiscais da compra de carne dos fornecedores, verificada pelo agente fiduciário. | cvm/colegiado/2016/col-20160830-d0291.md |
 
 ## mp-449
 
@@ -63,8 +63,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/8386 | 2018-10-02 | indeferido | assembleia-acionistas | Recurso da Energisa contra decisão da SEP de não instaurar PAS contra administradores da Companhia Industrial Cataguases por distribuição de lucros de 2007 a 2011. Discute-se se a retenção de lucros do art. 196 da Lei 6.404/76 sujeita-se ao limite do art. 199. Relator propôs inadmissão; um diretor divergiu no ponto. | cvm/colegiado/2018/col-20181002-d8596.md |
-| decisao-colegiado | 19957.003690/2017-34 | 2017-05-16 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. SEI 19957.003690/2017-34. | cvm/colegiado/2017/col-20170516-d0677.md |
+| decisao-colegiado | RJ2012/8386 | 2018-10-02 | conhecimento | deveres-administradores | O Colegiado inadmitiu recurso da Energisa S.A. quanto à não instauração de PAS pela SEP contra administradores da Companhia Industrial Cataguases e indeferiu o refazimento das DFs de 2007 a 2011. Por maioria, decidiu que a retenção de lucros do art. 196 da Lei 6.404/76 não se sujeita ao limite do art. 199, vencido o relator. | cvm/colegiado/2018/col-20181002-d8596.md |
+| decisao-colegiado | 19957.003690/2017-34 | 2017-05-16 | outro | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. SEI 19957.003690/2017-34. | cvm/colegiado/2017/col-20170516-d0677.md |
 
 ## mp-472
 
@@ -72,7 +72,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/12695 | 2016-01-12 | indeferido | opa | Recurso do Banco Daycoval S.A. e controladores contra exigência da SRE, no registro de OPA para cancelamento de registro e saída do Nível 2, de observância dos arts. 47 e 48 da Instrução CVM 480/2009 quanto às Letras Financeiras em circulação. | cvm/colegiado/2016/col-20160112-d9990.md |
+| decisao-colegiado | RJ2015/12695 | 2016-01-12 | outro | opa | O Colegiado, por maioria, vencido um diretor, condicionou o cancelamento de registro do Banco Daycoval S.A. (OPA unificada) às hipóteses do art. 47 da ICVM 480 para as Letras Financeiras em circulação. Trata-se de recurso contra exigência da SRE; o texto não traz o resultado sobre o art. 48, I, nem o voto de diretor pela reforma parcial. | cvm/colegiado/2016/col-20160112-d9990.md |
 
 ## mp-517
 
@@ -80,8 +80,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | indeferido | securitizacao | Consulta sobre CRI lastreado em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas até 24 meses antes da oferta (Lei 9.514/97, art. 8º, I; Lei 12.431/11). Voto em vista pelo reconhecimento, com condições: especificação no termo de securitização, vinculação aos imóveis e verificação pelo agente fiduciário. Julgamento com pedido de vista. | cvm/colegiado/2019/col-20190702-d1365.md |
-| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | indeferido | securitizacao | Recurso contra exigências da SRE ao registro de oferta de CRI lastreados em debêntures cujos recursos reembolsariam a aquisição de imóvel pela própria devedora. Operação sem substância econômica e sem destinação a projeto imobiliário não constitui crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução CVM 414). Recurso não provido. | cvm/colegiado/2017/col-20170626-d0603.md |
+| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | securitizacao | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas em até 24 meses antes do encerramento da oferta, desde que detalhadas no termo de securitização e verificadas pelo agente fiduciário. Contra a SRE. | cvm/colegiado/2019/col-20190702-d1365.md |
+| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | cvm/colegiado/2017/col-20170626-d0603.md |
 
 ## mp-539
 
@@ -89,7 +89,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | intermediacao | Recurso contra indeferimento pela SMI de dispensa da Instrução CVM 505/2011 a banco com swaps próprios registrados na CETIP. Colegiado reconheceu condição de intermediário e deferiu parcialmente o recurso, concedendo dispensas aplicáveis a operações previamente registradas (arts. 13, 14, 19, 20 e 25), com revisão caso passe a intermediar para clientes. | cvm/colegiado/2016/col-20160614-d9646.md |
+| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | intermediacao | O Colegiado deferiu parcialmente recurso do Banco Yamaha Motor do Brasil S.A. contra decisão da SMI que negou dispensa da Instrução 505, acolhendo o voto que considerou o banco intermediário. Concedeu as dispensas dos arts. 13, 14, 19, 20 e 25 para operações previamente registradas e ressalvou revisão caso o banco passe a intermediar negócios para clientes. | cvm/colegiado/2016/col-20160614-d9646.md |
 
 ## mp-579
 
@@ -97,8 +97,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.007920/2018-15 | 2024-12-03 | outro | deveres-administradores | Recurso da Abicom contra arquivamento pela SEP de reclamação sobre a política de preços de combustíveis da Petrobras (PPI). Relator vota por não conhecer: o art. 238 da LSA não obriga o controlador a substituir os administradores em decisões de interesse público. | cvm/colegiado/2024/col-20241203-d2187.md |
-| decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | — | administracao-carteiras | Recurso de pessoa natural contra indeferimento de credenciamento como administrador de carteiras (Instrução CVM 558/15, art. 3º, §1º, II), por notório saber. Área técnica sugere manter a decisão: diplomas e experiência profissional não comprovaram o requisito. | cvm/colegiado/2019/col-20191015-d1573.md |
+| decisao-colegiado | 19957.007920/2018-15 | 2024-12-03 | conhecimento | deveres-administradores | O Colegiado, por unanimidade, não conheceu de recurso da Abicom contra arquivamento, pela SEP, de reclamação sobre a política de preços da Petrobras. Acompanhou o voto do relator, que aplicou o art. 4º, caput, I, e §4º, da RCVM 45 e afastou a substituição de administradores pelo controlador (art. 238 da Lei 6.404/1976). | cvm/colegiado/2024/col-20241203-d2187.md |
+| decisao-colegiado | 19957.000893/2019-31 | 2019-10-15 | nao-provido | administracao-carteiras | O Colegiado negou provimento, por unanimidade, a recurso contra indeferimento pela SIN de credenciamento como administrador de carteira com base em notório saber (art. 3º, §1º, II, da Instrução CVM 558/15), acompanhando a área técnica. Diplomas, livros e experiência no setor de energia não demonstraram notório saber em gestão de recursos de terceiros. | cvm/colegiado/2019/col-20191015-d1573.md |
 
 ## mp-656
 
@@ -106,7 +106,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | provido | securitizacao | Recurso contra exigência da SRE no registro de oferta de CRI da 1ª emissão da Barigui Securitizadora. Por maioria, provido para admitir como lastro de CRI instrumentos de empréstimo com alienação fiduciária de imóvel em garantia, divergindo da área técnica. Sustentação oral negada por unanimidade. | cvm/colegiado/2018/col-20180116-d0894.md |
+| decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | securitizacao | Por maioria, divergindo da área técnica, o Colegiado deu provimento a recurso contra exigência da SRE que excluía do lastro de CRI os empréstimos com pacto adjeto de alienação fiduciária de imóvel em garantia, e admitiu esses instrumentos como lastro. Por unanimidade, negou sustentação oral às recorrentes, em linha com a área técnica. | cvm/colegiado/2018/col-20180116-d0894.md |
 
 ## mp-780
 
@@ -114,7 +114,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 780/2017; 19957.005209/2017-45 | 2017-07-18 | outro | normativo | Deliberação que regulamenta o Programa de Regularização de Débitos não Tributários junto à CVM, instituído pela MP 780/2017, para débitos vencidos até 31/3/2017 requeridos no prazo de 120 dias. Aprovada. | cvm/colegiado/2017/col-20170718-d0747.md |
+| decisao-colegiado | 780/2017; 19957.005209/2017-45 | 2017-07-18 | outro | multa-cominatoria-taxa | O Colegiado aprovou Deliberação que regulamenta o Programa de Regularização de Débitos não Tributários (PRD) da CVM, instituído pela MP 780/2017. Poderão ser quitados débitos vencidos até 31/03/2017, inclusive parcelados, rescindidos ou em discussão, desde que requeridos em 120 dias da publicação. | cvm/colegiado/2017/col-20170718-d0747.md |
 
 ## mp-784
 
@@ -122,13 +122,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 34 | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | — | processual | Pedido de efeito suspensivo à proibição temporária de 36 meses para exercer atividade de assessor de investimento, imposta ao acusado em PAS por infração ao art. 10 da ICVM 497. O voto propõe concedê-lo, por plausibilidade na dosimetria, justo receio de dano de difícil reparação (Lei 9.784, art. 61) e vedação à retroatividade da norma mais gravosa. | cvm/colegiado/2025/col-20250415-d2014.md |
+| art. 34 | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | processual | O Colegiado, por maioria, acompanhando o voto da relatora, negou provimento a pedido de efeito suspensivo, em recurso ao CRSFN, contra a proibição temporária de 36 meses para atuar como assessor de investimento. A execução imediata da penalidade não basta para o efeito suspensivo (art. 71, RCVM 45). Um diretor ficou vencido, votando pelo deferimento. | cvm/colegiado/2025/col-20250415-d2014.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2017-07-12 | outro | normativo | Reavaliação da meta regulatória da SDM para 2017 e 1º semestre de 2018, após a MP 784: Condo Hotel realocado para 2018; retirados da meta de audiências públicas alavancagem de fundos, FIDC para varejo, fundo de infraestrutura e ajustes à Instrução CVM 567/2015; incluídos acordo de leniência, fundo de mercado de capitais e multas cominatórias. | cvm/colegiado/2017/col-20170712-d7067.md |
+| decisao-colegiado | — | 2017-07-12 | outro | normativo | O Colegiado redefiniu a meta regulatória da SDM: retirou temas de 2017, entre eles o Condo Hotel (realocado para o 1º semestre de 2018), e acrescentou acordo de leniência, Deliberação CVM 538/2008, fundo mercado de capitais e multas cominatórias. Fixou prioridades para o 1º semestre de 2018, a serem ratificadas pela SDM. | cvm/colegiado/2017/col-20170712-d7067.md |
 
 ## mp-881
 
@@ -136,8 +136,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | ofertas-publicas | Concede dispensa do boletim de subscrição a investidores institucionais na oferta pública primária de ações da Riva 9 Empreendimentos Imobiliários S.A. (art. 85, §2º, Lei 6.404/76). Aprova a Deliberação CVM 860/2020, que delega à SRE a dispensa do modelo de boletim (ICVM 400, Anexo II). | cvm/colegiado/2020/col-20200721-d1839.md |
-| decisao-colegiado | 19957.007396/2017-00 | 2019-08-27 | provido | deveres-administradores | Recurso da Cosan S.A. contra entendimento da SEP sobre o montante de remuneração a ser aprovado em assembleia geral quando administradores ocupam cargos em controladas. O Colegiado, por maioria, deu provimento ao recurso, por entender que a assembleia aprova a remuneração pelo cargo na própria companhia (art. 152 da Lei 6.404/76). | cvm/colegiado/2019/col-20190827-d1052.md |
+| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | ofertas-publicas | O Colegiado, por unanimidade, concedeu à Riva 9 dispensa de apresentação de boletim de subscrição (art. 85, §2º, da Lei 6.404/76, na redação da Lei 13.874/19), acompanhando a SRE. Aprovou a Deliberação CVM 860/2020, que delega à SRE a dispensa do modelo de boletim (ICVM 400/03, Anexo II, item 4), observadas condições. | cvm/colegiado/2020/col-20200721-d1839.md |
+| decisao-colegiado | 19957.007396/2017-00 | 2019-08-27 | provido | assembleia-acionistas | O Colegiado, acompanhando voto divergente de um diretor (vencido o relator), deu provimento ao recurso da Cosan S.A. contra entendimento da SEP que exigia aprovação em assembleia do montante da remuneração de administradores que ocupam cargos em controladas. Fundamento: cada assembleia aprova a remuneração pelo cargo que o administrador exerce nela (art. 152, Lei 6.404/76). | cvm/colegiado/2019/col-20190827-d1052.md |
 
 ## mp-892
 
@@ -145,13 +145,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 289 | decisao-colegiado | 19957.007649/2019-07 | 2019-09-27 | outro | normativo | Edição da Deliberação CVM 829/19, que regulamenta as publicações obrigatórias da Lei 6.404/76 (art. 289, nova redação pela MP 892/19) no Sistema Empresas.NET, sem certificação digital. Será revogada se a MP não for convertida em lei. | cvm/colegiado/2019/col-20190927-d1580.md |
+| art. 289 | decisao-colegiado | 19957.007649/2019-07 | 2019-09-27 | outro | normativo | O Colegiado aprovou a Deliberação CVM 829/19, que regulamenta as publicações obrigatórias da Lei 6.404/76 no sistema Empresas.NET, dispensada a certificação digital, em razão da alteração do art. 289 pela MP 892/19. Não afeta as obrigações de entrega da ICVM 480/09. Será revogada se a MP não for convertida em lei. | cvm/colegiado/2019/col-20190927-d1580.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.007649/2019-07 | 2019-12-10 | outro | normativo | Aprovada a edição da Deliberação CVM 838/19 para revogar a Deliberação CVM 829/19, que permitia publicações societárias pelo Sistema Empresas.NET. A MP 892/19, que alterava o art. 289 da Lei 6.404/76, perdeu eficácia, restabelecendo a redação original. | cvm/colegiado/2019/col-20191210-d1580.md |
+| decisao-colegiado | 19957.007649/2019-07 | 2019-12-10 | outro | normativo | O Colegiado aprovou a Deliberação CVM 838/19, que revoga a Deliberação CVM 829/19, a qual permitia às companhias abertas fazer publicações pelo Sistema Empresas.NET. Fundamento: a MP 892/19, que alterara o art. 289 da Lei 6.404/76, perdeu eficácia, mantendo-se a redação original do dispositivo. | cvm/colegiado/2019/col-20191210-d1580.md |
 
 ## mp-897
 
@@ -159,9 +159,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | — | fundos-investimento | Recurso de gestora contra entendimento da SSE de que FII e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais (Lei 13.986/2020), por não se enquadrarem no art. 45 da Instrução CVM 472/2008. Parecer PFE-CVM 15/2021 respalda a conclusão. Área técnica propôs manter o entendimento. | cvm/colegiado/2021/col-20211026-d2359.md |
-| decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | — | crowdfunding | Recurso da plataforma URBE.ME contra determinação de website exclusivo (ICVM 588/17) e proposta de deliberação de proibição a ofertas P2P/OAV fora da ICVM 588 e a referências à CVM. PFE sugeriu reduzir a multa diária para R$ 50.000,00. | cvm/colegiado/2020/col-20200618-d1838.md |
-| decisao-colegiado | 19957.000570/2018-66 | 2019-12-03 | — | ofertas-publicas | Proposta de deliberação para alertar que a Biva Serviços Financeiros S.A. não está habilitada a ofertar publicamente contratos de investimento coletivo (RDBs vinculados a CCBs) em plataforma P2P, por oferta pública de valor mobiliário sem registro (Lei 6.385/76, art. 2º, IX, e art. 19). Propõe-se suspensão da oferta, sob multa. | cvm/colegiado/2019/col-20191203-d1626.md |
+| decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, ao recurso de gestora contra entendimento da SSE em consulta, mantendo a conclusão de que Fundos de Investimento Imobiliário e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais, que só cabem a FIAGRO-Direitos Creditórios (Resolução CVM 39/2021). Acompanhou a área técnica, com base na ICVM 472/2008 e no Parecer PFE/CVM. | cvm/colegiado/2021/col-20211026-d2359.md |
+| decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | crowdfunding | O Colegiado, por unanimidade, negou provimento a recurso da URBE.ME contra determinação da SRE de manter website exclusivo à sua plataforma de crowdfunding (ICVM 588/17, art. 8º). Aprovou a Deliberação CVM 858/2020, que proíbe ofertas diferentes das autorizadas pela ICVM 588, por situação anormal de mercado (art. 9º, §1º, da Lei 6.385/76). | cvm/colegiado/2020/col-20200618-d1838.md |
+| decisao-colegiado | 19957.000570/2018-66 | 2019-12-03 | outro | ofertas-publicas | O Colegiado, por unanimidade, rejeitou proposta da SRE de edição de deliberação para suspender oferta de contratos de investimento coletivo da Biva, e determinou comunicação ao Banco Central. Entendeu que, pelo art. 45-A da Lei 10.931/04, não é possível afastar a responsabilidade da instituição financeira para fins da exceção do art. 2º, §1º, da Lei 6.385/76. | cvm/colegiado/2019/col-20191203-d1626.md |
 
 ## mp-928
 
@@ -169,10 +169,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009746/2021-41 | 2025-05-27 | deferido | processual | Pedidos do acusado de extinção do PAS por prescrição intercorrente e de exclusão de imputação, após anulação judicial dos atos desde a negativa de prova. Voto reconhece a prescrição, com efeito retroativo à nulidade, e afasta a vedação à reformatio in pejus, a partir de precedentes do STJ e do TJ-SC. | cvm/colegiado/2025/col-20250527-d9798.md |
-| decisao-colegiado | 19957.011657/2019-40 | 2021-02-09 | outro | processual | Pedido de reconhecimento de nulidade processual após julgamento de PAS, alegando vício em processo administrativo de origem e ausência de notificação da reabertura de prazos. Relator votou pelo não conhecimento, por não haver omissão ou obscuridade no voto. | cvm/colegiado/2021/col-20210209-d1800.md |
-| decisao-colegiado | 19957.006012/2016-42 | 2020-08-25 | indeferido | processual | Pedido de efeito suspensivo a recurso contra condenação de pessoa natural a 24 meses de proibição de atuar no mercado, por administração irregular de carteira (art. 23 da Lei 6.385/76). Indeferido: após a Lei 13.506/17, o efeito suspensivo exige circunstâncias excepcionais, e a probabilidade de êxito do recurso não basta. | cvm/colegiado/2020/col-20200825-d0619.md |
-| decisao-colegiado | 19957.002783/2020-47 | 2020-05-19 | indeferido | ofertas-publicas | Recurso da Verus Investimentos SCP contra indeferimento, pela SRE, de pedido de dispensa de registro de oferta pública de títulos participativos, por suposto Contrato de Investimento Coletivo sem mecanismos de proteção ao investidor (Lei 6.385/76, art. 2º, IX; ICVM 400/03, art. 4º). | cvm/colegiado/2020/col-20200519-d1807.md |
+| decisao-colegiado | 19957.009746/2021-41 | 2025-05-27 | indeferido | processual | O Colegiado, por unanimidade, indeferiu pedido de exclusão de imputação de descumprimento da ICVM 480/2009 (art. 24) e, por maioria, pedido de extinção do PAS por prescrição intercorrente, acompanhando o voto da relatora. Para ela, a anulação parcial não impede a continuidade da persecução administrativa. Um diretor votou pelo reconhecimento da prescrição. | cvm/colegiado/2025/col-20250527-d9798.md |
+| decisao-colegiado | 19957.011657/2019-40 | 2021-02-09 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração do acusado contra o julgamento do PAS, em que alegava nulidade desde a fase de investigação. Acompanhou o voto do relator, que entendeu operada a preclusão consumativa, pois o PAS já fora julgado. | cvm/colegiado/2021/col-20210209-d1800.md |
+| decisao-colegiado | 19957.006012/2016-42 | 2020-08-25 | indeferido | processual | O Colegiado indeferiu pedido de efeito suspensivo contra decisão condenatória que impôs ao requerente proibição temporária de 24 meses de atuar no mercado, por exercício irregular de administração de carteira (art. 23 da Lei 6.385/76). Acompanhando a relatora, entendeu que não há circunstâncias excepcionais, exigidas após a Lei 13.506/17, e que o recurso tem apenas efeito devolutivo. | cvm/colegiado/2020/col-20200825-d0619.md |
+| decisao-colegiado | 19957.002783/2020-47 | 2020-05-19 | conhecimento | ofertas-publicas | O Colegiado, por unanimidade, não conheceu do recurso da Verus Investimentos SCP contra indeferimento pela SRE de dispensa de registro de oferta de títulos participativos. Fundamento: intempestividade. O prazo recursal (Deliberação CVM 463/03) não foi suspenso pela MP 928/2020 e só passou a ser contado em dobro com a Deliberação CVM 848/2020, editada após seu término. | cvm/colegiado/2020/col-20200519-d1807.md |
 
 ## mp-983
 
@@ -180,19 +180,19 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
 
 ### art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, § 1º, inciso I | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 3º, § 1º, inciso I | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | — | normativo | Consulta sobre aceitação, em pedidos de registro submetidos à SRE, de assinatura eletrônica fora do padrão ICP-Brasil em documentos firmados entre partes. A área técnica propôs aceitar, além da ICP-Brasil, assinaturas da Plataforma GOV.BR de nível ao menos avançado, com base no art. 10, §2º, da MP 2.200-2/2001. | cvm/colegiado/2021/col-20210622-d1921.md |
+| decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | normativo | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é admissível em documentos entre particulares que instruem pedidos de registro na CVM, desde que aceita pelas partes. Fundamentos: art. 10, §2º, da MP 2.200-2/2001 e dever de diligência da instituição líder. | cvm/colegiado/2021/col-20210622-d1921.md |
 
 ## mp-1040
 
@@ -200,7 +200,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.002798/2021-96 | 2021-03-30 | outro | assembleia-acionistas | Colegiado aprovou a Resolução CVM 25/2021, com base na MP 1.040/2021, com regra transitória que permite às companhias manter o planejamento original das AGOs de 2021, diante do prazo de 30 dias de convocação ampliado pela MP na Lei 6.404/76. | cvm/colegiado/2021/col-20210330-d2176.md |
+| art. 6º | decisao-colegiado | 19957.002798/2021-96 | 2021-03-30 | outro | normativo | O Colegiado aprovou a Resolução CVM 25/2021, com base no art. 6º da MP 1.040/2021, como regra transitória para as assembleias gerais ordinárias de 2021, permitindo às companhias abertas manter seus planejamentos originais diante do novo prazo de 30 dias de antecedência de convocação do art. 124, §1º, II, da Lei 6.404/1976. | cvm/colegiado/2021/col-20210330-d2176.md |
 
 ### Citada sem dispositivo identificado
 
@@ -208,8 +208,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.010627/2021-31 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.010627/2021-31. | cvm/colegiado/2022/col-20221227-d2755.md |
 | decisao-colegiado | 19957.010626/2021-96 | 2022-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.010626/2021-96. | cvm/colegiado/2022/col-20221227-d2753.md |
-| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | normativo | Início da discussão sobre minuta que regulamenta a composição dos órgãos de administração de companhias abertas e o voto plural, conforme a Lei 14.195/2021 (MP 1.040/2021), alterando as Instruções CVM 367/2002 e 480/2009 (substituídas pela Resolução CVM 80/2022). Sem deliberação final. | cvm/colegiado/2022/col-20220831-d1763.md |
-| decisao-colegiado | 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | normativo | Aprovada submissão à audiência pública de proposta que altera as ICVM 367/2002 e 480/2009 para regulamentar a composição dos órgãos de administração e o voto plural (Lei 14.195/2021). Dispensada AIR (art. 4º, II, Decreto 10.411/2020). | cvm/colegiado/2021/col-20211215-d1763.md |
+| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | normativo | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM nº 09/2021 sobre propostas de resolução que regulamentam, no âmbito do Doing Business, dispositivos da Lei 6.404/76 sobre composição dos órgãos de administração e voto plural. Sem deliberação nesta reunião. | cvm/colegiado/2022/col-20220831-d1763.md |
+| decisao-colegiado | 367/2002; 480/2009; 19957.005520/2019-56 | 2021-12-15 | outro | normativo | O Colegiado aprovou submeter à audiência pública proposta de resolução com alterações pontuais nas Instruções CVM 367/2002 e 480/2009 sobre composição dos órgãos de administração e voto plural, conforme a Lei 14.195/2021. Não houve AIR, pelo escopo limitado a disposições legais hierarquicamente superiores. | cvm/colegiado/2021/col-20211215-d1763.md |
 
 ## mp-1072
 
@@ -227,10 +227,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | — | securitizacao | Recurso da devedora contra manifestação da SSE que vedou a prorrogação de CRI lastreados em debêntures da própria devedora, sujeita a recuperação extrajudicial, com base no art. 4º, parágrafo único, da Resolução CMN 5.118/2024. A SSE propõe o não provimento do recurso. | cvm/colegiado/2025/col-20250610-d3290.md |
-| decisao-colegiado | 19957.010732/2022-51 | 2022-09-13 | deferido | securitizacao | Consulta com pedido de dispensa do Itaú BBA sobre a averbação, nas matrículas, de contratos de locação que lastreiam a destinação de recursos de debêntures da Americanas S.A. (CRI da 1ª série, 39ª emissão da Virgo Companhia de Securitização). Colegiado deferiu a dispensa, acompanhando a SSE; contratos que venham por substituição devem estar vigentes na data de emissão dos CRI. | cvm/colegiado/2022/col-20220913-d2684.md |
-| decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | securitizacao | Recurso contra entendimento da SSE sobre CRA. Colegiado deu provimento quanto ao CRA de reembolso de despesas, com salvaguardas (especificação no termo, prazo de até 24 meses e verificação pelo agente fiduciário); negou provimento quanto à comprovação prévia com produtores rurais e à equiparação de agentes da cadeia agro. | cvm/colegiado/2022/col-20220913-d2642.md |
-| decisao-colegiado | 476/2009; 19957.010717/2022-11 | 2022-08-16 | deferido | securitizacao | Pedido da ABSIA para que Certificados de Recebíveis da Lei 14.430/2022 possam ser ofertados pela Instrução CVM 476/2009 até a vigência da Resolução CVM 160/2022 (02.01.2023). Aprovada a Resolução CVM 165/2022, sem consulta pública e com dispensa de AIR (art. 4º, III e VII, do Decreto 10.411/2020). | cvm/colegiado/2022/col-20220816-d2670.md |
+| decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | nao-provido | securitizacao | O Colegiado negou provimento, por unanimidade, a recurso do Grupo Casas Bahia S.A. contra manifestação da SSE que impede a prorrogação do vencimento de CRI cujo devedor é a própria companhia, acompanhando a área técnica. Fundamento: art. 4º, parágrafo único, da Resolução CMN 5.118/2024, e ausência de determinação judicial de prorrogação. | cvm/colegiado/2025/col-20250610-d3290.md |
+| decisao-colegiado | 19957.010732/2022-51 | 2022-09-13 | deferido | securitizacao | O Colegiado deferiu, acompanhando a SSE, o pedido do Banco Itaú BBA S.A. de desobrigação de averbação, nas matrículas dos imóveis, dos contratos de locação destinados a debêntures que servirão de lastro a CRI da Virgo Companhia de Securitização. A SSE havia exigido a averbação e reformulou o entendimento, sustentando sua desnecessidade. | cvm/colegiado/2022/col-20220913-d2684.md |
+| decisao-colegiado | 19957.007680/2020-73 | 2022-09-13 | parcial | securitizacao | O Colegiado deu provimento parcial ao recurso contra entendimento da SSE sobre CRA de reembolso. Por unanimidade, proveu o item I (reembolso de despesas do agronegócio, com salvaguardas: especificação no termo, até 24 meses de antecedência e verificação pelo agente fiduciário). Por maioria, negou o item II; por unanimidade, negou o item III. | cvm/colegiado/2022/col-20220913-d2642.md |
+| decisao-colegiado | 476/2009; 19957.010717/2022-11 | 2022-08-16 | outro | normativo | O Colegiado aprovou a Resolução CVM nº 165/2022, que equipara os Certificados de Recebíveis da Lei nº 14.430/2022 aos CRI e CRA para ofertas pela ICVM 476 até a entrada em vigor da Resolução CVM nº 160/2022. Consulta pública e AIR dispensadas. | cvm/colegiado/2022/col-20220816-d2670.md |
 
 ## mp-1520
 
@@ -238,7 +238,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 02/2013 | 2018-04-24 | indeferido | processual | Recurso de acusado no PAS 02/2013 (Instrução CVM 8/1979, item I c/c item II, 'c') contra indeferimento de prova testemunhal de agência de rating e de auditoria sobre CCIs lastreadas em créditos do FCVS, por desnecessária. Deliberação CVM 538/2008, art. 19. Negado provimento por unanimidade. | cvm/colegiado/2018/col-20180424-d0227.md |
+| decisao-colegiado | 02/2013 | 2018-04-24 | nao-provido | processual | O Colegiado negou provimento, por unanimidade, ao recurso contra decisão do relator que indeferiu oitiva de profissionais da KPMG e da LF Rating no PAS 02/2013 (operação fraudulenta com CCIs), por desnecessária: a prova apenas confirmaria fatos que a acusação assumiu como verdadeiros. | cvm/colegiado/2018/col-20180424-d0227.md |
 
 ## mp-1637
 
@@ -246,9 +246,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009524/2017-41 | 2019-04-22 | outro | ofertas-publicas | Consulta sobre se a venda de frações de tempo em multipropriedade, combinada a pool de locação voluntário e ofertada publicamente, caracteriza contrato de investimento coletivo (inciso IX do art. 2º da Lei 6.385/76). Em voto do relator, a substância econômica prevalece sobre a forma: pool obrigatório atrai o regime, e a mera aquisição para investimento não basta. | cvm/colegiado/2019/col-20190422-d0832.md |
-| decisao-colegiado | 296/1998; 19957.005089/2018-67 | 2018-05-15 | deferido | normativo | Proposta de revogação da Instrução CVM 296/98, que disciplina o registro de distribuição pública de contratos de investimento coletivo, por obsolescência e risco de arbitragem regulatória frente às Instruções CVM 400/03 e 588/17. Colegiado aprovou, por unanimidade, a colocação da minuta em audiência pública. | cvm/colegiado/2018/col-20180515-d104018.md |
-| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | deferido | ofertas-publicas | Recurso contra exigência da SRE, no pedido de dispensa de registro de contratos de investimento coletivo de empreendimento hoteleiro (Deliberação CVM 734/2015; arts. 20 e 27 da Instrução CVM 400/2003), que exigia direito de retratação a 75 adquirentes. Relator votou pelo deferimento, por falta de segurança jurídica quanto aos condo-hotéis antes do Alerta da CVM de 12/12/2013. | cvm/colegiado/2016/col-20160412-d0050.md |
+| decisao-colegiado | 19957.009524/2017-41 | 2019-04-22 | outro | ofertas-publicas | O Colegiado, por unanimidade, acompanhou o relator: multipropriedade com pool de locação voluntário pode ser contrato de investimento coletivo, mas, no caso concreto, a venda de frações de tempo não é oferta de valor mobiliário, pois não se concluiu que buscassem remuneração. | cvm/colegiado/2019/col-20190422-d0832.md |
+| decisao-colegiado | 296/1998; 19957.005089/2018-67 | 2018-05-15 | outro | normativo | O Colegiado, por unanimidade, aprovou colocar em audiência pública minuta de Instrução que revoga a ICVM 296/1998, sobre registro de distribuição pública de contratos de investimento coletivo. Segundo as áreas técnicas, a norma é obsoleta e permite arbitragem regulatória diante das ICVM 400/2003 e 588/2017. | cvm/colegiado/2018/col-20180515-d104018.md |
+| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 
 ## mp-1788
 
@@ -256,7 +256,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Recurso do administrador de FII contra decisão da SSE que condicionou a distribuição de rendimentos à existência de lucro contábil, com base no art. 10, parágrafo único, da Lei 8.668/1993 e no Ofício-Circular SIN/SNC 1/2014. Provido parcialmente, por maioria, vencido um diretor. | cvm/colegiado/2021/col-20211221-d2388.md |
+| decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | cvm/colegiado/2021/col-20211221-d2388.md |
 
 ## mp-2042
 
@@ -264,7 +264,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | indeferido | securitizacao | Recurso contra entendimento da SRE que negou registro de oferta de CRA lastreado em debêntures de rede de restaurantes, cujos recursos financiariam aquisição de carne in natura de fornecedores do agronegócio. Relator votou pelo provimento, com condicionantes, por interpretação teleológica do § 1º do art. 23 da Lei 11.076/2004. | cvm/colegiado/2016/col-20160830-d0291.md |
+| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | securitizacao | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com lastro em debêntures da BK Brasil. Condicionou o registro à previsão, na escritura, de prestação trimestral com notas fiscais da compra de carne dos fornecedores, verificada pelo agente fiduciário. | cvm/colegiado/2016/col-20160830-d0291.md |
 
 ## mp-2110
 
@@ -272,7 +272,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | deferido | ofertas-publicas | Recurso contra exigência da SRE, no pedido de dispensa de registro de contratos de investimento coletivo de empreendimento hoteleiro (Deliberação CVM 734/2015; arts. 20 e 27 da Instrução CVM 400/2003), que exigia direito de retratação a 75 adquirentes. Relator votou pelo deferimento, por falta de segurança jurídica quanto aos condo-hotéis antes do Alerta da CVM de 12/12/2013. | cvm/colegiado/2016/col-20160412-d0050.md |
+| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 
 ## mp-2181
 
@@ -280,8 +280,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP2015/0288 | 2016-06-21 | indeferido | assembleia-acionistas | Recurso da AIDMIN e de fundo de investimento contra entendimento da SEP sobre eleição em separado de conselheiro de administração da Eletrobras (Lei 6.404/1976, art. 141, §4º, II). Relator votou pelo indeferimento: os titulares das ações do percentual exigido devem comparecer à assembleia, não se aplicando por analogia o precedente do conselho fiscal (art. 161, §4º). | cvm/colegiado/2016/col-20160621-d9996.md |
-| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | deferido | ofertas-publicas | Recurso contra exigência da SRE, no pedido de dispensa de registro de contratos de investimento coletivo de empreendimento hoteleiro (Deliberação CVM 734/2015; arts. 20 e 27 da Instrução CVM 400/2003), que exigia direito de retratação a 75 adquirentes. Relator votou pelo deferimento, por falta de segurança jurídica quanto aos condo-hotéis antes do Alerta da CVM de 12/12/2013. | cvm/colegiado/2016/col-20160412-d0050.md |
+| decisao-colegiado | SP2015/0288 | 2016-06-21 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, indeferiu recurso contra entendimento da SEP sobre eleição de conselheiros de administração da companhia Centrais Elétricas Brasileiras S.A. (Eletrobras). Fundamento: vagas reservadas a uma classe de acionistas (art. 17 do estatuto) não podem ser preenchidas por outras; não cabe analogia ao RJ2007/11086. Mantido o posicionamento da SEP (RA/CVM/SEP/GEA-3/N° 95/15). | cvm/colegiado/2016/col-20160621-d9996.md |
+| decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 
 ## mp-2189
 
@@ -289,7 +289,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2016/2365 | 2016-11-29 | indeferido | fundos-investimento | Recurso da Claritas Administração de Recursos contra decisão da SIN sobre aquisição de cotas do Domo FII por fundos geridos pela Fram. Alegada infração ao art. 41 do regulamento (negociação somente em plataforma registrada) e perda de isenção fiscal (Lei 11.033/2004). A SIN concluiu pela inexistência de vício. | cvm/colegiado/2016/col-20161129-d0329.md |
+| decisao-colegiado | RJ2016/2365 | 2016-11-29 | nao-provido | fundos-investimento | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso da Claritas Administração de Recursos contra decisão da SIN sobre aquisição de cotas do Domo FII por fundos da Fram. Para a área técnica, as aquisições na Cetip (Fundo 21) não contrariam o regulamento nem a Instrução CVM 461/2007 (Memorando 70/2016). | cvm/colegiado/2016/col-20161129-d0329.md |
 
 ## mp-2199
 
@@ -297,7 +297,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | opa | Pedido de OPA para cancelamento de registro da Marina de Iracema Park S.A., pela controladora Indústria Naval do Ceará S.A., com dispensa de leilão, de edital e inversão simples do quórum (art. 34 da Instrução CVM 361/2002). Deferido, condicionado ao cumprimento dos arts. 47 e 48 da Instrução CVM 480/2009 quanto às debêntures do FINOR. | cvm/colegiado/2016/col-20160614-d0125.md |
+| decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | opa | O Colegiado, acompanhando o voto de diretor, deferiu procedimento diferenciado para OPA de cancelamento de registro da Marina de Iracema Park S.A.: dispensa de leilão (art. 12) e de edital (art. 11) e inversão simples do quórum (art. 16, II) da Instrução 361, condicionado ao cumprimento dos arts. 47 e 48 da Instrução 480 quanto às debêntures do FINOR. | cvm/colegiado/2016/col-20160614-d0125.md |
 
 ## mp-2200
 
@@ -305,18 +305,18 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 1º, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
 
 ### art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
-| art. 10 | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | — | normativo | Consulta sobre aceitação, em pedidos de registro submetidos à SRE, de assinatura eletrônica fora do padrão ICP-Brasil em documentos firmados entre partes. A área técnica propôs aceitar, além da ICP-Brasil, assinaturas da Plataforma GOV.BR de nível ao menos avançado, com base no art. 10, §2º, da MP 2.200-2/2001. | cvm/colegiado/2021/col-20210622-d1921.md |
-| art. 10, § 1º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
-| art. 10, § 1º | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | — | normativo | Consulta sobre aceitação, em pedidos de registro submetidos à SRE, de assinatura eletrônica fora do padrão ICP-Brasil em documentos firmados entre partes. A área técnica propôs aceitar, além da ICP-Brasil, assinaturas da Plataforma GOV.BR de nível ao menos avançado, com base no art. 10, §2º, da MP 2.200-2/2001. | cvm/colegiado/2021/col-20210622-d1921.md |
-| art. 10, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | — | ofertas-publicas | Pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, da ICVM 332/00) para BDR nível III da Aura Minerals Inc., e de autorização para assinatura eletrônica fora do padrão ICP-Brasil em documentos da oferta. A SRE manifestou-se favoravelmente ao primeiro e submeteu o segundo ao Colegiado. | cvm/colegiado/2020/col-20200922-d1921.md |
-| art. 10, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | — | normativo | Consulta sobre aceitação, em pedidos de registro submetidos à SRE, de assinatura eletrônica fora do padrão ICP-Brasil em documentos firmados entre partes. A área técnica propôs aceitar, além da ICP-Brasil, assinaturas da Plataforma GOV.BR de nível ao menos avançado, com base no art. 10, §2º, da MP 2.200-2/2001. | cvm/colegiado/2021/col-20210622-d1921.md |
+| art. 10 | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 10 | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | normativo | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é admissível em documentos entre particulares que instruem pedidos de registro na CVM, desde que aceita pelas partes. Fundamentos: art. 10, §2º, da MP 2.200-2/2001 e dever de diligência da instituição líder. | cvm/colegiado/2021/col-20210622-d1921.md |
+| art. 10, § 1º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 10, § 1º | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | normativo | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é admissível em documentos entre particulares que instruem pedidos de registro na CVM, desde que aceita pelas partes. Fundamentos: art. 10, §2º, da MP 2.200-2/2001 e dever de diligência da instituição líder. | cvm/colegiado/2021/col-20210622-d1921.md |
+| art. 10, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2020-09-22 | indeferido | ofertas-publicas | O Colegiado indeferiu pedido de dispensa da distribuição simultânea no Brasil e no exterior (art. 4º, §1º, ICVM 332/00) para BDR Nível III de emissora estrangeira, contra manifestação favorável da SRE, por entender que a distribuição via Regulation S e Rule 144A não atende ao requisito. Determinou diligências sobre assinatura eletrônica, sem prejuízo do prosseguimento do registro. | cvm/colegiado/2020/col-20200922-d1921.md |
+| art. 10, § 2º | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | normativo | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é admissível em documentos entre particulares que instruem pedidos de registro na CVM, desde que aceita pelas partes. Fundamentos: art. 10, §2º, da MP 2.200-2/2001 e dever de diligência da instituição líder. | cvm/colegiado/2021/col-20210622-d1921.md |
 
 ## mp-2223
 
@@ -324,4 +324,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | indeferido | securitizacao | Recurso contra exigências da SRE ao registro de oferta de CRI lastreados em debêntures cujos recursos reembolsariam a aquisição de imóvel pela própria devedora. Operação sem substância econômica e sem destinação a projeto imobiliário não constitui crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução CVM 414). Recurso não provido. | cvm/colegiado/2017/col-20170626-d0603.md |
+| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | cvm/colegiado/2017/col-20170626-d0603.md |

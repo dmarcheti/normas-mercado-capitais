@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/3998.md](../../../normas/normas/cmn/resolucoes/3998.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | — | fundos-investimento | Pedido da CIP S.A. (Nuclea) de dispensa das vedações do Anexo II da RCVM 175 para registrar direitos creditórios de FIDC mesmo sendo parte relacionada de prestadores, e para verificar lastro. SSE propõe deferimento condicionado a salvaguardas: comitê de partes relacionadas, divulgação e vedação de conselheiros com controlador comum. | cvm/colegiado/2023/col-20230627-d2875.md |
+| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | infraestrutura-mercado | O Colegiado, por maioria, concedeu à CIP S.A. (Nuclea) dispensas da RCVM 175/2022 (Anexo II, arts. 30, I, 42, §1º e 36, §4º) por um ano, para registrar direitos creditórios de FIDC mesmo como parte relacionada, condicionadas a salvaguardas, acompanhando a SSE. Uma diretora votou pelo indeferimento. | cvm/colegiado/2023/col-20230627-d2875.md |

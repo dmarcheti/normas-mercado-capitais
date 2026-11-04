@@ -11,17 +11,17 @@ Norma: [cvm/resolucoes/0033.md](../../../normas/normas/cvm/resolucoes/0033.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | Proposta de termo de compromisso de depositária e de seu diretor-presidente por atuação como escriturador sem autorização da CVM (art. 2º da RCVM 33), de 14.08.2024 a 01.10.2024. Obrigação pecuniária de R$ 405.000,00. O Comitê opinou pela aceitação. | cvm/colegiado/2025/col-20250513-d2876.md |
+| art. 2º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Laqus Depositária e de seu diretor-presidente, de R$ 405.000,00 em duas parcelas, para encerrar apuração de atuação como escriturador sem autorização, acompanhando o Comitê; vencido um diretor, favorável à proposta original de R$ 25.000,00. | cvm/colegiado/2025/col-20250513-d2876.md |
 
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | Proposta de termo de compromisso de depositária e de seu diretor-presidente por atuação como escriturador sem autorização da CVM (art. 2º da RCVM 33), de 14.08.2024 a 01.10.2024. Obrigação pecuniária de R$ 405.000,00. O Comitê opinou pela aceitação. | cvm/colegiado/2025/col-20250513-d2876.md |
-| art. 8º, § 1º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | Proposta de termo de compromisso de depositária e de seu diretor-presidente por atuação como escriturador sem autorização da CVM (art. 2º da RCVM 33), de 14.08.2024 a 01.10.2024. Obrigação pecuniária de R$ 405.000,00. O Comitê opinou pela aceitação. | cvm/colegiado/2025/col-20250513-d2876.md |
+| art. 8º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Laqus Depositária e de seu diretor-presidente, de R$ 405.000,00 em duas parcelas, para encerrar apuração de atuação como escriturador sem autorização, acompanhando o Comitê; vencido um diretor, favorável à proposta original de R$ 25.000,00. | cvm/colegiado/2025/col-20250513-d2876.md |
+| art. 8º, § 1º | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Laqus Depositária e de seu diretor-presidente, de R$ 405.000,00 em duas parcelas, para encerrar apuração de atuação como escriturador sem autorização, acompanhando o Comitê; vencido um diretor, favorável à proposta original de R$ 25.000,00. | cvm/colegiado/2025/col-20250513-d2876.md |
 
 ## art. 31
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 31 | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | Proposta de termo de compromisso de depositária e de seu diretor-presidente por atuação como escriturador sem autorização da CVM (art. 2º da RCVM 33), de 14.08.2024 a 01.10.2024. Obrigação pecuniária de R$ 405.000,00. O Comitê opinou pela aceitação. | cvm/colegiado/2025/col-20250513-d2876.md |
+| art. 31 | termo-compromisso | 19957.012349/2022-37 | 2025-05-13 | aceito | exercicio-irregular | O Colegiado, por maioria, aceitou proposta de termo de compromisso da Laqus Depositária e de seu diretor-presidente, de R$ 405.000,00 em duas parcelas, para encerrar apuração de atuação como escriturador sem autorização, acompanhando o Comitê; vencido um diretor, favorável à proposta original de R$ 25.000,00. | cvm/colegiado/2025/col-20250513-d2876.md |

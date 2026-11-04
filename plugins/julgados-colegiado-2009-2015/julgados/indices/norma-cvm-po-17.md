@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0017.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/6750 | 2009-10-13 | parcial | contabil-demonstracoes | Recurso contra exigência de republicação das DFs de 31.12.08 por ajustes na DFP. Dispensa concedida com condições: AGE para aprovar os ajustes e destinar o saldo de lucros acumulados, comunicado ao mercado e publicação comparativa das DFs ajustadas. | cvm/colegiado/2009/col-20091013-d20.md |
+| decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | contabil-demonstracoes | O Colegiado, acompanhando o relator, deu provimento ao recurso da PPE Fios Esmaltados contra entendimento da SEP e dispensou a republicação das demonstrações financeiras de 31.12.08. Fundamento: não há ações em circulação e os acionistas estão cientes dos ajustes. Condicionou a dispensa à AGE, comunicado e publicação comparativa. | cvm/colegiado/2009/col-20091013-d20.md |

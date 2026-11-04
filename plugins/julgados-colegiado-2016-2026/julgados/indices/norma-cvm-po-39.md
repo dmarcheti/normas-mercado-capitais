@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0039.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2021-12-16 | outro | contabil-demonstracoes | Colegiado aprovou o Parecer de Orientação CVM 39/2021 sobre demonstrações financeiras resumidas, conforme a nova redação do art. 289, I e II, da Lei 6.404/1976, em vigor em 01.01.2022. Exige base auditada, aviso, comparativo com o exercício anterior, conteúdo mínimo e conciliação de EBITDA e EBIT. | cvm/colegiado/2021/col-20211216-d2449.md |
+| decisao-colegiado | — | 2021-12-16 | outro | contabil-demonstracoes | O Colegiado aprovou o Parecer de Orientação CVM nº 39/2021 sobre demonstrações financeiras resumidas, conforme o novo art. 289, I e II, da Lei nº 6.404/1976, vigente a partir de 01.01.2022. Exige base em demonstrações completas auditadas, aviso de resumo, comparação com o exercício anterior e conciliação para EBITDA e EBIT (Instrução CVM nº 527/2012). | cvm/colegiado/2021/col-20211216-d2449.md |

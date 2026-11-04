@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0034.md](../../../normas/normas/cvm/resolucoes/0034.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | infraestrutura-mercado | Pedido da SL Tools S.A. de autorização para operar mercado de balcão organizado (art. 142, III e IV, RCVM 135) e de dispensa de requisitos (art. 29, IV; art. 89, I; Anexo B, item 1.3, b). Voto defere, com mecanismo de opt-out condicionado a plano de comunicação e a prazo mínimo de 30 dias para os emissores. | cvm/colegiado/2025/col-20250708-d3211.md |
+| decisao-colegiado | 19957.012698/2023-30 | 2025-07-08 | deferido | infraestrutura-mercado | O Colegiado deferiu, por unanimidade, pedido de autorização para funcionar como entidade administradora de mercado organizado e de mercado de balcão organizado, com dispensas dos arts. 29, IV, e 89, I, da RCVM 135 e do item 1.3, b, do Anexo B, sob as condições dos votos. Acompanhou a SMI. Julgamento retomado após vista. | cvm/colegiado/2025/col-20250708-d3211.md |

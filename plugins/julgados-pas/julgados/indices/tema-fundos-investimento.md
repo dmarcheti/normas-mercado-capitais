@@ -7,7 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 | pas | 19957.008718/2020-25 | 2025-12-16 | absolvicao | fundos-investimento | Apurar suposta operação fraudulenta na administração e na destinação dos recursos do Fundo de Investimento em Participações Cais Mauá do Brasil Infraestrutura. Absolvição. | cvm/pas/2025/19957-008718-2020-25.md |
 | pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | fundos-investimento | Apurar eventuais irregularidades na divulgação de informações à CVM acerca da liquidez de fundos de investimento, em infração ao art. 19 da Instrução CVM nº 558 e, posteriormente, ao art. 22 da Resolução CVM nº 21. Multa. | cvm/pas/2025/19957-011992-2023-24.md |
 | pas | 19957.003953/2021-91 | 2025-04-01 | extincao | fundos-investimento | Apurar responsabilidade por irregularidade na prestação de serviço de gestão de fundo de investimento. Extinção do processo sem julgamento de mérito. | cvm/pas/2025/19957-003953-2021-91.md |

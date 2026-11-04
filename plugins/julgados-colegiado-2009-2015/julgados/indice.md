@@ -27,30 +27,30 @@ Total: Decisões do Colegiado, 4161.
 
 | Tema | Julgados | Subíndice |
 |---|---|---|
-| administracao-carteiras | 86 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
+| administracao-carteiras | 82 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
 | analistas-rating | 12 | [indices/tema-analistas-rating.md](indices/tema-analistas-rating.md) |
-| assembleia-acionistas | 103 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
-| auditoria-independente | 26 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
-| contabil-demonstracoes | 127 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
+| assembleia-acionistas | 94 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
+| auditoria-independente | 24 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
+| contabil-demonstracoes | 91 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
 | crowdfunding | 1 | [indices/tema-crowdfunding.md](indices/tema-crowdfunding.md) |
-| deveres-administradores | 26 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
-| divulgacao-informacoes | 179 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
-| exercicio-irregular | 64 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
-| fundos-investimento | 221 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
-| informacao-privilegiada | 3 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
-| infraestrutura-mercado | 63 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
-| institucional | 111 | [indices/tema-institucional.md](indices/tema-institucional.md) |
-| intermediacao | 276 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
+| deveres-administradores | 19 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
+| divulgacao-informacoes | 137 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
+| exercicio-irregular | 58 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
+| fundos-investimento | 199 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
+| informacao-privilegiada | 5 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
+| infraestrutura-mercado | 75 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
+| institucional | 116 | [indices/tema-institucional.md](indices/tema-institucional.md) |
+| intermediacao | 241 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
 | manipulacao-fraude | 5 | [indices/tema-manipulacao-fraude.md](indices/tema-manipulacao-fraude.md) |
-| multa-cominatoria-taxa | 1859 | [indices/tema-multa-cominatoria-taxa.md](indices/tema-multa-cominatoria-taxa.md) |
-| normativo | 281 | [indices/tema-normativo.md](indices/tema-normativo.md) |
-| ofertas-publicas | 114 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
-| opa | 97 | [indices/tema-opa.md](indices/tema-opa.md) |
-| outros | 232 | [indices/tema-outros.md](indices/tema-outros.md) |
-| pld | 13 | [indices/tema-pld.md](indices/tema-pld.md) |
-| processual | 216 | [indices/tema-processual.md](indices/tema-processual.md) |
-| registro-emissor | 30 | [indices/tema-registro-emissor.md](indices/tema-registro-emissor.md) |
-| securitizacao | 16 | [indices/tema-securitizacao.md](indices/tema-securitizacao.md) |
+| multa-cominatoria-taxa | 1921 | [indices/tema-multa-cominatoria-taxa.md](indices/tema-multa-cominatoria-taxa.md) |
+| normativo | 359 | [indices/tema-normativo.md](indices/tema-normativo.md) |
+| ofertas-publicas | 97 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
+| opa | 98 | [indices/tema-opa.md](indices/tema-opa.md) |
+| outros | 249 | [indices/tema-outros.md](indices/tema-outros.md) |
+| pld | 6 | [indices/tema-pld.md](indices/tema-pld.md) |
+| processual | 235 | [indices/tema-processual.md](indices/tema-processual.md) |
+| registro-emissor | 27 | [indices/tema-registro-emissor.md](indices/tema-registro-emissor.md) |
+| securitizacao | 10 | [indices/tema-securitizacao.md](indices/tema-securitizacao.md) |
 
 ## Por norma citada
 

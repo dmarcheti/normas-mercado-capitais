@@ -14,7 +14,7 @@ Norma: fora do acervo.
 | art. 1º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | art. 1º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | art. 1º, inciso I | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
-| art. 1º, inciso II | decisao-colegiado | SP2000/0389 | 2002-05-07 | deferido | registro-emissor | Recurso contra decisão da SEP que deferiu cancelamento de registro de companhia aberta (CATA) nos termos da Instrução CVM nº 229/95. Controle não se presume pelo parentesco do acionista com o administrador; ações de parentes mantidas no free float por falta de prova. Recurso não provido. | cvm/colegiado/2002/col-20020507-d01.md |
+| art. 1º, inciso II | decisao-colegiado | SP2000/0389 | 2002-05-07 | nao-provido | registro-emissor | O Colegiado negou provimento ao recurso da Tulipas contra decisão da SEP que deferiu o cancelamento de registro da CATA, mantendo o fechamento de capital. Sem prova, parentesco não basta para presumir grupo de interesse do controlador (IN CVM 229/95); a SEP havia contado as ações dos sobrinhos no free-float. | cvm/colegiado/2002/col-20020507-d01.md |
 | art. 1º, inciso II | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## art. 1º-B
@@ -30,7 +30,7 @@ Norma: fora do acervo.
 | art. 2º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | art. 2º, inciso II | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
-| art. 2º, inciso III | decisao-colegiado | SP2000/0389 | 2002-05-07 | deferido | registro-emissor | Recurso contra decisão da SEP que deferiu cancelamento de registro de companhia aberta (CATA) nos termos da Instrução CVM nº 229/95. Controle não se presume pelo parentesco do acionista com o administrador; ações de parentes mantidas no free float por falta de prova. Recurso não provido. | cvm/colegiado/2002/col-20020507-d01.md |
+| art. 2º, inciso III | decisao-colegiado | SP2000/0389 | 2002-05-07 | nao-provido | registro-emissor | O Colegiado negou provimento ao recurso da Tulipas contra decisão da SEP que deferiu o cancelamento de registro da CATA, mantendo o fechamento de capital. Sem prova, parentesco não basta para presumir grupo de interesse do controlador (IN CVM 229/95); a SEP havia contado as ações dos sobrinhos no free-float. | cvm/colegiado/2002/col-20020507-d01.md |
 | art. 2º, inciso III | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## art. 3º
@@ -61,7 +61,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | RJ2000/6126 | 2002-07-09 | indeferido | opa | Pedido de reconsideração de decisão que considerou alienação de controle na incorporação de companhia aberta e exigiu o pagamento, aos aceitantes da OPA de 1999, da diferença de preço prevista no edital. Indeferido: sem prova das garantias de passivo alegadas. | cvm/colegiado/2002/col-20020709-d09.md |
+| art. 10 | decisao-colegiado | RJ2000/6126 | 2002-07-09 | nao-provido | opa | O Colegiado acompanhou o voto do relator e indeferiu pedido de reconsideração da Interatlântico contra decisão de 2001 que determinou o pagamento aos aceitantes da oferta de 1999 de diferença de preço, caso houvesse alienação de controle em dois anos. Não instaurou inquérito proposto pela SEP. | cvm/colegiado/2002/col-20020709-d09.md |
 | art. 10 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | art. 10, inciso IX | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
@@ -105,22 +105,22 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 21 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | indeferido | registro-emissor | Recurso contra decisão da SEP que negou efeito retroativo ao cancelamento de registro de companhia aberta. Colegiado deu provimento e considerou cancelado o registro a partir de 07.08.1997, data do primeiro pedido, pois o cancelamento deveria ter sido concedido na apreciação do pedido inicial. | cvm/colegiado/2005/col-20051011-d01.md |
+| art. 21 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | registro-emissor | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia aberta com efeito a partir de 07.08.97, acompanhando integralmente o voto do relator. Determinou que SEP e SDM estudem obrigar agentes fiduciários a comunicar à CVM o resgate integral de debêntures. | cvm/colegiado/2005/col-20051011-d01.md |
 | art. 21 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | indeferido | registro-emissor | Recurso contra decisão da SEP que negou efeito retroativo ao cancelamento de registro de companhia aberta. Colegiado deu provimento e considerou cancelado o registro a partir de 07.08.1997, data do primeiro pedido, pois o cancelamento deveria ter sido concedido na apreciação do pedido inicial. | cvm/colegiado/2005/col-20051011-d01.md |
+| art. 22 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | registro-emissor | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia aberta com efeito a partir de 07.08.97, acompanhando integralmente o voto do relator. Determinou que SEP e SDM estudem obrigar agentes fiduciários a comunicar à CVM o resgate integral de debêntures. | cvm/colegiado/2005/col-20051011-d01.md |
 | art. 22 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 
 ## art. 27
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 27 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | indeferido | registro-emissor | Recurso contra decisão da SEP que negou efeito retroativo ao cancelamento de registro de companhia aberta. Colegiado deu provimento e considerou cancelado o registro a partir de 07.08.1997, data do primeiro pedido, pois o cancelamento deveria ter sido concedido na apreciação do pedido inicial. | cvm/colegiado/2005/col-20051011-d01.md |
-| art. 27, inciso II | decisao-colegiado | RJ2004/4970 | 2005-10-11 | indeferido | registro-emissor | Recurso contra decisão da SEP que negou efeito retroativo ao cancelamento de registro de companhia aberta. Colegiado deu provimento e considerou cancelado o registro a partir de 07.08.1997, data do primeiro pedido, pois o cancelamento deveria ter sido concedido na apreciação do pedido inicial. | cvm/colegiado/2005/col-20051011-d01.md |
+| art. 27 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | registro-emissor | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia aberta com efeito a partir de 07.08.97, acompanhando integralmente o voto do relator. Determinou que SEP e SDM estudem obrigar agentes fiduciários a comunicar à CVM o resgate integral de debêntures. | cvm/colegiado/2005/col-20051011-d01.md |
+| art. 27, inciso II | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | registro-emissor | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia aberta com efeito a partir de 07.08.97, acompanhando integralmente o voto do relator. Determinou que SEP e SDM estudem obrigar agentes fiduciários a comunicar à CVM o resgate integral de debêntures. | cvm/colegiado/2005/col-20051011-d01.md |
 
 ## art. 29
 
@@ -145,11 +145,11 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | deveres-administradores | Consultas sobre a aplicação do Parecer de Orientação CVM 34/06 à reestruturação societária da Telemar. O Colegiado entendeu que cotações e preços de aquisição de controle não são critério objetivo para a relação de troca em incorporação, e que pareceres interpretativos não se submetem, em regra, a audiência pública. | cvm/colegiado/2006/col-20061017-d04.md |
-| decisao-colegiado | RJ2004/5452 | 2005-01-25 | indeferido | opa | Pedido de OPA para cancelamento de registro da Companhia Fabril Mascarenhas, com procedimento diferenciado e recebido como recurso contra a SRE. Indeferido por não atender aos requisitos mínimos da Instrução CVM 361/02: instrumento, laudo, intermediário, leilão e quórum. | cvm/colegiado/2005/col-20050125-d08.md |
-| decisao-colegiado | RJ2003/0226 | 2003-06-17 | nao-provido | registro-emissor | Recurso de acionistas minoritários da Odebrecht S.A. contra decisão da SOI sobre resgate compulsório de ações (art. 4º, § 5º, da Lei 6.404/76, incluído pela Lei 10.303/01) realizado após OPA. Matéria fora da competência da CVM, por se tratar de companhia fechada. Recurso não acolhido. | cvm/colegiado/2003/col-20030617-d10.md |
-| decisao-colegiado | RJ2003/2928 | 2003-06-10 | deferido | opa | Pedido de adoção de procedimento diferenciado (art. 34 da Instrução CVM 361/02) em OPA para cancelamento do registro de companhia aberta da Elevadores Atlas Schindler S.A., formulado pelo controlador. Aprovado com observações, condicionado ao atendimento das exigências da SRE. | cvm/colegiado/2003/col-20030610-d02.md |
-| decisao-colegiado | RJ2002/1679 | 2002-07-03 | parcial | opa | Recurso contra decisão da SRE sobre cancelamento de registro de companhia aberta com dispensa de OPA (art. 34 da Instrução CVM 361/02). Aprovado procedimento de aquisição das ações do free float por carta aos acionistas identificados e aviso aos demais, com prazo de venda de 30 dias. | cvm/colegiado/2002/col-20020703-d09.md |
-| decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | — | deveres-administradores | Proposta de abertura de inquérito administrativo sobre a reestruturação societária da COSIPA e da USIMINAS: diluição de minoritários por conversão de debêntures, alienação de participação antes de fato relevante e obrigatoriedade de OPA pelo acréscimo de controle. | cvm/colegiado/2002/col-20020625-d03.md |
-| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | registro-emissor | Recurso contra decisão da SEP que exigia oferta pública de fechamento de capital prévia à incorporação de ações entre companhias abertas do grupo Bunge. Provido: o voto entendeu que o recesso (arts. 45 e 264, §3º, da Lei 6.404/76) é o remédio legal para os dissidentes, sem oferta prévia obrigatória. | cvm/colegiado/2002/col-20020115-d05.md |
+| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | normativo | O Colegiado respondeu negativamente a duas consultas sobre o Parecer de Orientação 34/2006 (operação Telemar): preço de aquisição de controle não é critério objetivo para relação de troca em incorporação, e a convergência de cotações após o anúncio não indica aceitação do mercado. Atos interpretativos não se submetem, em regra, a audiência pública. | cvm/colegiado/2006/col-20061017-d04.md |
+| decisao-colegiado | RJ2004/5452 | 2005-01-25 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso contra decisão da SRE sobre pedido de OPA para cancelamento de registro da Companhia Fabril Mascarenhas com procedimento diferenciado, acompanhando o voto do relator: a proposta não seguia as normas aplicáveis (sem instrumento de OPA, laudo de avaliação, intermediário ou previsão de leilão) e oferecia R$ 0,82 por ação. | cvm/colegiado/2005/col-20050125-d08.md |
+| decisao-colegiado | RJ2003/0226 | 2003-06-17 | conhecimento | outros | O Colegiado não conheceu do recurso de acionistas minoritários da Odebrecht S/A contra decisão da SOI sobre resgate de ações realizado com base no art. 4º, § 5º, da Lei 6.404/76, por a matéria fugir à competência legal da CVM, dada a condição de companhia fechada da Odebrecht S/A. | cvm/colegiado/2003/col-20030617-d10.md |
+| decisao-colegiado | RJ2003/2928 | 2003-06-10 | deferido | opa | O Colegiado aprovou, acompanhando a diretora relatora, o pedido de procedimento diferenciado (art. 34 da Instrução CVM 361/02) em OPA para cancelamento do registro de companhia aberta da Elevadores Atlas Schindler S.A., formulado pela Administração e Comércio Jaguar Ltda. | cvm/colegiado/2003/col-20030610-d02.md |
+| decisao-colegiado | RJ2002/1679 | 2002-07-03 | provido | opa | O Colegiado deu provimento ao recurso contra decisão da SRE e aprovou o procedimento de aquisição das ações dos minoritários proposto pela Cetenco Engenharia S.A. no cancelamento de registro (art. 34 da Instrução CVM 361/02), com dois acréscimos: aviso aos acionistas restrito às informações da carta e prazo de venda de 30 dias, em vez de 15. | cvm/colegiado/2002/col-20020703-d09.md |
+| decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | deveres-administradores | O Colegiado, com um impedimento, acompanhou o relator sobre proposta de abertura de inquérito administrativo relativa à reestruturação societária da Cosipa e da Usiminas, a partir de deliberações de AGEs de novembro de 1998 e janeiro de 1999 e de reclamações de investidores. | cvm/colegiado/2002/col-20020625-d03.md |
+| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |

@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2005-03-08 | indeferido | assembleia-acionistas | Indeferido pedido de adiamento de AGO/E da TIM Participações S.A. (art. 124 §5º da Lei 6.404/76): os itens da ordem do dia não apresentavam, a princípio, complexidade ou irregularidade evidente que justificasse o adiamento. Questões de divulgação e de justificativa do aumento de capital seguem em análise pela CVM. | cvm/colegiado/2005/col-20050308-d08.md |
+| decisao-colegiado | — | 2005-03-08 | indeferido | assembleia-acionistas | O Colegiado indeferiu o pedido de adiamento da AGO/E da TIM Participações S.A., acolhendo a proposta da SEP, por não haver complexidade que justificasse o adiamento (art. 124, § 5º, I, da Lei nº 6.404/76). As questões de divulgação de informações e de justificativa do aumento de capital seguem em análise pela CVM. | cvm/colegiado/2005/col-20050308-d08.md |
 
 ## in-98
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/6541 | 2007-10-09 | nao-provido | administracao-carteiras | Recurso contra exigência da SIN para que a designação do diretor responsável pela administração de carteiras conste do contrato social de sociedade limitada (Instrução CVM 306/99, art. 7º, § 9º). Colegiado, por maioria, negou provimento; o diretor vencido admitia designação em ato separado (Lei 9.784/99, art. 2º). | cvm/colegiado/2007/col-20071009-d01.md |
+| decisao-colegiado | RJ2005/6541 | 2007-10-09 | nao-provido | administracao-carteiras | O Colegiado, por maioria, negou provimento ao recurso contra exigência da SIN de designar no contrato social o diretor responsável pela administração de carteiras (Instrução 306/99). Acompanhou o relator: a Instrução 364/02, posterior ao Código Civil, impõe essa obrigação às sociedades limitadas. | cvm/colegiado/2007/col-20071009-d01.md |
 
 ## in-202
 
@@ -39,7 +39,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/5848 | 2004-07-13 | deferido | divulgacao-informacoes | Consulta de companhia em liquidação sobre dispensa de informações periódicas. Companhias falidas ou em liquidação ficam dispensadas dos incisos I, IV e VIII do art. 16 da Instrução CVM 202/93. Dispensada a política de divulgação (art. 16 da Instrução CVM 358/02). Deferido. | cvm/colegiado/2004/col-20040713-d08.md |
+| decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | divulgacao-informacoes | O Colegiado manifestou-se no sentido de que companhias abertas falidas ou em liquidação estão dispensadas das informações dos incisos I, IV e VIII do art. 16 da Instrução 202/93, mas devem prestar as dos §§ 2º e 3º. Em recurso da Cimetal, dispensou a Política de Divulgação pelo adiantado estágio da liquidação, sem prejuízo de fatos relevantes pelo liquidante. | cvm/colegiado/2004/col-20040713-d08.md |
 
 ## in-319
 
@@ -47,7 +47,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/8357 | 2005-11-22 | deferido | divulgacao-informacoes | Consulta da Unibanco Leasing S.A. e da Dibens Leasing S.A., companhias abertas controladas pelo Unibanco, sobre incorporação, com dispensa de publicações da Instrução CVM 319/99 e de aplicação do art. 264 da Lei 6.404/76, sem acionistas minoritários além de administradores. Colegiado acatou o pleito. | cvm/colegiado/2005/col-20051122-d19.md |
+| decisao-colegiado | RJ2005/8357 | 2005-11-22 | deferido | divulgacao-informacoes | O Colegiado acatou o pleito das companhias Unibanco Leasing e Dibens Leasing para não atender integralmente às publicações da Instrução CVM 319/99 e não aplicar o art. 264 da Lei 6.404/76 na incorporação, sob a alegação de não haver acionistas além de administradores que concordaram com a operação; manifestação favorável da área técnica. | cvm/colegiado/2005/col-20051122-d19.md |
 
 ## in-358
 
@@ -55,4 +55,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12, § 5º | decisao-colegiado | RJ2003/10947 | 2003-12-16 | provido | divulgacao-informacoes | Recurso contra decisão da SEP que determinara divulgação de alteração na composição acionária da Saraiva S/A Livreiros Editores, decorrente de doação de nua-propriedade com usufruto reservado ao acionista controlador. O Colegiado decidiu que não há transferência de propriedade para efeito da Instrução CVM 358/02, facultando a informação no IAN. | cvm/colegiado/2003/col-20031216-d03.md |
+| art. 12, § 5º | decisao-colegiado | RJ2003/10947 | 2003-12-16 | provido | divulgacao-informacoes | O Colegiado deu provimento a recurso contra decisão da SEP que exigia divulgação de alteração na composição acionária da Saraiva S/A Livreiros Editores, por entender que não houve transferência de propriedade para efeito da ICVM 358/02; a informação no IAN passou a ser facultativa. | cvm/colegiado/2003/col-20031216-d03.md |

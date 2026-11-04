@@ -11,7 +11,7 @@ Norma: [leis/lei-08668.md](../../../normas/normas/leis/lei-08668.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | manipulacao-fraude | Relatório e voto do relator propondo absolvição de todos os acusados da imputação de operação fraudulenta (art. 2º, III, c/c art. 3º da Resolução CVM 62) em aplicações do Fundo Índico em ativos ligados ao projeto GBX Tietê II Empreendimentos e Participações S.A. Sem decisão colegiada no recorte. | cvm/pas/2026/19957-003286-2024-90.md |
+| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | manipulacao-fraude | PAS sobre suposta operação fraudulenta com recursos da UEG Araucária Ltda. em ativos ligados à GBX Tietê II, entre 2014 e 2017. O diretor relator votou pela absolvição dos acusados, por faltar a finalidade de vantagem ilícita e o concerto entre eles. | cvm/pas/2026/19957-003286-2024-90.md |
 | art. 3º | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | manipulacao-fraude | Apurar suposta criação de condições artificiais de demanda, oferta ou preço de valores mobiliários em transferência de cotas do Brazil Realty FII. Absolvição. | cvm/pas/2026/19957-005363-2021-01.md |
 
 ## art. 6º

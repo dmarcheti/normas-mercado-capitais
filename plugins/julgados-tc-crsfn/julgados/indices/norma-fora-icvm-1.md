@@ -11,43 +11,43 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º, parágrafo único | termo-compromisso | 06/2008 | 2009-07-28 | aceito | divulgacao-informacoes | Termos de compromisso aceitos pelos diretores de relações com investidores de duas companhias que não divulgaram imediatamente fato relevante já noticiado na imprensa sobre fusão (art. 3º, Instrução CVM 358/2002). R$ 200.000,00 cada. | cvm/colegiado/2009/col-20090728-d13.md |
+| art. 6º, parágrafo único | termo-compromisso | 06/2008 | 2009-07-28 | aceito | divulgacao-informacoes | Apreciação de proposta de termo de compromisso PAS 06/2008. | cvm/colegiado/2009/col-20090728-d13.md |
 
 ## art. 13
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 13 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | Proposta de termo de compromisso de administradores e controladores da Usina Costa Pinto S.A., por alterações estatutárias, dividendos, atos societários e inadimplência de registro. Rejeitada: não cessou a prática apontada (art. 11, §5º, I, Lei 6.385/76) e previa obrigação despropositada de a CVM fornecer listas. | cvm/colegiado/2006/col-20060530-d02.md |
+| art. 13 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
 
 ## art. 16
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 16 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | Proposta de termo de compromisso de administradores e controladores da Usina Costa Pinto S.A., por alterações estatutárias, dividendos, atos societários e inadimplência de registro. Rejeitada: não cessou a prática apontada (art. 11, §5º, I, Lei 6.385/76) e previa obrigação despropositada de a CVM fornecer listas. | cvm/colegiado/2006/col-20060530-d02.md |
+| art. 16 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
 
 ## art. 17
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 17 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | Proposta de termo de compromisso de administradores e controladores da Usina Costa Pinto S.A., por alterações estatutárias, dividendos, atos societários e inadimplência de registro. Rejeitada: não cessou a prática apontada (art. 11, §5º, I, Lei 6.385/76) e previa obrigação despropositada de a CVM fornecer listas. | cvm/colegiado/2006/col-20060530-d02.md |
+| art. 17 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
 
 ## art. 18
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 18 | termo-compromisso | RJ2006/4663 | 2007-02-14 | rejeitado | fundos-investimento | Rejeita proposta conjunta de termo de compromisso do HSBC Bank Brasil S/A e de seu diretor, em acusação de descumprimento da Instrução CVM 306/99 e da Circular BACEN 2.616/95 na administração de fundos. Proposta conjunta de R$ 40.000,00. | cvm/colegiado/2007/col-20070214-d05.md |
+| art. 18 | termo-compromisso | RJ2006/4663 | 2007-02-14 | rejeitado | outros | O Colegiado rejeitou proposta de termo de compromisso do HSBC Bank Brasil S/A e de seu diretor (R$ 20.000,00 por proponente; R$ 40.000,00 no total), nos termos do parecer do Comitê. Termo de Acusação da SIN por descumprimento da Instrução 306/99 e da Circular BACEN nº 2.616/95. | cvm/colegiado/2007/col-20070214-d05.md |
 
 ## art. 21
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 21, inciso I | termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | divulgacao-informacoes | Proposta de termo de compromisso do diretor de relações com investidores da Saneamento de Goiás S.A. (SANEAGO) por atraso ou falta de informações periódicas e de comunicações à assembleia (Instrução CVM 480/09, arts. 21 e 29), em rito sumário. Proposta de R$ 35.000,00 aceita pelo Colegiado. | cvm/colegiado/2013/col-20130326-d03.md |
+| art. 21, inciso I | termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 35.000,00 apresentada pelo diretor de RI, acompanhando o parecer do Comitê, que a considerou conveniente e oportuna. Acusado de deixar de prestar, nos prazos, informações periódicas da ICVM 480/09 dos exercícios de 2010, 2011 e 2012. | cvm/colegiado/2013/col-20130326-d03.md |
 
 ## art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22, parágrafo único | termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | divulgacao-informacoes | Proposta de termo de compromisso do diretor de relações com investidores da Saneamento de Goiás S.A. (SANEAGO) por atraso ou falta de informações periódicas e de comunicações à assembleia (Instrução CVM 480/09, arts. 21 e 29), em rito sumário. Proposta de R$ 35.000,00 aceita pelo Colegiado. | cvm/colegiado/2013/col-20130326-d03.md |
+| art. 22, parágrafo único | termo-compromisso | RJ2012/8087 | 2013-03-26 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de R$ 35.000,00 apresentada pelo diretor de RI, acompanhando o parecer do Comitê, que a considerou conveniente e oportuna. Acusado de deixar de prestar, nos prazos, informações periódicas da ICVM 480/09 dos exercícios de 2010, 2011 e 2012. | cvm/colegiado/2013/col-20130326-d03.md |
 
 ## art. 24
 
@@ -59,7 +59,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 56 | termo-compromisso | 05/2012 | 2016-08-30 | — | administracao-carteiras | Propostas de termo de compromisso de gestora, administradora de fundos e seus diretores por falhas em rateio equitativo de ordens entre fundos (2003 a 2006; Instrução CVM 306/1999, art. 14, II; Instrução CVM 409/2004) e direcionamento de piores resultados a fundo em 2007 (Instrução CVM 8/1979). Comitê propôs rejeição. | cvm/colegiado/2016/col-20160830-d0342.md |
+| art. 56 | termo-compromisso | 05/2012 | 2016-08-30 | rejeitado | administracao-carteiras | O Colegiado rejeitou a proposta de termo de compromisso de gestora, diretores responsáveis e administradora no PAS 05/2012, por ausência de rateio equitativo de ordens e direcionamento de resultados a um fundo. Acompanhando o Comitê, que considerou o caso inconveniente para acordo e apto a julgamento. | cvm/colegiado/2016/col-20160830-d0342.md |
 
 ## Citada sem dispositivo identificado
 

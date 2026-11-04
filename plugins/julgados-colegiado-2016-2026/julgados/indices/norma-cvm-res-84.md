@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0084.md](../../../normas/normas/cvm/resolucoes/0084.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | normativo | Colegiado aprovou as Resoluções CVM 84, 85 e 86/2022, sobre CEPAC, ofertas públicas de aquisição de ações (OPA) e contratos de investimento coletivo hoteleiro, revogando as instruções anteriores correspondentes. Sem mudança de mérito; sem consulta pública; dispensa automática de AIR. | cvm/colegiado/2022/col-20220330-d2568.md |
+| decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | normativo | O Colegiado aprovou as Resoluções CVM nº 84/2022 (CEPAC), 85/2022 (ofertas públicas de aquisição de ações) e 86/2022 (contratos de investimento coletivo hoteleiro), no trabalho de consolidação do Decreto nº 10.139/2019, sem consulta pública e com dispensa automática de AIR (art. 4º, III, do Decreto nº 10.411/2020). | cvm/colegiado/2022/col-20220330-d2568.md |

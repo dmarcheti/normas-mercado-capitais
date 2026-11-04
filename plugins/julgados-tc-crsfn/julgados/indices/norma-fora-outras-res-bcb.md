@@ -43,7 +43,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º, inciso V | termo-compromisso | RJ2009/9731 | 2010-04-13 | aceito | divulgacao-informacoes | Aceita nova proposta de termo de compromisso de R$ 200.000,00 de investidor não residente acusado de não comunicar alienação de 9,21% das ações da Triunfo Participações (art. 12, §4º, Instrução CVM 358/02), após reabertura de negociação. | cvm/colegiado/2010/col-20100413-d05.md |
+| art. 5º, inciso V | termo-compromisso | RJ2009/9731 | 2010-04-13 | aceito | divulgacao-informacoes | O Colegiado aceitou nova proposta de termo de compromisso da Natixis, investidora não residente acusada de não comunicar à CVM, no prazo, a alienação de 9,21% das ações da Triunfo Participações S.A. (§ 4º do art. 12 da Instrução 358/02). Pagamento de R$ 200.000,00 à CVM, acompanhando o parecer do Comitê. | cvm/colegiado/2010/col-20100413-d05.md |
 
 ## res-bcb-2829
 
@@ -61,4 +61,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 22/2005 | 2007-08-07 | — | fundos-investimento | Proposta de termo de compromisso do Banco da Amazônia e de seu diretor, em inquérito sobre perdas e provisões em fundos administrados pelo banco. Comitê concluiu que não se cumpriu o requisito de indenização dos prejuízos aos cotistas (art. 11, §5º, II, da Lei 6.385/76). | cvm/colegiado/2007/col-20070807-d03.md |
+| termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | cvm/colegiado/2007/col-20070807-d03.md |

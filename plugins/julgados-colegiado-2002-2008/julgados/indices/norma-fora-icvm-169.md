@@ -35,8 +35,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/6381 | 2006-12-05 | provido | outros | Pedido de autorização para transferir ações de companhia aberta entre dois investidores não residentes, participantes de conta coletiva, em reorganização societária no exterior. Autorizado, nos termos da Resolução CMN 2.689/00, art. 9º, parágrafo único; relator apontou provável finalidade fiscal. | cvm/colegiado/2006/col-20061205-d15.md |
-| decisao-colegiado | RJ2002/7964 | 2003-01-21 | indeferido | infraestrutura-mercado | Recurso da HSBC Investment Bank Brasil S/A contra decisão da SIN que indeferiu transferência de ações de investidor não residente a controlada indireta no exterior. Fundamento: exceção a alteração societária (parágrafo único do art. 9º da Resolução CMN nº 2.689/00; art. 8º da Instrução CVM nº 325/00). Colegiado concedeu a autorização, em caráter excepcional. | cvm/colegiado/2003/col-20030121-d02.md |
+| decisao-colegiado | RJ2006/6381 | 2006-12-05 | deferido | outros | O Colegiado concedeu, no caso concreto, autorização para transferir ações da CVRD da Artha Ltd. para a Artha LLC, investidores estrangeiros de conta coletiva, por se enquadrar na hipótese de reorganização societária da Resolução 2.689/00. | cvm/colegiado/2006/col-20061205-d15.md |
+| decisao-colegiado | RJ2002/7964 | 2003-01-21 | provido | outros | O Colegiado deu provimento a recurso contra decisão da SIN que indeferiu transferência, para fora do país, de ações de investidor não residente, concedendo a autorização para a transferência de recursos. Normas citadas: parágrafo único do art. 9º da Resolução CMN 2.689 e art. 8º da Instrução CVM 325/00. Acompanhou o voto do diretor-relator. | cvm/colegiado/2003/col-20030121-d02.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | cvm/decisoes-antigas/1994.md |
 | decisao-antiga | — | 1993-03-31 | — | — | Decisões do colegiado de 1993. | cvm/decisoes-antigas/1993.md |

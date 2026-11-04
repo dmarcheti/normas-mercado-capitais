@@ -11,28 +11,28 @@ Norma: [leis/lei-08929.md](../../../normas/normas/leis/lei-08929.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | Pedido de registro de oferta pública da 9ª série de CRA da 1ª emissão da Octante Securitizadora S.A., destinada a investidores qualificados. Colegiado autorizou o registro com base na manifestação favorável da SRE: lastro de CDCA e CPR Financeiras, amortização extraordinária se não houver reposição, patrimônio separado e seguro. | cvm/colegiado/2013/col-20130827-d03.md |
+| art. 1º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | securitizacao | Registro de oferta pública da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com revolvência de direitos creditórios do agronegócio, contra parecer da PFE/CVM e com base na Lei 11.076/2004 e no item 1.7 do Anexo III-A da Instrução CVM 400/03. Aprovado por unanimidade. | cvm/colegiado/2013/col-20131126-d02.md |
+| art. 2º | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | securitizacao | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com revolvência dos direitos creditórios do agronegócio, acompanhando o voto apresentado após pedido de vista. Fundamento: Lei 11.076/04 e analogia com a substituição de créditos da Instrução CVM 400/03 (Anexo III-A, item 1.7). | cvm/colegiado/2013/col-20131126-d02.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | Pedido de registro de oferta pública da 9ª série de CRA da 1ª emissão da Octante Securitizadora S.A., destinada a investidores qualificados. Colegiado autorizou o registro com base na manifestação favorável da SRE: lastro de CDCA e CPR Financeiras, amortização extraordinária se não houver reposição, patrimônio separado e seguro. | cvm/colegiado/2013/col-20130827-d03.md |
+| art. 3º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |
 
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | Pedido de registro de oferta pública da 9ª série de CRA da 1ª emissão da Octante Securitizadora S.A., destinada a investidores qualificados. Colegiado autorizou o registro com base na manifestação favorável da SRE: lastro de CDCA e CPR Financeiras, amortização extraordinária se não houver reposição, patrimônio separado e seguro. | cvm/colegiado/2013/col-20130827-d03.md |
+| art. 4º | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |
 
 ## art. 4º-A
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º-A | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | Pedido de registro de oferta pública da 9ª série de CRA da 1ª emissão da Octante Securitizadora S.A., destinada a investidores qualificados. Colegiado autorizou o registro com base na manifestação favorável da SRE: lastro de CDCA e CPR Financeiras, amortização extraordinária se não houver reposição, patrimônio separado e seguro. | cvm/colegiado/2013/col-20130827-d03.md |
+| art. 4º-A | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |

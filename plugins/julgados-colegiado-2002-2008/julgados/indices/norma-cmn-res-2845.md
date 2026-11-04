@@ -11,10 +11,10 @@ Norma: [cmn/resolucoes/2845.md](../../../normas/normas/cmn/resolucoes/2845.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2006/6406; RJ2006/6327 | 2006-10-17 | deferido | ofertas-publicas | Pedido de dispensa de registro de companhia aberta e de requisitos de registro de oferta pública de obrigações da International Finance Corporation (IFC), organismo multilateral. O Colegiado autorizou, em caráter excepcional, o registro especial de emissor e o registro da oferta, nos termos da Deliberação CVM 511/06. | cvm/colegiado/2006/col-20061017-d02.md |
+| art. 2º | decisao-colegiado | RJ2006/6406; RJ2006/6327 | 2006-10-17 | deferido | registro-emissor | O Colegiado autorizou, em caráter excepcional, o registro de emissor da International Finance Corporation (IFC) e o registro da oferta pública de suas obrigações em bolsa de valores, determinando a edição de Deliberação para normatizar o tema (Deliberação 511/06). | cvm/colegiado/2006/col-20061017-d02.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | ofertas-publicas | Pedidos do IFC e do Banco ABN Amro Real de dispensa de requisitos da Instrução CVM 400/03 e da Deliberação CVM 511/06 em oferta de notas do IFC. Colegiado aprovou apenas a dispensa de reconciliação ao padrão contábil brasileiro e de tradução, nos termos da Resolução CMN 3.441/07, e negou os demais pedidos. | cvm/colegiado/2007/col-20070417-d05.md |
+| decisao-colegiado | RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | ofertas-publicas | O Colegiado aprovou apenas a dispensa à IFC de reconciliação ao padrão contábil brasileiro e de tradução de documentos, conforme fatores de público, práticas internacionais e classificação de risco (Resolução CMN 3.441/07). Não concedeu os demais itens, por não haver informações alternativas ou justificativa individualizada. | cvm/colegiado/2007/col-20070417-d05.md |

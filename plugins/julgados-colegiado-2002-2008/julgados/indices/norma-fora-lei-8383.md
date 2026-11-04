@@ -18,16 +18,16 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 20 | decisao-colegiado | RJ2004/6792 | 2004-12-14 | outro | multa-cominatoria-taxa | Consulta formulada pela ancine referente à incidência da taxa de fiscalização sobre os funcine. Proc. RJ2004/6792. | cvm/colegiado/2004/col-20041214-d06.md |
-| art. 20 | decisao-colegiado | RJ2005/7475; RJ2006/0310; RJ2006/1951 | 2006-07-11 | nao-provido | multa-cominatoria-taxa | Recurso do Banco UBS, administrador de três fundos fechados exclusivos (Instrução CVM 409/04), contra exigências da SIN. Colegiado manteve a exigência de informações previstas nos arts. 23 e seguintes da Instrução CVM 409/04, com adaptações, e a cobrança da taxa de fiscalização no registro de distribuição pública (art. 4º, II, da Lei 7.940/89; art. 20 da Lei 8.383/91). | cvm/colegiado/2006/col-20060711-d05.md |
-| art. 20, § 6º | decisao-colegiado | — | 2004-03-09 | nao-provido | multa-cominatoria-taxa | Pedido de manifestação sobre cobrança das taxas de fiscalização (Lei 7.940/89) e de registro de emissão de valores mobiliários sobre cotas de fundos. Por maioria, entendeu-se não devida a taxa de fiscalização; em tese, admite-se taxa de registro de distribuição, a ser estudada pela SIN e SDM. | cvm/colegiado/2004/col-20040309-d07.md |
+| art. 20 | decisao-colegiado | RJ2005/7475; RJ2006/0310; RJ2006/1951 | 2006-07-11 | outro | multa-cominatoria-taxa | Em consulta de banco administrador de três fundos fechados, o Colegiado, acompanhando o voto de um diretor, decidiu que: (i) os fundos devem apresentar as informações dos arts. 23 e seguintes da ICVM 409/04, com as adaptações necessárias; e (ii) é devida a taxa de fiscalização no registro de distribuição pública de cotas. | cvm/colegiado/2006/col-20060711-d05.md |
+| art. 20, § 6º | decisao-colegiado | — | 2004-03-09 | outro | multa-cominatoria-taxa | O Colegiado, por maioria, entendeu não ser devida a taxa de fiscalização. Manifestou entendimento de que é possível, em tese, cobrar taxa de registro de distribuição de valor mobiliário aplicável às quotas de fundos, devendo a SIN e a SDM, sob coordenação do SGE, estudar a alíquota adequada e seus efeitos, para novo exame pelo Colegiado. | cvm/colegiado/2004/col-20040309-d07.md |
 | art. 20, § 6º | decisao-colegiado | RJ2004/6792 | 2004-12-14 | outro | multa-cominatoria-taxa | Consulta formulada pela ancine referente à incidência da taxa de fiscalização sobre os funcine. Proc. RJ2004/6792. | cvm/colegiado/2004/col-20041214-d06.md |
-| art. 20, § 6º | decisao-colegiado | RJ2006/6586 | 2006-12-19 | nao-provido | multa-cominatoria-taxa | Consulta de instituição administradora sobre a taxa de registro (Lei 7.940/89, Tabela D) em distribuições de cotas de fundos fechados para investidores qualificados. Afastada a alegação de irretroatividade. Regular a exigência da SIN de comprovantes de pagamento. Negado provimento. | cvm/colegiado/2006/col-20061219-d13.md |
+| art. 20, § 6º | decisao-colegiado | RJ2006/6586 | 2006-12-19 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recurso do Banco UBS contra exigência da SIN de comprovantes da Taxa de Registro de seis fundos fechados. Fundamento: fundos para investidores qualificados seguem o art. 23 da Instrução 409/04, sem dispensa automática do art. 5º, II, da Instrução 400/03. | cvm/colegiado/2006/col-20061219-d13.md |
 
 ## art. 59
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 59 | decisao-colegiado | RJ99/2786 | 2004-01-21 | indeferido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
+| art. 59 | decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
 
 ## art. 65
 

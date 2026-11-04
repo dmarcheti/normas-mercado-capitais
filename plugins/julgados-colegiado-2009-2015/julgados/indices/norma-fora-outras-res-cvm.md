@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | Recurso da IASA contra decisão da SEP que negou a conversão de registro de companhia aberta em companhia incentivada. Negado provimento: o cancelamento segue o art. 4º, §4º, da Lei 6.404/76 e as IN CVM 361/02 e 480/09; há cerca de 460 acionistas minoritários. | cvm/colegiado/2012/col-20120529-d04.md |
+| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da IASA – Indústria de Azulejos da Bahia S.A. contra decisão da SEP que indeferiu conversão de registro de companhia aberta em companhia incentivada. Pelo voto do relator, o registro decorre da Resolução CMN 436/77 e há cerca de 460 acionistas minoritários a proteger. | cvm/colegiado/2012/col-20120529-d04.md |
 
 ## res-cvm-303
 
@@ -22,19 +22,19 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10, § 1º | decisao-colegiado | RJ2008/11274 | 2009-11-17 | deferido | fundos-investimento | Consulta da Fibra Asset Management DTVM sobre a permanência, como cotistas, de ex-empregados e aposentados em clubes de investimento com mais de 150 cotistas (art. 9º, §1º, I, da IN CVM 40/84). Colegiado permitiu a manutenção, inclusive com novos aportes. Consulta deferida. | cvm/colegiado/2009/col-20091117-d01.md |
+| art. 10, § 1º | decisao-colegiado | RJ2008/11274 | 2009-11-17 | outro | fundos-investimento | Em consulta de administradora de clubes de investimento, o Colegiado decidiu, por unanimidade, permitir que ex-funcionários e aposentados permaneçam como cotistas, podendo fazer novos aportes. Acompanhou a SIN e o relator, para quem a norma (art. 9º, §1º, I, Instrução 40/84) veda o ingresso nessa condição, mas não a permanência. | cvm/colegiado/2009/col-20091117-d01.md |
 
 ### art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | RJ2006/4535 | 2011-10-25 | parcial | fundos-investimento | Itaú Unibanco pediu exclusão da administração do Clube SUDFER, com designação de administrador dativo ou liquidação do clube. Colegiado deu provimento parcial, por aplicação subsidiária do art. 67, §1º, da Instrução CVM 409/04: assembleia e liquidação se não houver substituto em 30 dias. | cvm/colegiado/2011/col-20111025-d03.md |
+| art. 22 | decisao-colegiado | RJ2006/4535 | 2011-10-25 | parcial | fundos-investimento | O Colegiado deu provimento parcial ao pleito do Banco Itaú Unibanco S.A., administrador de clube de investimento, aplicando por analogia o art. 67, §1º, da ICVM 409/04. Deverá convocar assembleia com 15 dias de antecedência para renúncia e substituto, notificar os cotistas e, sem substituto após 30 dias, liquidar o clube. | cvm/colegiado/2011/col-20111025-d03.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2010/9233 | 2010-09-09 | deferido | fundos-investimento | Pedido da Tarpon Investimentos S.A. de venda privada de ações da BrasilAgro integrantes de carteiras de fundos e de um clube (art. 64, VI, Instrução CVM 409/04). Deferido: precedentes favoráveis, preço vantajoso aos cotistas e anuência dos administradores dos fundos. | cvm/colegiado/2010/col-20100909-d10.md |
+| decisao-colegiado | RJ2010/9233 | 2010-09-09 | deferido | fundos-investimento | O Colegiado deferiu pedido da Tarpon Investimentos S.A. para venda privada de ações da BrasilAgro integrantes de carteiras de seis fundos e um clube, com base no art. 64, VI, da Instrução 409/04, em execução de acordo com a Cresud. Acompanhou a SIN, que citou precedentes, preço vantajoso aos cotistas e anuência dos administradores dos fundos. | cvm/colegiado/2010/col-20100909-d10.md |
 
 ## res-cvm-308
 
@@ -42,7 +42,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 18, parágrafo único | decisao-colegiado | RJ2012/12161 | 2012-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2012/12161. | cvm/colegiado/2012/col-20121030-d05.md |
+| art. 18, parágrafo único | decisao-colegiado | RJ2012/12161 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2012/12161. | cvm/colegiado/2012/col-20121030-d05.md |
 
 ### Citada sem dispositivo identificado
 
@@ -56,7 +56,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | Recurso da IASA contra decisão da SEP que negou a conversão de registro de companhia aberta em companhia incentivada. Negado provimento: o cancelamento segue o art. 4º, §4º, da Lei 6.404/76 e as IN CVM 361/02 e 480/09; há cerca de 460 acionistas minoritários. | cvm/colegiado/2012/col-20120529-d04.md |
+| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da IASA – Indústria de Azulejos da Bahia S.A. contra decisão da SEP que indeferiu conversão de registro de companhia aberta em companhia incentivada. Pelo voto do relator, o registro decorre da Resolução CMN 436/77 e há cerca de 460 acionistas minoritários a proteger. | cvm/colegiado/2012/col-20120529-d04.md |
 
 ## res-cvm-454
 
@@ -72,7 +72,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/6750 | 2009-10-13 | parcial | contabil-demonstracoes | Recurso contra exigência de republicação das DFs de 31.12.08 por ajustes na DFP. Dispensa concedida com condições: AGE para aprovar os ajustes e destinar o saldo de lucros acumulados, comunicado ao mercado e publicação comparativa das DFs ajustadas. | cvm/colegiado/2009/col-20091013-d20.md |
+| decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | contabil-demonstracoes | O Colegiado, acompanhando o relator, deu provimento ao recurso da PPE Fios Esmaltados contra entendimento da SEP e dispensou a republicação das demonstrações financeiras de 31.12.08. Fundamento: não há ações em circulação e os acionistas estão cientes dos ajustes. Condicionou a dispensa à AGE, comunicado e publicação comparativa. | cvm/colegiado/2009/col-20091013-d20.md |
 
 ## res-cvm-893
 
@@ -80,7 +80,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2011/2590 | 2011-09-06 | nao-provido | auditoria-independente | Recurso de sociedade de auditoria contra indeferimento de registro como auditor independente pessoa jurídica (Instrução CVM 308/99, art. 4º, II, V e VI). Sócio não contador e falta de comprovação de cinco anos de experiência. Não provido. | cvm/colegiado/2011/col-20110906-d02.md |
+| art. 1º | decisao-colegiado | RJ2011/2590 | 2011-09-06 | nao-provido | auditoria-independente | O Colegiado negou provimento ao recurso da Cassuli Auditores Independentes SS contra a SNC, que indeferiu seu registro como auditor independente pessoa jurídica, por descumprimento dos incisos II e V do art. 4º da Instrução CVM 308/99 (sócio não contador; responsável técnico sem cinco anos de auditoria comprovados). Após pedido de vista, com base no voto do relator. | cvm/colegiado/2011/col-20110906-d02.md |
 
 ## res-cvm-961
 
@@ -97,7 +97,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP1999/0374 | 2010-05-25 | — | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado. Proc. SP1999/0374. | cvm/colegiado/2010/col-20100525-d02.md |
+| decisao-colegiado | SP1999/0374 | 2010-05-25 | nao-provido | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado. Proc. SP1999/0374. | cvm/colegiado/2010/col-20100525-d02.md |
 
 ## res-cvm-1657
 
@@ -113,5 +113,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/7054 | 2013-09-10 | deferido | infraestrutura-mercado | Pedido do investidor não residente Standard Bank PLC para negociação privada de cotas do Union National FIDC, em liquidação, após retirada da negociação na Cetip. Colegiado autorizou (art. 8º, §1º, Resolução CMN 2.689/00), vedando a venda a outro investidor não residente sob a mesma resolução. | cvm/colegiado/2013/col-20130910-d05.md |
-| decisao-colegiado | RJ2009/5699 | 2009-10-13 | provido | outros | Recurso contra entendimento da SIN de que a cessão gratuita, fora de bolsa, de direitos de subscrição por investidor não residente violou a Resolução CMN 2.689/00, art. 8º. A subscrição integra as exceções do § 1º do mesmo artigo. Recurso provido por maioria. | cvm/colegiado/2009/col-20091013-d21.md |
+| decisao-colegiado | RJ2013/7054 | 2013-09-10 | deferido | fundos-investimento | O Colegiado, por unanimidade, autorizou a negociação privada de cotas do Union National FIDC, em liquidação ordinária, pelo investidor não residente Standard Bank PLC, por enquadrar-se no § 1º do art. 8º da Resolução CMN 2.689/00. Acompanhou a SIN. Vedou a negociação com outro investidor não residente sob a mesma resolução. | cvm/colegiado/2013/col-20130910-d05.md |
+| decisao-colegiado | RJ2009/5699 | 2009-10-13 | provido | outros | Por maioria, o Colegiado deu provimento a recurso contra entendimento da SIN, que apontou descumprimento do art. 8º da Resolução CMN 2.689/00 em cessões gratuitas, fora de bolsa, de direitos de subscrição de ações da LLX Logística S.A. Acompanhou o relator: a subscrição está na exceção do §1º do art. 8º. Vencido um diretor. | cvm/colegiado/2009/col-20091013-d21.md |

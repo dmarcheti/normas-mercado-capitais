@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0033.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP2008/0160 | 2009-09-15 | indeferido | infraestrutura-mercado | Recurso da Bolsa de Valores Bahia Sergipe Alagoas (BOVESBA) contra indeferimento de leilões do FINAM. Não provido: a bolsa não se adaptou à Instrução CVM 461/07, cujo prazo final foi 19.07.08, e seu projeto de mercado de balcão organizado seguia em análise. | cvm/colegiado/2009/col-20090915-d09.md |
+| decisao-colegiado | SP2008/0160 | 2009-09-15 | nao-provido | infraestrutura-mercado | O Colegiado negou provimento a recurso da BOVESBA contra decisão da SMI que indeferiu novo pedido para leilões de ações do FINAM, com base no Memo/SMI/013/09. Fundamentos: mercado organizado deve ser administrado por entidade autorizada pela CVM (art. 3º, §2º, Instrução 461/07), e o prazo de adaptação venceu em 19/07/2008 (art. 122); o projeto de adaptação segue em análise. | cvm/colegiado/2009/col-20090915-d09.md |

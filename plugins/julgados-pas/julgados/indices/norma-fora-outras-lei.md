@@ -182,7 +182,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 49 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | Não elaboração tempestiva das demonstrações financeiras de 2024 e dos ITRs do 1º e 2º trimestres de 2025 pela REAG Capital Holding S.A. (art. 176 da Lei 6.404/1976; art. 31 da Resolução CVM 80/2022). Voto da relatora: multa individual de R$ 170.000,00 a cada um dos dois diretores, com atenuante de bons antecedentes. | cvm/pas/2026/19957-011231-2025-34.md |
+| art. 49 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | cvm/pas/2026/19957-011231-2025-34.md |
 
 ### art. 154
 
@@ -194,7 +194,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 176 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | Não elaboração tempestiva das demonstrações financeiras de 2024 e dos ITRs do 1º e 2º trimestres de 2025 pela REAG Capital Holding S.A. (art. 176 da Lei 6.404/1976; art. 31 da Resolução CVM 80/2022). Voto da relatora: multa individual de R$ 170.000,00 a cada um dos dois diretores, com atenuante de bons antecedentes. | cvm/pas/2026/19957-011231-2025-34.md |
+| art. 176 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | cvm/pas/2026/19957-011231-2025-34.md |
 
 ### Citada sem dispositivo identificado
 
@@ -254,7 +254,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Demonstrações financeiras de 2015 e 2016 da Oi S.A., com correção de erros materiais (arts. 153, 176 e 177 da Lei 6.404/1976; arts. 14 e 26 da ICVM 480/2009). Voto da relatora: absolvição de todos quanto ao art. 153 e de três diretores quanto aos arts. 176 e 177; multa individual de R$ 400.000,00 a dois diretores. | cvm/pas/2026/19957-004207-2021-15.md |
+| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Processo sancionador contra cinco ex-diretores da Oi S.A. por irregularidades nas demonstrações financeiras de 2015 e 2016. Voto da diretora relatora propõe absolver parte dos acusados e multar dois deles em R$400.000,00 cada; sem deliberação do Colegiado. | cvm/pas/2026/19957-004207-2021-15.md |
 | pas | RJ2013/1402 | 2014-07-22 | parcial | deveres-administradores | Não convocação de assembleia especial de acionistas preferencialistas – Abuso de poder de controle – Descumprimento do dever de diligência - Elaboração de Demonstração Financeira sem previsão de pagamento de dividendos mínimos prioritários. Absolvição e multas. | cvm/pas/2014/rj2013-1402.md |
 
 ## lei-19
@@ -509,7 +509,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, inciso II | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 7º, inciso II | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## lei-44
 
@@ -517,7 +517,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Demonstrações financeiras de 2015 e 2016 da Oi S.A., com correção de erros materiais (arts. 153, 176 e 177 da Lei 6.404/1976; arts. 14 e 26 da ICVM 480/2009). Voto da relatora: absolvição de todos quanto ao art. 153 e de três diretores quanto aos arts. 176 e 177; multa individual de R$ 400.000,00 a dois diretores. | cvm/pas/2026/19957-004207-2021-15.md |
+| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Processo sancionador contra cinco ex-diretores da Oi S.A. por irregularidades nas demonstrações financeiras de 2015 e 2016. Voto da diretora relatora propõe absolver parte dos acusados e multar dois deles em R$400.000,00 cada; sem deliberação do Colegiado. | cvm/pas/2026/19957-004207-2021-15.md |
 
 ## lei-51
 
@@ -2541,7 +2541,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Demonstrações financeiras de 2015 e 2016 da Oi S.A., com correção de erros materiais (arts. 153, 176 e 177 da Lei 6.404/1976; arts. 14 e 26 da ICVM 480/2009). Voto da relatora: absolvição de todos quanto ao art. 153 e de três diretores quanto aos arts. 176 e 177; multa individual de R$ 400.000,00 a dois diretores. | cvm/pas/2026/19957-004207-2021-15.md |
+| pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Processo sancionador contra cinco ex-diretores da Oi S.A. por irregularidades nas demonstrações financeiras de 2015 e 2016. Voto da diretora relatora propõe absolver parte dos acusados e multar dois deles em R$400.000,00 cada; sem deliberação do Colegiado. | cvm/pas/2026/19957-004207-2021-15.md |
 | pas | 19957.010195/2021-68 | 2023-11-21 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública de valores mobiliários, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2023/19957-010195-2021-68.md |
 | pas | 19957.006304/2018-47; RJ2018/4441 | 2020-11-04 | absolvicao | auditoria-independente | Apurar possível descumprimento dos artigos 20 e 25, II, da Instrução CVM nº 308/99 ao realizar os trabalhos de auditoria independente sobre as demonstrações financeiras de 31.12.2012, 31.12.2013 e 31.12.2014 da Petróleo Brasileiro S.A. - Petrobras. Absolvições. | cvm/pas/2020/19957-006304-2018-47.md |
 | pas | 19957.011654/2019-14; 06/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários dos administradores da Petrobras na construção do Complexo Petroquímico do Rio de Janeiro. Infrações aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-011654-2019-14.md |
@@ -2621,7 +2621,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | Relatório e votos sobre suposta elaboração de demonstrações financeiras não fidedignas do IRB – Brasil Resseguros S.A. referentes a 2019 (arts. 154 e 176 da Lei 6.404/1976) e falta de diligência de diretores e conselheiros (arts. 153 e 142, III). Sem decisão colegiada no recorte. | cvm/pas/2026/19957-003588-2023-87.md |
+| pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | PAS contra três diretores e o presidente do conselho de administração do IRB – Brasil Resseguros S.A., por suposta elaboração de informações contábeis não fidedignas em 2019 e falta de diligência (arts. 153, 154 e 176 da Lei 6.404/1976). O diretor relator votou pela absolvição de todos os acusados, acompanhado por outro diretor. | cvm/pas/2026/19957-003588-2023-87.md |
 | pas | 19957.004285/2019-03 | 2024-06-04 | absolvicao | auditoria-independente | Apurar eventuais falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Companhia Energética de Minas Gerais - CEMIG, referente ao exercício social de 2017, em alegada infração ao art. 20 da Instrução CVM nº 308/1999. Absolvição. | cvm/pas/2024/19957-004285-2019-03.md |
 | pas | 19957.004415/2016-57 | 2023-05-31 | parcial | deveres-administradores | Apurar eventuais irregularidades no âmbito de operação de reestruturação societária, em infração aos arts. 116, parágrafo único, 117, 153, 154, 155, inciso II, da Lei n° 6.404/1976. Multas e absolvições. | cvm/pas/2023/19957-004415-2016-57.md |
 

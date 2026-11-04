@@ -11,12 +11,12 @@ Norma: [cvm/resolucoes/0178.md](../../../normas/normas/cvm/resolucoes/0178.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 15, inciso II | decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | — | intermediacao | Pedido da Fundação Escola Nacional de Seguros (ENS) para atuar como entidade certificadora de assessores de investimentos (Resolução CVM 178/2023, art. 15, II). Área técnica propõe deferimento; pedido de credenciadora desmembrado e pendente de parecer. | cvm/colegiado/2024/col-20241015-d3154.md |
+| art. 15, inciso II | decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | intermediacao | O Colegiado deferiu, por unanimidade, o pedido da Fundação Escola Nacional de Seguros (ENS) para atuar como entidade certificadora de assessores de investimentos, em paralelo à Ancord, acompanhando a SMI. Seu exame passa a comprovar a qualificação do art. 15, II, da RCVM 178/2023. O pedido de credenciadora segue em análise. | cvm/colegiado/2024/col-20241015-d3154.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | deferido | normativo | Pedido da ANCORD de nova prorrogação da vigência da RCVM 179 (custos e remuneração de intermediários) e de forma gráfica alternativa de divulgação. As áreas técnicas consideram inoportuno e inconveniente postergar ou modificar a norma. | cvm/colegiado/2024/col-20240910-d3133.md |
+| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | intermediacao | O Colegiado indeferiu os pedidos da ANCORD de nova prorrogação da entrada em vigor da RCVM 179 e de forma alternativa de divulgação de custos, por se tratar de revisão substancial da norma, após o Colegiado já ter afastado nova prorrogação. Acompanhou SDM e SMI. | cvm/colegiado/2024/col-20240910-d3133.md |
 | decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012626/2022-10. | cvm/colegiado/2024/col-20240206-d2990.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | normativo | Após a Audiência Pública SDM 05/2021, aprovadas as Resoluções CVM 178 e 179, de 14.02.2023. A 178 revoga a Res. CVM 16/2021 e regula o assessor de investimento, inclusive sem exclusividade e pessoa natural não exclusiva. A 179 altera a Res. CVM 35/2021 para ampliar a transparência sobre remuneração e conflitos de interesse. | cvm/colegiado/2023/col-20230208-d1441-r2.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | intermediacao | O Colegiado aprovou a edição das Resoluções CVM 178 e 179, de 14.02.2023, após a Audiência Pública SDM 05/2021. A RCVM 178 cria o marco regulatório do assessor de investimento e revoga a RCVM 16/2021; a RCVM 179 amplia a transparência sobre remuneração e conflitos de interesse na intermediação. | cvm/colegiado/2023/col-20230208-d1441-r2.md |

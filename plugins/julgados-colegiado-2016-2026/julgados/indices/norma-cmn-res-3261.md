@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/3261.md](../../../normas/normas/cmn/resolucoes/3261.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | intermediacao | Recurso contra indeferimento pela SMI de dispensa da Instrução CVM 505/2011 a banco com swaps próprios registrados na CETIP. Colegiado reconheceu condição de intermediário e deferiu parcialmente o recurso, concedendo dispensas aplicáveis a operações previamente registradas (arts. 13, 14, 19, 20 e 25), com revisão caso passe a intermediar para clientes. | cvm/colegiado/2016/col-20160614-d9646.md |
+| decisao-colegiado | 505/2011; SP2015/0097 | 2016-06-14 | parcial | intermediacao | O Colegiado deferiu parcialmente recurso do Banco Yamaha Motor do Brasil S.A. contra decisão da SMI que negou dispensa da Instrução 505, acolhendo o voto que considerou o banco intermediário. Concedeu as dispensas dos arts. 13, 14, 19, 20 e 25 para operações previamente registradas e ressalvou revisão caso o banco passe a intermediar negócios para clientes. | cvm/colegiado/2016/col-20160614-d9646.md |

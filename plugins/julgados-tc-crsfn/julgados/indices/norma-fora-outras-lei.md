@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 30 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | Proposta de termo de compromisso de diretora de RI de companhia aberta por divulgação de informação que pode induzir investidores a erro (art. 15, RCVM 80/2021). Pagamento de R$ 340.000,00. Colegiado aceitou por unanimidade. | cvm/colegiado/2024/col-20240123-d3002.md |
+| art. 11, § 30 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretora de RI da Sendas Distribuidora S.A. (Assaí), por suposta divulgação de informação que induziria investidores a erro (art. 15 da RCVM 80/2021). Valor: R$ 340.000,00 em parcela única, após contraproposta do Comitê (inicial: R$ 300.000,00). | cvm/colegiado/2024/col-20240123-d3002.md |
 
 ### art. 132
 
@@ -35,7 +35,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 157 | acordao-crsfn | RJ-2013-10321 | 2017-06-27 | parcial | divulgacao-informacoes | Recursos Voluntários e de Ofício. Deixar de divulgar tempestivamente fato relevante acerca do cancelamento do pedido de registro da oferta pública de aquisição de ações. Não divulgar fato relevante. | crsfn/2017/14271.md |
-| art. 157, § 40 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | Proposta de termo de compromisso de diretora de RI de companhia aberta por divulgação de informação que pode induzir investidores a erro (art. 15, RCVM 80/2021). Pagamento de R$ 340.000,00. Colegiado aceitou por unanimidade. | cvm/colegiado/2024/col-20240123-d3002.md |
+| art. 157, § 40 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretora de RI da Sendas Distribuidora S.A. (Assaí), por suposta divulgação de informação que induziria investidores a erro (art. 15 da RCVM 80/2021). Valor: R$ 340.000,00 em parcela única, após contraproposta do Comitê (inicial: R$ 300.000,00). | cvm/colegiado/2024/col-20240123-d3002.md |
 
 ### Citada sem dispositivo identificado
 
@@ -49,13 +49,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | termo-compromisso | RJ2015/6124 | 2016-05-24 | aceito | informacao-privilegiada | Propostas de termo de compromisso de cinco proponentes por negociações com ações da Prumo Logística S.A. antes de fato relevante de 03.06.2015 (art. 13, Instrução CVM 358). Aceitas por maioria, com pagamentos vinculados ao lucro obtido (triplo ou dobro) ou fixos, corrigidos pelo IPCA. | cvm/colegiado/2016/col-20160524-d0216.md |
+| art. 11 | termo-compromisso | RJ2015/6124 | 2016-05-24 | aceito | informacao-privilegiada | O Colegiado, por maioria, aceitou as cinco propostas de termo de compromisso (R$ 20.520,00; R$ 58.269,60; R$ 24.984,00; R$ 15.000,00; R$ 24.962,00) por uso de informação privilegiada antes de fato relevante, art. 13 da ICVM 358/2002, acompanhando o parecer do Comitê. Vencido o Presidente, que considerou a aceitação inoportuna. | cvm/colegiado/2016/col-20160524-d0216.md |
 
 ### art. 205
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 205, § 3º | termo-compromisso | RJ2008/8046 | 2009-05-05 | rejeitado | assembleia-acionistas | Proposta conjunta de termo de compromisso de seis administradores da Construtora Lix da Cunha S.A., acusados de irregularidades no pagamento de dividendos, na absorção de prejuízos e na convocação de assembleias ordinárias (Lei 6.404/76, arts. 132, 176, 189 e 202). Colegiado rejeitou a proposta, que apenas reiterava obrigações legais, sem compromisso indenizatório nem prazo. | cvm/colegiado/2009/col-20090505-d03.md |
+| art. 205, § 3º | termo-compromisso | RJ2008/8046 | 2009-05-05 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de Termo de Compromisso de seis administradores da Construtora Lix da Cunha S.A., acusados de irregularidades com dividendos, reservas e assembleias (art. 132 da Lei 6.404/76). Em face do parecer do Comitê, que viu obrigações já devidas, sem prazo nem indenização, considerou-a inconveniente e inoportuna. | cvm/colegiado/2009/col-20090505-d03.md |
 
 ## lei-3
 
@@ -69,7 +69,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 156 | termo-compromisso | RJ2009/11007 | 2010-05-25 | rejeitado | deveres-administradores | Colegiado rejeitou propostas individuais de R$ 100.000,00 de três administradores da Invest Tur Brasil S.A., acusados de votar e intervir em deliberações com interesse conflitante (art. 156, Lei 6.404/76), em caso envolvendo sociedade de que eram cotistas e debêntures de que eram titulares. Especial gravidade das condutas. | cvm/colegiado/2010/col-20100525-d06.md |
+| art. 156 | termo-compromisso | RJ2009/11007 | 2010-05-25 | rejeitado | deveres-administradores | O Colegiado rejeitou as três propostas de termo de compromisso apresentadas individualmente por membros do conselho de administração da Invest Tur Brasil, acompanhando o Comitê, que as considerou inconvenientes diante da especial gravidade das condutas (art. 156 da Lei 6.404/76). Cada proposta previa R$ 100.000,00. | cvm/colegiado/2010/col-20100525-d06.md |
 
 ## lei-4
 
@@ -108,21 +108,21 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 142, inciso IV | termo-compromisso | RJ2005/8528 | 2006-08-15 | rejeitado | divulgacao-informacoes | Companhia aberta com registro desatualizado, demonstrações financeiras fora do prazo, AGOs não convocadas e fato relevante não divulgado sobre dificuldade financeira (IN CVM 202/93, arts. 13, 16 e 17). Proposta de patrocínio de evento de direito societário rejeitada: não repara o dano difuso ao mercado e não gera economia processual. | cvm/colegiado/2006/col-20060815-d05.md |
+| art. 142, inciso IV | termo-compromisso | RJ2005/8528 | 2006-08-15 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta de termo de compromisso de três ex-administradores da S.A. Indústria e Comércio Chapecó, acusados de descumprir a Instrução CVM 202/93 e de omitir fato relevante sobre dificuldade financeira. Motivo: a proposta (patrocínio de evento e três anos sem assumir cargo de administrador) não traz pagamento suficiente para desestimular infrações semelhantes. | cvm/colegiado/2006/col-20060815-d05.md |
 
 ### art. 176
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 176 | termo-compromisso | RJ2012/13871 | 2013-06-13 | rejeitado | divulgacao-informacoes | Proposta conjunta de termo de compromisso de administradores da EMAE por omitir transações com parte relacionada (Sabesp) em formulário de referência e demonstrações financeiras, e por omissão na defesa de direitos da companhia (Lei 6.404/76, arts. 153 e 177, § 3º; Instrução CVM 480/09, art. 14). Proposta de R$ 250.000,00 rejeitada pelo Colegiado. | cvm/colegiado/2013/col-20130613-d03.md |
+| art. 176 | termo-compromisso | RJ2012/13871 | 2013-06-13 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta de termo de compromisso apresentada por quatro administradores da EMAE, acompanhando o Comitê, que a considerou inadequada à natureza e à gravidade das condutas. Acusação: omissão de transações com partes relacionadas (Sabesp) no formulário de referência e nas demonstrações financeiras. Proposta: R$ 250.000,00. | cvm/colegiado/2013/col-20130613-d03.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2015/2027 | 2020-11-17 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Operações fraudulentas com dano vultoso ao patrimônio de fundo de pensão. Recursos Voluntários conhecidos e desprovidos. | crsfn/2020/10372-100333-2019-81.md |
-| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | informacao-privilegiada | Propostas conjuntas de termo de compromisso de companhia aberta, controladores, beneficiários, administradores e pessoas ligadas por uso de informação privilegiada, manipulação de preços e práticas não equitativas em ações da companhia (art. 155, §4º, Lei 6.404/76; Instruções CVM 358/02 e 8/79). Comitê propôs a rejeição das propostas. | cvm/colegiado/2018/col-20180925-d1168.md |
-| termo-compromisso | RJ2014/12753 | 2016-02-23 | rejeitado | deveres-administradores | Rejeita propostas de termo de compromisso de sete administradores da Rossi Residencial S.A., acusados de infringir os arts. 153 e 176 c/c 177, §3º, da Lei 6.404/1976 e os arts. 14, 24 e 26 da Instrução CVM 480/2009. Propostas somadas de R$ 700.000,00 rejeitadas, em linha com precedentes. | cvm/colegiado/2016/col-20160223-d0112.md |
+| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | informacao-privilegiada | O Colegiado rejeitou propostas conjuntas de termo de compromisso de JBS S.A., Seara Alimentos Ltda., Eldorado Brasil Celulose S.A., J&F Investimentos S.A. e outros proponentes, incluindo pessoas físicas, acatando o parecer do Comitê. Fundamento do Comitê: gravidade e dolo das condutas e impactos que transcenderam o mercado de capitais. | cvm/colegiado/2018/col-20180925-d1168.md |
+| termo-compromisso | RJ2014/12753 | 2016-02-23 | rejeitado | deveres-administradores | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso de sete administradores da Rossi Residencial S.A., acompanhando o Comitê, que recomendou pronunciamento norteador em julgamento. Propostas somavam R$ 700.000,00. Supostas infrações: arts. 153, 176 e 177 da Lei 6.404 e Instrução 480. | cvm/colegiado/2016/col-20160223-d0112.md |
 | acordao-crsfn | 99/1885 | 2000-10-10 | parcial | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações sobre a empresa (liquidanda) administrada pelo apelante – Acolhimento em parte das razões de defesa – Recurso a se dá provimento parcial. | crsfn/2000/3041.md |
 
 ## lei-7
@@ -146,7 +146,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 5º, inciso II | termo-compromisso | 14/2005 | 2008-08-19 | rejeitado | deveres-administradores | Rejeitada proposta conjunta de termo de compromisso de diretores e conselheiros da MRS Logística S.A., de R$ 4.000.000,00, por má gestão tarifária e faturamento extra prejudicial. Requisitos de indenização integral e de cessação da prática não atendidos. | cvm/colegiado/2008/col-20080819-d03.md |
+| art. 11, § 5º, inciso II | termo-compromisso | 14/2005 | 2008-08-19 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores da MRS Logística S.A. e de três companhias (CSN, MBR e Vale), de pagamento de R$ 4.000.000,00 à MRS, em inquérito sobre tarifas. Acompanhando o Comitê: a proposta não atende à indenização dos prejuízos e não se comprova a cessação da prática (art. 11, §5º, I, Lei 6.385/76). | cvm/colegiado/2008/col-20080819-d03.md |
 
 ### art. 17
 
@@ -176,7 +176,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.011708/2017-71 | 2020-02-18 | aceito | outros | Proposta complementar de termo de compromisso do Banco Morgan Stanley e de empresas do grupo, em PAS da SMI, fixando obrigação de duas vezes o resultado de R$ 6.638.483,26 (base IPCA), rateada entre os proponentes. A PFE/CVM considerou inviável descontar o valor pago à BSM. Aceito. | cvm/colegiado/2020/col-20200218-d1475.md |
+| termo-compromisso | 19957.011708/2017-71 | 2020-02-18 | aceito | manipulacao-fraude | O Colegiado aceitou proposta complementar de termo de compromisso do grupo Morgan Stanley em PAS sobre manipulação de preços da OGXP3, com obrigação pecuniária de duas vezes o resultado de R$ 6.638.483,26, atualizado pelo IPCA, acompanhando voto de diretor que sopesou valores pagos à BSM pelos mesmos fatos. | cvm/colegiado/2020/col-20200218-d1475.md |
 | acordao-crsfn | RJ2013/13172 | 2019-09-24 | absolvicao | informacao-privilegiada | RECURSO VOLUNTÁRIO. Insider trading. Conhecimento de informação relevante da Companhia não divulgada ao mercado. Negociação antes da divulgação do fato relevante. Ausência do elemento intencional, essencial à configuração de insider trading. Infração não configurada. Recurso conhecido e provido. | crsfn/2019/10372-100001-2018-16.md |
 
 ## lei-11
@@ -197,7 +197,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2014/14760 | 2015-12-08 | rejeitado | auditoria-independente | Rejeita proposta de termo de compromisso de empresa de auditoria independente acusada de descumprir o art. 31 da Instrução CVM 308/1999 (rodízio de auditor) em trabalhos para duas companhias abertas. Proposta de R$ 50.000,00 em 36 parcelas não foi aceita pela proponente; Comitê considerou que não teria efeito paradigmático. | cvm/colegiado/2015/col-20151208-d9963.md |
+| termo-compromisso | RJ2014/14760 | 2015-12-08 | rejeitado | auditoria-independente | O Colegiado rejeitou proposta de termo de compromisso de auditora independente acusada de descumprir o art. 31 da Instrução CVM 308/1999 em auditorias de duas companhias abertas, que oferecia R$ 50.000,00 em 36 parcelas. Acompanhou o Comitê, que considerou a aceitação inconveniente e inoportuna por não ter efeito paradigmático suficiente. | cvm/colegiado/2015/col-20151208-d9963.md |
 
 ## lei-12
 
@@ -205,8 +205,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2014/7072 | 2015-12-15 | rejeitado | deveres-administradores | Rejeita propostas conjuntas de termo de compromisso de diretores, conselheiros fiscais e membros do conselho de administração da Inepar S.A., acusados de infringir os arts. 142, 153 e 163 da Lei 6.404/1976 e, os diretores, os arts. 176 e 177 da mesma lei. Ofertas de R$ 100.000,00 e R$ 25.000,00 consideradas flagrantemente desproporcionais. | cvm/colegiado/2015/col-20151215-d9984.md |
-| termo-compromisso | RJ2014/7351 | 2015-06-09 | rejeitado | contabil-demonstracoes | Rejeição de proposta conjunta de Termo de Compromisso da Inepar S.A. e de diretores da Inepar Equipamentos e Montagens S.A., em PAS sobre demonstrações financeiras refeitas por determinação da SEP (Lei 6.404/76, arts. 176 e 177; Instrução CVM 480/09), tida como conduta grave. | cvm/colegiado/2015/col-20150609-d9683.md |
+| termo-compromisso | RJ2014/7072 | 2015-12-15 | rejeitado | deveres-administradores | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos proponentes no PAS RJ2014/7072 (Inepar S.A.), acompanhando o Comitê de Termo de Compromisso. O Comitê, após parecer da PFE/CVM que apontou óbice legal, entendeu que a celebração seria inconveniente e que o caso demanda pronunciamento norteador do Colegiado. | cvm/colegiado/2015/col-20151215-d9984.md |
+| termo-compromisso | RJ2014/7351 | 2015-06-09 | rejeitado | contabil-demonstracoes | O Colegiado rejeitou a proposta conjunta de termo de compromisso da controladora e de quatro administradores, acusados por infrações aos arts. 138, § 4º (controladora), 176 e 177 da Lei 6.404/1976 e aos arts. 26, I, e 29, I, da ICVM 480/2009. Acompanhou o Comitê, que considerou inconveniente a celebração pela gravidade da conduta e pela necessidade de pronunciamento norteador. | cvm/colegiado/2015/col-20150609-d9683.md |
 
 ## lei-17
 
@@ -238,7 +238,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 5º, inciso I | termo-compromisso | 19957.011574/2017-99; 19957.011582/2017-35 | 2018-11-27 | aceito | auditoria-independente | Termo de compromisso de duas sociedades de auditoria e de responsável técnico por não aplicar normas de auditoria (NBC TA 200, 510 e 700) nos trabalhos sobre as demonstrações financeiras da Triunfo, em afronta ao art. 20 da Instrução CVM 308/99. Pagamento de R$ 100.000,00 por sociedade; o responsável técnico fica impedido por 4 anos. | cvm/colegiado/2018/col-20181127-d1224.md |
+| art. 11, § 5º, inciso I | termo-compromisso | 19957.011574/2017-99; 19957.011582/2017-35 | 2018-11-27 | aceito | auditoria-independente | O Colegiado aceitou, por unanimidade, propostas de Termo de Compromisso de duas sociedades de auditoria e de seu responsável técnico, por não aplicar normas de auditoria (NBC TA) em trabalhos sobre demonstrações da Triunfo (art. 20 da Instrução CVM 308/99). Pagamento de R$ 100.000,00 por sociedade e vedação de quatro anos ao responsável técnico, conforme parecer do Comitê. | cvm/colegiado/2018/col-20181127-d1224.md |
 
 ## lei-35
 
@@ -295,7 +295,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 5º | termo-compromisso | RJ2007/9080 | 2008-06-10 | aceito | divulgacao-informacoes | Proposta de termo de compromisso de administradora de fundo por não enviar à Sansuy declaração sobre aquisição de mais de 5% das ações preferenciais, em infração ao art. 12, §3º, da Instrução 358/02. Aceita com pagamento de R$ 40 mil à CVM. | cvm/colegiado/2008/col-20080610-d08.md |
+| art. 11, § 5º | termo-compromisso | RJ2007/9080 | 2008-06-10 | aceito | divulgacao-informacoes | O Colegiado aceitou a proposta de termo de compromisso da Mellon Serviços Financeiros DTVM S.A., administradora de fundo, de R$ 40.000,00, por não enviar à Sansuy S.A. declaração sobre aquisição de participação superior a 5% em ações preferenciais (art. 12, §3º, Instrução 358/02). | cvm/colegiado/2008/col-20080610-d08.md |
 
 ## lei-689
 
@@ -303,7 +303,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 24 | termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | normativo | Minuta de alteração da Deliberação CVM 390/01, que disciplina a celebração de termo de compromisso em processo administrativo sancionador, com procedimento diferenciado para a proposta. Colegiado aprovou a minuta, com alterações, para audiência pública de 30 dias. | cvm/colegiado/2004/col-20041123-d01.md |
+| art. 24 | termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | normativo | O Colegiado aprovou, com alterações, minuta de Deliberação que altera a Deliberação CVM 390/01, sobre celebração de termo de compromisso em processo administrativo sancionador, para audiência pública de 30 dias. A SDM consolidará as sugestões e enviará o texto final ao Colegiado antes da audiência. | cvm/colegiado/2004/col-20041123-d01.md |
 
 ## lei-1290
 
@@ -321,7 +321,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 3º, inciso VI | acordao-crsfn | SP-2001/0236 | 2010-01-26 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Realização de operações em bolsa de valores - Leilão eletrônico - Call de fechamento - Ocorrência de concentração de negócios - Manipulação de preços mediante colocação de ordens de venda com preços e quantidades estabelecidos em contexto potencialmente prejudicial aos investidores compradores - Irregularidades caracterizadas - Ausência de suficientes elementos comprobatórios para responsabilizar os dois diretores apelados – Recursos a que se nega provimento. | crsfn/2010/6065.md |
 | art. 3º, inciso VI | acordao-crsfn | 16/2003 | 2015-02-24 | arquivamento | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Administração de clube de investimento – Descumprimento do dever de diligência - Manipulação de preços – Realização de operação em desacordo com o estatuto social do clube e com as regras de privatização da companhia envolvida - Não apresentação de fichas cadastrais de titulares de ações - Falta de diligência na defesa dos interesses dos cotistas e na regularização de seu cadastro perante a Câmara de Liquidação e Custódia - Embaraço à fiscalização da autoridade supervisora - Irregularidades não caracterizadas - Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2015/11408.md |
-| art. 3º, inciso VII | termo-compromisso | 22/2005 | 2007-08-07 | — | fundos-investimento | Proposta de termo de compromisso do Banco da Amazônia e de seu diretor, em inquérito sobre perdas e provisões em fundos administrados pelo banco. Comitê concluiu que não se cumpriu o requisito de indenização dos prejuízos aos cotistas (art. 11, §5º, II, da Lei 6.385/76). | cvm/colegiado/2007/col-20070807-d03.md |
+| art. 3º, inciso VII | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | cvm/colegiado/2007/col-20070807-d03.md |
 
 ## lei-2303
 
@@ -329,9 +329,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | manipulacao-fraude | Proposta conjunta de termo de compromisso de dois responsáveis pela Bluebenx Tecnologia Financeira S.A., acusados de operação fraudulenta (RCVM 62, arts. 2º, III, e 3º) e de oferta pública sem registro (Lei 6.385, art. 19; ICVM 400). Valor de R$ 200.000,00, sem proposta de reparação de danos difusos. PFE opinou por óbice. Colegiado rejeitou, acompanhando o Comitê. | cvm/colegiado/2024/col-20240903-d3128.md |
-| termo-compromisso | 19957.001908/2021-01 | 2023-01-17 | rejeitado | criptoativos | Nova proposta de termo de compromisso da Bluebenx Tecnologia Financeira S.A. e de seu sócio administrador, por oferta de contratos de investimento coletivo em criptoativos sem registro nem dispensa (art. 19 da Lei 6.385/1976; ICVM 400). Proposta de R$ 200.000,00; Comitê recomendou rejeição. | cvm/colegiado/2023/col-20230117-d2461.md |
-| termo-compromisso | 19957.001908/2021-01 | 2022-01-18 | rejeitado | ofertas-publicas | Proposta conjunta de termo de compromisso de plataforma de tecnologia financeira, ofertante, e de seu administrador, por oferta de valores mobiliários sem registro nem dispensa (art. 19, Lei 6.385/1976; ICVM 400/2003). PFE apontou óbice pela ausência de cessação da prática; o Colegiado rejeitou a proposta de R$ 150.000,00. | cvm/colegiado/2022/col-20220118-d2461.md |
+| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso de R$ 200.000,00 apresentada por dois proponentes no PAS 19957.004388/2023-41. A acusação é de operação fraudulenta (RCVM 62/2022) e de oferta pública sem registro (ICVM 400). O Comitê considerou o óbice jurídico apontado pela PFE/CVM e a ausência de proposta de reparação de danos difusos. | cvm/colegiado/2024/col-20240903-d3128.md |
+| termo-compromisso | 19957.001908/2021-01 | 2023-01-17 | rejeitado | ofertas-publicas | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, nova proposta conjunta de termo de compromisso de R$ 200.000,00 da Bluebenx e de sócio administrador, em PAS por oferta sem registro nem dispensa. Óbice da PFE: continuidade da conduta e prejuízos individualizados não contemplados. | cvm/colegiado/2023/col-20230117-d2461.md |
+| termo-compromisso | 19957.001908/2021-01 | 2022-01-18 | rejeitado | ofertas-publicas | O Colegiado, por unanimidade, rejeitou proposta conjunta de termo de compromisso de companhia e de seu sócio administrador, acusados de oferta de valores mobiliários sem registro nem dispensa. Acompanhou o Comitê, que manteve o óbice da PFE/CVM pela não cessação da prática, pois os proponentes continuavam ofertando. | cvm/colegiado/2022/col-20220118-d2461.md |
 
 ## lei-3385
 
@@ -355,7 +355,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.002632/2017-93 | 2017-12-19 | aceito | divulgacao-informacoes | Aceitação de proposta de termo de compromisso do proponente, ex-diretor de relações com investidores da Cia Siderúrgica Nacional, por não divulgar como fato relevante termo de ajustamento de conduta ambiental (art. 157, §4º, Lei 6.404/1976; art. 3º, Instrução CVM 358/2002). Pagamento de R$ 200.000,00. | cvm/colegiado/2017/col-20171219-d0879.md |
+| termo-compromisso | 19957.002632/2017-93 | 2017-12-19 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de ex-diretor de relações com investidores de companhia siderúrgica, de R$ 200.000,00, acompanhando o Comitê. Acusação: não divulgou como fato relevante termo de ajustamento de conduta ambiental (art. 157, §4º, Lei 6.404; Instrução 358). | cvm/colegiado/2017/col-20171219-d0879.md |
 
 ## lei-3685
 
@@ -410,7 +410,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.008704/2017-14 | 2018-10-23 | aceito | assembleia-acionistas | Termo de compromisso do presidente da assembleia geral da São Paulo Turismo S.A. por não reconhecer o direito de acionistas não controladores de eleger membros do conselho de administração e do conselho fiscal (arts. 128, 239 e 240 da Lei 6.404/76). Pagamento de R$ 15.000,00 em parcela única; segundo o proponente, a obrigação de fazer já estava atendida. | cvm/colegiado/2018/col-20181023-d1122.md |
+| termo-compromisso | 19957.008704/2017-14 | 2018-10-23 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso do presidente de assembleia da São Paulo Turismo S.A. por não reconhecer eleição de membros por acionistas não controladores (arts. 128, 239 e 240 da Lei 6.404/76), com pagamento de R$ 15.000,00 à CVM. Determinou retorno à SGE para negociação complementar, com educação financeira como possível contrapartida. | cvm/colegiado/2018/col-20181023-d1122.md |
 
 ## lei-4505
 
@@ -429,7 +429,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | 19957.010195/2021-68 | 2024-11-12 | condenacao | ofertas-publicas | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. OFERTA PÚBLICA DE VALORES MOBILIÁRIOS, SEM A PRÉVIA OBTENÇÃO DE REGISTRO PERANTE A CVM. Infração caracterizada. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | crsfn/2024/10372-000065-2024-66.md |
 | acordao-crsfn | RJ2019/7807 | 2022-08-09 | parcial | divulgacao-informacoes | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO DO DEVER DE ENVIAR OU PELO ENVIO INTEMPESTIVO DE INFORMAÇÕES PERIÓDICAS OU ADOÇÃO DE MEDIDAS NECESSÁRIAS À ELABORAÇÃO DESSAS INFORMAÇÕES. NÃO ELABORAÇÃO TEMPESTIVA DE DEMONSTRAÇÕES FINANCEIRAS. Infração ao art. 29 da Instrução CVM nº 480/2009 e ao art. 176, da Lei nº 6.404/1976. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | crsfn/2022/10372-100110-2021-39.md |
 | acordao-crsfn | 19957.008274/2018-11; RJ2018/5469 | 2021-09-14 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. Ausência de registro ou de dispensa de registro de oferta de contratos de investimento coletivo relacionados a empreendimentos imobiliários hoteleiros (condo-hotéis), respectivamente nos termos do art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03 e no inciso I do § 5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Recursos conhecidos e parcialmente providos. | crsfn/2021/10372-100180-2020-14.md |
-| termo-compromisso | 19957.002921/2017-92 | 2018-04-03 | aceito | ofertas-publicas | Oferta pública de valores mobiliários sem registro e sem dispensa (art. 19, Lei 6.385/1976; Instrução CVM 400/2003). Aceita a proposta de uma companhia e de seu administrador (R$ 150.000,00 no total); rejeitadas as propostas da outra companhia e de seu administrador. | cvm/colegiado/2018/col-20180403-d1008.md |
+| termo-compromisso | 19957.002921/2017-92 | 2018-04-03 | aceito | ofertas-publicas | O Colegiado aceitou propostas de termo de compromisso da Meliá Brasil e de seu administrador (R$ 100.000,00 e R$ 50.000,00) e rejeitou as de outra sociedade e seu administrador, por não observarem a contraproposta do Comitê. Acusação: oferta sem registro (art. 19, Lei 6.385/76; art. 2º, Instrução CVM 400/2003). | cvm/colegiado/2018/col-20180403-d1008.md |
 | acordao-crsfn | RJ-2012-10487 | 2017-04-19 | arquivamento | deveres-administradores | Recurso de Ofício. Descumprimento do dever de lealdade por parte de acionista controlador - Recurso desprovido - Arquivamentos confirmados. | crsfn/2017/13883.md |
 | acordao-crsfn | 18/2010 | 2016-06-28 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Abuso de poder de controle, em detrimento dos interesses da Companhia – Omissão de membro do Conselho Fiscal ao dever de fiscalizar os atos praticados pelos administradores -Desprovimento dos recursos voluntários e de ofício | crsfn/2016/10372-000632-2016-74.md |
 
@@ -481,7 +481,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | Propostas de termo de compromisso de administrador fiduciário, gestoras, corretoras e diretores responsáveis de fundo de investimento em participações, acusados de operação fraudulenta na colocação e na administração de cotas (ICVM 8/79, II, c). Colegiado rejeitou as propostas, por entender que o caso deve ser julgado. | cvm/colegiado/2021/col-20211109-d2182.md |
+| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de investimento em participações, acompanhando o parecer do Comitê. Este entendeu inconveniente a celebração, dada a gravidade, em tese, do caso e o reduzido grau de economia processual. | cvm/colegiado/2021/col-20211109-d2182.md |
 
 ## lei-5250
 
@@ -489,7 +489,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2006/6572 | 2007-08-07 | aceito | analistas-rating | Termo de compromisso de proponente que atuava como analista de valores mobiliários sem registro na CVM, com recomendações divulgadas em site e em coluna de jornal (Instrução CVM 388/03, arts. 2º, §2º, e 7º, II). Aceito, com recomendações retiradas e pagamento de R$ 10 mil à CVM. | cvm/colegiado/2007/col-20070807-d02.md |
+| termo-compromisso | RJ2006/6572 | 2007-08-07 | aceito | analistas-rating | O Colegiado aceitou proposta de termo de compromisso do acusado de pagar R$ 10.000,00 à vista, como condição para a celebração, por atividade de analista de valores mobiliários sem registro na CVM. Acompanhou o Comitê, que entendeu atendidos os requisitos legais, com a retirada das recomendações, e o valor suficiente para desestimular infrações semelhantes. | cvm/colegiado/2007/col-20070807-d02.md |
 
 ## lei-5285
 
@@ -505,7 +505,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | termo-compromisso | 19957.008559/2016-82 | 2017-12-19 | aceito | informacao-privilegiada | Aceitação de proposta de termo de compromisso do proponente, diretor e conselheiro da COSAN S.A., por negociar ações da companhia no período de vedação de 15 dias antes da divulgação do ITR, com posse de informação privilegiada (art. 13, §4º, Instrução CVM 358/2002). Pagamento de R$ 150.000,00. | cvm/colegiado/2017/col-20171219-d0877.md |
+| art. 11 | termo-compromisso | 19957.008559/2016-82 | 2017-12-19 | aceito | informacao-privilegiada | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 150.000,00 de diretor vice-presidente jurídico da Cosan, acusado de negociar ações da companhia no período de vedação do art. 13, §4º, da Instrução CVM 358/2002, antes da divulgação do ITR. Acompanhou o Comitê, que elevou a proposta inicial de R$ 50.000,00. | cvm/colegiado/2017/col-20171219-d0877.md |
 
 ## lei-5474
 
@@ -611,8 +611,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 09/1993 | 2006-12-05 | aceito | manipulacao-fraude | Aceita nova proposta de termo de compromisso de administradores e controladores que venderam à Marcopolo S.A. ações de sua própria emissão (Instrução CVM 10/80, art. 2º, d). Indenização à companhia de R$ 137.610,28 e R$ 547.944,44; R$ 39.195,14 à CVM; desistência de ação proposta contra a CVM. | cvm/colegiado/2006/col-20061205-d01.md |
-| termo-compromisso | 09/1993 | 2006-04-11 | rejeitado | deveres-administradores | Proposta de termo de compromisso de acionistas controladores e administradores da Marcopolo S/A por venda de ações de emissão da companhia à própria companhia, vedada pela Instrução CVM 10/80, art. 2º, d. Rejeitada: não previu indenização aos prejuízos (art. 11, §5º, II, Lei 6.385/76) e não era conveniente. | cvm/colegiado/2006/col-20060411-d05.md |
+| termo-compromisso | 09/1993 | 2006-12-05 | aceito | deveres-administradores | O Colegiado aceitou nova proposta de termo de compromisso de quatro proponentes no PAS 09/1993, acompanhando o voto do relator, após rejeitar a proposta anterior em 11.04.06. A proposta prevê ressarcimento à Marcopolo e pagamento de R$ 39.195,14 à CVM, como condição de eficácia. Imputação: venda à própria companhia de ações de sua emissão, por administradores e controladores. | cvm/colegiado/2006/col-20061205-d01.md |
+| termo-compromisso | 09/1993 | 2006-04-11 | rejeitado | deveres-administradores | O Colegiado rejeitou a proposta de termo de compromisso de quatro proponentes, acusados de vender ações da própria companhia à companhia da qual eram administradores e controladores (art. 2º, d, da Instrução CVM 10/80). Segundo o relator, a proposta não previa ressarcimento aos investidores lesados e não era conveniente nem oportuna. | cvm/colegiado/2006/col-20060411-d05.md |
 
 ## lei-6358
 
@@ -658,9 +658,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/2899 | 2007-10-09 | aceito | fundos-investimento | Termo de compromisso de banco administrador de fundo que iniciou atividades antes de concluir o registro (Instrução CVM 409/04, art. 8º), regularizado somente após instado pela CVM. Aceito, com pagamento de R$ 40 mil à CVM como condição para celebração. | cvm/colegiado/2007/col-20071009-d10.md |
-| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/2900 | 2007-12-18 | aceito | fundos-investimento | Aceita proposta de termo de compromisso da BBM Administração de Recursos DTVM por início de atividades de fundo multimercado antes da conclusão do registro, com envio do prospecto fora do prazo (Instrução CVM 409/04, art. 8º); pagamento de R$ 40 mil. | cvm/colegiado/2007/col-20071218-d05.md |
-| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/10873 | 2008-01-08 | aceito | fundos-investimento | Aceita proposta de termo de compromisso do Banco BNP Paribas Brasil por distribuição de cotas de fundo multimercado antes da conclusão do registro na CVM, com pagamento de R$ 40 mil. | cvm/colegiado/2008/col-20080108-d02.md |
+| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/2899 | 2007-10-09 | aceito | fundos-investimento | O Colegiado aceitou a proposta de termo de compromisso do Banco Opportunity S.A., que prevê pagamento de R$ 40.000,00 à CVM por registro irregular do Opportunity Selezione FIA, iniciado antes da conclusão do registro. Com base no parecer do Comitê, sem evidências de prejuízo aos cotistas. Pagamento qualificado como condição para celebração do termo. | cvm/colegiado/2007/col-20071009-d10.md |
+| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/2900 | 2007-12-18 | aceito | fundos-investimento | O Colegiado aceitou proposta de termo de compromisso da BBM Administração de Recursos DTVM S.A. de pagar R$ 40.000,00 à CVM, por início das atividades do BBM Ibiza Fundo de Investimento Multimercado antes de concluído o registro (art. 8º da Instrução 409/04), acompanhando o parecer do Comitê. | cvm/colegiado/2007/col-20071218-d05.md |
+| art. 11, § 5º, inciso I | termo-compromisso | RJ2007/10873 | 2008-01-08 | aceito | ofertas-publicas | O Colegiado, com base no parecer do Comitê, aceitou proposta de termo de compromisso do Banco BNP Paribas Brasil S.A., previamente ao PAS, por distribuição de cotas de fundo antes de concluir o registro (início em 25.05.07; prospecto enviado em 20.08.07). Pagamento de R$40.000,00 à CVM em dez dias da publicação no DOU. | cvm/colegiado/2008/col-20080108-d02.md |
 
 ### art. 19
 
@@ -703,14 +703,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 11 | acordao-crsfn | 06/94 | 2004-12-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Prática não-eqüitativa (compra e venda dos mesmos papéis, em curto prazo, em detrimento de investidores institucionais) – Exercício de atividade de intermediação, corretagem e administração de carteira de valores sem autorização da Comissão de Valores Mobiliários – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento – Recurso de ofício provido em parte. | crsfn/2004/4297.md |
 | art. 11 | acordao-crsfn | RJ-2014-14763 | 2019-07-23 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO. Auditoria. Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de Contabilidade destinadas à execução desses trabalhos. Recurso conhecido e desprovido. | crsfn/2019/10372-100343-2018-36.md |
-| art. 11, § 5º, inciso I | termo-compromisso | IA10/01 | 2004-05-11 | aceito | manipulacao-fraude | Proposta de termo de compromisso do Banco Itaú BBA, de sua DTVM e de dois administradores, acusados de condições artificiais de demanda, oferta e preço e de operação fraudulenta com contratos futuros de Índice Bovespa na BM&F em 1998 (IN CVM 8/79). Aceita com seminário, cartilha e parecer de auditor independente em 90 dias. | cvm/colegiado/2004/col-20040511-d02.md |
-| art. 11, § 5º, inciso II | termo-compromisso | IA10/01 | 2004-05-11 | aceito | manipulacao-fraude | Proposta de termo de compromisso do Banco Itaú BBA, de sua DTVM e de dois administradores, acusados de condições artificiais de demanda, oferta e preço e de operação fraudulenta com contratos futuros de Índice Bovespa na BM&F em 1998 (IN CVM 8/79). Aceita com seminário, cartilha e parecer de auditor independente em 90 dias. | cvm/colegiado/2004/col-20040511-d02.md |
+| art. 11, § 5º, inciso I | termo-compromisso | IA10/01 | 2004-05-11 | aceito | outros | O Colegiado, acompanhando o relator, aprovou a celebração de termo de compromisso proposto pelo Banco Itaú BBA S.A. e pela Itaú DTVM S.A. para suspender o inquérito administrativo IA 10/01. A minuta teve aprovação formal da PFE; o relator recomendou cláusula de auditor independente registrado na CVM atestando o cumprimento das obrigações, antes da formalização. | cvm/colegiado/2004/col-20040511-d02.md |
+| art. 11, § 5º, inciso II | termo-compromisso | IA10/01 | 2004-05-11 | aceito | outros | O Colegiado, acompanhando o relator, aprovou a celebração de termo de compromisso proposto pelo Banco Itaú BBA S.A. e pela Itaú DTVM S.A. para suspender o inquérito administrativo IA 10/01. A minuta teve aprovação formal da PFE; o relator recomendou cláusula de auditor independente registrado na CVM atestando o cumprimento das obrigações, antes da formalização. | cvm/colegiado/2004/col-20040511-d02.md |
 
 ### art. 27-E
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 27-E | termo-compromisso | 19957.002595/2017-13 | 2019-08-20 | outro | intermediacao | Propostas de termo de compromisso de corretora, seu diretor, agente autônomo, gestores de fundo e investidora acusados de prática não equitativa (Instrução CVM 08/79), quebra de sigilo, uso de celular e conta erro (Instrução CVM 497/11), consultoria sem registro (Instrução CVM 43/85) e falta de arquivamento de ordens (Instrução CVM 505/11, art. 13). Termos firmados. | cvm/colegiado/2019/col-20190820-d1286.md |
+| art. 27-E | termo-compromisso | 19957.002595/2017-13 | 2019-08-20 | outro | manipulacao-fraude | O Colegiado, por unanimidade e acompanhando o Comitê, aceitou as propostas de termo de compromisso da ICAP, de um diretor dela, de um agente autônomo de investimentos e de dois gestores de fundo, e rejeitou a de uma investidora que não aderiu à contraproposta. Infrações principais: prática não equitativa (ICVM 8/79). | cvm/colegiado/2019/col-20190820-d1286.md |
 
 ### Citada sem dispositivo identificado
 
@@ -725,7 +725,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11, § 5º | termo-compromisso | 19957.004676/2018-39 | 2023-04-18 | aceito | assembleia-acionistas | Nova proposta conjunta de termo de compromisso de acionistas e administradores da JBS S.A. por voto indireto na aprovação das próprias contas (Lei 6.404/1976, art. 115, §1º). Colegiado havia rejeitado proposta anterior em 03.05.2022 e indeferido, em 10.01.2023, pedido de anulação. Comitê opinou pela rejeição da nova proposta por ausência de elemento novo. | cvm/colegiado/2023/col-20230418-d1257.md |
+| art. 11, § 5º | termo-compromisso | 19957.004676/2018-39 | 2023-04-18 | aceito | deveres-administradores | O Colegiado aceitou, por maioria, nova proposta de termo de compromisso de dois acionistas controladores da JBS, de R$ 3.250.000,00 cada, contra o parecer do Comitê que opinou pela rejeição. Acompanhou o voto do diretor relator, que apontou ausência de óbice da PFE/CVM e efeito dissuasório. Acusação: abuso do direito de voto (art. 115, §1º, Lei 6.404/1976). | cvm/colegiado/2023/col-20230418-d1257.md |
 
 ## lei-6385-1999
 
@@ -747,7 +747,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º, inciso I, alínea a | termo-compromisso | 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | auditoria-independente | Propostas de termo de compromisso da PricewaterhouseCoopers e de seu responsável técnico, por descumprir o art. 20 da Instrução CVM 308/1999 em auditoria da ALL – América Latina Logística S.A. (exercícios de 2012 e 2013). Comitê recomendou rejeição. | cvm/colegiado/2017/col-20171003-d0814.md |
+| art. 9º, inciso I, alínea a | termo-compromisso | 19957.008057/2016-51; RJ2016/8251 | 2017-10-03 | rejeitado | auditoria-independente | O Colegiado rejeitou, por unanimidade, proposta conjunta de TC da PricewaterhouseCoopers e de seu sócio responsável técnico, acompanhando o Comitê, que a considerou insuficiente para desestimular condutas semelhantes. Propostas finais: R$ 180.000,00 e R$ 80.000,00. Contraproposta do Comitê: R$ 650.000,00 à firma e dois anos sem exercer função de responsável técnico ao sócio. | cvm/colegiado/2017/col-20171003-d0814.md |
 
 ## lei-6385-2011
 
@@ -773,7 +773,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 11, inciso I | acordao-crsfn | 19957.003864/2016-88; RJ2016/5786 | 2022-12-07 | condenacao | contabil-demonstracoes | RECURSO VOLUNTÁRIO. SOCIETÁRIO. IRREGULARIDADES NA ELABORAÇÃO E DIVULGAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS. AUSÊNCIA DE COMUNICADO AO MERCADO A RESPEITO DA SUBSTITUIÇÃO DO AUDITOR INDEPENDENTE. Apuração da responsabilidade dos diretores e dos membros do Conselho de Administração. Infrações caracterizadas. Multas fixadas proporcionais. Recursos conhecidos e desprovidos. | crsfn/2022/10372-100186-2021-64.md |
 | art. 11, inciso I | acordao-crsfn | 19957.007486/2018-73; RJ2018/4967 | 2023-09-12 | parcial | informacao-privilegiada | RECURSO VOLUNTÁRIO. INSIDER TRADING, NÃO ENVIO DE FORMULÁRIO DE REFERÊNCIA, FALHA INFORMACIONAL. NEGOCIAÇÃO DE AÇÕES COM BASE EM INFORMAÇÕES PRIVILEGIADAS. NÃO ENVIO À CVM DOS FORMULÁRIOS DE VALORES MOBILIÁRIOS NEGOCIADOS E DETIDOS POR ADMINISTRADORES. Materialidade configurada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | crsfn/2023/10372-100170-2021-51.md |
-| art. 11, § 1º, inciso I | termo-compromisso | 02/2003 | 2006-05-09 | rejeitado | informacao-privilegiada | Proposta de termo de compromisso da Koninklijke Ahold N.V. e de administradores da Bompreço S.A. Supermercados do Nordeste, indiciados por suposto uso de informação privilegiada sobre fato relevante de fechamento de capital. Rejeitada: não previu indenização aos acionistas (art. 11, §5º, II, Lei 6.385/76). | cvm/colegiado/2006/col-20060509-d01.md |
+| art. 11, § 1º, inciso I | termo-compromisso | 02/2003 | 2006-05-09 | rejeitado | informacao-privilegiada | O Colegiado rejeitou proposta de Termo de Compromisso da Koninklijke Ahold N.V. e de outros três proponentes em PAS por uso de informação privilegiada sobre fato relevante da Bompreço, acompanhando o parecer do Comitê. Para o Comitê, a proposta não previa indenização aos acionistas (Lei 6.385/76, art. 11, § 5º, II). | cvm/colegiado/2006/col-20060509-d01.md |
 
 ### art. 15
 
@@ -825,7 +825,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2015/6220 | 2016-05-03 | rejeitado | deveres-administradores | Propostas de termo de compromisso de diretores, conselheiros de administração e membros do conselho fiscal da Forjas Taurus S.A. por infrações aos arts. 142, 153, 154, 176 e 177 da Lei 6.404/76 e à Instrução CVM 480/2009. Rejeitadas por óbice legal (art. 11, §5º, II, Lei 6.385/76) e desproporção dos valores. | cvm/colegiado/2016/col-20160503-d9750.md |
+| termo-compromisso | RJ2015/6220 | 2016-05-03 | rejeitado | deveres-administradores | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso de 12 acusados da Forjas Taurus S.A. (diretores e membros dos conselhos de administração e fiscal), de R$ 30.000,00 a R$ 90.000,00 cada, por infrações à Lei 6.404/1976 e à Instrução CVM 480/2009. Acompanhou o Comitê, que viu propostas desproporcionais à gravidade das acusações e óbice da PFE-CVM. | cvm/colegiado/2016/col-20160503-d9750.md |
 
 ## lei-6404-1964
 
@@ -833,7 +833,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 170, § 1º | termo-compromisso | RJ2009/2610 | 2009-12-08 | rejeitado | deveres-administradores | Propostas de termo de compromisso de membros dos conselhos de administração e fiscal da Clarion S.A. Agroindustrial: preço de aumento de capital fixado pelo valor patrimonial sem justificativa (§§ 1º e 7º do art. 170 da Lei 6.404/76) e aprovação sem ressalvas (arts. 153 e 163, IV). Rejeitadas por indício de reiteração. | cvm/colegiado/2009/col-20091208-d10.md |
+| art. 170, § 1º | termo-compromisso | RJ2009/2610 | 2009-12-08 | rejeitado | deveres-administradores | O Colegiado rejeitou as cinco propostas de termo de compromisso apresentadas por administradores e membros do conselho fiscal da Clarion S.A. Agroindustrial no PAS RJ2009/2610, por óbice do art. 9º da Deliberação 390/01: indícios de reiteração de conduta semelhante. Acompanhou o parecer do Comitê. | cvm/colegiado/2009/col-20091208-d10.md |
 
 ### Citada sem dispositivo identificado
 
@@ -874,8 +874,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 157, § 4º | termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | informacao-privilegiada | Rejeitadas propostas de termo de compromisso da Iochpe-Maxion, de dirigentes e da BNDES Participações em inquérito sobre uso de informação privilegiada relativa ao 2º trimestre de 2003 e a fato relevante; compromissos considerados desequilibrados em relação à conduta imputada. | cvm/colegiado/2007/col-20071218-d04.md |
-| art. 157, § 4º | termo-compromisso | 25/2005 | 2008-07-03 | aceito | informacao-privilegiada | Nova proposta de termo de compromisso da companhia e de dois administradores por uso de informações privilegiadas (resultados do 2º trimestre de 2003 e fato relevante de 09.10.03) e por operações em programa de recompras. Aceita com pagamentos nominais de R$ 237 mil. | cvm/colegiado/2008/col-20080703-d01.md |
+| art. 157, § 4º | termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | informacao-privilegiada | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 25/2005, por uso de informação privilegiada: a da BNDES Participações S.A. (informar gestores de fundos sobre acordos de acionistas) e a da Iochpe-Maxion S.A. com dois ex-diretores (R$ 50.000,00 e aperfeiçoamento de políticas), por desequilíbrio em relação à conduta. Acompanhou o parecer do Comitê. | cvm/colegiado/2007/col-20071218-d04.md |
+| art. 157, § 4º | termo-compromisso | 25/2005 | 2008-07-03 | aceito | informacao-privilegiada | O Colegiado aceitou nova proposta de Termo de Compromisso da Iochpe-Maxion S.A. e de dois acusados no PAS 25/2005, que apurava uso de informação privilegiada, com pagamentos à CVM de R$ 100.000,00, R$ 107.000,00 (corrigidos pelo IGP-M) e R$ 30.000,00, com base no parecer do Comitê. | cvm/colegiado/2008/col-20080703-d01.md |
 
 ### art. 176
 
@@ -919,20 +919,20 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 30 | termo-compromisso | 19957.003748/2021-26 | 2024-10-15 | rejeitado | deveres-administradores | Propostas de termo de compromisso da diretora-presidente, da diretora executiva e de conselheiro da Gafisa S.A., acusados de violar deveres de lealdade e de diligência (LSA, arts. 153, 154 e 155) em programa de recompra de ações e de omitir vínculo com o grupo controlador. Valores de R$ 350.000,00, R$ 250.000,00 e R$ 300.000,00. PFE sem óbice; Comitê abriu negociação. | cvm/colegiado/2024/col-20241015-d3051.md |
-| art. 30 | termo-compromisso | 19957.003748/2021-26 | 2025-09-16 | aceito | deveres-administradores | Novas propostas de termo de compromisso de executivas e de conselheira de companhia aberta por supostas infrações aos deveres de lealdade, cuidado e de conflito de interesses (arts. 153, 154 e 155 da Lei 6.404/1976), em alinhamento ao controlador em suposto ambiente de manipulação de preços. Comitê propôs contrapropostas de R$ 5.280.000,00 e R$ 3.400.000,00. | cvm/colegiado/2025/col-20250916-d3051.md |
+| art. 30 | termo-compromisso | 19957.003748/2021-26 | 2024-10-15 | rejeitado | deveres-administradores | O Colegiado rejeitou propostas de termo de compromisso de três administradores da Gafisa S.A., por supostas infrações aos deveres de diligência e lealdade (arts. 153 a 155 da LSA). Acompanhou o Comitê, que apontou gravidade em tese e valores distantes da contrapartida adequada. | cvm/colegiado/2024/col-20241015-d3051.md |
+| art. 30 | termo-compromisso | 19957.003748/2021-26 | 2025-09-16 | aceito | deveres-administradores | O Colegiado, por unanimidade, aceitou novas propostas de termo de compromisso de duas administradoras da Gafisa S.A. em PAS sobre deveres de administradores e manipulação de preços, contra a sugestão de rejeição do Comitê. Prazos: dez dias úteis para assinatura e para pagamento; arquivamento após atestado da SAD. | cvm/colegiado/2025/col-20250916-d3051.md |
 
 ### art. 132
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 132 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | Propostas de termo de compromisso de administradores da Auzza Securitizadora S.A. por, em tese, descumprimento por mais de 12 meses de obrigações periódicas da RCVM 80 (arts. 22, III a V, e 24, parágrafo único) e deveres de administrador (art. 142, IV, c/c art. 132 da Lei 6.404/1976). Propõem R$ 15.000,00 em parcela única e medidas de conformidade informacional. | cvm/colegiado/2026/col-20260331-d3406.md |
+| art. 132 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | cvm/colegiado/2026/col-20260331-d3406.md |
 
 ### art. 142
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 142 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | Propostas de termo de compromisso de administradores da Auzza Securitizadora S.A. por, em tese, descumprimento por mais de 12 meses de obrigações periódicas da RCVM 80 (arts. 22, III a V, e 24, parágrafo único) e deveres de administrador (art. 142, IV, c/c art. 132 da Lei 6.404/1976). Propõem R$ 15.000,00 em parcela única e medidas de conformidade informacional. | cvm/colegiado/2026/col-20260331-d3406.md |
+| art. 142 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | cvm/colegiado/2026/col-20260331-d3406.md |
 
 ### Citada sem dispositivo identificado
 
@@ -954,7 +954,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 161, § 4º, alínea a | termo-compromisso | 19957.010436/2017-92 | 2018-07-17 | aceito | assembleia-acionistas | Aceitação de proposta de termo de compromisso do presidente de assembleias gerais de companhia que impediu a eleição de conselheiro fiscal pelos acionistas minoritários, em infração ao art. 161, §4º, c/c art. 109, III, da Lei 6.404/76. Pagamento de R$ 150.000,00 à CVM. | cvm/colegiado/2018/col-20180717-d1087.md |
+| art. 161, § 4º, alínea a | termo-compromisso | 19957.010436/2017-92 | 2018-07-17 | aceito | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso de R$ 150.000,00, em benefício do mercado, do presidente de assembleias gerais que impediu a eleição de conselheiro fiscal pela minoria (Lei 6.404/76, art. 161, §4º, c/c art. 109, III). Proposta inicial: R$ 100.000,00; o proponente aderiu à contraproposta do Comitê. | cvm/colegiado/2018/col-20180717-d1087.md |
 
 ## lei-6494
 
@@ -963,7 +963,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 153 | acordao-crsfn | 13/2014 | 2021-06-14 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS. Prescrição ordinária afastada por maioria. Contrato de mútuo. Transferência de recursos de companhia em crise sem comprovação do melhor interesse econômico da companhia. Dever de Lealdade dos Administradores. Dever de Diligência dos Administradores. Infrações configuradas. Não provimento. Abuso de Poder de Controle. Infrações configuradas. Parcial provimento. Dosimetria com base no inciso III do §1º, art. 11, Lei 6.385/76. | crsfn/2021/10372-100058-2020-30.md |
-| art. 153 | termo-compromisso | 19957.003748/2021-26 | 2024-10-15 | rejeitado | deveres-administradores | Propostas de termo de compromisso da diretora-presidente, da diretora executiva e de conselheiro da Gafisa S.A., acusados de violar deveres de lealdade e de diligência (LSA, arts. 153, 154 e 155) em programa de recompra de ações e de omitir vínculo com o grupo controlador. Valores de R$ 350.000,00, R$ 250.000,00 e R$ 300.000,00. PFE sem óbice; Comitê abriu negociação. | cvm/colegiado/2024/col-20241015-d3051.md |
+| art. 153 | termo-compromisso | 19957.003748/2021-26 | 2024-10-15 | rejeitado | deveres-administradores | O Colegiado rejeitou propostas de termo de compromisso de três administradores da Gafisa S.A., por supostas infrações aos deveres de diligência e lealdade (arts. 153 a 155 da LSA). Acompanhou o Comitê, que apontou gravidade em tese e valores distantes da contrapartida adequada. | cvm/colegiado/2024/col-20241015-d3051.md |
 
 ## lei-6496
 
@@ -971,7 +971,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | auditoria-independente | Proposta conjunta de termo de compromisso de auditor independente pessoa jurídica e de sua responsável técnica, por descumprimento de normas de auditoria em demonstrações financeiras de fundo imobiliário (ICVM 308/99, art. 20). Colegiado rejeitou a proposta, acompanhando o Comitê. | cvm/colegiado/2021/col-20210504-d2157.md |
+| art. 1º | termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | auditoria-independente | O Colegiado rejeitou a proposta conjunta de termo de compromisso de uma sociedade de auditoria e de sua sócia, acompanhando o Comitê. As proponentes recusaram a contraproposta do Comitê, de R$ 456.000,00, e a proposta final foi considerada insuficiente para desestimular práticas semelhantes. | cvm/colegiado/2021/col-20210504-d2157.md |
 
 ## lei-6604
 
@@ -985,7 +985,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2001/4652 | 2005-03-22 | aceito | deveres-administradores | Nova proposta de termo de compromisso, agora apresentada pelos controladores e administradores acusados, em PAS por dividendos prioritários inferiores aos devidos a preferencialistas nos exercícios de 1998 a 2000. Aceita, com inclusão do processo RJ2002/2259 (exercício de 2001). Sem confissão de fato nem reconhecimento de ilicitude. | cvm/colegiado/2005/col-20050322-d02.md |
+| termo-compromisso | RJ2001/4652 | 2005-03-22 | aceito | assembleia-acionistas | Apreciação de proposta de termo de compromisso. PAS nº RJ2001/4652. | cvm/colegiado/2005/col-20050322-d02.md |
 
 ## lei-6606
 
@@ -1053,7 +1053,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 21 | termo-compromisso | RJ2006/9070 | 2007-08-21 | rejeitado | divulgacao-informacoes | Proposta de termo de compromisso de acionista que não comunicou à CVM, no prazo, a alienação de 6,27% das ações preferenciais da Varig (art. 12, §4º, da Instrução CVM 358/02). Rejeitada: não continha compromisso além do que a lei já impõe. | cvm/colegiado/2007/col-20070821-d07.md |
+| art. 21 | termo-compromisso | RJ2006/9070 | 2007-08-21 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou a proposta de termo de compromisso apresentada por um acusado no PAS RJ2006/9070, por não divulgar alienação de participação acionária relevante em ações da Varig (art. 12, §4º, Instrução 358/02). Após negociação, a proposta manteve apenas obrigações já impostas pela lei, sem compromisso adicional, pelos argumentos do parecer do Comitê. | cvm/colegiado/2007/col-20070821-d07.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1095,10 +1095,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | contabil-demonstracoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO OU ENVIO DE DEMONSTRAÇÕES FINANCEIRAS DE FORMA INCOMPLETA, INCORRETA OU FORA DO PRAZO. Irregularidades na apresentação de informações periódicas de fundos administrados pela Intrader. Preliminares de perda de objeto e da pretensão de abatimento integral do valor originalmente previsto no Termo de Compromisso rejeitadas. Irregularidades caracterizadas. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | crsfn/2026/19957-001933-2021-86.md |
-| termo-compromisso | RJ2010/1281 | 2010-06-22 | rejeitado | exercicio-irregular | Colegiado rejeitou nova proposta de R$ 16.673,41 de proponente acusado de administrar carteira de valores mobiliários sem autorização da CVM (art. 23, Lei 6.385/76; art. 3º, Instrução 306/99). Proposta idêntica à rejeitada em 08.12.09, considerada insuficiente para desestimular condutas assemelhadas. | cvm/colegiado/2010/col-20100622-d03.md |
-| termo-compromisso | RJ2009/5865 | 2009-12-08 | rejeitado | administracao-carteiras | Proposta de termo de compromisso de pessoa que atuou como administrador de carteira de valores mobiliários sem autorização da CVM (art. 23 da Lei 6.385/76; art. 3º da Instrução CVM 306/99). Rejeitada por falta de elementos para avaliar a recomposição de prejuízos de investidor (art. 11, § 5º, II, da Lei 6.385/76). | cvm/colegiado/2009/col-20091208-d07.md |
-| termo-compromisso | RJ2007/1854 | 2008-06-10 | aceito | exercicio-irregular | Nova proposta de termo de compromisso de sociedade e de seu administrador por exercício irregular da atividade de agente autônomo de investimento em 2003. Aceita com pagamento conjunto de R$ 76 mil à CVM, equivalente a 20% do valor recebido pelos proponentes. | cvm/colegiado/2008/col-20080610-d01.md |
-| termo-compromisso | RJ2007/1854 | 2007-11-13 | rejeitado | exercicio-irregular | Propostas de termo de compromisso de sociedade que atuou como agente autônomo de investimento sem autorização, e de corretora que a contratou. Rejeitadas: os compromissos eram desproporcionais aos mais de R$ 380 mil auferidos em 2003, e na corretora havia indícios de conduta não cessada. | cvm/colegiado/2007/col-20071113-d06.md |
+| termo-compromisso | RJ2010/1281 | 2010-06-22 | rejeitado | exercicio-irregular | O Colegiado rejeitou nova proposta de termo de compromisso, de R$ 16.673,41, apresentada pelo acusado de atuar como administrador de carteira sem autorização da CVM (art. 23 da Lei 6.385/76), acompanhando o Comitê, para quem o valor não desestimula condutas assemelhadas. Proposta idêntica à rejeitada em 08.12.09. | cvm/colegiado/2010/col-20100622-d03.md |
+| termo-compromisso | RJ2009/5865 | 2009-12-08 | rejeitado | exercicio-irregular | O Colegiado rejeitou a proposta de termo de compromisso, acompanhando o parecer do Comitê. Imputação: possível atuação como administrador de carteira sem autorização (art. 7º, §3º, Deliberação 390/01). Segundo o Comitê, faltavam elementos para avaliar a proposta, sobretudo o ressarcimento de prejuízos a terceiros (art. 11, §5º, II, Lei 6.385/76). | cvm/colegiado/2009/col-20091208-d07.md |
+| termo-compromisso | RJ2007/1854 | 2008-06-10 | aceito | exercicio-irregular | O Colegiado aceitou nova proposta de Termo de Compromisso da Megainvestidor.com Ltda. e de seu administrador, por exercício irregular de atividade de agente autônomo em 2003, com pagamento conjunto de R$ 76 mil (20% do valor bruto recebido no período), após rejeição anterior, com base no parecer do Comitê. | cvm/colegiado/2008/col-20080610-d01.md |
+| termo-compromisso | RJ2007/1854 | 2007-11-13 | rejeitado | exercicio-irregular | O Colegiado rejeitou as propostas de termo de compromisso de Megainvestidor.com Ltda. e de SLW CVC Ltda., acompanhando o Comitê. Este viu desproporção entre os compromissos e o montante que superou R$ 380 mil em 2003, e não viu base para negociação. Imputava-se exercício irregular de agente autônomo e contratação de pessoa jurídica não autorizada. | cvm/colegiado/2007/col-20071113-d06.md |
 
 ## lei-7942
 
@@ -1122,7 +1122,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | criptoativos | RECURSOS VOLUNTÁRIOS. OFERTA PÚBLICA IRREGULAR DE VALORES MOBILIÁRIOS. CRIPTOATIVOS. I.C.O. HOWEY TEST. BLOCKCHAIN. Recursos conhecidos, com desprovimento do recurso da pessoa física e parcial provimento do recurso da pessoa física. | crsfn/2023/10372-100089-2021-71.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | criptoativos | RECURSOS VOLUNTÁRIOS. OFERTA PÚBLICA IRREGULAR DE VALORES MOBILIÁRIOS. CRIPTOATIVOS. I.C.O. HOWEY TEST. BLOCKCHAIN. Violação ao art. 19 da Lei 6.385/76 e art. 2º da Instrução CVM 400/03. Recursos conhecidos, com desprovimento do recurso da pessoa jurídica e parcial provimento do recurso da pessoa física. | crsfn/2023/10372-100089-2021-71-2.md |
-| termo-compromisso | 06/02 | 2005-09-13 | rejeitado | exercicio-irregular | Rejeitadas propostas de termo de compromisso de indiciados no PAS 06/02 (Parcom Participações S.A., Fortpart S.A., Banco Opportunity S.A. e outros), por exercício irregular da mediação de valores mobiliários na compra de ações do antigo Sistema Telebrás (art. 16, parágrafo único, Lei 6.385/76), com irregularidades no cadastro de clientes na CLC/BVRJ. | cvm/colegiado/2005/col-20050913-d01.md |
+| termo-compromisso | 06/02 | 2005-09-13 | rejeitado | exercicio-irregular | O Colegiado negou a celebração de Termo de Compromisso com dezesseis proponentes no PAS 06/02, que apura suposto exercício irregular da atividade de mediação de valores mobiliários e irregularidades no cadastro de clientes junto à CLC/BVRJ. Com base no voto do Presidente, que opinou pela rejeição das propostas. Prosseguimento do feito. | cvm/colegiado/2005/col-20050913-d01.md |
 
 ## lei-8036
 
@@ -1169,7 +1169,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | manipulacao-fraude | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA. REALIZAÇÃO DE OPERAÇÕES COM AÇÕES EM PERÍODO VEDADO. Irregularidades caracterizadas. Dosimetria das penas adequada. Recurso conhecido e desprovido. | crsfn/2025/19957-012197-2023-53.md |
 | acordao-crsfn | 19957.008274/2018-11; RJ2018/5469 | 2021-09-14 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. Ausência de registro ou de dispensa de registro de oferta de contratos de investimento coletivo relacionados a empreendimentos imobiliários hoteleiros (condo-hotéis), respectivamente nos termos do art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03 e no inciso I do § 5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Recursos conhecidos e parcialmente providos. | crsfn/2021/10372-100180-2020-14.md |
 | acordao-crsfn | 13/06 | 2014-06-03 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Realização de negócios com ações de emissão de companhia aberta, por membro do Conselho de Administração, em período vedado pelos normativos aplicáveis – Natureza preventiva do impedimento em benefício dos interesses dos investidores e do mercado - Irregularidades caracterizadas – Incompetência do CRSFN para reavaliar proposta de celebração de compromisso apresentada à entidade supervisora - Apelo a que se nega provimento. | crsfn/2014/12947.md |
-| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | auditoria-independente | Nova proposta de termo de compromisso de administradores e controladores da Carbomil S.A. Mineração e Indústria e de auditores independentes (IA 19/2000): manutenção de sistemas de divulgação, não emissão de valores mobiliários por dois anos, seminário, contribuição voluntária de R$ 60.000,00 e revisão de controle de qualidade dos auditores. | cvm/colegiado/2002/col-20020529-d3018.md |
+| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | divulgacao-informacoes | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia. Auditores: atualização de sistemas de informação, seminário ou curso, contribuição voluntária de R$ 60.000,00 cada e, na Carbomil, sem emissão de valores mobiliários por dois anos. A PJU não viu óbice. | cvm/colegiado/2002/col-20020529-d3018.md |
 
 ## lei-8117
 
@@ -1192,8 +1192,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 27/2005 | 2008-02-26 | aceito | contabil-demonstracoes | Aceita nova proposta de termo de compromisso da Parmalat Brasil S.A. em inquérito sobre desvio de poder e abuso de poder de controle, por demonstrações financeiras fora dos princípios contábeis (Lei 6.404/76, art. 177, caput) e transações com partes relacionadas (Deliberação CVM 26/86); pagamento de R$ 70 mil. | cvm/colegiado/2008/col-20080226-d02.md |
-| termo-compromisso | 27/2005 | 2007-10-30 | — | deveres-administradores | Propostas de termo de compromisso de sete acusados, entre companhia, administradores e auditores, em inquérito sobre desvio de poder e abuso de poder de controle na Parmalat Brasil desde 2000. Comitê entendeu que os compromissos não eram adequados, por desequilíbrio com a gravidade das acusações. | cvm/colegiado/2007/col-20071030-d03.md |
+| termo-compromisso | 27/2005 | 2008-02-26 | aceito | contabil-demonstracoes | O Colegiado aceitou nova proposta de Termo de Compromisso da Parmalat Brasil S.A. Indústria de Alimentos, com pagamento de R$ 70.000,00 à CVM, pelos argumentos do parecer do Comitê. Imputação: demonstrações financeiras fora de princípios contábeis (art. 177 da Lei 6.404/76) e transações com partes relacionadas (Deliberação CVM 26/86). | cvm/colegiado/2008/col-20080226-d02.md |
+| termo-compromisso | 27/2005 | 2007-10-30 | rejeitado | deveres-administradores | Por unanimidade, o Colegiado rejeitou as propostas de Termo de Compromisso da Parmalat Brasil S.A., da Deloitte e de dois sócios, e de três conselheiros no PAS 27/2005, acompanhando o Comitê. Fundamento: desequilíbrio entre a gravidade das acusações e os compromissos propostos; caso emblemático que merece julgamento. Julgou mesmo após pedido de retirada de pauta. | cvm/colegiado/2007/col-20071030-d03.md |
 
 ## lei-8167
 
@@ -1280,7 +1280,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | fundos-investimento | Proposta global de termo de compromisso de administradora de FII e de seus diretores por conflito de interesses na renegociação de aluguéis sem aprovação prévia da assembleia de cotistas (arts. 34 e 35, IX, da ICVM 472), além de outras infrações à ICVM 472 e à ICVM 555. | cvm/colegiado/2025/col-20250513-d3273.md |
+| termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | fundos-investimento | O Colegiado aceitou, por unanimidade, a proposta global de termo de compromisso da Tivio Capital DTVM e de quatro diretores responsáveis por FII, em três processos (um PAS e dois PAs), incluindo renegociação de aluguéis de fundo sem prévia aprovação da assembleia de cotistas. Acompanhou o Comitê: R$ 6.229.125,00 em parcela única, rateados entre os cinco proponentes; arquivamento após cumprimento. | cvm/colegiado/2025/col-20250513-d3273.md |
 
 ## lei-8249
 
@@ -1332,14 +1332,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 90 | acordao-crsfn | 06/2007 | 2025-02-12 | parcial | manipulacao-fraude | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. REALIZAÇÃO DE OPERAÇÕES FRAUDULENTAS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS. Prescrição quanto à infração de aquisição indireta de cotas por meio de empresa que possuía os mesmos sócios. Infrações caracterizadas. Ajuste na dosimetria das penas. Recursos conhecidos. Parciais provimentos. Desprovimentos. | crsfn/2025/10372-100181-2020-51.md |
-| art. 90 | termo-compromisso | 19957.008706/2018-86 | 2023-02-07 | aceito | deveres-administradores | Proposta de termo de compromisso de ex-administrador e acionista controlador de companhia, por desvio de poder e deslealdade ao usar a companhia em licitação pública (arts. 154 e 155 da Lei 6.404/1976). Proposta de R$ 850.000,00 e ressarcimento de debenturistas; PFE opinou pela existência de óbice jurídico. | cvm/colegiado/2023/col-20230207-d2798.md |
+| art. 90 | termo-compromisso | 19957.008706/2018-86 | 2023-02-07 | aceito | deveres-administradores | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso do administrador e acionista controlador da Ouro Verde Locação e Serviço S.A., com obrigação pecuniária de R$ 850.000,00 e ressarcimento aos debenturistas lesados. Imputação: uso da companhia em licitação com desvio de finalidade (arts. 154 e 155 da Lei 6.404/1976). | cvm/colegiado/2023/col-20230207-d2798.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2016/802 | 2020-12-14 | parcial | deveres-administradores | RECURSO VOLUNTÁRIO. Interesse Público na criação de Sociedade de Economia Mista. Abuso de poder de controle caracterizado. Ausência de má-fé. Parcial provimento. Advertência. | crsfn/2020/10372-100239-2019-22.md |
-| termo-compromisso | 22/2005 | 2007-08-07 | — | fundos-investimento | Proposta de termo de compromisso do Banco da Amazônia e de seu diretor, em inquérito sobre perdas e provisões em fundos administrados pelo banco. Comitê concluiu que não se cumpriu o requisito de indenização dos prejuízos aos cotistas (art. 11, §5º, II, da Lei 6.385/76). | cvm/colegiado/2007/col-20070807-d03.md |
+| termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | cvm/colegiado/2007/col-20070807-d03.md |
 | acordao-crsfn | IA-2000/25 | 2005-02-23 | extincao | processual | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Prática não-equitativa (aquisição de ações de prefeitura municipal com revenda quase simultânea dos papéis e auferimento de elevados lucros) -Operações alcançadas pela prescrição - Transferência de ações na custódia, com base em procuração outorgada, sem configurar negociação - Inimputabilidade da corretora apenada - Recurso de ofício improvido. | crsfn/2005/5957.md |
 
 ## lei-8685
@@ -1348,7 +1348,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2012/2766 | 2012-07-17 | aceito | ofertas-publicas | Proposta de termo de compromisso da corretora Socopa, que recebeu depósito de investidor para aquisição de certificados antes do registro da oferta (art. 32, II, Instrução CVM 260/97). Após restituição e indenização do investidor, aceita com pagamento de R$ 50.000,00. | cvm/colegiado/2012/col-20120717-d03.md |
+| termo-compromisso | RJ2012/2766 | 2012-07-17 | aceito | ofertas-publicas | O Colegiado aceitou proposta de termo de compromisso da SOCOPA Sociedade Corretora Paulista S.A. (R$ 50.000,00, auditoria e manuais de compliance) por distribuição de certificados antes do registro da oferta, acompanhando o parecer do Comitê, que a considerou conveniente após o ressarcimento do investidor. Pagamento como condição para celebração do termo. | cvm/colegiado/2012/col-20120717-d03.md |
 | acordao-crsfn | 12/00 | 2002-12-11 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Captação de recursos com base na Lei 8.685/93 (Lei do audiovisual) – Registro, emissão e distribuição de certificado de investimento – Prestação de informações obrigatórias (Instrução CVM 260/97) de modo incorreto e fora do prazo regulamentar – Competência da autoridade supervisora em face da competência do Tribunal de Contas da União-TCU – Responsabilização dos agentes produtores – Acolhimento, em parte, das razões aduzidas pela distribuidora dos títulos – Recurso de ofício improvido. | crsfn/2002/4122.md |
 
 ## lei-8742
@@ -1385,7 +1385,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, inciso II | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | Propostas conjuntas de termo de compromisso de dezenove administradores da Coelba (diretores, conselheiros de administração e fiscais) acusados de irregularidades em aumentos de capital de 2017 (arts. 153, 166 e 170, §7º, Lei 6.404/76). Afastado o óbice jurídico inicial, o Colegiado determinou o retorno ao Comitê para negociação. | cvm/colegiado/2020/col-20200728-d1675.md |
+| art. 7º, inciso II | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta conjunta de termo de compromisso de dezenove administradores da Coelba no PAS instaurado pela SEP. O Comitê a considerou desproporcional à gravidade do caso e não compatível com os pressupostos do instituto; a proposta era de R$ 8.325.000,00 em 18 parcelas. | cvm/colegiado/2020/col-20200728-d1675.md |
 | art. 7º, inciso III | acordao-crsfn | 10/05 | 2013-07-30 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Uso de prática não equitativa, com indevida posição de vantagem em relação aos demais participantes do mercado – Realização de operações fraudulentas – Atuação irregular como agente autônomo de investimentos – Descumprimento dos deveres de probidade e de diligência - Irregularidades caracterizadas - Razões de defesa acolhidas em parte - Apelos voluntários a que nega provimento, salvo o que trazido por um dos analistas, atuante no mercado de balcão organizado – Apelo da pessoa jurídica prejudicado - Recurso de ofício improvido – Arquivamento do processo quanto à matéria objeto da subida compulsória. | crsfn/2013/12805.md |
 
 ### art. 18
@@ -1444,7 +1444,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2014/7604 | 2015-07-14 | aceito | contabil-demonstracoes | Propostas de termo de compromisso de administradores do Terminal Garagem Menezes Côrtes S.A. por infrações aos arts. 176, 177 e 204 da Lei 6.404/1976, relacionadas às contas de dividendos antecipados. Aceitas pelo Colegiado, no total de R$ 180.000,00. | cvm/colegiado/2015/col-20150714-d9766.md |
+| termo-compromisso | RJ2014/7604 | 2015-07-14 | aceito | contabil-demonstracoes | O Colegiado aceitou as propostas de Termo de Compromisso de seis administradores do Terminal Garagem Menezes Côrtes S.A., acusados por infração aos arts. 176, 177 e 204 da Lei 6.404/1976, por R$ 180.000,00 (R$ 50.000,00 para dois e R$ 20.000,00 para os demais). Acompanhou o parecer do Comitê, após a SEP verificar a cessação das práticas contábeis irregulares. | cvm/colegiado/2015/col-20150714-d9766.md |
 
 ## lei-8951
 
@@ -1452,7 +1452,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2004/5303 | 2007-05-29 | aceito | deveres-administradores | Aceitação de proposta de termo de compromisso de ex-administradores de companhia por oneração excessiva da companhia com contratação de serviços jurídicos (arts. 153 a 155 da Lei 6.404/76), com disponibilização à companhia de R$ 10.400,00 corrigidos pelo IGP-M. | cvm/colegiado/2007/col-20070529-d02.md |
+| termo-compromisso | RJ2004/5303 | 2007-05-29 | aceito | deveres-administradores | O Colegiado aceitou, antes da instauração de PAS, proposta de termo de compromisso de dois ex-administradores da Opportunity Zain S.A. sobre deveres de diligência e lealdade (arts. 153 a 155, Lei 6.404/76). Condição de eficácia: disponibilizar à Zain Participações S.A. R$ 10.400,00, corrigidos. Pelos argumentos do parecer do Comitê. | cvm/colegiado/2007/col-20070529-d02.md |
 
 ## lei-8987
 
@@ -1466,19 +1466,19 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 35 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso da União, controladora da Centrais Elétricas Brasileiras S.A. (Eletrobras), acusada de conflito de interesses em assembleia geral extraordinária que aprovou renovação de concessões (art. 115, §1º, Lei 6.404/76). Proposta de realizar evento sobre mercado de capitais não acolhida, por inconveniente e inoportuna. | cvm/colegiado/2014/col-20140617-d01.md |
+| art. 35 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso da União, controladora da Eletrobras, acusada de voto em conflito de interesses em assembleia que aprovou renovação de concessões (art. 115, § 1º, Lei 6.404/76). Por unanimidade, não a considerou conveniente e oportuna, contra o parecer do Comitê. | cvm/colegiado/2014/col-20140617-d01.md |
 
 ### art. 36
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 36 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso da União, controladora da Centrais Elétricas Brasileiras S.A. (Eletrobras), acusada de conflito de interesses em assembleia geral extraordinária que aprovou renovação de concessões (art. 115, §1º, Lei 6.404/76). Proposta de realizar evento sobre mercado de capitais não acolhida, por inconveniente e inoportuna. | cvm/colegiado/2014/col-20140617-d01.md |
+| art. 36 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso da União, controladora da Eletrobras, acusada de voto em conflito de interesses em assembleia que aprovou renovação de concessões (art. 115, § 1º, Lei 6.404/76). Por unanimidade, não a considerou conveniente e oportuna, contra o parecer do Comitê. | cvm/colegiado/2014/col-20140617-d01.md |
 
 ### art. 42
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 42 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso da União, controladora da Centrais Elétricas Brasileiras S.A. (Eletrobras), acusada de conflito de interesses em assembleia geral extraordinária que aprovou renovação de concessões (art. 115, §1º, Lei 6.404/76). Proposta de realizar evento sobre mercado de capitais não acolhida, por inconveniente e inoportuna. | cvm/colegiado/2014/col-20140617-d01.md |
+| art. 42 | termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso da União, controladora da Eletrobras, acusada de voto em conflito de interesses em assembleia que aprovou renovação de concessões (art. 115, § 1º, Lei 6.404/76). Por unanimidade, não a considerou conveniente e oportuna, contra o parecer do Comitê. | cvm/colegiado/2014/col-20140617-d01.md |
 
 ### Citada sem dispositivo identificado
 
@@ -1511,7 +1511,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso da União, controladora da Centrais Elétricas Brasileiras S.A. (Eletrobras), acusada de conflito de interesses em assembleia geral extraordinária que aprovou renovação de concessões (art. 115, §1º, Lei 6.404/76). Proposta de realizar evento sobre mercado de capitais não acolhida, por inconveniente e inoportuna. | cvm/colegiado/2014/col-20140617-d01.md |
+| termo-compromisso | RJ2013/6635 | 2014-06-17 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso da União, controladora da Eletrobras, acusada de voto em conflito de interesses em assembleia que aprovou renovação de concessões (art. 115, § 1º, Lei 6.404/76). Por unanimidade, não a considerou conveniente e oportuna, contra o parecer do Comitê. | cvm/colegiado/2014/col-20140617-d01.md |
 
 ## lei-9099
 
@@ -1548,7 +1548,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 23 | termo-compromisso | 19957.009798/2019-01 | 2020-11-03 | — | manipulacao-fraude | Propostas conjuntas de termo de compromisso de sociedades, administradores, agente fiduciário e intermediário líder ligados a debêntures de Centara e Simsan, acusados de operações fraudulentas (Instrução CVM 8/79, I, II, “c”) e de descumprir deveres previstos nas Instruções CVM 583/16, 476/09 e 555/14. | cvm/colegiado/2020/col-20201103-d1836.md |
+| art. 23 | termo-compromisso | 19957.009798/2019-01 | 2020-11-03 | — | manipulacao-fraude | Discussão de propostas de Termo de Compromisso de oito proponentes, em PAS instaurado pela SRE por infrações à ICVM 8/79, à ICVM 476/09 e à ICVM 583/16. O Comitê propôs a rejeição, por não ter sido possível identificar a restituição dos valores integralizados pelos investidores; depois, os proponentes informaram ressarcimento integral. Julgamento suspenso por pedido de vista. | cvm/colegiado/2020/col-20201103-d1836.md |
 
 ## lei-9295
 
@@ -1565,7 +1565,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 16 | acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa - Inobservância do dever de guarda do sigilo de informação (ato ou fato relevante) ainda não divulgada ao mercado, obtida em razão do cargo e capaz de influir nas cotações com indevida vantagem, para si ou para outrem - Não comunicação da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em suas posições - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/11744.md |
-| art. 16 | termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | intermediacao | Oscilação de 334,7% nas cotações de ações preferenciais, em negócios de corretora acusada de falhas cadastrais de clientes (IN CVM 220/94, art. 5º). Após negociação com o Comitê, aceita proposta de pagamento de R$ 40.000,00 à CVM em 30 dias, por a participação se limitar a questões cadastrais. | cvm/colegiado/2006/col-20061003-d04.md |
+| art. 16 | termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | manipulacao-fraude | O Colegiado aceitou a proposta de termo de compromisso da corretora e de seu diretor, no valor conjunto de R$ 40.000,00 a pagar em 30 dias, no processo sobre oscilação de 334,7% nas ações da Cambuci S.A. Pelas razões do Comitê, a conduta dos proponentes limitou-se a questões cadastrais. | cvm/colegiado/2006/col-20061003-d04.md |
 | art. 16, § 1º | acordao-crsfn | RJ-2001-8363 | 2009-06-29 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Intermediação sem devida chancela da autoridade supervisora – Negociação de ações adquiridas no mercado de balcão não organizado e em sua maior parte de emissão de companhias listadas para transação em bolsa – Aquisição dos papéis mediante pagamento de preços abaixo dos praticados no mercado, a configurar uso de prática não-equitativa – Irregularidades caracterizadas – Arquivamento do processo | crsfn/2009/8548.md |
 | art. 16, § 1º | acordao-crsfn | SP-2005-155 | 2012-09-25 | parcial | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Utilização de informação privilegiada - Prática não equitativa - Inobservância do dever de guarda do sigilo de informação (ato ou fato relevante) ainda não divulgada ao mercado, obtida em razão do cargo e capaz de influir nas cotações com indevida vantagem, para si ou para outrem - Não comunicação da quantidade, das características e da forma de aquisição dos valores mobiliários de sua emissão e de sociedades controladas ou controladoras (companhias abertas), ou a eles referenciados, bem como das alterações em suas posições - Irregularidades caracterizadas – Recursos a que se nega provimento. | crsfn/2012/11744.md |
 | art. 16, § 1º | acordao-crsfn | 20/2005 | 2015-03-24 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas no mercado futuro de Ibovespa - Falta de cuidado e diligência em administração da carteira – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Demais apelos improvidos (inclusive o recurso de ofício). | crsfn/2015/13356.md |
@@ -1576,7 +1576,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.003795/2018-74 | 2021-08-10 | rejeitado | deveres-administradores | Pedido de reconsideração de proposta de termo de compromisso de companhia em recuperação judicial e de seus administradores, acusados de irregularidades em operações com partes relacionadas (2013 a 2015), com conflito de interesses e embaraço à fiscalização, em tese. A relatora votou pela rejeição, por inconveniência e inoportunidade. | cvm/colegiado/2021/col-20210810-d1950.md |
+| termo-compromisso | 19957.003795/2018-74 | 2021-08-10 | rejeitado | processual | O Colegiado não conheceu de pedido de reconsideração contra a rejeição de termo de compromisso da Refinaria de Manguinhos e de outros quatro proponentes, e rejeitou nova proposta. Pedido fora das hipóteses da Deliberação CVM 463/2003; novas contrapartidas seguem muito aquém do parâmetro do Comitê. | cvm/colegiado/2021/col-20210810-d1950.md |
 
 ## lei-9387
 
@@ -1623,7 +1623,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP-2002-07 | 2010-12-13 | parcial | contabil-demonstracoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Elaboração inadequada de demonstrações financeiras – Geração artificial de lucros através de operações ilícitas (estornos de reservas de reavaliação, compra e venda de títulos da dívida externa brasileira, ágio agregado em negócios envolvendo ações representativas do capital de empresas ligadas, contratos de financiamento habitacional com cobertura do FCVS, provisão para impostos e tributos, avaliação de investimentos e provisão para perdas em créditos vinculados ao SFH) - Irregularidades caracterizadas – Acolhimento parcial ao apelo trazido pelos indiciados membros do conselho de administração – Recurso de ofício provido em relação à pessoa jurídica – Improvimento aos demais recursos. | crsfn/2010/7702.md |
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | Administradores e controladores do Banco Econômico S.A. responsabilizados por operações que levaram à insolvência da instituição, objeto de intervenção do Banco Central em 1995: simulações de compra e venda, empréstimos a empresas ligadas e maquiagem de balanços. Apelos negados; inabilitação temporária de 3 a 20 anos para oito responsáveis e arquivamento quanto a quatro. Lei 6.385/76, art. 11, IV. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## lei-9472
 
@@ -1659,9 +1659,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2007/10331 | 2008-07-08 | aceito | fundos-investimento | Proposta de termo de compromisso de banco e de seu diretor por avaliar ações de carteiras de fundos pelo fechamento do dia, em descumprimento do art. 83 da Instrução 409/04 e do item 1.2.3.3 do COFI. Aceita com pagamento de R$ 50 mil por proponente. | cvm/colegiado/2008/col-20080708-d03.md |
-| termo-compromisso | RJ2007/10329 | 2008-07-08 | aceito | fundos-investimento | Proposta de termo de compromisso de distribuidora e de seu diretor por avaliar ações de carteiras de fundos pelo fechamento do dia, em descumprimento do art. 83 da Instrução 409/04 e do item 1.2.3.3 do COFI. Aceita com pagamento de R$ 50 mil por proponente. | cvm/colegiado/2008/col-20080708-d02.md |
-| termo-compromisso | RJ2007/8689 | 2008-02-19 | aceito | fundos-investimento | Aceita proposta de termo de compromisso da Solidus S/A CCVM e de sua diretora por avaliar ações de fundos pela cotação de fechamento, em desacordo com a regra contábil dos fundos (Instrução CVM 409/04, art. 83; Instrução CVM 438/06); pagamento de R$ 20 mil por proponente. | cvm/colegiado/2008/col-20080219-d05.md |
+| termo-compromisso | RJ2007/10331 | 2008-07-08 | aceito | fundos-investimento | O Colegiado aceitou a proposta de termo de compromisso do Banco Itaucard S.A. e de seu diretor, com pagamento individual de R$ 50.000,00, por avaliação de carteira de fundos pela cotação de fechamento, em descumprimento do art. 83 da Instrução 409/04. Seguiu o parecer do Comitê, que considerou a nova proposta conveniente e oportuna. | cvm/colegiado/2008/col-20080708-d03.md |
+| termo-compromisso | RJ2007/10329 | 2008-07-08 | aceito | fundos-investimento | O Colegiado aceitou a proposta de Termo de Compromisso da Intrag DTVM Ltda. e de seu diretor (PAS RJ2007/10329), acompanhando o parecer do Comitê, por avaliar carteira de renda variável de fundos pela cotação de fechamento, e não pela média diária (art. 83 da Instrução 409/04). Pagamento de R$ 50.000,00 individualmente; 10 dias para pagar e 30 dias para assinar. | cvm/colegiado/2008/col-20080708-d02.md |
+| termo-compromisso | RJ2007/8689 | 2008-02-19 | aceito | contabil-demonstracoes | O Colegiado aceitou proposta de termo de compromisso da Solidus S.A. CCVM e de sua diretora, de R$ 20 mil por proponente, por descumprir o art. 83 da Instrução 409/04 ao não observar as regras contábeis dos fundos (Instrução 438/06) na avaliação de ações de fundos, acompanhando o parecer do Comitê. | cvm/colegiado/2008/col-20080219-d05.md |
 
 ## lei-9478
 
@@ -1669,7 +1669,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 62, parágrafo único | termo-compromisso | RJ2015/10276 | 2016-10-04 | — | ofertas-publicas | Propostas de termo de compromisso da Petrobras, de ex-diretores, do banco líder de distribuição e de diretor de banco por informações do prospecto de oferta pública de 2010 sobre voto das ações preferenciais (Instrução CVM 400/2003 e Instrução CVM 480/2009). Comitê propôs rejeição por considerar as propostas insuficientes para desestimular condutas semelhantes. | cvm/colegiado/2016/col-20161004-d0366.md |
+| art. 62, parágrafo único | termo-compromisso | RJ2015/10276 | 2016-10-04 | rejeitado | ofertas-publicas | O Colegiado rejeitou, por unanimidade, seis propostas de Termo de Compromisso no PAS RJ2015/10276, acompanhando o Comitê. Acusação: informação do prospecto da oferta de 2010 sobre direito de voto das ações preferenciais, por falta de diligência (arts. 38 e 55 da Instrução CVM 400/2003). Comitê: rejeição pela companhia envolvida, pelo montante captado e pela insegurança gerada ao mercado. | cvm/colegiado/2016/col-20161004-d0366.md |
 
 ## lei-9491
 
@@ -1699,7 +1699,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 12/2009 | 2011-05-10 | aceito | securitizacao | Aceitação de propostas de termo de compromisso da CSA – Companhia Securitizadora de Ativos, de administradores e do agente fiduciário Pavarini DTVM, acusados em oferta pública de CRI de informações falsas, tendenciosas ou omissas (art. 9º da Instrução CVM 284/98 c/c art. 56 da Instrução CVM 400/03) e de falta de diligência. | cvm/colegiado/2011/col-20110510-d07.md |
+| termo-compromisso | 12/2009 | 2011-05-10 | aceito | securitizacao | O Colegiado aceitou as propostas de termo de compromisso no PAS 12/2009, sobre oferta de CRI da CSA – Companhia Securitizadora de Ativos (2004): R$ 100.000,00 cada para dois diretores; R$ 50.000,00 cada para três conselheiros; R$ 75.000,00 para a Pavarini DTVM, agente fiduciário. Acompanhou o Comitê. | cvm/colegiado/2011/col-20110510-d07.md |
 
 ## lei-9532
 
@@ -1771,8 +1771,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | normativo | Minuta de alteração da Deliberação CVM 390/01, que disciplina a celebração de termo de compromisso em processo administrativo sancionador, com procedimento diferenciado para a proposta. Colegiado aprovou a minuta, com alterações, para audiência pública de 30 dias. | cvm/colegiado/2004/col-20041123-d01.md |
-| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | auditoria-independente | Nova proposta de termo de compromisso de administradores e controladores da Carbomil S.A. Mineração e Indústria e de auditores independentes (IA 19/2000): manutenção de sistemas de divulgação, não emissão de valores mobiliários por dois anos, seminário, contribuição voluntária de R$ 60.000,00 e revisão de controle de qualidade dos auditores. | cvm/colegiado/2002/col-20020529-d3018.md |
+| termo-compromisso | RJ2003/12433 | 2004-11-23 | outro | normativo | O Colegiado aprovou, com alterações, minuta de Deliberação que altera a Deliberação CVM 390/01, sobre celebração de termo de compromisso em processo administrativo sancionador, para audiência pública de 30 dias. A SDM consolidará as sugestões e enviará o texto final ao Colegiado antes da audiência. | cvm/colegiado/2004/col-20041123-d01.md |
+| termo-compromisso | IA19/2000 | 2002-05-29 | aceito | divulgacao-informacoes | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia. Auditores: atualização de sistemas de informação, seminário ou curso, contribuição voluntária de R$ 60.000,00 cada e, na Carbomil, sem emissão de valores mobiliários por dois anos. A PJU não viu óbice. | cvm/colegiado/2002/col-20020529-d3018.md |
 
 ## lei-9717
 
@@ -1853,7 +1853,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | divulgacao-informacoes | Propostas de termo de compromisso de administradores da Cachoeira Velonorte S.A. em PAS sobre divulgação de informações periódicas e cisão parcial, oferecendo de R$ 2.500,00 a R$ 10.000,00. Rejeitadas por desproporção à conduta e por a companhia seguir inadimplente com a CVM. Reversão contábil da cisão estava sub judice. | cvm/colegiado/2008/col-20080304-d04.md |
+| art. 2º | termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou as propostas de Termo de Compromisso de três acusados no PAS sobre divulgação de informações periódicas e eventuais e cisão parcial da Cachoeira Velonorte S.A., de pagamento de R$ 5.000,00, R$ 10.000,00 e R$ 2.500,00 (as duas últimas com reversão contábil). Acompanhou o parecer do Comitê, que as considerou desproporcionais às condutas. | cvm/colegiado/2008/col-20080304-d04.md |
 
 ## lei-9868
 
@@ -1889,7 +1889,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2001/12037 | 2006-11-07 | aceito | auditoria-independente | Aceita nova proposta de termo de compromisso da Ruhtra Locações Ltda. (ex-Arthur Andersen S/C) e do responsável técnico, em PAS sobre pareceres de auditoria inadequados às demonstrações de 1999 de três companhias do mesmo grupo. Pagamento de R$ 20.655,00 à CVM, como condição de eficácia. | cvm/colegiado/2006/col-20061107-d02.md |
+| termo-compromisso | RJ2001/12037 | 2006-11-07 | aceito | auditoria-independente | O Colegiado acompanhou o relator e aceitou nova proposta de termo de compromisso dos acusados, de R$ 20.655,00, como condição de eficácia, por estar, segundo o relator, em consonância com sua orientação de desestimular infrações semelhantes. | cvm/colegiado/2006/col-20061107-d02.md |
 
 ## lei-9973
 
@@ -1932,7 +1932,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2009/6226 | 2010-01-26 | outro | manipulacao-fraude | Colegiado decidiu receber proposta de termo de compromisso da ASM Asset Management DTVM S.A., de sua gestora e de sócios, acusados de operação fraudulenta contra o RioPrevidência na subscrição de cotas do ASM FIDC CI e de atuação como contraparte em cotas do ASM FIDC FCVS (Instrução 08/79, item II, c; Instrução 306/99, art. 16, I). | cvm/colegiado/2010/col-20100126-d05.md |
+| termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | manipulacao-fraude | O Colegiado, acompanhando o parecer do Comitê, rejeitou propostas de termo de compromisso de seis proponentes no PAS 06/2007, por operação fraudulenta envolvendo os fundos ASM FIDC CI e ASM FIDC FCVS (Instrução 08/79, item II, letra c). Comitê: inconveniente a celebração, pela gravidade das condutas e pelos prejuízos potenciais ao Estado do Rio de Janeiro. | cvm/colegiado/2010/col-20100126-d05.md |
 
 ## lei-10177
 
@@ -1994,7 +1994,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, § 4º | termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | divulgacao-informacoes | Propostas de termo de compromisso de administradores da Cachoeira Velonorte S.A. em PAS sobre divulgação de informações periódicas e cisão parcial, oferecendo de R$ 2.500,00 a R$ 10.000,00. Rejeitadas por desproporção à conduta e por a companhia seguir inadimplente com a CVM. Reversão contábil da cisão estava sub judice. | cvm/colegiado/2008/col-20080304-d04.md |
+| art. 1º, § 4º | termo-compromisso | 15/2006 | 2008-03-04 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou as propostas de Termo de Compromisso de três acusados no PAS sobre divulgação de informações periódicas e eventuais e cisão parcial da Cachoeira Velonorte S.A., de pagamento de R$ 5.000,00, R$ 10.000,00 e R$ 2.500,00 (as duas últimas com reversão contábil). Acompanhou o parecer do Comitê, que as considerou desproporcionais às condutas. | cvm/colegiado/2008/col-20080304-d04.md |
 
 ## lei-10755
 
@@ -2046,7 +2046,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2007/4932 | 2008-05-20 | — | assembleia-acionistas | Proposta de termo de compromisso de nove membros do conselho de administração da Ampla Energia e Serviços S.A., por não convocar assembleia para oferecer aos acionistas o direito de preferência na venda de ações de subsidiária integral (art. 253, I, da Lei das S.A.). Comitê propôs aceitação, com indenização de R$ 227.858,64 aos minoritários e R$ 50.000,00 à CVM. | cvm/colegiado/2008/col-20080520-d05.md |
+| termo-compromisso | RJ2007/4932 | 2008-05-20 | aceito | assembleia-acionistas | O Colegiado aceitou a proposta de Termo de Compromisso de nove conselheiros da Ampla Energia e Serviços S.A., acusados de não convocar assembleia para oferecer direito de preferência na alienação de ações de subsidiária (art. 253, I, da Lei 6.404/76). Pagamentos: indenização de R$ 227.858,64 aos minoritários, atualizada pela Selic, e R$ 50.000,00 à CVM. | cvm/colegiado/2008/col-20080520-d05.md |
 
 ## lei-11052
 
@@ -2118,12 +2118,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | manipulacao-fraude | Proposta de termo de compromisso de emissor de ordens em nome de sociedade por criação de condições artificiais de oferta, demanda e preço em operações com opções de ações (RCVM 62/2022, art. 3º c/c art. 2º, I). Proposta de R$ 250.000,00. PFE/CVM sem óbice. | cvm/colegiado/2024/col-20240312-d2926.md |
-| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | manipulacao-fraude | Nova proposta de termo de compromisso de emissor de ordens e sócio administrador de sociedade extinta, acusados de criar condições artificiais de oferta, demanda e preço em opções de ações (RCVM 62, arts. 2º, I, e 3º). Valor de R$ 500.000,00. Colegiado já rejeitara proposta em 12.03.2024; Comitê recomendou rejeição. | cvm/colegiado/2024/col-20240827-d2926.md |
-| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | manipulacao-fraude | Nova proposta de termo de compromisso de sócio administrador de sociedade extinta, em nome próprio e da sociedade, por criar condições artificiais de oferta, demanda e preço em negócios com opções de ações (art. 3º da RCVM 62/2022). Valor de R$ 750.000,00; Comitê recomendou aceitação e o termo foi assinado. | cvm/colegiado/2024/col-20241217-d2926.md |
-| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | manipulacao-fraude | Proposta de termo de compromisso de emissor de ordens em nome de sociedade por criação de condições artificiais de oferta, demanda e preço em operações com opções de ações (RCVM 62/2022, art. 3º c/c art. 2º, I). Proposta de R$ 250.000,00. PFE/CVM sem óbice. | cvm/colegiado/2024/col-20240312-d2926.md |
-| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | manipulacao-fraude | Nova proposta de termo de compromisso de emissor de ordens e sócio administrador de sociedade extinta, acusados de criar condições artificiais de oferta, demanda e preço em opções de ações (RCVM 62, arts. 2º, I, e 3º). Valor de R$ 500.000,00. Colegiado já rejeitara proposta em 12.03.2024; Comitê recomendou rejeição. | cvm/colegiado/2024/col-20240827-d2926.md |
-| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | manipulacao-fraude | Nova proposta de termo de compromisso de sócio administrador de sociedade extinta, em nome próprio e da sociedade, por criar condições artificiais de oferta, demanda e preço em negócios com opções de ações (art. 3º da RCVM 62/2022). Valor de R$ 750.000,00; Comitê recomendou aceitação e o termo foi assinado. | cvm/colegiado/2024/col-20241217-d2926.md |
+| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade, rejeitou, contra a sugestão de aceitação do Comitê, proposta de termo de compromisso em PAS por criação de condições artificiais de oferta, demanda e preço em negócios com opções de ações (art. 3º, RCVM 62/2022), por ausência de conveniência e oportunidade. | cvm/colegiado/2024/col-20240312-d2926.md |
+| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | manipulacao-fraude | O Colegiado rejeitou nova proposta de termo de compromisso em nome próprio e de sociedade extinta, acompanhando o parecer do Comitê. Discordou da PFE/CVM sobre justa causa para a proposta em nome da sociedade, mas rejeitou. | cvm/colegiado/2024/col-20240827-d2926.md |
+| art. 7º-A, § 1º | termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | manipulacao-fraude | O Colegiado aceitou, por unanimidade, a terceira proposta de termo de compromisso de um investidor, em nome próprio e da TGA (extinta), de R$ 750.000,00 em parcela única (R$ 375.000,00 para cada), acompanhando o Comitê. Acusação: condições artificiais de oferta e preço em opções de ações (art. 3º, I, da RCVM 62/2022). Propostas anteriores rejeitadas em 12.03.2024 e 27.08.2024. | cvm/colegiado/2024/col-20241217-d2926.md |
+| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-03-12 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade, rejeitou, contra a sugestão de aceitação do Comitê, proposta de termo de compromisso em PAS por criação de condições artificiais de oferta, demanda e preço em negócios com opções de ações (art. 3º, RCVM 62/2022), por ausência de conveniência e oportunidade. | cvm/colegiado/2024/col-20240312-d2926.md |
+| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-08-27 | rejeitado | manipulacao-fraude | O Colegiado rejeitou nova proposta de termo de compromisso em nome próprio e de sociedade extinta, acompanhando o parecer do Comitê. Discordou da PFE/CVM sobre justa causa para a proposta em nome da sociedade, mas rejeitou. | cvm/colegiado/2024/col-20240827-d2926.md |
+| art. 7º-A, § 2º | termo-compromisso | 19957.003270/2023-04 | 2024-12-17 | aceito | manipulacao-fraude | O Colegiado aceitou, por unanimidade, a terceira proposta de termo de compromisso de um investidor, em nome próprio e da TGA (extinta), de R$ 750.000,00 em parcela única (R$ 375.000,00 para cada), acompanhando o Comitê. Acusação: condições artificiais de oferta e preço em opções de ações (art. 3º, I, da RCVM 62/2022). Propostas anteriores rejeitadas em 12.03.2024 e 27.08.2024. | cvm/colegiado/2024/col-20241217-d2926.md |
 
 ## lei-11689
 
@@ -2182,7 +2182,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2012/13212 | 2013-02-26 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso de membro do conselho de administração da Centrais Elétricas Brasileiras S.A. (Eletrobrás) por realização intempestiva da assembleia geral ordinária relativa ao exercício de 2010 (Lei 6.404/76, arts. 132 e 142, IV). Proposta de R$ 20.000,00 rejeitada por inoportuna e inconveniente. | cvm/colegiado/2013/col-20130226-d06.md |
+| termo-compromisso | RJ2012/13212 | 2013-02-26 | rejeitado | assembleia-acionistas | O Colegiado considerou inoportuna e inconveniente, por unanimidade, a proposta de termo de compromisso de R$ 20.000,00 de membro do conselho de administração da Eletrobrás, contra o parecer do Comitê. Motivo: o processo deve ser julgado para todos os acusados, sem economia processual significativa. Acusado de realização intempestiva da AGO de 2010 (arts. 132 e 142, IV, da Lei 6.404/76). | cvm/colegiado/2013/col-20130226-d06.md |
 
 ## lei-12234
 
@@ -2244,26 +2244,26 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, § 3º | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | Propostas de termo de compromisso de consultora de valores mobiliários, de seus sócios e de diretor de gestora de fundos, por operação, em tese, fraudulenta (ICVM 8/1979, item II, c) e falta de diligência (art. 92, I, ICVM 555/2014). Comitê opinou pela rejeição da proposta conjunta; pedido de vistas tratado como questão incidental. | cvm/colegiado/2021/col-20211130-d2363.md |
+| art. 7º, § 3º | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | O Colegiado rejeitou as propostas de termo de compromisso: a conjunta da consultora e de dois sócios (R$ 264.977,93, em 24 parcelas) e a individual de um diretor de administração de carteiras (R$ 40.000,00), por operação, em tese, fraudulenta. Afastou óbice legal e considerou inconveniente e inoportuna, pela baixa visibilidade do caso e contrapartidas insuficientes, divergindo dos fundamentos do Comitê. | cvm/colegiado/2021/col-20211130-d2363.md |
 
 ### art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | Propostas conjuntas de termo de compromisso de dezenove administradores da Coelba (diretores, conselheiros de administração e fiscais) acusados de irregularidades em aumentos de capital de 2017 (arts. 153, 166 e 170, §7º, Lei 6.404/76). Afastado o óbice jurídico inicial, o Colegiado determinou o retorno ao Comitê para negociação. | cvm/colegiado/2020/col-20200728-d1675.md |
+| art. 10 | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta conjunta de termo de compromisso de dezenove administradores da Coelba no PAS instaurado pela SEP. O Comitê a considerou desproporcional à gravidade do caso e não compatível com os pressupostos do instituto; a proposta era de R$ 8.325.000,00 em 18 parcelas. | cvm/colegiado/2020/col-20200728-d1675.md |
 
 ### art. 22
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | Propostas conjuntas de termo de compromisso de dezenove administradores da Coelba (diretores, conselheiros de administração e fiscais) acusados de irregularidades em aumentos de capital de 2017 (arts. 153, 166 e 170, §7º, Lei 6.404/76). Afastado o óbice jurídico inicial, o Colegiado determinou o retorno ao Comitê para negociação. | cvm/colegiado/2020/col-20200728-d1675.md |
+| art. 22 | termo-compromisso | 19957.005983/2019-18 | 2020-07-28 | rejeitado | deveres-administradores | O Colegiado rejeitou, acompanhando o parecer do Comitê, a proposta conjunta de termo de compromisso de dezenove administradores da Coelba no PAS instaurado pela SEP. O Comitê a considerou desproporcional à gravidade do caso e não compatível com os pressupostos do instituto; a proposta era de R$ 8.325.000,00 em 18 parcelas. | cvm/colegiado/2020/col-20200728-d1675.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.002835/2022-47 | 2024-05-07 | condenacao | criptoativos | RECURSO ADMINISTRATIVO. CVM. OFERTA PÚBLICA SEM REGISTRO. OFERTA E NEGOCIAÇÃO IRREGULAR DE VALORES MOBILIÁRIOS. CONTRATOS DE INVESTIMENTO COLETIVO TELEMÁTICOS. CRIPTOATIVOS. HOWEY TEST. Violação ao artigo 19 da Lei n° 6.385/1976 e ao artigo 2º da Instrução CVM nº 400/2003. Infração a Instrução CVM nº 8/1979. Prática de operação fraudulenta. Infração ao item I c/c item II, alínea “c” da então vigente Instrução CVM nº 8/1979. Irregularidade caracterizada. Recurso conhecido e desprovido. | crsfn/2024/10372-100148-2023-73.md |
-| termo-compromisso | 19957.011355/2017-18; 06/2014 | 2021-09-21 | rejeitado | deveres-administradores | Novas propostas de termo de compromisso de três ex-diretores de companhias do Grupo Rede Energia, acusados de elaborar demonstrações financeiras sem observar normas contábeis (Lei 6.404/76, art. 176; ICVM 480, art. 14) e de falhas quanto a partes relacionadas. Colegiado rejeitou as propostas, por ausência de conveniência e oportunidade. | cvm/colegiado/2021/col-20210921-d1096.md |
+| termo-compromisso | 19957.011355/2017-18; 06/2014 | 2021-09-21 | rejeitado | deveres-administradores | O Colegiado rejeitou, por unanimidade e acompanhando o Comitê, novas propostas de Termo de Compromisso de três administradores de empresas do grupo Rede Energia, acusados em tese dos arts. 153 e 176 da Lei 6.404/1976 e do art. 14 da ICVM 480/2009. Motivo: ausência de oportunidade e conveniência. | cvm/colegiado/2021/col-20210921-d1096.md |
 
 ## lei-12529
 
@@ -2302,7 +2302,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.005572/2019-22 | 2023-01-24 | outro | deveres-administradores | Colegiado aceitou proposta de termo de compromisso do presidente da Gol e rejeitou a do acionista controlador, em PAS por desvio de poder e falta de diligência em contratações e pagamentos da companhia, em tese contrários aos arts. 153 e 154, §2º, a, da Lei 6.404/1976. | cvm/colegiado/2023/col-20230124-d2423.md |
+| termo-compromisso | 19957.005572/2019-22 | 2023-01-24 | outro | deveres-administradores | O Colegiado, por maioria e acompanhando o Comitê, aceitou proposta de termo de compromisso do presidente da Gol Linhas Aéreas Inteligentes (R$ 300.000,00 à CVM) e rejeitou a do acionista controlador e ex-vice-presidente do conselho, em PAS sobre contratações e pagamentos recomendados sem a diligência exigida (art. 153, LSA) e por desvio de poder (art. 154, §2º, 'a', LSA). | cvm/colegiado/2023/col-20230124-d2423.md |
 | acordao-crsfn | 08211.001379/2019-10 | 2020-06-16 | condenacao | pld | RECURSO VOLUNTÁRIO. Deixar de declarar tempestivamente ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem comunicadas. Infração caracterizada. Recurso conhecido e desprovido. | crsfn/2020/19957-100003-2019-90.md |
 | acordao-crsfn | 08211.001203/2019-68 | 2020-05-19 | condenacao | pld | RECURSO VOLUNTÁRIO. Deixar de declarar ao COAF a não ocorrência de propostas, transações ou operações passíveis de serem comunicadas. Infração caracterizada. Multa adequada à gravidade da infração. Recurso conhecido, mas não provido. | crsfn/2020/19957-100012-2019-81.md |
 | acordao-crsfn | 08211.001387/2019-66 | 2020-05-19 | condenacao | pld | RECURSO VOLUNTÁRIO. Não comunicação de inocorrência de operações ou propostas passíveis de serem comunicadas ao Conselho de Controle de Atividades Financeiras – COAF, na data limite de 31/01/2019, relativas ao período abrangendo o ano civil de 2018, conforme determinação legal. Infração configurada. Recurso conhecido e não provido. Aplicação de multa. | crsfn/2020/19957-100009-2019-67.md |
@@ -2325,13 +2325,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, inciso I | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 3º, inciso I | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º, inciso IV | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 8º, inciso IV | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
 
 ## lei-12838
 
@@ -2339,8 +2339,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | divulgacao-informacoes | Termo de compromisso do DRI da Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. por não divulgação tempestiva de fato relevante sobre ofertas iminentes, após oscilações atípicas em 16.06.2023 (art. 157, § 4º, da Lei 6.404/1976; arts. 3º e 6º, parágrafo único, da RCVM 44). Pagamento de R$ 470.000,00; aceito por unanimidade. | cvm/colegiado/2025/col-20250916-d3361.md |
-| termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | divulgacao-informacoes | Proposta de termo de compromisso de diretor de RI da Movida Participações S.A. por divulgação intempestiva de fato relevante (art. 157, §4º, LSA; RCVM 44) e reiterado atraso em respostas à CVM (arts. 46 e 49 da RCVM 80 c/c art. 153 da LSA). Valor de R$ 340.000,00 aceito pelo Colegiado. | cvm/colegiado/2024/col-20241126-d3172.md |
+| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante sobre ofertas iminentes, diante de oscilações atípicas em 16.06.2023 (art. 157, §4º, da Lei 6.404/1976; RCVM 44, arts. 3º e 6º), acompanhando o Comitê, que aprimorou a proposta para R$ 470.000,00 (inicial: R$ 320.000,00). | cvm/colegiado/2025/col-20250916-d3361.md |
+| termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso de R$ 340.000,00 de diretor de RI da Movida Participações S.A., relativa a fato relevante intempestivo e atrasos de resposta à CVM, acompanhando o Comitê. | cvm/colegiado/2024/col-20241126-d3172.md |
 
 ## lei-12846
 
@@ -2365,7 +2365,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 2º | acordao-crsfn | RJ2015/2027 | 2020-11-17 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Operações fraudulentas com dano vultoso ao patrimônio de fundo de pensão. Recursos Voluntários conhecidos e desprovidos. | crsfn/2020/10372-100333-2019-81.md |
-| art. 2º | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | Propostas de termo de compromisso de consultora de valores mobiliários, de seus sócios e de diretor de gestora de fundos, por operação, em tese, fraudulenta (ICVM 8/1979, item II, c) e falta de diligência (art. 92, I, ICVM 555/2014). Comitê opinou pela rejeição da proposta conjunta; pedido de vistas tratado como questão incidental. | cvm/colegiado/2021/col-20211130-d2363.md |
+| art. 2º | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | O Colegiado rejeitou as propostas de termo de compromisso: a conjunta da consultora e de dois sócios (R$ 264.977,93, em 24 parcelas) e a individual de um diretor de administração de carteiras (R$ 40.000,00), por operação, em tese, fraudulenta. Afastou óbice legal e considerou inconveniente e inoportuna, pela baixa visibilidade do caso e contrapartidas insuficientes, divergindo dos fundamentos do Comitê. | cvm/colegiado/2021/col-20211130-d2363.md |
 
 ### art. 4º
 
@@ -2389,9 +2389,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.005572/2019-22 | 2023-01-24 | outro | deveres-administradores | Colegiado aceitou proposta de termo de compromisso do presidente da Gol e rejeitou a do acionista controlador, em PAS por desvio de poder e falta de diligência em contratações e pagamentos da companhia, em tese contrários aos arts. 153 e 154, §2º, a, da Lei 6.404/1976. | cvm/colegiado/2023/col-20230124-d2423.md |
-| termo-compromisso | 19957.010904/2018-18 | 2019-12-03 | rejeitado | deveres-administradores | Propostas de termo de compromisso de dois administradores da JBS S.A. por falta de cautela na gestão e uso particular de aeronave da companhia (arts. 153 e 154, §2º, a e b, Lei 6.404/76). Colegiado rejeitou por unanimidade, acompanhando o parecer do Comitê. | cvm/colegiado/2019/col-20191203-d1624.md |
-| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | informacao-privilegiada | Propostas conjuntas de termo de compromisso de companhia aberta, controladores, beneficiários, administradores e pessoas ligadas por uso de informação privilegiada, manipulação de preços e práticas não equitativas em ações da companhia (art. 155, §4º, Lei 6.404/76; Instruções CVM 358/02 e 8/79). Comitê propôs a rejeição das propostas. | cvm/colegiado/2018/col-20180925-d1168.md |
+| termo-compromisso | 19957.005572/2019-22 | 2023-01-24 | outro | deveres-administradores | O Colegiado, por maioria e acompanhando o Comitê, aceitou proposta de termo de compromisso do presidente da Gol Linhas Aéreas Inteligentes (R$ 300.000,00 à CVM) e rejeitou a do acionista controlador e ex-vice-presidente do conselho, em PAS sobre contratações e pagamentos recomendados sem a diligência exigida (art. 153, LSA) e por desvio de poder (art. 154, §2º, 'a', LSA). | cvm/colegiado/2023/col-20230124-d2423.md |
+| termo-compromisso | 19957.010904/2018-18 | 2019-12-03 | rejeitado | deveres-administradores | O Colegiado rejeitou propostas de termo de compromisso de dois administradores da JBS S.A. em PAS sobre uso de aeronave e de bens da companhia para fins particulares (arts. 153 e 154, §2º, Lei 6.404/76), acompanhando o parecer do Comitê. Este considerou inconveniente o acordo, dada a gravidade do caso e o efeito paradigmático de julgamento colegiado. | cvm/colegiado/2019/col-20191203-d1624.md |
+| termo-compromisso | 19957.005390/2017-90; 19957.005388/2017-11; 19957.001225/2018-40 | 2018-09-25 | rejeitado | informacao-privilegiada | O Colegiado rejeitou propostas conjuntas de termo de compromisso de JBS S.A., Seara Alimentos Ltda., Eldorado Brasil Celulose S.A., J&F Investimentos S.A. e outros proponentes, incluindo pessoas físicas, acatando o parecer do Comitê. Fundamento do Comitê: gravidade e dolo das condutas e impactos que transcenderam o mercado de capitais. | cvm/colegiado/2018/col-20180925-d1168.md |
 
 ## lei-12865
 
@@ -2434,27 +2434,27 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 17 | acordao-crsfn | 19957.007785/2019-99; RJ2019/5909 | 2022-08-09 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO À LEI DAS ESTATAIS. ELEIÇÃO PARA CARGO DE DIRETOR PRESIDENTE E PRESIDENTE DO CONSELHO DE ADMINISTRAÇÃO. PARTICIPAÇÃO EM ESTRUTURA DECISÓRIA DE PARTIDO POLÍTICO. Materialidade comprovada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2022/10372-100056-2021-21.md |
 | art. 17 | acordao-crsfn | 19957.008704/2017-14 | 2023-12-04 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. CVM. ELEIÇÃO EM SEPARADO DE MEMBROS DO CONSELHO DE ADMINISTRAÇÃO E DO CONSELHO FISCAL. EXERCÍCIO ABUSIVO DO PODER DE CONTROLE. Caracterização da companhia como sociedade de economia mista. Infração caracterizada. Multa adequada aos limites da legislação vigente. Recurso conhecido e desprovido. | crsfn/2023/10372-100006-2023-14.md |
-| art. 17 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | Propostas de termo de compromisso do presidente de assembleia geral de companhia de economia mista e do município controlador por não assegurar a eleição de conselheiros pelos acionistas minoritários (arts. 116, parágrafo único, 128, 239 e 240 da Lei 6.404/76). Comitê recomendou rejeição. | cvm/colegiado/2018/col-20180828-d1122.md |
-| art. 17 | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
-| art. 17, § 2º | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 17 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | O Colegiado rejeitou propostas de termo de compromisso de presidente de assembleia e de município controlador, acusados de não respeitar direito de acionistas minoritários de eleger conselheiros (Lei 6.404/76, arts. 239 e 240). Acompanhou o Comitê, por óbice da PFE/CVM e não adesão à contraproposta. | cvm/colegiado/2018/col-20180828-d1122.md |
+| art. 17 | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 17, § 2º | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
 | art. 17, § 2º, inciso II | acordao-crsfn | 19957.007785/2019-99; RJ2019/5909 | 2022-08-09 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. DESCUMPRIMENTO À LEI DAS ESTATAIS. ELEIÇÃO PARA CARGO DE DIRETOR PRESIDENTE E PRESIDENTE DO CONSELHO DE ADMINISTRAÇÃO. PARTICIPAÇÃO EM ESTRUTURA DECISÓRIA DE PARTIDO POLÍTICO. Materialidade comprovada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2022/10372-100056-2021-21.md |
-| art. 17, § 2º, inciso II | termo-compromisso | 19957.007785/2019-99 | 2020-07-28 | rejeitado | deveres-administradores | Proposta de termo de compromisso do diretor presidente e presidente do conselho da Companhia Catarinense de Águas e Saneamento por aceitar indicação a administrador com participação em estrutura partidária nos 36 meses anteriores (Lei 6.404, art. 147, §1º; Lei 13.303, art. 17, §2º, II). Colegiado rejeitou a proposta. | cvm/colegiado/2020/col-20200728-d1762.md |
-| art. 17, § 2º, inciso II | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
-| art. 17, § 2º, inciso V | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | Proposta conjunta de termo de compromisso de membros do conselho de administração de sociedade de economia mista por aceitar indicação, em tese, inelegível (art. 147, §1º, Lei 6.404/1976; art. 17, §2º, V, Lei 13.303/2016). Proposta de R$ 500.000,00, sendo R$ 250.000,00 por proponente. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 17, § 2º, inciso II | termo-compromisso | 19957.007785/2019-99 | 2020-07-28 | rejeitado | deveres-administradores | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso do dirigente de companhia estatal de saneamento, em PAS por infração ao art. 147, §1º, da Lei 6.404/76 c/c art. 17, §2º, II, da Lei 13.303/16. Acompanhou o parecer do Comitê, que seguiu o óbice da PFE/CVM pela ausência de proposta indenizatória ao mercado. | cvm/colegiado/2020/col-20200728-d1762.md |
+| art. 17, § 2º, inciso II | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
+| art. 17, § 2º, inciso V | termo-compromisso | 19957.002393/2023-10 | 2024-03-12 | rejeitado | deveres-administradores | O Colegiado, por maioria, rejeitou proposta conjunta de termo de compromisso de dois conselheiros de sociedade de economia mista, acusados, em tese, de aceitar cargo sendo inelegíveis (art. 147, §1º, LSA; art. 17, §2º, V, Lei 13.303/2016). Motivo: falta de conveniência e oportunidade, contra o parecer do Comitê, que sugeria aceitação do pagamento de R$ 500.000,00. | cvm/colegiado/2024/col-20240312-d2928.md |
 
 ### art. 20
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 20 | acordao-crsfn | 19957.008704/2017-14 | 2023-12-04 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. CVM. ELEIÇÃO EM SEPARADO DE MEMBROS DO CONSELHO DE ADMINISTRAÇÃO E DO CONSELHO FISCAL. EXERCÍCIO ABUSIVO DO PODER DE CONTROLE. Caracterização da companhia como sociedade de economia mista. Infração caracterizada. Multa adequada aos limites da legislação vigente. Recurso conhecido e desprovido. | crsfn/2023/10372-100006-2023-14.md |
-| art. 20 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | Propostas de termo de compromisso do presidente de assembleia geral de companhia de economia mista e do município controlador por não assegurar a eleição de conselheiros pelos acionistas minoritários (arts. 116, parágrafo único, 128, 239 e 240 da Lei 6.404/76). Comitê recomendou rejeição. | cvm/colegiado/2018/col-20180828-d1122.md |
+| art. 20 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | O Colegiado rejeitou propostas de termo de compromisso de presidente de assembleia e de município controlador, acusados de não respeitar direito de acionistas minoritários de eleger conselheiros (Lei 6.404/76, arts. 239 e 240). Acompanhou o Comitê, por óbice da PFE/CVM e não adesão à contraproposta. | cvm/colegiado/2018/col-20180828-d1122.md |
 
 ### art. 26
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 26 | acordao-crsfn | 19957.008704/2017-14 | 2023-12-04 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. CVM. ELEIÇÃO EM SEPARADO DE MEMBROS DO CONSELHO DE ADMINISTRAÇÃO E DO CONSELHO FISCAL. EXERCÍCIO ABUSIVO DO PODER DE CONTROLE. Caracterização da companhia como sociedade de economia mista. Infração caracterizada. Multa adequada aos limites da legislação vigente. Recurso conhecido e desprovido. | crsfn/2023/10372-100006-2023-14.md |
-| art. 26 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | Propostas de termo de compromisso do presidente de assembleia geral de companhia de economia mista e do município controlador por não assegurar a eleição de conselheiros pelos acionistas minoritários (arts. 116, parágrafo único, 128, 239 e 240 da Lei 6.404/76). Comitê recomendou rejeição. | cvm/colegiado/2018/col-20180828-d1122.md |
+| art. 26 | termo-compromisso | 19957.008704/2017-14 | 2018-08-28 | rejeitado | assembleia-acionistas | O Colegiado rejeitou propostas de termo de compromisso de presidente de assembleia e de município controlador, acusados de não respeitar direito de acionistas minoritários de eleger conselheiros (Lei 6.404/76, arts. 239 e 240). Acompanhou o Comitê, por óbice da PFE/CVM e não adesão à contraproposta. | cvm/colegiado/2018/col-20180828-d1122.md |
 
 ### art. 27
 
@@ -2467,7 +2467,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.011346/2018-08; RJ2018/9022 | 2022-08-09 | parcial | assembleia-acionistas | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. PARTICIPAÇÃO EM ASSEMBLEIAS GERAIS RESERVADAS A ACIONISTAS MINORITÁRIOS ORDINARISTAS E PREFERENCIALISTAS PARA A ESCOLHA DE MEMBROS DO CONSELHO FISCAL E DE ADMINISTRAÇÃO DA COMPANHIA. ABUSO DE PODER DE CONTROLE. Descumprimento dos arts. 239 e 240 da Lei nº 6.404/1976. Materialidade comprovada. Ajuste na dosimetria. Recursos conhecidos. Parcial provimento ao recurso da CELESC e desprovimento ao recurso do Estado de Santa Catarina. | crsfn/2022/10372-100049-2021-20.md |
-| termo-compromisso | 19957.008704/2017-14 | 2018-10-23 | aceito | assembleia-acionistas | Termo de compromisso do presidente da assembleia geral da São Paulo Turismo S.A. por não reconhecer o direito de acionistas não controladores de eleger membros do conselho de administração e do conselho fiscal (arts. 128, 239 e 240 da Lei 6.404/76). Pagamento de R$ 15.000,00 em parcela única; segundo o proponente, a obrigação de fazer já estava atendida. | cvm/colegiado/2018/col-20181023-d1122.md |
+| termo-compromisso | 19957.008704/2017-14 | 2018-10-23 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso do presidente de assembleia da São Paulo Turismo S.A. por não reconhecer eleição de membros por acionistas não controladores (arts. 128, 239 e 240 da Lei 6.404/76), com pagamento de R$ 15.000,00 à CVM. Determinou retorno à SGE para negociação complementar, com educação financeira como possível contrapartida. | cvm/colegiado/2018/col-20181023-d1122.md |
 
 ## lei-13494
 
@@ -2538,7 +2538,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 32 | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | Propostas de termo de compromisso de consultora de valores mobiliários, de seus sócios e de diretor de gestora de fundos, por operação, em tese, fraudulenta (ICVM 8/1979, item II, c) e falta de diligência (art. 92, I, ICVM 555/2014). Comitê opinou pela rejeição da proposta conjunta; pedido de vistas tratado como questão incidental. | cvm/colegiado/2021/col-20211130-d2363.md |
+| art. 32 | termo-compromisso | 19957.008721/2018-24 | 2021-11-30 | rejeitado | manipulacao-fraude | O Colegiado rejeitou as propostas de termo de compromisso: a conjunta da consultora e de dois sócios (R$ 264.977,93, em 24 parcelas) e a individual de um diretor de administração de carteiras (R$ 40.000,00), por operação, em tese, fraudulenta. Afastou óbice legal e considerou inconveniente e inoportuna, pela baixa visibilidade do caso e contrapartidas insuficientes, divergindo dos fundamentos do Comitê. | cvm/colegiado/2021/col-20211130-d2363.md |
 
 ## lei-13979
 
@@ -2573,7 +2573,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 58, inciso III | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | assembleia-acionistas | Termo de compromisso conjunto de administradores da Sansuy S.A. por, em tese, votos na aprovação das próprias contas na AGO de 28.04.2023 (art. 115, § 1º, da Lei 6.404/1976), voto de acionista não computado (art. 121 c/c RCVM 81, art. 2º), falhas informacionais (RCVM 81, arts. 11, I, e 13) e convocação não atendida (art. 123, parágrafo único, c). | cvm/colegiado/2025/col-20251007-d3383.md |
+| art. 58, inciso III | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de três administradores da Sansuy S.A., no PAS sobre voto em contas próprias na AGO de 2023 e pedidos de convocação de assembleia, por ausência de conveniência e oportunidade. Valor proposto: R$ 350.000,00. | cvm/colegiado/2025/col-20251007-d3383.md |
 
 ## lei-14230
 
@@ -2590,7 +2590,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.002296/2020-84 | 2025-07-16 | condenacao | exercicio-irregular | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. AGENTE AUTÔNOMO DE INVESTIMENTOS. ATUAÇÃO IRREGULAR COMO ADMINISTRADOR DE CARTEIRAS. Ausência de autorização da Autarquia. Descumprimento do dever de agir com probidade, boa-fé e ética profissional. Irregularidade caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2025/19957-002296-2020-84.md |
-| termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | — | intermediacao | Proposta de termo de compromisso de agente autônomo de investimento por administração irregular de carteira, recebimento de recursos de clientes em conta pessoal e envio de extratos (ICVM 497/2011, art. 13, II, IV e VIII). Proposta intempestiva; a relatora entendeu haver interesse público para sua apreciação. | cvm/colegiado/2023/col-20231114-d2576.md |
+| termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | processual | O Colegiado, por unanimidade, acompanhando o voto da Relatora, não conheceu da proposta de termo de compromisso de agente autônomo de investimento em PAS da SMI, por intempestividade (apresentada após o prazo do art. 82, §2º, da RCVM 45/2021). Não houve análise de mérito. | cvm/colegiado/2023/col-20231114-d2576.md |
 
 ## lei-14905
 
@@ -2598,7 +2598,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | exercicio-irregular | Propostas de termo de compromisso da XP Investimentos CCTVM S.A., de seu diretor e de agente autônomo. Corretora e diretor: falha na fiscalização de agentes autônomos (art. 17, II, ICVM 497/2011). Agente: administração de carteira sem autorização e churning; proposta de afastamento de 5 anos. Pagamento de R$ 500.000,00 pela corretora e diretor. | cvm/colegiado/2026/col-20260721-d3295.md |
+| termo-compromisso | 19957.001449/2022-38 | 2026-07-21 | aceito | intermediacao | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da XP e de um diretor (R$ 1.485.000,00 à CVM, além de comprovar indenização judicial de no mínimo R$ 1.211.248,54) e rejeitou a de um agente autônomo, em PAS por falha de fiscalização e operações fraudulentas para gerar corretagem. | cvm/colegiado/2026/col-20260721-d3295.md |
 
 ## lei-101303
 

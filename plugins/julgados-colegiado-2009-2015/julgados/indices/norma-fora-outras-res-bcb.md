@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2013/2278 | 2014-03-18 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2278. | cvm/colegiado/2014/col-20140318-d11.md |
+| decisao-colegiado | RJ2013/2278 | 2014-03-18 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/2278. | cvm/colegiado/2014/col-20140318-d11.md |
 
 ## res-bcb-1775
 
@@ -22,4 +22,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2012/7698 | 2012-11-13 | deferido | outros | Pedido da Cibrasec Companhia Brasileira de Securitização (categoria B) para adquirir de forma privada ações de própria emissão (art. 23 da Instrução CVM 10/80), a fim de reduzir a participação de instituições financeiras. Deferido, com o art. 9º afastado para a categoria B; excessos ao limite do art. 3º tratados como transitórios. | cvm/colegiado/2012/col-20121113-d05.md |
+| art. 6º | decisao-colegiado | RJ2012/7698 | 2012-11-13 | deferido | registro-emissor | O Colegiado autorizou a Cibrasec Companhia Brasileira de Securitização a negociar de forma privada ações de própria emissão, por caso especial, para viabilizar a aquisição de CRIs da emissora por acionistas instituições financeiras, vedada pelo art. 6º da Resolução CMN 1.775/96. Conforme o voto do relator, o art. 9º da ICVM 10/80 não se aplica a companhias categoria B. | cvm/colegiado/2012/col-20121113-d05.md |

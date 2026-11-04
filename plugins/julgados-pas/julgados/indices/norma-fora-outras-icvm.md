@@ -68,8 +68,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
-| pas | RJ2017/646 | 2018-11-14 | condenacao | manipulacao-fraude | Manipulação de preço de vários ativos negociados em bolsa, em infração ao inciso I da Instrução CVM 08/79 (prática não equitativa). Multa de R$ 157.575,86, equivalente a duas vezes o ganho econômico obtido com as operações irregulares, atualizada pelo IPCA. | cvm/pas/2018/rj2017-0646.md |
-| pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | Manipulação de preços de vários ativos negociados em bolsa entre 20.01.2012 e 14.01.2013, em infração ao inciso I da Instrução CVM 08/79. Proibição temporária, pelo prazo de cinco anos, de atuar no mercado de valores mobiliários ao acusado. | cvm/pas/2018/rj2015-12130.md |
+| pas | RJ2017/646 | 2018-11-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou multa de R$ 157.575,86 ao acusado, duas vezes o ganho econômico de R$ 64.979,00, atualizado pelo IPCA para R$ 78.787,93, por manipulação de preços de vários ativos em bolsa entre 21/10/2013 e 10/02/2015, em infração ao inciso I da Instrução CVM 8/79. | cvm/pas/2018/rj2017-0646.md |
+| pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou ao acusado proibição temporária, por cinco anos, de atuar em qualquer operação no mercado de valores mobiliários, por manipulação de preços de vários ativos negociados em bolsa entre 20/01/2012 e 14/01/2013, em infração ao inciso I da Instrução CVM 08/79. Fundamento: art. 11 da Lei 6.385/76. | cvm/pas/2018/rj2015-12130.md |
 | pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
 
 ## icvm-14
@@ -185,13 +185,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 2º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ### art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ### art. 37
 
@@ -253,7 +253,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-25
 
@@ -587,7 +587,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-52
 
@@ -924,7 +924,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 104, § 2º, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| art. 104, § 2º, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-115
 
@@ -1008,7 +1008,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 92, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| art. 92, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-148
 
@@ -2683,7 +2683,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 122 | pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| art. 122 | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-467
 

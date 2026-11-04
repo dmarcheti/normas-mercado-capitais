@@ -7,6 +7,7 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| pas | 19957.004453/2025-09 | 2026-10-21 | — | exercicio-irregular | PAS de rito simplificado por administração profissional de carteira sem autorização (art. 23 da Lei 6.385/1976; art. 2º da Resolução CVM 21/2021). O voto do relator propõe condenar um acusado à proibição temporária de 51 meses, após redução de 15% da pena-base. Julgamento do Colegiado sem deliberação. | cvm/pas/2026/19957-004453-2025-09.md |
 | pas | 19957.002610/2025-33 | 2026-08-25 | condenacao | exercicio-irregular | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução CVM nº 21/2021 c/c o art. 23 da Lei nº 6.385/1976. Proibição temporária, multa | cvm/pas/2026/19957-002610-2025-33.md |
 | pas | 19957.015425/2024-28 | 2025-12-16 | condenacao | exercicio-irregular | Apurar infração ao art. 2º da Resolução CVM 21/2021 c/c art. 23 da Lei nº 6.385/1976, pelo exercício irregular da atividade de administração de carteira de valores mobiliários. Multa. | cvm/pas/2025/19957-015425-2024-28.md |
 | pas | 19957.002226/2024-50 | 2025-02-18 | condenacao | exercicio-irregular | Exercício irregular de atividade de administração de carteira. Multa e proibição temporária. | cvm/pas/2025/19957-002226-2024-50.md |

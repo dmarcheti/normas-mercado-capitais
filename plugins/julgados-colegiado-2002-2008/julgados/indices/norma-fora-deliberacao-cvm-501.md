@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2008/3862 | 2008-05-20 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3862. | cvm/colegiado/2008/col-20080520-d17.md |
+| decisao-colegiado | RJ2008/3862 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3862. | cvm/colegiado/2008/col-20080520-d17.md |
 | decisao-colegiado | RJ2008/3860 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3860. | cvm/colegiado/2008/col-20080520-d16.md |
 | decisao-colegiado | RJ2008/3856 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3856. | cvm/colegiado/2008/col-20080520-d15.md |
 | decisao-colegiado | RJ2008/3851 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3851. | cvm/colegiado/2008/col-20080520-d14.md |
@@ -53,4 +53,4 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/0790 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0790. | cvm/colegiado/2008/col-20080219-d13.md |
 | decisao-colegiado | RJ2008/0788 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0788. | cvm/colegiado/2008/col-20080219-d12.md |
 | decisao-colegiado | RJ2008/0787 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0787. | cvm/colegiado/2008/col-20080219-d11.md |
-| decisao-colegiado | RJ2007/12049 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+| decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |

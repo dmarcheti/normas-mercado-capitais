@@ -11,10 +11,10 @@ Norma: [cvm/resolucoes/0070.md](../../../normas/normas/cvm/resolucoes/0070.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | 19957.015062/2022-69 | 2022-12-27 | indeferido | assembleia-acionistas | Pedido de interrupção do prazo de convocação de AGE da Gafisa S.A., convocada por fundo acionista com base no art. 123, parágrafo único, c, da Lei 6.404/76. Discutido se a convocação do conselho dentro de oito dias afasta a competência concorrente do acionista. Diretor relator votou pelo indeferimento. | cvm/colegiado/2022/col-20221227-d2772.md |
+| art. 2º | decisao-colegiado | 19957.015062/2022-69 | 2022-12-27 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade, indeferiu o pedido de interrupção do curso do prazo de convocação da AGE da Gafisa S.A., convocada por acionista para 02.01.2023, acompanhando o Parecer Técnico da SEP, com fulcro no art. 124, §5º, II, da Lei 6.404/1976. | cvm/colegiado/2022/col-20221227-d2772.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | Aprovadas as Resoluções CVM 68, 69 e 70/2022 na consolidação de normas sobre companhias abertas (Decreto 10.139/2019). Sem audiência pública nem AIR, por não alterarem obrigações de mérito. | cvm/colegiado/2022/col-20220315-d2516.md |
+| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre demonstrações financeiras; outra revoga normas; a 70 fixa escala de participação mínima para direitos da Lei 6.404. Sem audiência pública nem AIR, por não alterar obrigações vigentes. | cvm/colegiado/2022/col-20220315-d2516.md |

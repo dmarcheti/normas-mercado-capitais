@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0027.md](../../../normas/normas/cvm/resolucoes/0027.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008749/2020-86 | 2021-03-24 | outro | ofertas-publicas | Aprovada a Resolução CVM 27/2021: dispensa a apresentação do boletim de subscrição em ofertas públicas liquidadas por sistema de entidade administradora de mercado organizado e, em caráter experimental, do documento de aceitação para investidores institucionais. Revoga a Deliberação CVM 860/2020. | cvm/colegiado/2021/col-20210324-d2060.md |
+| decisao-colegiado | 19957.008749/2020-86 | 2021-03-24 | outro | normativo | O Colegiado aprovou a Resolução CVM 27/2021, que dispensa o boletim de subscrição em ofertas liquidadas por sistema de entidade administradora de mercado organizado e, em caráter experimental, o documento de aceitação para investidores institucionais. Por ser temporária, não foi submetida a audiência pública nem AIR (art. 22, Portaria CVM/PTE 190/2019). | cvm/colegiado/2021/col-20210324-d2060.md |

@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 109 | decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | indeferido | securitizacao | Consulta sobre CRI lastreado em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas até 24 meses antes da oferta (Lei 9.514/97, art. 8º, I; Lei 12.431/11). Voto em vista pelo reconhecimento, com condições: especificação no termo de securitização, vinculação aos imóveis e verificação pelo agente fiduciário. Julgamento com pedido de vista. | cvm/colegiado/2019/col-20190702-d1365.md |
+| art. 109 | decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | securitizacao | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas em até 24 meses antes do encerramento da oferta, desde que detalhadas no termo de securitização e verificadas pelo agente fiduciário. Contra a SRE. | cvm/colegiado/2019/col-20190702-d1365.md |
 
 ## art. 144
 
@@ -55,8 +55,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 156, inciso I | decisao-colegiado | RJ2013/10980 | 2016-06-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10980. | cvm/colegiado/2016/col-20160607-d0241.md |
-| art. 156, inciso V | decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | normativo | Edição da Resolução CVM nº 202/2024, que prorroga até 30.06.2024, para emissores com sede no Rio Grande do Sul, prazos de entrega de documentos (arts. 24, 25 e 31 da RCVM 80), vencimentos de parcelamentos e notificações de lançamento, em razão de calamidade pública. Dispensadas AIR e consulta pública por urgência. | cvm/colegiado/2024/col-20240510-d3062.md |
+| art. 156, inciso I | decisao-colegiado | RJ2013/10980 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10980. | cvm/colegiado/2016/col-20160607-d0241.md |
+| art. 156, inciso V | decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | normativo | O Colegiado aprovou a Resolução CVM 202/2024, que prorroga para 30.06.2024 prazos de maio e junho de 2024 para emissores com sede no RS e contribuintes com domicílio no RS (calamidade), e suspende notificações de lançamento até essa data. Dispensou AIR e consulta pública por urgência. | cvm/colegiado/2024/col-20240510-d3062.md |
 
 ## art. 172
 
@@ -82,6 +82,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003690/2017-34 | 2023-06-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. 19957.003690/2017-34. | cvm/colegiado/2023/col-20230620-d0677.md |
 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005279/2020-07. | cvm/colegiado/2022/col-20221213-d2730.md |
-| decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | — | fundos-investimento | Pedido de reconsideração do BTG Pactual Serviços Financeiros DTVM, administrador do Maxi Renda FII, contra decisão do Colegiado de 21.12.2021 que tratou distribuições de rendimentos superiores ao lucro como restituição de capital, nos termos da ICVM 516/11. A área técnica afirmou não propor alteração do entendimento vigente. | cvm/colegiado/2022/col-20220517-d2388.md |
+| decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | cvm/colegiado/2022/col-20220517-d2388.md |
 | decisao-colegiado | 19957.008077/2019-75 | 2021-10-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.008077/2019-75. | cvm/colegiado/2021/col-20211026-d2362.md |
-| decisao-colegiado | 476/2009; 19957.007194/2017-50; 19957.007197/2017-93 | 2021-02-23 | outro | ofertas-publicas | Consulta da SRE sobre ofertas realizadas com base na Instrução CVM 476/2009 sem esforço efetivo de colocação junto ao público. Colegiado entendeu que operações sem real esforço de captação junto a público indeterminado podem, voluntariamente, seguir os regimes das ofertas públicas. | cvm/colegiado/2021/col-20210223-d1424.md |
+| decisao-colegiado | 476/2009; 19957.007194/2017-50; 19957.007197/2017-93 | 2021-02-23 | outro | ofertas-publicas | O Colegiado entendeu, por unanimidade, em consulta da SRE, que operações sem real esforço de captação junto a público indeterminado podem, voluntariamente, seguir os regimes das ofertas públicas. A consulta tratava de operações sob a ICVM 476/2009 sem esforço efetivo de distribuição. Fixou entendimento; não decidiu caso concreto. | cvm/colegiado/2021/col-20210223-d1424.md |

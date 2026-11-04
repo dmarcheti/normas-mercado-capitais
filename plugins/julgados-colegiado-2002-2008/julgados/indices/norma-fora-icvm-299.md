@@ -11,43 +11,43 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | Vasco da Gama Licenciamentos S.A.: pedido de reconsideração de multa cominatória por não prestação de informações sobre alienação de controle (Instrução CVM 299/99; art. 1º, § 3º, da Instrução CVM 273/98). Colegiado reduziu a multa a R$ 6.000,00, um décimo do aplicado, por proporcionalidade e razoabilidade. | cvm/colegiado/2002/col-20021021-d04.md |
+| art. 3º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | O Colegiado acompanhou o voto da diretora relatora e reduziu a multa cominatória da SEP de R$60.000,00 para R$6.000,00 (um décimo), por proporcionalidade, em pedido de reconsideração. Mantido o descumprimento do pedido de informações; cancelamento não acolhido. | cvm/colegiado/2002/col-20021021-d04.md |
 
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | Vasco da Gama Licenciamentos S.A.: pedido de reconsideração de multa cominatória por não prestação de informações sobre alienação de controle (Instrução CVM 299/99; art. 1º, § 3º, da Instrução CVM 273/98). Colegiado reduziu a multa a R$ 6.000,00, um décimo do aplicado, por proporcionalidade e razoabilidade. | cvm/colegiado/2002/col-20021021-d04.md |
+| art. 4º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | O Colegiado acompanhou o voto da diretora relatora e reduziu a multa cominatória da SEP de R$60.000,00 para R$6.000,00 (um décimo), por proporcionalidade, em pedido de reconsideração. Mantido o descumprimento do pedido de informações; cancelamento não acolhido. | cvm/colegiado/2002/col-20021021-d04.md |
 
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | Vasco da Gama Licenciamentos S.A.: pedido de reconsideração de multa cominatória por não prestação de informações sobre alienação de controle (Instrução CVM 299/99; art. 1º, § 3º, da Instrução CVM 273/98). Colegiado reduziu a multa a R$ 6.000,00, um décimo do aplicado, por proporcionalidade e razoabilidade. | cvm/colegiado/2002/col-20021021-d04.md |
+| art. 5º | decisao-colegiado | RJ2002/2230 | 2002-10-21 | parcial | multa-cominatoria-taxa | O Colegiado acompanhou o voto da diretora relatora e reduziu a multa cominatória da SEP de R$60.000,00 para R$6.000,00 (um décimo), por proporcionalidade, em pedido de reconsideração. Mantido o descumprimento do pedido de informações; cancelamento não acolhido. | cvm/colegiado/2002/col-20021021-d04.md |
 
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | deferido | divulgacao-informacoes | Pedido de dispensa de publicação de fato relevante sobre aquisição de ações com direito a voto que elevou a participação para 74,4% do capital votante. Deferido, com divulgação na internet, nos termos do § 5º do art. 12 da Instrução CVM 358/02. | cvm/colegiado/2002/col-20020709-d07.md |
+| art. 6º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | divulgacao-informacoes | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm/colegiado/2002/col-20020709-d07.md |
 
 ## art. 7º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | deferido | divulgacao-informacoes | Pedido de dispensa de publicação de fato relevante sobre aquisição de ações com direito a voto que elevou a participação para 74,4% do capital votante. Deferido, com divulgação na internet, nos termos do § 5º do art. 12 da Instrução CVM 358/02. | cvm/colegiado/2002/col-20020709-d07.md |
+| art. 7º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | divulgacao-informacoes | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm/colegiado/2002/col-20020709-d07.md |
 
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | deferido | divulgacao-informacoes | Pedido de dispensa de publicação de fato relevante sobre aquisição de ações com direito a voto que elevou a participação para 74,4% do capital votante. Deferido, com divulgação na internet, nos termos do § 5º do art. 12 da Instrução CVM 358/02. | cvm/colegiado/2002/col-20020709-d07.md |
+| art. 8º | decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | divulgacao-informacoes | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm/colegiado/2002/col-20020709-d07.md |
 
 ## art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | RJ2000/5369 | 2002-04-16 | — | outros | Consulta da Ambev sobre venda de ações em tesouraria, aquisição privada de ações de beneficiários e negociação de controladores e administradores durante recompra pela companhia. Voto de vista propõe acolher a consulta na íntegra, com base na revogação do art. 10 da Instrução CVM 299/99 pela Instrução CVM 358/02. | cvm/colegiado/2002/col-20020416-d09.md |
+| art. 10 | decisao-colegiado | RJ2000/5369 | 2002-04-16 | deferido | deveres-administradores | O Colegiado acolheu na íntegra a consulta da Ambev. Autorizou aquisição privada de ações de beneficiários decorrentes de preferência ou opção de compra, uso de ações em tesouraria e negociação de controladores, administradores e conselheiros fiscais durante recompra, por revogação do art. 10 da ICVM 299/99. | cvm/colegiado/2002/col-20020416-d09.md |
 
 ## art. 11
 
@@ -59,12 +59,12 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | — | 2002-03-12 | deferido | outros | Pedido de clube de investimento de empregados da Cosipa para venda privada de ações da companhia. Colegiado autorizou, desde que o preço não seja inferior ao de negociação em bolsa, sem reconhecer vantagem do negócio e ressalvando apuração posterior de irregularidades. | cvm/colegiado/2002/col-20020312-d06.md |
-| art. 12 | decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | — | deveres-administradores | Proposta de abertura de inquérito administrativo sobre a reestruturação societária da COSIPA e da USIMINAS: diluição de minoritários por conversão de debêntures, alienação de participação antes de fato relevante e obrigatoriedade de OPA pelo acréscimo de controle. | cvm/colegiado/2002/col-20020625-d03.md |
-| art. 12 | decisao-colegiado | RJ2002/2608 | 2002-08-13 | — | opa | Consulta da Fundação Cosipa (FEMCO) sobre obrigatoriedade de OPA por aumento de participação na compra de ações da Cosipa detidas pelo CIEC, com base na Instrução CVM nº 361/2002, art. 26. Conclusão do voto não consta do recorte. | cvm/colegiado/2002/col-20020813-d05.md |
-| art. 12 | decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | opa | Reclamação de acionistas minoritários para que a FEMCO, por integrar o grupo controlador da COSIPA, faça OPA pelas ações dos demais acionistas (art. 12 da Instrução CVM nº 299/99). Indeferido: conversão de debêntures do controlador não afeta a liquidez das ações em circulação; OPA por aumento de participação regida pela Instrução CVM nº 361/02. | cvm/colegiado/2002/col-20020830-d02.md |
-| art. 12 | decisao-colegiado | RJ2003/0061 | 2003-04-08 | deferido | institucional | Pedido do escritório solicitante de cópia de extrato de ata do Colegiado (reunião de 25/06/2002). Deferido: extrato de cunho público, a ser disponibilizado na página da CVM, com vista dos autos ao solicitante (Lei Complementar 105/01). | cvm/colegiado/2003/col-20030408-d06.md |
-| art. 12 | decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | opa | OPA voluntária do controlador sobre a totalidade das ações em circulação de Tele Norte Leste Participações S.A. e Telemar Norte Leste S.A. Colegiado afasta a exigência de registro na CVM e a regra de preço justo, mantendo laudo de avaliação e limite de aquisição de 1/3 das ações em circulação. | cvm/colegiado/2007/col-20070529-d11.md |
+| art. 12 | decisao-colegiado | — | 2002-03-12 | deferido | outros | O Colegiado autorizou a venda privada de ações da Cosipa pertencentes ao clube de investimentos dos empregados, por valor não inferior ao de bolsa, considerando a autorização da compra pela FENCO. Não reconheceu que a negociação seja vantajosa para os interessados. | cvm/colegiado/2002/col-20020312-d06.md |
+| art. 12 | decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | deveres-administradores | O Colegiado, com um impedimento, acompanhou o relator sobre proposta de abertura de inquérito administrativo relativa à reestruturação societária da Cosipa e da Usiminas, a partir de deliberações de AGEs de novembro de 1998 e janeiro de 1999 e de reclamações de investidores. | cvm/colegiado/2002/col-20020625-d03.md |
+| art. 12 | decisao-colegiado | RJ2002/2608 | 2002-08-13 | outro | opa | Em consulta da FEMCO sobre a compra de ações da COSIPA detidas pelo CIEC, o Colegiado acompanhou o voto do diretor-relator, que não vislumbrou obrigação de OPA pelo caput nem pelo §1º do art. 26 da Instrução CVM 361/02. | cvm/colegiado/2002/col-20020813-d05.md |
+| art. 12 | decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | opa | O Colegiado não deferiu o pedido de acionistas minoritários da COSIPA para que a FEMCO realizasse oferta pública de aquisição de ações da companhia. Acompanhando o relator, com impedimento de uma diretora, aplicou a Instrução CVM 361/02 e entendeu não obrigatória a OPA por aumento de participação, pois as hipóteses não excederam os limites do art. 26. | cvm/colegiado/2002/col-20020830-d02.md |
+| art. 12 | decisao-colegiado | RJ2003/0061 | 2003-04-08 | deferido | institucional | O Colegiado deferiu solicitação de extrato da ata da reunião de 25.06.2002 sobre o conceito de liquidez, por entender que o extrato é de cunho público, inclusive à luz da LC 105/01. Concedeu vista dos autos ao requerente e autorizou a disponibilização do extrato na Internet. Um diretor declarou impedimento. | cvm/colegiado/2003/col-20030408-d06.md |
+| art. 12 | decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | opa | O Colegiado decidiu, contra o entendimento da SRE, que as OPAs voluntárias da Telemar Participações não precisam de registro na CVM. Afastou a regra de preço justo, mantidos laudo de avaliação e limite de aquisição de 1/3 se não houver aceitação de 2/3, conforme voto do Presidente. | cvm/colegiado/2007/col-20070529-d11.md |
 | art. 12 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | art. 12, inciso VIII, alínea e | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | art. 12, inciso VIII, alínea f | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
@@ -79,13 +79,13 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | deveres-administradores | Consultas sobre a aplicação do Parecer de Orientação CVM 34/06 à reestruturação societária da Telemar. O Colegiado entendeu que cotações e preços de aquisição de controle não são critério objetivo para a relação de troca em incorporação, e que pareceres interpretativos não se submetem, em regra, a audiência pública. | cvm/colegiado/2006/col-20061017-d04.md |
-| decisao-colegiado | RJ2006/1525 | 2006-05-03 | — | fundos-investimento | Pedido de autorização prévia e expressa para alienação privada, fora de bolsa, de participações de controle da Santos Brasil S.A. por fundo de investimento em ações, em razão de contrato de opção de compra. Fundamentos citados: Instrução CVM nº 302/99, revogada pela Instrução CVM nº 409/04. | cvm/colegiado/2006/col-20060503-d04.md |
-| decisao-colegiado | RJ2004/5813 | 2005-02-15 | indeferido | opa | Recurso de ex-acionista contra decisão da SRE que não exigiu OPA por aumento de participação do controlador, pois as ações já não estavam em circulação após OPA para cancelamento de registro. Pleito de pagamento de diferença de preço prejudicado; a CVM já aplicou advertência ao controlador (art. 11 da Lei 6.385/76). Recurso indeferido. | cvm/colegiado/2005/col-20050215-d01.md |
-| decisao-colegiado | RJ2003/6134 | 2003-11-25 | indeferido | opa | Pleito da Votorantim Cimentos Ltda., controladora da Companhia Cimento Portland Itaú, de procedimento diferenciado em OPA para cancelamento de registro (Instrução CVM 361/02, art. 34). Indeferido: exceções não acolhidas, inclusive a de laudo de avaliação antigo e a de alteração do quórum de recusa. | cvm/colegiado/2003/col-20031125-d03.md |
-| decisao-colegiado | RJ2003/4010 | 2003-05-26 | indeferido | opa | Recurso contra decisão da SRE que exigiu OPA por aumento de participação do controlador em companhia aberta, na aquisição indireta de ações (art. 4º, §6º, Lei 6.404/76; art. 26, Instrução CVM 361/02). Indeferido: a OPA é obrigatória acima de 1/3 das ações em circulação, direta ou indiretamente; pedido de dispensa prejudicado. | cvm/colegiado/2003/col-20030526-d04.md |
+| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | normativo | O Colegiado respondeu negativamente a duas consultas sobre o Parecer de Orientação 34/2006 (operação Telemar): preço de aquisição de controle não é critério objetivo para relação de troca em incorporação, e a convergência de cotações após o anúncio não indica aceitação do mercado. Atos interpretativos não se submetem, em regra, a audiência pública. | cvm/colegiado/2006/col-20061017-d04.md |
+| decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | fundos-investimento | O Colegiado autorizou a área técnica a conceder autorização para alienação privada de participações do Fundo Investidores Institucionais na Santos Brasil S.A., condicionada à prova de autorização da Secretaria de Previdência Complementar ou de sua dispensa. Pelo relator, ponderados: desinvestimento, private equity e acordo entre cotistas. | cvm/colegiado/2006/col-20060503-d04.md |
+| decisao-colegiado | RJ2004/5813 | 2005-02-15 | nao-provido | opa | O Colegiado indeferiu recurso contra decisão da SRE que não exigiu OPA por aumento de participação do controlador da Fitejuta, pois no pedido de cancelamento as ações já não estavam em circulação (fundamento do relator, acompanhado na íntegra). Pedido de diferença de preço prejudicado; o controlador já sofrera advertência em processo sancionador. | cvm/colegiado/2005/col-20050215-d01.md |
+| decisao-colegiado | RJ2003/6134 | 2003-11-25 | indeferido | opa | O Colegiado indeferiu o pleito da Votorantim Cimentos Ltda. de procedimento diferenciado em OPA para cancelamento de registro da Companhia Cimento Portland Itaú, com base no art. 34 da Instrução CVM 361/02, nos termos do voto do relator. | cvm/colegiado/2003/col-20031125-d03.md |
+| decisao-colegiado | RJ2003/4010 | 2003-05-26 | nao-provido | opa | O Colegiado negou provimento ao recurso da Newtel Participações S.A. contra exigência de OPA em aquisição indireta de ações de companhia aberta. Fundamento: OPA obrigatória quando o controlador aumenta participação em mais de 1/3 das ações em circulação, qualquer que seja a forma de aquisição. | cvm/colegiado/2003/col-20030526-d04.md |
 | decisao-colegiado | SP2000/0110 | 2003-05-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2000/0110. | cvm/colegiado/2003/col-20030513-d01.md |
 | decisao-colegiado | RJ2002/2230 | 2002-04-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2230. | cvm/colegiado/2002/col-20020426-d06.md |
 | decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | divulgacao-informacoes | Recurso contra a decisão da SEP. Proc. RJ2001/10329. | cvm/colegiado/2002/col-20020219-d02.md |
-| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | registro-emissor | Recurso contra decisão da SEP que exigia oferta pública de fechamento de capital prévia à incorporação de ações entre companhias abertas do grupo Bunge. Provido: o voto entendeu que o recesso (arts. 45 e 264, §3º, da Lei 6.404/76) é o remédio legal para os dissidentes, sem oferta prévia obrigatória. | cvm/colegiado/2002/col-20020115-d05.md |
+| decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |

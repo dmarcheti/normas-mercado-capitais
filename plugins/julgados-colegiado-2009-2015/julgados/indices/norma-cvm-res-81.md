@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0081.md](../../../normas/normas/cvm/resolucoes/0081.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/7588 | 2014-12-09 | deferido | ofertas-publicas | Consulta sobre a possibilidade de alteração da operação urbana consorciada água espraiada com emissão de novos cepac. Proc. RJ2014/7588. | cvm/colegiado/2014/col-20141209-d20.md |
+| decisao-colegiado | RJ2014/7588 | 2014-12-09 | outro | ofertas-publicas | Consulta sobre a possibilidade de alteração da operação urbana consorciada água espraiada com emissão de novos cepac. Proc. RJ2014/7588. | cvm/colegiado/2014/col-20141209-d20.md |

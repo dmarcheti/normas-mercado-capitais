@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/3441.md](../../../normas/normas/cmn/resolucoes/3441.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | ofertas-publicas | Pedidos do IFC e do Banco ABN Amro Real de dispensa de requisitos da Instrução CVM 400/03 e da Deliberação CVM 511/06 em oferta de notas do IFC. Colegiado aprovou apenas a dispensa de reconciliação ao padrão contábil brasileiro e de tradução, nos termos da Resolução CMN 3.441/07, e negou os demais pedidos. | cvm/colegiado/2007/col-20070417-d05.md |
+| decisao-colegiado | RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | ofertas-publicas | O Colegiado aprovou apenas a dispensa à IFC de reconciliação ao padrão contábil brasileiro e de tradução de documentos, conforme fatores de público, práticas internacionais e classificação de risco (Resolução CMN 3.441/07). Não concedeu os demais itens, por não haver informações alternativas ou justificativa individualizada. | cvm/colegiado/2007/col-20070417-d05.md |

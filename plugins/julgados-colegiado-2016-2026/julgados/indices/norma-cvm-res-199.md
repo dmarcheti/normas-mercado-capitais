@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0199.md](../../../normas/normas/cvm/resolucoes/0199.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 08/2023; 19957.012857/2023-04 | 2024-02-07 | deferido | normativo | Após a consulta pública SNC nº 08/2023 – proposta de resolução – pronunciamento técnico CPC 09(R1) – demonstração do valor adicionado – obrigatoriedade para as companhias abertas. Proc. 19957.012857/2023-04. | cvm/colegiado/2024/col-20240207-d2956.md |
+| decisao-colegiado | 08/2023; 19957.012857/2023-04 | 2024-02-07 | outro | contabil-demonstracoes | Após a consulta pública SNC nº 08/2023 – proposta de resolução – pronunciamento técnico CPC 09(R1) – demonstração do valor adicionado – obrigatoriedade para as companhias abertas. Proc. 19957.012857/2023-04. | cvm/colegiado/2024/col-20240207-d2956.md |

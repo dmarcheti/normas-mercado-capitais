@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0033.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/3947 | 2006-06-13 | deferido | infraestrutura-mercado | Aprova, em caráter experimental, convênio entre a BOVESPA, a Bolsa Mexicana de Valores e suas entidades de liquidação, para que intermediários brasileiros recebam ordens de ações de companhias mexicanas. Dispensa de registro de 14 companhias mexicanas (art. 21, §6º, I, Lei 6.385/76). Sem oferta pública no Brasil. | cvm/colegiado/2006/col-20060613-d08.md |
+| decisao-colegiado | RJ2005/3947 | 2006-06-13 | deferido | infraestrutura-mercado | O Colegiado autorizou o projeto piloto de integração entre a BOVESPA e a Bolsa Mexicana de Valores e concedeu dispensa de registro, nos termos do art. 21, § 6º, da Lei 6.385/76, a 14 companhias mexicanas selecionadas pela BOVESPA. Impôs à BOVESPA deveres de divulgação e relatórios trimestrais. Sem prejuízo das normas cambiais. | cvm/colegiado/2006/col-20060613-d08.md |

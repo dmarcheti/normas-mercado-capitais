@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2000/3352 | 2002-08-06 | outro | fundos-investimento | Incorporação de fundo mútuo de privatização FGTS-Petrobras sem assembleia de cotistas, nos termos da Deliberação CVM 350/00. Voto reconhece a incorporação, sem reclamação dos cotistas e com ratificação em assembleia, ressalvada a apreciação técnica sobre responsabilidade. | cvm/colegiado/2002/col-20020806-d01.md |
+| art. 3º | decisao-colegiado | RJ2000/3352 | 2002-08-06 | outro | fundos-investimento | O Colegiado acompanhou o voto do relator, que não viu óbice à incorporação de fundo mútuo de privatização FGTS sem assembleia prévia de cotistas. Considerou que não houve reclamação dos cotistas do fundo incorporado e a assembleia posterior ratificou os atos. | cvm/colegiado/2002/col-20020806-d01.md |
 
 ## art. 10
 
@@ -23,7 +23,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | decisao-colegiado | RJ2000/3352 | 2002-08-06 | outro | fundos-investimento | Incorporação de fundo mútuo de privatização FGTS-Petrobras sem assembleia de cotistas, nos termos da Deliberação CVM 350/00. Voto reconhece a incorporação, sem reclamação dos cotistas e com ratificação em assembleia, ressalvada a apreciação técnica sobre responsabilidade. | cvm/colegiado/2002/col-20020806-d01.md |
+| art. 11 | decisao-colegiado | RJ2000/3352 | 2002-08-06 | outro | fundos-investimento | O Colegiado acompanhou o voto do relator, que não viu óbice à incorporação de fundo mútuo de privatização FGTS sem assembleia prévia de cotistas. Considerou que não houve reclamação dos cotistas do fundo incorporado e a assembleia posterior ratificou os atos. | cvm/colegiado/2002/col-20020806-d01.md |
 
 ## art. 30
 
@@ -41,9 +41,9 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2004-03-09 | nao-provido | multa-cominatoria-taxa | Pedido de manifestação sobre cobrança das taxas de fiscalização (Lei 7.940/89) e de registro de emissão de valores mobiliários sobre cotas de fundos. Por maioria, entendeu-se não devida a taxa de fiscalização; em tese, admite-se taxa de registro de distribuição, a ser estudada pela SIN e SDM. | cvm/colegiado/2004/col-20040309-d07.md |
-| decisao-colegiado | 279/1998; RJ2003/12067 | 2003-10-14 | deferido | normativo | Aprovação pelo Colegiado de minuta de instrução que altera a Instrução CVM 279/1998. | cvm/colegiado/2003/col-20031014-d05.md |
-| decisao-colegiado | — | 2002-01-29 | outro | normativo | Colegiado aprovou minuta de Instrução, apresentada pela área técnica, que altera a Instrução CVM nº 279/98 sobre constituição, administração e funcionamento de fundos mútuos de privatização – FGTS. | cvm/colegiado/2002/col-20020129-d03.md |
+| decisao-colegiado | — | 2004-03-09 | outro | multa-cominatoria-taxa | O Colegiado, por maioria, entendeu não ser devida a taxa de fiscalização. Manifestou entendimento de que é possível, em tese, cobrar taxa de registro de distribuição de valor mobiliário aplicável às quotas de fundos, devendo a SIN e a SDM, sob coordenação do SGE, estudar a alíquota adequada e seus efeitos, para novo exame pelo Colegiado. | cvm/colegiado/2004/col-20040309-d07.md |
+| decisao-colegiado | 279/1998; RJ2003/12067 | 2003-10-14 | outro | normativo | O Colegiado aprovou a minuta de instrução que altera a Instrução CVM nº 279/1998. | cvm/colegiado/2003/col-20031014-d05.md |
+| decisao-colegiado | — | 2002-01-29 | outro | normativo | O Colegiado aprovou a minuta de Instrução, apresentada pela área técnica, que altera a Instrução CVM 279/98 sobre constituição, administração e funcionamento de fundos mútuos de privatização (FGTS). | cvm/colegiado/2002/col-20020129-d03.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |

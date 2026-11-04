@@ -14,10 +14,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, alínea d | decisao-colegiado | RJ2007/11399 | 2008-12-16 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como administrador de carteiras por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99). O Colegiado, por maioria, negou o recurso, considerando as punições recentes e a declaração inverídica prestada no pedido. | cvm/colegiado/2008/col-20081216-d01.md |
-| art. 1º, alínea e | decisao-colegiado | RJ2007/11399 | 2008-12-16 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como administrador de carteiras por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99). O Colegiado, por maioria, negou o recurso, considerando as punições recentes e a declaração inverídica prestada no pedido. | cvm/colegiado/2008/col-20081216-d01.md |
-| art. 1º, alínea g | decisao-colegiado | RJ2007/11399 | 2008-12-16 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como administrador de carteiras por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99). O Colegiado, por maioria, negou o recurso, considerando as punições recentes e a declaração inverídica prestada no pedido. | cvm/colegiado/2008/col-20081216-d01.md |
-| art. 1º, alínea h | decisao-colegiado | RJ2007/11399 | 2008-12-16 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento como administrador de carteiras por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99). O Colegiado, por maioria, negou o recurso, considerando as punições recentes e a declaração inverídica prestada no pedido. | cvm/colegiado/2008/col-20081216-d01.md |
+| art. 1º, alínea d | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | administracao-carteiras | O Colegiado, por maioria, negou recurso contra indeferimento da SIN ao credenciamento de administrador de carteira por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99), mantendo a decisão da área técnica. Pesou a declaração inverídica prestada no pedido. Vencidos a Presidente e um diretor. | cvm/colegiado/2008/col-20081216-d01.md |
+| art. 1º, alínea e | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | administracao-carteiras | O Colegiado, por maioria, negou recurso contra indeferimento da SIN ao credenciamento de administrador de carteira por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99), mantendo a decisão da área técnica. Pesou a declaração inverídica prestada no pedido. Vencidos a Presidente e um diretor. | cvm/colegiado/2008/col-20081216-d01.md |
+| art. 1º, alínea g | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | administracao-carteiras | O Colegiado, por maioria, negou recurso contra indeferimento da SIN ao credenciamento de administrador de carteira por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99), mantendo a decisão da área técnica. Pesou a declaração inverídica prestada no pedido. Vencidos a Presidente e um diretor. | cvm/colegiado/2008/col-20081216-d01.md |
+| art. 1º, alínea h | decisao-colegiado | RJ2007/11399 | 2008-12-16 | nao-provido | administracao-carteiras | O Colegiado, por maioria, negou recurso contra indeferimento da SIN ao credenciamento de administrador de carteira por falta de reputação ilibada (art. 4º, III, da Instrução CVM 306/99), mantendo a decisão da área técnica. Pesou a declaração inverídica prestada no pedido. Vencidos a Presidente e um diretor. | cvm/colegiado/2008/col-20081216-d01.md |
 
 ## lcp-95
 
@@ -25,13 +25,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 11 | decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | opa | Pedido do ofertante de OPA voluntária com procedimento diferenciado para cancelamento de registro (art. 34 da Instrução CVM 361/02), com resgate das ações remanescentes (§ 5º do art. 4º da Lei 6.404/76). Não acolhido, por unanimidade. | cvm/colegiado/2004/col-20041005-d01.md |
+| art. 11 | decisao-colegiado | RJ2004/3487 | 2004-10-05 | indeferido | opa | O Colegiado, por unanimidade, não acolheu o pedido da AES Infoenergy Ltda. de OPA sobre ações da AES Sul Distribuidora Gaúcha de Energia S.A. com procedimento diferenciado (art. 34 da Instrução CVM 361/02), que previa cancelamento de registro e possível resgate das ações remanescentes. | cvm/colegiado/2004/col-20041005-d01.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/3033 | 2006-08-15 | outro | assembleia-acionistas | Consulta do gestor do Finor sobre aplicação do limite de 50% de ações preferenciais (art. 15, §2º, Lei 6.404/76, redação da Lei 10.303/01) a companhia incentivada que converteu debêntures. Entendimento: o novo percentual não se aplica a companhias constituídas antes da lei. | cvm/colegiado/2006/col-20060815-d01.md |
+| decisao-colegiado | RJ2003/3033 | 2006-08-15 | outro | assembleia-acionistas | Em consulta do Banco do Nordeste, gestor do Finor, o Colegiado entendeu que o limite de 50% de ações preferenciais do art. 15, §2º, da Lei 6.404/76 (red. Lei 10.303/01) não se aplica à AG Hotéis e Turismo S.A., constituída antes da nova redação. Não examinou a vigência do art. 90 da Lei 5.508/68. | cvm/colegiado/2006/col-20060815-d01.md |
 
 ## lcp-101
 
@@ -39,19 +39,19 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º, inciso III | decisao-colegiado | RJ2006/7551 | 2006-12-12 | deferido | fundos-investimento | Registro de funcionamento e de oferta pública de cotas do FIDC CPTM, cujo patrimônio é majoritariamente de créditos não performados originados de bilhetes de transporte de estatal paulista (arts. 8º e 20, Instrução CVM 356/01). Colegiado deferiu os registros, acompanhando a área técnica. | cvm/colegiado/2006/col-20061212-d10.md |
+| art. 2º, inciso III | decisao-colegiado | RJ2006/7551 | 2006-12-12 | deferido | fundos-investimento | O Colegiado concedeu o registro de funcionamento do FIDC Companhia Paulista de Trens Metropolitanos (CPTM), de créditos não performados, e o registro de oferta pública de distribuição de suas cotas, acatando a manifestação favorável da área técnica. Fundamento (área técnica): arts. 8º e 20 da Instrução 356/01, após análise de resumo descritivo da operação. | cvm/colegiado/2006/col-20061212-d10.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/10666; RJ2007/12022; RJ2007/12035; RJ2007/12117; RJ2007/12118; RJ2007/12133; RJ2007/12222; RJ2007/12373; RJ2007/12850 | 2007-10-30 | deferido | fundos-investimento | Pedidos de dispensa de requisitos de nove FIDC-NP cujas cotas não são negociadas em mercado público e cujas ofertas são feitas em lote único ou a grupo econômico (IN CVM 400, art. 5º). O Colegiado concedeu as dispensas e delegou à Superintendência de Registro de Valores Mobiliários a análise de casos idênticos. | cvm/colegiado/2007/col-20071030-d20.md |
-| decisao-colegiado | RJ2007/11028 | 2007-10-09 | deferido | fundos-investimento | Pedido de dispensa de seis requisitos para o registro de funcionamento do FIDC-NP Alemanha Multicarteira, entre eles parecer de advogado, prospecto, verificação de lastro pelo custodiante e anúncios de oferta. Deferido; a manifestação sobre operação de crédito (LC 101/00, art. 32) deverá ser divulgada quando obtida. | cvm/colegiado/2007/col-20071009-d07.md |
-| decisao-colegiado | RJ2007/3266 | 2007-07-17 | deferido | fundos-investimento | Registro de funcionamento de FIDC Multicarteira NP com dispensa de requisitos (art. 9º, Instrução CVM 444/06): parecer de advogado, prospecto, verificação de lastro, processos de origem e cobrança e manifestação sobre operação de crédito (LC 101/00). Colegiado deferiu, em razão do público-alvo estrangeiro restrito, da ausência de negociação secundária e da gestão discricionária por uma única gestora. | cvm/colegiado/2007/col-20070717-d08.md |
-| decisao-colegiado | RJ2007/3611 | 2007-06-28 | deferido | fundos-investimento | Registro de funcionamento e de oferta pública de cotas do Carval Master FIDC Multicarteira Não-Padronizado, com dispensa de parecer de advogado, prospecto, verificação de lastro, políticas de cobrança e anúncios. Colegiado concedeu as dispensas, pois os cotistas são não residentes vinculados ao grupo. | cvm/colegiado/2007/col-20070628-d08.md |
-| decisao-colegiado | RJ2007/3265 | 2007-06-28 | indeferido | fundos-investimento | Pedido de registro de funcionamento do V2 FIDC Multicarteira Não-Padronizado com dispensa de requisitos do art. 9º da Instrução 444/06 (parecer de advogado, prospecto, verificação de lastro, políticas de crédito e cobrança, manifestação sobre operação de crédito). Colegiado não concedeu as dispensas. | cvm/colegiado/2007/col-20070628-d07.md |
-| decisao-colegiado | RJ2007/3083 | 2007-06-12 | deferido | fundos-investimento | Pedido da Intrag DTVM, administradora do FIDC NP América Multicarteira, de dispensa de parecer legal, prospecto, verificação de lastro pelo custodiante e processos de origem (Instruções 444/06 e 356/01). Colegiado deferiu: fundo destinado a investidores de um mesmo grupo econômico. | cvm/colegiado/2007/col-20070612-d04-r2.md |
-| decisao-colegiado | RJ2005/9166 | 2006-02-15 | deferido | fundos-investimento | Registro de funcionamento e de oferta pública de quotas seniores do FIDC CEEE, com direitos creditórios da venda futura de energia elétrica, sem seguro ou garantia. Colegiado concedeu os registros conforme a manifestação da área técnica. | cvm/colegiado/2006/col-20060215-d11.md |
+| decisao-colegiado | RJ2007/10666; RJ2007/12022; RJ2007/12035; RJ2007/12117; RJ2007/12118; RJ2007/12133; RJ2007/12222; RJ2007/12373; RJ2007/12850 | 2007-10-30 | deferido | fundos-investimento | O Colegiado concedeu as nove dispensas pleiteadas para FIDC-NP, com arquivamento, pela vedação à negociação das cotas em mercado público e pelo público-alvo das ofertas. Por ato normativo, delegou à SRE a dispensa de requisitos de FIDC-NP com destinatário único ou grupo econômico específico e vedação expressa à negociação. | cvm/colegiado/2007/col-20071030-d20.md |
+| decisao-colegiado | RJ2007/11028 | 2007-10-09 | deferido | fundos-investimento | O Colegiado concedeu as sete dispensas pleiteadas para o registro de funcionamento do FIDC-NP Alemanha Multicarteira, pelos argumentos do Memo SRE/GER-1/309/07. A área técnica condicionou a dispensa da manifestação sobre a LC 101/00 à divulgação no CVMWeb quando obtida. | cvm/colegiado/2007/col-20071009-d07.md |
+| decisao-colegiado | RJ2007/3266 | 2007-07-17 | deferido | fundos-investimento | O Colegiado deferiu cinco dispensas de requisitos de registro pedidas para o V3 FIDC Multicarteira Não-Padronizado, com base na limitação do público-alvo, na ausência de negociação de cotas no mercado secundário e na gestão discricionária das carteiras pela gestora, que equipara os investidores estrangeiros a investidor único. Ressalva: ser público estrangeiro, por si só, não fundamenta a dispensa. | cvm/colegiado/2007/col-20070717-d08.md |
+| decisao-colegiado | RJ2007/3611 | 2007-06-28 | deferido | fundos-investimento | O Colegiado concedeu as seis dispensas pleiteadas no registro de funcionamento e de oferta do Carval Master FIDC Multicarteira NP (art. 9º da Instrução 444/06), inclusive de prospecto e de anúncios de início e encerramento. Determinou que os documentos dispensados sejam apresentados ao mercado e à CVM se houver pedido de registro de negociação. | cvm/colegiado/2007/col-20070628-d08.md |
+| decisao-colegiado | RJ2007/3265 | 2007-06-28 | indeferido | fundos-investimento | O Colegiado não concedeu as dispensas, pleiteadas com base no art. 9º da Instrução 444/06, de cinco requisitos do registro de funcionamento do V2 FIDC Multicarteira Não-Padronizado, por todo o exposto no Memo/SRE/GER-1/198/07. A área técnica era contrária às dispensas, exceto quanto às manifestações exigidas pela LC 101/00. | cvm/colegiado/2007/col-20070628-d07.md |
+| decisao-colegiado | RJ2007/3083 | 2007-06-12 | deferido | fundos-investimento | O Colegiado concedeu as quatro dispensas pedidas pela Intrag DTVM Ltda. para o FIDC NP América Multicarteira: parecer legal, prospecto, verificação do lastro pelo custodiante e processos de origem e cobrança. Fundamento: fundo destinado exclusivamente a investidores de um mesmo grupo econômico, acatando a SRE. | cvm/colegiado/2007/col-20070612-d04-r2.md |
+| decisao-colegiado | RJ2005/9166 | 2006-02-15 | deferido | fundos-investimento | O Colegiado concedeu os registros de funcionamento e de oferta pública de distribuição de quotas seniores do FIDC CEEE, nos termos do Memo SRE/GER-1/Nº 30/06. O fundo adquirirá direitos creditórios originados de venda futura de energia elétrica e de serviços de transmissão. | cvm/colegiado/2006/col-20060215-d11.md |
 
 ## lcp-104
 
@@ -59,7 +59,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/6382 | 2006-12-19 | nao-provido | contabil-demonstracoes | Recurso contra decisão da SEP que determinou refazimento e republicação das demonstrações financeiras de 2005 da Excelsior Alimentos S.A., por reconhecimento de ganho contingente de crédito de IPI como receita e por falhas nas notas explicativas. Negado provimento. | cvm/colegiado/2006/col-20061219-d10.md |
+| decisao-colegiado | RJ2006/6382 | 2006-12-19 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da Excelsior Alimentos S.A. contra decisão da SEP que determinou o refazimento e a republicação das demonstrações de 31.12.2005. Acompanhou o voto do relator, que manteve a decisão por seus próprios fundamentos, após manifestações da SEP e da SNC. | cvm/colegiado/2006/col-20061219-d10.md |
 
 ## lcp-107
 
@@ -67,7 +67,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/3033 | 2006-08-15 | outro | assembleia-acionistas | Consulta do gestor do Finor sobre aplicação do limite de 50% de ações preferenciais (art. 15, §2º, Lei 6.404/76, redação da Lei 10.303/01) a companhia incentivada que converteu debêntures. Entendimento: o novo percentual não se aplica a companhias constituídas antes da lei. | cvm/colegiado/2006/col-20060815-d01.md |
+| decisao-colegiado | RJ2003/3033 | 2006-08-15 | outro | assembleia-acionistas | Em consulta do Banco do Nordeste, gestor do Finor, o Colegiado entendeu que o limite de 50% de ações preferenciais do art. 15, §2º, da Lei 6.404/76 (red. Lei 10.303/01) não se aplica à AG Hotéis e Turismo S.A., constituída antes da nova redação. Não examinou a vigência do art. 90 da Lei 5.508/68. | cvm/colegiado/2006/col-20060815-d01.md |
 
 ## lcp-109
 
@@ -75,7 +75,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º, § 1º | decisao-colegiado | RJ2006/1525 | 2006-05-03 | — | fundos-investimento | Pedido de autorização prévia e expressa para alienação privada, fora de bolsa, de participações de controle da Santos Brasil S.A. por fundo de investimento em ações, em razão de contrato de opção de compra. Fundamentos citados: Instrução CVM nº 302/99, revogada pela Instrução CVM nº 409/04. | cvm/colegiado/2006/col-20060503-d04.md |
+| art. 9º, § 1º | decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | fundos-investimento | O Colegiado autorizou a área técnica a conceder autorização para alienação privada de participações do Fundo Investidores Institucionais na Santos Brasil S.A., condicionada à prova de autorização da Secretaria de Previdência Complementar ou de sua dispensa. Pelo relator, ponderados: desinvestimento, private equity e acordo entre cotistas. | cvm/colegiado/2006/col-20060503-d04.md |
 
 ### art. 64
 
@@ -87,7 +87,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/13934 | 2008-02-19 | nao-provido | administracao-carteiras | Recurso contra indeferimento de credenciamento como administrador de carteiras (art. 4º, II, 'a', da Instrução CVM 306/99). O recorrente, diretor de investimentos de EFPC, alegou que a nomeação seguiu a LC 109/01; Colegiado negou provimento, pois a nomeação não supre o tempo de experiência exigido. | cvm/colegiado/2008/col-20080219-d38.md |
+| decisao-colegiado | RJ2007/13934 | 2008-02-19 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso contra o indeferimento, pela SIN, do credenciamento como administrador de carteiras, com base no relatório da SIN. Não ficou evidenciada a experiência exigida pela Instrução 306/99: três anos como administrador de recursos de terceiros ou cinco anos em atividades correlatas ao mercado de capitais. | cvm/colegiado/2008/col-20080219-d38.md |
 
 ## lcp-123
 
@@ -95,4 +95,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/0657 | 2007-03-06 | outro | ofertas-publicas | Interpretação do inciso III do art. 5º da Instrução 400: a dispensa automática para pequenas empresas e microempresas considera o volume de emissão, não só o porte, e o emissor deve comunicar o uso da dispensa. Mantido o arquivamento de oferta de contratos de investimento coletivo sem registro pelo proponente. | cvm/colegiado/2007/col-20070306-d02.md |
+| decisao-colegiado | RJ2006/0657 | 2007-03-06 | outro | ofertas-publicas | Para o Colegiado, a dispensa automática de registro de oferta de pequeno porte e microempresas (art. 5º, III, Instrução 400/03) depende do volume de emissão e exige comunicação à CVM. Manteve o arquivamento e determinou à SDM incluir essas regras na minuta da Instrução 400. | cvm/colegiado/2007/col-20070306-d02.md |

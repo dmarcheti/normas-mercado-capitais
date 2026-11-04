@@ -18,15 +18,15 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 19 | acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | administracao-carteiras | RECURSO VOLUNTÁRIO. Clube de investimento. Administração irregular de carteira. Condenação não condizente com acusação. Princípios do contraditório e da ampla defesa. Absolvição. | crsfn/2021/10372-100112-2020-47.md |
-| art. 19 | termo-compromisso | 19957.006012/2016-42; RJ2016/7995 | 2017-03-21 | rejeitado | exercicio-irregular | Rejeição, por unanimidade, de proposta de termo de compromisso de dirigente de clube de investimento acusado de exercer atividade de administração de carteira de valores mobiliários sem registro na CVM (art. 23 da Lei 6.385/1976; art. 3º da Instrução CVM 306/1999). Óbice jurídico por não cessação da prática e ausência de indenização; valor de R$ 1.000,00 insuficiente. | cvm/colegiado/2017/col-20170321-d0619.md |
+| art. 19 | termo-compromisso | 19957.006012/2016-42; RJ2016/7995 | 2017-03-21 | rejeitado | exercicio-irregular | O Colegiado rejeitou proposta de termo de compromisso de R$ 1.000,00 apresentada por dirigente do Clube de Investimento dos Ferroviários Associados da SUDFER, acusado de administrar carteira sem registro (art. 23 da Lei 6.385/1976), com base no Comitê. Motivos: óbice jurídico da PFE-CVM (práticas não cessadas e ausência de indenização), gravidade das condutas e valor insuficiente para fins preventivos. | cvm/colegiado/2017/col-20170321-d0619.md |
 
 ## art. 20
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 20 | termo-compromisso | RJ2013/0740 | 2013-05-21 | aceito | administracao-carteiras | Proposta conjunta de termo de compromisso de corretora administradora de clube de investimento e de dois diretores por falta de diligência, após diretor responsável pela gestão de recursos exercer também a gestão do clube (Instrução CVM 40/84, art. 14, IV; Instrução CVM 494/11, art. 20). Proposta de R$ 100.000,00 aceita pelo Colegiado. | cvm/colegiado/2013/col-20130521-d01.md |
-| art. 20 | termo-compromisso | 19957.002996/2018-54 | 2021-05-25 | outro | informacao-privilegiada | Propostas de termo de compromisso de investidores, corretora, diretor responsável e diretor comercial da Companhia Hering S.A. por negociação com informação relevante não divulgada (Lei 6.404, art. 155, §4º; ICVM 358, art. 13) e falta de gravação de ordens (ICVM 505, art. 36). | cvm/colegiado/2021/col-20210525-d1939.md |
-| art. 20 | termo-compromisso | 19957.002996/2018-54 | 2024-11-26 | rejeitado | informacao-privilegiada | Nova proposta de termo de compromisso de investidor acusado de negociar ações da Hering S.A. com informação sobre o resultado do 1º trimestre de 2015 antes da divulgação (LSA, art. 155, §4º; ICVM 358/2002, art. 13, §1º). Valor de R$ 330.000,00, considerado abaixo dos parâmetros. PFE opinou por óbice; Comitê recomendou rejeição. | cvm/colegiado/2024/col-20241126-d1939.md |
+| art. 20 | termo-compromisso | RJ2013/0740 | 2013-05-21 | aceito | deveres-administradores | O Colegiado aceitou proposta de termo de compromisso da Ativa CTCVM e de dois diretores, no total de R$ 100.000,00, acompanhando o Comitê. Acusação: falta de dever de diligência (art. 14, IV, Instrução CVM 40/84; art. 20, Instrução CVM 494/11). Pagamento como condição para celebração; 10 dias para pagar e 30 para assinar. | cvm/colegiado/2013/col-20130521-d01.md |
+| art. 20 | termo-compromisso | 19957.002996/2018-54 | 2021-05-25 | outro | informacao-privilegiada | O Colegiado aceitou quatro propostas de termo de compromisso e rejeitou duas, acompanhando o Comitê, em PAS por negociações com ações da Companhia Hering S.A. antes da divulgação do resultado do 1º trimestre de 2015. Uma delas, da Ativa CTCV, foi de R$ 220.000,00 após retificação do Comitê. | cvm/colegiado/2021/col-20210525-d1939.md |
+| art. 20 | termo-compromisso | 19957.002996/2018-54 | 2024-11-26 | rejeitado | informacao-privilegiada | O Colegiado rejeitou, por unanimidade, nova proposta de termo de compromisso de R$ 330.000,00 de investidor acusado de negociar ações da Hering S.A. com informação do 1º trimestre de 2015 antes da divulgação (art. 155, §4º, da Lei nº 6.404/1976). Acompanhou o Comitê, que viu insuficiência frente aos prejuízos. A PFE apontou óbice, não acolhido pelo Colegiado. | cvm/colegiado/2024/col-20241126-d1939.md |
 
 ## art. 21
 
@@ -44,13 +44,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 26 | termo-compromisso | RJ2012/7765 | 2013-02-19 | aceito | ofertas-publicas | Proposta de termo de compromisso da XP Investimentos CCTVM por falhas em oferta pública de cotas de FII, com subscrição por clubes de investimento vedada pelas normas (Instrução CVM 494/11, arts. 26 e 27; Instrução CVM 400/03). Proposta de R$ 80.800,00 aceita pelo Colegiado. | cvm/colegiado/2013/col-20130219-d03.md |
+| art. 26 | termo-compromisso | RJ2012/7765 | 2013-02-19 | aceito | ofertas-publicas | O Colegiado aceitou proposta de termo de compromisso da XP Investimentos CCTVM S.A., líder das ofertas de cotas de dois FII, com pagamento de R$ 80.800,00 (50% das cotas subscritas indevidamente por clubes de investimento), acompanhando o parecer do Comitê. Irregularidades: subscrição por clubes em oferta pública (Instruções CVM 494/11 e 400/03). Prazos: dez dias para pagamento; trinta para assinatura. | cvm/colegiado/2013/col-20130219-d03.md |
 
 ## art. 27
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 27 | termo-compromisso | RJ2012/7765 | 2013-02-19 | aceito | ofertas-publicas | Proposta de termo de compromisso da XP Investimentos CCTVM por falhas em oferta pública de cotas de FII, com subscrição por clubes de investimento vedada pelas normas (Instrução CVM 494/11, arts. 26 e 27; Instrução CVM 400/03). Proposta de R$ 80.800,00 aceita pelo Colegiado. | cvm/colegiado/2013/col-20130219-d03.md |
+| art. 27 | termo-compromisso | RJ2012/7765 | 2013-02-19 | aceito | ofertas-publicas | O Colegiado aceitou proposta de termo de compromisso da XP Investimentos CCTVM S.A., líder das ofertas de cotas de dois FII, com pagamento de R$ 80.800,00 (50% das cotas subscritas indevidamente por clubes de investimento), acompanhando o parecer do Comitê. Irregularidades: subscrição por clubes em oferta pública (Instruções CVM 494/11 e 400/03). Prazos: dez dias para pagamento; trinta para assinatura. | cvm/colegiado/2013/col-20130219-d03.md |
 
 ## art. 38
 
@@ -63,5 +63,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.009395/2021-78 | 2025-11-02 | condenacao | manipulacao-fraude | RECURSOS ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. REALIZAÇÃO DE OPERAÇÃO FRAUDULENTA. Operações por meio de negócios coordenados, com o resultado previamente ajustado com o Clube de Investimento Zeal. Infração caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2025/19957-009395-2021-78.md |
-| termo-compromisso | 19957.009395/2021-78 | 2023-01-10 | rejeitado | manipulacao-fraude | Proposta conjunta de termo de compromisso de gestora de clube de investimento e de um cotista, acusados de operações fraudulentas por negócios coordenados que transferiram recursos do clube (ICVM 8/79, I c/c II, c; ICVM 494, art. 21). Colegiado rejeitou a proposta, por indenização por danos difusos considerada insuficiente. | cvm/colegiado/2023/col-20230110-d2756.md |
+| termo-compromisso | 19957.009395/2021-78 | 2023-01-10 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de gestora de clube de investimento e de um investidor, em PAS sobre operações fraudulentas com resultados previamente ajustados, que transferiram R$ 117.011,53 do clube (ICVM 8/79). Para o Comitê, a proposta de R$ 28.034,03 em danos difusos ficou distante da contrapartida adequada. | cvm/colegiado/2023/col-20230110-d2756.md |
 | acordao-crsfn | IA-2013-11 | 2021-03-09 | outro | administracao-carteiras | RECURSO VOLUNTÁRIO. Recurso não conhecido por ser intempestivo. | crsfn/2021/10372-100284-2018-04.md |

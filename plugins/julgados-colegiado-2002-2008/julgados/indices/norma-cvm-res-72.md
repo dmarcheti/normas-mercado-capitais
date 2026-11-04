@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0072.md](../../../normas/normas/cvm/resolucoes/0072.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/2714 | 2002-07-11 | indeferido | contabil-demonstracoes | Recurso contra a decisão da SEP de republicação de demonstrações financeiras. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20020711-d01.md |
+| decisao-colegiado | RJ2002/2714 | 2002-07-11 | nao-provido | contabil-demonstracoes | Recurso contra a decisão da SEP de republicação de demonstrações financeiras. Proc. RJ2002/2714. | cvm/colegiado/2002/col-20020711-d01.md |

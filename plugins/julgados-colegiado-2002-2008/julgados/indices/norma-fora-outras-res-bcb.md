@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm/colegiado/2002/col-20021210-d01.md |
+| decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm/colegiado/2002/col-20021210-d01.md |
 
 ## res-bcb-2817
 
@@ -30,4 +30,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, § 1º | decisao-colegiado | RJ2003/11117 | 2005-03-01 | nao-provido | fundos-investimento | Recurso contra decisão da SIN que determinou regularizar fundo após cisão parcial aprovada em assembleia não regularmente convocada. Edital no site do administrador não supre a correspondência exigida ao cotista (Circular Bacen 3.049/01), e o regulamento não previa esse meio de convocação. | cvm/colegiado/2005/col-20050301-d10.md |
+| art. 1º, § 1º | decisao-colegiado | RJ2003/11117 | 2005-03-01 | nao-provido | fundos-investimento | O Colegiado negou recurso do Banco Itaú S.A. contra decisão da SIN e manteve o entendimento de que a AGE do Fundo Itaú Performance FACFI, de 30.06.03, não foi regularmente convocada, pois a publicação só no site do administrador não vale como correspondência aos cotistas. Processo volta à área técnica. | cvm/colegiado/2005/col-20050301-d10.md |

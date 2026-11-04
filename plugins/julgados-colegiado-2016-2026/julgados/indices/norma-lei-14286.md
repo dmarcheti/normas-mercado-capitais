@@ -11,4 +11,4 @@ Norma: [leis/lei-14286.md](../../../normas/normas/leis/lei-14286.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 13, inciso II | decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | — | ofertas-publicas | Pedido da Azul S.A. de dispensa de requisitos para debêntures conversíveis em preferenciais, com séries residentes e não residentes. SRE não vê violação ao art. 53 da RCVM 160; SEP não vê óbice à dispensa dos arts. 7º a 9º da RCVM 77. Sem decisão. | cvm/colegiado/2025/col-20250415-d3263.md |
+| art. 13, inciso II | decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | ofertas-publicas | O Colegiado, por unanimidade, concedeu à Azul S.A. dispensas dos requisitos dos arts. 7º e 9º da RCVM 77 para oferta de debêntures conversíveis em ações preferenciais, nos termos da manifestação da área técnica. Para a SEP, perdeu objeto o pedido quanto ao art. 4º, e o art. 8º não se aplica. | cvm/colegiado/2025/col-20250415-d3263.md |

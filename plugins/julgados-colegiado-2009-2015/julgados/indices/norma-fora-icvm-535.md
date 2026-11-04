@@ -11,25 +11,25 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 38 | decisao-colegiado | RJ2009/10326 | 2014-07-15 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/10326. | cvm/colegiado/2014/col-20140715-d10.md |
+| art. 38 | decisao-colegiado | RJ2009/10326 | 2014-07-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/10326. | cvm/colegiado/2014/col-20140715-d10.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/12238 | 2015-11-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12238. | cvm/colegiado/2015/col-20151110-d9913.md |
-| decisao-colegiado | RJ2013/12509 | 2014-11-25 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12509. | cvm/colegiado/2014/col-20141125-d18.md |
-| decisao-colegiado | RJ2013/12500 | 2014-11-25 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12500. | cvm/colegiado/2014/col-20141125-d17.md |
-| decisao-colegiado | RJ2013/12491 | 2014-11-25 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12491. | cvm/colegiado/2014/col-20141125-d16.md |
-| decisao-colegiado | RJ2013/12490 | 2014-11-25 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12490. | cvm/colegiado/2014/col-20141125-d15.md |
-| decisao-colegiado | RJ2013/12485 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12485. | cvm/colegiado/2014/col-20141118-d29.md |
-| decisao-colegiado | RJ2013/12499 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12499. | cvm/colegiado/2014/col-20141118-d23.md |
-| decisao-colegiado | RJ2013/12496 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12496. | cvm/colegiado/2014/col-20141118-d22.md |
-| decisao-colegiado | RJ2013/12495 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12495. | cvm/colegiado/2014/col-20141118-d21.md |
-| decisao-colegiado | RJ2013/12494 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12494. | cvm/colegiado/2014/col-20141118-d20.md |
-| decisao-colegiado | RJ2013/12492 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12492. | cvm/colegiado/2014/col-20141118-d19.md |
-| decisao-colegiado | RJ2013/12488 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12488. | cvm/colegiado/2014/col-20141118-d18.md |
-| decisao-colegiado | RJ2013/12486 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12486. | cvm/colegiado/2014/col-20141118-d17.md |
-| decisao-colegiado | RJ2013/12484 | 2014-11-18 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12484. | cvm/colegiado/2014/col-20141118-d16.md |
-| decisao-colegiado | RJ2013/4911 | 2014-07-15 | parcial | fundos-investimento | Pedidos da Quorum Gestão de Investimentos, BRL Trust DTVM e Gradual CCTVM de dispensa de requisitos da ICVM 356/2001 (alterada pela ICVM 531/2013) para FIDC-NP. Colegiado, por maioria, deferiu a dispensa do art. 38, § 7º, II, e, por unanimidade, indeferiu a do art. 39. | cvm/colegiado/2014/col-20140715-d02.md |
-| decisao-colegiado | RJ2013/4591 | 2014-02-04 | deferido | fundos-investimento | Pedido de dispensa do art. 64, III, da ICVM 409/04 (vedação de prestar garantia em nome do fundo) para o Pedra Dourada Fundo de Investimento Multimercado alienar fiduciariamente suas cotas de FII em garantia de operação built-to-suit. Deferido, dada a qualificação dos cotistas e os precedentes de project finance envolvendo FIP. | cvm/colegiado/2014/col-20140204-d02.md |
+| decisao-colegiado | RJ2013/12509 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12509. | cvm/colegiado/2014/col-20141125-d18.md |
+| decisao-colegiado | RJ2013/12500 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12500. | cvm/colegiado/2014/col-20141125-d17.md |
+| decisao-colegiado | RJ2013/12491 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12491. | cvm/colegiado/2014/col-20141125-d16.md |
+| decisao-colegiado | RJ2013/12490 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12490. | cvm/colegiado/2014/col-20141125-d15.md |
+| decisao-colegiado | RJ2013/12485 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12485. | cvm/colegiado/2014/col-20141118-d29.md |
+| decisao-colegiado | RJ2013/12499 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12499. | cvm/colegiado/2014/col-20141118-d23.md |
+| decisao-colegiado | RJ2013/12496 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12496. | cvm/colegiado/2014/col-20141118-d22.md |
+| decisao-colegiado | RJ2013/12495 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12495. | cvm/colegiado/2014/col-20141118-d21.md |
+| decisao-colegiado | RJ2013/12494 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12494. | cvm/colegiado/2014/col-20141118-d20.md |
+| decisao-colegiado | RJ2013/12492 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12492. | cvm/colegiado/2014/col-20141118-d19.md |
+| decisao-colegiado | RJ2013/12488 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12488. | cvm/colegiado/2014/col-20141118-d18.md |
+| decisao-colegiado | RJ2013/12486 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12486. | cvm/colegiado/2014/col-20141118-d17.md |
+| decisao-colegiado | RJ2013/12484 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12484. | cvm/colegiado/2014/col-20141118-d16.md |
+| decisao-colegiado | RJ2013/4911 | 2014-07-15 | parcial | fundos-investimento | Em pedidos da Quorum, BRL Trust e Gradual, o Colegiado deferiu, por maioria, dispensa do art. 38, §7º, II, da ICVM 356/01 (guarda de documentos comprobatórios de créditos em FIDC-NP) e indeferiu, por unanimidade, a do art. 39, nos termos do Memorando da SIN. | cvm/colegiado/2014/col-20140715-d02.md |
+| decisao-colegiado | RJ2013/4591 | 2014-02-04 | deferido | fundos-investimento | O Colegiado deferiu, acompanhando a área técnica (MEMO/CVM/SIN/GIF/N° 007/2014), a dispensa do art. 64, III, da Instrução CVM 409/04, que veda ao administrador prestar fiança, aval ou coobrigar-se em nome do fundo. Caso: Pedra Dourada Fundo de Investimento Multimercado, cotas alienadas em garantia de CCI de fundo imobiliário. Fundamento: qualificação dos cotistas e precedentes de project finance envolvendo FIP. | cvm/colegiado/2014/col-20140204-d02.md |

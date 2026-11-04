@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0072.md](../../../normas/normas/cvm/resolucoes/0072.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003747/2023-43 | 2025-12-23 | nao-provido | contabil-demonstracoes | Recurso da Marisa Lojas S.A. contra determinação da SEP de refazimento e republicação de demonstrações financeiras por falta de provisão para passivos tributários de controlada (CPC 25 x CPC 32 e ICPC 22). Retomada a análise, com voto da relatora. | cvm/colegiado/2025/col-20251223-d3423.md |
+| decisao-colegiado | 19957.003747/2023-43 | 2025-12-23 | — | contabil-demonstracoes | Recurso com pedido de efeito suspensivo da Marisa Lojas S.A. contra determinação da SEP de refazer e republicar as demonstrações financeiras de 2022 a 2024 e os formulários DFP e ITR correspondentes, por ausência de provisão para processos tributários da controlada indireta M Serviços, segundo a SEP e a SNC. Julgamento suspenso por pedido de vista. | cvm/colegiado/2025/col-20251223-d3423.md |

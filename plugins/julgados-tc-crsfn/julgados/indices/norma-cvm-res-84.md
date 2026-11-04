@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0084.md](../../../normas/normas/cvm/resolucoes/0084.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, inciso III | termo-compromisso | 19957.014281/2023-10 | 2024-11-26 | aceito | divulgacao-informacoes | Proposta de termo de compromisso do diretor de relações com investidores da Tecnisa S.A. acusado de não divulgar de imediato fato relevante sobre pedido de registro de CEPACs e oscilações atípicas de TCSA3 em 29.08.2023 (RCVM 44, art. 6º, parágrafo único). Valor aceito pelo Colegiado: R$ 495.000,00, em parcela única. PFE sem óbice. | cvm/colegiado/2024/col-20241126-d3054.md |
+| art. 7º, inciso III | termo-compromisso | 19957.014281/2023-10 | 2024-11-26 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Tecnisa S.A. por suposta infração ao art. 6º, parágrafo único, da RCVM 44 (fato relevante em 29.08.2023). Pagamento de R$ 495.000,00 em parcela única, elevados pelo Comitê a partir de R$ 300.000,00 propostos. | cvm/colegiado/2024/col-20241126-d3054.md |

@@ -24,23 +24,23 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2010/14211 | 2012-07-31 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
-| art. 6º | decisao-colegiado | RJ2013/1914 | 2014-02-25 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1914. | cvm/colegiado/2014/col-20140225-d22.md |
-| art. 6º, parágrafo único | decisao-colegiado | RJ2010/14211 | 2012-07-31 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
+| art. 6º | decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
+| art. 6º | decisao-colegiado | RJ2013/1914 | 2014-02-25 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1914. | cvm/colegiado/2014/col-20140225-d22.md |
+| art. 6º, parágrafo único | decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
 
 ## art. 12
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | RJ2010/3345 | 2011-04-05 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3345. | cvm/colegiado/2011/col-20110405-d12.md |
-| art. 12 | decisao-colegiado | RJ2010/14211 | 2012-07-31 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
-| art. 12 | decisao-colegiado | RJ2013/1914 | 2014-02-25 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1914. | cvm/colegiado/2014/col-20140225-d22.md |
+| art. 12 | decisao-colegiado | RJ2010/3345 | 2011-04-05 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/3345. | cvm/colegiado/2011/col-20110405-d12.md |
+| art. 12 | decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
+| art. 12 | decisao-colegiado | RJ2013/1914 | 2014-02-25 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/1914. | cvm/colegiado/2014/col-20140225-d22.md |
 
 ## art. 14
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 14 | decisao-colegiado | RJ2010/14211 | 2012-07-31 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
+| art. 14 | decisao-colegiado | RJ2010/14211 | 2012-07-31 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/14211. | cvm/colegiado/2012/col-20120731-d06.md |
 
 ## art. 39
 
@@ -53,7 +53,7 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/1260 | 2015-08-25 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1260. | cvm/colegiado/2015/col-20150825-d9799.md |
-| decisao-colegiado | RJ2014/12860 | 2015-05-05 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12860. | cvm/colegiado/2015/col-20150505-d9634.md |
-| decisao-colegiado | RJ2013/10105; RJ2013/10789; RJ2013/10936 | 2014-03-18 | indeferido | intermediacao | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2013/10105, RJ2013/10789 e RJ2013/10936. | cvm/colegiado/2014/col-20140318-d10.md |
-| decisao-colegiado | RJ2012/14319 | 2013-12-17 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14319. | cvm/colegiado/2013/col-20131217-d21.md |
-| decisao-colegiado | RJ2012/3913 | 2013-05-07 | indeferido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3913. | cvm/colegiado/2013/col-20130507-d08.md |
+| decisao-colegiado | RJ2014/12860 | 2015-05-05 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/12860. | cvm/colegiado/2015/col-20150505-d9634.md |
+| decisao-colegiado | RJ2013/10105; RJ2013/10789; RJ2013/10936 | 2014-03-18 | nao-provido | intermediacao | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2013/10105, RJ2013/10789 e RJ2013/10936. | cvm/colegiado/2014/col-20140318-d10.md |
+| decisao-colegiado | RJ2012/14319 | 2013-12-17 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14319. | cvm/colegiado/2013/col-20131217-d21.md |
+| decisao-colegiado | RJ2012/3913 | 2013-05-07 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3913. | cvm/colegiado/2013/col-20130507-d08.md |

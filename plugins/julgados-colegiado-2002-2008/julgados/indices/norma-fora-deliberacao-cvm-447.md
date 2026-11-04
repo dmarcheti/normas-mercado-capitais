@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2003/13388 | 2004-01-21 | parcial | multa-cominatoria-taxa | Solicitação da comissão nacional de bolsas. Proc. RJ2003/13388. | cvm/colegiado/2004/col-20040121-d02.md |
+| art. 1º | decisao-colegiado | RJ2003/13388 | 2004-01-21 | outro | multa-cominatoria-taxa | Solicitação da comissão nacional de bolsas. Proc. RJ2003/13388. | cvm/colegiado/2004/col-20040121-d02.md |
 
 ## Citada sem dispositivo identificado
 
@@ -21,8 +21,8 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/12700 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12700. | cvm/colegiado/2007/col-20071113-d17.md |
 | decisao-colegiado | RJ2007/12699 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12699. | cvm/colegiado/2007/col-20071113-d16.md |
 | decisao-colegiado | RJ2007/12698 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12698. | cvm/colegiado/2007/col-20071113-d15.md |
-| decisao-colegiado | RJ2007/12039 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12039. | cvm/colegiado/2007/col-20071017-d11.md |
+| decisao-colegiado | RJ2007/12039 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12039. | cvm/colegiado/2007/col-20071017-d11.md |
 | decisao-colegiado | RJ2005/7464 | 2005-11-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7464. | cvm/colegiado/2005/col-20051122-d11.md |
-| decisao-colegiado | RJ2005/7493 | 2005-11-08 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7493. | cvm/colegiado/2005/col-20051108-d08.md |
-| decisao-colegiado | RJ2004/5368 | 2004-10-05 | indeferido | opa | Recurso contra indeferimento de dispensa de OPA para cancelamento de registro (art. 34 da Instrução CVM 361/02). Mantidos o indeferimento da dispensa de OPA e da dispensa de tributos e multas, por serem obrigação legal. Deferido o procedimento diferenciado, sujeito às exigências da área técnica. | cvm/colegiado/2004/col-20041005-d04.md |
-| decisao-colegiado | RJ99/2786 | 2004-01-21 | indeferido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
+| decisao-colegiado | RJ2005/7493 | 2005-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7493. | cvm/colegiado/2005/col-20051108-d08.md |
+| decisao-colegiado | RJ2004/5368 | 2004-10-05 | parcial | opa | O Colegiado, acompanhando o relator, manteve o entendimento da SRE: indeferiu, em recurso da Eletromoura S.A., a dispensa de OPA para cancelamento de registro e a dispensa de pagamento de tributos ou multas (art. 34 da Instrução CVM 361/02). Deferiu procedimento diferenciado, desde que atendidas as condições propostas pela recorrente e as exigências da área técnica. | cvm/colegiado/2004/col-20041005-d04.md |
+| decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |

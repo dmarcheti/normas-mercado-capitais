@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0055.md](../../../normas/normas/cvm/resolucoes/0055.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.008321/2021-14 | 2023-07-04 | aceito | assembleia-acionistas | Nova proposta conjunta de termo de compromisso de administrador e acionista controladora da Manaus Hotéis e Turismo S.A., após rejeição pelo Colegiado em 02.08.2022, por não realizar AGO de 2020 no prazo (Lei 6.404/1976, art. 132), falhas cadastrais (RCVM 10, art. 11, III e IV), diretoria unitária e voto indireto nas próprias contas (art. 115, §1º). Valor proposto: R$ 739.015,86. | cvm/colegiado/2023/col-20230704-d2664.md |
+| termo-compromisso | 19957.008321/2021-14 | 2023-07-04 | aceito | assembleia-acionistas | O Colegiado aceitou a proposta de termo de compromisso, acompanhando o Comitê, que sugeriu R$ 739.015,86 (R$ 352.135,86 em parcela única e R$ 386.880,00 em quatro parcelas). Imputações: AGO fora do prazo, cadastro (RCVM 10), composição da diretoria e voto em próprias contas. | cvm/colegiado/2023/col-20230704-d2664.md |

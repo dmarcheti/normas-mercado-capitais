@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/3334.md](../../../normas/normas/cmn/resolucoes/3334.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2010/9133 | 2011-09-06 | deferido | administracao-carteiras | Designação de segundo diretor responsável pela administração de carteiras (Instrução CVM 306/99, art. 7º, § 7º) no Banco J. Safra S.A., para fundos de recursos próprios separados dos fundos de terceiros. Deferido. | cvm/colegiado/2011/col-20110906-d16.md |
+| decisao-colegiado | RJ2010/9133 | 2011-09-06 | deferido | administracao-carteiras | O Colegiado deferiu o pedido do Banco J. Safra S.A. para indicar um segundo diretor responsável pela administração de carteiras de valores mobiliários, acompanhando a SIN (MEMO/CVM/SIN/111/2011). Fundamentos: estruturas segregadas e exclusivas para recursos próprios e de terceiros, carteiras de natureza diversa e precedentes do Colegiado. | cvm/colegiado/2011/col-20110906-d16.md |

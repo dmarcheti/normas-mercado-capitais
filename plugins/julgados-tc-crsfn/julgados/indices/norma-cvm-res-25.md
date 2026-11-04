@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0025.md](../../../normas/normas/cvm/resolucoes/0025.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2009/6226 | 2010-01-26 | outro | manipulacao-fraude | Colegiado decidiu receber proposta de termo de compromisso da ASM Asset Management DTVM S.A., de sua gestora e de sócios, acusados de operação fraudulenta contra o RioPrevidência na subscrição de cotas do ASM FIDC CI e de atuação como contraparte em cotas do ASM FIDC FCVS (Instrução 08/79, item II, c; Instrução 306/99, art. 16, I). | cvm/colegiado/2010/col-20100126-d05.md |
+| termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | manipulacao-fraude | O Colegiado, acompanhando o parecer do Comitê, rejeitou propostas de termo de compromisso de seis proponentes no PAS 06/2007, por operação fraudulenta envolvendo os fundos ASM FIDC CI e ASM FIDC FCVS (Instrução 08/79, item II, letra c). Comitê: inconveniente a celebração, pela gravidade das condutas e pelos prejuízos potenciais ao Estado do Rio de Janeiro. | cvm/colegiado/2010/col-20100126-d05.md |

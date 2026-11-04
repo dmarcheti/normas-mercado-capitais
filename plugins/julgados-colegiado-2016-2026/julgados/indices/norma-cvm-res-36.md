@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0036.md](../../../normas/normas/cvm/resolucoes/0036.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | — | infraestrutura-mercado | Pedido do Balcão Agrícola do Brasil S.A. para funcionar como entidade administradora de mercado de balcão organizado, com derivativos sobre commodities agrícolas e atuação apenas em registro, sem compensação e sem contraparte central. Área técnica propõe submissão ao Colegiado, com condições e pedidos de dispensa. | cvm/colegiado/2024/col-20240806-d3112.md |
+| decisao-colegiado | 19957.009328/2023-15 | 2024-08-06 | deferido | infraestrutura-mercado | O Colegiado concedeu à Balcão Agrícola do Brasil S.A. autorização para administrar mercado de balcão organizado de derivativos de commodities, acompanhando a SMI. O deferimento definitivo depende dos atos do Ofício Interno 11; a dispensa do art. 29, IV, da RCVM 135 fica condicionada à vedação ao diretor-geral com mais de 5% do capital atuar como comitente. | cvm/colegiado/2024/col-20240806-d3112.md |

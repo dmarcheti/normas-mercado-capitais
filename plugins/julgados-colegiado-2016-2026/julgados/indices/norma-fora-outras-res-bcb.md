@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, inciso IV | decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | — | infraestrutura-mercado | Pedido da B3 e da BLK para participar do capital da B3 IP Holding Ltda. e da B3 Instituição de Pagamento Ltda., iniciadora de transação de pagamento autorizada pelo BCB, nos termos do art. 12 da Resolução CVM 135/2022. A SMI sugere o deferimento, com base na conexão entre as atividades e nos riscos mitigados. | cvm/colegiado/2024/col-20240326-d3041.md |
+| art. 7º, inciso IV | decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a área técnica, autorizou a B3 e sua controlada BLK a participar do capital da B3 IP Holding e da B3 Instituição de Pagamento, iniciadora de transação de pagamento autorizada pelo BCB (art. 12 da RCVM 135/2022). A SMI viu conexão entre as atividades e riscos mitigados por segregação tecnológica. | cvm/colegiado/2024/col-20240326-d3041.md |
 
 ## res-bcb-81
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º, inciso IV | decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | — | infraestrutura-mercado | Pedido da B3 e da BLK para participar do capital da B3 IP Holding Ltda. e da B3 Instituição de Pagamento Ltda., iniciadora de transação de pagamento autorizada pelo BCB, nos termos do art. 12 da Resolução CVM 135/2022. A SMI sugere o deferimento, com base na conexão entre as atividades e nos riscos mitigados. | cvm/colegiado/2024/col-20240326-d3041.md |
+| art. 7º, inciso IV | decisao-colegiado | 19957.014328/2023-37 | 2024-03-26 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a área técnica, autorizou a B3 e sua controlada BLK a participar do capital da B3 IP Holding e da B3 Instituição de Pagamento, iniciadora de transação de pagamento autorizada pelo BCB (art. 12 da RCVM 135/2022). A SMI viu conexão entre as atividades e riscos mitigados por segregação tecnológica. | cvm/colegiado/2024/col-20240326-d3041.md |
 
 ## res-bcb-3334
 
@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | — | intermediacao | Retomada de pedido de dispensa da Banestes DTVM das exigências de diretor estatutário responsável pelas Resoluções CVM 30/2021 e 35/2021, após extinção da diretoria de operações. A área técnica sugere concessão, restrita ao caso concreto e sem efeito se houver atuação em intermediação. | cvm/colegiado/2023/col-20230919-d2923.md |
+| art. 3º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | cvm/colegiado/2023/col-20230919-d2923.md |
 
 ## res-bcb-4373
 
@@ -38,7 +38,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.004657/2016-41 | 2016-10-11 | deferido | registro-emissor | Pedido da TGLT S.A. e de instituição depositária para descontinuar programa de BDR Nível II e cancelar o registro de emissor estrangeiro (art. 48, parágrafo único, da Instrução CVM 480/2009), por baixa liquidez. Colegiado aprovou o plano de cancelamento nos termos do pedido. | cvm/colegiado/2016/col-20161011-d0387.md |
+| decisao-colegiado | 19957.004657/2016-41 | 2016-10-11 | deferido | registro-emissor | O Colegiado aprovou o plano de cancelamento do Programa de BDR Nível II da TGLT S.A., nos termos do pedido. Acompanhando a SRE, que entendeu atendidos os requisitos do art. 48, parágrafo único, da Instrução CVM 480/2009. O pedido também pedia dispensas de OPA, de negociação em mercado organizado e de assembleia. | cvm/colegiado/2016/col-20161011-d0387.md |
 
 ## res-bcb-4598
 
@@ -46,7 +46,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 20 | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | — | fundos-investimento | Recurso de gestora contra entendimento da SSE de que FII e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais (Lei 13.986/2020), por não se enquadrarem no art. 45 da Instrução CVM 472/2008. Parecer PFE-CVM 15/2021 respalda a conclusão. Área técnica propôs manter o entendimento. | cvm/colegiado/2021/col-20211026-d2359.md |
+| art. 20 | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, ao recurso de gestora contra entendimento da SSE em consulta, mantendo a conclusão de que Fundos de Investimento Imobiliário e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais, que só cabem a FIAGRO-Direitos Creditórios (Resolução CVM 39/2021). Acompanhou a área técnica, com base na ICVM 472/2008 e no Parecer PFE/CVM. | cvm/colegiado/2021/col-20211026-d2359.md |
 
 ## res-bcb-4656
 
@@ -54,4 +54,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 7º | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | — | crowdfunding | Recurso da plataforma URBE.ME contra determinação de website exclusivo (ICVM 588/17) e proposta de deliberação de proibição a ofertas P2P/OAV fora da ICVM 588 e a referências à CVM. PFE sugeriu reduzir a multa diária para R$ 50.000,00. | cvm/colegiado/2020/col-20200618-d1838.md |
+| art. 7º | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | crowdfunding | O Colegiado, por unanimidade, negou provimento a recurso da URBE.ME contra determinação da SRE de manter website exclusivo à sua plataforma de crowdfunding (ICVM 588/17, art. 8º). Aprovou a Deliberação CVM 858/2020, que proíbe ofertas diferentes das autorizadas pela ICVM 588, por situação anormal de mercado (art. 9º, §1º, da Lei 6.385/76). | cvm/colegiado/2020/col-20200618-d1838.md |

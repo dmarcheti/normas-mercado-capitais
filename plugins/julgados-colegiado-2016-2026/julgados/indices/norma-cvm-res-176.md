@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0176.md](../../../normas/normas/cvm/resolucoes/0176.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 02/2022; 21/2022; 19957.010578/2022-17 | 2022-11-29 | parcial | contabil-demonstracoes | Aprovada a Resolução CVM 176/2022, que torna obrigatório às companhias abertas o Documento de Revisão de Pronunciamentos Técnicos 21/2022 (IFRS 17 e alterações). Indeferido o pedido de adiamento da aplicação do CPC 50. Dispensada AIR (art. 4º, VI, do Decreto 10.411/2020). | cvm/colegiado/2022/col-20221129-d2667.md |
+| decisao-colegiado | 02/2022; 21/2022; 19957.010578/2022-17 | 2022-11-29 | outro | contabil-demonstracoes | O Colegiado, por unanimidade, aprovou a Resolução CVM 176/2022, que torna obrigatório para as companhias abertas o Documento de Revisão de Pronunciamentos Técnicos 21/2022 (alterações relacionadas ao IFRS 17), após a Consulta Pública SNC 02/2022. Indeferiu o pedido de adiamento da aplicação do CPC 50. | cvm/colegiado/2022/col-20221129-d2667.md |

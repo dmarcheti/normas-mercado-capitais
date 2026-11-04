@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0047.md](../../../normas/normas/cvm/resolucoes/0047.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.008081/2021-58 | 2023-07-04 | rejeitado | multa-cominatoria-taxa | Proposta de termo de compromisso da administradora de fundos, em recurso contra cem multas cominatórias por envio tardio ou ausente de documentos anuais de fundos (ICVM 555, art. 59), com possível infração ao art. 92. PFE apontou óbice por inadimplência anterior. Colegiado rejeitou, por unanimidade, a proposta de R$ 300 mil. | cvm/colegiado/2023/col-20230704-d2886.md |
+| termo-compromisso | 19957.008081/2021-58 | 2023-07-04 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da Intra Investimentos DTVM, administradora de fundos, de R$ 300.000,00, por infração sistemática ao art. 92 da ICVM 555 (envio atrasado de documentos do art. 59). Acompanhando o Comitê: irregularidades não regularizadas (óbice da PFE/CVM), inadimplência em termo anterior e reduzida economia processual. | cvm/colegiado/2023/col-20230704-d2886.md |

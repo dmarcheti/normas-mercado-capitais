@@ -36,7 +36,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | termo-compromisso | 09/01 | 2006-11-07 | aceito | manipulacao-fraude | Aceita nova proposta de termo de compromisso do Banco Exprinter Losan S.A. e outros acusados em PAS sobre operações em condições artificiais e fraudulentas com contratos de Índice Bovespa futuro na BM&F, em setembro de 1998. Condicionada à comprovação de pagamento dos tributos prescritos à Receita Federal e de 20% desse total à CVM. | cvm/colegiado/2006/col-20061107-d01.md |
+| art. 6º | termo-compromisso | 09/01 | 2006-11-07 | aceito | manipulacao-fraude | O Colegiado aceitou nova proposta de termo de compromisso do Exprinter Losan e outros, nos termos do voto do relator: pagamento à Receita Federal dos tributos correspondentes e à CVM de 20% do total pago à Receita. Antes, o Colegiado rejeitou proposta por valor distante do benefício fiscal. | cvm/colegiado/2006/col-20061107-d01.md |
 
 ## in-79
 
@@ -44,7 +44,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 09/01 | 2006-11-07 | aceito | manipulacao-fraude | Aceita nova proposta de termo de compromisso do Banco Exprinter Losan S.A. e outros acusados em PAS sobre operações em condições artificiais e fraudulentas com contratos de Índice Bovespa futuro na BM&F, em setembro de 1998. Condicionada à comprovação de pagamento dos tributos prescritos à Receita Federal e de 20% desse total à CVM. | cvm/colegiado/2006/col-20061107-d01.md |
+| termo-compromisso | 09/01 | 2006-11-07 | aceito | manipulacao-fraude | O Colegiado aceitou nova proposta de termo de compromisso do Exprinter Losan e outros, nos termos do voto do relator: pagamento à Receita Federal dos tributos correspondentes e à CVM de 20% do total pago à Receita. Antes, o Colegiado rejeitou proposta por valor distante do benefício fiscal. | cvm/colegiado/2006/col-20061107-d01.md |
 
 ## in-132
 
@@ -178,14 +178,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | — | intermediacao | Proposta de termo de compromisso de agente autônomo de investimento por administração irregular de carteira, recebimento de recursos de clientes em conta pessoal e envio de extratos (ICVM 497/2011, art. 13, II, IV e VIII). Proposta intempestiva; a relatora entendeu haver interesse público para sua apreciação. | cvm/colegiado/2023/col-20231114-d2576.md |
+| art. 10 | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | processual | O Colegiado, por unanimidade, acompanhando o voto da Relatora, não conheceu da proposta de termo de compromisso de agente autônomo de investimento em PAS da SMI, por intempestividade (apresentada após o prazo do art. 82, §2º, da RCVM 45/2021). Não houve análise de mérito. | cvm/colegiado/2023/col-20231114-d2576.md |
 
 ### art. 13
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 13, inciso II | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | — | intermediacao | Proposta de termo de compromisso de agente autônomo de investimento por administração irregular de carteira, recebimento de recursos de clientes em conta pessoal e envio de extratos (ICVM 497/2011, art. 13, II, IV e VIII). Proposta intempestiva; a relatora entendeu haver interesse público para sua apreciação. | cvm/colegiado/2023/col-20231114-d2576.md |
-| art. 13, inciso IV | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | — | intermediacao | Proposta de termo de compromisso de agente autônomo de investimento por administração irregular de carteira, recebimento de recursos de clientes em conta pessoal e envio de extratos (ICVM 497/2011, art. 13, II, IV e VIII). Proposta intempestiva; a relatora entendeu haver interesse público para sua apreciação. | cvm/colegiado/2023/col-20231114-d2576.md |
+| art. 13, inciso II | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | processual | O Colegiado, por unanimidade, acompanhando o voto da Relatora, não conheceu da proposta de termo de compromisso de agente autônomo de investimento em PAS da SMI, por intempestividade (apresentada após o prazo do art. 82, §2º, da RCVM 45/2021). Não houve análise de mérito. | cvm/colegiado/2023/col-20231114-d2576.md |
+| art. 13, inciso IV | termo-compromisso | 19957.009335/2021-55 | 2023-11-14 | outro | processual | O Colegiado, por unanimidade, acompanhando o voto da Relatora, não conheceu da proposta de termo de compromisso de agente autônomo de investimento em PAS da SMI, por intempestividade (apresentada após o prazo do art. 82, §2º, da RCVM 45/2021). Não houve análise de mérito. | cvm/colegiado/2023/col-20231114-d2576.md |
 
 ## in-538
 
@@ -224,4 +224,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | auditoria-independente | Rejeitada, por unanimidade, proposta conjunta de termo de compromisso de firma de auditoria e de sócios responsáveis técnicos por falhas na auditoria da Rossi Residencial S.A. (exercícios de 2010 e 2011): Instrução CVM 308/1999, art. 20; NBC TA 705 e 200. Proposta de R$ 50.000,00; Comitê considerou inconveniente qualquer acordo. | cvm/colegiado/2016/col-20160823-d0335.md |
+| termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | auditoria-independente | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso da Ernst & Young Auditores Independentes S/S e de dois responsáveis técnicos, de R$ 50.000,00, por considerar inconveniente a celebração diante da natureza e gravidade do caso. | cvm/colegiado/2016/col-20160823-d0335.md |

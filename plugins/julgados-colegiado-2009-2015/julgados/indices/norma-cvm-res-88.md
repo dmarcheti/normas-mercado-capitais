@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0088.md](../../../normas/normas/cvm/resolucoes/0088.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | Recurso da IASA contra decisão da SEP que negou a conversão de registro de companhia aberta em companhia incentivada. Negado provimento: o cancelamento segue o art. 4º, §4º, da Lei 6.404/76 e as IN CVM 361/02 e 480/09; há cerca de 460 acionistas minoritários. | cvm/colegiado/2012/col-20120529-d04.md |
+| decisao-colegiado | RJ2011/8667 | 2012-05-29 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da IASA – Indústria de Azulejos da Bahia S.A. contra decisão da SEP que indeferiu conversão de registro de companhia aberta em companhia incentivada. Pelo voto do relator, o registro decorre da Resolução CMN 436/77 e há cerca de 460 acionistas minoritários a proteger. | cvm/colegiado/2012/col-20120529-d04.md |

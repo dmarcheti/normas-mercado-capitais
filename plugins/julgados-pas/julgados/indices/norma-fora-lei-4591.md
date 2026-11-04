@@ -17,7 +17,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 | pas | 19957.006087/2020-18 | 2024-07-16 | absolvicao | ofertas-publicas | Apurar suposta oferta pública de contratos de investimento coletivo hoteleiro, sem a prévia obtenção de registro perante a CVM ou sua dispensa, em infração ao art. 19, caput, e § 5°, inciso I, da Lei nº 6.385/1976, e ao art. 5º da Instrução CVM nº 602/2018. Absolvição | cvm/pas/2024/19957-006087-2020-18.md |
 | pas | 19957.004989/2021-92 | 2024-04-02 | condenacao | ofertas-publicas | Oferta pública de contratos de investimento coletivo, sem prévia obtenção de registro perante a CVM ou sua dispensa, em infração ao art. 19 e §5º, I, da Lei 6.385, e aos arts. 2º e 4º da Instrução CVM 400/2003. Multas. | cvm/pas/2024/19957-004989-2021-92.md |
 | pas | 19957.010195/2021-68 | 2023-11-21 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública de valores mobiliários, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2023/19957-010195-2021-68.md |

@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0082.md](../../../normas/normas/cvm/resolucoes/0082.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.006971/2019-19 | 2022-03-23 | outro | normativo | Proposta de resolução. Proc. SEI 19957.006971/2019-19. | cvm/colegiado/2022/col-20220323-d2539.md |
+| decisao-colegiado | 19957.006971/2019-19 | 2022-03-23 | outro | fundos-investimento | Proposta de resolução. Proc. SEI 19957.006971/2019-19. | cvm/colegiado/2022/col-20220323-d2539.md |

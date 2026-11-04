@@ -14,4 +14,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 58 | decisao-colegiado | RJ2012/1312 | 2012-02-16 | — | assembleia-acionistas | Recurso da Dynamo contra decisão da SEP sobre direito de recesso na reorganização da Telemar Norte Leste. Marco de titularidade (23/05/11) e empréstimo de ações. SEP manteve seu entendimento e propôs envio ao Colegiado. | cvm/colegiado/2012/col-20120216-d10.md |
+| art. 58 | decisao-colegiado | RJ2012/1312 | 2012-02-16 | nao-provido | assembleia-acionistas | Em recurso da Dynamo contra entendimento da SEP, o Colegiado, por unanimidade, decidiu que acionistas que emprestaram ações da TNL em 24/05/11 ou depois tiveram prejudicado o direito de recesso, e fixou como marco inicial o fato relevante de 24/05/11 (art. 137, § 1º, da Lei 6.404/76), em consonância com a área técnica. | cvm/colegiado/2012/col-20120216-d10.md |

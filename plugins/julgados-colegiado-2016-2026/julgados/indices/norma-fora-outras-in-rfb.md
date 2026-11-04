@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | indeferido | securitizacao | Recurso contra entendimento da SRE que negou registro de oferta de CRA lastreado em debêntures de rede de restaurantes, cujos recursos financiariam aquisição de carne in natura de fornecedores do agronegócio. Relator votou pelo provimento, com condicionantes, por interpretação teleológica do § 1º do art. 23 da Lei 11.076/2004. | cvm/colegiado/2016/col-20160830-d0291.md |
+| decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | securitizacao | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com lastro em debêntures da BK Brasil. Condicionou o registro à previsão, na escritura, de prestação trimestral com notas fiscais da compra de carne dos fornecedores, verificada pelo agente fiduciário. | cvm/colegiado/2016/col-20160830-d0291.md |
 
 ## in-rfb-1183
 
@@ -30,7 +30,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 35, § 3º | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | indeferido | securitizacao | Recurso contra exigências da SRE ao registro de oferta de CRI lastreados em debêntures cujos recursos reembolsariam a aquisição de imóvel pela própria devedora. Operação sem substância econômica e sem destinação a projeto imobiliário não constitui crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução CVM 414). Recurso não provido. | cvm/colegiado/2017/col-20170626-d0603.md |
+| art. 35, § 3º | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | cvm/colegiado/2017/col-20170626-d0603.md |
 
 ## in-rfb-1717
 
@@ -38,7 +38,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003841/2018-35 | 2021-04-20 | indeferido | contabil-demonstracoes | Recurso contra decisão da SEP que determinou refazimento e republicação de DFs e DFPs de 2017 a 2019 e ITRs de 2018 a 2020, por reconhecimento de ativo fiscal diferido sem atendimento ao CPC 32 e à Instrução CVM 371/2002. Colegiado indeferiu o recurso. | cvm/colegiado/2021/col-20210420-d2053.md |
+| decisao-colegiado | 19957.003841/2018-35 | 2021-04-20 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da Metalgráfica Iguaçu S.A. e manteve a determinação da SEP de refazer DFs de 2017 a 2019 e ITRs de 2018 a 2020, com republicação (ou Fato Relevante). Motivo: ativo fiscal diferido sem comprovação de lucros tributáveis futuros (Instrução CVM 371/2002). | cvm/colegiado/2021/col-20210420-d2053.md |
 
 ## in-rfb-1888
 
@@ -46,4 +46,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.010108/2021-72 | 2022-01-11 | parcial | criptoativos | Recurso da Equals9 contra decisão da SRE sobre dispensa de registro de oferta de token de utilidade EQ9. O Colegiado entendeu que o token, nos termos apresentados, não configura contrato de investimento coletivo (art. 2º, IX, da Lei 6.385/1976). Provido parcialmente, com negativa do pleito de dispensa. | cvm/colegiado/2022/col-20220111-d2453.md |
+| decisao-colegiado | 19957.010108/2021-72 | 2022-01-11 | parcial | criptoativos | O Colegiado deu provimento parcial a recurso da Equals9 contra decisão da SRE sobre dispensa de registro de oferta de tokens EQ9. Reconheceu que o token, nos termos apresentados, não é valor mobiliário nem CIC, mas negou a dispensa por não haver competência da CVM sobre a oferta, acompanhando as áreas técnicas. | cvm/colegiado/2022/col-20220111-d2453.md |

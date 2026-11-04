@@ -11,10 +11,10 @@ Norma: [cmn/resolucoes/2907.md](../../../normas/normas/cmn/resolucoes/2907.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, § 1º | decisao-colegiado | RJ2012/6672 | 2012-08-28 | deferido | fundos-investimento | Pedido de dispensa do art. 32 da Instrução CVM 356/01 para que a Root Capital - Gestão de Recursos Ltda., autorizada à administração de carteira, administre o Union National FIDC em liquidação. Colegiado deferiu, sem prejuízo aos cotistas; área técnica ressalvou a Resolução CMN 2.907/01. | cvm/colegiado/2012/col-20120828-d21.md |
+| art. 1º, § 1º | decisao-colegiado | RJ2012/6672 | 2012-08-28 | deferido | fundos-investimento | O Colegiado concedeu a dispensa pleiteada do art. 32 da Instrução CVM 356/01 para que a Root Capital Gestão de Recursos Ltda. administre o Union National FIDC em liquidação, excluídas algumas atividades dos arts. 34, 46, 48, 53-A e 57. Acompanhou a SIN e o voto de um diretor que pedira vista na reunião de 17.07.12. | cvm/colegiado/2012/col-20120828-d21.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 356/2001; RJ2015/2614 | 2015-05-26 | deferido | fundos-investimento | Pedido de dispensa do inciso II do §7º do art. 38 da Instrução CVM 356/2001 (redação da ICVM 531/2013) para que cedentes guardem a documentação dos direitos creditórios do Itapeva VII (FIDC NP), formulado pela Gradual CCTVM. Deferido por maioria, condicionado ao cumprimento cumulativo das exigências da área técnica. | cvm/colegiado/2015/col-20150526-d9654.md |
+| decisao-colegiado | 356/2001; RJ2015/2614 | 2015-05-26 | deferido | fundos-investimento | O Colegiado, por maioria, deferiu à administradora Gradual CCTVM S.A. a dispensa do art. 38, §7º, II, da ICVM 356/2001 para o Itapeva VII Multicarteira FIDC-NP, permitindo aos cedentes guardar os documentos dos direitos creditórios, desde que atendidas as exigências da área técnica (Memorando 16/2015-CVM/SIN/GIE). Vencido um diretor. | cvm/colegiado/2015/col-20150526-d9654.md |

@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0101.md](../../../normas/normas/cvm/resolucoes/0101.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2010/15761 | 2010-12-09 | aceito | divulgacao-informacoes | Termo de compromisso da Vivendi S.A., acusada de divulgar fato relevante incompleto e impreciso e de negociar com informação relevante não divulgada na aquisição do controle da GVT (Instrução CVM 358/02, arts. 3º, § 5º, e 13, § 1º; Lei 6.404/76, art. 155, § 4º). Aceito pelo Colegiado, com pagamento de R$ 150.000.000,00 à CVM. | cvm/colegiado/2010/col-20101209-d01.md |
+| termo-compromisso | RJ2010/15761 | 2010-12-09 | aceito | manipulacao-fraude | O Colegiado aceitou a proposta aditada de termo de compromisso da Vivendi S.A., no valor de R$ 150.000.000,00, contra manifestação desfavorável do Comitê, por entender que o valor é proporcional à gravidade das imputações no processo sobre a aquisição do controle da GVT (Holding) S.A. | cvm/colegiado/2010/col-20101209-d01.md |

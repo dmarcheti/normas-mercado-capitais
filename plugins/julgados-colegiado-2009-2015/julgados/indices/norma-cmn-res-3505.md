@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/3505.md](../../../normas/normas/cmn/resolucoes/3505.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | ofertas-publicas | Pedido de dispensa de requisitos de registro de oferta pública de derivativos Forex, incluindo registro de companhia aberta e contratação de instituição intermediária. O Colegiado, por unanimidade, arquivou o processo, pois faltavam a autorização do Banco Central e o cumprimento das exigências da área técnica. | cvm/colegiado/2013/col-20130625-d02.md |
+| decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | ofertas-publicas | O Colegiado, por unanimidade, arquivou o pedido de dispensas de requisitos para oferta pública de derivativos Forex do Didier Levy Associados Holding Financeira S.A. O voto da relatora era favorável às dispensas, mas o pedido ficou prejudicado pela falta de autorização do BACEN ao ofertante e pelo descumprimento das exigências da área técnica. | cvm/colegiado/2013/col-20130625-d02.md |

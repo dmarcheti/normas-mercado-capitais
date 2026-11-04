@@ -17,11 +17,11 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 25 | decisao-colegiado | RJ1999/3264 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
+| art. 25 | decisao-colegiado | RJ1999/3264 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
 | art. 25 | decisao-colegiado | RJ1999/3976 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3976. | cvm/colegiado/2008/col-20080930-d08.md |
-| art. 25 | decisao-colegiado | RJ1999/4872 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
-| art. 25 | decisao-colegiado | RJ2002/0104 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
-| art. 25 | decisao-colegiado | RJ2002/4458 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
+| art. 25 | decisao-colegiado | RJ1999/4872 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
+| art. 25 | decisao-colegiado | RJ2002/0104 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
+| art. 25 | decisao-colegiado | RJ2002/4458 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
 | art. 25 | decisao-colegiado | RJ2007/2098 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2098. | cvm/colegiado/2008/col-20080930-d12.md |
 | art. 25 | decisao-colegiado | RJ1999/2735 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2735. | cvm/colegiado/2008/col-20081007-d04.md |
 | art. 25 | decisao-colegiado | RJ1999/2464 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2464. | cvm/colegiado/2008/col-20081021-d05.md |
@@ -42,10 +42,10 @@ Norma: fora do acervo.
 | art. 25 | decisao-colegiado | RJ2002/5940 | 2008-12-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5940. | cvm/colegiado/2008/col-20081202-d04.md |
 | art. 25 | decisao-colegiado | RJ2002/3904 | 2008-12-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3904. | cvm/colegiado/2008/col-20081202-d05.md |
 | art. 25 | decisao-colegiado | RJ2002/4355 | 2008-12-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4355. | cvm/colegiado/2008/col-20081209-d04.md |
-| art. 25, parágrafo único | decisao-colegiado | RJ1999/3264 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
+| art. 25, parágrafo único | decisao-colegiado | RJ1999/3264 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
 | art. 25, parágrafo único | decisao-colegiado | RJ1999/3976 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3976. | cvm/colegiado/2008/col-20080930-d08.md |
-| art. 25, parágrafo único | decisao-colegiado | RJ1999/4872 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
-| art. 25, parágrafo único | decisao-colegiado | RJ2002/0104 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
+| art. 25, parágrafo único | decisao-colegiado | RJ1999/4872 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
+| art. 25, parágrafo único | decisao-colegiado | RJ2002/0104 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
 | art. 25, parágrafo único | decisao-colegiado | RJ2007/2098 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2098. | cvm/colegiado/2008/col-20080930-d12.md |
 | art. 25, parágrafo único | decisao-colegiado | RJ1999/2464 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2464. | cvm/colegiado/2008/col-20081021-d05.md |
 | art. 25, parágrafo único | decisao-colegiado | RJ1999/2878 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2878. | cvm/colegiado/2008/col-20081021-d06.md |
@@ -57,11 +57,11 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 26 | decisao-colegiado | RJ1999/3264 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
+| art. 26 | decisao-colegiado | RJ1999/3264 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
 | art. 26 | decisao-colegiado | RJ1999/3976 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3976. | cvm/colegiado/2008/col-20080930-d08.md |
-| art. 26 | decisao-colegiado | RJ1999/4872 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
-| art. 26 | decisao-colegiado | RJ2002/0104 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
-| art. 26 | decisao-colegiado | RJ2002/4458 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
+| art. 26 | decisao-colegiado | RJ1999/4872 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
+| art. 26 | decisao-colegiado | RJ2002/0104 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
+| art. 26 | decisao-colegiado | RJ2002/4458 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
 | art. 26 | decisao-colegiado | RJ2007/2098 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2098. | cvm/colegiado/2008/col-20080930-d12.md |
 | art. 26 | decisao-colegiado | RJ1999/2735 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2735. | cvm/colegiado/2008/col-20081007-d04.md |
 | art. 26 | decisao-colegiado | RJ1999/2464 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2464. | cvm/colegiado/2008/col-20081021-d05.md |

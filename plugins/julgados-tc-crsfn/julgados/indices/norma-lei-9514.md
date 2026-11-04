@@ -12,19 +12,19 @@ Norma: [leis/lei-09514.md](../../../normas/normas/leis/lei-09514.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 6º | termo-compromisso | 19957.003953/2021-91; 19957.004982/2021-71 | 2022-11-22 | aceito | administracao-carteiras | Apreciação de proposta de termo de compromisso. PAS 19957.003953/2021-91 e 19957.004982/2021-71. | cvm/colegiado/2022/col-20221122-d2566-2657.md |
-| art. 6º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | Proposta conjunta de termo de compromisso de administradora fiduciária de FIDC e de seu diretor responsável, por falha na fiscalização de gestora e aquisição de ativos sem lastro (arts. 90, X, e 92, I, da ICVM 555/2014). Proposta de R$ 450.000,00; Comitê recomendou rejeição. | cvm/colegiado/2023/col-20230207-d2567.md |
+| art. 6º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso da Singulare Corretora e de seu diretor responsável, acompanhando a conclusão do Comitê, por entender insuficientes os valores para desestimular práticas semelhantes. Acusação: fiscalização da gestora e compra de ativos sem lastro (ICVM 555, art. 90, X). | cvm/colegiado/2023/col-20230207-d2567.md |
 
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | Proposta conjunta de termo de compromisso de administradora fiduciária de FIDC e de seu diretor responsável, por falha na fiscalização de gestora e aquisição de ativos sem lastro (arts. 90, X, e 92, I, da ICVM 555/2014). Proposta de R$ 450.000,00; Comitê recomendou rejeição. | cvm/colegiado/2023/col-20230207-d2567.md |
+| art. 8º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso da Singulare Corretora e de seu diretor responsável, acompanhando a conclusão do Comitê, por entender insuficientes os valores para desestimular práticas semelhantes. Acusação: fiscalização da gestora e compra de ativos sem lastro (ICVM 555, art. 90, X). | cvm/colegiado/2023/col-20230207-d2567.md |
 
 ## art. 13
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 13, § 2º | termo-compromisso | 12/2009 | 2011-05-10 | aceito | securitizacao | Aceitação de propostas de termo de compromisso da CSA – Companhia Securitizadora de Ativos, de administradores e do agente fiduciário Pavarini DTVM, acusados em oferta pública de CRI de informações falsas, tendenciosas ou omissas (art. 9º da Instrução CVM 284/98 c/c art. 56 da Instrução CVM 400/03) e de falta de diligência. | cvm/colegiado/2011/col-20110510-d07.md |
+| art. 13, § 2º | termo-compromisso | 12/2009 | 2011-05-10 | aceito | securitizacao | O Colegiado aceitou as propostas de termo de compromisso no PAS 12/2009, sobre oferta de CRI da CSA – Companhia Securitizadora de Ativos (2004): R$ 100.000,00 cada para dois diretores; R$ 50.000,00 cada para três conselheiros; R$ 75.000,00 para a Pavarini DTVM, agente fiduciário. Acompanhou o Comitê. | cvm/colegiado/2011/col-20110510-d07.md |
 
 ## art. 27
 

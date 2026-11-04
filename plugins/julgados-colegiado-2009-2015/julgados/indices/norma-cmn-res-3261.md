@@ -11,11 +11,11 @@ Norma: [cmn/resolucoes/3261.md](../../../normas/normas/cmn/resolucoes/3261.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º, inciso I | decisao-colegiado | 19957.003435/2015-20 | 2015-12-15 | outro | multa-cominatoria-taxa | Consulta da SMI sobre multas cominatórias a cooperativas de crédito pela não entrega da DEC (Instrução CVM 510/2011). O Colegiado determinou à SDM minuta que exclua as cooperativas do Anexo I e permita cancelar ou suspender o cadastro após duas DECs não enviadas. | cvm/colegiado/2015/col-20151215-d9975.md |
+| art. 2º, inciso I | decisao-colegiado | 19957.003435/2015-20 | 2015-12-15 | outro | normativo | O Colegiado determinou à SDM a elaboração de minuta de instrução contemplando as sugestões da SMI sobre a falta de DEC (ICVM 510/2011) de cooperativas de crédito e outras entidades da ICVM 424/2005: excluí-las do Anexo I da ICVM 510 e permitir cancelar ou suspender o cadastro após duas DECs consecutivas não enviadas. Fundamento: características específicas dos participantes. | cvm/colegiado/2015/col-20151215-d9975.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | infraestrutura-mercado | Pedido de autorização para prestação do serviço de escrituração de cotas para terceiros. Proc. RJ2011/12846. | cvm/colegiado/2012/col-20120424-d05.md |
-| decisao-colegiado | SP2007/0183 | 2009-08-04 | indeferido | intermediacao | Pedido de registro do Banco de Desenvolvimento de Minas Gerais para atuar na distribuição primária e secundária de valores mobiliários. Indeferido: o art. 26 do Regulamento anexo à Resolução CMN 394/76 não prevê atuação como underwriter, nos termos dos arts. 15 e 16 da Lei 6.385/76. Sugerido o Convênio CVM/Bacen. | cvm/colegiado/2009/col-20090804-d05.md |
+| decisao-colegiado | SP2007/0183 | 2009-08-04 | indeferido | intermediacao | O Colegiado indeferiu o pedido do Banco de Desenvolvimento de Minas Gerais S.A. de registro para atuar na distribuição primária e secundária de valores mobiliários. Segundo o voto do relator, o Regulamento Anexo à Resolução CMN 394/76 não prevê essa atuação. Acompanhando a área técnica, sugeriu o pleito ao Convênio CVM/Bacen. | cvm/colegiado/2009/col-20090804-d05.md |

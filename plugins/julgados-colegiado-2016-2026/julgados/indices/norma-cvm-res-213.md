@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0213.md](../../../normas/normas/cvm/resolucoes/0213.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 04/2024; 19957.005248/2024-71 | 2024-09-18 | outro | contabil-demonstracoes | Aprovada a Resolução CVM 213/2024, que aprova a revisão do Pronunciamento Técnico CPC 27 (perda de conversibilidade), após a Consulta Pública SNC 04/2024, incorporando o documento Lack of Exchangeability (ago/2023) aos CPC 02 (R2) e CPC 37 (R1). AIR dispensada (art. 4º, VI, do Decreto 10.411/2020). | cvm/colegiado/2024/col-20240918-d3099.md |
+| decisao-colegiado | 04/2024; 19957.005248/2024-71 | 2024-09-18 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM 213/2024, que aprova a Revisão do Pronunciamento Técnico CPC 27 (Perda de Conversibilidade), alinhada ao documento Lack of Exchangeability (IASB, ago/2023). A norma não foi submetida à AIR, nos termos do art. 4º, VI, do Decreto 10.411/2020. | cvm/colegiado/2024/col-20240918-d3099.md |

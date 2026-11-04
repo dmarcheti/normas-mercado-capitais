@@ -63,8 +63,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | infraestrutura-mercado | Pedido de reconsideração da TOV CCTVM contra decisão sobre admissão de associado na BM&F. Conhecido em parte: múltiplos processos admissionais por categoria não violam a regulação, se precisos; o direito de convocar assembleia deve ser comunicado em prazo razoável, com convocação conforme o estatuto. | cvm/colegiado/2005/col-20051227-d03.md |
-| decisao-colegiado | RJ2004/6153 | 2005-05-31 | indeferido | infraestrutura-mercado | Recurso da bolsa contra entendimento da SMI sobre denegação de admissão de corretora como associada. Decidiu-se que a cláusula estatutária que dispensa motivação não viola a regulamentação, mas assegurou à corretora o direito de pedir assembleia de reforma. | cvm/colegiado/2005/col-20050531-d01.md |
+| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | infraestrutura-mercado | O Colegiado conheceu em parte do pedido de reconsideração da TOV CCTVM e rejeitou o restante. Entendeu que estatutos com múltiplos processos admissionais não violam a regulação e que a lista de associados pedida antes de assembleia é lícita, restrita aos associados com direito de voto. | cvm/colegiado/2005/col-20051227-d03.md |
+| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | infraestrutura-mercado | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a regulamentação, contrariando o entendimento da SMI. Assegurou à corretora o direito de pedir convocação de assembleia para reexame, em quinze dias, diante da omissão do estatuto. | cvm/colegiado/2005/col-20050531-d01.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | cvm/decisoes-antigas/1989.md |

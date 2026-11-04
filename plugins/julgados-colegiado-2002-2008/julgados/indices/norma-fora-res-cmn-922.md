@@ -50,7 +50,7 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 78 | decisao-colegiado | RJ90/0386 | 2005-01-11 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ90/0386. | cvm/colegiado/2005/col-20050111-d01.md |
-| art. 78 | decisao-colegiado | RJ1990/0386 | 2005-04-12 | deferido | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm/colegiado/2005/col-20050412-d01.md |
+| art. 78 | decisao-colegiado | RJ1990/0386 | 2005-04-12 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm/colegiado/2005/col-20050412-d01.md |
 | art. 78 | decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | cvm/decisoes-antigas/1986.md |
 | art. 78 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
 | art. 78, parágrafo único | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | cvm/decisoes-antigas/1988.md |
@@ -66,15 +66,15 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 82 | decisao-colegiado | RJ90/0386 | 2005-01-11 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ90/0386. | cvm/colegiado/2005/col-20050111-d01.md |
-| art. 82 | decisao-colegiado | RJ1990/0386 | 2005-04-12 | deferido | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm/colegiado/2005/col-20050412-d01.md |
+| art. 82 | decisao-colegiado | RJ1990/0386 | 2005-04-12 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado relativa a fundo de garantia. Proc. RJ1990/0386. | cvm/colegiado/2005/col-20050412-d01.md |
 | art. 82 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/6153 | 2005-05-31 | indeferido | infraestrutura-mercado | Recurso da bolsa contra entendimento da SMI sobre denegação de admissão de corretora como associada. Decidiu-se que a cláusula estatutária que dispensa motivação não viola a regulamentação, mas assegurou à corretora o direito de pedir assembleia de reforma. | cvm/colegiado/2005/col-20050531-d01.md |
-| decisao-colegiado | RJ90/0387 | 2005-01-31 | indeferido | infraestrutura-mercado | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm/colegiado/2005/col-20050131-d01.md |
+| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | infraestrutura-mercado | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a regulamentação, contrariando o entendimento da SMI. Assegurou à corretora o direito de pedir convocação de assembleia para reexame, em quinze dias, diante da omissão do estatuto. | cvm/colegiado/2005/col-20050531-d01.md |
+| decisao-colegiado | RJ90/0387 | 2005-01-31 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado em processo de fundo de garantia. Proc. RJ90/0387. | cvm/colegiado/2005/col-20050131-d01.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |

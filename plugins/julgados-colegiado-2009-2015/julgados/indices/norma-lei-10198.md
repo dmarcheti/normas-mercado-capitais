@@ -11,4 +11,4 @@ Norma: [leis/lei-10198.md](../../../normas/normas/leis/lei-10198.md) (texto vige
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | normativo | Colegiado decidiu que créditos de carbono (RCE) não são valores mobiliários, mas ativos comercializáveis para cumprimento de metas ou com objetivo de investimento. Produtos derivados serão analisados caso a caso, e a necessidade de regulamentar fundos e estruturas de financiamento de projetos MDL ficou para exame futuro. | cvm/colegiado/2009/col-20090707-d07.md |
+| decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | normativo | O Colegiado concluiu que créditos de carbono não são valores mobiliários, mas ativos comercializáveis para cumprir metas de redução de emissão ou como investimento, com base em voto de diretor. Entendeu inconveniente caracterizá-los por lei; decidiu analisar no futuro a regulamentação, inclusive dos derivativos, caso a caso. | cvm/colegiado/2009/col-20090707-d07.md |

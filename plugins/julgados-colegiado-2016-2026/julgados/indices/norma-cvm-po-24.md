@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0024.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2012/8386 | 2018-10-02 | indeferido | assembleia-acionistas | Recurso da Energisa contra decisão da SEP de não instaurar PAS contra administradores da Companhia Industrial Cataguases por distribuição de lucros de 2007 a 2011. Discute-se se a retenção de lucros do art. 196 da Lei 6.404/76 sujeita-se ao limite do art. 199. Relator propôs inadmissão; um diretor divergiu no ponto. | cvm/colegiado/2018/col-20181002-d8596.md |
+| decisao-colegiado | RJ2012/8386 | 2018-10-02 | conhecimento | deveres-administradores | O Colegiado inadmitiu recurso da Energisa S.A. quanto à não instauração de PAS pela SEP contra administradores da Companhia Industrial Cataguases e indeferiu o refazimento das DFs de 2007 a 2011. Por maioria, decidiu que a retenção de lucros do art. 196 da Lei 6.404/76 não se sujeita ao limite do art. 199, vencido o relator. | cvm/colegiado/2018/col-20181002-d8596.md |

@@ -8,8 +8,8 @@ nup: 19957-003818-2018-41
 rito:
 data: 2018-05-15
 relator: SRE/GER-1
-resultado: outro
-ementa: Pedido de reconsideração da Eletropaulo contra decisão do Colegiado sobre o processo competitivo de OPAs concorrentes (Neoenergia e Enel), alegando que o compromisso de capitalização de uma das ofertas as tornaria distintas. A SRE não identificou erro, omissão ou contradição. Colegiado, por unanimidade, não conheceu do pedido.
+resultado: conhecimento
+ementa: O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de pedido de reconsideração da Eletropaulo sobre o procedimento de leilão nas OPAs concorrentes para aquisição de controle. Segundo a SRE, não houve erro, omissão ou contradição na decisão anterior, e as ofertas eram materialmente similares.
 ementa_fonte: extracao
 tema: processual
 tema_fonte: extracao

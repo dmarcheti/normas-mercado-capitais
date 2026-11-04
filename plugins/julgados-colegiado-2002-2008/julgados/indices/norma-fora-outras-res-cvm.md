@@ -23,7 +23,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP2001/0227 | 2003-05-13 | indeferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
+| decisao-colegiado | SP2001/0227 | 2003-05-13 | provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
 
 ## res-cvm-2
 
@@ -31,7 +31,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | SP2001/0227 | 2003-05-13 | indeferido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
+| decisao-colegiado | SP2001/0227 | 2003-05-13 | provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2003/col-20030513-d04.md |
 | decisao-colegiado | SP2001/0227 | 2002-10-15 | outro | processual | Recurso em processo de fundo de garantia. Proc. SP2001/0227. | cvm/colegiado/2002/col-20021015-d04.md |
 
 ## res-cvm-18
@@ -48,7 +48,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/7164 | 2005-03-01 | indeferido | administracao-carteiras | Recurso contra indeferimento de credenciamento para administração de carteira de valores mobiliários, por falta de experiência profissional (art. 4º, II, da Instrução CVM 306/99). Notório saber e elevada qualificação (§2º do mesmo artigo) não comprovados; recurso julgado improcedente. | cvm/colegiado/2005/col-20050301-d09.md |
+| decisao-colegiado | RJ2004/7164 | 2005-03-01 | nao-provido | administracao-carteiras | O Colegiado julgou improcedente recurso contra indeferimento pela SIN de credenciamento de pessoa física para administrar carteira de valores mobiliários, acompanhando o voto do relator. Fundamento: não comprovou experiência no mercado de capitais nem notório saber e elevada qualificação, nem qualificação suficiente para dispensa dessas exigências. | cvm/colegiado/2005/col-20050301-d09.md |
 
 ## res-cvm-39
 
@@ -56,7 +56,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2004/6153 | 2005-05-31 | indeferido | infraestrutura-mercado | Recurso da bolsa contra entendimento da SMI sobre denegação de admissão de corretora como associada. Decidiu-se que a cláusula estatutária que dispensa motivação não viola a regulamentação, mas assegurou à corretora o direito de pedir assembleia de reforma. | cvm/colegiado/2005/col-20050531-d01.md |
+| art. 2º | decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | infraestrutura-mercado | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a regulamentação, contrariando o entendimento da SMI. Assegurou à corretora o direito de pedir convocação de assembleia para reexame, em quinze dias, diante da omissão do estatuto. | cvm/colegiado/2005/col-20050531-d01.md |
 
 ### art. 20
 
@@ -155,8 +155,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/4232 | 2004-08-18 | deferido | ofertas-publicas | Pedido de aprovação de procedimento de estabilização de preço e de dispensas na distribuição secundária de ações preferenciais da WEG S.A., com ofertantes Bradesco Templeton (fundo FVL), Previ e BNDES (FPS). Colegiado deferiu as dispensas pleiteadas, inclusive a do art. 9º da Instrução CVM 10/80 quanto à alienação de ações em tesouraria. | cvm/colegiado/2004/col-20040818-d04.md |
-| decisao-colegiado | 236/2003 | 2003-11-18 | deferido | ofertas-publicas | Aprovação de contrato de estabilização de preço das ações preferenciais da Suzano Papel e Celulose no âmbito de distribuição pública primária e secundária, conduzido pelo Banco UBS. Colegiado aprovou nos termos da minuta; o procedimento pode configurar manipulação de preço e exige análise caso a caso. | cvm/colegiado/2003/col-20031118-d06.md |
+| decisao-colegiado | RJ2004/4232 | 2004-08-18 | deferido | ofertas-publicas | O Colegiado deferiu as dispensas pleiteadas na distribuição secundária de ações preferenciais da WEG S.A., com procedimento de estabilização, e a dispensa do art. 9º da Instrução 10/80 para alienar ações em tesouraria em bolsa, com base nas manifestações favoráveis da SRE e da SEP. | cvm/colegiado/2004/col-20040818-d04.md |
+| decisao-colegiado | 236/2003 | 2003-11-18 | deferido | ofertas-publicas | O Colegiado aprovou o contrato de estabilização de preço das ações preferenciais da Cia. Suzano de Papel e Celulose, nos termos do memorando da SRE, para evitar oscilações abruptas em relação ao preço da oferta. A área técnica recomendou a aprovação, por não haver norma específica e por o mecanismo exigir análise caso a caso. | cvm/colegiado/2003/col-20031118-d06.md |
 
 ## res-cvm-49-1995
 
@@ -164,7 +164,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/6511 | 2005-03-08 | indeferido | contabil-demonstracoes | Pedido de reconsideração de decisão que determinou refazer e republicar as demonstrações de 31.12.03 da Indústrias Arteb S.A. Indeferido quanto à ativação de crédito-prêmio do IPI (R$ 23,2 milhões): discussão judicial pendente e não conformidade ao Parecer de Orientação 15/87 e à Interpretação Técnica IBRACON 03/02, pelo conservadorismo. | cvm/colegiado/2005/col-20050308-d02.md |
+| decisao-colegiado | RJ2004/6511 | 2005-03-08 | nao-provido | contabil-demonstracoes | O Colegiado indeferiu o pedido de reconsideração da Indústrias Arteb S.A. sobre o refazimento e a republicação das demonstrações financeiras de 31.12.03, acompanhando SEP e SNC: a ativação do crédito-prêmio do IPI (R$ 23.200 mil) não se conforma ao Parecer de Orientação 15/87 nem à Interpretação Técnica 03/02 do IBRACON. Confirmou o Ofício-Circular 001/05 sobre provisões, passivos e ativos contingentes. | cvm/colegiado/2005/col-20050308-d02.md |
 
 ## res-cvm-83
 
@@ -180,7 +180,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/4306 | 2003-12-16 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração da Companhia Energética de Brasília S.A. contra decisão que manteve multas cominatórias por atraso na entrega de ITRs e DFP de 2001 e 2002 (Instrução CVM 202/93; Deliberação CVM 463/03). Indeferido por não trazer fatos novos. | cvm/colegiado/2003/col-20031216-d02.md |
+| decisao-colegiado | RJ2003/4306 | 2003-12-16 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu pedido de reconsideração de decisão que aplicou multa cominatória à Companhia Energética de Brasília S.A. pelo atraso na entrega da 3ª ITR/2001, DFP/2001, 1ª ITR/2002 e 2ª ITR/2002, nos termos do voto da relatora. | cvm/colegiado/2003/col-20031216-d02.md |
 
 ## res-cvm-101-1999
 
@@ -188,7 +188,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/5718 | 2004-11-30 | outro | assembleia-acionistas | Pedido de reconhecimento do direito de voto de fundos minoritários para eleger conselheiros de Telemig e Tele Norte, suspenso por decisões judicial e da Anatel, com atuação da CVM como amicus curiae. Processo baixado em diligência para a SEP oficiar a Anatel. | cvm/colegiado/2004/col-20041130-d01.md |
+| decisao-colegiado | RJ2002/5718 | 2004-11-30 | outro | assembleia-acionistas | O Colegiado baixou em diligência para que a SEP oficie a Anatel sobre processos que suspenderam o direito de voto da Globalvest em Telemig e Tele Norte Celular. Vencida uma diretora, que reconhecia o direito de voto e determinava manifestação da CVM como amicus curiae. | cvm/colegiado/2004/col-20041130-d01.md |
 
 ## res-cvm-118
 
@@ -196,7 +196,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/0322 | 2007-01-30 | nao-provido | auditoria-independente | Recurso da Sul América Companhia Nacional de Seguros contra decisão da SNC sobre prazo do rodízio de auditor independente. Colegiado negou provimento: prevalece a Instrução CVM 308/99 sobre a Resolução CNSP 118/04, por ser companhia aberta, sem conflito aparente de normas. | cvm/colegiado/2007/col-20070130-d08.md |
+| decisao-colegiado | RJ2007/0322 | 2007-01-30 | nao-provido | auditoria-independente | O Colegiado negou provimento, por unanimidade, a recurso da Sul América Companhia Nacional de Seguros contra decisão da SNC que fixou o rodízio de auditor independente pelo art. 31 da Instrução 308/99. Acompanhando o relator, entendeu que não há conflito com a norma do CNSP e vale o prazo menor da CVM. | cvm/colegiado/2007/col-20070130-d08.md |
 
 ## res-cvm-150-1980
 
@@ -236,7 +236,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2000/4801 | 2002-02-14 | indeferido | processual | Pedido de reconsideração da corretora Walpires S.A. contra decisão do Colegiado que determinou indenização pelo Fundo de Garantia da Bovespa. Não cabe novo recurso fora do inciso VII da Deliberação CVM 202/96, e não há erro, contradição ou dúvida na decisão. Indeferido. | cvm/colegiado/2002/col-20020214-d03.md |
+| art. 2º | decisao-colegiado | RJ2000/4801 | 2002-02-14 | nao-provido | processual | O Colegiado acompanhou o voto do relator e indeferiu novo pedido de reconsideração da Walpires S.A. CCTVM contra decisão que mandou o Fundo de Garantia da Bovespa indenizar investidor. Fundamento: não cabe novo recurso, salvo erro material, contradição ou dúvida, e a instância administrativa se esgotou. | cvm/colegiado/2002/col-20020214-d03.md |
 | art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## res-cvm-211-2001
@@ -245,7 +245,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/2713 | 2002-08-30 | nao-provido | contabil-demonstracoes | Recurso da AES Tietê S.A. contra determinação da SEP de refazer e republicar demonstrações de 2001. Receita de R$ 53.132 mil de energia livre (Acordo Geral do Setor Elétrico) só pode ser reconhecida quando definitivamente realizável; controvérsia ainda pendente. Mantida a determinação; recurso não provido. | cvm/colegiado/2002/col-20020830-d04.md |
+| decisao-colegiado | RJ2002/2713 | 2002-08-30 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da AES Tietê S.A. e manteve a determinação da SEP de refazer e republicar as demonstrações de 31/12/2001. Fundamento: transações e eventos subsequentes não ajustados nem adequadamente revelados; a ANEEL entendeu que o valor da comercialização de energia ainda não tinha sido disponibilizado pelo MAE. | cvm/colegiado/2002/col-20020830-d04.md |
 
 ## res-cvm-231
 
@@ -261,7 +261,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | Pedido da SMI de reconsideração para uniformizar a autorização de agente autônomo de investimento. Colegiado manteve a exigência de comprovação de credenciamento por contrato com corretora, para pessoas registradas no RGA em 1º/06/2001 (Instrução CVM 355/01, art. 21, III). | cvm/colegiado/2005/col-20050408-d02.md |
+| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | cvm/colegiado/2005/col-20050408-d02.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 
 ## res-cvm-238-1994
@@ -294,19 +294,19 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 36 | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | fundos-investimento | Recurso da administradora de fundo de ações para investidores qualificados contra determinação da SIN de resgate de cotas de FIFs e de clube de investimento não qualificados. Provido: admitidos como quotistas, desde que restritos a investidores qualificados (arts. 98 e ss., Instrução CVM 302/99). | cvm/colegiado/2003/col-20030408-d01.md |
+| art. 36 | decisao-colegiado | RJ2002/3792 | 2003-04-08 | provido | fundos-investimento | O Colegiado deu provimento a recurso da Hedging-Griffo CV S.A., administradora do Tarpon HG Fundo de Investimento em Ações, contra decisão da SIN que determinou resgate do montante aplicado no fundo por FIFs, publicação de esclarecimentos na Gazeta Mercantil e supressão da palavra 'Tarpon' da denominação do fundo, nos termos do voto do diretor-relator. | cvm/colegiado/2003/col-20030408-d01.md |
 
 ### art. 42
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 42, § 2º | decisao-colegiado | RJ2005/0866 | 2006-01-31 | nao-provido | fundos-investimento | Recurso da Máxima S/A DTVM, administradora do Investvale (clube de investimento de empregados da Vale), contra indeferimento pela SIN de transformação em fundo aberto. Assembleia aprovou sem o quórum de 50% mais uma cota exigido pelo estatuto (art. 28, §3º). Colegiado negou provimento. | cvm/colegiado/2006/col-20060131-d10.md |
+| art. 42, § 2º | decisao-colegiado | RJ2005/0866 | 2006-01-31 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso da Máxima S/A DTVM, administradora do Investvale Clube de Investimento dos Empregados da Vale, contra indeferimento da SIN à transformação do clube em fundo aberto por não observância do quórum estatutário de 50% mais uma cota em assembleia de 02.02.05, pelos fundamentos do voto do relator. | cvm/colegiado/2006/col-20060131-d10.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | opa | Reclamação de acionistas minoritários para que a FEMCO, por integrar o grupo controlador da COSIPA, faça OPA pelas ações dos demais acionistas (art. 12 da Instrução CVM nº 299/99). Indeferido: conversão de debêntures do controlador não afeta a liquidez das ações em circulação; OPA por aumento de participação regida pela Instrução CVM nº 361/02. | cvm/colegiado/2002/col-20020830-d02.md |
+| decisao-colegiado | RJ2001/12009 | 2002-08-30 | indeferido | opa | O Colegiado não deferiu o pedido de acionistas minoritários da COSIPA para que a FEMCO realizasse oferta pública de aquisição de ações da companhia. Acompanhando o relator, com impedimento de uma diretora, aplicou a Instrução CVM 361/02 e entendeu não obrigatória a OPA por aumento de participação, pois as hipóteses não excederam os limites do art. 26. | cvm/colegiado/2002/col-20020830-d02.md |
 
 ## res-cvm-279
 
@@ -314,7 +314,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ99/5746 | 2002-03-12 | indeferido | infraestrutura-mercado | Pedido de reconsideração de decisão do Colegiado que manteve o ressarcimento, pelo Fundo de Garantia da BVRJ, a reclamante por irregularidades em ações custodiadas na CLC. Afastada a decadência, pois o prazo teve início com a informação efetiva em 30.09.1999. Sem fato novo, Colegiado rejeitou o pedido. | cvm/colegiado/2002/col-20020312-d03.md |
+| art. 3º | decisao-colegiado | RJ99/5746 | 2002-03-12 | nao-provido | intermediacao | O Colegiado negou provimento a pedido de reconsideração da Estratégia Investimentos S/A – CVC contra decisão que determinou ressarcimento pelo Fundo de Garantia da BVRJ. Manteve a decisão por não haver novos elementos nem erros materiais apontados; a decadência do direito não foi reconhecida. | cvm/colegiado/2002/col-20020312-d03.md |
 
 ## res-cvm-293
 
@@ -322,7 +322,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 384/2003 | 2003-07-29 | outro | infraestrutura-mercado | Colegiado aprovou a Resolução nº 293/03 do Conselho de Administração da Bovespa, nos termos do art. 3º da Instrução CVM nº 384/2003. | cvm/colegiado/2003/col-20030729-d02.md |
+| decisao-colegiado | 384/2003 | 2003-07-29 | outro | infraestrutura-mercado | O Colegiado aprovou a Resolução 293/03 do Conselho de Administração da Bovespa, apreciada nos termos do art. 3º da Instrução CVM 384/2003. | cvm/colegiado/2003/col-20030729-d02.md |
 
 ## res-cvm-294
 
@@ -346,7 +346,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | SP2006/0205 | 2006-11-22 | deferido | infraestrutura-mercado | Alteração do regulamento de formador de mercado em renda fixa da Bovespa para permitir mais de um formador para o mesmo ativo, quando justificado por condições especiais. Aprovada, com acompanhamento das operações pela área técnica para verificar eventual prejuízo ao mercado. | cvm/colegiado/2006/col-20061122-d08.md |
+| art. 3º | decisao-colegiado | SP2006/0205 | 2006-11-22 | outro | infraestrutura-mercado | O Colegiado aprovou alteração do regulamento de credenciamento e atuação do formador de mercado nos mercados de renda fixa da Bovespa, que permite a um mesmo contratante contratar mais de um formador para o mesmo ativo quando justificado por condições especiais. Determinou à SMI acompanhar as operações para verificar eventual prejuízo ao mercado. | cvm/colegiado/2006/col-20061122-d08.md |
 
 ## res-cvm-303
 
@@ -354,8 +354,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 34 | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | Consulta sobre aplicação de até 49% do patrimônio de clube de investimento em cotas de FIDC. Clubes não constam do rol de investidores qualificados do art. 109 da Instrução CVM 409/04, exigido pelo art. 3º, II, da Instrução CVM 356/01. Colegiado indeferiu também a autorização excepcional, por não ser oportuna enquanto a SDM revisa a regra dos clubes. | cvm/colegiado/2007/col-20070724-d01.md |
-| art. 34, § 2º, alínea a | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | Consulta sobre aplicação de até 49% do patrimônio de clube de investimento em cotas de FIDC. Clubes não constam do rol de investidores qualificados do art. 109 da Instrução CVM 409/04, exigido pelo art. 3º, II, da Instrução CVM 356/01. Colegiado indeferiu também a autorização excepcional, por não ser oportuna enquanto a SDM revisa a regra dos clubes. | cvm/colegiado/2007/col-20070724-d01.md |
+| art. 34 | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
+| art. 34, § 2º, alínea a | decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
 
 ## res-cvm-318
 
@@ -363,7 +363,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/5596 | 2006-11-22 | outro | infraestrutura-mercado | Consultas da Bovespa e de bolsa regional em liquidação sobre companhias incentivadas em listagem temporária. Colegiado acompanhou o voto: o registro permanece válido até a dissolução da bolsa regional, e a companhia pode registrar-se em outra bolsa para cumprir suas obrigações. | cvm/colegiado/2006/col-20061122-d03.md |
+| decisao-colegiado | RJ2006/5596 | 2006-11-22 | outro | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhou o voto do diretor que pediu vista sobre a listagem de companhias incentivadas em bolsa liquidanda: o registro permanece válido até a dissolução da bolsa, e, sem possibilidade de receber informações, a companhia deve solicitar registro em outra bolsa. | cvm/colegiado/2006/col-20061122-d03.md |
 
 ## res-cvm-320
 
@@ -371,7 +371,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | Consulta sobre aplicação de até 49% do patrimônio de clube de investimento em cotas de FIDC. Clubes não constam do rol de investidores qualificados do art. 109 da Instrução CVM 409/04, exigido pelo art. 3º, II, da Instrução CVM 356/01. Colegiado indeferiu também a autorização excepcional, por não ser oportuna enquanto a SDM revisa a regra dos clubes. | cvm/colegiado/2007/col-20070724-d01.md |
+| decisao-colegiado | — | 2007-07-24 | indeferido | fundos-investimento | O Colegiado indeferiu, por inoportunidade e inconveniência, autorização excepcional para que clube de investimento aplique até 49% do patrimônio em cotas de FIDC, pois a SDM estuda minuta de Instrução que altera a regulação de clubes. Pelo voto do relator, clubes não são investidores qualificados (Instrução 409/04, art. 109). | cvm/colegiado/2007/col-20070724-d01.md |
 
 ## res-cvm-367
 
@@ -379,7 +379,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | Pedido da SMI de reconsideração para uniformizar a autorização de agente autônomo de investimento. Colegiado manteve a exigência de comprovação de credenciamento por contrato com corretora, para pessoas registradas no RGA em 1º/06/2001 (Instrução CVM 355/01, art. 21, III). | cvm/colegiado/2005/col-20050408-d02.md |
+| decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | cvm/colegiado/2005/col-20050408-d02.md |
 
 ## res-cvm-381
 
@@ -387,8 +387,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/7600 | 2006-12-19 | indeferido | registro-emissor | Recurso da companhia contra indeferimento pela SRE de pedido de cancelamento de registro com dispensa de OPA, por falta de prova da titularidade de 8.453 ações preferenciais classe C. Conforme o art. 103 da Lei 6.404/76, o ônus de provar a titularidade cabe à companhia. Negado provimento. | cvm/colegiado/2006/col-20061219-d03.md |
-| decisao-colegiado | RJ2003/5846 | 2004-05-04 | indeferido | registro-emissor | Pedido da COIRG – Cia. Industrial Riograndense do Norte para cancelamento de registro de companhia incentivada (Instrução CVM 265/97). Colegiado indeferiu, por comprovada a condição de companhia aberta, com base em registros no Banco Central e demais documentos dos autos. | cvm/colegiado/2004/col-20040504-d02.md |
+| decisao-colegiado | RJ2005/7600 | 2006-12-19 | nao-provido | registro-emissor | O Colegiado negou provimento ao recurso da Cariri Industrial de Óleos S.A. contra o indeferimento de cancelamento de registro com dispensa de OPA. Cabia à recorrente provar a titularidade de 8.453 ações preferenciais classe C, consideradas em circulação (Instrução 361/02), o que não fez. Área técnica deve orientá-la sobre o art. 34. | cvm/colegiado/2006/col-20061219-d03.md |
+| decisao-colegiado | RJ2003/5846 | 2004-05-04 | indeferido | registro-emissor | O Colegiado indeferiu o pedido de cancelamento de registro de companhia incentivada (Instrução CVM 265/97), por entender comprovada a condição de companhia aberta. Segundo a SEP, o registro como aberta decorreu da Resolução CMN 436/77. | cvm/colegiado/2004/col-20040504-d02.md |
 | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | cvm/decisoes-antigas/1981.md |
 | decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | cvm/decisoes-antigas/1980.md |
 | decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | cvm/decisoes-antigas/1979.md |
@@ -399,7 +399,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/5639 | 2003-11-18 | indeferido | securitizacao | Recurso da Brazilian Securities Companhia de Securitização contra indeferimento de registro definitivo de duas séries de CRI lastreadas em CCI. Negado provimento: o crédito é imobiliário pela origem, não pela destinação, e a operação é incompatível com a finalidade do CRI. | cvm/colegiado/2003/col-20031118-d07.md |
+| decisao-colegiado | RJ2003/5639 | 2003-11-18 | nao-provido | securitizacao | O Colegiado negou provimento a recurso da Brazilian Securities contra decisão da SRE que indeferiu pedidos de registro definitivo de CRIs, mantendo-a pela incompatibilidade entre a operação e as finalidades do CRI, e não pela ausência de negócio jurídico bilateral entre a Maxpower e a EP. Registrada desistência do recurso pela SRE. | cvm/colegiado/2003/col-20031118-d07.md |
 
 ## res-cvm-401
 
@@ -407,10 +407,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | opa | OPA voluntária do controlador sobre a totalidade das ações em circulação de Tele Norte Leste Participações S.A. e Telemar Norte Leste S.A. Colegiado afasta a exigência de registro na CVM e a regra de preço justo, mantendo laudo de avaliação e limite de aquisição de 1/3 das ações em circulação. | cvm/colegiado/2007/col-20070529-d11.md |
-| decisao-colegiado | RJ2006/6209 | 2006-09-25 | nao-provido | opa | Recurso da recorrente contra entendimento da SRE e da SEP de que deveria lançar OPA aos minoritários da Arcelor Brasil, por força do art. 10 do estatuto e do parágrafo único do art. 116 da Lei 6.404/76. Não provido. | cvm/colegiado/2006/col-20060925-d01.md |
-| decisao-colegiado | RJ2005/4069 | 2006-04-11 | nao-provido | opa | Recurso da Companhia Brasileira de Distribuição contra determinação da SEP e da SRE de realização de OPA por alienação de controle (art. 254-A da Lei 6.404/76), decorrente de acordo de associação. Negado provimento: mantida a obrigação de o comprador ofertar aquisição das ações ordinárias. | cvm/colegiado/2006/col-20060411-d02.md |
-| decisao-colegiado | RJ2004/6623 | 2005-01-25 | indeferido | opa | Pedido da Comafal de procedimento diferenciado em OPA por alienação de controle da Indústrias Micheletto, sem laudo de avaliação (art. 8º, Instrução CVM 361/02). Indeferido; quanto ao escopo, a OPA se restringe às ações ordinárias (art. 29). | cvm/colegiado/2005/col-20050125-d09.md |
+| decisao-colegiado | RJ2007/5587 | 2007-05-29 | outro | opa | O Colegiado decidiu, contra o entendimento da SRE, que as OPAs voluntárias da Telemar Participações não precisam de registro na CVM. Afastou a regra de preço justo, mantidos laudo de avaliação e limite de aquisição de 1/3 se não houver aceitação de 2/3, conforme voto do Presidente. | cvm/colegiado/2007/col-20070529-d11.md |
+| decisao-colegiado | RJ2006/6209 | 2006-09-25 | nao-provido | opa | Recurso contra a decisão da SEP. Proc. RJ2006/6209. | cvm/colegiado/2006/col-20060925-d01.md |
+| decisao-colegiado | RJ2005/4069 | 2006-04-11 | nao-provido | opa | O Colegiado negou provimento ao recurso da Companhia Brasileira de Distribuição contra decisão da SEP e da SRE que exigiu oferta pública de aquisição de ações com direito a voto, por alienação de controle (Lei 6.404/76, art. 254-A), a ser feita pelo comprador Cassino Guichard Perrachon S.A. Houve pedido de vista antes da decisão. | cvm/colegiado/2006/col-20060411-d02.md |
+| decisao-colegiado | RJ2004/6623 | 2005-01-25 | indeferido | opa | O Colegiado indeferiu o pedido da Comafal de dispensa do laudo de avaliação na OPA de alienação de controle da Indústrias Micheletto S.A., mantendo a exigência do art. 8º da Instrução CVM 361/02. Acompanhando o voto do relator, decidiu que só as ações ordinárias são objeto da OPA e que a área técnica deve reconsiderar a exigência sobre a liquidação. | cvm/colegiado/2005/col-20050125-d09.md |
 | decisao-antiga | — | 1993-03-31 | — | — | Decisões do colegiado de 1993. | cvm/decisoes-antigas/1993.md |
 | decisao-antiga | — | 1991-01-04 | — | — | Decisões do colegiado de 1991. | cvm/decisoes-antigas/1991.md |
 | decisao-antiga | — | 1983-02-03 | — | — | Decisões do colegiado de 1983. | cvm/decisoes-antigas/1983.md |
@@ -422,7 +422,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2006/3388 | 2006-08-22 | provido | divulgacao-informacoes | Recurso de representante de fundos contra decisão da SEP que dispensou a incorporada de divulgar orçamentos e plano de negócios em reestruturação societária. Mantido o entendimento da área técnica. | cvm/colegiado/2006/col-20060822-d04.md |
+| decisao-colegiado | RJ2006/3388 | 2006-08-22 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso da Hedging-Griffo CV S.A., representante de fundos, e manteve o entendimento da SEP de não exigir da Telefônica Data Brasil Holding S.A. a divulgação do plano de negócios para aproveitamento de crédito fiscal de 2005 e dos orçamentos de resultados e de investimentos de 2006. Acompanhou o voto do relator. | cvm/colegiado/2006/col-20060822-d04.md |
 
 ## res-cvm-436
 
@@ -439,7 +439,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2003/4306 | 2003-12-16 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração da Companhia Energética de Brasília S.A. contra decisão que manteve multas cominatórias por atraso na entrega de ITRs e DFP de 2001 e 2002 (Instrução CVM 202/93; Deliberação CVM 463/03). Indeferido por não trazer fatos novos. | cvm/colegiado/2003/col-20031216-d02.md |
+| decisao-colegiado | RJ2003/4306 | 2003-12-16 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu pedido de reconsideração de decisão que aplicou multa cominatória à Companhia Energética de Brasília S.A. pelo atraso na entrega da 3ª ITR/2001, DFP/2001, 1ª ITR/2002 e 2ª ITR/2002, nos termos do voto da relatora. | cvm/colegiado/2003/col-20031216-d02.md |
 | decisao-colegiado | RJ2003/4306 | 2003-07-02 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2003/4306. | cvm/colegiado/2003/col-20030702-d02.md |
 
 ## res-cvm-454
@@ -448,8 +448,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/12819 | 2007-10-30 | outro | normativo | Minuta de Deliberação que reforma as normas de processos administrativos sancionadores, em substituição à Deliberação 457/02. Aprovada com alterações para audiência pública de 30 dias. | cvm/colegiado/2007/col-20071030-d01.md |
-| decisao-colegiado | 04/01 | 2005-10-25 | indeferido | processual | Pedidos de reconsideração de decisão do Colegiado no PAS 04/01 (caso Postalis), alegando nulidades, falta de intimação e cerceamento de defesa. Colegiado indeferiu os pedidos, inclusive quanto ao efeito suspensivo do recurso ao Conselho de Recursos do Sistema Financeiro Nacional. | cvm/colegiado/2005/col-20051025-d11.md |
+| decisao-colegiado | RJ2007/12819 | 2007-10-30 | outro | normativo | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Deliberação que substitui a Deliberação 457/02 e reforma as normas dos processos administrativos sancionadores. A SDM ficou encarregada de consolidar as sugestões. | cvm/colegiado/2007/col-20071030-d01.md |
+| decisao-colegiado | 04/01 | 2005-10-25 | nao-provido | processual | O Colegiado indeferiu pedidos de reconsideração de sua decisão no PAS 04/01 (Postalis), inclusive quanto à atribuição de efeito suspensivo ao recurso ao CRSFN, pelos fundamentos do voto do relator. | cvm/colegiado/2005/col-20051025-d11.md |
 | decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | cvm/decisoes-antigas/1980.md |
 
 ## res-cvm-460
@@ -491,7 +491,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/6153 | 2005-05-31 | indeferido | infraestrutura-mercado | Recurso da bolsa contra entendimento da SMI sobre denegação de admissão de corretora como associada. Decidiu-se que a cláusula estatutária que dispensa motivação não viola a regulamentação, mas assegurou à corretora o direito de pedir assembleia de reforma. | cvm/colegiado/2005/col-20050531-d01.md |
+| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | infraestrutura-mercado | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a regulamentação, contrariando o entendimento da SMI. Assegurou à corretora o direito de pedir convocação de assembleia para reexame, em quinze dias, diante da omissão do estatuto. | cvm/colegiado/2005/col-20050531-d01.md |
 
 ## res-cvm-723
 
@@ -526,10 +526,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2007/9361 | 2007-09-04 | nao-provido | auditoria-independente | Recurso contra indeferimento de registro de auditor independente pessoa jurídica por falta de certificado de aprovação no Exame de Qualificação Técnica do responsável técnico (Instrução CVM nº 308/99). Colegiado negou provimento, por não caber nas exceções transitórias, e sugeriu à SNC estudar a suspensão de registro a pedido do interessado. | cvm/colegiado/2007/col-20070904-d03.md |
-| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | auditoria-independente | Recurso contra cancelamento de registro de auditor independente–pessoa jurídica por falta de certificado de aprovação do responsável técnico no Exame de Qualificação Técnica (Deliberação CVM 466/03). Colegiado negou provimento: o registro provisório fica condicionado à posterior aprovação no exame. | cvm/colegiado/2005/col-20050930-d07.md |
-| decisao-colegiado | RJ2005/4470 | 2005-08-23 | nao-provido | auditoria-independente | Recurso de auditor independente pessoa física contra cancelamento do registro provisório por não ter prestado o Exame de Qualificação Técnica (Instrução CVM nº 308/99). O Colegiado negou provimento: o exame é requisito do registro definitivo, e a isenção concedida pelo CFC não vincula a CVM. | cvm/colegiado/2005/col-20050823-d06.md |
-| decisao-colegiado | RJ2005/4298 | 2005-08-09 | nao-provido | auditoria-independente | Recurso de auditor independente pessoa física contra cancelamento do registro provisório por não ter prestado o Exame de Qualificação Técnica (Instrução CVM nº 308/99). O Colegiado negou provimento: a revogação de resolução do CFC não afeta os atos praticados sob sua vigência, e a aprovação no exame é requisito do registro definitivo. | cvm/colegiado/2005/col-20050809-d08.md |
+| decisao-colegiado | RJ2007/9361 | 2007-09-04 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso contra decisão da SNC que indeferiu o registro da INDEP Auditores Independentes S/S como auditor independente pessoa jurídica, por falta de certificado de aprovação no Exame de Qualificação Técnica do responsável técnico. Acatou sugestão do relator para que a SNC examine a suspensão de registro a pedido do interessado. | cvm/colegiado/2007/col-20070904-d03.md |
+| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor independente-pessoa jurídica, por falta de certificado do responsável técnico no Exame de Qualificação Técnica. Com base no voto do relator, que considerou a questão em vias de pacificação. | cvm/colegiado/2005/col-20050930-d07.md |
+| decisao-colegiado | RJ2005/4470 | 2005-08-23 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito o Exame de Qualificação. Fundamento: a Deliberação CVM 466/03 condiciona a conversão do registro provisório à aprovação no exame. | cvm/colegiado/2005/col-20050823-d06.md |
+| decisao-colegiado | RJ2005/4298 | 2005-08-09 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física por não ter feito o Exame de Qualificação. Fundamento: a Deliberação CVM 466/03 condiciona a conversão do registro provisório à aprovação no exame. | cvm/colegiado/2005/col-20050809-d08.md |
 
 ## res-cvm-1656
 
@@ -537,8 +537,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 41, inciso I | decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm/colegiado/2003/col-20030520-d04.md |
-| art. 41, inciso I | decisao-colegiado | SP2002/0344 | 2004-07-06 | indeferido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm/colegiado/2004/col-20040706-d03.md |
+| art. 41, inciso I | decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm/colegiado/2003/col-20030520-d04.md |
+| art. 41, inciso I | decisao-colegiado | SP2002/0344 | 2004-07-06 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm/colegiado/2004/col-20040706-d03.md |
 
 ## res-cvm-1877
 
@@ -562,5 +562,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2006/0056 | 2006-08-15 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0056. | cvm/colegiado/2006/col-20060815-d08.md |
-| decisao-colegiado | SP2002/0344 | 2004-07-06 | indeferido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm/colegiado/2004/col-20040706-d03.md |
-| decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm/colegiado/2003/col-20030520-d04.md |
+| decisao-colegiado | SP2002/0344 | 2004-07-06 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm/colegiado/2004/col-20040706-d03.md |
+| decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm/colegiado/2003/col-20030520-d04.md |

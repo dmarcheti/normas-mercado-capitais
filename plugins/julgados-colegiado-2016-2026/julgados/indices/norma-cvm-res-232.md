@@ -11,62 +11,62 @@ Norma: [cvm/resolucoes/0232.md](../../../normas/normas/cvm/resolucoes/0232.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
-| art. 5º, parágrafo único | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 5º | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 5º, parágrafo único | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 17
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 17 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 17 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 40
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 40 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
-| art. 40, inciso V | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
-| art. 40, § 1º, inciso V | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
-| art. 40, § 7º | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 40 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 40, inciso V | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 40, § 1º, inciso V | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 40, § 7º | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 41
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 41 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 41 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 42
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 42 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 42 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 52
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 52 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 52 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 56
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 56 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 56 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 57
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 57 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 57 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 58
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 58 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 58 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
 
 ## art. 65
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 65 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | — | infraestrutura-mercado | Pedidos da BEE4 e da B3 de autorização para operacionalizar o Regime FÁCIL (Resolução CVM nº 232/2025). A SMI manifestou-se favoravelmente à autorização da B3, condicionada a ajuste de normativos ao art. 40, V, da RCVM 232 (preço unitário único nas ofertas públicas diretas). | cvm/colegiado/2026/col-20260310-d3492-3491.md |
+| art. 65 | decisao-colegiado | 19957.008699/2025-41; 19957.012704/2025-11 | 2026-03-10 | deferido | ofertas-publicas | O Colegiado, por unanimidade, autorizou a BEE4 e a B3 a operacionalizar ofertas no Regime FÁCIL (RCVM 232/2025), nos termos dos Ofícios Internos SMI 3 e 4/2026, acompanhando a SMI; B3 deve ajustar normativos ao preço unitário único (art. 40, V, RCVM 232). | cvm/colegiado/2026/col-20260310-d3492-3491.md |

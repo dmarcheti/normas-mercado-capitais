@@ -21,7 +21,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2001/4355 | 2002-01-29 | parcial | administracao-carteiras | Reapreciação de termo de acusação da SFI contra o Banco Vega S.A., em liquidação, e seu diretor responsável pela administração de carteira de associação. Aprovado em parte: mantidas as imputações do art. 2º da Instrução CVM 82/88 e dos arts. 3º a 5º da Instrução CVM 220/94; afastadas as dos arts. 10 e 11 da IN 82/88. | cvm/colegiado/2002/col-20020129-d2144.md |
+| art. 2º | decisao-colegiado | RJ2001/4355 | 2002-01-29 | outro | administracao-carteiras | O Colegiado acompanhou o relator e aprovou, com retificações, o Termo de Acusação da SFI contra o Banco Vega S.A. em liquidação e um diretor: manteve o descumprimento do art. 2º da Instrução CVM 82/88 e imputou os arts. 3º, 4º e 5º da Instrução CVM 220/94, afastando os arts. 10 e 11 da Instrução CVM 82/88. | cvm/colegiado/2002/col-20020129-d2144.md |
 
 ## art. 14
 
@@ -83,7 +83,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 36 | decisao-colegiado | IA15/96 | 2003-05-05 | outro | fundos-investimento | Inquérito administrativo por descumprimento de termo de compromisso relativo ao Pontual FMIA. Por analogia ao art. 59 da Instrução CVM 302/99, a SIN deve obter a concordância do BCN antes de nomear administrador temporário; arquivamento condicionado à nomeação. | cvm/colegiado/2003/col-20030505-d02.md |
+| art. 36 | decisao-colegiado | IA15/96 | 2003-05-05 | outro | fundos-investimento | O Colegiado, acompanhando o voto do relator, decidiu dar aplicação analógica ao art. 59 da Instrução CVM 302/99 ao descumprimento de Termo de Compromisso do Banco Pontual sobre créditos de cotistas do Pontual FMIA. A SIN deve tratar com o BCN a concordância para nomear administrador temporário; depois, o processo poderá ser arquivado. | cvm/colegiado/2003/col-20030505-d02.md |
 | art. 36 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | art. 36 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
 | art. 36 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
@@ -99,7 +99,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 49 | decisao-colegiado | RJ2002/7533 | 2003-07-22 | indeferido | intermediacao | Recurso contra decisão da SMI que negou autorização para atuar como agente autônomo de investimento (art. 5º, III, e art. 6º, II, e, da Instrução CVM nº 355/01). O requerente fora diretor de corretora que entrou em liquidação extrajudicial em 2001. Colegiado manteve a negativa. | cvm/colegiado/2003/col-20030722-d09.md |
+| art. 49 | decisao-colegiado | RJ2002/7533 | 2003-07-22 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso contra decisão da SMI que negou autorização para o exercício de atividade de agente autônomo de investimento, acompanhando o voto do Diretor-Relator. Ressalva: o pedido foi negado por não atendimento à letra e, inciso II, do art. 6º da Instrução CVM 355/01. | cvm/colegiado/2003/col-20030722-d09.md |
 | art. 49 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | art. 49 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
 | art. 49 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
@@ -138,8 +138,8 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | fundos-investimento | Recurso do Banco JP Morgan contra indeferimento pela SIN de incorporação de três fundos por um fundo cancelado. Colegiado, pelo voto do relator, entendeu não haver fundamento legal para vedar incorporação por fundo cancelado por patrimônio líquido abaixo do mínimo; deu provimento. | cvm/colegiado/2007/col-20070214-d02.md |
-| decisao-colegiado | RJ2005/7115 | 2006-03-14 | outro | fundos-investimento | Cancelamento de cadastro de dois fundos mútuos de ações, nos termos da Instrução CVM 215/94. Não cancelado: custodiantes confirmaram ativos em nome dos fundos, em resposta a cartas circulares da SIN, e a manutenção do cadastro não causa transtornos à CVM. | cvm/colegiado/2006/col-20060314-d01.md |
-| decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Consulta da SRE sobre distribuição privada de cotas de FIP e FIDC. Colegiado concluiu que a CVM só registra fundos com distribuição pública, determinou revisão da Instrução 409/04 e acompanhou o voto do relator. | cvm/colegiado/2006/col-20060221-d01.md |
-| decisao-colegiado | RJ2005/7115 | 2005-11-17 | outro | fundos-investimento | Solicitação da SIN de cancelamento de cadastro de dois fundos mútuos de ações sob a Instrução CVM 215/94. Antes de decidir, o Colegiado determinou circularização dos custodiantes para verificar a existência de ativos em nome dos fundos. | cvm/colegiado/2005/col-20051117-d05.md |
+| decisao-colegiado | RJ2005/0250 | 2007-02-14 | provido | fundos-investimento | O Colegiado deu provimento a recurso do Banco JP Morgan contra o indeferimento, pela SIN, de incorporação de três fundos por fundo cancelado. Acompanhando o relator, entendeu que esse entendimento não tinha fundamento legal. O relator citou decisão de 21.02.06 segundo a qual a competência da CVM se relaciona à captação pública, não à autorização para funcionar. | cvm/colegiado/2007/col-20070214-d02.md |
+| decisao-colegiado | RJ2005/7115 | 2006-03-14 | outro | fundos-investimento | O Colegiado decidiu não cancelar o cadastro, nos termos da Instrução CVM 215/94, dos fundos mútuos FAL e FINEY, pois algumas entidades de custódia confirmaram ativos em nome dos fundos e a manutenção do cadastro não causa transtornos à CVM. | cvm/colegiado/2006/col-20060314-d01.md |
+| decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | cvm/colegiado/2006/col-20060221-d01.md |
+| decisao-colegiado | RJ2005/7115 | 2005-11-17 | outro | fundos-investimento | O Colegiado determinou que a SIN oficie os custodiantes, por circularização, para verificar a existência de ativos em nome de dois fundos mútuos (FAL e FINEY), antes de decidir sobre o cancelamento de seus cadastros sob a ICVM 215/94. | cvm/colegiado/2005/col-20051117-d05.md |
 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |

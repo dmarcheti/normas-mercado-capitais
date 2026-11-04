@@ -23,8 +23,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º, § 1º, inciso II, alínea a | pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | Manipulação de preços de vários ativos negociados em bolsa entre 20.01.2012 e 14.01.2013, em infração ao inciso I da Instrução CVM 08/79. Proibição temporária, pelo prazo de cinco anos, de atuar no mercado de valores mobiliários ao acusado. | cvm/pas/2018/rj2015-12130.md |
-| art. 8º, § 1º, inciso II, alínea a | pas | RJ2017/646 | 2018-11-14 | condenacao | manipulacao-fraude | Manipulação de preço de vários ativos negociados em bolsa, em infração ao inciso I da Instrução CVM 08/79 (prática não equitativa). Multa de R$ 157.575,86, equivalente a duas vezes o ganho econômico obtido com as operações irregulares, atualizada pelo IPCA. | cvm/pas/2018/rj2017-0646.md |
+| art. 8º, § 1º, inciso II, alínea a | pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou ao acusado proibição temporária, por cinco anos, de atuar em qualquer operação no mercado de valores mobiliários, por manipulação de preços de vários ativos negociados em bolsa entre 20/01/2012 e 14/01/2013, em infração ao inciso I da Instrução CVM 08/79. Fundamento: art. 11 da Lei 6.385/76. | cvm/pas/2018/rj2015-12130.md |
+| art. 8º, § 1º, inciso II, alínea a | pas | RJ2017/646 | 2018-11-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou multa de R$ 157.575,86 ao acusado, duas vezes o ganho econômico de R$ 64.979,00, atualizado pelo IPCA para R$ 78.787,93, por manipulação de preços de vários ativos em bolsa entre 21/10/2013 e 10/02/2015, em infração ao inciso I da Instrução CVM 8/79. | cvm/pas/2018/rj2017-0646.md |
 
 ## art. 9º
 

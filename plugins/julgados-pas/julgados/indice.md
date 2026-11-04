@@ -56,8 +56,8 @@ Total: Processos Administrativos Sancionadores (PAS), 1419.
 | criptoativos | 1 | [indices/tema-criptoativos.md](indices/tema-criptoativos.md) |
 | deveres-administradores | 191 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
 | divulgacao-informacoes | 224 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
-| exercicio-irregular | 107 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
-| fundos-investimento | 75 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
+| exercicio-irregular | 108 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
+| fundos-investimento | 74 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
 | informacao-privilegiada | 86 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
 | infraestrutura-mercado | 3 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
 | intermediacao | 56 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |

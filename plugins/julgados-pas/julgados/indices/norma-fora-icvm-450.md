@@ -35,7 +35,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 88 | pas | 19957.005017/2025-49 | 2026-08-26 | — | fundos-investimento | Desenquadramento de limites de concentração da carteira do OABPrev-RJ Multimercado Previdência Fundo de Investimento (arts. 92, I, e 104, §2º, I e II, da Instrução CVM 555/2014). Voto da relatora: multas à gestora, à administradora e aos respectivos diretores; absolvição da administradora e de seu diretor quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| art. 88 | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## Citada sem dispositivo identificado
 

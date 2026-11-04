@@ -54,7 +54,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.000728/2022-84 | 2026-10-21 | — | manipulacao-fraude | Relatório e votos sobre suposta operação fraudulenta na aquisição de CCBs emitidas pela Brazcarnes Participações S.A. para fundo de crédito privado (Instrução CVM 8/1979, item I c/c item II, c) e quebra do dever de diligência da gestora (art. 65-A, I, da Instrução CVM 409/2004). Sem decisão colegiada no recorte. | cvm/pas/2026/19957-000728-2022-84.md |
+| pas | 19957.000728/2022-84 | 2026-10-21 | — | manipulacao-fraude | PAS por operação fraudulenta na aquisição de cédulas de crédito bancário para fundo e por quebra do dever de diligência da gestora. Voto de um diretor acompanha a relatora e vota pela condenação dos acusados, divergindo apenas quanto à infração continuada. Sem deliberação do Colegiado. | cvm/pas/2026/19957-000728-2022-84.md |
 | pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | divulgacao-informacoes | Apurar supostas irregularidades no envio de Demonstrações Financeiras. . Multa. | cvm/pas/2024/19957-001933-2021-86.md |
 | pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | informacao-privilegiada | Apuração de insider trading, em infração ao artigo 155, §1º, da Lei n° 6.404/1976 c/c artigo 13, caput, da Instrução CVM n° 358/2002, vigente à época. Absolvições. | cvm/pas/2024/19957-007285-2022-52.md |
 | pas | 02/2004 | 2005-12-07 | parcial | deveres-administradores | Diversas irregularidades cometidas na administração de companhias abertas, notadamente empréstimos em bases não eqüitativas entre sociedades relacionadas e a insuficiência de informações quanto a tais empréstimos nas demonstrações financeiras. | cvm/pas/2005/02-2004.md |

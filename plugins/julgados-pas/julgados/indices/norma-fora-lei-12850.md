@@ -19,7 +19,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 4º | pas | 19957.005572/2019-22 | 2025-12-09 | absolvicao | deveres-administradores | Apurar responsabilidade de membro do conselho de administração da Gol Linhas Aéreas Inteligentes S.A. por infração ao art. 154, §2°, alínea “a”, da Lei nº 6.404/1976. Absolvição | cvm/pas/2025/19957-005572-2019-22.md |
 | art. 4º, § 16 | pas | 19957.011337/2019-90 | 2022-10-25 | condenacao | deveres-administradores | Responsabilidade de administrador da Petróleo Brasileiro S.A. – Petrobras por possível inobservância de deveres fiduciários no que concerne à contratação da SBM Offshore, em infração aos arts. 154, §2°, alínea “c” c/c 155, caput, da Lei nº 6.404/76. Multa. | cvm/pas/2022/19957-011337-2019-90.md |
-| art. 4º, § 1620 | pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | Relatório e votos sobre suposta elaboração de demonstrações financeiras não fidedignas do IRB – Brasil Resseguros S.A. referentes a 2019 (arts. 154 e 176 da Lei 6.404/1976) e falta de diligência de diretores e conselheiros (arts. 153 e 142, III). Sem decisão colegiada no recorte. | cvm/pas/2026/19957-003588-2023-87.md |
+| art. 4º, § 1620 | pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | PAS contra três diretores e o presidente do conselho de administração do IRB – Brasil Resseguros S.A., por suposta elaboração de informações contábeis não fidedignas em 2019 e falta de diligência (arts. 153, 154 e 176 da Lei 6.404/1976). O diretor relator votou pela absolvição de todos os acusados, acompanhado por outro diretor. | cvm/pas/2026/19957-003588-2023-87.md |
 
 ## art. 7º
 

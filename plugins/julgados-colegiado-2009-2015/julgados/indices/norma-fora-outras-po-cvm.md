@@ -14,7 +14,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | Pedido de acionista para interromper, por até 15 dias, o prazo de convocação de AGE da Embratel Participações S.A., que trata de cisão e incorporação pela Claro, por alegadas falhas na negociação da relação de troca. Colegiado, acompanhando a SEP, indeferiu a interrupção (Lei 6.404/1976, art. 124, §5º, II). | cvm/colegiado/2014/col-20141217-d01-r2.md |
+| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, deliberou pela não interrupção do prazo de convocação da AGE de 18.12.2014 da Embratel Participações S.A., pedida por acionista. A SEP entendeu não se justificar a interrupção; os termos da operação seguem no Proc. RJ2014/8102. | cvm/colegiado/2014/col-20141217-d01-r2.md |
 
 ## po-cvm-34-2004
 
@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | Pedido de acionista para interromper, por até 15 dias, o prazo de convocação de AGE da Embratel Participações S.A., que trata de cisão e incorporação pela Claro, por alegadas falhas na negociação da relação de troca. Colegiado, acompanhando a SEP, indeferiu a interrupção (Lei 6.404/1976, art. 124, §5º, II). | cvm/colegiado/2014/col-20141217-d01-r2.md |
+| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, deliberou pela não interrupção do prazo de convocação da AGE de 18.12.2014 da Embratel Participações S.A., pedida por acionista. A SEP entendeu não se justificar a interrupção; os termos da operação seguem no Proc. RJ2014/8102. | cvm/colegiado/2014/col-20141217-d01-r2.md |
 
 ## po-cvm-34-2008
 
@@ -30,4 +30,4 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | Pedido de acionista para interromper, por até 15 dias, o prazo de convocação de AGE da Embratel Participações S.A., que trata de cisão e incorporação pela Claro, por alegadas falhas na negociação da relação de troca. Colegiado, acompanhando a SEP, indeferiu a interrupção (Lei 6.404/1976, art. 124, §5º, II). | cvm/colegiado/2014/col-20141217-d01-r2.md |
+| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, deliberou pela não interrupção do prazo de convocação da AGE de 18.12.2014 da Embratel Participações S.A., pedida por acionista. A SEP entendeu não se justificar a interrupção; os termos da operação seguem no Proc. RJ2014/8102. | cvm/colegiado/2014/col-20141217-d01-r2.md |

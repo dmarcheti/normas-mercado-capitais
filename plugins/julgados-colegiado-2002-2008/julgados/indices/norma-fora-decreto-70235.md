@@ -23,12 +23,12 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 33, § 2º | decisao-colegiado | RJ99/2786 | 2004-01-21 | indeferido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
-| art. 33, § 2º | decisao-colegiado | RJ1999/3264 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
+| art. 33, § 2º | decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
+| art. 33, § 2º | decisao-colegiado | RJ1999/3264 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
 | art. 33, § 2º | decisao-colegiado | RJ1999/3976 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3976. | cvm/colegiado/2008/col-20080930-d08.md |
-| art. 33, § 2º | decisao-colegiado | RJ1999/4872 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
-| art. 33, § 2º | decisao-colegiado | RJ2002/0104 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
-| art. 33, § 2º | decisao-colegiado | RJ2002/4458 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
+| art. 33, § 2º | decisao-colegiado | RJ1999/4872 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4872. | cvm/colegiado/2008/col-20080930-d09.md |
+| art. 33, § 2º | decisao-colegiado | RJ2002/0104 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0104. | cvm/colegiado/2008/col-20080930-d10.md |
+| art. 33, § 2º | decisao-colegiado | RJ2002/4458 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4458. | cvm/colegiado/2008/col-20080930-d11.md |
 | art. 33, § 2º | decisao-colegiado | RJ2007/2098 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2098. | cvm/colegiado/2008/col-20080930-d12.md |
 | art. 33, § 2º | decisao-colegiado | RJ1999/2464 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2464. | cvm/colegiado/2008/col-20081021-d05.md |
 | art. 33, § 2º | decisao-colegiado | RJ1999/2878 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2878. | cvm/colegiado/2008/col-20081021-d06.md |
@@ -47,4 +47,4 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a taxa de fiscalização. Proc. RJ99/2838. | cvm/colegiado/2004/col-20040824-d03.md |
-| decisao-colegiado | — | 2003-04-29 | outro | normativo | Aprovada a minuta de deliberação sobre procedimentos para arrolamento de bens e direitos previsto no Decreto 70.235/72 (processo administrativo fiscal), conforme alterado pela Lei 10.522/02. | cvm/colegiado/2003/col-20030429-d01.md |
+| decisao-colegiado | — | 2003-04-29 | outro | normativo | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para o arrolamento de bens e direitos previsto no Decreto 70.235/72, modificado pela Lei 10.522/02. | cvm/colegiado/2003/col-20030429-d01.md |

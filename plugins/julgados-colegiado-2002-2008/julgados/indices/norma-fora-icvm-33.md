@@ -45,7 +45,7 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2002-11-12 | indeferido | intermediacao | Recurso de pessoa física contra decisão da SMI que negou autorização de agente autônomo de investimento (Instrução CVM 355/01, art. 5º, III), por falta de reputação ilibada: um ano de suspensão como administrador de entidade do sistema de distribuição, pendente de recurso no Conselho de Recursos do SFN. Colegiado negou provimento. | cvm/colegiado/2002/col-20021112-d06.md |
+| decisao-colegiado | — | 2002-11-12 | nao-provido | intermediacao | O Colegiado negou provimento, por maioria, ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, nos termos do voto da diretora-relatora. | cvm/colegiado/2002/col-20021112-d06.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | decisao-antiga | — | 1993-03-31 | — | — | Decisões do colegiado de 1993. | cvm/decisoes-antigas/1993.md |
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |

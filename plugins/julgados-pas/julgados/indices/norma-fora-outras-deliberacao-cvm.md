@@ -1524,7 +1524,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.008202/2025-95 | 2026-10-21 | — | auditoria-independente | Auditoria dos fundos BB Joatinga e Opus One por prazo superior a cinco exercícios sociais consecutivos, em infração ao art. 31 da Resolução CVM 23/2021. Voto da relatora pela advertência à KPMG, com base no art. 11, I, da Lei 6.385/1976, considerando a comunicação espontânea e a reduzida repercussão. | cvm/pas/2026/19957-008202-2025-95.md |
+| pas | 19957.008202/2025-95 | 2026-10-21 | — | auditoria-independente | PAS contra a KPMG Auditores Independentes Ltda. por prestar auditoria aos fundos BB Joatinga e Opus One por mais de cinco exercícios consecutivos, em infração ao art. 31 da Resolução CVM 23/2021, após comunicação espontânea da própria auditora. A diretora relatora votou pela condenação à penalidade de advertência, considerada proporcional. | cvm/pas/2026/19957-008202-2025-95.md |
 
 ## deliberacao-cvm-778
 

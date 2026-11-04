@@ -11,4 +11,4 @@ Norma: [cvm/pareceres-orientacao/0038.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.004306/2019-82 | 2019-07-02 | — | infraestrutura-mercado | Análise de proposta de alteração do Estatuto Social da B3 aprovada em AGE (Instrução CVM 461/07, art. 117, II): nova terminologia de conselheiros independentes e migração de disposições do Comitê de Auditoria para regimento interno. Área técnica não vê óbice. Alteração do contrato de indenidade não foi aprovada. | cvm/colegiado/2019/col-20190702-d1460.md |
+| decisao-colegiado | 19957.004306/2019-82 | 2019-07-02 | deferido | infraestrutura-mercado | O Colegiado aprovou, por unanimidade, acompanhando a SMI, as alterações no Estatuto Social da B3 (capital social, terminologia de conselheiros independentes e não-vinculados, comitês e Comitê de Auditoria). A alteração do art. 76 (contrato de indenidade) não foi aprovada pela AGE e permanece a redação anterior. | cvm/colegiado/2019/col-20190702-d1460.md |

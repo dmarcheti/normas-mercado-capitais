@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0056.md](../../../normas/normas/cvm/resolucoes/0056.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001439/2020-31 | 2021-10-19 | outro | multa-cominatoria-taxa | Aprovada a Resolução CVM 56/2021, de consolidação normativa (Decreto 10.139/2019), sobre restituição e compensação de valores na CVM. Sem audiência pública nem AIR, por se tratar de regras operacionais internas (art. 22, Portaria CVM/PTE 190/2019). | cvm/colegiado/2021/col-20211019-d2347.md |
+| decisao-colegiado | 19957.001439/2020-31 | 2021-10-19 | outro | normativo | O Colegiado aprovou a Resolução CVM nº 56/2021, sobre restituição e compensação de valores no âmbito da CVM, na consolidação de atos normativos do Decreto nº 10.139/2019. Não houve audiência pública nem AIR, por se tratar de regras operacionais internas que implementam normas superiores. | cvm/colegiado/2021/col-20211019-d2347.md |

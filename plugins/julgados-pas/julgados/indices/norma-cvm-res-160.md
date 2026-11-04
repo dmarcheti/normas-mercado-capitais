@@ -27,7 +27,7 @@ Norma: [cvm/resolucoes/0160.md](../../../normas/normas/cvm/resolucoes/0160.md) (
 |---|---|---|---|---|---|---|---|
 | art. 4º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | exercicio-irregular | Apurar suposta prática de operação fraudulenta e suposta oferta de valores mobiliários sem obtenção de registro. Multas e proibições. | cvm/pas/2023/19957-002835-2022-47.md |
 | art. 4º | pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | ofertas-publicas | Apurar suposta oferta irregular de Contrato de Investimento Coletivo - CIC sem o devido registro na CVM ou eventual dispensa, em infração ao inciso I, do §5º, do artigo 19 da Lei nº 6.385/76, e aos artigos 2º e 4º da Instrução CVM 400/03.Multas. | cvm/pas/2024/19957-007114-2022-23.md |
-| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## art. 6º
 
@@ -45,7 +45,7 @@ Norma: [cvm/resolucoes/0160.md](../../../normas/normas/cvm/resolucoes/0160.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 43 | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 43 | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## art. 53
 

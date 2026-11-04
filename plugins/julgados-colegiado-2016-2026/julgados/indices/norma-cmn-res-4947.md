@@ -11,4 +11,4 @@ Norma: [cmn/resolucoes/4947.md](../../../normas/normas/cmn/resolucoes/4947.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | — | contabil-demonstracoes | Recurso das Intrag DTVM e Kinea Investimentos contra entendimento da SSE sobre moeda funcional de Fiagro-Imobiliário que investe em CRA com correção cambial. SSE manteve o real como moeda funcional, com base no CPC 02 (R2), itens 9 e 10. | cvm/colegiado/2023/col-20230822-d2915.md |
+| decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SSE, dado em consulta, que manteve o real como moeda funcional de Fiagro que investe em CRA com cláusula cambial. Acompanhou a área técnica: custos e rendimentos são em reais e a variação do dólar integra o objetivo de rentabilidade, não sendo mera conversão. | cvm/colegiado/2023/col-20230822-d2915.md |

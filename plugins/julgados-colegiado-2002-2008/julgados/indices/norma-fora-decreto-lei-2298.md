@@ -11,18 +11,18 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | Recurso da Yasmina Agropastoril S.A. contra exigências da SEP, para cancelamento de registro de companhia incentivada, de atas de assembleias e pareceres de auditoria (Instrução CVM 265/97, art. 12, I). Colegiado negou provimento, ressalvando que a exigência não retroage ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
-| art. 1º | decisao-colegiado | RJ2007/11445 | 2007-11-06 | nao-provido | assembleia-acionistas | Recurso de acionistas preferencialistas, com mais de 10% do capital, contra entendimento da SEP sobre eleição de conselheiro em companhia incentivada. Pela IN CVM 265/97, art. 35, a sociedade registrada não é companhia aberta, logo não se aplica o art. 141, §4º, II, da Lei 6.404/76. Recurso não provido. | cvm/colegiado/2007/col-20071106-d03.md |
+| art. 1º | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da Yasmina Agropastoril S.A. contra exigências da SEP para cancelamento de registro de companhia incentivada (atas e pareceres de auditoria de 1991 a 2005), com base nos fundamentos da SEP (art. 12, I, da Instrução 265/97), acompanhando o relator, que ressalvou a não retroação da exigência ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
+| art. 1º | decisao-colegiado | RJ2007/11445 | 2007-11-06 | nao-provido | assembleia-acionistas | Acompanhando a SEP, o Colegiado negou provimento a recurso contra o entendimento de que, em companhia incentivada (IN 265/97, art. 35), não se estende aos preferencialistas sem voto o direito de eleger conselheiro do art. 141, §4º, II, da Lei 6.404/76, pois companhias incentivadas não são companhias abertas. | cvm/colegiado/2007/col-20071106-d03.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ99/2786 | 2004-01-21 | indeferido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
-| art. 2º | decisao-colegiado | — | 2004-03-09 | nao-provido | multa-cominatoria-taxa | Pedido de manifestação sobre cobrança das taxas de fiscalização (Lei 7.940/89) e de registro de emissão de valores mobiliários sobre cotas de fundos. Por maioria, entendeu-se não devida a taxa de fiscalização; em tese, admite-se taxa de registro de distribuição, a ser estudada pela SIN e SDM. | cvm/colegiado/2004/col-20040309-d07.md |
-| art. 2º | decisao-colegiado | RJ2003/12804 | 2004-07-19 | indeferido | multa-cominatoria-taxa | Recurso contra entendimento da SEP de que companhia com registro na CVM é contribuinte da taxa de fiscalização (art. 3º da Lei 7.940/89). Argumentos sobre incentivos fiscais anteriores e ausência de negociação em bolsa não foram aceitos. Indeferido. | cvm/colegiado/2004/col-20040719-d04.md |
+| art. 2º | decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
+| art. 2º | decisao-colegiado | — | 2004-03-09 | outro | multa-cominatoria-taxa | O Colegiado, por maioria, entendeu não ser devida a taxa de fiscalização. Manifestou entendimento de que é possível, em tese, cobrar taxa de registro de distribuição de valor mobiliário aplicável às quotas de fundos, devendo a SIN e a SDM, sob coordenação do SGE, estudar a alíquota adequada e seus efeitos, para novo exame pelo Colegiado. | cvm/colegiado/2004/col-20040309-d07.md |
+| art. 2º | decisao-colegiado | RJ2003/12804 | 2004-07-19 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento ao recurso da Indústria de Azulejos da Bahia S.A. contra entendimento da SEP de que, por ser companhia aberta registrada na CVM, ela é devedora da Taxa de Fiscalização. | cvm/colegiado/2004/col-20040719-d04.md |
 | art. 2º | decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a taxa de fiscalização. Proc. RJ99/2838. | cvm/colegiado/2004/col-20040824-d03.md |
-| art. 2º | decisao-colegiado | RJ1999/3264 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
+| art. 2º | decisao-colegiado | RJ1999/3264 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3264. | cvm/colegiado/2008/col-20080930-d07.md |
 | art. 2º | decisao-colegiado | RJ1999/3188 | 2008-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3188. | cvm/colegiado/2008/col-20081125-d06.md |
 | art. 2º | decisao-colegiado | RJ2002/2485 | 2008-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/2485. | cvm/colegiado/2008/col-20081125-d08.md |
 | art. 2º | decisao-colegiado | RJ2007/2109 | 2008-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2109. | cvm/colegiado/2008/col-20081125-d09.md |
@@ -31,8 +31,8 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, alínea d | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | Recurso da Yasmina Agropastoril S.A. contra exigências da SEP, para cancelamento de registro de companhia incentivada, de atas de assembleias e pareceres de auditoria (Instrução CVM 265/97, art. 12, I). Colegiado negou provimento, ressalvando que a exigência não retroage ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
-| art. 3º, inciso I | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | Recurso da Yasmina Agropastoril S.A. contra exigências da SEP, para cancelamento de registro de companhia incentivada, de atas de assembleias e pareceres de auditoria (Instrução CVM 265/97, art. 12, I). Colegiado negou provimento, ressalvando que a exigência não retroage ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
+| art. 3º, alínea d | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da Yasmina Agropastoril S.A. contra exigências da SEP para cancelamento de registro de companhia incentivada (atas e pareceres de auditoria de 1991 a 2005), com base nos fundamentos da SEP (art. 12, I, da Instrução 265/97), acompanhando o relator, que ressalvou a não retroação da exigência ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
+| art. 3º, inciso I | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da Yasmina Agropastoril S.A. contra exigências da SEP para cancelamento de registro de companhia incentivada (atas e pareceres de auditoria de 1991 a 2005), com base nos fundamentos da SEP (art. 12, I, da Instrução 265/97), acompanhando o relator, que ressalvou a não retroação da exigência ao registro. | cvm/colegiado/2007/col-20070205-d02.md |
 
 ## art. 4º
 
@@ -44,5 +44,5 @@ Norma: fora do acervo.
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/0704 | 2005-03-08 | indeferido | multa-cominatoria-taxa | Pedido de reconsideração de decisão colegiado. Proc. RJ2005/0704. | cvm/colegiado/2005/col-20050308-d03.md |
+| decisao-colegiado | RJ2005/0704 | 2005-03-08 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão colegiado. Proc. RJ2005/0704. | cvm/colegiado/2005/col-20050308-d03.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |

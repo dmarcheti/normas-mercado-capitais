@@ -11,7 +11,7 @@ Norma: [leis/lei-10198.md](../../../normas/normas/leis/lei-10198.md) (texto vige
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | termo-compromisso | RJ2006/3364 | 2006-10-24 | rejeitado | ofertas-publicas | Rejeita proposta de termo de compromisso da MTel Tecnologia Ltda. e de seus sócios-gerentes em PAS sobre oferta pública de contratos de investimento coletivo sem registro (Lei 6.385/76, art. 19; Instruções CVM 270/98 e 296/98). Proposta de R$ 60.000,00 e curso a servidores considerada desproporcional. | cvm/colegiado/2006/col-20061024-d06.md |
+| art. 1º | termo-compromisso | RJ2006/3364 | 2006-10-24 | rejeitado | ofertas-publicas | O Colegiado rejeitou a proposta de termo de compromisso da MTEL Tecnologia Ltda. e de dois sócios-gerentes, em processo por oferta pública de valores mobiliários sem registros na CVM. Proposta: custeio de curso e R$ 60.000,00 à CVM. Acompanhou a posição do Comitê, que a considerou desproporcional à gravidade dos fatos. | cvm/colegiado/2006/col-20061024-d06.md |
 | art. 1º, § 12 | acordao-crsfn | 17/01 | 2007-09-27 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Distorção na conta estoque de gado por incluir bens de existência duvidosa – Diferença de provisão contábil de rendimentos (ganho de peso ou engorda) a pagar aos parceiros – Distribuição de contratos de investimentos coletivos sem autorização da CVM – Atos de liberalidade – Irregularidades, inclusive de natureza grave, caracterizadas - Apelos a que se nega provimento. | crsfn/2007/5310.md |
 
 ## Citada sem dispositivo identificado

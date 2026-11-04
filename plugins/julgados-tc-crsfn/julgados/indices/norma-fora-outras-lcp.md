@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | termo-compromisso | 19957.007605/2020-11 | 2020-11-24 | outro | normativo | Consulta da SGE sobre limitar a dez anos, contados da primeira apreciação pelo Comitê, as referências ao histórico de proponentes nos pareceres sobre termo de compromisso, com base nos princípios de razoabilidade e proporcionalidade. Colegiado aprovou por unanimidade. | cvm/colegiado/2020/col-20201124-d1965.md |
+| art. 1º | termo-compromisso | 19957.007605/2020-11 | 2020-11-24 | outro | processual | O Colegiado acompanhou a proposta do Comitê de Termo de Compromisso para limitar a dez anos, contados da primeira apreciação pelo CTC, as referências a histórico de proponentes em pareceres sobre propostas de termo de compromisso. Fundamento: razoabilidade e proporcionalidade. | cvm/colegiado/2020/col-20201124-d1965.md |
 
 ## lcp-70
 
@@ -53,13 +53,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | manipulacao-fraude | Termo de compromisso e acordo de não persecução penal com dois investidores por manipulação de preços de cotas do FII Personale I (art. 3º da RCVM 62). Pagamentos de R$ 338.333,25, parcelados, e de R$ 340.000,00; confissão restrita ao encerramento do procedimento penal. | cvm/colegiado/2023/col-20230815-d2874.md |
+| art. 6º | termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | manipulacao-fraude | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de dois investidores por suposta manipulação de preços de cotas do FII Personale I (art. 3º da RCVM 62), apresentadas com Acordo de Não Persecução Penal. Pagamentos: R$ 338.333,25, em 6 parcelas (um proponente), e R$ 340.000,00, em parcela única (outro), conforme proposta do Comitê. | cvm/colegiado/2023/col-20230815-d2874.md |
 
 ### art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | manipulacao-fraude | Termo de compromisso e acordo de não persecução penal com dois investidores por manipulação de preços de cotas do FII Personale I (art. 3º da RCVM 62). Pagamentos de R$ 338.333,25, parcelados, e de R$ 340.000,00; confissão restrita ao encerramento do procedimento penal. | cvm/colegiado/2023/col-20230815-d2874.md |
+| art. 8º | termo-compromisso | 19957.007321/2022-88 | 2023-08-15 | aceito | manipulacao-fraude | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de dois investidores por suposta manipulação de preços de cotas do FII Personale I (art. 3º da RCVM 62), apresentadas com Acordo de Não Persecução Penal. Pagamentos: R$ 338.333,25, em 6 parcelas (um proponente), e R$ 340.000,00, em parcela única (outro), conforme proposta do Comitê. | cvm/colegiado/2023/col-20230815-d2874.md |
 
 ## lcp-95
 
@@ -96,7 +96,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | Propostas de termo de compromisso de administrador fiduciário, gestoras, corretoras e diretores responsáveis de fundo de investimento em participações, acusados de operação fraudulenta na colocação e na administração de cotas (ICVM 8/79, II, c). Colegiado rejeitou as propostas, por entender que o caso deve ser julgado. | cvm/colegiado/2021/col-20211109-d2182.md |
+| termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de investimento em participações, acompanhando o parecer do Comitê. Este entendeu inconveniente a celebração, dada a gravidade, em tese, do caso e o reduzido grau de economia processual. | cvm/colegiado/2021/col-20211109-d2182.md |
 | acordao-crsfn | RJ2010/10555 | 2015-04-28 | parcial | assembleia-acionistas | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Participação, por entidade de previdência privada, em votação em separado para eleição de membro do Conselho Fiscal de sua patrocinadora – Irregularidade caracterizada – Acolhimento, em parte, das razões de defesa - Apelo a que se dá provimento parcial. | crsfn/2015/13361.md |
 
 ## lcp-109
@@ -119,7 +119,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 49 | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações - Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2010/11743.md |
-| art. 49 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | divulgacao-informacoes | Proposta de termo de compromisso do Instituto Aerus, acionista da Varig, por não comunicar à CVM alienações de ações (art. 12, §4º, da Instrução CVM 358/02). Rejeitada: os controles internos propostos não traziam compromisso positivo ao mercado, e a multa cominatória aplicada não foi quitada. | cvm/colegiado/2007/col-20070731-d07.md |
+| art. 49 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou a proposta de termo de compromisso do Instituto Aerus de Seguridade Social, acusado de não comunicar alienações de ações da Varig S.A. (art. 12, §4º, da Instrução 358/02). Acompanhou o parecer do Comitê, que não viu compromisso pecuniário compatível com o mercado e considerou a negociação inviável pela intervenção da Secretaria de Previdência Complementar. | cvm/colegiado/2007/col-20070731-d07.md |
 | art. 49, inciso VIII | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações - Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2010/11743.md |
 
 ### art. 50
@@ -127,7 +127,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 50 | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações - Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2010/11743.md |
-| art. 50 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | divulgacao-informacoes | Proposta de termo de compromisso do Instituto Aerus, acionista da Varig, por não comunicar à CVM alienações de ações (art. 12, §4º, da Instrução CVM 358/02). Rejeitada: os controles internos propostos não traziam compromisso positivo ao mercado, e a multa cominatória aplicada não foi quitada. | cvm/colegiado/2007/col-20070731-d07.md |
+| art. 50 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou a proposta de termo de compromisso do Instituto Aerus de Seguridade Social, acusado de não comunicar alienações de ações da Varig S.A. (art. 12, §4º, da Instrução 358/02). Acompanhou o parecer do Comitê, que não viu compromisso pecuniário compatível com o mercado e considerou a negociação inviável pela intervenção da Secretaria de Previdência Complementar. | cvm/colegiado/2007/col-20070731-d07.md |
 
 ### art. 63
 
@@ -139,7 +139,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 64 | termo-compromisso | 06/2004 | 2007-01-03 | aceito | manipulacao-fraude | Inquérito sobre negócios irregulares na BM&F envolvendo a Ipanema S.A. Corretora de Mercadorias e pessoas ligadas (mar/2000 a fev/2002). Nove propostas de termo de compromisso, negociadas pelo Comitê (Deliberação CVM 390/01, art. 8º, §4º). Julgamento com pedido de vista. | cvm/colegiado/2007/col-20070103-d01.md |
+| art. 64 | termo-compromisso | 06/2004 | 2007-01-03 | aceito | intermediacao | O Colegiado acolheu o parecer do Comitê: rejeitou as propostas da São Paulo CV S.A. e da Forte S.A. CCTVM e outros, e aceitou a de um acusado e da Grandfood Indústria e Comércio Ltda., com pagamento como condição de aceitação, não doação. | cvm/colegiado/2007/col-20070103-d01.md |
 
 ### Citada sem dispositivo identificado
 
@@ -153,7 +153,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 72 | termo-compromisso | RJ2008/10302 | 2010-02-09 | aceito | ofertas-publicas | Aceita proposta de termo de compromisso, apresentada antes de PAS, da Pothencia Tecnologia Ambiental Ltda., acusada de oferta pública de valores mobiliários sem registro (art. 19, Lei 6.385/76; art. 2º, Instrução 400/03). Compromisso de reflorestamento de 50.000 m² em Maringá (PR), orçado em R$ 100.000,00. | cvm/colegiado/2010/col-20100209-d03.md |
+| art. 72 | termo-compromisso | RJ2008/10302 | 2010-02-09 | aceito | ofertas-publicas | O Colegiado aceitou a proposta de termo de compromisso da Pothencia Tecnologia Ambiental Ltda. em processo por suposta oferta pública sem registro (Lei 6.385/76, art. 19), acompanhando o parecer do Comitê. Obrigação: reflorestamento de área em Maringá, projeto orçado em R$ 100.000,00. Prazos de noventa e de trinta dias para assinatura; SRE atestará o cumprimento. | cvm/colegiado/2010/col-20100209-d03.md |
 
 ### Citada sem dispositivo identificado
 
@@ -167,7 +167,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.003454/2017-18 | 2018-05-08 | aceito | deveres-administradores | Não zelo pela comutatividade de transação com partes relacionadas (art. 153, Lei 6.404/1976) e divulgação intempestiva de comunicação sobre a transação (art. 30, XXXIII, Instrução CVM 480/2009). Termos de compromisso de oito administradores aceitos, com pagamentos individuais de R$ 100.000,00 a R$ 200.000,00. | cvm/colegiado/2018/col-20180508-d1031.md |
+| termo-compromisso | 19957.003454/2017-18 | 2018-05-08 | aceito | deveres-administradores | O Colegiado aceitou proposta de termo de compromisso de oito administradores de companhia, acusados de não zelar pela comutatividade em transações com partes relacionadas (Lei 6.404/76, art. 153); um deles também por divulgação tardia (Instrução CVM 480/09, art. 30, XXXIII). Acompanhou o Comitê, que majorou os valores. | cvm/colegiado/2018/col-20180508-d1031.md |
 
 ## lcp-182
 

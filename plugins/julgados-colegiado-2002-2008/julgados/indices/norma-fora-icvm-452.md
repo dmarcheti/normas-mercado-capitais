@@ -11,20 +11,20 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
+| art. 1º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
 
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
+| art. 2º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
 
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2007/12091 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
-| art. 3º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
+| art. 3º | decisao-colegiado | RJ2007/12091 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
+| art. 3º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
 | art. 3º | decisao-colegiado | RJ2007/12094 | 2007-10-30 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12094. | cvm/colegiado/2007/col-20071030-d11.md |
 | art. 3º | decisao-colegiado | RJ2007/12867 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12867. | cvm/colegiado/2007/col-20071113-d19.md |
 | art. 3º | decisao-colegiado | RJ2007/12869 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12869. | cvm/colegiado/2007/col-20071113-d20.md |
@@ -33,7 +33,7 @@ Norma: fora do acervo.
 | art. 3º | decisao-colegiado | RJ2007/12872 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12872. | cvm/colegiado/2007/col-20071113-d23.md |
 | art. 3º | decisao-colegiado | RJ2007/12734 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12734. | cvm/colegiado/2007/col-20071113-d27.md |
 | art. 3º | decisao-colegiado | RJ2007/12868 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12868. | cvm/colegiado/2007/col-20071113-d28.md |
-| art. 3º | decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm/colegiado/2007/col-20071113-d29.md |
+| art. 3º | decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | auditoria-independente | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm/colegiado/2007/col-20071113-d29.md |
 | art. 3º | decisao-colegiado | RJ2007/12399 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12399. | cvm/colegiado/2007/col-20071127-d03.md |
 | art. 3º | decisao-colegiado | RJ2007/13636 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13636. | cvm/colegiado/2007/col-20071204-d06.md |
 | art. 3º | decisao-colegiado | RJ2007/13731 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13731. | cvm/colegiado/2007/col-20071204-d07.md |
@@ -100,20 +100,20 @@ Norma: fora do acervo.
 | art. 3º | decisao-colegiado | RJ2007/13626 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13626. | cvm/colegiado/2008/col-20080520-d08.md |
 | art. 3º | decisao-colegiado | RJ2007/13970 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13970. | cvm/colegiado/2008/col-20080520-d09.md |
 | art. 3º | decisao-colegiado | RJ2007/13439 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13439. | cvm/colegiado/2008/col-20080520-d10.md |
-| art. 3º | decisao-colegiado | RJ2007/13694 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13694. | cvm/colegiado/2008/col-20080527-d04.md |
-| art. 3º | decisao-colegiado | RJ2007/13618 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13618. | cvm/colegiado/2008/col-20080527-d05.md |
-| art. 3º | decisao-colegiado | RJ2007/13610 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13610. | cvm/colegiado/2008/col-20080527-d06.md |
-| art. 3º | decisao-colegiado | RJ2007/13465 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13465. | cvm/colegiado/2008/col-20080527-d07.md |
-| art. 3º | decisao-colegiado | RJ2007/13440 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13440. | cvm/colegiado/2008/col-20080527-d08.md |
-| art. 3º | decisao-colegiado | RJ2007/13276 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13276. | cvm/colegiado/2008/col-20080527-d09.md |
-| art. 3º | decisao-colegiado | RJ2007/13549 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13549. | cvm/colegiado/2008/col-20080527-d10.md |
-| art. 3º | decisao-colegiado | RJ2007/13413 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13413. | cvm/colegiado/2008/col-20080527-d11.md |
-| art. 3º | decisao-colegiado | RJ2007/13281 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13281. | cvm/colegiado/2008/col-20080527-d12.md |
-| art. 3º | decisao-colegiado | RJ2007/13491 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13491. | cvm/colegiado/2008/col-20080527-d13.md |
-| art. 3º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
-| art. 3º | decisao-colegiado | RJ2007/14500 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/14500. | cvm/colegiado/2008/col-20080605-d05.md |
-| art. 3º | decisao-colegiado | RJ2007/13544 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
-| art. 3º | decisao-colegiado | RJ2007/13863 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13863. | cvm/colegiado/2008/col-20080605-d07.md |
+| art. 3º | decisao-colegiado | RJ2007/13694 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13694. | cvm/colegiado/2008/col-20080527-d04.md |
+| art. 3º | decisao-colegiado | RJ2007/13618 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13618. | cvm/colegiado/2008/col-20080527-d05.md |
+| art. 3º | decisao-colegiado | RJ2007/13610 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13610. | cvm/colegiado/2008/col-20080527-d06.md |
+| art. 3º | decisao-colegiado | RJ2007/13465 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13465. | cvm/colegiado/2008/col-20080527-d07.md |
+| art. 3º | decisao-colegiado | RJ2007/13440 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13440. | cvm/colegiado/2008/col-20080527-d08.md |
+| art. 3º | decisao-colegiado | RJ2007/13276 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13276. | cvm/colegiado/2008/col-20080527-d09.md |
+| art. 3º | decisao-colegiado | RJ2007/13549 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13549. | cvm/colegiado/2008/col-20080527-d10.md |
+| art. 3º | decisao-colegiado | RJ2007/13413 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13413. | cvm/colegiado/2008/col-20080527-d11.md |
+| art. 3º | decisao-colegiado | RJ2007/13281 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13281. | cvm/colegiado/2008/col-20080527-d12.md |
+| art. 3º | decisao-colegiado | RJ2007/13491 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13491. | cvm/colegiado/2008/col-20080527-d13.md |
+| art. 3º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
+| art. 3º | decisao-colegiado | RJ2007/14500 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/14500. | cvm/colegiado/2008/col-20080605-d05.md |
+| art. 3º | decisao-colegiado | RJ2007/13544 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
+| art. 3º | decisao-colegiado | RJ2007/13863 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13863. | cvm/colegiado/2008/col-20080605-d07.md |
 | art. 3º | decisao-colegiado | RJ2007/13187 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13187. | cvm/colegiado/2008/col-20080617-d06.md |
 | art. 3º | decisao-colegiado | RJ2007/13298 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13298. | cvm/colegiado/2008/col-20080617-d07.md |
 | art. 3º | decisao-colegiado | RJ2007/13307 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13307. | cvm/colegiado/2008/col-20080617-d08.md |
@@ -128,9 +128,9 @@ Norma: fora do acervo.
 | art. 3º | decisao-colegiado | RJ2007/13736 | 2008-07-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13736. | cvm/colegiado/2008/col-20080715-d01.md |
 | art. 3º | decisao-colegiado | RJ2007/13412 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/13412. | cvm/colegiado/2008/col-20080722-d11.md |
 | art. 3º | decisao-colegiado | RJ2008/6907 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2008/6907. | cvm/colegiado/2008/col-20080819-d05.md |
-| art. 3º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 3º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 3º | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 3º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 3º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 3º | decisao-colegiado | RJ2008/9599 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9599. | cvm/colegiado/2008/col-20081021-d12.md |
 | art. 3º | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
 | art. 3º | decisao-colegiado | RJ2008/9976 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9976. | cvm/colegiado/2008/col-20081028-d05.md |
@@ -146,21 +146,21 @@ Norma: fora do acervo.
 | art. 4º | decisao-colegiado | RJ2007/12872 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12872. | cvm/colegiado/2007/col-20071113-d23.md |
 | art. 4º | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0326. | cvm/colegiado/2008/col-20080129-d12.md |
 | art. 4º | decisao-colegiado | RJ2007/13424 | 2008-05-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13424. | cvm/colegiado/2008/col-20080513-d13.md |
-| art. 4º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
+| art. 4º | decisao-colegiado | RJ2007/13215 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
 
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ2007/12049 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
-| art. 5º | decisao-colegiado | RJ2007/14042 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
-| art. 5º | decisao-colegiado | RJ2007/14045 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
-| art. 5º | decisao-colegiado | RJ2007/14046 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
-| art. 5º | decisao-colegiado | RJ2007/14047 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
-| art. 5º | decisao-colegiado | RJ2007/14043 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
-| art. 5º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 5º | decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+| art. 5º | decisao-colegiado | RJ2007/14042 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
+| art. 5º | decisao-colegiado | RJ2007/14045 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
+| art. 5º | decisao-colegiado | RJ2007/14046 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
+| art. 5º | decisao-colegiado | RJ2007/14047 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
+| art. 5º | decisao-colegiado | RJ2007/14043 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
+| art. 5º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 5º | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 5º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 5º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 5º | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9254. | cvm/colegiado/2008/col-20081007-d13.md |
 | art. 5º | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
 | art. 5º, § 2º | decisao-colegiado | RJ2007/13842 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13842. | cvm/colegiado/2007/col-20071211-d08.md |
@@ -169,21 +169,21 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
-| art. 6º | decisao-colegiado | RJ2007/11120 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2007/11120. | cvm/colegiado/2007/col-20071106-d02.md |
+| art. 6º | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
+| art. 6º | decisao-colegiado | RJ2007/11120 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2007/11120. | cvm/colegiado/2007/col-20071106-d02.md |
 | art. 6º | decisao-colegiado | RJ2007/12734 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12734. | cvm/colegiado/2007/col-20071113-d27.md |
 | art. 6º | decisao-colegiado | RJ2007/12868 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12868. | cvm/colegiado/2007/col-20071113-d28.md |
 | art. 6º | decisao-colegiado | RJ2007/13895 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13895. | cvm/colegiado/2007/col-20071211-d12.md |
 | art. 6º | decisao-colegiado | RJ2007/13897 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13897. | cvm/colegiado/2007/col-20071211-d13.md |
 | art. 6º | decisao-colegiado | RJ2007/13896 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13896. | cvm/colegiado/2007/col-20071211-d19.md |
 | art. 6º | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0326. | cvm/colegiado/2008/col-20080129-d12.md |
-| art. 6º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 6º | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 6º | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 6º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 6º | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 6º | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
-| art. 6º, inciso I | decisao-colegiado | RJ2007/12049 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
-| art. 6º, inciso I | decisao-colegiado | RJ2007/12274 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
-| art. 6º, inciso I | decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm/colegiado/2007/col-20071113-d29.md |
+| art. 6º, inciso I | decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+| art. 6º, inciso I | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
+| art. 6º, inciso I | decisao-colegiado | RJ2007/13012 | 2007-11-13 | nao-provido | auditoria-independente | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/13012. | cvm/colegiado/2007/col-20071113-d29.md |
 | art. 6º, inciso I | decisao-colegiado | RJ2007/13853 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13853. | cvm/colegiado/2007/col-20071204-d12.md |
 | art. 6º, inciso I | decisao-colegiado | RJ2007/13858 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13858. | cvm/colegiado/2007/col-20071204-d13.md |
 | art. 6º, inciso I | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0326. | cvm/colegiado/2008/col-20080129-d12.md |
@@ -197,13 +197,13 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 9º | decisao-colegiado | 544/2008; SP2008/0191 | 2008-12-02 | outro | multa-cominatoria-taxa | Aplicação de multa cominatória. Proc. SP2008/0191. | cvm/colegiado/2008/col-20081202-d08.md |
+| art. 9º | decisao-colegiado | 544/2008; SP2008/0191 | 2008-12-02 | outro | exercicio-irregular | Aplicação de multa cominatória. Proc. SP2008/0191. | cvm/colegiado/2008/col-20081202-d08.md |
 
 ## art. 10
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | 544/2008; SP2008/0191 | 2008-12-02 | outro | multa-cominatoria-taxa | Aplicação de multa cominatória. Proc. SP2008/0191. | cvm/colegiado/2008/col-20081202-d08.md |
+| art. 10 | decisao-colegiado | 544/2008; SP2008/0191 | 2008-12-02 | outro | exercicio-irregular | Aplicação de multa cominatória. Proc. SP2008/0191. | cvm/colegiado/2008/col-20081202-d08.md |
 
 ## art. 11
 
@@ -256,7 +256,7 @@ Norma: fora do acervo.
 | art. 11 | decisao-colegiado | RJ2007/13412 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/13412. | cvm/colegiado/2008/col-20080722-d11.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/12868 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12868. | cvm/colegiado/2007/col-20071113-d28.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/12399 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12399. | cvm/colegiado/2007/col-20071127-d03.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/12583 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12583. | cvm/colegiado/2007/col-20071127-d05.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/12583 | 2007-11-27 | nao-provido | auditoria-independente | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12583. | cvm/colegiado/2007/col-20071127-d05.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/12593 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12593. | cvm/colegiado/2007/col-20071127-d06.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/12733 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12733. | cvm/colegiado/2007/col-20071127-d07.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/12961 | 2007-11-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2007/12961. | cvm/colegiado/2007/col-20071127-d08.md |
@@ -284,20 +284,20 @@ Norma: fora do acervo.
 | art. 11, inciso I | decisao-colegiado | RJ2007/13626 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13626. | cvm/colegiado/2008/col-20080520-d08.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13970 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13970. | cvm/colegiado/2008/col-20080520-d09.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13439 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13439. | cvm/colegiado/2008/col-20080520-d10.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13694 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13694. | cvm/colegiado/2008/col-20080527-d04.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13618 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13618. | cvm/colegiado/2008/col-20080527-d05.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13610 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13610. | cvm/colegiado/2008/col-20080527-d06.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13465 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13465. | cvm/colegiado/2008/col-20080527-d07.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13440 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13440. | cvm/colegiado/2008/col-20080527-d08.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13276 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13276. | cvm/colegiado/2008/col-20080527-d09.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13549 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13549. | cvm/colegiado/2008/col-20080527-d10.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13413 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13413. | cvm/colegiado/2008/col-20080527-d11.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13281 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13281. | cvm/colegiado/2008/col-20080527-d12.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13491 | 2008-05-27 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13491. | cvm/colegiado/2008/col-20080527-d13.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13215 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/14500 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/14500. | cvm/colegiado/2008/col-20080605-d05.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13544 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
-| art. 11, inciso I | decisao-colegiado | RJ2007/13863 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13863. | cvm/colegiado/2008/col-20080605-d07.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13694 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13694. | cvm/colegiado/2008/col-20080527-d04.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13618 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13618. | cvm/colegiado/2008/col-20080527-d05.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13610 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13610. | cvm/colegiado/2008/col-20080527-d06.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13465 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13465. | cvm/colegiado/2008/col-20080527-d07.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13440 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13440. | cvm/colegiado/2008/col-20080527-d08.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13276 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13276. | cvm/colegiado/2008/col-20080527-d09.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13549 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13549. | cvm/colegiado/2008/col-20080527-d10.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13413 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13413. | cvm/colegiado/2008/col-20080527-d11.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13281 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13281. | cvm/colegiado/2008/col-20080527-d12.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13491 | 2008-05-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13491. | cvm/colegiado/2008/col-20080527-d13.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13215 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13215. | cvm/colegiado/2008/col-20080605-d04.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/14500 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/14500. | cvm/colegiado/2008/col-20080605-d05.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13544 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
+| art. 11, inciso I | decisao-colegiado | RJ2007/13863 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13863. | cvm/colegiado/2008/col-20080605-d07.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13187 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13187. | cvm/colegiado/2008/col-20080617-d06.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13298 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13298. | cvm/colegiado/2008/col-20080617-d07.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13307 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13307. | cvm/colegiado/2008/col-20080617-d08.md |
@@ -306,25 +306,25 @@ Norma: fora do acervo.
 | art. 11, inciso I | decisao-colegiado | RJ2007/13568 | 2008-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13568. | cvm/colegiado/2008/col-20080617-d11.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13812 | 2008-06-17 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13812. | cvm/colegiado/2008/col-20080617-d12.md |
 | art. 11, inciso I | decisao-colegiado | RJ2007/13736 | 2008-07-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13736. | cvm/colegiado/2008/col-20080715-d01.md |
-| art. 11, inciso I | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 11, inciso I | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 11, inciso I | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 11, inciso I | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 11, inciso I | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 11, inciso I | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9254. | cvm/colegiado/2008/col-20081007-d13.md |
 | art. 11, inciso I | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
-| art. 11, inciso II | decisao-colegiado | RJ2007/13544 | 2008-06-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
+| art. 11, inciso II | decisao-colegiado | RJ2007/13544 | 2008-06-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13544. | cvm/colegiado/2008/col-20080605-d06.md |
 
 ## art. 12
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 12 | decisao-colegiado | RJ2007/11996 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/11996. | cvm/colegiado/2007/col-20071017-d08.md |
-| art. 12 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
-| art. 12 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
-| art. 12 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
-| art. 12 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
-| art. 12 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
-| art. 12 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
-| art. 12 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
+| art. 12 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
+| art. 12 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
+| art. 12 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
+| art. 12 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
+| art. 12 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
+| art. 12 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
+| art. 12 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
 | art. 12 | decisao-colegiado | RJ2007/12867 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12867. | cvm/colegiado/2007/col-20071113-d19.md |
 | art. 12 | decisao-colegiado | RJ2007/12869 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12869. | cvm/colegiado/2007/col-20071113-d20.md |
 | art. 12 | decisao-colegiado | RJ2007/12870 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12870. | cvm/colegiado/2007/col-20071113-d21.md |
@@ -337,11 +337,11 @@ Norma: fora do acervo.
 | art. 12 | decisao-colegiado | RJ2007/13849 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13849. | cvm/colegiado/2007/col-20071211-d09.md |
 | art. 12 | decisao-colegiado | RJ2007/13850 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13850. | cvm/colegiado/2007/col-20071211-d10.md |
 | art. 12 | decisao-colegiado | RJ2007/13851 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13851. | cvm/colegiado/2007/col-20071211-d11.md |
-| art. 12 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
-| art. 12 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
-| art. 12 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
-| art. 12 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
-| art. 12 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
+| art. 12 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
+| art. 12 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
+| art. 12 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
+| art. 12 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
+| art. 12 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
 | art. 12 | decisao-colegiado | RJ2008/0787 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0787. | cvm/colegiado/2008/col-20080219-d11.md |
 | art. 12 | decisao-colegiado | RJ2008/0788 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0788. | cvm/colegiado/2008/col-20080219-d12.md |
 | art. 12 | decisao-colegiado | RJ2008/0790 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0790. | cvm/colegiado/2008/col-20080219-d13.md |
@@ -410,7 +410,7 @@ Norma: fora do acervo.
 | art. 12 | decisao-colegiado | RJ2008/3851 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3851. | cvm/colegiado/2008/col-20080520-d14.md |
 | art. 12 | decisao-colegiado | RJ2008/3856 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3856. | cvm/colegiado/2008/col-20080520-d15.md |
 | art. 12 | decisao-colegiado | RJ2008/3860 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3860. | cvm/colegiado/2008/col-20080520-d16.md |
-| art. 12 | decisao-colegiado | RJ2008/3862 | 2008-05-20 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3862. | cvm/colegiado/2008/col-20080520-d17.md |
+| art. 12 | decisao-colegiado | RJ2008/3862 | 2008-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/3862. | cvm/colegiado/2008/col-20080520-d17.md |
 | art. 12 | decisao-colegiado | RJ2007/13812 | 2008-06-17 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2007/13812. | cvm/colegiado/2008/col-20080617-d12.md |
 | art. 12 | decisao-colegiado | RJ2008/4813 | 2008-06-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/4813. | cvm/colegiado/2008/col-20080624-d06.md |
 | art. 12 | decisao-colegiado | RJ2008/4939 | 2008-06-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/4939. | cvm/colegiado/2008/col-20080624-d07.md |
@@ -428,16 +428,16 @@ Norma: fora do acervo.
 | art. 12 | decisao-colegiado | RJ2008/5335 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5335. | cvm/colegiado/2008/col-20080805-d03.md |
 | art. 12 | decisao-colegiado | RJ2008/5336 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5336. | cvm/colegiado/2008/col-20080805-d04.md |
 | art. 12 | decisao-colegiado | RJ2008/5337 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5337. | cvm/colegiado/2008/col-20080805-d05.md |
-| art. 12 | decisao-colegiado | RJ2008/5338 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5338. | cvm/colegiado/2008/col-20080805-d06.md |
-| art. 12 | decisao-colegiado | RJ2008/5339 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5339. | cvm/colegiado/2008/col-20080805-d07.md |
-| art. 12 | decisao-colegiado | RJ2008/5340 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5340. | cvm/colegiado/2008/col-20080805-d08.md |
-| art. 12 | decisao-colegiado | RJ2008/5341 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5341. | cvm/colegiado/2008/col-20080805-d09.md |
-| art. 12 | decisao-colegiado | RJ2008/6569 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6569. | cvm/colegiado/2008/col-20080805-d10.md |
-| art. 12 | decisao-colegiado | RJ2008/6574 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6574. | cvm/colegiado/2008/col-20080812-d14.md |
+| art. 12 | decisao-colegiado | RJ2008/5338 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5338. | cvm/colegiado/2008/col-20080805-d06.md |
+| art. 12 | decisao-colegiado | RJ2008/5339 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5339. | cvm/colegiado/2008/col-20080805-d07.md |
+| art. 12 | decisao-colegiado | RJ2008/5340 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5340. | cvm/colegiado/2008/col-20080805-d08.md |
+| art. 12 | decisao-colegiado | RJ2008/5341 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/5341. | cvm/colegiado/2008/col-20080805-d09.md |
+| art. 12 | decisao-colegiado | RJ2008/6569 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6569. | cvm/colegiado/2008/col-20080805-d10.md |
+| art. 12 | decisao-colegiado | RJ2008/6574 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6574. | cvm/colegiado/2008/col-20080812-d14.md |
 | art. 12 | decisao-colegiado | RJ2008/6713 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6713. | cvm/colegiado/2008/col-20080819-d07.md |
-| art. 12 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 12 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 12 | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 12 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 12 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 12 | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9254. | cvm/colegiado/2008/col-20081007-d13.md |
 | art. 12 | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
 | art. 12 | decisao-colegiado | RJ2008/9171 | 2008-10-21 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9171. | cvm/colegiado/2008/col-20081021-d18.md |
@@ -448,31 +448,31 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 13 | decisao-colegiado | RJ2007/11996 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/11996. | cvm/colegiado/2007/col-20071017-d08.md |
 | art. 13 | decisao-colegiado | RJ2007/12000 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12000. | cvm/colegiado/2007/col-20071017-d09.md |
-| art. 13 | decisao-colegiado | RJ2007/12033 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12033. | cvm/colegiado/2007/col-20071017-d10.md |
-| art. 13 | decisao-colegiado | RJ2007/12039 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12039. | cvm/colegiado/2007/col-20071017-d11.md |
-| art. 13 | decisao-colegiado | RJ2007/12049 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
-| art. 13 | decisao-colegiado | RJ2007/12166 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12166. | cvm/colegiado/2007/col-20071017-d13.md |
-| art. 13 | decisao-colegiado | RJ2007/12170 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12170. | cvm/colegiado/2007/col-20071017-d14.md |
-| art. 13 | decisao-colegiado | RJ2007/12191 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12191. | cvm/colegiado/2007/col-20071017-d15.md |
-| art. 13 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
-| art. 13 | decisao-colegiado | RJ2007/12005 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12005. | cvm/colegiado/2007/col-20071023-d08.md |
-| art. 13 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
-| art. 13 | decisao-colegiado | RJ2007/12167 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12167. | cvm/colegiado/2007/col-20071023-d10.md |
-| art. 13 | decisao-colegiado | RJ2007/12169 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12169. | cvm/colegiado/2007/col-20071023-d11.md |
-| art. 13 | decisao-colegiado | RJ2007/12179 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12179. | cvm/colegiado/2007/col-20071023-d12.md |
-| art. 13 | decisao-colegiado | RJ2007/12083 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12083. | cvm/colegiado/2007/col-20071030-d06.md |
-| art. 13 | decisao-colegiado | RJ2007/12214 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12214. | cvm/colegiado/2007/col-20071030-d07.md |
-| art. 13 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
-| art. 13 | decisao-colegiado | RJ2007/12274 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
+| art. 13 | decisao-colegiado | RJ2007/12033 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12033. | cvm/colegiado/2007/col-20071017-d10.md |
+| art. 13 | decisao-colegiado | RJ2007/12039 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12039. | cvm/colegiado/2007/col-20071017-d11.md |
+| art. 13 | decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+| art. 13 | decisao-colegiado | RJ2007/12166 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12166. | cvm/colegiado/2007/col-20071017-d13.md |
+| art. 13 | decisao-colegiado | RJ2007/12170 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12170. | cvm/colegiado/2007/col-20071017-d14.md |
+| art. 13 | decisao-colegiado | RJ2007/12191 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12191. | cvm/colegiado/2007/col-20071017-d15.md |
+| art. 13 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
+| art. 13 | decisao-colegiado | RJ2007/12005 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12005. | cvm/colegiado/2007/col-20071023-d08.md |
+| art. 13 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
+| art. 13 | decisao-colegiado | RJ2007/12167 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12167. | cvm/colegiado/2007/col-20071023-d10.md |
+| art. 13 | decisao-colegiado | RJ2007/12169 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12169. | cvm/colegiado/2007/col-20071023-d11.md |
+| art. 13 | decisao-colegiado | RJ2007/12179 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12179. | cvm/colegiado/2007/col-20071023-d12.md |
+| art. 13 | decisao-colegiado | RJ2007/12083 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12083. | cvm/colegiado/2007/col-20071030-d06.md |
+| art. 13 | decisao-colegiado | RJ2007/12214 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12214. | cvm/colegiado/2007/col-20071030-d07.md |
+| art. 13 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
+| art. 13 | decisao-colegiado | RJ2007/12274 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12274. | cvm/colegiado/2007/col-20071030-d09.md |
 | art. 13 | decisao-colegiado | RJ2007/12094 | 2007-10-30 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12094. | cvm/colegiado/2007/col-20071030-d11.md |
-| art. 13 | decisao-colegiado | RJ2007/12144 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12144. | cvm/colegiado/2007/col-20071030-d12.md |
-| art. 13 | decisao-colegiado | RJ2007/12146 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12146. | cvm/colegiado/2007/col-20071030-d13.md |
-| art. 13 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
-| art. 13 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
-| art. 13 | decisao-colegiado | RJ2007/12490 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12490. | cvm/colegiado/2007/col-20071030-d16.md |
-| art. 13 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
-| art. 13 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
-| art. 13 | decisao-colegiado | RJ2007/12721 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12721. | cvm/colegiado/2007/col-20071106-d07.md |
+| art. 13 | decisao-colegiado | RJ2007/12144 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12144. | cvm/colegiado/2007/col-20071030-d12.md |
+| art. 13 | decisao-colegiado | RJ2007/12146 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12146. | cvm/colegiado/2007/col-20071030-d13.md |
+| art. 13 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
+| art. 13 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
+| art. 13 | decisao-colegiado | RJ2007/12490 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12490. | cvm/colegiado/2007/col-20071030-d16.md |
+| art. 13 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
+| art. 13 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
+| art. 13 | decisao-colegiado | RJ2007/12721 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12721. | cvm/colegiado/2007/col-20071106-d07.md |
 | art. 13 | decisao-colegiado | RJ2007/12822 | 2007-11-06 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12822. | cvm/colegiado/2007/col-20071106-d08.md |
 | art. 13 | decisao-colegiado | RJ2007/12698 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12698. | cvm/colegiado/2007/col-20071113-d15.md |
 | art. 13 | decisao-colegiado | RJ2007/12699 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12699. | cvm/colegiado/2007/col-20071113-d16.md |
@@ -497,11 +497,11 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2007/13849 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13849. | cvm/colegiado/2007/col-20071211-d09.md |
 | art. 13 | decisao-colegiado | RJ2007/13850 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13850. | cvm/colegiado/2007/col-20071211-d10.md |
 | art. 13 | decisao-colegiado | RJ2007/13851 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13851. | cvm/colegiado/2007/col-20071211-d11.md |
-| art. 13 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
-| art. 13 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
-| art. 13 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
-| art. 13 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
-| art. 13 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
+| art. 13 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
+| art. 13 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
+| art. 13 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
+| art. 13 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
+| art. 13 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
 | art. 13 | decisao-colegiado | RJ2007/14323 | 2008-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14323. | cvm/colegiado/2008/col-20080108-d05.md |
 | art. 13 | decisao-colegiado | RJ2007/14351 | 2008-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14351. | cvm/colegiado/2008/col-20080108-d06.md |
 | art. 13 | decisao-colegiado | RJ2008/0319 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0319. | cvm/colegiado/2008/col-20080129-d08.md |
@@ -523,11 +523,11 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2007/12708 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12708. | cvm/colegiado/2008/col-20080722-d08.md |
 | art. 13 | decisao-colegiado | RJ2007/12730 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12730. | cvm/colegiado/2008/col-20080722-d09.md |
 | art. 13 | decisao-colegiado | RJ2008/2840 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2008/2840. | cvm/colegiado/2008/col-20080722-d20.md |
-| art. 13 | decisao-colegiado | RJ2008/6971 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6971. | cvm/colegiado/2008/col-20080812-d09.md |
-| art. 13 | decisao-colegiado | RJ2008/6972 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6972. | cvm/colegiado/2008/col-20080812-d10.md |
-| art. 13 | decisao-colegiado | RJ2008/6973 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6973. | cvm/colegiado/2008/col-20080812-d11.md |
-| art. 13 | decisao-colegiado | RJ2008/6975 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6975. | cvm/colegiado/2008/col-20080812-d12.md |
-| art. 13 | decisao-colegiado | RJ2008/6978 | 2008-08-12 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6978. | cvm/colegiado/2008/col-20080812-d13.md |
+| art. 13 | decisao-colegiado | RJ2008/6971 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6971. | cvm/colegiado/2008/col-20080812-d09.md |
+| art. 13 | decisao-colegiado | RJ2008/6972 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6972. | cvm/colegiado/2008/col-20080812-d10.md |
+| art. 13 | decisao-colegiado | RJ2008/6973 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6973. | cvm/colegiado/2008/col-20080812-d11.md |
+| art. 13 | decisao-colegiado | RJ2008/6975 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6975. | cvm/colegiado/2008/col-20080812-d12.md |
+| art. 13 | decisao-colegiado | RJ2008/6978 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6978. | cvm/colegiado/2008/col-20080812-d13.md |
 | art. 13 | decisao-colegiado | RJ2008/8122 | 2008-09-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8122. | cvm/colegiado/2008/col-20080916-d02.md |
 | art. 13 | decisao-colegiado | RJ2008/8189 | 2008-09-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8189. | cvm/colegiado/2008/col-20080916-d03.md |
 | art. 13 | decisao-colegiado | RJ2008/8272 | 2008-09-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8272. | cvm/colegiado/2008/col-20080916-d04.md |
@@ -535,11 +535,11 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2008/8275 | 2008-09-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8275. | cvm/colegiado/2008/col-20080916-d06.md |
 | art. 13 | decisao-colegiado | RJ2008/8276 | 2008-09-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8276. | cvm/colegiado/2008/col-20080916-d07.md |
 | art. 13 | decisao-colegiado | RJ2008/8673 | 2008-09-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8673. | cvm/colegiado/2008/col-20080923-d06.md |
-| art. 13 | decisao-colegiado | RJ2008/8838 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8838. | cvm/colegiado/2008/col-20080930-d17.md |
-| art. 13 | decisao-colegiado | RJ2008/8889 | 2008-09-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8889. | cvm/colegiado/2008/col-20080930-d18.md |
-| art. 13 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
-| art. 13 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
-| art. 13 | decisao-colegiado | RJ2008/8901 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8901. | cvm/colegiado/2008/col-20081007-d12.md |
+| art. 13 | decisao-colegiado | RJ2008/8838 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8838. | cvm/colegiado/2008/col-20080930-d17.md |
+| art. 13 | decisao-colegiado | RJ2008/8889 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8889. | cvm/colegiado/2008/col-20080930-d18.md |
+| art. 13 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 13 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 13 | decisao-colegiado | RJ2008/8901 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8901. | cvm/colegiado/2008/col-20081007-d12.md |
 | art. 13 | decisao-colegiado | RJ2008/8769 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8769. | cvm/colegiado/2008/col-20081021-d11.md |
 | art. 13 | decisao-colegiado | RJ2008/9599 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9599. | cvm/colegiado/2008/col-20081021-d12.md |
 | art. 13 | decisao-colegiado | RJ2008/8874 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8874. | cvm/colegiado/2008/col-20081021-d13.md |
@@ -550,7 +550,7 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2008/9171 | 2008-10-21 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9171. | cvm/colegiado/2008/col-20081021-d18.md |
 | art. 13 | decisao-colegiado | RJ2008/9328 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9328. | cvm/colegiado/2008/col-20081021-d19.md |
 | art. 13 | decisao-colegiado | RJ2008/9280 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9280. | cvm/colegiado/2008/col-20081021-d20.md |
-| art. 13 | decisao-colegiado | RJ2008/9197 | 2008-10-28 | deferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9197. | cvm/colegiado/2008/col-20081028-d01.md |
+| art. 13 | decisao-colegiado | RJ2008/9197 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9197. | cvm/colegiado/2008/col-20081028-d01.md |
 | art. 13 | decisao-colegiado | RJ2008/9976 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9976. | cvm/colegiado/2008/col-20081028-d05.md |
 | art. 13, § 1º | decisao-colegiado | RJ2008/6069 | 2008-07-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN. Proc. RJ2008/6069. | cvm/colegiado/2008/col-20080708-d14.md |
 | art. 13, § 1º | decisao-colegiado | RJ2008/6070 | 2008-07-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN. Proc. RJ2008/6070. | cvm/colegiado/2008/col-20080708-d15.md |
@@ -560,7 +560,7 @@ Norma: fora do acervo.
 | art. 13, § 1º | decisao-colegiado | RJ2008/6117 | 2008-07-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN. Proc. RJ2008/6117. | cvm/colegiado/2008/col-20080708-d19.md |
 | art. 13, § 1º | decisao-colegiado | RJ2008/6119 | 2008-07-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN. Proc. RJ2008/6119. | cvm/colegiado/2008/col-20080708-d20.md |
 | art. 13, § 1º | decisao-colegiado | RJ2008/6120 | 2008-07-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN. Proc. RJ2008/6120. | cvm/colegiado/2008/col-20080708-d21.md |
-| art. 13, § 1º | decisao-colegiado | RJ2008/6569 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6569. | cvm/colegiado/2008/col-20080805-d10.md |
+| art. 13, § 1º | decisao-colegiado | RJ2008/6569 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6569. | cvm/colegiado/2008/col-20080805-d10.md |
 | art. 13, § 1º | decisao-colegiado | RJ2008/6713 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6713. | cvm/colegiado/2008/col-20080819-d07.md |
 
 ## art. 14
@@ -568,14 +568,14 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 14 | decisao-colegiado | RJ2007/11996 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/11996. | cvm/colegiado/2007/col-20071017-d08.md |
-| art. 14 | decisao-colegiado | RJ2007/12049 | 2007-10-17 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
-| art. 14 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
-| art. 14 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
-| art. 14 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
-| art. 14 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
-| art. 14 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
-| art. 14 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
-| art. 14 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
+| art. 14 | decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+| art. 14 | decisao-colegiado | RJ2007/12091 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12091. | cvm/colegiado/2007/col-20071023-d07.md |
+| art. 14 | decisao-colegiado | RJ2007/12147 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12147. | cvm/colegiado/2007/col-20071023-d09.md |
+| art. 14 | decisao-colegiado | RJ2007/12237 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | cvm/colegiado/2007/col-20071030-d08.md |
+| art. 14 | decisao-colegiado | RJ2007/12193 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12193. | cvm/colegiado/2007/col-20071030-d14.md |
+| art. 14 | decisao-colegiado | RJ2007/12486 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12486. | cvm/colegiado/2007/col-20071030-d15.md |
+| art. 14 | decisao-colegiado | RJ2007/12299 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12299. | cvm/colegiado/2007/col-20071106-d05.md |
+| art. 14 | decisao-colegiado | RJ2007/12300 | 2007-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12300. | cvm/colegiado/2007/col-20071106-d06.md |
 | art. 14 | decisao-colegiado | RJ2007/12700 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12700. | cvm/colegiado/2007/col-20071113-d17.md |
 | art. 14 | decisao-colegiado | RJ2007/12867 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12867. | cvm/colegiado/2007/col-20071113-d19.md |
 | art. 14 | decisao-colegiado | RJ2007/12869 | 2007-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12869. | cvm/colegiado/2007/col-20071113-d20.md |
@@ -591,11 +591,11 @@ Norma: fora do acervo.
 | art. 14 | decisao-colegiado | RJ2007/13849 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13849. | cvm/colegiado/2007/col-20071211-d09.md |
 | art. 14 | decisao-colegiado | RJ2007/13850 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13850. | cvm/colegiado/2007/col-20071211-d10.md |
 | art. 14 | decisao-colegiado | RJ2007/13851 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13851. | cvm/colegiado/2007/col-20071211-d11.md |
-| art. 14 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
-| art. 14 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
-| art. 14 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
-| art. 14 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
-| art. 14 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
+| art. 14 | decisao-colegiado | RJ2007/14042 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14042. | cvm/colegiado/2007/col-20071211-d14.md |
+| art. 14 | decisao-colegiado | RJ2007/14045 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14045. | cvm/colegiado/2007/col-20071211-d15.md |
+| art. 14 | decisao-colegiado | RJ2007/14046 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14046. | cvm/colegiado/2007/col-20071211-d16.md |
+| art. 14 | decisao-colegiado | RJ2007/14047 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14047. | cvm/colegiado/2007/col-20071211-d17.md |
+| art. 14 | decisao-colegiado | RJ2007/14043 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | cvm/colegiado/2007/col-20071211-d18.md |
 | art. 14 | decisao-colegiado | RJ2008/0787 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0787. | cvm/colegiado/2008/col-20080219-d11.md |
 | art. 14 | decisao-colegiado | RJ2008/0788 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0788. | cvm/colegiado/2008/col-20080219-d12.md |
 | art. 14 | decisao-colegiado | RJ2008/0790 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0790. | cvm/colegiado/2008/col-20080219-d13.md |
@@ -638,9 +638,9 @@ Norma: fora do acervo.
 | art. 14 | decisao-colegiado | RJ2008/1910 | 2008-04-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1910. | cvm/colegiado/2008/col-20080401-d14.md |
 | art. 14 | decisao-colegiado | RJ2008/1911 | 2008-04-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1911. | cvm/colegiado/2008/col-20080401-d15.md |
 | art. 14 | decisao-colegiado | RJ2008/6907 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2008/6907. | cvm/colegiado/2008/col-20080819-d05.md |
-| art. 14 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
+| art. 14 | decisao-colegiado | RJ2008/8281 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8281. | cvm/colegiado/2008/col-20081007-d09.md |
 | art. 14 | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | cvm/colegiado/2008/col-20081007-d10.md |
-| art. 14 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
+| art. 14 | decisao-colegiado | RJ2008/8286 | 2008-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8286. | cvm/colegiado/2008/col-20081007-d11.md |
 | art. 14 | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9254. | cvm/colegiado/2008/col-20081007-d13.md |
 | art. 14 | decisao-colegiado | RJ2008/8946 | 2008-10-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8946. | cvm/colegiado/2008/col-20081021-d15.md |
 | art. 14, parágrafo único | decisao-colegiado | RJ2008/6907 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2008/6907. | cvm/colegiado/2008/col-20080819-d05.md |
@@ -651,6 +651,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2008/7750 | 2008-09-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2008/7750. | cvm/colegiado/2008/col-20080909-d09.md |
 | decisao-colegiado | RJ2008/6959 | 2008-08-12 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6959. | cvm/colegiado/2008/col-20080812-d08.md |
-| decisao-colegiado | RJ2008/6955 | 2008-08-05 | indeferido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6955. | cvm/colegiado/2008/col-20080805-d12.md |
+| decisao-colegiado | RJ2008/6955 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6955. | cvm/colegiado/2008/col-20080805-d12.md |
 | decisao-colegiado | RJ2008/4923 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2008/4923. | cvm/colegiado/2008/col-20080722-d21.md |
 | decisao-colegiado | RJ2008/2409 | 2008-04-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2008/2409. | cvm/colegiado/2008/col-20080425-d01.md |

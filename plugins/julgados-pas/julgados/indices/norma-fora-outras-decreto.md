@@ -101,7 +101,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | Relatório e votos sobre suposta elaboração de demonstrações financeiras não fidedignas do IRB – Brasil Resseguros S.A. referentes a 2019 (arts. 154 e 176 da Lei 6.404/1976) e falta de diligência de diretores e conselheiros (arts. 153 e 142, III). Sem decisão colegiada no recorte. | cvm/pas/2026/19957-003588-2023-87.md |
+| pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | PAS contra três diretores e o presidente do conselho de administração do IRB – Brasil Resseguros S.A., por suposta elaboração de informações contábeis não fidedignas em 2019 e falta de diligência (arts. 153, 154 e 176 da Lei 6.404/1976). O diretor relator votou pela absolvição de todos os acusados, acompanhado por outro diretor. | cvm/pas/2026/19957-003588-2023-87.md |
 | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | ofertas-publicas | Irregularidades em oferta pública de debêntures, realizada nos termos da Instrução CVM nº 476/2009, em infração aos incisos V, IX e XVII do art. 12 da Instrução CVM nº 28/1983; aos incisos I e II do art. 11 e ao inciso VII do art. 1° do Anexo 15 da Instrução CVM nº 583/2016; ao artigo 10, aos incisos I e II do art. 11 e aos incisos I, III, VI do art. 17 da Instrução CVM nº 476/2009; e a realização de operação fraudulenta, no âmbito da oferta, em infração ao item I c/c o item II, letra “c”, da Instrução CVM nº 8/1979. Multas. | cvm/pas/2022/19957-007430-2019-08.md |
 | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | cvm/pas/2022/19957-002315-2021-53.md |
 
@@ -361,7 +361,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS contra a incorporadora e seu administrador por suposta oferta pública de contratos de investimento coletivo sem registro ou dispensa (art. 19, Lei 6.385/1976). Relator conclui pela caracterização de CIC; julgamento não consta do recorte. | cvm/pas/2026/19957-005810-2024-67.md |
+| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## decreto-10907
 

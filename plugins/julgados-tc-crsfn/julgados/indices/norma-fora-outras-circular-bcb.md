@@ -16,9 +16,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | criptoativos | RECURSOS VOLUNTÁRIOS. OFERTA PÚBLICA IRREGULAR DE VALORES MOBILIÁRIOS. CRIPTOATIVOS. I.C.O. HOWEY TEST. BLOCKCHAIN. Recursos conhecidos, com desprovimento do recurso da pessoa física e parcial provimento do recurso da pessoa física. | crsfn/2023/10372-100089-2021-71.md |
 | acordao-crsfn | RJ2019/2333 | 2023-02-07 | parcial | criptoativos | RECURSOS VOLUNTÁRIOS. OFERTA PÚBLICA IRREGULAR DE VALORES MOBILIÁRIOS. CRIPTOATIVOS. I.C.O. HOWEY TEST. BLOCKCHAIN. Violação ao art. 19 da Lei 6.385/76 e art. 2º da Instrução CVM 400/03. Recursos conhecidos, com desprovimento do recurso da pessoa jurídica e parcial provimento do recurso da pessoa física. | crsfn/2023/10372-100089-2021-71-2.md |
-| termo-compromisso | 19957.001964/2019-12 | 2020-03-31 | aceito | divulgacao-informacoes | Termo de compromisso de diretor presidente e de diretor de RI da Multiplus por não mencionar, no Formulário de Referência 2018, deficiência de controle interno (art. 153, Lei 6.404/76; arts. 14 e 24, Instrução CVM 480/09). Aceito pelo Colegiado, com pagamento individual de R$ 200.000,00 à CVM. | cvm/colegiado/2020/col-20200331-d1765.md |
+| termo-compromisso | 19957.001964/2019-12 | 2020-03-31 | aceito | divulgacao-informacoes | O Colegiado aceitou a proposta conjunta de termo de compromisso de dois diretores da Multiplus S.A., acusados de não mencionar deficiência de controle interno no Formulário de Referência de 2018 (art. 153, Lei nº 6.404/76; arts. 14 e 24, Instrução CVM nº 480/09), acompanhando o parecer do Comitê. Obrigação de R$ 200.000,00 por proponente, em parcela única. | cvm/colegiado/2020/col-20200331-d1765.md |
 | acordao-crsfn | RJ2012/7471 | 2016-06-28 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO– Mercado de valores mobiliários – Auditoria independente - Descumprimento da obrigação de submeter-se a programa de revisão externa de qualidade -Irregularidades caracterizadas – Recurso desprovido. | crsfn/2016/10372-000588-2016-01.md |
-| termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso do Instituto Banese de Seguridade Social – Sergus, acionista preferencialista, acusado de votar em separado na eleição de conselheiro fiscal com votos preponderantes (Lei 6.404/76, art. 161, § 4º, a). Rejeitada: R$ 20.000,00 é desproporcional à gravidade da infração. | cvm/colegiado/2011/col-20110215-d07.md |
+| termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso do Instituto Banese de Seguridade Social - Sergus, acusado de ter votado em separado na eleição de conselho fiscal pelos preferencialistas, com votos preponderantes na eleição (art. 161, §4º, 'a', Lei 6.404/76). Acompanhou o Comitê, para o qual a proposta de R$ 20.000,00 não era proporcional à gravidade da infração. | cvm/colegiado/2011/col-20110215-d07.md |
 
 ## circular-bcb-2
 
@@ -28,8 +28,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.001254/2023-79 | 2026-09-15 | outro | fundos-investimento | EMBARGOS DE DECLARAÇÃO. CVM. ALEGAÇÃO DE ERRO MATERIAL, CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO CRSFN Nº 79/2026. Inexatidão material no item 3 do voto divergente condutor reconhecida. Argumentos devidamente examinados. Inexistência de incongruência entre fundamentos e conclusão. Alegações que refletem mero inconformismo com o resultado. Embargos parcialmente acolhidos sem efeitos infringentes. | crsfn/2026/19957-001254-2023-79-2.md |
 | acordao-crsfn | 19957.007552/2016-43 | 2024-10-08 | condenacao | deveres-administradores | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. ELABORAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS SEM RECONHECIMENTO E DIVULGAÇÃO DOS CRÉDITOS DETIDOS POR ADMINISTRADORES COMO DECORRENTES DE TRANSAÇÕES COM PARTES RELACIONADAS. NÃO DIVULGAÇÃO DE FATO RELEVANTE. VOTAÇÃO E APROVAÇÃO DA CELEBRAÇÃO DE CONTRATO EM BENEFÍCIO PRÓPRIO. Apuração da responsabilidade de administradores da Recrusul S.A. Infrações Caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | crsfn/2024/10372-100066-2021-67.md |
-| termo-compromisso | 19957.008922/2017-41 | 2018-05-22 | aceito | informacao-privilegiada | Aquisição de ações preferenciais de própria emissão no período de vedação de 15 dias antes da divulgação do ITR (art. 13, §4º, Instrução CVM 358/2002; art. 155, §1º, Lei 6.404/1976). Termos de compromisso da companhia e do ex-diretor de relações com investidores aceitos, com pagamento total de R$ 320.000,00. | cvm/colegiado/2018/col-20180522-d1033.md |
-| termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | assembleia-acionistas | Proposta de termo de compromisso do Instituto Banese de Seguridade Social – Sergus, acionista preferencialista, acusado de votar em separado na eleição de conselheiro fiscal com votos preponderantes (Lei 6.404/76, art. 161, § 4º, a). Rejeitada: R$ 20.000,00 é desproporcional à gravidade da infração. | cvm/colegiado/2011/col-20110215-d07.md |
+| termo-compromisso | 19957.008922/2017-41 | 2018-05-22 | aceito | informacao-privilegiada | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso da FERBASA (R$ 80.000,00) e de seu ex-diretor de RI (R$ 240.000,00), por aquisição de ações próprias no período de vedação de 15 dias antes da divulgação do ITR (IN CVM 358/02, art. 13, §4º; Lei 6.404/76, art. 155, §1º). | cvm/colegiado/2018/col-20180522-d1033.md |
+| termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso do Instituto Banese de Seguridade Social - Sergus, acusado de ter votado em separado na eleição de conselho fiscal pelos preferencialistas, com votos preponderantes na eleição (art. 161, §4º, 'a', Lei 6.404/76). Acompanhou o Comitê, para o qual a proposta de R$ 20.000,00 não era proporcional à gravidade da infração. | cvm/colegiado/2011/col-20110215-d07.md |
 
 ## circular-bcb-3
 
@@ -37,7 +37,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 22/2005 | 2007-08-07 | — | fundos-investimento | Proposta de termo de compromisso do Banco da Amazônia e de seu diretor, em inquérito sobre perdas e provisões em fundos administrados pelo banco. Comitê concluiu que não se cumpriu o requisito de indenização dos prejuízos aos cotistas (art. 11, §5º, II, da Lei 6.385/76). | cvm/colegiado/2007/col-20070807-d03.md |
+| termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | cvm/colegiado/2007/col-20070807-d03.md |
 
 ## circular-bcb-4
 
@@ -54,8 +54,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | analistas-rating | Termo de compromisso de empresas de pesquisa, seus sócios e analistas, por infração ao art. 2º da Instrução CVM 598/2018 (analista de valores mobiliários). Aceito após superação do óbice da PFE/CVM quanto à indenização de prejuízos individuais, com pagamentos à CVM e credenciamento dos analistas. | cvm/colegiado/2020/col-20200211-d1321-1355.md |
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | — | analistas-rating | Propostas de termo de compromisso de duas sociedades de publicação de análises e de onze pessoas responsáveis por relatórios de análise elaborados sem credenciamento adequado (art. 2º, ICVM 598/18). Comitê opinou pela rejeição. | cvm/colegiado/2019/col-20191217-d1321e1355.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | analistas-rating | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de duas empresas e de quinze pessoas naturais, em PAS por infração ao art. 2º da ICVM 598/18: R$ 3.000.000,00 pela Empiricus (quatro parcelas), R$ 500.000,00 pela Inversa (duas parcelas) e R$ 50.000,00 por pessoa natural. | cvm/colegiado/2020/col-20200211-d1321-1355.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | outro | analistas-rating | O Colegiado, por maioria, devolveu ao Comitê de Termo de Compromisso as propostas da Empiricus, da Inversa e de outros proponentes, para que comprovem a superação do óbice jurídico apontado pela PFE/CVM (indenização de prejuízos individuais) e, se for o caso, aprecie os demais aspectos (art. 86, §1º, ICVM 607/19). | cvm/colegiado/2019/col-20191217-d1321e1355.md |
 | acordao-crsfn | RJ2017/1698 | 2018-07-24 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. Descumprimento do dever de diligência (art. 153 da Lei n° 6.404/76). Recurso conhecido e desprovido. | crsfn/2018/10372-100141-2018-94.md |
 
 ## circular-bcb-6
@@ -64,15 +64,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | manipulacao-fraude | Proposta conjunta de termo de compromisso de dois responsáveis pela Bluebenx Tecnologia Financeira S.A., acusados de operação fraudulenta (RCVM 62, arts. 2º, III, e 3º) e de oferta pública sem registro (Lei 6.385, art. 19; ICVM 400). Valor de R$ 200.000,00, sem proposta de reparação de danos difusos. PFE opinou por óbice. Colegiado rejeitou, acompanhando o Comitê. | cvm/colegiado/2024/col-20240903-d3128.md |
-| termo-compromisso | 19957.006371/2021-67 | 2023-03-21 | aceito | fundos-investimento | Colegiado aceitou proposta conjunta de termo de compromisso da administradora de fundos e de dois diretores da área de administração de carteiras, em fase pré-sancionadora, por liquidez e informes diários inadequados de fundos, em tese contrários aos arts. 59, 91 e 92, I, da ICVM 555. Pagamento de R$ 1.370.625,00. | cvm/colegiado/2023/col-20230321-d2815.md |
-| termo-compromisso | 19957.001908/2021-01 | 2023-01-17 | rejeitado | criptoativos | Nova proposta de termo de compromisso da Bluebenx Tecnologia Financeira S.A. e de seu sócio administrador, por oferta de contratos de investimento coletivo em criptoativos sem registro nem dispensa (art. 19 da Lei 6.385/1976; ICVM 400). Proposta de R$ 200.000,00; Comitê recomendou rejeição. | cvm/colegiado/2023/col-20230117-d2461.md |
+| termo-compromisso | 19957.004388/2023-41 | 2024-09-03 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso de R$ 200.000,00 apresentada por dois proponentes no PAS 19957.004388/2023-41. A acusação é de operação fraudulenta (RCVM 62/2022) e de oferta pública sem registro (ICVM 400). O Comitê considerou o óbice jurídico apontado pela PFE/CVM e a ausência de proposta de reparação de danos difusos. | cvm/colegiado/2024/col-20240903-d3128.md |
+| termo-compromisso | 19957.006371/2021-67 | 2023-03-21 | aceito | fundos-investimento | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de administradora de fundos e de dois diretores responsáveis, acompanhando o Comitê. A obrigação pecuniária de R$ 1.370.625,00, sugerida pelo Comitê, foi aceita pelos proponentes; trata-se de possíveis infrações aos arts. 59 e 91 da ICVM 555 (liquidez de fundos). | cvm/colegiado/2023/col-20230321-d2815.md |
+| termo-compromisso | 19957.001908/2021-01 | 2023-01-17 | rejeitado | ofertas-publicas | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, nova proposta conjunta de termo de compromisso de R$ 200.000,00 da Bluebenx e de sócio administrador, em PAS por oferta sem registro nem dispensa. Óbice da PFE: continuidade da conduta e prejuízos individualizados não contemplados. | cvm/colegiado/2023/col-20230117-d2461.md |
 | acordao-crsfn | 19957.011693/2017-41; SP2018/420 | 2022-12-08 | condenacao | intermediacao | RECURSO VOLUNTÁRIO. DEFICIÊNCIAS NA ADOÇÃO E IMPLEMENTAÇÃO DE PROCEDIMENTOS E CONTROLES INTERNOS PARA ATENDIMENTO AO DISPOSTO NA INSTRUÇÃO CVM Nº 505/2011. Infração caracterizada. Recurso conhecido e desprovido. | crsfn/2022/10372-100009-2022-69.md |
-| termo-compromisso | 19957.002220/2021-30; 19957.004588/2020-51; 19957.010053/2021-09 | 2022-08-23 | rejeitado | administracao-carteiras | Propostas globais de termo de compromisso da gestora BFL Administração de Recursos Ltda. e de seu diretor responsável pela administração de carteiras, em três PAS, por falta de diligência na aquisição de CCBs para fundos (ICVM 409, arts. 65, XIII, e 65-A, I; ICVM 555, art. 92, I). Colegiado rejeitou as propostas. | cvm/colegiado/2022/col-20220823-d2674.md |
-| termo-compromisso | 19957.001908/2021-01 | 2022-01-18 | rejeitado | ofertas-publicas | Proposta conjunta de termo de compromisso de plataforma de tecnologia financeira, ofertante, e de seu administrador, por oferta de valores mobiliários sem registro nem dispensa (art. 19, Lei 6.385/1976; ICVM 400/2003). PFE apontou óbice pela ausência de cessação da prática; o Colegiado rejeitou a proposta de R$ 150.000,00. | cvm/colegiado/2022/col-20220118-d2461.md |
-| termo-compromisso | 19957.010958/2018-75 | 2020-03-24 | rejeitado | manipulacao-fraude | Proposta conjunta de termo de compromisso de gestora de fundos e de seu diretor responsável pela administração de carteiras, por indícios de operação fraudulenta (ICVM 08/79, I c/c II, c) na aquisição, por fundos de RPPS, de debêntures distribuídas com esforços restritos (ICVM 476). | cvm/colegiado/2020/col-20200324-d1572.md |
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | analistas-rating | Termo de compromisso de empresas de pesquisa, seus sócios e analistas, por infração ao art. 2º da Instrução CVM 598/2018 (analista de valores mobiliários). Aceito após superação do óbice da PFE/CVM quanto à indenização de prejuízos individuais, com pagamentos à CVM e credenciamento dos analistas. | cvm/colegiado/2020/col-20200211-d1321-1355.md |
-| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | — | analistas-rating | Propostas de termo de compromisso de duas sociedades de publicação de análises e de onze pessoas responsáveis por relatórios de análise elaborados sem credenciamento adequado (art. 2º, ICVM 598/18). Comitê opinou pela rejeição. | cvm/colegiado/2019/col-20191217-d1321e1355.md |
+| termo-compromisso | 19957.002220/2021-30; 19957.004588/2020-51; 19957.010053/2021-09 | 2022-08-23 | rejeitado | administracao-carteiras | O Colegiado rejeitou proposta global de termo de compromisso da gestora de fundos e de seu diretor responsável por dever de diligência na aquisição de CCBs, acompanhando o Comitê, que entendeu que o melhor desfecho seria o julgamento. Proposta final: R$ 650.000,00 e abstenção de atividades por cinco anos. | cvm/colegiado/2022/col-20220823-d2674.md |
+| termo-compromisso | 19957.001908/2021-01 | 2022-01-18 | rejeitado | ofertas-publicas | O Colegiado, por unanimidade, rejeitou proposta conjunta de termo de compromisso de companhia e de seu sócio administrador, acusados de oferta de valores mobiliários sem registro nem dispensa. Acompanhou o Comitê, que manteve o óbice da PFE/CVM pela não cessação da prática, pois os proponentes continuavam ofertando. | cvm/colegiado/2022/col-20220118-d2461.md |
+| termo-compromisso | 19957.010958/2018-75 | 2020-03-24 | rejeitado | administracao-carteiras | O Colegiado rejeitou a proposta conjunta de termo de compromisso de gestora de fundos e de seu diretor responsável por carteiras, cuja responsabilização foi proposta por falta de diligência e operação fraudulenta na aquisição de debêntures por fundos com cotistas de RPPS (Instrução CVM nº 8/79), acompanhando o parecer do Comitê, que a considerou inconveniente. | cvm/colegiado/2020/col-20200324-d1572.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2020-02-11 | aceito | analistas-rating | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de duas empresas e de quinze pessoas naturais, em PAS por infração ao art. 2º da ICVM 598/18: R$ 3.000.000,00 pela Empiricus (quatro parcelas), R$ 500.000,00 pela Inversa (duas parcelas) e R$ 50.000,00 por pessoa natural. | cvm/colegiado/2020/col-20200211-d1321-1355.md |
+| termo-compromisso | 19957.009590/2018-01; 19957.000861/2019-35 | 2019-12-17 | outro | analistas-rating | O Colegiado, por maioria, devolveu ao Comitê de Termo de Compromisso as propostas da Empiricus, da Inversa e de outros proponentes, para que comprovem a superação do óbice jurídico apontado pela PFE/CVM (indenização de prejuízos individuais) e, se for o caso, aprecie os demais aspectos (art. 86, §1º, ICVM 607/19). | cvm/colegiado/2019/col-20191217-d1321e1355.md |
 
 ## circular-bcb-11
 
@@ -80,7 +80,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.012344/2022-12 | 2023-10-17 | rejeitado | criptoativos | Proposta conjunta de sociedade e de seu administrador por operação fraudulenta e oferta pública de contratos de investimento coletivo com tokens sem registro (ICVM 8; art. 19 da Lei 6.385/76; ICVM 400). PFE/CVM apontou óbice por falta de reparação; Colegiado rejeitou, acompanhando o Comitê. | cvm/colegiado/2023/col-20231017-d2945.md |
+| termo-compromisso | 19957.012344/2022-12 | 2023-10-17 | rejeitado | ofertas-publicas | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso da Wemake e de seu administrador, acompanhando o Comitê. O Comitê entendeu inoportuna a celebração diante de óbice jurídico da PFE/CVM (ausência de recomposição de danos difusos) e da gravidade, em tese, de operação fraudulenta e oferta sem registro. | cvm/colegiado/2023/col-20231017-d2945.md |
 
 ## circular-bcb-18
 
@@ -88,7 +88,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.004388/2019-65 | 2020-02-04 | aceito | divulgacao-informacoes | Termo de compromisso de diretor de RI da Kroton Educacional por divulgar informações relevantes em Comunicado ao Mercado, com projeções apresentadas a analistas (art. 157, §4º, Lei 6.404/76; art. 3º, Instrução CVM 358/02). Aceito pelo Colegiado, por unanimidade, com pagamento à CVM. | cvm/colegiado/2020/col-20200204-d1686.md |
+| termo-compromisso | 19957.004388/2019-65 | 2020-02-04 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso do diretor de relações com investidores da Kroton, com pagamento de R$ 300.000,00 à CVM, acompanhando o Comitê. Acusação da SEP: descumprimento do art. 157, §4º, da Lei 6.404/76 e do art. 3º da ICVM 358/02, por divulgação de informações relevantes por comunicado ao mercado. | cvm/colegiado/2020/col-20200204-d1686.md |
 
 ## circular-bcb-33
 
@@ -96,7 +96,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.010224/2019-77 | 2020-09-15 | aceito | infraestrutura-mercado | Propostas conjuntas de termo de compromisso da B3 e de dois diretores, por descumprir os incisos III e IV do art. 3º da Instrução CVM 283/98 ao não verificar diariamente a concentração de derivativos e de empréstimos de ativos entre maio de 2013 e janeiro de 2019. PFE/CVM não viu óbice legal; Comitê entendeu possível discutir ajuste de encerramento antecipado. | cvm/colegiado/2020/col-20200915-d1911.md |
+| termo-compromisso | 19957.010224/2019-77 | 2020-09-15 | aceito | infraestrutura-mercado | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso da B3 e de dois executivos, acompanhando o parecer do Comitê. Objeto: falha em verificar diariamente a concentração de derivativos e empréstimos e em aplicar medidas de desconcentração (ICVM 283/98, art. 3º, III e IV). Valor: R$ 7.000.000,00, contraproposta do Comitê aceita pelos proponentes. | cvm/colegiado/2020/col-20200915-d1911.md |
 
 ## circular-bcb-53
 
@@ -113,7 +113,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP2007/139 | 2017-02-08 | condenacao | manipulacao-fraude | Recursos voluntários e de ofício. Práticas não equitativas. Permitir o registro de ordens de operação no mercado de valores mobiliários sem a correta identificação do cliente que as emitiu. Não empregar o devido cuidado e a diligência que se exigia no exercício de suas funções de Diretor Responsável para coibir o reiterado registro de ordens de operação no mercado de valores mobiliários, no período de 17.02.2004 a 06.07.2004 sem a correta identificação do cliente que as emitiu. Por ter anuído e se beneficiado do uso de "prática não equitativa". Recursos voluntários conhecidos e desprovidos. Recursos de ofício desprovidos. | crsfn/2017/13873.md |
-| termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | intermediacao | Aceitação de propostas de termo de compromisso de corretora e de diretor responsável, acusados de registrar ordens sem horário de recebimento e sem identificação do cliente (§ 2º do art. 6º e parágrafo único do art. 4º da Instrução CVM 387/03). Pagamento de R$ 200.000,00 por proponente. | cvm/colegiado/2011/col-20110510-d06.md |
+| termo-compromisso | SP2010/0135 | 2011-05-10 | aceito | intermediacao | O Colegiado aceitou as propostas de Termo de Compromisso da Fator S.A. Corretora de Valores e de um diretor responsável, de R$ 200.000,00 cada, por registro de ordens sem horário de recebimento e sem identificação do cliente (Instrução 387/03). Acompanhou o parecer do Comitê. | cvm/colegiado/2011/col-20110510-d06.md |
 
 ## circular-bcb-98
 
@@ -170,7 +170,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | Administradores e controladores do Banco Econômico S.A. responsabilizados por operações que levaram à insolvência da instituição, objeto de intervenção do Banco Central em 1995: simulações de compra e venda, empréstimos a empresas ligadas e maquiagem de balanços. Apelos negados; inabilitação temporária de 3 a 20 anos para oito responsáveis e arquivamento quanto a quatro. Lei 6.385/76, art. 11, IV. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-1846
 
@@ -178,7 +178,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | Administradores e controladores do Banco Econômico S.A. responsabilizados por operações que levaram à insolvência da instituição, objeto de intervenção do Banco Central em 1995: simulações de compra e venda, empréstimos a empresas ligadas e maquiagem de balanços. Apelos negados; inabilitação temporária de 3 a 20 anos para oito responsáveis e arquivamento quanto a quatro. Lei 6.385/76, art. 11, IV. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-1922
 
@@ -195,7 +195,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | 19957.014229/2023-55 | 2025-05-13 | aceito | auditoria-independente | Proposta de termo de compromisso de auditora independente e de responsável técnico por inobservância de itens da NBC TA 540 (R2) em auditoria de FII, exercício de 2020 (art. 20 da ICVM 308). Proposta de R$ 106.500,00. O Comitê opinou pela rejeição. | cvm/colegiado/2025/col-20250513-d3272.md |
+| termo-compromisso | 19957.014229/2023-55 | 2025-05-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, aceitou, por conveniência e oportunidade, a proposta conjunta de termo de compromisso de auditora e de seu responsável técnico (R$ 106.500,00 e obrigação de não fazer por um ano), por inobservância da NBC TA 540 (R2) em auditoria de FII. Contrariou o Comitê, que opinou pela rejeição. | cvm/colegiado/2025/col-20250513-d3272.md |
 
 ## circular-bcb-2183
 
@@ -219,7 +219,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | Administradores e controladores do Banco Econômico S.A. responsabilizados por operações que levaram à insolvência da instituição, objeto de intervenção do Banco Central em 1995: simulações de compra e venda, empréstimos a empresas ligadas e maquiagem de balanços. Apelos negados; inabilitação temporária de 3 a 20 anos para oito responsáveis e arquivamento quanto a quatro. Lei 6.385/76, art. 11, IV. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-2594
 
@@ -255,7 +255,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2015/13460 | 2016-07-05 | — | manipulacao-fraude | Propostas de termo de compromisso de gestoras, administradores e instituições acusados em PAS sobre operações na BM&F por fundos exclusivos da Prece Previdência (Instrução CVM 8/1979, item I). Comitê propôs rejeição por óbice legal (art. 11, §5º, II, Lei 6.385/1976) e indenizações desproporcionais ao dano difuso. | cvm/colegiado/2016/col-20160705-d9998.md |
+| termo-compromisso | RJ2015/13460 | 2016-07-05 | rejeitado | administracao-carteiras | O Colegiado rejeitou, por unanimidade, as propostas de Termo de Compromisso dos acusados no PAS CVM 06/2012, sobre negócios na BM&F da Prece Previdência Complementar e de fundos exclusivos (2003 a 2006). Acompanhando o Comitê, que considerou as propostas desproporcionais e a aceitação inconveniente. A PFE-CVM apontou óbice legal (art. 11, §5º, II, Lei 6.385/1976). | cvm/colegiado/2016/col-20160705-d9998.md |
 
 ## circular-bcb-2635
 
@@ -263,7 +263,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | Administradores e controladores do Banco Econômico S.A. responsabilizados por operações que levaram à insolvência da instituição, objeto de intervenção do Banco Central em 1995: simulações de compra e venda, empréstimos a empresas ligadas e maquiagem de balanços. Apelos negados; inabilitação temporária de 3 a 20 anos para oito responsáveis e arquivamento quanto a quatro. Lei 6.385/76, art. 11, IV. | crsfn/2007/6039.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | condenacao | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 
 ## circular-bcb-2688
 
@@ -312,7 +312,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, § 1º | termo-compromisso | RJ2005/4357 | 2006-02-15 | aceito | fundos-investimento | Proposta de termo de compromisso do Banco Itaú e de seu diretor, em processo por convocação irregular de assembleia de cotistas do Itaú Performance FACFI, que resultou em cisão parcial do fundo (Circular BACEN 2.616/95, art. 23). Colegiado aceitou, com pagamento de R$ 20.000,00 como condição de eficácia, pois a irregularidade foi corrigida por nova assembleia. | cvm/colegiado/2006/col-20060215-d07.md |
+| art. 3º, § 1º | termo-compromisso | RJ2005/4357 | 2006-02-15 | aceito | fundos-investimento | O Colegiado aceitou a proposta de termo de compromisso do banco e de um diretor, acompanhando o parecer do Comitê, relativa a irregularidade em fundo de investimento corrigida por nova assembleia de cotistas, sem prejuízo apontado aos cotistas. Pagamento como condição de eficácia; prazo de trinta dias para assinatura. | cvm/colegiado/2006/col-20060215-d07.md |
 
 ### Citada sem dispositivo identificado
 
@@ -326,7 +326,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | termo-compromisso | RJ2005/4357 | 2006-02-15 | aceito | fundos-investimento | Proposta de termo de compromisso do Banco Itaú e de seu diretor, em processo por convocação irregular de assembleia de cotistas do Itaú Performance FACFI, que resultou em cisão parcial do fundo (Circular BACEN 2.616/95, art. 23). Colegiado aceitou, com pagamento de R$ 20.000,00 como condição de eficácia, pois a irregularidade foi corrigida por nova assembleia. | cvm/colegiado/2006/col-20060215-d07.md |
+| art. 4º | termo-compromisso | RJ2005/4357 | 2006-02-15 | aceito | fundos-investimento | O Colegiado aceitou a proposta de termo de compromisso do banco e de um diretor, acompanhando o parecer do Comitê, relativa a irregularidade em fundo de investimento corrigida por nova assembleia de cotistas, sem prejuízo apontado aos cotistas. Pagamento como condição de eficácia; prazo de trinta dias para assinatura. | cvm/colegiado/2006/col-20060215-d07.md |
 
 ### Citada sem dispositivo identificado
 
@@ -363,7 +363,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| termo-compromisso | RJ2012/8371 | 2013-05-14 | aceito | contabil-demonstracoes | Proposta conjunta de termo de compromisso de diretores do Paraná Banco S.A. por atraso em demonstrações financeiras consolidadas e em DFP com adoção do IFRS de 2010 e 2011 (Lei 6.404/76, arts. 132, 133, II, e 176; Instrução CVM 480/09, arts. 13 e 21). Propostas de R$ 130.000,00 aceitas pelo Colegiado. | cvm/colegiado/2013/col-20130514-d03.md |
+| termo-compromisso | RJ2012/8371 | 2013-05-14 | aceito | contabil-demonstracoes | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de R$ 130.000,00 de seis diretores do Paraná Banco S.A. (R$ 30.000,00 de um e R$ 20.000,00 de cada um dos demais), acompanhando o parecer do Comitê, que a considerou conveniente e oportuna. Acusados de atraso nas demonstrações financeiras consolidadas de 2010 e 2011. | cvm/colegiado/2013/col-20130514-d03.md |
 
 ## circular-bcb-3857
 

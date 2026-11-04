@@ -17,7 +17,7 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | 19957.005174/2019-14 | 2023-04-04 | outro | processual | Embargos de declaração contra condenação a multa por prática não equitativa (front running) em operações envolvendo a Fundação Petros. Alegadas omissão e ilegalidade na atualização das multas pelo IPCA; embargos não conhecidos. O relator propôs restituir o prazo para recurso ao CRSFN. | cvm/colegiado/2023/col-20230404-d2430.md |
+| art. 10 | decisao-colegiado | 19957.005174/2019-14 | 2023-04-04 | conhecimento | processual | O Colegiado não conheceu dos embargos de declaração opostos contra condenação em PAS por front running e restituiu aos acusados o prazo para recurso ao CRSFN (art. 70 da Resolução CVM nº 45/2021), contado da intimação. Fundamento, no voto do relator: a norma não prevê embargos contra decisão condenatória, e a decisão não tinha omissão. | cvm/colegiado/2023/col-20230404-d2430.md |
 
 ## art. 11
 
@@ -25,7 +25,7 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 |---|---|---|---|---|---|---|---|
 | art. 11, inciso I | decisao-colegiado | 19957.008885/2021-57 | 2021-11-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008885/2021-57. | cvm/colegiado/2021/col-20211130-d2415.md |
 | art. 11, inciso I, alínea b | decisao-colegiado | 19957.008885/2021-57 | 2021-11-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008885/2021-57. | cvm/colegiado/2021/col-20211130-d2415.md |
-| art. 11, inciso I, alínea b | decisao-colegiado | 19957.008885/2021-57 | 2022-02-08 | outro | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.008885/2021-57. | cvm/colegiado/2022/col-20220208-d2415.md |
+| art. 11, inciso I, alínea b | decisao-colegiado | 19957.008885/2021-57 | 2022-02-08 | conhecimento | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.008885/2021-57. | cvm/colegiado/2022/col-20220208-d2415.md |
 
 ## art. 13
 
@@ -39,17 +39,17 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 15 | decisao-colegiado | 19957.008444/2023-17 | 2023-08-08 | nao-provido | registro-emissor | Recurso contra cancelamento de ofício do registro de companhia incentivada da Curtume Jangadas S.A., após suspensão por mais de 12 meses (art. 15 da Resolução CVM 10/2020). Alegou crise e recuperação judicial; SEP apontou falta de comunicação no Empresas.Net. Não provido por unanimidade. | cvm/colegiado/2023/col-20230808-d2904.md |
+| art. 15 | decisao-colegiado | 19957.008444/2023-17 | 2023-08-08 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso da Curtume Jangadas S.A. contra cancelamento de ofício do registro de companhia incentivada suspenso há mais de 12 meses (RCVM 10/2020, art. 15). A SEP apontou ausência de pedido de reversão e de comunicação da recuperação judicial. | cvm/colegiado/2023/col-20230808-d2904.md |
 
 ## art. 64
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 64 | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | outro | assembleia-acionistas | Pedidos de interrupção e adiamento da AGE da BRF S.A. para aprovar a incorporação de suas ações pela controladora Marfrig (art. 252, LSA), sob alegações de ausência de independência dos comitês especiais (PO CVM 35) e de conflito de interesses. Voto acompanha a SEP e determina a disponibilização das informações constantes das atas dos comitês. | cvm/colegiado/2025/col-20250616-d3297.md |
+| art. 64 | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, deferiu o adiamento da AGE da BRF convocada para 18.06.2025, na incorporação pela Marfrig, por 21 dias contados da disponibilização de informações sobre o preço base da relação de troca, nos termos do art. 9º da Resolução CVM 81/2022. | cvm/colegiado/2025/col-20250616-d3297.md |
 
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | — | infraestrutura-mercado | Pedido da B3 de aprovação de novo Regulamento de Emissores, que consolida o regulamento de listagem e o Manual de Emissores, e de Anexo B de Medidas ASG no modelo pratique ou explique. Áreas técnicas não formularam exigências ao Anexo ASG e sugerem deliberação do Colegiado. | cvm/colegiado/2023/col-20230714-d2844.md |
-| decisao-colegiado | 19957.007629/2020-61 | 2020-11-03 | outro | normativo | Aprovada, por unanimidade, a Resolução CVM 10/2020, sobre sociedades beneficiárias de recursos de incentivos fiscais, em substituição às Instruções CVM 265/1997 e 427/2006, no âmbito da consolidação determinada pelo Decreto 10.139/2019. Dispensadas audiência pública e AIR por não haver mudança de mérito. | cvm/colegiado/2020/col-20201103-d1966.md |
+| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | normativo | O Colegiado aprovou, por unanimidade, a nova versão do Regulamento de Emissores da B3, que consolida o Regulamento para Listagem e o Manual Emissor, e o Anexo B (Medidas ASG, pratique-ou-explique). Acompanhou a fundamentação das áreas técnicas (SEP, SRE, SDM e SMI), que após esclarecimentos da B3 não viram óbice e não formularam exigência ao Anexo B. | cvm/colegiado/2023/col-20230714-d2844.md |
+| decisao-colegiado | 19957.007629/2020-61 | 2020-11-03 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 10/2020, que dispõe sobre sociedades beneficiárias de recursos oriundos de incentivos fiscais, em substituição às Instruções CVM 265/1997 e 427/2006. Por se tratar de consolidação sem mudança de mérito, dispensou-se audiência pública (art. 22 da Portaria CVM/PTE nº 190/2019) e a AIR (art. 12, §1º, II). | cvm/colegiado/2020/col-20201103-d1966.md |

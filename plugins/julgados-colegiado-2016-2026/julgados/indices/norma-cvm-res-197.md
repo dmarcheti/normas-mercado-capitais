@@ -11,4 +11,4 @@ Norma: [cvm/resolucoes/0197.md](../../../normas/normas/cvm/resolucoes/0197.md) (
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 07/2023; 19957.012858/2023-41 | 2023-12-26 | outro | contabil-demonstracoes | Edição da RCVM 197/2023, após a CP SNC 07/2023, aprovando o RCPC 24 e tornando obrigatória sua adoção por companhias abertas: divulgação sobre risco sacado (CPC 03 (R2) e CPC 40 (R1)) e exceção quanto ao imposto diferido do Pilar Dois (CPC 32). Vigência em 29.12.2023 por urgência (Decreto 10.139/2019). | cvm/colegiado/2023/col-20231226-d2955.md |
+| decisao-colegiado | 07/2023; 19957.012858/2023-41 | 2023-12-26 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM 197/2023, após a Consulta Pública SNC 07/2023, que aprova o RCPC 24 e o torna obrigatório: divulgação sobre risco sacado (CPC 03 e 40) e exceção ao reconhecimento de imposto diferido do Pilar Dois (CPC 32). Dispensada AIR por convergência ao IFRS; vigência em 29.12.2023 por urgência. | cvm/colegiado/2023/col-20231226-d2955.md |
