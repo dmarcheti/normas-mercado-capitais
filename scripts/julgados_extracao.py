@@ -157,6 +157,8 @@ def recorte(corpo):
 
 PALAVRAS_DELIB_3B, PALAVRAS_POS_DELIB, PALAVRAS_DECISAO_INTEIRA = 450, 150, 900
 PALAVRAS_PEDIDO, PALAVRAS_ANTES_DELIB, PALAVRAS_AREA, PALAVRAS_UNIDADE = 300, 350, 200, 250
+# "acompanhou o voto ... a seguir transcrito": o dispositivo do voto fica no fim da "## Decisão"
+PALAVRAS_CONCLUSAO = 250
 _DELIB_3B = re.compile(
     r"\bColegiado\b(?:[^.;]|\.(?=\s*\d)|(?<=\bS)\.|(?<=\bA)\.|(?<=\bSr)\.|(?<=\bSra)\.|"
     r"(?<=\bDr)\.|(?<=\bart)\.|(?<=\barts)\.|(?<=\bProc)\.|(?<=\bn)\.){0,250}?\b(?:deliber|decid|acompanh|acat|acolh|aprov|defer|indefer|"
@@ -272,6 +274,7 @@ def recorte_3b(corpo, tipo="decisao-colegiado"):
     titulo = m.group(1).strip() if m else ""
     unidades = _unidades(limpar_decisao(decisao))
     escolhidas = _deliberacao(unidades)
+    texto_inteiro = "\n".join(unidades)
     partes = ["TÍTULO: " + titulo]
     if escolhidas:
         delib = [unidades[i] for i in escolhidas]
@@ -282,6 +285,11 @@ def recorte_3b(corpo, tipo="decisao-colegiado"):
             seguintes.append(u)
         partes.append("DELIBERAÇÃO DO COLEGIADO (o resultado sai daqui):\n"
                       + "\n".join(delib + seguintes))
+        depois = unidades[escolhidas[-1] + 1 + len(seguintes):]
+        if depois and len(texto_inteiro.split()) > PALAVRAS_DECISAO_INTEIRA:
+            partes.append("CONCLUSÃO DA DECISÃO (últimos parágrafos; se o Colegiado acompanhou um "
+                          "voto transcrito, a conclusão do voto está aqui e é a decisão):\n"
+                          + _palavras("\n".join(depois), PALAVRAS_CONCLUSAO, do_fim=True))
     else:
         partes.append("FIM DA DECISÃO (não se achou parágrafo de deliberação do Colegiado):\n"
                       + _palavras("\n".join(unidades), PALAVRAS_FIM_DECISAO, do_fim=True))
@@ -794,6 +802,9 @@ def ementa_sem_pessoas(valores, corpo, pessoas_=None, publicada=""):
 # ---------------------------------------------------------------- validação
 
 
+_CITA_RECORTE = re.compile(r"(?i)\brecortes?\b")  # "bloco de controle" é termo legítimo
+
+
 def validar_saida(lote, saida, pessoas=None, reprovadas=None):
     """(aprovados {id: campos}, erros). Id faltando vai para `reprovadas` (retentativa) e id
     sobrando é ignorado, sem reprovar o resto do lote; campo inválido sai do item (ementa longa ou com nome de pessoa física do julgado, tema ou
@@ -829,6 +840,8 @@ def validar_saida(lote, saida, pessoas=None, reprovadas=None):
                 motivo = "ementa com nome de pessoa"
             elif pii.limpar(ementa) != ementa:
                 motivo = "ementa com dado pessoal"
+            elif _CITA_RECORTE.search(ementa):
+                motivo = "ementa cita o recorte"
             else:
                 motivo = ""
                 campos["ementa"] = ementa

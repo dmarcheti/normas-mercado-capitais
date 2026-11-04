@@ -120,6 +120,14 @@ class ValidacaoTest(unittest.TestCase):
         self.assertEqual(reprovadas, {"a": "ementa com nome de pessoa",
                                       "b": "ementa com mais de 60 palavras"})
 
+    def test_ementa_que_cita_o_recorte_vai_para_a_retentativa(self):
+        reprovadas = {}
+        aprov, erros = ex.validar_saida(
+            self.LOTE[:1], [{"id": "a", "ementa": "Recurso contra multa. O recorte não traz o "
+                             "dispositivo do voto.", "resultado": "outro"}], reprovadas=reprovadas)
+        self.assertEqual(aprov["a"], {"resultado": "outro"})
+        self.assertEqual(reprovadas, {"a": "ementa cita o recorte"})
+
 
 class PessoasTest(unittest.TestCase):
     """Lista positiva de pessoas físicas por julgado (nomes sintéticos)."""
@@ -452,6 +460,27 @@ class RecorteDeliberacaoTest(unittest.TestCase):
         self.assertNotIn("m100 ", r)  # o miolo do anexo fica de fora
         self.assertNotIn("c800 ", r)  # o miolo do relato também
         self.assertLess(len(r.split()), 1800)
+
+    def test_voto_transcrito_longo_traz_a_conclusao(self):
+        # "acompanhou o voto ... a seguir transcrito": o dispositivo está no fim do voto
+        corpo = decisao(
+            "O Colegiado acompanhou o voto do Diretor-Relator, a seguir transcrito:",
+            "RELATÓRIO. Trata-se de pedido de autorização da ACME S.A.",
+            " ".join("v%d" % i for i in range(2000)),
+            "Diante do exposto, voto pela concessão da autorização pedida.")
+        r = ex.recorte_3b(corpo)
+        i_delib = r.index("DELIBERAÇÃO DO COLEGIADO")
+        i_concl = r.index("CONCLUSÃO DA DECISÃO")
+        i_pedido = r.index("PEDIDO E FUNDAMENTOS")
+        self.assertLess(i_delib, i_concl)
+        self.assertLess(i_concl, i_pedido)
+        self.assertIn("voto pela concessão da autorização", r[i_concl:i_pedido])
+        self.assertNotIn("v1000 ", r)
+
+    def test_deliberacao_no_fim_nao_repete_a_conclusao(self):
+        corpo = decisao(" ".join("c%d" % i for i in range(1500)),
+                        "O Colegiado, por unanimidade, deliberou deferir o pedido.")
+        self.assertNotIn("CONCLUSÃO DA DECISÃO", ex.recorte_3b(corpo))
 
     def test_decisao_curta_vai_inteira(self):
         corpo = decisao("Trata-se de recurso contra multa cominatória.",

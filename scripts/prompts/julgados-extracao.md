@@ -10,6 +10,7 @@ Na decisão do Colegiado e no termo de compromisso, o `recorte` vem em blocos ro
 
 1. `TÍTULO:`
 2. `DELIBERAÇÃO DO COLEGIADO (o resultado sai daqui):` traz o parágrafo em que o Colegiado delibera ("O Colegiado, por unanimidade, deliberou...", "acompanhou", "decidiu", "aprovou", "deferiu") e o que vem logo depois. Também traz o parágrafo que registra pedido de vista, adiamento ou retirada de pauta. Se o script não achou a deliberação, o bloco é `FIM DA DECISÃO (...)`.
+   Se a deliberação diz que o Colegiado acompanhou um voto "a seguir transcrito" (ou "nos termos do voto"), o bloco seguinte, `CONCLUSÃO DA DECISÃO (...)`, traz o fim desse voto. Nesse caso, a decisão do Colegiado é a conclusão do voto que ele acompanhou.
 3. `DECISÃO NA ÍNTEGRA (...)` ou `PEDIDO E FUNDAMENTOS (...)` traz o pedido, o histórico e os fundamentos. Muitas vezes traz o que a área técnica (SEP, SRE, SMI, SIN, SNC, SPS, SSE, PFE), o Comitê de Termo de Compromisso ou o relator propuseram. **Isso não é a decisão do Colegiado.**
 4. `POSIÇÃO DA ÁREA TÉCNICA OU DO COMITÊ (anexo; ...)` traz o fim do parecer ou da manifestação anexa, ou o "SUMÁRIO" do parecer do Comitê. **Também não é a decisão do Colegiado.**
 
@@ -45,6 +46,8 @@ Regras da ementa:
 
 - **Nunca escreva como decisão o que é proposta, parecer ou voto.** "A SEP entende que não há óbice" não é "não há óbice". O voto do relator não é a decisão do Colegiado.
 - **Nada que não esteja no recorte.** Se o recorte não traz um valor, data, norma ou condição, não os escreva. Quando a decisão envolve vários processos ou propostas (por exemplo, três propostas aceitas e uma rejeitada), diga quantos foram em cada sentido e os valores como estão no texto. Não some, não arredonde e não escolha um só.
+- **Não fale do recorte nem do texto recebido.** A ementa descreve o caso, não a entrada: nunca escreva "o recorte não traz", "não consta do texto" ou "dispositivo não reproduzido". Se falta o dispositivo, escreva só o que se sabe do pedido e da decisão.
+- Se a situação é `sem-deliberacao`, descreva o objeto e o que o Colegiado fez, por exemplo: "O Colegiado discutiu a minuta de parecer de orientação sobre contratos de indenidade, sem deliberação nesta reunião."
 - Se a situação é `suspenso`, descreva o objeto e termine com "Julgamento suspenso por pedido de vista." ou "Decisão adiada." (ou "Retirado de pauta."). Não diga que o Colegiado decidiu, deferiu ou indeferiu.
 - **Não escreva nome de pessoa física**, nem mesmo de diretor ou relator, ainda que o texto traga. Use "o acusado", "o diretor relator", "um diretor", "o proponente", "a recorrente". Nome de empresa, fundo e entidade pode ficar.
 
