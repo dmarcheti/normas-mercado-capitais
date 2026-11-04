@@ -29,12 +29,15 @@ fica só o texto: setas e posição se perdem); células de tabela com mais de u
 por espaço; no Planalto, tachado por CSS (`line-through`) não é reconhecido.
 
 Uso: python3 scripts/converter.py <arquivo.docx|arquivo.html> [--artigos] [--planalto]
+A saída passa por controle.sem_controle (sem caractere de controle; o NUL vira "\ufffd").
 """
 import re
 import sys
 import zipfile
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
+
+from controle import sem_controle
 
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 MC = "{http://schemas.openxmlformats.org/markup-compatibility/2006}"
@@ -725,7 +728,7 @@ def main(argv):
             md = dou_html_para_md(f.read())
     if "--artigos" in argv:
         md = normalizar_artigos(md)
-    sys.stdout.write(md)
+    sys.stdout.write(sem_controle(md))  # saída gravada: sem caractere de controle (controle.py)
     return 0
 
 

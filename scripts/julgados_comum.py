@@ -19,6 +19,8 @@ import os
 import re
 import unicodedata
 
+import controle
+
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.normpath(os.path.join(AQUI, ".."))
 USER_AGENT = "Mozilla/5.0"
@@ -246,14 +248,10 @@ def caminho_julgado(tipo, id_, ano, raiz=RAIZ):
 
 # ---------------------------------------------------------------- frontmatter
 
-# Caractere de controle que a extração deixa no lugar de um glifo que ela não leu (ligadura,
-# acento combinante, marcador, travessão): o NUL vira "\ufffd", visível e buscável (com NUL o
-# grep trata o arquivo como binário); o STX, que o SEI põe no hífen ("sexta-feira"), vira "-".
-_CONTROLE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
-
-
-def sem_controle(texto):
-    return _CONTROLE.sub(lambda m: {"\x00": "\ufffd", "\x02": "-"}.get(m.group(0), ""), texto)
+# Caractere de controle que a extração deixa no lugar de um glifo que ela não leu: regra comum
+# às normas e aos julgados, em controle.py (o NUL vira "\ufffd"; o STX do SEI vira "-").
+_CONTROLE = controle.CONTROLE
+sem_controle = controle.sem_controle
 
 
 def frontmatter(valores):

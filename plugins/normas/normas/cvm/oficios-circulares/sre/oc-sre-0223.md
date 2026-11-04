@@ -15,8 +15,8 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0223.pdf
 sha256_fonte: 8aab8a261cb8015428cf1ede4e6098bb5863bdacffbd11eb3e9f61f6f9b55219
 baixado_em: 2026-10-28
-verificado_em: 2026-10-29
-incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+verificado_em: 2026-11-04
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato. 1 glifo não lido no PDF, marcado com � [verificar no PDF oficial].
 nivel_verificacao: pdf-extraido
 ---
 
@@ -226,4 +226,4 @@ autenticidade, and typing the "Código Verificador"
 
 1701535 and the "Código CRC" CC0800C5.
 
-Referência: Processo nº O cios-circulares SRE 2023 Documento SEI nº 1701535
+Referência: Processo nº O�cios-circulares SRE 2023 Documento SEI nº 1701535

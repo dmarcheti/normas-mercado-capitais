@@ -1,4 +1,6 @@
 """Testes do validador de frontmatter (sem rede)."""
+import contextlib
+import io
 import os
 import sys
 import tempfile
@@ -7,6 +9,7 @@ import unittest
 AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
+import validar  # noqa: E402
 from validar import CAMPOS, arquivos_de_normas, partes_da_norma, validar_norma  # noqa: E402
 
 VALORES = {
@@ -122,6 +125,19 @@ class TestValidarNorma(Base):
         erros = self.erros("# Só texto\n")
         self.assertTrue(any("frontmatter" in e for e in erros), erros)
 
+    def test_caractere_de_controle_reprovado_com_contagem(self):
+        erros = self.erros(montar(corpo="\n# Resolução CVM 17\n\n## Art. 1º\n\nO\x00cios na sexta\x02feira.\n"))
+        self.assertEqual(len(erros), 1, erros)
+        self.assertIn("caractere de controle", erros[0])
+        self.assertIn("2 ocorrência(s)", erros[0])
+        # tabulação, \n e \r são texto; "\ufffd" (glifo não lido marcado) também
+        self.assertEqual(self.erros(montar(corpo="\n# Resolução CVM 17\n\n## Art. 1º\n\nA\tB\r\nO\ufffdcios.\n")), [])
+
+    def test_controle_reprovado_mesmo_sem_frontmatter(self):
+        erros = self.erros("sem frontmatter\x00\n")
+        self.assertEqual(len(erros), 2, erros)
+        self.assertIn("1 ocorrência(s)", erros[0])
+
     def test_frontmatter_nao_fechado(self):
         erros = self.erros("---\nid: cvm-res-17\n")
         self.assertTrue(any("frontmatter" in e for e in erros), erros)
@@ -213,6 +229,13 @@ class TestNormaEmPartes(unittest.TestCase):
         self.assertTrue(any("anexo-01.md" in e and "frontmatter" in e for e in self.erros()))
         self.gravar("anexo-01.md", "## Art. 1º\n\nTexto.\n")
         self.assertTrue(any("anexo-01.md" in e and "título" in e for e in self.erros()))
+
+    def test_controle_numa_parte_e_erro_com_o_nome_da_parte(self):
+        self.gravar("anexo-01.md", "# Anexo Normativo I\n\n## Art. 1º\n\nO\x00cios\x7f.\n")
+        erros = self.erros()
+        self.assertEqual(len(erros), 1, erros)
+        self.assertIn("anexo-01.md", erros[0])
+        self.assertIn("2 ocorrência(s)", erros[0])
 
     def test_index_precisa_estar_em_pasta_com_o_numero_da_norma(self):
         pasta = os.path.join(self._tmp.name, "0176")
@@ -372,6 +395,31 @@ class TestArquivosDeNormasV030(unittest.TestCase):
                 "leis/decreto-11415.md",
                 "leis/lcp-105.md",
             ]))
+
+
+class TestAlteradorasSoControle(unittest.TestCase):
+    """`alteradoras/` fica fora do schema das normas, mas caractere de controle é erro."""
+
+    def test_main_reprova_controle_e_ignora_o_resto(self):
+        with tempfile.TemporaryDirectory() as raiz:
+            pasta = os.path.join(raiz, "cvm", "alteradoras")
+            os.makedirs(pasta)
+            for nome, texto in (("0226.md", "sem frontmatter, mas limpo\t\r\n"),
+                                ("0227.md", "Art. 1º O\x00cios\x02 e \x0c.\n")):
+                with open(os.path.join(pasta, nome), "w", encoding="utf-8", newline="") as f:
+                    f.write(texto)
+            self.assertEqual([os.path.basename(c) for c in validar.arquivos_de_alteradoras(raiz)],
+                             ["0226.md", "0227.md"])
+            self.assertEqual(validar.erros_de_alteradora(os.path.join(pasta, "0226.md")), [])
+            saida = io.StringIO()
+            with contextlib.redirect_stdout(saida):
+                rc = validar.main(["validar.py", raiz])
+            self.assertEqual(rc, 1)
+            linhas = [l for l in saida.getvalue().splitlines() if "ocorrência(s)" in l]
+            self.assertEqual(len(linhas), 1, saida.getvalue())
+            self.assertIn("0227.md", linhas[0])
+            self.assertIn("3 ocorrência(s)", linhas[0])
+            self.assertNotIn("0226.md:", saida.getvalue())
 
 
 # SPEC v0.4.0: camada 4 (CMN e BCB) e camada 5 (autorregulação ANBIMA e B3)

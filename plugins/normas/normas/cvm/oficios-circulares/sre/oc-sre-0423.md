@@ -15,8 +15,8 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0423.pdf
 sha256_fonte: ef9bf9ce064b560af673d4a3403217b3e304fb66c80d9b3e6a34cebbf908c0c7
 baixado_em: 2026-10-28
-verificado_em: 2026-10-29
-incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+verificado_em: 2026-11-04
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato. 1 glifo não lido no PDF, marcado com � [verificar no PDF oficial].
 nivel_verificacao: pdf-extraido
 ---
 
@@ -444,4 +444,4 @@ _
 
 typing the "Código Verificador" 1744032 and the "Código CRC" 472C4D1A.
 
-Referência: Processo nº O cios-circulares SRE 2023 Documento SEI nº 1744032
+Referência: Processo nº O�cios-circulares SRE 2023 Documento SEI nº 1744032

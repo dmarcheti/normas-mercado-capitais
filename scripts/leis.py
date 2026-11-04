@@ -44,6 +44,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from controle import sem_controle  # noqa: E402
 from converter import _ROTULO_VIGENCIA, decodificar_html, normalizar_artigos, planalto_html_para_md  # noqa: E402
 from teste_lei import ESTRUTURA, TIPOS_LEI, _chave  # noqa: E402
 from validar import CAMPOS  # noqa: E402
@@ -331,7 +332,7 @@ def escrever_leis(itens, pasta_fontes, pasta_saida):
             destino = os.path.join(pasta_saida, *caminho.split("/"))
             os.makedirs(os.path.dirname(destino), exist_ok=True)
             with open(destino, "w", encoding="utf-8", newline="\n") as f:
-                f.write(conteudo)
+                f.write(sem_controle(conteudo))
             gravados.append(caminho)
     return gravados
 

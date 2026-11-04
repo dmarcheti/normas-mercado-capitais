@@ -916,3 +916,160 @@ class TestLegibilidadeCodigos(unittest.TestCase):
         txt = " ".join(["4ß·gø Ôýï¬Aÿ7 ×Û¿‘ëú9 ~ßý‚^’ißô?ê"] * 40)
         self.assertIsNotNone(tv.motivo_sem_texto(txt))
 
+
+# ---------------------------------------------------------------- Fase 4: caractere de controle e --ids
+
+from controle import contar_controle  # noqa: E402
+
+# Texto sintético do PDFKit e do pypdf para o mesmo PDF (o PDF é falso: os extratores são simulados).
+OFICIO = ("Ofício-Circular sobre ofertas públicas de valores mobiliários e o registro automático. " * 8
+          + "\nReferência: Processo nº O%scios-Circulares SRE 2024 Documento SEI nº 2190952\n")
+
+
+class TestGlifoNaoLido(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.pdf = _pdf_falso(self.tmp.name)
+        self.item = {i["id"]: i for i in tv.itens_do_acervo(ACERVO, 2)}["cvm-oc-sse-0326"]
+
+    def _processar(self, pdfkit, pypdf):
+        saida = os.path.join(self.tmp.name, "saida")
+        with mock.patch.object(tv, "_baixar", side_effect=lambda url, destino: shutil.copyfile(self.pdf, destino) and destino), \
+                mock.patch.object(tv, "_pdfkit_txt", return_value=pdfkit), \
+                mock.patch.object(tv, "_pdf_txt", return_value=pypdf), \
+                mock.patch.object(tv, "_pdf_type3", return_value=False), \
+                mock.patch.object(tv, "_ocr", return_value=None):
+            rel = tv.processar([self.item], saida, os.path.join(self.tmp.name, "cache"))
+        with open(os.path.join(saida, self.item["arquivo"]), encoding="utf-8") as f:
+            return f.read(), rel[0]
+
+    def test_pypdf_le_o_glifo_no_mesmo_trecho_e_ele_volta(self):
+        md, rel = self._processar(OFICIO % "\x00", (OFICIO % "fí").replace(" nº O", " nº\nO"))
+        self.assertIn("Processo nº Ofícios-Circulares SRE", md)
+        self.assertEqual(rel["glifos_recuperados"], 1)
+        self.assertNotIn("glifos_nao_lidos", rel)
+        self.assertNotIn("não lido", dict(ler_frontmatter(md)[0])["incerteza"])
+
+    def test_sem_recuperacao_vira_marca_e_aviso_no_incerteza(self):
+        md, rel = self._processar(OFICIO % "\x00", OFICIO % "\x00")
+        self.assertIn("Processo nº O�cios-Circulares", md)
+        self.assertEqual(contar_controle(md), 0)
+        self.assertEqual(rel["glifos_nao_lidos"], 1)
+        self.assertIn("1 glifo não lido no PDF, marcado com �", dict(ler_frontmatter(md)[0])["incerteza"])
+        self.assertEqual(validar_norma_em(md, self.tmp.name, self.item["arquivo"]), [])
+
+    def test_leitura_ambigua_nao_recupera(self):
+        conf = "Processo nº Ofícios-Circulares SRE e Processo nº Oxcios-Circulares SRE"
+        self.assertEqual(tv.recuperar_glifos("Processo nº O\x00cios-Circulares SRE", conf),
+                         ("Processo nº O\x00cios-Circulares SRE", 0))
+        # contexto curto demais (início do texto) também não
+        self.assertEqual(tv.recuperar_glifos("O\x00cios", "Ofícios")[1], 0)
+        # dois NUL: cada um com o seu trecho
+        txt, n = tv.recuperar_glifos("Processo nº O\x00cios e o arquivo O\x00cio final",
+                                     "Processo nº Ofícios e o arquivo Ofício final")
+        self.assertEqual((txt, n), ("Processo nº Ofícios e o arquivo Ofício final", 2))
+
+    def test_gravacao_limpa_controle_e_preserva_tab_e_quebra(self):
+        md = "---\nid: x\n---\n\nO\x00cios na sexta\x02feira\x0b.\n\tcom tab\r\nfim\x7f\n"
+        saida = os.path.join(self.tmp.name, "saida")
+        with mock.patch.object(tv, "obter_fonte", return_value=self.pdf), \
+                mock.patch.object(tv, "montar", return_value=(md, {"id": self.item["id"], "resultado": "ok"})):
+            tv.processar([self.item], saida, os.path.join(self.tmp.name, "cache"))
+        with open(os.path.join(saida, self.item["arquivo"]), encoding="utf-8", newline="") as f:
+            gravado = f.read()
+        self.assertEqual(gravado, "---\nid: x\n---\n\nO�cios na sexta-feira.\n\tcom tab\r\nfim\n")
+
+
+def validar_norma_em(md, raiz, arquivo):
+    caminho = os.path.join(raiz, "validar", *arquivo.split("/"))
+    os.makedirs(os.path.dirname(caminho), exist_ok=True)
+    with open(caminho, "w", encoding="utf-8") as f:
+        f.write(md)
+    return validar_norma(caminho)
+
+
+class TestIds(unittest.TestCase):
+    def setUp(self):
+        self.itens = tv.itens_do_acervo(ACERVO, 2)
+
+    def test_filtra_por_id_ou_slug_na_ordem_dos_itens(self):
+        escolhidos, faltam = tv.filtrar_ids(self.itens, ["oc-anual-sep-2022", " cvm-oc-sse-0326", "po-35"])
+        self.assertEqual([i["id"] for i in escolhidos],
+                         ["cvm-po-35", "cvm-oc-sse-0326", "cvm-oc-anual-sep-2022"])
+        self.assertEqual(faltam, [])
+        self.assertEqual(tv.filtrar_ids(self.itens, ["cvm-oc-sse-0326", "nao-existe"])[1], ["nao-existe"])
+
+    def _main(self, argv_extra, rel_anterior=None):
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, tmp)
+        acervo = os.path.join(tmp, "acervo.json")
+        with open(acervo, "w", encoding="utf-8") as f:
+            json.dump(ACERVO, f)
+        relpath = os.path.join(tmp, "rel.json")
+        if rel_anterior is not None:
+            with open(relpath, "w", encoding="utf-8") as f:
+                if isinstance(rel_anterior, str):
+                    f.write(rel_anterior)  # texto cru (JSON corrompido)
+                else:
+                    json.dump(rel_anterior, f)
+        vistos = []
+
+        def processar(itens, saida, cache, mostrar=False):
+            vistos.extend(i["id"] for i in itens)
+            return [{"id": i["id"], "resultado": "ok", "novo": True} for i in itens]
+
+        with mock.patch.object(tv, "processar", side_effect=processar), \
+                mock.patch("sys.stdout"), mock.patch("sys.stderr"):
+            rc = tv.main(["texto_vigente.py", "--camada", "2", "--acervo", acervo, "--saida", tmp,
+                          "--relatorio", relpath] + argv_extra)
+        rel = None
+        if os.path.exists(relpath):
+            with open(relpath, encoding="utf-8") as f:
+                rel = f.read() if isinstance(rel_anterior, str) else json.load(f)
+        return rc, vistos, rel
+
+    def test_ids_so_processa_os_escolhidos_e_atualiza_o_relatorio(self):
+        anterior = [{"id": "cvm-po-35", "resultado": "ok"}, {"id": "cvm-oc-sse-0326", "resultado": "ok"},
+                    {"id": "cvm-oc-anual-sep-2022", "resultado": "ok"}]
+        rc, vistos, rel = self._main(["--ids", "oc-sse-0326"], anterior)
+        self.assertEqual(rc, 0)
+        self.assertEqual(vistos, ["cvm-oc-sse-0326"])
+        self.assertEqual([r["id"] for r in rel], ["cvm-po-35", "cvm-oc-sse-0326", "cvm-oc-anual-sep-2022"])
+        self.assertEqual([bool(r.get("novo")) for r in rel], [False, True, False])
+
+    def test_sem_ids_nada_muda(self):
+        rc, vistos, rel = self._main([], [{"id": "velho"}])
+        self.assertEqual(rc, 0)
+        self.assertEqual(vistos, ["cvm-po-35", "cvm-oc-sse-0326", "cvm-oc-anual-sep-2022"])
+        self.assertEqual([r["id"] for r in rel], vistos)  # relatório da camada inteira, trocado
+
+    def test_id_sem_item_e_erro(self):
+        rc, vistos, rel = self._main(["--ids", "cvm-oc-sse-0326,oc-xyz-9999"], [{"id": "velho"}])
+        self.assertEqual(rc, 2)
+        self.assertEqual(vistos, [])
+        self.assertEqual(rel, [{"id": "velho"}])
+
+    def test_relatorio_anterior_corrompido_para_antes_de_gravar(self):
+        for ruim in ('[{"id": "cvm-po-35", "resultado": "ok"', '{"id": "cvm-po-35"}', '[{"resultado": "ok"}]'):
+            with self.subTest(ruim=ruim):
+                rc, vistos, rel = self._main(["--ids", "oc-sse-0326"], ruim)
+                self.assertEqual(rc, 1)
+                self.assertEqual(vistos, [])  # processar não rodou: nenhum .md gravado
+                self.assertEqual(rel, ruim)   # relatório intacto
+
+    def test_ler_relatorio_anterior_diz_o_problema(self):
+        tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, tmp)
+        caminho = os.path.join(tmp, "rel.json")
+        with open(caminho, "w", encoding="utf-8") as f:
+            f.write("[{")
+        with self.assertRaisesRegex(ValueError, "ilegível"):
+            tv.ler_relatorio_anterior(caminho)
+        with open(caminho, "w", encoding="utf-8") as f:
+            json.dump({"id": "x"}, f)
+        with self.assertRaisesRegex(ValueError, "fora do formato"):
+            tv.ler_relatorio_anterior(caminho)
+        with open(caminho, "w", encoding="utf-8") as f:
+            json.dump([{"id": "x"}], f)
+        self.assertEqual(tv.ler_relatorio_anterior(caminho), [{"id": "x"}])

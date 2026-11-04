@@ -15,8 +15,8 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0623.pdf
 sha256_fonte: 7515209b17d4247b9714c8a3e7cc343c388e30b0a1fb18253da324dbac73b0da
 baixado_em: 2026-10-28
-verificado_em: 2026-10-29
-incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+verificado_em: 2026-11-04
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato. 1 glifo não lido no PDF, marcado com � [verificar no PDF oficial].
 nivel_verificacao: pdf-extraido
 ---
 
@@ -510,4 +510,4 @@ _
 
 typing the "Código Verificador" 1776397 and the "Código CRC" 9E87C083.
 
-Referência: Processo nº O cios-circulares SRE 2023 Documento SEI nº 1776397
+Referência: Processo nº O�cios-circulares SRE 2023 Documento SEI nº 1776397

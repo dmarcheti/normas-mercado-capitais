@@ -15,8 +15,8 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0524.pdf
 sha256_fonte: 84246e3590d70c387a1a77a3d28cc8671c60bba2faa964980de79c1c9877302b
 baixado_em: 2026-10-28
-verificado_em: 2026-10-29
-incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+verificado_em: 2026-11-04
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato. 1 glifo não lido no PDF, marcado com � [verificar no PDF oficial].
 nivel_verificacao: pdf-extraido
 ---
 
@@ -398,4 +398,4 @@ autenticidade,
 
 autenticidade, and
 
-Referência: Processo nº O cios-Circulares SRE 2024 Documento SEI nº 2212055
+Referência: Processo nº O�cios-Circulares SRE 2024 Documento SEI nº 2212055

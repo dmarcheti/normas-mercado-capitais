@@ -13,6 +13,7 @@ Etapas (cada uma lê o que a anterior gravou; nada é baixado duas vezes):
 Fonte do texto, em ordem: ctresb/leis (conversão do HTML do DOU; `url_dou` = slug do
 in.gov.br); DOCX do ato na CVM; PDF do ato na CVM pelo PDFKit (texto refeito em parágrafos
 por `paragrafos_pdf`). Fonte não-DOU: `url_dou` vazio e incerteza INCERTEZA_NAO_DOU.
+Os `.md` gravados (textos e alteradoras) passam por controle.sem_controle (NUL e afins).
 
 Uso: python3 scripts/fontes_onda.py inventario|baixar|textos|alteradoras
 """
@@ -30,6 +31,7 @@ import urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from alteradoras import escrever_alteradora, md_do_ctresb, md_do_docx  # noqa: E402
 from baixar import permitido, slug_ctresb  # noqa: E402
+from controle import sem_controle  # noqa: E402
 from converter import normalizar_artigos  # noqa: E402
 from inventario import BASE, URL_PAGINA, USER_AGENT, extrair_pagina, montar_inventario  # noqa: E402
 
@@ -432,7 +434,7 @@ def etapa_textos():
             falhas.append((num, str(e)[:200]))
             continue
         with open(destino, "w", encoding="utf-8") as f:
-            f.write(md)
+            f.write(sem_controle(md))  # o PDFKit deixa NUL no glifo não lido
         feitos += 1
     print("textos: %d dou-NNNN.md novo(s), %d falha(s)" % (feitos, len(falhas)))
     for f in falhas:
@@ -488,7 +490,7 @@ def etapa_alteradoras():
             falhas.append((num, str(e)[:200]))
             continue
         with open(os.path.join(ALTERADORAS, "%04d.md" % num), "x", encoding="utf-8") as f:
-            f.write(conteudo)
+            f.write(sem_controle(conteudo))
         feitos += 1
     print("alteradoras: %d arquivo(s) novo(s), %d falha(s)" % (feitos, len(falhas)))
     for f in falhas:

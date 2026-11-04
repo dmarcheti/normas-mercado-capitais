@@ -15,8 +15,8 @@ fonte_original: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-
 fonte_consolidada: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/sre/anexos/oc-sre-0124.pdf
 sha256_fonte: 51b58f732d5801c45712173c3286e4b044a82e06ebeab4af374511748aabb2f7
 baixado_em: 2026-10-28
-verificado_em: 2026-10-29
-incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato.
+verificado_em: 2026-11-04
+incerteza: Texto convertido por script de ato PDF da CVM, data-base 2026-10-28, sem histórico de redações nem conferência ato a ato. Extraído de PDF: quebras de linha, tabelas e numeração podem estar deslocadas [verificar]. A CVM não publica a vigência de ofícios-circulares; este texto pode tratar de norma já revogada. Sem publicação no DOU informada pela CVM; publicacao_dou repete a data do ato. 1 glifo não lido no PDF, marcado com � [verificar no PDF oficial].
 nivel_verificacao: pdf-extraido
 ---
 
@@ -268,4 +268,4 @@ _
 
 typing the "Código Verificador" 1962466 and the "Código CRC" B205B1B6.
 
-Referência: Processo nº O cios-Circulares SRE 2024 Documento SEI nº 1962466
+Referência: Processo nº O�cios-Circulares SRE 2024 Documento SEI nº 1962466

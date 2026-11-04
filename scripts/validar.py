@@ -24,12 +24,18 @@ Julgados (SPEC v0.5.0): `python3 scripts/validar.py plugins/julgados-<plugin>/ju
 fora o `indice.md` e a pasta `indices/`, com validar_julgado(path, ids). Os ids de
 `normas_citadas` e `dispositivos_citados` são conferidos contra o `normas.json` do acervo
 (`--normas-json CAMINHO`; sem o arquivo, só o formato é conferido).
+Em normas, partes e julgados, caractere de controle (controle.CONTROLE: NUL e afins; \\t, \\n
+e \\r ficam) é erro, com o número de ocorrências. Nos atos alteradores (`alteradoras/`),
+só esse erro é conferido (o resto do schema não vale para eles).
 Saída 0 = ok; 1 = erros; 2 = uso incorreto.
 """
 import datetime
 import os
 import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from controle import contar_controle  # noqa: E402
 
 CAMPOS = [
     "id", "orgao", "tipo", "numero", "data", "publicacao_dou", "ementa",
@@ -109,6 +115,14 @@ def ler_frontmatter(texto):
     return pares, "\n".join(linhas[fim + 1:]), None
 
 
+def erro_controle(texto, onde=""):
+    """Erro (ou None) de caractere de controle no texto (controle.CONTROLE; \\t, \\n e \\r ficam)."""
+    n = contar_controle(texto)
+    if not n:
+        return None
+    return "%scaractere de controle (NUL e afins, que o grep e o git tratam como binário): %d ocorrência(s)" % (onde, n)
+
+
 def _data_valida(valor):
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", valor):
         return False
@@ -162,6 +176,9 @@ def _erros_partes(index_path):
             continue
         with open(caminho, encoding="utf-8") as f:
             texto = f.read()
+        controle = erro_controle(texto, "parte %s: " % nome)
+        if controle:
+            erros.append(controle)
         primeira = next((l for l in texto.split("\n") if l.strip()), "")
         if primeira.strip() == "---":
             erros.append("parte %s não pode ter frontmatter" % nome)
@@ -191,10 +208,11 @@ def validar_norma(path):
     with open(path, encoding="utf-8") as f:
         texto = f.read()
     em_partes = os.path.basename(path) == "index.md"
+    controle = [e for e in [erro_controle(texto)] if e]
     pares, corpo, erro = ler_frontmatter(texto)
     if erro:
-        return [erro]
-    erros = [valor for chave, valor in pares if chave is None]
+        return controle + [erro]
+    erros = controle + [valor for chave, valor in pares if chave is None]
     pares = [(c, v) for c, v in pares if c is not None]
     chaves = [c for c, _ in pares]
     valores = dict(pares)
@@ -354,6 +372,20 @@ PASTAS_DE_NORMAS = ("resolucoes", "instrucoes", "pareceres-orientacao", "leis",
                     "resolucoes-conjuntas", "circulares", "cartas-circulares", "instrucoes-normativas")
 
 
+def arquivos_de_alteradoras(raiz):
+    """Atos alteradores: cada `.md` das pastas `alteradoras/` sob `raiz` (só o caractere de controle é conferido)."""
+    achados = []
+    for dirpath, _dirs, nomes in os.walk(raiz):
+        if os.path.basename(dirpath) == "alteradoras":
+            achados += [os.path.join(dirpath, n) for n in nomes if n.endswith(".md")]
+    return sorted(achados)
+
+
+def erros_de_alteradora(caminho):
+    with open(caminho, encoding="utf-8") as f:
+        return [e for e in [erro_controle(f.read())] if e]
+
+
 def arquivos_de_normas(raiz):
     achados = arquivos_de_oficios(raiz) + arquivos_de_autorregulacao(raiz)
     for pasta in PASTAS_DE_NORMAS:
@@ -436,10 +468,11 @@ def validar_julgado(path, ids=None):
     jc = _contrato_julgados()
     with open(path, encoding="utf-8") as f:
         texto = f.read()
+    controle = [e for e in [erro_controle(texto)] if e]
     pares, corpo, erro = ler_frontmatter(texto)
     if erro:
-        return [erro]
-    erros = [valor for chave, valor in pares if chave is None]
+        return controle + [erro]
+    erros = controle + [valor for chave, valor in pares if chave is None]
     pares = [(c, x) for c, x in pares if c is not None]
     chaves = [c for c, _ in pares]
     v = dict(pares)
@@ -573,7 +606,8 @@ def main(argv):
     if julgados or os.path.basename(os.path.normpath(os.path.abspath(raiz))) == "julgados":
         return _main_julgados(raiz, normas_json)
     arquivos = arquivos_de_normas(raiz)
-    if not arquivos:
+    alteradoras = arquivos_de_alteradoras(raiz)
+    if not arquivos and not alteradoras:
         print("validar: nenhuma norma em %s; nada a validar" % raiz)
         return 0
     total = 0
@@ -581,6 +615,14 @@ def main(argv):
         for e in validar_norma(caminho):
             total += 1
             print("%s: %s" % (caminho, e))
+    erros_alt = 0
+    for caminho in alteradoras:
+        for e in erros_de_alteradora(caminho):
+            erros_alt += 1
+            print("%s: %s" % (caminho, e))
+    if alteradoras:
+        print("validar: %d alteradora(s), só caractere de controle, %d erro(s)" % (len(alteradoras), erros_alt))
+    total += erros_alt
     print("validar: %d arquivo(s), %d erro(s)" % (len(arquivos), total))
     return 1 if total else 0
 

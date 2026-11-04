@@ -56,6 +56,11 @@ Uso:
     camada 4: CMN e BCB (--perimetro, --acervo-bcb, --cache-bcb);
     camada 5: ANBIMA e B3 (--acervo-anbima, --acervo-b3, --cache-anbima, --cache-b3).
     Relatório em dados/texto-vigente-camada-N.json; fontes baixadas em dados/texto-vigente-fontes/.
+    --ids A,B: só os itens com esses ids ou slugs (id sem o prefixo do órgão, ou nome do arquivo);
+      id sem item é erro (saída 2); o relatório existente ganha só as entradas desses itens.
+    Gravação: o Markdown passa por controle.sem_controle (sem caractere de controle). O NUL do
+    PDFKit no lugar de um glifo não lido volta a ser o glifo quando o pypdf o lê no mesmo trecho
+    (recuperar_glifos); senão vira "\ufffd", com aviso no `incerteza`.
   python3 scripts/texto_vigente.py <itens.json> <pasta de saída>   (modo do piloto)
     itens.json: lista de {id, tipo, numero, data, dou, ementa, situacao, url_pagina, arquivo,
     fontes: {consolidado: {ext: url}, ato: {ext: url}}, alteradoras, vigente_ate_ato};
@@ -80,6 +85,7 @@ from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from converter import docx_para_md, normalizar_artigos, ordem_das_notas, textos_das_caixas  # noqa: E402
 import bcb_versoes  # noqa: E402
+from controle import sem_controle  # noqa: E402
 import html_bcb  # noqa: E402
 from inventario import USER_AGENT  # noqa: E402
 from inventario_acervo import citadas  # noqa: E402
@@ -706,6 +712,39 @@ def sem_registro_de_assinaturas(txt):
     return (txt[:m.start()].rstrip() + "\n", True) if m else (txt, False)
 
 
+def _padrao_contexto(trecho):
+    """Regex do trecho, com cada sequência de espaços casando qualquer sequência de espaços."""
+    return "".join(r"\s+" if p.isspace() else re.escape(p) for p in re.findall(r"\s+|\S", trecho))
+
+
+def recuperar_glifos(txt, conferencia, contexto=12, minimo=8):
+    """(texto, recuperados): o NUL que o extrator deixou no lugar de um glifo não lido volta a ser
+    o glifo quando o texto de conferência (outro extrator, do mesmo PDF) tem, entre o mesmo
+    trecho de `contexto` caracteres de cada lado (espaços normalizados, ao menos `minimo` não
+    brancos no total), de 1 a 3 letras, e sempre as mesmas em todas as ocorrências do trecho.
+    Sem recuperação inequívoca o NUL fica (na gravação vira "\ufffd")."""
+    if not txt or "\x00" not in txt or not conferencia:
+        return txt, 0
+    partes, recuperados = txt.split("\x00"), 0
+    out = [partes[0]]
+    for i in range(1, len(partes)):
+        antes = re.split(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "".join(out[-8:]))[-1][-contexto:]
+        depois = re.split(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", partes[i])[0][:contexto]
+        letras = None
+        if len(re.sub(r"\s", "", antes + depois)) >= minimo:
+            achados = {m.group(1) for m in re.finditer(
+                _padrao_contexto(antes) + r"([^\W\d_]{1,3})" + _padrao_contexto(depois), conferencia)}
+            if len(achados) == 1:
+                letras = achados.pop()
+        if letras is None:
+            out.append("\x00")
+        else:
+            out.append(letras)
+            recuperados += 1
+        out.append(partes[i])
+    return "".join(out), recuperados
+
+
 def converter_pdf(path, limpar=None, legivel=None):
     """(markdown, texto de conferência, conferência independente?); PDF ilegível tenta OCR e,
     sem OCR aceito, levanta SemTexto. Grava o extrator e o OCR em converter_fonte.extras.
@@ -728,8 +767,10 @@ def converter_pdf(path, limpar=None, legivel=None):
         kit, pyp = limpar(kit), limpar(pyp)
     for nome, txt, conf in (("pdfkit", kit, pyp), ("pypdf", pyp, None)):
         if txt is not None and motivo_sem_texto(legivel(txt)) is None:
+            txt, recuperados = recuperar_glifos(txt, conf)
             converter_fonte.extras = {"extrator": nome, "legibilidade": legibilidade(legivel(txt)),
-                                      "assinaturas_retiradas": corte_kit or corte_pyp}
+                                      "assinaturas_retiradas": corte_kit or corte_pyp,
+                                      "glifos_recuperados": recuperados}
             return _md_pdf(txt), (txt if conf is None else conf), conf is not None
     base = pyp if pyp is not None else kit
     frac, n = legibilidade(base)
@@ -1038,6 +1079,13 @@ def montar(item, path, tipo_fonte, ext, url):
     limpar = sem_tachado_bcb if conversor == "html_bcb" else sem_tachado
     tachado = len(palavras(md)) - len(palavras(limpar(md)))
     corpo = normalizar_artigos(limpar(md) if tipo_fonte == "consolidado" else md)
+    nao_lidos = corpo.count("\x00")  # na gravação, sem_controle os marca com "\ufffd"
+    if nao_lidos:
+        item = dict(item, notas=item.get("notas", []) + [
+            "%d %s %s, %s com \ufffd [verificar no PDF oficial]." % (
+                nao_lidos, "glifo" if nao_lidos == 1 else "glifos",
+                ("não lido" if nao_lidos == 1 else "não lidos") + (" no PDF" if ext == "pdf" else " na fonte"),
+                "marcado" if nao_lidos == 1 else "marcados")])
     with open(path, "rb") as f:
         sha = hashlib.sha256(f.read()).hexdigest()
     baixado_em, ocr = data_arquivo(path), extras.get("ocr")
@@ -1054,6 +1102,10 @@ def montar(item, path, tipo_fonte, ext, url):
         rel["versao_bcb"] = item["versao_bcb"]
     if item.get("avisos"):
         rel["avisos"] = list(item["avisos"])
+    if nao_lidos:
+        rel["glifos_nao_lidos"] = nao_lidos
+    if extras.get("glifos_recuperados"):
+        rel["glifos_recuperados"] = extras["glifos_recuperados"]
     if ext == "pdf":
         rel["extrator"] = extras.get("extrator")
         rel["legibilidade"], rel["palavras"] = extras.get("legibilidade") or legibilidade(txt)
@@ -1137,7 +1189,7 @@ def processar(itens, saida, cache, mostrar=False):
         destino = os.path.join(saida, item["arquivo"])
         os.makedirs(os.path.dirname(destino), exist_ok=True)
         with open(destino, "w", encoding="utf-8") as f:
-            f.write(md)
+            f.write(sem_controle(md))  # NUL vira "\ufffd"; nenhum caractere de controle no acervo
         rel["segundos"] = round(time.time() - t0, 1)
         rel["arquivo"] = item["arquivo"]
         relatorio.append(rel)
@@ -1164,6 +1216,50 @@ def resumo(relatorio):
     return "\n".join(linhas)
 
 
+def _chaves_do_item(item):
+    """Nomes pelos quais `--ids` acha o item: o id, o id sem o prefixo do órgão e o nome do arquivo."""
+    orgao = item.get("orgao", "cvm") + "-"
+    nome = os.path.basename(item.get("arquivo") or "")
+    nome = nome[:-3] if nome.endswith(".md") else nome
+    if nome == "index":
+        nome = os.path.basename(os.path.dirname(item["arquivo"]))
+    return {item["id"], item["id"][len(orgao):] if item["id"].startswith(orgao) else item["id"], nome}
+
+
+def filtrar_ids(itens, ids):
+    """(itens cujo id ou slug está em `ids`, na ordem dos itens; [ids sem item])."""
+    pedidos = [x.strip() for x in ids if x.strip()]
+    escolhidos, achados = [], set()
+    for item in itens:
+        chaves = _chaves_do_item(item)
+        bate = chaves.intersection(pedidos)
+        if bate:
+            escolhidos.append(item)
+            achados |= bate
+    return escolhidos, [x for x in pedidos if x not in achados]
+
+
+def ler_relatorio_anterior(caminho):
+    """Relatório da camada já gravado, para a mescla do --ids: lista de entradas (dict) com
+    `id`. Arquivo ilegível ou fora desse formato levanta ValueError."""
+    try:
+        with open(caminho, encoding="utf-8") as f:
+            dados = json.load(f)
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError) as e:
+        raise ValueError("relatório anterior %s ilegível (%s)" % (caminho, e))
+    if not isinstance(dados, list) or not all(isinstance(r, dict) and r.get("id") for r in dados):
+        raise ValueError("relatório anterior %s fora do formato (lista de entradas com id)" % caminho)
+    return dados
+
+
+def juntar_relatorio(anterior, novo):
+    """Relatório anterior com as entradas dos ids de `novo` trocadas (as novas no lugar, as que
+    não havia no fim): a reconversão de poucos itens não apaga o relatório da camada."""
+    por_id = {r.get("id"): r for r in novo}
+    saida = [por_id.pop(r.get("id")) if r.get("id") in por_id else r for r in anterior]
+    return saida + [r for r in novo if r.get("id") in por_id]
+
+
 def main(argv):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("itens", nargs="?", help="itens.json (modo do piloto)")
@@ -1179,6 +1275,8 @@ def main(argv):
     ap.add_argument("--cache-b3", default=CACHE_PDF["b3"])
     ap.add_argument("--saida", default="plugins/normas/normas")
     ap.add_argument("--limite", type=int, help="só os N primeiros itens")
+    ap.add_argument("--ids", help="só estes itens: ids ou slugs separados por vírgula "
+                    "(ex.: cvm-oc-sre-0424,oc-sre-0524); o relatório existente é atualizado, não trocado")
     ap.add_argument("--cache", help="padrão: dados/texto-vigente-fontes (camada) ou <pasta>/fontes")
     ap.add_argument("--relatorio", help="padrão: dados/texto-vigente-camada-N.json")
     args = ap.parse_args(argv[1:])
@@ -1204,12 +1302,26 @@ def main(argv):
     else:
         ap.print_help()
         return 2
+    if args.ids:
+        itens, faltam = filtrar_ids(itens, args.ids.split(","))
+        if faltam:
+            print("texto_vigente: --ids sem item na fonte escolhida: %s" % ", ".join(faltam), file=sys.stderr)
+            return 2
+    anterior = None
+    if args.ids and os.path.exists(destino_rel):
+        # lido e conferido antes de gravar qualquer .md: relatório ilegível para a reconversão
+        try:
+            anterior = ler_relatorio_anterior(destino_rel)
+        except ValueError as e:
+            print("texto_vigente: %s; nada foi gravado" % e, file=sys.stderr)
+            return 1
     if args.limite:
         itens = itens[:args.limite]
     relatorio = processar(itens, saida, cache, mostrar=True)
+    gravar = relatorio if anterior is None else juntar_relatorio(anterior, relatorio)
     os.makedirs(os.path.dirname(os.path.abspath(destino_rel)), exist_ok=True)
     with open(destino_rel, "w", encoding="utf-8") as f:
-        json.dump(relatorio, f, ensure_ascii=False, indent=1)
+        json.dump(gravar, f, ensure_ascii=False, indent=1)
         f.write("\n")
     print(resumo(relatorio))
     print("-> %s" % destino_rel)

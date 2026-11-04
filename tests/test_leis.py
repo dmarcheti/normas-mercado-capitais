@@ -518,5 +518,38 @@ class TestBaixarLeis(unittest.TestCase):
         self.assertTrue(rel["lcp-105"]["arquivo"].endswith("lcp-105.html"))
 
 
+class TestGravacaoSemControle(unittest.TestCase):
+    """Fase 4: a gravação das leis e a saída do converter.py não levam caractere de controle."""
+
+    def test_escrever_leis_limpa_controle_e_preserva_tab(self):
+        from unittest import mock
+        with tempfile.TemporaryDirectory() as d:
+            fontes, saida = os.path.join(d, "fontes"), os.path.join(d, "leis")
+            os.makedirs(fontes)
+            with open(os.path.join(fontes, "relatorio.json"), "w", encoding="utf-8") as f:
+                json.dump({"lei-1": {"ok": True, "arquivo": "lei-1.html", "url": "https://x/l1.htm"}}, f)
+            with open(os.path.join(fontes, "lei-1.html"), "wb") as f:
+                f.write(b"<html></html>")
+            conteudo = {"lei-00001.md": "O\x00cios na sexta\x02feira\x1f.\n\tcom tab\n"}
+            with mock.patch.object(leis, "montar_lei", return_value=conteudo):
+                self.assertEqual(leis.escrever_leis([{"id": "lei-1"}], fontes, saida), ["lei-00001.md"])
+            with open(os.path.join(saida, "lei-00001.md"), encoding="utf-8") as f:
+                self.assertEqual(f.read(), "O\ufffdcios na sexta-feira.\n\tcom tab\n")
+
+    def test_saida_do_converter_sem_controle(self):
+        import contextlib
+        import io
+        import converter
+        with tempfile.TemporaryDirectory() as d:
+            html = os.path.join(d, "l.html")
+            with open(html, "w", encoding="utf-8") as f:
+                f.write("<html><body><p>Art. 1º O\x00cios na sexta\x02feira.</p></body></html>")
+            out = io.StringIO()
+            with contextlib.redirect_stdout(out):
+                self.assertEqual(converter.main(["converter.py", html, "--planalto"]), 0)
+        self.assertIn("O\ufffdcios na sexta-feira", out.getvalue())
+        self.assertNotIn("\x00", out.getvalue())
+
+
 if __name__ == "__main__":
     unittest.main()

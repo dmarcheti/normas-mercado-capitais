@@ -152,6 +152,12 @@ class TestValidarJulgado(unittest.TestCase):
         self.assertTrue(any("'# <título>'" in e for e in self.erros(corpo="## Relatório\n\nx\n")))
         self.assertTrue(any("seção '## '" in e for e in self.erros(corpo="# Título\n\nsó texto\n")))
 
+    def test_caractere_de_controle(self):
+        erros = self.erros(corpo="# Título\n\n## Voto\n\nO\x00cios e \x00 e \x1f.\n")
+        self.assertEqual(len(erros), 1, erros)
+        self.assertIn("caractere de controle", erros[0])
+        self.assertIn("3 ocorrência(s)", erros[0])
+
 
 class TestMainJulgados(unittest.TestCase):
     def rodar(self, argv):
@@ -186,6 +192,13 @@ class TestMainJulgados(unittest.TestCase):
                 f.write(montar(dict(BASE, resultado="aceito")))
             rc, out = self.rodar(["validar.py", raiz, "--normas-json", nj])
             self.assertEqual(rc, 1)
+            with open(os.path.join(raiz, "cvm", "pas", "2025", "19957-011607-2024-20.md"), "w",
+                      encoding="utf-8") as f:
+                f.write(montar(BASE, corpo=CORPO.replace("Texto.", "O\x00cios.")))
+            rc, out = self.rodar(["validar.py", raiz, "--normas-json", nj])
+            self.assertEqual(rc, 1)
+            self.assertIn("19957-011607-2024-20.md: caractere de controle", out)
+            self.assertIn("2 ocorrência(s)", out)
 
     def test_opcao_julgados_e_uso(self):
         with tempfile.TemporaryDirectory() as tmp:
