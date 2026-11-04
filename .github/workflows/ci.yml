@@ -43,6 +43,11 @@ jobs:
 
   gitleaks:
     runs-on: ubuntu-latest
+    # no pull_request, a gitleaks-action lista os commits do PR pela API: sem pull-requests: read,
+    # ela falha com "Resource not accessible by integration" (visto na R1 da Fase 4)
+    permissions:
+      contents: read
+      pull-requests: read
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
