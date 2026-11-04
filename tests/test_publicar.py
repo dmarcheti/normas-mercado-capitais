@@ -10,6 +10,8 @@ from unittest import mock
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
+# o ~/normas-auto real fica fora dos testes (a vigia não o usa; o job.BASE lê esta variável)
+os.environ.setdefault("NORMAS_AUTO_BASE", os.path.join(tempfile.gettempdir(), "normas-auto-teste-publicar"))
 
 import indice  # noqa: E402
 import publicar as pub  # noqa: E402
