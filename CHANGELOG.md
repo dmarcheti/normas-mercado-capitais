@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## v1.2.0 (não publicada)
+
+- **Atualização automática quinzenal:** a cada duas semanas (quarta-feira), um processo compara as fontes oficiais (CVM, BCB, Planalto, ANBIMA, B3 e CRSFN) com o acervo e aplica o que mudou, pelos mesmos scripts da construção, com testes e um revisor por IA. Execução perdida roda na primeira oportunidade. Entra sem revisão humana só o que tem conferência independente (conversão por script de fonte oficial, cobertura de pelo menos 99% e testes verdes); texto por OCR, revogação, vigência diferida, norma ou documento novo fora do perímetro, ato que altera norma com histórico e item marcado pelo revisor passam por uma pessoa. Por ora tudo está em período de observação: o processo propõe e uma pessoa aprova.
+- **Aviso de ato não aplicado:** entre a publicação de um ato alterador e o consolidado oficial, a norma traz aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice.
+- **Versões e data de conferência:** a versão de cada plugin sobe quando o conteúdo dele muda, e cada índice traz "Fontes conferidas até AAAA-MM-DD". Defasagem esperada: até cerca de duas semanas.
+- **Documentação:** seção "Atualização" no `README.md`, seção "Atualização automática" no `VERIFICACAO.md` e nota sobre a data de conferência no `COMECE-AQUI.md`. As taxas de erro publicadas medem a construção, não cada atualização.
+- **Correções:** as da v1.1.1, abaixo, seguem valendo.
+
 ## v1.1.1 (2026-11-04)
 
 - **Ofícios SRE com glifo não lido:** 13 Ofícios-Circulares da SRE (2023 e 2024) tinham NUL no lugar de um glifo ("O\x00cios-Circulares", na linha "Referência: Processo nº"), e o grep e o git os tratavam como binários. Reconvertidos da fonte: o glifo, que nem o PDFKit nem o pypdf leem, fica marcado com "�", com aviso no `incerteza`.

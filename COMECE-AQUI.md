@@ -52,6 +52,7 @@ Os arquivos são Markdown comum. Dê ao assistente a pasta `plugins/normas/norma
 - Cada norma é um arquivo; cada artigo é um título `## Art. N` (pareceres, ofícios e parte da autorregulação não têm artigos).
 - O frontmatter diz a situação da norma e a data-base (`vigente_ate_ato`). Cite sempre a data-base e o dispositivo exato (ex.: art. 9º, § 2º, Res. CVM 175).
 - Se a norma ou o artigo não estiver no acervo, diga isso. Não responda de memória quando o arquivo existe.
+- O acervo é atualizado a cada duas semanas. Veja a linha "Fontes conferidas até AAAA-MM-DD" no índice e informe essa data: ato publicado depois dela, ou até cerca de duas semanas antes, pode ainda não estar no acervo. Norma com aviso no campo `incerteza` tem ato alterador publicado e ainda não aplicado; leia o ato junto.
 
 ## Teste de aceitação
 
