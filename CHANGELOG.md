@@ -6,6 +6,7 @@
 - **Aviso de ato não aplicado:** entre a publicação de um ato alterador e o consolidado oficial, a norma traz aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice.
 - **Versões e data de conferência:** a versão de cada plugin sobe quando o conteúdo dele muda, e cada índice traz "Fontes conferidas até AAAA-MM-DD". Defasagem esperada: até cerca de duas semanas.
 - **Documentação:** seção "Atualização" no `README.md`, seção "Atualização automática" no `VERIFICACAO.md` e nota sobre a data de conferência no `COMECE-AQUI.md`. As taxas de erro publicadas medem a construção, não cada atualização.
+- **Código de Negociação de Instrumentos Financeiros da ANBIMA:** a versão vigente desde 2024-11-01 entra no acervo (a ANBIMA passa a 39 documentos). Faltava desde o inventário da camada 5, que só listou as versões anteriores; achado pela primeira verificação da atualização automática.
 - **Correções:** as da v1.1.1, abaixo, seguem valendo.
 
 ## v1.1.1 (2026-11-04)
