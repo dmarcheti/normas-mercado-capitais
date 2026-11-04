@@ -593,6 +593,80 @@ class TestCriterio(Base):
         crit, _ = self.rodar(itens[:5])
         self.assertTrue(crit["conjunto"]["pr_automatico_antes_do_ci"], crit["conjunto"]["motivos"])
 
+    def test_item_do_diogo_sem_arquivo_nao_trava_o_pr_do_dia(self):
+        crit, por = self.rodar([b1(), item("D", "cvm-res-300", ["cvm-res-300"])])
+        d = next(x for x in por.values() if x["id"] == "cvm-res-300")
+        self.assertFalse(d["automatico"])
+        self.assertEqual([x["id"] for x in ler(self.saida, "itens-diogo.json")["itens"]], ["cvm-res-300"])
+        self.assertTrue(crit["conjunto"]["pr_automatico_antes_do_ci"], crit["conjunto"]["motivos"])
+
+    def test_so_item_do_diogo_nao_e_pr_automatico(self):
+        crit, _ = self.um([item("D", "cvm-res-300", ["cvm-res-300"])])
+        self.assertFalse(crit["conjunto"]["pr_automatico_antes_do_ci"])
+        self.assertIn("nenhum item automático", crit["conjunto"]["motivos"])
+
+    def c251(self):
+        url = "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol251.html"
+        self.rotas[url] = ok(fx("cvm-resolucao-249.html"))
+        c = b1(251, "cvm-res-89")
+        c["classe"], c["url"] = "C", url
+        return c
+
+    def test_classe_c_aviso_e_pendente_sao_parte_automatica_do_pr_do_dia(self):
+        c = self.c251()
+        crit, por = self.rodar([b1(), c])
+        x = por[at.chave(c)]
+        self.assertFalse(x["automatico"])
+        self.assertTrue(x["parte_automatica"])
+        self.assertTrue(crit["conjunto"]["pr_automatico_antes_do_ci"], crit["conjunto"]["motivos"])
+        auto = ler(self.saida, "itens-automaticos.json")["itens"]
+        parte = [a for a in auto if a["id"] == "cvm-res-251"]
+        self.assertEqual(len(parte), 1, auto)
+        self.assertEqual((parte[0]["classe"], parte[0]["parte_de"]), ("B1", "C"))
+        self.assertTrue(parte[0]["arquivos"])
+        self.assertTrue(any("0089" in a for a in parte[0]["arquivos"]), parte[0]["arquivos"])
+        diogo = ler(self.saida, "itens-diogo.json")["itens"]
+        self.assertEqual([(d["id"], d["classe"], d["parte_automatica"]) for d in diogo],
+                         [("cvm-res-251", "C", True)])
+        self.assertIn("replay manual", ler(self.saida, "resumo.md"))
+
+    def test_classe_c_sozinha_abre_pr_do_dia_com_a_parte_automatica(self):
+        crit, x = self.um([self.c251()])
+        self.assertTrue(x["parte_automatica"])
+        self.assertTrue(crit["conjunto"]["pr_automatico_antes_do_ci"], crit["conjunto"]["motivos"])
+
+    def test_classe_c_com_condicao_em_falha_trava_o_pr_do_dia(self):
+        c = self.c251()
+        real = at.varrer
+        with mock.patch.object(at, "varrer", side_effect=lambda amb, arqs: (
+                ["dado pessoal em %s" % arqs[0]] if any("0089" in a for a in arqs) else real(amb, arqs))):
+            crit, por = self.rodar([b1(), c])
+        x = por[at.chave(c)]
+        self.assertFalse(x["parte_automatica"])
+        self.assertEqual(x["condicoes"]["4-varredura"], "falha")
+        self.assertFalse(crit["conjunto"]["pr_automatico_antes_do_ci"])
+        self.assertTrue(any(m.startswith("item do Diogo com arquivo no PR do dia: cvm-res-251")
+                            for m in crit["conjunto"]["motivos"]), crit["conjunto"]["motivos"])
+        self.assertNotIn("cvm-res-251", [a["id"] for a in ler(self.saida, "itens-automaticos.json")["itens"]])
+
+    def test_classe_c_sem_aviso_aplicado_e_revertida(self):
+        c = self.c251()
+        c["norma_alvo"] = ["cvm-res-9999"]  # alvo fora do plugin: a parte B1 falha
+        crit, x = self.um([c])
+        self.assertFalse(x["parte_automatica"])
+        self.assertEqual(ler(self.saida, "itens-automaticos.json")["itens"], [])
+        self.assertNotIn("item do Diogo com arquivo", " ".join(crit["conjunto"]["motivos"]))
+        self.assertIn("nenhum item automático", crit["conjunto"]["motivos"])
+
+    def test_reversao_incompleta_do_item_do_diogo_trava_o_pr_do_dia(self):
+        a = self.amb()
+        r_auto = dict(at.novo_resultado(b1()), estado="automatico", arquivos=[])
+        r_d = dict(at.novo_resultado(item("A", "cvm-res-249", ["cvm-res-249"])), estado="diogo",
+                   motivo="x", arquivos=[], nao_revertidos=[NORMAS + "/cvm/resolucoes/0249.md"])
+        crit = at.criterio(a, {r_auto["chave"]: r_auto, r_d["chave"]: r_d}, [], [], {})
+        self.assertFalse(crit["conjunto"]["pr_automatico_antes_do_ci"])
+        self.assertTrue(any("cvm-res-249" in m for m in crit["conjunto"]["motivos"]))
+
     def test_condicao_8_plugin_grande(self):
         with mock.patch.object(at, "LIMITE_ARQUIVOS", 3):
             crit, r = self.um([b1()])

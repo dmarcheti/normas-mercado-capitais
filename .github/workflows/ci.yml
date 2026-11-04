@@ -25,6 +25,22 @@ jobs:
       - name: Índice em dia (desatualizado = falha)
         run: python3 scripts/indice.py --verificar
 
+  varredura:
+    # Fase 4, C19: CPF, RG e caractere de controle nos arquivos alterados do PR, sem a lista
+    # privada de termos (ela fica no pre-commit local).
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Varredura dos arquivos do PR
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git diff --name-only --diff-filter=ACMR -z "$BASE_SHA"...HEAD > "$RUNNER_TEMP/arquivos"
+          xargs -0 -r python3 scripts/varrer_pr.py < "$RUNNER_TEMP/arquivos"
+
   gitleaks:
     runs-on: ubuntu-latest
     steps:

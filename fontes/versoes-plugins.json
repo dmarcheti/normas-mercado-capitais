@@ -1,0 +1,34 @@
+{
+  "plugins": {
+    "normas": {
+      "versao": "1.1.1",
+      "hash": "dc0251ee3bcffced9b2a82e490502267f4d20ebce3aeb0ef8b04049d81d5d2a4",
+      "publicado_em": "2026-11-04"
+    },
+    "julgados-pas": {
+      "versao": "0.5.0",
+      "hash": "38029497a5ada17138b210878e098b8f7cb8e35d8087f148c0da1316bcfbd9c3",
+      "publicado_em": "2026-11-04"
+    },
+    "julgados-tc-crsfn": {
+      "versao": "0.5.1",
+      "hash": "94fe809568418126296bf0a15202c5204271c1d34e92c7b4a71e77b458291158",
+      "publicado_em": "2026-11-04"
+    },
+    "julgados-colegiado-2002-2008": {
+      "versao": "0.5.0",
+      "hash": "586899dd2357444f1775d28986f22bd5872e86e95d25c552d34c7ee38f53aa34",
+      "publicado_em": "2026-11-04"
+    },
+    "julgados-colegiado-2009-2015": {
+      "versao": "0.5.0",
+      "hash": "ad2f81b012736a2e4cfab1259df4380de4a8843f42c33c6d540f3257b99c2a4c",
+      "publicado_em": "2026-11-04"
+    },
+    "julgados-colegiado-2016-2026": {
+      "versao": "0.5.0",
+      "hash": "cd5b197a5512d82a7c2786013affbb3a836139a14e889f68d01ad08d8412fcb1",
+      "publicado_em": "2026-11-04"
+    }
+  }
+}

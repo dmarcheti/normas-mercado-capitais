@@ -33,6 +33,7 @@ uma raiz chamada `julgados`, só dela (normas lidas do normas.json); com outra r
 
 Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO] [--perimetro CAMINHO]
                                [--acervo-bcb CAMINHO] [--pendentes CAMINHO]
+                               [--versoes CAMINHO]
                                                                    grava os arquivos
      python3 scripts/indice.py ... --verificar                    saída 1 se defasados
 A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
@@ -61,6 +62,9 @@ ACERVO_BCB_PADRAO = os.path.join(REPO, "fontes", "acervo-bcb.json")
 # Atos publicados e ainda não aplicados ao texto (classes B1 e C do atualizar.py): lista de
 # {norma, ato, ato_url, data_dou, data_deteccao, classe}. Vazia, o indice.md não muda.
 PENDENTES_PADRAO = os.path.join(REPO, "fontes", "pendentes.json")
+# Registro das versões dos plugins (scripts/publicar.py): o campo `conferido_em` vira a linha
+# "Fontes conferidas até AAAA-MM-DD" no indice.md de cada plugin. Sem o campo, nada muda.
+VERSOES_PADRAO = os.path.join(REPO, "fontes", "versoes-plugins.json")
 PASTA_SUBINDICES = "indices"
 SEM_GRUPO = "Sem grupo no Estoque Regulatório"
 AVISO = ("Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos "
@@ -855,14 +859,32 @@ def _sobrando(raiz, arquivos, pastas=(PASTA_SUBINDICES,), raiz_md=(),
     return sorted(set(sobra))
 
 
-def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO):
+def ler_conferido(caminho=VERSOES_PADRAO):
+    if not caminho or not os.path.exists(caminho):
+        return None
+    with open(caminho, encoding="utf-8") as f:
+        v = (json.load(f) or {}).get("conferido_em")
+    return v if isinstance(v, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", v) else None
+
+
+def com_conferido(arquivos, data):
+    """Põe "Fontes conferidas até AAAA-MM-DD." depois da linha GERADO do indice.md."""
+    if data and "indice.md" in arquivos:
+        arquivos["indice.md"] = arquivos["indice.md"].replace(
+            GERADO + "\n", GERADO + "\nFontes conferidas até %s.\n" % data, 1)
+    return arquivos
+
+
+def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO, versoes=VERSOES_PADRAO):
     """[(raiz, arquivos, sobrando, descrição)] a verificar ou gravar."""
+    conferido = ler_conferido(versoes)
     raiz = args[0] if args else None
     alvos = []
     normas = None
     if raiz is None or os.path.basename(os.path.normpath(os.path.abspath(raiz))) != "julgados":
         rn = raiz or RAIZ_PADRAO
         arquivos, itens = gerar_indice(rn, acervo, perimetro, acervo_bcb, pendentes)
+        com_conferido(arquivos, conferido)
         alvos.append((rn, arquivos, _sobrando(rn, arquivos), "%d norma(s)" % len(itens)))
         normas = {i["id"]: i for i in itens}
         if raiz is not None:
@@ -873,6 +895,7 @@ def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO):
     for rj in ([raiz] if raiz else raizes_de_julgados()):
         # link relativo dentro do repositório: plugins/julgados-*/julgados/indices -> plugins/normas/normas
         arquivos, n = gerar_indice_julgados(rj, normas)
+        com_conferido(arquivos, conferido)
         alvos.append((rj, arquivos, _sobrando(rj, arquivos, (PASTA_SUBINDICES,), ("indice.md",), ()),
                       "%d julgado(s)" % n))
     return alvos
@@ -881,6 +904,7 @@ def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO):
 def main(argv):
     args, acervo, verificar = [], ACERVO_PADRAO, False
     perimetro, acervo_bcb, pendentes = PERIMETRO_PADRAO, ACERVO_BCB_PADRAO, PENDENTES_PADRAO
+    versoes = VERSOES_PADRAO
     resto = list(argv[1:])
     while resto:
         a = resto.pop(0)
@@ -894,6 +918,8 @@ def main(argv):
             acervo_bcb = resto.pop(0)
         elif a == "--pendentes" and resto:
             pendentes = resto.pop(0)
+        elif a == "--versoes" and resto:
+            versoes = resto.pop(0)
         elif a.startswith("--"):
             print(__doc__)
             return 2
@@ -905,7 +931,7 @@ def main(argv):
     if args and not os.path.isdir(args[0]):
         print("indice: %s não existe" % args[0])
         return 2
-    alvos = _alvos(args, acervo, perimetro, acervo_bcb, pendentes)
+    alvos = _alvos(args, acervo, perimetro, acervo_bcb, pendentes, versoes)
     if verificar:
         rc = 0
         for raiz, arquivos, sobrando, desc in alvos:

@@ -1,0 +1,26 @@
+name: vigia
+
+# Vigia do job diário (Fase 4, C11): sem rede para as fontes e sem LLM. Lê o heartbeat que o
+# job grava em vars.ULTIMA_VERIFICACAO e o registro de versões dos plugins.
+on:
+  schedule:
+    - cron: "30 13 * * *"  # 10h30 em São Paulo, depois do job das 07h
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  vigia:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Heartbeat e versões
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ULTIMA_VERIFICACAO: ${{ vars.ULTIMA_VERIFICACAO }}
+        run: python3 scripts/vigia.py --abrir

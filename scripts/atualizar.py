@@ -41,7 +41,11 @@ Critério (seção 3): 9 condições por item e no conjunto, em <saida>/criterio
 resumo.md (corpo do PR, com o custo de LLM somado dos log.jsonl do stream-json). As quatro saídas
 são apagadas no início e trazem `execucao_id` (timestamp e PID); itens-*.json são
 {"execucao_id", "itens"}. `pr_automatico` fica false enquanto o CI está pendente; a 3b decide por
-`pr_automatico_antes_do_ci` depois do CI verde. Exceção na execução: rc 2.
+`pr_automatico_antes_do_ci` depois do CI verde. Esse campo olha só os itens automáticos (os do
+PR do dia): item do Diogo vai em PR próprio (C15) e só trava o dia se deixou arquivo no worktree
+(reversão incompleta, ou condição que falhou). Classe C: o aviso e o pendente são a parte
+automática (como B1) e entram no PR do dia, em itens-automaticos.json com classe B1 e
+`parte_de: "C"`; o replay fica em itens-diogo.json (PR de item sem arquivos). Exceção na execução: rc 2.
 """
 import argparse
 import difflib
@@ -481,6 +485,8 @@ def aplicar_c(amb, it, r, guarda):
     aplicar_b1(amb, it, r, guarda, classe="C")
     if r["estado"] == "diogo":
         return r
+    # o aviso e o pendente são a parte automática (equivale à B1, entra no PR do dia); o replay vai ao Diogo
+    r["parte_automatica"] = True
     motivo = "LLM indisponível" if amb.sem_llm else "replay manual"
     return para_diogo(r, motivo + " (classe C: o aviso e o pendente já estão aplicados)", O_QUE_SERIA["C"])
 
@@ -1000,7 +1006,7 @@ def aplicar(amb, itens):
             except Exception as e:  # noqa: BLE001 — um item ruim não para os outros
                 para_diogo(r, "erro ao aplicar: %s: %s" % (type(e).__name__, str(e)[:150]))
             r["arquivos"] = guarda.tocados()
-            if r["estado"] == "diogo" and c != "C":
+            if r["estado"] == "diogo" and not r.get("parte_automatica"):  # C com o aviso aplicado fica
                 r["nao_revertidos"] = guarda.desfazer()
                 r["arquivos"], r["norma_alterada"] = [], False
         else:
@@ -1140,9 +1146,11 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
         teto.append("%d normas alteradas (teto %d)" % (normas_alt, TETO_NORMAS))
     atribuidos = set()
     saida_itens = []
+    no_dia = {}  # item fora do PR do dia (Diogo) com arquivo que ficou no worktree
     for r in sorted(itens, key=lambda x: (ORDEM.get(x["classe"], 99), x["id"])):
         meus = [m for m in mudados if m in r["arquivos"]]
         atribuidos |= set(meus)
+        restos = sorted(set(meus) | set(r.get("nao_revertidos") or []))
         fora_esp = [m for m in meus if not (m.startswith("fontes/") and m.endswith(".json"))
                     and not e_indice(m) and not any(m == e or (e.endswith("/") and m.startswith(e))
                                                     for e in r["esperados"])]
@@ -1162,24 +1170,34 @@ def criterio(amb, resultados, mudados, gate_falhas, plugins, adiados=()):
         motivos = [r["motivo"]] if r["estado"] == "diogo" else []
         motivos += varr + ["fora do esperado: %s" % m for m in fora_esp]
         auto = ok_estado and all(v in ("ok", "n/a", "pendente") for v in cond.values())
+        # classe C: o aviso e o pendente entram no PR do dia como parte automática (B1) se passarem nas
+        # condições 2 a 9; o item continua não automático (replay manual, PR de item sem arquivos)
+        parte = bool(r.get("parte_automatica") and meus and not r.get("nao_revertidos")
+                     and all(v in ("ok", "n/a", "pendente") for k, v in cond.items() if k != "1-classes"))
+        if not auto and restos and not parte:
+            no_dia[r["id"]] = restos
         saida_itens.append({"id": r["id"], "chave": r["chave"], "classe": r["classe"], "estado": r["estado"],
-                            "automatico": auto, "condicoes": cond,
+                            "automatico": auto, "parte_automatica": parte, "condicoes": cond,
                             "motivo": "; ".join(m for m in motivos if m) or r["motivo"]})
     sobra = [m for m in mudados if m not in atribuidos and not e_indice(m)
              and not (m.startswith("fontes/") and m.endswith(".json"))]
-    motivos = []
-    n_diogo = sum(1 for x in saida_itens if not x["automatico"])
-    if n_diogo:
-        motivos.append("%d item(ns) precisa(m) do Diogo" % n_diogo)
+    # O PR do dia leva só os itens automáticos; os do Diogo vão em PR próprio (C15) e não o travam,
+    # desde que nenhum arquivo deles tenha ficado no worktree (reversão incompleta deixa os
+    # nao_revertidos). O aviso e o pendente da C são parte automática se passarem nas condições 2 a 9.
+    motivos = ["item do Diogo com arquivo no PR do dia: %s (%s)" % (i, ", ".join(a[:5]))
+               for i, a in sorted(no_dia.items())]
     motivos += ["gate: %s" % g for g in gate_falhas] + ["teto: %s" % t for t in teto]
     motivos += ["plugin acima do limite: %s" % g for g in grandes]
     motivos += ["julgado existente reescrito: %s" % m for m in reescritos]
     motivos += ["arquivo sem item: %s" % m for m in sobra]
     varr_geral = varrer(amb, [m for m in mudados if m not in atribuidos])
     motivos += varr_geral
-    antes_do_ci = not motivos and bool(saida_itens)
+    n_auto = sum(1 for x in saida_itens if x["automatico"] or x["parte_automatica"])
+    antes_do_ci = not motivos and n_auto > 0
     if not saida_itens:
         motivos.append("nenhum item")
+    elif not n_auto:
+        motivos.append("nenhum item automático")
     # a condição 9 (CI) fica pendente aqui: o PR só é automático depois do CI verde (Task 3b)
     conj = {"pr_automatico": False, "pr_automatico_antes_do_ci": antes_do_ci,
             "motivos": motivos + ["CI pendente (condição 9)"], "ci": "pendente",
@@ -1214,7 +1232,8 @@ def resumo_md(crit, resultados, adiados, custo, n_logs):
         md += ["Motivos:", ""] + ["- %s" % m for m in c["motivos"]] + [""]
     md += ["| Item | Classe | Estado | Automático | Motivo |", "|---|---|---|---|---|"]
     for x in crit["itens"]:
-        md.append("| %s | %s | %s | %s | %s |" % (x["id"], x["classe"], x["estado"], "sim" if x["automatico"] else "não",
+        md.append("| %s | %s | %s | %s | %s |" % (x["id"], x["classe"], x["estado"], "sim" if x["automatico"] else
+                                                 "aviso e pendente (replay manual)" if x.get("parte_automatica") else "não",
                                                  (x["motivo"] or "").replace("|", "/")))
     md += ["", "Condições (por item): %s; a 9 (CI) fica pendente até o PR." % ", ".join(CONDICOES), ""]
     if adiados:
@@ -1252,7 +1271,12 @@ def executar(amb, itens):
     auto = [{"id": r["id"], "chave": r["chave"], "classe": r["classe"], "estado": r["estado"],
              "arquivos": [m for m in mudados if m in r["arquivos"]]}
             for r in resultados.values() if r["chave"] in por_chave and por_chave[r["chave"]]["automatico"]]
+    # parte automática da C (aviso e pendente): no PR do dia como B1; o replay segue em itens-diogo
+    auto += [{"id": r["id"], "chave": r["chave"], "classe": "B1", "parte_de": "C", "estado": "automatico",
+              "arquivos": [m for m in mudados if m in r["arquivos"]]}
+             for r in resultados.values() if r["chave"] in por_chave and por_chave[r["chave"]]["parte_automatica"]]
     diogo = [{"id": r["id"], "chave": r["chave"], "classe": r["classe"],
+              "parte_automatica": por_chave[r["chave"]]["parte_automatica"],
               "motivo": por_chave[r["chave"]]["motivo"] or r["motivo"],
               "o_que_seria_feito": r["o_que_seria_feito"], "diff": r["diff"]}
              for r in resultados.values() if r["chave"] in por_chave and not por_chave[r["chave"]]["automatico"]]

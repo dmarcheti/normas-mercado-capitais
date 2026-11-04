@@ -6,6 +6,7 @@
 - **Pipeline das normas:** a gravação (`texto_vigente.py`, `leis.py`, `fontes_onda.py`, saída do `converter.py`) tira caractere de controle, como nos julgados; o glifo volta quando o pypdf o lê no mesmo trecho. `texto_vigente.py --ids` reconverte só os itens escolhidos.
 - **Validador:** reprova caractere de controle em normas, partes, atos alteradores e julgados, com o número de ocorrências.
 - **Testemunhas na frase corrida:** o nome das testemunhas em "Na qualidade de testemunhas, assinaram ..." (decisões do Colegiado sobre termo de compromisso) vira `[dado pessoal retirado]`; 186 julgados reconvertidos da fonte, 382 nomes. Novo `scripts/reconverter.py --ids` (ou `--lista`): reconverte por id pelos conversores existentes, separa os ids por conversor, recusa id desconhecido e confere a preservação dos campos extraídos.
+- **Versões dos plugins:** `normas` 1.1.1 e `julgados-tc-crsfn` 0.5.1 (julgados reconvertidos sem o nome das testemunhas); os outros quatro `julgados-*` seguem em 0.5.0, sem mudança de conteúdo desde a v1.1.0 (conferido por hash).
 
 ## v1.1.0 (2026-11-04)
 

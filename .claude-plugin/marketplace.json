@@ -23,7 +23,7 @@
       "name": "julgados-tc-crsfn",
       "source": "./plugins/julgados-tc-crsfn",
       "description": "Termos de compromisso da CVM (aceitos e rejeitados, com parecer do comitê) e acórdãos do CRSFN em recursos contra decisões da CVM, com data, resultado e dispositivos citados. Material não oficial.",
-      "version": "0.5.0"
+      "version": "0.5.1"
     },
     {
       "name": "julgados-colegiado-2002-2008",
