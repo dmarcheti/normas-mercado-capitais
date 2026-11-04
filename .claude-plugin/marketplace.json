@@ -11,7 +11,7 @@
       "name": "normas",
       "source": "./plugins/normas",
       "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo. Material não oficial.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "name": "julgados-pas",
