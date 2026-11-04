@@ -155,6 +155,12 @@ class ParsersTest(unittest.TestCase):
         self.assertEqual(ji.classificar("PEDIDO DE RECONSIDERAÇÃO – X"), "pedido_reconsideracao")
         self.assertEqual(ji.classificar("PEDIDO DE DISPENSA DE REQUISITOS – X"), "dispensa")
         self.assertEqual(ji.classificar("ASSUNTO QUALQUER"), "outros")
+        # audiência pública sobre o rito sumário é normativo, não recurso de multa
+        self.assertEqual(ji.classificar("PARA AUDIÊNCIA PÚBLICA – ALTERAÇÃO DA INSTRUÇÃO 251/96 QUE "
+                                        "DISPÕE SOBRE O PAS DE RITO SUMÁRIO - PROC. X"),
+                         "normativo_audiencia")
+        self.assertEqual(ji.classificar("RECURSO EM PROCESSO DE RITO SUMÁRIO – X"),
+                         "recurso_multa_taxa_mre_fg")
 
     def test_arquivos_de_listagem(self):
         arqs = ji.arquivos_de_listagem()

@@ -264,8 +264,10 @@ def classificar(titulo):
         if re.search(r"CUMPRIMENTO|ARQUIVAMENTO|PRORROGA", h):
             return "tc_cumprimento"
         return "tc_proposta"
-    if re.search(r"MULTA COMINAT|TAXA DE FISCALIZA|MECANISMO DE RESSARCIMENTO|FUNDO DE GARANTIA|"
-                 r"RITO SUM", u):
+    if re.search(r"MULTA COMINAT|TAXA DE FISCALIZA|MECANISMO DE RESSARCIMENTO|FUNDO DE GARANTIA", u):
+        return "recurso_multa_taxa_mre_fg"
+    # "RITO SUMÁRIO" no título de audiência pública é o assunto da norma, não recurso de multa
+    if re.search(r"RITO SUM", u) and not re.search(r"AUDIÊNCIA PÚBLICA|CONSULTA PÚBLICA|MINUTA", h):
         return "recurso_multa_taxa_mre_fg"
     if re.search(r"RECONSIDERA", h):
         return "pedido_reconsideracao"
