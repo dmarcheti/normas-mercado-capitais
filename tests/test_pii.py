@@ -554,3 +554,26 @@ class Fase3bReauditoria2Test(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+class Fase3bReauditoria3Test(unittest.TestCase):
+    """Re-auditoria da semente 20261106: RG "expedida pelo IFP sob o nº", ponto do OCR no meio
+    do endereço e linha "CPF:" deformada pelo OCR no bloco de assinatura."""
+
+    def test_rg_com_orgao_antes_do_numero(self):
+        t = ("FULANO DE TAL, portador da carteira de identidade expedida pelo IFP\nsob o nº "
+             + "04625996" + "-6, e do CPF/MF")
+        self.assertNotIn("04625996", pii.limpar(t))
+
+    def test_ponto_do_ocr_no_meio_do_logradouro(self):
+        t = ("FULANO DE TAL, brasileiro, domiciliado na Rua\nProfessor Exemplo. Menicucci, "
+             "111, Mangabeiras, Belo Horizonte, MG, BELTRANO DE TAL, brasileiro")
+        r = pii.limpar(t)
+        for fora in ("Menicucci", "111", "Mangabeiras"):
+            self.assertNotIn(fora, r)
+        self.assertIn("BELTRANO DE TAL", r)
+
+    def test_linha_cpf_deformada_pelo_ocr(self):
+        t = "(t.:Jltlh} Ji\nCPF: 11 /0· 11'1. -l)o\n11' OFICIO"
+        self.assertNotIn("11 /0", pii.limpar(t))
+        for t in ("CPF: não informado", "o CPF: documento exigido"):
+            self.assertEqual(pii.limpar(t), t)

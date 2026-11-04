@@ -40,6 +40,9 @@ _CPF_ROT = re.compile(
 _CPF_PURO = re.compile(r"(?<![\w./-])\d{11}(?![\w/])")
 
 
+_CPF_LINHA = re.compile(r"(?m)^[ \t]*CPF\s*:[ \t]*(\S[^\n]{2,40}?)[ \t]*$")
+
+
 def achar_cpfs(texto):
     """Trechos de CPF no texto: formatado, rotulado (com ruído de OCR) ou 11 dígitos válidos."""
     spans = []
@@ -54,6 +57,12 @@ def achar_cpfs(texto):
     for m in _CPF_PURO.finditer(texto):
         if _dv_cpf_ok(m.group(0)):
             spans.append(m.span())
+    # linha "CPF:" do bloco de assinatura lida pelo OCR com ruído ("CPF: 11 /0· 11'1. -l)o"):
+    # o valor sai se tem dígitos e nenhuma palavra
+    for m in _CPF_LINHA.finditer(texto):
+        v = m.group(1)
+        if len(re.findall(r"\d", v)) >= 3 and not re.search(r"[A-Za-zÀ-ÿ]{3,}", v):
+            spans.append(m.span(1))
     return _unir(spans)
 
 
@@ -66,6 +75,8 @@ _RG = re.compile(
     # "TG/SSP/SP n°": RG lido errado pelo OCR, reconhecido pelo órgão emissor
     r"\b[A-Z]G(?=\s*/\s*SSP\b))"
     r"(?:\s+(?:RNE|RG|R\.G\.)(?![\w]))?"
+    # "carteira de identidade expedida pelo IFP sob o nº X"
+    r"(?:\s+(?:expedid[ao]|emitid[ao])\s+pel[ao]\s+[A-Z][A-Z/\-.]{1,14}(?=\s+sob\b|\s*n))?"
     r"(?:\s*/\s*[A-Z]{2,}){0,3}\s*(?:[:\-–]\s*)?(?:(?:sob\s+o\s+)?(?:[nN]\.?\s?[º°oO'’]\.?|n\.|número)\s*)?[:\s]*"
     # o número (com ruído de OCR e órgão emissor) vai até a vírgula, o ponto e vírgula, o " e " ou
     # o "inscrito"/"expedida" seguinte; precisa de 4 dígitos para contar
@@ -163,6 +174,10 @@ def _fim_endereco(texto, ini, maximo=320):
         if p and fim == p.start():
             palavra = re.search(r"([A-Za-zÀ-ÿº]+)$", texto[ini:fim])
             if palavra and (palavra.group(1).lower() in _ABREV or len(palavra.group(1)) == 1):
+                pos = fim + 1
+                continue
+            # ponto solto do OCR no meio do logradouro ("Rua Professor Lourenço. Menicucci, 111")
+            if re.match(r"\.\s+[A-ZÀ-Ý][\wÀ-ÿ]+,\s*\d", texto[fim:fim + 40]):
                 pos = fim + 1
                 continue
         return fim
