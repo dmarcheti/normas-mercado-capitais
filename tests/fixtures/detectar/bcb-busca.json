@@ -1,0 +1,51 @@
+{
+ "TotalRows": 3,
+ "RowCount": 3,
+ "Rows": [
+  {
+   "title": "Resolução CMN N° 5.344",
+   "RefinableString01": "string;#29/10/2026 18:00",
+   "AssuntoNormativoOWSMTXT": "Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022. ",
+   "ResponsavelOWSText": "MF",
+   "listItemId": "53040",
+   "TipodoNormativoOWSCHCS": "Resolução CMN",
+   "NumeroOWSNMBR": "5344.00000000000",
+   "RevogadoOWSBOOL": "0",
+   "HitHighlightedSummary": "Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022 <ddd/> Publicada no DOU de 3/11/2026, Seção 1, p. 38 <ddd/> RESOLUÇÃO CMN Nº 5.344, DE 29 DE OUTUBRO\nDE 2026 <ddd/> 9º da Lei nº 4.595, de <ddd/> ",
+   "CanceladoOWSBOOL": "0",
+   "data": "2026-10-29T21:00:00Z",
+   "RefinableString03": "string;#Resolução CMN",
+   "RowNumber": 0
+  },
+  {
+   "title": "Resolução CMN N° 5.343",
+   "RefinableString01": "string;#24/9/2026 18:01",
+   "AssuntoNormativoOWSMTXT": "Altera a Resolução nº 2.907, de 29 de novembro de 2001, que autoriza a constituição e o funcionamento de fundos de investimento em direitos creditórios e de fundos de investimento em cotas de fundos de investimento em direitos creditórios.",
+   "ResponsavelOWSText": "MF",
+   "listItemId": "53014",
+   "TipodoNormativoOWSCHCS": "Resolução CMN",
+   "NumeroOWSNMBR": "5343.00000000000",
+   "RevogadoOWSBOOL": "0",
+   "HitHighlightedSummary": "Altera a Resolução nº 2.907, de 29 de novembro de 2001, que autoriza a constituição e o funcionamento de fundos de investimento em direitos creditórios e de fundos de investimento <ddd/> ",
+   "CanceladoOWSBOOL": "0",
+   "data": "2026-09-24T21:01:00Z",
+   "RefinableString03": "string;#Resolução CMN",
+   "RowNumber": 1
+  },
+  {
+   "title": "Resolução CMN N° 5.342",
+   "RefinableString01": "string;#14/9/2026 18:02",
+   "AssuntoNormativoOWSMTXT": " Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022.",
+   "ResponsavelOWSText": "MF",
+   "listItemId": "53007",
+   "TipodoNormativoOWSCHCS": "Resolução CMN",
+   "NumeroOWSNMBR": "5342.00000000000",
+   "RevogadoOWSBOOL": "0",
+   "HitHighlightedSummary": "Altera o anexo à Resolução CMN nº 4.995, de 24 de março de 2022 <ddd/> Publicada no DOU de 15/9/2026, Seção 1, p. 31/32 <ddd/> 3º, incisos IV, VI e VII; 4º, incisos VI, VIII e X; e 9º <ddd/> R\nE S O L V <ddd/> ",
+   "CanceladoOWSBOOL": "0",
+   "data": "2026-09-14T21:02:00Z",
+   "RefinableString03": "string;#Resolução CMN",
+   "RowNumber": 2
+  }
+ ]
+}

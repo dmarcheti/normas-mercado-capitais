@@ -1,0 +1,195 @@
+{
+ "lido_em": "2026-10-29",
+ "paginas": [
+  "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+ ],
+ "documentos": [
+  {
+   "url": "https://www.b3.com.br/data/files/5F/A0/92/49/E6F55810F534EB48AC094EA8/CADASTRO%20DE%20PARTICIPANTES.pdf",
+   "arquivo": "CADASTRO DE PARTICIPANTES.pdf",
+   "rotulos": [
+    "MANUAL DE OPERAÇÕES - CADASTRO DE PARTICIPANTES"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Thu, 29 Dec 2022 19:49:21 GMT",
+   "marcas": "n/a",
+   "data_nome": null,
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "manual de sistema, guia ou especificação técnica",
+   "titulo": "MANUAL DE OPERAÇÕES - CADASTRO DE PARTICIPANTES",
+   "chave": "cadastro de participantes"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/AC/A2/AA/A9/34E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20com%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - com marcas.pdf",
+   "rotulos": [
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Com Marca",
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Com Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:38:04 GMT",
+   "marcas": "com",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "titulo": "GLOSSÁRIO DAS NORMAS DO BALCÃO B3",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/2F/A2/FC/A9/34E50A105BF9020AAC094EA8/Glossario%20do%20Balcao%20B3%20-%2031082026%20-%20sem%20marcas.pdf",
+   "arquivo": "Glossario do Balcao B3 - 31082026 - sem marcas.pdf",
+   "rotulos": [
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Sem Marca",
+    "GLOSSÁRIO DAS NORMAS DO BALCÃO B3 - Sem Marcas"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/distribuicao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/garantias-bilaterais.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 01 Sep 2026 18:38:04 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-08-31",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "titulo": "Glossário das Normas do Balcão B3",
+   "chave": "glossario do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/D8/E6/1A/84/4818F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20com%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - com marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DE DIREITO DE ACESSO DO BALCÃO B3 - Com Marca (.PDF, 780KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:52:39 GMT",
+   "marcas": "com",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "titulo": "MANUAL DE NORMAS DE DIREITO DE ACESSO DO BALCÃO B3",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/3B/E6/EB/84/4818F910FC0436F9AC094EA8/Manual%20de%20Normas%20de%20Direito%20de%20Acesso%20-%2020072026%20-%20sem%20marcas.pdf",
+   "arquivo": "Manual de Normas de Direito de Acesso - 20072026 - sem marcas.pdf",
+   "rotulos": [
+    "MANUAL DE NORMAS DE DIREITO DE ACESSO DO BALCÃO B3 - Sem Marca (.PDF, 763KB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 20 Jul 2026 21:52:39 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-07-20",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "titulo": "Manual de Normas de Direito de Acesso do Balcão B3",
+   "chave": "manual de normas de direito de acesso"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/B6/32/F3/C8/355C0A105BF9020AAC094EA8/Regulamento%20do%20Balcao%20B3%20-%2021092026%20-%20com%20marcas.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 21092026 - com marcas.pdf",
+   "rotulos": [
+    "REGULAMENTO DO BALCÃO B3 - Com Marca (.PDF, 2MB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 18:56:24 GMT",
+   "marcas": "com",
+   "data_nome": "2026-09-21",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "titulo": "REGULAMENTO DO BALCÃO B3",
+   "chave": "regulamento do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/39/32/8B/D8/355C0A105BF9020AAC094EA8/Regulamento%20do%20Balcao%20B3%20-%2021092026%20-%20sem%20marcas.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 21092026 - sem marcas.pdf",
+   "rotulos": [
+    "REGULAMENTO DO BALCÃO B3 - Sem Marca (.PDF, 2MB)"
+   ],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Mon, 21 Sep 2026 18:56:24 GMT",
+   "marcas": "sem",
+   "data_nome": "2026-09-21",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": true,
+   "motivo": "regulamento, manual de normas ou procedimento",
+   "titulo": "Regulamento do Balcão B3",
+   "chave": "regulamento do balcao b3"
+  },
+  {
+   "url": "https://www.b3.com.br/data/files/FF/83/D6/2B/03A1F910ADC36BE9AC094EA8/Regulamento%20do%20Balcao%20B3%20-%2030062026%20-%20com%20marca.pdf",
+   "arquivo": "Regulamento do Balcao B3 - 30062026 - com marca.pdf",
+   "rotulos": [],
+   "paginas": [
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/acesso.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/central-depositaria.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/negociacao.htm",
+    "https://www.b3.com.br/pt_br/regulacao/estrutura-normativa/regulamentos-e-manuais/registro-e-liquidacao.htm"
+   ],
+   "http": 200,
+   "bytes": 0,
+   "last_modified": "Tue, 30 Jun 2026 20:20:27 GMT",
+   "marcas": "com",
+   "data_nome": "2026-06-30",
+   "formato": "pdf",
+   "categoria": "acesso",
+   "entra": false,
+   "motivo": "versão com marcas (há a sem marcas)",
+   "titulo": "",
+   "chave": "regulamento do balcao b3"
+  }
+ ]
+}

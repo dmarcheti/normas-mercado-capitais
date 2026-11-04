@@ -136,7 +136,8 @@
    "bytes_html": 1250,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_2993_v1_O.pdf;15#;"
+   "documentos": "C_Circ_2993_v1_O.pdf;15#;",
+   "atualizacoes": []
   },
   {
    "tipo": "carta-circular",
@@ -153,7 +154,11 @@
    "bytes_html": 49926,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_3023_v1_O.pdf;88#;C_Circ_3023_v2_L.pdf;88#;C_Circ_3023_v2_P.pdf;89#;C_Circ_3023_v3_L.pdf;72#;C_Circ_3023_v3_P.pdf;205#;"
+   "documentos": "C_Circ_3023_v1_O.pdf;88#;C_Circ_3023_v2_L.pdf;88#;C_Circ_3023_v2_P.pdf;89#;C_Circ_3023_v3_L.pdf;72#;C_Circ_3023_v3_P.pdf;205#;",
+   "atualizacoes": [
+    "Carta Circular BCB nº 3.033/2002 - Alteração item 48.",
+    "Instrução Normativa BCB nº 276/2022 - Alteração, a partir de 1º/7/2022 - Revogação: itens 1 a 44 e 48 a 55."
+   ]
   },
   {
    "tipo": "carta-circular",
@@ -170,7 +175,10 @@
    "bytes_html": 13594,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_3073_v1_O.pdf;28#;C_Circ_3073_v2_L.pdf;30#;C_Circ_3073_v2_P.pdf;49#;"
+   "documentos": "C_Circ_3073_v1_O.pdf;28#;C_Circ_3073_v2_L.pdf;30#;C_Circ_3073_v2_P.pdf;49#;",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 276/2022 - Alteração, a partir de 1º/7/2022 - Revogação: itens 1 a 7 e 10 a 13.."
+   ]
   },
   {
    "tipo": "carta-circular",
@@ -459,7 +467,11 @@
    "bytes_html": 13845,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_3360_v1_O.pdf;30#;C_Circ_3360_v2_L.pdf;74#;C_Circ_3360_v2_P.pdf;75#;C_Circ_3360_v3_L.pdf;33#;C_Circ_3360_v3_P.pdf;50#;"
+   "documentos": "C_Circ_3360_v1_O.pdf;30#;C_Circ_3360_v2_L.pdf;74#;C_Circ_3360_v2_P.pdf;75#;C_Circ_3360_v3_L.pdf;33#;C_Circ_3360_v3_P.pdf;50#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.630/2013 - Revogação: item 16.",
+    "Instrução Normativa BCB nº 276/2022 - Alteração, a partir de 1º/7/2022 - Revogação: itens 1 a 8 e 12 a 15."
+   ]
   },
   {
    "tipo": "carta-circular",
@@ -629,7 +641,8 @@
    "bytes_html": 2833,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_3577_v1_O.pdf;78#;"
+   "documentos": "C_Circ_3577_v1_O.pdf;78#;",
+   "atualizacoes": []
   },
   {
    "tipo": "carta-circular",
@@ -731,7 +744,8 @@
    "bytes_html": 967,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "C_Circ_3619_v1_O.pdf;20#;"
+   "documentos": "C_Circ_3619_v1_O.pdf;20#;",
+   "atualizacoes": []
   },
   {
    "tipo": "carta-circular",
@@ -1326,7 +1340,8 @@
    "bytes_html": 347,
    "tachado": 0,
    "tabelas": 1,
-   "documentos": "C_Circ_3934_v1_O.pdf;719#;"
+   "documentos": "C_Circ_3934_v1_O.pdf;719#;",
+   "atualizacoes": []
   },
   {
    "tipo": "carta-circular",
@@ -1955,7 +1970,8 @@
    "bytes_html": 4427,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_1452_v1_O.pdf;22#;"
+   "documentos": "Circ_1452_v1_O.pdf;22#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -1972,7 +1988,11 @@
    "bytes_html": 4039,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_1832_v1_O.pdf;20#;Circ_1832_v2_L.pdf;20#;Circ_1832_v2_P.pdf;21#;Circ_1832_v3_L.pdf;18#;Circ_1832_v3_P.pdf;23#;"
+   "documentos": "Circ_1832_v1_O.pdf;20#;Circ_1832_v2_L.pdf;20#;Circ_1832_v2_P.pdf;21#;Circ_1832_v3_L.pdf;18#;Circ_1832_v3_P.pdf;23#;",
+   "atualizacoes": [
+    "Resolução CMN nº 2.830/2001 - Revogação: art. 3º.",
+    "Circular BCB nº 3.719/2014 - Revogação: art. 1º, §§ 1º e 2º."
+   ]
   },
   {
    "tipo": "circular",
@@ -2057,7 +2077,11 @@
    "bytes_html": 2242,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_1967_v1_O.pdf;16#;Circ_1967_v2_L.pdf;16#;Circ_1967_v2_P.pdf;17#;Circ_1967_v3_L.pdf;16#;Circ_1967_v3_P.pdf;18#;"
+   "documentos": "Circ_1967_v1_O.pdf;16#;Circ_1967_v2_L.pdf;16#;Circ_1967_v2_P.pdf;17#;Circ_1967_v3_L.pdf;16#;Circ_1967_v3_P.pdf;18#;",
+   "atualizacoes": [
+    "Circular BCB nº 2.203/1992 - Revogação art. 2º, inciso I.",
+    "Resolução CMN nº 2.099/1994 - Revogação art. 2º, a partir de 31/12/1994."
+   ]
   },
   {
    "tipo": "circular",
@@ -2329,7 +2353,16 @@
    "bytes_html": 18987,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3082_v1_O.pdf;46#;Circ_3082_v2_L.pdf;47#;Circ_3082_v2_P.pdf;47#;Circ_3082_v3_L.pdf;48#;Circ_3082_v3_P.pdf;49#;Circ_3082_v4_L.pdf;49#;Circ_3082_v4_P.pdf;53#;Circ_3082_v5_L.pdf;50#;Circ_3082_v5_P.pdf;55#;Circ_3082_v6_L.pdf;47#;Circ_3082_v6_P.pdf;71#;Circ_3082_v7_L.pdf;49#;Circ_3082_v7_P.pdf;75#;"
+   "documentos": "Circ_3082_v1_O.pdf;46#;Circ_3082_v2_L.pdf;47#;Circ_3082_v2_P.pdf;47#;Circ_3082_v3_L.pdf;48#;Circ_3082_v3_P.pdf;49#;Circ_3082_v4_L.pdf;49#;Circ_3082_v4_P.pdf;53#;Circ_3082_v5_L.pdf;50#;Circ_3082_v5_P.pdf;55#;Circ_3082_v6_L.pdf;47#;Circ_3082_v6_P.pdf;71#;Circ_3082_v7_L.pdf;49#;Circ_3082_v7_P.pdf;75#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.123/2002 - Alteração: art. 13.",
+    "Circular BCB nº 3.129/2002 - Alteração: art. 3º, § 4º.",
+    "Circular BCB nº 3.150/2002 - Alteração: art. 2º, caput. Renumeração do parágrafo único do art. 2º para § 1º. Inclusão art. 2º, § 2º.",
+    "Resolução CMN nº 4.950/2021 - Alteração, a partir de 1º/1/2022 - Revogação: art. 5º, caput, inciso V.",
+    "Resolução CMN nº 5.100/2023 - Alteração, a partir de 1º/1/2025 - Revogação: art. 1º, incisos II, IV e V; e arts. 2º, 6º, 7º, 8º, 9º, 10, 11 e 12.",
+    "Resolução CMN nº 4.966/2021 - Alteração, a partir de 1º/1/2025 - Revogação: art. 1º, §§ 2º, 3º, 4º e 5º; e art. 3º, § 4º.",
+    "Resolução CMN nº 4.966/2021 - Revogação total, a partir de 1º/1/2027."
+   ]
   },
   {
    "tipo": "circular",
@@ -2346,7 +2379,10 @@
    "bytes_html": 13008,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3106_v1_O.pdf;30#;Circ_3106_v2_L.pdf;29#;Circ_3106_v2_P.pdf;32#;"
+   "documentos": "Circ_3106_v1_O.pdf;30#;Circ_3106_v2_L.pdf;29#;Circ_3106_v2_P.pdf;32#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.360/2007 - Revogação, a partir de 1º/7/2008: art. 3º §§  2º e 3º."
+   ]
   },
   {
    "tipo": "circular",
@@ -2533,7 +2569,10 @@
    "bytes_html": 4380,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3282_v1_O.pdf;19#;Circ_3282_v2_L.pdf;27#;Circ_3282_v2_P.pdf;30#;"
+   "documentos": "Circ_3282_v1_O.pdf;19#;Circ_3282_v2_L.pdf;27#;Circ_3282_v2_P.pdf;30#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.709/2014 - Alteração, a partir de 2/3/2015: art. 1º, § 2º; art. 2º, incisos I e II; art. 2º, § 2º. Inclusão, a partir de 2/3/2015: art. 1º, §§ 3º e 4º; art. 2º, §§ 4º e 5º; art. 2º-A. Revogação, a partir de 2/3/2015, art. 2º, § 1º."
+   ]
   },
   {
    "tipo": "circular",
@@ -2567,7 +2606,8 @@
    "bytes_html": 2027,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3312_v1_O.pdf;15#;"
+   "documentos": "Circ_3312_v1_O.pdf;15#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -2669,7 +2709,8 @@
    "bytes_html": 1599,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3453_v1_O.pdf;14#;"
+   "documentos": "Circ_3453_v1_O.pdf;14#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -2822,7 +2863,8 @@
    "bytes_html": 2403,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3553_v1_O.pdf;23#;"
+   "documentos": "Circ_3553_v1_O.pdf;23#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -2924,7 +2966,13 @@
    "bytes_html": 6277,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3614_v1_O.pdf;67#;Circ_3614_v2_L.pdf;73#;Circ_3614_v2_P.pdf;77#;Circ_3614_v3_L.pdf;101#;Circ_3614_v3_P.pdf;106#;Circ_3614_v4_L.pdf;141#;Circ_3614_v4_P.pdf;147#;Circ_3614_v5_L.pdf;92#;Circ_3614_v5_P.pdf;99#;"
+   "documentos": "Circ_3614_v1_O.pdf;67#;Circ_3614_v2_L.pdf;73#;Circ_3614_v2_P.pdf;77#;Circ_3614_v3_L.pdf;101#;Circ_3614_v3_P.pdf;106#;Circ_3614_v4_L.pdf;141#;Circ_3614_v4_P.pdf;147#;Circ_3614_v5_L.pdf;92#;Circ_3614_v5_P.pdf;99#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.621/2012 - Nova redação: art. 4º, caput, I, § 4º; arts. 5º a 7º, caput. Inclusão: art. 4º, § 5º; art. 6º, I e II.",
+    "Circular BCB nº 3.758/2015 - Revogação: art. 1º; art. 2º, I, II e parágrafo único.",
+    "Circular BCB nº 4.000/2020 - Nova redação: art. 8º.",
+    "Resolução BCB nº 471/2025 - Alteração a partir de 1º/7/2025 - Nova redação: art. 8º."
+   ]
   },
   {
    "tipo": "circular",
@@ -3196,7 +3244,8 @@
    "bytes_html": 2693,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3684_v1_O.pdf;29#;"
+   "documentos": "Circ_3684_v1_O.pdf;29#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -3213,7 +3262,8 @@
    "bytes_html": 2533,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3685_v1_O.pdf;19#;"
+   "documentos": "Circ_3685_v1_O.pdf;19#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -3315,7 +3365,8 @@
    "bytes_html": 1862,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3736_v1_O.pdf;16#;"
+   "documentos": "Circ_3736_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -3621,7 +3672,8 @@
    "bytes_html": 3497,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3866_v1_O.pdf;31#;"
+   "documentos": "Circ_3866_v1_O.pdf;31#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -3774,7 +3826,8 @@
    "bytes_html": 438,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_3902_v1_O.pdf;637#;"
+   "documentos": "Circ_3902_v1_O.pdf;637#;",
+   "atualizacoes": []
   },
   {
    "tipo": "circular",
@@ -3791,7 +3844,10 @@
    "bytes_html": 8037,
    "tachado": 0,
    "tabelas": 1,
-   "documentos": "Circ_3903_v1_O.pdf;375#;Circ_3903_v2_L.pdf;371#;Circ_3903_v2_P.pdf;377#;"
+   "documentos": "Circ_3903_v1_O.pdf;375#;Circ_3903_v2_L.pdf;371#;Circ_3903_v2_P.pdf;377#;",
+   "atualizacoes": [
+    "Circular BCB nº 3.959/2019 - Alteração, a partir de 1º/1/2020 - Revogação: art. 4º, incisos II e III; art. 5º."
+   ]
   },
   {
    "tipo": "circular",
@@ -4420,7 +4476,10 @@
    "bytes_html": 8270,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Circ_4036_v1_O.pdf;233#;Circ_4036_v2_L.pdf;95#;Circ_4036_v2_P.pdf;98#;"
+   "documentos": "Circ_4036_v1_O.pdf;233#;Circ_4036_v2_L.pdf;95#;Circ_4036_v2_P.pdf;98#;",
+   "atualizacoes": [
+    "Resolução BCB nº 217/2022 - Alteração, a partir de 1º/5/2022 - Revogação: art. 8º."
+   ]
   },
   {
    "tipo": "circular",
@@ -4692,7 +4751,13 @@
    "bytes_html": 49178,
    "tachado": 58,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 70/2021 - Nova redação: arts. 3º, inciso III, \"a\", \"b\" e \"c\"; 4º, inciso II; 5º, inciso III; 6º, inciso II; 8º; 9º; 10; e 11. Inclusão: arts. 3º, inciso III, \"d\"; 8º, parágrafo único; 9º, parágrafo único; 10, parágrafo único; e 11, parágrafo único.",
+    "Instrução Normativa BCB nº 75/2021 - Nova redação: art. 8º, caput; art. 9º, caput; e art. 11, caput. Inclusão: art. 11-A.",
+    "Instrução Normativa BCB nº 78/2021 - Revogação: arts. 7º, 8º, 9º, 10, 11 e 11-A.",
+    "Instrução Normativa BCB nº 121/2021 - Nova redação: art. 12."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -4913,7 +4978,8 @@
    "bytes_html": 16753,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -5032,7 +5098,11 @@
    "bytes_html": 29486,
    "tachado": 15,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 152/2021 - Alteração, a partir de 1º/10/2021 - Nova redação: Anexo.",
+    "Instrução Normativa BCB nº 527/2024 - Alteração, a partir de 1º/10/2024 - Nova redação: art. 1º, inciso I, \"a\", 1, 2, 3 e 4, e \"b\", 1, e inciso II, \"a\", 1, 2 e 3; art. 2º, parágrafo único; e Anexo. Inclusão: art. 1º, parágrafo único."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -5508,7 +5578,10 @@
    "bytes_html": 39921,
    "tachado": 1,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 186/2021 - Nova redação: art. 5º."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -5661,7 +5734,8 @@
    "bytes_html": 55637,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -5916,7 +5990,11 @@
    "bytes_html": 24295,
    "tachado": 2,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 423/2023 - Alteração a partir de 1º/12/2023 - Nova redação: art. 2º, inciso I. Inclusão: art. 2º, §§ 1º e 2º.",
+    "Instrução Normativa BCB nº 423/2023 - Alteração a partir de 1º/6/2024 - Nova redação: art. 2º, inciso II. Inclusão: art. 2º, inciso III."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -7361,7 +7439,8 @@
    "bytes_html": 19392,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -7854,7 +7933,10 @@
    "bytes_html": 23384,
    "tachado": 1,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 416/2023 - Nova redação: art. 9º."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -8823,7 +8905,8 @@
    "bytes_html": 130146,
    "tachado": 0,
    "tabelas": 1,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -9129,7 +9212,11 @@
    "bytes_html": 219136,
    "tachado": 24,
    "tabelas": 4,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 683/2025 - Alteração, produzindo efeitos a partir de 1º/12/2025 - Nova redação: art. 15, incisos III, IV, V e VI e § 2º, incisos I, II, III e IV, \"a\" e \"b\"; e Anexo II. Inclusão: art. 15, inciso III, \"a\" e \"b\", e § 2º, incisos I, \"a\", e V. Produzindo efeitos a partir de 2/3/2026 - Inclusão: art. 15, § 2º, inciso I, \"b\".",
+    "Instrução Normativa BCB nº 711/2026 - Alteração, produzindo efeitos a partir de 27/3/2026 - Nova redação: art. 16, inciso IV. Inclusão: art. 20-A. Revogação: arts. 12, 13 e 20."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -9282,7 +9369,10 @@
    "bytes_html": 16259,
    "tachado": 1,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 552/2024 - Nova redação: art. 5º, § 1º."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -10268,7 +10358,8 @@
    "bytes_html": 27551,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -10302,7 +10393,8 @@
    "bytes_html": 69062,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -10438,7 +10530,8 @@
    "bytes_html": 22186,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -10523,7 +10616,8 @@
    "bytes_html": 16250,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -11628,7 +11722,8 @@
    "bytes_html": 13838,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -11849,7 +11944,10 @@
    "bytes_html": 164863,
    "tachado": 5,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Instrução Normativa BCB nº 739/2026 - Nova redação: art. 24. Inclusão: art. 5º, inciso XV; art. 10, inciso X; e Anexo IV."
+   ]
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -12971,7 +13069,8 @@
    "bytes_html": 25699,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "instrucao-normativa-bcb",
@@ -13549,7 +13648,10 @@
    "bytes_html": 8262,
    "tachado": 2,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 414/2024 - Alteração, a partir de 1º/10/2024 - Nova redação: art. 1º, parágrafo único, incisos I e II, \"a\"."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -13753,7 +13855,8 @@
    "bytes_html": 9277,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -13804,7 +13907,11 @@
    "bytes_html": 254327,
    "tachado": 64,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 129/2021 - Alteração no Regulamento anexo - Nova redação: arts. 2º, caput; 29, incisos XVIII e XIX; e 52, inciso I. Inclusão: arts. 2º, incisos I e II; 29, inciso XX e § 3º; e 52, inciso I, \"a\" e \"b\".",
+    "Resolução BCB nº 409/2024 - Alteração no Regulamento anexo - Nova redação: arts. 4º, incisos I, II e III; 6º, incisos VIII e XVI; 7º, incisos II e III e § 1º, inciso II; 14, § 1º; 15; 1º; 20, caput e § 1º; 22, parágrafo único, incisos I e II; 23, § 2º; 25, § 2º; 50, incisos II e III; 52, incisos II e III, \"b\"; 57, inciso I e parágrafo único, incisos I, II e III; 69, parágrafo único; 70, § 2º; 80, incisos I, II e III; 81, parágrafo único, inciso I; 115, § 3º, incisos I e II; 116, § 3º; 117, §§ 2º e 3º; 119, parágrafo único; 122, § 1º; 123, § 1º. Inclusão: arts. 6º, incisos XVII-XXI; 7º, inciso IV; 12; 14, § 2º; 15, § 2º; 20, § 3º; 23, §3º; 50, incisos IV e V; 67, § 3º; 69, parágrafo único, incisos I, II e III; 115, § 3º, inciso III; 116, § 4º; 117, § 5º; 118, § 3º; 120, § 6º; 123, § 2º. Revogação: arts. 4º, inciso IV; 22, parágrafo único, inciso III; 40; 52, inciso IV; 57, inciso I, \"a\" e \"b\", e parágrafo único, inciso IV; 80, inciso IV; 83; 132 e 133."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -14399,7 +14506,14 @@
    "bytes_html": 207948,
    "tachado": 144,
    "tabelas": 5,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 377/2024 - Alteração a partir de 1º/6/2024 - Nova redação: ementa; art. 1º, incisos I, \"b\", e II; art. 4º, § 3º; art. 6º, parágrafo único; art. 9º, §§ 1º e 6º; art. 11; art. 12, § 2º; e art. 13, caput e parágrafo único. Inclusão: art. 1º, inciso III; art. 9º, § 7º; e Capítulo III-A. Revogação: art. 11, parágrafo único.",
+    "Resolução BCB nº 441/2024 - Nova redação: art. 9º, inciso II, \"b\"; e Tabela I do anexo.",
+    "Resolução BCB nº 377/2024 - Alteração a partir de 1º/1/2025 - Nova redação: art. 2º, incisos V e VI e parágrafo único; art. 3º, incisos VII e VIII e parágrafo único; e Tabela III do anexo. Inclusão: art. 2º, incisos VII a XI; e art. 3º, incisos IX a XV.",
+    "Resolução BCB nº 572/2026 - Nova redação: ementa; art. 1º, incisos II e III; denominação do Capítulo II; art. 7º; art. 8º, inciso III; art. 9º, incisos I e III; art. 13-A, caput; e art. 14. Inclusão: art. 1º, inciso IV; arts. 4º-A e 4º-B; e art. 13-A, incisos I e II e §§ 1º a 7º.",
+    "Resolução BCB nº 572/2026 - Alteração a partir de 1º/11/2026 - Nova redação: Tabela II do anexo."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -14620,7 +14734,8 @@
    "bytes_html": 57439,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -14960,7 +15075,10 @@
    "bytes_html": 75516,
    "tachado": 2,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 192/2022 - Nova redação: art. 6º, § 6º."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -15283,7 +15401,12 @@
    "bytes_html": 68361,
    "tachado": 27,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 367/2024 - Alteração, a partir de 1º/3/2024 - Nova redação: ementa; art. 1º, inciso I; denominação Título II; art. 2º, inciso I; art. 5º, caput; art. 8º, caput; art. 10; art. 11, caput; art. 12, caput; art. 13, caput; e art. 14, caput. Inclusão: art. 1º, inciso I, \"a\" a \"d\".",
+    "Resolução BCB nº 553/2026 - Nova redação: ementa; art. 1º, inciso I; e denominação Título II. Revogação: art. 1º, inciso I, \"a\" a \"e\".",
+    "Resolução BCB nº 483/2025 - Alteração, a partir de 1º/7/2026 - Inclusão: Capítulo II-A e arts. 14-A e 14-B."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -15691,7 +15814,8 @@
    "bytes_html": 11985,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -16031,7 +16155,8 @@
    "bytes_html": 18078,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -16116,7 +16241,8 @@
    "bytes_html": 37910,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -16643,7 +16769,16 @@
    "bytes_html": 147203,
    "tachado": 48,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 321/2023 - Nova redação: art. 27, inciso I, \"d\" e \"h\", e inciso II, \"c\". Inclusão: art. 27, inciso III.",
+    "Resolução BCB nº 349/2023 - Nova redação: art. 7º, caput; art. 15, incisos XII e XIII; art. 26, caput e incisos I e II; e art. 27, inciso II, \"b\" e \"c\". Inclusão: art. 7º, §§ 1º e 2º; art. 15, inciso XIV; art. 26, inciso III; e art. 27, inciso II, \"d\". Revogação: art. 7º, parágrafo único.",
+    "Resolução BCB nº 373/2024 - Alteração a partir de 2/5/2024 - Inclusão: art. 18, § 6º-A; e art. 23, §§ 7º, 8º e 9º.",
+    "Resolução BCB nº 456/2025 - Nova redação: art. 18, §§ 8º, 9º e 10; art. 19, inciso I e § 1º; art. 23, §§ 6º, 7º, 8º e 9º. Inclusão: art. 18, § 9º, incisos I e II.",
+    "Resolução BCB nº 514/2025 - Alteração, a partir de 5/1/2026 - Nova redação: art. 17, inciso VI e § 1º; e art. 23, § 9º.",
+    "Resolução BCB nº 514/2025 - Alteração, a partir de 11/5/2026 - Nova redação: art. 11, § 3º; e art. 15, incisos XI, XIII e XIV. Inclusão:  art. 15, inciso XV.",
+    "Resolução BCB nº 562/2026 - Alteração a partir de 11/5/2026 - Nova redação: art. 7º, caput e §§ 1º e 2º. Inclusão: art. 7º, incisos I e II, § 2º, incisos I e II, e §§ 3º e 4º."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -16830,7 +16965,15 @@
    "bytes_html": 147080,
    "tachado": 79,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 348/2023 - Nova redação: art. 46, inciso I.",
+    "Resolução BCB nº 348/2023 - Alteração a partir de 1º/11/2023 - Nova redação: art. 2º, incisos I, \"g\", IV a XVI; art. 17, inciso II; art. 21, caput e incisos I e II; art. 27, incisos I e II; art. 28, caput e inciso II; art. 29, inciso IV; art. 30, caput e parágrafo único; art. 31, caput e inciso IV; nova denominação da Seção III do Capítulo III; art. 32, caput e inciso I; art. 33, caput; art. 34, inciso III e §§ 1º e 2º; art. 35, caput; art. 42. Inclusão: art. 2º, incisos XVII e XVIII; art. 25-A; art. 31, inciso VIII e parágrafo único; art. 41, §§ 1º e 2º. Revogação: art. 41, parágrafo único.",
+    "Resolução BCB nº 410/2024 - Alteração a partir de 1º/10/2024 - Nova redação: art. 2º, inciso XVII, e art. 36, incisos I e VI. Inclusão: art. 2º, incisos XIX, XX, XXI e XXII, e art. 18, § 2º. Revogação: art. 2º, incisos XIII, XIV e XVIII, e art. 36, incisos III, V, VII e VIII.",
+    "Resolução BCB nº 492/2025 - Alteração a partir de 1º/10/2025 - Nova redação: arts. 2º, inciso I, \"f\" e \"g\", 23, inciso I, e 25-A. Inclusão: art. 2º, inciso I, \"h\", e parágrafo único.",
+    "Resolução BCB nº 521/2025 - Alteração a partir de 4/5/2026 - Nova redação: art. 30, parágrafo único; e art. 31, incisos VII e VIII. Inclusão: art. 1º, parágrafo único; art. 3º, §§ 1º e 2º; art. 16, §§ 1º e 2º; art. 30, parágrafo único, incisos I e II; e art. 31, inciso IX.",
+    "Resolução BCB nº 575/2026 - Alteração a partir de 1º/10/2026 - Nova redação: art. 7º; art. 18, incisos II e III; art. 23, caput; art. 28, incisos I e II; art. 29, caput; e art. 31, incisos VIII e IX. Inclusão: art. 3º-A e art. 31, inciso X."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -16864,7 +17007,8 @@
    "bytes_html": 9104,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -17170,7 +17314,10 @@
    "bytes_html": 556541,
    "tachado": 1,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 469/2025 - Alteração do anexo - Nova redação: art. 140, caput."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -17238,7 +17385,11 @@
    "bytes_html": 107583,
    "tachado": 12,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 371/2024 - Alteração, a partir de 1º/4/2024 - Nova redação: arts. 12, § 5º, e 17, § 1º. Inclusão: arts. 12, §§ 6º e 7º, e 14, §§ 5º e 6º.",
+    "Resolução BCB nº 456/2025 - Nova redação: art. 12, caput e § 7º; art. 14, §§ 4º, 5º e 6º; art. 15, inciso II e § 2º. Inclusão: art. 14, §§ 7º, 8º e 9º; art. 15, §§ 2º, incisos I e II, 3º, 4º e 5º."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -17629,7 +17780,8 @@
    "bytes_html": 30710,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -17714,7 +17866,13 @@
    "bytes_html": 197132,
    "tachado": 32,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução BCB nº 372/2024 - Alteração a partir de 1º/4/2024 - Nova redação: art. 30, § 7º; art. 35, caput; e art. 36. Inclusão: art. 30, § 7º-A; art. 33, §§ 3º, 4º e 5º.",
+    "Resolução BCB nº 456/2025 - Nova redação: art. 30, §§ 9º e 10; art. 33, §§ 3º, 4º e 5º; art. 34, § 3º. Inclusão: art. 30, § 10, incisos I e II; art. 33, §§ 6º, 7º e 8º.",
+    "Resolução BCB nº 459/2025 - Nova redação: art. 35, § 1º, incisos I e II, \"a\" e \"b\"; e art. 39, incisos I, II, III e IV. Inclusão: art. 35, § 1º, inciso II, \"c\", \"d\" e \"e\". Revogação: art. 35, § 1º, incisos III, IV e V.",
+    "Resolução BCB nº 540/2025 - Alteração, a partir de 5/1/2026 - Nova redação: art. 2º, inciso VI; e art. 6º, incisos V e VI. Inclusão: art. 2º, inciso III-A; art. 6º, inciso VII e § 3º ; Capítulo III, Seção III; e art. 12-A."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -17918,7 +18076,14 @@
    "bytes_html": 362699,
    "tachado": 19,
    "tabelas": 2,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 397/2024 - Alteração, a partir de 1º/8/2024 - Nova redação: art. 3º, caput; art. 12, § 1º, inciso I; art. 51, § 4º; art. 67, § 6º, inciso I; art. 78, inciso V; art. 80, caput; art. 82, § 2º, inciso II; e art. 100, caput. Inclusão: art. 78, §§ 5º e 6º; art. 80, incisos I e II; Capítulo III, Seção III; e arts. 81-A, 97-A e 97-B.",
+    "Resolução BCB nº 483/2025 - Alteração, a partir de 1º/7/2025 - Nova redação: art. 1º, § 4º, inciso IV, “b”.",
+    "Resolução BCB nº 504/2025 - Alteração, a partir de 1º/10/2025 - Nova redação: art. 49, § 2º. Inclusão: art. 3º, § 6º; e art. 49, § 2º, incisos I e II.",
+    "Resolução BCB nº 553/2026 - Nova redação: ementa; art. 1º, inciso I; denominação Título II; e art. 50, incisos II, \"c\", e III. Inclusão: art. 50, inciso IV.",
+    "Resolução BCB nº 571/2026 - Nova redação: art. 81, inciso I, \"a\" e \"b\". Inclusão: art. 81, inciso I, \"c\"."
+   ]
   },
   {
    "tipo": "resolucao-bcb",
@@ -18020,7 +18185,8 @@
    "bytes_html": 11568,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -18190,7 +18356,8 @@
    "bytes_html": 4243,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -18513,7 +18680,8 @@
    "bytes_html": 35438,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -18836,7 +19004,8 @@
    "bytes_html": 12433,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -19839,7 +20008,8 @@
    "bytes_html": 27963,
    "tachado": 0,
    "tabelas": 1,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -20638,7 +20808,8 @@
    "bytes_html": 67126,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -20740,7 +20911,8 @@
    "bytes_html": 58759,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -20791,7 +20963,8 @@
    "bytes_html": 45237,
    "tachado": 0,
    "tabelas": 3,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-bcb",
@@ -22083,7 +22256,10 @@
    "bytes_html": 2767,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_0102_v1_O.pdf;1073#;Res_0102_v2_L.pdf;1073#;"
+   "documentos": "Res_0102_v1_O.pdf;1073#;Res_0102_v2_L.pdf;1073#;",
+   "atualizacoes": [
+    "Resolução CMN nº 128/1969 - Vigência suspensa temporariamente do item III."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -22304,7 +22480,10 @@
    "bytes_html": 4464,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1502_v1_O.pdf;20#;Res_1502_v2_L.pdf;20#;Res_1502_v2_P.pdf;21#;"
+   "documentos": "Res_1502_v1_O.pdf;20#;Res_1502_v2_L.pdf;20#;Res_1502_v2_P.pdf;21#;",
+   "atualizacoes": [
+    "Resolução CMN nº 2.099/1994 - Revogação item VII, a partir de 31/12/1994."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -22338,7 +22517,8 @@
    "bytes_html": 1520,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1581_v1_O.pdf;15#;"
+   "documentos": "Res_1581_v1_O.pdf;15#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -22355,7 +22535,11 @@
    "bytes_html": 18572,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1660_v1_O.pdf;38#;Res_1660_v3_P.pdf;55#;Res_1660_v3_L.pdf;52#;Res_1660_v2_P.pdf;45#;Res_1660_v2_L.pdf;44#;"
+   "documentos": "Res_1660_v1_O.pdf;38#;Res_1660_v3_P.pdf;55#;Res_1660_v3_L.pdf;52#;Res_1660_v2_P.pdf;45#;Res_1660_v2_L.pdf;44#;",
+   "atualizacoes": [
+    "Resolução CMN nº 2.487/1998 - Alteração no Regulamento Anexo: art. 17, §1º; art. 18.",
+    "Resolução CMN nº 4.129/2012 - Alteração no Regulamento Anexo: art. 10, §1º; arts. 17 e 20."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -22406,7 +22590,14 @@
    "bytes_html": 8015,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1775_v1_O.pdf;25#;Res_1775_v2_L.pdf;25#;Res_1775_v2_P.pdf;26#;Res_1775_v3_L.pdf;25#;Res_1775_v3_P.pdf;27#;Res_1775_v4_L.pdf;25#;Res_1775_v4_P.pdf;28#;Res_1775_v5_L.pdf;27#;Res_1775_v5_P.pdf;31#;Res_1775_v6_L.pdf;31#;Res_1775_v6_P.pdf;38#;"
+   "documentos": "Res_1775_v1_O.pdf;25#;Res_1775_v2_L.pdf;25#;Res_1775_v2_P.pdf;26#;Res_1775_v3_L.pdf;25#;Res_1775_v3_P.pdf;27#;Res_1775_v4_L.pdf;25#;Res_1775_v4_P.pdf;28#;Res_1775_v5_L.pdf;27#;Res_1775_v5_P.pdf;31#;Res_1775_v6_L.pdf;31#;Res_1775_v6_P.pdf;38#;",
+   "atualizacoes": [
+    "Resolução CMN nº 1.908/1992 – Revogação art. 2º.",
+    "Resolução CMN nº 2.474/1998 – Revogação art. 3º.",
+    "Resolução CMN nº 3.036/2002 – Revogação art. 7º.",
+    "Resolução CMN nº 4.478/2016 - Inclusão art. 6º-A. Revogação art. 1º.",
+    "Resolução CMN nº 5.048/2022 - Alteração, a partir de 1º/1/2023 - Revogação: arts. 4º e 5º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -22423,7 +22614,8 @@
    "bytes_html": 3053,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1777_v1_O.pdf;17#;"
+   "documentos": "Res_1777_v1_O.pdf;17#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -22440,7 +22632,8 @@
    "bytes_html": 3124,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_1825_v1_O.pdf;17#;"
+   "documentos": "Res_1825_v1_O.pdf;17#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -22899,7 +23092,8 @@
    "bytes_html": 2203,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2487_v1_O.pdf;84#;"
+   "documentos": "Res_2487_v1_O.pdf;84#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23035,7 +23229,8 @@
    "bytes_html": 1839,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2572_v1_O.pdf;16#;"
+   "documentos": "Res_2572_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23086,7 +23281,8 @@
    "bytes_html": 2557,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2646_v1_O.pdf;16#;"
+   "documentos": "Res_2646_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23154,7 +23350,12 @@
    "bytes_html": 11775,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2686_v1_O.pdf;107#;Res_2686_v2_L.pdf;108#;Res_2686_v2_P.pdf;109#;Res_2686_v3_L.pdf;105#;Res_2686_v3_P.pdf;110#;Res_2686_v4_L.pdf;167#;Res_2686_v4_P.pdf;171#;"
+   "documentos": "Res_2686_v1_O.pdf;107#;Res_2686_v2_L.pdf;108#;Res_2686_v2_P.pdf;109#;Res_2686_v3_L.pdf;105#;Res_2686_v3_P.pdf;110#;Res_2686_v4_L.pdf;167#;Res_2686_v4_P.pdf;171#;",
+   "atualizacoes": [
+    "Resolução CMN nº 2.836/2001 - Alteração: art. 1º, caput; art. 2º, inciso III.",
+    "Resolução CMN nº 3.490/2007 - Revogação, a partir de 1º/7/2008: art. 3º.",
+    "Resolução CMN nº 4.693/2018 - Revogação, a partir de 1º/1/2019: art. 4º, inciso II."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -23171,7 +23372,10 @@
    "bytes_html": 3620,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2734_v1_O.pdf;18#;Res_2734_v2_L.pdf;18#;Res_2734_v2_P.pdf;19#;"
+   "documentos": "Res_2734_v1_O.pdf;18#;Res_2734_v2_L.pdf;18#;Res_2734_v2_P.pdf;19#;",
+   "atualizacoes": [
+    "Resolução CMN nº 2.967/2002 - Revogação art. 1º, parágrafo único, item I."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -23273,7 +23477,8 @@
    "bytes_html": 3055,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2830_v1_O.pdf;83#;"
+   "documentos": "Res_2830_v1_O.pdf;83#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23341,7 +23546,8 @@
    "bytes_html": 75,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2843_v1_O.pdf;126#;"
+   "documentos": "Res_2843_v1_O.pdf;126#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23358,7 +23564,8 @@
    "bytes_html": 2742,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2845_v1_O.pdf;16#;"
+   "documentos": "Res_2845_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23375,7 +23582,12 @@
    "bytes_html": 10591,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_2907_v1_O.pdf;31#;Res_2907_v2_L.pdf;36#;Res_2907_v2_P.pdf;40#;Res_2907_v3_L.pdf;135#;Res_2907_v3_P.pdf;141#;"
+   "documentos": "Res_2907_v1_O.pdf;31#;Res_2907_v2_L.pdf;36#;Res_2907_v2_P.pdf;40#;Res_2907_v3_L.pdf;135#;Res_2907_v3_P.pdf;141#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.694/2018 - Nova redação: art. 1º, § 1º; art. 1º, § 2º, incisos I e II; art. 2º, incisos IV e V. Revogação: art. 1º, § 2º, inciso VI; art. 1º, § 3º.",
+    "Resolução CMN nº 5.343/2026 - Alteração a partir de 13/10/2026.",
+    "Resolução CMN nº 5.343/2026 - Alteração a partir de 4/1/2027."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -23545,7 +23757,11 @@
    "bytes_html": 75,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3042_v1_O.pdf;17#;Res_3042_v2_L.pdf;18#;Res_3042_v2_P.pdf;19#;Res_3042_v3_L.pdf;19#;Res_3042_v3_P.pdf;21#;"
+   "documentos": "Res_3042_v1_O.pdf;17#;Res_3042_v2_L.pdf;18#;Res_3042_v2_P.pdf;19#;Res_3042_v3_L.pdf;19#;Res_3042_v3_P.pdf;21#;",
+   "atualizacoes": [
+    "Resolução CMN nº 3.308/2005 - Alteração: art. 1º.",
+    "Resolução CMN nº 4.484/2016 - Alteração (a partir de 22/5/2016) do art. 1º, caput."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -23562,7 +23778,8 @@
    "bytes_html": 2032,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3111_v1_O.pdf;16#;"
+   "documentos": "Res_3111_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23732,7 +23949,8 @@
    "bytes_html": 2680,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3261_v1_O.pdf;17#;"
+   "documentos": "Res_3261_v1_O.pdf;17#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -23851,7 +24069,11 @@
    "bytes_html": 16653,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3334_v1_O.pdf;40#;Res_3334_v2_L.pdf;41#;Res_3334_v2_P.pdf;41#;Res_3334_v3_L.pdf;40#;Res_3334_v3_P.pdf;42#;"
+   "documentos": "Res_3334_v1_O.pdf;40#;Res_3334_v2_L.pdf;41#;Res_3334_v2_P.pdf;41#;Res_3334_v3_L.pdf;40#;Res_3334_v3_P.pdf;42#;",
+   "atualizacoes": [
+    "Resolução CMN nº 3.452/2007 - Alteração art. 1º",
+    "Resolução CMN nº 3.568/2008 - Revogação art. 1º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -24072,7 +24294,12 @@
    "bytes_html": 4852,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3427_v1_O.pdf;21#;Res_3427_v2_L.pdf;22#;Res_3427_v2_P.pdf;22#;Res_3427_v3_L.pdf;159#;Res_3427_v3_P.pdf;160#;Res_3427_v4_L.pdf;30#;Res_3427_v4_P.pdf;55#;"
+   "documentos": "Res_3427_v1_O.pdf;21#;Res_3427_v2_L.pdf;22#;Res_3427_v2_P.pdf;22#;Res_3427_v3_L.pdf;159#;Res_3427_v3_P.pdf;160#;Res_3427_v4_L.pdf;30#;Res_3427_v4_P.pdf;55#;",
+   "atualizacoes": [
+    "Resolução CMN nº 3.513/2007 - Alteração art. 4º.",
+    "Resolução CMN nº 4.732/2019 -  Nova redação art. 2º, parágrafo único, inciso II.",
+    "Resolução CMN nº 4.775/2020 - Nova redação: art. 1º, caput e parágrafo único; art. 2º, parágrafo único, incisos I e II."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -24123,7 +24350,8 @@
    "bytes_html": 2464,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3441_v1_O.pdf;17#;"
+   "documentos": "Res_3441_v1_O.pdf;17#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -24259,7 +24487,8 @@
    "bytes_html": 6261,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3505_v1_O.pdf;23#;"
+   "documentos": "Res_3505_v1_O.pdf;23#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -24565,7 +24794,8 @@
    "bytes_html": 75,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3621_v1_O.pdf;15#;"
+   "documentos": "Res_3621_v1_O.pdf;15#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -25041,7 +25271,8 @@
    "bytes_html": 2605,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3824_v1_O.pdf;16#;"
+   "documentos": "Res_3824_v1_O.pdf;16#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -25109,7 +25340,8 @@
    "bytes_html": 2452,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3908_v1_O.pdf;15#;"
+   "documentos": "Res_3908_v1_O.pdf;15#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -25228,7 +25460,8 @@
    "bytes_html": 4718,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_3998_v1_O.pdf;20#;"
+   "documentos": "Res_3998_v1_O.pdf;20#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -25891,7 +26124,11 @@
    "bytes_html": 9589,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4277_v1_O.pdf;30#;Res_4277_v2_L.pdf;31#;Res_4277_v2_P.pdf;31#;Res_4277_v3_L.pdf;127#;Res_4277_v3_P.pdf;135#;"
+   "documentos": "Res_4277_v1_O.pdf;30#;Res_4277_v2_L.pdf;31#;Res_4277_v2_P.pdf;31#;Res_4277_v3_L.pdf;127#;Res_4277_v3_P.pdf;135#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.349/2014 - Alteração: art. 11.",
+    "Resolução CMN nº 4.389/2014 - Alteração: art. 2º, caput; art. 2º, § 1º, IV e V; art. 2º, § 2º, caput; art. 7º, I e II; art. 8º, §§ 1º a 3º; art. 10; art. 11. Inclusão: art. 1º, parágrafo único; art. 2º, § 1º, VI a VIII; art. 2º, §§ 3º a 5º; art. 6º, parágrafo único; art. 8º, §§ 4º a 11."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -26299,7 +26536,11 @@
    "bytes_html": 7768,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4415_v2_L.pdf;44#;Res_4415_v2_P.pdf;47#;Res_4415_v1_O.pdf;99#;Res_4415_v3_L.pdf;21#;Res_4415_v3_P.pdf;142#;"
+   "documentos": "Res_4415_v2_L.pdf;44#;Res_4415_v2_P.pdf;47#;Res_4415_v1_O.pdf;99#;Res_4415_v3_L.pdf;21#;Res_4415_v3_P.pdf;142#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.497/2016 - Revogação, a partir de 1º/7/2016 dos arts. 1º e 3º.",
+    "Resolução CMN nº 4.903/2021 - Alteração a partir de 1º/5/2021 - Revogação: arts. 4º e 5º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -26503,7 +26744,8 @@
    "bytes_html": 2007,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4476_v1_O.pdf;18#;"
+   "documentos": "Res_4476_v1_O.pdf;18#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -26826,7 +27068,11 @@
    "bytes_html": 16125,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4593_v1_O.pdf;214#;Res_4593_v2_L.pdf;210#;Res_4593_v2_P.pdf;211#;Res_4593_v3_L.pdf;218#;Res_4593_v3_P.pdf;219#;"
+   "documentos": "Res_4593_v1_O.pdf;214#;Res_4593_v2_L.pdf;210#;Res_4593_v2_P.pdf;211#;Res_4593_v3_L.pdf;218#;Res_4593_v3_P.pdf;219#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.638/2018 - Nova redação: art. 3º, § 1º, inciso IV; art. 3º, § 1º, inciso V, \"d\"; art. 16. Inclusão art. 3º, § 1º, inciso VI.",
+    "Resolução CMN nº 4.734/2019 - Nova redação: art. 2º, inciso I, “e”, e § 1º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -27132,7 +27378,11 @@
    "bytes_html": 31145,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4662_v1_O.pdf;495#;Res_4662_v2_L.pdf;497#;Res_4662_v2_P.pdf;498#;Res_4662_v3_L.pdf;176#;Res_4662_v3_P.pdf;179#;"
+   "documentos": "Res_4662_v1_O.pdf;495#;Res_4662_v2_L.pdf;497#;Res_4662_v2_P.pdf;498#;Res_4662_v3_L.pdf;176#;Res_4662_v3_P.pdf;179#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.809/2020 - Alteração, a partir de 1º/6/2020 - Nova redação: art. 25, caput. Inclusão: art. 25, incisos I e II.",
+    "Resolução CMN nº 4.969/2021 - Nova redação: arts. 6º, § 1º; 9º, § 2º; e 21, inciso I. Inclusão: art. 9º, § 2º, incisos I, II e III."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -27438,7 +27688,14 @@
    "bytes_html": 14412,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4734_v1_O.pdf;179#;Res_4734_v2_L.pdf;396#;Res_4734_v2_P.pdf;396#;Res_4734_v3_L.pdf;403#;Res_4734_v3_P.pdf;404#;Res_4734_v4_L.pdf;487#;Res_4734_v4_P.pdf;489#;Res_4734_v5_L.pdf;142#;Res_4734_v5_P.pdf;149#;Res_4734_v6_L.pdf;164#;Res_4734_v6_P.pdf;176#;"
+   "documentos": "Res_4734_v1_O.pdf;179#;Res_4734_v2_L.pdf;396#;Res_4734_v2_P.pdf;396#;Res_4734_v3_L.pdf;403#;Res_4734_v3_P.pdf;404#;Res_4734_v4_L.pdf;487#;Res_4734_v4_P.pdf;489#;Res_4734_v5_L.pdf;142#;Res_4734_v5_P.pdf;149#;Res_4734_v6_L.pdf;164#;Res_4734_v6_P.pdf;176#;",
+   "atualizacoes": [
+    "Resolução CMN nº 4.809/2020 - Alteração, a partir de 1º/6/2020 - Nova redação: art. 11, inciso II.",
+    "Resolução CMN nº 4.853/2020 - Alteração, a partir de 1º/10/2020 - Nova redação: art. 2º, inciso V; art. 4º, incisos IV e V; art. 6º, inciso II. Inclusão: art. 4º, § 5º; art. 6º, inciso II, \"a\" e \"b\".",
+    "Resolução CMN nº 4.867/2020 - Nova redação: art. 8º, caput; e art. 11, incisos I e II. Inclusão: art. 7º-A e art. 8º, incisos I e II.",
+    "Resolução CMN nº 4.888/2021 - Nova redação: art. 11, incisos I e II. Inclusão: art. 7º-B. Revogação: art. 7º-A, §§ 4º e 5º.",
+    "Resolução CMN nº 5.045/2022 - Alteração a partir de 1º/12/2022 - Nova redação: art. 4º, §§ 1º e 2º; art. 6º, incisos II e III e § 2º. Inclusão: art. 4º, § 2º, incisos I e II; art. 6º, inciso III, \"a\" e \"b\", e § 3º; arts. 7º-C e 7º-D."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -27506,7 +27763,8 @@
    "bytes_html": 4702,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4751_v1_O.pdf;353#;"
+   "documentos": "Res_4751_v1_O.pdf;353#;",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -27880,7 +28138,10 @@
    "bytes_html": 8087,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": "Res_4815_v1_O.pdf;366#;Res_4815_v2_L.pdf;135#;Res_4815_v2_P.pdf;140#;"
+   "documentos": "Res_4815_v1_O.pdf;366#;Res_4815_v2_L.pdf;135#;Res_4815_v2_P.pdf;140#;",
+   "atualizacoes": [
+    "Resolução CMN nº 5.094/2023 - Alteração, a partir de 1º/9/2023 - Nova redação: ementa; art. 2º, incisos III a IX; art. 3º, incisos I a III; art. 5º, inciso IV; e art. 6º, incisos I e II. Inclusão: art. 2º, inciso X; art.3º-A; art. 5º, §§ 1º, 2º e 3º; art. 7º-A e art. 7º-B."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -29376,7 +29637,8 @@
    "bytes_html": 4245,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -29393,7 +29655,11 @@
    "bytes_html": 8527,
    "tachado": 9,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.042/2022 - Alteração, a partir de 31/12/2022 - Revogação: art. 3º.",
+    "Resolução BCB nº 277/2022 - Revogação do art. 2º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -29461,7 +29727,8 @@
    "bytes_html": 15395,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -29648,7 +29915,13 @@
    "bytes_html": 295266,
    "tachado": 23,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.019/2022 - Nova redação: art. 76, caput.",
+    "Resolução CMN nº 5.100/2023 - Alteração, a partir de 1º/10/2023 - Nova redação: art. 1º, § 1º, inciso I; art. 2º, incisos XXIV e XXV; art. 23; art. 37, § 5º; art. 74, caput; art. 75, caput; e art. 81, incisos I, \"c\", e II. Inclusão: art. 2º, inciso XXVI e parágrafo único; art. 13, §§ 1º, 2º, 3º e 4º; art. 17, §§ 1º e 2º; art. 20, § 4º; art. 40, § 5º; e art. 81, incisos II, \"a\" e \"b\", e III. Revogação: art. 13, parágrafo único; art. 17, parágrafo único; e art. 23, incisos I e II.",
+    "Resolução CMN nº 5.146/2024 - Alteração, a partir de 1º/8/2024 - Nova redação: art. 3º, caput; art. 12, § 1º, inciso I; art. 51, § 4º; art. 77, caput; art. 80, incisos XVIII e XIX; e art. 81, inciso II, “b”. Inclusão: art. 50, §§ 5º e 6º; arts. 71-A, 72-A e 72-B; e art. 80, incisos XX a XXV.",
+    "Resolução CMN nº 5.244/2025 - Alteração a partir de 1º/9/2025 - Nova redação: art. 49, § 2º. Inclusão: art. 3º, § 6º; e art. 49, § 2º, incisos I e II."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30039,7 +30312,10 @@
    "bytes_html": 137743,
    "tachado": 1,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.016/2022 - Alteração, a partir de 2/5/2022 - Nova redação: Regulamento Anexo, art. 3º, § 2º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30056,7 +30332,10 @@
    "bytes_html": 160986,
    "tachado": 72,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.202/2025 - Nova redação: art. 2º, caput e parágrafo único; art. 4º, caput e incisos I e II; art. 7º, § 2º; art. 9º; art. 10, § 4º; art. 12, parágrafo único; art. 14; art. 16, § 1º; art. 17, § 1º; art. 18, parágrafo único; art. 21, incisos I, “b”, II, “c”, e III, “d” e “e”, e § 3º; art. 22, incisos II e III; art. 23, caput, inciso I, “a”, e §§ 1º, 2º e 4º; art. 24, inciso I; art. 26, incisos I, II, III e V e §§ 1º, inciso I, 3º, 4º e 5º; art. 27, § 4º; art. 28, inciso I, “b”, “c”, “d”, “e” e “f”, e inciso III e §§ 1º, 2º, 3º e 4º; art. 30, incisos V e VI e §§ 1º e 4º; art. 32, caput e parágrafo único; arts. 33 e 34; art. 36, caput e §§ 1º, 2º e 3º; e art. 37, § 2º, incisos I e III. Inclusão: art. 10, § 5º; art. 23, incisos I, “d”, III, IV e V, e § 2º, incisos I, II e III; art. 26, inciso IV-A e §§ 7º, 8º e 9º; art. 28, inciso III, “c”; art. 35, incisos IX e X; e art. 36, inciso XIV e § 5º. Revogação: art. 23, incisos I, “b” e “c”, e II; art. 26, inciso IV; e art. 37, § 5º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30175,7 +30454,8 @@
    "bytes_html": 92247,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -30260,7 +30540,12 @@
    "bytes_html": 19002,
    "tachado": 5,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.119/2024 - Alteração, a partir de 2/2/2024 - Nova redação: art. 2º, incisos I e II. Inclusão: arts. 2º-A e 2º-B.",
+    "Resolução CMN nº 5.215/2025 - Nova redação: art. 2º, inciso II.",
+    "Resolução CMN nº 5.215/2025 - Alteração, a partir de 1º/8/2025 - Nova redação: art. 2º, § 2º. Inclusão: art. 2º, §§ 3º, 4º e 5º; e arts. 2º-C e 2º-D."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30277,7 +30562,8 @@
    "bytes_html": 32398,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -30294,7 +30580,10 @@
    "bytes_html": 42353,
    "tachado": 9,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução Conjunta BCB/CMN nº 14/2025 - Revogação: arts. 4º, 5º e 6º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30889,7 +31178,10 @@
    "bytes_html": 10748,
    "tachado": 5,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução Conjunta BCB/CMN nº 14/2025 - Revogação: art. 6º."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -30957,7 +31249,11 @@
    "bytes_html": 69205,
    "tachado": 15,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.159/2024 - Alteração a partir de 1º/8/2024 - Nova redação: art. 7º, caput; art. 8º, caput e incisos I e II; art. 16, § 1º, incisos III e IV; art. 21, inciso I. Inclusão: art. 7º, incisos I e II e § 2º; art. 8º, inciso III e §§ 1º e 2º; art. 16, §§ 3º, 4º e 5º; art. 19, §§ 4º e 5º; art. 21, § 5º. Revogação: art. 8º, inciso I, \"a\", \"b\" e \"c\".",
+    "Resolução Conjunta BCB/CMN nº 14/2025 - Revogação: arts. 6º e 14."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -31297,7 +31593,10 @@
    "bytes_html": 68677,
    "tachado": 17,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.167/2024 - Alteração a partir de 2/9/2024 - Nova redação: art. 7º, inciso II; art. 10, inciso IV; e art. 11, caput, incisos I, II, \"b\" a \"e\", e III, \"a\" a \"e\". Inclusão: art. 11, incisos II, \"f\", IV a VIII e §§ 2º, 3º e 4º. Revogação: art. 11, inciso II, \"a\"."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -31858,7 +32157,8 @@
    "bytes_html": 11466,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -31960,7 +32260,8 @@
    "bytes_html": 26240,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -32079,7 +32380,12 @@
    "bytes_html": 18688,
    "tachado": 10,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.121/2024 - Nova redação: art. 3º, inciso I, \"b\". Inclusão: art. 2º, §§ 1º e 2º. Revogação: art. 2º, parágrafo único.",
+    "Resolução CMN nº 5.163/2024 - Nova redação: ementa; art. 1º; e art. 3º, caput, inciso I,\"a\", e parágrafo único. Inclusão: art. 4º-A.",
+    "Resolução CMN nº 5.212/2025 - Nova redação: art. 3º, inciso I, \"a\"."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -32742,7 +33048,8 @@
    "bytes_html": 4596,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -32844,7 +33151,8 @@
    "bytes_html": 77567,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -32895,7 +33203,8 @@
    "bytes_html": 13570,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -33575,7 +33884,10 @@
    "bytes_html": 8772,
    "tachado": 10,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": [
+    "Resolução CMN nº 5.216/2025 - Revogação: art. 1º, na parte em que altera MCR 6-7, itens 2 e 2-A."
+   ]
   },
   {
    "tipo": "resolucao-cmn",
@@ -34612,7 +34924,8 @@
    "bytes_html": 154018,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -35054,7 +35367,8 @@
    "bytes_html": 9174,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-cmn",
@@ -35972,7 +36286,8 @@
    "bytes_html": 23066,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-conjunta",
@@ -36023,7 +36338,8 @@
    "bytes_html": 57561,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-conjunta",
@@ -36040,7 +36356,8 @@
    "bytes_html": 44310,
    "tachado": 0,
    "tabelas": 0,
-   "documentos": ""
+   "documentos": "",
+   "atualizacoes": []
   },
   {
    "tipo": "resolucao-conjunta",

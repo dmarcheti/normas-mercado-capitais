@@ -1450,7 +1450,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 723020,
+   "last_modified": "Wed, 19 Mar 2025 14:46:25 GMT"
   },
   {
    "titulo": "Código de Distribuição de Produtos de Investimento (vigente a partir de 22.09.2025)",
@@ -1462,7 +1464,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 620430,
+   "last_modified": "Mon, 18 Aug 2025 18:44:53 GMT"
   },
   {
    "titulo": "Código de Ofertas Públicas (vigente a partir de 15.07.2024)",
@@ -1474,7 +1478,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 433102,
+   "last_modified": "Wed, 10 Jul 2024 12:39:15 GMT"
   },
   {
    "titulo": "Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
@@ -1486,7 +1492,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 568685,
+   "last_modified": "Tue, 03 Mar 2026 17:52:58 GMT"
   },
   {
    "titulo": "Código de Ética para Associados (vigente)",
@@ -1498,7 +1506,9 @@
     "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 467707,
+   "last_modified": "Thu, 21 May 2026 22:30:27 GMT"
   },
   {
    "titulo": "Código dos Processos (vigente a partir de 01/02/2024)",
@@ -1510,7 +1520,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/processos.htm"
    ],
    "tipo": "codigo",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 1627280,
+   "last_modified": "Mon, 05 Feb 2024 20:27:23 GMT"
   },
   {
    "titulo": "Deliberação Diretoria ANBIMA (Dispensa de aplicação das regras do suitability para Educa+ e RendA+) (Atualizada)",
@@ -1522,7 +1534,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "deliberacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 187656,
+   "last_modified": "Thu, 06 Feb 2025 19:19:06 GMT"
   },
   {
    "titulo": "Deliberação Diretoria ANBIMA - Ratificação dos Produtos de Investimento com registro obrigatório no Sistema de Registro de Negócios (REUNE)",
@@ -1534,7 +1548,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
    ],
    "tipo": "deliberacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 388482,
+   "last_modified": "Tue, 24 Jun 2025 13:51:49 GMT"
   },
   {
    "titulo": "Deliberação nº 01 do Conselho de Negociação",
@@ -1546,7 +1562,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
    ],
    "tipo": "deliberacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 175857,
+   "last_modified": "Fri, 25 Apr 2025 19:54:40 GMT"
   },
   {
    "titulo": "Diretrizes do Código de Ética",
@@ -1558,7 +1576,9 @@
     "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
    ],
    "tipo": "diretrizes",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 666037,
+   "last_modified": "Wed, 01 Aug 2018 17:54:43 GMT"
   },
   {
    "titulo": "Glossário ANBIMA",
@@ -1573,7 +1593,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
    ],
    "tipo": "glossario",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 699714,
+   "last_modified": "Fri, 29 Aug 2025 12:33:44 GMT"
   },
   {
    "titulo": "Alinhamento ACT CVM/ANBIMA 001/2025 - Enquadramento FIDC",
@@ -1585,7 +1607,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 80681,
+   "last_modified": "Wed, 30 Apr 2025 13:00:20 GMT"
   },
   {
    "titulo": "Alinhamento ACT CVM/ANBIMA 002/2025 - Informe Mensal FIDC",
@@ -1597,7 +1621,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 66522,
+   "last_modified": "Wed, 30 Apr 2025 13:00:20 GMT"
   },
   {
    "titulo": "Alinhamento ACT CVM/ANBIMA Ofertas Públicas 001/2025 - Registro automático follow-on",
@@ -1609,7 +1635,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 32937,
+   "last_modified": "Mon, 22 Dec 2025 17:28:02 GMT"
   },
   {
    "titulo": "Comunicado de Supervisão: indícios de descumprimentos mais recorrentes do Código de Ofertas",
@@ -1621,7 +1649,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 307415,
+   "last_modified": "Tue, 07 Mar 2023 23:02:37 GMT"
   },
   {
    "titulo": "Comunicado sobre o Entendimento conjunto entre ANBIMA e CVM sobre Suitability",
@@ -1633,7 +1663,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 138491,
+   "last_modified": "Tue, 07 Mar 2023 22:48:09 GMT"
   },
   {
    "titulo": "Perguntas e Respostas do Código de Distribuição",
@@ -1645,7 +1677,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 391469,
+   "last_modified": "Tue, 07 Mar 2023 23:01:30 GMT"
   },
   {
    "titulo": "Perguntas e Respostas sobre Transparência na Remuneração (1ª edição)",
@@ -1657,7 +1691,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 586109,
+   "last_modified": "Wed, 11 Dec 2024 20:15:14 GMT"
   },
   {
    "titulo": "Perguntas e Respostas sobre Transparência na Remuneração (2ª edição)",
@@ -1669,7 +1705,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 709225,
+   "last_modified": "Wed, 19 Feb 2025 18:21:02 GMT"
   },
   {
    "titulo": "Perguntas e respostas das regras e procedimentos de risco de liquidez para os fundos abertos",
@@ -1681,7 +1719,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 401478,
+   "last_modified": "Fri, 31 Oct 2025 13:01:45 GMT"
   },
   {
    "titulo": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 1ª edição",
@@ -1693,7 +1733,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 913657,
+   "last_modified": "Tue, 07 Mar 2023 22:46:23 GMT"
   },
   {
    "titulo": "Perguntas e respostas das regras e procedimentos para identificação de fundos sustentável - 2ª edição",
@@ -1705,7 +1747,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 251662,
+   "last_modified": "Tue, 22 Aug 2023 18:23:59 GMT"
   },
   {
    "titulo": "Perguntas e respostas das regras e procedimentos para registro das carteiras administradas",
@@ -1717,7 +1761,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 277578,
+   "last_modified": "Tue, 01 Nov 2022 12:24:59 GMT"
   },
   {
    "titulo": "Perguntas e respostas sobre Apuração dos Valores de Referência",
@@ -1729,7 +1775,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 582017,
+   "last_modified": "Fri, 20 Sep 2024 14:50:45 GMT"
   },
   {
    "titulo": "Perguntas e respostas sobre intermediação no exterior",
@@ -1741,7 +1789,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 187639,
+   "last_modified": "Fri, 12 May 2023 13:51:07 GMT"
   },
   {
    "titulo": "Q&A Suitability",
@@ -1753,7 +1803,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "orientacao",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 364947,
+   "last_modified": "Fri, 22 Dec 2023 20:19:42 GMT"
   },
   {
    "titulo": "Comunicado de Supervisão nº 001/2021 - Parecer de orientação (Agentes Fiduciários)",
@@ -1765,7 +1817,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
    ],
    "tipo": "parecer",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 191521,
+   "last_modified": "Tue, 07 Mar 2023 22:56:10 GMT"
   },
   {
    "titulo": "PARECER SOBRE CONFLITO DE INTERESSE",
@@ -1777,7 +1831,9 @@
     "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
    ],
    "tipo": "parecer",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 173533,
+   "last_modified": "Wed, 14 Aug 2024 20:58:37 GMT"
   },
   {
    "titulo": "Parecer de Orientação nº 01/2022 - Classificação de clientes e derivativos de balcão",
@@ -1789,7 +1845,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
    ],
    "tipo": "parecer",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 191517,
+   "last_modified": "Fri, 29 Jul 2022 11:51:11 GMT"
   },
   {
    "titulo": "Regras e Procedimentos de Certificação (vigente a partir de 02.01.2026)",
@@ -1802,7 +1860,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 483800,
+   "last_modified": "Thu, 09 Oct 2025 19:34:36 GMT"
   },
   {
    "titulo": "Regras e Procedimentos de Deveres Básicos (vigente a partir de 31.03.2025)",
@@ -1817,7 +1877,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 450186,
+   "last_modified": "Wed, 19 Mar 2025 14:10:57 GMT"
   },
   {
    "titulo": "Regras e Procedimentos de Ofertas Públicas (vigente a partir de 24.03.2025)",
@@ -1829,7 +1891,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/ofertas-publicas/ofertas-publicas.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 1840132,
+   "last_modified": "Mon, 24 Feb 2025 12:20:51 GMT"
   },
   {
    "titulo": "Regras e Procedimentos do Código de Administração e Gestão de Recursos (vigente a partir de 23.03.2026)",
@@ -1841,7 +1905,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 1755996,
+   "last_modified": "Tue, 12 May 2026 19:53:41 GMT"
   },
   {
    "titulo": "Regras e Procedimentos do Código de Distribuição (vigente a partir de 22.09.2025)",
@@ -1853,7 +1919,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 1359843,
+   "last_modified": "Mon, 18 Aug 2025 18:48:29 GMT"
   },
   {
    "titulo": "Regras e Procedimentos do Código de Negociação (vigente - consolidado de todas regras)",
@@ -1865,7 +1933,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 1038622,
+   "last_modified": "Thu, 26 May 2022 19:56:07 GMT"
   },
   {
    "titulo": "Regras e Procedimentos do Código de Serviços Qualificados (vigente a partir de 23.03.2026)",
@@ -1877,7 +1947,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/servicos-qualificados.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 669677,
+   "last_modified": "Tue, 03 Mar 2026 17:58:02 GMT"
   },
   {
    "titulo": "Regras e procedimentos para adesão e associação aos Códigos",
@@ -1889,7 +1961,9 @@
     "https://www.anbima.com.br/pt_br/institucional/a-anbima/etica-e-integridade.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 406745,
+   "last_modified": "Thu, 28 Aug 2025 17:08:27 GMT"
   },
   {
    "titulo": "Regras e procedimentos para envio de informações para a base de dados (vigente a partir de 02/01/24)",
@@ -1901,7 +1975,9 @@
     "https://www.anbima.com.br/pt_br/autorregular/codigos/distribuicao-de-produtos-de-investimento.htm"
    ],
    "tipo": "regras-procedimentos",
-   "formato": "pdf"
+   "formato": "pdf",
+   "bytes": 371271,
+   "last_modified": "Tue, 17 Oct 2023 13:57:24 GMT"
   }
  ]
 }
