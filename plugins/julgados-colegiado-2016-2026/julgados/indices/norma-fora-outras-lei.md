@@ -1542,6 +1542,21 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 3º, § 1º, inciso I | decisao-colegiado | 19957.008534/2019-21 | 2022-02-15 | conhecimento | fundos-investimento | O Colegiado, por unanimidade e acompanhando a área técnica (SIN), não conheceu de recurso de cotistas minoritários de fundo de investimento em participações contra arquivamento de reclamação sobre assembleia de cotistas e alterações do regulamento. Motivo: ausência de requisitos de admissibilidade (art. 4º, §4º, Resolução CVM 45/2021). | cvm/colegiado/2022/col-20220215-d2478.md |
 
+## lei-11419
+
+### art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 1º, inciso III, alínea b | decisao-colegiado | 19957.000363/2016-40 | 2016-02-02 | nao-provido | multa-cominatoria-taxa | O Colegiado, com base no Memorando nº 4/2016-CVM/SIN/GIF, indeferiu recurso da BNY Mellon Serviços Financeiros DTVM S.A. e manteve multa de mora de R$ 2.400,00, incidente sobre multa cominatória por atraso nas demonstrações contábeis de 2007/2008 do Santos Credit Plus Fundo de Investimento Renda Fixa Crédito Privado (art. 71, I, da Instrução CVM 409/2004). | cvm/colegiado/2016/col-20160202-d0040.md |
+| art. 1º, inciso III, alínea b | decisao-colegiado | 19957.003211/2015-18 | 2016-02-02 | deferido | registro-emissor | O Colegiado aprovou o plano de cancelamento do Programa de BDR Nível III da LATAM Airlines Group S.A., pedido em conjunto com a Itaú Corretora de Valores S.A., com base no art. 48, parágrafo único, da ICVM 480/2009. Acompanhou a SRE, que viu os procedimentos adequados e em linha com precedente da Telefônica (RJ2009/12861). | cvm/colegiado/2016/col-20160202-d043.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2015/12681 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12681. | cvm/colegiado/2016/col-20160216-d0086.md |
+
 ## lei-11478
 
 ### art. 1º
@@ -2232,3 +2247,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 356/2001; 444/2006; 555/2014; 19957.004508/2019-24 | 2021-08-17 | — | fundos-investimento | Recursos, com pedido de efeito suspensivo, contra decisões da SIN e da SSE que concluíram que Unidades de Crédito de Sustentabilidade (UCS) não são direitos creditórios (Instruções CVM 356 e 444) e determinaram o encerramento dos fundos Jaya e Green Eficiency. Sem deliberação final: o Colegiado discutiu a matéria e solicitou diligências adicionais às áreas técnicas. | cvm/colegiado/2021/col-20210817-d2274.md |
+
+## lei-2104633
+
+### art. 31
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 31 | decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | processual | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de investigado contra decisão da SPS que concedeu acesso parcial a inquérito administrativo, com sigilo de operações de terceiros (LC 105/2001), de informações pessoais (Lei 12.527/2011) e, em fração menor, de investigação (Lei 6.385/1976, art. 9º, §2º). | cvm/colegiado/2026/col-20260624-d4-d3436.md |

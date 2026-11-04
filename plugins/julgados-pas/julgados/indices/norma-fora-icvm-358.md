@@ -878,12 +878,6 @@ Norma: fora do acervo.
 | art. 132, § 4º | pas | 25/2005 | 2009-05-12 | absolvicao | informacao-privilegiada | IOCHPE-MAXION S/A Inobservância da vedação contida no art. 13, § 4º, da Instrução CVM nº 358/02, c/c o caput do mesmo artigo e com o art. 20, caput, inciso II, da mesma Instrução, em função dos negócios realizados pelo Fundo Fator Sinergia, do qual o BNDESPar era cotista, com ações de emissão da Iochpe-Maxion, dentro do período de 15 dias que antecedeu a divulgação de informações periódicas pela Companhia. Absolvição. | cvm/pas/2009/25-2005.md |
 | art. 132, § 4º | pas | RJ2009/2172 | 2010-05-18 | condenacao | divulgacao-informacoes | RENAR MAÇÃS S/A Não comunicação imediata à Renar Maçãs S/A da alienação de quantidade equivalente a 5,05% de ações ordinárias de sua emissão, em infração ao art. 12, § 4º, da Instrução CVM nº 358/02. Multa. – Operação irregular, em infração ao art. 13, § 4º, da Instrução CVM nº 358/02. Multa. | cvm/pas/2010/rj2009-2172.md |
 
-## art. 155
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 155, § 4º | pas | RJ2011/2789 | 2012-08-28 | absolvicao | informacao-privilegiada | [pessoa física] suposta utilização de informações relevantes ainda não divulgadas ao mercado de valores mobiliários. Absolvição. | cvm/pas/2012/rj2011-2789.md |
-
 ## art. 157
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

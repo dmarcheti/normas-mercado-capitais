@@ -543,6 +543,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | crowdfunding | O Colegiado, por unanimidade, negou provimento a recurso da URBE.ME contra determinação da SRE de manter website exclusivo à sua plataforma de crowdfunding (ICVM 588/17, art. 8º). Aprovou a Deliberação CVM 858/2020, que proíbe ofertas diferentes das autorizadas pela ICVM 588, por situação anormal de mercado (art. 9º, §1º, da Lei 6.385/76). | cvm/colegiado/2020/col-20200618-d1838.md |
 | decisao-colegiado | 19957.000570/2018-66 | 2019-12-03 | outro | ofertas-publicas | O Colegiado, por unanimidade, rejeitou proposta da SRE de edição de deliberação para suspender oferta de contratos de investimento coletivo da Biva, e determinou comunicação ao Banco Central. Entendeu que, pelo art. 45-A da Lei 10.931/04, não é possível afastar a responsabilidade da instituição financeira para fins da exceção do art. 2º, §1º, da Lei 6.385/76. | cvm/colegiado/2019/col-20191203-d1626.md |
 
 ## res-cmn-3992

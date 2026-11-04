@@ -217,6 +217,12 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 783 | decisao-colegiado | RJ2009/6814 | 2010-01-26 | parcial | ofertas-publicas | O Colegiado indeferiu a primeira dispensa (publicação de anúncios da oferta de CRI, art. 29 da Instrução 400/03) e concedeu a segunda (limite de 20% por devedor, art. 5º da Instrução 414/04), condicionada a aperfeiçoar, em 10 dias, os fatores de risco do prospecto sobre insolvência civil. Dois diretores ficaram vencidos quanto à segunda. | cvm/colegiado/2010/col-20100126-d04.md |
 
+## art. 786
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 786 | decisao-colegiado | RJ2009/6814 | 2010-01-26 | parcial | ofertas-publicas | O Colegiado indeferiu a primeira dispensa (publicação de anúncios da oferta de CRI, art. 29 da Instrução 400/03) e concedeu a segunda (limite de 20% por devedor, art. 5º da Instrução 414/04), condicionada a aperfeiçoar, em 10 dias, os fatores de risco do prospecto sobre insolvência civil. Dois diretores ficaram vencidos quanto à segunda. | cvm/colegiado/2010/col-20100126-d04.md |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

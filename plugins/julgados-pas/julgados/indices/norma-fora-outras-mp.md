@@ -18,6 +18,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 10/2000 | 2004-07-08 | parcial | deveres-administradores | Infração ao parágrafo 1º do art. 226 da Lei nº 6.404/76. Multa. Infração ao parágrafo único do art. 116 e à alínea “f” do art. 117, ambos da Lei nº 6.404/76. Inabilitação e multa. | cvm/pas/2004/10-2000.md |
 | pas | 12/1998 | 2004-05-20 | condenacao | intermediacao | Realização de prática não-equitativa. Multas. - Execução de ordens antes do registro. - Não observância da seriação cronológica de ordens. Multa. - Embaraço à fiscalização da CVM. Multa. - Operação fraudulenta. Multa. - Intermediação irregular por pessoa não integrante do sistema de distribuição de valores. Multa | cvm/pas/2004/12-1998.md |
 
+## mp-2
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.012778/2022-12 | 2025-02-11 | parcial | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Botafogo Institucional Fundo de Investimento Renda Fixa relativas à data-base de 30/06/2019. Multas e absolvições. | cvm/pas/2025/19957-012778-2022-12.md |
+
 ## mp-7
 
 ### Citada sem dispositivo identificado

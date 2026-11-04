@@ -1821,6 +1821,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 1º | decisao-colegiado | RJ2007/3547 | 2007-08-21 | provido | fundos-investimento | Recurso contra decisão da SIN em processo de rito sumário. | cvm/colegiado/2007/col-20070821-d09.md |
 | art. 1º | decisao-colegiado | RJ2001/7661 | 2008-03-18 | indeferido | auditoria-independente | O Colegiado, por maioria, indeferiu pedido de reabilitação de auditor independente inabilitado temporariamente. Fixou como termo inicial o dia seguinte ao recebimento da comunicação da decisão (27.05.06), e não a publicação do acórdão do CRSFN. Por unanimidade, determinou verificar eventual ato incompatível com a sanção. | cvm/colegiado/2008/col-20080318-d01.md |
 | art. 1º | decisao-colegiado | RJ1999/3684 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3684. | cvm/colegiado/2008/col-20081028-d02.md |
+| art. 1º, § 1º | decisao-colegiado | RJ1999/3684 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3684. | cvm/colegiado/2008/col-20081028-d02.md |
 
 ### art. 4º
 

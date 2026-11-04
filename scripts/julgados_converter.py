@@ -27,12 +27,14 @@ Uso:
   python3 scripts/julgados_converter.py --onda 1 --tipo pas --limite 20
 """
 import argparse
+import bisect
 import datetime
 import difflib
 import json
 import os
 import re
 import sys
+import tempfile
 from html import unescape
 from html.parser import HTMLParser
 
@@ -94,8 +96,16 @@ _ROMANO = re.compile(r"^(?:X{0,3})(?:IX|IV|V?I{0,3})$")
 _OCR_CIFRAO = re.compile(r"(?<![A-Za-z])\$(\s?)(\d{1,2})\s*[°º]")
 
 
-def corrigir_ocr(texto):
-    """Texto de página lida por OCR com "§" e os romanos I e II corrigidos (padrões acima)."""
+# "CNPJ/ME" só existe a partir de 2019 (Ministério da Economia); antes, é "CNPJ/MF" lido errado
+_OCR_CNPJ_ME = re.compile(r"\bCNPJ(\s*/\s*)ME\b")
+DATA_CNPJ_ME = "2019-01-01"
+
+
+def corrigir_ocr(texto, data=None):
+    """Texto de página lida por OCR com "§" e os romanos I e II corrigidos (padrões acima) e, em
+    julgado anterior a 2019 (`data` AAAA-MM-DD), "CNPJ/ME" como "CNPJ/MF"."""
+    if data and data < DATA_CNPJ_ME:
+        texto = _OCR_CNPJ_ME.sub(r"CNPJ\1MF", texto)
     texto = _OCR_PARAGRAFO.sub(lambda m: "%s§%s%sº" % (m.group(1), "§" if m.group(2) else "",
                                                       m.group(3)), texto)
     texto = _OCR_INCISOS.sub(r"\1I\2II", texto)
@@ -107,6 +117,31 @@ def corrigir_ocr(texto):
     texto = _OCR_INCISO.sub(_inciso, texto)
     texto = _OCR_CIFRAO.sub(r"§\1\2º", texto)
     return _OCR_TITULO_II.sub(r"\1II", texto)
+
+
+# Siglas da CVM deformadas pelo OCR com um "i" ou "l" a mais ("PAiS", "CVMi", "SMIl") ou com "l"
+# no lugar de "I" ("CNAl", "SOl"). Só siglas da lista; a letra a mais só sai se a sigla limpa
+# aparece em outro ponto do documento.
+SIGLAS_OCR = frozenset((
+    "CVM", "PAS", "CNPJ", "CPF", "SEP", "SIN", "SMI", "SRE", "SNC", "SPS", "SOI", "SFI", "SGE",
+    "SDM", "SSE", "SAD", "PFE", "CNAI", "SPL", "SMA", "SRI", "STI", "SSR", "GOI", "GEA", "GEO",
+    "GER"))
+_OCR_SIGLA = re.compile(r"(?<![\wÀ-ÿ])([A-Z]{2,}[il][A-Z]*|[A-Z][il][A-Z]{2,})(?![\wÀ-ÿ])")
+
+
+def corrigir_siglas_ocr(pagina, contexto):
+    """Página lida por OCR com as siglas deformadas corrigidas (ver acima); `contexto`: texto do
+    documento em que a sigla limpa precisa aparecer para a letra a mais sair."""
+    def _sigla(m):
+        t = m.group(1)
+        sem = re.sub("[il]", "", t)
+        if sem in SIGLAS_OCR:
+            limpa = re.search(r"(?<![\wÀ-ÿ])%s(?![\wÀ-ÿ])" % sem, contexto)
+            return sem if limpa else t
+        troca = t.replace("l", "I")
+        return troca if troca in SIGLAS_OCR else t
+
+    return _OCR_SIGLA.sub(_sigla, pagina)
 
 
 # PDF que desenha o mesmo texto 2 ou 3 vezes em camadas sobrepostas (cada camada com pedaços
@@ -149,9 +184,270 @@ def desfazer_sobreposicao(pagina):
     return "\n".join(out)
 
 
-def texto_pdf(caminho, pm=pdf_macos):
+# Ordem das linhas: em alguns PDFs o PDFKit põe um trecho de linha fora do lugar (o fim de um
+# parágrafo colado ao número dele, "7. abertas:", ou uma linha entre as vírgulas de uma citação
+# quebrada, "artigo 9°\n<linha de baixo>\n, parágrafo 4°"). O pypdf, extrator independente, lê
+# a ordem do fluxo do PDF. A página do PDFKit é cortada em trechos achados no pypdf (texto sem
+# espaços; um trecho não passa de uma linha); os trechos fora da maior sequência crescente de
+# posições no pypdf estão fora de ordem. Só volta ao lugar o trecho (1) de palavras inteiras,
+# com 4 letras ou dígitos e sem começar por número de parágrafo, posto entre palavras inteiras
+# e nunca logo depois de um número de parágrafo, (2) a até 4 linhas do destino e (3) com um gatilho do defeito: o que vem antes dele na linha
+# é só o número do parágrafo, ou há linha que começa com pontuação solta a até 3 linhas. O texto do PDFKit não muda, só a ordem
+# dos trechos (o pypdf decide a ordem, nunca o conteúdo).
+ORDEM_MIN_TRECHO, ORDEM_JANELA, ORDEM_VIZINHANCA = 4, 4, 3
+_ORDEM_NUMERO = re.compile(r"[ \t]*\d{1,3}(?: \d)?[ \t]?\.[ \t]+")
+_ORDEM_PONTUACAO = re.compile(r"[ \t]*[,;.:)][ \t]")
+
+
+def _sem_espacos(texto):
+    """(texto sem espaços, índice no original de cada caractere)."""
+    idx = [i for i, c in enumerate(texto) if not c.isspace()]
+    return "".join(texto[i] for i in idx), idx
+
+
+def _trechos_no_pypdf(pk, py):
+    """[(início, fim, posição no pypdf)] da página do PDFKit, em trechos contíguos achados no
+    pypdf (o maior prefixo, sem passar de uma linha). Trecho de menos de 4 caracteres só vale
+    perto da posição esperada; trecho não achado gruda no anterior (posição None só no 1º)."""
+    ck, ik = _sem_espacos(pk)
+    cp, _ = _sem_espacos(py)
+    n = len(ck)
+    if not n or not cp:
+        return []
+    quebra = [False] * (n + 1)
+    for j in range(n - 1):
+        if "\n" in pk[ik[j]:ik[j + 1]]:
+            quebra[j + 1] = True
+    pecas, i, esperado = [], 0, 0
+    while i < n:
+        lim = i + 1
+        while lim < n and not quebra[lim]:
+            lim += 1
+        lo, hi = 0, lim - i
+        while lo < hi:
+            m = (lo + hi + 1) // 2
+            if ck[i:i + m] in cp:
+                lo = m
+            else:
+                hi = m - 1
+        k, pos = lo, None
+        if k >= ORDEM_MIN_TRECHO:
+            pos = cp.find(ck[i:i + k], esperado)
+            if pos < 0:
+                pos = cp.find(ck[i:i + k])
+        elif k >= 1:
+            p = cp.find(ck[i:i + k], esperado)
+            if 0 <= p <= esperado + 3:
+                pos = p
+        k = max(k, 1)
+        if pos is None and pecas:
+            pecas[-1][1] = i + k
+        else:
+            pecas.append([i, i + k, pos])
+            if pos is not None:
+                esperado = pos + k
+        i += k
+    return [(ik[a], ik[b] if b < n else len(pk), p) for a, b, p in pecas]
+
+
+def _maior_crescente(seq):
+    """Índices da maior subsequência crescente de `seq`."""
+    topos, idx, ant = [], [], [-1] * len(seq)
+    for i, x in enumerate(seq):
+        j = bisect.bisect_left(topos, x)
+        if j == len(topos):
+            topos.append(x)
+            idx.append(i)
+        else:
+            topos[j], idx[j] = x, i
+        ant[i] = idx[j - 1] if j else -1
+    out, k = set(), idx[-1] if idx else -1
+    while k >= 0:
+        out.add(k)
+        k = ant[k]
+    return out
+
+
+def reordenar_pela_ordem_do_pypdf(pk, py, debug=None):
+    """Página do PDFKit `pk` com os trechos fora de ordem de volta ao lugar que têm no texto do
+    pypdf `py` (regra acima). `debug`: lista que recebe (trecho, gatilho) de cada trecho movido."""
+    us = _trechos_no_pypdf(pk, py or "")
+    if not us:
+        return pk
+    pos = [u[2] if u[2] is not None else -1 for u in us]
+    fixos = sorted(_maior_crescente(pos))
+    if len(fixos) == len(us):
+        return pk
+    fpos = [pos[i] for i in fixos]
+    linhas = pk.split("\n")
+
+    def _inteiro(a, b):  # trecho de palavras inteiras, com o espaço do fim
+        return (a == 0 or pk[a - 1].isspace()) and pk[b - 1].isspace()
+
+    mover = {}
+    for i in range(len(us)):
+        if i in fixos or not _inteiro(us[i][0], us[i][1]):
+            continue
+        trecho = pk[us[i][0]:us[i][1]]
+        if (sum(ch.isalnum() for ch in trecho) < ORDEM_MIN_TRECHO
+                or _ORDEM_NUMERO.match(trecho)):  # pontuação solta; número de parágrafo
+            continue
+        j = bisect.bisect_left(fpos, pos[i])
+        alvo = fixos[j - 1] if j else -1
+        if alvo >= 0 and not pk[us[alvo][1] - 1].isspace():
+            continue
+        fim = us[alvo][1] if alvo >= 0 else 0
+        if _ORDEM_NUMERO.fullmatch(pk[pk.rfind("\n", 0, fim) + 1:fim]):
+            continue  # entraria entre um número de parágrafo e o texto dele
+        la = pk.count("\n", 0, us[i][0])
+        lb = pk.count("\n", 0, us[alvo][0]) if alvo >= 0 else 0
+        if abs(lb - la) > ORDEM_JANELA:
+            continue
+        prefixo = pk[pk.rfind("\n", 0, us[i][0]) + 1:us[i][0]]
+        if prefixo.strip() and _ORDEM_NUMERO.fullmatch(prefixo):
+            mover[i] = (alvo, "numero")
+        elif any(_ORDEM_PONTUACAO.match(x) or x.strip() in (",", ".", ";")
+                 for x in linhas[max(0, la - ORDEM_VIZINHANCA):la + ORDEM_VIZINHANCA + 1]):
+            mover[i] = (alvo, "pontuacao")
+    if not mover:
+        return pk
+    if debug is not None:
+        debug.extend((pk[us[i][0]:us[i][1]], g) for i, (_, g) in sorted(mover.items()))
+    seq = [i for i in range(len(us)) if i not in mover]
+    for i in sorted(mover, key=lambda k: pos[k]):
+        alvo = mover[i][0]
+        k = seq.index(alvo) + 1 if alvo >= 0 else 0
+        while k < len(seq) and seq[k] in mover and pos[seq[k]] < pos[i]:
+            k += 1
+        seq.insert(k, i)
+    return pk[:us[0][0]] + "".join(pk[us[i][0]:us[i][1]] for i in seq)
+
+
+def _paginas_pypdf_ou_nada(caminho):
+    """Páginas do pypdf normalizadas, ou None (sem o módulo, PDF ilegível)."""
+    try:
+        pags = _pypdf_paginas(caminho)
+    except Exception:  # noqa: BLE001 — sem o pypdf, a ordem do PDFKit fica
+        return None
+    return [jc.normalizar_pdf(p) for p in pags] if pags is not None else None
+
+
+# Imagem grande numa página com texto (tabela colada como imagem, trecho escaneado): o PDFKit
+# não lê o que está nela. Imagem que cobre de 10% a 90% da página, sem texto (pypdf) dentro da
+# área dela, passa pelo OCR só na área da imagem; as linhas lidas entram antes da primeira linha
+# de texto abaixo da imagem (ou no fim da página). Não entram linhas de timbre nem linhas longas
+# que já estão na página; o bloco só entra com confiança média de 0,8, 3 linhas, 100 caracteres
+# e 12 caracteres por linha, em média (o logotipo da CVM e os rótulos de gráfico ficam de fora).
+IMAGEM_FRACAO_MIN, IMAGEM_FRACAO_MAX, IMAGEM_TEXTO_DENTRO = 0.10, 0.90, 20
+IMAGEM_PIXELS_MIN = 60000
+IMAGEM_CONFIANCA, IMAGEM_LINHAS, IMAGEM_CARACTERES, IMAGEM_LINHA_LONGA = 0.8, 3, 100, 15
+IMAGEM_MEDIA_LINHA = 12
+
+
+def _imagens_sem_texto(caminho):
+    """[(página, (x, y, largura, altura), texto da linha logo abaixo da imagem)] das imagens
+    grandes sem texto dentro (regra acima), pelo pypdf; [] sem o módulo ou com PDF ilegível."""
+    try:
+        import pypdf
+        leitor = pypdf.PdfReader(caminho)
+        out = []
+        for n, pag in enumerate(leitor.pages):
+            res = pag.get("/Resources")
+            res = res.get_object() if res else {}
+            xo = res.get("/XObject") if res else None
+            xo = xo.get_object() if xo else {}
+            if not any(v.get_object().get("/Subtype") == "/Image"
+                       and (v.get_object().get("/Width") or 0) * (v.get_object().get("/Height") or 0)
+                       >= IMAGEM_PIXELS_MIN for v in xo.values()):
+                continue
+            area = float(pag.mediabox.width) * float(pag.mediabox.height)
+            caixas, textos = [], []
+
+            def _op(op, args, cm, tm):
+                if op == b"Do" and args:
+                    v = xo.get(args[0])
+                    if v is not None and v.get_object().get("/Subtype") == "/Image":
+                        caixas.append((min(cm[4], cm[4] + cm[0]), min(cm[5], cm[5] + cm[3]),
+                                       abs(cm[0]), abs(cm[3])))
+
+            def _txt(texto, cm, tm, fonte, tamanho):
+                if texto.strip():
+                    textos.append((tm[4] * cm[0] + tm[5] * cm[2] + cm[4],
+                                   tm[4] * cm[1] + tm[5] * cm[3] + cm[5], texto.strip()))
+
+            pag.extract_text(visitor_operand_before=_op, visitor_text=_txt)
+            for x, y, w, h in caixas:
+                if not area or not IMAGEM_FRACAO_MIN <= w * h / area < IMAGEM_FRACAO_MAX:
+                    continue
+                dentro = sum(len(t) for a, b, t in textos if x <= a <= x + w and y <= b <= y + h)
+                if dentro > IMAGEM_TEXTO_DENTRO:
+                    continue
+                abaixo = sorted((-b, a, t) for a, b, t in textos if b < y - 1)
+                linhas = []
+                for b, a, t in abaixo:
+                    if linhas and abs(linhas[-1][0] - b) < 2:
+                        linhas[-1][1].append(t)
+                    else:
+                        linhas.append((b, [t]))
+                seguinte = "\n".join(" ".join(ts) for _, ts in linhas[:3])
+                out.append((n, (x, y, w, h), seguinte))
+        return out
+    except Exception:  # noqa: BLE001 — sem pypdf ou PDF ilegível: sem OCR de imagem
+        return []
+
+
+def _ocr_regiao(caminho, pagina, caixa, pm):
+    """(texto, confiança média) do OCR só da área `caixa` da página, ou None."""
+    try:
+        import pypdf
+        escritor = pypdf.PdfWriter()
+        pag = escritor.add_page(pypdf.PdfReader(caminho).pages[pagina])
+        x, y, w, h = caixa
+        pag.mediabox = pag.cropbox = pypdf.generic.RectangleObject([x, y, x + w, y + h])
+        with tempfile.TemporaryDirectory() as tmp:
+            regiao = os.path.join(tmp, "regiao-imagem.pdf")
+            with open(regiao, "wb") as f:
+                escritor.write(f)
+            texto, conf = pm.ocr(regiao)
+    except Exception:  # noqa: BLE001 — sem pypdf, sem macOS ou PDF ilegível: fica o PDFKit
+        return None
+    return texto, (sum(conf) / len(conf) if conf else 0.0)
+
+
+def inserir_texto_de_imagem(pagina, texto_ocr, seguinte):
+    """Página com as linhas do OCR da imagem antes da linha `seguinte` (ou no fim): regra acima."""
+    compacta, idx = _sem_espacos(pagina)
+    bloco = []
+    for linha in jc.normalizar_pdf(texto_ocr).split("\n"):
+        c = re.sub(r"\s+", "", linha)
+        if not c or _linha_de_timbre(linha):
+            continue
+        if len(c) >= IMAGEM_LINHA_LONGA:
+            if c in compacta:
+                continue
+            m = difflib.SequenceMatcher(None, c, compacta, autojunk=False).find_longest_match(
+                0, len(c), 0, len(compacta))
+            if m.size >= 0.6 * len(c):
+                continue
+        bloco.append(linha.strip())
+    total = sum(len(re.sub(r"\s+", "", x)) for x in bloco)
+    if (len(bloco) < IMAGEM_LINHAS or total < IMAGEM_CARACTERES
+            or total < IMAGEM_MEDIA_LINHA * len(bloco)):
+        return pagina
+    texto = "\n".join(bloco) + "\n"
+    for linha in (seguinte or "").split("\n"):
+        c = re.sub(r"\s+", "", linha)
+        k = compacta.find(c) if len(c) >= 6 else -1
+        if k >= 0:
+            ini = pagina.rfind("\n", 0, idx[k]) + 1
+            return pagina[:ini] + texto + pagina[ini:]
+    return pagina + ("" if not pagina or pagina.endswith("\n") else "\n") + texto
+
+
+def texto_pdf(caminho, pm=pdf_macos, data=None):
     """(páginas, nível, motor, avisos, nº de páginas por OCR). PDFKit primeiro (pypdf fora do
-    macOS); páginas com menos de 20 caracteres passam pelo OCR do Vision."""
+    macOS); páginas com menos de 20 caracteres passam pelo OCR do Vision. `data` (AAAA-MM-DD)
+    do julgado, para as correções de OCR que dependem dela."""
     avisos = []
     try:
         paginas, motor = pm.texto_pdfkit(caminho).split("\f"), "pdfkit"
@@ -166,17 +462,27 @@ def texto_pdf(caminho, pm=pdf_macos):
         paginas = paginas[:-1]
     paginas = [jc.normalizar_pdf(p) for p in paginas]
     if motor == "pdfkit":
-        paginas = [desfazer_sobreposicao(p) for p in paginas]
+        sem_camadas = [desfazer_sobreposicao(p) for p in paginas]
+        pys = _paginas_pypdf_ou_nada(caminho)
+        if pys is not None and len(pys) == len(paginas):
+            sem_camadas = [x if x != p or len(p.strip()) < MIN_CARACTERES_PAGINA
+                           else reordenar_pela_ordem_do_pypdf(p, y)
+                           for p, x, y in zip(paginas, sem_camadas, pys)]
+        paginas = sem_camadas
     vazias = [i for i, p in enumerate(paginas) if len(p.strip()) < MIN_CARACTERES_PAGINA]
     nivel, n_ocr = "pdf-extraido", 0
     if vazias:
         try:
             texto, conf = pm.ocr(caminho)
-            pags_ocr = texto.split("\f")
+            pags_ocr, lidas = texto.split("\f"), []
             for i in vazias:
                 if i < len(pags_ocr) and pags_ocr[i].strip():
-                    paginas[i] = corrigir_ocr(jc.normalizar_pdf(pags_ocr[i]))
+                    paginas[i] = corrigir_ocr(jc.normalizar_pdf(pags_ocr[i]), data)
                     n_ocr += 1
+                    lidas.append(i)
+            contexto = "\n".join(paginas)
+            for i in lidas:
+                paginas[i] = corrigir_siglas_ocr(paginas[i], contexto)
             if n_ocr:
                 nivel = "ocr"
                 confs = [conf[i] for i in vazias if i < len(conf)]
@@ -185,6 +491,22 @@ def texto_pdf(caminho, pm=pdf_macos):
                     ", confiança média %.2f" % (sum(confs) / len(confs)) if confs else ""))
         except pm.ErroPdfMacos:
             avisos.append("%d página(s) sem texto e sem OCR (fora do macOS)" % len(vazias))
+    if motor == "pdfkit":
+        n_img = 0
+        for i, caixa, seguinte in _imagens_sem_texto(caminho):
+            if i >= len(paginas) or i in vazias:
+                continue
+            lido = _ocr_regiao(caminho, i, caixa, pm)
+            if not lido or lido[1] < IMAGEM_CONFIANCA:
+                continue
+            texto = corrigir_siglas_ocr(corrigir_ocr(jc.normalizar_pdf(lido[0]), data),
+                                        "\n".join(paginas))
+            nova = inserir_texto_de_imagem(paginas[i], texto, seguinte)
+            if nova != paginas[i]:
+                paginas[i], n_img = nova, n_img + 1
+        if n_img:
+            nivel = "ocr"
+            avisos.append("OCR de %d imagem(ns) sem texto em página(s) com texto" % n_img)
     return paginas, nivel, motor, avisos, n_ocr
 
 
@@ -304,7 +626,18 @@ _LINHA_TIMBRE = re.compile(
       r"(?:.{0,100}\(\d{6,9}\)\s*)?SEI\s*[\d./\s-]{10,30}/\s*pg\.?\s*\d+|"
       r"COMISS[ÃA]O\s+DE\s+V\s?ALORES\s+MOBILI[ÁA]RIOS", re.I)
 _FRAGMENTO_TIMBRE = "COMISSÃO DE VALORES MOBILIÁRIOS"
+# assinatura do SEI de 2014-2017 pela Lei 11.419/2006 ("..., conforme art. 1º, III, "b", da Lei
+# 11.419/2006."), com o nº de série do certificado (alínea "a") e a versão em inglês; e a sobra
+# dela em linha própria, que começa por vírgula (o PDFKit separa o nome do signatário do fim)
+_LEI_SEI = r"art\.\s*1º\s*,\s*III\s*,\s*\"[ab]\"\s*,\s*da\s+Lei\s+11\.419/2006"
+_SERIE_SEI = r"(?:\s*N[º°]\s*de\s+S[ée]rie\s+do\s+Certificado:\s*\d+\.?)?"
 _SPANS_SEI = (
+    re.compile(r"Documento\s+assinado\s+eletronicamente\s+por\s(?:(?!Documento\s+assinado).){1,300}?"
+               r"conforme\s+" + _LEI_SEI + r"\.?" + _SERIE_SEI, re.S | re.I),
+    re.compile(r"Document\s+electronic(?:ally)?\s+signed\s+by\s(?:(?!Document\s+electronic).){1,300}?"
+               r"art\.\s*1º\s*,\s*III\s*,\s*\"[ab]\"\s*,\s*of\s+Law\s+11\.419/2006\.?"
+               r"(?:\s*Certificate\s+serial\s+number:\s*\d+\.?)?", re.S | re.I),
+    re.compile(r"(?m)^[ \t]*,\s*conforme\s+" + _LEI_SEI + r"\.?" + _SERIE_SEI),
     re.compile(r"Documento\s+assinado\s+eletronicamente\s+por\s.{1,300}?(?:Decreto\s+n\S*\s*8\.539"
                r"(?:,?\s*de\s+8\s+de\s+outubro\s+de\s+2015)?|de\s+8\s+de\s+outubro\s+de\s+2015)\.?",
                re.S | re.I),
@@ -658,8 +991,8 @@ def secao_do_anexo(rotulo):
 class Conversao:
     """Acumula seções, nível, avisos e conferência de um julgado."""
 
-    def __init__(self, pasta, pm):
-        self.pasta, self.pm = pasta, pm
+    def __init__(self, pasta, pm, data=None):
+        self.pasta, self.pm, self.data = pasta, pm, data  # data do julgado, para o OCR
         self.secoes, self.avisos, self.conferencias = [], [], []
         self.nivel, self.paginas_ocr, self.linhas_repetidas = "html-convertido", 0, 0
         self._fontes = []  # (arquivo, caminho, motor, região do HTML)
@@ -675,7 +1008,7 @@ class Conversao:
         return os.path.join(self.pasta, arq["arquivo"])
 
     def pdf(self, arq, limpar_repetidas=True):
-        paginas, nivel, motor, avisos, n_ocr = texto_pdf(self.caminho(arq), self.pm)
+        paginas, nivel, motor, avisos, n_ocr = texto_pdf(self.caminho(arq), self.pm, self.data)
         self._subir(nivel)
         self.paginas_ocr += n_ocr
         self.avisos += ["%s: %s" % (arq["arquivo"], a) for a in avisos]
@@ -896,7 +1229,7 @@ def converter_item(item, pasta, pm=pdf_macos):
     reg = jb.ler_registro(pasta)
     if not reg or not reg.get("arquivos"):
         raise ValueError("%s: fonte não baixada" % item["id"])
-    cv = Conversao(pasta, pm)
+    cv = Conversao(pasta, pm, item.get("data"))
     tipo = item["tipo"]
     principal = reg["arquivos"][0]
     incerteza = list(item.get("incerteza", []))
@@ -916,7 +1249,7 @@ def converter_item(item, pasta, pm=pdf_macos):
     elif tipo == "pas":
         if principal["papel"] == "pagina":
             titulo, d, ementa_pag = pas_da_pagina(cv.html(principal, "pas"))
-            data = d or data
+            data = cv.data = d or data
         else:
             ementa_pag = ""
         pdfs = _arquivos(reg, "pdf", "documento")
@@ -972,6 +1305,7 @@ def converter_item(item, pasta, pm=pdf_macos):
         titulo, d, rel, md = colegiado_da_pagina(cv.html(principal))
         md = cv.timbre(md).strip()
         data, relator = d or data, rel or relator
+        cv.data = data
         secoes = [("Decisão", md)] if md else []
         for arq in _arquivos(reg, "anexo"):
             if jc.anexo_alheio(arq.get("rotulo")):
@@ -992,6 +1326,10 @@ def converter_item(item, pasta, pm=pdf_macos):
             secoes += cv.documento(arq, "Termo de compromisso")
         titulo = "Termo de compromisso – %s" % item.get("processo", "")
         incerteza.append("título montado (tabela de termos de compromisso)")
+        # a data do nome do PDF da CVM nem sempre é a da decisão; vale a da aprovação no texto
+        aprov = data_de_aprovacao("\n".join(t for _, t in secoes))
+        if aprov and aprov != data:
+            data = cv.data = aprov
         ementa = "Termo de compromisso. Proc. %s." % item.get("processo", "")
         fonte = principal
 
@@ -1050,6 +1388,24 @@ def converter_item(item, pasta, pm=pdf_macos):
     return valores, corpo_md, cv
 
 
+_APROVACAO = re.compile(
+    r"aprovad[ao]\s+pelo\s+Colegiado(?:\s+da\s+CVM)?\s+em\s+reuni[ãa]o\s+(?:realizada\s+)?"
+    r"(?:de|em)\s+(\d{1,2})[./](\d{1,2})[./](\d{2,4})", re.I)
+
+
+def data_de_aprovacao(texto):
+    """AAAA-MM-DD de "aprovada pelo Colegiado da CVM em reunião de 09/12/2014", ou None."""
+    m = _APROVACAO.search(texto or "")
+    if not m:
+        return None
+    d, mes, a = (int(x) for x in m.groups())
+    a = a + 2000 if a < 100 else a
+    try:
+        return datetime.date(a, mes, d).isoformat()
+    except ValueError:
+        return None
+
+
 def _preservar_extracao(valores, caminho):
     """Reconversão não apaga a extração (Task 4): ementa e tema extraídos ficam enquanto a fonte
     não trouxer os seus; relator antigo fica se a conversão não achar outro. O resultado já
@@ -1065,7 +1421,10 @@ def _preservar_extracao(valores, caminho):
     if antigo.get("tema_fonte") == "extracao" and not v.get("tema"):
         v["tema"], v["tema_fonte"] = antigo.get("tema", ""), "extracao"
     # ementa extraída: a extração gravou o resultado, também o vazio de suspenso ou sem deliberação
-    if antigo.get("resultado") or antigo.get("ementa_fonte") == "extracao":
+    # Colegiado e termo: o resultado é da extração (também o vazio de julgamento suspenso); a
+    # reconversão não o troca. PAS e CRSFN: o já gravado, quando não vazio, fica.
+    if (antigo.get("resultado") or antigo.get("ementa_fonte") == "extracao"
+            or antigo.get("tipo") in ("decisao-colegiado", "termo-compromisso", "decisao-antiga")):
         v["resultado"] = antigo.get("resultado", "")
     if not v.get("relator") and antigo.get("relator"):
         v["relator"] = antigo["relator"]

@@ -133,6 +133,13 @@ Norma: fora do acervo.
 | art. 4º | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | auditoria-independente | Apurar o descumprimento ao Programa de Educação Profissional Continuada por parte de diversos sócios e responsáveis técnicos de Auditores Independentes - Pessoa Jurídica e de Auditores Independentes - Pessoa Natural referente ao exercício de 2021. Advertência | cvm/pas/2025/19957-015871-2024-32.md |
 | art. 4º | pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | divulgacao-informacoes | Apuração de eventuais irregularidades relacionadas à divulgação de informações por parte do IRB - BRASIL RESSEGUROS S.A. ("IRBR3") e seus administradores. Absolvição. | cvm/pas/2026/19957-003612-2020-35.md |
 
+## art. 5º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 5º, inciso LIV | pas | 04/2009 | 2013-06-11 | condenacao | deveres-administradores | BANCO MERCANTIL BRASIL abuso do poder de controle dos acionistas controladores do Banco Mercantil do Brasil S.A. | cvm/pas/2013/04-2009.md |
+| art. 5º, inciso LV | pas | 04/2009 | 2013-06-11 | condenacao | deveres-administradores | BANCO MERCANTIL BRASIL abuso do poder de controle dos acionistas controladores do Banco Mercantil do Brasil S.A. | cvm/pas/2013/04-2009.md |
+
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

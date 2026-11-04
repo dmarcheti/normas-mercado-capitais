@@ -84,6 +84,12 @@ Norma: fora do acervo.
 | art. 9º, § 3º | decisao-colegiado | 19957.005394/2021-54 | 2021-12-07 | parcial | fundos-investimento | O Colegiado deferiu em parte o pedido de dispensa do art. 39, §2º, da Instrução CVM 356/2001, só para o FIDC NP Cielo, acompanhando a SSE (art. 9º da Instrução CVM 444/2006; cotista exclusivo), e indeferiu o pedido de confidencialidade. Para os demais fundos, a dispensa não foi concedida, por falta de interesse único e indissociável entre cotistas. | cvm/colegiado/2021/col-20211207-d2425.md |
 | art. 9º, § 3º | decisao-colegiado | 19957.009028/2021-74 | 2022-05-31 | parcial | fundos-investimento | Por unanimidade, o Colegiado concedeu dispensa do art. 39, §2º, da Instrução CVM 356 para que um FIDC-NP adquira créditos cedidos por outro fundo gerido pelo gestor do FIDC, e indeferiu o pedido de sigilo, acompanhando a SSE. | cvm/colegiado/2022/col-20220531-d2608.md |
 
+## art. 99
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 99 | decisao-colegiado | 19957.009759/2021-10 | 2022-03-29 | deferido | fundos-investimento | O Colegiado concedeu dispensa do art. 39, §2º, da Instrução CVM nº 356/2001 para que o Energy 21 FIDC-NP adquira créditos de parte relacionada à consultora especializada, acompanhando a SSE: cotista único é fundo exclusivo da cedente, cotas não negociáveis no mercado secundário, gestor não relacionado e enquadramento no art. 9º da Instrução CVM nº 444/2006. | cvm/colegiado/2022/col-20220329-d2545.md |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

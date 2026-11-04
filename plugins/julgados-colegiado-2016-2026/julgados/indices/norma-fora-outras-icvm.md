@@ -107,7 +107,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | cvm/colegiado/2023/col-20230919-d2923.md |
-| decisao-colegiado | 19957.005394/2021-54 | 2021-12-07 | parcial | fundos-investimento | O Colegiado deferiu em parte o pedido de dispensa do art. 39, §2º, da Instrução CVM 356/2001, só para o FIDC NP Cielo, acompanhando a SSE (art. 9º da Instrução CVM 444/2006; cotista exclusivo), e indeferiu o pedido de confidencialidade. Para os demais fundos, a dispensa não foi concedida, por falta de interesse único e indissociável entre cotistas. | cvm/colegiado/2021/col-20211207-d2425.md |
 | decisao-colegiado | RJ2016/8223 | 2017-04-25 | nao-provido | auditoria-independente | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de registro de auditor independente pessoa física pela SNC. Acompanhando o voto do relator, os pareceres emitidos em 2015 comprovam atividade de auditoria apenas no ano de execução, e a Instrução CVM 308/1999 exige cinco anos. | cvm/colegiado/2017/col-20170425-d0428.md |
 
 ## icvm-11
@@ -218,6 +217,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/8516 | 2016-02-16 | provido | fundos-investimento | O Colegiado, acompanhando o voto do diretor relator, concedeu dispensa do art. 39, §2º, da ICVM 356/2001 (vedação à aquisição de créditos de parte relacionada) a FIDC-NP exclusivo, reformando decisão anterior que a havia indeferido, contra proposta da SIN. Fundamento: art. 9º da ICVM 444; cotista único conhecedor dos investimentos e cotas sem negociação no mercado secundário. | cvm/colegiado/2016/col-20160216-d9460.md |
 
+## icvm-36
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2015/3702; 19957.007771/2019-75 | 2022-08-16 | outro | opa | O Colegiado, por unanimidade, acompanhando o voto do relator, extinguiu sem resolução de mérito, por perda do objeto, os recursos contra decisão da SRE sobre OPA por aumento de participação na Usiminas. A SRE havia acolhido pedido da Ternium para não realizar a OPA. | cvm/colegiado/2022/col-20220816-d9718.md |
+
 ## icvm-38
 
 ### Citada sem dispositivo identificado
@@ -319,6 +326,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.015113/2026-86 | 2026-09-18 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, indeferiu, por unanimidade, pedidos intempestivos de acionistas de interrupção e adiamento do prazo de convocação da AGE da Elfa, marcada para 22.09.2026, sobre alteração do estatuto. Em cognição sumária, sem elementos de violação legal nem insuficiência informacional (art. 124, §5º, da Lei 6.404/1976). | cvm/colegiado/2026/col-20260918-d3619.md |
 | decisao-colegiado | 19957.003070/2025-13 | 2025-04-04 | indeferido | assembleia-acionistas | O Colegiado indeferiu, por unanimidade, o pedido de adiamento, por 30 dias, da AGO da Vale marcada para 30.04.2025 (art. 124, §5º, I, da Lei 6.404/1976), acompanhando a SEP, por não restar comprovada insuficiência de informações para a eleição de administradores. Entendeu também não caber apreciar o pedido de inclusão de candidato no proxy card dos ADRs. | cvm/colegiado/2025/col-20250404-d3254.md |
 
 ## icvm-85

@@ -2072,6 +2072,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 6º | acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | processual | RECURSOS VOLUNTÁRIOS. Abuso do poder de controle. Descumprimento do dever de diligência. Não divulgação de fato relevante. Violação de princípios contábeis. Demonstrações financeiras incompletas. Fluência do prazo trienal da prescrição intercorrente (Lei nº 9.873/1999, art. 1º, §1º) antes da instauração formal do processo administrativo sancionador pela citação dos acusados. Superação de entendimento jurisprudencial anteriormente pacificado no CRSFN em sentido contrário (Overruling). Impossibilidade de desconstituição de ato/processo plenamente constituído com fundamento em mudança posterior de orientação geral (LINDB, art. 24, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, art.5º, caput e §1º). Modulação dos efeitos da nova orientação geral. Adoção de regime de transição (LINDB, art. 23, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, arts. 6º e 7º). Desprovimento dos recursos. | crsfn/2020/10372-000380-2016-83.md |
 | art. 6º | acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | processual | RECURSOS VOLUNTÁRIOS Operações cursadas para ajustar o resultado esperado a título de taxa de performance. Fluência do prazo trienal da prescrição intercorrente (Lei nº 9.873/1999, art. 1º, §1º) antes da instauração formal do processo administrativo sancionador pela citação dos acusados. Superação de entendimento jurisprudencial anteriormente pacificado no CRSFN em sentido contrário (Overruling). Impossibilidade de desconstituição de ato/processo plenamente constituído com fundamento em mudança posterior de orientação geral (LINDB, art. 24, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, art.5º, caput e §1º). Modulação dos efeitos da nova orientação geral. Adoção de regime de transição (LINDB, art. 23, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, arts. 6º e 7º). Desprovimento dos recursos. | crsfn/2020/10372-000470-2016-74.md |
 
+## lei-11419
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| acordao-crsfn | 19957.004989/2021-92 | 2025-06-04 | parcial | ofertas-publicas | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. OFERTA PÚBLICA DE CONTRATOS DE INVESTIMENTO COLETIVO, SEM PRÉVIA OBTENÇÃO DE REGISTRO PERANTE A CVM OU SUA DISPENSA. Infração ao art. 19 e §5º, I, da Lei 6.385/1976 e aos arts. 2º e 4º da Instrução CVM 400/2003. Conversão do julgamento em diligência não acolhida. Preliminar de nulidade da citação não acolhida. Infração caracterizada. Erro material no cálculo de multa. Recursos conhecidos. Parcial provimento. Desprovimento. | crsfn/2025/10372-000089-2024-15.md |
+
 ## lei-11529
 
 ### Citada sem dispositivo identificado

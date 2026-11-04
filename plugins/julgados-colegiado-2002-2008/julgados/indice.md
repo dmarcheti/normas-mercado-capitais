@@ -488,6 +488,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-262 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-265 | 16 | [indices/norma-fora-icvm-265.md](indices/norma-fora-icvm-265.md) |
 | icvm-268 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
+| icvm-269 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-27 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-270 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-273 | 149 | [indices/norma-fora-icvm-273.md](indices/norma-fora-icvm-273.md) |
@@ -571,7 +572,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | icvm-369 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-370 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-371 | 12 | [indices/norma-fora-icvm-371.md](indices/norma-fora-icvm-371.md) |
-| icvm-372 | 33 | [indices/norma-fora-icvm-372.md](indices/norma-fora-icvm-372.md) |
+| icvm-372 | 34 | [indices/norma-fora-icvm-372.md](indices/norma-fora-icvm-372.md) |
 | icvm-373 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-375 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
 | icvm-376 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |

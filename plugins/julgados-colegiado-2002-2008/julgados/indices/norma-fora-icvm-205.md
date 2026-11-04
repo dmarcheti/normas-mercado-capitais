@@ -93,6 +93,9 @@ Norma: fora do acervo.
 | art. 14, inciso XV | decisao-colegiado | RJ2004/2057 | 2004-07-13 | indeferido | divulgacao-informacoes | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm/colegiado/2004/col-20040713-d11.md |
 | art. 14, inciso XV | decisao-colegiado | RJ2003/0426 | 2004-08-10 | provido | fundos-investimento | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2003/0426. | cvm/colegiado/2004/col-20040810-d01.md |
 | art. 14, inciso XV | decisao-colegiado | RJ2004/2057 | 2005-01-31 | nao-provido | fundos-investimento | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm/colegiado/2005/col-20050131-d12.md |
+| art. 14, inciso XV, alínea a | decisao-colegiado | RJ2004/2057 | 2005-01-31 | nao-provido | fundos-investimento | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm/colegiado/2005/col-20050131-d12.md |
+| art. 14, inciso XV, alínea b | decisao-colegiado | RJ2004/2057 | 2005-01-31 | nao-provido | fundos-investimento | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm/colegiado/2005/col-20050131-d12.md |
+| art. 14, inciso XV, alínea c | decisao-colegiado | RJ2004/2057 | 2005-01-31 | nao-provido | fundos-investimento | Recurso contra a decisão da SRE em processo de rito sumário. Proc. RJ2004/2057. | cvm/colegiado/2005/col-20050131-d12.md |
 
 ## art. 15
 

@@ -41,17 +41,10 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| acordao-crsfn | 24/00 | 2010-01-26 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários - Criação de condições artificiais de oferta e demanda - Realização de operações fraudulentas – Simulação de negociação de ações no mercado de índice futuro Bovespa em benefício da sociedade distribuidora indiciada no vertente processo - Apelos voluntários não conhecidos ou improvidos - Irregularidades caracterizadas - Recurso de ofício improvido. | crsfn/2010/9634.md |
 | acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação no sistema de intermediação – Realização de operações amparadas em documentos falsos – Falta de diligência na verificação da autenticidade de procurações e no cadastramento de clientes – Irregularidades caracterizadas - Apelos a que se nega provimento. | crsfn/2008/9540.md |
 | acordao-crsfn | – | 2007-03-28 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço nos negócios realizados em bolsas de valores – Falta de caracterização de conduta omissiva da parte dos indiciados, de atendimento a interesses particulares e de inflição de prejuízos a terceiros – Recurso improvido. | crsfn/2007/9428.md |
 
 ## icvm-3
-
-### art. 9º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º | termo-compromisso | SP2005/0155 | 2006-10-03 | aceito | manipulacao-fraude | O Colegiado aceitou a proposta de termo de compromisso da corretora e de seu diretor, no valor conjunto de R$ 40.000,00 a pagar em 30 dias, no processo sobre oscilação de 334,7% nas ações da Cambuci S.A. Pelas razões do Comitê, a conduta dos proponentes limitou-se a questões cadastrais. | cvm/colegiado/2006/col-20061003-d04.md |
 
 ### art. 14
 
@@ -100,18 +93,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | informacao-privilegiada | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 25/2005, por uso de informação privilegiada: a da BNDES Participações S.A. (informar gestores de fundos sobre acordos de acionistas) e a da Iochpe-Maxion S.A. com dois ex-diretores (R$ 50.000,00 e aperfeiçoamento de políticas), por desequilíbrio em relação à conduta. Acompanhou o parecer do Comitê. | cvm/colegiado/2007/col-20071218-d04.md |
 
 ## icvm-5
-
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | termo-compromisso | RJ2010/4953 | 2010-12-28 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso dos administradores, de R$ 350.000,00, acompanhando o Comitê. Acusados de infração ao art. 134, § 1º (votação de demonstrações financeiras) e ao art. 157, § 4º (fato relevante), da Lei 6.404/76. Pagamento como condição para celebração. | cvm/colegiado/2010/col-20101228-d07.md |
-
-### art. 6º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º, parágrafo único | termo-compromisso | RJ2010/4953 | 2010-12-28 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso dos administradores, de R$ 350.000,00, acompanhando o Comitê. Acusados de infração ao art. 134, § 1º (votação de demonstrações financeiras) e ao art. 157, § 4º (fato relevante), da Lei 6.404/76. Pagamento como condição para celebração. | cvm/colegiado/2010/col-20101228-d07.md |
 
 ### Citada sem dispositivo identificado
 
@@ -391,7 +372,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | RJ-2005/2815 | 2009-03-18 | arquivamento | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Conselho fiscal – Constituição do órgão – Direito de eleição, por titulares de ações preferenciais sem direito a voto ou com voto restrito, de um membro e do respectivo suplente – Impossibilidade de os acionistas controladores (mesmo na qualidade de preferencialistas) participarem de processo eletivo dessa natureza – Irregularidade caracterizada – Arquivamento do processo quanto à matéria objeto de subida compulsória - Apelos a que se nega provimento. | crsfn/2009/9198.md |
 | termo-compromisso | 16/01 | 2005-04-08 | aceito | outros | O Colegiado aprovou a celebração de Termo de Compromisso com o Bank of America – Brasil S.A., incorporador do Banco Liberal S.A., e com o Bank of America S.A. CCVM (atual denominação da Liberal S.A. CCVM), por considerar a proposta conveniente e oportuna. O processo segue contra os demais acusados. | cvm/colegiado/2005/col-20050408-d01.md |
 | termo-compromisso | IA16/01 | 2003-11-18 | — | outros | Proposta de termo de compromisso do Banco Liberal S/A e da Liberal S/A CCVM. A relatora votou pela aprovação; um diretor pediu vista. Julgamento suspenso por pedido de vista. | cvm/colegiado/2003/col-20031118-d04.md |
-| termo-compromisso | RJ2001/9705 | 2002-04-09 | aceito | divulgacao-informacoes | Termo de compromisso. | cvm/colegiado/2002/tc-rj2001-9705-20020409.md |
+| termo-compromisso | RJ2001/9705 | 2002-04-09 | aceito | divulgacao-informacoes | Termo de compromisso. Proc. RJ2001/9705. | cvm/colegiado/2002/tc-rj2001-9705-20020409.md |
 
 ## icvm-85
 

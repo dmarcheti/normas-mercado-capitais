@@ -119,14 +119,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | administracao-carteiras | O Colegiado, acompanhando o Memorando 24/2015 (SIN/GIR), negou provimento ao recurso contra indeferimento de credenciamento como consultor de valores mobiliários. Fundamento: não comprovado o período mínimo de três anos em atividade que revele aptidão para análise de investimentos (ICVM 43/1985), aplicado o entendimento do Proc. RJ2011/7177. | cvm/colegiado/2015/col-20150623-d9711.md |
 | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | cvm/colegiado/2015/col-20150616-d9688.md |
 
-## lei-49
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/11888 | 2014-10-22 | parcial | assembleia-acionistas | Em vez de interromper o prazo pedido por acionista minoritário para a AGE da CEB, o Colegiado, acompanhando a SEP, aumentou em 15 dias a antecedência do anúncio, contada da disponibilização do laudo no Sistema IPE (Lei 6.404/76, art. 124, §5º, I). Concordou que não emitir uma classe de ações não suprime o direito de preferência dos titulares. | cvm/colegiado/2014/col-20141022-d01-r2.md |
-
 ## lei-1083
 
 ### Citada sem dispositivo identificado
@@ -1023,6 +1015,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | securitizacao | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com revolvência dos direitos creditórios do agronegócio, acompanhando o voto apresentado após pedido de vista. Fundamento: Lei 11.076/04 e analogia com a substituição de créditos da Instrução CVM 400/03 (Anexo III-A, item 1.7). | cvm/colegiado/2013/col-20131126-d02.md |
 | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |
+
+## lei-11419
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | cvm/colegiado/2015/col-20150616-d9688.md |
 
 ## lei-11437
 

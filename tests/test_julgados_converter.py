@@ -222,6 +222,173 @@ class PecasTest(unittest.TestCase):
                   "".join("Linha %d do voto, com texto próprio.\n" % n for n in range(8)))
         self.assertEqual(conv.desfazer_sobreposicao(normal), normal)
 
+    def test_ordem_do_pypdf_devolve_trecho_puxado_para_o_numero_do_paragrafo(self):
+        pk = ("III – Das Reorganizações\n"
+              "1 0 . RA/CVM/SEP/GEA-5/Nº 149/12):\n"
+              "Em 31.07.09, a companhia iniciou processo de reorganização, nos seguintes termos "
+              "(item 32 do\n"
+              "a) Incorporação da controlada pela subsidiária;\n")
+        py = ("III – Das \nReorganizações\n1 0 .       \n"
+              "Em 31.07.09, a companhia iniciou processo de reorganização, \n"
+              "nos seguintes termos (item 32 do\nRA/CVM/SEP/GEA-5/Nº 149/12):\na)\n    \n"
+              "Incorporação \nda controlada pela subsidiária;\n")
+        dbg = []
+        t = conv.reordenar_pela_ordem_do_pypdf(pk, py, dbg)
+        self.assertIn("1 0 . Em 31.07.09, a companhia", t)
+        self.assertIn("(item 32 do\nRA/CVM/SEP/GEA-5/Nº 149/12):\na) Incorporação", t)
+        self.assertEqual(sorted(t.split()), sorted(pk.split()))
+        self.assertEqual([g for _, g in dbg], ["numero"])
+
+    def test_ordem_do_pypdf_devolve_linha_que_separou_pontuacao_solta(self):
+        pk = ("13. Não é outro o entendimento que se extrai do artigo 9°\n"
+              "importância da função educativa da autarquia, dispõe:\n"
+              ", parágrafo 4°\n"
+              ", da Lei n° 6.385/76, que, evidenciando a\n"
+              "\"§ 4o Na apuração de infrações da legislação\n")
+        py = ("13. \nNão é outro o entendimento que se extrai do artigo 9°, parágrafo 4°, da Lei n° "
+              "6.385/76, que, evidenciando a\nimportância da função educativa da autarquia, dispõe:\n"
+              "\"§ 4\no\n Na apuração de infrações da legislação\n")
+        t = conv.reordenar_pela_ordem_do_pypdf(pk, py)
+        self.assertIn("evidenciando a\nimportância da função educativa da autarquia, dispõe:\n"
+                      "\"§ 4o", t)
+        self.assertIn("artigo 9°\n, parágrafo 4°\n, da Lei", t)
+
+    def test_ordem_do_pypdf_sem_gatilho_ou_longe_fica(self):
+        # nota de rodapé em outro lugar no pypdf, sem número de parágrafo nem pontuação solta
+        pk = ("Texto do voto com uma frase longa sobre o caso.\nNota de rodapé número um.\n"
+              "Outra frase do voto que continua o argumento.\nFim da página.\n")
+        py = ("Texto do voto com uma frase longa sobre o caso.\n"
+              "Outra frase do voto que continua o argumento.\nFim da página.\n"
+              "Nota de rodapé número um.\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(pk, py), pk)
+        # número de parágrafo, mas o destino está a mais de 4 linhas
+        longe = ("7. abertas:\n" + "".join("Linha %s do texto, sem relação.\n" % c for c in "abcdef")
+                 + "A Lei dispõe sobre o uso por administradores de companhias\n")
+        py2 = ("7. " + "".join("Linha %s do texto, sem relação.\n" % c for c in "abcdef")
+               + "A Lei dispõe sobre o uso por administradores de companhias\nabertas:\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(longe, py2), longe)
+        # trecho que começa ou acaba no meio de palavra não se move (tabela em outra ordem)
+        tab = (". Inconformados com a decisão, os apenados abaixo\n"
+               "indicados interpuseram recursos voluntários:\n"
+               "Apenados Fulvio Exemplo Fls.\n3.296/3.312\nCorretora Alfa 3.313/3.319\n")
+        py3 = (". Inconformados com a decisão, os apenados abaixo \n"
+               "indicados interpuseram recursos voluntários: \n \nApenados  Fls.  \n"
+               "Fulvio Exemplo  3.296/3.312  \nCorretora Alfa  3.313/3.319  \n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(tab, py3), tab)
+        # pontuação solta não se move (o "." casa com o de "4." no pypdf)
+        nota = ("o que representa entre 10% e 19% ao ano”\n8\n.\n4. A partir das informações do "
+                "site e da denúncia, a gerência de\nOrientação de Investidores avaliou que o caso "
+                "tinha características de oferta\n")
+        py4 = ("o que representa entre 10% e 19% ao ano”.8 \n4. A partir das informações do site "
+               "e da denúncia, a gerência de \nOrientação de Investidores avaliou que o caso tinha "
+               "características de oferta\n")
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(nota, py4), nota)
+        # trecho que começa com número de parágrafo não se move (levaria o "43. A " embora)
+        par = ("antes da assembleia geral\n42. 43. A administração da companhia apresenta em seu "
+               "recurso um tópico que não foi\nanalisado pela área técnica no parecer: a titularidade"
+               " das ações\nigual ou superior a três meses.\nAcerca da titularidade das ações, a "
+               "necessidade de comprovação está prevista\nno artigo 126 da Lei.\n")
+        py5 = ("antes da assembleia geral\n42\n. \nA administração da companhia apresenta em seu "
+               "recurso um tópico que\n não foi\nanalisado pela área técnica no parecer: a "
+               "titularidade das ações\nigual ou superior a três meses.\n43\n. \nAcerca da "
+               "titularidade das ações, a necessidade de comprovação está prevista\nno artigo 126 "
+               "da Lei.\n")
+        self.assertNotIn("A Acerca", conv.reordenar_pela_ordem_do_pypdf(par, py5))
+        # nada entra logo depois de um número de parágrafo que não é o do trecho
+        cab = ("Assunto: Recurso contra entendimento da área técnica – art. 141, § 4º\n, inciso II,"
+               " Lei das S.A.\nRelator: Diretor Fulano de Exemplo\n– companhias incentivadas.\n"
+               "1. RELATÓRIO\nTrata-se de recurso contra entendimento da área técnica contrário à "
+               "aplicação do inciso\n")
+        py6 = ("Assunto: Recurso contra entendimento da área técnica – art. 141, § 4º, inciso II, "
+               "Lei das S.A. – companhias incentivadas.\nRelator: \nDiretor Fulano de Exemplo\n"
+               "RELATÓRIO\n1\n. \nTrata-se de recurso contra entendimento da área técnica contrário"
+               " à aplicação do inciso\n")
+        self.assertNotIn("1. Relator", conv.reordenar_pela_ordem_do_pypdf(cab, py6))
+        # pypdf vazio ou igual: fica
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(pk, ""), pk)
+        self.assertEqual(conv.reordenar_pela_ordem_do_pypdf(pk, pk), pk)
+
+    def test_texto_pdf_reordena_so_com_o_pypdf_disponivel(self):
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-ordem.pdf")
+        pk = ("Da negociação com uso de informação privilegiada\n7. abertas:\n"
+              "A Lei nº 6404/76, no § 1º do art. 155, assim dispõe sobre o uso\n"
+              "indevido de informações por parte de administradores de companhias\nArt. 155\n")
+        py = ("Da negociação com uso de informação privilegiada\n \n7.         A Lei nº 6404/76, "
+              "no § 1º do art. 155, assim dispõe sobre o uso\nindevido de informações por parte de "
+              "administradores de companhias\nabertas:\nArt. 155\n")
+        pm = PdfFalso({"nao-existe-ordem.pdf": pk})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=1), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=[py]):
+            pags = conv.texto_pdf(caminho, pm)[0]
+        self.assertIn("7. A Lei nº 6404/76", pags[0])
+        self.assertIn("companhias\nabertas:\nArt. 155", pags[0])
+        # sem pypdf (ou PDF ilegível), o texto do PDFKit fica como está
+        for falha in (mock.patch.object(conv, "_pypdf_paginas", return_value=None),
+                      mock.patch.object(conv, "_pypdf_paginas", side_effect=ValueError("x"))):
+            with mock.patch.object(conv, "_numero_de_paginas", return_value=1), falha:
+                self.assertEqual(conv.texto_pdf(caminho, pm)[0], [jc.normalizar_pdf(pk)])
+
+    TABELA_OCR = ("COMISSÃO DE VALORES MOBILIÁRIOS\n"
+                  "Número de entidades autorizadas ao final de cada ano\n"
+                  "Atividade 2019 2020 2021 2022 Em análise\n"
+                  "Entidades administradoras de mercado organizado 1 3 3 4 4\n"
+                  "Depositários centrais de valores mobiliários 1 1 2 2 5\n")
+
+    def test_texto_de_imagem_entra_antes_da_linha_seguinte(self):
+        pagina = ("3. O mercado cresceu a partir desta década.\n"
+                  "4. O incremento das análises exigiu mais servidores.\n")
+        t = conv.inserir_texto_de_imagem(pagina, self.TABELA_OCR, "4. O incremento das análises")
+        self.assertEqual(t, "3. O mercado cresceu a partir desta década.\n"
+                            "Número de entidades autorizadas ao final de cada ano\n"
+                            "Atividade 2019 2020 2021 2022 Em análise\n"
+                            "Entidades administradoras de mercado organizado 1 3 3 4 4\n"
+                            "Depositários centrais de valores mobiliários 1 1 2 2 5\n"
+                            "4. O incremento das análises exigiu mais servidores.\n")
+        # sem a linha seguinte na página: no fim
+        fim = conv.inserir_texto_de_imagem(pagina, self.TABELA_OCR, "")
+        self.assertTrue(fim.startswith(pagina) and fim.endswith("mobiliários 1 1 2 2 5\n"))
+        # linha longa que já está na página não se repete
+        dup = conv.inserir_texto_de_imagem(
+            pagina, self.TABELA_OCR + "4. O incremento das análises exigiu mais servidores.\n", "")
+        self.assertEqual(dup.count("O incremento"), 1)
+
+    def test_texto_de_imagem_curto_ou_so_timbre_nao_entra(self):
+        pagina = "Texto da página com o voto.\n"
+        for ocr in ("COMISSÃO DE VALORES MOBILIÁRIOS\n", "3211\n",
+                    "A HI Gartano\n1751 100\nSPE Q3\nAR AI\n",
+                    "Texto da página com o voto e mais um pouco de texto aqui.\n",
+                    # rótulos de gráfico: muitas linhas curtas
+                    "Volume médio diário\n230\n150\n100\n50\n0\nJan-09 Jul-09 Jan-10\n"
+                    "Gráfico 1 - Índice\n25,00\n40.000,000\n20,00\n35.000,000\n15,00\n30.000,000\n"
+                    "10,00\n25.000,000\n5,00\n20.000,000\n"):
+            self.assertEqual(conv.inserir_texto_de_imagem(pagina, ocr, ""), pagina, ocr)
+
+    def test_texto_pdf_le_imagem_grande_sem_texto_por_ocr(self):
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-img.pdf")
+        pk = ("Texto da primeira página do voto, sem imagem.\f"
+              "3. O mercado cresceu a partir desta década.\n"
+              "4. O incremento das análises exigiu mais servidores.\n")
+        pm = PdfFalso({"nao-existe-img.pdf": pk})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                mock.patch.object(conv, "_imagens_sem_texto",
+                                  return_value=[(1, (40, 570, 520, 240), "4. O incremento")]), \
+                mock.patch.object(conv, "_ocr_regiao", return_value=(self.TABELA_OCR, 1.0)):
+            pags, nivel, _, avisos, n_ocr = conv.texto_pdf(caminho, pm)
+        self.assertIn("década.\nNúmero de entidades", pags[1])
+        self.assertIn("mobiliários 1 1 2 2 5\n4. O incremento", pags[1])
+        self.assertEqual((nivel, n_ocr), ("ocr", 0))
+        self.assertIn("OCR de 1 imagem(ns) sem texto", " ".join(avisos))
+        # confiança baixa ou OCR indisponível: fica o texto do PDFKit
+        for ocr in ((self.TABELA_OCR, 0.5), None):
+            with mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                    mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                    mock.patch.object(conv, "_imagens_sem_texto",
+                                      return_value=[(1, (40, 570, 520, 240), "")]), \
+                    mock.patch.object(conv, "_ocr_regiao", return_value=ocr):
+                self.assertEqual(conv.texto_pdf(caminho, pm)[:2],
+                                 ([jc.normalizar_pdf(x) for x in pk.split("\f")], "pdf-extraido"))
+
     def test_ocr_paragrafo_lido_como_8(self):
         f = conv.corrigir_ocr
         self.assertEqual(f("nos termos do art. 17, 82°, II, da Lei"),
@@ -262,6 +429,39 @@ class PecasTest(unittest.TestCase):
                   "11 - Fatos", "os incisos I e II do § 4º", "incisos 1 e 2 do art. 3º",
                   "Il Sole 24 Ore", "Ilha Grande - RJ", "o Sr. Il - Kim", "11.1 - Das partes"):
             self.assertEqual(f(t), t)
+
+    def test_ocr_siglas_deformadas_da_lista(self):
+        f = conv.corrigir_siglas_ocr
+        ctx = "O PAS tramitou na CVM e na SMI."
+        self.assertEqual(f("no âmbito do PAiS e da CVMi, com a SMIl", ctx),
+                         "no âmbito do PAS e da CVM, com a SMI")
+        # "l" no lugar de "I" vale sem contexto (CNAI, SOI, GOI)
+        self.assertEqual(f("a CNAl e a SOl", ""), "a CNAI e a SOI")
+        # letra a mais só sai se a sigla limpa aparece no documento
+        self.assertEqual(f("no âmbito do PAiS", "sem a sigla"), "no âmbito do PAiS")
+        # fora da lista, ou palavra comum, fica
+        for t in ("o PAIS", "a ABil", "Brasil", "o Sil", "a SOLAR", "CVM"):
+            self.assertEqual(f(t, ctx), t)
+
+    def test_ocr_cnpj_me_so_a_partir_de_2019(self):
+        f = conv.corrigir_ocr
+        self.assertEqual(f("inscrita no CNPJ/ME sob o nº", "2016-04-26"),
+                         "inscrita no CNPJ/MF sob o nº")
+        self.assertEqual(f("inscrita no CNPJ / ME sob o nº", "2018-12-31"),
+                         "inscrita no CNPJ / MF sob o nº")
+        for d in ("2019-01-01", "2022-09-27", None):
+            self.assertEqual(f("inscrita no CNPJ/ME sob o nº", d), "inscrita no CNPJ/ME sob o nº")
+
+    def test_siglas_e_cnpj_corrigidos_so_nas_paginas_por_ocr(self):
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-ocr2.pdf")
+        texto = "Termo com a CVMi e a empresa inscrita no CNPJ/ME sob o nº indicado aqui."
+        pm = PdfFalso({"nao-existe-ocr2.pdf": "Despacho da CVM: " + texto + "\f "},
+                      ocr={"nao-existe-ocr2.pdf": "x\f" + texto})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2):
+            pags = conv.texto_pdf(caminho, pm, data="2016-04-26")[0]
+        self.assertIn("CVMi", pags[0])
+        self.assertIn("CNPJ/ME", pags[0])
+        self.assertIn("com a CVM e a empresa inscrita no CNPJ/MF sob", pags[1])
 
     def test_correcao_de_ocr_so_nas_paginas_por_ocr(self):
         caminho = os.path.join(tempfile.gettempdir(), "nao-existe-ocr.pdf")
@@ -343,9 +543,10 @@ class ConverterTest(unittest.TestCase):
                          ("Ementa publicada.", "cvm", "nao-provido"))
 
     def test_reconversao_so_preenche_resultado_vazio(self):
+        # PAS: o resultado vem do extrato; a reconversão preenche o vazio e não troca o gravado
         novo = {c: "" for c in jc.CAMPOS}
-        novo.update(id="cvm-col-20250101-d2", orgao="cvm", tipo="decisao-colegiado",
-                    data="2025-01-01", ementa="RECURSO", ementa_fonte="titulo")
+        novo.update(id="cvm-pas-rj2025-0001", orgao="cvm", tipo="pas",
+                    data="2025-01-01", ementa="PAS", ementa_fonte="cvm")
         caminho = conv.gravar_julgado(dict(novo), "# X\n", self.raiz)
         conv.gravar_julgado(dict(novo, resultado="indeferido"), "# X\n", self.raiz)
         self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "indeferido")
@@ -361,6 +562,20 @@ class ConverterTest(unittest.TestCase):
         caminho = conv.gravar_julgado(suspenso, "# X\n", self.raiz)
         conv.gravar_julgado(dict(novo, resultado="indeferido"), "# X\n", self.raiz)
         self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "")
+
+    def test_reconversao_nao_troca_resultado_vazio_do_colegiado(self):
+        novo = {c: "" for c in jc.CAMPOS}
+        novo.update(id="cvm-col-20250101-d4", orgao="cvm", tipo="decisao-colegiado",
+                    data="2025-01-01", ementa="RECURSO", ementa_fonte="titulo")
+        caminho = conv.gravar_julgado(dict(novo), "# X\n", self.raiz)
+        conv.gravar_julgado(dict(novo, resultado="nao-provido"), "# X\n", self.raiz)
+        self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "")
+
+    def test_data_de_aprovacao_do_termo(self):
+        self.assertEqual(conv.data_de_aprovacao(
+            "proposta aprovada pelo Colegiado da CVM em reunião de\n09/12/2014, resolvem"),
+            "2014-12-09")
+        self.assertIsNone(conv.data_de_aprovacao("aprovada em 09/12/2014"))
 
     def test_colegiado_com_anexo_termo_sei_e_alheio(self):
         pagina = fixture("colegiado-item.html").replace(b"__CPF__", CPF.encode())
@@ -715,6 +930,31 @@ class TimbreTest(unittest.TestCase):
             self.assertNotIn(fora, limpo)
         self.assertEqual(n, 3)
         self.assertTrue(any("Fulano" in r for r in retirado))
+
+    def test_assinatura_do_sei_pela_lei_11419_sai_inteira(self):
+        texto = ("Atenciosamente,\n"
+                 "Documento assinado eletronicamente por Fulano Exemplo, Gerente, em 06/07/2015,\n"
+                 "às 23:00, conforme art. 1º, III, \"b\", da Lei 11.419/2006.\n"
+                 "Documento assinado eletronicamente por Beltrano Exemplo Silva,\n"
+                 "Superintendente em exercício, em 22/12/2016, às 12:00, conforme art. 1º, III, "
+                 "\"b\", da Lei\n11.419/2006.\n"
+                 "Documento assinado eletronicamente por Ciclano Exemplo, Gerente, em 14/10/2015, "
+                 "às 13:03, conforme art. 1º, III, \"a\", da Lei 11.419/2006. Nº de Série do "
+                 "Certificado:\n1194602908424156303.\n"
+                 "Document electronic signed by Ciclano Exemplo, Gerente, on 14/10/2015, at 13:03, "
+                 "according to\nart. 1º, III, \"a\", of Law 11.419/2006. Certificate serial number: "
+                 "1194602908424156303.\n"
+                 "Superintendente Geral\n"
+                 ", conforme art. 1º, III, \"b\", da Lei 11.419/2006.\n"
+                 ",\nconforme art. 1º, III, \"b\", da Lei 11.419/2006.\n"
+                 ", conforme art. 1º\n, III,\n\"b\"\n, da Lei 11.419/2006.\n"
+                 "Fim do despacho.")
+        limpo, _ = conv.tirar_timbre(texto)
+        self.assertEqual(limpo, "Atenciosamente,\nSuperintendente Geral\nFim do despacho.")
+        # citação da lei no texto fica
+        for t in ("A Lei nº 11.419, de 19 de dezembro de 2006, reconheceu a internet.",
+                  "nos termos do art. 1º, III, \"b\", da Lei 11.419/2006, o documento vale."):
+            self.assertEqual(conv.tirar_timbre(t)[0], t)
 
     def test_rodape_do_sei_em_markdown(self):
         texto = ("CLÁUSULA FINAL. Vale o acordo.\n\n"

@@ -177,6 +177,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/3941 | 2014-12-02 | deferido | intermediacao | O Colegiado aprovou o Projeto de Modernização do Exame de Certificação de Agente Autônomo de Investimento apresentado pela ANCORD (art. 19, parágrafo único, II, ICVM 497/2011), acompanhando a SMI (Memo/SMI/GME/Nº 66/2014), inclusive na recomendação de contratar FGV ou FCC para elaborar e revisar o banco de questões. | cvm/colegiado/2014/col-20141202-d19.md |
 | decisao-colegiado | 505/2011; SP2012/0139 | 2013-01-29 | outro | infraestrutura-mercado | O Colegiado, em consultas da CETIP e da ANBIMA sobre a Instrução CVM 505/11, decidiu que os arts. 19 e 20 (execução de ordens) não se aplicam ao registro de operações de balcão, diversamente da SMI, e acompanhou a SMI nos demais pontos, inclusive quanto ao cadastro. | cvm/colegiado/2013/col-20130129-d15.md |
 
 ## circular-bcb-782008

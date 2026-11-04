@@ -396,12 +396,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-34
 
-### art. 7º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º, inciso II | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
-
 ### art. 156
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1461,6 +1455,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 23, inciso II | pas | 19957.009805/2019-66; 08/2016 | 2019-12-16 | condenacao | deveres-administradores | Descumprimento dos deveres fiduciários, por parte da administração da Petróleo Brasileiro S.A. – PETROBRAS, na contratação da construção dos navios-sondas Petrobras 10.000, Vitória 10.000 e Pride DS-5, bem como na contratação da companhia Schahin Engenharia S.A. como sociedade operadora do navio-sonda Vitória 10.000. Infração ao art. 155, caput, da Lei nº 6.404/76. Reconhecimento de prescrição para o exercício de ação punitiva. Inabilitação temporária. Multas. | cvm/pas/2019/19957-009805-2019-66.md |
 | art. 23, inciso II | pas | 19957.010647/2019-97; 05/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários de administradores da Petrobras na construção da Refinaria Abreu e Lima. Infração aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-010647-2019-97.md |
 | art. 23, inciso II | pas | 19957.011654/2019-14; 06/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários dos administradores da Petrobras na construção do Complexo Petroquímico do Rio de Janeiro. Infrações aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-011654-2019-14.md |
+| art. 23, inciso II | pas | 19957.007759/2020-02 | 2025-12-18 | condenacao | processual | Apurar eventual irregularidade em negócios com Bonds da JBS USA LLC, realizados pela Antigua LLC, e com ações da JBS S.A., realizados pela Antigua LLC e Blessed Holdings LLC. Reconhecimento da preliminar de prescrição da pretensão punitiva. | cvm/pas/2025/19957-007759-2020-02.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2121,14 +2116,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | RJ2016/8347 | 2018-08-07 | parcial | ofertas-publicas | Oferta pública de contratos de investimento coletivo referentes a empreendimentos hoteleiros, sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03, e sem a dispensa prevista no inciso I, do §5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Absolvições, advertências e multas. | cvm/pas/2018/rj2016-8347.md |
 
-## lei-11419
-
-### art. 1º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º, inciso III, alínea b | pas | 25/2010 | 2017-07-04 | condenacao | informacao-privilegiada | Utilização de informação privilegiada na negociação de ações ordinárias de emissão da Aracruz Celulose S.A. Multas. | cvm/pas/2017/25-2010.md |
-
 ## lei-11658
 
 ### Citada sem dispositivo identificado
@@ -2507,6 +2494,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | cvm/pas/2026/19957-011363-2024-85.md |
+
+## lei-14069
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.012778/2022-12 | 2025-02-11 | parcial | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Botafogo Institucional Fundo de Investimento Renda Fixa relativas à data-base de 30/06/2019. Multas e absolvições. | cvm/pas/2025/19957-012778-2022-12.md |
 
 ## lei-14195
 

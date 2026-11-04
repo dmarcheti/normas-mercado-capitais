@@ -1742,6 +1742,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2005/8293 | 2005-12-20 | deferido | assembleia-acionistas | O Colegiado autorizou a Gafisa a manter em tesouraria ações preferenciais resgatáveis classes B e C acima do limite da Instrução CVM 10/80, enquanto durar o gravame. Dispensou a divulgação do laudo do art. 264 da Lei 6.404/76 na ausência de manifestação dos acionistas, que aprovarão a operação. | cvm/colegiado/2005/col-20051220-d10.md |
 | decisao-colegiado | RJ2003/8029 | 2004-02-17 | outro | assembleia-acionistas | Em consulta de escritório de advocacia sobre o resgate de ações da Petrobras Distribuidora (art. 4º, §5º, da Lei 6.404/76), o Colegiado manteve o entendimento da SRE (MEMO/SRE/GER-1/N.º 29/2004): o pagamento deve ser em ações da Petrobras. Alternativamente, a critério do acionista resgatado, as ações podem ser alienadas em mercado, com o produto pago a ele. | cvm/colegiado/2004/col-20040217-d04.md |
 
+## icvm-269
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2003/12469 | 2004-03-09 | nao-provido | contabil-demonstracoes | Recurso contra a decisão da SEP relativo a demonstrações contábeis. Proc. RJ2003/12469. | cvm/colegiado/2004/col-20040309-d08.md |
+
 ## icvm-270
 
 ### art. 1º
