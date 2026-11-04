@@ -624,3 +624,94 @@ class Fase3bReauditoria3Test(unittest.TestCase):
         r = pii.limpar(t)
         self.assertNotIn("456.789", r)
         self.assertNotIn("654.321", r)
+
+
+class Fase4FraseTestemunhasTest(unittest.TestCase):
+    """Task 1b: "Na qualidade de testemunhas, assinaram <nome> e <nome>" no fecho das decisões do
+    Colegiado sobre termo de compromisso (cvm-col-20220222-d2485)."""
+
+    def test_frase_com_dois_nomes(self):
+        t = "*Na qualidade de testemunhas, assinaram Fulana Exemplo de Tal e Beltrano Exemplo Silva*"
+        self.assertEqual(pii.limpar(t),
+                         "*Na qualidade de testemunhas, assinaram %s e %s*" % (M, M))
+
+    def test_italico_quebrado_no_primeiro_nome(self):
+        # cvm-col-20250401-d3245: o HTML fecha o itálico depois da primeira letra do nome
+        t = "*Na qualidade de testemunhas, assinaram* F*ulana Exemplo de Tal e Beltrano Exemplo*"
+        self.assertEqual(pii.limpar(t),
+                         "*Na qualidade de testemunhas, assinaram* %s e %s*" % (M, M))
+
+    def test_tres_nomes_e_ponto_final(self):
+        t = ("Na qualidade de testemunhas, assinaram Fulana Exemplo, Beltrano Exemplo e "
+             "Sicrana Exemplo Teste.")
+        self.assertEqual(pii.limpar(t),
+                         "Na qualidade de testemunhas, assinaram %s, %s e %s." % (M, M, M))
+
+    def test_diretores_na_mesma_frase_ficam(self):
+        # cvm-col-20210608-d2058: diretores assinam o original; só as testemunhas saem
+        t = ("*Original assinado por Diretor Exemplo Um, Diretora Exemplo Dois e Diretor Exemplo "
+             "Tres. Na qualidade de testemunhas, assinaram Fulana Exemplo e Beltrano Exemplo.*")
+        r = pii.limpar(t)
+        self.assertIn("Original assinado por Diretor Exemplo Um, Diretora Exemplo Dois e "
+                      "Diretor Exemplo Tres.", r)
+        self.assertIn("assinaram %s e %s.*" % (M, M), r)
+
+    def test_variantes(self):
+        casos = {
+            "Na qualidade de testemunha, assinou Fulana Exemplo.":
+                "Na qualidade de testemunha, assinou %s." % M,
+            "Como testemunhas, assinaram Fulana Exemplo e Beltrano Exemplo.":
+                "Como testemunhas, assinaram %s e %s." % (M, M),
+            "Assinaram, na qualidade de testemunhas, Fulana Exemplo e Beltrano Exemplo.":
+                "Assinaram, na qualidade de testemunhas, %s e %s." % (M, M),
+            "Na qualidade de testemunhas, assinaram\nFulana Exemplo e Beltrano Exemplo\n":
+                "Na qualidade de testemunhas, assinaram\n%s e %s\n" % (M, M),
+        }
+        for t, esperado in casos.items():
+            self.assertEqual(pii.limpar(t), esperado, t)
+
+    def test_nome_da_frase_sai_no_carimbo(self):
+        t = ("Termo assinado.\n" + "Parágrafo sem dados de ninguém. " * 6 + "\n"
+             "Reconheço por semelhança a firma de FULANA EXEMPLO DE TAL.\n"
+             + "Outro parágrafo sem dados de ninguém. " * 6 + "\n"
+             "Na qualidade de testemunhas, assinaram Fulana Exemplo de Tal e Beltrano Exemplo.")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r)
+        self.assertIn("firma de %s." % M, r)
+
+    def test_parte_que_assinou_como_testemunha_fica(self):
+        # cvm-pas-19957-004416-2016-00 e crsfn-10372-100118-2023-67: o fato do processo
+        casos = [
+            "Como testemunhas, assinaram os conselheiros de administração Fulano Exemplo "
+            "(indicado pelo grupo Alfa) e Beltrano Exemplo (grupo Beta).",
+            "Fulano Exemplo e Beltrano Exemplo assinaram esses documentos na qualidade de "
+            "testemunhas. Em manifestações apresentadas à CVM, ambos reconheceram a assinatura.",
+            "Fulano Exemplo e Beltrano Exemplo voltaram a subscrever, como testemunhas, o Aditivo "
+            "Contratual relativo a Sicrano Exemplo.",
+            "Na qualidade de testemunhas, assinaram Fulano Exemplo e Beltrano Exemplo o contrato "
+            "de mútuo, sem poderes de representação.",
+        ]
+        for t in casos:
+            self.assertEqual(pii.limpar(t), t)
+
+    def test_testemunhas_do_processo_ficam(self):
+        casos = [
+            "É lícito à parte inocente provar com testemunhas a simulação.",
+            "O acusado requereu a oitiva de testemunhas, indeferida pelo Relator.",
+            "As testemunhas de defesa arroladas por Fulano Exemplo foram ouvidas.",
+            "Nos termos do art. 447 do CPC, podem depor como testemunhas todas as pessoas, "
+            "exceto as incapazes, impedidas ou suspeitas.",
+            "o documento foi assinado por duas testemunhas, com firma reconhecida.",
+            "a oitiva da testemunha Fulano Exemplo de Tal, arrolada pela defesa.",
+        ]
+        for t in casos:
+            self.assertEqual(pii.limpar(t), t)
+
+    def test_nome_de_diretor_fica_mesmo_perto_da_frase(self):
+        t = ("O Diretor Fulano Exemplo acompanhou o voto.\n"
+             "*Original assinado por Fulano Exemplo e Beltrana Exemplo*\n\n"
+             "*Na qualidade de testemunhas, assinaram Sicrano Teste e Sicrana Teste*")
+        r = pii.limpar(t)
+        self.assertEqual(r.count("Fulano Exemplo"), 2)
+        self.assertIn("Beltrana Exemplo", r)
+        self.assertNotIn("Sicran", r)

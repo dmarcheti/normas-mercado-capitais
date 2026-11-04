@@ -232,3 +232,7 @@ Exceções (não contam como erro):
 - `cvm-pas-19957-016206-2023-85` cita "art. 545 da RCVM nº 160/2022", artigo que não existe; o índice reproduz a citação como está no texto.
 - Decisões antigas (PDF anual de 1978 a 2001): um arquivo por ano, sem `tema` nem `resultado` por decisão.
 - Taxonomia: `classe: multa-cominatoria` agrupa recurso de multa cominatória, taxa de fiscalização, mecanismo de ressarcimento de prejuízos e fundo de garantia; no resultado do Colegiado, recurso contra indeferimento da área técnica é `provido`/`nao-provido` (SPEC).
+
+## Fase 4: automação (2026-11-04)
+
+- **Testemunhas na frase corrida (Task 1b).** "Na qualidade de testemunhas, assinaram <nome> e <nome>" (191 frases em 186 decisões do Colegiado sobre termo de compromisso; variantes no singular, "como testemunhas" e em ordem invertida: 0 com nome de testemunha) passa a ter os nomes cortados; os 186 julgados foram reconvertidos da fonte com `scripts/reconverter.py` e conferidos por script contra a cópia anterior: a única diferença são os 382 nomes trocados por `[dado pessoal retirado]`.

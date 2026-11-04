@@ -5,6 +5,7 @@
 - **Ofícios SRE com glifo não lido:** 13 Ofícios-Circulares da SRE (2023 e 2024) tinham NUL no lugar de um glifo ("O\x00cios-Circulares", na linha "Referência: Processo nº"), e o grep e o git os tratavam como binários. Reconvertidos da fonte: o glifo, que nem o PDFKit nem o pypdf leem, fica marcado com "�", com aviso no `incerteza`.
 - **Pipeline das normas:** a gravação (`texto_vigente.py`, `leis.py`, `fontes_onda.py`, saída do `converter.py`) tira caractere de controle, como nos julgados; o glifo volta quando o pypdf o lê no mesmo trecho. `texto_vigente.py --ids` reconverte só os itens escolhidos.
 - **Validador:** reprova caractere de controle em normas, partes, atos alteradores e julgados, com o número de ocorrências.
+- **Testemunhas na frase corrida:** o nome das testemunhas em "Na qualidade de testemunhas, assinaram ..." (decisões do Colegiado sobre termo de compromisso) vira `[dado pessoal retirado]`; 186 julgados reconvertidos da fonte, 382 nomes. Novo `scripts/reconverter.py --ids` (ou `--lista`): reconverte por id pelos conversores existentes, separa os ids por conversor, recusa id desconhecido e confere a preservação dos campos extraídos.
 
 ## v1.1.0 (2026-11-04)
 

@@ -263,6 +263,35 @@ _QUALIF2 = re.compile(
 _TESTEMUNHA_ASSIN = re.compile(
     r"(assinad[oa]\s+eletronicamente\s+por\s+)(\**)([^,\n*]{3,90}?)(\**\s*,\s*\**\s*Testemunha)",
     re.I)
+# Frase do fecho das decisões do Colegiado sobre termo de compromisso: "Na qualidade de
+# testemunhas, assinaram Fulano de Tal e Beltrana Exemplo" (singular, "como testemunhas," e a
+# ordem "assinaram, na qualidade de testemunhas, ..."). Saem só os nomes, e só quando a lista
+# vai até o fim da frase: "Como testemunhas, assinaram os conselheiros Fulano (...) e Beltrano"
+# narra o fato do processo (as testemunhas do contrato são partes) e fica.
+# Palavra do nome: maiúscula inicial (o itálico quebrado do HTML põe "*" depois dela: "J*osé")
+# ou inicial com ponto.
+_FRASE_PAL = r"[A-ZÀ-Ý](?:\*{1,2}(?=[a-zà-ÿ]))?(?:[A-Za-zÀ-ÿ'’\-]+|\.)?"
+_FRASE_NOME = (_FRASE_PAL + r"(?:[ \t]+(?:(?:d[aeo]s?|del|di|van|von)[ \t]+)?" + _FRASE_PAL + r")*")
+_FRASE_TESTEMUNHAS = re.compile(
+    r"(?:(?i:na\s+qualidade\s+de\s+testemunhas?)[\s*_]*,?|(?i:como\s+testemunhas?)[\s*_]*,)"
+    r"[\s*_]*(?i:assinaram|assinou)[\s*_]+"
+    r"|(?i:assinaram|assinou)[\s*_]*,[\s*_]*(?i:na\s+qualidade\s+de|como)\s+(?i:testemunhas?)"
+    r"[\s*_]*,[\s*_]+")
+_FRASE_LISTA = re.compile(_FRASE_NOME + r"(?:(?:[ \t]*,[ \t]*|[ \t]+e[ \t]+)" + _FRASE_NOME + r")*"
+                          r"(?=[ \t*_]*(?:[.;]|\n|$))")
+
+
+def _testemunhas_frase(texto):
+    """Nomes da frase "Na qualidade de testemunhas, assinaram X e Y", um trecho por nome."""
+    spans = []
+    for g in _FRASE_TESTEMUNHAS.finditer(texto):
+        lista = _FRASE_LISTA.match(texto, g.end())
+        if lista:
+            spans += [m.span() for m in re.finditer(_FRASE_NOME, texto[:lista.end()])
+                      if m.start() >= lista.start()]
+    return spans
+
+
 # cabeçalho sozinho na linha, ou com resto curto depois dos dois-pontos ("Testemunhas: Fulano")
 _TESTEMUNHAS_CAB = re.compile(
     r"^\s*\**\s*TESTEMUNHAS?\s*\**\s*(?::\s*\**\s*(?P<resto>[^\n]{0,40}?)|\**)\s*$", re.I | re.M)
@@ -490,6 +519,7 @@ def limpar_contando(texto):
             texto = _substituir(texto, spans)
 
     aplica("testemunha", [m.span(3) for m in _TESTEMUNHA_ASSIN.finditer(texto)], lambda t: [t])
+    aplica("testemunha", _testemunhas_frase(texto), lambda t: [t.replace("*", "")])
     aplica("testemunha", _testemunhas_bloco(texto),
            lambda t: [m.group("nome") for m in _NOME_NO_BLOCO.finditer(t)])
     aplica("email", [m.span() for m in _EMAIL.finditer(texto)
