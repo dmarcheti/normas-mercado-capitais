@@ -9,6 +9,7 @@ import os
 import sys
 import tempfile
 import unittest
+from unittest import mock
 
 AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
@@ -173,6 +174,46 @@ class TestAlteradora(unittest.TestCase):
         item = {"numero": 1, "url_dou": "", "url_ato": {}}
         with self.assertRaises(ValueError):
             fo.campos_alteradora(item, "ctresb", None, self.ct, "https://raw/ct.md")
+
+
+class TestGravacaoSemControle(unittest.TestCase):
+    """textos e alteradoras gravam sem caractere de controle (o PDFKit deixa NUL no glifo não lido)."""
+
+    def setUp(self):
+        self.dir = tempfile.TemporaryDirectory()
+        self.fontes = os.path.join(self.dir.name, "fontes")
+        self.alteradoras = os.path.join(self.dir.name, "alteradoras")
+        os.makedirs(self.fontes)
+        os.makedirs(self.alteradoras)
+        for nome, valor in (("FONTES", self.fontes), ("ALTERADORAS", self.alteradoras)):
+            p = mock.patch.object(fo, nome, valor)
+            p.start()
+            self.addCleanup(p.stop)
+        self.addCleanup(self.dir.cleanup)
+
+    def ler(self, caminho):
+        with open(caminho, encoding="utf-8") as f:
+            return f.read()
+
+    def test_textos(self):
+        bruto = "# Resolução\n\nO\x00cios\tsexta\x02feira\x0c\n"
+        with mock.patch.object(fo, "onda", return_value=([{"numero": 9001}], {})), \
+                mock.patch.object(fo, "texto_original", return_value=bruto), mock.patch("sys.stdout"):
+            self.assertEqual(fo.etapa_textos(), 0)
+        self.assertEqual(self.ler(os.path.join(self.fontes, "dou-9001.md")),
+                         "# Resolução\n\nO\ufffdcios\tsexta-feira\n")
+
+    def test_alteradoras(self):
+        with open(os.path.join(self.fontes, "dou-9002.md"), "w", encoding="utf-8") as f:
+            f.write("ato")
+        conteudo = "---\nid: cvm-res-9002\n---\n\nArt. 1º O\x00cios\x7f.\r\n"
+        with mock.patch.object(fo, "onda", return_value=([], {9002: {"numero": 9002}})), \
+                mock.patch.object(fo, "_fonte", return_value=("docx", "x.docx")), \
+                mock.patch.object(fo, "campos_alteradora", return_value=("o", "c", "a" * 64, "")), \
+                mock.patch.object(fo, "escrever_alteradora", return_value=conteudo), mock.patch("sys.stdout"):
+            self.assertEqual(fo.etapa_alteradoras(), 0)
+        with open(os.path.join(self.alteradoras, "9002.md"), encoding="utf-8", newline="") as f:
+            self.assertEqual(f.read(), "---\nid: cvm-res-9002\n---\n\nArt. 1º O\ufffdcios.\r\n")
 
 
 if __name__ == "__main__":
