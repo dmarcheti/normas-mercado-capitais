@@ -35,6 +35,9 @@ CORPO = ("# RECURSO CONTRA DECISÃO DA SEP – ACME S.A. – PROC. 19957.000001/
          "provimento ao recurso de Beltrano Exemplar contra a multa.\n")
 
 
+RESULT = json.dumps({"type": "result", "total_cost_usd": 0.01})
+
+
 class Arvore(unittest.TestCase):
     def setUp(self):
         self.raiz = tempfile.mkdtemp()
@@ -313,6 +316,71 @@ class ExecucaoTest(Arvore):
         with self.assertRaises(ValueError):
             ex.pasta_de_trabalho(os.path.join(jc.RAIZ, "dados"))
 
+    def rodar_reprovado(self, log=None, erro=None):
+        """Roda um lote cujo modelo grava um saida.json válido; `log` é o stdout ou `erro` a
+        exceção do subprocess. Devolve (execucao.json, stderr) e confere que nada foi aplicado."""
+        c = self.julgado("cvm-col-1", ementa="Recurso.", ementa_fonte="titulo", classe="recurso")
+
+        def falso(cmd, input, cwd, capture_output, text, timeout):  # noqa: A002
+            lote = ler(os.path.join(cwd, "lote.json"))
+            with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
+                json.dump([{"id": x["id"], "ementa": "Recurso contra multa; negado.",
+                            "tema": "processual"} for x in lote], f)
+            if erro is not None:
+                raise erro
+            return mock.Mock(returncode=0, stdout=log, stderr="")
+
+        trabalho = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, trabalho)
+        with mock.patch.object(ex.subprocess, "run", side_effect=falso), \
+                redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()) as err:
+            ex.main(["--ids", "cvm-col-1", "--model", "haiku", "--raiz", self.raiz,
+                     "--saida", self.saida, "--trabalho", trabalho])
+        lote = os.path.join(self.saida, sorted(os.listdir(self.saida))[0])
+        info = ler(os.path.join(lote, "execucao.json"))
+        self.assertFalse(info["saida"])
+        self.assertTrue(info["reprovado"])
+        self.assertIn("lote reprovado", err.getvalue())
+        self.assertFalse(os.path.exists(os.path.join(lote, "saida.json")))
+        v, _ = ex.ler_julgado(c)
+        self.assertEqual((v["ementa"], v["tema"]), ("Recurso.", ""))  # nada aplicado
+        return info, err.getvalue()
+
+    @staticmethod
+    def uso(nome, **entrada):
+        return json.dumps({"type": "assistant", "message": {"content": [
+            {"type": "tool_use", "name": nome, "input": entrada}]}})
+
+    def test_lote_com_escrita_fora_da_pasta_e_reprovado(self):
+        info, _ = self.rodar_reprovado("\n".join([
+            self.uso("Write", file_path="/private/tmp/fora.txt", content="x"), RESULT]))
+        self.assertEqual(info["reprovado"],
+                         ["ferramenta com caminho fora da pasta de trabalho: /private/tmp/fora.txt"])
+
+    def test_log_vazio_com_saida_e_reprovado(self):
+        info, _ = self.rodar_reprovado("")
+        self.assertIn("sem evento result", info["reprovado"][0])
+
+    def test_log_truncado_sem_result_e_reprovado(self):
+        info, _ = self.rodar_reprovado("\n".join([
+            json.dumps({"type": "system", "subtype": "init"}),
+            self.uso("Write", file_path="saida.json", content="[]")]))
+        self.assertEqual(len(info["reprovado"]), 1)
+        self.assertIn("sem evento result", info["reprovado"][0])
+
+    def test_linha_que_nao_e_json_no_meio_e_reprovada(self):
+        info, _ = self.rodar_reprovado("\n".join([
+            json.dumps({"type": "system"}), '{"type": "assistant", "mess', RESULT]))
+        self.assertEqual(info["reprovado"], ["1 linha(s) do stream-json que não são JSON"])
+
+    def test_ferramenta_fora_de_read_e_write_e_reprovada(self):
+        info, _ = self.rodar_reprovado("\n".join([self.uso("Bash", command="ls"), RESULT]))
+        self.assertEqual(info["reprovado"], ["ferramenta fora de Read e Write: Bash"])
+
+    def test_timeout_com_saida_parcial_e_reprovado(self):
+        info, _ = self.rodar_reprovado(erro=ex.subprocess.TimeoutExpired("claude", 900))
+        self.assertEqual(info["codigo"], "timeout")
+
     def test_roda_valida_e_aplica(self):
         c_tit = self.julgado("cvm-col-1", ementa="Recurso contra decisão da SEP.",
                              ementa_fonte="titulo", classe="recurso")
@@ -391,7 +459,7 @@ class ExecucaoTest(Arvore):
                      for x in lote]
             with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
                 json.dump(saida, f)
-            return mock.Mock(returncode=0, stdout="", stderr="")
+            return mock.Mock(returncode=0, stdout=RESULT, stderr="")
 
         with mock.patch.object(ex.subprocess, "run", side_effect=falso), \
                 redirect_stdout(io.StringIO()) as out, redirect_stderr(io.StringIO()):

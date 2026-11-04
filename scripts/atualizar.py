@@ -23,7 +23,8 @@ Classes (seção 2 do plano):
   C   aviso e pendente da B1; o replay por LLM fica manual (precisa-diogo, "replay manual").
   F   Parecer de Orientação ou Ofício-Circular novo: texto_vigente --camada 2; OCR vira F-OCR.
   G   lei: leis.montar_lei, teste_lei e a regra das notas do Planalto (toda linha nova traz nota
-      de alteração de ato posterior à data-base anterior).
+      de alteração de ato posterior à data-base anterior; linha removida sem substituição só com
+      nota "(Revogado ...)" posterior no mesmo dispositivo; o frontmatter fica fora da regra).
   H   BCB, versão nova: acervo-bcb (inventario_bcb.detalhar) e texto_vigente --camada 4.
   I   ANBIMA, PDF novo: só troca de URL (tamanho igual) atualiza o registro; senão a entrada
       antiga vira "anterior" e texto_vigente --camada 5.
@@ -626,18 +627,86 @@ def _ano(data):
     return int(m.group(1)) if m else 0
 
 
-def linhas_sem_nota(diff, ano_base):
-    """Linhas novas (fora do frontmatter) sem nota do Planalto de ato do ano-base em diante."""
+D_ART = re.compile(r"^(?:#+\s*)?Art\.\s*(\d+[ºo°]?(?:\s*-\s*[A-Z]+)?)")
+D_PAR = re.compile(r"^(§\s*\d+[ºo°]?(?:\s*-\s*[A-Z]+)?|Par[áa]grafo\s+[úu]nico)", re.I)
+D_INC = re.compile(r"^([IVXLCDM]+)\s*[-–—]")
+D_ALI = re.compile(r"^([a-z])\)")
+
+
+def _corpo_linhas(texto):
+    """Linhas do texto sem o frontmatter (o frontmatter não entra na regra das notas)."""
+    linhas = (texto or "").splitlines()
+    if linhas and linhas[0].strip() == "---":
+        for k in range(1, len(linhas)):
+            if linhas[k].strip() == "---":
+                return linhas[k + 1:]
+    return linhas
+
+
+def _dispositivos(linhas):
+    """Chave (artigo, parágrafo, inciso, alínea) de cada linha; linha sem rótulo herda a do
+    dispositivo em que está (caput do artigo, texto depois de inciso etc.)."""
+    art = par = inc = None
+    chaves = []
+    for linha in linhas:
+        t = linha.strip()
+        m = D_ART.match(t)
+        if m:
+            art, par, inc = re.sub(r"\s+", "", m.group(1)), None, None
+            chaves.append((art, None, None, None))
+            continue
+        m = D_PAR.match(t)
+        if m:
+            par, inc = re.sub(r"\s+", "", m.group(1)).lower(), None
+            chaves.append((art, par, None, None))
+            continue
+        m = D_INC.match(t)
+        if m:
+            inc = m.group(1)
+            chaves.append((art, par, inc, None))
+            continue
+        m = D_ALI.match(t)
+        chaves.append((art, par, inc, m.group(1) if m else None))
+    return chaves
+
+
+def _tem_nota(t, ano_base, revogacao=False):
+    notas = NOTA_PLANALTO.findall(t)
+    if revogacao:
+        notas = [n for n in notas if re.match(r"\(Revogad", n, re.I)]
+    anos = [int(a) for n in notas for a in re.findall(r"\b(1[89]\d\d|20\d\d)\b", n)]
+    return bool(anos) and max(anos) >= ano_base
+
+
+def _contem(pai, filho):
+    """`pai` é o próprio dispositivo de `filho` ou um que o contém (artigo, parágrafo, inciso)."""
+    return pai[0] is not None and pai[0] == filho[0] and all(
+        p is None or p == f for p, f in zip(pai[1:], filho[1:]))
+
+
+def linhas_sem_nota(antigo, novo, ano_base):
+    """Linhas do corpo (sem frontmatter) que a regra da G não cobre, com "+" (nova) ou "-"
+    (removida) na frente. Linha nova precisa de nota do Planalto de ato do ano-base em diante.
+    Linha removida sem substituição (nenhuma linha nova do mesmo dispositivo no mesmo trecho
+    alterado) precisa de nota "(Revogado ...)" do ano-base em diante, na versão nova, no mesmo
+    dispositivo ou num que o contém. Nenhuma linha é pulada por formato (ex.: "Parágrafo único:")."""
+    a, n = _corpo_linhas(antigo), _corpo_linhas(novo)
+    ka, kn = _dispositivos(a), _dispositivos(n)
+    revogados = [kn[j] for j, t in enumerate(n) if _tem_nota(t, ano_base, revogacao=True)]
     fora = []
-    for linha in diff.split("\n"):
-        if not linha.startswith("+") or linha.startswith("+++"):
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, n).get_opcodes():
+        if op == "equal":
             continue
-        t = linha[1:].strip()
-        if not t or t == "---" or re.match(r"^[a-z_]+:", t):
-            continue
-        anos = [int(a) for n in NOTA_PLANALTO.findall(t) for a in re.findall(r"\b(1[89]\d\d|20\d\d)\b", n)]
-        if not anos or max(anos) < ano_base:
-            fora.append(t)
+        novas = {kn[j] for j in range(j1, j2) if n[j].strip()}
+        for j in range(j1, j2):
+            t = n[j].strip()
+            if t and not _tem_nota(t, ano_base):
+                fora.append("+" + t)
+        for i in range(i1, i2):
+            t = a[i].strip()
+            if not t or ka[i] in novas or any(_contem(k, ka[i]) for k in revogados):
+                continue
+            fora.append("-" + t)
     return fora
 
 
@@ -670,7 +739,7 @@ def aplicar_g(amb, it, r, guarda):
         d = "\n".join(difflib.unified_diff((antigo or "").splitlines(), novo.splitlines(), "a/" + rel,
                                            "b/" + rel, n=0, lineterm=""))
         diffs.append(d)
-        sem_nota += linhas_sem_nota(d, ano_base)
+        sem_nota += linhas_sem_nota(antigo, novo, ano_base)
     r["esperados"].append(os.path.join(pasta, nome))
     r["diff"] = "\n".join("\n".join(diffs).splitlines()[:60])
     rc, out, _ = amb.script("teste_lei.py", it["id"], "--html", html_arq)
@@ -678,8 +747,11 @@ def aplicar_g(amb, it, r, guarda):
     if rc != 0:
         return para_diogo(r, "teste_lei: %s" % (out.strip().splitlines() or ["falhou"])[-1])
     if sem_nota:
-        return para_diogo(r, "%d linha(s) nova(s) sem nota do Planalto de ato posterior a %d"
-                          % (len(sem_nota), ano_base))
+        novas = sum(1 for x in sem_nota if x.startswith("+"))
+        partes = (["%d linha(s) nova(s)" % novas] if novas else []) + (
+            ["%d linha(s) removida(s)" % (len(sem_nota) - novas)] if len(sem_nota) > novas else [])
+        return para_diogo(r, "%s sem nota do Planalto de ato posterior a %d"
+                          % (" e ".join(partes), ano_base))
     r["norma_alterada"] = True
     return r
 
