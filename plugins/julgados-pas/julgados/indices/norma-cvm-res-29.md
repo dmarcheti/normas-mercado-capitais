@@ -7,12 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0029.md](../../../normas/normas/cvm/resolucoes/0029.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
-## art. 54
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 54 | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | informacao-privilegiada | Apurar suposta prática de negociação de ativos em períodos vedados, em infração ao disposto no art. 54 da Resolução CVM nº 160/2022 e no art. 14 da Resolução CVM nº 44/2021. Absolvição e Advertência. | cvm/pas/2024/19957-016206-2023-85.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

@@ -8,6 +8,27 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## icvm-5
+
+### art. 23
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 23, inciso II | pas | RJ2003/1631 | 2005-01-28 | parcial | auditoria-independente | FERNANDO MOTTA & ASSOCIADOS AUDITORES INDEPENDENTES E OUTROS a) Prestação de serviços de auditoria independente concomitante com o de consultoria. Infração ao item II do artigo 23 da Instrução CVM nº 308/99, mas, em face de liminar concedida a expressivo grupo de auditores filiados ao Sindicato de São Paulo, seria injusto aplicar a norma ao caso; b) Não observância das normas de auditoria emanadas do C.F.C e do IBRACON relativas à necessidade de planejamento da auditoria e de programas escritos de trabalho (infração ao artigo 20 e ao item I do artigo 35 da Instrução CVM nº 308/99); c) Auditoria inepta pela utilização de procedimentos alternativos para calcular o estoque da companhia auditada sem qualquer referência no parecer ou em substituição à contagem física (infração ao item II do artigo 35 da Instrução CVM nº 308/99). | cvm/pas/2005/rj2003-1631.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.010029/2021-61 | 2025-07-22 | absolvicao | auditoria-independente | Apurar a responsabilidade por descumprimento ao disposto no art. 20 da Instrução CVM nº 308, de 14 de maio de 1999 (vigente à época), posteriormente substituída pela Resolução CVM nº 23/21, em função da suposta inobservância ao disposto nas normas brasileiras de contabilidade para auditoria independente de informação contábil histórica, então vigentes, previstas nos itens 4 da NBC TA 580 (R1); 5, 6 e 8 da NBC TA 230 (R1); 8, 9, A22, A27, A28, A31, A32, A33 e A39 ao A41 da NBC TA 540 (R1); e 11 e 17 da NBC TA 200 (R1), vigentes à época, quando da realização dos trabalhos de auditoria independente desenvolvidos em Fundo de Investimento Imobiliário para o exercício social findo em 31.12.18. Absolvições. | cvm/pas/2025/19957-010029-2021-61.md |
+| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | auditoria-independente | Apurar responsabilidade de auditor independente e seu responsável técnico, por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99; e também ao art. 25, IV, da mesma Instrução. Absolvição. | cvm/pas/2024/19957-010467-2021-20.md |
+| pas | 19957.009778/2018-41 | 2022-06-14 | condenacao | ofertas-publicas | Oferta pública de contratos de investimento coletivo hoteleiro, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2022/19957-009778-2018-41.md |
+| pas | SP2017/493 | 2019-09-24 | condenacao | divulgacao-informacoes | Omissão de informações sobre transações com partes relacionadas. Falhas informacionais nos formulários de referência e demonstrações financeiras da Bahema S.A. Infração ao art. 177, §3º, da Lei nº 6.404/76, c/c o item 18 do Pronunciamento Técnico CPC 05 (R1). Infração aos artigos 14, 24 e 45 da Instrução CVM nº 480/09. Multas Data decisão CVM Tue Sep 24 14:54:00 BRT 2019 | cvm/pas/2019/sp2017-0493.md |
+| pas | RJ2008/2916 | 2010-03-23 | condenacao | registro-emissor | Não envio de informações periódicas e eventuais, em infração aos artigos 13, 16 e 17 da Instrução CVM nº 202/93 – Multas. - Não elaboração de demonstrações financeiras, em violação ao art. 176 da Lei nº 6.404/76 - Não convocação de Assembléias Gerais Ordinárias, em infração aos artigos 132 e 142, IV, da Lei nº 6.404/76 e ao art. 20, “c”, do estatuto social da companhia – Multas. | cvm/pas/2010/rj2008-2916.md |
+| pas | 18/2006 | 2009-12-15 | condenacao | exercicio-irregular | [pessoa física] Consultoria Financeira Ltda. Caracterização de atuação como administrador de carteira sem a devida autorização da CVM – Atuação como agente autônomo de investimento sem registro na CVM – multas. | cvm/pas/2009/18-2006.md |
+| pas | RJ2008/6250 | 2009-10-20 | parcial | registro-emissor | METALON Indústrias Reunidas S/A - Não atualização do registro de companhia aberta da Metalon Indústrias Reunidas S/A - não envio de informações periódicas e eventuais, a partir de 31.03.2001 até 05.10.2004 - Multas. - Não elaboração, no devido prazo legal, das DFs referentes aos exercícios sociais findos em 31.12.2000 a 31.12.2003 - Multas. - Não convocação e não realização das AGOs referentes aos exercícios sociais findos em 31.12.2000 a 31.12.2003 - Multas. | cvm/pas/2009/rj2008-6250.md |
+| pas | SP2005/0128 | 2006-05-09 | parcial | exercicio-irregular | Exercício da atividade de agente autônomo de investimentos e de intermediação de valores mobiliários sem autorização da CVM, em infração ao artigo 16 da Lei nº 6.385/76, regulamentado pela Instrução CVM nº 355/01. Multa e absolvições. - Contratação, por parte de sociedade corretora, de empresas não integrantes do sistema de distribuição para a atividade de intermediação de valores mobiliários e captação de clientes, em infração ao disposto no artigo 16 da Lei nº 6.385/76, o que é considerado infração grave pela Instrução CVM nº 348/01. Multa. | cvm/pas/2006/sp2005-0128.md |
+
 ## icvm-7
 
 ### Citada sem dispositivo identificado
@@ -17,12 +38,17 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | ofertas-publicas | Apurar supostas irregularidades na emissão de debêntures da Sugoi, nos termos da Instrução CVM nº 476/2009. Absolvição. | cvm/pas/2024/19957-003673-2020-01.md |
 | pas | 07/2013 | 2019-10-08 | condenacao | manipulacao-fraude | Apurar irregularidades na negociação de contratos futuros intermediados pela Walpires S.A. Corretorade Câmbio, Títulos e Valores Mobiliários. Infração ao item Ida Instrução CVM nº 08/79. Infração aos artigos 16, 17 e 18 da Instrução CVM nº 434/06. Multas. Advertências. Proibições Temporárias. Data decisão CVM Tue Oct 08 13:29:00 BRT 2019 | cvm/pas/2019/07-2013.md |
 | pas | SP2013/292 | 2016-07-19 | condenacao | exercicio-irregular | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Exercício irregular da atividade de agente autônomo de investimento – não comunicação à CVM de alterações cadastrais – prática de atos que ferem a relação fiduciária entre investidores e a instituição intermediária. Multas e proibições temporárias para o exercício de atividade de agente autônomo de investimento. | cvm/pas/2016/sp2013-0292.md |
-| pas | RJ2011/13095 | 2013-12-10 | condenacao | divulgacao-informacoes | Ferragens Aparelhos Elétricos Atraso no envio à CVM de informações periódicas obrigatórias. Multa. | cvm/pas/2013/rj2011-13095.md |
 | pas | RJ2009/1365 | 2010-07-13 | parcial | divulgacao-informacoes | TÊXTIL RENAUVIEW S/A Não divulgação de fato relevante referente à alienação de participação acionária superior a 5% nas operações realizadas nos dias 6 de janeiro e 9 de novembro de 2006. Multas. Imputação de infração ao art. 12 da Instrução CVM nº 358/02, em relação às operações realizadas em 25 de outubro de 2006. Absolvições. | cvm/pas/2010/rj2009-1365.md |
 | pas | 06/2001 | 2004-12-09 | parcial | deveres-administradores | Infração ao § 3º do art. 170, combinado com o art. 8º, ambos da Lei n° 6.404/76. Inabilitações. Infração ao § 4º do art. 157 da Lei 6.404/76, combinado com os arts. 2º e 3º da Instrução CVM n° 31/84. Inabilitações. Infração ao art. 153 e aos incisos III e V do art. 142, da Lei n° 6.404/76. Inabilitações. Infração aos artigos 153 e 176, da Lei n° 6.404/76; Inabilitações. Infração ao item I, cuja conduta é conceituada no item II, alínea ‘b’, ambos da Instrução CVM n° 08/79. Multas e absolvições. Infração ao item II da Instrução CVM nº 18/81. Absolvição. | cvm/pas/2004/06-2001.md |
 | pas | 29/1998 | 2001-09-13 | parcial | exercicio-irregular | Intermediação irregular de valores mobiliários (Garimpagem). Multa. Impossibilidade de co-responsabilidade de instituições integrantes do sistema de distribuição de valores mobiliários. Absolvição. II - Incorreto preenchimento de fichas cadastrais de clientes e ausência de sistema de controle de conta-correntes. Responsabilidade do diretor responsável. Multa. III - Embaraço à fiscalização. Multa. | cvm/pas/2001/29-1998.md |
 
 ## icvm-9
+
+### art. 20
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 20 | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Multas | cvm/pas/2024/19957-011109-2019-10.md |
 
 ### Citada sem dispositivo identificado
 
@@ -34,15 +60,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2013/0509 | 2015-01-27 | condenacao | divulgacao-informacoes | Não divulgação de fato relevante. | cvm/pas/2015/rj2013-0509.md |
 | pas | SP2005/0155 | 2007-08-21 | parcial | informacao-privilegiada | É vedada, como prática não eqüitativa, a negociação com valores mobiliários realizada por quem quer que, em virtude de seu cargo, função ou posição, tenha conhecimento de informação relativa a ato, ou fato relevante, antes de sua comunicação e divulgação ao mercado. - Imputação de uso de informação privilegiada: advertências e absolvições. - Não divulgação de fato relevante: multa. | cvm/pas/2007/sp2005-0155.md |
 | pas | 22/1996 | 2006-05-03 | parcial | intermediacao | Ocorrência de operações fraudulentas no mercado de valores mobiliários, definidas na alínea “c” do item II e vedadas pelo item I, ambos da Instrução CVM nº 08/79: multa e inabilitação. - Descumprimento do disposto no inciso V do artigo 12 do Regulamento anexo à Resolução CMN nº 1.120/86, com a redação dada pela Resolução CMN nº 1.653/89: multa e inabilitação. - Descumprimento do disposto na letra “a” do item I da Instrução CVM nº 107/89, vigente até 19.12.94 e, posteriormente, o inciso II do artigo 8º da Instrução CVM nº 220/94: multa, inabilitação e absolvição. - Descumprimento do disposto no caput do artigo 41 da Lei nº 6.404/76, no artigo 1º da Instrução CVM nº 89/88 e no artigo 1º da Instrução CVM nº 115/90: multa, inabilitação e absolvição. | cvm/pas/2006/22-1996.md |
-| pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ## icvm-11
-
-### art. 29
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29 | pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ### Citada sem dispositivo identificado
 
@@ -52,7 +71,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.008371/2023-63 | 2024-02-27 | condenacao | auditoria-independente | Apuração de responsabilidade de sociedade de auditores por não cumprimento de regulamentação associada ao Programa de Educação Profissional Continuada, em infração aos arts. 20 e 34 da Instrução CVM n° 308/1999, à época vigente. Multa. | cvm/pas/2024/19957-008371-2023-63.md |
 | pas | SP2012/480 | 2015-10-06 | condenacao | exercicio-irregular | Administração irregular de carteira de valores mobiliários - prática de administrador de carteira de valores mobiliários sem a prévia autorização da CVM - operação fraudulenta e concurso para a prática de operações fraudulentas. Suspensão e multas. | cvm/pas/2015/sp2012-0480.md |
 | pas | RJ2012/1730 | 2015-05-19 | absolvicao | divulgacao-informacoes | Suposto descumprimento, por parte do DRI da companhia, do dever de fornecer informações obrigatórias. Absolvição. | cvm/pas/2015/rj2012-1730.md |
-| pas | RJ2012/4062 | 2013-12-17 | parcial | assembleia-acionistas | Universo Online S.A. Impedimento de exercício do direito de voto em assembleias de acionistas titulares de ações em circulação. Multa. | cvm/pas/2013/rj2012-4062.md |
 | pas | RJ2005/033 | 2005-10-05 | parcial | assembleia-acionistas | Infração ao art. 3º da Instrução CVM nº 165/91, que dispõe sobre inclusão de informação obrigatória (percentual mínimo de participação no capital votante necessário à requisição da adoção do voto múltiplo) no edital de convocação de assembléia geral. | cvm/pas/2005/rj2005-0033.md |
 
 ## icvm-12
@@ -67,10 +85,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
 | pas | RJ2017/646 | 2018-11-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou multa de R$ 157.575,86 ao acusado, duas vezes o ganho econômico de R$ 64.979,00, atualizado pelo IPCA para R$ 78.787,93, por manipulação de preços de vários ativos em bolsa entre 21/10/2013 e 10/02/2015, em infração ao inciso I da Instrução CVM 8/79. | cvm/pas/2018/rj2017-0646.md |
 | pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou ao acusado proibição temporária, por cinco anos, de atuar em qualquer operação no mercado de valores mobiliários, por manipulação de preços de vários ativos negociados em bolsa entre 20/01/2012 e 14/01/2013, em infração ao inciso I da Instrução CVM 08/79. Fundamento: art. 11 da Lei 6.385/76. | cvm/pas/2018/rj2015-12130.md |
-| pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
 
 ## icvm-14
 
@@ -81,6 +97,18 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 12 | pas | 33/1999 | 2001-08-30 | parcial | manipulacao-fraude | AÇÃO S/A CVC, [pessoa física] E OUTROS Ementa: I. Empréstimo de ações intermediado por corretora, em prejuízo dos clientes. Operação fraudulenta nos termos da Instrução CVM 8/79. Multa sobre o valor da operação. II. Descumprimento da Instrução CVM 51/86. Multa. III. Irregularidades operacionais de corretora apontadas por auditorias da BVRJ. Inabilitação temporária do diretor e multa à sociedade. IV. Absolvição dos demais indiciados. | cvm/pas/2001/33-1999.md |
 | art. 12 | pas | SP2003/100 | 2004-09-09 | condenacao | intermediacao | Infração ao art. 12, caput, da Instrução CVM nº 14/80. | cvm/pas/2004/sp2003-0100.md |
 | art. 12 | pas | SP2005/0371 | 2006-06-14 | parcial | intermediacao | Não manutenção de cadastro de cliente atualizado, em suposta infração ao art. 3º da Instrução CVM nº 220/94. Absolvição. - Intermediação de operações no mercado de opções sem a celebração de contrato específico com o cliente, configurando-se a infração ao art. 12 da Instrução CVM nº 14/80. Advertência. | cvm/pas/2006/sp2005-0371.md |
+
+### art. 32
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 32, inciso I | pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | intermediacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art. 4°, inciso I, ambos da Instrução CVM nº 542/2013 e art. 30, caput e parágrafo único, e art. 32, inciso I, combinados com o art. 4°, inciso I, da Instrução CVM n° 505/2011. Multas.” | cvm/pas/2022/19957-009592-2017-19.md |
+
+### art. 38
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 38 | pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | intermediacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art. 4°, inciso I, ambos da Instrução CVM nº 542/2013 e art. 30, caput e parágrafo único, e art. 32, inciso I, combinados com o art. 4°, inciso I, da Instrução CVM n° 505/2011. Multas.” | cvm/pas/2022/19957-009592-2017-19.md |
 
 ### art. 121
 
@@ -109,18 +137,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 21, inciso VII | pas | 19957.006977/2017-16; RJ2017/3558 | 2018-07-24 | condenacao | divulgacao-informacoes | Não envio à CVM de informações periódicas obrigatórias. Infração a dispositivos da Instrução CVM nº 480/09. Multas. | cvm/pas/2018/19957-006977-2017-16.md |
 
-### art. 32
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 32, inciso I | pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | intermediacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art. 4°, inciso I, ambos da Instrução CVM nº 542/2013 e art. 30, caput e parágrafo único, e art. 32, inciso I, combinados com o art. 4°, inciso I, da Instrução CVM n° 505/2011. Multas.” | cvm/pas/2022/19957-009592-2017-19.md |
-
-### art. 38
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 38 | pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | intermediacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art. 4°, inciso I, ambos da Instrução CVM nº 542/2013 e art. 30, caput e parágrafo único, e art. 32, inciso I, combinados com o art. 4°, inciso I, da Instrução CVM n° 505/2011. Multas.” | cvm/pas/2022/19957-009592-2017-19.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -128,40 +144,24 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.012778/2022-12 | 2025-02-11 | parcial | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Botafogo Institucional Fundo de Investimento Renda Fixa relativas à data-base de 30/06/2019. Multas e absolvições. | cvm/pas/2025/19957-012778-2022-12.md |
 | pas | RJ2012/3110 | 2017-02-14 | parcial | deveres-administradores | Infrações relacionadas à destinação de recursos, a transações com partes relacionadas e à realização de assembleia geral ordinária. Absolvições, advertências e multas. | cvm/pas/2017/rj2012-3110.md |
 | pas | 18/2003 | 2005-12-08 | parcial | ofertas-publicas | Apuração de irregularidades relacionadas à emissão de debêntures destinadas à implementação de empreendimento hoteleiro objeto da companhia, constituída com este propósito específico. | cvm/pas/2005/18-2003.md |
-| pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ## icvm-16
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, inciso II | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e Jorge Luiz Menezes Cereja nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
+| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e [pessoa física] nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
 | pas | 14/2001 | 2005-04-12 | parcial | manipulacao-fraude | BANCO BOAVISTA INTERATLÂNTICO, SUCESSOR DO BANCO BOAVISTA S/A 1) Criação de condições artificiais de demanda, oferta e preço de valores mobiliários, vedada no item II da Instrução CVM nº 08/79. Multas e Absolvições. 2) Realização, pelo Administrador, de operações na contraparte do fundo por ele administrado, Alpha Bank, em infração do item I, art. 11, da Instrução CVM nº 82/88, em vigor à época dos fatos. Multas. 3) Utilização de instrumento de renda variável Anexo IV, de regime tributário especial, para captar investimentos estrangeiros, realizando operações artificiais nas bolsas de valores na contraparte de fundo administrado, o que configuraria infração ao item VIII do art. 11 da Instrução CVM nº 82/88, em vigor à época. Absolvições. | cvm/pas/2005/14-2001.md |
-| pas | SP2002/0397 | 2003-12-18 | parcial | manipulacao-fraude | Realização de prática não-eqüitativa, conceituada na alínea "d" do item II e vedada pelo item I da Instrução CVM nº 08/79. Multa e Inabilitação. - Intermediação de ações de companhia fechada no mercado de balcão não organizado, em infração ao artigo 21, § 1º da Lei nº 6.385, de 07.12.76 c.c. o artigo 4º, § 1º da Lei 6.404, de 15.12.76. Multa. - Prática de operação fraudulenta, conceituada na alínea "c" do item II e vedada pelo item I da Instrução CVM nº 08/79. - Absolvição. - Improbidade na condução de atividades e de realização de operação para cliente que não possuía cadastro, em infração aos artigos 1º, inciso V, e 3º, ambos da Instrução CVM nº 220, de 15.09.94. Absolvição. - Não registro em conta-corrente de operação realizada em infração ao artigo 14 do Regulamento Anexo à Resolução do CMN nº 1.655, de 26.10.89. Absolvição. - Participação na infração de operar por uma corretora, apesar de pertencer ao grupo da qual fazia parte outra instituição da mesma natureza, em infração ao artigo 12 da Instrução CVM nº 220/94. Absolvição. | cvm/pas/2003/sp2002-0397.md |
 | pas | 01/1999 | 2001-12-19 | parcial | manipulacao-fraude | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de clientes de sociedade distribuidora. Comprovação do destino dos recursos desviados, apropriados em parte pelo acionista controlador. Operações fraudulentas, como definidas na Instrução CVM 08/79. Multa de 3 vezes o valor apropriado. II. Inobservância de formalidades e vedações estabelecidas na Instrução CVM 220/94, permitindo a consecução das fraudes e desvios. Multa. III. Operador e agente autônomo como clientes de outra sociedade, além daquela a que estavam vinculados. Advertência. | cvm/pas/2001/01-1999.md |
 
 ## icvm-17
 
-### art. 6º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º, parágrafo único | pas | RJ2013/10909 | 2015-03-18 | condenacao | divulgacao-informacoes | Não divulgação de fato relevante. Multa. | cvm/pas/2015/rj2013-10909.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2013/13480 | 2016-11-24 | condenacao | auditoria-independente | Inobservância da regra de rotatividade dos auditores independentes. Emissão de parecer de auditoria assinado por contador não cadastrado como responsável técnico. Multas. | cvm/pas/2016/rj2013-13480.md |
 | pas | RJ2011/3823 | 2015-12-09 | parcial | informacao-privilegiada | Uso de informação privilegiada ainda não divulgada ao mercado. Absolvições e Multas. | cvm/pas/2015/rj2011-3823.md |
-| pas | RJ2011/10415 | 2014-12-02 | parcial | fundos-investimento | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante – Não divulgação das decisões das assembleias gerais dos Fundos – Descumprimento do dever de diligência por parte da instituição administradora de Fundos. Absolvições e multas. | cvm/pas/2014/rj2011-10415.md |
 | pas | 05/2000 | 2004-11-11 | parcial | contabil-demonstracoes | Trevisan Auditores Independentes e outros. Violação do preceituado nos artigos 177 e 183 da Lei nº 6.404/76 e nas Instruções CVM nºs 247/96 e 248/96 por ocasião da elaboração das Demonstrações Financeiras da Ceval Alimentos, e descumprimento do dever de diligência preceituado no art. 153 da Lei nº 6.404/76. Suspensão. Emissão de parecer sem ressalva e de relatório de revisão especial com ressalvas insuficientes, em desacordo com a Instrução CVM nº 216/96 e normas aplicáveis do IBRACON. Advertência. Realização de Auditoria em desacordo com a Instrução CVM nº 216/96 e normas aplicáveis do IBRACON. | cvm/pas/2004/05-2000.md |
 
 ## icvm-19
@@ -170,7 +170,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
 | pas | 27/2003 | 2005-08-18 | parcial | manipulacao-fraude | Infração ao preceituado no inciso II, alínea d, da Instrução CVM nº 08/79 - Prática não eqüitativa. - Infração ao preceituado no artigo 57, inciso IV, da Instrução CVM nº 302/99, considerada infração grave pelo artigo 103 desse mesmo normativo. | cvm/pas/2005/27-2003.md |
 
 ## icvm-20
@@ -185,19 +184,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 2º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 2º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ### art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
-
-### art. 37
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 37, inciso II | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
+| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ### art. 88
 
@@ -213,6 +206,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2014/2099 | 2016-12-01 | parcial | administracao-carteiras | Ausência de segregação de atividades de administração de carteiras das demais atividades exercidas pelo conjunto de empresas do grupo Oboé – Aquisição de direitos creditórios para o Fundo Clássico FIDC – Irregularidades referentes à falta de constituição de provisão para créditos de liquidação duvidosa e ausência desta informação nos informes mensais do Fundo Clássico FIDC – Ausência dos Termos de Adesão e da comprovação da condição de investidor qualificado – Delegação do poder de gestão do Fundo Clássico FIDC – Ausência de fiscalização do custodiante – Existência de cotistas “não cientes” – Cessão irregular de cotas de fundos de investimento. Inabilitações, absolvições e isenção de penalidade. | cvm/pas/2016/rj2014-2099.md |
 | pas | SP2003/0489 | 2006-05-04 | parcial | manipulacao-fraude | Realização de operação fraudulenta, vedada pelo item I e conceituada pelo item II, alínea c, da Instrução CVM nº 08/79. Multa e absolvições. - Infração ao disposto no inciso III, artigo 3º, combinado com o artigo 15, inciso I, ambos da Instrução CVM nº 355/01. Multa e absolvições. - Infração ao disposto no inciso II, artigo 8º, e seu caput, da Instrução CVM nº 355/01. Multa e absolvições. - Infração ao disposto nos incisos I e II, artigo 14, da Instrução CVM nº 355/01. Multa e absolvições. - Infração ao disposto no artigo 12 da Instrução CVM nº 220/94, em vigor na época dos fatos. Multa e absolvições. | cvm/pas/2006/sp2003-0489.md |
 | pas | RJ2004/1278 | 2006-01-19 | parcial | auditoria-independente | Descumprimento dos arts. 24 e 25, inciso II, da Instrução CVM nº 308/99 e não observância de normas legais e regulamentares que disciplinam a atuação dos auditores independentes no Mercado de Valores Mobiliários, conforme determinado no inciso I, do art. 35, da Instrução CVM nº 308/99. - Emissão de parecer sem ressalva, contrariando o disposto no item 38, da NBCT-11-IT-05, do Conselho Federal de Contabilidade. | cvm/pas/2006/rj2004-1278.md |
+| pas | 15/1997 | 2001-08-23 | parcial | manipulacao-fraude | PAULINO CAMPOS FERNANDES BASTOS, PROBANK DTVM LTDA e OUTROS (TRIBO LICENCIAMENTOS E AGENCIAMENTOS LTDA.) Operações Fraudulentas e Intermediação irregular no mercado de valores mobiliários. | cvm/pas/2001/15-1997.md |
 
 ## icvm-21
 
@@ -268,24 +262,17 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras da CEL Participações S.A. – CELPAR (e de sua controlada Liceu Franco Brasileiro S.A.) e de revisão das informações trimestrais relativas ao exercício social findo em 31/12/2017. Inabilitação Temporária, Extinção de Punibilidade. | cvm/pas/2024/19957-009359-2021-12.md |
+| pas | 19957.009140/2018-18 | 2022-06-21 | parcial | deveres-administradores | Responsabilidade de administradores e membros do conselho fiscal da Fibam Companhia Industrial, com relação às demonstrações financeiras de 30.06.2016, 30.09.2016, 31.12.2016, 31.03.2017, 30.06.2017, 30.09.2017, 31.12.2017 e 31.03.2018, em virtude (i) do não reconhecimento das obrigações fiscais correntes em sua integralidade; (ii) do registro contábil inadequado da situação de inadimplência nos programas de parcelamento REFIS e PPI-ICMS-SP; (iii) da divulgação insuficiente das informações em notas explicativas; e (iv) no tocante às demonstrações financeiras de 31.12.2016 e 31.12.2017, da não apresentação de parecer do conselho fiscal. As supostas irregularidades foram imputadas os membros (a) da diretoria, por violação aos arts. 153, 176 e 177, caput e § 3°, da Lei n° 6.404/1976, e arts. 26, 28 e 29 da Instrução CVM n° 480/2009; (b) do conselho de administração, por infração aos arts. 142, III e V, e 153 da Lei n° 6.404/76; e (c) do conselho fiscal, por infração aos arts. 163, VI e VII; e 165 da Lei n° 6.404/1976; e arts. 25, §1°, III; e 28, I, da Instrução CVM n° 480/2009. Multas e absolvições. | cvm/pas/2022/19957-009140-2018-18.md |
 | pas | 19957.003594/2021-72 | 2022-04-12 | parcial | divulgacao-informacoes | Apurar responsabilidade de administradores da Longdis S.A. pelo descumprimento de dispositivos da Instrução CVM nº 480/09, pela não elaboração tempestiva de demonstrações financeiras (art. 176, caput, da Lei nº 6.404/76) e pela não convocação tempestiva de assembleias gerais ordinárias (art. 132 c/c art. 142, IV, da Lei nº 6.404/76). Multas e absolvições. | cvm/pas/2022/19957-003594-2021-72.md |
 
 ## icvm-26
-
-### art. 65-A
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 65-A, inciso I | pas | RJ2016/4271 | 2019-01-08 | condenacao | administracao-carteiras | Desenquadramento da carteira do Fundo Roma Ações – Fundo de Investimento em Ações e violação do dever de lealdade em relação ao Roma Fundo de Investimento Renda Fixa Crédito Privado Previdenciário. Infração ao disposto nos artigos 65, XIII c/c o art. 88, §4º e 65-A, inciso I, ambos da Instrução CVM nº 409/04. Infração ao disposto no art. 65-A, inciso I da Instrução CVM nº 409/04. Multas. Proibição temporária. Data decisão CVM Tue Jan 08 12:19:00 BRST 2019 | cvm/pas/2019/rj2016-4271.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.012344/2022-12 | 2024-08-27 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/2003, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979. Multa, Proibição Temporária e Absolvição. | cvm/pas/2024/19957-012344-2022-12.md |
-| pas | 19957.009140/2018-18 | 2022-06-21 | parcial | deveres-administradores | Responsabilidade de administradores e membros do conselho fiscal da Fibam Companhia Industrial, com relação às demonstrações financeiras de 30.06.2016, 30.09.2016, 31.12.2016, 31.03.2017, 30.06.2017, 30.09.2017, 31.12.2017 e 31.03.2018, em virtude (i) do não reconhecimento das obrigações fiscais correntes em sua integralidade; (ii) do registro contábil inadequado da situação de inadimplência nos programas de parcelamento REFIS e PPI-ICMS-SP; (iii) da divulgação insuficiente das informações em notas explicativas; e (iv) no tocante às demonstrações financeiras de 31.12.2016 e 31.12.2017, da não apresentação de parecer do conselho fiscal. As supostas irregularidades foram imputadas os membros (a) da diretoria, por violação aos arts. 153, 176 e 177, caput e § 3°, da Lei n° 6.404/1976, e arts. 26, 28 e 29 da Instrução CVM n° 480/2009; (b) do conselho de administração, por infração aos arts. 142, III e V, e 153 da Lei n° 6.404/76; e (c) do conselho fiscal, por infração aos arts. 163, VI e VII; e 165 da Lei n° 6.404/1976; e arts. 25, §1°, III; e 28, I, da Instrução CVM n° 480/2009. Multas e absolvições. | cvm/pas/2022/19957-009140-2018-18.md |
 | pas | RJ2014/12081 | 2019-06-18 | parcial | manipulacao-fraude | Prática de operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência. Descumprimento do dever de informar. Infração ao item II, letra “c”, da Instrução CVM nº 08/79. Infração ao disposto no art. 65-A, inciso I, da Instrução CVM nº 409/04. Infração ao art. 4º da Instrução CVM nº 387/03. Advertência. inabilitação temporária. multas. absolvições. Data decisão CVM Tue Jun 18 15:58:00 BRT 2019 | cvm/pas/2019/rj2014-12081.md |
-| pas | 13/2005 | 2012-06-25 | parcial | administracao-carteiras | PRECE PREVIDÊNCIA COMPLEMENTAR Falta com o dever de diligência no exercício da função de administrador de fundos e no exercício da função de gestor de fundos; realização de operações fraudulentas e práticas não equitativas; exercício de atividade profissional de agente autônomo de investimento sem a devida autorização da CVM; Absolvições, multas e inabilitação. | cvm/pas/2012/13-2005.md |
 
 ## icvm-27
 
@@ -295,35 +282,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 56-B | pas | 19957.012344/2022-12 | 2024-08-27 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/2003, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979. Multa, Proibição Temporária e Absolvição. | cvm/pas/2024/19957-012344-2022-12.md |
 
-### art. 110-B
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 110-B | pas | RJ2011/4517 | 2013-12-17 | parcial | administracao-carteiras | GRP Investimentos Ltda. Inobservância do dever de diligência. Absolvições, advertências e multas. | cvm/pas/2013/rj2011-4517.md |
-
 ## icvm-29
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, parágrafo único | pas | 29/2000 | 2013-12-17 | parcial | informacao-privilegiada | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação punitiva, Absolvição e Multas. | cvm/pas/2013/29-2000.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2011/11073 | 2015-12-15 | parcial | deveres-administradores | Não divulgação, no Formulário de Referência, de informações relevantes acerca de contratos de mútuo. Advertência e Absolvições. Operação fraudulenta. Multas. Abuso do poder de controle. Multa e absolvições. Não apresentação de justificativa pormenorizada para fixação do preço de emissão de ações decorrentes de aumento de capital. Advertências. Suposto descumprimento do dever de diligência. Absolvições. | cvm/pas/2015/rj2011-11073.md |
-| pas | RJ2011/8224 | 2013-12-03 | condenacao | divulgacao-informacoes | BANCO PANAMERICANO S.A. Não divulgação de fato relevante. Multa. | cvm/pas/2013/rj2011-8224.md |
 | pas | RJ2003/1631 | 2005-01-28 | parcial | auditoria-independente | FERNANDO MOTTA & ASSOCIADOS AUDITORES INDEPENDENTES E OUTROS a) Prestação de serviços de auditoria independente concomitante com o de consultoria. Infração ao item II do artigo 23 da Instrução CVM nº 308/99, mas, em face de liminar concedida a expressivo grupo de auditores filiados ao Sindicato de São Paulo, seria injusto aplicar a norma ao caso; b) Não observância das normas de auditoria emanadas do C.F.C e do IBRACON relativas à necessidade de planejamento da auditoria e de programas escritos de trabalho (infração ao artigo 20 e ao item I do artigo 35 da Instrução CVM nº 308/99); c) Auditoria inepta pela utilização de procedimentos alternativos para calcular o estoque da companhia auditada sem qualquer referência no parecer ou em substituição à contagem física (infração ao item II do artigo 35 da Instrução CVM nº 308/99). | cvm/pas/2005/rj2003-1631.md |
 
 ## icvm-30
-
-### art. 8º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º, § 1º, inciso V | pas | RJ2011/10415 | 2014-12-02 | parcial | fundos-investimento | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante – Não divulgação das decisões das assembleias gerais dos Fundos – Descumprimento do dever de diligência por parte da instituição administradora de Fundos. Absolvições e multas. | cvm/pas/2014/rj2011-10415.md |
 
 ### art. 21
 
@@ -336,23 +304,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
-| pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-| pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ## icvm-32
-
-### art. 7º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | pas | 16/2006 | 2013-12-17 | condenacao | fundos-investimento | Fundo Superquadra. Alteração no regulamento de Fundo de Investimento sem a prévia aprovação da CVM. Advertência. | cvm/pas/2013/16-2006.md |
 
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 06/2012 | 2018-08-20 | parcial | manipulacao-fraude | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação de condições artificiais de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira e na administração dos fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2616/95, ao art. 65, inciso XV, da Instrução CVM nº 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM nº 387/03. Preliminares de extinção de punibilidade, prescrição, bis in idem, utilização de prova compartilhada por juízo criminal, inaplicabilidade da Instrução CVM nº 306/99, inépcia da acusação, cerceamento de defesa, existência de vícios processuais e ilegitimidade passiva. Absolvições, Multas, Inabilitação e Suspensão temporárias. | cvm/pas/2018/06-2012.md |
-| pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ## icvm-34
 
@@ -362,33 +321,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 1º, parágrafo único | pas | 16/2000 | 2002-12-05 | parcial | divulgacao-informacoes | [pessoa física] E OUTROS (WHITE MARTINS) Oscilação Atípica - Fato Relevante. - Artigos 1° da Instrução CVM n° 31/84, e 157, parágrafo 4°, da Lei n° 6.385/76. - Dever de divulgação de fato relevante. - Violação ao artigo 4°, parágrafo único, da Instrução CVM n° 31/84. - Caracterização da infração. | cvm/pas/2002/16-2000.md |
 
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
-
-## icvm-35
-
-### art. 10
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10, inciso II | pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, parágrafo único | pas | 29/2000 | 2013-12-17 | parcial | informacao-privilegiada | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação punitiva, Absolvição e Multas. | cvm/pas/2013/29-2000.md |
-
-### art. 25
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
-
 ## icvm-36
+
+### art. 3º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 3º | pas | 19957.007552/2016-43 | 2020-09-29 | — | deveres-administradores | Responsabilidade de administradores da Recrusul S.A. por infração aos artigos 156 e 157, §4º, ambos da Lei nº 6.404/1976, c/c artigo 3º, caput, da Instrução CVM nº 358/2002; ao artigo 177, §3º, da Lei nº 6.404/1976 c/c os itens 18 e 22A do CPC 05 (R1), aprovado pela Deliberação CVM nº 642/2010, e com o artigo 176, §5º, III, da Lei nº 6.404/1976. Multas e advertência. | cvm/pas/2020/19957-007552-2016-43.md |
 
 ### Citada sem dispositivo identificado
 
@@ -399,23 +338,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-37
 
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.007552/2016-43 | 2020-09-29 | — | deveres-administradores | Responsabilidade de administradores da Recrusul S.A. por infração aos artigos 156 e 157, §4º, ambos da Lei nº 6.404/1976, c/c artigo 3º, caput, da Instrução CVM nº 358/2002; ao artigo 177, §3º, da Lei nº 6.404/1976 c/c os itens 18 e 22A do CPC 05 (R1), aprovado pela Deliberação CVM nº 642/2010, e com o artigo 176, §5º, III, da Lei nº 6.404/1976. Multas e advertência. | cvm/pas/2020/19957-007552-2016-43.md |
-
-### art. 4º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | pas | 19957.012104/2022-18 | 2025-08-12 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública irregular de debêntures. Multa e Proibição Temporária. | cvm/pas/2025/19957-012104-2022-18.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009335/2021-55 | 2023-12-12 | condenacao | exercicio-irregular | Administração irregular de carteira de valores mobiliários, em infração ao art. 23 da Lei nº 6.385/1976 c/c art. 13, IV, da Instrução CVM nº 497/2011 e art. 2º da Instrução CVM nº 558/2015 e infrações ao disposto nos arts. 10 e 13, II e VIII, da Instrução CVM n° 497/2011. Multas e proibição temporária. | cvm/pas/2023/19957-009335-2021-55.md |
+| pas | 19957.004381/2021-68 | 2023-04-11 | parcial | fundos-investimento | Apurar suposta infração por parte de gestora e de administradoras de FIDC (i) ao art. 15, § 2º, da Instrução CVM n° 356/2001 c/c art. 92, caput, I, da Instrução CVM nº 555/2014; e (ii) ao art. 1º, § 1º, da Instrução CVM nº 444/2006, c/c art. 92, caput, I, da Instrução CVM nº 555/2014. Multas e absolvições. | cvm/pas/2023/19957-004381-2021-68.md |
 
 ## icvm-38
 
@@ -442,22 +370,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005309/2020-77 | 2023-10-10 | condenacao | fundos-investimento | Apurar eventual irregularidade na gestão da liquidez de fundo de investimento, em violação ao art. 65-B, incisos I e II e § 1º, da Instrução CVM nº 409/2004; e ao art. 91, incisos I e II e § 1º, da Instrução CVM n° 555/2014. Multas. | cvm/pas/2023/19957-005309-2020-77.md |
 | pas | RJ2001/8028 | 2005-03-14 | parcial | auditoria-independente | MOREIRA & ASSOCIADOS AUDITORES E OUTROS Violação do artigo 5º, IV, da Instrução CVM nº 216/94 (irregularidades cadastrais). Não caracterização da imputação de violação à Instrução CVM nº 18/81(embaraço à fiscalização) e aos artigos 24 e 25 da Instrução CVM nº 216/94, combinado com os artigos 2º, I, e 3º, XVII, da Resolução CFC nº 803/96 (violação dos deveres de zelo, diligência e honestidade no exercício da atividade de contabilista). | cvm/pas/2005/rj2001-8028.md |
-
-## icvm-39
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, parágrafo único | pas | 29/2000 | 2013-12-17 | parcial | informacao-privilegiada | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação punitiva, Absolvição e Multas. | cvm/pas/2013/29-2000.md |
-
-### art. 20
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20 | pas | RJ2010/3695 | 2015-12-15 | parcial | auditoria-independente | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade – não elaboração de relatório circunstanciado sobre os controles internos da companhia auditada – ausência de contrato de prestação de serviços de auditoria – elaboração de parecer de auditoria sem ressalvas. Multas e absolvições. | cvm/pas/2015/rj2010-3695.md |
 
 ## icvm-42
 
@@ -480,19 +393,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-43
 
-### art. 25
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
-### art. 29
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29, inciso III | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-| art. 29, inciso VII | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -504,7 +404,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2005/5038 | 2006-10-03 | parcial | exercicio-irregular | Exercício da administração de carteira de valores mobiliários sem o devido credenciamento junto à CVM. Multa e absolvição. - Delegação da administração profissional de carteira de valores mobiliários a instituição não credenciada pela CVM. Multas. | cvm/pas/2006/rj2005-5038.md |
 | pas | 34/1998 | 2004-05-06 | parcial | manipulacao-fraude | Operações fraudulentas- Multa e Absolvição. Exercício, sem autorização, da atividade de administrador de carteira de valores mobiliários- Multas. Contrato de administração de carteira com ausência de cláusulas informativas da política de investimentos e riscos inerente a essa política. Ficha cadastral incompleta- Advertência. Não apresentação de ficha cadastral- Absolvição. Operações diretas em nome de cliente tendo como contraparte a corretora e seu sócio-gerente- Absolvição. Prática de consultoria de valores mobiliários sem autorização da CVM- Absolvição. Atuação, sem autorização, na contraparte de cliente- Absolvição. | cvm/pas/2004/34-1998.md |
 | pas | 29/1999 | 2001-12-13 | parcial | exercicio-irregular | Administração de carteira de valores mobiliários. Necessária autorização da CVM para o exercício desta atividade. Infração configurada. Multa. II - Intermediação irregular. Desnecessário comprovar a capacidade de o indiciado intermediar operações em bolsa de valores. Ostensiva captação de clientes e encaminhamento de ordens a outra instituição financeira. Multa. | cvm/pas/2001/29-1999.md |
-| pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
 
 ## icvm-44
 
@@ -534,15 +433,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.004791/2020-28 | 2024-06-18 | parcial | manipulacao-fraude | Apurar infrações ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores mobiliários, e ao art. 14, inciso II, da Instrução CVM nº 306/1999 c/c art. 65, inciso XV, da Instrução CVM nº 409/2004, pela quebra do dever de diligência por administrador fiduciário. Extinção de Punibilidade, Multa, Absolvição. | cvm/pas/2024/19957-004791-2020-28.md |
-| pas | RJ2012/4062 | 2013-12-17 | parcial | assembleia-acionistas | Universo Online S.A. Impedimento de exercício do direito de voto em assembleias de acionistas titulares de ações em circulação. Multa. | cvm/pas/2013/rj2012-4062.md |
 
 ## icvm-46
-
-### art. 10
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10, inciso II | pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
 
 ### art. 35
 
@@ -565,7 +457,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.004791/2020-28 | 2024-06-18 | parcial | manipulacao-fraude | Apurar infrações ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores mobiliários, e ao art. 14, inciso II, da Instrução CVM nº 306/1999 c/c art. 65, inciso XV, da Instrução CVM nº 409/2004, pela quebra do dever de diligência por administrador fiduciário. Extinção de Punibilidade, Multa, Absolvição. | cvm/pas/2024/19957-004791-2020-28.md |
-| pas | RJ2013/2759 | 2018-02-20 | parcial | assembleia-acionistas | Suposta omissão de informações a respeito da prática de remuneração e das outras fontes de financiamento da companhia. Absolvição – Informações incompletas e inconsistentes sobre a remuneração variável dos administradores e sobre a situação financeira da companhia. Advertência. Direito de voto reservado a acionistas minoritários na eleição em separado para membros do conselho fiscal denegado. Multa – Não divulgação dos serviços de administração imobiliária prestados pela Adrecor. Multas – Não divulgação das transações entre a Companhia e a sociedade Adrecor nos Formulários de Referência da Companhia de Seguros Aliança da Bahia. Multas. Data decisão CVM Tue Feb 20 00:00:00 BRT 2018 | cvm/pas/2018/rj2013-2759.md |
 
 ## icvm-49
 
@@ -583,12 +474,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 32 | pas | 05/2000 | 2004-11-11 | parcial | contabil-demonstracoes | Trevisan Auditores Independentes e outros. Violação do preceituado nos artigos 177 e 183 da Lei nº 6.404/76 e nas Instruções CVM nºs 247/96 e 248/96 por ocasião da elaboração das Demonstrações Financeiras da Ceval Alimentos, e descumprimento do dever de diligência preceituado no art. 153 da Lei nº 6.404/76. Suspensão. Emissão de parecer sem ressalva e de relatório de revisão especial com ressalvas insuficientes, em desacordo com a Instrução CVM nº 216/96 e normas aplicáveis do IBRACON. Advertência. Realização de Auditoria em desacordo com a Instrução CVM nº 216/96 e normas aplicáveis do IBRACON. | cvm/pas/2004/05-2000.md |
 
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
-
 ## icvm-52
 
 ### art. 2º
@@ -597,19 +482,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 2º, alínea d | pas | RJ2005/0098 | 2007-12-18 | absolvicao | deveres-administradores | LATASA - Aquisição, pela companhia aberta Latas de Alumínio S/A - Latasa, de ações de sua própria emissão, pertencentes à JP Morgan Securities Inc., supostamente considerada acionista integrante do grupo controlador da Latasa, em infração ao disposto no artigo 2º, alínea d, da Instrução CVM nº 10/80. - Acordo de Acionistas. - Descaracterização da qualidade de acionista controlador atribuída à JP Morgan Securities Inc. - Absolvições. | cvm/pas/2007/rj2005-0098.md |
 
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 13/2005 | 2012-06-25 | parcial | administracao-carteiras | PRECE PREVIDÊNCIA COMPLEMENTAR Falta com o dever de diligência no exercício da função de administrador de fundos e no exercício da função de gestor de fundos; realização de operações fraudulentas e práticas não equitativas; exercício de atividade profissional de agente autônomo de investimento sem a devida autorização da CVM; Absolvições, multas e inabilitação. | cvm/pas/2012/13-2005.md |
-
 ## icvm-55
-
-### art. 25
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
 
 ### art. 92
 
@@ -618,12 +491,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 92 | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
 
 ## icvm-56
-
-### art. 91
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 91 | pas | 19957.005309/2020-77 | 2023-10-10 | condenacao | fundos-investimento | Apurar eventual irregularidade na gestão da liquidez de fundo de investimento, em violação ao art. 65-B, incisos I e II e § 1º, da Instrução CVM nº 409/2004; e ao art. 91, incisos I e II e § 1º, da Instrução CVM n° 555/2014. Multas. | cvm/pas/2023/19957-005309-2020-77.md |
 
 ### Citada sem dispositivo identificado
 
@@ -676,11 +543,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 2º | pas | 19957.001483/2020-41 | 2025-03-25 | condenacao | manipulacao-fraude | Apurar as responsabilidades de Miner Ltda. EPP, [pessoa física] e [pessoa física] pelo (i) exercício irregular da atividade de administração de carteira de valores mobiliários sem a competente autorização desta Autarquia, em infração ao disposto no artigo 23 da Lei nº 6.385/76, e no artigo 2º da Instrução CVM nº 558/2015 e pela (ii) prática de operação fraudulenta no mercado de valores mobiliários, em infração ao disposto no item I, na forma da letra “c” do item II, da Instrução CVM nº 08/79, bem como apurar as responsabilidades de [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física] pela criação de condições artificiais de demanda, oferta ou preço de valores mobiliários em infração ao disposto no item I, na forma da letra “a” do item II, da Instrução CVM nº 08/79. Multas e proibições. | cvm/pas/2025/19957-001483-2020-41.md |
 
-### art. 6º
+### art. 16
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | pas | 15/1990 | 2010-08-24 | parcial | deveres-administradores | [pessoa física] Não convocação de AGO – não publicação de demonstrações financeiras – descumprimento do dever de manter atualizado o registro de companhia aberta na CVM. Multas. Atuação solidária com o controlador no desvio do objeto social da Companhia. Inabilitações. Não emissão de parecer conclusivo dos auditores quanto à adequação das Demonstrações Financeiras. Absolvições. Não apresentação de ressalva quanto ao desvio de objeto social. Absolvições. Não apresentação de ressalva quanto à não constituição de provisão para devedores duvidosos - Auditoria inepta. Advertências. | cvm/pas/2010/15-1990.md |
+| art. 16, inciso I, alínea a | pas | 15/1990 | 2010-08-24 | parcial | deveres-administradores | [pessoa física] Não convocação de AGO – não publicação de demonstrações financeiras – descumprimento do dever de manter atualizado o registro de companhia aberta na CVM. Multas. Atuação solidária com o controlador no desvio do objeto social da Companhia. Inabilitações. Não emissão de parecer conclusivo dos auditores quanto à adequação das Demonstrações Financeiras. Absolvições. Não apresentação de ressalva quanto ao desvio de objeto social. Absolvições. Não apresentação de ressalva quanto à não constituição de provisão para devedores duvidosos - Auditoria inepta. Advertências. | cvm/pas/2010/15-1990.md |
 
 ### Citada sem dispositivo identificado
 
@@ -688,27 +555,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 36/1998 | 2000-09-28 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física] Irregularidades na gestão e administração dos negócios da GURGEL PARTICIPAÇÕES S.A. e GURGEL MOTORES S.A., a partir do ano de 1992. Não encaminhamento de informações obrigatórias. Ausência de Escrituração contábil, não convocação de Assembléias Gerais ou realização de Reuniões do Conselho de Administração. Descumprimento do Dever de diligência. - Sobrestamento de decisão de indiciado. - Irregularidades Configuradas. Penalidades. | cvm/pas/2000/36-1998.md |
 
-## icvm-62
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 13/2005 | 2012-06-25 | parcial | administracao-carteiras | PRECE PREVIDÊNCIA COMPLEMENTAR Falta com o dever de diligência no exercício da função de administrador de fundos e no exercício da função de gestor de fundos; realização de operações fraudulentas e práticas não equitativas; exercício de atividade profissional de agente autônomo de investimento sem a devida autorização da CVM; Absolvições, multas e inabilitação. | cvm/pas/2012/13-2005.md |
-
 ## icvm-65
-
-### art. 1º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º, inciso I | pas | RJ2013/2759 | 2018-02-20 | parcial | assembleia-acionistas | Suposta omissão de informações a respeito da prática de remuneração e das outras fontes de financiamento da companhia. Absolvição – Informações incompletas e inconsistentes sobre a remuneração variável dos administradores e sobre a situação financeira da companhia. Advertência. Direito de voto reservado a acionistas minoritários na eleição em separado para membros do conselho fiscal denegado. Multa – Não divulgação dos serviços de administração imobiliária prestados pela Adrecor. Multas – Não divulgação das transações entre a Companhia e a sociedade Adrecor nos Formulários de Referência da Companhia de Seguros Aliança da Bahia. Multas. Data decisão CVM Tue Feb 20 00:00:00 BRT 2018 | cvm/pas/2018/rj2013-2759.md |
-
-### art. 13
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | pas | RJ2014/3616 | 2018-11-13 | parcial | informacao-privilegiada | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a sociedade antes de sua divulgação ao mercado. Infração ao ao art. 155, §1º da Lei nº 6.404/76 c/c o art. 13 da Instrução CVM nº 358/02. Multas. Absolvição. Data decisão CVM Tue Nov 13 11:50:00 BRST 2018 | cvm/pas/2018/rj2014-3616.md |
 
 ### Citada sem dispositivo identificado
 
@@ -754,14 +601,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade por infração (i) aos arts. 10 e 12 da Instrução CVM nº 358/2002; (ii) ao art. 116, p.ú., da Lei nº 6.404/1976; (iii) ao art. 1º, III, e p.ú., I, da Instrução CVM n° 491/2011; (iv) ao item 15.1 ou, alternativamente, ao item 15.2, e item 12.5, do Anexo 24, da Instrução CVM nº 480/2009; e (v) ao art. 154 da Lei nº 6.404/1976. Multas e absolvições. | cvm/pas/2023/19957-009206-2018-61.md |
 
-## icvm-79
-
-### art. 39
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 39, inciso II | pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | cvm/pas/2024/19957-006858-2019-25.md |
-
 ## icvm-81
 
 ### art. 58
@@ -791,14 +630,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade por infração (i) aos arts. 10 e 12 da Instrução CVM nº 358/2002; (ii) ao art. 116, p.ú., da Lei nº 6.404/1976; (iii) ao art. 1º, III, e p.ú., I, da Instrução CVM n° 491/2011; (iv) ao item 15.1 ou, alternativamente, ao item 15.2, e item 12.5, do Anexo 24, da Instrução CVM nº 480/2009; e (v) ao art. 154 da Lei nº 6.404/1976. Multas e absolvições. | cvm/pas/2023/19957-009206-2018-61.md |
+| pas | 12/1998 | 2004-05-20 | condenacao | intermediacao | Realização de prática não-equitativa. Multas. - Execução de ordens antes do registro. - Não observância da seriação cronológica de ordens. Multa. - Embaraço à fiscalização da CVM. Multa. - Operação fraudulenta. Multa. - Intermediação irregular por pessoa não integrante do sistema de distribuição de valores. Multa | cvm/pas/2004/12-1998.md |
 
 ## icvm-85
-
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2012/4062 | 2013-12-17 | parcial | assembleia-acionistas | Universo Online S.A. Impedimento de exercício do direito de voto em assembleias de acionistas titulares de ações em circulação. Multa. | cvm/pas/2013/rj2012-4062.md |
 
 ### Citada sem dispositivo identificado
 
@@ -818,7 +652,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 22 | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - [pessoa física] (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | cvm/pas/2006/16-2002.md |
+| art. 22 | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - Emissão de OTA (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | cvm/pas/2006/16-2002.md |
 
 ### art. 29
 
@@ -833,12 +667,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 30 | pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
-
-### art. 39
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 39, inciso II | pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | cvm/pas/2024/19957-006858-2019-25.md |
 
 ### Citada sem dispositivo identificado
 
@@ -868,15 +696,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 110 | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
 
-## icvm-96
-
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, parágrafo único | pas | 29/2000 | 2013-12-17 | parcial | informacao-privilegiada | BRASMOTOR. Não divulgação de fato relevante – utilização de informações privilegiadas e práticas não equitativas. Prescrição da ação punitiva, Absolvição e Multas. | cvm/pas/2013/29-2000.md |
-
-## icvm-102
+## icvm-100
 
 ### art. 14
 
@@ -892,14 +712,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-104
 
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | exercicio-irregular | Apurar suposta prática de operação fraudulenta e suposta oferta de valores mobiliários sem obtenção de registro. Multas e proibições. | cvm/pas/2023/19957-002835-2022-47.md |
-
-## icvm-107
-
 ### art. 14
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -912,19 +724,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 17 | pas | 19957.004416/2016-00 | 2023-05-30 | parcial | deveres-administradores | Apurar eventuais irregularidades cometidas por administradores e membros do conselho fiscal da Oi S.A. no âmbito de oferta pública de ações, de (i) desvio de poder, em infração ao art. 154, caput e §2°, c/c o art. 152 da Lei n° 6.404/1976; (ii) violação ao dever de lealdade, em descumprimento do art. 155, caput, art. 142, inciso III, e art. 176 da Lei nº 6.404/1976; e arts. 14 e 17 da Instrução CVM nº 480/2009; e (iii) inobservância do dever de diligência, em infração ao art. 153 da Lei n° 6.404/1976. Multas, inabilitação temporária e absolvições. | cvm/pas/2023/19957-004416-2016-00.md |
 
+## icvm-107
+
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 22/1996 | 2006-05-03 | parcial | intermediacao | Ocorrência de operações fraudulentas no mercado de valores mobiliários, definidas na alínea “c” do item II e vedadas pelo item I, ambos da Instrução CVM nº 08/79: multa e inabilitação. - Descumprimento do disposto no inciso V do artigo 12 do Regulamento anexo à Resolução CMN nº 1.120/86, com a redação dada pela Resolução CMN nº 1.653/89: multa e inabilitação. - Descumprimento do disposto na letra “a” do item I da Instrução CVM nº 107/89, vigente até 19.12.94 e, posteriormente, o inciso II do artigo 8º da Instrução CVM nº 220/94: multa, inabilitação e absolvição. - Descumprimento do disposto no caput do artigo 41 da Lei nº 6.404/76, no artigo 1º da Instrução CVM nº 89/88 e no artigo 1º da Instrução CVM nº 115/90: multa, inabilitação e absolvição. | cvm/pas/2006/22-1996.md |
-
-## icvm-108
-
-### art. 104
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 104, § 2º, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
 
 ## icvm-115
 
@@ -1002,13 +808,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | intermediacao | Atuação irregular de administradores de corretora de valores mobiliários e de agentes autônomos de investimento, incluindo o exercício irregular da atividade de intermediação de valores mobiliários. Infração aos arts 3º, 4º, §§4º, 7º, II, arts. 27, 28, 29, parágrafo único e art. 30, da Instrução CVM nº 505/11. Infração ao art. 7º, §5º, da Instrução CVM nº 306/99. Infração ao art. 17, II, III e IV, da Instrução CVM nº 497/11. Infração aos artigos 3º, II, 10 , 13, incisos VI e VIII da Instrução CVM nº 497/11. Infração ao art. 16, III da Lei nº 6.385/76 e art. 3º, caput e II, da Instrução CVM nº 497/11. Absolvições. Multas. Inabilitações. Proibições Temporárias. | cvm/pas/2019/19957-004737-2017-87.md |
 
-## icvm-132
+## icvm-141
 
-### art. 92
+### Citada sem dispositivo identificado
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 92, inciso I | pas | 19957.005017/2025-49 | 2026-08-26 | — | administracao-carteiras | PAS sobre desenquadramento da carteira do OABPrev-RJ Multimercado Previdência FI (arts. 92, I, e 104, §2º, da Instrução CVM 555/2014). A diretora relatora votou pela condenação da gestora (R$ 400.000,00) e do administrador (R$ 200.000,00), com multas também a seus diretores responsáveis, e pela absolvição quanto ao art. 92, I. | cvm/pas/2026/19957-005017-2025-49.md |
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | manipulacao-fraude | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c infração ao art. 16, IV da Instrução CVM nº 434/2006, por assim agir na condição de agente autônomo de investimento; exercício da atividade de administração de carteira, sem autorização, em infração ao art. 3º da Instrução CVM nº 306/1999; prática de churning, operações fraudulentas com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979; prática de churning, operações fraudulentas, incluindo casos com contrato de carteira administrada, com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979 c/c art. 16, VI da Instrução CVM nº 306/1999; na condição de administrador de carteira, delegar a pessoas não habilitadas essa função, em infração ao art. 14, incisos II e IV da Instrução CVM nº 306/1999; na condição de corretora de valores mobiliários e responsáveis, permitir o exercício de atividades de mediação por pessoas não autorizadas, em infração ao disposto no art. 13, I, c, da Instrução CVM nº 387/2003; na condição de integrante do sistema de distribuição do mercado de valores mobiliários, concorrer para a manutenção de esquemas de churning, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979. Extinção de punibilidade, multas e absolvições. | cvm/pas/2022/19957-000198-2020-11.md |
 
 ## icvm-148
 
@@ -1100,14 +906,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
 
-## icvm-178
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, inciso VI | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | manipulacao-fraude | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c infração ao art. 16, IV da Instrução CVM nº 434/2006, por assim agir na condição de agente autônomo de investimento; exercício da atividade de administração de carteira, sem autorização, em infração ao art. 3º da Instrução CVM nº 306/1999; prática de churning, operações fraudulentas com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979; prática de churning, operações fraudulentas, incluindo casos com contrato de carteira administrada, com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979 c/c art. 16, VI da Instrução CVM nº 306/1999; na condição de administrador de carteira, delegar a pessoas não habilitadas essa função, em infração ao art. 14, incisos II e IV da Instrução CVM nº 306/1999; na condição de corretora de valores mobiliários e responsáveis, permitir o exercício de atividades de mediação por pessoas não autorizadas, em infração ao disposto no art. 13, I, c, da Instrução CVM nº 387/2003; na condição de integrante do sistema de distribuição do mercado de valores mobiliários, concorrer para a manutenção de esquemas de churning, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979. Extinção de punibilidade, multas e absolvições. | cvm/pas/2022/19957-000198-2020-11.md |
-
 ## icvm-183
 
 ### Citada sem dispositivo identificado
@@ -1163,6 +961,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
+| art. 7º | pas | 16/2006 | 2013-12-17 | condenacao | fundos-investimento | Fundo Superquadra. Alteração no regulamento de Fundo de Investimento sem a prévia aprovação da CVM. Advertência. | cvm/pas/2013/16-2006.md |
 | art. 7º, inciso I | pas | 16/2006 | 2013-12-17 | condenacao | fundos-investimento | Fundo Superquadra. Alteração no regulamento de Fundo de Investimento sem a prévia aprovação da CVM. Advertência. | cvm/pas/2013/16-2006.md |
 
 ### art. 8º
@@ -1335,6 +1134,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 34 | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
+
+### art. 37
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 37, inciso II | pas | 08/1999 | 2000-06-01 | condenacao | auditoria-independente | BINAH AUDITORES ASSOCIADOS S/C, [pessoa física] Descumprimento de dispositivos regulamentares da atividade de auditoria. Infrações configuradas. Penalidades. | cvm/pas/2000/08-1999.md |
 
 ### art. 43
 
@@ -1518,7 +1323,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2010/16893 | 2011-06-07 | absolvicao | auditoria-independente | Deloitte Touche Tohmatsu Auditores Independentes Imputação de não emissão de relatório de revisão especial com ressalva sobre demonstrações contábeis da Saraiva S/A Livreiros Editores referente ao ITR de 31.03.10, dada a não evidenciação em nota explicativa específica da realização de operações com derivativos. Absolvições. | cvm/pas/2011/rj2010-16893.md |
-| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da [pessoa física]. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de [pessoa física] sobre a operação de compra e venda da [pessoa física] mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
+| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
 | pas | RJ2004/1278 | 2006-01-19 | parcial | auditoria-independente | Descumprimento dos arts. 24 e 25, inciso II, da Instrução CVM nº 308/99 e não observância de normas legais e regulamentares que disciplinam a atuação dos auditores independentes no Mercado de Valores Mobiliários, conforme determinado no inciso I, do art. 35, da Instrução CVM nº 308/99. - Emissão de parecer sem ressalva, contrariando o disposto no item 38, da NBCT-11-IT-05, do Conselho Federal de Contabilidade. | cvm/pas/2006/rj2004-1278.md |
 
 ## icvm-237
@@ -1580,7 +1385,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da [pessoa física]. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de [pessoa física] sobre a operação de compra e venda da [pessoa física] mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
+| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
 | pas | RJ2005/4969 | 2006-11-07 | parcial | registro-emissor | Não manutenção do registro de companhia aberta atualizado. Descumprimento dos arts. 13, 16 e 17 da Instrução CVM nº 202/93, em infração ao art. 6º da mesma Instrução. Aplicação de multa ao Diretor de Relações com Investidores. - Infração ao dever de diligência previsto no art. 153 da Lei nº 6.404/76, tendo em vista o disposto no art. 18 da Instrução CVM nº 202/93. Absolvições | cvm/pas/2006/rj2005-4969.md |
 
 ## icvm-248
@@ -1927,7 +1732,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | manipulacao-fraude | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c infração ao art. 16, IV da Instrução CVM nº 434/2006, por assim agir na condição de agente autônomo de investimento; exercício da atividade de administração de carteira, sem autorização, em infração ao art. 3º da Instrução CVM nº 306/1999; prática de churning, operações fraudulentas com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979; prática de churning, operações fraudulentas, incluindo casos com contrato de carteira administrada, com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979 c/c art. 16, VI da Instrução CVM nº 306/1999; na condição de administrador de carteira, delegar a pessoas não habilitadas essa função, em infração ao art. 14, incisos II e IV da Instrução CVM nº 306/1999; na condição de corretora de valores mobiliários e responsáveis, permitir o exercício de atividades de mediação por pessoas não autorizadas, em infração ao disposto no art. 13, I, c, da Instrução CVM nº 387/2003; na condição de integrante do sistema de distribuição do mercado de valores mobiliários, concorrer para a manutenção de esquemas de churning, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979. Extinção de punibilidade, multas e absolvições. | cvm/pas/2022/19957-000198-2020-11.md |
 | pas | RJ2003/4953 | 2003-12-18 | absolvicao | fundos-investimento | A correção de irregularidade contida em regulamento do fundo no prazo estabelecido pela CVM não enseja a aplicação de penalidade mediante inquérito administrativo. | cvm/pas/2003/rj2003-4953.md |
 | pas | RJ2003/5486 | 2003-12-10 | absolvicao | fundos-investimento | Ingresso de pessoa física como quotista de fundo de investimento em títulos e valores mobiliários destinado a investidores institucionais e a fundos de cotas, em descumprimento do regulamento do fundo, e, conseqüentemente, em infração ao inciso XIII do art. 57 da Instrução CVM n° 302, de 5 de maio de 1999. Absolvição. | cvm/pas/2003/rj2003-5486.md |
 
@@ -1966,8 +1770,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, § 1º, inciso II | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
-| art. 3º, § 1º, inciso III | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| art. 3º, § 1º, inciso II | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| art. 3º, § 1º, inciso III | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2104,7 +1908,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2009/3823 | 2009-12-15 | condenacao | administracao-carteiras | Administração de Bens e Valores Ltda. Exercício da atividade de administração de carteira de valores mobiliários sem a prévia autorização da CVM. Multas. (Retificada no DOU de 12.02.10) | cvm/pas/2009/rj2009-3823.md |
 | pas | RJ2007/4697 | 2009-07-28 | condenacao | exercicio-irregular | MAJOREM ENGENHARIA FINANCEIRA LTDA. Administração de carteira de valores mobiliários sem a prévia autorização da CVM. Advertência. | cvm/pas/2009/rj2007-4697.md |
 | pas | SP2004/0193 | 2007-09-04 | condenacao | exercicio-irregular | Contratar pessoas não autorizadas a intermediar valores mobiliários, em infração ao disposto no art. 16 da Lei nº 6.385/76, o que é considerado infração grave pela Instrução CVM nº 348/01. Multas. - Intermediar valores mobiliários sem estar autorizado, em infração ao disposto no art. 16 da Lei nº 6.385/76, regulamentado pela Instrução CVM nº 355/01, o que é considerado infração grave pelo art. 18 da mesma Instrução. Multas. | cvm/pas/2007/sp2004-0193.md |
-| pas | SP2005/0338 | 2007-07-03 | absolvicao | intermediacao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e [pessoa física] de Investimentos Ltda. em detrimento de um investidor. Absolvições. | cvm/pas/2007/sp2005-0338.md |
+| pas | SP2005/0338 | 2007-07-03 | absolvicao | intermediacao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e Opções Agentes de Investimentos Ltda. em detrimento de um investidor. Absolvições. | cvm/pas/2007/sp2005-0338.md |
 | pas | SP2004/0693 | 2006-02-20 | condenacao | exercicio-irregular | Somente Corretores e Agentes Autônomos com registro na CVM poderão exercer as atividades de mediação e corretagem de valores mobiliários, dentro e fora de bolsa. Caracterização de exercício de atividade de mediação ou corretagem irregular de operações com valores mobiliários, em infração ao artigo 16, III, e parágrafo único da Lei nº 6.385/76 e ao parágrafo único do art. 3º da Instrução CVM nº 355/01. Multa. | cvm/pas/2006/sp2004-0693.md |
 | pas | RJ2001/8363 | 2005-03-28 | parcial | intermediacao | ESTRATÉGIA INVESTIMENTOS S/A CVC E OUTROS (RIOPART / RIOINVEST) 1) Mediação de valores mobiliários fora de bolsa, por pessoas não integrantes do sistema de distribuição de valores previsto no art. 15 da Lei nº 6.385/76, em infração ao § único do art. 16 dessa lei. Multas. 2) Utilização de operações fraudulentas. Infração ao disposto no inciso I, conforme conceituada na alínea c, do inciso II da Instrução CVM nº 08/79. Multa. 3) Realização de negócios com carteira própria da corretora no mercado de balcão não-organizado, com ações somente admitidas à negociação em bolsas de valores. Infração ao item I da Deliberação CVM nº 20/85, bem como ao item IV da Resolução CMN nº 436/77, mantido pelo art. 36 da Resolução CMN nº 1.656/89. Multas. Não envio à CVM de informações sobre esse negócios. Infração ao art. 3º, o que caracteriza infração grave para o disposto no art. 5º, ambos da Instrução CVM nº 42/85. Multas. 5) Não identificação da origem dos depósitos em conta-corrente de cliente, em infração ao art. 10 da Instrução CVM nº 220/94, e existência de saldo devedor da mesma conta, sem respaldo do competente contrato de financiamento, em infração ao inciso I do art. 12 da Resolução CMN nº 1.655/89. Multas.5) Transferência de ações de clientes de sociedade corretora para a carteira própria da corretora e entre clientes da corretora, sem autorização formal do cedente. Infração ao art. 11, "caput", inciso III da Resolução CMN nº 1.656/89. Multas e Absolvições. 6) Uso de prática não-eqüitativa no mercado de valores mobiliários. Infração ao disposto no inciso I, conforme conceituada na alínea d, do inciso II da Instrução CVM nº 08/79. Absolvições. 7) Negociação no mercado de balcão não-organizado, de valores mobiliários somente admitidos à negociação em bolsas de valores. Infração ao art. 36 da Resolução CMN nº 1.656/89. Absolvições. 8) Co-responsabilidade pela transferência de titularidade de ações por pessoa sem autorização formal do cedente. Imputação prejudicada tendo em vista que o disposto no art. 11, inciso III da Resolução CMN nº 1.655/89 destina-se explicitamente às bolsas de valores. Absolvições. 9) Imputação à sociedade corretora e seu diretor de infração ao dever de manter conduta de probidade, como ditado pelo inciso I do art. 1º da Instrução CVM nº 220/94. Acusação afastada por dirigir-se tal diploma legal às bolsas de valores. Absolvições. 10) Liquidação financeira de operações feitas por meio de cheques destinados à terceiros, que não o titular das ações ou seu procurador. Infração ao art. 16, § 1º da Lei nº 9.311/96. Absolvições. | cvm/pas/2005/rj2001-8363.md |
 | pas | SP2003/0445 | 2005-03-21 | parcial | intermediacao | Contratação de pessoas não autorizadas pela CVM para a atividade de intermediação de negócios envolvendo valores mobiliários, em infração ao artigo 16 da Lei nº 6.385/76, considerado infração grave pela Instrução CVM nº 348/01. Multa. - Atuação de sociedade corretora em desacordo com as suas próprias Regras e Parâmetros de Atuação, contrariando o disposto no art. 2º da Instrução CVM nº 220/94, e não manutenção de registros contábeis completos da movimentação financeira de seus clientes, em infração ao art. 10 da Instrução CVM nº 220/94. Multa. - Atuação não diligente de sociedade corretora, dando margem à ocorrência de fraudes que prejudicaram seus clientes, o que constitui infração ao art. 5º da Instrução CVM nº 220/94. Multa. Realização de operação fraudulenta, vedada pelo inciso I, conforme conceituado na alínea “c” do inciso II da Instrução CVM nº 08/79. Multa e Absolvição. - Constituição, por agentes autônomos de investimento, de sociedade para a realização de atividades por eles desempenhadas, prática vedada pela letra “d” da Resolução CMN nº 238/72, em vigor à época dos fatos. Multa. - Exercício da atividade de agente autônomo de investimento sem o competente registro para tal, o que constitui infração ao art. 16 da Lei nº 6.385/76, considerado falta grave nos termos do art. 18 da Instrução CVM nº 355/01. Multa. | cvm/pas/2005/sp2003-0445.md |
@@ -2371,6 +2175,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-390
 
+### art. 7º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 7º, § 2º | pas | 13/2005 | 2012-06-25 | parcial | administracao-carteiras | PRECE PREVIDÊNCIA COMPLEMENTAR Falta com o dever de diligência no exercício da função de administrador de fundos e no exercício da função de gestor de fundos; realização de operações fraudulentas e práticas não equitativas; exercício de atividade profissional de agente autônomo de investimento sem a devida autorização da CVM; Absolvições, multas e inabilitação. | cvm/pas/2012/13-2005.md |
+
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -2425,6 +2235,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
+| art. 1º | pas | 22/2005 | 2008-08-26 | parcial | fundos-investimento | Banco da Amazônia S/A Administração e gestão de fundos de investimentos. - Contabilização incorreta dos efeitos financeiros de operações de Swap praticadas pelos fundos BASA Seleto e BASA Invest CP. Multa. - Comunicação a destempo da cisão de fundos de investimentos. Advertência. - Ausência de comunicação adequada aos quotistas por ocasião da alteração de perfil de fundos. Multa. - Não-exigência de assinatura dos quotistas ingressantes nos termos de adesão de fundos de investimentos e não-fornecimento de cópias do regulamento dos fundos . Multa. - Não-apresentação, no prazo devido, das demonstrações financeiras auditadas de fundos administrados. Advertência. - Exercício da atividade de custodiante de títulos e valores mobiliários sem o devido credenciamento na CVM. Advertência. - Atraso no registro dos ativos de fundos de investimento em sistema autorizado de liquidação e custódia. Multa. - Não-convocação das assembléias gerais de quotistas para conhecimento e aprovação das demonstrações financeiras dos fundos de investimento administrados. Multa. - Alteração da política de investimento dos fundos, com aumento substancial de risco, em desacordo com o perfil conservador dos quotistas do fundo. Suspensão e Multa. - Negligência, imperícia e imprudência na administração de fundos de investimento. Multa. | cvm/pas/2008/22-2005.md |
 | art. 1º, § 1º | pas | 22/2005 | 2008-08-26 | parcial | fundos-investimento | Banco da Amazônia S/A Administração e gestão de fundos de investimentos. - Contabilização incorreta dos efeitos financeiros de operações de Swap praticadas pelos fundos BASA Seleto e BASA Invest CP. Multa. - Comunicação a destempo da cisão de fundos de investimentos. Advertência. - Ausência de comunicação adequada aos quotistas por ocasião da alteração de perfil de fundos. Multa. - Não-exigência de assinatura dos quotistas ingressantes nos termos de adesão de fundos de investimentos e não-fornecimento de cópias do regulamento dos fundos . Multa. - Não-apresentação, no prazo devido, das demonstrações financeiras auditadas de fundos administrados. Advertência. - Exercício da atividade de custodiante de títulos e valores mobiliários sem o devido credenciamento na CVM. Advertência. - Atraso no registro dos ativos de fundos de investimento em sistema autorizado de liquidação e custódia. Multa. - Não-convocação das assembléias gerais de quotistas para conhecimento e aprovação das demonstrações financeiras dos fundos de investimento administrados. Multa. - Alteração da política de investimento dos fundos, com aumento substancial de risco, em desacordo com o perfil conservador dos quotistas do fundo. Suspensão e Multa. - Negligência, imperícia e imprudência na administração de fundos de investimento. Multa. | cvm/pas/2008/22-2005.md |
 
 ### Citada sem dispositivo identificado
@@ -2497,6 +2308,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
 | pas | 08/2005 | 2007-12-12 | parcial | contabil-demonstracoes | incorporação de controlada - laudo de avaliação do patrimônio a preços de mercado; dever de diligência dos administradores nas avaliações - aplicação retroativa de nova interpretação lega; exercício abusivo de poder de controle; laudos de avaliação da incorporadora Braskem S/A e da incorporada Trikem S/A em desacordo com o disposto no art. 264 da Lei nº 6.404/76 - advertência. exercício abusivo de poder de controle - absolvição. descumprimento do dever de diligência - advertência. | cvm/pas/2007/08-2005.md |
 
 ## icvm-441
@@ -2552,12 +2364,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 15, § 2º | pas | 19957.004381/2021-68 | 2023-04-11 | parcial | fundos-investimento | Apurar suposta infração por parte de gestora e de administradoras de FIDC (i) ao art. 15, § 2º, da Instrução CVM n° 356/2001 c/c art. 92, caput, I, da Instrução CVM nº 555/2014; e (ii) ao art. 1º, § 1º, da Instrução CVM nº 444/2006, c/c art. 92, caput, I, da Instrução CVM nº 555/2014. Multas e absolvições. | cvm/pas/2023/19957-004381-2021-68.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, inciso VI | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | manipulacao-fraude | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c infração ao art. 16, IV da Instrução CVM nº 434/2006, por assim agir na condição de agente autônomo de investimento; exercício da atividade de administração de carteira, sem autorização, em infração ao art. 3º da Instrução CVM nº 306/1999; prática de churning, operações fraudulentas com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979; prática de churning, operações fraudulentas, incluindo casos com contrato de carteira administrada, com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979 c/c art. 16, VI da Instrução CVM nº 306/1999; na condição de administrador de carteira, delegar a pessoas não habilitadas essa função, em infração ao art. 14, incisos II e IV da Instrução CVM nº 306/1999; na condição de corretora de valores mobiliários e responsáveis, permitir o exercício de atividades de mediação por pessoas não autorizadas, em infração ao disposto no art. 13, I, c, da Instrução CVM nº 387/2003; na condição de integrante do sistema de distribuição do mercado de valores mobiliários, concorrer para a manutenção de esquemas de churning, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979. Extinção de punibilidade, multas e absolvições. | cvm/pas/2022/19957-000198-2020-11.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2624,7 +2430,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico Nélson Câmara da Silva na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
+| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
 
 ### art. 3º
 
@@ -2636,13 +2442,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico Nélson Câmara da Silva na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
+| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
 
 ### art. 81
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico Nélson Câmara da Silva na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
+| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | cvm/pas/2018/rj2016-8769.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2845,7 +2651,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 88, § 1º | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| art. 88, § 1º | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
 
 ## icvm-494
 
@@ -2914,14 +2720,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | RJ2012/1606 | 2014-02-04 | condenacao | pld | Falhas no sistema de prevenção e combate à lavagem de dinheiro – não atualização de fichas cadastrais de clientes – não monitoramento de operações incompatíveis com o patrimônio e rendimento declarados por cliente – não comunicação à CVM de operações com indícios de lavagem de dinheiro ou de ocultação de bens de cliente. [Instrução CVM nº 301/99]. Multas. | cvm/pas/2014/rj2012-1606.md |
 | pas | SP2010/049 | 2013-11-12 | absolvicao | pld | [pessoa física] Imputação de responsabilidade pela irregularidade no cadastramento de clientes, pelo não desenvolvimento e implementação de procedimentos de controle visando à fiel observância do disposto na Instrução CVM no 301/99 e pela falta de comunicação à CVM de operações cujos valores se afiguram incompatíveis com a situação patrimonial e financeira dos clientes.Absolvições. | cvm/pas/2013/sp2010-0049.md |
-
-## icvm-507
-
-### art. 13
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13, inciso I, alínea c | pas | 19957.000198/2020-11; 21/2013 | 2022-03-29 | parcial | manipulacao-fraude | Exercício da atividade de administração de carteira, sem autorização da CVM, em infração ao art. 3º da Instrução CVM nº 306/1999, c/c infração ao art. 16, IV da Instrução CVM nº 434/2006, por assim agir na condição de agente autônomo de investimento; exercício da atividade de administração de carteira, sem autorização, em infração ao art. 3º da Instrução CVM nº 306/1999; prática de churning, operações fraudulentas com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979; prática de churning, operações fraudulentas, incluindo casos com contrato de carteira administrada, com o propósito de gerar corretagem, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979 c/c art. 16, VI da Instrução CVM nº 306/1999; na condição de administrador de carteira, delegar a pessoas não habilitadas essa função, em infração ao art. 14, incisos II e IV da Instrução CVM nº 306/1999; na condição de corretora de valores mobiliários e responsáveis, permitir o exercício de atividades de mediação por pessoas não autorizadas, em infração ao disposto no art. 13, I, c, da Instrução CVM nº 387/2003; na condição de integrante do sistema de distribuição do mercado de valores mobiliários, concorrer para a manutenção de esquemas de churning, em infração ao item I c/c item II, “c” da Instrução CVM nº 8/1979. Extinção de punibilidade, multas e absolvições. | cvm/pas/2022/19957-000198-2020-11.md |
 
 ## icvm-509
 
@@ -3049,7 +2847,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor Marcos Azer Maluf. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
+| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor [pessoa física]. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
 
 ## icvm-525
 
@@ -3562,7 +3360,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
 
 ## icvm-608
 

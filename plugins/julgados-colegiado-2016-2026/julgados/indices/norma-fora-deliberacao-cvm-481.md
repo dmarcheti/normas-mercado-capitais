@@ -46,6 +46,7 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 6º | decisao-colegiado | 19957.003158/2017-17 | 2018-06-19 | nao-provido | processual | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SMI que concedeu parcialmente vista de processo investigativo, por sigilo (Decreto 7.724/12, art. 6º, I; Lei 6.385/76, art. 9º, § 2º) e por etapa investigativa em curso. Acompanhou a área técnica, que afastou a analogia com a Súmula Vinculante 14 do STF. | cvm/colegiado/2018/col-20180619-d1060.md |
 | art. 6º | decisao-colegiado | 19957.007484/2019-65 | 2019-09-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.007484/2019-65. | cvm/colegiado/2019/col-20190903-d1520.md |
+| art. 6º | decisao-colegiado | 19957.007482/2019-76 | 2019-09-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. SEI 19957.007482/2019-76. | cvm/colegiado/2019/col-20190903-d1521.md |
 | art. 6º | decisao-colegiado | 09/2016 | 2019-10-08 | indeferido | processual | O Colegiado, acompanhando o voto do relator, indeferiu pedidos de produção de provas apresentados por acusados em PAS sobre deveres fiduciários de diretores da Petrobras na contratação do navio-sonda Titanium Explorer. Os pedidos foram considerados genéricos, sem indicação específica e fundamentada das provas (art. 43, §3º, ICVM 607/19). | cvm/colegiado/2019/col-20191008-d0810.md |
 
 ## Citada sem dispositivo identificado

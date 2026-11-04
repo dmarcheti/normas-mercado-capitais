@@ -189,7 +189,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
 
 ## res-cvm-79
 

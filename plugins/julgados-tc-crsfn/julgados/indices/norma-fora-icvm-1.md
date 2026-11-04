@@ -13,24 +13,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 6º, parágrafo único | termo-compromisso | 06/2008 | 2009-07-28 | aceito | divulgacao-informacoes | Apreciação de proposta de termo de compromisso PAS 06/2008. | cvm/colegiado/2009/col-20090728-d13.md |
 
-## art. 13
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
-
-## art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
-
-## art. 17
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | termo-compromisso | RJ2005/3742 | 2006-05-30 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de administradores e acionistas controladores da Usina Costa Pinto S.A., acompanhando o Comitê. Fundamento: não atendido o inciso I do §5º do art. 11 da Lei 6.385/76, pois o ato ilícito não cessou. O Comitê também considerou despropositada a obrigação de a CVM fornecer listas aos proponentes. | cvm/colegiado/2006/col-20060530-d02.md |
-
 ## art. 18
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

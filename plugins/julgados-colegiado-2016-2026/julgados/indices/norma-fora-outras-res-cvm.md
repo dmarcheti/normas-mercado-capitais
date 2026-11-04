@@ -68,7 +68,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
-| decisao-colegiado | RJ2013/7137 | 2016-02-16 | conhecimento | ofertas-publicas | O Colegiado, acompanhando o voto do diretor relator, não conheceu do recurso da Gaia Securitizadora S.A. contra indeferimento de registro definitivo de oferta de CRIs (art. 7º, ICVM 414/2004), por perda de objeto: os CRIs do registro provisório foram resgatados no vencimento. Devolveu o processo à SRE. | cvm/colegiado/2016/col-20160216-d8747.md |
 
 ## res-cvm-15
 
@@ -85,6 +84,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 05/2020; 19957.000841/2021-89 | 2021-02-10 | outro | normativo | O Colegiado aprovou a Resolução CVM 18/2021, que aprova o Documento de Revisão de Pronunciamentos Técnicos CPC 17, sobre a reforma da taxa de juros de referência (fase 2), após audiência pública SNC 05/2020. Não foi submetida à AIR, por visar convergência a padrões internacionais. | cvm/colegiado/2021/col-20210210-d2000.md |
+
+## res-cvm-25-1967
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2013/7137 | 2016-02-16 | conhecimento | ofertas-publicas | O Colegiado, acompanhando o voto do diretor relator, não conheceu do recurso da Gaia Securitizadora S.A. contra indeferimento de registro definitivo de oferta de CRIs (art. 7º, ICVM 414/2004), por perda de objeto: os CRIs do registro provisório foram resgatados no vencimento. Devolveu o processo à SRE. | cvm/colegiado/2016/col-20160216-d8747.md |
 
 ## res-cvm-26
 
@@ -918,14 +925,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | fundos-investimento | Em consulta, o Colegiado, por unanimidade, acompanhou a SSE: FII e Fiagro podem recomprar as próprias cotas para cancelamento (art. 12, IV, Lei 8.668/1993), desde que o regulamento replique as regras de recompra de FIF Ações (RCVM 175, Anexo I, art. 56, §6º). A OPAC sobre cotas próprias exige autorização regulamentar e cancelamento imediato. | cvm/colegiado/2025/col-20250520-d3280.md |
-
-## res-cvm-2021
-
-### art. 4º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º, inciso II | decisao-colegiado | 19957.017962/2024-11 | 2024-12-10 | indeferido | criptoativos | O Colegiado, por unanimidade, indeferiu pedido da Vert Companhia Securitizadora de dispensa do depósito centralizado (art. 4º, I e II, da RCVM 31/2021) para tokens de securitização lastreados em CPR-F. Acompanhou as áreas técnicas: o pedido não especificou como o depósito exerceria suas funções e garantias. | cvm/colegiado/2024/col-20241210-d3190.md |
 
 ## res-cvm-2157
 

@@ -7,12 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0049.md](../../../normas/normas/cvm/resolucoes/0049.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
-## art. 49
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 49 | pas | 19957.004285/2019-03 | 2024-06-04 | absolvicao | auditoria-independente | Apurar eventuais falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Companhia Energética de Minas Gerais - CEMIG, referente ao exercício social de 2017, em alegada infração ao art. 20 da Instrução CVM nº 308/1999. Absolvição. | cvm/pas/2024/19957-004285-2019-03.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

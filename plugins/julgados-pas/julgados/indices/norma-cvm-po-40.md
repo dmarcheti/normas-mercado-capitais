@@ -11,7 +11,7 @@ Norma: [cvm/pareceres-orientacao/0040.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
+| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 | pas | 19957.001908/2021-01 | 2024-09-24 | condenacao | ofertas-publicas | Apurar responsabilidade por suposta oferta pública de distribuição de valores mobiliários sem a obtenção do registro. Multas. | cvm/pas/2024/19957-001908-2021-01.md |
 | pas | 19957.012344/2022-12 | 2024-08-27 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/2003, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979. Multa, Proibição Temporária e Absolvição. | cvm/pas/2024/19957-012344-2022-12.md |
 | pas | 19957.006440/2021-32 | 2024-08-13 | condenacao | ofertas-publicas | Apurar suposta realização de oferta pública irregular de valores mobiliários sem obtenção de registro ou dispensa. Multas. | cvm/pas/2024/19957-006440-2021-32.md |

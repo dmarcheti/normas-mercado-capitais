@@ -27,7 +27,7 @@ Norma: [cvm/resolucoes/0160.md](../../../normas/normas/cvm/resolucoes/0160.md) (
 |---|---|---|---|---|---|---|---|
 | art. 4º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | exercicio-irregular | Apurar suposta prática de operação fraudulenta e suposta oferta de valores mobiliários sem obtenção de registro. Multas e proibições. | cvm/pas/2023/19957-002835-2022-47.md |
 | art. 4º | pas | 19957.007114/2022-23 | 2024-10-15 | condenacao | ofertas-publicas | Apurar suposta oferta irregular de Contrato de Investimento Coletivo - CIC sem o devido registro na CVM ou eventual dispensa, em infração ao inciso I, do §5º, do artigo 19 da Lei nº 6.385/76, e aos artigos 2º e 4º da Instrução CVM 400/03.Multas. | cvm/pas/2024/19957-007114-2022-23.md |
-| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 4º | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## art. 6º
 
@@ -35,17 +35,24 @@ Norma: [cvm/resolucoes/0160.md](../../../normas/normas/cvm/resolucoes/0160.md) (
 |---|---|---|---|---|---|---|---|
 | art. 6º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | manipulacao-fraude | Apurar supostas irregularidades de operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra de dever de diligência no projeto de construção do hotel LSH Barra. Multas, absolvições. | cvm/pas/2024/19957-007626-2019-94.md |
 
+## art. 14
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 14 | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | informacao-privilegiada | Apurar suposta prática de negociação de ativos em períodos vedados, em infração ao disposto no art. 54 da Resolução CVM nº 160/2022 e no art. 14 da Resolução CVM nº 44/2021. Absolvição e Advertência. | cvm/pas/2024/19957-016206-2023-85.md |
+
 ## art. 24
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 24 | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | ofertas-publicas | Irregularidades na 1ª emissão, em duas séries, de debêntures da Venture Capital Participações e Investimentos S.A., realizada nos moldes da Instrução CVM nº 476/2009, que dispõe sobre as ofertas públicas de valores mobiliários distribuídas com esforços restritos e a negociação desses valores mobiliários nos mercados regulamentados.Multas, absolvições e reconhecimento da extinção de punibilidade. | cvm/pas/2023/19957-008816-2018-48.md |
+| art. 24, § 1º | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
 
 ## art. 43
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 43 | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
+| art. 43 | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## art. 53
 

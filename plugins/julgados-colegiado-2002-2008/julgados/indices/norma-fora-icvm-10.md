@@ -64,7 +64,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | RJ2003/6670 | 2003-09-11 | parcial | opa | O Colegiado aprovou procedimentos diferenciados e autorizou a Unibanco Holdings a operar com ações de própria emissão. Não acatou transferir despesas da OPA ao Unibanco, mantida a vedação do art. 4º, § 3º, da Instrução 361/02. Fundamento: art. 34 da Instrução CVM 361/02. | cvm/colegiado/2003/col-20030911-d01.md |
 | art. 3º | decisao-colegiado | RJ2003/8029 | 2004-02-17 | outro | assembleia-acionistas | Em consulta de escritório de advocacia sobre o resgate de ações da Petrobras Distribuidora (art. 4º, §5º, da Lei 6.404/76), o Colegiado manteve o entendimento da SRE (MEMO/SRE/GER-1/N.º 29/2004): o pagamento deve ser em ações da Petrobras. Alternativamente, a critério do acionista resgatado, as ações podem ser alienadas em mercado, com o produto pago a ele. | cvm/colegiado/2004/col-20040217-d04.md |
-| art. 3º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
 | art. 3º | decisao-colegiado | RJ2004/2765 | 2004-07-19 | deferido | deveres-administradores | Por maioria, o Colegiado deferiu autorização para a Calçados Azaléia S.A. negociar de forma privada ações de própria emissão de ex-diretores (art. 23 da Instrução CVM 10/80), condicionada à aprovação de plano de opção de compra para antigos e atuais administradores. Vencidos a relatora e um diretor, que propunham indeferimento por não atingir todos os preferencialistas. | cvm/colegiado/2004/col-20040719-d02.md |
 | art. 3º | decisao-colegiado | RJ2004/2765 | 2004-11-09 | deferido | outros | O Colegiado aprovou o voto do relator, que concedeu autorização especial para negociação privada de ações próprias da Calçados Azaléia S.A. para plano de opção de compra (art. 23 da Instrução CVM 10/80; art. 168 da Lei 6.404/76). Eficácia condicionada a alteração do estatuto, exclusão de ex-funcionários do plano e aprovação do novo plano em AGE. Dois diretores divergiram. | cvm/colegiado/2004/col-20041109-d02.md |
 | art. 3º | decisao-colegiado | RJ2005/8293 | 2005-12-20 | deferido | assembleia-acionistas | O Colegiado autorizou a Gafisa a manter em tesouraria ações preferenciais resgatáveis classes B e C acima do limite da Instrução CVM 10/80, enquanto durar o gravame. Dispensou a divulgação do laudo do art. 264 da Lei 6.404/76 na ausência de manifestação dos acionistas, que aprovarão a operação. | cvm/colegiado/2005/col-20051220-d10.md |
@@ -87,17 +86,10 @@ Norma: fora do acervo.
 | art. 3º | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
 | art. 3º | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
 
-## art. 4º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
-
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
 | art. 5º | decisao-colegiado | RJ2008/2748 | 2008-05-06 | indeferido | manipulacao-fraude | O Colegiado, por unanimidade, negou autorização para negociação privada de ações próprias a preço acima do de mercado, pedida por Suzano e Votorantim, contra proposta da SEP. Fundamento: art. 12 da Instrução 10/80, que veda preço superior ao de mercado, ainda que haja contrato anterior. | cvm/colegiado/2008/col-20080506-d02.md |
 | art. 5º | decisao-colegiado | RJ2008/2748 | 2008-06-05 | provido | manipulacao-fraude | O Colegiado deu provimento a reconsideração da Suzano e da Votorantim e autorizou negociação privada de ações próprias ao preço de mercado (art. 12, Instrução 10/80). Excepcionou o limite de tesouraria (arts. 3º e 5º), por não restarem minoritários ordinários. | cvm/colegiado/2008/col-20080605-d09.md |
 | art. 5º | decisao-colegiado | RJ2008/2535 | 2008-11-25 | provido | outros | Por maioria, o Colegiado deu provimento ao recurso da São Carlos Empreendimentos e Participações S.A. e considerou regular a aprovação de programa de recompra sem os requisitos legais na data da aprovação, desde que atendidos na data da efetiva recompra. Exigiu que o fato relevante consigne esse ponto. Determinou estudos da SMD para alterar a Instrução 10/80. | cvm/colegiado/2008/col-20081125-d01.md |

@@ -478,6 +478,7 @@ financeira credito cooperativa instituto fundacao clube bolsa mercados valores m
 inc ltd llc plc gmbh limited corporation corp co. administracao intervencao liquidacao
 recuperacao judicial outros outras brasil brasileira nacional internacional importacao
 exportacao representacoes comunicacao editora hotel hoteis farmaceutica quimica
+estado uniao municipio prefeitura governo
 """.split())
 # Palavra que não é nome de gente (títulos e descrições do inventário).
 _NAO_NOME = frozenset("""
@@ -562,6 +563,7 @@ def partes_da_descricao(desc, tipo=""):
 _ROTULO = re.compile(r"(?im)^\W*(?:acusad[oa]s?|acusado\(s\)|acusada\(s\)|interessad[oa]s?|"
                      r"recorrentes?|proponentes?|compromitentes?)\s*:[ \t]*(.*)$")
 _OUTRO_ROTULO = re.compile(r"^\W*[A-ZÀ-Ý][A-Za-zÀ-ÿ()\s]{1,30}:")
+_FIM_PARTES = re.compile(r"^\s*(?:[a-zà-ÿ(]|\d+[.)]\s|.*§)")  # prosa: minúscula, "(i)", "94.", §
 
 
 def partes_do_corpo(corpo):
@@ -576,6 +578,8 @@ def partes_do_corpo(corpo):
         valor = [re.sub(r"(?i)^assunto\s*:\s*", "", m.group(1)).strip()]
         for prox in linhas[i + 1:i + 30]:
             if not prox.strip() or prox.startswith("#") or _OUTRO_ROTULO.match(prox):
+                break
+            if _FIM_PARTES.match(prox):  # "(i) multa..." ou prosa do voto: acabou a lista
                 break
             valor.append(prox.strip())
         out += [n for n in separar_partes("\n".join(v for v in valor if v)) if n not in out]

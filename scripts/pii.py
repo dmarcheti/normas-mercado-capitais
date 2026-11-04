@@ -384,20 +384,65 @@ def _assinatura_bloco(texto):
     return spans
 
 
+# Nome de testemunha ou signatário cortado no bloco de assinatura: as outras ocorrências no
+# documento (carimbo do cartório, com quebra de linha e caixa diferente) saem também. Só nomes de
+# 2 ou mais palavras; no bloco "Testemunhas:" só o nome depois de "Nome:" (linha solta do bloco
+# pode ser o signatário da CVM ou o próprio timbre).
+_NOME_NO_BLOCO = re.compile(r"\bN(?:ome|Ome|OME|óme)\s*:?[ \t]*(?P<nome>[^\n]*?)"
+                            r"(?=\s*(?:\bN(?:ome|Ome|OME|óme)\b|\bCPF\b|\bR\.?G\b|\bC\.\s?I\.|$))",
+                            re.M)
+_PALAVRA_DE_NOME = re.compile(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'.\-]*")
+
+
+def _nome_de_pessoa(trecho):
+    """Nome limpo (2 palavras ou mais, só letras) ou None."""
+    nome = re.sub(r"\s+", " ", trecho.strip(" \t\n*,;.-–"))
+    palavras = nome.split()
+    if (MARCADOR in nome or not palavras or len(palavras) > 8
+            or not all(_PALAVRA_DE_NOME.fullmatch(p) for p in palavras)
+            or sum(len(p) >= 3 for p in palavras) < 2):
+        return None
+    return nome
+
+
+# A outra ocorrência só sai perto de carimbo, assinatura ou documento de identidade: no bloco
+# digitalizado o "Nome:" também traz o compromitente, que é parte e fica no texto corrido.
+_CONTEXTO_DE_FIRMA = re.compile(r"reconhe[cç]|\bfirmas?\b|testem|\bnome\s*:|\bR\.?\s?G\b|\bCPF\b"
+                                r"|assinad|tabeli|cart[óo]rio", re.I)
+_JANELA_DE_FIRMA = 150
+
+
+def _outras_ocorrencias(texto, nomes):
+    spans = []
+    for nome in sorted(set(nomes), key=len, reverse=True):
+        rx = re.compile(r"(?<![\wÀ-ÿ])" + r"\s+".join(re.escape(p) for p in nome.split())
+                        + r"(?![\wÀ-ÿ])", re.I)
+        spans += [m.span() for m in rx.finditer(texto)
+                  if _CONTEXTO_DE_FIRMA.search(texto, max(0, m.start() - _JANELA_DE_FIRMA),
+                                               m.start())]
+    return spans
+
+
 def limpar_contando(texto):
     """Texto sem dados pessoais e a contagem de cortes por regra."""
     texto = texto or ""
     cont = {}
 
-    def aplica(nome, spans):
+    nomes = []
+
+    def aplica(nome, spans, guardar=None):
         nonlocal texto
         spans = [s for s in spans if s[1] > s[0]]
+        if guardar:
+            nomes.extend(n for n in (_nome_de_pessoa(x) for a, b in spans
+                                     for x in guardar(texto[a:b])) if n)
         if spans:
             cont[nome] = cont.get(nome, 0) + len(_unir(spans))
             texto = _substituir(texto, spans)
 
-    aplica("testemunha", [m.span(3) for m in _TESTEMUNHA_ASSIN.finditer(texto)])
-    aplica("testemunha", _testemunhas_bloco(texto))
+    aplica("testemunha", [m.span(3) for m in _TESTEMUNHA_ASSIN.finditer(texto)], lambda t: [t])
+    aplica("testemunha", _testemunhas_bloco(texto),
+           lambda t: [m.group("nome") for m in _NOME_NO_BLOCO.finditer(t)])
     aplica("email", [m.span() for m in _EMAIL.finditer(texto)
                      if not _EMAIL_INSTITUCIONAL.match(m.group(0))])
     aplica("nascimento", [m.span(1) for m in _NASC.finditer(texto)])
@@ -410,7 +455,8 @@ def limpar_contando(texto):
     aplica("qualificacao", [m.span() for m in _QUALIF.finditer(texto)])
     aplica("qualificacao", [m.span() for m in _QUALIF2.finditer(texto)])
     # por último: a profissão isolada só aparece depois do corte da qualificação
-    aplica("assinatura", _assinatura_bloco(texto))
+    aplica("assinatura", _assinatura_bloco(texto), lambda t: [t])
+    aplica("testemunha", _outras_ocorrencias(texto, nomes))
     return texto, cont
 
 

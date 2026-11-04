@@ -13,11 +13,16 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 5º | decisao-colegiado | 19957.002328/2025-56 | 2025-11-18 | — | processual | O Colegiado, por unanimidade e acompanhando a SMI, negou provimento ao recurso do Esh Theta Master FIF Multimercado contra a decisão do Ofício Interno SMI nº 54/2025 sobre o pedido de vista aos autos, mantendo-a. O recurso contra a decisão do Ofício Interno SMI nº 34/2025 teve a deliberação suspensa por pedido de vista. | cvm/colegiado/2025/col-20251118-d3324.md |
 
+## art. 17
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 17 | decisao-colegiado | 19957.008553/2024-15 | 2025-11-18 | parcial | processual | O Colegiado deu provimento parcial a recurso contra decisão da SRE que restringiu vista dos autos. Determinou mais documentos e vista dos Quadros 5, 6 e 7 do Ofício Interno nº 34/2025, com tarjamento do sigiloso em vez de supressão. Fundamento: interpretação estrita das hipóteses de sigilo, por poderem resultar medidas cautelares (art. 9º, §1º, da Lei 6.385/1976). | cvm/colegiado/2025/col-20251118-d3349.md |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008553/2024-15 | 2025-11-18 | parcial | processual | O Colegiado deu provimento parcial a recurso contra decisão da SRE que restringiu vista dos autos. Determinou mais documentos e vista dos Quadros 5, 6 e 7 do Ofício Interno nº 34/2025, com tarjamento do sigiloso em vez de supressão. Fundamento: interpretação estrita das hipóteses de sigilo, por poderem resultar medidas cautelares (art. 9º, §1º, da Lei 6.385/1976). | cvm/colegiado/2025/col-20251118-d3349.md |
 | decisao-colegiado | 19957.006191/2025-17 | 2025-09-09 | nao-provido | processual | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que deferiu parcialmente o acesso aos autos e negou acesso à resposta da Eletrobras, protegida por pedido de confidencialidade, acompanhando a área técnica. Fundamento: sigilo empresarial, sem PAS formalmente instaurado contra o recorrente. | cvm/colegiado/2025/col-20250909-d3348.md |
 | decisao-colegiado | 19957.013283/2024-64 | 2025-09-02 | nao-provido | processual | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que indeferiu tratamento sigiloso de documentos em processo de acesso aos autos, mantendo o entendimento da SEP. Fundamento: processos administrativos são públicos e o sigilo é interpretado restritivamente; arbitragem em curso não atrai sigilo (art. 189, III, do CPC). | cvm/colegiado/2025/col-20250902-d3302.md |
 | decisao-colegiado | 19957.019109/2024-25 | 2025-06-17 | nao-provido | processual | O Colegiado, por unanimidade, negou provimento a recurso da KPMG e de sua responsável técnica que pedia restrições ao acesso da Americanas aos autos de PAS. Fundamento: sigilo profissional do auditor não é oponível à própria entidade auditada; após a acusação, sigilo é exceção; informações legalmente sigilosas seguem protegidas. | cvm/colegiado/2025/col-20250617-d3244.md |

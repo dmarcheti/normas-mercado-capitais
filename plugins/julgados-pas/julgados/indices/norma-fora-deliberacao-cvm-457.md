@@ -121,7 +121,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 34 | pas | RJ2002/1415 | 2005-02-17 | condenacao | divulgacao-informacoes | PARANAPANEMA S/A E CIA. PARAIBUNA DE METAIS Operação de cisão parcial com incorporação. [pessoa física] de [pessoa física] divulgação imediata de aviso de fato relevante relativamente ao processo de cisão parcial da Paraibuna e de incorporação da parcela cindida pela [pessoa física] ao disposto no inciso I do art. 224 da Lei nº 6.404/76 e no art. 2º da Instrução CVM nº 31/84. Advertências. | cvm/pas/2005/rj2002-1415.md |
+| art. 34 | pas | RJ2002/1415 | 2005-02-17 | condenacao | divulgacao-informacoes | PARANAPANEMA S/A E CIA. PARAIBUNA DE METAIS Operação de cisão parcial com incorporação. [pessoa física] de Ações. Não divulgação imediata de aviso de fato relevante relativamente ao processo de cisão parcial da Paraibuna e de incorporação da parcela cindida pela Paranapanema. Infração ao disposto no inciso I do art. 224 da Lei nº 6.404/76 e no art. 2º da Instrução CVM nº 31/84. Advertências. | cvm/pas/2005/rj2002-1415.md |
 | art. 34 | pas | 24/2004 | 2007-07-31 | parcial | contabil-demonstracoes | Imputação de infração ao disposto no art. 264, caput, e § 3º da Lei nº 6.404/76. Multa. - Imputação de exercício abusivo de poder. Absolvição. | cvm/pas/2007/24-2004.md |
 
 ## Citada sem dispositivo identificado

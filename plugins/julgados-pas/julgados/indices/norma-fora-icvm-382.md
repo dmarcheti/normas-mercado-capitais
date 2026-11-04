@@ -11,7 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, inciso VII | pas | SP2005/0338 | 2007-07-03 | absolvicao | intermediacao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e [pessoa física] de Investimentos Ltda. em detrimento de um investidor. Absolvições. | cvm/pas/2007/sp2005-0338.md |
+| art. 3º, inciso VII | pas | SP2005/0338 | 2007-07-03 | absolvicao | intermediacao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e Opções Agentes de Investimentos Ltda. em detrimento de um investidor. Absolvições. | cvm/pas/2007/sp2005-0338.md |
 
 ## art. 4º
 

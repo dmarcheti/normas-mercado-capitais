@@ -8,14 +8,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
-## icvm-0
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/3767 | 2015-07-21 | deferido | outros | O Colegiado deferiu pedido da Contax Participações S.A. de autorização (art. 23 da ICVM 10/1980) para alienação privada de Units em tesouraria, destinadas à liquidação de parcelas do preço da Todo Tecnologia de Informação S.A., acompanhando a SEP, desde que observadas as condições contratuais de cálculo. | cvm/colegiado/2015/col-20150721-d9684.md |
-
 ## icvm-1
 
 ### art. 21
@@ -64,6 +56,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | RJ2012/3454 | 2015-08-04 | parcial | divulgacao-informacoes | Recursos contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/3454. | cvm/colegiado/2015/col-20150804-d8926.md |
 | decisao-colegiado | RJ2011/9483 | 2015-07-14 | nao-provido | divulgacao-informacoes | Recurso de ofício em julgamento de processo de rito sumário. PAS RJ2011/9483. | cvm/colegiado/2015/col-20150714-d8062.md |
 | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | fundos-investimento | O Colegiado deferiu, por unanimidade, dispensa do art. 2º da ICVM 209/1994 para prorrogar o prazo de quatro fundos mútuos de investimento em empresas emergentes, pedida por três administradoras. Acompanhou a SIN, com condições: assembleia de cotistas aprovando a prorrogação com vedação a novos investimentos e Aviso ao Mercado (no REIF, a assembleia já ocorrera em 2014). | cvm/colegiado/2015/col-20150428-d9627.md |
 | decisao-colegiado | RJ2012/13345 | 2013-01-22 | deferido | outros | O Colegiado deferiu à Totvs S.A. autorização para negociar de forma privada ações de sua emissão, nos termos do art. 23 da Instrução CVM 10/80, restrita à fase inicial do Plano de Incentivo baseado em Ações. A SEP foi favorável, com base em preço de mercado, aprovação do plano em AGE e compromissos informacionais das Instruções 10/80 e 358/02. | cvm/colegiado/2013/col-20130122-d16.md |
@@ -92,14 +85,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2015/12862 | 2015-12-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/12862. | cvm/colegiado/2015/col-20151222-d9981.md |
 | decisao-colegiado | RJ2015/3610 | 2015-12-08 | outro | outros | O Colegiado declarou a perda do objeto do pedido da Rodobens de autorização para alienação privada de ações próprias, acompanhando o voto do relator. Fundamento: a Instrução CVM 10/1980 foi revogada pela Instrução 567/2015, que atribui a deliberação à assembleia ou ao conselho. | cvm/colegiado/2015/col-20151208-d9717.md |
 | decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | cvm/colegiado/2015/col-20150609-d5474.md |
-
-## icvm-6
-
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2010/16753 | 2011-11-29 | deferido | ofertas-publicas | O Colegiado deferiu pedido da Plascar Participações Industriais S.A. para registro de oferta pública de sobras de debêntures obrigatoriamente conversíveis em ações, pelo procedimento simplificado do art. 6º, §1º, da Instrução CVM 400/03. Determinou atualização do Formulário de Referência e observância do art. 8º da Instrução CVM 168/91. Pelo voto do relator, as debêntures foram equiparadas a ações neste caso. | cvm/colegiado/2011/col-20111129-d33.md |
 
 ## icvm-9
 
@@ -185,12 +170,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 3º | decisao-colegiado | 10/1980; 390/2003; RJ2014/11297 | 2015-03-04 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, concedeu à Oi S.A. as dispensas pleiteadas das Instruções CVM 10/1980 e 390/2003 para o Acordo com a controladora (transferência privada e tesouraria de ações, opção de compra). Condicionou-as à aprovação do Acordo pela assembleia geral e ao direito de voto dos preferencialistas nessa assembleia, pela expectativa legítima destes. Acompanhou o voto da relatora. | cvm/colegiado/2015/col-20150304-d9537.md |
 
-### art. 77
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 77 | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
-
 ## icvm-18
 
 ### Citada sem dispositivo identificado
@@ -207,14 +186,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/3723; RJ2014/4397 | 2015-12-15 | conhecimento | opa | O Colegiado, por unanimidade, não conheceu os pedidos de reconsideração da controladora e do Polo Fundo de Investimento em Ações e manteve a decisão de 20/05/2014, que negou recursos contra a exigência de OPA por aumento de participação do Banco Sofisa S.A. Fundamento: inexistência de erro, omissão, obscuridade ou contradição (Deliberação CVM 463/2003, inciso IX). | cvm/colegiado/2015/col-20151215-d9118-d9122.md |
 | decisao-colegiado | RJ2014/3723 | 2015-07-14 | outro | opa | O Colegiado não examinou o mérito do pedido de reconsideração de decisão sobre OPA por aumento de participação no Banco Sofisa S.A. e encaminhou o processo à SRE. Entendeu que o art. 35-A da ICVM 361/2002, incluído pela ICVM 487/2010, não se aplica retroativamente para atualizar ações em circulação com base em operações anteriores. | cvm/colegiado/2015/col-20150714-d9118.md |
-
-## icvm-24
-
-### art. 77
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 77 | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
 
 ## icvm-30
 
@@ -301,6 +272,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/12354 | 2015-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/12354. | cvm/colegiado/2015/col-20151201-d9955.md |
 | decisao-colegiado | RJ2015/9414 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9414. | cvm/colegiado/2015/col-20150929-d9853.md |
+| decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9382. | cvm/colegiado/2015/col-20150922-d9847.md |
+| decisao-colegiado | RJ2015/9381 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9381. | cvm/colegiado/2015/col-20150922-d9846.md |
+| decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9380. | cvm/colegiado/2015/col-20150922-d9845.md |
 | decisao-colegiado | RJ2015/0608 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0608. | cvm/colegiado/2015/col-20150331-d9614.md |
 
 ## icvm-47
@@ -309,6 +283,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | O Colegiado indeferiu o pedido de dispensa da BRL Trust DTVM do cumprimento do inciso IV do art. 35 da Instrução CVM 472/2008 para o Arena Fundo de Investimento Imobiliário, acompanhando a SIN. Para a SIN, a AGC de 28.11.2013 extrapolou sua competência (art. 18 da ICVM 472) ao coobrigar bens e direitos do fundo. | cvm/colegiado/2015/col-20150908-d9820.md |
 | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | cvm/colegiado/2015/col-20150616-d9688.md |
 
 ## icvm-52
@@ -317,11 +292,17 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/9381 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9381. | cvm/colegiado/2015/col-20150922-d9846.md |
-| decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9380. | cvm/colegiado/2015/col-20150922-d9845.md |
 | decisao-colegiado | RJ2015/5803 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5803. | cvm/colegiado/2015/col-20150623-d9726.md |
 | decisao-colegiado | RJ2015/5801 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5801. | cvm/colegiado/2015/col-20150623-d9725.md |
 | decisao-colegiado | RJ2015/5799 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5799. | cvm/colegiado/2015/col-20150623-d9724.md |
+
+## icvm-53
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | cvm/colegiado/2015/col-20150609-d5474.md |
 
 ## icvm-54
 
@@ -363,14 +344,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2012/10958 | 2014-07-15 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso contra indeferimento, pela SIN, de credenciamento como administrador de carteira por falta de reputação ilibada (ICVM 306/99, art. 4º, III). Havia duas condenações em PAS da CVM, uma confirmada pelo CRSFN e outra aguardando julgamento no CRSFN, com efeito suspensivo. Acompanhou o voto do relator. | cvm/colegiado/2014/col-20140715-d08.md |
 
-## icvm-81
-
-### art. 9º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º, inciso III | decisao-colegiado | RJ2015/9415 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9415. | cvm/colegiado/2015/col-20150929-d9854.md |
-
 ## icvm-82
 
 ### art. 2º
@@ -406,6 +379,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | RJ2010/16753 | 2011-11-29 | deferido | ofertas-publicas | O Colegiado deferiu pedido da Plascar Participações Industriais S.A. para registro de oferta pública de sobras de debêntures obrigatoriamente conversíveis em ações, pelo procedimento simplificado do art. 6º, §1º, da Instrução CVM 400/03. Determinou atualização do Formulário de Referência e observância do art. 8º da Instrução CVM 168/91. Pelo voto do relator, as debêntures foram equiparadas a ações neste caso. | cvm/colegiado/2011/col-20111129-d33.md |
 | art. 3º | decisao-colegiado | RJ2012/4172 | 2012-07-10 | parcial | ofertas-publicas | O Colegiado manteve a decisão da SRE que negou a dispensa de registro da oferta de sobras no aumento de capital da Gol e autorizou a homologação parcial do aumento sem os esforços de venda em bolsa, pela fundamentação de voto segundo a qual o leilão pode ser dispensado quando fadado ao fracasso. Decisão unânime. | cvm/colegiado/2012/col-20120710-d04.md |
 
 ### Citada sem dispositivo identificado
@@ -413,23 +387,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | ofertas-publicas | O Colegiado, por unanimidade, arquivou o pedido de dispensas de requisitos para oferta pública de derivativos Forex do Didier Levy Associados Holding Financeira S.A. O voto da relatora era favorável às dispensas, mas o pedido ficou prejudicado pela falta de autorização do BACEN ao ofertante e pelo descumprimento das exigências da área técnica. | cvm/colegiado/2013/col-20130625-d02.md |
-| decisao-colegiado | RJ2010/16753 | 2011-11-29 | deferido | ofertas-publicas | O Colegiado deferiu pedido da Plascar Participações Industriais S.A. para registro de oferta pública de sobras de debêntures obrigatoriamente conversíveis em ações, pelo procedimento simplificado do art. 6º, §1º, da Instrução CVM 400/03. Determinou atualização do Formulário de Referência e observância do art. 8º da Instrução CVM 168/91. Pelo voto do relator, as debêntures foram equiparadas a ações neste caso. | cvm/colegiado/2011/col-20111129-d33.md |
-
-## icvm-98
-
-### art. 77
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 77, inciso V | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
-
-## icvm-109
-
-### art. 77
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 77, inciso V | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | cvm/colegiado/2014/col-20141029-d01-r2.md |
 
 ## icvm-115
 
@@ -496,7 +453,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 2º | decisao-colegiado | RJ2009/12551 | 2009-12-22 | parcial | ofertas-publicas | O Colegiado entendeu que o leilão de sobras de aumento de capital privado da Triunfo Participações e Investimentos S.A. é oferta pública de distribuição, mas concedeu a dispensa de registro, com autorização para cancelar ações não subscritas, condicionada a prazo mínimo de 30 dias para revisão das subscrições. | cvm/colegiado/2009/col-20091222-d30.md |
-| art. 2º | decisao-colegiado | RJ2010/16753 | 2011-11-29 | deferido | ofertas-publicas | O Colegiado deferiu pedido da Plascar Participações Industriais S.A. para registro de oferta pública de sobras de debêntures obrigatoriamente conversíveis em ações, pelo procedimento simplificado do art. 6º, §1º, da Instrução CVM 400/03. Determinou atualização do Formulário de Referência e observância do art. 8º da Instrução CVM 168/91. Pelo voto do relator, as debêntures foram equiparadas a ações neste caso. | cvm/colegiado/2011/col-20111129-d33.md |
 
 ### art. 6º
 
@@ -2223,7 +2179,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 541/2013; 542/2013; 19957.003979/2015-91 | 2015-12-22 | indeferido | infraestrutura-mercado | O Colegiado indeferiu o pleito da ANBIMA de dilação do prazo de adaptação às Instruções CVM 541/2013 e 542/2013 quanto ao registro de ônus e gravames nas centrais depositárias, acompanhando a SMI, para quem os prazos eram longos e conhecidos. Sugeriu à área técnica Ofício-Circular esclarecendo que, a partir de 04.01.2016, os gravames devem ser constituídos nas centrais. | cvm/colegiado/2015/col-20151222-d1239.md |
-| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | cvm/colegiado/2015/col-20150609-d5474.md |
 
 ## icvm-545
 

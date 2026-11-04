@@ -92,6 +92,7 @@ Norma: fora do acervo.
 | art. 8º, § 4º | decisao-colegiado | RJ2013/12255; RJ2013/12260; RJ2013/12271 | 2015-11-24 | nao-provido | multa-cominatoria-taxa | Recursos contra decisão da SIN em processos de multa cominatória. Proc. s. RJ2013/12255, RJ2013/12260 e RJ2013/12271. | cvm/colegiado/2015/col-20151124-d9931.md |
 | art. 8º, § 4º | decisao-colegiado | RJ2013/12435 | 2015-12-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12435. | cvm/colegiado/2015/col-20151222-d9993.md |
 | art. 8º, § 5º | decisao-colegiado | RJ2011/6494 | 2011-08-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2011/6494. | cvm/colegiado/2011/col-20110823-d04.md |
+| art. 8º, § 8º | decisao-colegiado | RJ2008/11194 | 2009-02-17 | parcial | fundos-investimento | O Colegiado concedeu as dispensas pedidas com base nas Instruções CVM 356/03 e 444/06 ao RB Capital FIDC-NP Multicarteira, exceto a de classificação de risco das cotas, pois o administrador pode dispensá-la com alterações pontuais no Regulamento. Estendeu à SIN, por ato normativo, a delegação de competência da SRE (Deliberação 535/08). | cvm/colegiado/2009/col-20090217-d02.md |
 
 ## art. 9º
 

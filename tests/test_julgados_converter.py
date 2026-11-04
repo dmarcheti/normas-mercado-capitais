@@ -101,6 +101,14 @@ PAGINAS_PAS = [
     CAB + "VOTO\nII. MÉRITO\nEntendo comprovada a infração apontada pela acusação.\n" + RODAPE % 4,
 ]
 
+NOMES_PAGINA = ("alfa", "beta", "gama", "delta")
+_PALAVRAS = ("acusação", "defesa", "mérito", "prova", "prazo", "multa", "recurso", "parecer")
+
+
+def unica(nome, j):
+    """Linha de miolo que não se repete entre páginas (a chave troca só os dígitos)."""
+    return "Texto %s sobre a %s do processo." % (nome, _PALAVRAS[j])
+
 
 class PecasTest(unittest.TestCase):
     def test_tirar_repetidas_com_numero_de_pagina(self):
@@ -109,6 +117,122 @@ class PecasTest(unittest.TestCase):
         self.assertNotIn("COMISSÃO DE VALORES", texto)
         self.assertNotIn("pg. 2", texto)
         self.assertIn("RELATÓRIO", texto)  # cabeçalho de peça fica
+
+    def test_tirar_repetidas_mantem_linha_repetida_no_miolo(self):
+        # Fase 3b: termos parecidos no mesmo PDF, data em lista, fecho e subtítulo repetidos no
+        # miolo da página são texto da peça; só cabeçalho e rodapé (borda da página) saem
+        miolo = ["Cláusula 1ª - O COMPROMITENTE pagará R$ 100.000,00 à CVM.",
+                 "Das preliminares",
+                 "Rio de Janeiro, 12 de maio de 2018.",
+                 "ITR de 30.06.16."]
+        paginas = []
+        for i, nome in enumerate(NOMES_PAGINA):
+            paginas.append("\n".join(
+                ["PROCESSO ADMINISTRATIVO SANCIONADOR Nº 19957.000001/2020-01",
+                 unica(nome, 0), unica(nome, 1)] + miolo
+                + [unica(nome, 2), unica(nome, 3), "Página %d de 4" % (i + 1)]))
+        ret = []
+        texto, n = conv.tirar_repetidas(paginas, retirado=ret)
+        self.assertEqual(n, 8)  # cabeçalho e "Página N de 4" das 4 páginas
+        self.assertNotIn("PROCESSO ADMINISTRATIVO SANCIONADOR", texto)
+        self.assertNotIn("de 4", texto)
+        for linha in miolo:
+            self.assertEqual(texto.count(linha), 4, linha)
+
+    def test_tirar_repetidas_borda_so_conta_ocorrencia_na_borda(self):
+        # a mesma linha no cabeçalho de 3 páginas e no miolo de outra: só as da borda saem
+        cab = "Processo CVM nº 19957.000002/2021-02"
+        paginas = ["\n".join([cab] + [unica(nome, j) for j in range(6)])
+                   for nome in NOMES_PAGINA[:3]]
+        u = [unica(NOMES_PAGINA[3], j) for j in range(8)]
+        paginas.append("\n".join(u[:4] + [cab] + u[4:]))
+        texto, n = conv.tirar_repetidas(paginas)
+        self.assertEqual(n, 3)
+        self.assertEqual(texto.count(cab), 1)
+        # na borda de 2 páginas só: não sai
+        texto, n = conv.tirar_repetidas(paginas[:2] + [paginas[3]])
+        self.assertEqual((n, texto.count(cab)), (0, 3))
+
+    def test_tirar_repetidas_mantem_nota_de_rodape_e_titulo_de_cada_peca(self):
+        # cvm-pas-19957-003611-2020-91: "12 Doc. 1619945." no pé de várias páginas é nota;
+        # cvm-col-20181009-d1183: "TERMO DE COMPROMISSO" no topo de cada termo (páginas não
+        # seguidas) é título da peça, não cabeçalho de página
+        paginas = []
+        for i, nome in enumerate(NOMES_PAGINA * 2):
+            topo = ["TERMO DE COMPROMISSO"] if i % 2 == 0 else []
+            paginas.append("\n".join(
+                topo + [unica(nome, j + i % 2) for j in range(5)]
+                + ["%d Doc. %d." % (i + 1, 1619945 + i), "Página %d de 8" % (i + 1)]))
+        texto, n = conv.tirar_repetidas(paginas)
+        self.assertEqual(n, 8)  # só "Página N de 8"
+        self.assertEqual(texto.count("TERMO DE COMPROMISSO"), 4)
+        self.assertIn("1 Doc. 1619945.", texto)
+        self.assertIn("8 Doc. 1619952.", texto)
+        # o fecho do termo no pé de uma página e no topo da seguinte: bordas diferentes, fica
+        fecho = "E, assim, por estarem justos e acordados, firmam o presente TERMO,"
+        u = [[unica(nome, j) for j in range(6)] for nome in NOMES_PAGINA[:3]]
+        paginas = ["\n".join([fecho] + u[0]), "\n".join(u[1] + [fecho]), "\n".join([fecho] + u[2])]
+        texto, n = conv.tirar_repetidas(paginas)
+        self.assertEqual((n, texto.count(fecho)), (0, 3))
+
+    def test_tirar_repetidas_preserva_bloco_de_interessados(self):
+        # cvm-pas-rj2007-4247: o 2º interessado, linha só com o nome, repetido no topo das peças
+        paginas = []
+        for rot, nome in zip(("Interessados", "Interessados", "Acusados"), NOMES_PAGINA):
+            paginas.append("\n".join([
+                "PROCESSO ADMINISTRATIVO CVM Nº RJ2007/0001",
+                "%s: Auditores Exemplo S/S" % rot,
+                "Fulano Beltrano Exemplo",
+                "Diretor-Relator: Sicrano"] + [unica(nome, j) for j in range(5)]))
+        texto, n = conv.tirar_repetidas(paginas)
+        self.assertEqual(n, 3)
+        self.assertEqual(texto.count("Fulano Beltrano Exemplo"), 3)
+        self.assertEqual(texto.count("PROCESSO ADMINISTRATIVO CVM"), 0)
+        self.assertEqual(conv._linhas_de_partes(["Recorrentes: A", "B C", "", "D E"]), {0, 1})
+        self.assertEqual(conv._linhas_de_partes(["x", "Indiciados: A", "B C", "Relator: X", "Y"]),
+                         {1, 2})
+        self.assertEqual(conv._linhas_de_partes(["Interessado: A", "RELATÓRIO", "B"]), {0})
+
+    def test_ocr_paragrafo_lido_como_8(self):
+        f = conv.corrigir_ocr
+        self.assertEqual(f("nos termos do art. 17, 82°, II, da Lei"),
+                         "nos termos do art. 17, §2º, II, da Lei")
+        self.assertEqual(f("art. 141, 84º, da LSA"), "art. 141, §4º, da LSA")
+        self.assertEqual(f("art.\n141, 85° da LSA"), "art.\n141, §5º da LSA")
+        self.assertEqual(f("art. 141, 8 1°, da LSA"), "art. 141, §1º, da LSA")
+        self.assertEqual(f("art. 141, 884° e 5° da LSA"), "art. 141, §§4º e 5° da LSA")
+        self.assertEqual(f("art. 141, 88°, da LSA"), "art. 141, §8º, da LSA")
+        self.assertEqual(f("artigo 141, 84°, I e II"), "artigo 141, §4º, I e II")
+        # sem "art." antes, ou sem o grau, fica
+        for t in ("multa de 82° graus", "art. 17, 82, II", "Lei 6.385, 82°", "art. 8º, inciso I",
+                  "art. 11, 85.000 ações", "o art. 82º da Lei"):
+            self.assertEqual(f(t), t)
+
+    def test_ocr_romanos_em_incisos_e_titulos(self):
+        f = conv.corrigir_ocr
+        for t in ("nos incisos 1 e II, do artigo 7º", "nos incisos I e Il, do artigo 7º",
+                  "nos incisos l e 11, do artigo 7º", "nos incisos 1 e lI do artigo 7º"):
+            self.assertIn("incisos I e II", f(t), t)
+        self.assertEqual(f("inciso 1 e 11"), "inciso I e II")
+        self.assertEqual(f("x.\nIl - DA ILEGALIDADE\ntexto"), "x.\nII - DA ILEGALIDADE\ntexto")
+        self.assertEqual(f("Il. Nossas Considerações:"), "II. Nossas Considerações:")
+        self.assertEqual(f("  lI - Do mérito"), "  II - Do mérito")
+        # negativos: o número 11 legítimo e o "Il" no meio da frase ficam
+        for t in ("nos termos do art. 11 da Lei", "11 de maio de 2018", "11. Por todo o exposto",
+                  "11 - Fatos", "os incisos I e II do § 4º", "incisos 1 e 2 do art. 3º",
+                  "Il Sole 24 Ore", "Ilha Grande - RJ", "o Sr. Il - Kim", "11.1 - Das partes"):
+            self.assertEqual(f(t), t)
+
+    def test_correcao_de_ocr_so_nas_paginas_por_ocr(self):
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-ocr.pdf")
+        texto = "Pagina com texto: art. 17, 82°, II e incisos 1 e Il, mais texto aqui."
+        pm = PdfFalso({"nao-existe-ocr.pdf": texto + "\f "},
+                      ocr={"nao-existe-ocr.pdf": "x\f" + texto})
+        with mock.patch.object(conv, "_numero_de_paginas", return_value=2):
+            pags, nivel, _, _, n_ocr = conv.texto_pdf(caminho, pm)
+        self.assertEqual((nivel, n_ocr), ("ocr", 1))
+        self.assertIn("82°", pags[0])  # camada de texto: fica
+        self.assertIn("art. 17, §2º, II e incisos I e II,", pags[1])
 
     def test_segmentar(self):
         s = conv.segmentar("Preâmbulo da peça\n\nRELATÓRIO\nFatos.\n\n# 1\nVOTO DO DIRETOR X\n"
@@ -187,6 +311,16 @@ class ConverterTest(unittest.TestCase):
         self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "indeferido")
         conv.gravar_julgado(dict(novo, resultado="deferido"), "# X\n", self.raiz)
         self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "indeferido")
+
+    def test_reconversao_mantem_resultado_vazio_da_extracao(self):
+        novo = {c: "" for c in jc.CAMPOS}
+        novo.update(id="cvm-col-20250101-d3", orgao="cvm", tipo="decisao-colegiado",
+                    data="2025-01-01", ementa="RECURSO", ementa_fonte="titulo")
+        suspenso = dict(novo, ementa="Recurso. Julgamento suspenso por pedido de vista.",
+                        ementa_fonte="extracao")
+        caminho = conv.gravar_julgado(suspenso, "# X\n", self.raiz)
+        conv.gravar_julgado(dict(novo, resultado="indeferido"), "# X\n", self.raiz)
+        self.assertEqual(je.ler_julgado(caminho)[0]["resultado"], "")
 
     def test_colegiado_com_anexo_termo_sei_e_alheio(self):
         pagina = fixture("colegiado-item.html").replace(b"__CPF__", CPF.encode())
@@ -507,6 +641,21 @@ class TimbreTest(unittest.TestCase):
         self.assertEqual(n, 5)
         corpo, cortes = conv.pii.limpar_contando(limpo)
         self.assertNotIn(jc.PII, corpo)
+
+    def test_rodape_quebrado_superintendencia_de_sao_paulo_e_sede_antiga(self):
+        texto = ("Rua Sete de Setembro, 111/2-5º e 23\n"
+                 "Brasil - Tel.: (21) 3554-8686\n"
+                 "Superintendência Regional de São Paulo: Rua Formosa, 367 / 20° e 21º andares - "
+                 "CEP 01049-000 - Centro - S. Paulo - SP - Brasil - Tel: (11) 2146-2000\n"
+                 "Sede: Rua Sete de Setembro, 110 / 2º andar - Centro - Rio de Janeiro - RJ - "
+                 "CEP 20159-900 - Brasil - Tel: (21) 3233-8686 - Endereço Internet: "
+                 "http://www.cvm.gov.br\n"
+                 "O Colegiado aprovou o voto do relator.\n"
+                 "A CVM fica na Rua Sete de Setembro, 111, no centro do Rio.")
+        limpo, n = conv.tirar_timbre(texto)
+        self.assertEqual(limpo.strip(), "O Colegiado aprovou o voto do relator.\n"
+                         "A CVM fica na Rua Sete de Setembro, 111, no centro do Rio.")
+        self.assertEqual(n, 4)
 
     def test_rodape_do_sei_em_linhas_quebradas_e_numero_sei_no_texto_fica(self):
         texto = ("Conforme o despacho SEI nº 0284733, o processo segue.\n"

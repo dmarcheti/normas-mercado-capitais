@@ -7,12 +7,6 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
-## art. 24
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 24, § 1º | pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | cvm/pas/2024/19957-001231-2021-01.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

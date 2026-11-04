@@ -63,6 +63,12 @@ Norma: fora do acervo.
 | art. 28, inciso III | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | exercicio-irregular | Apurar eventual recebimento irregular de valores na condição de Agente Autônomo de Investimentos nos termos do art. 13, II da Instrução CVM nº 497/2011 Multa. | cvm/pas/2023/19957-006473-2021-82.md |
 | art. 28, inciso III | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | intermediacao | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº 30/2021, por agente autônomo de investimento. Multas, Proibição Temporária e absolvição. | cvm/pas/2024/19957-009162-2023-37.md |
 
+## art. 48
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 48, § 3º | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | cvm/pas/2025/19957-016074-2024-72.md |
+
 ## art. 152
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

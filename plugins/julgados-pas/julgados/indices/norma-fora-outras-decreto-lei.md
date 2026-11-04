@@ -22,7 +22,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da [pessoa física], na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
+| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da União Federal, na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
 | pas | RJ2008/12062 | 2009-07-14 | parcial | assembleia-acionistas | TELEBRÁS Assembléia Geral - Estatuto Social - Edital de Convocação de Acionistas - Admissão de Acionistas na Assembléia - Mesa Diretora da Assembléia - Competências. Absolvição e Advertência. | cvm/pas/2009/rj2008-12062.md |
 
 ## decreto-lei-157
@@ -177,8 +177,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do [pessoa física], em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
-| pas | 12/1997 | 2000-12-07 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física], [pessoa física], Consult Consultoria e Assessoria Técnica S/C Ltda., [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do [pessoa física] S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/12-1997.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
+| pas | 12/1997 | 2000-12-07 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física], [pessoa física], Consult Consultoria e Assessoria Técnica S/C Ltda., Estado de Mato Grosso do Sul, [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do Mato Grosso do Sul S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/12-1997.md |
 
 ## decreto-lei-2321
 
@@ -211,7 +211,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2015/9909 | 2017-09-05 | condenacao | manipulacao-fraude | Prática de operação fraudulenta no mercado de valores mobiliários. Multa. | cvm/pas/2017/rj2015-9909.md |
-| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do [pessoa física], em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
 
 ## decreto-lei-2406
 
@@ -349,7 +349,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 6º | pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e Jorge Luiz Menezes Cereja nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
+| art. 6º | pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e [pessoa física] nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
 
 ### Citada sem dispositivo identificado
 

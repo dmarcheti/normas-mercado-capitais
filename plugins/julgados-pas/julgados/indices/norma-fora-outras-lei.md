@@ -8,6 +8,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## lei-1
+
+### art. 11
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 11, inciso IV | pas | 15/1990 | 2010-08-24 | parcial | deveres-administradores | [pessoa física] Não convocação de AGO – não publicação de demonstrações financeiras – descumprimento do dever de manter atualizado o registro de companhia aberta na CVM. Multas. Atuação solidária com o controlador no desvio do objeto social da Companhia. Inabilitações. Não emissão de parecer conclusivo dos auditores quanto à adequação das Demonstrações Financeiras. Absolvições. Não apresentação de ressalva quanto ao desvio de objeto social. Absolvições. Não apresentação de ressalva quanto à não constituição de provisão para devedores duvidosos - Auditoria inepta. Advertências. | cvm/pas/2010/15-1990.md |
+
+### art. 132
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 132 | pas | RJ2009/8440 | 2010-10-26 | parcial | registro-emissor | INDÚSTRIAS TÊXTEIS BARBERÓ Não manutenção do registro de companhia aberta atualizado – não elaboração, no prazo legal, de demonstrações financeiras – não convocação e não realização de AGOs – Multas e absolvições. | cvm/pas/2010/rj2009-8440.md |
+
+### art. 142
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 142, inciso IV | pas | RJ2009/8440 | 2010-10-26 | parcial | registro-emissor | INDÚSTRIAS TÊXTEIS BARBERÓ Não manutenção do registro de companhia aberta atualizado – não elaboração, no prazo legal, de demonstrações financeiras – não convocação e não realização de AGOs – Multas e absolvições. | cvm/pas/2010/rj2009-8440.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | cvm/pas/2026/19957-001044-2025-42.md |
+| pas | 19957.009294/2017-11 | 2023-04-04 | condenacao | assembleia-acionistas | Apurar a responsabilidade de (i) diretor de relações com investidores da Recrosul, por infração ao art. 157, §4º, da Lei nº 6.404/1976 c/c art. 3º, caput, da Instrução CVM nº 358/2002; (ii) membro do conselho de administração da Recrosul, por infração ao art. 156 da Lei nº 6.404/1976; e (iii) acionista da Recrosul, por infração ao art. 115, §1º, da Lei nº 6.404/1976. Multas. | cvm/pas/2023/19957-009294-2017-11.md |
+| pas | RJ2015/5002 | 2016-03-15 | condenacao | exercicio-irregular | Atuação irregular como administrador de carteiras de valores mobiliários. Proibição temporária. | cvm/pas/2016/rj2015-5002.md |
+| pas | RJ2015-8297 | 2015-09-08 | parcial | exercicio-irregular | Exercício irregular de administração de carteira de valores mobiliários sem prévia autorização da CVM. Multa. | cvm/pas/2015/rj2015-8297.md |
+| pas | RJ2014/11558 | 2015-08-11 | condenacao | exercicio-irregular | Exercício irregular de administrador profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Proibição temporária. | cvm/pas/2015/rj2014-11558.md |
+| pas | RJ2001/8473 | 2004-10-18 | parcial | auditoria-independente | Boucinhas & Campos S/C Auditores Independentes (sucedida por Boucinhas & Campos + Soteconti Auditores Independentes S/C). Inobservância do art. 35, inciso I, da Instrução CVM nº 308/99. Realização de auditoria insuficiente. - Infração a dispositivos das Normas de Auditoria Independente das Demonstrações Contábeis NBC-T-11, aprovadas pelas Resoluções do Conselho Federal de Contabilidade nºs 820/97 e 821/97; - Infração do § 18, da Deliberação CVM nº 183/95 e dos artigos 178, §1º e 179, inciso I, da Lei nº 6.404/76, em conjunto com a Instrução CVM nº 308/99, artigos 19 e 20. - Infração do art. 26, § 2º, da Instrução CVM nº 308/99. - Infração à Instrução CVM nº 296/98, com nova redação dada pela Instrução CVM nº 350/01. | cvm/pas/2004/rj2001-8473.md |
+
 ## lei-4
 
 ### art. 23
@@ -22,10 +53,43 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | ofertas-publicas | Alegada atuação irregular no âmbito de ofertas públicas, distribuídas por plataforma eletrônica de investimento participativo, de valores mobiliários de emissão de sociedades empresárias de pequeno porte, em infração ao art. 3°, I; art. 4°, p. ú., III; art. 5°, III e §2º; art. 11, §2º, IV; art. 19, III, “e”; art. 19, V; art. 28, XVI; alínea “c” do Anexo 8 da Seção 6, todos da Instrução CVM nº 588/2017; e ao Item I c/c Item II, “a”, da Instrução CVM nº 8/1979. Absolvições. | cvm/pas/2023/19957-001621-2020-91.md |
 | pas | RJ2014/2426 | 2018-12-04 | condenacao | deveres-administradores | Destinação de resultados para reserva de lucros supostamente irregular por membros conselho de administração e pelo acionista controlador da Pettenati S/A Indústria Têxtil. Não manifestação contrária à constituição e manutenção de reserva de retenção de lucros supostamente irregular por membros do conselho fiscal da Pettenati S/A Indústria Têxtil. Infração aos artigos 116, parágrafo único, da Lei 6.404/76. Infração ao art 153 c/c art. 196 da Lei 6.404/76. Infração ao art. 163, incisos III e IV da Lei nº 6.404/76. Advertências. Multas. Data decisão CVM Tue Dec 04 11:47:00 BRST 2018 | cvm/pas/2018/rj2014-2426.md |
-| pas | RJ2017/628 | 2018-03-13 | condenacao | deveres-administradores | Falhas nos apontamentos dos livros sociais – irregularidades na escrituração contábil, nas integralizações de capital da Companhia e na prestação de informações ao mercado e à CVM – Descumprimento dos deveres de diligência e de fiscalização dos atos da diretoria. Multas. | cvm/pas/2018/rj2017-0628.md |
 | pas | RJ2006/9070 | 2008-01-23 | condenacao | divulgacao-informacoes | [pessoa física] - Alienação, por investidor, de participação acionária relevante no capital social de companhia aberta sem as devidas comunicações ao mercado. Infração ao art. 12, parágrafo 4º, da Instrução CVM nº 358/02. Multa | cvm/pas/2008/rj2006-9070.md |
-| pas | 07/2003 | 2007-07-04 | parcial | deveres-administradores | Contratação de empregados que não prestavam serviços à companhia [pessoa física] e Eventos da Cidade de [pessoa física] S/A. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Absolvição. Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Desobediência a determinações do Conselho de Administração quanto à automação do estacionamento dos usuários do Anhembi. - Descumprimento do dever de diligência disposto nos arts. 153 e 154, caput, da Lei 6.404/76. Absolvições. - Aluguel e posterior cessão de veículos para a Prefeitura. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Advertência. - Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Nomeação e não nomeação de diretores, em desacordo com o estatuto da Anhembi. Descumprimento do disposto nos arts. 142, inciso II, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Eleição de membros do Conselho Fiscal em desacordo com o estatuto. Infração do art. 115, 1ª parte, combinado com art. 161, § 1º, e com parágrafo único do art. 116, todos da Lei 6.404/76. Absolvições. | cvm/pas/2007/07-2003.md |
+| pas | 07/2003 | 2007-07-04 | parcial | deveres-administradores | Contratação de empregados que não prestavam serviços à companhia [pessoa física] e Eventos da Cidade de São Paulo S/A. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Absolvição. Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Desobediência a determinações do Conselho de Administração quanto à automação do estacionamento dos usuários do Anhembi. - Descumprimento do dever de diligência disposto nos arts. 153 e 154, caput, da Lei 6.404/76. Absolvições. - Aluguel e posterior cessão de veículos para a Prefeitura. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Advertência. - Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Nomeação e não nomeação de diretores, em desacordo com o estatuto da Anhembi. Descumprimento do disposto nos arts. 142, inciso II, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Eleição de membros do Conselho Fiscal em desacordo com o estatuto. Infração do art. 115, 1ª parte, combinado com art. 161, § 1º, e com parágrafo único do art. 116, todos da Lei 6.404/76. Absolvições. | cvm/pas/2007/07-2003.md |
 | pas | 15/2005 | 2006-11-29 | parcial | deveres-administradores | COMPANHIA INDUSTRIAL DE AÇOS VÁRZEA DA PALMA) - Imputações feitas ao Diretor-Presidente da companhia Açopalma, Presidente do seu conselho de administração e principal acionista de sua Controladora: (i) administração inadequada de companhia aberta, mantendo-a praticamente sem operação industrial ou comercial: absolvição; (ii) cerceamento do direito de voto dos acionistas preferenciais e de ocultação de informação relevante de modo a favorecer-se, incorrendo em uso abusivo do poder de controle: multa; (iii) ausência de contabilização dos movimentos financeiros da referida companhia no período de janeiro a junho de 2003, o que teria impedido o envio à CVM dos respectivos ITRs: multa; (iv) retenção de dividendos obrigatórios devidos aos acionistas preferenciais: absolvição; (v) convocação de AGO com desrespeito ao prazo previsto no art. 124, § 1º, II, da Lei nº 6.404/76: multa. - Imputação, feita ao Diretor de Relações com Investidores da Açopalma, de não prestação reiterada de informações periódicas, tais como ITR, IAN e DFP da referida companhia: multa. | cvm/pas/2006/15-2005.md |
+
+## lei-5
+
+### art. 115
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 115 | pas | 20/2004 | 2008-08-21 | parcial | assembleia-acionistas | Springer S.A - Eleições em separado de representante dos preferencialistas para o Conselho Fiscal da companhia aberta Springer S/A, em assembléias gerais, nas quais se verificou a participação de acionistas controladores e administradores entre os votantes.Inteligência do art. 161, § 4º, alínea “a”, da Lei nº 6.404/76 abordada pelo Parecer de Orientação CVM nº 19. - Abuso de Poder de Controle. Multa e Absolvição. - Abuso de Direito de Voto. Multa e Absolvição. | cvm/pas/2008/20-2004.md |
+
+### art. 132
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 132 | pas | RJ2008/8572 | 2010-03-16 | parcial | registro-emissor | OLVEBRA. Não manutenção de registro de companhia aberta atualizado. Multas. Não elaboração, no devido prazo legal, de Demonstrações Financeiras - multa e absolvições. Não convocação e não realização de AGOs. Multas e absolvições. | cvm/pas/2010/rj2008-8572.md |
+
+### art. 133
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 133 | pas | RJ2008/8572 | 2010-03-16 | parcial | registro-emissor | OLVEBRA. Não manutenção de registro de companhia aberta atualizado. Multas. Não elaboração, no devido prazo legal, de Demonstrações Financeiras - multa e absolvições. Não convocação e não realização de AGOs. Multas e absolvições. | cvm/pas/2010/rj2008-8572.md |
+
+### art. 155
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 155 | pas | 26/2010 | 2018-11-27 | parcial | informacao-privilegiada | Ementa : Utilização de informações privilegiadas em negociações com ações da Agra Empreendimentos Imobiliários S.A. antes da divulgação dos fatos relevantes de 22.06.2008 e de 05.10.2008. Infração ao disposto no §4º do art. 155 da Lei nº 6.404/76, c/c o art. 13, e seus parágrafos, da Instrução CVM nº 358/02. Absolvições e Multas. Data decisão CVM Tue Nov 27 14:27:00 BRST 2018 | cvm/pas/2018/26-2010.md |
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.000728/2022-84 | 2026-10-21 | — | manipulacao-fraude | PAS por operação fraudulenta na aquisição de cédulas de crédito bancário para fundo e por quebra do dever de diligência da gestora. Voto de um diretor acompanha a relatora e vota pela condenação dos acusados, divergindo apenas quanto à infração continuada. Sem deliberação do Colegiado. | cvm/pas/2026/19957-000728-2022-84.md |
+| pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | divulgacao-informacoes | Apurar supostas irregularidades no envio de Demonstrações Financeiras. . Multa. | cvm/pas/2024/19957-001933-2021-86.md |
+| pas | 19957.007285/2022-52 | 2024-08-20 | absolvicao | informacao-privilegiada | Apuração de insider trading, em infração ao artigo 155, §1º, da Lei n° 6.404/1976 c/c artigo 13, caput, da Instrução CVM n° 358/2002, vigente à época. Absolvições. | cvm/pas/2024/19957-007285-2022-52.md |
 
 ## lei-7
 
@@ -35,12 +99,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 23 | pas | 05/2001 | 2004-07-19 | parcial | manipulacao-fraude | a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra de valores mobiliários em bolsa de valores por carteiras administradas (alínea “c”, item II, da Instrução CVM Nº 8/79); b) Manipulação do preço das ações posteriormente à venda com o fim de impedir a queda da cotação durante o período em que estava sendo realizada auditoria interna (alínea “b”, item II, da Instrução CVM Nº 8/79); c) Falta de diligência do administrador de carteira de valores mobiliários (artigo 10, itens II e IV, cc artigo 11, inciso IX, da Instrução CVM Nº 82/88), d) Concessão de financiamento sem as garantias exigidas (artigo 6º da Instrução CVM Nº 51/86). | cvm/pas/2004/05-2001-2.md |
 | art. 23 | pas | 05/2001 | 2004-06-21 | parcial | manipulacao-fraude | MILBANCO CCV E OUTROS a) Realização de operação fraudulenta decorrente do conhecimento prévio por outros investidores do mercado da compra de valores mobiliários em bolsa de valores por carteiras administradas (alínea “c”, item II, da Instrução CVM Nº 8/79); b) Manipulação do preço das ações posteriormente à venda com o fim de impedir a queda da cotação durante o período em que estava sendo realizada auditoria interna (alínea “b”, item II, da Instrução CVM Nº 8/79); c) Falta de diligência do administrador de carteira de valores mobiliários (artigo 10, itens II e IV, cc artigo 11, inciso IX, da Instrução CVM Nº 82/88), d) Concessão de financiamento sem as garantias exigidas (artigo 6º da Instrução CVM Nº 51/86). | cvm/pas/2004/05-2001.md |
-
-### art. 142
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 142, inciso IV | pas | RJ2015/10215 | 2018-02-20 | parcial | divulgacao-informacoes | Descumprimento do dever de elaborar e enviar à CVM as informações periódicas obrigatórias – não convocação da assembleia geral ordinária. Absolvição e Multas. | cvm/pas/2018/rj2015-10215.md |
 
 ### Citada sem dispositivo identificado
 
@@ -77,25 +135,34 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 2º, inciso II | pas | 14/2000 | 2004-12-17 | parcial | manipulacao-fraude | Daniel Bernasayag Birmann e outros. Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsas de valores, prática descrita na alínea “a” da Instrução CVM nº 08/79, e vedada pelo inciso I da mesma Instrução. Multa. Não caracterização da imputação de responsabilidade por infração ao inciso II, alíneas “a” e “b”, c/c inciso I da Instrução CVM nº 08/79. Absolvições. | cvm/pas/2004/14-2000.md |
 
-### art. 142
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 142, inciso V | pas | RJ2006/3295 | 2013-06-25 | parcial | contabil-demonstracoes | TÊXTIL RENAUX não elaboração das demonstrações financeiras da companhia – não fiscalização da gestão dos diretores da companhia – não manifestação sobre o relatório da administração e as contas da diretoria. Multas. Imputação de abuso de poder de controle. Absolvição. | cvm/pas/2013/rj2006-3295.md |
-
-### art. 154
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 154, § 2º, alínea c | pas | 01/2011 | 2018-02-27 | parcial | deveres-administradores | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE EXIGIDOS DOS ADMINISTRADORES DE UMA COMPANHIA ABERTA. TRANSFERÊNCIAS INJUSTIFICADAS DE RECURSOS DA COMPANHIA PARA SOCIEDADES COLIGADAS – OPERAÇÕES NÃO COMUTATIVAS – ABUSO DO PODER DE CONTROLE. ABSOLVIÇÃO, INABILITAÇÕES E MULTAS PECUNIÁRIAS. | cvm/pas/2018/01-2011.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | manipulacao-fraude | Apurar supostas operações fraudulentas no mercado de valores mobiliários, na forma conceituada pelo item II, “c”, da Instrução CVM n° 08/1979, em violação do item I da mesma Instrução, em vigor à época dos fatos. Absolvição. | cvm/pas/2024/19957-006657-2020-61.md |
 
+## lei-10
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 19957.006209/2016-81; RJ2016/7499 | 2019-12-10 | parcial | deveres-administradores | Inobservância, por parte de membros da Diretoria, Conselho de Administração e Conselho Fiscal da Itaituba Indústria de Cimentos do Pará S/A, dos prazos de convocação de Assembleias Gerais Ordinárias e elaboração de demonstrações financeiras. Ausência de providências em relação a contratos firmados pela Companhia com partes relacionadas em condições não comutativas. Infração aos artigos 123, caput, e alínea ‘a’; 163, incisos I, II e IV, c/c os artigos 165; 176; e 245 da Lei nº 6.404/76. Multas e Absolvições. | cvm/pas/2019/19957-006209-2016-81.md |
+| pas | RJ2014/3616 | 2018-11-13 | parcial | informacao-privilegiada | Negociação de valores mobiliários de emissão da PDG Realty S.A. Empreendimentos e Participações de posse de informações relevantes sobre a sociedade antes de sua divulgação ao mercado. Infração ao ao art. 155, §1º da Lei nº 6.404/76 c/c o art. 13 da Instrução CVM nº 358/02. Multas. Absolvição. Data decisão CVM Tue Nov 13 11:50:00 BRST 2018 | cvm/pas/2018/rj2014-3616.md |
+| pas | RJ2016/7963 | 2018-10-09 | condenacao | exercicio-irregular | Exercício da atividade de administração profissional de carteira de valores mobiliários sem prévia autorização da CVM. Infração ao art. 23 da Lei nº 6.385/76 c/c com o art. 3º da Instrução CVM nº 306/99. Proibição temporária. Data decisão CVM Tue Oct 09 12:11:00 BRT 2018 | cvm/pas/2018/rj2016-7963.md |
+| pas | RJ2014/10290 | 2017-06-13 | condenacao | informacao-privilegiada | Utilização indevida de informação privilegiada. Multas. | cvm/pas/2017/rj2014-10290.md |
+| pas | RJ2013/13172 | 2017-06-13 | condenacao | informacao-privilegiada | Utilização indevida de informação privilegiada. Multa. ﻿ | cvm/pas/2017/rj2013-13172.md |
+| pas | RJ2014/8149 | 2016-12-15 | condenacao | exercicio-irregular | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Proibições temporárias e multa. | cvm/pas/2016/rj2014-8149.md |
+| pas | RJ2014/6515 | 2016-12-15 | condenacao | exercicio-irregular | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Multa e proibições temporárias. | cvm/pas/2016/rj2014-6515.md |
+| pas | RJ2012/13047 | 2014-11-04 | parcial | informacao-privilegiada | Negociação de ações em período vedado, com uso indevido de informação relevante ainda não divulgada ao mercado. Absolvições e multas. | cvm/pas/2014/rj2012-13047.md |
+
 ## lei-11
+
+### art. 23
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 23 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | manipulacao-fraude | Apurar supostas práticas de administração irregular de carteira de valores mobiliários, em infração, em tese, ao art. 2º, da Resolução CVM nº 21/2021 c/c o art. 23, da Lei nº 6.385/1976; e operação fraudulenta, em infração, em tese, ao art. 3º, da Resolução CVM nº 62/2022, nos termos do art. 2º, inciso III, da mesma resolução. Multa e Absolvição. | cvm/pas/2024/19957-008119-2023-54.md |
 
 ### Citada sem dispositivo identificado
 
@@ -106,24 +173,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-12
 
-### art. 15
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 23
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | manipulacao-fraude | Apurar supostas práticas de administração irregular de carteira de valores mobiliários, em infração, em tese, ao art. 2º, da Resolução CVM nº 21/2021 c/c o art. 23, da Lei nº 6.385/1976; e operação fraudulenta, em infração, em tese, ao art. 3º, da Resolução CVM nº 62/2022, nos termos do art. 2º, inciso III, da mesma resolução. Multa e Absolvição. | cvm/pas/2024/19957-008119-2023-54.md |
-
 ### art. 264
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -132,23 +181,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-13
 
-### art. 15
+### art. 176
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 01/2011 | 2018-02-27 | parcial | deveres-administradores | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE EXIGIDOS DOS ADMINISTRADORES DE UMA COMPANHIA ABERTA. TRANSFERÊNCIAS INJUSTIFICADAS DE RECURSOS DA COMPANHIA PARA SOCIEDADES COLIGADAS – OPERAÇÕES NÃO COMUTATIVAS – ABUSO DO PODER DE CONTROLE. ABSOLVIÇÃO, INABILITAÇÕES E MULTAS PECUNIÁRIAS. | cvm/pas/2018/01-2011.md |
+| art. 176 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | cvm/pas/2026/19957-011231-2025-34.md |
 
 ## lei-14
 
@@ -158,11 +195,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 1º, § 2º | pas | 19957.010647/2019-97; 05/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários de administradores da Petrobras na construção da Refinaria Abreu e Lima. Infração aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-010647-2019-97.md |
 
-### art. 153
+### art. 11
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 153 | pas | 01/2011 | 2018-02-27 | parcial | deveres-administradores | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE EXIGIDOS DOS ADMINISTRADORES DE UMA COMPANHIA ABERTA. TRANSFERÊNCIAS INJUSTIFICADAS DE RECURSOS DA COMPANHIA PARA SOCIEDADES COLIGADAS – OPERAÇÕES NÃO COMUTATIVAS – ABUSO DO PODER DE CONTROLE. ABSOLVIÇÃO, INABILITAÇÕES E MULTAS PECUNIÁRIAS. | cvm/pas/2018/01-2011.md |
+| art. 11, § 1º, inciso III | pas | 19957.007727/2018-84 | 2024-05-28 | — | informacao-privilegiada | Apurar responsabilidade por supostas aquisições indevidas, no âmbito das compras de 188.900 ações CGRA3 e 342.200 ações CGRA4 de emissão da Grazziotin S.A., realizadas no período de vedação de 15 dias anteriores à divulgação do 2º Formulário de Informações Trimestrais de 2017. Multas. | cvm/pas/2024/19957-007727-2018-84.md |
 
 ### art. 157
 
@@ -175,26 +212,9 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.004478/2018-75 | 2023-06-20 | parcial | manipulacao-fraude | Operação fraudulenta e descumprimento de dever de diligência relativo a falhas informacionais, no âmbito de oferta pública de distribuição de debêntures com esforços restritos, em infração ao item I c/c item II, “c”, da Instrução CVM nº 8/1979, e ao art. 11, I, da Instrução CVM nº 476/2009. Multas, proibição e absolvição. | cvm/pas/2023/19957-004478-2018-75.md |
+| pas | 19957.007433/2020-77 | 2023-04-04 | condenacao | ofertas-publicas | Apurar suposta realização de oferta irregular de valores mobiliários sem registro e sem dispensa, em infração ao art. 19 da Lei nº 6.385/1976 e ao art. 2º da Instrução CVM nº 400/2003 c/c inciso I, do § 5º do art. 19 da Lei nº 6.385/1976 e no art. 4º da Instrução CVM nº 400/2003. Multas. | cvm/pas/2023/19957-007433-2020-77.md |
 
 ## lei-15
-
-### art. 49
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 49 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | cvm/pas/2026/19957-011231-2025-34.md |
-
-### art. 154
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 154, § 2º, alínea c | pas | 01/2011 | 2018-02-27 | parcial | deveres-administradores | RECEBIMENTO, EM RAZÃO DOS CARGOS OCUPADOS NA COMPANHIA, DE [pessoa física] – DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE EXIGIDOS DOS ADMINISTRADORES DE UMA COMPANHIA ABERTA. TRANSFERÊNCIAS INJUSTIFICADAS DE RECURSOS DA COMPANHIA PARA SOCIEDADES COLIGADAS – OPERAÇÕES NÃO COMUTATIVAS – ABUSO DO PODER DE CONTROLE. ABSOLVIÇÃO, INABILITAÇÕES E MULTAS PECUNIÁRIAS. | cvm/pas/2018/01-2011.md |
-
-### art. 176
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 176 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | cvm/pas/2026/19957-011231-2025-34.md |
 
 ### Citada sem dispositivo identificado
 
@@ -204,42 +224,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-16
 
-### art. 52
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 52 | pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
-
-### art. 69
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 69 | pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da [pessoa física], na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
-| pas | 19957.007433/2020-77 | 2023-04-04 | condenacao | ofertas-publicas | Apurar suposta realização de oferta irregular de valores mobiliários sem registro e sem dispensa, em infração ao art. 19 da Lei nº 6.385/1976 e ao art. 2º da Instrução CVM nº 400/2003 c/c inciso I, do § 5º do art. 19 da Lei nº 6.385/1976 e no art. 4º da Instrução CVM nº 400/2003. Multas. | cvm/pas/2023/19957-007433-2020-77.md |
+| pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da União Federal, na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
 | pas | RJ2014/5807 | 2016-03-15 | condenacao | divulgacao-informacoes | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Não envio, à CVM, de informações periódicas – Não elaboração de demonstrações financeiras – Irregularidades na escrituração dos livros de Registro e de Transferência de Ações – Não convocação de assembleias gerais ordinárias. Multas. | cvm/pas/2016/rj2014-5807.md |
 | pas | 11/2012 | 2014-12-02 | condenacao | assembleia-acionistas | Exercício indevido do direito de voto – Descumprimento da vedação à participação em eleições reservadas a acionistas minoritários e acionistas titulares de ações preferenciais para escolha de membros do Conselho de Administração e do Conselho Fiscal em assembleias gerais. Advertências e multas. | cvm/pas/2014/11-2012.md |
-| pas | RJ2006/3295 | 2013-06-25 | parcial | contabil-demonstracoes | TÊXTIL RENAUX não elaboração das demonstrações financeiras da companhia – não fiscalização da gestão dos diretores da companhia – não manifestação sobre o relatório da administração e as contas da diretoria. Multas. Imputação de abuso de poder de controle. Absolvição. | cvm/pas/2013/rj2006-3295.md |
-| pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
 
 ## lei-17
-
-### art. 15
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
 
 ### Citada sem dispositivo identificado
 
@@ -258,24 +251,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2013/1402 | 2014-07-22 | parcial | deveres-administradores | Não convocação de assembleia especial de acionistas preferencialistas – Abuso de poder de controle – Descumprimento do dever de diligência - Elaboração de Demonstração Financeira sem previsão de pagamento de dividendos mínimos prioritários. Absolvição e multas. | cvm/pas/2014/rj2013-1402.md |
 
 ## lei-19
-
-### art. 15
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 142
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 142, inciso II | pas | RJ2013/11699 | 2014-09-02 | parcial | deveres-administradores | Não elaboração de demonstrações financeiras. Não realização de AGOs. Não eleição de um novo diretor de relações com investidores. Não observância do número máximo de membros do Conselho de Administração. Não nomeação de conselheiro de administração. Conflito de interesses na eleição de membro da diretoria da companhia. Absolvição e multas. | cvm/pas/2014/rj2013-11699.md |
 
 ### Citada sem dispositivo identificado
 
@@ -309,12 +284,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-22
 
-### art. 142
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 142, inciso III | pas | RJ2017/628 | 2018-03-13 | condenacao | deveres-administradores | Falhas nos apontamentos dos livros sociais – irregularidades na escrituração contábil, nas integralizações de capital da Companhia e na prestação de informações ao mercado e à CVM – Descumprimento dos deveres de diligência e de fiscalização dos atos da diretoria. Multas. | cvm/pas/2018/rj2017-0628.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -328,10 +297,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.011654/2019-14; 06/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários dos administradores da Petrobras na construção do Complexo Petroquímico do Rio de Janeiro. Infrações aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-011654-2019-14.md |
 | pas | SP2013/292 | 2016-07-19 | condenacao | exercicio-irregular | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Exercício irregular da atividade de agente autônomo de investimento – não comunicação à CVM de alterações cadastrais – prática de atos que ferem a relação fiduciária entre investidores e a instituição intermediária. Multas e proibições temporárias para o exercício de atividade de agente autônomo de investimento. | cvm/pas/2016/sp2013-0292.md |
 
 ## lei-24
+
+### art. 154
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 154, § 2º, alínea b | pas | 19957.010904/2018-18; RJ2018/8378 | 2020-07-21 | condenacao | deveres-administradores | Responsabilidade de [pessoa física] e [pessoa física] pelo descumprimento do art. 154, §2º, alínea “b”, da Lei nº 6.404/19762 e, especificamente no caso de [pessoa física], também por violação ao art. 153 da Lei nº 6.404/1976. Multas. Data decisão CVM Tue Jul 21 12:01:00 BRT 2020 | cvm/pas/2020/19957-010904-2018-18.md |
 
 ### Citada sem dispositivo identificado
 
@@ -340,12 +314,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.012344/2022-12 | 2024-08-27 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/2003, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979. Multa, Proibição Temporária e Absolvição. | cvm/pas/2024/19957-012344-2022-12.md |
 
 ## lei-25
-
-### art. 154
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 154, § 2º, alínea b | pas | 19957.010904/2018-18; RJ2018/8378 | 2020-07-21 | condenacao | deveres-administradores | Responsabilidade de [pessoa física] e Joesley Batista pelo descumprimento do art. 154, §2º, alínea “b”, da Lei nº 6.404/19762 e, especificamente no caso de [pessoa física], também por violação ao art. 153 da Lei nº 6.404/1976. Multas. Data decisão CVM Tue Jul 21 12:01:00 BRT 2020 | cvm/pas/2020/19957-010904-2018-18.md |
 
 ### Citada sem dispositivo identificado
 
@@ -376,19 +344,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 265 | pas | 04/1999 | 2002-04-17 | parcial | deveres-administradores | [pessoa física] E OUTROS (BOMBRIL) É vedado ao acionista controlador: a) contratar com a companhia controlada em condições consideradas desfavoráveis aos acionistas minoritários; b) adotar políticas e tomar decisões no interesse de outras empresas por ele controladas; c) votar em decisão do conselho de administração em que tenha interesse conflitante com o da companhia; d) desviar recursos da companhia através de contratos de mútuo, visando a financiar companhias de que é sócio. Caracterização de abuso de poder do acionista controlador e responsabilização dos administradores que compactuaram com a decisão.A abstenção de conselheiro em decisão que afeta a orientação geral dos negócios da companhia, sem qualquer justificativa, equivale a omissão. | cvm/pas/2002/04-1999.md |
 
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.005789/2017-71; SP2017/294 | 2020-11-03 | — | deveres-administradores | Responsabilidade de administradores e conselheiros fiscais da Petróleo Brasileiro S.A. – Petrobras em razão do descumprimento, pela administração da Companhia, de norma contábil relativa à redução ao valor recuperável de ativos (impairment), na elaboração das demonstrações financeiras dos exercícios sociais encerrados em 31.12.2010, 31.12.2011, 31.12.2012, 31.12.2013 e 31.12.2014 – (i) membros da Diretoria: artigos 153, 176 e 177, §3º, da Lei nº 6.404/1976, e artigos 14 e 26 da ICVM nº 480/2009; (ii) membros do Conselho de Administração: artigos 142, III e V, e 153, e também art. 160, da Lei nº 6.404/1976, para integrantes do Comitê de Auditoria; e (iii) membros do Conselho de Fiscal, artigo 163, VII, e 165 da Lei nº 6.404/1976. Absolvições e multas. | cvm/pas/2020/19957-005789-2017-71.md |
-
 ## lei-30
 
-### art. 150
+### art. 19
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 150 | pas | RJ2013/11699 | 2014-09-02 | parcial | deveres-administradores | Não elaboração de demonstrações financeiras. Não realização de AGOs. Não eleição de um novo diretor de relações com investidores. Não observância do número máximo de membros do Conselho de Administração. Não nomeação de conselheiro de administração. Conflito de interesses na eleição de membro da diretoria da companhia. Absolvição e multas. | cvm/pas/2014/rj2013-11699.md |
+| art. 19 | pas | 19957.012104/2022-18 | 2025-08-12 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública irregular de debêntures. Multa e Proibição Temporária. | cvm/pas/2025/19957-012104-2022-18.md |
 
 ### Citada sem dispositivo identificado
 
@@ -420,6 +382,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-33
 
+### art. 17
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 17, § 2º, inciso V | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | cvm/pas/2024/19957-007469-2023-01.md |
+
 ### art. 154
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -427,6 +395,12 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 154 | pas | 19957.005597/2021-41 | 2025-12-09 | condenacao | deveres-administradores | Apurar responsabilidade por eventuais irregularidades relacionadas ao aumento de capital da Indústrias J.B. Duarte S.A. homologado em Assembleia Geral Extraordinária de 29/04/2019. Multa e Inabilitação Temporária. | cvm/pas/2025/19957-005597-2021-41.md |
 
 ## lei-34
+
+### art. 7º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 7º, inciso II | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ### art. 156
 
@@ -438,7 +412,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | cvm/pas/2024/19957-007469-2023-01.md |
 | pas | RJ2014/12838 | 2019-06-25 | parcial | contabil-demonstracoes | Ementa : Omissão de informações relevantes para a compreensão da situação financeira e patrimonial da OGX Petróleo e Gás Participações S.A. por ex-administradores da companhia. Infração aos artigos 142, inciso III, 153, 176, c/c o 177, §3º, da Lei nº 6.404/76 e aos artigos 14, 26 e 29 da Instrução CVM nº 480/09. Multas e absolvições. Data decisão CVM Tue Jun 25 15:52:00 BRT 2019 | cvm/pas/2019/rj2014-12838.md |
 
 ## lei-35
@@ -451,33 +424,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-36
 
-### art. 11
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, inciso II | pas | 09/2006 | 2013-03-05 | parcial | deveres-administradores | BRASIL TELECOM Suposta existência de conflito de interesses dos administradores com os interesses da companhia. Absolvição – descumprimento do dever do administrador de agir no interesse da companhia. Absolvição e Multas – divulgação de fatos relevantes em desacordo com a realidade dos acontecimentos. Não divulgação, de forma clara e precisa, de fato relevante. Multa. | cvm/pas/2013/09-2006.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2014/2426 | 2018-12-04 | condenacao | deveres-administradores | Destinação de resultados para reserva de lucros supostamente irregular por membros conselho de administração e pelo acionista controlador da Pettenati S/A Indústria Têxtil. Não manifestação contrária à constituição e manutenção de reserva de retenção de lucros supostamente irregular por membros do conselho fiscal da Pettenati S/A Indústria Têxtil. Infração aos artigos 116, parágrafo único, da Lei 6.404/76. Infração ao art 153 c/c art. 196 da Lei 6.404/76. Infração ao art. 163, incisos III e IV da Lei nº 6.404/76. Advertências. Multas. Data decisão CVM Tue Dec 04 11:47:00 BRST 2018 | cvm/pas/2018/rj2014-2426.md |
-
-## lei-37
-
-### art. 151
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 151 | pas | RJ2013/11699 | 2014-09-02 | parcial | deveres-administradores | Não elaboração de demonstrações financeiras. Não realização de AGOs. Não eleição de um novo diretor de relações com investidores. Não observância do número máximo de membros do Conselho de Administração. Não nomeação de conselheiro de administração. Conflito de interesses na eleição de membro da diretoria da companhia. Absolvição e multas. | cvm/pas/2014/rj2013-11699.md |
-
-## lei-38
-
-### art. 265
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 265 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
 
 ## lei-39
 
@@ -486,30 +437,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2014/2426 | 2018-12-04 | condenacao | deveres-administradores | Destinação de resultados para reserva de lucros supostamente irregular por membros conselho de administração e pelo acionista controlador da Pettenati S/A Indústria Têxtil. Não manifestação contrária à constituição e manutenção de reserva de retenção de lucros supostamente irregular por membros do conselho fiscal da Pettenati S/A Indústria Têxtil. Infração aos artigos 116, parágrafo único, da Lei 6.404/76. Infração ao art 153 c/c art. 196 da Lei 6.404/76. Infração ao art. 163, incisos III e IV da Lei nº 6.404/76. Advertências. Multas. Data decisão CVM Tue Dec 04 11:47:00 BRST 2018 | cvm/pas/2018/rj2014-2426.md |
-
-## lei-40
-
-### art. 4º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º, parágrafo único | pas | 11/2002 | 2013-02-26 | parcial | deveres-administradores | BANESTADO imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Absolvições – descumprimento do dever de diligência. Absolvições e multas – prática de atos de liberalidade na administração do Banestado. Absolvições e multas – operações irregulares – não observância das atribuições conferidas pela lei e pelo estatuto da companhia aos seus administradores – desvio de poder na administração dos negócios da companhia. Multas. | cvm/pas/2013/11-2002.md |
-
-## lei-41
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 23/1999 | 2000-10-26 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], VOE CANHEDO S/A, [pessoa física] Processo de reestruturação societária da Viação Aérea São Paulo S/A – VASP. Ilegalidade do voto proferido pela Voe Canhedo S/A, acionista controladora da VASP, na Assembléia Geral Extraordinária que aprovou os laudos de avaliação de empresas controladas pela própria Voe Canhedo S/A para incorporação de suas ações ao patrimônio da VASP e a conversão daquelas em subsidiárias integrais VASP. Conflito de interesses – Abuso do poder de controle – Abuso do direito de voto – Responsabilidade solidária de administrador. Infrações configuradas. Penalidades. | cvm/pas/2000/23-1999.md |
-
-## lei-43
-
-### art. 7º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º, inciso II | pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 
 ## lei-44
 
@@ -527,14 +454,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 19, § 3º, inciso III | pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | ofertas-publicas | Oferta pública de valores mobiliários sem registro prévio na CVM ou sua dispensa, em infração ao art. 19 da Lei nº 6.385/1976 e ao art. 2º da Instrução CVM nº 400/2003. Multas. | cvm/pas/2022/19957-003642-2020-41.md |
 
-## lei-52
-
-### art. 176
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 176 | pas | 19957.006304/2018-47; RJ2018/4441 | 2020-11-04 | absolvicao | auditoria-independente | Apurar possível descumprimento dos artigos 20 e 25, II, da Instrução CVM nº 308/99 ao realizar os trabalhos de auditoria independente sobre as demonstrações financeiras de 31.12.2012, 31.12.2013 e 31.12.2014 da Petróleo Brasileiro S.A. - Petrobras. Absolvições. | cvm/pas/2020/19957-006304-2018-47.md |
-
 ## lei-53
 
 ### Citada sem dispositivo identificado
@@ -551,22 +470,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 142, inciso IV | pas | RJ2016/7808 | 2018-07-12 | condenacao | divulgacao-informacoes | Não elaboração e não envio à CVM das informações periódicas obrigatórias – não convocação de assembleias gerais ordinárias – não elaboração e não submissão à revisão de auditores independentes dos Formulários de Informações Trimestrais (ITRs) – não elaboração de demonstrações financeiras. Multas . | cvm/pas/2018/rj2016-7808.md |
 
-## lei-59
-
-### art. 50
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 50 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
-## lei-60
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
 ## lei-66
 
 ### Citada sem dispositivo identificado
@@ -575,14 +478,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.004416/2016-00 | 2023-05-30 | parcial | deveres-administradores | Apurar eventuais irregularidades cometidas por administradores e membros do conselho fiscal da Oi S.A. no âmbito de oferta pública de ações, de (i) desvio de poder, em infração ao art. 154, caput e §2°, c/c o art. 152 da Lei n° 6.404/1976; (ii) violação ao dever de lealdade, em descumprimento do art. 155, caput, art. 142, inciso III, e art. 176 da Lei nº 6.404/1976; e arts. 14 e 17 da Instrução CVM nº 480/2009; e (iii) inobservância do dever de diligência, em infração ao art. 153 da Lei n° 6.404/1976. Multas, inabilitação temporária e absolvições. | cvm/pas/2023/19957-004416-2016-00.md |
 
-## lei-70
-
-### art. 196
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 196 | pas | 24/2003 | 2005-06-09 | parcial | contabil-demonstracoes | [pessoa física] (SIDERÚRGICA J. L. ALIPERTI S/A) Não cumprimento pelos administradores de companhia aberta do dever de fazer elaborar as demonstrações financeiras da companhia de acordo com as normas legais e regulamentares. Multa. Embaraço à fiscalização da CVM, em infração à alínea a, do inciso II, da Instrução CVM nº 18/81; Responsabilidade dos administradores por não fiscalizarem os atos de execução dos negócios sociais a cargo da diretoria da companhia. Infração ao art. 142, inciso III da Lei nº 6.404/76. Multa. Abuso do poder de controle, pela aprovação de retenção dos lucros sociais sem a existência prévia de orçamento de capital que a justificasse. Multa ao acionista controlador e Absolvição dos administradores. | cvm/pas/2005/24-2003.md |
-
 ## lei-75
 
 ### Citada sem dispositivo identificado
@@ -590,20 +485,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | auditoria-independente | Apurar indícios de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações financeiras do FIP ETB, da Xnice e da Xmasseto. Multas e extinção de punibilidade. | cvm/pas/2024/19957-004715-2020-12.md |
-
-## lei-80
-
-### art. 136
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 136 | pas | 23/1999 | 2000-10-26 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], VOE CANHEDO S/A, [pessoa física] Processo de reestruturação societária da Viação Aérea São Paulo S/A – VASP. Ilegalidade do voto proferido pela Voe Canhedo S/A, acionista controladora da VASP, na Assembléia Geral Extraordinária que aprovou os laudos de avaliação de empresas controladas pela própria Voe Canhedo S/A para incorporação de suas ações ao patrimônio da VASP e a conversão daquelas em subsidiárias integrais VASP. Conflito de interesses – Abuso do poder de controle – Abuso do direito de voto – Responsabilidade solidária de administrador. Infrações configuradas. Penalidades. | cvm/pas/2000/23-1999.md |
-
-### art. 264
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 264 | pas | 23/1999 | 2000-10-26 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], VOE CANHEDO S/A, [pessoa física] Processo de reestruturação societária da Viação Aérea São Paulo S/A – VASP. Ilegalidade do voto proferido pela Voe Canhedo S/A, acionista controladora da VASP, na Assembléia Geral Extraordinária que aprovou os laudos de avaliação de empresas controladas pela própria Voe Canhedo S/A para incorporação de suas ações ao patrimônio da VASP e a conversão daquelas em subsidiárias integrais VASP. Conflito de interesses – Abuso do poder de controle – Abuso do direito de voto – Responsabilidade solidária de administrador. Infrações configuradas. Penalidades. | cvm/pas/2000/23-1999.md |
 
 ## lei-105
 
@@ -634,50 +515,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|---|
 | art. 29 | pas | RJ2018/4585 | 2019-11-26 | absolvicao | assembleia-acionistas | Participação em separado, por parte do Banco BTG Pactual S.A, da eleição para membro do conselho fiscal da Gerdau S.A. Infração do art. 161, §4º, “a” da lei nº 6.404/76. Absolvição. Data decisão CVM Tue Nov 26 15:14:00 BRST 2019 | cvm/pas/2019/rj2018-4585.md |
 
-### art. 155
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 155 | pas | 19957.010647/2019-97; 05/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários de administradores da Petrobras na construção da Refinaria Abreu e Lima. Infração aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-010647-2019-97.md |
-
-## lei-126
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 02/2004 | 2005-12-07 | parcial | deveres-administradores | Diversas irregularidades cometidas na administração de companhias abertas, notadamente empréstimos em bases não eqüitativas entre sociedades relacionadas e a insuficiência de informações quanto a tais empréstimos nas demonstrações financeiras. | cvm/pas/2005/02-2004.md |
-
-## lei-139
-
-### art. 15
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-## lei-147
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.010647/2019-97; 05/2016 | 2020-11-03 | — | deveres-administradores | Inobservância de deveres fiduciários de administradores da Petrobras na construção da Refinaria Abreu e Lima. Infração aos artigos 153, 154, §2º, “c”, 155, e 163, I, da Lei n° 6.404/76. Prescrições, absolvições, inabilitações e multa. | cvm/pas/2020/19957-010647-2019-97.md |
-
-## lei-150
-
-### art. 153
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 153 | pas | 01/2007 | 2016-09-22 | parcial | deveres-administradores | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Suposta prática de ato de liberalidade. Absolvição . Desvio de poder – Descumprimento dos deveres de diligência e do administrador de agir no interesse da companhia. Absolvições , Advertências e multas. | cvm/pas/2016/01-2007.md |
-
 ## lei-166
 
 ### art. 2º
@@ -685,20 +522,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 2º, inciso VIII | pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | manipulacao-fraude | Apurar eventual responsabilidade por operações com uso de práticas não equitativas, em violação à Instrução CVM nº 8/1979, II, alínea “d”. Absolvições. | cvm/pas/2023/19957-005388-2017-11.md |
-
-## lei-168
-
-### art. 15
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
-
-### art. 16
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, parágrafo único | pas | 35/2000 | 2005-04-12 | parcial | manipulacao-fraude | Manipulação de preço e uso de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários com ações da Companhia Fluminense de Refrigerantes para fundos de previdência. - Exercício irregular da atividade de administrador de carteira de valores mobiliários. - Prática de intermediação irregular no mercado de valores mobiliários. - Irregularidades no preenchimento de fichas cadastrais de clientes investidores estrangeiros. | cvm/pas/2005/35-2000.md |
 
 ## lei-169
 
@@ -765,14 +588,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | RJ2015/12856 | 2017-09-26 | condenacao | opa | Não realização obrigatória de Oferta Pública de Aquisição de Ações por alienação de controle. Multa. | cvm/pas/2017/rj2015-12856.md |
 | pas | RJ2012/13740 | 2017-09-26 | parcial | opa | Não realização obrigatória de Oferta Pública de Aquisição de Ações por alienação de controle. Absolvição e multa. | cvm/pas/2017/rj2012-13740.md |
 
-## lei-1999
-
-### art. 2º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º, inciso II | pas | 11/2002 | 2013-02-26 | parcial | deveres-administradores | BANESTADO imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Absolvições – descumprimento do dever de diligência. Absolvições e multas – prática de atos de liberalidade na administração do Banestado. Absolvições e multas – operações irregulares – não observância das atribuições conferidas pela lei e pelo estatuto da companhia aos seus administradores – desvio de poder na administração dos negócios da companhia. Multas. | cvm/pas/2013/11-2002.md |
-
 ## lei-2004
 
 ### art. 9º
@@ -786,7 +601,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009503/2018-15 | 2025-12-23 | absolvicao | deveres-administradores | Apurar eventual falha no dever de diligência por membros da Diretoria Executiva da Petróleo Brasileiro S.A., em infração ao artigo 153 da Lei nº 6.404/1976. Absolvição. | cvm/pas/2025/19957-009503-2018-15.md |
-| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ## lei-2024
 
@@ -842,7 +657,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2014/10556 | 2017-11-29 | parcial | assembleia-acionistas | Apurar eventual responsabilidade de acionistas e membros do Conselho de Administração da Forjas Taurus S.A. pelo descumprimento do disposto no § 1o do artigo 115 da Lei No. 6.404/76. | cvm/pas/2017/rj2014-10556.md |
-| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da [pessoa física]. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de [pessoa física] sobre a operação de compra e venda da [pessoa física] mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
+| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
 
 ## lei-3421
 
@@ -877,7 +692,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
 | pas | 34/2000 | 2004-09-16 | parcial | fundos-investimento | Infração aos artigos 5º, §3º, da Instrução CVM nº 215/94 e art. 64 da Instrução CVM nº 215/94. Não configuração de infração aos arts. 2º e 11, incisos VII e IX, ambos da Instrução CVM nº 82/88. Não configuração de infração aos artigos 6º, § 3º, 32, caput e parágrafo único, 52, parágrafos 1º e 2º, todos da Instrução CVM nº 215/94. | cvm/pas/2004/34-2000.md |
 
 ## lei-4137
@@ -1427,7 +1242,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.010904/2018-18; RJ2018/8378 | 2020-07-21 | condenacao | deveres-administradores | Responsabilidade de [pessoa física] e Joesley Batista pelo descumprimento do art. 154, §2º, alínea “b”, da Lei nº 6.404/19762 e, especificamente no caso de [pessoa física], também por violação ao art. 153 da Lei nº 6.404/1976. Multas. Data decisão CVM Tue Jul 21 12:01:00 BRT 2020 | cvm/pas/2020/19957-010904-2018-18.md |
+| pas | 19957.010904/2018-18; RJ2018/8378 | 2020-07-21 | condenacao | deveres-administradores | Responsabilidade de [pessoa física] e [pessoa física] pelo descumprimento do art. 154, §2º, alínea “b”, da Lei nº 6.404/19762 e, especificamente no caso de [pessoa física], também por violação ao art. 153 da Lei nº 6.404/1976. Multas. Data decisão CVM Tue Jul 21 12:01:00 BRT 2020 | cvm/pas/2020/19957-010904-2018-18.md |
 
 ## lei-7777
 
@@ -1661,7 +1476,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 12/1997 | 2000-12-07 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física], [pessoa física], Consult Consultoria e Assessoria Técnica S/C Ltda., [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do [pessoa física] S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/12-1997.md |
+| pas | 12/1997 | 2000-12-07 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física], [pessoa física], Consult Consultoria e Assessoria Técnica S/C Ltda., Estado de Mato Grosso do Sul, [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do Mato Grosso do Sul S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/12-1997.md |
 
 ## lei-8666
 
@@ -1693,7 +1508,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do [pessoa física], em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
 | pas | 25/2000 | 2004-06-24 | parcial | manipulacao-fraude | Não caracterização da acusação de infração aos incisos I e II do artigo 1º da Instrução CVM nº 220/94. Absolvição. Não caracterização da acusação de infração ao artigo 36 da Resolução CMN nº 1.656/89. Absolvição Realização de prática não-equitativa, prevista na alínea “d” do inciso II da Instrução CVM nº 08/79, em infração ao inciso I da mesma Instrução. Multa. | cvm/pas/2004/25-2000.md |
 | pas | 02/1999 | 2001-09-06 | parcial | manipulacao-fraude | Operações day-trade interpraças com prévio conhecimento e direcionamento artificial das operações de venda a praça onde as ações apresentavam menor liquidez, em detrimento de prefeituras municipais. Caracterizada prática não-eqüitativa. Multa sobre o valor da operação.II - Intermediação irregular de valores mobiliários (Garimpagem). Multa. Impossibilidade de co-responsabilidade de instituições integrantes do sistema de distribuição de valores mobiliários. Absolvição. | cvm/pas/2001/02-1999.md |
 
@@ -1723,7 +1538,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do [pessoa física], em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
 
 ## lei-8859
 
@@ -1739,7 +1554,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 29/2005 | 2008-09-30 | condenacao | deveres-administradores | Jacques Nasser e outros (Banco Excel Econômico) Irregularidades nos investimentos de controladas do Banco Excel, que capitalizaram as sociedades Eizibrás Factoring e Xcell, e posteriormente alienaram os respectivos controles societários por preço reduzido aos próprios controladores acusados, com prejuízos ao Banco Excel e a seus minoritários. - Desvio de deveres de acionista controlador e abuso do poder de controle: artigos 116 parágrafo único e 117 §1º alíneas "a" e "c" da Lei das S.A. - Falta para com os deveres dos administradores: falta de cuidado e diligência, quebra do dever de lealdade, desvio de poder e desvio de finalidade no exercício das funções de administrador: artigos 153, caput, 154, caput §2º, alínea "b" e 155, caput e item II da Lei das S.A.. Multa e Inabilitação. | cvm/pas/2008/29-2005.md |
+| pas | 29/2005 | 2008-09-30 | condenacao | deveres-administradores | [pessoa física] e outros (Banco Excel Econômico) Irregularidades nos investimentos de controladas do Banco Excel, que capitalizaram as sociedades Eizibrás Factoring e Xcell, e posteriormente alienaram os respectivos controles societários por preço reduzido aos próprios controladores acusados, com prejuízos ao Banco Excel e a seus minoritários. - Desvio de deveres de acionista controlador e abuso do poder de controle: artigos 116 parágrafo único e 117 §1º alíneas "a" e "c" da Lei das S.A. - Falta para com os deveres dos administradores: falta de cuidado e diligência, quebra do dever de lealdade, desvio de poder e desvio de finalidade no exercício das funções de administrador: artigos 153, caput, 154, caput §2º, alínea "b" e 155, caput e item II da Lei das S.A.. Multa e Inabilitação. | cvm/pas/2008/29-2005.md |
 
 ## lei-8897
 
@@ -1898,7 +1713,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 9º | pas | RJ2016/4426 | 2018-12-11 | parcial | deveres-administradores | Apurar a responsabilidade de administradores da Companhia Melhoramentos de São Paulo por terem recebido remuneração em montante superior ao autorizado em assembleia e contrariamente aos critérios legais no período de 2010 a 2014. Infração ao disposto no art. 152 c/c o 154 da Lei nº 6.404/76. Absolvições. Multas. Data decisão CVM Tue Dec 11 16:40:00 BRST 2018 | cvm/pas/2018/rj2016-4426.md |
 | art. 9º | pas | RJ2017/3871 | 2018-12-11 | condenacao | deveres-administradores | Apurar a responsabilidade de administradores da Companhia Melhoramentos de São Paulo por terem recebido remuneração contrariamente aos critérios legais no período de 2015 a 2017. Infração ao disposto no art. 152 da Lei nº 6.404/76. Multas. Data decisão CVM Tue Dec 11 16:47:00 BRST 2018 | cvm/pas/2018/rj2017-3871.md |
 | art. 9º | pas | 19957.003999/2021-19 | 2024-08-06 | parcial | divulgacao-informacoes | Apurar a responsabilidade do Diretor de Relações com Investidores do Magazine Luiza S.A., por suposto descumprimento ao disposto no artigo 3º da Instrução CVM nº 358/2002 c/c o artigo 14 da Instrução CVM nº 480/09 e ao inciso V do artigo 30 da Instrução CVM nº480/2009. Multa. | cvm/pas/2024/19957-003999-2021-19.md |
-| art. 9º, § 1º | pas | RJ2008/4877 | 2009-05-12 | condenacao | assembleia-acionistas | BANCO DO [pessoa física] S/A Pagamento de juros sobre capital próprio antes da absorção do saldo integral de prejuízos acumulados - submissão à assembléia de proposta de redução de capital sem a manifestação prévia do Conselho Fiscal - Multas. | cvm/pas/2009/rj2008-4877.md |
+| art. 9º, § 1º | pas | RJ2008/4877 | 2009-05-12 | condenacao | assembleia-acionistas | BANCO DO ESTADO DE SERGIPE S/A Pagamento de juros sobre capital próprio antes da absorção do saldo integral de prejuízos acumulados - submissão à assembléia de proposta de redução de capital sem a manifestação prévia do Conselho Fiscal - Multas. | cvm/pas/2009/rj2008-4877.md |
 
 ### art. 34
 
@@ -2033,7 +1848,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | cvm/pas/2024/19957-007469-2023-01.md |
 | pas | RJ2014/6517 | 2019-06-25 | parcial | divulgacao-informacoes | Divulgação de fatos relevantes como instrumento de manipulação de preços da OGX Petróleo e Gás Participações S.A. Divulgação de fato relevante com omissão material, induzindo investidores a erro. Infração ao inciso I, na forma prevista pelo item II, ‘b’, da Instrução CVM nº 08/79. Infração ao art. 153 da Lei nº 6.404/76, c/c o art. 14 da Instrução CVM nº 480/09. Absolvições e Multas. Data decisão CVM Tue Jun 25 15:48:00 BRT 2019 | cvm/pas/2019/rj2014-6517.md |
-| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ## lei-9494
 
@@ -2222,7 +2037,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 26 | pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| art. 26 | pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ## lei-10683
 
@@ -2254,7 +2069,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor Marcos Azer Maluf. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
+| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor [pessoa física]. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
 
 ## lei-10848
 
@@ -2360,7 +2175,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| art. 3º | pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ### Citada sem dispositivo identificado
 
@@ -2379,6 +2194,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 11/2012 | 2014-12-02 | condenacao | assembleia-acionistas | Exercício indevido do direito de voto – Descumprimento da vedação à participação em eleições reservadas a acionistas minoritários e acionistas titulares de ações preferenciais para escolha de membros do Conselho de Administração e do Conselho Fiscal em assembleias gerais. Advertências e multas. | cvm/pas/2014/11-2012.md |
 | pas | 30/2005 | 2012-12-11 | parcial | intermediacao | REFER realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários – falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes – permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral – permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente – não identificação na ficha cadastral de pessoa vinculada à corretora – falta de diligência na administração e na gestão de carteira de fundo de investimento. Multas pecuniárias e absolvições. | cvm/pas/2012/30-2005.md |
 
+## lei-12234
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| pas | 11/2002 | 2013-02-26 | parcial | deveres-administradores | BANESTADO imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Absolvições – descumprimento do dever de diligência. Absolvições e multas – prática de atos de liberalidade na administração do Banestado. Absolvições e multas – operações irregulares – não observância das atribuições conferidas pela lei e pelo estatuto da companhia aos seus administradores – desvio de poder na administração dos negócios da companhia. Multas. | cvm/pas/2013/11-2002.md |
+
 ## lei-12249
 
 ### art. 43
@@ -2391,7 +2214,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e Jorge Luiz Menezes Cereja nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
+| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e [pessoa física] nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
 
 ## lei-12276
 
@@ -2423,7 +2246,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e Jorge Luiz Menezes Cereja nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
+| pas | RJ2016/5789 | 2019-07-09 | condenacao | auditoria-independente | Apurar responsabilidade de Uhy Moreira - Auditores, [pessoa física] e [pessoa física] nos trabalhos de auditoria realizados na SERGEN, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2010 e na TELEBRAS, referentes às demonstrações financeiras do exercício social encerrado em 31/12/2011. Infração art. 20 da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Jul 09 14:27:00 BRT 2019 | cvm/pas/2019/rj2016-5789.md |
 
 ## lei-12441
 
@@ -2472,7 +2295,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor Marcos Azer Maluf. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
+| pas | RJ2016/7868 | 2018-10-23 | condenacao | pld | Descumprimento de procedimentos de prevenção à lavagem de dinheiro por UM Investimentos S.A Corretora de Títulos e Valores Mobiliários e por seu diretor [pessoa física]. Infração ao art. 10, inciso I, da Lei nº 9.613/98 c/c o art. 3º, § 1º, e o art. 9º, inciso I, alínea ‘a’, da Instrução CVM nº 301/99. Infração ao art. 10, inciso III, da Lei nº 9.613/98 c/c o art. 6º e o art. 9º, inciso I, da Instrução CVM nº 301/99. Advertências. Multas. Data decisão CVM Tue Oct 23 12:44:00 BRST 2018 | cvm/pas/2018/rj2016-7868.md |
 | pas | 12/2013 | 2016-05-24 | parcial | pld | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Descumprimento do dever de comunicação à CVM de operações consideradas suspeitas e que possam constituir-se em sérios indícios de crimes previstos em lei, ou com eles relacionarem-se. Absolvições e Multas . | cvm/pas/2016/12-2013.md |
 | pas | SP2010/049 | 2013-11-12 | absolvicao | pld | [pessoa física] Imputação de responsabilidade pela irregularidade no cadastramento de clientes, pelo não desenvolvimento e implementação de procedimentos de controle visando à fiel observância do disposto na Instrução CVM no 301/99 e pela falta de comunicação à CVM de operações cujos valores se afiguram incompatíveis com a situação patrimonial e financeira dos clientes.Absolvições. | cvm/pas/2013/sp2010-0049.md |
 
@@ -2497,7 +2320,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2016/802 | 2019-01-29 | condenacao | deveres-administradores | Responsabilidade do Estado de São Paulo, na qualidade de acionista controlador da EMAE - Empresa Metropolitana de Águas e Energia, pela suposta utilização, a título gratuito, de Serviços de Controle de Cheias prestados pela Companhia. Infração ao art. 116, parágrafo único da Lei nº 6.404/76. Multa. Data decisão CVM Tue Jan 29 14:27:00 BRST 2019 | cvm/pas/2019/rj2016-0802.md |
-| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ## lei-12813
 
@@ -2511,9 +2334,8 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 3º, inciso I | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da [pessoa física], na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
+| art. 3º, inciso I | pas | 19957.002393/2023-10 | 2024-12-18 | absolvicao | deveres-administradores | Apurar eventual responsabilidade da União Federal, na qualidade de acionista controlador da Petróleo Brasileiro S.A. – Petrobras, por violação ao art. 117, §1º, alínea d, da Lei nº 6.404/1976, por indicar e eleger dois candidatos inaptos, e de [pessoa física] e [pessoa física], na qualidade de membros do Conselho de Administração da Petróleo Brasileiro S.A. – Petrobras, por violação ao §1º do art. 147 da Lei 6.404/1976, c/c § 2º, Inciso II, do Art. 17 da Lei 13.303/2016, ao aceitar a indicação para o cargo de membro do Conselho de Administração da Companhia mesmo sendo inelegíveis. Absolvição | cvm/pas/2024/19957-002393-2023-10.md |
 | art. 3º, inciso I | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | cvm/pas/2024/19957-007469-2023-01.md |
-| art. 3º, § 1º | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | cvm/pas/2024/19957-007469-2023-01.md |
 
 ### art. 5º
 
@@ -2702,11 +2524,3 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 09/2005 | 2006-10-03 | condenacao | exercicio-irregular | CRIAÇÃO, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA. - Emissão e distribuição pública de valores mobiliários (Contrato de Investimento Coletivo) sem o competente registro na CVM, em infração ao disposto no artigo 19, caput, § 1º, c/c os artigos 16, I, e 2º, IX, todos da Lei nº 6.385/76. Multas. | cvm/pas/2006/09-2005.md |
-
-## lei-301958
-
-### art. 160
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 160 | pas | 19957.005789/2017-71; SP2017/294 | 2020-11-03 | — | deveres-administradores | Responsabilidade de administradores e conselheiros fiscais da Petróleo Brasileiro S.A. – Petrobras em razão do descumprimento, pela administração da Companhia, de norma contábil relativa à redução ao valor recuperável de ativos (impairment), na elaboração das demonstrações financeiras dos exercícios sociais encerrados em 31.12.2010, 31.12.2011, 31.12.2012, 31.12.2013 e 31.12.2014 – (i) membros da Diretoria: artigos 153, 176 e 177, §3º, da Lei nº 6.404/1976, e artigos 14 e 26 da ICVM nº 480/2009; (ii) membros do Conselho de Administração: artigos 142, III e V, e 153, e também art. 160, da Lei nº 6.404/1976, para integrantes do Comitê de Auditoria; e (iii) membros do Conselho de Fiscal, artigo 163, VII, e 165 da Lei nº 6.404/1976. Absolvições e multas. | cvm/pas/2020/19957-005789-2017-71.md |

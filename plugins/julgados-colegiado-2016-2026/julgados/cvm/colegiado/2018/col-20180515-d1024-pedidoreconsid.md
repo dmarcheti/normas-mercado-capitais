@@ -54,7 +54,6 @@ O Colegiado da CVM, por unanimidade, acompanhando as conclusões da área técni
 
 ## Manifestação da área técnica
 
-COMISSÃO DE V ALORES MOBILIÁRIOS
 Memorando nº 35/2018-CVM/SRE/GER-1
 Rio de Janeiro, 11 de maio de 2018.
 Ao Senhor Superintendente de Registro de Valores Mobiliários (SRE)

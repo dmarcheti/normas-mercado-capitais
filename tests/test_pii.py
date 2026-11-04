@@ -465,5 +465,46 @@ class Fase3bReauditoriaTest(unittest.TestCase):
         self.assertEqual(pii.limpar(t), "Nome:\nRG/SSP/SP n° %s\nCPF:\n" % M)
 
 
+class Fase3bConv6Test(unittest.TestCase):
+    """Nome de testemunha cortado no bloco de assinatura sai também no resto do documento."""
+
+    def test_nome_da_testemunha_sai_no_carimbo_com_quebra_de_linha(self):
+        # cvm-col-20170829-d0776: o carimbo do cartório repete o nome, quebrado em duas linhas
+        t = ("Nome: FULANA EXEMPLO DE TAL Nome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF: CPF:\n\n"
+             "SUBDISTRITO\nReconheço por semelhança a firma de IL Fulana Exemplo de\nTal, "
+             "com valor econômico.")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANA", r.upper())
+        self.assertIn("firma de IL %s, com valor" % M, r)
+
+    def test_nome_do_bloco_fica_no_texto_corrido(self):
+        # cvm-col-20141202-d10: o compromitente assina com "Nome:" no bloco digitalizado; o nome
+        # sai do bloco e do carimbo, mas fica no relatório, onde é parte do processo
+        relato = ("O proponente Fulano Exemplo Rampon apresentou proposta de termo de compromisso. "
+                  * 3)
+        t = (relato + "\n" + "Parágrafo do voto sem dados de ninguém. " * 6 + "\n"
+             "Nome: FULANO EXEMPLO RAMPON Nome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF: CPF:\n\n"
+             "Reconheço por semelhança a firma de Fulano Exemplo\nRampon, com valor econômico.")
+        r = pii.limpar(t)
+        self.assertEqual(r.count("O proponente Fulano Exemplo Rampon apresentou"), 3)
+        self.assertIn("firma de %s, com valor" % M, r)
+        self.assertNotIn("FULANO EXEMPLO RAMPON", r)
+
+    def test_nome_da_testemunha_do_cabecalho_e_da_assinatura_eletronica(self):
+        t = ("Testemunhas:\nNome: Beltrana Exemplo Silva\nCPF: " + CPF_FMT + "\n\n"
+             "Documento assinado eletronicamente por Sicrano Exemplo, Testemunha, em 01/02/2020.\n"
+             "Texto: Beltrana Exemplo Silva e Sicrano Exemplo assinam.")
+        r = pii.limpar(t)
+        self.assertNotIn("Beltrana", r)
+        self.assertNotIn("Sicrano", r)
+        self.assertIn("Texto: %s e %s assinam." % (M, M), r)
+
+    def test_nome_de_uma_palavra_e_outros_nomes_ficam(self):
+        t = ("Nome: FULANA Nome:\nRG/SSP/SP n° " + RG_NUM + "\nCPF: CPF:\n\n"
+             "A Fulana Exemplo e FULANA votaram; Beltrano Exemplo também.")
+        r = pii.limpar(t)
+        self.assertIn("A Fulana Exemplo e FULANA votaram; Beltrano Exemplo também.", r)
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -61,6 +61,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 8/1979; 19957.009317/2021-73 | 2022-01-18 | outro | manipulacao-fraude | O Colegiado aprovou, sem audiência pública nem AIR por não haver mudança de mérito, a Resolução CVM 62/2022, que veda condições artificiais, manipulação de preço, operações fraudulentas e práticas não equitativas e revoga a ICVM 8/1979, e a Resolução CVM 63/2022, que revoga atos normativos antigos. | cvm/colegiado/2022/col-20220118-d2441.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-20
 
@@ -94,6 +95,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008101/2020-18 | 2021-05-18 | deferido | ofertas-publicas | O Colegiado, por unanimidade, acompanhando a SRE e a PFE/CVM, autorizou o BNDES a ingressar no sistema de distribuição de valores mobiliários, por Ato Declaratório, para estruturar e distribuir valores mobiliários por melhores esforços ou garantia firme, conforme o estatuto alterado. Fundamento: art. 15, I, da Lei 6.385/1976. | cvm/colegiado/2021/col-20210518-d2172.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-175
 
@@ -115,6 +117,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.002943/2016-71 | 2016-06-07 | outro | normativo | O Colegiado aprovou a edição de Deliberação, nos termos de minuta da SIN, que estabelece critérios para dispensar seguradoras, resseguradores, entidades abertas de previdência privada e instituições financeiras do registro de administrador de carteira de valores mobiliários, e revoga a Deliberação CVM 244/1998. | cvm/colegiado/2016/col-20160607-d1492.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | administracao-carteiras | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da Instrução CVM 558/2015 à gestão de recursos próprios; a SIN propôs tratamento como o da Deliberação CVM 244/1998, estendido às tesourarias de instituições financeiras. A decisão sobre a consulta da ABRAPP foi adiada. | cvm/colegiado/2016/col-20160524-d0222.md |
 | decisao-colegiado | 244/1998; RJ2015/12035 | 2016-02-11 | deferido | administracao-carteiras | O Colegiado deferiu o pedido de credenciamento da IRB Brasil Resseguros S.A. como administradora de carteiras, com base na Deliberação CVM 244/1998, acompanhando a SIN. Determinou à SDM que avalie incluir as resseguradoras na dispensa da norma, conforme sugerido pela PFE/CVM. | cvm/colegiado/2016/col-20160211-d0075.md |
+
+## deliberacao-cvm-323
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-363
 
@@ -141,7 +151,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.003450/2019-00 | 2019-08-06 | outro | normativo | O Colegiado, por unanimidade, aprovou a Deliberação CVM 824/19, que revoga o inciso II da Deliberação CVM 443/02. O dispositivo exigia informar à CVM a contratação de pesquisas de opinião pública sobre eleições ou candidatos não destinadas a uso exclusivo. Segundo a SDM, o dispositivo perdeu utilidade com a supervisão por filtros e alertas da SMI. | cvm/colegiado/2019/col-20190806-d1491.md |
+
+## deliberacao-cvm-447
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-452
 
@@ -167,6 +186,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008259/2019-46 | 2020-01-14 | conhecimento | auditoria-independente | O Colegiado, por unanimidade, não conheceu de recurso contra indeferimento pela SNC de inclusão de responsável técnico, por intempestividade, segundo a SNC: o recurso foi apresentado após nova intimação, e não no prazo de 15 dias da ciência da decisão (Deliberação CVM 463/03). | cvm/colegiado/2020/col-20200114-d1676.md |
 
+## deliberacao-cvm-468
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-475
 
 ### Citada sem dispositivo identificado
@@ -174,6 +201,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | normativo | O Colegiado aprovou a Resolução CVM nº 79/2022, que revoga normas consideradas obsoletas (incluindo as Instruções CVM nºs 200/1993, 280/1998 e 424/2005) no trabalho de consolidação determinado pelo Decreto nº 10.139/2019, com dispensa automática de AIR (art. 4º, IV, do Decreto nº 10.411/2020). | cvm/colegiado/2022/col-20220323-d2538.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.009602/2016-27 | 2017-04-11 | nao-provido | administracao-carteiras | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras pela SIN, com ressalva de um diretor. Com base na área técnica, as experiências apresentadas não foram consideradas válidas para a Instrução CVM 558/2015. Indeferimento não impede a atuação, mas exige exame de certificação. | cvm/colegiado/2017/col-20170411-d0645.md |
 | decisao-colegiado | 19957.004135/2016-49 | 2017-04-11 | nao-provido | administracao-carteiras | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de carteiras (art. 3º, §1º, I, da Instrução CVM 558/2015): as experiências apresentadas não seriam válidas, conforme a área técnica. Um diretor fez ressalva. O indeferimento não impede a atuação, mas exige exame de certificação. | cvm/colegiado/2017/col-20170411-d0643.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | administracao-carteiras | Em consulta da ABRAPP sobre a Instrução CVM 558/2015, o Colegiado, por maioria, acompanhou a SIN e decidiu alterar a Deliberação CVM 753/2016 para incluir as EFPC entre os investidores institucionais elegíveis a gestores de fundos exclusivos de que sejam cotistas. | cvm/colegiado/2017/col-20170214-d0222.md |
@@ -332,6 +360,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-560
 
@@ -348,6 +377,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-563
 
@@ -357,6 +387,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.015087/2022-62 | 2023-05-02 | provido | contabil-demonstracoes | O Colegiado deu provimento, por maioria, ao recurso da CNseg contra entendimento da SEP e da SNC que indeferiu o adiamento do CPC 50 para os reportes intermediários de 2023. Acompanhando o voto do Presidente, adiou a aplicação do pronunciamento para exercícios iniciados em ou após 1º de janeiro de 2024 e aprovou resolução sobre o tema. | cvm/colegiado/2023/col-20230502-d2825.md |
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-564
 
@@ -365,6 +396,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-571
 
@@ -391,6 +423,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | ofertas-publicas | O Colegiado concedeu à CSN Cimentos S.A. as dispensas dos arts. 32, II, e 32-A da Instrução CVM 400 e do art. 5º, §2º, da Instrução CVM 480, acompanhando SEP e SRE. Fundamento: DFs carve-out de 2020, completas e auditadas, foram consideradas aptas a evidenciar receita operacional. | cvm/colegiado/2021/col-20210622-d2213.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-583
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-584
 
@@ -399,6 +440,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-588
 
@@ -425,6 +467,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.003841/2018-35 | 2021-06-15 | parcial | contabil-demonstracoes | O Colegiado deu provimento parcial a pedido de reconsideração da Metalgráfica Iguaçu S.A. Afastou alegações de omissão e contradição; apenas esclareceu que DFs e DFPs de 2020 e o 1º ITR/21, ainda não apresentados à época do Ofício SEP, devem ser refeitos com os ajustes retrospectivos. | cvm/colegiado/2021/col-20210615-d2053.md |
 | decisao-colegiado | 19957.003841/2018-35 | 2021-04-20 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da Metalgráfica Iguaçu S.A. e manteve a determinação da SEP de refazer DFs de 2017 a 2019 e ITRs de 2018 a 2020, com republicação (ou Fato Relevante). Motivo: ativo fiscal diferido sem comprovação de lucros tributáveis futuros (Instrução CVM 371/2002). | cvm/colegiado/2021/col-20210420-d2053.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | RJ2013/7516 | 2017-07-11 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento a recurso da Petrobras e reverteu o ofício da SEP que determinava o refazimento das DFs de 2013 a 2015, dos formulários DFP e ITR, com estorno da contabilidade de hedge, contrariando a área técnica. Vencido o Presidente, que votara pelo indeferimento por não conformidade ao item 75 do CPC 38. | cvm/colegiado/2017/col-20170711-d0599.md |
 | decisao-colegiado | RJ2009/4053 | 2016-12-13 | parcial | contabil-demonstracoes | O Colegiado rejeitou o pedido de reconsideração da Mendes Júnior Engenharia S.A. contra decisão de 27.09.2016 que negou provimento a recurso sobre republicação de DFs de 2013 e ITRs de 2014. Deferiu o pedido sucessivo: ajustes retrospectivos a partir das DFs de 2016, com nota explicativa, fato relevante e parágrafo de menção do auditor, em vez da republicação integral. | cvm/colegiado/2016/col-20161213-d9416.md |
 
@@ -436,6 +479,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.008560/2020-93 | 2021-11-09 | nao-provido | registro-emissor | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SEP que indeferiu o registro inicial de emissor na categoria A da MRO Serviços Logísticos S.A. Acompanhou a área técnica, que apontou alteração patrimonial relevante sem demonstração financeira posterior, evento subsequente não divulgado e transações com partes relacionadas sem comutatividade. | cvm/colegiado/2021/col-20211109-d2239.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-594
 
@@ -446,6 +490,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-04-13 | conhecimento | processual | O Colegiado, por unanimidade, acompanhando a área técnica, não conheceu de pedido de reconsideração de decisão que já havia negado recurso em processo de reclamação envolvendo a Petrobras Distribuidora S.A. Registrou que os questionamentos já haviam sido analisados pela SEP, pela SNC e pelos auditores independentes (item IX-A da Deliberação CVM 463/2003). | cvm/colegiado/2021/col-20210413-d2001.md |
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2021-01-26 | conhecimento | processual | O Colegiado não conheceu de recurso ao CRSFN contra decisão sobre reclamação envolvendo demonstrações financeiras da BR Distribuidora, por falta de previsão legal (art. 11, §4º, Lei 6.385/76). Recebido como pedido de reconsideração, também não foi conhecido; a decisão anterior foi mantida. | cvm/colegiado/2021/col-20210126-d2001.md |
 | decisao-colegiado | 19957.007193/2019-77; 19957.006475/2020-91 | 2020-12-08 | nao-provido | contabil-demonstracoes | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso contra o encerramento, pela SEP e pela SNC, de reclamação sobre o tratamento contábil de litígio da BR Distribuidora. Fundamento: não houve elementos novos, e a companhia já divulgava o litígio no formulário de referência. | cvm/colegiado/2020/col-20201208-d2001.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | RJ2009/4053 | 2016-09-27 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Mendes Júnior Engenharia S.A. contra determinação da SEP de republicar demonstrações de 2013 e ITRs de 2014, por entender que créditos pendentes de recurso especial são, no máximo, ativo contingente (CPC 25), acompanhando o voto do relator. | cvm/colegiado/2016/col-20160927-d9416.md |
 
 ## deliberacao-cvm-596
@@ -454,6 +499,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.007794/2016-37 | 2017-01-17 | parcial | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhou a SEP em consulta da Klabin S.A. sobre dispensa de avaliação (art. 264 da Lei 6.404/1976). A SEP entendeu presentes os requisitos do precedente RJ2015/9097: sem minoritários, sem relação de troca e sem aumento de capital. Quanto ao fato relevante (Instrução CVM 565/2015, art. 3º), a divulgação segue a regulação vigente, cabendo à administração avaliar. | cvm/colegiado/2017/col-20170117-d0546.md |
 
 ## deliberacao-cvm-598
@@ -463,6 +509,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-599
 
@@ -478,6 +525,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.003841/2018-35 | 2021-06-15 | parcial | contabil-demonstracoes | O Colegiado deu provimento parcial a pedido de reconsideração da Metalgráfica Iguaçu S.A. Afastou alegações de omissão e contradição; apenas esclareceu que DFs e DFPs de 2020 e o 1º ITR/21, ainda não apresentados à época do Ofício SEP, devem ser refeitos com os ajustes retrospectivos. | cvm/colegiado/2021/col-20210615-d2053.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-604
 
@@ -486,6 +534,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.003735/2017-71 | 2017-09-05 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhou o relator, que respondeu negativamente à consulta da Eletropaulo: a reserva especial de ágio não pode ser excluída do patrimônio líquido no cálculo do reembolso de dissidentes (art. 45, § 1º, da Lei 6.404/1976). O relator propôs estudo da SNC sobre os arts. 6º e 7º da Instrução CVM 319. | cvm/colegiado/2017/col-20170905-d0706.md |
 | decisao-colegiado | RJ2013/7516 | 2017-07-11 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento a recurso da Petrobras e reverteu o ofício da SEP que determinava o refazimento das DFs de 2013 a 2015, dos formulários DFP e ITR, com estorno da contabilidade de hedge, contrariando a área técnica. Vencido o Presidente, que votara pelo indeferimento por não conformidade ao item 75 do CPC 38. | cvm/colegiado/2017/col-20170711-d0599.md |
 
@@ -504,6 +553,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-617
 
@@ -512,6 +562,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-619
 
@@ -520,6 +571,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-621
 
@@ -528,6 +580,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-624
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-633
 
@@ -536,6 +597,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.001378/2021-92 | 2021-02-23 | outro | analistas-rating | O Colegiado, por unanimidade, aprovou a Resolução CVM 20/2021, sobre a atividade de analista de valores mobiliários, no âmbito da consolidação de atos normativos (Decreto 10.139/2019). Revisa a ICVM 598/18 e a Deliberação CVM 633/10 sem mudança de mérito; dispensada de audiência pública e de AIR. | cvm/colegiado/2021/col-20210223-d2086.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-636
 
@@ -571,6 +633,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.005789/2017-71; SP2017/0294 | 2020-08-18 | indeferido | processual | O Colegiado indeferiu, por unanimidade, acompanhando o voto do relator, pedidos genéricos de produção de provas (oral, testemunhal e oitiva pessoal dos acusados) no PAS sobre responsabilidade de administradores e conselheiros fiscais da Petrobras por possível descumprimento do CPC 01 (R1). Fundamento: pedidos genéricos e provas já constantes dos autos. Determinou a intimação dos acusados. | cvm/colegiado/2020/col-20200818-d0863.md |
 | decisao-colegiado | 19957.006304/2018-47 | 2020-03-24 | outro | processual | O Colegiado redistribuiu, por unanimidade, PAS da relatoria de uma diretora ao diretor destinatário, por conexão com outros dois PAS (art. 36, §3º, da Instrução CVM 607/19), acatando a proposta desse diretor (Memorando 1/2020-CVM/DHM). | cvm/colegiado/2020/col-20200324-d1230.md |
 
@@ -629,6 +692,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.001623/2016-02 | 2018-04-03 | conhecimento | processual | O Colegiado, por unanimidade, acompanhando o relator, não conheceu de pedido de reconsideração que buscava rediscutir o tratamento contábil do TECON-1 (Santos Brasil) e manteve a decisão anterior. Segundo a área técnica, o pedido não atende às hipóteses de cabimento da Deliberação CVM 463/03, inciso IX. | cvm/colegiado/2018/col-20180403-d0750.md |
 | decisao-colegiado | 19957.002727/2016-26 | 2017-06-06 | outro | contabil-demonstracoes | O Colegiado, por unanimidade, acompanhou o voto do diretor relator no recurso da Elekeiroz S.A. contra entendimento da SEP sobre avaliação de patentes da Nexoleum Bioderivados S.A. em laudo a preço de mercado (art. 256, II, b, da Lei 6.404/1976). Conforme o voto acompanhado, a mensuração deve seguir o CPC 46, e propôs-se intimar a companhia a avaliar o laudo. | cvm/colegiado/2017/col-20170606-d0324.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento aos recursos da Via Varejo e da CBD contra determinação da SEP de refazimento e republicação de DFs e de DFP/ITR, nos termos do voto do relator, que entendeu ser aquisição de controle, e não de controle conjunto, a compra de 75% da Bartira. Vencido o Presidente, que seguia a área técnica. | cvm/colegiado/2016/col-20161213-d0158.md |
@@ -640,6 +704,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-647
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-649
 
@@ -648,6 +721,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-650
 
@@ -657,6 +731,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.010165/2021-51 | 2021-12-17 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedido de interrupção, por 15 dias, do prazo de convocação das AGEs da Terra Santa Propriedades Agrícolas S.A. marcadas para 21 e 23.12.2021, acompanhando a SEP, por não ser possível formar convicção de plano sobre as ilegalidades alegadas (art. 124, §5º, da Lei 6.404/1976; Instrução CVM 372/2002). | cvm/colegiado/2021/col-20211217-d2447.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-651
 
@@ -665,6 +740,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-652
 
@@ -673,6 +749,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-653
 
@@ -681,6 +758,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | contabil-demonstracoes | Em consulta das áreas técnicas (SNC e SEP), o Colegiado fixou entendimento sobre reconhecimento de receita pelo POC (CPC 47/IFRS 15) em vendas de unidades não concluídas por incorporadoras abertas. Sem carve-out; a Agenda Decision do IFRS IC não se aplica. Exige controles internos robustos e notas segmentadas. | cvm/colegiado/2018/col-20180703-d1063.md |
 
 ## deliberacao-cvm-654
@@ -690,6 +768,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-659
 
@@ -698,6 +777,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre demonstrações financeiras; outra revoga normas; a 70 fixa escala de participação mínima para direitos da Lei 6.404. Sem audiência pública nem AIR, por não alterar obrigações vigentes. | cvm/colegiado/2022/col-20220315-d2516.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-665
 
@@ -748,6 +828,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.006646/2021-62; 19957.006640/2021-95 | 2021-10-14 | deferido | ofertas-publicas | O Colegiado concedeu, por unanimidade e divergindo das áreas técnicas, as dispensas do estudo de viabilidade e da restrição de público-alvo da oferta da ISH Tech S.A. (arts. 32 e 32-A da ICVM 400). A ressalva sobre o item 3.9 do formulário de referência, proposta em voto do presidente, não consta da deliberação. | cvm/colegiado/2021/col-20211014-d2313.md |
 | decisao-colegiado | 19957.004308/2021-96; 19957.004259/2021-91 | 2021-06-22 | deferido | ofertas-publicas | O Colegiado concedeu à CSN Cimentos S.A. as dispensas dos arts. 32, II, e 32-A da Instrução CVM 400 e do art. 5º, §2º, da Instrução CVM 480, acompanhando SEP e SRE. Fundamento: DFs carve-out de 2020, completas e auditadas, foram consideradas aptas a evidenciar receita operacional. | cvm/colegiado/2021/col-20210622-d2213.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-677
 
@@ -756,6 +837,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-682
 
@@ -791,6 +873,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-694
 
@@ -799,6 +882,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento aos recursos da Via Varejo e da CBD contra determinação da SEP de refazimento e republicação de DFs e de DFP/ITR, nos termos do voto do relator, que entendeu ser aquisição de controle, e não de controle conjunto, a compra de 75% da Bartira. Vencido o Presidente, que seguia a área técnica. | cvm/colegiado/2016/col-20161213-d0158.md |
 
 ## deliberacao-cvm-695
@@ -809,6 +893,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | divulgacao-informacoes | O Colegiado deu provimento parcial ao recurso da B3 contra decisão da SEP sobre o Formulário de Referência e encargos sociais na remuneração dos administradores. Manteve o entendimento da SEP sobre a metodologia do item 13.2(d)(v). Deu provimento quanto aos encargos sociais de ônus do empregador, que não seriam benefício de qualquer natureza (art. 152, Lei 6.404/76). | cvm/colegiado/2020/col-20201208-d1361.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.005933/2019-31; 19957.007695/2019-06; 19957.011012/2019-15 | 2020-06-02 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, de recursos de reclamantes contra decisões da SEP sobre Banco do Brasil e Cassi. Fundamentos, cada um suficiente: intempestividade, pois os recursos vieram após o prazo da Deliberação CVM 463/03 (aplicável pelo art. 4º, §7º, ICVM 607/19); e não cabimento nas hipóteses do §4º do mesmo artigo. | cvm/colegiado/2020/col-20200602-d1822.md |
 
 ## deliberacao-cvm-696
@@ -818,6 +903,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.001316/2020-08 | 2020-07-07 | parcial | divulgacao-informacoes | O Colegiado, por unanimidade, deferiu em parte o pedido do Banco do Brasil de dispensa do Comunicado de Transações entre Partes Relacionadas (ICVM 480/09, Anexo 30-XXXIII), acompanhando a SEP. Concedida para crédito, serviços bancários e entidades patrocinadas; negada para controladas com participação inferior a 1%, por não caber flexibilização por dispensa normativa. | cvm/colegiado/2020/col-20200707-d1848.md |
 
 ## deliberacao-cvm-697
@@ -827,6 +913,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-698
 
@@ -836,6 +923,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | cvm/colegiado/2022/col-20220920-d2547.md |
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento aos recursos da Via Varejo e da CBD contra determinação da SEP de refazimento e republicação de DFs e de DFP/ITR, nos termos do voto do relator, que entendeu ser aquisição de controle, e não de controle conjunto, a compra de 75% da Bartira. Vencido o Presidente, que seguia a área técnica. | cvm/colegiado/2016/col-20161213-d0158.md |
 
 ## deliberacao-cvm-699
@@ -846,6 +934,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | cvm/colegiado/2021/col-20210824-d2285.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.002727/2016-26 | 2018-04-24 | nao-provido | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o relator, negou provimento a recurso da Elekeiroz contra determinação de divulgar laudo de avaliação usado na aquisição de controle (ICVM 480, art. 56). Não conheceu de petição de investidor, por falta de cabimento regimental. Pediu à SEP que prossiga no exame da aderência do laudo ao CPC 46. | cvm/colegiado/2018/col-20180424-d0324.md |
 | decisao-colegiado | 19957.002727/2016-26 | 2017-06-06 | outro | contabil-demonstracoes | O Colegiado, por unanimidade, acompanhou o voto do diretor relator no recurso da Elekeiroz S.A. contra entendimento da SEP sobre avaliação de patentes da Nexoleum Bioderivados S.A. em laudo a preço de mercado (art. 256, II, b, da Lei 6.404/1976). Conforme o voto acompanhado, a mensuração deve seguir o CPC 46, e propôs-se intimar a companhia a avaliar o laudo. | cvm/colegiado/2017/col-20170606-d0324.md |
 | decisao-colegiado | 19957.007794/2016-37 | 2017-01-17 | parcial | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhou a SEP em consulta da Klabin S.A. sobre dispensa de avaliação (art. 264 da Lei 6.404/1976). A SEP entendeu presentes os requisitos do precedente RJ2015/9097: sem minoritários, sem relação de troca e sem aumento de capital. Quanto ao fato relevante (Instrução CVM 565/2015, art. 3º), a divulgação segue a regulação vigente, cabendo à administração avaliar. | cvm/colegiado/2017/col-20170117-d0546.md |
@@ -896,6 +985,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-716
 
@@ -904,6 +994,22 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
+
+## deliberacao-cvm-717
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-718
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-719
 
@@ -929,6 +1035,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
+## deliberacao-cvm-726
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-727
 
 ### Citada sem dispositivo identificado
@@ -936,7 +1050,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
+
+## deliberacao-cvm-728
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-729
 
@@ -945,6 +1068,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | RJ2014/11715; 19957.001098/2016-17 | 2016-12-13 | provido | contabil-demonstracoes | O Colegiado, por maioria, deu provimento aos recursos da Via Varejo e da CBD contra determinação da SEP de refazimento e republicação de DFs e de DFP/ITR, nos termos do voto do relator, que entendeu ser aquisição de controle, e não de controle conjunto, a compra de 75% da Bartira. Vencido o Presidente, que seguia a área técnica. | cvm/colegiado/2016/col-20161213-d0158.md |
 
 ## deliberacao-cvm-730
@@ -954,6 +1078,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-731
 
@@ -962,6 +1087,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-732
 
@@ -970,6 +1096,15 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-733
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-737
 
@@ -979,6 +1114,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/1951 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2015/1951. | cvm/colegiado/2016/col-20160322-d9748.md |
 
+## deliberacao-cvm-739
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-740
 
 ### Citada sem dispositivo identificado
@@ -986,6 +1129,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008013/2020-16 | 2021-02-10 | indeferido | administracao-carteiras | O Colegiado indeferiu o pleito da ANBIMA para que as segmentações da Certificação de Gestores ANBIMA (CGA) fossem aceitas como requisito de autorização de administrador de carteiras, nos termos da ICVM 558/2015 e da Deliberação CVM 740/2015. Solicitou à SDM que considere as questões em eventual reforma da ICVM 558/2015. | cvm/colegiado/2021/col-20210210-d2076.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.006474/2017-41 | 2017-09-26 | nao-provido | administracao-carteiras | O Colegiado, acompanhando a SIN, negou provimento a recurso contra indeferimento de credenciamento de pessoa natural como administrador de carteira. Fundamento: experiência em sociedade só registrada a partir de 2013 não atende ao prazo mínimo de sete anos (art. 3º, §1º, I, da Instrução CVM 558/15), e o notório saber não foi demonstrado (§1º, II). | cvm/colegiado/2017/col-20170926-d0806.md |
 | decisao-colegiado | 19957.001047/2017-76 | 2017-06-06 | nao-provido | administracao-carteiras | O Colegiado, por unanimidade, indeferiu recurso contra decisão da SIN que negou credenciamento de administrador de carteiras pessoa natural com base em sete anos de experiência (art. 3º, § 1º, I, da Instrução CVM 558/2015). Fundamento: atividades em entidade de previdência e em tesouraria não se enquadram na norma (Memorando 52/2017-CVM/SIN/GIR). O indeferimento não impede a atuação, mas exige certificação. | cvm/colegiado/2017/col-20170606-d0685.md |
 
@@ -1009,6 +1153,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-06-02 | outro | normativo | O Colegiado, por unanimidade, aprovou a Deliberação CVM 857/2020, que altera a Deliberação CVM 749/2016 sobre o uso da sigla, do logotipo e do slogan da CVM. Pela norma, o Superintendente Geral decide os requerimentos, após manifestações da ASC e da SOI. Vigência a partir de 01.07.2020, conforme o Decreto 10.139/19. | cvm/colegiado/2020/col-20200602-d1806.md |
 | decisao-colegiado | 749/2016; 19957.000974/2020-74 | 2020-05-19 | — | normativo | O Colegiado iniciou a discussão sobre alteração de dispositivos da Deliberação CVM 749/2016. Julgamento suspenso por pedido de vista. | cvm/colegiado/2020/col-20200519-d1806.md |
 
@@ -1054,6 +1199,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.007728/2021-24 | 2021-09-16 | outro | institucional | O Colegiado aprovou a Resolução CVM nº 53/2021, que institui o Sistema Integrado de Gestão de Riscos (SGR) da CVM e revoga a Deliberação CVM nº 757/2016, para assegurar o cumprimento dos mandatos legais da Autarquia (Lei 6.385/1976). Por tratar-se de norma de organização interna, não foi submetida a audiência pública. | cvm/colegiado/2021/col-20210916-d0303.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.002928/2016-23 | 2017-10-17 | conhecimento | processual | O Colegiado, pelo voto do relator, não conheceu de recursos da Solidez CCTVM e de seu diretor contra decisão da SMI, mantendo decisões da BSM em PADs. Fundamento: art. 45 do Regulamento Processual da BSM e art. 49, §3º, da Instrução CVM 461/07, que não preveem recurso à CVM nesses processos, diferentemente do MRP. | cvm/colegiado/2017/col-20171017-d0302.md |
 | decisao-colegiado | — | 2016-11-30 | outro | institucional | O Colegiado aprovou a versão final do Plano Bienal 2017/2018 do Sistema de Supervisão Baseada em Risco, autorizando sua divulgação externa, o envio ao Conselho Monetário Nacional e a publicação no site da CVM. O plano define as prioridades de supervisão e fiscalização do biênio, nos termos da Deliberação CVM 757/2016. | cvm/colegiado/2016/col-20161130-d5347.md |
 | decisao-colegiado | — | 2016-11-04 | — | institucional | Foi dada continuidade à apresentação da versão final do Plano Bienal 2017-2018 do Sistema de Supervisão Baseada em Risco, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20161104-d5347.md |
@@ -1067,6 +1213,22 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.005979/2016-15 | 2018-05-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.005979/2016-15. | cvm/colegiado/2018/col-20180515-d045716.md |
 
+## deliberacao-cvm-760
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+## deliberacao-cvm-761
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-762
 
 ### Citada sem dispositivo identificado
@@ -1075,7 +1237,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
 | decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | multa-cominatoria-taxa | O Colegiado deu provimento parcial a recurso contra multas cominatórias da SEP: anulou seis multas de R$ 15.000,00 relativas à AGO 2019 e manteve a de R$ 30.000,00 pelo Formulário de Referência 2020. Com base na SEP: documentos da AGO entregues no prazo; não há norma que permita entregar o FR fora do prazo. | cvm/colegiado/2022/col-20220215-d2474.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | contabil-demonstracoes | Em consulta das áreas técnicas (SNC e SEP), o Colegiado fixou entendimento sobre reconhecimento de receita pelo POC (CPC 47/IFRS 15) em vendas de unidades não concluídas por incorporadoras abertas. Sem carve-out; a Agenda Decision do IFRS IC não se aplica. Exige controles internos robustos e notas segmentadas. | cvm/colegiado/2018/col-20180703-d1063.md |
+
+## deliberacao-cvm-763
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-764
 
@@ -1130,6 +1301,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.003194/2019-42 | 2019-07-02 | conhecimento | processual | O Colegiado, por unanimidade, acompanhando a SRE, não conheceu do pedido de reconsideração da Opportunity Anafi Participações S.A. contra decisão de 30.04.19 sobre OPA para cancelamento de registro da Elétron S.A., por ausência dos requisitos do item IX da Deliberação CVM 463/03. | cvm/colegiado/2019/col-20190702-d1386.md |
 | decisao-colegiado | 19957.010578/2017-50 | 2017-12-12 | deferido | securitizacao | O Colegiado deferiu, por unanimidade, registro de oferta pública de CRI da RB Capital, lastreado em CCI de debêntures da Rede D'Or São Luiz, acompanhando a SRE. Vínculo imobiliário pela destinação dos recursos (art. 8º, I, Lei 9.514/1997). Adiou a proposta subsidiária da SRE sobre a Deliberação 772/2017. | cvm/colegiado/2017/col-20171212-d0869.md |
 
+## deliberacao-cvm-776
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-778
 
 ### Citada sem dispositivo identificado
@@ -1152,6 +1331,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.003483/2020-85 | 2020-07-07 | indeferido | fundos-investimento | Por maioria, o Colegiado, acompanhando a área técnica, indeferiu os pedidos de dispensa do art. 38, §7º, I e II, e do art. 38, VII, da ICVM 356/01 para fundo de direitos creditórios não padronizados, por não haver nova circunstância mitigadora, segundo a área técnica. Um diretor divergiu, vendo distinção em relação ao precedente Weel. | cvm/colegiado/2020/col-20200707-d1849.md |
 | decisao-colegiado | 19957.002834/2020-31 | 2020-06-02 | deferido | fundos-investimento | O Colegiado concedeu dispensa do art. 39, §2º, da ICVM 356 ao Itapeva XII Multicarteira FIDC-NP para adquirir direitos creditórios originados ou cedidos pelo Bradesco, parte relacionada à gestora, acompanhando a área técnica. | cvm/colegiado/2020/col-20200602-d1821.md |
 
+## deliberacao-cvm-783
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-785
 
 ### Citada sem dispositivo identificado
@@ -1167,6 +1354,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002966/2022-24; 19957.002968/2022-13; 19957.002975/2022-15; 19957.003161/2022-06; 19957.003166/2022-21; 19957.003174/2022-77; 19957.003196/2022-37; 19957.003207/2022-89; 19957.003215/2022-25; 19957.003396/2022-90; 19957.003403/2022-53; 19957.003698/2022-68; 19957.003700/2022-07; 19957.003704/2022-87; 19957.003759/2022-97; 19957.006211/2021-18 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a edição das Resoluções CVM 117 a 132/2022, que consolidam normas do CPC, ICPCs e OCPCs e revogam as deliberações correspondentes, no âmbito do Decreto 10.139/2019, conforme proposta da SNC. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220504-d2627.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-787
 
@@ -1175,7 +1363,16 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002356/2022-21; 19957.002468/2022-81; 19957.002493/2022-65; 19957.002501/2022-73; 19957.002506/2022-04; 19957.006215/2021-04; 19957.002509/2022-30; 19957.002512/2022-53; 19957.002521/2022-44; 19957.002616/2022-68; 19957.002618/2022-57; 19957.002625/2022-59; 19957.002644/2022-85; 19957.002645/2022-20; 19957.002654/2022-11; 19957.002658/2022-07; 19957.002280/2022-33; 19957.002459/2022-91; 19957.002467/2022-37; 19957.002477/2022-72; 19957.002503/2022-62; 19957.002513/2022-06; 19957.002527/2022-11; 19957.002715/2022-40; 19957.002716/2022-94; 19957.002529/2022-19; 19957.002531/2022-80 | 2022-04-14 | outro | contabil-demonstracoes | O Colegiado aprovou 27 Resoluções CVM (90 a 116/2022), que consolidam normas do CPC e revogam as deliberações correspondentes, na revisão determinada pelo Decreto 10.139/2019. Não houve consulta pública nem AIR, por não resultarem em mudança de mérito das obrigações. | cvm/colegiado/2022/col-20220414-d2571.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.001623/2016-02 | 2018-04-03 | conhecimento | processual | O Colegiado, por unanimidade, acompanhando o relator, não conheceu de pedido de reconsideração que buscava rediscutir o tratamento contábil do TECON-1 (Santos Brasil) e manteve a decisão anterior. Segundo a área técnica, o pedido não atende às hipóteses de cabimento da Deliberação CVM 463/03, inciso IX. | cvm/colegiado/2018/col-20180403-d0750.md |
+
+## deliberacao-cvm-788
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-793
 
@@ -1230,6 +1427,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 797/2018; 19957.007791/2018-65 | 2018-09-04 | nao-provido | ofertas-publicas | O Colegiado, por unanimidade, acompanhando a SRE, indeferiu pedido de reconsideração da EBPH Participações S.A. e de três pessoas físicas contra a Deliberação CVM 797/2018, que, por medida cautelar, suspendeu a oferta de debêntures da EBPH e proibiu temporariamente os requerentes de atuar em ofertas com esforços restritos. Não houve argumentos ou fatos novos. | cvm/colegiado/2018/col-20180904-d1103.md |
 
+## deliberacao-cvm-802
+
+### Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
 ## deliberacao-cvm-804
 
 ### Citada sem dispositivo identificado
@@ -1237,6 +1442,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-805
 
@@ -1245,6 +1451,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-806
 
@@ -1253,6 +1460,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 
 ## deliberacao-cvm-809
 
@@ -1348,6 +1556,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.007649/2019-07 | 2019-12-10 | outro | normativo | O Colegiado aprovou a Deliberação CVM 838/19, que revoga a Deliberação CVM 829/19, a qual permitia às companhias abertas fazer publicações pelo Sistema Empresas.NET. Fundamento: a MP 892/19, que alterara o art. 289 da Lei 6.404/76, perdeu eficácia, mantendo-se a redação original do dispositivo. | cvm/colegiado/2019/col-20191210-d1580.md |
 | decisao-colegiado | 19957.007649/2019-07 | 2019-09-27 | outro | normativo | O Colegiado aprovou a Deliberação CVM 829/19, que regulamenta as publicações obrigatórias da Lei 6.404/76 no sistema Empresas.NET, dispensada a certificação digital, em razão da alteração do art. 289 pela MP 892/19. Não afeta as obrigações de entrega da ICVM 480/09. Será revogada se a MP não for convertida em lei. | cvm/colegiado/2019/col-20190927-d1580.md |
 
@@ -1359,6 +1568,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.002842/2022-49; 19957.003136/2022-14; 19957.003137/2022-69; 19957.003141/2022-27; 19957.003158/2022-84; 19957.003160/2022-53; 19957.003398/2022-89; 19957.003665/2022-18; 19957.003667/2022-15; 19957.003668/2022-51; 19957.003838/2022-06; 19957.003849/2022-88; 19957.003854/2022-91; 19957.003859/2022-13; 19957.003891/2022-07; 19957.003892/2022-43; 19957.003895/2022-87; 19957.005553/2021-11 | 2022-05-04 | outro | normativo | O Colegiado aprovou a edição das Resoluções CVM 136 a 153/2022, que ratificam 18 pronunciamentos e interpretações do CPC e revogam as Deliberações CVM correspondentes, no âmbito do Decreto 10.139/2019. Sem consulta pública e com dispensa de AIR, por não haver mudança de mérito nas obrigações vigentes. | cvm/colegiado/2022/col-20220504-d2629.md |
 | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | cvm/colegiado/2021/col-20211221-d2388.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 01/2019; 19957.008229/2019-30 | 2019-12-04 | outro | contabil-demonstracoes | Após audiência pública SNC n° 01/2019 – minuta de deliberação que aprova o pronunciamento técnico CPC 00 (R2) – estrutura conceitual para relatório financeiro. Proc. SEI 19957.008229/2019-30. | cvm/colegiado/2019/col-20191204-d5917.md |
 
 ## deliberacao-cvm-836
@@ -1367,6 +1577,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 02/2019; 19957.008230/2019-64 | 2019-12-04 | outro | normativo | O Colegiado aprovou a Deliberação CVM 836/19, após a Audiência Pública SNC 02/2019, que aprova o Documento de Revisão de Pronunciamentos Técnicos 14, decorrente do CPC 00, da nova definição de combinação de negócios (CPC 15), da definição de omissão material e da renomeação do CPC 06 (R2). Aplicável a exercícios iniciados a partir de 1º de janeiro de 2020. | cvm/colegiado/2019/col-20191204-d1523.md |
 
 ## deliberacao-cvm-838
@@ -1383,6 +1594,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.000127/2020-18 | 2020-01-28 | outro | normativo | O Colegiado aprovou, por unanimidade, a Deliberação CVM 841/20, que esclarece, para a aprovação tácita do art. 16 do Decreto 10.178/2019 (Lei de Liberdade Econômica), que valem os ritos e prazos de autorização já previstos nas normas específicas da CVM para cada atividade, conforme proposta da SDM (Memorando 7/2020). | cvm/colegiado/2020/col-20200128-d1683.md |
 
 ## deliberacao-cvm-843
@@ -1497,6 +1709,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 02/2020; 19957.004091/2020-33 | 2020-07-06 | outro | normativo | O Colegiado aprovou a Deliberação CVM 859/20, após a audiência pública SNC 02/2020, que aprova a revisão do CPC 16 (benefícios de arrendamento na Covid-19). A deliberação entrou em vigor na publicação, por urgência (art. 4º, parágrafo único, do Decreto 10.139/2019). | cvm/colegiado/2020/col-20200706-d1840.md |
 
 ## deliberacao-cvm-860
@@ -1515,6 +1728,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.004548/2020-18 | 2020-07-21 | outro | normativo | O Colegiado aprovou, por unanimidade, a edição da Deliberação CVM 861/20, que estabelece procedimentos para depoimentos por tele e videoconferência no âmbito da atuação sancionadora da Autarquia. Fundamento: economicidade, efetividade e segurança, considerando a intensificação das atividades digitais de trabalho. | cvm/colegiado/2020/col-20200721-d1860.md |
 
 ## deliberacao-cvm-862

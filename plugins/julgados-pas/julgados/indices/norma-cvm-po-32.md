@@ -11,7 +11,7 @@ Norma: [cvm/pareceres-orientacao/0032.md](../../../normas/normas/cvm/pareceres-o
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | PAS CVM nº 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
+| pas | 19957.005810/2024-67 | 2026-10-02 | — | ofertas-publicas | Processo administrativo sancionador. Proc. 19957.005810/2024-67. | cvm/pas/2026/19957-005810-2024-67.md |
 | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | ofertas-publicas | Apurar a responsabilidade da Infinite Trade LLC pela realização de oferta pública de valores mobiliários sem o devido registro na CVM, em infração ao art. 19 da Lei nº 6.385/76. Multa | cvm/pas/2026/19957-013932-2025-16.md |
 | pas | 19957.012104/2022-18 | 2025-08-12 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública irregular de debêntures. Multa e Proibição Temporária. | cvm/pas/2025/19957-012104-2022-18.md |
 | pas | 19957.001908/2021-01 | 2024-09-24 | condenacao | ofertas-publicas | Apurar responsabilidade por suposta oferta pública de distribuição de valores mobiliários sem a obtenção do registro. Multas. | cvm/pas/2024/19957-001908-2021-01.md |

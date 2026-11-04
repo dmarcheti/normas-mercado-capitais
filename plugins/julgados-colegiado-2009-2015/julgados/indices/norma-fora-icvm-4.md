@@ -21,21 +21,31 @@ Norma: fora do acervo.
 | art. 6º | decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9380. | cvm/colegiado/2015/col-20150922-d9845.md |
 | art. 6º | decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9382. | cvm/colegiado/2015/col-20150922-d9847.md |
 
+## art. 12
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | RJ2015/12329 | 2015-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/12329. | cvm/colegiado/2015/col-20151201-d9954.md |
+
+## art. 119-A
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 119-A | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | cvm/colegiado/2015/col-20150616-d9688.md |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2015/12329 | 2015-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/12329. | cvm/colegiado/2015/col-20151201-d9954.md |
 | decisao-colegiado | RJ2015/9415 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9415. | cvm/colegiado/2015/col-20150929-d9854.md |
 | decisao-colegiado | RJ2015/9414 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9414. | cvm/colegiado/2015/col-20150929-d9853.md |
 | decisao-colegiado | RJ2015/9346 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9346. | cvm/colegiado/2015/col-20150922-d9835.md |
 | decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | O Colegiado indeferiu o pedido de dispensa da BRL Trust DTVM do cumprimento do inciso IV do art. 35 da Instrução CVM 472/2008 para o Arena Fundo de Investimento Imobiliário, acompanhando a SIN. Para a SIN, a AGC de 28.11.2013 extrapolou sua competência (art. 18 da ICVM 472) ao coobrigar bens e direitos do fundo. | cvm/colegiado/2015/col-20150908-d9820.md |
 | decisao-colegiado | RJ2012/8574 | 2015-08-11 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/8574. | cvm/colegiado/2015/col-20150811-d8763.md |
+| decisao-colegiado | RJ2015/5917 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5917. | cvm/colegiado/2015/col-20150623-d9712.md |
 | decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | administracao-carteiras | O Colegiado, acompanhando o Memorando 24/2015 (SIN/GIR), negou provimento ao recurso contra indeferimento de credenciamento como consultor de valores mobiliários. Fundamento: não comprovado o período mínimo de três anos em atividade que revele aptidão para análise de investimentos (ICVM 43/1985), aplicado o entendimento do Proc. RJ2011/7177. | cvm/colegiado/2015/col-20150623-d9711.md |
 | decisao-colegiado | RJ2015/5998 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5998. | cvm/colegiado/2015/col-20150623-d9710.md |
 | decisao-colegiado | RJ2015/5991 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5991. | cvm/colegiado/2015/col-20150623-d9709.md |
-| decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | cvm/colegiado/2015/col-20150616-d9688.md |
-| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | cvm/colegiado/2015/col-20150609-d5474.md |
 | decisao-colegiado | RJ2015/3692 | 2015-05-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/3692. | cvm/colegiado/2015/col-20150512-d9644.md |
 | decisao-colegiado | RJ2015/2700 | 2015-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/2700. | cvm/colegiado/2015/col-20150414-d9626.md |
 | decisao-colegiado | RJ2015/2699 | 2015-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/2699. | cvm/colegiado/2015/col-20150414-d9625.md |

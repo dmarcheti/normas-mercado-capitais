@@ -80,7 +80,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da [pessoa física]. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+| pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
 
 ## lcp-104
 

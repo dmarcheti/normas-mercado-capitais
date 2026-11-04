@@ -11,7 +11,7 @@ Norma: [cvm/resolucoes/0094.md](../../../normas/normas/cvm/resolucoes/0094.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 8º | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| art. 8º | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
 
 ## Citada sem dispositivo identificado
 

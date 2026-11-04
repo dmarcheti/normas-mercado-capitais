@@ -11,6 +11,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
+| art. 2º | pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | ofertas-publicas | Oferta pública de valores mobiliários sem registro prévio na CVM ou sua dispensa, em infração ao art. 19 da Lei nº 6.385/1976 e ao art. 2º da Instrução CVM nº 400/2003. Multas. | cvm/pas/2022/19957-003642-2020-41.md |
 | art. 2º | pas | 19957.009778/2018-41 | 2022-06-14 | condenacao | ofertas-publicas | Oferta pública de contratos de investimento coletivo hoteleiro, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2022/19957-009778-2018-41.md |
 
 ## art. 3º
@@ -56,19 +57,6 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 23 | pas | 19957.009400/2019-28 | 2023-01-31 | condenacao | exercicio-irregular | Atuação irregular como agente autônomo de investimento e administração irregular de carteira de valores mobiliários, em infração ao art. 23 da Lei n° 6.385/1976, ao art. 2º da Instrução CVM n° 558/2015 e aos arts. 3º, 10 e 13 da Instrução CVM n° 497/2011. Multa e proibições. | cvm/pas/2023/19957-009400-2019-28.md |
 
-## art. 25
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
-## art. 29
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29, inciso III | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-| art. 29, inciso VII | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
-
 ## art. 32
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -85,19 +73,19 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 257 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de [pessoa física], em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
+| art. 257 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de Demonstrações Financeiras, em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
 
 ## art. 268
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 268 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de [pessoa física], em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
+| art. 268 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de Demonstrações Financeiras, em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
 
 ## art. 299
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 299 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de [pessoa física], em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
+| art. 299 | pas | 19957.010135/2018-40; RJ2018/7396 | 2021-01-19 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Companhia Aurífera Brasileira S.A. em virtude da (i) não elaboração de Demonstrações Financeiras, em infração ao art. 176 da Lei nº 6.404/1976, ao art. 21, incisos III e V, c/c os arts. 25, 26 e 29 da Instrução CVM nº 480/2009; (ii) não convocação de Assembleias Gerais Ordinárias, em infração ao art. 132 c/c o art. 142, inciso IV, da Lei nº 6.404/1976; e (iii) não entrega de Formulários Cadastrais, em infração ao art. 21, inciso I, c/c o art. 23, parágrafo único, da Instrução CVM nº 480/2009. Multas e absolvição. | cvm/pas/2021/19957-010135-2018-40.md |
 
 ## Citada sem dispositivo identificado
 
@@ -118,6 +106,8 @@ Norma: fora do acervo.
 | pas | 07/2004 | 2007-08-01 | parcial | informacao-privilegiada | O uso de informação privilegiada, caracterizado como prática não eqüitativa, é aquele de que resulta, direta ou indiretamente, efetiva ou potencialmente, em um tratamento para qualquer das partes em negociação com valores mobiliários, que a coloque em uma indevida posição de desequilíbrio ou desigualdade em face dos demais participantes da operação. Multas e absolvição. - São deveres do administrador do Clube empregar na defesa dos interesses dos condôminos a diligência que todo homem ativo e probo costuma empregar na administração de seus próprios negócios. Transgressão ao dever de diligência. Multas. | cvm/pas/2007/07-2004.md |
 | pas | RJ2005/8404 | 2006-08-29 | absolvicao | fundos-investimento | Suposta contratação de instituição não credenciada junto à CVM para prestar serviço de custódia dos ativos de fundos de investimento, em infração aos artigos 52, I, e 57, VIII, da Instrução CVM nº 302/99, bem como ao artigo 14, IV, da Instrução CVM nº 306/99, definida como infração grave nos termos do artigo 18 desta instrução. Absolvições. | cvm/pas/2006/rj2005-8404.md |
 | pas | RJ2002/5516 | 2006-02-16 | parcial | pld | Imputação de descumprimento do disposto no art. 3º, § 1º, inciso I, alínea e, da Instrução CVM nº 301/99: absolvição. Imputação de descumprimento do disposto no art. 3º, § 1º, inciso I, alínea f, e art. 9º da Instrução CVM nº 301/99: multa. | cvm/pas/2006/rj2002-5516.md |
+| pas | RJ2001/8473 | 2004-10-18 | parcial | auditoria-independente | Boucinhas & Campos S/C Auditores Independentes (sucedida por Boucinhas & Campos + Soteconti Auditores Independentes S/C). Inobservância do art. 35, inciso I, da Instrução CVM nº 308/99. Realização de auditoria insuficiente. - Infração a dispositivos das Normas de Auditoria Independente das Demonstrações Contábeis NBC-T-11, aprovadas pelas Resoluções do Conselho Federal de Contabilidade nºs 820/97 e 821/97; - Infração do § 18, da Deliberação CVM nº 183/95 e dos artigos 178, §1º e 179, inciso I, da Lei nº 6.404/76, em conjunto com a Instrução CVM nº 308/99, artigos 19 e 20. - Infração do art. 26, § 2º, da Instrução CVM nº 308/99. - Infração à Instrução CVM nº 296/98, com nova redação dada pela Instrução CVM nº 350/01. | cvm/pas/2004/rj2001-8473.md |
 | pas | 10/2000 | 2004-07-08 | parcial | deveres-administradores | Infração ao parágrafo 1º do art. 226 da Lei nº 6.404/76. Multa. Infração ao parágrafo único do art. 116 e à alínea “f” do art. 117, ambos da Lei nº 6.404/76. Inabilitação e multa. | cvm/pas/2004/10-2000.md |
 | pas | 12/1998 | 2004-05-20 | condenacao | intermediacao | Realização de prática não-equitativa. Multas. - Execução de ordens antes do registro. - Não observância da seriação cronológica de ordens. Multa. - Embaraço à fiscalização da CVM. Multa. - Operação fraudulenta. Multa. - Intermediação irregular por pessoa não integrante do sistema de distribuição de valores. Multa | cvm/pas/2004/12-1998.md |
 | pas | SP2003/0148 | 2003-12-17 | parcial | manipulacao-fraude | Realização de operações no mercado de valores mobiliários com base em procuração e informações cadastrais falsas. Infração ao disposto no item III do artigo 11 do Regulamento Anexo à Resolução CMN nº 1.655/89, combinado com o disposto nos artigos 3º, 4º e 5º da Instrução CVM nº 220/94: - Multas. - Realização de operações fraudulentas com a utilização de procurações falsas. - Multa e absolvições. - Irregular exercício de intermediação no mercado de valores mobiliários. - Proibição para o exercício de atividades no mercado de valores mobiliários. - Descumprimento do inciso II do art. 1° da Instrução CVM n° 220/94. - Absolvição. | cvm/pas/2003/sp2003-0148.md |
+| pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |

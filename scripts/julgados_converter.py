@@ -13,9 +13,11 @@ frontmatter do contrato, no caminho de `julgados_comum.caminho_julgado`.
 - TC sem item do Colegiado: o termo (PDF ou extrato do SEI, ISO-8859-1, tabela vira bloco).
 - Decisões antigas: um arquivo por ano, `## ATA ...` por reunião e `### ` por decisão
   (segmentação por heurística, anotada em `incerteza`).
-- Linhas repetidas em 3 ou mais páginas saem (cabeçalho e rodapé); todo o texto passa por
-  pii.limpar. Resultado só por regex segura; tema fica vazio; citações por citacoes.py
-  (sem o módulo, ficam vazias).
+- Linhas repetidas na borda (3 primeiras ou últimas linhas) de 3 ou mais páginas saem
+  (cabeçalho e rodapé; a mesma linha no miolo fica); páginas por OCR têm "§" e romanos lidos
+  errado corrigidos em padrões estreitos (corrigir_ocr); todo o texto passa por pii.limpar.
+  Resultado só por regex segura; tema fica vazio; citações por citacoes.py (sem o módulo,
+  ficam vazias).
 - Cobertura: conferência independente (html.parser; pypdf para PDF, se instalado) da fração
   das palavras da fonte presentes na saída; um relatório JSON por lote em
   dados/fase-2d/relatorios/.
@@ -75,6 +77,24 @@ def _numero_de_paginas(caminho):
         return None
 
 
+# Erros sistemáticos do OCR (Vision), corrigidos só nas páginas lidas por OCR e só em padrões
+# estreitos: "§" lido como "8" depois de "art. N," ("art. 17, 82°" -> "art. 17, §2º"; "§§" como
+# "88": "art. 141, 884° e 5°" -> "§§4º"); romanos "I e II" dos incisos lidos como "1", "l",
+# "11", "Il"; "Il"/"lI" abrindo título de seção ("Il - DA ILEGALIDADE").
+_OCR_PARAGRAFO = re.compile(
+    r"(\b(?:arts?\.|artigos?)\s*\d+[A-Z]?(?:-[A-Z])?,?\s+)8(8?)\s?(\d{1,2})\s*[°º]")
+_OCR_INCISOS = re.compile(r"\b(incisos?\s+)(?:I|1|l)(\s+e\s+)(?:II|11|Il|lI)\b")
+_OCR_TITULO_II = re.compile(r"(?m)^([ \t]*)(?:Il|lI)(?=\s+[-–]\s|\.)")
+
+
+def corrigir_ocr(texto):
+    """Texto de página lida por OCR com "§" e os romanos I e II corrigidos (padrões acima)."""
+    texto = _OCR_PARAGRAFO.sub(lambda m: "%s§%s%sº" % (m.group(1), "§" if m.group(2) else "",
+                                                      m.group(3)), texto)
+    texto = _OCR_INCISOS.sub(r"\1I\2II", texto)
+    return _OCR_TITULO_II.sub(r"\1II", texto)
+
+
 def texto_pdf(caminho, pm=pdf_macos):
     """(páginas, nível, motor, avisos, nº de páginas por OCR). PDFKit primeiro (pypdf fora do
     macOS); páginas com menos de 20 caracteres passam pelo OCR do Vision."""
@@ -99,7 +119,7 @@ def texto_pdf(caminho, pm=pdf_macos):
             pags_ocr = texto.split("\f")
             for i in vazias:
                 if i < len(pags_ocr) and pags_ocr[i].strip():
-                    paginas[i] = jc.normalizar_pdf(pags_ocr[i])
+                    paginas[i] = corrigir_ocr(jc.normalizar_pdf(pags_ocr[i]))
                     n_ocr += 1
             if n_ocr:
                 nivel = "ocr"
@@ -134,22 +154,73 @@ def _cabecalho(linha):
     return None
 
 
-def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA, retirado=None):
-    """Junta as páginas sem as linhas (de 8 caracteres ou mais) que aparecem em `minimo` ou mais
-    páginas, com os números trocados por # (cabeçalho e rodapé com número de página).
-    Cabeçalho de peça fica. Devolve (texto, nº de linhas retiradas)."""
+# Bloco de partes no topo das peças ("Interessados: A" e os demais nomes nas linhas seguintes):
+# linha só com nome, repetida no topo de cada peça, é parte do processo, não cabeçalho.
+_ROTULO_PARTES = re.compile(
+    r"\s*\**\s*(?:Interessad[oa]s?|Acusad[oa]s?|Indiciad[oa]s?|Recorrentes?)\s*\**\s*:", re.I)
+_ROTULO = re.compile(r"\s*\**\s*[A-ZÀ-Ý][\wÀ-ÿ.\-/ ]{0,40}:")
+BORDA_LINHAS = 3
+# nota de rodapé: número de chamada seguido de texto ("12 Doc. 1619945.", "3 Fls. 20/21."); a
+# chave com os números trocados por # repetiria entre páginas. "1 de 4" é número de página.
+_NOTA_DE_RODAPE = re.compile(r"\s*\d{1,3}\s*(?!(?:de|of)\s+\d)[A-Za-zÀ-ÿ\"“(]")
+
+
+def _linhas_de_partes(linhas):
+    """Índices das linhas de blocos "Interessados:", "Acusados:", "Indiciados:" e "Recorrentes:"
+    (singular também): do rótulo até a linha em branco, o próximo rótulo ou cabeçalho de peça."""
+    dentro, bloco = False, set()
+    for i, linha in enumerate(linhas):
+        if _ROTULO_PARTES.match(linha):
+            dentro = True
+        elif dentro and (not linha.strip() or _ROTULO.match(linha) or _cabecalho(linha)):
+            dentro = False
+        if dentro:
+            bloco.add(i)
+    return bloco
+
+
+def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA, retirado=None, borda=BORDA_LINHAS):
+    """Junta as páginas sem o cabeçalho e o rodapé de página: linha (de 8 caracteres ou mais)
+    que aparece na borda (entre as `borda` primeiras ou últimas linhas não vazias) de `minimo` ou
+    mais páginas, duas delas seguidas e na mesma borda, com os números trocados por # (número de
+    página). Só a ocorrência na borda sai: a mesma linha no miolo da página é texto da peça
+    (termos parecidos, fecho, subtítulo, data). Título repetido só no topo de cada peça (páginas
+    não seguidas), nota de rodapé, cabeçalho de peça e bloco de partes ("Interessados:") ficam.
+    Devolve (texto, nº de linhas retiradas)."""
     def chave(linha):
         return re.sub(r"\d+", "#", re.sub(r"\s+", " ", linha.strip()))
 
-    contagem = {}
-    for p in paginas:
-        for k in {chave(x) for x in p.splitlines() if len(x.strip()) >= 8}:
-            contagem[k] = contagem.get(k, 0) + 1
-    fora = {k for k, n in contagem.items() if n >= minimo}
+    def candidatas(linhas):
+        # o timbre não ocupa lugar na borda: o cabeçalho de 5 linhas (logotipo, endereços, site)
+        # empurraria a linha do processo para o miolo; as linhas de timbre dentro da borda contam
+        cheias = [i for i, x in enumerate(linhas) if x.strip() and not _linha_de_timbre(x)]
+        if not cheias:
+            return set()
+        topo, pe = cheias[:borda][-1], cheias[-borda:][0]
+        partes = _linhas_de_partes(linhas)
+        return {i for i, x in enumerate(linhas)
+                if (i <= topo or i >= pe) and len(x.strip()) >= 8
+                and not (i <= topo and i in partes)  # partes ficam no topo; o pé é rodapé
+                and not _cabecalho(x) and not _NOTA_DE_RODAPE.match(x)}
+
+    divididas = [p.splitlines() for p in paginas]
+    bordas = [candidatas(ls) for ls in divididas]
+    paginas_da_chave = {}  # chave -> posições (entre as páginas com texto) e borda (topo ou pé)
+    posicao = -1
+    for ls, bs in zip(divididas, bordas):
+        if any(x.strip() for x in ls):
+            posicao += 1
+        meio = len(ls) / 2
+        for i in bs:
+            paginas_da_chave.setdefault(chave(ls[i]), set()).add((posicao, i < meio))
+    # cabeçalho e rodapé de página aparecem na mesma borda de páginas seguidas; o fecho de um
+    # termo no pé de uma página e no topo da seguinte não conta
+    fora = {k for k, ps in paginas_da_chave.items()
+            if len({p for p, _ in ps}) >= minimo and any((p + 1, t) in ps for p, t in ps)}
     saida, retiradas = [], 0
-    for p in paginas:
-        for linha in p.splitlines():
-            if len(linha.strip()) >= 8 and chave(linha) in fora and not _cabecalho(linha):
+    for ls, bs in zip(divididas, bordas):
+        for i, linha in enumerate(ls):
+            if i in bs and chave(linha) in fora:
                 retiradas += 1
                 if retirado is not None:
                     retirado.append(linha)
@@ -162,19 +233,20 @@ def tirar_repetidas(paginas, minimo=MIN_PAGINAS_REPETIDA, retirado=None):
 # Timbre e rodapé da CVM e do SEI, por padrão explícito: valem também nas páginas por OCR e
 # nos PDFs curtos, onde a regra da linha repetida não alcança. Saem antes do pii.py (o telefone
 # da CVM não é dado pessoal).
-_CEP_CVM = r"(?:20050-901|01333-010|70712-900)"
-_SEDE_CVM = (r"(?:Rua\s+Sete\s+de\s+Setembro,?\s*111|Rua\s+Cincinato\s+Braga,?\s*340|"
+_CEP_CVM = r"(?:20050-901|01333-010|70712-900|01049-000|20159-900)"
+_SEDE_CVM = (r"(?:Rua\s+Sete\s+de\s+Setembro,?\s*11[01]|Rua\s+Cincinato\s+Braga,?\s*340|"
+             r"Rua\s+Formosa,?\s*367|"
              r"SCN\s*Q\.?\s*0?2\b|Corporate\s+Financial\s+Center)")
-_TEL_CVM = r"\(?\b(?:21|11|61)\)?\s*(?:3554|2146|3327)[-.\s]?\d{4}(?:\s*/\s*\d{4})?"
+_TEL_CVM = r"\(?\b(?:21|11|61)\)?\s*(?:3554|2146|3327|3233)[-.\s]?\d{4}(?:\s*/\s*\d{4})?"
 _LINHA_TIMBRE = re.compile(
-    r".*%s.*|.*%s.*(?:Andar|CEP|Tel|Brasil).*|" % (_CEP_CVM, _SEDE_CVM)
-    + r"(?:(?:Site|Tel\.?|Fax|Telefone|SAC|Ouvidoria)[:.\s]*|www\.cvm\.gov\.br/?|https?://www\.cvm"
-      r"\.gov\.br/?|%s|[\s|•–—,;/-])+|" % _TEL_CVM
+    r".*%s.*|.*%s.*(?:Andar|CEP|Tel|Brasil).*|%s[\s,/\dº°ªe-]*|" % (_CEP_CVM, _SEDE_CVM, _SEDE_CVM)
+    + r"(?:(?:Site|Tel\.?|Fax|Telefone|SAC|Ouvidoria|Brasil)[:.\s]*|www\.cvm\.gov\.br/?|https?://www\.cvm"
+      r"\.gov\.br/?|(?:https?://)?www\.gov\.br/cvm/?|%s|[\s|•–—,;/-])+|" % _TEL_CVM
     + r"SEI/CVM\s*-\s*\d{5,9}\s*-\s.{0,160}|"
-      r"https?://sei\.cvm\.gov\.br/sei/controlador\.php\S*|"
+      r"https?://sei\.cvm\.gov\.br/sei/controlador\.php\S*|autenticidade,(?:\s+and)?|"
       r"\d{1,3}\s+(?:of|de)\s+\d{1,3}\s+\d{2}/\d{2}/\d{4},?\s+\d{1,2}:\d{2}(?::\d{2})?|"
-      r".{0,100}\(\d{6,9}\)\s*SEI\s*[\d./\s-]{10,30}/\s*pg\.?\s*\d+|"
-      r"COMISS[ÃA]O\s+DE\s+VALORES\s+MOBILI[ÁA]RIOS", re.I)
+      r"(?:.{0,100}\(\d{6,9}\)\s*)?SEI\s*[\d./\s-]{10,30}/\s*pg\.?\s*\d+|"
+      r"COMISS[ÃA]O\s+DE\s+V\s?ALORES\s+MOBILI[ÁA]RIOS", re.I)
 _FRAGMENTO_TIMBRE = "COMISSÃO DE VALORES MOBILIÁRIOS"
 _SPANS_SEI = (
     re.compile(r"Documento\s+assinado\s+eletronicamente\s+por\s.{1,300}?(?:Decreto\s+n\S*\s*8\.539"
@@ -936,8 +1008,9 @@ def _preservar_extracao(valores, caminho):
         v["ementa"], v["ementa_fonte"] = antigo.get("ementa", ""), "extracao"
     if antigo.get("tema_fonte") == "extracao" and not v.get("tema"):
         v["tema"], v["tema_fonte"] = antigo.get("tema", ""), "extracao"
-    if antigo.get("resultado"):
-        v["resultado"] = antigo["resultado"]
+    # ementa extraída: a extração gravou o resultado, também o vazio de suspenso ou sem deliberação
+    if antigo.get("resultado") or antigo.get("ementa_fonte") == "extracao":
+        v["resultado"] = antigo.get("resultado", "")
     if not v.get("relator") and antigo.get("relator"):
         v["relator"] = antigo["relator"]
     return v

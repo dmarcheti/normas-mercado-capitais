@@ -11,10 +11,10 @@ Norma: [cmn/resolucoes/1775.md](../../../normas/normas/cmn/resolucoes/1775.md) (
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, inciso III | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| art. 1º, inciso III | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
 
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 5º | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| art. 5º | pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |

@@ -53,24 +53,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## icvm-2
 
-### art. 3º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
-
-### art. 4º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
-
-### art. 5º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | cvm/colegiado/2004/col-20040713-d09.md |
-
 ### art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

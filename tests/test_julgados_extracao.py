@@ -172,6 +172,16 @@ class PessoasTest(unittest.TestCase):
                                      "pas")
         self.assertEqual(pas, ["FULANO DE TAL"])
 
+    def test_rotulo_no_voto_nao_puxa_prosa_e_ente_publico_nao_e_pessoa(self):
+        corpo = ("Acusado:\n(i) divulgação intempestiva de Fato Relevante, em violação ao\n"
+                 "art. 157; e\n94. Passando à dosimetria da pena, destaco\n\n"
+                 "Acusados:\nFulano Beltrano Exemplar\nCicrano de Tal\n"
+                 "inciso II do art. 11\n\nAcusado: Estado de São Paulo\n\n"
+                 "Acusados: Ementa: Decisão: SESSÃO DE JULGAMENTO\nCVM Nº RJ2005/0001\n"
+                 "Beltrano Segundo Exemplar\n")
+        self.assertEqual(ex.partes_do_corpo(corpo), ["Fulano Beltrano Exemplar", "Cicrano de Tal",
+                                                     "Beltrano Segundo Exemplar"])
+
     def test_troca_nomes_da_lista_na_ementa(self):
         lista = ["Fulano Beltrano de Tal Exemplar", "Cicrano J. Exemplo"]
         casos = [

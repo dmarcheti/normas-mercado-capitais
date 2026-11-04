@@ -3570,7 +3570,6 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2015/9381 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9381. | cvm/colegiado/2015/col-20150922-d9846.md |
 | decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9380. | cvm/colegiado/2015/col-20150922-d9845.md |
 | decisao-colegiado | RJ2015/9521 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9521. | cvm/colegiado/2015/col-20150922-d9843.md |
-| decisao-colegiado | RJ2015/5917 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5917. | cvm/colegiado/2015/col-20150623-d9712.md |
 | decisao-colegiado | RJ2015/5184 | 2015-06-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5184. | cvm/colegiado/2015/col-20150609-d9678.md |
 | decisao-colegiado | RJ2014/8276 | 2015-04-14 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2014/8276. | cvm/colegiado/2015/col-20150414-d9266.md |
 | decisao-colegiado | RJ2014/8332 | 2014-10-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2014/8332. | cvm/colegiado/2014/col-20141007-d12.md |

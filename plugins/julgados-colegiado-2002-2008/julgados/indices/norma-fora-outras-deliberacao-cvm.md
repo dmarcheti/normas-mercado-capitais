@@ -22,14 +22,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-antiga | — | 1983-02-03 | — | — | Decisões do colegiado de 1983. | cvm/decisoes-antigas/1983.md |
 | decisao-antiga | — | 1978-03-22 | — | — | Decisões do colegiado de 1978. | cvm/decisoes-antigas/1978.md |
 
-## deliberacao-cvm-2
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/2893 | 2005-06-07 | nao-provido | exercicio-irregular | Recurso da avestruz master agro-com. imp. e exp. LTDA contra decisão da SFI de aplicação de multa cominatória pelo descumprimento da deliberação nº 473/04. Proc. RJ2005/2893. | cvm/colegiado/2005/col-20050607-d10.md |
-
 ## deliberacao-cvm-3
 
 ### Citada sem dispositivo identificado
@@ -65,14 +57,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
-
-## deliberacao-cvm-10
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2005/2893 | 2005-06-07 | nao-provido | exercicio-irregular | Recurso da avestruz master agro-com. imp. e exp. LTDA contra decisão da SFI de aplicação de multa cominatória pelo descumprimento da deliberação nº 473/04. Proc. RJ2005/2893. | cvm/colegiado/2005/col-20050607-d10.md |
 
 ## deliberacao-cvm-11
 

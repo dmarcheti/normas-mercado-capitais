@@ -52,7 +52,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 49 | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - [pessoa física] (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | cvm/pas/2006/16-2002.md |
+| art. 49 | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - Emissão de OTA (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | cvm/pas/2006/16-2002.md |
 
 ## Citada sem dispositivo identificado
 

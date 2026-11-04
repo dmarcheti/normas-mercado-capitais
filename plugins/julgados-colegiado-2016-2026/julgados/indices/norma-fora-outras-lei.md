@@ -57,19 +57,13 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | RJ2013/10128 | 2016-10-11 | conhecimento | assembleia-acionistas | O Colegiado, por unanimidade, não conheceu de recurso de um acionista contra a SEP, que não adotou diligências adicionais sobre a eleição de dois conselheiros independentes da Óleo e Gás Participações S.A. Motivo: intempestividade (prazo de 15 dias, Deliberação CVM 463/2003). Mantida a decisão da SEP. | cvm/colegiado/2016/col-20161011-d9324.md |
 | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | parcial | fundos-investimento | O Colegiado acolheu, por unanimidade, o pleito da ANFIDC para afastar a exigência de trânsito em julgado da homologação do plano do cedente, para FIDC em geral. Por maioria, em linha com a SIN, negou a aquisição, por FIDC padronizado, de créditos com coobrigação de cedente em recuperação judicial ou extrajudicial. | cvm/colegiado/2016/col-20160906-d0301.md |
 
-## lei-5
+## lei-4
 
 ### art. 34
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 34, § 2º | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | processual | O Colegiado, por maioria, acompanhando o voto da relatora, negou provimento a pedido de efeito suspensivo, em recurso ao CRSFN, contra a proibição temporária de 36 meses para atuar como assessor de investimento. A execução imediata da penalidade não basta para o efeito suspensivo (art. 71, RCVM 45). Um diretor ficou vencido, votando pelo deferimento. | cvm/colegiado/2025/col-20250415-d2014.md |
-
-### art. 71
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 71 | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | processual | O Colegiado, por maioria, acompanhando o voto da relatora, negou provimento a pedido de efeito suspensivo, em recurso ao CRSFN, contra a proibição temporária de 36 meses para atuar como assessor de investimento. A execução imediata da penalidade não basta para o efeito suspensivo (art. 71, RCVM 45). Um diretor ficou vencido, votando pelo deferimento. | cvm/colegiado/2025/col-20250415-d2014.md |
 
 ## lei-6
 
@@ -91,7 +85,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/9136 | 2017-10-03 | provido | opa | O Colegiado deu provimento ao recurso da CBD contra determinação da SRE de pagar aos minoritários da Globex ao menos 80% do valor pago à Morzan em sentença arbitral (art. 254-A da Lei 6.404/1976). Acompanhou o relator: a sentença faz coisa julgada só entre as partes e não se estende aos minoritários que aderiram ao Contrato ou à OPA. | cvm/colegiado/2017/col-20171003-d0449.md |
-| decisao-colegiado | RJ2015/3234 | 2016-01-19 | nao-provido | deveres-administradores | O Colegiado indeferiu o recurso da Companhia Providência contra decisão da SEP, acompanhando o voto do relator. Custos de assessores da alienação de controle não são imputáveis à companhia; custos antitruste e bônus de retenção podem ser descontados do preço pago pela PGI. | cvm/colegiado/2016/col-20160119-d9648.md |
 
 ## lei-7
 
@@ -140,12 +133,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | deveres-administradores | O Colegiado conheceu e negou provimento ao recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP em reclamação sobre a JBS. Na consulta, entendeu que não é necessária prévia deliberação da assembleia para ação de minoritário contra controlador (art. 246, §1º, Lei 6.404/1976) e que a ação posterior da companhia não extingue automaticamente a dos minoritários. | cvm/colegiado/2023/col-20230228-d2672.md |
 
 ## lei-11
-
-### art. 1º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | 19957.000887/2020-17 | 2022-03-22 | conhecimento | deveres-administradores | O Colegiado não conheceu de recurso do FIP Multiner contra decisão da SEP que não formulou acusação contra administradores e acionista controlador da Multiner S.A. por mútuos com a controladora, acompanhando o voto do diretor relator: ausência de requisito de admissibilidade (art. 4º, §4º, da Instrução CVM nº 607/2019), pois a decisão recorrida seguia entendimento prevalecente e tinha fundamentação adequada. | cvm/colegiado/2022/col-20220322-d2120.md |
 
 ### Citada sem dispositivo identificado
 
@@ -229,33 +216,11 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 ## lei-32
 
-### art. 152
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 152 | decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | divulgacao-informacoes | O Colegiado deu provimento parcial ao recurso da B3 contra decisão da SEP sobre o Formulário de Referência e encargos sociais na remuneração dos administradores. Manteve o entendimento da SEP sobre a metodologia do item 13.2(d)(v). Deu provimento quanto aos encargos sociais de ônus do empregador, que não seriam benefício de qualquer natureza (art. 152, Lei 6.404/76). | cvm/colegiado/2020/col-20201208-d1361.md |
-
 ### Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.001383/2024-48 | 2024-07-02 | nao-provido | assembleia-acionistas | Por maioria, o Colegiado negou provimento a recurso da A! Bodytech Participações S.A. contra entendimento da SRE: os efeitos da assembleia de debenturistas não se vinculam à reunião de credores do contrato entre credores, por ausência de previsão nas escrituras e de compatibilidade com elas. Um voto vencido. | cvm/colegiado/2024/col-20240702-d3037.md |
-
-## lei-37
-
-### art. 152
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 152 | decisao-colegiado | 19957.007457/2018-10 | 2020-12-08 | parcial | divulgacao-informacoes | O Colegiado deu provimento parcial ao recurso da B3 contra decisão da SEP sobre o Formulário de Referência e encargos sociais na remuneração dos administradores. Manteve o entendimento da SEP sobre a metodologia do item 13.2(d)(v). Deu provimento quanto aos encargos sociais de ônus do empregador, que não seriam benefício de qualquer natureza (art. 152, Lei 6.404/76). | cvm/colegiado/2020/col-20201208-d1361.md |
-
-## lei-38
-
-### art. 123
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 123, parágrafo único, alínea c | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | deveres-administradores | O Colegiado conheceu e negou provimento ao recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP em reclamação sobre a JBS. Na consulta, entendeu que não é necessária prévia deliberação da assembleia para ação de minoritário contra controlador (art. 246, §1º, Lei 6.404/1976) e que a ação posterior da companhia não extingue automaticamente a dos minoritários. | cvm/colegiado/2023/col-20230228-d2672.md |
 
 ## lei-42
 
@@ -280,28 +245,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 88 | decisao-colegiado | 19957.007951/2019-57 | 2019-08-28 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade e acompanhando as razões da área técnica, indeferiu pedido da AEBRB para interromper o prazo de convocação de AGE extraordinária do BRB (art. 124, §5º, II, Lei 6.404/76), por a medida visar evitar aprovação de proposta manifestamente irregular. Eventuais falhas de convocação poderão, após apuração, gerar nulidade. | cvm/colegiado/2019/col-20190828-d1518.md |
-
-## lei-54
-
-### art. 154
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 154 | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | deveres-administradores | O Colegiado conheceu e negou provimento ao recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP em reclamação sobre a JBS. Na consulta, entendeu que não é necessária prévia deliberação da assembleia para ação de minoritário contra controlador (art. 246, §1º, Lei 6.404/1976) e que a ação posterior da companhia não extingue automaticamente a dos minoritários. | cvm/colegiado/2023/col-20230228-d2672.md |
-
-### art. 155
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 155, inciso II | decisao-colegiado | 19957.007423/2021-12 | 2023-02-28 | nao-provido | deveres-administradores | O Colegiado conheceu e negou provimento ao recurso do SPS I Fundo de Investimento de Ações contra entendimento da SEP em reclamação sobre a JBS. Na consulta, entendeu que não é necessária prévia deliberação da assembleia para ação de minoritário contra controlador (art. 246, §1º, Lei 6.404/1976) e que a ação posterior da companhia não extingue automaticamente a dos minoritários. | cvm/colegiado/2023/col-20230228-d2672.md |
-
-## lei-71
-
-### art. 116
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 116, parágrafo único | decisao-colegiado | 19957.000887/2020-17 | 2022-03-22 | conhecimento | deveres-administradores | O Colegiado não conheceu de recurso do FIP Multiner contra decisão da SEP que não formulou acusação contra administradores e acionista controlador da Multiner S.A. por mútuos com a controladora, acompanhando o voto do diretor relator: ausência de requisito de admissibilidade (art. 4º, §4º, da Instrução CVM nº 607/2019), pois a decisão recorrida seguia entendimento prevalecente e tinha fundamentação adequada. | cvm/colegiado/2022/col-20220322-d2120.md |
 
 ## lei-123
 

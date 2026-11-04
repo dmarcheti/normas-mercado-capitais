@@ -14,12 +14,6 @@ Norma: fora do acervo.
 | art. 1º, parágrafo único, inciso I | pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | ofertas-publicas | Oferta pública irregular de Contrato de Investimento Coletivo – CIC sem o devido registro na CVM. Infração ao art. 19, c/c o art. 2º, IX, da Lei nº 6.385/76. Infração ao disposto nos itens I e II, da Instrução CVM 18/81. Absolvições. Multa. | cvm/pas/2019/19957-000457-2020-03.md |
 | art. 1º, parágrafo único, inciso II | pas | 09/2014; 19957.000457/2020-03 | 2019-12-20 | parcial | ofertas-publicas | Oferta pública irregular de Contrato de Investimento Coletivo – CIC sem o devido registro na CVM. Infração ao art. 19, c/c o art. 2º, IX, da Lei nº 6.385/76. Infração ao disposto nos itens I e II, da Instrução CVM 18/81. Absolvições. Multa. | cvm/pas/2019/19957-000457-2020-03.md |
 
-## art. 6º
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º, parágrafo único | pas | RJ2013/10909 | 2015-03-18 | condenacao | divulgacao-informacoes | Não divulgação de fato relevante. Multa. | cvm/pas/2015/rj2013-10909.md |
-
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

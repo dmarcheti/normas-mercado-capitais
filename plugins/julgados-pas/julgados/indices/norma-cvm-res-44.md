@@ -117,6 +117,12 @@ Norma: [cvm/resolucoes/0044.md](../../../normas/normas/cvm/resolucoes/0044.md) (
 | art. 19 | pas | 19957.015040/2022-07 | 2024-06-13 | condenacao | divulgacao-informacoes | Apurar responsabilidade de diretor presidente da Blue Tech Solutions EQI S.A. por eventual violação ao art. 157, §4º, da Lei nº 6.404/76, e ao art. 3º, §1º, da então vigente Instrução CVM nº 358/02. Multa. | cvm/pas/2024/19957-015040-2022-07.md |
 | art. 19 | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | informacao-privilegiada | Apurar suposta utilização de informação relevante ainda não divulgada ao mercado em negócios realizados com ações de emissão do Banco PanAmericano S.A. Absolvição. | cvm/pas/2026/19957-010788-2019-18.md |
 
+## art. 49
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 49 | pas | 19957.004285/2019-03 | 2024-06-04 | absolvicao | auditoria-independente | Apurar eventuais falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Companhia Energética de Minas Gerais - CEMIG, referente ao exercício social de 2017, em alegada infração ao art. 20 da Instrução CVM nº 308/1999. Absolvição. | cvm/pas/2024/19957-004285-2019-03.md |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |

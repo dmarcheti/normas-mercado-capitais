@@ -88,7 +88,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.012344/2022-12 | 2024-08-27 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/2003, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979. Multa, Proibição Temporária e Absolvição. | cvm/pas/2024/19957-012344-2022-12.md |
-| pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
 
 ## circular-bcb-15
 
@@ -139,14 +138,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.005966/2016-38; RJ2016/7189 | 2020-06-16 | absolvicao | informacao-privilegiada | Utilização de informação privilegiada. Infração ao art. 155, §1°, da Lei n° 6.404/76 c/c art. 13 da Instrução CVM n° 358/02. Absolvição. Data decisão CVM Tue Jun 16 15:42:00 BRT 2020 | cvm/pas/2020/19957-005966-2016-38.md |
-
-## circular-bcb-54
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 06/2012 | 2018-08-20 | parcial | manipulacao-fraude | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação de condições artificiais de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira e na administração dos fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2616/95, ao art. 65, inciso XV, da Instrução CVM nº 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM nº 387/03. Preliminares de extinção de punibilidade, prescrição, bis in idem, utilização de prova compartilhada por juízo criminal, inaplicabilidade da Instrução CVM nº 306/99, inépcia da acusação, cerceamento de defesa, existência de vícios processuais e ilegitimidade passiva. Absolvições, Multas, Inabilitação e Suspensão temporárias. | cvm/pas/2018/06-2012.md |
 
 ## circular-bcb-58
 
@@ -242,14 +233,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | RJ2005/3304 | 2006-05-30 | parcial | exercicio-irregular | Exercício da atividade de agente autônomo de investimento sem autorização da CVM: advertência. - Manutenção de contrato de prestação de serviços de agente autônomo de investimento com pessoa não registrada: absolvição. | cvm/pas/2006/rj2005-3304.md |
 
-## circular-bcb-234
-
-### Citada sem dispositivo identificado
-
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 06/2012 | 2018-08-20 | parcial | manipulacao-fraude | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação de condições artificiais de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira e na administração dos fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2616/95, ao art. 65, inciso XV, da Instrução CVM nº 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM nº 387/03. Preliminares de extinção de punibilidade, prescrição, bis in idem, utilização de prova compartilhada por juízo criminal, inaplicabilidade da Instrução CVM nº 306/99, inépcia da acusação, cerceamento de defesa, existência de vícios processuais e ilegitimidade passiva. Absolvições, Multas, Inabilitação e Suspensão temporárias. | cvm/pas/2018/06-2012.md |
-
 ## circular-bcb-443
 
 ### Citada sem dispositivo identificado
@@ -288,7 +271,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do [pessoa física] S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
+| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | cvm/pas/2006/09-1997.md |
 
 ## circular-bcb-1922
 
@@ -393,7 +376,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
-| pas | 14/2003 | 2007-05-15 | absolvicao | fundos-investimento | Violação ao art. 13, §8º, II, do Regulamento anexo à [pessoa física] 2.616/95, com redação dada pela [pessoa física] 2.688/96. Absolvições. - Suposta violação ao art. 41, §1º, III e §2º, II da [pessoa física] 2.688/96. Absolvições. | cvm/pas/2007/14-2003.md |
+| pas | 14/2003 | 2007-05-15 | absolvicao | fundos-investimento | Violação ao art. 13, §8º, II, do Regulamento anexo à Circular BACEN 2.616/95, com redação dada pela Circular BACEN 2.688/96. Absolvições. - Suposta violação ao art. 41, §1º, III e §2º, II da Circular BACEN 2.688/96. Absolvições. | cvm/pas/2007/14-2003.md |
 
 ## circular-bcb-2714
 
@@ -461,7 +444,7 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 1º, inciso I | pas | 14/2003 | 2007-05-15 | absolvicao | fundos-investimento | Violação ao art. 13, §8º, II, do Regulamento anexo à [pessoa física] 2.616/95, com redação dada pela [pessoa física] 2.688/96. Absolvições. - Suposta violação ao art. 41, §1º, III e §2º, II da [pessoa física] 2.688/96. Absolvições. | cvm/pas/2007/14-2003.md |
+| art. 1º, inciso I | pas | 14/2003 | 2007-05-15 | absolvicao | fundos-investimento | Violação ao art. 13, §8º, II, do Regulamento anexo à Circular BACEN 2.616/95, com redação dada pela Circular BACEN 2.688/96. Absolvições. - Suposta violação ao art. 41, §1º, III e §2º, II da Circular BACEN 2.688/96. Absolvições. | cvm/pas/2007/14-2003.md |
 
 ### Citada sem dispositivo identificado
 

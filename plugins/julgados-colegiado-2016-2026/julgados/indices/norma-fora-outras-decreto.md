@@ -16,6 +16,14 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.001484/2020-95 | 2021-06-22 | outro | normativo | O Colegiado, divergindo do Ofício da SRE, decidiu por unanimidade que, na ausência de vedação legal, a assinatura eletrônica simples é admissível em documentos entre particulares que instruem pedidos de registro na CVM, desde que aceita pelas partes. Fundamentos: art. 10, §2º, da MP 2.200-2/2001 e dever de diligência da instituição líder. | cvm/colegiado/2021/col-20210622-d1921.md |
 
+## decreto-58
+
+### art. 18
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 18, inciso III | decisao-colegiado | 607/2019; 19957.010563/2018-72 | 2020-03-03 | conhecimento | processual | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SEP que não lavrou termo de acusação no caso de abuso de poder de controle e manipulação de mercado, por não atender ao art. 4º, §4º, da Instrução CVM 607/19. Acompanhou o voto do relator, que afastou a análise da suficiência de indícios nessa via. | cvm/colegiado/2020/col-20200303-d1666.md |
+
 ## decreto-70
 
 ### art. 11
@@ -165,12 +173,6 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 8º | decisao-colegiado | 19957.003946/2016-22 | 2017-07-11 | — | institucional | Minuta de portaria da SAD sobre as atribuições do cargo de agente executivo da CVM, para regulamentar o art. 72 da Lei 11.890/2008 e viabilizar a terceirização de atividades não especializadas. Um diretor votou contra a aprovação, por entender que a matéria não é de competência do Colegiado. Julgamento suspenso por pedido de vista. | cvm/colegiado/2017/col-20170711-d0650.md |
 | art. 8º | decisao-colegiado | 19957.003946/2016-22 | 2017-07-14 | outro | normativo | O Colegiado aprovou, por maioria, portaria sobre atribuições do cargo de Agente Executivo da CVM, com ajustes, fundada em parecer da PFE-CVM. Detalha as atribuições em sintonia com a Lei 11.890/2008. Fixou prazo de um ano para revisão, mediante consulta aos servidores. | cvm/colegiado/2017/col-20170714-d0650.md |
 | art. 8º, inciso II | decisao-colegiado | 19957.008302/2016-21 | 2017-06-06 | nao-provido | administracao-carteiras | O Colegiado indeferiu, por unanimidade, recurso de administrador de carteiras pessoa jurídica contra exigência de novo diretor de risco, compliance e PLD (art. 4º, VII, Instrução CVM 558/2015), acompanhando a SIN: o indicado não tinha experiência nem formação atinentes à função e não havia outro profissional qualificado na área de riscos. Solicitou à SIN dar publicidade aos critérios. | cvm/colegiado/2017/col-20170606-d0655.md |
-
-### art. 18
-
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18, inciso III | decisao-colegiado | 607/2019; 19957.010563/2018-72 | 2020-03-03 | conhecimento | processual | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SEP que não lavrou termo de acusação no caso de abuso de poder de controle e manipulação de mercado, por não atender ao art. 4º, §4º, da Instrução CVM 607/19. Acompanhou o voto do relator, que afastou a análise da suficiência de indícios nessa via. | cvm/colegiado/2020/col-20200303-d1666.md |
 
 ### Anexo I, art. 1º
 

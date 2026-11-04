@@ -24,7 +24,7 @@ Norma: fora do acervo.
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
-| art. 15 | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| art. 15 | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
 
 ## art. 39
 
@@ -173,7 +173,7 @@ Norma: fora do acervo.
 | art. 102 | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
 | art. 102, inciso III | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
 | art. 102, inciso IV | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
-| art. 102, § 2º | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e Mu Hak You por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
+| art. 102, § 2º | pas | 19957.011774/2007-41; RJ2019/1400 | 2019-12-17 | parcial | fundos-investimento | Responsabilidade de GWI Asset Mangement S.A. e [pessoa física] por infração aos artigos 65, inciso XIII, 65-A, inciso I, 86, inciso III, 87, inciso I, alínea c, e 95-B, § 1°, inciso I, todos da Instrução CVM n° 409/2004. Multas. Absolvições. | cvm/pas/2019/19957-011774-2007-41.md |
 | art. 102, § 4º, inciso II | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
 
 ## art. 104
