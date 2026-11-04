@@ -1,11 +1,11 @@
 name: vigia
 
-# Vigia do job diário (Fase 4, C11): sem rede para as fontes e sem LLM. Lê o heartbeat que o
-# job grava em vars.ULTIMA_VERIFICACAO, ULTIMO_STATUS e DIAS_SEM_OK (issue com 3 dias seguidos
-# fora de "ok") e o registro de versões dos plugins.
+# Vigia do job quinzenal (Fase 4, C11): sem rede para as fontes e sem LLM. Lê o heartbeat que o
+# job grava em vars.ULTIMA_VERIFICACAO (issue com mais de 16 dias), ULTIMO_STATUS e
+# EXECUCOES_SEM_OK (issue com 2 execuções seguidas fora de "ok") e o registro de versões dos plugins.
 on:
   schedule:
-    - cron: "30 13 * * *"  # 10h30 em São Paulo, depois do job das 07h
+    - cron: "30 13 * * *"  # todo dia, 10h30 em São Paulo; o job roda quarta sim, quarta não, às 13h
   workflow_dispatch:
 
 permissions:
@@ -25,5 +25,5 @@ jobs:
           GH_REPO: ${{ github.repository }}
           ULTIMA_VERIFICACAO: ${{ vars.ULTIMA_VERIFICACAO }}
           ULTIMO_STATUS: ${{ vars.ULTIMO_STATUS }}
-          DIAS_SEM_OK: ${{ vars.DIAS_SEM_OK }}
+          EXECUCOES_SEM_OK: ${{ vars.EXECUCOES_SEM_OK }}
         run: python3 scripts/vigia.py --abrir

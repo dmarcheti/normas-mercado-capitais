@@ -1,7 +1,13 @@
 #!/bin/sh
-# Wrapper do launchd para o job diário (Fase 4, C4). Não instala nada; ver launchd/LEIA.md.
+# Wrapper do launchd para o job quinzenal (Fase 4, C4). Não instala nada; ver launchd/LEIA.md.
+# O nome do arquivo é do desenho antigo (diário); o launchd ainda o dispara todo dia às 13h e no
+# login, mas só para conferir a agenda.
 # - PATH explícito (python3, git, gh, claude): o launchd não lê o perfil do shell.
-# - Log em ~/normas-auto/logs/AAAA-MM-DD.log (acrescenta; uma execução por dia, mais as manuais).
+# - Log em ~/normas-auto/logs/AAAA-MM-DD.log (acrescenta; as checagens diárias e as execuções).
+# - Agenda primeiro, antes de qualquer rede, fetch ou worktree: `job.py --checar-agenda` do clone
+#   (fontes/automacao.json, ~/normas-auto/estado.json). Fora da agenda (saída 10): uma linha no
+#   log e sai com 0, sem trava, sem heartbeat, sem gh. Agenda ilegível ou erro: sai com 1.
+#   `--forcar` roda já, ignorando a agenda; os argumentos seguem também para o job.py.
 # - Trava em ~/normas-auto/job.pid, tomada aqui antes de tocar o worktree (escrita com noclobber,
 #   que é O_EXCL): outra execução viva do job faz esta sair (código 3); trava de PID morto, ou de
 #   PID que não é o job, é retomada. O job.py herda a trava (--herdar) e grava o próprio PID, para
@@ -21,6 +27,14 @@ export PATH
 CLONE=$(cd "$(dirname "$0")/.." && pwd)
 LOG="$LOGS/$(date +%Y-%m-%d).log"
 exec >> "$LOG" 2>&1
+
+python3 "$CLONE/scripts/job.py" --checar-agenda --clone "$CLONE" "$@"
+rc=$?
+case "$rc" in
+  0) ;;
+  10) exit 0 ;;
+  *) echo "checagem da agenda falhou (rc $rc): sai com 1"; exit 1 ;;
+esac
 
 echo "=== $(date '+%Y-%m-%d %H:%M:%S') job_diario.sh (pid $$)"
 for c in python3 git gh claude caffeinate; do

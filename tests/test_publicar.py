@@ -133,37 +133,48 @@ class TestVigia(Base):
                                          git=self.git_falso()), [])
 
     def test_heartbeat_velho_ou_ausente(self):
-        t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-09", "2026-11-05T07:00:00-03:00", git=self.git_falso())]
-        self.assertEqual(t, ["vigia: heartbeat parado"])
+        hb = "2026-11-18T13:05:00-03:00"  # quarta prevista
+        t = [x[0] for x in vigia.problemas(self.raiz, "2026-12-04", hb, git=self.git_falso())]
+        self.assertEqual(t, [])  # 16 dias: 14 da agenda + 2 de folga
+        t = [x[0] for x in vigia.problemas(self.raiz, "2026-12-05", hb, git=self.git_falso())]
+        self.assertEqual(t, ["vigia: heartbeat parado"])  # 17 dias
         t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-09", "", git=self.git_falso())]
         self.assertEqual(t, ["vigia: heartbeat ausente"])
 
-    def test_job_fora_de_ok_por_3_dias_abre_issue(self):
+    def test_job_fora_de_ok_em_2_execucoes_abre_issue(self):
         hb = "2026-11-04T07:00:00-03:00"
-        p = lambda d, st="falha": vigia.problemas(self.raiz, "2026-11-05", hb, git=self.git_falso(),  # noqa: E731
-                                                  status=st, dias_sem_ok=d)
-        self.assertEqual(p("2"), [])
+        p = lambda n, st="falha": vigia.problemas(self.raiz, "2026-11-05", hb, git=self.git_falso(),  # noqa: E731
+                                                  status=st, execucoes_sem_ok=n)
+        self.assertEqual(p("1"), [])
         self.assertEqual(p("0", "ok"), [])
         self.assertEqual(p(""), [])
-        achados = p("3")
+        achados = p("2")
         self.assertEqual([x[0] for x in achados], ["vigia: job fora de ok"])
         self.assertIn("falha", achados[0][1])
-        self.assertEqual([x[0] for x in p("x")], ["vigia: DIAS_SEM_OK ilegível"])
+        self.assertIn("2 execuções seguidas", achados[0][1])
+        self.assertEqual([x[0] for x in p("x")], ["vigia: EXECUCOES_SEM_OK ilegível"])
 
-    def test_main_le_status_e_dias_do_ambiente(self):
-        env = {"ULTIMA_VERIFICACAO": "2026-11-04T07:00:00-03:00", "ULTIMO_STATUS": "sem token", "DIAS_SEM_OK": "4"}
+    def test_main_le_status_e_execucoes_do_ambiente(self):
+        env = {"ULTIMA_VERIFICACAO": "2026-11-04T07:00:00-03:00", "ULTIMO_STATUS": "sem token",
+               "EXECUCOES_SEM_OK": "4", "DIAS_SEM_OK": "9"}
         with mock.patch.dict(os.environ, env), mock.patch.object(vigia, "problemas", wraps=vigia.problemas) as pr, \
                 mock.patch.object(vigia.pub, "divergentes", return_value=[]):
             vigia.main(["--raiz", self.raiz, "--hoje", "2026-11-05"])
-        self.assertEqual(pr.call_args.kwargs, {"status": "sem token", "dias_sem_ok": "4"})
+        self.assertEqual(pr.call_args.kwargs, {"status": "sem token", "execucoes_sem_ok": "4"})
 
-    def test_conteudo_sem_versao_por_mais_de_8_dias(self):
+    def test_vigia_yml_le_execucoes_sem_ok(self):
+        with open(os.path.join(AQUI, "..", ".github", "workflows", "vigia.yml"), encoding="utf-8") as f:
+            yml = f.read()
+        self.assertIn("EXECUCOES_SEM_OK: ${{ vars.EXECUCOES_SEM_OK }}", yml)
+        self.assertNotIn("DIAS_SEM_OK", yml)
+
+    def test_conteudo_sem_versao_por_mais_de_16_dias(self):
         _gravar(self.p("plugins", "normas", "normas", "cvm", "b.md"), "novo\n")
         hb = "2026-11-20T07:00:00-03:00"
-        t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-20", hb, git=self.git_falso(primeiro="2026-11-15"))]
-        self.assertEqual(t, [])  # 5 dias
-        t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-20", hb, git=self.git_falso(primeiro="2026-11-10"))]
-        self.assertEqual(t, ["vigia: normas sem versão nova"])
+        t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-20", hb, git=self.git_falso(primeiro="2026-11-04"))]
+        self.assertEqual(t, [])  # 16 dias: o publicar é quinzenal, mais 2 de folga
+        t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-20", hb, git=self.git_falso(primeiro="2026-11-03"))]
+        self.assertEqual(t, ["vigia: normas sem versão nova"])  # 17 dias
 
     def test_falha_ao_abrir_issue_sai_com_mensagem(self):
         from unittest import mock

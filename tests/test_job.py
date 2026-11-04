@@ -1,8 +1,12 @@
 """Testes de scripts/job.py: git, gh, security, claude e os scripts são simulados (sem rede, sem
 macOS e sem processo real). O worktree é uma pasta temporária com `.git` falso."""
+import datetime
+import io
 import json
 import os
+import plistlib
 import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -13,8 +17,10 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 import job  # noqa: E402
 
-HOJE = "2026-11-04"  # quarta-feira: sem publicar
-SEGUNDA = "2026-11-09"
+HOJE = "2026-11-04"  # quarta-feira
+QUINTA = "2026-11-05"
+RAIZ = os.path.normpath(os.path.join(AQUI, ".."))
+AGENDA = {"ancora": "2026-11-18", "intervalo_dias": 14, "hora": 13}
 EXEC = "20261104T070000-123"
 SHA = "0123456789abcdef0123456789abcdef01234567"
 
@@ -154,7 +160,7 @@ class Base(unittest.TestCase):
         os.symlink(os.path.join(self.clone, "dados"), os.path.join(self.wt, "dados"))  # como o wrapper
         self.cfg({"sombra": True, "classes_automaticas": []})
         self.estado = os.path.join(self.tmp, "normas-auto", "estado.json")
-        self.gravar_estado({"ultima_semanal_ok": "2026-11-02"})  # semanal em dia: quarta é `diaria`
+        self.gravar_estado({})
 
     def gravar_estado(self, e):
         os.makedirs(os.path.dirname(self.estado), exist_ok=True)
@@ -172,12 +178,12 @@ class Base(unittest.TestCase):
         with open(os.path.join(self.wt, "fontes", "automacao.json"), "w") as f:
             json.dump(c, f)
 
-    def rodar(self, hoje=HOJE, **kw):
+    def rodar(self, hoje=HOJE, publicar=True, **kw):
         saida = os.path.join(self.wt, "dados", "auto", hoje)
         sim = Simulador(saida, wt=self.wt, clone=self.clone, **kw)
         j = job.Job(self.clone, self.wt, hoje, rodar=sim, ambiente={"PATH": "/bin"},
                     dormir=lambda s: None, agora=lambda: "2026-11-04T07:00:00-03:00", log=lambda m: None,
-                    estado=self.estado)
+                    estado=self.estado, publicar=publicar)
         rc = j.executar()
         return rc, sim, j
 
@@ -301,7 +307,7 @@ class TestJob(Base):
 
     def test_token_vai_so_no_ambiente(self):
         self.cfg({"sombra": False, "classes_automaticas": ["H"]})
-        rc, sim, _ = self.rodar(auto=[AUTO_H])
+        rc, sim, _ = self.rodar(auto=[AUTO_H], publicar=False)  # só o PR do dia
         for c, env in sim.chamadas:
             self.assertNotIn("SEGREDO-123", " ".join(c))
         push = [(c, e) for c, e in sim.chamadas if c[:2] == ["git", "-c"]]
@@ -311,7 +317,7 @@ class TestJob(Base):
         self.assertNotIn("--force", push[0][0])
 
     def test_sombra_nao_faz_merge(self):
-        rc, sim, _ = self.rodar(auto=[AUTO_H])
+        rc, sim, _ = self.rodar(auto=[AUTO_H], publicar=False)  # só o PR do dia
         self.assertEqual(rc, 0)
         self.assertEqual(len(sim.gh_cmds("pr", "create")), 1)
         self.assertEqual(sim.gh_cmds("pr", "merge"), [])
@@ -397,15 +403,16 @@ class TestJob(Base):
         arq = det[det.index("--excluir-ids") + 1]
         with open(arq) as f:
             self.assertEqual(json.load(f), ["bcb-res-9", "cvm-res-250", "pas-1"])
-        self.assertEqual(det[det.index("--frequencia") + 1], "diaria")
-
-    def test_segunda_usa_todas_e_publica(self):
-        _, sim, _ = self.rodar(hoje=SEGUNDA)
-        det = sim.cmds("python3", "scripts/detectar.py")[0]
         self.assertEqual(det[det.index("--frequencia") + 1], "todas")
-        self.assertTrue(sim.cmds("python3", "scripts/publicar.py"))
 
-    # -- revisão final: heartbeat, dado pessoal, deteccao.json, semanal
+    def test_toda_execucao_e_completa_e_publica(self):
+        for dia in (HOJE, QUINTA, "2026-11-09"):
+            _, sim, _ = self.rodar(hoje=dia)
+            det = sim.cmds("python3", "scripts/detectar.py")[0]
+            self.assertEqual(det[det.index("--frequencia") + 1], "todas")
+            self.assertTrue(sim.cmds("python3", "scripts/publicar.py"))
+
+    # -- revisão final: heartbeat, dado pessoal, deteccao.json, execução feita
     def titulos(self, sim):
         return [c[c.index("--title") + 1] for c in sim.gh_cmds("issue", "create")]
 
@@ -414,7 +421,9 @@ class TestJob(Base):
             rc, sim, _ = self.rodar(auto=[AUTO_H])
         self.assertEqual(rc, 1)
         self.assertEqual(sim.variavel("ULTIMO_STATUS"), "falha")
-        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "1")
+        self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "1")
+        self.assertIsNone(sim.variavel("DIAS_SEM_OK"))
+        self.assertNotIn("ultima_execucao_ok", self.ler_estado())
         self.assertEqual(self.titulos(sim), ["job-falhou"])
         self.assertEqual(sim.cmds("git", "-c"), [])
 
@@ -433,15 +442,21 @@ class TestJob(Base):
         self.assertEqual(self.titulos(sim), ["job-falhou"])
         self.assertTrue(all("GH_TOKEN" not in e for c, e in sim.chamadas if c[0] == "gh"))
 
-    def test_dias_sem_ok_conta_dias_seguidos(self):
-        self.gravar_estado({"ultima_semanal_ok": "2026-11-02", "dias_sem_ok": 2, "ultimo_dia": "2026-11-03"})
+    def test_execucoes_sem_ok_conta_execucoes_seguidas(self):
+        self.gravar_estado({"execucoes_sem_ok": 1, "ultima_execucao_ok": "2026-10-21"})
         _, sim, _ = self.rodar(atualizar_rc=2)
-        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "3")
-        _, sim, _ = self.rodar(atualizar_rc=2)  # segunda execução do mesmo dia
-        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "3")
-        _, sim, _ = self.rodar(auto=[AUTO_H])
-        self.assertEqual(sim.variavel("DIAS_SEM_OK"), "0")
-        self.assertEqual(self.ler_estado()["ultimo_status"], "ok")
+        self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "2")
+        _, sim, _ = self.rodar(hoje=QUINTA, atualizar_rc=2)
+        self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "3")
+        self.assertEqual(self.ler_estado()["ultima_execucao_ok"], "2026-10-21")  # falha não conta
+        det = {"fontes": {"cvm": {"status": "falha"}}, "itens": []}
+        _, sim, _ = self.rodar(hoje=QUINTA, det=det)  # concluída, mas fora de "ok": conta para a vigia
+        self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "4")
+        self.assertEqual(self.ler_estado()["ultima_execucao_ok"], QUINTA)
+        _, sim, _ = self.rodar(hoje="2026-11-06", auto=[AUTO_H])
+        self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "0")
+        e = self.ler_estado()
+        self.assertEqual((e["ultimo_status"], e["ultima_execucao_ok"]), ("ok", "2026-11-06"))
 
     def test_bloqueio_da_varredura_nao_faz_push_e_abre_issue_so_com_id_e_tipo(self):
         crit = {"execucao_id": EXEC, "itens": [], "conjunto": {
@@ -486,28 +501,50 @@ class TestJob(Base):
         self.assertFalse(os.path.exists(os.path.join(saida, "deteccao.json")))
         self.assertEqual(sim.cmds("python3", "scripts/atualizar.py"), [])
 
-    def test_semanal_vencida_roda_todas_e_publica_fora_da_segunda(self):
-        self.gravar_estado({"ultima_semanal_ok": "2026-10-27"})  # 8 dias antes da quarta
+    def test_execucao_ok_grava_ultima_execucao_ok(self):
         _, sim, _ = self.rodar()
-        det = sim.cmds("python3", "scripts/detectar.py")[0]
-        self.assertEqual(det[det.index("--frequencia") + 1], "todas")
-        self.assertTrue(sim.cmds("python3", "scripts/publicar.py"))
-        self.assertEqual(self.ler_estado()["ultima_semanal_ok"], HOJE)
+        self.assertEqual(sim.variavel("ULTIMO_STATUS"), "ok")
+        self.assertEqual(self.ler_estado()["ultima_execucao_ok"], HOJE)
 
-    def test_semanal_com_7_dias_ainda_e_diaria(self):
-        self.gravar_estado({"ultima_semanal_ok": "2026-10-28"})
-        _, sim, _ = self.rodar()
-        det = sim.cmds("python3", "scripts/detectar.py")[0]
-        self.assertEqual(det[det.index("--frequencia") + 1], "diaria")
-        self.assertEqual(sim.cmds("python3", "scripts/publicar.py"), [])
+    def test_execucao_concluida_fora_de_ok_conta_como_feita(self):
+        det_fonte = {"fontes": {"cvm": {"status": "ok"}, "b3": {"status": "falha"}}, "itens": []}
+        crit_bloq = {"execucao_id": EXEC, "itens": [], "conjunto": {
+            "pr_automatico_antes_do_ci": False, "bloqueio_push": [{"id": "pas-2", "problema": "varredura"}]}}
+        casos = {"falha de fonte": dict(det=det_fonte), "sem token": dict(token=None),
+                 "push bloqueado": dict(auto=[AUTO_H], crit=crit_bloq)}
+        for status, kw in casos.items():
+            os.remove(self.estado)
+            rc, sim, _ = self.rodar(**kw)
+            self.assertEqual((rc, sim.variavel("ULTIMO_STATUS")), (0, status))
+            e = self.ler_estado()
+            self.assertEqual(e["ultima_execucao_ok"], HOJE, status)
+            self.assertEqual(e["execucoes_sem_ok"], 1, status)
+            self.assertEqual(sim.variavel("EXECUCOES_SEM_OK"), "1")
 
-    def test_sem_estado_roda_todas_e_fonte_em_falha_nao_conta_como_semanal(self):
-        os.remove(self.estado)
-        det = {"fontes": {"cvm": {"status": "ok"}, "b3": {"status": "falha"}}, "itens": []}
-        _, sim, _ = self.rodar(det=det)
-        cmd = sim.cmds("python3", "scripts/detectar.py")[0]
-        self.assertEqual(cmd[cmd.index("--frequencia") + 1], "todas")
-        self.assertNotIn("ultima_semanal_ok", self.ler_estado())
+    def test_llm_indisponivel_conta_como_feita(self):
+        det = {"fontes": {}, "itens": [{"id": "pas-1", "classe": "J"}]}
+        saida = os.path.join(self.wt, "dados", "auto", HOJE)
+        sim = Simulador(saida, det=det)
+        orig = sim.__call__
+
+        def rodar(cmd, **kw):
+            if cmd[0] == "claude":
+                return 1, "", "not logged in"
+            return orig(cmd, **kw)
+        j = job.Job(self.clone, self.wt, HOJE, rodar=rodar, ambiente={}, dormir=lambda s: None,
+                    agora=lambda: "t", log=lambda m: None, estado=self.estado)
+        self.assertEqual(j.executar(), 0)
+        self.assertEqual(j.status, "LLM indisponível")
+        self.assertEqual(self.ler_estado()["ultima_execucao_ok"], HOJE)
+
+    def test_falha_nao_conta_como_feita(self):
+        rc, sim, _ = self.rodar(atualizar_rc=2)
+        self.assertEqual((rc, sim.variavel("ULTIMO_STATUS")), (1, "falha"))
+        self.assertNotIn("ultima_execucao_ok", self.ler_estado())
+        with mock.patch.object(job.Job, "commits_do_dia", side_effect=KeyError("x")):  # exceção
+            rc, _, _ = self.rodar(auto=[AUTO_H])
+        self.assertEqual(rc, 1)
+        self.assertNotIn("ultima_execucao_ok", self.ler_estado())
 
     def test_item_do_diogo_ganha_pr_proprio_com_rotulo(self):
         diogo = [{"id": "cvm-res-251", "chave": "cvm-res-251|C|cvm-res-175", "classe": "C",
@@ -619,7 +656,7 @@ class TestJob(Base):
         self.assertEqual(j.branch_do_dia(), "auto/%s-3" % HOJE)
 
     def test_clean_preserva_o_link_de_dados(self):
-        _, sim, _ = self.rodar(auto=[AUTO_H])
+        _, sim, _ = self.rodar(auto=[AUTO_H], publicar=False)  # o fetch antes do publicar é do job
         self.assertEqual(sim.cmds("git", "clean"), [["git", "clean", "-fd", "-e", "dados"]])
         dados = os.path.join(self.wt, "dados")
         self.assertTrue(os.path.islink(dados))
@@ -639,6 +676,156 @@ class TestJob(Base):
         os.remove(os.path.join(self.wt, ".git"))
         rc, _, _ = self.rodar()
         self.assertEqual(rc, 1)
+
+
+# ---------------------------------------------------------------- agenda quinzenal
+
+def sp(texto):
+    """datetime no fuso de São Paulo (-03:00, sem horário de verão)."""
+    return datetime.datetime.fromisoformat(texto + "-03:00")
+
+
+class TestAgenda(unittest.TestCase):
+    def roda(self, agora, estado=None, forcar=False):
+        return job.deve_rodar(sp(agora), estado or {}, AGENDA, forcar=forcar)[0]
+
+    def test_quarta_prevista_antes_das_13h_nao_roda(self):
+        roda, motivo = job.deve_rodar(sp("2026-11-18T12:59"), {}, AGENDA)
+        self.assertFalse(roda)
+        self.assertTrue(motivo.startswith("fora da agenda; próxima prevista 2026-11-18"), motivo)
+
+    def test_quarta_prevista_as_13h_roda(self):
+        self.assertTrue(self.roda("2026-11-18T13:00"))
+        self.assertTrue(self.roda("2026-12-02T13:00", {"ultima_execucao_ok": "2026-11-18"}))
+
+    def test_quarta_seguinte_nao_prevista_nao_roda(self):
+        roda, motivo = job.deve_rodar(sp("2026-11-25T13:00"), {"ultima_execucao_ok": "2026-11-18"}, AGENDA)
+        self.assertFalse(roda)
+        self.assertEqual(motivo, "fora da agenda; próxima prevista 2026-12-02")
+        self.assertFalse(self.roda("2026-11-18T15:00", {"ultima_execucao_ok": "2026-11-18"}))  # já feita
+
+    def test_quinta_depois_de_quarta_perdida_roda_a_qualquer_hora(self):
+        for hora in ("00:05", "08:30", "13:00", "23:59"):
+            self.assertTrue(self.roda("2026-11-19T%s" % hora), hora)
+        self.assertTrue(self.roda("2026-12-03T07:00", {"ultima_execucao_ok": "2026-11-18"}))
+
+    def test_duas_semanas_perdidas_roda_uma_vez_so(self):
+        estado = {"ultima_execucao_ok": "2026-11-18"}  # perdeu 2026-12-02 e 2026-12-16
+        self.assertTrue(self.roda("2026-12-17T09:00", estado))
+        estado = {"ultima_execucao_ok": "2026-12-17", "ultima_tentativa": "2026-12-17"}
+        self.assertFalse(self.roda("2026-12-17T13:00", estado))
+        self.assertFalse(self.roda("2026-12-18T13:00", estado))
+        self.assertFalse(self.roda("2026-12-30T12:00", estado))
+        self.assertTrue(self.roda("2026-12-30T13:00", estado))
+
+    def test_falha_na_quarta_tenta_de_novo_na_quinta(self):
+        estado = {"ultima_execucao_ok": "2026-11-18", "ultima_tentativa": "2026-12-02"}  # 12-02 falhou
+        self.assertFalse(self.roda("2026-12-02T18:00", estado))
+        self.assertTrue(self.roda("2026-12-03T08:00", estado))
+
+    def test_duas_tentativas_no_mesmo_dia_so_uma(self):
+        estado = {"ultima_execucao_ok": "2026-11-18", "ultima_tentativa": "2026-12-03"}
+        roda, motivo = job.deve_rodar(sp("2026-12-03T13:00"), estado, AGENDA)
+        self.assertFalse(roda)
+        self.assertTrue(motivo.startswith("fora da agenda; próxima prevista 2026-12-16"), motivo)
+        self.assertIn("2026-12-02 segue pendente", motivo)
+
+    def test_antes_da_ancora_nao_roda(self):
+        roda, motivo = job.deve_rodar(sp("2026-11-17T13:00"), {}, AGENDA)
+        self.assertFalse(roda)
+        self.assertEqual(motivo, "fora da agenda; próxima prevista 2026-11-18")
+        self.assertFalse(self.roda("2026-11-04T13:00", {"ultima_execucao_ok": "2026-11-04"}))
+
+    def test_forcar_roda(self):
+        self.assertTrue(self.roda("2026-11-04T09:00", forcar=True))
+        self.assertTrue(self.roda("2026-11-18T09:00", {"ultima_tentativa": "2026-11-18"}, forcar=True))
+        # R1 forçada com sucesso antes da âncora: a quarta 2026-11-18 roda normalmente
+        self.assertTrue(self.roda("2026-11-18T13:00", {"ultima_execucao_ok": "2026-11-04"}))
+
+    def test_agenda_ilegivel_levanta(self):
+        for ruim in (None, {}, dict(AGENDA, intervalo_dias=0), dict(AGENDA, hora="13"),
+                     dict(AGENDA, ancora="18/11/2026")):
+            with self.assertRaises(ValueError):
+                job.deve_rodar(sp("2026-11-18T13:00"), {}, ruim)
+
+    def test_agenda_versionada_e_quarta_as_13h(self):
+        with open(os.path.join(RAIZ, "fontes", "automacao.json"), encoding="utf-8") as f:
+            cfg = json.load(f)
+        self.assertEqual(cfg["agenda"], AGENDA)
+        self.assertEqual(datetime.date.fromisoformat(cfg["agenda"]["ancora"]).weekday(), 2)  # quarta
+        self.assertTrue(cfg["sombra"])
+
+
+class TestChecarAgenda(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.clone = os.path.join(self.tmp, "clone")
+        os.makedirs(os.path.join(self.clone, "fontes"))
+        self.estado = os.path.join(self.tmp, "normas-auto", "estado.json")
+        self.cfg({"sombra": True, "agenda": AGENDA})
+        self.linhas = []
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp)
+
+    def cfg(self, c):
+        with open(os.path.join(self.clone, "fontes", "automacao.json"), "w") as f:
+            json.dump(c, f)
+
+    def checar(self, agora, forcar=False):
+        return job.checar_agenda(self.clone, self.estado, agora=sp(agora), forcar=forcar,
+                                 saida=self.linhas.append)
+
+    def test_fora_da_agenda_uma_linha_sem_gravar_estado(self):
+        with mock.patch.object(job.subprocess, "run", side_effect=AssertionError("sem processo")):
+            rc = self.checar("2026-11-17T13:00")
+        self.assertEqual(rc, job.SAIDA_FORA_DA_AGENDA)
+        self.assertEqual(self.linhas, ["fora da agenda; próxima prevista 2026-11-18"])
+        self.assertFalse(os.path.exists(self.estado))
+
+    def test_roda_e_grava_a_tentativa_uma_vez_por_dia(self):
+        self.assertEqual(self.checar("2026-11-19T08:00"), 0)
+        with open(self.estado) as f:
+            self.assertEqual(json.load(f), {"ultima_tentativa": "2026-11-19"})
+        self.assertEqual(self.checar("2026-11-19T13:00"), job.SAIDA_FORA_DA_AGENDA)  # segundo disparo
+        self.assertEqual(self.checar("2026-11-20T13:00"), 0)  # a de 11-19 falhou: tenta de novo
+
+    def test_forcar_pela_main_roda_e_aceita_no_job(self):
+        saida = io.StringIO()
+        with mock.patch("sys.stdout", saida):
+            rc = job.main(["--checar-agenda", "--clone", self.clone, "--estado", self.estado, "--forcar"])
+        self.assertEqual(rc, 0)
+        self.assertIn("--forcar", saida.getvalue())
+
+    def test_agenda_ilegivel_sai_com_2(self):
+        self.cfg({"sombra": True})
+        self.assertEqual(self.checar("2026-11-18T13:00"), 2)
+        self.assertFalse(os.path.exists(self.estado))
+
+
+class TestLaunchd(unittest.TestCase):
+    PLIST = os.path.join(RAIZ, "launchd", "br.normas.auto.plist")
+
+    def test_plist_valido_as_13h_e_no_login(self):
+        plutil = shutil.which("plutil")  # sem macOS (o gate): só o parse do XML
+        if plutil:
+            r = subprocess.run([plutil, "-lint", self.PLIST], capture_output=True, text=True)
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        with open(self.PLIST, "rb") as f:
+            p = plistlib.load(f)
+        self.assertEqual(p["StartCalendarInterval"], {"Hour": 13, "Minute": 0})
+        self.assertIs(p["RunAtLoad"], True)
+        self.assertNotIn("KeepAlive", p)
+        self.assertEqual(p["StartCalendarInterval"]["Hour"], AGENDA["hora"])
+
+    def test_wrapper_checa_a_agenda_antes_da_rede(self):
+        with open(os.path.join(RAIZ, "scripts", "job_diario.sh"), encoding="utf-8") as f:
+            sh = f.read()
+        corpo = sh[sh.index("set -u"):]
+        i = corpo.index("--checar-agenda")
+        for depois in ("fetch", "worktree add", "tomar", "caffeinate -i python3"):
+            self.assertLess(i, corpo.index(depois), depois)
+        self.assertIn("10) exit 0", corpo)
 
 
 if __name__ == "__main__":

@@ -1,4 +1,5 @@
 {
   "sombra": true,
-  "classes_automaticas": []
+  "classes_automaticas": [],
+  "agenda": {"ancora": "2026-11-18", "intervalo_dias": 14, "hora": 13}
 }

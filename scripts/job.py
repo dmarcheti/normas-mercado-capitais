@@ -1,11 +1,19 @@
 #!/usr/bin/env python3
-"""Job diário da Fase 4 (Task 3b): detecta, aplica, abre PR e faz o merge pelo critério.
+"""Job quinzenal da Fase 4 (Task 3b): detecta, aplica, abre PR e faz o merge pelo critério.
 
 Uso (só pelo scripts/job_diario.sh, que prepara o worktree e roda o job.py DO WORKTREE):
   python3 ~/normas-auto/worktree/scripts/job.py --clone REPO --worktree ~/normas-auto/worktree
-      [--hoje AAAA-MM-DD] [--trava ~/normas-auto/job.pid] [--herdar PID] [--sem-publicar]
+      [--hoje AAAA-MM-DD] [--trava ~/normas-auto/job.pid] [--herdar PID] [--sem-publicar] [--forcar]
 O código que lê o token e faz o merge é sempre o do origin/main (o worktree), nunca o da cópia de
 desenvolvimento: fora do worktree, o job.py recusa rodar (saída 1).
+
+Agenda (`fontes/automacao.json`, chave `agenda`): quarta-feira sim, quarta não, às 13h de São Paulo;
+datas previstas = `ancora` + `intervalo_dias`·k. O launchd dispara o wrapper todo dia às 13h e no
+login; antes de qualquer rede, o wrapper chama `job.py --checar-agenda` (do clone), que decide por
+`deve_rodar` e sai com 0 (roda; grava `ultima_tentativa` no estado.json) ou 10 (fora da agenda: uma
+linha no log, sem heartbeat, sem gh). Execução perdida (Mac desligado, falha) roda no primeiro
+disparo depois, no máximo uma tentativa por dia. `--forcar` roda já, ignorando a agenda; o wrapper
+repassa os argumentos ao job, que o aceita.
 
 Uma execução:
   a. worktree já preparado pelo wrapper (fetch, origin/main, `dados` como link simbólico para o
@@ -13,9 +21,8 @@ Uma execução:
      dados` e conferência do link (`dados/` real no worktree: falha);
   b. ids em PR aberto (`gh pr list`: branch `auto/item-<id>` e o marcador do corpo) vão ao
      `--excluir-ids` do detector;
-  c. detectar.py (`todas` às segundas ou quando a última semanal com sucesso, em
-     ~/normas-auto/estado.json, tem mais de 7 dias; senão `diaria`), com `--execucao-id` conferido
-     no deteccao.json (o anterior é apagado antes), e atualizar.py, com `--sombra` enquanto
+  c. detectar.py (sempre `--frequencia todas`: toda execução é completa), com `--execucao-id`
+     conferido no deteccao.json (o anterior é apagado antes), e atualizar.py, com `--sombra` enquanto
      `fontes/automacao.json` disser {"sombra": true}; `--sem-llm` se o `claude` não responder;
   d. um commit por ato (identidade neutra do replay, data do DOU) e um para o resto
      (`Atualizacao automatica`, mensagem `auto: <o quê>`); o pre-commit roda, nunca --no-verify;
@@ -32,13 +39,17 @@ Uma execução:
      ci.yml com os jobs `testes` e `gitleaks` presentes e todos os jobs com `success` (até 30 min;
      esgotado: sem merge e issue). Merge `gh pr merge --rebase --match-head-commit <sha>`, sem
      force e sem --admin (o repo não tem proteção de branch);
-  h. heartbeat: variáveis ULTIMA_VERIFICACAO, ULTIMO_STATUS e DIAS_SEM_OK (dias seguidos fora de
-     "ok", contados em ~/normas-auto/estado.json) do repo, gravadas mesmo com falha;
+  h. heartbeat: variáveis ULTIMA_VERIFICACAO, ULTIMO_STATUS e EXECUCOES_SEM_OK (execuções
+     seguidas fora de "ok", contadas em ~/normas-auto/estado.json) do repo, gravadas mesmo com
+     falha; execução que chegou ao fim (qualquer status menos "falha": fonte quebrada, LLM
+     indisponível, push bloqueado e sem token já abrem issue) grava `ultima_execucao_ok`, a
+     execução feita para a agenda; só a falha faz o wrapper tentar de novo;
   i. fonte com falha: issue `fonte-mudou` (uma por fonte, sem duplicar); perímetro duvidoso:
      issue `perimetro`; execução com falha: issue `job-falhou` (uma aberta por vez).
-Na execução `todas`, depois do dia, roda scripts/publicar.py num branch `auto/publicar-AAAA-MM-DD`,
-com o mesmo critério (classe `publicar` em `classes_automaticas`).
-Saída 0 = execução concluída (mesmo com item para o Diogo); 1 = falha; 3 = outra execução ativa.
+Toda execução, depois do dia, roda scripts/publicar.py num branch `auto/publicar-AAAA-MM-DD`, com o
+mesmo critério (classe `publicar` em `classes_automaticas`).
+Saída 0 = execução concluída (mesmo com item para o Diogo); 1 = falha; 3 = outra execução ativa;
+com --checar-agenda: 0 = roda, 10 = fora da agenda, 2 = agenda ilegível.
 """
 import argparse
 import datetime
@@ -67,7 +78,8 @@ MARCADOR_RE = re.compile(r"<!-- normas-auto: (\{.*?\}) -->")
 ROTULOS = {"precisa-diogo": "d93f0b", "aguarda-consolidado": "fbca04", "fonte-mudou": "b60205",
            "perimetro": "5319e7", "sombra": "c5def5", "automatico": "0e8a16", "job-falhou": "b60205",
            "push-bloqueado": "b60205"}
-DIAS_SEMANAL = 7  # `todas` quando a última semanal com sucesso tem mais que isto
+SAIDA_FORA_DA_AGENDA = 10  # --checar-agenda: não roda (o wrapper sai com 0)
+FUSO = "America/Sao_Paulo"
 CI_ESPERA = 1800  # 30 min
 CI_INTERVALO = 30
 CI_WORKFLOW = ".github/workflows/ci.yml"
@@ -181,6 +193,116 @@ def ler_json(caminho, padrao=None):
         return json.load(f)
 
 
+def ler_estado(caminho):
+    """~/normas-auto/estado.json (fora do Git); ausente ou ilegível: {}."""
+    try:
+        e = ler_json(caminho, {})
+    except (OSError, ValueError):
+        e = {}
+    return e if isinstance(e, dict) else {}
+
+
+def gravar_estado(caminho, e):
+    os.makedirs(os.path.dirname(caminho) or ".", exist_ok=True)
+    tmp = caminho + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(e, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, caminho)
+
+
+# ---------------------------------------------------------------- agenda
+
+def _data(valor):
+    try:
+        return datetime.date.fromisoformat(valor or "")
+    except (TypeError, ValueError):
+        return None
+
+
+def ler_agenda(agenda):
+    """(âncora, intervalo em dias, hora) de `fontes/automacao.json`; ValueError se ilegível."""
+    if not isinstance(agenda, dict):
+        raise ValueError("chave `agenda` ausente ou não é objeto")
+    ancora = _data(agenda.get("ancora"))
+    passo, hora = agenda.get("intervalo_dias"), agenda.get("hora")
+    if ancora is None:
+        raise ValueError("agenda.ancora não é AAAA-MM-DD: %r" % agenda.get("ancora"))
+    if not isinstance(passo, int) or isinstance(passo, bool) or passo < 1:
+        raise ValueError("agenda.intervalo_dias inválido: %r" % passo)
+    if not isinstance(hora, int) or isinstance(hora, bool) or not 0 <= hora <= 23:
+        raise ValueError("agenda.hora inválida: %r" % hora)
+    return ancora, datetime.timedelta(days=passo), hora
+
+
+def prevista_ate(hoje, agenda):
+    """Última data prevista (âncora + intervalo·k) ≤ hoje; None antes da âncora."""
+    ancora, passo, _ = ler_agenda(agenda)
+    if hoje < ancora:
+        return None
+    return ancora + passo * ((hoje - ancora).days // passo.days)
+
+
+def deve_rodar(agora, estado, agenda, forcar=False):
+    """(roda?, motivo). Função pura: `agora` (datetime no fuso de São Paulo), `estado` (o
+    estado.json: `ultima_execucao_ok` e `ultima_tentativa`, AAAA-MM-DD) e `agenda`.
+    Roda se a última execução concluída (`ultima_execucao_ok`: chegou ao fim, qualquer status menos
+    "falha") é anterior à última data prevista ≤ hoje e: hoje é
+    depois dela (dia perdido: qualquer hora) ou é ela e já passou da hora. No máximo uma tentativa
+    por dia: falha não conta como feita e tenta de novo no próximo disparo de outro dia. Antes da
+    âncora: não roda. `forcar`: roda sempre."""
+    ancora, passo, hora = ler_agenda(agenda)
+    if forcar:
+        return True, "execução forçada por --forcar, fora da agenda"
+    hoje = agora.date()
+    prev = prevista_ate(hoje, agenda)
+    if prev is None:
+        return False, "fora da agenda; próxima prevista %s" % ancora.isoformat()
+    ult_ok = _data(estado.get("ultima_execucao_ok"))
+    if ult_ok is not None and ult_ok >= prev:
+        return False, "fora da agenda; próxima prevista %s" % (prev + passo).isoformat()
+    if hoje == prev and agora.hour < hora:
+        return False, "fora da agenda; próxima prevista %s (às %dh)" % (prev.isoformat(), hora)
+    if _data(estado.get("ultima_tentativa")) == hoje:
+        return False, ("fora da agenda; próxima prevista %s (a de %s segue pendente: já houve tentativa "
+                       "hoje, nova tentativa no próximo disparo de amanhã)"
+                       % ((prev + passo).isoformat(), prev.isoformat()))
+    if hoje == prev:
+        return True, "prevista hoje (%s)" % prev.isoformat()
+    return True, "execução prevista em %s não feita: recuperação" % prev.isoformat()
+
+
+def agora_sp():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.datetime.now(ZoneInfo(FUSO))
+    except Exception:  # noqa: BLE001 - sem a base de fusos: a hora local (o Mac fica em São Paulo)
+        return datetime.datetime.now()
+
+
+def checar_agenda(clone, estado_arq, agora=None, forcar=False, saida=None):
+    """Decisão do wrapper, antes de qualquer rede, fetch ou worktree: 0 = roda (grava
+    `ultima_tentativa`), SAIDA_FORA_DA_AGENDA = não roda (uma linha), 2 = agenda ilegível."""
+    agora = agora or agora_sp()
+    saida = saida or (lambda m: print("[%s] %s" % (agora.strftime("%H:%M:%S"), m), flush=True))
+    try:
+        agenda = (ler_json(os.path.join(clone, "fontes", "automacao.json"), {}) or {}).get("agenda")
+        roda, motivo = deve_rodar(agora, ler_estado(estado_arq), agenda, forcar)
+    except (OSError, ValueError, AttributeError) as e:
+        saida("agenda ilegível em fontes/automacao.json (%s): não roda" % e)
+        return 2
+    if not roda:
+        saida(motivo)
+        return SAIDA_FORA_DA_AGENDA
+    e = ler_estado(estado_arq)
+    e["ultima_tentativa"] = agora.date().isoformat()
+    try:
+        gravar_estado(estado_arq, e)
+    except OSError as x:
+        saida("estado.json sem a tentativa (%s)" % x)
+    saida("agenda: roda (%s)" % motivo)
+    return 0
+
+
 def ids_de_prs(prs):
     """Ids que estão em PR aberto: branch `auto/item-<id>` e o marcador do corpo."""
     ids = set()
@@ -245,9 +367,7 @@ class Job:
         self.log = log or (lambda m: print("[%s] %s" % (time.strftime("%H:%M:%S"), m), flush=True))
         self.publicar = publicar
         self.estado_arq = estado or os.path.join(BASE, "estado.json")  # fora do Git
-        self.semanal_ok = False
         self.execucao_det = None
-        self.freq = None
         self.status = STATUS_OK
         self.token = None
         self.rotulos_ok = set()
@@ -337,29 +457,10 @@ class Job:
         return cand
 
     def ler_estado(self):
-        try:
-            e = ler_json(self.estado_arq, {})
-        except (OSError, ValueError):
-            e = {}
-        return e if isinstance(e, dict) else {}
+        return ler_estado(self.estado_arq)
 
     def gravar_estado(self, e):
-        os.makedirs(os.path.dirname(self.estado_arq) or ".", exist_ok=True)
-        tmp = self.estado_arq + ".tmp"
-        with open(tmp, "w", encoding="utf-8") as f:
-            json.dump(e, f, ensure_ascii=False, indent=1)
-        os.replace(tmp, self.estado_arq)
-
-    def frequencia(self):
-        """`todas` às segundas ou com a última semanal com sucesso há mais de DIAS_SEMANAL dias."""
-        hoje = datetime.date.fromisoformat(self.hoje)
-        if hoje.weekday() == 0:
-            return "todas"
-        try:
-            ult = datetime.date.fromisoformat(self.ler_estado().get("ultima_semanal_ok") or "")
-        except (TypeError, ValueError):
-            return "todas"
-        return "todas" if (hoje - ult).days > DIAS_SEMANAL else "diaria"
+        gravar_estado(self.estado_arq, e)
 
     def config(self):
         return ler_json(os.path.join(self.wt, "fontes", "automacao.json"), {}) or {}
@@ -378,7 +479,7 @@ class Job:
         arq = os.path.join(self.saida, "excluir-ids.json")
         with open(arq, "w", encoding="utf-8") as f:
             json.dump(excluir, f, ensure_ascii=False)
-        self.freq = freq = self.frequencia()
+        freq = "todas"  # toda execução é completa (quinzenal)
         self.execucao_det = "%s-%d-%s" % (self.hoje, os.getpid(), os.urandom(4).hex())
         cam = os.path.join(self.saida, "deteccao.json")
         if os.path.exists(cam):
@@ -629,30 +730,29 @@ class Job:
 
     # -- h. heartbeat
     def heartbeat(self):
-        """Grava as variáveis mesmo com falha: o ULTIMO_STATUS e o DIAS_SEM_OK dizem se foi ok."""
+        """Grava as variáveis mesmo com falha: o ULTIMO_STATUS e o EXECUCOES_SEM_OK dizem se foi ok.
+        Execução que chegou ao fim grava `ultima_execucao_ok`, mesmo fora de "ok" (fonte quebrada,
+        LLM indisponível, push bloqueado e sem token já abrem issue). Só a falha (saída 1, exceção)
+        não conta como feita: a agenda tenta de novo no próximo disparo de outro dia. O
+        EXECUCOES_SEM_OK conta qualquer status fora de "ok", para a vigia."""
         e = self.ler_estado()
         try:
-            dias = int(e.get("dias_sem_ok") or 0)
+            n = int(e.get("execucoes_sem_ok") or 0)
         except (TypeError, ValueError):
-            dias = 0
-        if self.status == STATUS_OK:
-            dias = 0
-        elif e.get("ultimo_dia") == self.hoje:
-            dias = max(dias, 1)  # segunda execução do dia não conta outro dia
-        else:
-            dias += 1
-        e.update({"ultimo_dia": self.hoje, "ultimo_status": self.status, "dias_sem_ok": dias})
-        if self.semanal_ok:
-            e["ultima_semanal_ok"] = self.hoje
+            n = 0
+        n = 0 if self.status == STATUS_OK else n + 1
+        e.update({"ultimo_dia": self.hoje, "ultimo_status": self.status, "execucoes_sem_ok": n})
+        if self.status != STATUS_FALHA:
+            e["ultima_execucao_ok"] = self.hoje
         try:
             self.gravar_estado(e)
         except OSError as x:
             self.log("estado.json não gravado: %s" % x)
         self.gh("variable", "set", "ULTIMA_VERIFICACAO", "--body", self.agora())
         self.gh("variable", "set", "ULTIMO_STATUS", "--body", self.status)
-        self.gh("variable", "set", "DIAS_SEM_OK", "--body", str(dias))
+        self.gh("variable", "set", "EXECUCOES_SEM_OK", "--body", str(n))
 
-    # -- publicar (execução `todas`)
+    # -- publicar (toda execução)
     def rodar_publicar(self, cfg):
         branch = "auto/publicar-%s" % self.hoje
         self.git_ok("checkout", "--force", "-B", branch, "origin/main")
@@ -668,7 +768,7 @@ class Job:
         sha = self.head()
         self.push(branch)
         url = self.criar_pr(branch, "auto: versões dos plugins (%s)" % self.hoje,
-                            "Versão semanal dos plugins (C10).\n\n```\n%s\n```" % out.strip()[-2000:],
+                            "Versão quinzenal dos plugins (C10).\n\n```\n%s\n```" % out.strip()[-2000:],
                             ["sombra"] if cfg.get("sombra", True) else [])
         ok = (not cfg.get("sombra", True) and "publicar" in (cfg.get("classes_automaticas") or []))
         if ok and self.esperar_ci(sha, branch)[0]:
@@ -717,12 +817,9 @@ class Job:
             por_id = {i["id"]: i for i in det.get("itens", [])}
             for it in diogo:
                 self.pr_do_item(it, por_id.get(it["id"]))
-            if self.freq == "todas":
-                if self.publicar:
-                    self.git_ok("fetch", "origin")
-                    self.rodar_publicar(cfg)
-                # semanal com sucesso: todas as fontes ok e publicar sem falha
-                self.semanal_ok = all((e or {}).get("status") == "ok" for e in (det.get("fontes") or {}).values())
+            if self.publicar:
+                self.git_ok("fetch", "origin")
+                self.rodar_publicar(cfg)
             return 0
         except Falha as e:
             self.log("falha: %s" % e)
@@ -749,7 +846,14 @@ def main(argv=None):
     ap.add_argument("--trava", default=os.path.join(BASE, "job.pid"))
     ap.add_argument("--herdar", type=int, help="PID do wrapper que tomou a trava (pai deste processo)")
     ap.add_argument("--sem-publicar", action="store_true")
+    ap.add_argument("--forcar", action="store_true",
+                    help="roda já, ignorando a agenda (vale na checagem do wrapper; o job o aceita)")
+    ap.add_argument("--checar-agenda", action="store_true",
+                    help="só a decisão da agenda, sem rede: 0 roda, 10 fora da agenda, 2 agenda ilegível")
+    ap.add_argument("--estado", default=os.path.join(BASE, "estado.json"))
     a = ap.parse_args(argv)
+    if a.checar_agenda:  # antes da trava e do worktree: o wrapper chama do clone, antes do fetch
+        return checar_agenda(a.clone, a.estado, forcar=a.forcar)
     trava = Trava(a.trava, herdar=a.herdar)
     if not trava.tomar():
         print("job: outra execução ativa (trava %s)" % a.trava)
@@ -760,7 +864,7 @@ def main(argv=None):
             print("job: rode o job.py do worktree (%s) com --clone do clone principal, pelo "
                   "job_diario.sh; este é %s" % (wt, aqui))
             return 1
-        return Job(a.clone, a.worktree, a.hoje, publicar=not a.sem_publicar).executar()
+        return Job(a.clone, a.worktree, a.hoje, publicar=not a.sem_publicar, estado=a.estado).executar()
     finally:
         trava.soltar()
 
