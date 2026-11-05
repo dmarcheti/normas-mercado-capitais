@@ -51,6 +51,20 @@
    "formato": "2013"
   },
   {
+   "titulo": "Código Negociação de Instrumentos Financeiros (vigente a partir de 01.11.2024)",
+   "url": "https://www.anbima.com.br/data/files/3F/F0/93/CA/36672910EE8F1729EA2BA2A8/4.%20Codigo_Negociacao_Para_Publicacao_08_10_2024.pdf",
+   "arquivo": "4. Codigo_Negociacao_Para_Publicacao_08_10_2024.pdf",
+   "situacao": "vigente",
+   "vigente_desde": "2024-11-01",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
+   ],
+   "tipo": "codigo",
+   "formato": "pdf",
+   "bytes": 731832,
+   "last_modified": "Thu, 10 Oct 2024 12:24:56 GMT"
+  },
+  {
    "titulo": "Código Negociação de Instrumentos Financeiros (vigente de 01.07.2021 até 31.10.2024)",
    "url": "https://www.anbima.com.br/data/files/58/15/F3/65/FF580810C15C26086B2BA2A8/Codigo_Negociacao_01.07.21.pdf",
    "arquivo": "Codigo_Negociacao_01.07.21.pdf",
