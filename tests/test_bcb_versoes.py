@@ -182,6 +182,22 @@ class TestIntegracao(unittest.TestCase):
         self.assertEqual(list(item["fontes"]["consolidado"]), ["htm"])
         self.assertEqual(item["versao_bcb"]["decisao"], "html")
 
+    def test_sem_versao_a_conferir_registra_decisao_html(self):
+        item = self._preparar(None)
+        self.assertEqual(item["conversor"], "html_bcb")
+        self.assertEqual(item["versao_bcb"]["decisao"], "html")
+        self.assertIn("sem versão compilada", item["versao_bcb"]["motivo"])
+
+    def test_api_sem_pdf_registra_decisao_html(self):
+        with tempfile.TemporaryDirectory() as d:
+            item = dict(self.ITEM, cache_api=os.path.join(d, "api.json"))
+            with open(item["cache_api"], "w", encoding="utf-8") as f:
+                json.dump({"conteudo": [{"Id": 51395, "Documentos": None, "Texto": "<p>x</p>"}]}, f)
+            tv.preparar_bcb(item, versoes=lambda i, c, docs: None)
+        self.assertEqual(item["versao_bcb"]["decisao"], "html")
+        self.assertIn("não lista PDF", item["versao_bcb"]["motivo"])
+        self.assertNotIn("aviso", item["versao_bcb"])
+
     def test_html_atrasado_passa_para_o_pdf_l(self):
         url = "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50797/Res_4734_v6_L.pdf"
         item = self._preparar({"decisao": "pdf", "arquivo": "Res_4734_v6_L.pdf", "versao": 6, "sufixo": "L",

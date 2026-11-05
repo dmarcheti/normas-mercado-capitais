@@ -405,6 +405,10 @@ def preparar_bcb(item, versoes=None):
         dec = (versoes or versao_bcb)(item, c, documentos_bcb(docs))
         if dec:
             item["versao_bcb"] = {k: v for k, v in dec.items() if k != "path"}
+        else:  # sem versão a conferir: a decisão fica explícita (o atualizar.py exige o campo na classe H)
+            item["versao_bcb"] = {"decisao": "html", "motivo": (
+                "sem versão compilada em PDF a conferir" if documentos_bcb(docs) else
+                "a API do BCB não lista PDF da norma; o HTML é a única fonte")}
         if dec and dec["decisao"] == "pdf":
             del item["conversor"]
             item["fontes"] = {"consolidado": {"pdf": dec["url"]}}
