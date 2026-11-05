@@ -702,7 +702,6 @@ class Fase4FraseTestemunhasTest(unittest.TestCase):
             "Nos termos do art. 447 do CPC, podem depor como testemunhas todas as pessoas, "
             "exceto as incapazes, impedidas ou suspeitas.",
             "o documento foi assinado por duas testemunhas, com firma reconhecida.",
-            "a oitiva da testemunha Fulano Exemplo de Tal, arrolada pela defesa.",
         ]
         for t in casos:
             self.assertEqual(pii.limpar(t), t)
@@ -715,3 +714,248 @@ class Fase4FraseTestemunhasTest(unittest.TestCase):
         self.assertEqual(r.count("Fulano Exemplo"), 2)
         self.assertIn("Beltrana Exemplo", r)
         self.assertNotIn("Sicran", r)
+
+
+class Fase5TestemunhaNoTextoCorridoTest(unittest.TestCase):
+    """T2 da Fase 5 (D2): sai o nome de quem aparece só como testemunha ou informante no texto
+    corrido; fica o papel. Nomes fictícios; os padrões vêm do levantamento do acervo."""
+
+    def _confere(self, casos):
+        for t, esperado in casos.items():
+            self.assertEqual(pii.limpar(t), esperado, t)
+
+    def test_gatilho_seguido_do_nome(self):
+        self._confere({
+            "a oitiva da testemunha Fulano Exemplo de Tal, arrolada pela defesa.":
+                "a oitiva da testemunha %s, arrolada pela defesa." % M,
+            "o depoimento da testemunha Fulano Exemplo, operador da corretora Alfa, no sentido de":
+                "o depoimento da testemunha %s, operador da corretora Alfa, no sentido de" % M,
+            "Também a testemunha Fulano Exemplo solicitou e obteve a transferência.":
+                "Também a testemunha %s solicitou e obteve a transferência." % M,
+            "a prova oral trazida por Fulano Exemplo Silva, testemunha dos Reclamantes, de que":
+                "a prova oral trazida por %s, testemunha dos Reclamantes, de que" % M,
+            "o pedido de oitiva da testemunha Sr. Fulano Exemplo, arquiteto responsável":
+                "o pedido de oitiva da testemunha Sr. %s, arquiteto responsável" % M,
+            "o informante Fulano Exemplo afirmou que não sabia.":
+                "o informante %s afirmou que não sabia." % M,
+            "uma única testemunha, Fulano Exemplo de Tal, de modo que":
+                "uma única testemunha, %s, de modo que" % M,
+            "a testemunha por ele arrolada, Fulano Exemplo, designando o dia":
+                "a testemunha por ele arrolada, %s, designando o dia" % M,
+        })
+
+    def test_nome_com_caixa_alta(self):
+        self._confere({
+            "a testemunha FULANO EXEMPLO DE TAL respondeu que não.":
+                "a testemunha %s respondeu que não." % M,
+        })
+
+    def test_na_qualidade_de_testemunha(self):
+        self._confere({
+            "o indeferimento do pedido de oitiva de Fulano Exemplo, na qualidade de testemunha;":
+                "o indeferimento do pedido de oitiva de %s, na qualidade de testemunha;" % M,
+            "documentos encaminhados por Fulano Exemplo, na qualidade de testemunha, e anexados":
+                "documentos encaminhados por %s, na qualidade de testemunha, e anexados" % M,
+            "e (ii) oitiva de Fulano Exemplo Silva, este na qualidade de testemunha. Vale":
+                "e (ii) oitiva de %s, este na qualidade de testemunha. Vale" % M,
+        })
+
+    def test_lista_corta_cada_nome(self):
+        self._confere({
+            "a oitiva das testemunhas Fulano Exemplo, Beltrano Exemplo dos Reis e Sicrano Exemplo.":
+                "a oitiva das testemunhas %s, %s e %s." % (M, M, M),
+            "requereu a oitiva, na condição de testemunhas, de Fulano Exemplo, Beltrano Exemplo "
+            "dos Reis e Sicrano Exemplo, pedido que denego":
+                "requereu a oitiva, na condição de testemunhas, de %s, %s e %s, pedido que denego"
+                % (M, M, M),
+            "decidi pela oitiva das testemunhas listadas (Fulano Exemplo, Beltrano Exemplo,\n"
+            "Sicrano Exemplo, Fulana Exemplo e Beltrana Exemplo), intimando":
+                "decidi pela oitiva das testemunhas listadas (%s, %s,\n%s, %s e %s), intimando"
+                % (M, M, M, M, M),
+        })
+
+    def test_lista_com_aposto_depois_do_nome(self):
+        self._confere({
+            "dos depoimentos das testemunhas Fulana Exemplo, ex-funcionária da Alfa, e "
+            "Beltrano Exemplo, operador da corretora Beta; k. tanto":
+                "dos depoimentos das testemunhas %s, ex-funcionária da Alfa, e %s, operador da "
+                "corretora Beta; k. tanto" % (M, M),
+        })
+
+    def test_titulo_depois_da_virgula_e_quebra_de_linha(self):
+        self._confere({
+            "Cita como testemunha de tal fato o seu agente\nautônomo, Sr. Fulano Exemplo, e acrescenta":
+                "Cita como testemunha de tal fato o seu agente\nautônomo, Sr. %s, e acrescenta" % M,
+        })
+
+    def test_nome_quebrado_por_linha_em_branco(self):
+        self._confere({
+            "a desistência da oitiva da sua testemunha, Fulano Exemplo\n\nde Tal. Na oportunidade":
+                "a desistência da oitiva da sua testemunha, %s. Na oportunidade" % M,
+        })
+
+    def test_paragrafo_novo_nao_entra_no_nome(self):
+        t = "a oitiva da testemunha Fulano Exemplo\n\nAssim, concluo que"
+        self.assertEqual(pii.limpar(t), "a oitiva da testemunha %s\n\nAssim, concluo que" % M)
+
+    def test_nome_cortado_entra_na_lista_de_outras_ocorrencias(self):
+        # o nome cortado vale também para o carimbo de firma no mesmo julgado
+        t = ("A testemunha Fulano Exemplo de Tal depôs.\n" + "Parágrafo sem dados de ninguém. " * 6
+             + "\nReconheço por semelhança a firma de FULANO EXEMPLO DE TAL.")
+        r = pii.limpar(t)
+        self.assertNotIn("FULANO", r)
+        self.assertNotIn("Fulano", r)
+
+    def test_negativos(self):
+        casos = [
+            "A prova testemunhal produzida não convenceu o Colegiado.",
+            "o indeferimento da prova testemunhal requerida por Fulano Exemplo.",
+            "o pedido de oitiva das testemunhas arroladas pela defesa foi indeferido.",
+            "Foram ouvidas as testemunhas arroladas pela defesa, que confirmaram os fatos.",
+            "a testemunha da Acusação afirmou que não presenciou os fatos.",
+            "tendo a testemunha composto o Conselho de Administração, poderá atestar.",
+            "a testemunha Beta Participações S.A. juntou documentos.",
+            "o depoimento da testemunha Diretor Relator foi tomado em sessão.",
+            # nome de parte que depôs: sem o gatilho colado, fica
+            "O pedido de oitiva de outro acusado como testemunha. Fulano Exemplo interpôs recurso.",
+            "Fulano Exemplo, depoente nos autos, afirmou que as ordens partiam do cliente.",
+            "Fulano Exemplo e Beltrano Exemplo voltaram a subscrever, como testemunhas, o Aditivo "
+            "Contratual relativo a Sicrano Exemplo.",
+            "Como testemunhas, assinaram os conselheiros de administração Fulano Exemplo "
+            "(indicado pelo grupo Alfa) e Beltrano Exemplo (grupo Beta).",
+            "o cliente Fulano Exemplo assinou como testemunha no contrato social da DTVM.",
+            # ato das partes (assinatura de contrato): "como testemunha Nome" fica
+            "os documentos eram assinados por Fulano Exemplo e tinham como testemunha Beltrano "
+            "Exemplo dos Santos, que é um dos proponentes.",
+        ]
+        for t in casos:
+            self.assertEqual(pii.limpar(t), t, t)
+
+    def test_mesmo_nome_em_outro_ponto_do_julgado_sai_tambem(self):
+        neutro = "Parágrafo sem dados de ninguém. " * 8
+        t = ("o indeferimento da oitiva de Fulano Exemplo, na qualidade de testemunha.\n" + neutro
+             + "\nPrejudicado o pedido de depoimento de Fulano Exemplo, o Relator decidiu.\n" + neutro
+             + "\nFULANO\nEXEMPLO não foi ouvido.\n" + neutro
+             + "\nFulano Exemplo Santos é outra pessoa, e Fulano Exemplo de Tal também.")
+        r = pii.limpar(t)
+        self.assertEqual(r.count(M), 3)
+        self.assertNotIn("depoimento de Fulano", r)
+        self.assertIn("Fulano Exemplo Santos é outra pessoa", r)
+        self.assertIn("Fulano Exemplo de Tal também", r)
+
+    def test_enumeracao_com_membro_cortado_leva_os_outros_nomes(self):
+        neutro = "Parágrafo sem dados de ninguém. " * 8
+        t = ("a oitiva da testemunha Ana Exemplo, arrolada pela defesa.\n" + neutro
+             + "\n212. Compareceram à CVM Ana Exemplo, Beto Exemplo, Caio\nExemplo e Davi Exemplo "
+             "Silva. Este último substituiu, a pedido da Defesa, Eva Exemplo (fls. 2).\n")
+        r = pii.limpar(t)
+        self.assertIn("Compareceram à CVM %s, %s, %s e %s. Este último" % (M, M, M, M), r)
+        self.assertIn("a pedido da Defesa, Eva Exemplo (fls. 2)", r)  # fora da enumeração: fica
+
+    def test_enumeracao_com_marcador_no_meio_e_quebra_de_linha(self):
+        t = ("a testemunha Ana Exemplo foi ouvida.\n"
+             "Foram ouvidas Beto Exemplo,\nAna Exemplo e Caio Exemplo, que confirmaram.")
+        r = pii.limpar(t)
+        self.assertIn("Foram ouvidas %s,\n%s e %s, que confirmaram." % (M, M, M), r)
+
+    def test_oitivas_no_plural_com_lista_de_nomes(self):
+        self._confere({
+            "- Oitivas de Ana Exemplo e Davi Exemplo Silva, para demonstrar a adequação do projeto":
+                "- Oitivas de %s e %s, para demonstrar a adequação do projeto" % (M, M),
+            "não seriam úteis as oitivas de Ana Exemplo, Beto Exemplo e Caio Exemplo, já que":
+                "não seriam úteis as oitivas de %s, %s e %s, já que" % (M, M, M),
+        })
+
+    def test_enumeracao_e_oitiva_negativos(self):
+        casos = [
+            # singular: costuma ser a oitiva de um acusado
+            "- Oitiva de Ana Exemplo, para demonstrar a adequação do projeto.",
+            "o deferimento da oitiva de Ana Exemplo e de Beto Exemplo, acusados.",
+            # lista de acusados sem nenhuma testemunha cortada
+            "Participaram da operação os acusados Ana Exemplo, Beto Exemplo e Caio Exemplo.",
+            # plural sem lista de nomes
+            "Indeferidas as oitivas de Ana Exemplo, por desnecessárias.",
+        ]
+        for t in casos:
+            self.assertEqual(pii.limpar(t), t, t)
+        # verbo entre os membros: não é enumeração contígua; só a testemunha sai
+        self.assertEqual(pii.limpar("Ana Exemplo interpôs recurso e a testemunha Beto Exemplo depôs."),
+                         "Ana Exemplo interpôs recurso e a testemunha %s depôs." % M)
+
+    def test_pedido_de_oitiva_de_parte_e_da_testemunha(self):
+        t = ("deferi o pedido de oitiva de Ana Exemplo e da testemunha por ele arrolada, "
+             "Beto Exemplo, designando o dia 14.9.2016")
+        self.assertEqual(pii.limpar(t),
+                         "deferi o pedido de oitiva de Ana Exemplo e da testemunha por ele arrolada, "
+                         "%s, designando o dia 14.9.2016" % M)
+
+    def test_oitivas_de_co_acusados_ficam(self):
+        # o próprio julgado chama os nomes de acusados: ficam, em todas as menções da lista
+        t = ("Indeferidas as oitivas de Ana Exemplo e Beto Exemplo, haja vista que ambos são também "
+             "acusados no PAS. A defesa pediu as oitivas de Ana Exemplo e Beto Exemplo para provar o fato.")
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_oitivas_de_iniciais_ficam(self):
+        t = "A defesa pediu as oitivas de A. B. C., D. E. de F. e G. H. I. para provar o fato."
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_enumeracao_nao_leva_sigla_nem_grupo(self):
+        # só nome de pessoa entra na enumeração: nome de grupo fica
+        out = pii.limpar("a testemunha Beto Exemplo, Grupo ZZX, disse que sim.")
+        self.assertNotIn("Exemplo", out)
+        self.assertIn("Grupo ZZX", out)
+
+    def test_dirigente_ouvido_como_testemunha_fica_em_todas_as_ocorrencias(self):
+        t = ("A defesa arrolou a testemunha Beto Exemplo. Depois, Beto Exemplo, CEO da Alfa, "
+             "confirmou os fatos. Diretora Financeira, Sra. Dora Exemplo, a testemunha Dora Exemplo "
+             "também depôs. O ex-presidente da Beta, Sr. Caio Exemplo, e a testemunha Caio Exemplo "
+             "concordaram. A testemunha Eva Exemplo, ex-gerente de investimentos, falou. "
+             "A testemunha Fábio Exemplo, diretor da Gama, falou.")
+        self.assertEqual(pii.limpar(t), t)
+
+    def test_dirigente_em_lista_mista_so_o_empregado_sai(self):
+        t = ("Oitivas de Ana Exemplo e Beto Exemplo, geólogos responsáveis pela avaliação, "
+             "e Caio Exemplo, CEO da Alfa, para esclarecer os fatos.")
+        out = pii.limpar(t)
+        self.assertNotIn("Ana Exemplo", out)
+        self.assertNotIn("Beto Exemplo", out)
+        self.assertIn("Caio Exemplo, CEO da Alfa", out)
+
+    def test_nao_dirigente_continua_saindo(self):
+        for t in ("a testemunha Ana Exemplo, operador da corretora Alfa, disse que sim.",
+                  "a testemunha Ana Exemplo, ex-funcionária da Alfa, disse que sim.",
+                  "a testemunha Ana Exemplo, geólogo responsável pelo laudo, disse que sim.",
+                  "o perito da Alfa informou que a testemunha Ana Exemplo disse que sim."):
+            self.assertNotIn("Exemplo", pii.limpar(t), t)
+
+    def test_nome_abreviado_sem_o_ultimo_sobrenome(self):
+        t = ("a testemunha Carla Beatriz Exemplo de Tal depôs. Ana Exemplo falou antes. "
+             "Depois, Carla Beatriz Exemplo foi citada no pedido.")
+        out = pii.limpar(t)
+        self.assertNotIn("Carla", out)
+        self.assertIn("Ana Exemplo", out)
+
+    def test_qualidade_de_testemunha_depois_de_parentese(self):
+        t = ("considerou necessária a oitiva pessoal do Sr. Ana Exemplo (realizada em 25.04.2013, "
+             "fls. 4.321/4.323), na qualidade de testemunha, tendo em vista as defesas. "
+             "Após o depoimento do Sr. Ana Exemplo, a parte peticionou.")
+        out = pii.limpar(t)
+        self.assertNotIn("Exemplo", out)
+        self.assertIn("(realizada em 25.04.2013, fls. 4.321/4.323)", out)
+
+    def test_nome_com_um_sobrenome_a_mais(self):
+        t = ("a testemunha Ana Maria Exemplo depôs. Depois, Ana Maria Exemplo Lima confirmou. "
+             "Ana Exemplo Lima é outra pessoa.")
+        out = pii.limpar(t)
+        self.assertNotIn("Lima confirmou", out)
+        self.assertNotIn("Maria", out)
+        self.assertIn("Ana Exemplo Lima é outra pessoa", out)
+
+    def test_idempotencia_relativa(self):
+        # rodar a regra sobre o texto já limpo não corta mais nada
+        t = "a testemunha %s, ex-funcionária, e a testemunha %s depuseram." % (M, M)
+        self.assertEqual(pii._testemunhas_corrido(t), [])
+        self.assertEqual(pii.limpar(t), t)
+        t2 = pii.limpar("a oitiva da testemunha Fulano Exemplo de Tal, arrolada pela defesa.")
+        self.assertEqual(pii._testemunhas_corrido(t2), [])
+        self.assertEqual(pii.limpar(t2), t2)

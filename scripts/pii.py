@@ -12,6 +12,7 @@ residencial, e-mail, telefone, data de nascimento, dados bancários, a qualifica
   (o que já foi cortado não aparece, porque o marcador não tem dígitos).
 """
 import re
+import unicodedata
 
 MARCADOR = "[dado pessoal retirado]"
 
@@ -292,6 +293,253 @@ def _testemunhas_frase(texto):
     return spans
 
 
+# Testemunha ou informante nomeado no texto corrido de um julgado ("a oitiva da testemunha Fulano
+# de Tal", "as testemunhas A B e C D", "testemunha de defesa A B"): sai só o nome, fica o papel
+# ("a testemunha [dado pessoal retirado]"). Decisão D2 da Fase 5: a testemunha não é sujeito da
+# decisão. O gatilho é a palavra testemunha ou informante; "depoente" e "declarante" não entram,
+# porque nos julgados o depoente ou declarante é, muitas vezes, parte (acusado, recorrente).
+# Ficam fora, de propósito, o nome ANTES do gatilho ("A e B voltaram a subscrever, como
+# testemunhas, o Aditivo": partes e conselheiros), a vírgula depois de "como testemunhas"
+# ("Como testemunhas, A e B assinaram") e qualquer nome sem o gatilho colado.
+_TM_SP = r"(?:[ \t]+|[ \t]*\n[ \t]*)"
+_TM_PAL = r"(?:[A-ZÀ-Ý][a-zà-ÿ'’\-]+|[A-ZÀ-Ý]{2,}(?:['’\-][A-ZÀ-Ý]+)*|[A-ZÀ-Ý]\.)"
+_TM_CONN = r"(?:d[aeo]s?|del|di|van|von)"
+_TM_NOME = _TM_PAL + r"(?:" + _TM_SP + r"(?:" + _TM_CONN + _TM_SP + r")?" + _TM_PAL + r")+"
+_TM_TITULO = r"(?:(?:Srs?|Sras?|Drs?|Dras?)\.?" + _TM_SP + r")?"
+_TM_FILLER = (r"(?:" + _TM_SP + r"(?:d[aeo]s?" + _TM_SP + r"(?:defesa|acusa[çc][ãa]o)|defesa|acusa[çc][ãa]o|"
+              r"arrolad[ao]s?|listad[ao]s?|ouvid[ao]s?|[úu]nic[ao]|"
+              r"por" + _TM_SP + r"(?:ele|ela|eles|elas)" + _TM_SP + r"arrolad[ao]s?))*")
+_TM_A = re.compile(r"\b(?P<g>[Tt]estemunhas?|[Ii]nformantes?)\b" + _TM_FILLER +
+                   r"(?P<sep>[ \t]*[,:][ \t]*|" + _TM_SP + r"|[ \t]*\([ \t]*)" +
+                   _TM_TITULO + r"(?P<nome>" + _TM_NOME + r")")
+_TM_SP0 = r"[ \t]*(?:\n[ \t]*)?"  # espaço opcional, com uma quebra de linha simples (hard-wrap)
+_TM_ITEM = re.compile(r"(?:[ \t]*," + _TM_SP0 + r"(?:e" + _TM_SP + r")?|" + _TM_SP + r"e" + _TM_SP + r")"
+                      + _TM_TITULO + r"(?P<nome>" + _TM_NOME + r")")
+# nome seguido de aposto e do próximo nome: "A B, ex-funcionária da Alfa, e C D"
+_TM_APOSTO = re.compile(r"[ \t]*," + _TM_SP0 + r"[a-zà-ÿ](?:[^,.;()\n]|\n(?!\s*\n)){0,60}," + _TM_SP0 + r"e" + _TM_SP + _TM_TITULO +
+                        r"(?P<nome>" + _TM_NOME + r")")
+_TM_ANTES = re.compile(r"(?:\bcomo|\b(?:qualidade|condi[çc][ãa]o)\s+de)\s+$", re.I)
+_TM_ATO = r"(?i:oitiva|inquiri[çc][ãa]o|intima[çc][ãa]o|depoimento)s?"
+_TM_QUALID = r"(?i:na" + _TM_SP + r"(?:qualidade|condi[çc][ãa]o)" + _TM_SP + r"de|como)"
+# "a oitiva de A B, na qualidade de testemunha", "documentos enviados por A B, na qualidade de
+# testemunha": preposição + um nome + vírgula + o papel no singular (plural, sem preposição:
+# "A e B, como testemunhas" é o caso dos conselheiros que subscrevem, e fica)
+_TM_B = re.compile(r"\b(?i:d[eao]s?|por|pel[ao]s?)" + _TM_SP + _TM_TITULO + r"(?P<nome>" + _TM_NOME +
+                   r")(?=(?:[ \t]*\([^()\n]{0,60}\))?[ \t]*,[ \t]*(?i:est[ea])?[ \t]*" + _TM_QUALID + _TM_SP + r"(?i:testemunha)\b)")
+# "prova oral trazida por A B, testemunha dos Reclamantes"
+_TM_E = re.compile(r"\b(?i:d[eao]s?|por|pel[ao]s?)" + _TM_SP + _TM_TITULO + r"(?P<nome>" + _TM_NOME +
+                   r")(?=[ \t]*,[ \t]*(?i:testemunha)" + _TM_SP + r"(?i:d[aeo]s?)" + _TM_SP + r")")
+# "requereu a oitiva, na condição de testemunhas, de A B, C D e E F"
+_TM_C = re.compile(r"\b" + _TM_ATO + r"[^.;\n]{0,15}?,[ \t]*" + _TM_QUALID + _TM_SP +
+                   r"(?i:testemunhas?),[ \t]*(?i:d[eao]s?)" + _TM_SP + _TM_TITULO +
+                   r"(?P<nome>" + _TM_NOME + r")")
+# "como testemunha de tal fato o seu agente, Sr. A B": o título depois da vírgula marca o nome
+_TM_D = re.compile(r"\b[Tt]estemunhas?\b(?:[^.;()\n]|\n(?!\s*\n)){0,90}?,[ \t]*(?:Srs?|Sras?|Drs?|Dras?)\.[ \t]*"
+                   r"(?P<nome>" + _TM_NOME + r")")
+# "as oitivas de A B e C D, para demonstrar": plural e lista de nomes (no singular, "oitiva de A B"
+# costuma ser a de um acusado, e não entra)
+_TM_F = re.compile(r"\b[Oo]itivas" + _TM_SP + r"d[eao]s?" + _TM_SP + _TM_TITULO + r"(?P<nome>" + _TM_NOME + r")")
+# primeira palavra que não é nome de pessoa (cargo, órgão, peça, parte do processo)
+_TM_NAO_NOME = re.compile(
+    r"(?:diretor|diretora|diretores|diretoras|presidente|relator|relatora|conselheir[oa]s?|"
+    r"superintendente|superintend[êe]ncia|procurador|procuradora|procuradoria|acusa[çc][ãa]o|acusad[oa]s?|"
+    r"defesa|colegiado|comiss[ãa]o|comit[êe]|cvm|minist[ée]rio|banco|companhia|sociedade|fundo|"
+    r"autarquia|[áa]rea|ger[êe]ncia|tribunal|juiz|ju[íi]zo|termo|autos|processo|delibera[çc][ãa]o|"
+    r"instru[çc][ãa]o|resolu[çc][ãa]o|parecer|of[íi]cio|lei|c[óo]digo|justi[çc]a|pol[íi]cia|"
+    r"recorrentes?|requerentes?|compromitentes?|investigad[oa]s?|advogad[oa]s?|estado|uni[ãa]o|"
+    r"grupo|ceo|cfo|s\.a|ltda)$", re.I)
+_TM_EMPRESA = re.compile(r"\b(?:S\.\s?A|S/A|Ltda)\b")
+
+
+_TM_CONECTORES = {"de", "da", "do", "das", "dos", "del", "di", "van", "von"}
+
+
+def _tm_nome_ok(m):
+    """m: match com o grupo 'nome'. Olha 6 caracteres além do nome para pegar 'S.A.' cortado em 'S.'."""
+    nome = m.group("nome")
+    primeira = re.split(r"\s+", nome.strip())[0].rstrip(".")
+    if all(re.fullmatch(r"[A-ZÀ-Ý]\.", t) for t in re.split(r"\s+", nome.strip()) if t.lower() not in _TM_CONECTORES):
+        return False  # só iniciais ("A. F. G."): a fonte já abreviou, não há o que cortar
+    return (not _TM_NAO_NOME.match(primeira)
+            and not _TM_EMPRESA.search(nome + m.string[m.end("nome"):m.end("nome") + 6]))
+
+
+# O HTML/PDF às vezes quebra parágrafo no meio do nome ("Ana Maria" / linha em branco / "Souza de
+# Lima"). A continuação só conta se tiver um conector (de/da/do...), para não pegar o começo de um
+# parágrafo novo ("Assim, ...").
+_TM_CONTINUA = re.compile(r"[ \t]*\n[ \t]*\n[ \t]*(?:" + _TM_PAL + _TM_SP + r")?" + _TM_CONN + _TM_SP + _TM_PAL +
+                          r"(?![\wÀ-ÿ])")
+
+
+def _tm_estende(texto, spans):
+    out = []
+    for a, b in spans:
+        c = _TM_CONTINUA.match(texto, b)
+        out.append((a, c.end()) if c else (a, b))
+    return out
+
+
+def _tm_chave(nome):
+    """Nome sem acento, caixa e espaço extra, para comparar grafias do mesmo nome."""
+    sem = unicodedata.normalize("NFD", nome)
+    return " ".join("".join(c for c in sem if not unicodedata.combining(c)).lower().split())
+
+
+# Administrador ou dirigente de empresa ou entidade citado nessa função (CEO, presidente, diretor,
+# conselheiro, gerente, superintendente...) fica, mesmo ouvido como testemunha: como os servidores no
+# exercício da função, o nome é do cargo. Vale para o julgado inteiro: se qualquer ocorrência do nome
+# vem com o papel, nenhuma sai (nem pelo gatilho, nem pela repetição, nem pela lista). Funcionário,
+# operador, corretor, geólogo, arquiteto, perito e "ex-funcionária" não são dirigentes e continuam saindo.
+_TM_CARGO = (r"(?i:\b(?:ex[- ]?)?(?:ceo|cfo|presidentes?|diretor(?:es|a|as)?|conselheir[oa]s?|chairman|"
+             r"gerentes?|superintendentes?)\b)")
+_TM_QUAL = (r"(?:" + _TM_SP + r"(?:(?i:d[aeo]s?" + _TM_SP + r"[a-zà-ÿ]+)|(?i:d[aeo]s?|e|financeir[oa]|geral|"
+            r"presidente|administrativ[oa]|executiv[oa]|conselho|administra[çc][ãa]o|diretoria)|"
+            r"(?-i:[A-ZÀ-Ý][\wÀ-ÿ&.\-]*)|-[A-Za-zÀ-ÿ]+)|[ \t]*-[ \t]*[A-Za-zÀ-ÿ]+){0,6}")
+_TM_PAPEL_ANTES = re.compile(_TM_CARGO + _TM_QUAL + r"[ \t]*,?" + _TM_SP0 +
+                             r"(?:Sr[as]?\.?" + _TM_SP + r")?(?P<nome>" + _TM_NOME + r")")
+_TM_PAPEL_DEPOIS = re.compile(r"(?P<nome>" + _TM_NOME + r")[ \t]*," + _TM_SP0 +
+                              r"(?:(?i:o|a|ex|atual|ent[ãa]o|seu|sua)" + _TM_SP + r"){0,2}" + _TM_CARGO)
+
+
+def _tm_toks(nome):
+    return [t for t in _tm_chave(nome.replace("*", "")).split() if t not in _TM_CONECTORES]
+
+
+def _tm_mesmo_nome(a, b):
+    """Mesma pessoa: uma sequência de palavras (2 ou mais) é o começo ou o fim da outra."""
+    a, b = (a, b) if len(a) <= len(b) else (b, a)
+    return len(a) >= 2 and (b[:len(a)] == a or b[-len(a):] == a)
+
+
+def _executivos(texto):
+    """Nomes (listas de palavras sem acento nem caixa) que aparecem com papel de dirigente."""
+    out = []
+    for rx in (_TM_PAPEL_ANTES, _TM_PAPEL_DEPOIS):
+        out += [_tm_toks(m.group("nome")) for m in rx.finditer(texto)]
+    return out
+
+
+def _tm_sem_executivos(texto, spans, execs):
+    if not execs:
+        return spans
+    return [(a, b) for a, b in spans
+            if not any(_tm_mesmo_nome(_tm_toks(texto[a:b]), e) for e in execs)]
+
+
+def _testemunhas_corrido(texto, execs=None):
+    """Nomes de testemunha/informante no texto corrido, um trecho por nome (só o nome)."""
+    spans = []
+    for m in _TM_A.finditer(texto):
+        if _TM_ANTES.search(texto[max(0, m.start() - 30):m.start()]):
+            continue  # "como testemunhas, A e B assinaram" / "tinham como testemunha A": ato das
+            #           partes (assinatura de contrato), narra o fato; as partes ficam
+        if not _tm_nome_ok(m):
+            continue
+        spans.append(m.span("nome"))
+        if m.group("g").lower().endswith("s"):  # lista: só no plural
+            pos = m.end()
+            while True:
+                n = _TM_ITEM.match(texto, pos) or _TM_APOSTO.match(texto, pos)
+                if not n or not _tm_nome_ok(n):
+                    break
+                spans.append(n.span("nome"))
+                pos = n.end()
+    for rx in (_TM_B, _TM_D, _TM_E):
+        spans += [m.span("nome") for m in rx.finditer(texto) if _tm_nome_ok(m)]
+    for m in _TM_C.finditer(texto):
+        if not _tm_nome_ok(m):
+            continue
+        spans.append(m.span("nome"))
+        pos = m.end()
+        while True:
+            n = _TM_ITEM.match(texto, pos)
+            if not n or not _tm_nome_ok(n):
+                break
+            spans.append(n.span("nome"))
+            pos = n.end()
+    grupos = []
+    for m in _TM_F.finditer(texto):
+        if not _tm_nome_ok(m):
+            continue
+        itens, pos = [], m.end()
+        while True:
+            n = _TM_ITEM.match(texto, pos)
+            if not n or not _tm_nome_ok(n):
+                break
+            itens.append(n.span("nome"))
+            pos = n.end()
+        if itens:  # só lista de nomes: "oitiva de A B" (singular) costuma ser de parte
+            grupos.append(([m.span("nome")] + itens, texto[pos:pos + 200]))
+    # "as oitivas de A e B, haja vista que ambos são também acusados": quem o próprio julgado
+    # chama de acusado fica, em qualquer ponto do texto em que apareça numa lista de oitivas
+    acusados = set()
+    for sp, resto in grupos:
+        if re.search(r"\bacusad[oa]s?\b", re.split(r"\.(?:\s|$)", resto)[0], re.I):
+            acusados.update(_tm_chave(texto[a:b]) for a, b in sp)
+    for sp, _ in grupos:
+        if not any(_tm_chave(texto[a:b]) in acusados for a, b in sp):
+            spans += sp
+    if execs is None:
+        execs = _executivos(texto)
+    return _unir(_tm_estende(texto, _tm_sem_executivos(texto, spans, execs)))
+
+
+# O mesmo nome, por extenso, em outro ponto do mesmo julgado ("o pedido de depoimento de A B",
+# "A B afirmou"): sai também, sem exigir carimbo. Só o nome completo (as mesmas palavras, qualquer
+# espaço ou quebra entre elas, sem distinguir caixa), e não quando uma palavra com inicial
+# maiúscula na mesma linha o prolonga ("A B Santos" é outra pessoa).
+def _testemunhas_repetidas(texto, nomes, execs=None):
+    spans = []
+    todos = set(nomes)
+    for nome in nomes:  # "A B C de D" também aparece como "A B C" (sobrenome final omitido)
+        t = nome.split()
+        if len(t) >= 5 and t[-2].lower() in _TM_CONECTORES:
+            todos.add(" ".join(t[:-2]))
+    for nome in sorted(todos, key=len, reverse=True):
+        palavras = nome.split()
+        # nome de 3 palavras ou mais: um sobrenome a mais ("A B C D" para "A B C") é a mesma pessoa
+        extra = (r"(?:[ \t]+(?-i:[A-ZÀ-Ý][a-zà-ÿ]+))?"
+                 if len([w for w in palavras if w.lower() not in _TM_CONECTORES]) >= 3 else "")
+        rx = re.compile(r"(?<![\wÀ-ÿ])" + r"\s+".join(map(re.escape, palavras)) + extra
+                        + r"(?![\wÀ-ÿ])(?!(?-i:[ \t]+(?:d[aeo]s?[ \t]+)?[A-ZÀ-Ý]))", re.I)
+        spans += [m.span() for m in rx.finditer(texto)]
+    if execs is None:
+        execs = _executivos(texto)
+    return _tm_sem_executivos(texto, spans, execs)
+
+
+# Enumeração contígua de nomes (vírgulas e "e", sem verbo entre os membros) em que ao menos um
+# membro já foi cortado como testemunha: "Compareceram [m], [m] e A B. Este último substituiu...",
+# "oitivas de [m] e A B, para demonstrar". Os outros nomes da enumeração saem também. Roda depois
+# das regras de testemunha e antes de qualquer outra, quando todo marcador do texto é de testemunha.
+_TM_MARC = re.escape(MARCADOR)
+_TM_MEMBRO = r"(?:" + _TM_TITULO + _TM_NOME + r"|" + _TM_MARC + r")"
+_TM_SEP = r"(?:[ \t]*," + _TM_SP0 + r"(?:e" + _TM_SP + r")?|" + _TM_SP + r"e" + _TM_SP + r")"
+_TM_RUN = re.compile(_TM_MEMBRO + r"(?:" + _TM_SEP + _TM_MEMBRO + r")+")
+_TM_SO_NOME = re.compile(_TM_TITULO + r"(?P<nome>" + _TM_NOME + r")")
+
+
+def _tm_pessoa(nome):
+    """Membro de enumeração só sai se parecer pessoa: sem sigla ("CEO da HRT", "Grupo EBX")."""
+    toks = [t for t in nome.split() if t.lower() not in _TM_CONECTORES]
+    if all(t.isupper() for t in toks):
+        return True  # nome todo em caixa alta
+    return not any(len(t.rstrip(".")) >= 2 and t.isupper() for t in toks)
+
+
+def _testemunhas_listas(texto, execs=None):
+    spans = []
+    for run in _TM_RUN.finditer(texto):
+        if MARCADOR not in run.group(0):
+            continue
+        for m in _TM_SO_NOME.finditer(texto, run.start(), run.end()):
+            if _tm_nome_ok(m) and _tm_pessoa(m.group("nome")):
+                spans.append(m.span("nome"))
+    if execs is None:
+        execs = _executivos(texto)
+    return _tm_sem_executivos(texto, spans, execs)
+
+
 # cabeçalho sozinho na linha, ou com resto curto depois dos dois-pontos ("Testemunhas: Fulano")
 _TESTEMUNHAS_CAB = re.compile(
     r"^\s*\**\s*TESTEMUNHAS?\s*\**\s*(?::\s*\**\s*(?P<resto>[^\n]{0,40}?)|\**)\s*$", re.I | re.M)
@@ -522,6 +770,13 @@ def limpar_contando(texto):
     aplica("testemunha", _testemunhas_frase(texto), lambda t: [t.replace("*", "")])
     aplica("testemunha", _testemunhas_bloco(texto),
            lambda t: [m.group("nome") for m in _NOME_NO_BLOCO.finditer(t)])
+    execs = _executivos(texto)
+    antes = len(nomes)
+    aplica("testemunha", _testemunhas_corrido(texto, execs), lambda t: [t.replace("*", "")])
+    aplica("testemunha", _testemunhas_repetidas(texto, nomes[antes:], execs))
+    antes = len(nomes)
+    aplica("testemunha", _testemunhas_listas(texto, execs), lambda t: [t.replace("*", "")])
+    aplica("testemunha", _testemunhas_repetidas(texto, nomes[antes:], execs))
     aplica("email", [m.span() for m in _EMAIL.finditer(texto)
                      if not _EMAIL_INSTITUCIONAL.match(m.group(0))])
     aplica("nascimento", [m.span(1) for m in _NASC.finditer(texto)])
