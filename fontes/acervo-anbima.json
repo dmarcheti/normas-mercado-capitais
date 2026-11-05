@@ -1939,9 +1939,23 @@
   },
   {
    "titulo": "Regras e Procedimentos do Código de Negociação (vigente - consolidado de todas regras)",
+   "url": "https://www.anbima.com.br/data/files/C6/C6/16/4B/AF7729107A7B7729B82BA2A8/3.%20Regras%20e%20Procedimentos_Codigo%20de%20Negociacao_Para_Publicacao_08.10.2024%20_2_.pdf",
+   "arquivo": "3. Regras e Procedimentos_Codigo de Negociacao_Para_Publicacao_08.10.2024 _2_.pdf",
+   "situacao": "vigente",
+   "vigente_desde": "2024-11-01",
+   "paginas": [
+    "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"
+   ],
+   "tipo": "regras-procedimentos",
+   "formato": "pdf",
+   "bytes": 731834,
+   "last_modified": "Thu, 10 Oct 2024 19:49:31 GMT"
+  },
+  {
+   "titulo": "Regras e Procedimentos do Código de Negociação (vigente - consolidado de todas regras)",
    "url": "https://www.anbima.com.br/data/files/FE/E6/AC/CC/0F101810C27A8F08882BA2A8/Regras_Procedimentos_Codigo_Negociacao_18.02.21.pdf",
    "arquivo": "Regras_Procedimentos_Codigo_Negociacao_18.02.21.pdf",
-   "situacao": "vigente",
+   "situacao": "anterior",
    "vigente_desde": null,
    "paginas": [
     "https://www.anbima.com.br/pt_br/autorregular/codigos/negociacao-de-instrumentos-financeiros.htm"

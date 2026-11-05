@@ -1762,5 +1762,32 @@
   "motivo": "acórdão do CRSFN de recurso contra decisão do BCB, não da CVM (classificação da Fase 2d)",
   "data": "2026-11-04",
   "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-sessao-de-julgamento/processo-18600-047237-2024-36"
+ },
+ {
+  "id": "crsfn-18600-008115-2023-43",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-04",
+  "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/servicos/busca-de-ata-pautas-distribuicoes-e-decisoes/acordaos-e-decisoes-monocraticas/2026/508a-sessao-de-julgamento/processo-18600-008115-2023-43",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-18600-141359-2025-07",
+  "fonte": "crsfn",
+  "decisao": "fora-do-perimetro",
+  "motivo": "órgão de origem BCB (prefixo NUP 18600)",
+  "data": "2026-11-04",
+  "url": "https://colaboragov.sei.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=71877118&id_orgao_publicacao=7",
+  "classe": "J"
+ },
+ {
+  "id": "crsfn-19957-015425-2024-28-2",
+  "fonte": "crsfn",
+  "decisao": "excecao",
+  "motivo": "duplicata de crsfn-19957-015425-2024-28 (sha256 da fonte igual)",
+  "data": "2026-11-04",
+  "url": "https://colaboragov.sei.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=71468749&id_orgao_publicacao=7",
+  "classe": "J"
  }
 ]
