@@ -1,8 +1,8 @@
 {
   "plugins": {
     "normas": {
-      "versao": "1.1.1",
-      "hash": "dc0251ee3bcffced9b2a82e490502267f4d20ebce3aeb0ef8b04049d81d5d2a4",
+      "versao": "1.1.2",
+      "hash": "768134fa1913886f06bca5606c47cb36d30f11cd2f5058506075e04bf2420d20",
       "publicado_em": "2026-11-04"
     },
     "julgados-pas": {
@@ -30,5 +30,6 @@
       "hash": "cd5b197a5512d82a7c2786013affbb3a836139a14e889f68d01ad08d8412fcb1",
       "publicado_em": "2026-11-04"
     }
-  }
+  },
+  "conferido_em": "2026-11-04"
 }

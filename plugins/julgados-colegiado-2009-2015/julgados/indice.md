@@ -3,6 +3,7 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
 Gerado por `scripts/indice.py`; não edite à mão.
+Fontes conferidas até 2026-11-04.
 
 ## Perímetro
 
