@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## Dados de 2026-11-04
+
+- Dados até 2026-11-04: 635 atos, 14990 julgados.
+- Versões: `normas` 1.1.2.
+
 ## v1.2.0 (não publicada)
 
 - **Atualização automática quinzenal:** a cada duas semanas (quarta-feira), um processo compara as fontes oficiais (CVM, BCB, Planalto, ANBIMA, B3 e CRSFN) com o acervo e aplica o que mudou, pelos mesmos scripts da construção, com testes e um revisor por IA. Execução perdida roda na primeira oportunidade. Entra sem revisão humana só o que tem conferência independente (conversão por script de fonte oficial, cobertura de pelo menos 99% e testes verdes); texto por OCR, revogação, vigência diferida, norma ou documento novo fora do perímetro, ato que altera norma com histórico e item marcado pelo revisor passam por uma pessoa. Por ora tudo está em período de observação: o processo propõe e uma pessoa aprova.
@@ -7,6 +12,7 @@
 - **Versões e data de conferência:** a versão de cada plugin sobe quando o conteúdo dele muda, e cada índice traz "Fontes conferidas até AAAA-MM-DD". Defasagem esperada: até cerca de duas semanas.
 - **Documentação:** seção "Atualização" no `README.md`, seção "Atualização automática" no `VERIFICACAO.md` e nota sobre a data de conferência no `COMECE-AQUI.md`. As taxas de erro publicadas medem a construção, não cada atualização.
 - **Código de Negociação de Instrumentos Financeiros da ANBIMA:** a versão vigente desde 2024-11-01 entra no acervo (a ANBIMA passa a 39 documentos). Faltava desde o inventário da camada 5, que só listou as versões anteriores; achado pela primeira verificação da atualização automática.
+- **Regras e Procedimentos do Código de Negociação da ANBIMA:** a versão de 2024 (publicada em 08/10/2024) substitui a de 2021, que seguia no acervo; primeira atualização aplicada pela verificação automática. No bloco Nº 01, o antigo Art. 6º virou §2º do Art. 5º e a ANBIMA não renumerou: o bloco passa do Art. 5º ao 7º, como no PDF.
 - **Correções:** as da v1.1.1, abaixo, seguem valendo.
 
 ## v1.1.1 (2026-11-04)
