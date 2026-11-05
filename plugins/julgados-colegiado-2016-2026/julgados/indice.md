@@ -14,7 +14,7 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 
 | Tipo | Ano | Julgados | Subíndice |
 |---|---|---|---|
-| Decisões do Colegiado | 2026 | 47 | [indices/decisao-colegiado-2026.md](indices/decisao-colegiado-2026.md) |
+| Decisões do Colegiado | 2026 | 48 | [indices/decisao-colegiado-2026.md](indices/decisao-colegiado-2026.md) |
 | Decisões do Colegiado | 2025 | 168 | [indices/decisao-colegiado-2025.md](indices/decisao-colegiado-2025.md) |
 | Decisões do Colegiado | 2024 | 198 | [indices/decisao-colegiado-2024.md](indices/decisao-colegiado-2024.md) |
 | Decisões do Colegiado | 2023 | 206 | [indices/decisao-colegiado-2023.md](indices/decisao-colegiado-2023.md) |
@@ -26,7 +26,7 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 | Decisões do Colegiado | 2017 | 389 | [indices/decisao-colegiado-2017.md](indices/decisao-colegiado-2017.md) |
 | Decisões do Colegiado | 2016 | 525 | [indices/decisao-colegiado-2016.md](indices/decisao-colegiado-2016.md) |
 
-Total: Decisões do Colegiado, 3381.
+Total: Decisões do Colegiado, 3382.
 
 ## Por tema
 
@@ -34,7 +34,7 @@ Total: Decisões do Colegiado, 3381.
 |---|---|---|
 | administracao-carteiras | 120 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
 | analistas-rating | 9 | [indices/tema-analistas-rating.md](indices/tema-analistas-rating.md) |
-| assembleia-acionistas | 151 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
+| assembleia-acionistas | 152 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
 | auditoria-independente | 45 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
 | contabil-demonstracoes | 84 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
 | criptoativos | 15 | [indices/tema-criptoativos.md](indices/tema-criptoativos.md) |
@@ -219,13 +219,13 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Resolução CVM nº 62/2022 | 6 | [indices/norma-cvm-res-62.md](indices/norma-cvm-res-62.md) |
 | Resolução CVM nº 67/2022 | 84 | [indices/norma-cvm-res-67.md](indices/norma-cvm-res-67.md) |
 | Resolução CVM nº 68/2022 | 1 | [indices/norma-cvm-res-68.md](indices/norma-cvm-res-68.md) |
-| Resolução CVM nº 70/2022 | 2 | [indices/norma-cvm-res-70.md](indices/norma-cvm-res-70.md) |
+| Resolução CVM nº 70/2022 | 3 | [indices/norma-cvm-res-70.md](indices/norma-cvm-res-70.md) |
 | Resolução CVM nº 72/2022 | 1 | [indices/norma-cvm-res-72.md](indices/norma-cvm-res-72.md) |
 | Resolução CVM nº 77/2022 | 10 | [indices/norma-cvm-res-77.md](indices/norma-cvm-res-77.md) |
 | Resolução CVM nº 78/2022 | 5 | [indices/norma-cvm-res-78.md](indices/norma-cvm-res-78.md) |
 | Resolução CVM nº 8/2020 | 6 | [indices/norma-cvm-res-8.md](indices/norma-cvm-res-8.md) |
 | Resolução CVM nº 80/2022 | 56 | [indices/norma-cvm-res-80.md](indices/norma-cvm-res-80.md) |
-| Resolução CVM nº 81/2022 | 55 | [indices/norma-cvm-res-81.md](indices/norma-cvm-res-81.md) |
+| Resolução CVM nº 81/2022 | 56 | [indices/norma-cvm-res-81.md](indices/norma-cvm-res-81.md) |
 | Resolução CVM nº 82/2022 | 1 | [indices/norma-cvm-res-82.md](indices/norma-cvm-res-82.md) |
 | Resolução CVM nº 84/2022 | 1 | [indices/norma-cvm-res-84.md](indices/norma-cvm-res-84.md) |
 | Resolução CVM nº 86/2022 | 4 | [indices/norma-cvm-res-86.md](indices/norma-cvm-res-86.md) |
@@ -260,7 +260,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | Lei nº 4.595/1964 | 10 | [indices/norma-lei-4595.md](indices/norma-lei-4595.md) |
 | Lei nº 4.728/1965 | 4 | [indices/norma-lei-4728.md](indices/norma-lei-4728.md) |
 | Lei nº 6.385/1976 | 634 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
-| Lei nº 6.404/1976 | 677 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
+| Lei nº 6.404/1976 | 678 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
 | Lei nº 8.668/1993 | 25 | [indices/norma-lei-8668.md](indices/norma-lei-8668.md) |
 | Lei nº 8.929/1994 | 7 | [indices/norma-lei-8929.md](indices/norma-lei-8929.md) |
 | Lei nº 9.514/1997 | 26 | [indices/norma-lei-9514.md](indices/norma-lei-9514.md) |
@@ -959,7 +959,7 @@ Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao te
 | lei-14182 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14193 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14194 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-14195 | 11 | [indices/norma-fora-lei-14195.md](indices/norma-fora-lei-14195.md) |
+| lei-14195 | 12 | [indices/norma-fora-lei-14195.md](indices/norma-fora-lei-14195.md) |
 | lei-14204 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14260 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
 | lei-14317 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |

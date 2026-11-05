@@ -122956,5 +122956,14 @@
   "data": "2026-10-22",
   "url": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-absolve-acusados-em-caso-envolvendo-registros-contabeis-e-demonstracoes-financeiras-do-irb-2013-brasil-resseguros-s-a",
   "plugin": "julgados-pas"
+ },
+ {
+  "id": "cvm-col-20261103-d3649",
+  "tipo": "decisao-colegiado",
+  "classe": "outros",
+  "processo": "19957.015856/2026-56",
+  "data": "2026-11-03",
+  "url": "https://conteudo.cvm.gov.br/decisoes/2026/20261103_R1/20261103_D3649.html",
+  "plugin": "julgados-colegiado-2016-2026"
  }
 ]

@@ -450,6 +450,10 @@ IMAGEM_PIXELS_MIN = 60000
 IMAGEM_FAIXA_MIN, IMAGEM_FAIXA_LARGURA = 0.03, 0.5
 IMAGEM_CONFIANCA, IMAGEM_LINHAS, IMAGEM_CARACTERES, IMAGEM_LINHA_LONGA = 0.8, 3, 100, 15
 IMAGEM_MEDIA_LINHA = 12
+# --marcar-imagens (decisão do Diogo no D3649, 2026-11-05): a imagem que entraria pelo OCR vira só
+# a marca abaixo, sem o texto lido (nível segue pdf-extraido); sem a opção, o OCR segue o padrão.
+MARCA_IMAGEM = "[imagem com texto não convertida; ver o PDF oficial]"
+MARCAR_IMAGENS = False
 IMAGEM_EMBARALHADO = 0.12
 _OCR_PALAVRA_OK = re.compile(r"[\wÀ-ÿ.,;:()\[\]%/\-–—'\"“”‘’ºª°§$+&=<>@#!?]+")
 _OCR_VOGAL = re.compile(r"[aeiouyáéíóúâêôãõàAEIOUYÁÉÍÓÚÂÊÔÃÕÀ]")
@@ -570,8 +574,9 @@ def _ocr_regiao(caminho, pagina, caixa, pm):
     return texto, (sum(conf) / len(conf) if conf else 0.0)
 
 
-def inserir_texto_de_imagem(pagina, texto_ocr, seguinte, original=None):
+def inserir_texto_de_imagem(pagina, texto_ocr, seguinte, original=None, substituto=None):
     """Página com as linhas do OCR da imagem antes da linha `seguinte` (ou no fim): regra acima.
+    `substituto`: entra ele, e não o bloco lido, quando o bloco passaria pela regra.
     `original`: a página antes do OCR das outras imagens; a semelhança (60%) se mede contra ela,
     para o bloco de uma imagem não apagar as linhas parecidas da imagem seguinte (cláusulas quase
     iguais); contra o já inserido, só a linha idêntica sai (a mesma imagem lida duas vezes)."""
@@ -595,7 +600,7 @@ def inserir_texto_de_imagem(pagina, texto_ocr, seguinte, original=None):
     if (len(bloco) < IMAGEM_LINHAS or total < IMAGEM_CARACTERES
             or total < IMAGEM_MEDIA_LINHA * len(bloco)):
         return pagina
-    texto = "\n".join(bloco) + "\n"
+    texto = (substituto or "\n".join(bloco)) + "\n"
     for linha in (seguinte or "").split("\n"):
         c = re.sub(r"\s+", "", linha)
         k = compacta.find(c) if len(c) >= 6 else -1
@@ -664,10 +669,13 @@ def texto_pdf(caminho, pm=pdf_macos, data=None):
                                         "\n".join(paginas))
             if faixa and faixa[0] and _ocr_embaralhado(texto):
                 continue
-            nova = inserir_texto_de_imagem(paginas[i], texto, seguinte, originais[i])
+            nova = inserir_texto_de_imagem(paginas[i], texto, seguinte, originais[i],
+                                           MARCA_IMAGEM if MARCAR_IMAGENS else None)
             if nova != paginas[i]:
                 paginas[i], n_img = nova, n_img + 1
-        if n_img:
+        if n_img and MARCAR_IMAGENS:
+            avisos.append("%d imagem(ns) com texto marcada(s), sem OCR" % n_img)
+        elif n_img:
             nivel = "ocr"
             avisos.append("OCR de %d imagem(ns) sem texto em página(s) com texto" % n_img)
     return paginas, nivel, motor, avisos, n_ocr
@@ -1173,6 +1181,7 @@ class Conversao:
         self.brutos = []  # texto dos PDFs antes de tirar as repetidas (relator, data)
         self.retirado = []  # linhas e trechos de timbre e rodapé retirados
         self.trechos_timbre = 0
+        self.imagens_marcadas = 0  # --marcar-imagens
 
     def _subir(self, nivel):
         if _NIVEL_ORDEM[nivel] > _NIVEL_ORDEM[self.nivel]:
@@ -1185,6 +1194,7 @@ class Conversao:
         paginas, nivel, motor, avisos, n_ocr = texto_pdf(self.caminho(arq), self.pm, self.data)
         self._subir(nivel)
         self.paginas_ocr += n_ocr
+        self.imagens_marcadas += sum(p.count(MARCA_IMAGEM) for p in paginas)
         self.avisos += ["%s: %s" % (arq["arquivo"], a) for a in avisos]
         self._fontes.append((arq["arquivo"], self.caminho(arq), motor, None))
         self.brutos.append("\n".join(paginas))
@@ -1537,6 +1547,9 @@ def converter_item(item, pasta, pm=pdf_macos):
                          % int(COBERTURA_BAIXA * 100))
     if cv.paginas_ocr:
         incerteza.append("%d página(s) por OCR" % cv.paginas_ocr)
+    if cv.imagens_marcadas:
+        incerteza.append("%d imagem(ns) com texto não convertida(s), marcada(s) no texto; ver o PDF oficial"
+                         % cv.imagens_marcadas)
     if not data:
         raise ValueError("%s: sem data (página, inventário e PDF)" % item["id"])
     valores = {
@@ -1627,7 +1640,11 @@ def main(argv=None, pm=pdf_macos):
     ap.add_argument("--cache", default=jb.CACHE)
     ap.add_argument("--raiz", default=jc.RAIZ, help="raiz do repositório (saída em plugins/)")
     ap.add_argument("--relatorios", default=RELATORIOS)
+    ap.add_argument("--marcar-imagens", action="store_true",
+                    help="imagem com texto vira marca, sem OCR (decisão por item)")
     a = ap.parse_args(argv)
+    global MARCAR_IMAGENS
+    MARCAR_IMAGENS = a.marcar_imagens
     ids = [x.strip() for x in a.ids.split(",") if x.strip()] if a.ids else None
     itens = jc.selecionar(jb.carregar_inventario(a.inventario), ids=ids, ano=a.ano, tipo=a.tipo,
                           onda=a.onda, limite=a.limite)
