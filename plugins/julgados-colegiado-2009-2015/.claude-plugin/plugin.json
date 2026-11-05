@@ -1,6 +1,6 @@
 {
   "name": "julgados-colegiado-2009-2015",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Decisões do Colegiado da CVM de 2009 a 2015 (recursos, consultas, dispensas, registros), com data, resultado e dispositivos citados. Material não oficial.",
   "author": {
     "name": "dmarcheti"

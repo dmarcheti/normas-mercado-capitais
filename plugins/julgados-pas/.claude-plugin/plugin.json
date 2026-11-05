@@ -1,6 +1,6 @@
 {
   "name": "julgados-pas",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Processos administrativos sancionadores (PAS) julgados pela CVM, com relatório, voto e extrato da sessão, data, relator, resultado e dispositivos citados. Material não oficial.",
   "author": {
     "name": "dmarcheti"

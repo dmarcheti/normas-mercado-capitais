@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## Dados de 2026-11-04 (itens da Fase 5 aplicados em 2026-11-05)
+
+- Dados até 2026-11-04: 635 atos, 14991 julgados; testemunha no texto corrido fora de 21 julgados e índices novos de busca nos julgados.
+- Versões: `normas` 1.1.4, `julgados-pas` 0.5.1, `julgados-tc-crsfn` 0.5.2, `julgados-colegiado-2002-2008` 0.5.1, `julgados-colegiado-2009-2015` 0.5.1, `julgados-colegiado-2016-2026` 0.5.2.
+
 ## Dados de 2026-11-04 (itens da verificação aplicados em 2026-11-05)
 
 - Dados até 2026-11-04: 635 atos, 14991 julgados; Res. BCB 102 (versão 6) e D3649 do Colegiado.

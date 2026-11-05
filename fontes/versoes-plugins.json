@@ -1,33 +1,33 @@
 {
   "plugins": {
     "normas": {
-      "versao": "1.1.3",
-      "hash": "246418520a67d0117aacaa55cfa6a010b29233977dafe589f3b060113d915b74",
+      "versao": "1.1.4",
+      "hash": "a9cfaa65508a343284acb108a73bc07d99a479b28b80a6dc5f9a6246359a3e8d",
       "publicado_em": "2026-11-04"
     },
     "julgados-pas": {
-      "versao": "0.5.0",
-      "hash": "38029497a5ada17138b210878e098b8f7cb8e35d8087f148c0da1316bcfbd9c3",
+      "versao": "0.5.1",
+      "hash": "c9bb4be6f73e203af4c77da37e1ac549b0875024462de4126f8b52822bacac4c",
       "publicado_em": "2026-11-04"
     },
     "julgados-tc-crsfn": {
-      "versao": "0.5.1",
-      "hash": "94fe809568418126296bf0a15202c5204271c1d34e92c7b4a71e77b458291158",
+      "versao": "0.5.2",
+      "hash": "9a9292e82a7ebca47974dc2bb1bd30f76443eca1d0fb6aa3ae5979734ac73c07",
       "publicado_em": "2026-11-04"
     },
     "julgados-colegiado-2002-2008": {
-      "versao": "0.5.0",
-      "hash": "586899dd2357444f1775d28986f22bd5872e86e95d25c552d34c7ee38f53aa34",
+      "versao": "0.5.1",
+      "hash": "8af743fb8d807141809f830b612b8d768ae5933e7e5356a1ef2c366febfd1ffe",
       "publicado_em": "2026-11-04"
     },
     "julgados-colegiado-2009-2015": {
-      "versao": "0.5.0",
-      "hash": "ad2f81b012736a2e4cfab1259df4380de4a8843f42c33c6d540f3257b99c2a4c",
+      "versao": "0.5.1",
+      "hash": "f79e330941dbad74739d0c81c7c2d625792b1786337f2cb31c0b4f5a89a2166f",
       "publicado_em": "2026-11-04"
     },
     "julgados-colegiado-2016-2026": {
-      "versao": "0.5.1",
-      "hash": "787e1684d52c2a9673ea703310a4cc190ad8e9e9abf4c3e4bd5ed9cfcef89580",
+      "versao": "0.5.2",
+      "hash": "04f313b9eab6ff13b0d6758e06a2a393fa158d5e67a173642114a4305c7a3baf",
       "publicado_em": "2026-11-04"
     }
   },
