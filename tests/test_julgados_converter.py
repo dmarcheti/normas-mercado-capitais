@@ -523,6 +523,27 @@ class PecasTest(unittest.TestCase):
                 self.assertEqual(conv.texto_pdf(caminho, pm)[:2],
                                  ([jc.normalizar_pdf(x) for x in pk.split("\f")], "pdf-extraido"))
 
+    def test_marcar_imagens_poe_a_marca_no_lugar_do_ocr(self):
+        caminho = os.path.join(tempfile.gettempdir(), "nao-existe-img.pdf")
+        pk = ("Texto da primeira página do voto, sem imagem.\f"
+              "3. O mercado cresceu a partir desta década.\n"
+              "4. O incremento das análises exigiu mais servidores.\n")
+        pm = PdfFalso({"nao-existe-img.pdf": pk})
+        with mock.patch.object(conv, "MARCAR_IMAGENS", True), \
+                mock.patch.object(conv, "_numero_de_paginas", return_value=2), \
+                mock.patch.object(conv, "_pypdf_paginas", return_value=None), \
+                mock.patch.object(conv, "_imagens_sem_texto",
+                                  return_value=[(1, (40, 570, 520, 240), "4. O incremento")]), \
+                mock.patch.object(conv, "_ocr_regiao", return_value=(self.TABELA_OCR, 1.0)):
+            pags, nivel, _, avisos, n_ocr = conv.texto_pdf(caminho, pm)
+        self.assertIn("década.\n%s\n4. O incremento" % conv.MARCA_IMAGEM, pags[1])
+        self.assertNotIn("Número de entidades", pags[1])
+        self.assertEqual((nivel, n_ocr), ("pdf-extraido", 0))
+        self.assertIn("1 imagem(ns) com texto marcada(s), sem OCR", " ".join(avisos))
+        # bloco que não passaria pela regra (curto) não vira marca
+        self.assertEqual(conv.inserir_texto_de_imagem("a\n", "Figura 1\n", "", substituto=conv.MARCA_IMAGEM),
+                         "a\n")
+
     def test_imagem_em_faixa_larga_entra_e_logotipo_ou_cabecalho_repetido_nao(self):
         f, area, larg = conv._tipo_de_imagem, 595 * 842, 595
         self.assertEqual(f(371, 85, larg, area), "faixa")      # recorte de citação: ~6% da página
