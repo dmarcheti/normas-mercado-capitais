@@ -10,6 +10,12 @@ Protocolo da Fase 3b/5, sem mudança:
 - resposta "com": `--model sonnet --tools Read,Skill --allowedTools Read,Skill` com os 6 plugins
   (`--plugin-dir`), copiados para `<saida>/plugins/` na primeira vez (a bateria usa a cópia);
 - juiz: `--model opus --tools ""`, cego ao modo, ids "Jnn" embaralhados com a semente.
+Isolamento (achado da Fase 5): o Claude Code sincroniza os plugins instalados na conta do claude.ai,
+e um plugin sincronizado com o mesmo nome toma o lugar da cópia; com 2 ou mais `--plugin-dir`, nenhum
+plugin carrega (2.1.311). Por isso: um só `--plugin-dir` com a pasta-mãe, `--setting-sources ""`, e
+a cópia leva o sufixo "-bateria" no `plugin.json`, a sessão roda numa pasta temporária fora do repo
+(e do cofre, que tem instruções próprias) e cada resposta confere, no evento `init`, que os 6 plugins
+carregados são as cópias; resposta sem isso é gravada como inválida e o `responder` sai com erro.
 Retomável: pula resposta ou nota já gravada. A saída (`dados/fase-5/bateria-v3/` por padrão) fica
 em `dados/`, fora do Git. Roda `claude` de verdade: não é chamada pelos testes; os testes cobrem
 só `montar_args`, `selecionar_ids`, `ids_cegos` e `tarefas_de_resposta`.
@@ -24,6 +30,7 @@ import random
 import shutil
 import subprocess
 import sys
+import tempfile
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 PLUGINS = ["normas", "julgados-pas", "julgados-tc-crsfn", "julgados-colegiado-2002-2008",
@@ -33,6 +40,7 @@ SAIDA_PADRAO = os.path.join(REPO, "dados", "fase-5", "bateria-v3")
 SEMENTE_PADRAO = 20261103
 MODOS = ("sem", "com")
 EM_PARALELO = 4
+SUFIXO = "-bateria"
 
 JUIZ = """Você corrige a resposta de um assistente a uma pergunta sobre julgados da CVM e do CRSFN.
 Compare com o gabarito, conferido na fonte oficial. Não use outra fonte; não busque nada.
@@ -66,10 +74,11 @@ def montar_args(modo, pasta_plugins=None):
         raise ValueError("modo desconhecido: %r (use sem ou com)" % (modo,))
     if not pasta_plugins:
         raise ValueError("o modo com precisa da pasta dos plugins")
-    args = ["--model", "sonnet", "--tools", "Read,Skill", "--allowedTools", "Read,Skill"]
-    for p in PLUGINS:
-        args += ["--plugin-dir", os.path.join(pasta_plugins, p)]
-    return args
+    # Claude Code 2.1.311: com 2 ou mais `--plugin-dir` nenhum plugin carrega; a pasta-mãe carrega
+    # cada subpasta. `--setting-sources ""` tira os plugins sincronizados da conta do claude.ai (que
+    # têm o mesmo nome e conteúdo antigo) e também as instruções do usuário (diferença em relação à v2).
+    return ["--model", "sonnet", "--tools", "Read,Skill", "--allowedTools", "Read,Skill",
+            "--setting-sources", "", "--plugin-dir", pasta_plugins]
 
 
 def montar_args_juiz():
@@ -108,6 +117,39 @@ def ids_cegos(arquivos, semente=SEMENTE_PADRAO):
     return dict(zip(arquivos, ids))
 
 
+def plugins_ausentes(bruto, pasta_plugins):
+    """Plugins da bateria que o evento `init` do stream-json NÃO mostra carregados a partir da cópia
+    em `pasta_plugins` (nome com SUFIXO e caminho dentro da pasta). Sem evento `init`: todos."""
+    raiz = os.path.realpath(pasta_plugins)
+    for ln in (bruto or "").splitlines():
+        try:
+            ev = json.loads(ln)
+        except ValueError:
+            continue
+        if ev.get("type") == "system" and ev.get("subtype") == "init":
+            carregados = {(p.get("name"), os.path.realpath(p.get("path") or ""))
+                          for p in ev.get("plugins") or [] if isinstance(p, dict)}
+            return [p for p in PLUGINS
+                    if (p + SUFIXO, os.path.join(raiz, p)) not in carregados]
+    return list(PLUGINS)
+
+
+def renomear_copia(pasta_plugin, nome):
+    """Grava o nome com SUFIXO no `.claude-plugin/plugin.json` da cópia."""
+    arq = os.path.join(pasta_plugin, ".claude-plugin", "plugin.json")
+    with open(arq, encoding="utf-8") as f:
+        meta = json.load(f)
+    meta["name"] = nome + SUFIXO
+    with open(arq, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+
+def pasta_de_trabalho():
+    """Pasta vazia fora do repo e do cofre."""
+    base = "/private/tmp" if os.path.isdir("/private/tmp") else None
+    return tempfile.mkdtemp(prefix="bateria-", dir=base)
+
+
 def modos_de(texto):
     modos = tuple(x.strip() for x in texto.split(",") if x.strip())
     for m in modos:
@@ -142,23 +184,30 @@ def _ler_gabarito(caminho):
 
 
 def responder(gab, ids, modos, saida, plugins_de):
+    # caminhos absolutos: a sessão roda numa pasta temporária, onde um caminho relativo não existe
+    saida, plugins_de = os.path.abspath(saida), os.path.abspath(plugins_de)
     pl = os.path.join(saida, "plugins")
     if "com" in modos and not os.path.isdir(pl):
         for p in PLUGINS:
             shutil.copytree(os.path.join(plugins_de, p), os.path.join(pl, p))
-    vazia = os.path.join(saida, "vazia")
+            renomear_copia(os.path.join(pl, p), p)
+    vazia = pasta_de_trabalho()
     resp = os.path.join(saida, "respostas")
-    os.makedirs(vazia, exist_ok=True)
     os.makedirs(resp, exist_ok=True)
+    invalidas = []
     tarefas = tarefas_de_resposta(gab, ids, modos, os.listdir(resp))
 
     def um(t):
         pid, modo = t
         destino = os.path.join(resp, "%s-%s.json" % (pid, modo))
         final, ferr, custo, bruto = _claude(montar_args(modo, pl), gab[pid]["pergunta"], vazia)
+        ausentes = plugins_ausentes(bruto, pl) if modo == "com" else []
+        if ausentes:
+            invalidas.append(pid)
+            destino = destino[:-5] + ".invalida.json"
         with open(destino, "w", encoding="utf-8") as f:
             json.dump({"pergunta": pid, "modo": modo, "resposta": final, "ferramentas_usadas": ferr,
-                       "custo_usd": custo}, f, ensure_ascii=False, indent=1)
+                       "custo_usd": custo, "plugins_ausentes": ausentes}, f, ensure_ascii=False, indent=1)
         with open(destino[:-5] + ".jsonl", "w", encoding="utf-8") as f:
             f.write(bruto)
         return pid, modo, ferr, custo
@@ -166,6 +215,11 @@ def responder(gab, ids, modos, saida, plugins_de):
     with concurrent.futures.ThreadPoolExecutor(EM_PARALELO) as ex:
         for r in ex.map(um, tarefas):
             print("%s %s ferramentas=%d custo=%.2f" % r, flush=True)
+    if invalidas:
+        print("bateria: respostas INVÁLIDAS (plugins da cópia não carregados): %s" % ", ".join(invalidas),
+              file=sys.stderr)
+        return 1
+    return 0
 
 
 def julgar(gab, ids, saida, semente):
@@ -177,8 +231,7 @@ def julgar(gab, ids, saida, semente):
     mapa = ids_cegos(arquivos, semente)
     with open(os.path.join(saida, "mapa-cego.json"), "w", encoding="utf-8") as f:
         json.dump(mapa, f, indent=1)
-    vazia = os.path.join(saida, "vazia")
-    os.makedirs(vazia, exist_ok=True)
+    vazia = pasta_de_trabalho()
 
     def um(arq):
         destino = os.path.join(notas, mapa[arq] + ".json")
@@ -220,7 +273,7 @@ def main(argv=None):
         print("bateria: %s" % e, file=sys.stderr)
         return 2
     if a.comando == "responder":
-        responder(gab, ids, modos, a.saida, a.plugins_de)
+        return responder(gab, ids, modos, a.saida, a.plugins_de)
     else:
         julgar(gab, ids, a.saida, a.semente)
     return 0

@@ -1,5 +1,7 @@
 """Testes das funções puras de scripts/bateria.py. Nenhum teste chama o `claude`."""
+import json
 import os
+import tempfile
 import sys
 import unittest
 
@@ -16,12 +18,12 @@ class TestMontarArgs(unittest.TestCase):
         a = bateria.montar_args("sem")
         self.assertEqual(a, ["--model", "sonnet", "--tools", ""])
 
-    def test_com_acervo_traz_os_seis_plugins_na_ordem(self):
+    def test_com_acervo_carrega_a_pasta_mae_sem_plugins_sincronizados(self):
         a = bateria.montar_args("com", "/x/plugins")
         self.assertEqual(a[:6], ["--model", "sonnet", "--tools", "Read,Skill", "--allowedTools", "Read,Skill"])
         pastas = [a[i + 1] for i, v in enumerate(a) if v == "--plugin-dir"]
-        self.assertEqual(pastas, [os.path.join("/x/plugins", p) for p in bateria.PLUGINS])
-        self.assertEqual(len(pastas), 6)
+        self.assertEqual(pastas, ["/x/plugins"])
+        self.assertEqual(a[a.index("--setting-sources") + 1], "")
 
     def test_modo_invalido_ou_sem_pasta_e_erro(self):
         with self.assertRaises(ValueError):
@@ -84,3 +86,35 @@ class TestIdsCegos(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class IsolamentoTest(unittest.TestCase):
+    def _init(self, plugins):
+        return json.dumps({"type": "system", "subtype": "init", "plugins": plugins}) + "\n"
+
+    def test_copias_carregadas_nao_faltam(self):
+        pasta = tempfile.mkdtemp()
+        ev = self._init([{"name": p + bateria.SUFIXO, "path": os.path.join(pasta, p)} for p in bateria.PLUGINS])
+        self.assertEqual(bateria.plugins_ausentes(ev, pasta), [])
+
+    def test_plugin_sincronizado_com_mesmo_nome_conta_como_ausente(self):
+        pasta = tempfile.mkdtemp()
+        plugins = [{"name": p + bateria.SUFIXO, "path": os.path.join(pasta, p)} for p in bateria.PLUGINS[1:]]
+        plugins.append({"name": "normas", "path": "/x/synced/abc/normas~g3"})
+        self.assertEqual(bateria.plugins_ausentes(self._init(plugins), pasta), ["normas"])
+
+    def test_sem_evento_init_todos_ausentes(self):
+        self.assertEqual(bateria.plugins_ausentes("", tempfile.mkdtemp()), list(bateria.PLUGINS))
+
+    def test_renomear_copia(self):
+        pasta = tempfile.mkdtemp()
+        os.makedirs(os.path.join(pasta, ".claude-plugin"))
+        with open(os.path.join(pasta, ".claude-plugin", "plugin.json"), "w") as f:
+            json.dump({"name": "normas", "version": "1"}, f)
+        bateria.renomear_copia(pasta, "normas")
+        with open(os.path.join(pasta, ".claude-plugin", "plugin.json")) as f:
+            self.assertEqual(json.load(f)["name"], "normas" + bateria.SUFIXO)
+
+    def test_pasta_de_trabalho_fora_do_repo(self):
+        p = bateria.pasta_de_trabalho()
+        self.assertFalse(os.path.realpath(p).startswith(os.path.realpath(bateria.REPO)))

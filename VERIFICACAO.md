@@ -185,6 +185,32 @@ Itens com erro de texto por rodada, nos sete estratos de PDF e OCR: 10 em 86 (20
 
 As 6 falhas com os julgados são de busca: o caso existe no acervo, mas a resposta não o achou (duas estavam nos arquivos anuais de decisões antigas).
 
+### Rodada de ajuste da busca (2026-11-05)
+
+Diagnóstico das 6 falhas pelos transcritos. A causa comum era o limite de leitura: a ferramenta de ler arquivo corta perto de 40 KB sem avisar, e os `indice.md` dos julgados tinham de 73 a 130 KB. As outras causas eram a skill apontar o lugar errado, a falta de índice por processo e os arquivos anuais de decisões antigas sem divisão.
+
+O que mudou:
+- `indice.md` com menos de 25 KB;
+- sumário no topo dos subíndices longos e "Fim do subíndice." em todos;
+- índice por processo nos plugins de PAS e de termos de compromisso e CRSFN;
+- índice por decisão nas decisões de 1978 a 2001, com os nomes de pessoa física trocados;
+- 5 regras curtas na skill.
+
+Rodada única, sem segunda tentativa, com as 6 perguntas que falhavam e 6 de controle sorteadas entre as 24 certas (semente 20261105). Protocolo da v2: Claude Sonnet com os plugins, só ferramenta de leitura, e juiz Claude Opus cego.
+
+| | Tudo certo | Acha o caso |
+|---|---|---|
+| As 6 que falhavam | 3 (P09, P23, P25) | 3 |
+| 6 de controle | 6 | 6 |
+
+Seguem falhando P10 (acha 1 dos 3 casos), P11 e P24. Em P24, a decisão de 1997 não foi achada nem com o índice por decisão. As outras 18 perguntas da v2 não foram rodadas de novo; o total de 27/30 é projeção, não medida.
+
+Diferença de ambiente em relação à v2:
+- os plugins carregam a partir de uma pasta-mãe, porque o Claude Code 2.1.311 não carrega nenhum plugin quando recebe dois ou mais `--plugin-dir`;
+- a sessão roda sem as configurações do usuário, para não carregar versões dos mesmos plugins sincronizadas da conta do claude.ai.
+
+Runner: `scripts/bateria.py`.
+
 ## Reprodução
 
 ```

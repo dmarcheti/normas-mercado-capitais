@@ -24,6 +24,7 @@
 - **Pedido de retirada:** só pelo formulário `retirada` das issues (`.github/ISSUE_TEMPLATE/retirada.yml`), que aplica o rótulo sozinho e pede para não escrever o dado pessoal na issue. O projeto não tem e-mail de contato. O README da autorregulação aponta para o formulário.
 - **Atualização automática com o repositório público:** o job considera só PRs do próprio repositório com branch `auto/*`, e PR de fork não bloqueia item.
 - **Proteção do histórico:** `.githooks/pre-push` recusa o envio de branch que contenha commit de uma lista local de histórico retirado (`git config normas.historicoAntigo`); sem a configuração, só avisa. `.gitleaksignore` registra o falso positivo do token público do beacon do Cloudflare numa página da CVM salva como fixture de teste.
+- **Busca nos julgados:** `indice.md` com menos de 25 KB; sumário e "Fim do subíndice." nos subíndices; índice por processo (`processo-AAAA.md`) em `julgados-pas` e `julgados-tc-crsfn`; índice por decisão das decisões de 1978 a 2001 (`decisao-antiga-AAAA.md`), sem nome de pessoa física; 5 regras novas na skill `consultar-julgados`. Na rodada de verificação, 3 das 6 perguntas que falhavam passaram a acertar, e os 6 controles se mantiveram (`VERIFICACAO.md`). `scripts/bateria.py` versiona o runner da bateria.
 - **Correções:** as da v1.1.1, abaixo, seguem valendo.
 
 ## v1.1.1 (2026-11-04)
