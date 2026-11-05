@@ -19,6 +19,8 @@ Em construção (repositório privado). Acervo atual, em camadas declaradas (dat
 
 6. **Julgados (v1.1):** 14.990 julgados em 5 plugins `julgados-*`: 1.419 PAS julgados pela CVM, 10.501 decisões do Colegiado (2002 em diante), 1.714 termos de compromisso, 1.332 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Cada julgado traz o texto da fonte, processo, data, relator, resultado, ementa (a da CVM ou do CRSFN, ou extraída por LLM e marcada `ementa_fonte: extracao`), tema e as normas citadas, com índices por ano, por tema e por norma, e o índice reverso de citações no plugin `normas`. Dados pessoais (CPF, RG, endereço, qualificação, testemunhas) saem do texto; o nome da parte fica. Julgado não é norma: diz o que a CVM ou o CRSFN decidiu num caso, com a redação das normas da época.
 
+   **PAS de 2022 em diante.** A listagem de PAS julgados da CVM para em 2025-05 e não traz parte dos julgados de 2022 a 2025. Esse período entra também pelas notícias de resultado e pelos extratos de sessão do SEI (`scripts/julgados_noticias.py`): a base tem 264 PAS julgados de 2022 a 2025 e 25 de 2026 (data-base 2026-11-05). A ausência de um julgado na base não prova que ele não exista.
+
 Cada norma informa o nível de verificação (`nivel_verificacao`): 38 normas têm histórico por ato desde a publicação original, um commit por ato com a data do DOU: 37 Resoluções CVM (o núcleo de fundos e securitização, 17, 21, 30, 50, 60, 80, 160 e 175, e as substantivas 6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88, 135, 161, 166, 193, 210, 215 e 232) e a Instr. CVM 489; as demais têm o texto vigente convertido por script do consolidado ou do ato publicado pela CVM, ou do compilado do Planalto.
 
 Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
@@ -113,6 +115,21 @@ Para quem for usar com um assistente de IA, ver `COMECE-AQUI.md`. No Claude Code
 
 Os plugins de julgados são independentes: instale só os períodos e tipos que usar (`julgados-colegiado-2002-2008` e `julgados-colegiado-2009-2015` para decisões mais antigas).
 
-## Licença
+## Licenças, dados pessoais e retirada
 
-Texto e dados: CC BY 4.0 (`LICENSE`), salvo a pasta `plugins/normas/normas/autorregulacao/` (camada 5), que reproduz texto de titularidade da ANBIMA e da B3, não está sob nenhuma licença deste repositório e sai a pedido delas (ver o README da pasta). Código: MIT (`LICENSE-codigo`).
+**Atos oficiais.** Os textos de leis, decretos, resoluções, pareceres, ofícios e decisões da CVM, do CRSFN, do CMN e do BCB não são objeto de direito autoral (Lei 9.610/98, art. 8º, IV: "os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais"). O que este repositório acrescenta a eles tem licença própria.
+
+**O trabalho do repositório: CC BY 4.0** (`LICENSE`). Seleção, estrutura, frontmatter, índices, mapas, histórico por ato, notas e divergências. Pode copiar e adaptar, com atribuição.
+
+**Código: MIT** (`LICENSE-codigo`). Os scripts em `scripts/`.
+
+**Autorregulação (camada 5).** A pasta `plugins/normas/normas/autorregulacao/` não está sob nenhuma licença deste repositório: reproduz texto de titularidade da ANBIMA e da B3, para uso informativo e não comercial, e sai a pedido delas. O pedido segue o formulário abaixo; mais detalhes no README da pasta.
+
+**Julgados.** São atos oficiais da CVM e do CRSFN, com o texto da fonte. O dado pessoal (CPF, RG, endereço, e-mail, telefone, data de nascimento, dados bancários, qualificação pessoal e nome de testemunha) é cortado e marcado `[dado pessoal retirado]`, pela política do `SPEC.md` (seção Julgados, subseção Corpo). Nome de parte, relator e demais agentes do processo ficam, nos termos do `SPEC.md`. O titular que queira a retirada de dado seu pede pelo formulário.
+
+**Retirada.** O pedido é só pelo [formulário `retirada`](https://github.com/dmarcheti/normas-mercado-capitais/issues/new?template=retirada.yml) das issues do repositório. O projeto não tem e-mail de contato.
+- **Não escreva o dado pessoal na issue**, que é pública. Informe o id ou o caminho do documento e o tipo de dado (por exemplo, "CPF" ou "endereço").
+- O mantenedor atende o pedido e apaga a issue depois.
+- A retirada vale da versão corrente em diante. Versões anteriores do histórico do Git e cópias de terceiros podem conter o texto.
+
+**Aviso.** Este material não é aconselhamento jurídico. A fonte oficial prevalece, e cada norma traz o link para ela no frontmatter (`fonte_original` e `fonte_consolidada`). Veja também a seção Aviso, no início.

@@ -411,8 +411,9 @@ class TestJob(Base):
             self.assertNotIn("--no-verify", c)
 
     def test_exclui_ids_em_pr_aberto(self):
-        prs = [{"number": 3, "headRefName": "auto/item-cvm-res-250", "body": "", "labels": []},
-               {"number": 4, "headRefName": "auto/2026-11-03",
+        prs = [{"number": 3, "headRefName": "auto/item-cvm-res-250", "body": "", "labels": [],
+                "isCrossRepository": False},
+               {"number": 4, "headRefName": "auto/2026-11-03", "isCrossRepository": False,
                 "body": "x\n" + job.MARCADOR % json.dumps({"ids": ["bcb-res-9", "pas-1"]}), "labels": []}]
         _, sim, j = self.rodar(prs=prs)
         det = sim.cmds("python3", "scripts/detectar.py")[0]
@@ -420,6 +421,34 @@ class TestJob(Base):
         with open(arq) as f:
             self.assertEqual(json.load(f), ["bcb-res-9", "cvm-res-250", "pas-1"])
         self.assertEqual(det[det.index("--frequencia") + 1], "todas")
+
+    def test_pr_de_fork_nao_bloqueia_item(self):
+        marcador = job.MARCADOR % json.dumps({"ids": ["pas-1"]})
+        fork = {"number": 8, "headRefName": "auto/item-x", "body": marcador, "labels": [],
+                "isCrossRepository": True}
+        proprio = {"number": 9, "headRefName": "auto/item-y", "body": marcador, "labels": [],
+                   "isCrossRepository": False}
+        fora_de_auto = {"number": 10, "headRefName": "minha-mudanca", "body": marcador, "labels": [],
+                        "isCrossRepository": False}
+        sem_campo = {"number": 11, "headRefName": "auto/item-z", "body": marcador, "labels": []}
+        self.assertEqual(job.ids_de_prs([fork]), [])
+        self.assertEqual(job.ids_de_prs([fora_de_auto]), [])
+        self.assertEqual(job.ids_de_prs([sem_campo]), [])  # campo ausente: trata como de fora
+        self.assertEqual(job.ids_de_prs([proprio]), ["pas-1", "y"])
+        # pela execução inteira: o detector só recebe o que é do próprio repo
+        _, sim, _ = self.rodar(prs=[fork])
+        det = sim.cmds("python3", "scripts/detectar.py")[0]
+        with open(det[det.index("--excluir-ids") + 1]) as f:
+            self.assertEqual(json.load(f), [])
+        _, sim, _ = self.rodar(prs=[proprio])
+        det = sim.cmds("python3", "scripts/detectar.py")[0]
+        with open(det[det.index("--excluir-ids") + 1]) as f:
+            self.assertEqual(json.load(f), ["pas-1", "y"])
+
+    def test_gh_pr_list_pede_o_campo_de_fork(self):
+        _, sim, _ = self.rodar()
+        cmd = sim.gh_cmds("pr", "list")[0]
+        self.assertIn("isCrossRepository", cmd[cmd.index("--json") + 1])
 
     def test_toda_execucao_e_completa_e_publica(self):
         for dia in (HOJE, QUINTA, "2026-11-09"):
@@ -591,7 +620,7 @@ class TestJob(Base):
     def test_job_nunca_faz_merge_de_pr_de_item(self):
         self.cfg({"sombra": False, "classes_automaticas": ["A", "B1", "C", "H", "J", "publicar"]})
         diogo = [{"id": "cvm-res-251", "chave": "cvm-res-251|C|cvm-res-175", "classe": "C", "motivo": "replay manual"}]
-        prs = [{"number": 5, "headRefName": "auto/item-cvm-res-9", "labels": [{"name": "aguarda-consolidado"}],
+        prs = [{"number": 5, "headRefName": "auto/item-cvm-res-9", "isCrossRepository": False, "labels": [{"name": "aguarda-consolidado"}],
                 "body": job.MARCADOR % json.dumps({"ids": ["cvm-res-9"], "classe": "C", "norma_alvo": ["cvm-res-175"]})}]
         det = {"fontes": {}, "itens": [{"id": "x", "classe": "B", "norma_alvo": ["cvm-res-175"],
                                         "dados": {"consolidado_novo": True}}]}
@@ -610,7 +639,8 @@ class TestJob(Base):
         self.assertEqual([c[-1] for c in push], ["HEAD:refs/heads/auto/item-pas-9-20261104-2"])
         for c in push:
             self.assertFalse([x for x in c if x in ("--delete", "-d", "--force", "-f") or x.startswith((":", "+"))], c)
-        self.assertEqual(job.ids_de_prs([{"headRefName": "auto/item-pas-9-20261104-2", "body": ""}]),
+        self.assertEqual(job.ids_de_prs([{"headRefName": "auto/item-pas-9-20261104-2", "body": "",
+                                          "isCrossRepository": False}]),
                          ["pas-9", "pas-9-20261104-2"])
 
     def test_issue_de_fonte_sem_duplicar(self):

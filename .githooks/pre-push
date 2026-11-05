@@ -1,0 +1,7 @@
+#!/bin/sh
+# Recusa o push de branch que contém commit do histórico antigo. Ativar em clone novo:
+#   git config core.hooksPath .githooks
+#   git config normas.historicoAntigo /caminho/para/historico-antigo.txt   (um sha por linha)
+# Sem a segunda config, o hook só avisa e deixa passar. Lê de stdin as linhas do protocolo do pre-push.
+raiz=$(git rev-parse --show-toplevel) || exit 1
+exec python3 "$raiz/scripts/pre_push.py"

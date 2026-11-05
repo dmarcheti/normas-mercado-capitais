@@ -1,3 +1,7 @@
 # Falso positivo: link público da London Stock Exchange com o ISIN no parâmetro fourWayKey,
 # citado em nota de rodapé do PAS CVM 17/2006 (julgado de 2013).
 c733cfafecb7b73037986b5123cfb37f204689c7:plugins/julgados-pas/julgados/cvm/pas/2013/17-2006.md:generic-api-key:1453
+
+# Falso positivo: token público do beacon de analytics do Cloudflare, embutido na página da CVM
+# salva como fixture de teste (Res. CVM 17).
+9644db85cc21f3d9f31100e628a48bf5b8a66685:tests/fixtures/resol017.html:generic-api-key:1978

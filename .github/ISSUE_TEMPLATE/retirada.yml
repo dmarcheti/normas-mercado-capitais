@@ -1,0 +1,36 @@
+name: Pedido de retirada
+description: Pedir a retirada de dado pessoal de um julgado ou de texto da ANBIMA ou da B3 do acervo.
+title: "Retirada: "
+labels: [retirada]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Não escreva o dado pessoal nesta issue.** Informe só o id ou o caminho do documento e o tipo de dado (por exemplo, "CPF", "endereço" ou "nome de testemunha"). A issue é pública.
+
+        O mantenedor atende o pedido na versão corrente do repositório e apaga esta issue depois. Versões anteriores do histórico do Git e cópias de terceiros podem conter o texto.
+  - type: input
+    id: documento
+    attributes:
+      label: Id ou caminho do documento
+      description: O id está no cabeçalho do arquivo (campo `id`); o caminho é o do arquivo no repositório.
+      placeholder: "cvm-pas-..., ou plugins/.../arquivo.md"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de pedido
+      options:
+        - Dado pessoal em julgado
+        - Texto da ANBIMA ou da B3 (titular)
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Motivo (curto)
+      description: Diga o tipo de dado, sem reproduzi-lo. Para pedido do titular da ANBIMA ou da B3, indique quem pede e por qual entidade.
+    validations:
+      required: false

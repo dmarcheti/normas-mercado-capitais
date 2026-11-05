@@ -11,7 +11,7 @@ Esta pasta reúne, em texto integral, os códigos, regras e procedimentos, regul
 
 ## Retirada a pedido
 
-Se a ANBIMA ou a B3 pedirem, o texto sai do acervo. Para pedir a retirada, abra uma issue com o rótulo `retirada` em https://github.com/dmarcheti/normas-mercado-capitais/issues, indicando o documento.
+Se a ANBIMA ou a B3 pedirem, o texto sai do acervo. Para pedir a retirada, use o formulário https://github.com/dmarcheti/normas-mercado-capitais/issues/new?template=retirada.yml, indicando o id ou o caminho do documento. O projeto não tem e-mail de contato.
 
 A retirada vale para a versão corrente do repositório. O texto continua nas versões anteriores do histórico do Git e nas cópias que terceiros já tenham feito.
 

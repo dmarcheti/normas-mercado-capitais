@@ -20,7 +20,8 @@ Uma execução:
      dados/ do clone); aqui: branch `auto/AAAA-MM-DD` a partir de `origin/main`, `git clean -fd -e
      dados` e conferência do link (`dados/` real no worktree: falha);
   b. ids em PR aberto (`gh pr list`: branch `auto/item-<id>` e o marcador do corpo) vão ao
-     `--excluir-ids` do detector;
+     `--excluir-ids` do detector; só contam PRs do próprio repo (`isCrossRepository` false) e de
+     branch `auto/*`: PR de fork não bloqueia item;
   c. detectar.py (sempre `--frequencia todas`: toda execução é completa), com `--execucao-id`
      conferido no deteccao.json (o anterior é apagado antes), e atualizar.py, com `--sombra` enquanto
      `fontes/automacao.json` disser {"sombra": true}; `--sem-llm` se o `claude` não responder;
@@ -304,10 +305,17 @@ def checar_agenda(clone, estado_arq, agora=None, forcar=False, saida=None):
     return 0
 
 
+def pr_proprio(pr):
+    """PR do próprio repo (não de fork) e de branch `auto/*`. Com o repo público, PR de fora com
+    branch `auto/item-x` ou o marcador no corpo não pode bloquear item. Sem o campo
+    `isCrossRepository` (ou diferente de False) o PR conta como de fora."""
+    return pr.get("isCrossRepository") is False and (pr.get("headRefName") or "").startswith("auto/")
+
+
 def ids_de_prs(prs):
-    """Ids que estão em PR aberto: branch `auto/item-<id>` e o marcador do corpo."""
+    """Ids que estão em PR aberto do próprio repo: branch `auto/item-<id>` e o marcador do corpo."""
     ids = set()
-    for pr in prs:
+    for pr in filter(pr_proprio, prs):
         ref = pr.get("headRefName") or ""
         if ref.startswith("auto/item-"):
             resto = ref[len("auto/item-"):]
@@ -469,7 +477,7 @@ class Job:
     # -- b. PRs abertos
     def prs_abertos(self):
         rc, out, _ = self.gh("pr", "list", "--state", "open", "--limit", "500",
-                             "--json", "number,headRefName,body,labels")
+                             "--json", "number,headRefName,body,labels,isCrossRepository")
         if rc != 0:
             raise Falha("gh pr list falhou: sem a lista de PRs abertos, o detector repetiria itens")
         return json.loads(out or "[]")
