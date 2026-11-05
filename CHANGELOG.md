@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## Dados de 2026-11-04 (itens da verificação aplicados em 2026-11-05)
+
+- Dados até 2026-11-04: 635 atos, 14991 julgados; Res. BCB 102 (versão 6) e D3649 do Colegiado.
+- Versões: `normas` 1.1.3, `julgados-colegiado-2016-2026` 0.5.1.
+
 ## Dados de 2026-11-04
 
 - Dados até 2026-11-04: 635 atos, 14990 julgados.

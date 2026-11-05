@@ -11,7 +11,7 @@
       "name": "normas",
       "source": "./plugins/normas",
       "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo. Material não oficial.",
-      "version": "1.1.2"
+      "version": "1.1.3"
     },
     {
       "name": "julgados-pas",
@@ -41,7 +41,7 @@
       "name": "julgados-colegiado-2016-2026",
       "source": "./plugins/julgados-colegiado-2016-2026",
       "description": "Decisões do Colegiado da CVM de 2016 em diante (recursos, consultas, dispensas, registros), com data, resultado e dispositivos citados. Material não oficial.",
-      "version": "0.5.0"
+      "version": "0.5.1"
     }
   ]
 }
