@@ -13,6 +13,7 @@
 - **Documentação:** seção "Atualização" no `README.md`, seção "Atualização automática" no `VERIFICACAO.md` e nota sobre a data de conferência no `COMECE-AQUI.md`. As taxas de erro publicadas medem a construção, não cada atualização.
 - **Código de Negociação de Instrumentos Financeiros da ANBIMA:** a versão vigente desde 2024-11-01 entra no acervo (a ANBIMA passa a 39 documentos). Faltava desde o inventário da camada 5, que só listou as versões anteriores; achado pela primeira verificação da atualização automática.
 - **Regras e Procedimentos do Código de Negociação da ANBIMA:** a versão de 2024 (publicada em 08/10/2024) substitui a de 2021, que seguia no acervo; primeira atualização aplicada pela verificação automática. No bloco Nº 01, o antigo Art. 6º virou §2º do Art. 5º e a ANBIMA não renumerou: o bloco passa do Art. 5º ao 7º, como no PDF.
+- **Res. BCB 102 (informações ao FGC):** Tabela II com a redação da Res. BCB nº 572/2026, vigente desde 1º/11/2026 (versão 6 do texto compilado pelo BCB). A atualização automática registra a decisão "HTML, sem PDF na API" quando o BCB não publica PDF da norma; antes, a falta da decisão bloqueava o item.
 - **Correções:** as da v1.1.1, abaixo, seguem valendo.
 
 ## v1.1.1 (2026-11-04)

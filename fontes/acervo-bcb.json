@@ -14500,12 +14500,12 @@
    "situacao": "vigente",
    "url_pagina": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o+BCB&numero=102",
    "dou": "2021-06-09",
-   "versao": 5.0,
+   "versao": 6.0,
    "formato": "html",
-   "palavras": 6331,
-   "bytes_html": 207948,
-   "tachado": 144,
-   "tabelas": 5,
+   "palavras": 6677,
+   "bytes_html": 212788,
+   "tachado": 154,
+   "tabelas": 6,
    "documentos": "",
    "atualizacoes": [
     "Resolução BCB nº 377/2024 - Alteração a partir de 1º/6/2024 - Nova redação: ementa; art. 1º, incisos I, \"b\", e II; art. 4º, § 3º; art. 6º, parágrafo único; art. 9º, §§ 1º e 6º; art. 11; art. 12, § 2º; e art. 13, caput e parágrafo único. Inclusão: art. 1º, inciso III; art. 9º, § 7º; e Capítulo III-A. Revogação: art. 11, parágrafo único.",
@@ -14513,6 +14513,13 @@
     "Resolução BCB nº 377/2024 - Alteração a partir de 1º/1/2025 - Nova redação: art. 2º, incisos V e VI e parágrafo único; art. 3º, incisos VII e VIII e parágrafo único; e Tabela III do anexo. Inclusão: art. 2º, incisos VII a XI; e art. 3º, incisos IX a XV.",
     "Resolução BCB nº 572/2026 - Nova redação: ementa; art. 1º, incisos II e III; denominação do Capítulo II; art. 7º; art. 8º, inciso III; art. 9º, incisos I e III; art. 13-A, caput; e art. 14. Inclusão: art. 1º, inciso IV; arts. 4º-A e 4º-B; e art. 13-A, incisos I e II e §§ 1º a 7º.",
     "Resolução BCB nº 572/2026 - Alteração a partir de 1º/11/2026 - Nova redação: Tabela II do anexo."
+   ],
+   "dou_texto": "Publicada no DOU de 9/6/2021, Seção 1, p. 214-216.",
+   "referencias": [
+    "Lei nº 4.595/1964, art. 9º.",
+    "Lei nº 12.810/2013, arts. 22 e 28.",
+    "Resolução CMN nº 4.222/2013.",
+    "Revoga, a partir de 1º/7/2021, Circulares BCB ns. 3.666/2013, 3.915/2018, 3.929/2019, 3.972/2019 e 4.023/2020."
    ]
   },
   {
