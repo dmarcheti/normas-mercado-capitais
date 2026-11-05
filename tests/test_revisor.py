@@ -74,6 +74,14 @@ class Base(unittest.TestCase):
         return run
 
 
+RESULT = json.dumps({"type": "result", "total_cost_usd": 0.25})
+
+
+def uso(nome, **entrada):
+    return json.dumps({"type": "assistant", "message": {"content": [
+        {"type": "tool_use", "name": nome, "input": entrada}]}})
+
+
 def todos_ok(ids):
     return [{"id": i, "ok": True, "alertas": []} for i in ids]
 
@@ -303,7 +311,7 @@ class ExecucaoTest(Base):
         def run(cmd, input=None, cwd=None, **kw):
             with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
                 f.write("[{")
-            return subprocess.CompletedProcess(cmd, 0, stdout="", stderr="")
+            return subprocess.CompletedProcess(cmd, 0, stdout=RESULT, stderr="")
 
         r, infos, _ = self.revisar(itens, run)
         self.assertEqual(r["cvm-col-20250001-d1"]["alertas"][0]["tipo"], rv.SEM_RESPOSTA)
@@ -315,6 +323,84 @@ class ExecucaoTest(Base):
             r, infos, _ = self.revisar(itens, mock.Mock(side_effect=erro))
             self.assertEqual(r["cvm-col-20250001-d1"]["alertas"][0]["tipo"], rv.SEM_RESPOSTA)
             self.assertTrue(infos[0]["erro"])
+
+    def test_comando_tem_as_flags_de_isolamento(self):
+        cmd = rv.je.comando("sonnet")
+        for flag in ("--restricted", "--safe-mode", "--strict-mcp-config", "--no-session-persistence"):
+            self.assertIn(flag, cmd)
+        self.assertEqual(cmd[cmd.index("--permission-prompts") + 1], "none")
+        self.assertNotIn("--add-dir", cmd)
+        self.assertNotIn("--dangerously-skip-permissions", cmd)
+        self.assertNotIn("bypassPermissions", cmd)
+
+    def reprovado(self, log=None, erro=None):
+        """O modelo grava saida.json válido (todos ok), mas o log (ou a exceção) reprova o lote:
+        todo item sai sem resposta e o saida.json não vai para o log."""
+        itens = [rv.item_julgado(self.julgado("cvm-col-2025000%d-d%d" % (n, n))) for n in (1, 2)]
+
+        def run(cmd, input=None, cwd=None, **kw):
+            with open(os.path.join(cwd, "saida.json"), "w", encoding="utf-8") as f:
+                json.dump(todos_ok([i["id"] for i in itens]), f)
+            if erro is not None:
+                raise erro
+            return subprocess.CompletedProcess(cmd, 0, stdout=log, stderr="")
+
+        r, infos, pasta = self.revisar(itens, run)
+        for x in r.values():
+            self.assertFalse(x["ok"])
+            self.assertEqual([a["tipo"] for a in x["alertas"]], [rv.SEM_RESPOSTA])
+        self.assertFalse(infos[0]["saida"])
+        self.assertIn("lote reprovado", infos[0]["erro"])
+        self.assertFalse(os.path.exists(os.path.join(pasta, "lote-001", "saida.json")))
+        return infos[0]
+
+    def test_lote_com_escrita_fora_da_pasta_e_reprovado(self):
+        info = self.reprovado("\n".join([uso("Write", file_path="../fora.txt", content="x"), RESULT]))
+        self.assertIn("fora da pasta", info["erro"])
+
+    def test_log_vazio_com_saida_e_reprovado(self):
+        self.assertIn("sem evento result", self.reprovado("")["erro"])
+
+    def test_log_truncado_sem_result_e_reprovado(self):
+        info = self.reprovado(uso("Read", file_path="lote.json") + "\n")
+        self.assertEqual(len(info["reprovado"]), 1)
+        self.assertIn("sem evento result", info["erro"])
+
+    def test_linha_que_nao_e_json_no_meio_e_reprovada(self):
+        info = self.reprovado("\n".join([uso("Read", file_path="lote.json"), "nao e json", RESULT]))
+        self.assertEqual(info["reprovado"], ["1 linha(s) do stream-json que não são JSON"])
+
+    def test_ferramenta_fora_de_read_e_write_e_reprovada(self):
+        info = self.reprovado("\n".join([uso("Bash", command="cat ~/.ssh/id_rsa"), RESULT]))
+        self.assertEqual(info["reprovado"], ["ferramenta fora de Read e Write: Bash"])
+
+    def test_timeout_com_saida_parcial_e_reprovado(self):
+        info = self.reprovado(erro=subprocess.TimeoutExpired("claude", 900))
+        self.assertIn("TimeoutExpired", info["erro"])
+
+    def test_log_limpo_aceita(self):
+        base = self.trabalho
+        log = "\n".join([json.dumps({"type": "system", "subtype": "init"}), "",
+                         uso("Read", file_path=os.path.join(base, "lote.json")),
+                         uso("Write", file_path="saida.json", content="[]"), RESULT])
+        self.assertEqual(rv.je.problemas_do_log(log, base), [])
+
+    def test_caminhos_fora_da_pasta(self):
+        base = self.trabalho
+
+        def ev(nome, **entrada):
+            return json.dumps({"type": "assistant", "message": {"content": [
+                {"type": "tool_use", "name": nome, "input": entrada}]}})
+
+        log = "\n".join([ev("Read", file_path="lote.json"),
+                         ev("Write", file_path=os.path.join(base, "saida.json")),
+                         ev("Read", file_path="../../etc/passwd"),
+                         ev("Write", file_path="~/x.txt"),
+                         ev("Glob", path="/private/tmp"),
+                         "lixo que não é json"])
+        self.assertEqual(rv.je.caminhos_fora(log, base),
+                         ["../../etc/passwd", "~/x.txt", "/private/tmp"])
+        self.assertEqual(rv.je.caminhos_fora("", base), [])
 
     def test_alerta_do_modelo_chega_ao_resultado(self):
         itens = [rv.item_julgado(self.julgado("cvm-col-20250001-d1"))]

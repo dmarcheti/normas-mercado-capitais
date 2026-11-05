@@ -16,7 +16,9 @@ lixo-conversao, dado-pessoal.
     python3 scripts/revisor.py --norma-diff a.diff,b.diff [--ato ato-a.txt,ato-b.txt]
 
 Lotes de até 10 itens, cada um numa pasta de trabalho fora do cofre e do repositório (a mesma
-execução isolada de `julgados_extracao`: `claude -p --tools Read,Write`). Valida o `saida.json`
+execução isolada de `julgados_extracao`: `claude -p --tools Read,Write` com `je.ISOLAMENTO`, sem
+a configuração do usuário e com a escrita confinada à pasta; lote sem retorno, ou cujo stream-json
+não passa em `je.problemas_do_log`, é reprovado, todo item sem resposta). Valida o `saida.json`
 (todo id do lote presente, tipos da lista fechada). Item sem resposta válida vira o alerta
 `revisor-sem-resposta`, nunca ok. Diff de norma acima de 40.000 caracteres é cortado e o
 item sai com o alerta `revisor-parcial`, nunca ok. Imprime {id: {ok, alertas}} em JSON; sai com 1 se algum item
@@ -240,7 +242,14 @@ def rodar_lote(itens, modelo=MODELO, pasta_log=None, trabalho=None, timeout=900)
                     with open(os.path.join(pasta_log, "stderr.txt"), "w", encoding="utf-8") as f:
                         f.write(r.stderr)
         caminho = os.path.join(work, "saida.json")
-        if os.path.exists(caminho):
+        # falha fechada: sem retorno (timeout, claude ausente) ou log que não passa na conferência,
+        # o lote é reprovado mesmo com saida.json (parcial) na pasta; todo item sem resposta
+        problemas = (["execução sem retorno (%s)" % info["erro"]] if r is None
+                     else je.problemas_do_log(r.stdout or "", work))
+        info["reprovado"] = problemas
+        if problemas:
+            info["erro"] = "lote reprovado: %s" % "; ".join(problemas)
+        elif os.path.exists(caminho):
             info["saida"] = True
             try:
                 with open(caminho, encoding="utf-8") as f:

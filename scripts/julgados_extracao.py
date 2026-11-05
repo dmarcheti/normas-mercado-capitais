@@ -385,11 +385,88 @@ def pasta_de_trabalho(trabalho=None):
     return tempfile.mkdtemp(prefix="julgados-extracao-", dir=base)
 
 
+# Isolamento do `claude -p` (Fase 4, antes do merge automático dos julgados), conferido no
+# `claude --help` da 2.1.311 e numa chamada real:
+# --restricted   ignora os settings do usuário, do projeto e locais (hooks, plugins habilitados,
+#                env) e confina Read e Write às pastas de trabalho (só o cwd: sem --add-dir);
+# --safe-mode    desliga CLAUDE.md, skills, plugins instalados, hooks, MCP e agentes do usuário;
+# --strict-mcp-config  nenhum servidor MCP (não há --mcp-config);
+# --permission-prompts none  o que pediria permissão é negado, ninguém aprova.
+# --bare ficou de fora: exige ANTHROPIC_API_KEY (não lê OAuth nem Keychain, onde está a credencial).
+ISOLAMENTO = ("--restricted", "--safe-mode", "--strict-mcp-config", "--permission-prompts", "none")
+# A conferência do log olha só file_path, path e notebook_path: vale porque `--tools` é Read,Write
+# (as duas usam file_path). Qualquer outra ferramenta no log reprova o lote por si.
+FERRAMENTAS = ("Read", "Write")
+CHAVES_CAMINHO = ("file_path", "path", "notebook_path")
+
+
 def comando(modelo):
-    return ["claude", "-p", "--model", modelo, "--tools", "Read,Write",
-            "--allowedTools", "Read,Write", "--permission-mode", "acceptEdits",
-            "--strict-mcp-config", "--output-format", "stream-json", "--verbose",
-            "--no-session-persistence"]
+    return (["claude", "-p", "--model", modelo, "--tools", "Read,Write",
+             "--allowedTools", "Read,Write", "--permission-mode", "acceptEdits"]
+            + list(ISOLAMENTO)
+            + ["--output-format", "stream-json", "--verbose", "--no-session-persistence"])
+
+
+def _eventos(log):
+    """(eventos, linhas não vazias que não são um objeto JSON)."""
+    eventos, ruins = [], 0
+    for linha in (log or "").splitlines():
+        if not linha.strip():
+            continue
+        try:
+            ev = json.loads(linha)
+        except ValueError:
+            ev = None
+        if isinstance(ev, dict):
+            eventos.append(ev)
+        else:
+            ruins += 1
+    return eventos, ruins
+
+
+def _usos(eventos):
+    for ev in eventos:
+        if ev.get("type") != "assistant":
+            continue
+        for bloco in (ev.get("message") or {}).get("content") or []:
+            if isinstance(bloco, dict) and bloco.get("type") == "tool_use":
+                yield bloco
+
+
+def caminhos_fora(log, pasta):
+    """Caminhos das chamadas de ferramenta do stream-json que caem fora de `pasta` (relativo conta
+    a partir dela). Conta também a tentativa negada."""
+    base = os.path.realpath(pasta)
+    fora = []
+    for bloco in _usos(_eventos(log)[0]):
+        entrada = bloco.get("input") if isinstance(bloco.get("input"), dict) else {}
+        for chave in CHAVES_CAMINHO:
+            valor = entrada.get(chave)
+            if not isinstance(valor, str) or not valor:
+                continue
+            p = os.path.realpath(os.path.join(base, os.path.expanduser(valor)))
+            if p != base and not p.startswith(base + os.sep):
+                fora.append(valor)
+    return fora
+
+
+def problemas_do_log(log, pasta):
+    """Motivos para reprovar o lote pelo stream-json; lista vazia = aceito. Falha fechada: o log
+    precisa ter o evento `result` e só linhas JSON; ferramenta fora de Read e Write, ou com caminho
+    fora da pasta (mesmo negada), reprova."""
+    eventos, ruins = _eventos(log)
+    problemas = []
+    if not any(ev.get("type") == "result" for ev in eventos):
+        problemas.append("stream-json sem evento result (vazio ou truncado)")
+    if ruins:
+        problemas.append("%d linha(s) do stream-json que não são JSON" % ruins)
+    outras = sorted({str(b.get("name")) for b in _usos(eventos) if b.get("name") not in FERRAMENTAS})
+    if outras:
+        problemas.append("ferramenta fora de Read e Write: %s" % ", ".join(outras))
+    fora = caminhos_fora(log, pasta)
+    if fora:
+        problemas.append("ferramenta com caminho fora da pasta de trabalho: %s" % ", ".join(fora[:5]))
+    return problemas
 
 
 def custo(log):
@@ -428,18 +505,30 @@ def rodar_lote(pasta_lote, modelo, trabalho=None, timeout=900, reforco=""):
                "nesta pasta, conforme as regras acima, e nada mais.\n")
     work = pasta_de_trabalho(trabalho)
     shutil.copy(os.path.join(pasta_lote, "lote.json"), os.path.join(work, "lote.json"))
-    r = subprocess.run(comando(modelo), input=prompt, cwd=work, capture_output=True, text=True,
-                       timeout=timeout)
+    try:
+        r = subprocess.run(comando(modelo), input=prompt, cwd=work, capture_output=True, text=True,
+                           timeout=timeout)
+        codigo, stdout, stderr = r.returncode, r.stdout or "", r.stderr or ""
+        problemas = problemas_do_log(stdout, work)
+    except (OSError, subprocess.SubprocessError) as e:  # timeout: saida.json parcial não vale
+        codigo = "timeout" if isinstance(e, subprocess.TimeoutExpired) else type(e).__name__
+        stdout = e.stdout if isinstance(getattr(e, "stdout", None), str) else ""
+        stderr = "%s: %s" % (type(e).__name__, e)
+        problemas = ["execução sem retorno (%s)" % codigo]
     with open(os.path.join(pasta_lote, "log.jsonl"), "w", encoding="utf-8") as f:
-        f.write(r.stdout or "")
-    if r.stderr:
+        f.write(stdout)
+    if stderr:
         with open(os.path.join(pasta_lote, "stderr.txt"), "w", encoding="utf-8") as f:
-            f.write(r.stderr)
+            f.write(stderr)
     saida = os.path.join(work, "saida.json")
-    if os.path.exists(saida):
+    if problemas:  # lote reprovado: a saída não é usada
+        print("%s: lote reprovado: %s" % (os.path.basename(pasta_lote), "; ".join(problemas)),
+              file=sys.stderr)
+    elif os.path.exists(saida):
         shutil.copy(saida, os.path.join(pasta_lote, "saida.json"))
-    info = {"modelo": modelo, "codigo": r.returncode, "total_cost_usd": custo(r.stdout or ""),
-            "trabalho": work, "saida": os.path.exists(saida)}
+    info = {"modelo": modelo, "codigo": codigo, "total_cost_usd": custo(stdout),
+            "trabalho": work, "saida": os.path.exists(saida) and not problemas,
+            "reprovado": problemas}
     with open(os.path.join(pasta_lote, "execucao.json"), "w", encoding="utf-8") as f:
         json.dump(info, f, ensure_ascii=False, indent=1)
     return info

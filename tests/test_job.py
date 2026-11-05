@@ -15,7 +15,21 @@ from unittest import mock
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
+# antes do import: o job.BASE (estado.json, trava, worktree) vai para uma pasta temporária, nunca o
+# ~/normas-auto real do usuário
+BASE_TESTE = tempfile.mkdtemp(prefix="normas-auto-teste-")
+os.environ["NORMAS_AUTO_BASE"] = BASE_TESTE
+
 import job  # noqa: E402
+
+
+def tearDownModule():
+    """Guarda: nenhum teste deste módulo pode gravar no job.BASE (todo Job e main recebem estado e
+    trava temporários)."""
+    sobra = sorted(os.listdir(BASE_TESTE))
+    shutil.rmtree(BASE_TESTE, ignore_errors=True)
+    if sobra:
+        raise AssertionError("teste gravou no job.BASE: %s" % sobra)
 
 HOJE = "2026-11-04"  # quarta-feira
 QUINTA = "2026-11-05"
@@ -223,7 +237,8 @@ class TestTrava(unittest.TestCase):
         with open(self.cam, "w") as f:
             f.write("%d\n" % os.getppid())
         with mock.patch.object(job, "processo_do_job", return_value=True):
-            self.assertEqual(job.main(["--trava", self.cam, "--hoje", HOJE]), 3)
+            self.assertEqual(job.main(["--trava", self.cam, "--hoje", HOJE,
+                                       "--estado", os.path.join(self.tmp, "estado.json")]), 3)
 
     def test_pid_vivo_que_nao_e_o_job_nao_trava(self):
         os.makedirs(os.path.dirname(self.cam))
@@ -259,7 +274,8 @@ class TestTrava(unittest.TestCase):
 
     def test_main_recusa_rodar_fora_do_worktree(self):
         wt = os.path.join(self.tmp, "wt")
-        rc = job.main(["--trava", self.cam, "--hoje", HOJE, "--worktree", wt, "--clone", self.tmp])
+        rc = job.main(["--trava", self.cam, "--hoje", HOJE, "--worktree", wt, "--clone", self.tmp,
+                       "--estado", os.path.join(self.tmp, "estado.json")])
         self.assertEqual(rc, 1)
         self.assertFalse(os.path.exists(self.cam))  # a trava foi solta
 
@@ -636,14 +652,14 @@ class TestJob(Base):
                 return 1, "", "not logged in"
             return orig(cmd, **kw)
         j = job.Job(self.clone, self.wt, HOJE, rodar=rodar, ambiente={}, dormir=lambda s: None,
-                    agora=lambda: "t", log=lambda m: None)
+                    agora=lambda: "t", log=lambda m: None, estado=self.estado)
         j.executar()
         self.assertIn("--sem-llm", sim.cmds("python3", "scripts/atualizar.py")[0])
         self.assertEqual(sim.variavel("ULTIMO_STATUS"), "LLM indisponível")
 
     def test_push_so_de_auto(self):
         j = job.Job(self.clone, self.wt, HOJE, rodar=lambda *a, **k: (0, "", ""), ambiente={},
-                    log=lambda m: None)
+                    log=lambda m: None, estado=self.estado)
         with self.assertRaises(job.Falha):
             j.push("main")
 
@@ -652,7 +668,7 @@ class TestJob(Base):
             if cmd[:2] == ["git", "ls-remote"]:
                 return 0, "abc\trefs/heads/auto/%s\nabd\trefs/heads/auto/%s-2\n" % (HOJE, HOJE), ""
             return 0, "", ""
-        j = job.Job(self.clone, self.wt, HOJE, rodar=rodar, ambiente={}, log=lambda m: None)
+        j = job.Job(self.clone, self.wt, HOJE, rodar=rodar, ambiente={}, log=lambda m: None, estado=self.estado)
         self.assertEqual(j.branch_do_dia(), "auto/%s-3" % HOJE)
 
     def test_clean_preserva_o_link_de_dados(self):
@@ -671,6 +687,18 @@ class TestJob(Base):
         self.assertEqual(rc, 1)
         self.assertEqual(sim.cmds("python3", "scripts/detectar.py"), [])
         self.assertEqual(sim.cmds("git", "-c"), [])
+
+    def test_guarda_nada_fora_da_pasta_temporaria(self):
+        real = os.path.realpath(os.path.expanduser("~/normas-auto"))
+        self.assertNotEqual(os.path.realpath(job.BASE), real)
+        self.assertEqual(os.path.realpath(job.BASE), os.path.realpath(BASE_TESTE))
+        antes = sorted(os.listdir(BASE_TESTE))
+        self.rodar(auto=[AUTO_H])  # fluxo principal: ok
+        self.rodar(atualizar_rc=2)  # falha
+        self.rodar(det={"fontes": {}, "itens": [{"id": "pas-1", "classe": "J"}]})
+        self.assertEqual(sorted(os.listdir(BASE_TESTE)), antes)
+        self.assertTrue(os.path.exists(self.estado))
+        self.assertTrue(os.path.realpath(self.estado).startswith(os.path.realpath(self.tmp)))
 
     def test_sem_worktree_e_falha(self):
         os.remove(os.path.join(self.wt, ".git"))

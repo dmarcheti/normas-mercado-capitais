@@ -15,7 +15,7 @@ Em construção (repositório privado). Acervo atual, em camadas declaradas (dat
 3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/normas/indices/leis.md`).
 
 4. **CMN e BCB:** 128 normas vigentes que tocam mercado de capitais, fundos, securitização, crédito negociável e instituições do mercado (57 do CMN e 71 do BCB: Resoluções, Resoluções Conjuntas, Circulares, Cartas Circulares e Instruções Normativas), no texto compilado pelo BCB, sem histórico nem conferência contra o DOU: o da busca de normas, ou, nas 26 normas alteradas cujo texto na busca é a redação original, o PDF da última versão compilada (relido em 2026-10-30). Os atos que só alteram essas normas aparecem como verbete. Ficam fora política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas e consórcios, prudencial e PLD; o critério de cada norma está em `fontes/perimetro-camada4.json`.
-5. **Autorregulação:** 38 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/normas/autorregulacao/README.md`.
+5. **Autorregulação:** 39 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/normas/autorregulacao/README.md`.
 
 6. **Julgados (v1.1):** 14.990 julgados em 5 plugins `julgados-*`: 1.419 PAS julgados pela CVM, 10.501 decisões do Colegiado (2002 em diante), 1.714 termos de compromisso, 1.332 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Cada julgado traz o texto da fonte, processo, data, relator, resultado, ementa (a da CVM ou do CRSFN, ou extraída por LLM e marcada `ementa_fonte: extracao`), tema e as normas citadas, com índices por ano, por tema e por norma, e o índice reverso de citações no plugin `normas`. Dados pessoais (CPF, RG, endereço, qualificação, testemunhas) saem do texto; o nome da parte fica. Julgado não é norma: diz o que a CVM ou o CRSFN decidiu num caso, com a redação das normas da época.
 
@@ -23,9 +23,26 @@ Cada norma informa o nível de verificação (`nivel_verificacao`): 38 normas t�
 
 Conferência: `fontes/RESULTADOS.md` (testes por norma) e `fontes/DIVERGENCIAS.md` (onde o histórico e o consolidado da CVM diferem, e por quê).
 
+As datas-base acima são as da construção do acervo. Daqui em diante elas avançam com a atualização quinzenal (seção seguinte).
+
+## Atualização
+
+A cada duas semanas, às quartas-feiras, um processo compara as fontes oficiais (CVM, BCB, Planalto, ANBIMA, B3 e CRSFN) com o acervo e aplica o que mudou. Ele usa os mesmos scripts da construção, com testes e um revisor por IA. A primeira execução agendada é a de 2026-11-18.
+
+Se uma execução não acontece no dia (máquina desligada, feriado), ela roda na primeira oportunidade. Nada se perde, porque a comparação é com o acervo, e não com a execução anterior.
+
+- **Entra sem revisão humana** só o que tem conferência independente: texto convertido por script de fonte oficial, com cobertura de pelo menos 99% e testes verdes.
+- **Passa por revisão humana:** texto lido por OCR, revogação, vigência diferida, norma ou documento novo fora do perímetro, ato que altera uma norma com histórico por ato e qualquer item que o revisor por IA marque.
+- **Hoje, tudo está em período de observação:** o processo propõe e uma pessoa aprova cada mudança.
+- **Ato publicado, consolidado ainda não:** entre a publicação de um ato que altera uma norma e a chegada do texto consolidado oficial, a norma traz um aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice (`plugins/normas/normas/indice.md`). Nesse intervalo, leia o ato alterador junto com a norma.
+- **Versões:** a versão de cada plugin sobe quando o conteúdo dele muda. O claude.ai só baixa o conteúdo novo quando a versão sobe.
+- **Até quando vale:** cada índice traz a linha "Fontes conferidas até AAAA-MM-DD". Espere uma defasagem de até cerca de duas semanas entre a publicação na fonte e a entrada no acervo.
+
+As taxas de erro da seção Verificação medem a construção, não cada atualização. O que se confere em cada atualização está em `VERIFICACAO.md`, seção "Atualização automática".
+
 ## Verificação
 
-Auditoria cega por amostragem em 2026-10-30, nas 5 camadas: 297 itens sorteados (263 na amostra e 34 na re-auditoria) (semente registrada), refeitos ou transcritos por um modelo que só via a fonte, e comparados com o acervo por script. Resultado por camada, método, erros achados e ressalvas em `VERIFICACAO.md`. Em resumo:
+Auditoria cega por amostragem da construção, em 2026-10-30, nas 5 camadas: 297 itens sorteados (263 na amostra e 34 na re-auditoria) (semente registrada), refeitos ou transcritos por um modelo que só via a fonte, e comparados com o acervo por script. Resultado por camada, método, erros achados e ressalvas em `VERIFICACAO.md`. Em resumo:
 
 - Camada 1: zero erro de texto em 114 itens (taxa abaixo de 2,6% com 95% de confiança).
 - Camada 2: zero erro em 22 itens fora do OCR (abaixo de 13,6%). Os 7 ofícios lidos por OCR têm erros pontuais de leitura: confira o PDF da CVM.

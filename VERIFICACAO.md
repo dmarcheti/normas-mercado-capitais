@@ -198,3 +198,42 @@ python3 scripts/auditoria_julgados.py comparar --amostra fontes/amostra-fase3b.j
 
 As fontes ficam em `dados/fase-2d/cache`, fora do Git.
 
+## Atualização automática
+
+As taxas de erro publicadas acima (normas e julgados) medem a construção do acervo, por amostragem. Elas não medem cada atualização quinzenal. A atualização tem a conferência própria descrita aqui.
+
+**O que é conferido em cada atualização**
+
+Entra sem revisão humana só o item que passa por todas as verificações abaixo:
+
+1. A conversão foi feita por script, a partir de fonte oficial, e há uma segunda leitura independente do mesmo texto que cobre pelo menos 99% dele.
+2. Os testes automáticos do repositório passam, inclusive a validação dos arquivos e a conferência dos índices.
+3. Nenhum CPF, RG ou caractere de controle aparece nos arquivos alterados.
+4. Um revisor por IA, que só vê os insumos do lote, não marca nada.
+5. A mudança toca só os arquivos esperados para os itens detectados, e nenhum julgado existente é reescrito.
+6. Nas normas alteradas por ato, o texto novo se explica pelo ato: toda linha nova aparece nele.
+
+Se uma verificação falha, a mudança não entra sozinha e fica à espera de uma pessoa, com o motivo anotado.
+
+**O que vai para revisão humana**
+
+- texto lido por OCR;
+- revogação de norma;
+- vigência diferida (dispositivo com data própria para entrar em vigor);
+- norma ou documento novo fora do perímetro do acervo (a decisão de incluir é de uma pessoa);
+- ato que altera uma norma com histórico por ato (o histórico é reconstruído por IA e conferido contra o consolidado oficial);
+- qualquer item que o revisor por IA marque.
+
+**Período de observação**
+
+Hoje todas as mudanças estão em período de observação: o processo propõe e uma pessoa aprova cada uma, inclusive as que cumpririam o critério acima. O critério só passa a valer sem aprovação depois desse período.
+
+**Entre o ato e o consolidado**
+
+Quando um ato altera uma norma e o texto consolidado oficial ainda não saiu, o arquivo da norma continua com a redação anterior. Ela traz um aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice. Confira o ato alterador antes de citar o dispositivo.
+
+**Limites**
+
+- A defasagem esperada é de até cerca de duas semanas entre a publicação na fonte e a entrada no acervo. O índice de cada plugin informa "Fontes conferidas até AAAA-MM-DD".
+- A conferência da atualização é por regra e por testes, não por auditoria cega de amostra. Uma nova auditoria por amostragem dará taxas novas, publicadas nesta página com a data.
+- Ressalvas de fonte já registradas (OCR, ordem de linha no PDF, Glossário ANBIMA) valem também para itens novos da mesma natureza.

@@ -15,6 +15,7 @@ Autorregulação: texto de titularidade da entidade, uso informativo (ver `autor
 | Código de Ofertas Públicas | 2024-07-15 | 2026-10-29 | autorregulacao/anbima/codigo-de-ofertas-publicas.md |
 | Código de Serviços Qualificados | 2026-03-23 | 2026-10-29 | autorregulacao/anbima/codigo-de-servicos-qualificados.md |
 | Código dos Processos | 2024-02-01 | 2026-10-29 | autorregulacao/anbima/codigo-dos-processos.md |
+| Código Negociação de Instrumentos Financeiros | 2024-11-01 | 2026-11-04 | autorregulacao/anbima/codigo-negociacao-de-instrumentos-financeiros.md |
 
 ## Regras e procedimentos
 

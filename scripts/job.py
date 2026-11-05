@@ -68,7 +68,8 @@ import montar_historico as mh  # noqa: E402
 
 REPO_GH = "dmarcheti/normas-mercado-capitais"
 CLONE_PADRAO = os.path.normpath(os.path.join(AQUI, ".."))
-BASE = os.path.expanduser("~/normas-auto")
+# estado.json, trava, worktree e logs; NORMAS_AUTO_BASE desvia tudo (os testes usam pasta temporária)
+BASE = os.path.expanduser(os.environ.get("NORMAS_AUTO_BASE") or "~/normas-auto")
 AUTO_NOME = "Atualizacao automatica"
 AUTO_EMAIL = "auto@normas-mercado-capitais.invalid"
 TOKEN_SERVICO = "normas-auto-token"

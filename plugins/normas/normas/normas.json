@@ -5204,6 +5204,16 @@
     "baixado_em": "2026-10-29"
   },
   {
+    "id": "anbima-codigo-negociacao-de-instrumentos-financeiros",
+    "tipo": "codigo-autorregulacao",
+    "titulo": "Código Negociação de Instrumentos Financeiros",
+    "ementa": "Código Negociação de Instrumentos Financeiros",
+    "situacao": "vigente",
+    "vigente_ate_ato": "",
+    "caminho": "autorregulacao/anbima/codigo-negociacao-de-instrumentos-financeiros.md",
+    "baixado_em": "2026-11-04"
+  },
+  {
     "id": "anbima-regras-e-procedimentos-de-certificacao",
     "tipo": "regras-procedimentos",
     "titulo": "Regras e Procedimentos de Certificação",

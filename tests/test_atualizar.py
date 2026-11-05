@@ -382,12 +382,14 @@ class TestClasses(Base):
         self.assertFalse(r["automatico"])
         self.assertEqual(ler(self.raiz, "fontes/acervo.json")["pareceres"], [])
 
-    def lei(self, remover=None):
+    def lei(self, remover=None, alterar=None):
         it = json.loads(fx("lei-item.json"))
         html = fx("lei-planalto.html", "rb")
         for rel, conteudo in mleis.montar_lei(dict(it, url=it["url_lida"]), html).items():
             if remover:
                 conteudo = "\n".join(x for x in conteudo.split("\n") if remover not in x) + "\n"
+            if alterar:
+                conteudo = alterar(conteudo)
             gravar(self.raiz, NORMAS + "/leis/" + rel, conteudo)
         self.rotas[it["url_lida"]] = ok(html)
         return item("G", it["id"], [it["id"]], it["url_lida"], fonte="leis")
@@ -401,6 +403,13 @@ class TestClasses(Base):
         _, r = self.um([self.lei(remover="Art. 1º")])
         self.assertFalse(r["automatico"])
         self.assertIn("nota do Planalto", r["motivo"])
+
+    def test_g_paragrafo_que_sumiu_sem_nota_vai_ao_diogo(self):
+        # a versão anterior tinha um § 3º no art. 2º; a página nova não traz nem nota de revogação
+        sumiu = lambda c: c.replace("\n## Art. 3º", "\n§ 3º Parágrafo que sumiu.\n\n## Art. 3º")  # noqa: E731
+        _, r = self.um([self.lei(alterar=sumiu)])
+        self.assertFalse(r["automatico"])
+        self.assertIn("1 linha(s) removida(s) sem nota do Planalto", r["motivo"])
 
     def test_g_teste_lei_vermelho(self):
         self.sim.rc["teste_lei.py"] = 1
@@ -866,10 +875,52 @@ class TestApoio(unittest.TestCase):
         self.assertEqual(at.classe_efetiva({"classe": "B", "dados": {}}), "B1")
         self.assertEqual(at.classe_efetiva({"classe": "B", "dados": {"consolidado_novo": True}}), "B2")
 
+    LEI_FM = "---\nid: lei-1\nbaixado_em: 2026-10-28\n---\n\n"
+    LEI = ("## Art. 1º\n\nCaput do primeiro.\n\nI — primeiro inciso;\n\nII — segundo inciso.\n\n"
+           "## Art. 2º\n\nCaput do segundo.\n\nParágrafo único: texto do parágrafo.\n\n"
+           "§ 3º Texto do terceiro.\n")
+
     def test_linhas_sem_nota(self):
-        diff = "+++ b/x\n+Art. 2º Novo. (Incluído pela Lei nº 14.000, de 2024)\n+Art. 3º Sem nota.\n+id: x"
-        self.assertEqual(at.linhas_sem_nota(diff, 2020), ["Art. 3º Sem nota."])
-        self.assertEqual(len(at.linhas_sem_nota(diff, 2025)), 2)
+        antigo = self.LEI_FM + "## Art. 1º\n\nCaput.\n"
+        novo = (self.LEI_FM.replace("2026-10-28", "2026-11-04") + "## Art. 1º\n\nCaput.\n\n"
+                "## Art. 2º Novo. (Incluído pela Lei nº 14.000, de 2024)\n\nArt. 3º Sem nota.\n")
+        # a troca do baixado_em fica fora (frontmatter); linha "palavra:" do corpo não é pulada
+        self.assertEqual(at.linhas_sem_nota(antigo, novo, 2020), ["+Art. 3º Sem nota."])
+        self.assertEqual(len(at.linhas_sem_nota(antigo, novo, 2025)), 2)
+        self.assertEqual(at.linhas_sem_nota(antigo, novo + "id: x\n", 2020),
+                         ["+Art. 3º Sem nota.", "+id: x"])
+        self.assertEqual(at.linhas_sem_nota(self.LEI_FM + self.LEI, self.LEI_FM + self.LEI, 2026), [])
+
+    def test_g_paragrafo_sumido_sem_nota_vai_ao_diogo(self):
+        novo = self.LEI.replace("§ 3º Texto do terceiro.\n", "")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, novo, 2026), ["-§ 3º Texto do terceiro."])
+        # inciso que some com outra linha do artigo alterada (com nota) continua sem substituição
+        novo = self.LEI.replace("Caput do primeiro.", "Caput novo. (Redação dada pela Lei nº 15.000, de 2026)") \
+            .replace("\nII — segundo inciso.\n", "\n")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, novo, 2026), ["-II — segundo inciso."])
+
+    def test_g_revogado_com_nota_posterior_e_automatico(self):
+        # o dispositivo fica com a nota de revogação no lugar do texto
+        novo = self.LEI.replace("§ 3º Texto do terceiro.", "§ 3º (Revogado pela Lei nº 15.000, de 2026)")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, novo, 2026), [])
+        # o artigo inteiro revogado: os incisos somem sem substituição, cobertos pelo artigo
+        novo = self.LEI.replace("Caput do primeiro.\n\nI — primeiro inciso;\n\nII — segundo inciso.\n",
+                                "(Revogado pela Lei nº 15.000, de 2026)\n")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, novo, 2026), [])
+        # nota de revogação anterior à data-base não cobre; nem a de outro dispositivo
+        velho = novo.replace("2026)", "2021)")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, velho, 2026), [
+            "+(Revogado pela Lei nº 15.000, de 2021)", "-I — primeiro inciso;", "-II — segundo inciso."])
+        outro = (self.LEI.replace("§ 3º Texto do terceiro.\n", "")
+                 + "\n## Art. 3º (Incluído pela Lei nº 15.000, de 2026)\n\n"
+                 "§ 3º (Revogado pela Lei nº 15.000, de 2026)\n")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, outro, 2026), ["-§ 3º Texto do terceiro."])
+
+    def test_g_paragrafo_unico_com_dois_pontos_alterado_sem_nota_vai_ao_diogo(self):
+        novo = self.LEI.replace("Parágrafo único: texto do parágrafo.", "Parágrafo único: texto mudado.")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, novo, 2026), ["+Parágrafo único: texto mudado."])
+        minusc = self.LEI.replace("Caput do segundo.", "termo: definição mudada.")
+        self.assertEqual(at.linhas_sem_nota(self.LEI, minusc, 2026), ["+termo: definição mudada."])
 
     def test_indice_md_com_pendentes(self):
         pend = [{"norma": "cvm-res-88", "ato": "Resolução CVM 250", "ato_url": URL_250,
