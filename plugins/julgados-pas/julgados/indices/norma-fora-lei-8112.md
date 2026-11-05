@@ -50,3 +50,5 @@ Norma: fora do acervo.
 | pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | manipulacao-fraude | Prática não equitativa no mercado de valores, em infração ao inciso I da Instrução CVM nº 08/79, no tipo descrito no inciso II, ‘d’, e descumprimento do dever de diligência, descrito no art. 4º, parágrafo único, c/c os artigos 6º, §2º, e 8º, §2º, todos da Instrução CVM nº 387/03. Multas. | cvm/pas/2020/19957-010796-2019-56.md |
 | pas | RJ2006/3295 | 2013-06-25 | parcial | contabil-demonstracoes | TÊXTIL RENAUX não elaboração das demonstrações financeiras da companhia – não fiscalização da gestão dos diretores da companhia – não manifestação sobre o relatório da administração e as contas da diretoria. Multas. Imputação de abuso de poder de controle. Absolvição. | cvm/pas/2013/rj2006-3295.md |
 | pas | 09/1993 | 2006-12-14 | condenacao | manipulacao-fraude | Prática não eqüitativa relacionada às operações de venda de ações efetuada pelos acusados à Marcopolo S.A. Carrocerias e Ônibus, em infração ao item I da Instrução CVM nº 08/79 e ao art. 2º, d, da Instrução CVM nº 10/80. Multa. | cvm/pas/2006/09-1993.md |
+
+Fim do subíndice.

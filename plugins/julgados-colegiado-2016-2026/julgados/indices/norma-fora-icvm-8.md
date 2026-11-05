@@ -76,3 +76,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 | decisao-colegiado | RJ2012/11002 | 2016-08-16 | parcial | processual | O Colegiado acompanhou o voto do diretor relator em pedidos de prova no PAS da Mundial S.A. Produtos de Consumo: indeferiu a oitiva de testemunha, desconsiderou seus documentos por autenticidade não aferível, deferiu a juntada de mídia de ação penal e concedeu 15 dias para manifestação. | cvm/colegiado/2016/col-20160816-d8703.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

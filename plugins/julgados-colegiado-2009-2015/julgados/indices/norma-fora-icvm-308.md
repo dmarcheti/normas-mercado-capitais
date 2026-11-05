@@ -7,6 +7,40 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 409 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 44 |
+| art. 3º | 50 |
+| art. 4º | 58 |
+| art. 5º | 70 |
+| art. 6º | 76 |
+| art. 7º | 84 |
+| art. 14 | 92 |
+| art. 15 | 99 |
+| art. 16 | 106 |
+| art. 17 | 183 |
+| art. 18 | 190 |
+| art. 20 | 259 |
+| art. 26 | 266 |
+| art. 28 | 272 |
+| art. 30 | 280 |
+| art. 31 | 286 |
+| art. 31-A | 298 |
+| art. 31-B | 304 |
+| art. 31-C | 311 |
+| art. 31-D | 317 |
+| art. 31-E | 323 |
+| art. 31-F | 329 |
+| art. 33 | 335 |
+| art. 35 | 343 |
+| art. 38 | 349 |
+| art. 41 | 355 |
+| Citada sem dispositivo identificado | 362 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -371,3 +405,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/2437 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2437. | cvm/colegiado/2009/col-20090519-d05.md |
 | decisao-colegiado | RJ1999/3521 | 2009-01-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3521. | cvm/colegiado/2009/col-20090127-d02.md |
 | decisao-colegiado | RJ2007/2342 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2342. | cvm/colegiado/2009/col-20090106-d04.md |
+
+Fim do subíndice.

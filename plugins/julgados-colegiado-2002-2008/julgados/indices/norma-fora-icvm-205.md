@@ -161,3 +161,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | — | 2004-07-13 | outro | multa-cominatoria-taxa | O Colegiado, vencida uma diretora, deliberou suspender a cobrança da taxa de fiscalização da CVM sobre FIDC, na forma do parecer da PFE. Fundamento: não incidência com base na Tabela A da Lei 7.940/89, pelas mesmas razões aplicadas a fundos antes sujeitos ao Banco Central. | cvm/colegiado/2004/col-20040713-d05.md |
 | decisao-colegiado | — | 2004-03-09 | outro | multa-cominatoria-taxa | O Colegiado, por maioria, entendeu não ser devida a taxa de fiscalização. Manifestou entendimento de que é possível, em tese, cobrar taxa de registro de distribuição de valor mobiliário aplicável às quotas de fundos, devendo a SIN e a SDM, sob coordenação do SGE, estudar a alíquota adequada e seus efeitos, para novo exame pelo Colegiado. | cvm/colegiado/2004/col-20040309-d07.md |
+
+Fim do subíndice.

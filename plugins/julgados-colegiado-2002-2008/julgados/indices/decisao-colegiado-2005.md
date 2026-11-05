@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 446 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2005-12 | 29 |
+| 2005-11 | 72 |
+| 2005-10 | 140 |
+| 2005-09 | 176 |
+| 2005-08 | 200 |
+| 2005-07 | 231 |
+| 2005-06 | 254 |
+| 2005-05 | 282 |
+| 2005-04 | 307 |
+| 2005-03 | 336 |
+| 2005-02 | 377 |
+| 2005-01 | 397 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2005-12-27 | outro | normativo | O Colegiado aprovou minuta de Decisão-Conjunta CVM/Bacen que revoga normas sobre fundos de investimento editadas com o Bacen, sem função ou em decorrência da Lei 10.303/01. | cvm/colegiado/2005/col-20051227-d15.md |
@@ -423,3 +442,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2004/6476 | 2005-01-04 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6476. | cvm/colegiado/2005/col-20050104-d03.md |
 | RJ2004/5732 | 2005-01-04 | nao-provido | opa | O Colegiado indeferiu o recurso e manteve a decisão da SRE que negou registro de OPA para cancelamento de registro da Indústrias Arteb S.A., por exigências não atendidas (refazimento e republicação de demonstrações financeiras e ITRs). O texto qualifica o recurso como intempestivo. | cvm/colegiado/2005/col-20050104-d02.md |
 | RJ2004/5417 | 2005-01-04 | deferido | opa | O Colegiado deferiu o registro da OPA da Coteminas sobre a Companhia Tecidos Santanense, por alienação indireta de controle com procedimento diferenciado, substituindo o laudo de avaliação por relatório econômico-financeiro do Banco Pactual S.A., com explicações aos acionistas sobre suas limitações e sem prejuízo de exigências da área técnica. | cvm/colegiado/2005/col-20050104-d01.md |
+
+Fim do subíndice.

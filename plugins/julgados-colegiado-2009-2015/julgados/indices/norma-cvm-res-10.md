@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/1879 | 2015-03-13 | indeferido | assembleia-acionistas | O Colegiado, acompanhando o Relatório da SEP, decidiu não interromper o prazo de convocação da AGE da Companhia Energética de Brasília marcada para 17.03.2015. Segundo a SEP, a retirada de pauta dos itens questionados fez o pedido perder o objeto. | cvm/colegiado/2015/col-20150313-d9596.md |
+
+Fim do subíndice.

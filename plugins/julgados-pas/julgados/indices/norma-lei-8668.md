@@ -33,3 +33,5 @@ Norma: [leis/lei-08668.md](../../../normas/normas/leis/lei-08668.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 9º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | cvm/pas/2022/19957-002315-2021-53.md |
+
+Fim do subíndice.

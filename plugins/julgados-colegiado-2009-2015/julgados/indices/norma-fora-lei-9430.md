@@ -29,3 +29,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/11717 | 2013-03-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11717. | cvm/colegiado/2013/col-20130326-d07.md |
 | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11715. | cvm/colegiado/2013/col-20130108-d01.md |
 | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/6520. | cvm/colegiado/2012/col-20120731-d04.md |
+
+Fim do subíndice.

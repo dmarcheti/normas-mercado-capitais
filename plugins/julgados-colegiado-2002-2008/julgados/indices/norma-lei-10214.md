@@ -13,3 +13,5 @@ Norma: [leis/lei-10214.md](../../../normas/normas/leis/lei-10214.md) (texto vige
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2007/0209 | 2007-12-18 | outro | infraestrutura-mercado | O Colegiado não acolheu reclamações da TOV CCTVM sobre convocação da AGE da BM&F, desmutualização e demonstrações financeiras, por não haver violação às normas de bolsas e por justificar-se a alteração do critério de avaliação. Aguardará o litígio sobre a atualização dos títulos. | cvm/colegiado/2007/col-20071218-d15.md |
 | decisao-colegiado | — | 2002-07-03 | outro | institucional | O Colegiado aprovou minuta de convênio entre a CVM e o Banco Central para intercâmbio de informações e atividades correlatas, com reuniões semestrais entre os colegiados, comissão de representantes com reunião mensal e prazo indeterminado. | cvm/colegiado/2002/col-20020703-d12.md |
+
+Fim do subíndice.

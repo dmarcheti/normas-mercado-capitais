@@ -7,6 +7,64 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1885 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 68 |
+| art. 3º | 75 |
+| art. 4º | 83 |
+| art. 5º | 111 |
+| art. 6º | 154 |
+| art. 7º | 165 |
+| art. 8º | 172 |
+| art. 10 | 179 |
+| art. 13 | 185 |
+| art. 21 | 194 |
+| art. 23 | 203 |
+| art. 24 | 212 |
+| art. 25 | 220 |
+| art. 28 | 230 |
+| art. 29 | 236 |
+| art. 32 | 244 |
+| art. 33 | 252 |
+| art. 36 | 259 |
+| art. 42 | 268 |
+| art. 43 | 274 |
+| art. 49 | 282 |
+| art. 54 | 288 |
+| art. 55 | 294 |
+| art. 60 | 300 |
+| art. 61 | 314 |
+| art. 62 | 326 |
+| art. 63 | 338 |
+| art. 64 | 355 |
+| art. 65 | 362 |
+| art. 66 | 387 |
+| art. 67 | 440 |
+| art. 68 | 449 |
+| art. 70 | 457 |
+| art. 71 | 494 |
+| art. 72 | 502 |
+| art. 73 | 510 |
+| art. 80 | 517 |
+| art. 81 | 523 |
+| art. 82 | 533 |
+| art. 83 | 772 |
+| art. 84 | 1258 |
+| art. 85 | 1302 |
+| art. 86 | 1311 |
+| art. 87 | 1612 |
+| art. 88 | 1621 |
+| art. 89 | 1631 |
+| art. 90 | 1638 |
+| art. 91 | 1645 |
+| art. 116 | 1836 |
+| Anexo B, art. 1º | 1843 |
+| Citada sem dispositivo identificado | 1854 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1823,3 +1881,5 @@ Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (
 | acordao-crsfn | 19957.008986/2020-47; RJ2020/06345 | 2022-08-09 | parcial | divulgacao-informacoes | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. FALTA DE DIVULGAÇÃO DE FATO RELEVANTE. VAZAMENTO DE INFORMAÇÃO. Materialidade comprovada. Ajuste na dosimetria da pena. Aplicação de circunstância atenuante no percentual máximo. Recurso conhecido e parcialmente provido. | crsfn/2022/10372-100034-2022-42.md |
 | acordao-crsfn | 19957.008401/2016-11; RJ2017/38 | 2022-05-10 | parcial | ofertas-publicas | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. REALIZAÇÃO DE OFERTA PÚBLICA DE AÇÕES SEM O REGISTRO NA CVM. DESCUMPRIMENTO AO ARTIGO 19 DA LEI Nº 6.385/1976 E AO ARTIGO 2º DA INSTRUÇÃO CVM Nº 400/2003. Inocorrência de nulidade de citação ou de prescrição. Realização de oferta pública de baixo impacto e ausência de relevantes prejuízos a investidores e ao Mercado. Recurso conhecido e parcialmente provido. | crsfn/2022/10372-100008-2021-33.md |
 | termo-compromisso | 19957.005174/2019-14 | 2021-12-14 | rejeitado | manipulacao-fraude | O Colegiado rejeitou as propostas de termo de compromisso de cinco proponentes (pagamento conjunto de R$ 934.500,00, em parcela única) e de um proponente (três anos sem atuar no mercado financeiro), em inquérito por front running. Acompanhou o Comitê, que as considerou distantes da contrapartida adequada e suficiente. | cvm/colegiado/2021/col-20211214-d2430.md |
+
+Fim do subíndice.

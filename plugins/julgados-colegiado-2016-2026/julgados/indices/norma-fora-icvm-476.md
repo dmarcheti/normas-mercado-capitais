@@ -235,3 +235,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2016/3873 | 2016-04-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/3873. | cvm/colegiado/2016/col-20160412-d0174.md |
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 | decisao-colegiado | RJ2015/9137 | 2016-02-02 | deferido | ofertas-publicas | O Colegiado deferiu o pedido de dispensa formulado pela FRAM Capital DTVM para a oferta de cotas mezanino e subordinadas do Capital Ativo FIDC (art. 4º da Instrução CVM 400/2003), acompanhando a SRE, favorável à dispensa de registro ou, subsidiariamente, das dispensas de prospecto e de anúncios, por interesse público e proteção ao investidor. | cvm/colegiado/2016/col-20160202-d0024.md |
+
+Fim do subíndice.

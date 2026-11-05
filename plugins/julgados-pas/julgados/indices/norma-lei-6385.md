@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 4017 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (26); art. 2º (45); art. 3º (191); art. 4º (197); art. 5º (257); art. 6º (264); art. 8º (270)
+art. 9º (300); art. 9º-A (619); art. 10 (625); art. 11 (633); art. 12 (2748); art. 13 (2860); art. 15 (2868)
+art. 16 (2959); art. 17 (3117); art. 18 (3125); art. 19 (3151); art. 20 (3385); art. 21 (3392)
+art. 21-A (3412); art. 22 (3418); art. 23 (3446); art. 24 (3562); art. 26 (3570); art. 27 (3586)
+art. 27-A (3596); art. 27-C (3603); art. 27-D (3641); art. 27-E (3682); art. 28 (3750); art. 31 (3759)
+art. 33 (3768); art. 44 (3786); art. 113 (3792); art. 115 (3799); art. 132 (3805); art. 133 (3811)
+art. 151 (3817); art. 152 (3823); art. 155 (3829); art. 157 (3836); art. 161 (3843); art. 163 (3849)
+art. 173 (3855); art. 174 (3862); art. 176 (3869); art. 177 (3875); art. 179 (3881); art. 191 (3887)
+art. 192 (3897); art. 193 (3904); art. 214 (3910); art. 231 (3916); art. 232 (3925); art. 233 (3933)
+art. 235 (3940); art. 237 (3947); art. 265 (3953); art. 266 (3959); art. 275 (3965); art. 281 (3971)
+Citada sem dispositivo identificado (3977)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3997,3 +4013,5 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 | pas | 04/2001 | 2005-06-13 | parcial | manipulacao-fraude | POSTALIS Realização de operações fraudulentas, nos termos do inciso II, alínea c, e vedadas pelo inciso I, ambos da Instrução CVM nº 08/79. Multas e Absolvições. | cvm/pas/2005/04-2001.md |
 | pas | 08/2000 | 2002-04-04 | condenacao | auditoria-independente | AUDITORIA CONTÁBIL DE EMPRESAS E OUTRO Auditoria inepta de demonstrações financeiras de companhias incentivadas. Infração Grave. Reincidência. Cancelamento do registro de auditor independente. | cvm/pas/2002/08-2000.md |
 | pas | 12/2000 | 2002-01-10 | parcial | divulgacao-informacoes | GUILHERME FONTES FILMES LTDA. E OUTROS I. Omissão na prestação de informações periódicas e apresentação de informações incorretas em projeto de audiovisual, com violação dos arts. 24, 25 e 8° da Instrução CVM 260/97. II. Multa à emissora dos certificados, seus sócios gerentes e à instituição líder da distribuição e seu diretor responsável. | cvm/pas/2002/12-2000.md |
+
+Fim do subíndice.

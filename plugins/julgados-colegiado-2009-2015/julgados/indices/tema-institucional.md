@@ -123,3 +123,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2008/6601 | 2009-01-27 | outro | institucional | O Colegiado ratificou o Convênio de Cooperação Técnica entre a CVM e o CADE, assinado pela Presidente em julho de 2008. | cvm/colegiado/2009/col-20090127-d03.md |
 | decisao-colegiado | RJ2008/12724 | 2009-01-13 | outro | institucional | O Colegiado aprovou o texto do Memorando de Entendimento a ser assinado entre a CVM e a Autoridade Monetária das Ilhas Cayman. | cvm/colegiado/2009/col-20090113-d02.md |
 | decisao-colegiado | RJ2008/10309 | 2009-01-06 | outro | institucional | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna (PAINT) 2009, elaborado conforme a Instrução Normativa SFC 01/07 e o item 13 do Capítulo X do Manual do Sistema de Controle Interno do Poder Executivo Federal. | cvm/colegiado/2009/col-20090106-d5821.md |
+
+Fim do subíndice.

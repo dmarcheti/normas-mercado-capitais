@@ -88,3 +88,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.010637/2019-51 | 2021-02-02 | absolvicao | deveres-administradores | Responsabilidade de membros do conselho de administração da Petróleo Brasileiro S.A. – Petrobras, por descumprimento do artigo 155, caput, da Lei nº 6.404/1976. Absolvições. | cvm/pas/2021/19957-010637-2019-51.md |
+
+Fim do subíndice.

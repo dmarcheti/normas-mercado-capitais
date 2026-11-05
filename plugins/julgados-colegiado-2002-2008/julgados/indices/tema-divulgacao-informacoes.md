@@ -130,3 +130,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2002/2735 | 2002-07-09 | parcial | divulgacao-informacoes | Acréscimo de participação acionária. Proc. RJ2002/2735. | cvm/colegiado/2002/col-20020709-d07.md |
 | decisao-colegiado | RJ2002/2057 | 2002-05-21 | indeferido | divulgacao-informacoes | O Colegiado indeferiu pedido de dispensa de publicação da aquisição indireta de 37,1% do controle acionário da Docas Investimentos S.A. Fundamento: o art. 4º da Instrução CVM 69/87 exige dispersão acionária e declaração de que a compra não altera o controle; o requerente cumpriu só a declaração, e a informação é relevante ao mercado. | cvm/colegiado/2002/col-20020521-d01.md |
 | decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | divulgacao-informacoes | Recurso contra a decisão da SEP. Proc. RJ2001/10329. | cvm/colegiado/2002/col-20020219-d02.md |
+
+Fim do subíndice.

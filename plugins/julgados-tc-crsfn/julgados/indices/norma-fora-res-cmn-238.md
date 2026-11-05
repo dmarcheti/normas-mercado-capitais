@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | processual | O Colegiado negou a celebração de termo de compromisso proposto por uma corretora e outros proponentes em processo de rito sumário, por considerar insuficientes os termos da proposta, com base no voto do relator. | cvm/colegiado/2004/col-20040805-d05.md |
 | termo-compromisso | RJ2001/1789 | 2003-08-05 | aceito | intermediacao | O Colegiado aprovou nova proposta de termo de compromisso apresentada por agente autônomo de investimentos, conforme voto do diretor-relator. | cvm/colegiado/2003/col-20030805-d05.md |
 | acordao-crsfn | 19/95 | 2000-07-28 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta ou preço – Prática não-equitativa – Confirmação de irregular exercício da profissão de agente autônomo de investimento. | crsfn/2000/2870.md |
+
+Fim do subíndice.

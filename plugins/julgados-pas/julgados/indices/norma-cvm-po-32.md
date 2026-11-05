@@ -22,3 +22,5 @@ Norma: [cvm/pareceres-orientacao/0032.md](../../../normas/normas/cvm/pareceres-o
 | pas | 19957.010181/2022-25 | 2024-01-30 | condenacao | ofertas-publicas | Apurar responsabilidades por suposta oferta pública de valores mobiliários, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19 da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Multas. | cvm/pas/2024/19957-010181-2022-25.md |
 | pas | 19957.001089/2020-11 | 2022-09-20 | absolvicao | ofertas-publicas | Responsabilidade por alegada oferta pública de derivativos por não integrantes do sistema de distribuição de valores mobiliários, em infração ao art. 16, I c/c art. 19, caput e §1º, da Lei nº 6.385/1976. Absolvições. | cvm/pas/2022/19957-001089-2020-11.md |
 | pas | 19957.003642/2020-41 | 2022-05-03 | condenacao | ofertas-publicas | Oferta pública de valores mobiliários sem registro prévio na CVM ou sua dispensa, em infração ao art. 19 da Lei nº 6.385/1976 e ao art. 2º da Instrução CVM nº 400/2003. Multas. | cvm/pas/2022/19957-003642-2020-41.md |
+
+Fim do subíndice.

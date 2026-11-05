@@ -7,6 +7,40 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 432 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 44 |
+| art. 5º | 50 |
+| art. 6º | 56 |
+| art. 9º | 62 |
+| art. 11 | 68 |
+| art. 13 | 74 |
+| art. 25 | 80 |
+| art. 25-A | 87 |
+| art. 26 | 93 |
+| art. 36 | 102 |
+| art. 39 | 111 |
+| art. 40 | 119 |
+| art. 41 | 194 |
+| art. 42 | 263 |
+| art. 43 | 272 |
+| art. 45 | 302 |
+| art. 46 | 316 |
+| art. 47 | 322 |
+| art. 48 | 332 |
+| art. 50 | 338 |
+| art. 53 | 345 |
+| art. 54 | 351 |
+| art. 57 | 357 |
+| art. 58 | 363 |
+| art. 61 | 369 |
+| art. 62 | 375 |
+| Citada sem dispositivo identificado | 381 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -394,3 +428,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2001/0282 | 2002-06-18 | parcial | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0282. | cvm/colegiado/2002/col-20020618-d01.md |
 | decisao-colegiado | — | 2002-05-29 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. | cvm/colegiado/2002/col-20020529-d01.md |
 | decisao-colegiado | SP2001/0055 | 2002-03-12 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0055. | cvm/colegiado/2002/col-20020312-d05.md |
+
+Fim do subíndice.

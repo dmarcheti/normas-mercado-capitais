@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2014/0017 | 2015-07-14 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso dos reclamantes contra entendimento da SEP sobre o Relatório de Atividades da Petrobras (dívida com a PETROS e déficit dos planos). Entendeu que cabe à companhia avaliar a divulgação (art. 14 da ICVM 480/2009) e que a apuração de responsabilidades depende de processo administrativo sancionador. Acompanhou a relatora. | cvm/colegiado/2015/col-20150714-d9208.md |
+
+Fim do subíndice.

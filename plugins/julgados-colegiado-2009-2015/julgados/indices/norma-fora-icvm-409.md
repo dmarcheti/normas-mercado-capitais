@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1022 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (26); art. 2º (40); art. 4º (60); art. 5º (66); art. 7º (73); art. 8º (82); art. 9º (92)
+art. 10 (101); art. 12 (110); art. 14 (124); art. 15 (131); art. 16 (140); art. 17 (152); art. 27 (158)
+art. 30 (164); art. 31 (173); art. 36 (182); art. 37 (188); art. 38 (195); art. 39 (201); art. 40 (207)
+art. 41 (213); art. 43 (221); art. 45 (227); art. 47 (235); art. 48 (246); art. 49 (253); art. 51 (259)
+art. 52 (265); art. 56 (272); art. 57 (284); art. 59 (292); art. 61 (298); art. 62 (306); art. 63 (316)
+art. 64 (322); art. 65 (356); art. 65-A (365); art. 65-B (376); art. 66 (382); art. 67 (388); art. 68 (403)
+art. 70 (415); art. 71 (421); art. 72 (579); art. 73 (585); art. 84 (591); art. 85 (602); art. 86 (610)
+art. 87 (634); art. 88 (655); art. 90 (661); art. 95 (667); art. 95-B (673); art. 97 (681); art. 99 (689)
+art. 100 (695); art. 101 (701); art. 104 (707); art. 105 (719); art. 106 (733); art. 107 (742); art. 109 (748)
+art. 110 (792); art. 110-A (802); art. 110-B (808); art. 111-A (826); art. 112 (836); art. 118 (847)
+art. 119 (927); art. 119-A (933); art. 121 (961); Citada sem dispositivo identificado (969)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1002,3 +1018,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/10752 | 2009-05-19 | nao-provido | fundos-investimento | O Colegiado, por maioria, negou provimento a recurso contra decisão da SIN que negou autorização para clube de investimento com mais de 150 condôminos (Instrução CVM 40/84, art. 9º, § 1º, II). Para o Colegiado, o veículo não tem características de clube tradicional nem salvaguardas aos quotistas. Vencidos dois diretores, que autorizariam. | cvm/colegiado/2009/col-20090519-d11.md |
 | decisao-colegiado | RJ2007/10205; RJ2008/7011; RJ2008/8253; RJ2008/10912; RJ2008/11489; RJ2009/1293 | 2009-03-31 | deferido | fundos-investimento | O Colegiado deferiu, nos casos concretos, seis pedidos de dispensa do art. 35, III, da Instrução 391/03 para FIPs empenharem ativos como garantia real. Condicionou a dispensa à prévia aprovação da unanimidade dos cotistas em assembleia e a providências que assegurem ciência do gravame pelo adquirente de cotas no secundário. | cvm/colegiado/2009/col-20090331-d38.md |
 | decisao-colegiado | RJ2007/8031 | 2009-03-03 | deferido | fundos-investimento | O Colegiado aprovou a transferência da administração, gestão, custódia e controladoria do Pontual FMIA para o Banco Bradesco S.A., com a limitação de responsabilidade perante os cotistas aprovada em 22.03.05 e garantias adicionais. A área técnica havia negado algumas das garantias pedidas. | cvm/colegiado/2009/col-20090303-d01.md |
+
+Fim do subíndice.

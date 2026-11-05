@@ -7,6 +7,48 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 432 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 52 |
+| art. 3º | 63 |
+| art. 4º | 81 |
+| art. 5º | 99 |
+| art. 6º | 105 |
+| art. 8º | 113 |
+| art. 9º | 123 |
+| art. 10 | 142 |
+| art. 11 | 149 |
+| art. 12 | 160 |
+| art. 13 | 166 |
+| art. 14 | 180 |
+| art. 15 | 186 |
+| art. 16 | 199 |
+| art. 17 | 207 |
+| art. 19 | 214 |
+| art. 20 | 222 |
+| art. 21 | 229 |
+| art. 22 | 237 |
+| art. 25 | 259 |
+| art. 26 | 269 |
+| art. 27 | 275 |
+| art. 28 | 285 |
+| art. 30 | 305 |
+| art. 31 | 320 |
+| art. 32 | 328 |
+| art. 33 | 338 |
+| art. 45 | 353 |
+| art. 52 | 370 |
+| Anexo A, art. 1º | 376 |
+| Anexo C, art. 2º | 382 |
+| Anexo C, art. 4º | 389 |
+| Anexo C, art. 13 | 397 |
+| Anexo C, art. 14 | 404 |
+| Citada sem dispositivo identificado | 410 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -386,3 +428,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2022-12-02 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, conforme proposta da SDM após interação com a ASA e áreas técnicas. Inclui normas a editar após audiência pública (AP SDM 03/21 e 05/21), temas para consulta pública e estudos de AIR. | cvm/colegiado/2022/col-20221202-d2793.md |
 | decisao-colegiado | RJ2015/3702; 19957.007771/2019-75 | 2022-08-16 | outro | opa | O Colegiado, por unanimidade, acompanhando o voto do relator, extinguiu sem resolução de mérito, por perda do objeto, os recursos contra decisão da SRE sobre OPA por aumento de participação na Usiminas. A SRE havia acolhido pedido da Ternium para não realizar a OPA. | cvm/colegiado/2022/col-20220816-d9718.md |
 | decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | normativo | O Colegiado aprovou as Resoluções CVM nº 84/2022 (CEPAC), 85/2022 (ofertas públicas de aquisição de ações) e 86/2022 (contratos de investimento coletivo hoteleiro), no trabalho de consolidação do Decreto nº 10.139/2019, sem consulta pública e com dispensa automática de AIR (art. 4º, III, do Decreto nº 10.411/2020). | cvm/colegiado/2022/col-20220330-d2568.md |
+
+Fim do subíndice.

@@ -21,3 +21,5 @@ Norma: [cvm/resolucoes/0238.md](../../../normas/normas/cvm/resolucoes/0238.md) (
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
+
+Fim do subíndice.

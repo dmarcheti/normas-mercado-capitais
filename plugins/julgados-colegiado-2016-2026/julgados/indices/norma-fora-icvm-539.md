@@ -131,3 +131,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.000332/2017-70 | 2017-10-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000332/2017-70. | cvm/colegiado/2017/col-20171024-d0828.md |
 | decisao-colegiado | 19957.000331/2017-25 | 2017-10-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000331/2017-25. | cvm/colegiado/2017/col-20171024-d0827.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

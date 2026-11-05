@@ -41,3 +41,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2014/8516 | 2016-02-16 | provido | fundos-investimento | O Colegiado, acompanhando o voto do diretor relator, concedeu dispensa do art. 39, §2º, da ICVM 356/2001 (vedação à aquisição de créditos de parte relacionada) a FIDC-NP exclusivo, reformando decisão anterior que a havia indeferido, contra proposta da SIN. Fundamento: art. 9º da ICVM 444; cotista único conhecedor dos investimentos e cotas sem negociação no mercado secundário. | cvm/colegiado/2016/col-20160216-d9460.md |
+
+Fim do subíndice.

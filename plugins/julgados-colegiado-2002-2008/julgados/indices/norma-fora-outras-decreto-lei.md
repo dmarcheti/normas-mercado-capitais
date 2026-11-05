@@ -8,6 +8,58 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 536 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-lei-2 | 63 |
+| decreto-lei-25 | 71 |
+| decreto-lei-157 | 79 |
+| decreto-lei-200 | 96 |
+| decreto-lei-326 | 104 |
+| decreto-lei-406 | 113 |
+| decreto-lei-427 | 133 |
+| decreto-lei-491 | 141 |
+| decreto-lei-644 | 150 |
+| decreto-lei-834 | 158 |
+| decreto-lei-857 | 166 |
+| decreto-lei-911 | 174 |
+| decreto-lei-1376 | 182 |
+| decreto-lei-1401 | 231 |
+| decreto-lei-1419 | 239 |
+| decreto-lei-1497 | 247 |
+| decreto-lei-1512 | 255 |
+| decreto-lei-1598 | 263 |
+| decreto-lei-1658 | 294 |
+| decreto-lei-1722 | 302 |
+| decreto-lei-1724 | 310 |
+| decreto-lei-1841 | 318 |
+| decreto-lei-1892 | 326 |
+| decreto-lei-1894 | 334 |
+| decreto-lei-1978 | 342 |
+| decreto-lei-1982 | 350 |
+| decreto-lei-2069 | 358 |
+| decreto-lei-2133 | 366 |
+| decreto-lei-2283 | 374 |
+| decreto-lei-2284 | 388 |
+| decreto-lei-2285 | 396 |
+| decreto-lei-2286 | 404 |
+| decreto-lei-2292 | 413 |
+| decreto-lei-2304 | 422 |
+| decreto-lei-2313 | 430 |
+| decreto-lei-2335 | 438 |
+| decreto-lei-2336 | 447 |
+| decreto-lei-2397 | 455 |
+| decreto-lei-2609 | 463 |
+| decreto-lei-2624 | 471 |
+| decreto-lei-2663 | 479 |
+| decreto-lei-4597 | 487 |
+| decreto-lei-4657 | 495 |
+| decreto-lei-7661 | 504 |
+| decreto-lei-9292 | 528 |
+
 ## decreto-lei-2
 
 ### Citada sem dispositivo identificado
@@ -480,3 +532,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 01/88 | 2005-04-12 | outro | processual | O Colegiado reconheceu a prescrição da pretensão punitiva da CVM no processo 01/88, relativo às demonstrações financeiras da Marcovan S.A. de 1988, com base na Lei 9.873/99 e na manifestação da PFE, e determinou o arquivamento. Cabe recurso de ofício ao Conselho de Recursos do Sistema Financeiro Nacional. | cvm/colegiado/2005/col-20050412-d12.md |
+
+Fim do subíndice.

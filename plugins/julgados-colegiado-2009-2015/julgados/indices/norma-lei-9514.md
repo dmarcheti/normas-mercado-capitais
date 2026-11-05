@@ -95,3 +95,5 @@ Norma: [leis/lei-09514.md](../../../normas/normas/leis/lei-09514.md) (texto vige
 | decisao-colegiado | RJ2010/15003 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15003. | cvm/colegiado/2010/col-20101228-d24.md |
 | decisao-colegiado | RJ2010/14995 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/14995. | cvm/colegiado/2010/col-20101228-d22.md |
 | decisao-colegiado | RJ2010/14991 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/14991. | cvm/colegiado/2010/col-20101228-d21.md |
+
+Fim do subíndice.

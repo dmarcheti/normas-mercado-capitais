@@ -7,6 +7,39 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 514 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 43 |
+| art. 2º | 49 |
+| art. 3º | 82 |
+| art. 4º | 127 |
+| art. 5º | 133 |
+| art. 6º | 139 |
+| art. 7º | 154 |
+| art. 8º | 177 |
+| art. 9º | 185 |
+| art. 10 | 193 |
+| art. 11 | 203 |
+| art. 12 | 220 |
+| art. 13 | 277 |
+| art. 15 | 294 |
+| art. 16 | 302 |
+| art. 17 | 342 |
+| art. 18 | 376 |
+| art. 19 | 386 |
+| art. 21 | 395 |
+| art. 23 | 401 |
+| art. 24 | 440 |
+| art. 25 | 448 |
+| art. 26 | 454 |
+| art. 27 | 461 |
+| art. 153 | 467 |
+| Citada sem dispositivo identificado | 473 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -477,3 +510,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/2274 | 2004-04-20 | outro | assembleia-acionistas | Sobre pedido de interrupção do prazo de antecedência da assembleia geral, o Colegiado, por unanimidade, opinou que a proposta de incorporação de ações do Banco Sudameris Brasil S.A. não viola dispositivos legais ou regulamentares, afastando a tese de negócio jurídico indireto. Recomendou que o reembolso use o patrimônio líquido do laudo, por sugestão da SEP. | cvm/colegiado/2004/col-20040420-d03.md |
 | decisao-colegiado | RJ2004/2040 | 2004-04-06 | parcial | deveres-administradores | O Colegiado, acompanhando o diretor-relator e a posição da SEP, acatou parcialmente a consulta do Unibanco sobre a Instrução CVM 319/99 em operação de incorporação: não vislumbrou prejuízo econômico-financeiro aos acionistas não controladores, mas exigiu o cumprimento das observações da SEP sobre divulgação (Instrução CVM 358/02) e dos arts. 2º e 12 da Instrução 319/99. | cvm/colegiado/2004/col-20040406-d04.md |
 | decisao-colegiado | RJ2003/11977 | 2004-03-09 | nao-provido | divulgacao-informacoes | O Colegiado reconheceu que o caso não se enquadrava na hipótese do art. 9º, §1º, da Lei 6.385/76 (situação anormal de mercado) e não acatou o pedido de reconsideração de decisão que determinou publicação de fato relevante sobre a incorporação de ações da Tele Centro Oeste Celular. Declarou que o pedido perdeu objeto. | cvm/colegiado/2004/col-20040309-d14.md |
+
+Fim do subíndice.

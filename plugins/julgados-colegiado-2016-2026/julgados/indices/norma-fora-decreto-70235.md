@@ -122,3 +122,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ1998/4463 | 2016-12-20 | conhecimento | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4463. | cvm/colegiado/2016/col-20161220-d0508.md |
+
+Fim do subíndice.

@@ -31,3 +31,5 @@ Norma: [cvm/pareceres-orientacao/0035.md](../../../normas/normas/cvm/pareceres-o
 | decisao-colegiado | 19957.005749/2017-29 | 2017-07-14 | — | assembleia-acionistas | Recurso contra decisão da SEP. Proc. SEI 19957.005749/2017-29. | cvm/colegiado/2017/col-20170714-d0728.md |
 | decisao-colegiado | RJ2013/11703 | 2017-01-31 | parcial | deveres-administradores | O Colegiado redefiniu juridicamente os fatos do PAS RJ2013/11703 (art. 25 da Deliberação CVM 538/2008): três conselheiros com cargo executivo passam a responder pelo art. 154 da Lei 6.404/1976. Rejeitou, por maioria, a inclusão do art. 152 (todos) e do art. 155 (três), propostas pelo relator. Por unanimidade, indeferiu reconsideração de rejeição de termo de compromisso. | cvm/colegiado/2017/col-20170131-d9211.md |
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
+
+Fim do subíndice.

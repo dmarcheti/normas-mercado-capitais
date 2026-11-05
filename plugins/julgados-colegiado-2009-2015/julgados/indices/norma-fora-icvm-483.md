@@ -90,3 +90,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 521/2012; RJ2011/14772 | 2013-09-24 | outro | analistas-rating | O Colegiado, por unanimidade, acompanhou o voto do relator e as conclusões da SIN na consulta da Fitch Ratings sobre a Instrução CVM 521/2012. Admite teleconferência da agência com investidores sem intervenção dos coordenadores da oferta, e exige divulgação de opinião preliminar mesmo quando a estrutura final for alterada. | cvm/colegiado/2013/col-20130924-d06.md |
 | decisao-colegiado | 05/2010; RJ2010/12770 | 2010-09-09 | deferido | normativo | O Colegiado deferiu pedido da ANBIMA de prorrogação do prazo da Audiência Pública 05/10, até 22.10.10, para comentários à minuta que altera a Instrução 483/10, sobre analista de valores mobiliários. | cvm/colegiado/2010/col-20100909-d15.md |
 | decisao-colegiado | RJ2006/6136 | 2010-08-17 | outro | normativo | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução 483/10, sobre a atividade de analista de valores mobiliários. A SDM consolidará as sugestões. | cvm/colegiado/2010/col-20100817-d01.md |
+
+Fim do subíndice.

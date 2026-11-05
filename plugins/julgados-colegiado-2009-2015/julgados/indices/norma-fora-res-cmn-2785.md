@@ -22,3 +22,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2010/11571. | cvm/colegiado/2010/col-20101104-d02.md |
 | decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | divulgacao-informacoes | Recurso de ofício da SEP em processo de rito sumário. PAS RJ2010/11572. | cvm/colegiado/2010/col-20101014-d05.md |
 | decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP. PAS RJ2009/3955. | cvm/colegiado/2009/col-20090804-d03.md |
+
+Fim do subíndice.

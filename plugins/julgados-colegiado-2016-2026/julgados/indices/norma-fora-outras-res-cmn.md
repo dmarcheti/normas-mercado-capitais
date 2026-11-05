@@ -8,6 +8,26 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 822 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cmn-2 (31); res-cmn-3 (39); res-cmn-39 (47); res-cmn-394 (55); res-cmn-454 (64); res-cmn-527 (73)
+res-cmn-702 (81); res-cmn-922 (93); res-cmn-1019 (101); res-cmn-1120 (109); res-cmn-1655 (117)
+res-cmn-1656 (141); res-cmn-1657 (149); res-cmn-2122 (158); res-cmn-2159 (168); res-cmn-2197 (176)
+res-cmn-2325 (184); res-cmn-2391 (192); res-cmn-2451 (211); res-cmn-2460 (226); res-cmn-2615 (236)
+res-cmn-2624 (244); res-cmn-2682 (254); res-cmn-2690 (263); res-cmn-2763 (303); res-cmn-2785 (311)
+res-cmn-2801 (321); res-cmn-2828 (329); res-cmn-2838 (337); res-cmn-2882 (345); res-cmn-2921 (355)
+res-cmn-3121 (370); res-cmn-3198 (381); res-cmn-3272 (392); res-cmn-3399 (400); res-cmn-3412 (410)
+res-cmn-3454 (418); res-cmn-3456 (426); res-cmn-3490 (434); res-cmn-3513 (442); res-cmn-3539 (450)
+res-cmn-3557 (458); res-cmn-3689 (466); res-cmn-3694 (474); res-cmn-3792 (482); res-cmn-3854 (493)
+res-cmn-3921 (501); res-cmn-3922 (527); res-cmn-3947 (551); res-cmn-3954 (560); res-cmn-3992 (569)
+res-cmn-4088 (577); res-cmn-4123 (585); res-cmn-4192 (593); res-cmn-4222 (601); res-cmn-4263 (609)
+res-cmn-4296 (617); res-cmn-4373 (625); res-cmn-4434 (637); res-cmn-4444 (645); res-cmn-4549 (654)
+res-cmn-4598 (662); res-cmn-4604 (676); res-cmn-4636 (685); res-cmn-4656 (693); res-cmn-4661 (713)
+res-cmn-4693 (735); res-cmn-4694 (749); res-cmn-4695 (757); res-cmn-4761 (765); res-cmn-4852 (773)
+res-cmn-4963 (782); res-cmn-4991 (790); res-cmn-4992 (798); res-cmn-5121 (806); res-cmn-5163 (814)
+
 ## res-cmn-2
 
 ### Citada sem dispositivo identificado
@@ -798,3 +818,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.013782/2024-51 | 2025-06-10 | nao-provido | securitizacao | O Colegiado negou provimento, por unanimidade, a recurso do Grupo Casas Bahia S.A. contra manifestação da SSE que impede a prorrogação do vencimento de CRI cujo devedor é a própria companhia, acompanhando a área técnica. Fundamento: art. 4º, parágrafo único, da Resolução CMN 5.118/2024, e ausência de determinação judicial de prorrogação. | cvm/colegiado/2025/col-20250610-d3290.md |
+
+Fim do subíndice.

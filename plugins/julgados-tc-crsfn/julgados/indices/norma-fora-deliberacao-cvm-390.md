@@ -7,6 +7,28 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 3306 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 32 |
+| art. 2º | 41 |
+| art. 3º | 58 |
+| art. 4º | 68 |
+| art. 5º | 79 |
+| art. 6º | 88 |
+| art. 7º | 95 |
+| art. 7º-O | 1557 |
+| art. 8º | 1564 |
+| art. 9º | 2248 |
+| art. 10 | 3221 |
+| art. 11 | 3238 |
+| art. 34 | 3248 |
+| art. 80 | 3254 |
+| Citada sem dispositivo identificado | 3262 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3280,3 +3302,5 @@ Norma: fora do acervo.
 | termo-compromisso | IA39/00 | 2003-11-04 | rejeitado | outros | Após pedido de vista, a diretora-relatora votou pelo indeferimento da proposta de termo de compromisso apresentada pelos administradores da Plascar Participações Industriais S.A., acompanhada por um diretor; o Presidente ficou vencido. Um diretor declarou impedimento. | cvm/colegiado/2003/col-20031104-d01.md |
 | termo-compromisso | IA31/00 | 2003-05-13 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de controladores e administradores das Lojas Arapuã (IA 31/00), acompanhando o voto da relatora, para quem a proposta não preenchia os requisitos legais de reposição de prejuízos causados. Foi marcada sessão de julgamento para 25/06/2003. | cvm/colegiado/2003/col-20030513-d12.md |
 | termo-compromisso | RJ2002/2555 | 2003-02-11 | aceito | outros | O Colegiado aprovou o termo de compromisso proposto pelo Banco Santander S.A. em processo de rito sumário por infração ao art. 2º da Instrução 304/99, nos termos do voto do diretor-relator. | cvm/colegiado/2003/col-20030211-d02.md |
+
+Fim do subíndice.

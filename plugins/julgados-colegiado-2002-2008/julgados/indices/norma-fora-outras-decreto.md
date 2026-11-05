@@ -8,6 +8,66 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 579 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-101 | 71 |
+| decreto-104 | 79 |
+| decreto-164 | 87 |
+| decreto-332 | 95 |
+| decreto-434 | 103 |
+| decreto-452 | 126 |
+| decreto-539 | 136 |
+| decreto-1041 | 144 |
+| decreto-1091 | 152 |
+| decreto-1150 | 160 |
+| decreto-1745 | 168 |
+| decreto-1800 | 176 |
+| decreto-1935 | 184 |
+| decreto-1978 | 198 |
+| decreto-2335 | 206 |
+| decreto-2355 | 220 |
+| decreto-2536 | 228 |
+| decreto-2627 | 242 |
+| decreto-2799 | 254 |
+| decreto-3000 | 269 |
+| decreto-3286 | 277 |
+| decreto-3363 | 286 |
+| decreto-3431 | 294 |
+| decreto-3582 | 302 |
+| decreto-3623 | 310 |
+| decreto-3655 | 318 |
+| decreto-3660 | 326 |
+| decreto-3708 | 334 |
+| decreto-3724 | 343 |
+| decreto-3995 | 351 |
+| decreto-3996 | 372 |
+| decreto-4520 | 380 |
+| decreto-4559 | 394 |
+| decreto-4763 | 402 |
+| decreto-5411 | 422 |
+| decreto-5495 | 430 |
+| decreto-5851 | 440 |
+| decreto-6785 | 448 |
+| decreto-8821 | 456 |
+| decreto-9405 | 467 |
+| decreto-13609 | 475 |
+| decreto-20910 | 483 |
+| decreto-21536 | 491 |
+| decreto-39259 | 499 |
+| decreto-39529 | 507 |
+| decreto-41724 | 515 |
+| decreto-81668 | 523 |
+| decreto-83937 | 531 |
+| decreto-86009 | 539 |
+| decreto-86715 | 547 |
+| decreto-88988 | 555 |
+| decreto-92181 | 563 |
+| decreto-99244 | 571 |
+
 ## decreto-101
 
 ### art. 7º
@@ -515,3 +575,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | cvm/decisoes-antigas/1996.md |
+
+Fim do subíndice.

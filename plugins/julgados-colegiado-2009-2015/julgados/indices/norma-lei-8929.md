@@ -36,3 +36,5 @@ Norma: [leis/lei-08929.md](../../../normas/normas/leis/lei-08929.md) (texto vige
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 4º-A | decisao-colegiado | RJ2013/5929 | 2013-08-27 | deferido | securitizacao | O Colegiado, por unanimidade, autorizou o registro da oferta pública da 9ª série da 1ª emissão de CRA da Octante Securitizadora S.A., acompanhando a manifestação favorável da SRE (MEMO/SRE/GER-1/Nº 045/2013). Fundamentos: patrimônio separado, oferta restrita a investidores qualificados, rating AAA (exp)sf(bra) e precedente de estrutura similar. | cvm/colegiado/2013/col-20130827-d03.md |
+
+Fim do subíndice.

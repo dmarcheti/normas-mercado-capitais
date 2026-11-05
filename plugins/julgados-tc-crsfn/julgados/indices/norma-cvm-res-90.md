@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0090.md](../../../normas/normas/cvm/resolucoes/0090.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP2017/294 | 2023-04-11 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS. DESCUMPRIMENTO DE NORMA CONTÁBIL RELATIVA À REDUÇÃO AO VALOR RECUPERÁVEL DE ATIVOS . AUSÊNCIA DO TESTE INDIVIDUAL DE IMPAIRMENT. FALTA DO DEVER DE DILIGÊNCIA. Apuração da responsabilidade dos administradores da Petróleo Brasileiro S.A. – Petrobrás. Culpabilidade do Diretor Financeiro não demonstrada. Culpabilidade do Diretor Presidente comprovada. Recursos conhecidos, provimento e desprovimento. | crsfn/2023/10372-100096-2021-73.md |
+
+Fim do subíndice.

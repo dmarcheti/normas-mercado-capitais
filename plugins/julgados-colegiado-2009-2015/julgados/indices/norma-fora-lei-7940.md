@@ -7,6 +7,19 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 270 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 23 |
+| art. 2º | 30 |
+| art. 3º | 65 |
+| art. 4º | 98 |
+| art. 5º | 104 |
+| Citada sem dispositivo identificado | 159 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -253,3 +266,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/2386 | 2009-03-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a cobrança de taxa de fiscalização. Proc. RJ2007/2386. | cvm/colegiado/2009/col-20090324-d02.md |
 | decisao-colegiado | RJ2002/0144 | 2009-03-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a cobrança de taxa de fiscalização. Proc. RJ2002/0144. | cvm/colegiado/2009/col-20090324-d01.md |
 | decisao-colegiado | RJ2002/3021 | 2009-03-03 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3021. | cvm/colegiado/2009/col-20090303-d05.md |
+
+Fim do subíndice.

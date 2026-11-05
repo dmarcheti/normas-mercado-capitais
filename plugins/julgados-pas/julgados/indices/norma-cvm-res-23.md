@@ -137,3 +137,5 @@ Norma: [cvm/resolucoes/0023.md](../../../normas/normas/cvm/resolucoes/0023.md) (
 | pas | 19957.009725/2018-20 | 2022-10-18 | condenacao | auditoria-independente | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Recrusul S.A., dos exercícios sociais de 2015 e 2016, em alegada infração ao art. 20 da Instrução CVM nº 308/1999. Multas | cvm/pas/2022/19957-009725-2018-20.md |
 | pas | 19957.009525/2018-77 | 2022-10-18 | condenacao | auditoria-independente | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Recrusul S.A., dos exercícios sociais de 2012, 2013 e 2014, em alegada infração ao art. 20 da Instrução CVM nº 308/99. Multas | cvm/pas/2022/19957-009525-2018-77.md |
 | pas | RJ2010/10555 | 2011-09-06 | condenacao | assembleia-acionistas | SERGUS Descumprimento, por parte do Instituto Banese de Seguridade Social – Sergus, da vedação de participar de eleição para vaga de Conselheiro Fiscal do Banese, direito esse que cabe aos acionistas preferencialistas. Multa. | cvm/pas/2011/rj2010-10555.md |
+
+Fim do subíndice.

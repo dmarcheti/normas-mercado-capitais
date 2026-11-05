@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 689 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2011-12 | 29 |
+| 2011-11 | 76 |
+| 2011-10 | 180 |
+| 2011-09 | 235 |
+| 2011-08 | 310 |
+| 2011-07 | 358 |
+| 2011-06 | 384 |
+| 2011-05 | 425 |
+| 2011-04 | 473 |
+| 2011-03 | 513 |
+| 2011-02 | 581 |
+| 2011-01 | 667 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 356/2001 | 2011-12-27 | deferido | fundos-investimento | O Colegiado deferiu a dispensa da contratação de custodiante (art. 8º, §1º, IV, da Instrução CVM 356/01) para o Union National FIDC Financeiros Mercantis, condicionada à ratificação pela assembleia de cotistas de 09.01.12, à republicação do edital com a liquidação do fundo na pauta e à aprovação pelos cotistas, conforme os pontos levantados pela SIN. | cvm/colegiado/2011/col-20111227-d11.md |
@@ -666,3 +685,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2010/14976 | 2011-01-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/14976. | cvm/colegiado/2011/col-20110104-d02.md |
 | RJ2009/5519 | 2011-01-04 | outro | processual | O Colegiado determinou o arquivamento do PAS 16/2005 em relação aos compromitentes, por cumprimento dos Termos de Compromisso, com base nas manifestações da SAD e da SFI de que não há obrigação adicional a cumprir. | cvm/colegiado/2011/col-20110104-d01.md |
 | RJ2010/17869 | 2011-01-03 | outro | normativo | O Colegiado aprovou a realização de audiência pública, até 03.02.11, sobre o texto da Medida Provisória 517/10, que altera a Lei 6.404/76 para flexibilizar a emissão de debêntures e viabilizar mercado secundário mais dinâmico para esses papéis. A SDM ficou encarregada de consolidar as sugestões. | cvm/colegiado/2011/col-20110103-d01.md |
+
+Fim do subíndice.

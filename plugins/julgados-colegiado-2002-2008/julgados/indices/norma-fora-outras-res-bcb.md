@@ -31,3 +31,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 1º, § 1º | decisao-colegiado | RJ2003/11117 | 2005-03-01 | nao-provido | fundos-investimento | O Colegiado negou recurso do Banco Itaú S.A. contra decisão da SIN e manteve o entendimento de que a AGE do Fundo Itaú Performance FACFI, de 30.06.03, não foi regularmente convocada, pois a publicação só no site do administrador não vale como correspondência aos cotistas. Processo volta à área técnica. | cvm/colegiado/2005/col-20050301-d10.md |
+
+Fim do subíndice.

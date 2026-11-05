@@ -51,3 +51,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ-2003-466 | 2009-05-06 | condenacao | exercicio-irregular | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Captação de clientela sem autorização oficial para atuar como agente autônomo – Irregularidade caracterizada - Recurso de ofício provido. | crsfn/2009/8610.md |
 | termo-compromisso | RJ2005/3304 | 2006-01-24 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso dos indiciados no PAS RJ2005/3304, acompanhando o parecer do Comitê, que entendeu não serem convenientes, embora preenchidos os requisitos legais. Um diretor também votou pela rejeição, por entender que as propostas deveriam prever pagamento ao Tesouro Nacional. | cvm/colegiado/2006/col-20060124-d02.md |
 | termo-compromisso | SP2003/0466 | 2004-10-15 | rejeitado | outros | O Colegiado negou a celebração de Termo de Compromisso no PAS CVM SP2003/0466, acompanhando o voto do relator, por considerar insuficientes as propostas apresentadas pelos indiciados. | cvm/colegiado/2004/col-20041015-d02.md |
+
+Fim do subíndice.

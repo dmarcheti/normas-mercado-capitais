@@ -100,3 +100,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | fundos-investimento | O Colegiado autorizou a área técnica a conceder autorização para alienação privada de participações do Fundo Investidores Institucionais na Santos Brasil S.A., condicionada à prova de autorização da Secretaria de Previdência Complementar ou de sua dispensa. Pelo relator, ponderados: desinvestimento, private equity e acordo entre cotistas. | cvm/colegiado/2006/col-20060503-d04.md |
 | decisao-colegiado | RJ2004/6792 | 2004-12-14 | outro | multa-cominatoria-taxa | Consulta formulada pela ancine referente à incidência da taxa de fiscalização sobre os funcine. Proc. RJ2004/6792. | cvm/colegiado/2004/col-20041214-d06.md |
 | decisao-colegiado | RJ2004/1494 | 2004-04-27 | outro | normativo | O Colegiado aprovou a minuta apresentada de alteração da Instrução CVM 391/03, que dispõe sobre a constituição, o funcionamento e a administração dos fundos de investimento em participações (FIP). | cvm/colegiado/2004/col-20040427-d01.md |
+
+Fim do subíndice.

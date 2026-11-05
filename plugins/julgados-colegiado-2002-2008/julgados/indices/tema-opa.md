@@ -157,3 +157,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2002/175 | 2002-04-10 | parcial | opa | O Colegiado autorizou o Banco Itaú a realizar a OPA do BEG por procedimento diferenciado, com leilão em 15 dias e sem revisão de preço (Lei 6.404/76, art. 4º-A; IN CVM 361/02, arts. 23 e 24). Exigiu laudo de agosto/2001 da Deloitte em vez da dispensa de laudo (art. 8º) e solicitou ajustes na minuta do instrumento de oferta. | cvm/colegiado/2002/col-20020410-d13.md |
 | decisao-colegiado | RJ2002/2069 | 2002-03-15 | deferido | opa | O Colegiado aprovou, nos termos do art. 34 da Instrução CVM 361/02, procedimento diferenciado e dispensa de formalidades de OPA para a aquisição de ações ordinárias da Vale do Rio Doce pelos ofertantes INVESTVALE e PETROS, considerando a manifestação favorável da SRE. | cvm/colegiado/2002/col-20020315-d01.md |
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
+
+Fim do subíndice.

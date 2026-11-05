@@ -38,3 +38,5 @@ Norma: [leis/lei-08668.md](../../../normas/normas/leis/lei-08668.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.006941/2017-32 | 2021-04-27 | aceito | fundos-investimento | O Colegiado aceitou proposta de Termo de Compromisso de R$ 1.505.000,00, em parcela única, de gestora, administradora e dois diretores de FII, por indícios de atuação semelhante a pirâmide financeira (ICVM 8/1979, II, “c”; ICVM 472/2008), acompanhando o Comitê. Valores: gestora R$ 450.000,00; administradora R$ 517.500,00; diretores R$ 250.000,00 e R$ 287.500,00. | cvm/colegiado/2021/col-20210427-d1086.md |
+
+Fim do subíndice.

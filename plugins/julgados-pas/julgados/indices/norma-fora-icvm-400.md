@@ -7,6 +7,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 627 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 56 |
+| art. 2º | 64 |
+| art. 3º | 125 |
+| art. 4º | 210 |
+| art. 5º | 271 |
+| art. 12 | 278 |
+| art. 15 | 284 |
+| art. 17 | 290 |
+| art. 18 | 296 |
+| art. 19 | 302 |
+| art. 20 | 311 |
+| art. 23 | 319 |
+| art. 24 | 327 |
+| art. 27 | 333 |
+| art. 32 | 339 |
+| art. 32-A | 345 |
+| art. 33 | 351 |
+| art. 37 | 357 |
+| art. 38 | 364 |
+| art. 39 | 373 |
+| art. 40 | 380 |
+| art. 41 | 386 |
+| art. 43 | 392 |
+| art. 44 | 398 |
+| art. 45 | 405 |
+| art. 48 | 412 |
+| art. 49 | 432 |
+| art. 50 | 438 |
+| art. 51 | 446 |
+| art. 53 | 452 |
+| art. 56 | 458 |
+| art. 56-A | 470 |
+| art. 56-B | 476 |
+| art. 56-C | 526 |
+| art. 59 | 532 |
+| art. 389 | 592 |
+| art. 392 | 598 |
+| art. 596 | 604 |
+| Citada sem dispositivo identificado | 610 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -577,3 +623,5 @@ Norma: fora do acervo.
 | pas | RJ2004/5131 | 2004-12-17 | absolvicao | opa | Não caracterização de violação ao disposto no art. 9º e no Anexo I, item II, alínea “i”, da Instrução CVM nº 361/02 - Obrigação de submissão de material publicitário à CVM. Absolvição. | cvm/pas/2004/rj2004-5131.md |
 | pas | RJ2003/8172 | 2004-10-15 | parcial | outros | [pessoa física] E OUTROS (SUBESTAÇÃO ELETROMETRÔ S/A) Descumprimento do art. 14, caput, da Instrução CVM nº 13/80. Multa e Absolvição. Não caracterização de descumprimento ao disposto no art. 68, § 1º, e art. 153, ambos da Lei nº 6.404/76; incisos I a V da Instrução CVM nº 28/83 e § 1º do art. 14, da Instrução CVM nº 13/80. Absolvições. | cvm/pas/2004/rj2003-8172.md |
 | pas | 05/2002 | 2004-08-05 | parcial | ofertas-publicas | Infração ao art. 14, caput e § 1º, da Instrução CVM n° 13/80. Multas. - Infração aos artigos 24 e 25 da Instrução CVM n° 216/94, ao item 11.3.7.1 da NBC-T-11, aprovada pela Resolução CFC n° 700/91 e à letra “c” do item 16 do Comunicado Técnico nº 02/90 do IBRACON, aprovado pela Resolução CFC n° 678, de 24.07.90, cujo teor foi mantido pela letra “c” do item 16 do Comunicado Técnico n° 06/96 do IBRACON Multas. - Infração ao art. 2º, § 1º, da Instrução CVM n° 31/84. Multa e Absolvição. - Infração ao art. 176, § 5º, alínea “i”, da Lei n.º 6.404/76 c/c o art. 1º, caput, da Instrução CVM n° 248/96. Multas e Absolvição. | cvm/pas/2004/05-2002.md |
+
+Fim do subíndice.

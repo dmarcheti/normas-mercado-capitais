@@ -40,3 +40,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 21, inciso II | decisao-colegiado | RJ2009/5844 | 2009-10-06 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu novo registro de agente autônomo de investimento, por falta de aprovação em exame de qualificação técnica (art. 5º, II, da Instrução 434/06). Acompanhando o relator, o cancelamento voluntário anterior encerrou a relação com a CVM. | cvm/colegiado/2009/col-20091006-d05.md |
 | art. 21, inciso II | decisao-colegiado | RJ2012/10733 | 2012-12-11 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso contra o indeferimento pela SMI de pedido de autorização para agente autônomo de investimento, por falta de comprovação da conclusão do ensino médio (art. 7º, I, da Instrução CVM 497/2011), acompanhando o voto do relator. | cvm/colegiado/2012/col-20121211-d42.md |
+
+Fim do subíndice.

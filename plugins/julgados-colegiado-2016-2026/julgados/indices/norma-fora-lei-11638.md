@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.006139/2016-61 | 2017-09-26 | nao-provido | auditoria-independente | O Colegiado, por unanimidade, acompanhando a área técnica, indeferiu recurso contra decisão da SNC que negou registro de auditor independente pessoa física, por falta de comprovação do exercício da atividade de auditoria (art. 7º da Instrução CVM 308/1999). | cvm/colegiado/2017/col-20170926-d0448.md |
 | decisao-colegiado | 19957.003735/2017-71 | 2017-09-05 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhou o relator, que respondeu negativamente à consulta da Eletropaulo: a reserva especial de ágio não pode ser excluída do patrimônio líquido no cálculo do reembolso de dissidentes (art. 45, § 1º, da Lei 6.404/1976). O relator propôs estudo da SNC sobre os arts. 6º e 7º da Instrução CVM 319. | cvm/colegiado/2017/col-20170905-d0706.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

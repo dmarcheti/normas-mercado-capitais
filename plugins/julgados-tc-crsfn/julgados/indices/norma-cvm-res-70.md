@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0070.md](../../../normas/normas/cvm/resolucoes/0070.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º | termo-compromisso | 19957.015165/2023-18 | 2024-10-08 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores de companhia aberta, por recusar pedido de voto múltiplo em boletim de voto a distância (art. 15 da RCVM 80), no valor de R$ 330.000,00, contraproposta do Comitê que o proponente aceitou. Acompanhou o parecer do Comitê. | cvm/colegiado/2024/col-20241008-d3143.md |
+
+Fim do subíndice.

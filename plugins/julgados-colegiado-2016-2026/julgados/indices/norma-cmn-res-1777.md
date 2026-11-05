@@ -24,3 +24,5 @@ Norma: [cmn/resolucoes/1777.md](../../../normas/normas/cmn/resolucoes/1777.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 5º | decisao-colegiado | 476/2009; 19957.007194/2017-50; 19957.007197/2017-93 | 2021-02-23 | outro | ofertas-publicas | O Colegiado entendeu, por unanimidade, em consulta da SRE, que operações sem real esforço de captação junto a público indeterminado podem, voluntariamente, seguir os regimes das ofertas públicas. A consulta tratava de operações sob a ICVM 476/2009 sem esforço efetivo de distribuição. Fixou entendimento; não decidiu caso concreto. | cvm/colegiado/2021/col-20210223-d1424.md |
+
+Fim do subíndice.

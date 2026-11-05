@@ -8,6 +8,31 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1141 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cmn-1 (36); res-cmn-2 (44); res-cmn-4 (52); res-cmn-5 (60); res-cmn-6 (68); res-cmn-9 (76)
+res-cmn-11 (84); res-cmn-24 (92); res-cmn-39 (100); res-cmn-40 (108); res-cmn-54 (116); res-cmn-63 (124)
+res-cmn-346 (132); res-cmn-401 (140); res-cmn-436 (151); res-cmn-457 (162); res-cmn-702 (170)
+res-cmn-922 (178); res-cmn-961 (186); res-cmn-1007 (195); res-cmn-1025 (203); res-cmn-1065 (211)
+res-cmn-1120 (221); res-cmn-1133 (235); res-cmn-1146 (245); res-cmn-1203 (254); res-cmn-1214 (262)
+res-cmn-1238 (270); res-cmn-1289 (278); res-cmn-1323 (304); res-cmn-1328 (312); res-cmn-1366 (320)
+res-cmn-1377 (328); res-cmn-1397 (336); res-cmn-1423 (344); res-cmn-1551 (352); res-cmn-1559 (360)
+res-cmn-1645 (370); res-cmn-1653 (382); res-cmn-1665 (396); res-cmn-1723 (411); res-cmn-1748 (420)
+res-cmn-1762 (434); res-cmn-1832 (442); res-cmn-1854 (458); res-cmn-1907 (466); res-cmn-1942 (476)
+res-cmn-1996 (484); res-cmn-2025 (492); res-cmn-2034 (500); res-cmn-2109 (508); res-cmn-2197 (516)
+res-cmn-2303 (524); res-cmn-2324 (533); res-cmn-2424 (551); res-cmn-2451 (563); res-cmn-2486 (579)
+res-cmn-2549 (588); res-cmn-2554 (596); res-cmn-2565 (604); res-cmn-2616 (612); res-cmn-2682 (620)
+res-cmn-2691 (696); res-cmn-2829 (704); res-cmn-2838 (725); res-cmn-2875 (748); res-cmn-2878 (756)
+res-cmn-2907-2011 (764); res-cmn-2911 (772); res-cmn-2933 (780); res-cmn-3040 (788); res-cmn-3059 (796)
+res-cmn-3110 (804); res-cmn-3121 (813); res-cmn-3251 (855); res-cmn-3284 (863); res-cmn-3308 (871)
+res-cmn-3347 (879); res-cmn-3380 (887); res-cmn-3444 (895); res-cmn-3456 (903); res-cmn-3464 (911)
+res-cmn-3490 (919); res-cmn-3506 (927); res-cmn-3539 (935); res-cmn-3790 (943); res-cmn-3792 (957)
+res-cmn-3922 (990); res-cmn-3954 (1046); res-cmn-3992 (1054); res-cmn-4122 (1062); res-cmn-4193 (1070)
+res-cmn-4263 (1078); res-cmn-4604 (1092); res-cmn-4695 (1101); res-cmn-4963 (1109); res-cmn-6300 (1117)
+res-cmn-6604 (1125); res-cmn-7792 (1133)
+
 ## res-cmn-1
 
 ### art. 11
@@ -1112,3 +1137,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | manipulacao-fraude | Apurar supostas operações fraudulentas no mercado de valores mobiliários, na forma conceituada pelo item II, “c”, da Instrução CVM n° 08/1979, em violação do item I da mesma Instrução, em vigor à época dos fatos. Absolvição. | cvm/pas/2024/19957-006657-2020-61.md |
+
+Fim do subíndice.

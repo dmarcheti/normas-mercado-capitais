@@ -12,3 +12,5 @@ Norma: [cmn/resolucoes/3261.md](../../../normas/normas/cmn/resolucoes/3261.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2005/4302 | 2005-12-20 | outro | fundos-investimento | Em consulta, o Colegiado entendeu que: (i) não é admissível cláusula regulamentar genérica que autorize antecipadamente investimento em empresas de pessoas do art. 36 da Instrução CVM 391/03, admitida autorização para empresas identificadas no regulamento; (ii) a CVM não tem competência para autorizar banco comercial a distribuir cotas de FIP. | cvm/colegiado/2005/col-20051220-d09.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [leis/lei-14711.md](../../../normas/normas/leis/lei-14711.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.003673/2020-01 | 2024-06-20 | absolvicao | ofertas-publicas | Apurar supostas irregularidades na emissão de debêntures da Sugoi, nos termos da Instrução CVM nº 476/2009. Absolvição. | cvm/pas/2024/19957-003673-2020-01.md |
+
+Fim do subíndice.

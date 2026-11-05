@@ -55,3 +55,5 @@ Norma: [cvm/instrucoes/0579.md](../../../normas/normas/cvm/instrucoes/0579.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Advertências. | cvm/pas/2024/19957-010272-2021-80.md |
 | pas | 19957.003200/2017-08 | 2023-01-31 | condenacao | fundos-investimento | Apurar responsabilidades pelo descumprimento do disposto nos artigos65, inciso XV, e 65-A, inciso I, ambos da Instrução CVM n° 409/2004. Multas. | cvm/pas/2023/19957-003200-2017-08.md |
+
+Fim do subíndice.

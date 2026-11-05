@@ -7,6 +7,50 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 414 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 54 |
+| art. 17 | 69 |
+| art. 39 | 75 |
+| art. 41 | 81 |
+| art. 56 | 87 |
+| art. 59 | 94 |
+| art. 78 | 114 |
+| art. 79 | 120 |
+| art. 80 | 127 |
+| art. 81 | 133 |
+| art. 82 | 139 |
+| art. 83 | 145 |
+| art. 84 | 151 |
+| art. 85 | 157 |
+| art. 86 | 163 |
+| art. 87 | 169 |
+| art. 88 | 175 |
+| art. 89 | 181 |
+| art. 90 | 187 |
+| art. 91 | 217 |
+| art. 92 | 228 |
+| art. 102 | 287 |
+| art. 104 | 295 |
+| art. 105 | 305 |
+| art. 107 | 312 |
+| art. 110 | 318 |
+| art. 117 | 325 |
+| art. 119 | 331 |
+| art. 120 | 337 |
+| art. 121 | 343 |
+| art. 122 | 349 |
+| art. 134 | 355 |
+| art. 141 | 363 |
+| art. 142 | 379 |
+| art. 143 | 385 |
+| art. 177 | 392 |
+| Citada sem dispositivo identificado | 398 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -366,3 +410,5 @@ Norma: fora do acervo.
 | termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | manipulacao-fraude | Apreciação de propostas de termo de compromisso. PAS SEI 19957.006657/2020-61. | cvm/colegiado/2022/col-20220215-d2291.md |
 | termo-compromisso | 19957.004598/2020-9 | 2021-12-07 | aceito | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de relações com investidores da Smiles Fidelidade S.A., por falha de divulgação sobre transações com partes relacionadas (ICVM 480/2009, art. 30, XXXIII). Pagamento de R$ 578.000,00 em parcela única, contraproposta do Comitê que o proponente aceitou. | cvm/colegiado/2021/col-20211207-d2420.md |
 | acordao-crsfn | RJ2015/9465 | 2020-07-21 | condenacao | fundos-investimento | RECURSO VOLUNTÁRIO Não cumprimento do dever de diligência na administração dos recursos do FIDC ESHER. Recurso desprovido. | crsfn/2020/10372-100001-2019-05.md |
+
+Fim do subíndice.

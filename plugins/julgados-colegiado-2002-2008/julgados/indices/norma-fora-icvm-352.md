@@ -70,3 +70,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2003/0463. | cvm/colegiado/2005/col-20050125-d04.md |
 | decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso e manteve decisão da SMI que negou autorização para exercer a atividade de agente autônomo de investimento. Fundamento: a interessada não estava registrada no RGA em 01.06.2001, requisito do art. 21 da IN CVM 355/2001 para permanência na atividade. Acompanhou o voto da relatora. | cvm/colegiado/2002/col-20020416-d05.md |
 | decisao-colegiado | RJ2001/12016 | 2002-04-10 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Para dispensa do exame de certificação exige-se registro efetivo no RGA em 1º/6/2001, requisito que o recorrente não comprovou. | cvm/colegiado/2002/col-20020410-d09.md |
+
+Fim do subíndice.

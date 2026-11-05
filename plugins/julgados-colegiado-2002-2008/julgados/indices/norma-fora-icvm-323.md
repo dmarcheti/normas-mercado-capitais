@@ -41,3 +41,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/12767 | 2003-12-03 | indeferido | assembleia-acionistas | O Colegiado, por maioria, indeferiu o pedido de interrupção do prazo de antecedência da convocação da AGE da Cataguazes-Leopoldina, adotadas as razões do MEMO/SEP/GEA-3/n.º 235/03, e negou provimento ao recurso sobre pedido de vista dos autos. Uma diretora ficou vencida, por entender que a vista deveria ser dada à requerente. | cvm/colegiado/2003/col-20031203-d01.md |
 | decisao-colegiado | RJ2001/2166 | 2002-04-10 | parcial | deveres-administradores | O Colegiado deu provimento parcial a recurso de conselheiro fiscal contra decisão da SEP: negou a antecipação da convocação do conselho fiscal e o refazimento de atos, e determinou à SEP que examine desde logo proposta de inquérito ou termo de acusação por possível fraude ao art. 161, § 4º, a, da Lei 6.404/76. | cvm/colegiado/2002/col-20020410-d05.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

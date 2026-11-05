@@ -48,3 +48,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2010/17288 | 2011-02-22 | — | ofertas-publicas | Pedido de anuência para emissão privada de debêntures da Companhia Paulista de Securitização S.A., nos termos da Resolução 2.391/97. Julgamento suspenso por pedido de vista. | cvm/colegiado/2011/col-20110222-d02.md |
+
+Fim do subíndice.

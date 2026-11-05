@@ -8,6 +8,60 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1931 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+deliberacao-cvm-0 (65); deliberacao-cvm-1 (73); deliberacao-cvm-4 (87); deliberacao-cvm-5 (95)
+deliberacao-cvm-9 (103); deliberacao-cvm-14 (111); deliberacao-cvm-20 (120); deliberacao-cvm-29 (128)
+deliberacao-cvm-51 (137); deliberacao-cvm-105 (145); deliberacao-cvm-175 (154); deliberacao-cvm-244 (162)
+deliberacao-cvm-323 (175); deliberacao-cvm-363 (183); deliberacao-cvm-388 (192); deliberacao-cvm-443 (202)
+deliberacao-cvm-447 (211); deliberacao-cvm-452 (219); deliberacao-cvm-458 (227); deliberacao-cvm-466 (235)
+deliberacao-cvm-468 (243); deliberacao-cvm-475 (251); deliberacao-cvm-476 (266); deliberacao-cvm-486 (279)
+deliberacao-cvm-489 (287); deliberacao-cvm-498 (296); deliberacao-cvm-501 (305); deliberacao-cvm-502 (314)
+deliberacao-cvm-508 (322); deliberacao-cvm-519 (330); deliberacao-cvm-521 (340); deliberacao-cvm-533 (356)
+deliberacao-cvm-535 (373); deliberacao-cvm-536 (386); deliberacao-cvm-539 (394); deliberacao-cvm-553 (402)
+deliberacao-cvm-557 (410); deliberacao-cvm-560 (419); deliberacao-cvm-561 (427); deliberacao-cvm-563 (436)
+deliberacao-cvm-564 (446); deliberacao-cvm-571 (455); deliberacao-cvm-575 (463); deliberacao-cvm-582 (472)
+deliberacao-cvm-583 (482); deliberacao-cvm-584 (490); deliberacao-cvm-588 (499); deliberacao-cvm-591 (507)
+deliberacao-cvm-592 (515); deliberacao-cvm-593 (528); deliberacao-cvm-594 (538); deliberacao-cvm-596 (550)
+deliberacao-cvm-598 (559); deliberacao-cvm-599 (568); deliberacao-cvm-604 (584); deliberacao-cvm-607 (595)
+deliberacao-cvm-616 (603); deliberacao-cvm-617 (612); deliberacao-cvm-619 (621); deliberacao-cvm-621 (630)
+deliberacao-cvm-624 (639); deliberacao-cvm-633 (647); deliberacao-cvm-636 (656); deliberacao-cvm-637 (665)
+deliberacao-cvm-638 (674); deliberacao-cvm-639 (683); deliberacao-cvm-640 (694); deliberacao-cvm-641 (704)
+deliberacao-cvm-642 (715); deliberacao-cvm-643 (731); deliberacao-cvm-644 (742); deliberacao-cvm-646 (754)
+deliberacao-cvm-647 (763); deliberacao-cvm-649 (771); deliberacao-cvm-650 (780); deliberacao-cvm-651 (790)
+deliberacao-cvm-652 (799); deliberacao-cvm-653 (808); deliberacao-cvm-654 (818); deliberacao-cvm-659 (827)
+deliberacao-cvm-665 (836); deliberacao-cvm-672 (847); deliberacao-cvm-673 (856); deliberacao-cvm-675 (865)
+deliberacao-cvm-676 (876); deliberacao-cvm-677 (887); deliberacao-cvm-682 (896); deliberacao-cvm-683 (904)
+deliberacao-cvm-684 (915); deliberacao-cvm-693 (923); deliberacao-cvm-694 (932); deliberacao-cvm-695 (942)
+deliberacao-cvm-696 (953); deliberacao-cvm-697 (963); deliberacao-cvm-698 (972); deliberacao-cvm-699 (983)
+deliberacao-cvm-708 (996); deliberacao-cvm-709 (1012); deliberacao-cvm-710 (1027); deliberacao-cvm-714 (1035)
+deliberacao-cvm-716 (1044); deliberacao-cvm-717 (1052); deliberacao-cvm-718 (1060); deliberacao-cvm-719 (1068)
+deliberacao-cvm-723 (1076); deliberacao-cvm-724 (1084); deliberacao-cvm-726 (1092); deliberacao-cvm-727 (1100)
+deliberacao-cvm-728 (1110); deliberacao-cvm-729 (1118); deliberacao-cvm-730 (1128); deliberacao-cvm-731 (1137)
+deliberacao-cvm-732 (1146); deliberacao-cvm-733 (1155); deliberacao-cvm-737 (1163); deliberacao-cvm-739 (1171)
+deliberacao-cvm-740 (1179); deliberacao-cvm-748 (1190); deliberacao-cvm-749 (1198); deliberacao-cvm-751 (1214)
+deliberacao-cvm-752 (1222); deliberacao-cvm-753 (1230); deliberacao-cvm-757 (1243); deliberacao-cvm-758 (1262)
+deliberacao-cvm-760 (1270); deliberacao-cvm-761 (1278); deliberacao-cvm-762 (1286); deliberacao-cvm-763 (1297)
+deliberacao-cvm-764 (1305); deliberacao-cvm-767 (1321); deliberacao-cvm-770 (1329); deliberacao-cvm-771 (1338)
+deliberacao-cvm-772 (1346); deliberacao-cvm-776 (1358); deliberacao-cvm-778 (1366); deliberacao-cvm-782 (1374)
+deliberacao-cvm-783 (1388); deliberacao-cvm-785 (1396); deliberacao-cvm-786 (1404); deliberacao-cvm-787 (1413)
+deliberacao-cvm-788 (1423); deliberacao-cvm-793 (1431); deliberacao-cvm-794 (1444); deliberacao-cvm-795 (1453)
+deliberacao-cvm-796 (1461); deliberacao-cvm-797 (1476); deliberacao-cvm-802 (1484); deliberacao-cvm-804 (1492)
+deliberacao-cvm-805 (1501); deliberacao-cvm-806 (1510); deliberacao-cvm-809 (1519); deliberacao-cvm-811 (1531)
+deliberacao-cvm-812 (1539); deliberacao-cvm-813 (1547); deliberacao-cvm-815 (1556); deliberacao-cvm-818 (1564)
+deliberacao-cvm-819 (1573); deliberacao-cvm-824 (1583); deliberacao-cvm-825 (1591); deliberacao-cvm-827 (1599)
+deliberacao-cvm-829 (1607); deliberacao-cvm-835 (1617); deliberacao-cvm-836 (1628); deliberacao-cvm-838 (1637)
+deliberacao-cvm-841 (1645); deliberacao-cvm-843 (1654); deliberacao-cvm-844 (1663); deliberacao-cvm-846 (1671)
+deliberacao-cvm-850 (1686); deliberacao-cvm-851 (1695); deliberacao-cvm-852 (1703); deliberacao-cvm-853 (1715)
+deliberacao-cvm-854 (1724); deliberacao-cvm-855 (1733); deliberacao-cvm-857 (1743); deliberacao-cvm-858 (1751)
+deliberacao-cvm-859 (1760); deliberacao-cvm-860 (1769); deliberacao-cvm-861 (1779); deliberacao-cvm-862 (1788)
+deliberacao-cvm-864 (1796); deliberacao-cvm-866 (1804); deliberacao-cvm-869 (1812); deliberacao-cvm-870 (1820)
+deliberacao-cvm-871 (1829); deliberacao-cvm-873 (1837); deliberacao-cvm-874 (1847); deliberacao-cvm-875 (1860)
+deliberacao-cvm-877 (1871); deliberacao-cvm-879 (1882); deliberacao-cvm-888 (1890); deliberacao-cvm-892 (1898)
+deliberacao-cvm-896 (1906); deliberacao-cvm-4572 (1915); deliberacao-cvm-5385 (1923)
+
 ## deliberacao-cvm-0
 
 ### Citada sem dispositivo identificado
@@ -1873,3 +1927,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 24 | decisao-colegiado | RJ2013/8609 | 2018-01-16 | deferido | processual | O Colegiado, por unanimidade, deferiu pedido de anulação do julgamento do PAS RJ2013/8609, que condenou o requerente a multa de R$ 100.000,00 por uso de informação privilegiada, e determinou novo julgamento com intimação para manifestação sobre provas posteriores. Acompanhou o voto do relator: votos dados na primeira sessão, com análise parcial das provas, foram determinantes para a condenação. | cvm/colegiado/2018/col-20180116-d8978.md |
+
+Fim do subíndice.

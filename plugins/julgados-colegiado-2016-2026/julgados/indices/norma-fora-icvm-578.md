@@ -149,3 +149,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.006753/2017-12 | 2018-01-30 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso e manteve o cancelamento do registro de oferta de cotas de FII após a renúncia da gestora, que atuava como coordenadora líder. Acompanhou voto de um diretor que, divergindo da SRE, invocou a estabilidade do conteúdo da oferta (Instrução CVM 400/03). | cvm/colegiado/2018/col-20180130-d0885.md |
 | decisao-colegiado | 19957.006913/2016-34 | 2017-04-18 | nao-provido | administracao-carteiras | O Colegiado, por unanimidade, negou provimento a recurso contra indeferimento de credenciamento de administrador de carteiras pela SIN. Com base na área técnica (Memorando 23/2017), as experiências apresentadas não foram consideradas válidas para a Instrução CVM 558/2015. Indeferimento não impede a atuação, mas exige exame de certificação. | cvm/colegiado/2017/col-20170418-d0654.md |
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
+
+Fim do subíndice.

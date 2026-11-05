@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 325 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2022-12 | 29 |
+| 2022-11 | 55 |
+| 2022-10 | 77 |
+| 2022-09 | 93 |
+| 2022-08 | 108 |
+| 2022-07 | 127 |
+| 2022-06 | 143 |
+| 2022-05 | 163 |
+| 2022-04 | 210 |
+| 2022-03 | 235 |
+| 2022-02 | 292 |
+| 2022-01 | 312 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 19957.015062/2022-69 | 2022-12-27 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade, indeferiu o pedido de interrupção do curso do prazo de convocação da AGE da Gafisa S.A., convocada por acionista para 02.01.2023, acompanhando o Parecer Técnico da SEP, com fulcro no art. 124, §5º, II, da Lei 6.404/1976. | cvm/colegiado/2022/col-20221227-d2772.md |
@@ -302,3 +321,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.010108/2021-72 | 2022-01-11 | parcial | criptoativos | O Colegiado deu provimento parcial a recurso da Equals9 contra decisão da SRE sobre dispensa de registro de oferta de tokens EQ9. Reconheceu que o token, nos termos apresentados, não é valor mobiliário nem CIC, mas negou a dispensa por não haver competência da CVM sobre a oferta, acompanhando as áreas técnicas. | cvm/colegiado/2022/col-20220111-d2453.md |
 | 19957.008129/2021-28 | 2022-01-11 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recursos da BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A. contra quatro multas cominatórias de R$ 30.000,00 cada da SIN por atraso na entrega de CDA e Perfil Mensal de janeiro/2020 de dois fundos, mantendo-as, com base na manifestação da área técnica. | cvm/colegiado/2022/col-20220111-d2452.md |
 | 19957.008135/2021-85 | 2022-01-11 | nao-provido | multa-cominatoria-taxa | O Colegiado, por unanimidade, negou provimento a recurso da Ferrovia Centro Atlântica S.A. contra multas cominatórias da SEP de R$ 30.000,00 cada, por envio fora do prazo de documentos da AGO de 2019 (boletim de voto a distância, mapas do escriturador, consolidado de voto a distância e final de votação). Acompanhou o Parecer Técnico nº 116/2021 e manteve as multas. | cvm/colegiado/2022/col-20220111-d2450.md |
+
+Fim do subíndice.

@@ -66,3 +66,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | — | 2006-05-26 | outro | normativo | O Colegiado aprovou proposta de alteração da Instrução CVM 260/97, sobre certificados de investimento em obras audiovisuais cinematográficas brasileiras. | cvm/colegiado/2006/col-20060526-d06.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [leis/lei-10198.md](../../../normas/normas/leis/lei-10198.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | normativo | O Colegiado concluiu que créditos de carbono não são valores mobiliários, mas ativos comercializáveis para cumprir metas de redução de emissão ou como investimento, com base em voto de diretor. Entendeu inconveniente caracterizá-los por lei; decidiu analisar no futuro a regulamentação, inclusive dos derivativos, caso a caso. | cvm/colegiado/2009/col-20090707-d07.md |
+
+Fim do subíndice.

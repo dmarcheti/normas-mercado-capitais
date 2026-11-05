@@ -23,3 +23,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.009743/2018-10 | 2018-11-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.009743/2018-10. | cvm/colegiado/2018/col-20181113-d1215.md |
 | decisao-colegiado | 19957.009640/2018-41 | 2018-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.009640/2018-41. | cvm/colegiado/2018/col-20181030-d1204.md |
 | decisao-colegiado | 19957.005581/2016-71 | 2017-11-07 | outro | auditoria-independente | O Colegiado, acompanhando o relator, declarou a perda do objeto do recurso do IBRACON contra o entendimento da SNC e da PFE sobre consulta à Instrução CVM 308/1999 (forma de sociedade simples e responsabilidade ilimitada dos sócios). A matéria já fora analisada na revisão da norma; ressalvou-se reapreciação na próxima revisão. | cvm/colegiado/2017/col-20171107-d0763.md |
+
+Fim do subíndice.

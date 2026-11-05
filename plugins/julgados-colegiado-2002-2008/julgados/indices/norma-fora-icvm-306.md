@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 671 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 34 |
+| art. 3º | 42 |
+| art. 4º | 67 |
+| art. 5º | 218 |
+| art. 7º | 249 |
+| art. 8º | 276 |
+| art. 9º | 282 |
+| art. 10 | 303 |
+| art. 11 | 310 |
+| art. 12 | 326 |
+| art. 14 | 460 |
+| art. 15 | 476 |
+| art. 16 | 486 |
+| art. 17 | 496 |
+| art. 20 | 504 |
+| art. 21-A | 585 |
+| Citada sem dispositivo identificado | 591 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -643,3 +667,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/4970 | 2005-10-11 | provido | registro-emissor | O Colegiado deu provimento a recurso da Companhia Industrial Dox contra decisão da SEP e fixou o cancelamento do registro de companhia aberta com efeito a partir de 07.08.97, acompanhando integralmente o voto do relator. Determinou que SEP e SDM estudem obrigar agentes fiduciários a comunicar à CVM o resgate integral de debêntures. | cvm/colegiado/2005/col-20051011-d01.md |
 | decisao-colegiado | — | 2002-05-07 | outro | normativo | O Colegiado aprovou a alteração da Instrução CVM 306/99, que dispõe sobre a administração de carteira de valores mobiliários, após audiência pública. | cvm/colegiado/2002/col-20020507-d06.md |
 | decisao-colegiado | — | 2002-03-19 | outro | normativo | O Colegiado aprovou a submissão à audiência pública da minuta de Instrução que altera a Instrução CVM 306/99, sobre administração de carteira de valores mobiliários. | cvm/colegiado/2002/col-20020319-d18.md |
+
+Fim do subíndice.

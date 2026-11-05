@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0034.md](../../../normas/normas/cvm/resolucoes/0034.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 7º, inciso II | acordao-crsfn | 19957.016206/2023-85 | 2025-11-11 | absolvicao | informacao-privilegiada | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NEGOCIAÇÃO DE ATIVOS EM PERÍODOS VEDADOS. Apuração da responsabilidade de Diretor da Diagnósticos da América S.A (DASA). Ausência de elemento volitivo. Contrato de adesão, padronizado. Infração não caracterizada. Pena de advertência afastada. Recurso conhecido e provido. | crsfn/2025/19957-016206-2023-85.md |
+
+Fim do subíndice.

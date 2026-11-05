@@ -82,3 +82,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2009-04-28 | deferido | infraestrutura-mercado | O Colegiado aprovou a minuta de alteração do Estatuto Social da BM&FBOVESPA S.A., proposta nos termos do art. 20, § 2º, e do art. 117, II, da Instrução CVM 461/07, acompanhando a SMI. Um diretor declarou impedimento antes da discussão. | cvm/colegiado/2009/col-20090428-d05.md |
 | decisao-colegiado | SP2009/0033 | 2009-04-08 | deferido | infraestrutura-mercado | O Colegiado aprovou minuta de alteração do estatuto social da CETIP S.A., conforme análise da SMI que concluiu atender à Instrução CVM 461. Após vista, um diretor concordou com a área técnica. | cvm/colegiado/2009/col-20090408-d01.md |
 | decisao-colegiado | 461/2007; 010/2009 | 2009-03-31 | deferido | infraestrutura-mercado | Cumprimento de requisitos da instrução nº 461/2007. | cvm/colegiado/2009/col-20090331-d05.md |
+
+Fim do subíndice.

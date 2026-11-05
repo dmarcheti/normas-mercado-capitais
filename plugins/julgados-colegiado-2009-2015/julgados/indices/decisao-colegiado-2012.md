@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 591 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2012-12 | 29 |
+| 2012-11 | 145 |
+| 2012-10 | 186 |
+| 2012-09 | 243 |
+| 2012-08 | 292 |
+| 2012-07 | 335 |
+| 2012-06 | 390 |
+| 2012-05 | 407 |
+| 2012-04 | 443 |
+| 2012-03 | 478 |
+| 2012-02 | 523 |
+| 2012-01 | 561 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ2012/15249 | 2012-12-28 | parcial | fundos-investimento | O Colegiado, por unanimidade, acompanhou a SIN e deferiu parcialmente o pedido da BB Gestão de Recursos DTVM S.A. (art. 64, VI, ICVM 409/04): autorizou, até 31/12/2012, a permuta privada de ativos do FFIE, mas não a recompra das ações pelo fundo. | cvm/colegiado/2012/col-20121228-d01.md |
@@ -568,3 +587,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2010/17781 | 2012-01-10 | outro | outros | Cumprimento de termo de compromisso. Com base nas manifestações da SAD e da SFI, que atestaram o pagamento na forma convencionada e a inexistência de obrigação adicional, o Colegiado determinou o arquivamento do PAS 16/2006 em relação aos compromitentes. | cvm/colegiado/2012/col-20120110-d03.md |
 | RJ2011/2039 | 2012-01-10 | outro | outros | O Colegiado determinou o arquivamento do PAS RJ2011/2039, por cumprimento do Termo de Compromisso firmado pelo único acusado, aprovado em 06/09/2011, com base na manifestação da SAD que atestou o pagamento sem obrigação adicional. | cvm/colegiado/2012/col-20120110-d02.md |
 | RJ2011/0288 | 2012-01-10 | outro | auditoria-independente | Cumprimento de termo de compromisso. | cvm/colegiado/2012/col-20120110-d01.md |
+
+Fim do subíndice.

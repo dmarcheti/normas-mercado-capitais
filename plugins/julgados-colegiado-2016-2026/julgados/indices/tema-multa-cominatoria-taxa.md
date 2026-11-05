@@ -5,6 +5,33 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 878 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2024 | 37 |
+| 2023 | 39 |
+| 2022 | 58 |
+| 2021 | 144 |
+| 2020 | 256 |
+| 2019 | 307 |
+| 2018 | 418 |
+| 2017 | 545 |
+| 2016-12 | 663 |
+| 2016-11 | 681 |
+| 2016-10 | 693 |
+| 2016-09 | 709 |
+| 2016-08 | 717 |
+| 2016-07 | 722 |
+| 2016-06 | 735 |
+| 2016-05 | 766 |
+| 2016-04 | 783 |
+| 2016-03 | 791 |
+| 2016-02 | 818 |
+| 2016-01 | 862 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.010218/2022-15 | 2024-11-12 | nao-provido | multa-cominatoria-taxa | O Colegiado, por unanimidade, negou provimento a recursos da MAF DTVM S.A. e manteve multas cominatórias ordinárias de R$ 30.000,00 cada, aplicadas a 18 FIDC NP pelo atraso no envio de informações ao SCR do BCB (data-base jan/2022; art. 3º da RCVM 47). Acompanhou a área técnica: informação periódica, não eventual, com rito cumprido. | cvm/colegiado/2024/col-20241112-d3174.md |
@@ -847,3 +874,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2015/12672 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12672. | cvm/colegiado/2016/col-20160105-d10005.md |
 | decisao-colegiado | RJ2015/12565 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12565. | cvm/colegiado/2016/col-20160105-d10004.md |
 | decisao-colegiado | RJ2015/12528 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12528. | cvm/colegiado/2016/col-20160105-d10003.md |
+
+Fim do subíndice.

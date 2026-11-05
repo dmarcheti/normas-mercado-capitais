@@ -114,3 +114,5 @@ Norma: fora do acervo.
 | pas | SP2010/186 | 2015-01-27 | condenacao | intermediacao | Intermediação irregular de operações no mercado de valores mobiliários Descumprimento do dever de diligência. Embaraço à fiscalização, Multas. | cvm/pas/2015/sp2010-0186.md |
 | pas | 04/2012 | 2014-11-25 | parcial | divulgacao-informacoes | Suposto descumprimento do disposto no item I da Deliberação CVM nº 20/95. Absolvição. Não informação de aquisição de ações de emissão da Companhia de Investimentos Interlagos S.A. - Coinvest. Multa. | cvm/pas/2014/04-2012.md |
 | pas | 12/2006 | 2010-12-08 | parcial | intermediacao | DIMARCO Não cumprimento das regras de conduta e das regras e parâmetros relativos à atuação como corretora de mercadorias. Exercício da atividade de administração de carteira de valores mobiliários sem autorização prévia. –Multas e Absolvições. | cvm/pas/2010/12-2006.md |
+
+Fim do subíndice.

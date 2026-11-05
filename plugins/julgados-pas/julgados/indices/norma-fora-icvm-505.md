@@ -7,6 +7,35 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 287 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 39 |
+| art. 4º | 62 |
+| art. 5º | 92 |
+| art. 6º | 99 |
+| art. 9º | 105 |
+| art. 12 | 111 |
+| art. 13 | 122 |
+| art. 14 | 131 |
+| art. 19 | 138 |
+| art. 20 | 146 |
+| art. 22 | 170 |
+| art. 23 | 184 |
+| art. 25 | 193 |
+| art. 27 | 200 |
+| art. 28 | 206 |
+| art. 29 | 212 |
+| art. 30 | 223 |
+| art. 31 | 231 |
+| art. 32 | 239 |
+| art. 36 | 248 |
+| art. 38 | 256 |
+| Citada sem dispositivo identificado | 266 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -254,3 +283,5 @@ Norma: fora do acervo.
 | pas | SP2007/139 | 2013-07-30 | parcial | manipulacao-fraude | [pessoa física] Ltda. Práticas não equitativas. Não cumprimento do dever de diligência exigido dos administradores de companhia aberta no exercício de suas funções. Absolvições e multas. | cvm/pas/2013/sp2007-0139.md |
 | pas | 03/2009 | 2013-04-30 | parcial | exercicio-irregular | BVL/INTRA Exercício irregular da função de agente autônomo de investimento sem registro na CVM – operações fraudulentas no mercado de valores mobiliários. Absolvições e multas pecuniárias. | cvm/pas/2013/03-2009.md |
 | pas | 21/2006 | 2012-08-07 | parcial | manipulacao-fraude | FACEB realização de operações fraudulentas e de práticas não equitativas no mercado de valores mobiliários – absolvições, multas e inabilitação temporária. Falta de diligência no exercício das funções de administrador e de gestor de fundos de investimentos – absolvições. | cvm/pas/2012/21-2006.md |
+
+Fim do subíndice.

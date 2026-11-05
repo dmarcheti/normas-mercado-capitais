@@ -112,3 +112,5 @@ Norma: [leis/lei-11076.md](../../../normas/normas/leis/lei-11076.md) (texto vige
 | decisao-colegiado | RJ2009/10228 | 2011-09-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/10228. | cvm/colegiado/2011/col-20110927-d12.md |
 | decisao-colegiado | RJ2009/10227 | 2011-09-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/10227. | cvm/colegiado/2011/col-20110927-d11.md |
 | decisao-colegiado | RJ2009/10225 | 2011-09-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/10225. | cvm/colegiado/2011/col-20110927-d10.md |
+
+Fim do subíndice.

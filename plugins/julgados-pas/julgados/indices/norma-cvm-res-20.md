@@ -19,3 +19,5 @@ Norma: [cvm/resolucoes/0020.md](../../../normas/normas/cvm/resolucoes/0020.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | cvm/pas/2026/19957-011363-2024-85.md |
 | pas | 19957.005726/2025-24 | 2025-12-18 | absolvicao | ofertas-publicas | Apurar infração ao art. 19 da Lei nº 6.385/76, por suposta oferta irregular de valores mobiliários. Absolvição | cvm/pas/2025/19957-005726-2025-24.md |
+
+Fim do subíndice.

@@ -8,6 +8,43 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 399 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-lei-134 | 48 |
+| decreto-lei-147 | 56 |
+| decreto-lei-157 | 65 |
+| decreto-lei-200 | 74 |
+| decreto-lei-201 | 82 |
+| decreto-lei-288 | 91 |
+| decreto-lei-448 | 99 |
+| decreto-lei-491 | 107 |
+| decreto-lei-688 | 115 |
+| decreto-lei-770 | 123 |
+| decreto-lei-781 | 131 |
+| decreto-lei-900 | 139 |
+| decreto-lei-1290 | 147 |
+| decreto-lei-1521 | 162 |
+| decreto-lei-1598 | 170 |
+| decreto-lei-2065 | 180 |
+| decreto-lei-2284 | 188 |
+| decreto-lei-2286 | 196 |
+| decreto-lei-2300 | 211 |
+| decreto-lei-2321 | 220 |
+| decreto-lei-2406 | 253 |
+| decreto-lei-2449 | 261 |
+| decreto-lei-2471 | 269 |
+| decreto-lei-2828 | 277 |
+| decreto-lei-2848 | 285 |
+| decreto-lei-3689 | 332 |
+| decreto-lei-5452 | 340 |
+| decreto-lei-6019 | 348 |
+| decreto-lei-7661 | 358 |
+| decreto-lei-9295 | 383 |
+
 ## decreto-lei-134
 
 ### Citada sem dispositivo identificado
@@ -358,3 +395,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | pas | 19957.015871/2024-32 | 2025-11-11 | condenacao | auditoria-independente | Apurar o descumprimento ao Programa de Educação Profissional Continuada por parte de diversos sócios e responsáveis técnicos de Auditores Independentes - Pessoa Jurídica e de Auditores Independentes - Pessoa Natural referente ao exercício de 2021. Advertência | cvm/pas/2025/19957-015871-2024-32.md |
 | pas | RJ2013/13480 | 2016-11-24 | condenacao | auditoria-independente | Inobservância da regra de rotatividade dos auditores independentes. Emissão de parecer de auditoria assinado por contador não cadastrado como responsável técnico. Multas. | cvm/pas/2016/rj2013-13480.md |
 | pas | 09/1993 | 2006-12-14 | condenacao | manipulacao-fraude | Prática não eqüitativa relacionada às operações de venda de ações efetuada pelos acusados à Marcopolo S.A. Carrocerias e Ônibus, em infração ao item I da Instrução CVM nº 08/79 e ao art. 2º, d, da Instrução CVM nº 10/80. Multa. | cvm/pas/2006/09-1993.md |
+
+Fim do subíndice.

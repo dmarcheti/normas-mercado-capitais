@@ -35,3 +35,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008844/2020-80. | cvm/colegiado/2021/col-20211221-d2432.md |
 | decisao-colegiado | 19957.005524/2021-59 | 2021-07-20 | outro | institucional | O Colegiado aprovou, por unanimidade, a Resolução CVM 40/2021, que altera o Regimento Interno da CVM, conforme proposta da área técnica com ajustes. Principais mudanças: lançamento e impugnação da taxa de fiscalização deixam de ir ao Colegiado; criação da Seção de Mecanismos de Ressarcimento na SMI; reestruturação de gerências e divisões; permuta de cargos por Portaria da Presidência. | cvm/colegiado/2021/col-20210720-d2083.md |
 | decisao-colegiado | 19957.004700/2021-35 | 2021-06-16 | outro | normativo | Proposta de resolução. Proc. SEI 19957.004700/2021-35. | cvm/colegiado/2021/col-20210616-d2215.md |
+
+Fim do subíndice.

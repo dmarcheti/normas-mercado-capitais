@@ -8,6 +8,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2298 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+lei-1 (50); lei-2 (70); lei-3 (90); lei-4 (99); lei-6 (107); lei-7 (128); lei-8 (136); lei-9 (145)
+lei-10 (154); lei-11 (174); lei-12 (183); lei-14 (191); lei-15 (207); lei-18 (215); lei-21 (223); lei-28 (231)
+lei-29 (239); lei-31 (248); lei-32 (256); lei-42 (264); lei-47 (272); lei-49 (280); lei-123 (288)
+lei-182 (302); lei-412 (311); lei-1101 (319); lei-1376 (327); lei-1521 (335); lei-1628 (343); lei-2175 (351)
+lei-2313 (359); lei-2353 (374); lei-2559 (382); lei-2627 (390); lei-2724 (398); lei-2735 (406); lei-2925 (414)
+lei-2926 (422); lei-3150 (430); lei-3242 (438); lei-3689 (446); lei-3741 (454); lei-3890 (462); lei-4156 (471)
+lei-4173 (479); lei-4380 (487); lei-4657 (504); lei-4717 (512); lei-4792 (520); lei-4829 (528); lei-4864 (536)
+lei-5250 (550); lei-5387 (559); lei-5474 (568); lei-5655 (576); lei-5662 (584); lei-5764 (598); lei-5869 (612)
+lei-5889 (620); lei-6015 (628); lei-6040 (642); lei-6358 (650); lei-6385-1965 (659); lei-6385-2001 (667)
+lei-6385-2017 (675); lei-6386 (683); lei-6404-1946 (697); lei-6435 (705); lei-6830 (713); lei-6835 (721)
+lei-6894 (741); lei-6938 (749); lei-7040 (757); lei-7347 (766); lei-7684 (774); lei-7713 (782); lei-7802 (790)
+lei-8027 (811); lei-8031 (819); lei-8078 (827); lei-8112 (842); lei-8167 (869); lei-8171 (877); lei-8212 (885)
+lei-8213 (893); lei-8245 (901); lei-8383 (923); lei-8429 (932); lei-8631 (940); lei-8663 (948)
+lei-8668-2013 (956); lei-8685 (964); lei-8846 (972); lei-8894 (980); lei-8904 (988); lei-8934 (996)
+lei-8981 (1023); lei-8987 (1034); lei-9029 (1042); lei-9069 (1050); lei-9096 (1058); lei-9099 (1078)
+lei-9249 (1086); lei-9250 (1100); lei-9279 (1108); lei-9296 (1135); lei-9307 (1143); lei-9427 (1169)
+lei-9430 (1177); lei-9472 (1198); lei-9478 (1206); lei-9504 (1227); lei-9514-1976 (1235); lei-9514-1991 (1243)
+lei-9514-1999 (1251); lei-9577 (1259); lei-9649 (1268); lei-9656 (1276); lei-9715 (1284); lei-9717 (1292)
+lei-9779 (1300); lei-9868 (1322); lei-9874 (1330); lei-9882 (1350); lei-9884 (1358); lei-9973 (1366)
+lei-10076 (1374); lei-10150 (1382); lei-10189 (1390); lei-10192 (1398); lei-10200 (1406); lei-10210 (1415)
+lei-10391 (1423); lei-10411 (1431); lei-10711 (1443); lei-10736 (1452); lei-10741 (1460); lei-10848 (1468)
+lei-11001 (1476); lei-11033-2014 (1486); lei-11074 (1494); lei-11076-2009 (1502); lei-11076-2014 (1510)
+lei-11079 (1524); lei-11101-2011 (1532); lei-11101-2015 (1540); lei-11196 (1549); lei-11303 (1558)
+lei-11312 (1566); lei-11419 (1584); lei-11478 (1599); lei-11689 (1607); lei-11795 (1615); lei-11887 (1666)
+lei-11890 (1675); lei-11908 (1695); lei-11941 (1704); lei-12016 (1723); lei-12087 (1737); lei-12154 (1745)
+lei-12180 (1753); lei-12187 (1761); lei-12249 (1769); lei-12257 (1785); lei-12353 (1793); lei-12529 (1808)
+lei-12543 (1816); lei-12598 (1824); lei-12651 (1832); lei-12715 (1842); lei-12813 (1850); lei-12844 (1858)
+lei-12846 (1867); lei-12850 (1877); lei-12941 (1886); lei-12973 (1895); lei-13019 (1909); lei-13043 (1918)
+lei-13079 (1932); lei-13097 (1940); lei-13146 (1949); lei-13165 (1957); lei-13202 (1967); lei-13245 (1977)
+lei-13360 (1986); lei-13467 (1995); lei-13496 (2003); lei-13506-1976 (2011); lei-13576 (2020)
+lei-13655 (2042); lei-13777 (2069); lei-13784 (2077); lei-13818 (2086); lei-13869 (2094); lei-13979 (2112)
+lei-13988 (2120); lei-14010 (2128); lei-14030 (2137); lei-14063 (2154); lei-14112 (2175); lei-14130 (2183)
+lei-14155 (2193); lei-14182 (2201); lei-14193 (2221); lei-14194 (2229); lei-14204 (2237); lei-14260 (2245)
+lei-14317 (2261); lei-15042 (2273); lei-19763 (2282); lei-2104633 (2290)
+
 ## lei-1
 
 ### art. 4º
@@ -2255,3 +2294,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 31 | decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | processual | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de investigado contra decisão da SPS que concedeu acesso parcial a inquérito administrativo, com sigilo de operações de terceiros (LC 105/2001), de informações pessoais (Lei 12.527/2011) e, em fração menor, de investigação (Lei 6.385/1976, art. 9º, §2º). | cvm/colegiado/2026/col-20260624-d4-d3436.md |
+
+Fim do subíndice.

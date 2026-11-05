@@ -55,3 +55,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/1118 | 2008-04-25 | nao-provido | fundos-investimento | Recurso de ofício da SIN em processo de rito sumário. | cvm/colegiado/2008/col-20080425-d11.md |
 | decisao-colegiado | RJ2007/12121 | 2007-12-11 | parcial | opa | O Colegiado autorizou a unificação da OPA por aumento de participação com a OPA para cancelamento de registro da Granóleo S.A., condicionada ao atendimento de exigências da SRE e da SEP até 26.12.07. Negou a dispensa do leilão em bolsa, acompanhando a área técnica, por falta de situação excepcional (art. 34, §1º, da Instrução CVM 361/02). | cvm/colegiado/2007/col-20071211-d21.md |
 | decisao-colegiado | RJ2004/3648 | 2005-08-09 | outro | processual | Pedido de reconsideração de decisão colegiado. PAS RJ2004/3648. | cvm/colegiado/2005/col-20050809-d05.md |
+
+Fim do subíndice.

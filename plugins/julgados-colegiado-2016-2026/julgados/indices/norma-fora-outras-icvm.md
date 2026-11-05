@@ -8,6 +8,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2459 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+icvm-1 (46); icvm-2 (54); icvm-3 (70); icvm-4 (83); icvm-5 (104); icvm-6 (115); icvm-7 (123); icvm-9 (132)
+icvm-11 (147); icvm-12 (161); icvm-13 (170); icvm-14 (179); icvm-15 (187); icvm-16 (201); icvm-20 (209)
+icvm-21 (217); icvm-24 (225); icvm-31 (239); icvm-35 (247); icvm-36 (255); icvm-38 (263); icvm-43 (272)
+icvm-46 (285); icvm-47 (293); icvm-51 (310); icvm-59 (330); icvm-61 (344); icvm-81 (352); icvm-85 (367)
+icvm-87 (375); icvm-88 (384); icvm-89 (392); icvm-92 (409); icvm-110 (426); icvm-119 (434); icvm-125 (442)
+icvm-126 (450); icvm-153 (458); icvm-165 (466); icvm-168 (479); icvm-173 (498); icvm-178 (506); icvm-185 (514)
+icvm-186 (527); icvm-191 (535); icvm-200 (544); icvm-202 (553); icvm-205 (567); icvm-207 (593); icvm-209 (607)
+icvm-229 (617); icvm-247 (629); icvm-256 (639); icvm-260 (647); icvm-273 (684); icvm-279 (692); icvm-280 (700)
+icvm-282 (709); icvm-283 (717); icvm-284 (725); icvm-286 (734); icvm-287 (754); icvm-296 (762); icvm-297 (793)
+icvm-299 (802); icvm-302 (811); icvm-307 (819); icvm-310 (827); icvm-312 (835); icvm-313 (843); icvm-320 (851)
+icvm-323 (859); icvm-324 (882); icvm-325 (890); icvm-330 (898); icvm-333 (906); icvm-345 (914); icvm-350 (925)
+icvm-353 (935); icvm-359 (943); icvm-364 (1004); icvm-367 (1012); icvm-371 (1026); icvm-381 (1069)
+icvm-384 (1077); icvm-385 (1095); icvm-387 (1103); icvm-388 (1119); icvm-390 (1127); icvm-398 (1141)
+icvm-399 (1149); icvm-401 (1157); icvm-402 (1171); icvm-404 (1179); icvm-408 (1187); icvm-411 (1201)
+icvm-421 (1212); icvm-423 (1220); icvm-424 (1228); icvm-425 (1240); icvm-426 (1248); icvm-427 (1256)
+icvm-432 (1307); icvm-436 (1315); icvm-441 (1323); icvm-443 (1355); icvm-449 (1363); icvm-450 (1371)
+icvm-454 (1383); icvm-457 (1391); icvm-459 (1408); icvm-462 (1418); icvm-465 (1427); icvm-467 (1437)
+icvm-469 (1463); icvm-471 (1477); icvm-473 (1499); icvm-474 (1507); icvm-482 (1515); icvm-483 (1528)
+icvm-484 (1558); icvm-485 (1566); icvm-488 (1574); icvm-494 (1582); icvm-495 (1603); icvm-503 (1612)
+icvm-504 (1620); icvm-506 (1629); icvm-509 (1637); icvm-512 (1647); icvm-513 (1657); icvm-514 (1671)
+icvm-520 (1680); icvm-522 (1689); icvm-527 (1699); icvm-529 (1709); icvm-530 (1719); icvm-533 (1727)
+icvm-535 (1736); icvm-537 (1747); icvm-538 (1756); icvm-545 (1764); icvm-547 (1773); icvm-549 (1783)
+icvm-551 (1792); icvm-556 (1806); icvm-559 (1815); icvm-560 (1824); icvm-561 (1863); icvm-562 (1878)
+icvm-566 (1886); icvm-568 (1902); icvm-569 (1913); icvm-576 (1931); icvm-577 (1939); icvm-580 (1954)
+icvm-585 (1963); icvm-586 (1975); icvm-590 (1986); icvm-592 (2000); icvm-593 (2024); icvm-594 (2032)
+icvm-596 (2041); icvm-597 (2050); icvm-598 (2064); icvm-599 (2103); icvm-602 (2111); icvm-604 (2211)
+icvm-606 (2230); icvm-609 (2239); icvm-610 (2252); icvm-611 (2261); icvm-612 (2271); icvm-613 (2291)
+icvm-614 (2299); icvm-615 (2309); icvm-616 (2317); icvm-618 (2325); icvm-619 (2341); icvm-620 (2349)
+icvm-621 (2359); icvm-622 (2368); icvm-623 (2379); icvm-624 (2387); icvm-625 (2395); icvm-626 (2405)
+icvm-627 (2425); icvm-642 (2443); icvm-849 (2451)
+
 ## icvm-1
 
 ### art. 11
@@ -2420,3 +2455,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008305/2021-21 | 2021-11-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008305/2021-21. | cvm/colegiado/2021/col-20211116-d2379.md |
+
+Fim do subíndice.

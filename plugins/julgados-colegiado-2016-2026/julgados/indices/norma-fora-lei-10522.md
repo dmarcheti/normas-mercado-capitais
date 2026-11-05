@@ -74,3 +74,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.000756/2018-15 | 2019-09-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000756/2018-15. | cvm/colegiado/2019/col-20190924-d1549.md |
 | decisao-colegiado | 19957.011525/2017-56 | 2018-02-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011525/2017-56. | cvm/colegiado/2018/col-20180206-d0916.md |
+
+Fim do subíndice.

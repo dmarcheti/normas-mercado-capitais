@@ -5,6 +5,44 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 708 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 48 |
+| 2025 | 58 |
+| 2024 | 83 |
+| 2023 | 109 |
+| 2022 | 135 |
+| 2021 | 165 |
+| 2020 | 199 |
+| 2019 | 220 |
+| 2018 | 242 |
+| 2017 | 266 |
+| 2016 | 297 |
+| 2015 | 323 |
+| 2014 | 338 |
+| 2013 | 365 |
+| 2012 | 398 |
+| 2011 | 440 |
+| 2010 | 468 |
+| 2009 | 510 |
+| 2008 | 559 |
+| 2007 | 598 |
+| 2006 | 617 |
+| 2005 | 636 |
+| 2004 | 639 |
+| 2003 | 643 |
+| 2002 | 649 |
+| 2001 | 658 |
+| 2000 | 662 |
+| 1999 | 684 |
+| 1998 | 701 |
+| 1997 | 703 |
+| 1996 | 705 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. ATRASO E NÃO ENTREGA DE INFORMAÇÕES PERIÓDICAS OBRIGATÓRIAS DE FUNDOS DE INVESTIMENTO. A pandemia da COVID-19 não constitui excludente de ilicitude. Irregularidade caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2026/19957-001912-2024-11.md |
@@ -666,3 +704,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 10/92 | 1997-04-24 | parcial | divulgacao-informacoes | Recursos de oficio. falta de informações a Comissão de Valores Mobiliários. Descumprimento de norma regulamentar - Omissão do dirigente responsável pela área de relações com o mercado. aplicação de multa. Recurso provido parcialmente. | crsfn/1997/1960.md |
 | acordao-crsfn | 13/88 | 1996-08-07 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Irregularidades na realização de aumento de capital social, no preparo e divulgação de demonstrações financeiras e na publicação de fatos relevantes à época de concessão de registro de companhia aberta. | crsfn/1996/1663.md |
 | acordao-crsfn | 10/91 | 1996-04-16 | parcial | divulgacao-informacoes | RECURSO DE OFÍCIO. Negociação privada de ações em tesouraria. Não divulgação da ata de reunião autorizando essa alienação e não comunicação à CVM da respectiva deliberação do Conselho de Administração. Falta de solicitação prévia da CVM para a referida alienação. | crsfn/1996/1618.md |
+
+Fim do subíndice.

@@ -31,3 +31,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, deliberou pela não interrupção do prazo de convocação da AGE de 18.12.2014 da Embratel Participações S.A., pedida por acionista. A SEP entendeu não se justificar a interrupção; os termos da operação seguem no Proc. RJ2014/8102. | cvm/colegiado/2014/col-20141217-d01-r2.md |
+
+Fim do subíndice.

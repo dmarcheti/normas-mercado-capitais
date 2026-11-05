@@ -7,6 +7,24 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 631 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 41 (28); art. 45 (34); art. 47 (40); art. 49 (46); art. 50 (52); art. 51 (66); art. 76 (72); art. 92 (78)
+art. 104 (84); art. 113 (91); art. 118 (97); art. 125 (103); art. 126 (111); art. 127 (118); art. 134 (124)
+art. 135 (130); art. 140 (136); art. 143 (142); art. 157 (148); art. 159 (154); art. 177 (160); art. 186 (166)
+art. 187 (174); art. 188 (181); art. 202 (189); art. 206 (202); art. 221 (209); art. 225 (215); art. 265 (221)
+art. 315 (227); art. 320 (233); art. 356 (239); art. 393 (245); art. 401 (252); art. 422 (258); art. 427 (267)
+art. 447 (273); art. 490 (279); art. 585 (286); art. 586 (292); art. 591 (299); art. 592 (306); art. 601 (312)
+art. 653 (318); art. 661 (324); art. 662 (330); art. 667 (337); art. 676 (343); art. 682 (349); art. 831 (356)
+art. 882 (362); art. 887 (368); art. 888 (375); art. 927 (381); art. 935 (389); art. 942 (396); art. 966 (403)
+art. 991 (411); art. 992 (419); art. 993 (425); art. 994 (432); art. 995 (439); art. 996 (445)
+art. 1.024 (451); art. 1.032 (459); art. 1.057 (465); art. 1.079 (471); art. 1.080 (477); art. 1.092 (484)
+art. 1.116 (490); art. 1.134 (496); art. 1.135 (502); art. 1.137 (508); art. 1.138 (514); art. 1.245 (520)
+art. 1.267 (529); art. 1.317 (535); art. 1.368-D (541); art. 1.417 (547); art. 1.521 (553); art. 1.603 (559)
+art. 1.845 (565); art. 1.846 (571); art. 2.035 (577); Citada sem dispositivo identificado (584)
+
 ## art. 41
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -609,3 +627,5 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 | termo-compromisso | RJ2007/4932 | 2008-05-20 | aceito | assembleia-acionistas | O Colegiado aceitou a proposta de Termo de Compromisso de nove conselheiros da Ampla Energia e Serviços S.A., acusados de não convocar assembleia para oferecer direito de preferência na alienação de ações de subsidiária (art. 253, I, da Lei 6.404/76). Pagamentos: indenização de R$ 227.858,64 aos minoritários, atualizada pela Selic, e R$ 50.000,00 à CVM. | cvm/colegiado/2008/col-20080520-d05.md |
 | acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | manipulacao-fraude | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício também improvido. | crsfn/2007/6187.md |
 | acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | intermediacao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de diligência no cadastramento de clientes e na verificação de procurações e demais documentos referentes a transações – Irregularidades não configuradas – Recurso de ofício improvido. | crsfn/2006/5596.md |
+
+Fim do subíndice.

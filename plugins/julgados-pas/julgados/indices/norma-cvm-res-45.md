@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1572 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (26); art. 2º (32); art. 3º (41); art. 4º (51); art. 5º (75); art. 6º (145); art. 7º (205)
+art. 11 (265); art. 12 (276); art. 13 (282); art. 14 (317); art. 16 (323); art. 17 (333); art. 21 (339)
+art. 22 (348); art. 23 (354); art. 25 (363); art. 27 (369); art. 28 (375); art. 28-A (433); art. 29 (439)
+art. 30 (452); art. 32 (458); art. 33 (465); art. 34 (472); art. 35 (483); art. 36 (489); art. 38 (514)
+art. 39 (537); art. 40 (544); art. 41 (550); art. 42 (560); art. 43 (575); art. 44 (591); art. 46 (598)
+art. 47 (610); art. 49 (619); art. 50 (778); art. 55 (788); art. 57 (797); art. 60 (803); art. 61 (813)
+art. 62 (836); art. 63 (853); art. 64 (871); art. 65 (883); art. 66 (948); art. 67 (1039); art. 68 (1047)
+art. 70 (1061); art. 71 (1280); art. 73 (1314); art. 74 (1343); art. 76 (1389); art. 81 (1423); art. 82 (1430)
+art. 83 (1450); art. 84 (1458); art. 86 (1469); art. 87 (1478); art. 116 (1484); art. 637 (1505)
+art. 668 (1511); art. 734 (1517); art. 746 (1523); art. 769 (1529); Anexo B, art. 1º (1535)
+Anexo C, art. 1º (1554); Citada sem dispositivo identificado (1563)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1552,3 +1568,5 @@ Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (
 | pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | registro-emissor | Apurar eventual responsabilidade de companhia aberta e seus diretores pela inobservância do dever de guardar documentos relacionados à administração da companhia, em infração ao art. 9º, inciso I, alínea “b”, da Lei nº 6.385/1976. Absolvições. | cvm/pas/2023/19957-011361-2018-48.md |
 | pas | 19957.006548/2019-19 | 2022-10-25 | absolvicao | auditoria-independente | Irregularidades em trabalhos de auditoria, em violação aos arts. 20 e 25 da Instrução CVM nº 308/1999. Absolvições. | cvm/pas/2022/19957-006548-2019-19.md |
 | pas | 19957.002314/2021-17 | 2022-02-22 | absolvicao | ofertas-publicas | Irregularidades relacionadas a (i) oferta de valores mobiliários sem registro ou dispensa pela CVM, em infração ao art. 19 da Lei nº 6.385/1976, e aos arts. 2º e 4° da Instrução CVM nº 400/2003; e (ii) embaraço à fiscalização da CVM, em violação ao inciso III do art. 1° da Instrução CVM nº 491/2011 e ao inciso IV do art. 1° do Anexo 64 da Instrução CVM nº 607/2019. Absolvições. | cvm/pas/2022/19957-002314-2021-17.md |
+
+Fim do subíndice.

@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1105 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 34 |
+| art. 4º | 69 |
+| art. 5º | 190 |
+| art. 7º | 230 |
+| art. 8º | 270 |
+| art. 9º | 278 |
+| art. 11 | 287 |
+| art. 12 | 300 |
+| art. 14 | 741 |
+| art. 15 | 757 |
+| art. 16 | 775 |
+| art. 17 | 781 |
+| art. 18 | 787 |
+| art. 20 | 810 |
+| art. 21-A | 1039 |
+| art. 31 | 1046 |
+| Citada sem dispositivo identificado | 1052 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1077,3 +1101,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2009/0125 | 2010-08-03 | deferido | infraestrutura-mercado | O Colegiado deferiu, com exigências, pedido da BM&FBOVESPA para reestruturar o DMA 1 e implantar os DMA 2, 3 e 4 no Segmento Bovespa. Exigências incluem relatório sobre a capacidade dos sistemas (até 30 de agosto), projeto de controles de risco (até 30.11.2010) e comunicação prévia à BSM. | cvm/colegiado/2010/col-20100803-d09.md |
 | decisao-colegiado | RJ2006/7668 | 2009-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2006/7668. | cvm/colegiado/2009/col-20090414-d08.md |
 | decisao-colegiado | RJ1999/3686 | 2009-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3686. | cvm/colegiado/2009/col-20090414-d07.md |
+
+Fim do subíndice.

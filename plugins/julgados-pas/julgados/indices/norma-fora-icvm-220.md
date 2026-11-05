@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 355 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 34 |
+| art. 2º | 91 |
+| art. 3º | 99 |
+| art. 4º | 143 |
+| art. 5º | 177 |
+| art. 6º | 218 |
+| art. 7º | 228 |
+| art. 8º | 235 |
+| art. 10 | 245 |
+| art. 11 | 261 |
+| art. 12 | 267 |
+| art. 13 | 279 |
+| art. 14 | 290 |
+| art. 16 | 296 |
+| art. 18 | 308 |
+| art. 30 | 314 |
+| Citada sem dispositivo identificado | 320 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -327,3 +351,5 @@ Norma: fora do acervo.
 | pas | 03/1999 | 2001-03-08 | parcial | exercicio-irregular | ASSINVEST ASSESSORIA LTDA., WALPIRES S/A CCTVM E OUTROS Intermediação no mercado de valores mobiliários por pessoa não integrante do sistema de distribuição previsto nos arts. 15 e 16 da Lei nº 6385/76. Falta para com o dever de diligência. Utilização de Práticas não equitativas. - Multa. | cvm/pas/2001/03-1999.md |
 | pas | 13/1998 | 2000-08-31 | parcial | exercicio-irregular | [pessoa física], [pessoa física], EXATA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., [pessoa física], ÉBANO CORRETORA DE CÂMBIO E VALORES LTDA. Exercício ilegal da profissão de agente autônomo de investimento em dependências de corretora, inclusive; praticando operações em seu nome, por não possuir o registro no RGA - Execução de ordens sem o prévio registro na corretora – Não indicação, nos documentos apropriados, da origem dos recursos destinados à liquidação financeira de operações em bolsa, por conta de clientes. Infrações configuradas. Penalidades. | cvm/pas/2000/13-1998.md |
 | pas | 01/1998 | 2000-08-07 | parcial | manipulacao-fraude | Bittencourt S/A CTVC Carlos Guilherme Frederico Schiller de Souza, [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Irregularidades na recepção, preenchimento, distribuição e execução de ordens de negociação, em benefício dos diretores da Bittencourt S/A CTVC - Práticas não eqüitativas. Irregularidades configuradas. Penalidades. | cvm/pas/2000/01-1998.md |
+
+Fim do subíndice.

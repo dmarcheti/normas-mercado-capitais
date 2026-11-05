@@ -172,3 +172,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2002-03-12 | deferido | outros | O Colegiado autorizou a venda privada de ações da Cosipa pertencentes ao clube de investimentos dos empregados, por valor não inferior ao de bolsa, considerando a autorização da compra pela FENCO. Não reconheceu que a negociação seja vantajosa para os interessados. | cvm/colegiado/2002/col-20020312-d06.md |
 | decisao-colegiado | SP2001/0719 | 2002-01-22 | outro | outros | O Colegiado aprovou a proposta da SMI de exclusão do nome de pessoa física alcançada pela Deliberação CVM nº 397/01. | cvm/colegiado/2002/col-20020122-d04.md |
 | decisao-colegiado | RJ2001/8489 | 2002-01-03 | deferido | outros | O Colegiado autorizou a São Paulo Alpargatas S.A. a realizar operações privadas com ações em tesouraria para plano de opção de compra a administradores e funcionários, com base no art. 23 da Instrução CVM 10/80, com recomendação de nota explicativa sobre as condições do plano. | cvm/colegiado/2002/col-20020103-d01.md |
+
+Fim do subíndice.

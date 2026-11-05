@@ -8,6 +8,46 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2563 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+lei-1 (51); lei-4 (82); lei-5 (100); lei-7 (134); lei-8 (150); lei-9 (164); lei-10 (184); lei-11 (199)
+lei-12 (214); lei-13 (222); lei-14 (230); lei-15 (257); lei-16 (265); lei-17 (275); lei-18 (284); lei-19 (293)
+lei-20 (302); lei-21 (316); lei-22 (325); lei-23 (334); lei-24 (342); lei-25 (356); lei-28 (365); lei-29 (373)
+lei-30 (387); lei-31 (401); lei-32 (409); lei-33 (423); lei-34 (437); lei-35 (451); lei-36 (459); lei-39 (467)
+lei-44 (475); lei-51 (483); lei-53 (491); lei-58 (499); lei-66 (507); lei-75 (515); lei-105 (523)
+lei-108 (532); lei-166 (552); lei-169 (560); lei-404 (569); lei-556 (579); lei-1356 (587); lei-1521 (595)
+lei-1564 (616); lei-2004 (625); lei-2024 (640); lei-2303 (648); lei-2848 (656); lei-2925 (664); lei-3115 (672)
+lei-3150 (681); lei-3421 (696); lei-3685 (704); lei-3890 (714); lei-4131 (723); lei-4137 (732); lei-4357 (740)
+lei-4504 (748); lei-4594 (756); lei-4595-1966 (764); lei-4595-1994 (772); lei-4680 (780); lei-4717 (788)
+lei-4792 (796); lei-4819 (804); lei-4886 (812); lei-4951 (820); lei-5172 (829); lei-5250 (837); lei-5434 (845)
+lei-5474 (853); lei-5508 (893); lei-5869 (901); lei-6014 (917); lei-6015 (925); lei-6019 (953); lei-6044 (961)
+lei-6105 (969); lei-6285 (978); lei-6358 (986); lei-6380 (994); lei-6383 (1002); lei-6384 (1010)
+lei-6385-2001 (1018); lei-6385-2016 (1026); lei-6387 (1035); lei-6395 (1055); lei-6401 (1075)
+lei-6404-2004 (1083); lei-6404-2016 (1091); lei-6406 (1105); lei-6435 (1113); lei-6476 (1127); lei-6494 (1135)
+lei-6496 (1149); lei-6504 (1157); lei-6604 (1165); lei-6606 (1173); lei-6629 (1187); lei-6830 (1195)
+lei-6913 (1210); lei-7209 (1218); lei-7347 (1230); lei-7357 (1238); lei-7404 (1265); lei-7565 (1273)
+lei-7777 (1281); lei-7792 (1289); lei-7799 (1297); lei-7827 (1305); lei-7828 (1313); lei-7940 (1321)
+lei-7958 (1331); lei-8031 (1339); lei-8078 (1347); lei-8137 (1355); lei-8167 (1389); lei-8200 (1416)
+lei-8212 (1436); lei-8218 (1450); lei-8313 (1458); lei-8383 (1466); lei-8429 (1481); lei-8631 (1508)
+lei-8666 (1516); lei-8685 (1550); lei-8693 (1570); lei-8859 (1578); lei-8884 (1586); lei-8897 (1594)
+lei-8906 (1602); lei-8929-1997 (1636); lei-8934 (1644); lei-8981 (1652); lei-8987 (1660); lei-9015 (1695)
+lei-9069 (1703); lei-9074 (1711); lei-9245 (1719); lei-9249 (1727); lei-9307 (1766); lei-9311 (1780)
+lei-9427 (1804); lei-9430 (1818); lei-9433 (1826); lei-9447 (1834); lei-9472 (1844); lei-9478 (1864)
+lei-9494 (1888); lei-9532 (1897); lei-9615 (1905); lei-9717 (1913); lei-9718 (1930); lei-9789 (1950)
+lei-9794 (1958); lei-9796 (1966); lei-9837 (1974); lei-9868 (1982); lei-9879 (1990); lei-9964 (1998)
+lei-10030 (2006); lei-10150 (2014); lei-10200 (2034); lei-10233 (2042); lei-10313 (2050); lei-10411 (2058)
+lei-10438 (2069); lei-10683 (2077); lei-10684 (2085); lei-10701 (2093); lei-10820 (2101); lei-10848 (2109)
+lei-10887 (2119); lei-10892 (2127); lei-11101-2003 (2135); lei-11105 (2143); lei-11303 (2151)
+lei-11658 (2159); lei-11672 (2167); lei-11788 (2175); lei-11890 (2183); lei-11945 (2191); lei-12111 (2199)
+lei-12154 (2214); lei-12234 (2224); lei-12249 (2232); lei-12276 (2246); lei-12304 (2254); lei-12351 (2262)
+lei-12410 (2270); lei-12441 (2278); lei-12527 (2286); lei-12529 (2295); lei-12543 (2311); lei-12683 (2319)
+lei-12709 (2329); lei-12783 (2337); lei-12813 (2352); lei-12838 (2379); lei-12846 (2387); lei-12865 (2400)
+lei-12973 (2417); lei-12996 (2431); lei-13043 (2442); lei-13056 (2450); lei-13129 (2458); lei-13655 (2467)
+lei-13709 (2477); lei-13790 (2486); lei-13846 (2494); lei-13869 (2502); lei-13979 (2516); lei-14030 (2524)
+lei-14069 (2538); lei-14195 (2546); lei-101303 (2555)
+
 ## lei-1
 
 ### art. 11
@@ -2519,3 +2559,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 09/2005 | 2006-10-03 | condenacao | exercicio-irregular | CRIAÇÃO, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA. - Emissão e distribuição pública de valores mobiliários (Contrato de Investimento Coletivo) sem o competente registro na CVM, em infração ao disposto no artigo 19, caput, § 1º, c/c os artigos 16, I, e 2º, IX, todos da Lei nº 6.385/76. Multas. | cvm/pas/2006/09-2005.md |
+
+Fim do subíndice.

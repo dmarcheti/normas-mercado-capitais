@@ -178,3 +178,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011044/2019-11 | 2020-05-06 | outro | normativo | O Colegiado, por unanimidade, aprovou a relação de normas sobre ofertas públicas de distribuição de valores mobiliários a serem revogadas, nos termos do Decreto 10.139/2019. | cvm/colegiado/2020/col-20200506-d1738.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-04-15 | outro | normativo | O Colegiado iniciou a análise da relação de normas de fundos de investimento a serem revogadas, nos termos do Decreto 10.139/19, e solicitou à área técnica aprimoramentos nas justificativas das revogações. Nenhuma revogação foi decidida nesta reunião. | cvm/colegiado/2020/col-20200415-d1738.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-02-12 | — | normativo | O Colegiado ouviu a SDM sobre a revisão e consolidação de atos normativos exigida pelo Decreto 10.139/19, incluindo a proposta piloto para companhias abertas, sem deliberação nesta reunião. | cvm/colegiado/2020/col-20200212-d1738.md |
+
+Fim do subíndice.

@@ -53,3 +53,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2007/0038 | 2012-02-23 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0038. | cvm/colegiado/2012/col-20120223-d15.md |
 | decisao-colegiado | SP2007/0037 | 2012-02-23 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0037. | cvm/colegiado/2012/col-20120223-d14.md |
 | decisao-colegiado | SP2007/0147 | 2012-01-17 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0147. | cvm/colegiado/2012/col-20120117-d07.md |
+
+Fim do subíndice.

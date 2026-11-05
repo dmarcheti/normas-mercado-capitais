@@ -95,3 +95,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/1956 | 2003-05-13 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso da Mendes Júnior Engenharia S.A. contra entendimento da SEP de que deveria realizar nova AGE para eleição do Conselho Fiscal, mantendo o entendimento da SEP (Memo/SEP/GEA-3/071/03) e impedindo a Mendesprev de participar da eleição do representante dos preferencialistas. | cvm/colegiado/2003/col-20030513-d05.md |
 | decisao-colegiado | RJ1997/0696 | 2003-04-08 | outro | processual | O Colegiado acompanhou o voto do diretor-relator e determinou o arquivamento do processo contra a Concórdia S/A CVMCC e seu diretor, por cumprimento do termo de compromisso, conforme análise da área técnica. | cvm/colegiado/2003/col-20030408-d03.md |
 | decisao-colegiado | — | 2002-12-23 | outro | processual | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para a tramitação de inquéritos administrativos sancionadores, revogando as Deliberações 175/94 e 349/00. Houve manifestação de voto de um diretor. | cvm/colegiado/2002/col-20021223-d01.md |
+
+Fim do subíndice.

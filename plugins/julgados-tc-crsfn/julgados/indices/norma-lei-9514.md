@@ -43,3 +43,5 @@ Norma: [leis/lei-09514.md](../../../normas/normas/leis/lei-09514.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 18/03 | 2010-02-23 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Não informação aos auditores independentes e não divulgação de rescisão de contrato de aquisição de terreno como evento subsequente às demonstrações financeiras. Distribuição pública de debêntures em condições diversas daquelas constantes da escritura e do registro de emissão concedido pela autoridade supervisora – Descumprimento, pelo agente fiduciário dos debenturistas da companhia, do dever de fiscalização do atendimento de cláusulas constantes da escritura de emissão de debêntures – Inobservância, pela auditoria independente, às normas de emissão do relatório de revisão das ITL’s – Irregularidades, inclusive de natureza grava, caracterizadas – Acatamento parcial das razões trazidas pelos apelantes – Arquivamento do processo quanto à matéria objeto de subida compulsória. | crsfn/2010/10112.md |
+
+Fim do subíndice.

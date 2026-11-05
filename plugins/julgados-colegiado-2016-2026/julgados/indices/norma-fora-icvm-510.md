@@ -7,6 +7,16 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 570 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 20 |
+| art. 5º | 349 |
+| Citada sem dispositivo identificado | 558 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -556,3 +566,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2013/11372 | 2018-06-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/11372. | cvm/colegiado/2018/col-20180626-d1069.md |
 | decisao-colegiado | 510/2011; 542/2013; 543/2013; 19957.000686/2018-03 | 2018-06-06 | outro | normativo | O Colegiado aprovou instrução que altera as ICVM 510/2011, 542/2013 e 543/2013: na 510, atualiza a nomenclatura de escriturador e custodiante; nas 542 e 543, esclarece que a SMI analisa pedidos de concessão e cancelamento de registro. | cvm/colegiado/2018/col-20180606-d1239.md |
 | decisao-colegiado | 19957.001556/2018-80 | 2018-03-01 | deferido | securitizacao | O Colegiado prorrogou o prazo para agentes fiduciários enviarem informações cadastrais (art. 20 da ICVM 583/2016), que vencia em 02.03.18, para até 15 dias úteis após a disponibilização do módulo de Agentes Fiduciários no Sistema Cadastro. Fundamento: o sistema ainda estava em fase final de implantação, conforme proposta da SRE. | cvm/colegiado/2018/col-20180301-d0984.md |
+
+Fim do subíndice.

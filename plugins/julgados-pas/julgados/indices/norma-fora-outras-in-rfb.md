@@ -39,3 +39,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 49 | pas | 19957.002595/2017-13 | 2024-12-10 | parcial | manipulacao-fraude | Apurar eventuais irregularidades em operações em bolsa e intermediadas por ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda. e Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A., no período de 2.1.2013 a 28.2.2014. Multas e Absolvições. | cvm/pas/2024/19957-002595-2017-13.md |
+
+Fim do subíndice.

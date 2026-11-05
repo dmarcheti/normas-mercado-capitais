@@ -84,3 +84,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-30 | — | normativo | O Colegiado deu continuidade ao exame dos comentários da Audiência Pública SDM 04/2009 sobre instrução que substitui a Instrução CVM 387/03 nas operações com valores mobiliários em mercados regulamentados, e altera a Instrução CVM 301/99 quanto à identificação e cadastro de clientes, sem deliberação nesta reunião. | cvm/colegiado/2011/col-20110330-d01.md |
 | decisao-colegiado | 04/2009; RJ2008/5911 | 2011-03-23 | — | normativo | O Colegiado deu início à discussão dos comentários recebidos na Audiência Pública SDM 04/2009, sobre instrução que substituirá a Instrução CVM 387/03 nas operações com valores mobiliários em mercados regulamentados, e altera a Instrução CVM 301/99 quanto à identificação e ao cadastro de clientes. Sem deliberação nesta reunião. | cvm/colegiado/2011/col-20110323-d01.md |
 | decisao-colegiado | RJ2010/11958 | 2010-12-07 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/11958. | cvm/colegiado/2010/col-20101207-d40.md |
+
+Fim do subíndice.

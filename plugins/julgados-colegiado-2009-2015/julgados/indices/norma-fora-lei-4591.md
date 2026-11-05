@@ -54,3 +54,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | securitizacao | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com revolvência dos direitos creditórios do agronegócio, acompanhando o voto apresentado após pedido de vista. Fundamento: Lei 11.076/04 e analogia com a substituição de créditos da Instrução CVM 400/03 (Anexo III-A, item 1.7). | cvm/colegiado/2013/col-20131126-d02.md |
 | decisao-colegiado | RJ2012/12177 | 2013-03-26 | outro | securitizacao | Em consulta da SRE sobre oferta de CRI da Brazilian Securities Companhia de Securitização, o Colegiado, por unanimidade, discordou da área técnica, favorável ao registro. Entendeu que o fluxo de pagamento não se relaciona aos imóveis, mas ao caixa da devedora, o que impede caracterizar os recebíveis como imobiliários. | cvm/colegiado/2013/col-20130326-d04.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [bcb/circulares/3082.md](../../../normas/normas/bcb/circulares/3082.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2002/8428 | 2004-10-14 | parcial | fundos-investimento | Bank of America S/A CCVM e outros. Irregularidade no tocante ao abandono do critério de marcação a mercado que vinha sendo adotado sem autorização, ou adoção de outro critério aceitável. Multas. Não comprovação de descumprimento da Instrução CVM nº 306. Absolvições. Rejeição da imputação de extrapolação dos limites operacionais dos Fundos Multicarteira Arrojado e Ryoyuw. Absolvições. Rejeição da imputação de embaraço à fiscalização. Absolvições. | cvm/pas/2004/rj2002-8428.md |
+
+Fim do subíndice.

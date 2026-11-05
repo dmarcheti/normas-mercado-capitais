@@ -7,6 +7,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 302 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 41 |
+| art. 8º | 47 |
+| art. 9º | 53 |
+| art. 11 | 59 |
+| art. 12 | 78 |
+| art. 13 | 84 |
+| art. 18 | 96 |
+| art. 19 | 102 |
+| art. 20 | 118 |
+| art. 21 | 128 |
+| art. 22 | 136 |
+| art. 24 | 145 |
+| art. 25 | 155 |
+| art. 26 | 172 |
+| art. 27 | 185 |
+| art. 34 | 191 |
+| art. 37 | 197 |
+| art. 38 | 207 |
+| art. 40 | 216 |
+| art. 192 | 238 |
+| art. 197 | 244 |
+| art. 264 | 250 |
+| art. 267 | 256 |
+| Citada sem dispositivo identificado | 262 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -267,3 +298,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2015/5511 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5511. | cvm/colegiado/2016/col-20160301-d9705.md |
 | decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | processual | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre administradores de subsidiárias, acompanhando o voto do relator. Fundamento: inadmissibilidade do recurso; processo devolvido à SEP. | cvm/colegiado/2016/col-20160211-d8627.md |
+
+Fim do subíndice.

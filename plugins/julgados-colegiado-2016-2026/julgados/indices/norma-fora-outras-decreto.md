@@ -8,6 +8,73 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 726 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-7 | 78 |
+| decreto-58 | 86 |
+| decreto-70 | 94 |
+| decreto-423 | 102 |
+| decreto-434 | 110 |
+| decreto-781 | 118 |
+| decreto-2044 | 126 |
+| decreto-2894 | 140 |
+| decreto-3995 | 149 |
+| decreto-4074 | 158 |
+| decreto-4418 | 173 |
+| decreto-4559 | 181 |
+| decreto-5164 | 189 |
+| decreto-6303 | 197 |
+| decreto-6304 | 217 |
+| decreto-6306 | 225 |
+| decreto-6382 | 234 |
+| decreto-6523 | 250 |
+| decreto-6932 | 258 |
+| decreto-8315 | 266 |
+| decreto-8420 | 274 |
+| decreto-8495 | 288 |
+| decreto-8539 | 296 |
+| decreto-8652 | 314 |
+| decreto-8660 | 329 |
+| decreto-8777 | 337 |
+| decreto-8945 | 345 |
+| decreto-8965 | 393 |
+| decreto-9094 | 401 |
+| decreto-9194 | 409 |
+| decreto-9580 | 423 |
+| decreto-9759 | 431 |
+| decreto-9830 | 439 |
+| decreto-9888 | 454 |
+| decreto-9889 | 462 |
+| decreto-10046 | 471 |
+| decreto-10178 | 486 |
+| decreto-10217 | 513 |
+| decreto-10543 | 521 |
+| decreto-10596 | 541 |
+| decreto-10620 | 549 |
+| decreto-10829 | 557 |
+| decreto-10835 | 571 |
+| decreto-11048 | 580 |
+| decreto-11102 | 588 |
+| decreto-11129 | 596 |
+| decreto-11234 | 604 |
+| decreto-11594 | 619 |
+| decreto-12018 | 627 |
+| decreto-12787 | 635 |
+| decreto-20910 | 644 |
+| decreto-22626 | 652 |
+| decreto-40395 | 660 |
+| decreto-42100 | 668 |
+| decreto-42101 | 676 |
+| decreto-60488 | 684 |
+| decreto-61125 | 692 |
+| decreto-65056 | 700 |
+| decreto-83937 | 708 |
+| decreto-93240 | 718 |
+
 ## decreto-7
 
 ### Citada sem dispositivo identificado
@@ -655,3 +722,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 1º, inciso IV | decisao-colegiado | 19957.001434/2016-21 | 2016-08-23 | provido | ofertas-publicas | O Colegiado deu provimento a recurso contra exigência da SRE de registro do Memorial de Incorporação para dispensa de oferta de CICs, condicionando-a à inclusão da certidão de ônus reais com o registro no prospecto resumido antes de qualquer esforço de venda e até 31.10.2016. | cvm/colegiado/2016/col-20160823-d0155.md |
+
+Fim do subíndice.

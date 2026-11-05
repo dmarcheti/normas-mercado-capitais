@@ -38,3 +38,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | ofertas-publicas | O Colegiado aprovou as dispensas de requisitos do registro e o procedimento de estabilização de preços na oferta pública primária e secundária de ações ordinárias da CPFL Energia S.A., acompanhando a SRE (Memo/SRE/154/04), favorável ao pleito. | cvm/colegiado/2004/col-20040824-d10.md |
 | decisao-colegiado | RJ2004/2185 | 2004-05-25 | deferido | ofertas-publicas | O Colegiado aprovou, sob regime de confidencialidade, pedido de dispensa de requisitos de registro na oferta pública de distribuição de ações da GOL Linhas Aéreas Inteligentes S.A., com base no art. 4º, § 4º, da Instrução CVM 400/2003, nos termos do MEMO/SRE/N.º 94/2004. | cvm/colegiado/2004/col-20040525-d02.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

@@ -197,3 +197,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2000/4250 | 2002-03-12 | nao-provido | processual | O Colegiado, acompanhando o relator, rejeitou pedido de reconsideração de decisão que manteve multa cominatória da SNC por atraso em informações periódicas de auditor independente (IN CVM 308/99, arts. 16 e 18). O pedido não trouxe fato novo nem erro da decisão anterior, e o recibo postal não provava o envio. | cvm/colegiado/2002/col-20020312-d01.md |
 | decisao-colegiado | RJ2000/4801 | 2002-02-14 | nao-provido | processual | O Colegiado acompanhou o voto do relator e indeferiu novo pedido de reconsideração da Walpires S.A. CCTVM contra decisão que mandou o Fundo de Garantia da Bovespa indenizar investidor. Fundamento: não cabe novo recurso, salvo erro material, contradição ou dúvida, e a instância administrativa se esgotou. | cvm/colegiado/2002/col-20020214-d03.md |
 | decisao-colegiado | SP2001/0292 | 2002-02-05 | nao-provido | processual | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0292. | cvm/colegiado/2002/col-20020205-d02.md |
+
+Fim do subíndice.

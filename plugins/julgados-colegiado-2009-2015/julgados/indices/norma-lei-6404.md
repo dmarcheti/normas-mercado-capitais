@@ -7,6 +7,39 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 3673 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (43); art. 3º (50); art. 4º (57); art. 4º-A (169); art. 5º (208); art. 6º (214); art. 7º (220)
+art. 8º (226); art. 9º (242); art. 10 (250); art. 11 (258); art. 13 (265); art. 14 (271); art. 15 (277)
+art. 16 (293); art. 17 (300); art. 18 (320); art. 19 (326); art. 21 (333); art. 23 (341); art. 24 (347)
+art. 25 (354); art. 30 (360); art. 32 (405); art. 34 (411); art. 35 (417); art. 36 (424); art. 41 (434)
+art. 44 (441); art. 45 (448); art. 55 (465); art. 56 (472); art. 57 (479); art. 59 (485); art. 60 (493)
+art. 62 (511); art. 66 (562); art. 68 (571); art. 75 (585); art. 76 (591); art. 77 (597); art. 78 (603)
+art. 80 (609); art. 100 (615); art. 105 (636); art. 107 (645); art. 109 (651); art. 110 (682); art. 111 (691)
+art. 115 (701); art. 116 (757); art. 117 (791); art. 118 (809); art. 120 (829); art. 121 (838); art. 122 (848)
+art. 123 (859); art. 124 (873); art. 125 (1048); art. 126 (1056); art. 129 (1091); art. 130 (1102)
+art. 131 (1109); art. 132 (1116); art. 133 (1314); art. 135 (2019); art. 136 (2030); art. 137 (2063)
+art. 138 (2113); art. 140 (2119); art. 141 (2128); art. 142 (2163); art. 144 (2283); art. 145 (2289)
+art. 146 (2295); art. 147 (2307); art. 150 (2315); art. 151 (2322); art. 152 (2329); art. 153 (2394)
+art. 154 (2411); art. 155 (2433); art. 156 (2449); art. 157 (2463); art. 158 (2482); art. 159 (2489)
+art. 160 (2501); art. 161 (2508); art. 162 (2527); art. 163 (2535); art. 164 (2558); art. 166 (2566)
+art. 167 (2578); art. 168 (2584); art. 169 (2615); art. 170 (2624); art. 171 (2670); art. 172 (2707)
+art. 173 (2715); art. 174 (2725); art. 176 (2733); art. 177 (2852); art. 179 (2860); art. 180 (2866)
+art. 182 (2872); art. 183 (2882); art. 184 (2889); art. 189 (2895); art. 190 (2914); art. 191 (2920)
+art. 192 (2926); art. 193 (2950); art. 194 (2959); art. 195 (2968); art. 196 (2975); art. 197 (2985)
+art. 198 (2992); art. 199 (3000); art. 200 (3007); art. 201 (3016); art. 202 (3024); art. 203 (3050)
+art. 204 (3057); art. 205 (3063); art. 206 (3069); art. 214 (3075); art. 220 (3082); art. 221 (3088)
+art. 222 (3094); art. 223 (3100); art. 224 (3113); art. 225 (3140); art. 226 (3157); art. 227 (3165)
+art. 229 (3176); art. 230 (3188); art. 231 (3196); art. 233 (3204); art. 238 (3210); art. 239 (3216)
+art. 243 (3222); art. 244 (3229); art. 245 (3242); art. 245-A (3253); art. 247 (3259); art. 248 (3267)
+art. 249 (3273); art. 250 (3280); art. 251 (3286); art. 252 (3293); art. 253 (3317); art. 254 (3327)
+art. 254-A (3338); art. 255 (3399); art. 256 (3407); art. 257 (3442); art. 258 (3453); art. 259 (3459)
+art. 260 (3465); art. 261 (3471); art. 262 (3478); art. 263 (3484); art. 264 (3490); art. 265 (3547)
+art. 266 (3553); art. 285 (3559); art. 286 (3566); art. 289 (3573); art. 293 (3580); art. 295 (3586)
+Citada sem dispositivo identificado (3592)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3636,3 +3669,5 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | decisao-colegiado | — | 2009-07-28 | indeferido | divulgacao-informacoes | O Colegiado indeferiu pedido da Marisa S.A. de tratamento confidencial a consulta sobre dispensa de requisitos em reestruturação societária, por falta de fundamentação legal. Não evidenciou razões de sigilo (art. 8º, §2º, da Lei 6.385/76). Determinou envio à SEP, que avaliará exigir divulgação de fato relevante. | cvm/colegiado/2009/col-20090728-d01-r3.md |
 | decisao-colegiado | RJ2007/2386 | 2009-03-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a cobrança de taxa de fiscalização. Proc. RJ2007/2386. | cvm/colegiado/2009/col-20090324-d02.md |
 | decisao-colegiado | RJ2008/11194 | 2009-02-17 | parcial | fundos-investimento | O Colegiado concedeu as dispensas pedidas com base nas Instruções CVM 356/03 e 444/06 ao RB Capital FIDC-NP Multicarteira, exceto a de classificação de risco das cotas, pois o administrador pode dispensá-la com alterações pontuais no Regulamento. Estendeu à SIN, por ato normativo, a delegação de competência da SRE (Deliberação 535/08). | cvm/colegiado/2009/col-20090217-d02.md |
+
+Fim do subíndice.

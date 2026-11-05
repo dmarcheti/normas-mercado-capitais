@@ -79,3 +79,5 @@ Norma: fora do acervo.
 | art. 26 | decisao-colegiado | RJ2002/5940 | 2008-12-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5940. | cvm/colegiado/2008/col-20081202-d04.md |
 | art. 26 | decisao-colegiado | RJ2002/3904 | 2008-12-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3904. | cvm/colegiado/2008/col-20081202-d05.md |
 | art. 26 | decisao-colegiado | RJ2002/4355 | 2008-12-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4355. | cvm/colegiado/2008/col-20081209-d04.md |
+
+Fim do subíndice.

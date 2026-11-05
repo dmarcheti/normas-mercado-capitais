@@ -13,3 +13,5 @@ Norma: [cvm/pareceres-orientacao/0021.md](../../../normas/normas/cvm/pareceres-o
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 1991-01-04 | — | — | Decisões do colegiado de 1991. | cvm/decisoes-antigas/1991.md |
+
+Fim do subíndice.

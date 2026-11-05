@@ -8,6 +8,42 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 321 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| mp-1 | 47 |
+| mp-7 | 55 |
+| mp-8 | 63 |
+| mp-175 | 71 |
+| mp-281 | 79 |
+| mp-294 | 87 |
+| mp-405 | 95 |
+| mp-443 | 104 |
+| mp-449 | 112 |
+| mp-579 | 125 |
+| mp-591 | 158 |
+| mp-651 | 167 |
+| mp-688 | 175 |
+| mp-780 | 183 |
+| mp-784 | 191 |
+| mp-931 | 200 |
+| mp-1182 | 209 |
+| mp-1185 | 217 |
+| mp-1249 | 225 |
+| mp-1334 | 233 |
+| mp-1623 | 241 |
+| mp-1637 | 249 |
+| mp-1859 | 265 |
+| mp-2004 | 273 |
+| mp-2110 | 281 |
+| mp-2199 | 289 |
+| mp-2200 | 297 |
+| mp-2223 | 305 |
+| mp-57911 | 313 |
+
 ## mp-1
 
 ### Citada sem dispositivo identificado
@@ -281,3 +317,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 11, § 4º | acordao-crsfn | RJ2013/6635 | 2017-06-28 | absolvicao | assembleia-acionistas | RECURSO VOLUNTÁRIO. Mercado de capitais. Impedimento de voto por conflito de interesses. Irregularidade não caracterizada. Dado provimento ao recurso. | crsfn/2017/14306.md |
+
+Fim do subíndice.

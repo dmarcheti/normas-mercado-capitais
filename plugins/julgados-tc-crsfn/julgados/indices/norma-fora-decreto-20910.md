@@ -33,3 +33,5 @@ Norma: fora do acervo.
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 9º | acordao-crsfn | 02/2008 | 2020-03-11 | outro | deveres-administradores | EMBARGOS DE DECLARAÇÃO. O Decreto nº 20.910, de 1932, não é aplicável aos processos administrativos, em especial após a edição da Lei nº 9.873, de 1999. Pena de advertência não se mostrou adequada, e as pena de multa aplicadas se mostram proporcionais e razoáveis. A culpa do embargante foi configurada e a bussiness judment rule foi corretamente afastada no caso. O fato da operação se destinar a aquisição de participação vedada na legislação e condição de caixa da Companhia não são argumentos que afastem as irregularidades praticadas. Embargos rejeitados. | crsfn/2020/edcl-13703.md |
+
+Fim do subíndice.

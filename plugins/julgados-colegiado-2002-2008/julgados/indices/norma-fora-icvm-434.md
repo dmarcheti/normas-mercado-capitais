@@ -71,3 +71,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/11399 | 2008-07-03 | outro | administracao-carteiras | Em consulta da SIN, o Colegiado, acompanhando o voto do relator, respondeu que a área técnica pode indeferir credenciamento de administrador de carteira por falta de reputação ilibada, em razão de declaração inverídica do requerente à CVM. O requisito foi avaliado à luz da razoabilidade e da proporcionalidade (art. 2º da Lei 9.784/99). | cvm/colegiado/2008/col-20080703-d03.md |
 | decisao-colegiado | RJ2006/6823 | 2006-09-19 | outro | intermediacao | O Colegiado decidiu, em consulta da SMI, manter a exigência da denominação “Agente Autônomo de Investimentos” para agentes autônomos pessoa jurídica, sem admitir a expressão “Agente de Investimentos”, nem mesmo para empresas já registradas ou em análise. Fundamento: a denominação informa ao investidor que lida com empresa que reúne prepostos autônomos de corretora, e não com sociedade de investimentos. | cvm/colegiado/2006/col-20060919-d05.md |
+
+Fim do subíndice.

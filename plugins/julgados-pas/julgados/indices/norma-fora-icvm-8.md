@@ -7,6 +7,18 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 343 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 22 |
+| art. 4º | 28 |
+| art. 11 | 34 |
+| art. 14 | 40 |
+| Citada sem dispositivo identificado | 46 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -327,3 +339,5 @@ Norma: fora do acervo.
 | pas | 21/1995 | 2000-06-08 | parcial | manipulacao-fraude | [pessoa física], BANCO DO BRASIL S.A., BANCO ITAÚ S.A., [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], INDUSVAL S/A CTVM, INTRA S/A CCV, ITAÚ CORRETORA DE VALORES S/A, JOÃO AUGUSTO PEREIRA DE QUEIROZ, LUIZ CARLOS MOREIRA LIMA, LUIZ MASSAGÃO RIBEIRO, MARIA AUXILIADORA DE SOUZA PESTANA, MÁRIO DIAS DE GUIMARÃES NETO, PAX CVC LTDA. Práticas não-equitativas em operações day-trade realizadas por operadores da Intra S/A CVC tendo na contraparte a FAPECE, Prefeituras e carteiras administradas pelo Grupo Itaú, em prejuízo destes. Intermediação irregular. Descumprimento de dispositivos das Instruções CVM nºs 33/84 150/91, em negócios realizados em bolsas de valores, no mercado à vista, no ano de 1993, com a intermediação da Intra S/A CCV. Infrações configuradas. Penalidades. | cvm/pas/2000/21-1995.md |
 | pas | 09/1999 | 2000-01-25 | condenacao | intermediacao | [pessoa física], [pessoa física] E INVEST-RIO DTVM LTDA. Responsabilidade de Distribuidora pela movimentação irregular de ações pertencentes à custódia de seus clientes nos anos de 1995, 1996 e 1997 - Intermediação de negócios com valores mobiliários por pessoa não pertencente ao sistema de distribuição previsto no art. 15 da Lei nº 6.385/76 - Operações fraudulentas - Embaraço à fiscalização da CVM - Irregularidades no preenchimento de fichas cadastrais de clientes. | cvm/pas/2000/09-1999.md |
 | pas | 05/1998 | 1999-07-08 | outro | processual | DC CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S/A, [pessoa física], ITAÚ CV S/A, [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] TURISMO E VIAGENS, SÉRGIO CONRADO QUINTANILHA DE SÁ Possível ocorrência de irregularidades em operações no Mercado Futuro de Índices de Ações - IBOVESPA - realizadas pela BANERJ S.A. Distribuidora de Títulos e Valores Mobiliários, no ano de 1992. | cvm/pas/1999/05-1998.md |
+
+Fim do subíndice.

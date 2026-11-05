@@ -115,3 +115,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 24/96 | 2000-02-25 | absolvicao | exercicio-irregular | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Intermediação de ações sem a devida autorização da CVM - Irregularidade configurada – Peculiaridades do caso - Recurso improvido. | crsfn/2000/2732.md |
 | acordao-crsfn | 10/95 | 1998-10-29 | absolvicao | exercicio-irregular | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários – Intermediação de ações por pessoas não integrantes do sistema de distribuição - Falta de participação do recorrido na irregularidade – Apelo a que se nega provimento. | crsfn/1998/2546.md |
 | acordao-crsfn | 05/95 | 1998-10-29 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários – Falta de credenciamento para aquisição de ações em balcão e sua revenda por conta própria em bolsa de valores – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/1998/2516.md |
+
+Fim do subíndice.

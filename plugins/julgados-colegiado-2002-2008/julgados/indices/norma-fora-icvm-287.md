@@ -158,3 +158,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/2934 | 2005-05-24 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/2934. | cvm/colegiado/2005/col-20050524-d07.md |
 | decisao-colegiado | RJ2004/5854 | 2005-04-12 | deferido | opa | O Colegiado autorizou o cancelamento do registro de companhia aberta da Cimetal Siderurgia S.A. (em liquidação) independentemente de OPA (art. 34, §1º, IV, Instrução CVM 361/02). Fundamento do relator, acolhido: atividades paralisadas há anos, acionistas mal identificados, sem negócios com valores mobiliários e patrimônio líquido negativo. | cvm/colegiado/2005/col-20050412-d07.md |
 | decisao-colegiado | RJ2003/13526 | 2004-03-02 | outro | registro-emissor | O Colegiado suspendeu, de ofício, o registro de 10 companhias abertas que há mais de três anos não enviam informações à CVM, nos termos da Instrução CVM 287/98, acompanhando o voto do diretor relator. | cvm/colegiado/2004/col-20040302-d07.md |
+
+Fim do subíndice.

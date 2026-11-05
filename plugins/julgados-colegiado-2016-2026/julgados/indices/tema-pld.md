@@ -17,3 +17,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | 09/2016; RJ2014/13597 | 2018-12-19 | — | pld | O Colegiado concluiu a primeira etapa da discussão sobre a minuta de nova norma de prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLDFT) no mercado de valores mobiliários, submetida à Audiência Pública SDM 09/2016. Sem deliberação final nesta reunião. | cvm/colegiado/2018/col-20181219-d8331.md |
 | decisao-colegiado | 09/2016; RJ2014/13597 | 2018-11-26 | — | pld | O Colegiado iniciou a discussão da nova norma de prevenção à lavagem de dinheiro e ao financiamento do terrorismo no mercado de valores mobiliários, submetida à Audiência Pública SDM 09/2016, sem deliberação nesta reunião. | cvm/colegiado/2018/col-20181126-d8331.md |
 | decisao-colegiado | 301/1999; RJ2014/13597 | 2016-09-14 | — | pld | O Colegiado iniciou a discussão de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em substituição à Instrução CVM 301/1999, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20160914-d8331.md |
+
+Fim do subíndice.

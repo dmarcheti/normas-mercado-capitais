@@ -22,3 +22,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 25/96 | 2000-05-30 | condenacao | opa | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Alienação de controle acionário de companhias – Forma direta – Ausência de oferta pública nos moldes ditados pela Lei das Sociedades por Ações – Inadequada metodologia de cálculo do preço de compra das ações e das condições de pagamento apresentadas aos minoritários – Caracterização da irregularidade – Apelo improvido. | crsfn/2000/2912.md |
 | acordao-crsfn | 06/92 | 1996-09-12 | parcial | opa | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades relacionadas com a alienação de controle acionário. Recursos não providos. | crsfn/1996/1740.md |
 | acordao-crsfn | 06/89 | 1996-02-15 | parcial | opa | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Alienação do controle acionário da Têxtil Arp S.A. (TASA), sem a realização de oferta pública e sem as devidas comunicações de fatos relevantes. | crsfn/1996/1583.md |
+
+Fim do subíndice.

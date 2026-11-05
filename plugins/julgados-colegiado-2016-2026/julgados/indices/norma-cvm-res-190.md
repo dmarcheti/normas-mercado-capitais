@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0190.md](../../../normas/normas/cvm/resolucoes/0190.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 02/2023; 19957.003456/2023-55 | 2023-10-04 | outro | contabil-demonstracoes | Após a consulta pública SNC nº 02/2023 – proposta de resolução – pronunciamento técnico CPC 12(R1) – ajuste a valor presente – obrigatoriedade para as companhias abertas. Proc. 19957.003456/2023-55. | cvm/colegiado/2023/col-20231004-d2855.md |
+
+Fim do subíndice.

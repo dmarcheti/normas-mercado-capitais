@@ -7,6 +7,43 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1552 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 47 |
+| art. 2º | 54 |
+| art. 3º | 173 |
+| art. 4º | 404 |
+| art. 5º | 442 |
+| art. 6º | 466 |
+| art. 8º | 686 |
+| art. 9º | 734 |
+| art. 10 | 743 |
+| art. 11 | 757 |
+| art. 12 | 819 |
+| art. 13 | 979 |
+| art. 14 | 1272 |
+| art. 15 | 1280 |
+| art. 15-A | 1294 |
+| art. 16 | 1307 |
+| art. 17 | 1313 |
+| art. 18 | 1319 |
+| art. 21 | 1370 |
+| art. 23 | 1378 |
+| art. 30 | 1387 |
+| art. 32 | 1395 |
+| art. 58 | 1401 |
+| art. 62 | 1408 |
+| art. 121 | 1414 |
+| art. 127 | 1420 |
+| art. 132 | 1426 |
+| art. 157 | 1433 |
+| art. 316 | 1441 |
+| Citada sem dispositivo identificado | 1447 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1511,3 +1548,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2006/1325 | 2006-07-18 | rejeitado | ofertas-publicas | O Colegiado rejeitou proposta de termo de compromisso da Geração Futuro CTVM, de R$ 40.000,00, por violação dos arts. 48, III e IV, e 50 da Instrução CVM 400/03. Não atende ao requisito de valor suficiente para desestimular infrações semelhantes, contra o parecer favorável do Comitê e da PFE. Determinou consulta à proponente sobre reavaliar o valor. | cvm/colegiado/2006/col-20060718-d05.md |
 | termo-compromisso | 03/2004 | 2006-02-15 | rejeitado | outros | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de termo de compromisso de indiciados no PAS 03/2004, por não se mostrar conveniente diante da gravidade das imputações e da necessidade de pronunciamento do Colegiado. Um diretor votou pela rejeição por entender que a proposta deveria ser feita mediante pagamento ao Tesouro Nacional. | cvm/colegiado/2006/col-20060215-d05.md |
 | termo-compromisso | IA23/00 | 2003-08-05 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos indiciados no Inquérito Administrativo CVM nº 23/00, nos termos do voto do Diretor-Relator. | cvm/colegiado/2003/col-20030805-d04.md |
+
+Fim do subíndice.

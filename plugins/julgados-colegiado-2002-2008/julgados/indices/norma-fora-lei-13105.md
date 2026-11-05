@@ -7,6 +7,55 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 367 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 6º | 59 |
+| art. 42 | 65 |
+| art. 47 | 74 |
+| art. 110 | 80 |
+| art. 125 | 86 |
+| art. 134 | 93 |
+| art. 154 | 99 |
+| art. 181 | 106 |
+| art. 184 | 112 |
+| art. 214 | 119 |
+| art. 215 | 125 |
+| art. 223 | 131 |
+| art. 234 | 137 |
+| art. 249 | 143 |
+| art. 264 | 149 |
+| art. 268 | 155 |
+| art. 269 | 161 |
+| art. 273 | 167 |
+| art. 282 | 173 |
+| art. 293 | 181 |
+| art. 300 | 187 |
+| art. 333 | 193 |
+| art. 341 | 199 |
+| art. 358 | 205 |
+| art. 365 | 211 |
+| art. 398 | 217 |
+| art. 460 | 223 |
+| art. 461 | 229 |
+| art. 472 | 236 |
+| art. 495 | 242 |
+| art. 497 | 248 |
+| art. 503 | 254 |
+| art. 514 | 260 |
+| art. 515 | 266 |
+| art. 535 | 273 |
+| art. 538 | 283 |
+| art. 542 | 289 |
+| art. 557 | 295 |
+| art. 585 | 302 |
+| art. 786 | 309 |
+| art. 808 | 315 |
+| Citada sem dispositivo identificado | 321 |
+
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -314,3 +363,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/4932 | 2002-10-21 | provido | ofertas-publicas | O Colegiado acompanhou o voto da Diretora-Relatora e deu provimento a recurso contra decisão da SRE que negou prorrogação de 90 dias para distribuição pública de debêntures da Inepar S.A. Condicionou a prorrogação à atualização do prospecto, com informação sobre eventuais débitos de juros aos debenturistas. Fundamento: cabe à CVM exigir informação, não avaliar o risco do investimento. | cvm/colegiado/2002/col-20021021-d01.md |
 | decisao-colegiado | SP2001/0754 | 2002-07-09 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2001/0754. | cvm/colegiado/2002/col-20020709-d05.md |
 | decisao-colegiado | RJ2002/1035 | 2002-07-03 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso contra decisão da SRE que negou vista de documentos de oferta pública de permuta de ações da Telesp Celular, devolvidos ao coordenador após a desistência da ofertante. Fundamento: o prospecto reúne as informações da oferta e, sem registro concedido, a documentação perdeu caráter público. Acompanhou a SRE, que seguiu a PJU. | cvm/colegiado/2002/col-20020703-d08.md |
+
+Fim do subíndice.

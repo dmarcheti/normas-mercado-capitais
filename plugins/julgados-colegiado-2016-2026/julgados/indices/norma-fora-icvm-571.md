@@ -30,3 +30,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.002726/2016-81 | 2016-05-17 | outro | ofertas-publicas | Autorização para emissão de ofício circular sobre ofertas públicas secundárias de cotas de fundos de investimento imobiliário. Proc. SEI 19957.002726/2016-81. | cvm/colegiado/2016/col-20160517-d0206.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | 472/2008; RJ2015/13111 | 2016-01-27 | outro | normativo | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução CVM 472/2008 (FII) para exigir aprovação dos cotistas em assembleia geral dos atos de consultores especializados em conflito com o fundo (art. 34), complementando a Instrução CVM 571/2015. A SDM consolidará as contribuições. | cvm/colegiado/2016/col-20160127-d084.md |
+
+Fim do subíndice.

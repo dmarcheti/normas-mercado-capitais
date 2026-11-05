@@ -46,3 +46,5 @@ Norma: fora do acervo.
 | art. 49 | decisao-colegiado | RJ2011/7126 | 2011-06-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/7126. | cvm/colegiado/2011/col-20110628-d04.md |
 | art. 49 | decisao-colegiado | RJ2012/7960 | 2012-07-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/7960. | cvm/colegiado/2012/col-20120731-d02.md |
 | art. 49 | decisao-colegiado | RJ2011/6005 | 2012-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/6005. | cvm/colegiado/2012/col-20121023-d20.md |
+
+Fim do subíndice.

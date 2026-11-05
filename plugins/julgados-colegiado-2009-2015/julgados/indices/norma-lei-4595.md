@@ -29,3 +29,5 @@ Norma: [leis/lei-04595.md](../../../normas/normas/leis/lei-04595.md) (texto vige
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/5608 | 2013-06-04 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedido de interrupção do prazo de antecedência da AGE do Banco Mercantil do Brasil S.A., convocada para 10.06.2013 para aumento de capital, acompanhando a SEP (RA/CVM/SEP/GEA-3/Nº 044/13). Fundamento: não foram identificados indícios de violação de dispositivos legais ou regulamentares na proposta. | cvm/colegiado/2013/col-20130604-d09.md |
 | decisao-colegiado | RJ2002/2917 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/2917. | cvm/colegiado/2009/col-20090519-d08.md |
+
+Fim do subíndice.

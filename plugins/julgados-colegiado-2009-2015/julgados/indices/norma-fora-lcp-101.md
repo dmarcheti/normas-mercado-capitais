@@ -40,3 +40,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2013/5484 | 2013-06-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/5484. | cvm/colegiado/2013/col-20130604-d06.md |
 | decisao-colegiado | RJ2012/11216 | 2013-05-21 | deferido | fundos-investimento | O Colegiado deferiu pedido do Caixa Fundo de Investimento Imobiliário Porto Maravilha para operar com CEPAC fora de mercados organizados, nos termos do inciso XII do art. 35 da Instrução CVM 472/08. Com base em manifestação favorável da SIN, que considerou o fundo de único cotista, investidor superqualificado. | cvm/colegiado/2013/col-20130521-d07.md |
 | decisao-colegiado | RJ2008/11194 | 2009-02-17 | parcial | fundos-investimento | O Colegiado concedeu as dispensas pedidas com base nas Instruções CVM 356/03 e 444/06 ao RB Capital FIDC-NP Multicarteira, exceto a de classificação de risco das cotas, pois o administrador pode dispensá-la com alterações pontuais no Regulamento. Estendeu à SIN, por ato normativo, a delegação de competência da SRE (Deliberação 535/08). | cvm/colegiado/2009/col-20090217-d02.md |
+
+Fim do subíndice.

@@ -25,3 +25,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/12105 | 2012-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/12105. | cvm/colegiado/2012/col-20121106-d04.md |
 | decisao-colegiado | RJ2012/12103 | 2012-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/12103. | cvm/colegiado/2012/col-20121106-d03.md |
 | decisao-colegiado | RJ2012/12099 | 2012-11-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/12099. | cvm/colegiado/2012/col-20121106-d02.md |
+
+Fim do subíndice.

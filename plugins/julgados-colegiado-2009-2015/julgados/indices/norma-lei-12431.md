@@ -41,3 +41,5 @@ Norma: [leis/lei-12431.md](../../../normas/normas/leis/lei-12431.md) (texto vige
 | decisao-colegiado | RJ2011/10328 | 2011-09-20 | deferido | outros | Anuência para emissão privada de debêntures simples. Proc. RJ2011/10328. | cvm/colegiado/2011/col-20110920-d12.md |
 | decisao-colegiado | RJ2011/7431 | 2011-09-20 | — | normativo | O Colegiado deu continuidade à discussão das diretrizes para regulamentar a Lei 12.431/2011, resultado da conversão da MP 517/10, que alterou a Lei 6.404/76. Sem deliberação nesta reunião. | cvm/colegiado/2011/col-20110920-d01.md |
 | decisao-colegiado | RJ2011/7431 | 2011-08-30 | — | normativo | Sem deliberação: o Colegiado apenas deu início à discussão das diretrizes para regulamentar a Lei 12.431/11, resultado da conversão da MP 517/10, que alterou a Lei 6.404/76. | cvm/colegiado/2011/col-20110830-d07.md |
+
+Fim do subíndice.

@@ -23,3 +23,5 @@ Norma: [cvm/pareceres-orientacao/0031.md](../../../normas/normas/cvm/pareceres-o
 | pas | SP2003/0152 | 2006-03-29 | parcial | pld | Sociedade Corretora - Existência de cadastros de clientes incompletos ou desatualizados. Descumprimento do art. 3º da Instrução CVM nº 301/99. Multa. | cvm/pas/2006/sp2003-0152.md |
 | pas | RJ2002/7635 | 2004-09-09 | condenacao | opa | Violação dos parágrafos 2º e 3º do art. 7º da Instrução CVM nº 361/02 - dever de diligência. | cvm/pas/2004/rj2002-7635.md |
 | pas | RJ2002/4936 | 2004-09-09 | absolvicao | pld | Acusação de infração ao artigo 3º, parágrafo 1º, inciso I, alíneas “e” e “f” da Instrução CVM nº 301/99 - exclusão de indiciado por ilegitimidade passiva e absolvição. | cvm/pas/2004/rj2002-4936.md |
+
+Fim do subíndice.

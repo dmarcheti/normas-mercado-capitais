@@ -8,6 +8,25 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 719 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cvm-1-2001 (30); res-cvm-3 (38); res-cvm-4 (52); res-cvm-6-1999 (74); res-cvm-6-2017 (82); res-cvm-7 (90)
+res-cvm-13-2004 (99); res-cvm-17-2023 (107); res-cvm-18 (116); res-cvm-23-2011 (124); res-cvm-38 (138)
+res-cvm-40 (146); res-cvm-41 (154); res-cvm-45-2001 (162); res-cvm-45-2019 (172); res-cvm-50-1993 (180)
+res-cvm-51 (188); res-cvm-62-2002 (197); res-cvm-63 (205); res-cvm-79 (213); res-cvm-85 (221)
+res-cvm-129-1979 (232); res-cvm-134 (252); res-cvm-168 (260); res-cvm-178-2021 (270); res-cvm-180 (278)
+res-cvm-202 (287); res-cvm-219 (295); res-cvm-220 (309); res-cvm-235 (317); res-cvm-238-1972 (326)
+res-cvm-238-1994 (337); res-cvm-238-2001 (345); res-cvm-241 (353); res-cvm-290 (362); res-cvm-297 (371)
+res-cvm-303 (379); res-cvm-306 (387); res-cvm-400 (395); res-cvm-436 (421); res-cvm-441 (430)
+res-cvm-442 (444); res-cvm-457 (452); res-cvm-458 (460); res-cvm-480 (469); res-cvm-550 (477)
+res-cvm-700 (491); res-cvm-750 (501); res-cvm-820 (509); res-cvm-821 (519); res-cvm-830 (527)
+res-cvm-839 (535); res-cvm-1022 (543); res-cvm-1321 (551); res-cvm-1621 (559); res-cvm-2690 (567)
+res-cvm-2785 (575); res-cvm-3121 (583); res-cvm-3132 (591); res-cvm-3954 (599); res-cvm-4263 (607)
+res-cvm-4415 (615); res-cvm-4422 (623); res-cvm-4510 (631); res-cvm-4517 (645); res-cvm-4518 (653)
+res-cvm-4522 (661); res-cvm-4530 (681); res-cvm-4538 (689); res-cvm-4544 (703); res-cvm-4549 (711)
+
 ## res-cvm-1-2001
 
 ### Citada sem dispositivo identificado
@@ -696,3 +715,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | informacao-privilegiada | Apurar suposta prática de negociação de ativos em períodos vedados, em infração ao disposto no art. 54 da Resolução CVM nº 160/2022 e no art. 14 da Resolução CVM nº 44/2021. Absolvição e Advertência. | cvm/pas/2024/19957-016206-2023-85.md |
+
+Fim do subíndice.

@@ -7,6 +7,71 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0175/index.md](../../../normas/normas/cvm/resolucoes/0175/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 501 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 75 |
+| art. 5º | 84 |
+| art. 7º | 93 |
+| art. 29 | 99 |
+| art. 42 | 105 |
+| art. 43 | 111 |
+| art. 45 | 117 |
+| art. 48 | 124 |
+| art. 69 | 131 |
+| art. 70 | 137 |
+| art. 82 | 147 |
+| art. 83 | 153 |
+| art. 106 | 159 |
+| art. 108 | 167 |
+| art. 110 | 175 |
+| art. 113 | 182 |
+| art. 117 | 188 |
+| art. 119 | 194 |
+| art. 120 | 202 |
+| art. 121 | 208 |
+| art. 126 | 214 |
+| art. 128 | 221 |
+| art. 134 | 228 |
+| art. 140 | 234 |
+| Anexo I, art. 17 | 240 |
+| Anexo I, art. 24 | 246 |
+| Anexo I, art. 43 | 252 |
+| Anexo I, art. 46 | 263 |
+| Anexo I, art. 56 | 269 |
+| Anexo I, art. 75 | 278 |
+| Anexo II, art. 2º | 284 |
+| Anexo II, art. 3º | 290 |
+| Anexo II, art. 15 | 296 |
+| Anexo II, art. 27 | 304 |
+| Anexo II, art. 30 | 310 |
+| Anexo II, art. 36 | 320 |
+| Anexo II, art. 37 | 327 |
+| Anexo II, art. 41 | 333 |
+| Anexo II, art. 42 | 339 |
+| Anexo II, art. 44 | 350 |
+| Anexo II, art. 45 | 357 |
+| Anexo II, art. 51 | 365 |
+| Anexo III, art. 2º | 371 |
+| Anexo III, art. 11 | 377 |
+| Anexo III, art. 16 | 383 |
+| Anexo III, art. 31 | 390 |
+| Anexo III, art. 32 | 396 |
+| Anexo III, art. 33 | 402 |
+| Anexo III, art. 36 | 409 |
+| Anexo III, art. 42 | 415 |
+| Anexo IV, art. 4º | 422 |
+| Anexo IV, art. 20 | 428 |
+| Anexo IV, art. 21 | 434 |
+| Anexo V, art. 50 | 441 |
+| Anexo V, art. 52 | 447 |
+| Anexo VI, art. 2º | 453 |
+| Anexo VI, art. 13 | 459 |
+| Citada sem dispositivo identificado | 465 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -432,3 +497,5 @@ Norma: [cvm/resolucoes/0175/index.md](../../../normas/normas/cvm/resolucoes/0175
 | decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-30 | — | normativo | O Colegiado concluiu o debate sobre o Anexo Normativo II, relativo aos FIDC, da proposta de novo marco regulatório dos fundos de investimento (Audiência Pública SDM 08/2020). Sem deliberação nesta reunião. | cvm/colegiado/2022/col-20221130-d5474-r2.md |
 | decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-16 | — | normativo | O Colegiado continuou o debate da proposta da SDM de novo marco regulatório para os fundos de investimento, na segunda fase, sobre os FIF, alcançando os Capítulos I e II do Anexo Normativo I, sem deliberação nesta reunião. | cvm/colegiado/2022/col-20221116-d5474.md |
 | decisao-colegiado | 08/2020; 19957.009249/2019-28 | 2022-11-16 | — | fundos-investimento | O Colegiado continuou o debate sobre o novo marco regulatório dos fundos de investimento (Audiência Pública SDM nº 08/2020) e concluiu a discussão do Anexo Normativo I, sobre FIF. Sem deliberação nesta reunião. | cvm/colegiado/2022/col-20221116-d5474-r3.md |
+
+Fim do subíndice.

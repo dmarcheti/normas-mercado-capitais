@@ -23,3 +23,5 @@ Norma: fora do acervo.
 | art. 6º, § 1º | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | fundos-investimento | Recursos voluntários. Desenquadramento de Fundos de Investimento. Falha da Administradora do Fundo quanto ao seu dever de supervisionar a atuação da Gestora. Recurso conhecido e improvido. | crsfn/2016/14439.md |
 | art. 6º, § 1º | acordao-crsfn | RJ-2013-5682 | 2016-10-26 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS. Auditoria independente. Não reconhecimento de perdas classificadas pelo auditor como incertas. Descumprimento de normas profissionais de auditoria independente. | crsfn/2016/14445.md |
 | art. 6º, § 1º | acordao-crsfn | CVM17/2006 | 2016-12-13 | outro | processual | PEDIDO DE ESCLARECIMENTOS. Prazo para interposição conta-se da data de divulgação do acórdão no site do Conselho, conforme disposição expressa do RICRSFN. Intempestividade configurada. Não conhecimento do pedido. DECISÃO MONOCRÁTICA CRSFN-MF Nº 26/2017 | crsfn/2016/monocratica-13977.md |
+
+Fim do subíndice.

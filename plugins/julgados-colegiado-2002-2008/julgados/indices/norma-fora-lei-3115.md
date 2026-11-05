@@ -22,3 +22,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/3127 | 2003-06-03 | provido | deveres-administradores | O Colegiado deu provimento a recurso da Amazônia Celular S.A. contra decisão da SEP que apontou infração ao art. 161, § 4º, da Lei 6.404/76 na composição do conselho fiscal (um membro indicado pelos preferencialistas e três pelos controladores). Segundo o relator, a composição não configura infração a norma tutelada pela CVM. | cvm/colegiado/2003/col-20030603-d08.md |
 | decisao-colegiado | — | 2003-04-17 | outro | assembleia-acionistas | O Colegiado, por maioria, respondeu em consulta da SEP que o art. 111, § 1º, da Lei 6.404/76 se aplica apenas às ações preferenciais com prioridade no recebimento de dividendo fixo ou mínimo. Uma diretora apresentou declaração de voto. | cvm/colegiado/2003/col-20030417-d08.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

@@ -13,3 +13,5 @@ Norma: [leis/lei-12810.md](../../../normas/normas/leis/lei-12810.md) (texto vige
 |---|---|---|---|---|---|---|---|
 | art. 28 | decisao-colegiado | RJ2013/8780 | 2013-08-20 | outro | infraestrutura-mercado | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a ICVM 461/07 para regulamentar o art. 28 da Lei 12.810/2013, uniformizando o registro de valores mobiliários, historicamente apoiado nas entidades administradoras de balcão organizado. A SDM consolidará as contribuições. | cvm/colegiado/2013/col-20130820-d04.md |
 | art. 28 | decisao-colegiado | 09/2013; RJ2013/8780 | 2013-12-10 | outro | infraestrutura-mercado | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 09/2013, que altera a ICVM 461/07 para regulamentar o art. 28 da Lei 12.810/13 e uniformizar o registro de ativos financeiros e valores mobiliários, antes concentrado nas entidades de balcão organizado. | cvm/colegiado/2013/col-20131210-d11.md |
+
+Fim do subíndice.

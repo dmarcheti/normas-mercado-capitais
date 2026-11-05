@@ -8,6 +8,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2268 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+lei-0 (46); lei-1 (60); lei-2 (75); lei-3 (90); lei-6 (99); lei-7 (144); lei-9 (158); lei-10 (172)
+lei-23 (192); lei-119 (201); lei-219 (209); lei-361 (217); lei-556 (225); lei-896 (233); lei-1000 (241)
+lei-1083 (249); lei-1376 (259); lei-1841 (267); lei-2004 (275); lei-2313 (289); lei-2329 (297); lei-2335 (305)
+lei-2400 (313); lei-2550 (321); lei-3071 (329); lei-3150 (343); lei-3189 (367); lei-3215 (375); lei-3515 (383)
+lei-3519 (391); lei-3741 (399); lei-3890 (407); lei-3995 (415); lei-4156 (423); lei-4239 (431); lei-4320 (445)
+lei-4357 (454); lei-4591 (462); lei-4728-1967 (470); lei-4869 (480); lei-5073 (494); lei-5172 (502)
+lei-5174 (528); lei-5250 (536); lei-5404 (556); lei-5492 (564); lei-5508 (572); lei-5558 (580); lei-5568 (588)
+lei-5662 (596); lei-6015 (604); lei-6024 (649); lei-6040 (699); lei-6099 (707); lei-6358 (715); lei-6383 (725)
+lei-6384 (733); lei-6386 (741); lei-6404-1946 (749); lei-6404-1964 (757); lei-6404-1967 (771)
+lei-6404-1979 (781); lei-6406 (790); lei-6460 (811); lei-6464 (819); lei-6505 (827); lei-6569 (842)
+lei-6604 (850); lei-6606 (858); lei-6616 (866); lei-6815 (874); lei-6830 (882); lei-7116 (904); lei-7181 (912)
+lei-7210 (920); lei-7347 (928); lei-7490 (942); lei-7492 (950); lei-7661 (988); lei-7730 (1002)
+lei-7739 (1010); lei-7942 (1018); lei-8012 (1026); lei-8014 (1034); lei-8021 (1042); lei-8031 (1053)
+lei-8033 (1068); lei-8036 (1076); lei-8078 (1084); lei-8096 (1092); lei-8112 (1100); lei-8167 (1108)
+lei-8177 (1130); lei-8200 (1158); lei-8212 (1178); lei-8245 (1192); lei-8313 (1200); lei-8393 (1208)
+lei-8429 (1216); lei-8437 (1225); lei-8523 (1233); lei-8620 (1241); lei-8630 (1249); lei-8666 (1257)
+lei-8685 (1292); lei-8686 (1309); lei-8878 (1317); lei-8880 (1325); lei-8884 (1339); lei-8906 (1347)
+lei-8934 (1367); lei-8935 (1393); lei-8981 (1401); lei-8987 (1417); lei-9049 (1443); lei-9065 (1451)
+lei-9069 (1481); lei-9074 (1489); lei-9250 (1497); lei-9279 (1523); lei-9307 (1532); lei-9311 (1540)
+lei-9394 (1554); lei-9427 (1562); lei-9430 (1577); lei-9447 (1600); lei-9472 (1623); lei-9477 (1692)
+lei-9478 (1700); lei-9491 (1709); lei-9492 (1723); lei-9504 (1731); lei-9514-1994 (1739); lei-9517 (1747)
+lei-9532 (1755); lei-9541 (1769); lei-9615 (1777); lei-9636 (1785); lei-9648 (1793); lei-9717 (1807)
+lei-9718 (1816); lei-9754 (1824); lei-9779 (1832); lei-9783 (1840); lei-9873 (1848); lei-9874 (1867)
+lei-9940 (1883); lei-9959 (1891); lei-9964 (1900); lei-10101 (1909); lei-10150 (1917); lei-10169 (1925)
+lei-10189 (1933); lei-10192 (1941); lei-10194 (1955); lei-10233 (1963); lei-10257 (1971); lei-10313 (1980)
+lei-10411 (1988); lei-10431 (2001); lei-10438 (2009); lei-10520 (2018); lei-10522 (2026); lei-10552 (2051)
+lei-10637 (2059); lei-10684 (2067); lei-10735 (2093); lei-10762 (2108); lei-10848 (2117); lei-10892 (2132)
+lei-10900 (2140); lei-10973 (2148); lei-11072 (2156); lei-11079 (2164); lei-11196 (2173); lei-11437 (2181)
+lei-11457 (2189); lei-11638 (2205); lei-13430 (2220); lei-14061 (2228); lei-14452 (2236); lei-15290 (2244)
+lei-19550 (2252); lei-56404 (2260)
+
 ## lei-0
 
 ### art. 6º
@@ -2229,3 +2264,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 137 | decisao-colegiado | RJ2007/1613 | 2007-03-06 | indeferido | assembleia-acionistas | O Colegiado não acatou pedido de adiamento da AGE da Politeno Indústria e Comércio S.A., convocada para 12.03.07, e entendeu que o resgate de ações independe de previsão estatutária e não exige laudo de avaliação econômica. Entendeu também que deve haver nova convocação, com informações sobre o interesse da companhia e sobre o valor patrimonial como critério de preço. | cvm/colegiado/2007/col-20070306-d04.md |
+
+Fim do subíndice.

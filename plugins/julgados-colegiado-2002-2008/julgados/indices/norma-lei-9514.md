@@ -93,3 +93,5 @@ Norma: [leis/lei-09514.md](../../../normas/normas/leis/lei-09514.md) (texto vige
 | decisao-colegiado | RJ2003/12498 | 2003-11-11 | — | fundos-investimento | Solicitação de flexibilização de legislação de fundos de investimento em direitos creditórios. Proc. RJ2003/12498. | cvm/colegiado/2003/col-20031111-d08.md |
 | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor-relator e entendeu não haver impedimento a que fundos de investimento imobiliário adquiram imóveis gravados com enfiteuse, desde que o fato seja claro e amplamente informado aos investidores (art. 7º, VI, da Lei 8.668/93). Deliberou divulgar na página da CVM o Parecer/CVM/PJU/Nº 014/02 e o voto. | cvm/colegiado/2003/col-20030225-d03.md |
 | decisao-colegiado | RJ2000/2149 | 2002-11-22 | — | normativo | Proposta de alteração da Decisão-Conjunta CVM/BACEN nº 07/99, que regula as condições de remuneração de debêntures e de certificados de recebíveis imobiliários. A diretora relatora apresentou voto e deverá contatar o diretor do Banco Central. Retirado de pauta. | cvm/colegiado/2002/col-20021122-d05.md |
+
+Fim do subíndice.

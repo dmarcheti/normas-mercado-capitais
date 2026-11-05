@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 423 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2018-12 | 29 |
+| 2018-11 | 65 |
+| 2018-10 | 84 |
+| 2018-09 | 117 |
+| 2018-08 | 151 |
+| 2018-07 | 187 |
+| 2018-06 | 225 |
+| 2018-05 | 248 |
+| 2018-04 | 274 |
+| 2018-03 | 299 |
+| 2018-02 | 336 |
+| 2018-01 | 389 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 19957.010403/2018-23 | 2018-12-27 | outro | institucional | O Colegiado aprovou a minuta de Acordo de Cooperação Técnica entre a CVM e a Secretaria de Estado de Educação do Rio de Janeiro (Seeduc), pelo qual a CVM ofertará conteúdos educacionais sobre poupança, bem-estar financeiro e formação de investidores. | cvm/colegiado/2018/col-20181227-d1268.md |
@@ -400,3 +419,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.009265/2016-78 | 2018-01-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.009265/2016-78. | cvm/colegiado/2018/col-20180109-d0535.md |
 | 19957.008891/2016-47 | 2018-01-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.008891/2016-47. | cvm/colegiado/2018/col-20180109-d0499.md |
 | 19957.011269/2017-05 | 2018-01-05 | outro | assembleia-acionistas | O Colegiado, por unanimidade, declarou ilegal a matéria da AGE da Copel sobre eleição de membros do Comitê de Indicação e Avaliação (CIA), nos termos do art. 124, §5º, II, da Lei 6.404/1976, por violar dispositivos da Lei das Estatais, e determinou que a companhia seja informada das razões. Interrupção do prazo: desnecessária, segundo o voto acompanhado. | cvm/colegiado/2018/col-20180105-d0870.md |
+
+Fim do subíndice.

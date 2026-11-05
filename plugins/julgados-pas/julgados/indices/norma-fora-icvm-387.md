@@ -7,6 +7,32 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 290 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 36 |
+| art. 3º | 42 |
+| art. 4º | 58 |
+| art. 6º | 95 |
+| art. 8º | 116 |
+| art. 9º | 124 |
+| art. 10 | 132 |
+| art. 11 | 141 |
+| art. 12 | 155 |
+| art. 13 | 165 |
+| art. 14 | 188 |
+| art. 15 | 195 |
+| art. 19 | 204 |
+| art. 21 | 219 |
+| art. 23 | 227 |
+| art. 38 | 239 |
+| art. 233 | 245 |
+| art. 236 | 251 |
+| Citada sem dispositivo identificado | 257 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -260,3 +286,5 @@ Norma: fora do acervo.
 | pas | SP2002/0487 | 2004-06-21 | condenacao | pld | As fichas cadastrais dos clientes que operam no mercado de valores mobiliários não só devem estar completamente preenchidas e atualizadas como a instituição deve manter controles internos que permitam o combate à lavagem de dinheiro (Instrução CVM nº 301/99, artigos 3º e 9º), ficando caracterizada, no presente caso, a inexistência de um efetivo sistema de controle e atualização dos cadastros. | cvm/pas/2004/sp2002-0487.md |
 | pas | RJ2002/6765 | 2003-12-11 | condenacao | intermediacao | As sociedades corretoras devem possuir regras de emissão de ordens de operações que comprovem a sua realização, por exigência do artigo 2º da Instrução CVM Nº 220/94. | cvm/pas/2003/rj2002-6765.md |
 | pas | RJ2002/4589 | 2003-11-06 | absolvicao | pld | Absolvidos os acusados, por unanimidade, relativamente à obrigação de comunicar à CVM eventual suspeita de "lavagem" (art. 7º, II, Instr. CVM nº 301/99) e, por maioria, relativamente à insuficiência de informação cadastral da situação patrimônial de cliente (art. 3º, § 1º, I, "f", da mesma Instrução). | cvm/pas/2003/rj2002-4589.md |
+
+Fim do subíndice.

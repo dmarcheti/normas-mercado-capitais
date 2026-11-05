@@ -21,3 +21,5 @@ Norma: [leis/lei-10931.md](../../../normas/normas/leis/lei-10931.md) (texto vige
 | termo-compromisso | 19957.003953/2021-91; 19957.004982/2021-71 | 2022-11-22 | aceito | administracao-carteiras | Apreciação de proposta de termo de compromisso. PAS 19957.003953/2021-91 e 19957.004982/2021-71. | cvm/colegiado/2022/col-20221122-d2566-2657.md |
 | termo-compromisso | RJ2013/11716 | 2015-08-18 | aceito | infraestrutura-mercado | Apreciação de proposta de termo de compromisso. Proc. RJ2013/11716. | cvm/colegiado/2015/col-20150818-d9790.md |
 | termo-compromisso | 12/2009 | 2011-05-10 | aceito | securitizacao | O Colegiado aceitou as propostas de termo de compromisso no PAS 12/2009, sobre oferta de CRI da CSA – Companhia Securitizadora de Ativos (2004): R$ 100.000,00 cada para dois diretores; R$ 50.000,00 cada para três conselheiros; R$ 75.000,00 para a Pavarini DTVM, agente fiduciário. Acompanhou o Comitê. | cvm/colegiado/2011/col-20110510-d07.md |
+
+Fim do subíndice.

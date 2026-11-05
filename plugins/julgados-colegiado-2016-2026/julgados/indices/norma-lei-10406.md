@@ -7,6 +7,36 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1073 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 5º (40); art. 18 (46); art. 44 (52); art. 45 (58); art. 47 (64); art. 49 (70); art. 50 (76); art. 52 (82)
+art. 53 (88); art. 66 (94); art. 67 (100); art. 68 (106); art. 85 (112); art. 92 (118); art. 104 (124)
+art. 111 (134); art. 112 (140); art. 113 (148); art. 122 (163); art. 125 (172); art. 138 (179); art. 140 (185)
+art. 159 (191); art. 166 (197); art. 177 (206); art. 186 (212); art. 187 (218); art. 189 (228); art. 205 (235)
+art. 206 (243); art. 224 (249); art. 243 (256); art. 252 (262); art. 265 (268); art. 290 (275); art. 299 (282)
+art. 304 (288); art. 335 (296); art. 360 (302); art. 361 (308); art. 368 (314); art. 369 (320); art. 375 (326)
+art. 381 (332); art. 385 (338); art. 389 (344); art. 393 (350); art. 394 (359); art. 398 (366); art. 408 (372)
+art. 412 (378); art. 413 (384); art. 421 (391); art. 422 (397); art. 424 (403); art. 425 (409); art. 439 (415)
+art. 440 (421); art. 450 (427); art. 473 (433); art. 475 (440); art. 476 (446); art. 481 (452); art. 482 (461)
+art. 487 (467); art. 492 (473); art. 504 (479); art. 586 (485); art. 587 (492); art. 591 (498); art. 599 (504)
+art. 603 (510); art. 625 (516); art. 647 (522); art. 682 (528); art. 693 (534); art. 694 (542); art. 882 (549)
+art. 884 (555); art. 887 (562); art. 927 (568); art. 931 (576); art. 932 (582); art. 944 (588); art. 945 (596)
+art. 950 (603); art. 966 (609); art. 969 (616); art. 981 (622); art. 982 (628); art. 983 (634); art. 991 (640)
+art. 993 (647); art. 996 (653); art. 997 (659); art. 1.028 (665); art. 1.052 (671); art. 1.064 (677)
+art. 1.065 (683); art. 1.071 (689); art. 1.077 (696); art. 1.089 (702); art. 1.098 (708); art. 1.102 (714)
+art. 1.103 (720); art. 1.104 (726); art. 1.105 (732); art. 1.106 (738); art. 1.107 (744); art. 1.108 (750)
+art. 1.109 (756); art. 1.110 (762); art. 1.111 (768); art. 1.112 (774); art. 1.136 (780); art. 1.179 (786)
+art. 1.225 (792); art. 1.268 (799); art. 1.320 (805); art. 1.322 (812); art. 1.331 (818); art. 1.332 (824)
+art. 1.333 (830); art. 1.334 (836); art. 1.335 (842); art. 1.336 (848); art. 1.337 (854); art. 1.338 (860)
+art. 1.339 (866); art. 1.340 (872); art. 1.341 (878); art. 1.342 (884); art. 1.343 (890); art. 1.344 (896)
+art. 1.345 (902); art. 1.346 (908); art. 1.347 (914); art. 1.348 (920); art. 1.349 (926); art. 1.350 (932)
+art. 1.351 (938); art. 1.352 (944); art. 1.353 (950); art. 1.354 (956); art. 1.355 (962); art. 1.356 (968)
+art. 1.357 (974); art. 1.358 (980); art. 1.358-C (986); art. 1.361 (992); art. 1.368-C (998)
+art. 1.368-E (1007); art. 1.418 (1014); art. 1.723 (1020); art. 2.373 (1026)
+Citada sem dispositivo identificado (1032)
+
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1039,3 +1069,5 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 | decisao-colegiado | 19957.003695/2015-03 | 2016-05-10 | nao-provido | ofertas-publicas | O Colegiado indeferiu, por unanimidade, recurso da Um Investimentos S.A. CTVM contra entendimento da SRE (Ofício-Circular 01/2015) que limitou a atuação de intervenientes na distribuição pública de CAV. Acompanhando o voto do relator, que concluiu pela utilização da figura para transferir atribuições de líder (Lei 6.385/1976 e ICVM 260/1997). | cvm/colegiado/2016/col-20160510-d0002.md |
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 | decisao-colegiado | RJ2015/1322; RJ2015/1324 | 2016-03-01 | nao-provido | intermediacao | Recursos em processos de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2015/1322 e RJ2015/1324. | cvm/colegiado/2016/col-20160301-d0121.md |
+
+Fim do subíndice.

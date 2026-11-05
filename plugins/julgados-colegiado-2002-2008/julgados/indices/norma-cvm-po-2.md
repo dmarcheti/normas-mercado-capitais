@@ -15,3 +15,5 @@ Norma: [cvm/pareceres-orientacao/0002.md](../../../normas/normas/cvm/pareceres-o
 | decisao-colegiado | RJ2004/2684 | 2005-12-20 | — | assembleia-acionistas | Pedido de reconsideração da decisão do Colegiado de 29.03.05 que, por maioria, firmou que a reserva estatutária do art. 27, e, do estatuto da Companhia Iguaçu de Café Solúvel viola o art. 194 da Lei das S.A. Há dois votos pelo indeferimento e dois pelo acolhimento; com o Presidente impedido, convocou-se diretor substituto para desempatar. Decisão adiada. | cvm/colegiado/2005/col-20051220-d01.md |
 | decisao-colegiado | RJ2004/2684 | 2005-11-08 | — | assembleia-acionistas | Apreciação de pedido de reconsideração de decisão de 29.03.05, que deu provimento a recurso e entendeu que reserva estatutária (art. 27, e, do estatuto) vulnera minoritários e descumpre o art. 194 da Lei das S.A. A relatora votou pelo indeferimento; um diretor pediu vista. Julgamento suspenso por pedido de vista. | cvm/colegiado/2005/col-20051108-d03.md |
 | decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | cvm/decisoes-antigas/1979.md |
+
+Fim do subíndice.

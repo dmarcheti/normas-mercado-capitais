@@ -7,6 +7,24 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-09613.md](../../../normas/normas/leis/lei-09613.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 271 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 28 |
+| art. 3º | 39 |
+| art. 9º | 45 |
+| art. 10 | 61 |
+| art. 11 | 115 |
+| art. 12 | 165 |
+| art. 13 | 218 |
+| art. 14 | 224 |
+| art. 16 | 230 |
+| art. 123 | 251 |
+| Citada sem dispositivo identificado | 257 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -249,3 +267,5 @@ Norma: [leis/lei-09613.md](../../../normas/normas/leis/lei-09613.md) (texto vige
 | pas | 12/2004 | 2010-05-11 | parcial | manipulacao-fraude | SÃO PAULO CORRETORA DE VALORES LTDA. Operações em opções flexíveis de dólar. Realização de operações fraudulentas – Absolvições Criação artificial de demanda e oferta no mercado de valores mobiliários Proibição, inabilitação, multas e absolvições. | cvm/pas/2010/12-2004.md |
 | pas | 16/2003 | 2006-11-08 | absolvicao | manipulacao-fraude | FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - Imputações de manipulação de preços no mercado de valores mobiliários, em infração à Instrução CVM nº 08/79; não apresentação das fichas cadastrais dos titulares de ações CEG ON, em infração ao § 3º do artigo 3º da Instrução CVM nº 220/94; falta de diligência na defesa dos interesses dos cotistas de clube de investimentos e na regularização do cadastro desses cotistas perante a CLC, em infração à Instrução CVM nº 40/84; embaraço à fiscalização da CVM em infração à alínea “a”, do item II, da Instrução CVM nº 18/81. Absolvição. | cvm/pas/2006/16-2003.md |
 | pas | 27/2003 | 2005-08-18 | parcial | manipulacao-fraude | Infração ao preceituado no inciso II, alínea d, da Instrução CVM nº 08/79 - Prática não eqüitativa. - Infração ao preceituado no artigo 57, inciso IV, da Instrução CVM nº 302/99, considerada infração grave pelo artigo 103 desse mesmo normativo. | cvm/pas/2005/27-2003.md |
+
+Fim do subíndice.

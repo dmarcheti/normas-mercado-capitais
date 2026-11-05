@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0044.md](../../../normas/normas/cvm/resolucoes/0044.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 402 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 34 |
+| art. 3º | 75 |
+| art. 4º | 123 |
+| art. 6º | 136 |
+| art. 8º | 182 |
+| art. 11 | 196 |
+| art. 12 | 213 |
+| art. 13 | 228 |
+| art. 14 | 285 |
+| art. 16 | 325 |
+| art. 19 | 335 |
+| art. 28 | 348 |
+| art. 44 | 354 |
+| art. 45 | 360 |
+| art. 66 | 366 |
+| art. 83 | 372 |
+| Citada sem dispositivo identificado | 385 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -374,3 +398,5 @@ Norma: [cvm/resolucoes/0044.md](../../../normas/normas/cvm/resolucoes/0044.md) (
 | termo-compromisso | 19957.000582/2022-77 | 2023-01-10 | aceito | informacao-privilegiada | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de membro do conselho de administração da Positivo Tecnologia, de R$ 500.000,00 em parcela única. PAS sobre compra de ações com informação relevante não divulgada (art. 155, §1º, LSA) e prática não equitativa (ICVM 8/79). Para o Comitê, a contrapartida é adequada e suficiente. | cvm/colegiado/2023/col-20230110-d2778.md |
 | termo-compromisso | 19957.005866/2018-73 | 2022-12-13 | rejeitado | processual | O Colegiado, por unanimidade, acompanhando a relatora, rejeitou nova proposta de termo de compromisso da Petro Rio S.A. no PAS 19957.005866/2018-73. Fundamento: proposta intempestiva e inoportuna, protelatória, sem interesse público que justificasse aceitá-la fora do prazo (arts. 82, §2º, e 84 da RCVM 45). | cvm/colegiado/2022/col-20221213-d1481.md |
 | termo-compromisso | 19957.001931/2020-14 | 2021-11-23 | aceito | informacao-privilegiada | O Colegiado, acompanhando o voto do relator, aceitou nova proposta de termo de compromisso de R$ 20.203.194,00, atualizado pelo IPCA desde 06.03.2018, de presidente do conselho da Marfrig Global Foods S.A. por negociação de ações com informação relevante não divulgada (art. 155, §4º, da Lei 6.404/1976; art. 13 da Instrução CVM 358/2002). Pagamento em dez dias úteis da publicação. | cvm/colegiado/2021/col-20211123-d2317.md |
+
+Fim do subíndice.

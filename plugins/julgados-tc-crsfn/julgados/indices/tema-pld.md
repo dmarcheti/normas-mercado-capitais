@@ -30,3 +30,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 98/0159 | 2000-07-28 | condenacao | pld | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Falta de informações sobre identificação e qualificação dos clientes – Irregularidade materializada – Recursos a que se nega provimento. | crsfn/2000/2988.md |
 | termo-compromisso | RJ97/0696 | 2000-07-21 | aceito | pld | O Colegiado aprovou, em 21/07/2000, a proposta de termo de compromisso celebrado pela Concórdia S.A. Corretora de Valores Mobiliários, Câmbio e Commodities e por uma pessoa física, sobre cadastro de clientes (Instrução CVM 220/94). Obrigações: relatório de auditoria externa em 30 dias e treinamento em 60 dias. PAS suspenso por dois anos. | cvm/colegiado/2000/tc-rj1997-0696-20000721.md |
 | acordao-crsfn | 92/1841 | 1999-03-25 | absolvicao | pld | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Fichas Cadastrais – Falhas de preenchimento e controle – Irregularidade caracterizada – Falta de participação do indiciado – Recurso improvido. | crsfn/1999/2577.md |
+
+Fim do subíndice.

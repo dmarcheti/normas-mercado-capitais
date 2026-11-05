@@ -7,6 +7,33 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 389 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 37 |
+| art. 4º | 43 |
+| art. 5º | 52 |
+| art. 6º | 60 |
+| art. 6º-A | 66 |
+| art. 9º | 72 |
+| art. 11 | 78 |
+| art. 13 | 85 |
+| art. 14 | 94 |
+| art. 15 | 100 |
+| art. 16 | 109 |
+| art. 26 | 117 |
+| art. 29 | 123 |
+| art. 32 | 130 |
+| art. 35 | 245 |
+| art. 36 | 274 |
+| art. 37 | 281 |
+| art. 38 | 287 |
+| art. 39 | 359 |
+| Citada sem dispositivo identificado | 368 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -358,3 +385,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/9811 | 2010-10-19 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra a SIN, que indeferiu fundo regido pela Instrução 409/04 para adquirir direitos econômicos de atletas de futebol. Acompanhando o relator, entendeu que são direitos creditórios (Instrução 444/06, art. 1º, §1º, VI), o que impede o fundo com a estrutura proposta. Pedido de dispensa do art. 87, I, prejudicado. | cvm/colegiado/2010/col-20101019-d01.md |
 | decisao-colegiado | RJ2009/11362 | 2010-02-23 | outro | fundos-investimento | Em consulta da SIN, o Colegiado decidiu, acompanhando a área técnica (MEMO/SIN/GIE/067/10), que os demonstrativos de composição de carteira do FI-FGTS devem especificar os emissores dos ativos, por ser a melhor interpretação do art. 26, I, 'd', da Instrução CVM 462/07, do ponto de vista teleológico e sistemático. | cvm/colegiado/2010/col-20100223-d06.md |
 | decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | normativo | O Colegiado concluiu que créditos de carbono não são valores mobiliários, mas ativos comercializáveis para cumprir metas de redução de emissão ou como investimento, com base em voto de diretor. Entendeu inconveniente caracterizá-los por lei; decidiu analisar no futuro a regulamentação, inclusive dos derivativos, caso a caso. | cvm/colegiado/2009/col-20090707-d07.md |
+
+Fim do subíndice.

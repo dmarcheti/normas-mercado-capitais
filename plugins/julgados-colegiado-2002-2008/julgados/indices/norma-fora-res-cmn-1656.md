@@ -211,3 +211,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | cvm/decisoes-antigas/1996.md |
 | decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | cvm/decisoes-antigas/1994.md |
 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
+
+Fim do subíndice.

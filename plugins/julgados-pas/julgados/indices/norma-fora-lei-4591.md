@@ -31,3 +31,5 @@ Norma: fora do acervo.
 | pas | RJ2016/8347 | 2018-08-07 | parcial | ofertas-publicas | Oferta pública de contratos de investimento coletivo referentes a empreendimentos hoteleiros, sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/76 e no art. 2º da Instrução CVM nº 400/03, e sem a dispensa prevista no inciso I, do §5º do art. 19 da Lei nº 6.385/76 e no art. 4º da Instrução CVM nº 400/03. Absolvições, advertências e multas. | cvm/pas/2018/rj2016-8347.md |
 | pas | 18/2010 | 2013-11-26 | parcial | deveres-administradores | GAZOLA Abuso de poder de controle — descumprimento do dever de diligência — descumprimento do dever de lealdade. Absolvições, inabilitações temporárias e multas. | cvm/pas/2013/18-2010.md |
 | pas | RJ2012/10487 | 2013-11-05 | absolvicao | deveres-administradores | Construtora [pessoa física] imputação de infração ao dever de lealdade. Absolvições. | cvm/pas/2013/rj2012-10487.md |
+
+Fim do subíndice.

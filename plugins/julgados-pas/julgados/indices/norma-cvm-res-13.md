@@ -13,3 +13,5 @@ Norma: [cvm/resolucoes/0013.md](../../../normas/normas/cvm/resolucoes/0013.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | cvm/pas/2026/19957-001811-2025-13.md |
 | pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário Iridium Recebíveis Imobiliários relativas à data-base de 30/06/2021. Absolvições. | cvm/pas/2025/19957-015389-2022-31.md |
+
+Fim do subíndice.

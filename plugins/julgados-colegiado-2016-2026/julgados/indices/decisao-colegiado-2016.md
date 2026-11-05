@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 555 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2016-12 | 29 |
+| 2016-11 | 68 |
+| 2016-10 | 108 |
+| 2016-09 | 160 |
+| 2016-08 | 203 |
+| 2016-07 | 235 |
+| 2016-06 | 274 |
+| 2016-05 | 331 |
+| 2016-04 | 369 |
+| 2016-03 | 391 |
+| 2016-02 | 456 |
+| 2016-01 | 529 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 19957.008923/2016-12 | 2016-12-27 | outro | assembleia-acionistas | O Colegiado declarou, por unanimidade, a ilegalidade da proposta da administração da Light S.A. de indicar candidato ao conselho de administração, acompanhando a SEP. Nos votos, a vedação do art. 17, §2º, II, da Lei 13.303/2016 se estende à indicação feita pelo acionista controlador estatal (CEMIG). | cvm/colegiado/2016/col-20161227-d0476.md |
@@ -532,3 +551,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2015/12672 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12672. | cvm/colegiado/2016/col-20160105-d10005.md |
 | RJ2015/12565 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12565. | cvm/colegiado/2016/col-20160105-d10004.md |
 | RJ2015/12528 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12528. | cvm/colegiado/2016/col-20160105-d10003.md |
+
+Fim do subíndice.

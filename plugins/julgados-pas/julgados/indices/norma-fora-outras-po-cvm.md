@@ -55,3 +55,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009118/2019-41 | 2022-05-24 | absolvicao | deveres-administradores | Responsabilidade de administradores da Klabin S.A. por infração ao art. 153 da Lei nº 6.404/1976. Absolvições. | cvm/pas/2022/19957-009118-2019-41.md |
+
+Fim do subíndice.

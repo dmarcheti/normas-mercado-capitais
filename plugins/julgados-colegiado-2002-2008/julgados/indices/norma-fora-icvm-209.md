@@ -63,3 +63,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2002-05-29 | outro | fundos-investimento | O Colegiado aprovou a alteração da Instrução CVM 209/94, que dispõe sobre a constituição, o funcionamento e a administração dos fundos de investimento em empresas emergentes. | cvm/colegiado/2002/col-20020529-d04.md |
 | decisao-colegiado | — | 2002-04-02 | outro | normativo | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM 209, sobre a constituição, o funcionamento e a administração de fundos de investimento em empresas emergentes. | cvm/colegiado/2002/col-20020402-d05.md |
 | decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | cvm/decisoes-antigas/1994.md |
+
+Fim do subíndice.

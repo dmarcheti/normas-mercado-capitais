@@ -61,3 +61,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/8860 | 2013-11-26 | deferido | securitizacao | O Colegiado, por unanimidade, aprovou o registro da oferta da 10ª série de CRA da 1ª emissão da Octante Securitizadora S.A., com revolvência dos direitos creditórios do agronegócio, acompanhando o voto apresentado após pedido de vista. Fundamento: Lei 11.076/04 e analogia com a substituição de créditos da Instrução CVM 400/03 (Anexo III-A, item 1.7). | cvm/colegiado/2013/col-20131126-d02.md |
+
+Fim do subíndice.

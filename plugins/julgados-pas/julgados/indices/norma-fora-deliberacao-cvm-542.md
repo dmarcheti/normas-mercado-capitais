@@ -24,3 +24,5 @@ Norma: fora do acervo.
 | pas | RJ2015/13651 | 2018-06-19 | condenacao | informacao-privilegiada | Uso de informação privilegiada em negociações com ações ordinárias de emissão da companhia Brasil Brokers Participações S.A. Multas. | cvm/pas/2018/rj2015-13651.md |
 | pas | 11/2013 | 2018-01-30 | parcial | intermediacao | Irregularidades na administração e na gestão de clubes de investimento. Prática de negociação excessiva (churning). Negligência na defesa dos direitos e dos interesses de clubes de investimento administrados pela Corretora. Absolvições e Multa. | cvm/pas/2018/11-2013.md |
 | pas | RJ2010/13301 | 2012-10-23 | condenacao | administracao-carteiras | INFINITY CCTVM inexistência de segregação física de atividades – inexistência de critérios para rateio de grupamento de ordens de compra e venda de ativos – não devolução aos fundos dos valores excedentes referentes à corretagem – descumprimento do dever de diligência. Multas. | cvm/pas/2012/rj2010-13301.md |
+
+Fim do subíndice.

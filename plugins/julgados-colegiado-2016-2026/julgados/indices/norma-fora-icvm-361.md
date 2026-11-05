@@ -7,6 +7,55 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 829 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 59 |
+| art. 2º | 68 |
+| art. 3º | 83 |
+| art. 4º | 129 |
+| art. 4º-A | 188 |
+| art. 5º | 203 |
+| art. 6º | 220 |
+| art. 7º | 226 |
+| art. 8º | 252 |
+| art. 8º-A | 278 |
+| art. 9º | 287 |
+| art. 9º-A | 299 |
+| art. 10 | 307 |
+| art. 11 | 332 |
+| art. 12 | 350 |
+| art. 13 | 385 |
+| art. 13-A | 396 |
+| art. 14 | 404 |
+| art. 15 | 410 |
+| art. 15-B | 441 |
+| art. 16 | 449 |
+| art. 19 | 510 |
+| art. 20 | 516 |
+| art. 21 | 522 |
+| art. 22 | 534 |
+| art. 23 | 542 |
+| art. 24 | 557 |
+| art. 26 | 574 |
+| art. 28 | 595 |
+| art. 29 | 605 |
+| art. 30 | 636 |
+| art. 31 | 644 |
+| art. 32 | 650 |
+| art. 32-A | 657 |
+| art. 33 | 664 |
+| art. 34 | 679 |
+| art. 35 | 765 |
+| art. 35-A | 774 |
+| art. 36 | 782 |
+| art. 37 | 789 |
+| art. 48 | 805 |
+| Citada sem dispositivo identificado | 811 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -776,3 +825,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-10-11 | — | opa | O Colegiado ouviu a SRE sobre casos dos últimos cinco anos de procedimento diferenciado e de OPA única para mais de uma finalidade (Instrução CVM 361/2002), todos com o Colegiado acompanhando a área técnica. A SRE manifestou interesse em propor minuta de Deliberação que delegue essa competência à própria SRE. Sem deliberação nesta reunião. | cvm/colegiado/2016/col-20161011-d0388.md |
 | decisao-colegiado | RJ2014/5297 | 2016-09-13 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso da Tempo Capital Principal Fundo de Investimento de Ações contra arquivamento pela SRE de reclamação sobre a oferta pública de ações da Oi S.A. (alegadas diluição injustificada, falta de tratamento equitativo e falhas no prospecto). Acompanhou o voto do relator, em linha com a SRE e a SEP. | cvm/colegiado/2016/col-20160913-d9179.md |
 | decisao-colegiado | 358/2002; RJ2013/5398 | 2016-09-13 | nao-provido | divulgacao-informacoes | O Colegiado indeferiu, por maioria, recurso contra a SEP e manteve seu entendimento: a comunicação de participação acionária do art. 12 da Instrução CVM 358/2002, para fundos do mesmo grupo gestor, deve ser agregada. Vencido o relator, que também exigia a participação separada por diretor responsável. Tema encaminhado à SDM. | cvm/colegiado/2016/col-20160913-d8952.md |
+
+Fim do subíndice.

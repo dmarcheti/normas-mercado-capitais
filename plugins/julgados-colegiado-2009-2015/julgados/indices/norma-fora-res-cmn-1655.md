@@ -41,3 +41,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2010/0092 | 2010-09-09 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2010/0092. | cvm/colegiado/2010/col-20100909-d13.md |
 | decisao-colegiado | RJ1999/5137 | 2010-06-15 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/5137. | cvm/colegiado/2010/col-20100615-d01.md |
 | decisao-colegiado | RJ2008/12888 | 2009-07-28 | deferido | opa | O Colegiado aprovou a unificação da OPA de alienação de controle da Companhia de Seguros Minas Brasil, cumpridas as demais exigências. Contrariando a SRE, deliberou que a instituição intermediária pode eximir-se de garantir a liquidação do Ajuste de Preço. Ressalvou a obrigação de tratamento equitativo da ofertante na liquidação de Preço de Ajuste positivo. | cvm/colegiado/2009/col-20090728-d01.md |
+
+Fim do subíndice.

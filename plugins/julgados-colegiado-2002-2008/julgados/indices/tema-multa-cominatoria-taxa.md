@@ -5,6 +5,31 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 752 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2008-12 | 35 |
+| 2008-11 | 40 |
+| 2008-10 | 49 |
+| 2008-09 | 71 |
+| 2008-08 | 90 |
+| 2008-07 | 108 |
+| 2008-06 | 133 |
+| 2008-05 | 149 |
+| 2008-04 | 181 |
+| 2008-03 | 201 |
+| 2008-02 | 224 |
+| 2008-01 | 284 |
+| 2007 | 292 |
+| 2006 | 377 |
+| 2005 | 422 |
+| 2004 | 525 |
+| 2003 | 595 |
+| 2002 | 677 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2002/4355 | 2008-12-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4355. | cvm/colegiado/2008/col-20081209-d04.md |
@@ -723,3 +748,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2001/12001 | 2002-01-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN de aplicação de multa cominatória. Proc. RJ2001/12001. | cvm/colegiado/2002/col-20020122-d02.md |
 | decisao-colegiado | RJ2001/12018 | 2002-01-15 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento ao recurso do Banco Bradesco contra multa cominatória da SIN por atraso na entrega do FAR de janeiro/2001 do Bradesco Templeton Ideal FIA (IN CVM 302/99, art. 66, II, b; art. 105). Segundo a SIN, balancete e CDA foram entregues no prazo, mas não o FAR. | cvm/colegiado/2002/col-20020115-d04.md |
 | decisao-colegiado | RJ2001/11998 | 2002-01-15 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento ao recurso do Banco BBM S.A. contra multa cominatória da SIN por atraso no envio do FAR de julho de 2000 (Instrução CVM 302/99, art. 66, II, b). O meio eletrônico não era a única forma admitida; a documentação poderia ser entregue em papel. | cvm/colegiado/2002/col-20020115-d03.md |
+
+Fim do subíndice.

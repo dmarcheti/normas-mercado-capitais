@@ -5,6 +5,24 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 329 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 28 |
+| 2025 | 36 |
+| 2024 | 52 |
+| 2023 | 71 |
+| 2022 | 90 |
+| 2021 | 106 |
+| 2020 | 126 |
+| 2019 | 171 |
+| 2018 | 206 |
+| 2017 | 264 |
+| 2016 | 293 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.005195/2025-70 | 2026-06-24 | nao-provido | processual | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de investigado contra decisão da SPS que concedeu acesso parcial a inquérito administrativo, com sigilo de operações de terceiros (LC 105/2001), de informações pessoais (Lei 12.527/2011) e, em fração menor, de investigação (Lei 6.385/1976, art. 9º, §2º). | cvm/colegiado/2026/col-20260624-d4-d3436.md |
@@ -307,3 +325,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm/colegiado/2016/col-20160301-d9695.md |
 | decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | processual | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre administradores de subsidiárias, acompanhando o voto do relator. Fundamento: inadmissibilidade do recurso; processo devolvido à SEP. | cvm/colegiado/2016/col-20160211-d8627.md |
 | decisao-colegiado | RJ2013/10745 | 2016-02-02 | outro | processual | O Colegiado determinou o arquivamento do processo RJ2013/10745 após a SAD atestar que os pagamentos do termo de compromisso firmado pela Socopa – Sociedade Corretora Paulista S.A. e um diretor ocorreram na forma convencionada, sem obrigação adicional. | cvm/colegiado/2016/col-20160202-d9765.md |
+
+Fim do subíndice.

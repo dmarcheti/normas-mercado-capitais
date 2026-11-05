@@ -12,3 +12,5 @@ Norma: [cmn/resolucoes/3505.md](../../../normas/normas/cmn/resolucoes/3505.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.005388/2017-11 | 2023-10-31 | absolvicao | manipulacao-fraude | Apurar eventual responsabilidade por operações com uso de práticas não equitativas, em violação à Instrução CVM nº 8/1979, II, alínea “d”. Absolvições. | cvm/pas/2023/19957-005388-2017-11.md |
+
+Fim do subíndice.

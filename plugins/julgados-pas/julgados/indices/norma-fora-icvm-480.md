@@ -7,6 +7,23 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1206 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 3º (27); art. 4º (34); art. 6º (41); art. 13 (47); art. 14 (80); art. 15 (137); art. 16 (146)
+art. 17 (156); art. 18 (165); art. 19 (172); art. 20 (182); art. 21 (189); art. 22 (384); art. 23 (390)
+art. 24 (424); art. 25 (471); art. 26 (524); art. 27 (558); art. 28 (565); art. 29 (591); art. 30 (659)
+art. 32 (680); art. 36 (686); art. 37 (701); art. 38 (713); art. 39 (721); art. 40 (731); art. 41 (738)
+art. 44 (744); art. 45 (770); art. 46 (835); art. 52 (854); art. 54 (885); art. 55 (903); art. 58 (917)
+art. 59 (923); art. 60 (930); art. 65 (951); art. 131 (957); art. 141 (963); art. 144 (971); art. 147 (977)
+art. 148 (983); art. 155 (990); art. 177 (996); art. 178 (1003); art. 179 (1009); art. 181 (1015)
+art. 203 (1021); art. 212 (1027); art. 216 (1033); art. 242 (1041); art. 244 (1047); art. 245 (1053)
+art. 247 (1060); art. 249 (1066); art. 263 (1072); art. 265 (1078); art. 266 (1084); art. 292 (1090)
+art. 293 (1096); art. 294 (1102); art. 296 (1108); art. 297 (1114); art. 306 (1120); art. 307 (1126)
+art. 365 (1132); art. 376 (1138); art. 449 (1144); art. 451 (1150); art. 453 (1156); art. 521 (1163)
+Citada sem dispositivo identificado (1169)
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1185,3 +1202,5 @@ Norma: fora do acervo.
 | pas | RJ2007/4665 | 2013-02-05 | condenacao | divulgacao-informacoes | MESBLA não elaboração, no prazo legal, das demonstrações financeiras da Mesbla S.A. – não eleição de diretor de relações com investidores da Mesbla S.A. – não convocação e não realização de assembleias gerais ordinárias. Multas. | cvm/pas/2013/rj2007-4665-2.md |
 | pas | RJ2010/13301 | 2012-10-23 | condenacao | administracao-carteiras | INFINITY CCTVM inexistência de segregação física de atividades – inexistência de critérios para rateio de grupamento de ordens de compra e venda de ativos – não devolução aos fundos dos valores excedentes referentes à corretagem – descumprimento do dever de diligência. Multas. | cvm/pas/2012/rj2010-13301.md |
 | pas | RJ2008/4857 | 2011-08-23 | condenacao | deveres-administradores | EMBRATEL PARTICIPAÇÕES Descumprimento dos deveres de lealdade e de diligência – desvio de poder usurpação de competência. Inabilitações. | cvm/pas/2011/rj2008-4857.md |
+
+Fim do subíndice.

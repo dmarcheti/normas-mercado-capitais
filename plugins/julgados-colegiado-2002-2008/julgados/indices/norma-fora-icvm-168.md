@@ -33,3 +33,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/1311 | 2004-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/1311. | cvm/colegiado/2004/col-20040316-d05.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
+
+Fim do subíndice.

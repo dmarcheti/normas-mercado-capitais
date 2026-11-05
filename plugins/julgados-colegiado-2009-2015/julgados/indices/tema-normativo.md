@@ -5,6 +5,20 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 384 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2015 | 24 |
+| 2014 | 73 |
+| 2013 | 129 |
+| 2012 | 178 |
+| 2011 | 225 |
+| 2010 | 300 |
+| 2009 | 336 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003435/2015-20 | 2015-12-15 | outro | normativo | O Colegiado determinou à SDM a elaboração de minuta de instrução contemplando as sugestões da SMI sobre a falta de DEC (ICVM 510/2011) de cooperativas de crédito e outras entidades da ICVM 424/2005: excluí-las do Anexo I da ICVM 510 e permitir cancelar ou suspender o cadastro após duas DECs consecutivas não enviadas. Fundamento: características específicas dos participantes. | cvm/colegiado/2015/col-20151215-d9975.md |
@@ -366,3 +380,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2009-03-10 | outro | normativo | O Colegiado aprovou, com alterações, minuta de Instrução sobre convocação, informação e pedidos públicos de procuração para exercício do direito de voto em assembleias de acionistas, que revoga a Instrução 341/00. A SDM consolidará as sugestões e fará audiência pública pelo prazo de 60 dias. | cvm/colegiado/2009/col-20090310-d01.md |
 | decisao-colegiado | RJ2008/5911 | 2009-02-11 | outro | normativo | O Colegiado aprovou, com alterações, minuta de normativo que substituirá a Instrução CVM 387/03, sobre normas e procedimentos nas operações com valores mobiliários. Fixou audiência pública de 30 dias, com consolidação das sugestões pela SDM. | cvm/colegiado/2009/col-20090211-d01.md |
 | decisao-colegiado | RJ2008/12677 | 2009-01-07 | outro | normativo | O Colegiado aprovou, para audiência pública de 30 dias, a minuta de Deliberação sobre programa de educação continuada e treinamento de auditores independentes diante da adoção do padrão IASB. A SNC consolidará as sugestões e comentários. | cvm/colegiado/2009/col-20090107-d01.md |
+
+Fim do subíndice.

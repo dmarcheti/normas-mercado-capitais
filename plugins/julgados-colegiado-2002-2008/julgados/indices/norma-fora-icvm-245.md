@@ -61,3 +61,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/2710 | 2002-12-02 | provido | multa-cominatoria-taxa | O Colegiado acolheu pedido de reconsideração do Centro Hospitalar Albert Sabin S/A contra decisão do Colegiado que aplicou multa, permitindo a entrega das informações trimestrais em 60 dias após o término do período. Acompanhou a diretora-relatora. | cvm/colegiado/2002/col-20021202-d05.md |
 | decisao-colegiado | RJ2002/5910 | 2002-10-01 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/5910. | cvm/colegiado/2002/col-20021001-d02.md |
 | decisao-colegiado | RJ2002/1330 | 2002-09-20 | provido | infraestrutura-mercado | O Colegiado acatou pedido de reconsideração da Centro Hospitalar Albert Sabin S.A. contra decisão que indeferiu recurso por atraso na 1ª ITR/2001 e deliberou que companhias com faturamento bruto consolidado inferior a R$ 100 milhões e títulos registrados na CETIP devem beneficiar-se dos 15 dias adicionais da Instrução CVM 245/96. | cvm/colegiado/2002/col-20020920-d02.md |
+
+Fim do subíndice.

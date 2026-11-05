@@ -57,3 +57,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2013/10105; RJ2013/10789; RJ2013/10936 | 2014-03-18 | nao-provido | intermediacao | Recursos em processo de mecanismo de ressarcimento de prejuízos. Proc. s. RJ2013/10105, RJ2013/10789 e RJ2013/10936. | cvm/colegiado/2014/col-20140318-d10.md |
 | decisao-colegiado | RJ2012/14319 | 2013-12-17 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/14319. | cvm/colegiado/2013/col-20131217-d21.md |
 | decisao-colegiado | RJ2012/3913 | 2013-05-07 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/3913. | cvm/colegiado/2013/col-20130507-d08.md |
+
+Fim do subíndice.

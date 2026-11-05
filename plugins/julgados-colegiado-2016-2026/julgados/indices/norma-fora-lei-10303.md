@@ -82,3 +82,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/4462 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4462. | cvm/colegiado/2016/col-20160621-d0262.md |
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 | decisao-colegiado | RJ2012/8073 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm/colegiado/2016/col-20160322-d0156.md |
+
+Fim do subíndice.

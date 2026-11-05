@@ -36,3 +36,5 @@ Norma: fora do acervo.
 | pas | RJ2014/12921 | 2017-02-10 | parcial | manipulacao-fraude | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM – Prática de churning, operação definida como fraudulenta, no mercado de valores mobiliários. Absolvições e proibição temporária. | cvm/pas/2017/rj2014-12921.md |
 | pas | SP2014/0383 | 2016-08-02 | condenacao | intermediacao | Não exercício das atividades da Corretora com boa-fé, diligência e lealdade para com o cliente e falta de informações sobre o produto oferecido e os seus riscos. Multa. | cvm/pas/2016/sp2014-0383.md |
 | pas | SP2012/480 | 2015-10-06 | condenacao | exercicio-irregular | Administração irregular de carteira de valores mobiliários - prática de administrador de carteira de valores mobiliários sem a prévia autorização da CVM - operação fraudulenta e concurso para a prática de operações fraudulentas. Suspensão e multas. | cvm/pas/2015/sp2012-0480.md |
+
+Fim do subíndice.

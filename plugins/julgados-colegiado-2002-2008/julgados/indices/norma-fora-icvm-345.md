@@ -21,3 +21,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

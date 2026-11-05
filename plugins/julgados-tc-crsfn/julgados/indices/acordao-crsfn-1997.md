@@ -23,3 +23,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 08/92 | 1997-05-22 | absolvicao | outros | RECURSO DE OFÍCIO I) Aquisição de ações de emissão própria da Companhia de Seguros da Bahia, para cancelamento, com infringência ao Art. 3º da IN CVM 10/80. II) Descumprimento de requisitos quanto à imediata publicação de ata da RCA que aprovou o feito e quanto à imediata comunicação à CVM - Improvimento dos apelos. | crsfn/1997/1962.md |
 | 08/90 | 1997-04-24 | condenacao | manipulacao-fraude | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço de valores mobiliários, mediante negociações artificiais em bolsa de valores, em que figura ao mesmo tempo como comprador e vendedor nas mesmas operações o mesmo comitente. Infração ao item I da Instrução CVM 08/79. | crsfn/1997/1961.md |
 | 10/92 | 1997-04-24 | parcial | divulgacao-informacoes | Recursos de oficio. falta de informações a Comissão de Valores Mobiliários. Descumprimento de norma regulamentar - Omissão do dirigente responsável pela área de relações com o mercado. aplicação de multa. Recurso provido parcialmente. | crsfn/1997/1960.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [cvm/instrucoes/0445.md](../../../normas/normas/cvm/instrucoes/0445.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+Fim do subíndice.

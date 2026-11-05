@@ -8,6 +8,67 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 573 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| circular-bcb-1 | 72 |
+| circular-bcb-2 | 81 |
+| circular-bcb-4 | 91 |
+| circular-bcb-5 | 102 |
+| circular-bcb-6 | 110 |
+| circular-bcb-7 | 120 |
+| circular-bcb-8 | 129 |
+| circular-bcb-11 | 145 |
+| circular-bcb-15 | 153 |
+| circular-bcb-18 | 161 |
+| circular-bcb-27 | 170 |
+| circular-bcb-29 | 178 |
+| circular-bcb-33 | 187 |
+| circular-bcb-39 | 195 |
+| circular-bcb-58 | 203 |
+| circular-bcb-59 | 215 |
+| circular-bcb-64 | 223 |
+| circular-bcb-68 | 231 |
+| circular-bcb-74 | 239 |
+| circular-bcb-98 | 247 |
+| circular-bcb-112 | 255 |
+| circular-bcb-118 | 263 |
+| circular-bcb-132 | 273 |
+| circular-bcb-142 | 281 |
+| circular-bcb-193 | 289 |
+| circular-bcb-443 | 297 |
+| circular-bcb-545 | 305 |
+| circular-bcb-1273 | 313 |
+| circular-bcb-1846 | 321 |
+| circular-bcb-1897 | 329 |
+| circular-bcb-1922 | 337 |
+| circular-bcb-2328 | 349 |
+| circular-bcb-2511 | 357 |
+| circular-bcb-2530 | 365 |
+| circular-bcb-2594 | 373 |
+| circular-bcb-2598 | 393 |
+| circular-bcb-2601 | 401 |
+| circular-bcb-2624 | 410 |
+| circular-bcb-2635 | 418 |
+| circular-bcb-2677 | 426 |
+| circular-bcb-2688 | 434 |
+| circular-bcb-2714 | 442 |
+| circular-bcb-2737 | 450 |
+| circular-bcb-2786 | 458 |
+| circular-bcb-2852 | 467 |
+| circular-bcb-2929 | 481 |
+| circular-bcb-2958 | 494 |
+| circular-bcb-3049 | 502 |
+| circular-bcb-3068 | 516 |
+| circular-bcb-3096 | 524 |
+| circular-bcb-3171 | 540 |
+| circular-bcb-3179 | 548 |
+| circular-bcb-3806 | 556 |
+| circular-bcb-3857 | 564 |
+
 ## circular-bcb-1
 
 ### Citada sem dispositivo identificado
@@ -508,3 +569,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | pas | 19957.008274/2018-11; RJ2018/5469 | 2020-06-09 | condenacao | ofertas-publicas | Apurar a responsabilidade de incorporadora hoteleira, bem como de seu administrador, por realização de oferta pública irregular de contratos de investimento coletivo hoteleiros sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003, e sem a dispensa prevista no inciso I do §5º do artigo 19 da Lei nº 6.385/1976 e no artigo 4º da Instrução CVM nº 400/2003. Multas. Data decisão CVM Tue Jun 09 15:22:00 BRT 2020 | cvm/pas/2020/19957-008274-2018-11.md |
 | pas | RJ2016/7192 | 2018-03-13 | condenacao | manipulacao-fraude | Manipulação de preços por meio da inserção de ordens artificiais de compra e venda de valores mobiliários, caracterizando a prática de spoofing. Multas. | cvm/pas/2018/rj2016-7192.md |
+
+Fim do subíndice.

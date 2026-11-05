@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0017.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 14/2009 | 2015-08-11 | parcial | deveres-administradores | Descumprimento dos deveres de lealdade e de informar – Responsabilidade do acionista controlador para com os demais acionistas da companhia – Prática de ato de liberalidade – Inobservância das normas expedidas pela CVM na elaboração das demonstrações financeiras da companhia. Absolvições, Inabilitações e Multas. | cvm/pas/2015/14-2009.md |
+
+Fim do subíndice.

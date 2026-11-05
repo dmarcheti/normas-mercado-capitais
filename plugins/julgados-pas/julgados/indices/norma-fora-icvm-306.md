@@ -7,6 +7,34 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 469 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 38 |
+| art. 2º | 46 |
+| art. 3º | 89 |
+| art. 4º | 144 |
+| art. 5º | 152 |
+| art. 6º | 159 |
+| art. 7º | 165 |
+| art. 8º | 200 |
+| art. 12 | 206 |
+| art. 14 | 213 |
+| art. 15 | 307 |
+| art. 16 | 328 |
+| art. 17 | 350 |
+| art. 18 | 367 |
+| art. 38 | 409 |
+| art. 47 | 415 |
+| art. 178 | 421 |
+| art. 183 | 427 |
+| art. 184 | 434 |
+| art. 187 | 440 |
+| Citada sem dispositivo identificado | 446 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -437,3 +465,5 @@ Norma: fora do acervo.
 | pas | RJ2007/2078 | 2009-02-03 | condenacao | fundos-investimento | GERAÇÃO FUTURO CORRETORA DE VALORES S/A Divulgação de material publicitário de fundos de investimento - descumprimento dos artigos 75, 76, incisos II e III da Instrução CVM nº 409/04 - multas. | cvm/pas/2009/rj2007-2078.md |
 | pas | RJ2005/5272 | 2006-12-06 | absolvicao | fundos-investimento | Aquisição de ações preferenciais em subscrição privada, configurando infração ao disposto no inciso V, do art. 55, da Instrução CVM nº 302/99, que veda operações realizadas fora de bolsa de valores, ou de mercado de balcão, por entidade autorizada pela CVM. Absolvição. | cvm/pas/2006/rj2005-5272.md |
 | pas | RJ2002/6413 | 2005-12-14 | condenacao | fundos-investimento | Descumprimento do art. 24 da Instrução CVM nº 209/94. Advertência. | cvm/pas/2005/rj2002-6413.md |
+
+Fim do subíndice.

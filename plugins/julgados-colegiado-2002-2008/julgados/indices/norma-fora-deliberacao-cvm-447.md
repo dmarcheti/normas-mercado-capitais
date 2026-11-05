@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/7493 | 2005-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2005/7493. | cvm/colegiado/2005/col-20051108-d08.md |
 | decisao-colegiado | RJ2004/5368 | 2004-10-05 | parcial | opa | O Colegiado, acompanhando o relator, manteve o entendimento da SRE: indeferiu, em recurso da Eletromoura S.A., a dispensa de OPA para cancelamento de registro e a dispensa de pagamento de tributos ou multas (art. 34 da Instrução CVM 361/02). Deferiu procedimento diferenciado, desde que atendidas as condições propostas pela recorrente e as exigências da área técnica. | cvm/colegiado/2004/col-20041005-d04.md |
 | decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | cvm/colegiado/2004/col-20040121-d01.md |
+
+Fim do subíndice.

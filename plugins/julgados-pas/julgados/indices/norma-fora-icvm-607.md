@@ -7,6 +7,62 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 743 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 66 |
+| art. 3º | 74 |
+| art. 4º | 80 |
+| art. 5º | 97 |
+| art. 6º | 148 |
+| art. 7º | 198 |
+| art. 8º | 217 |
+| art. 9º | 226 |
+| art. 10 | 233 |
+| art. 13 | 239 |
+| art. 14 | 266 |
+| art. 16 | 274 |
+| art. 21 | 282 |
+| art. 22 | 291 |
+| art. 23 | 297 |
+| art. 27 | 309 |
+| art. 28 | 315 |
+| art. 30 | 324 |
+| art. 33 | 330 |
+| art. 34 | 337 |
+| art. 36 | 343 |
+| art. 38 | 353 |
+| art. 41 | 370 |
+| art. 43 | 376 |
+| art. 46 | 384 |
+| art. 47 | 390 |
+| art. 55 | 399 |
+| art. 57 | 405 |
+| art. 58 | 413 |
+| art. 60 | 419 |
+| art. 61 | 425 |
+| art. 62 | 432 |
+| art. 64 | 438 |
+| art. 65 | 444 |
+| art. 66 | 459 |
+| art. 70 | 477 |
+| art. 71 | 555 |
+| art. 73 | 567 |
+| art. 74 | 578 |
+| art. 76 | 589 |
+| art. 81 | 597 |
+| art. 82 | 603 |
+| art. 83 | 611 |
+| art. 84 | 619 |
+| art. 85 | 626 |
+| art. 86 | 633 |
+| art. 112 | 640 |
+| art. 116 | 649 |
+| Citada sem dispositivo identificado | 656 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -683,3 +739,5 @@ Norma: fora do acervo.
 | pas | 19957.006547/2019-66 | 2022-02-01 | parcial | auditoria-independente | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Camil Alimentos S.A., do exercício social findo em 28.02.2017, em alegada infração aos arts. 20 e 25, inciso II, da Instrução CVM nº 308/1999 Advertências e absolvições. | cvm/pas/2022/19957-006547-2019-66.md |
 | pas | 19957.007552/2016-43 | 2020-09-29 | — | deveres-administradores | Responsabilidade de administradores da Recrusul S.A. por infração aos artigos 156 e 157, §4º, ambos da Lei nº 6.404/1976, c/c artigo 3º, caput, da Instrução CVM nº 358/2002; ao artigo 177, §3º, da Lei nº 6.404/1976 c/c os itens 18 e 22A do CPC 05 (R1), aprovado pela Deliberação CVM nº 642/2010, e com o artigo 176, §5º, III, da Lei nº 6.404/1976. Multas e advertência. | cvm/pas/2020/19957-007552-2016-43.md |
 | pas | 19957.008401/2016-11 | 2020-09-03 | — | ofertas-publicas | Oferta pública de ações sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/2003. Multa. | cvm/pas/2020/19957-008401-2016-11.md |
+
+Fim do subíndice.

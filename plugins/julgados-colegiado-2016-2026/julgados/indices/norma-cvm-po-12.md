@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0012.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.004074/2020-04 | 2020-08-04 | indeferido | outros | O Colegiado, por unanimidade, indeferiu pedido da JBS S.A. de autorização para recompra de ações, acompanhando a área técnica. Fundamento, segundo a SEP: a vedação do art. 30, § 1º, b, da Lei 6.404/76 afasta a dispensa do art. 12 da ICVM 567/15, pois o resultado apurado antes do fim do exercício deve ser considerado. | cvm/colegiado/2020/col-20200804-d1868.md |
+
+Fim do subíndice.

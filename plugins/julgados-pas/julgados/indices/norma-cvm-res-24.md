@@ -18,3 +18,5 @@ Norma: [cvm/resolucoes/0024.md](../../../normas/normas/cvm/resolucoes/0024.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 90, § 8º | pas | 19957.009152/2018-34 | 2023-12-12 | parcial | fundos-investimento | Apurar irregularidades em operações com contratos derivativos realizadas por fundos de investimentos geridos pela Infinity Asset, em infração a dispositivos das Instruções CVM nº 306/1999, nº 409/2004, nº 555/2014 e nº 558/2015.Multas, inabilitação temporária e absolvição. | cvm/pas/2023/19957-009152-2018-34.md |
+
+Fim do subíndice.

@@ -126,3 +126,5 @@ Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vige
 | decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-23 | — | processual | O Colegiado continuou a discussão da minuta de instrução que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017 e revoga a Deliberação CVM 538/2008, iniciada na reunião de 21/03/2018, sem deliberação nesta reunião. | cvm/colegiado/2018/col-20180323-d2894.md |
 | decisao-colegiado | 538/2008; 19957.006565/2017-86 | 2018-03-21 | — | normativo | O Colegiado iniciou a discussão de minuta de Instrução que regulamenta o processo administrativo sancionador da CVM, conforme a Lei 13.506/2017, e revoga a Deliberação CVM 538/2008, sem deliberação nesta reunião. | cvm/colegiado/2018/col-20180321-d2894.md |
 | decisao-colegiado | 19957.000057/2018-75 | 2018-01-30 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000057/2018-75. | cvm/colegiado/2018/col-20180130-d0889.md |
+
+Fim do subíndice.

@@ -41,3 +41,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2018/324 | 2018-10-30 | parcial | ofertas-publicas | Realização de oferta de valores mobiliários de condo-hoteis sem a obtenção de registro, em infração aos artigos 19 da Lei n° 6.385/76 e 2° da Instrução CVM n° 400/03 e sem a dispensa, prevista no inciso I do §5º do art. 19 da Lei n° 6.385/76 e no art. 4° da Instrução CVM n° 400/2003. Absolvições e Advertências. Data decisão CVM Tue Oct 30 12:15:00 BRST 2018 | cvm/pas/2018/rj2018-0324.md |
+
+Fim do subíndice.

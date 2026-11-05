@@ -61,3 +61,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 18/01 | 2008-02-26 | absolvicao | informacao-privilegiada | O CRSFN deu provimento aos recursos voluntários da FAR e de um administrador e negou provimento ao recurso de ofício da CVM. Não aceitou, por conjectura, a acusação de descumprimento efetivo da política de chinese wall e considerou insuficientes os elementos para insider trading. | crsfn/2008/8253.md |
 | RJ-2005-5828 | 2008-01-29 | parcial | assembleia-acionistas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Assembléias Gerais Ordinárias-AGOs – Realização de eleição de membro e suplente do conselho fiscal em vaga destinada à escolha pelos acionistas preferencialistas – Irregularidade caracterizada – Recursos a que se nega provimento | crsfn/2008/9635.md |
 | 14/00 | 2008-01-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Criação de condições artificiais de demanda, oferta e preço em negócios realizados em bolsa de valores – Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2008/7359.md |
+
+Fim do subíndice.

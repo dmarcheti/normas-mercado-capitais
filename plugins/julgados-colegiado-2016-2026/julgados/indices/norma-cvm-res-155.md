@@ -13,3 +13,5 @@ Norma: [cvm/resolucoes/0155.md](../../../normas/normas/cvm/resolucoes/0155.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.015838/2023-21 | 2024-03-27 | nao-provido | contabil-demonstracoes | O Colegiado, por maioria, indeferiu pedido de reconsideração da Hapvida contra decisão que negou adiamento da vigência do CPC 50 à companhia. Fundamento: não demonstrada omissão, obscuridade, contradição ou erro material ou de fato (RCVM 46/2021, art. 10). Acompanhou a SEP; vencido um diretor. | cvm/colegiado/2024/col-20240327-d3025.md |
 | decisao-colegiado | 191/1992; 457/2007; 458/2010; 527/2012; 19957.005398/2022-13; 19957.005466/2022-44; 19957.005473/2022-46 | 2022-06-15 | outro | contabil-demonstracoes | O Colegiado aprovou a revogação das ICVM 191/1992, 457/2007, 485/2010 e 527/2012, com edição das Resoluções CVM 155, 156 e 157/2022, no âmbito do Decreto 10.139/2019. Sem mudança de mérito, dispensou consulta pública e AIR. | cvm/colegiado/2022/col-20220615-d2630.md |
+
+Fim do subíndice.

@@ -45,3 +45,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 04/2015; RJ2012/3268 | 2016-12-06 | outro | normativo | O Colegiado aprovou a edição de nova Instrução, após a Audiência Pública SDM 04/2015, que atualiza a regulamentação do exercício da função de agente fiduciário e revoga a Instrução CVM 28/1983. A norma regula a função nas distribuições públicas de debêntures, CRI, CRA e notas promissórias de longo prazo. | cvm/colegiado/2016/col-20161206-d0093.md |
+
+Fim do subíndice.

@@ -187,3 +187,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/1325 | 2015-07-07 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1325. | cvm/colegiado/2015/col-20150707-d9753.md |
+
+Fim do subíndice.

@@ -7,6 +7,40 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 3279 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (44); art. 2º (51); art. 3º (61); art. 4º (70); art. 4º-A (178); art. 5º (237); art. 6º (243)
+art. 8º (249); art. 12 (264); art. 13 (272); art. 14 (278); art. 15 (285); art. 16 (293); art. 17 (300)
+art. 18 (314); art. 19 (327); art. 23 (342); art. 27-C (348); art. 29 (354); art. 30 (360); art. 34 (395)
+art. 35 (401); art. 36 (407); art. 37 (414); art. 39 (420); art. 40 (426); art. 41 (433); art. 42 (439)
+art. 44 (445); art. 45 (465); art. 48 (483); art. 53 (489); art. 54 (495); art. 55 (501); art. 58 (509)
+art. 59 (515); art. 61 (522); art. 62 (534); art. 66 (551); art. 68 (557); art. 71 (586); art. 82 (603)
+art. 84 (609); art. 85 (615); art. 100 (622); art. 105 (695); art. 106 (710); art. 107 (717); art. 109 (725)
+art. 110 (764); art. 111 (775); art. 115 (782); art. 116 (836); art. 116-A (883); art. 117 (891)
+art. 118 (926); art. 120 (939); art. 121 (953); art. 122 (969); art. 123 (993); art. 124 (1043)
+art. 125 (1283); art. 126 (1290); art. 127 (1309); art. 128 (1317); art. 129 (1324); art. 130 (1335)
+art. 131 (1341); art. 132 (1351); art. 133 (1414); art. 134 (1531); art. 135 (1545); art. 136 (1568)
+art. 137 (1604); art. 138 (1632); art. 139 (1641); art. 140 (1650); art. 141 (1663); art. 142 (1748)
+art. 143 (1767); art. 144 (1775); art. 145 (1782); art. 146 (1788); art. 147 (1796); art. 148 (1830)
+art. 150 (1836); art. 152 (1854); art. 153 (1878); art. 154 (1917); art. 155 (1961); art. 156 (2013)
+art. 157 (2043); art. 158 (2074); art. 159 (2086); art. 160 (2141); art. 161 (2155); art. 162 (2178)
+art. 163 (2186); art. 165 (2205); art. 166 (2212); art. 167 (2223); art. 168 (2229); art. 169 (2244)
+art. 170 (2253); art. 171 (2301); art. 172 (2329); art. 173 (2342); art. 174 (2351); art. 175 (2358)
+art. 176 (2368); art. 177 (2380); art. 178 (2403); art. 182 (2409); art. 183 (2419); art. 189 (2426)
+art. 190 (2441); art. 192 (2447); art. 193 (2454); art. 194 (2465); art. 195 (2478); art. 196 (2487)
+art. 197 (2502); art. 198 (2512); art. 199 (2520); art. 200 (2531); art. 201 (2546); art. 202 (2558)
+art. 203 (2588); art. 204 (2596); art. 205 (2608); art. 213 (2619); art. 223 (2625); art. 224 (2632)
+art. 225 (2653); art. 227 (2667); art. 229 (2684); art. 233 (2696); art. 235 (2704); art. 237 (2711)
+art. 238 (2717); art. 239 (2726); art. 240 (2735); art. 243 (2742); art. 244 (2757); art. 245 (2766)
+art. 246 (2785); art. 247 (2801); art. 251 (2809); art. 252 (2815); art. 253 (2839); art. 254 (2850)
+art. 254-A (2862); art. 256 (2917); art. 257 (2935); art. 258 (2952); art. 259 (2965); art. 260 (2972)
+art. 261 (2985); art. 262 (2992); art. 263 (3001); art. 264 (3009); art. 270 (3050); art. 273 (3057)
+art. 274 (3063); art. 285 (3070); art. 286 (3077); art. 287 (3089); art. 289 (3099); art. 291 (3111)
+art. 293 (3120); art. 294 (3127); art. 294-A (3133); art. 294-B (3143)
+Citada sem dispositivo identificado (3154)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3241,3 +3275,5 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | decisao-colegiado | 19957.004122/2015-99 | 2016-04-12 | provido | ofertas-publicas | O Colegiado, por unanimidade, deferiu recurso contra exigência da SRE de Direito de Retratação aos adquirentes de 75 CICs de condo-hotel, condição para a dispensa de registro de oferta. Por maioria, prevaleceu a proposta do Presidente: a retratação alcança só os CICs distribuídos após a publicação da decisão. | cvm/colegiado/2016/col-20160412-d0050.md |
 | decisao-colegiado | SP2015/0122 | 2016-02-23 | deferido | infraestrutura-mercado | O Colegiado concedeu à BRIX Energia e Futuros S.A. autorização para atuar como entidade administradora de mercado organizado e para operar mercado de balcão organizado de derivativos de energia com liquidação financeira, condicionada aos requisitos da SMI: documentos em 3 meses e Fase 2 implementada em 9 meses, contados da decisão, acompanhando integralmente a área técnica. | cvm/colegiado/2016/col-20160223-d0077.md |
 | decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | processual | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre administradores de subsidiárias, acompanhando o voto do relator. Fundamento: inadmissibilidade do recurso; processo devolvido à SEP. | cvm/colegiado/2016/col-20160211-d8627.md |
+
+Fim do subíndice.

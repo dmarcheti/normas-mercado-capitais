@@ -7,6 +7,33 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1038 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (37); art. 3º (44); art. 38 (50); art. 50 (56); art. 66 (64); art. 82 (71); art. 85 (77)
+art. 104 (83); art. 107 (89); art. 108 (95); art. 112 (101); art. 113 (108); art. 114 (118); art. 117 (125)
+art. 118 (131); art. 121 (137); art. 122 (143); art. 125 (149); art. 129 (155); art. 130 (162); art. 131 (168)
+art. 132 (174); art. 134 (180); art. 138 (186); art. 139 (192); art. 140 (198); art. 141 (204); art. 142 (210)
+art. 143 (216); art. 144 (222); art. 145 (228); art. 147 (234); art. 158 (240); art. 159 (246); art. 166 (255)
+art. 167 (263); art. 168 (273); art. 177 (281); art. 186 (288); art. 187 (294); art. 188 (300); art. 202 (306)
+art. 205 (315); art. 206 (321); art. 224 (328); art. 225 (334); art. 265 (340); art. 286 (347); art. 287 (354)
+art. 288 (361); art. 289 (368); art. 290 (375); art. 291 (382); art. 292 (389); art. 293 (397); art. 294 (404)
+art. 295 (411); art. 296 (420); art. 297 (428); art. 298 (435); art. 313 (442); art. 356 (448); art. 368 (454)
+art. 395 (461); art. 399 (467); art. 402 (473); art. 422 (479); art. 427 (488); art. 476 (494); art. 497 (500)
+art. 579 (506); art. 586 (512); art. 587 (520); art. 653 (528); art. 654 (536); art. 656 (542); art. 662 (548)
+art. 684 (554); art. 884 (560); art. 888 (566); art. 896 (572); art. 932 (578); art. 935 (584); art. 952 (590)
+art. 964 (596); art. 981 (602); art. 991 (608); art. 992 (618); art. 993 (625); art. 994 (634); art. 995 (642)
+art. 996 (650); art. 1.016 (658); art. 1.024 (664); art. 1.055 (670); art. 1.063 (676); art. 1.070 (683)
+art. 1.071 (689); art. 1.073 (695); art. 1.133 (701); art. 1.146 (707); art. 1.164 (713); art. 1.227 (719)
+art. 1.231 (725); art. 1.245 (731); art. 1.317 (738); art. 1.368-C (744); art. 1.368-D (751); art. 1.390 (757)
+art. 1.391 (765); art. 1.392 (773); art. 1.393 (781); art. 1.394 (789); art. 1.395 (797); art. 1.396 (805)
+art. 1.397 (813); art. 1.398 (821); art. 1.399 (829); art. 1.400 (837); art. 1.401 (845); art. 1.402 (853)
+art. 1.403 (861); art. 1.404 (869); art. 1.405 (877); art. 1.406 (885); art. 1.407 (893); art. 1.408 (901)
+art. 1.409 (909); art. 1.410 (917); art. 1.411 (925); art. 1.521 (933); art. 1.603 (941); art. 1.793 (948)
+art. 1.845 (954); art. 1.846 (961); art. 2.279 (968); art. 2.373 (974)
+Citada sem dispositivo identificado (984)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1007,3 +1034,5 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 | pas | 01/1999 | 2001-12-19 | parcial | manipulacao-fraude | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de clientes de sociedade distribuidora. Comprovação do destino dos recursos desviados, apropriados em parte pelo acionista controlador. Operações fraudulentas, como definidas na Instrução CVM 08/79. Multa de 3 vezes o valor apropriado. II. Inobservância de formalidades e vedações estabelecidas na Instrução CVM 220/94, permitindo a consecução das fraudes e desvios. Multa. III. Operador e agente autônomo como clientes de outra sociedade, além daquela a que estavam vinculados. Advertência. | cvm/pas/2001/01-1999.md |
 | pas | 25/1998 | 2001-12-12 | parcial | deveres-administradores | TUPY S/A ([pessoa física] E OUTROS) I. Alienação de controle de cia. aberta. Reorganização Societária. Oferta Pública a acionistas minoritários da Tupy S/A. | cvm/pas/2001/25-1998.md |
 | pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | cvm/pas/2000/10-1999.md |
+
+Fim do subíndice.

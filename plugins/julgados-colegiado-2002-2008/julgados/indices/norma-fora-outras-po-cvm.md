@@ -15,3 +15,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |
+
+Fim do subíndice.

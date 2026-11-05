@@ -80,3 +80,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2012/12961 | 2014-02-25 | aceito | deveres-administradores | O Colegiado, por unanimidade, aceitou propostas de termo de compromisso de cinco membros do conselho de administração da Telemar Norte Leste S.A., acompanhando o parecer do Comitê. Imputação: art. 256 da Lei 6.404/76 (aquisição do controle da Invitel). Quatro pagarão R$ 300.000,00 cada; um, R$ 300.000,00. | cvm/colegiado/2014/col-20140225-d02.md |
 | RJ2013/8159 | 2014-02-25 | aceito | manipulacao-fraude | O Colegiado aceitou proposta de termo de compromisso do proponente, acusado de prática não equitativa (Instrução CVM 08/79) em operações com papéis do banco em dezembro de 2006, acompanhando o parecer do Comitê. Obrigações: pagar à CVM R$ 256.000,00 (dobro do suposto lucro, corrigido pelo IPCA) e não atuar nos mercados de bolsa e balcão organizado por três anos. | cvm/colegiado/2014/col-20140225-d01.md |
 | RJ2013/6635 | 2014-02-18 | — | outros | Apreciação de proposta de termo de compromisso no PAS RJ2013/6635. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140218-d02.md |
+
+Fim do subíndice.

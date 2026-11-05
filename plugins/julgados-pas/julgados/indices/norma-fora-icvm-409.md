@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 701 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (25); art. 3º (31); art. 7º (38); art. 8º (45); art. 9º (53); art. 12 (59); art. 13 (66); art. 14 (72)
+art. 16 (78); art. 17 (84); art. 30 (90); art. 33 (100); art. 36 (106); art. 41 (112); art. 48 (120)
+art. 49 (127); art. 50 (133); art. 54 (139); art. 56 (145); art. 57 (167); art. 59 (193); art. 60 (201)
+art. 61 (215); art. 63 (221); art. 65 (236); art. 65-A (301); art. 65-B (355); art. 67 (371); art. 72 (377)
+art. 75 (383); art. 76 (389); art. 77 (397); art. 78 (403); art. 79 (409); art. 86 (415); art. 87 (432)
+art. 88 (442); art. 89 (463); art. 90 (475); art. 91 (481); art. 92 (489); art. 93 (495); art. 95 (501)
+art. 95-B (509); art. 96 (517); art. 98 (524); art. 99 (530); art. 100 (537); art. 103 (543); art. 104 (549)
+art. 109 (557); art. 110 (565); art. 110-B (571); art. 112 (580); art. 115-A (592); art. 116 (599)
+art. 117 (606); art. 119 (635); art. 119-A (647); art. 124 (660); art. 141 (666); art. 301 (672)
+art. 491 (678); Citada sem dispositivo identificado (684)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -682,3 +697,5 @@ Norma: fora do acervo.
 | pas | RJ2005/5272 | 2006-12-06 | absolvicao | fundos-investimento | Aquisição de ações preferenciais em subscrição privada, configurando infração ao disposto no inciso V, do art. 55, da Instrução CVM nº 302/99, que veda operações realizadas fora de bolsa de valores, ou de mercado de balcão, por entidade autorizada pela CVM. Absolvição. | cvm/pas/2006/rj2005-5272.md |
 | pas | RJ2005/9105 | 2006-09-25 | absolvicao | fundos-investimento | Suposto descumprimento reiterado do artigo 38 da Instrução CVM nº 302/99. Absolvições. | cvm/pas/2006/rj2005-9105.md |
 | pas | RJ2005/5204 | 2005-12-07 | condenacao | fundos-investimento | A aplicação em Cédulas de Crédito Bancário em percentual superior a 10% do patrimônio líquido do fundo de investimento financeiro constitui infração ao item I, do parágrafo 8º, do artigo 13, da Circular nº 2.616/95, do Banco Central do Brasil. | cvm/pas/2005/rj2005-5204.md |
+
+Fim do subíndice.

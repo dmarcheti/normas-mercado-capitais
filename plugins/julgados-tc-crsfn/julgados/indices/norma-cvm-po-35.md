@@ -18,3 +18,5 @@ Norma: [cvm/pareceres-orientacao/0035.md](../../../normas/normas/cvm/pareceres-o
 | termo-compromisso | 19957.003454/2017-18 | 2018-05-08 | aceito | deveres-administradores | O Colegiado aceitou proposta de termo de compromisso de oito administradores de companhia, acusados de não zelar pela comutatividade em transações com partes relacionadas (Lei 6.404/76, art. 153); um deles também por divulgação tardia (Instrução CVM 480/09, art. 30, XXXIII). Acompanhou o Comitê, que majorou os valores. | cvm/colegiado/2018/col-20180508-d1031.md |
 | acordao-crsfn | IA-2009-1 | 2017-02-07 | arquivamento | deveres-administradores | Recurso de Ofício. Descumprimento do dever de lealdade - Recurso desprovido - Arquivamentos confirmados. | crsfn/2017/14284.md |
 | acordao-crsfn | RJ2011/3665 | 2015-07-28 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S)– Mercado de valores mobiliários – Utilização de informação relevante ainda não divulgada ao mercado - Irregularidades caracterizadas - Recursos desprovidos. | crsfn/2015/13415.md |
+
+Fim do subíndice.

@@ -8,6 +8,40 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1147 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+deliberacao-cvm-1 (45); deliberacao-cvm-3 (59); deliberacao-cvm-5 (67); deliberacao-cvm-7 (75)
+deliberacao-cvm-8 (87); deliberacao-cvm-11 (95); deliberacao-cvm-13 (106); deliberacao-cvm-20 (114)
+deliberacao-cvm-22 (128); deliberacao-cvm-23 (136); deliberacao-cvm-26 (144); deliberacao-cvm-27 (160)
+deliberacao-cvm-30 (173); deliberacao-cvm-36 (182); deliberacao-cvm-47 (190); deliberacao-cvm-51 (198)
+deliberacao-cvm-61 (207); deliberacao-cvm-66 (222); deliberacao-cvm-67 (231); deliberacao-cvm-73 (239)
+deliberacao-cvm-75 (247); deliberacao-cvm-83 (255); deliberacao-cvm-87 (263); deliberacao-cvm-96 (272)
+deliberacao-cvm-105 (281); deliberacao-cvm-120 (289); deliberacao-cvm-148 (297); deliberacao-cvm-150 (305)
+deliberacao-cvm-151 (313); deliberacao-cvm-158 (321); deliberacao-cvm-161 (329); deliberacao-cvm-164 (338)
+deliberacao-cvm-181 (346); deliberacao-cvm-185 (357); deliberacao-cvm-186 (367); deliberacao-cvm-191 (378)
+deliberacao-cvm-193 (389); deliberacao-cvm-204 (401); deliberacao-cvm-205 (412); deliberacao-cvm-206 (424)
+deliberacao-cvm-207 (432); deliberacao-cvm-210 (443); deliberacao-cvm-213 (452); deliberacao-cvm-225 (465)
+deliberacao-cvm-234 (473); deliberacao-cvm-235 (481); deliberacao-cvm-241 (489); deliberacao-cvm-242 (498)
+deliberacao-cvm-244 (507); deliberacao-cvm-246 (515); deliberacao-cvm-248 (523); deliberacao-cvm-251 (531)
+deliberacao-cvm-252 (539); deliberacao-cvm-255 (547); deliberacao-cvm-257 (555); deliberacao-cvm-267 (563)
+deliberacao-cvm-276 (571); deliberacao-cvm-277 (579); deliberacao-cvm-278 (587); deliberacao-cvm-288 (595)
+deliberacao-cvm-293 (608); deliberacao-cvm-294 (618); deliberacao-cvm-301 (629); deliberacao-cvm-302 (637)
+deliberacao-cvm-304 (645); deliberacao-cvm-308 (653); deliberacao-cvm-313 (661); deliberacao-cvm-317 (669)
+deliberacao-cvm-319 (677); deliberacao-cvm-326 (685); deliberacao-cvm-327 (693); deliberacao-cvm-337 (701)
+deliberacao-cvm-339 (709); deliberacao-cvm-345 (717); deliberacao-cvm-346 (727); deliberacao-cvm-347 (738)
+deliberacao-cvm-349 (747); deliberacao-cvm-350 (762); deliberacao-cvm-355 (771); deliberacao-cvm-360 (779)
+deliberacao-cvm-371 (787); deliberacao-cvm-372 (798); deliberacao-cvm-383 (813); deliberacao-cvm-397 (821)
+deliberacao-cvm-404 (831); deliberacao-cvm-411 (839); deliberacao-cvm-413 (847); deliberacao-cvm-418 (855)
+deliberacao-cvm-428 (864); deliberacao-cvm-438 (873); deliberacao-cvm-458 (881); deliberacao-cvm-461 (891)
+deliberacao-cvm-464 (899); deliberacao-cvm-466 (907); deliberacao-cvm-467 (922); deliberacao-cvm-468 (930)
+deliberacao-cvm-473 (938); deliberacao-cvm-474 (947); deliberacao-cvm-475 (955); deliberacao-cvm-476 (970)
+deliberacao-cvm-478 (983); deliberacao-cvm-481 (991); deliberacao-cvm-482 (1018); deliberacao-cvm-485 (1026)
+deliberacao-cvm-486 (1034); deliberacao-cvm-488 (1048); deliberacao-cvm-489 (1058); deliberacao-cvm-504 (1072)
+deliberacao-cvm-505 (1080); deliberacao-cvm-506 (1088); deliberacao-cvm-510 (1099); deliberacao-cvm-511 (1108)
+deliberacao-cvm-525 (1116); deliberacao-cvm-535 (1124); deliberacao-cvm-538 (1133)
+
 ## deliberacao-cvm-1
 
 ### Citada sem dispositivo identificado
@@ -1109,3 +1143,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 45 | decisao-colegiado | RJ2007/14868 | 2008-07-22 | nao-provido | intermediacao | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2007/14868. | cvm/colegiado/2008/col-20080722-d22.md |
+
+Fim do subíndice.

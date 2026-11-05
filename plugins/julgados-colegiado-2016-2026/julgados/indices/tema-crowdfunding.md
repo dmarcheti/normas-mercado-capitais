@@ -32,3 +32,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2013/11877 | 2016-03-23 | — | crowdfunding | O Colegiado continuou a discussão da minuta de Instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas de investimento participativo, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20160323-d9637.md |
 | decisao-colegiado | RJ2013/11877 | 2016-03-02 | — | crowdfunding | O Colegiado deu continuidade à discussão da minuta de instrução sobre oferta pública com dispensa de registro por plataformas eletrônicas de investimento participativo, que altera as Instruções CVM 400/2003, 480/2009, 510/2011 e 541/2013, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20160302-d9637.md |
 | decisao-colegiado | RJ2013/11877 | 2016-02-24 | — | crowdfunding | O Colegiado iniciou a discussão da minuta de instrução sobre oferta pública de distribuição com dispensa de registro por plataformas eletrônicas de investimento participativo, com alterações às Instruções CVM 400, 480, 510 e 541. Não consta deliberação final. | cvm/colegiado/2016/col-20160224-d9637.md |
+
+Fim do subíndice.

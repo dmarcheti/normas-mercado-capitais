@@ -175,3 +175,5 @@ Norma: fora do acervo.
 | pas | RJ2012/5754 | 2013-09-10 | parcial | divulgacao-informacoes | ELETROPAR Imputação de atraso na elaboração e na divulgação das demonstrações financeiras da companhia. Absolvições. Convocação de Assembleia Geral Ordinária fora do prazo legal.Advertências. | cvm/pas/2013/rj2012-5754.md |
 | pas | RJ2012/3630 | 2013-08-13 | parcial | divulgacao-informacoes | ELETROBRAS Imputação de intempestividade na divulgação das demonstrações financeiras da companhia. Absolvição. Realização intempestiva da assembleia geral ordinária relativa ao exercício encerrado em 31.12.2010. Advertência. | cvm/pas/2013/rj2012-3630.md |
 | pas | RJ2010/12041 | 2013-03-26 | condenacao | assembleia-acionistas | CIMOB Não convocação de Assembleias Gerais Ordinárias – convocação intempestiva de AGO – multas. | cvm/pas/2013/rj2010-12041.md |
+
+Fim do subíndice.

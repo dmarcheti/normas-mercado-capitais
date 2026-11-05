@@ -7,6 +7,40 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 396 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 44 |
+| art. 3º | 52 |
+| art. 5º | 60 |
+| art. 8º | 70 |
+| art. 14 | 89 |
+| art. 15 | 96 |
+| art. 20 | 104 |
+| art. 21 | 114 |
+| art. 23 | 131 |
+| art. 23-A | 141 |
+| art. 24 | 155 |
+| art. 25 | 164 |
+| art. 26 | 173 |
+| art. 34 | 181 |
+| art. 36 | 198 |
+| art. 38 | 207 |
+| art. 39 | 232 |
+| art. 40 | 262 |
+| art. 40-A | 277 |
+| art. 45 | 300 |
+| art. 48 | 312 |
+| art. 56 | 330 |
+| art. 57-A | 336 |
+| art. 58 | 342 |
+| art. 60-A | 348 |
+| art. 63 | 356 |
+| Citada sem dispositivo identificado | 364 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -358,3 +392,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2015/13394 | 2016-05-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/13394. | cvm/colegiado/2016/col-20160517-d0197.md |
 | decisao-colegiado | RJ2013/12406 | 2016-05-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12406. | cvm/colegiado/2016/col-20160517-d0196.md |
 | decisao-colegiado | RJ2015/12327 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12327. | cvm/colegiado/2016/col-20160216-d0083.md |
+
+Fim do subíndice.

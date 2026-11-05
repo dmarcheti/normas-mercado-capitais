@@ -49,3 +49,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2013/10791 | 2014-04-15 | rejeitado | intermediacao | O Colegiado rejeitou, por unanimidade, três propostas de Termo de Compromisso, de uma sociedade e seu sócio administrador, de uma pessoa física e de uma sociedade e seu diretor, acompanhando o parecer do Comitê, que as considerou inoportunas e inconvenientes diante da gravidade das acusações e da falta de economia processual. | cvm/colegiado/2014/col-20140415-d01.md |
+
+Fim do subíndice.

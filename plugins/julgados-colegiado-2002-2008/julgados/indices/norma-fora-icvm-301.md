@@ -127,3 +127,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2006/0495 | 2006-12-19 | nao-provido | intermediacao | Recurso contra decisão da SMI em processo de rito sumário. | cvm/colegiado/2006/col-20061219-d04.md |
 | decisao-colegiado | SP2002/0572 | 2003-04-08 | provido | infraestrutura-mercado | Recurso em processo de fundo de garantia da bvrj. Proc. SP2002/0572. | cvm/colegiado/2003/col-20030408-d05.md |
 | decisao-colegiado | SP95/0053 | 2002-08-30 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP95/0053. | cvm/colegiado/2002/col-20020830-d01.md |
+
+Fim do subíndice.

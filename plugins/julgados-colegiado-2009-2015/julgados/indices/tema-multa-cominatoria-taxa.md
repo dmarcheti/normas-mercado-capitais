@@ -5,6 +5,22 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 1948 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+2015-12 (26); 2015-11 (53); 2015-10 (76); 2015-09 (91); 2015-08 (127); 2015-07 (134); 2015-06 (138)
+2015-05 (187); 2015-04 (191); 2015-03 (209); 2015-02 (213); 2015-01 (223); 2014-12 (240); 2014-11 (292)
+2014-10 (343); 2014-09 (356); 2014-08 (387); 2014-07 (410); 2014-06 (414); 2014-05 (431); 2014-04 (446)
+2014-03 (467); 2014-02 (487); 2014-01 (511); 2013-12 (530); 2013-11 (543); 2013-10 (552); 2013-09 (610)
+2013-08 (624); 2013-07 (630); 2013-06 (641); 2013-05 (650); 2013-04 (656); 2013-03 (663); 2013-02 (677)
+2013-01 (701); 2012 (736); 2011-12 (935); 2011-11 (952); 2011-10 (1028); 2011-09 (1047); 2011-08 (1088)
+2011-07 (1111); 2011-06 (1115); 2011-05 (1131); 2011-04 (1150); 2011-03 (1170); 2011-02 (1214); 2011-01 (1273)
+2010-12 (1280); 2010-11 (1388); 2010-10 (1468); 2010-09 (1485); 2010-08 (1491); 2010-07 (1508); 2010-06 (1514)
+2010-05 (1529); 2010-04 (1540); 2010-03 (1550); 2010-02 (1620); 2010-01 (1671); 2009-12 (1710); 2009-11 (1752)
+2009-10 (1770); 2009-09 (1785); 2009-08 (1797); 2009-07 (1804); 2009-06 (1810); 2009-05 (1830); 2009-04 (1854)
+2009-03 (1886); 2009-02 (1941); 2009-01 (1943)
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/12671; RJ2013/12677 | 2015-12-22 | nao-provido | multa-cominatoria-taxa | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2013/12671 e RJ2013/12677. | cvm/colegiado/2015/col-20151222-d9994.md |
@@ -1928,3 +1944,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2002/4340 | 2009-01-13 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4340. | cvm/colegiado/2009/col-20090113-d01.md |
 | decisao-colegiado | RJ2007/2342 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2342. | cvm/colegiado/2009/col-20090106-d04.md |
 | decisao-colegiado | RJ2002/3630 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3630. | cvm/colegiado/2009/col-20090106-d03.md |
+
+Fim do subíndice.

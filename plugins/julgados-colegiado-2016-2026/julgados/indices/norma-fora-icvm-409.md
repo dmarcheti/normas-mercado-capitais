@@ -194,3 +194,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/3493 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/3493. | cvm/colegiado/2016/col-20160621-d8888.md |
 | decisao-colegiado | RJ2011/4462 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4462. | cvm/colegiado/2016/col-20160621-d0262.md |
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | administracao-carteiras | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da Instrução CVM 558/2015 à gestão de recursos próprios; a SIN propôs tratamento como o da Deliberação CVM 244/1998, estendido às tesourarias de instituições financeiras. A decisão sobre a consulta da ABRAPP foi adiada. | cvm/colegiado/2016/col-20160524-d0222.md |
+
+Fim do subíndice.

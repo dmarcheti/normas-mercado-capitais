@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 424 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 25 |
+| art. 9º | 31 |
+| art. 20 | 37 |
+| art. 23 | 44 |
+| art. 29 | 50 |
+| art. 30 | 70 |
+| art. 34 | 77 |
+| Citada sem dispositivo identificado | 91 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -405,3 +420,5 @@ Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vige
 | pas | RJ2017/565 | 2017-12-14 | parcial | deveres-administradores | Inobservância de condições não comutativas na deliberação pela aprovação da subscrição das debêntures de emissão da companhia. Inabilitação temporária – Descumprimento da regulamentação em vigor na elaboração de demonstrações financeiras da companhia. Multas – Suposto descumprimento, por parte dos administradores, do dever de agir no interesse de suas respectivas companhias. Absolvição. | cvm/pas/2017/rj2017-0565.md |
 | pas | RJ2017/905 | 2017-12-11 | condenacao | deveres-administradores | Inobservância do dever de diligência por parte dos diretores e administradores da companhia. Descumprimento de regras contábeis. Descumprimento do dever de fiscalização. Multas e inabilitação temporária. | cvm/pas/2017/rj2017-0905.md |
 | pas | 19957.009255/2016-32; RJ2016/8914 | 2017-12-11 | condenacao | contabil-demonstracoes | Descumprimento do art. 100, combinado com art.153, ambos da Lei nº 6.404/76; descumprimento do art.177, combinado com o art. 153, ambos da Lei nº 6.404/76; e descumprimento do art. 14 da Instrução CVM nº 480/2009. Inabilitações. | cvm/pas/2017/19957-009255-2016-32.md |
+
+Fim do subíndice.

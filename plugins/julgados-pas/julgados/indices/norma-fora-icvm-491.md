@@ -52,3 +52,5 @@ Norma: fora do acervo.
 | pas | 18/2010 | 2013-11-26 | parcial | deveres-administradores | GAZOLA Abuso de poder de controle — descumprimento do dever de diligência — descumprimento do dever de lealdade. Absolvições, inabilitações temporárias e multas. | cvm/pas/2013/18-2010.md |
 | pas | 17/2006 | 2013-10-22 | parcial | deveres-administradores | INEPAR Exercício abusivo de poder de controle ‐ Favorecimento de sociedade controladora ‐ Descumprimento do dever de lealdade exigido do administrador de companhia aberta ‐ Conflito de interesses ‐ Desvio de poder ‐ Não observância, na elaboração das demonstrações financeiras, das normas expedidas pela CVM ‐ Contabilização de Títulos da Dívida Pública (TDPs) em desacordo com os Princípios Fundamentais de Contabilidade e com as Normas Brasileiras de Contabilidade ‐ Auditoria inepta. Absolvições, inabilitações, suspensões e multas. | cvm/pas/2013/17-2006.md |
 | pas | RJ2010/10528 | 2011-12-06 | condenacao | deveres-administradores | BNB-FRUTAN Descumprimento do dever de diligência, em infração ao art.153 da Lei nº 6.404/76. Multa. | cvm/pas/2011/rj2010-10528.md |
+
+Fim do subíndice.

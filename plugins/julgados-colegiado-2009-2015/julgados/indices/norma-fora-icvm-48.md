@@ -34,3 +34,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2014/13748 | 2015-04-28 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2014/13748. | cvm/colegiado/2015/col-20150428-d9483.md |
 | decisao-colegiado | RJ2014/13745 | 2015-04-28 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2014/13745. | cvm/colegiado/2015/col-20150428-d9482.md |
 | decisao-colegiado | RJ2010/15654 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15654. | cvm/colegiado/2010/col-20101228-d54.md |
+
+Fim do subíndice.

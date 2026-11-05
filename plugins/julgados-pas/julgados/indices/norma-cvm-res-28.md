@@ -13,3 +13,5 @@ Norma: [cvm/resolucoes/0028.md](../../../normas/normas/cvm/resolucoes/0028.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.000728/2022-84 | 2026-10-21 | — | manipulacao-fraude | PAS por operação fraudulenta na aquisição de cédulas de crédito bancário para fundo e por quebra do dever de diligência da gestora. Voto de um diretor acompanha a relatora e vota pela condenação dos acusados, divergindo apenas quanto à infração continuada. Sem deliberação do Colegiado. | cvm/pas/2026/19957-000728-2022-84.md |
 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | cvm/pas/2025/19957-016074-2024-72.md |
+
+Fim do subíndice.

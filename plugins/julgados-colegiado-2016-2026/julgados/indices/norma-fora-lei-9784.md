@@ -7,6 +7,57 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 491 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 61 |
+| art. 2º-A | 109 |
+| art. 3º | 115 |
+| art. 4º | 123 |
+| art. 9º | 129 |
+| art. 11 | 141 |
+| art. 12 | 147 |
+| art. 15 | 154 |
+| art. 18 | 160 |
+| art. 19 | 166 |
+| art. 20 | 172 |
+| art. 21 | 179 |
+| art. 22 | 185 |
+| art. 23 | 193 |
+| art. 25 | 200 |
+| art. 26 | 208 |
+| art. 27 | 220 |
+| art. 28 | 226 |
+| art. 29 | 232 |
+| art. 36 | 239 |
+| art. 37 | 246 |
+| art. 38 | 254 |
+| art. 44 | 266 |
+| art. 45 | 272 |
+| art. 46 | 284 |
+| art. 50 | 291 |
+| art. 51 | 301 |
+| art. 52 | 307 |
+| art. 53 | 315 |
+| art. 54 | 327 |
+| art. 55 | 334 |
+| art. 56 | 343 |
+| art. 58 | 357 |
+| art. 59 | 364 |
+| art. 60 | 371 |
+| art. 61 | 377 |
+| art. 62 | 389 |
+| art. 63 | 395 |
+| art. 64 | 403 |
+| art. 65 | 410 |
+| art. 66 | 421 |
+| art. 67 | 428 |
+| art. 69 | 435 |
+| Citada sem dispositivo identificado | 443 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -436,3 +487,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2014/6517 | 2017-03-14 | nao-provido | processual | O Colegiado, por unanimidade, acompanhou o voto do relator e negou provimento ao recurso do acusado contra decisão de diretora relatora que deferiu parcialmente a produção de provas no PAS RJ2014/6517. A prova testemunhal foi substituída por manifestação escrita, faculdade do relator (arts. 19 a 21 da Deliberação CVM 538/2008). | cvm/colegiado/2017/col-20170314-d9468.md |
 | decisao-colegiado | RJ2015/5511 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5511. | cvm/colegiado/2016/col-20160301-d9705.md |
 | decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm/colegiado/2016/col-20160301-d9695.md |
+
+Fim do subíndice.

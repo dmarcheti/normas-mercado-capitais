@@ -7,6 +7,29 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 302 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 33 |
+| art. 4º | 47 |
+| art. 6º | 105 |
+| art. 8º | 145 |
+| art. 9º | 151 |
+| art. 10 | 162 |
+| art. 11 | 175 |
+| art. 12 | 192 |
+| art. 13 | 204 |
+| art. 14 | 224 |
+| art. 15 | 230 |
+| art. 19 | 238 |
+| art. 20 | 252 |
+| art. 21 | 258 |
+| art. 23 | 264 |
+| Citada sem dispositivo identificado | 273 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -275,3 +298,5 @@ Norma: fora do acervo.
 | termo-compromisso | SP2005/0268 | 2006-08-29 | aceito | manipulacao-fraude | Por maioria, o Colegiado aceitou as cinco propostas de termo de compromisso no PAS SP2005/0268 (Boavista CCVM), sobre ajustes de Índice Bovespa Futuro. Propostas: R$ 50.000,00 e R$ 25.000,00; equipamentos de até R$ 300.000,00; seminário de R$ 160.000,00; R$ 70.000,00 e R$ 30.000,00. Condição: observar o § 15 do parecer do Comitê. | cvm/colegiado/2006/col-20060829-d03.md |
 | termo-compromisso | RJ2002/4186 | 2005-05-24 | aceito | pld | O Colegiado aprovou termo de compromisso da Prosper S/A Corretora de Valores e Câmbio e de outro indiciado, por atuação de mais de um ano para investidor não residente sem a documentação do art. 5º da Instrução CVM 325/00, já regularizada. Aprovado com as exclusões pedidas pela PFE, por considerar a proposta oportuna e conveniente. | cvm/colegiado/2005/col-20050524-d04.md |
 | termo-compromisso | IA14/00 | 2004-04-20 | rejeitado | outros | No IA 14/00 (Grupo Arbi S.A. CCTVM), o Colegiado rejeitou as propostas de termo de compromisso apresentadas por dois indiciados, acompanhando o voto do diretor-relator. | cvm/colegiado/2004/col-20040420-d01.md |
+
+Fim do subíndice.

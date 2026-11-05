@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 419 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2006-12 | 29 |
+| 2006-11 | 73 |
+| 2006-10 | 107 |
+| 2006-09 | 141 |
+| 2006-08 | 158 |
+| 2006-07 | 197 |
+| 2006-06 | 238 |
+| 2006-05 | 258 |
+| 2006-04 | 294 |
+| 2006-03 | 324 |
+| 2006-02 | 357 |
+| 2006-01 | 382 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2006-12-27 | outro | normativo | O Colegiado aprovou minuta de deliberação que dispõe sobre registro provisório para distribuição pública de certificados de investimento destinados à produção, distribuição, exibição e infraestrutura técnica de obras audiovisuais cinematográficas brasileiras, e sobre a liberação dos recursos captados. | cvm/colegiado/2006/col-20061227-d01.md |
@@ -396,3 +415,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2005/7556 | 2006-01-03 | indeferido | ofertas-publicas | O Colegiado acompanhou a área técnica e negou dispensa de estudo de viabilidade na oferta da Brasilagro, por não atender ao interesse público e à proteção do investidor (art. 4º da Instrução CVM 400/03). Os termos do estudo serão ajustados pela área técnica com o ofertante, se a oferta prosseguir. | cvm/colegiado/2006/col-20060103-d03.md |
 | RJ2004/5580 | 2006-01-03 | nao-provido | deveres-administradores | O Colegiado negou provimento ao recurso de acionistas minoritários contra decisão da SEP sobre alienação de controle e aumento de capital da Cemar, acolhendo integralmente a posição da área técnica; a relatora ficou vencida em parte. Questões: preço dos créditos do controlador, laudo de avaliação e voto em conflito de interesse. | cvm/colegiado/2006/col-20060103-d02.md |
 | RJ2003/4007 | 2006-01-03 | outro | processual | O Colegiado arquivou o processo da Hedging-Griffo Corretora de Valores S.A. em razão do cumprimento das cláusulas do Termo de Compromisso, com base na análise da área técnica competente. | cvm/colegiado/2006/col-20060103-d01.md |
+
+Fim do subíndice.

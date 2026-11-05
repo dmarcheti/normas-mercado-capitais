@@ -7,6 +7,49 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 349 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 14 | 53 |
+| art. 15 | 61 |
+| art. 16 | 78 |
+| art. 17 | 86 |
+| art. 18 | 94 |
+| art. 19 | 100 |
+| art. 20 | 106 |
+| art. 21 | 112 |
+| art. 22 | 119 |
+| art. 24 | 129 |
+| art. 25 | 141 |
+| art. 26 | 154 |
+| art. 27 | 160 |
+| art. 28 | 171 |
+| art. 29 | 177 |
+| art. 30 | 183 |
+| art. 31 | 192 |
+| art. 33 | 207 |
+| art. 40 | 224 |
+| art. 41 | 230 |
+| art. 42 | 236 |
+| art. 44 | 244 |
+| art. 46 | 250 |
+| art. 48 | 256 |
+| art. 49 | 264 |
+| art. 51 | 273 |
+| art. 52 | 279 |
+| art. 55 | 285 |
+| art. 57 | 292 |
+| art. 58 | 299 |
+| art. 59 | 305 |
+| art. 60 | 311 |
+| art. 65 | 317 |
+| art. 67 | 328 |
+| art. 485 | 334 |
+| Citada sem dispositivo identificado | 341 |
+
 ## art. 14
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -302,3 +345,5 @@ Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (
 | termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante sobre ofertas iminentes, diante de oscilações atípicas em 16.06.2023 (art. 157, §4º, da Lei 6.404/1976; RCVM 44, arts. 3º e 6º), acompanhando o Comitê, que aprimorou a proposta para R$ 470.000,00 (inicial: R$ 320.000,00). | cvm/colegiado/2025/col-20250916-d3361.md |
 | termo-compromisso | 19957.020870/2024-18 | 2025-09-09 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores de companhia, acusado de não divulgar fato relevante sobre arbitragem (art. 157, §4º, da Lei 6.404/1976 c/c art. 3º da RCVM 44). Valor aprimorado pelo Comitê e aceito pelo proponente: R$ 330.000,00, em parcela única. | cvm/colegiado/2025/col-20250909-d3358.md |
 | acordao-crsfn | 19957.009206/2018-61 | 2024-05-07 | parcial | divulgacao-informacoes | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. NÃO APRESENTAÇÃO DE INFORMAÇÕES EXIGIDAS, COM EMBARAÇO À FISCALIZAÇÃO. DEIXAR DE COMUNICAR, PARA FINS DE DIVULGAÇÃO, FATO RELEVANTE. DIVULGAÇÃO DE FORMULÁRIO DE REFERÊNCIA COM INFORMAÇÕES INCOMPLETAS. PRESTAÇÃO DE INFORMAÇÃO ERRÔNEA RELATIVA À SUPOSTA INDEPENDÊNCIA DE CONSELHEIROS. Materialidade das infrações e autoria comprovadas em relação a um dos recorrentes. Súmula do CRSFN - Enunciado nº 3. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimento. | crsfn/2024/10372-100112-2023-90.md |
+
+Fim do subíndice.

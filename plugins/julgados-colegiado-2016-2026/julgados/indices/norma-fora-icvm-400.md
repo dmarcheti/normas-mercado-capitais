@@ -7,6 +7,64 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 737 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 68 |
+| art. 2º | 74 |
+| art. 3º | 88 |
+| art. 4º | 108 |
+| art. 5º | 177 |
+| art. 6º | 202 |
+| art. 7º | 212 |
+| art. 8º | 220 |
+| art. 9º | 228 |
+| art. 10 | 240 |
+| art. 13-E | 252 |
+| art. 14 | 258 |
+| art. 14-A | 267 |
+| art. 16 | 273 |
+| art. 17 | 284 |
+| art. 18 | 295 |
+| art. 19 | 310 |
+| art. 20 | 334 |
+| art. 21 | 345 |
+| art. 23 | 359 |
+| art. 24 | 369 |
+| art. 25 | 378 |
+| art. 27 | 402 |
+| art. 29 | 417 |
+| art. 30 | 429 |
+| art. 31 | 437 |
+| art. 31-A | 445 |
+| art. 32 | 451 |
+| art. 32-A | 475 |
+| art. 33 | 501 |
+| art. 34 | 510 |
+| art. 35 | 517 |
+| art. 37 | 527 |
+| art. 38 | 538 |
+| art. 39 | 549 |
+| art. 40 | 556 |
+| art. 41 | 562 |
+| art. 44 | 568 |
+| art. 46 | 574 |
+| art. 48 | 580 |
+| art. 50 | 593 |
+| art. 51 | 603 |
+| art. 52 | 609 |
+| art. 53 | 619 |
+| art. 54-A | 625 |
+| art. 55 | 632 |
+| art. 56 | 642 |
+| art. 57 | 655 |
+| art. 59 | 662 |
+| art. 60 | 668 |
+| Citada sem dispositivo identificado | 674 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -675,3 +733,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | administracao-carteiras | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da Instrução CVM 558/2015 à gestão de recursos próprios; a SIN propôs tratamento como o da Deliberação CVM 244/1998, estendido às tesourarias de instituições financeiras. A decisão sobre a consulta da ABRAPP foi adiada. | cvm/colegiado/2016/col-20160524-d0222.md |
 | decisao-colegiado | RJ2013/10047 | 2016-04-27 | outro | normativo | Para audiência pública – programa de distribuição de debêntures. Proc. RJ2013/10047. | cvm/colegiado/2016/col-20160427-d3324.md |
 | decisao-colegiado | 505/2011; RJ2015/6254 | 2016-01-27 | outro | normativo | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta que altera a Instrução CVM 505/2011 quanto à participação de pessoas vinculadas ao intermediário em ofertas públicas regidas pela Instrução CVM 400/2003. A SDM consolidará as sugestões e comentários recebidos. | cvm/colegiado/2016/col-20160127-d5529.md |
+
+Fim do subíndice.

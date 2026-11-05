@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa do estudo de viabilidade econômico-financeira da Bovespa Holding S.A., condicionada a seção específica no prospecto com os fundamentos do pedido, custos e benefícios da nova estrutura e aspectos tributários. Deliberou emitir ato normativo para delegar à SRE dispensas em casos idênticos. | cvm/colegiado/2007/col-20071002-d09.md |
 | decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | infraestrutura-mercado | O Colegiado acompanhou o voto do diretor-relator e deu provimento a recurso do Banco Sudameris contra entendimento da SEP de que a transferência de ações ocorrida em 31/03/2003 apresentava irregularidades passíveis de apuração em processo administrativo. | cvm/colegiado/2004/col-20040601-d01.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

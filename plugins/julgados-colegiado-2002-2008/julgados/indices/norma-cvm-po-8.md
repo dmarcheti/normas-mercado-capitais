@@ -16,3 +16,5 @@ Norma: [cvm/pareceres-orientacao/0008.md](../../../normas/normas/cvm/pareceres-o
 | decisao-colegiado | — | 2002-12-10 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor relator, conforme o entendimento mantido com a SRE, em consulta da administradora do FII Novo Anhembi sobre modificação na destinação de recursos da 1ª emissão de cotas. | cvm/colegiado/2002/col-20021210-d05.md |
 | decisao-colegiado | RJ2002/2070 | 2002-07-23 | outro | ofertas-publicas | O Colegiado respondeu à consulta da Bovespa e entendeu que o aumento de capital do Banco do Nordeste do Brasil S.A. por subscrição particular, aprovado nas AGEs de 28/12/2001 e 18/02/2002, não fere os princípios do Parecer de Orientação CVM nº 08, contra a posição da PJU. A sugestão da SRE de novo parecer foi encaminhada à PJU para estudo. | cvm/colegiado/2002/col-20020723-d02.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
+
+Fim do subíndice.

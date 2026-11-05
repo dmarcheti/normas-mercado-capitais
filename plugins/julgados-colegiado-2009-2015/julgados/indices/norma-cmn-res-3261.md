@@ -19,3 +19,5 @@ Norma: [cmn/resolucoes/3261.md](../../../normas/normas/cmn/resolucoes/3261.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | infraestrutura-mercado | Pedido de autorização para prestação do serviço de escrituração de cotas para terceiros. Proc. RJ2011/12846. | cvm/colegiado/2012/col-20120424-d05.md |
 | decisao-colegiado | SP2007/0183 | 2009-08-04 | indeferido | intermediacao | O Colegiado indeferiu o pedido do Banco de Desenvolvimento de Minas Gerais S.A. de registro para atuar na distribuição primária e secundária de valores mobiliários. Segundo o voto do relator, o Regulamento Anexo à Resolução CMN 394/76 não prevê essa atuação. Acompanhando a área técnica, sugeriu o pleito ao Convênio CVM/Bacen. | cvm/colegiado/2009/col-20090804-d05.md |
+
+Fim do subíndice.

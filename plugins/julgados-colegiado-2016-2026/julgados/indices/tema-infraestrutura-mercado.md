@@ -149,3 +149,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | 19957.000530/2016-52 | 2016-02-02 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000530/2016-52. | cvm/colegiado/2016/col-20160202-d0036.md |
 | decisao-colegiado | RJ2015/1263 | 2016-02-02 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1263. | cvm/colegiado/2016/col-20160202-d0031.md |
 | decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | infraestrutura-mercado | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art. 3º da Instrução CVM 542 (que não prevê bancos de desenvolvimento), condicionada ao cumprimento de todas as exigências da norma. | cvm/colegiado/2016/col-20160112-d0004.md |
+
+Fim do subíndice.

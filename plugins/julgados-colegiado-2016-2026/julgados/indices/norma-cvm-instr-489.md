@@ -32,3 +32,5 @@ Norma: [cvm/instrucoes/0489.md](../../../normas/normas/cvm/instrucoes/0489.md) (
 | decisao-colegiado | RJ2013/12385 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12385. | cvm/colegiado/2016/col-20160607-d0237.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2013/12424 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12424. | cvm/colegiado/2016/col-20160216-d0079.md |
+
+Fim do subíndice.

@@ -75,3 +75,5 @@ Norma: fora do acervo.
 | pas | RJ2009/10246 | 2010-11-09 | condenacao | exercicio-irregular | [pessoa física] e AC ADMINISTRAÇÃO E CONSULTORIA DE INVESTIMENTOS LTDA. Exercício da atividade de administrador de carteira de valores mobiliários sem prévio registro na CVM. – Multas . | cvm/pas/2010/rj2009-10246.md |
 | pas | RJ2006/1622 | 2006-08-01 | parcial | divulgacao-informacoes | Descumprimento do dever de diligência pela não manutenção do registro de companhia aberta atualizado. | cvm/pas/2006/rj2006-1622.md |
 | pas | SP2002/0493 | 2005-09-21 | parcial | exercicio-irregular | Infração ao artigo 16 da Lei nº 6.385/76 - Proibição temporária para prática de atividade de agente autônomo. - Infração ao inciso I, c/c o inciso II, alínea c, ambos da Instrução CVM nº 08/79 - Multa. - Infração aos artigos 4º e 5º da Instrução CVM nº 220/94 - Multa. | cvm/pas/2005/sp2002-0493.md |
+
+Fim do subíndice.

@@ -121,3 +121,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2015/7661 | 2016-03-22 | deferido | divulgacao-informacoes | O Colegiado deferiu, por unanimidade, acompanhando a SEP, o pedido da Gerdau S.A. de autorização para negociação privada de ações de própria emissão (art. 23 da Instrução CVM 10/1980), desde que atingidos níveis adequados de transparência, nos termos propostos pela SEP. Segundo a área técnica, o caso não estava plenamente circunstanciado por falta de divulgação adequada. | cvm/colegiado/2016/col-20160322-d0146.md |
+
+Fim do subíndice.

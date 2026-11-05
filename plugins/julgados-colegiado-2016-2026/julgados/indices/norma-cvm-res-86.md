@@ -37,3 +37,5 @@ Norma: [cvm/resolucoes/0086.md](../../../normas/normas/cvm/resolucoes/0086.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 86/2022; 19957.011104/2022-92 | 2024-12-10 | outro | normativo | O Colegiado aprovou a Resolução CVM 221/2024, que altera a RCVM 86/2022 para afastar sua incidência sobre a revenda de unidades de hotel por pessoas não vinculadas à incorporadora, após oferta registrada ou dispensada, e exclui os arts. 29 e 30 e o Anexo H. Dispensadas AIR e consulta pública. | cvm/colegiado/2024/col-20241210-d3117.md |
 | decisao-colegiado | 19957.009726/2021-70 | 2022-03-30 | outro | normativo | O Colegiado aprovou as Resoluções CVM nº 84/2022 (CEPAC), 85/2022 (ofertas públicas de aquisição de ações) e 86/2022 (contratos de investimento coletivo hoteleiro), no trabalho de consolidação do Decreto nº 10.139/2019, sem consulta pública e com dispensa automática de AIR (art. 4º, III, do Decreto nº 10.411/2020). | cvm/colegiado/2022/col-20220330-d2568.md |
+
+Fim do subíndice.

@@ -21,3 +21,5 @@ Norma: fora do acervo.
 | termo-compromisso | IA10/01 | 2004-05-11 | aceito | outros | O Colegiado, acompanhando o relator, aprovou a celebração de termo de compromisso proposto pelo Banco Itaú BBA S.A. e pela Itaú DTVM S.A. para suspender o inquérito administrativo IA 10/01. A minuta teve aprovação formal da PFE; o relator recomendou cláusula de auditor independente registrado na CVM atestando o cumprimento das obrigações, antes da formalização. | cvm/colegiado/2004/col-20040511-d02.md |
 | termo-compromisso | IA14/00 | 2004-04-20 | rejeitado | outros | No IA 14/00 (Grupo Arbi S.A. CCTVM), o Colegiado rejeitou as propostas de termo de compromisso apresentadas por dois indiciados, acompanhando o voto do diretor-relator. | cvm/colegiado/2004/col-20040420-d01.md |
 | termo-compromisso | IA02/01 | 2004-04-16 | aceito | outros | O Colegiado aceitou as propostas de termo de compromisso da Usiminas, da Companhia Vale do Rio Doce, da Companhia Rio Doce Manganês e de seus administradores, para suspensão do IA 02/01, desde que atendidas as condições do voto do diretor-relator. | cvm/colegiado/2004/col-20040416-d01.md |
+
+Fim do subíndice.

@@ -165,3 +165,5 @@ Norma: fora do acervo.
 | pas | SP2004/0113 | 2004-12-09 | parcial | manipulacao-fraude | Realização de operações fraudulentas, conforme conceituado na alínea “c” do inciso II e vedada pelo Inciso I da Instrução CVM nº 08/79. Multas.Intermediação irregular. Absolvições.Descumprimento do art. 4º da Instrução CVM nº 333/00 e do disposto no art. 11, itens I e III, do Regulamento Anexo à Resolução CMN nº 1.655/89, c.c. os arts. 3º, 4º 3 5º da Instrução CVM nº 220/94. Absolvições. | cvm/pas/2004/sp2004-0113.md |
 | pas | SP2002/0048 | 2003-03-13 | parcial | intermediacao | UNITAS DTVM E OUTROS A existência de contrato de agenciamento não afasta a responsabilidade do intermediário por atos irregulares praticados pelo agente autônomo decorrentes do atendimento de clientes em suas dependências. | cvm/pas/2003/sp2002-0048.md |
 | pas | RJ2001/3809 | 2002-04-25 | condenacao | exercicio-irregular | [pessoa física] Intermediação irregular no mercado de valores mobiliários, por pessoa não integrante do sistema de intermediação previsto no art. 16, parágrafo único, combinado com o art. 15 da Lei 6.385/76. | cvm/pas/2002/rj2001-3809.md |
+
+Fim do subíndice.

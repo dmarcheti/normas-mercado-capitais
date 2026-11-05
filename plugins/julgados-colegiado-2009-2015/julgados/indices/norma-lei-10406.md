@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 567 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 3º (26); art. 4º (33); art. 5º (40); art. 9º (47); art. 11 (53); art. 50 (59); art. 66 (65); art. 67 (71)
+art. 68 (77); art. 104 (83); art. 107 (90); art. 115 (96); art. 122 (102); art. 138 (108); art. 146 (114)
+art. 157 (123); art. 166 (129); art. 167 (140); art. 168 (147); art. 169 (154); art. 178 (161); art. 182 (167)
+art. 186 (173); art. 187 (180); art. 188 (188); art. 206 (200); art. 224 (209); art. 286 (216); art. 290 (222)
+art. 295 (231); art. 299 (239); art. 393 (245); art. 402 (251); art. 408 (258); art. 422 (264); art. 425 (271)
+art. 586 (277); art. 587 (284); art. 588 (292); art. 589 (298); art. 590 (304); art. 591 (310); art. 592 (316)
+art. 622 (322); art. 629 (328); art. 645 (336); art. 653 (342); art. 656 (355); art. 660 (367); art. 661 (380)
+art. 662 (386); art. 663 (398); art. 684 (406); art. 884 (412); art. 887 (418); art. 888 (424); art. 889 (430)
+art. 927 (436); art. 932 (442); art. 933 (448); art. 945 (454); art. 964 (460); art. 965 (466); art. 983 (472)
+art. 1.015 (479); art. 1.018 (485); art. 1.225 (491); art. 1.394 (498); art. 2.359 (504); art. 2.373 (510)
+Citada sem dispositivo identificado (516)
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -547,3 +563,5 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 | decisao-colegiado | RJ1999/3978 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3978. | cvm/colegiado/2009/col-20090303-d04.md |
 | decisao-colegiado | RJ2008/4134 | 2009-03-03 | nao-provido | deveres-administradores | O Colegiado, por voto de qualidade da Presidente, negou provimento a recurso de suplente do conselho fiscal da CELPE contra entendimento da SEP, mantendo o conflito de interesses do suplente para intervir em processo judicial de interesse do acionista que o elegeu. Vencidos dois diretores. | cvm/colegiado/2009/col-20090303-d02.md |
 | decisao-colegiado | RJ2007/14344; RJ2008/1978 | 2009-02-03 | deferido | opa | O Colegiado deferiu pedido da Telco S.p.A. de prorrogação por 30 dias do prazo para recorrer de decisão da SRE que determinou OPA da TIM Participações S.A. (art. 254-A da Lei 6.404/76), por complexidade do caso. Concedeu efeito suspensivo à decisão, suspendendo o prazo de registro da OPA até o julgamento do recurso. | cvm/colegiado/2009/col-20090203-d12.md |
+
+Fim do subíndice.

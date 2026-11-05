@@ -7,6 +7,48 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0081.md](../../../normas/normas/cvm/resolucoes/0081.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 449 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 52 |
+| art. 3º | 58 |
+| art. 5º | 65 |
+| art. 6º | 73 |
+| art. 7º | 81 |
+| art. 8º | 93 |
+| art. 9º | 102 |
+| art. 10 | 119 |
+| art. 11 | 135 |
+| art. 12 | 147 |
+| art. 13 | 161 |
+| art. 15 | 168 |
+| art. 17 | 174 |
+| art. 18 | 180 |
+| art. 19 | 186 |
+| art. 22 | 192 |
+| art. 25 | 201 |
+| art. 26 | 207 |
+| art. 31 | 222 |
+| art. 32 | 228 |
+| art. 35 | 234 |
+| art. 37 | 240 |
+| art. 40 | 250 |
+| art. 48 | 256 |
+| art. 58 | 263 |
+| art. 62 | 271 |
+| art. 63 | 290 |
+| art. 64 | 326 |
+| art. 65 | 362 |
+| art. 66 | 369 |
+| art. 67 | 377 |
+| art. 68 | 393 |
+| art. 78 | 425 |
+| Anexo F, art. 18 | 431 |
+| Citada sem dispositivo identificado | 437 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -403,3 +445,5 @@ Norma: [cvm/resolucoes/0081.md](../../../normas/normas/cvm/resolucoes/0081.md) (
 | decisao-colegiado | 81/2022; 19957.011456/2017-81 | 2023-08-23 | outro | normativo | O Colegiado deliberou pela adoção da combinação de alternativas do Relatório de AIR sobre a reforma da RCVM 81/2022 (votação a distância em assembleias), nos termos do Decreto 10.411/2020, art. 15, §2º, I, e da RCVM 67/2022, art. 22. O relatório deverá ser divulgado publicamente. | cvm/colegiado/2023/col-20230823-d2925.md |
 | decisao-colegiado | — | 2022-12-02 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, conforme proposta da SDM após interação com a ASA e áreas técnicas. Inclui normas a editar após audiência pública (AP SDM 03/21 e 05/21), temas para consulta pública e estudos de AIR. | cvm/colegiado/2022/col-20221202-d2793.md |
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-23 | outro | normativo | O Colegiado aprovou as Resoluções CVM 77/2022 (negociação de ações e debêntures de própria emissão), 78/2022 (fusão, cisão, incorporação) e 81/2022 (assembleias), no trabalho de consolidação do Decreto 10.139/2019. Sem mudança de mérito, sem consulta pública e com AIR dispensada. | cvm/colegiado/2022/col-20220323-d2516.md |
+
+Fim do subíndice.

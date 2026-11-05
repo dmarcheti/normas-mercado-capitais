@@ -158,3 +158,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.006012/2016-42; RJ2016/7995 | 2017-03-21 | rejeitado | exercicio-irregular | O Colegiado rejeitou proposta de termo de compromisso de R$ 1.000,00 apresentada por dirigente do Clube de Investimento dos Ferroviários Associados da SUDFER, acusado de administrar carteira sem registro (art. 23 da Lei 6.385/1976), com base no Comitê. Motivos: óbice jurídico da PFE-CVM (práticas não cessadas e ausência de indenização), gravidade das condutas e valor insuficiente para fins preventivos. | cvm/colegiado/2017/col-20170321-d0619.md |
 | acordao-crsfn | SP-2003-0489 | 2011-08-30 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Agente autônomo – Realização de operações fraudulentas – Movimentação de valores à revelia de clientes – Quebra de fidúcia – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento. | crsfn/2011/10984.md |
+
+Fim do subíndice.

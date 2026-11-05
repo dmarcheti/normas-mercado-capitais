@@ -8,6 +8,34 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1189 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cmn-2 (39); res-cmn-39 (48); res-cmn-88 (95); res-cmn-237 (103); res-cmn-250 (111); res-cmn-328 (119)
+res-cmn-381 (127); res-cmn-436 (136); res-cmn-460 (147); res-cmn-470 (155); res-cmn-504 (163)
+res-cmn-527 (171); res-cmn-607 (182); res-cmn-610 (190); res-cmn-680 (198); res-cmn-702 (206)
+res-cmn-755 (220); res-cmn-756 (231); res-cmn-796 (239); res-cmn-961 (247); res-cmn-1002 (256)
+res-cmn-1021 (265); res-cmn-1022 (273); res-cmn-1023 (281); res-cmn-1114 (289); res-cmn-1120 (297)
+res-cmn-1133 (308); res-cmn-1190 (317); res-cmn-1280 (327); res-cmn-1339 (336); res-cmn-1416 (344)
+res-cmn-1460 (353); res-cmn-1517 (367); res-cmn-1559 (375); res-cmn-1612 (385); res-cmn-1653 (394)
+res-cmn-1658 (402); res-cmn-1659 (410); res-cmn-1689 (418); res-cmn-1719 (426); res-cmn-1748 (434)
+res-cmn-1760 (442); res-cmn-1787 (450); res-cmn-1794 (460); res-cmn-1796 (468); res-cmn-1832 (476)
+res-cmn-1833 (513); res-cmn-1877 (522); res-cmn-1903 (531); res-cmn-1927 (539); res-cmn-1935 (556)
+res-cmn-2013 (564); res-cmn-2025 (572); res-cmn-2026 (581); res-cmn-2034 (590); res-cmn-2069 (609)
+res-cmn-2099 (617); res-cmn-2111 (626); res-cmn-2112 (634); res-cmn-2122 (642); res-cmn-2149 (660)
+res-cmn-2183 (668); res-cmn-2188 (677); res-cmn-2267 (685); res-cmn-2268 (693); res-cmn-2274 (708)
+res-cmn-2309 (716); res-cmn-2318 (724); res-cmn-2324 (733); res-cmn-2344 (741); res-cmn-2384 (749)
+res-cmn-2424 (765); res-cmn-2451 (775); res-cmn-2474 (789); res-cmn-2486 (797); res-cmn-2493 (805)
+res-cmn-2517 (813); res-cmn-2609 (821); res-cmn-2676 (829); res-cmn-2720 (837); res-cmn-2747 (845)
+res-cmn-2763 (853); res-cmn-2785 (862); res-cmn-2801 (878); res-cmn-2824 (889); res-cmn-2829 (897)
+res-cmn-2850 (912); res-cmn-2872 (920); res-cmn-2878 (928); res-cmn-2882 (936); res-cmn-2901 (944)
+res-cmn-2908 (959); res-cmn-2921 (967); res-cmn-2922 (975); res-cmn-2960 (983); res-cmn-2966 (991)
+res-cmn-3041 (999); res-cmn-3081 (1016); res-cmn-3112 (1025); res-cmn-3121 (1034); res-cmn-3154 (1054)
+res-cmn-3198 (1062); res-cmn-3239 (1070); res-cmn-3244 (1078); res-cmn-3245 (1092); res-cmn-3265 (1106)
+res-cmn-3301 (1114); res-cmn-3332 (1123); res-cmn-3339 (1132); res-cmn-3399 (1140); res-cmn-3412 (1148)
+res-cmn-3425 (1156); res-cmn-3456 (1164); res-cmn-3477 (1173); res-cmn-3489 (1181)
+
 ## res-cmn-2
 
 ### Citada sem dispositivo identificado
@@ -1157,3 +1185,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/12447 | 2007-10-22 | indeferido | assembleia-acionistas | O Colegiado acompanhou a SEP e indeferiu pedido de interrupção do prazo da AGE do Banco do Brasil S.A. Fundamento: ausentes os requisitos do art. 124, §5º, I e II, da Lei 6.404/76 (matéria complexa ou ilegal). Não há base legal para a CVM deixar de analisar pedidos sem embasamento. | cvm/colegiado/2007/col-20071022-d01.md |
+
+Fim do subíndice.

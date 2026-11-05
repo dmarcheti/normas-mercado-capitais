@@ -42,3 +42,5 @@ Norma: [leis/lei-08929.md](../../../normas/normas/leis/lei-08929.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 14/2008 | 2011-08-09 | condenacao | exercicio-irregular | BOVINUS Tecnologia em Pecuária S.A emissão e distribuição pública de valores mobiliários sem registro na CVM – não envio à CVM de informações periódicas e eventuais – Multas. | cvm/pas/2011/14-2008.md |
+
+Fim do subíndice.

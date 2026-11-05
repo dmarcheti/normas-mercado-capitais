@@ -85,3 +85,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.009249/2019-28 | 2020-05-20 | — | normativo | O Colegiado iniciou a discussão sobre a minuta de norma que revisa a ICVM 555/14 (fundos de investimento) em decorrência da Lei 13.874/19. Sem deliberação do Colegiado. | cvm/colegiado/2020/col-20200520-d5474.md |
 | decisao-colegiado | 19957.009249/2019-28 | 2020-05-06 | — | normativo | Apresentação da SDM ao Colegiado sobre a estrutura proposta para revisão da ICVM 555/14 (fundos de investimento) em decorrência da Lei 13.874/19 (Lei da Liberdade Econômica). Sem deliberação do Colegiado. | cvm/colegiado/2020/col-20200506-d5474.md |
 | decisao-colegiado | 19957.009249/2019-28 | 2019-09-30 | outro | normativo | O Colegiado aprovou a Instrução CVM 615/19, que retira a obrigação de registro em cartório dos regulamentos de fundos de investimento e altera ou revoga dispositivos de 12 instruções, em decorrência da Lei 13.874/19 (art. 1.368-C, §3º, Código Civil). Não houve audiência pública, por se tratar de adaptação a mudança legal. | cvm/colegiado/2019/col-20190930-d1579.md |
+
+Fim do subíndice.

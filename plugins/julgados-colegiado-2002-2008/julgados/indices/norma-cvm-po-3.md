@@ -13,3 +13,5 @@ Norma: [cvm/pareceres-orientacao/0003.md](../../../normas/normas/cvm/pareceres-o
 |---|---|---|---|---|---|---|
 | decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | cvm/decisoes-antigas/1980.md |
 | decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | cvm/decisoes-antigas/1979.md |
+
+Fim do subíndice.

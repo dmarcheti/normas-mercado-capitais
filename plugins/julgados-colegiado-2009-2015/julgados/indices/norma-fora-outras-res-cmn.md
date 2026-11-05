@@ -8,6 +8,73 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 691 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| res-cmn-1 | 78 |
+| res-cmn-145 | 86 |
+| res-cmn-238 | 106 |
+| res-cmn-394 | 115 |
+| res-cmn-401 | 123 |
+| res-cmn-436 | 134 |
+| res-cmn-454 | 142 |
+| res-cmn-527 | 157 |
+| res-cmn-702 | 165 |
+| res-cmn-922 | 175 |
+| res-cmn-961 | 195 |
+| res-cmn-1022 | 206 |
+| res-cmn-1120 | 215 |
+| res-cmn-1133 | 230 |
+| res-cmn-1190 | 239 |
+| res-cmn-1289 | 247 |
+| res-cmn-1645 | 261 |
+| res-cmn-1656 | 269 |
+| res-cmn-1665 | 284 |
+| res-cmn-1775-1996 | 292 |
+| res-cmn-1907 | 300 |
+| res-cmn-1929 | 308 |
+| res-cmn-2025 | 316 |
+| res-cmn-2197 | 325 |
+| res-cmn-2325 | 333 |
+| res-cmn-2424 | 354 |
+| res-cmn-2451 | 365 |
+| res-cmn-2554 | 373 |
+| res-cmn-2660 | 382 |
+| res-cmn-2774 | 390 |
+| res-cmn-2817 | 405 |
+| res-cmn-2838 | 413 |
+| res-cmn-2873 | 439 |
+| res-cmn-2882 | 447 |
+| res-cmn-2960 | 455 |
+| res-cmn-3040 | 464 |
+| res-cmn-3041 | 472 |
+| res-cmn-3057 | 480 |
+| res-cmn-3106 | 488 |
+| res-cmn-3158 | 496 |
+| res-cmn-3245 | 504 |
+| res-cmn-3251 | 512 |
+| res-cmn-3263 | 520 |
+| res-cmn-3289 | 528 |
+| res-cmn-3309 | 542 |
+| res-cmn-3400 | 550 |
+| res-cmn-3456 | 558 |
+| res-cmn-3514 | 568 |
+| res-cmn-3692 | 576 |
+| res-cmn-3729 | 584 |
+| res-cmn-3786 | 592 |
+| res-cmn-3792 | 600 |
+| res-cmn-3823 | 624 |
+| res-cmn-3849 | 632 |
+| res-cmn-3854 | 640 |
+| res-cmn-3931 | 648 |
+| res-cmn-4192 | 657 |
+| res-cmn-4222 | 665 |
+| res-cmn-4263 | 673 |
+| res-cmn-4373 | 681 |
+
 ## res-cmn-1
 
 ### Citada sem dispositivo identificado
@@ -620,3 +687,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | 12/2014; 325/2000; RJ2008/9075 | 2015-03-25 | outro | normativo | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 12/2014, que substitui a ICVM 325/2000 e dispõe sobre registro, operações e divulgação de informações de investidor não residente. Destaques: informe mensal prestado pelo representante, por investidor representado, e regras de transição para cadastro e divulgação. | cvm/colegiado/2015/col-20150325-d4672.md |
 | decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2015-03-11 | outro | normativo | O Colegiado aprovou instrução sobre programas de Depositary Receipts (AP SDM 11/2014), substituindo a ICVM 317/1999. Convocação com 30 dias de antecedência só para emissoras de ações lastro de DR patrocinados, a vigorar em 90 dias; depositária vota conforme instrução dos titulares, quando o contrato permitir. Iniciou discussão sobre a ICVM 325/2000 (AP SDM 12/2014). | cvm/colegiado/2015/col-20150311-d4672.md |
 | decisao-colegiado | 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2014-10-29 | outro | normativo | O Colegiado aprovou, para audiência pública de 60 dias, duas minutas de instrução que revogam as Instruções CVM 317/1999 (Depositary Receipts) e 325/2000 (investidor não residente), para adequá-las à Resolução CMN 4.373/2014. | cvm/colegiado/2014/col-20141029-d01.md |
+
+Fim do subíndice.

@@ -7,6 +7,15 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 373 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 19 |
+| Citada sem dispositivo identificado | 25 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -360,3 +369,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2016/0103 | 2016-02-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2016/0103. | cvm/colegiado/2016/col-20160202-d0030.md |
 | decisao-colegiado | RJ2015/12695 | 2016-01-12 | outro | opa | O Colegiado, por maioria, vencido um diretor, condicionou o cancelamento de registro do Banco Daycoval S.A. (OPA unificada) às hipóteses do art. 47 da ICVM 480 para as Letras Financeiras em circulação. Trata-se de recurso contra exigência da SRE; o texto não traz o resultado sobre o art. 48, I, nem o voto de diretor pela reforma parcial. | cvm/colegiado/2016/col-20160112-d9990.md |
 | decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | infraestrutura-mercado | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art. 3º da Instrução CVM 542 (que não prevê bancos de desenvolvimento), condicionada ao cumprimento de todas as exigências da norma. | cvm/colegiado/2016/col-20160112-d0004.md |
+
+Fim do subíndice.

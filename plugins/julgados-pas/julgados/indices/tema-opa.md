@@ -14,3 +14,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | pas | RJ2004/4627 | 2005-01-28 | condenacao | opa | I.B. SABBÁ S/A Violação ao disposto nos artigos 12 da Instrução CVM nº 299/99 e 26 da Instrução CVM nº 361/02 - advertência. | cvm/pas/2005/rj2004-4627.md |
 | pas | RJ2004/5131 | 2004-12-17 | absolvicao | opa | Não caracterização de violação ao disposto no art. 9º e no Anexo I, item II, alínea “i”, da Instrução CVM nº 361/02 - Obrigação de submissão de material publicitário à CVM. Absolvição. | cvm/pas/2004/rj2004-5131.md |
 | pas | RJ2002/7635 | 2004-09-09 | condenacao | opa | Violação dos parágrafos 2º e 3º do art. 7º da Instrução CVM nº 361/02 - dever de diligência. | cvm/pas/2004/rj2002-7635.md |
+
+Fim do subíndice.

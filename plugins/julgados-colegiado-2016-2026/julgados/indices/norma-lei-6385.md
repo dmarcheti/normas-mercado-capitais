@@ -7,6 +7,51 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1487 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 55 |
+| art. 2º | 64 |
+| art. 3º | 132 |
+| art. 4º | 139 |
+| art. 5º | 198 |
+| art. 6º | 204 |
+| art. 8º | 212 |
+| art. 9º | 256 |
+| art. 11 | 589 |
+| art. 12 | 1027 |
+| art. 13 | 1034 |
+| art. 15 | 1056 |
+| art. 16 | 1094 |
+| art. 17 | 1108 |
+| art. 18 | 1117 |
+| art. 19 | 1129 |
+| art. 20 | 1190 |
+| art. 21 | 1206 |
+| art. 22 | 1241 |
+| art. 23 | 1250 |
+| art. 26 | 1279 |
+| art. 27-C | 1287 |
+| art. 27-D | 1294 |
+| art. 27-E | 1301 |
+| art. 28 | 1313 |
+| art. 31 | 1320 |
+| art. 32 | 1326 |
+| art. 33 | 1334 |
+| art. 34 | 1340 |
+| art. 58 | 1346 |
+| art. 90 | 1352 |
+| art. 99 | 1358 |
+| art. 133 | 1364 |
+| art. 140 | 1370 |
+| art. 170 | 1376 |
+| art. 231 | 1382 |
+| art. 235 | 1388 |
+| Citada sem dispositivo identificado | 1394 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1438,3 +1483,5 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 | decisao-colegiado | RJ2010/10742 | 2016-02-11 | conhecimento | processual | O Colegiado não conheceu do recurso da Agrenco Limited contra o arquivamento, pela SEP, de reclamação da acionista majoritária sobre administradores de subsidiárias, acompanhando o voto do relator. Fundamento: inadmissibilidade do recurso; processo devolvido à SEP. | cvm/colegiado/2016/col-20160211-d8627.md |
 | decisao-colegiado | — | 2016-01-12 | outro | normativo | O Colegiado aprovou a edição de minuta de Deliberação, apresentada pela Assessoria de Comunicação Social, que disciplina a reprodução e utilização da sigla, do logotipo e do slogan da CVM, vedando uso em desacordo com o Manual de Identidade Visual, e revoga a Deliberação CVM 502/2006. | cvm/colegiado/2016/col-20160112-d4655.md |
 | decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | infraestrutura-mercado | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art. 3º da Instrução CVM 542 (que não prevê bancos de desenvolvimento), condicionada ao cumprimento de todas as exigências da norma. | cvm/colegiado/2016/col-20160112-d0004.md |
+
+Fim do subíndice.

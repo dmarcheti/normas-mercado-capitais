@@ -5,7 +5,7 @@ Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `normas/` (a pasta do `indice.md`).
 
 Pareceres, ofícios-circulares e documentos de autorregulação do acervo que citam esta norma, por dispositivo. Extração por script (regex), sem conferência manual: abra o documento antes de citá-lo. Norma: `cvm/resolucoes/0023.md`.
-Um arquivo por artigo citado, nesta pasta (o índice passaria de 40 KB num arquivo só).
+Um arquivo por artigo citado, nesta pasta (o índice passaria de 39 KB num arquivo só).
 
 | Parte | Artigo | Citações | Arquivo |
 |---|---|---|---|

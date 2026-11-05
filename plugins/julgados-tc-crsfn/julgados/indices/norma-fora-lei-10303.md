@@ -115,3 +115,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2001/4652 | 2005-03-22 | aceito | assembleia-acionistas | Apreciação de proposta de termo de compromisso. PAS nº RJ2001/4652. | cvm/colegiado/2005/col-20050322-d02.md |
 | termo-compromisso | RJ2001/4652 | 2004-12-07 | outro | processual | O Colegiado não apreciou proposta de Termo de Compromisso apresentada pela companhia, que não era indiciada no PAS, e determinou o prosseguimento do feito com intimação dos indiciados. | cvm/colegiado/2004/col-20041207-d13.md |
 | termo-compromisso | IA19/2000 | 2002-05-29 | aceito | divulgacao-informacoes | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia. Auditores: atualização de sistemas de informação, seminário ou curso, contribuição voluntária de R$ 60.000,00 cada e, na Carbomil, sem emissão de valores mobiliários por dois anos. A PJU não viu óbice. | cvm/colegiado/2002/col-20020529-d3018.md |
+
+Fim do subíndice.

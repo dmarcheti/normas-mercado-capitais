@@ -63,3 +63,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.004938/2018-65 | 2020-01-14 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004938/2018-65. | cvm/colegiado/2020/col-20200114-d1363.md |
 | decisao-colegiado | 05/2018; RJ2015/8824 | 2018-11-14 | parcial | normativo | O Colegiado, por maioria, deferiu parcialmente o pedido da ANBIMA e prorrogou por 15 dias, até 14.12.18, o prazo de comentários à Audiência Pública SDM 05/2018, que propõe alterar a Instrução CVM 505/11 e revogar a Instrução CVM 380/02. O pedido era de 30 dias. Um diretor ficou vencido. | cvm/colegiado/2018/col-20181114-d1160.md |
 | decisao-colegiado | 505/2011; RJ2015/8824 | 2018-09-05 | outro | normativo | O Colegiado aprovou submeter à audiência pública minuta de instrução que altera a ICVM 505/11, sobre operações em mercados regulamentados. Incorpora controles internos de segurança da informação para intermediários e aperfeiçoa a norma com base na experiência de supervisão. Propõe revogar a ICVM 380/02. | cvm/colegiado/2018/col-20180905-d1160.md |
+
+Fim do subíndice.

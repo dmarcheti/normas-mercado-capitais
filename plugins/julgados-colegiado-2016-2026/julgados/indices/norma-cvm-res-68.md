@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0068.md](../../../normas/normas/cvm/resolucoes/0068.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre demonstrações financeiras; outra revoga normas; a 70 fixa escala de participação mínima para direitos da Lei 6.404. Sem audiência pública nem AIR, por não alterar obrigações vigentes. | cvm/colegiado/2022/col-20220315-d2516.md |
+
+Fim do subíndice.

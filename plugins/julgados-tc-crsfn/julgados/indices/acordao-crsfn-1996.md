@@ -29,3 +29,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 12/92 | 1996-02-15 | outro | processual | RECURSO DE OFÍCIO. Constituição de Comissão para abertura de inquérito com vistas à apuração de ilícito. Não cabimento de recurso. | crsfn/1996/1582.md |
 | 91/1181-6 | 1996-02-15 | absolvicao | intermediacao | RECURSO DE OFÍCIO. Ausência de registro de ordens no relógio datador. Registro de ordens fora do horário normal de mercado. Ausência de dois números na ordem numérica de ordens. Infrações não caracterizadas . | crsfn/1996/1581.md |
 | 11/88 | 1996-02-15 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço. Uso de práticas não equitativas em operações com opções. Descumprimento da Resolução 238/72 e da Instrução CVM 33/84. | crsfn/1996/1552.md |
+
+Fim do subíndice.

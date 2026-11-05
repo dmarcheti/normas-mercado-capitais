@@ -167,3 +167,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.011244/2019-65; RJ2019/9541 | 2020-07-14 | condenacao | assembleia-acionistas | Responsabilidade do Instituto de Previdência dos Servidores do Distrito Federal – IPREV/DF por ter participado e votado na eleição em separado de membro do conselho de administração do BRB – Banco de Brasília S.A. Infração ao art. 141, §§4º e 5º, da Lei nº 6.404/1976. Multa. Data decisão CVM Tue Jul 14 11:58:00 BRT 2020 | cvm/pas/2020/19957-011244-2019-65.md |
+
+Fim do subíndice.

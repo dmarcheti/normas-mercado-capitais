@@ -19,3 +19,5 @@ Norma: [bcb/circulares/3614.md](../../../normas/normas/bcb/circulares/3614.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008097/2019-46 | 2019-10-08 | provido | securitizacao | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra exigência da SRE no registro de oferta de CRI, que restringia a destinação de recursos a despesas de aquisição de imóvel incorridas nos 24 meses anteriores à oferta. Fundamento: a Lei 9.514/97 estaria atendida, pois a operação fomenta o mercado imobiliário. Contrariou a SRE, que manteve a exigência. | cvm/colegiado/2019/col-20191008-d1564.md |
 | decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | securitizacao | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas em até 24 meses antes do encerramento da oferta, desde que detalhadas no termo de securitização e verificadas pelo agente fiduciário. Contra a SRE. | cvm/colegiado/2019/col-20190702-d1365.md |
+
+Fim do subíndice.

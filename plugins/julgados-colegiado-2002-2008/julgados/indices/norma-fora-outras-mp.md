@@ -8,6 +8,57 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 511 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| mp-3 | 62 |
+| mp-8 | 70 |
+| mp-14 | 80 |
+| mp-32 | 95 |
+| mp-122 | 103 |
+| mp-175 | 112 |
+| mp-178 | 120 |
+| mp-200 | 130 |
+| mp-221 | 138 |
+| mp-338 | 146 |
+| mp-434 | 155 |
+| mp-449 | 163 |
+| mp-542 | 172 |
+| mp-1053 | 192 |
+| mp-1316 | 200 |
+| mp-1542 | 214 |
+| mp-1556 | 231 |
+| mp-1602 | 239 |
+| mp-1612 | 247 |
+| mp-1620 | 255 |
+| mp-1621 | 263 |
+| mp-1637 | 271 |
+| mp-1655 | 282 |
+| mp-1742 | 296 |
+| mp-1769 | 308 |
+| mp-1770 | 316 |
+| mp-1844 | 324 |
+| mp-1923 | 332 |
+| mp-1973 | 340 |
+| mp-1982 | 349 |
+| mp-1984 | 358 |
+| mp-2074 | 366 |
+| mp-2095 | 380 |
+| mp-2102 | 389 |
+| mp-2155 | 397 |
+| mp-2156 | 405 |
+| mp-2157 | 413 |
+| mp-2176 | 427 |
+| mp-2181 | 435 |
+| mp-2198 | 449 |
+| mp-2199 | 457 |
+| mp-2200 | 465 |
+| mp-2223 | 483 |
+| mp-2228 | 503 |
+
 ## mp-3
 
 ### Citada sem dispositivo identificado
@@ -456,3 +507,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 43 | decisao-colegiado | RJ2007/2623 | 2007-03-27 | outro | normativo | O Colegiado aprovou minuta apresentada pela área técnica que altera a Instrução 398/03 para adequá-la à Lei 11.437/06, que alterou o art. 43 da MP 2.228-1/01, sobre FUNCINE. | cvm/colegiado/2007/col-20070327-d03.md |
+
+Fim do subíndice.

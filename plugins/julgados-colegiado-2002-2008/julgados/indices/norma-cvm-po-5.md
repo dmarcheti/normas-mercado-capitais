@@ -17,3 +17,5 @@ Norma: [cvm/pareceres-orientacao/0005.md](../../../normas/normas/cvm/pareceres-o
 | decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | cvm/decisoes-antigas/1989.md |
 | decisao-antiga | — | 1982-01-07 | — | — | Decisões do colegiado de 1982. | cvm/decisoes-antigas/1982.md |
 | decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | cvm/decisoes-antigas/1979.md |
+
+Fim do subíndice.

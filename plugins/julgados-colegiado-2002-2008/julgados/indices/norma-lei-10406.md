@@ -7,6 +7,33 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1006 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (37); art. 18 (43); art. 44 (49); art. 50 (55); art. 55 (61); art. 70 (67); art. 79 (73); art. 82 (79)
+art. 85 (86); art. 104 (93); art. 112 (99); art. 113 (105); art. 114 (111); art. 115 (117); art. 120 (125)
+art. 121 (131); art. 125 (137); art. 129 (143); art. 130 (150); art. 131 (158); art. 138 (164); art. 145 (170)
+art. 148 (180); art. 151 (186); art. 152 (192); art. 159 (198); art. 161 (204); art. 166 (211); art. 167 (220)
+art. 172 (227); art. 177 (233); art. 178 (240); art. 187 (246); art. 193 (256); art. 199 (262); art. 202 (269)
+art. 205 (275); art. 223 (281); art. 224 (287); art. 229 (293); art. 236 (299); art. 252 (305); art. 253 (311)
+art. 254 (317); art. 255 (323); art. 256 (329); art. 286 (335); art. 295 (344); art. 331 (350); art. 346 (356)
+art. 347 (362); art. 394 (368); art. 422 (374); art. 423 (381); art. 429 (387); art. 460 (394); art. 472 (400)
+art. 473 (406); art. 476 (412); art. 483 (418); art. 524 (424); art. 527 (430); art. 536 (436); art. 587 (442)
+art. 654 (449); art. 662 (456); art. 677 (462); art. 678 (468); art. 679 (474); art. 680 (480); art. 681 (486)
+art. 682 (492); art. 683 (498); art. 684 (504); art. 685 (510); art. 686 (516); art. 687 (522); art. 688 (528)
+art. 689 (534); art. 690 (540); art. 691 (546); art. 692 (552); art. 693 (559); art. 694 (566); art. 695 (573)
+art. 696 (579); art. 697 (585); art. 698 (591); art. 699 (597); art. 700 (603); art. 701 (609); art. 702 (615)
+art. 703 (621); art. 704 (627); art. 705 (633); art. 706 (639); art. 707 (645); art. 708 (651); art. 709 (657)
+art. 768 (663); art. 805 (669); art. 831 (675); art. 889 (681); art. 896 (687); art. 934 (693); art. 954 (699)
+art. 963 (705); art. 985 (711); art. 986 (719); art. 989 (725); art. 1.052 (731); art. 1.060 (737)
+art. 1.061 (743); art. 1.062 (749); art. 1.065 (757); art. 1.066 (764); art. 1.067 (770); art. 1.068 (776)
+art. 1.069 (782); art. 1.070 (788); art. 1.071 (794); art. 1.072 (801); art. 1.073 (807); art. 1.074 (813)
+art. 1.075 (819); art. 1.076 (825); art. 1.077 (831); art. 1.078 (837); art. 1.087 (843); art. 1.088 (849)
+art. 1.089 (855); art. 1.133 (861); art. 1.190 (869); art. 1.228 (876); art. 1.232 (883); art. 1.275 (889)
+art. 1.314 (895); art. 1.320 (901); art. 1.322 (908); art. 1.343 (915); art. 1.518 (921); art. 2.368 (929)
+art. 2.373 (935); art. 2.377 (941); Citada sem dispositivo identificado (947)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -975,3 +1002,5 @@ Norma: [leis/lei-10406.md](../../../normas/normas/leis/lei-10406.md) (texto vige
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
+
+Fim do subíndice.

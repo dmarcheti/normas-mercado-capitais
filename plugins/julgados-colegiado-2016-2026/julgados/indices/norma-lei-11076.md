@@ -144,3 +144,5 @@ Norma: [leis/lei-11076.md](../../../normas/normas/leis/lei-11076.md) (texto vige
 | decisao-colegiado | RJ2015/1595 | 2020-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/1595. | cvm/colegiado/2020/col-20200317-d1753.md |
 | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | securitizacao | Por maioria, divergindo da área técnica, o Colegiado deu provimento a recurso contra exigência da SRE que excluía do lastro de CRI os empréstimos com pacto adjeto de alienação fiduciária de imóvel em garantia, e admitiu esses instrumentos como lastro. Por unanimidade, negou sustentação oral às recorrentes, em linha com a área técnica. | cvm/colegiado/2018/col-20180116-d0894.md |
 | decisao-colegiado | 19957.003690/2017-34 | 2017-05-16 | outro | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. SEI 19957.003690/2017-34. | cvm/colegiado/2017/col-20170516-d0677.md |
+
+Fim do subíndice.

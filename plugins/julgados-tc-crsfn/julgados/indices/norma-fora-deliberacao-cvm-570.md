@@ -63,3 +63,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.012433/2022-51 | 2023-04-11 | aceito | auditoria-independente | O Colegiado aceitou proposta conjunta de termo de compromisso de auditor independente pessoa jurídica (R$ 806.800,00) e de sócio (R$ 100.800,00), divergindo do Comitê, que sugeriu a rejeição, e em linha com a manifestação da SGE. Caso: relatórios de auditoria e de revisão de ITRs assinados por profissional não registrado na CVM (RCVM 23/2021, art. 1º e art. 2º, §1º). | cvm/colegiado/2023/col-20230411-d2836.md |
+
+Fim do subíndice.

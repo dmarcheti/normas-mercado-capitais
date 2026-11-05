@@ -12,3 +12,5 @@ Norma: [cmn/resolucoes/3441.md](../../../normas/normas/cmn/resolucoes/3441.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2006/6327; RJ2006/6406 | 2007-04-17 | parcial | ofertas-publicas | O Colegiado aprovou apenas a dispensa à IFC de reconciliação ao padrão contábil brasileiro e de tradução de documentos, conforme fatores de público, práticas internacionais e classificação de risco (Resolução CMN 3.441/07). Não concedeu os demais itens, por não haver informações alternativas ou justificativa individualizada. | cvm/colegiado/2007/col-20070417-d05.md |
+
+Fim do subíndice.

@@ -79,3 +79,5 @@ Norma: [leis/lei-08668.md](../../../normas/normas/leis/lei-08668.md) (texto vige
 |---|---|---|---|---|---|---|
 | decisao-colegiado | — | 2004-07-13 | outro | multa-cominatoria-taxa | O Colegiado, vencida uma diretora, deliberou suspender a cobrança da taxa de fiscalização da CVM sobre FIDC, na forma do parecer da PFE. Fundamento: não incidência com base na Tabela A da Lei 7.940/89, pelas mesmas razões aplicadas a fundos antes sujeitos ao Banco Central. | cvm/colegiado/2004/col-20040713-d05.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

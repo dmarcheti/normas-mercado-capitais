@@ -62,3 +62,5 @@ Norma: fora do acervo.
 | termo-compromisso | SP2002/0235 | 2005-05-16 | aceito | infraestrutura-mercado | O Colegiado indeferiu as propostas de termo de compromisso da Telles Comercial e Corretora de Mercadorias Ltda. e de três pessoas físicas, com base no voto do relator, por não atenderem ao art. 11, §5º, II, da Lei 6.385/76. Acolheu a proposta da BM&F e de seu diretor-geral, suspendendo em relação a eles o PAS 04/01 e o PAS SP2002/0235. | cvm/colegiado/2005/col-20050516-d01.md |
 | termo-compromisso | 37/00 | 2004-11-03 | rejeitado | outros | O Colegiado negou a proposta de termo de compromisso apresentada pela BM&F e por um proponente pessoa física no PAS CVM 37/00. Acompanhou o voto do relator, que considerou as condutas extremamente graves e o julgamento necessário. | cvm/colegiado/2004/col-20041103-d06.md |
 | termo-compromisso | RJ2002/4778 | 2003-07-29 | aceito | outros | O Colegiado, acompanhando o voto do diretor relator, aprovou a proposta de termo de compromisso da Sprind DTVM Ltda. condicionada à fixação do valor de ressarcimento por prejuízos e à identificação de seu destinatário. | cvm/colegiado/2003/col-20030729-d06.md |
+
+Fim do subíndice.

@@ -67,3 +67,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 01/2010; SP2010/0037 | 2011-04-19 | outro | normativo | O Colegiado aprovou, após a Audiência Pública 01/2010, Instrução que revoga a Instrução 40/84 e reformula a regulamentação dos clubes de investimento, e outra sobre elaboração e divulgação de suas demonstrações financeiras. | cvm/colegiado/2011/col-20110419-d09.md |
 | decisao-colegiado | RJ2010/9233 | 2010-09-09 | deferido | fundos-investimento | O Colegiado deferiu pedido da Tarpon Investimentos S.A. para venda privada de ações da BrasilAgro integrantes de carteiras de seis fundos e um clube, com base no art. 64, VI, da Instrução 409/04, em execução de acordo com a Cresud. Acompanhou a SIN, que citou precedentes, preço vantajoso aos cotistas e anuência dos administradores dos fundos. | cvm/colegiado/2010/col-20100909-d10.md |
 | decisao-colegiado | — | 2010-02-10 | outro | normativo | O Colegiado aprovou, para audiência pública de sessenta dias, a minuta de Instrução que reformula a regulamentação dos Clubes de Investimentos (Instrução 40/84). A SDM consolidará as sugestões e comentários recebidos. | cvm/colegiado/2010/col-20100210-d01.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [cvm/instrucoes/0489.md](../../../normas/normas/cvm/instrucoes/0489.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | auditoria-independente | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva, deixando de observar o disposto nas normas profissionais de auditoria independente. Recurso conhecido e desprovido. | crsfn/2018/14420.md |
+
+Fim do subíndice.

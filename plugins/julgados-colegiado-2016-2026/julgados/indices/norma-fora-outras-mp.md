@@ -8,6 +8,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 368 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| mp-2 | 50 |
+| mp-4 | 58 |
+| mp-8 | 66 |
+| mp-110 | 74 |
+| mp-193 | 82 |
+| mp-221 | 90 |
+| mp-449 | 99 |
+| mp-472 | 108 |
+| mp-517 | 116 |
+| mp-539 | 125 |
+| mp-579 | 133 |
+| mp-656 | 142 |
+| mp-780 | 150 |
+| mp-784 | 158 |
+| mp-881 | 172 |
+| mp-892 | 181 |
+| mp-897 | 195 |
+| mp-928 | 205 |
+| mp-983 | 216 |
+| mp-1040 | 236 |
+| mp-1072 | 253 |
+| mp-1103 | 263 |
+| mp-1520 | 274 |
+| mp-1637 | 282 |
+| mp-1788 | 292 |
+| mp-2042 | 300 |
+| mp-2110 | 308 |
+| mp-2181 | 316 |
+| mp-2189 | 325 |
+| mp-2199 | 333 |
+| mp-2200 | 341 |
+| mp-2223 | 360 |
+
 ## mp-2
 
 ### art. 14
@@ -325,3 +364,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | cvm/colegiado/2017/col-20170626-d0603.md |
+
+Fim do subíndice.

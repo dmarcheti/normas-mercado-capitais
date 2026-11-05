@@ -7,6 +7,59 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1232 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 63 |
+| art. 2º | 71 |
+| art. 3º | 100 |
+| art. 4º | 109 |
+| art. 5º | 120 |
+| art. 6º | 135 |
+| art. 7º | 143 |
+| art. 10 | 149 |
+| art. 14 | 156 |
+| art. 15 | 170 |
+| art. 16 | 177 |
+| art. 17 | 183 |
+| art. 18 | 192 |
+| art. 19 | 198 |
+| art. 21 | 204 |
+| art. 21-A | 437 |
+| art. 22 | 443 |
+| art. 23 | 450 |
+| art. 24 | 497 |
+| art. 25 | 534 |
+| art. 26 | 570 |
+| art. 27 | 582 |
+| art. 28 | 591 |
+| art. 29 | 610 |
+| art. 29-A | 734 |
+| art. 30 | 756 |
+| art. 31 | 772 |
+| art. 34 | 779 |
+| art. 36 | 788 |
+| art. 38 | 801 |
+| art. 40 | 807 |
+| art. 41 | 813 |
+| art. 47 | 819 |
+| art. 48 | 836 |
+| art. 50 | 865 |
+| art. 52 | 877 |
+| art. 53 | 889 |
+| art. 54 | 898 |
+| art. 55 | 912 |
+| art. 56 | 920 |
+| art. 58 | 933 |
+| art. 59 | 1103 |
+| art. 60 | 1111 |
+| art. 62 | 1120 |
+| Anexo III, art. 1º | 1127 |
+| Citada sem dispositivo identificado | 1133 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1175,3 +1228,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 480/2009; RJ2010/7374 | 2016-10-19 | — | registro-emissor | O Colegiado iniciou a discussão da proposta de alteração da Instrução CVM 480/2009, sobre registro de emissores de valores mobiliários admitidos à negociação, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20161019-d3185.md |
 | decisao-colegiado | 480/2009; RJ2010/7374 | 2016-08-31 | outro | normativo | O Colegiado discutiu os pontos do Código Único de Governança Corporativa para Companhias Abertas que não obtiveram unanimidade no Grupo de Trabalho Interagentes e fixou diretrizes para alterar a Instrução CVM 480/2009, incorporando ao formulário de referência a divulgação das informações do Código. | cvm/colegiado/2016/col-20160831-d3185.md |
 | decisao-colegiado | RJ2013/10047 | 2016-04-27 | outro | normativo | Para audiência pública – programa de distribuição de debêntures. Proc. RJ2013/10047. | cvm/colegiado/2016/col-20160427-d3324.md |
+
+Fim do subíndice.

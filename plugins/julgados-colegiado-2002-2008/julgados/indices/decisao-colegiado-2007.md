@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 505 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2007-12 | 29 |
+| 2007-11 | 74 |
+| 2007-10 | 123 |
+| 2007-09 | 196 |
+| 2007-08 | 229 |
+| 2007-07 | 260 |
+| 2007-06 | 316 |
+| 2007-05 | 362 |
+| 2007-04 | 397 |
+| 2007-03 | 425 |
+| 2007-02 | 449 |
+| 2007-01 | 476 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | SP2007/0209 | 2007-12-18 | outro | infraestrutura-mercado | O Colegiado não acolheu reclamações da TOV CCTVM sobre convocação da AGE da BM&F, desmutualização e demonstrações financeiras, por não haver violação às normas de bolsas e por justificar-se a alteração do critério de avaliação. Aguardará o litígio sobre a atualização dos títulos. | cvm/colegiado/2007/col-20071218-d15.md |
@@ -482,3 +501,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2006/8152 | 2007-01-09 | provido | multa-cominatoria-taxa | Recurso contra a decisão da SIN de aplicação de multa cominatória. Proc. RJ2006/8152. | cvm/colegiado/2007/col-20070109-d02.md |
 | 20/2003 | 2007-01-09 | outro | processual | O Colegiado arquivou o PAS 20/2003 quanto aos indiciados, pois a área responsável atestou o cumprimento integral do Termo de Compromisso celebrado pela Sprind Consultoria e Participações Ltda., sucessora da Sprind DTVM Ltda., e um dos indiciados. | cvm/colegiado/2007/col-20070109-d01.md |
 | RJ2006/6221; RJ2006/9503; RJ2006/8192 | 2007-01-03 | parcial | registro-emissor | O Colegiado suspendeu a contagem do prazo de exigências de registro inicial do Banco Santander Banespa S.A. até manifestação do Banco Central sobre a reestruturação societária e concedeu prazo suplementar de 60 dias após a homologação. Quanto à 3ª ITR de 2006, determinou fato relevante com alertas e nota explicativa. | cvm/colegiado/2007/col-20070103-d02.md |
+
+Fim do subíndice.

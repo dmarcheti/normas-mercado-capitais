@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0145.md](../../../normas/normas/cvm/resolucoes/0145.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/3578 | 2014-11-04 | provido | assembleia-acionistas | O Colegiado deu provimento ao recurso da MODAL, gestora de fundo acionista, contra decisão da SEP que impediu sua participação em AGE de companhia aberta. Permitiu que as companhias adotem, a partir da publicação, a interpretação de que pessoas jurídicas podem se representar por representantes legais ou mandatários. | cvm/colegiado/2014/col-20141104-d17.md |
+
+Fim do subíndice.

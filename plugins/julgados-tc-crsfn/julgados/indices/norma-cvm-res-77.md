@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0077.md](../../../normas/normas/cvm/resolucoes/0077.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | informacao-privilegiada | O Colegiado aceitou proposta conjunta de termo de compromisso da companhia aberta e de seu diretor de RI, acusados de negociar ações da própria emissão em período vedado (RCVM 44, art. 14), no contexto de recompra, após comunicação espontânea. Acompanhou o parecer do Comitê; o Presidente destacou que a autodenúncia deve ser valorizada pela CVM. | cvm/colegiado/2023/col-20231010-d2942.md |
+
+Fim do subíndice.

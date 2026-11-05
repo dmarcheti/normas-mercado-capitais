@@ -8,6 +8,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2634 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+lei-0 (50); lei-2 (85); lei-3 (106); lei-4 (114); lei-5 (123); lei-6 (137); lei-7 (168); lei-8 (182)
+lei-9 (202); lei-10 (212); lei-11 (221); lei-12 (241); lei-21 (250); lei-25 (258); lei-35 (266); lei-59 (274)
+lei-105 (282); lei-264 (291); lei-385 (299); lei-689 (307); lei-1290 (315); lei-1521 (323); lei-2303 (333)
+lei-3385 (343); lei-3404 (351); lei-3467 (359); lei-3685 (367); lei-3890 (375); lei-4131 (389); lei-4320 (406)
+lei-4404 (414); lei-4505 (422); lei-4591 (430); lei-4595-1976 (443); lei-4680 (451); lei-4717 (459)
+lei-4737 (477); lei-5230 (485); lei-5250 (493); lei-5285 (501); lei-5385 (509); lei-5474 (517); lei-5869 (526)
+lei-6015 (540); lei-6105 (599); lei-6285 (607); lei-6338 (615); lei-6358 (624); lei-6376 (638); lei-6382 (646)
+lei-6383 (654); lei-6384 (662); lei-6385-1964 (678); lei-6385-1971 (686); lei-6385-1974 (695)
+lei-6385-1979 (705); lei-6385-1986 (729); lei-6385-1999 (737); lei-6385-2007 (751); lei-6385-2011 (759)
+lei-6385-2019 (767); lei-6387 (775); lei-6389 (797); lei-6395 (805); lei-6404-1946 (829); lei-6404-1964 (837)
+lei-6404-1974 (852); lei-6404-1978 (899); lei-6404-1979 (907); lei-6404-2016 (915); lei-6406 (923)
+lei-6435 (950); lei-6474 (958); lei-6494 (966); lei-6496 (975); lei-6604 (983); lei-6606 (997)
+lei-6813 (1005); lei-6830 (1013); lei-6838 (1034); lei-7209 (1057); lei-7437 (1073); lei-7827 (1082)
+lei-7828 (1090); lei-7940 (1098); lei-7942 (1110); lei-8021 (1124); lei-8036 (1134); lei-8069 (1142)
+lei-8072 (1150); lei-8078 (1164); lei-8117 (1181); lei-8137 (1189); lei-8167 (1205); lei-8177 (1225)
+lei-8180 (1233); lei-8200 (1241); lei-8212 (1249); lei-8218 (1276); lei-8245 (1284); lei-8249 (1292)
+lei-8383 (1300); lei-8630 (1314); lei-8666 (1322); lei-8685 (1352); lei-8742 (1361); lei-8873 (1369)
+lei-8906 (1377); lei-8929-1997 (1425); lei-8934 (1433); lei-8935 (1448); lei-8951 (1456); lei-8987 (1464)
+lei-9034 (1496); lei-9065 (1507); lei-9074 (1515); lei-9099 (1523); lei-9131 (1531); lei-9249 (1539)
+lei-9295 (1560); lei-9311 (1568); lei-9358 (1580); lei-9387 (1588); lei-9404 (1596); lei-9427 (1604)
+lei-9430 (1612); lei-9447 (1626); lei-9472 (1635); lei-9475 (1655); lei-9477 (1663); lei-9478 (1673)
+lei-9491 (1681); lei-9494 (1689); lei-9517 (1703); lei-9532 (1711); lei-9605 (1719); lei-9656 (1762)
+lei-9714 (1775); lei-9717 (1784); lei-9718 (1793); lei-9785 (1807); lei-9790 (1815); lei-9794 (1823)
+lei-9817 (1831); lei-9837 (1847); lei-9841 (1857); lei-9868 (1865); lei-9872 (1876); lei-9964 (1893)
+lei-9973 (1901); lei-9983 (1915); lei-10150 (1924); lei-10177 (1944); lei-10217 (1952); lei-10313 (1963)
+lei-10352 (1971); lei-10411 (1979); lei-10628 (1990); lei-10684 (1998); lei-10755 (2006); lei-10848 (2050)
+lei-11052 (2058); lei-11196 (2069); lei-11343 (2090); lei-11371 (2104); lei-11419 (2114); lei-11529 (2122)
+lei-11598 (2130); lei-11689 (2143); lei-11719 (2151); lei-11942 (2162); lei-11945 (2170); lei-11971 (2178)
+lei-12016 (2186); lei-12211 (2194); lei-12234 (2202); lei-12249 (2211); lei-12276 (2219); lei-12304 (2227)
+lei-12351 (2235); lei-12376 (2243); lei-12527 (2256); lei-12529 (2283); lei-12548 (2302); lei-12683 (2314)
+lei-12783 (2328); lei-12813 (2337); lei-12838 (2351); lei-12846 (2360); lei-12850 (2376); lei-12865 (2411)
+lei-12996 (2421); lei-13043 (2430); lei-13303 (2438); lei-13494 (2487); lei-13505 (2497); lei-13655 (2505)
+lei-13665 (2534); lei-13848 (2542); lei-13869 (2550); lei-13979 (2558); lei-14133 (2577); lei-14195 (2585)
+lei-14230 (2593); lei-14317 (2601); lei-14905 (2610); lei-101303 (2618); lei-640476 (2626)
+
 ## lei-0
 
 ### art. 11
@@ -2591,3 +2630,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | IA-2008-10 | 2014-12-09 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Exercício irregular da atividade de administração de carteira – Utilização de informação privilegiada – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2014/13283.md |
+
+Fim do subíndice.

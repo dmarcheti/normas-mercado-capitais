@@ -32,3 +32,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2014/12058 | 2019-03-22 | condenacao | auditoria-independente | RECURSOS VOLUNTÁRIOS. Emissão de parecer sem ressalva em dois exercícios consecutivos onde dividendos antecipados foram incorretamente registrados no ativo. Patrimônio Líquido informado nas demonstrações se mostrava maior do que o correto. Infração configurada. Multas aplicadas adequadas e dentro dos padrões adotados em casos similares pela CVM. Recursos conhecidos e não providos. | crsfn/2019/10372-100147-2017-81.md |
 | RJ2011/2595 | 2019-02-26 | outro | processual | EMBARGOS DE DECLARAÇÃO. Inexistência de omissão. Conhecidos e desprovidos. | crsfn/2019/edcl-14180.md |
 | RJ2016/2159 | 2019-02-26 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS. Irregularidades contábeis na elaboração das demonstrações financeiras da Companhia. Abstenção de opinião do auditor independente. Descumprimento dos deveres de diligência e de fiscalização. Recursos não providos. | crsfn/2019/10372-100258-2018-78.md |
+
+Fim do subíndice.

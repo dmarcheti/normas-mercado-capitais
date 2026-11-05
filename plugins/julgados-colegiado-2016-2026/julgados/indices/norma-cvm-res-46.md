@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0046.md](../../../normas/normas/cvm/resolucoes/0046.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 450 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 34 |
+| art. 3º | 94 |
+| art. 4º | 102 |
+| art. 5º | 150 |
+| art. 6º | 162 |
+| art. 7º | 187 |
+| art. 8º | 201 |
+| art. 9º | 207 |
+| art. 10 | 215 |
+| art. 11 | 249 |
+| art. 12 | 269 |
+| art. 13 | 279 |
+| art. 14 | 288 |
+| art. 15 | 294 |
+| art. 16 | 353 |
+| art. 18 | 394 |
+| Citada sem dispositivo identificado | 400 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -422,3 +446,5 @@ Norma: [cvm/resolucoes/0046.md](../../../normas/normas/cvm/resolucoes/0046.md) (
 | decisao-colegiado | 19957.007233/2021-03 | 2021-11-16 | nao-provido | administracao-carteiras | O Colegiado, por unanimidade, negou provimento a recurso contra decisão da SIN que indeferiu o credenciamento de pessoa natural como administrador de carteiras, por falta da certificação do art. 3º, III, da Resolução CVM nº 21/2021 e de notório saber não comprovado. Acompanhou a área técnica. | cvm/colegiado/2021/col-20211116-d2385.md |
 | decisao-colegiado | 19957.006955/2021-32 | 2021-11-03 | nao-provido | administracao-carteiras | O Colegiado negou provimento, por unanimidade, a recurso contra o indeferimento de credenciamento de pessoa natural como administrador de carteiras, acompanhando a SIN. Faltou a certificação exigida (art. 3º, III, Resolução CVM 21/2021), e não se comprovou o notório saber. | cvm/colegiado/2021/col-20211103-d2365.md |
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | normativo | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no Colegiado (46), multas cominatórias (47) e uso da sigla e logotipo (49). Dispensou audiência pública e AIR, por não alterarem o mérito das obrigações. | cvm/colegiado/2021/col-20210811-d2277.md |
+
+Fim do subíndice.

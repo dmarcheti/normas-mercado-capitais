@@ -193,3 +193,5 @@ Norma: fora do acervo.
 | pas | RJ2018/4585 | 2019-11-26 | absolvicao | assembleia-acionistas | Participação em separado, por parte do Banco BTG Pactual S.A, da eleição para membro do conselho fiscal da Gerdau S.A. Infração do art. 161, §4º, “a” da lei nº 6.404/76. Absolvição. Data decisão CVM Tue Nov 26 15:14:00 BRST 2019 | cvm/pas/2019/rj2018-4585.md |
 | pas | RJ2015/12087 | 2018-07-24 | parcial | administracao-carteiras | Violação dos deveres fiduciários estabelecidos no art. 65-A, da Instrução CVM nº 409/04. Irregularidades na administração de fundos de investimento. Operações irregulares no mercado de valores mobiliários. Absolvições, inabilitação e multa. | cvm/pas/2018/rj2015-12087.md |
 | pas | RJ2012/12201 | 2015-08-04 | condenacao | fundos-investimento | Desenquadramento da carteira do fundo de investimento - descumprimento do dever do administrador de um fundo de investimento de fiscalizar os serviços prestados por terceiros contratados pelo Fundo. Multas. | cvm/pas/2015/rj2012-12201.md |
+
+Fim do subíndice.

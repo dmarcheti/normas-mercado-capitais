@@ -62,3 +62,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | cvm/colegiado/2007/col-20070807-d03.md |
+
+Fim do subíndice.

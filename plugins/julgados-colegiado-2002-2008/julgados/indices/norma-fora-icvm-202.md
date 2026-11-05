@@ -7,6 +7,32 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 880 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 4º | 36 |
+| art. 5º | 51 |
+| art. 6º | 58 |
+| art. 7º | 73 |
+| art. 8º | 106 |
+| art. 10 | 117 |
+| art. 11 | 125 |
+| art. 12 | 134 |
+| art. 13 | 141 |
+| art. 14 | 196 |
+| art. 15 | 218 |
+| art. 16 | 224 |
+| art. 17 | 653 |
+| art. 18 | 702 |
+| art. 19 | 786 |
+| art. 20 | 802 |
+| art. 22 | 808 |
+| art. 23 | 816 |
+| Citada sem dispositivo identificado | 824 |
+
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -850,3 +876,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/1981 | 2002-05-14 | outro | securitizacao | O Colegiado acompanhou o voto que respondeu consulta da WT Administradora sobre CRIs lastreados em aluguéis de galpões industriais. Considerou essenciais o regime fiduciário e a alienação fiduciária dos imóveis, e imprescindível esclarecer aos investidores que a hipoteca só se levanta com a colocação dos CRIs e os riscos de rescisão dos contratos de locação. | cvm/colegiado/2002/col-20020514-d01.md |
 | decisao-colegiado | RJ2001/8002 | 2002-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2001/8002. | cvm/colegiado/2002/col-20020319-d17.md |
 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |
+
+Fim do subíndice.

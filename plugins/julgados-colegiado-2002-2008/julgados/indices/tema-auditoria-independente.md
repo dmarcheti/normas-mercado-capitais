@@ -41,3 +41,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2003-09-19 | outro | auditoria-independente | O Colegiado decidiu não alterar o rodízio de firmas de auditoria da Instrução CVM 308/99, pedido por entidades de mercado. Fundamento: regra vigente há mais de quatro anos, sem razão determinante para mudança imediata. Determinou que SNC e PFE examinem a Resolução CFC 965/03 sobre troca de líderes. | cvm/colegiado/2003/col-20030919-d01.md |
 | decisao-colegiado | — | 2003-03-25 | outro | auditoria-independente | O Colegiado aprovou a minuta de instrução sobre auditoria independente nos fundos de investimento financeiro, nos fundos de aplicação em quotas de fundos de investimento financeiro e nos fundos de investimento no exterior (versão de 21.03.03). | cvm/colegiado/2003/col-20030325-d05.md |
 | decisao-colegiado | — | 2002-10-10 | outro | auditoria-independente | O Colegiado aprovou a colocação em audiência pública da minuta de instrução sobre a divulgação de outros serviços prestados pelo auditor independente concomitantemente à auditoria contábil. | cvm/colegiado/2002/col-20021010-d02.md |
+
+Fim do subíndice.

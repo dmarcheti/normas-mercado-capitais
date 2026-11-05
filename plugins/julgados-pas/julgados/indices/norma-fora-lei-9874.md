@@ -60,3 +60,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | 19957.006548/2019-19 | 2022-10-25 | absolvicao | auditoria-independente | Irregularidades em trabalhos de auditoria, em violação aos arts. 20 e 25 da Instrução CVM nº 308/1999. Absolvições. | cvm/pas/2022/19957-006548-2019-19.md |
 | pas | RJ2013/11703 | 2018-07-31 | absolvicao | deveres-administradores | Apuração de responsabilidade dos membros do conselho de administração da HRT Participações em Petróleo S.A. na elaboração, aprovação e implementação do Severance Package em suposto desvio de poder. Art. 154 da Lei nº 6.404/76. Absolvições. | cvm/pas/2018/rj2013-11703.md |
+
+Fim do subíndice.

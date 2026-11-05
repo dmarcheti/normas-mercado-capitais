@@ -70,3 +70,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | SP2009/0054 | 2016-03-15 | outro | outros | O Colegiado determinou o arquivamento do processo após as áreas SAD e SMI atestarem o cumprimento do termo de compromisso aprovado em 29.11.2011, sem obrigação adicional a cumprir. | cvm/colegiado/2016/col-20160315-d8021.md |
 | decisao-colegiado | RJ2013/11716 | 2016-03-08 | outro | outros | Cumprimento de termo de compromisso. Proc. RJ2013/11716. | cvm/colegiado/2016/col-20160308-d9790.md |
 | decisao-colegiado | RJ2014/9501 | 2016-02-16 | outro | outros | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso (PAS RJ2014/9501), por considerar, conforme manifestação da SAD, que o pagamento foi feito na forma convencionada e que não há obrigação adicional a cumprir. | cvm/colegiado/2016/col-20160216-d9772.md |
+
+Fim do subíndice.

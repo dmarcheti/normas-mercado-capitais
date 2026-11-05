@@ -46,3 +46,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/2111 | 2009-11-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2111. | cvm/colegiado/2009/col-20091117-d09.md |
 | decisao-colegiado | RJ1999/3874 | 2009-02-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3874. | cvm/colegiado/2009/col-20090217-d01.md |
 | decisao-colegiado | RJ2002/3630 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3630. | cvm/colegiado/2009/col-20090106-d03.md |
+
+Fim do subíndice.

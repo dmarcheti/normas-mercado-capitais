@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 788 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (25); art. 2º (31); art. 4º (41); art. 7º (47); art. 10 (54); art. 11 (60); art. 12 (66); art. 13 (79)
+art. 15 (85); art. 16 (92); art. 17 (100); art. 19 (107); art. 20 (114); art. 22 (120); art. 23 (126)
+art. 24 (134); art. 25 (142); art. 29 (148); art. 30 (154); art. 39 (168); art. 40 (174); art. 41 (180)
+art. 43 (186); art. 44 (192); art. 45 (199); art. 47 (205); art. 50 (217); art. 53 (223); art. 55 (229)
+art. 56 (236); art. 57 (247); art. 58 (255); art. 59 (261); art. 64 (269); art. 65 (299); art. 68 (309)
+art. 71 (316); art. 72 (437); art. 74 (443); art. 75 (449); art. 76 (455); art. 81 (461); art. 84 (467)
+art. 85 (473); art. 86 (479); art. 87 (488); art. 88 (498); art. 89 (504); art. 90 (510); art. 91 (517)
+art. 92 (524); art. 93 (530); art. 94 (536); art. 95 (542); art. 99 (548); art. 102 (555); art. 104 (564)
+art. 105 (571); art. 109 (578); art. 110 (610); art. 111 (622); art. 112 (628); art. 118 (638)
+art. 119-A (728); art. 123 (735); art. 124 (741); Citada sem dispositivo identificado (750)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -769,3 +784,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2005-01-11 | deferido | fundos-investimento | Por solicitação da SIN, o Colegiado prorrogou excepcionalmente para 10/03/2005 o prazo de envio do Perfil Mensal referente a dez/04, jan/05 e fev/05. Decidiu ainda que o Extrato de Informações sobre o Fundo passará a ter padrão XML de envio eletrônico, com data e prazo a serem informados pela SIN por Ofício-Circular. | cvm/colegiado/2005/col-20050111-d13.md |
 | decisao-colegiado | — | 2004-12-30 | outro | fundos-investimento | O Colegiado aprovou, por unanimidade, minuta que altera os arts. 41, 68, 96, 99, 116 e 124 e o título do Capítulo XIV da Instrução CVM 409/04, que trata da constituição, administração, funcionamento e divulgação de informações dos fundos de investimento. | cvm/colegiado/2004/col-20041230-d02.md |
 | decisao-colegiado | 12/03 | 2004-11-23 | outro | processual | O Colegiado, acompanhando o voto da relatora, afirmou a competência da CVM para concluir processos sancionadores oriundos do Banco Central, que passaram à CVM com a Lei 10.303/01. Penas limitadas às da Lei 6.385/76, e às da Lei 4.595/64 se inferiores. Reaberta a defesa dos indiciados após nova comunicação das penalidades. | cvm/colegiado/2004/col-20041123-d07.md |
+
+Fim do subíndice.

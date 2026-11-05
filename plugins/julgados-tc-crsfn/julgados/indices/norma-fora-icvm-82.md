@@ -91,3 +91,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 03/95 | 2010-08-18 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários - Prática não-equitativa - Manipulação de preços ocorrida em negócios realizados em bolsa de valores - Irregularidade caracterizada – Recursos a que se nega provimento. | crsfn/2010/11208.md |
 | acordao-crsfn | 15/97 | 2008-06-23 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS – Pedido de Revisão - Mercado de valores mobiliários – Realização de operações day- trade em detrimento de fundações de seguridade social – Não conhecimento. | crsfn/2008/4321-2.md |
 | acordao-crsfn | 11/98 | 2005-06-28 | condenacao | intermediacao | RECURSO VOLUNTÁRIO - . Mercado de valores mobiliários – Indevida movimentação da custódia de valores mobiliários de clientes – Ausência de pactuação entre a sociedade corretora e os clientes para liquidação, pela pessoa jurídica, com posterior ressarcimento, de débitos existentes em bolsa de mercadorias e futuros – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2005/4995.md |
+
+Fim do subíndice.

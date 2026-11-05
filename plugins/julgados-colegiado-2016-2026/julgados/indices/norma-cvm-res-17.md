@@ -47,3 +47,5 @@ Norma: [cvm/resolucoes/0017.md](../../../normas/normas/cvm/resolucoes/0017.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.008816/2018-48; 19957.008143/2018-26; 19957.010958/2018-75 | 2022-08-30 | indeferido | processual | O Colegiado reconheceu a inexistência de conexão entre três PAS sobre emissões de debêntures distintas, acompanhando o voto do relator: não há contexto fático comum que justifique julgamento conjunto (art. 36 da Resolução CVM nº 45/2021). | cvm/colegiado/2022/col-20220830-d1497-1535-e-1572.md |
 | decisao-colegiado | 19957.000808/2021-59 | 2021-02-09 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 17/2020, sobre o exercício da função de agente fiduciário, revisando e consolidando a ICVM 583/2016 sem mudança de mérito, como determinado pelo Decreto 10.139/2019. Não submetida a audiência pública (art. 22 da Portaria CVM/PTE 190/2019) e dispensada de AIR (art. 12, §1º, II). | cvm/colegiado/2021/col-20210209-d2056.md |
+
+Fim do subíndice.

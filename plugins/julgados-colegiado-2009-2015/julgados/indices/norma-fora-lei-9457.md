@@ -58,3 +58,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | opa | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm/colegiado/2009/col-20090715-d01-r2.md |
 | decisao-colegiado | RJ2008/10808 | 2009-03-10 | provido | ofertas-publicas | O Colegiado deu provimento a recurso da Taípe Trancoso Empreendimentos S.A. contra a SEP, que condicionara a negociação de ações no balcão organizado à oferta pública ou a prospecto. Fundamento do voto de vista de um diretor: ausência de esforço organizado de colocação junto a terceiros, o que dispensa o prospecto (art. 2º da Instrução CVM 400/03). | cvm/colegiado/2009/col-20090310-d01-r2.md |
 | decisao-colegiado | RJ2008/10808 | 2009-03-03 | — | ofertas-publicas | Recurso da Taípe Trancoso Empreendimentos S.A. contra entendimento da SEP que condicionou a negociação de seus valores mobiliários no balcão organizado (SOMA) a oferta pública ou prospecto. O relator votou contra o entendimento da SEP, por não ver necessidade de oferta pública nem de prospecto. Julgamento suspenso por pedido de vista. | cvm/colegiado/2009/col-20090303-d12.md |
+
+Fim do subíndice.

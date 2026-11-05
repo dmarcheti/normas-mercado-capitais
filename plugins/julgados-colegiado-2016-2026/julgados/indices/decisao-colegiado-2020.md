@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 422 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2020-12 | 29 |
+| 2020-11 | 63 |
+| 2020-10 | 99 |
+| 2020-09 | 126 |
+| 2020-08 | 167 |
+| 2020-07 | 197 |
+| 2020-06 | 229 |
+| 2020-05 | 260 |
+| 2020-04 | 290 |
+| 2020-03 | 317 |
+| 2020-02 | 349 |
+| 2020-01 | 396 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 19957.008277/2020-61 | 2020-12-22 | provido | ofertas-publicas | O Colegiado deu provimento a recurso contra decisão da SRE e da SEP que negou dispensa de prospecto e de atualização do formulário de referência em oferta de debêntures. Por maioria, restringiu a negociação no mercado secundário a investidores qualificados até reapresentação do formulário (art. 4º, §5º, ICVM 400). | cvm/colegiado/2020/col-20201222-d2024.md |
@@ -399,3 +418,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.009481/2019-66 | 2020-01-14 | deferido | fundos-investimento | O Colegiado deferiu os pedidos reapresentados pela Santander Securities Services Brasil DTVM para FIC-FIDC e FIDCs de infraestrutura (ICVM 356, art. 39, §2º, e patrimônio autorizado), acompanhando a SIN. | cvm/colegiado/2020/col-20200114-d1617.md |
 | 19957.004938/2018-65 | 2020-01-14 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004938/2018-65. | cvm/colegiado/2020/col-20200114-d1363.md |
 | 14/2013; 19957.000671/2020-51 | 2020-01-14 | outro | processual | O Colegiado, por unanimidade, redistribuiu o PAS 14/2013 a outra diretora, por conexão com o PAS RJ2014/3161, nos termos do art. 36, §3º, da ICVM 607/19, acatando proposta da diretora. | cvm/colegiado/2020/col-20200114-d0124.md |
+
+Fim do subíndice.

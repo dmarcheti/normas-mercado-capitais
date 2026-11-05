@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0089.md](../../../normas/normas/cvm/resolucoes/0089.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 01/2022; 19957.010310/2021-02 | 2022-05-04 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM 89/2022, após a Audiência Pública SNC 01/2022, que torna obrigatório às companhias abertas o Documento de Revisão de Pronunciamentos Técnicos CPC 20. A norma incorpora alterações sobre extensão da isenção temporária do IFRS 9, estimativas contábeis, políticas contábeis e imposto diferido; a alteração de passivo circulante foi retirada. | cvm/colegiado/2022/col-20220504-d2448.md |
+
+Fim do subíndice.

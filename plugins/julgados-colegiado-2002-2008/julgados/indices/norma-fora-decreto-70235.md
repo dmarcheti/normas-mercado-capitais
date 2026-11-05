@@ -48,3 +48,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a taxa de fiscalização. Proc. RJ99/2838. | cvm/colegiado/2004/col-20040824-d03.md |
 | decisao-colegiado | — | 2003-04-29 | outro | normativo | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para o arrolamento de bens e direitos previsto no Decreto 70.235/72, modificado pela Lei 10.522/02. | cvm/colegiado/2003/col-20030429-d01.md |
+
+Fim do subíndice.

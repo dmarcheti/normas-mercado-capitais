@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 401 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 45 |
+| art. 2º | 51 |
+| art. 3º | 77 |
+| art. 8º | 99 |
+| art. 9º | 131 |
+| art. 12 | 137 |
+| art. 15 | 143 |
+| art. 18-A | 152 |
+| art. 20 | 159 |
+| art. 21 | 180 |
+| art. 23 | 191 |
+| art. 23-A | 204 |
+| art. 24 | 223 |
+| art. 25 | 238 |
+| art. 34 | 248 |
+| art. 38 | 264 |
+| art. 39 | 283 |
+| art. 40 | 291 |
+| art. 40-A | 314 |
+| art. 44 | 324 |
+| art. 46 | 331 |
+| art. 48 | 337 |
+| art. 49 | 345 |
+| art. 52 | 352 |
+| art. 56 | 360 |
+| art. 60-A | 367 |
+| art. 63 | 374 |
+| Citada sem dispositivo identificado | 380 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -362,3 +397,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2003-07-22 | outro | normativo | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM nº 356/01, sobre direitos creditórios, após audiência pública. | cvm/colegiado/2003/col-20030722-d06.md |
 | decisao-colegiado | — | 2003-04-01 | outro | normativo | O Colegiado aprovou a submissão à audiência pública, até 30 de abril, da minuta que altera a Instrução CVM 356/01. | cvm/colegiado/2003/col-20030401-d01.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

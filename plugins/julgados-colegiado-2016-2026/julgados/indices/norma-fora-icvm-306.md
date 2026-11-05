@@ -7,6 +7,27 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 325 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 31 |
+| art. 3º | 37 |
+| art. 4º | 49 |
+| art. 5º | 71 |
+| art. 7º | 79 |
+| art. 11 | 92 |
+| art. 12 | 101 |
+| art. 14 | 202 |
+| art. 15 | 214 |
+| art. 16 | 225 |
+| art. 17 | 234 |
+| art. 18 | 240 |
+| art. 20 | 246 |
+| Citada sem dispositivo identificado | 299 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -300,3 +321,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2015/1264 | 2016-03-08 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1264. | cvm/colegiado/2016/col-20160308-d0136.md |
 | decisao-colegiado | 19957.003166/2015-00 | 2016-03-01 | nao-provido | administracao-carteiras | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003166/2015-00. | cvm/colegiado/2016/col-20160301-d0119.md |
+
+Fim do subíndice.

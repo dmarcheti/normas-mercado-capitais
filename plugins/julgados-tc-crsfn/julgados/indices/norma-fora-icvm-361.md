@@ -175,3 +175,5 @@ Norma: fora do acervo.
 | termo-compromisso | 12/01 | 2004-12-14 | rejeitado | outros | O Colegiado negou a celebração de termo de compromisso proposto por um indiciado no PAS CVM 12/01, acompanhando o voto do relator, que considerou a proposta inadequada aos critérios de conveniência e oportunidade da Lei 6.385/76, a natureza das infrações e os antecedentes do proponente. | cvm/colegiado/2004/col-20041214-d04.md |
 | termo-compromisso | RJ2001/4474 | 2004-12-14 | rejeitado | outros | O Colegiado negou a celebração de termos de compromisso propostos por três proponentes no PAS CVM RJ2001/4474 (SAM Indústrias S.A.), acompanhando o voto do relator. Fundamentos: falta de adequação aos critérios de conveniência e oportunidade da Lei 6.385/76, natureza das infrações e antecedentes do principal proponente. | cvm/colegiado/2004/col-20041214-d01.md |
 | termo-compromisso | RJ2001/4652 | 2004-12-07 | outro | processual | O Colegiado não apreciou proposta de Termo de Compromisso apresentada pela companhia, que não era indiciada no PAS, e determinou o prosseguimento do feito com intimação dos indiciados. | cvm/colegiado/2004/col-20041207-d13.md |
+
+Fim do subíndice.

@@ -47,3 +47,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2015/9136 | 2017-10-03 | provido | opa | O Colegiado deu provimento ao recurso da CBD contra determinação da SRE de pagar aos minoritários da Globex ao menos 80% do valor pago à Morzan em sentença arbitral (art. 254-A da Lei 6.404/1976). Acompanhou o relator: a sentença faz coisa julgada só entre as partes e não se estende aos minoritários que aderiram ao Contrato ou à OPA. | cvm/colegiado/2017/col-20171003-d0449.md |
+
+Fim do subíndice.

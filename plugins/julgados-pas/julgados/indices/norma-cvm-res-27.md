@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0027.md](../../../normas/normas/cvm/resolucoes/0027.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º | pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | exercicio-irregular | Apurar supostas práticas de administração irregular de carteira de valores mobiliários, em infração, em tese, ao art. 2º, da Resolução CVM nº 21/2021 c/c o art. 23, da Lei nº 6.385/1976; e operação fraudulenta, em infração, em tese, ao art. 3º, da Resolução CVM nº 62/2022, nos termos do art. 2º, inciso III, da mesma resolução. | cvm/pas/2023/19957-012126-2022-70.md |
+
+Fim do subíndice.

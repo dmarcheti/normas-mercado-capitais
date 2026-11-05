@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 428 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2002-12 | 29 |
+| 2002-11 | 64 |
+| 2002-10 | 88 |
+| 2002-09 | 125 |
+| 2002-08 | 146 |
+| 2002-07 | 178 |
+| 2002-06 | 223 |
+| 2002-05 | 265 |
+| 2002-04 | 300 |
+| 2002-03 | 350 |
+| 2002-02 | 385 |
+| 2002-01 | 407 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2002-12-23 | outro | fundos-investimento | O Colegiado autorizou, transitoriamente e até que se decida uma política de divulgação, a disponibilização na Internet das carteiras dos fundos regulados pela CVM com defasagem de 90 dias após o encerramento do mês, ficando suspensa a divulgação imediata após o recebimento pela CVM. | cvm/colegiado/2002/col-20021223-d14.md |
@@ -405,3 +424,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2001/11675 | 2002-01-08 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que não incluiu agente autônomo na lista de credenciados por débito de anuidade no RGA, acompanhando a relatora. A inclusão foi admitida, condicionada à regularização do pagamento das anuidades devidas. | cvm/colegiado/2002/col-20020108-d02.md |
 | SP2001/0148 | 2002-01-08 | outro | intermediacao | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm/colegiado/2002/col-20020108-d01.md |
 | RJ2001/8489 | 2002-01-03 | deferido | outros | O Colegiado autorizou a São Paulo Alpargatas S.A. a realizar operações privadas com ações em tesouraria para plano de opção de compra a administradores e funcionários, com base no art. 23 da Instrução CVM 10/80, com recomendação de nota explicativa sobre as condições do plano. | cvm/colegiado/2002/col-20020103-d01.md |
+
+Fim do subíndice.

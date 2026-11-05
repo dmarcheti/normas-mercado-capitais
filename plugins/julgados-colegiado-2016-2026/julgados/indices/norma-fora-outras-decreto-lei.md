@@ -225,3 +225,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2016/2362 | 2016-03-29 | conhecimento | auditoria-independente | O Colegiado não conheceu, por unanimidade, recurso contra decisão da SNC que cancelou registro de auditor independente pessoa física, por intempestividade (prazo de 15 dias da Deliberação CVM 463/2003; recurso de 2016 contra ato de 2004). Manteve a decisão da área técnica, acompanhando a manifestação da SNC. | cvm/colegiado/2016/col-20160329-d0165.md |
+
+Fim do subíndice.

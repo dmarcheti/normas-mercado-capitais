@@ -47,3 +47,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | SP2013/448 | 2021-04-13 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. Recurso Voluntário. Prática não equitativa no mercado de valores mobiliários. Recursos conhecidos e desprovidos. | crsfn/2021/10372-100089-2019-57.md |
 | IA-2013-11 | 2021-03-09 | outro | administracao-carteiras | RECURSO VOLUNTÁRIO. Recurso não conhecido por ser intempestivo. | crsfn/2021/10372-100284-2018-04.md |
 | RJ-2017-905 | 2021-03-09 | parcial | deveres-administradores | RECURSO VOLUNTÁRIO. Dever de diligência e de fiscalização do conselho de administração. Provimento parcial. | crsfn/2021/10372-100283-2018-51.md |
+
+Fim do subíndice.

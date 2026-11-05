@@ -115,3 +115,5 @@ Norma: [cvm/resolucoes/0062.md](../../../normas/normas/cvm/resolucoes/0062.md) (
 | pas | 19957.005174/2019-14 | 2022-10-11 | condenacao | manipulacao-fraude | Prática não equitativa no mercado de valores mobiliários, na modalidade de front running, na forma conceituada pelo item II, “d”, da Instrução CVM n° 8/1979, em violação do item I da mesma Instrução. Multas. | cvm/pas/2022/19957-005174-2019-14.md |
 | pas | 19957.009452/2018-13 | 2022-06-21 | condenacao | manipulacao-fraude | Manipulação de preços por meio da utilização de ofertas artificiais de negociação, nas modalidades layering e spoofing, em infração ao inciso I c/c inciso II, letra “b” da Instrução CVM n° 08/1979. Multa. | cvm/pas/2022/19957-009452-2018-13.md |
 | pas | 19957.008901/2016-44 | 2022-05-17 | condenacao | manipulacao-fraude | Operação fraudulenta no mercado de valores mobiliários, em violação ao item II, “c”, da Instrução CVM n° 08/1979, assim como irregularidades na administração, gestão e custódia de fundo de investimento em direitos creditórios. Multas. | cvm/pas/2022/19957-008901-2016-44.md |
+
+Fim do subíndice.

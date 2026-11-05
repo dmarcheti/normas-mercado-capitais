@@ -7,6 +7,44 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 3399 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (48); art. 3º (56); art. 4º (62); art. 4º-A (192); art. 5º (215); art. 7º (221); art. 8º (231)
+art. 9º (251); art. 11 (258); art. 12 (267); art. 13 (274); art. 14 (280); art. 15 (287); art. 16 (307)
+art. 17 (320); art. 18 (378); art. 19 (385); art. 21 (403); art. 22 (409); art. 25 (415); art. 28 (421)
+art. 30 (428); art. 31 (481); art. 34 (488); art. 35 (497); art. 36 (507); art. 39 (517); art. 41 (524)
+art. 42 (530); art. 43 (536); art. 44 (542); art. 45 (557); art. 46 (581); art. 52 (587); art. 53 (594)
+art. 55 (600); art. 56 (607); art. 57 (615); art. 58 (624); art. 59 (631); art. 62 (642); art. 66 (651)
+art. 67 (658); art. 68 (664); art. 71 (673); art. 72 (681); art. 73 (687); art. 75 (693); art. 77 (701)
+art. 78 (708); art. 79 (716); art. 80 (722); art. 81 (728); art. 82 (735); art. 87 (749); art. 95 (755)
+art. 98 (761); art. 100 (767); art. 103 (817); art. 105 (827); art. 108 (835); art. 109 (841); art. 110 (884)
+art. 111 (890); art. 113 (928); art. 115 (934); art. 116 (976); art. 117 (1023); art. 118 (1059)
+art. 120 (1083); art. 121 (1092); art. 122 (1100); art. 123 (1108); art. 124 (1124); art. 125 (1237)
+art. 126 (1245); art. 127 (1280); art. 130 (1286); art. 132 (1294); art. 133 (1329); art. 134 (1358)
+art. 135 (1369); art. 136 (1386); art. 137 (1441); art. 139 (1490); art. 140 (1498); art. 141 (1511)
+art. 142 (1552); art. 143 (1572); art. 146 (1580); art. 147 (1588); art. 149 (1617); art. 150 (1623)
+art. 151 (1629); art. 152 (1636); art. 153 (1648); art. 154 (1673); art. 155 (1705); art. 156 (1728)
+art. 157 (1748); art. 158 (1788); art. 159 (1801); art. 160 (1812); art. 161 (1818); art. 162 (1928)
+art. 163 (1949); art. 165 (1987); art. 166 (2002); art. 167 (2009); art. 168 (2017); art. 169 (2034)
+art. 170 (2041); art. 171 (2103); art. 172 (2130); art. 173 (2146); art. 174 (2161); art. 175 (2172)
+art. 176 (2178); art. 177 (2217); art. 178 (2252); art. 179 (2259); art. 180 (2272); art. 181 (2281)
+art. 182 (2287); art. 183 (2301); art. 184 (2320); art. 185 (2333); art. 186 (2341); art. 187 (2370)
+art. 189 (2378); art. 190 (2397); art. 191 (2406); art. 192 (2414); art. 193 (2426); art. 194 (2441)
+art. 195 (2470); art. 196 (2480); art. 197 (2509); art. 198 (2522); art. 199 (2531); art. 200 (2547)
+art. 201 (2561); art. 202 (2577); art. 203 (2639); art. 204 (2647); art. 205 (2668); art. 206 (2675)
+art. 210 (2681); art. 211 (2688); art. 212 (2694); art. 213 (2700); art. 217 (2706); art. 221 (2712)
+art. 223 (2718); art. 224 (2744); art. 225 (2767); art. 226 (2788); art. 227 (2800); art. 228 (2813)
+art. 229 (2819); art. 230 (2826); art. 231 (2833); art. 233 (2843); art. 235 (2850); art. 238 (2858)
+art. 239 (2864); art. 240 (2871); art. 243 (2877); art. 244 (2886); art. 245 (2895); art. 245-A (2906)
+art. 246 (2912); art. 247 (2920); art. 248 (2929); art. 249 (2938); art. 250 (2948); art. 251 (2955)
+art. 252 (2964); art. 253 (2990); art. 254 (3000); art. 254-A (3028); art. 255 (3106); art. 256 (3122)
+art. 257 (3139); art. 260 (3148); art. 264 (3154); art. 265 (3227); art. 267 (3237); art. 270 (3243)
+art. 274 (3249); art. 275 (3255); art. 285 (3261); art. 286 (3270); art. 287 (3281); art. 289 (3287)
+art. 291 (3298); art. 293 (3307); art. 294 (3315); art. 296 (3322); art. 297 (3328); art. 298 (3337)
+art. 299 (3343); Citada sem dispositivo identificado (3350)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3357,3 +3395,5 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | decisao-colegiado | — | 2002-05-29 | outro | normativo | O Colegiado aprovou a minuta de cartilha com recomendações de governança corporativa. O regime 'pratique ou explique' é facultativo: a companhia não é obrigada a justificar a não adoção de recomendações, mas pode fazê-lo. Um diretor registrou declaração de voto. | cvm/colegiado/2002/col-20020529-d07.md |
 | decisao-colegiado | RJ2001/10308 | 2002-04-02 | provido | contabil-demonstracoes | O Colegiado deu provimento ao recurso da Companhia Energética de Brasília contra determinação da SEP de republicar demonstrações de 2000, por falta de provisão para créditos de liquidação duvidosa. Dispensou a republicação, desde que as notas explicativas de 2001 detalhem a renegociação dos débitos do Governo do Distrito Federal, com valores pagos e a vencer. | cvm/colegiado/2002/col-20020402-d04.md |
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
+
+Fim do subíndice.

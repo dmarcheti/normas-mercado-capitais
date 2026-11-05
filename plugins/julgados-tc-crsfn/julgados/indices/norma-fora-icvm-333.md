@@ -56,3 +56,5 @@ Norma: fora do acervo.
 | acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação no sistema de intermediação – Realização de operações amparadas em documentos falsos – Falta de diligência na verificação da autenticidade de procurações e no cadastramento de clientes – Irregularidades caracterizadas - Apelos a que se nega provimento. | crsfn/2008/9540.md |
 | acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | manipulacao-fraude | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício também improvido. | crsfn/2007/6187.md |
 | acordao-crsfn | SP2002/0098 | 2006-08-18 | absolvicao | intermediacao | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de diligência no cadastramento de clientes e na verificação de procurações e demais documentos referentes a transações – Irregularidades não configuradas – Recurso de ofício improvido. | crsfn/2006/5596.md |
+
+Fim do subíndice.

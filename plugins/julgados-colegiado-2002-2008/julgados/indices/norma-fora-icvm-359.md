@@ -44,3 +44,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/1966 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1966. | cvm/colegiado/2008/col-20080325-d09.md |
 | decisao-colegiado | RJ2008/1965 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1965. | cvm/colegiado/2008/col-20080325-d08.md |
 | decisao-colegiado | RJ2003/7972 | 2003-12-02 | deferido | fundos-investimento | O Colegiado concedeu autorização especial para que os fundos Gouda e HSBC Marken recebam debêntures NET e as repassem aos quotistas, nos termos da IN CVM 394/2003, acompanhando o voto da relatora. | cvm/colegiado/2003/col-20031202-d01.md |
+
+Fim do subíndice.

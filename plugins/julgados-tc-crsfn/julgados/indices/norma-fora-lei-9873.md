@@ -7,6 +7,25 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 849 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 29 |
+| art. 1º-A | 430 |
+| art. 2º | 437 |
+| art. 3º | 686 |
+| art. 4º | 693 |
+| art. 5º | 716 |
+| art. 7º | 726 |
+| art. 10 | 732 |
+| art. 20 | 743 |
+| art. 29 | 749 |
+| art. 49 | 755 |
+| Citada sem dispositivo identificado | 761 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -826,3 +845,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 10/96 | 2002-12-11 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Práticas não eqüitativas – Realização de operações day trade precombinadas em detrimento de interesses de clientes de corretora e de carteira de ações administradas por instituição financeira – Irregularidades caracterizadas – Acolhimento das razões oferecidas pelos indiciados comprovadamente fora do campo de responsabilização – Recurso de ofício provido parcialmente. | crsfn/2002/3678.md |
 | acordao-crsfn | 15/94 | 2000-02-25 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Aquisição de ações da própria companhia sem comunicação tempestiva de fato relevante – Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2000/2609.md |
 | acordao-crsfn | 14/98 | 1999-11-25 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Prática não eqüitativa – Identificação de rasuras em ordens de negociação e quebra de critérios de prioridade na distribuição de negócios – Irregularidades caracterizadas – Improvimentos aos apelos. | crsfn/1999/2961.md |
+
+Fim do subíndice.

@@ -51,3 +51,5 @@ Norma: [cvm/resolucoes/0081.md](../../../normas/normas/cvm/resolucoes/0081.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 59 | pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | assembleia-acionistas | Apurar suposto não fornecimento da relação de endereços de acionistas, em infração ao disposto no art. 126, §1º, da Lei nº 6.404/1976 c/c art. 58, §1º, inciso I, da Resolução CVM nº 81/2022. Multas | cvm/pas/2025/19957-008183-2024-16.md |
+
+Fim do subíndice.

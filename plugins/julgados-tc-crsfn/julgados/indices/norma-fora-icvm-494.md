@@ -65,3 +65,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 19957.009395/2021-78 | 2025-11-02 | condenacao | manipulacao-fraude | RECURSOS ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. REALIZAÇÃO DE OPERAÇÃO FRAUDULENTA. Operações por meio de negócios coordenados, com o resultado previamente ajustado com o Clube de Investimento Zeal. Infração caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | crsfn/2025/19957-009395-2021-78.md |
 | termo-compromisso | 19957.009395/2021-78 | 2023-01-10 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade e acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de gestora de clube de investimento e de um investidor, em PAS sobre operações fraudulentas com resultados previamente ajustados, que transferiram R$ 117.011,53 do clube (ICVM 8/79). Para o Comitê, a proposta de R$ 28.034,03 em danos difusos ficou distante da contrapartida adequada. | cvm/colegiado/2023/col-20230110-d2756.md |
 | acordao-crsfn | IA-2013-11 | 2021-03-09 | outro | administracao-carteiras | RECURSO VOLUNTÁRIO. Recurso não conhecido por ser intempestivo. | crsfn/2021/10372-100284-2018-04.md |
+
+Fim do subíndice.

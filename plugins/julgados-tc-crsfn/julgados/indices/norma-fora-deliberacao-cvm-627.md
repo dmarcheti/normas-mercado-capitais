@@ -32,3 +32,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2011/7377 | 2015-07-28 | condenacao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Atraso ou não envio de informações periódicas (Demonstrações Financeiras, Formulário de Referência e Formulário Cadastral) - Irregularidades caracterizadas – Recurso de ofício provido. | crsfn/2015/13416.md |
 | termo-compromisso | RJ2011/7381 | 2011-11-29 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta de termo de compromisso de R$ 5.000,00 do proponente, diretor de relações com investidores da Indústria de Máquinas Agrícolas Fuchs S.A., acompanhando o Comitê. Processo sumário (RJ2011/7381) por deixar de prestar informações obrigatórias de 2009 a 2011. Para o Comitê, o valor não era adequado à função preventiva do instituto, embora a companhia tenha se regularizado. | cvm/colegiado/2011/col-20111129-d05.md |
+
+Fim do subíndice.

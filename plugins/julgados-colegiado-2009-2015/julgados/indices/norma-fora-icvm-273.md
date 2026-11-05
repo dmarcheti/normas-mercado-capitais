@@ -42,3 +42,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2010/10775 | 2010-08-10 | provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2010/10775. | cvm/colegiado/2010/col-20100810-d03.md |
+
+Fim do subíndice.

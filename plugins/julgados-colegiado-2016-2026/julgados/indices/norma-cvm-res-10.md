@@ -53,3 +53,5 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | normativo | O Colegiado aprovou, por unanimidade, a nova versão do Regulamento de Emissores da B3, que consolida o Regulamento para Listagem e o Manual Emissor, e o Anexo B (Medidas ASG, pratique-ou-explique). Acompanhou a fundamentação das áreas técnicas (SEP, SRE, SDM e SMI), que após esclarecimentos da B3 não viram óbice e não formularam exigência ao Anexo B. | cvm/colegiado/2023/col-20230714-d2844.md |
 | decisao-colegiado | 19957.007629/2020-61 | 2020-11-03 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 10/2020, que dispõe sobre sociedades beneficiárias de recursos oriundos de incentivos fiscais, em substituição às Instruções CVM 265/1997 e 427/2006. Por se tratar de consolidação sem mudança de mérito, dispensou-se audiência pública (art. 22 da Portaria CVM/PTE nº 190/2019) e a AIR (art. 12, §1º, II). | cvm/colegiado/2020/col-20201103-d1966.md |
+
+Fim do subíndice.

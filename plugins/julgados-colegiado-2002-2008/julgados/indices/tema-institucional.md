@@ -71,3 +71,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2002-06-25 | outro | institucional | O Colegiado aprovou a Decisão Conjunta CVM/BCB que prorroga por trinta dias o prazo de grupo de trabalho para elaborar minuta de convênio entre as autarquias sobre prazos e procedimentos operacionais da Lei 6.385/76. | cvm/colegiado/2002/col-20020625-d08.md |
 | decisao-colegiado | — | 2002-06-25 | outro | institucional | O Colegiado aprovou a minuta de deliberação que altera a estrutura organizacional da CVM no que concerne à SDM. | cvm/colegiado/2002/col-20020625-d02.md |
 | decisao-colegiado | 15/2002 | 2002-04-30 | outro | institucional | O Colegiado aprovou a minuta de deliberação que altera a estrutura organizacional da CVM no que concerne à SDM (Memo/SDM nº 15/2002). | cvm/colegiado/2002/col-20020430-d06.md |
+
+Fim do subíndice.

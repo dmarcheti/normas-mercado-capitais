@@ -79,3 +79,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º | pas | 19957.009486/2023-75 | 2025-08-26 | parcial | ofertas-publicas | Apurar responsabilidades pela realização de oferta pública de valores mobiliários sem a obtenção do registro previsto no art. 19 da Lei nº 6.385/1976 e no art. 2º da Instrução CVM nº 400/03 e sem a dispensa prevista no art. 19, §5º, inciso I, da mesma Lei, e no art. 4º da Instrução CVM nº 400/03, e pela prática de operação fraudulenta no mercado de valores mobiliários, em infração ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/79. Multa, Proibição Temporária e Absolvição. | cvm/pas/2025/19957-009486-2023-75.md |
+
+Fim do subíndice.

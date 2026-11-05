@@ -7,6 +7,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 332 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 49 |
+| art. 10 | 56 |
+| art. 15 | 62 |
+| art. 39 | 68 |
+| art. 45 | 74 |
+| art. 47 | 80 |
+| art. 59 | 86 |
+| art. 60 | 103 |
+| art. 78 | 110 |
+| art. 79 | 119 |
+| art. 80 | 128 |
+| art. 82 | 134 |
+| art. 84 | 140 |
+| art. 88 | 149 |
+| art. 90 | 155 |
+| art. 91 | 168 |
+| art. 92 | 178 |
+| art. 102 | 208 |
+| art. 104 | 218 |
+| art. 105 | 231 |
+| art. 107 | 237 |
+| art. 110 | 244 |
+| art. 117 | 250 |
+| art. 119 | 256 |
+| art. 122 | 262 |
+| art. 125 | 271 |
+| art. 129 | 277 |
+| art. 130 | 283 |
+| art. 141 | 289 |
+| art. 142 | 302 |
+| art. 143 | 308 |
+| Citada sem dispositivo identificado | 315 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -289,3 +328,5 @@ Norma: fora do acervo.
 | pas | RJ2016/1465 | 2018-05-15 | condenacao | manipulacao-fraude | Prática não equitativa no mercado de valores mobiliários. Multa e Proibição temporária. | cvm/pas/2018/rj2016-1465.md |
 | pas | RJ2014/8149 | 2016-12-15 | condenacao | exercicio-irregular | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM. Proibições temporárias e multa. | cvm/pas/2016/rj2014-8149.md |
 | pas | RJ2013-10579 | 2015-03-10 | absolvicao | informacao-privilegiada | Suposta utilização indevida de informação privilegiada ainda não divulgada ao mercado - Absolvição | cvm/pas/2015/rj2013-10579.md |
+
+Fim do subíndice.

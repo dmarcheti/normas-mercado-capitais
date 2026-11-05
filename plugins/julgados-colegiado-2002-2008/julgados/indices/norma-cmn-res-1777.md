@@ -21,3 +21,5 @@ Norma: [cmn/resolucoes/1777.md](../../../normas/normas/cmn/resolucoes/1777.md) (
 | decisao-colegiado | RJ2006/7308 | 2006-11-07 | indeferido | ofertas-publicas | O Colegiado negou a dispensa de apresentação de prospecto e de declaração pleiteada pela Zain Participações S.A. e pelo Banco Itaú BBA S.A. na oferta pública de debêntures conversíveis. Fundamento: Memo SRE/GER-2/240/06, da área técnica, que entendeu não ser caso de dispensa. | cvm/colegiado/2006/col-20061107-d08.md |
 | decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | cvm/decisoes-antigas/1994.md |
 | decisao-antiga | — | 1991-01-04 | — | — | Decisões do colegiado de 1991. | cvm/decisoes-antigas/1991.md |
+
+Fim do subíndice.

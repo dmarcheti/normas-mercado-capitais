@@ -5,6 +5,20 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 287 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2008 | 24 |
+| 2007 | 69 |
+| 2006 | 113 |
+| 2005 | 151 |
+| 2004 | 181 |
+| 2003 | 211 |
+| 2002 | 247 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | — | 2008-12-19 | outro | normativo | O Colegiado aprovou, com alterações, a minuta de Instrução que altera a Instrução 202/93, sobre registro de companhia para negociação de valores mobiliários em bolsa ou balcão, para audiência pública até 30.03.2009. A SDM consolidará as sugestões. | cvm/colegiado/2008/col-20081219-d02.md |
@@ -269,3 +283,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2002-01-29 | outro | normativo | O Colegiado aprovou a minuta de Instrução, apresentada pela área técnica, que altera a Instrução CVM 279/98 sobre constituição, administração e funcionamento de fundos mútuos de privatização (FGTS). | cvm/colegiado/2002/col-20020129-d03.md |
 | decisao-colegiado | — | 2002-01-22 | outro | normativo | O Colegiado aprovou minuta de Instrução sobre a divulgação de informações relativas à instituição e manutenção de planos de opções de compra de ações, para colocação em audiência pública. | cvm/colegiado/2002/col-20020122-d01.md |
 | decisao-colegiado | — | 2002-01-15 | outro | normativo | O Colegiado aprovou a colocação em audiência pública da minuta de Instrução sobre ofertas públicas. | cvm/colegiado/2002/col-20020115-d07.md |
+
+Fim do subíndice.

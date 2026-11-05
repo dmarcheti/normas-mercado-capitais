@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2014/4181 | 2016-09-13 | nao-provido | divulgacao-informacoes | O Colegiado, por unanimidade, indeferiu recurso da WLM Indústria e Comércio contra a SEP, que considerou obrigatória a divulgação da declaração de voto de conselheiro fiscal (reunião de 27.03.2014). Fundamento, segundo o relator: a manifestação consignava questões relevantes para a deliberação dos acionistas, divulgável nos termos do art. 9º, V, da ICVM 481/2009, em linha com a SEP. | cvm/colegiado/2016/col-20160913-d9168.md |
 | decisao-colegiado | RJ2014/12954 | 2016-09-06 | nao-provido | deveres-administradores | O Colegiado negou provimento a recurso da RJCP Equity S.A. contra entendimento da SEP de que o parecer do Conselho Fiscal é obrigatório em aumento de capital aprovado pelo Conselho de Administração (art. 166, § 2º, Lei 6.404/1976), acompanhando o voto do relator. | cvm/colegiado/2016/col-20160906-d9442.md |
 | decisao-colegiado | RJ2016/1322 | 2016-03-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1322. | cvm/colegiado/2016/col-20160301-d0113.md |
+
+Fim do subíndice.

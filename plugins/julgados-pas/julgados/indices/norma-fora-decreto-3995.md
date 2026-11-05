@@ -33,3 +33,5 @@ Norma: fora do acervo.
 | pas | 27/2003 | 2005-08-18 | parcial | manipulacao-fraude | Infração ao preceituado no inciso II, alínea d, da Instrução CVM nº 08/79 - Prática não eqüitativa. - Infração ao preceituado no artigo 57, inciso IV, da Instrução CVM nº 302/99, considerada infração grave pelo artigo 103 desse mesmo normativo. | cvm/pas/2005/27-2003.md |
 | pas | RJ2004/2132 | 2005-01-19 | condenacao | manipulacao-fraude | [pessoa física] Manipulação de preço de ações mediante a elevação das cotações no mercado à vista com a finalidade de viabilizar a renovação de contrato a termo. | cvm/pas/2005/rj2004-2132.md |
 | pas | 07/2002 | 2004-11-22 | parcial | deveres-administradores | Violação dos artigos 153 e 154, caput, 176, caput, 177, caput e § 3º da Lei nº 6.404/76, bem como da Deliberação CVM nº 183/95, em seus itens 41, 42, 62 e 63. Descumprimento dos artigos 115, caput e 116, parágrafo único, da Lei nº 6.404/76. Descaracterização da imputação de descumprimento das disposições contidas na Deliberação CVM nº 183/95, em seus itens 41, 42, 62 e 63. | cvm/pas/2004/07-2002.md |
+
+Fim do subíndice.

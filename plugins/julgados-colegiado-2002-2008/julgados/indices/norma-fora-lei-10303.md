@@ -225,3 +225,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2002-03-05 | outro | normativo | O Colegiado aprovou a minuta de Instrução que disciplina as OPAs e revoga as Instruções CVM 229/95, 299/99 e 345/00. Após a audiência pública, o texto foi editado sem nova audiência, com prazo de 30 dias para revisão, em razão da entrada em vigor da Lei 10.303/01. | cvm/colegiado/2002/col-20020305-d04.md |
 | decisao-colegiado | RJ2001/10329 | 2002-02-19 | provido | divulgacao-informacoes | Recurso contra a decisão da SEP. Proc. RJ2001/10329. | cvm/colegiado/2002/col-20020219-d02.md |
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
+
+Fim do subíndice.

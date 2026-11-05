@@ -7,6 +7,20 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 375 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 24 |
+| art. 3º | 225 |
+| art. 4º | 231 |
+| art. 5º | 238 |
+| art. 6º | 350 |
+| art. 14 | 356 |
+| Citada sem dispositivo identificado | 362 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -357,3 +371,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/15206 | 2013-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15206. | cvm/colegiado/2013/col-20130129-d08.md |
 | decisao-colegiado | RJ2012/15208 | 2013-01-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15208. | cvm/colegiado/2013/col-20130122-d14.md |
 | decisao-colegiado | RJ2012/15021 | 2013-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15021. | cvm/colegiado/2013/col-20130108-d08.md |
+
+Fim do subíndice.

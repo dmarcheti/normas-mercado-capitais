@@ -46,3 +46,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2005/0704 | 2005-03-08 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão colegiado. Proc. RJ2005/0704. | cvm/colegiado/2005/col-20050308-d03.md |
 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | cvm/decisoes-antigas/1997.md |
+
+Fim do subíndice.

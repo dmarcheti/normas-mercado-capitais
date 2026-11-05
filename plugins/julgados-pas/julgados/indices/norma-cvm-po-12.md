@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0012.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2005/1443 | 2006-05-10 | parcial | deveres-administradores | O administrador deve exercer as atribuições que a lei e o estatuto lhe conferem para lograr os fins e no interesse da companhia, satisfeitas as exigências do bem público e da função social da empresa. - Exercício abusivo do poder de controle. Multa - O Conselho de Administração pode autorizar a prática de atos gratuitos razoáveis em benefício dos empregados ou da comunidade de que participe a empresa, tendo em vista suas responsabilidades sociais. Advertência. | cvm/pas/2006/rj2005-1443.md |
+
+Fim do subíndice.

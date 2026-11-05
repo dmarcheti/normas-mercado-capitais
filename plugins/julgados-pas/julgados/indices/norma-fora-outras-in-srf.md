@@ -37,3 +37,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2015/13127 | 2019-08-20 | condenacao | auditoria-independente | Emissão de relatório de auditoria sem ressalvas sobre as demonstrações financeiras da Rossi Residencial S.A., relativas aos exercícios sociais findos em 31.12.2010 e 31.12.2011, sem observância de normas editadas pelo Conselho Federal de Contabilidade relativas à auditoria das demonstrações financeiras de companhia aberta. Infração ao art. 20 da Instrução CVM nº 308/99. Multas. Data decisão CVM Tue Aug 20 17:42:00 BRT 2019 | cvm/pas/2019/rj2015-13127.md |
+
+Fim do subíndice.

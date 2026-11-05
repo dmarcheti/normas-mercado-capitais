@@ -31,3 +31,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2019/3127 | 2023-04-11 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. EMISSOR DE TÍTULOS. FALÊNCIA. ADMINISTRADOR JUDICIAL. DESCUMPRIMENTO DE DEVERES INFORMACIONAIS PERANTE A CVM. Legalidade das obrigações previstas para o administrador judicial de emissores em falência. Recurso conhecido e desprovido. | crsfn/2023/10372-100097-2020-37.md |
+
+Fim do subíndice.

@@ -8,6 +8,62 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1890 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+deliberacao-cvm-1 (67); deliberacao-cvm-3 (79); deliberacao-cvm-6 (87); deliberacao-cvm-8 (95)
+deliberacao-cvm-16 (103); deliberacao-cvm-23 (114); deliberacao-cvm-66 (122); deliberacao-cvm-70 (131)
+deliberacao-cvm-120 (139); deliberacao-cvm-175 (147); deliberacao-cvm-178 (163); deliberacao-cvm-185 (173)
+deliberacao-cvm-207 (181); deliberacao-cvm-213 (189); deliberacao-cvm-219 (197); deliberacao-cvm-222 (205)
+deliberacao-cvm-232 (213); deliberacao-cvm-233 (223); deliberacao-cvm-234 (231); deliberacao-cvm-240 (239)
+deliberacao-cvm-241 (247); deliberacao-cvm-243 (256); deliberacao-cvm-244 (265); deliberacao-cvm-247 (274)
+deliberacao-cvm-249 (282); deliberacao-cvm-251 (290); deliberacao-cvm-258 (298); deliberacao-cvm-268 (306)
+deliberacao-cvm-273 (314); deliberacao-cvm-282 (326); deliberacao-cvm-288 (334); deliberacao-cvm-289 (342)
+deliberacao-cvm-291 (350); deliberacao-cvm-295 (358); deliberacao-cvm-298 (366); deliberacao-cvm-299 (374)
+deliberacao-cvm-300 (382); deliberacao-cvm-313 (390); deliberacao-cvm-316 (398); deliberacao-cvm-324 (407)
+deliberacao-cvm-328 (415); deliberacao-cvm-330 (423); deliberacao-cvm-331 (432); deliberacao-cvm-332 (440)
+deliberacao-cvm-336 (448); deliberacao-cvm-337 (456); deliberacao-cvm-338 (464); deliberacao-cvm-341 (472)
+deliberacao-cvm-346 (480); deliberacao-cvm-349 (494); deliberacao-cvm-356 (502); deliberacao-cvm-357 (510)
+deliberacao-cvm-358 (518); deliberacao-cvm-360 (553); deliberacao-cvm-363 (561); deliberacao-cvm-371 (569)
+deliberacao-cvm-372 (578); deliberacao-cvm-375 (594); deliberacao-cvm-376 (603); deliberacao-cvm-382 (612)
+deliberacao-cvm-383 (620); deliberacao-cvm-387 (630); deliberacao-cvm-388 (639); deliberacao-cvm-389 (647)
+deliberacao-cvm-392 (655); deliberacao-cvm-395 (663); deliberacao-cvm-403 (671); deliberacao-cvm-406 (679)
+deliberacao-cvm-408 (687); deliberacao-cvm-411 (695); deliberacao-cvm-413 (703); deliberacao-cvm-416 (711)
+deliberacao-cvm-418 (719); deliberacao-cvm-428 (727); deliberacao-cvm-430 (735); deliberacao-cvm-435 (743)
+deliberacao-cvm-436 (751); deliberacao-cvm-450 (759); deliberacao-cvm-454 (767); deliberacao-cvm-458 (775)
+deliberacao-cvm-463 (783); deliberacao-cvm-470 (798); deliberacao-cvm-473 (806); deliberacao-cvm-474 (814)
+deliberacao-cvm-475 (823); deliberacao-cvm-478 (835); deliberacao-cvm-479 (843); deliberacao-cvm-481 (851)
+deliberacao-cvm-483 (888); deliberacao-cvm-486 (896); deliberacao-cvm-488 (910); deliberacao-cvm-489 (918)
+deliberacao-cvm-495 (932); deliberacao-cvm-501 (940); deliberacao-cvm-502 (948); deliberacao-cvm-518 (956)
+deliberacao-cvm-521 (964); deliberacao-cvm-527 (973); deliberacao-cvm-528 (981); deliberacao-cvm-533 (989)
+deliberacao-cvm-539 (997); deliberacao-cvm-540 (1010); deliberacao-cvm-544 (1018); deliberacao-cvm-549 (1026)
+deliberacao-cvm-550 (1038); deliberacao-cvm-560 (1052); deliberacao-cvm-561 (1066); deliberacao-cvm-565 (1074)
+deliberacao-cvm-566 (1082); deliberacao-cvm-570 (1090); deliberacao-cvm-575 (1128); deliberacao-cvm-576 (1137)
+deliberacao-cvm-579 (1145); deliberacao-cvm-582 (1153); deliberacao-cvm-583 (1161); deliberacao-cvm-592 (1171)
+deliberacao-cvm-598 (1183); deliberacao-cvm-599 (1191); deliberacao-cvm-604 (1202); deliberacao-cvm-605 (1218)
+deliberacao-cvm-607 (1227); deliberacao-cvm-608 (1235); deliberacao-cvm-618 (1243); deliberacao-cvm-619 (1251)
+deliberacao-cvm-627 (1259); deliberacao-cvm-631 (1268); deliberacao-cvm-632 (1276); deliberacao-cvm-633 (1284)
+deliberacao-cvm-641 (1292); deliberacao-cvm-644 (1300); deliberacao-cvm-649 (1310); deliberacao-cvm-653 (1318)
+deliberacao-cvm-665 (1326); deliberacao-cvm-668 (1334); deliberacao-cvm-669 (1342); deliberacao-cvm-672 (1350)
+deliberacao-cvm-674 (1358); deliberacao-cvm-683 (1366); deliberacao-cvm-684 (1374); deliberacao-cvm-691 (1384)
+deliberacao-cvm-692 (1392); deliberacao-cvm-694 (1400); deliberacao-cvm-696 (1408); deliberacao-cvm-698 (1416)
+deliberacao-cvm-699 (1426); deliberacao-cvm-704 (1435); deliberacao-cvm-707 (1443); deliberacao-cvm-712 (1451)
+deliberacao-cvm-715 (1459); deliberacao-cvm-716 (1467); deliberacao-cvm-723 (1475); deliberacao-cvm-724 (1483)
+deliberacao-cvm-725 (1491); deliberacao-cvm-737 (1500); deliberacao-cvm-747 (1508); deliberacao-cvm-749 (1516)
+deliberacao-cvm-750 (1525); deliberacao-cvm-752 (1533); deliberacao-cvm-756 (1544); deliberacao-cvm-757 (1552)
+deliberacao-cvm-762 (1560); deliberacao-cvm-763 (1569); deliberacao-cvm-775 (1577); deliberacao-cvm-778 (1585)
+deliberacao-cvm-779 (1593); deliberacao-cvm-794 (1601); deliberacao-cvm-796 (1609); deliberacao-cvm-797 (1617)
+deliberacao-cvm-810 (1625); deliberacao-cvm-813 (1633); deliberacao-cvm-826 (1641); deliberacao-cvm-828 (1650)
+deliberacao-cvm-830 (1658); deliberacao-cvm-831 (1666); deliberacao-cvm-835 (1674); deliberacao-cvm-847 (1682)
+deliberacao-cvm-848 (1690); deliberacao-cvm-849 (1698); deliberacao-cvm-850 (1707); deliberacao-cvm-867 (1715)
+deliberacao-cvm-876 (1723); deliberacao-cvm-880 (1731); deliberacao-cvm-5381 (1739)
+deliberacao-cvm-5383 (1761); deliberacao-cvm-7343 (1781); deliberacao-cvm-8176 (1789)
+deliberacao-cvm-8267 (1797); deliberacao-cvm-53811 (1805); deliberacao-cvm-53830 (1825)
+deliberacao-cvm-69241 (1833); deliberacao-cvm-73417 (1841); deliberacao-cvm-73419 (1849)
+deliberacao-cvm-73433 (1857); deliberacao-cvm-73436 (1866); deliberacao-cvm-81314 (1874)
+deliberacao-cvm-86712 (1882)
+
 ## deliberacao-cvm-1
 
 ### Citada sem dispositivo identificado
@@ -1830,3 +1886,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.011015/2022-46 | 2023-04-25 | condenacao | exercicio-irregular | Apurar eventual administração irregular de carteira de valores mobiliários, em infração ao art. 23 da Lei nº 6.385/1976 e ao art. 2º da Resolução CVM nº 21/2021. Extinção de punibilidade e multa. | cvm/pas/2023/19957-011015-2022-46.md |
+
+Fim do subíndice.

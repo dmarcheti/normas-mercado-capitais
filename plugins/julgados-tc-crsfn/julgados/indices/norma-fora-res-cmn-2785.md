@@ -39,3 +39,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos auditores independentes pelo diretor do Fundo – Ausência de recursos financeiros para arcar com as despesas relativas à elaboração dos laudos e correspondente publicação – Irregularidade não configurada – Recurso conhecido e improvido. | crsfn/2005/5953.md |
 | termo-compromisso | RJ2003/3972 | 2004-08-05 | aceito | outros | Apreciação de proposta de termo de compromisso. | cvm/colegiado/2004/col-20040805-d03.md |
+
+Fim do subíndice.

@@ -7,6 +7,55 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 695 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 59 |
+| art. 2º | 67 |
+| art. 3º | 99 |
+| art. 4º | 132 |
+| art. 5º | 248 |
+| art. 6º | 293 |
+| art. 8º | 308 |
+| art. 9º | 314 |
+| art. 11 | 324 |
+| art. 14 | 330 |
+| art. 15 | 338 |
+| art. 16 | 344 |
+| art. 17 | 352 |
+| art. 18 | 368 |
+| art. 19 | 389 |
+| art. 20 | 395 |
+| art. 21 | 402 |
+| art. 23 | 408 |
+| art. 24 | 417 |
+| art. 25 | 426 |
+| art. 27 | 435 |
+| art. 29 | 445 |
+| art. 30 | 457 |
+| art. 31 | 465 |
+| art. 32 | 472 |
+| art. 37 | 483 |
+| art. 38 | 491 |
+| art. 42 | 497 |
+| art. 44 | 505 |
+| art. 45 | 512 |
+| art. 48 | 518 |
+| art. 49 | 539 |
+| art. 50 | 545 |
+| art. 52 | 572 |
+| art. 53 | 580 |
+| art. 55 | 586 |
+| art. 56 | 595 |
+| art. 56-A | 613 |
+| art. 56-B | 620 |
+| art. 56-C | 626 |
+| art. 60 | 632 |
+| Citada sem dispositivo identificado | 648 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -642,3 +691,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | contabil-demonstracoes | O Colegiado concedeu ao Banco Santander (Brasil) S.A. dispensa de requisito de registro para apresentar DFs IFRS no MD&A, em vez dos três últimos exercícios no padrão brasileiro, e autorizou DFs não auditadas do Banco Real e da ABN AMRO Brasil Dois, conforme o Memo/SRE/GER-2/169/09. | cvm/colegiado/2009/col-20090818-d07.md |
 | decisao-colegiado | RJ2009/3454 | 2009-05-26 | deferido | ofertas-publicas | O Colegiado autorizou a continuação do registro de distribuição de debêntures da Hopi Hari S.A., apesar da pendência de atualização do registro da companhia apontada pela SEP, por especiais circunstâncias do caso. Condições: SRE confirmar as demais exigências; teste de impairment nas DFs de 2009; cláusula de não negociação das debêntures até a divulgação do teste. | cvm/colegiado/2009/col-20090526-d07.md |
 | decisao-colegiado | RJ2005/8962 | 2009-03-11 | outro | normativo | O Colegiado aprovou, com alterações, minuta de alteração da Instrução 400/03, sobre ofertas públicas de distribuição nos mercados primário e secundário. A SDM consolidará as sugestões e fará audiência pública pelo prazo de 30 dias. Determinou também que a SDM ajuste a minuta da nova Instrução 202/93. | cvm/colegiado/2009/col-20090311-d01.md |
+
+Fim do subíndice.

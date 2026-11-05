@@ -95,3 +95,5 @@ Norma: fora do acervo.
 | pas | RJ2001/9701 | 2003-04-03 | parcial | fundos-investimento | Infração ao disposto no inciso I do artigo 10 e nos Incisos VII e IX do artigo 11, todos da Instrução CVM nº 82, de 19/09/88. - Multa. | cvm/pas/2003/rj2001-9701.md |
 | pas | 11/1998 | 2003-04-02 | condenacao | intermediacao | descumprimento ao disposto na alínea “a” do Inciso I da Resolução CMN 1133/86, conjugado com o disposto no inciso I do artigo 12 da Resolução CMN 1655/89 e nos artigos 3º, 4º, 6º, 14, 15, 18 e 39 da Instrução CVM 51/86. Multa. | cvm/pas/2003/11-1998.md |
 | pas | 15/1997 | 2001-08-23 | parcial | manipulacao-fraude | PAULINO CAMPOS FERNANDES BASTOS, PROBANK DTVM LTDA e OUTROS (TRIBO LICENCIAMENTOS E AGENCIAMENTOS LTDA.) Operações Fraudulentas e Intermediação irregular no mercado de valores mobiliários. | cvm/pas/2001/15-1997.md |
+
+Fim do subíndice.

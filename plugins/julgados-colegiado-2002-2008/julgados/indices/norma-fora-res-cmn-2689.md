@@ -83,3 +83,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2004/6545 | 2004-11-23 | deferido | ofertas-publicas | O Colegiado aprovou contrato de estabilização de preço e concedeu dispensa de requisitos de registro na oferta primária de ações da Bradespar S.A., com base em manifestação favorável da área técnica. Condicionou as reservas de investidores vinculados até sete dias úteis antes do fim da coleta de intenções. | cvm/colegiado/2004/col-20041123-d09.md |
 | decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | ofertas-publicas | O Colegiado aprovou as dispensas de requisitos do registro e o procedimento de estabilização de preços na oferta pública primária e secundária de ações ordinárias da CPFL Energia S.A., acompanhando a SRE (Memo/SRE/154/04), favorável ao pleito. | cvm/colegiado/2004/col-20040824-d10.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

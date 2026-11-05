@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0101.md](../../../normas/normas/cvm/resolucoes/0101.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 09/2006 | 2013-03-05 | parcial | deveres-administradores | BRASIL TELECOM Suposta existência de conflito de interesses dos administradores com os interesses da companhia. Absolvição – descumprimento do dever do administrador de agir no interesse da companhia. Absolvição e Multas – divulgação de fatos relevantes em desacordo com a realidade dos acontecimentos. Não divulgação, de forma clara e precisa, de fato relevante. Multa. | cvm/pas/2013/09-2006.md |
+
+Fim do subíndice.

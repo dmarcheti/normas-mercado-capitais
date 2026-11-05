@@ -38,3 +38,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | assembleia-acionistas | O Colegiado, por maioria, deu provimento ao recurso da Livraria do Globo S.A. contra decisão da SEP que determinou alteração de reserva estatutária para investimentos, vencida uma diretora. A SEP entendia que a reserva configurava retenção de lucros sem observância do art. 196 da Lei 6.404/76. | cvm/colegiado/2002/col-20020426-d05.md |
 | decisao-colegiado | RJ2001/3993 | 2002-02-27 | conhecimento | contabil-demonstracoes | O Colegiado acompanhou o voto do relator e deixou de apreciar recurso contra determinação da SEP de refazer e republicar as demonstrações de 2000 da Tele Celular Sul Participações S.A., por perda de objeto. A companhia deve dar a destinação de lucros proposta à reserva de lucros a realizar e prestar as informações exigidas. | cvm/colegiado/2002/col-20020227-d03.md |
 | decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | cvm/decisoes-antigas/1989.md |
+
+Fim do subíndice.

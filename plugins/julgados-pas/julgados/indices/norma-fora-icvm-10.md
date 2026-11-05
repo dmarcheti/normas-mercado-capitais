@@ -114,3 +114,5 @@ Norma: fora do acervo.
 | pas | RJ2010/9078 | 2011-10-25 | absolvicao | outros | SADIA S/A Suposta inobservância do art. 253 da Lei n.º 6.404/76 na operação de alienação, pela Sadia à HFIN, de sua participação acionária na Concórdia Holding. Absolvições. | cvm/pas/2011/rj2010-9078.md |
 | pas | RJ2006/1853 | 2006-08-22 | parcial | divulgacao-informacoes | Descumprimento do dever de manter o registro de companhia aberta atualizado, enviando à CVM as informações periódicas previstas nos artigos 13 e 16 da Instrução CVM nº 202/93. Advertência, multa e absolvições. - Suposta infração ao dever de diligência por parte dos administradores de companhia aberta. Absolvições. | cvm/pas/2006/rj2006-1853.md |
 | pas | 10/2000 | 2004-07-08 | parcial | deveres-administradores | Infração ao parágrafo 1º do art. 226 da Lei nº 6.404/76. Multa. Infração ao parágrafo único do art. 116 e à alínea “f” do art. 117, ambos da Lei nº 6.404/76. Inabilitação e multa. | cvm/pas/2004/10-2000.md |
+
+Fim do subíndice.

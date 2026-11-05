@@ -7,6 +7,36 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 956 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 40 |
+| art. 2º | 65 |
+| art. 3º | 72 |
+| art. 6º | 79 |
+| art. 7º | 109 |
+| art. 8º | 116 |
+| art. 9º | 130 |
+| art. 10 | 365 |
+| art. 11 | 580 |
+| art. 12 | 593 |
+| art. 13 | 815 |
+| art. 14 | 827 |
+| art. 15 | 834 |
+| art. 16 | 840 |
+| art. 17 | 846 |
+| art. 18 | 853 |
+| art. 19 | 859 |
+| art. 20 | 866 |
+| art. 21 | 873 |
+| art. 21-O | 884 |
+| art. 30 | 890 |
+| art. 170 | 901 |
+| Citada sem dispositivo identificado | 907 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -922,3 +952,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2010/10723 | 2010-08-31 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedido da ALL – América Latina Logística de autorização para assembleia especial de preferencialistas com quórum reduzido (art. 136, §1º, Lei 6.404/76), para conversão das preferenciais em ordinárias. Fundamento do relator: não demonstradas assembleias prévias sem sucesso nem esforços para atingir o quórum. A SEP havia considerado cabível a autorização, sugerindo redução a 40%. | cvm/colegiado/2010/col-20100831-d12.md |
 | decisao-colegiado | RJ2010/2639 | 2010-03-09 | indeferido | assembleia-acionistas | O Colegiado indeferiu, por maioria, pedido de interrupção por 15 dias do prazo de antecedência da AGE da Duke Energy International Geração Paranapanema S.A. Contra o parecer da SEP, entendeu que a apuração da ilegalidade não cabia no prazo de 15 dias e deve ser feita em procedimento próprio. | cvm/colegiado/2010/col-20100309-d01-r2.md |
 | decisao-colegiado | — | 2009-12-23 | deferido | divulgacao-informacoes | O Colegiado deferiu tratamento confidencial a laudo usado para fixar o preço de ações do Banco Mercantil do Brasil S.A. em aumento de capital por subscrição privada, por não haver obrigação de divulgá-lo na regulamentação vigente. Anotou que o art. 14 da Instrução 481/09 passará a exigir essa divulgação, não sendo mais cabíveis pedidos semelhantes. | cvm/colegiado/2009/col-20091223-d01.md |
+
+Fim do subíndice.

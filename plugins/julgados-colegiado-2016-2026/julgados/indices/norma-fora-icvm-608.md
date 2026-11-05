@@ -209,3 +209,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
 | decisao-colegiado | 19957.000332/2020-75 | 2020-02-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.000332/2020-75. | cvm/colegiado/2020/col-20200218-d1724.md |
 | decisao-colegiado | 19957.007512/2019-44 | 2019-08-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.007512/2019-44. | cvm/colegiado/2019/col-20190820-d1503.md |
+
+Fim do subíndice.

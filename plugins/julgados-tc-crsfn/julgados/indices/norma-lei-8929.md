@@ -25,3 +25,5 @@ Norma: [leis/lei-08929.md](../../../normas/normas/leis/lei-08929.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 14/2008 | 2015-07-28 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de valores mobiliários sem registro na entidade supervisora - Irregularidade não caracterizada – Recurso de ofício desprovido – Arquivamento confirmado. | crsfn/2015/13420.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [bcb/resolucoes/0304.md](../../../normas/normas/bcb/resolucoes/0304.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.011992/2023-24 | 2025-04-08 | condenacao | fundos-investimento | Apurar eventuais irregularidades na divulgação de informações à CVM acerca da liquidez de fundos de investimento, em infração ao art. 19 da Instrução CVM nº 558 e, posteriormente, ao art. 22 da Resolução CVM nº 21. Multa. | cvm/pas/2025/19957-011992-2023-24.md |
+
+Fim do subíndice.

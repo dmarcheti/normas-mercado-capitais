@@ -74,3 +74,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | cvm/pas/2008/25-2003.md |
+
+Fim do subíndice.

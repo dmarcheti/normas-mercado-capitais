@@ -7,6 +7,48 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 750 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 52 |
+| art. 3º | 65 |
+| art. 4º | 78 |
+| art. 5º | 101 |
+| art. 6º | 110 |
+| art. 7º | 116 |
+| art. 8º | 141 |
+| art. 9º | 183 |
+| art. 10 | 206 |
+| art. 11 | 246 |
+| art. 12 | 257 |
+| art. 13 | 278 |
+| art. 14 | 285 |
+| art. 15 | 293 |
+| art. 16 | 312 |
+| art. 17 | 342 |
+| art. 18 | 352 |
+| art. 19 | 358 |
+| art. 20 | 364 |
+| art. 21 | 372 |
+| art. 22 | 381 |
+| art. 23 | 387 |
+| art. 24 | 394 |
+| art. 25 | 407 |
+| art. 26 | 415 |
+| art. 28 | 441 |
+| art. 29 | 461 |
+| art. 31 | 492 |
+| art. 33 | 501 |
+| art. 34 | 511 |
+| art. 35 | 671 |
+| art. 37 | 679 |
+| art. 45 | 693 |
+| art. 254-A | 699 |
+| Citada sem dispositivo identificado | 705 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -704,3 +746,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/0061 | 2003-04-08 | deferido | institucional | O Colegiado deferiu solicitação de extrato da ata da reunião de 25.06.2002 sobre o conceito de liquidez, por entender que o extrato é de cunho público, inclusive à luz da LC 105/01. Concedeu vista dos autos ao requerente e autorizou a disponibilização do extrato na Internet. Um diretor declarou impedimento. | cvm/colegiado/2003/col-20030408-d06.md |
 | decisao-colegiado | — | 2003-04-01 | outro | normativo | O Colegiado aprovou a submissão à audiência pública, até 7 de maio, da proposta de acrescentar o Anexo III (laudos de avaliação) à Instrução CVM 361/02, que dispõe sobre registro e procedimento aplicável às OPAs de companhia aberta. | cvm/colegiado/2003/col-20030401-d02.md |
 | decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | deveres-administradores | O Colegiado, com um impedimento, acompanhou o relator sobre proposta de abertura de inquérito administrativo relativa à reestruturação societária da Cosipa e da Usiminas, a partir de deliberações de AGEs de novembro de 1998 e janeiro de 1999 e de reclamações de investidores. | cvm/colegiado/2002/col-20020625-d03.md |
+
+Fim do subíndice.

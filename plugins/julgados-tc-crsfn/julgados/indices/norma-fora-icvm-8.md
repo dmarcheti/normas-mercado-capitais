@@ -7,6 +7,18 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 533 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 22 |
+| art. 4º | 28 |
+| art. 14 | 37 |
+| art. 18 | 43 |
+| Citada sem dispositivo identificado | 49 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -517,3 +529,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 07/89 | 1996-11-26 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO: Criação de condições artificiais de mercado e manipulação de preço, em operações simuladas realizadas por grupos de investidores que atuaram em nome próprio e de terceiros, e com a participação de intermediários. Responsabilidade de investidores e intermediários. Recursos não providos. | crsfn/1996/1733.md |
 | acordao-crsfn | 09/93 | 1996-08-07 | outro | manipulacao-fraude | RECURSO DE OFÍCIO. Operações de compra e venda de ações vedadas pela Instrução CVM 10/80 art. 2º, alínea "d", e de prática não equitativa, vedada pela Instrução CVM 08/79. Inocorrência de prescrição administrativa e de decadência. Devolução do recurso ao órgão de primeira instância para julgamento de mérito. | crsfn/1996/1739.md |
 | acordao-crsfn | 09 | 1996-05-15 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta ou preços de valores mobiliários. Infringência à Instrução Normativa CVM 08/79. Infrações não caracterizadas. | crsfn/1996/1649.md |
+
+Fim do subíndice.

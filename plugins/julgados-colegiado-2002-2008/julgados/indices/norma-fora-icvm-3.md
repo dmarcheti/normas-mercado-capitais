@@ -27,3 +27,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | cvm/decisoes-antigas/1988.md |
 | decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | cvm/decisoes-antigas/1986.md |
 | decisao-antiga | — | 1978-03-22 | — | — | Decisões do colegiado de 1978. | cvm/decisoes-antigas/1978.md |
+
+Fim do subíndice.

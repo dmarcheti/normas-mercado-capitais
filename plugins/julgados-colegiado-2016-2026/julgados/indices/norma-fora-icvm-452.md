@@ -7,6 +7,29 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1774 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 33 |
+| art. 2º | 40 |
+| art. 3º | 68 |
+| art. 4º | 436 |
+| art. 5º | 447 |
+| art. 6º | 521 |
+| art. 7º | 559 |
+| art. 8º | 569 |
+| art. 9º | 577 |
+| art. 10 | 589 |
+| art. 11 | 601 |
+| art. 12 | 740 |
+| art. 13 | 1062 |
+| art. 14 | 1389 |
+| art. 16 | 1749 |
+| Citada sem dispositivo identificado | 1755 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1747,3 +1770,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-21 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a SMI, deferiu dispensas de requisitos da Instrução CVM 542/2013 a custodiantes, estendidas aos que não prestam serviços a terceiros e registram essa condição no cadastro da CVM. Quem passar a prestar esses serviços deverá cumprir os requisitos. A SMI não considerou dispensáveis as exigências do Anexo 5, art. 1º, III, “d” e “e”. | cvm/colegiado/2016/col-20160621-d0252.md |
 | decisao-colegiado | RJ2015/12681 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12681. | cvm/colegiado/2016/col-20160216-d0086.md |
 | decisao-colegiado | — | 2016-01-27 | deferido | fundos-investimento | O Colegiado deferiu, excepcionalmente, pedido da ANBIMA e prorrogou até 15.02.2016 o prazo para envio dos documentos mensais dos fundos de investimento de janeiro de 2016, que vencia em 10.02.2016 (ICVM 409/2004, art. 71, II; ICVM 555/2014, art. 59, II). Pedido motivado por feriados; SIN favorável. | cvm/colegiado/2016/col-20160127-d5474.md |
+
+Fim do subíndice.

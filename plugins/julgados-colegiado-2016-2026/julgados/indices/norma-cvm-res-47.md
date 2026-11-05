@@ -7,6 +7,36 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0047.md](../../../normas/normas/cvm/resolucoes/0047.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 375 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 40 |
+| art. 2º | 46 |
+| art. 3º | 65 |
+| art. 4º | 76 |
+| art. 5º | 95 |
+| art. 6º | 112 |
+| art. 7º | 128 |
+| art. 8º | 135 |
+| art. 9º | 141 |
+| art. 12 | 147 |
+| art. 13 | 157 |
+| art. 14 | 164 |
+| art. 15 | 173 |
+| art. 16 | 191 |
+| art. 17 | 218 |
+| art. 18 | 225 |
+| art. 20 | 318 |
+| art. 25 | 325 |
+| art. 174 | 334 |
+| art. 185 | 340 |
+| Anexo A, art. 1º | 346 |
+| Anexo B, art. 1º | 355 |
+| Citada sem dispositivo identificado | 361 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -341,3 +371,5 @@ Norma: [cvm/resolucoes/0047.md](../../../normas/normas/cvm/resolucoes/0047.md) (
 | decisao-colegiado | 19957.003997/2022-01 | 2022-05-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.003997/2022-01. | cvm/colegiado/2022/col-20220531-d2603.md |
 | decisao-colegiado | 19957.003752/2022-75 | 2022-05-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.003752/2022-75. | cvm/colegiado/2022/col-20220517-d2584.md |
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | normativo | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no Colegiado (46), multas cominatórias (47) e uso da sigla e logotipo (49). Dispensou audiência pública e AIR, por não alterarem o mérito das obrigações. | cvm/colegiado/2021/col-20210811-d2277.md |
+
+Fim do subíndice.

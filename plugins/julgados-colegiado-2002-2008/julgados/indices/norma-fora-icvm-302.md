@@ -7,6 +7,53 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 435 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 4º | 57 |
+| art. 6º | 63 |
+| art. 7º | 69 |
+| art. 8º | 77 |
+| art. 12 | 86 |
+| art. 14 | 92 |
+| art. 15 | 99 |
+| art. 25 | 106 |
+| art. 34 | 112 |
+| art. 38 | 118 |
+| art. 41 | 125 |
+| art. 42 | 131 |
+| art. 50 | 137 |
+| art. 52 | 144 |
+| art. 54 | 150 |
+| art. 55 | 158 |
+| art. 57 | 171 |
+| art. 59 | 180 |
+| art. 62 | 186 |
+| art. 64 | 192 |
+| art. 66 | 198 |
+| art. 67 | 255 |
+| art. 68 | 261 |
+| art. 72 | 269 |
+| art. 74 | 276 |
+| art. 76 | 282 |
+| art. 82 | 289 |
+| art. 83 | 295 |
+| art. 90 | 301 |
+| art. 91 | 307 |
+| art. 92 | 313 |
+| art. 96 | 328 |
+| art. 97 | 345 |
+| art. 99 | 351 |
+| art. 100 | 364 |
+| art. 104 | 370 |
+| art. 105 | 376 |
+| art. 108 | 392 |
+| art. 109 | 398 |
+| Citada sem dispositivo identificado | 405 |
+
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -384,3 +431,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/2196 | 2002-04-26 | provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2196. | cvm/colegiado/2002/col-20020426-d02.md |
 | decisao-colegiado | RJ2002/2013 | 2002-04-26 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2013. | cvm/colegiado/2002/col-20020426-d01.md |
 | decisao-colegiado | RJ2001/4245 | 2002-03-05 | outro | fundos-investimento | Em consulta da SIN, o Colegiado, acompanhando a relatora, entendeu que nada impede autorizar a incorporação de clubes de investimento ao Prosper Access Fundo de Investimento em Ações. A exigência de concordância individual de todos os cotistas ultrapassaria o quórum de 2/3 exigido para dissolução de clubes; um cotista não se manifestou. | cvm/colegiado/2002/col-20020305-d01.md |
+
+Fim do subíndice.

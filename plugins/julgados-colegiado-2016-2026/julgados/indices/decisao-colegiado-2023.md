@@ -213,3 +213,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.013061/2022-80 | 2023-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. 19957.013061/2022-80. | cvm/colegiado/2023/col-20230103-d2759.md |
 | 19957.010511/2021-00 | 2023-01-03 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.010511/2021-00. | cvm/colegiado/2023/col-20230103-d2523.md |
 | 19957.000025/2022-56 | 2023-01-03 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000025/2022-56. | cvm/colegiado/2023/col-20230103-d2502.md |
+
+Fim do subíndice.

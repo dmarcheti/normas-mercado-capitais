@@ -115,3 +115,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | pas | 14/1999 | 2000-05-25 | condenacao | exercicio-irregular | [pessoa física], EMBRAPEK AGROPECUÁRIA S.A., [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do Mato Grosso do Sul S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/14-1999.md |
 | pas | 17/1998 | 2000-05-04 | condenacao | exercicio-irregular | [pessoa física], [pessoa física], SIGNUS CORRETORES ASSOCIADOS S/C LTDA, [pessoa física] Intermediação irregular no mercado de valores mobiliários. - Infração configurada. – Multa. | cvm/pas/2000/17-1998.md |
 | pas | 19/1999 | 2000-04-20 | condenacao | exercicio-irregular | [pessoa física] Intermediação irregular no mercado de valores mobiliários. - Infração configurada. - Advertência. | cvm/pas/2000/19-1999.md |
+
+Fim do subíndice.

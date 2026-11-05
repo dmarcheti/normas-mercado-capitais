@@ -37,3 +37,5 @@ Norma: [cvm/resolucoes/0010.md](../../../normas/normas/cvm/resolucoes/0010.md) (
 |---|---|---|---|---|---|---|---|
 | art. 15 | termo-compromisso | 19957.008321/2021-14 | 2022-08-02 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta conjunta de termo de compromisso do administrador e da acionista controladora de companhia, acompanhando o Comitê, que manteve o óbice jurídico indicado pela PFE/CVM. Acusações: AGO de 2020 não realizada, diretoria e conselho de administração com um único membro, e voto em contas próprias. | cvm/colegiado/2022/col-20220802-d2664.md |
 | art. 15 | termo-compromisso | 19957.008321/2021-14 | 2023-07-04 | aceito | assembleia-acionistas | O Colegiado aceitou a proposta de termo de compromisso, acompanhando o Comitê, que sugeriu R$ 739.015,86 (R$ 352.135,86 em parcela única e R$ 386.880,00 em quatro parcelas). Imputações: AGO fora do prazo, cadastro (RCVM 10), composição da diretoria e voto em próprias contas. | cvm/colegiado/2023/col-20230704-d2664.md |
+
+Fim do subíndice.

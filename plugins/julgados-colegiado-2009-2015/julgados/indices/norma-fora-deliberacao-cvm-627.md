@@ -103,3 +103,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/1203 | 2011-02-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/1203. | cvm/colegiado/2011/col-20110208-d17.md |
 | decisao-colegiado | RJ2011/0917 | 2011-02-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/0917. | cvm/colegiado/2011/col-20110208-d06.md |
 | decisao-colegiado | RJ2010/9203 | 2010-06-15 | deferido | divulgacao-informacoes | O Colegiado deferiu o pedido do IBRI de prazo adicional para o formulário de referência, contra a manifestação da SEP, que não via conveniência na prorrogação: facultou a entrega anual em texto livre via IPE até 30.06.10 e determinou a reentrega pelo sistema eletrônico até 31.08.10, para dar aos emissores maior prazo de adaptação. | cvm/colegiado/2010/col-20100615-d09.md |
+
+Fim do subíndice.

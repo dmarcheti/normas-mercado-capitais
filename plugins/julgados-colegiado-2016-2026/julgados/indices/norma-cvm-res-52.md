@@ -18,3 +18,5 @@ Norma: [cvm/resolucoes/0052.md](../../../normas/normas/cvm/resolucoes/0052.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.006482/2021-73 | 2021-08-31 | outro | institucional | Proposta de resolução – sistema de governança e gestão da CVM. Proc. SEI 19957.006482/2021-73. | cvm/colegiado/2021/col-20210831-d2294.md |
+
+Fim do subíndice.

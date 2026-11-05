@@ -131,3 +131,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | SP2010/001 | 2011-03-22 | condenacao | intermediacao | UM Investimentos S/A Registro de operações no mercado de valores mobiliários sem a indicação do horário de seu recebimento e sem a identificação do cliente. Dever de diligência. Multas. | cvm/pas/2011/sp2010-0001.md |
 | pas | 01/2006 | 2008-07-01 | condenacao | intermediacao | Bonus-Banval Commoditieso Integrantes do sistema de distribuição de valores mobiliários, pessoas não integrantes deste sistema, ou, ainda, permitir o exercício das atividades de mediação ou corretagem por pessoas não autorizadas pela CVM para este fim. Advertência. É vedado à sociedade corretora realizar operações que caracterizem, sob qualquer forma, a concessão de financiamentos, empréstimos ou adiantamentos a seus clientes, inclusive através da cessão de direitos, ressalvadas as hipóteses de operação de conta margem e as demais previstas na regulamentação em vigor. Multa. | cvm/pas/2008/01-2006.md |
+
+Fim do subíndice.

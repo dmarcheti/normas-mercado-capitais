@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 310 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 45 |
+| art. 5º | 52 |
+| art. 8º | 62 |
+| art. 9º | 68 |
+| art. 11 | 74 |
+| art. 13 | 82 |
+| art. 15 | 89 |
+| art. 18 | 95 |
+| art. 19 | 106 |
+| art. 20 | 114 |
+| art. 23 | 127 |
+| art. 24 | 134 |
+| art. 30 | 142 |
+| art. 31 | 148 |
+| art. 33 | 154 |
+| art. 34 | 161 |
+| art. 35 | 173 |
+| art. 36 | 183 |
+| art. 39 | 189 |
+| art. 41 | 217 |
+| art. 45 | 223 |
+| art. 46 | 232 |
+| art. 47 | 238 |
+| art. 55 | 247 |
+| art. 57 | 255 |
+| art. 60 | 273 |
+| art. 66 | 279 |
+| Citada sem dispositivo identificado | 285 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -271,3 +306,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/11362 | 2010-02-23 | outro | fundos-investimento | Em consulta da SIN, o Colegiado decidiu, acompanhando a área técnica (MEMO/SIN/GIE/067/10), que os demonstrativos de composição de carteira do FI-FGTS devem especificar os emissores dos ativos, por ser a melhor interpretação do art. 26, I, 'd', da Instrução CVM 462/07, do ponto de vista teleológico e sistemático. | cvm/colegiado/2010/col-20100223-d06.md |
 | decisao-colegiado | RJ2009/3441 | 2009-09-08 | outro | normativo | O Colegiado aprovou, após audiência pública SDM 06/09, o texto apresentado pela SDM com alterações na Instrução CVM 472/08 sobre fundos de investimento imobiliário (FII). | cvm/colegiado/2009/col-20090908-d12.md |
 | decisao-colegiado | RJ2009/6346 | 2009-07-07 | outro | normativo | O Colegiado concluiu que créditos de carbono não são valores mobiliários, mas ativos comercializáveis para cumprir metas de redução de emissão ou como investimento, com base em voto de diretor. Entendeu inconveniente caracterizá-los por lei; decidiu analisar no futuro a regulamentação, inclusive dos derivativos, caso a caso. | cvm/colegiado/2009/col-20090707-d07.md |
+
+Fim do subíndice.

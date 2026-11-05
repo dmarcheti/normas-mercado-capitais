@@ -30,3 +30,5 @@ Norma: fora do acervo.
 | pas | SP2003/0042 | 2004-05-06 | condenacao | pld | Elaboração e atualização do cadastro de clientes da corretora em desacordo com o exigido no art. 3º da Instrução CVM nº 301/99. | cvm/pas/2004/sp2003-0042.md |
 | pas | SP2002/0257 | 2003-11-13 | condenacao | pld | Insuficiências cadastrais - Infração ao artigo 3º da Instrução CVM nº 301/99; Não comunicação à CVM de operações passíveis de comunicação à autarquia - Infração ao artigo 6º, incisos I e II, e ao art. 7º da Instrução CVM nº 301/99 - Advertência. | cvm/pas/2003/sp2002-0257.md |
 | pas | SP2001/0395 | 2003-09-11 | parcial | pld | A corretora de valores deve manter nas fichas cadastrais informações patrimoniais de seus clientes (art. 3º da Instrução CVM nº 301/99) - Advertência. - Não caracterização da necessidade de comunicação das operações à CVM. - Absolvição. | cvm/pas/2003/sp2001-0395.md |
+
+Fim do subíndice.

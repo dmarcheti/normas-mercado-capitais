@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0057.md](../../../normas/normas/cvm/resolucoes/0057.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.001885/2020-45 | 2021-10-19 | outro | normativo | O Colegiado aprovou, por unanimidade, a edição da Resolução CVM 57/2021, sobre prova de quitação de débitos perante a CVM, no âmbito da revisão de atos normativos determinada pelo Decreto 10.139/2019. Dispensou audiência pública e AIR por tratar de regras operacionais internas. | cvm/colegiado/2021/col-20211019-d2348.md |
+
+Fim do subíndice.

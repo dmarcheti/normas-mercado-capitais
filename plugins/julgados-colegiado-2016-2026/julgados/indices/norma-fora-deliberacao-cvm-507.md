@@ -162,3 +162,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.006545/2021-91 | 2021-10-19 | outro | multa-cominatoria-taxa | Proposta de resolução. Proc. SEI 19957.006545/2021-91. | cvm/colegiado/2021/col-20211019-d2349.md |
 | decisao-colegiado | 19957.000797/2020-26; 19957.001439/2020-31; 19957.001885/2020-45; 19957.006545/2021-91 | 2021-10-13 | — | normativo | Apresentação. Proc. SEI 19957.000797/2020-26) / RESTITUIÇÃO e COMPENSAÇÃO DE VALORES (PROC. SEI 19957.001439/2020-31) / PROVA DE QUITAÇÃO DE DÉBITOS (PROC. SEI 19957.001885/2020-45) / TAXA DE FISCALIZAÇÃO DOS MERCADOS DE TÍTULOS e VALORES MOBILIÁRIOS (PROC. SEI 19957.006545/2021-91). | cvm/colegiado/2021/col-20211013-d2346.md |
 | decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | cvm/colegiado/2020/col-20200929-d1738.md |
+
+Fim do subíndice.

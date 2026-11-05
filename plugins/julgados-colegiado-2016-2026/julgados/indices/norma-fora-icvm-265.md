@@ -162,3 +162,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da S/A Constâncio Vieira contra o cancelamento de ofício do registro de companhia incentivada, por suspensão superior a 12 meses (art. 2º, IV, Instrução CVM 427/2006). Acompanhou o voto do relator, que não viu prova do envio de documentos. | cvm/colegiado/2018/col-20180313-d0751.md |
 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7756. | cvm/colegiado/2016/col-20161108-d0419.md |
 | decisao-colegiado | RJ2015/4262 | 2016-06-14 | deferido | opa | O Colegiado, acompanhando o voto de diretor, deferiu procedimento diferenciado para OPA de cancelamento de registro da Marina de Iracema Park S.A.: dispensa de leilão (art. 12) e de edital (art. 11) e inversão simples do quórum (art. 16, II) da Instrução 361, condicionado ao cumprimento dos arts. 47 e 48 da Instrução 480 quanto às debêntures do FINOR. | cvm/colegiado/2016/col-20160614-d0125.md |
+
+Fim do subíndice.

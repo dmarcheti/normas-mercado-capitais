@@ -96,3 +96,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2006/0657 | 2007-03-06 | outro | ofertas-publicas | Para o Colegiado, a dispensa automática de registro de oferta de pequeno porte e microempresas (art. 5º, III, Instrução 400/03) depende do volume de emissão e exige comunicação à CVM. Manteve o arquivamento e determinou à SDM incluir essas regras na minuta da Instrução 400. | cvm/colegiado/2007/col-20070306-d02.md |
+
+Fim do subíndice.

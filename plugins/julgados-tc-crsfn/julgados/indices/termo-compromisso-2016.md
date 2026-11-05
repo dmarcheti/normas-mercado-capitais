@@ -93,3 +93,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2013/6294 | 2016-02-02 | outro | outros | O Colegiado manteve a aceitação do Termo de Compromisso de três acusados, aprovado em 09.12.2014, e decidiu dar continuidade ao PAS RJ2013/6294 contra um dos acusados, que não protocolou o termo no prazo de 30 dias determinado. | cvm/colegiado/2016/col-20160202-d9437.md |
 | RJ2015/1652 | 2016-02-02 | aceito | deveres-administradores | O Colegiado aceitou proposta de Termo de Compromisso de três membros do conselho de administração da Subestação Eletrometrô S.A., acompanhando o Comitê, com R$ 180.000,00 à CVM (R$ 60.000,00 cada). Suposta infração ao art. 153 da Lei 6.404/1976 e aos arts. 27 e 31 da Instrução CVM 308/1999. | cvm/colegiado/2016/col-20160202-d0023.md |
 | RJ2015/2239 | 2016-02-02 | aceito | outros | O Colegiado aceitou proposta de Termo de Compromisso do Banco Modal S.A. e de seu diretor, acompanhando o Comitê, com pagamento de R$ 60.000,00 à CVM (R$ 30.000,00 cada). Suposta infração ao art. 48 da Instrução CVM 356/2001. | cvm/colegiado/2016/col-20160202-d0022.md |
+
+Fim do subíndice.

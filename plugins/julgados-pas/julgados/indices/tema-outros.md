@@ -13,3 +13,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | pas | RJ2010/9078 | 2011-10-25 | absolvicao | outros | SADIA S/A Suposta inobservância do art. 253 da Lei n.º 6.404/76 na operação de alienação, pela Sadia à HFIN, de sua participação acionária na Concórdia Holding. Absolvições. | cvm/pas/2011/rj2010-9078.md |
 | pas | RJ2007/3673 | 2009-08-04 | absolvicao | outros | CITIBANK DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A Imputação de não comunicação à CVM de aquisição, por parte do investidor estrangeiro que representava, de participação superior a 5% do capital ordinário da BrasilAgro. Absolvição. | cvm/pas/2009/rj2007-3673.md |
 | pas | RJ2003/8172 | 2004-10-15 | parcial | outros | [pessoa física] E OUTROS (SUBESTAÇÃO ELETROMETRÔ S/A) Descumprimento do art. 14, caput, da Instrução CVM nº 13/80. Multa e Absolvição. Não caracterização de descumprimento ao disposto no art. 68, § 1º, e art. 153, ambos da Lei nº 6.404/76; incisos I a V da Instrução CVM nº 28/83 e § 1º do art. 14, da Instrução CVM nº 13/80. Absolvições. | cvm/pas/2004/rj2003-8172.md |
+
+Fim do subíndice.

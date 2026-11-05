@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0119.md](../../../normas/normas/cvm/resolucoes/0119.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário Iridium Recebíveis Imobiliários relativas à data-base de 30/06/2021. Absolvições. | cvm/pas/2025/19957-015389-2022-31.md |
+
+Fim do subíndice.

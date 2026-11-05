@@ -52,3 +52,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|---|
 | art. 53 | acordao-crsfn | RJ2007/4414 | 2017-02-07 | condenacao | intermediacao | RECURSOS VOLUNTÁRIOS. Termo de Compromisso cumprido, que resultou no arquivamento de acusação para a entidade acusada de exercer sem autorização à atividade de agente autônomo de investimento, não constitui impedimento a configuração de irregularidade por parte das contratantes dessa entidade. Rateio das comissões entre os envolvidos e demais evidências são suficientes para caracterizar a contratação de agente autônomo de investimento não autorizado. Solicitação de parcelamento ao órgão de origem é incompatível com recurso ao CRSFN, implicando no não conhecimento de um dos recursos. Demais recursos conhecidos, mas não providos. | crsfn/2017/13357.md |
 | art. 53 | termo-compromisso | RJ2001/4652 | 2005-03-22 | aceito | assembleia-acionistas | Apreciação de proposta de termo de compromisso. PAS nº RJ2001/4652. | cvm/colegiado/2005/col-20050322-d02.md |
+
+Fim do subíndice.

@@ -61,3 +61,5 @@ Norma: [cvm/resolucoes/0182.md](../../../normas/normas/cvm/resolucoes/0182.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003306/2025-11 | 2025-04-15 | deferido | infraestrutura-mercado | O Colegiado aprovou procedimento diferenciado da Almacenes Éxito S.A. para descontinuar BDR Nível II, com prazo de venda (sale facility) dilatado de até 30 para até 90 dias, acompanhando a SRE, para mitigar queda de preço na Bolsa colombiana. | cvm/colegiado/2025/col-20250415-d3262.md |
 | decisao-colegiado | 03/2021; 19957.000017/2019-12 | 2023-05-03 | outro | normativo | O Colegiado aprovou, após a Audiência Pública SDM nº 03/2021, a edição das Resoluções CVM nºs 182 e 183/2023 sobre BDR. A 182 disciplina lastro, níveis e registro de programas, em substituição à Instrução CVM nº 332/2000; a 183 altera as Resoluções CVM nºs 80/2022 e 160/2022 quanto ao registro de emissor estrangeiro. | cvm/colegiado/2023/col-20230503-d2124.md |
+
+Fim do subíndice.

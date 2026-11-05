@@ -12,3 +12,5 @@ Norma: [bcb/circulares/3106.md](../../../normas/normas/bcb/circulares/3106.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2018/4585 | 2019-11-26 | absolvicao | assembleia-acionistas | Participação em separado, por parte do Banco BTG Pactual S.A, da eleição para membro do conselho fiscal da Gerdau S.A. Infração do art. 161, §4º, “a” da lei nº 6.404/76. Absolvição. Data decisão CVM Tue Nov 26 15:14:00 BRST 2019 | cvm/pas/2019/rj2018-4585.md |
+
+Fim do subíndice.

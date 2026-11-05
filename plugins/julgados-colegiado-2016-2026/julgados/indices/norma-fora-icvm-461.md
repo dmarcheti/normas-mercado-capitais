@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 896 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (25); art. 2º (31); art. 4º (38); art. 5º (44); art. 7º (50); art. 8º (56); art. 9º (62); art. 13 (73)
+art. 14 (113); art. 15 (119); art. 17 (127); art. 20 (134); art. 24 (140); art. 26 (148); art. 28 (158)
+art. 32 (164); art. 37 (170); art. 38 (177); art. 39 (185); art. 42 (191); art. 43 (198); art. 44 (207)
+art. 47 (213); art. 49 (221); art. 50 (228); art. 51 (234); art. 55 (242); art. 59 (249); art. 60 (255)
+art. 62 (262); art. 63 (268); art. 65 (274); art. 69 (282); art. 70 (288); art. 73 (294); art. 75 (301)
+art. 77 (308); art. 78 (568); art. 79 (579); art. 80 (585); art. 81 (669); art. 82 (675); art. 83 (686)
+art. 86 (694); art. 90 (701); art. 92 (707); art. 99 (719); art. 100 (725); art. 101 (731); art. 105 (737)
+art. 106 (745); art. 107 (754); art. 108 (760); art. 109 (769); art. 110 (778); art. 112 (788); art. 113 (795)
+art. 114 (801); art. 115 (807); art. 117 (813); art. 118 (842); art. 122 (848); art. 128 (854)
+Citada sem dispositivo identificado (860)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -877,3 +892,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.002726/2016-81 | 2016-05-17 | outro | ofertas-publicas | Autorização para emissão de ofício circular sobre ofertas públicas secundárias de cotas de fundos de investimento imobiliário. Proc. SEI 19957.002726/2016-81. | cvm/colegiado/2016/col-20160517-d0206.md |
 | decisao-colegiado | RJ2016/1332 | 2016-05-03 | nao-provido | administracao-carteiras | O Colegiado negou provimento, por unanimidade, ao recurso contra indeferimento de credenciamento como administrador de carteira (ICVM 558/2015, art. 3º, §1º, I e II), acompanhando a área técnica, que entendeu não comprovadas a experiência em gestão de recursos de terceiros nem o notório saber. | cvm/colegiado/2016/col-20160503-d0189.md |
 | decisao-colegiado | RJ2015/1295 | 2016-03-08 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2015/1295. | cvm/colegiado/2016/col-20160308-d0137.md |
+
+Fim do subíndice.

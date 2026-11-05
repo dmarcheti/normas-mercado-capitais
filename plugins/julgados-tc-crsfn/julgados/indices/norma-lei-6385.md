@@ -7,6 +7,54 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 8203 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 58 |
+| art. 2º | 74 |
+| art. 4º | 184 |
+| art. 5º | 638 |
+| art. 6º | 647 |
+| art. 8º | 653 |
+| art. 9º | 683 |
+| art. 10 | 825 |
+| art. 11 | 837 |
+| art. 12 | 7243 |
+| art. 13 | 7260 |
+| art. 15 | 7266 |
+| art. 16 | 7334 |
+| art. 17 | 7460 |
+| art. 18 | 7471 |
+| art. 19 | 7487 |
+| art. 20 | 7698 |
+| art. 21 | 7704 |
+| art. 22 | 7725 |
+| art. 23 | 7741 |
+| art. 24 | 7836 |
+| art. 26 | 7843 |
+| art. 27 | 7857 |
+| art. 27-C | 7863 |
+| art. 27-D | 7913 |
+| art. 27-E | 7949 |
+| art. 28 | 8023 |
+| art. 31 | 8031 |
+| art. 33 | 8038 |
+| art. 40 | 8050 |
+| art. 43 | 8056 |
+| art. 68 | 8062 |
+| art. 90 | 8068 |
+| art. 142 | 8074 |
+| art. 153 | 8080 |
+| art. 155 | 8086 |
+| art. 174 | 8092 |
+| art. 176 | 8099 |
+| art. 192 | 8106 |
+| art. 231 | 8112 |
+| Citada sem dispositivo identificado | 8118 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -8151,3 +8199,5 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 | acordao-crsfn | 21/95 | 2003-02-19 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Práticas não eqüitativas em operações day-trade – Intermediação irregular – Descumprimento de dispositivos regulamentares em negócios realizados em bolsa de valores no mercado à vista – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2003/3333.md |
 | acordao-crsfn | 29/99 | 2002-06-27 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Administração de carteira de valores mobiliários e intermediação no mercado bursátil sem autorização da CVM – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2002/4101.md |
 | acordao-crsfn | 21/93 | 1997-05-22 | parcial | assembleia-acionistas | Recurso de Ofício. CVM - Falta de realização de AGO em três exercícios - Escrituração em desacordo com as normas legais - Responsabilidade de administradores. | crsfn/1997/2082.md |
+
+Fim do subíndice.

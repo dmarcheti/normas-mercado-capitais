@@ -87,3 +87,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/6050 | 2018-10-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2014/6050. | cvm/colegiado/2018/col-20181002-d1177.md |
 | decisao-colegiado | 19957.001207/2016-04 | 2016-10-25 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001207/2016-04. | cvm/colegiado/2016/col-20161025-d0410.md |
+
+Fim do subíndice.

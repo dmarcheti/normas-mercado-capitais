@@ -43,3 +43,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/12035 | 2002-01-15 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa do registro de distribuição secundária de ações de emissão do Banco do Estado do Amazonas (BEA), por considerar atendidos os requisitos da Instrução CVM 286/98, conforme informação da área técnica. | cvm/colegiado/2002/col-20020115-d01.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | cvm/decisoes-antigas/1998.md |
+
+Fim do subíndice.

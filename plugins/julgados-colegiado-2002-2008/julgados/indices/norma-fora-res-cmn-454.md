@@ -37,3 +37,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1992-01-02 | — | — | Decisões do colegiado de 1992. | cvm/decisoes-antigas/1992.md |
 | decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | cvm/decisoes-antigas/1984.md |
 | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | cvm/decisoes-antigas/1981.md |
+
+Fim do subíndice.

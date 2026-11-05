@@ -7,6 +7,35 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 792 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 39 |
+| art. 2º | 45 |
+| art. 3º | 52 |
+| art. 5º | 58 |
+| art. 6º | 68 |
+| art. 7º | 159 |
+| art. 8º | 166 |
+| art. 13 | 179 |
+| art. 15 | 298 |
+| art. 16 | 304 |
+| art. 17 | 551 |
+| art. 18 | 635 |
+| art. 19 | 663 |
+| art. 26 | 722 |
+| art. 132 | 728 |
+| art. 133 | 735 |
+| art. 161 | 741 |
+| art. 163 | 747 |
+| art. 172 | 759 |
+| art. 174 | 766 |
+| art. 225 | 772 |
+| Citada sem dispositivo identificado | 778 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -759,3 +788,5 @@ Norma: fora do acervo.
 | pas | RJ2002/7635 | 2004-09-09 | condenacao | opa | Violação dos parágrafos 2º e 3º do art. 7º da Instrução CVM nº 361/02 - dever de diligência. | cvm/pas/2004/rj2002-7635.md |
 | pas | 16/2000 | 2002-12-05 | parcial | divulgacao-informacoes | [pessoa física] E OUTROS (WHITE MARTINS) Oscilação Atípica - Fato Relevante. - Artigos 1° da Instrução CVM n° 31/84, e 157, parágrafo 4°, da Lei n° 6.385/76. - Dever de divulgação de fato relevante. - Violação ao artigo 4°, parágrafo único, da Instrução CVM n° 31/84. - Caracterização da infração. | cvm/pas/2002/16-2000.md |
 | pas | RJ2001/8280 | 2002-11-14 | parcial | contabil-demonstracoes | [pessoa física] (SPSCS INDUSTRIAL S/A) Demonstrações financeiras da SPSCS Industrial S/A (atual denominação social da Brasinca Industrial S/A), auditadas fora do prazo regulamentar. . Absolvição de indiciados que não integravam o Conselho de Administração no exercício social encerrado em 31/12/2000. . Responsabilidade do Presidente do Conselho de Administração por infração ao inciso IX do art. 142, e ao parágrafo 3º do art. 177, ambos da Lei 6.404/76. Multa. | cvm/pas/2002/rj2001-8280.md |
+
+Fim do subíndice.

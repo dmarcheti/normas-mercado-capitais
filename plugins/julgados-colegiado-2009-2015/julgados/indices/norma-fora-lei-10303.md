@@ -81,3 +81,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2006/7668 | 2009-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2006/7668. | cvm/colegiado/2009/col-20090414-d08.md |
 | decisao-colegiado | RJ1999/3686 | 2009-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3686. | cvm/colegiado/2009/col-20090414-d07.md |
 | decisao-colegiado | RJ2009/3362 | 2009-04-14 | outro | normativo | O Colegiado decidiu submeter a audiência pública, por 30 dias, minuta de parecer de orientação: a CVM não penalizará acionistas que votarem pela supressão de cláusula de proteção à dispersão acionária sem fazer a oferta prevista em disposição estatutária acessória. Opinião inicial: essas disposições podem contrariar a Lei 6.404/76. | cvm/colegiado/2009/col-20090414-d04.md |
+
+Fim do subíndice.

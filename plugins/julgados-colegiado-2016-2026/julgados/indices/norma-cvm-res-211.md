@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0211.md](../../../normas/normas/cvm/resolucoes/0211.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 01/2023; 19957.003459/2023-99 | 2024-09-18 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM nº 211/2024, que aprova o Pronunciamento Técnico CPC 18(R3), sobre investimento em coligada e em empreendimento controlado em conjunto, após a Consulta Pública SNC nº 01/2023. Segundo a área técnica, são ajustes de redação sem impacto para os regulados; dispensada AIR (art. 4º, IV, do Decreto nº 10.411/2020). | cvm/colegiado/2024/col-20240918-d2856.md |
+
+Fim do subíndice.

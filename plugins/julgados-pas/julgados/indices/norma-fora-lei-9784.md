@@ -7,6 +7,44 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 441 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 48 |
+| art. 2º-A | 147 |
+| art. 3º | 153 |
+| art. 4º | 165 |
+| art. 5º | 174 |
+| art. 6º | 181 |
+| art. 18 | 187 |
+| art. 19 | 194 |
+| art. 20 | 200 |
+| art. 21 | 206 |
+| art. 22 | 212 |
+| art. 24 | 219 |
+| art. 26 | 225 |
+| art. 27 | 240 |
+| art. 28 | 246 |
+| art. 29 | 252 |
+| art. 30 | 260 |
+| art. 36 | 266 |
+| art. 37 | 281 |
+| art. 38 | 287 |
+| art. 49 | 302 |
+| art. 50 | 308 |
+| art. 52 | 327 |
+| art. 53 | 339 |
+| art. 54 | 351 |
+| art. 56 | 359 |
+| art. 61 | 366 |
+| art. 65 | 372 |
+| art. 69 | 386 |
+| art. 69-A | 392 |
+| Citada sem dispositivo identificado | 398 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -399,3 +437,5 @@ Norma: fora do acervo.
 | pas | RJ2001/8280 | 2002-11-14 | parcial | contabil-demonstracoes | [pessoa física] (SPSCS INDUSTRIAL S/A) Demonstrações financeiras da SPSCS Industrial S/A (atual denominação social da Brasinca Industrial S/A), auditadas fora do prazo regulamentar. . Absolvição de indiciados que não integravam o Conselho de Administração no exercício social encerrado em 31/12/2000. . Responsabilidade do Presidente do Conselho de Administração por infração ao inciso IX do art. 142, e ao parágrafo 3º do art. 177, ambos da Lei 6.404/76. Multa. | cvm/pas/2002/rj2001-8280.md |
 | pas | 28/2000 | 2002-11-14 | — | deveres-administradores | Infração ao art. 16 da Instrução CVM nº 202/93; e ao artigo 133, ao parágrafo 1º do art. 163, ao parágrafo 3º do art. 162, ao parágrafo 2º do art. 161, e ao parágrafo único do art. 116, este conforme a alínea 'c' do parágrafo 1º do art. 117, todos da Lei nº 6.404/76. Pena de Multa. - Infração ao art. 133 e ao parágrafo 1º do art. 163, todos da Lei nº 6.404/76. Pena de Multa. | cvm/pas/2002/28-2000.md |
 | pas | 12/1997 | 2000-12-07 | parcial | deveres-administradores | [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] e [pessoa física], [pessoa física], Consult Consultoria e Assessoria Técnica S/C Ltda., Estado de Mato Grosso do Sul, [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física], [pessoa física] Emissão pública de debêntures realizada pela Empresa Energética do Mato Grosso do Sul S/A - ENERSUL, aprovada pela Assembléia Geral Extraordinária ocorrida em 23.09.93. - Abuso de poder de controlador. Descumprimento dos deveres de diligência e de lealdade. Prática de atos de liberalidade à custa da companhia. Intermediação irregular. - Infrações configuradas. Penalidades. | cvm/pas/2000/12-1997.md |
+
+Fim do subíndice.

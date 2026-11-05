@@ -51,3 +51,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | 19957.006087/2020-18 | 2024-07-16 | absolvicao | ofertas-publicas | Apurar suposta oferta pública de contratos de investimento coletivo hoteleiro, sem a prévia obtenção de registro perante a CVM ou sua dispensa, em infração ao art. 19, caput, e § 5°, inciso I, da Lei nº 6.385/1976, e ao art. 5º da Instrução CVM nº 602/2018. Absolvição | cvm/pas/2024/19957-006087-2020-18.md |
 | pas | 12/2010 | 2014-10-07 | parcial | manipulacao-fraude | Criação de condições artificiais de demanda, oferta ou preço de valores mobiliários. Absolvição e multas. | cvm/pas/2014/12-2010.md |
+
+Fim do subíndice.

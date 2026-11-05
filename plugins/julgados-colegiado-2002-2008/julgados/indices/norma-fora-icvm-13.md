@@ -110,3 +110,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | ofertas-publicas | O Colegiado negou pedido de reconsideração da Global Brasil Participações S.A. e manteve a suspensão da distribuição pública de suas ações, por propaganda na internet e folhetos destinados a detentores de créditos de empresa em concordata, sem prévio registro na CVM. Registro de companhia aberta deve ser requerido; vencida a relatora. | cvm/colegiado/2002/col-20020709-d04.md |
 | decisao-colegiado | 84/2002 | 2002-04-30 | deferido | ofertas-publicas | O Colegiado acatou pedido de dispensa de dispositivos da Instrução CVM 13/80 para a distribuição pública de ações preferenciais da Sanepar: início na data do primeiro anúncio e anúncio sem preço e quantidades. A dispensa ficou condicionada à comunicação de preço e quantidades 30 minutos antes do pregão. | cvm/colegiado/2002/col-20020430-d08.md |
 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | cvm/decisoes-antigas/1987.md |
+
+Fim do subíndice.

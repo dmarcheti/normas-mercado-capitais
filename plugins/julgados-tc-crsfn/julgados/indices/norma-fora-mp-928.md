@@ -38,3 +38,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | administracao-carteiras | RECURSO VOLUNTÁRIO. Clube de investimento. Administração irregular de carteira. Condenação não condizente com acusação. Princípios do contraditório e da ampla defesa. Absolvição. | crsfn/2021/10372-100112-2020-47.md |
 | acordao-crsfn | 08/2016; 19957.009805/2019-66 | 2021-07-13 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. Infração cometida por administrador de companhia aberta: violação do dever de lealdade. Recurso conhecido e desprovido. | crsfn/2021/10372-100172-2020-60.md |
 | termo-compromisso | 19957.002237/2020-14 | 2021-07-06 | aceito | ofertas-publicas | O Colegiado aceitou, acompanhando o Comitê, proposta de termo de compromisso da SPE STX 32 Desenvolvimento Imobiliário S.A. e de seu diretor presidente, por oferta pública sem registro após caducidade de dispensa. Pagamento de R$ 560.000,00, condição do termo, em dez dias úteis após a publicação. | cvm/colegiado/2021/col-20210706-d2225.md |
+
+Fim do subíndice.

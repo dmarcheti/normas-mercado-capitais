@@ -131,3 +131,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2003-10-14 | outro | intermediacao | O Colegiado aprovou as deliberações da BM&F que regulam tipos de ordens e de ofertas e as regras de conduta das corretoras, na forma da IN CVM 387/03, com entrada em vigor em 2 de janeiro de 2004. | cvm/colegiado/2003/col-20031014-d02.md |
 | decisao-colegiado | — | 2003-10-07 | outro | intermediacao | O Colegiado aprovou as resoluções da SOMA que regulam as regras de conduta dos intermediários por ela credenciados, os tipos de ordens, o cadastro de investidores e a execução das ordens (Instrução CVM 387/03). | cvm/colegiado/2003/col-20031007-d05.md |
 | decisao-colegiado | — | 2003-10-07 | outro | normativo | O Colegiado aprovou a alteração da resolução da Bovespa que regula o cadastro de investidores, com base em memorando da SMI. | cvm/colegiado/2003/col-20031007-d02.md |
+
+Fim do subíndice.

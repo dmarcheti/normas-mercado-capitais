@@ -45,3 +45,5 @@ Norma: [cvm/resolucoes/0078.md](../../../normas/normas/cvm/resolucoes/0078.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-23 | outro | normativo | O Colegiado aprovou as Resoluções CVM 77/2022 (negociação de ações e debêntures de própria emissão), 78/2022 (fusão, cisão, incorporação) e 81/2022 (assembleias), no trabalho de consolidação do Decreto 10.139/2019. Sem mudança de mérito, sem consulta pública e com AIR dispensada. | cvm/colegiado/2022/col-20220323-d2516.md |
+
+Fim do subíndice.

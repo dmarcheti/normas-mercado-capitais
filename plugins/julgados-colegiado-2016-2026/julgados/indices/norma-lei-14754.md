@@ -12,3 +12,5 @@ Norma: [leis/lei-14754.md](../../../normas/normas/leis/lei-14754.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 175/2022; 19957.014076/2023-46 | 2024-03-06 | outro | fundos-investimento | O Colegiado aprovou a RCVM 200/2024, que altera a RCVM 175/2022 e adia vigências: adaptação do estoque de fundos para 30.06.2025; do estoque de FIDC para 29.11.2024; §1º do art. 140 para 01.11.2024; §§2º e 4º do art. 140 para 01.10.2024. Também permite que FII e Fiagro deem ativos em garantia (Lei 8.668/1993). Dispensadas AIR e consulta pública. | cvm/colegiado/2024/col-20240306-d3033.md |
+
+Fim do subíndice.

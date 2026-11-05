@@ -7,6 +7,38 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1462 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 42 |
+| art. 2º | 64 |
+| art. 3º | 113 |
+| art. 4º | 119 |
+| art. 6º | 142 |
+| art. 8º | 148 |
+| art. 9º | 209 |
+| art. 11 | 502 |
+| art. 12 | 1097 |
+| art. 13 | 1104 |
+| art. 15 | 1113 |
+| art. 16 | 1139 |
+| art. 17 | 1163 |
+| art. 19 | 1169 |
+| art. 20 | 1205 |
+| art. 21 | 1212 |
+| art. 22 | 1274 |
+| art. 23 | 1284 |
+| art. 26 | 1319 |
+| art. 27 | 1329 |
+| art. 27-E | 1338 |
+| art. 28 | 1347 |
+| art. 32 | 1355 |
+| art. 116 | 1364 |
+| Citada sem dispositivo identificado | 1370 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1426,3 +1458,5 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 | decisao-colegiado | RJ1999/4417 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4417. | cvm/colegiado/2009/col-20090519-d09.md |
 | decisao-colegiado | RJ1999/2400 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2400. | cvm/colegiado/2009/col-20090519-d07.md |
 | decisao-colegiado | RJ2009/2034 | 2009-04-14 | outro | fundos-investimento | O Colegiado, acompanhando o voto do relator, fixou entendimento de que FIDC-NP e FIP que queiram aplicar recursos no exterior devem pedir dispensa, no caso concreto, de dispositivos da Instrução 356/01 (art. 9º) ou da 391/03, por haver vedação expressa e genérica. Sem prejuízo de estudo para eventual alteração das normas. | cvm/colegiado/2009/col-20090414-d12.md |
+
+Fim do subíndice.

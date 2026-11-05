@@ -78,3 +78,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/12253 | 2002-07-09 | provido | deveres-administradores | O Colegiado deu provimento a recurso de conselheiro fiscal da Newtel Participações S.A. contra orientação da SEP, que deve ser revista para que a companhia atenda de imediato aos pedidos de contratos de mútuo e de serviços advocatícios. Fundamento: o conselheiro fiscal precisa de meios para fiscalizar despesas (art. 163 da Lei 6.404/76). A CVM orienta, mas não impõe cumprimento. | cvm/colegiado/2002/col-20020709-d01.md |
 | decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | assembleia-acionistas | O Colegiado, por maioria, deu provimento ao recurso da Livraria do Globo S.A. contra decisão da SEP que determinou alteração de reserva estatutária para investimentos, vencida uma diretora. A SEP entendia que a reserva configurava retenção de lucros sem observância do art. 196 da Lei 6.404/76. | cvm/colegiado/2002/col-20020426-d05.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

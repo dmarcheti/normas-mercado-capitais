@@ -115,3 +115,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/7054 | 2013-09-10 | deferido | fundos-investimento | O Colegiado, por unanimidade, autorizou a negociação privada de cotas do Union National FIDC, em liquidação ordinária, pelo investidor não residente Standard Bank PLC, por enquadrar-se no § 1º do art. 8º da Resolução CMN 2.689/00. Acompanhou a SIN. Vedou a negociação com outro investidor não residente sob a mesma resolução. | cvm/colegiado/2013/col-20130910-d05.md |
 | decisao-colegiado | RJ2009/5699 | 2009-10-13 | provido | outros | Por maioria, o Colegiado deu provimento a recurso contra entendimento da SIN, que apontou descumprimento do art. 8º da Resolução CMN 2.689/00 em cessões gratuitas, fora de bolsa, de direitos de subscrição de ações da LLX Logística S.A. Acompanhou o relator: a subscrição está na exceção do §1º do art. 8º. Vencido um diretor. | cvm/colegiado/2009/col-20091013-d21.md |
+
+Fim do subíndice.

@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 577 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2015-12 | 29 |
+| 2015-11 | 86 |
+| 2015-10 | 147 |
+| 2015-09 | 181 |
+| 2015-08 | 247 |
+| 2015-07 | 276 |
+| 2015-06 | 317 |
+| 2015-05 | 406 |
+| 2015-04 | 438 |
+| 2015-03 | 469 |
+| 2015-02 | 504 |
+| 2015-01 | 528 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ2015/8451 | 2015-12-22 | nao-provido | administracao-carteiras | O Colegiado negou o recurso contra decisão da SIN que indeferiu credenciamento de consultor de valores mobiliários (Instrução CVM 43/1985), acompanhando a área técnica: a experiência como agente autônomo de investimento não é válida e a de gerente financeiro terceirizado não foi comprovada. | cvm/colegiado/2015/col-20151222-d9995.md |
@@ -554,3 +573,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2013/7229 | 2015-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7229. | cvm/colegiado/2015/col-20150106-d9491.md |
 | RJ2013/7227 | 2015-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7227. | cvm/colegiado/2015/col-20150106-d9490.md |
 | RJ2014/14790 | 2015-01-06 | outro | institucional | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna (PAINT/2015), elaborado com base na IN SFC 01/2007 e no Manual do Sistema de Controle Interno do Poder Executivo Federal. | cvm/colegiado/2015/col-20150106-d5821.md |
+
+Fim do subíndice.

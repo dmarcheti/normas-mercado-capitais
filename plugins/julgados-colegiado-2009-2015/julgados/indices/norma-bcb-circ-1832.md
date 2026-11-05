@@ -12,3 +12,5 @@ Norma: [bcb/circulares/1832.md](../../../normas/normas/bcb/circulares/1832.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | O Colegiado, por maioria, indeferiu pedido de dispensa da vedação da Instrução 28/83 (art. 10, I, a) à contratação de agente fiduciário do mesmo grupo econômico, para sete ofertas de debêntures de companhias desse grupo. Entendeu que a Lei 6.404/76 protege mais os debenturistas e que a questão pode ser resolvida por mecanismos de mercado. | cvm/colegiado/2009/col-20090728-d03.md |
+
+Fim do subíndice.

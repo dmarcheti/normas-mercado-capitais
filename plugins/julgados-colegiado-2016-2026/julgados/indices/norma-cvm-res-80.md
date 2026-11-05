@@ -7,6 +7,59 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 425 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 63 |
+| art. 2º | 69 |
+| art. 3º | 75 |
+| art. 5º | 83 |
+| art. 6º | 95 |
+| art. 7º | 107 |
+| art. 7º-B | 113 |
+| art. 13 | 119 |
+| art. 14 | 125 |
+| art. 15 | 131 |
+| art. 16 | 141 |
+| art. 17 | 147 |
+| art. 18 | 154 |
+| art. 19 | 160 |
+| art. 20 | 166 |
+| art. 22 | 172 |
+| art. 25 | 179 |
+| art. 26 | 186 |
+| art. 27 | 192 |
+| art. 28 | 199 |
+| art. 29 | 206 |
+| art. 31 | 212 |
+| art. 33 | 219 |
+| art. 36 | 231 |
+| art. 49 | 237 |
+| art. 51 | 243 |
+| art. 53 | 251 |
+| art. 57 | 259 |
+| art. 58 | 266 |
+| art. 59 | 275 |
+| art. 61 | 284 |
+| art. 62 | 293 |
+| art. 63 | 299 |
+| art. 67 | 305 |
+| Anexo A, art. 1º | 312 |
+| Anexo A, art. 2º | 321 |
+| Anexo J, art. 1º | 329 |
+| Anexo J, art. 2º | 337 |
+| Anexo J, art. 3º | 343 |
+| Anexo J, art. 5º | 357 |
+| Anexo K, art. 2º | 363 |
+| Anexo K, art. 3º | 369 |
+| Anexo K, art. 6º | 375 |
+| Anexo I, art. 1º | 382 |
+| Anexo I, art. 2º | 388 |
+| Citada sem dispositivo identificado | 397 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -368,3 +421,5 @@ Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (
 | decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | normativo | O Colegiado concluiu a discussão da Audiência Pública SDM 09/2021 e aprovou a Resolução CVM 168/2022, que regulamenta a composição dos órgãos de administração de companhias abertas e de emissores com voto plural (Lei 14.195/2021). Dispensa de AIR (art. 4º, II, do Decreto 10.411/2020). | cvm/colegiado/2022/col-20220914-d1763.md |
 | decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | normativo | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM nº 09/2021 sobre propostas de resolução que regulamentam, no âmbito do Doing Business, dispositivos da Lei 6.404/76 sobre composição dos órgãos de administração e voto plural. Sem deliberação nesta reunião. | cvm/colegiado/2022/col-20220831-d1763.md |
 | decisao-colegiado | 01/2021; 480/2009; 19957.000939/2021-36 | 2022-03-16 | outro | normativo | O Colegiado aprovou a Resolução CVM 80/2022, que cria comunicado sobre demandas societárias, exigível de emissores da categoria A, com alterações na ICVM 480/2009 após a Audiência Pública SDM 01/2021. Prazo de divulgação de 7 dias úteis; AIR dispensada. | cvm/colegiado/2022/col-20220316-d2059.md |
+
+Fim do subíndice.

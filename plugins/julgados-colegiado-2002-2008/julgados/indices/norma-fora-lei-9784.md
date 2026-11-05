@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 318 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 45 |
+| art. 3º | 94 |
+| art. 6º | 103 |
+| art. 9º | 109 |
+| art. 10 | 116 |
+| art. 13 | 123 |
+| art. 15 | 132 |
+| art. 22 | 138 |
+| art. 24 | 144 |
+| art. 26 | 151 |
+| art. 30 | 160 |
+| art. 34 | 166 |
+| art. 45 | 172 |
+| art. 46 | 181 |
+| art. 49 | 189 |
+| art. 50 | 195 |
+| art. 52 | 208 |
+| art. 53 | 214 |
+| art. 56 | 221 |
+| art. 57 | 228 |
+| art. 58 | 234 |
+| art. 61 | 243 |
+| art. 62 | 250 |
+| art. 65 | 256 |
+| art. 66 | 271 |
+| art. 69 | 277 |
+| art. 125 | 287 |
+| Citada sem dispositivo identificado | 293 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -279,3 +314,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/11267 | 2003-04-01 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso contra entendimento da SEP de que alteração do estatuto da Construtora Lix da Cunha S/A, aprovada em AGE de 18/10/2001 e que reduzia a vantagem dos preferencialistas, não teria eficácia sem assembleia especial de preferencialistas, e geraria direito de retirada aos dissidentes. | cvm/colegiado/2003/col-20030401-d03.md |
 | decisao-colegiado | — | 2003-01-14 | outro | normativo | O Colegiado, por maioria, acompanhou o voto da diretora-relatora no sentido de que não deve prosperar o Projeto de Lei do Senado 219/2002, que veda a investidura em cargo de direção, em instituições reguladoras, de detentores de participação acionária superior a 5% em instituições desses mercados. Um diretor apresentou declaração de voto. | cvm/colegiado/2003/col-20030114-d11.md |
 | decisao-colegiado | RJ2002/2941 | 2002-10-21 | nao-provido | assembleia-acionistas | O Colegiado manteve a medida que determinou à Plascar Participações Industriais S.A. permitir o voto dos acionistas preferencialistas na AGO de 29/04/2002, ou suspender a assembleia, por não distribuição de dividendos. Fundamento: princípio da proporcionalidade (Lei 9.784/99, art. 2º). O presidente acompanhou com ressalvas. | cvm/colegiado/2002/col-20021021-d05.md |
+
+Fim do subíndice.

@@ -129,3 +129,5 @@ Norma: fora do acervo.
 | pas | RJ2015/9909 | 2017-09-05 | condenacao | manipulacao-fraude | Prática de operação fraudulenta no mercado de valores mobiliários. Multa. | cvm/pas/2017/rj2015-9909.md |
 | pas | RJ2007/4685 | 2010-07-13 | parcial | registro-emissor | MESBLA TRUST RECEBÍVEIS DE CARTÕES DE CRÉDITO Não manutenção atualizada do registro de companhia aberta – não elaboração de demonstrações financeiras – não convocação e não realização de Assembléias Gerais Ordinárias. Advertências e absolvições. | cvm/pas/2010/rj2007-4685.md |
 | pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | cvm/pas/2005/11-1996.md |
+
+Fim do subíndice.

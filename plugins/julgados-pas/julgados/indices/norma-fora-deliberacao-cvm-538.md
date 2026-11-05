@@ -7,6 +7,50 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1830 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 54 |
+| art. 2º | 62 |
+| art. 3º | 77 |
+| art. 4º | 90 |
+| art. 5º | 99 |
+| art. 6º | 106 |
+| art. 7º | 358 |
+| art. 8º | 364 |
+| art. 9º | 393 |
+| art. 10 | 426 |
+| art. 11 | 463 |
+| art. 12 | 748 |
+| art. 13 | 759 |
+| art. 14 | 775 |
+| art. 18 | 784 |
+| art. 19 | 795 |
+| art. 20 | 810 |
+| art. 22 | 828 |
+| art. 23 | 836 |
+| art. 24 | 842 |
+| art. 25 | 855 |
+| art. 26 | 871 |
+| art. 27 | 881 |
+| art. 28 | 889 |
+| art. 37 | 895 |
+| art. 38 | 1269 |
+| art. 38-A | 1641 |
+| art. 38-B | 1665 |
+| art. 38-D | 1700 |
+| art. 45 | 1718 |
+| art. 112 | 1724 |
+| art. 113 | 1730 |
+| art. 114 | 1736 |
+| art. 258 | 1742 |
+| art. 269 | 1748 |
+| art. 401 | 1754 |
+| Citada sem dispositivo identificado | 1760 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1782,3 +1826,5 @@ Norma: fora do acervo.
 | pas | RJ2010/4206 | 2011-08-23 | absolvicao | informacao-privilegiada | [pessoa física] (USA) Eventual irregularidade na negociação com units da Terna Participações S/A, em suposta infração ao art. 13 da Instrução CVM nº 358/02. Absolvição. | cvm/pas/2011/rj2010-4206.md |
 | pas | RJ2006/4422 | 2011-06-07 | parcial | exercicio-irregular | BI Agentes de Investimento Ltda. e outros Exercício irregular da atividade de agente autônomo, sem a devida autorização da CVM – não atualização dos cadastros de companhia aberta na CVM – realização de atividades distintas daquelas estabelecidas no objeto social da companhia – prestação de serviços de Correspondente Bancário e securitização de recebíveis imobiliários sem a devida anuência da CVM. Multas e absolvições. | cvm/pas/2011/rj2006-4422.md |
 | pas | RJ2008/2530 | 2008-12-02 | condenacao | ofertas-publicas | [pessoa física] Oferta pública de ações de emissão da EMBRAER. Manifestação, em canal de mídia aberto, sobre a oferta publica secundária de ações de emissão da EMBRAER - Infração às regras do chamado “período de silêncio”. Instrução CVM nº 400/03. Multa. | cvm/pas/2008/rj2008-2530.md |
+
+Fim do subíndice.

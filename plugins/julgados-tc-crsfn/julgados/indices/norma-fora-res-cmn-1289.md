@@ -41,3 +41,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ98/3935 | 2000-10-26 | absolvicao | outros | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Derivativos – Operações de compra e venda de ações em conjunto com opções de compra realizadas por investidor estrangeiro titular de conta própria (Anexo IV da Resolução CMN 1.289/87) – Falta de configuração de rendimentos predeterminados – Recurso improvido. | crsfn/2000/3048.md |
 | acordao-crsfn | RJ98/1555 | 2000-10-26 | condenacao | intermediacao | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Empréstimo de ações pertencentes a carteira de investidor estrangeiro titular de conta própria (Anexo IV – Resolução CMN 1289/87) – Irregularidade caracterizada – Recursos a que nega provimento. | crsfn/2000/2934.md |
 | acordao-crsfn | 20/95 | 1999-08-31 | absolvicao | auditoria-independente | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Falta de contratação de auditor independente para auditar carteira regulada pelo anexo IV da Resolução CMN 1.289/87 – Exigência não prevista para o caso vertente – Apelo improvido. | crsfn/1999/2611.md |
+
+Fim do subíndice.

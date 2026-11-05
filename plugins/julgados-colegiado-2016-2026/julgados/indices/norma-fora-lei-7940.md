@@ -175,3 +175,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/8112 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8112. | cvm/colegiado/2016/col-20160621-d0263.md |
 | decisao-colegiado | RJ2013/10336 | 2016-06-14 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2013/10336. | cvm/colegiado/2016/col-20160614-d0244.md |
 | decisao-colegiado | RJ2012/8073 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm/colegiado/2016/col-20160322-d0156.md |
+
+Fim do subíndice.

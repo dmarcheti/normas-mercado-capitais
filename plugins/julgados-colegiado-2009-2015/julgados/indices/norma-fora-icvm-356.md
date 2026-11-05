@@ -7,6 +7,47 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 594 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 51 |
+| art. 2º | 57 |
+| art. 3º | 71 |
+| art. 5º | 86 |
+| art. 8º | 92 |
+| art. 9º | 138 |
+| art. 12 | 146 |
+| art. 15 | 152 |
+| art. 18-A | 159 |
+| art. 20 | 165 |
+| art. 21 | 172 |
+| art. 23 | 180 |
+| art. 23-A | 187 |
+| art. 24 | 207 |
+| art. 25 | 215 |
+| art. 28 | 221 |
+| art. 31 | 227 |
+| art. 32 | 233 |
+| art. 34 | 240 |
+| art. 36 | 252 |
+| art. 38 | 260 |
+| art. 39 | 368 |
+| art. 40 | 396 |
+| art. 40-A | 407 |
+| art. 40-B | 431 |
+| art. 44 | 437 |
+| art. 45 | 445 |
+| art. 46 | 455 |
+| art. 48 | 480 |
+| art. 56 | 513 |
+| art. 57-A | 519 |
+| art. 60-A | 526 |
+| art. 63 | 532 |
+| Citada sem dispositivo identificado | 567 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -549,3 +590,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/2042 | 2010-06-02 | outro | normativo | O Colegiado aprovou a edição de Instrução que acrescenta e altera dispositivos da Instrução CVM 356/01, elaborada após a Audiência Pública 05/2009. | cvm/colegiado/2010/col-20100602-d01.md |
 | decisao-colegiado | RJ2009/2042 | 2009-07-14 | indeferido | normativo | O Colegiado não prorrogou o prazo para comentários à Audiência Pública 05/09, sobre minuta de instrução que altera a Instrução CVM 356/01. O pedido foi feito pela ANDIMA e encaminhado pela SDM. | cvm/colegiado/2009/col-20090714-d08.md |
 | decisao-colegiado | 356/2001 | 2009-05-06 | outro | normativo | O Colegiado aprovou, com alterações, proposta de alteração da Instrução CVM 356/01 (FIDC e FIC-FIDC) para audiência pública de 30 dias. A SDM consolidará as sugestões e comentários. | cvm/colegiado/2009/col-20090506-d01.md |
+
+Fim do subíndice.

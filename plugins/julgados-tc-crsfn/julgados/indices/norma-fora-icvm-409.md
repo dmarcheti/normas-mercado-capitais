@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 844 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (25); art. 7º (31); art. 8º (40); art. 10 (51); art. 12 (58); art. 15 (65); art. 17 (71); art. 30 (79)
+art. 36 (104); art. 40 (111); art. 43 (117); art. 47 (123); art. 48 (129); art. 49 (139); art. 50 (146)
+art. 54 (152); art. 55 (158); art. 56 (166); art. 57 (185); art. 60 (200); art. 61 (222); art. 62 (228)
+art. 63 (234); art. 65 (240); art. 65-A (332); art. 65-B (432); art. 67 (446); art. 68 (452); art. 71 (458)
+art. 73 (465); art. 75 (472); art. 76 (482); art. 77 (499); art. 78 (509); art. 79 (515); art. 82 (523)
+art. 83 (529); art. 86 (543); art. 87 (559); art. 88 (569); art. 89 (587); art. 90 (594); art. 91 (601)
+art. 95 (610); art. 95-B (618); art. 96 (625); art. 99 (633); art. 100 (640); art. 101 (646); art. 103 (652)
+art. 104 (659); art. 109 (665); art. 110 (673); art. 110-B (681); art. 112 (689); art. 115-A (698)
+art. 117 (704); art. 118 (727); art. 119-A (733); art. 124 (761); art. 199-A (771); art. 433 (777)
+art. 561 (783); art. 753 (789); art. 761 (795); art. 792 (801); Citada sem dispositivo identificado (807)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -825,3 +840,5 @@ Norma: fora do acervo.
 | termo-compromisso | 04/2003 | 2005-04-26 | rejeitado | manipulacao-fraude | O Colegiado rejeitou proposta de Termo de Compromisso do Banco Opportunity S.A. e de um indiciado pessoa física no PAS 04/2003, por tratamento não equitativo aos cotistas do fundo CVC/Opportunity Equity Partners na cobrança de comissão de colocação. Considerou a proposta inoportuna e inconveniente, acompanhando o relator. | cvm/colegiado/2005/col-20050426-d02.md |
 | termo-compromisso | RJ2003/5459 | 2005-03-08 | aceito | outros | O Colegiado aprovou nova proposta de Termo de Compromisso do Banco Bradesco S.A. e de um indiciado pessoa física no PAS RJ2003/5459, apresentada em pedido de reconsideração da rejeição de 23.12.04, que apontara cláusulas inócuas. Fundamentos: argumentos do relator e manifestações favoráveis da SIN e da PFE. | cvm/colegiado/2005/col-20050308-d05.md |
 | termo-compromisso | RJ2003/5459 | 2004-12-23 | rejeitado | outros | O Colegiado negou a celebração de Termo de Compromisso proposto por Banco Bradesco S.A. e seu diretor responsável, indiciados no PAS CVM RJ2003/5459, acompanhando o voto do relator, que entendeu não ser possível aceitar a minuta nos termos apresentados, sem prejuízo de nova proposta. | cvm/colegiado/2004/col-20041223-d06.md |
+
+Fim do subíndice.

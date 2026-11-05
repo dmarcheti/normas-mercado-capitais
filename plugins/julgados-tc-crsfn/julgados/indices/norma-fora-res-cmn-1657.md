@@ -48,3 +48,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | intermediacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Financiamento de saldos devedores de responsabilidade de cliente sem prévia assinatura do respectivo contrato – Irregularidade caracterizada – Apelos a que se nega provimento. | crsfn/2007/6311.md |
 | termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | intermediacao | O Colegiado rejeitou a proposta de Termo de Compromisso da BRB DTVM S.A. e de seu diretor, em PAS por uso indevido de recursos de investidor em conta corrente, acompanhando o parecer do Comitê. Fundamento: o pagamento proposto não desestimula infrações semelhantes, requisito da celebração. Devolveu o processo à SIN para PAS de rito sumário. | cvm/colegiado/2006/col-20060829-d04.md |
 | termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | processual | O Colegiado negou a celebração de termo de compromisso proposto por uma corretora e outros proponentes em processo de rito sumário, por considerar insuficientes os termos da proposta, com base no voto do relator. | cvm/colegiado/2004/col-20040805-d05.md |
+
+Fim do subíndice.

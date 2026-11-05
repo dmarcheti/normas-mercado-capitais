@@ -56,3 +56,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm/colegiado/2002/col-20021210-d01.md |
+
+Fim do subíndice.

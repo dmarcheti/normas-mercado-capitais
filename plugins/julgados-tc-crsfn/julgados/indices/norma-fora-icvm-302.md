@@ -7,6 +7,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 377 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 5º | 56 |
+| art. 7º | 63 |
+| art. 14 | 69 |
+| art. 19 | 75 |
+| art. 26 | 81 |
+| art. 27 | 87 |
+| art. 34 | 93 |
+| art. 37 | 99 |
+| art. 38 | 105 |
+| art. 41 | 112 |
+| art. 42 | 118 |
+| art. 47 | 124 |
+| art. 49 | 130 |
+| art. 50 | 139 |
+| art. 51 | 149 |
+| art. 52 | 160 |
+| art. 52-O | 167 |
+| art. 54 | 173 |
+| art. 55 | 186 |
+| art. 56 | 192 |
+| art. 57 | 200 |
+| art. 62 | 235 |
+| art. 63 | 243 |
+| art. 64 | 249 |
+| art. 67 | 260 |
+| art. 69 | 266 |
+| art. 71 | 276 |
+| art. 72 | 283 |
+| art. 86 | 291 |
+| art. 87 | 297 |
+| art. 89 | 303 |
+| art. 93 | 309 |
+| art. 98 | 315 |
+| art. 99 | 321 |
+| art. 101 | 330 |
+| art. 103 | 337 |
+| art. 104 | 356 |
+| art. 381 | 362 |
+| Citada sem dispositivo identificado | 368 |
+
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -327,3 +373,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2009/11393 | 2010-11-30 | aceito | manipulacao-fraude | O Colegiado aceitou a proposta de termo de compromisso da BTG Pactual Asset Management S.A. DTVM (antiga UBS Pactual) e de dois administradores, que pagarão R$ 173.533,89 à Fundação Sistel e R$ 50.000,00 à CVM, acompanhando o Comitê. Rejeitou as propostas da Fair Corretora de Câmbio S.A. (R$ 50.000,00), de um diretor (R$ 50.000,00) e de outro proponente (R$ 30.000,00). | cvm/colegiado/2010/col-20101130-d02.md |
 | acordao-crsfn | RJ-2007-9559 | 2010-10-27 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Omissão no dever legal, como administradora de investimentos, de comunicação à CVM acerca de negociação de ações (aquisição e alienação) – Irregularidade configurada – Apelo a que se nega provimento. | crsfn/2010/11955.md |
 | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
+
+Fim do subíndice.

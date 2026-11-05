@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 427 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2021-12 | 29 |
+| 2021-11 | 67 |
+| 2021-10 | 116 |
+| 2021-09 | 150 |
+| 2021-08 | 172 |
+| 2021-07 | 206 |
+| 2021-06 | 240 |
+| 2021-05 | 273 |
+| 2021-04 | 305 |
+| 2021-03 | 332 |
+| 2021-02 | 365 |
+| 2021-01 | 403 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 400/2003; 476/2009; 480/2009; 588/2017; 6/2020; 8/2020; 54/2021; 19957.006333/2020-23 | 2021-12-22 | outro | multa-cominatoria-taxa | Proposta de resolução. Proc. SEI 19957.006333/2020-23. | cvm/colegiado/2021/col-20211222-d2457.md |
@@ -404,3 +423,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.006232/2020-52 | 2021-01-05 | outro | registro-emissor | O Colegiado deu início à discussão de consulta da SRE sobre se a G2D Investments, emissora de BDRs constituída em Bermudas, é assemelhada a companhia aberta para o art. 2º da ICVM 332/00, diante de possível arbitragem regulatória em FIPs. Solicitou à área técnica diligências adicionais. Sem decisão de mérito. | cvm/colegiado/2021/col-20210105-d2028.md |
 | 19957.007302/2020-90 | 2021-01-05 | outro | registro-emissor | O Colegiado decidiu, por unanimidade, que o emissor de lastro de BDR pode ser organizado nos termos da consulta: a VBI US RE Holdco, investment company dos EUA, é assemelhada a companhia aberta brasileira para fins da ICVM 332, à luz do Memorando da SRE. Registrou a necessidade de revisar a ICVM 332 no projeto de BDR. | cvm/colegiado/2021/col-20210105-d2027.md |
 | 19957.005554/2020-84 | 2021-01-05 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005554/2020-84. | cvm/colegiado/2021/col-20210105-d2026.md |
+
+Fim do subíndice.

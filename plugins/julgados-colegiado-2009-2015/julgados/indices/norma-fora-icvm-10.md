@@ -7,6 +7,34 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 421 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 38 |
+| art. 2º | 48 |
+| art. 3º | 106 |
+| art. 5º | 141 |
+| art. 6º | 148 |
+| art. 7º | 154 |
+| art. 8º | 162 |
+| art. 9º | 176 |
+| art. 10 | 221 |
+| art. 11 | 229 |
+| art. 12 | 237 |
+| art. 14 | 257 |
+| art. 15 | 268 |
+| art. 16 | 276 |
+| art. 20 | 282 |
+| art. 21 | 288 |
+| art. 22 | 295 |
+| art. 23 | 301 |
+| art. 24 | 387 |
+| art. 26 | 393 |
+| Citada sem dispositivo identificado | 399 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -389,3 +417,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/3862 | 2012-05-29 | conhecimento | processual | O Colegiado não conheceu do pedido de reconsideração apresentado pela TOV Corretora e outro contra decisão de 09.04.2012 que indeferiu a interrupção do prazo de convocação de AGE da BM&FBovespa, mantendo a decisão anterior. Pelo voto do relator, faltou interesse de agir, pois a assembleia já havia ocorrido em 10.04.2012. | cvm/colegiado/2012/col-20120529-d01.md |
 | decisao-colegiado | RJ2011/6574 | 2011-09-06 | deferido | outros | O Colegiado autorizou a Valid a transferir, de forma privada, ações em tesouraria para pagamento de bônus a executivos, conforme Plano aprovado em assembleia de 26.4.11 (Instrução CVM 10/80), dispensando nova autorização para cada operação do Plano. | cvm/colegiado/2011/col-20110906-d25.md |
 | decisao-colegiado | RJ2008/11191 | 2009-03-03 | outro | outros | O Colegiado extinguiu, sem apreciação do mérito, pedido da Brasil Telecom S.A. de autorização para adquirir ações de própria emissão em bolsa (Instrução 10/80). A companhia perdeu o interesse após a transferência do controle e a eleição de nova administração. | cvm/colegiado/2009/col-20090303-d11.md |
+
+Fim do subíndice.

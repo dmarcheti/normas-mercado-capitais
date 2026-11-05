@@ -15,3 +15,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 03/2012 | 2023-08-24 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. MERCADO DE CAPITAIS. DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA E DE LEALDADE ESPERADOS DOS ADMINISTRADORES DE COMPANHIA ABERTA. Infração ao art. 155, caput, da Lei nº 6.404/76. Irregularidade caracterizada. Recurso conhecido e desprovido. | crsfn/2023/10372-100031-2020-47.md |
+
+Fim do subíndice.

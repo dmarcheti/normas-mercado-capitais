@@ -222,3 +222,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2006/5768; RJ2006/5773 | 2007-01-30 | parcial | fundos-investimento | O Colegiado deu parcial provimento a recurso da Mellon DTVM contra determinações da SIN sobre fundos multimercado. Admitiu a co-titularidade de cotas e que a relação dos prestadores do serviço de distribuição não conste do prospecto, mas rejeitou a interpretação da recorrente ao art. 16 da Instrução 409/04, vencido um diretor nesse ponto. | cvm/colegiado/2007/col-20070130-d01.md |
+
+Fim do subíndice.

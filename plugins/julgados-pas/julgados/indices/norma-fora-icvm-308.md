@@ -7,6 +7,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 710 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 56 |
+| art. 2º | 67 |
+| art. 4º | 81 |
+| art. 5º | 89 |
+| art. 6º | 95 |
+| art. 6º-A | 103 |
+| art. 7º | 110 |
+| art. 11 | 117 |
+| art. 15 | 123 |
+| art. 19 | 134 |
+| art. 20 | 152 |
+| art. 21 | 262 |
+| art. 22 | 277 |
+| art. 23 | 283 |
+| art. 24 | 292 |
+| art. 25 | 298 |
+| art. 26 | 377 |
+| art. 27 | 393 |
+| art. 28 | 401 |
+| art. 31 | 407 |
+| art. 33 | 425 |
+| art. 34 | 465 |
+| art. 35 | 495 |
+| art. 36 | 528 |
+| art. 37 | 534 |
+| art. 201 | 604 |
+| art. 202 | 616 |
+| art. 203 | 624 |
+| art. 209 | 631 |
+| art. 212 | 637 |
+| art. 224 | 643 |
+| art. 252 | 649 |
+| art. 311 | 656 |
+| art. 312 | 662 |
+| art. 316 | 668 |
+| art. 331 | 674 |
+| art. 353 | 682 |
+| art. 373 | 688 |
+| Citada sem dispositivo identificado | 695 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -660,3 +706,5 @@ Norma: fora do acervo.
 | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | cvm/pas/2001/08-1998.md |
 | pas | 32/2000 | 2001-10-10 | condenacao | auditoria-independente | [pessoa física], KPMG AUDITORES INDEPENDENTES E OUTRO I.- Empresa de auditoria e seus responsáveis técnicos. O fato de qualquer sócio ou outro integrante do corpo técnico do auditor vir a ocupar o cargo de conselheiro fiscal em uma empresa prejudica a independência que o auditor deve ter, necessariamente. Advertência à empresa de auditoria. Advertência ao sócio. II - Conselheiro fiscal que é sócio de uma empresa de auditoria. Conflito de interesses. Se um membro do conselho fiscal de uma companhia aberta também integra, na condição de sócio, a empresa de auditoria independente que a assiste, deixa de ter a necessária isenção para exercer o seu mister. Advertência. | cvm/pas/2001/32-2000.md |
 | pas | 25/1999 | 2000-08-24 | condenacao | auditoria-independente | GAPLAN AUDITORIA EXTERNA S/C, [pessoa física] Auditoria Inepta | cvm/pas/2000/25-1999.md |
+
+Fim do subíndice.

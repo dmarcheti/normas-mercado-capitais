@@ -99,3 +99,5 @@ Norma: [cvm/resolucoes/0081.md](../../../normas/normas/cvm/resolucoes/0081.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.000588/2021-63 | 2022-07-19 | aceito | assembleia-acionistas | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de administradores da Baumer S.A., acompanhando o Comitê. Acusação: propostas de destinação de lucros às AGOs de 2015 a 2020 (Lei 6.404, arts. 193, 196 e 197). Pagamento à CVM de R$ 824.614,00 e obrigação de fazer. | cvm/colegiado/2022/col-20220719-d2652.md |
+
+Fim do subíndice.

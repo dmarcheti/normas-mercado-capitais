@@ -8,6 +8,67 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 633 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| res-cvm-0 | 72 |
+| res-cvm-4 | 98 |
+| res-cvm-5 | 106 |
+| res-cvm-6-1999 | 114 |
+| res-cvm-8-1979 | 122 |
+| res-cvm-16 | 132 |
+| res-cvm-23-2012 | 156 |
+| res-cvm-26 | 164 |
+| res-cvm-28-1983 | 172 |
+| res-cvm-39 | 180 |
+| res-cvm-45-2001 | 188 |
+| res-cvm-45-2019 | 209 |
+| res-cvm-50-1993 | 217 |
+| res-cvm-51 | 225 |
+| res-cvm-66 | 233 |
+| res-cvm-80-2020 | 241 |
+| res-cvm-115-2010 | 249 |
+| res-cvm-129-1979 | 257 |
+| res-cvm-168 | 277 |
+| res-cvm-169 | 285 |
+| res-cvm-180 | 293 |
+| res-cvm-181 | 302 |
+| res-cvm-202 | 310 |
+| res-cvm-238-1972 | 318 |
+| res-cvm-241 | 331 |
+| res-cvm-242-2001 | 339 |
+| res-cvm-303 | 347 |
+| res-cvm-306 | 355 |
+| res-cvm-320 | 369 |
+| res-cvm-356 | 377 |
+| res-cvm-358 | 385 |
+| res-cvm-400 | 394 |
+| res-cvm-427 | 402 |
+| res-cvm-436 | 410 |
+| res-cvm-441 | 418 |
+| res-cvm-454 | 432 |
+| res-cvm-481 | 460 |
+| res-cvm-550 | 468 |
+| res-cvm-560 | 476 |
+| res-cvm-607 | 484 |
+| res-cvm-700 | 492 |
+| res-cvm-750 | 500 |
+| res-cvm-752 | 516 |
+| res-cvm-820 | 524 |
+| res-cvm-830 | 533 |
+| res-cvm-836 | 542 |
+| res-cvm-910 | 550 |
+| res-cvm-922 | 558 |
+| res-cvm-953 | 566 |
+| res-cvm-1022 | 580 |
+| res-cvm-1289 | 588 |
+| res-cvm-1657 | 596 |
+| res-cvm-2689 | 604 |
+| res-cvm-3922 | 625 |
+
 ## res-cvm-0
 
 ### art. 15
@@ -568,3 +629,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.011368/2017-89 | 2018-12-18 | rejeitado | fundos-investimento | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de administradora de fundo e de sua diretora responsável por carteiras, por falta de lealdade e diligência com cotistas (art. 16, I, da Instrução CVM 558/15). Segundo o Comitê, os proponentes não aprimoraram a proposta conforme a contraproposta de R$ 650.000,00 e a proposta final era insuficiente. | cvm/colegiado/2018/col-20181218-d1124.md |
+
+Fim do subíndice.

@@ -28,3 +28,5 @@ Norma: fora do acervo.
 | art. 13 | decisao-colegiado | RJ2008/12179 | 2011-04-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/12179. | cvm/colegiado/2011/col-20110405-d01.md |
 | art. 13 | decisao-colegiado | RJ2011/5954 | 2012-12-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/5954. | cvm/colegiado/2012/col-20121218-d05.md |
 | art. 13 | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/4742. | cvm/colegiado/2013/col-20130723-d02.md |
+
+Fim do subíndice.

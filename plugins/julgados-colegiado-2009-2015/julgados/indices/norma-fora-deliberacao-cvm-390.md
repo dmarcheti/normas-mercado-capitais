@@ -54,3 +54,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2010/15645 | 2010-12-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15645. | cvm/colegiado/2010/col-20101214-d28.md |
 | decisao-colegiado | RJ2010/15643 | 2010-12-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15643. | cvm/colegiado/2010/col-20101214-d16.md |
 | decisao-colegiado | RJ2010/15639 | 2010-11-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15639. | cvm/colegiado/2010/col-20101123-d19.md |
+
+Fim do subíndice.

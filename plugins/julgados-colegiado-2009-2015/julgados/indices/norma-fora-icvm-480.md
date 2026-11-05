@@ -7,6 +7,61 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 2258 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 65 |
+| art. 2º | 72 |
+| art. 4º | 97 |
+| art. 6º | 105 |
+| art. 7º | 111 |
+| art. 8º | 120 |
+| art. 9º | 126 |
+| art. 10 | 132 |
+| art. 13 | 144 |
+| art. 14 | 185 |
+| art. 20 | 192 |
+| art. 21 | 199 |
+| art. 22 | 946 |
+| art. 23 | 961 |
+| art. 24 | 1190 |
+| art. 25 | 1264 |
+| art. 26 | 1308 |
+| art. 27 | 1314 |
+| art. 28 | 1321 |
+| art. 29 | 1357 |
+| art. 30 | 1516 |
+| art. 31 | 1528 |
+| art. 36 | 1537 |
+| art. 38 | 1549 |
+| art. 43 | 1556 |
+| art. 45 | 1562 |
+| art. 47 | 1576 |
+| art. 48 | 1586 |
+| art. 49 | 1600 |
+| art. 50 | 1607 |
+| art. 51 | 1620 |
+| art. 52 | 1627 |
+| art. 53 | 1636 |
+| art. 54 | 1646 |
+| art. 55 | 1657 |
+| art. 56 | 1663 |
+| art. 57 | 1753 |
+| art. 58 | 1759 |
+| art. 59 | 2011 |
+| art. 60 | 2019 |
+| art. 64 | 2025 |
+| art. 65 | 2033 |
+| art. 124 | 2109 |
+| art. 133 | 2115 |
+| art. 171 | 2121 |
+| art. 172 | 2128 |
+| art. 245 | 2135 |
+| Citada sem dispositivo identificado | 2141 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -2199,3 +2254,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2010/2639 | 2010-03-09 | indeferido | assembleia-acionistas | O Colegiado indeferiu, por maioria, pedido de interrupção por 15 dias do prazo de antecedência da AGE da Duke Energy International Geração Paranapanema S.A. Contra o parecer da SEP, entendeu que a apuração da ilegalidade não cabia no prazo de 15 dias e deve ser feita em procedimento próprio. | cvm/colegiado/2010/col-20100309-d01-r2.md |
 | decisao-colegiado | — | 2010-03-02 | nao-provido | divulgacao-informacoes | O Colegiado indeferiu pedido de reconsideração da Abrasca e manteve a decisão de 26.01.10, que negou adiar para 2011 a vigência do item 13.11 do Anexo 24 da Instrução 480/09 (divulgação da maior, da menor e da remuneração média por órgão), por inexistência de fatos novos. | cvm/colegiado/2010/col-20100302-d25.md |
 | decisao-colegiado | — | 2010-01-26 | indeferido | divulgacao-informacoes | O Colegiado indeferiu pleito da Abrasca para adiar para 2011 a vigência do item 13.11 do anexo 24 da Instrução 480/09, que manda divulgar a maior, a menor e a remuneração média por órgão da administração. Considerou inoportuno o adiamento: o item foi debatido em audiência pública e diversas companhias já divulgaram os dados. | cvm/colegiado/2010/col-20100126-d18.md |
+
+Fim do subíndice.

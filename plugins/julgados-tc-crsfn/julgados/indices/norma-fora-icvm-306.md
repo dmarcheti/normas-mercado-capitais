@@ -7,6 +7,35 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 549 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 39 |
+| art. 3º | 64 |
+| art. 3º-A | 128 |
+| art. 4º | 134 |
+| art. 6º | 142 |
+| art. 7º | 148 |
+| art. 8º | 171 |
+| art. 12 | 178 |
+| art. 14 | 185 |
+| art. 14-A | 351 |
+| art. 15 | 357 |
+| art. 16 | 382 |
+| art. 17 | 425 |
+| art. 18 | 440 |
+| art. 19 | 474 |
+| art. 20 | 481 |
+| art. 21-A | 487 |
+| art. 25 | 494 |
+| art. 30 | 500 |
+| art. 34 | 506 |
+| art. 65 | 512 |
+| Citada sem dispositivo identificado | 518 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -516,3 +545,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2006/3410 | 2006-10-24 | rejeitado | analistas-rating | O Colegiado rejeitou proposta de termo de compromisso de pessoa física acusada de exercer atividade de analista de valores mobiliários sem registro na CVM. Segundo o Comitê, a proposta era desproporcional à gravidade dos fatos. Determinou à Superintendência de Desenvolvimento de Mercado minuta reformulando a Instrução 388/03 para prever a responsabilidade do administrador contratante. | cvm/colegiado/2006/col-20061024-d07.md |
 | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 | termo-compromisso | SP2002/0440; SP2005/0099 | 2006-02-15 | aceito | outros | O Colegiado aceitou as propostas de termo de compromisso dos proponentes dos PAS SP2002/0440 e SP2005/0099, acompanhando o parecer do Comitê, que as considerou convenientes e oportunas. Pagamento qualificado como condição de eficácia do termo; prazo de trinta dias para assinatura; a SAD atestará o cumprimento. | cvm/colegiado/2006/col-20060215-d03.md |
+
+Fim do subíndice.

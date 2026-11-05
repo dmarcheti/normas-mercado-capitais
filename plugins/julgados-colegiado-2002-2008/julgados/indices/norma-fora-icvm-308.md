@@ -7,6 +7,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 397 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 41 |
+| art. 3º | 47 |
+| art. 4º | 53 |
+| art. 5º | 61 |
+| art. 6º | 68 |
+| art. 11 | 75 |
+| art. 16 | 81 |
+| art. 17 | 147 |
+| art. 18 | 173 |
+| art. 19 | 264 |
+| art. 20 | 270 |
+| art. 23 | 277 |
+| art. 25 | 283 |
+| art. 26 | 290 |
+| art. 27 | 296 |
+| art. 28 | 302 |
+| art. 30 | 309 |
+| art. 31 | 317 |
+| art. 33 | 335 |
+| art. 35 | 343 |
+| art. 38 | 349 |
+| art. 41 | 356 |
+| art. 84 | 362 |
+| Citada sem dispositivo identificado | 368 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -362,3 +393,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2001/2166 | 2002-04-10 | parcial | deveres-administradores | O Colegiado deu provimento parcial a recurso de conselheiro fiscal contra decisão da SEP: negou a antecipação da convocação do conselho fiscal e o refazimento de atos, e determinou à SEP que examine desde logo proposta de inquérito ou termo de acusação por possível fraude ao art. 161, § 4º, a, da Lei 6.404/76. | cvm/colegiado/2002/col-20020410-d05.md |
 | decisao-colegiado | RJ2002/1160 | 2002-03-28 | provido | multa-cominatoria-taxa | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/1160. | cvm/colegiado/2002/col-20020328-d02.md |
 | decisao-colegiado | RJ2002/1430 | 2002-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SNC de aplicação de multa cominatória. Proc. RJ2002/1430. | cvm/colegiado/2002/col-20020319-d08.md |
+
+Fim do subíndice.

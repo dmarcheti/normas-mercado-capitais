@@ -34,3 +34,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2007/9091 | 2008-10-21 | outro | infraestrutura-mercado | O Colegiado tomou ciência da aprovação pela SMI dos regulamentos da BSM e da BVSP sobre listagem, custódia e liquidação de BDRs Nível 1 não patrocinados, com ressalvas da SMI e da SRE. A aprovação foi condicionada a ferramenta de acompanhamento de operações pela BSM. | cvm/colegiado/2008/col-20081021-d02.md |
+
+Fim do subíndice.

@@ -129,3 +129,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2004/7061 | 2006-01-10 | rejeitado | auditoria-independente | O Colegiado rejeitou a proposta de termo de compromisso do proponente, a Imáteo Auditoria e Consultoria, por pareceres de auditoria assinados por contador não habilitado como responsável técnico. Segundo o voto do relator, o registro posterior não corrige efeitos já produzidos e não há proposta de indenização ao mercado ou à CVM. | cvm/colegiado/2006/col-20060110-d03.md |
 | acordao-crsfn | 96/2040 | 1998-07-30 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas exigidas pela Instrução CVM 216/94 - Infração caracterizada - Apelo improvido. | crsfn/1998/2506.md |
 | acordao-crsfn | 96/2044 | 1998-07-30 | absolvicao | auditoria-independente | RECURSO DE OFÍCIO. Mercado de Valores Mobiliários - Auditor independente - Falta de tempestiva remessa de informações periódicas (Instrução CVM 216/94) - Acolhimento das razões de defesa - Recurso improvido - Arquivamento do processo. | crsfn/1998/2479.md |
+
+Fim do subíndice.

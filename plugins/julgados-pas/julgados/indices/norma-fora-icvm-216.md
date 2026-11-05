@@ -181,3 +181,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | 19957.005740_2020_13 | 2023-11-07 | parcial | auditoria-independente | Apurar infração ao art. 20 da Instrução CVM nº 308/1999, em relação a programa de revisão externa de qualidade e da prestação de serviços de auditoria independente quanto às demonstrações financeiras relativas ao exercício social findo em 31.12.2015 da Grazziotin S.A. Multas e absolvição. | cvm/pas/2023/19957-005740-2020-13.md |
 | pas | RJ2004/7061 | 2006-01-19 | condenacao | auditoria-independente | O auditor independente, no exercício de sua atividade no âmbito do mercado de valores mobiliários, deve cumprir e fazer cumprir, por seus empregados e prepostos, as normas específicas emanadas da Comissão de Valores Mobiliários. | cvm/pas/2006/rj2004-7061.md |
+
+Fim do subíndice.

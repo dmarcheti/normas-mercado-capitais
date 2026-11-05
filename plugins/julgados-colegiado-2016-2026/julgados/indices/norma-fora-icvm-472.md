@@ -7,6 +7,50 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 428 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 4º | 54 |
+| art. 5º | 60 |
+| art. 6º | 67 |
+| art. 7º | 73 |
+| art. 9º | 79 |
+| art. 10 | 85 |
+| art. 12 | 92 |
+| art. 15 | 98 |
+| art. 17-A | 109 |
+| art. 18 | 115 |
+| art. 19 | 130 |
+| art. 19-A | 142 |
+| art. 20 | 152 |
+| art. 21 | 166 |
+| art. 22 | 173 |
+| art. 23 | 180 |
+| art. 24 | 188 |
+| art. 25 | 218 |
+| art. 26 | 225 |
+| art. 28 | 231 |
+| art. 29 | 237 |
+| art. 31 | 244 |
+| art. 31-A | 251 |
+| art. 32 | 257 |
+| art. 33 | 267 |
+| art. 34 | 278 |
+| art. 35 | 303 |
+| art. 36 | 318 |
+| art. 37 | 325 |
+| art. 39 | 331 |
+| art. 41 | 349 |
+| art. 45 | 357 |
+| art. 47 | 369 |
+| art. 55 | 376 |
+| art. 57 | 385 |
+| art. 59 | 394 |
+| Citada sem dispositivo identificado | 403 |
+
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -380,3 +424,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 01/2016; 472/2008; RJ2015/13111 | 2016-09-06 | outro | normativo | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 01/2016, que altera a ICVM 472/2008 (FII) para incluir consultores especializados entre os participantes que podem praticar atos em conflito com fundos imobiliários. Tais atos dependem de aprovação da assembleia geral de cotistas, como já ocorre com administradores e gestores. | cvm/colegiado/2016/col-20160906-d0084.md |
 | decisao-colegiado | RJ2013/12939 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12939. | cvm/colegiado/2016/col-20160607-d0239.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

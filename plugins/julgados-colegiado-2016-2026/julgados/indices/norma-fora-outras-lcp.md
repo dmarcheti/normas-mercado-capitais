@@ -160,3 +160,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º, § 4º, inciso VII | decisao-colegiado | 19957.004933/2016-71 | 2016-09-13 | provido | ofertas-publicas | O Colegiado deu provimento, por unanimidade, a recurso contra indeferimento pela SRE de dispensa automática de registro (art. 5º, III, da Instrução CVM 400/2003) de cinco SPEs. A SRE entendeu que a titularidade temporária de ações da investida afastaria o enquadramento como ME/EPP. Para o relator, seguido pelos demais membros, a elegibilidade se verifica na data da oferta. | cvm/colegiado/2016/col-20160913-d0327.md |
+
+Fim do subíndice.

@@ -36,3 +36,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2010/8708 | 2010-11-30 | rejeitado | deveres-administradores | O Colegiado rejeitou a proposta de termo de compromisso de membro do Conselho de Administração da CELM – Companhia Equipadora de Laboratórios Modernos, no valor de R$ 15.000,00, acompanhando o parecer do Comitê, que a considerou desproporcional às imputações de não convocação das AGOs de 2007 e 2008 e de vacância do cargo de DRI em 2009. | cvm/colegiado/2010/col-20101130-d03.md |
 | termo-compromisso | RJ2010/3278 | 2010-11-04 | aceito | divulgacao-informacoes | O Colegiado aceitou as três propostas de termo de compromisso, de R$ 100.000,00 para cada um de dois proponentes e R$ 200.000,00 para o terceiro, acompanhando o parecer do Comitê. Acusados de não divulgar fato relevante sobre a incorporação da Fit Residencial após oscilação atípica das ações (art. 157, §4º, Lei 6.404/76). | cvm/colegiado/2010/col-20101104-d01.md |
+
+Fim do subíndice.

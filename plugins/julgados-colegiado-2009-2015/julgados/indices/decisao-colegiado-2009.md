@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 583 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2009-12 | 29 |
+| 2009-11 | 115 |
+| 2009-10 | 166 |
+| 2009-09 | 213 |
+| 2009-08 | 256 |
+| 2009-07 | 280 |
+| 2009-06 | 309 |
+| 2009-05 | 359 |
+| 2009-04 | 396 |
+| 2009-03 | 450 |
+| 2009-02 | 537 |
+| 2009-01 | 562 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2009-12-23 | deferido | divulgacao-informacoes | O Colegiado deferiu tratamento confidencial a laudo usado para fixar o preço de ações do Banco Mercantil do Brasil S.A. em aumento de capital por subscrição privada, por não haver obrigação de divulgá-lo na regulamentação vigente. Anotou que o art. 14 da Instrução 481/09 passará a exigir essa divulgação, não sendo mais cabíveis pedidos semelhantes. | cvm/colegiado/2009/col-20091223-d01.md |
@@ -560,3 +579,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 26/2006 | 2009-01-06 | outro | processual | O Colegiado determinou o arquivamento do PAS 26/2006 por ter sido cumprido o termo de compromisso firmado por Romanche Investment Corporation LLC, com base na manifestação da SAD: o pagamento ocorreu na forma convencionada e não há obrigação adicional. | cvm/colegiado/2009/col-20090106-d05.md |
 | RJ2007/2342 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2342. | cvm/colegiado/2009/col-20090106-d04.md |
 | RJ2002/3630 | 2009-01-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3630. | cvm/colegiado/2009/col-20090106-d03.md |
+
+Fim do subíndice.

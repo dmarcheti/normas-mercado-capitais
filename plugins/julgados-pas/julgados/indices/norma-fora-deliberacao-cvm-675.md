@@ -33,3 +33,5 @@ Norma: fora do acervo.
 | pas | RJ2014/4395 | 2015-08-11 | condenacao | auditoria-independente | Inobservância das normas contábeis aplicáveis – Não aplicação dos procedimentos de auditoria aprovados. Multas. | cvm/pas/2015/rj2014-4395.md |
 | pas | RJ2014/1442 | 2015-06-02 | condenacao | contabil-demonstracoes | Elaboração de demonstrações financeiras sem observância das regras do Comitê de Pronunciamentos Contábeis. Multas. | cvm/pas/2015/rj2014-1442.md |
 | pas | RJ2014/918 | 2014-11-04 | parcial | contabil-demonstracoes | Descumprimento do dever de diligência - elaboração e aprovação das demonstrações financeiras em desacordo com as práticas contábeis aceitas no Brasil. Absolvição e multas. | cvm/pas/2014/rj2014-0918.md |
+
+Fim do subíndice.

@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 6º | 25 |
+| art. 13 | 35 |
+| art. 14 | 70 |
+| art. 16 | 85 |
+| art. 17 | 207 |
+| art. 18 | 217 |
+| art. 21 | 250 |
+| Citada sem dispositivo identificado | 256 |
+
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -270,3 +285,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/8962 | 2009-03-11 | outro | normativo | O Colegiado aprovou, com alterações, minuta de alteração da Instrução 400/03, sobre ofertas públicas de distribuição nos mercados primário e secundário. A SDM consolidará as sugestões e fará audiência pública pelo prazo de 30 dias. Determinou também que a SDM ajuste a minuta da nova Instrução 202/93. | cvm/colegiado/2009/col-20090311-d01.md |
 | decisao-colegiado | RJ2008/10808 | 2009-03-10 | provido | ofertas-publicas | O Colegiado deu provimento a recurso da Taípe Trancoso Empreendimentos S.A. contra a SEP, que condicionara a negociação de ações no balcão organizado à oferta pública ou a prospecto. Fundamento do voto de vista de um diretor: ausência de esforço organizado de colocação junto a terceiros, o que dispensa o prospecto (art. 2º da Instrução CVM 400/03). | cvm/colegiado/2009/col-20090310-d01-r2.md |
 | decisao-colegiado | RJ2008/11861 | 2009-03-03 | indeferido | ofertas-publicas | O Colegiado, por maioria, vencido um diretor, negou a dispensa de prospecto para negociação pública de bônus de subscrição da Recrusul S.A., acompanhando a SRE. Esta aplicou precedentes da CVM: a companhia não tem histórico ativo de distribuição ou negociação pública e não integra índices de negociação. | cvm/colegiado/2009/col-20090303-d13.md |
+
+Fim do subíndice.

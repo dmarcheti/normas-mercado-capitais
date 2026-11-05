@@ -54,3 +54,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/0788 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0788. | cvm/colegiado/2008/col-20080219-d12.md |
 | decisao-colegiado | RJ2008/0787 | 2008-02-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/0787. | cvm/colegiado/2008/col-20080219-d11.md |
 | decisao-colegiado | RJ2007/12049 | 2007-10-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12049. | cvm/colegiado/2007/col-20071017-d12.md |
+
+Fim do subíndice.

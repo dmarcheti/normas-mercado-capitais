@@ -7,6 +7,44 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 971 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 48 |
+| art. 2º | 60 |
+| art. 4º | 106 |
+| art. 6º | 128 |
+| art. 8º | 134 |
+| art. 9º | 176 |
+| art. 10 | 295 |
+| art. 11 | 301 |
+| art. 12 | 566 |
+| art. 13 | 573 |
+| art. 15 | 592 |
+| art. 16 | 617 |
+| art. 17 | 644 |
+| art. 18 | 652 |
+| art. 19 | 662 |
+| art. 20 | 713 |
+| art. 21 | 724 |
+| art. 22 | 781 |
+| art. 23 | 805 |
+| art. 24 | 825 |
+| art. 25 | 834 |
+| art. 26 | 840 |
+| art. 27 | 849 |
+| art. 27-D | 855 |
+| art. 27-E | 862 |
+| art. 28 | 869 |
+| art. 31 | 876 |
+| art. 60 | 892 |
+| art. 90 | 898 |
+| art. 171 | 904 |
+| Citada sem dispositivo identificado | 910 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -929,3 +967,5 @@ Norma: [leis/lei-06385.md](../../../normas/normas/leis/lei-06385.md) (texto vige
 | decisao-colegiado | RJ2001/11249 | 2002-06-25 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso da Hedging-Griffo contra decisão da SEP sobre a incorporação da Antarctica Nordeste pela AmBev, em que se pedia novos laudos para a relação de troca. Fundamento: não se apontou irregularidade no laudo, e a incorporação não depende de aprovação da CVM; inquérito fica ressalvado se surgirem novos fatos. | cvm/colegiado/2002/col-20020625-d06.md |
 | decisao-colegiado | — | 2002-04-30 | outro | normativo | O Colegiado aprovou a Decisão Conjunta CVM/BCB que mantém, até a CVM disponibilizar sistema próprio, o uso pelas bolsas, entidades de compensação e administradoras de fundos do sistema de informações do Banco Central. Cria grupo de trabalho para minuta de convênio entre as autarquias, em trinta dias, em razão da Lei 10.303/2001. | cvm/colegiado/2002/col-20020430-d02.md |
 | decisao-colegiado | RJ2000/5874 | 2002-03-19 | nao-provido | processual | O Colegiado rejeitou pedido de reconsideração do Banco Opportunity S.A. contra decisão que manteve o refazimento de demonstrações financeiras de fundo de investimento, por não haver contradição. Também desacolheu o pedido subsidiário de recurso ao Ministro da Fazenda: a Deliberação CVM 202/96 torna o Colegiado instância final, e o recurso hierárquico impróprio não cabe contra suas decisões. | cvm/colegiado/2002/col-20020319-d14.md |
+
+Fim do subíndice.

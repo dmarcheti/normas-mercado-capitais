@@ -8,6 +8,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 432 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| circular-bcb-1 | 57 |
+| circular-bcb-2 | 69 |
+| circular-bcb-3 | 80 |
+| circular-bcb-4 | 88 |
+| circular-bcb-5 | 97 |
+| circular-bcb-6 | 107 |
+| circular-bcb-11 | 123 |
+| circular-bcb-18 | 131 |
+| circular-bcb-33 | 139 |
+| circular-bcb-53 | 147 |
+| circular-bcb-58 | 155 |
+| circular-bcb-98 | 164 |
+| circular-bcb-112 | 172 |
+| circular-bcb-118 | 180 |
+| circular-bcb-193 | 188 |
+| circular-bcb-443 | 197 |
+| circular-bcb-1273 | 205 |
+| circular-bcb-1397 | 213 |
+| circular-bcb-1846 | 221 |
+| circular-bcb-1922 | 229 |
+| circular-bcb-2020 | 238 |
+| circular-bcb-2183 | 246 |
+| circular-bcb-2328 | 254 |
+| circular-bcb-2530 | 262 |
+| circular-bcb-2594 | 270 |
+| circular-bcb-2601 | 282 |
+| circular-bcb-2615 | 290 |
+| circular-bcb-2626 | 298 |
+| circular-bcb-2635 | 306 |
+| circular-bcb-2688 | 314 |
+| circular-bcb-2737 | 322 |
+| circular-bcb-2786 | 330 |
+| circular-bcb-2929 | 339 |
+| circular-bcb-2958 | 348 |
+| circular-bcb-3049 | 369 |
+| circular-bcb-3096 | 383 |
+| circular-bcb-3308 | 393 |
+| circular-bcb-3516 | 406 |
+| circular-bcb-3857 | 414 |
+
 ## circular-bcb-1
 
 ### Citada sem dispositivo identificado
@@ -382,3 +428,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | RJ2016/8347 | 2020-11-18 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor hoteleiro. | crsfn/2020/10372-100052-2019-29.md |
 | acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | crsfn/2020/13083-2.md |
 | acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | auditoria-independente | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva, deixando de observar o disposto nas normas profissionais de auditoria independente. Recurso conhecido e desprovido. | crsfn/2018/14420.md |
+
+Fim do subíndice.

@@ -145,3 +145,5 @@ Norma: [leis/lei-11101.md](../../../normas/normas/leis/lei-11101.md) (texto vige
 | decisao-colegiado | RJ2014/1080 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2014/1080. | cvm/colegiado/2014/col-20140415-d06.md |
 | decisao-colegiado | RJ2008/7434 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/7434. | cvm/colegiado/2010/col-20100302-d20.md |
 | decisao-colegiado | RJ2009/6814 | 2010-01-26 | parcial | ofertas-publicas | O Colegiado indeferiu a primeira dispensa (publicação de anúncios da oferta de CRI, art. 29 da Instrução 400/03) e concedeu a segunda (limite de 20% por devedor, art. 5º da Instrução 414/04), condicionada a aperfeiçoar, em 10 dias, os fatores de risco do prospecto sobre insolvência civil. Dois diretores ficaram vencidos quanto à segunda. | cvm/colegiado/2010/col-20100126-d04.md |
+
+Fim do subíndice.

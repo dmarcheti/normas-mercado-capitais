@@ -55,3 +55,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso e manteve decisão da SMI que negou autorização para exercer a atividade de agente autônomo de investimento. Fundamento: a interessada não estava registrada no RGA em 01.06.2001, requisito do art. 21 da IN CVM 355/2001 para permanência na atividade. Acompanhou o voto da relatora. | cvm/colegiado/2002/col-20020416-d05.md |
 | decisao-colegiado | RJ2001/11285 | 2002-04-10 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo, acompanhando o relator. A recorrente não estava credenciada no RGA desde 1997 e não se enquadra no inciso II do art. 21 da IN CVM 355/01; deve submeter-se à prova de certificação. | cvm/colegiado/2002/col-20020410-d01.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

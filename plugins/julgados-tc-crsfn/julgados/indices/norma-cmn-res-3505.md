@@ -12,3 +12,5 @@ Norma: [cmn/resolucoes/3505.md](../../../normas/normas/cmn/resolucoes/3505.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 3º, inciso II | termo-compromisso | SP2010/0238 | 2011-03-01 | aceito | infraestrutura-mercado | O Colegiado aceitou proposta de termo de compromisso de R$ 300.000,00 (R$ 200.000,00 da Cetip e R$ 100.000,00 de seu diretor geral), acompanhando o Comitê, por registro de opção referenciada em ações de companhia fechada e descumprimento do art. 4º da Instrução 467/08. | cvm/colegiado/2011/col-20110301-d03.md |
+
+Fim do subíndice.

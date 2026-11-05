@@ -22,3 +22,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1992-01-02 | — | — | Decisões do colegiado de 1992. | cvm/decisoes-antigas/1992.md |
 | decisao-antiga | — | 1991-01-04 | — | — | Decisões do colegiado de 1991. | cvm/decisoes-antigas/1991.md |
 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
+
+Fim do subíndice.

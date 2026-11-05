@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 374 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2004-12 | 29 |
+| 2004-11 | 85 |
+| 2004-10 | 119 |
+| 2004-09 | 141 |
+| 2004-08 | 159 |
+| 2004-07 | 184 |
+| 2004-06 | 224 |
+| 2004-05 | 257 |
+| 2004-04 | 276 |
+| 2004-03 | 295 |
+| 2004-02 | 333 |
+| 2004-01 | 346 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2004-12-30 | outro | normativo | O Colegiado aprovou, por unanimidade, minuta de Instrução sobre registro de companhia aberta para companhias securitizadoras de créditos imobiliários e oferta pública de distribuição de CRI, após audiência pública, e deliberou submetê-la a nova audiência pública, com sugestões até 28/02/2005. | cvm/colegiado/2004/col-20041230-d04.md |
@@ -351,3 +370,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | SP2003/385 | 2004-01-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI de aplicação de multa cominatória. Proc. SP2003/385. | cvm/colegiado/2004/col-20040113-d03.md |
 | RJ2003/7844 | 2004-01-13 | — | assembleia-acionistas | Recurso da Usina Costa Pinto S.A. contra decisão da SEP relativa a direito de voto. A diretora relatora apresentou seu voto. Julgamento suspenso por pedido de vista. | cvm/colegiado/2004/col-20040113-d02.md |
 | RJ2003/6116; RJ2002/4166 | 2004-01-13 | parcial | contabil-demonstracoes | Em pedido de reconsideração da Wetzel S.A., o Colegiado manteve a determinação da SEP de republicar as demonstrações financeiras de 2001 e 2002 em conjunto e as IAN/2001 e 1ª ITR/2002, exceto quanto à contabilização do crédito-prêmio de IPI na exportação. | cvm/colegiado/2004/col-20040113-d01.md |
+
+Fim do subíndice.

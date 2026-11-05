@@ -12,3 +12,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | pas | RJ2006/1216 | 2007-06-20 | condenacao | analistas-rating | Para o exercício de sua atividade, o analista de valores mobiliários deverá estar registrado na CVM, na forma do art. 10 da Instrução CVM nº 388/03. - Atuação irregular como analista de valores mobiliários. Multa. | cvm/pas/2007/rj2006-1216.md |
 | pas | RJ2006/5863 | 2007-04-24 | condenacao | analistas-rating | Exercício da atividade de analista de valores mobiliários sem a devida autorização da CVM, em infração ao art. 7º, II, da Instrução CVM nº 388/03. Multa. | cvm/pas/2007/rj2006-5863.md |
 | pas | RJ2006/3565 | 2007-01-31 | condenacao | analistas-rating | É vedado o exercício da atividade de analista de valores mobiliários àquele que não esteja devidamente registrado na CVM, conforme dispõe o art. 10 da Instrução CVM nº 388/03. | cvm/pas/2007/rj2006-3565.md |
+
+Fim do subíndice.

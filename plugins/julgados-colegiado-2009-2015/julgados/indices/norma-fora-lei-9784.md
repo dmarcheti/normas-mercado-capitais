@@ -7,6 +7,38 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 345 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 42 |
+| art. 3º | 99 |
+| art. 12 | 117 |
+| art. 22 | 123 |
+| art. 24 | 131 |
+| art. 26 | 138 |
+| art. 27 | 157 |
+| art. 36 | 164 |
+| art. 37 | 171 |
+| art. 38 | 185 |
+| art. 45 | 195 |
+| art. 46 | 207 |
+| art. 49 | 213 |
+| art. 50 | 220 |
+| art. 53 | 234 |
+| art. 54 | 242 |
+| art. 56 | 248 |
+| art. 61 | 259 |
+| art. 64 | 267 |
+| art. 64-A | 273 |
+| art. 64-B | 279 |
+| art. 65 | 285 |
+| art. 66 | 300 |
+| art. 69 | 310 |
+| Citada sem dispositivo identificado | 318 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -309,3 +341,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2010/0062 | 2010-07-06 | nao-provido | intermediacao | O Colegiado negou provimento a recurso de investidor contra decisão da SMI que indeferiu a divulgação, por corretoras de home broker, de indicador de capacidade de envio de ordens. Fundamento: a Instrução 380/02 não obriga a divulgação. Determinou à SMI tratar da uniformização do cálculo com a autorreguladora e remeteu à SDM a avaliação de alterar a instrução. | cvm/colegiado/2010/col-20100706-d03.md |
 | decisao-colegiado | RJ2010/3012 | 2010-05-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2010/3012. | cvm/colegiado/2010/col-20100504-d04.md |
 | decisao-colegiado | RJ2009/9679 | 2010-02-09 | nao-provido | intermediacao | O Colegiado indeferiu recurso contra decisão da SMI que negou autorização a agente autônomo de investimento, por duas inabilitações de um ano (inciso III do art. 5º da Instrução 434/06). Acompanhando o voto do relator, que seguiu a PFE, as penas foram somadas, com base no art. 111 da LEP aplicado aos processos administrativos. | cvm/colegiado/2010/col-20100209-d14.md |
+
+Fim do subíndice.

@@ -175,16 +175,18 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertEqual(n, 2)
         self.assertEqual(sorted(arqs), [
             "indice.md", "indices/norma-fora-outras-icvm.md", "indices/norma-lei-6404.md",
-            "indices/pas-2025.md", "indices/tema-deveres-administradores.md",
+            "indices/pas-2025.md", "indices/processo-2024.md", "indices/tema-deveres-administradores.md",
             "indices/termo-compromisso-2024.md"])
 
     def test_resumo_com_aviso_perimetro_e_contagem(self):
         md = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]["indice.md"]
         self.assertIn("Julgado não é norma", md)
         self.assertIn("Processos administrativos sancionadores (PAS) julgados pela CVM", md)
-        self.assertIn("[indices/pas-2025.md](indices/pas-2025.md)", md)
-        self.assertIn("[indices/tema-deveres-administradores.md]", md)
-        self.assertIn("[indices/norma-lei-6404.md]", md)
+        self.assertIn("| [2025](indices/pas-2025.md) | 1 |", md)
+        self.assertIn("## Por processo", md)
+        self.assertIn("[2024](indices/processo-2024.md)", md)
+        self.assertIn("(indices/tema-deveres-administradores.md)", md)
+        self.assertIn("(indices/norma-lei-6404.md)", md)
         self.assertIn("Processos Administrativos Sancionadores (PAS), 1", md)
 
     def test_linha_usa_ementa_e_nunca_o_titulo(self):
@@ -210,8 +212,8 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("fora do acervo", fora)
         self.assertIn("## icvm-358", fora)
         self.assertIn("### art. 3º", fora)
-        self.assertIn("[indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md)",
-                      arqs["indice.md"])
+        self.assertIn("[Fora do acervo, família icvm: 1 normas com menos de 10 julgados cada]"
+                      "(indices/norma-fora-outras-icvm.md)", arqs["indice.md"])
 
     def test_fora_do_acervo_muito_citada_tem_arquivo_proprio(self):
         with mock.patch.object(indice, "FORA_MIN_PROPRIO", 1):

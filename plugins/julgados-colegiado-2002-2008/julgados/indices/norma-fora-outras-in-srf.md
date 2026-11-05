@@ -31,3 +31,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2002/7524; RJ2002/8433 | 2003-04-17 | provido | registro-emissor | O Colegiado deu provimento a recurso da Global Brasil S/A contra decisão da SEP que indeferiu seu pedido de abertura de capital, decisão que se baseara em entendimento da PJU. Nos termos do voto do diretor relator. | cvm/colegiado/2003/col-20030417-d04.md |
+
+Fim do subíndice.

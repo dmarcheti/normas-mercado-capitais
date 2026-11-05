@@ -201,3 +201,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | cvm/colegiado/2014/col-20140128-d03.md |
+
+Fim do subíndice.

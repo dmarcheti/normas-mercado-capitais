@@ -71,3 +71,5 @@ Norma: fora do acervo.
 | pas | 15/2008 | 2012-02-28 | absolvicao | administracao-carteiras | [pessoa física] Suposto descumprimento do dever de diligência de administradores de carteira – supostas irregularidades na gestão de fundos de investimento. Absolvições. | cvm/pas/2012/15-2008.md |
 | pas | 03/2005 | 2008-07-02 | absolvicao | manipulacao-fraude | Fundação de Assistência dos Empregados da CEB - FACEB - Texto da Ementa: Práticas não-eqüitativas, operações fraudulentas e criação de condições artificiais de demanda, oferta e preço de valores mobiliários. Absolvição. | cvm/pas/2008/03-2005.md |
 | pas | 07/2005 | 2007-04-24 | parcial | assembleia-acionistas | Não convocação de AGO no prazo legal. Infração ao disposto no art. 132 da Lei 6.404/76. Multas. - Violação do direito dos minoritários de eleger conselheiro fiscal. Infração ao art. 161, § 4º, alínea (a), da Lei 6.404/76. Advertência e absolvição. - Supostas infrações aos arts. 115 e 117, § 1º, c, ambos da Lei nº 6.404/76. Absolvições. | cvm/pas/2007/07-2005.md |
+
+Fim do subíndice.

@@ -25,3 +25,5 @@ Norma: fora do acervo.
 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | registro-emissor | Descumprimento do dever de manter atualizado o registro na CVM, enviando informações periódicas e eventuais. Abolvição. | cvm/pas/2005/rj2005-3750.md |
 | pas | SP2003/0070 | 2005-04-26 | absolvicao | pld | [pessoa física] e HEDGING-GRIFFO CORRETORA VALORES S.A. Não caracterização da imputação de responsabilidade por acolher e realizar operações de clientes sem as informações cadastrais mínimas, em infração ao disposto no art. 3º, da Instrução CVM nº 301/99, que dispõe sobre procedimentos de elaboração e atualização de cadastro de clientes, que visam a evitar o uso do mercado de valores mobiliários para o que comumente se denomina “lavagem de dinheiro”, zelando-se, assim, pelo seu melhor equilíbrio e integridade. | cvm/pas/2005/sp2003-0070.md |
 | pas | SP2004/0104 | 2005-04-01 | condenacao | pld | Infração ao disposto no artigo 3º da Instrução CVM nº 301, de 16 de abril de1999. | cvm/pas/2005/sp2004-0104.md |
+
+Fim do subíndice.

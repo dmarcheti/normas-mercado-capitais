@@ -23,3 +23,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | opa | Por unanimidade, o Colegiado proveu recurso contra entendimento da SRE de não exigibilidade de OPA estatutária da Oncoclínicas, fixando 4.11.2024 como fato gerador, com atualização pela Selic. Prazo de 60 dias para a OPA da Centaurus. Declarou perda do objeto de pedido de avocação e indeferiu desentranhamento de parecer. | cvm/colegiado/2026/col-20260825-d3540.md |
+
+Fim do subíndice.

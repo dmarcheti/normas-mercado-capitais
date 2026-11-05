@@ -8,6 +8,62 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 566 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-101 | 67 |
+| decreto-177 | 75 |
+| decreto-578 | 83 |
+| decreto-1035 | 98 |
+| decreto-1290 | 107 |
+| decreto-1306 | 115 |
+| decreto-1335 | 123 |
+| decreto-1362 | 131 |
+| decreto-1832 | 139 |
+| decreto-2277 | 147 |
+| decreto-2298 | 155 |
+| decreto-2799 | 163 |
+| decreto-3000 | 171 |
+| decreto-3088 | 179 |
+| decreto-3100 | 192 |
+| decreto-3724 | 200 |
+| decreto-4176 | 209 |
+| decreto-4657 | 217 |
+| decreto-4942 | 225 |
+| decreto-5363 | 244 |
+| decreto-5640 | 253 |
+| decreto-6382 | 261 |
+| decreto-6385 | 283 |
+| decreto-6514 | 291 |
+| decreto-6841 | 301 |
+| decreto-7277 | 309 |
+| decreto-7397 | 317 |
+| decreto-7724 | 325 |
+| decreto-7835 | 347 |
+| decreto-8372 | 355 |
+| decreto-8852 | 363 |
+| decreto-8945 | 371 |
+| decreto-8948 | 379 |
+| decreto-9727 | 387 |
+| decreto-9889 | 395 |
+| decreto-9916 | 416 |
+| decreto-10139 | 424 |
+| decreto-10178 | 456 |
+| decreto-10596 | 465 |
+| decreto-17981 | 474 |
+| decreto-19398 | 482 |
+| decreto-22626 | 491 |
+| decreto-23258 | 499 |
+| decreto-24643 | 516 |
+| decreto-35848 | 524 |
+| decreto-57690 | 532 |
+| decreto-70235 | 540 |
+| decreto-84451 | 548 |
+| decreto-91152 | 556 |
+
 ## decreto-101
 
 ### Citada sem dispositivo identificado
@@ -506,3 +562,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | acordao-crsfn | 19957.010904/2018-18; RJ2018/8378 | 2022-04-12 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA POR PARTE DE ADMINISTRADORES DE COMPANHIA ABERTA. UTILIZAÇÃO DE BEM (AERONAVE) DA COMPANHIA PARA FINS PARTICULARES. PRÁTICA DE ATO DE LIBERALIDADE À CUSTA DA COMPANHIA, AO AUTORIZAR O USO DE AERONAVE, EM VIAGEM INTERNACIONAL, PARA FINS PARTICULARES. NÃO ADOÇÃO DE PROCEDIMENTOS E CAUTELAS EXIGÍVEIS NA GESTÃO DA COMPANHIA, RELACIONADAS À IMPLEMENTAÇÃO DE CONTROLES À AUTORIZAÇÃO PARA O USO DE AERONAVE. Descumprimento do art. 154, §2º, alínea “b” e do art. 153 da Lei nº 6.404/1976. Infrações configuradas. Recursos conhecidos e desprovidos. | crsfn/2022/10372-100055-2021-87.md |
 | acordao-crsfn | RJ2001/9701 | 2006-03-06 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Realização de operações em benefício indevido da administração e com deliberadas perdas patrimoniais para o condomínio – Irregularidades caracterizadas – Apelos a que se nega provimento. | crsfn/2006/5135.md |
 | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos auditores independentes pelo diretor do Fundo – Ausência de recursos financeiros para arcar com as despesas relativas à elaboração dos laudos e correspondente publicação – Irregularidade não configurada – Recurso conhecido e improvido. | crsfn/2005/5953.md |
+
+Fim do subíndice.

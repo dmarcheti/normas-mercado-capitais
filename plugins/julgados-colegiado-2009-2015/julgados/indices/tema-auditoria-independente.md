@@ -31,3 +31,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2010/9359 | 2010-07-20 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso contra indeferimento pela SNC de registro de auditor independente pessoa física, por falta de certificado no Exame de Qualificação Técnica (art. 5º, VI, Instrução 308/99). Segundo o voto do relator, o cancelamento do registro anterior afastou a dispensa do art. 41. | cvm/colegiado/2010/col-20100720-d04.md |
 | decisao-colegiado | RJ2009/10632 | 2009-11-24 | nao-provido | auditoria-independente | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2009/10632. | cvm/colegiado/2009/col-20091124-d12.md |
 | decisao-colegiado | 27/2005 | 2009-07-14 | outro | auditoria-independente | O Colegiado determinou o arquivamento do PAS 27/2005 (Parmalat Brasil) em relação aos compromitentes, a Deloitte Touche Tohmatsu – Auditores Independentes e dois sócios, por cumprimento do Termo de Compromisso (aprovado em 04.11.08, firmado em 23.04.09). Com base na SFI, o pagamento ocorreu na forma convencionada. | cvm/colegiado/2009/col-20090714-d04.md |
+
+Fim do subíndice.

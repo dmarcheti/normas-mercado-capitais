@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 401 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2019-12 | 29 |
+| 2019-11 | 66 |
+| 2019-10 | 107 |
+| 2019-09 | 140 |
+| 2019-08 | 173 |
+| 2019-07 | 201 |
+| 2019-06 | 235 |
+| 2019-05 | 262 |
+| 2019-04 | 286 |
+| 2019-03 | 319 |
+| 2019-02 | 340 |
+| 2019-01 | 367 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ2015/5571 | 2019-12-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/5571. | cvm/colegiado/2019/col-20191223-d1653.md |
@@ -378,3 +397,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.009627/2018-92 | 2019-01-08 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso de administrador de carteiras pessoa natural contra a exigência da SIN de optar entre seu credenciamento e o de agente autônomo de investimento (art. 3º, §5º, da Instrução CVM 558/15), acompanhando a área técnica. | cvm/colegiado/2019/col-20190108-d1274.md |
 | 19957.011150/2018-13 | 2019-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SPS em processo de multa cominatória. Proc. SEI 19957.011150/2018-13. | cvm/colegiado/2019/col-20190108-d1273.md |
 | 19957.009340/2018-62 | 2019-01-08 | deferido | securitizacao | O Colegiado deferiu, por unanimidade, tratamento confidencial à localização e à matrícula de cerca de 1.900 imóveis destinatários dos recursos dos CRI da 4ª emissão da Vert Companhia Securitizadora, lastreados em debêntures da Raia Drogasil S.A. (art. 5º, §2º, do Decreto 7.724/12; art. 8º, I, da Lei 9.514/97), em linha com a área técnica. | cvm/colegiado/2019/col-20190108-d1272.md |
+
+Fim do subíndice.

@@ -37,3 +37,5 @@ Norma: [cvm/resolucoes/0046.md](../../../normas/normas/cvm/resolucoes/0046.md) (
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.008369/2022-11 | 2023-10-31 | — | exercicio-irregular | O Colegiado, por unanimidade, acompanhando o voto do Presidente, negou provimento a pedido de reconsideração da B Fintech Serviços de Tecnologia contra rejeição de proposta de termo de compromisso de R$ 2.000.000,00 em PAS sobre oferta irregular de derivativos ao público sem registro ou dispensa. Não houve omissão, obscuridade, contradição, erro ou fato novo. | cvm/colegiado/2023/col-20231031-d2919-item2.md |
 | termo-compromisso | 19957.004676/2018-39 | 2023-04-18 | aceito | deveres-administradores | O Colegiado aceitou, por maioria, nova proposta de termo de compromisso de dois acionistas controladores da JBS, de R$ 3.250.000,00 cada, contra o parecer do Comitê que opinou pela rejeição. Acompanhou o voto do diretor relator, que apontou ausência de óbice da PFE/CVM e efeito dissuasório. Acusação: abuso do direito de voto (art. 115, §1º, Lei 6.404/1976). | cvm/colegiado/2023/col-20230418-d1257.md |
+
+Fim do subíndice.

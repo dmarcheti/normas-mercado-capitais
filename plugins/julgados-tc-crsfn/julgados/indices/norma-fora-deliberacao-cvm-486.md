@@ -7,6 +7,17 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 877 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 7º | 21 |
+| art. 8º | 32 |
+| art. 9º | 755 |
+| Citada sem dispositivo identificado | 764 |
+
 ## art. 7º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -862,3 +873,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2002/4311 | 2005-11-17 | rejeitado | divulgacao-informacoes | O Colegiado indeferiu proposta de Termo de Compromisso de nove indiciados no PAS RJ2002/4311, que apura falta de convocação de assembleias gerais ordinárias de 2000 a 2004 e de entrega de demonstrações financeiras de 2000 a 2002. Por voto da relatora, acompanhado pelos demais membros, por não ser adequada, não atender à lei e não ser oportuna nem conveniente. | cvm/colegiado/2005/col-20051117-d02.md |
 | termo-compromisso | RJ2003/5473; RJ2002/7017 | 2005-11-01 | aceito | ofertas-publicas | O Colegiado aprovou a celebração de termo de compromisso com o Banco Ourinvest S.A. e outros, com as alterações do voto da relatora, no PAS RJ2003/5473 e no Processo RJ2002/7017. Objeto: colocação pública de cotas de FII por pessoas não integrantes do sistema de distribuição. Prazo de 30 dias para assinatura. | cvm/colegiado/2005/col-20051101-d03.md |
 | termo-compromisso | 12/2003 | 2005-08-30 | aceito | fundos-investimento | O Colegiado aprovou termo de compromisso proposto pela BB DTVM S/A e outros indiciados no PAS CVM 12/2003, por irregularidades na administração do FIF BB TOP CP, com as alterações acordadas e prazo de trinta dias para assinatura. Fundamento: prática cessada, irregularidades corrigidas e quotistas indenizados por iniciativa espontânea. | cvm/colegiado/2005/col-20050830-d04.md |
+
+Fim do subíndice.

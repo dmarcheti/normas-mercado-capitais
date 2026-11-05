@@ -211,3 +211,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ1998/5050 | 2002-01-22 | outro | intermediacao | O Colegiado aprovou a minuta de Deliberação que determina a suspensão imediata das atividades de intermediação de uma pessoa física. | cvm/colegiado/2002/col-20020122-d03.md |
 | decisao-colegiado | RJ2001/11675 | 2002-01-08 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que não incluiu agente autônomo na lista de credenciados por débito de anuidade no RGA, acompanhando a relatora. A inclusão foi admitida, condicionada à regularização do pagamento das anuidades devidas. | cvm/colegiado/2002/col-20020108-d02.md |
 | decisao-colegiado | SP2001/0148 | 2002-01-08 | outro | intermediacao | O Colegiado aprovou a minuta de deliberação que determina a suspensão imediata das atividades de intermediação de duas pessoas físicas. | cvm/colegiado/2002/col-20020108-d01.md |
+
+Fim do subíndice.

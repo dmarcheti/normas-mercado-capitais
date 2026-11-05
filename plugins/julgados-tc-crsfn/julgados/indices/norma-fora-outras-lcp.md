@@ -191,3 +191,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 93 | acordao-crsfn | RJ2019/9541 | 2023-05-09 | parcial | assembleia-acionistas | RECURSO VOLUNTÁRIO. FALHA NA ELEIÇÃO EM SEPARADO DE MEMBRO DO CONSELHO DE ADMINISTRAÇÃO DO BRB – BANCO DE BRASÍLIA S.A. Responsabilidade do Instituto de Previdência dos Servidores do Distrito Federal – IPREV/DF. Infração ao art. 141, §4º e §5º, da Lei nº 6.404/1976. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | crsfn/2023/10372-100173-2020-12.md |
+
+Fim do subíndice.

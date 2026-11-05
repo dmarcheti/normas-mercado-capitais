@@ -20,3 +20,5 @@ Norma: [cvm/resolucoes/0054.md](../../../normas/normas/cvm/resolucoes/0054.md) (
 | decisao-colegiado | 19957.002630/2021-81 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.002630/2021-81. | cvm/colegiado/2022/col-20220315-d2495.md |
 | decisao-colegiado | 19957.000156/2017-76 | 2022-03-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000156/2017-76. | cvm/colegiado/2022/col-20220315-d2494.md |
 | decisao-colegiado | 19957.006545/2021-91 | 2021-10-19 | outro | multa-cominatoria-taxa | Proposta de resolução. Proc. SEI 19957.006545/2021-91. | cvm/colegiado/2021/col-20211019-d2349.md |
+
+Fim do subíndice.

@@ -57,3 +57,5 @@ Norma: [cvm/resolucoes/0035.md](../../../normas/normas/cvm/resolucoes/0035.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | intermediacao | RECURSO VOLUNTÁRIO. AUSÊNCIA DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DE NORMAS SOBRE AS OPERAÇÕES. AUSÊNCIA DE PROCEDIMENTOS E CONTROLES INTERNOS. Descumprimento da Instrução CVM nº 505, de 27 de setembro de 2011. Penalidade de advertência. Sucessão por incorporação posterior às ocorrências e anterior ao processo sancionador. Não transcendência subjetiva de sanções personalíssimas. Princípio da pessoalidade da pena. Impossibilidade de apenar a empresa sucessora com advertência. Extinção de punibilidade e arquivamento do processo. Recurso provido. Análise do mérito prejudicada. | crsfn/2022/10372-100106-2021-71.md |
+
+Fim do subíndice.

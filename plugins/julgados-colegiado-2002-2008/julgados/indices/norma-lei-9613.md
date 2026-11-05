@@ -98,3 +98,5 @@ Norma: [leis/lei-09613.md](../../../normas/normas/leis/lei-09613.md) (texto vige
 | decisao-colegiado | RJ2006/5768; RJ2006/5773 | 2007-01-30 | parcial | fundos-investimento | O Colegiado deu parcial provimento a recurso da Mellon DTVM contra determinações da SIN sobre fundos multimercado. Admitiu a co-titularidade de cotas e que a relação dos prestadores do serviço de distribuição não conste do prospecto, mas rejeitou a interpretação da recorrente ao art. 16 da Instrução 409/04, vencido um diretor nesse ponto. | cvm/colegiado/2007/col-20070130-d01.md |
 | decisao-colegiado | SP2000/0110 | 2003-05-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2000/0110. | cvm/colegiado/2003/col-20030513-d01.md |
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm/colegiado/2002/col-20021210-d01.md |
+
+Fim do subíndice.

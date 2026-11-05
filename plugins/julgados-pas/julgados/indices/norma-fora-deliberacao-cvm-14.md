@@ -25,3 +25,5 @@ Norma: fora do acervo.
 | pas | 27/2003 | 2005-08-18 | parcial | manipulacao-fraude | Infração ao preceituado no inciso II, alínea d, da Instrução CVM nº 08/79 - Prática não eqüitativa. - Infração ao preceituado no artigo 57, inciso IV, da Instrução CVM nº 302/99, considerada infração grave pelo artigo 103 desse mesmo normativo. | cvm/pas/2005/27-2003.md |
 | pas | 24/2000 | 2005-08-18 | parcial | manipulacao-fraude | QUALITY CORRETORA DE MERCADORIAS LTDA. E OUTROS Infração ao preceituado no inciso II, alínea c, e vedada pelo inciso I, ambos da Instrução CVM nº 08/79. Realização de operações fraudulentas. | cvm/pas/2005/24-2000.md |
 | pas | 20/1999 | 2002-04-18 | absolvicao | manipulacao-fraude | BANCO MARKA S/A E OUTROS Operações realizadas na BM&F, envolvendo contratos de índice futuro IBOVESPA, por conta do "The Evolution Fund Ltd", fundo estrangeiro sediado nas Ilhas Bahamas cuja carteira era administrada pelo Banco Marka S/A, com ajuste positivo para o fundo estrangeiro. Precariedade do controle de ordens da BM&F. Prejuízo da acusação. Defesas providas. Absolvição. | cvm/pas/2002/20-1999.md |
+
+Fim do subíndice.

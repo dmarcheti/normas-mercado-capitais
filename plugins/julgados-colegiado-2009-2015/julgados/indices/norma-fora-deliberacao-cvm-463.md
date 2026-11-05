@@ -7,6 +7,20 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 330 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2015 | 28 |
+| 2014 | 72 |
+| 2013 | 127 |
+| 2012 | 163 |
+| 2011 | 221 |
+| 2010 | 276 |
+| 2009 | 301 |
+
 ## Citada sem dispositivo identificado
 
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -312,3 +326,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/6985 | 2009-02-03 | conhecimento | processual | O Colegiado não conheceu do recurso de pessoa natural contra indeferimento de registro como agente autônomo de investimento, por intempestividade: foi protocolado sete meses após a decisão da SMI, quando o prazo da Deliberação CVM 463/03 é de 15 dias. | cvm/colegiado/2009/col-20090203-d10.md |
 | decisao-colegiado | RJ2008/9985 | 2009-02-03 | nao-provido | intermediacao | Por unanimidade, o Colegiado negou provimento a recurso contra indeferimento pela SMI do registro de agente autônomo de investimento, por não atendimento ao prazo de um ano de validade do exame de capacitação (art. 7º, §2º, da Instrução 434/06). Sobre informações erradas da CVM alegadas, o voto prevê envio à Ouvidoria se houver elementos detalhados. | cvm/colegiado/2009/col-20090203-d09.md |
 | decisao-colegiado | RJ2008/8148 | 2009-01-29 | provido | divulgacao-informacoes | O Colegiado deu provimento a recurso da Perdigão S.A. contra a SEP, que negou prorrogação de 15 dias para recorrer da determinação de refazer e reapresentar os ITRs de 2008. Entendeu que a companhia demonstrou impossibilidade de cumprir o prazo do item I da Deliberação CVM 463/03 por razões alheias à sua vontade. | cvm/colegiado/2009/col-20090129-d01.md |
+
+Fim do subíndice.

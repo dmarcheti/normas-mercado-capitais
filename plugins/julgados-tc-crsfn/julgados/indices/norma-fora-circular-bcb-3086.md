@@ -56,3 +56,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ-2003-13021 | 2012-02-13 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor de mercado – Superveniência de normativo de vedação, de forma explícita, de utilização de mecânica de curva do papel - Irregularidades não caracterizadas – Recurso de ofício improvido - Arquivamento. | crsfn/2012/11748.md |
+
+Fim do subíndice.

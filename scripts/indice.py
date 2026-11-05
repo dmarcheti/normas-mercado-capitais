@@ -40,6 +40,7 @@ A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
 gravar, apaga de `indices/` o subíndice que não é mais gerado; `--verificar` acusa
 esse subíndice. Sem data de geração: a saída só muda quando o acervo muda.
 """
+import collections
 import glob
 import json
 import os
@@ -49,6 +50,8 @@ import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import citacoes as cit  # noqa: E402
+import indice_decisoes as idc  # noqa: E402
+import julgados_comum as jc  # noqa: E402
 from validar import (  # noqa: E402
     TIPOS, TIPOS_AUTORREGULACAO, TIPOS_BCB, arquivos_de_julgados, arquivos_de_normas, ler_frontmatter,
     texto_da_norma,
@@ -744,6 +747,267 @@ def _secoes_norma(nid, grupos, h="##"):
     return md
 
 
+# Leitura por partes: o Read corta em silêncio uma leitura longa (perto de 40 KB). Todo subíndice
+# termina em "Fim do subíndice." (sem essa linha, a leitura foi cortada) e o que passa de
+# LINHAS_SUMARIO linhas abre com um sumário seção -> linha, para continuar com `offset`.
+FIM_SUBINDICE = "Fim do subíndice."
+LINHAS_SUMARIO = 250
+LEITURA_LINHAS = 60
+_DATA_CEL = re.compile(r"^\| (?:[^|]*\| )*?(\d{4})-(\d{2})-\d{2} \|")
+
+
+def _marcas_auto(md):
+    """[(rótulo, índice em md)]: as seções `## `; sem elas, o ano (ou o mês, no ano com mais de
+    200 linhas) da coluna Data; sem datas, blocos de 100 linhas pela primeira célula."""
+    secs = [(l[3:].strip(), i) for i, l in enumerate(md) if l.startswith("## ")]
+    if len(secs) >= 2:
+        return secs
+    linhas = [(i, l) for i, l in enumerate(md) if l.startswith("| ") and not l.startswith("|---")][1:]
+    datadas = [(i, _DATA_CEL.match(l)) for i, l in linhas]
+    if linhas and all(m for _i, m in datadas):
+        por_ano = collections.Counter(m.group(1) for _i, m in datadas)
+        marcas, ultimo = [], None
+        for i, m in datadas:
+            rot = m.group(1) if por_ano[m.group(1)] <= 200 else "%s-%s" % (m.group(1), m.group(2))
+            if rot != ultimo:
+                marcas.append((rot, i))
+                ultimo = rot
+        return marcas
+    marcas = []
+    for k in range(0, len(linhas), 100):
+        i, l = linhas[k]
+        marcas.append((_celula(l.split("|")[1]) or "linha %d" % (k + 1), i))
+    return marcas
+
+
+def _bloco_sumario(marcas, total, delta):
+    """Linhas do sumário; `delta` converte o índice em md na linha do arquivo final."""
+    pares = [(rot, i + delta) for rot, i in marcas]
+    md = ["## Sumário", "",
+          "Este subíndice tem %d linhas e uma leitura única é cortada em silêncio perto de 40 KB. "
+          "Leia por partes: `offset` = a linha da seção abaixo, `limit` = %d. A última linha é "
+          "\"%s\"; se a leitura não terminar nela, continue do ponto onde parou." % (
+              total, LEITURA_LINHAS, FIM_SUBINDICE), ""]
+    if len(pares) <= 60:
+        md += ["| Seção | Linha |", "|---|---|"] + ["| %s | %d |" % (_celula(r), n) for r, n in pares]
+    else:
+        linha = ""
+        for r, n in pares:
+            item = "%s (%d)" % (_celula(r), n)
+            if linha and len(linha) + len(item) + 2 > 110:
+                md.append(linha)
+                linha = item
+            else:
+                linha = item if not linha else linha + "; " + item
+        md += [linha] if linha else []
+    return md + [""]
+
+
+def _finalizar(md, marcas=None):
+    """Põe o sumário (se passar de LINHAS_SUMARIO linhas) e "Fim do subíndice." no fim."""
+    md = list(md)
+    while md and md[-1] == "":
+        md.pop()
+    if len(md) <= LINHAS_SUMARIO:
+        return md + ["", FIM_SUBINDICE]
+    marcas = marcas if marcas is not None else _marcas_auto(md)
+    pos = next((i for i, l in enumerate(md) if l.startswith("## ") or l.startswith("| ")), len(md))
+    k = 0
+    for _ in range(6):
+        bloco = _bloco_sumario(marcas, len(md) + k + 2, k + 1)
+        if len(bloco) == k:
+            break
+        k = len(bloco)
+    return md[:pos] + bloco + md[pos:] + ["", FIM_SUBINDICE]
+
+
+def _gravar(arquivos, rel, md, marcas=None):
+    arquivos[rel] = "\n".join(_finalizar(md, marcas)) + "\n"
+
+
+
+# ---- índice por processo (PAS, termos de compromisso e acórdãos do CRSFN)
+
+PLUGINS_POR_PROCESSO = ("julgados-pas", "julgados-tc-crsfn")
+_ANO_NUP = re.compile(r"^\d{5}-\d{6}-(\d{4})-\d{1,2}$")
+_ANO_ANTIGO = re.compile(r"^[a-z]+(\d{4})-\d+$")
+_ANO_CURTO = re.compile(r"^\d{2,3}-(\d{4})$")
+BLOCO_PROCESSO = 40
+
+
+def _ano_do_processo(norm):
+    """Ano de um número normalizado por `julgados_comum.processos` ("" se não reconhece)."""
+    for rx in (_ANO_NUP, _ANO_ANTIGO, _ANO_CURTO):
+        m = rx.match(norm)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def _especie(norm):
+    return "nup" if _ANO_NUP.match(norm) else "antigo" if _ANO_ANTIGO.match(norm) else "curto"
+
+
+def _natural(txt):
+    return [int(p) if p.isdigit() else p for p in re.split(r"(\d+)", txt)]
+
+
+def _marcas_blocos(md, n=BLOCO_PROCESSO):
+    """Sumário em blocos de `n` linhas da tabela, pelo primeiro número de processo do bloco."""
+    linhas = [(i, l) for i, l in enumerate(md) if l.startswith("| ") and not l.startswith("|---")][1:]
+    return [("a partir de " + (_celula(linhas[k][1].split("|")[1]).split("; ")[0] or "—"), linhas[k][0])
+            for k in range(0, len(linhas), n)]
+
+
+def _por_processo(itens):
+    """{arquivo: md} do índice por processo e {ano: n_linhas}. Dois julgados são do mesmo
+    processo se têm algum número normalizado em comum (a identidade vale também por cadeia:
+    A tem X e Y, B tem Y), salvo o julgado de vários processos. Cada julgado entra uma vez no arquivo de cada ano dos números do
+    seu processo; o que tem "processo" sem número reconhecível vai para `processo-outros.md`."""
+    pai = {}
+
+    def raiz(x):
+        while pai.setdefault(x, x) != x:
+            pai[x] = pai[pai[x]]
+            x = pai[x]
+        return x
+
+    lidos = []
+    for v in itens:
+        nums = list(dict.fromkeys(jc.processos(v.get("processo") or "") + jc.processos(v.get("nup") or "")))
+        lidos.append((v, nums))
+        # julgado de vários processos (mais de um número da mesma espécie) não une os números
+        if len({_especie(n) for n in nums}) == len(nums):
+            for outro in nums[1:]:
+                pai[raiz(outro)] = raiz(nums[0])
+        for n in nums:
+            raiz(n)
+    componente = collections.defaultdict(set)
+    for x in list(pai):
+        componente[raiz(x)].add(x)
+    por_ano, outros = collections.defaultdict(list), []
+    for v, nums in lidos:
+        forma = _celula(v.get("processo")) or _celula(v.get("nup"))
+        if v.get("nup") and _celula(v.get("nup")) not in forma:
+            forma += "; " + _celula(v.get("nup"))
+        if not nums:
+            if forma:
+                outros.append((forma, v))
+            continue
+        todos = sorted(set().union(*(componente[raiz(n)] for n in nums)), key=_natural)
+        for ano in sorted({_ano_do_processo(n) for n in todos} - {""}):
+            ref = next(n for n in todos if _ano_do_processo(n) == ano)
+            por_ano[ano].append((_natural(ref), todos, forma, v))
+        if not any(_ano_do_processo(n) for n in todos):
+            outros.append((forma, v))
+    arquivos, contagem = {}, {}
+    nota = ("Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em "
+            "minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo "
+            "número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o "
+            "termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.")
+    cab = ["Processo (normalizado)", "Forma no julgado", "Tipo", "Data", "Id", "Arquivo"]
+    for ano, linhas in sorted(por_ano.items()):
+        md = _cab_julgados("Julgados por processo, ano %s" % ano, ["", nota]) + [
+            "| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
+        for _k, todos, forma, v in sorted(linhas, key=lambda x: (x[0], x[3].get("data", ""), x[3]["_caminho"])):
+            md.append("| %s | %s | %s | %s | %s | %s |" % (
+                "; ".join(todos), forma or "—", v["tipo"], v.get("data", ""),
+                v.get("id") or os.path.basename(v["_caminho"])[:-3], v["_caminho"]))
+        _gravar(arquivos, "%s/processo-%s.md" % (PASTA_SUBINDICES, ano), md, _marcas_blocos(md))
+        contagem[ano] = len(linhas)
+    if outros:
+        cab2 = cab[1:]
+        md = _cab_julgados("Julgados com processo sem número reconhecível", ["", "Forma do campo `processo` do "
+                           "julgado; nenhuma numeração (NUP, antiga ou curta) foi reconhecida nela."]) + [
+            "| %s |" % " | ".join(cab2), "|%s" % ("---|" * len(cab2))]
+        for forma, v in sorted(outros, key=lambda x: (_natural(x[0]), x[1]["_caminho"])):
+            md.append("| %s | %s | %s | %s | %s |" % (
+                forma, v["tipo"], v.get("data", ""),
+                v.get("id") or os.path.basename(v["_caminho"])[:-3], v["_caminho"]))
+        _gravar(arquivos, "%s/processo-outros.md" % PASTA_SUBINDICES, md, _marcas_blocos(md))
+        contagem["outros"] = len(outros)
+    return arquivos, contagem
+
+
+# ---- índice por decisão (decisões antigas, 1978 a 2001)
+
+LIMITE_SUBINDICE = 40000  # bytes: acima disto o ano se divide por semestre (e, se preciso, por trimestre)
+_PERIODOS = {"s": ("semestre", 6), "t": ("trimestre", 3)}
+
+
+def _linha_decisao(d):
+    return "| %s | %s | %s | %s | %s:%d |" % (
+        d["data"], d["ata"] or "—", _celula(d["processo"]) or "—", _celula(d["titulo"]), d["arquivo"], d["linha"])
+
+
+def _marcas_mes(md):
+    """[(AAAA-MM, índice em md)] da primeira linha de cada mês nas linhas de decisão."""
+    marcas, ultimo = [], None
+    for i, l in enumerate(md):
+        m = _DATA_CEL.match(l)
+        if m and not l.startswith("|---"):
+            rot = "%s-%s" % (m.group(1), m.group(2))
+            if rot != ultimo:
+                marcas.append((rot, i))
+                ultimo = rot
+    return marcas
+
+
+def _dividir_decisoes(ano, decisoes):
+    """[(sufixo do arquivo, rótulo, decisões)]: o ano inteiro, ou por semestre/trimestre quando
+    a tabela passaria de LIMITE_SUBINDICE."""
+    def tamanho(ds):
+        return sum(len(_linha_decisao(d).encode("utf-8")) + 1 for d in ds)
+
+    if tamanho(decisoes) <= LIMITE_SUBINDICE:
+        return [("", str(ano), decisoes)]
+    out = []
+    for letra, (nome, meses) in sorted(_PERIODOS.items()):
+        out = []
+        for k in range(12 // meses):
+            ds = [d for d in decisoes if k * meses < int(d["data"][5:7] or 1) <= (k + 1) * meses]
+            if ds:
+                out.append(("-%s%d" % (letra, k + 1), "%s, %do %s" % (ano, k + 1, nome), ds))
+        if all(tamanho(ds) <= LIMITE_SUBINDICE for _s, _r, ds in out):
+            break
+    return out
+
+
+def _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos):
+    """Grava `indices/decisao-antiga-AAAA[-sN|-tN].md` com uma linha por decisão. Devolve
+    {ano: [(rótulo, caminho do subíndice, n decisões)]}; ano sem decisão reconhecida fica de
+    fora e mantém a tabela genérica."""
+    caminhos = {}
+    for (tipo, ano), lista in por_tipo_ano.items():
+        if tipo == "decisao-antiga" and ano.isdigit() and len(lista) == 1:
+            caminhos[int(ano)] = os.path.join(raiz, *lista[0]["_caminho"].split("/"))
+    if not caminhos:
+        return {}
+    decisoes, _cont = idc.ler_decisoes(caminhos)
+    por_ano = collections.defaultdict(list)
+    for d in decisoes:
+        d["arquivo"] = por_tipo_ano[("decisao-antiga", str(d["ano"]))][0]["_caminho"]
+        por_ano[d["ano"]].append(d)
+    out = {}
+    for ano in sorted(por_ano):
+        ds = sorted(por_ano[ano], key=lambda d: (d["data"], -d["linha"]), reverse=True)
+        out[str(ano)] = []
+        for suf, rotulo, parte in _dividir_decisoes(ano, ds):
+            rel = "%s/decisao-antiga-%d%s.md" % (PASTA_SUBINDICES, ano, suf)
+            md = _cab_julgados("Decisões antigas (1978 a 2001), %s" % rotulo, [
+                "", "Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, "
+                "processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual "
+                "onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o "
+                "conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a "
+                "2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "
+                "\"[pessoa física]\"."]) + [
+                "| Data da ata | Ata | Processo | Título | Arquivo:linha |", "|---|---|---|---|---|"] + [
+                _linha_decisao(d) for d in parte]
+            _gravar(arquivos, rel, md, _marcas_mes(md))
+            out[str(ano)].append((rotulo, rel, len(parte)))
+    return out
+
+
 def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", plugin=None):
     """(arquivos, n_julgados) dos índices de um plugin de julgados. `raiz` é a pasta `julgados/`;
     `normas` mapeia o id da norma no item do normas.json (titulo, caminho); `link_normas` é o
@@ -769,23 +1033,27 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
             if n and n not in com_disp:
                 por_norma.setdefault(n, {"disp": [], "sem": []})["sem"].append(v)
 
+    antigas = _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos)
     for (tipo, ano), lista in por_tipo_ano.items():
+        if tipo == "decisao-antiga" and ano in antigas:
+            continue
         md = _cab_julgados("%s, %s" % (NOME_JULGADO.get(tipo, tipo), ano)) + _tabela_julgados(lista)
-        arquivos["%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano)] = "\n".join(md) + "\n"
+        _gravar(arquivos, "%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano), md)
     temas = {}
     for tema, lista in por_tema.items():
         rel = "%s/tema-%s.md" % (PASTA_SUBINDICES, slug_tema(tema))
         temas[tema] = (rel, len(lista))
         md = _cab_julgados("Julgados do tema %s" % tema) + _tabela_julgados(lista, com_tipo=True)
-        arquivos[rel] = "\n".join(md) + "\n"
-    normas_idx, familias = {}, {}
+        _gravar(arquivos, rel, md)
+    normas_idx, familias, fam_julgados = {}, {}, {}
     for nid, grupos in por_norma.items():
         n_julgados = len({v["_caminho"] for _d, v in grupos["disp"]} | {v["_caminho"] for v in grupos["sem"]})
         if nid.startswith("fora:") and n_julgados < FORA_MIN_PROPRIO:
             fam = familia_fora(nid[5:])
             rel = "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)
             familias.setdefault(fam, []).append(nid)
-            normas_idx[nid] = (rel, nid[5:], n_julgados)
+            fam_julgados.setdefault(fam, set()).update(
+                {v["_caminho"] for _d, v in grupos["disp"]} | {v["_caminho"] for v in grupos["sem"]})
             continue
         rel = "%s/%s" % (PASTA_SUBINDICES, _arquivo_norma(nid))
         if nid.startswith("fora:"):
@@ -796,7 +1064,7 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
         else:
             titulo, ref = nid, "não encontrada no normas.json"
         md = _cab_julgados("Julgados que citam %s" % titulo, ["", "Norma: %s." % ref]) + _secoes_norma(nid, grupos)
-        arquivos[rel] = "\n".join(md).rstrip("\n") + "\n"
+        _gravar(arquivos, rel, md)
         normas_idx[nid] = (rel, titulo, n_julgados)
     for fam, nids in familias.items():
         md = _cab_julgados("Julgados que citam normas fora do acervo (%s)" % fam, [
@@ -804,17 +1072,26 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
             "aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio." % FORA_MIN_PROPRIO, ""])
         for nid in sorted(nids, key=lambda x: [int(p) if p.isdigit() else p for p in re.split(r"(\d+)", x)]):
             md += ["## %s" % nid[5:], ""] + _secoes_norma(nid, por_norma[nid], "###")
-        arquivos["%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)] = "\n".join(md).rstrip("\n") + "\n"
+        _gravar(arquivos, "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam), md)
+
+    por_proc = {}
+    if plugin in PLUGINS_POR_PROCESSO:
+        extra, por_proc = _por_processo(itens)
+        arquivos.update(extra)
 
     md = ["# Índice dos julgados: %s" % plugin, "", AVISO, AVISO_JULGADO, GERADO, "",
           "## Perímetro", "", PERIMETRO_JULGADOS.get(plugin, "Julgados do plugin `%s`." % plugin),
           "Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pela ementa.", "",
-          "## Por tipo e ano", "", "| Tipo | Ano | Julgados | Subíndice |", "|---|---|---|---|"]
+          "## Por tipo e ano", "", "| Tipo | Ano (subíndice) | Julgados |", "|---|---|---|"]
     for (tipo, ano) in sorted(por_tipo_ano, key=lambda k: (ordem_tipos.index(k[0]) if k[0] in ordem_tipos
                                                             else len(ordem_tipos), -int(k[1] or 0))):
+        if tipo == "decisao-antiga" and ano in antigas:
+            for rotulo, rel, n in antigas[ano]:
+                md.append("| %s (uma linha por decisão) | [%s](%s) | %d |" % (NOME_JULGADO[tipo], rotulo, rel, n))
+            continue
         rel = "%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano)
-        md.append("| %s | %s | %d | [%s](%s) |" % (NOME_JULGADO.get(tipo, tipo), ano,
-                                                   len(por_tipo_ano[(tipo, ano)]), rel, rel))
+        md.append("| %s | [%s](%s) | %d |" % (NOME_JULGADO.get(tipo, tipo), ano, rel,
+                                              len(por_tipo_ano[(tipo, ano)])))
     contagem = {}
     for v in itens:
         contagem[v["tipo"]] = contagem.get(v["tipo"], 0) + 1
@@ -822,16 +1099,32 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
                                            sorted(contagem.items(), key=lambda x: ordem_tipos.index(x[0])
                                                   if x[0] in ordem_tipos else 99))]
     if temas:
-        md += ["", "## Por tema", "", "| Tema | Julgados | Subíndice |", "|---|---|---|"]
+        md += ["", "## Por tema", "", "| Tema (subíndice) | Julgados |", "|---|---|"]
         for tema in sorted(temas):
-            md.append("| %s | %d | [%s](%s) |" % (tema, temas[tema][1], temas[tema][0], temas[tema][0]))
+            md.append("| [%s](%s) | %d |" % (tema, temas[tema][0], temas[tema][1]))
+    if por_proc:
+        md += ["", "## Por processo", "",
+               "Número do processo -> julgados (PAS, termo de compromisso e acórdão do CRSFN do mesmo "
+               "processo). O arquivo é o do ano do número (NUP, antigo ou curto) e traz as formas do "
+               "julgado e o número normalizado.", "",
+               " ".join("[%s](%s/processo-%s.md)" % (ano, PASTA_SUBINDICES, ano)
+                        for ano in sorted(a for a in por_proc if a != "outros"))]
+        if "outros" in por_proc:
+            md += ["", "Processo sem número reconhecível: [processo-outros](%s/processo-outros.md) (%d)."
+                   % (PASTA_SUBINDICES, por_proc["outros"])]
     if normas_idx:
         md += ["", "## Por norma citada", "",
                "Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao %s." % NOTA_REDACAO,
-               "", "| Norma | Julgados | Subíndice |", "|---|---|---|"]
+               "", "| Norma (subíndice) | Julgados |", "|---|---|"]
         for nid in sorted(normas_idx, key=lambda x: (x.startswith("fora:"), x)):
             rel, titulo, n = normas_idx[nid]
-            md.append("| %s | %d | [%s](%s) |" % (titulo, n, rel, rel))
+            md.append("| [%s](%s) | %d |" % (titulo, rel, n))
+        # Normas fora do acervo citadas por poucos julgados: uma linha por família; cada norma é
+        # uma seção (`## <norma>`) do subíndice da família, no sumário dele.
+        for fam in sorted(familias):
+            rel = "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)
+            md.append("| [Fora do acervo, família %s: %d normas com menos de %d julgados cada](%s) | %d |" % (
+                fam, len(familias[fam]), FORA_MIN_PROPRIO, rel, len(fam_julgados[fam])))
     arquivos["indice.md"] = "\n".join(md) + "\n"
     return arquivos, len(itens)
 

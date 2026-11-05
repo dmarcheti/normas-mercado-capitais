@@ -59,3 +59,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2000/6460 | 2010-03-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2000/6460. | cvm/colegiado/2010/col-20100309-d21.md |
 | decisao-colegiado | RJ2008/3626 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/3626. | cvm/colegiado/2010/col-20100302-d11.md |
 | decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4955. | cvm/colegiado/2009/col-20091208-d14.md |
+
+Fim do subíndice.

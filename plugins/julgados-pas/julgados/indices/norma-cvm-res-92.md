@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0092.md](../../../normas/normas/cvm/resolucoes/0092.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 63, § 4º | pas | 19957.002835/2022-47 | 2023-08-29 | condenacao | exercicio-irregular | Apurar suposta prática de operação fraudulenta e suposta oferta de valores mobiliários sem obtenção de registro. Multas e proibições. | cvm/pas/2023/19957-002835-2022-47.md |
+
+Fim do subíndice.

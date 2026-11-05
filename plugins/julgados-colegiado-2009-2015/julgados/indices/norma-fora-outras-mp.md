@@ -185,3 +185,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 46 | decisao-colegiado | RJ2013/5692; RJ2013/6638; RJ2013/8143 | 2015-07-07 | indeferido | fundos-investimento | Acompanhando a SIN, o Colegiado indeferiu os pedidos de prorrogação do prazo de enquadramento de carteira de três Funcines. Determinou às administradoras convocar, em 30 dias, assembleia de cotistas para deliberar sobre transferência de administração, incorporação ou liquidação (art. 80 da ICVM 398 e art. 90 da ICVM 409). | cvm/colegiado/2015/col-20150707-d9752.md |
+
+Fim do subíndice.

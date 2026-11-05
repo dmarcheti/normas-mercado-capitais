@@ -70,3 +70,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso contra o cancelamento da autorização de administrador de carteira por falta de reputação ilibada (art. 4º, III, da ICVM 306/99), com base em decisão do Banco Central de indisponibilidade de bens. Entendeu que condenação administrativa recorrível macula a reputação. Com base no voto do relator. | cvm/colegiado/2014/col-20140107-d04.md |
+
+Fim do subíndice.

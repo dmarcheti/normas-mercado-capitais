@@ -102,3 +102,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.004715/2020-12 | 2026-03-17 | parcial | auditoria-independente | RECURSOS ADMINISTRATIVOS. CVM. AUDITORIA INDEPENDENTE. EXERCÍCIO DE ATIVIDADE DE AUDITORIA SEM REGISTRO NA CVM. PERMISSÃO DE ATUAÇÃO DE PROFISSIONAL SEM REGISTRO COMO REVISORA DE DEMONSTRAÇÕES FINANCEIRAS. INOBSERVÂNCIA DAS NORMAS DE CONTROLE DE QUALIDADE NBC TA 220 (R1) E NBC PA 01. Apuração de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações financeiras do FIP ETB, da Xnice e da Xmasseto. Infrações caracterizadas. Ajuste na dosimetria da pena. Recursos conhecidos. Parcial provimento. Desprovimentos. | crsfn/2026/10372-000118-2024-49.md |
+
+Fim do subíndice.

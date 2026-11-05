@@ -140,3 +140,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2010/14832 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2010/14832. | cvm/colegiado/2010/col-20101228-d12.md |
+
+Fim do subíndice.

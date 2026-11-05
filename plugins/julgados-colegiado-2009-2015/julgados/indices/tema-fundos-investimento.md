@@ -206,3 +206,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2008/4091 | 2009-01-21 | indeferido | fundos-investimento | Dispensa do cumprimento do inciso II do art. 35 da instrução nº 391/03. Proc. RJ2008/4091. | cvm/colegiado/2009/col-20090121-d03.md |
 | decisao-colegiado | RJ2009/0247 | 2009-01-16 | parcial | fundos-investimento | O Colegiado, acompanhando o voto do diretor, julgou em parte reclamação de administradora de fundos cotistas contra a suspensão de resgates de fundo multimercado (arts. 15, V, e 16 da Instrução CVM 409/04). Afastou a prática de ato irregular e a multa do art. 15, V; os reclamantes são credores e devem receber com receitas financeiras desde 07.01.09. | cvm/colegiado/2009/col-20090116-d01.md |
 | decisao-colegiado | RJ2008/12337 | 2009-01-13 | parcial | fundos-investimento | Dispensa do cumprimento do inciso III do art. 64 da instrução nº 409/04. Proc. RJ2008/12337. | cvm/colegiado/2009/col-20090113-d03.md |
+
+Fim do subíndice.

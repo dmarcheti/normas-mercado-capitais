@@ -7,6 +7,21 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1041 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 12 (25); art. 15 (31); art. 46 (40); art. 47 (46); art. 50 (52); art. 54 (59); art. 56 (65); art. 79 (71)
+art. 80 (77); art. 87 (85); art. 88 (91); art. 94 (98); art. 103 (104); art. 104 (110); art. 105 (117)
+art. 130 (127); art. 131 (136); art. 134 (143); art. 154 (149); art. 155 (155); art. 157 (162); art. 182 (168)
+art. 191 (174); art. 214 (619); art. 229 (625); art. 239 (703); art. 244 (709); art. 247 (715); art. 256 (721)
+art. 265 (728); art. 267 (736); art. 269 (749); art. 273 (755); art. 282 (761); art. 294 (767); art. 301 (773)
+art. 302 (779); art. 336 (786); art. 359 (792); art. 364 (798); art. 365 (805); art. 370 (811); art. 378 (817)
+art. 379 (823); art. 387 (829); art. 401 (835); art. 430 (841); art. 431 (847); art. 432 (853); art. 447 (859)
+art. 472 (866); art. 489 (874); art. 492 (881); art. 507 (887); art. 543-C (893); art. 585 (899)
+art. 591 (906); art. 712 (912); art. 784 (918); art. 867 (924); art. 879 (930); art. 1.024 (937)
+art. 1.039 (945); Citada sem dispositivo identificado (951)
+
 ## art. 12
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1022,3 +1037,5 @@ Norma: fora do acervo.
 | pas | RJ2009/12495 | 2010-12-01 | condenacao | auditoria-independente | KPMG AUDITORES INDEPENDENTES Não inclusão de ressalva no relatório de revisão especial sobre informações trimestrais. – Multas. | cvm/pas/2010/rj2009-12495.md |
 | pas | RJ2005/9823 | 2006-09-25 | condenacao | auditoria-independente | LOPES, MACHADO AUDITORES E CONSULTORES S/C e [pessoa física] - Descumprimento de normas e procedimentos de auditoria relativos às demonstrações financeiras de 31.12.2001 e 31.12.2002 da companhia Newtel Participações S.A. Multas. | cvm/pas/2006/rj2005-9823.md |
 | pas | 24/2000 | 2005-08-18 | parcial | manipulacao-fraude | QUALITY CORRETORA DE MERCADORIAS LTDA. E OUTROS Infração ao preceituado no inciso II, alínea c, e vedada pelo inciso I, ambos da Instrução CVM nº 08/79. Realização de operações fraudulentas. | cvm/pas/2005/24-2000.md |
+
+Fim do subíndice.

@@ -68,3 +68,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/3316 | 2012-01-24 | nao-provido | contabil-demonstracoes | O Colegiado indeferiu recurso da Energisa S.A. e manteve decisão da SEP que classificou as Notas Perpétuas no passivo exigível e determinou a reapresentação dos ITRs dos trimestres encerrados em 31.03.2011, 30.06.2011 e 30.09.2011, acompanhando a relatora e as áreas técnicas (SEP e SNC). | cvm/colegiado/2012/col-20120124-d04.md |
 | decisao-colegiado | RJ2002/5412 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5412. | cvm/colegiado/2009/col-20090303-d06.md |
 | decisao-colegiado | RJ1999/3978 | 2009-03-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3978. | cvm/colegiado/2009/col-20090303-d04.md |
+
+Fim do subíndice.

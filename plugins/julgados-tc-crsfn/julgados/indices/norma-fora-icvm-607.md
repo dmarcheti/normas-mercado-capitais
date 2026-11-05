@@ -7,6 +7,55 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1105 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 59 |
+| art. 2º | 66 |
+| art. 4º | 72 |
+| art. 5º | 83 |
+| art. 6º | 101 |
+| art. 8º | 110 |
+| art. 11 | 119 |
+| art. 13 | 125 |
+| art. 22 | 131 |
+| art. 23 | 137 |
+| art. 24 | 143 |
+| art. 25 | 152 |
+| art. 31 | 160 |
+| art. 32 | 166 |
+| art. 36 | 172 |
+| art. 38 | 179 |
+| art. 39 | 185 |
+| art. 43 | 191 |
+| art. 47 | 198 |
+| art. 50 | 206 |
+| art. 57 | 212 |
+| art. 62 | 218 |
+| art. 63 | 230 |
+| art. 64 | 244 |
+| art. 65 | 250 |
+| art. 66 | 263 |
+| art. 67 | 293 |
+| art. 70 | 303 |
+| art. 71 | 314 |
+| art. 72 | 322 |
+| art. 82 | 330 |
+| art. 83 | 460 |
+| art. 84 | 726 |
+| art. 85 | 752 |
+| art. 86 | 761 |
+| art. 87 | 929 |
+| art. 88 | 935 |
+| art. 90 | 941 |
+| art. 91 | 947 |
+| art. 112 | 1038 |
+| art. 915 | 1047 |
+| Citada sem dispositivo identificado | 1053 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1052,3 +1101,5 @@ Norma: fora do acervo.
 | acordao-crsfn | SP2015/41 | 2020-09-21 | condenacao | deveres-administradores | RECURSO VOLUNTÁRIO. Financiamentos obtidos por diretor para operar no mercado de valores mobiliários. Termo de compromisso só pode ser proposto até a decisão de primeira instância. Prestação decorrente de termo de compromisso no âmbito da auto-regulação não é considerada quando da aplicação de penalidade pela CVM. Financiamento caracterizado. Não cumprimento de obrigação fiduciária por diretor. Infração caracterizada. Recurso conhecido, mas não provido. | crsfn/2020/10372-100093-2019-15.md |
 | acordao-crsfn | RJ-2014-12056 | 2020-09-20 | condenacao | deveres-administradores | RECURSOS VOLUNTÁRIOS. Falta de diligência dos administradores de companhia aberta na realização das demonstrações financeiras e de seus deveres no relacionamento com auditores independentes. Violação aos artigos 153, 176 e 177 § 3º da Lei nº 6.404/76; ao artigo 26 da Instrução CVM nº 308/99; ao item 09 do Pronunciamento Técnico CPC 1 (R1); e ao item 50 do Pronunciamento Técnico CPC27 (R1). | crsfn/2020/10372-100316-2018-63.md |
 | acordao-crsfn | RJ2017/3091 | 2020-03-11 | outro | ofertas-publicas | RECURSOS VOLUNTÁRIOS. Oferta irregular de Contrato de Investimento Coletivo de Unidades Autônomas de Condohoteis. Intempestividade. Não conhecimento. | crsfn/2020/10372-100242-2019-46.md |
+
+Fim do subíndice.

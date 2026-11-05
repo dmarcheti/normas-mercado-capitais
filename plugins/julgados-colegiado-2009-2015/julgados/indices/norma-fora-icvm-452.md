@@ -7,6 +7,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 3655 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 34 |
+| art. 2º | 42 |
+| art. 3º | 87 |
+| art. 4º | 989 |
+| art. 5º | 1034 |
+| art. 6º | 1153 |
+| art. 7º | 1269 |
+| art. 8º | 1288 |
+| art. 9º | 1309 |
+| art. 10 | 1323 |
+| art. 11 | 1339 |
+| art. 12 | 1697 |
+| art. 13 | 2079 |
+| art. 14 | 3104 |
+| art. 21 | 3573 |
+| art. 23 | 3580 |
+| Citada sem dispositivo identificado | 3586 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -3627,3 +3651,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/3864 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2009/3864. | cvm/colegiado/2009/col-20090526-d11.md |
 | decisao-colegiado | RJ2009/1596 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração da decisão do colegiado em processo de multa cominatória. Proc. RJ2009/1596. | cvm/colegiado/2009/col-20090526-d10.md |
 | decisao-colegiado | RJ2009/1080 | 2009-04-28 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão colegiado em processo de multa cominatória. Proc. RJ2009/1080. | cvm/colegiado/2009/col-20090428-d03.md |
+
+Fim do subíndice.

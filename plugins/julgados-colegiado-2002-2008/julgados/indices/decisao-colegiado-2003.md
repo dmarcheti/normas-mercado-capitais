@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 351 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2003-12 | 29 |
+| 2003-11 | 53 |
+| 2003-10 | 84 |
+| 2003-09 | 104 |
+| 2003-08 | 124 |
+| 2003-07 | 144 |
+| 2003-06 | 169 |
+| 2003-05 | 210 |
+| 2003-04 | 238 |
+| 2003-03 | 271 |
+| 2003-02 | 299 |
+| 2003-01 | 319 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ2003/12770 | 2003-12-26 | deferido | assembleia-acionistas | O Colegiado interrompeu o prazo de convocação das assembleias gerais da TCO e da TCP, só permitindo assembleias a partir de 12.01.2004. Por maioria, entendeu que a proposta a elas submetida contraria a legislação, por não assegurar tratamento equitativo aos acionistas na cessão da TCO. | cvm/colegiado/2003/col-20031226-d04.md |
@@ -328,3 +347,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | — | 2003-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SIN de aplicação de multa cominatória. | cvm/colegiado/2003/col-20030108-d03.md |
 | RJ2002/6487 | 2003-01-08 | outro | assembleia-acionistas | O Colegiado acompanhou o voto do relator na consulta da BIOMM S.A. sobre prazo e forma de substituição de acionistas dissidentes reembolsados e direito de preferência nessa substituição. O Presidente também apresentou voto. | cvm/colegiado/2003/col-20030108-d02.md |
 | RJ1998/0601 | 2003-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em manter a notificação editalícia dos débitos da taxa de fiscalização. Proc. RJ1998/0601. | cvm/colegiado/2003/col-20030108-d01.md |
+
+Fim do subíndice.

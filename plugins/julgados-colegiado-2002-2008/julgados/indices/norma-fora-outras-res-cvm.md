@@ -8,6 +8,64 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 626 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| res-cvm-1-1997 | 69 |
+| res-cvm-1-2003 | 78 |
+| res-cvm-2 | 86 |
+| res-cvm-18 | 95 |
+| res-cvm-30-2004 | 103 |
+| res-cvm-39 | 111 |
+| res-cvm-49-1995 | 219 |
+| res-cvm-83 | 227 |
+| res-cvm-91-2001 | 235 |
+| res-cvm-101-1999 | 243 |
+| res-cvm-118 | 251 |
+| res-cvm-150-1980 | 259 |
+| res-cvm-168 | 267 |
+| res-cvm-172-1982 | 275 |
+| res-cvm-195 | 283 |
+| res-cvm-204 | 291 |
+| res-cvm-211-2001 | 300 |
+| res-cvm-231 | 308 |
+| res-cvm-238-1972 | 316 |
+| res-cvm-238-1994 | 325 |
+| res-cvm-259 | 333 |
+| res-cvm-269 | 341 |
+| res-cvm-276 | 349 |
+| res-cvm-279 | 369 |
+| res-cvm-293 | 377 |
+| res-cvm-294 | 385 |
+| res-cvm-296 | 393 |
+| res-cvm-300 | 401 |
+| res-cvm-303 | 409 |
+| res-cvm-318 | 418 |
+| res-cvm-320 | 426 |
+| res-cvm-367 | 434 |
+| res-cvm-381 | 442 |
+| res-cvm-395 | 454 |
+| res-cvm-401 | 462 |
+| res-cvm-402 | 477 |
+| res-cvm-436 | 485 |
+| res-cvm-444 | 494 |
+| res-cvm-454 | 503 |
+| res-cvm-460 | 513 |
+| res-cvm-519 | 522 |
+| res-cvm-527 | 530 |
+| res-cvm-669 | 538 |
+| res-cvm-680 | 546 |
+| res-cvm-723 | 554 |
+| res-cvm-755 | 562 |
+| res-cvm-790 | 573 |
+| res-cvm-989 | 581 |
+| res-cvm-1656 | 592 |
+| res-cvm-1877 | 601 |
+| res-cvm-2690 | 609 |
+
 ## res-cvm-1-1997
 
 ### Citada sem dispositivo identificado
@@ -564,3 +622,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | decisao-colegiado | SP2006/0056 | 2006-08-15 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0056. | cvm/colegiado/2006/col-20060815-d08.md |
 | decisao-colegiado | SP2002/0344 | 2004-07-06 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2002/0344. | cvm/colegiado/2004/col-20040706-d03.md |
 | decisao-colegiado | SP2002/0107 | 2003-05-20 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2002/0107. | cvm/colegiado/2003/col-20030520-d04.md |
+
+Fim do subíndice.

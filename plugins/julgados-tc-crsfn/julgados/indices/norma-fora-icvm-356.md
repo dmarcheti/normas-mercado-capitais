@@ -7,6 +7,36 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 388 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 40 |
+| art. 3º | 50 |
+| art. 6º | 66 |
+| art. 7º | 72 |
+| art. 8º | 78 |
+| art. 15 | 123 |
+| art. 20 | 132 |
+| art. 22 | 138 |
+| art. 24 | 145 |
+| art. 30 | 165 |
+| art. 33 | 174 |
+| art. 34 | 180 |
+| art. 36 | 195 |
+| art. 37 | 203 |
+| art. 38 | 209 |
+| art. 39 | 302 |
+| art. 40 | 318 |
+| art. 44 | 324 |
+| art. 45 | 340 |
+| art. 48 | 347 |
+| art. 56 | 358 |
+| art. 61 | 369 |
+| Citada sem dispositivo identificado | 376 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -354,3 +384,5 @@ Norma: fora do acervo.
 | termo-compromisso | 19957.007693/2016-66; RJ2016/8033 | 2017-07-11 | aceito | manipulacao-fraude | O Colegiado, por maioria, acompanhando o Comitê, aceitou propostas de termo de compromisso de duas empresas acusadas de criar condições artificiais de oferta, demanda e preço em day trades de dólar futuro com lucro previamente ajustado (Instrução CVM 8/1979). Obrigação individual de R$ 200.000,00, corrigida pelo IPCA. Fundamentos: inexistência de óbice legal; adesão à contraproposta; finalidade preventiva. Vencido o Presidente. | cvm/colegiado/2017/col-20170711-d0730.md |
 | termo-compromisso | RJ2014/0376 | 2015-04-14 | rejeitado | infraestrutura-mercado | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 200.000,00 do Citibank DTVM e de dois diretores responsáveis pela custódia, acompanhando o parecer do Comitê, que apontou óbice legal segundo a PFE/CVM. Segundo o Comitê, o caso demandaria pronunciamento norteador sobre custodiantes de fundos, ainda que o óbice fosse superado. | cvm/colegiado/2015/col-20150414-d9621.md |
 | termo-compromisso | RJ2004/5891 | 2005-01-31 | rejeitado | outros | O Colegiado negou a celebração de Termo de Compromisso proposto pela Panamericano DTVM S.A. e por um proponente pessoa física, para suspender o PAS CVM RJ2004/5891, por entender que a proposta não atende aos requisitos legais nem à boa regulação do mercado, conforme voto do diretor relator. | cvm/colegiado/2005/col-20050131-d04.md |
+
+Fim do subíndice.

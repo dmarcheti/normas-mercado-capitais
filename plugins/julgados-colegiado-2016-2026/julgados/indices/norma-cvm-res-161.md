@@ -26,3 +26,5 @@ Norma: [cvm/resolucoes/0161.md](../../../normas/normas/cvm/resolucoes/0161.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.009696/2021-00 | 2023-07-05 | outro | normativo | Após AIR sobre a obrigatoriedade do conselho fiscal em companhias de pequeno e médio porte, o Colegiado decidiu pela não ação, em alternativa distinta das conclusões do relatório. Fundamento: revisão não prioritária, dado o alcance de cerca de 25 casos anuais, o papel do órgão na governança e projetos legislativos em curso. | cvm/colegiado/2023/col-20230705-d2909.md |
 | decisao-colegiado | 02/2021; 19957.009300/2018-11 | 2022-07-07 | outro | ofertas-publicas | O Colegiado concluiu a discussão e aprovou as Resoluções CVM 160 a 163/2022 do novo arcabouço das ofertas públicas (Audiência Pública SDM 02/2021). A 160 substitui as ICVM 400 e 476; a 161 regula o registro de coordenadores; a 163 substitui a ICVM 566. Dispensa de AIR (art. 22 do Decreto 10.411/2020). | cvm/colegiado/2022/col-20220707-d1255.md |
+
+Fim do subíndice.

@@ -19,3 +19,5 @@ Norma: [leis/lei-10198.md](../../../normas/normas/leis/lei-10198.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2005/7230 | 2007-07-10 | nao-provido | outros | O Colegiado negou provimento ao recurso de advogados e outros contra o arquivamento, pela SEP, do processo sobre obrigações emitidas pela Eletrobrás em contrapartida ao empréstimo compulsório da Lei 4.156/62, acompanhando o voto da relatora, para quem as áreas técnicas e a PFE não identificaram irregularidade. | cvm/colegiado/2007/col-20070710-d17.md |
+
+Fim do subíndice.

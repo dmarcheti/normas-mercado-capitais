@@ -7,6 +7,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 553 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 56 |
+| art. 2º | 62 |
+| art. 3º | 71 |
+| art. 4º | 81 |
+| art. 5º | 89 |
+| art. 5º-A | 96 |
+| art. 6º | 102 |
+| art. 7º | 141 |
+| art. 8º | 147 |
+| art. 9º | 170 |
+| art. 10 | 185 |
+| art. 11 | 199 |
+| art. 12 | 299 |
+| art. 13 | 305 |
+| art. 14 | 321 |
+| art. 16 | 331 |
+| art. 17 | 337 |
+| art. 18 | 343 |
+| art. 19 | 353 |
+| art. 20 | 360 |
+| art. 23 | 368 |
+| art. 24 | 374 |
+| art. 25 | 385 |
+| art. 26 | 396 |
+| art. 28 | 405 |
+| art. 30 | 411 |
+| art. 31 | 417 |
+| art. 33 | 423 |
+| art. 35 | 429 |
+| art. 37 | 437 |
+| art. 38 | 453 |
+| art. 38-A | 459 |
+| art. 38-B | 466 |
+| art. 38-D | 474 |
+| art. 40 | 481 |
+| art. 45 | 492 |
+| art. 62 | 498 |
+| art. 197 | 504 |
+| Citada sem dispositivo identificado | 510 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -503,3 +549,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2010/10555 | 2011-02-15 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de termo de compromisso do Instituto Banese de Seguridade Social - Sergus, acusado de ter votado em separado na eleição de conselho fiscal pelos preferencialistas, com votos preponderantes na eleição (art. 161, §4º, 'a', Lei 6.404/76). Acompanhou o Comitê, para o qual a proposta de R$ 20.000,00 não era proporcional à gravidade da infração. | cvm/colegiado/2011/col-20110215-d07.md |
 | termo-compromisso | RJ2010/0926 | 2010-10-19 | outro | informacao-privilegiada | O Colegiado aceitou duas propostas de termo de compromisso, de R$ 200.000,00 cada, acompanhando o Comitê, e rejeitou três: a de R$ 272.266,00, contra o parecer favorável do Comitê, dada a natureza e gravidade do ilícito, e as de R$ 82.205,00 e R$ 205.497,00, pelas razões do parecer do Comitê. | cvm/colegiado/2010/col-20101019-d09.md |
 | acordao-crsfn | RJ-2007-3673 | 2010-09-14 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de comunicação à CVM sobre investidor estrangeiro em situação irregular - Infração não caracterizada - Recurso de ofício improvido. | crsfn/2010/12708.md |
+
+Fim do subíndice.

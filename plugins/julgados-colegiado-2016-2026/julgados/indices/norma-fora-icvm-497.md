@@ -189,3 +189,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/7159 | 2016-08-09 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/7159. | cvm/colegiado/2016/col-20160809-d8866.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | RJ2012/8073 | 2016-03-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/8073. | cvm/colegiado/2016/col-20160322-d0156.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0008.md](../../../normas/normas/cvm/resolucoes/0008.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | cvm/pas/2024/19957-001549-2023-45.md |
+
+Fim do subíndice.

@@ -8,6 +8,67 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 610 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-6 | 72 |
+| decreto-101 | 80 |
+| decreto-177 | 95 |
+| decreto-434 | 103 |
+| decreto-578 | 138 |
+| decreto-678 | 152 |
+| decreto-774 | 169 |
+| decreto-1398 | 177 |
+| decreto-1832 | 185 |
+| decreto-2181 | 193 |
+| decreto-2475 | 201 |
+| decreto-2534 | 211 |
+| decreto-2627 | 219 |
+| decreto-3000 | 239 |
+| decreto-3392 | 253 |
+| decreto-3708 | 261 |
+| decreto-3724 | 273 |
+| decreto-3788 | 282 |
+| decreto-3839 | 290 |
+| decreto-4176 | 299 |
+| decreto-4378 | 307 |
+| decreto-4494 | 315 |
+| decreto-4541 | 323 |
+| decreto-4545 | 331 |
+| decreto-4763 | 339 |
+| decreto-4942 | 347 |
+| decreto-5177 | 355 |
+| decreto-5640 | 363 |
+| decreto-6343 | 373 |
+| decreto-8370 | 381 |
+| decreto-8539 | 389 |
+| decreto-8945 | 404 |
+| decreto-10153 | 419 |
+| decreto-10907 | 427 |
+| decreto-11048 | 435 |
+| decreto-11492 | 443 |
+| decreto-17981 | 451 |
+| decreto-20254 | 459 |
+| decreto-20910 | 467 |
+| decreto-22626 | 483 |
+| decreto-31794 | 492 |
+| decreto-35848 | 500 |
+| decreto-39381 | 508 |
+| decreto-41628 | 516 |
+| decreto-46619 | 524 |
+| decreto-46993 | 532 |
+| decreto-51960 | 540 |
+| decreto-55870 | 548 |
+| decreto-57690 | 556 |
+| decreto-59566 | 564 |
+| decreto-83309 | 578 |
+| decreto-83937 | 586 |
+| decreto-84451 | 594 |
+| decreto-91152 | 602 |
+
 ## decreto-6
 
 ### Citada sem dispositivo identificado
@@ -545,3 +606,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 1º | pas | 07/2003 | 2007-07-04 | parcial | deveres-administradores | Contratação de empregados que não prestavam serviços à companhia [pessoa física] e Eventos da Cidade de São Paulo S/A. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Absolvição. Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Desobediência a determinações do Conselho de Administração quanto à automação do estacionamento dos usuários do Anhembi. - Descumprimento do dever de diligência disposto nos arts. 153 e 154, caput, da Lei 6.404/76. Absolvições. - Aluguel e posterior cessão de veículos para a Prefeitura. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Advertência. - Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Nomeação e não nomeação de diretores, em desacordo com o estatuto da Anhembi. Descumprimento do disposto nos arts. 142, inciso II, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Eleição de membros do Conselho Fiscal em desacordo com o estatuto. Infração do art. 115, 1ª parte, combinado com art. 161, § 1º, e com parágrafo único do art. 116, todos da Lei 6.404/76. Absolvições. | cvm/pas/2007/07-2003.md |
+
+Fim do subíndice.

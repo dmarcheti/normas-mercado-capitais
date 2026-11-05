@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 564 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 4º | 26 |
+| art. 5º | 66 |
+| art. 6º | 74 |
+| art. 14 | 83 |
+| art. 15 | 90 |
+| art. 16 | 97 |
+| art. 18 | 104 |
+| art. 25 | 111 |
+| art. 26 | 186 |
+
 ## art. 4º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -544,3 +560,5 @@ Norma: fora do acervo.
 | art. 26 | decisao-colegiado | RJ2012/7328 | 2014-05-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE. Proc. RJ2012/7328. | cvm/colegiado/2014/col-20140513-d01.md |
 | art. 26 | decisao-colegiado | RJ2012/11562 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | O Colegiado, com base no Memo/SAD/GAC/Nº 071/2014, indeferiu o recurso da Martinez e Associados Auditoria e Consultoria – ME contra cobrança de multa de mora da SAD sobre a multa pecuniária do Termo de Acusação CVM RJ2006/6017, mantendo a cobrança. | cvm/colegiado/2014/col-20140520-d19.md |
 | art. 26 | decisao-colegiado | 097/2014 | 2014-07-15 | parcial | multa-cominatoria-taxa | Recursos contra decisões da SGE em processos de taxa de fiscalização. | cvm/colegiado/2014/col-20140715-d04.md |
+
+Fim do subíndice.

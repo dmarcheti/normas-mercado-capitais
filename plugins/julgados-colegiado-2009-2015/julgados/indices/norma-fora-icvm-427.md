@@ -59,3 +59,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/2363 | 2011-06-14 | outro | normativo | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 427/06, sobre cancelamento de ofício e suspensão do registro de sociedades beneficiárias de incentivos fiscais, para audiência pública de 30 dias. A SDM ficou encarregada de consolidar as sugestões recebidas. | cvm/colegiado/2011/col-20110614-d09.md |
 | decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4955. | cvm/colegiado/2009/col-20091208-d14.md |
 | decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4401. | cvm/colegiado/2009/col-20091013-d10.md |
+
+Fim do subíndice.

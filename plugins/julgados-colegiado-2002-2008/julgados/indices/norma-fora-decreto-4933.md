@@ -115,3 +115,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/3731 | 2004-03-31 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado em processo de multa cominatória. Proc. RJ2003/3731. | cvm/colegiado/2004/col-20040331-d02.md |
 | decisao-colegiado | RJ2003/6440 | 2004-03-31 | provido | assembleia-acionistas | O Colegiado, por maioria, decidiu que a Telemar Norte Leste S.A. deve fornecer à Hedging-Griffo CV S.A. a lista de acionistas requerida, nos termos do art. 100 da Lei 6.404/76, acolhendo o recurso. Ficou vencido o presidente. | cvm/colegiado/2004/col-20040331-d01.md |
 | decisao-colegiado | RJ2002/2941 | 2004-03-23 | outro | assembleia-acionistas | O Colegiado, por maioria, acompanhou o voto do Presidente e decidiu não caber nova manifestação da CVM como amicus curiae no caso Plascar, sobre negativa de voto a preferencialistas que não receberam dividendos por três exercícios consecutivos. A diretora-relatora, vencida, entendia pertinente nova manifestação. | cvm/colegiado/2004/col-20040323-d03.md |
+
+Fim do subíndice.

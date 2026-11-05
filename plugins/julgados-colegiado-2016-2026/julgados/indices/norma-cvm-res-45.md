@@ -7,6 +7,52 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 527 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 56 |
+| art. 4º | 65 |
+| art. 5º | 158 |
+| art. 10 | 168 |
+| art. 13 | 174 |
+| art. 14 | 180 |
+| art. 15 | 189 |
+| art. 16 | 199 |
+| art. 21 | 206 |
+| art. 24 | 215 |
+| art. 25 | 226 |
+| art. 29 | 233 |
+| art. 32 | 243 |
+| art. 34 | 251 |
+| art. 35 | 259 |
+| art. 36 | 265 |
+| art. 39 | 283 |
+| art. 42 | 292 |
+| art. 43 | 303 |
+| art. 44 | 334 |
+| art. 45 | 343 |
+| art. 46 | 349 |
+| art. 47 | 358 |
+| art. 48 | 365 |
+| art. 51 | 372 |
+| art. 57 | 378 |
+| art. 60 | 385 |
+| art. 65 | 391 |
+| art. 70 | 397 |
+| art. 71 | 409 |
+| art. 72 | 429 |
+| art. 82 | 435 |
+| art. 83 | 441 |
+| art. 84 | 448 |
+| art. 85 | 454 |
+| art. 86 | 460 |
+| art. 103 | 466 |
+| art. 116 | 472 |
+| Citada sem dispositivo identificado | 478 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -477,3 +523,5 @@ Norma: [cvm/resolucoes/0045.md](../../../normas/normas/cvm/resolucoes/0045.md) (
 | decisao-colegiado | 07/2021; 45/2021; 46/2021; 19957.009677/2021-75 | 2022-02-09 | outro | normativo | O Colegiado aprovou a Resolução CVM nº 65/2022, que fixa prazo de 60 dias úteis para devolução de processo após pedido de vista por membro do Colegiado, em processos sancionadores e não sancionadores, e ajusta o sorteio de processos, alterando as Resoluções CVM 45 e 46/2021. Dispensou AIR por se tratar de alteração de baixo impacto e natureza administrativa. | cvm/colegiado/2022/col-20220209-d2404.md |
 | decisao-colegiado | 45/2021; 19957.009677/2021-75 | 2021-12-01 | — | processual | Apresentação preliminar, sem deliberação, pela SPL e pela SPS sobre recomendação da CGU quanto à avaliação de prazos de interessados e investigados sob a antiga Instrução CVM 607/2019, revogada pela Resolução CVM 45/2021. | cvm/colegiado/2021/col-20211201-d2404-2.md |
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | normativo | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no Colegiado (46), multas cominatórias (47) e uso da sigla e logotipo (49). Dispensou audiência pública e AIR, por não alterarem o mérito das obrigações. | cvm/colegiado/2021/col-20210811-d2277.md |
+
+Fim do subíndice.

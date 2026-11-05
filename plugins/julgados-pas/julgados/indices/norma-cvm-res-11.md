@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0011.md](../../../normas/normas/cvm/resolucoes/0011.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 20 | pas | 19957.008119/2023-54 | 2024-10-22 | parcial | manipulacao-fraude | Apurar supostas práticas de administração irregular de carteira de valores mobiliários, em infração, em tese, ao art. 2º, da Resolução CVM nº 21/2021 c/c o art. 23, da Lei nº 6.385/1976; e operação fraudulenta, em infração, em tese, ao art. 3º, da Resolução CVM nº 62/2022, nos termos do art. 2º, inciso III, da mesma resolução. Multa e Absolvição. | cvm/pas/2024/19957-008119-2023-54.md |
+
+Fim do subíndice.

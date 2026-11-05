@@ -205,3 +205,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.013952/2023-17 | 2024-01-09 | nao-provido | auditoria-independente | O Colegiado, por unanimidade, negou provimento a recurso da Allos S.A. contra indeferimento de aplicação do art. 31-A da RCVM 23 (prorrogação do rodízio do auditor até 2026), acompanhando a área técnica: não havia previsão estatutária do comitê de auditoria até o fim do terceiro exercício. | cvm/colegiado/2024/col-20240109-d2991.md |
 | 19957.000152/2022-55 | 2024-01-09 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000152/2022-55. | cvm/colegiado/2024/col-20240109-d2771.md |
 | 19957.000151/2022-19 | 2024-01-09 | conhecimento | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. 19957.000151/2022-19. | cvm/colegiado/2024/col-20240109-d2770.md |
+
+Fim do subíndice.

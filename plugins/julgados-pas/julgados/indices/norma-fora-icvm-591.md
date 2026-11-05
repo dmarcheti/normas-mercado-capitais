@@ -21,3 +21,5 @@ Norma: fora do acervo.
 | pas | RJ2017/5913 | 2019-03-26 | condenacao | auditoria-independente | Não submissão ao Programa de Revisão Externa de Qualidade para o exercício de 2017, ano-base de 2016. Infração ao art. 33 da Instrução CVM nº 308/99. Multa. Data decisão CVM Tue Mar 26 10:24:00 BRT 2019 | cvm/pas/2019/rj2017-5913.md |
 | pas | RJ2017/5701 | 2018-10-30 | condenacao | auditoria-independente | Não submissão de Auditor Independente – Pessoa Física ao controle de qualidade externo, por meio do Programa de Revisão Externa de Qualidade. Multa. Data decisão CVM Tue Oct 30 12:03:00 BRST 2018 | cvm/pas/2018/rj2017-5701.md |
 | pas | RJ2016/8902 | 2018-04-17 | condenacao | auditoria-independente | Não submissão do auditor independente ao Programa de Revisão Externa de Qualidades. Multa. | cvm/pas/2018/rj2016-8902.md |
+
+Fim do subíndice.

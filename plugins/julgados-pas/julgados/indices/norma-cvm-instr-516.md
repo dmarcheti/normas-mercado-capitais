@@ -71,3 +71,5 @@ Norma: [cvm/instrucoes/0516.md](../../../normas/normas/cvm/instrucoes/0516.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário Iridium Recebíveis Imobiliários relativas à data-base de 30/06/2021. Absolvições. | cvm/pas/2025/19957-015389-2022-31.md |
 | pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Advertências. | cvm/pas/2024/19957-010272-2021-80.md |
+
+Fim do subíndice.

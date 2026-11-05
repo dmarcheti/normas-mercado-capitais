@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 610 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2014-12 | 29 |
+| 2014-11 | 105 |
+| 2014-10 | 188 |
+| 2014-09 | 220 |
+| 2014-08 | 280 |
+| 2014-07 | 330 |
+| 2014-06 | 359 |
+| 2014-05 | 403 |
+| 2014-04 | 449 |
+| 2014-03 | 497 |
+| 2014-02 | 536 |
+| 2014-01 | 575 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 07/2014; RJ2014/13703 | 2014-12-23 | outro | contabil-demonstracoes | O Colegiado aprovou a edição de Deliberação, após a Audiência Pública SNC 07/2014, que aprova o Documento de Revisão de Pronunciamentos Técnicos nº 07 (CPC 18, CPC 35 e CPC 37). A revisão permite à controladora aplicar o método de equivalência patrimonial nas demonstrações separadas, tornando a norma do IASB convergente aos procedimentos brasileiros. | cvm/colegiado/2014/col-20141223-d21.md |
@@ -587,3 +606,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2013/11609 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2013/11609. | cvm/colegiado/2014/col-20140107-d02.md |
 | RJ2013/6295 | 2014-01-07 | provido | ofertas-publicas | O Colegiado, por maioria, deferiu recurso da companhia contra decisão da SEP e admitiu aumento de capital parcialmente subscrito por subscrição privada sem o leilão de sobras do art. 171, § 7º, b, da Lei 6.404/76, desde que observados a Lei 6.404/76 e a Instrução CVM 400/03. Vencido o relator. | cvm/colegiado/2014/col-20140107-d01.md |
 | RJ2013/5756 | 2014-01-06 | outro | ofertas-publicas | O Colegiado aprovou minuta, para audiência pública de 60 dias, que altera as ICVM 400/03 e 476/09 para permitir oferta com esforços restritos de ações de emissores categoria A e de debêntures conversíveis ou permutáveis em ações, desde que as ações sejam de companhias categoria A. | cvm/colegiado/2014/col-20140106-d01.md |
+
+Fim do subíndice.

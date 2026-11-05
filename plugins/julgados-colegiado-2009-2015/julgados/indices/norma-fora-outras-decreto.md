@@ -8,6 +8,42 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 321 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-101 | 47 |
+| decreto-177 | 55 |
+| decreto-434 | 63 |
+| decreto-1035 | 72 |
+| decreto-1935 | 83 |
+| decreto-2521 | 99 |
+| decreto-2617 | 110 |
+| decreto-2627 | 118 |
+| decreto-2673 | 127 |
+| decreto-3995 | 135 |
+| decreto-6018 | 148 |
+| decreto-6022 | 156 |
+| decreto-6304 | 164 |
+| decreto-6382 | 173 |
+| decreto-6647 | 187 |
+| decreto-7212 | 195 |
+| decreto-7259 | 204 |
+| decreto-7295 | 212 |
+| decreto-7605 | 221 |
+| decreto-7724 | 229 |
+| decreto-7805 | 244 |
+| decreto-8821 | 252 |
+| decreto-20910 | 260 |
+| decreto-21526 | 268 |
+| decreto-21536 | 277 |
+| decreto-53094 | 286 |
+| decreto-76975 | 294 |
+| decreto-83937 | 302 |
+| decreto-90922 | 310 |
+
 ## decreto-101
 
 ### Citada sem dispositivo identificado
@@ -281,3 +317,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | art. 4º, § 2º | decisao-colegiado | RJ2012/11663 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11663. | cvm/colegiado/2012/col-20121030-d01-r2.md |
 | art. 4º, § 2º | decisao-colegiado | RJ2012/11664 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2012/11664. | cvm/colegiado/2012/col-20121030-d02-r2.md |
 | art. 4º, § 2º | decisao-colegiado | RJ2013/2393 | 2013-03-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2013/2393. | cvm/colegiado/2013/col-20130319-d08.md |
+
+Fim do subíndice.

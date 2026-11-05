@@ -27,3 +27,5 @@ Norma: [leis/lei-10198.md](../../../normas/normas/leis/lei-10198.md) (texto vige
 | pas | 09/2005 | 2006-10-03 | condenacao | exercicio-irregular | CRIAÇÃO, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA. - Emissão e distribuição pública de valores mobiliários (Contrato de Investimento Coletivo) sem o competente registro na CVM, em infração ao disposto no artigo 19, caput, § 1º, c/c os artigos 16, I, e 2º, IX, todos da Lei nº 6.385/76. Multas. | cvm/pas/2006/09-2005.md |
 | pas | 23/2004 | 2006-09-28 | parcial | exercicio-irregular | Emissão e distribuição pública de valores mobiliários (Contrato de Investimento Coletivo) sem o competente registro na CVM, em infração ao disposto no artigo 19, caput, § 1º, c/c os artigos 16, I, e 2º, IX, todos da Lei nº 6.385/76. Absolvição da empresa acusada e aplicação de multa para seu sócio majoritário e Diretor Presidente. | cvm/pas/2006/23-2004.md |
 | pas | 06/2002 | 2005-11-16 | parcial | exercicio-irregular | Infração ao disposto no art. 2º, § 1º, da Instrução CVM nº 310/99. Multa. - Exercício irregular da atividade de mediação de valores mobiliários.Absolvição. | cvm/pas/2005/06-2002.md |
+
+Fim do subíndice.

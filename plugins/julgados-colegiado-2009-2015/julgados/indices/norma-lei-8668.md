@@ -54,3 +54,5 @@ Norma: [leis/lei-08668.md](../../../normas/normas/leis/lei-08668.md) (texto vige
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | O Colegiado indeferiu o pedido de dispensa da BRL Trust DTVM do cumprimento do inciso IV do art. 35 da Instrução CVM 472/2008 para o Arena Fundo de Investimento Imobiliário, acompanhando a SIN. Para a SIN, a AGC de 28.11.2013 extrapolou sua competência (art. 18 da ICVM 472) ao coobrigar bens e direitos do fundo. | cvm/colegiado/2015/col-20150908-d9820.md |
 | decisao-colegiado | RJ2007/2339 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2339. | cvm/colegiado/2010/col-20100302-d23.md |
+
+Fim do subíndice.

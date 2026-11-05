@@ -176,3 +176,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/5911 | 2009-04-01 | outro | normativo | O Colegiado aprovou a minuta de alteração da Instrução 301/99, que modifica o conteúdo mínimo do cadastro de clientes e revoga o art. 12 da Instrução 14/80. A audiência pública será feita junto com a minuta que substituirá a Instrução 387/03, já aprovada em 11.02.09. | cvm/colegiado/2009/col-20090401-d01.md |
 | decisao-colegiado | RJ2008/5911 | 2009-02-11 | outro | normativo | O Colegiado aprovou, com alterações, minuta de normativo que substituirá a Instrução CVM 387/03, sobre normas e procedimentos nas operações com valores mobiliários. Fixou audiência pública de 30 dias, com consolidação das sugestões pela SDM. | cvm/colegiado/2009/col-20090211-d01.md |
 | decisao-colegiado | SP2006/0101 | 2009-02-10 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0101. | cvm/colegiado/2009/col-20090210-d06.md |
+
+Fim do subíndice.

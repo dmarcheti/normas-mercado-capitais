@@ -8,6 +8,51 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 411 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| mp-1 | 56 |
+| mp-2 | 66 |
+| mp-7 | 74 |
+| mp-8 | 82 |
+| mp-17 | 91 |
+| mp-57 | 99 |
+| mp-353 | 107 |
+| mp-405 | 115 |
+| mp-449 | 124 |
+| mp-517 | 134 |
+| mp-539 | 142 |
+| mp-579 | 150 |
+| mp-591 | 165 |
+| mp-627 | 173 |
+| mp-784 | 181 |
+| mp-928 | 192 |
+| mp-931 | 206 |
+| mp-1078 | 216 |
+| mp-1182 | 230 |
+| mp-1249 | 238 |
+| mp-1334 | 246 |
+| mp-1470 | 254 |
+| mp-1520 | 262 |
+| mp-1673 | 271 |
+| mp-1742 | 279 |
+| mp-1778 | 291 |
+| mp-1858 | 302 |
+| mp-1859 | 312 |
+| mp-1894 | 331 |
+| mp-1987 | 339 |
+| mp-2058 | 347 |
+| mp-2110 | 355 |
+| mp-2148 | 363 |
+| mp-2155 | 371 |
+| mp-2199 | 379 |
+| mp-2224 | 387 |
+| mp-57911 | 395 |
+| mp-57916 | 403 |
+
 ## mp-1
 
 ### Citada sem dispositivo identificado
@@ -362,3 +407,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2013/6635 | 2015-05-26 | condenacao | assembleia-acionistas | Impedimento de voto devido a conflito de interesses. Multa. | cvm/pas/2015/rj2013-6635.md |
+
+Fim do subíndice.

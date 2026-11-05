@@ -7,6 +7,31 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0135.md](../../../normas/normas/cvm/resolucoes/0135.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 1041 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 2º (35); art. 3º (41); art. 5º (47); art. 9º (53); art. 11 (67); art. 12 (78); art. 13 (88); art. 15 (95)
+art. 16 (102); art. 18 (110); art. 20 (116); art. 21 (125); art. 23 (132); art. 24 (138); art. 25 (144)
+art. 26 (150); art. 27 (156); art. 28 (163); art. 29 (169); art. 30 (180); art. 31 (186); art. 33 (192)
+art. 34 (203); art. 35 (211); art. 36 (218); art. 37 (225); art. 39 (236); art. 40 (252); art. 41 (262)
+art. 43 (279); art. 44 (285); art. 45 (293); art. 46 (300); art. 47 (308); art. 48 (315); art. 49 (323)
+art. 50 (329); art. 51 (336); art. 52 (342); art. 53 (350); art. 54 (360); art. 55 (366); art. 56 (374)
+art. 57 (380); art. 58 (386); art. 59 (392); art. 60 (398); art. 61 (404); art. 62 (410); art. 63 (420)
+art. 64 (426); art. 65 (433); art. 66 (439); art. 67 (445); art. 68 (452); art. 69 (458); art. 70 (464)
+art. 71 (472); art. 72 (478); art. 73 (485); art. 74 (491); art. 75 (497); art. 76 (505); art. 80 (511)
+art. 81 (517); art. 82 (523); art. 83 (529); art. 84 (536); art. 85 (542); art. 86 (548); art. 89 (557)
+art. 91 (565); art. 94 (571); art. 95 (577); art. 101 (589); art. 102 (598); art. 103 (604); art. 104 (612)
+art. 105 (618); art. 106 (624); art. 107 (631); art. 108 (637); art. 110 (643); art. 115 (649); art. 116 (655)
+art. 119 (662); art. 124 (669); art. 125 (692); art. 126 (698); art. 127 (705); art. 128 (719); art. 129 (727)
+art. 130 (733); art. 131 (739); art. 132 (745); art. 133 (754); art. 134 (760); art. 135 (766); art. 136 (772)
+art. 137 (778); art. 138 (784); art. 139 (790); art. 140 (796); art. 141 (802); art. 142 (808); art. 143 (823)
+art. 144 (830); art. 146 (836); art. 148 (842); art. 149 (848); art. 150 (854); art. 151 (860); art. 152 (866)
+art. 153 (878); art. 155 (884); art. 156 (890); art. 157 (899); art. 158 (907); art. 160 (923); art. 161 (933)
+art. 162 (939); art. 163 (946); art. 180 (953); art. 184 (964); art. 189 (977); art. 191 (984)
+Anexo II, art. 2º (991); Anexo II, art. 3º (998); Anexo II, art. 5º (1004); Anexo II, art. 7º (1010)
+Anexo II, art. 9º (1016); Citada sem dispositivo identificado (1022)
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1012,3 +1037,5 @@ Norma: [cvm/resolucoes/0135.md](../../../normas/normas/cvm/resolucoes/0135.md) (
 | decisao-colegiado | 875/2021; 19957.001605/2021-80 | 2023-02-14 | parcial | criptoativos | O Colegiado, por maioria, deferiu em parte os pedidos de alteração da Deliberação CVM 875/2021 (sandbox regulatório) das Vórtx DTVM e Vórtx QR, acompanhando o CDS, e aprovou a edição de Deliberação. Indeferiu o acesso do público investidor em geral às ofertas e à negociação na plataforma de tokenização; houve voto divergente nesse ponto. | cvm/colegiado/2023/col-20230214-d2482.md |
 | decisao-colegiado | — | 2022-12-02 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, conforme proposta da SDM após interação com a ASA e áreas técnicas. Inclui normas a editar após audiência pública (AP SDM 03/21 e 05/21), temas para consulta pública e estudos de AIR. | cvm/colegiado/2022/col-20221202-d2793.md |
 | decisao-colegiado | 19957.010666/2022-19 | 2022-08-16 | conhecimento | assembleia-acionistas | Por maioria, o Colegiado não conheceu da representação tratada como pedido de interrupção do prazo de convocação da AGE da Petrobras (art. 124, §5º, II, Lei 6.404/1976), por intempestividade e pelos vícios apontados, sem análise do alegado abuso de poder de controle. Em conclusão, por unanimidade, a assembleia foi mantida na data de 19.08.2022. | cvm/colegiado/2022/col-20220816-d2671.md |
+
+Fim do subíndice.

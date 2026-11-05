@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0049.md](../../../normas/normas/cvm/resolucoes/0049.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.005627/2021-19 | 2024-12-17 | condenacao | exercicio-irregular | Apurar infrações ao art. 23 da Lei nº 6.385/1976 e ao art. 2º, caput, da Instrução CVM nº 558/2015, pelo exercício irregular da atividade de administração de carteira de valores mobiliários; e ao art. 4°, inciso II, da Deliberação CVM nº 749/2016, pela reprodução não autorizada do logotipo da CVM. Multa e Proibição Temporária. | cvm/pas/2024/19957-005627-2021-19.md |
+
+Fim do subíndice.

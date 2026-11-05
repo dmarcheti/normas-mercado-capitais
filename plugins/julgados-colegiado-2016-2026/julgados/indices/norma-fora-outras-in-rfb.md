@@ -47,3 +47,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.010108/2021-72 | 2022-01-11 | parcial | criptoativos | O Colegiado deu provimento parcial a recurso da Equals9 contra decisão da SRE sobre dispensa de registro de oferta de tokens EQ9. Reconheceu que o token, nos termos apresentados, não é valor mobiliário nem CIC, mas negou a dispensa por não haver competência da CVM sobre a oferta, acompanhando as áreas técnicas. | cvm/colegiado/2022/col-20220111-d2453.md |
+
+Fim do subíndice.

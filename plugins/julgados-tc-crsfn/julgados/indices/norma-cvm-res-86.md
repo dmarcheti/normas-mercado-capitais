@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0086.md](../../../normas/normas/cvm/resolucoes/0086.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.010438/2017-81; RJ2018/00370 | 2023-11-07 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS. OFERTA IRREGULAR DE CONTRATOS DE INVESTIMENTO COLETIVO IMOBILIÁRIO. Realização de oferta de valores mobiliários sem a obtenção de registro na CVM. Irregularidade configurada. Alerta ao Mercado. Conversão das penas de multa em advertência. Recursos conhecidos e parcialmente providos. | crsfn/2023/10372-100235-2021-69.md |
+
+Fim do subíndice.

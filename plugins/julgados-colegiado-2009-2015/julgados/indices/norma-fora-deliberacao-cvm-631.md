@@ -62,3 +62,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/1573 | 2011-02-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/1573. | cvm/colegiado/2011/col-20110215-d21.md |
 | decisao-colegiado | RJ2011/1256 | 2011-02-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/1256. | cvm/colegiado/2011/col-20110215-d12.md |
 | decisao-colegiado | RJ2011/1269 | 2011-02-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/1269. | cvm/colegiado/2011/col-20110208-d20.md |
+
+Fim do subíndice.

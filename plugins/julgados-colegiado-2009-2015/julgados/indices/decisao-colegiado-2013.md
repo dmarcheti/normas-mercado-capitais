@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 562 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2013-12 | 29 |
+| 2013-11 | 77 |
+| 2013-10 | 107 |
+| 2013-09 | 194 |
+| 2013-08 | 234 |
+| 2013-07 | 269 |
+| 2013-06 | 300 |
+| 2013-05 | 330 |
+| 2013-04 | 370 |
+| 2013-03 | 409 |
+| 2013-02 | 445 |
+| 2013-01 | 498 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ2013/11745 | 2013-12-23 | deferido | outros | O Colegiado autorizou a negociação privada de ações da Zurich Santander Brasil S.A. solicitada pelo Citibank DTVM S.A., custodiante de investidor não residente que subscreveu ações por erro operacional e as recomprou do Banco Santander pelo mesmo preço (R$ 86.292,81). Com base na manifestação da SIN, sem má-fé identificada. | cvm/colegiado/2013/col-20131223-d11.md |
@@ -539,3 +558,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2012/3506 | 2013-01-04 | outro | exercicio-irregular | O Colegiado, acompanhando a área técnica, aprovou por unanimidade a edição de Deliberação apresentada pela SIN sobre atuação irregular no mercado de valores mobiliários, sem a devida autorização da CVM, por pessoa física. | cvm/colegiado/2013/col-20130104-d03.md |
 | RJ2012/11664 | 2013-01-04 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11664. | cvm/colegiado/2013/col-20130104-d02.md |
 | RJ2012/11663 | 2013-01-04 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2012/11663. | cvm/colegiado/2013/col-20130104-d01.md |
+
+Fim do subíndice.

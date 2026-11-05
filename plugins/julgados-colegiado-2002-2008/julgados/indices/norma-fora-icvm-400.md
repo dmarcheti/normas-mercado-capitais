@@ -7,6 +7,59 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 720 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 63 |
+| art. 2º | 74 |
+| art. 3º | 110 |
+| art. 4º | 137 |
+| art. 5º | 256 |
+| art. 6º | 295 |
+| art. 8º | 304 |
+| art. 9º | 310 |
+| art. 9º-O | 322 |
+| art. 10 | 328 |
+| art. 11 | 337 |
+| art. 14 | 346 |
+| art. 16 | 358 |
+| art. 18 | 372 |
+| art. 19 | 381 |
+| art. 21 | 388 |
+| art. 23 | 394 |
+| art. 24 | 403 |
+| art. 25 | 411 |
+| art. 27 | 419 |
+| art. 29 | 425 |
+| art. 30 | 434 |
+| art. 31 | 442 |
+| art. 32 | 449 |
+| art. 33 | 499 |
+| art. 37 | 505 |
+| art. 38 | 511 |
+| art. 39 | 523 |
+| art. 40-A | 532 |
+| art. 42 | 538 |
+| art. 43 | 557 |
+| art. 44 | 563 |
+| art. 45 | 570 |
+| art. 46 | 577 |
+| art. 48 | 583 |
+| art. 49 | 601 |
+| art. 50 | 611 |
+| art. 52 | 619 |
+| art. 53 | 629 |
+| art. 55 | 637 |
+| art. 56 | 648 |
+| art. 57 | 658 |
+| art. 58 | 666 |
+| art. 59 | 674 |
+| art. 60 | 680 |
+| Citada sem dispositivo identificado | 688 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -663,3 +716,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/0504; RJ2003/6655 | 2004-08-05 | nao-provido | ofertas-publicas | Recurso da Coritiba Futebol S.A. contra as decisões da SRE e da SEP que indeferiram o registro de distribuição pública de ações e o registro inicial de companhia aberta. O Colegiado manteve as decisões, com as ressalvas do voto do relator. | cvm/colegiado/2004/col-20040805-d08.md |
 | decisao-colegiado | RJ2004/1797 | 2004-06-15 | deferido | ofertas-publicas | O Colegiado, com impedimento de um diretor, aprovou o contrato de estabilização de preços das ações da All América Latina Logística S.A., nos termos do Memo/SRE nº 114/04. Em anexo, a área técnica manifestou posição favorável à aprovação. | cvm/colegiado/2004/col-20040615-d07.md |
 | decisao-colegiado | RJ2004/2020 | 2004-04-27 | deferido | ofertas-publicas | O Colegiado, por maioria, deferiu as dispensas de requisitos de registro requeridas na oferta pública de ações da Natura Cosméticos S.A., por entender que as informações constarão dos prospectos e contratos da oferta. Um voto divergente era contrário à dispensa, por não haver identificação dos ofertantes nos anúncios. | cvm/colegiado/2004/col-20040427-d03.md |
+
+Fim do subíndice.

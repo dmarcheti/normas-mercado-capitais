@@ -61,3 +61,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/7434 | 2011-10-11 | outro | normativo | O Colegiado aprovou a submissão à audiência pública, por 30 dias, de minuta que altera a Instrução CVM 28/83 (agente fiduciário de debenturistas). A alteração regulamenta a Lei 12.431/11, que permite ao agente fiduciário atuar em outras emissões da mesma companhia, nos termos de normas da CVM. A SDM consolidará as contribuições. | cvm/colegiado/2011/col-20111011-d09.md |
 | decisao-colegiado | 09/2010; RJ2003/0505 | 2011-01-19 | outro | normativo | O Colegiado aprovou a edição de Instrução que altera a Instrução CVM 28/83, sobre o exercício da função de agente fiduciário dos debenturistas, após a Audiência Pública SDM 09/2010. | cvm/colegiado/2011/col-20110119-d06.md |
 | decisao-colegiado | RJ2003/0505 | 2010-09-01 | outro | normativo | O Colegiado aprovou, com alterações, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução 28/83, sobre o exercício da função de agente fiduciário dos debenturistas. A SDM consolidará as sugestões. | cvm/colegiado/2010/col-20100901-d01.md |
+
+Fim do subíndice.

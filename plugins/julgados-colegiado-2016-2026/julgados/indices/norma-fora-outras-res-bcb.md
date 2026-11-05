@@ -55,3 +55,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 7º | decisao-colegiado | 19957.007728/2019-18 | 2020-06-18 | nao-provido | crowdfunding | O Colegiado, por unanimidade, negou provimento a recurso da URBE.ME contra determinação da SRE de manter website exclusivo à sua plataforma de crowdfunding (ICVM 588/17, art. 8º). Aprovou a Deliberação CVM 858/2020, que proíbe ofertas diferentes das autorizadas pela ICVM 588, por situação anormal de mercado (art. 9º, §1º, da Lei 6.385/76). | cvm/colegiado/2020/col-20200618-d1838.md |
+
+Fim do subíndice.

@@ -30,3 +30,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2001/1789 | 2003-03-12 | rejeitado | exercicio-irregular | O Colegiado acompanhou o voto do diretor-relator e indeferiu a proposta de termo de compromisso do proponente, agente autônomo de investimentos, em processo de rito sumário por atuação como intermediário irregular no mercado de valores mobiliários. O processo retorna à SMI para ciência do interessado, que poderá apresentar nova proposta em 30 dias. | cvm/colegiado/2003/col-20030312-d07.md |
 | RJ2002/6453 | 2003-03-12 | aceito | outros | O Colegiado aceitou, com alterações, proposta de Termo de Compromisso da Fama Investimentos Ltda. e de seu diretor responsável, em recurso contra decisão da SIN em processo de rito sumário. | cvm/colegiado/2003/col-20030312-d02.md |
 | RJ2002/2555 | 2003-02-11 | aceito | outros | O Colegiado aprovou o termo de compromisso proposto pelo Banco Santander S.A. em processo de rito sumário por infração ao art. 2º da Instrução 304/99, nos termos do voto do diretor-relator. | cvm/colegiado/2003/col-20030211-d02.md |
+
+Fim do subíndice.

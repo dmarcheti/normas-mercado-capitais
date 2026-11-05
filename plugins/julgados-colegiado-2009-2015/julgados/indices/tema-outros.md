@@ -5,6 +5,20 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 274 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2015 | 24 |
+| 2014 | 60 |
+| 2013 | 89 |
+| 2012 | 130 |
+| 2011 | 161 |
+| 2010 | 198 |
+| 2009 | 230 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2014/9919 | 2015-12-22 | outro | outros | O Colegiado determinou o arquivamento do processo de cumprimento de Termo de Compromisso celebrado por um diretor da Magnesita Refratários S.A., por ter sido cumprido na forma convencionada o pagamento, sem obrigação adicional, conforme manifestação da SAD. | cvm/colegiado/2015/col-20151222-d9662.md |
@@ -256,3 +270,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2008/11191 | 2009-03-03 | outro | outros | O Colegiado extinguiu, sem apreciação do mérito, pedido da Brasil Telecom S.A. de autorização para adquirir ações de própria emissão em bolsa (Instrução 10/80). A companhia perdeu o interesse após a transferência do controle e a eleição de nova administração. | cvm/colegiado/2009/col-20090303-d11.md |
 | decisao-colegiado | RJ2009/0880 | 2009-02-12 | provido | outros | Por unanimidade, o Colegiado acolheu pedido de reconsideração e reformou decisão de 04.02.09 quanto à definição das relações de substituição de ações da Amazônia Celular S.A. pelas da Tele Norte Celular Participações S.A., com base nos preços das OPAs de 2008 e 2009. Acompanhou o voto do diretor relator, que apontou comutatividade, finalidade do Parecer de Orientação CVM 35/08. | cvm/colegiado/2009/col-20090212-d01.md |
 | decisao-colegiado | RJ2009/0880 | 2009-02-04 | outro | outros | Em consulta, o Colegiado entendeu que a relação de troca em incorporação é responsabilidade da administração, cabendo-lhe demonstrar a equitatividade, e recomendou observar o Parecer de Orientação 35/08. Os laudos das OPAs não autorizam substituir o laudo do art. 264 da Lei das S.A., por não avaliarem ações ordinárias. | cvm/colegiado/2009/col-20090204-d01.md |
+
+Fim do subíndice.

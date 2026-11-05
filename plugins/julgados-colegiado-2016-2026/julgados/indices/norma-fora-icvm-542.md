@@ -96,3 +96,5 @@ Norma: fora do acervo.
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 | decisao-colegiado | 542/2013; 19957.003593/2016-61 | 2016-06-14 | — | infraestrutura-mercado | Pedidos de dispensa de requisitos da Instrução CVM 542/2013 (custódia de valores mobiliários) formulados por instituições financeiras, entre elas o Banco ABC Brasil. Decisão adiada. | cvm/colegiado/2016/col-20160614-d0252.md |
 | decisao-colegiado | RJ2015/12957 | 2016-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2015/12957. | cvm/colegiado/2016/col-20160105-d10008.md |
+
+Fim do subíndice.

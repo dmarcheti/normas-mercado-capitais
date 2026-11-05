@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0189.md](../../../normas/normas/cvm/resolucoes/0189.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 03/2023; 19957.003462/2023-11 | 2023-10-04 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM 189/2023, que aprova a OCPC 07(R1), sobre evidenciação em relatórios financeiros para fins gerais, e a torna obrigatória para companhias abertas. Apenas ajustes de redação e referências; dispensada AIR (art. 4º, IV, do Decreto 10.411/2020). | cvm/colegiado/2023/col-20231004-d2857.md |
+
+Fim do subíndice.

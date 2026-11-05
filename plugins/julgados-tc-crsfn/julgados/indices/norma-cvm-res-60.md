@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0060.md](../../../normas/normas/cvm/resolucoes/0060.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | cvm/colegiado/2026/col-20260331-d3406.md |
+
+Fim do subíndice.

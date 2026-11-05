@@ -7,6 +7,66 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1396 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 70 |
+| art. 2º | 80 |
+| art. 3º | 87 |
+| art. 13 | 93 |
+| art. 14 | 159 |
+| art. 15 | 237 |
+| art. 16 | 245 |
+| art. 17 | 253 |
+| art. 19 | 263 |
+| art. 20 | 271 |
+| art. 21 | 277 |
+| art. 22 | 489 |
+| art. 23 | 504 |
+| art. 24 | 539 |
+| art. 24-A | 622 |
+| art. 25 | 628 |
+| art. 26 | 708 |
+| art. 27 | 758 |
+| art. 28 | 765 |
+| art. 29 | 824 |
+| art. 30 | 924 |
+| art. 31 | 950 |
+| art. 32 | 956 |
+| art. 36 | 962 |
+| art. 37 | 976 |
+| art. 38 | 991 |
+| art. 39 | 1001 |
+| art. 40 | 1010 |
+| art. 41 | 1018 |
+| art. 43 | 1024 |
+| art. 44 | 1030 |
+| art. 45 | 1065 |
+| art. 46 | 1132 |
+| art. 47 | 1143 |
+| art. 49 | 1151 |
+| art. 52 | 1157 |
+| art. 53 | 1183 |
+| art. 54 | 1189 |
+| art. 55 | 1206 |
+| art. 56 | 1219 |
+| art. 60 | 1225 |
+| art. 65 | 1243 |
+| art. 245 | 1276 |
+| art. 263 | 1282 |
+| art. 266 | 1288 |
+| art. 294 | 1294 |
+| art. 297 | 1300 |
+| art. 306 | 1306 |
+| art. 307 | 1312 |
+| art. 453 | 1318 |
+| art. 521 | 1324 |
+| Anexo XXXIII, art. 1º | 1330 |
+| Citada sem dispositivo identificado | 1337 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1332,3 +1392,5 @@ Norma: fora do acervo.
 | termo-compromisso | RJ2012/4767 | 2012-10-02 | aceito | assembleia-acionistas | O Colegiado aceitou a proposta de termo de compromisso apresentada por dois membros do conselho de administração da Cachoeira Velonorte S.A., que pagarão R$ 20.000,00 cada à CVM pela convocação intempestiva de AGO (arts. 132 e 142, IV, Lei 6.404/76). Acompanhou o parecer do Comitê, que considerou o valor suficiente para desestimular condutas assemelhadas. | cvm/colegiado/2012/col-20121002-d01.md |
 | termo-compromisso | RJ2010/11349 | 2012-03-06 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta de termo de compromisso apresentada em conjunto por sete administradores da Carfepe S.A., acompanhando o Comitê, que considerou o valor de R$ 50.000,00 inadequado à função preventiva do instituto. Acusação de atraso em informações periódicas, de demonstrações financeiras (arts. 132, 133 e 176 da Lei 6.404/76) e de não convocação de AGO. | cvm/colegiado/2012/col-20120306-d13.md |
 | termo-compromisso | RJ2011/7382 | 2011-12-06 | aceito | divulgacao-informacoes | O Colegiado aceitou nova proposta de termo de compromisso de R$ 35.000,00 do proponente, diretor de relações com investidores da Josapar – Joaquim Oliveira S.A. Participações, acompanhando o Comitê, após rejeitar a proposta anterior em 29.11.11. Processo sumário (RJ2011/7382) por atraso em informações obrigatórias de 2010 e 2011. | cvm/colegiado/2011/col-20111206-d03.md |
+
+Fim do subíndice.

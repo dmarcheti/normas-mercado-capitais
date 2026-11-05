@@ -69,3 +69,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | cvm/colegiado/2020/col-20200331-d1476.md |
+
+Fim do subíndice.

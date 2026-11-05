@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0025.md](../../../normas/normas/cvm/resolucoes/0025.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2009/6226 | 2010-01-26 | rejeitado | manipulacao-fraude | O Colegiado, acompanhando o parecer do Comitê, rejeitou propostas de termo de compromisso de seis proponentes no PAS 06/2007, por operação fraudulenta envolvendo os fundos ASM FIDC CI e ASM FIDC FCVS (Instrução 08/79, item II, letra c). Comitê: inconveniente a celebração, pela gravidade das condutas e pelos prejuízos potenciais ao Estado do Rio de Janeiro. | cvm/colegiado/2010/col-20100126-d05.md |
+
+Fim do subíndice.

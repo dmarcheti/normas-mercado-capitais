@@ -45,3 +45,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | IA14/00 | 2004-04-20 | rejeitado | outros | No IA 14/00 (Grupo Arbi S.A. CCTVM), o Colegiado rejeitou as propostas de termo de compromisso apresentadas por dois indiciados, acompanhando o voto do diretor-relator. | cvm/colegiado/2004/col-20040420-d01.md |
 | IA02/01 | 2004-04-16 | aceito | outros | O Colegiado aceitou as propostas de termo de compromisso da Usiminas, da Companhia Vale do Rio Doce, da Companhia Rio Doce Manganês e de seus administradores, para suspensão do IA 02/01, desde que atendidas as condições do voto do diretor-relator. | cvm/colegiado/2004/col-20040416-d01.md |
 | IA13/01 | 2004-03-02 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso no IA CVM 13/01 (Mercobank S.A.), apresentadas pela TUMIM Consultoria e por outras seis pessoas físicas, nos termos do voto do relator. Um diretor também rejeitou, por considerar insuficientes as condições propostas. | cvm/colegiado/2004/col-20040302-d06.md |
+
+Fim do subíndice.

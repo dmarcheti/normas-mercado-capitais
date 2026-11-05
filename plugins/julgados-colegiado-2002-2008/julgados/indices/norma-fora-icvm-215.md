@@ -143,3 +143,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | cvm/colegiado/2006/col-20060221-d01.md |
 | decisao-colegiado | RJ2005/7115 | 2005-11-17 | outro | fundos-investimento | O Colegiado determinou que a SIN oficie os custodiantes, por circularização, para verificar a existência de ativos em nome de dois fundos mútuos (FAL e FINEY), antes de decidir sobre o cancelamento de seus cadastros sob a ICVM 215/94. | cvm/colegiado/2005/col-20051117-d05.md |
 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | cvm/decisoes-antigas/1995.md |
+
+Fim do subíndice.

@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 759 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2010-12 | 29 |
+| 2010-11 | 179 |
+| 2010-10 | 288 |
+| 2010-09 | 335 |
+| 2010-08 | 369 |
+| 2010-07 | 414 |
+| 2010-06 | 438 |
+| 2010-05 | 472 |
+| 2010-04 | 501 |
+| 2010-03 | 537 |
+| 2010-02 | 631 |
+| 2010-01 | 702 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2010-12-30 | deferido | divulgacao-informacoes | O Colegiado deferiu pedido de confidencialidade da WEG S.A. sobre documentos da aquisição da totalidade das quotas da EQUISUL Indústria e Comércio Ltda., nos termos do art. 56, § 3º, da Instrução CVM 480/09, considerando a operação de R$ 5.350.000,00, aproximadamente 0,21% do patrimônio líquido (data-base 30.09.2010). Decisão tornada pública em 08.07.12. | cvm/colegiado/2010/col-20101230-d01.md |
@@ -736,3 +755,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2007/5476 | 2010-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/5476. | cvm/colegiado/2010/col-20100105-d01.md |
 | — | 2010-01-05 | indeferido | divulgacao-informacoes | O Colegiado indeferiu pedido da JBS S.A. de tratamento confidencial para atas de comitês independentes e relatório sobre a incorporação da Bertin. Fundamento: o art. 14, §3º, da Instrução 202/93 não se aplica, pois os documentos instruirão procedimento investigativo já sujeito a sigilo (art. 9º, §2º, Lei 6.385/76). Determinou à SEP que dê aos documentos o regime de publicidade próprio. | cvm/colegiado/2010/col-20100105-d01-r3.md |
 | — | 2010-01-05 | indeferido | divulgacao-informacoes | Pedido de concessão de tratamento confidencial. | cvm/colegiado/2010/col-20100105-d01-r2.md |
+
+Fim do subíndice.

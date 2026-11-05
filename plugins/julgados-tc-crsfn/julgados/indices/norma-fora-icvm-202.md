@@ -7,6 +7,32 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1123 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 36 |
+| art. 2º | 42 |
+| art. 5º | 48 |
+| art. 6º | 59 |
+| art. 7º | 144 |
+| art. 8º | 151 |
+| art. 13 | 167 |
+| art. 14 | 366 |
+| art. 15 | 373 |
+| art. 16 | 379 |
+| art. 17 | 899 |
+| art. 18 | 992 |
+| art. 19 | 1013 |
+| art. 36 | 1057 |
+| art. 116 | 1063 |
+| art. 163 | 1069 |
+| art. 171 | 1075 |
+| art. 184 | 1081 |
+| Citada sem dispositivo identificado | 1087 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -1093,3 +1119,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 98/4854 | 2000-04-27 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Não fornecimento de informações obrigatórias à autoridade supervisora (Instrução CVM 202/93) – Peculiaridades do caso – Recurso improvido. | crsfn/2000/2985.md |
 | acordao-crsfn | 98/4852 | 2000-03-23 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Falta de adoção de procedimentos e de envio de informações periódicas na forma prevista em norma regulamentar (Instrução CVM 202/93) – Peculiaridades do caso – Recurso improvido. | crsfn/2000/2957.md |
 | acordao-crsfn | 97/3413 | 1999-09-30 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de remessa de informações periódicas previstas em normativo regulamentar (Instrução CVM n. 202/93) – Irregularidade caracterizada – Apelo a que se nega provimento. ACÓRDÃO/CRSFN 2678/99: Vistos, relatados e discutidos os presentes autos, decidem os membros do Conselho de Recursos do Sistema Financeiro Nacional, por unanimidade, negar provimento ao recurso interposto, ratificada a decisão do órgão de primeiro grau no sentido de aplicar a [pessoa física] multa pecuniária no valor equivalente a 500 (quinhentas) UFIRs, assentando-se a imprescindibilidade de se prover a autarquia supervisora do mercado de capitais de adequadas informações sobre a situação econômico-financeira da companhia aberta, o que no caso dos autos restou prejudicado, tal a contumácia relativamente ao oportuno envio dos dados por parte da empresa vinculada ao ora apelante. Participaram do julgamento os seguintes Conselheiros: Drs. Waldemir Messias de Araújo, Ezequiel Grin, Eli Loria, José Fernando Monteiro Alves, Waldir Quintiliano da Silva, Hélio Ramos Domingues e Amélia Yoko Kawamura. Presentes o Dr. Glênio Sabbad Guedes, Procurador da Fazenda Nacional, e Marcos Martins de Souza, Secretário-Executivo do CRSFN. Sala das Sessões (DF), 30 de setembro de 1999 | crsfn/1999/2837.md |
+
+Fim do subíndice.

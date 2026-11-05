@@ -7,6 +7,65 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 651 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 69 |
+| art. 2º | 76 |
+| art. 5º | 91 |
+| art. 7º | 98 |
+| art. 7º-A | 104 |
+| art. 7º-B | 111 |
+| art. 8º | 117 |
+| art. 13 | 123 |
+| art. 16 | 129 |
+| art. 27 | 136 |
+| art. 37 | 142 |
+| art. 40 | 148 |
+| art. 44 | 154 |
+| art. 56 | 164 |
+| art. 59 | 173 |
+| art. 60 | 268 |
+| art. 65 | 274 |
+| art. 66 | 280 |
+| art. 69 | 298 |
+| art. 71 | 305 |
+| art. 72 | 311 |
+| art. 73 | 317 |
+| art. 76 | 323 |
+| art. 78 | 331 |
+| art. 79 | 338 |
+| art. 80 | 347 |
+| art. 85 | 353 |
+| art. 89 | 360 |
+| art. 90 | 367 |
+| art. 91 | 382 |
+| art. 92 | 388 |
+| art. 93 | 404 |
+| art. 94 | 410 |
+| art. 95 | 416 |
+| art. 98 | 425 |
+| art. 101 | 432 |
+| art. 102 | 438 |
+| art. 103 | 448 |
+| art. 115 | 456 |
+| art. 118 | 466 |
+| art. 125 | 472 |
+| art. 129 | 478 |
+| art. 130 | 484 |
+| art. 131 | 491 |
+| art. 132 | 497 |
+| art. 134 | 503 |
+| art. 138 | 510 |
+| art. 139 | 516 |
+| art. 140 | 523 |
+| art. 142 | 531 |
+| art. 157 | 600 |
+| Citada sem dispositivo identificado | 606 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -588,3 +647,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | parcial | fundos-investimento | O Colegiado acolheu, por unanimidade, o pleito da ANFIDC para afastar a exigência de trânsito em julgado da homologação do plano do cedente, para FIDC em geral. Por maioria, em linha com a SIN, negou a aquisição, por FIDC padronizado, de créditos com coobrigação de cedente em recuperação judicial ou extrajudicial. | cvm/colegiado/2016/col-20160906-d0301.md |
 | decisao-colegiado | RJ2013/12939 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12939. | cvm/colegiado/2016/col-20160607-d0239.md |
 | decisao-colegiado | 19957.002908/2016-52 | 2016-05-24 | nao-provido | fundos-investimento | O Colegiado, por unanimidade, negou recurso do administrador BTG Pactual Serviços Financeiros S.A. DTVM e manteve decisão da área técnica (SIN) que exigiu convocação de assembleia de cotistas do FII Edifício Almirante Barroso para deliberar sobre a taxa de administração e sobre obras acima de R$ 500.000,00 (art. 19, §1º, da Instrução CVM 472/2008). | cvm/colegiado/2016/col-20160524-d0224.md |
+
+Fim do subíndice.

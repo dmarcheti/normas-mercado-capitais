@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0031.md](../../../normas/normas/cvm/resolucoes/0031.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | cvm/pas/2026/19957-001044-2025-42.md |
+
+Fim do subíndice.

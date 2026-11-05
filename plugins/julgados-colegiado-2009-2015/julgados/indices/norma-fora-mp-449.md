@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | contabil-demonstracoes | O Colegiado, acompanhando o relator, deu provimento ao recurso da PPE Fios Esmaltados contra entendimento da SEP e dispensou a republicação das demonstrações financeiras de 31.12.08. Fundamento: não há ações em circulação e os acionistas estão cientes dos ajustes. Condicionou a dispensa à AGE, comunicado e publicação comparativa. | cvm/colegiado/2009/col-20091013-d20.md |
 | decisao-colegiado | RJ2009/1956 | 2009-07-15 | provido | opa | Recurso contra decisão da SRE. Proc. RJ2009/1956. | cvm/colegiado/2009/col-20090715-d01-r2.md |
 | decisao-colegiado | RJ2009/3454 | 2009-05-26 | deferido | ofertas-publicas | O Colegiado autorizou a continuação do registro de distribuição de debêntures da Hopi Hari S.A., apesar da pendência de atualização do registro da companhia apontada pela SEP, por especiais circunstâncias do caso. Condições: SRE confirmar as demais exigências; teste de impairment nas DFs de 2009; cláusula de não negociação das debêntures até a divulgação do teste. | cvm/colegiado/2009/col-20090526-d07.md |
+
+Fim do subíndice.

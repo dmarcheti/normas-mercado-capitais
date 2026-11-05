@@ -94,3 +94,5 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2013/7335 | 2013-09-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7335. | cvm/colegiado/2013/col-20130910-d09.md |
 | art. 2º | decisao-colegiado | RJ2013/7536 | 2013-09-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/7536. | cvm/colegiado/2013/col-20130910-d10.md |
 | art. 2º | decisao-colegiado | RJ2013/13022 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/13022. | cvm/colegiado/2014/col-20140107-d05.md |
+
+Fim do subíndice.

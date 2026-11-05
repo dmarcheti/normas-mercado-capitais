@@ -117,3 +117,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2011/12024 | 2013-01-15 | parcial | administracao-carteiras | O Colegiado deu provimento parcial a recurso contra a suspensão, pela SIN, da análise de pedido de credenciamento de administrador de carteiras, acompanhando o voto da relatora. A SIN deve prosseguir e decidir, de forma motivada, em 30 dias improrrogáveis. | cvm/colegiado/2013/col-20130115-d08.md |
+
+Fim do subíndice.

@@ -24,3 +24,5 @@ Norma: [cvm/resolucoes/0034.md](../../../normas/normas/cvm/resolucoes/0034.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | registro-emissor | Apurar eventual responsabilidade de companhia aberta e seus diretores pela inobservância do dever de guardar documentos relacionados à administração da companhia, em infração ao art. 9º, inciso I, alínea “b”, da Lei nº 6.385/1976. Absolvições. | cvm/pas/2023/19957-011361-2018-48.md |
+
+Fim do subíndice.

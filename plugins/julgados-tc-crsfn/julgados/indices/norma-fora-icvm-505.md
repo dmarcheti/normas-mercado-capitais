@@ -7,6 +7,35 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 310 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 39 |
+| art. 3º | 45 |
+| art. 4º | 79 |
+| art. 5º | 120 |
+| art. 12 | 131 |
+| art. 13 | 142 |
+| art. 14 | 151 |
+| art. 15 | 161 |
+| art. 19 | 167 |
+| art. 20 | 175 |
+| art. 22 | 189 |
+| art. 23 | 196 |
+| art. 27 | 203 |
+| art. 28 | 209 |
+| art. 29 | 215 |
+| art. 30 | 222 |
+| art. 31 | 230 |
+| art. 32 | 236 |
+| art. 36 | 247 |
+| art. 37 | 259 |
+| art. 38 | 265 |
+| Citada sem dispositivo identificado | 280 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -277,3 +306,5 @@ Norma: fora do acervo.
 | acordao-crsfn | SP2010/266 | 2018-02-20 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS. MERCADO DE TÍTULOS E VALORES MOBILIÁRIOS: Registro de ordens de operações no mercado de títulos e valores mobiliários. Obrigatoriedade de identificação do cliente que as emitiu. Cumprimento da Inst. CVM nº 387, de 2003: obrigatoriedade de instituição de controles efetivos; o diretor responsável perante a CVM deve zelar para que a corretora institua controles internos efetivos e para que tais controles sejam eficazes. Apelos a que se dá parcial provimento. | crsfn/2018/13906.md |
 | acordao-crsfn | IA-2010-12 | 2016-08-24 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO - Comprovadas as irregularidades praticadas pelo recorrente. Operações realizadas voltadas exclusivamente à finalidade de justificar a remuneração variável acordada. atividades violadoras da finalidade do mercado de valores mobiliários. Condutas corretamente classificadas como criação de condições artificiais de demanda, oferta ou preço de valores mobiliários, descrita no inciso II, alínea "a" da Instrução CVM nº 8, de 1979. Afastada a responsabilidade da recorrida de ofício. Negado provimento aos recursos voluntário e de oficio. | crsfn/2016/14223.md |
 | acordao-crsfn | SP-2005/0338 | 2014-02-18 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO - Mercado de valores mobiliários – - Uso de práticas não equitativas – Exercício da atividade de agente autônomo de investimento por pessoa não autorizada pela entidade supervisora - Irregularidades não caracterizadas – Recurso de ofício improvido – Arquivamento confirmado. | crsfn/2014/12569.md |
+
+Fim do subíndice.

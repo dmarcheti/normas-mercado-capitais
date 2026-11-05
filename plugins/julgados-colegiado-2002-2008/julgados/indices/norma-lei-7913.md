@@ -19,3 +19,5 @@ Norma: [leis/lei-07913.md](../../../normas/normas/leis/lei-07913.md) (texto vige
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | cvm/colegiado/2004/col-20040921-d01.md |
 | decisao-colegiado | RJ2004/2395 | 2004-04-06 | indeferido | assembleia-acionistas | Pedido de conselheiro fiscal. Proc. RJ2004/2395. | cvm/colegiado/2004/col-20040406-d06.md |
+
+Fim do subíndice.

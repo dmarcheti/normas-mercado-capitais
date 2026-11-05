@@ -7,6 +7,54 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 997 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 58 |
+| art. 2º | 65 |
+| art. 3º | 94 |
+| art. 4º | 128 |
+| art. 5º | 199 |
+| art. 6º | 212 |
+| art. 7º | 221 |
+| art. 8º | 257 |
+| art. 8º-A | 295 |
+| art. 9º | 302 |
+| art. 9º-A | 317 |
+| art. 10 | 330 |
+| art. 11 | 380 |
+| art. 12 | 402 |
+| art. 13 | 430 |
+| art. 14 | 436 |
+| art. 15 | 447 |
+| art. 15-B | 494 |
+| art. 16 | 502 |
+| art. 17 | 560 |
+| art. 18 | 566 |
+| art. 20 | 572 |
+| art. 21 | 578 |
+| art. 22 | 587 |
+| art. 23 | 595 |
+| art. 24 | 606 |
+| art. 25 | 620 |
+| art. 25-A | 627 |
+| art. 26 | 633 |
+| art. 28 | 677 |
+| art. 29 | 690 |
+| art. 31 | 732 |
+| art. 32 | 742 |
+| art. 32-A | 748 |
+| art. 33 | 754 |
+| art. 34 | 775 |
+| art. 35 | 912 |
+| art. 35-A | 929 |
+| art. 37 | 944 |
+| art. 47 | 971 |
+| Citada sem dispositivo identificado | 977 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -945,3 +993,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2007/14749 | 2010-05-18 | deferido | normativo | O Colegiado deferiu o pedido da ANBIMA e prorrogou por mais 45 dias, até 09.07.10, o prazo para comentários à minuta que altera a Instrução 361/02 (ofertas públicas de aquisição de ações), objeto da Audiência Pública 02/10. | cvm/colegiado/2010/col-20100518-d14.md |
 | decisao-colegiado | RJ2007/14749 | 2010-03-03 | outro | normativo | O Colegiado aprovou, para audiência pública de sessenta dias, minuta de Instrução que altera a Instrução CVM 361/02, que trata de ofertas públicas de aquisição de ações de companhia aberta. A SDM ficou encarregada de consolidar as sugestões recebidas. | cvm/colegiado/2010/col-20100303-d01.md |
 | decisao-colegiado | RJ2009/10895 | 2009-12-22 | deferido | outros | O Colegiado autorizou a CBD a alienar, por negociação privada, ações preferenciais classe B mantidas em tesouraria, para entrega aos aderentes da OPA de Globex Utilidades S.A. Fundamento: descumprimento dos arts. 9º e 12 da Instrução CVM 10/80 considerado justificado, sem prejuízo a acionistas ou ao mercado. | cvm/colegiado/2009/col-20091222-d32.md |
+
+Fim do subíndice.

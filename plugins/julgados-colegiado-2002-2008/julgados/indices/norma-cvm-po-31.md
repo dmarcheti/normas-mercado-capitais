@@ -16,3 +16,5 @@ Norma: [cvm/pareceres-orientacao/0031.md](../../../normas/normas/cvm/pareceres-o
 | decisao-colegiado | SP2003/0285 | 2003-11-25 | nao-provido | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2003/0285. | cvm/colegiado/2003/col-20031125-d01.md |
 | decisao-colegiado | SP2001/0548 | 2002-07-29 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0548. | cvm/colegiado/2002/col-20020729-d04.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

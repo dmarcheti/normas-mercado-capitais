@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0006.md](../../../normas/normas/cvm/resolucoes/0006.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.004869/2021-95 | 2022-06-21 | parcial | divulgacao-informacoes | Responsabilidade de administradores da Fibam Companhia Industrial (i) por descumprimento de dispositivos da Instrução CVM nº 480/2009; (ii) pela não elaboração tempestiva de demonstrações financeiras (art. 176, caput, da Lei nº 6.404/1976); e (iii) pela não convocação tempestiva de assembleias gerais ordinárias (art. 132 c/c o art. 142, IV, da Lei nº 6.404/1976). Multas e absolvições. | cvm/pas/2022/19957-004869-2021-95.md |
+
+Fim do subíndice.

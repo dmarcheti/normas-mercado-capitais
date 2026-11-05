@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 426 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 45 |
+| art. 2º | 52 |
+| art. 3º | 64 |
+| art. 4º | 150 |
+| art. 5º | 186 |
+| art. 7º | 192 |
+| art. 8º | 198 |
+| art. 8º-A | 204 |
+| art. 9º | 211 |
+| art. 11 | 222 |
+| art. 12 | 230 |
+| art. 13 | 236 |
+| art. 14 | 242 |
+| art. 15 | 253 |
+| art. 16 | 262 |
+| art. 17 | 269 |
+| art. 18 | 277 |
+| art. 19 | 284 |
+| art. 20 | 293 |
+| art. 21 | 301 |
+| art. 22 | 307 |
+| art. 23 | 316 |
+| art. 24 | 325 |
+| art. 26 | 333 |
+| art. 27 | 341 |
+| art. 30 | 350 |
+| art. 34 | 359 |
+| Citada sem dispositivo identificado | 397 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -387,3 +422,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-10-04 | — | fundos-investimento | Consulta da ABRAPP sobre a aplicação da Instrução CVM 558/2015 a fundos exclusivos geridos por entidades fechadas de previdência complementar. O Colegiado iniciou a discussão. Julgamento suspenso por pedido de vista. | cvm/colegiado/2016/col-20161004-d0222.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
 | decisao-colegiado | 244/1998; RJ2015/12035 | 2016-02-11 | deferido | administracao-carteiras | O Colegiado deferiu o pedido de credenciamento da IRB Brasil Resseguros S.A. como administradora de carteiras, com base na Deliberação CVM 244/1998, acompanhando a SIN. Determinou à SDM que avalie incluir as resseguradoras na dispensa da norma, conforme sugerido pela PFE/CVM. | cvm/colegiado/2016/col-20160211-d0075.md |
+
+Fim do subíndice.

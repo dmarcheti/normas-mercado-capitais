@@ -65,3 +65,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2009/2470 | 2009-06-23 | outro | exercicio-irregular | Minuta de deliberação sobre atuação irregular no mercado de valores mobiliários – premium intermediação, administração e participação LTDA. Proc. RJ2009/2470. | cvm/colegiado/2009/col-20090623-d11.md |
 | decisao-colegiado | RJ2009/3119 | 2009-04-14 | outro | exercicio-irregular | O Colegiado aprovou a minuta de Deliberação sobre atuação irregular no mercado de valores mobiliários. | cvm/colegiado/2009/col-20090414-d17.md |
 | decisao-colegiado | RJ2009/3061 | 2009-04-14 | outro | exercicio-irregular | O Colegiado aprovou a minuta de deliberação sobre atuação irregular no mercado de valores mobiliários da Thylon Consultoria Financeira Ltda. | cvm/colegiado/2009/col-20090414-d16.md |
+
+Fim do subíndice.

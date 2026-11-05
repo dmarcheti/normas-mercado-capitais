@@ -142,3 +142,5 @@ Norma: fora do acervo.
 | pas | RJ2012/10069 | 2015-03-31 | condenacao | divulgacao-informacoes | Não divulgação de fato relevante. Advertência. | cvm/pas/2015/rj2012-10069.md |
 | pas | RJ2012/9490 | 2015-03-10 | condenacao | administracao-carteiras | Exercício indevido de administração de carteira de valores mobiliários sem a prévia autorização da CVM - Advertências e Multas | cvm/pas/2015/rj2012-9490.md |
 | pas | RJ2004/3456 | 2004-11-26 | condenacao | ofertas-publicas | Banco Pactual S/A e outro. Infração ao disposto no art. 50 da Instrução CVM nº 400/03. Advertências. | cvm/pas/2004/rj2004-3456.md |
+
+Fim do subíndice.

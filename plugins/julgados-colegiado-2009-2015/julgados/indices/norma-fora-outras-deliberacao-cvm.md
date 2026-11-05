@@ -8,6 +8,33 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 860 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+deliberacao-cvm-1 (38); deliberacao-cvm-4 (52); deliberacao-cvm-7 (60); deliberacao-cvm-9 (69)
+deliberacao-cvm-11 (77); deliberacao-cvm-14 (85); deliberacao-cvm-20 (94); deliberacao-cvm-29 (104)
+deliberacao-cvm-36 (114); deliberacao-cvm-55 (122); deliberacao-cvm-142 (131); deliberacao-cvm-158 (147)
+deliberacao-cvm-175 (156); deliberacao-cvm-178 (165); deliberacao-cvm-183 (174); deliberacao-cvm-202 (183)
+deliberacao-cvm-213 (192); deliberacao-cvm-244 (200); deliberacao-cvm-349 (208); deliberacao-cvm-358 (216)
+deliberacao-cvm-363 (224); deliberacao-cvm-366 (233); deliberacao-cvm-371 (241); deliberacao-cvm-372 (250)
+deliberacao-cvm-388 (258); deliberacao-cvm-434 (268); deliberacao-cvm-457 (276); deliberacao-cvm-461 (293)
+deliberacao-cvm-466 (301); deliberacao-cvm-472 (309); deliberacao-cvm-475 (317); deliberacao-cvm-476 (325)
+deliberacao-cvm-477 (337); deliberacao-cvm-482 (350); deliberacao-cvm-486 (358); deliberacao-cvm-488 (367)
+deliberacao-cvm-489 (375); deliberacao-cvm-495 (385); deliberacao-cvm-498 (394); deliberacao-cvm-506 (403)
+deliberacao-cvm-510 (413); deliberacao-cvm-520 (422); deliberacao-cvm-521 (430); deliberacao-cvm-529 (451)
+deliberacao-cvm-532 (460); deliberacao-cvm-534 (469); deliberacao-cvm-535 (477); deliberacao-cvm-536 (492)
+deliberacao-cvm-539 (500); deliberacao-cvm-541 (513); deliberacao-cvm-544 (522); deliberacao-cvm-546 (530)
+deliberacao-cvm-549 (542); deliberacao-cvm-558 (550); deliberacao-cvm-560 (567); deliberacao-cvm-565 (575)
+deliberacao-cvm-580 (583); deliberacao-cvm-594 (591); deliberacao-cvm-597 (601); deliberacao-cvm-603 (609)
+deliberacao-cvm-604 (632); deliberacao-cvm-605 (643); deliberacao-cvm-606 (651); deliberacao-cvm-608 (659)
+deliberacao-cvm-609 (668); deliberacao-cvm-611 (676); deliberacao-cvm-624 (686); deliberacao-cvm-626 (694)
+deliberacao-cvm-647 (702); deliberacao-cvm-650 (710); deliberacao-cvm-656 (719); deliberacao-cvm-662 (728)
+deliberacao-cvm-663 (736); deliberacao-cvm-675 (744); deliberacao-cvm-681 (753); deliberacao-cvm-682 (761)
+deliberacao-cvm-688 (771); deliberacao-cvm-689 (779); deliberacao-cvm-701 (787); deliberacao-cvm-704 (795)
+deliberacao-cvm-705 (803); deliberacao-cvm-716 (811); deliberacao-cvm-721 (819); deliberacao-cvm-734 (827)
+deliberacao-cvm-735 (836); deliberacao-cvm-737 (844); deliberacao-cvm-5383 (852)
+
 ## deliberacao-cvm-1
 
 ### Citada sem dispositivo identificado
@@ -829,3 +856,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 25 | decisao-colegiado | RJ2013/12595 | 2015-06-02 | outro | divulgacao-informacoes | O Colegiado aprovou a recapitulação proposta pelo relator, que reenquadra a conduta do diretor de RI no art. 6º, parágrafo único, da Instrução CVM 358/2002 (não divulgação tempestiva de fato relevante), em vez do art. 4º, parágrafo único. Determinou nova intimação para aditamento de defesa e que a SDM avalie a conveniência de alterar a Instrução 358. | cvm/colegiado/2015/col-20150602-d9572.md |
+
+Fim do subíndice.

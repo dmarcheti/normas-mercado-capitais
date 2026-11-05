@@ -7,6 +7,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 41 |
+| art. 3º | 48 |
+| art. 4º | 54 |
+| art. 12 | 67 |
+| art. 13 | 76 |
+| art. 14 | 86 |
+| art. 15 | 96 |
+| art. 17 | 103 |
+| art. 19 | 109 |
+| art. 20 | 123 |
+| art. 21 | 135 |
+| art. 22 | 141 |
+| art. 25 | 157 |
+| art. 26 | 166 |
+| art. 28 | 173 |
+| art. 29 | 179 |
+| art. 30 | 185 |
+| art. 31 | 206 |
+| art. 32 | 212 |
+| art. 34 | 227 |
+| art. 35 | 233 |
+| art. 35-A | 239 |
+| art. 36 | 246 |
+| Citada sem dispositivo identificado | 252 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -254,3 +285,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.001628/2016-27 | 2017-10-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001628/2016-27. | cvm/colegiado/2017/col-20171003-d0811.md |
 | decisao-colegiado | 19957.002636/2016-91 | 2016-06-14 | outro | normativo | O Colegiado, por unanimidade, aprovou as conclusões da SMI sobre a aprovação de normativos das entidades administradoras de mercados organizados e de depositários centrais (arts. 109, 110 e 113 da ICVM 461/2007). Pela conclusão da SMI aprovada, o Colegiado só analisa casos de risco ao mercado e os dos arts. 9º, §4º, e 114 da ICVM 461. | cvm/colegiado/2016/col-20160614-d0256.md |
 | decisao-colegiado | 505/2011; RJ2015/6254 | 2016-01-27 | outro | normativo | O Colegiado aprovou para audiência pública, pelo prazo de 30 dias, minuta que altera a Instrução CVM 505/2011 quanto à participação de pessoas vinculadas ao intermediário em ofertas públicas regidas pela Instrução CVM 400/2003. A SDM consolidará as sugestões e comentários recebidos. | cvm/colegiado/2016/col-20160127-d5529.md |
+
+Fim do subíndice.

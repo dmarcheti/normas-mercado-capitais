@@ -49,3 +49,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 14/2013 | 2022-12-08 | condenacao | administracao-carteiras | RECURSOS VOLUNTÁRIOS. IRREGULARIDADES NA GESTÃO DE FUNDOS DE INVESTIMENTO. FALTA DE DILIGÊNCIA NA ADMINISTRAÇÃO DE CARTEIRAS. AVALIAÇÕES DE CRÉDITO BASEADAS EXCLUSIVAMENTE EM RELATÓRIOS DE RATING, SEM SINAL DO EXERCÍCIO DE AVALIAÇÃO PRÓPRIA PELO GESTOR. Infrações caracterizadas. Dosimetria da pena adequada. Recursos conhecidos e desprovidos. | crsfn/2022/10372-100093-2021-30.md |
+
+Fim do subíndice.

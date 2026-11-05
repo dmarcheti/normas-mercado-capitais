@@ -5,6 +5,24 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 297 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 28 |
+| 2025 | 44 |
+| 2024 | 67 |
+| 2023 | 93 |
+| 2022 | 118 |
+| 2021 | 146 |
+| 2020 | 176 |
+| 2019 | 202 |
+| 2018 | 224 |
+| 2017 | 244 |
+| 2016 | 262 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.018303/2025-74 | 2026-08-07 | outro | institucional | O Colegiado tomou conhecimento da atualização apresentada pela SEP e pela STI sobre a transferência do Sistema Empresas.Net da B3 para a CVM. Manifestou preocupações com o prazo da operação assistida, a equipe adicional e um plano de contingência, e recomendou tratativas com a B3 para estendê-la, no mínimo, até o fim de 2027. Sem pedido a decidir. | cvm/colegiado/2026/col-20260807-d3449.md |
@@ -275,3 +293,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2015/7879 | 2016-02-02 | outro | institucional | O Colegiado aprovou a minuta de convênio de cooperação acadêmica e técnico-científica entre a CVM e a PUC-Rio, para intercâmbio de informações e ações conjuntas em campos de interesse comum. | cvm/colegiado/2016/col-20160202-d0033.md |
 | decisao-colegiado | 19957.003205/2015-61 | 2016-01-12 | outro | institucional | O Colegiado aprovou o Plano Anual de Atividades de Auditoria Interna (PAINT/2016), elaborado com base na Instrução Normativa SFC nº 01/2007 e no Manual do Sistema de Controle Interno do Poder Executivo Federal. | cvm/colegiado/2016/col-20160112-d5821.md |
 | decisao-colegiado | RJ2014/3334 | 2016-01-05 | outro | institucional | O Colegiado decidiu manter, em definitivo, o novo horário de atendimento ao público e a flexibilização da jornada dos servidores lotados na SOI, após a apresentação dos resultados do 1º semestre de 2015 (art. 11 da Portaria/PTE 195/2014), com base no Memorando nº 72/2015 (SOI/GOI-1). | cvm/colegiado/2016/col-20160105-d9429.md |
+
+Fim do subíndice.

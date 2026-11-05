@@ -69,3 +69,5 @@ Norma: fora do acervo.
 | termo-compromisso | SP2002/0049 | 2005-10-04 | rejeitado | intermediacao | O Colegiado negou a celebração de termo de compromisso proposto pela Umuarama CTVM S.A. e por seu diretor responsável pelo mercado acionário, no PAS SP2002/0049, após ouvir o relator, que entendeu o caso necessário a julgamento. | cvm/colegiado/2005/col-20051004-d01.md |
 | termo-compromisso | 01/02 | 2005-01-31 | rejeitado | outros | O Colegiado não aceitou as propostas de termo de compromisso dos indiciados no PAS CVM 01/02 (Girobank DTVM Ltda. e outros), por entender, conforme voto do relator, que as condições não alcançam o escopo do instituto e não são adequadas, oportunas nem convenientes. | cvm/colegiado/2005/col-20050131-d02.md |
 | termo-compromisso | IA13/01 | 2004-03-02 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso no IA CVM 13/01 (Mercobank S.A.), apresentadas pela TUMIM Consultoria e por outras seis pessoas físicas, nos termos do voto do relator. Um diretor também rejeitou, por considerar insuficientes as condições propostas. | cvm/colegiado/2004/col-20040302-d06.md |
+
+Fim do subíndice.

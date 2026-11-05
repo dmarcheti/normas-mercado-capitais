@@ -7,6 +7,49 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 1002 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 53 |
+| art. 2º | 60 |
+| art. 3º | 185 |
+| art. 4º | 308 |
+| art. 5º | 330 |
+| art. 6º | 348 |
+| art. 7º | 456 |
+| art. 8º | 465 |
+| art. 9º | 492 |
+| art. 10 | 500 |
+| art. 11 | 508 |
+| art. 12 | 532 |
+| art. 13 | 604 |
+| art. 14 | 763 |
+| art. 15 | 770 |
+| art. 15-A | 785 |
+| art. 16 | 795 |
+| art. 18 | 802 |
+| art. 20 | 852 |
+| art. 21 | 862 |
+| art. 23 | 868 |
+| art. 30 | 876 |
+| art. 113 | 882 |
+| art. 121 | 888 |
+| art. 122 | 895 |
+| art. 124 | 902 |
+| art. 127 | 908 |
+| art. 132 | 914 |
+| art. 157 | 924 |
+| art. 182 | 931 |
+| art. 183 | 938 |
+| art. 184 | 944 |
+| art. 212 | 952 |
+| art. 231 | 958 |
+| art. 316 | 964 |
+| Citada sem dispositivo identificado | 970 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -955,3 +998,5 @@ Norma: fora do acervo.
 | pas | RJ2001/9686 | 2004-08-12 | absolvicao | assembleia-acionistas | Inexistência de abuso do direito de voto, previsto no art. 115 da Lei nº 6.404/76, por parte dos acionistas Fundação Sudameris e Espólio do Sr. Remo Rinaldo Naddeo na eleição de membro do Conselho Fiscal em Assembléia Geral Ordinária do Banco Sudameris Brasil S/A., realizada em 06 de abril de 2001. Absolvições. Inocorrência de irregularidades na permuta de ações realizada com os acionistas minoritários Fundação Sudameris e Espólio do Sr. [pessoa física]. Absolvição. Não ocorrência de abuso de poder de controle, previsto no art. 117 da Lei nº 6.404/76, em especial na eleição do representante dos acionistas preferencialistas no Conselho Fiscal do Banco Sudameris Brasil S/A na Assembléia Geral Ordinária realizada em 06 de abril de 2001. Absolvição. | cvm/pas/2004/rj2001-9686.md |
 | pas | 05/2002 | 2004-08-05 | parcial | ofertas-publicas | Infração ao art. 14, caput e § 1º, da Instrução CVM n° 13/80. Multas. - Infração aos artigos 24 e 25 da Instrução CVM n° 216/94, ao item 11.3.7.1 da NBC-T-11, aprovada pela Resolução CFC n° 700/91 e à letra “c” do item 16 do Comunicado Técnico nº 02/90 do IBRACON, aprovado pela Resolução CFC n° 678, de 24.07.90, cujo teor foi mantido pela letra “c” do item 16 do Comunicado Técnico n° 06/96 do IBRACON Multas. - Infração ao art. 2º, § 1º, da Instrução CVM n° 31/84. Multa e Absolvição. - Infração ao art. 176, § 5º, alínea “i”, da Lei n.º 6.404/76 c/c o art. 1º, caput, da Instrução CVM n° 248/96. Multas e Absolvição. | cvm/pas/2004/05-2002.md |
 | pas | RJ2001/8388 | 2002-04-18 | condenacao | divulgacao-informacoes | [pessoa física] (ORION S/A) Ausência de comunicação à CVM acerca do aumento de participação acionária de membro do conselho fiscal. Infração Grave. Pena de multa. | cvm/pas/2002/rj2001-8388.md |
+
+Fim do subíndice.

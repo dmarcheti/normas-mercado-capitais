@@ -172,3 +172,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 18/93 | 1996-03-13 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Irregularidades ocorridas na concessão de financiamentos a clientes, durante o exercício de 1991. Recursos não providos. | crsfn/1996/1551.md |
 | acordao-crsfn | 13/92; | 1996-03-13 | condenacao | intermediacao | RECURSO DE OFÍCIO. Prática não equitativa no mercado de valores mobiliários. Falta de registros de ordens de negociação. Infrações às Instruções CVM 08/79 e 33/84. | crsfn/1996/1550.md |
 | acordao-crsfn | 91/1181-6 | 1996-02-15 | absolvicao | intermediacao | RECURSO DE OFÍCIO. Ausência de registro de ordens no relógio datador. Registro de ordens fora do horário normal de mercado. Ausência de dois números na ordem numérica de ordens. Infrações não caracterizadas . | crsfn/1996/1581.md |
+
+Fim do subíndice.

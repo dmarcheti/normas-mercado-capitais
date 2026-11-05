@@ -7,6 +7,49 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 671 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 53 |
+| art. 2º | 60 |
+| art. 3º | 131 |
+| art. 4º | 185 |
+| art. 5º | 247 |
+| art. 6º | 257 |
+| art. 14 | 263 |
+| art. 15 | 270 |
+| art. 19 | 276 |
+| art. 20 | 289 |
+| art. 21 | 297 |
+| art. 22 | 305 |
+| art. 23 | 311 |
+| art. 24 | 318 |
+| art. 27 | 324 |
+| art. 33 | 331 |
+| art. 37 | 337 |
+| art. 38 | 345 |
+| art. 39 | 358 |
+| art. 40 | 365 |
+| art. 41 | 372 |
+| art. 42 | 378 |
+| art. 45 | 384 |
+| art. 48 | 391 |
+| art. 49 | 446 |
+| art. 50 | 460 |
+| art. 55 | 484 |
+| art. 56 | 491 |
+| art. 56-A | 512 |
+| art. 56-B | 518 |
+| art. 56-C | 567 |
+| art. 59 | 576 |
+| art. 60 | 626 |
+| art. 211 | 632 |
+| art. 382 | 638 |
+| Citada sem dispositivo identificado | 644 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -624,3 +667,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ-2006-3139 | 2010-01-26 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Lançamento de ações em bolsa de valores - Comentários feitos na imprensa durante o prazo de oferta pública e tidos por inoportunos - Informações veiculadas sem o condão de influenciar decisões de investimento nos papéis - Irregularidade não configurada - Recurso de ofício improvido. | crsfn/2010/11426.md |
 | acordao-crsfn | RJ-2004/5131 | 2006-01-25 | absolvicao | opa | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Oferta pública de ações – Falta de encaminhamento do material publicitário à CVM em data anterior à do correspondente registro - Não prestação de informações adicionais ou contraditórias entre o edital e o prospecto e o material divulgado – Inocorrência de prejuízos aos acionistas e ao mercado – Irregularidade não configurada – Recurso improvido. | crsfn/2006/6594.md |
 | termo-compromisso | 05/02 | 2004-07-02 | rejeitado | processual | O Colegiado, acompanhando o voto do relator e com exceção de uma diretora que manifestou impedimento, rejeitou proposta de termo de compromisso apresentada por proponentes para suspender o PAS 05/02. | cvm/colegiado/2004/col-20040702-d05.md |
+
+Fim do subíndice.

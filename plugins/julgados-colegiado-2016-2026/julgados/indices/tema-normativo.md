@@ -5,6 +5,23 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 428 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2025 | 27 |
+| 2024 | 42 |
+| 2023 | 75 |
+| 2022 | 102 |
+| 2021 | 143 |
+| 2020 | 199 |
+| 2019 | 268 |
+| 2018 | 308 |
+| 2017 | 344 |
+| 2016 | 381 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | — | 2025-12-03 | outro | normativo | O Colegiado concluiu a discussão sobre a Agenda Regulatória da CVM para 2026, exceto temas contábeis, a partir de proposta da SDM. A agenda prevê nove normas a editar, dois estudos de AIR/ARR, doze temas para consulta pública e seis outros estudos. Relação final a ser divulgada em 10.12.2025. | cvm/colegiado/2025/col-20251203-d3468.md |
@@ -407,3 +424,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | 543/2013; 555/2014; RJ2014/7745 | 2016-01-27 | outro | normativo | O Colegiado aprovou, para audiência pública pelo prazo de 30 dias, minuta de Instrução que altera o art. 3º da Instrução CVM 543/2013 (escrituração de valores mobiliários) e o art. 79 da Instrução CVM 555/2014 (escrituradores de cotas de fundos). A minuta exige do emissor a contratação de escriturador registrado na CVM, com regras para descontinuidade do serviço. | cvm/colegiado/2016/col-20160127-d1239.md |
 | decisao-colegiado | 472/2008; RJ2015/13111 | 2016-01-27 | outro | normativo | O Colegiado aprovou, para audiência pública de 30 dias, minuta de Instrução que altera a Instrução CVM 472/2008 (FII) para exigir aprovação dos cotistas em assembleia geral dos atos de consultores especializados em conflito com o fundo (art. 34), complementando a Instrução CVM 571/2015. A SDM consolidará as contribuições. | cvm/colegiado/2016/col-20160127-d084.md |
 | decisao-colegiado | — | 2016-01-12 | outro | normativo | O Colegiado aprovou a edição de minuta de Deliberação, apresentada pela Assessoria de Comunicação Social, que disciplina a reprodução e utilização da sigla, do logotipo e do slogan da CVM, vedando uso em desacordo com o Manual de Identidade Visual, e revoga a Deliberação CVM 502/2006. | cvm/colegiado/2016/col-20160112-d4655.md |
+
+Fim do subíndice.

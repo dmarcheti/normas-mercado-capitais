@@ -8,6 +8,54 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1705 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+deliberacao-cvm-1 (59); deliberacao-cvm-3 (76); deliberacao-cvm-6 (91); deliberacao-cvm-11 (100)
+deliberacao-cvm-29 (115); deliberacao-cvm-39 (129); deliberacao-cvm-66 (137); deliberacao-cvm-70 (145)
+deliberacao-cvm-120 (153); deliberacao-cvm-175 (161); deliberacao-cvm-178 (173); deliberacao-cvm-183 (185)
+deliberacao-cvm-193 (201); deliberacao-cvm-202 (209); deliberacao-cvm-222 (217); deliberacao-cvm-232 (225)
+deliberacao-cvm-234 (233); deliberacao-cvm-243 (242); deliberacao-cvm-244 (250); deliberacao-cvm-249 (261)
+deliberacao-cvm-251 (269); deliberacao-cvm-268 (277); deliberacao-cvm-273 (285); deliberacao-cvm-287 (294)
+deliberacao-cvm-288 (302); deliberacao-cvm-289 (310); deliberacao-cvm-290 (318); deliberacao-cvm-299 (326)
+deliberacao-cvm-309 (334); deliberacao-cvm-313 (342); deliberacao-cvm-316 (350); deliberacao-cvm-324 (359)
+deliberacao-cvm-325 (367); deliberacao-cvm-330 (375); deliberacao-cvm-334 (383); deliberacao-cvm-346 (391)
+deliberacao-cvm-349 (403); deliberacao-cvm-356 (411); deliberacao-cvm-357 (425); deliberacao-cvm-358 (433)
+deliberacao-cvm-363 (472); deliberacao-cvm-371 (480); deliberacao-cvm-375 (488); deliberacao-cvm-380 (496)
+deliberacao-cvm-383 (517); deliberacao-cvm-387 (526); deliberacao-cvm-395 (534); deliberacao-cvm-403 (542)
+deliberacao-cvm-406 (550); deliberacao-cvm-408 (558); deliberacao-cvm-423 (566); deliberacao-cvm-440 (574)
+deliberacao-cvm-446 (582); deliberacao-cvm-447 (590); deliberacao-cvm-454 (599); deliberacao-cvm-461 (607)
+deliberacao-cvm-467 (615); deliberacao-cvm-473 (623); deliberacao-cvm-474 (631); deliberacao-cvm-475 (641)
+deliberacao-cvm-478 (649); deliberacao-cvm-480 (657); deliberacao-cvm-481 (665); deliberacao-cvm-483 (686)
+deliberacao-cvm-485 (694); deliberacao-cvm-487 (702); deliberacao-cvm-488 (710); deliberacao-cvm-491 (718)
+deliberacao-cvm-498 (728); deliberacao-cvm-501 (737); deliberacao-cvm-502 (747); deliberacao-cvm-506 (771)
+deliberacao-cvm-508 (782); deliberacao-cvm-511 (790); deliberacao-cvm-514 (798); deliberacao-cvm-521 (807)
+deliberacao-cvm-527 (815); deliberacao-cvm-528 (825); deliberacao-cvm-539 (833); deliberacao-cvm-542 (848)
+deliberacao-cvm-544 (864); deliberacao-cvm-549 (872); deliberacao-cvm-550 (888); deliberacao-cvm-552 (913)
+deliberacao-cvm-560 (936); deliberacao-cvm-564 (952); deliberacao-cvm-565 (960); deliberacao-cvm-566 (968)
+deliberacao-cvm-575 (976); deliberacao-cvm-580 (986); deliberacao-cvm-582 (994); deliberacao-cvm-583 (1002)
+deliberacao-cvm-584 (1012); deliberacao-cvm-587 (1020); deliberacao-cvm-592 (1028); deliberacao-cvm-595 (1042)
+deliberacao-cvm-599 (1050); deliberacao-cvm-604 (1058); deliberacao-cvm-605 (1072); deliberacao-cvm-607 (1081)
+deliberacao-cvm-608 (1112); deliberacao-cvm-619 (1120); deliberacao-cvm-620 (1128); deliberacao-cvm-621 (1136)
+deliberacao-cvm-624 (1144); deliberacao-cvm-631 (1152); deliberacao-cvm-632 (1160); deliberacao-cvm-633 (1168)
+deliberacao-cvm-639 (1176); deliberacao-cvm-641 (1189); deliberacao-cvm-644 (1199); deliberacao-cvm-645 (1209)
+deliberacao-cvm-647 (1217); deliberacao-cvm-651 (1225); deliberacao-cvm-653 (1233); deliberacao-cvm-654 (1241)
+deliberacao-cvm-664 (1249); deliberacao-cvm-665 (1257); deliberacao-cvm-669 (1265); deliberacao-cvm-676 (1273)
+deliberacao-cvm-694 (1288); deliberacao-cvm-696 (1296); deliberacao-cvm-698 (1305); deliberacao-cvm-699 (1315)
+deliberacao-cvm-704 (1324); deliberacao-cvm-712 (1332); deliberacao-cvm-716 (1342); deliberacao-cvm-723 (1351)
+deliberacao-cvm-724 (1359); deliberacao-cvm-750 (1367); deliberacao-cvm-752 (1375); deliberacao-cvm-759 (1384)
+deliberacao-cvm-764 (1392); deliberacao-cvm-767 (1402); deliberacao-cvm-769 (1410); deliberacao-cvm-778 (1418)
+deliberacao-cvm-779 (1426); deliberacao-cvm-780 (1434); deliberacao-cvm-781 (1442); deliberacao-cvm-785 (1451)
+deliberacao-cvm-794 (1460); deliberacao-cvm-795 (1471); deliberacao-cvm-796 (1480); deliberacao-cvm-797 (1493)
+deliberacao-cvm-801 (1503); deliberacao-cvm-809 (1511); deliberacao-cvm-811 (1519); deliberacao-cvm-813 (1527)
+deliberacao-cvm-815 (1535); deliberacao-cvm-826 (1544); deliberacao-cvm-830 (1553); deliberacao-cvm-831 (1562)
+deliberacao-cvm-832 (1571); deliberacao-cvm-834 (1579); deliberacao-cvm-845 (1587); deliberacao-cvm-847 (1595)
+deliberacao-cvm-849 (1603); deliberacao-cvm-856 (1613); deliberacao-cvm-872 (1621)
+deliberacao-cvm-3908 (1629); deliberacao-cvm-10033 (1637); deliberacao-cvm-39010 (1645)
+deliberacao-cvm-390101 (1664); deliberacao-cvm-538108 (1680); deliberacao-cvm-53812008 (1688)
+deliberacao-cvm-55812008 (1697)
+
 ## deliberacao-cvm-1
 
 ### art. 7º
@@ -1653,3 +1701,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 10 | acordao-crsfn | RJ-2014-14763 | 2019-07-23 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO. Auditoria. Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de Contabilidade destinadas à execução desses trabalhos. Recurso conhecido e desprovido. | crsfn/2019/10372-100343-2018-36.md |
+
+Fim do subíndice.

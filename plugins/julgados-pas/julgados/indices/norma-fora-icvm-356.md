@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 337 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 45 |
+| art. 2º | 51 |
+| art. 3º | 62 |
+| art. 5º | 70 |
+| art. 7º | 76 |
+| art. 8º | 84 |
+| art. 15 | 112 |
+| art. 16 | 118 |
+| art. 21 | 124 |
+| art. 22 | 130 |
+| art. 23 | 136 |
+| art. 24 | 142 |
+| art. 30 | 162 |
+| art. 32 | 169 |
+| art. 34 | 175 |
+| art. 36 | 187 |
+| art. 37 | 194 |
+| art. 38 | 200 |
+| art. 39 | 252 |
+| art. 40-A | 273 |
+| art. 44 | 280 |
+| art. 45 | 291 |
+| art. 48 | 298 |
+| art. 56 | 304 |
+| art. 61 | 311 |
+| art. 383 | 318 |
+| art. 447 | 324 |
+| Citada sem dispositivo identificado | 330 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -298,3 +333,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | 19957.007862/2018-20 | 2023-05-09 | parcial | manipulacao-fraude | Apurar eventuais irregularidades em fundo de investimento em direitos creditórios em potencial infração (i) ao item I c/c item II, alínea “c”, da Instrução CVM nº 8/1979; e (ii) ao art. 65, inciso XV, da Instrução CVM nº 409/2004. Inabilitações, multas, advertências e absolvições. | cvm/pas/2023/19957-007862-2018-20.md |
 | pas | RJ2013/9762 | 2015-09-29 | condenacao | auditoria-independente | Emissão de parecer de auditoria sem qualquer ressalva – Não observação do disposto nas normas profissionais de auditoria independente. Multas. | cvm/pas/2015/rj2013-9762.md |
+
+Fim do subíndice.

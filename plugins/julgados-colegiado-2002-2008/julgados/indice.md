@@ -12,1093 +12,241 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 
 ## Por tipo e ano
 
-| Tipo | Ano | Julgados | Subíndice |
-|---|---|---|---|
-| Decisões do Colegiado | 2008 | 616 | [indices/decisao-colegiado-2008.md](indices/decisao-colegiado-2008.md) |
-| Decisões do Colegiado | 2007 | 475 | [indices/decisao-colegiado-2007.md](indices/decisao-colegiado-2007.md) |
-| Decisões do Colegiado | 2006 | 389 | [indices/decisao-colegiado-2006.md](indices/decisao-colegiado-2006.md) |
-| Decisões do Colegiado | 2005 | 416 | [indices/decisao-colegiado-2005.md](indices/decisao-colegiado-2005.md) |
-| Decisões do Colegiado | 2004 | 344 | [indices/decisao-colegiado-2004.md](indices/decisao-colegiado-2004.md) |
-| Decisões do Colegiado | 2003 | 321 | [indices/decisao-colegiado-2003.md](indices/decisao-colegiado-2003.md) |
-| Decisões do Colegiado | 2002 | 398 | [indices/decisao-colegiado-2002.md](indices/decisao-colegiado-2002.md) |
-| Decisões antigas (1978 a 2001) | 2001 | 1 | [indices/decisao-antiga-2001.md](indices/decisao-antiga-2001.md) |
-| Decisões antigas (1978 a 2001) | 2000 | 1 | [indices/decisao-antiga-2000.md](indices/decisao-antiga-2000.md) |
-| Decisões antigas (1978 a 2001) | 1999 | 1 | [indices/decisao-antiga-1999.md](indices/decisao-antiga-1999.md) |
-| Decisões antigas (1978 a 2001) | 1998 | 1 | [indices/decisao-antiga-1998.md](indices/decisao-antiga-1998.md) |
-| Decisões antigas (1978 a 2001) | 1997 | 1 | [indices/decisao-antiga-1997.md](indices/decisao-antiga-1997.md) |
-| Decisões antigas (1978 a 2001) | 1996 | 1 | [indices/decisao-antiga-1996.md](indices/decisao-antiga-1996.md) |
-| Decisões antigas (1978 a 2001) | 1995 | 1 | [indices/decisao-antiga-1995.md](indices/decisao-antiga-1995.md) |
-| Decisões antigas (1978 a 2001) | 1994 | 1 | [indices/decisao-antiga-1994.md](indices/decisao-antiga-1994.md) |
-| Decisões antigas (1978 a 2001) | 1993 | 1 | [indices/decisao-antiga-1993.md](indices/decisao-antiga-1993.md) |
-| Decisões antigas (1978 a 2001) | 1992 | 1 | [indices/decisao-antiga-1992.md](indices/decisao-antiga-1992.md) |
-| Decisões antigas (1978 a 2001) | 1991 | 1 | [indices/decisao-antiga-1991.md](indices/decisao-antiga-1991.md) |
-| Decisões antigas (1978 a 2001) | 1990 | 1 | [indices/decisao-antiga-1990.md](indices/decisao-antiga-1990.md) |
-| Decisões antigas (1978 a 2001) | 1989 | 1 | [indices/decisao-antiga-1989.md](indices/decisao-antiga-1989.md) |
-| Decisões antigas (1978 a 2001) | 1988 | 1 | [indices/decisao-antiga-1988.md](indices/decisao-antiga-1988.md) |
-| Decisões antigas (1978 a 2001) | 1987 | 1 | [indices/decisao-antiga-1987.md](indices/decisao-antiga-1987.md) |
-| Decisões antigas (1978 a 2001) | 1986 | 1 | [indices/decisao-antiga-1986.md](indices/decisao-antiga-1986.md) |
-| Decisões antigas (1978 a 2001) | 1985 | 1 | [indices/decisao-antiga-1985.md](indices/decisao-antiga-1985.md) |
-| Decisões antigas (1978 a 2001) | 1984 | 1 | [indices/decisao-antiga-1984.md](indices/decisao-antiga-1984.md) |
-| Decisões antigas (1978 a 2001) | 1983 | 1 | [indices/decisao-antiga-1983.md](indices/decisao-antiga-1983.md) |
-| Decisões antigas (1978 a 2001) | 1982 | 1 | [indices/decisao-antiga-1982.md](indices/decisao-antiga-1982.md) |
-| Decisões antigas (1978 a 2001) | 1981 | 1 | [indices/decisao-antiga-1981.md](indices/decisao-antiga-1981.md) |
-| Decisões antigas (1978 a 2001) | 1980 | 1 | [indices/decisao-antiga-1980.md](indices/decisao-antiga-1980.md) |
-| Decisões antigas (1978 a 2001) | 1979 | 1 | [indices/decisao-antiga-1979.md](indices/decisao-antiga-1979.md) |
-| Decisões antigas (1978 a 2001) | 1978 | 1 | [indices/decisao-antiga-1978.md](indices/decisao-antiga-1978.md) |
+| Tipo | Ano (subíndice) | Julgados |
+|---|---|---|
+| Decisões do Colegiado | [2008](indices/decisao-colegiado-2008.md) | 616 |
+| Decisões do Colegiado | [2007](indices/decisao-colegiado-2007.md) | 475 |
+| Decisões do Colegiado | [2006](indices/decisao-colegiado-2006.md) | 389 |
+| Decisões do Colegiado | [2005](indices/decisao-colegiado-2005.md) | 416 |
+| Decisões do Colegiado | [2004](indices/decisao-colegiado-2004.md) | 344 |
+| Decisões do Colegiado | [2003](indices/decisao-colegiado-2003.md) | 321 |
+| Decisões do Colegiado | [2002](indices/decisao-colegiado-2002.md) | 398 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 1o semestre](indices/decisao-antiga-2001-s1.md) | 157 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 2o semestre](indices/decisao-antiga-2001-s2.md) | 153 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 1o semestre](indices/decisao-antiga-2000-s1.md) | 145 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 2o semestre](indices/decisao-antiga-2000-s2.md) | 164 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 1o semestre](indices/decisao-antiga-1999-s1.md) | 160 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 2o semestre](indices/decisao-antiga-1999-s2.md) | 192 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 1o semestre](indices/decisao-antiga-1998-s1.md) | 97 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 2o semestre](indices/decisao-antiga-1998-s2.md) | 184 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997](indices/decisao-antiga-1997.md) | 160 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1996](indices/decisao-antiga-1996.md) | 132 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1995](indices/decisao-antiga-1995.md) | 90 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1994](indices/decisao-antiga-1994.md) | 103 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1993](indices/decisao-antiga-1993.md) | 83 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 1o semestre](indices/decisao-antiga-1992-s1.md) | 214 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 2o semestre](indices/decisao-antiga-1992-s2.md) | 95 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1991](indices/decisao-antiga-1991.md) | 210 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1990](indices/decisao-antiga-1990.md) | 178 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1989](indices/decisao-antiga-1989.md) | 129 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1988](indices/decisao-antiga-1988.md) | 200 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1987](indices/decisao-antiga-1987.md) | 209 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1986](indices/decisao-antiga-1986.md) | 189 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1985](indices/decisao-antiga-1985.md) | 122 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1984](indices/decisao-antiga-1984.md) | 114 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1983](indices/decisao-antiga-1983.md) | 95 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1982](indices/decisao-antiga-1982.md) | 86 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1981](indices/decisao-antiga-1981.md) | 53 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1980](indices/decisao-antiga-1980.md) | 57 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1979](indices/decisao-antiga-1979.md) | 35 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1978](indices/decisao-antiga-1978.md) | 18 |
 
 Total: Decisões do Colegiado, 2959; Decisões antigas (1978 a 2001), 24.
 
 ## Por tema
 
-| Tema | Julgados | Subíndice |
-|---|---|---|
-| administracao-carteiras | 73 | [indices/tema-administracao-carteiras.md](indices/tema-administracao-carteiras.md) |
-| analistas-rating | 14 | [indices/tema-analistas-rating.md](indices/tema-analistas-rating.md) |
-| assembleia-acionistas | 163 | [indices/tema-assembleia-acionistas.md](indices/tema-assembleia-acionistas.md) |
-| auditoria-independente | 34 | [indices/tema-auditoria-independente.md](indices/tema-auditoria-independente.md) |
-| contabil-demonstracoes | 110 | [indices/tema-contabil-demonstracoes.md](indices/tema-contabil-demonstracoes.md) |
-| deveres-administradores | 51 | [indices/tema-deveres-administradores.md](indices/tema-deveres-administradores.md) |
-| divulgacao-informacoes | 123 | [indices/tema-divulgacao-informacoes.md](indices/tema-divulgacao-informacoes.md) |
-| exercicio-irregular | 32 | [indices/tema-exercicio-irregular.md](indices/tema-exercicio-irregular.md) |
-| fundos-investimento | 184 | [indices/tema-fundos-investimento.md](indices/tema-fundos-investimento.md) |
-| informacao-privilegiada | 4 | [indices/tema-informacao-privilegiada.md](indices/tema-informacao-privilegiada.md) |
-| infraestrutura-mercado | 108 | [indices/tema-infraestrutura-mercado.md](indices/tema-infraestrutura-mercado.md) |
-| institucional | 64 | [indices/tema-institucional.md](indices/tema-institucional.md) |
-| intermediacao | 204 | [indices/tema-intermediacao.md](indices/tema-intermediacao.md) |
-| manipulacao-fraude | 5 | [indices/tema-manipulacao-fraude.md](indices/tema-manipulacao-fraude.md) |
-| multa-cominatoria-taxa | 716 | [indices/tema-multa-cominatoria-taxa.md](indices/tema-multa-cominatoria-taxa.md) |
-| normativo | 262 | [indices/tema-normativo.md](indices/tema-normativo.md) |
-| ofertas-publicas | 194 | [indices/tema-ofertas-publicas.md](indices/tema-ofertas-publicas.md) |
-| opa | 150 | [indices/tema-opa.md](indices/tema-opa.md) |
-| outros | 165 | [indices/tema-outros.md](indices/tema-outros.md) |
-| pld | 23 | [indices/tema-pld.md](indices/tema-pld.md) |
-| processual | 190 | [indices/tema-processual.md](indices/tema-processual.md) |
-| registro-emissor | 78 | [indices/tema-registro-emissor.md](indices/tema-registro-emissor.md) |
-| securitizacao | 12 | [indices/tema-securitizacao.md](indices/tema-securitizacao.md) |
+| Tema (subíndice) | Julgados |
+|---|---|
+| [administracao-carteiras](indices/tema-administracao-carteiras.md) | 73 |
+| [analistas-rating](indices/tema-analistas-rating.md) | 14 |
+| [assembleia-acionistas](indices/tema-assembleia-acionistas.md) | 163 |
+| [auditoria-independente](indices/tema-auditoria-independente.md) | 34 |
+| [contabil-demonstracoes](indices/tema-contabil-demonstracoes.md) | 110 |
+| [deveres-administradores](indices/tema-deveres-administradores.md) | 51 |
+| [divulgacao-informacoes](indices/tema-divulgacao-informacoes.md) | 123 |
+| [exercicio-irregular](indices/tema-exercicio-irregular.md) | 32 |
+| [fundos-investimento](indices/tema-fundos-investimento.md) | 184 |
+| [informacao-privilegiada](indices/tema-informacao-privilegiada.md) | 4 |
+| [infraestrutura-mercado](indices/tema-infraestrutura-mercado.md) | 108 |
+| [institucional](indices/tema-institucional.md) | 64 |
+| [intermediacao](indices/tema-intermediacao.md) | 204 |
+| [manipulacao-fraude](indices/tema-manipulacao-fraude.md) | 5 |
+| [multa-cominatoria-taxa](indices/tema-multa-cominatoria-taxa.md) | 716 |
+| [normativo](indices/tema-normativo.md) | 262 |
+| [ofertas-publicas](indices/tema-ofertas-publicas.md) | 194 |
+| [opa](indices/tema-opa.md) | 150 |
+| [outros](indices/tema-outros.md) | 165 |
+| [pld](indices/tema-pld.md) | 23 |
+| [processual](indices/tema-processual.md) | 190 |
+| [registro-emissor](indices/tema-registro-emissor.md) | 78 |
+| [securitizacao](indices/tema-securitizacao.md) | 12 |
 
 ## Por norma citada
 
 Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao texto vigente hoje; o julgado aplicou a redação da época.
 
-| Norma | Julgados | Subíndice |
-|---|---|---|
-| Circular nº 1.967/1991 | 1 | [indices/norma-bcb-circ-1967.md](indices/norma-bcb-circ-1967.md) |
-| Resolução CMN nº 1.777/1990 | 5 | [indices/norma-cmn-res-1777.md](indices/norma-cmn-res-1777.md) |
-| Resolução CMN nº 1.825/1991 | 1 | [indices/norma-cmn-res-1825.md](indices/norma-cmn-res-1825.md) |
-| Resolução CMN nº 2.845/2001 | 2 | [indices/norma-cmn-res-2845.md](indices/norma-cmn-res-2845.md) |
-| Resolução CMN nº 2.907/2001 | 3 | [indices/norma-cmn-res-2907.md](indices/norma-cmn-res-2907.md) |
-| Resolução CMN nº 3.261/2005 | 1 | [indices/norma-cmn-res-3261.md](indices/norma-cmn-res-3261.md) |
-| Resolução CMN nº 3.334/2005 | 1 | [indices/norma-cmn-res-3334.md](indices/norma-cmn-res-3334.md) |
-| Resolução CMN nº 3.427/2006 | 3 | [indices/norma-cmn-res-3427.md](indices/norma-cmn-res-3427.md) |
-| Resolução CMN nº 3.441/2007 | 1 | [indices/norma-cmn-res-3441.md](indices/norma-cmn-res-3441.md) |
-| Instrução CVM nº 438/2006 | 3 | [indices/norma-cvm-instr-438.md](indices/norma-cvm-instr-438.md) |
-| Parecer de Orientação CVM nº 1/1978 | 11 | [indices/norma-cvm-po-1.md](indices/norma-cvm-po-1.md) |
-| Parecer de Orientação CVM nº 12/1987 | 6 | [indices/norma-cvm-po-12.md](indices/norma-cvm-po-12.md) |
-| Parecer de Orientação CVM nº 15/1987 | 21 | [indices/norma-cvm-po-15.md](indices/norma-cvm-po-15.md) |
-| Parecer de Orientação CVM nº 16/1988 | 6 | [indices/norma-cvm-po-16.md](indices/norma-cvm-po-16.md) |
-| Parecer de Orientação CVM nº 18/1990 | 6 | [indices/norma-cvm-po-18.md](indices/norma-cvm-po-18.md) |
-| Parecer de Orientação CVM nº 19/1990 | 22 | [indices/norma-cvm-po-19.md](indices/norma-cvm-po-19.md) |
-| Parecer de Orientação CVM nº 2/1979 | 4 | [indices/norma-cvm-po-2.md](indices/norma-cvm-po-2.md) |
-| Parecer de Orientação CVM nº 21/1990 | 2 | [indices/norma-cvm-po-21.md](indices/norma-cvm-po-21.md) |
-| Parecer de Orientação CVM nº 24/1992 | 5 | [indices/norma-cvm-po-24.md](indices/norma-cvm-po-24.md) |
-| Parecer de Orientação CVM nº 29/1996 | 2 | [indices/norma-cvm-po-29.md](indices/norma-cvm-po-29.md) |
-| Parecer de Orientação CVM nº 3/1979 | 2 | [indices/norma-cvm-po-3.md](indices/norma-cvm-po-3.md) |
-| Parecer de Orientação CVM nº 30/1996 | 7 | [indices/norma-cvm-po-30.md](indices/norma-cvm-po-30.md) |
-| Parecer de Orientação CVM nº 31/1999 | 5 | [indices/norma-cvm-po-31.md](indices/norma-cvm-po-31.md) |
-| Parecer de Orientação CVM nº 33/2005 | 1 | [indices/norma-cvm-po-33.md](indices/norma-cvm-po-33.md) |
-| Parecer de Orientação CVM nº 34/2006 | 11 | [indices/norma-cvm-po-34.md](indices/norma-cvm-po-34.md) |
-| Parecer de Orientação CVM nº 5/1979 | 6 | [indices/norma-cvm-po-5.md](indices/norma-cvm-po-5.md) |
-| Parecer de Orientação CVM nº 6/1980 | 4 | [indices/norma-cvm-po-6.md](indices/norma-cvm-po-6.md) |
-| Parecer de Orientação CVM nº 8/1981 | 5 | [indices/norma-cvm-po-8.md](indices/norma-cvm-po-8.md) |
-| Resolução CVM nº 1/2020 | 3 | [indices/norma-cvm-res-1.md](indices/norma-cvm-res-1.md) |
-| Resolução CVM nº 101/2022 | 1 | [indices/norma-cvm-res-101.md](indices/norma-cvm-res-101.md) |
-| Resolução CVM nº 238/2025 | 10 | [indices/norma-cvm-res-238.md](indices/norma-cvm-res-238.md) |
-| Resolução CVM nº 49/2021 | 1 | [indices/norma-cvm-res-49.md](indices/norma-cvm-res-49.md) |
-| Resolução CVM nº 72/2022 | 1 | [indices/norma-cvm-res-72.md](indices/norma-cvm-res-72.md) |
-| Lei nº 10.198/2001 | 3 | [indices/norma-lei-10198.md](indices/norma-lei-10198.md) |
-| Lei nº 10.214/2001 | 2 | [indices/norma-lei-10214.md](indices/norma-lei-10214.md) |
-| Lei nº 10.406/2002 | 131 | [indices/norma-lei-10406.md](indices/norma-lei-10406.md) |
-| Lei nº 10.931/2004 | 8 | [indices/norma-lei-10931.md](indices/norma-lei-10931.md) |
-| Lei nº 11.033/2004 | 4 | [indices/norma-lei-11033.md](indices/norma-lei-11033.md) |
-| Lei nº 11.101/2005 | 11 | [indices/norma-lei-11101.md](indices/norma-lei-11101.md) |
-| Lei nº 4.595/1964 | 14 | [indices/norma-lei-4595.md](indices/norma-lei-4595.md) |
-| Lei nº 4.728/1965 | 22 | [indices/norma-lei-4728.md](indices/norma-lei-4728.md) |
-| Lei nº 6.385/1976 | 453 | [indices/norma-lei-6385.md](indices/norma-lei-6385.md) |
-| Lei nº 6.404/1976 | 661 | [indices/norma-lei-6404.md](indices/norma-lei-6404.md) |
-| Lei nº 7.913/1989 | 3 | [indices/norma-lei-7913.md](indices/norma-lei-7913.md) |
-| Lei nº 8.668/1993 | 11 | [indices/norma-lei-8668.md](indices/norma-lei-8668.md) |
-| Lei nº 9.514/1997 | 12 | [indices/norma-lei-9514.md](indices/norma-lei-9514.md) |
-| Lei nº 9.613/1998 | 25 | [indices/norma-lei-9613.md](indices/norma-lei-9613.md) |
-| carta-circular-bcb-1967 | 1 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| carta-circular-bcb-276 | 1 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| carta-circular-bcb-2826 | 1 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| carta-circular-bcb-303 | 2 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| carta-circular-bcb-304 | 1 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| carta-circular-bcb-665 | 1 | [indices/norma-fora-outras-carta-circular-bcb.md](indices/norma-fora-outras-carta-circular-bcb.md) |
-| circular-bcb-1 | 3 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-1125 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-1877 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-193 | 2 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2582 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2616 | 12 | [indices/norma-fora-circular-bcb-2616.md](indices/norma-fora-circular-bcb-2616.md) |
-| circular-bcb-2688 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2714 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2739 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2746 | 2 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2750 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2794 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2852 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2958 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2975 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-2997 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-3049 | 2 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-3069 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-316 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-3248 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-545 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-641 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-71 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-728 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-759 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| circular-bcb-98 | 1 | [indices/norma-fora-outras-circular-bcb.md](indices/norma-fora-outras-circular-bcb.md) |
-| decreto-101 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-104 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1041 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1091 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1150 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-13609 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-164 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1745 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1800 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1935 | 2 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-1978 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-20910 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-21536 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-2335 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-2355 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-2536 | 2 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-2627 | 5 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-2799 | 3 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3000 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3286 | 2 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-332 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3363 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3431 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3582 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3623 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3655 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3660 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3708 | 2 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3724 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-39259 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-39529 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3995 | 9 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-3996 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-41724 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-434 | 6 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-452 | 3 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-4520 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-4559 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-4763 | 3 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-4933 | 104 | [indices/norma-fora-decreto-4933.md](indices/norma-fora-decreto-4933.md) |
-| decreto-539 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-5411 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-5495 | 3 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-5851 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-6785 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-70235 | 17 | [indices/norma-fora-decreto-70235.md](indices/norma-fora-decreto-70235.md) |
-| decreto-81668 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-83937 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-86009 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-86715 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-8821 | 4 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-88988 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-92181 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-9405 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-99244 | 1 | [indices/norma-fora-outras-decreto.md](indices/norma-fora-outras-decreto.md) |
-| decreto-lei-1376 | 7 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1401 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1419 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1497 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1512 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-157 | 5 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1598 | 6 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1658 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1722 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1724 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1841 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1892 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1894 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1978 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-1982 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-200 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2069 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2133 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2283 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2284 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2285 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2286 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2292 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2298 | 13 | [indices/norma-fora-decreto-lei-2298.md](indices/norma-fora-decreto-lei-2298.md) |
-| decreto-lei-2304 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2313 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2335 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2336 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2397 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-25 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2609 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2624 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-2627 | 25 | [indices/norma-fora-decreto-lei-2627.md](indices/norma-fora-decreto-lei-2627.md) |
-| decreto-lei-2663 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-326 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-406 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-427 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-4597 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-4657 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-491 | 2 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-644 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-7661 | 7 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-834 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-857 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-911 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| decreto-lei-9292 | 1 | [indices/norma-fora-outras-decreto-lei.md](indices/norma-fora-outras-decreto-lei.md) |
-| deliberacao-cvm-1 | 7 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-105 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-11 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-120 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-13 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-148 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-150 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-151 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-158 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-161 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-164 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-178 | 15 | [indices/norma-fora-deliberacao-cvm-178.md](indices/norma-fora-deliberacao-cvm-178.md) |
-| deliberacao-cvm-181 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-183 | 28 | [indices/norma-fora-deliberacao-cvm-183.md](indices/norma-fora-deliberacao-cvm-183.md) |
-| deliberacao-cvm-185 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-186 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-191 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-193 | 5 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-20 | 7 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-202 | 52 | [indices/norma-fora-deliberacao-cvm-202.md](indices/norma-fora-deliberacao-cvm-202.md) |
-| deliberacao-cvm-204 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-205 | 5 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-206 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-207 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-210 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-213 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-22 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-225 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-23 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-234 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-235 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-241 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-242 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-244 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-246 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-248 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-251 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-252 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-255 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-257 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-26 | 9 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-267 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-27 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-273 | 20 | [indices/norma-fora-deliberacao-cvm-273.md](indices/norma-fora-deliberacao-cvm-273.md) |
-| deliberacao-cvm-276 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-277 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-278 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-288 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-29 | 18 | [indices/norma-fora-deliberacao-cvm-29.md](indices/norma-fora-deliberacao-cvm-29.md) |
-| deliberacao-cvm-293 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-294 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-3 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-30 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-301 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-302 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-304 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-308 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-313 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-317 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-319 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-326 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-327 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-337 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-339 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-345 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-346 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-347 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-349 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-350 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-355 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-36 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-360 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-371 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-372 | 8 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-383 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-390 | 12 | [indices/norma-fora-deliberacao-cvm-390.md](indices/norma-fora-deliberacao-cvm-390.md) |
-| deliberacao-cvm-397 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-404 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-411 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-413 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-418 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-428 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-438 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-447 | 10 | [indices/norma-fora-deliberacao-cvm-447.md](indices/norma-fora-deliberacao-cvm-447.md) |
-| deliberacao-cvm-457 | 33 | [indices/norma-fora-deliberacao-cvm-457.md](indices/norma-fora-deliberacao-cvm-457.md) |
-| deliberacao-cvm-458 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-461 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-463 | 137 | [indices/norma-fora-deliberacao-cvm-463.md](indices/norma-fora-deliberacao-cvm-463.md) |
-| deliberacao-cvm-464 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-466 | 8 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-467 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-468 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-47 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-473 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-474 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-475 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-476 | 6 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-478 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-481 | 5 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-482 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-485 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-486 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-488 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-489 | 7 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-5 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-501 | 43 | [indices/norma-fora-deliberacao-cvm-501.md](indices/norma-fora-deliberacao-cvm-501.md) |
-| deliberacao-cvm-504 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-505 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-506 | 4 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-507 | 25 | [indices/norma-fora-deliberacao-cvm-507.md](indices/norma-fora-deliberacao-cvm-507.md) |
-| deliberacao-cvm-51 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-510 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-511 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-525 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-535 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-538 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-61 | 3 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-66 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-67 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-7 | 5 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-73 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-75 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-8 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-83 | 1 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-87 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| deliberacao-cvm-96 | 2 | [indices/norma-fora-outras-deliberacao-cvm.md](indices/norma-fora-outras-deliberacao-cvm.md) |
-| icvm-0 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-1 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-10 | 67 | [indices/norma-fora-icvm-10.md](indices/norma-fora-icvm-10.md) |
-| icvm-100 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-101 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-102 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-104 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-105 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-106 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-107 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-11 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-110 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-113 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-115 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-116 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-117 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-118 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-12 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-120 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-121 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-122 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-128 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-13 | 30 | [indices/norma-fora-icvm-13.md](indices/norma-fora-icvm-13.md) |
-| icvm-131 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-133 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-134 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-135 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-14 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-148 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-153 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-155 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-156 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-157 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-159 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-16 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-160 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-164 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-165 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-166 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-167 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-168 | 10 | [indices/norma-fora-icvm-168.md](indices/norma-fora-icvm-168.md) |
-| icvm-169 | 10 | [indices/norma-fora-icvm-169.md](indices/norma-fora-icvm-169.md) |
-| icvm-170 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-171 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-173 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-174 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-177 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-179 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-18 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-183 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-185 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-189 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-19 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-191 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-193 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-196 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-2 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-20 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-202 | 321 | [indices/norma-fora-icvm-202.md](indices/norma-fora-icvm-202.md) |
-| icvm-204 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-205 | 23 | [indices/norma-fora-icvm-205.md](indices/norma-fora-icvm-205.md) |
-| icvm-206 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-207 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-208 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-209 | 17 | [indices/norma-fora-icvm-209.md](indices/norma-fora-icvm-209.md) |
-| icvm-210 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-215 | 16 | [indices/norma-fora-icvm-215.md](indices/norma-fora-icvm-215.md) |
-| icvm-216 | 10 | [indices/norma-fora-icvm-216.md](indices/norma-fora-icvm-216.md) |
-| icvm-220 | 59 | [indices/norma-fora-icvm-220.md](indices/norma-fora-icvm-220.md) |
-| icvm-223 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-224 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-225 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-227 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-229 | 15 | [indices/norma-fora-icvm-229.md](indices/norma-fora-icvm-229.md) |
-| icvm-231 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-232 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-233 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-235 | 9 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-237 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-238 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-241 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-243 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-244 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-245 | 30 | [indices/norma-fora-icvm-245.md](indices/norma-fora-icvm-245.md) |
-| icvm-247 | 26 | [indices/norma-fora-icvm-247.md](indices/norma-fora-icvm-247.md) |
-| icvm-248 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-249 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-25 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-251 | 17 | [indices/norma-fora-icvm-251.md](indices/norma-fora-icvm-251.md) |
-| icvm-252 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-253 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-254 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-255 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-256 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-258 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-260 | 11 | [indices/norma-fora-icvm-260.md](indices/norma-fora-icvm-260.md) |
-| icvm-261 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-262 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-265 | 16 | [indices/norma-fora-icvm-265.md](indices/norma-fora-icvm-265.md) |
-| icvm-268 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-269 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-27 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-270 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-273 | 149 | [indices/norma-fora-icvm-273.md](indices/norma-fora-icvm-273.md) |
-| icvm-274 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-275 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-276 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-279 | 14 | [indices/norma-fora-icvm-279.md](indices/norma-fora-icvm-279.md) |
-| icvm-28 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-281 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-283 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-284 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-285 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-286 | 14 | [indices/norma-fora-icvm-286.md](indices/norma-fora-icvm-286.md) |
-| icvm-287 | 44 | [indices/norma-fora-icvm-287.md](indices/norma-fora-icvm-287.md) |
-| icvm-289 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-29 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-290 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-293 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-294 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-296 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-297 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-298 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-299 | 21 | [indices/norma-fora-icvm-299.md](indices/norma-fora-icvm-299.md) |
-| icvm-3 | 11 | [indices/norma-fora-icvm-3.md](indices/norma-fora-icvm-3.md) |
-| icvm-301 | 36 | [indices/norma-fora-icvm-301.md](indices/norma-fora-icvm-301.md) |
-| icvm-302 | 105 | [indices/norma-fora-icvm-302.md](indices/norma-fora-icvm-302.md) |
-| icvm-303 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-304 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-305 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-306 | 241 | [indices/norma-fora-icvm-306.md](indices/norma-fora-icvm-306.md) |
-| icvm-308 | 142 | [indices/norma-fora-icvm-308.md](indices/norma-fora-icvm-308.md) |
-| icvm-309 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-31 | 15 | [indices/norma-fora-icvm-31.md](indices/norma-fora-icvm-31.md) |
-| icvm-310 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-311 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-313 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-314 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-315 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-317 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-318 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-319 | 70 | [indices/norma-fora-icvm-319.md](indices/norma-fora-icvm-319.md) |
-| icvm-32 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-320 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-321 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-323 | 23 | [indices/norma-fora-icvm-323.md](indices/norma-fora-icvm-323.md) |
-| icvm-324 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-325 | 17 | [indices/norma-fora-icvm-325.md](indices/norma-fora-icvm-325.md) |
-| icvm-326 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-327 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-33 | 11 | [indices/norma-fora-icvm-33.md](indices/norma-fora-icvm-33.md) |
-| icvm-330 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-331 | 11 | [indices/norma-fora-icvm-331.md](indices/norma-fora-icvm-331.md) |
-| icvm-332 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-333 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-335 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-336 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-340 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-341 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-342 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-345 | 10 | [indices/norma-fora-icvm-345.md](indices/norma-fora-icvm-345.md) |
-| icvm-346 | 9 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-348 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-349 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-35 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-350 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-351 | 13 | [indices/norma-fora-icvm-351.md](indices/norma-fora-icvm-351.md) |
-| icvm-352 | 19 | [indices/norma-fora-icvm-352.md](indices/norma-fora-icvm-352.md) |
-| icvm-355 | 72 | [indices/norma-fora-icvm-355.md](indices/norma-fora-icvm-355.md) |
-| icvm-356 | 77 | [indices/norma-fora-icvm-356.md](indices/norma-fora-icvm-356.md) |
-| icvm-357 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-358 | 180 | [indices/norma-fora-icvm-358.md](indices/norma-fora-icvm-358.md) |
-| icvm-359 | 11 | [indices/norma-fora-icvm-359.md](indices/norma-fora-icvm-359.md) |
-| icvm-36 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-361 | 214 | [indices/norma-fora-icvm-361.md](indices/norma-fora-icvm-361.md) |
-| icvm-362 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-363 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-364 | 42 | [indices/norma-fora-icvm-364.md](indices/norma-fora-icvm-364.md) |
-| icvm-365 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-366 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-367 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-369 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-370 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-371 | 12 | [indices/norma-fora-icvm-371.md](indices/norma-fora-icvm-371.md) |
-| icvm-372 | 34 | [indices/norma-fora-icvm-372.md](indices/norma-fora-icvm-372.md) |
-| icvm-373 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-375 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-376 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-38 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-380 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-382 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-384 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-386 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-387 | 38 | [indices/norma-fora-icvm-387.md](indices/norma-fora-icvm-387.md) |
-| icvm-388 | 21 | [indices/norma-fora-icvm-388.md](indices/norma-fora-icvm-388.md) |
-| icvm-390 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-391 | 19 | [indices/norma-fora-icvm-391.md](indices/norma-fora-icvm-391.md) |
-| icvm-393 | 11 | [indices/norma-fora-icvm-393.md](indices/norma-fora-icvm-393.md) |
-| icvm-394 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-396 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-398 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-4 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-40 | 22 | [indices/norma-fora-icvm-40.md](indices/norma-fora-icvm-40.md) |
-| icvm-400 | 193 | [indices/norma-fora-icvm-400.md](indices/norma-fora-icvm-400.md) |
-| icvm-401 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-404 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-405 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-406 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-409 | 215 | [indices/norma-fora-icvm-409.md](indices/norma-fora-icvm-409.md) |
-| icvm-410 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-411 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-412 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-414 | 6 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-415 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-417 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-419 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-42 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-421 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-422 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-424 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-426 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-427 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-43 | 7 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-432 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-433 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-434 | 11 | [indices/norma-fora-icvm-434.md](indices/norma-fora-icvm-434.md) |
-| icvm-436 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-441 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-442 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-444 | 21 | [indices/norma-fora-icvm-444.md](indices/norma-fora-icvm-444.md) |
-| icvm-447 | 92 | [indices/norma-fora-icvm-447.md](indices/norma-fora-icvm-447.md) |
-| icvm-449 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-450 | 13 | [indices/norma-fora-icvm-450.md](indices/norma-fora-icvm-450.md) |
-| icvm-452 | 297 | [indices/norma-fora-icvm-452.md](indices/norma-fora-icvm-452.md) |
-| icvm-454 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-456 | 9 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-457 | 12 | [indices/norma-fora-icvm-457.md](indices/norma-fora-icvm-457.md) |
-| icvm-46 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-461 | 9 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-462 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-463 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-465 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-467 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-48 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-5 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-51 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-54 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-56 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-57 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-58 | 5 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-59 | 14 | [indices/norma-fora-icvm-59.md](indices/norma-fora-icvm-59.md) |
-| icvm-6 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-60 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-61 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-64 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-67 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-69 | 3 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-70 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-72 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-73 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-76 | 2 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-77 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-8 | 17 | [indices/norma-fora-icvm-8.md](indices/norma-fora-icvm-8.md) |
-| icvm-80 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-82 | 14 | [indices/norma-fora-icvm-82.md](indices/norma-fora-icvm-82.md) |
-| icvm-83 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-84 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-88 | 23 | [indices/norma-fora-icvm-88.md](indices/norma-fora-icvm-88.md) |
-| icvm-89 | 12 | [indices/norma-fora-icvm-89.md](indices/norma-fora-icvm-89.md) |
-| icvm-9 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-91 | 4 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-92 | 8 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-93 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-97 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| icvm-99 | 1 | [indices/norma-fora-outras-icvm.md](indices/norma-fora-outras-icvm.md) |
-| in-202 | 2 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-245 | 1 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-319 | 1 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-358 | 1 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-59 | 1 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-98 | 1 | [indices/norma-fora-outras-in.md](indices/norma-fora-outras-in.md) |
-| in-srf-2 | 1 | [indices/norma-fora-outras-in-srf.md](indices/norma-fora-outras-in-srf.md) |
-| in-srf-200 | 1 | [indices/norma-fora-outras-in-srf.md](indices/norma-fora-outras-in-srf.md) |
-| in-srf-66 | 1 | [indices/norma-fora-outras-in-srf.md](indices/norma-fora-outras-in-srf.md) |
-| lcp-101 | 8 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-104 | 1 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-105 | 13 | [indices/norma-fora-lcp-105.md](indices/norma-fora-lcp-105.md) |
-| lcp-107 | 1 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-109 | 3 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-123 | 1 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-64 | 1 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lcp-95 | 2 | [indices/norma-fora-outras-lcp.md](indices/norma-fora-outras-lcp.md) |
-| lei-0 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-1 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-1000 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10101 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10150 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10169 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10189 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10192 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10194 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10233 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10257 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10303 | 142 | [indices/norma-fora-lei-10303.md](indices/norma-fora-lei-10303.md) |
-| lei-10313 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10411 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10431 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10438 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10520 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10522 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10552 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10637 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10684 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10735 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10762 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-1083 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10848 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10892 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10900 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-10973 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11072 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11079 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11196 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11437 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11457 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-11638 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-119 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-13105 | 82 | [indices/norma-fora-lei-13105.md](indices/norma-fora-lei-13105.md) |
-| lei-13430 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-1376 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-14061 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-14452 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-15290 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-1841 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-19550 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2004 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-219 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-23 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2313 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2329 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2335 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2400 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-2550 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3071 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3115 | 11 | [indices/norma-fora-lei-3115.md](indices/norma-fora-lei-3115.md) |
-| lei-3150 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3189 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3215 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3515 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3519 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-361 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3741 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3890 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-3995 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4131 | 10 | [indices/norma-fora-lei-4131.md](indices/norma-fora-lei-4131.md) |
-| lei-4156 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4239 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4320 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4357 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4591 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4728-1967 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-4869 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5073 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5172 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5174 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5250 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5404 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5492 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5508 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5558 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-556 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5568 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-56404 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-5662 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6015 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6024 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6040 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6099 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6358 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6383 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6384 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6386 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6404-1946 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6404-1964 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6404-1967 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6404-1979 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6406 | 9 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6460 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6464 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6505 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6569 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6604 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6606 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6616 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6815 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-6830 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7116 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7181 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7210 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7347 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7490 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7492 | 9 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7661 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7730 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7739 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7940 | 65 | [indices/norma-fora-lei-7940.md](indices/norma-fora-lei-7940.md) |
-| lei-7942 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-7958 | 11 | [indices/norma-fora-lei-7958.md](indices/norma-fora-lei-7958.md) |
-| lei-8012 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8014 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8021 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8031 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8033 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8036 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8078 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8096 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8112 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8167 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8177 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8200 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8212 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8245 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8313 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8383 | 11 | [indices/norma-fora-lei-8383.md](indices/norma-fora-lei-8383.md) |
-| lei-8393 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8429 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8437 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8523 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8620 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8630 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8666 | 8 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8685 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8686 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8878 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8880 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8884 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8906 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8934 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8935 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-896 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8981 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-8987 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9049 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9065 | 7 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9069 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9074 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9249 | 17 | [indices/norma-fora-lei-9249.md](indices/norma-fora-lei-9249.md) |
-| lei-9250 | 5 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9279 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9307 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9311 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9394 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9427 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9430 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9447 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9457 | 58 | [indices/norma-fora-lei-9457.md](indices/norma-fora-lei-9457.md) |
-| lei-9472 | 3 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9477 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9478 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9491 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9492 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9504 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9514-1994 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9517 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9532 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9541 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9615 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9636 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9648 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9717 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9718 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9754 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9779 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9783 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9784 | 95 | [indices/norma-fora-lei-9784.md](indices/norma-fora-lei-9784.md) |
-| lei-9873 | 6 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9874 | 4 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9940 | 1 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9959 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| lei-9964 | 2 | [indices/norma-fora-outras-lei.md](indices/norma-fora-outras-lei.md) |
-| mp-1053 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-122 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1316 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-14 | 3 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1542 | 5 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1556 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1602 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1612 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1620 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1621 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1637 | 4 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1655 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1742 | 5 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-175 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1769 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1770 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-178 | 3 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1844 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1923 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1973 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1982 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-1984 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-200 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2074 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2095 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2102 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2155 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2156 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2157 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2176 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2181 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2198 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2199 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2200 | 3 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-221 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2223 | 3 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-2228 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-3 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-32 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-338 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-434 | 1 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-449 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-542 | 2 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| mp-8 | 3 | [indices/norma-fora-outras-mp.md](indices/norma-fora-outras-mp.md) |
-| po-cvm-29-1986 | 1 | [indices/norma-fora-outras-po-cvm.md](indices/norma-fora-outras-po-cvm.md) |
-| res-bcb-1955 | 1 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
-| res-bcb-2025 | 1 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
-| res-bcb-2817 | 1 | [indices/norma-fora-outras-res-bcb.md](indices/norma-fora-outras-res-bcb.md) |
-| res-cmn-1002 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1021 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1022 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1023 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1114 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1120 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1133 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1190 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1280 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1289 | 15 | [indices/norma-fora-res-cmn-1289.md](indices/norma-fora-res-cmn-1289.md) |
-| res-cmn-1339 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1416 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1460 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1517 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1559 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1612 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1653 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1655 | 22 | [indices/norma-fora-res-cmn-1655.md](indices/norma-fora-res-cmn-1655.md) |
-| res-cmn-1656 | 71 | [indices/norma-fora-res-cmn-1656.md](indices/norma-fora-res-cmn-1656.md) |
-| res-cmn-1657 | 21 | [indices/norma-fora-res-cmn-1657.md](indices/norma-fora-res-cmn-1657.md) |
-| res-cmn-1658 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1659 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1689 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1719 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1748 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1760 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1787 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1794 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1796 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1832 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1833 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1877 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1903 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1927 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-1935 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2013 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2025 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2026 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2034 | 6 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2069 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2099 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2111 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2112 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2122 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2149 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2183 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2188 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2267 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2268 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2274 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2309 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2318 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2324 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2344 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-237 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-238 | 30 | [indices/norma-fora-res-cmn-238.md](indices/norma-fora-res-cmn-238.md) |
-| res-cmn-2384 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2424 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2451 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2474 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2486 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2493 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-250 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2517 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2609 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2676 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2689 | 34 | [indices/norma-fora-res-cmn-2689.md](indices/norma-fora-res-cmn-2689.md) |
-| res-cmn-2690 | 156 | [indices/norma-fora-res-cmn-2690.md](indices/norma-fora-res-cmn-2690.md) |
-| res-cmn-2720 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2747 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2763 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2774 | 52 | [indices/norma-fora-res-cmn-2774.md](indices/norma-fora-res-cmn-2774.md) |
-| res-cmn-2785 | 9 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2801 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2824 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2829 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2838 | 18 | [indices/norma-fora-res-cmn-2838.md](indices/norma-fora-res-cmn-2838.md) |
-| res-cmn-2850 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2872 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2878 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2882 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2901 | 3 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2908 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2921 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2922 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2960 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-2966 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3041 | 5 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3081 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3112 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3121 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3154 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3198 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3239 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3244 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3245 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3265 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-328 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3301 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3332 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3339 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3399 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3412 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3425 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3456 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3477 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-3489 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-381 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-39 | 8 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-401 | 12 | [indices/norma-fora-res-cmn-401.md](indices/norma-fora-res-cmn-401.md) |
-| res-cmn-436 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-454 | 16 | [indices/norma-fora-res-cmn-454.md](indices/norma-fora-res-cmn-454.md) |
-| res-cmn-460 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-470 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-504 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-527 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-607 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-610 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-680 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-702 | 7 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-755 | 4 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-756 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-796 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-88 | 1 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cmn-922 | 14 | [indices/norma-fora-res-cmn-922.md](indices/norma-fora-res-cmn-922.md) |
-| res-cmn-961 | 2 | [indices/norma-fora-outras-res-cmn.md](indices/norma-fora-outras-res-cmn.md) |
-| res-cvm-1-1997 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-1-2003 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-101-1999 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-118 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-150-1980 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-1656 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-168 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-172-1982 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-18 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-1877 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-195 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-2 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-204 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-211-2001 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-231 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-238-1972 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-238-1994 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-259 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-269 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-2690 | 4 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-276 | 3 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-279 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-293 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-294 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-296 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-30-2004 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-300 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-303 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-318 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-320 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-367 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-381 | 5 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-39 | 7 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-395 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-401 | 8 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-402 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-436 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-444 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-454 | 3 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-460 | 2 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-49-1995 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-519 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-527 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-669 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-680 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-723 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-755 | 4 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-790 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-83 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-91-2001 | 1 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
-| res-cvm-922 | 10 | [indices/norma-fora-res-cvm-922.md](indices/norma-fora-res-cvm-922.md) |
-| res-cvm-989 | 4 | [indices/norma-fora-outras-res-cvm.md](indices/norma-fora-outras-res-cvm.md) |
+| Norma (subíndice) | Julgados |
+|---|---|
+| [Circular nº 1.967/1991](indices/norma-bcb-circ-1967.md) | 1 |
+| [Resolução CMN nº 1.777/1990](indices/norma-cmn-res-1777.md) | 5 |
+| [Resolução CMN nº 1.825/1991](indices/norma-cmn-res-1825.md) | 1 |
+| [Resolução CMN nº 2.845/2001](indices/norma-cmn-res-2845.md) | 2 |
+| [Resolução CMN nº 2.907/2001](indices/norma-cmn-res-2907.md) | 3 |
+| [Resolução CMN nº 3.261/2005](indices/norma-cmn-res-3261.md) | 1 |
+| [Resolução CMN nº 3.334/2005](indices/norma-cmn-res-3334.md) | 1 |
+| [Resolução CMN nº 3.427/2006](indices/norma-cmn-res-3427.md) | 3 |
+| [Resolução CMN nº 3.441/2007](indices/norma-cmn-res-3441.md) | 1 |
+| [Instrução CVM nº 438/2006](indices/norma-cvm-instr-438.md) | 3 |
+| [Parecer de Orientação CVM nº 1/1978](indices/norma-cvm-po-1.md) | 11 |
+| [Parecer de Orientação CVM nº 12/1987](indices/norma-cvm-po-12.md) | 6 |
+| [Parecer de Orientação CVM nº 15/1987](indices/norma-cvm-po-15.md) | 21 |
+| [Parecer de Orientação CVM nº 16/1988](indices/norma-cvm-po-16.md) | 6 |
+| [Parecer de Orientação CVM nº 18/1990](indices/norma-cvm-po-18.md) | 6 |
+| [Parecer de Orientação CVM nº 19/1990](indices/norma-cvm-po-19.md) | 22 |
+| [Parecer de Orientação CVM nº 2/1979](indices/norma-cvm-po-2.md) | 4 |
+| [Parecer de Orientação CVM nº 21/1990](indices/norma-cvm-po-21.md) | 2 |
+| [Parecer de Orientação CVM nº 24/1992](indices/norma-cvm-po-24.md) | 5 |
+| [Parecer de Orientação CVM nº 29/1996](indices/norma-cvm-po-29.md) | 2 |
+| [Parecer de Orientação CVM nº 3/1979](indices/norma-cvm-po-3.md) | 2 |
+| [Parecer de Orientação CVM nº 30/1996](indices/norma-cvm-po-30.md) | 7 |
+| [Parecer de Orientação CVM nº 31/1999](indices/norma-cvm-po-31.md) | 5 |
+| [Parecer de Orientação CVM nº 33/2005](indices/norma-cvm-po-33.md) | 1 |
+| [Parecer de Orientação CVM nº 34/2006](indices/norma-cvm-po-34.md) | 11 |
+| [Parecer de Orientação CVM nº 5/1979](indices/norma-cvm-po-5.md) | 6 |
+| [Parecer de Orientação CVM nº 6/1980](indices/norma-cvm-po-6.md) | 4 |
+| [Parecer de Orientação CVM nº 8/1981](indices/norma-cvm-po-8.md) | 5 |
+| [Resolução CVM nº 1/2020](indices/norma-cvm-res-1.md) | 3 |
+| [Resolução CVM nº 101/2022](indices/norma-cvm-res-101.md) | 1 |
+| [Resolução CVM nº 238/2025](indices/norma-cvm-res-238.md) | 10 |
+| [Resolução CVM nº 49/2021](indices/norma-cvm-res-49.md) | 1 |
+| [Resolução CVM nº 72/2022](indices/norma-cvm-res-72.md) | 1 |
+| [Lei nº 10.198/2001](indices/norma-lei-10198.md) | 3 |
+| [Lei nº 10.214/2001](indices/norma-lei-10214.md) | 2 |
+| [Lei nº 10.406/2002](indices/norma-lei-10406.md) | 131 |
+| [Lei nº 10.931/2004](indices/norma-lei-10931.md) | 8 |
+| [Lei nº 11.033/2004](indices/norma-lei-11033.md) | 4 |
+| [Lei nº 11.101/2005](indices/norma-lei-11101.md) | 11 |
+| [Lei nº 4.595/1964](indices/norma-lei-4595.md) | 14 |
+| [Lei nº 4.728/1965](indices/norma-lei-4728.md) | 22 |
+| [Lei nº 6.385/1976](indices/norma-lei-6385.md) | 453 |
+| [Lei nº 6.404/1976](indices/norma-lei-6404.md) | 661 |
+| [Lei nº 7.913/1989](indices/norma-lei-7913.md) | 3 |
+| [Lei nº 8.668/1993](indices/norma-lei-8668.md) | 11 |
+| [Lei nº 9.514/1997](indices/norma-lei-9514.md) | 12 |
+| [Lei nº 9.613/1998](indices/norma-lei-9613.md) | 25 |
+| [circular-bcb-2616](indices/norma-fora-circular-bcb-2616.md) | 12 |
+| [decreto-4933](indices/norma-fora-decreto-4933.md) | 104 |
+| [decreto-70235](indices/norma-fora-decreto-70235.md) | 17 |
+| [decreto-lei-2298](indices/norma-fora-decreto-lei-2298.md) | 13 |
+| [decreto-lei-2627](indices/norma-fora-decreto-lei-2627.md) | 25 |
+| [deliberacao-cvm-178](indices/norma-fora-deliberacao-cvm-178.md) | 15 |
+| [deliberacao-cvm-183](indices/norma-fora-deliberacao-cvm-183.md) | 28 |
+| [deliberacao-cvm-202](indices/norma-fora-deliberacao-cvm-202.md) | 52 |
+| [deliberacao-cvm-273](indices/norma-fora-deliberacao-cvm-273.md) | 20 |
+| [deliberacao-cvm-29](indices/norma-fora-deliberacao-cvm-29.md) | 18 |
+| [deliberacao-cvm-390](indices/norma-fora-deliberacao-cvm-390.md) | 12 |
+| [deliberacao-cvm-447](indices/norma-fora-deliberacao-cvm-447.md) | 10 |
+| [deliberacao-cvm-457](indices/norma-fora-deliberacao-cvm-457.md) | 33 |
+| [deliberacao-cvm-463](indices/norma-fora-deliberacao-cvm-463.md) | 137 |
+| [deliberacao-cvm-501](indices/norma-fora-deliberacao-cvm-501.md) | 43 |
+| [deliberacao-cvm-507](indices/norma-fora-deliberacao-cvm-507.md) | 25 |
+| [icvm-10](indices/norma-fora-icvm-10.md) | 67 |
+| [icvm-13](indices/norma-fora-icvm-13.md) | 30 |
+| [icvm-168](indices/norma-fora-icvm-168.md) | 10 |
+| [icvm-169](indices/norma-fora-icvm-169.md) | 10 |
+| [icvm-202](indices/norma-fora-icvm-202.md) | 321 |
+| [icvm-205](indices/norma-fora-icvm-205.md) | 23 |
+| [icvm-209](indices/norma-fora-icvm-209.md) | 17 |
+| [icvm-215](indices/norma-fora-icvm-215.md) | 16 |
+| [icvm-216](indices/norma-fora-icvm-216.md) | 10 |
+| [icvm-220](indices/norma-fora-icvm-220.md) | 59 |
+| [icvm-229](indices/norma-fora-icvm-229.md) | 15 |
+| [icvm-245](indices/norma-fora-icvm-245.md) | 30 |
+| [icvm-247](indices/norma-fora-icvm-247.md) | 26 |
+| [icvm-251](indices/norma-fora-icvm-251.md) | 17 |
+| [icvm-260](indices/norma-fora-icvm-260.md) | 11 |
+| [icvm-265](indices/norma-fora-icvm-265.md) | 16 |
+| [icvm-273](indices/norma-fora-icvm-273.md) | 149 |
+| [icvm-279](indices/norma-fora-icvm-279.md) | 14 |
+| [icvm-286](indices/norma-fora-icvm-286.md) | 14 |
+| [icvm-287](indices/norma-fora-icvm-287.md) | 44 |
+| [icvm-299](indices/norma-fora-icvm-299.md) | 21 |
+| [icvm-3](indices/norma-fora-icvm-3.md) | 11 |
+| [icvm-301](indices/norma-fora-icvm-301.md) | 36 |
+| [icvm-302](indices/norma-fora-icvm-302.md) | 105 |
+| [icvm-306](indices/norma-fora-icvm-306.md) | 241 |
+| [icvm-308](indices/norma-fora-icvm-308.md) | 142 |
+| [icvm-31](indices/norma-fora-icvm-31.md) | 15 |
+| [icvm-319](indices/norma-fora-icvm-319.md) | 70 |
+| [icvm-323](indices/norma-fora-icvm-323.md) | 23 |
+| [icvm-325](indices/norma-fora-icvm-325.md) | 17 |
+| [icvm-33](indices/norma-fora-icvm-33.md) | 11 |
+| [icvm-331](indices/norma-fora-icvm-331.md) | 11 |
+| [icvm-345](indices/norma-fora-icvm-345.md) | 10 |
+| [icvm-351](indices/norma-fora-icvm-351.md) | 13 |
+| [icvm-352](indices/norma-fora-icvm-352.md) | 19 |
+| [icvm-355](indices/norma-fora-icvm-355.md) | 72 |
+| [icvm-356](indices/norma-fora-icvm-356.md) | 77 |
+| [icvm-358](indices/norma-fora-icvm-358.md) | 180 |
+| [icvm-359](indices/norma-fora-icvm-359.md) | 11 |
+| [icvm-361](indices/norma-fora-icvm-361.md) | 214 |
+| [icvm-364](indices/norma-fora-icvm-364.md) | 42 |
+| [icvm-371](indices/norma-fora-icvm-371.md) | 12 |
+| [icvm-372](indices/norma-fora-icvm-372.md) | 34 |
+| [icvm-387](indices/norma-fora-icvm-387.md) | 38 |
+| [icvm-388](indices/norma-fora-icvm-388.md) | 21 |
+| [icvm-391](indices/norma-fora-icvm-391.md) | 19 |
+| [icvm-393](indices/norma-fora-icvm-393.md) | 11 |
+| [icvm-40](indices/norma-fora-icvm-40.md) | 22 |
+| [icvm-400](indices/norma-fora-icvm-400.md) | 193 |
+| [icvm-409](indices/norma-fora-icvm-409.md) | 215 |
+| [icvm-434](indices/norma-fora-icvm-434.md) | 11 |
+| [icvm-444](indices/norma-fora-icvm-444.md) | 21 |
+| [icvm-447](indices/norma-fora-icvm-447.md) | 92 |
+| [icvm-450](indices/norma-fora-icvm-450.md) | 13 |
+| [icvm-452](indices/norma-fora-icvm-452.md) | 297 |
+| [icvm-457](indices/norma-fora-icvm-457.md) | 12 |
+| [icvm-59](indices/norma-fora-icvm-59.md) | 14 |
+| [icvm-8](indices/norma-fora-icvm-8.md) | 17 |
+| [icvm-82](indices/norma-fora-icvm-82.md) | 14 |
+| [icvm-88](indices/norma-fora-icvm-88.md) | 23 |
+| [icvm-89](indices/norma-fora-icvm-89.md) | 12 |
+| [lcp-105](indices/norma-fora-lcp-105.md) | 13 |
+| [lei-10303](indices/norma-fora-lei-10303.md) | 142 |
+| [lei-13105](indices/norma-fora-lei-13105.md) | 82 |
+| [lei-3115](indices/norma-fora-lei-3115.md) | 11 |
+| [lei-4131](indices/norma-fora-lei-4131.md) | 10 |
+| [lei-7940](indices/norma-fora-lei-7940.md) | 65 |
+| [lei-7958](indices/norma-fora-lei-7958.md) | 11 |
+| [lei-8383](indices/norma-fora-lei-8383.md) | 11 |
+| [lei-9249](indices/norma-fora-lei-9249.md) | 17 |
+| [lei-9457](indices/norma-fora-lei-9457.md) | 58 |
+| [lei-9784](indices/norma-fora-lei-9784.md) | 95 |
+| [res-cmn-1289](indices/norma-fora-res-cmn-1289.md) | 15 |
+| [res-cmn-1655](indices/norma-fora-res-cmn-1655.md) | 22 |
+| [res-cmn-1656](indices/norma-fora-res-cmn-1656.md) | 71 |
+| [res-cmn-1657](indices/norma-fora-res-cmn-1657.md) | 21 |
+| [res-cmn-238](indices/norma-fora-res-cmn-238.md) | 30 |
+| [res-cmn-2689](indices/norma-fora-res-cmn-2689.md) | 34 |
+| [res-cmn-2690](indices/norma-fora-res-cmn-2690.md) | 156 |
+| [res-cmn-2774](indices/norma-fora-res-cmn-2774.md) | 52 |
+| [res-cmn-2838](indices/norma-fora-res-cmn-2838.md) | 18 |
+| [res-cmn-401](indices/norma-fora-res-cmn-401.md) | 12 |
+| [res-cmn-454](indices/norma-fora-res-cmn-454.md) | 16 |
+| [res-cmn-922](indices/norma-fora-res-cmn-922.md) | 14 |
+| [res-cvm-922](indices/norma-fora-res-cvm-922.md) | 10 |
+| [Fora do acervo, família carta-circular-bcb: 6 normas com menos de 10 julgados cada](indices/norma-fora-outras-carta-circular-bcb.md) | 6 |
+| [Fora do acervo, família circular-bcb: 25 normas com menos de 10 julgados cada](indices/norma-fora-outras-circular-bcb.md) | 25 |
+| [Fora do acervo, família decreto: 53 normas com menos de 10 julgados cada](indices/norma-fora-outras-decreto.md) | 65 |
+| [Fora do acervo, família decreto-lei: 45 normas com menos de 10 julgados cada](indices/norma-fora-outras-decreto-lei.md) | 46 |
+| [Fora do acervo, família deliberacao-cvm: 115 normas com menos de 10 julgados cada](indices/norma-fora-outras-deliberacao-cvm.md) | 152 |
+| [Fora do acervo, família icvm: 214 normas com menos de 10 julgados cada](indices/norma-fora-outras-icvm.md) | 292 |
+| [Fora do acervo, família in: 6 normas com menos de 10 julgados cada](indices/norma-fora-outras-in.md) | 7 |
+| [Fora do acervo, família in-srf: 3 normas com menos de 10 julgados cada](indices/norma-fora-outras-in-srf.md) | 2 |
+| [Fora do acervo, família lcp: 7 normas com menos de 10 julgados cada](indices/norma-fora-outras-lcp.md) | 16 |
+| [Fora do acervo, família lei: 184 normas com menos de 10 julgados cada](indices/norma-fora-outras-lei.md) | 229 |
+| [Fora do acervo, família mp: 44 normas com menos de 10 julgados cada](indices/norma-fora-outras-mp.md) | 48 |
+| [Fora do acervo, família po-cvm: 1 normas com menos de 10 julgados cada](indices/norma-fora-outras-po-cvm.md) | 1 |
+| [Fora do acervo, família res-bcb: 3 normas com menos de 10 julgados cada](indices/norma-fora-outras-res-bcb.md) | 3 |
+| [Fora do acervo, família res-cmn: 115 normas com menos de 10 julgados cada](indices/norma-fora-outras-res-cmn.md) | 117 |
+| [Fora do acervo, família res-cvm: 51 normas com menos de 10 julgados cada](indices/norma-fora-outras-res-cvm.md) | 60 |

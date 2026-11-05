@@ -29,3 +29,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2005/0383 | 2005-02-22 | nao-provido | multa-cominatoria-taxa | O Colegiado manteve a multa cominatória aplicada pela SEP à Carfepe S.A. Administradora e Participadora pelo atraso na entrega da 3ª ITR/2003, da DFP/2003, da IAN/2003 e da 1ª ITR/2004, com base na manifestação da área técnica (Memo/SEP/GEA-3/023/05). Fundamento: prazos da Instrução CVM 202/93; a área técnica entendeu que a argumentação da companhia não a exime do prazo. | cvm/colegiado/2005/col-20050222-d06.md |
 | decisao-colegiado | RJ2003/3680 | 2003-06-17 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2003/3680. | cvm/colegiado/2003/col-20030617-d14.md |
 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | cvm/decisoes-antigas/2001.md |
+
+Fim do subíndice.

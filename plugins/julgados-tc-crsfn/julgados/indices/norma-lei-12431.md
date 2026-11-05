@@ -12,3 +12,5 @@ Norma: [leis/lei-12431.md](../../../normas/normas/leis/lei-12431.md) (texto vige
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2014/7351 | 2020-02-11 | condenacao | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS. Novo REFIS e realocação de passivo nas demonstrações financeiras. Responsabilidade individual dos diretores pelas demonstrações financeiras. Ausência de conselho de administração instalado em subsidiária integral. Recursos conhecidos e desprovidos. | crsfn/2020/10372-100236-2019-99.md |
+
+Fim do subíndice.

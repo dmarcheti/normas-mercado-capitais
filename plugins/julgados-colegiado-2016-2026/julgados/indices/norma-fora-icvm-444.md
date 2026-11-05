@@ -104,3 +104,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | cvm/colegiado/2017/col-20170626-d0603.md |
 | decisao-colegiado | 19957.000587/2016-51 | 2016-08-16 | deferido | securitizacao | O Colegiado deferiu a dispensa dos incisos I e II do art. 6º da Instrução 414 na 1ª série da 5ª emissão de CRI da Brazil Realty Companhia Securitizadora de Créditos Imobiliários S.A., acompanhando a SRE, pois as debêntures do lastro não têm risco de performance. | cvm/colegiado/2016/col-20160816-d0331.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

@@ -7,6 +7,26 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 678 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 30 |
+| art. 2º | 36 |
+| art. 3º | 42 |
+| art. 4º | 158 |
+| art. 5º | 171 |
+| art. 6º | 188 |
+| art. 9º | 216 |
+| art. 10 | 222 |
+| art. 11 | 228 |
+| art. 12 | 336 |
+| art. 13 | 465 |
+| art. 14 | 586 |
+| Citada sem dispositivo identificado | 668 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -654,3 +674,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/6955 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6955. | cvm/colegiado/2008/col-20080805-d12.md |
 | decisao-colegiado | RJ2008/4923 | 2008-07-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SOI em processo de multa cominatória. Proc. RJ2008/4923. | cvm/colegiado/2008/col-20080722-d21.md |
 | decisao-colegiado | RJ2008/2409 | 2008-04-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2008/2409. | cvm/colegiado/2008/col-20080425-d01.md |
+
+Fim do subíndice.

@@ -99,3 +99,5 @@ Norma: [leis/lei-04728.md](../../../normas/normas/leis/lei-04728.md) (texto vige
 | decisao-colegiado | 12/03 | 2004-11-23 | outro | processual | O Colegiado, acompanhando o voto da relatora, afirmou a competência da CVM para concluir processos sancionadores oriundos do Banco Central, que passaram à CVM com a Lei 10.303/01. Penas limitadas às da Lei 6.385/76, e às da Lei 4.595/64 se inferiores. Reaberta a defesa dos indiciados após nova comunicação das penalidades. | cvm/colegiado/2004/col-20041123-d07.md |
 | decisao-colegiado | SP2001/0291 | 2002-06-25 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0291. | cvm/colegiado/2002/col-20020625-d01.md |
 | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | cvm/decisoes-antigas/1981.md |
+
+Fim do subíndice.

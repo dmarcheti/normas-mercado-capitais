@@ -8,6 +8,30 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1357 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+lei-1 (35); lei-2 (60); lei-4 (68); lei-6 (76); lei-8 (109); lei-9 (117); lei-10 (128); lei-11 (136)
+lei-1083 (146); lei-1376 (154); lei-1521 (163); lei-1522 (171); lei-3010 (181); lei-3020 (189); lei-3115 (197)
+lei-3150 (206); lei-3519 (214); lei-3521 (223); lei-3890 (232); lei-3909 (246); lei-4131 (255); lei-4495 (264)
+lei-4728-1967 (272); lei-5524 (282); lei-5764 (293); lei-6015 (301); lei-6358 (309); lei-6385-1979 (321)
+lei-6386 (329); lei-6404-1946 (337); lei-6404-1964 (354); lei-6404-1974 (362); lei-6530 (370); lei-6830 (379)
+lei-6835 (387); lei-7492 (401); lei-7565 (426); lei-7661 (435); lei-7960 (443); lei-8029 (452); lei-8030 (462)
+lei-8031 (473); lei-8036 (481); lei-8078 (496); lei-8087 (537); lei-8112 (545); lei-8212 (555); lei-8218 (572)
+lei-8245 (582); lei-8666 (591); lei-8668-1938 (600); lei-8668-2003 (608); lei-8669 (616); lei-8686 (624)
+lei-8906 (632); lei-8935 (668); lei-8981 (676); lei-8987 (684); lei-9074 (707); lei-9307 (715); lei-9311 (729)
+lei-9447 (737); lei-9472 (746); lei-9475 (760); lei-9477 (768); lei-9478 (776); lei-9499 (784); lei-9503 (794)
+lei-9515 (805); lei-9532 (815); lei-9541 (836); lei-9547 (844); lei-9615 (852); lei-9656 (860); lei-9717 (868)
+lei-9779 (876); lei-9799 (884); lei-9868 (892); lei-9873 (906); lei-9961 (929); lei-10101 (937)
+lei-10203 (945); lei-10257 (953); lei-10411 (978); lei-10520 (986); lei-10741 (994); lei-10848 (1002)
+lei-10892 (1010); lei-11053 (1018); lei-11196 (1026); lei-11311 (1034); lei-11419 (1043); lei-11437 (1051)
+lei-11445 (1060); lei-11478 (1071); lei-11483 (1080); lei-11491 (1088); lei-11732 (1099); lei-11778 (1107)
+lei-11900 (1115); lei-11948 (1123); lei-12024 (1131); lei-12187 (1139); lei-12249 (1147); lei-12276 (1156)
+lei-12376 (1166); lei-12410 (1174); lei-12485 (1182); lei-12527 (1191); lei-12529 (1225); lei-12543 (1239)
+lei-12683 (1248); lei-12715 (1257); lei-12767 (1265); lei-12838 (1273); lei-12973 (1281); lei-13260 (1289)
+lei-13430 (1303); lei-13769 (1311); lei-13871 (1319); lei-14934 (1327); lei-15519 (1335); lei-19550 (1343)
+
 ## lei-1
 
 ### art. 11
@@ -1329,3 +1353,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 237 | decisao-colegiado | RJ2010/16568 | 2010-12-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/16568. | cvm/colegiado/2010/col-20101207-d34.md |
+
+Fim do subíndice.

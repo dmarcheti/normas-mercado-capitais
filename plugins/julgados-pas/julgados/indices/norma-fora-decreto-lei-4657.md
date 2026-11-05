@@ -56,3 +56,5 @@ Norma: fora do acervo.
 | pas | RJ2015/12130 | 2018-08-14 | condenacao | manipulacao-fraude | O Colegiado, por unanimidade, aplicou ao acusado proibição temporária, por cinco anos, de atuar em qualquer operação no mercado de valores mobiliários, por manipulação de preços de vários ativos negociados em bolsa entre 20/01/2012 e 14/01/2013, em infração ao inciso I da Instrução CVM 08/79. Fundamento: art. 11 da Lei 6.385/76. | cvm/pas/2018/rj2015-12130.md |
 | pas | 08/2009 | 2015-04-28 | condenacao | divulgacao-informacoes | Descumprimento, por parte do Diretor de Relações com Investidores da Companhia, do seu dever de diligenciar, junto a pessoas com acesso a atos ou fatos relevantes, para obtenção de informações sobre notícias divulgadas ao mercado. Descumprimento do dever de informar a aquisição de participação acionária relevante no capital da Companhia. Multas. | cvm/pas/2015/08-2009.md |
 | pas | RJ2002/6413 | 2005-12-14 | condenacao | fundos-investimento | Descumprimento do art. 24 da Instrução CVM nº 209/94. Advertência. | cvm/pas/2005/rj2002-6413.md |
+
+Fim do subíndice.

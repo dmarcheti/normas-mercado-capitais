@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0036.md](../../../normas/normas/cvm/resolucoes/0036.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.009070/2021-95 | 2024-10-29 | parcial | auditoria-independente | Apurar responsabilidade por supostas irregularidades na estrutura de controle de qualidade de sociedade de auditores independentes e em auditoria por ela realizada. Multas, Absolvições. | cvm/pas/2024/19957-009070-2021-95.md |
+
+Fim do subíndice.

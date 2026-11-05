@@ -12,3 +12,5 @@ Norma: [cmn/resolucoes/2907.md](../../../normas/normas/cmn/resolucoes/2907.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | RJ2014/12081 | 2019-06-18 | parcial | manipulacao-fraude | Prática de operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência. Descumprimento do dever de informar. Infração ao item II, letra “c”, da Instrução CVM nº 08/79. Infração ao disposto no art. 65-A, inciso I, da Instrução CVM nº 409/04. Infração ao art. 4º da Instrução CVM nº 387/03. Advertência. inabilitação temporária. multas. absolvições. Data decisão CVM Tue Jun 18 15:58:00 BRT 2019 | cvm/pas/2019/rj2014-12081.md |
+
+Fim do subíndice.

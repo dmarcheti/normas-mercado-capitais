@@ -67,3 +67,5 @@ Norma: [leis/lei-04595.md](../../../normas/normas/leis/lei-04595.md) (texto vige
 | decisao-colegiado | RJ2003/12477 | 2004-03-09 | outro | multa-cominatoria-taxa | Consulta da SIN relativa à aplicação de multa cominatória pela não apresentação de informações dos fif, fac-fi e fiex. Proc. RJ2003/12477. | cvm/colegiado/2004/col-20040309-d06.md |
 | decisao-colegiado | RJ2000/0318 | 2002-12-10 | parcial | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2000/0318. | cvm/colegiado/2002/col-20021210-d01.md |
 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | cvm/decisoes-antigas/2000.md |
+
+Fim do subíndice.

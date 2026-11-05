@@ -78,3 +78,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 03/90 | 1996-04-16 | outro | processual | RECURSOS VOLUNTÁRIOS. Interposição de recursos ao CRSFN fora do prazo regulamentar. Incompetência do órgão de primeira instância para prorrogar prazos na fase recursal. Inadmissibilidade dos recursos por intempestivos. | crsfn/1996/1145.md |
 | acordao-crsfn | 11/93 | 1996-02-15 | condenacao | processual | RECURSO DE OFÍCIO. Inexistência de registros atualizados. Acolhimento de ordens de clientes não cadastrados. Não apresentação de contrato de cliente para operar no mercado de opções. Decisão condenatória posteriormente anulada pelo mesmo órgão julgador. Inadmissibilidade. A reforma de decisão só é admitida por Órgãos com poder de revisão. | crsfn/1996/1620.md |
 | acordao-crsfn | 12/92 | 1996-02-15 | outro | processual | RECURSO DE OFÍCIO. Constituição de Comissão para abertura de inquérito com vistas à apuração de ilícito. Não cabimento de recurso. | crsfn/1996/1582.md |
+
+Fim do subíndice.

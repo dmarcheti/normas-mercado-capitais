@@ -141,3 +141,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2006/0103 | 2009-02-03 | parcial | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0103. | cvm/colegiado/2009/col-20090203-d07.md |
 | decisao-colegiado | SP2006/0106 | 2009-02-03 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0106. | cvm/colegiado/2009/col-20090203-d06.md |
 | decisao-colegiado | SP2008/0154 | 2009-02-03 | parcial | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2008/0154. | cvm/colegiado/2009/col-20090203-d01.md |
+
+Fim do subíndice.

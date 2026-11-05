@@ -18,3 +18,5 @@ Norma: [cvm/pareceres-orientacao/0034.md](../../../normas/normas/cvm/pareceres-o
 | pas | RJ2012/1131 | 2015-05-26 | condenacao | deveres-administradores | Descumprimento do dever de lealdade. Multa. | cvm/pas/2015/rj2012-1131.md |
 | pas | RJ2008/1815 | 2009-04-28 | parcial | deveres-administradores | MOSSI & GHISOLFI INTERNACIONAL S/A e outros (M&G POLIÉSTER S/A) Caracterização de conduta irregular do acionista controlador - constituição de empresa concorrente sem o oferecimento da oportunidade comercial a sua controlada - quebra do dever de lealdade - multa. | cvm/pas/2009/rj2008-1815.md |
 | pas | 11/2006 | 2008-03-04 | absolvicao | manipulacao-fraude | Telemar Participações S.A. - Imputação de prática não eqüitativa, nos termos do inciso II, alínea d, da Instrução CVM nº 08/79, infração vedada pelo inciso I da mesma Instrução. Absolvição. | cvm/pas/2008/11-2006.md |
+
+Fim do subíndice.

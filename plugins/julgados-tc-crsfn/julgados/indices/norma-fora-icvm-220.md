@@ -238,3 +238,5 @@ Norma: fora do acervo.
 | termo-compromisso | 35/00 | 2004-08-24 | rejeitado | outros | O Colegiado, acompanhando o voto do relator, não aceitou celebrar termo de compromisso com os indiciados no PAS CVM 35/00 (Companhia Fluminense de Refrigerantes e outros), por considerar a celebração inoportuna e inconveniente. | cvm/colegiado/2004/col-20040824-d01.md |
 | termo-compromisso | IA14/00 | 2004-04-20 | rejeitado | outros | No IA 14/00 (Grupo Arbi S.A. CCTVM), o Colegiado rejeitou as propostas de termo de compromisso apresentadas por dois indiciados, acompanhando o voto do diretor-relator. | cvm/colegiado/2004/col-20040420-d01.md |
 | acordao-crsfn | SP99/502 | 2001-06-01 | absolvicao | intermediacao | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação de operador de bolsa – Negociação fora do vínculo entre o profissional e a corretora – Infringência a normativo regulamentar (Instrução CVM 220) não configurada – Recurso improvido. | crsfn/2001/3329.md |
+
+Fim do subíndice.

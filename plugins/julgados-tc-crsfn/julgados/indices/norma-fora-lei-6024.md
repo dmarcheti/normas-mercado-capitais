@@ -92,3 +92,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93) – Acolhimento das razões de defesa – Recurso improvido. | crsfn/2000/3171.md |
 | acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93, art. 16) – Empresa à época submetida a liquidação extrajudicial – Irregularidade caracterizada – Não aceitação das razões de defesa – Apelo a que se nega provimento. | crsfn/2000/3130.md |
 | acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, das informações exigidas em normativo regulamentar ( Instrução CVM 202 – art. 16, §§ 2º e 3º ) – Instituição financeira submetida a liquidação extrajudicial – Intempestividade justificada – Recurso improvido. | crsfn/2000/3149.md |
+
+Fim do subíndice.

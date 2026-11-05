@@ -19,3 +19,5 @@ Norma: [cvm/instrucoes/0489.md](../../../normas/normas/cvm/instrucoes/0489.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | cvm/pas/2024/19957-006858-2019-25.md |
 | pas | RJ2011/10415 | 2014-12-02 | parcial | fundos-investimento | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante – Não divulgação das decisões das assembleias gerais dos Fundos – Descumprimento do dever de diligência por parte da instituição administradora de Fundos. Absolvições e multas. | cvm/pas/2014/rj2011-10415.md |
+
+Fim do subíndice.

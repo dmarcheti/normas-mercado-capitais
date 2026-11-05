@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0017.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | contabil-demonstracoes | O Colegiado, acompanhando o relator, deu provimento ao recurso da PPE Fios Esmaltados contra entendimento da SEP e dispensou a republicação das demonstrações financeiras de 31.12.08. Fundamento: não há ações em circulação e os acionistas estão cientes dos ajustes. Condicionou a dispensa à AGE, comunicado e publicação comparativa. | cvm/colegiado/2009/col-20091013-d20.md |
+
+Fim do subíndice.

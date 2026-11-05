@@ -8,6 +8,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 2484 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+icvm-0 (42); icvm-2 (56); icvm-3 (78); icvm-4 (101); icvm-5 (126); icvm-6 (134); icvm-9 (143); icvm-12 (152)
+icvm-14 (160); icvm-17 (180); icvm-20 (188); icvm-30 (196); icvm-32 (211); icvm-34 (219); icvm-35 (227)
+icvm-38 (243); icvm-42 (265); icvm-43 (281); icvm-44 (294); icvm-45 (303); icvm-47 (321); icvm-53 (329)
+icvm-58 (337); icvm-59 (345); icvm-60 (368); icvm-65 (382); icvm-69 (390); icvm-85 (408); icvm-88 (416)
+icvm-89 (432); icvm-92 (470); icvm-93 (484); icvm-107 (492); icvm-115 (500); icvm-117 (508); icvm-149 (522)
+icvm-165 (530); icvm-167 (538); icvm-168 (546); icvm-169 (559); icvm-183 (574); icvm-200 (582); icvm-201 (590)
+icvm-205 (598); icvm-206 (641); icvm-207 (656); icvm-209 (670); icvm-223 (697); icvm-224 (706); icvm-228 (721)
+icvm-229 (730); icvm-231 (738); icvm-232 (746); icvm-233 (754); icvm-235 (763); icvm-243 (784); icvm-245 (807)
+icvm-248 (824); icvm-249 (840); icvm-251 (851); icvm-256 (871); icvm-258 (882); icvm-260 (896); icvm-261 (936)
+icvm-265 (944); icvm-269 (1029); icvm-272 (1043); icvm-273 (1051); icvm-279 (1067); icvm-282 (1091)
+icvm-283 (1099); icvm-284 (1127); icvm-286 (1154); icvm-290 (1162); icvm-294 (1171); icvm-296 (1179)
+icvm-299 (1240); icvm-303 (1272); icvm-304 (1287); icvm-305 (1295); icvm-309 (1319); icvm-310 (1342)
+icvm-317 (1357); icvm-324 (1365); icvm-325 (1373); icvm-326 (1391); icvm-330 (1400); icvm-331 (1409)
+icvm-336 (1417); icvm-341 (1425); icvm-346 (1433); icvm-349 (1447); icvm-350 (1455); icvm-352 (1471)
+icvm-359 (1494); icvm-362 (1508); icvm-364 (1516); icvm-366 (1525); icvm-367 (1534); icvm-371 (1552)
+icvm-372 (1574); icvm-375 (1582); icvm-378 (1592); icvm-379 (1601); icvm-380 (1609); icvm-381 (1624)
+icvm-384 (1633); icvm-385 (1643); icvm-390 (1652); icvm-393 (1673); icvm-394 (1681); icvm-402 (1689)
+icvm-404 (1712); icvm-405 (1721); icvm-408 (1730); icvm-411 (1763); icvm-412 (1772); icvm-414 (1781)
+icvm-419 (1796); icvm-427 (1804); icvm-436 (1824); icvm-439 (1832); icvm-441 (1840); icvm-442 (1878)
+icvm-453 (1886); icvm-456 (1894); icvm-457 (1903); icvm-458 (1931); icvm-463 (1945); icvm-465 (1957)
+icvm-467 (1973); icvm-469 (1987); icvm-475 (1995); icvm-483 (2019); icvm-487 (2027); icvm-489-2005 (2035)
+icvm-490 (2043); icvm-498 (2058); icvm-509 (2066); icvm-510 (2075); icvm-511 (2090); icvm-513 (2099)
+icvm-530 (2107); icvm-533 (2133); icvm-538 (2141); icvm-539 (2162); icvm-541 (2202); icvm-542 (2213)
+icvm-545 (2245); icvm-547 (2253); icvm-551 (2261); icvm-552 (2269); icvm-554 (2279); icvm-567 (2288)
+icvm-568 (2310); icvm-578 (2323); icvm-586 (2362); icvm-588 (2371); icvm-592 (2388); icvm-598 (2396)
+icvm-606 (2428); icvm-608 (2436); icvm-612 (2445); icvm-670 (2468); icvm-697 (2476)
+
 ## icvm-0
 
 ### art. 45
@@ -2449,3 +2480,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.010958/2018-75; 19957.000723/2021-71; 19957.007904/2019-11; 19957.006702/2019-44; 19957.006871/2018-01; 19957.002813/2019-81; 19957.004801/2018-19; 19957.007913/2019-02; 19957.004658/2019-38 | 2023-12-19 | rejeitado | analistas-rating | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou a proposta global de termo de compromisso da diretora de agência de classificação de risco quanto a quatro processos (um PAS e três PAs) e não conheceu dela quanto a cinco PAs, por não terem natureza sancionadora ou já estarem encerrados. | cvm/colegiado/2023/col-20231219-d2121.md |
+
+Fim do subíndice.

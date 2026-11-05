@@ -44,3 +44,5 @@ Norma: fora do acervo.
 | pas | RJ2005/3750 | 2005-10-19 | absolvicao | registro-emissor | Descumprimento do dever de manter atualizado o registro na CVM, enviando informações periódicas e eventuais. Abolvição. | cvm/pas/2005/rj2005-3750.md |
 | pas | RJ2001/4635 | 2004-12-16 | absolvicao | deveres-administradores | Não configuração da acusação de Abuso de Poder, previsto na alínea “c”, § 1º, artigo 117 da Lei nº 6.404/76. Absolvições. | cvm/pas/2004/rj2001-4635.md |
 | pas | 25/1998 | 2001-12-12 | parcial | deveres-administradores | TUPY S/A ([pessoa física] E OUTROS) I. Alienação de controle de cia. aberta. Reorganização Societária. Oferta Pública a acionistas minoritários da Tupy S/A. | cvm/pas/2001/25-1998.md |
+
+Fim do subíndice.

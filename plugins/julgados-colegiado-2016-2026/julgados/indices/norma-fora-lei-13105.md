@@ -7,6 +7,22 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 717 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 8º (26); art. 9º (32); art. 10 (39); art. 11 (46); art. 12 (52); art. 13 (58); art. 14 (65); art. 15 (73)
+art. 17 (84); art. 20 (90); art. 48 (96); art. 53 (102); art. 55 (109); art. 69 (115); art. 85 (122)
+art. 119 (130); art. 128 (136); art. 130 (142); art. 134 (149); art. 135 (155); art. 138 (161); art. 141 (167)
+art. 158 (173); art. 183 (179); art. 186 (185); art. 189 (191); art. 197 (200); art. 212 (206); art. 223 (212)
+art. 224 (220); art. 265 (227); art. 277 (233); art. 282 (239); art. 286 (245); art. 296 (251); art. 302 (257)
+art. 306 (263); art. 313 (269); art. 319 (277); art. 324 (283); art. 333 (289); art. 339 (297); art. 373 (303)
+art. 389 (310); art. 396 (316); art. 397 (322); art. 417 (328); art. 418 (334); art. 447 (340); art. 473 (346)
+art. 485 (352); art. 487 (361); art. 489 (367); art. 493 (374); art. 507 (380); art. 535 (386); art. 538 (398)
+art. 543-C (404); art. 545 (414); art. 557 (420); art. 585 (426); art. 591 (432); art. 716 (438)
+art. 748 (444); art. 750 (450); art. 758 (456); art. 783 (462); art. 876 (468); art. 941 (474); art. 942 (480)
+art. 995 (486); art. 998 (494); art. 1.013 (500); art. 1.052 (507); Citada sem dispositivo identificado (513)
+
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -697,3 +713,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/3071 | 2016-03-08 | provido | contabil-demonstracoes | O Colegiado, acompanhando o voto do relator, dispensou as Companhias Estaduais CEEE-D e CEEE-GT do refazimento e da republicação das demonstrações financeiras de 2011 e posteriores, determinados pela SEP por tratamento contábil considerado impróprio. Fundamento: o refazimento traria pouco ganho informacional, e os saldos a partir de 2012 estavam corretos. | cvm/colegiado/2016/col-20160308-d8398.md |
 | decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm/colegiado/2016/col-20160301-d9695.md |
 | decisao-colegiado | RJ2013/0267 | 2016-02-11 | parcial | intermediacao | Pedido de reconsideração de decisão do colegiado. Proc. RJ2013/0267. | cvm/colegiado/2016/col-20160211-d8723.md |
+
+Fim do subíndice.

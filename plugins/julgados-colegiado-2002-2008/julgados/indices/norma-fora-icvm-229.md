@@ -153,3 +153,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2000/4473; RJ2000/4079 | 2002-06-25 | outro | deveres-administradores | O Colegiado, com um impedimento, acompanhou o relator sobre proposta de abertura de inquérito administrativo relativa à reestruturação societária da Cosipa e da Usiminas, a partir de deliberações de AGEs de novembro de 1998 e janeiro de 1999 e de reclamações de investidores. | cvm/colegiado/2002/col-20020625-d03.md |
 | decisao-colegiado | RJ2001/11663 | 2002-01-15 | provido | opa | Processo de reorganização societária empreendida pela serrana S.A. Proc. RJ2001/11663. | cvm/colegiado/2002/col-20020115-d05.md |
 | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | cvm/decisoes-antigas/1999.md |
+
+Fim do subíndice.

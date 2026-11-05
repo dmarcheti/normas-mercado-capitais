@@ -56,3 +56,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 12, § 5º | decisao-colegiado | RJ2003/10947 | 2003-12-16 | provido | divulgacao-informacoes | O Colegiado deu provimento a recurso contra decisão da SEP que exigia divulgação de alteração na composição acionária da Saraiva S/A Livreiros Editores, por entender que não houve transferência de propriedade para efeito da ICVM 358/02; a informação no IAN passou a ser facultativa. | cvm/colegiado/2003/col-20031216-d03.md |
+
+Fim do subíndice.

@@ -8,6 +8,34 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 1046 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cvm-1-2016 (39); res-cvm-2 (47); res-cvm-4 (66); res-cvm-5 (76); res-cvm-7 (92); res-cvm-15 (100)
+res-cvm-18 (108); res-cvm-25-1967 (116); res-cvm-26 (124); res-cvm-31-2025 (132); res-cvm-39 (141)
+res-cvm-40 (163); res-cvm-41 (171); res-cvm-43-2001 (185); res-cvm-45-2001 (193); res-cvm-46-2001 (209)
+res-cvm-58 (217); res-cvm-59 (225); res-cvm-61 (237); res-cvm-62-2024 (246); res-cvm-63 (254)
+res-cvm-64 (262); res-cvm-65 (270); res-cvm-66 (278); res-cvm-69 (286); res-cvm-79 (295)
+res-cvm-81-2002 (303); res-cvm-83 (312); res-cvm-87 (320); res-cvm-88-2002 (328); res-cvm-98 (336)
+res-cvm-117 (344); res-cvm-118 (352); res-cvm-124 (360); res-cvm-137 (368); res-cvm-138 (376)
+res-cvm-152 (384); res-cvm-154 (392); res-cvm-158 (400); res-cvm-160-2024 (408); res-cvm-162 (416)
+res-cvm-167 (424); res-cvm-168 (432); res-cvm-169 (440); res-cvm-170 (448); res-cvm-171 (456)
+res-cvm-173 (464); res-cvm-174 (472); res-cvm-179 (480); res-cvm-180 (493); res-cvm-181 (501)
+res-cvm-183 (512); res-cvm-184 (523); res-cvm-185 (531); res-cvm-186 (546); res-cvm-187 (554)
+res-cvm-192 (563); res-cvm-194 (571); res-cvm-195 (582); res-cvm-196 (590); res-cvm-198 (599)
+res-cvm-200 (607); res-cvm-201 (615); res-cvm-202 (623); res-cvm-203 (632); res-cvm-204 (641)
+res-cvm-206 (649); res-cvm-207 (657); res-cvm-208 (665); res-cvm-209 (673); res-cvm-214 (681)
+res-cvm-215-2022 (690); res-cvm-216 (698); res-cvm-219 (706); res-cvm-220 (714); res-cvm-221 (723)
+res-cvm-222 (731); res-cvm-224 (739); res-cvm-226 (747); res-cvm-227 (755); res-cvm-228 (764)
+res-cvm-229 (772); res-cvm-233 (780); res-cvm-235 (788); res-cvm-239 (796); res-cvm-243 (804)
+res-cvm-282 (812); res-cvm-344 (820); res-cvm-385 (828); res-cvm-394 (836); res-cvm-444 (850)
+res-cvm-454 (858); res-cvm-461 (869); res-cvm-481 (877); res-cvm-527 (885); res-cvm-737 (893)
+res-cvm-851 (901); res-cvm-854 (909); res-cvm-856 (917); res-cvm-859 (925); res-cvm-1660 (933)
+res-cvm-1752 (941); res-cvm-1755 (949); res-cvm-2157 (957); res-cvm-4512 (965); res-cvm-4518 (973)
+res-cvm-5118 (981); res-cvm-8524 (989); res-cvm-8554 (997); res-cvm-8559 (1005); res-cvm-13514 (1013)
+res-cvm-17517 (1022); res-cvm-19135 (1030); res-cvm-21511 (1038)
+
 ## res-cvm-1-2016
 
 ### Citada sem dispositivo identificado
@@ -1014,3 +1042,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 47 | decisao-colegiado | 19957.009862/2026-74 | 2026-07-14 | provido | opa | Por maioria, o Colegiado proveu recurso da Itaú Corretora e da Ecopetrol contra entendimento da SRE de que a OPA da Brava Energia feria o tratamento equitativo. Conforme voto do presidente, a SRE não demonstrou aquisição de ações no período da OPA. Um diretor ficou vencido. | cvm/colegiado/2026/col-20260714-d3573.md |
+
+Fim do subíndice.

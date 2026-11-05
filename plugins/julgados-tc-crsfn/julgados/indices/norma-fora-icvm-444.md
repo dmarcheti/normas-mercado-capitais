@@ -33,3 +33,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | contabil-demonstracoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO OU ENVIO DE DEMONSTRAÇÕES FINANCEIRAS DE FORMA INCOMPLETA, INCORRETA OU FORA DO PRAZO. Irregularidades na apresentação de informações periódicas de fundos administrados pela Intrader. Preliminares de perda de objeto e da pretensão de abatimento integral do valor originalmente previsto no Termo de Compromisso rejeitadas. Irregularidades caracterizadas. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | crsfn/2026/19957-001933-2021-86.md |
+
+Fim do subíndice.

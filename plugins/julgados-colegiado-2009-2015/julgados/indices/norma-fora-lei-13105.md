@@ -7,6 +7,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 475 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 6º | 49 |
+| art. 17 | 55 |
+| art. 134 | 61 |
+| art. 184 | 67 |
+| art. 193 | 73 |
+| art. 194 | 79 |
+| art. 195 | 85 |
+| art. 196 | 91 |
+| art. 197 | 97 |
+| art. 263 | 103 |
+| art. 267 | 109 |
+| art. 295 | 116 |
+| art. 332 | 122 |
+| art. 333 | 128 |
+| art. 334 | 136 |
+| art. 337 | 143 |
+| art. 355 | 149 |
+| art. 451 | 155 |
+| art. 460 | 161 |
+| art. 461 | 167 |
+| art. 472 | 175 |
+| art. 485 | 185 |
+| art. 535 | 191 |
+| art. 552 | 216 |
+| art. 557 | 222 |
+| art. 563 | 228 |
+| art. 748 | 235 |
+| art. 750 | 241 |
+| art. 758 | 247 |
+| art. 783 | 253 |
+| art. 786 | 259 |
+| Citada sem dispositivo identificado | 265 |
+
 ## art. 6º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -432,3 +471,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2008/8148 | 2009-03-17 | provido | contabil-demonstracoes | O Colegiado, acompanhando o voto do relator, deu provimento ao recurso da Perdigão S.A. contra determinação da SEP, dispensando-a de segregar e amortizar parcelas do ágio decorrentes do valor de mercado dos ativos e da expectativa de resultados futuros, que poderão permanecer agregadas pela imaterialidade do ágio da mais-valia. Autorizou reapresentar os ITRs com as demonstrações. | cvm/colegiado/2009/col-20090317-d01.md |
 | decisao-colegiado | — | 2009-03-03 | deferido | contabil-demonstracoes | O Colegiado aprovou pedidos de cinco companhias para não aplicar os itens 4 e 5 do CPC 02 ao exercício de 2008 e aos três ITRs de 2009, condicionado à apresentação de manifestação dos auditores independentes sobre sua pertinência. Delegou à SNC a aprovação de pedidos semelhantes. | cvm/colegiado/2009/col-20090303-d15.md |
 | decisao-colegiado | RJ2009/1817 | 2009-03-03 | deferido | contabil-demonstracoes | O Colegiado aprovou o pedido da Aracruz Celulose S.A. para adotar o Real como moeda funcional, de forma excepcional, no exercício de 2008 e nos três ITRs de 2009, condicionado à manifestação dos auditores independentes (Ofício-Circular CVM/SNC/SEP nº 01/09). A companhia alegou divergências com os auditores e distorções em Reais; o CPC 02 prevê apenas uma moeda funcional por entidade. | cvm/colegiado/2009/col-20090303-d14.md |
+
+Fim do subíndice.

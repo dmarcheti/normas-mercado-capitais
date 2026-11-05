@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0033.md](../../../normas/normas/cvm/resolucoes/0033.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | Anexo B art. 1º | pas | 19957.008172/2021-93 | 2023-09-05 | absolvicao | assembleia-acionistas | Apurar atuação em conflito de interesses, em violação ao art. 115, §1°, da Lei n° 6.404/1976, em assembleias gerais extraordinárias que deliberaram sobre a propositura de ação de responsabilidade contra administradores. Absolvições. | cvm/pas/2023/19957-008172-2021-93.md |
+
+Fim do subíndice.

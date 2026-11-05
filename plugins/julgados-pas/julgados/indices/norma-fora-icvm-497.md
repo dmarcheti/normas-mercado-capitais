@@ -222,3 +222,5 @@ Norma: fora do acervo.
 | pas | RJ2014/8356 | 2015-08-11 | condenacao | exercicio-irregular | Exercício da atividade de agente autônomo de investimento sem a devida autorização da CVM. Proibição temporária. | cvm/pas/2015/rj2014-8356.md |
 | pas | SP2012/218 | 2014-03-25 | condenacao | exercicio-irregular | Atividade irregular de agente autônomo de investimento - atividade irregular de administração de carteira de valores mobiliários - delegação indevida de serviços - dever de supervisão. Multas. | cvm/pas/2014/sp2012-0218.md |
 | pas | 03/2009 | 2013-04-30 | parcial | exercicio-irregular | BVL/INTRA Exercício irregular da função de agente autônomo de investimento sem registro na CVM – operações fraudulentas no mercado de valores mobiliários. Absolvições e multas pecuniárias. | cvm/pas/2013/03-2009.md |
+
+Fim do subíndice.

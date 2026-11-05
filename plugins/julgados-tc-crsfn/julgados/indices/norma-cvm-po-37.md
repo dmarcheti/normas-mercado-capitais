@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0037.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS. Não conformidade dos trabalhos de auditoria em demonstrações financeiras. Auditoria Independente. Recursos conhecido e parcialmente providos. | crsfn/2020/10372-100018-2019-54.md |
+
+Fim do subíndice.

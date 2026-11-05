@@ -81,3 +81,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 15/94 | 2000-02-25 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Aquisição de ações da própria companhia sem comunicação tempestiva de fato relevante – Irregularidade caracterizada – Apelo a que se nega provimento. | crsfn/2000/2609.md |
 | RJ98/4966 | 2000-01-31 | absolvicao | contabil-demonstracoes | RECURSO DE OFÍCIO - Mercado de Valores Mobiliários – Demonstrações financeiras consolidadas – Investimento em sociedade controlada – Falta de prévia chancela da CVM para exclusão do apontamento – Irregularidade não configurada – Recurso improvido. | crsfn/2000/2946.md |
 | RJ97/1879 | 2000-01-31 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa semestral, à CVM, das informações fornecidas aos cotistas – Irregularidade não caracterizada - Apelo improvido. | crsfn/2000/2723.md |
+
+Fim do subíndice.

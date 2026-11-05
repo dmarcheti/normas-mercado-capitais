@@ -48,3 +48,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 390/2001; 19957.009074/2016-14 | 2016-12-13 | outro | normativo | O Colegiado aprovou a proposta da SGE de alterações pontuais na Deliberação CVM 390/2001, sobre a celebração de Termo de Compromisso, para adequar a literalidade do regramento às práticas atuais. | cvm/colegiado/2016/col-20161213-d3261.md |
 | decisao-colegiado | RJ2015/5511 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5511. | cvm/colegiado/2016/col-20160301-d9705.md |
+
+Fim do subíndice.

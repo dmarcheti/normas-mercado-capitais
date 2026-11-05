@@ -81,3 +81,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.005564/2020-10 | 2021-04-27 | parcial | exercicio-irregular | O Colegiado não conheceu do recurso contra o arquivamento de processo sobre suposta administração de carteiras sem autorização, por ausência dos requisitos do art. 4º, §4º, da ICVM 607/2019, e negou provimento aos demais pedidos, acompanhando a SIN. Para a SIN, as condutas eram esquema fraudulento, não gestão. | cvm/colegiado/2021/col-20210427-d2019.md |
 | decisao-colegiado | 01/2011 | 2017-10-31 | indeferido | processual | O Colegiado, por unanimidade, indeferiu pedido de suspensão do PAS 01/2011 até decisão criminal e pedido de produção de prova contábil, feitos pelo requerente, parte no PAS. Conforme o voto do diretor relator, as instâncias penal e administrativa são independentes (STF, AgRg em MS 34.420/DF), e o PAS já tem prova suficiente. | cvm/colegiado/2017/col-20171031-d9229-1.md |
+
+Fim do subíndice.

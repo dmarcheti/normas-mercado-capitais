@@ -34,3 +34,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 06/2007 | 2025-02-12 | parcial | manipulacao-fraude | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. REALIZAÇÃO DE OPERAÇÕES FRAUDULENTAS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS. Prescrição quanto à infração de aquisição indireta de cotas por meio de empresa que possuía os mesmos sócios. Infrações caracterizadas. Ajuste na dosimetria das penas. Recursos conhecidos. Parciais provimentos. Desprovimentos. | crsfn/2025/10372-100181-2020-51.md |
+
+Fim do subíndice.

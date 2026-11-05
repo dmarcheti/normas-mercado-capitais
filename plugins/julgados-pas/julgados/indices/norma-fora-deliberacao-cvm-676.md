@@ -21,3 +21,5 @@ Norma: fora do acervo.
 | pas | RJ2016/2159 | 2017-12-12 | condenacao | contabil-demonstracoes | Irregularidades contábeis na elaboração das demonstrações financeiras da companhia. Abstenção de opinião do auditor independente. Descumprimento dos deveres de diligência e de fiscalização. Multas. | cvm/pas/2017/rj2016-2159.md |
 | pas | RJ2015/4456 | 2017-11-14 | condenacao | contabil-demonstracoes | Irregularidades contábeis na elaboração das demonstrações financeiras da companhia. Multas. | cvm/pas/2017/rj2015-4456.md |
 | pas | RJ2015/2651 | 2017-05-16 | condenacao | contabil-demonstracoes | Irregularidades contábeis na elaboração das demonstrações financeiras da companhia. Descumprimento do dever de fiscalização por parte dos membros do Conselho de Administração da Companhia. Multas. | cvm/pas/2017/rj2015-2651.md |
+
+Fim do subíndice.

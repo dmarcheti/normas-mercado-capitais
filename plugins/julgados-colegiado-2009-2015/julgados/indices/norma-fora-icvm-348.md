@@ -22,3 +22,5 @@ Norma: fora do acervo.
 | art. 1º | decisao-colegiado | SP2007/0054 | 2012-02-23 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0054. | cvm/colegiado/2012/col-20120223-d21.md |
 | art. 1º | decisao-colegiado | SP2007/0055 | 2012-02-23 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0055. | cvm/colegiado/2012/col-20120223-d22.md |
 | art. 1º | decisao-colegiado | SP2007/0056 | 2012-02-23 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SP2007/0056. | cvm/colegiado/2012/col-20120223-d23.md |
+
+Fim do subíndice.

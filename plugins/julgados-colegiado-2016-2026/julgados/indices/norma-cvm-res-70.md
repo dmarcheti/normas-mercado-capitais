@@ -19,3 +19,5 @@ Norma: [cvm/resolucoes/0070.md](../../../normas/normas/cvm/resolucoes/0070.md) (
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.015856/2026-56 | 2026-11-03 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedidos de interrupção do prazo de convocação e de adiamento da AGE do Grupo Toky S.A. - Em Recuperação Judicial, marcada para 06.11.2026, acompanhando a SEP, que não encontrou elementos de violação nas deliberações nem insuficiência informacional (art. 124, §5º, I e II, da Lei 6.404/1976). | cvm/colegiado/2026/col-20261103-d3649.md |
 | decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre demonstrações financeiras; outra revoga normas; a 70 fixa escala de participação mínima para direitos da Lei 6.404. Sem audiência pública nem AIR, por não alterar obrigações vigentes. | cvm/colegiado/2022/col-20220315-d2516.md |
+
+Fim do subíndice.

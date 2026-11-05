@@ -14,3 +14,5 @@ Norma: [cvm/resolucoes/0029.md](../../../normas/normas/cvm/resolucoes/0029.md) (
 | pas | 19957.013886/2022-02 | 2025-11-25 | parcial | manipulacao-fraude | Apurar eventuais irregularidades relacionadas às práticas de manipulação de preços, operações fraudulentas e uso de práticas não equitativas. Multas e Absolvições. | cvm/pas/2025/19957-013886-2022-02.md |
 | pas | 19957.012778/2022-12 | 2025-02-11 | parcial | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Botafogo Institucional Fundo de Investimento Renda Fixa relativas à data-base de 30/06/2019. Multas e absolvições. | cvm/pas/2025/19957-012778-2022-12.md |
 | pas | 19957.005981/2016-86; RJ2016/7197 | 2019-11-19 | absolvicao | deveres-administradores | Ementa : Responsabilidade de membros do conselho de administração da OGX Petróleo e Gás Participações S.A., por descumprimento do dever de diligência no exercício de suas atribuições. Infração ao art. 153 da Lei nº 6.404/76. Absolvições. | cvm/pas/2019/19957-005981-2016-86.md |
+
+Fim do subíndice.

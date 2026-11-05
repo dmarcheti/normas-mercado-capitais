@@ -21,3 +21,5 @@ Norma: [cvm/resolucoes/0001.md](../../../normas/normas/cvm/resolucoes/0001.md) (
 | acordao-crsfn | RJ2018/157 | 2021-07-14 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS. Ausência de pedido de registro em oferta pública de valores mobiliários. Contrato de investimento coletivo no setor hoteleiro. Recursos conhecidos e providos parcialmente. | crsfn/2021/10372-100238-2019-88.md |
 | acordao-crsfn | RJ2016/8251 | 2020-06-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS. Não conformidade dos trabalhos de auditoria em demonstrações financeiras. Auditoria Independente. Recursos conhecido e parcialmente providos. | crsfn/2020/10372-100018-2019-54.md |
 | termo-compromisso | RJ2014/14763 | 2015-12-22 | rejeitado | auditoria-independente | O Colegiado rejeitou proposta de Termo de Compromisso de R$ 5.000,00 da Loudon Blomquist Auditores Independentes e de seu responsável técnico, acompanhando o Comitê, que a considerou desproporcional à natureza e à gravidade dos atos imputados (descumprimento de normas de auditoria, art. 20 da ICVM 308/1999, na Indústria Verolme S/A - IVESA). | cvm/colegiado/2015/col-20151222-d9997.md |
+
+Fim do subíndice.

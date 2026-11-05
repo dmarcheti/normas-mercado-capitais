@@ -43,3 +43,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2002/6553 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6553. | cvm/colegiado/2009/col-20090317-d02.md |
 | decisao-colegiado | RJ2002/6504 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6504. | cvm/colegiado/2009/col-20090317-d01-r2.md |
+
+Fim do subíndice.

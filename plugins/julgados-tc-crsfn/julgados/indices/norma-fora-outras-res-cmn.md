@@ -8,6 +8,28 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 917 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+res-cmn-1 (33); res-cmn-39 (41); res-cmn-268 (57); res-cmn-401 (65); res-cmn-436 (73); res-cmn-457 (87)
+res-cmn-474 (95); res-cmn-702 (103); res-cmn-922 (111); res-cmn-961 (133); res-cmn-1014 (143)
+res-cmn-1025 (151); res-cmn-1060 (165); res-cmn-1065 (173); res-cmn-1120 (183); res-cmn-1133 (191)
+res-cmn-1146 (207); res-cmn-1190 (215); res-cmn-1220 (223); res-cmn-1231 (232); res-cmn-1259 (240)
+res-cmn-1282 (248); res-cmn-1298 (256); res-cmn-1323 (264); res-cmn-1377 (272); res-cmn-1397 (280)
+res-cmn-1423 (288); res-cmn-1551 (297); res-cmn-1559 (306); res-cmn-1645 (314); res-cmn-1653 (330)
+res-cmn-1665 (338); res-cmn-1748 (346); res-cmn-1832 (360); res-cmn-1907 (374); res-cmn-1970 (382)
+res-cmn-2002 (396); res-cmn-2109 (404); res-cmn-2228 (412); res-cmn-2238 (421); res-cmn-2324 (429)
+res-cmn-2451 (443); res-cmn-2486 (462); res-cmn-2549 (478); res-cmn-2554 (486); res-cmn-2565 (506)
+res-cmn-2616 (514); res-cmn-2656 (522); res-cmn-2688 (530); res-cmn-2691 (538); res-cmn-2774 (546)
+res-cmn-2823 (554); res-cmn-2829 (563); res-cmn-2832 (581); res-cmn-2838 (590); res-cmn-2873 (618)
+res-cmn-2878 (626); res-cmn-2917 (634); res-cmn-2931 (642); res-cmn-3040 (653); res-cmn-3059 (661)
+res-cmn-3121 (669); res-cmn-3198 (684); res-cmn-3245 (692); res-cmn-3284 (700); res-cmn-3347 (708)
+res-cmn-3380 (716); res-cmn-3464 (724); res-cmn-3490 (732); res-cmn-3533 (740); res-cmn-3539 (748)
+res-cmn-3627 (756); res-cmn-3656 (764); res-cmn-3689 (772); res-cmn-3790 (780); res-cmn-3792 (788)
+res-cmn-3922 (802); res-cmn-3992 (858); res-cmn-4373 (866); res-cmn-4604 (876); res-cmn-4661 (893)
+res-cmn-4693 (901); res-cmn-4963 (909)
+
 ## res-cmn-1
 
 ### Citada sem dispositivo identificado
@@ -891,3 +913,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | administracao-carteiras | RECURSOS ADMINISTRATIVOS. CVM. FALTA DO DEVER DE DILIGÊNCIA. ADMINISTRADOR FIDUCIÁRIO DE FUNDO DE INVESTIMENTO. Violação aos deveres de boa-fé, transparência, diligência e lealdade aos clientes pelo administrador de carteira de valores mobiliários. Infração caracterizada. Recursos conhecidos e desprovidos. | crsfn/2024/10372-100089-2022-52.md |
+
+Fim do subíndice.

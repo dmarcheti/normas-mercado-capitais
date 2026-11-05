@@ -72,3 +72,5 @@ Norma: fora do acervo.
 | pas | SP2002/0098 | 2003-09-11 | parcial | manipulacao-fraude | Realização de operação fraudulenta em infração ao item I, da Instrução CVM nº 08/79- absolvição e proibição. Infração aos artigos 3º, 4º e 5º, da Instrução CVM nº 220/94, e ao item III do artigo 11 do Regulamento à Resolução nº 1.655/89 do Conselho Monetário Nacional - absolvição. | cvm/pas/2003/sp2002-0098.md |
 | pas | SP2001/0725 | 2003-03-13 | condenacao | exercicio-irregular | [pessoa física], UNITAS DTVM E OUTROS a) O intermediário se torna responsável pelos atos praticados em decorrência do cadastramento de clientes com base em documentos falsos; b) Somente as pessoas previamente autorizadas pela CVM podem exercer a atividade de mediação fora dos mercados permitidos. | cvm/pas/2003/sp2001-0725.md |
 | pas | RJ2001/3809 | 2002-04-25 | condenacao | exercicio-irregular | [pessoa física] Intermediação irregular no mercado de valores mobiliários, por pessoa não integrante do sistema de intermediação previsto no art. 16, parágrafo único, combinado com o art. 15 da Lei 6.385/76. | cvm/pas/2002/rj2001-3809.md |
+
+Fim do subíndice.

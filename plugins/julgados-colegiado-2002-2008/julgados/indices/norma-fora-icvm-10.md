@@ -7,6 +7,35 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 338 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 39 |
+| art. 2º | 56 |
+| art. 3º | 90 |
+| art. 5º | 118 |
+| art. 6º | 126 |
+| art. 7º | 134 |
+| art. 8º | 150 |
+| art. 9º | 157 |
+| art. 9º-A | 190 |
+| art. 10 | 197 |
+| art. 11 | 204 |
+| art. 12 | 211 |
+| art. 14 | 219 |
+| art. 15 | 232 |
+| art. 16 | 238 |
+| art. 21 | 247 |
+| art. 22 | 256 |
+| art. 23 | 262 |
+| art. 24 | 307 |
+| art. 25 | 316 |
+| art. 30 | 322 |
+| Citada sem dispositivo identificado | 328 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -305,3 +334,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1985-01-17 | — | — | Decisões do colegiado de 1985. | cvm/decisoes-antigas/1985.md |
 | decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | cvm/decisoes-antigas/1984.md |
 | decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | cvm/decisoes-antigas/1980.md |
+
+Fim do subíndice.

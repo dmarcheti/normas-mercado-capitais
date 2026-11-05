@@ -7,6 +7,45 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 5188 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (49); art. 2º (56); art. 3º (73); art. 4º (80); art. 4º-A (121); art. 6º (133); art. 7º (139)
+art. 8º (146); art. 9º (174); art. 10 (182); art. 11 (193); art. 12 (205); art. 13 (213); art. 15 (220)
+art. 16 (231); art. 17 (240); art. 18 (255); art. 19 (266); art. 20 (275); art. 21 (281); art. 22 (289)
+art. 23 (296); art. 26 (302); art. 27 (309); art. 28 (315); art. 29 (323); art. 30 (331); art. 31 (351)
+art. 32 (358); art. 33 (364); art. 34 (371); art. 35 (382); art. 36 (389); art. 37 (397); art. 40 (403)
+art. 41 (410); art. 44 (427); art. 45 (437); art. 52 (448); art. 53 (455); art. 54 (461); art. 55 (467)
+art. 56 (473); art. 57 (479); art. 59 (487); art. 61 (494); art. 62 (501); art. 65 (510); art. 68 (516)
+art. 71 (548); art. 77 (557); art. 80 (563); art. 83 (569); art. 89 (575); art. 98 (581); art. 100 (589)
+art. 103 (631); art. 104 (638); art. 105 (644); art. 107 (652); art. 109 (658); art. 111 (699); art. 113 (712)
+art. 114 (718); art. 115 (726); art. 116 (816); art. 116-A (941); art. 117 (947); art. 118 (1161)
+art. 119 (1192); art. 120 (1199); art. 121 (1205); art. 122 (1214); art. 123 (1225); art. 124 (1267)
+art. 125 (1298); art. 126 (1305); art. 128 (1320); art. 130 (1332); art. 131 (1342); art. 132 (1348)
+art. 133 (1488); art. 134 (1584); art. 135 (1622); art. 136 (1630); art. 137 (1649); art. 138 (1665)
+art. 139 (1691); art. 140 (1703); art. 141 (1716); art. 142 (1750); art. 143 (2099); art. 144 (2115)
+art. 145 (2135); art. 146 (2146); art. 147 (2165); art. 149 (2196); art. 150 (2208); art. 151 (2256)
+art. 152 (2279); art. 153 (2303); art. 153-O (2574); art. 154 (2580); art. 155 (2784); art. 156 (3043)
+art. 157 (3134); art. 158 (3342); art. 159 (3438); art. 160 (3483); art. 161 (3495); art. 162 (3564)
+art. 163 (3578); art. 164 (3648); art. 165 (3658); art. 166 (3692); art. 168 (3705); art. 169 (3713)
+art. 170 (3722); art. 171 (3840); art. 172 (3856); art. 173 (3863); art. 174 (3873); art. 175 (3882)
+art. 176 (3888); art. 177 (4132); art. 178 (4272); art. 179 (4287); art. 180 (4306); art. 181 (4314)
+art. 182 (4320); art. 183 (4330); art. 184 (4351); art. 185 (4363); art. 186 (4370); art. 187 (4381)
+art. 188 (4391); art. 189 (4397); art. 190 (4412); art. 191 (4420); art. 192 (4429); art. 193 (4440)
+art. 194 (4449); art. 195 (4460); art. 195-A (4470); art. 196 (4478); art. 197 (4499); art. 198 (4508)
+art. 199 (4516); art. 200 (4524); art. 201 (4533); art. 202 (4545); art. 203 (4581); art. 204 (4591)
+art. 205 (4597); art. 206 (4610); art. 210 (4617); art. 219 (4623); art. 220 (4631); art. 221 (4637)
+art. 223 (4643); art. 224 (4649); art. 225 (4661); art. 226 (4670); art. 227 (4679); art. 230 (4691)
+art. 233 (4697); art. 235 (4703); art. 236 (4713); art. 237 (4720); art. 238 (4729); art. 239 (4746)
+art. 240 (4762); art. 241 (4776); art. 242 (4782); art. 243 (4788); art. 244 (4799); art. 245 (4812)
+art. 246 (4846); art. 247 (4856); art. 248 (4866); art. 249 (4873); art. 251 (4882); art. 252 (4889)
+art. 253 (4897); art. 254 (4904); art. 254-A (4916); art. 256 (4932); art. 257 (4951); art. 264 (4957)
+art. 265 (4976); art. 266 (4991); art. 267 (4999); art. 269 (5005); art. 270 (5011); art. 273 (5017)
+art. 274 (5033); art. 276 (5039); art. 278 (5045); art. 285 (5052); art. 286 (5059); art. 287 (5072)
+art. 288 (5088); art. 289 (5094); art. 291 (5101); art. 300 (5108); art. 453 (5114)
+Citada sem dispositivo identificado (5120)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -5145,3 +5184,5 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | pas | 10/2002 | 2004-09-08 | condenacao | deveres-administradores | Transferência de obrigações e relacionamento com partes relacionadas sem constar, de forma adequada, de nota explicativa; - Utlização de bens e crédito da companhia aberta em proveito de seu controlador e administrador; e - Falta de diligência dos diretores e dos membros do Conselho de Administração. | cvm/pas/2004/10-2002.md |
 | pas | 08/2000 | 2002-04-04 | condenacao | auditoria-independente | AUDITORIA CONTÁBIL DE EMPRESAS E OUTRO Auditoria inepta de demonstrações financeiras de companhias incentivadas. Infração Grave. Reincidência. Cancelamento do registro de auditor independente. | cvm/pas/2002/08-2000.md |
 | pas | 33/1999 | 2001-08-30 | parcial | manipulacao-fraude | AÇÃO S/A CVC, [pessoa física] E OUTROS Ementa: I. Empréstimo de ações intermediado por corretora, em prejuízo dos clientes. Operação fraudulenta nos termos da Instrução CVM 8/79. Multa sobre o valor da operação. II. Descumprimento da Instrução CVM 51/86. Multa. III. Irregularidades operacionais de corretora apontadas por auditorias da BVRJ. Inabilitação temporária do diretor e multa à sociedade. IV. Absolvição dos demais indiciados. | cvm/pas/2001/33-1999.md |
+
+Fim do subíndice.

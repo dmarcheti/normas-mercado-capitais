@@ -56,3 +56,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2012/12161 | 2012-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2012/12161. | cvm/colegiado/2012/col-20121030-d05.md |
 | decisao-colegiado | RJ2011/11867 | 2011-11-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2011/11867. | cvm/colegiado/2011/col-20111101-d10.md |
 | decisao-colegiado | RJ2000/5537 | 2010-04-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2000/5537. | cvm/colegiado/2010/col-20100427-d02.md |
+
+Fim do subíndice.

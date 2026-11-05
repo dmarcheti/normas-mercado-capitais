@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 419 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2017-12 | 29 |
+| 2017-11 | 49 |
+| 2017-10 | 64 |
+| 2017-09 | 101 |
+| 2017-08 | 124 |
+| 2017-07 | 154 |
+| 2017-06 | 183 |
+| 2017-05 | 215 |
+| 2017-04 | 237 |
+| 2017-03 | 277 |
+| 2017-02 | 321 |
+| 2017-01 | 353 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | 19957.011712/2017-30 | 2017-12-28 | indeferido | assembleia-acionistas | Pedido de interrupção do prazo de convocação de assembleia geral extraordinária da eletropaulo metropolitana eletricidade de são paulo S.A. Proc. SEI 19957.011712/2017-30. | cvm/colegiado/2017/col-20171228-d0887.md |
@@ -396,3 +415,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 19957.008828/2016-19 | 2017-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008828/2016-19. | cvm/colegiado/2017/col-20170103-d0459.md |
 | 19957.008827/2016-66 | 2017-01-03 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.008827/2016-66. | cvm/colegiado/2017/col-20170103-d0458.md |
 | RJ2015/6842 | 2017-01-03 | outro | processual | O Colegiado determinou o arquivamento do processo após a SAD atestar que o pagamento previsto no Termo de Compromisso ocorreu na forma convencionada, sem obrigação adicional a ser cumprida. | cvm/colegiado/2017/col-20170103-d0297.md |
+
+Fim do subíndice.

@@ -18,3 +18,5 @@ Norma: [cmn/resolucoes/2907.md](../../../normas/normas/cmn/resolucoes/2907.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 356/2001; RJ2015/2614 | 2015-05-26 | deferido | fundos-investimento | O Colegiado, por maioria, deferiu à administradora Gradual CCTVM S.A. a dispensa do art. 38, §7º, II, da ICVM 356/2001 para o Itapeva VII Multicarteira FIDC-NP, permitindo aos cedentes guardar os documentos dos direitos creditórios, desde que atendidas as exigências da área técnica (Memorando 16/2015-CVM/SIN/GIE). Vencido um diretor. | cvm/colegiado/2015/col-20150526-d9654.md |
+
+Fim do subíndice.

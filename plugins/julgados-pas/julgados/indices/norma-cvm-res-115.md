@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0115.md](../../../normas/normas/cvm/resolucoes/0115.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | pas | 19957.000690/2024-10 | 2025-12-09 | outro | auditoria-independente | Apuração de responsabilidades por suposta inobservância das normas contábeis e de auditoria independente referentes à mensuração de valor justo em demonstrações financeiras de fundos de investimento em participações. Inépcia da acusação. | cvm/pas/2025/19957-000690-2024-10.md |
+
+Fim do subíndice.

@@ -200,3 +200,5 @@ Norma: fora do acervo.
 | art. 2º | decisao-colegiado | RJ2008/6569 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6569. | cvm/colegiado/2008/col-20080805-d10.md |
 | art. 2º | decisao-colegiado | RJ2008/6574 | 2008-08-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6574. | cvm/colegiado/2008/col-20080812-d14.md |
 | art. 2º | decisao-colegiado | RJ2008/6713 | 2008-08-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2008/6713. | cvm/colegiado/2008/col-20080819-d07.md |
+
+Fim do subíndice.

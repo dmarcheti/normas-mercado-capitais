@@ -7,6 +7,26 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 936 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 8º (30); art. 13 (36); art. 14 (42); art. 15 (50); art. 25 (63); art. 41 (69); art. 45 (75); art. 50 (81)
+art. 55 (87); art. 77 (93); art. 80 (99); art. 83 (105); art. 85 (112); art. 88 (122); art. 94 (128)
+art. 109 (134); art. 112 (140); art. 114 (146); art. 116 (152); art. 128 (158); art. 130 (164); art. 131 (173)
+art. 132 (181); art. 134 (187); art. 135 (193); art. 140 (199); art. 144 (205); art. 145 (211); art. 155 (217)
+art. 157 (224); art. 184 (231); art. 191 (237); art. 192 (258); art. 216 (265); art. 219 (274); art. 223 (280)
+art. 229 (286); art. 231 (297); art. 233 (304); art. 238 (310); art. 239 (316); art. 240 (322); art. 241 (328)
+art. 243 (335); art. 265 (341); art. 269 (347); art. 274 (357); art. 284 (363); art. 295 (369); art. 330 (375)
+art. 333 (381); art. 336 (387); art. 337 (393); art. 344 (400); art. 364 (406); art. 365 (412); art. 370 (419)
+art. 378 (425); art. 398 (432); art. 401 (438); art. 408 (445); art. 458 (451); art. 460 (457); art. 463 (463)
+art. 472 (470); art. 475 (477); art. 485 (485); art. 487 (494); art. 489 (502); art. 492 (523); art. 496 (529)
+art. 502 (535); art. 503 (541); art. 507 (547); art. 509 (553); art. 515 (559); art. 527 (565); art. 535 (571)
+art. 545 (586); art. 563 (592); art. 585 (598); art. 692 (607); art. 783 (615); art. 784 (621); art. 867 (628)
+art. 879 (634); art. 890 (640); art. 926 (647); art. 927 (653); art. 932 (662); art. 942 (669); art. 961 (675)
+art. 966 (681); art. 1.003 (688); art. 1.005 (694); art. 1.008 (701); art. 1.012 (707); art. 1.022 (714)
+art. 1.026 (730); art. 1.046 (736); art. 1.067 (742); Citada sem dispositivo identificado (748)
+
 ## art. 8º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -912,3 +932,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ-2001-8028 | 2008-08-28 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Auditor independente – Irregularidade no registro de auditor na CVM, por decorrência de falhas verificadas no obrigatório e preliminar registro efetuado no respectivo Conselho Regional de Contabilidade – Infração configurada – Arquivamento do processo quanto à matéria objeto da subida compulsória - Apelos a que se nega provimento. | crsfn/2008/9057.md |
 | acordao-crsfn | 08/01 | 2007-08-30 | arquivamento | ofertas-publicas | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Esforço de colocação, a investidores residentes e domiciliados no Brasil, cotas emitidas por investidor estrangeiro registrado na CVM – Inserção, a destempo, em prospecto, de alerta relativo a restrição de participação, em fundo de investimento, de cotistas residentes e domiciliados no País – Acolhimento anterior pelo Plenário do CRSFN, para fins de juntada aos vertentes autos, de peça explicitadora das razões de defesa originais – Falta de suficientes elementos comprobatórios de deflagração de procedimentos voltados para subscrição de cotas em desarmonia com norma baixada pelo Conselho Monetário Nacional e de atendimento a cobrança de documentação formulada pela autoridade fiscalizadora – Ausência de má-fé – Irregularidades não caracterizadas – Apelos a que se dá provimento. | crsfn/2007/6255.md |
 | acordao-crsfn | SP-2001-240 | 2007-04-25 | parcial | manipulacao-fraude | RECURSO VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício também improvido. | crsfn/2007/6187.md |
+
+Fim do subíndice.

@@ -7,6 +7,44 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 327 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 48 |
+| art. 11 | 55 |
+| art. 14 | 61 |
+| art. 15 | 68 |
+| art. 22 | 76 |
+| art. 24 | 95 |
+| art. 25 | 105 |
+| art. 27 | 117 |
+| art. 30 | 128 |
+| art. 31 | 136 |
+| art. 33 | 150 |
+| art. 42 | 166 |
+| art. 43 | 174 |
+| art. 44 | 180 |
+| art. 46 | 186 |
+| art. 48 | 192 |
+| art. 49 | 199 |
+| art. 50 | 214 |
+| art. 51 | 222 |
+| art. 52 | 228 |
+| art. 55 | 234 |
+| art. 57 | 240 |
+| art. 58 | 249 |
+| art. 59 | 255 |
+| art. 60 | 263 |
+| art. 65 | 274 |
+| Anexo F, art. 1º | 286 |
+| Anexo F, art. 2º-A | 293 |
+| Anexo K, art. 2º | 299 |
+| Anexo K, art. 6º | 306 |
+| Citada sem dispositivo identificado | 312 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -285,3 +323,5 @@ Norma: [cvm/resolucoes/0080.md](../../../normas/normas/cvm/resolucoes/0080.md) (
 | pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | divulgacao-informacoes | Infrações ao art. 12, I, da Instrução CVM nº 265/1997 e ao art. 11, I, da Resolução CVM nº 10/2020, pela não apresentação de demonstrações financeiras à CVM, nos devidos termos e prazos; e ao art. 132 c/c art. 123 da Lei nº 6.404/1976, por não diligenciar para a realização de assembleia geral ordinária no prazo legal. Multas. | cvm/pas/2023/19957-009685-2021-11.md |
 | pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | deveres-administradores | Irregularidades relacionadas a (i) conflito de interesses, em violação ao art. 115, §1º, da Lei nº 6.404/1976; (ii) dever de diligência, em infração ao art. 153 da Lei n° 6.404/1976; e (iii) questões informacionais, por descumprimento do art. 3º da Instrução CVM nº 358/2002 c/c art. 157, §4º, da Lei n° 6.404/1976; e dos arts. 24 e 30- XXXIII da Instrução CVM nº 480/2009. Multas e absolvições. | cvm/pas/2022/19957-004392-2020-67.md |
 | pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | deveres-administradores | Irregularidades em processo de aumento de capital social, relativas a (i) diluição injustificada, em infração aos arts. 153 c/c 170, §§1º e 7º, da Lei nº 6.404/1976; e ao art. 2º, IX, do Anexo 30-XXXII da Instrução CVM nº 480/2009; e (ii) conflito de interesses, em violação aos arts. 115, §1º, e 156 da Lei nº 6.404/197. Absolvições. | cvm/pas/2022/19957-003175-2020-50.md |
+
+Fim do subíndice.

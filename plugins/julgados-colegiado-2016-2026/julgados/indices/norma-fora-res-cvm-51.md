@@ -38,3 +38,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.004259/2022-72 | 2022-05-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. SEI 19957.004259/2022-72. | cvm/colegiado/2022/col-20220517-d2583.md |
 | decisao-colegiado | 19957.002070/2022-45 | 2022-03-23 | outro | normativo | O Colegiado aprovou a Resolução CVM nº 79/2022, que revoga normas consideradas obsoletas (incluindo as Instruções CVM nºs 200/1993, 280/1998 e 424/2005) no trabalho de consolidação determinado pelo Decreto nº 10.139/2019, com dispensa automática de AIR (art. 4º, IV, do Decreto nº 10.411/2020). | cvm/colegiado/2022/col-20220323-d2538.md |
 | decisao-colegiado | 19957.006766/2021-60 | 2021-08-31 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM nº 51/2021, que dispõe sobre o cadastro de participantes do mercado na CVM e revoga a Instrução CVM nº 510/2011, em revisão de atualização de referências sem mudança de mérito. Dispensou audiência pública e análise de impacto regulatório. A Instrução CVM nº 424/2005 ficou fora da revisão. | cvm/colegiado/2021/col-20210831-d2293.md |
+
+Fim do subíndice.

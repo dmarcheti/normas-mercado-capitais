@@ -153,3 +153,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | RJ98/3936 | 2000-07-28 | absolvicao | outros | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Derivativos – Realização em mercados organizados – Rendimentos predeterminados – Falta de caracterização da irregularidade – Recurso improvido. | crsfn/2000/3038.md |
 | acordao-crsfn | 08/92 | 1997-05-22 | absolvicao | outros | RECURSO DE OFÍCIO I) Aquisição de ações de emissão própria da Companhia de Seguros da Bahia, para cancelamento, com infringência ao Art. 3º da IN CVM 10/80. II) Descumprimento de requisitos quanto à imediata publicação de ata da RCA que aprovou o feito e quanto à imediata comunicação à CVM - Improvimento dos apelos. | crsfn/1997/1962.md |
 | acordao-crsfn | 09/90 | 1996-04-16 | condenacao | outros | RECURSOS VOLUNTÁRIOS. Atos ilegais relacionados com a negociação no mercado de balcão de ações de emissão de empresa fechada. Embaraço à fiscalização. Recursos não providos. | crsfn/1996/1323.md |
+
+Fim do subíndice.

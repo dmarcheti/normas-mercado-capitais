@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 4855 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+art. 1º (45); art. 2º (52); art. 3º (58); art. 4º (64); art. 4º-A (99); art. 7º (109); art. 8º (117)
+art. 10 (135); art. 11 (142); art. 12 (153); art. 13 (159); art. 15 (166); art. 16 (172); art. 17 (178)
+art. 19 (191); art. 20 (200); art. 23 (206); art. 25 (213); art. 27 (219); art. 29 (225); art. 30 (231)
+art. 31 (250); art. 32 (256); art. 33 (262); art. 35 (270); art. 41 (276); art. 44 (288); art. 45 (298)
+art. 52 (308); art. 53 (314); art. 54 (321); art. 55 (327); art. 56 (333); art. 57 (341); art. 58 (349)
+art. 59 (355); art. 60 (363); art. 61 (370); art. 62 (377); art. 63 (388); art. 64 (394); art. 65 (401)
+art. 66 (407); art. 67 (415); art. 68 (421); art. 69 (436); art. 70 (442); art. 71 (448); art. 72 (455)
+art. 73 (462); art. 74 (468); art. 77 (474); art. 78 (481); art. 89 (487); art. 94 (493); art. 98 (502)
+art. 100 (508); art. 106 (525); art. 107 (531); art. 109 (538); art. 111 (570); art. 113 (582); art. 114 (588)
+art. 115 (595); art. 116 (692); art. 116-A (789); art. 117 (797); art. 118 (995); art. 120 (1018)
+art. 121 (1024); art. 122 (1033); art. 123 (1043); art. 124 (1079); art. 125 (1119); art. 126 (1127)
+art. 128 (1150); art. 129 (1162); art. 131 (1168); art. 132 (1174); art. 133 (1320); art. 134 (1431)
+art. 135 (1461); art. 136 (1475); art. 137 (1494); art. 138 (1502); art. 139 (1518); art. 140 (1528)
+art. 141 (1541); art. 142 (1566); art. 143 (1842); art. 144 (1859); art. 145 (1868); art. 146 (1877)
+art. 147 (1887); art. 149 (1911); art. 150 (1920); art. 151 (1953); art. 152 (1965); art. 153 (1995)
+art. 154 (2291); art. 155 (2483); art. 156 (2868); art. 157 (2938); art. 158 (3262); art. 159 (3300)
+art. 160 (3329); art. 161 (3349); art. 162 (3402); art. 163 (3413); art. 164 (3490); art. 165 (3496)
+art. 166 (3524); art. 168 (3536); art. 169 (3546); art. 170 (3552); art. 171 (3646); art. 172 (3674)
+art. 173 (3680); art. 174 (3692); art. 176 (3700); art. 177 (3941); art. 178 (4090); art. 179 (4102)
+art. 180 (4112); art. 182 (4119); art. 183 (4126); art. 184 (4144); art. 185 (4155); art. 186 (4161)
+art. 189 (4169); art. 192 (4189); art. 193 (4199); art. 194 (4211); art. 195 (4234); art. 196 (4247)
+art. 197 (4272); art. 198 (4286); art. 199 (4296); art. 200 (4308); art. 201 (4318); art. 202 (4328)
+art. 203 (4362); art. 204 (4376); art. 205 (4384); art. 206 (4400); art. 219 (4406); art. 221 (4412)
+art. 223 (4422); art. 224 (4428); art. 225 (4437); art. 226 (4444); art. 227 (4451); art. 230 (4459)
+art. 235 (4465); art. 236 (4471); art. 237 (4477); art. 238 (4483); art. 239 (4495); art. 240 (4508)
+art. 243 (4521); art. 244 (4527); art. 245 (4536); art. 246 (4574); art. 247 (4581); art. 248 (4589)
+art. 249 (4596); art. 251 (4604); art. 252 (4611); art. 253 (4624); art. 254 (4635); art. 254-A (4642)
+art. 256 (4661); art. 264 (4684); art. 265 (4697); art. 266 (4708); art. 267 (4714); art. 273 (4720)
+art. 276 (4728); art. 286 (4734); art. 287 (4740); art. 288 (4751); art. 289 (4757); art. 291 (4765)
+art. 294 (4771); art. 453 (4779); Citada sem dispositivo identificado (4785)
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -4816,3 +4851,5 @@ Norma: [leis/lei-06404/index.md](../../../normas/normas/leis/lei-06404/index.md)
 | acordao-crsfn | 02/2000 | 2002-06-27 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Falta de atualização do registro de companhia aberta e de envio de informações exigidas em normativo regulamentar – Reincidência específica – Irregularidades de natureza grave caracterizadas – Apelo a que nega provimento. | crsfn/2002/3853.md |
 | termo-compromisso | IA19/2000 | 2002-05-29 | aceito | divulgacao-informacoes | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia. Auditores: atualização de sistemas de informação, seminário ou curso, contribuição voluntária de R$ 60.000,00 cada e, na Carbomil, sem emissão de valores mobiliários por dois anos. A PJU não viu óbice. | cvm/colegiado/2002/col-20020529-d3018.md |
 | acordao-crsfn | 25/96 | 2000-05-30 | condenacao | opa | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Alienação de controle acionário de companhias – Forma direta – Ausência de oferta pública nos moldes ditados pela Lei das Sociedades por Ações – Inadequada metodologia de cálculo do preço de compra das ações e das condições de pagamento apresentadas aos minoritários – Caracterização da irregularidade – Apelo improvido. | crsfn/2000/2912.md |
+
+Fim do subíndice.

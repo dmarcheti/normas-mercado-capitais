@@ -68,3 +68,5 @@ Norma: [cvm/resolucoes/0160.md](../../../normas/normas/cvm/resolucoes/0160.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.001169/2025-72 | 2025-11-04 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 470.000,00 do DRI da Companhia Brasileira de Distribuição por suposta falta de divulgação tempestiva de fato relevante após oscilações atípicas em 05.12.2023, acompanhando o Comitê, que elevou a proposta inicial de R$ 300.000,00. | cvm/colegiado/2025/col-20251104-d3410.md |
+
+Fim do subíndice.

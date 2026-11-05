@@ -203,3 +203,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2009/0125 | 2010-08-03 | deferido | infraestrutura-mercado | O Colegiado deferiu, com exigências, pedido da BM&FBOVESPA para reestruturar o DMA 1 e implantar os DMA 2, 3 e 4 no Segmento Bovespa. Exigências incluem relatório sobre a capacidade dos sistemas (até 30 de agosto), projeto de controles de risco (até 30.11.2010) e comunicação prévia à BSM. | cvm/colegiado/2010/col-20100803-d09.md |
 | decisao-colegiado | SP2010/0038 | 2010-06-16 | deferido | normativo | O Colegiado deferiu pedido da ANBIMA e prorrogou até 21.07.10 o prazo para comentários à minuta de Instrução sobre o agente autônomo de investimento (Audiência Pública 03/10). | cvm/colegiado/2010/col-20100616-d01.md |
 | decisao-colegiado | SP2010/0038 | 2010-04-07 | outro | normativo | O Colegiado aprovou, para audiência pública de sessenta dias, minuta de Instrução que altera a regulamentação do agente autônomo de investimento, substituindo a Instrução 434/06 e a Deliberação 524/07. A SDM consolidará as sugestões recebidas. | cvm/colegiado/2010/col-20100407-d01-r2.md |
+
+Fim do subíndice.

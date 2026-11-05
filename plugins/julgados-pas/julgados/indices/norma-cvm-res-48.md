@@ -15,3 +15,5 @@ Norma: [cvm/resolucoes/0048.md](../../../normas/normas/cvm/resolucoes/0048.md) (
 | pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | divulgacao-informacoes | Apurar supostas irregularidades no envio de Demonstrações Financeiras. . Multa. | cvm/pas/2024/19957-001933-2021-86.md |
 | pas | 19957.004478/2018-75 | 2023-06-20 | parcial | manipulacao-fraude | Operação fraudulenta e descumprimento de dever de diligência relativo a falhas informacionais, no âmbito de oferta pública de distribuição de debêntures com esforços restritos, em infração ao item I c/c item II, “c”, da Instrução CVM nº 8/1979, e ao art. 11, I, da Instrução CVM nº 476/2009. Multas, proibição e absolvição. | cvm/pas/2023/19957-004478-2018-75.md |
 | pas | RJ2015/10677 | 2017-02-07 | absolvicao | deveres-administradores | Suposto exercício abusivo do poder de controle por parte da União Federal. Absolvição. | cvm/pas/2017/rj2015-10677.md |
+
+Fim do subíndice.

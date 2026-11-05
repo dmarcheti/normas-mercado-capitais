@@ -225,3 +225,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2015/13127 | 2016-08-23 | rejeitado | auditoria-independente | O Colegiado rejeitou, acompanhando o Comitê, proposta conjunta de termo de compromisso da Ernst & Young Auditores Independentes S/S e de dois responsáveis técnicos, de R$ 50.000,00, por considerar inconveniente a celebração diante da natureza e gravidade do caso. | cvm/colegiado/2016/col-20160823-d0335.md |
+
+Fim do subíndice.

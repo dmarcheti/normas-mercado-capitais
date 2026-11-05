@@ -7,6 +7,20 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 439 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 24 |
+| art. 3º | 42 |
+| art. 4º | 51 |
+| art. 5º | 74 |
+| art. 8º | 81 |
+| art. 14 | 94 |
+| Citada sem dispositivo identificado | 426 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -421,3 +435,5 @@ Norma: fora do acervo.
 | pas | SP2001/0386 | 2003-09-03 | absolvicao | pld | Não comprovada a acusação de inexistência de controles internos da corretora que permitissem atestar a ocorrência de lavagem de dinheiro, de que trata o artigo 7º, inciso II, e artigo 9º, da Instrução CVM nº 301/99. Absolvição. | cvm/pas/2003/sp2001-0386.md |
 | pas | RJ2002/1153 | 2002-11-06 | absolvicao | assembleia-acionistas | PREVI E FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL (TELE NORTE LESTE PARTICIPAÇÕES S/A) Julgamento do Inquérito Administrativo CVM nº RJ 2002/1153, de 06/11/2002 - PREVI e SISTEL, acionistas da TELEMAR - Voto de acionista - Conflito de Interesses - Absolvição. | cvm/pas/2002/rj2002-1153.md |
 | pas | 35/1998 | 2000-09-21 | absolvicao | manipulacao-fraude | [pessoa física], MERRILL LYNCH DTVM, MERRILL LYNCH CAPITAL MARKETS PLC, [pessoa física], CITIBANK DTVM S/A Contrato futuro de índice Ibovespa. Operação de "hedge". Liquidação, no vencimento, de posição detida por investidor atuando nos termos do Regulamento anexo IV à Resolução CMN nº 1289/87 com carteira de ações de composição semelhante à do Ibovespa, bem como, atuando como investidor direto, detentor de contratos futuros de índice de valor semelhante ao da carteira de ações por ele detida na qualidade de investidor Anexo IV. Forte pressão vendedora no mercado à vista. Queda do Ibovespa. – Não utilização de qualquer artifício ou intenção de provocar queda da cotação Ibovespa, induzindo terceiros a negociá-los. Absolvição. | cvm/pas/2000/35-1998.md |
+
+Fim do subíndice.

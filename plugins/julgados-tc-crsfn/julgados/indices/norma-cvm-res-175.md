@@ -25,3 +25,5 @@ Norma: [cvm/resolucoes/0175/index.md](../../../normas/normas/cvm/resolucoes/0175
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.009152/2018-34 | 2025-03-11 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. IRREGULARIDADES EM OPERAÇÕES COM CONTRATOS DERIVATIVOS. Infrações caracterizadas. Recursos conhecidos. Parciais provimentos. Desprovimentos. | crsfn/2025/10372-000077-2024-91.md |
 | acordao-crsfn | 19957.007862/2018-20 | 2025-02-11 | parcial | manipulacao-fraude | RECURSOS ADMINISTRATIVOS. CVM. FUNDOS DE INVESTIMENTOS. IRREGULARIDADES EM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS. PRÁTICA DE OPERAÇÃO FRAUDULENTA. FALHA NO DEVER DE FISCALIZAR TERCEIRO CONTRATADO. Infrações caracterizadas para 1 (um) Recorrente pessoa jurídica e 3 (três) Recorrentes pessoas físicas. Recursos conhecidos. Provimentos. Desprovimentos. | crsfn/2025/10372-100110-2023-09.md |
+
+Fim do subíndice.

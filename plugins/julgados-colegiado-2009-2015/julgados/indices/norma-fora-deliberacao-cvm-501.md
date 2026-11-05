@@ -25,3 +25,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | cvm/colegiado/2013/col-20130226-d01.md |
 | decisao-colegiado | RJ2011/8139 | 2011-12-27 | provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8139. | cvm/colegiado/2011/col-20111227-d08.md |
 | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2011/6936. | cvm/colegiado/2011/col-20110920-d13.md |
+
+Fim do subíndice.

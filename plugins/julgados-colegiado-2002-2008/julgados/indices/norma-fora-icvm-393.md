@@ -27,3 +27,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/12492 | 2004-02-11 | deferido | fundos-investimento | Pedido de registro do FIDC fundo de investimento em direito creditório com créditos não performados. Proc. RJ2003/12492. | cvm/colegiado/2004/col-20040211-d08.md |
 | decisao-colegiado | RJ2003/12413 | 2004-02-11 | deferido | fundos-investimento | O Colegiado acolheu o pedido de registro do FIDC Copesul, que adquire direitos creditórios não performados sem seguro ou garantia, conforme entendimento da área técnica: a agência classificadora apresentou a classificação da companhia originadora e os motivos das diferenças em relação às cotas. | cvm/colegiado/2004/col-20040211-d07.md |
 | decisao-colegiado | RJ2003/7972 | 2003-12-02 | deferido | fundos-investimento | O Colegiado concedeu autorização especial para que os fundos Gouda e HSBC Marken recebam debêntures NET e as repassem aos quotistas, nos termos da IN CVM 394/2003, acompanhando o voto da relatora. | cvm/colegiado/2003/col-20031202-d01.md |
+
+Fim do subíndice.

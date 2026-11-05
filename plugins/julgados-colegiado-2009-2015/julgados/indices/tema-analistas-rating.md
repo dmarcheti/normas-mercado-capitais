@@ -19,3 +19,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | RJ2008/10842 | 2011-03-02 | — | analistas-rating | O Colegiado ouviu apresentação da SDM sobre a regulação internacional das agências de classificação de risco. Sem deliberação. | cvm/colegiado/2011/col-20110302-d01.md |
 | decisao-colegiado | RJ2010/1108 | 2010-07-06 | deferido | analistas-rating | O Colegiado concedeu à APIMEC autorização para atuar como entidade credenciadora de analistas de valores mobiliários, condicionada à vigência da nova Instrução e ao atendimento das exigências do voto do relator (revisão dos Códigos de Processos, de Conduta e de Educação Continuada). | cvm/colegiado/2010/col-20100706-d08.md |
 | decisao-colegiado | 03/2008; RJ2006/6136 | 2009-12-22 | outro | analistas-rating | O Colegiado aprovou o texto da Instrução que dispõe sobre a atividade de analista de valores mobiliários, após audiência pública nº 03/2008. | cvm/colegiado/2009/col-20091222-d34.md |
+
+Fim do subíndice.

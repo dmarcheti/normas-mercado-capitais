@@ -35,3 +35,5 @@ Norma: fora do acervo.
 | pas | RJ2010/12043 | 2013-04-02 | condenacao | divulgacao-informacoes | Fiação Tecelagem São José Descumprimento das obrigações de envio de informações periódicas à CVM. Não envio tempestivo à CVM de formulários DFPs e ITRs – não elaboração, no prazo legal, de demonstrações financeiras – convocação intempestiva de assembleias gerais ordinárias. Multas. | cvm/pas/2013/rj2010-12043.md |
 | pas | RJ2008/9574 | 2012-11-27 | absolvicao | deveres-administradores | INVITEL Suposta infração ao dever de diligência. Absolvições. | cvm/pas/2012/rj2008-9574.md |
 | pas | RJ2009/12495 | 2010-12-01 | condenacao | auditoria-independente | KPMG AUDITORES INDEPENDENTES Não inclusão de ressalva no relatório de revisão especial sobre informações trimestrais. – Multas. | cvm/pas/2010/rj2009-12495.md |
+
+Fim do subíndice.

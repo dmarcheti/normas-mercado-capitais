@@ -8,6 +8,47 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 380 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| circular-bcb-1 | 52 |
+| circular-bcb-2 | 68 |
+| circular-bcb-3 | 79 |
+| circular-bcb-4 | 87 |
+| circular-bcb-5 | 97 |
+| circular-bcb-6 | 105 |
+| circular-bcb-8 | 114 |
+| circular-bcb-15 | 122 |
+| circular-bcb-16 | 131 |
+| circular-bcb-36 | 139 |
+| circular-bcb-49 | 147 |
+| circular-bcb-53 | 155 |
+| circular-bcb-63 | 164 |
+| circular-bcb-67 | 172 |
+| circular-bcb-78 | 180 |
+| circular-bcb-82 | 192 |
+| circular-bcb-94 | 200 |
+| circular-bcb-106 | 208 |
+| circular-bcb-158 | 216 |
+| circular-bcb-599 | 224 |
+| circular-bcb-601 | 232 |
+| circular-bcb-1273 | 240 |
+| circular-bcb-2616 | 249 |
+| circular-bcb-2804 | 261 |
+| circular-bcb-3057 | 272 |
+| circular-bcb-3068 | 282 |
+| circular-bcb-3347 | 290 |
+| circular-bcb-3383 | 298 |
+| circular-bcb-3432 | 306 |
+| circular-bcb-3438 | 326 |
+| circular-bcb-3461 | 334 |
+| circular-bcb-3640 | 342 |
+| circular-bcb-3743 | 350 |
+| circular-bcb-4027 | 372 |
+
 ## circular-bcb-1
 
 ### Citada sem dispositivo identificado
@@ -335,3 +376,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.006368/2020-62 | 2020-10-27 | deferido | infraestrutura-mercado | O Colegiado concedeu à B3 autorização, nos termos do art. 13, V, da ICVM 461/2007, para prestar serviços aos participantes do Sistema de Pagamentos Instantâneos por meio de Câmara de Liquidez SPI, com operações compromissadas de um dia e contraparte central. Acompanhando a SMI, que viu semelhança com a compensação e liquidação já exercidas pela B3. | cvm/colegiado/2020/col-20201027-d1960.md |
+
+Fim do subíndice.

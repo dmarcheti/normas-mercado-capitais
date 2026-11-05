@@ -5,6 +5,36 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 306 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 40 |
+| 2025 | 41 |
+| 2024 | 53 |
+| 2023 | 68 |
+| 2022 | 91 |
+| 2021 | 101 |
+| 2020 | 114 |
+| 2019 | 126 |
+| 2018 | 139 |
+| 2017 | 155 |
+| 2016 | 175 |
+| 2015 | 195 |
+| 2014 | 206 |
+| 2013 | 224 |
+| 2012 | 233 |
+| 2011 | 244 |
+| 2010 | 249 |
+| 2009 | 266 |
+| 2008 | 284 |
+| 2007 | 295 |
+| 2006 | 299 |
+| 2004 | 303 |
+| 1998 | 304 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.000946/2023-08 | 2026-06-23 | rejeitado | informacao-privilegiada | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de diretor executivo financeiro da Americanas S.A. (R$ 193.623,90) por uso de informação relevante ainda não divulgada (RCVM 44/2021, art. 13). O Comitê viu inconveniência pela gravidade da conduta e pela baixa economia processual, com outros sete acusados. | cvm/colegiado/2026/col-20260623-d3392.md |
@@ -272,3 +302,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 33/00 | 2006-03-06 | parcial | informacao-privilegiada | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Negociação de ações em bolsa de valores – Uso de informação relevante ainda não divulgada ao mercado (transferência de controle acionário de companhia) - insider trading – Quebra dos deveres de administrador de carteira – Irregularidades confirmadas – Irrelevância econômica das operações como fator de abrandamento da pena – Apelos providos parcialmente. | crsfn/2006/4780.md |
 | acordao-crsfn | 13/00 | 2004-12-14 | absolvicao | informacao-privilegiada | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Uso de informação privilegiada ainda não divulgada no mercado (insider trading) – Irregularidades não configuradas – Recurso improvido. | crsfn/2004/4195.md |
 | acordao-crsfn | 09/92 | 1998-04-28 | parcial | informacao-privilegiada | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - Manutenção em tesouraria de ações preferenciais, de emissão da própria companhia gerida pelos indiciados - Falta de imediata comunicação à Comissão de Valores Mobiliários e à Bovespa de deliberações tomadas pelo conselho de administração da sociedade, bem assim de divulgação do fato relevante - Infrações configuradas - Apelos a que se nega provimento. | crsfn/1998/2406.md |
+
+Fim do subíndice.

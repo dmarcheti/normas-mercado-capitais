@@ -47,3 +47,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | RJ2003/7697 | 2005-08-23 | absolvicao | fundos-investimento | SUL AMÉRICA INVESTIMENTOS S/A E [pessoa física] Os fundos de investimentos sujeitos à Circular/BACEN/Nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução/CVM/Nº 365, de 29/05/02. | cvm/pas/2005/rj2003-7697.md |
 | pas | RJ2002/8428 | 2004-10-14 | parcial | fundos-investimento | Bank of America S/A CCVM e outros. Irregularidade no tocante ao abandono do critério de marcação a mercado que vinha sendo adotado sem autorização, ou adoção de outro critério aceitável. Multas. Não comprovação de descumprimento da Instrução CVM nº 306. Absolvições. Rejeição da imputação de extrapolação dos limites operacionais dos Fundos Multicarteira Arrojado e Ryoyuw. Absolvições. Rejeição da imputação de embaraço à fiscalização. Absolvições. | cvm/pas/2004/rj2002-8428.md |
+
+Fim do subíndice.

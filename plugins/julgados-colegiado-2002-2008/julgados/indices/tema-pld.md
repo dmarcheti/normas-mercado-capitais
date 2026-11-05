@@ -30,3 +30,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | SP2000/0320 | 2002-03-19 | provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2000/0320. | cvm/colegiado/2002/col-20020319-d05.md |
 | decisao-colegiado | SP2001/0105 | 2002-02-27 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0105. | cvm/colegiado/2002/col-20020227-d01.md |
 | decisao-colegiado | SP2000/0108 | 2002-01-22 | nao-provido | pld | Recurso de ccf brasil CTVM S.A. e josé marcos chiacaroni contra decisão da SMI em processo de rito sumário, que lhes aplicou a pena de advertência. Proc. SP2000/0108. | cvm/colegiado/2002/col-20020122-d05.md |
+
+Fim do subíndice.

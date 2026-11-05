@@ -47,3 +47,5 @@ Norma: fora do acervo.
 | pas | 16/2005 | 2010-08-10 | absolvicao | manipulacao-fraude | CENTRUS Suposta realização de operações fraudulentas, práticas não equitativas e criação de condições artificiais de preço, demanda e oferta no mercado de valores mobiliários. Absolvlções. | cvm/pas/2010/16-2005.md |
 | pas | 23/2000 | 2010-05-25 | absolvicao | manipulacao-fraude | CERES/AVIAN Suposta realização sistemática, pelas Fundações CERES, FCOPEL e FUNDIÁGUA, de operações“estruturadas” na BVRJ, que consistiam na compra de ações no mercado à vista e na venda coberta de opções de compra dessas ações, em violação à InstruçãoCVM nº 08/ - infrações não configuradas. Absolvições. | cvm/pas/2010/23-2000.md |
 | pas | RJ2002/1823 | 2005-03-14 | parcial | deveres-administradores | [pessoa física], [pessoa física] E [pessoa física] Violação do artigos 117, § 1º, a e f, e 154, § 2º, a, da Lei nº 6.404/76 - prática abusiva do poder de controle e administração irregular da companhia. | cvm/pas/2005/rj2002-1823.md |
+
+Fim do subíndice.

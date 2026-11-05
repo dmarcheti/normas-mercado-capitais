@@ -79,3 +79,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2001/0086 | 2002-04-10 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de fundo de garantia. Proc. SP2001/0086. | cvm/colegiado/2002/col-20020410-d06.md |
 | decisao-colegiado | SP2001/0280 | 2002-03-19 | nao-provido | intermediacao | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0280. | cvm/colegiado/2002/col-20020319-d03.md |
 | decisao-colegiado | SP2001/0292 | 2002-02-05 | nao-provido | processual | Recurso contra decisão da SMI em processo de fundo de garantia. Proc. SP2001/0292. | cvm/colegiado/2002/col-20020205-d02.md |
+
+Fim do subíndice.

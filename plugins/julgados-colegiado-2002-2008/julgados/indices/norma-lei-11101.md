@@ -52,3 +52,5 @@ Norma: [leis/lei-11101.md](../../../normas/normas/leis/lei-11101.md) (texto vige
 | decisao-colegiado | RJ2007/12144 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/12144. | cvm/colegiado/2007/col-20071211-d04.md |
 | decisao-colegiado | RJ2007/12146 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12146. | cvm/colegiado/2007/col-20071030-d13.md |
 | decisao-colegiado | RJ2007/12144 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12144. | cvm/colegiado/2007/col-20071030-d12.md |
+
+Fim do subíndice.

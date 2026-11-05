@@ -51,3 +51,5 @@ Norma: [cvm/instrucoes/0579.md](../../../normas/normas/cvm/instrucoes/0579.md) (
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | auditoria-independente | O Colegiado rejeitou, por unanimidade, propostas de termo de compromisso de sociedades de auditoria e de auditores (pessoas físicas e jurídicas) em três PAS sobre relatórios de auditoria de demonstrações financeiras. Acompanhou o Comitê, que considerou o ajuste inconveniente e inoportuno pela análise conjunta, gravidade em tese e proposta distante de casos similares. | cvm/colegiado/2023/col-20230905-d2065.md |
 | termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | manipulacao-fraude | Apreciação de propostas de termo de compromisso. PAS SEI 19957.006657/2020-61. | cvm/colegiado/2022/col-20220215-d2291.md |
+
+Fim do subíndice.

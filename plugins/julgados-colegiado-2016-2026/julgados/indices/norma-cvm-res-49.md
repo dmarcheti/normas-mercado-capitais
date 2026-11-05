@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0049.md](../../../normas/normas/cvm/resolucoes/0049.md) (
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.006121/2021-27 | 2021-08-11 | outro | normativo | O Colegiado aprovou as Resoluções CVM 45, 46, 47 e 49/2021, que consolidam ritos internos da CVM: processo sancionador (45), tramitação no Colegiado (46), multas cominatórias (47) e uso da sigla e logotipo (49). Dispensou audiência pública e AIR, por não alterarem o mérito das obrigações. | cvm/colegiado/2021/col-20210811-d2277.md |
+
+Fim do subíndice.

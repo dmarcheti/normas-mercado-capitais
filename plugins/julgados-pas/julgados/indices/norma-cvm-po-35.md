@@ -26,3 +26,5 @@ Norma: [cvm/pareceres-orientacao/0035.md](../../../normas/normas/cvm/pareceres-o
 | pas | RJ2011/3665 | 2012-04-03 | condenacao | informacao-privilegiada | LUCIANO E [pessoa física] Utilização de informação confidencial ainda não divulgada ao mercado. Multas. | cvm/pas/2012/rj2011-3665.md |
 | pas | 18/2008 | 2010-12-14 | parcial | deveres-administradores | SADIA Descumprimento do esperado dever de diligência por parte dos administradores de uma companhia aberta. –Multas e inabilitações temporárias. | cvm/pas/2010/18-2008.md |
 | pas | RJ2008/1815 | 2009-04-28 | parcial | deveres-administradores | MOSSI & GHISOLFI INTERNACIONAL S/A e outros (M&G POLIÉSTER S/A) Caracterização de conduta irregular do acionista controlador - constituição de empresa concorrente sem o oferecimento da oportunidade comercial a sua controlada - quebra do dever de lealdade - multa. | cvm/pas/2009/rj2008-1815.md |
+
+Fim do subíndice.

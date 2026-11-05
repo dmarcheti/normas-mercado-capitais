@@ -33,3 +33,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 26/99 | 2003-01-29 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de elaboração das demonstrações financeiras da companhia e de indicação do nome do diretor de relações com o mercado – Intempestiva convocação de assembléia geral ordinária – Irregularidades caracterizadas – Apelo a que nega provimento. | crsfn/2003/3966.md |
 | 02/2000 | 2003-01-29 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO ─ Mercado de valores mobiliários ─ Prática não eqüitativa ─ Falta de informações referentes às características das ordens de negociação e de dados relativos a números da conta corrente bancária e do cheque (valor, nome do sacador ou do emitente) ─ Irregularidades caracterizadas - Apelo a que se nega provimento. | crsfn/2003/3878.md |
 | RJ2000/4550 | 2003-01-29 | parcial | divulgacao-informacoes | RECURSO VOLUNTÁRIO E DE OFÍCIO ─ Mercado de valores mobiliários ─ Falta de publicação de demonstrações financeiras (Instrução CVM 251/96) – Irregularidade caracterizada – Apelos a que se nega provimento. | crsfn/2003/3710.md |
+
+Fim do subíndice.

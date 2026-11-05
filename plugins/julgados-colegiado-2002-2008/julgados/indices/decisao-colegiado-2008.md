@@ -5,6 +5,25 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 646 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2008-12 | 29 |
+| 2008-11 | 68 |
+| 2008-10 | 116 |
+| 2008-09 | 170 |
+| 2008-08 | 218 |
+| 2008-07 | 262 |
+| 2008-06 | 332 |
+| 2008-05 | 370 |
+| 2008-04 | 419 |
+| 2008-03 | 474 |
+| 2008-02 | 525 |
+| 2008-01 | 609 |
+
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | — | 2008-12-19 | outro | normativo | O Colegiado aprovou, com alterações, a minuta de Instrução que altera a Instrução 202/93, sobre registro de companhia para negociação de valores mobiliários em bolsa ou balcão, para audiência pública até 30.03.2009. A SDM consolidará as sugestões. | cvm/colegiado/2008/col-20081219-d02.md |
@@ -623,3 +642,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | RJ2007/14323 | 2008-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14323. | cvm/colegiado/2008/col-20080108-d05.md |
 | RJ2007/3533 | 2008-01-08 | outro | processual | O Colegiado determinou o arquivamento do PAS RJ2007/3533 por cumprimento do termo de compromisso pelo único indiciado, com base na manifestação da SAD de que o pagamento ocorreu na forma convencionada e não há obrigação adicional. | cvm/colegiado/2008/col-20080108-d04.md |
 | — | 2008-01-04 | indeferido | divulgacao-informacoes | O Colegiado não concedeu tratamento confidencial a consulta de companhia estrangeira, por não observância do procedimento do art. 14 da Instrução CVM 202/93. Decidiu não divulgar a consulta, mas entendeu que consulta e resposta devem ser tornadas públicas assim que a companhia receber a resposta, por tratar de fato relevante. | cvm/colegiado/2008/col-20080104-d01.md |
+
+Fim do subíndice.

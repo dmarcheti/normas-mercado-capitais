@@ -7,6 +7,26 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 287 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 30 |
+| art. 2º | 37 |
+| art. 3º | 47 |
+| art. 3º-A | 115 |
+| art. 4º | 121 |
+| art. 5º | 129 |
+| art. 6º | 136 |
+| art. 7º | 175 |
+| art. 8º | 221 |
+| art. 9º | 229 |
+| art. 10 | 245 |
+| art. 105 | 260 |
+| Citada sem dispositivo identificado | 266 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -263,3 +283,5 @@ Norma: fora do acervo.
 | pas | SP2004/0123 | 2004-10-18 | absolvicao | intermediacao | Não caracterização da acusação de inobservância ao disposto nos incisos I e III do art. 11 do Regulamento Anexo à Resolução CMN nº 1.655/89, c/c os artigos 3º, 4º e 5º da Instrução CVM nº 220/94. Absolvição. | cvm/pas/2004/sp2004-0123.md |
 | pas | SP2002/0048 | 2003-03-13 | parcial | intermediacao | UNITAS DTVM E OUTROS A existência de contrato de agenciamento não afasta a responsabilidade do intermediário por atos irregulares praticados pelo agente autônomo decorrentes do atendimento de clientes em suas dependências. | cvm/pas/2003/sp2002-0048.md |
 | pas | SP2001/0001 | 2001-06-27 | condenacao | pld | PROSPER S/A CORRETORA DE VALORES E CÂMBIO E [pessoa física] Aplicação da Instrução CVM Nº 301/99 e das penalidades previstas no artigo 12 da Lei nº 9.613/98, que trata da lavagem de dinheiro. - A corretora de valores está obrigada a comunicar à CVM, no prazo de 24 horas da ocorrência, as operações realizadas por cliente cujos valores sejam incompatíveis com a situação patrimonial/financeira constante da informação cadastral. | cvm/pas/2001/sp2001-0001.md |
+
+Fim do subíndice.

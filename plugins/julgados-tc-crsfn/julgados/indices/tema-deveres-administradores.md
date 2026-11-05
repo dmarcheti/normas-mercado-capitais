@@ -5,6 +5,43 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 367 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 47 |
+| 2025 | 51 |
+| 2024 | 59 |
+| 2023 | 69 |
+| 2022 | 85 |
+| 2021 | 101 |
+| 2020 | 117 |
+| 2019 | 135 |
+| 2018 | 143 |
+| 2017 | 167 |
+| 2016 | 191 |
+| 2015 | 211 |
+| 2014 | 227 |
+| 2013 | 241 |
+| 2012 | 258 |
+| 2011 | 268 |
+| 2010 | 277 |
+| 2009 | 293 |
+| 2008 | 315 |
+| 2007 | 329 |
+| 2006 | 335 |
+| 2005 | 343 |
+| 2004 | 349 |
+| 2003 | 352 |
+| 2002 | 357 |
+| 2001 | 359 |
+| 2000 | 361 |
+| 1998 | 363 |
+| 1997 | 364 |
+| 1996 | 365 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | deveres-administradores | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso apresentada por um administrador: R$ 15.000,00 e cinco anos sem exercer cargo em companhia aberta. Em PAS por falhas de diligência (art. 153 da Lei 6.404/1976). O Comitê considerou gravidade e rejeição anterior de proposta semelhante. | cvm/colegiado/2026/col-20260512-d3391.md |
@@ -326,3 +363,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 09/94 | 1998-03-25 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - Concessão de empréstimos à sociedades ligadas, com inobservância de condições estritamente comutativas entre as partes, sem adequado pagamento compensatório e em parâmetros fora de mercado e divergentes dos que a companhia concedente pactuaria com terceiros - Prejuízos aos acionistas - Irregularidades caracterizadas - Recursos a que se nega provimento. | crsfn/1998/2277.md |
 | acordao-crsfn | 06/91 | 1997-10-29 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIO E DE OFÍCIO. Comissão de Valores Mobiliários - CVM - Intimação por edital - Validade do procedimento - Atos de liberalidade à custa da companhia - Benefício irregular à sociedade controladora – Fornecimento intempestivo de informações à CVM - Infrações caracterizadas - Apelos improvidos. | crsfn/1997/1968.md |
 | acordao-crsfn | 17/89 | 1996-03-13 | absolvicao | deveres-administradores | RECURSO DE OFÍCIO. Empréstimos favorecidos. Taxas de remuneração inferior às de captação no mercado. Infrações descaracterizadas. | crsfn/1996/1554.md |
+
+Fim do subíndice.

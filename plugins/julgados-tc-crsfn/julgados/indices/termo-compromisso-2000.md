@@ -8,3 +8,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|
 | RJ97/0696 | 2000-07-21 | aceito | pld | O Colegiado aprovou, em 21/07/2000, a proposta de termo de compromisso celebrado pela Concórdia S.A. Corretora de Valores Mobiliários, Câmbio e Commodities e por uma pessoa física, sobre cadastro de clientes (Instrução CVM 220/94). Obrigações: relatório de auditoria externa em 30 dias e treinamento em 60 dias. PAS suspenso por dois anos. | cvm/colegiado/2000/tc-rj1997-0696-20000721.md |
+
+Fim do subíndice.

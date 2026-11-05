@@ -109,3 +109,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | manipulacao-fraude | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I c/c item II, “c”, da Instrução CVM nº 8/1979, pela prática de operação fraudulenta; no art. 11, I, da Instrução CVM nº 476/2009, por descumprimento do dever de diligência; no art. 90, X, da Instrução CVM nº 555/2014, por descumprimento do dever de fiscalização; no art. 10, II, da Instrução CVM nº 521/2012, pela emissão de relatório de rating que induz usuários a erro; e no art. 11, I, II, V e VII, da Instrução CVM nº 583/2016, por descumprimento de deveres por agente fiduciário dos debenturistas. Multas, proibição temporária, extinção da punibilidade e absolvição. | cvm/pas/2023/19957-008143-2018-26.md |
 | pas | 06/2002 | 2005-11-16 | parcial | exercicio-irregular | Infração ao disposto no art. 2º, § 1º, da Instrução CVM nº 310/99. Multa. - Exercício irregular da atividade de mediação de valores mobiliários.Absolvição. | cvm/pas/2005/06-2002.md |
+
+Fim do subíndice.

@@ -8,6 +8,37 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 346 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| decreto-lei-2 | 42 |
+| decreto-lei-147 | 50 |
+| decreto-lei-157 | 58 |
+| decreto-lei-200 | 71 |
+| decreto-lei-201 | 79 |
+| decreto-lei-448 | 88 |
+| decreto-lei-491 | 96 |
+| decreto-lei-972 | 110 |
+| decreto-lei-1002 | 118 |
+| decreto-lei-1290 | 129 |
+| decreto-lei-1376 | 150 |
+| decreto-lei-1598 | 158 |
+| decreto-lei-2229 | 167 |
+| decreto-lei-2286 | 175 |
+| decreto-lei-2298 | 201 |
+| decreto-lei-2627 | 223 |
+| decreto-lei-2848 | 238 |
+| decreto-lei-3688 | 271 |
+| decreto-lei-3689 | 281 |
+| decreto-lei-6019 | 290 |
+| decreto-lei-6385 | 298 |
+| decreto-lei-7661 | 306 |
+| decreto-lei-9295 | 328 |
+| decreto-lei-70174 | 338 |
+
 ## decreto-lei-2
 
 ### Citada sem dispositivo identificado
@@ -311,3 +342,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | termo-compromisso | RJ2005/6729 | 2006-04-11 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de Termo de Compromisso de proponentes indiciados em PAS por descumprimento da IN CVM 202/93 e da Lei 6.404/76, acompanhando o parecer do Comitê. Ressaltou que a redação deverá qualificar a obrigação de pagamento como condição de aceitação do termo. Prazo de 30 dias para assinatura e 10 dias após publicação no DOU para cumprimento. | cvm/colegiado/2006/col-20060411-d06.md |
+
+Fim do subíndice.

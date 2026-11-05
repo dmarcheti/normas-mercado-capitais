@@ -7,6 +7,71 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 939 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 3º | 75 |
+| art. 4º | 82 |
+| art. 5º | 88 |
+| art. 8º | 96 |
+| art. 9º | 102 |
+| art. 11 | 112 |
+| art. 13 | 119 |
+| art. 15 | 131 |
+| art. 20 | 138 |
+| art. 25 | 145 |
+| art. 26 | 151 |
+| art. 33 | 161 |
+| art. 36 | 167 |
+| art. 37 | 175 |
+| art. 38 | 181 |
+| art. 39 | 190 |
+| art. 42 | 199 |
+| art. 43 | 205 |
+| art. 44 | 211 |
+| art. 45 | 226 |
+| art. 46 | 235 |
+| art. 47 | 241 |
+| art. 48 | 249 |
+| art. 49 | 255 |
+| art. 51 | 268 |
+| art. 52 | 275 |
+| art. 53 | 282 |
+| art. 56 | 289 |
+| art. 65 | 295 |
+| art. 67 | 302 |
+| art. 68 | 320 |
+| art. 69 | 331 |
+| art. 72 | 340 |
+| art. 75 | 346 |
+| art. 77 | 352 |
+| art. 78 | 601 |
+| art. 79 | 617 |
+| art. 80 | 629 |
+| art. 81 | 681 |
+| art. 82 | 694 |
+| art. 83 | 755 |
+| art. 84 | 772 |
+| art. 85 | 784 |
+| art. 86 | 796 |
+| art. 87 | 808 |
+| art. 88 | 814 |
+| art. 89 | 820 |
+| art. 90 | 826 |
+| art. 91 | 832 |
+| art. 98 | 838 |
+| art. 99 | 844 |
+| art. 101 | 850 |
+| art. 102 | 856 |
+| art. 105 | 862 |
+| art. 113 | 868 |
+| art. 117 | 881 |
+| art. 122 | 902 |
+| Citada sem dispositivo identificado | 908 |
+
 ## art. 3º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -870,3 +935,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2009/0012 | 2009-02-10 | deferido | intermediacao | O Colegiado aprovou o pedido da BM&FBovespa para que sociedades distribuidoras de valores mobiliários operem em ambientes administrados por bolsa, com a minuta de Decisão-Conjunta a ser assinada no convênio BACEN/CVM. Base: a PFE-CVM viu viabilidade, desde que alterada a Resolução CMN 1.120/86 ou editada Decisão Conjunta; a SMI manifestou-se favoravelmente. | cvm/colegiado/2009/col-20090210-d07.md |
 | decisao-colegiado | SP2006/0103 | 2009-02-03 | parcial | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0103. | cvm/colegiado/2009/col-20090203-d07.md |
 | decisao-colegiado | SP2006/0106 | 2009-02-03 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2006/0106. | cvm/colegiado/2009/col-20090203-d06.md |
+
+Fim do subíndice.

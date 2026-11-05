@@ -51,3 +51,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.009391/2019-75 | 2019-10-29 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009391/2019-75. | cvm/colegiado/2019/col-20191029-d1586.md |
 | decisao-colegiado | 19957.003148/2016-09 | 2019-06-04 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003148/2016-09. | cvm/colegiado/2019/col-20190604-d1411.md |
 | decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003490/2016-09. | cvm/colegiado/2019/col-20190409-d1371.md |
+
+Fim do subíndice.

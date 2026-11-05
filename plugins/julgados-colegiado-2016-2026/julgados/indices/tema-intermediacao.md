@@ -5,6 +5,24 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 289 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 28 |
+| 2025 | 29 |
+| 2024 | 36 |
+| 2023 | 54 |
+| 2022 | 68 |
+| 2021 | 82 |
+| 2020 | 132 |
+| 2019 | 184 |
+| 2018 | 216 |
+| 2017 | 238 |
+| 2016 | 260 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | 19957.017372/2025-61 | 2026-03-17 | conhecimento | intermediacao | O Colegiado, por unanimidade, não conheceu de recurso de investidor contra o arquivamento de reclamação sobre assessor de investimentos, por não preenchidos os requisitos do art. 4º, § 4º, RCVM 45 (ausência de fundamentação ou decisão em desacordo com posicionamento prevalecente). Se conhecido, seria indeferido, acompanhando a SMI. | cvm/colegiado/2026/col-20260317-d3484.md |
@@ -267,3 +285,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | 19957.004147/2015-92 | 2016-02-02 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004147/2015-92. | cvm/colegiado/2016/col-20160202-d0038.md |
 | decisao-colegiado | 19957.002720/2015-23 | 2016-02-02 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002720/2015-23. | cvm/colegiado/2016/col-20160202-d0037.md |
 | decisao-colegiado | 19957.002964/2015-14 | 2016-02-02 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002964/2015-14. | cvm/colegiado/2016/col-20160202-d0035.md |
+
+Fim do subíndice.

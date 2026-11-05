@@ -7,6 +7,38 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 449 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 42 |
+| art. 2º | 50 |
+| art. 3º | 60 |
+| art. 4º | 73 |
+| art. 5º | 108 |
+| art. 6º | 122 |
+| art. 6º-A | 151 |
+| art. 7º | 163 |
+| art. 9º | 200 |
+| art. 14 | 207 |
+| art. 15 | 215 |
+| art. 16 | 226 |
+| art. 17 | 271 |
+| art. 18 | 280 |
+| art. 19 | 322 |
+| art. 20 | 328 |
+| art. 25 | 340 |
+| art. 30 | 348 |
+| art. 31 | 359 |
+| art. 31-A | 374 |
+| art. 33 | 381 |
+| art. 34 | 389 |
+| art. 37 | 400 |
+| art. 41 | 406 |
+| Citada sem dispositivo identificado | 413 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -413,3 +445,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 308/1999; 19957.002575/2017-42 | 2017-03-15 | outro | normativo | O Colegiado aprovou a colocação em audiência pública, pelo prazo de 30 dias, de minuta de instrução que altera a Instrução CVM 308/1999, sobre o registro e o exercício da atividade de auditoria independente no mercado de valores mobiliários. | cvm/colegiado/2017/col-20170315-d1426.md |
 | decisao-colegiado | RJ2017/0810 | 2017-03-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2017/0810. | cvm/colegiado/2017/col-20170314-d0608.md |
 | decisao-colegiado | RJ2015/5513 | 2016-03-01 | conhecimento | processual | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/5513. | cvm/colegiado/2016/col-20160301-d9695.md |
+
+Fim do subíndice.

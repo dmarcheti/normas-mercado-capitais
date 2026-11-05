@@ -12,3 +12,5 @@ Norma: [cvm/pareceres-orientacao/0024.md](../../../normas/normas/cvm/pareceres-o
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 05/00 | 2009-02-16 | parcial | auditoria-independente | RECURSOS VOLUNTÁRIOS E DE OFÍCIO - Mercado de valores mobiliários – Auditoria independente – Divergências verificadas em demonstrações financeiras – Inobservância ao princípio do conservadorismo contábil – Falta de consignação de ressalvas – Responsabilização do diretor da área de contabilidade da empresa e dos auditores encarregados dos trabalhos da espécie - Apelos a que se nega provimento | crsfn/2009/7526.md |
+
+Fim do subíndice.

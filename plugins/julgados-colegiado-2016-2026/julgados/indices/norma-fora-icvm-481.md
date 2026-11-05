@@ -7,6 +7,48 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 494 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 52 |
+| art. 2º | 58 |
+| art. 3º | 64 |
+| art. 4º | 70 |
+| art. 5º | 76 |
+| art. 6º | 82 |
+| art. 8º | 94 |
+| art. 9º | 102 |
+| art. 10 | 154 |
+| art. 11 | 202 |
+| art. 12 | 215 |
+| art. 13 | 264 |
+| art. 14 | 271 |
+| art. 15 | 281 |
+| art. 16 | 287 |
+| art. 17 | 293 |
+| art. 18 | 300 |
+| art. 19 | 306 |
+| art. 20 | 312 |
+| art. 21 | 318 |
+| art. 21-A | 325 |
+| art. 21-B | 342 |
+| art. 21-H | 349 |
+| art. 21-I | 356 |
+| art. 21-J | 364 |
+| art. 21-L | 370 |
+| art. 21-O | 378 |
+| art. 21-T | 384 |
+| art. 21-V | 395 |
+| art. 21-W | 401 |
+| art. 23 | 419 |
+| art. 30 | 426 |
+| art. 33 | 432 |
+| art. 34 | 438 |
+| Citada sem dispositivo identificado | 444 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -448,3 +490,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.003229/2017-81 | 2017-04-12 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedidos de suspensão e de interrupção do prazo de convocação de AGE, formulados por acionista com base na Instrução CVM 372/2002. Acompanhou a SEP na suspensão. Na interrupção, invocou os limites estritos do rito e a falta de convicção de plano sobre violação (art. 124, §5º, II, da Lei 6.404/1976). | cvm/colegiado/2017/col-20170412-d0653.md |
 | decisao-colegiado | 19957.000852/2016-00 | 2016-10-11 | parcial | opa | O Colegiado, acompanhando a SRE, deferiu procedimento diferenciado para OPA de cancelamento de registro da Wembley S.A. (art. 34 da Instrução CVM 361: concentração extraordinária, valor e impacto reduzido), dispensando leilão, laudo de avaliação e edital. Indeferiu a dispensa de assembleia geral e do envio de informações do art. 5º da Instrução CVM 567. | cvm/colegiado/2016/col-20161011-d0385.md |
 | decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, as alterações estatutárias da BM&FBOVESPA aprovadas em AGE de 20.05.2016, nos termos do art. 117, II, da Instrução CVM 461/2007. A SMI opinou favoravelmente; a SEP indicou elementos mínimos para os contratos de indenidade previstos no novo art. 80. | cvm/colegiado/2016/col-20161011-d0293.md |
+
+Fim do subíndice.

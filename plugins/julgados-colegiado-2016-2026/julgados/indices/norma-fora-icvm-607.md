@@ -7,6 +7,57 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 477 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 2º | 61 |
+| art. 3º | 70 |
+| art. 4º | 77 |
+| art. 5º | 128 |
+| art. 6º | 135 |
+| art. 8º | 143 |
+| art. 9º | 149 |
+| art. 14 | 155 |
+| art. 17 | 169 |
+| art. 19 | 175 |
+| art. 20 | 181 |
+| art. 21 | 188 |
+| art. 24 | 194 |
+| art. 26 | 203 |
+| art. 27 | 210 |
+| art. 29 | 216 |
+| art. 31 | 226 |
+| art. 36 | 232 |
+| art. 38 | 240 |
+| art. 39 | 248 |
+| art. 42 | 255 |
+| art. 43 | 265 |
+| art. 45 | 286 |
+| art. 46 | 292 |
+| art. 47 | 298 |
+| art. 48 | 307 |
+| art. 52 | 313 |
+| art. 55 | 319 |
+| art. 57 | 325 |
+| art. 58 | 334 |
+| art. 65 | 342 |
+| art. 66 | 348 |
+| art. 67 | 356 |
+| art. 70 | 362 |
+| art. 71 | 372 |
+| art. 80 | 386 |
+| art. 86 | 393 |
+| art. 87 | 399 |
+| art. 112 | 411 |
+| art. 425 | 417 |
+| art. 434 | 423 |
+| art. 584 | 430 |
+| art. 586 | 436 |
+| Citada sem dispositivo identificado | 442 |
+
 ## art. 2º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -422,3 +473,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.008237/2019-86 | 2019-08-29 | outro | normativo | O Colegiado aprovou a Instrução CVM 613/19, que altera a Instrução CVM 607/19 (processo administrativo sancionador). A alteração esclarece que o novo valor máximo da multa pecuniária e os novos procedimentos de dosimetria valem apenas para infrações posteriores à Lei 13.506/17. Por ser pontual, não foi precedida de audiência pública (art. 19 da Portaria CVM/PTE 48/2019). | cvm/colegiado/2019/col-20190829-d2894.md |
 | decisao-colegiado | 21/2010 | 2019-08-13 | indeferido | processual | O Colegiado, por unanimidade, indeferiu pedidos de produção de prova (oitiva de testemunhas, exibição de documentos e perícia) formulados por acusados no PAS 21/2010, acompanhando o voto do relator. Fundamento: pedidos genéricos, sem indicar objeto, utilidade ou contraprova. | cvm/colegiado/2019/col-20190813-d9868.md |
 | decisao-colegiado | 02/2018; 19957.006565/2017-86 | 2019-05-22 | outro | normativo | O Colegiado aprovou a edição da Instrução CVM 607/19, que regulamenta o processo administrativo sancionador conforme a Lei 13.506/2017, revogando as Deliberações CVM 390/01, 538/08 e 542/08 e a Instrução CVM 491/11. Trata de apuração de infrações, rito do PAS, penalidades, termo de compromisso e acordo administrativo. | cvm/colegiado/2019/col-20190522-d2894.md |
+
+Fim do subíndice.

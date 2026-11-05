@@ -134,3 +134,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 17 | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | cvm/colegiado/2022/col-20220517-d2388.md |
+
+Fim do subíndice.

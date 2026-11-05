@@ -42,3 +42,5 @@ Norma: fora do acervo.
 | decisao-colegiado | RJ2003/11499 | 2013-04-17 | — | infraestrutura-mercado | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre prestação de serviços de depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários. Sem deliberação nesta reunião. | cvm/colegiado/2013/col-20130417-d01.md |
 | decisao-colegiado | RJ2003/11499 | 2013-04-10 | — | normativo | O Colegiado iniciou a discussão das minutas de Instrução que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários, sem deliberação nesta reunião. | cvm/colegiado/2013/col-20130410-d01.md |
 | decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2009/0009. | cvm/colegiado/2009/col-20090331-d06.md |
+
+Fim do subíndice.

@@ -167,3 +167,5 @@ Norma: fora do acervo.
 | decisao-colegiado | SP2010/0167 | 2012-05-15 | nao-provido | intermediacao | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0167. | cvm/colegiado/2012/col-20120515-d03.md |
 | decisao-colegiado | SP2010/0053 | 2012-05-15 | nao-provido | processual | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0053. | cvm/colegiado/2012/col-20120515-d02.md |
 | decisao-colegiado | SP2010/0050 | 2012-05-15 | nao-provido | processual | Pedido de reconsideração de decisão do colegiado. Proc. SP2010/0050. | cvm/colegiado/2012/col-20120515-d01.md |
+
+Fim do subíndice.

@@ -21,3 +21,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | decisao-colegiado | — | 2003-09-02 | deferido | analistas-rating | O Colegiado autorizou a APIMEC a funcionar como entidade certificadora e delegou à área técnica a aprovação dos exames de certificação da atividade de analista de mercado de valores mobiliários a serem realizados pela APIMEC. | cvm/colegiado/2003/col-20030902-d06.md |
 | decisao-colegiado | — | 2003-04-30 | outro | analistas-rating | O Colegiado aprovou a minuta de Instrução que dispõe sobre a atividade de analista de valores mobiliários e estabelece condições para seu exercício. | cvm/colegiado/2003/col-20030430-d01.md |
 | decisao-colegiado | — | 2002-12-02 | outro | analistas-rating | O Colegiado aprovou a colocação em audiência pública, até 15.01.2003, da minuta de regulamentação da atividade de analista de valores mobiliários, apresentada pela SDM. | cvm/colegiado/2002/col-20021202-d03.md |
+
+Fim do subíndice.

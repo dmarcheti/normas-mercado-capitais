@@ -71,3 +71,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 301/1999; RJ2014/13597 | 2016-10-04 | — | normativo | O Colegiado continuou a discussão da proposta de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo no mercado de valores mobiliários, em substituição à Instrução CVM 301/1999, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20161004-d8331.md |
 | decisao-colegiado | 301/1999; RJ2014/13597 | 2016-09-14 | — | pld | O Colegiado iniciou a discussão de nova Instrução sobre prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em substituição à Instrução CVM 301/1999, sem deliberação nesta reunião. | cvm/colegiado/2016/col-20160914-d8331.md |
 | decisao-colegiado | 19957.002636/2016-91 | 2016-06-14 | outro | normativo | O Colegiado, por unanimidade, aprovou as conclusões da SMI sobre a aprovação de normativos das entidades administradoras de mercados organizados e de depositários centrais (arts. 109, 110 e 113 da ICVM 461/2007). Pela conclusão da SMI aprovada, o Colegiado só analisa casos de risco ao mercado e os dos arts. 9º, §4º, e 114 da ICVM 461. | cvm/colegiado/2016/col-20160614-d0256.md |
+
+Fim do subíndice.

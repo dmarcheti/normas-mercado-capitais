@@ -60,3 +60,5 @@ Norma: fora do acervo.
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | RJ2008/11892 | 2011-01-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11892. | cvm/colegiado/2011/col-20110111-d04.md |
+
+Fim do subíndice.

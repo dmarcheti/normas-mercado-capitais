@@ -203,3 +203,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.002146/2023-13 | 2023-03-28 | outro | normativo | O Colegiado, por unanimidade, aprovou a Resolução CVM 181/2023, que altera pontualmente a Resolução CVM 175/2022 (marco dos fundos) e prorroga seu início de vigência para 02.10.2023, sem AIR nem consulta pública. Entrada em vigor antecipada para 31.03.2023, por urgência justificada. | cvm/colegiado/2023/col-20230328-d5474.md |
 | decisao-colegiado | 80/2022; 160/2022; 19957.000850/2023-31 | 2023-03-21 | outro | ofertas-publicas | O Colegiado, por unanimidade, aprovou a RCVM 180/2023, que altera as RCVM 160 e 80: esclarece o conceito de emissor frequente de renda fixa e o rito automático de ofertas subsequentes de fundo fechado, muda o fluxo de pedidos de registro de oferta e de emissor e exclui notas do formulário de referência. Dispensadas AIR e consulta pública. | cvm/colegiado/2023/col-20230321-d2814.md |
 | decisao-colegiado | 19957.006971/2019-19 | 2022-03-23 | outro | fundos-investimento | Proposta de resolução. Proc. SEI 19957.006971/2019-19. | cvm/colegiado/2022/col-20220323-d2539.md |
+
+Fim do subíndice.

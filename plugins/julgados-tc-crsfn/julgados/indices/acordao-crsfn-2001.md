@@ -28,3 +28,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 04/89 | 2001-02-13 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Debêntures – Emissão sem o prévio registro na CVM – Irregularidade caracterizada – Responsabilização dos agentes – Acolhimento do recurso de ofício e provimento parcial ao apelo interposto pela companhia emissora. | crsfn/2001/2808.md |
 | RJ99/3172 | 2001-01-30 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Não fornecimento de informações anuais aos quotistas (Instrução CVM 215/94) – Acolhimento das razões de defesa – Recurso improvido. | crsfn/2001/3257.md |
 | RJ99/1943 | 2001-01-30 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93) – Acatamento das razões de defesa – Recurso improvido. | crsfn/2001/3148.md |
+
+Fim do subíndice.

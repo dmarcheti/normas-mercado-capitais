@@ -19,3 +19,5 @@ Norma: [cvm/resolucoes/0094.md](../../../normas/normas/cvm/resolucoes/0094.md) (
 |---|---|---|---|---|---|---|
 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | manipulacao-fraude | Apurar irregularidades atreladas à 3ª emissão de cotas do Brazil Realty FII, sob a alegação de operação fraudulenta no mercado de capitais, cumulada com violação de deveres fiduciários e informacionais e prática de embaraço à fiscalização. Multas e absolvições. | cvm/pas/2026/19957-007976-2020-94.md |
 | pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | cvm/pas/2024/19957-006858-2019-25.md |
+
+Fim do subíndice.

@@ -7,6 +7,41 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 645 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 45 |
+| art. 2º | 57 |
+| art. 3º | 83 |
+| art. 4º | 90 |
+| art. 6º | 100 |
+| art. 6º-A | 108 |
+| art. 7º | 114 |
+| art. 15 | 120 |
+| art. 19 | 127 |
+| art. 20 | 140 |
+| art. 20-O | 275 |
+| art. 21 | 281 |
+| art. 22 | 289 |
+| art. 23 | 295 |
+| art. 25 | 311 |
+| art. 26 | 389 |
+| art. 27 | 408 |
+| art. 28 | 427 |
+| art. 29 | 437 |
+| art. 31 | 443 |
+| art. 32 | 485 |
+| art. 33 | 491 |
+| art. 34 | 516 |
+| art. 35 | 544 |
+| art. 36 | 568 |
+| art. 37 | 576 |
+| art. 312 | 618 |
+| Citada sem dispositivo identificado | 624 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -606,3 +641,5 @@ Norma: fora do acervo.
 | acordao-crsfn | SP2002/0047 | 2005-04-27 | absolvicao | deveres-administradores | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Atuação do administrador desconforme com os fins e os interesses da companhia aberta – Ilegitimidade passiva, na espécie, da pessoa jurídica – Recurso improvido. | crsfn/2005/4918.md |
 | termo-compromisso | RJ2001/7626 | 2004-09-10 | aceito | auditoria-independente | O Colegiado aprovou termo de compromisso proposto por uma sociedade de auditoria independente e outro proponente, para suspender PAS, com as cláusulas do relator: atestação de auditor registrado na CVM, vedação de patrocínio ao evento e aprovação prévia de expositores pela SNC. | cvm/colegiado/2004/col-20040910-d01.md |
 | termo-compromisso | IA19/2000 | 2002-05-29 | aceito | divulgacao-informacoes | O Colegiado aprovou novo termo de compromisso no inquérito 19/2000, após indeferimento anterior, com a Carbomil S.A. e a Veeck & Cia. Auditores: atualização de sistemas de informação, seminário ou curso, contribuição voluntária de R$ 60.000,00 cada e, na Carbomil, sem emissão de valores mobiliários por dois anos. A PJU não viu óbice. | cvm/colegiado/2002/col-20020529-d3018.md |
+
+Fim do subíndice.

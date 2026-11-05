@@ -140,3 +140,5 @@ Norma: fora do acervo.
 |---|---|---|---|---|---|---|
 | pas | RJ2013/9266 | 2018-03-27 | parcial | assembleia-acionistas | Irregularidades na convocação da AGE – exercício abusivo do direito de voto – inobservância do dever de diligência – Irregularidades relacionadas à aprovação de redução do capital social da companhia – Operação realizada com desvio de finalidade. Absolvições e multas | cvm/pas/2018/rj2013-9266.md |
 | pas | RJ2013/2023 | 2015-11-10 | condenacao | deveres-administradores | Deliberação de alteração estatutária – Resgate de ações sem a realização de sorteio previsto em lei – Exercício abusivo de poder de controle. Multas. | cvm/pas/2015/rj2013-2023.md |
+
+Fim do subíndice.

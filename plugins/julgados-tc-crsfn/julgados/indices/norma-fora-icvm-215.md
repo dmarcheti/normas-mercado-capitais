@@ -103,3 +103,5 @@ Norma: fora do acervo.
 | acordao-crsfn | RJ99/3172 | 2001-01-30 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Não fornecimento de informações anuais aos quotistas (Instrução CVM 215/94) – Acolhimento das razões de defesa – Recurso improvido. | crsfn/2001/3257.md |
 | acordao-crsfn | 99/3170 | 2000-09-29 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundo de investimento – Falta de remessa, à CVM, de exemplar das informações fornecidas aos quotistas (Instrução CVM 215/94) – Irregularidade configurada – Recurso a que se nega provimento. | crsfn/2000/3059.md |
 | acordao-crsfn | 98/3431 | 2000-07-28 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários - Fundo de investimento – Falta de envio, à CVM, das informações aos quotistas dos condomínios (Instrução CVM 215/94) – Irregularidade caracterizada – Apelos a que se nega provimento. | crsfn/2000/2898.md |
+
+Fim do subíndice.

@@ -1,0 +1,17 @@
+# Julgados por processo, ano 1991
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o plugin `normas`.
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos a `julgados/` (a pasta do `indice.md`).
+
+Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
+
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Arquivo |
+|---|---|---|---|---|---|
+| 01-1991 | 01/91 | acordao-crsfn | 1998-09-22 | crsfn-2302 | crsfn/1998/2302.md |
+| 05-1991 | 05/91 | acordao-crsfn | 1998-02-17 | crsfn-2303 | crsfn/1998/2303.md |
+| 06-1991 | 06/91 | acordao-crsfn | 1997-10-29 | crsfn-1968 | crsfn/1997/1968.md |
+| 10-1991 | 10/91 | acordao-crsfn | 1996-04-16 | crsfn-1618 | crsfn/1996/1618.md |
+
+Fim do subíndice.

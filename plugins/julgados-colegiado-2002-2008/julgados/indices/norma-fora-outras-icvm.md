@@ -8,6 +8,46 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados tem aqui a sua seção (`## <norma>`); as mais citadas têm arquivo próprio.
 
 
+## Sumário
+
+Este subíndice tem 3252 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+icvm-0 (51); icvm-1 (65); icvm-2 (94); icvm-4 (116); icvm-5 (131); icvm-6 (139); icvm-9 (147); icvm-11 (173)
+icvm-12 (181); icvm-14 (191); icvm-16 (212); icvm-18 (221); icvm-19 (231); icvm-20 (246); icvm-25 (270)
+icvm-27 (278); icvm-28 (292); icvm-29 (365); icvm-32 (379); icvm-35 (403); icvm-36 (449); icvm-38 (465)
+icvm-42 (485); icvm-43 (493); icvm-46 (507); icvm-48 (515); icvm-51 (523); icvm-54 (566); icvm-56 (574)
+icvm-57 (590); icvm-58 (598); icvm-60 (615); icvm-61 (636); icvm-64 (644); icvm-67 (652); icvm-69 (668)
+icvm-70 (689); icvm-72 (697); icvm-73 (706); icvm-76 (714); icvm-77 (728); icvm-80 (736); icvm-83 (744)
+icvm-84 (752); icvm-91 (760); icvm-92 (787); icvm-93 (824); icvm-97 (832); icvm-99 (840); icvm-100 (848)
+icvm-101 (856); icvm-102 (864); icvm-104 (872); icvm-105 (886); icvm-106 (894); icvm-107 (902); icvm-110 (910)
+icvm-113 (918); icvm-115 (926); icvm-116 (952); icvm-117 (966); icvm-118 (980); icvm-120 (995)
+icvm-121 (1018); icvm-122 (1026); icvm-128 (1043); icvm-131 (1051); icvm-133 (1059); icvm-134 (1067)
+icvm-135 (1075); icvm-148 (1083); icvm-153 (1094); icvm-155 (1108); icvm-156 (1117); icvm-157 (1126)
+icvm-159 (1134); icvm-160 (1142); icvm-164 (1168); icvm-165 (1176); icvm-166 (1191); icvm-167 (1199)
+icvm-170 (1207); icvm-171 (1228); icvm-173 (1236); icvm-174 (1244); icvm-177 (1270); icvm-179 (1278)
+icvm-183 (1286); icvm-185 (1302); icvm-189 (1321); icvm-191 (1335); icvm-193 (1354); icvm-196 (1368)
+icvm-204 (1376); icvm-206 (1390); icvm-207 (1407); icvm-208 (1429); icvm-210 (1481); icvm-223 (1489)
+icvm-224 (1499); icvm-225 (1513); icvm-227 (1521); icvm-231 (1529); icvm-232 (1541); icvm-233 (1549)
+icvm-235 (1557); icvm-237 (1583); icvm-238 (1606); icvm-241 (1614); icvm-243 (1622); icvm-244 (1662)
+icvm-248 (1678); icvm-249 (1700); icvm-252 (1712); icvm-253 (1720); icvm-254 (1728); icvm-255 (1736)
+icvm-256 (1751); icvm-258 (1759); icvm-261 (1769); icvm-262 (1777); icvm-268 (1785); icvm-269 (1795)
+icvm-270 (1803); icvm-274 (1832); icvm-275 (1850); icvm-276 (1862); icvm-281 (1889); icvm-283 (1897)
+icvm-284 (1905); icvm-285 (1929); icvm-289 (1941); icvm-290 (1949); icvm-293 (1966); icvm-294 (1986)
+icvm-296 (2001); icvm-297 (2032); icvm-298 (2040); icvm-303 (2048); icvm-304 (2069); icvm-305 (2083)
+icvm-309 (2113); icvm-310 (2125); icvm-311 (2133); icvm-313 (2143); icvm-314 (2151); icvm-315 (2159)
+icvm-317 (2185); icvm-318 (2200); icvm-320 (2208); icvm-321 (2216); icvm-324 (2224); icvm-326 (2243)
+icvm-327 (2254); icvm-330 (2262); icvm-332 (2278); icvm-333 (2308); icvm-335 (2333); icvm-336 (2345)
+icvm-340 (2354); icvm-341 (2362); icvm-342 (2377); icvm-346 (2386); icvm-348 (2412); icvm-349 (2428)
+icvm-350 (2452); icvm-357 (2473); icvm-362 (2481); icvm-363 (2506); icvm-365 (2518); icvm-366 (2526)
+icvm-367 (2545); icvm-369 (2568); icvm-370 (2584); icvm-373 (2592); icvm-375 (2607); icvm-376 (2615)
+icvm-380 (2629); icvm-382 (2673); icvm-384 (2716); icvm-386 (2739); icvm-390 (2747); icvm-394 (2769)
+icvm-396 (2777); icvm-398 (2786); icvm-401 (2801); icvm-404 (2822); icvm-405 (2839); icvm-406 (2848)
+icvm-410 (2863); icvm-411 (2872); icvm-412 (2883); icvm-414 (2891); icvm-415 (2940); icvm-417 (2948)
+icvm-419 (2957); icvm-421 (2978); icvm-422 (2986); icvm-424 (2994); icvm-426 (3008); icvm-427 (3016)
+icvm-432 (3025); icvm-433 (3033); icvm-436 (3041); icvm-441 (3056); icvm-442 (3064); icvm-449 (3090)
+icvm-454 (3098); icvm-456 (3106); icvm-461 (3127); icvm-462 (3210); icvm-463 (3219); icvm-465 (3230)
+icvm-467 (3244)
+
 ## icvm-0
 
 ### art. 4º
@@ -3208,3 +3248,5 @@ Norma: fora do acervo. Cada norma desta família citada por menos de 10 julgados
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | decisao-colegiado | SP2008/0099 | 2008-12-19 | deferido | infraestrutura-mercado | O Colegiado confirmou a autorização para instalação, no Brasil, de telas de acesso aos sistemas de negociação da Chicago Mercantile Exchange, Inc. e da Board of Trade of the City of Chicago, Inc., nos termos do art. 113, §1º, da Instrução CVM 461/07. Base: memorandos da GMA-2 e da SMI, que concluíram pelo atendimento substancial à instrução. | cvm/colegiado/2008/col-20081219-d01.md |
+
+Fim do subíndice.

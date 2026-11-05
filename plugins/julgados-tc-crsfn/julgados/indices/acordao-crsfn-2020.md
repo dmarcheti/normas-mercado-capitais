@@ -67,3 +67,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | SP2012/228 | 2020-02-11 | condenacao | exercicio-irregular | RECURSOS VOLUNTÁRIOS. Exercício irregular da atividade de intermediação de valores mobiliários por pessoas não autorizadas pela CVM. Irregularidade caracterizada. Recursos não providos. Proibições temporárias e Multas. | crsfn/2020/10372-100085-2018-98.md |
 | RJ2011/10415 | 2020-02-11 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. FIDCS. Subcontratação de atividades pelo Custodiante. Possibilidade. Ausência de divulgação de informações e de outras irregularidades. Afastamento parcial de infrações. Provimento parcial e desprovimento dos recursos voluntários. Não provimento do recurso de ofício. | crsfn/2020/10372-000322-2016-50.md |
 | RJ2017/5917 | 2020-01-21 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO. Auditoria Independente. Não submissão ao Programa de Revisão Externa de Qualidade. Recurso conhecido e desprovido. | crsfn/2020/10372-100305-2019-64.md |
+
+Fim do subíndice.

@@ -12,3 +12,5 @@ Norma: [cvm/resolucoes/0047.md](../../../normas/normas/cvm/resolucoes/0047.md) (
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|---|
 | art. 5º | pas | 19957.001912/2024-11 | 2025-03-18 | parcial | divulgacao-informacoes | Atraso e não entrega de informações periódicas obrigatórias de fundos de investimento; dever de diligência. | cvm/pas/2025/19957-001912-2024-11.md |
+
+Fim do subíndice.

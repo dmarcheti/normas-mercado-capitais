@@ -7,6 +7,50 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: fora do acervo.
 
+## Sumário
+
+Este subíndice tem 683 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 1º | 54 |
+| art. 2º | 65 |
+| art. 3º | 153 |
+| art. 4º | 162 |
+| art. 5º | 173 |
+| art. 9º | 180 |
+| art. 18 | 189 |
+| art. 20 | 199 |
+| art. 22 | 206 |
+| art. 26 | 216 |
+| art. 27 | 235 |
+| art. 28 | 241 |
+| art. 29 | 248 |
+| art. 30 | 255 |
+| art. 36 | 261 |
+| art. 37 | 272 |
+| art. 38 | 279 |
+| art. 42 | 292 |
+| art. 44 | 300 |
+| art. 49 | 306 |
+| art. 50 | 315 |
+| art. 51 | 492 |
+| art. 52 | 498 |
+| art. 53 | 512 |
+| art. 54 | 528 |
+| art. 55 | 539 |
+| art. 56 | 545 |
+| art. 58 | 551 |
+| art. 60 | 557 |
+| art. 63 | 563 |
+| art. 64 | 574 |
+| art. 65 | 590 |
+| art. 66 | 608 |
+| art. 67 | 614 |
+| art. 69 | 620 |
+| art. 90 | 628 |
+| Citada sem dispositivo identificado | 634 |
+
 ## art. 1º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -635,3 +679,5 @@ Norma: fora do acervo.
 | acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | crsfn/2007/6039.md |
 | termo-compromisso | 12/2004 | 2006-11-07 | rejeitado | intermediacao | O Colegiado indeferiu nova proposta de termo de compromisso da Ipanema S.A. CCTVM (atual Forte S/A CCTVM) e de um acusado, em inquérito sobre opções flexíveis de dólar na BM&F. Oferecia R$ 50.000,00 e suspensão de um dos acusados por três anos; manteve decisão anterior de 01.08.06. Fundamento: proposta não proporcional à infração nem suficiente para a função preventiva. | cvm/colegiado/2006/col-20061107-d04.md |
 | termo-compromisso | 09/01 | 2006-11-07 | aceito | manipulacao-fraude | O Colegiado aceitou nova proposta de termo de compromisso do Exprinter Losan e outros, nos termos do voto do relator: pagamento à Receita Federal dos tributos correspondentes e à CVM de 20% do total pago à Receita. Antes, o Colegiado rejeitou proposta por valor distante do benefício fiscal. | cvm/colegiado/2006/col-20061107-d01.md |
+
+Fim do subíndice.

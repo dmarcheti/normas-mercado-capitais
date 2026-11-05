@@ -50,3 +50,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | 95/4538 | 1999-05-26 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Falta de remessa, à CVM, de informações periódicas relativas ao ano de 1995 – Não configuração de responsabilidade do indiciado – Recurso improvido – Arquivamento do processo. | crsfn/1999/2626.md |
 | 92/1841 | 1999-03-25 | absolvicao | pld | RECURSO DE OFÍCIO – Mercado de Valores Mobiliários – Fichas Cadastrais – Falhas de preenchimento e controle – Irregularidade caracterizada – Falta de participação do indiciado – Recurso improvido. | crsfn/1999/2577.md |
 | 96/3234 | 1999-01-28 | arquivamento | fundos-investimento | RECURSOS VOLUNTÁRIOS – Mercado de Valores Mobiliários – Fundo fiscal de investimento (Decreto-lei n° 157/67) – Reclamação de investidor quanto a atraso no pagamento do resgate – Infração caracterizada – Acolhimento de razões de defesa – Recursos providos. | crsfn/1999/2575.md |
+
+Fim do subíndice.

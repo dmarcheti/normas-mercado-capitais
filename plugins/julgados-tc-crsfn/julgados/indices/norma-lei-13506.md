@@ -7,6 +7,38 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
 Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
+## Sumário
+
+Este subíndice tem 622 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| art. 5º | 42 |
+| art. 8º | 48 |
+| art. 10 | 58 |
+| art. 11 | 68 |
+| art. 12 | 79 |
+| art. 13 | 85 |
+| art. 14 | 91 |
+| art. 15 | 97 |
+| art. 19 | 106 |
+| art. 20 | 112 |
+| art. 21 | 119 |
+| art. 22 | 128 |
+| art. 23 | 136 |
+| art. 24 | 143 |
+| art. 25 | 164 |
+| art. 26 | 174 |
+| art. 27 | 183 |
+| art. 28 | 192 |
+| art. 29 | 201 |
+| art. 30 | 229 |
+| art. 34 | 235 |
+| art. 35 | 254 |
+| art. 36 | 260 |
+| art. 293 | 266 |
+| Citada sem dispositivo identificado | 272 |
+
 ## art. 5º
 
 | Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
@@ -586,3 +618,5 @@ Norma: [leis/lei-13506.md](../../../normas/normas/leis/lei-13506.md) (texto vige
 | termo-compromisso | 19957.011050/2017-06 | 2019-02-19 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de Termo de Compromisso da Brandes Investment Partners, L.P., gestora discricionária, por comunicação intempestiva de redução de participação acionária (art. 12, ICVM 358/02), acompanhando o Comitê. Pagamento de R$ 50.000,00. | cvm/colegiado/2019/col-20190219-d1315.md |
 | acordao-crsfn | IA-2004-14 | 2018-09-20 | absolvicao | deveres-administradores | RECURSO DE OFÍCIO. Descumprimento de deveres fiduciários por diretor presidente de companhia controladora aberta e companhia controlada fechada. Não exercício do cargo de diretor presidente da companhia controladora aberta na época dos fatos configurado. Falta de competência da CVM para apreciar os fatos. Não provimento do recurso de ofício. | crsfn/2018/13156.md |
 | termo-compromisso | RJ2014/7072 | 2018-03-20 | rejeitado | deveres-administradores | O Colegiado, por unanimidade, rejeitou propostas de termo de compromisso de cinco membros do conselho fiscal de companhia aberta, que previam R$ 160.000,00 e impedimento de um ano para quatro deles. Acompanhou o relator, que as considerou inconvenientes pela gravidade das acusações, pelos valores e pelo estágio do processo. Acusação: falta de diligência ao examinar demonstrações financeiras. | cvm/colegiado/2018/col-20180320-d9984.md |
+
+Fim do subíndice.

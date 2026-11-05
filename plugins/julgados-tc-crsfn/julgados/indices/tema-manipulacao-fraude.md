@@ -5,6 +5,44 @@ Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, c
 Gerado por `scripts/indice.py`; não edite à mão.
 Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 
+## Sumário
+
+Este subíndice tem 389 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 2026 | 48 |
+| 2025 | 57 |
+| 2024 | 76 |
+| 2023 | 104 |
+| 2022 | 128 |
+| 2021 | 148 |
+| 2020 | 164 |
+| 2019 | 188 |
+| 2018 | 209 |
+| 2017 | 225 |
+| 2016 | 239 |
+| 2015 | 250 |
+| 2014 | 255 |
+| 2013 | 268 |
+| 2012 | 275 |
+| 2011 | 280 |
+| 2010 | 290 |
+| 2009 | 312 |
+| 2008 | 319 |
+| 2007 | 327 |
+| 2006 | 334 |
+| 2005 | 343 |
+| 2004 | 345 |
+| 2003 | 353 |
+| 2002 | 356 |
+| 2001 | 363 |
+| 2000 | 366 |
+| 1999 | 374 |
+| 1998 | 377 |
+| 1997 | 380 |
+| 1996 | 382 |
+
 | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
 |---|---|---|---|---|---|---|
 | acordao-crsfn | 19957.013886/2022-02 | 2026-08-11 | parcial | manipulacao-fraude | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. IRREGULARIDADES RELACIONADAS A PRÁTICAS NÃO EQUITATIVAS. Irregularidade caracterizada. Revisão da base de cálculo da multa para observância dos princípios da individualização da sanção e da proporcionalidade. Ajuste na dosimetria da pena. Recursos conhecidos. Parcial provimento. Desprovimento. | crsfn/2026/19957-013886-2022-02.md |
@@ -347,3 +385,5 @@ Caminhos relativos a `julgados/` (a pasta do `indice.md`).
 | acordao-crsfn | 09/93 | 1996-08-07 | outro | manipulacao-fraude | RECURSO DE OFÍCIO. Operações de compra e venda de ações vedadas pela Instrução CVM 10/80 art. 2º, alínea "d", e de prática não equitativa, vedada pela Instrução CVM 08/79. Inocorrência de prescrição administrativa e de decadência. Devolução do recurso ao órgão de primeira instância para julgamento de mérito. | crsfn/1996/1739.md |
 | acordao-crsfn | 09 | 1996-05-15 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO. Criação de condições artificiais de demanda, oferta ou preços de valores mobiliários. Infringência à Instrução Normativa CVM 08/79. Infrações não caracterizadas. | crsfn/1996/1649.md |
 | acordao-crsfn | 11/88 | 1996-02-15 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Criação de condições artificiais de demanda, oferta e preço. Uso de práticas não equitativas em operações com opções. Descumprimento da Resolução 238/72 e da Instrução CVM 33/84. | crsfn/1996/1552.md |
+
+Fim do subíndice.

@@ -26,3 +26,5 @@ Norma: fora do acervo.
 | decisao-colegiado | 19957.001852/2016-19 | 2017-07-18 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001852/2016-19. | cvm/colegiado/2017/col-20170718-d0740.md |
 | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20161121-d5347.md |
 | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | cvm/colegiado/2016/col-20160504-d5347.md |
+
+Fim do subíndice.

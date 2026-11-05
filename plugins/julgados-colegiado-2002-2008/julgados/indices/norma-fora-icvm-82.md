@@ -76,3 +76,5 @@ Norma: fora do acervo.
 | decisao-antiga | — | 1993-03-31 | — | — | Decisões do colegiado de 1993. | cvm/decisoes-antigas/1993.md |
 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | cvm/decisoes-antigas/1990.md |
 | decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | cvm/decisoes-antigas/1989.md |
+
+Fim do subíndice.
