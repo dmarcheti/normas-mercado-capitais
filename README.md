@@ -1,5 +1,46 @@
 # Normas do mercado de capitais
 
+**O texto das normas do mercado de capitais brasileiro e cerca de 15 mil julgados da CVM e do CRSFN, organizados para o Claude consultar artigo por artigo e citar a data-base de cada texto.**
+
+São as Resoluções e Instruções CVM vigentes, Pareceres de Orientação e Ofícios-Circulares, leis e decretos, normas do CMN e do BCB, códigos da ANBIMA e regulamentos da B3. A atualização é quinzenal, a partir das fontes oficiais. Feito por um analista de crédito estruturado para o próprio trabalho: FIDC, CRI, fundos e ofertas.
+
+Instalação no claude.ai ou no Claude Code em 5 minutos: veja [Instalação](#instalação).
+
+## Por que não basta perguntar ao Claude
+
+Sem o acervo, o Claude responde de memória. Essa memória tem data de corte e mistura redação vigente com redação revogada. Ele também cita número de artigo com a mesma segurança quando acerta e quando erra. Com o acervo, ele abre a norma, lê o artigo e cita o texto que leu.
+
+Medimos a diferença com 30 perguntas de normas e 30 de julgados, todas com gabarito conferido na fonte oficial. O mesmo modelo respondeu com e sem o acervo, e outro modelo corrigiu as respostas sem saber de que modo vinha cada uma (detalhes em [Bateria de perguntas](#bateria-de-perguntas)):
+
+| Em 30 perguntas | Com o acervo | Sem o acervo |
+|---|---|---|
+| Normas: conteúdo certo | 27 | 5 |
+| Normas: cita o dispositivo certo | 26 | 4 |
+| Normas: informa a data-base do texto | 29 | 0 |
+| Julgados: acha o caso certo | 25 | 1 |
+| Julgados: resposta inteiramente certa | 24 | 1 |
+
+## O que muda na resposta
+
+A skill orienta o Claude a consultar o acervo antes de responder, nesta ordem:
+
+1. **Acha a norma pelo índice:** por número, por assunto ou pelo mapa do produto (FIDC, CRI, FII).
+2. **Lê o artigo**, e não a norma inteira. Cada artigo tem título próprio, e o Claude vai direto a ele.
+3. **Cita o dispositivo** (artigo, parágrafo, inciso) e a **data-base**: até qual ato a norma foi atualizada e quando o texto foi conferido.
+4. **Avisa o que pode estar desatualizado:** ato publicado cuja consolidação oficial ainda não saiu, divergência entre o consolidado da CVM e os atos, texto lido por OCR.
+5. **Termina com o link da fonte oficial**, para conferência antes de usar em parecer ou contrato.
+
+Nos julgados, o caminho é parecido. O Claude acha o caso pelo número do processo, pelo tema ou pela norma citada e traz data, relator, resultado e valor. Avisa também quando a ementa foi escrita por modelo de linguagem e não pela CVM.
+
+## Por que Markdown
+
+- **Cabe na leitura do modelo.** O PDF de uma resolução tem dezenas de páginas, com cabeçalho, rodapé e quebra de coluna. Aqui, cada norma é um arquivo de texto e cada artigo é um título. O modelo lê só o trecho que importa, sem ruído de layout.
+- **Diz até quando vale.** O cabeçalho de cada arquivo informa a situação (vigente ou revogada), a data-base, o nível de verificação e as incertezas conhecidas. O Claude repassa essa informação na resposta.
+- **Guarda o histórico.** Nas normas centrais de fundos e securitização, cada ato alterador é um commit com a data do DOU. Dá para ver a redação de um artigo em qualquer data.
+- **Não prende a uma ferramenta.** É texto aberto no GitHub. Pessoas leem direto, e outras ferramentas de IA ou de busca usam os mesmos arquivos.
+
+## O que é
+
 Acervo em Markdown de normas do mercado de capitais brasileiro (regulação e orientação da CVM, leis e decretos, normas do CMN e do BCB e autorregulação da ANBIMA e da B3), organizado para consulta por pessoas e por assistentes de IA: um arquivo por norma, um título por artigo, metadados de situação e de data-base no cabeçalho e o histórico de alterações preservado em commits, um por ato alterador. O objetivo é dar ao analista de crédito estruturado o texto consolidado e rastreável até a fonte, com a data até a qual cada norma foi atualizada.
 
 ## Aviso
@@ -8,7 +49,7 @@ Este material não é oficial e não substitui o Diário Oficial da União nem o
 
 ## Status
 
-Em construção (repositório privado). Acervo atual, em camadas declaradas (data-base 2026-10-28 nas camadas 1 a 3, 2026-10-29 na camada 5 e 2026-10-30 na camada 4):
+Público desde 2026-11-05. Acervo atual, em camadas declaradas (data-base 2026-10-28 nas camadas 1 a 3, 2026-10-29 na camada 5 e 2026-10-30 na camada 4):
 
 1. **Regulação da CVM:** as 155 Resoluções CVM vigentes (as 154 do Estoque Regulatório da CVM de 2026-09-08, mais a Res. 249) e as 5 Instruções CVM ainda em vigor (438, 445, 489, 516 e 579, contábeis de fundos). Ficam fora as revogadas, as que só alteram outras e a Res. 26 (prorrogação de prazos de 2021, sem efeito atual [verificar]).
 2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 179 Ofícios-Circulares editados desde 2022-01-01 (7 deles por OCR, porque o PDF da CVM não tem camada de texto). Os 421 anteriores a 2022 aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
@@ -103,7 +144,16 @@ As 6 falhas com os julgados são de busca: o caso está no acervo, mas a respost
 
 ## Instalação
 
-Para quem for usar com um assistente de IA, ver `COMECE-AQUI.md`. No Claude Code:
+**No claude.ai** (navegador ou aplicativo):
+
+1. Em Configurações → Recursos, ligue "Executar código na nuvem". As skills precisam dele.
+2. Em Personalizar → Plugins, clique em Adicionar → Adicionar marketplace → Adicionar de um repositório. Informe `dmarcheti/normas-mercado-capitais` e clique em Sincronizar. A sincronização leva 1 a 2 minutos.
+3. Busque os plugins pelo nome e clique em Adicionar em cada um: `normas` e os `julgados-*` que for usar.
+4. Numa conversa nova, pergunte normalmente. Por exemplo: "Segundo a Resolução CVM 175, qual o quórum para destituir o gestor de um fundo?"
+
+Conta de empresa (Team ou Enterprise): o administrador pode ter bloqueado marketplaces externos.
+
+Para quem for usar com outro assistente de IA, ver `COMECE-AQUI.md`. **No Claude Code:**
 
 ```
 /plugin marketplace add dmarcheti/normas-mercado-capitais
