@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "norma": "cvm-res-19",
+  "ato": "Resolução CVM 250",
+  "ato_id": "cvm-res-250",
+  "ato_url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol250.html",
+  "data_dou": "2026-11-09",
+  "data_deteccao": "2026-11-12",
+  "classe": "C"
+ },
+ {
+  "norma": "cvm-res-9",
+  "ato": "Resolução CVM 251",
+  "ato_id": "cvm-res-251",
+  "ato_url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol251.html",
+  "data_dou": "2026-11-09",
+  "data_deteccao": "2026-11-12",
+  "classe": "C"
+ }
+]
