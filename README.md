@@ -8,9 +8,9 @@ Instalação no claude.ai ou no Claude Code em 5 minutos: veja [Instalação](#i
 
 ## Por que não basta perguntar ao Claude
 
-Sem o acervo, o Claude responde de memória. Essa memória tem data de corte e mistura redação vigente com redação revogada. Ele também cita número de artigo com a mesma segurança quando acerta e quando erra. Com o acervo, ele abre a norma, lê o artigo e cita o texto que leu.
+Sem o acervo, o Claude responde de memória ou busca na web. A memória tem data de corte e mistura redação vigente com redação revogada, e ele cita número de artigo com a mesma segurança quando acerta e quando erra. A busca na web acha sites de terceiros e notícias, mas não diz até qual ato alterador o texto está atualizado, e um ofício ou um julgado específico raramente aparece. Com o acervo, ele abre a norma, lê o artigo, cita o texto que leu e informa a data-base.
 
-Medimos a diferença com 30 perguntas de normas e 30 de julgados, todas com gabarito conferido na fonte oficial. O mesmo modelo respondeu com e sem o acervo, e outro modelo corrigiu as respostas sem saber de que modo vinha cada uma (detalhes em [Bateria de perguntas](#bateria-de-perguntas)):
+Medimos a diferença com 30 perguntas de normas e 30 de julgados, todas com gabarito conferido na fonte oficial. O mesmo modelo respondeu com e sem o acervo, sem busca na web, e outro modelo corrigiu as respostas sem saber de que modo vinha cada uma (detalhes em [Bateria de perguntas](#bateria-de-perguntas)):
 
 | Em 30 perguntas | Com o acervo | Sem o acervo |
 |---|---|---|
@@ -29,6 +29,10 @@ A skill orienta o Claude a consultar o acervo antes de responder, nesta ordem:
 3. **Cita o dispositivo** (artigo, parágrafo, inciso) e a **data-base**: até qual ato a norma foi atualizada e quando o texto foi conferido.
 4. **Avisa o que pode estar desatualizado:** ato publicado cuja consolidação oficial ainda não saiu, divergência entre o consolidado da CVM e os atos, texto lido por OCR.
 5. **Termina com o link da fonte oficial**, para conferência antes de usar em parecer ou contrato.
+
+Uma resposta real no claude.ai, com o plugin `normas` (trechos do início e do fim, em 2026-11-09):
+
+![Resposta do Claude sobre o quórum para destituir o gestor na Res. CVM 175: cita os arts. 70, 74, 76 e 78 e informa que o texto está atualizado até a Res. CVM 240/26](docs/img/resposta-quorum-res-175.png)
 
 Nos julgados, o caminho é parecido. O Claude acha o caso pelo número do processo, pelo tema ou pela norma citada e traz data, relator, resultado e valor. Avisa também quando a ementa foi escrita por modelo de linguagem e não pela CVM.
 
