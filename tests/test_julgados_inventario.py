@@ -203,7 +203,7 @@ class MontarTest(unittest.TestCase):
         self.assertEqual(r["tipo"], "termo-compromisso")
         self.assertEqual(len(r["termo_urls"]), 2)
         self.assertTrue(any("suspeito" in x for x in r["incerteza"]))
-        self.assertEqual(r["plugin"], "julgados-tc-crsfn")
+        self.assertNotIn("plugin", r)
         # o item de 2002 não vira TC
         self.assertEqual(self.por_id["cvm-col-20020416-d09"]["tipo"], "decisao-colegiado")
 
@@ -237,11 +237,11 @@ class MontarTest(unittest.TestCase):
         self.assertEqual((p["url"], p["data"], p["rito"]), ("", "2022-02-15", "ordinario"))
         self.assertEqual(self.resumo["pas_fonte_pendente"], 1)
 
-    def test_classe_e_plugin(self):
+    def test_classe_e_sem_campo_plugin(self):
         r = self.por_id["cvm-col-20180814-d1110"]
-        self.assertEqual((r["classe"], r["plugin"]),
-                         ("multa-cominatoria", "julgados-colegiado-2016-2026"))
-        self.assertEqual(self.por_id["cvm-dec-1978"]["plugin"], "julgados-colegiado-2002-2008")
+        self.assertEqual(r["classe"], "multa-cominatoria")
+        # o conceito de plugin de julgados acabou (Fase 6): o inventário não traz o campo
+        self.assertTrue(all("plugin" not in x for x in self.por_id.values()))
 
     def test_enxuto_sem_titulo(self):
         e = ji.enxuto(self.regs)
@@ -308,7 +308,7 @@ class NoticiasTest(unittest.TestCase):
         self.assertEqual([p["rotulo"] for p in r["pecas"]], ["voto", "relatório"])
         self.assertEqual(r["sei_urls"], [SEI % "102"])  # o último extrato (retificação)
         self.assertEqual(r["rito"], "ordinario")
-        self.assertEqual(r["plugin"], "julgados-pas")
+        self.assertNotIn("plugin", r)
         self.assertEqual(self.resumo["pas_fonte_pendente"], 0)
         self.assertEqual(self.resumo["planilha_com_noticia"], 1)
 

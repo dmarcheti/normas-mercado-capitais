@@ -50,8 +50,7 @@ class Arvore(unittest.TestCase):
         self.addCleanup(p.stop)
 
     def julgado(self, id_, tipo="decisao-colegiado", corpo=CORPO, **kw):
-        plug = "julgados-pas" if tipo == "pas" else "julgados-colegiado-2016-2026"
-        c = os.path.join(self.raiz, "plugins", plug, "julgados", "cvm", "x", "2025", id_ + ".md")
+        c = os.path.join(self.raiz, "julgados", "cvm", "x", "2025", id_ + ".md")
         os.makedirs(os.path.dirname(c), exist_ok=True)
         ex.gravar(c, valores(id=id_, tipo=tipo, **kw), corpo)
         return c
@@ -649,7 +648,7 @@ class SituacaoTest(unittest.TestCase):
 
 
 class ReextracaoTest(Arvore):
-    """Lista, reextração retomável (sem tocar em plugins/) e aplicação."""
+    """Lista, reextração retomável (sem tocar em julgados/) e aplicação."""
 
     def setUp(self):
         super().setUp()
@@ -712,9 +711,9 @@ class ReextracaoTest(Arvore):
         (rel,) = [x for x in os.listdir(self.saida) if x.startswith("aplicacao-")]
         return ler(os.path.join(self.saida, rel))
 
-    def plugins(self):
+    def texto_julgados(self):
         out = {}
-        for c in sorted(ex.glob.glob(os.path.join(self.raiz, "plugins", "**", "*.md"),
+        for c in sorted(ex.glob.glob(os.path.join(self.raiz, "julgados", "**", "*.md"),
                                      recursive=True)):
             with open(c, encoding="utf-8") as f:
                 out[c] = f.read()
@@ -735,9 +734,9 @@ class ReextracaoTest(Arvore):
                          {"itens": 2, "ementa": 1, "resultado": 2, "ementa_e_resultado": 1})
         self.assertEqual(lista["contagens"]["total"]["itens"], 5)
 
-    def test_reextrair_retoma_sem_refazer_e_nao_toca_em_plugins(self):
+    def test_reextrair_retoma_sem_refazer_e_nao_toca_em_julgados(self):
         self.arvore()
-        antes = self.plugins()
+        antes = self.texto_julgados()
         rc, out = self.rodar("--limite", "2", "--model", "sonnet")
         self.assertEqual(rc, 0)
         self.assertEqual(self.chamadas, [["cvm-col-a", "cvm-col-b"]])
@@ -748,7 +747,7 @@ class ReextracaoTest(Arvore):
         rc, out = self.rodar()  # nada pendente
         self.assertEqual(len(self.chamadas), 2)
         self.assertIn("0 de 5", out)
-        self.assertEqual(self.plugins(), antes)
+        self.assertEqual(self.texto_julgados(), antes)
         for d in os.listdir(self.saida):
             self.assertEqual(sorted(os.listdir(os.path.join(self.saida, d))),
                              sorted(["caminhos.json", "escopo.json", "execucao.json",
@@ -786,14 +785,14 @@ class ReextracaoTest(Arvore):
             "cvm-pas-1": {"situacao": "decidido", "ementa": "Nova ementa do PAS.",
                           "resultado": "condenacao"}}
         self.rodar()
-        antes = self.plugins()
+        antes = self.texto_julgados()
         rel = self.aplicar("--simular")
-        self.assertEqual(self.plugins(), antes)  # simulado: nada gravado
+        self.assertEqual(self.texto_julgados(), antes)  # simulado: nada gravado
         self.assertTrue(rel["simulado"])
         os.remove(os.path.join(self.saida, [x for x in os.listdir(self.saida)
                                             if x.startswith("aplicacao-")][0]))
         rel = self.aplicar()
-        depois = self.plugins()
+        depois = self.texto_julgados()
         a = [c for c in depois if c.endswith("cvm-col-a.md")][0]
         v, _ = ex.ler_julgado(a)
         self.assertEqual(v["ementa"], "O Colegiado concedeu a dispensa.")
@@ -830,7 +829,7 @@ class ReextracaoTest(Arvore):
         self.rodar()
         self.assertEqual(self.chamadas[-1], ["cvm-col-a"])  # retentativa só da ementa no escopo
         rel = self.aplicar()
-        v, corpo = ex.ler_julgado([c for c in self.plugins() if c.endswith("cvm-col-a.md")][0])
+        v, corpo = ex.ler_julgado([c for c in self.texto_julgados() if c.endswith("cvm-col-a.md")][0])
         titulo = re.search(r"(?m)^# (.+)$", corpo).group(1)
         self.assertEqual(v["ementa"], jc.ementa_de_titulo(titulo, "dispensa"))
         self.assertEqual(v["ementa_fonte"], "titulo")

@@ -12,14 +12,14 @@
 - texto_da_norma(path) -> texto do arquivo único, ou do `index.md` seguido das
   partes (na ordem), concatenados.
 
-Uso: python3 scripts/validar.py plugins/normas/normas
+Uso: python3 scripts/validar.py plugins/normas/skills/consultar-normas/normas
 Valida cada norma em `<orgao>/resolucoes/`, `instrucoes/`, `pareceres-orientacao/`,
 `oficios-circulares/<pasta>/`, `leis/`, nas pastas do BCB (`resolucoes-conjuntas/`,
 `circulares/`, `cartas-circulares/`, `instrucoes-normativas/`) e em
 `autorregulacao/<orgao>/` sob o diretório dado (arquivo único ou o `index.md` da
 pasta). Os atos alteradores (`alteradoras/`), os índices (`indice.md`, `indices/`) e
 o `autorregulacao/README.md` não seguem este schema.
-Julgados (SPEC v0.5.0): `python3 scripts/validar.py plugins/julgados-<plugin>/julgados`
+Julgados (SPEC v0.5.0): `python3 scripts/validar.py julgados`
 (raiz chamada `julgados`, ou qualquer raiz com `--julgados`). Valida cada `.md` sob a raiz,
 fora o `indice.md` e a pasta `indices/`, com validar_julgado(path, ids). Os ids de
 `normas_citadas` e `dispositivos_citados` são conferidos contra o `normas.json` do acervo
@@ -396,7 +396,7 @@ def arquivos_de_normas(raiz):
 # ---------------------------------------------------------------- julgados (v0.5.0)
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-NORMAS_JSON = os.path.join(AQUI, "..", "plugins", "normas", "normas", "normas.json")
+NORMAS_JSON = os.path.join(AQUI, "..", "plugins", "normas", "skills", "consultar-normas", "normas", "normas.json")
 # id e arquivo por tipo: (órgão, regex do id, pasta sob julgados/ com {ano}, prefixo tirado do id)
 _PROC = r"[a-z0-9]+(?:-[a-z0-9]+)*"
 JULGADO_TIPOS = {

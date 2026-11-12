@@ -32,4 +32,4 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 ## Citações e julgados
 
 - [indices/citacoes.md](indices/citacoes.md): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de autorregulação do acervo que o citam (70 norma(s) citada(s); extração por script).
-- Os julgados da CVM e do CRSFN ficam nos plugins `julgados-*`. Julgado não é norma: diz o que se decidiu num caso, com a redação da época.
+- Os índices dos julgados da CVM e do CRSFN estão em [../julgados/indice.md](../julgados/indice.md) e o texto deles, em `julgados/` na raiz do repositório. Julgado não é norma: diz o que se decidiu num caso, com a redação da época.

@@ -825,7 +825,7 @@ class ConverterTest(unittest.TestCase):
         self.assertEqual(confs["02-anexo.pdf"]["conferencia"], "sem conferência independente")
         caminho, md = self.gravar_e_validar(valores, corpo)
         self.assertTrue(caminho.endswith(os.path.join(
-            "julgados-tc-crsfn", "julgados", "cvm", "colegiado", "2025",
+            "julgados", "cvm", "colegiado", "2025",
             "col-20251202-d3228.md")))
         self.assertEqual(list(frontmatter(md)), list(jc.CAMPOS))
 

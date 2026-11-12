@@ -1,0 +1,96 @@
+# Decisões antigas (1978 a 2001), 1993
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+
+Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+
+| Data da ata | Ata | Processo | Título | Arquivo:linha |
+|---|---|---|---|---|
+| 1993-12-07 | 34 | Reg. 212/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O REGISTRO E O EXERCÍCIO DA ATIVIDADE DE AUDITORIA… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:35 |
+| 1993-12-07 | 34 | — | INSTRUÇÃO DISCIPLINANDO DIVULGAÇÃO SOBRE OPERAÇÕES DE "BOX" REALIZADAS PELAS BOLSAS DE VALORES | ../../../../../julgados/cvm/decisoes-antigas/1993.md:43 |
+| 1993-11-30 | 33 | Reg. 204/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A DISPENSA OU CANCELAMENTO DE REGISTRO DAS SOCIEDADES… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:59 |
+| 1993-11-30 | 33 | Reg. 179/93 | MINUTA DE INSTRUÇÃO SOBRE CONCESSÃO E ATUALIZAÇÃO DE REGISTRO DE COMPANHIA ABERTA – CONSOLIDA AS… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:67 |
+| 1993-11-30 | 33 | Reg. 140/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A ADMINISTRAÇÃO DOS FUNDOS… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:74 |
+| 1993-11-30 | 33 | Reg. 137/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O CÓDIGO OPERACIONAL PARA INVESTIDORES INSTITUCIONAIS… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:81 |
+| 1993-11-30 | 33 | Reg. 165/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBE A FORMA DE PUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS PREVISTA NA… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:89 |
+| 1993-11-30 | 33 | Reg. 211/93 | CONVÊNIO PARA PRESTAÇÃO DE SERVIÇOS ENTRE A CVM E O IBMEC | ../../../../../julgados/cvm/decisoes-antigas/1993.md:96 |
+| 1993-11-17 | 31 | Reg. 166/93 | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA CONTRA MAGLIANO S/A CORRETORA DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:113 |
+| 1993-11-03 | 29 | Reg. 022/93 | RECURSO CONTRA DECISÃO DA SEP – REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS DA CAMBUCI S.A., DE | ../../../../../julgados/cvm/decisoes-antigas/1993.md:132 |
+| 1993-11-03 | 29 | Reg. 185/93 | MINUTA DE INSTRUÇÃO QUE TRATA DE DIVULGAÇÃO DE INFORMAÇÕES PELAS INSTITUIÇÕES ADMINISTRADORAS DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:141 |
+| 1993-10-18 | 28 | Reg. 172/93 | RECURSO CONTRA DECISÃO DA SEP – ALIENAÇÃO DE CONTROLE DA LACESA S/A IND. DE ALIMENTOS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:156 |
+| 1993-10-18 | 28 | Reg. 140/93 | MINUTA DE INSTRUÇÃO CONSOLIDADA SOBRE FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES; FUNDOS MÚTUOS DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:166 |
+| 1993-09-28 | 25 | Reg. 170/93 | POSSIBILIDADE DE INVESTIDOR ESTRANGEIRO ADQUIRIR COTAS DE FUNDOS MÚTUOS DE AÇÕES – CARTEIRA | ../../../../../julgados/cvm/decisoes-antigas/1993.md:182 |
+| 1993-09-28 | 25 | Reg. 007/93 | RECURSO CONTRA DECISÃO DA SMI – FUNDO DE GARANTIA DA BOLSA DE VALORES DO EXTREMO SUL | ../../../../../julgados/cvm/decisoes-antigas/1993.md:199 |
+| 1993-09-21 | 24 | Reg. 165/93 | INSTRUÇÃO SOBRE PUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS EM MOEDA CONSTANTE | ../../../../../julgados/cvm/decisoes-antigas/1993.md:219 |
+| 1993-09-14 | 23 | Reg. 015/93 | RECUSO CONTRA DECISÃO DA SMI EM PROCESSO DE RECLAMAÇÃO AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1993.md:233 |
+| 1993-09-14 | 23 | — | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE DEBÊNTURES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:242 |
+| 1993-09-14 | 23 | Reg. 134/93 | EMPRESAS DE ENERGIA ELÉTRICA – REVERSÃO DE CRC | ../../../../../julgados/cvm/decisoes-antigas/1993.md:250 |
+| 1993-09-14 | 23 | — | RECURSO CONTRA DECISÃO DO COLEGIADO – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:260 |
+| 1993-09-14 | 23 | Reg. 119/93 | REVOGAÇÃO DA OBRIGATORIEDADE DE REVISÃO, PELOS AUDITORES INDEPENDENTES, NAS INFORMAÇÕES TRIMESTRAIS… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:271 |
+| 1993-09-08 | 22 | Reg. 084/93 | MINUTA DE INSTRUÇÃO QUE REGULAMENTA OS FUNDOS IMOBILIÁRIOS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:286 |
+| 1993-08-31 | 21 | Reg. 028/93 | REFORMULAÇÃO DA INSTRUÇÃO 33/84 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:305 |
+| 1993-08-17 | 19 | Reg. 014/93 | ALIENAÇÃO DE CONTROLE DO GRUPO BANGU | ../../../../../julgados/cvm/decisoes-antigas/1993.md:322 |
+| 1993-08-12 | 18 | Reg. 017/93 | RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOVESPA – RECURSO CONTRA DECISÃO DA SMI | ../../../../../julgados/cvm/decisoes-antigas/1993.md:358 |
+| 1993-08-03 | 17 | Reg. 055/93 | ALIENAÇÃO DE CONTROLE DA MONTREAL ENGENHARIA – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1993.md:378 |
+| 1993-08-03 | 17 | Reg. 072/93 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:390 |
+| 1993-08-03 | 17 | Reg. 082/93 | RECLAMAÇÃO CONTRA FUNDO DE GARANTIA DA BOVESPA – RECURSO CONTRA DECISÃO DA SMI | ../../../../../julgados/cvm/decisoes-antigas/1993.md:414 |
+| 1993-08-03 | 17 | Reg. 035/93 | RECLAMAÇÃO CONTRA FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1993.md:430 |
+| 1993-08-03 | 17 | Reg. 102/93 | MINUTA DE INSTRUÇÃO QUE FIXA PRAZOS PARA AUTORIZAÇÃO PELA CVM DOS ATOS QUE ESPECIFICA | ../../../../../julgados/cvm/decisoes-antigas/1993.md:444 |
+| 1993-07-14 | 15 | Reg. 062/93 | CONSULTA DO BANCO CENTRAL DO BRASIL SOBRE POSICIONAMENTO DA CVM NO SENTIDO DA REVOGAÇÃO DO ART. 3º… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:461 |
+| 1993-07-14 | 15 | Reg. 101/93 | RECURSO CONTRA DECISÃO DA SIN – CREDENCIAMENTO DO SR. [pessoa física] ADMINISTRADOR DE CARTEIRA DA… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:470 |
+| 1993-07-07 | 14 | Reg. 053/93 | RECURSO CONTRA DECISÃO DO DEMIR EM PROCESSO ADMINISTRATIVO DE RITO SUMÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:488 |
+| 1993-07-07 | 14 | Reg. 011/93 | PLEITO DA BOLSA DE VALORES DO RIO DE JANEIRO DE APROVAÇÃO DE SEU ESTATUTO SOCIAL | ../../../../../julgados/cvm/decisoes-antigas/1993.md:499 |
+| 1993-07-07 | 14 | Reg. 089/93 | MINUTA DE COMUNICADO CONJUNTO CVM-BACEN – ANEXOS I, II, III E IV DA RESOLUÇÃO CMN 1289/87 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:509 |
+| 1993-07-07 | 14 | Reg. 024/93 | CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE VALORES MOBILIÁRIOS – INSTRUÇÃO CVM Nº 82 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:518 |
+| 1993-07-07 | 14 | Reg. 048/93 | FISCALIZAÇÃO DE FUNDAÇÃO DE SEGURIDADE SOCIAL PELA CVM EM FACE DE LIMINAR CONCEDIDA EM AÇÃO DIRETA… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:540 |
+| 1993-07-07 | 14 | — | RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1993.md:564 |
+| 1993-06-30 | 13 | rj1993-0757 | RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DEMONSTRAÇÕES CONTÁBEIS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:588 |
+| 1993-06-30 | 13 | Reg. 081/93 | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE AÇÕES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:598 |
+| 1993-06-30 | 13 | — | AUTORIZAÇÃO PARA PRESTAÇÃO DE SERIVÇOS DE CUSTÓDIA FUNGÍVEL DE VALORES MOBILIÁRIOS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:608 |
+| 1993-06-30 | 13 | — | ESTRUTURA ORGANIZACIONAL – DELIBERAÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:617 |
+| 1993-06-28 | 12 | — | YPF SOCIEDAD ANÓNIMA – CONCESSÃO DOS REGISTROS DE QUE TRATAM OS ARTIGOS 19 E 21 DA LEI Nº 6385/76 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:631 |
+| 1993-06-23 | 11 | — | REGULAMENTAÇÃO DA ATUAÇÃO DE DEPENDÊNCIA SIMPLES DE CORRETORA EM PRAÇAS ONDE NÃO SEJA FILIADA À | ../../../../../julgados/cvm/decisoes-antigas/1993.md:648 |
+| 1993-06-23 | 11 | — | INSTRUÇÃO PERMITINDO A AQUISIÇÃO, POR FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES E FUNDOS MÚTUOS DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:668 |
+| 1993-06-16 | 10 | Reg. 066/93 | RECURSO CONTRA DECISÃO DO DEMIR – ATUALIZAÇÃO DO PATRIMÔNIO SOCIAL | ../../../../../julgados/cvm/decisoes-antigas/1993.md:680 |
+| 1993-06-09 | 09 | — | SOLICITAÇÃO DE REVISÃO DA AUTORIZAÇÃO CONCEDIDA PARA AS ATIVIDADES DA CÂMARA DE LIQUIDAÇÃO E… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:708 |
+| 1993-06-09 | 09 | — | RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOLSA DE VALORES – PEDIDO DE ESCLARECIMENTO DA BVRJ QUANTO À… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:719 |
+| 1993-06-09 | 09 | — | CONSULTA SOBRE A POSSIBILIDADE DE INCORPORAÇÃO, POR FUNDO MÚTUO DE INVESTIMENTO EM AÇÕES, DE UM… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:735 |
+| 1993-06-02 | 08 | rj1993-0635 | RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:754 |
+| 1993-06-02 | 08 | Reg. 008/93 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – FUNDO DE GARANTIA DA BOLSA DE VALORES DO RIO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:770 |
+| 1993-06-02 | 08 | Reg. 052/93 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DA ÁREA TÉCNICA – ADMISSÃO DE NÚMERO ILIMITADO DE COTISTAS EM… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:782 |
+| 1993-05-04 | 05 | Reg. 009/93 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO, DE 17.06.92 - BASE DE CÁLCULO DOS DIVIDENDOS DAS… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:801 |
+| 1993-05-04 | 05 | Reg. 020/93 | RECURSO CONTRA DECISÃO DO DERER – OBRIGATORIEDADE DO REGISTRO DE SOCIEDADE BENFICIÁRIA DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:820 |
+| 1993-05-04 | 05 | Reg. 023/93 | SOLICITAÇÃO DE CANCELAMENTO DE CREDENCIAMENTO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:831 |
+| 1993-05-04 | 05 | Reg. 019/93 | SOLICITAÇÃO DE CREDENCIAMENTO PARA PRESTAÇÃO DE SERVIÇOS DE AÇÕES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:844 |
+| 1993-04-26 | 04 | — | AUTORIZAÇÃO PARA ADMINISTRAÇÃO DE FUNDO DE CONVERSÃO – CAPITAL ESTRANGEIRO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:861 |
+| 1993-04-26 | 04 | — | AQUISIÇÃO DE AÇÕES PARA DOAÇÃO A FUNCIONÁRIOS – EXCEPCIONALIDADE À INSTRUÇÃO CVM Nº 10 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:877 |
+| 1993-04-26 | 04 | — | PEDIDO DE REABERTURA DE CAPITAL – EXCEPCIONALIDADE À INSTRUÇÃO CVM Nº 185 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:890 |
+| 1993-04-26 | 04 | — | AUDITORIA NA BOLSA DE VALORES DO EXTREMO SUL | ../../../../../julgados/cvm/decisoes-antigas/1993.md:901 |
+| 1993-04-05 | 02 | — | CORREÇÃO MONETÁRIA DOS DIVIDENDOS – RECURSO CONTRA DECISÃO DO DERER – REPUBLICAÇÃO DE DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:915 |
+| 1993-03-31 | 01 | — | CORRETAGEM E DEMONSTRAÇÕES FINANCEIRAS DE COMPANHIAS ABERTAS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:940 |
+| 1993-03-31 | 01 | — | RECURSO CONTRA DECISÃO DO DERER – OFERTA PÚBLICA AOS ACIONISTAS MINORITÁRIOS DA ACESITA | ../../../../../julgados/cvm/decisoes-antigas/1993.md:948 |
+| 1993-03-31 | 01 | — | PRESTAÇÃO DE SERVIÇOS DE CUSTÓDIA DE VALORES MOBILIÁRIOS – INSTRUÇÃO CVM Nº 89/88 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1007 |
+| 1993-03-31 | 01 | — | PRESTAÇÃO DE SERVIÇOS DE DEBÊNTURES ESCRITURAIS – INSTRUÇÃO CVM Nº 89/88 | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1015 |
+| 1993-03-31 | 01 | — | DELEGAÇÃO DE COMPETÊNCIA – APROVAÇÃO DE PLEITOS RELATIVOS AO REGULAMENTO ANEXO IV À RESOLUÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1025 |
+| 1993-03-31 | 01 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA VETOR CVM S.A. | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1040 |
+| 1993-03-31 | 01 | — | RECURSO CONTRA DECISÃO SEP – PANEX S.A. INDÚSTRIA E COMÉRCIO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1051 |
+| 1993-03-31 | 01 | — | RECURSO CONTRA DECISÃO SEP – PERDIGÃO AGROINDUSTRIAL S.A. | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1079 |
+| 1993-03-31 | 01 | — | REPUBLICAÇÃO DEMONSTRAÇÃO FINANCEIRA – CHAPECÓ AVÍCOLA S.A., [pessoa física]. E COM. CHAPECÓ… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1128 |
+| 1993-03-31 | 01 | — | CARTA CONSULTA UNIBANCO – ANEXO IV | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1155 |
+| 1993-03-31 | 01 | — | PROPOSTA DE ALTERAÇÃO NO CONTRATO DE ADMINISTRAÇÃO ENTRE [pessoa física] E O BRADESCO | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1164 |
+| 1993-03-31 | 01 | — | PLEITO TOZZINI, FREIRE, TEIXEIRA E SILVA (G.T. LATIN AMERICA FUND) | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1173 |
+| 1993-03-31 | 01 | — | PLEITO BANCO HKB S.A. – CONTA COLETIVA – ([pessoa física] INC.) | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1180 |
+| 1993-03-31 | 01 | — | APROVADO "AD REFEREDUM | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1185 |
+| 1993-03-31 | 01 | — | PLEITO SODRIL S.A. CTV – CONTA COLETIVA – (BROWN BROTHERS HARRIMAN & CO.) | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1190 |
+| 1993-03-31 | 01 | — | APROVADO "AD REFEREDUM | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1195 |
+| 1993-03-31 | 01 | — | DISPENSA DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS – VARIG S/A E CRUZEIRO DO SUL S/A | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1201 |
+| 1993-03-31 | 01 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – [pessoa física] – RECLAMAÇÃO AO FUNDO DE… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1218 |
+| 1993-03-31 | 01 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA CONTRA A GRIFFO CORRETORA DE VALORES… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1226 |
+| 1993-03-31 | 01 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ CONTRA MIL CORRETORA DE CÂMBIO E VALORES… | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1237 |
+| 1993-03-31 | 01 | — | CONSULTA DO BANCO OMEGA S/A – CONSTITUIÇÃO DE CLUBE DE INVESTIMENTO PELA CAIXA DOS EMPREGADOS | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1246 |
+| 1993-03-31 | 01 | — | DEVOLUÇÃO DA TAXA DE FISCALIZAÇÃO – TUPY METAL MECÂNICA S.A E TUPY S.A. | ../../../../../julgados/cvm/decisoes-antigas/1993.md:1259 |
+
+Fim do subíndice.

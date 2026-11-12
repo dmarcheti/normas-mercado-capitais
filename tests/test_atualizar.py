@@ -30,14 +30,14 @@ URL_PO = "https://conteudo.cvm.gov.br/legislacao/pareceres-orientacao/pare042.ht
 URL_PDF_VELHO = "https://www.anbima.com.br/data/files/velho.pdf"
 URL_PDF_NOVO = "https://www.anbima.com.br/data/files/novo.pdf"
 URL_SEI = "https://colaboragov.sei.gov.br/sei/publicacoes/controlador_publicacoes.php?id_documento=1"
-CRSFN = "plugins/julgados-tc-crsfn/julgados/crsfn/2026"
-NORMAS = "plugins/normas/normas"
+CRSFN = "julgados/crsfn/2026"
+NORMAS = "plugins/normas/skills/consultar-normas/normas"
 CPF_FICTICIO = "529.982." + "247-25"  # por concatenação, para não haver CPF literal no repo
 
 
 def cam_j(id_, ano="2026"):
     """Caminho do julgado do Colegiado como o julgados_converter grava."""
-    return "plugins/" + jc.caminho_relativo("decisao-colegiado", id_, ano)
+    return "julgados/" + jc.caminho_relativo("decisao-colegiado", id_, ano)
 
 
 def fx(nome, modo="r"):
@@ -257,8 +257,8 @@ def b1(n=250, alvo="cvm-res-88"):
 def j(id_, data="2026-11-03"):
     return item("J", id_, (), "https://conteudo.cvm.gov.br/decisoes/2026/%s.html" % id_, data,
                 {"tipo": "decisao-colegiado", "classe": "outros", "processo": "19957.000001/2026-01",
-                 "url": "https://conteudo.cvm.gov.br/decisoes/2026/%s.html" % id_, "data": data,
-                 "plugin": "julgados-colegiado-2016-2026"}, fonte="colegiado")
+                 "url": "https://conteudo.cvm.gov.br/decisoes/2026/%s.html" % id_, "data": data},
+                fonte="colegiado")
 
 
 # ---------------------------------------------------------------- classes
@@ -455,8 +455,7 @@ class TestClasses(Base):
         inv = ler(self.raiz, "fontes/julgados-inventario.json")
         self.assertEqual(inv, [{"id": "cvm-col-20261103-d3649", "tipo": "decisao-colegiado", "classe": "outros",
                                 "processo": "19957.000001/2026-01", "data": "2026-11-03",
-                                "url": "https://conteudo.cvm.gov.br/decisoes/2026/cvm-col-20261103-d3649.html",
-                                "plugin": "julgados-colegiado-2016-2026"}])
+                                "url": "https://conteudo.cvm.gov.br/decisoes/2026/cvm-col-20261103-d3649.html"}])
         completo = ler(self.saida, "inventario-j.json")["julgados"][0]
         self.assertEqual((completo["proc"], completo["origem"]), ("19957-000001-2026-01", "colegiado"))
         auto = ler(self.saida, "itens-automaticos.json")["itens"]
@@ -727,7 +726,7 @@ class TestCriterio(Base):
         self.assertIn("unittest", nomes)
         validar = [c[1][2] for c in self.sim.chamadas if c[0] == "validar.py"]
         self.assertIn(NORMAS, validar)
-        self.assertTrue(any(v.endswith("julgados-colegiado-2016-2026/julgados") for v in validar))
+        self.assertIn("julgados", validar)  # o texto dos julgados, na raiz do repositório
         self.assertTrue(any(c[0] == "indice.py" and "--verificar" in c[1] for c in self.sim.chamadas))
         env = next(c for c in self.sim.chamadas if c[0] == "unittest")
         self.assertTrue(env)
@@ -826,6 +825,19 @@ class TestCorrecao1(Base):
         self.assertTrue(any("controle" in f for f in falhas), falhas)
         gravar(self.raiz, "fontes/y.json", "{quebrado")
         self.assertEqual(at.varrer(a, ["fontes/y.json"]), ["fontes/y.json: JSON ilegível"])
+
+    def test_julgado_e_o_texto_na_raiz_e_indice_e_o_da_skill(self):
+        self.assertTrue(at.e_julgado("julgados/cvm/pas/2025/x.md"))
+        self.assertFalse(at.e_julgado("plugins/normas/skills/consultar-normas/julgados/indice.md"))
+        self.assertTrue(at.e_indice("plugins/normas/skills/consultar-normas/julgados/indice.md"))
+        self.assertTrue(at.e_indice("plugins/normas/skills/consultar-normas/julgados/indices/pas-2025.md"))
+        self.assertFalse(at.e_julgado("plugins/normas/skills/consultar-normas/normas/cvm/resolucoes/0088.md"))
+        self.assertFalse(at.e_julgado("plugins/julgados-pas/julgados/cvm/pas/2025/x.md"))  # estrutura antiga
+
+    def test_gate_sem_pasta_julgados_falha(self):
+        shutil.rmtree(os.path.join(self.raiz, "julgados"))
+        falhas = at.rodar_gate(self.amb())
+        self.assertTrue(any("julgados: pasta não existe" in f for f in falhas), falhas)
 
     def test_plugin_json_nao_fica_isento_da_condicao_6(self):
         self.assertFalse(at.e_indice("plugins/normas/.claude-plugin/plugin.json"))

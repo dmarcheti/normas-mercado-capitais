@@ -87,7 +87,9 @@ TETO_JULGADOS, TETO_NORMAS = 40, 5
 LIMITE_MB, LIMITE_ARQUIVOS = 180, 4500
 CONDICOES = ("1-classes", "2-conferencia", "3-gate", "4-varredura", "5-revisor", "6-arquivos",
              "7-teto", "8-plugins", "9-ci")
-NORMAS = os.path.join("plugins", "normas", "normas")
+NORMAS = os.path.join("plugins", "normas", "skills", "consultar-normas", "normas")
+# texto dos julgados na raiz do repositório; os índices ficam na skill (plugins/normas/.../julgados)
+JULGADOS = "julgados"
 O_QUE_SERIA = {
     "D": "marcar a norma como revogada (situacao e aviso) e tirá-la do texto vigente",
     "E": "tratar o evento manualmente (classe sem aplicação automática)",
@@ -160,9 +162,9 @@ def diff_curto(antigo, novo, rel, maximo=60):
 
 
 def foto(raiz):
-    """{rel: (tamanho, mtime_ns)} de plugins/ e fontes/."""
+    """{rel: (tamanho, mtime_ns)} de plugins/, julgados/ e fontes/."""
     out = {}
-    for base in ("plugins", "fontes"):
+    for base in ("plugins", "julgados", "fontes"):
         for dp, _, fn in os.walk(os.path.join(raiz, base)):
             for f in fn:
                 p = os.path.join(dp, f)
@@ -173,7 +175,7 @@ def foto(raiz):
 
 def foto_hash(raiz):
     out = {}
-    for base in ("plugins", "fontes", ".claude-plugin"):
+    for base in ("plugins", "julgados", "fontes", ".claude-plugin"):
         for dp, _, fn in os.walk(os.path.join(raiz, base)):
             for f in fn:
                 p = os.path.join(dp, f)
@@ -196,12 +198,12 @@ def e_indice(rel):
     if base in ("plugin.json", "marketplace.json"):
         return False
     return (base in ("indice.md", "normas.json") or "/indices/" in rel.replace(os.sep, "/")
-            or (rel.startswith("plugins/") and base.endswith(".json") and "/julgados/" not in rel))
+            or (rel.startswith("plugins/") and base.endswith(".json")))
 
 
 def e_julgado(rel):
     r = rel.replace(os.sep, "/")
-    return bool(re.match(r"plugins/julgados-[^/]+/julgados/", r)) and not e_indice(r) and r.endswith(".md")
+    return r.startswith("julgados/") and not e_indice(r) and r.endswith(".md")
 
 
 # ---------------------------------------------------------------- ambiente
@@ -838,7 +840,7 @@ def entrada_enxuta(it):
     d = it.get("dados") or {}
     return {"id": it["id"], "tipo": d.get("tipo", ""), "classe": d.get("classe", ""),
             "processo": d.get("processo", ""), "data": d.get("data") or it.get("data") or "",
-            "url": d.get("url") or it.get("url") or "", "plugin": d.get("plugin", "")}
+            "url": d.get("url") or it.get("url") or ""}
 
 
 def gravar_decisao(amb, it, decisao, motivo, classe):
@@ -861,7 +863,7 @@ def triar_crsfn(amb, it, r):
     m = re.match(r"^(crsfn-\d{5}-\d{6}-\d{4}-\d{2})-(\d+)$", it["id"])
     if m:
         base = m.group(1)
-        achados = glob.glob(amb.p("plugins", "julgados-tc-crsfn", "julgados", "crsfn", "*", base[len("crsfn-"):] + ".md"))
+        achados = glob.glob(amb.p(JULGADOS, "crsfn", "*", base[len("crsfn-"):] + ".md"))
         if achados:
             sha = frontmatter_campo(ler_texto(achados[0]), "sha256_fonte")
             resp = amb.rede.get(it["url"])
@@ -898,7 +900,7 @@ def caminho_previsto(it):
     """Caminho (relativo à raiz) em que o julgados_converter grava o julgado, ou None."""
     e = entrada_completa(it)
     try:
-        return os.path.join("plugins", jc.caminho_relativo(e.get("tipo"), it["id"], (e.get("data") or "")[:4]))
+        return os.path.join(JULGADOS, jc.caminho_relativo(e.get("tipo"), it["id"], (e.get("data") or "")[:4]))
     except (KeyError, ValueError, TypeError):
         return None
 
@@ -1180,7 +1182,7 @@ def pasta_sem_macos(amb):
 
 
 def rodar_gate(amb):
-    """Suíte sem macOS, validar.py (normas e as pastas julgados-*/julgados) e indice.py --verificar."""
+    """Suíte sem macOS, validar.py (normas e julgados/) e indice.py --verificar."""
     falhas = []
     sem_macos, erro = pasta_sem_macos(amb)
     if erro:
@@ -1192,11 +1194,12 @@ def rodar_gate(amb):
     rc, out, _ = amb.script("validar.py", os.path.join(NORMAS))
     if rc != 0:
         falhas.append("validar normas: %s" % (out.strip().splitlines() or [""])[-1])
-    for d in sorted(glob.glob(amb.p("plugins", "julgados-*", "julgados"))):
-        rel = os.path.relpath(d, amb.raiz)
-        rc, out, _ = amb.script("validar.py", rel)
+    if not os.path.isdir(amb.p(JULGADOS)):
+        falhas.append("validar %s: pasta não existe" % JULGADOS)
+    else:
+        rc, out, _ = amb.script("validar.py", JULGADOS)
         if rc != 0:
-            falhas.append("validar %s: %s" % (rel, (out.strip().splitlines() or [""])[-1]))
+            falhas.append("validar %s: %s" % (JULGADOS, (out.strip().splitlines() or [""])[-1]))
     rc, out, _ = amb.script("indice.py", "--verificar")
     if rc != 0:
         falhas.append("indice --verificar: %s" % (out.strip().splitlines() or [""])[0])

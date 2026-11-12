@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Gera o .zip de instalação de um plugin, com a pasta de topo igual ao nome do plugin.
+"""Gera o .zip de instalação do plugin `normas` (o único plugin do acervo), com a pasta de topo
+igual ao nome do plugin.
 
-  python3 scripts/pacote.py julgados-tc-crsfn [--versao 0.5.0] [--saida dados/release/]
+  python3 scripts/pacote.py normas [--versao 0.5.0] [--saida dados/release/]
 
 Mesma estrutura do dados/release/normas-v1.0.0.zip: entrada de cada pasta antes dos arquivos dela,
 `<plugin>/.claude-plugin/plugin.json` dentro. Ordem determinística (nomes ordenados), data fixa nas
@@ -17,6 +18,7 @@ import zipfile
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIMITE_BYTES = 200 * 1024 * 1024
 LIMITE_ARQUIVOS = 5000
+PLUGINS = ("normas",)
 IGNORAR = {".DS_Store"}
 DATA = (1980, 1, 1, 0, 0, 0)
 
@@ -55,6 +57,8 @@ def _info(nome, pasta):
 
 def empacotar(plugin, versao=None, saida=None, raiz=RAIZ, limite_bytes=LIMITE_BYTES,
               limite_arquivos=LIMITE_ARQUIVOS, log=print):
+    if plugin not in PLUGINS:
+        raise SystemExit("plugin %r desconhecido: o acervo só tem %s" % (plugin, ", ".join(PLUGINS)))
     pasta = os.path.join(raiz, "plugins", plugin)
     manifesto = os.path.join(pasta, ".claude-plugin", "plugin.json")
     if not os.path.isfile(manifesto):
@@ -94,7 +98,7 @@ def empacotar(plugin, versao=None, saida=None, raiz=RAIZ, limite_bytes=LIMITE_BY
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("plugin")
+    ap.add_argument("plugin", choices=PLUGINS)
     ap.add_argument("--versao")
     ap.add_argument("--saida")
     a = ap.parse_args(argv)

@@ -1,0 +1,149 @@
+# Julgados por processo, ano 2003
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+
+Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` (sigla em minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.
+
+| Processo (normalizado) | Forma no julgado | Tipo | Data | Id | Arquivo |
+|---|---|---|---|---|---|
+| 01-2003 | 01/2003 | pas | 2007-02-01 | cvm-pas-01-2003 | ../../../../../julgados/cvm/pas/2007/01-2003.md |
+| 01-2003 | 01/03 | acordao-crsfn | 2010-09-14 | crsfn-11414 | ../../../../../julgados/crsfn/2010/11414.md |
+| 02-2003 | 02/2003 | termo-compromisso | 2006-05-09 | cvm-col-20060509-d01 | ../../../../../julgados/cvm/colegiado/2006/col-20060509-d01.md |
+| 02-2003 | 02/2003 | termo-compromisso | 2006-12-19 | cvm-col-20061219-d05 | ../../../../../julgados/cvm/colegiado/2006/col-20061219-d05.md |
+| 02-2003 | 02/2003 | pas | 2007-01-24 | cvm-pas-02-2003 | ../../../../../julgados/cvm/pas/2007/02-2003.md |
+| 03-2003 | 03/2003 | pas | 2006-11-28 | cvm-pas-03-2003 | ../../../../../julgados/cvm/pas/2006/03-2003.md |
+| 04-2003 | 04/2003 | termo-compromisso | 2005-04-26 | cvm-col-20050426-d02 | ../../../../../julgados/cvm/colegiado/2005/col-20050426-d02.md |
+| 04-2003 | 04/2003 | pas | 2005-12-07 | cvm-pas-04-2003 | ../../../../../julgados/cvm/pas/2005/04-2003.md |
+| 06-2003 | 06/2003 | termo-compromisso | 2005-03-29 | cvm-col-20050329-d05 | ../../../../../julgados/cvm/colegiado/2005/col-20050329-d05.md |
+| 06-2003 | 06/2003 | pas | 2005-09-14 | cvm-pas-06-2003 | ../../../../../julgados/cvm/pas/2005/06-2003.md |
+| 07-2003 | 07/2003 | pas | 2007-07-04 | cvm-pas-07-2003 | ../../../../../julgados/cvm/pas/2007/07-2003.md |
+| 07-2003 | 07/03 | acordao-crsfn | 2011-08-30 | crsfn-11951 | ../../../../../julgados/crsfn/2011/11951.md |
+| 09-2003 | 09/2003 | pas | 2006-01-25 | cvm-pas-09-2003 | ../../../../../julgados/cvm/pas/2006/09-2003.md |
+| 09-2003 | 09/03 | acordao-crsfn | 2008-05-27 | crsfn-9793 | ../../../../../julgados/crsfn/2008/9793.md |
+| 10-2003 | 10/2003 | termo-compromisso | 2005-08-30 | cvm-col-20050830-d05 | ../../../../../julgados/cvm/colegiado/2005/col-20050830-d05.md |
+| 10-2003 | 10/2003 | pas | 2005-12-08 | cvm-pas-10-2003 | ../../../../../julgados/cvm/pas/2005/10-2003.md |
+| 11-2003 | 11/03 | termo-compromisso | 2005-04-08 | cvm-col-20050408-d03 | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d03.md |
+| 12-2003 | 12/2003 | termo-compromisso | 2005-08-30 | cvm-col-20050830-d04 | ../../../../../julgados/cvm/colegiado/2005/col-20050830-d04.md |
+| 13-2003 | 13/2003 | pas | 2005-12-14 | cvm-pas-13-2003 | ../../../../../julgados/cvm/pas/2005/13-2003.md |
+| 13-2003 | 13/03 | acordao-crsfn | 2010-10-27 | crsfn-9591 | ../../../../../julgados/crsfn/2010/9591.md |
+| 14-2003 | 14/2003 | pas | 2007-05-15 | cvm-pas-14-2003 | ../../../../../julgados/cvm/pas/2007/14-2003.md |
+| 14-2003 | 14/03 | acordao-crsfn | 2012-04-16 | crsfn-11472 | ../../../../../julgados/crsfn/2012/11472.md |
+| 16-2003 | 16/03 | termo-compromisso | 2006-03-14 | cvm-col-20060314-d03 | ../../../../../julgados/cvm/colegiado/2006/col-20060314-d03.md |
+| 16-2003 | 16/2003 | pas | 2006-11-08 | cvm-pas-16-2003 | ../../../../../julgados/cvm/pas/2006/16-2003.md |
+| 16-2003 | 16/2003 | acordao-crsfn | 2015-02-24 | crsfn-11408 | ../../../../../julgados/crsfn/2015/11408.md |
+| 17-2003 | 17/2003 | termo-compromisso | 2006-08-01 | cvm-col-20060801-d01 | ../../../../../julgados/cvm/colegiado/2006/col-20060801-d01.md |
+| 18-2003 | 18/2003 | termo-compromisso | 2005-04-26 | cvm-col-20050426-d01 | ../../../../../julgados/cvm/colegiado/2005/col-20050426-d01.md |
+| 18-2003 | 18/2003 | pas | 2005-12-08 | cvm-pas-18-2003 | ../../../../../julgados/cvm/pas/2005/18-2003.md |
+| 18-2003 | 18/03 | acordao-crsfn | 2010-02-23 | crsfn-10112 | ../../../../../julgados/crsfn/2010/10112.md |
+| 19-2003 | 19/2003 | termo-compromisso | 2006-06-13 | cvm-col-20060613-d02 | ../../../../../julgados/cvm/colegiado/2006/col-20060613-d02.md |
+| 19-2003 | 19/2003 | termo-compromisso | 2006-10-24 | cvm-col-20061024-d01 | ../../../../../julgados/cvm/colegiado/2006/col-20061024-d01.md |
+| 19-2003 | 19/2003 | pas | 2007-04-24 | cvm-pas-19-2003 | ../../../../../julgados/cvm/pas/2007/19-2003.md |
+| 20-2003 | 20/03 | termo-compromisso | 2005-06-14 | cvm-col-20050614-d01 | ../../../../../julgados/cvm/colegiado/2005/col-20050614-d01.md |
+| 20-2003 | 20/03 | termo-compromisso | 2005-10-18 | cvm-col-20051018-d08 | ../../../../../julgados/cvm/colegiado/2005/col-20051018-d08.md |
+| 20-2003 | 20/2003 | pas | 2009-07-01 | cvm-pas-20-2003 | ../../../../../julgados/cvm/pas/2009/20-2003.md |
+| 24-2003 | 24/2003 | pas | 2005-06-09 | cvm-pas-24-2003 | ../../../../../julgados/cvm/pas/2005/24-2003.md |
+| 25-2003 | 25/2003 | pas | 2008-03-25 | cvm-pas-25-2003 | ../../../../../julgados/cvm/pas/2008/25-2003.md |
+| 25-2003 | 25/03 | acordao-crsfn | 2013-04-23 | crsfn-12038 | ../../../../../julgados/crsfn/2013/12038.md |
+| 27-2003 | 27/2003 | pas | 2005-08-18 | cvm-pas-27-2003 | ../../../../../julgados/cvm/pas/2005/27-2003.md |
+| 27-2003 | 27/03 | acordao-crsfn | 2008-06-24 | crsfn-9637 | ../../../../../julgados/crsfn/2008/9637.md |
+| 28-2003 | 28/2003 | pas | 2006-10-24 | cvm-pas-28-2003 | ../../../../../julgados/cvm/pas/2006/28-2003.md |
+| 28-2003 | 28/03 | acordao-crsfn | 2009-10-27 | crsfn-11409 | ../../../../../julgados/crsfn/2009/11409.md |
+| 29-2003 | 29/2003 | termo-compromisso | 2006-10-03 | cvm-col-20061003-d01 | ../../../../../julgados/cvm/colegiado/2006/col-20061003-d01.md |
+| 29-2003 | 29/2003 | termo-compromisso | 2007-01-16 | cvm-col-20070116-d01 | ../../../../../julgados/cvm/colegiado/2007/col-20070116-d01.md |
+| 29-2003 | 29/2003 | pas | 2007-01-16 | cvm-pas-29-2003 | ../../../../../julgados/cvm/pas/2007/29-2003.md |
+| ia2003-0003 | IA-2003-3 | acordao-crsfn | 2010-07-28 | crsfn-11419 | ../../../../../julgados/crsfn/2010/11419.md |
+| ia2003-0004 | IA-2003-04 | acordao-crsfn | 2009-03-18 | crsfn-9794 | ../../../../../julgados/crsfn/2009/9794.md |
+| ia2003-0006 | IA-2003/6 | acordao-crsfn | 2006-12-13 | crsfn-9254 | ../../../../../julgados/crsfn/2006/9254.md |
+| ia2003-2007 | IA-03/2007 | acordao-crsfn | 2014-06-03 | crsfn-13152 | ../../../../../julgados/crsfn/2014/13152.md |
+| rj2003-0435 | RJ2003/0435 | pas | 2003-12-17 | cvm-pas-rj2003-0435 | ../../../../../julgados/cvm/pas/2003/rj2003-0435.md |
+| rj2003-0466 | RJ-2003-466 | acordao-crsfn | 2009-05-06 | crsfn-8610 | ../../../../../julgados/crsfn/2009/8610.md |
+| rj2003-0818 | RJ2003/0818 | termo-compromisso | 2003-09-02 | cvm-col-20030902-d01 | ../../../../../julgados/cvm/colegiado/2003/col-20030902-d01.md |
+| rj2003-0823 | RJ2003/0823 | termo-compromisso | 2004-11-16 | cvm-col-20041116-d01 | ../../../../../julgados/cvm/colegiado/2004/col-20041116-d01.md |
+| rj2003-0823 | RJ2003/0823 | pas | 2005-05-20 | cvm-pas-rj2003-0823 | ../../../../../julgados/cvm/pas/2005/rj2003-0823.md |
+| rj2003-0823 | RJ-2003/823 | acordao-crsfn | 2008-12-10 | crsfn-9550 | ../../../../../julgados/crsfn/2008/9550.md |
+| rj2003-1631 | RJ2003/1631 | pas | 2005-01-28 | cvm-pas-rj2003-1631 | ../../../../../julgados/cvm/pas/2005/rj2003-1631.md |
+| rj2003-1631 | RJ-2003-1631 | acordao-crsfn | 2011-06-15 | crsfn-7637 | ../../../../../julgados/crsfn/2011/7637.md |
+| rj2003-3972 | RJ2003/3972 | termo-compromisso | 2004-08-05 | cvm-col-20040805-d03 | ../../../../../julgados/cvm/colegiado/2004/col-20040805-d03.md |
+| rj2003-4007 | RJ2003/4007 | termo-compromisso | 2003-11-04 | cvm-col-20031104-d08 | ../../../../../julgados/cvm/colegiado/2003/col-20031104-d08.md |
+| rj2003-4007 | RJ2003/4007 | termo-compromisso | 2003-12-22 | cvm-col-20031222-d03 | ../../../../../julgados/cvm/colegiado/2003/col-20031222-d03.md |
+| rj2003-4367 | RJ2003/4367 | termo-compromisso | 2005-05-03 | cvm-col-20050503-d01 | ../../../../../julgados/cvm/colegiado/2005/col-20050503-d01.md |
+| rj2003-4367 | RJ2003/4367 | pas | 2006-05-03 | cvm-pas-rj2003-4367 | ../../../../../julgados/cvm/pas/2006/rj2003-4367.md |
+| rj2003-4367 | RJ-2003-4367 | acordao-crsfn | 2008-10-28 | crsfn-9984 | ../../../../../julgados/crsfn/2008/9984.md |
+| rj2003-4953 | RJ2003/4953 | pas | 2003-12-18 | cvm-pas-rj2003-4953 | ../../../../../julgados/cvm/pas/2003/rj2003-4953.md |
+| rj2003-4953 | RJ-2003-4953 | acordao-crsfn | 2006-09-20 | crsfn-5384 | ../../../../../julgados/crsfn/2006/5384.md |
+| rj2003-5058 | RJ2003/5058 | pas | 2005-06-20 | cvm-pas-rj2003-5058 | ../../../../../julgados/cvm/pas/2005/rj2003-5058.md |
+| rj2003-5058 | RJ-2003-5058 | acordao-crsfn | 2009-05-06 | crsfn-8545 | ../../../../../julgados/crsfn/2009/8545.md |
+| rj2003-5137 | RJ2003/5137 | pas | 2006-03-29 | cvm-pas-rj2003-5137 | ../../../../../julgados/cvm/pas/2006/rj2003-5137.md |
+| rj2003-5137 | RJ-2003-5137 | acordao-crsfn | 2010-10-27 | crsfn-11433 | ../../../../../julgados/crsfn/2010/11433.md |
+| rj2003-5459 | RJ2003/5459 | termo-compromisso | 2004-12-23 | cvm-col-20041223-d06 | ../../../../../julgados/cvm/colegiado/2004/col-20041223-d06.md |
+| rj2003-5459 | RJ2003/5459 | termo-compromisso | 2005-03-08 | cvm-col-20050308-d05 | ../../../../../julgados/cvm/colegiado/2005/col-20050308-d05.md |
+| rj2002-7017; rj2003-5473 | RJ2003/5473; RJ2002/7017 | termo-compromisso | 2005-11-01 | cvm-col-20051101-d03 | ../../../../../julgados/cvm/colegiado/2005/col-20051101-d03.md |
+| rj2003-5486 | RJ2003/5486 | pas | 2003-12-10 | cvm-pas-rj2003-5486 | ../../../../../julgados/cvm/pas/2003/rj2003-5486.md |
+| rj2003-5486 | RJ-2003/5486 | acordao-crsfn | 2004-09-15 | crsfn-5383 | ../../../../../julgados/crsfn/2004/5383.md |
+| rj2003-5509 | RJ2003/5509 | pas | 2005-06-24 | cvm-pas-rj2003-5509 | ../../../../../julgados/cvm/pas/2005/rj2003-5509.md |
+| rj2003-5509 | RJ-2003/5509 | acordao-crsfn | 2008-02-26 | crsfn-9229 | ../../../../../julgados/crsfn/2008/9229.md |
+| rj2003-5596 | RJ2003/5596 | pas | 2005-04-25 | cvm-pas-rj2003-5596 | ../../../../../julgados/cvm/pas/2005/rj2003-5596.md |
+| rj2003-5596 | RJ-2003/5596 | acordao-crsfn | 2008-07-29 | crsfn-8547 | ../../../../../julgados/crsfn/2008/8547.md |
+| rj2003-5627 | RJ2003/5627 | pas | 2005-01-28 | cvm-pas-rj2003-5627 | ../../../../../julgados/cvm/pas/2005/rj2003-5627.md |
+| rj2003-5669 | RJ2003/5669 | pas | 2006-07-11 | cvm-pas-rj2003-5669 | ../../../../../julgados/cvm/pas/2006/rj2003-5669.md |
+| rj2003-5669 | RJ-2003-5669 | acordao-crsfn | 2010-03-23 | crsfn-11143 | ../../../../../julgados/crsfn/2010/11143.md |
+| rj2003-5753 | RJ2003/5753 | pas | 2004-07-28 | cvm-pas-rj2003-5753 | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
+| rj2003-5849 | RJ2003/5849 | pas | 2005-12-21 | cvm-pas-rj2003-5849 | ../../../../../julgados/cvm/pas/2005/rj2003-5849.md |
+| rj2003-5849 | RJ-2003-5849 | acordao-crsfn | 2008-09-23 | crsfn-9798 | ../../../../../julgados/crsfn/2008/9798.md |
+| rj2003-6098 | RJ2003/6098 | termo-compromisso | 2005-10-18 | cvm-col-20051018-d01 | ../../../../../julgados/cvm/colegiado/2005/col-20051018-d01.md |
+| rj2003-6098 | RJ2003/6098 | pas | 2005-11-08 | cvm-pas-rj2003-6098 | ../../../../../julgados/cvm/pas/2005/rj2003-6098.md |
+| rj2003-6098 | RJ-2003/6098 | acordao-crsfn | 2006-12-13 | crsfn-9228 | ../../../../../julgados/crsfn/2006/9228.md |
+| rj2003-6894 | RJ2003/6894 | pas | 2005-11-08 | cvm-pas-rj2003-6894 | ../../../../../julgados/cvm/pas/2005/rj2003-6894.md |
+| rj2003-7642 | RJ2003/7642 | pas | 2005-06-27 | cvm-pas-rj2003-7642 | ../../../../../julgados/cvm/pas/2005/rj2003-7642.md |
+| rj2003-7642 | RJ-2003-7642 | acordao-crsfn | 2007-01-31 | crsfn-8546 | ../../../../../julgados/crsfn/2007/8546.md |
+| rj2003-7697 | RJ2003/7697 | termo-compromisso | 2004-08-05 | cvm-col-20040805-d04 | ../../../../../julgados/cvm/colegiado/2004/col-20040805-d04.md |
+| rj2003-7697 | RJ2003/7697 | pas | 2005-08-23 | cvm-pas-rj2003-7697 | ../../../../../julgados/cvm/pas/2005/rj2003-7697.md |
+| rj2003-7697 | RJ-2003/7697 | acordao-crsfn | 2009-07-21 | crsfn-8674 | ../../../../../julgados/crsfn/2009/8674.md |
+| rj2003-8172 | RJ2003/8172 | pas | 2004-10-15 | cvm-pas-rj2003-8172 | ../../../../../julgados/cvm/pas/2004/rj2003-8172.md |
+| rj2003-8172 | RJ-2003/8172 | acordao-crsfn | 2008-08-27 | crsfn-8929 | ../../../../../julgados/crsfn/2008/8929.md |
+| rj2003-11503 | RJ2003/11503 | pas | 2005-11-03 | cvm-pas-rj2003-11503 | ../../../../../julgados/cvm/pas/2005/rj2003-11503.md |
+| rj2003-11503 | RJ-2003-11503 | acordao-crsfn | 2009-07-21 | crsfn-9426 | ../../../../../julgados/crsfn/2009/9426.md |
+| rj2003-12233 | RJ2003/12233 | pas | 2005-09-14 | cvm-pas-rj2003-12233 | ../../../../../julgados/cvm/pas/2005/rj2003-12233.md |
+| rj2003-12233 | RJ-2003/12233 | acordao-crsfn | 2008-10-17 | crsfn-9702 | ../../../../../julgados/crsfn/2008/9702.md |
+| rj2003-12312 | RJ2003/12312 | pas | 2005-06-27 | cvm-pas-rj2003-12312 | ../../../../../julgados/cvm/pas/2005/rj2003-12312.md |
+| rj2003-12406 | RJ2003/12406 | termo-compromisso | 2006-01-10 | cvm-col-20060110-d02 | ../../../../../julgados/cvm/colegiado/2006/col-20060110-d02.md |
+| rj2003-12406 | RJ2003/12406 | pas | 2006-01-19 | cvm-pas-rj2003-12406 | ../../../../../julgados/cvm/pas/2006/rj2003-12406.md |
+| rj2003-12433 | RJ2003/12433 | termo-compromisso | 2004-11-23 | cvm-col-20041123-d01 | ../../../../../julgados/cvm/colegiado/2004/col-20041123-d01.md |
+| rj2003-12656 | RJ2003/12656 | termo-compromisso | 2006-07-18 | cvm-col-20060718-d04 | ../../../../../julgados/cvm/colegiado/2006/col-20060718-d04.md |
+| rj2003-12656 | RJ2003/12656 | pas | 2006-12-14 | cvm-pas-rj2003-12656 | ../../../../../julgados/cvm/pas/2006/rj2003-12656.md |
+| rj2003-12656 | RJ-2003-12656 | acordao-crsfn | 2010-07-28 | crsfn-11453 | ../../../../../julgados/crsfn/2010/11453.md |
+| rj2003-12818 | RJ2003/12818 | pas | 2004-10-15 | cvm-pas-rj2003-12818 | ../../../../../julgados/cvm/pas/2004/rj2003-12818.md |
+| rj2003-12911 | RJ2003/12911 | pas | 2005-09-08 | cvm-pas-rj2003-12911 | ../../../../../julgados/cvm/pas/2005/rj2003-12911.md |
+| rj2003-13021 | RJ2003/13021 | pas | 2007-07-31 | cvm-pas-rj2003-13021 | ../../../../../julgados/cvm/pas/2007/rj2003-13021.md |
+| rj2003-13021 | RJ-2003-13021 | acordao-crsfn | 2012-02-13 | crsfn-11748 | ../../../../../julgados/crsfn/2012/11748.md |
+| rj2003-13210 | RJ2003/13210 | pas | 2004-11-26 | cvm-pas-rj2003-13210 | ../../../../../julgados/cvm/pas/2004/rj2003-13210.md |
+| sp2003-0042 | SP2003/0042 | pas | 2004-05-06 | cvm-pas-sp2003-0042 | ../../../../../julgados/cvm/pas/2004/sp2003-0042.md |
+| sp2003-0070 | SP2003/0070 | pas | 2005-04-26 | cvm-pas-sp2003-0070 | ../../../../../julgados/cvm/pas/2005/sp2003-0070.md |
+| sp2003-0100 | SP2003/100 | pas | 2004-09-09 | cvm-pas-sp2003-0100 | ../../../../../julgados/cvm/pas/2004/sp2003-0100.md |
+| sp2003-0148 | SP2003/0148 | pas | 2003-12-17 | cvm-pas-sp2003-0148 | ../../../../../julgados/cvm/pas/2003/sp2003-0148.md |
+| sp2003-0148 | SP-2003-148 | acordao-crsfn | 2008-04-11 | crsfn-5662 | ../../../../../julgados/crsfn/2008/5662.md |
+| sp2003-0152 | SP2003/0152 | pas | 2006-03-29 | cvm-pas-sp2003-0152 | ../../../../../julgados/cvm/pas/2006/sp2003-0152.md |
+| sp2003-0175 | SP2003/0175 | pas | 2006-04-05 | cvm-pas-sp2003-0175 | ../../../../../julgados/cvm/pas/2006/sp2003-0175.md |
+| sp2003-0205 | SP2003/0205 | pas | 2006-03-29 | cvm-pas-sp2003-0205 | ../../../../../julgados/cvm/pas/2006/sp2003-0205.md |
+| sp2003-0205 | SP-2003/0205 | acordao-crsfn | 2008-10-28 | crsfn-9745 | ../../../../../julgados/crsfn/2008/9745.md |
+| sp2003-0288 | SP2003/0288 | pas | 2004-09-08 | cvm-pas-sp2003-0288 | ../../../../../julgados/cvm/pas/2004/sp2003-0288.md |
+| sp2003-0288 | SP2003-288 | acordao-crsfn | 2009-05-21 | crsfn-6352 | ../../../../../julgados/crsfn/2009/6352.md |
+| sp2003-0313 | SP2003/0313 | pas | 2005-03-11 | cvm-pas-sp2003-0313 | ../../../../../julgados/cvm/pas/2005/sp2003-0313.md |
+| sp2003-0314 | SP2003/0314 | pas | 2006-03-29 | cvm-pas-sp2003-0314 | ../../../../../julgados/cvm/pas/2006/sp2003-0314.md |
+| sp2003-0314 | SP-2003-314 | acordao-crsfn | 2009-05-07 | crsfn-11090 | ../../../../../julgados/crsfn/2009/11090.md |
+| sp2003-0324 | SP2003/0324 | pas | 2005-12-13 | cvm-pas-sp2003-0324 | ../../../../../julgados/cvm/pas/2005/sp2003-0324.md |
+| sp2003-0444 | SP2003/0444 | pas | 2005-03-11 | cvm-pas-sp2003-0444 | ../../../../../julgados/cvm/pas/2005/sp2003-0444.md |
+| sp2003-0444 | SP-2003-444 | acordao-crsfn | 2009-08-24 | crsfn-11051 | ../../../../../julgados/crsfn/2009/11051.md |
+| sp2003-0445 | SP2003/0445 | pas | 2005-03-21 | cvm-pas-sp2003-0445 | ../../../../../julgados/cvm/pas/2005/sp2003-0445.md |
+| sp2003-0446 | SP2003/0446 | pas | 2004-09-16 | cvm-pas-sp2003-0446 | ../../../../../julgados/cvm/pas/2004/sp2003-0446.md |
+| sp2003-0446 | SP2003/0446 | acordao-crsfn | 2009-02-16 | crsfn-6188 | ../../../../../julgados/crsfn/2009/6188.md |
+| sp2003-0461 | SP2003/0461 | pas | 2006-12-05 | cvm-pas-sp2003-0461 | ../../../../../julgados/cvm/pas/2006/sp2003-0461.md |
+| sp2003-0466 | SP2003/0466 | termo-compromisso | 2004-10-15 | cvm-col-20041015-d02 | ../../../../../julgados/cvm/colegiado/2004/col-20041015-d02.md |
+| sp2003-0466 | SP2003/466 | pas | 2005-03-31 | cvm-pas-sp2003-0466 | ../../../../../julgados/cvm/pas/2005/sp2003-0466.md |
+| sp2003-0489 | SP2003/0489 | pas | 2006-05-04 | cvm-pas-sp2003-0489 | ../../../../../julgados/cvm/pas/2006/sp2003-0489.md |
+| sp2003-0489 | SP-2003-0489 | acordao-crsfn | 2011-08-30 | crsfn-10984 | ../../../../../julgados/crsfn/2011/10984.md |
+
+Fim do subíndice.

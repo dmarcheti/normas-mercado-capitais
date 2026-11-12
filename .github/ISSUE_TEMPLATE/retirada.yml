@@ -14,7 +14,7 @@ body:
     attributes:
       label: Id ou caminho do documento
       description: O id está no cabeçalho do arquivo (campo `id`); o caminho é o do arquivo no repositório.
-      placeholder: "cvm-pas-..., ou plugins/.../arquivo.md"
+      placeholder: "cvm-pas-..., ou julgados/.../arquivo.md"
     validations:
       required: true
   - type: dropdown

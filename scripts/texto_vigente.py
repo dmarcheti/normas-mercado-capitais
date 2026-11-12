@@ -50,7 +50,7 @@ Fase 2c (SPEC v0.4.0):
 
 Uso:
   python3 scripts/texto_vigente.py --camada 1|2|4|5 [--acervo fontes/acervo.json]
-      [--saida plugins/normas/normas] [--limite N] [--cache DIR] [--relatorio ARQ]
+      [--saida plugins/normas/skills/consultar-normas/normas] [--limite N] [--cache DIR] [--relatorio ARQ]
     camada 1: Resoluções vigentes mais a 249, menos as 8 do núcleo, e Instruções vigentes;
     camada 2: os Pareceres de Orientação e os Ofícios-Circulares desde 2022-01-01;
     camada 4: CMN e BCB (--perimetro, --acervo-bcb, --cache-bcb);
@@ -1281,7 +1281,7 @@ def main(argv):
     ap.add_argument("--acervo-b3", default="fontes/acervo-b3.json")
     ap.add_argument("--cache-anbima", default=CACHE_PDF["anbima"])
     ap.add_argument("--cache-b3", default=CACHE_PDF["b3"])
-    ap.add_argument("--saida", default="plugins/normas/normas")
+    ap.add_argument("--saida", default="plugins/normas/skills/consultar-normas/normas")
     ap.add_argument("--limite", type=int, help="só os N primeiros itens")
     ap.add_argument("--ids", help="só estes itens: ids ou slugs separados por vírgula "
                     "(ex.: cvm-oc-sre-0424,oc-sre-0524); o relatório existente é atualizado, não trocado")

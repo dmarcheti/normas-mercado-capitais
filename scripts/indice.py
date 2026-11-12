@@ -2,7 +2,7 @@
 """Índice das normas do acervo e dos julgados (SPEC v0.5.0).
 
 gerar_indice(raiz, acervo=None, perimetro=None, acervo_bcb=None) -> (arquivos, itens).
-`raiz` é `plugins/normas/normas`; `acervo` é o caminho de `fontes/acervo.json` (None ou
+`raiz` é `plugins/normas/skills/consultar-normas/normas`; `acervo` é o caminho de `fontes/acervo.json` (None ou
 arquivo ausente = sem grupos e sem verbetes); `perimetro` e `acervo_bcb`, os de
 `fontes/perimetro-camada4.json` e `fontes/acervo-bcb.json` (None ou ausente = sem a
 seção de atos só alteradores do CMN e do BCB). `arquivos` mapeia o caminho relativo à
@@ -26,22 +26,26 @@ raiz no conteúdo:
   `indices/citacoes/<id>/` com `index.md` e um arquivo por artigo, `art-0155.md`,
   `anexo-ii-art-0002.md`) e `indices/citacoes.md`; nada sem citação.
 
-gerar_indice_julgados(raiz, normas) -> (arquivos, n): índices de um plugin `julgados-*`
-(`indice.md`, `indices/<tipo>-<ano>.md`, `indices/tema-<tema>.md`, `indices/norma-<id>.md`).
-Sem raiz posicional, o script cuida das normas e de todo `plugins/julgados-*/julgados`; com
-uma raiz chamada `julgados`, só dela (normas lidas do normas.json); com outra raiz, só normas.
+gerar_indice_julgados(raiz, normas) -> (arquivos, n): UM conjunto de índices de todos os
+julgados (CVM e CRSFN) de `raiz` (`julgados/`, na raiz do repositório): `indice.md`,
+`indices/<tipo>-<ano>.md`, `indices/tema-<tema>.md`, `indices/norma-<id>.md`,
+`indices/processo-<ano>.md`. Os arquivos saem em `plugins/normas/skills/consultar-normas/julgados/`
+(a skill é a única pasta que o claude.ai monta); cada linha aponta para o julgado pelo caminho
+relativo dessa pasta até `julgados/` na raiz (`alvo_link`, a única função que decide o alvo).
+Sem raiz posicional, o script cuida das normas e dos julgados; com uma raiz chamada `julgados`,
+só dos julgados dela (normas lidas do normas.json), gravando em `--saida-julgados`; com outra
+raiz, só normas. `julgados/` ausente é erro (nada é pulado em silêncio).
 
 Uso: python3 scripts/indice.py [raiz] [--acervo CAMINHO] [--perimetro CAMINHO]
                                [--acervo-bcb CAMINHO] [--pendentes CAMINHO]
-                               [--versoes CAMINHO]
+                               [--versoes CAMINHO] [--saida-julgados PASTA]
                                                                    grava os arquivos
      python3 scripts/indice.py ... --verificar                    saída 1 se defasados
-A raiz padrão é plugins/normas/normas; os JSON padrão, os de fontes/. Ao
+A raiz padrão é plugins/normas/skills/consultar-normas/normas; os JSON padrão, os de fontes/. Ao
 gravar, apaga de `indices/` o subíndice que não é mais gerado; `--verificar` acusa
 esse subíndice. Sem data de geração: a saída só muda quando o acervo muda.
 """
 import collections
-import glob
 import json
 import os
 import re
@@ -58,7 +62,17 @@ from validar import (  # noqa: E402
 )
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-RAIZ_PADRAO = os.path.join(REPO, "plugins", "normas", "normas")
+SKILL_NORMAS = os.path.join(REPO, "plugins", "normas", "skills", "consultar-normas")
+RAIZ_PADRAO = os.path.join(SKILL_NORMAS, "normas")
+JULGADOS_PADRAO = os.path.join(REPO, "julgados")
+# onde os índices dos julgados são gravados (dentro da skill, que o claude.ai monta inteira)
+SAIDA_JULGADOS_PADRAO = os.path.join(SKILL_NORMAS, "julgados")
+# do indice.md dos julgados à pasta `julgados/` da raiz do repositório (5 níveis:
+# consultar-normas, skills, normas, plugins, raiz). Trocar o alvo do link (ex.: para fichas) é
+# mexer só em `alvo_link`.
+PREFIXO_ALVO = "../../../../../julgados/"
+LIMITE_INDICE_MD = 25 * 1024  # bytes: o indice.md dos julgados fica abaixo disto
+LINK_NORMAS_PADRAO = "../../normas"  # de `julgados/indices/` à raiz das normas
 ACERVO_PADRAO = os.path.join(REPO, "fontes", "acervo.json")
 PERIMETRO_PADRAO = os.path.join(REPO, "fontes", "perimetro-camada4.json")
 ACERVO_BCB_PADRAO = os.path.join(REPO, "fontes", "acervo-bcb.json")
@@ -69,6 +83,7 @@ PENDENTES_PADRAO = os.path.join(REPO, "fontes", "pendentes.json")
 # "Fontes conferidas até AAAA-MM-DD" no indice.md de cada plugin. Sem o campo, nada muda.
 VERSOES_PADRAO = os.path.join(REPO, "fontes", "versoes-plugins.json")
 PASTA_SUBINDICES = "indices"
+NORMAS_CITADAS = "normas-citadas"
 SEM_GRUPO = "Sem grupo no Estoque Regulatório"
 AVISO = ("Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos "
          "e entidades de origem.")
@@ -470,7 +485,8 @@ def _md_resumo(contagens, n_citadas=0, pendentes=()):
         rel = "%s/%s.md" % (PASTA_SUBINDICES, PASTA_CITACOES)
         md.append("- [%s](%s): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de "
                   "autorregulação do acervo que o citam (%d norma(s) citada(s); extração por script)." % (rel, rel, n_citadas))
-    md.append("- Os julgados da CVM e do CRSFN ficam nos plugins `julgados-*`. Julgado não é norma: diz o que "
+    md.append("- Os índices dos julgados da CVM e do CRSFN estão em [../julgados/indice.md](../julgados/indice.md) "
+              "e o texto deles, em `julgados/` na raiz do repositório. Julgado não é norma: diz o que "
               "se decidiu num caso, com a redação da época.")
     md.append("")
     return md + _md_pendentes(pendentes)
@@ -667,15 +683,20 @@ NOME_JULGADO = {
 }
 AVISO_JULGADO = ("Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a "
                  "redação das normas da época, e não vincula como norma. Para o texto vigente, use o "
-                 "plugin `normas`.")
+                 "índice das normas (`../normas/indice.md`).")
 NOTA_REDACAO = "texto vigente hoje; o julgado aplicou a redação da época"
-PERIMETRO_JULGADOS = {
-    "julgados-pas": "Processos administrativos sancionadores (PAS) julgados pela CVM.",
-    "julgados-tc-crsfn": "Termos de compromisso (aceitos e rejeitados) e acórdãos do CRSFN em recursos contra decisões da CVM.",
-    "julgados-colegiado-2002-2008": "Decisões do Colegiado da CVM de 2002 a 2008 e decisões antigas (1978 a 2001).",
-    "julgados-colegiado-2009-2015": "Decisões do Colegiado da CVM de 2009 a 2015.",
-    "julgados-colegiado-2016-2026": "Decisões do Colegiado da CVM de 2016 em diante.",
-}
+PERIMETRO_JULGADOS = (
+    "Julgados da CVM (processos administrativos sancionadores, decisões do Colegiado desde 1978, "
+    "termos de compromisso aceitos e rejeitados) e acórdãos do CRSFN em recursos contra decisões "
+    "da CVM.")
+TIPOS_POR_PROCESSO = ("pas", "termo-compromisso", "acordao-crsfn")
+
+
+def alvo_link(v, prefixo=PREFIXO_ALVO):
+    """Alvo com que a linha de índice aponta para o julgado `v` (item de `_ler_julgados`): o
+    caminho do julgado sob `julgados/` precedido do prefixo que sai da pasta do `indice.md`. É o
+    único ponto que decide o alvo; apontar para fichas em vez do texto é trocar só esta função."""
+    return prefixo + v["_caminho"]
 
 
 def slug_tema(tema):
@@ -685,7 +706,8 @@ def slug_tema(tema):
 
 def _cab_julgados(titulo, extra=()):
     return ["# %s" % titulo, "", AVISO, AVISO_JULGADO, GERADO,
-            "Caminhos relativos a `julgados/` (a pasta do `indice.md`)."] + list(extra) + [""]
+            "Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz "
+            "do repositório."] + list(extra) + [""]
 
 
 def _ler_julgados(raiz):
@@ -706,7 +728,7 @@ def _tabela_julgados(itens, com_tipo=False, extra=None):
         v, pre = (linha if extra else (linha, None))
         cel = ([v["tipo"]] if com_tipo else []) + [
             _celula(v.get("processo")) or "—", v.get("data", ""), v.get("resultado") or "—",
-            v.get("tema") or "—", _celula(v.get("ementa")), v["_caminho"]]
+            v.get("tema") or "—", _celula(v.get("ementa")), alvo_link(v)]
         if extra:
             cel = [pre] + cel
         md.append("| %s |" % " | ".join(cel))
@@ -828,7 +850,6 @@ def _gravar(arquivos, rel, md, marcas=None):
 
 # ---- índice por processo (PAS, termos de compromisso e acórdãos do CRSFN)
 
-PLUGINS_POR_PROCESSO = ("julgados-pas", "julgados-tc-crsfn")
 _ANO_NUP = re.compile(r"^\d{5}-\d{6}-(\d{4})-\d{1,2}$")
 _ANO_ANTIGO = re.compile(r"^[a-z]+(\d{4})-\d+$")
 _ANO_CURTO = re.compile(r"^\d{2,3}-(\d{4})$")
@@ -912,7 +933,7 @@ def _por_processo(itens):
         for _k, todos, forma, v in sorted(linhas, key=lambda x: (x[0], x[3].get("data", ""), x[3]["_caminho"])):
             md.append("| %s | %s | %s | %s | %s | %s |" % (
                 "; ".join(todos), forma or "—", v["tipo"], v.get("data", ""),
-                v.get("id") or os.path.basename(v["_caminho"])[:-3], v["_caminho"]))
+                v.get("id") or os.path.basename(v["_caminho"])[:-3], alvo_link(v)))
         _gravar(arquivos, "%s/processo-%s.md" % (PASTA_SUBINDICES, ano), md, _marcas_blocos(md))
         contagem[ano] = len(linhas)
     if outros:
@@ -923,7 +944,7 @@ def _por_processo(itens):
         for forma, v in sorted(outros, key=lambda x: (_natural(x[0]), x[1]["_caminho"])):
             md.append("| %s | %s | %s | %s | %s |" % (
                 forma, v["tipo"], v.get("data", ""),
-                v.get("id") or os.path.basename(v["_caminho"])[:-3], v["_caminho"]))
+                v.get("id") or os.path.basename(v["_caminho"])[:-3], alvo_link(v)))
         _gravar(arquivos, "%s/processo-outros.md" % PASTA_SUBINDICES, md, _marcas_blocos(md))
         contagem["outros"] = len(outros)
     return arquivos, contagem
@@ -986,7 +1007,7 @@ def _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos):
     decisoes, _cont = idc.ler_decisoes(caminhos)
     por_ano = collections.defaultdict(list)
     for d in decisoes:
-        d["arquivo"] = por_tipo_ano[("decisao-antiga", str(d["ano"]))][0]["_caminho"]
+        d["arquivo"] = alvo_link(por_tipo_ano[("decisao-antiga", str(d["ano"]))][0])
         por_ano[d["ano"]].append(d)
     out = {}
     for ano in sorted(por_ano):
@@ -1008,14 +1029,14 @@ def _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos):
     return out
 
 
-def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", plugin=None):
-    """(arquivos, n_julgados) dos índices de um plugin de julgados. `raiz` é a pasta `julgados/`;
-    `normas` mapeia o id da norma no item do normas.json (titulo, caminho); `link_normas` é o
-    caminho de `julgados/indices/` até a raiz das normas. Sem julgados, nada é gerado."""
+def gerar_indice_julgados(raiz, normas, link_normas=LINK_NORMAS_PADRAO):
+    """(arquivos, n_julgados) do conjunto único de índices dos julgados. `raiz` é a pasta
+    `julgados/` (CVM e CRSFN); `normas` mapeia o id da norma no item do normas.json (titulo,
+    caminho); `link_normas` é o caminho de `julgados/indices/` (na skill) até a raiz das normas.
+    Sem julgados, nada é gerado."""
     itens = _ler_julgados(raiz)
     if not itens:
         return {}, 0
-    plugin = plugin or os.path.basename(os.path.dirname(os.path.abspath(raiz)))
     arquivos = {}
     ordem_tipos = list(NOME_JULGADO)
     por_tipo_ano, por_tema, por_norma = {}, {}, {}
@@ -1075,12 +1096,13 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
         _gravar(arquivos, "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam), md)
 
     por_proc = {}
-    if plugin in PLUGINS_POR_PROCESSO:
-        extra, por_proc = _por_processo(itens)
+    com_processo = [v for v in itens if v["tipo"] in TIPOS_POR_PROCESSO]
+    if com_processo:
+        extra, por_proc = _por_processo(com_processo)
         arquivos.update(extra)
 
-    md = ["# Índice dos julgados: %s" % plugin, "", AVISO, AVISO_JULGADO, GERADO, "",
-          "## Perímetro", "", PERIMETRO_JULGADOS.get(plugin, "Julgados do plugin `%s`." % plugin),
+    md = ["# Índice dos julgados da CVM e do CRSFN", "", AVISO, AVISO_JULGADO, GERADO, "",
+          "## Perímetro", "", PERIMETRO_JULGADOS,
           "Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pela ementa.", "",
           "## Por tipo e ano", "", "| Tipo | Ano (subíndice) | Julgados |", "|---|---|---|"]
     for (tipo, ano) in sorted(por_tipo_ano, key=lambda k: (ordem_tipos.index(k[0]) if k[0] in ordem_tipos
@@ -1113,24 +1135,31 @@ def gerar_indice_julgados(raiz, normas, link_normas="../../../normas/normas", pl
             md += ["", "Processo sem número reconhecível: [processo-outros](%s/processo-outros.md) (%d)."
                    % (PASTA_SUBINDICES, por_proc["outros"])]
     if normas_idx:
+        # a tabela das normas é longa (centenas de linhas) e levaria o indice.md além de
+        # LIMITE_INDICE_MD: fica num subíndice, com sumário
+        rel_n = "%s/%s.md" % (PASTA_SUBINDICES, NORMAS_CITADAS)
         md += ["", "## Por norma citada", "",
-               "Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao %s." % NOTA_REDACAO,
-               "", "| Norma (subíndice) | Julgados |", "|---|---|"]
+               "Dispositivo citado -> julgados (índice reverso), uma linha por norma, no subíndice "
+               "[%s](%s) (%d normas citadas)." % (rel_n, rel_n, len(normas_idx) + sum(len(v) for v in familias.values()))]
+        mdn = _cab_julgados("Por norma citada", [
+            "", "Dispositivo citado -> julgados (índice reverso). O link para a norma leva ao %s." % NOTA_REDACAO,
+            "", "| Norma (subíndice) | Julgados |", "|---|---|"])
         for nid in sorted(normas_idx, key=lambda x: (x.startswith("fora:"), x)):
             rel, titulo, n = normas_idx[nid]
-            md.append("| [%s](%s) | %d |" % (titulo, rel, n))
+            mdn.append("| [%s](%s) | %d |" % (titulo, rel[len(PASTA_SUBINDICES) + 1:], n))
         # Normas fora do acervo citadas por poucos julgados: uma linha por família; cada norma é
         # uma seção (`## <norma>`) do subíndice da família, no sumário dele.
         for fam in sorted(familias):
-            rel = "%s/norma-fora-outras-%s.md" % (PASTA_SUBINDICES, fam)
-            md.append("| [Fora do acervo, família %s: %d normas com menos de %d julgados cada](%s) | %d |" % (
+            rel = "norma-fora-outras-%s.md" % fam
+            mdn.append("| [Fora do acervo, família %s: %d normas com menos de %d julgados cada](%s) | %d |" % (
                 fam, len(familias[fam]), FORA_MIN_PROPRIO, rel, len(fam_julgados[fam])))
+        _gravar(arquivos, rel_n, mdn)
     arquivos["indice.md"] = "\n".join(md) + "\n"
+    tam = len(arquivos["indice.md"].encode("utf-8"))
+    if tam >= LIMITE_INDICE_MD:
+        raise ValueError("indice.md dos julgados com %d bytes (limite %d): mova uma seção para um subíndice"
+                         % (tam, LIMITE_INDICE_MD))
     return arquivos, len(itens)
-
-
-def raizes_de_julgados(repo=REPO):
-    return sorted(d for d in glob.glob(os.path.join(repo, "plugins", "julgados-*", "julgados")) if os.path.isdir(d))
 
 
 def _sobrando(raiz, arquivos, pastas=(PASTA_SUBINDICES,), raiz_md=(),
@@ -1168,8 +1197,9 @@ def com_conferido(arquivos, data):
     return arquivos
 
 
-def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO, versoes=VERSOES_PADRAO):
-    """[(raiz, arquivos, sobrando, descrição)] a verificar ou gravar."""
+def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO, versoes=VERSOES_PADRAO,
+           saida_julgados=SAIDA_JULGADOS_PADRAO):
+    """[(pasta de saída, arquivos, sobrando, descrição)] a verificar ou gravar."""
     conferido = ler_conferido(versoes)
     raiz = args[0] if args else None
     alvos = []
@@ -1185,12 +1215,15 @@ def _alvos(args, acervo, perimetro, acervo_bcb, pendentes=PENDENTES_PADRAO, vers
     if normas is None:
         nj = os.path.join(RAIZ_PADRAO, "normas.json")
         normas = {i["id"]: i for i in (_lista_json(nj) if os.path.exists(nj) else [])}
-    for rj in ([raiz] if raiz else raizes_de_julgados()):
-        # link relativo dentro do repositório: plugins/julgados-*/julgados/indices -> plugins/normas/normas
-        arquivos, n = gerar_indice_julgados(rj, normas)
-        com_conferido(arquivos, conferido)
-        alvos.append((rj, arquivos, _sobrando(rj, arquivos, (PASTA_SUBINDICES,), ("indice.md",), ()),
-                      "%d julgado(s)" % n))
+    rj = raiz or JULGADOS_PADRAO
+    if not os.path.isdir(rj):
+        raise FileNotFoundError("pasta dos julgados não existe: %s" % rj)
+    arquivos, n = gerar_indice_julgados(rj, normas)
+    if not arquivos:
+        raise ValueError("nenhum julgado em %s" % rj)
+    com_conferido(arquivos, conferido)
+    alvos.append((saida_julgados, arquivos, _sobrando(saida_julgados, arquivos, (PASTA_SUBINDICES,),
+                                                      ("indice.md",), ()), "%d julgado(s)" % n))
     return alvos
 
 
@@ -1198,6 +1231,7 @@ def main(argv):
     args, acervo, verificar = [], ACERVO_PADRAO, False
     perimetro, acervo_bcb, pendentes = PERIMETRO_PADRAO, ACERVO_BCB_PADRAO, PENDENTES_PADRAO
     versoes = VERSOES_PADRAO
+    saida_julgados = SAIDA_JULGADOS_PADRAO
     resto = list(argv[1:])
     while resto:
         a = resto.pop(0)
@@ -1213,6 +1247,8 @@ def main(argv):
             pendentes = resto.pop(0)
         elif a == "--versoes" and resto:
             versoes = resto.pop(0)
+        elif a == "--saida-julgados" and resto:
+            saida_julgados = resto.pop(0)
         elif a.startswith("--"):
             print(__doc__)
             return 2
@@ -1224,7 +1260,11 @@ def main(argv):
     if args and not os.path.isdir(args[0]):
         print("indice: %s não existe" % args[0])
         return 2
-    alvos = _alvos(args, acervo, perimetro, acervo_bcb, pendentes, versoes)
+    try:
+        alvos = _alvos(args, acervo, perimetro, acervo_bcb, pendentes, versoes, saida_julgados)
+    except (FileNotFoundError, ValueError) as e:
+        print("indice: %s" % e)
+        return 2
     if verificar:
         rc = 0
         for raiz, arquivos, sobrando, desc in alvos:

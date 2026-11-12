@@ -8,7 +8,7 @@ Etapas (cada uma lê o que a anterior gravou; nada é baixado duas vezes):
                -> dados/fontes/cvm-NNNN.{docx,htm}; PDF do original sem ctresb
                -> dados/fontes/cvm-NNNN.pdf; consolidado -> dados/resolNNNconsolid.{docx,doc,htm}.
   textos       dados/fontes/dou-NNNN.md de cada original e de cada ato novo.
-  alteradoras  plugins/normas/normas/cvm/alteradoras/NNNN.md dos atos novos (não sobrescreve).
+  alteradoras  plugins/normas/skills/consultar-normas/normas/cvm/alteradoras/NNNN.md dos atos novos (não sobrescreve).
 
 Fonte do texto, em ordem: ctresb/leis (conversão do HTML do DOU; `url_dou` = slug do
 in.gov.br); DOCX do ato na CVM; PDF do ato na CVM pelo PDFKit (texto refeito em parágrafos
@@ -40,14 +40,14 @@ DADOS = os.path.join(RAIZ, "dados")
 FONTES = os.path.join(DADOS, "fontes")
 PAGINAS = os.path.join(DADOS, "paginas-cvm")
 INVENTARIO = os.path.join(RAIZ, "fontes", "inventario.json")
-ALTERADORAS = os.path.join(RAIZ, "plugins", "normas", "normas", "cvm", "alteradoras")
+ALTERADORAS = os.path.join(RAIZ, "plugins", "normas", "skills", "consultar-normas", "normas", "cvm", "alteradoras")
 DATA_BASE = "2026-10-29"
 
 NORMAS = [6, 8, 9, 11, 13, 19, 20, 31, 32, 35, 43, 44, 45, 46, 47, 53, 54, 67, 77, 81, 86, 88,
           135, 161, 166, 193, 210, 215, 232]
 # Alteradora que é norma do acervo (resolucoes/NNNN.md): o texto do ato é o da própria norma;
 # não ganha alteradoras/NNNN.md.
-NORMAS_DO_ACERVO = {60: "plugins/normas/normas/cvm/resolucoes/0060.md"}
+NORMAS_DO_ACERVO = {60: "plugins/normas/skills/consultar-normas/normas/cvm/resolucoes/0060.md"}
 # Campos manuais da Fase 2 que valem para o ato onde quer que ele apareça (fontes/INVENTARIO.md:
 # `url_dou` do DOU salvo no navegador, `dou`/`dou_original` da Res. 59).
 MANUAIS = ("dou", "dou_original", "url_dou")

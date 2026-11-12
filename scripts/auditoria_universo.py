@@ -2,7 +2,7 @@
 """Universo da auditoria da Fase 3 (subcomando `universo` do scripts/auditoria.py).
 
 Cada unidade auditável: {id, camada, categoria, norma, localizador, posicao, commit, fonte,
-paginas, sobrescrito, ...}. `norma` é relativa a plugins/normas/normas/; `fonte` é relativa à
+paginas, sobrescrito, ...}. `norma` é relativa a plugins/normas/skills/consultar-normas/normas/; `fonte` é relativa à
 raiz do repo (dados/...). Funções com efeito externo (git, PDFKit, textutil) ficam isoladas em
 `git`, `extrair_paginas` e `textutil`, para os testes trocarem.
 """
@@ -21,7 +21,7 @@ sys.path.insert(0, AQUI)
 import auditoria_texto as T  # noqa: E402
 
 RAIZ = os.path.normpath(os.path.join(AQUI, ".."))
-NORMAS = "plugins/normas/normas"
+NORMAS = "plugins/normas/skills/consultar-normas/normas"
 FONTES_TV = "dados/texto-vigente-fontes"
 DATA_BASE = "2026-10-30"
 REF = "main"

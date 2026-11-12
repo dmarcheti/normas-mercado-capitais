@@ -11,7 +11,7 @@ Confere (todos têm de passar):
  c. todo commit de autor "Historico normativo (replay)" tem, depois, a mesma data de autor, a mesma
     mensagem e a mesma árvore de `plugins/normas/`;
  d. em todo commit, a árvore de `plugins/normas/` é igual antes e depois, e o que mudou fora dela
-    está só em `plugins/julgados-*/`;
+    está só em `plugins/julgados-*/` (layout antigo) ou `julgados/`;
  e. nenhum commit do espelho (nem tag anotada) tem e-mail de autor, committer ou tagger fora de
     `@users.noreply.github.com`, `.invalid` ou `noreply@github.com`;
  f. cada tag `v*` do original existe no espelho e aponta para o commit mapeado da tag original.
@@ -27,7 +27,8 @@ import sys
 
 REPLAY = "Historico normativo (replay)"
 NORMAS = "plugins/normas"
-JULGADOS = re.compile(r"^plugins/julgados-[^/]+(/|$)")
+# o histórico guarda os julgados em plugins/julgados-*/ (até a Fase 6) e em julgados/ (depois)
+JULGADOS = re.compile(r"^(?:plugins/julgados-[^/]+(?:/|$)|julgados(?:/|$))")
 EMAIL_OK = re.compile(r"(@users\.noreply\.github\.com|\.invalid)$|^noreply@github\.com$", re.I)
 ZEROS = "0" * 40
 LIMITE = 20  # shas listados por verificação
@@ -227,7 +228,7 @@ def conferir(antes, ref_antes, depois, commit_map, ref_depois="main"):
             exemplos.add("/".join(caminho.split("/")[:2]))
             break
     if d_fora:
-        res["d"].append("%d commit(s) com mudança fora de plugins/julgados-*/ (em %s): %s"
+        res["d"].append("%d commit(s) com mudança fora de plugins/julgados-*/ e julgados/ (em %s): %s"
                         % (len(d_fora), ", ".join(sorted(exemplos)[:5]), _lista(d_fora)))
 
     # e. e-mails no espelho
@@ -272,7 +273,7 @@ DESCRICOES = {
     "a": "árvore da ponta idêntica",
     "b": "commits anteriores ao primeiro reescrito mantêm o sha",
     "c": "commits de replay: data, mensagem e plugins/normas",
-    "d": "plugins/normas igual e mudanças só em plugins/julgados-*/",
+    "d": "plugins/normas igual e mudanças só em plugins/julgados-*/ ou julgados/",
     "e": "e-mails de autor, committer e tagger",
     "f": "tags v* apontam para o commit mapeado",
 }

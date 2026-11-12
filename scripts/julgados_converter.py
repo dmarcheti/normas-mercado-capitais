@@ -1638,7 +1638,7 @@ def main(argv=None, pm=pdf_macos):
     ap.add_argument("--limite", type=int)
     ap.add_argument("--inventario", default=jb.INVENTARIO)
     ap.add_argument("--cache", default=jb.CACHE)
-    ap.add_argument("--raiz", default=jc.RAIZ, help="raiz do repositório (saída em plugins/)")
+    ap.add_argument("--raiz", default=jc.RAIZ, help="raiz do repositório (saída em julgados/)")
     ap.add_argument("--relatorios", default=RELATORIOS)
     ap.add_argument("--marcar-imagens", action="store_true",
                     help="imagem com texto vira marca, sem OCR (decisão por item)")

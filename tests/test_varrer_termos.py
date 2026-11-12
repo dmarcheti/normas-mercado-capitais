@@ -117,27 +117,46 @@ class TestCpfERg(unittest.TestCase):
         self.assertEqual(varrer({"a.md": "CPF/CNPJ: RG: RG: Endereço:"}, []), [])
 
 
+NORMA_X = "plugins/normas/skills/consultar-normas/normas/x.md"
+
+
 class TestJulgados(unittest.TestCase):
     def test_cnpj_liberado_so_nos_julgados(self):
         cnpj = "60.701.190/" + "0001-04"
         txt = "Banco X, CNPJ " + cnpj
+        self.assertEqual(varrer({"julgados/cvm/pas/2023/x.md": txt}, []), [])
+        self.assertEqual(varrer({NORMA_X: txt}, []), [NORMA_X + ": " + cnpj])
+
+    def test_layout_antigo_do_historico_continua_valendo(self):
+        cnpj = "60.701.190/" + "0001-04"
+        txt = "Banco X, CNPJ " + cnpj
         self.assertEqual(varrer({"plugins/julgados-pas/julgados/cvm/pas/2023/x.md": txt}, []), [])
-        self.assertEqual(varrer({"plugins/normas/normas/x.md": txt}, []), ["plugins/normas/normas/x.md: " + cnpj])
+
+    def test_indices_e_fichas_dos_julgados_na_skill_valem_como_julgados(self):
+        cnpj = "60.701.190/" + "0001-04"
+        for arq in ("plugins/normas/skills/consultar-normas/julgados/indices/pas-2023.md",
+                    "plugins/normas/skills/consultar-normas/julgados/fichas/pas/2023.md"):
+            self.assertEqual(varrer({arq: "CNPJ " + cnpj}, []), [])
+            self.assertEqual(varrer({arq: "caso da Fulana Ltda"}, ["Fulana"]), [arq + ": Fulana"])
+
+    def test_normas_da_skill_nao_valem_como_julgados(self):
+        cnpj = "60.701.190/" + "0001-04"
+        self.assertEqual(varrer({NORMA_X: "CNPJ " + cnpj}, []), [NORMA_X + ": " + cnpj])
 
     def test_termo_e_cpf_continuam_nos_julgados(self):
-        arq = "plugins/julgados-pas/julgados/cvm/pas/2023/x.md"
+        arq = "julgados/cvm/pas/2023/x.md"
         self.assertEqual(varrer({arq: "caso da Fulana Ltda"}, ["Fulana"]), [arq + ": Fulana"])
 
 
 
 class TestExpressoesLiberadas(unittest.TestCase):
-    ARQ = "plugins/julgados-pas/julgados/cvm/pas/2023/x.md"
+    ARQ = "julgados/cvm/pas/2023/x.md"
 
     def test_expressao_liberada_passa_so_nos_julgados(self):
         txt = "a administradora do Fundo Alfa Credito respondeu"
         self.assertEqual(varrer({self.ARQ: txt}, ["Alfa"], ["Fundo Alfa"]), [])
-        self.assertEqual(varrer({"plugins/normas/normas/x.md": txt}, ["Alfa"], ["Fundo Alfa"]),
-                         ["plugins/normas/normas/x.md: Alfa"])
+        self.assertEqual(varrer({NORMA_X: txt}, ["Alfa"], ["Fundo Alfa"]),
+                         [NORMA_X + ": Alfa"])
 
     def test_termo_fora_da_expressao_continua_barrando(self):
         txt = "o Fundo Alfa e a Alfa Gestora"

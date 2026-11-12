@@ -36,7 +36,7 @@ from normalizar import normalizar_texto  # noqa: E402
 from validar import texto_da_norma  # noqa: E402
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-NORMAS = os.path.join(RAIZ, "plugins", "normas", "normas")
+NORMAS = os.path.join(RAIZ, "plugins", "normas", "skills", "consultar-normas", "normas")
 ACEITAS = os.path.join(RAIZ, "fontes", "divergencias-aceitas.json")
 CAMPOS_ACEITA = ("id", "dispositivo", "consolidado", "norma", "motivo", "ref")
 USER_AGENT = (

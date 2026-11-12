@@ -1,0 +1,80 @@
+# Julgados que citam icvm-245
+
+Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
+Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
+Gerado por `scripts/indice.py`; não edite à mão.
+Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+
+Norma: fora do acervo.
+
+## art. 1º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | RJ2002/2231 | 2002-04-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2231. | ../../../../../julgados/cvm/colegiado/2002/col-20020430-d04.md |
+| art. 1º | decisao-colegiado | RJ2002/2710 | 2002-06-18 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/2710. | ../../../../../julgados/cvm/colegiado/2002/col-20020618-d06.md |
+| art. 1º | decisao-colegiado | RJ2002/2231 | 2002-11-22 | provido | outros | O Colegiado deu provimento a pedido de reconsideração da Metal Trust S.A. de decisão anterior do Colegiado. | ../../../../../julgados/cvm/colegiado/2002/col-20021122-d02.md |
+| art. 1º | decisao-colegiado | RJ2004/6243 | 2005-01-11 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2004/6243. | ../../../../../julgados/cvm/colegiado/2005/col-20050111-d08.md |
+| art. 1º | decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2005/8359. | ../../../../../julgados/cvm/colegiado/2006/col-20060518-d02.md |
+| art. 1º | decisao-colegiado | RJ2007/12005 | 2007-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12005. | ../../../../../julgados/cvm/colegiado/2007/col-20071023-d08.md |
+| art. 1º | decisao-colegiado | RJ2007/12237 | 2007-10-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/12237. | ../../../../../julgados/cvm/colegiado/2007/col-20071030-d08.md |
+| art. 1º | decisao-colegiado | RJ2007/13893 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13893. | ../../../../../julgados/cvm/colegiado/2007/col-20071204-d08.md |
+| art. 1º | decisao-colegiado | RJ2007/14043 | 2007-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/14043. | ../../../../../julgados/cvm/colegiado/2007/col-20071211-d18.md |
+| art. 1º | decisao-colegiado | RJ2008/0319 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0319. | ../../../../../julgados/cvm/colegiado/2008/col-20080129-d08.md |
+| art. 1º | decisao-colegiado | RJ2008/3930 | 2008-06-10 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Manufatura de Brinquedos Estrela S.A. contra o indeferimento pela SEP de dispensa da revisão das informações trimestrais por auditor independente (Instrução 245/96). Acompanhou o voto do relator: não há norma que ampare a dispensa, e o faturamento excedeu o limite em apenas R$ 185.871,75. | ../../../../../julgados/cvm/colegiado/2008/col-20080610-d07.md |
+| art. 1º | decisao-colegiado | RJ2008/8889 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8889. | ../../../../../julgados/cvm/colegiado/2008/col-20080930-d18.md |
+| art. 1º | decisao-colegiado | RJ2008/9197 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9197. | ../../../../../julgados/cvm/colegiado/2008/col-20081028-d01.md |
+| art. 1º | decisao-colegiado | RJ2009/4088 | 2010-07-20 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2010/col-20100720-d05.md |
+| art. 1º | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
+| art. 1º | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
+| art. 1º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| art. 1º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| art. 1º, inciso I, alínea a | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
+| art. 1º, inciso I, alínea a | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
+| art. 1º, inciso I, alínea a | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
+| art. 1º, inciso I, alínea a | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| art. 1º, inciso I, alínea b | decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/0796. | ../../../../../julgados/cvm/colegiado/2006/col-20060613-d07.md |
+| art. 1º, inciso V | decisao-colegiado | RJ2007/13946 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13946. | ../../../../../julgados/cvm/colegiado/2007/col-20071204-d11.md |
+| art. 1º, inciso V | decisao-colegiado | RJ2008/9197 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9197. | ../../../../../julgados/cvm/colegiado/2008/col-20081028-d01.md |
+| art. 1º, inciso V | decisao-colegiado | RJ2010/0993 | 2010-02-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/0993. | ../../../../../julgados/cvm/colegiado/2010/col-20100202-d36.md |
+| art. 1º, inciso V | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
+| art. 1º, inciso V | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
+| art. 1º, inciso V | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| art. 1º, inciso VI | decisao-colegiado | RJ2008/8889 | 2008-09-30 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8889. | ../../../../../julgados/cvm/colegiado/2008/col-20080930-d18.md |
+| art. 1º, parágrafo único | decisao-colegiado | RJ2008/3930 | 2008-06-10 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Manufatura de Brinquedos Estrela S.A. contra o indeferimento pela SEP de dispensa da revisão das informações trimestrais por auditor independente (Instrução 245/96). Acompanhou o voto do relator: não há norma que ampare a dispensa, e o faturamento excedeu o limite em apenas R$ 185.871,75. | ../../../../../julgados/cvm/colegiado/2008/col-20080610-d07.md |
+
+## art. 2º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+
+## art. 4º
+
+| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|---|
+| art. 4º | acordao-crsfn | 38/00 | 2006-08-18 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Realização de operações fraudulentas – Utilização de prática não-eqüitativa – Prejuízos a instituto de seguridade social – Irregularidades caracterizadas - Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2006/5278.md |
+| art. 4º | pas | 38/2000 | 2003-04-02 | parcial | manipulacao-fraude | infração ao item I da Instrução CVM nº 08/79, conforme conceituado nas alíneas "c" e "d" do inciso II da mesma Instrução CVM nº 08/79; descumprimento dos artigos 4º e 5º da Instrução CVM nº 220/94; infração ao item I da Deliberação CVM nº 20/85; infração ao artigo 3º da Instrução CVM nº42/85. - Multas e inabilitação. - infração ao artigo 2º da Instrução CVM nº 202/93, com redação dada pelo artigo 4º da Instrução CVM nº 245/96. Absolvição. | ../../../../../julgados/cvm/pas/2003/38-2000.md |
+
+## Citada sem dispositivo identificado
+
+| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
+|---|---|---|---|---|---|---|
+| acordao-crsfn | 25/03 | 2013-04-23 | arquivamento | processual | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – | ../../../../../julgados/crsfn/2013/12038.md |
+| acordao-crsfn | 0501291250 | 2010-06-22 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Falta de envio de informações obrigatórias periódicas e eventuais à autoridade fiscalizadora (demonstrações financeiras padronizadas-AFP; edital de convocação e ata de assembléia geral ordinária; formulário de informações anuais-IAN e trimestrais-ITR) - Irregularidade configurada - Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2010/11745.md |
+| acordao-crsfn | RJ-2006-796 | 2009-09-30 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Diretoria de relações com investidores (DRI) – Falta de obrigatório envio de informações periódicas à autoridade fiscalizadora - Irregularidade caracterizada - Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2009/10884.md |
+| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | ../../../../../julgados/cvm/pas/2008/25-2003.md |
+| decisao-colegiado | RJ2008/0301 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0301. | ../../../../../julgados/cvm/colegiado/2008/col-20080129-d11.md |
+| decisao-colegiado | RJ2008/0330 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0330. | ../../../../../julgados/cvm/colegiado/2008/col-20080129-d09.md |
+| decisao-colegiado | RJ2007/13459 | 2007-11-12 | deferido | contabil-demonstracoes | Acompanhando a SEP (Memo/SEP/GEA-4/143/07), o Colegiado entendeu que, sendo a incorporada de capital fechado, com contas consolidadas nas demonstrações auditadas da Suzano, sem acionistas minoritários e sem aumento de capital, não se justificaria, a princípio, exigir pareceres de auditores independentes sobre as demonstrações da operação. Pedido de dispensa do art. 12 da IN 319/99. | ../../../../../julgados/cvm/colegiado/2007/col-20071112-d02.md |
+| decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2007/1208. | ../../../../../julgados/cvm/colegiado/2007/col-20071106-d04.md |
+| termo-compromisso | RJ2006/5905 | 2007-01-30 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso do diretor de relações com investidores da CELM em PAS por falta de informações periódicas, após a entrega do ITR pendente que motivara a rejeição pelo Comitê. Condicionou a aceitação a estar em dia com a Instrução 202/93 na assinatura e a pagar o valor ofertado em 10 dias da publicação. | ../../../../../julgados/cvm/colegiado/2007/col-20070130-d06.md |
+| pas | RJ2005/4969 | 2006-11-07 | parcial | registro-emissor | Não manutenção do registro de companhia aberta atualizado. Descumprimento dos arts. 13, 16 e 17 da Instrução CVM nº 202/93, em infração ao art. 6º da mesma Instrução. Aplicação de multa ao Diretor de Relações com Investidores. - Infração ao dever de diligência previsto no art. 153 da Lei nº 6.404/76, tendo em vista o disposto no art. 18 da Instrução CVM nº 202/93. Absolvições | ../../../../../julgados/cvm/pas/2006/rj2005-4969.md |
+| decisao-colegiado | RJ2005/3496 | 2005-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2005/3496. | ../../../../../julgados/cvm/colegiado/2005/col-20050607-d09.md |
+| decisao-colegiado | RJ2004/6333 | 2004-11-30 | deferido | opa | O Colegiado, acompanhando o relator, reconheceu atendida a exigência de que a operação não ocasionará OPA por aumento de participação (art. 37 da Instrução CVM 361/02). Concedeu ao investidor estrangeiro SPK Investment Corporation autorização para permuta, fora de bolsa, de ações da Polialden por ações preferenciais da Braskem, com base no art. 8º da Resolução CMN 2.689/00, alterado em 25.11.2004. | ../../../../../julgados/cvm/colegiado/2004/col-20041130-d03.md |
+| decisao-colegiado | RJ2002/5848 | 2004-07-13 | provido | divulgacao-informacoes | O Colegiado manifestou-se no sentido de que companhias abertas falidas ou em liquidação estão dispensadas das informações dos incisos I, IV e VIII do art. 16 da Instrução 202/93, mas devem prestar as dos §§ 2º e 3º. Em recurso da Cimetal, dispensou a Política de Divulgação pelo adiantado estágio da liquidação, sem prejuízo de fatos relevantes pelo liquidante. | ../../../../../julgados/cvm/colegiado/2004/col-20040713-d08.md |
+| decisao-colegiado | RJ2002/2710 | 2002-12-02 | provido | multa-cominatoria-taxa | O Colegiado acolheu pedido de reconsideração do Centro Hospitalar Albert Sabin S/A contra decisão do Colegiado que aplicou multa, permitindo a entrega das informações trimestrais em 60 dias após o término do período. Acompanhou a diretora-relatora. | ../../../../../julgados/cvm/colegiado/2002/col-20021202-d05.md |
+| decisao-colegiado | RJ2002/5910 | 2002-10-01 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SEP de aplicação de multa cominatória. Proc. RJ2002/5910. | ../../../../../julgados/cvm/colegiado/2002/col-20021001-d02.md |
+| decisao-colegiado | RJ2002/1330 | 2002-09-20 | provido | infraestrutura-mercado | O Colegiado acatou pedido de reconsideração da Centro Hospitalar Albert Sabin S.A. contra decisão que indeferiu recurso por atraso na 1ª ITR/2001 e deliberou que companhias com faturamento bruto consolidado inferior a R$ 100 milhões e títulos registrados na CETIP devem beneficiar-se dos 15 dias adicionais da Instrução CVM 245/96. | ../../../../../julgados/cvm/colegiado/2002/col-20020920-d02.md |
+
+Fim do subíndice.

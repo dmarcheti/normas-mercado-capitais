@@ -1,6 +1,6 @@
 """Testes da auditoria dos julgados (Fase 3b), sem rede e sem as ferramentas do macOS.
 
-Tudo roda num repositório-raiz temporário: plugins, cache da fonte, inventário, classificação do
+Tudo roda num repositório-raiz temporário: julgados, índices, cache da fonte, inventário, classificação do
 CRSFN e RESULTADOS.md sintéticos. PDF e HTML são gerados aqui (o .gitignore ignora *.pdf). O runner
 só é testado com subprocess falso: nenhuma sessão `claude -p` roda.
 """
@@ -109,8 +109,8 @@ COL_PARS = [
 
 def montar_repo(raiz):
     """Repo-raiz sintético: 1 TC (PDF), 1 decisão do Colegiado (HTML), 1 acórdão do CRSFN (HTML)."""
-    p = "plugins/julgados-teste/julgados/"
-    gravar(raiz, "plugins/julgados-teste/.claude-plugin/plugin.json", '{"version": "0.1.0"}')
+    p = "julgados/"  # texto dos julgados na raiz do repositório
+    ind = "plugins/normas/skills/consultar-normas/julgados/"  # índices, dentro da skill
     tc = {"id": "cvm-tc-20150101-a", "orgao": "cvm", "tipo": "termo-compromisso", "classe": "",
           "processo": "19957.000001/2015-01", "data": "2015-01-01", "relator": "SGE",
           "resultado": "aceito", "ementa": "Proposta de termo de compromisso aceita.",
@@ -130,11 +130,11 @@ def montar_repo(raiz):
           "nivel_verificacao": "html-convertido"}
     gravar(raiz, p + "crsfn/2021/crsfn-19957-000009-2020-01.md",
            julgado(cr, "Recurso contra decisao da CVM. Recurso conhecido e nao provido."))
-    gravar(raiz, p + "indice.md", "# Indice\n")
-    gravar(raiz, p + "indices/termo-compromisso.md",
+    gravar(raiz, ind + "indice.md", "# Indice\n")
+    gravar(raiz, ind + "indices/termo-compromisso.md",
            "| Processo | Data | Resultado | Tema | Ementa | Arquivo |\n|---|---|---|---|---|---|\n"
            "| 19957.000001/2015-01 | 2015-01-01 | aceito | outros | Acordo de Fulano Beltrano | "
-           "cvm/tc/2015/tc-20150101-a.md |\n")
+           "../../../../../julgados/cvm/tc/2015/tc-20150101-a.md |\n")
     c = "dados/fase-2d/cache/"
     d = c + "termo-compromisso/2015/cvm-tc-20150101-a/"
     gravar(raiz, d + "01-pagina.html", pagina_html(["Termo de compromisso. Ver anexo."]))

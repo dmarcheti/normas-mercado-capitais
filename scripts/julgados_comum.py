@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Peças comuns dos julgados da CVM (Fase 2d, contrato da SPEC v0.5.0).
 
-- plugin_do_julgado(tipo, ano): o plugin de cada julgado; única fonte do corte por período.
+- caminho_relativo(tipo, id, ano): o caminho do julgado sob `julgados/` (raiz do repositório).
 - processos(texto) / normalizar_processo(texto) / nup(texto): números de processo normalizados
   (NUP `19957.011607/2024-20` -> `19957-011607-2024-20`; `RJ2015/1234`, `RJ-2015-1234`,
   `PAS CVM nº RJ2015/1234` -> `rj2015-1234`; `SP97/00250` -> `sp1997-0250`; `22/1996` ->
@@ -46,29 +46,8 @@ CAMPOS = ("id", "orgao", "tipo", "classe", "processo", "nup", "rito", "data", "r
           "nivel_verificacao", "incerteza")
 PII = "[dado pessoal retirado]"
 
-PLUGIN_PAS = "julgados-pas"
-PLUGIN_TC_CRSFN = "julgados-tc-crsfn"
-PERIODOS_COLEGIADO = ((None, 2008, "julgados-colegiado-2002-2008"),
-                      (2009, 2015, "julgados-colegiado-2009-2015"),
-                      (2016, None, "julgados-colegiado-2016-2026"))
-PLUGINS_JULGADOS = (PLUGIN_PAS, PLUGIN_TC_CRSFN) + tuple(p[2] for p in PERIODOS_COLEGIADO)
+PASTA_JULGADOS = "julgados"  # sob a raiz do repositório: o texto dos julgados
 ONDAS = {1: (2019, 2026), 2: (2010, 2018), 3: (None, 2009)}
-
-
-def plugin_do_julgado(tipo, ano):
-    """Plugin do julgado: PAS em julgados-pas; TCs e acórdãos do CRSFN em julgados-tc-crsfn; o
-    resto do Colegiado (e as decisões antigas, 1978 a 2001) por período."""
-    if tipo not in TIPOS:
-        raise ValueError("tipo de julgado desconhecido: %r" % (tipo,))
-    if tipo == "pas":
-        return PLUGIN_PAS
-    if tipo in ("termo-compromisso", "acordao-crsfn"):
-        return PLUGIN_TC_CRSFN
-    ano = int(ano)
-    for ini, fim, nome in PERIODOS_COLEGIADO:
-        if (ini is None or ano >= ini) and (fim is None or ano <= fim):
-            return nome
-    raise AssertionError("período sem plugin: %s" % ano)
 
 
 # ---------------------------------------------------------------- processos
@@ -234,16 +213,18 @@ _PASTA = {"pas": "cvm/pas/%s", "termo-compromisso": "cvm/colegiado/%s",
 
 
 def caminho_relativo(tipo, id_, ano):
-    """Caminho sob plugins/: <plugin>/julgados/<pasta>/<id sem prefixo>.md."""
+    """Caminho sob `julgados/` (na raiz do repositório): <pasta>/<id sem prefixo>.md."""
+    if tipo not in TIPOS:
+        raise ValueError("tipo de julgado desconhecido: %r" % (tipo,))
     pref = _PREFIXO_ARQ[tipo]
     if not id_.startswith(pref):
         raise ValueError("id %r não combina com o tipo %s" % (id_, tipo))
     pasta = _PASTA[tipo] % ano if "%s" in _PASTA[tipo] else _PASTA[tipo]
-    return os.path.join(plugin_do_julgado(tipo, ano), "julgados", pasta, id_[len(pref):] + ".md")
+    return os.path.join(pasta, id_[len(pref):] + ".md")
 
 
 def caminho_julgado(tipo, id_, ano, raiz=RAIZ):
-    return os.path.join(raiz, "plugins", caminho_relativo(tipo, id_, ano))
+    return os.path.join(raiz, PASTA_JULGADOS, caminho_relativo(tipo, id_, ano))
 
 
 # ---------------------------------------------------------------- frontmatter

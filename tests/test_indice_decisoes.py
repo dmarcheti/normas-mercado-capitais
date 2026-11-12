@@ -125,7 +125,7 @@ class TestLerDecisoes(unittest.TestCase):
 class TestIndiceDasDecisoesAntigas(unittest.TestCase):
     def setUp(self):
         self._tmp = tempfile.TemporaryDirectory()
-        self.raiz = os.path.join(self._tmp.name, "plugins", "julgados-colegiado-2002-2008", "julgados")
+        self.raiz = os.path.join(self._tmp.name, "julgados")
 
     def tearDown(self):
         self._tmp.cleanup()
@@ -150,7 +150,7 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
         self.assertIn("indices/decisao-antiga-1985.md", arqs)
         md = arqs["indices/decisao-antiga-1985.md"]
         self.assertIn("| 1985-03-05 | 12 | — | CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS | "
-                      "cvm/decisoes-antigas/1985.md:", md)
+                      "%scvm/decisoes-antigas/1985.md:" % indice.PREFIXO_ALVO, md)
         self.assertEqual(md.count("cvm/decisoes-antigas/1985.md:"), 2)
         self.assertIn("(indices/decisao-antiga-1985.md)", arqs["indice.md"])
 

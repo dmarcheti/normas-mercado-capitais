@@ -230,8 +230,8 @@ class TestConverter(Base):
     def test_so_cvm_e_caminho(self):
         self.assertEqual(sorted(self.rel), ["crsfn-10372-100012-2021-00", "crsfn-2613", "crsfn-5279"])
         self.assertEqual(self.rel["crsfn-5279"]["arquivo"],
-                         os.path.join("plugins", crsfn.jc.caminho_relativo("acordao-crsfn", "crsfn-5279", 2005)))
-        self.assertTrue(self.rel["crsfn-5279"]["arquivo"].endswith("/julgados/crsfn/2005/5279.md"))
+                         os.path.join("julgados", crsfn.jc.caminho_relativo("acordao-crsfn", "crsfn-5279", 2005)))
+        self.assertEqual(self.rel["crsfn-5279"]["arquivo"], "julgados/crsfn/2005/5279.md")
 
     def test_reconversao_preserva_o_tema_extraido(self):
         caminho = os.path.join(self.raiz, self.rel["crsfn-5279"]["arquivo"])

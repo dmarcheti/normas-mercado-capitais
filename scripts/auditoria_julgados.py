@@ -134,6 +134,10 @@ def caminhos(raiz=RAIZ):
             "temas": os.path.join(raiz, "scripts", "prompts", "julgados-extracao.md")}
 
 
+INDICE_JULGADOS = ("plugins", "normas", "skills", "consultar-normas", "julgados")
+_PREFIXO_ARQUIVO = re.compile(r"^(?:\.\./)*julgados/")
+
+
 def _rel(p, raiz):
     return os.path.relpath(p, raiz)
 
@@ -146,10 +150,9 @@ def _agora():
 
 
 def publicados(raiz=RAIZ, com_corpo=False):
-    """[{id, tipo, nivel, data, arquivo, ...}] dos julgados dos plugins (ordem do caminho)."""
+    """[{id, tipo, nivel, data, arquivo, ...}] dos julgados de `julgados/` (ordem do caminho)."""
     out = []
-    for c in sorted(glob.glob(os.path.join(raiz, "plugins", "julgados-*", "julgados", "**",
-                                           "*.md"), recursive=True)):
+    for c in sorted(glob.glob(os.path.join(raiz, "julgados", "**", "*.md"), recursive=True)):
         if os.sep + "indices" + os.sep in c or os.path.basename(c) == "indice.md":
             continue
         try:
@@ -1230,20 +1233,21 @@ def _nome_em_slug(slug, pessoas_):
 
 
 def _linhas_indice(raiz):
-    """[(plugin, arquivo do julgado, linha)] das tabelas dos índices dos julgados."""
+    """[(arquivo do índice, arquivo do julgado, linha)] das tabelas dos índices dos julgados.
+    `arquivo do julgado` é o caminho sob `julgados/`: o prefixo relativo (`../../julgados/`) que a
+    célula "Arquivo" traz até a raiz do repositório sai."""
     out = []
-    for c in sorted(glob.glob(os.path.join(raiz, "plugins", "julgados-*", "julgados", "**",
-                                           "*.md"), recursive=True)):
+    for c in sorted(glob.glob(os.path.join(raiz, *INDICE_JULGADOS, "**", "*.md"), recursive=True)):
         if not (os.sep + "indices" + os.sep in c or os.path.basename(c) == "indice.md"):
             continue
-        plugin = _rel(c, raiz).split(os.sep)[1]
+        plugin = _rel(c, raiz)
         with open(c, encoding="utf-8") as f:
             for ln in f:
                 if not ln.startswith("| ") or ln.startswith("|---"):
                     continue
                 m = re.search(r"\|\s*([^|]+\.md)\s*\|\s*$", ln.rstrip("\n"))
                 if m:
-                    out.append((plugin, m.group(1).strip(), ln.rstrip("\n")))
+                    out.append((plugin, _PREFIXO_ARQUIVO.sub("", m.group(1).strip()), ln.rstrip("\n")))
     return out
 
 
@@ -1258,7 +1262,7 @@ def censo_nomes(raiz=RAIZ, pessoas=None, pubs=None, log=print):
             j["valores"], j["corpo"] = je.ler_julgado(os.path.join(raiz, j["arquivo"]))
         ps = pessoas.do_julgado(j["valores"], j["corpo"])
         partes = j["arquivo"].split(os.sep)
-        por_arquivo[(partes[1], "/".join(partes[3:]))] = ps
+        por_arquivo["/".join(partes[1:])] = ps
         n += 1
         for campo, txt, fn in (("id", j["id"], _nome_em_slug),
                                ("arquivo", os.path.splitext(os.path.basename(j["arquivo"]))[0],
@@ -1269,14 +1273,14 @@ def censo_nomes(raiz=RAIZ, pessoas=None, pubs=None, log=print):
                 achados.append({"id": j["id"], "campo": campo, "trecho": t})
     linhas = _linhas_indice(raiz)
     sem_dono = 0
-    for plugin, arq, ln in linhas:
-        ps = por_arquivo.get((plugin, arq))
+    for indice, arq, ln in linhas:
+        ps = por_arquivo.get(arq)
         if ps is None:
             sem_dono += 1
             continue
         t = je.tem_nome(ln.rsplit("|", 2)[0], ps)
         if t:
-            achados.append({"indice": plugin, "arquivo": arq, "campo": "indice", "trecho": t})
+            achados.append({"indice": indice, "arquivo": arq, "campo": "indice", "trecho": t})
     return {"julgados": n, "linhas_de_indice": len(linhas), "linhas_sem_julgado": sem_dono,
             "achados": achados}
 
@@ -1311,7 +1315,7 @@ def numero_acordao(corpo):
 
 
 def censo_duplicatas(raiz=RAIZ, pubs=None):
-    """(e) Julgados com o mesmo sha256_fonte (em todos os plugins): corpo idêntico depois de
+    """(e) Julgados com o mesmo sha256_fonte (em todo `julgados/`): corpo idêntico depois de
     normalizar = duplicata; corpos diferentes = a mesma página traz acórdãos distintos. Mais os
     acórdãos do CRSFN com o mesmo número no corpo e sha256 diferente."""
     pubs = pubs if pubs is not None else publicados(raiz, com_corpo=True)

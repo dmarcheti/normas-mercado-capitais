@@ -7,7 +7,7 @@ Subcomandos:
                não é baixado. Grava dados/fase-2d/crsfn-classificacao.json a cada 10 itens e no
                fim; itens já classificados são pulados (retomável).
   converter    converte os itens classificados como CVM em
-               plugins/<plugin>/julgados/crsfn/AAAA/<id sem crsfn->.md (SPEC v0.5.0), com a
+               julgados/crsfn/AAAA/<id sem crsfn->.md (SPEC v0.5.0), com a
                cobertura conferida por extrator independente em dados/fase-2d/relatorios/.
 Os dois regravam dados/fase-2d/crsfn-ligacoes.json (processo CVM normalizado -> ids).
 

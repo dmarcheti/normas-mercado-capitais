@@ -40,7 +40,7 @@ from normalizar import _CARACTERES  # noqa: E402
 from validar import texto_da_norma  # noqa: E402
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-LEIS = os.path.join(RAIZ, "plugins", "normas", "normas", "leis")
+LEIS = os.path.join(RAIZ, "plugins", "normas", "skills", "consultar-normas", "normas", "leis")
 _FRONTMATTER = re.compile(r"\A---\n.*?\n---\n", re.S)
 _HEADING = re.compile(r"^## Art\. (\S+)$")
 _ROTULO = re.compile(r"^(\d[\d.]*)[ºª]?(?:-([A-Z]+))?$")

@@ -7,14 +7,14 @@
 
 Protocolo da Fase 3b/5, sem mudança:
 - resposta "sem": `claude -p --model sonnet --tools ""` (sem acervo);
-- resposta "com": `--model sonnet --tools Read,Skill --allowedTools Read,Skill` com os 6 plugins
+- resposta "com": `--model sonnet --tools Read,Skill --allowedTools Read,Skill` com o plugin `normas`
   (`--plugin-dir`), copiados para `<saida>/plugins/` na primeira vez (a bateria usa a cópia);
 - juiz: `--model opus --tools ""`, cego ao modo, ids "Jnn" embaralhados com a semente.
 Isolamento (achado da Fase 5): o Claude Code sincroniza os plugins instalados na conta do claude.ai,
 e um plugin sincronizado com o mesmo nome toma o lugar da cópia; com 2 ou mais `--plugin-dir`, nenhum
 plugin carrega (2.1.311). Por isso: um só `--plugin-dir` com a pasta-mãe, `--setting-sources ""`, e
 a cópia leva o sufixo "-bateria" no `plugin.json`, a sessão roda numa pasta temporária fora do repo
-(e do cofre, que tem instruções próprias) e cada resposta confere, no evento `init`, que os 6 plugins
+(e do cofre, que tem instruções próprias) e cada resposta confere, no evento `init`, que o plugin
 carregados são as cópias; resposta sem isso é gravada como inválida e o `responder` sai com erro.
 Retomável: pula resposta ou nota já gravada. A saída (`dados/fase-5/bateria-v3/` por padrão) fica
 em `dados/`, fora do Git. Roda `claude` de verdade: não é chamada pelos testes; os testes cobrem
@@ -33,8 +33,7 @@ import sys
 import tempfile
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-PLUGINS = ["normas", "julgados-pas", "julgados-tc-crsfn", "julgados-colegiado-2002-2008",
-           "julgados-colegiado-2009-2015", "julgados-colegiado-2016-2026"]
+PLUGINS = ["normas"]
 GABARITO_PADRAO = os.path.join(REPO, "dados", "fase-3b", "bateria-v2-gabarito.json")
 SAIDA_PADRAO = os.path.join(REPO, "dados", "fase-5", "bateria-v3")
 SEMENTE_PADRAO = 20261103
@@ -67,7 +66,7 @@ Responda só com JSON numa linha: {{"caso": 0|1, "conteudo": 0|1, "ressalvas": 0
 
 def montar_args(modo, pasta_plugins=None):
     """Argumentos do `claude -p` para a resposta no `modo` ("sem" ou "com"). No modo "com",
-    `pasta_plugins` é a pasta com os 6 plugins copiados."""
+    `pasta_plugins` é a pasta com o plugin copiado."""
     if modo == "sem":
         return ["--model", "sonnet", "--tools", ""]
     if modo != "com":
@@ -261,7 +260,7 @@ def main(argv=None):
     ap.add_argument("--ids", default="todos", help="ids separados por vírgula, ou todos")
     ap.add_argument("--saida", default=SAIDA_PADRAO, help="pasta de saída (fora do Git)")
     ap.add_argument("--plugins-de", default=os.path.join(REPO, "plugins"),
-                    help="pasta com os 6 plugins a copiar para a bateria")
+                    help="pasta com o plugin a copiar para a bateria")
     ap.add_argument("--modos", default="sem,com")
     ap.add_argument("--semente", type=int, default=SEMENTE_PADRAO, help="semente do embaralhamento do juiz")
     a = ap.parse_args(argv)

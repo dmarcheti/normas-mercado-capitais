@@ -12,7 +12,7 @@ apreciou a proposta. Os PAS que faltam na listagem (os da planilha e os julgados
 Saídas:
 - dados/fase-2d/julgados-inventario.json (completo, com título e ementa da listagem; ignorado
   pelo Git);
-- fontes/julgados-inventario.json (enxuto: id, tipo, classe, processo, data, url, plugin; sem
+- fontes/julgados-inventario.json (enxuto: id, tipo, classe, processo, data, url; sem
   nome de parte).
 
 Uso:
@@ -355,7 +355,6 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
 
     def novo(r):
         usados.add(r["id"])
-        r["plugin"] = jc.plugin_do_julgado(r["tipo"], r["data"][:4])
         registros.append(r)
         return r
 
@@ -434,7 +433,6 @@ def montar(pas, colegiado, tc_aceitos, tc_rejeitados, antigas, planilha, abertos
             if alvo["tipo"] != "termo-compromisso":
                 alvo["tipo_pelo_titulo"] = alvo["tipo"]
                 alvo["tipo"], alvo["classe"] = "termo-compromisso", ""
-                alvo["plugin"] = jc.plugin_do_julgado("termo-compromisso", alvo["data"][:4])
             alvo.setdefault("tc_tabela", []).append(
                 {"resultado": linha["resultado"], "processo": linha["processo"],
                  "data": linha["data"], "termo_urls": linha["termo_urls"]})
@@ -577,7 +575,7 @@ def contagens(registros):
     return {t: dict(c, total=sum(c.values())) for t, c in sorted(out.items())}
 
 
-ENXUTO = ("id", "tipo", "classe", "processo", "data", "url", "plugin")
+ENXUTO = ("id", "tipo", "classe", "processo", "data", "url")
 
 
 def enxuto(registros):

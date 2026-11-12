@@ -13,7 +13,7 @@ from citacoes import (  # noqa: E402
     ler_dispositivo, normas_mencionadas,
 )
 
-NORMAS = os.path.join(AQUI, "..", "plugins", "normas", "normas")
+NORMAS = os.path.join(AQUI, "..", "plugins", "normas", "skills", "consultar-normas", "normas")
 # ids do acervo para os testes (independentes do normas.json do repositório)
 IDS = frozenset([
     "cvm-res-23", "cvm-res-30", "cvm-res-35", "cvm-res-44", "cvm-res-80", "cvm-res-160", "cvm-res-161",

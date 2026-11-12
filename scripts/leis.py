@@ -33,7 +33,7 @@
   `pasta_fontes` (nome em `relatorio.json`) e a URL efetivamente usada.
 
 Uso: python3 scripts/leis.py [fontes/leis.json]
-Grava em plugins/normas/normas/leis/ a partir de dados/fontes/ (cache de baixar.py).
+Grava em plugins/normas/skills/consultar-normas/normas/leis/ a partir de dados/fontes/ (cache de baixar.py).
 Depois: python3 scripts/teste_lei.py lei-N, validar.py e indice.py.
 """
 import hashlib
@@ -50,7 +50,7 @@ from teste_lei import ESTRUTURA, TIPOS_LEI, _chave  # noqa: E402
 from validar import CAMPOS  # noqa: E402
 
 RAIZ = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-LEIS = os.path.join(RAIZ, "plugins", "normas", "normas", "leis")
+LEIS = os.path.join(RAIZ, "plugins", "normas", "skills", "consultar-normas", "normas", "leis")
 FONTES_JSON = os.path.join(RAIZ, "fontes", "leis.json")
 PASTA_FONTES = os.path.join(RAIZ, "dados", "fontes")
 DATA_BASE = "2026-10-28"

@@ -458,7 +458,8 @@ class TestColegiado(Cenarios, unittest.TestCase):
         s = self.test_item_novo()
         i = s["itens"][0]
         self.assertEqual((i["id"], i["dados"]["tipo"]), ("cvm-col-20261020-d3700", "decisao-colegiado"))
-        self.assertEqual(set(i["dados"]) >= {"tipo", "processo", "url", "data", "plugin"}, True)
+        self.assertEqual(set(i["dados"]) >= {"tipo", "processo", "url", "data"}, True)
+        self.assertNotIn("plugin", i["dados"])  # o conceito de plugin de julgados acabou
         self.assertNotIn("titulo", i["dados"])
 
 

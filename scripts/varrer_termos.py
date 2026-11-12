@@ -89,7 +89,11 @@ def _padrao_liberada(expressao):
 # Julgados (Fase 2d): texto gerado por script a partir das fontes da CVM e do CRSFN, que citam
 # CNPJ de empresas aos milhares; a lista fechada não escala. A regra de CNPJ não vale nessas
 # pastas; CPF, RG e a lista de termos continuam valendo (decisão C do plano da Fase 2d).
-PASTA_JULGADOS = re.compile(r"^plugins/julgados-[a-z0-9-]+/julgados/")
+# layout antigo (plugins/julgados-*/julgados/, que o histórico mantém) e o novo: texto em julgados/
+# e índices e fichas em plugins/normas/skills/consultar-normas/julgados/ (os índices antigos ficavam
+# dentro das pastas de julgados e já tinham a exceção; decisão do Diogo de 2026-10-31).
+PASTA_JULGADOS = re.compile(
+    r"^(?:plugins/julgados-[a-z0-9-]+/julgados/|julgados/|plugins/normas/skills/consultar-normas/julgados/)")
 
 
 def varrer(textos, termos, liberadas=()):

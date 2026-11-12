@@ -10,7 +10,7 @@ ligaduras ﬁ/ﬂ, e "_" como separador, porque o PDFKit quebra as URLs do rodap
 separa o artefato de extração da perda real de texto.
 
 Uso:
-  python3 scripts/conferir_pdf.py [--normas plugins/normas/normas]
+  python3 scripts/conferir_pdf.py [--normas plugins/normas/skills/consultar-normas/normas]
       [--fontes dados/texto-vigente-fontes] [--saida dados/conferencia-pdf.json] [--limite N]
 """
 import argparse
@@ -118,7 +118,7 @@ def resumo(itens):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("--normas", default=os.path.join(RAIZ, "plugins", "normas", "normas"))
+    ap.add_argument("--normas", default=os.path.join(RAIZ, "plugins", "normas", "skills", "consultar-normas", "normas"))
     ap.add_argument("--fontes", default=os.path.join(RAIZ, "dados", "texto-vigente-fontes"))
     ap.add_argument("--saida", default=os.path.join(RAIZ, "dados", "conferencia-pdf.json"))
     ap.add_argument("--limite", type=int)

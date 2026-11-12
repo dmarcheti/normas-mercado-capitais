@@ -115,17 +115,14 @@ def gravar_versao(raiz, nome, pasta, nova):
 
 
 def contagens(raiz):
-    """(atos, julgados): normas do normas.json do plugin normas e arquivos de julgados."""
+    """(atos, julgados): normas do normas.json do plugin normas e arquivos de `julgados/` (raiz do repositório)."""
     sys.path.insert(0, AQUI)
     from validar import arquivos_de_julgados  # noqa: E402
-    nj = ler_json(os.path.join(raiz, "plugins", "normas", "normas", "normas.json"), []) or []
-    julgados = 0
-    pasta = os.path.join(raiz, "plugins")
-    for p in sorted(os.listdir(pasta)) if os.path.isdir(pasta) else []:
-        j = os.path.join(pasta, p, "julgados")
-        if p.startswith("julgados-") and os.path.isdir(j):
-            julgados += len(arquivos_de_julgados(j))
-    return len(nj), julgados
+    nj = ler_json(os.path.join(raiz, "plugins", "normas", "skills", "consultar-normas", "normas", "normas.json"), []) or []
+    pasta = os.path.join(raiz, "julgados")
+    if not os.path.isdir(pasta):
+        raise FileNotFoundError("pasta dos julgados não existe: %s" % pasta)
+    return len(nj), len(arquivos_de_julgados(pasta))
 
 
 def linha_changelog(raiz, hoje, subidas):

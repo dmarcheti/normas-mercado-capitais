@@ -13,7 +13,7 @@ novo; 2 se alguma fonte falhou (as outras seguem).
 
 Sem estado próprio (C2): a referência é o que está no Git (fontes/acervo*.json,
 fontes/julgados-inventario.json, fontes/perimetro-camada4.json, fontes/leis.json,
-fontes/decisoes.json, plugins/*/normas.json e o frontmatter). Cada fonte confere HTTP 200 e um
+fontes/decisoes.json, plugins/normas/skills/consultar-normas/normas/normas.json e o frontmatter). Cada fonte confere HTTP 200 e um
 piso de 90% da contagem que o próprio acervo tem dela; abaixo do piso ou HTTP diferente de 200
 na listagem, a fonte sai com status "falha" e nenhum item (C3, C19). Documento isolado que não
 responde (HEAD de um consolidado, página de uma lei) conta como erro da fonte e sai da contagem
@@ -281,7 +281,7 @@ def normas_com_historico(pasta_normas):
 
 
 def crsfn_publicados(pasta):
-    """{url (fonte_original): id} dos acórdãos do CRSFN no plugin."""
+    """{url (fonte_original): id} dos acórdãos do CRSFN em julgados/crsfn."""
     out = {}
     if not os.path.isdir(pasta):
         return out
@@ -353,9 +353,9 @@ class Contexto:
 
     @classmethod
     def do_repo(cls, raiz=RAIZ, **kw):
-        n = os.path.join(raiz, "plugins", "normas", "normas")
+        n = os.path.join(raiz, "plugins", "normas", "skills", "consultar-normas", "normas")
         publicados = {x["id"] for x in _ler_json(os.path.join(n, "normas.json"), [])}
-        crsfn = crsfn_publicados(os.path.join(raiz, "plugins", "julgados-tc-crsfn", "julgados", "crsfn"))
+        crsfn = crsfn_publicados(os.path.join(raiz, "julgados", "crsfn"))
         f = lambda nome, padrao=None: _ler_json(os.path.join(raiz, "fontes", nome), padrao)  # noqa: E731
         return cls(acervo=f("acervo.json"), publicados=publicados,
                    com_historico=normas_com_historico(n), bcb=f("acervo-bcb.json"),
@@ -951,10 +951,6 @@ def anbima(ctx, col):
 
 # ---------------------------------------------------------------- julgados
 
-def _plugin(tipo, data):
-    return jc.plugin_do_julgado(tipo, (data or "0000")[:4]) if data else jc.plugin_do_julgado(tipo, datetime.date.today().year)
-
-
 def colegiado(ctx, col):
     """Listagem de decisões do Colegiado no semestre anterior e no corrente (diária)."""
     janelas = semestres(ctx.hoje)
@@ -994,8 +990,7 @@ def colegiado(ctx, col):
         url = jc.absoluta(chave)
         col.item("J", id_, [], url, data, "", "%s nova na listagem do Colegiado" % tipo,
                  {"tipo": tipo, "classe": "" if bruta == "tc_proposta" else ji.CLASSE_CONTRATO[bruta],
-                  "processo": jc.processo_publicado(it["titulo"]), "url": url, "data": data,
-                  "plugin": _plugin(tipo, data)})
+                  "processo": jc.processo_publicado(it["titulo"]), "url": url, "data": data})
 
 
 def tc(ctx, col):
@@ -1039,7 +1034,7 @@ def tc(ctx, col):
         url = jc.absoluta(decisoes[0]) if decisoes else jc.absoluta((ln["termo_urls"] or [""])[0])
         col.item("J", id_, [], url, ln["data"], "", "TC %s novo na tabela" % ln["resultado"],
                  {"tipo": "termo-compromisso", "resultado": ln["resultado"], "processo": ln["processo"],
-                  "url": url, "data": ln["data"], "plugin": _plugin("termo-compromisso", ln["data"]),
+                  "url": url, "data": ln["data"],
                   "termo_urls": [jc.absoluta(u) for u in ln["termo_urls"]],
                   "decisao_urls": [jc.absoluta(u) for u in ln["decisao_urls"]]})
 
@@ -1115,8 +1110,7 @@ def pas(ctx, col, maximo_paginas=60):
         col.item("J", "cvm-pas-noticia-" + slug, [], url, it.get("data") or "", "",
                  "notícia de julgamento não lida (%s): conferir à mão" % erro,
                  {"tipo": "pas", "leitura_falhou": True, "erro": erro, "titulo": it.get("titulo") or "",
-                  "url": url, "data": it.get("data") or "",
-                  "plugin": jc.plugin_do_julgado("pas", (it.get("data") or ctx.hoje)[:4])})
+                  "url": url, "data": it.get("data") or ""})
     for k, ent in sorted(indice.items(), key=lambda x: (x[1]["data"] or "", x[0])):
         n = jc.nup(k)
         if not n or n in conhecidos or not ent["data"] or ent["data"] > ctx.hoje:
@@ -1126,7 +1120,6 @@ def pas(ctx, col, maximo_paginas=60):
         col.item("J", jc.id_pas(n), [], url, ent["data"], "", "PAS julgado novo (%s)" % (
             "notícia" if ent["noticia"] else "extrato do SEI"),
                  {"tipo": "pas", "processo": k, "url": url, "data": ent["data"],
-                  "plugin": jc.plugin_do_julgado("pas", ent["data"][:4]),
                   "origem": "noticia" if ent["noticia"] else "extrato", "sei_urls": [e["url"] for e in ext[-1:]]})
 
 
@@ -1220,8 +1213,7 @@ def crsfn(ctx, col, maximo_paginas=200):
         col.item("J", id_, [], pagina, "", "", "página do CRSFN não lida (%s): conferir à mão" % (
             rs.erro or "HTTP %s" % rs.status),
                  {"tipo": "acordao-crsfn", "leitura_falhou": True, "erro": rs.erro or "HTTP %s" % rs.status,
-                  "sessao": rotulo, "ano": a, "url": pagina, "data": "",
-                  "plugin": jc.plugin_do_julgado("acordao-crsfn", a)})
+                  "sessao": rotulo, "ano": a, "url": pagina, "data": ""})
     usados = set(ctx.crsfn.values())  # idem
     for url, it in itens.items():
         if url in conhecidos:
@@ -1239,7 +1231,7 @@ def crsfn(ctx, col, maximo_paginas=200):
         col.item("J", id_, [], url, "", "", "acórdão novo do CRSFN (órgão de origem: %s)" % orgao,
                  {"tipo": "acordao-crsfn", "orgao": orgao, "criterio": criterio, "perimetro": perimetro,
                   "processo": it["nup_titulo"] or "", "ano": it["ano"], "sessao": it["sessao"],
-                  "url": url, "data": "", "plugin": jc.plugin_do_julgado("acordao-crsfn", it["ano"])})
+                  "url": url, "data": ""})
 
 
 def _id_base_crsfn(item):
@@ -1310,7 +1302,7 @@ def detectar(ctx, fontes=FONTES, frequencia="todas", excluir=()):
             if chave in vistos:
                 velho = vistos[chave]
                 if it["classe"] == "J" and it["dados"].get("tipo") == "termo-compromisso":
-                    velho["dados"].update({k: it["dados"][k] for k in ("tipo", "plugin", "resultado") if k in it["dados"]})
+                    velho["dados"].update({k: it["dados"][k] for k in ("tipo", "resultado") if k in it["dados"]})
                     velho["dados"]["classe"] = ""
                 continue
             vistos[chave] = it
@@ -1353,7 +1345,7 @@ def registrar_head(raiz=RAIZ, rede=None, log=print):
     detector o acusa. A B3 (fontes/acervo-b3.json, documentos que entram) tinha `bytes: 0`, porque
     o servidor não manda Content-Length no HEAD: o tamanho vem de um GET (head_com_tamanho)."""
     rede = rede or Rede()
-    n = os.path.join(raiz, "plugins", "normas", "normas")
+    n = os.path.join(raiz, "plugins", "normas", "skills", "consultar-normas", "normas")
     publicados = {x["id"] for x in _ler_json(os.path.join(n, "normas.json"), [])}
     cam = os.path.join(raiz, "fontes", "acervo.json")
     acervo = _ler_json(cam)

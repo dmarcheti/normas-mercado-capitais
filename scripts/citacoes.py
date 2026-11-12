@@ -14,7 +14,7 @@ extrair_citacoes(texto, ids=None, documento=None) -> lista de citações, na ord
 - `trecho`: até ~200 caracteres em volta da citação, com os espaços normalizados;
 - `posicao`: deslocamento (caractere) do início da citação no texto original.
 
-`ids` é o conjunto de ids do acervo (None = lê `plugins/normas/normas/normas.json`).
+`ids` é o conjunto de ids do acervo (None = lê `plugins/normas/skills/consultar-normas/normas/normas.json`).
 `documento` é o id da norma que contém o texto, para "desta Lei", "desta Resolução"
 (None = essas referências não se resolvem).
 
@@ -38,7 +38,7 @@ import re
 import sys
 
 REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-NORMAS_JSON = os.path.join(REPO, "plugins", "normas", "normas", "normas.json")
+NORMAS_JSON = os.path.join(REPO, "plugins", "normas", "skills", "consultar-normas", "normas", "normas.json")
 TRECHO_MAX = 160  # caracteres do trecho, cortado em palavra
 MAX_INTERVALO = 30  # "arts. 153 a 159": expande intervalos até este tamanho
 

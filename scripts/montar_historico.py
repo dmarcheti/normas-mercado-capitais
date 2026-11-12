@@ -28,7 +28,7 @@ import sys
 from datetime import datetime
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
-ALTERADORAS = "plugins/normas/normas/cvm/alteradoras"
+ALTERADORAS = "plugins/normas/skills/consultar-normas/normas/cvm/alteradoras"
 AUTOR_NOME = "Historico normativo (replay)"
 AUTOR_EMAIL = "replay@normas-mercado-capitais.invalid"
 FUSO = "-0300"

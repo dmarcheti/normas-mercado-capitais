@@ -11,7 +11,7 @@ Recusa (saída 2) se o --repo não for bare, se o caminho real não contiver /da
 se tiver remote configurado, ou se tiver ref fora de refs/heads/main e refs/tags/*.
 
 O mapa {sha do blob: bytes novos} vem só dos achados `pii-*` cujos caminhos estão todos em
-plugins/julgados-*/ (normas, termo, cnpj, controle, msg-*, email-metadado e os "-direto" são
+plugins/julgados-*/ ou julgados/ (normas, termo, cnpj, controle, msg-*, email-metadado e os "-direto" são
 ignorados). Cada blob é partido em linhas como o varredor (`split("\\n")`); os blocos são aplicados do
 fim para o começo, com `linhas` (1-based) e `original`/`limpo`: o bloco tem de bater com o texto
 (`"\\n".join(linhas[i1:i2]) == original`), senão falha ruidosa. Bloco com o mesmo número de linhas no
@@ -36,7 +36,8 @@ import subprocess
 import sys
 
 ESPELHO = "/dados/fase-5/espelho/"
-JULGADOS = re.compile(r"^plugins/julgados-[^/]+/")
+# o histórico guarda os julgados em plugins/julgados-*/ (até a Fase 6) e em julgados/ (depois)
+JULGADOS = re.compile(r"^(?:plugins/julgados-[^/]+/|julgados/)")
 REFS_OK = "refs/heads/main"
 
 
@@ -97,7 +98,7 @@ def ler_achados(caminho):
 
 def selecionar(achados):
     """({blob: [achados]}, contagens por motivo). Só `pii-*` de blob com TODOS os caminhos em
-    plugins/julgados-*/. Blob misto (julgados e outro lugar) é erro: trocá-lo mexeria fora dos julgados."""
+    plugins/julgados-*/ ou julgados/. Blob misto (julgados e outro lugar) é erro: trocá-lo mexeria fora dos julgados."""
     por_blob, ignorados, mistos = {}, {}, set()
     for a in achados:
         regra = a.get("regra", "")

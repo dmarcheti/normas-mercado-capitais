@@ -36,17 +36,17 @@ class Base(unittest.TestCase):
     def setUp(self):
         self.raiz = tempfile.mkdtemp()
         mk = {"name": "x", "plugins": [
-            {"name": "normas", "source": "./plugins/normas", "version": "1.1.1"},
-            {"name": "julgados-pas", "source": "./plugins/julgados-pas", "version": "0.5.0"}]}
+            {"name": "normas", "source": "./plugins/normas", "version": "1.1.1"}]}
         _gravar(os.path.join(self.raiz, ".claude-plugin", "marketplace.json"), json.dumps(mk))
-        for nome, v in (("normas", "1.1.1"), ("julgados-pas", "0.5.0")):
-            _gravar(os.path.join(self.raiz, "plugins", nome, ".claude-plugin", "plugin.json"),
-                    json.dumps({"name": nome, "version": v}))
-        _gravar(self.p("plugins", "normas", "normas", "indice.md"), "# Índice\n" + indice.GERADO + "\n")
-        _gravar(self.p("plugins", "normas", "normas", "normas.json"), json.dumps([{"id": "a"}, {"id": "b"}]))
-        _gravar(self.p("plugins", "normas", "normas", "cvm", "a.md"), "texto a\n")
-        _gravar(self.p("plugins", "julgados-pas", "julgados", "indice.md"), "# Índice\n")
-        _gravar(self.p("plugins", "julgados-pas", "julgados", "pas", "2026", "p1.md"), "pas 1\n")
+        _gravar(os.path.join(self.raiz, "plugins", "normas", ".claude-plugin", "plugin.json"),
+                json.dumps({"name": "normas", "version": "1.1.1"}))
+        self.skill = self.p("plugins", "normas", "skills", "consultar-normas")
+        _gravar(os.path.join(self.skill, "normas", "indice.md"), "# Índice\n" + indice.GERADO + "\n")
+        _gravar(os.path.join(self.skill, "normas", "normas.json"), json.dumps([{"id": "a"}, {"id": "b"}]))
+        _gravar(os.path.join(self.skill, "normas", "cvm", "a.md"), "texto a\n")
+        # índices dos julgados (dentro da skill) e texto dos julgados (raiz do repositório)
+        _gravar(os.path.join(self.skill, "julgados", "indice.md"), "# Índice\n")
+        _gravar(self.p("julgados", "cvm", "pas", "2026", "p1.md"), "pas 1\n")
         _gravar(self.p("CHANGELOG.md"), "# Histórico de versões\n\n## v1.1.1 (2026-11-04)\n\n- x\n")
         os.makedirs(self.p("fontes"))
         pub.registrar(self.raiz, "2026-11-04")
@@ -67,17 +67,29 @@ class TestHash(Base):
         pasta = self.p("plugins", "normas")
         h = pub.hash_plugin(pasta)
         _gravar(os.path.join(pasta, ".claude-plugin", "plugin.json"), json.dumps({"version": "9.9.9"}))
-        _gravar(os.path.join(pasta, "normas", "indice.md"),
+        _gravar(os.path.join(self.skill, "normas", "indice.md"),
                 "# Índice\n" + indice.GERADO + "\nFontes conferidas até 2026-11-09.\n")
+        _gravar(os.path.join(self.skill, "julgados", "indice.md"),
+                "# Índice\nFontes conferidas até 2026-11-09.\n")
         self.assertEqual(pub.hash_plugin(pasta), h)
-        _gravar(os.path.join(pasta, "normas", "cvm", "a.md"), "texto a, alterado\n")
+        _gravar(os.path.join(self.skill, "normas", "cvm", "a.md"), "texto a, alterado\n")
         self.assertNotEqual(pub.hash_plugin(pasta), h)
 
     def test_hash_inclui_o_nome_do_arquivo(self):
-        pasta = self.p("plugins", "julgados-pas")
+        pasta = self.p("plugins", "normas")
         h = pub.hash_plugin(pasta)
-        os.rename(os.path.join(pasta, "julgados", "pas", "2026", "p1.md"),
-                  os.path.join(pasta, "julgados", "pas", "2026", "p2.md"))
+        os.rename(os.path.join(self.skill, "normas", "cvm", "a.md"),
+                  os.path.join(self.skill, "normas", "cvm", "b.md"))
+        self.assertNotEqual(pub.hash_plugin(pasta), h)
+
+    def test_hash_cobre_os_indices_dos_julgados_e_nao_o_texto_deles(self):
+        pasta = self.p("plugins", "normas")
+        h = pub.hash_plugin(pasta)
+        # o texto dos julgados fica fora do plugin (raiz do repositório): não entra no hash
+        _gravar(self.p("julgados", "cvm", "pas", "2026", "p2.md"), "pas 2\n")
+        self.assertEqual(pub.hash_plugin(pasta), h)
+        # o índice deles fica na skill: entra
+        _gravar(os.path.join(self.skill, "julgados", "indices", "pas-2026.md"), "| p2 |\n")
         self.assertNotEqual(pub.hash_plugin(pasta), h)
 
 
@@ -90,22 +102,31 @@ class TestPublicar(Base):
         with open(self.p("CHANGELOG.md"), encoding="utf-8") as f:
             self.assertNotIn("Dados até", f.read())
 
-    def test_so_o_plugin_mudado_sobe_nos_dois_manifestos(self):
-        _gravar(self.p("plugins", "julgados-pas", "julgados", "pas", "2026", "p2.md"), "pas 2\n")
-        self.assertEqual(self.publicar(), [("julgados-pas", "0.5.1")])
+    def test_plugin_mudado_sobe_nos_dois_manifestos(self):
+        _gravar(os.path.join(self.skill, "julgados", "indices", "pas-2026.md"), "| p2 |\n")
+        _gravar(self.p("julgados", "cvm", "pas", "2026", "p2.md"), "pas 2\n")
+        self.assertEqual(self.publicar(), [("normas", "1.1.2")])
         mk = {p["name"]: p["version"] for p in _ler(self.p(".claude-plugin", "marketplace.json"))["plugins"]}
-        self.assertEqual(mk, {"normas": "1.1.1", "julgados-pas": "0.5.1"})
-        self.assertEqual(_ler(self.p("plugins", "julgados-pas", ".claude-plugin", "plugin.json"))["version"], "0.5.1")
-        self.assertEqual(_ler(self.p("plugins", "normas", ".claude-plugin", "plugin.json"))["version"], "1.1.1")
+        self.assertEqual(mk, {"normas": "1.1.2"})
+        self.assertEqual(_ler(self.p("plugins", "normas", ".claude-plugin", "plugin.json"))["version"], "1.1.2")
         reg = _ler(self.p("fontes", "versoes-plugins.json"))["plugins"]
-        self.assertEqual(reg["julgados-pas"]["versao"], "0.5.1")
-        self.assertEqual(reg["julgados-pas"]["hash"], pub.hash_plugin(self.p("plugins", "julgados-pas")))
-        self.assertEqual(reg["normas"]["versao"], "1.1.1")
+        self.assertEqual(reg["normas"]["versao"], "1.1.2")
+        self.assertEqual(reg["normas"]["hash"], pub.hash_plugin(self.p("plugins", "normas")))
         self.assertEqual(pub.divergentes(self.raiz), [])
         with open(self.p("CHANGELOG.md"), encoding="utf-8") as f:
             txt = f.read()
-        self.assertIn("- Dados até 2026-11-09: 2 atos, 2 julgados.", txt)
+        self.assertIn("- Dados até 2026-11-09: 2 atos, 2 julgados.", txt)  # 2 em julgados/ (raiz)
         self.assertLess(txt.index("Dados até"), txt.index("## v1.1.1"))
+
+    def test_texto_de_julgado_novo_sem_indice_novo_nao_sobe_versao(self):
+        _gravar(self.p("julgados", "cvm", "pas", "2026", "p2.md"), "pas 2\n")
+        self.assertEqual(self.publicar(), [])
+
+    def test_sem_pasta_julgados_o_changelog_falha(self):
+        _gravar(os.path.join(self.skill, "normas", "cvm", "a.md"), "texto a, alterado\n")
+        shutil.rmtree(self.p("julgados"))
+        with self.assertRaises(FileNotFoundError):
+            self.publicar()
 
     def test_manifestos_divergentes_param(self):
         _gravar(self.p("plugins", "normas", ".claude-plugin", "plugin.json"), json.dumps({"version": "1.1.2"}))
@@ -171,7 +192,7 @@ class TestVigia(Base):
         self.assertNotIn("DIAS_SEM_OK", yml)
 
     def test_conteudo_sem_versao_por_mais_de_16_dias(self):
-        _gravar(self.p("plugins", "normas", "normas", "cvm", "b.md"), "novo\n")
+        _gravar(os.path.join(self.skill, "normas", "cvm", "b.md"), "novo\n")
         hb = "2026-11-20T07:00:00-03:00"
         t = [x[0] for x in vigia.problemas(self.raiz, "2026-11-20", hb, git=self.git_falso(primeiro="2026-11-04"))]
         self.assertEqual(t, [])  # 16 dias: o publicar é quinzenal, mais 2 de folga

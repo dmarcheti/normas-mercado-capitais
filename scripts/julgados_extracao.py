@@ -1,6 +1,6 @@
 """Extração por LLM de ementa, tema, resultado e relator dos julgados convertidos (Task 4 da 2d).
 
-Lê os julgados de plugins/julgados-*/julgados/, recorta cada um (~1.200 tokens: título; o
+Lê os julgados de julgados/ (raiz do repositório), recorta cada um (~1.200 tokens: título; o
 "## Extrato" ou as ~600 primeiras e ~400 últimas palavras; o "SUMÁRIO" do parecer do comitê),
 monta lotes de 25 em dados/fase-2d/extracao/<lote>/lote.json e roda `claude -p` com
 scripts/prompts/julgados-extracao.md numa pasta fora do cofre que só tem o lote. Valida o
@@ -88,8 +88,7 @@ def gravar(caminho, valores, corpo):
 def julgados(raiz=jc.RAIZ):
     """[{id, tipo, data, url: caminho}] dos julgados gravados, para jc.selecionar."""
     out = []
-    for c in sorted(glob.glob(os.path.join(raiz, "plugins", "julgados-*", "julgados", "**",
-                                           "*.md"), recursive=True)):
+    for c in sorted(glob.glob(os.path.join(raiz, "julgados", "**", "*.md"), recursive=True)):
         if os.sep + "indices" + os.sep in c:
             continue
         try:
@@ -1036,7 +1035,7 @@ def processar_lote(pasta_lote, refazer=False):
 # suspenso. A reextração refaz, com o recorte pela deliberação (recorte_3b) e o Sonnet:
 #   - a ementa de todo julgado com ementa_fonte: extracao;
 #   - o resultado de toda decisão do Colegiado e do TC sem resultado da listagem oficial.
-# Roda em lotes retomáveis em dados/fase-3b/extracao/ e não toca em plugins/; a aplicação ao
+# Roda em lotes retomáveis em dados/fase-3b/extracao/ e não toca em julgados/; a aplicação ao
 # frontmatter é um passo à parte (--aplicar-reextracao).
 
 SAIDA_3B = os.path.join(jc.RAIZ, "dados", "fase-3b", "extracao")

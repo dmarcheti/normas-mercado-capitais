@@ -7,48 +7,28 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 import julgados_comum as jc  # noqa: E402
 
 
-class PluginTest(unittest.TestCase):
-    def test_pas_e_tc_crsfn(self):
-        self.assertEqual(jc.plugin_do_julgado("pas", 1999), "julgados-pas")
-        for t in ("termo-compromisso", "acordao-crsfn"):
-            self.assertEqual(jc.plugin_do_julgado(t, 2025), "julgados-tc-crsfn")
-        self.assertEqual(len(jc.PLUGINS_JULGADOS), 5)
+class EstruturaTest(unittest.TestCase):
+    """Sem plugins de julgados: o texto fica em `julgados/` na raiz e o marketplace só tem `normas`."""
 
-    def test_cinco_plugins_com_a_mesma_skill_e_no_marketplace(self):
+    def test_marketplace_so_com_o_plugin_normas(self):
         import json
         repo = os.path.join(os.path.dirname(__file__), "..")
-        skills = []
-        for p in jc.PLUGINS_JULGADOS:
-            with open(os.path.join(repo, "plugins", p, "skills", "consultar-julgados",
-                                   "SKILL.md"), encoding="utf-8") as f:
-                skills.append(f.read())
-            with open(os.path.join(repo, "plugins", p, ".claude-plugin", "plugin.json"),
-                      encoding="utf-8") as f:
-                self.assertEqual(json.load(f)["name"], p)
-            self.assertIn("`%s`" % p, skills[0].replace("`-2009-2015`", "`julgados-colegiado-"
-                                                                     "2009-2015`").replace(
-                "`-2016-2026`", "`julgados-colegiado-2016-2026`"))
-        self.assertEqual(len(set(skills)), 1, "SKILL.md difere entre os plugins de julgados")
         with open(os.path.join(repo, ".claude-plugin", "marketplace.json"), encoding="utf-8") as f:
             m = {x["name"]: x["source"] for x in json.load(f)["plugins"]}
-        for p in jc.PLUGINS_JULGADOS:
-            self.assertEqual(m.get(p), "./plugins/" + p)
-        self.assertEqual(sorted(x for x in m if x.startswith("julgados-")),
-                         sorted(jc.PLUGINS_JULGADOS))
+        self.assertEqual(m, {"normas": "./plugins/normas"})
+        self.assertFalse([d for d in os.listdir(os.path.join(repo, "plugins")) if d.startswith("julgados-")])
 
-    def test_colegiado_por_periodo(self):
-        p = jc.plugin_do_julgado
-        self.assertEqual(p("decisao-colegiado", 2002), "julgados-colegiado-2002-2008")
-        self.assertEqual(p("decisao-colegiado", 2008), "julgados-colegiado-2002-2008")
-        self.assertEqual(p("decisao-antiga", 1978), "julgados-colegiado-2002-2008")
-        self.assertEqual(p("decisao-colegiado", 2009), "julgados-colegiado-2009-2015")
-        self.assertEqual(p("decisao-colegiado", "2015"), "julgados-colegiado-2009-2015")
-        self.assertEqual(p("decisao-colegiado", 2016), "julgados-colegiado-2016-2026")
-        self.assertEqual(p("decisao-colegiado", 2026), "julgados-colegiado-2016-2026")
+    def test_julgados_na_raiz_do_repositorio(self):
+        repo = os.path.join(os.path.dirname(__file__), "..")
+        self.assertEqual(jc.PASTA_JULGADOS, "julgados")
+        self.assertEqual(jc.caminho_julgado("pas", "cvm-pas-rj2015-1234", 2017, repo),
+                         os.path.join(repo, "julgados", "cvm", "pas", "2017", "rj2015-1234.md"))
+        self.assertTrue(os.path.isdir(os.path.join(repo, "julgados", "cvm")))
+        self.assertTrue(os.path.isdir(os.path.join(repo, "julgados", "crsfn")))
 
     def test_tipo_invalido(self):
         with self.assertRaises(ValueError):
-            jc.plugin_do_julgado("parecer", 2020)
+            jc.caminho_relativo("parecer", "cvm-pas-x", 2020)
 
 
 class ProcessoTest(unittest.TestCase):
@@ -150,16 +130,16 @@ class IdsTest(unittest.TestCase):
     def test_caminhos(self):
         self.assertEqual(
             jc.caminho_relativo("pas", "cvm-pas-rj2015-1234", 2017),
-            "julgados-pas/julgados/cvm/pas/2017/rj2015-1234.md")
+            "cvm/pas/2017/rj2015-1234.md")
         self.assertEqual(
             jc.caminho_relativo("decisao-colegiado", "cvm-col-20251202-d3228", 2025),
-            "julgados-colegiado-2016-2026/julgados/cvm/colegiado/2025/col-20251202-d3228.md")
+            "cvm/colegiado/2025/col-20251202-d3228.md")
         self.assertEqual(
             jc.caminho_relativo("termo-compromisso", "cvm-tc-rj2005-0001-20050310", 2005),
-            "julgados-tc-crsfn/julgados/cvm/colegiado/2005/tc-rj2005-0001-20050310.md")
+            "cvm/colegiado/2005/tc-rj2005-0001-20050310.md")
         self.assertEqual(
             jc.caminho_relativo("decisao-antiga", jc.id_decisao_antiga(1990), 1990),
-            "julgados-colegiado-2002-2008/julgados/cvm/decisoes-antigas/1990.md")
+            "cvm/decisoes-antigas/1990.md")
         self.assertEqual(jc.id_decisao_antiga(1990, 7), "cvm-dec-1990-007")
         with self.assertRaises(ValueError):
             jc.caminho_relativo("pas", "cvm-col-20251202-d3228", 2025)

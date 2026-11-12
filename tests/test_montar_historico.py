@@ -10,8 +10,8 @@ sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 import montar_historico as mh  # noqa: E402
 
-RES = "plugins/normas/normas/cvm/resolucoes/%s"
-ALT = "plugins/normas/normas/cvm/alteradoras/%s"
+RES = "plugins/normas/skills/consultar-normas/normas/cvm/resolucoes/%s"
+ALT = "plugins/normas/skills/consultar-normas/normas/cvm/alteradoras/%s"
 
 
 def entrada(ato, tipo, data, norma, origem, mensagem=None):

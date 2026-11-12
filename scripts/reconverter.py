@@ -139,8 +139,7 @@ def localizar(ids, raiz=jc.RAIZ):
                 stems.setdefault(i[len(pref):] + ".md", []).append(i)
                 break
     out = {}
-    for c in glob.glob(os.path.join(raiz, "plugins", "julgados-*", "julgados", "**", "*.md"),
-                       recursive=True):
+    for c in glob.glob(os.path.join(raiz, "julgados", "**", "*.md"), recursive=True):
         cands = stems.get(os.path.basename(c))
         if not cands:
             continue
