@@ -229,7 +229,7 @@ Entre as rodadas, uma correção só:
 - mapas de produto apontando para os julgados.
 
 Ressalvas da r2:
-- o modelo ainda pede o link em 22 das 30 respostas de julgados, e só cerca de 4 precisavam do texto integral; nas demais, o pedido vem depois de uma resposta já completa pela ficha;
+- na r2, o modelo ainda mencionava o link em 25 das 30 respostas de julgados, quase sempre como oferta depois de uma resposta já completa. A skill passou a proibir a oferta como complemento. Na r3 (só julgados, mesmo protocolo), as menções caíram para 6, das quais 4 necessárias, e o placar ficou em 23/30 tudo certo e 27/30 caso certo; a diferença para a r2 está em perguntas sem relação com a mudança (busca por tema e redação de ressalvas), dentro da variação entre rodadas;
 - o acórdão `crsfn-14361` junta dois julgamentos (Ac. 48/2018 e 141/2018) no mesmo arquivo, defeito da conversão anterior a esta fase;
 - seguem falhando por busca P10 e P24 (decisão de 1997);
 - dois gabaritos estão defasados (julgados P17, normas P29) e foram contados como na r1.
