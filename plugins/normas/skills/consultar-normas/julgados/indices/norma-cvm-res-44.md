@@ -9,7 +9,7 @@ Norma: [cvm/resolucoes/0044.md](../../normas/cvm/resolucoes/0044.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 533 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 535 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
@@ -21,20 +21,20 @@ Este subíndice tem 533 linhas e uma leitura única é cortada em silêncio pert
 | art. 8º | 231 |
 | art. 11 | 248 |
 | art. 12 | 269 |
-| art. 13 | 291 |
-| art. 14 | 358 |
-| art. 15 | 404 |
-| art. 16 | 410 |
-| art. 18 | 421 |
-| art. 19 | 427 |
-| art. 27 | 448 |
-| art. 28 | 454 |
-| art. 44 | 461 |
-| art. 45 | 467 |
-| art. 49 | 473 |
-| art. 66 | 479 |
-| art. 83 | 485 |
-| Citada sem dispositivo identificado | 498 |
+| art. 13 | 293 |
+| art. 14 | 360 |
+| art. 15 | 406 |
+| art. 16 | 412 |
+| art. 18 | 423 |
+| art. 19 | 429 |
+| art. 27 | 450 |
+| art. 28 | 456 |
+| art. 44 | 463 |
+| art. 45 | 469 |
+| art. 49 | 475 |
+| art. 66 | 481 |
+| art. 83 | 487 |
+| Citada sem dispositivo identificado | 500 |
 
 ## art. 2º
 
@@ -280,11 +280,13 @@ Este subíndice tem 533 linhas e uma leitura única é cortada em silêncio pert
 | art. 12 | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
 | art. 12 | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-13.md |
 | art. 12 | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-09.md |
+| art. 12 | pas | 19957.001432/2026-12 | 2026-10-27 | condenacao | cvm-pas-19957-001432-2026-12 | fichas/pas/2026-06.md |
 | art. 12, inciso II | termo-compromisso | 19957.003174/2024-39 | 2025-04-29 | — | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
 | art. 12, inciso II | termo-compromisso | 19957.003174/2024-39 | 2025-05-06 | rejeitado | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
 | art. 12, inciso II | termo-compromisso | 19957.018146/2024-16 | 2025-08-12 | rejeitado | cvm-col-20250812-d3326 | fichas/tc/2025-04.md |
 | art. 12, § 2º | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
 | art. 12, § 3º | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
+| art. 12, § 4º | pas | 19957.001432/2026-12 | 2026-10-27 | condenacao | cvm-pas-19957-001432-2026-12 | fichas/pas/2026-06.md |
 | art. 12, § 5º | termo-compromisso | 19957.003174/2024-39 | 2025-04-29 | — | cvm-col-20250429-d3255 | fichas/tc/2025-02.md |
 | art. 12, § 5º | termo-compromisso | 19957.003174/2024-39 | 2025-05-06 | rejeitado | cvm-col-20250506-d3255 | fichas/tc/2025-02.md |
 

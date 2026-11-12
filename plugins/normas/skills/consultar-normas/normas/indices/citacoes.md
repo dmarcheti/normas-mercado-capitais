@@ -25,6 +25,7 @@ Caminhos relativos a `normas/` (a pasta do `indice.md`).
 | Resolução CVM nº 31/2021 | 2 | 3 | [cvm-res-31](citacoes/cvm-res-31.md) |
 | Resolução CVM nº 33/2021 | 4 | 4 | [cvm-res-33](citacoes/cvm-res-33.md) |
 | Resolução CVM nº 35/2021 | 5 | 9 | [cvm-res-35](citacoes/cvm-res-35.md) |
+| Resolução CVM nº 43/2021 | 1 | 2 | [cvm-res-43](citacoes/cvm-res-43.md) |
 | Resolução CVM nº 44/2021 | 7 | 219 | [cvm-res-44](citacoes/cvm-res-44/index.md) |
 | Resolução CVM nº 45/2021 | 6 | 29 | [cvm-res-45](citacoes/cvm-res-45.md) |
 | Resolução CVM nº 46/2021 | 6 | 11 | [cvm-res-46](citacoes/cvm-res-46.md) |
@@ -51,7 +52,7 @@ Caminhos relativos a `normas/` (a pasta do `indice.md`).
 | Resolução CVM nº 199/2024 | 3 | 3 | [cvm-res-199](citacoes/cvm-res-199.md) |
 | Resolução CVM nº 215/2024 | 4 | 17 | [cvm-res-215](citacoes/cvm-res-215.md) |
 | Resolução CVM nº 232/2025 | 5 | 16 | [cvm-res-232](citacoes/cvm-res-232.md) |
-| Resolução CVM nº 234/2025 | 1 | 1 | [cvm-res-234](citacoes/cvm-res-234.md) |
+| Resolução CVM nº 234/2025 | 2 | 3 | [cvm-res-234](citacoes/cvm-res-234.md) |
 | Instrução CVM nº 516/2011 | 2 | 2 | [cvm-instr-516](citacoes/cvm-instr-516.md) |
 | Instrução CVM nº 579/2016 | 1 | 2 | [cvm-instr-579](citacoes/cvm-instr-579.md) |
 | Lei nº 4.595/1964 | 6 | 6 | [lei-4595](citacoes/lei-4595.md) |

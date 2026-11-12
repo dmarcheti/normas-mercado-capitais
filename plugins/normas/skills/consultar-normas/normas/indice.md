@@ -21,7 +21,7 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 | Resoluções CVM | 155 | [indices/resolucoes.md](indices/resolucoes.md) |
 | Instruções CVM | 5 | [indices/instrucoes.md](indices/instrucoes.md) |
 | Pareceres de Orientação CVM | 41 | [indices/pareceres-orientacao.md](indices/pareceres-orientacao.md) |
-| Ofícios-Circulares CVM | 179 | [indices/oficios-circulares.md](indices/oficios-circulares.md) (mais 421 só verbete, sem texto) |
+| Ofícios-Circulares CVM | 180 | [indices/oficios-circulares.md](indices/oficios-circulares.md) (mais 421 só verbete, sem texto) |
 | Leis, leis complementares e decretos | 29 | [indices/leis.md](indices/leis.md) |
 | Normas do CMN | 57 | [indices/cmn.md](indices/cmn.md) (mais 33 ato(s) só alterador(es), sem arquivo) |
 | Normas do BCB | 71 | [indices/bcb.md](indices/bcb.md) (mais 44 ato(s) só alterador(es), sem arquivo) |
@@ -31,5 +31,14 @@ O detalhe de cada tipo (ementa, situação, data-base e arquivo) está no subín
 
 ## Citações e julgados
 
-- [indices/citacoes.md](indices/citacoes.md): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de autorregulação do acervo que o citam (70 norma(s) citada(s); extração por script).
+- [indices/citacoes.md](indices/citacoes.md): por norma e dispositivo, os pareceres, ofícios-circulares e documentos de autorregulação do acervo que o citam (71 norma(s) citada(s); extração por script).
 - Os índices dos julgados da CVM e do CRSFN estão em [../julgados/indice.md](../julgados/indice.md) e o texto deles, em `julgados/` na raiz do repositório. Julgado não é norma: diz o que se decidiu num caso, com a redação da época.
+
+## Atos publicados ainda não aplicados
+
+O texto destas normas ainda não traz a alteração do ato: aguarda o texto consolidado do órgão. Confira o ato antes de citar o dispositivo alterado.
+
+| Norma | Ato | DOU | Detectado em |
+|---|---|---|---|
+| cvm-res-19 | [Resolução CVM 250](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol250.html) | 2026-11-09 | 2026-11-12 |
+| cvm-res-9 | [Resolução CVM 251](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol251.html) | 2026-11-09 | 2026-11-12 |

@@ -9,22 +9,22 @@ Norma: [leis/lei-06385.md](../../normas/leis/lei-06385.md) (texto vigente hoje; 
 
 ## Sumário
 
-Este subíndice tem 15345 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 15361 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (29); art. 2º (87); art. 3º (486); art. 4º (495); art. 5º (1093); art. 6º (1105); art. 8º (1117)
-art. 9º (1304); art. 9º-A (2490); art. 10 (2496); art. 11 (2512); art. 12 (12311); art. 13 (12441)
-art. 15 (12485); art. 16 (12713); art. 17 (13042); art. 18 (13064); art. 19 (13113); art. 20 (13686)
-art. 21 (13713); art. 21-A (13888); art. 22 (13894); art. 23 (13961); art. 24 (14236); art. 25 (14250)
-art. 26 (14256); art. 27 (14293); art. 27-A (14309); art. 27-C (14316); art. 27-D (14401); art. 27-E (14477)
-art. 28 (14627); art. 31 (14646); art. 32 (14669); art. 33 (14681); art. 34 (14707); art. 40 (14713)
-art. 43 (14719); art. 44 (14725); art. 58 (14731); art. 60 (14737); art. 68 (14743); art. 90 (14749)
-art. 99 (14757); art. 113 (14763); art. 115 (14770); art. 116 (14776); art. 132 (14782); art. 133 (14788)
-art. 140 (14795); art. 142 (14801); art. 151 (14807); art. 152 (14813); art. 153 (14819); art. 155 (14825)
-art. 157 (14833); art. 161 (14840); art. 163 (14846); art. 170 (14852); art. 171 (14858); art. 173 (14864)
-art. 174 (14871); art. 176 (14880); art. 177 (14888); art. 179 (14894); art. 191 (14900); art. 192 (14910)
-art. 193 (14918); art. 214 (14924); art. 231 (14930); art. 232 (14941); art. 233 (14949); art. 235 (14956)
-art. 237 (14964); art. 265 (14970); art. 266 (14976); art. 275 (14982); art. 281 (14988)
-Citada sem dispositivo identificado (14994)
+art. 9º (1304); art. 9º-A (2490); art. 10 (2496); art. 11 (2512); art. 12 (12320); art. 13 (12453)
+art. 15 (12497); art. 16 (12725); art. 17 (13055); art. 18 (13077); art. 19 (13126); art. 20 (13700)
+art. 21 (13727); art. 21-A (13902); art. 22 (13908); art. 23 (13975); art. 24 (14252); art. 25 (14266)
+art. 26 (14272); art. 27 (14309); art. 27-A (14325); art. 27-C (14332); art. 27-D (14417); art. 27-E (14493)
+art. 28 (14643); art. 31 (14662); art. 32 (14685); art. 33 (14697); art. 34 (14723); art. 40 (14729)
+art. 43 (14735); art. 44 (14741); art. 58 (14747); art. 60 (14753); art. 68 (14759); art. 90 (14765)
+art. 99 (14773); art. 113 (14779); art. 115 (14786); art. 116 (14792); art. 132 (14798); art. 133 (14804)
+art. 140 (14811); art. 142 (14817); art. 151 (14823); art. 152 (14829); art. 153 (14835); art. 155 (14841)
+art. 157 (14849); art. 161 (14856); art. 163 (14862); art. 170 (14868); art. 171 (14874); art. 173 (14880)
+art. 174 (14887); art. 176 (14896); art. 177 (14904); art. 179 (14910); art. 191 (14916); art. 192 (14926)
+art. 193 (14934); art. 214 (14940); art. 231 (14946); art. 232 (14957); art. 233 (14965); art. 235 (14972)
+art. 237 (14980); art. 265 (14986); art. 266 (14992); art. 275 (14998); art. 281 (15004)
+Citada sem dispositivo identificado (15010)
 
 ## art. 1º
 
@@ -4956,7 +4956,9 @@ Citada sem dispositivo identificado (14994)
 | art. 11 | pas | 19957.021470/2024-11 | 2025-12-16 | absolvicao | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-11.md |
 | art. 11 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-02.md |
 | art. 11 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 11 | pas | 19957.001432/2026-12 | 2026-10-27 | condenacao | cvm-pas-19957-001432-2026-12 | fichas/pas/2026-06.md |
 | art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |
+| art. 11 | pas | 19957.002327/2025-10 | 2026-10-27 | parcial | cvm-pas-19957-002327-2025-10 | fichas/pas/2026-07.md |
 | art. 11 | pas | 19957.002610/2025-33 | 2026-08-25 | condenacao | cvm-pas-19957-002610-2025-33 | fichas/pas/2026-03.md |
 | art. 11 | pas | 19957.003612/2020-35 | 2026-07-28 | absolvicao | cvm-pas-19957-003612-2020-35 | fichas/pas/2026-02.md |
 | art. 11 | pas | 19957.004207/2021-15 | 2026-08-26 | — | cvm-pas-19957-004207-2021-15 | fichas/pas/2026-03.md |
@@ -4966,11 +4968,16 @@ Citada sem dispositivo identificado (14994)
 | art. 11 | pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
 | art. 11 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | art. 11 | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
+| art. 11 | pas | 19957.011024/2019-31 | 2026-10-27 | parcial | cvm-pas-19957-011024-2019-31 | fichas/pas/2026-07.md |
 | art. 11 | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
 | art. 11 | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
+| art. 11 | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | art. 11 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
 | art. 11 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-02.md |
+| art. 11 | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 11 | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
+| art. 11 | pas | 19957.015037/2023-66 | 2026-10-27 | absolvicao | cvm-pas-19957-015037-2023-66 | fichas/pas/2026-07.md |
+| art. 11 | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 11, inciso I | acordao-crsfn | 09/90 | 1996-04-16 | condenacao | crsfn-1323 | fichas/crsfn/1996-01.md |
 | art. 11, inciso I | acordao-crsfn | 13/92; | 1996-03-13 | condenacao | crsfn-1550 | fichas/crsfn/1996-01.md |
 | art. 11, inciso I | acordao-crsfn | 18/93 | 1996-03-13 | parcial | crsfn-1551 | fichas/crsfn/1996-01.md |
@@ -6304,6 +6311,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, inciso II | pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
 | art. 11, inciso II | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
 | art. 11, inciso II | pas | 19957.011123/2025-61 | 2026-06-02 | condenacao | cvm-pas-19957-011123-2025-61 | fichas/pas/2026-01.md |
+| art. 11, inciso II | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 11, inciso III | acordao-crsfn | 09/90 | 1996-04-16 | condenacao | crsfn-1323 | fichas/crsfn/1996-01.md |
 | art. 11, inciso III | acordao-crsfn | 18/89 | 1998-11-24 | parcial | crsfn-2522 | fichas/crsfn/1998-04.md |
 | art. 11, inciso III | acordao-crsfn | 001/95 | 1998-11-24 | condenacao | crsfn-2559 | fichas/crsfn/1998-04.md |
@@ -6548,6 +6556,7 @@ Citada sem dispositivo identificado (14994)
 | art. 11, inciso VI | pas | 19957.010926/2022-56 | 2023-02-28 | condenacao | cvm-pas-19957-010926-2022-56 | fichas/pas/2023-01.md |
 | art. 11, inciso VI | pas | 19957.007822/2020-01 | 2024-07-04 | condenacao | cvm-pas-19957-007822-2020-01 | fichas/pas/2024-09.md |
 | art. 11, inciso VI | pas | 19957.009359/2021-12 | 2024-06-20 | condenacao | cvm-pas-19957-009359-2021-12 | fichas/pas/2024-08.md |
+| art. 11, inciso VI | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 11, inciso VII | acordao-crsfn | 02-7539 | 2008-04-28 | parcial | crsfn-5590 | fichas/crsfn/2008-02.md |
 | art. 11, inciso VII | acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-07.md |
 | art. 11, inciso VII | acordao-crsfn | 02/02 | 2011-06-15 | parcial | crsfn-11612 | fichas/crsfn/2011-02.md |
@@ -12435,8 +12444,11 @@ Citada sem dispositivo identificado (14994)
 | art. 12 | pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
 | art. 12 | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-04.md |
 | art. 12 | pas | 19957.010788/2019-18 | 2026-07-28 | absolvicao | cvm-pas-19957-010788-2019-18 | fichas/pas/2026-02.md |
+| art. 12 | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | art. 12 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-03.md |
+| art. 12 | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 12 | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
+| art. 12 | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 
 ## art. 13
 
@@ -12877,6 +12889,7 @@ Citada sem dispositivo identificado (14994)
 | art. 16 | pas | 19957.005524/2022-30 | 2024-07-16 | condenacao | cvm-pas-19957-005524-2022-30 | fichas/pas/2024-10.md |
 | art. 16 | pas | 19957.007254/2021-11 | 2024-03-05 | parcial | cvm-pas-19957-007254-2021-11 | fichas/pas/2024-02.md |
 | art. 16 | pas | 19957.005726/2025-24 | 2025-12-18 | absolvicao | cvm-pas-19957-005726-2025-24 | fichas/pas/2025-12.md |
+| art. 16 | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 16, inciso I | acordao-crsfn | SP2003/0446 | 2009-02-16 | condenacao | crsfn-6188 | fichas/crsfn/2009-01.md |
 | art. 16, inciso I | decisao-colegiado | 19957.000238/2019-82 | 2020-12-22 | conhecimento | cvm-col-20201222-d1665 | fichas/colegiado/2020-21.md |
 | art. 16, inciso I | termo-compromisso | 19957.001049/2020-61 | 2021-05-18 | aceito | cvm-col-20210518-d2168 | fichas/tc/2021-03.md |
@@ -13349,6 +13362,7 @@ Citada sem dispositivo identificado (14994)
 | art. 19 | pas | 19957.009486/2023-75 | 2025-08-26 | parcial | cvm-pas-19957-009486-2023-75 | fichas/pas/2025-07.md |
 | art. 19 | pas | 19957.012104/2022-18 | 2025-08-12 | condenacao | cvm-pas-19957-012104-2022-18 | fichas/pas/2025-07.md |
 | art. 19 | pas | 19957.005810/2024-67 | 2026-10-02 | — | cvm-pas-19957-005810-2024-67 | fichas/pas/2026-05.md |
+| art. 19 | pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | art. 19 | pas | 19957.013932/2025-16 | 2026-08-25 | condenacao | cvm-pas-19957-013932-2025-16 | fichas/pas/2026-03.md |
 | art. 19, inciso I | decisao-colegiado | 19957.011454/2017-91 | 2017-12-19 | outro | cvm-col-20171219-d0882 | fichas/colegiado/2017-20.md |
 | art. 19, inciso IX | pas | RJ2016/8381; 19957.008445/2016-32 | 2020-02-18 | condenacao | cvm-pas-19957-008445-2016-32 | fichas/pas/2020-01.md |
@@ -14204,6 +14218,8 @@ Citada sem dispositivo identificado (14994)
 | art. 23 | pas | 19957.004453/2025-09 | 2026-10-21 | — | cvm-pas-19957-004453-2025-09 | fichas/pas/2026-05.md |
 | art. 23 | pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
 | art. 23 | pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
+| art. 23 | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
+| art. 23 | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 23, inciso I | decisao-colegiado | 04/2016 | 2020-06-09 | outro | cvm-col-20200609-d1115 | fichas/colegiado/2020-09.md |
 | art. 23, § 1º | acordao-crsfn | RJ2016/7995 | 2021-09-15 | absolvicao | crsfn-10372-100112-2020-47 | fichas/crsfn/2021-04.md |
 | art. 23, § 1º | acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-05.md |

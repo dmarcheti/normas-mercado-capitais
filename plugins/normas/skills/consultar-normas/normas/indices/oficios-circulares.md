@@ -602,6 +602,7 @@ Por pasta da CVM (superintendência), do mais recente ao mais antigo. A CVM não
 
 | Ofício | Data | Assunto | Situação | Texto |
 |---|---|---|---|---|
+| Ofício-Circular nº 1/2026/CVM/SOI | 2026-11-10 | Novo Sistema de Atendimento ao Cidadão (SAC-CVM) – orientações sobre o recebimento e o tratamento de demandas encaminhadas às Ouvidorias. | não informada pela CVM | cvm/oficios-circulares/soi/oc-soi-012026.md |
 | Ofício-Circular nº 1/2025/CVM/SOI | 2025-06-02 | Verificação dos Relatórios de Ouvidoria previstos na Resolução CVM 43/2022 | não informada pela CVM | cvm/oficios-circulares/soi/oc-soi-goi-0125.md |
 | Ofício-Circular n. 1/2016/CVM/SOI/GOI-1 | 2016-10-20 | Suspensão temporária da obrigação de envio periódico de arquivos. | não informada pela CVM | só verbete; texto não incluído ([link](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/soi/anexos/oc-soi-goi10116.pdf)) |
 | Ofício-Circular CVM/SOI 01/13 | 2013-06-14 | Orientações gerais sobre a entrada em vigor da Instrução CVM nº 529. | não informada pela CVM | só verbete; texto não incluído ([link](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/soi/anexos/oc-soi-0113.pdf)) |

@@ -9,7 +9,7 @@ Norma: [cvm/resolucoes/0080.md](../../normas/cvm/resolucoes/0080.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 723 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 724 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 art. 1º (26); art. 2º (32); art. 3º (38); art. 5º (48); art. 6º (60); art. 7º (72); art. 7º-B (78)
 art. 11 (84); art. 13 (90); art. 14 (96); art. 15 (107); art. 16 (132); art. 17 (141); art. 18 (151)
@@ -683,6 +683,7 @@ Anexo I, art. 1º (667); Anexo I, art. 2º (673); Citada sem dispositivo identif
 
 | Tipo | Processo | Data | Resultado | Id | Ficha |
 |---|---|---|---|---|---|
+| pas | 19957.002327/2025-10 | 2026-10-27 | parcial | cvm-pas-19957-002327-2025-10 | fichas/pas/2026-07.md |
 | pas | 19957.003588/2023-87 | 2026-10-22 | — | cvm-pas-19957-003588-2023-87 | fichas/pas/2026-06.md |
 | decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
 | decisao-colegiado | 19957.002560/2026-75 | 2026-05-06 | parcial | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |

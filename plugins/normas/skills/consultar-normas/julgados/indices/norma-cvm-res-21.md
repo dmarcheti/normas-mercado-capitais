@@ -9,31 +9,31 @@ Norma: [cvm/resolucoes/0021.md](../../normas/cvm/resolucoes/0021.md) (texto vige
 
 ## Sumário
 
-Este subíndice tem 354 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 356 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | art. 1º | 38 |
 | art. 2º | 62 |
-| art. 3º | 108 |
-| art. 4º | 154 |
-| art. 6º | 184 |
-| art. 7º | 192 |
-| art. 9º | 199 |
-| art. 10 | 206 |
-| art. 11 | 213 |
-| art. 16 | 229 |
-| art. 17 | 235 |
-| art. 18 | 243 |
-| art. 20 | 252 |
-| art. 22 | 260 |
-| art. 23 | 273 |
-| art. 26 | 279 |
-| art. 28 | 286 |
-| art. 33 | 292 |
-| art. 35 | 298 |
-| Anexo A, art. 3º | 327 |
-| Citada sem dispositivo identificado | 334 |
+| art. 3º | 110 |
+| art. 4º | 156 |
+| art. 6º | 186 |
+| art. 7º | 194 |
+| art. 9º | 201 |
+| art. 10 | 208 |
+| art. 11 | 215 |
+| art. 16 | 231 |
+| art. 17 | 237 |
+| art. 18 | 245 |
+| art. 20 | 254 |
+| art. 22 | 262 |
+| art. 23 | 275 |
+| art. 26 | 281 |
+| art. 28 | 288 |
+| art. 33 | 294 |
+| art. 35 | 300 |
+| Anexo A, art. 3º | 329 |
+| Citada sem dispositivo identificado | 336 |
 
 ## art. 1º
 
@@ -102,6 +102,8 @@ Este subíndice tem 354 linhas e uma leitura única é cortada em silêncio pert
 | art. 2º | pas | 19957.004453/2025-09 | 2026-10-21 | — | cvm-pas-19957-004453-2025-09 | fichas/pas/2026-05.md |
 | art. 2º | pas | 19957.005514/2025-47 | 2026-06-02 | condenacao | cvm-pas-19957-005514-2025-47 | fichas/pas/2026-01.md |
 | art. 2º | pas | 19957.007774/2025-57 | 2026-05-26 | condenacao | cvm-pas-19957-007774-2025-57 | fichas/pas/2026-01.md |
+| art. 2º | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
+| art. 2º | pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | art. 2º, inciso III | acordao-crsfn | 19957.012126/2022-70 | 2024-02-07 | condenacao | crsfn-10372-100127-2023-58 | fichas/crsfn/2024-01.md |
 | art. 2º, inciso III | pas | 19957.012126/2022-70 | 2023-06-06 | condenacao | cvm-pas-19957-012126-2022-70 | fichas/pas/2023-06.md |
 

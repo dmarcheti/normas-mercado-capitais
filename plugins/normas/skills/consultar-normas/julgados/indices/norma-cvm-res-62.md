@@ -62,6 +62,7 @@ Norma: [cvm/resolucoes/0062.md](../../normas/cvm/resolucoes/0062.md) (texto vige
 | art. 2º, inciso III | pas | 19957.004388/2023-41 | 2025-08-05 | parcial | cvm-pas-19957-004388-2023-41 | fichas/pas/2025-06.md |
 | art. 2º, inciso III | pas | 19957.013886/2022-02 | 2025-11-25 | parcial | cvm-pas-19957-013886-2022-02 | fichas/pas/2025-09.md |
 | art. 2º, inciso III | pas | 19957.015425/2024-28 | 2025-12-16 | condenacao | cvm-pas-19957-015425-2024-28 | fichas/pas/2025-11.md |
+| art. 2º, inciso III | pas | 19957.011239/2025-09 | 2026-11-03 | condenacao | cvm-pas-19957-011239-2025-09 | fichas/pas/2026-07.md |
 | art. 2º, inciso IV | acordao-crsfn | 19957.007224/2023-76 | 2025-09-16 | parcial | crsfn-19957-007224-2023-76 | fichas/crsfn/2025-05.md |
 | art. 2º, inciso IV | acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | crsfn-19957-001912-2024-11 | fichas/crsfn/2026-03.md |
 | art. 2º, inciso IV | acordao-crsfn | 19957.013886/2022-02 | 2026-08-11 | parcial | crsfn-19957-013886-2022-02 | fichas/crsfn/2026-03.md |

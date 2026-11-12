@@ -7,44 +7,46 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 1233 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 1235 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 48 |
-| 2025 | 65 |
-| 2024 | 96 |
-| 2023 | 134 |
-| 2022 | 171 |
-| 2021 | 207 |
-| 2020 | 244 |
-| 2019 | 275 |
-| 2018 | 311 |
-| 2017 | 358 |
-| 2016 | 409 |
-| 2015 | 457 |
-| 2014 | 501 |
-| 2013 | 553 |
-| 2012 | 624 |
-| 2011 | 685 |
-| 2010 | 734 |
-| 2009 | 822 |
-| 2008 | 902 |
-| 2007 | 980 |
-| 2006 | 1033 |
-| 2005 | 1092 |
-| 2004 | 1112 |
-| 2003 | 1130 |
-| 2002 | 1155 |
-| 2001 | 1181 |
-| 2000 | 1187 |
-| 1999 | 1209 |
-| 1998 | 1226 |
-| 1997 | 1228 |
-| 1996 | 1230 |
+| 2025 | 67 |
+| 2024 | 98 |
+| 2023 | 136 |
+| 2022 | 173 |
+| 2021 | 209 |
+| 2020 | 246 |
+| 2019 | 277 |
+| 2018 | 313 |
+| 2017 | 360 |
+| 2016 | 411 |
+| 2015 | 459 |
+| 2014 | 503 |
+| 2013 | 555 |
+| 2012 | 626 |
+| 2011 | 687 |
+| 2010 | 736 |
+| 2009 | 824 |
+| 2008 | 904 |
+| 2007 | 982 |
+| 2006 | 1035 |
+| 2005 | 1094 |
+| 2004 | 1114 |
+| 2003 | 1132 |
+| 2002 | 1157 |
+| 2001 | 1183 |
+| 2000 | 1189 |
+| 1999 | 1211 |
+| 1998 | 1228 |
+| 1997 | 1230 |
+| 1996 | 1232 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| pas | 19957.002327/2025-10 | 2026-10-27 | parcial | Apurar o descumprimento, pelos administradores da Auzza Securitizadora S.A., das obrigações de elaboração e envio de informações periódicas… | cvm-pas-19957-002327-2025-10 | fichas/pas/2026-07.md |
+| pas | 19957.001432/2026-12 | 2026-10-27 | condenacao | Apurar responsabilidade pelo envio intempestivo da comunicação prevista no art. 12 da Resolução CVM nº 44/2021, relativa à aquisição de… | cvm-pas-19957-001432-2026-12 | fichas/pas/2026-06.md |
 | pas | 19957.011231/2025-34 | 2026-10-02 | — | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º… | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-05.md |
 | acordao-crsfn | 19957.001912/2024-11 | 2026-09-15 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. ATRASO E NÃO ENTREGA DE INFORMAÇÕES PERIÓDICAS OBRIGATÓRIAS DE FUNDOS DE INVESTIMENTO. A… | crsfn-19957-001912-2024-11 | fichas/crsfn/2026-03.md |
 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração… | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-04.md |

@@ -84,6 +84,7 @@ Número normalizado: NUP `99999-999999-AAAA-DD`; processo antigo `rj2015-13791` 
 | 19957-020870-2024-18 | 19957.020870/2024-18; 19957-020870-2024-18 | termo-compromisso | 2025-09-09 | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com… | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
 | 19957-021470-2024-11 | 19957.021470/2024-11; 19957-021470-2024-11 | pas | 2025-12-16 | : Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras da companhia aberta Odontoprev S.A… | cvm-pas-19957-021470-2024-11 | fichas/pas/2025-11.md |
 | 19957-021536-2024-73 | 19957.021536/2024-73; 19957-021536-2024-73 | termo-compromisso | 2026-06-23 | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da Nova Futura CTVM e de uma pessoa física, de R$ 252.000,00 e R$ 126.000,00… | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
+| 19957-021543-2024-75 | 19957.021543/2024-75; 19957-021543-2024-75 | pas | 2026-11-03 | Apurar suposto exercício da atividade de administração profissional de carteira de valores mobiliários sem prévia autorização da CVM, em… | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
 | sp2024-0003 | SP-24/03 | acordao-crsfn | 2009-09-30 | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras em desarmonia com os princípios… | crsfn-8928 | fichas/crsfn/2009-05.md |
 
 Fim do subíndice.

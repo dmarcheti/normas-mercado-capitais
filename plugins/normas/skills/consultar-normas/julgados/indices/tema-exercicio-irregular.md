@@ -7,41 +7,43 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 417 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 419 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 45 |
-| 2025 | 52 |
-| 2024 | 71 |
-| 2023 | 92 |
-| 2022 | 108 |
-| 2021 | 115 |
-| 2020 | 118 |
-| 2019 | 135 |
-| 2018 | 152 |
-| 2017 | 169 |
-| 2016 | 183 |
-| 2015 | 201 |
-| 2014 | 218 |
-| 2013 | 233 |
-| 2012 | 248 |
-| 2011 | 262 |
-| 2010 | 276 |
-| 2009 | 287 |
-| 2008 | 309 |
-| 2007 | 322 |
-| 2006 | 340 |
-| 2005 | 356 |
-| 2004 | 367 |
-| 2003 | 372 |
-| 2002 | 382 |
-| 2001 | 395 |
-| 2000 | 407 |
-| 1998 | 414 |
+| 2025 | 54 |
+| 2024 | 73 |
+| 2023 | 94 |
+| 2022 | 110 |
+| 2021 | 117 |
+| 2020 | 120 |
+| 2019 | 137 |
+| 2018 | 154 |
+| 2017 | 171 |
+| 2016 | 185 |
+| 2015 | 203 |
+| 2014 | 220 |
+| 2013 | 235 |
+| 2012 | 250 |
+| 2011 | 264 |
+| 2010 | 278 |
+| 2009 | 289 |
+| 2008 | 311 |
+| 2007 | 324 |
+| 2006 | 342 |
+| 2005 | 358 |
+| 2004 | 369 |
+| 2003 | 374 |
+| 2002 | 384 |
+| 2001 | 397 |
+| 2000 | 409 |
+| 1998 | 416 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| pas | 19957.021543/2024-75 | 2026-11-03 | condenacao | Apurar suposto exercício da atividade de administração profissional de carteira de valores mobiliários sem prévia autorização da CVM, em… | cvm-pas-19957-021543-2024-75 | fichas/pas/2026-07.md |
+| pas | 19957.012863/2025-15 | 2026-11-03 | condenacao | Apurar infrações aos arts. 16 e 19 da Lei nº 6.385/1976, em razão do exercício de atividade de intermediação no mercado de valores… | cvm-pas-19957-012863-2025-15 | fichas/pas/2026-07.md |
 | pas | 19957.004453/2025-09 | 2026-10-21 | — | PAS de rito simplificado por administração profissional de carteira sem autorização (art. 23 da Lei 6.385/1976; art. 2º da Resolução CVM… | cvm-pas-19957-004453-2025-09 | fichas/pas/2026-05.md |
 | acordao-crsfn | 19957.015425/2024-28 | 2026-09-15 | condenacao | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. EXERCÍCIO IRREGULAR DA ATIVIDADE DE ADMINISTRAÇÃO DE CARTEIRA DE VALORES MOBILIÁRIOS… | crsfn-19957-015425-2024-28 | fichas/crsfn/2026-03.md |
 | pas | 19957.002610/2025-33 | 2026-08-25 | condenacao | Apurar o suposto exercício irregular da atividade de administração de carteira de valores mobiliários, em infração ao art. 2º da Resolução… | cvm-pas-19957-002610-2025-33 | fichas/pas/2026-03.md |

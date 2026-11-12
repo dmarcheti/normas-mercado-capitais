@@ -7,43 +7,44 @@ Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho rel
 
 ## Sumário
 
-Este subíndice tem 677 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+Este subíndice tem 678 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
 
 | Seção | Linha |
 |---|---|
 | 2026 | 47 |
-| 2025 | 51 |
-| 2024 | 65 |
-| 2023 | 82 |
-| 2022 | 115 |
-| 2021 | 142 |
-| 2020 | 161 |
-| 2019 | 196 |
-| 2018 | 227 |
-| 2017 | 277 |
-| 2016 | 318 |
-| 2015 | 349 |
-| 2014 | 378 |
-| 2013 | 403 |
-| 2012 | 432 |
-| 2011 | 447 |
-| 2010 | 462 |
-| 2009 | 486 |
-| 2008 | 516 |
-| 2007 | 538 |
-| 2006 | 556 |
-| 2005 | 579 |
-| 2004 | 600 |
-| 2003 | 620 |
-| 2002 | 648 |
-| 2001 | 659 |
-| 2000 | 667 |
-| 1998 | 673 |
-| 1997 | 674 |
-| 1996 | 675 |
+| 2025 | 52 |
+| 2024 | 66 |
+| 2023 | 83 |
+| 2022 | 116 |
+| 2021 | 143 |
+| 2020 | 162 |
+| 2019 | 197 |
+| 2018 | 228 |
+| 2017 | 278 |
+| 2016 | 319 |
+| 2015 | 350 |
+| 2014 | 379 |
+| 2013 | 404 |
+| 2012 | 433 |
+| 2011 | 448 |
+| 2010 | 463 |
+| 2009 | 487 |
+| 2008 | 517 |
+| 2007 | 539 |
+| 2006 | 557 |
+| 2005 | 580 |
+| 2004 | 601 |
+| 2003 | 621 |
+| 2002 | 649 |
+| 2001 | 660 |
+| 2000 | 668 |
+| 1998 | 674 |
+| 1997 | 675 |
+| 1996 | 676 |
 
 | Tipo | Processo | Data | Resultado | Ementa | Id | Ficha |
 |---|---|---|---|---|---|---|
+| pas | 19957.011024/2019-31 | 2026-10-27 | parcial | Apurar o possível descumprimento de deveres fiduciários por administradores da Petrobras S.A., quando da aquisição da Refinaria de… | cvm-pas-19957-011024-2019-31 | fichas/pas/2026-07.md |
 | termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso apresentada por um administrador: R$ 15.000,00 e cinco anos… | cvm-col-20260512-d3391 | fichas/tc/2026-01.md |
 | acordao-crsfn | 19957.013476/2024-15 | 2026-04-08 | outro | EMBARGOS DE DECLARAÇÃO. CVM. ALEGAÇÃO DE OMISSÕES E CONTRADIÇÃO NO ACÓRDÃO CRSFN 167/2025. Inexistência de incongruência entre os… | crsfn-19957-013476-2024-15-2 | fichas/crsfn/2026-02.md |
 | acordao-crsfn | 19957.004415/2016-57 | 2026-04-08 | condenacao | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. COMPANHIA ABERTA. DEVERES FIDUCIÁRIOS DOS ADMINISTRADORES. DEVER DE… | crsfn-10372-100149-2023-18 | fichas/crsfn/2026-02.md |

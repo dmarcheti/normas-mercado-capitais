@@ -5189,6 +5189,44 @@
     "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol249.docx"
    },
    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol249.html"
+  },
+  {
+   "numero": 250,
+   "titulo": "Resolução CVM 250",
+   "data": "2026-11-05",
+   "dou": "2026-11-09",
+   "ementa": "Altera a Resolução CVM nº 19, de 25 de fevereiro de 2021.",
+   "no_estoque": false,
+   "situacao": "so-alteradora",
+   "revogada": "",
+   "alteradoras": [],
+   "consolidado": {},
+   "consolidado_em_partes": 0,
+   "ato": {
+    "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol250.htm",
+    "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol250.pdf",
+    "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol250.docx"
+   },
+   "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol250.html"
+  },
+  {
+   "numero": 251,
+   "titulo": "Resolução CVM 251",
+   "data": "2026-11-05",
+   "dou": "2026-11-09",
+   "ementa": "Altera a Resolução CVM nº 9, de 27 de outubro de 2020.",
+   "no_estoque": false,
+   "situacao": "so-alteradora",
+   "revogada": "",
+   "alteradoras": [],
+   "consolidado": {},
+   "consolidado_em_partes": 0,
+   "ato": {
+    "htm": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol251.htm",
+    "pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/200/resol251.pdf",
+    "docx": "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol251.docx"
+   },
+   "url_pagina": "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol251.html"
   }
  ],
  "instrucoes": [
@@ -20305,6 +20343,20 @@
    "ementa": "Pareceres de auditoria/Relatórios sem Revisão Limitada - Omissão de Ressalvas ou Redação Inadequada.",
    "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/snc/oc-snc-0296.html",
    "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/snc/anexos/oc-snc-0296.pdf",
+   "url_pdf_origem": "pagina",
+   "cita": []
+  },
+  {
+   "titulo": "Ofício-Circular nº 1/2026/CVM/SOI",
+   "data": "2026-11-10",
+   "superintendencia": "soi",
+   "slug": "oc-soi-012026",
+   "slug_cvm": "oc-soi-012026",
+   "id": "cvm-oc-soi-012026",
+   "descricao": "Novo Sistema de Atendimento ao Cidadão (SAC-CVM) – orientações sobre o recebimento e o tratamento de demandas encaminhadas às Ouvidorias.",
+   "ementa": "Novo Sistema de Atendimento ao Cidadão (SAC-CVM) – orientações sobre o recebimento e o tratamento de demandas encaminhadas às Ouvidorias.",
+   "url_pagina": "https://conteudo.cvm.gov.br/legislacao/oficios-circulares/soi/oc-soi-012026.html",
+   "url_pdf": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/oficios-circulares/soi/anexos/ocsoi0126.pdf",
    "url_pdf_origem": "pagina",
    "cita": []
   }

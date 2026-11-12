@@ -156,7 +156,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 199/2024](norma-cvm-res-199.md) | 1 |
 | [Resolução CVM nº 20/2021](norma-cvm-res-20.md) | 5 |
 | [Resolução CVM nº 205/2024](norma-cvm-res-205.md) | 1 |
-| [Resolução CVM nº 21/2021](norma-cvm-res-21.md) | 104 |
+| [Resolução CVM nº 21/2021](norma-cvm-res-21.md) | 106 |
 | [Resolução CVM nº 210/2024](norma-cvm-res-210.md) | 2 |
 | [Resolução CVM nº 211/2024](norma-cvm-res-211.md) | 1 |
 | [Resolução CVM nº 212/2024](norma-cvm-res-212.md) | 1 |
@@ -185,8 +185,8 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 36/2021](norma-cvm-res-36.md) | 2 |
 | [Resolução CVM nº 42/2021](norma-cvm-res-42.md) | 5 |
 | [Resolução CVM nº 43/2021](norma-cvm-res-43.md) | 2 |
-| [Resolução CVM nº 44/2021](norma-cvm-res-44.md) | 164 |
-| [Resolução CVM nº 45/2021](norma-cvm-res-45.md) | 828 |
+| [Resolução CVM nº 44/2021](norma-cvm-res-44.md) | 165 |
+| [Resolução CVM nº 45/2021](norma-cvm-res-45.md) | 834 |
 | [Resolução CVM nº 46/2021](norma-cvm-res-46.md) | 206 |
 | [Resolução CVM nº 47/2021](norma-cvm-res-47.md) | 114 |
 | [Resolução CVM nº 48/2021](norma-cvm-res-48.md) | 26 |
@@ -200,7 +200,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 57/2021](norma-cvm-res-57.md) | 1 |
 | [Resolução CVM nº 6/2020](norma-cvm-res-6.md) | 6 |
 | [Resolução CVM nº 60/2021](norma-cvm-res-60.md) | 22 |
-| [Resolução CVM nº 62/2022](norma-cvm-res-62.md) | 121 |
+| [Resolução CVM nº 62/2022](norma-cvm-res-62.md) | 122 |
 | [Resolução CVM nº 67/2022](norma-cvm-res-67.md) | 85 |
 | [Resolução CVM nº 68/2022](norma-cvm-res-68.md) | 1 |
 | [Resolução CVM nº 70/2022](norma-cvm-res-70.md) | 6 |
@@ -208,7 +208,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Resolução CVM nº 77/2022](norma-cvm-res-77.md) | 14 |
 | [Resolução CVM nº 78/2022](norma-cvm-res-78.md) | 5 |
 | [Resolução CVM nº 8/2020](norma-cvm-res-8.md) | 7 |
-| [Resolução CVM nº 80/2022](norma-cvm-res-80.md) | 127 |
+| [Resolução CVM nº 80/2022](norma-cvm-res-80.md) | 128 |
 | [Resolução CVM nº 81/2022](norma-cvm-res-81.md) | 67 |
 | [Resolução CVM nº 82/2022](norma-cvm-res-82.md) | 1 |
 | [Resolução CVM nº 84/2022](norma-cvm-res-84.md) | 2 |
@@ -243,8 +243,8 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [Lei nº 14.754/2023](norma-lei-14754.md) | 1 |
 | [Lei nº 4.595/1964](norma-lei-4595.md) | 70 |
 | [Lei nº 4.728/1965](norma-lei-4728.md) | 45 |
-| [Lei nº 6.385/1976](norma-lei-6385.md) | 5627 |
-| [Lei nº 6.404/1976](norma-lei-6404.md) | 4106 |
+| [Lei nº 6.385/1976](norma-lei-6385.md) | 5634 |
+| [Lei nº 6.404/1976](norma-lei-6404.md) | 4109 |
 | [Lei nº 7.913/1989](norma-lei-7913.md) | 10 |
 | [Lei nº 8.668/1993](norma-lei-8668.md) | 50 |
 | [Lei nº 8.929/1994](norma-lei-8929.md) | 14 |
@@ -518,7 +518,7 @@ Este subíndice tem 674 linhas e uma leitura única é cortada em silêncio pert
 | [icvm-92](norma-fora-icvm-92.md) | 43 |
 | [in-480](norma-fora-in-480.md) | 23 |
 | [lcp-101](norma-fora-lcp-101.md) | 25 |
-| [lcp-105](norma-fora-lcp-105.md) | 263 |
+| [lcp-105](norma-fora-lcp-105.md) | 266 |
 | [lcp-109](norma-fora-lcp-109.md) | 26 |
 | [lcp-95](norma-fora-lcp-95.md) | 11 |
 | [lei-1](norma-fora-lei-1.md) | 33 |
