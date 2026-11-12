@@ -3,22 +3,22 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/pareceres-orientacao/0006.md](../../normas/cvm/pareceres-orientacao/0006.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários. Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes. Permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral. Permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente. Não identificação na ficha cadastral de pessoa vinculada à corretora. Falta de diligência na administração e na gestão de carteira de fundo de investimento. Alegação de impedimento do Diretor que atuou como Superintendente. Desprovimento dos Recursos Voluntários e De Ofício. | ../../../../../julgados/crsfn/2020/13083-2.md |
-| decisao-colegiado | SP2011/0302 | 2014-06-24 | nao-provido | deveres-administradores | O Colegiado indeferiu recurso de reclamantes contra a decisão da SEP de não instaurar processo sancionador por suposto abuso de poder de controle no Itaú Unibanco Holding S.A. (art. 1º, IV, ICVM 323/2000). Acompanhando o voto da relatora, entendeu não ter competência, na função julgadora, para deliberar sobre o pedido, pois a apuração cabe à área técnica. | ../../../../../julgados/cvm/colegiado/2014/col-20140624-d04.md |
-| pas | 30/2005 | 2012-12-11 | parcial | intermediacao | REFER realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários – falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes – permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral – permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente – não identificação na ficha cadastral de pessoa vinculada à corretora – falta de diligência na administração e na gestão de carteira de fundo de investimento. Multas pecuniárias e absolvições. | ../../../../../julgados/cvm/pas/2012/30-2005.md |
-| decisao-colegiado | RJ2006/7840 | 2006-11-06 | indeferido | assembleia-acionistas | O Colegiado indeferiu o pedido de Polo Norte Fundo de Investimento Multimercado e Brandes Investment Partners L.P. para interromper o prazo de antecedência da AGE da Tele Norte Leste Participações S.A., que deliberaria sobre incorporação de ações pela Telemar Participações S.A. Fundamento: Memo SEP/GEA-4/102/06, que não viu elementos para a interrupção (art. 124, §5º, II, Lei 6.404/76). | ../../../../../julgados/cvm/colegiado/2006/col-20061106-d01.md |
-| decisao-colegiado | RJ2002/7471 | 2004-12-23 | nao-provido | processual | Recurso da MRS Logística S.A. contra decisão da SFI que negou vista e cópia integral dos autos de processo em fase investigativa. O Colegiado negou provimento, acompanhando a relatora: na fase investigativa o acesso pode prejudicar a apuração, e o livre acesso volta na fase acusatória. | ../../../../../julgados/cvm/colegiado/2004/col-20041223-d25.md |
-| decisao-colegiado | IA04/03 | 2004-11-30 | conhecimento | processual | O Colegiado considerou prejudicado, por perda de objeto, o recurso contra decisão da SFI que negou cópia integral dos autos de inquérito administrativo. A investigação já fora concluída, a defesa apresentada e houve vista plena. Determinou que a PFE examine o mérito e elabore minuta de Deliberação ou Instrução sobre vista dos autos, a ser colocada em audiência pública. | ../../../../../julgados/cvm/colegiado/2004/col-20041130-d02.md |
-| pas | 22/1994 | 2004-04-15 | condenacao | manipulacao-fraude | Utilização de prática não-equitativa, conforme conceituada no inciso II, alínea “d”, da Instrução CVM n° 08, de 08.10.79. Multas | ../../../../../julgados/cvm/pas/2004/22-1994.md |
-| pas | RJ2000/6479 | 2003-06-05 | parcial | deveres-administradores | ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA. E OUTROS (LIVRARIA DO GLOBO S/A) I - Mútuo entre companhia aberta e sua controladora. Inexistência de instrumentos escritos. Prova da observância de condições estritamente comutativas possível, in casu, graças ao registro contábil das operações. Absolvição. II - Celebração de operações injustificáveis com a controladora, desnecessárias e sem a efetiva prestação dos serviços, que configuram favorecimento. Abuso de poder de controle e desvio de poder. Infração configurada. Multas e advertência. | ../../../../../julgados/cvm/pas/2003/rj2000-6479.md |
-| decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 30/2005 | 2020-04-14 | parcial | crsfn-13083-2 | fichas/crsfn/2020-02.md |
+| decisao-colegiado | SP2011/0302 | 2014-06-24 | nao-provido | cvm-col-20140624-d04 | fichas/colegiado/2014-12.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| decisao-colegiado | RJ2006/7840 | 2006-11-06 | indeferido | cvm-col-20061106-d01 | fichas/colegiado/2006-17.md |
+| decisao-colegiado | RJ2002/7471 | 2004-12-23 | nao-provido | cvm-col-20041223-d25 | fichas/colegiado/2004-17.md |
+| decisao-colegiado | IA04/03 | 2004-11-30 | conhecimento | cvm-col-20041130-d02 | fichas/colegiado/2004-15.md |
+| pas | 22/1994 | 2004-04-15 | condenacao | cvm-pas-22-1994 | fichas/pas/2004-01.md |
+| pas | RJ2000/6479 | 2003-06-05 | parcial | cvm-pas-rj2000-6479 | fichas/pas/2003-02.md |
+| decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 
 Fim do subíndice.

@@ -3,46 +3,46 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º, inciso IX | decisao-colegiado | SP2000/0110 | 2005-01-25 | outro | processual | Manifestação do coaf em processo de rito sumário. Proc. SP2000/0110. | ../../../../../julgados/cvm/colegiado/2005/col-20050125-d13.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º, inciso IX | decisao-colegiado | SP2000/0110 | 2005-01-25 | outro | cvm-col-20050125-d13 | fichas/colegiado/2005-02.md |
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | decisao-colegiado | SP2001/0105 | 2002-02-27 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0105. | ../../../../../julgados/cvm/colegiado/2002/col-20020227-d01.md |
-| art. 23 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | decisao-colegiado | SP2001/0105 | 2002-02-27 | nao-provido | cvm-col-20020227-d01 | fichas/colegiado/2002-03.md |
+| art. 23 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 08211.001223/2019-39 | 2020-05-19 | outro | pld | RECURSO VOLUNTÁRIO. Deixar de efetuar comunicação de não ocorrência de operações ou propostas passíveis de serem comunicadas ao COAF.. Recurso não conhecido por intempestividade. | ../../../../../julgados/crsfn/2020/19957-100013-2019-25.md |
-| pas | 12/2013 | 2016-05-24 | parcial | pld | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Descumprimento do dever de comunicação à CVM de operações consideradas suspeitas e que possam constituir-se em sérios indícios de crimes previstos em lei, ou com eles relacionarem-se. Absolvições e Multas . | ../../../../../julgados/cvm/pas/2016/12-2013.md |
-| pas | RJ2012/1606 | 2014-02-04 | condenacao | pld | Falhas no sistema de prevenção e combate à lavagem de dinheiro – não atualização de fichas cadastrais de clientes – não monitoramento de operações incompatíveis com o patrimônio e rendimento declarados por cliente – não comunicação à CVM de operações com indícios de lavagem de dinheiro ou de ocultação de bens de cliente. [Instrução CVM nº 301/99]. Multas. | ../../../../../julgados/cvm/pas/2014/rj2012-1606.md |
-| pas | SP2008/0038 | 2010-07-13 | parcial | pld | UNIBANCO INVESTSHOP CVMC S/A Manutenção de cadastros incompletos. Não comunicação à CVM de operações incompatíveis com patrimônios e rendimentos financeiros de clientes. Ausência de Procedimentos de combate à lavagem de dinheiro. - Absolvição e Advertência. | ../../../../../julgados/cvm/pas/2010/sp2008-0038.md |
-| pas | SP2007/033 | 2009-05-19 | condenacao | pld | MASTER CORRETORA DE MERCADORIAS LTDA. e BONUS-BANVAL PARTICIPAÇÕES LTDA. Falta de diligência na condução dos negócios da companhia - intermediação irregular de negócios - liquidações de operações por meio de depósitos efetuados por terceiros - realização e liquidação de operações não compatíveis com as situações patrimonial e financeira declaradas. Advertências e Multas. | ../../../../../julgados/cvm/pas/2009/sp2007-0033.md |
-| pas | SP2006/0160 | 2007-08-28 | parcial | pld | Ausência de comunicação de operações suspeitas de lavagem de dinheiro à CVM, em infração ao disposto no art. 7º, I, da Instrução CVM nº 301/99. Multas. - Não manutenção de cadastro de clientes completos e atualizados, em infração ao art. 3º da Instrução CVM nº 301/99. Absolvições. - Ausência de rotinas de procedimentos destinados a detectar e prevenir falhas no cumprimento da Instrução CVM nº 301/99, em infração ao art. 9º da mesma instrução. Absolvições. | ../../../../../julgados/cvm/pas/2007/sp2006-0160.md |
-| pas | SP2006/0174 | 2007-04-17 | condenacao | pld | Sujeitam-se às obrigações previstas na Instrução CVM nº 301/99 as pessoas jurídicas que tenham, em caráter permanente ou eventual, como atividade principal ou acessória, cumulativamente ou não, a administração de títulos ou valores mobiliários, além das demais pessoas referidas no art. 9º da Lei nº 9.613/98 que se encontrem sob a disciplina e fiscalização exercidas pela CVM e dos administradores das pessoas jurídicas. Aos mantenedores de cadastros de clientes cabe a atualização dos dados, bem como informações acerca dos rendimentos e da situação patrimonial desses clientes, comunicando à CVM operações cujos valores se afigurem objetivamente incompatíveis com a situação patrimonial e financeira de seus clientes, tendo como base as respectivas informações cadastrais. | ../../../../../julgados/cvm/pas/2007/sp2006-0174.md |
-| pas | SP2005/0296 | 2006-12-05 | condenacao | pld | Ausência de comunicação à CVM de operações cujos valores se afiguravam objetivamente incompatíveis com a situação patrimonial e financeira do cliente, tomando-se por base as informações cadastrais respectivas, conforme determina o art. 7º, II, c/c art. 6º, I, ambos da Instrução CVM nº 301/99. Multas. | ../../../../../julgados/cvm/pas/2006/sp2005-0296.md |
-| pas | RJ2005/7025 | 2006-05-10 | parcial | pld | Manutenção de fichas cadastrais de clientes ativos de forma incompleta ou incorretamente preenchidas. Advertência. - Não comunicação da ocorrência de operações incompatíveis com a situação financeira e patrimonial - Fichas cadastrais incompletas, omissas, desatualizadas ou insuficientes quanto à condição patrimonial do cliente. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-7025.md |
-| pas | SP2005/0188 | 2006-05-04 | condenacao | pld | Para os fins do disposto no art. 10, inciso I, da Lei nº 9.613/98, as pessoas mencionadas no art. 2º da Instrução CVM nº 301/99 deverão identificar seus clientes e manter atualizado o cadastro dos mesmos. - Realização de operações de clientes sem as informações cadastrais mínimas, em infração ao disposto no artigo 3º da Instrução CVM nº 301/99. Multa. | ../../../../../julgados/cvm/pas/2006/sp2005-0188.md |
-| pas | SP2003/0175 | 2006-04-05 | condenacao | pld | A multa pecuniária variável é uma das sanções aplicáveis sempre que as pessoas referidas no art. 9º da Lei nº 9.613/99, por negligência, ou dolo, deixarem de sanar as irregularidades objeto de advertência, no prazo assinalado pela autoridade competente. | ../../../../../julgados/cvm/pas/2006/sp2003-0175.md |
-| pas | SP2003/0152 | 2006-03-29 | parcial | pld | Sociedade Corretora - Existência de cadastros de clientes incompletos ou desatualizados. Descumprimento do art. 3º da Instrução CVM nº 301/99. Multa. | ../../../../../julgados/cvm/pas/2006/sp2003-0152.md |
-| pas | RJ2002/5516 | 2006-02-16 | parcial | pld | Imputação de descumprimento do disposto no art. 3º, § 1º, inciso I, alínea e, da Instrução CVM nº 301/99: absolvição. Imputação de descumprimento do disposto no art. 3º, § 1º, inciso I, alínea f, e art. 9º da Instrução CVM nº 301/99: multa. | ../../../../../julgados/cvm/pas/2006/rj2002-5516.md |
-| pas | RJ2005/1860 | 2005-12-13 | condenacao | pld | CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO S/A E [pessoa física] - As corretoras de valores devem comunicar à CVM, no prazo de 24 horas, as operações incompatíveis com a situação financeira e patrimonial declarada por seus clientes nas fichas cadastrais, bem como adotar procedimentos de controle com especial atenção às operações descritas no artigo 6º da Instrução CVM nº 301/99: pena de advertência. | ../../../../../julgados/cvm/pas/2005/rj2005-1860.md |
-| pas | RJ2003/12911 | 2005-09-08 | condenacao | pld | SAFIC CVC S.A. E [pessoa física] Descumprimento das obrigações referidas no inciso I, do art. 10 da Lei nº 9.613/98, combinado com o art. 3º da Instrução nº 301/99. Pena de Advertência. Não comunicação das operações objeto no art. 11 da Lei nº 9.613/98, combinado com o art. 6º da Instrução CVM nº 301/99. Pena de Multa. | ../../../../../julgados/cvm/pas/2005/rj2003-12911.md |
-| pas | SP2001/0373 | 2004-06-24 | condenacao | pld | Acolhimento e realização de operações de clientes sem as informações cadastrais atualizadas. Infração ao disposto no art. 3º, da Instrução CVM nº 301/99. Advertência. Não comunicação à CVM de operações cujos valores se afigurem objetivamente incompatíveis com a ocupação profissional, os rendimentos e/ou a situação patrimonial/financeira de qualquer das partes envolvidas, tomando-se por base as informações cadastrais respectivas, em infração ao disposto no art. 7º, II, da Instrução CVM nº 301/99. - Advertência | ../../../../../julgados/cvm/pas/2004/sp2001-0373.md |
-| pas | SP2002/0487 | 2004-06-21 | condenacao | pld | As fichas cadastrais dos clientes que operam no mercado de valores mobiliários não só devem estar completamente preenchidas e atualizadas como a instituição deve manter controles internos que permitam o combate à lavagem de dinheiro (Instrução CVM nº 301/99, artigos 3º e 9º), ficando caracterizada, no presente caso, a inexistência de um efetivo sistema de controle e atualização dos cadastros. | ../../../../../julgados/cvm/pas/2004/sp2002-0487.md |
-| pas | SP2003/0042 | 2004-05-06 | condenacao | pld | Elaboração e atualização do cadastro de clientes da corretora em desacordo com o exigido no art. 3º da Instrução CVM nº 301/99. | ../../../../../julgados/cvm/pas/2004/sp2003-0042.md |
-| pas | SP2002/0257 | 2003-11-13 | condenacao | pld | Insuficiências cadastrais - Infração ao artigo 3º da Instrução CVM nº 301/99; Não comunicação à CVM de operações passíveis de comunicação à autarquia - Infração ao artigo 6º, incisos I e II, e ao art. 7º da Instrução CVM nº 301/99 - Advertência. | ../../../../../julgados/cvm/pas/2003/sp2002-0257.md |
-| pas | SP2001/0395 | 2003-09-11 | parcial | pld | A corretora de valores deve manter nas fichas cadastrais informações patrimoniais de seus clientes (art. 3º da Instrução CVM nº 301/99) - Advertência. - Não caracterização da necessidade de comunicação das operações à CVM. - Absolvição. | ../../../../../julgados/cvm/pas/2003/sp2001-0395.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 08211.001223/2019-39 | 2020-05-19 | outro | crsfn-19957-100013-2019-25 | fichas/crsfn/2020-03.md |
+| pas | 12/2013 | 2016-05-24 | parcial | cvm-pas-12-2013 | fichas/pas/2016-02.md |
+| pas | RJ2012/1606 | 2014-02-04 | condenacao | cvm-pas-rj2012-1606 | fichas/pas/2014-01.md |
+| pas | SP2008/0038 | 2010-07-13 | parcial | cvm-pas-sp2008-0038 | fichas/pas/2010-03.md |
+| pas | SP2007/033 | 2009-05-19 | condenacao | cvm-pas-sp2007-0033 | fichas/pas/2009-02.md |
+| pas | SP2006/0160 | 2007-08-28 | parcial | cvm-pas-sp2006-0160 | fichas/pas/2007-06.md |
+| pas | SP2006/0174 | 2007-04-17 | condenacao | cvm-pas-sp2006-0174 | fichas/pas/2007-02.md |
+| pas | SP2005/0296 | 2006-12-05 | condenacao | cvm-pas-sp2005-0296 | fichas/pas/2006-13.md |
+| pas | RJ2005/7025 | 2006-05-10 | parcial | cvm-pas-rj2005-7025 | fichas/pas/2006-05.md |
+| pas | SP2005/0188 | 2006-05-04 | condenacao | cvm-pas-sp2005-0188 | fichas/pas/2006-04.md |
+| pas | SP2003/0175 | 2006-04-05 | condenacao | cvm-pas-sp2003-0175 | fichas/pas/2006-03.md |
+| pas | SP2003/0152 | 2006-03-29 | parcial | cvm-pas-sp2003-0152 | fichas/pas/2006-03.md |
+| pas | RJ2002/5516 | 2006-02-16 | parcial | cvm-pas-rj2002-5516 | fichas/pas/2006-02.md |
+| pas | RJ2005/1860 | 2005-12-13 | condenacao | cvm-pas-rj2005-1860 | fichas/pas/2005-10.md |
+| pas | RJ2003/12911 | 2005-09-08 | condenacao | cvm-pas-rj2003-12911 | fichas/pas/2005-06.md |
+| pas | SP2001/0373 | 2004-06-24 | condenacao | cvm-pas-sp2001-0373 | fichas/pas/2004-02.md |
+| pas | SP2002/0487 | 2004-06-21 | condenacao | cvm-pas-sp2002-0487 | fichas/pas/2004-02.md |
+| pas | SP2003/0042 | 2004-05-06 | condenacao | cvm-pas-sp2003-0042 | fichas/pas/2004-02.md |
+| pas | SP2002/0257 | 2003-11-13 | condenacao | cvm-pas-sp2002-0257 | fichas/pas/2003-04.md |
+| pas | SP2001/0395 | 2003-09-11 | parcial | cvm-pas-sp2001-0395 | fichas/pas/2003-03.md |
 
 Fim do subíndice.

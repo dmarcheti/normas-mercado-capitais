@@ -3,33 +3,33 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | pas | SP2003/0205 | 2006-03-29 | condenacao | administracao-carteiras | A administração profissional de carteira de valores mobiliários só pode ser exercida por pessoa natural, ou jurídica, autorizada pela CVM. Exercício irregular de administração de carteira de valores mobiliários. Multa. | ../../../../../julgados/cvm/pas/2006/sp2003-0205.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | pas | SP2003/0205 | 2006-03-29 | condenacao | cvm-pas-sp2003-0205 | fichas/pas/2006-03.md |
 
 ## art. 34
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 34, § 2º | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | processual | O Colegiado, por maioria, acompanhando o voto da relatora, negou provimento a pedido de efeito suspensivo, em recurso ao CRSFN, contra a proibição temporária de 36 meses para atuar como assessor de investimento. A execução imediata da penalidade não basta para o efeito suspensivo (art. 71, RCVM 45). Um diretor ficou vencido, votando pelo deferimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250415-d2014.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 34, § 2º | decisao-colegiado | 19957.002296/2020-84; 19957.001134/2025-33 | 2025-04-15 | nao-provido | cvm-col-20250415-d2014 | fichas/colegiado/2025-03.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | ofertas-publicas | Alegada atuação irregular no âmbito de ofertas públicas, distribuídas por plataforma eletrônica de investimento participativo, de valores mobiliários de emissão de sociedades empresárias de pequeno porte, em infração ao art. 3°, I; art. 4°, p. ú., III; art. 5°, III e §2º; art. 11, §2º, IV; art. 19, III, “e”; art. 19, V; art. 28, XVI; alínea “c” do Anexo 8 da Seção 6, todos da Instrução CVM nº 588/2017; e ao Item I c/c Item II, “a”, da Instrução CVM nº 8/1979. Absolvições. | ../../../../../julgados/cvm/pas/2023/19957-001621-2020-91.md |
-| pas | RJ2014/2426 | 2018-12-04 | condenacao | deveres-administradores | Destinação de resultados para reserva de lucros supostamente irregular por membros conselho de administração e pelo acionista controlador da Pettenati S/A Indústria Têxtil. Não manifestação contrária à constituição e manutenção de reserva de retenção de lucros supostamente irregular por membros do conselho fiscal da Pettenati S/A Indústria Têxtil. Infração aos artigos 116, parágrafo único, da Lei 6.404/76. Infração ao art 153 c/c art. 196 da Lei 6.404/76. Infração ao art. 163, incisos III e IV da Lei nº 6.404/76. Advertências. Multas. Data decisão CVM Tue Dec 04 11:47:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2014-2426.md |
-| decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | registro-emissor | Recurso da Azul S.A. contra decisão da SEP que indeferiu o registro inicial de companhia aberta categoria A, por entender que as vantagens das ações preferenciais estariam em desacordo com o art. 15, § 2º da Lei 6.404/76. Uma diretora votou pelo provimento do recurso. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2014/col-20140128-d03.md |
-| acordao-crsfn | 39/00 | 2012-11-26 | parcial | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Aquisição de empresa – Efetivação do negócio por sociedade controlada sem o beneplácito expresso e direto dos acionistas da companhia controladora - Necessidade de chamada de assembleia geral extraordinária pelo vínculo de dependência e importância na atuação das duas firmas integrantes do grupo econômico adquirente – Publicação de fato relevante sem força, na espécie, para suprir a não realização do conclave – Falta de tempestiva prestação de informações solicitada por membro do conselho fiscal - Irregularidades caracterizadas – Recursos a que se nega provimento. | ../../../../../julgados/crsfn/2012/8541.md |
-| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Comunicação intempestiva, ao mercado, sobre alienação de ações que correspondam a 5% (cinco por cento) ou mais de espécie ou classe de ações representativas do capital de companhia aberta – Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2010/11956.md |
-| pas | RJ2006/9070 | 2008-01-23 | condenacao | divulgacao-informacoes | [pessoa física] - Alienação, por investidor, de participação acionária relevante no capital social de companhia aberta sem as devidas comunicações ao mercado. Infração ao art. 12, parágrafo 4º, da Instrução CVM nº 358/02. Multa | ../../../../../julgados/cvm/pas/2008/rj2006-9070.md |
-| pas | 07/2003 | 2007-07-04 | parcial | deveres-administradores | Contratação de empregados que não prestavam serviços à companhia [pessoa física] e Eventos da Cidade de São Paulo S/A. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Absolvição. Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Desobediência a determinações do Conselho de Administração quanto à automação do estacionamento dos usuários do Anhembi. - Descumprimento do dever de diligência disposto nos arts. 153 e 154, caput, da Lei 6.404/76. Absolvições. - Aluguel e posterior cessão de veículos para a Prefeitura. Abuso de poder de controle (arts. 117 e 116 da Lei 6.404/76). Advertência. - Descumprimento do dever de diligência e prática de ato de liberalidade (arts. 153 e 154, caput e § 2º, da Lei 6.404/76). Absolvições. - Descumprimento do disposto nos arts. 142, inciso III, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Descumprimento do disposto nos arts. 153 e 154, caput, e 163, inciso I, todos da Lei 6.404, de 15.12.76. Absolvições. - Nomeação e não nomeação de diretores, em desacordo com o estatuto da Anhembi. Descumprimento do disposto nos arts. 142, inciso II, 153 e 154, caput, todos da Lei 6.404, de 15.12.76. Absolvições. - Eleição de membros do Conselho Fiscal em desacordo com o estatuto. Infração do art. 115, 1ª parte, combinado com art. 161, § 1º, e com parágrafo único do art. 116, todos da Lei 6.404/76. Absolvições. | ../../../../../julgados/cvm/pas/2007/07-2003.md |
-| pas | 15/2005 | 2006-11-29 | parcial | deveres-administradores | COMPANHIA INDUSTRIAL DE AÇOS VÁRZEA DA PALMA) - Imputações feitas ao Diretor-Presidente da companhia Açopalma, Presidente do seu conselho de administração e principal acionista de sua Controladora: (i) administração inadequada de companhia aberta, mantendo-a praticamente sem operação industrial ou comercial: absolvição; (ii) cerceamento do direito de voto dos acionistas preferenciais e de ocultação de informação relevante de modo a favorecer-se, incorrendo em uso abusivo do poder de controle: multa; (iii) ausência de contabilização dos movimentos financeiros da referida companhia no período de janeiro a junho de 2003, o que teria impedido o envio à CVM dos respectivos ITRs: multa; (iv) retenção de dividendos obrigatórios devidos aos acionistas preferenciais: absolvição; (v) convocação de AGO com desrespeito ao prazo previsto no art. 124, § 1º, II, da Lei nº 6.404/76: multa. - Imputação, feita ao Diretor de Relações com Investidores da Açopalma, de não prestação reiterada de informações periódicas, tais como ITR, IAN e DFP da referida companhia: multa. | ../../../../../julgados/cvm/pas/2006/15-2005.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.001621/2020-91 | 2023-09-27 | absolvicao | cvm-pas-19957-001621-2020-91 | fichas/pas/2023-06.md |
+| pas | RJ2014/2426 | 2018-12-04 | condenacao | cvm-pas-rj2014-2426 | fichas/pas/2018-10.md |
+| decisao-colegiado | RJ2013/5993 | 2014-01-28 | — | cvm-col-20140128-d03 | fichas/colegiado/2014-02.md |
+| acordao-crsfn | 39/00 | 2012-11-26 | parcial | crsfn-8541 | fichas/crsfn/2012-04.md |
+| acordao-crsfn | RJ-2006-9070 | 2010-07-28 | condenacao | crsfn-11956 | fichas/crsfn/2010-06.md |
+| pas | RJ2006/9070 | 2008-01-23 | condenacao | cvm-pas-rj2006-9070 | fichas/pas/2008-01.md |
+| pas | 07/2003 | 2007-07-04 | parcial | cvm-pas-07-2003 | fichas/pas/2007-04.md |
+| pas | 15/2005 | 2006-11-29 | parcial | cvm-pas-15-2005 | fichas/pas/2006-13.md |
 
 Fim do subíndice.

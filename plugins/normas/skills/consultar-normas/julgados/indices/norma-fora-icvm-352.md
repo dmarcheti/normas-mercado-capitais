@@ -3,99 +3,99 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
-| art. 4º | pas | SP2011/284 | 2015-12-18 | parcial | exercicio-irregular | Exercício irregular das atividades de agente autônomo de investimento e de administração de carteira de valores mobiliários. Absolvições, multas e proibições temporárias. | ../../../../../julgados/cvm/pas/2015/sp2011-0284.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
+| art. 4º | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13, § 4º | acordao-crsfn | 19957.007486/2018-73; RJ2018/4967 | 2023-09-12 | parcial | informacao-privilegiada | RECURSO VOLUNTÁRIO. INSIDER TRADING, NÃO ENVIO DE FORMULÁRIO DE REFERÊNCIA, FALHA INFORMACIONAL. NEGOCIAÇÃO DE AÇÕES COM BASE EM INFORMAÇÕES PRIVILEGIADAS. NÃO ENVIO À CVM DOS FORMULÁRIOS DE VALORES MOBILIÁRIOS NEGOCIADOS E DETIDOS POR ADMINISTRADORES. Materialidade configurada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2023/10372-100170-2021-51.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13, § 4º | acordao-crsfn | 19957.007486/2018-73; RJ2018/4967 | 2023-09-12 | parcial | crsfn-10372-100170-2021-51 | fichas/crsfn/2023-06.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | decisao-colegiado | SP2003/0465 | 2005-03-01 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2003/0465. | ../../../../../julgados/cvm/colegiado/2005/col-20050301-d12.md |
-| art. 15, inciso II | acordao-crsfn | RJ2016/4685 | 2021-04-13 | condenacao | intermediacao | RECURSO VOLUNTÁRIO. Atuação do agente autônomo de investimento como procurador de cliente perante instituição integrante do sistema de distribuição de valores mobiliários. Infração ao art. 13, III da Instrução CVM nº 497/11. Recurso Desprovido | ../../../../../julgados/crsfn/2021/10372-100241-2019-00.md |
-| art. 15, inciso II | pas | RJ2016/4685 | 2019-02-19 | condenacao | intermediacao | Ementa : Atuação do agente autônomo de investimento como procurador de cliente perante instituição integrante do sistema de distribuição de valores mobiliários. Infração ao art. 13, III da Instrução CVM nº 497/11. Multa. Data decisão CVM Tue Feb 19 16:15:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2016-4685.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15 | decisao-colegiado | SP2003/0465 | 2005-03-01 | nao-provido | cvm-col-20050301-d12 | fichas/colegiado/2005-04.md |
+| art. 15, inciso II | acordao-crsfn | RJ2016/4685 | 2021-04-13 | condenacao | crsfn-10372-100241-2019-00 | fichas/crsfn/2021-01.md |
+| art. 15, inciso II | pas | RJ2016/4685 | 2019-02-19 | condenacao | cvm-pas-rj2016-4685 | fichas/pas/2019-02.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | pas | SP2011/284 | 2015-12-18 | parcial | exercicio-irregular | Exercício irregular das atividades de agente autônomo de investimento e de administração de carteira de valores mobiliários. Absolvições, multas e proibições temporárias. | ../../../../../julgados/cvm/pas/2015/sp2011-0284.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | pas | SP2011/284 | 2015-12-18 | parcial | cvm-pas-sp2011-0284 | fichas/pas/2015-07.md |
 
 ## art. 21
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21 | decisao-colegiado | RJ2001/11993 | 2002-02-27 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a autorização, por entender que a Instrução CVM 355/01 não pode retroagir em prejuízo de quem preencheu os requisitos da Instrução CVM 352/01 (art. 21, revogada), que admitia comprovar vínculo empregatício com corretora. | ../../../../../julgados/cvm/colegiado/2002/col-20020227-d02.md |
-| art. 21 | decisao-colegiado | RJ2001/11513 | 2002-03-19 | provido | intermediacao | O Colegiado deu provimento ao recurso contra decisão da SMI que negou autorização a agente autônomo de investimento: concedeu a autorização com base no art. 21 da Instrução CVM 352/01, por situação semelhante à de caso anterior já provido, afastando a exigência da GME de exame de certificação. | ../../../../../julgados/cvm/colegiado/2002/col-20020319-d06.md |
-| art. 21 | decisao-colegiado | RJ2001/12086 | 2002-03-19 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento, concedendo-a. O recorrente era empregado de corretora desde fevereiro de 1999; a situação foi equiparada a precedente semelhante, com base na Instrução CVM 352/01 (revogada pela 355/01). | ../../../../../julgados/cvm/colegiado/2002/col-20020319-d07.md |
-| art. 21 | decisao-colegiado | RJ2001/11397 | 2002-03-19 | provido | intermediacao | O Colegiado acompanhou a diretora-relatora e deu provimento a recurso contra decisão da SMI que negou autorização para atuar como agente autônomo de investimento a uma pessoa física. Fundamento: decisão anterior, de 27.02.2002, em caso semelhante, que admitiu contrato trabalhista com corretora em lugar do contrato de intermediação. | ../../../../../julgados/cvm/colegiado/2002/col-20020319-d09.md |
-| art. 21 | decisao-colegiado | RJ2001/8341 | 2002-03-19 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização para agente autônomo de investimento e concedeu a autorização, seguindo precedente de 27/02/2002 que admitiu a prova de vínculo empregatício com corretora nos termos da Instrução CVM 352/01 (revogada). | ../../../../../julgados/cvm/colegiado/2002/col-20020319-d11.md |
-| art. 21 | decisao-colegiado | RJ2001/12804 | 2002-03-19 | provido | intermediacao | O Colegiado acompanhou o voto da diretora-relatora e proveu recurso contra decisão da SMI que negara autorização para atuar como agente autônomo de investimento vinculado a corretora. Fundamento: precedente de 27.02.2002, que aceitou a prova de vínculo trabalhista como alternativa ao contrato de intermediação (art. 21 da Instrução CVM 352/2001). Documentos comprovaram vínculo desde 16.04.1999. | ../../../../../julgados/cvm/colegiado/2002/col-20020319-d12.md |
-| art. 21 | decisao-colegiado | RJ2001/11996 | 2002-03-28 | provido | intermediacao | O Colegiado deu provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Aplicou entendimento de 27/02/2002, dado a outro recorrente em situação semelhante, sobre substituir o contrato de intermediação por vínculo trabalhista (IN CVM 352/01, art. 21). | ../../../../../julgados/cvm/colegiado/2002/col-20020328-d03.md |
-| art. 21 | decisao-colegiado | RJ2002/3227 | 2004-06-24 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização para o exercício da atividade de agente autônomo de investimento, acompanhando o voto do relator. | ../../../../../julgados/cvm/colegiado/2004/col-20040624-d09.md |
-| art. 21 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | intermediacao | O Colegiado manteve a decisão anterior no Processo RJ2002/3227 e uniformizou o entendimento, a pedido da SMI, no sentido de que as pessoas registradas no RGA em 1º de junho de 2001 devem comprovar credenciamento como agente autônomo, mediante contrato válido com corretora (art. 21, III, da Instrução CVM 355/01). | ../../../../../julgados/cvm/colegiado/2005/col-20050408-d02.md |
-| art. 21 | decisao-colegiado | RJ2012/10733 | 2012-12-11 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso contra o indeferimento pela SMI de pedido de autorização para agente autônomo de investimento, por falta de comprovação da conclusão do ensino médio (art. 7º, I, da Instrução CVM 497/2011), acompanhando o voto do relator. | ../../../../../julgados/cvm/colegiado/2012/col-20121211-d42.md |
-| art. 21, inciso I | decisao-colegiado | RJ2004/6577 | 2005-04-19 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso contra decisão da SMI que negou autorização para agente autônomo de investimento. Fundamento: o registro no RGA não basta, e o recorrente não preencheu os requisitos das disposições transitórias das Instruções CVM 352/01 e 355/01 para dispensa de ensino médio e de exame técnico. | ../../../../../julgados/cvm/colegiado/2005/col-20050419-d05.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 21 | decisao-colegiado | RJ2001/11993 | 2002-02-27 | provido | cvm-col-20020227-d02 | fichas/colegiado/2002-03.md |
+| art. 21 | decisao-colegiado | RJ2001/11513 | 2002-03-19 | provido | cvm-col-20020319-d06 | fichas/colegiado/2002-05.md |
+| art. 21 | decisao-colegiado | RJ2001/12086 | 2002-03-19 | provido | cvm-col-20020319-d07 | fichas/colegiado/2002-05.md |
+| art. 21 | decisao-colegiado | RJ2001/11397 | 2002-03-19 | provido | cvm-col-20020319-d09 | fichas/colegiado/2002-05.md |
+| art. 21 | decisao-colegiado | RJ2001/8341 | 2002-03-19 | provido | cvm-col-20020319-d11 | fichas/colegiado/2002-05.md |
+| art. 21 | decisao-colegiado | RJ2001/12804 | 2002-03-19 | provido | cvm-col-20020319-d12 | fichas/colegiado/2002-05.md |
+| art. 21 | decisao-colegiado | RJ2001/11996 | 2002-03-28 | provido | cvm-col-20020328-d03 | fichas/colegiado/2002-06.md |
+| art. 21 | decisao-colegiado | RJ2002/3227 | 2004-06-24 | nao-provido | cvm-col-20040624-d09 | fichas/colegiado/2004-07.md |
+| art. 21 | decisao-colegiado | RJ2002/3227 | 2005-04-08 | nao-provido | cvm-col-20050408-d02 | fichas/colegiado/2005-06.md |
+| art. 21 | decisao-colegiado | RJ2012/10733 | 2012-12-11 | nao-provido | cvm-col-20121211-d42 | fichas/colegiado/2012-24.md |
+| art. 21, inciso I | decisao-colegiado | RJ2004/6577 | 2005-04-19 | nao-provido | cvm-col-20050419-d05 | fichas/colegiado/2005-07.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS - Mercado de valores mobiliários – Contratação de pessoas não autorizadas a intermediar valores mobiliários – Intermediação de valores mobiliários sem autorização da entidade supervisora. | ../../../../../julgados/crsfn/2016/11957.md |
-| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Contratação de pessoas não autorizadas a intermediar valores mobiliários – Intermediação de valores mobiliários sem autorização da entidade supervisora – Irregularidades caracterizadas – Apelos voluntários providos, exceto de dois dos recorrentes (desprovidos) – Intempestividade de um dos apelos (recurso não conhecido). | ../../../../../julgados/crsfn/2016/10372-000585-2016-69.md |
-| acordao-crsfn | SP-2005/0338 | 2014-02-18 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO - Mercado de valores mobiliários – - Uso de práticas não equitativas – Exercício da atividade de agente autônomo de investimento por pessoa não autorizada pela entidade supervisora - Irregularidades não caracterizadas – Recurso de ofício improvido – Arquivamento confirmado. | ../../../../../julgados/crsfn/2014/12569.md |
-| pas | RJ2009/3823 | 2009-12-15 | condenacao | administracao-carteiras | Administração de Bens e Valores Ltda. Exercício da atividade de administração de carteira de valores mobiliários sem a prévia autorização da CVM. Multas. (Retificada no DOU de 12.02.10) | ../../../../../julgados/cvm/pas/2009/rj2009-3823.md |
-| pas | RJ2007/4697 | 2009-07-28 | condenacao | exercicio-irregular | MAJOREM ENGENHARIA FINANCEIRA LTDA. Administração de carteira de valores mobiliários sem a prévia autorização da CVM. Advertência. | ../../../../../julgados/cvm/pas/2009/rj2007-4697.md |
-| pas | SP2004/0193 | 2007-09-04 | condenacao | exercicio-irregular | Contratar pessoas não autorizadas a intermediar valores mobiliários, em infração ao disposto no art. 16 da Lei nº 6.385/76, o que é considerado infração grave pela Instrução CVM nº 348/01. Multas. - Intermediar valores mobiliários sem estar autorizado, em infração ao disposto no art. 16 da Lei nº 6.385/76, regulamentado pela Instrução CVM nº 355/01, o que é considerado infração grave pelo art. 18 da mesma Instrução. Multas. | ../../../../../julgados/cvm/pas/2007/sp2004-0193.md |
-| decisao-colegiado | RJ2007/7034 | 2007-08-07 | nao-provido | intermediacao | O Colegiado negou provimento a recurso de pessoa física contra decisão da SMI que indeferiu seu registro como agente autônomo de investimento por falta de comprovação do ensino médio (art. 5º da Instrução 434/06), mantendo a decisão recorrida. Fundamento do relator: a letra estrita da norma não admite exceção, mesmo havendo particularidades no caso. | ../../../../../julgados/cvm/colegiado/2007/col-20070807-d07.md |
-| decisao-colegiado | RJ2007/5903 | 2007-08-07 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que indeferiu registro de agente autônomo de investimento por falta de comprovação de escolaridade (Instrução 355/01, art. 5º, II). Não cabe exceção: o requerente não comprovou o requisito substitutivo no prazo e alegou perda de documentos e motivos de saúde. | ../../../../../julgados/cvm/colegiado/2007/col-20070807-d05.md |
-| pas | SP2005/0338 | 2007-07-03 | absolvicao | intermediacao | Preterimento na distribuição de negócios, no sentido de terem sido atribuídos os melhores preços para a empresa Ações e Opções Agentes de Investimentos Ltda. em detrimento de um investidor. Absolvições. | ../../../../../julgados/cvm/pas/2007/sp2005-0338.md |
-| decisao-colegiado | RJ2006/7510 | 2006-12-05 | nao-provido | intermediacao | O Colegiado negou provimento a recurso e manteve a decisão da SMI que indeferiu autorização para agente autônomo, por falta de aprovação em exame técnico e de requisitos do art. 21, II, da Instrução 355/01. Segundo o relator, precedentes do Colegiado rejeitam o argumento de direito adquirido. | ../../../../../julgados/cvm/colegiado/2006/col-20061205-d18.md |
-| termo-compromisso | SP2005/0338 | 2006-06-06 | rejeitado | outros | O Colegiado acompanhou o Comitê e rejeitou proposta de Termo de Compromisso da Egemp Gestão Patrimonial Ltda. (atual Égide CTVM Ltda.) e de pessoa física. Fundamento: a proposta não atende ao inciso II do §5º do art. 11 da Lei 6.385/76, por não prever recomposição de danos difusos à credibilidade do mercado e do regulador. | ../../../../../julgados/cvm/colegiado/2006/col-20060606-d01.md |
-| pas | SP2004/0693 | 2006-02-20 | condenacao | exercicio-irregular | Somente Corretores e Agentes Autônomos com registro na CVM poderão exercer as atividades de mediação e corretagem de valores mobiliários, dentro e fora de bolsa. Caracterização de exercício de atividade de mediação ou corretagem irregular de operações com valores mobiliários, em infração ao artigo 16, III, e parágrafo único da Lei nº 6.385/76 e ao parágrafo único do art. 3º da Instrução CVM nº 355/01. Multa. | ../../../../../julgados/cvm/pas/2006/sp2004-0693.md |
-| decisao-colegiado | RJ2002/1965 | 2005-05-16 | nao-provido | processual | Pedido de reconsideração em processo de fundo de garantia. Proc. RJ2002/1965. | ../../../../../julgados/cvm/colegiado/2005/col-20050516-d03.md |
-| decisao-colegiado | RJ2004/4717 | 2005-04-12 | nao-provido | intermediacao | O Colegiado rejeitou pedido de reconsideração da decisão de 16.04.02 que negou autorização para o exercício de agente autônomo à requerente, por seu nome não constar da lista do RGA encaminhada à CVM. A requerente deve submeter-se ao exame de certificação. | ../../../../../julgados/cvm/colegiado/2005/col-20050412-d04.md |
-| pas | RJ2001/8363 | 2005-03-28 | parcial | intermediacao | ESTRATÉGIA INVESTIMENTOS S/A CVC E OUTROS (RIOPART / RIOINVEST) 1) Mediação de valores mobiliários fora de bolsa, por pessoas não integrantes do sistema de distribuição de valores previsto no art. 15 da Lei nº 6.385/76, em infração ao § único do art. 16 dessa lei. Multas. 2) Utilização de operações fraudulentas. Infração ao disposto no inciso I, conforme conceituada na alínea c, do inciso II da Instrução CVM nº 08/79. Multa. 3) Realização de negócios com carteira própria da corretora no mercado de balcão não-organizado, com ações somente admitidas à negociação em bolsas de valores. Infração ao item I da Deliberação CVM nº 20/85, bem como ao item IV da Resolução CMN nº 436/77, mantido pelo art. 36 da Resolução CMN nº 1.656/89. Multas. Não envio à CVM de informações sobre esse negócios. Infração ao art. 3º, o que caracteriza infração grave para o disposto no art. 5º, ambos da Instrução CVM nº 42/85. Multas. 5) Não identificação da origem dos depósitos em conta-corrente de cliente, em infração ao art. 10 da Instrução CVM nº 220/94, e existência de saldo devedor da mesma conta, sem respaldo do competente contrato de financiamento, em infração ao inciso I do art. 12 da Resolução CMN nº 1.655/89. Multas.5) Transferência de ações de clientes de sociedade corretora para a carteira própria da corretora e entre clientes da corretora, sem autorização formal do cedente. Infração ao art. 11, "caput", inciso III da Resolução CMN nº 1.656/89. Multas e Absolvições. 6) Uso de prática não-eqüitativa no mercado de valores mobiliários. Infração ao disposto no inciso I, conforme conceituada na alínea d, do inciso II da Instrução CVM nº 08/79. Absolvições. 7) Negociação no mercado de balcão não-organizado, de valores mobiliários somente admitidos à negociação em bolsas de valores. Infração ao art. 36 da Resolução CMN nº 1.656/89. Absolvições. 8) Co-responsabilidade pela transferência de titularidade de ações por pessoa sem autorização formal do cedente. Imputação prejudicada tendo em vista que o disposto no art. 11, inciso III da Resolução CMN nº 1.655/89 destina-se explicitamente às bolsas de valores. Absolvições. 9) Imputação à sociedade corretora e seu diretor de infração ao dever de manter conduta de probidade, como ditado pelo inciso I do art. 1º da Instrução CVM nº 220/94. Acusação afastada por dirigir-se tal diploma legal às bolsas de valores. Absolvições. 10) Liquidação financeira de operações feitas por meio de cheques destinados à terceiros, que não o titular das ações ou seu procurador. Infração ao art. 16, § 1º da Lei nº 9.311/96. Absolvições. | ../../../../../julgados/cvm/pas/2005/rj2001-8363.md |
-| pas | SP2003/0445 | 2005-03-21 | parcial | intermediacao | Contratação de pessoas não autorizadas pela CVM para a atividade de intermediação de negócios envolvendo valores mobiliários, em infração ao artigo 16 da Lei nº 6.385/76, considerado infração grave pela Instrução CVM nº 348/01. Multa. - Atuação de sociedade corretora em desacordo com as suas próprias Regras e Parâmetros de Atuação, contrariando o disposto no art. 2º da Instrução CVM nº 220/94, e não manutenção de registros contábeis completos da movimentação financeira de seus clientes, em infração ao art. 10 da Instrução CVM nº 220/94. Multa. - Atuação não diligente de sociedade corretora, dando margem à ocorrência de fraudes que prejudicaram seus clientes, o que constitui infração ao art. 5º da Instrução CVM nº 220/94. Multa. Realização de operação fraudulenta, vedada pelo inciso I, conforme conceituado na alínea “c” do inciso II da Instrução CVM nº 08/79. Multa e Absolvição. - Constituição, por agentes autônomos de investimento, de sociedade para a realização de atividades por eles desempenhadas, prática vedada pela letra “d” da Resolução CMN nº 238/72, em vigor à época dos fatos. Multa. - Exercício da atividade de agente autônomo de investimento sem o competente registro para tal, o que constitui infração ao art. 16 da Lei nº 6.385/76, considerado falta grave nos termos do art. 18 da Instrução CVM nº 355/01. Multa. | ../../../../../julgados/cvm/pas/2005/sp2003-0445.md |
-| decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2003/0463. | ../../../../../julgados/cvm/colegiado/2005/col-20050125-d04.md |
-| decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | intermediacao | O Colegiado negou provimento ao recurso e manteve decisão da SMI que negou autorização para exercer a atividade de agente autônomo de investimento. Fundamento: a interessada não estava registrada no RGA em 01.06.2001, requisito do art. 21 da IN CVM 355/2001 para permanência na atividade. Acompanhou o voto da relatora. | ../../../../../julgados/cvm/colegiado/2002/col-20020416-d05.md |
-| decisao-colegiado | RJ2001/12016 | 2002-04-10 | nao-provido | intermediacao | O Colegiado negou provimento a recurso contra decisão da SMI que negou autorização de agente autônomo, acompanhando o relator. Para dispensa do exame de certificação exige-se registro efetivo no RGA em 1º/6/2001, requisito que o recorrente não comprovou. | ../../../../../julgados/cvm/colegiado/2002/col-20020410-d09.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-11957 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP2004/193 | 2016-02-23 | parcial | crsfn-10372-000585-2016-69 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | SP-2005/0338 | 2014-02-18 | absolvicao | crsfn-12569 | fichas/crsfn/2014-01.md |
+| pas | RJ2009/3823 | 2009-12-15 | condenacao | cvm-pas-rj2009-3823 | fichas/pas/2009-06.md |
+| pas | RJ2007/4697 | 2009-07-28 | condenacao | cvm-pas-rj2007-4697 | fichas/pas/2009-03.md |
+| pas | SP2004/0193 | 2007-09-04 | condenacao | cvm-pas-sp2004-0193 | fichas/pas/2007-06.md |
+| decisao-colegiado | RJ2007/7034 | 2007-08-07 | nao-provido | cvm-col-20070807-d07 | fichas/colegiado/2007-14.md |
+| decisao-colegiado | RJ2007/5903 | 2007-08-07 | nao-provido | cvm-col-20070807-d05 | fichas/colegiado/2007-14.md |
+| pas | SP2005/0338 | 2007-07-03 | absolvicao | cvm-pas-sp2005-0338 | fichas/pas/2007-04.md |
+| decisao-colegiado | RJ2006/7510 | 2006-12-05 | nao-provido | cvm-col-20061205-d18 | fichas/colegiado/2006-19.md |
+| termo-compromisso | SP2005/0338 | 2006-06-06 | rejeitado | cvm-col-20060606-d01 | fichas/tc/2006-03.md |
+| pas | SP2004/0693 | 2006-02-20 | condenacao | cvm-pas-sp2004-0693 | fichas/pas/2006-02.md |
+| decisao-colegiado | RJ2002/1965 | 2005-05-16 | nao-provido | cvm-col-20050516-d03 | fichas/colegiado/2005-08.md |
+| decisao-colegiado | RJ2004/4717 | 2005-04-12 | nao-provido | cvm-col-20050412-d04 | fichas/colegiado/2005-06.md |
+| pas | RJ2001/8363 | 2005-03-28 | parcial | cvm-pas-rj2001-8363 | fichas/pas/2005-02.md |
+| pas | SP2003/0445 | 2005-03-21 | parcial | cvm-pas-sp2003-0445 | fichas/pas/2005-02.md |
+| decisao-colegiado | SP2003/0463 | 2005-01-25 | parcial | cvm-col-20050125-d04 | fichas/colegiado/2005-02.md |
+| decisao-colegiado | RJ2002/1342 | 2002-04-16 | nao-provido | cvm-col-20020416-d05 | fichas/colegiado/2002-08.md |
+| decisao-colegiado | RJ2001/12016 | 2002-04-10 | nao-provido | cvm-col-20020410-d09 | fichas/colegiado/2002-08.md |
 
 Fim do subíndice.

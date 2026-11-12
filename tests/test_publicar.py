@@ -93,6 +93,48 @@ class TestHash(Base):
         self.assertNotEqual(pub.hash_plugin(pasta), h)
 
 
+    def test_hash_cobre_as_fichas_da_skill(self):
+        pasta = self.p("plugins", "normas")
+        h = pub.hash_plugin(pasta)
+        _gravar(os.path.join(self.skill, "julgados", "fichas", "pas", "2026.md"), "## cvm-pas-1\n")
+        self.assertNotEqual(pub.hash_plugin(pasta), h)
+
+
+class TestRodarIndice(Base):
+    def test_roda_fichas_e_depois_indice_na_raiz(self):
+        chamadas = []
+
+        def run(cmd, **kw):
+            chamadas.append((os.path.basename(cmd[1]), kw.get("cwd")))
+            return mock.Mock(returncode=0, stdout="", stderr="")
+
+        with mock.patch.object(pub.subprocess, "run", side_effect=run):
+            pub.rodar_indice(self.raiz)
+        self.assertEqual(chamadas, [("fichas.py", self.raiz), ("indice.py", self.raiz)])
+
+    def test_falha_do_fichas_para_antes_do_indice(self):
+        chamadas = []
+
+        def run(cmd, **kw):
+            chamadas.append(os.path.basename(cmd[1]))
+            return mock.Mock(returncode=1, stdout="", stderr="entrada sem id")
+
+        with mock.patch.object(pub.subprocess, "run", side_effect=run):
+            with self.assertRaises(RuntimeError) as e:
+                pub.rodar_indice(self.raiz)
+        self.assertIn("fichas.py rc 1", str(e.exception))
+        self.assertEqual(chamadas, ["fichas.py"])
+
+    def test_falha_do_indice_e_acusada(self):
+        def run(cmd, **kw):
+            return mock.Mock(returncode=2 if cmd[1].endswith("indice.py") else 0, stdout="", stderr="x")
+
+        with mock.patch.object(pub.subprocess, "run", side_effect=run):
+            with self.assertRaises(RuntimeError) as e:
+                pub.rodar_indice(self.raiz)
+        self.assertIn("indice.py rc 2", str(e.exception))
+
+
 class TestPublicar(Base):
     def test_sem_mudanca_nao_sobe_mas_grava_conferido(self):
         self.assertEqual(self.publicar(), [])

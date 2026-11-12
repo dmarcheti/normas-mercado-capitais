@@ -3,7 +3,7 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0080.md](../../normas/cvm/resolucoes/0080.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
@@ -25,699 +25,699 @@ Anexo I, art. 1º (667); Anexo I, art. 2º (673); Citada sem dispositivo identif
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º, § 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º, § 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 3º | pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade do Diretor de Relações com Investidores da Inepar S.A. Ind e Construções - Em Recuperação Judicial, por ter deixado de se manifestar, de forma imediata, após o vazamento de informação relevante . Multa | ../../../../../julgados/cvm/pas/2024/19957-001695-2023-71.md |
-| art. 3º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 3º, § 1º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 3º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 3º | pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | cvm-pas-19957-001695-2023-71 | fichas/pas/2024-11.md |
+| art. 3º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 3º, § 1º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 3º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 5º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 5º, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 5º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 5º, § 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 5º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 5º, § 4º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 5º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 5º, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 5º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 5º, § 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 5º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 5º, § 4º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 6º, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 6º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 6º, § 3º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 6º, § 4º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 6º, § 6º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 6º, § 8º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 6º, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 6º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 6º, § 3º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 6º, § 4º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 6º, § 6º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 6º, § 8º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º, inciso II | decisao-colegiado | 19957.003470/2025-11 | 2025-04-22 | indeferido | assembleia-acionistas | O Colegiado indeferiu, por unanimidade, o pedido de adiamento, por até 30 dias, da AGO da Tupy marcada para 30.04.2025, acompanhando a SEP, que não viu comprovada insuficiência de informações para a eleição do conselho fiscal. | ../../../../../julgados/cvm/colegiado/2025/col-20250422-d3264.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º, inciso II | decisao-colegiado | 19957.003470/2025-11 | 2025-04-22 | indeferido | cvm-col-20250422-d3264 | fichas/colegiado/2025-04.md |
 
 ## art. 7º-B
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º-B | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º-B | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001811-2025-13.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | registro-emissor | O Colegiado concedeu dispensa do art. 51 da Resolução CVM nº 80/2022 ao pedido de cancelamento do registro de companhia aberta categoria B da Polo Securitizadora, mantido o registro de securitizadora S1, com base nas conclusões da área técnica. Propôs medidas para companhias em situação semelhante. | ../../../../../julgados/cvm/colegiado/2022/col-20220906-d2681.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13 | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | cvm-col-20220906-d2681 | fichas/colegiado/2022-13.md |
 
 ## art. 14
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14 | acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO DE INFORMAÇÕES PERIÓDICAS. Apuração da responsabilidade do administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores. Infrações caracterizadas. Dosimetria das penas adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/10372-000134-2024-31.md |
-| art. 14 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 14 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 14 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 14 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 14 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14 | acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | crsfn-10372-000134-2024-31 | fichas/crsfn/2025-01.md |
+| art. 14 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 14 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 14 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 14 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 14 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | divulgacao-informacoes | Recurso contra entendimento da SEP. Proc. 19957.002655/2023-46. | ../../../../../julgados/cvm/colegiado/2023/col-20231121-d2961.md |
-| art. 15 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretora de RI da Sendas Distribuidora S.A. (Assaí), por suposta divulgação de informação que induziria investidores a erro (art. 15 da RCVM 80/2021). Valor: R$ 340.000,00 em parcela única, após contraproposta do Comitê (inicial: R$ 300.000,00). | ../../../../../julgados/cvm/colegiado/2024/col-20240123-d3002.md |
-| art. 15 | decisao-colegiado | 19957.000578/2024-71 | 2024-02-05 | indeferido | assembleia-acionistas | Não interrompeu o prazo de convocação da AGE da Gafisa, marcada para 07.02.2024, acompanhando a SEP. Considerou ilegal o item iv da ordem do dia (ação de responsabilidade contra acionistas sem apuração de prejuízo; arts. 133 e 135 da LSA). A AGE pode ocorrer se o item for retirado de pauta; companhia será informada (art. 124, §5º, II, LSA). | ../../../../../julgados/cvm/colegiado/2024/col-20240205-d3018.md |
-| art. 15 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 15 | termo-compromisso | 19957.008286/2023-03 | 2024-08-27 | aceito | divulgacao-informacoes | O Colegiado aceitou propostas de termo de compromisso do acionista controlador da Sendas Distribuidora S.A. (R$ 470.000,00) e de sua diretora de relações com investidores (R$ 564.000,00), por falhas na comunicação de informação relevante (RCVM 44). Acompanhou o parecer do Comitê, que elevou as propostas iniciais de R$ 200.000,00 e R$ 480.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240827-d3125.md |
-| art. 15 | decisao-colegiado | 19957.003980/2023-26 | 2024-10-08 | indeferido | processual | O Colegiado indeferiu, por unanimidade e acompanhando o voto do diretor relator, pedido de produção de provas em PAS sobre o regime informacional da Americanas. Foram rejeitados pedidos de prova testemunhal, de ofício à Polícia Federal e de ofício à companhia, por eficiência e duração razoável do processo, por não guardarem relação com a imputação. | ../../../../../julgados/cvm/colegiado/2024/col-20241008-d3021.md |
-| art. 15 | termo-compromisso | 19957.015165/2023-18 | 2024-10-08 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso de um diretor de relações com investidores de companhia aberta, por recusar pedido de voto múltiplo em boletim de voto a distância (art. 15 da RCVM 80), no valor de R$ 330.000,00, contraproposta do Comitê que o proponente aceitou. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241008-d3143.md |
-| art. 15 | termo-compromisso | 19957.015051/2023-60 | 2025-02-04 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso de R$ 420.000,00 da diretora de RI da Oi S.A. – Em Recuperação Judicial, por suposta omissão de informações em fato relevante, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3219.md |
-| art. 15 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 15 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 15 | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | assembleia-acionistas | O Colegiado rejeitou propostas de termo de compromisso de dois proponentes ligados à Fertilizantes Heringer S.A., de R$ 280.000,00 e R$ 732.000,00, relativas a apuração de votos em AGO e divulgação de informações, por ausência de conveniência e oportunidade, após o Comitê propor aprimoramento. | ../../../../../julgados/cvm/colegiado/2025/col-20250401-d3241.md |
-| art. 15 | termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | divulgacao-informacoes | O Colegiado, por maioria, aceitou proposta de termo de compromisso de R$ 330.000,00 do diretor de RI da Raízen S.A., por suposta informação inconsistente em comunicado ao mercado sobre planta de etanol de segunda geração, acompanhando o Comitê. Houve um voto vencido. | ../../../../../julgados/cvm/colegiado/2025/col-20250408-d3253.md |
-| art. 15 | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, deferiu o adiamento da AGE da BRF convocada para 18.06.2025, na incorporação pela Marfrig, por 21 dias contados da disponibilização de informações sobre o preço base da relação de troca, nos termos do art. 9º da Resolução CVM 81/2022. | ../../../../../julgados/cvm/colegiado/2025/col-20250616-d3297.md |
-| art. 15 | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A., acompanhando o parecer do Comitê. Acusação: não divulgação de fato relevante, ata de RCA incompleta e formulário de referência omisso quanto a risco de alteração de controle. Comitê apontou gravidade em tese. | ../../../../../julgados/cvm/colegiado/2025/col-20250624-d3299.md |
-| art. 15 | termo-compromisso | 19957.006380/2023-10 | 2025-10-14 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por atuação intempestiva na busca de informações junto a acionista diante de oscilações atípicas (RCVM 44, art. 4º, parágrafo único), acompanhando o Comitê, que aprimorou a proposta para R$ 719.100,00 (inicial: R$ 564.000,00). | ../../../../../julgados/cvm/colegiado/2025/col-20251014-d3401.md |
-| art. 15 | termo-compromisso | 19957.001169/2025-72 | 2025-11-04 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, aceitou proposta de termo de compromisso de R$ 470.000,00 do DRI da Companhia Brasileira de Distribuição por suposta falta de divulgação tempestiva de fato relevante após oscilações atípicas em 05.12.2023, acompanhando o Comitê, que elevou a proposta inicial de R$ 300.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20251104-d3410.md |
-| art. 15 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de dois diretores da Braskem, nos termos ajustados pelo Comitê: R$ 510.000,00 e R$ 255.000,00, respectivamente, em parcela única, por divulgação intempestiva de fato relevante e declarações em teleconferência (RCVM 44 e RCVM 80). | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3553.md |
-| art. 15 | pas | 19957.003980/2023-26 | 2024-12-03 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de ex-diretores da Americanas S.A. (i) por expor informação relevante ainda não divulgada previamente pela companhia da forma prevista na regulamentação; (ii) por divulgar informação de maneira incompleta e inconsistente; e (ii) por não divulgar, tempestivamente, novo fatos relevante. Multa e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-003980-2023-26.md |
-| art. 15 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 15 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
+| art. 15 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | cvm-col-20240123-d3002 | fichas/tc/2024-01.md |
+| art. 15 | decisao-colegiado | 19957.000578/2024-71 | 2024-02-05 | indeferido | cvm-col-20240205-d3018 | fichas/colegiado/2024-02.md |
+| art. 15 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 15 | termo-compromisso | 19957.008286/2023-03 | 2024-08-27 | aceito | cvm-col-20240827-d3125 | fichas/tc/2024-05.md |
+| art. 15 | decisao-colegiado | 19957.003980/2023-26 | 2024-10-08 | indeferido | cvm-col-20241008-d3021 | fichas/colegiado/2024-11.md |
+| art. 15 | termo-compromisso | 19957.015165/2023-18 | 2024-10-08 | aceito | cvm-col-20241008-d3143 | fichas/tc/2024-05.md |
+| art. 15 | termo-compromisso | 19957.015051/2023-60 | 2025-02-04 | aceito | cvm-col-20250204-d3219 | fichas/tc/2025-01.md |
+| art. 15 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 15 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 15 | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
+| art. 15 | termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
+| art. 15 | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | cvm-col-20250616-d3297 | fichas/colegiado/2025-05.md |
+| art. 15 | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
+| art. 15 | termo-compromisso | 19957.006380/2023-10 | 2025-10-14 | aceito | cvm-col-20251014-d3401 | fichas/tc/2025-05.md |
+| art. 15 | termo-compromisso | 19957.001169/2025-72 | 2025-11-04 | aceito | cvm-col-20251104-d3410 | fichas/tc/2025-05.md |
+| art. 15 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
+| art. 15 | pas | 19957.003980/2023-26 | 2024-12-03 | parcial | cvm-pas-19957-003980-2023-26 | fichas/pas/2024-10.md |
+| art. 15 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 15 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 16 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 16 | termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | divulgacao-informacoes | O Colegiado, por maioria, aceitou proposta de termo de compromisso de R$ 330.000,00 do diretor de RI da Raízen S.A., por suposta informação inconsistente em comunicado ao mercado sobre planta de etanol de segunda geração, acompanhando o Comitê. Houve um voto vencido. | ../../../../../julgados/cvm/colegiado/2025/col-20250408-d3253.md |
-| art. 16 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de dois diretores da Braskem, nos termos ajustados pelo Comitê: R$ 510.000,00 e R$ 255.000,00, respectivamente, em parcela única, por divulgação intempestiva de fato relevante e declarações em teleconferência (RCVM 44 e RCVM 80). | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3553.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 16 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 16 | termo-compromisso | 19957.008609/2024-31 | 2025-04-08 | aceito | cvm-col-20250408-d3253 | fichas/tc/2025-02.md |
+| art. 16 | termo-compromisso | 19957.009587/2025-16 | 2026-06-23 | aceito | cvm-col-20260623-d3553 | fichas/tc/2026-02.md |
 
 ## art. 17
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta de termo de compromisso de diretora de RI da Sendas Distribuidora S.A. (Assaí), por suposta divulgação de informação que induziria investidores a erro (art. 15 da RCVM 80/2021). Valor: R$ 340.000,00 em parcela única, após contraproposta do Comitê (inicial: R$ 300.000,00). | ../../../../../julgados/cvm/colegiado/2024/col-20240123-d3002.md |
-| art. 17 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 17 | termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | divulgacao-informacoes | O Colegiado aceitou, acompanhando o Comitê, a proposta global de termo de compromisso do diretor de relações com investidores da Vale S.A., aprimorada pelo Comitê para R$ 709.700,00 (R$ 470.000,00 no PAS e R$ 239.700,00 em dois processos). Imputações da SEP: não divulgação tempestiva de fato relevante e divulgação de comunicado só no site da companhia. | ../../../../../julgados/cvm/colegiado/2024/col-20241029-d3144.md |
-| art. 17 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 17 | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 17 | termo-compromisso | 19957.009202/2023-41 | 2024-01-23 | aceito | cvm-col-20240123-d3002 | fichas/tc/2024-01.md |
+| art. 17 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 17 | termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | cvm-col-20241029-d3144 | fichas/tc/2024-06.md |
+| art. 17 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 17 | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 18 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 18 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 19 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 19 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
 
 ## art. 20
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso de dois proponentes, diretores de RI da Americanas S.A. em Recuperação Judicial (R$ 1.280.000,00 e R$ 600.000,00, em última proposta), acompanhando o Comitê, por falta de conveniência e oportunidade. | ../../../../../julgados/cvm/colegiado/2024/col-20240326-d3021.md |
-| art. 20 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20 | termo-compromisso | 19957.003980/2023-26 | 2024-03-26 | rejeitado | cvm-col-20240326-d3021 | fichas/tc/2024-01.md |
+| art. 20 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
 
 ## art. 21
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21 | termo-compromisso | 19957.000589/2022-99; 19957.010955/2022-18 | 2023-01-10 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, acompanhando o Comitê, proposta global de termo de compromisso de R$ 1.225.000,00, em parcela única, para encerrar PAS e PA sobre fato relevante da CSN divulgado de forma intempestiva. O Comitê considerou a recorrência e três Ofícios de Alerta sobre o mesmo tema. | ../../../../../julgados/cvm/colegiado/2023/col-20230110-d2749.md |
-| art. 21 | termo-compromisso | 19957.000589/2022-99; 19957.003084/2023-67; 19957.012448/2023-08; 19957.015357/2022-35 | 2024-04-02 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta global de termo de compromisso do proponente, de R$ 3.202.200,00 em parcela única, para encerrar quatro processos sobre divulgação de fato relevante e de projeções financeiras, com arquivamento após o pagamento. | ../../../../../julgados/cvm/colegiado/2024/col-20240402-d2749-3044.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 21 | termo-compromisso | 19957.000589/2022-99; 19957.010955/2022-18 | 2023-01-10 | rejeitado | cvm-col-20230110-d2749 | fichas/tc/2023-01.md |
+| art. 21 | termo-compromisso | 19957.000589/2022-99; 19957.003084/2023-67; 19957.012448/2023-08; 19957.015357/2022-35 | 2024-04-02 | aceito | cvm-col-20240402-d2749-3044 | fichas/tc/2024-02.md |
 
 ## art. 22
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 22 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 22 | termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de dois diretores (R$ 150.000,00 cada) em PAS por falta de demonstrações financeiras de 2024 e de ITRs (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80). O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260526-d3543.md |
-| art. 22 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma companhia, em PAS por falta de demonstrações financeiras de 2024 e de ITRs. O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3533.md |
-| art. 22 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. na (i) elaboração e envio de demonstrações financeiras, em infração ao art. 176, caput¸ da Lei nº 6.404/1976 c/c arts. 21, III, e 25, §2º da Instrução CVM n° 480/2009; (ii) elaboração e entrega de formulário de informações trimestrais, em infração ao art. 21, V, c/c art. 29, II, da Instrução CVM n° 480/2009; (iii) convocação de Assembleia Geral Ordinária, em infração aos arts. 142, IV e 132 da Lei nº 6.404/1976 c/c art. 21, VII, da Instrução CVM nº 480/2009; e (iv) recomposição dos cargos de diretor e conselheiro, em infração aos arts. 140 e 143 da Lei nº 6.404/1976. Multas. | ../../../../../julgados/cvm/pas/2023/19957-004286-2022-45.md |
-| art. 22 | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de Diretor de Relações com Investidores da Marfrig Global Foods S.A. por supostas irregularidades na divulgação de Fato Relevante, em infração aos art. 12, §2º, inciso II, da Instrução CVM nº 358/02 e art. 157, § 4º, da Lei 6.404/76 c/c art. 3º e art. 6º, parágrafo único, da Instrução CVM nº 358/02. Multa e advertência. | ../../../../../julgados/cvm/pas/2023/19957-009010-2021-72.md |
-| art. 22 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 22 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 22 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 22 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 22 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
-| art. 22, inciso II | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 22, inciso II | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Capitalpart Participações S.A. por deixarem de (i) elaborar e apresentar as demonstrações financeiras; (ii) diligenciar para realização de assembleias gerais ordinárias; e (iii) enviar informações cadastrais atualizadas, referente ao exercício social findo de 31.12.2019. Multas e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-003793-2021-81.md |
-| art. 22, inciso III | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 22, inciso III | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 22, inciso III | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
-| art. 22, inciso IX | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta conjunta de termo de compromisso de três administradores da Sansuy S.A., no PAS sobre voto em contas próprias na AGO de 2023 e pedidos de convocação de assembleia, por ausência de conveniência e oportunidade. Valor proposto: R$ 350.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20251007-d3383.md |
-| art. 22, inciso IX | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 22, inciso V | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 22, inciso V | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 22, inciso XXXI | decisao-colegiado | 19957.001127/2025-31 | 2025-12-09 | nao-provido | outros | Não fornecimento de lista de acionistas. Proc. 19957.001127/2025-31. | ../../../../../julgados/cvm/colegiado/2025/col-20251209-d3360.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 22 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 22 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 22 | termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
+| art. 22 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| art. 22 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| art. 22 | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
+| art. 22 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 22 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 22 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 22 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 22 | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
+| art. 22, inciso II | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 22, inciso II | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-09.md |
+| art. 22, inciso III | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 22, inciso III | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 22, inciso III | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
+| art. 22, inciso IX | termo-compromisso | 19957.019653/2024-77 | 2025-10-07 | rejeitado | cvm-col-20251007-d3383 | fichas/tc/2025-04.md |
+| art. 22, inciso IX | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 22, inciso V | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 22, inciso V | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 22, inciso XXXI | decisao-colegiado | 19957.001127/2025-31 | 2025-12-09 | nao-provido | cvm-col-20251209-d3360 | fichas/colegiado/2025-12.md |
 
 ## art. 24
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 24 | acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO DE INFORMAÇÕES PERIÓDICAS. Apuração da responsabilidade do administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores. Infrações caracterizadas. Dosimetria das penas adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/10372-000134-2024-31.md |
-| art. 24 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 24 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 24 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | ../../../../../julgados/cvm/pas/2024/19957-001549-2023-45.md |
-| art. 24 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
-| art. 24 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 24, parágrafo único | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 24, parágrafo único | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 24, parágrafo único | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 24, parágrafo único | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 24, parágrafo único | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 24, parágrafo único | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 24 | acordao-crsfn | 19957.012129/2022-11 | 2025-03-12 | condenacao | crsfn-10372-000134-2024-31 | fichas/crsfn/2025-01.md |
+| art. 24 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 24 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 24 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| art. 24 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
+| art. 24 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 24, parágrafo único | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 24, parágrafo único | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 24, parágrafo único | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 24, parágrafo único | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 24, parágrafo único | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 24, parágrafo único | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | divulgacao-informacoes | Recurso contra entendimento da SEP. Proc. 19957.002655/2023-46. | ../../../../../julgados/cvm/colegiado/2023/col-20231121-d2961.md |
-| art. 25 | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A., acompanhando o parecer do Comitê. Acusação: não divulgação de fato relevante, ata de RCA incompleta e formulário de referência omisso quanto a risco de alteração de controle. Comitê apontou gravidade em tese. | ../../../../../julgados/cvm/colegiado/2025/col-20250624-d3299.md |
-| art. 25 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 25 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 25, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 25, § 1º | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 25, § 1º | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 25, § 1º | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 25, § 1º | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Capitalpart Participações S.A. por deixarem de (i) elaborar e apresentar as demonstrações financeiras; (ii) diligenciar para realização de assembleias gerais ordinárias; e (iii) enviar informações cadastrais atualizadas, referente ao exercício social findo de 31.12.2019. Multas e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-003793-2021-81.md |
-| art. 25, § 1º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 25, § 1º | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 25, § 3º | termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de R$ 980.000,00 do diretor-presidente e do DRI da Arezzo Indústria e Comércio S.A., nos termos da contraproposta do Comitê (R$ 580.000,00 e R$ 400.000,00, respectivamente). Imputações em tese: divulgação de expectativa de receita sem fato relevante (RCVM 44) e negociação em período vedado. | ../../../../../julgados/cvm/colegiado/2024/col-20240514-d3061.md |
-| art. 25, § 3º | termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta de termo de compromisso de ex-diretora de relações com investidores, em PAS por falhas informacionais (RCVM 80, arts. 25, §3º, e 33, V; RCVM 81, art. 11). O Comitê viu inconveniência: a proponente recusou aprimoramento de R$ 180.000,00 e as condições ficavam distantes de casos semelhantes. | ../../../../../julgados/cvm/colegiado/2026/col-20260203-d3441.md |
-| art. 25, § 3º | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 25, § 3º | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001811-2025-13.md |
-| art. 25, § 3º, inciso I | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001811-2025-13.md |
-| art. 25, § 3º, inciso VIII | termo-compromisso | 19957.018282/2024-14 | 2025-09-02 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta conjunta de termo de compromisso de R$ 660.000,00 (R$ 330.000,00 por proponente) de diretor-presidente e diretora de RI da D1000 Varejo Farma Participações. Caso: projeção operacional vazada na mídia antes de fato relevante (RCVM 44). | ../../../../../julgados/cvm/colegiado/2025/col-20250902-d3336.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
+| art. 25 | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
+| art. 25 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 25 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 25, § 1º | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 25, § 1º | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 25, § 1º | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 25, § 1º | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 25, § 1º | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-09.md |
+| art. 25, § 1º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 25, § 1º | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 25, § 3º | termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | cvm-col-20240514-d3061 | fichas/tc/2024-03.md |
+| art. 25, § 3º | termo-compromisso | 19957.001811/2025-13 | 2026-02-03 | rejeitado | cvm-col-20260203-d3441 | fichas/tc/2026-01.md |
+| art. 25, § 3º | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 25, § 3º | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
+| art. 25, § 3º, inciso I | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
+| art. 25, § 3º, inciso VIII | termo-compromisso | 19957.018282/2024-14 | 2025-09-02 | aceito | cvm-col-20250902-d3336 | fichas/tc/2025-04.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 26, § 3º, inciso I | decisao-colegiado | 19957.003448/2025-71 | 2025-05-20 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso da Eletrobras contra entendimento da SEP sobre a não aplicação do requisito de participação acionária mínima (Anexo N da RCVM 81) na reapresentação do boletim de voto a distância, acompanhando a área técnica. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3279.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 26, § 3º, inciso I | decisao-colegiado | 19957.003448/2025-71 | 2025-05-20 | nao-provido | cvm-col-20250520-d3279 | fichas/colegiado/2025-04.md |
 
 ## art. 27
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 27 | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 27 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 27 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 27 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 27, § 2º | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 27, § 2º | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 27, § 2º | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 27, § 2º | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 27, § 2º | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma companhia, em PAS por falta de demonstrações financeiras de 2024 e de ITRs. O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3533.md |
-| art. 27, § 2º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 27, § 2º | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 27, § 2º | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 27, § 2º | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 27, § 2º | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 27 | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 27 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 27 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 27 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 27, § 2º | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 27, § 2º | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 27, § 2º | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 27, § 2º | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 27, § 2º | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| art. 27, § 2º | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 27, § 2º | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 27, § 2º | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 27, § 2º | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 27, § 2º | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
 
 ## art. 28
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 28 | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 28 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 28 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 28 | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 28 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 28 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
 
 ## art. 29
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| art. 29 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 29 | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| art. 29 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
 
 ## art. 30
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 30 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 30, inciso II | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 30, inciso II | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 30, inciso II | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma companhia, em PAS por falta de demonstrações financeiras de 2024 e de ITRs. O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3533.md |
-| art. 30, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 30, inciso II, alínea a | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 30, inciso II, alínea a | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 30 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 30, inciso II | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 30, inciso II | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 30, inciso II | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| art. 30, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 30, inciso II, alínea a | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 30, inciso II, alínea a | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
 
 ## art. 31
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 31 | decisao-colegiado | 19957.012669/2023-78 | 2023-12-05 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a área técnica, concedeu as dispensas pleiteadas por BBCE, CRT4 e CSDBr do art. 41, III, da RCVM 135/2022 (demonstrações financeiras de administradoras de mercado organizado). Para a BBCE, a base foi o parágrafo único do art. 41 (porte e público do mercado); CRT4 e CSDBr pediram que a exigência valha a partir de 2024. | ../../../../../julgados/cvm/colegiado/2023/col-20231205-d2969.md |
-| art. 31 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 31 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 31 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 31 | termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de dois diretores (R$ 150.000,00 cada) em PAS por falta de demonstrações financeiras de 2024 e de ITRs (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80). O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260526-d3543.md |
-| art. 31 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma companhia, em PAS por falta de demonstrações financeiras de 2024 e de ITRs. O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3533.md |
-| art. 31 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 31 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 31 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
-| art. 31, inciso I | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 31, inciso II | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| art. 31, inciso II | termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | informacao-privilegiada | O Colegiado aceitou proposta conjunta de termo de compromisso da companhia aberta e de seu diretor de RI, acusados de negociar ações da própria emissão em período vedado (RCVM 44, art. 14), no contexto de recompra, após comunicação espontânea. Acompanhou o parecer do Comitê; o Presidente destacou que a autodenúncia deve ser valorizada pela CVM. | ../../../../../julgados/cvm/colegiado/2023/col-20231010-d2942.md |
-| art. 31, inciso II | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 31, inciso II | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 31, inciso II | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 31, inciso II | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 31, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 31, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 31, inciso II | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 31, inciso II | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 31, inciso II | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 31 | decisao-colegiado | 19957.012669/2023-78 | 2023-12-05 | deferido | cvm-col-20231205-d2969 | fichas/colegiado/2023-13.md |
+| art. 31 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 31 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 31 | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 31 | termo-compromisso | 19957.011231/2025-34 | 2026-05-26 | rejeitado | cvm-col-20260526-d3543 | fichas/tc/2026-01.md |
+| art. 31 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| art. 31 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 31 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 31 | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
+| art. 31, inciso I | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 31, inciso II | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| art. 31, inciso II | termo-compromisso | 19957.014436/2022-29 | 2023-10-10 | aceito | cvm-col-20231010-d2942 | fichas/tc/2023-06.md |
+| art. 31, inciso II | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 31, inciso II | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 31, inciso II | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 31, inciso II | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 31, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 31, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 31, inciso II | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 31, inciso II | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 31, inciso II | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
 
 ## art. 33
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 33 | acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. REPRESENTAÇÃO. MERCADO DE CAPITAIS. DIVULGAÇÃO INTEMPESTIVA DE FATO RELEVANTE. Apuração da responsabilidade do diretor de relações com investidores. Falha na curadoria dos fatos relevantes e de sua comunicação para o mercado. Infração caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2025/19957-001695-2023-71.md |
-| art. 33 | decisao-colegiado | 19957.015400/2023-43 | 2024-01-23 | parcial | assembleia-acionistas | O Colegiado, por unanimidade, deferiu parcialmente pedido do agente fiduciário de redução de quórum em assembleia de debenturistas (22ª emissão da Light), por não preenchidos os §§ 5º e 8º do art. 71 da Lei 6.404/1976. Autorizou quórum da maioria dos presentes, com mínimo de 12%, em terceira convocação, se cumpridas as exigências do item 44 do Parecer Técnico. | ../../../../../julgados/cvm/colegiado/2024/col-20240123-d3000.md |
-| art. 33 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. na (i) elaboração e envio de demonstrações financeiras, em infração ao art. 176, caput¸ da Lei nº 6.404/1976 c/c arts. 21, III, e 25, §2º da Instrução CVM n° 480/2009; (ii) elaboração e entrega de formulário de informações trimestrais, em infração ao art. 21, V, c/c art. 29, II, da Instrução CVM n° 480/2009; (iii) convocação de Assembleia Geral Ordinária, em infração aos arts. 142, IV e 132 da Lei nº 6.404/1976 c/c art. 21, VII, da Instrução CVM nº 480/2009; e (iv) recomposição dos cargos de diretor e conselheiro, em infração aos arts. 140 e 143 da Lei nº 6.404/1976. Multas. | ../../../../../julgados/cvm/pas/2023/19957-004286-2022-45.md |
-| art. 33 | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de Diretor de Relações com Investidores da Marfrig Global Foods S.A. por supostas irregularidades na divulgação de Fato Relevante, em infração aos art. 12, §2º, inciso II, da Instrução CVM nº 358/02 e art. 157, § 4º, da Lei 6.404/76 c/c art. 3º e art. 6º, parágrafo único, da Instrução CVM nº 358/02. Multa e advertência. | ../../../../../julgados/cvm/pas/2023/19957-009010-2021-72.md |
-| art. 33 | pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade do Diretor de Relações com Investidores da Inepar S.A. Ind e Construções - Em Recuperação Judicial, por ter deixado de se manifestar, de forma imediata, após o vazamento de informação relevante . Multa | ../../../../../julgados/cvm/pas/2024/19957-001695-2023-71.md |
-| art. 33 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 33 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 33, inciso I | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 33, inciso I | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 33, inciso II | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | assembleia-acionistas | O Colegiado deferiu pedido de acionista e adiou por 21 dias, contados da divulgação de informações, a AGE da Saraiva Livreiros S.A. marcada para 10.01.2023 (Lei 6.404, art. 124, §5º, I). Fundamento: insuficiência de informações sobre eventual parte relacionada no aumento de capital, sem prejuízo das apurações da SEP. | ../../../../../julgados/cvm/colegiado/2023/col-20230104-d2777.md |
-| art. 33, inciso II | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 33, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 33, inciso III | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 33, inciso III | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 33, inciso IV | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 33, inciso IV | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 33, inciso V | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | assembleia-acionistas | O Colegiado deferiu pedido de acionista e adiou por 21 dias, contados da divulgação de informações, a AGE da Saraiva Livreiros S.A. marcada para 10.01.2023 (Lei 6.404, art. 124, §5º, I). Fundamento: insuficiência de informações sobre eventual parte relacionada no aumento de capital, sem prejuízo das apurações da SEP. | ../../../../../julgados/cvm/colegiado/2023/col-20230104-d2777.md |
-| art. 33, inciso V | termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | divulgacao-informacoes | O Colegiado aceitou, acompanhando o Comitê, a proposta global de termo de compromisso do diretor de relações com investidores da Vale S.A., aprimorada pelo Comitê para R$ 709.700,00 (R$ 470.000,00 no PAS e R$ 239.700,00 em dois processos). Imputações da SEP: não divulgação tempestiva de fato relevante e divulgação de comunicado só no site da companhia. | ../../../../../julgados/cvm/colegiado/2024/col-20241029-d3144.md |
-| art. 33, inciso V | termo-compromisso | 19957.015872/2023-04 | 2025-01-21 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou a proposta conjunta de termo de compromisso de dois administradores, no total de R$ 1.170.000,00 (R$ 560.000,00 e R$ 610.000,00). Objeto: não convocação de assembleia geral, atas do CA não divulgadas no prazo e fato relevante não divulgado (art. 33, V, RCVM 80; art. 157, §4º, LSA). | ../../../../../julgados/cvm/colegiado/2025/col-20250121-d3199.md |
-| art. 33, inciso V | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | assembleia-acionistas | O Colegiado rejeitou propostas de termo de compromisso de dois proponentes ligados à Fertilizantes Heringer S.A., de R$ 280.000,00 e R$ 732.000,00, relativas a apuração de votos em AGO e divulgação de informações, por ausência de conveniência e oportunidade, após o Comitê propor aprimoramento. | ../../../../../julgados/cvm/colegiado/2025/col-20250401-d3241.md |
-| art. 33, inciso V | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A., acompanhando o parecer do Comitê. Acusação: não divulgação de fato relevante, ata de RCA incompleta e formulário de referência omisso quanto a risco de alteração de controle. Comitê apontou gravidade em tese. | ../../../../../julgados/cvm/colegiado/2025/col-20250624-d3299.md |
-| art. 33, inciso V | decisao-colegiado | 19957.006296/2026-49 | 2026-04-20 | indeferido | assembleia-acionistas | O Colegiado, por maioria, conheceu e indeferiu pedido de adiamento da AGE do BRB - Banco de Brasília, marcada para 22.04.2026. Pelo voto vencedor, demonstrações de 2025 e ITR não são requisito normativo nem necessários ao aumento de capital. Vencido um diretor, que votou pelo não conhecimento, por intempestividade. | ../../../../../julgados/cvm/colegiado/2026/col-20260420-d3523.md |
-| art. 33, inciso V | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 33, inciso V | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001811-2025-13.md |
-| art. 33, inciso VI | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | assembleia-acionistas | O Colegiado deferiu pedido de acionista e adiou por 21 dias, contados da divulgação de informações, a AGE da Saraiva Livreiros S.A. marcada para 10.01.2023 (Lei 6.404, art. 124, §5º, I). Fundamento: insuficiência de informações sobre eventual parte relacionada no aumento de capital, sem prejuízo das apurações da SEP. | ../../../../../julgados/cvm/colegiado/2023/col-20230104-d2777.md |
-| art. 33, inciso XIV | termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, aceitou proposta conjunta de termo de compromisso de R$ 980.000,00 do diretor-presidente e do DRI da Arezzo Indústria e Comércio S.A., nos termos da contraproposta do Comitê (R$ 580.000,00 e R$ 400.000,00, respectivamente). Imputações em tese: divulgação de expectativa de receita sem fato relevante (RCVM 44) e negociação em período vedado. | ../../../../../julgados/cvm/colegiado/2024/col-20240514-d3061.md |
-| art. 33, inciso XLIII | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
-| art. 33, inciso XVI | termo-compromisso | 19957.000936/2024-45 | 2024-11-26 | aceito | divulgacao-informacoes | O Colegiado aceitou, acompanhando o Comitê, a proposta de termo de compromisso do diretor de relações com investidores da Azul S.A., aprimorada pelo Comitê para R$ 705.000,00 (proposta original: R$ 400.000,00). Imputações da SEP: não divulgação tempestiva de fato relevante (art. 157, §4º, LSA; RCVM 44) e de relatório no Sistema Empresas.Net (art. 33, XVI, RCVM 80/2022). | ../../../../../julgados/cvm/colegiado/2024/col-20241126-d3169.md |
-| art. 33, inciso XXXII | decisao-colegiado | 19957.002266/2023-11 | 2023-06-06 | conhecimento | deveres-administradores | O Colegiado não conheceu, por unanimidade, do recurso do Instituto Ibero-Americano da Empresa contra entendimento da SEP em reclamação sobre contratos de mútuo entre companhia e sua controladora. Acompanhando a área técnica, considerou a decisão recorrida fundamentada e em consonância com o Colegiado (art. 4º, §5º, RCVM 45/2021). | ../../../../../julgados/cvm/colegiado/2023/col-20230606-d2872.md |
-| art. 33, inciso XXXII | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso de R$ 500.000,00 apresentada pela diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A., acompanhando o parecer do Comitê. Acusação: não divulgação de fato relevante, ata de RCA incompleta e formulário de referência omisso quanto a risco de alteração de controle. Comitê apontou gravidade em tese. | ../../../../../julgados/cvm/colegiado/2025/col-20250624-d3299.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 33 | acordao-crsfn | 19957.001695/2023-71 | 2025-07-16 | parcial | crsfn-19957-001695-2023-71 | fichas/crsfn/2025-04.md |
+| art. 33 | decisao-colegiado | 19957.015400/2023-43 | 2024-01-23 | parcial | cvm-col-20240123-d3000 | fichas/colegiado/2024-01.md |
+| art. 33 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| art. 33 | pas | 19957.009010/2021-72 | 2023-08-15 | condenacao | cvm-pas-19957-009010-2021-72 | fichas/pas/2023-05.md |
+| art. 33 | pas | 19957.001695/2023-71 | 2024-12-17 | condenacao | cvm-pas-19957-001695-2023-71 | fichas/pas/2024-11.md |
+| art. 33 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 33 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 33, inciso I | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 33, inciso I | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 33, inciso II | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |
+| art. 33, inciso II | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 33, inciso II | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 33, inciso III | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 33, inciso III | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 33, inciso IV | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 33, inciso IV | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 33, inciso V | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |
+| art. 33, inciso V | termo-compromisso | 19957.000907/2024-83; 19957.000887/2024-41; 19957.001633/2024-40 | 2024-10-29 | aceito | cvm-col-20241029-d3144 | fichas/tc/2024-06.md |
+| art. 33, inciso V | termo-compromisso | 19957.015872/2023-04 | 2025-01-21 | aceito | cvm-col-20250121-d3199 | fichas/tc/2025-01.md |
+| art. 33, inciso V | termo-compromisso | 19957.011363/2024-85 | 2025-04-01 | rejeitado | cvm-col-20250401-d3241 | fichas/tc/2025-02.md |
+| art. 33, inciso V | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
+| art. 33, inciso V | decisao-colegiado | 19957.006296/2026-49 | 2026-04-20 | indeferido | cvm-col-20260420-d3523 | fichas/colegiado/2026-02.md |
+| art. 33, inciso V | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 33, inciso V | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
+| art. 33, inciso VI | decisao-colegiado | 19957.015702/2022-31 | 2023-01-04 | deferido | cvm-col-20230104-d2777 | fichas/colegiado/2023-01.md |
+| art. 33, inciso XIV | termo-compromisso | 19957.007335/2023-82; 19957.014089/2023-15 | 2024-05-14 | aceito | cvm-col-20240514-d3061 | fichas/tc/2024-03.md |
+| art. 33, inciso XLIII | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
+| art. 33, inciso XVI | termo-compromisso | 19957.000936/2024-45 | 2024-11-26 | aceito | cvm-col-20241126-d3169 | fichas/tc/2024-06.md |
+| art. 33, inciso XXXII | decisao-colegiado | 19957.002266/2023-11 | 2023-06-06 | conhecimento | cvm-col-20230606-d2872 | fichas/colegiado/2023-06.md |
+| art. 33, inciso XXXII | termo-compromisso | 19957.017629/2024-01 | 2025-06-24 | rejeitado | cvm-col-20250624-d3299 | fichas/tc/2025-03.md |
 
 ## art. 36
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 36 | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | registro-emissor | Pedido de adoção de procedimento diferenciado para descontinuidade do programa de BDR nível III. Proc. 19957.000562/2025-49. | ../../../../../julgados/cvm/colegiado/2025/col-20250715-d3307.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 36 | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | cvm-col-20250715-d3307 | fichas/colegiado/2025-06.md |
 
 ## art. 40
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 40 | acordao-crsfn | 19957.008462/2019-12 | 2023-11-07 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS. CVM. FALHA NA ENTREGA DE DEMONSTRAÇÕES FINANCEIRAS E FORMULÁRIOS DE INFORMAÇÕES TRIMESTRAIS À CVM. NÃO REALIZAÇÃO TEMPESTIVA DE ASSEMBLEIAS GERAIS ORDINÁRIAS. Apuração da responsabilidade de administradores. Recuperação judicial da Companhia aberta. Alegação de impossibilidade de elaboração de relatórios e documentos societários por dificuldades financeiras e exoneração de cargo. Infrações caracterizadas. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2023/10372-100113-2023-34.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 40 | acordao-crsfn | 19957.008462/2019-12 | 2023-11-07 | condenacao | crsfn-10372-100113-2023-34 | fichas/crsfn/2023-07.md |
 
 ## art. 41
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 41, inciso I | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 41, inciso I | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
 
 ## art. 42
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 42 | acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NÃO ATUALIZAR E NÃO ENVIAR FORMULÁRIO CADASTRAL (FCA) À CVM. Regime informacional. Falência. Responsabilidade do Administrador Judicial. Infração caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2024/10372-000095-2024-72.md |
-| art. 42 | acordao-crsfn | 19957.001549/2023-45 | 2025-04-08 | outro | divulgacao-informacoes | EMBARGOS DE DECLARAÇÃO. ALEGADA AUSÊNCIA DE INTIMAÇÃO E PUBLICAÇÃO DE ATOS PROCESSUAIS. SUPOSTAS OMISSÕES NO ACÓRDÃO CRSFN Nº 180/2024. Inexistência dos vícios alegados. Embargos de declaração rejeitados | ../../../../../julgados/crsfn/2025/10372-000095-2024-72-2.md |
-| art. 42 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 42 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | ../../../../../julgados/cvm/pas/2024/19957-001549-2023-45.md |
-| art. 42 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
-| art. 42 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 42 | acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | crsfn-10372-000095-2024-72 | fichas/crsfn/2024-07.md |
+| art. 42 | acordao-crsfn | 19957.001549/2023-45 | 2025-04-08 | outro | crsfn-10372-000095-2024-72-2 | fichas/crsfn/2025-01.md |
+| art. 42 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 42 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| art. 42 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
+| art. 42 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
 
 ## art. 43
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 43 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 43 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
 
 ## art. 44
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 44 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 44 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 44 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 44 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
 
 ## art. 46
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 46 | termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso de R$ 340.000,00 de diretor de RI da Movida Participações S.A., relativa a fato relevante intempestivo e atrasos de resposta à CVM, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241126-d3172.md |
-| art. 46 | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | deveres-administradores | Apurar a responsabilidade da União, pela indicação e eleição de membros supostamente impedidos para o conselho de administração da Petrobras, e dos próprios membros eleitos, pela aceitação do cargo para o qual estariam impedidos. Absolvição | ../../../../../julgados/cvm/pas/2024/19957-007469-2023-01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 46 | termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | cvm-col-20241126-d3172 | fichas/tc/2024-06.md |
+| art. 46 | pas | 19957.007469/2023-01 | 2024-12-18 | absolvicao | cvm-pas-19957-007469-2023-01 | fichas/pas/2024-12.md |
 
 ## art. 48
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 48, § 3º | acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. COMPANHIA ABERTA. NÃO ATUALIZAR E NÃO ENVIAR FORMULÁRIO CADASTRAL (FCA) À CVM. Regime informacional. Falência. Responsabilidade do Administrador Judicial. Infração caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2024/10372-000095-2024-72.md |
-| art. 48, § 3º | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 48, § 3º | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 48, § 3º | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | ../../../../../julgados/cvm/pas/2024/19957-001549-2023-45.md |
-| art. 48, § 3º | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 48, § 3º | acordao-crsfn | 19957.001549/2023-45 | 2024-12-03 | condenacao | crsfn-10372-000095-2024-72 | fichas/crsfn/2024-07.md |
+| art. 48, § 3º | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 48, § 3º | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 48, § 3º | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| art. 48, § 3º | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
 
 ## art. 49
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 49 | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 49 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 49 | termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso de R$ 340.000,00 de diretor de RI da Movida Participações S.A., relativa a fato relevante intempestivo e atrasos de resposta à CVM, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241126-d3172.md |
-| art. 49 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | divulgacao-informacoes | O Colegiado, por unanimidade, deu provimento ao recurso da BRF contra entendimento da SEP, que exigia complementar receita, EBITDA e lucro líquido no comunicado sobre a compra de 50% da Gelprime (R$ 312.500.000,00). Segundo o voto do presidente, não seria razoável exigir a complementação na fase de due diligence; novo comunicado virá quando a operação for definitiva. | ../../../../../julgados/cvm/colegiado/2025/col-20250211-d3223.md |
-| art. 49 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 49 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | ../../../../../julgados/cvm/pas/2024/19957-001549-2023-45.md |
-| art. 49 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 49 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
-| art. 49 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 49 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 49 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
-| art. 49 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 49 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 49 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de [pessoa física], na qualidade de ex-Diretora de Relações com Investidores da Ybirá Capital S.A., por infração ao (i) art. 11 da Resolução CVM nº 81/2022, pela não apresentação das informações exigidas para convocação de AGE; (ii) art. 33, V, da Resolução CVM nº 80/2022, pela não divulgação, no prazo regulamentar, de ata de RCA; e (iii) art. 25, §3º, da Resolução CVM nº 80/2022, pela não atualização, no prazo regulamentar, do Formulário de Referência. Multas e Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001811-2025-13.md |
-| art. 49 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 49 | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 49 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 49 | termo-compromisso | 19957.002548/2024-07 | 2024-11-26 | aceito | cvm-col-20241126-d3172 | fichas/tc/2024-06.md |
+| art. 49 | decisao-colegiado | 19957.021350/2024-14 | 2025-02-11 | provido | cvm-col-20250211-d3223 | fichas/colegiado/2025-01.md |
+| art. 49 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 49 | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| art. 49 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 49 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
+| art. 49 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 49 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 49 | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
+| art. 49 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 49 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 49 | pas | 19957.001811/2025-13 | 2026-09-08 | condenacao | cvm-pas-19957-001811-2025-13 | fichas/pas/2026-02.md |
+| art. 49 | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
 
 ## art. 50
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 50 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 50 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 50 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 50 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 50 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 50 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
 
 ## art. 51
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 51 | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | registro-emissor | O Colegiado concedeu dispensa do art. 51 da Resolução CVM nº 80/2022 ao pedido de cancelamento do registro de companhia aberta categoria B da Polo Securitizadora, mantido o registro de securitizadora S1, com base nas conclusões da área técnica. Propôs medidas para companhias em situação semelhante. | ../../../../../julgados/cvm/colegiado/2022/col-20220906-d2681.md |
-| art. 51 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 51 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | registro-emissor | O Colegiado, por unanimidade, acompanhando o voto do relator, deu provimento a recurso da XP Investimentos S.A. contra exigência da SEP e dispensou a apresentação de documentos do art. 51 da RCVM 80/2022 quanto às debêntures da 3ª emissão, emitidas antes do registro na categoria B, no pedido de cancelamento de registro. | ../../../../../julgados/cvm/colegiado/2025/col-20250916-d3313.md |
-| art. 51 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 51, inciso I | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | registro-emissor | O Colegiado concedeu dispensa do art. 51 da Resolução CVM nº 80/2022 ao pedido de cancelamento do registro de companhia aberta categoria B da Polo Securitizadora, mantido o registro de securitizadora S1, com base nas conclusões da área técnica. Propôs medidas para companhias em situação semelhante. | ../../../../../julgados/cvm/colegiado/2022/col-20220906-d2681.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 51 | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | cvm-col-20220906-d2681 | fichas/colegiado/2022-13.md |
+| art. 51 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 51 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | cvm-col-20250916-d3313 | fichas/colegiado/2025-09.md |
+| art. 51 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 51, inciso I | decisao-colegiado | 19957.011053/2022-07 | 2022-09-06 | deferido | cvm-col-20220906-d2681 | fichas/colegiado/2022-13.md |
 
 ## art. 52
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 52 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 52 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 52 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 52 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
 
 ## art. 53
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 53 | decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | infraestrutura-mercado | Na descontinuidade do BDR Nível III da Nu Holdings Ltd., o Colegiado deferiu, por unanimidade, opção adicional de troca por BDR Nível I, com a mesma quantidade de ações lastro. Indeferiu, por maioria (vencido um diretor), que essa opção fosse padrão para quem não se manifestasse. Indeferiu, por unanimidade, provedor de liquidez alternativo, sem óbice a uso adicional. | ../../../../../julgados/cvm/colegiado/2022/col-20221220-d2727.md |
-| art. 53 | decisao-colegiado | 19957.003918/2023-34 | 2023-06-27 | deferido | registro-emissor | O Colegiado, contra manifestação desfavorável da SRE, aprovou procedimento diferenciado para descontinuidade dos BDR Nível III da Nu Holdings Ltd., com opção de permuta por BDR Nível I não patrocinado. Fundamento: diferenças entre programas patrocinados e não patrocinados não impedem, a priori, o pedido. A deliberação não trata dos demais pedidos. | ../../../../../julgados/cvm/colegiado/2023/col-20230627-d2878.md |
-| art. 53, parágrafo único | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | registro-emissor | Pedido de adoção de procedimento diferenciado para descontinuidade do programa de BDR nível III. Proc. 19957.000562/2025-49. | ../../../../../julgados/cvm/colegiado/2025/col-20250715-d3307.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 53 | decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
+| art. 53 | decisao-colegiado | 19957.003918/2023-34 | 2023-06-27 | deferido | cvm-col-20230627-d2878 | fichas/colegiado/2023-07.md |
+| art. 53, parágrafo único | decisao-colegiado | 19957.000562/2025-49 | 2025-07-15 | deferido | cvm-col-20250715-d3307 | fichas/colegiado/2025-06.md |
 
 ## art. 55
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 55 | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta conjunta de termo de compromisso de administradores de companhia aberta, acusados de não entregar informações periódicas de 2022 (RCVM 80/2022). Acompanhou o parecer do Comitê, que considerou os valores individuais fora dos parâmetros usuais e o total distante da contrapartida adequada. | ../../../../../julgados/cvm/colegiado/2023/col-20231031-d2951.md |
-| art. 55 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou proposta de termo de compromisso do diretor de RI da Rio Energy Participações S.A. por não entrega tempestiva do Formulário de Referência 2022 (arts. 22, II, e 25, §1º, da RCVM 80/2022). Pagamento de R$ 140.000,00 em parcela única; o Comitê elevou a oferta inicial de R$ 30.000,00. | ../../../../../julgados/cvm/colegiado/2024/col-20240924-d3139.md |
-| art. 55 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 55 | termo-compromisso | 19957.002348/2023-65 | 2023-10-31 | rejeitado | cvm-col-20231031-d2951 | fichas/tc/2023-07.md |
+| art. 55 | termo-compromisso | 19957.001074/2024-78 | 2024-09-24 | aceito | cvm-col-20240924-d3139 | fichas/tc/2024-05.md |
+| art. 55 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
 
 ## art. 57
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 57 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta conjunta de termo de compromisso de dois administradores da Rio Alto Energias Renováveis S.A., no total de R$ 676.000,00 (R$ 90.000,00 e R$ 586.000,00, valores do Comitê aceitos pelos proponentes), por atrasos em ITRs, demonstrações financeiras, formulários e convocação de AGOs. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2024/col-20241022-d3160.md |
-| art. 57 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 57 | decisao-colegiado | 19957.000702/2026-60 | 2026-03-17 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, a recurso contra cancelamento de ofício do registro da Springs Global Participações S.A. – em recuperação judicial (art. 59, II, RCVM 80/2022), acompanhando a SEP. Para a SEP, a recuperação judicial e as demonstrações de 2024 não afastam a inadimplência de 2025; rejeitado prazo até 30.04.2026 para as informações pendentes. | ../../../../../julgados/cvm/colegiado/2026/col-20260317-d3486.md |
-| art. 57 | decisao-colegiado | 19957.000700/2026-71 | 2026-03-17 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso contra o cancelamento de ofício do registro da Companhia de Tecidos Norte de Minas – Coteminas por suspensão superior a 12 meses (RCVM 80, art. 59, II). A recuperação judicial e as demonstrações de 2024 não afastaram a inadimplência informacional, e não se concedeu prazo até 30.04.2026. | ../../../../../julgados/cvm/colegiado/2026/col-20260317-d3487.md |
-| art. 57 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 57 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 57 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 57 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 57 | termo-compromisso | 19957.000073/2024-14 | 2024-10-22 | aceito | cvm-col-20241022-d3160 | fichas/tc/2024-06.md |
+| art. 57 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 57 | decisao-colegiado | 19957.000702/2026-60 | 2026-03-17 | nao-provido | cvm-col-20260317-d3486 | fichas/colegiado/2026-01.md |
+| art. 57 | decisao-colegiado | 19957.000700/2026-71 | 2026-03-17 | nao-provido | cvm-col-20260317-d3487 | fichas/colegiado/2026-01.md |
+| art. 57 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 57 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 57 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 57 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
 
 ## art. 58
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 58 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou proposta de termo de compromisso de liquidante de companhia em liquidação, acusado de não apresentar formulários cadastrais de 2022 e 2023 (art. 24, parágrafo único, RCVM 80/2022). O proponente não aceitou a contrapartida de R$ 235.200,00 sugerida pelo Comitê e ofereceu R$ 35.000,00. | ../../../../../julgados/cvm/colegiado/2025/col-20250812-d3321.md |
-| art. 58 | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso da Coteminas contra o cancelamento de ofício de seu registro de companhia aberta, suspenso há mais de 12 meses (RCVM 80, art. 59, II). Fundamento: a companhia ainda levaria meses para regularizar as entregas. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3399.md |
-| art. 58 | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que determinou o cancelamento de ofício do registro de companhia aberta suspenso há mais de 12 meses (RCVM 80, art. 59, II), acompanhando a área técnica. A companhia não apresentou prazo certo para entregar as informações pendentes. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3400.md |
-| art. 58 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 58, § 1º | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso da Coteminas contra o cancelamento de ofício de seu registro de companhia aberta, suspenso há mais de 12 meses (RCVM 80, art. 59, II). Fundamento: a companhia ainda levaria meses para regularizar as entregas. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3399.md |
-| art. 58, § 1º | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que determinou o cancelamento de ofício do registro de companhia aberta suspenso há mais de 12 meses (RCVM 80, art. 59, II), acompanhando a área técnica. A companhia não apresentou prazo certo para entregar as informações pendentes. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3400.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 58 | termo-compromisso | 19957.016074/2024-72 | 2025-08-12 | rejeitado | cvm-col-20250812-d3321 | fichas/tc/2025-04.md |
+| art. 58 | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | cvm-col-20251028-d3399 | fichas/colegiado/2025-10.md |
+| art. 58 | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | cvm-col-20251028-d3400 | fichas/colegiado/2025-10.md |
+| art. 58 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 58, § 1º | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | cvm-col-20251028-d3399 | fichas/colegiado/2025-10.md |
+| art. 58, § 1º | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | cvm-col-20251028-d3400 | fichas/colegiado/2025-10.md |
 
 ## art. 59
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 59 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
-| art. 59 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 59, inciso II | acordao-crsfn | 19957.004286/2022-45 | 2025-05-13 | condenacao | deveres-administradores | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. NÃO DILIGENCIAR PARA FAZER ELABORAR E ENVIAR DEMONSTRAÇÕES FINANCEIRAS. DEIXAR DE ELABORAR E DE ENTREGAR INFORMAÇÕES TRIMESTRAIS. NÃO CONVOCAR ASSEMBLEIA GERAL ORDINÁRIA. NÃO DILIGENCIAR PARA RECOMPOSIÇÃO DOS CARGOS DE DIRETOR E DE CONSELHEIRO. Apuração da responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. Infrações caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2025/10372-000073-2024-11.md |
-| art. 59, inciso II | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso da Coteminas contra o cancelamento de ofício de seu registro de companhia aberta, suspenso há mais de 12 meses (RCVM 80, art. 59, II). Fundamento: a companhia ainda levaria meses para regularizar as entregas. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3399.md |
-| art. 59, inciso II | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que determinou o cancelamento de ofício do registro de companhia aberta suspenso há mais de 12 meses (RCVM 80, art. 59, II), acompanhando a área técnica. A companhia não apresentou prazo certo para entregar as informações pendentes. | ../../../../../julgados/cvm/colegiado/2025/col-20251028-d3400.md |
-| art. 59, inciso II | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. na (i) elaboração e envio de demonstrações financeiras, em infração ao art. 176, caput¸ da Lei nº 6.404/1976 c/c arts. 21, III, e 25, §2º da Instrução CVM n° 480/2009; (ii) elaboração e entrega de formulário de informações trimestrais, em infração ao art. 21, V, c/c art. 29, II, da Instrução CVM n° 480/2009; (iii) convocação de Assembleia Geral Ordinária, em infração aos arts. 142, IV e 132 da Lei nº 6.404/1976 c/c art. 21, VII, da Instrução CVM nº 480/2009; e (iv) recomposição dos cargos de diretor e conselheiro, em infração aos arts. 140 e 143 da Lei nº 6.404/1976. Multas. | ../../../../../julgados/cvm/pas/2023/19957-004286-2022-45.md |
-| art. 59, parágrafo único | decisao-colegiado | 19957.000702/2026-60 | 2026-03-17 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, a recurso contra cancelamento de ofício do registro da Springs Global Participações S.A. – em recuperação judicial (art. 59, II, RCVM 80/2022), acompanhando a SEP. Para a SEP, a recuperação judicial e as demonstrações de 2024 não afastam a inadimplência de 2025; rejeitado prazo até 30.04.2026 para as informações pendentes. | ../../../../../julgados/cvm/colegiado/2026/col-20260317-d3486.md |
-| art. 59, parágrafo único | decisao-colegiado | 19957.000700/2026-71 | 2026-03-17 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso contra o cancelamento de ofício do registro da Companhia de Tecidos Norte de Minas – Coteminas por suspensão superior a 12 meses (RCVM 80, art. 59, II). A recuperação judicial e as demonstrações de 2024 não afastaram a inadimplência informacional, e não se concedeu prazo até 30.04.2026. | ../../../../../julgados/cvm/colegiado/2026/col-20260317-d3487.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 59 | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
+| art. 59 | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 59, inciso II | acordao-crsfn | 19957.004286/2022-45 | 2025-05-13 | condenacao | crsfn-10372-000073-2024-11 | fichas/crsfn/2025-02.md |
+| art. 59, inciso II | decisao-colegiado | 19957.010434/2025-11 | 2025-10-28 | nao-provido | cvm-col-20251028-d3399 | fichas/colegiado/2025-10.md |
+| art. 59, inciso II | decisao-colegiado | 19957.010435/2025-58 | 2025-10-28 | nao-provido | cvm-col-20251028-d3400 | fichas/colegiado/2025-10.md |
+| art. 59, inciso II | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| art. 59, parágrafo único | decisao-colegiado | 19957.000702/2026-60 | 2026-03-17 | nao-provido | cvm-col-20260317-d3486 | fichas/colegiado/2026-01.md |
+| art. 59, parágrafo único | decisao-colegiado | 19957.000700/2026-71 | 2026-03-17 | nao-provido | cvm-col-20260317-d3487 | fichas/colegiado/2026-01.md |
 
 ## art. 60
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 60 | acordao-crsfn | 19957.004286/2022-45 | 2025-05-13 | condenacao | deveres-administradores | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. NÃO DILIGENCIAR PARA FAZER ELABORAR E ENVIAR DEMONSTRAÇÕES FINANCEIRAS. DEIXAR DE ELABORAR E DE ENTREGAR INFORMAÇÕES TRIMESTRAIS. NÃO CONVOCAR ASSEMBLEIA GERAL ORDINÁRIA. NÃO DILIGENCIAR PARA RECOMPOSIÇÃO DOS CARGOS DE DIRETOR E DE CONSELHEIRO. Apuração da responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. Infrações caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2025/10372-000073-2024-11.md |
-| art. 60 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Advanced Digital Health Medicina Preventiva S.A. na (i) elaboração e envio de demonstrações financeiras, em infração ao art. 176, caput¸ da Lei nº 6.404/1976 c/c arts. 21, III, e 25, §2º da Instrução CVM n° 480/2009; (ii) elaboração e entrega de formulário de informações trimestrais, em infração ao art. 21, V, c/c art. 29, II, da Instrução CVM n° 480/2009; (iii) convocação de Assembleia Geral Ordinária, em infração aos arts. 142, IV e 132 da Lei nº 6.404/1976 c/c art. 21, VII, da Instrução CVM nº 480/2009; e (iv) recomposição dos cargos de diretor e conselheiro, em infração aos arts. 140 e 143 da Lei nº 6.404/1976. Multas. | ../../../../../julgados/cvm/pas/2023/19957-004286-2022-45.md |
-| art. 60 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Stara S.A. por, no exercício social de 2022, deixarem de enviar tempestivamente informações periódicas e eventuais previstas na Resolução CVM nº 80/2022 e de adotar providências para a convocação tempestiva de AGO. Multas e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002348-2023-65.md |
-| art. 60 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 60 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Ammo Varejo S.A. por deixarem de elaborar e enviar tempestivamente informações periódicas. Multa, Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-001044-2025-42.md |
-| art. 60 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | divulgacao-informacoes | Apurar a responsabilidade de diretores da Companhia de Tecidos Norte de Minas – Coteminas Em Recuperação Judicial por infração ao art. 176, caput, da Lei nº 6.404/1976 c/c art. 22, inciso III, e art. 27, §2º, da Resolução CVM nº 80/2022, e ao art. 31, inciso II, e art. 22, inciso V, c/c art. 31, inciso II, da mesma Resolução. Multa, Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-001045-2025-97.md |
-| art. 60 | pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 60 | acordao-crsfn | 19957.004286/2022-45 | 2025-05-13 | condenacao | crsfn-10372-000073-2024-11 | fichas/crsfn/2025-02.md |
+| art. 60 | pas | 19957.004286/2022-45 | 2023-12-21 | condenacao | cvm-pas-19957-004286-2022-45 | fichas/pas/2023-10.md |
+| art. 60 | pas | 19957.002348/2023-65 | 2024-01-30 | parcial | cvm-pas-19957-002348-2023-65 | fichas/pas/2024-01.md |
+| art. 60 | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 60 | pas | 19957.001044/2025-42 | 2026-07-14 | parcial | cvm-pas-19957-001044-2025-42 | fichas/pas/2026-01.md |
+| art. 60 | pas | 19957.001045/2025-97 | 2026-05-12 | parcial | cvm-pas-19957-001045-2025-97 | fichas/pas/2026-01.md |
+| art. 60 | pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
 
 ## art. 61
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 61, § 3º | decisao-colegiado | 19957.001770/2022-12 | 2022-09-13 | conhecimento | contabil-demonstracoes | O Colegiado, por unanimidade, não conheceu de recurso de reclamante contra decisão da SEP sobre o tratamento contábil de rejeitos de minério de ferro na Vale S.A., acompanhando o parecer técnico: não comprovadas as hipóteses do art. 4º, §4º, RCVM 45/2021. A questão de sigilo já foi decidida pela CGU e não cabe recurso ao Colegiado. | ../../../../../julgados/cvm/colegiado/2022/col-20220913-d2683.md |
-| art. 61, § 3º | decisao-colegiado | 19957.002055/2022-05 | 2023-05-23 | nao-provido | processual | O Colegiado, por unanimidade, acompanhando a área técnica, negou provimento a recurso de dois denunciantes contra decisão da SEP que deu acesso parcial aos autos de processo sobre a Cyrela, reservando as manifestações de auditores independentes por sigilo profissional (art. 61, §3º, da RCVM 80/2022; NBC PG 01). | ../../../../../julgados/cvm/colegiado/2023/col-20230523-d2804.md |
-| art. 61, § 3º | decisao-colegiado | 19957.006191/2025-17 | 2025-09-09 | nao-provido | processual | O Colegiado negou provimento, por unanimidade, a recurso contra decisão da SEP que deferiu parcialmente o acesso aos autos e negou acesso à resposta da Eletrobras, protegida por pedido de confidencialidade, acompanhando a área técnica. Fundamento: sigilo empresarial, sem PAS formalmente instaurado contra o recorrente. | ../../../../../julgados/cvm/colegiado/2025/col-20250909-d3348.md |
-| art. 61, § 3º | decisao-colegiado | 19957.000952/2023-57 | 2026-05-06 | nao-provido | processual | O Colegiado, por unanimidade, negou provimento a recurso, interposto em nome de associação de defesa do investidor, contra indeferimento parcial de acesso a trechos sigilosos da peça de acusação do PAS 19957.000952/2023-57. Acompanhando a SPS e a área técnica, que invocou sigilos bancário, de comunicações, profissional e de acordo de supervisão. | ../../../../../julgados/cvm/colegiado/2026/col-20260506-d3518.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 61, § 3º | decisao-colegiado | 19957.001770/2022-12 | 2022-09-13 | conhecimento | cvm-col-20220913-d2683 | fichas/colegiado/2022-13.md |
+| art. 61, § 3º | decisao-colegiado | 19957.002055/2022-05 | 2023-05-23 | nao-provido | cvm-col-20230523-d2804 | fichas/colegiado/2023-06.md |
+| art. 61, § 3º | decisao-colegiado | 19957.006191/2025-17 | 2025-09-09 | nao-provido | cvm-col-20250909-d3348 | fichas/colegiado/2025-09.md |
+| art. 61, § 3º | decisao-colegiado | 19957.000952/2023-57 | 2026-05-06 | nao-provido | cvm-col-20260506-d3518 | fichas/colegiado/2026-02.md |
 
 ## art. 62
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 62 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | divulgacao-informacoes | Recurso contra entendimento da SEP. Proc. 19957.002655/2023-46. | ../../../../../julgados/cvm/colegiado/2023/col-20231121-d2961.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 62 | decisao-colegiado | 19957.002655/2023-46 | 2023-11-21 | parcial | cvm-col-20231121-d2961 | fichas/colegiado/2023-12.md |
 
 ## art. 63
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 63 | decisao-colegiado | 47/2021; 80/2022; 161/2022; 19957.015790/2023-51 | 2024-08-07 | outro | normativo | O Colegiado aprovou a Resolução CVM 207/2024, que altera as RCVM 47, 80 e 161. Inclui coordenadores de ofertas públicas entre os sujeitos a multa cominatória (R$ 600,00 por dia para formulário de referência; R$ 500,00 para outros documentos) e prevê multas por atraso em informações eventuais. AIR e consulta pública dispensadas. | ../../../../../julgados/cvm/colegiado/2024/col-20240807-d3116.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 63 | decisao-colegiado | 47/2021; 80/2022; 161/2022; 19957.015790/2023-51 | 2024-08-07 | outro | cvm-col-20240807-d3116 | fichas/colegiado/2024-08.md |
 
 ## art. 65
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 65 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 65 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou propostas de termo de compromisso de cinco administradores da IGB Eletrônica S.A., por ausência de conveniência e oportunidade. Imputações: não convocação de AGO e atrasos em demonstrações financeiras e ITRs. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3229.md |
-| art. 65 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | divulgacao-informacoes | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de R$ 150.000,00 apresentada pela diretora financeira de uma companhia, em PAS por falta de demonstrações financeiras de 2024 e de ITRs. O Comitê apontou processos paralelos no grupo econômico. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3533.md |
-| art. 65 | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Capitalpart Participações S.A. por deixarem de (i) elaborar e apresentar as demonstrações financeiras; (ii) diligenciar para realização de assembleias gerais ordinárias; e (iii) enviar informações cadastrais atualizadas, referente ao exercício social findo de 31.12.2019. Multas e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-003793-2021-81.md |
-| art. 65, inciso I | pas | 19957.004207/2021-15 | 2026-08-26 | — | contabil-demonstracoes | Processo sancionador contra cinco ex-diretores da Oi S.A. por irregularidades nas demonstrações financeiras de 2015 e 2016. Voto da diretora relatora propõe absolver parte dos acusados e multar dois deles em R$400.000,00 cada; sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-004207-2021-15.md |
-| art. 65, inciso I | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
-| art. 65, inciso II | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 65, inciso II | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
-| art. 65, inciso II | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | divulgacao-informacoes | Apuração de infrações ao art. 23 da Instrução CVM nº 480/2009, por não atualizar o formulário cadastral de 2021, e ao art. 42 da Resolução CVM nº 80/2022, pelo não envio do formulário cadastral de 2022. Multa. Data decisão CVM Tue Mar 26 12:26:00 BRT 2024 | ../../../../../julgados/cvm/pas/2024/19957-001549-2023-45.md |
-| art. 65, inciso II | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de [pessoa física], na qualidade de administrador judicial da Massa Falida de Kosmos Comércio de Vestuário S.A., equiparado a diretor de relações com investidores, pela não entrega de informações periódicas. Infração ao art. 23 da Instrução CVM n° 480/09 e ao art. 24 da Resolução CVM n° 80/22. Multa. | ../../../../../julgados/cvm/pas/2024/19957-012129-2022-11.md |
-| art. 65, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fontaine Ville Participações S.A. pela não elaboração de demonstrações financeiras, DFP e ITR e pelo não envio tempestivo de formulário cadastral, em violação a dispositivos da Resolução CVM nº 80/2022, assim como pela não adoção de providências necessárias à convocação de assembleia geral ordinária de acionistas, em violação ao art. 142, inciso IV, c/c art. 132 da Lei nº 6.404/1976. Extinção do processo sem resolução de mérito e Multas | ../../../../../julgados/cvm/pas/2024/19957-014716-2023-18.md |
-| art. 65, inciso II | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | registro-emissor | Apurar a responsabilidade do liquidante da CCX Carvão da Colômbia S.A. - Em Liquidação pelo descumprimento do art. 24, par. único, da Resolução CVM nº 80/2022, tendo em vista o art. 48, §3º, da mesma Resolução, devido à não apresentação dos formulários cadastrais de 2022 e 2023. Multa. | ../../../../../julgados/cvm/pas/2025/19957-016074-2024-72.md |
-| art. 65, inciso III | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou quatro propostas de termo de compromisso de administradores da Auzza Securitizadora S.A., por descumprimento por mais de 12 meses das obrigações periódicas da RCVM 80/2022, e aceitou a de outro administrador, com pagamento de R$ 43.000,00 em parcela única. Prazos: dez dias úteis para assinatura e pagamento; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2026/col-20260331-d3406.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 65 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 65 | termo-compromisso | 19957.003639/2024-51 | 2025-02-25 | rejeitado | cvm-col-20250225-d3229 | fichas/tc/2025-01.md |
+| art. 65 | termo-compromisso | 19957.011252/2025-50 | 2026-06-23 | rejeitado | cvm-col-20260623-d3533 | fichas/tc/2026-02.md |
+| art. 65 | pas | 19957.003793/2021-81 | 2023-12-12 | parcial | cvm-pas-19957-003793-2021-81 | fichas/pas/2023-09.md |
+| art. 65, inciso I | pas | 19957.004207/2021-15 | 2026-08-26 | — | cvm-pas-19957-004207-2021-15 | fichas/pas/2026-02.md |
+| art. 65, inciso I | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| art. 65, inciso II | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 65, inciso II | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
+| art. 65, inciso II | pas | 19957.001549/2023-45 | 2024-03-26 | condenacao | cvm-pas-19957-001549-2023-45 | fichas/pas/2024-02.md |
+| art. 65, inciso II | pas | 19957.012129/2022-11 | 2024-06-18 | condenacao | cvm-pas-19957-012129-2022-11 | fichas/pas/2024-04.md |
+| art. 65, inciso II | pas | 19957.014716/2023-18 | 2024-12-17 | condenacao | cvm-pas-19957-014716-2023-18 | fichas/pas/2024-11.md |
+| art. 65, inciso II | pas | 19957.016074/2024-72 | 2025-10-21 | condenacao | cvm-pas-19957-016074-2024-72 | fichas/pas/2025-04.md |
+| art. 65, inciso III | termo-compromisso | 19957.002327/2025-10 | 2026-03-31 | outro | cvm-col-20260331-d3406 | fichas/tc/2026-01.md |
 
 ## art. 67
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 67 | termo-compromisso | 19957.006263/2023-56 | 2024-04-16 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o Comitê, aceitou quatro propostas de termo de compromisso de administradores da Cruzeiro do Sul Educacional S.A., previamente a eventual PAS, por falhas no Formulário de Referência sobre participação relevante e free float. Pagamentos únicos de R$ 227.587,50 (dois proponentes) e R$ 189.656,25 (dois), sugeridos pelo Comitê e aceitos. | ../../../../../julgados/cvm/colegiado/2024/col-20240416-d3048.md |
-| art. 67 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | registro-emissor | O Colegiado, por unanimidade, acompanhando o voto do relator, deu provimento a recurso da XP Investimentos S.A. contra exigência da SEP e dispensou a apresentação de documentos do art. 51 da RCVM 80/2022 quanto às debêntures da 3ª emissão, emitidas antes do registro na categoria B, no pedido de cancelamento de registro. | ../../../../../julgados/cvm/colegiado/2025/col-20250916-d3313.md |
-| art. 67, inciso I | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | registro-emissor | O Colegiado, por unanimidade, acompanhando o voto do relator, deu provimento a recurso da XP Investimentos S.A. contra exigência da SEP e dispensou a apresentação de documentos do art. 51 da RCVM 80/2022 quanto às debêntures da 3ª emissão, emitidas antes do registro na categoria B, no pedido de cancelamento de registro. | ../../../../../julgados/cvm/colegiado/2025/col-20250916-d3313.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 67 | termo-compromisso | 19957.006263/2023-56 | 2024-04-16 | aceito | cvm-col-20240416-d3048 | fichas/tc/2024-02.md |
+| art. 67 | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | cvm-col-20250916-d3313 | fichas/colegiado/2025-09.md |
+| art. 67, inciso I | decisao-colegiado | 19957.001691/2025-54 | 2025-09-16 | provido | cvm-col-20250916-d3313 | fichas/colegiado/2025-09.md |
 
 ## art. 485
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 485 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
-| art. 485, § 3º | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | divulgacao-informacoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO APRESENTAÇÃO DE FORMULÁRIOS CADASTRAIS (FCA) DE COMPANHIA EM LIQUIDAÇÃO. Irregularidade caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-016074-2024-72.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 485 | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
+| art. 485, § 3º | acordao-crsfn | 19957.016074/2024-72 | 2026-02-10 | parcial | crsfn-19957-016074-2024-72 | fichas/crsfn/2026-01.md |
 
 ## Anexo A, art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo A art. 1º, inciso VII | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| Anexo A art. 1º, inciso VII | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo A art. 1º, inciso VIII | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
-| Anexo A art. 1º, inciso VIII, alínea b | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | registro-emissor | O Colegiado, por unanimidade e acompanhando a área técnica, negou provimento a recurso da EBEC contra decisão da SEP no pedido de registro inicial de emissor na categoria B. Para a SEP, o protocolo só se concluiu em 31.10.2022, e eventuais prejuízos seriam atribuíveis só à companhia. | ../../../../../julgados/cvm/colegiado/2022/col-20221206-d2740.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo A art. 1º, inciso VII | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| Anexo A art. 1º, inciso VII | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo A art. 1º, inciso VIII | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
+| Anexo A art. 1º, inciso VIII, alínea b | decisao-colegiado | 19957.013829/2022-15 | 2022-12-06 | nao-provido | cvm-col-20221206-d2740 | fichas/colegiado/2022-16.md |
 
 ## Anexo A, art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo A art. 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo A art. 2º, inciso V | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo A art. 2º, inciso XI, alínea a | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo A art. 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo A art. 2º, inciso V | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo A art. 2º, inciso XI, alínea a | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## Anexo F, art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo F art. 1º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
-| Anexo F art. 1º, inciso II | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | divulgacao-informacoes | Apurar a responsabilidade da diretora de relações com investidores da Mitre Realty Empreendimentos e Participações S.A. por alegadas falhas informacionais. Absolvição. | ../../../../../julgados/cvm/pas/2025/19957-017629-2024-01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo F art. 1º | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| Anexo F art. 1º, inciso II | pas | 19957.017629/2024-01 | 2025-12-02 | absolvicao | cvm-pas-19957-017629-2024-01 | fichas/pas/2025-05.md |
 
 ## Anexo F, art. 2º-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo F art. 2º-A, parágrafo único | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo F art. 2º-A, parágrafo único | pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
 
 ## Anexo J, art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo J art. 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 1º, inciso I | decisao-colegiado | 19957.003965/2022-05; 19957.003813/2022-02 | 2022-06-21 | deferido | registro-emissor | Por maioria, o Colegiado concedeu dispensa do requisito de 12 meses de negociação do Anexo 32-I da ICVM 480 à Inter & Co, Inc., e dispensa da manutenção de registro de companhia aberta categoria A ao Banco Inter, no contexto da reorganização societária. Vencidos o Presidente e a Diretora. | ../../../../../julgados/cvm/colegiado/2022/col-20220621-d2284-21.md |
-| Anexo J art. 1º, parágrafo único | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo J art. 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 1º, inciso I | decisao-colegiado | 19957.003965/2022-05; 19957.003813/2022-02 | 2022-06-21 | deferido | cvm-col-20220621-d2284-21 | fichas/colegiado/2022-10.md |
+| Anexo J art. 1º, parágrafo único | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## Anexo J, art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo J art. 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo J art. 2º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## Anexo J, art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo J art. 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, inciso II | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 1º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 1º, inciso II | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 1º, inciso II, alínea b | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
-| Anexo J art. 3º, § 3º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo J art. 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, inciso II | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 1º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 1º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 1º, inciso II | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 1º, inciso II, alínea b | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 3º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
+| Anexo J art. 3º, § 3º, inciso I | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## Anexo J, art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo J art. 5º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | registro-emissor | Recurso contra decisão da SEP no âmbito de pedido de registro inicial de emissor e pedido de dispensa de requisito normativo. Proc. 19957.021698/2024-10. | ../../../../../julgados/cvm/colegiado/2025/col-20250225-d3227.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo J art. 5º | decisao-colegiado | 19957.021698/2024-10 | 2025-02-25 | provido | cvm-col-20250225-d3227 | fichas/colegiado/2025-01.md |
 
 ## Anexo K, art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo K art. 2º | pas | 19957.001918/2024-81 | 2025-12-18 | parcial | deveres-administradores | Apurar eventual responsabilidade de [pessoa física] por assumir cargo em sociedade empresária considerada concorrente, em situação de conflito de interesse, e por suposta omissão de informações sobre existência de vínculo formal com sociedade concorrente da Companhia, em descumprimento, em tese, do art. 147, §3º, I, da Lei nº 6.404/76 c/c o art. 17, § 2º, V, da Lei nº 13.303/16, e do art. 153 da Lei nº 6.404/76. Absolvição e Advertência | ../../../../../julgados/cvm/pas/2025/19957-001918-2024-81.md |
-| Anexo K art. 2º, inciso IV | pas | 19957.001918/2024-81 | 2025-12-18 | parcial | deveres-administradores | Apurar eventual responsabilidade de [pessoa física] por assumir cargo em sociedade empresária considerada concorrente, em situação de conflito de interesse, e por suposta omissão de informações sobre existência de vínculo formal com sociedade concorrente da Companhia, em descumprimento, em tese, do art. 147, §3º, I, da Lei nº 6.404/76 c/c o art. 17, § 2º, V, da Lei nº 13.303/16, e do art. 153 da Lei nº 6.404/76. Absolvição e Advertência | ../../../../../julgados/cvm/pas/2025/19957-001918-2024-81.md |
-| Anexo K art. 2º, § 1º | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu pedidos de adiamento e de interrupção do prazo de convocação da AGO da Cedro Cachoeira, por não comprovada insuficiência de informações (art. 124, §5º, LSA; RCVM 81/2022). Os demais pedidos do Parecer SEP nº 92 não são o momento processual. | ../../../../../julgados/cvm/colegiado/2025/col-20250820-d3344.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo K art. 2º | pas | 19957.001918/2024-81 | 2025-12-18 | parcial | cvm-pas-19957-001918-2024-81 | fichas/pas/2025-06.md |
+| Anexo K art. 2º, inciso IV | pas | 19957.001918/2024-81 | 2025-12-18 | parcial | cvm-pas-19957-001918-2024-81 | fichas/pas/2025-06.md |
+| Anexo K art. 2º, § 1º | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | cvm-col-20250820-d3344 | fichas/colegiado/2025-08.md |
 
 ## Anexo K, art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo K art. 3º | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu pedidos de adiamento e de interrupção do prazo de convocação da AGO da Cedro Cachoeira, por não comprovada insuficiência de informações (art. 124, §5º, LSA; RCVM 81/2022). Os demais pedidos do Parecer SEP nº 92 não são o momento processual. | ../../../../../julgados/cvm/colegiado/2025/col-20250820-d3344.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo K art. 3º | decisao-colegiado | 19957.009400/2025-76 | 2025-08-20 | indeferido | cvm-col-20250820-d3344 | fichas/colegiado/2025-08.md |
 
 ## Anexo K, art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo K art. 6º | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, indeferiu pedidos de interrupção e de adiamento do prazo de convocação da AGE da Toky S.A. – Em Recuperação Judicial, marcada para 27.07.2026. Fundamento: art. 124, §5º, I e II, da Lei 6.404/1976 e RCVM 81/2022, sem indício de violação legal nem insuficiência informacional demonstrada. | ../../../../../julgados/cvm/colegiado/2026/col-20260724-d3583.md |
-| Anexo K art. 6º | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | divulgacao-informacoes | Apurar eventual responsabilidade por infração (i) aos arts. 10 e 12 da Instrução CVM nº 358/2002; (ii) ao art. 116, p.ú., da Lei nº 6.404/1976; (iii) ao art. 1º, III, e p.ú., I, da Instrução CVM n° 491/2011; (iv) ao item 15.1 ou, alternativamente, ao item 15.2, e item 12.5, do Anexo 24, da Instrução CVM nº 480/2009; e (v) ao art. 154 da Lei nº 6.404/1976. Multas e absolvições. | ../../../../../julgados/cvm/pas/2023/19957-009206-2018-61.md |
-| Anexo K art. 6º, § 2º, inciso III | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, deferiu o adiamento da AGE da BRF convocada para 18.06.2025, na incorporação pela Marfrig, por 21 dias contados da disponibilização de informações sobre o preço base da relação de troca, nos termos do art. 9º da Resolução CVM 81/2022. | ../../../../../julgados/cvm/colegiado/2025/col-20250616-d3297.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo K art. 6º | decisao-colegiado | 19957.012301/2026-52 | 2026-07-24 | indeferido | cvm-col-20260724-d3583 | fichas/colegiado/2026-03.md |
+| Anexo K art. 6º | pas | 19957.009206/2018-61 | 2023-04-11 | parcial | cvm-pas-19957-009206-2018-61 | fichas/pas/2023-02.md |
+| Anexo K art. 6º, § 2º, inciso III | decisao-colegiado | 19957.006603/2025-19; 19957.006664/2025-78 | 2025-06-16 | deferido | cvm-col-20250616-d3297 | fichas/colegiado/2025-05.md |
 
 ## Anexo I, art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo I art. 1º, § 4º | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo I art. 1º, § 4º | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
 
 ## Anexo I, art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| Anexo I art. 2º | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
-| Anexo I art. 2º, inciso I | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
-| Anexo I art. 2º, inciso II | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
-| Anexo I art. 2º, inciso III | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | assembleia-acionistas | Pedido de adiamento de assembleia geral ordinária e extraordinária. Proc. 19957.006217/2026-08. | ../../../../../julgados/cvm/colegiado/2026/col-20260428-d3526.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| Anexo I art. 2º | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
+| Anexo I art. 2º, inciso I | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
+| Anexo I art. 2º, inciso II | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
+| Anexo I art. 2º, inciso III | decisao-colegiado | 19957.006217/2026-08 | 2026-04-28 | indeferido | cvm-col-20260428-d3526 | fichas/colegiado/2026-02.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.003588/2023-87 | 2026-10-22 | — | contabil-demonstracoes | PAS contra três diretores e o presidente do conselho de administração do IRB – Brasil Resseguros S.A., por suposta elaboração de informações contábeis não fidedignas em 2019 e falta de diligência (arts. 153, 154 e 176 da Lei 6.404/1976). O diretor relator votou pela absolvição de todos os acusados, acompanhado por outro diretor. | ../../../../../julgados/cvm/pas/2026/19957-003588-2023-87.md |
-| decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | opa | Por unanimidade, o Colegiado proveu recurso contra entendimento da SRE de não exigibilidade de OPA estatutária da Oncoclínicas, fixando 4.11.2024 como fato gerador, com atualização pela Selic. Prazo de 60 dias para a OPA da Centaurus. Declarou perda do objeto de pedido de avocação e indeferiu desentranhamento de parecer. | ../../../../../julgados/cvm/colegiado/2026/col-20260825-d3540.md |
-| decisao-colegiado | 19957.002560/2026-75 | 2026-05-06 | parcial | infraestrutura-mercado | O Colegiado, por maioria, deferiu parcialmente pedido da Inter & Co para descontinuar BDR Nível II Patrocinado: admitiu conversão em BDR Nível I Não Patrocinado por manifestação expressa; negou padrão automático e início discricionário; período adicional prejudicado. Área técnica era contrária; vencido um diretor, favorável ao deferimento integral. | ../../../../../julgados/cvm/colegiado/2026/col-20260506-d3508.md |
-| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso do DRI de companhia aberta por não divulgação tempestiva de fato relevante sobre ofertas iminentes, diante de oscilações atípicas em 16.06.2023 (art. 157, §4º, da Lei 6.404/1976; RCVM 44, arts. 3º e 6º), acompanhando o Comitê, que aprimorou a proposta para R$ 470.000,00 (inicial: R$ 320.000,00). | ../../../../../julgados/cvm/colegiado/2025/col-20250916-d3361.md |
-| termo-compromisso | 19957.020870/2024-18 | 2025-09-09 | aceito | divulgacao-informacoes | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou proposta de termo de compromisso de diretor de relações com investidores de companhia, acusado de não divulgar fato relevante sobre arbitragem (art. 157, §4º, da Lei 6.404/1976 c/c art. 3º da RCVM 44). Valor aprimorado pelo Comitê e aceito pelo proponente: R$ 330.000,00, em parcela única. | ../../../../../julgados/cvm/colegiado/2025/col-20250909-d3358.md |
-| decisao-colegiado | 19957.000142/2024-81 | 2025-05-20 | — | assembleia-acionistas | Recurso dos administradores da Profarma Distribuidora de Produtos Farmacêuticos S.A. contra o Ofício de Alerta da SEP sobre redução de capital de R$ 125.000.000,00 destinada a reserva de capital, sem distribuição de caixa, à luz dos arts. 173 e 174 da Lei 6.404/76. A SEP propôs não conhecer do recurso. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3137.md |
-| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-30 | outro | normativo | O Colegiado aprovou minutas para a Consulta Pública SDM nº 1/2025 que reformam a RCVM 44/2021 (fatos relevantes, negociação na pendência de informação relevante e pessoas com influência) e propõem sua revogação, com ajustes na RCVM 80. Não houve AIR, nos termos do Decreto 10.411/2020, art. 4º, III e VII. | ../../../../../julgados/cvm/colegiado/2025/col-20250430-d3258.md |
-| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-02 | — | normativo | O Colegiado iniciou a discussão de minutas da SDM que revogam a Resolução CVM nº 44/2021 (fatos relevantes, comunicados ao mercado, negociação com informação relevante não divulgada e negociações por pessoas com influência) e alteram a RCVM 80/2022, sem deliberação nesta reunião. Nova reunião foi acordada para aprovar o material. | ../../../../../julgados/cvm/colegiado/2025/col-20250402-d3258.md |
-| decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, concedeu à BEE4 autorização para constituir e operar entidade administradora de mercado organizado e mercado de balcão organizado para empresas emergentes. Por maioria, acompanhando a área técnica, concedeu dispensas de requisitos regulatórios nas condições do Ofício Interno nº 7/2025 da SMI; um diretor votou por concedê-las como pleiteadas. | ../../../../../julgados/cvm/colegiado/2025/col-20250401-d3243.md |
-| pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | assembleia-acionistas | Apurar suposto não fornecimento da relação de endereços de acionistas, em infração ao disposto no art. 126, §1º, da Lei nº 6.404/1976 c/c art. 58, §1º, inciso I, da Resolução CVM nº 81/2022. Multas | ../../../../../julgados/cvm/pas/2025/19957-008183-2024-16.md |
-| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | manipulacao-fraude | Apurar eventual responsabilidade de ex-diretores do IRB Brasil Resseguros S.A. por descumprimento do dever de diligência e pela prática irregular de manipulação de preços no mercado de valores mobiliários. Multa e Absolvição | ../../../../../julgados/cvm/pas/2024/19957-003611-2020-91.md |
-| decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | divulgacao-informacoes | O Colegiado, por unanimidade, indeferiu pedido de dispensa de prazos de divulgação periódica de cinco fundos, mantida após a Resolução CVM 175 para alinhar aos prazos da StoneCo, companhia listada nos EUA. Por maioria, indeferiu também a confidencialidade. Acompanhou as áreas técnicas, que viram ausência de benefício ao mercado e de interesse público. | ../../../../../julgados/cvm/colegiado/2024/col-20241210-d3189.md |
-| decisao-colegiado | 19957.014411/2024-97 | 2024-09-17 | indeferido | assembleia-acionistas | O Colegiado indeferiu pedido de acionista para interromper o prazo de convocação da AGE da Mobly S.A. (20.09.2024), que delibera aumento de capital ligado à combinação com a Tok&Stok. Acompanhou a SEP, que não vislumbrou violação ao art. 124, §5º, II, da Lei 6.404/1976 nem à RCVM 81/2022. | ../../../../../julgados/cvm/colegiado/2024/col-20240917-d3138.md |
-| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | divulgacao-informacoes | Apurar a responsabilidade do Diretor de Relações com Investidores do Magazine Luiza S.A., por suposto descumprimento ao disposto no artigo 3º da Instrução CVM nº 358/2002 c/c o artigo 14 da Instrução CVM nº 480/09 e ao inciso V do artigo 30 da Instrução CVM nº480/2009. Multa. | ../../../../../julgados/cvm/pas/2024/19957-003999-2021-19.md |
-| pas | 19957.015040/2022-07 | 2024-06-13 | condenacao | divulgacao-informacoes | Apurar responsabilidade de diretor presidente da Blue Tech Solutions EQI S.A. por eventual violação ao art. 157, §4º, da Lei nº 6.404/76, e ao art. 3º, §1º, da então vigente Instrução CVM nº 358/02. Multa. | ../../../../../julgados/cvm/pas/2024/19957-015040-2022-07.md |
-| pas | 19957.007727/2018-84 | 2024-05-28 | — | informacao-privilegiada | Apurar responsabilidade por supostas aquisições indevidas, no âmbito das compras de 188.900 ações CGRA3 e 342.200 ações CGRA4 de emissão da Grazziotin S.A., realizadas no período de vedação de 15 dias anteriores à divulgação do 2º Formulário de Informações Trimestrais de 2017. Multas. | ../../../../../julgados/cvm/pas/2024/19957-007727-2018-84.md |
-| decisao-colegiado | 202/2024; 19957.004793/2024-41 | 2024-05-28 | outro | institucional | O Colegiado aprovou a Deliberação CVM 892/2024, que delega à SEP competência para decidir pedidos de prorrogação de prazos da RCVM 202/2024 de emissores com sede em outro Estado e atividades no RS afetadas pela calamidade. Fundamento: a Superintendência não pode conceder dispensas de requisitos, e a delegação reduz o prazo de tramitação. | ../../../../../julgados/cvm/colegiado/2024/col-20240528-d3074.md |
-| decisao-colegiado | 19957.003533/2024-58 | 2024-05-21 | deferido | ofertas-publicas | O Colegiado concedeu dispensa do art. 18 da Instrução CVM 400 às ofertas de debêntures e cotas do FIP RDT da Concessionária Rodovias do Tietê S.A., condicionada à atualização do Formulário de Referência e do Prospecto. Delegou à SRE futuros pedidos nessas ofertas, sob condições. Acompanhou a SRE. | ../../../../../julgados/cvm/colegiado/2024/col-20240521-d3064.md |
-| decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | normativo | O Colegiado aprovou a Resolução CVM 202/2024, que prorroga para 30.06.2024 prazos de maio e junho de 2024 para emissores com sede no RS e contribuintes com domicílio no RS (calamidade), e suspende notificações de lançamento até essa data. Dispensou AIR e consulta pública por urgência. | ../../../../../julgados/cvm/colegiado/2024/col-20240510-d3062.md |
-| acordao-crsfn | 19957.009206/2018-61 | 2024-05-07 | parcial | divulgacao-informacoes | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. NÃO APRESENTAÇÃO DE INFORMAÇÕES EXIGIDAS, COM EMBARAÇO À FISCALIZAÇÃO. DEIXAR DE COMUNICAR, PARA FINS DE DIVULGAÇÃO, FATO RELEVANTE. DIVULGAÇÃO DE FORMULÁRIO DE REFERÊNCIA COM INFORMAÇÕES INCOMPLETAS. PRESTAÇÃO DE INFORMAÇÃO ERRÔNEA RELATIVA À SUPOSTA INDEPENDÊNCIA DE CONSELHEIROS. Materialidade das infrações e autoria comprovadas em relação a um dos recorrentes. Súmula do CRSFN - Enunciado nº 3. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimento. | ../../../../../julgados/crsfn/2024/10372-100112-2023-90.md |
-| decisao-colegiado | 19957.000183/2022-14 | 2024-03-05 | outro | registro-emissor | O Colegiado reconheceu, por unanimidade, a perda do objeto de consulta de companhia sobre qualificação como emissor estrangeiro para programa de BDR Nível III, diante da RCVM 183/2023 (Anexo J da RCVM 80/2022), que considera estrangeiro o emissor com sede fora do Brasil, e de nova consulta do mesmo grupo econômico. Manteve o deferimento da confidencialidade, acompanhando o relator. | ../../../../../julgados/cvm/colegiado/2024/col-20240305-d2564.md |
-| decisao-colegiado | 80/2022; 19957.012668/2023-23 | 2024-01-31 | outro | divulgacao-informacoes | O Colegiado aprovou a Resolução CVM 198/2024, que inclui no Formulário de Referência campo sobre pessoas com deficiência e simplifica notas de rodapé para emissores em processo de registro sem oferta em curso. Dispensadas AIR (art. 4º, III, Decreto 10.411/2020) e consulta pública (art. 31, I, a, RCVM 67/2022). | ../../../../../julgados/cvm/colegiado/2024/col-20240131-d3009.md |
-| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Malharia Monte Alegre S.A. por (i) não apresentar as demonstrações financeiras relativas aos exercícios de 2019 e 2020; (ii) não encaminhar (ii.a) os dados cadastrais atualizados referentes aos exercícios de 2019; e (ii.b) os dados cadastrais referentes ao exercício de 2020 de modo tempestivo; e (iii) não diligenciar para a realização, no prazo estabelecido em lei, das assembleias gerais ordinárias relativas aos exercícios sociais findos em 31.12.2019 e 31.12.2020. Multas. | ../../../../../julgados/cvm/pas/2023/19957-009721-2021-47.md |
-| decisao-colegiado | 19957.012111/2023-92 | 2023-10-17 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de requisito do art. 18 da Instrução CVM 400 às ofertas de debêntures (3ª e 4ª emissões) e de cotas do FIP Rodovias do Tietê, em recuperação judicial, acompanhando a SRE. Condições: atualização do Formulário de Referência e do Prospecto; comprovação de documentos à ARTESP e de extensão de 180 dias pelo juízo da recuperação. | ../../../../../julgados/cvm/colegiado/2023/col-20231017-d2949.md |
-| decisao-colegiado | 19957.008903/2023-62 | 2023-08-08 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, deu provimento a pedido de acionista para adiar a AGE da PDG Realty S.A., convocada para 10.08.2023 (aumento de capital por capitalização de créditos), por 21 dias contados da entrega das informações do art. 9º da RCVM 81, sem prejuízo das apurações da SEP. Acompanhou a área técnica, que propôs até 30 dias. | ../../../../../julgados/cvm/colegiado/2023/col-20230808-d2908.md |
-| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | normativo | O Colegiado aprovou, por unanimidade, a nova versão do Regulamento de Emissores da B3, que consolida o Regulamento para Listagem e o Manual Emissor, e o Anexo B (Medidas ASG, pratique-ou-explique). Acompanhou a fundamentação das áreas técnicas (SEP, SRE, SDM e SMI), que após esclarecimentos da B3 não viram óbice e não formularam exigência ao Anexo B. | ../../../../../julgados/cvm/colegiado/2023/col-20230714-d2844.md |
-| decisao-colegiado | 19957.001660/2023-31 | 2023-04-04 | deferido | ofertas-publicas | O Colegiado concedeu dispensa de requisito do art. 18 da Instrução CVM 400/2003 para as ofertas de duas emissões de debêntures e de cotas do FIP Rodovias do Tietê, no contexto de recuperação judicial da Concessionária Rodovias do Tietê. A dispensa é condicionada à atualização do Formulário de Referência e do prospecto, acompanhando a SRE. | ../../../../../julgados/cvm/colegiado/2023/col-20230404-d2822.md |
-| decisao-colegiado | 80/2022; 160/2022; 19957.000850/2023-31 | 2023-03-21 | outro | ofertas-publicas | O Colegiado, por unanimidade, aprovou a RCVM 180/2023, que altera as RCVM 160 e 80: esclarece o conceito de emissor frequente de renda fixa e o rito automático de ofertas subsequentes de fundo fechado, muda o fluxo de pedidos de registro de oferta e de emissor e exclui notas do formulário de referência. Dispensadas AIR e consulta pública. | ../../../../../julgados/cvm/colegiado/2023/col-20230321-d2814.md |
-| pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | divulgacao-informacoes | Infrações ao art. 12, I, da Instrução CVM nº 265/1997 e ao art. 11, I, da Resolução CVM nº 10/2020, pela não apresentação de demonstrações financeiras à CVM, nos devidos termos e prazos; e ao art. 132 c/c art. 123 da Lei nº 6.404/1976, por não diligenciar para a realização de assembleia geral ordinária no prazo legal. Multas. | ../../../../../julgados/cvm/pas/2023/19957-009685-2021-11.md |
-| decisao-colegiado | — | 2022-12-14 | outro | normativo | O Colegiado deliberou sobre a agenda de Avaliação de Resultado Regulatório (ARR) da CVM para 2023 a 2026, proposta pela SDM após interação com a ASA: 2023, Instrução CVM 472 (assembleias de FII); 2024, Resolução CVM 172 e Resolução CVM 80; 2025, Resolução CVM 59 (RCVM 80, mudanças no FRE); 2026, Resoluções CVM 160 e 161 (ofertas). | ../../../../../julgados/cvm/colegiado/2022/col-20221214-d2794.md |
-| decisao-colegiado | 80/2022; 160/2022; 161/2022; 19957.009300/2018-11 | 2022-11-29 | outro | ofertas-publicas | O Colegiado aprovou, por unanimidade, a Resolução CVM 173/2022, com ajustes pontuais nas RCVM 80, 160 e 161/2022 (formulário de referência em oferta a profissionais, pessoas vinculadas, vedação de negociação e debêntures incentivadas). Dispensou AIR e consulta pública, conforme proposta da SDM (Decreto 10.411/2020, art. 4º, III e VII). | ../../../../../julgados/cvm/colegiado/2022/col-20221129-d1255.md |
-| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | deveres-administradores | Irregularidades relacionadas a (i) conflito de interesses, em violação ao art. 115, §1º, da Lei nº 6.404/1976; (ii) dever de diligência, em infração ao art. 153 da Lei n° 6.404/1976; e (iii) questões informacionais, por descumprimento do art. 3º da Instrução CVM nº 358/2002 c/c art. 157, §4º, da Lei n° 6.404/1976; e dos arts. 24 e 30- XXXIII da Instrução CVM nº 480/2009. Multas e absolvições. | ../../../../../julgados/cvm/pas/2022/19957-004392-2020-67.md |
-| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | deveres-administradores | Irregularidades em processo de aumento de capital social, relativas a (i) diluição injustificada, em infração aos arts. 153 c/c 170, §§1º e 7º, da Lei nº 6.404/1976; e ao art. 2º, IX, do Anexo 30-XXXII da Instrução CVM nº 480/2009; e (ii) conflito de interesses, em violação aos arts. 115, §1º, e 156 da Lei nº 6.404/197. Absolvições. | ../../../../../julgados/cvm/pas/2022/19957-003175-2020-50.md |
-| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | normativo | O Colegiado concluiu a discussão da Audiência Pública SDM 09/2021 e aprovou a Resolução CVM 168/2022, que regulamenta a composição dos órgãos de administração de companhias abertas e de emissores com voto plural (Lei 14.195/2021). Dispensa de AIR (art. 4º, II, do Decreto 10.411/2020). | ../../../../../julgados/cvm/colegiado/2022/col-20220914-d1763.md |
-| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | normativo | O Colegiado iniciou a discussão dos documentos da Audiência Pública SDM nº 09/2021 sobre propostas de resolução que regulamentam, no âmbito do Doing Business, dispositivos da Lei 6.404/76 sobre composição dos órgãos de administração e voto plural. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2022/col-20220831-d1763.md |
-| decisao-colegiado | 01/2021; 480/2009; 19957.000939/2021-36 | 2022-03-16 | outro | normativo | O Colegiado aprovou a Resolução CVM 80/2022, que cria comunicado sobre demandas societárias, exigível de emissores da categoria A, com alterações na ICVM 480/2009 após a Audiência Pública SDM 01/2021. Prazo de divulgação de 7 dias úteis; AIR dispensada. | ../../../../../julgados/cvm/colegiado/2022/col-20220316-d2059.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.003588/2023-87 | 2026-10-22 | — | cvm-pas-19957-003588-2023-87 | fichas/pas/2026-04.md |
+| decisao-colegiado | 19957.003474/2025-07 | 2026-08-25 | parcial | cvm-col-20260825-d3540 | fichas/colegiado/2026-03.md |
+| decisao-colegiado | 19957.002560/2026-75 | 2026-05-06 | parcial | cvm-col-20260506-d3508 | fichas/colegiado/2026-02.md |
+| termo-compromisso | 19957.017968/2024-80 | 2025-09-16 | aceito | cvm-col-20250916-d3361 | fichas/tc/2025-04.md |
+| termo-compromisso | 19957.020870/2024-18 | 2025-09-09 | aceito | cvm-col-20250909-d3358 | fichas/tc/2025-04.md |
+| decisao-colegiado | 19957.000142/2024-81 | 2025-05-20 | — | cvm-col-20250520-d3137 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-30 | outro | cvm-col-20250430-d3258 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 44/2021; 19957.014374/2022-55 | 2025-04-02 | — | cvm-col-20250402-d3258 | fichas/colegiado/2025-03.md |
+| decisao-colegiado | 19957.011105/2024-07 | 2025-04-01 | deferido | cvm-col-20250401-d3243 | fichas/colegiado/2025-03.md |
+| pas | 19957.008183/2024-16 | 2025-03-18 | condenacao | cvm-pas-19957-008183-2024-16 | fichas/pas/2025-01.md |
+| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-12.md |
+| decisao-colegiado | 19957.012859/2023-95 | 2024-12-10 | indeferido | cvm-col-20241210-d3189 | fichas/colegiado/2024-14.md |
+| decisao-colegiado | 19957.014411/2024-97 | 2024-09-17 | indeferido | cvm-col-20240917-d3138 | fichas/colegiado/2024-10.md |
+| pas | 19957.003999/2021-19 | 2024-08-06 | parcial | cvm-pas-19957-003999-2021-19 | fichas/pas/2024-06.md |
+| pas | 19957.015040/2022-07 | 2024-06-13 | condenacao | cvm-pas-19957-015040-2022-07 | fichas/pas/2024-04.md |
+| pas | 19957.007727/2018-84 | 2024-05-28 | — | cvm-pas-19957-007727-2018-84 | fichas/pas/2024-03.md |
+| decisao-colegiado | 202/2024; 19957.004793/2024-41 | 2024-05-28 | outro | cvm-col-20240528-d3074 | fichas/colegiado/2024-06.md |
+| decisao-colegiado | 19957.003533/2024-58 | 2024-05-21 | deferido | cvm-col-20240521-d3064 | fichas/colegiado/2024-05.md |
+| decisao-colegiado | 19957.003937/2024-41 | 2024-05-10 | outro | cvm-col-20240510-d3062 | fichas/colegiado/2024-05.md |
+| acordao-crsfn | 19957.009206/2018-61 | 2024-05-07 | parcial | crsfn-10372-100112-2023-90 | fichas/crsfn/2024-02.md |
+| decisao-colegiado | 19957.000183/2022-14 | 2024-03-05 | outro | cvm-col-20240305-d2564 | fichas/colegiado/2024-03.md |
+| decisao-colegiado | 80/2022; 19957.012668/2023-23 | 2024-01-31 | outro | cvm-col-20240131-d3009 | fichas/colegiado/2024-02.md |
+| pas | 19957.009721/2021-47 | 2023-11-07 | condenacao | cvm-pas-19957-009721-2021-47 | fichas/pas/2023-07.md |
+| decisao-colegiado | 19957.012111/2023-92 | 2023-10-17 | deferido | cvm-col-20231017-d2949 | fichas/colegiado/2023-12.md |
+| decisao-colegiado | 19957.008903/2023-62 | 2023-08-08 | deferido | cvm-col-20230808-d2908 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.015402/2022-51 | 2023-07-14 | outro | cvm-col-20230714-d2844 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.001660/2023-31 | 2023-04-04 | deferido | cvm-col-20230404-d2822 | fichas/colegiado/2023-04.md |
+| decisao-colegiado | 80/2022; 160/2022; 19957.000850/2023-31 | 2023-03-21 | outro | cvm-col-20230321-d2814 | fichas/colegiado/2023-03.md |
+| pas | 19957.009685/2021-11 | 2023-03-14 | condenacao | cvm-pas-19957-009685-2021-11 | fichas/pas/2023-01.md |
+| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2794 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | 80/2022; 160/2022; 161/2022; 19957.009300/2018-11 | 2022-11-29 | outro | cvm-col-20221129-d1255 | fichas/colegiado/2022-16.md |
+| pas | 19957.004392/2020-67 | 2022-11-08 | condenacao | cvm-pas-19957-004392-2020-67 | fichas/pas/2022-06.md |
+| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-05.md |
+| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-09-14 | outro | cvm-col-20220914-d1763 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 09/2021; 367/2002; 480/2009; 19957.005520/2019-56 | 2022-08-31 | — | cvm-col-20220831-d1763 | fichas/colegiado/2022-13.md |
+| decisao-colegiado | 01/2021; 480/2009; 19957.000939/2021-36 | 2022-03-16 | outro | cvm-col-20220316-d2059 | fichas/colegiado/2022-04.md |
 
 Fim do subíndice.

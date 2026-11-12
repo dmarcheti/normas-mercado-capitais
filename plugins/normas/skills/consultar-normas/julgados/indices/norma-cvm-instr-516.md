@@ -3,134 +3,134 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/instrucoes/0516.md](../../normas/cvm/instrucoes/0516.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 2º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
-| art. 2º | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
-| art. 2º | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | ../../../../../julgados/cvm/colegiado/2022/col-20220517-d2388.md |
-| art. 2º | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SSE, dado em consulta, que manteve o real como moeda funcional de Fiagro que investe em CRA com cláusula cambial. Acompanhou a área técnica: custos e rendimentos são em reais e a variação do dólar integra o objetivo de rentabilidade, não sendo mera conversão. | ../../../../../julgados/cvm/colegiado/2023/col-20230822-d2915.md |
-| art. 2º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
-| art. 2º, parágrafo único | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Multas | ../../../../../julgados/cvm/pas/2024/19957-011109-2019-10.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 2º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| art. 2º | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| art. 2º | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | cvm-col-20220517-d2388 | fichas/colegiado/2022-08.md |
+| art. 2º | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | cvm-col-20230822-d2915 | fichas/colegiado/2023-09.md |
+| art. 2º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| art. 2º, parágrafo único | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-03.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
-| art. 5º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | auditoria-independente | Apurar responsabilidade de auditor independente e seu responsável técnico, por infração ao disposto no art. 20 da, então vigente, Instrução CVM nº 308/99 e no art. 20 da Resolução CVM nº 23/21, por inobservância às normas brasileiras de contabilidade para auditoria independente de informação contábil histórica – NBC TA. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002475-2023-64.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| art. 5º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | cvm-pas-19957-002475-2023-64 | fichas/pas/2024-07.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
-| art. 6º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | auditoria-independente | Apurar responsabilidade de auditor independente e seu responsável técnico, por infração ao disposto no art. 20 da, então vigente, Instrução CVM nº 308/99 e no art. 20 da Resolução CVM nº 23/21, por inobservância às normas brasileiras de contabilidade para auditoria independente de informação contábil histórica – NBC TA. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002475-2023-64.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| art. 6º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | cvm-pas-19957-002475-2023-64 | fichas/pas/2024-07.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | 19957.011109/2019-10 | 2026-03-17 | condenacao | auditoria-independente | RECURSO ADMINISTRATIVO. CVM. AUDITORIA INDEPENDENTE. INOBSERVÂNCIA DE NORMAS EMANADAS PELO CONSELHO FEDERAL DE CONTABILIDADE. Descumprimento do item 11, alínea (a), da NBC TA 200 (R1) e dos itens 10, 11 e 12 da NBC TA 700 e ao art. 20 da Instrução CVM Nº 308/1999. Infrações caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2026/10372-000160-2024-60.md |
-| art. 7º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
-| art. 7º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | auditoria-independente | Apurar responsabilidade de auditor independente e seu responsável técnico, por infração ao disposto no art. 20 da, então vigente, Instrução CVM nº 308/99 e no art. 20 da Resolução CVM nº 23/21, por inobservância às normas brasileiras de contabilidade para auditoria independente de informação contábil histórica – NBC TA. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-002475-2023-64.md |
-| art. 7º | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Multas | ../../../../../julgados/cvm/pas/2024/19957-011109-2019-10.md |
-| art. 7º, § 1º | pas | 19957.010255/2021-42 | 2024-11-05 | absolvicao | auditoria-independente | Apurar responsabilidades por suposta não observância às normas brasileiras de contabilidade para auditoria independente de informação contábil histórica. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-010255-2021-42.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | acordao-crsfn | 19957.011109/2019-10 | 2026-03-17 | condenacao | crsfn-10372-000160-2024-60 | fichas/crsfn/2026-01.md |
+| art. 7º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| art. 7º | pas | 19957.002475/2023-64 | 2024-09-03 | absolvicao | cvm-pas-19957-002475-2023-64 | fichas/pas/2024-07.md |
+| art. 7º | pas | 19957.011109/2019-10 | 2024-06-04 | condenacao | cvm-pas-19957-011109-2019-10 | fichas/pas/2024-03.md |
+| art. 7º, § 1º | pas | 19957.010255/2021-42 | 2024-11-05 | absolvicao | cvm-pas-19957-010255-2021-42 | fichas/pas/2024-09.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 8º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
-| art. 8º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 8º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
+| art. 8º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
 
 ## art. 9º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Planner Trustee DTVM Ltda., administradora do Infra Real Estate FII, contra determinação da SIN de refazer DFs de 2014 a 2020. Acompanhou a SSE, que manteve a reclassificação da Rio Jacutinga a custo (art. 8º da Instrução CVM 516/2011) e limitou o refazimento à DF de 30.06.2020 e aos informes desde então. | ../../../../../julgados/cvm/colegiado/2021/col-20210824-d2285.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | decisao-colegiado | 19957.004079/2017-23 | 2021-08-24 | nao-provido | cvm-col-20210824-d2285 | fichas/colegiado/2021-14.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 11 | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | fundos-investimento | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 40.000,00 em 4 parcelas, de diretor responsável por administradora de FII acusado de descumprir dever de diligência com cotistas (IN CVM 472/2008 e 516/2011). A PFE/CVM viu óbice por falta de proposta indenizatória ao fundo; o Comitê considerou o valor distante do adequado. | ../../../../../julgados/cvm/colegiado/2022/col-20220531-d2437.md |
-| art. 11 | decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | processual | O Colegiado não conheceu de pedido de reconsideração contra decisão condenatória em PAS, acompanhando o voto do relator. Segundo o voto, o art. 10 da Resolução CVM 46/2021 não se aplica a PAS, e o art. 65 da Lei 9.784/1999 exige trânsito em julgado; a alegação cabe ao CRSFN. | ../../../../../julgados/cvm/colegiado/2022/col-20221108-d2437.md |
-| art. 11 | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 11 | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | cvm-col-20220531-d2437 | fichas/tc/2022-03.md |
+| art. 11 | decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | cvm-col-20221108-d2437 | fichas/colegiado/2022-15.md |
+| art. 11 | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12, § 1º | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | fundos-investimento | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 40.000,00 em 4 parcelas, de diretor responsável por administradora de FII acusado de descumprir dever de diligência com cotistas (IN CVM 472/2008 e 516/2011). A PFE/CVM viu óbice por falta de proposta indenizatória ao fundo; o Comitê considerou o valor distante do adequado. | ../../../../../julgados/cvm/colegiado/2022/col-20220531-d2437.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12, § 1º | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | cvm-col-20220531-d2437 | fichas/tc/2022-03.md |
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | decisao-colegiado | RJ2015/85 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/85. | ../../../../../julgados/cvm/colegiado/2015/col-20150929-d9857.md |
-| art. 23 | decisao-colegiado | RJ2015/9804; RJ2015/9805; RJ2015/9808 | 2015-10-06 | nao-provido | multa-cominatoria-taxa | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/9804; RJ2015/9805 e RJ2015/9808. | ../../../../../julgados/cvm/colegiado/2015/col-20151006-d9871.md |
-| art. 23, § 4º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 23, § 4º | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | fundos-investimento | O Colegiado rejeitou, acompanhando o Comitê, proposta de termo de compromisso de R$ 40.000,00 em 4 parcelas, de diretor responsável por administradora de FII acusado de descumprir dever de diligência com cotistas (IN CVM 472/2008 e 516/2011). A PFE/CVM viu óbice por falta de proposta indenizatória ao fundo; o Comitê considerou o valor distante do adequado. | ../../../../../julgados/cvm/colegiado/2022/col-20220531-d2437.md |
-| art. 23, § 4º | decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | processual | O Colegiado não conheceu de pedido de reconsideração contra decisão condenatória em PAS, acompanhando o voto do relator. Segundo o voto, o art. 10 da Resolução CVM 46/2021 não se aplica a PAS, e o art. 65 da Lei 9.784/1999 exige trânsito em julgado; a alegação cabe ao CRSFN. | ../../../../../julgados/cvm/colegiado/2022/col-20221108-d2437.md |
-| art. 23, § 4º | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SSE, dado em consulta, que manteve o real como moeda funcional de Fiagro que investe em CRA com cláusula cambial. Acompanhou a área técnica: custos e rendimentos são em reais e a variação do dólar integra o objetivo de rentabilidade, não sendo mera conversão. | ../../../../../julgados/cvm/colegiado/2023/col-20230822-d2915.md |
-| art. 23, § 4º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
-| art. 23, § 4º | pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | divulgacao-informacoes | Apurar supostas irregularidades no envio de Demonstrações Financeiras. . Multa. | ../../../../../julgados/cvm/pas/2024/19957-001933-2021-86.md |
-| art. 23, § 6º | decisao-colegiado | RJ2015/85 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/85. | ../../../../../julgados/cvm/colegiado/2015/col-20150929-d9857.md |
-| art. 23, § 6º | decisao-colegiado | RJ2015/9804; RJ2015/9805; RJ2015/9808 | 2015-10-06 | nao-provido | multa-cominatoria-taxa | Recursos contra decisões da SIN em processos de multa cominatória. Proc. s. RJ2015/9804; RJ2015/9805 e RJ2015/9808. | ../../../../../julgados/cvm/colegiado/2015/col-20151006-d9871.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | decisao-colegiado | RJ2015/85 | 2015-09-29 | nao-provido | cvm-col-20150929-d9857 | fichas/colegiado/2015-18.md |
+| art. 23 | decisao-colegiado | RJ2015/9804; RJ2015/9805; RJ2015/9808 | 2015-10-06 | nao-provido | cvm-col-20151006-d9871 | fichas/colegiado/2015-18.md |
+| art. 23, § 4º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 23, § 4º | termo-compromisso | 19957.002315/2021-53 | 2022-05-31 | rejeitado | cvm-col-20220531-d2437 | fichas/tc/2022-03.md |
+| art. 23, § 4º | decisao-colegiado | 19957.002315/2021-53 | 2022-11-08 | conhecimento | cvm-col-20221108-d2437 | fichas/colegiado/2022-15.md |
+| art. 23, § 4º | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | cvm-col-20230822-d2915 | fichas/colegiado/2023-09.md |
+| art. 23, § 4º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| art. 23, § 4º | pas | 19957.001933/2021-86 | 2024-09-24 | condenacao | cvm-pas-19957-001933-2021-86 | fichas/pas/2024-08.md |
+| art. 23, § 6º | decisao-colegiado | RJ2015/85 | 2015-09-29 | nao-provido | cvm-col-20150929-d9857 | fichas/colegiado/2015-18.md |
+| art. 23, § 6º | decisao-colegiado | RJ2015/9804; RJ2015/9805; RJ2015/9808 | 2015-10-06 | nao-provido | cvm-col-20151006-d9871 | fichas/colegiado/2015-18.md |
 
 ## art. 24
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 24 | pas | RJ2017/2272 | 2019-02-26 | condenacao | auditoria-independente | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade. Infração ao art. 20 da Instrução CVM nº 308/99. Multas. Data decisão CVM Tue Feb 26 15:13:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2017-2272.md |
-| art. 24, inciso I | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela Brookfield Incorporações S.A. sobre litígio envolvendo títulos de empreendimentos, acompanhando o voto do relator. Fundamento: litígio sem pronunciamento de primeira instância e sem risco avaliado como possível ou provável não atende ao art. 2º da Instrução CVM 358/2002. | ../../../../../julgados/cvm/colegiado/2015/col-20150324-d9305.md |
-| art. 24, inciso II | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela Brookfield Incorporações S.A. sobre litígio envolvendo títulos de empreendimentos, acompanhando o voto do relator. Fundamento: litígio sem pronunciamento de primeira instância e sem risco avaliado como possível ou provável não atende ao art. 2º da Instrução CVM 358/2002. | ../../../../../julgados/cvm/colegiado/2015/col-20150324-d9305.md |
-| art. 24, inciso III | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela Brookfield Incorporações S.A. sobre litígio envolvendo títulos de empreendimentos, acompanhando o voto do relator. Fundamento: litígio sem pronunciamento de primeira instância e sem risco avaliado como possível ou provável não atende ao art. 2º da Instrução CVM 358/2002. | ../../../../../julgados/cvm/colegiado/2015/col-20150324-d9305.md |
-| art. 24, inciso IV | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela Brookfield Incorporações S.A. sobre litígio envolvendo títulos de empreendimentos, acompanhando o voto do relator. Fundamento: litígio sem pronunciamento de primeira instância e sem risco avaliado como possível ou provável não atende ao art. 2º da Instrução CVM 358/2002. | ../../../../../julgados/cvm/colegiado/2015/col-20150324-d9305.md |
-| art. 24, inciso V | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento ao recurso do reclamante contra decisão da SEP que concluiu não haver fato relevante a divulgar pela Brookfield Incorporações S.A. sobre litígio envolvendo títulos de empreendimentos, acompanhando o voto do relator. Fundamento: litígio sem pronunciamento de primeira instância e sem risco avaliado como possível ou provável não atende ao art. 2º da Instrução CVM 358/2002. | ../../../../../julgados/cvm/colegiado/2015/col-20150324-d9305.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 24 | pas | RJ2017/2272 | 2019-02-26 | condenacao | cvm-pas-rj2017-2272 | fichas/pas/2019-02.md |
+| art. 24, inciso I | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
+| art. 24, inciso II | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
+| art. 24, inciso III | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
+| art. 24, inciso IV | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
+| art. 24, inciso V | decisao-colegiado | RJ2013/5470 | 2015-03-24 | nao-provido | cvm-col-20150324-d9305 | fichas/colegiado/2015-05.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 26 | decisao-colegiado | 19957.004079/2017-23 | 2021-11-23 | conhecimento | processual | O Colegiado, por unanimidade, não conheceu do pedido de reconsideração contra decisão que negou provimento a recurso sobre reclassificação e refazimento das demonstrações financeiras do Infra Real Estate FII. Acompanhou a área técnica, que não verificou omissão, obscuridade, contradição ou erro material (Resolução CVM nº 46/2021). | ../../../../../julgados/cvm/colegiado/2021/col-20211123-d2285.md |
-| art. 26 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | fundos-investimento | O Colegiado negou provimento, por maioria, a recurso da administradora de FII contra exigência da SSE de refazimento e reapresentação das DFs de 2022 e 2023 do fundo, sob pena de multa cominatória extraordinária. Acompanhou a área técnica. Restou vencido um diretor. | ../../../../../julgados/cvm/colegiado/2025/col-20250617-d3251.md |
-| art. 26 | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 26 | decisao-colegiado | 19957.004079/2017-23 | 2021-11-23 | conhecimento | cvm-col-20211123-d2285 | fichas/colegiado/2021-20.md |
+| art. 26 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | cvm-col-20250617-d3251 | fichas/colegiado/2025-05.md |
+| art. 26 | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | contabil-demonstracoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO OU ENVIO DE DEMONSTRAÇÕES FINANCEIRAS DE FORMA INCOMPLETA, INCORRETA OU FORA DO PRAZO. Irregularidades na apresentação de informações periódicas de fundos administrados pela Intrader. Preliminares de perda de objeto e da pretensão de abatimento integral do valor originalmente previsto no Termo de Compromisso rejeitadas. Irregularidades caracterizadas. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-001933-2021-86.md |
-| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Fundo de Investimento Imobiliário Iridium Recebíveis Imobiliários relativas à data-base de 30/06/2021. Absolvições. | ../../../../../julgados/cvm/pas/2025/19957-015389-2022-31.md |
-| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Advertências. | ../../../../../julgados/cvm/pas/2024/19957-010272-2021-80.md |
-| termo-compromisso | 19957.010255/2021-42 | 2024-10-01 | rejeitado | auditoria-independente | O Colegiado rejeitou nova proposta conjunta de termo de compromisso de auditora independente e de responsável técnico, de R$ 200.000,00 (R$ 125.000,00 e R$ 75.000,00), por irregularidades em auditoria de FII (ICVM 308, atual RCVM 23/2021). Acompanhou o Comitê, que viu gravidade em tese e manutenção das irregularidades nas demonstrações republicadas. | ../../../../../julgados/cvm/colegiado/2024/col-20241001-d2709.md |
-| decisao-colegiado | — | 2024-01-26 | outro | normativo | O Colegiado aprovou a agenda de normatização contábil da SNC para 2024: três normas a editar, cinco consultas públicas sem AIR (entre elas IFRS S1 e S2) e oito outros temas, como ofício circular e cartas comentário. Projetos da lista de reserva ficam fora da agenda. | ../../../../../julgados/cvm/colegiado/2024/col-20240126-d3019.md |
-| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | normativo | O Colegiado aprovou a revisão da agenda regulatória de 2023 da SNC, com retirada de itens (ICVM 516, 489, 579 e 577; OCPC 06; OCPC sobre ativos digitais). Determinou resolução para adoção voluntária das IFRS S1 e S2 no exercício de 2024, com base nos textos originais do ISSB em inglês. A minuta será apreciada em reunião de regulação. | ../../../../../julgados/cvm/colegiado/2023/col-20230816-d2795.md |
-| decisao-colegiado | — | 2022-12-14 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, proposta pela SNC: revisões das normas de fundos (ICVM 516, 489, 579 e 577), normas de convergência contábil (CPCs, OCPCs, IFRS) e outros temas para consulta pública e edição. | ../../../../../julgados/cvm/colegiado/2022/col-20221214-d2795.md |
-| termo-compromisso | 19957.010255/2021-42 | 2022-10-25 | rejeitado | auditoria-independente | O Colegiado, por unanimidade, acompanhando o Comitê, rejeitou proposta conjunta de termo de compromisso de sociedade de auditoria e de seu responsável técnico (R$ 150.000,00) em PAS por descumprimento de normas de auditoria do FII (exercício 2019). Fundamentos: recomendação da CGU sobre indícios de irregularidade em DFs, manifestação da SSE e óbice jurídico da PFE/CVM. | ../../../../../julgados/cvm/colegiado/2022/col-20221025-d2709.md |
-| termo-compromisso | 19957.010586/2018-87; 19957.011109/2019-10 | 2021-05-11 | rejeitado | auditoria-independente | Por maioria, vencido um diretor, o Colegiado rejeitou a proposta global de termo de compromisso de uma sociedade de auditoria independente e de seu responsável técnico, em dois PAS da SNC sobre auditoria de demonstrações financeiras, acompanhando o Comitê. Motivo: contrapartidas insuficientes para desestimular práticas semelhantes. | ../../../../../julgados/cvm/colegiado/2021/col-20210511-d2158.md |
-| termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | auditoria-independente | O Colegiado rejeitou a proposta conjunta de termo de compromisso de uma sociedade de auditoria e de sua sócia, acompanhando o Comitê. As proponentes recusaram a contraproposta do Comitê, de R$ 456.000,00, e a proposta final foi considerada insuficiente para desestimular práticas semelhantes. | ../../../../../julgados/cvm/colegiado/2021/col-20210504-d2157.md |
-| termo-compromisso | 19957.006941/2017-32 | 2021-04-27 | aceito | fundos-investimento | O Colegiado aceitou proposta de Termo de Compromisso de R$ 1.505.000,00, em parcela única, de gestora, administradora e dois diretores de FII, por indícios de atuação semelhante a pirâmide financeira (ICVM 8/1979, II, “c”; ICVM 472/2008), acompanhando o Comitê. Valores: gestora R$ 450.000,00; administradora R$ 517.500,00; diretores R$ 250.000,00 e R$ 287.500,00. | ../../../../../julgados/cvm/colegiado/2021/col-20210427-d1086.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| decisao-colegiado | 795/2018; 19957.006941/2017-32 | 2018-09-25 | deferido | fundos-investimento | O Colegiado deferiu pedido da Planner Corretora de Valores S.A., administradora do Mérito Desenvolvimento Imobiliário I FII, e revogou a suspensão de negociação de cotas imposta pela Deliberação CVM 795/18. Fundamento: correção das inconsistências contábeis (ICVM 516/11), exigida pela SIN e ponderada pela PFE; sem prejuízo da apuração de irregularidades em curso. | ../../../../../julgados/cvm/colegiado/2018/col-20180925-d1086.md |
-| decisao-colegiado | 19957.005760/2018-70 | 2018-07-03 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso da Planner Corretora contra o indeferimento, pela SRE, de pedido de modificação da oferta pública de cotas da 3ª emissão do JT Prev FII, acompanhando a área técnica. Fundamento: exigências não atendidas, por irregularidade do fundo, com investimento não marcado a valor justo (Instrução CVM 516/11). | ../../../../../julgados/cvm/colegiado/2018/col-20180703-d1072.md |
-| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | ../../../../../julgados/cvm/colegiado/2017/col-20170626-d0603.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
+| pas | 19957.015389/2022-31 | 2025-03-18 | absolvicao | cvm-pas-19957-015389-2022-31 | fichas/pas/2025-01.md |
+| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-09.md |
+| termo-compromisso | 19957.010255/2021-42 | 2024-10-01 | rejeitado | cvm-col-20241001-d2709 | fichas/tc/2024-05.md |
+| decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
+| termo-compromisso | 19957.010255/2021-42 | 2022-10-25 | rejeitado | cvm-col-20221025-d2709 | fichas/tc/2022-05.md |
+| termo-compromisso | 19957.010586/2018-87; 19957.011109/2019-10 | 2021-05-11 | rejeitado | cvm-col-20210511-d2158 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.002521/2020-82 | 2021-05-04 | rejeitado | cvm-col-20210504-d2157 | fichas/tc/2021-03.md |
+| termo-compromisso | 19957.006941/2017-32 | 2021-04-27 | aceito | cvm-col-20210427-d1086 | fichas/tc/2021-02.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | 795/2018; 19957.006941/2017-32 | 2018-09-25 | deferido | cvm-col-20180925-d1086 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.005760/2018-70 | 2018-07-03 | nao-provido | cvm-col-20180703-d1072 | fichas/colegiado/2018-11.md |
+| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
 
 Fim do subíndice.

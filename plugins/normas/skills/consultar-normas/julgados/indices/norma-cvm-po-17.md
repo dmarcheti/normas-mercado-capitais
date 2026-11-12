@@ -3,15 +3,15 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/pareceres-orientacao/0017.md](../../normas/cvm/pareceres-orientacao/0017.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 14/2009 | 2015-08-11 | parcial | deveres-administradores | Descumprimento dos deveres de lealdade e de informar – Responsabilidade do acionista controlador para com os demais acionistas da companhia – Prática de ato de liberalidade – Inobservância das normas expedidas pela CVM na elaboração das demonstrações financeiras da companhia. Absolvições, Inabilitações e Multas. | ../../../../../julgados/cvm/pas/2015/14-2009.md |
-| decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | contabil-demonstracoes | O Colegiado, acompanhando o relator, deu provimento ao recurso da PPE Fios Esmaltados contra entendimento da SEP e dispensou a republicação das demonstrações financeiras de 31.12.08. Fundamento: não há ações em circulação e os acionistas estão cientes dos ajustes. Condicionou a dispensa à AGE, comunicado e publicação comparativa. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d20.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 14/2009 | 2015-08-11 | parcial | cvm-pas-14-2009 | fichas/pas/2015-04.md |
+| decisao-colegiado | RJ2009/6750 | 2009-10-13 | provido | cvm-col-20091013-d20 | fichas/colegiado/2009-18.md |
 
 Fim do subíndice.

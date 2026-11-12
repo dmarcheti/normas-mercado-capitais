@@ -3,76 +3,76 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | ../../../../../julgados/cvm/decisoes-antigas/1987.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | decisao-antiga | — | 1985-01-17 | — | — | Decisões do colegiado de 1985. | ../../../../../julgados/cvm/decisoes-antigas/1985.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | decisao-antiga | — | 1985-01-17 | — | cvm-dec-1985-0001 | fichas/decisoes-antigas/1985-05.md |
 
 ## art. 58
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 58 | acordao-crsfn | 07/89 | 1996-11-26 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO: Criação de condições artificiais de mercado e manipulação de preço, em operações simuladas realizadas por grupos de investidores que atuaram em nome próprio e de terceiros, e com a participação de intermediários. Responsabilidade de investidores e intermediários. Recursos não providos. | ../../../../../julgados/crsfn/1996/1733.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 58 | acordao-crsfn | 07/89 | 1996-11-26 | parcial | crsfn-1733 | fichas/crsfn/1996-02.md |
 
 ## art. 68
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 68, inciso V | decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | ../../../../../julgados/cvm/decisoes-antigas/1986.md |
-| art. 68, inciso V | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | ../../../../../julgados/cvm/decisoes-antigas/1987.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 68, inciso V | decisao-antiga | — | 1986-01-13 | — | cvm-dec-1986-0001 | fichas/decisoes-antigas/1986-07.md |
+| art. 68, inciso V | decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
 
 ## art. 78
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 78 | decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | ../../../../../julgados/cvm/decisoes-antigas/1986.md |
-| art. 78, parágrafo único | decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | ../../../../../julgados/cvm/decisoes-antigas/1986.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 78 | decisao-antiga | — | 1986-01-13 | — | cvm-dec-1986-0001 | fichas/decisoes-antigas/1986-07.md |
+| art. 78, parágrafo único | decisao-antiga | — | 1986-01-13 | — | cvm-dec-1986-0001 | fichas/decisoes-antigas/1986-07.md |
 
 ## art. 82
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 82 | decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | ../../../../../julgados/cvm/decisoes-antigas/1987.md |
-| art. 82 | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | ../../../../../julgados/cvm/decisoes-antigas/1988.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 82 | decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
+| art. 82 | decisao-antiga | — | 1988-01-08 | — | cvm-dec-1988-0001 | fichas/decisoes-antigas/1988-07.md |
 
 ## art. 83
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 83 | decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | ../../../../../julgados/cvm/decisoes-antigas/1984.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 83 | decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
 
 ## art. 92
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 92 | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | ../../../../../julgados/cvm/decisoes-antigas/1988.md |
-| art. 92, inciso V | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | ../../../../../julgados/cvm/decisoes-antigas/1988.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 92 | decisao-antiga | — | 1988-01-08 | — | cvm-dec-1988-0001 | fichas/decisoes-antigas/1988-07.md |
+| art. 92, inciso V | decisao-antiga | — | 1988-01-08 | — | cvm-dec-1988-0001 | fichas/decisoes-antigas/1988-07.md |
 
 ## art. 94
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 94 | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | ../../../../../julgados/cvm/decisoes-antigas/1988.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 94 | decisao-antiga | — | 1988-01-08 | — | cvm-dec-1988-0001 | fichas/decisoes-antigas/1988-07.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | infraestrutura-mercado | O Colegiado conheceu em parte do pedido de reconsideração da TOV CCTVM e rejeitou o restante. Entendeu que estatutos com múltiplos processos admissionais não violam a regulação e que a lista de associados pedida antes de assembleia é lícita, restrita aos associados com direito de voto. | ../../../../../julgados/cvm/colegiado/2005/col-20051227-d03.md |
-| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | infraestrutura-mercado | O Colegiado, por maioria, decidiu que a cláusula estatutária da BM&F que dispensa de motivar a não admissão de corretora não viola a regulamentação, contrariando o entendimento da SMI. Assegurou à corretora o direito de pedir convocação de assembleia para reexame, em quinze dias, diante da omissão do estatuto. | ../../../../../julgados/cvm/colegiado/2005/col-20050531-d01.md |
-| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
-| decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
-| decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | ../../../../../julgados/cvm/decisoes-antigas/1989.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | RJ2004/6153 | 2005-12-27 | parcial | cvm-col-20051227-d03 | fichas/colegiado/2005-20.md |
+| decisao-colegiado | RJ2004/6153 | 2005-05-31 | parcial | cvm-col-20050531-d01 | fichas/colegiado/2005-08.md |
+| decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
+| decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| decisao-antiga | — | 1989-01-04 | — | cvm-dec-1989-0001 | fichas/decisoes-antigas/1989-04.md |
 
 Fim do subíndice.

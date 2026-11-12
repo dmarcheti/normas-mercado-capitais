@@ -3,84 +3,84 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | termo-compromisso | RJ2012/8371 | 2013-05-14 | aceito | contabil-demonstracoes | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de R$ 130.000,00 de seis diretores do Paraná Banco S.A. (R$ 30.000,00 de um e R$ 20.000,00 de cada um dos demais), acompanhando o parecer do Comitê, que a considerou conveniente e oportuna. Acusados de atraso nas demonstrações financeiras consolidadas de 2010 e 2011. | ../../../../../julgados/cvm/colegiado/2013/col-20130514-d03.md |
-| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2016-8769.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | termo-compromisso | RJ2012/8371 | 2013-05-14 | aceito | cvm-col-20130514-d03 | fichas/tc/2013-02.md |
+| art. 1º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2008/2065; RJ2008/2067 | 2008-04-01 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa pedida pela Metalúrgica Gerdau S.A. e pela Gerdau S.A., que apresentariam apenas os dois últimos exercícios no padrão IFRS no prospecto (item 5.2.1 do Anexo III da Instrução 400/03), com base no Memo/SRE/GER-2/070/08. Ressalvas: DFs de 2005 a 2007 em US GAAP e 1º ITR/08 em IFRS, se os registros forem concedidos após 29.04.08. | ../../../../../julgados/cvm/colegiado/2008/col-20080401-d04.md |
-| art. 2º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | contabil-demonstracoes | O Colegiado concedeu ao Banco Santander (Brasil) S.A. dispensa de requisito de registro para apresentar DFs IFRS no MD&A, em vez dos três últimos exercícios no padrão brasileiro, e autorizou DFs não auditadas do Banco Real e da ABN AMRO Brasil Dois, conforme o Memo/SRE/GER-2/169/09. | ../../../../../julgados/cvm/colegiado/2009/col-20090818-d07.md |
-| art. 2º, § 1º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | contabil-demonstracoes | O Colegiado concedeu ao Banco Santander (Brasil) S.A. dispensa de requisito de registro para apresentar DFs IFRS no MD&A, em vez dos três últimos exercícios no padrão brasileiro, e autorizou DFs não auditadas do Banco Real e da ABN AMRO Brasil Dois, conforme o Memo/SRE/GER-2/169/09. | ../../../../../julgados/cvm/colegiado/2009/col-20090818-d07.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2008/2065; RJ2008/2067 | 2008-04-01 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa pedida pela Metalúrgica Gerdau S.A. e pela Gerdau S.A., que apresentariam apenas os dois últimos exercícios no padrão IFRS no prospecto (item 5.2.1 do Anexo III da Instrução 400/03), com base no Memo/SRE/GER-2/070/08. Ressalvas: DFs de 2005 a 2007 em US GAAP e 1º ITR/08 em IFRS, se os registros forem concedidos após 29.04.08. | ../../../../../julgados/cvm/colegiado/2008/col-20080401-d04.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | contabil-demonstracoes | O Colegiado concedeu ao Banco Santander (Brasil) S.A. dispensa de requisito de registro para apresentar DFs IFRS no MD&A, em vez dos três últimos exercícios no padrão brasileiro, e autorizou DFs não auditadas do Banco Real e da ABN AMRO Brasil Dois, conforme o Memo/SRE/GER-2/169/09. | ../../../../../julgados/cvm/colegiado/2009/col-20090818-d07.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2008/2065; RJ2008/2067 | 2008-04-01 | deferido | cvm-col-20080401-d04 | fichas/colegiado/2008-08.md |
+| art. 2º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | cvm-col-20090818-d07 | fichas/colegiado/2009-15.md |
+| art. 2º, § 1º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | cvm-col-20090818-d07 | fichas/colegiado/2009-15.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2008/2065; RJ2008/2067 | 2008-04-01 | deferido | cvm-col-20080401-d04 | fichas/colegiado/2008-08.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2009/7176 | 2009-08-18 | deferido | cvm-col-20090818-d07 | fichas/colegiado/2009-15.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | 06/2012 | 2018-08-20 | parcial | manipulacao-fraude | Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea ‘d’, da Instrução CVM nº 08/79. Criação de condições artificiais de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira e na administração dos fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2616/95, ao art. 65, inciso XV, da Instrução CVM nº 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM nº 387/03. Preliminares de extinção de punibilidade, prescrição, bis in idem, utilização de prova compartilhada por juízo criminal, inaplicabilidade da Instrução CVM nº 306/99, inépcia da acusação, cerceamento de defesa, existência de vícios processuais e ilegitimidade passiva. Absolvições, Multas, Inabilitação e Suspensão temporárias. | ../../../../../julgados/cvm/pas/2018/06-2012.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | pas | 06/2012 | 2018-08-20 | parcial | cvm-pas-06-2012 | fichas/pas/2018-06.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | auditoria-independente | O Colegiado rejeitou as propostas da Audilink & Cia Auditores (R$ 15.000,00) e de um dos sócios responsáveis técnicos (afastamento de 2 anos e 6 meses, ou 1 ano como alternativa), acompanhando o Comitê, que as considerou insuficientes para desestimular condutas semelhantes. A acusação refere-se a parecer sobre demonstrações de 2014 da Grazziotin S.A. | ../../../../../julgados/cvm/colegiado/2017/col-20171031-d0838.md |
-| art. 4º | decisao-colegiado | 19957.008984/2016-71 | 2019-01-29 | indeferido | processual | O Colegiado, por unanimidade, indeferiu pedido de efeito suspensivo contra decisão condenatória que suspendeu por dois anos o registro de auditor independente. Fundamento: o art. 34, § 2º, da Lei 13.506/17 prevê, em regra, apenas efeito devolutivo, e o pedido não apresentou situação excepcional que justificasse tratamento diverso. | ../../../../../julgados/cvm/colegiado/2019/col-20190129-d0838.md |
-| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2016-8769.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | termo-compromisso | 19957.008984/2016-71; RJ2016/8769 | 2017-10-31 | rejeitado | cvm-col-20171031-d0838 | fichas/tc/2017-05.md |
+| art. 4º | decisao-colegiado | 19957.008984/2016-71 | 2019-01-29 | indeferido | cvm-col-20190129-d0838 | fichas/colegiado/2019-02.md |
+| art. 4º | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | acordao-crsfn | SP-2203-324 | 2007-08-30 | parcial | exercicio-irregular | RECURSO VOLUNTÁRIO E DE OFÍCIO –Mercado de valores mobiliários – Prática continuada de intermediação de ações mesmo após edição de deliberação (stop order) da autoridade fiscalizadora – Irregularidade caracterizada – Apelo voluntário a que se nega provimento – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2007/10456.md |
-| art. 13 | decisao-colegiado | RJ2007/13893 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13893. | ../../../../../julgados/cvm/colegiado/2007/col-20071204-d08.md |
-| art. 13 | decisao-colegiado | RJ2007/13894 | 2007-12-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13894. | ../../../../../julgados/cvm/colegiado/2007/col-20071204-d15.md |
-| art. 13 | decisao-colegiado | RJ2007/13895 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13895. | ../../../../../julgados/cvm/colegiado/2007/col-20071211-d12.md |
-| art. 13 | decisao-colegiado | RJ2007/13897 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13897. | ../../../../../julgados/cvm/colegiado/2007/col-20071211-d13.md |
-| art. 13 | decisao-colegiado | RJ2007/13896 | 2007-12-11 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2007/13896. | ../../../../../julgados/cvm/colegiado/2007/col-20071211-d19.md |
-| art. 13 | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/0326. | ../../../../../julgados/cvm/colegiado/2008/col-20080129-d12.md |
-| art. 13 | decisao-colegiado | RJ2008/6955 | 2008-08-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6955. | ../../../../../julgados/cvm/colegiado/2008/col-20080805-d12.md |
-| art. 13 | decisao-colegiado | RJ2008/6959 | 2008-08-12 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/6959. | ../../../../../julgados/cvm/colegiado/2008/col-20080812-d08.md |
-| art. 13 | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/8284. | ../../../../../julgados/cvm/colegiado/2008/col-20081007-d10.md |
-| art. 13 | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2008/9254. | ../../../../../julgados/cvm/colegiado/2008/col-20081007-d13.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13 | acordao-crsfn | SP-2203-324 | 2007-08-30 | parcial | crsfn-10456 | fichas/crsfn/2007-01.md |
+| art. 13 | decisao-colegiado | RJ2007/13893 | 2007-12-04 | nao-provido | cvm-col-20071204-d08 | fichas/colegiado/2007-24.md |
+| art. 13 | decisao-colegiado | RJ2007/13894 | 2007-12-04 | nao-provido | cvm-col-20071204-d15 | fichas/colegiado/2007-24.md |
+| art. 13 | decisao-colegiado | RJ2007/13895 | 2007-12-11 | parcial | cvm-col-20071211-d12 | fichas/colegiado/2007-25.md |
+| art. 13 | decisao-colegiado | RJ2007/13897 | 2007-12-11 | parcial | cvm-col-20071211-d13 | fichas/colegiado/2007-25.md |
+| art. 13 | decisao-colegiado | RJ2007/13896 | 2007-12-11 | parcial | cvm-col-20071211-d19 | fichas/colegiado/2007-25.md |
+| art. 13 | decisao-colegiado | RJ2008/0326 | 2008-01-29 | nao-provido | cvm-col-20080129-d12 | fichas/colegiado/2008-02.md |
+| art. 13 | decisao-colegiado | RJ2008/6955 | 2008-08-05 | nao-provido | cvm-col-20080805-d12 | fichas/colegiado/2008-18.md |
+| art. 13 | decisao-colegiado | RJ2008/6959 | 2008-08-12 | parcial | cvm-col-20080812-d08 | fichas/colegiado/2008-18.md |
+| art. 13 | decisao-colegiado | RJ2008/8284 | 2008-10-07 | parcial | cvm-col-20081007-d10 | fichas/colegiado/2008-22.md |
+| art. 13 | decisao-colegiado | RJ2008/9254 | 2008-10-07 | parcial | cvm-col-20081007-d13 | fichas/colegiado/2008-22.md |
 
 ## art. 81
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | auditoria-independente | Apurar a responsabilidade de Audilink & Cia. Auditores e de seu sócio e responsável técnico [pessoa física] na condução dos trabalhos de auditoria relativos às demonstrações financeiras de 2014 da Grazziotin S.A. Inobservância ao item 24 do Pronunciamento Técnico CPC 19 (R2) e ao item 1.b da Interpretação Técnica ICPC 09 (R2), incorrendo no descumprimento do art. 4º da Instrução CVM nº 457/07, do art. 177, §§ 3º e 5º da Lei nº 6.404/76, do item 6.a da NBC TA 705, dos itens 2 e 11 da NBC TA 200 e do art. 20 da Instrução CVM nº 308/99. Suspensão temporária. Multa. Data decisão CVM Tue Oct 23 12:49:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2016-8769.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 81 | pas | RJ2016/8769 | 2018-10-23 | condenacao | cvm-pas-rj2016-8769 | fichas/pas/2018-08.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.015838/2023-21 | 2024-03-27 | nao-provido | contabil-demonstracoes | O Colegiado, por maioria, indeferiu pedido de reconsideração da Hapvida contra decisão que negou adiamento da vigência do CPC 50 à companhia. Fundamento: não demonstrada omissão, obscuridade, contradição ou erro material ou de fato (RCVM 46/2021, art. 10). Acompanhou a SEP; vencido um diretor. | ../../../../../julgados/cvm/colegiado/2024/col-20240327-d3025.md |
-| decisao-colegiado | 191/1992; 457/2007; 458/2010; 527/2012; 19957.005398/2022-13; 19957.005466/2022-44; 19957.005473/2022-46 | 2022-06-15 | outro | contabil-demonstracoes | O Colegiado aprovou a revogação das ICVM 191/1992, 457/2007, 485/2010 e 527/2012, com edição das Resoluções CVM 155, 156 e 157/2022, no âmbito do Decreto 10.139/2019. Sem mudança de mérito, dispensou consulta pública e AIR. | ../../../../../julgados/cvm/colegiado/2022/col-20220615-d2630.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | auditoria-independente | Emissão de relatório de auditoria sem ressalvas sobre as demonstrações financeiras da Rossi Residencial S.A., relativas aos exercícios sociais findos em 31.12.2010 e 31.12.2011, sem observância de normas editadas pelo Conselho Federal de Contabilidade relativas à auditoria das demonstrações financeiras de companhia aberta. Infração ao art. 20 da Instrução CVM nº 308/99. Multas. Data decisão CVM Tue Aug 20 17:42:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2015-13127.md |
-| decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | contabil-demonstracoes | Em consulta das áreas técnicas (SNC e SEP), o Colegiado fixou entendimento sobre reconhecimento de receita pelo POC (CPC 47/IFRS 15) em vendas de unidades não concluídas por incorporadoras abertas. Sem carve-out; a Agenda Decision do IFRS IC não se aplica. Exige controles internos robustos e notas segmentadas. | ../../../../../julgados/cvm/colegiado/2018/col-20180703-d1063.md |
-| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Descumprimento do dever de enviar informações periódicas à autoridade supervisora (ata de assembleia geral ordinária e formulário de informações trimestrais – ITR) - Irregularidades não caracterizadas - Recurso de ofício desprovido – Arquivamento confirmado. | ../../../../../julgados/crsfn/2016/14397.md |
-| pas | RJ2011/7941 | 2013-12-10 | parcial | divulgacao-informacoes | Predileto Alimentos Descumprimento por parte dos administradores da companhia do dever de enviar à CVM as informações periódicas e/ou eventuais no prazo legal. – não elaboração de demonstrações financeiras – não convocação de assembleias gerais ordinárias. Absolvição e Multas. | ../../../../../julgados/cvm/pas/2013/rj2011-7941.md |
-| pas | RJ2012/5754 | 2013-09-10 | parcial | divulgacao-informacoes | ELETROPAR Imputação de atraso na elaboração e na divulgação das demonstrações financeiras da companhia. Absolvições. Convocação de Assembleia Geral Ordinária fora do prazo legal.Advertências. | ../../../../../julgados/cvm/pas/2013/rj2012-5754.md |
-| termo-compromisso | RJ2011/9483 | 2013-03-26 | — | divulgacao-informacoes | O proponente, diretor de RI da CAGECE, apresentou nova proposta de termo de compromisso, de R$ 35.000,00, por atraso em informações obrigatórias da Instrução CVM 480/09 (exercícios de 2010 e 2011). A proposta anterior foi rejeitada em 03.04.12. Segundo o Comitê, a aceitação é conveniente. Sem deliberação do Colegiado sobre a nova proposta. | ../../../../../julgados/cvm/colegiado/2013/col-20130326-d01.md |
-| decisao-colegiado | RJ2011/13070 | 2011-12-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/13070. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d18.md |
-| decisao-colegiado | RJ2011/13068 | 2011-12-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/13068. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d17.md |
-| decisao-colegiado | RJ2011/13069 | 2011-11-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/13069. | ../../../../../julgados/cvm/colegiado/2011/col-20111129-d22.md |
-| decisao-colegiado | RJ2011/0710 | 2011-02-22 | provido | contabil-demonstracoes | O Colegiado deu provimento ao recurso da Gerdau S.A. e Metalúrgica Gerdau S.A. e autorizou a manutenção do método de equivalência patrimonial em controladas em conjunto até o IASB alterar o IAS 31. A SNC havia negado a autorização, por entender que só o Colegiado poderia concedê-la. Fundamento (voto da relatora): inciso III da Deliberação CVM 647/10. | ../../../../../julgados/cvm/colegiado/2011/col-20110222-d28.md |
-| acordao-crsfn | RJ-2005-8542 | 2011-01-26 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Fundo de investimento - Violação do dever de agir com devida perícia e diligência na administração do condomínio - Irregularidade caracterizada – Apelo da pessoa jurídica parcialmente provido – Improvimento ao outro apelo. | ../../../../../julgados/crsfn/2011/11331.md |
-| decisao-colegiado | — | 2010-12-28 | indeferido | contabil-demonstracoes | O Colegiado indeferiu pedido da ABDIB de adiar, por pelo menos um ano, a vigência da Interpretação Técnica ICPC 01. Entendeu que as companhias tiveram o mesmo prazo de adaptação das demais normas de 2009, e que o OCPC 05 tratou das peculiaridades das concessões. | ../../../../../julgados/cvm/colegiado/2010/col-20101228-d75.md |
-| decisao-colegiado | 02/2010; RJ2007/4235 | 2010-08-03 | outro | contabil-demonstracoes | O Colegiado aprovou Instrução que altera a Instrução 457/07 para adotar o padrão contábil do IASB nas demonstrações financeiras consolidadas, após a Audiência Pública SNC 02/2010. | ../../../../../julgados/cvm/colegiado/2010/col-20100803-d06.md |
-| decisao-colegiado | RJ2007/4235 | 2010-05-11 | outro | normativo | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 457/07 (demonstrações financeiras consolidadas, com base no padrão IASB), para audiência pública até 31.05.10. A SNC ficará encarregada de consolidar as contribuições recebidas. | ../../../../../julgados/cvm/colegiado/2010/col-20100511-d06.md |
-| decisao-colegiado | RJ2007/9091 | 2008-10-21 | outro | infraestrutura-mercado | O Colegiado tomou ciência da aprovação pela SMI dos regulamentos da BSM e da BVSP sobre listagem, custódia e liquidação de BDRs Nível 1 não patrocinados, com ressalvas da SMI e da SRE. A aprovação foi condicionada a ferramenta de acompanhamento de operações pela BSM. | ../../../../../julgados/cvm/colegiado/2008/col-20081021-d02.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.015838/2023-21 | 2024-03-27 | nao-provido | cvm-col-20240327-d3025 | fichas/colegiado/2024-04.md |
+| decisao-colegiado | 191/1992; 457/2007; 458/2010; 527/2012; 19957.005398/2022-13; 19957.005466/2022-44; 19957.005473/2022-46 | 2022-06-15 | outro | cvm-col-20220615-d2630 | fichas/colegiado/2022-10.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| decisao-colegiado | 19957.006289/2018-37 | 2018-07-03 | outro | cvm-col-20180703-d1063 | fichas/colegiado/2018-11.md |
+| acordao-crsfn | RJ2011/9483 | 2016-05-31 | arquivamento | crsfn-14397 | fichas/crsfn/2016-02.md |
+| pas | RJ2011/7941 | 2013-12-10 | parcial | cvm-pas-rj2011-7941 | fichas/pas/2013-06.md |
+| pas | RJ2012/5754 | 2013-09-10 | parcial | cvm-pas-rj2012-5754 | fichas/pas/2013-04.md |
+| termo-compromisso | RJ2011/9483 | 2013-03-26 | — | cvm-col-20130326-d01 | fichas/tc/2013-01.md |
+| decisao-colegiado | RJ2011/13070 | 2011-12-06 | nao-provido | cvm-col-20111206-d18 | fichas/colegiado/2011-28.md |
+| decisao-colegiado | RJ2011/13068 | 2011-12-06 | nao-provido | cvm-col-20111206-d17 | fichas/colegiado/2011-28.md |
+| decisao-colegiado | RJ2011/13069 | 2011-11-29 | nao-provido | cvm-col-20111129-d22 | fichas/colegiado/2011-27.md |
+| decisao-colegiado | RJ2011/0710 | 2011-02-22 | provido | cvm-col-20110222-d28 | fichas/colegiado/2011-05.md |
+| acordao-crsfn | RJ-2005-8542 | 2011-01-26 | parcial | crsfn-11331 | fichas/crsfn/2011-01.md |
+| decisao-colegiado | — | 2010-12-28 | indeferido | cvm-col-20101228-d75 | fichas/colegiado/2010-34.md |
+| decisao-colegiado | 02/2010; RJ2007/4235 | 2010-08-03 | outro | cvm-col-20100803-d06 | fichas/colegiado/2010-16.md |
+| decisao-colegiado | RJ2007/4235 | 2010-05-11 | outro | cvm-col-20100511-d06 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | RJ2007/9091 | 2008-10-21 | outro | cvm-col-20081021-d02 | fichas/colegiado/2008-22.md |
 
 Fim do subíndice.

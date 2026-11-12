@@ -3,171 +3,346 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1997-12-30 | 45 | Reg. 1503/97 | REVERSÃO DOS EFEITOS DA CORREÇÃO MONETÁRIA ESPECIAL - COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA - CEEE | ../../../../../julgados/cvm/decisoes-antigas/1997.md:53 |
-| 1997-12-30 | 45 | rj1997-2993 | RECURSO CONTRA DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - MESBLA TRUST DE RECEBÍVEIS DE CARTÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:73 |
-| 1997-12-30 | 45 | — | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A APRESENTAÇÃO DE INFORMAÇÕES DOS AUMENTOS DE CAPITAL… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:93 |
-| 1997-12-30 | 45 | — | MINUTA DE DELIBERAÇÃO QUE ALTERA A ESTRUTURA ORGANIZACIONAL DA CVM, ESTABELECE COMPONENTES, SIGLAS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:99 |
-| 1997-12-30 | 45 | — | BALANÇO SOCIAL - POSIÇÃO DA CVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:104 |
-| 1997-12-19 | 44 | Reg. 1489/97 | RECURSO CONTRA A DECISÃO DA SEP - BNDESPAR | ../../../../../julgados/cvm/decisoes-antigas/1997.md:131 |
-| 1997-12-12 | 43 | Reg. 1492/97 | PARECER SOBRE APLICAÇÕES DE ENTIDADES ABERTAS DE PREVIDÊNCIA PRIVADA EM FUNDOS DE INVESTIMENTO… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:194 |
-| 1997-12-12 | 43 | Reg. 1457/97 | RECURSO CONTRA A DECISÃO DA SEP - NAKATA S/A IND. E COM. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:212 |
-| 1997-12-12 | 43 | Reg. 1482/97 | RECURSO CONTRA A DECISÃO DA SEP - METALGRÁFICA IGUAÇU S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:233 |
-| 1997-12-05 | 42 | — | RECURSO CONTRA A DECISÃO DA GER - ELETROPAULO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:356 |
-| 1997-11-28 | 41 | Reg. 1424/97 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - UNITAS DTVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:387 |
-| 1997-11-28 | 41 | Reg. 1265/97 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE RITO SUMÁRIO - BOAVISTA S/A CCVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:401 |
-| 1997-11-28 | 41 | Reg. 1096/96 | PLEITO DE DE ALTERAÇÃO DA INSTRUÇÃO 247/96 - CONSÓRCIO REAL BRASILEIRO DE ADMINISTRAÇÃO S.A. E… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:423 |
-| 1997-11-20 | 40 | Reg. 1407/97 | RECURSO CONTRA A DECISÃO DA SEP - INVESTEC | ../../../../../julgados/cvm/decisoes-antigas/1997.md:443 |
-| 1997-11-20 | 40 | Reg. 1459/97 | PLEITO DO BANCO BMG S.A. - APLICAÇÃO DAS ENTIDADES FECHADAS DE PREVIDÊNCIA PRIVADA EM QUOTAS DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:458 |
-| 1997-11-13 | 39 | Reg. 1273/97 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - TRANSBRASIL S/A LINHAS AÉREAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:481 |
-| 1997-11-13 | 39 | Reg. 1436/97 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - COINVALORES DTVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:578 |
-| 1997-11-13 | 39 | Reg. 538/94 | PEDIDO DE AUTORIZAÇÃO PARA RETORNO ÀS ATIVIDADES - TAMOYO INVESTIMENTOS S/A CTVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:601 |
-| 1997-11-13 | 39 | Reg. 1460/97 | MINUTA DE DELIBERAÇÃO QUE DETERMINA A IMEDIATA SUSPENSÃO DAS ATIVIDADES DE INTERMEDIAÇÃO DA… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:612 |
-| 1997-11-13 | 39 | Reg. 1454/97 | RECURSO CONTRA A DECISÃO DA SNC - ESCALA S/C AUDITORES INDEPENDENTES | ../../../../../julgados/cvm/decisoes-antigas/1997.md:618 |
-| 1997-11-13 | 39 | Reg. 1467/97 | MINUTA DE DECISÃO-CONJUNTA CVM/BACEN QUE REVOGA A DE Nº 002/95, QUE DISPÕE SOBRE A TRANSFORMAÇÃO OU… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:646 |
-| 1997-11-13 | 39 | — | MINUTA DE INSTRUÇÃO QUE ALTERA O LIMITE PREVISTO NO ART. 3º DA INSTRUÇÃO CVM Nº 10/80. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:652 |
-| 1997-11-05 | 38 | Reg. 1393/97 | RECURSO CONTRA A DECISÃO DA SEP - TELEBAHIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:695 |
-| 1997-11-05 | 38 | Reg. 1410/97 | RECURSO CONTRA DECISÃO DA SEP - BAMERINDUS SEGUROS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:724 |
-| 1997-11-05 | 38 | sp1996-0079 | RECURSO CONTRA A DECISÃO DA SMI EM PROCESSO DE FUNDO DE GARANTIA - WALPIRES S/A CCTVM - PROC. SP | ../../../../../julgados/cvm/decisoes-antigas/1997.md:744 |
-| 1997-10-24 | 37 | Reg. 1386/97 | RECURSO CONTRA DECISÃO DA SEP - VICUNHA NORDESTE S/A E TEXTÍLIA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:770 |
-| 1997-10-24 | 37 | Reg. 1414/97 | RECURSO CONTRA DECISÃO DA SEP - SANTANA TÊXTIL S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:790 |
-| 1997-10-24 | 37 | Reg. 1422/97 | RECURSO CONTRA A DECISÃO DA SEP - ELÉTRON PNSC-S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:807 |
-| 1997-10-24 | 37 | Reg. 1450/97 | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:850 |
-| 1997-10-16 | 36 | Reg. 1294/97 | RECURSO CONTRA DECISÃO DA SEP - SERRANA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:886 |
-| 1997-10-16 | 36 | Reg. 1396/97 | RECURSO CONTRA DECISÃO DA SIN - RITO SUMÁRIO - BANORTE CVMC S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:902 |
-| 1997-10-08 | 35 | Reg. 1367/97 | CONSULTA DO BNDESPAR RELATIVA A PEDIDO DE REGISTRO COMO COMPANHIA ABERTA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:930 |
-| 1997-10-08 | 35 | — | S.A. - ELETROBRÁS. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:939 |
-| 1997-10-08 | 35 | Reg. 1434/97 | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76 - EMPRESA… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:965 |
-| 1997-10-08 | 35 | Reg. 1435/97 | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:971 |
-| 1997-10-08 | 35 | — | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76 - [pessoa… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:977 |
-| 1997-10-08 | 35 | — | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:981 |
-| 1997-10-08 | 35 | — | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:986 |
-| 1997-10-01 | 34 | Reg. 1378/97 | REMUNERAÇÃO DE DEBÊNTURES - BARBOSA, MÜSSNICH & ARAGÃO ADVOGADOS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1029 |
-| 1997-10-01 | 34 | Reg. 1400/97 | RECURSO CONTRA A DECISÃO DA SEP - MASTER S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1068 |
-| 1997-10-01 | 34 | Reg. 1409/97 | RECURSO CONTRA A DECISÃO DA SEP - MICROTEC S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1085 |
-| 1997-10-01 | 34 | Reg. 1416/97 | CONSULTA DA COMISSÃO DE INQUÉRITO RELATIVA À CONCESSÃO DE VISTAS AOS AUTOS POR PARTE DE PESSOAS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1099 |
-| 1997-10-01 | 34 | Reg. 1427/97 | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A SECURITIES & FUTURES COMMISSION DE TAIWAN (SFC) | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1135 |
-| 1997-09-26 | 33 | Reg. 1298/97 | RECURSO CONTRA A DECISÃO DA SEP - HOTÉIS OTHON | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1195 |
-| 1997-09-26 | 33 | Reg. 1312/97 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA THERMAS DO RIO QUENTE | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1211 |
-| 1997-09-26 | 33 | Reg. 1315/97 | RECURSO CONTRA A DECISÃO DA SEP - FRANGOSUL S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1230 |
-| 1997-09-26 | 33 | Reg. 1319/97 | RECURSO CONTRA A DECISÃO DA SEP - NOVOSINOS S/A DTVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1250 |
-| 1997-09-26 | 33 | Reg. 1334/97 | RECURSO CONTRA A DECISÃO DA SEP - CAIUÁ - SERVIÇOS DE ELETRICIDADE S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1286 |
-| 1997-09-26 | 33 | Reg. 1346/97 | RECURSO CONTRA A DECISÃO DA SEP - METALÚRGICA SCHULZ S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1308 |
-| 1997-09-26 | 33 | Reg. 1379/97 | RECURSO CONTRA A DECISÃO DA SEP - DOMINIUM PAR S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1328 |
-| 1997-09-26 | 33 | Reg. 1405/97 | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A CHINA SECURITIES REGULATORY COMMISSION | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1348 |
-| 1997-09-26 | 33 | Reg. 1406/97 | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A SECURITIES COMMISSION DA MALÁSIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1356 |
-| 1997-09-26 | 33 | Reg. 1384/97 | MINUTA DE DELIBERAÇÃO CONSOLIDANDO OS CRITÉRIOS PARA O RECONHECIMENTO DE ÓRGÃO EQUIVALENTE À CVM… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1364 |
-| 1997-09-26 | 33 | Reg. 1387/97 | RECURSO CONTRA A DECISÃO DA SEP - CONDOMÍNIUM VILLAGE S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1370 |
-| 1997-09-26 | 33 | Reg. 1394/97 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA INDUSTRIAL ITAUNENSE | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1387 |
-| 1997-09-25 | — | — | AUMENTO DE CAPITAL DE SUBSIDIÁRIAS DA TELEBRÁS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1431 |
-| 1997-09-12 | 31 | Reg. 1392/97 | RECURSO CONTRA A DECISÃO DA SEP - BANCO BRADESCO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1480 |
-| 1997-09-12 | 31 | Reg. 1401/97 | ENQUADRAMENTO DE FUNDOS CARTEIRA LIVRE - MEMO/SIN/083/97 - MINUTA DE DELIBERAÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1544 |
-| 1997-09-03 | 30 | Reg. 1360/97 | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A COMMISSION DES ÓPERATIONS DE BOURSE DA FRANÇA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1617 |
-| 1997-09-03 | 30 | Reg. 1333/97 | RECURSO CONTRA A DECISÃO DA ÁREA TÉCNICA - QUÍMICA GERAL DO NORDESTE S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1646 |
-| 1997-09-03 | 30 | Reg. 1352/97 | RECURSO CONTRA A DECISÃO DA ÁREA TÉCNICA - COMPANHIA DOCAS DE IMBITUBA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1662 |
-| 1997-09-03 | 30 | Reg. 538/94 | PEDIDO DE AUTORIZAÇÃO PARA RETORNO ÀS ATIVIDADES - TAMOYO INVESTIMENTOS S/A CTVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1680 |
-| 1997-09-03 | 30 | sp1996-0014 | RECURSO CONTRA A DECISÃO DA ÁREA TÉCNICA EM PROCESSO DE RITO SUMÁRIO - AGENDA CCVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1697 |
-| 1997-09-03 | 30 | Reg. 1179/97 | RECURSO CONTRA A DECISÃO DA ÁREA TÉCNICA EM PROCESSO DE RITO SUMÁRIO - R.J. & NISHIMORI S/C… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1720 |
-| 1997-09-03 | 30 | Reg. 1300/97 | MINUTA DE DELIBERAÇÃO SOBRE INTERMEDIAÇÃO IRREGULAR DE AÇÕES NO MERCADO DE VALORES MOBILIÁRIOS, POR… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1765 |
-| 1997-08-14 | 28 | Reg. 1226/97 | PROPOSTA DE CANCELAMENTO DE MULTA APLICADA EM PROCESSO DE RITO SUMÁRIO - [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1818 |
-| 1997-08-14 | 28 | Reg. 1255/97 | RECURSO CONTRA DECISÃO DA SEP - OXITENO S.A. INDÚSTRIA E COMÉRCIO | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1839 |
-| 1997-08-14 | 28 | Reg. 1355/97 | RECURSO CONTRA DECISÃO DA SEP - METALON INDÚSTRIAS REUNIDAS S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1874 |
-| 1997-08-14 | 28 | Reg. 1331/97 | ENCERRAMENTO DE ATIVIDADES DO FUNDO 157 DO BANCO BOAVISTA - PROCS. 96/2207 E 96/1933 | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1890 |
-| 1997-08-14 | 28 | Reg. 1369/97 | A ATUAÇÃO DE COMPANHIA HIPOTECÁRIA COMO ADMINISTRADOR DE FUNDO DE INVESTIMENTO IMOBILIÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1898 |
-| 1997-08-14 | 28 | — | MINUTA DE DELIBERAÇÃO QUE ALTERA A COMPOSIÇÃO DA COMISSÃO CONSULTIVA SOBRE REGULAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1907 |
-| 1997-08-07 | 27 | Reg. 1273/97 | RECURSO CONTRA DECISÃO DA SEP - TRANSBRASIL S/A LINHAS AÉREAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1932 |
-| 1997-08-07 | 27 | Reg. 1283/97 | RECURSO CONTRA DECISÃO DA SEP - MESBLA S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1955 |
-| 1997-08-07 | 27 | Reg. 1293/97 | RECURSO CONTRA DECISÃO DA SEP - SONDOTÉCNICA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1975 |
-| 1997-08-07 | 27 | Reg. 1297/97 | RECURSO CONTRA DECISÃO DA SEP - GIANNINI S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:1989 |
-| 1997-08-07 | 27 | Reg. 1314/97 | RECURSO CONTRA DECISÃO DA SEP - JARAGUÁ FABRIL S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2007 |
-| 1997-08-07 | 27 | Reg. 1318/97 | RECURSO CONTRA DECISÃO DA SEP - [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2021 |
-| 1997-08-07 | 27 | Reg. 1326/97 | RECURSO CONTRA DECISÃO DA SEP - PANATLÂNTICA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2036 |
-| 1997-08-07 | 27 | Reg. 1237/97 | RECURSO CONTRA DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - PRIMUS CVC S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2052 |
-| 1997-08-01 | 26 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE ACERCA DE EMISSÃO DE CERTIFICADOS A TERMO DE ENERGIA ELÉTRICA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2141 |
-| 1997-08-01 | 26 | Reg. 1296/97 | RECURSO CONTRA DECISÃO DA SEP - SOBRAL INVICTA S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2178 |
-| 1997-08-01 | 26 | Reg. 1299/97 | RECURSO CONTRA DECISÃO DA SEP - FERRONORTE S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2189 |
-| 1997-08-01 | 26 | Reg. 1309/97 | RECURSO CONTRA DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - COMPANHIA PROGRESSO INDUSTRIAL DO… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2205 |
-| 1997-08-01 | 26 | Reg. 1311/97 | RECURSO CONTRA DECISÃO DA SEP - COMPANHIA DE ELETRICIDADE DO RIO DE JANEIRO | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2224 |
-| 1997-08-01 | 26 | Reg. 1313/97 | RECURSO CONTRA DECISÃO DA SEP - TECNOSOLO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2238 |
-| 1997-08-01 | 26 | Reg. 1317/97 | RECURSO CONTRA DECISÃO DA SEP - COMPANHIA INDUSTRIAL CATAGUASES | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2253 |
-| 1997-08-01 | 26 | Reg. 1320/97 | RECURSO CONTRA DECISÃO DA SEP - ELETROSILEX S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2271 |
-| 1997-08-01 | 26 | Reg. 1325/97 | RECURSO CONTRA DECISÃO DA SEP - AÇOPALMA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2292 |
-| 1997-07-24 | 25 | Reg. 1152/97 | RECURSO CONTRA DECISÃO DA SEP - UNITED INDÚSTRIA E COMÉRCIO LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2315 |
-| 1997-07-24 | 25 | Reg. 1344/97 | SISTEMAS DE CÁLCULO DE MARGENS DE GARANTIA - BOVESPA/BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2346 |
-| 1997-07-18 | 24 | Reg. 1291/97 | PROPOSTA DE ATUALIZAÇÃO DO CRITÉRIO PARA RECONHECIMENTO DE ÓRGÃO REGULADOR PELA CVM… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2370 |
-| 1997-07-18 | 24 | Reg. 1330/97 | PRIVATIZAÇÃO DA CEG: CONSULTAS DA BVRJ E BANCO ABN AMRO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2409 |
-| 1997-07-18 | 24 | Reg. 1324/97 | MEMORANDO DE ENTENDIMENTO ENTRE A CVM E A SECURITIES AND EXCHANGE COMMISSION DA TAILÂNDIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2431 |
-| 1997-07-18 | 24 | Reg. 1280/97 | PRINCÍPIOS COSRA SOBRE SUPERVISÃO DE AUDITORES INDEPENDENTES | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2439 |
-| 1997-07-18 | 24 | Reg. 1288/97 | MINUTA DE INSTRUÇÃO QUE ALTERA A DE Nº 92/88 | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2447 |
-| 1997-07-04 | 22 | Reg. 1199/97 | RECURSO CONTRA DECISÃO DA SNC EM PROCESSO DE RITO SUMÁRIO - AUDIPEC AUDITORIA E PERÍCIA CONTÁBIL | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2460 |
-| 1997-07-04 | 22 | Reg. 1265/97 | RECURSO CONTRA DECISÃO DA SMI EM PROCESSO DE FUNDO DE GARANTIA - BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2478 |
-| 1997-07-04 | 22 | sp1997-0029 | RECURSO CONTRA DECISÃO DA SMI EM PROCESSO DE FUNDO DE GARANTIA - CORRETORA NACIONAL DE FUNDOS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2504 |
-| 1997-07-04 | 22 | Reg. 1303/97 | MINUTA DE INSTRUÇÃO QUE ALTERA A DE Nº 215/94, FACULTANDO AOS FUNDOS MÚTUOS DE INVESTIMENTO E… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2516 |
-| 1997-06-26 | — | — | AUMENTO DE CAPITAL DE SUBSIDIÁRIAS DA TELEBRÁS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2554 |
-| 1997-06-20 | 21 | Reg. 1213/97 | MINUTA DE DELIBERAÇÃO QUE ALTERA DISPOSITIVOS DA DELIBERAÇÃO 66/88 | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2573 |
-| 1997-06-20 | 21 | Reg. 1214/97 | RECURSO CONTRA DECISÃO DA SEP - AQUARIUS EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2580 |
-| 1997-06-20 | 21 | sp1996-0008 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2606 |
-| 1997-06-20 | 21 | Reg. 1260/97 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - [pessoa física] FÍSICA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2624 |
-| 1997-06-20 | 21 | Reg. 1263/97 | RECURSO CONTRA DECISÃO DA SEP - COTEMINAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2640 |
-| 1997-06-20 | 21 | Reg. 1236/97 | RECURSO CONTRA DECISÃO DA SEP - ÁGORA CTVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2662 |
-| 1997-06-12 | 20 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A ELABORAÇÃO E A DIVULGAÇÃO, PELAS COMPANHIAS ABERTAS, DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2685 |
-| 1997-06-05 | 19 | Reg. 1270/97 | MINUTA DE DELIBERAÇÃO QUE DISPENSA DO REGISTRO DE QUE TRATA O ART. 19 DA LEI Nº 6.385/76… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2711 |
-| 1997-06-05 | 19 | Reg. 1232/97 | RECURSO CONTRA DECISÃO DA SNC - CONSULTAUD AUDITORES E CONTADORES S/C | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2718 |
-| 1997-05-21 | 18 | Reg. 1261/97 | MINUTA DE INSTRUÇÃO SOBRE NEGOCIAÇÃO DE TÍTULOS DA DÍVIDA CONSOLIDADA DE EMPRESAS ESTATAIS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2792 |
-| 1997-05-19 | 17 | Reg. 1248/97 | MINUTA DE RESOLUÇÃO QUE REGULAMENTA A CRIAÇÃO DE UM FUNDO DE INVESTIMENTO EM EMPRESAS EMERGENTES… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2839 |
-| 1997-05-19 | 17 | Reg. 1251/97 | MINUTA DE RESOLUÇÃO QUE DISPÕE SOBRE AS APLICAÇÕES DAS CARTEIRAS DOS INVESTIDORES ESTRANGEIROS NOS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2846 |
-| 1997-05-19 | 17 | Reg. 1258/97 | MINUTA DE DECISÃO-CONJUNTA CVM/MINC QUE TRATA DA PRORROGAÇÃO DO PRAZO PARA DISTRIBUIÇÃO JUNTO AO… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2853 |
-| 1997-05-19 | 17 | Reg. 0980/96 | RECURSO CONTRA DECISÃO DA SEP - EMBRAER - EMPRESA BRASILEIRA DE AERONÁUTICA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2859 |
-| 1997-05-07 | 16 | Reg. 1247/97 | PLEITO DA BOVESPA - OPERAÇÃO DE FINANCIAMENTO COM AÇÕES PREFERENCIAIS NOMINATIVAS DA ODEBRECHT S/A… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2916 |
-| 1997-04-25 | 15 | Reg. 1239/97 | MINUTA DE INSTRUÇÃO QUE REGULA O CREDENCIAMENTO PARA PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2944 |
-| 1997-04-25 | 15 | Reg. 1011/96 | RECURSO CONTRA DECISÃO DA SMI EM PROCESSO DE FUNDO DE GARANTIA - CORRETORA SOUZA BARROS CT S/A… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2950 |
-| 1997-04-25 | 15 | Reg. 923/96 | COMPANHIA ENERGÉTICA DE BRASÍLIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:2986 |
-| 1997-04-17 | 14 | Reg. 595/95 | RECURSO DE OFÍCIO EM PROCESSO DE RITO SUMÁRIO - ITAÚ CV S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3033 |
-| 1997-04-09 | 13 | Reg. 1231/97 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A EMISSÃO E DISTRIBUIÇÃO DE CERTIFICADOS DE INVESTIMENTO PARA… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3058 |
-| 1997-04-09 | 13 | Reg. 1200/97 | RECURSO CONTRA DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - GURGEL MOTORES S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3075 |
-| 1997-04-04 | 12 | Reg. 1209/97 | RECURSO CONTRA DECISÃO DA SEP - [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3114 |
-| 1997-03-26 | 11 | Reg. 1117/96 | RECURSO CONTRA A DECISÃO DA SEP - CARFEPE S/A ADMINISTRADORA E PARTICIPADORA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3191 |
-| 1997-03-26 | 11 | Reg. 1154/97 | RECURSO CONTRA A DECISÃO DA SEP - BRASINOX - BRASIL INOXIDÁVEIS S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3203 |
-| 1997-03-26 | 11 | Reg. 1182/97 | RECURSO CONTRA A DECISÃO DA SIN EM PROCESSO DE RITO SUMÁRIO - UNIBANCO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3245 |
-| 1997-03-26 | 11 | sp1996-0062 | RECURSO CONTRA A DECISÃO DA ÁREA TÉCNICA EM PROCESSO DE FUNDO DE GARANTIA - [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3273 |
-| 1997-03-26 | 11 | Reg. 1202/97 | RECURSO CONTRA A DECISÃO DA SNC - ASSETE AUDITORES INDEPENDENTES S/C | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3294 |
-| 1997-03-21 | 10 | Reg. 1210/97 | MINUTA DE DELIBERAÇÃO QUE DELEGA COMPETÊNCIA AO SMI PARA DISPENSAR O CADASTRAMENTO DE COMITENTES… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3357 |
-| 1997-03-21 | 10 | Reg. 1206/97 | ESTATUTO SOCIAL DO UNIBANCO S.A. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3363 |
-| 1997-03-21 | 10 | — | MINUTA DE DELIBERAÇÃO QUE ALTERA O ITEM II DA DELIBERAÇÃO Nº 204/96 - COMISSÃO CONSULTIVA SOBRE A… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3385 |
-| 1997-03-14 | 09 | Reg. 1106/96 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA SIDERÚRGICA DA AMAZÔNIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3479 |
-| 1997-03-14 | 09 | Reg. 1110/96 | RECURSO CONTRA A DECISÃO DA SEP - CONVAP ENGENHARIA E CONSTRUÇÕES S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3488 |
-| 1997-03-14 | 09 | Reg. 1167/97 | RECURSO CONTRA A DECISÃO DA SEP - COMPANHIA GERAL DE INDÚSTRIAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3497 |
-| 1997-03-14 | 09 | Reg. 1205/97 | MINUTA DE DELIBERAÇÃO QUE ALTERA A COMPOSIÇÃO DA COMISSÃO CONSULTIVA SOBRE REGULAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3506 |
-| 1997-03-06 | 08 | Reg. 972/96 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - COSIPA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3522 |
-| 1997-03-06 | 08 | Reg. 973/96 | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - CIA. DE SANEAMENTO BÁSICO DO ESTADO DE SP- SABESP | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3536 |
-| 1997-03-06 | 08 | Reg. 1069/96 | RECURSO CONTRA DECISÃO DA SNC EM PROCESSO DE RITO SUMÁRIO - [pessoa física] (AUDITOR INDEPENDENTE) | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3555 |
-| 1997-03-06 | 08 | Reg. 1073/96 | RECURSO CONTRA A DECISÃO DA SIN - FUNDOS DRACO FMIA-CL E DIRETO FMIA-CL | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3573 |
-| 1997-03-06 | 08 | Reg. 1169/97 | RECURSO CONTRA A DECISÃO DA SEP - JOÃO FORTES ENGENHARIA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3597 |
-| 1997-03-06 | 08 | Reg. 1183/97 | RESPOSTAS AO QUESTIONÁRIO SOBRE "ASSET FREEZING", SUBMETIDO PELA IOSCO | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3621 |
-| 1997-03-06 | 08 | Reg. 1132/96 | CONVENÇÃO DE COOPERAÇÃO JUDICIÁRIA ENTRE O BRASIL E A FRANÇA - LEGALIZAÇÃO CONSULAR DE DOCUMENTOS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3631 |
-| 1997-03-06 | 08 | Reg. 919/96 | PEDIDO DE RECONSIDERAÇÃO DA DECISÃO DO COLEGIADO - BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3678 |
-| 1997-03-06 | 08 | Reg. 1032/96 | ORIENTAÇÃO SOLICITADA PELA SIN SOBRE AQUISIÇÃO DE DEBÊNTURES COM PARTICIPAÇÃO NOS LUCROS POR… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3707 |
-| 1997-02-28 | 07 | sp1996-0008 | RECURSO DA BOVESPA CONTRA A DECISÃO DA SMI, EM PROCESSO DE FUNDO DE GARANTIA - SELLER CCTVM | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3745 |
-| 1997-02-13 | 05 | Reg. 1062/96 | ALTERAÇÃO DO ITEM II DA DELIBERAÇÃO 204/96, QUE CRIA A COMISSÃO CONSULTIVA SOBRE POLÍTICA DE… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3767 |
-| 1997-02-13 | 05 | Reg. 1153/97 | RECURSO CONTRA A DECISÃO DA SEP - [pessoa física] DO PARÁ S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3773 |
-| 1997-02-13 | 05 | Reg. 1176/97 | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A FORMA DE APRESENTAÇÃO DAS INFORMAÇÕES PERIÓDICAS PREVISTAS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3787 |
-| 1997-02-13 | 05 | Reg. 1161/97 | RECURSO CONTRA A DECISÃO DA SEP - SERNAMBETIBA TRUST SPE S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3794 |
-| 1997-02-13 | 05 | Reg. 1107/96 | RECURSO CONTRA A DECISÃO DA SEP - ELEVADORES ATLAS S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3806 |
-| 1997-01-24 | 03 | Reg. 1097/96 | RECURSO CONTRA A DECISÃO DA SEP EM PROCESSO DE RITO SUMÁRIO - MENDES JÚNIOR ENGENHARIA S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3866 |
-| 1997-01-24 | 03 | — | MINUTA DE INSTRUÇÃO QUE ESTABELECE PROCEDIMENTOS A SEREM OBSERVADOS PELAS BOLSAS DE VALORES NO… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3879 |
-| 1997-01-24 | 03 | — | SOLICITAÇÃO DA TELERJ | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3884 |
-| 1997-01-22 | — | — | MINUTA DE INSTRUÇÃO QUE ACRESCENTA PARÁGRAFO AO ARTIGO 1º DA INSTRUÇÃO CVM Nº 215, DE 08.06.94. | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3906 |
-| 1997-01-16 | 02 | Reg. 1111/96 | RECURSO CONTRA DECISÃO DA SMI - EXATA DTVM E BOLSA DE VALORES DE MINAS-ESPÍRITO SANTO-BRASÍLIA | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3933 |
-| 1997-01-16 | 02 | Reg. 1127/96 | RECURSO CONTRA DECISÃO DA SEP - BRASIL CENTRAL DE HOTÉIS E TURISMO S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:3996 |
-| 1997-01-13 | 01 | Reg. 1098/96 | RECURSO CONTRA DECISÃO DA SEP - BORGHOFF S/A | ../../../../../julgados/cvm/decisoes-antigas/1997.md:4023 |
-| 1997-01-13 | 01 | Reg. 1147/97 | RECURSO CONTRA DECISÃO DA SEP - COMPANHIA FABRIL MASCARENHAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:4036 |
-| 1997-01-13 | 01 | Reg. 1139/96 | SOLICITA PRORROGAÇÃO DE PRAZO PARA REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1997.md:4044 |
-| 1997-01-13 | 01 | Reg. 1059/96 | APRECIAÇÃO DE PROPOSTA DE ARQUIVAMENTO DO PROCESSO DE RITO SUMÁRIO CVM Nº 96/1829 | ../../../../../julgados/cvm/decisoes-antigas/1997.md:4054 |
-| 1997-01-13 | 01 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A AUTORIZAÇÃO PROVISÓRIA PARA A CONSTITUIÇÃO DOS FUNDOS… | ../../../../../julgados/cvm/decisoes-antigas/1997.md:4072 |
+## Sumário
+
+Este subíndice tem 348 linhas e uma leitura única é cortada em silêncio perto de 40 KB. Leia por partes: `offset` = a linha da seção abaixo, `limit` = 60. A última linha é "Fim do subíndice."; se a leitura não terminar nela, continue do ponto onde parou.
+
+| Seção | Linha |
+|---|---|
+| 1997-12 | 41 |
+| 1997-11 | 58 |
+| 1997-10 | 81 |
+| 1997-09 | 104 |
+| 1997-08 | 139 |
+| 1997-07 | 170 |
+| 1997-06 | 183 |
+| 1997-05 | 196 |
+| 1997-04 | 204 |
+| 1997-03 | 214 |
+| 1997-02 | 247 |
+| 1997-01 | 253 |
+| 1996-12 | 270 |
+| 1996-11 | 275 |
+| 1996-10 | 294 |
+| 1996-08 | 314 |
+| 1996-06 | 326 |
+| 1996-05 | 329 |
+| 1996-03 | 334 |
+| 1995-11 | 339 |
+| 1994-10 | 345 |
+| 1993-08 | 346 |
+
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1997-12-30 | 97/3123 | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-30 | — | cvm-dec-1997-0002 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-30 | RJ 97/2993 | cvm-dec-1997-0003 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-30 | — | cvm-dec-1997-0004 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-30 | — | cvm-dec-1997-0005 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-30 | — | cvm-dec-1997-0006 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-19 | 97/3366 | cvm-dec-1997-0007 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-12 | 97/2488 | cvm-dec-1997-0008 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-12 | — | cvm-dec-1997-0009 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-12 | 97/3179 | cvm-dec-1997-0010 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-12 | 97/3393 | cvm-dec-1997-0011 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | 97/3456 | cvm-dec-1997-0012 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | — | cvm-dec-1997-0013 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | 97/1879 | cvm-dec-1997-0014 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | — | cvm-dec-1997-0015 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | 96/0504 | cvm-dec-1997-0016 | fichas/decisoes-antigas/1997-12.md |
+| 1997-12-05 | 97/3776 | cvm-dec-1997-0017 | fichas/decisoes-antigas/1997-12.md |
+| 1997-11-28 | — | cvm-dec-1997-0018 | fichas/decisoes-antigas/1997-12.md |
+| 1997-11-28 | 95/3243 | cvm-dec-1997-0019 | fichas/decisoes-antigas/1997-12.md |
+| 1997-11-28 | 96/0367 | cvm-dec-1997-0020 | fichas/decisoes-antigas/1997-12.md |
+| 1997-11-28 | — | cvm-dec-1997-0021 | fichas/decisoes-antigas/1997-12.md |
+| 1997-11-20 | 97/2499 | cvm-dec-1997-0022 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-20 | — | cvm-dec-1997-0023 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | — | cvm-dec-1997-0024 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/1092 | cvm-dec-1997-0025 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/0706 | cvm-dec-1997-0026 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/2823 | cvm-dec-1997-0027 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/2716 | cvm-dec-1997-0028 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/3109 | cvm-dec-1997-0029 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/1858 | cvm-dec-1997-0030 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 94/0235 | cvm-dec-1997-0031 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/1539 | cvm-dec-1997-0032 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | 97/2988 | cvm-dec-1997-0033 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | — | cvm-dec-1997-0034 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-13 | — | cvm-dec-1997-0035 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-05 | 97/2393 | cvm-dec-1997-0036 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-05 | 97/2444 | cvm-dec-1997-0037 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-05 | 97/2509 | cvm-dec-1997-0038 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-05 | 97/2651 | cvm-dec-1997-0039 | fichas/decisoes-antigas/1997-11.md |
+| 1997-11-05 | — | cvm-dec-1997-0040 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | 97/1938 | cvm-dec-1997-0041 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | 97/2686 | cvm-dec-1997-0042 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | 97/2500 | cvm-dec-1997-0043 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | 97/3102 | cvm-dec-1997-0044 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | 97/3186 | cvm-dec-1997-0045 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-24 | — | cvm-dec-1997-0046 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-16 | 97/2027 | cvm-dec-1997-0047 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-16 | 97/1297 | cvm-dec-1997-0048 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-16 | — | cvm-dec-1997-0049 | fichas/decisoes-antigas/1997-11.md |
+| 1997-10-08 | 97/2258 | cvm-dec-1997-0050 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0051 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0052 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0053 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0054 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0055 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-08 | — | cvm-dec-1997-0056 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | 96/2617 | cvm-dec-1997-0057 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | 97/2435 | cvm-dec-1997-0058 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | 97/2507 | cvm-dec-1997-0059 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | 97/2637 | cvm-dec-1997-0060 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | — | cvm-dec-1997-0061 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | 97/1929 | cvm-dec-1997-0062 | fichas/decisoes-antigas/1997-10.md |
+| 1997-10-01 | — | cvm-dec-1997-0063 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2025 | cvm-dec-1997-0064 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-26 | 97/1350 | cvm-dec-1997-0065 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-26 | 97/1552 | cvm-dec-1997-0066 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-26 | 97/1592 | cvm-dec-1997-0067 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/1738 | cvm-dec-1997-0068 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/1625 | cvm-dec-1997-0069 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/1652 | cvm-dec-1997-0070 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/1850 | cvm-dec-1997-0071 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2009 | cvm-dec-1997-0072 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2440 | cvm-dec-1997-0073 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | — | cvm-dec-1997-0074 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | — | cvm-dec-1997-0075 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | — | cvm-dec-1997-0076 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2479 | cvm-dec-1997-0077 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2497 | cvm-dec-1997-0078 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-26 | 97/2611 | cvm-dec-1997-0079 | fichas/decisoes-antigas/1997-10.md |
+| 1997-09-25 | — | cvm-dec-1997-0080 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | 96/1093 | cvm-dec-1997-0081 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | 97/2047 | cvm-dec-1997-0082 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | 97/2565 | cvm-dec-1997-0083 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | 97/0024 | cvm-dec-1997-0084 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | — | cvm-dec-1997-0085 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-12 | — | cvm-dec-1997-0086 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | — | cvm-dec-1997-0087 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 97/1913 | cvm-dec-1997-0088 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | — | cvm-dec-1997-0089 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 97/1695 | cvm-dec-1997-0090 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 97/1838 | cvm-dec-1997-0091 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 97/1847 | cvm-dec-1997-0092 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 94/0235 | cvm-dec-1997-0093 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | — | cvm-dec-1997-0094 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 96/2043 | cvm-dec-1997-0095 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | 97/1275 | cvm-dec-1997-0096 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | — | cvm-dec-1997-0097 | fichas/decisoes-antigas/1997-09.md |
+| 1997-09-03 | — | cvm-dec-1997-0098 | fichas/decisoes-antigas/1997-09.md |
+| 1997-08-14 | 97/1145 | cvm-dec-1997-0099 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | — | cvm-dec-1997-0100 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | 96/4481 | cvm-dec-1997-0101 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | 97/1837 | cvm-dec-1997-0102 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | 97/2048 | cvm-dec-1997-0103 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | — | cvm-dec-1997-0104 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-14 | — | cvm-dec-1997-0105 | fichas/decisoes-antigas/1997-09.md |
+| 1997-08-14 | — | cvm-dec-1997-0106 | fichas/decisoes-antigas/1997-09.md |
+| 1997-08-07 | 97/0856 | cvm-dec-1997-0107 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1092 | cvm-dec-1997-0108 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 96/4225 | cvm-dec-1997-0109 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1543 | cvm-dec-1997-0110 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1559 | cvm-dec-1997-0111 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1593 | cvm-dec-1997-0112 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1735 | cvm-dec-1997-0113 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/1603 | cvm-dec-1997-0114 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 96/4258 | cvm-dec-1997-0115 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | 97/0841 | cvm-dec-1997-0116 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-07 | — | cvm-dec-1997-0117 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1147 | cvm-dec-1997-0118 | fichas/decisoes-antigas/1997-07.md |
+| 1997-08-01 | — | cvm-dec-1997-0119 | fichas/decisoes-antigas/1997-07.md |
+| 1997-08-01 | 97/1501 | cvm-dec-1997-0120 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | — | cvm-dec-1997-0121 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1535 | cvm-dec-1997-0122 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1558 | cvm-dec-1997-0123 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/0186 | cvm-dec-1997-0124 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1696 | cvm-dec-1997-0125 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1544 | cvm-dec-1997-0126 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1743 | cvm-dec-1997-0127 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1739 | cvm-dec-1997-0128 | fichas/decisoes-antigas/1997-08.md |
+| 1997-08-01 | 97/1793 | cvm-dec-1997-0129 | fichas/decisoes-antigas/1997-08.md |
+| 1997-07-24 | 96/4656 | cvm-dec-1997-0130 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-24 | — | cvm-dec-1997-0131 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | — | cvm-dec-1997-0132 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | 95/4251 | cvm-dec-1997-0133 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | — | cvm-dec-1997-0134 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | — | cvm-dec-1997-0135 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | — | cvm-dec-1997-0136 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-18 | — | cvm-dec-1997-0137 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-04 | — | cvm-dec-1997-0138 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-04 | 96/0367 | cvm-dec-1997-0139 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-04 | SP 97/0029 | cvm-dec-1997-0140 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-04 | — | cvm-dec-1997-0141 | fichas/decisoes-antigas/1997-07.md |
+| 1997-07-04 | 97/1090 | cvm-dec-1997-0142 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-26 | — | cvm-dec-1997-0143 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | — | cvm-dec-1997-0144 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | 97/0688 | cvm-dec-1997-0145 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | SP 96/0008 | cvm-dec-1997-0146 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | — | cvm-dec-1997-0147 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | 97/1020 | cvm-dec-1997-0148 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-20 | 97/0741 | cvm-dec-1997-0149 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-12 | — | cvm-dec-1997-0150 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-05 | 97/0726 | cvm-dec-1997-0151 | fichas/decisoes-antigas/1997-06.md |
+| 1997-06-05 | 97/1286 | cvm-dec-1997-0152 | fichas/decisoes-antigas/1997-06.md |
+| 1997-06-05 | 97/0623 | cvm-dec-1997-0153 | fichas/decisoes-antigas/1997-06.md |
+| 1997-06-05 | 96/4316 | cvm-dec-1997-0154 | fichas/decisoes-antigas/1997-07.md |
+| 1997-06-05 | 97/0380 | cvm-dec-1997-0155 | fichas/decisoes-antigas/1997-07.md |
+| 1997-05-21 | — | cvm-dec-1997-0156 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-21 | — | cvm-dec-1997-0157 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-19 | 95/4641 | cvm-dec-1997-0158 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-19 | — | cvm-dec-1997-0159 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-19 | — | cvm-dec-1997-0160 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-19 | — | cvm-dec-1997-0161 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-19 | 96/1931 | cvm-dec-1997-0162 | fichas/decisoes-antigas/1997-06.md |
+| 1997-05-07 | — | cvm-dec-1997-0163 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-25 | — | cvm-dec-1997-0164 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-25 | — | cvm-dec-1997-0165 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-25 | 96/0784 | cvm-dec-1997-0166 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-17 | 96/2110 | cvm-dec-1997-0167 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-17 | 92/0527-6 | cvm-dec-1997-0168 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-09 | — | cvm-dec-1997-0169 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-09 | 97/0384 | cvm-dec-1997-0170 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-09 | 96/0867 | cvm-dec-1997-0171 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-09 | 96/4369 | cvm-dec-1997-0172 | fichas/decisoes-antigas/1997-06.md |
+| 1997-04-04 | 97/0587 | cvm-dec-1997-0173 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-26 | — | cvm-dec-1997-0174 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 96/4239 | cvm-dec-1997-0175 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 96/4282 | cvm-dec-1997-0176 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 96/4606 | cvm-dec-1997-0177 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 95/0306 | cvm-dec-1997-0178 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 96/3607 | cvm-dec-1997-0179 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-26 | 96/4367 | cvm-dec-1997-0180 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-26 | — | cvm-dec-1997-0181 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-26 | 97/0371 | cvm-dec-1997-0182 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-26 | — | cvm-dec-1997-0183 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-26 | 96/3234 | cvm-dec-1997-0184 | fichas/decisoes-antigas/1997-06.md |
+| 1997-03-21 | — | cvm-dec-1997-0185 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-21 | — | cvm-dec-1997-0186 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-21 | 97/0584 | cvm-dec-1997-0187 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-21 | — | cvm-dec-1997-0188 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 94/1263 | cvm-dec-1997-0189 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 97/0167 | cvm-dec-1997-0190 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 96/3791 | cvm-dec-1997-0191 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 96/4240 | cvm-dec-1997-0192 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 96/4236 | cvm-dec-1997-0193 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | 97/0124 | cvm-dec-1997-0194 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-14 | — | cvm-dec-1997-0195 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-06 | — | cvm-dec-1997-0196 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | 96/1845 | cvm-dec-1997-0197 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | — | cvm-dec-1997-0198 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | — | cvm-dec-1997-0199 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | 96/2742 | cvm-dec-1997-0200 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | 97/0026 | cvm-dec-1997-0201 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | — | cvm-dec-1997-0202 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | — | cvm-dec-1997-0203 | fichas/decisoes-antigas/1997-04.md |
+| 1997-03-06 | 96/4316 | cvm-dec-1997-0204 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-06 | 90/0387-8 | cvm-dec-1997-0205 | fichas/decisoes-antigas/1997-05.md |
+| 1997-03-06 | 96/2459 | cvm-dec-1997-0206 | fichas/decisoes-antigas/1997-05.md |
+| 1997-02-28 | — | cvm-dec-1997-0207 | fichas/decisoes-antigas/1997-04.md |
+| 1997-02-13 | — | cvm-dec-1997-0208 | fichas/decisoes-antigas/1997-04.md |
+| 1997-02-13 | 96/4605 | cvm-dec-1997-0209 | fichas/decisoes-antigas/1997-04.md |
+| 1997-02-13 | — | cvm-dec-1997-0210 | fichas/decisoes-antigas/1997-04.md |
+| 1997-02-13 | 96/4572 | cvm-dec-1997-0211 | fichas/decisoes-antigas/1997-04.md |
+| 1997-02-13 | 96/3957 | cvm-dec-1997-0212 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-30 | 96/2055 | cvm-dec-1997-0213 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-24 | — | cvm-dec-1997-0214 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-24 | — | cvm-dec-1997-0215 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-24 | — | cvm-dec-1997-0216 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-24 | — | cvm-dec-1997-0217 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-22 | — | cvm-dec-1997-0218 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-16 | SP/0126 | cvm-dec-1997-0219 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-16 | — | cvm-dec-1997-0220 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-16 | 96/3642 | cvm-dec-1997-0221 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-16 | 91/1263-4 | cvm-dec-1997-0222 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-16 | 96/4276 | cvm-dec-1997-0223 | fichas/decisoes-antigas/1997-04.md |
+| 1997-01-13 | 96/4353 | cvm-dec-1997-0224 | fichas/decisoes-antigas/1997-03.md |
+| 1997-01-13 | 96/4152 | cvm-dec-1997-0225 | fichas/decisoes-antigas/1997-03.md |
+| 1997-01-13 | 96/4352 | cvm-dec-1997-0226 | fichas/decisoes-antigas/1997-03.md |
+| 1997-01-13 | 96/4573 | cvm-dec-1997-0227 | fichas/decisoes-antigas/1997-03.md |
+| 1997-01-13 | — | cvm-dec-1997-0228 | fichas/decisoes-antigas/1997-03.md |
+| 1997-01-13 | — | cvm-dec-1997-0229 | fichas/decisoes-antigas/1997-03.md |
+| 1996-12-30 | 96/3808 | cvm-dec-1997-0282 | fichas/decisoes-antigas/1997-03.md |
+| 1996-12-30 | 96/2586 | cvm-dec-1997-0283 | fichas/decisoes-antigas/1997-03.md |
+| 1996-12-30 | 95/4676 | cvm-dec-1997-0284 | fichas/decisoes-antigas/1997-03.md |
+| 1996-12-30 | 96/2042 | cvm-dec-1997-0285 | fichas/decisoes-antigas/1997-03.md |
+| 1996-12-30 | — | cvm-dec-1997-0286 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | — | cvm-dec-1997-0298 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 94/2088 | cvm-dec-1997-0299 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 96/2046 | cvm-dec-1997-0300 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | — | cvm-dec-1997-0301 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 96/3515 | cvm-dec-1997-0302 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 96/3652 | cvm-dec-1997-0303 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 96/2076 | cvm-dec-1997-0304 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | 95/4676 | cvm-dec-1997-0305 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-29 | — | cvm-dec-1997-0306 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-22 | 96/1192 | cvm-dec-1997-0287 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-22 | 96/0861 | cvm-dec-1997-0288 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-22 | 96/3517 | cvm-dec-1997-0289 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | — | cvm-dec-1997-0266 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | — | cvm-dec-1997-0267 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | 95/4692 | cvm-dec-1997-0268 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | 96/2304 | cvm-dec-1997-0269 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | 96/1905 | cvm-dec-1997-0270 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | — | cvm-dec-1997-0271 | fichas/decisoes-antigas/1997-03.md |
+| 1996-11-08 | 96/3817 | cvm-dec-1997-0272 | fichas/decisoes-antigas/1997-03.md |
+| 1996-10-25 | — | cvm-dec-1997-0273 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2289 | cvm-dec-1997-0274 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2611 | cvm-dec-1997-0275 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2379 | cvm-dec-1997-0276 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2044 | cvm-dec-1997-0277 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2053 | cvm-dec-1997-0278 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2040 | cvm-dec-1997-0279 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | 96/2039 | cvm-dec-1997-0280 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-25 | — | cvm-dec-1997-0281 | fichas/decisoes-antigas/1997-03.md |
+| 1996-10-11 | 95/1281 | cvm-dec-1997-0230 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | SP 95/0054 | cvm-dec-1997-0231 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/1911 | cvm-dec-1997-0232 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/2091 | cvm-dec-1997-0233 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/1947 | cvm-dec-1997-0234 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/2110 | cvm-dec-1997-0235 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | — | cvm-dec-1997-0236 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/2636 | cvm-dec-1997-0237 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/2586 | cvm-dec-1997-0238 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | 96/3060 | cvm-dec-1997-0239 | fichas/decisoes-antigas/1997-02.md |
+| 1996-10-11 | — | cvm-dec-1997-0240 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-29 | 96/1782 | cvm-dec-1997-0259 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-29 | — | cvm-dec-1997-0260 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-09 | — | cvm-dec-1997-0249 | fichas/decisoes-antigas/1997-01.md |
+| 1996-08-09 | 94/1263 | cvm-dec-1997-0250 | fichas/decisoes-antigas/1997-01.md |
+| 1996-08-09 | — | cvm-dec-1997-0251 | fichas/decisoes-antigas/1997-01.md |
+| 1996-08-09 | 96/0092 | cvm-dec-1997-0252 | fichas/decisoes-antigas/1997-01.md |
+| 1996-08-09 | 96/0944 | cvm-dec-1997-0253 | fichas/decisoes-antigas/1997-01.md |
+| 1996-08-09 | 96/1845 | cvm-dec-1997-0254 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-09 | 96/1846 | cvm-dec-1997-0255 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-09 | 96/0866 | cvm-dec-1997-0256 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-09 | 96/2254 | cvm-dec-1997-0257 | fichas/decisoes-antigas/1997-02.md |
+| 1996-08-09 | 96/1905 | cvm-dec-1997-0258 | fichas/decisoes-antigas/1997-02.md |
+| 1996-06-28 | — | cvm-dec-1997-0241 | fichas/decisoes-antigas/1997-01.md |
+| 1996-06-28 | — | cvm-dec-1997-0242 | fichas/decisoes-antigas/1997-01.md |
+| 1996-06-28 | 96/1072 | cvm-dec-1997-0243 | fichas/decisoes-antigas/1997-01.md |
+| 1996-05-09 | 94/1263 | cvm-dec-1997-0244 | fichas/decisoes-antigas/1997-01.md |
+| 1996-05-09 | — | cvm-dec-1997-0245 | fichas/decisoes-antigas/1997-01.md |
+| 1996-05-09 | 94/1226 | cvm-dec-1997-0246 | fichas/decisoes-antigas/1997-01.md |
+| 1996-05-09 | 95/4346 | cvm-dec-1997-0247 | fichas/decisoes-antigas/1997-01.md |
+| 1996-05-09 | — | cvm-dec-1997-0248 | fichas/decisoes-antigas/1997-01.md |
+| 1996-03-29 | 95/4586 | cvm-dec-1997-0261 | fichas/decisoes-antigas/1997-01.md |
+| 1996-03-29 | 96/0509 | cvm-dec-1997-0262 | fichas/decisoes-antigas/1997-01.md |
+| 1996-03-29 | 96/0491 | cvm-dec-1997-0263 | fichas/decisoes-antigas/1997-01.md |
+| 1996-03-29 | 96/0664 | cvm-dec-1997-0264 | fichas/decisoes-antigas/1997-01.md |
+| 1996-03-29 | — | cvm-dec-1997-0265 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | — | cvm-dec-1997-0290 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | 95/1281 | cvm-dec-1997-0291 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | 95/1959 | cvm-dec-1997-0292 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | 95/1509 | cvm-dec-1997-0293 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | 95/1407 | cvm-dec-1997-0294 | fichas/decisoes-antigas/1997-01.md |
+| 1995-11-17 | — | cvm-dec-1997-0295 | fichas/decisoes-antigas/1997-01.md |
+| 1994-10-11 | 94/1226 | cvm-dec-1997-0297 | fichas/decisoes-antigas/1997-01.md |
+| 1993-08-17 | — | cvm-dec-1997-0296 | fichas/decisoes-antigas/1997-01.md |
 
 Fim do subíndice.

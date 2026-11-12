@@ -16,6 +16,13 @@ O título vem do próprio arquivo e passa por duas limpezas:
   ("RECURSO DE <NOME> CONTRA", "<TIPO> – <NOME>"), sem `dados/`: o índice tem de sair igual em
   qualquer máquina.
 
+Uso atual (desde a Fase 6 o `indice.py` não lê mais este módulo; os índices das decisões antigas
+saem das fichas):
+- em uso: `FiltroDePessoas` (com `vocabulario`, `ListaDeNomes`, `trechos_de_nome`, `sem_pessoas`),
+  que `fichas.py` aplica à `ementa` das fichas das decisões antigas;
+- só testes e consulta: `ler_decisoes` e o resto da leitura por ata (`_limpar_titulo`, `_e_ruido`,
+  `Contagem`...), que não alimentam mais nenhum índice nem ficha.
+
 Só biblioteca padrão.
 """
 import collections
@@ -335,6 +342,33 @@ class ListaDeNomes:
         return novo, novo != titulo
 
 
+class FiltroDePessoas:
+    """O filtro de pessoa física dos títulos, montado sobre o conjunto de arquivos anuais: vocabulário
+    comum e lista de nomes (rótulos "Interessado:"... e nomes vistos em contexto de pessoa nos títulos)
+    vêm só do conteúdo deles. Uso: `FiltroDePessoas(linhas_por_arquivo)`, `aprender(títulos)` com todos
+    os títulos e depois `aplicar(título)` -> (título com "[pessoa física]", houve troca). Quem usa:
+    `ler_decisoes` (índice por decisão) e `fichas.py` (ementa das fichas das decisões antigas)."""
+
+    def __init__(self, linhas_por_arquivo):
+        linhas_por_arquivo = list(linhas_por_arquivo)
+        self.vocab = vocabulario("\n".join(linhas) for linhas in linhas_por_arquivo)
+        self.lista = ListaDeNomes()
+        for linhas in linhas_por_arquivo:
+            for n in nomes_dos_rotulos(linhas):
+                self.lista.adicionar(n)
+
+    def aprender(self, titulos):
+        """2ª passada: o nome visto em contexto de pessoa num título vale para os demais títulos."""
+        for titulo in titulos:
+            for ini, fim in trechos_de_nome(titulo, self.vocab):
+                self.lista.adicionar(titulo[ini:fim])
+
+    def aplicar(self, titulo):
+        titulo, trocou = self.lista.trocar(titulo)
+        titulo, trocou2 = sem_pessoas(titulo, self.vocab)
+        return titulo, trocou or trocou2
+
+
 def _curto(titulo, n=TITULO_MAX):
     if len(titulo) <= n:
         return titulo
@@ -370,18 +404,14 @@ def ler_decisoes(arquivos):
     (da ata), ata, processo, titulo (já sem nome de pessoa), ano (do arquivo), linha, arquivo
     (`cvm/decisoes-antigas/AAAA.md`)."""
     cont = Contagem()
-    lidos, rotulos = {}, []
+    lidos = {}
     todos_participantes = set()
     for ano, caminho in sorted(arquivos.items()):
         linhas = _ler_linhas(caminho)
         lidos[ano] = linhas
         todos_participantes |= _nomes_dos_participantes(linhas)
-        rotulos += nomes_dos_rotulos(linhas)
     brutas = {ano: _decisoes_do_arquivo(linhas, todos_participantes) for ano, linhas in lidos.items()}
-    vocab = vocabulario("\n".join(linhas) for linhas in lidos.values())
-    lista = ListaDeNomes()
-    for n in rotulos:
-        lista.adicionar(n)
+    filtro = FiltroDePessoas(lidos[a] for a in sorted(lidos))
     limpas = []
     for ano, ds in sorted(brutas.items()):
         anterior = None
@@ -405,14 +435,11 @@ def ler_decisoes(arquivos):
             anterior = d["data"] + d["ata"]
             limpas.append((ano, d, titulo, proc))
     # 2ª passada: o nome visto em contexto de pessoa num título vale para os demais títulos
-    for _ano, _d, titulo, _proc in limpas:
-        for ini, fim in trechos_de_nome(titulo, vocab):
-            lista.adicionar(titulo[ini:fim])
+    filtro.aprender(t for _ano, _d, t, _proc in limpas)
     out = []
     for ano, d, titulo, proc in limpas:
-        titulo, trocou = lista.trocar(titulo)
-        titulo, trocou2 = sem_pessoas(titulo, vocab)
-        if trocou or trocou2:
+        titulo, trocou = filtro.aplicar(titulo)
+        if trocou:
             cont.nomes_trocados += 1
             cont.somar(ano, "nomes")
         if not titulo:

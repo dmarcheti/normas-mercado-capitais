@@ -3,14 +3,14 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [bcb/circulares/1832.md](../../normas/bcb/circulares/1832.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | securitizacao | O Colegiado, por maioria, indeferiu pedido de dispensa da vedação da Instrução 28/83 (art. 10, I, a) à contratação de agente fiduciário do mesmo grupo econômico, para sete ofertas de debêntures de companhias desse grupo. Entendeu que a Lei 6.404/76 protege mais os debenturistas e que a questão pode ser resolvida por mecanismos de mercado. | ../../../../../julgados/cvm/colegiado/2009/col-20090728-d03.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | RJ2009/5863 | 2009-07-28 | indeferido | cvm-col-20090728-d03 | fichas/colegiado/2009-14.md |
 
 Fim do subíndice.

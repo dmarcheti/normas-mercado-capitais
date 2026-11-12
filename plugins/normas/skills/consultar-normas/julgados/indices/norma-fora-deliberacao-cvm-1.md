@@ -3,49 +3,49 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, as propostas de nove administradores da Multiner S.A., acompanhando o Comitê; seis delas, com pagamentos individuais de R$ 20.000,00 a R$ 40.000,00. Imputação: atraso na entrega de demonstrações financeiras e não convocação de assembleias gerais ordinárias (arts. 132 e 176 da Lei 6.404/1976). | ../../../../../julgados/cvm/colegiado/2014/col-20141216-d02.md |
-| art. 7º | termo-compromisso | RJ2014/7213 | 2015-11-03 | aceito | registro-emissor | O Colegiado aceitou, por unanimidade, proposta conjunta de Termo de Compromisso de quatro proponentes, nos termos do voto do relator: R$ 50.000,00 para um e R$ 20.000,00 para cada um dos outros três. Fundamento: regularização da situação da companhia perante a CVM, comprovada pela SEP, após rejeição anterior. Pagamento em dez dias; assinatura em trinta. | ../../../../../julgados/cvm/colegiado/2015/col-20151103-d9682.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | termo-compromisso | RJ2013/8696 | 2014-12-16 | aceito | cvm-col-20141216-d02 | fichas/tc/2014-05.md |
+| art. 7º | termo-compromisso | RJ2014/7213 | 2015-11-03 | aceito | cvm-col-20151103-d9682 | fichas/tc/2015-04.md |
 
 ## art. 156
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 156 | decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-08-25 | outro | processual | O Colegiado indeferiu, por unanimidade, pedido genérico de produção de prova documental complementar de dois acusados em PAS da SEP sobre administradores da Recrusul S.A. Acompanhou o voto da relatora: a prova seria inoportuna e desnecessária, por versar sobre fatos fora da acusação. Determinou a intimação dos acusados. | ../../../../../julgados/cvm/colegiado/2020/col-20200825-d0775.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 156 | decisao-colegiado | 19957.007552/2016-43; RJ2016/7929 | 2020-08-25 | outro | cvm-col-20200825-d0775 | fichas/colegiado/2020-13.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | administracao-carteiras | Apurar suposta falta de dever de diligência em aquisição de CCB de emissão da Agrária Indústria e Comércio Ltda. Multas | ../../../../../julgados/cvm/pas/2024/19957-004588-2020-51.md |
-| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | administracao-carteiras | Apurar suposta falta de dever de diligência em aquisição de CCB de emissão da Novo Guaíba S.A.. Multas | ../../../../../julgados/cvm/pas/2024/19957-002220-2021-30.md |
-| acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | ofertas-publicas | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. GESTOR DE FUNDO DE INVESTIMENTO. DESCUMPRIMENTO DE REGRA PROIBITIVA DE AQUISIÇÃO DE AÇÕES EM OFERTA PÚBLICA. REALIZAÇÃO, EM PERÍODO VEDADO, DE VENDAS A DESCOBERTO DE AÇÕES DA MESMA ESPÉCIE. Infração ao art. 1º da Instrução CVM nº 530, de 22 de novembro de 2012. Infração caracterizada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2022/10372-100168-2021-82.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-08-05 | outro | normativo | O Colegiado aprovou a Resolução CVM 1/2020, que trata das espécies de atos normativos da CVM, e a Resolução CVM 2/2020, que revoga 186 normas e inclui na ICVM 607/19, como grave, a infração ao art. 170, §§1º e 7º, da Lei 6.404/76. Também cancelou 24 pareceres de orientação, sendo o PO 31/1999 a partir de 01.10.2020. | ../../../../../julgados/cvm/colegiado/2020/col-20200805-d1738.md |
-| acordao-crsfn | RJ2017/3091 | 2020-03-11 | outro | ofertas-publicas | RECURSOS VOLUNTÁRIOS. Oferta irregular de Contrato de Investimento Coletivo de Unidades Autônomas de Condohoteis. Intempestividade. Não conhecimento. | ../../../../../julgados/crsfn/2020/10372-100242-2019-46.md |
-| pas | RJ2012/3110 | 2017-02-14 | parcial | deveres-administradores | Infrações relacionadas à destinação de recursos, a transações com partes relacionadas e à realização de assembleia geral ordinária. Absolvições, advertências e multas. | ../../../../../julgados/cvm/pas/2017/rj2012-3110.md |
-| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, deliberou pela não interrupção do prazo de convocação da AGE de 18.12.2014 da Embratel Participações S.A., pedida por acionista. A SEP entendeu não se justificar a interrupção; os termos da operação seguem no Proc. RJ2014/8102. | ../../../../../julgados/cvm/colegiado/2014/col-20141217-d01-r2.md |
-| acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Ausência de comunicação de alienação de participação acionária relevante – Negociação de papéis de companhia no período de 15 dias antecedentes à divulgação de Informações Trimestrais (ITR) e anuais (DFP) – Irregularidades caracterizadas – Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2014/13097.md |
-| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | divulgacao-informacoes | O Colegiado não conheceu do pedido de reconsideração da RJCP Equity S.A. e, no mérito, manteve a decisão de 07.05.2013, que negou recurso contra determinação da SEP de apresentar formulários de negociação de administradores e pessoas ligadas (art. 11, § 3º, III, da Instrução CVM 358/02). Fundamento: não houve fatos novos, erro, omissão ou contradição. | ../../../../../julgados/cvm/colegiado/2013/col-20131022-d01.md |
-| pas | RJ2012/7471 | 2013-05-28 | condenacao | auditoria-independente | [pessoa física] Não participação no Programa de Revisão Externa de Qualidade Para Auditores Independentes. Multa. | ../../../../../julgados/cvm/pas/2013/rj2012-7471.md |
-| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento, por unanimidade, ao recurso da RJCP Equity S.A. contra exigência da SEP de formulários de negociação de administradores e pessoas ligadas (art. 11, III, § 3º, ICVM 358/02), afastando a alegação de quebra de sigilo bancário. | ../../../../../julgados/cvm/colegiado/2013/col-20130507-d05.md |
-| decisao-colegiado | RJ2011/8632 | 2011-10-04 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8632. | ../../../../../julgados/cvm/colegiado/2011/col-20111004-d10.md |
-| decisao-colegiado | RJ2011/8631 | 2011-10-04 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8631. | ../../../../../julgados/cvm/colegiado/2011/col-20111004-d09.md |
-| decisao-colegiado | RJ2010/14216 | 2011-05-24 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso contra decisão da SEP sobre a suficiência das provisões de expurgos inflacionários de três bancos, e contra o pedido de divulgação plano a plano. Acompanhou o relator, para quem o reconhecimento de provisões cabe à administração e aos auditores, sem medida adicional da CVM. | ../../../../../julgados/cvm/colegiado/2011/col-20110524-d06.md |
-| pas | RJ2009/2172 | 2010-05-18 | condenacao | divulgacao-informacoes | RENAR MAÇÃS S/A Não comunicação imediata à Renar Maçãs S/A da alienação de quantidade equivalente a 5,05% de ações ordinárias de sua emissão, em infração ao art. 12, § 4º, da Instrução CVM nº 358/02. Multa. – Operação irregular, em infração ao art. 13, § 4º, da Instrução CVM nº 358/02. Multa. | ../../../../../julgados/cvm/pas/2010/rj2009-2172.md |
-| decisao-colegiado | RJ2001/12336 | 2010-03-09 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2001/12336. | ../../../../../julgados/cvm/colegiado/2010/col-20100309-d20.md |
-| decisao-colegiado | RJ2008/1794 | 2008-06-24 | outro | assembleia-acionistas | Após pedido de vista, o Colegiado respondeu à consulta da MZ Consult sobre procurações digitais, fórum na internet e cadastro de acionistas no serviço Assembleias Online, sem editar parecer de orientação. Um diretor divergiu em parte sobre dados de acionistas e fórum. | ../../../../../julgados/cvm/colegiado/2008/col-20080624-d02.md |
-| decisao-colegiado | RJ2007/2035 | 2007-08-14 | outro | normativo | O Colegiado determinou a emissão de normativo que revoga as exigências do §4º e do inc. II do §5º do art. 38 da Instrução 356/01 às agências classificadoras de risco em FIDCs com lastro verificado por amostragem, por dificuldades práticas, e que a área técnica deixe de exigi-las nos processos em análise ou anteriores à mudança. | ../../../../../julgados/cvm/colegiado/2007/col-20070814-d03.md |
-| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | normativo | O Colegiado respondeu negativamente a duas consultas sobre o Parecer de Orientação 34/2006 (operação Telemar): preço de aquisição de controle não é critério objetivo para relação de troca em incorporação, e a convergência de cotações após o anúncio não indica aceitação do mercado. Atos interpretativos não se submetem, em regra, a audiência pública. | ../../../../../julgados/cvm/colegiado/2006/col-20061017-d04.md |
-| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2004-10-25 | outro | normativo | O Colegiado, por maioria, colocou em audiência restrita (ANBID, ANCOR e ADEVAL), pelo prazo de 30 dias, a minuta de Parecer de Orientação sobre o uso da internet na intermediação e oferta de valores mobiliários emitidos e admitidos à negociação no exterior. Uma diretora entendeu que não cabia audiência, pois o parecer apenas interpreta a legislação. | ../../../../../julgados/cvm/colegiado/2004/col-20041025-d02.md |
-| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | ../../../../../julgados/cvm/colegiado/2004/col-20040921-d01.md |
-| decisao-antiga | — | 1983-02-03 | — | — | Decisões do colegiado de 1983. | ../../../../../julgados/cvm/decisoes-antigas/1983.md |
-| decisao-antiga | — | 1978-03-22 | — | — | Decisões do colegiado de 1978. | ../../../../../julgados/cvm/decisoes-antigas/1978.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.004588/2020-51 | 2024-07-09 | condenacao | cvm-pas-19957-004588-2020-51 | fichas/pas/2024-05.md |
+| pas | 19957.002220/2021-30 | 2024-07-09 | condenacao | cvm-pas-19957-002220-2021-30 | fichas/pas/2024-05.md |
+| acordao-crsfn | 19957.009486/2017-27; RJ2017/4719 | 2022-06-07 | condenacao | crsfn-10372-100168-2021-82 | fichas/crsfn/2022-03.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-08-05 | outro | cvm-col-20200805-d1738 | fichas/colegiado/2020-12.md |
+| acordao-crsfn | RJ2017/3091 | 2020-03-11 | outro | crsfn-10372-100242-2019-46 | fichas/crsfn/2020-02.md |
+| pas | RJ2012/3110 | 2017-02-14 | parcial | cvm-pas-rj2012-3110 | fichas/pas/2017-01.md |
+| decisao-colegiado | RJ2014/13918 | 2014-12-17 | indeferido | cvm-col-20141217-d01-r2 | fichas/colegiado/2014-27.md |
+| acordao-crsfn | RJ-2009-2172 | 2014-04-15 | condenacao | crsfn-13097 | fichas/crsfn/2014-02.md |
+| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-10-22 | nao-provido | cvm-col-20131022-d01 | fichas/colegiado/2013-20.md |
+| pas | RJ2012/7471 | 2013-05-28 | condenacao | cvm-pas-rj2012-7471 | fichas/pas/2013-03.md |
+| decisao-colegiado | 358/2002; RJ2013/3945 | 2013-05-07 | nao-provido | cvm-col-20130507-d05 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2011/8632 | 2011-10-04 | parcial | cvm-col-20111004-d10 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2011/8631 | 2011-10-04 | parcial | cvm-col-20111004-d09 | fichas/colegiado/2011-21.md |
+| decisao-colegiado | RJ2010/14216 | 2011-05-24 | nao-provido | cvm-col-20110524-d06 | fichas/colegiado/2011-11.md |
+| pas | RJ2009/2172 | 2010-05-18 | condenacao | cvm-pas-rj2009-2172 | fichas/pas/2010-02.md |
+| decisao-colegiado | RJ2001/12336 | 2010-03-09 | parcial | cvm-col-20100309-d20 | fichas/colegiado/2010-08.md |
+| decisao-colegiado | RJ2008/1794 | 2008-06-24 | outro | cvm-col-20080624-d02 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2007/2035 | 2007-08-14 | outro | cvm-col-20070814-d03 | fichas/colegiado/2007-15.md |
+| decisao-colegiado | 34/2006; RJ2006/7204; RJ2006/7213 | 2006-10-17 | outro | cvm-col-20061017-d04 | fichas/colegiado/2006-15.md |
+| decisao-colegiado | RJ2001/9445; RJ2002/2418; RJ2003/1813 | 2004-10-25 | outro | cvm-col-20041025-d02 | fichas/colegiado/2004-12.md |
+| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
+| decisao-antiga | — | 1983-02-03 | — | cvm-dec-1983-0001 | fichas/decisoes-antigas/1983-04.md |
+| decisao-antiga | — | 1978-03-22 | — | cvm-dec-1978-0001 | fichas/decisoes-antigas/1978-02.md |
 
 Fim do subíndice.

@@ -3,30 +3,30 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2002/8520 | 2003-03-12 | parcial | assembleia-acionistas | Em recurso contra entendimento da SEP sobre conselho fiscal da Guararapes Confecções S.A., o Colegiado acompanhou o voto do diretor-relator: manteve a exigência de AGE para eleger o conselho, mas permitiu que a companhia se sirva dele na análise do exercício de 2002 e das DFs na AGO próxima, sob pena de inquérito administrativo pela área técnica. | ../../../../../julgados/cvm/colegiado/2003/col-20030312-d05.md |
-| art. 2º | decisao-colegiado | RJ2002/7152 | 2005-08-30 | provido | assembleia-acionistas | O Colegiado, por unanimidade, deu provimento a recurso contra manifestação da SEP sobre pedido de instalação de conselho fiscal em AGO. Fundamento: preferencialistas com direito temporário de voto mantêm os direitos da sua espécie, inclusive pedir conselho fiscal e eleger membro em separado. | ../../../../../julgados/cvm/colegiado/2005/col-20050830-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2002/8520 | 2003-03-12 | parcial | cvm-col-20030312-d05 | fichas/colegiado/2003-03.md |
+| art. 2º | decisao-colegiado | RJ2002/7152 | 2005-08-30 | provido | cvm-col-20050830-d01 | fichas/colegiado/2005-12.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| pas | RJ2015/8673 | 2017-05-30 | condenacao | deveres-administradores | EMENTA: Atuação irregular e abusiva dos membros do Conselho Fiscal da RJ Capital Partners S.A. Inabilitação Temporária – Não envio, ao conselho fiscal, de documentos relacionados aos negócios da companhia. Multa. – Não divulgação tempestiva de fato relevante. Multa. | ../../../../../julgados/cvm/pas/2017/rj2015-8673.md |
-| acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | assembleia-acionistas | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários - Falta de convocação de assembleia geral ordinária dentro do prazo legal - Não apresentação de demonstrações financeiras – Irregularidades caracterizadas - Apelos voluntários a que se nega provimento. | ../../../../../julgados/crsfn/2010/11325.md |
-| pas | RJ2008/1815 | 2009-04-28 | parcial | deveres-administradores | MOSSI & GHISOLFI INTERNACIONAL S/A e outros (M&G POLIÉSTER S/A) Caracterização de conduta irregular do acionista controlador - constituição de empresa concorrente sem o oferecimento da oportunidade comercial a sua controlada - quebra do dever de lealdade - multa. | ../../../../../julgados/cvm/pas/2009/rj2008-1815.md |
-| decisao-colegiado | RJ2007/11086 | 2008-05-06 | provido | assembleia-acionistas | O Colegiado deu provimento a recurso contra o entendimento da SEP em consulta sobre conselho fiscal: o requisito de 10% do art. 161, §4º, a, da Lei 6.404/76 refere-se às ações detidas pelos minoritários da companhia, não às presentes na assembleia. Aplicação apenas às eleições posteriores à publicação da decisão. | ../../../../../julgados/cvm/colegiado/2008/col-20080506-d03.md |
-| decisao-colegiado | RJ2007/3246; RJ2006/5701 | 2008-03-11 | outro | assembleia-acionistas | O Colegiado acompanhou integralmente o voto do relator, que não viu razão para parecer de orientação sobre conselho fiscal e sugeriu o arquivamento da reclamação da Previ por perda de objeto. O assento de minoritários no conselho fiscal será apreciado no RJ2007/11086. | ../../../../../julgados/cvm/colegiado/2008/col-20080311-d01.md |
-| decisao-colegiado | RJ2007/9211 | 2007-11-13 | parcial | assembleia-acionistas | Pedido de reconsideração de decisão do colegiado. Proc. RJ2007/9211. | ../../../../../julgados/cvm/colegiado/2007/col-20071113-d02.md |
-| decisao-colegiado | RJ2007/3246; RJ2006/5701 | 2007-07-10 | nao-provido | assembleia-acionistas | O Colegiado negou provimento a recurso da Souza Cruz S.A. contra entendimento da SEP sobre instalação e eleição do conselho fiscal (Lei 6.404/76, arts. 161 e 291). Participação insuficiente para eleição em separado não impede a instalação; controlador não é obrigado a participar da eleição. Orientação só para casos futuros. | ../../../../../julgados/cvm/colegiado/2007/col-20070710-d16.md |
-| pas | RJ2002/4311 | 2006-09-25 | condenacao | assembleia-acionistas | Não convocação da AGO nos 4 primeiros meses seguintes ao término do exercício social, em inobservância ao dever imposto no art. 132 da Lei nº 6.404/76 e no art. 23, f, do estatuto social da Companhia Café Solúvel Brasília S.A., considerada infração grave pelo art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Advertências. - Não apresentação de demonstrações financeiras, em infração ao art. 16 da Instrução CVM nº 202/93, considerada infração grave, pelo disposto no art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Multa. - Não convocação da AGO, em infração ao dever legal imposto no inciso V do artigo 163 da Lei nº 6.404/76, alterado pela Lei nº 10.303/01, considerada infração grave pelo disposto no art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Advertências. | ../../../../../julgados/cvm/pas/2006/rj2002-4311.md |
-| decisao-colegiado | RJ2002/7152 | 2006-01-10 | nao-provido | assembleia-acionistas | O Colegiado negou provimento ao pedido de reconsideração da Mendes Júnior Engenharia S.A. e manteve a decisão de 30.08.05, que aplicou aos preferenciais sem voto as regras de conselho fiscal enquanto tiverem voto pela falta de dividendos. Ressalva do relator sobre a afirmação de abuso de poder de controle. | ../../../../../julgados/cvm/colegiado/2006/col-20060110-d04.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| pas | RJ2015/8673 | 2017-05-30 | condenacao | cvm-pas-rj2015-8673 | fichas/pas/2017-02.md |
+| acordao-crsfn | RJ-2002-4311 | 2010-10-05 | condenacao | crsfn-11325 | fichas/crsfn/2010-07.md |
+| pas | RJ2008/1815 | 2009-04-28 | parcial | cvm-pas-rj2008-1815 | fichas/pas/2009-02.md |
+| decisao-colegiado | RJ2007/11086 | 2008-05-06 | provido | cvm-col-20080506-d03 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2007/3246; RJ2006/5701 | 2008-03-11 | outro | cvm-col-20080311-d01 | fichas/colegiado/2008-06.md |
+| decisao-colegiado | RJ2007/9211 | 2007-11-13 | parcial | cvm-col-20071113-d02 | fichas/colegiado/2007-22.md |
+| decisao-colegiado | RJ2007/3246; RJ2006/5701 | 2007-07-10 | nao-provido | cvm-col-20070710-d16 | fichas/colegiado/2007-12.md |
+| pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
+| decisao-colegiado | RJ2002/7152 | 2006-01-10 | nao-provido | cvm-col-20060110-d04 | fichas/colegiado/2006-01.md |
 
 Fim do subíndice.

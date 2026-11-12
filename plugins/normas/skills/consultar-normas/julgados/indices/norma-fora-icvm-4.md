@@ -3,135 +3,135 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2013/12503; RJ2013/12505; RJ2013/12506; RJ2013/12507; RJ2013/12508 | 2015-11-10 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os cinco recursos da BNY Mellon Serviços Financeiros DTVM S.A., como administradora de cinco fundos, e manteve as multas cominatórias de R$ 12.000,00 cada pelo não envio das demonstrações financeiras de 30.04.2013 (art. 48 da ICVM 356/2001), acompanhando a área técnica (Memorando nº 82/2015-CVM/SIN/GIE). | ../../../../../julgados/cvm/colegiado/2015/col-20151110-d9915.md |
-| art. 3º | decisao-colegiado | RJ2015/12862 | 2015-12-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2015/12862. | ../../../../../julgados/cvm/colegiado/2015/col-20151222-d9981.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | RJ2013/12503; RJ2013/12505; RJ2013/12506; RJ2013/12507; RJ2013/12508 | 2015-11-10 | nao-provido | cvm-col-20151110-d9915 | fichas/colegiado/2015-21.md |
+| art. 3º | decisao-colegiado | RJ2015/12862 | 2015-12-22 | nao-provido | cvm-col-20151222-d9981 | fichas/colegiado/2015-25.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9380. | ../../../../../julgados/cvm/colegiado/2015/col-20150922-d9845.md |
-| art. 6º | decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9382. | ../../../../../julgados/cvm/colegiado/2015/col-20150922-d9847.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2015/9380 | 2015-09-22 | nao-provido | cvm-col-20150922-d9845 | fichas/colegiado/2015-17.md |
+| art. 6º | decisao-colegiado | RJ2015/9382 | 2015-09-22 | nao-provido | cvm-col-20150922-d9847 | fichas/colegiado/2015-17.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | RJ2015/12329 | 2015-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/12329. | ../../../../../julgados/cvm/colegiado/2015/col-20151201-d9954.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | RJ2015/12329 | 2015-12-01 | nao-provido | cvm-col-20151201-d9954 | fichas/colegiado/2015-23.md |
 
 ## art. 14
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14, inciso I | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | ../../../../../julgados/cvm/colegiado/2007/col-20070807-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14, inciso I | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | cvm-col-20070807-d03 | fichas/tc/2007-04.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | registro-emissor | ELETROSILEX S/A Não envio de informações periódicas – não elaboração de demonstrações financeiras – não realização de AGOs. Absolvições e multas. | ../../../../../julgados/cvm/pas/2010/rj2009-1504.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19, inciso II | pas | RJ2009/1504 | 2010-08-17 | parcial | cvm-pas-rj2009-1504 | fichas/pas/2010-03.md |
 
 ## art. 52
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 52 | termo-compromisso | RJ2014/7213 | 2015-06-09 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou, por unanimidade, a proposta conjunta de termo de compromisso de quatro proponentes, diretores da Hopi Hari S.A., no PAS RJ2014/7213, acompanhando o Comitê, que a considerou inoportuna porque a companhia permanecia irregular perante a CVM. Propostas: R$ 50.000,00 de um proponente e R$ 20.000,00 de cada um dos outros três. | ../../../../../julgados/cvm/colegiado/2015/col-20150609-d9682.md |
-| art. 52 | termo-compromisso | RJ2014/7213 | 2015-11-03 | aceito | registro-emissor | O Colegiado aceitou, por unanimidade, proposta conjunta de Termo de Compromisso de quatro proponentes, nos termos do voto do relator: R$ 50.000,00 para um e R$ 20.000,00 para cada um dos outros três. Fundamento: regularização da situação da companhia perante a CVM, comprovada pela SEP, após rejeição anterior. Pagamento em dez dias; assinatura em trinta. | ../../../../../julgados/cvm/colegiado/2015/col-20151103-d9682.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 52 | termo-compromisso | RJ2014/7213 | 2015-06-09 | rejeitado | cvm-col-20150609-d9682 | fichas/tc/2015-03.md |
+| art. 52 | termo-compromisso | RJ2014/7213 | 2015-11-03 | aceito | cvm-col-20151103-d9682 | fichas/tc/2015-04.md |
 
 ## art. 56-C
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 56-C | pas | RJ2015/10276 | 2017-07-11 | absolvicao | ofertas-publicas | Decisão resumida | ../../../../../julgados/cvm/pas/2017/rj2015-10276.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 56-C | pas | RJ2015/10276 | 2017-07-11 | absolvicao | cvm-pas-rj2015-10276 | fichas/pas/2017-03.md |
 
 ## art. 111
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 111 | decisao-colegiado | SP2015/0122 | 2016-02-23 | deferido | infraestrutura-mercado | O Colegiado concedeu à BRIX Energia e Futuros S.A. autorização para atuar como entidade administradora de mercado organizado e para operar mercado de balcão organizado de derivativos de energia com liquidação financeira, condicionada aos requisitos da SMI: documentos em 3 meses e Fase 2 implementada em 9 meses, contados da decisão, acompanhando integralmente a área técnica. | ../../../../../julgados/cvm/colegiado/2016/col-20160223-d0077.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 111 | decisao-colegiado | SP2015/0122 | 2016-02-23 | deferido | cvm-col-20160223-d0077 | fichas/colegiado/2016-05.md |
 
 ## art. 119-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 119-A | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento ao recurso da administradora de FII. Multas administrativas por descumprimento legal (conservação de imóvel) não são gastos de manutenção do inciso XIII do art. 47 da ICVM 472/2008 e devem ser arcadas pela administradora (§1º do mesmo artigo). | ../../../../../julgados/cvm/colegiado/2015/col-20150616-d9688.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 119-A | decisao-colegiado | 472/2008; RJ2012/9687 | 2015-06-16 | nao-provido | cvm-col-20150616-d9688 | fichas/colegiado/2015-10.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.012792/2022-16 | 2024-09-10 | condenacao | auditoria-independente | Apurar eventual responsabilidade de sociedade de auditores por não cumprimento de regulamentação associada ao Programa de Educação Profissional continuada. Infração aos arts. 20 e 34 da Instrução CVM n° 308/1999. Multas. | ../../../../../julgados/cvm/pas/2024/19957-012792-2022-16.md |
-| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | auditoria-independente | Apurar responsabilidade de auditor independente e seu responsável técnico, por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99; e também ao art. 25, IV, da mesma Instrução. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-010467-2021-20.md |
-| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-005226-2020-88.md |
-| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | ../../../../../julgados/cvm/pas/2024/19957-001231-2021-01.md |
-| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | auditoria-independente | Apurar indícios de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações financeiras do FIP ETB, da Xnice e da Xmasseto. Multas e extinção de punibilidade. | ../../../../../julgados/cvm/pas/2024/19957-004715-2020-12.md |
-| pas | 19957.004040/2020-10 | 2023-12-06 | parcial | auditoria-independente | Apurar supostas irregularidades na emissão de documentos de auditoria independente da Altere Securitizadora S.A. Multas e extinção de punibilidade. | ../../../../../julgados/cvm/pas/2023/19957-004040-2020-10.md |
-| pas | 19957.005248/2021-29 | 2023-09-05 | parcial | auditoria-independente | Apurar eventuais irregularidades nos trabalhos de auditoria sobre as demonstrações financeiras da companhia JBS S.A. relativas aos exercícios sociais de 2013 a 2016 Absolvições e Multas. | ../../../../../julgados/cvm/pas/2023/19957-005248-2021-29.md |
-| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | intermediacao | Apurar eventual responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do disposto na Instrução CVM nº 505/2011, em infração ao art. 3º, inciso I; e (b) procedimentos e controles internos com o objetivo de verificar a implementação, aplicação e eficácia dessas regras, em infração ao art. 3º, inciso II; e (ii) à falhas na elaboração e no conteúdo dos relatórios de controles internos, em infração ao art. 4º, §5º, inciso III, da Instrução CVM nº 505/2011. Multas e advertência. | ../../../../../julgados/cvm/pas/2023/19957-009663-2017-75.md |
-| pas | 19957.009104/2019-27 | 2023-04-25 | absolvicao | deveres-administradores | Apurar responsabilidade de ex-diretores financeiros da Companhia Paranaense de Energia S.A. – COPEL, por descumprimento dos artigos 153, 176 e 177 da Lei nº 6.404/76 pela não adoção de providências efetivas para reenquadrar os investimentos à política de investimentos da companhia e suas participações na elaboração ou aprovação das demonstrações financeiras anuais completas datas-base 31.12.2014, 31.12.2015, 31.12.2016, 31.12.2017, em desacordo com as normas aplicáveis. Absolvições. | ../../../../../julgados/cvm/pas/2023/19957-009104-2019-27.md |
-| decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | infraestrutura-mercado | Na descontinuidade do BDR Nível III da Nu Holdings Ltd., o Colegiado deferiu, por unanimidade, opção adicional de troca por BDR Nível I, com a mesma quantidade de ações lastro. Indeferiu, por maioria (vencido um diretor), que essa opção fosse padrão para quem não se manifestasse. Indeferiu, por unanimidade, provedor de liquidez alternativo, sem óbice a uso adicional. | ../../../../../julgados/cvm/colegiado/2022/col-20221220-d2727.md |
-| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | auditoria-independente | Atuação no mercado de valores mobiliários como auditor independente e respectivo responsável técnico sem os pertinentes registro e cadastro perante a CVM, em infração ao art. 26 da Lei nº 6.385/1976, ao art. 1º e ao art. 2º, § 1º, da Instrução CVM nº 308/1999. Multas. | ../../../../../julgados/cvm/pas/2022/19957-006394-2021-71.md |
-| pas | 19957.005011/2020-67 | 2022-02-15 | condenacao | ofertas-publicas | Oferta pública de contratos de investimento coletivo hoteleiro, sem a prévia obtenção de registro perante a CVM ou sua dispensa, nos termos do art. 19, caput e §5º, I, da Lei n° 6.385/1976 e dos arts. 2º e 4° da Instrução CVM nº 400/2003. Advertências. | ../../../../../julgados/cvm/pas/2022/19957-005011-2020-67.md |
-| pas | 19957.006547/2019-66 | 2022-02-01 | parcial | auditoria-independente | Falhas nos trabalhos de auditoria sobre as demonstrações financeiras da Camil Alimentos S.A., do exercício social findo em 28.02.2017, em alegada infração aos arts. 20 e 25, inciso II, da Instrução CVM nº 308/1999 Advertências e absolvições. | ../../../../../julgados/cvm/pas/2022/19957-006547-2019-66.md |
-| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | auditoria-independente | RECURSOS VOLUNTÁRIOS. Descumprimento por auditor independente de normas emanadas pelo Conselho Federal de Contabilidade relativas ao exercício de sua atividade e conduta profissional. Competência da CVM para regular o exercício profissional de auditor independente. Infração configurada. Recursos conhecidos e desprovidos. Incidência de multas. | ../../../../../julgados/crsfn/2020/10372-100332-2019-37.md |
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | auditoria-independente | Ementa : Inobservância de normas contábeis. Infração aos arts. 20 e 25, I, a), da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Nov 12 16:23:00 BRST 2019 | ../../../../../julgados/cvm/pas/2019/rj2017-0136.md |
-| decisao-colegiado | 19957.006874/2019-18 | 2019-11-05 | outro | auditoria-independente | Por unanimidade, o Colegiado determinou à SNC e à SDM que incluam na agenda regulatória de 2020 a revisão da ICVM 308/99, para avaliar a manutenção da responsabilidade solidária e ilimitada dos sócios de auditorias independentes. A SNC e a PFE haviam se posicionado pela manutenção da regra; o IBRACON pedia responsabilidade limitada. | ../../../../../julgados/cvm/colegiado/2019/col-20191105-d1590.md |
-| decisao-colegiado | 07/2015 | 2019-09-24 | indeferido | processual | O Colegiado, por unanimidade e acompanhando o voto do relator, indeferiu os pedidos de produção de provas e outros requerimentos do acusado no PAS 07/2015, que apura administração irregular de carteiras (ICVM 306/99) e prática não equitativa (ICVM 8/79). Considerou desnecessárias ou não especificadas as provas pedidas. | ../../../../../julgados/cvm/colegiado/2019/col-20190924-d0912.md |
-| pas | RJ2015/13093 | 2019-06-25 | parcial | auditoria-independente | Inobservância de normas emanadas pelo Conselho Federal de Contabilidade. Infração ao art. 20º , da Instrução CVM nº 308/06. Infração ao art. 8, §4º , da Instrução CVM nº 356/01. Multas. Absolvição. Decisão: Vistos, relatados e discutidos os autos, o Colegiado da Comissão de Valores Mobiliários, com base na prova dos autos e na legislação aplicável, com fundamento no art. 11 da Lei nº 6.385/76, por unanimidade, decidiu: 1. pela condenação de UHY Bendoraytes & Cia Auditores Independentes (atual denominação da Crowe Horwath Bendoraytes & Cia. Auditores Independentes) à penalidade de multa pecuniária no valor de R$ 300.000,00 (trezentos mil reais), por infração ao disposto no art. 20 da Instrução CVM nº 308/99, haja vista o descumprimento dos itens 7 e 11 da NBC TA 200, do item 17 da NBC TA 220, do item 11 da NBC TA 230, dos itens 3, A111 e A112 da NBC TA 315, dos itens 21 e A2 da NBC TA 330, dos itens 4, 7, 20, A42, A44 da NBC TA 402, dos itens 7 e 15 da NBC TA 450, dos itens 5 a 8 da NBC TA 530, dos itens 8 e 9 da NBC TA 540, dos itens 2, 5, 11 e A31 da NBC TA 550 e do item 14 da NBC TA 580; 2. pela condenação de [pessoa física], à penalidade de multa pecuniária no valor de R$ 150.000,00 (cento e cinquenta mil reais), por infração ao disposto no art. 20 da Instrução CVM nº 308/99, haja vista o descumprimento dos itens 7 e 11 da NBC TA 200, do item 17 da NBC TA 220, do item 11 da NBC TA 230, dos itens 3, A111 e A112 da NBC TA 315, dos itens 21 e A2 da NBC TA 330, dos itens 4, 7, 20, A42, A44 da NBC TA 402, dos itens 7 e 15 da NBC TA 450, dos itens 5 a 8 da NBC TA 530, dos itens 8 e 9 da NBC TA 540, dos itens 2, 5, 11 e A31 da NBC TA 550 e do item 14 da NBC TA 580; e | ../../../../../julgados/cvm/pas/2019/rj2015-13093.md |
-| pas | RJ2014/7704 | 2018-04-03 | condenacao | auditoria-independente | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de Contabilidade destinadas à execução desses trabalhos. Suspensão temporária e multa. | ../../../../../julgados/cvm/pas/2018/rj2014-7704.md |
-| pas | RJ2014/14763 | 2018-04-03 | condenacao | auditoria-independente | Irregularidades apontadas nos trabalhos de revisões externas de qualidade em face das normas de auditoria editadas pelo Conselho Federal de Contabilidade destinadas à execução desses trabalhos. Suspensão temporária e multa. | ../../../../../julgados/cvm/pas/2018/rj2014-14763.md |
-| pas | RJ2015/6229 | 2018-03-20 | condenacao | deveres-administradores | Falhas nos apontamentos dos livros sociais – irregularidades na escrituração contábil, nas integralizações de capital da Companhia e na prestação de informações ao mercado e à CVM – Descumprimento dos deveres de diligência e de fiscalização dos atos da diretoria. Multas. | ../../../../../julgados/cvm/pas/2018/rj2015-6229.md |
-| pas | RJ2015/13670 | 2018-03-06 | condenacao | auditoria-independente | Inobservância de normas contábeis na rescisão do contrato de prestação de serviços de auditoria. Multas. | ../../../../../julgados/cvm/pas/2018/rj2015-13670.md |
-| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS. Elaboração de Formulário de Referência com informações incompletas, inconsistentes e com texto sem clareza. Demora na atualização de campos do Formulário de Referência. Infrações caracterizadas. Dosimetria destoante de outros julgados da CVM. Recursos conhecidos e parcialmente providos. | ../../../../../julgados/crsfn/2017/14089.md |
-| acordao-crsfn | RJ2015/11473 | 2017-09-19 | condenacao | auditoria-independente | RECURSO VOLUNTÁRIO. Comissão de Valores Mobiliários. Não submissão ao Programa de Revisão Externa de Qualidade. Art. 33 da Instrução CVM nº 308/1999. Irregularidade caracterizada. Suspensão temporária. Negado provimento ao recurso. | ../../../../../julgados/crsfn/2017/10372-100198-2017-11.md |
-| pas | RJ2014/1020 | 2017-09-12 | condenacao | informacao-privilegiada | Negociação de ações em período vedado pelas normas da CVM – Não envio à CVM de informações sobre negociações realizadas com valores mobiliários. Multas. | ../../../../../julgados/cvm/pas/2017/rj2014-1020.md |
-| pas | RJ2016/1742 | 2017-04-18 | condenacao | manipulacao-fraude | Manipulação de preço de ações. Proibição temporária. | ../../../../../julgados/cvm/pas/2017/rj2016-1742.md |
-| pas | RJ2015/11473 | 2016-12-15 | condenacao | auditoria-independente | Não submissão ao Programa de Revisão Externa de Qualidade. Suspensão temporária. | ../../../../../julgados/cvm/pas/2016/rj2015-11473.md |
-| pas | RJ2014/5807 | 2016-03-15 | condenacao | divulgacao-informacoes | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Não envio, à CVM, de informações periódicas – Não elaboração de demonstrações financeiras – Irregularidades na escrituração dos livros de Registro e de Transferência de Ações – Não convocação de assembleias gerais ordinárias. Multas. | ../../../../../julgados/cvm/pas/2016/rj2014-5807.md |
-| decisao-colegiado | RJ2016/2130 | 2016-03-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/2130. | ../../../../../julgados/cvm/colegiado/2016/col-20160308-d0144.md |
-| decisao-colegiado | RJ2014/8516 | 2016-02-16 | provido | fundos-investimento | O Colegiado, acompanhando o voto do diretor relator, concedeu dispensa do art. 39, §2º, da ICVM 356/2001 (vedação à aquisição de créditos de parte relacionada) a FIDC-NP exclusivo, reformando decisão anterior que a havia indeferido, contra proposta da SIN. Fundamento: art. 9º da ICVM 444; cotista único conhecedor dos investimentos e cotas sem negociação no mercado secundário. | ../../../../../julgados/cvm/colegiado/2016/col-20160216-d9460.md |
-| decisao-colegiado | RJ2013/7137 | 2016-02-16 | conhecimento | ofertas-publicas | O Colegiado, acompanhando o voto do diretor relator, não conheceu do recurso da Gaia Securitizadora S.A. contra indeferimento de registro definitivo de oferta de CRIs (art. 7º, ICVM 414/2004), por perda de objeto: os CRIs do registro provisório foram resgatados no vencimento. Devolveu o processo à SRE. | ../../../../../julgados/cvm/colegiado/2016/col-20160216-d8747.md |
-| decisao-colegiado | RJ2015/12681 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2015/12681. | ../../../../../julgados/cvm/colegiado/2016/col-20160216-d0086.md |
-| decisao-colegiado | RJ2013/0301 | 2016-02-02 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2013/0301. | ../../../../../julgados/cvm/colegiado/2016/col-20160202-d8905.md |
-| decisao-colegiado | RJ2015/9415 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9415. | ../../../../../julgados/cvm/colegiado/2015/col-20150929-d9854.md |
-| decisao-colegiado | RJ2015/9414 | 2015-09-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9414. | ../../../../../julgados/cvm/colegiado/2015/col-20150929-d9853.md |
-| decisao-colegiado | RJ2015/9346 | 2015-09-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/9346. | ../../../../../julgados/cvm/colegiado/2015/col-20150922-d9835.md |
-| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | O Colegiado indeferiu o pedido de dispensa da BRL Trust DTVM do cumprimento do inciso IV do art. 35 da Instrução CVM 472/2008 para o Arena Fundo de Investimento Imobiliário, acompanhando a SIN. Para a SIN, a AGC de 28.11.2013 extrapolou sua competência (art. 18 da ICVM 472) ao coobrigar bens e direitos do fundo. | ../../../../../julgados/cvm/colegiado/2015/col-20150908-d9820.md |
-| decisao-colegiado | RJ2012/8574 | 2015-08-11 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2012/8574. | ../../../../../julgados/cvm/colegiado/2015/col-20150811-d8763.md |
-| pas | SP2012/402 | 2015-07-01 | condenacao | intermediacao | Remuneração por prestação de serviço na qualidade de agente autônomo de investimento. Multa | ../../../../../julgados/cvm/pas/2015/sp2012-0402.md |
-| decisao-colegiado | RJ2015/5917 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5917. | ../../../../../julgados/cvm/colegiado/2015/col-20150623-d9712.md |
-| decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | administracao-carteiras | O Colegiado, acompanhando o Memorando 24/2015 (SIN/GIR), negou provimento ao recurso contra indeferimento de credenciamento como consultor de valores mobiliários. Fundamento: não comprovado o período mínimo de três anos em atividade que revele aptidão para análise de investimentos (ICVM 43/1985), aplicado o entendimento do Proc. RJ2011/7177. | ../../../../../julgados/cvm/colegiado/2015/col-20150623-d9711.md |
-| decisao-colegiado | RJ2015/5998 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5998. | ../../../../../julgados/cvm/colegiado/2015/col-20150623-d9710.md |
-| decisao-colegiado | RJ2015/5991 | 2015-06-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/5991. | ../../../../../julgados/cvm/colegiado/2015/col-20150623-d9709.md |
-| decisao-colegiado | RJ2015/3692 | 2015-05-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/3692. | ../../../../../julgados/cvm/colegiado/2015/col-20150512-d9644.md |
-| decisao-colegiado | RJ2015/2700 | 2015-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/2700. | ../../../../../julgados/cvm/colegiado/2015/col-20150414-d9626.md |
-| decisao-colegiado | RJ2015/2699 | 2015-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/2699. | ../../../../../julgados/cvm/colegiado/2015/col-20150414-d9625.md |
-| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-04 | outro | normativo | O Colegiado aprovou a edição de instrução que regula a administração de carteiras de valores mobiliários, substituindo a ICVM 306/1999, após as audiências públicas SDM 14/2011 e 10/2014; vigência em 04/01/2016 e adaptação até 30/06/2016 para os já registrados. Aprovou também minuta para audiência pública de 30 dias sobre exames de certificação para registro. | ../../../../../julgados/cvm/colegiado/2015/col-20150304-d802.md |
-| acordao-crsfn | 15/1990 | 2014-08-26 | parcial | auditoria-independente | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Desvio de objeto social - Falta de constituição de provisão para devedores duvidosos - Apontamento dos fatos no parecer dos auditores independentes, na forma de ressalvas - A não participação de contadores em comissão de inquérito no âmbito na CVM não traz prejuízos aos trabalhos - A comissão de inquérito tem o objetivo de apurar fatos, em fase que antecede eventual instauração de processo administrativo punitivo - Prescrição administrativa: suspensão do prazo durante o qual o processo ficou paralisado por força de decisão judicial – Irregularidades, inclusive de natureza grave, caracterizadas - Declaração de extinção de punibilidade de alguns dos recorridos (falecimento) – Apelos voluntários improvidos – Recurso de ofício não provido. | ../../../../../julgados/crsfn/2014/13282.md |
-| pas | RJ2013/9463 | 2014-07-22 | condenacao | divulgacao-informacoes | Irregularidades na divulgação e na atualização de informações exigidas no preenchimento do Formulário de Referência 2011 (FRE), versões 9 E 10. Multas. | ../../../../../julgados/cvm/pas/2014/rj2013-9463.md |
-| decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | opa | O Colegiado deferiu os pleitos das ofertantes em OPA por permuta para cancelamento de registro da TAM S.A.: manifestação do acionista até as 18h da véspera do leilão; renúncia à condição via fato relevante, com prorrogação de 10 dias; critério de preço das ações em circulação; dispensa de prospecto para BDR LAN; enquadramento no Nível III. Acompanhando a SRE. | ../../../../../julgados/cvm/colegiado/2012/col-20120502-d01.md |
-| pas | 15/1990 | 2010-08-24 | parcial | deveres-administradores | [pessoa física] Não convocação de AGO – não publicação de demonstrações financeiras – descumprimento do dever de manter atualizado o registro de companhia aberta na CVM. Multas. Atuação solidária com o controlador no desvio do objeto social da Companhia. Inabilitações. Não emissão de parecer conclusivo dos auditores quanto à adequação das Demonstrações Financeiras. Absolvições. Não apresentação de ressalva quanto ao desvio de objeto social. Absolvições. Não apresentação de ressalva quanto à não constituição de provisão para devedores duvidosos - Auditoria inepta. Advertências. | ../../../../../julgados/cvm/pas/2010/15-1990.md |
-| decisao-colegiado | RJ2001/1024 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2001/1024. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d08.md |
-| decisao-colegiado | RJ2002/6553 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6553. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d02.md |
-| decisao-colegiado | RJ2002/6504 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6504. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d01-r2.md |
-| termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | informacao-privilegiada | O Colegiado rejeitou as duas propostas de termo de compromisso no PAS 25/2005, por uso de informação privilegiada: a da BNDES Participações S.A. (informar gestores de fundos sobre acordos de acionistas) e a da Iochpe-Maxion S.A. com dois ex-diretores (R$ 50.000,00 e aperfeiçoamento de políticas), por desequilíbrio em relação à conduta. Acompanhou o parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2007/col-20071218-d04.md |
-| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor independente-pessoa jurídica, por falta de certificado do responsável técnico no Exame de Qualificação Técnica. Com base no voto do relator, que considerou a questão em vias de pacificação. | ../../../../../julgados/cvm/colegiado/2005/col-20050930-d07.md |
-| pas | RJ2003/12911 | 2005-09-08 | condenacao | pld | SAFIC CVC S.A. E [pessoa física] Descumprimento das obrigações referidas no inciso I, do art. 10 da Lei nº 9.613/98, combinado com o art. 3º da Instrução nº 301/99. Pena de Advertência. Não comunicação das operações objeto no art. 11 da Lei nº 9.613/98, combinado com o art. 6º da Instrução CVM nº 301/99. Pena de Multa. | ../../../../../julgados/cvm/pas/2005/rj2003-12911.md |
-| pas | RJ2001/8739 | 2003-09-11 | condenacao | auditoria-independente | Infração ao art. 20 da Instrução CVM nº308/99. | ../../../../../julgados/cvm/pas/2003/rj2001-8739.md |
-| decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
-| decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | ../../../../../julgados/cvm/decisoes-antigas/1989.md |
-| decisao-antiga | — | 1986-01-13 | — | — | Decisões do colegiado de 1986. | ../../../../../julgados/cvm/decisoes-antigas/1986.md |
-| decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | ../../../../../julgados/cvm/decisoes-antigas/1984.md |
-| decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | ../../../../../julgados/cvm/decisoes-antigas/1979.md |
-| decisao-antiga | — | 1978-03-22 | — | — | Decisões do colegiado de 1978. | ../../../../../julgados/cvm/decisoes-antigas/1978.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.012792/2022-16 | 2024-09-10 | condenacao | cvm-pas-19957-012792-2022-16 | fichas/pas/2024-07.md |
+| pas | 19957.010467/2021-20 | 2024-09-03 | absolvicao | cvm-pas-19957-010467-2021-20 | fichas/pas/2024-07.md |
+| pas | 19957.005226/2020-88 | 2024-07-30 | absolvicao | cvm-pas-19957-005226-2020-88 | fichas/pas/2024-06.md |
+| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | cvm-pas-19957-001231-2021-01 | fichas/pas/2024-04.md |
+| pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
+| pas | 19957.004040/2020-10 | 2023-12-06 | parcial | cvm-pas-19957-004040-2020-10 | fichas/pas/2023-08.md |
+| pas | 19957.005248/2021-29 | 2023-09-05 | parcial | cvm-pas-19957-005248-2021-29 | fichas/pas/2023-05.md |
+| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-04.md |
+| pas | 19957.009104/2019-27 | 2023-04-25 | absolvicao | cvm-pas-19957-009104-2019-27 | fichas/pas/2023-02.md |
+| decisao-colegiado | 19957.012664/2022-64 | 2022-12-20 | parcial | cvm-col-20221220-d2727 | fichas/colegiado/2022-17.md |
+| pas | 19957.006394/2021-71 | 2022-11-29 | condenacao | cvm-pas-19957-006394-2021-71 | fichas/pas/2022-06.md |
+| pas | 19957.005011/2020-67 | 2022-02-15 | condenacao | cvm-pas-19957-005011-2020-67 | fichas/pas/2022-01.md |
+| pas | 19957.006547/2019-66 | 2022-02-01 | parcial | cvm-pas-19957-006547-2019-66 | fichas/pas/2022-01.md |
+| acordao-crsfn | RJ2016/5789 | 2020-09-20 | condenacao | crsfn-10372-100332-2019-37 | fichas/crsfn/2020-05.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
+| decisao-colegiado | 19957.006874/2019-18 | 2019-11-05 | outro | cvm-col-20191105-d1590 | fichas/colegiado/2019-18.md |
+| decisao-colegiado | 07/2015 | 2019-09-24 | indeferido | cvm-col-20190924-d0912 | fichas/colegiado/2019-15.md |
+| pas | RJ2015/13093 | 2019-06-25 | parcial | cvm-pas-rj2015-13093 | fichas/pas/2019-05.md |
+| pas | RJ2014/7704 | 2018-04-03 | condenacao | cvm-pas-rj2014-7704 | fichas/pas/2018-03.md |
+| pas | RJ2014/14763 | 2018-04-03 | condenacao | cvm-pas-rj2014-14763 | fichas/pas/2018-03.md |
+| pas | RJ2015/6229 | 2018-03-20 | condenacao | cvm-pas-rj2015-6229 | fichas/pas/2018-02.md |
+| pas | RJ2015/13670 | 2018-03-06 | condenacao | cvm-pas-rj2015-13670 | fichas/pas/2018-02.md |
+| acordao-crsfn | RJ2013/9463 | 2017-11-21 | parcial | crsfn-14089 | fichas/crsfn/2017-08.md |
+| acordao-crsfn | RJ2015/11473 | 2017-09-19 | condenacao | crsfn-10372-100198-2017-11 | fichas/crsfn/2017-07.md |
+| pas | RJ2014/1020 | 2017-09-12 | condenacao | cvm-pas-rj2014-1020 | fichas/pas/2017-03.md |
+| pas | RJ2016/1742 | 2017-04-18 | condenacao | cvm-pas-rj2016-1742 | fichas/pas/2017-02.md |
+| pas | RJ2015/11473 | 2016-12-15 | condenacao | cvm-pas-rj2015-11473 | fichas/pas/2016-09.md |
+| pas | RJ2014/5807 | 2016-03-15 | condenacao | cvm-pas-rj2014-5807 | fichas/pas/2016-01.md |
+| decisao-colegiado | RJ2016/2130 | 2016-03-08 | nao-provido | cvm-col-20160308-d0144 | fichas/colegiado/2016-07.md |
+| decisao-colegiado | RJ2014/8516 | 2016-02-16 | provido | cvm-col-20160216-d9460 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2013/7137 | 2016-02-16 | conhecimento | cvm-col-20160216-d8747 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2015/12681 | 2016-02-16 | nao-provido | cvm-col-20160216-d0086 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | RJ2013/0301 | 2016-02-02 | nao-provido | cvm-col-20160202-d8905 | fichas/colegiado/2016-03.md |
+| decisao-colegiado | RJ2015/9415 | 2015-09-29 | nao-provido | cvm-col-20150929-d9854 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2015/9414 | 2015-09-29 | nao-provido | cvm-col-20150929-d9853 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | RJ2015/9346 | 2015-09-22 | nao-provido | cvm-col-20150922-d9835 | fichas/colegiado/2015-17.md |
+| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | cvm-col-20150908-d9820 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | RJ2012/8574 | 2015-08-11 | nao-provido | cvm-col-20150811-d8763 | fichas/colegiado/2015-14.md |
+| pas | SP2012/402 | 2015-07-01 | condenacao | cvm-pas-sp2012-0402 | fichas/pas/2015-04.md |
+| decisao-colegiado | RJ2015/5917 | 2015-06-23 | nao-provido | cvm-col-20150623-d9712 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/2581 | 2015-06-23 | nao-provido | cvm-col-20150623-d9711 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/5998 | 2015-06-23 | nao-provido | cvm-col-20150623-d9710 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/5991 | 2015-06-23 | nao-provido | cvm-col-20150623-d9709 | fichas/colegiado/2015-11.md |
+| decisao-colegiado | RJ2015/3692 | 2015-05-12 | nao-provido | cvm-col-20150512-d9644 | fichas/colegiado/2015-08.md |
+| decisao-colegiado | RJ2015/2700 | 2015-04-14 | nao-provido | cvm-col-20150414-d9626 | fichas/colegiado/2015-06.md |
+| decisao-colegiado | RJ2015/2699 | 2015-04-14 | nao-provido | cvm-col-20150414-d9625 | fichas/colegiado/2015-06.md |
+| decisao-colegiado | 14/2011; 10/2014; RJ2007/11580; RJ2014/10543 | 2015-03-04 | outro | cvm-col-20150304-d802 | fichas/colegiado/2015-04.md |
+| acordao-crsfn | 15/1990 | 2014-08-26 | parcial | crsfn-13282 | fichas/crsfn/2014-05.md |
+| pas | RJ2013/9463 | 2014-07-22 | condenacao | cvm-pas-rj2013-9463 | fichas/pas/2014-03.md |
+| decisao-colegiado | RJ2012/995; RJ2012/1267 | 2012-05-02 | deferido | cvm-col-20120502-d01 | fichas/colegiado/2012-08.md |
+| pas | 15/1990 | 2010-08-24 | parcial | cvm-pas-15-1990 | fichas/pas/2010-03.md |
+| decisao-colegiado | RJ2001/1024 | 2009-10-13 | nao-provido | cvm-col-20091013-d08 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2002/6553 | 2009-03-17 | nao-provido | cvm-col-20090317-d02 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | RJ2002/6504 | 2009-03-17 | nao-provido | cvm-col-20090317-d01-r2 | fichas/colegiado/2009-04.md |
+| termo-compromisso | 25/2005 | 2007-12-18 | rejeitado | cvm-col-20071218-d04 | fichas/tc/2007-06.md |
+| decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
+| pas | RJ2003/12911 | 2005-09-08 | condenacao | cvm-pas-rj2003-12911 | fichas/pas/2005-06.md |
+| pas | RJ2001/8739 | 2003-09-11 | condenacao | cvm-pas-rj2001-8739 | fichas/pas/2003-03.md |
+| decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| decisao-antiga | — | 1989-01-04 | — | cvm-dec-1989-0001 | fichas/decisoes-antigas/1989-04.md |
+| decisao-antiga | — | 1986-01-13 | — | cvm-dec-1986-0001 | fichas/decisoes-antigas/1986-07.md |
+| decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
+| decisao-antiga | — | 1979-01-04 | — | cvm-dec-1979-0001 | fichas/decisoes-antigas/1979-03.md |
+| decisao-antiga | — | 1978-03-22 | — | cvm-dec-1978-0001 | fichas/decisoes-antigas/1978-02.md |
 
 Fim do subíndice.

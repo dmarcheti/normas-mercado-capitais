@@ -143,16 +143,31 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
     def gerar(self):
         return indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
 
-    def test_ano_pequeno_tem_um_subindice_com_uma_linha_por_decisao(self):
+    def test_ano_pequeno_tem_um_subindice_com_uma_linha_por_ficha(self):
         self.anual(1985, [("12", "05.03.1985", [("CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS", CORPO),
                                                 ("AUMENTO DE CAPITAL POR SUBSCRIÇÃO", CORPO)])])
         arqs = self.gerar()
         self.assertIn("indices/decisao-antiga-1985.md", arqs)
         md = arqs["indices/decisao-antiga-1985.md"]
-        self.assertIn("| 1985-03-05 | 12 | — | CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS | "
-                      "%scvm/decisoes-antigas/1985.md:" % indice.PREFIXO_ALVO, md)
-        self.assertEqual(md.count("cvm/decisoes-antigas/1985.md:"), 2)
+        self.assertIn("| Data da ata | Processo | Id | Ficha |", md)
+        self.assertIn("| 1985-03-05 | — | cvm-col-1985-antigas-0001 | fichas/decisoes-antigas/1985.md |", md)
+        self.assertIn("| 1985-03-05 | — | cvm-col-1985-antigas-0002 | fichas/decisoes-antigas/1985.md |", md)
+        self.assertEqual(md.count("fichas/decisoes-antigas/1985.md"), 2)  # uma linha por ficha, não por ano
+        self.assertNotIn("DEBÊNTURES", md)  # o título é a ementa da ficha, não vai para o índice
+        self.assertNotIn("julgados/cvm/decisoes-antigas", md)
         self.assertIn("(indices/decisao-antiga-1985.md)", arqs["indice.md"])
+
+    def test_linha_do_indice_acha_a_ficha_em_memoria(self):
+        self.anual(1985, [("12", "05.03.1985", [("CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS", CORPO),
+                                                ("AUMENTO DE CAPITAL POR SUBSCRIÇÃO", CORPO)])])
+        _f, arquivos, _i = indice.fch.montar(self.raiz)
+        por_id = indice.fch.ids_por_arquivo(arquivos)
+        md = self.gerar()["indices/decisao-antiga-1985.md"]
+        linhas = [l for l in md.split("\n") if l.startswith("| 1985-")]
+        self.assertEqual(len(linhas), 2)
+        for l in linhas:
+            cel = [c.strip() for c in l.strip("|").split("|")]
+            self.assertEqual(por_id[cel[2]], cel[3])
 
     def test_ano_grande_divide_por_semestre_e_cada_parte_tem_link(self):
         self.anual(1999, [("1", "05.02.1999", [("CONSULTA SOBRE DEBÊNTURES CONVERSÍVEIS", CORPO)]),
@@ -161,7 +176,7 @@ class TestIndiceDasDecisoesAntigas(unittest.TestCase):
             arqs = self.gerar()
         self.assertNotIn("indices/decisao-antiga-1999.md", arqs)
         s1, s2 = arqs["indices/decisao-antiga-1999-s1.md"], arqs["indices/decisao-antiga-1999-s2.md"]
-        self.assertIn("1999-02-05", s1)
+        self.assertIn("1999-02-05 | — | cvm-col-1999-antigas-0001 | fichas/decisoes-antigas/1999.md", s1)
         self.assertNotIn("1999-09-05", s1)
         self.assertIn("1999-09-05", s2)
         for rel in ("indices/decisao-antiga-1999-s1.md", "indices/decisao-antiga-1999-s2.md"):

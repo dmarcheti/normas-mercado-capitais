@@ -3,169 +3,169 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
-| art. 1º | decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005798/2018-42. | ../../../../../julgados/cvm/colegiado/2019/col-20190521-d1406.md |
-| art. 1º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240903-d0993.md |
-| art. 1º | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | fundos-investimento | Recurso do fundo cotista denunciante contra decisão da SIN de arquivar reclamação contra a Votorantim Asset Management DTVM (atual Tivio Capital DTVM) sobre suitability, dever de diligência, dever de informar e assembleia virtual irregular. A SIN propôs não conhecer ou, se conhecido, negar provimento; um membro votou pelo conhecimento e não provimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2025/col-20250722-d3315.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| art. 1º | decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
+| art. 1º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
+| art. 1º | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | cvm-col-20250722-d3315 | fichas/colegiado/2025-07.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º, § 5º | pas | 11/2013 | 2018-01-30 | parcial | intermediacao | Irregularidades na administração e na gestão de clubes de investimento. Prática de negociação excessiva (churning). Negligência na defesa dos direitos e dos interesses de clubes de investimento administrados pela Corretora. Absolvições e Multa. | ../../../../../julgados/cvm/pas/2018/11-2013.md |
-| art. 2º, § 5º | pas | SP2014/465 | 2018-11-06 | parcial | manipulacao-fraude | Suposta prática de administração de carteira de valores mobiliários sem a prévia autorização da CVM e prática de operação fraudulenta. Infração ao art. 23 da Lei n° 6.385/76 c/c art. 16, inciso IV, alínea 'b' da Instrução CVM n° 434/06 e art. 3° da Instrução CVM n° 306/99. Infração ao disposto na alínea 'c' do item II da Instrução 08/79. Absolvição. Multa. Data decisão CVM Tue Nov 06 11:33:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/sp2014-0465.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º, § 5º | pas | 11/2013 | 2018-01-30 | parcial | cvm-pas-11-2013 | fichas/pas/2018-01.md |
+| art. 2º, § 5º | pas | SP2014/465 | 2018-11-06 | parcial | cvm-pas-sp2014-0465 | fichas/pas/2018-09.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
-| art. 3º | decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005798/2018-42. | ../../../../../julgados/cvm/colegiado/2019/col-20190521-d1406.md |
-| art. 3º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240903-d0993.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| art. 3º | decisao-colegiado | 19957.005798/2018-42 | 2019-05-21 | provido | cvm-col-20190521-d1406 | fichas/colegiado/2019-08.md |
+| art. 3º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
-| art. 5º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240903-d0993.md |
-| art. 5º, inciso I | decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20161121-d5347.md |
-| art. 5º, inciso I | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso da Singulare Corretora e de seu diretor responsável, acompanhando a conclusão do Comitê, por entender insuficientes os valores para desestimular práticas semelhantes. Acusação: fiscalização da gestora e compra de ativos sem lastro (ICVM 555, art. 90, X). | ../../../../../julgados/cvm/colegiado/2023/col-20230207-d2567.md |
-| art. 5º, inciso II | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
-| art. 5º, inciso II | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240903-d0993.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| art. 5º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
+| art. 5º, inciso I | decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
+| art. 5º, inciso I | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | cvm-col-20230207-d2567 | fichas/tc/2023-02.md |
+| art. 5º, inciso II | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| art. 5º, inciso II | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
-| art. 6º | decisao-colegiado | 19957.008723/2016-51 | 2018-09-25 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008723/2016-51. | ../../../../../julgados/cvm/colegiado/2018/col-20180925-d0778.md |
-| art. 6º | decisao-colegiado | 19957.004014/2020-83 | 2021-02-23 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004014/2020-83. | ../../../../../julgados/cvm/colegiado/2021/col-20210223-d2080.md |
-| art. 6º | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008009/2020-40. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2102.md |
-| art. 6º | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004739/2020-71. | ../../../../../julgados/cvm/colegiado/2021/col-20210401-d1954.md |
-| art. 6º | decisao-colegiado | 19957.000767/2021-09 | 2022-03-22 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000767/2021-09. | ../../../../../julgados/cvm/colegiado/2022/col-20220322-d2536.md |
-| art. 6º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, proposta conjunta de termo de compromisso da Singulare Corretora e de seu diretor responsável, acompanhando a conclusão do Comitê, por entender insuficientes os valores para desestimular práticas semelhantes. Acusação: fiscalização da gestora e compra de ativos sem lastro (ICVM 555, art. 90, X). | ../../../../../julgados/cvm/colegiado/2023/col-20230207-d2567.md |
-| art. 6º | decisao-colegiado | 19957.004368/2022-90 | 2023-05-30 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004368/2022-90. | ../../../../../julgados/cvm/colegiado/2023/col-20230530-d2865.md |
-| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240903-d0993.md |
-| art. 6º, inciso I | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008009/2020-40. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2102.md |
-| art. 6º, inciso I | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004739/2020-71. | ../../../../../julgados/cvm/colegiado/2021/col-20210401-d1954.md |
-| art. 6º, inciso II | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004739/2020-71. | ../../../../../julgados/cvm/colegiado/2021/col-20210401-d1954.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
+| art. 6º | decisao-colegiado | 19957.008723/2016-51 | 2018-09-25 | nao-provido | cvm-col-20180925-d0778 | fichas/colegiado/2018-17.md |
+| art. 6º | decisao-colegiado | 19957.004014/2020-83 | 2021-02-23 | provido | cvm-col-20210223-d2080 | fichas/colegiado/2021-04.md |
+| art. 6º | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
+| art. 6º | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
+| art. 6º | decisao-colegiado | 19957.000767/2021-09 | 2022-03-22 | provido | cvm-col-20220322-d2536 | fichas/colegiado/2022-04.md |
+| art. 6º | termo-compromisso | 19957.004982/2021-71 | 2023-02-07 | rejeitado | cvm-col-20230207-d2567 | fichas/tc/2023-02.md |
+| art. 6º | decisao-colegiado | 19957.004368/2022-90 | 2023-05-30 | parcial | cvm-col-20230530-d2865 | fichas/colegiado/2023-06.md |
+| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2024-09-03 | provido | cvm-col-20240903-d0993 | fichas/colegiado/2024-09.md |
+| art. 6º, inciso I | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
+| art. 6º, inciso I | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
+| art. 6º, inciso II | decisao-colegiado | 19957.004739/2020-71 | 2021-04-01 | nao-provido | cvm-col-20210401-d1954 | fichas/colegiado/2021-06.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º, inciso III | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | fundos-investimento | Apurar suposta infração por parte da administradora do Urca Fundo de Investimento em Direitos Creditórios Não-Padronizados ao art. 1º, § 1º, da Instrução CVM nº 444/2006, c/c art. 92, caput, I, da Instrução CVM nº 555/2014. Multa e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-004318-2021-21.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º, inciso III | pas | 19957.004318/2021-21 | 2023-12-06 | parcial | cvm-pas-19957-004318-2021-21 | fichas/pas/2023-08.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | 19957.003645/2021-66 | 2021-05-11 | outro | intermediacao | O Colegiado aprovou, por unanimidade, a Resolução CVM 30/2021, que revisa a ICVM 539/2013 sobre o dever de verificação da adequação de produtos e operações ao perfil do cliente. O prazo de atualização do perfil foi alinhado ao máximo de cinco anos (ICVM 617/2019, art. 4º, III). Dispensada de audiência pública e de AIR. | ../../../../../julgados/cvm/colegiado/2021/col-20210511-d2163.md |
-| art. 8º, inciso I | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008009/2020-40. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2102.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | 19957.003645/2021-66 | 2021-05-11 | outro | cvm-col-20210511-d2163 | fichas/colegiado/2021-08.md |
+| art. 8º, inciso I | decisao-colegiado | 19957.008009/2020-40 | 2021-03-16 | nao-provido | cvm-col-20210316-d2102 | fichas/colegiado/2021-05.md |
 
 ## art. 9º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º | decisao-colegiado | 19957.006753/2017-12 | 2018-01-30 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso e manteve o cancelamento do registro de oferta de cotas de FII após a renúncia da gestora, que atuava como coordenadora líder. Acompanhou voto de um diretor que, divergindo da SRE, invocou a estabilidade do conteúdo da oferta (Instrução CVM 400/03). | ../../../../../julgados/cvm/colegiado/2018/col-20180130-d0885.md |
-| art. 9º | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | fundos-investimento | Recurso do fundo cotista denunciante contra decisão da SIN de arquivar reclamação contra a Votorantim Asset Management DTVM (atual Tivio Capital DTVM) sobre suitability, dever de diligência, dever de informar e assembleia virtual irregular. A SIN propôs não conhecer ou, se conhecido, negar provimento; um membro votou pelo conhecimento e não provimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2025/col-20250722-d3315.md |
-| art. 9º, inciso I | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | securitizacao | Por maioria, o Colegiado proveu recurso da Eco Securitizadora e da XP contra a SRE, que não admitia o registro de CRA da 79ª série com lastro em debêntures da BK Brasil. Condicionou o registro à previsão, na escritura, de prestação trimestral com notas fiscais da compra de carne dos fornecedores, verificada pelo agente fiduciário. | ../../../../../julgados/cvm/colegiado/2016/col-20160830-d0291.md |
-| art. 9º, inciso I | decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009342/2019-32. | ../../../../../julgados/cvm/colegiado/2020/col-20200128-d1674.md |
-| art. 9º, inciso III | decisao-colegiado | 19957.004436/2018-34 | 2019-08-06 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004436/2018-34. | ../../../../../julgados/cvm/colegiado/2019/col-20190806-d1490.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º | decisao-colegiado | 19957.006753/2017-12 | 2018-01-30 | nao-provido | cvm-col-20180130-d0885 | fichas/colegiado/2018-02.md |
+| art. 9º | decisao-colegiado | 19957.005021/2021-83 | 2025-07-22 | — | cvm-col-20250722-d3315 | fichas/colegiado/2025-07.md |
+| art. 9º, inciso I | decisao-colegiado | 19957.001669/2016-13 | 2016-08-30 | provido | cvm-col-20160830-d0291 | fichas/colegiado/2016-16.md |
+| art. 9º, inciso I | decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | cvm-col-20200128-d1674 | fichas/colegiado/2020-02.md |
+| art. 9º, inciso III | decisao-colegiado | 19957.004436/2018-34 | 2019-08-06 | nao-provido | cvm-col-20190806-d1490 | fichas/colegiado/2019-12.md |
 
 ## art. 9º-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º-A | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | ofertas-publicas | RECURSO DE OFÍCIO. CVM. Responsabilidade da Administradora, da Instituição Líder e de seus diretores por omissão nas informações prestadas no prospecto definitivo de oferta pública de distribuição de cotas de Fundo de Investimento Imobiliário. Instrução CVM nº 400/2003. Recurso provido. | ../../../../../julgados/crsfn/2018/14361.md |
-| art. 9º-A | decisao-colegiado | 19957.002752/2016-18 | 2016-05-24 | deferido | fundos-investimento | O Colegiado deferiu, por unanimidade, o registro de funcionamento e quatro dispensas da ICVM 356/2001 ao Fundo de Investimento em Direitos Creditórios Não-Padronizados Avanti, administrado pela Votorantim Asset Management DTVM Ltda.: integralização de cotas com direitos creditórios, duas contas vinculadas, concentração de até 100% do patrimônio em um devedor e direitos de devedores no exterior. | ../../../../../julgados/cvm/colegiado/2016/col-20160524-d0223.md |
-| art. 9º-A | decisao-colegiado | 356/2001; 19957.007539/2016-94 | 2016-11-22 | deferido | fundos-investimento | O Colegiado, acompanhando a SIN, deferiu pedidos de dispensa da Instrução CVM 356/2001 para registro de fundo de direitos creditórios com cotista único investidor profissional: integralização de cotas com direitos creditórios (art. 15, § 2º) e concentração de até 100% do patrimônio em um mesmo devedor (art. 40-A). Cotas não registradas nem negociáveis, segundo a requerente. | ../../../../../julgados/cvm/colegiado/2016/col-20161122-d0435.md |
-| art. 9º-A | decisao-colegiado | 19957.005989/2017-23 | 2017-08-08 | deferido | ofertas-publicas | O Colegiado concedeu, por unanimidade, dispensa pleiteada de registro da oferta de cotas do FIDC Corban, destinada a até 75 investidores profissionais, e de prospecto e anúncios de início e encerramento. Acompanhou a SRE. | ../../../../../julgados/cvm/colegiado/2017/col-20170808-d0769.md |
-| art. 9º-A | decisao-colegiado | 19957.003587/2018-75 | 2018-07-10 | deferido | ofertas-publicas | O Colegiado concedeu, por unanimidade, à Fram Capital DTVM a dispensa de registro da oferta de cotas mezanino e subordinadas do Fram Capital Ativo FIDC, bem como de prospecto e de anúncios de início e encerramento, acompanhando a SRE. Fundamento, segundo a SRE: art. 4º, §1º, VII, da Instrução CVM 400/2003 (público de investidores profissionais). | ../../../../../julgados/cvm/colegiado/2018/col-20180710-d1079.md |
-| art. 9º-A | decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | securitizacao | O Colegiado deferiu, por unanimidade, tratamento confidencial à localização e à matrícula de cerca de 1.900 imóveis destinatários dos recursos dos CRI da 4ª emissão da Vert Companhia Securitizadora, lastreados em debêntures da Raia Drogasil S.A. (art. 5º, §2º, do Decreto 7.724/12; art. 8º, I, da Lei 9.514/97), em linha com a área técnica. | ../../../../../julgados/cvm/colegiado/2019/col-20190108-d1272.md |
-| art. 9º-A | decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | securitizacao | O Colegiado deferiu pedido de registro de oferta de CRA da Vert Companhia Securitizadora, lastreados em debêntures da Vamos, por enquadrar o lastro no §7º do art. 3º da Instrução CVM 600/18, divergindo da área técnica, que propôs o §5º. Com ressalva de um diretor. | ../../../../../julgados/cvm/colegiado/2019/col-20190122-d1279.md |
-| art. 9º-A | decisao-colegiado | 19957.009448/2019-36 | 2020-03-31 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de registro pleiteada pela Fram Capital DTVM S.A. para a oferta de cotas mezanino e subordinadas do Fram Capital Ativo FIDC, acompanhando a SRE, com base no art. 4º da Instrução CVM 400/03 (interesse público, informação adequada e proteção ao investidor). Pedido subsidiário de dispensa de prospecto e de anúncios não consta da deliberação. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1766.md |
-| art. 9º-A | decisao-colegiado | 19957.004374/2018-61 | 2020-09-22 | outro | crowdfunding | O Colegiado cancelou, de ofício, a autorização da plataforma de investimento participativo Finco Invest, com base no art. 17, II, b, da ICVM 588/17 e no Memorando 32/2020 da SMI e SRE. O exame de mérito sobre irregularidades anteriores ficará para eventual PAS. | ../../../../../julgados/cvm/colegiado/2020/col-20200922-d1924.md |
-| art. 9º-A | decisao-colegiado | 19957.007927/2020-51 | 2021-03-23 | indeferido | fundos-investimento | O Colegiado, por unanimidade, divergindo da área técnica, indeferiu a dispensa das regras de informe diário e informes mensais da Instrução CVM 555/2014 para cinco fundos exclusivos cuja única cotista é companhia listada no exterior, e para fundos futuros nas mesmas condições. Não houve comprovação de inconsistência concreta entre regimes regulatórios. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2109.md |
-| art. 9º-A | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | ofertas-publicas | Irregularidades na 1ª emissão, em duas séries, de debêntures da Venture Capital Participações e Investimentos S.A., realizada nos moldes da Instrução CVM nº 476/2009, que dispõe sobre as ofertas públicas de valores mobiliários distribuídas com esforços restritos e a negociação desses valores mobiliários nos mercados regulamentados.Multas, absolvições e reconhecimento da extinção de punibilidade. | ../../../../../julgados/cvm/pas/2023/19957-008816-2018-48.md |
-| art. 9º-A, inciso IV | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | fundos-investimento | Em consulta da SRE, o Colegiado, acompanhando o relator, decidiu que o registro de emissor do art. 21 da Lei 6.385/76 se aplica a fundos de investimento que invistam em valores mobiliários. Encaminhou à SDM estudo de hipóteses de safe harbor para presumir a distribuição privada, no projeto de reforma das ofertas públicas. | ../../../../../julgados/cvm/colegiado/2018/col-20181030-d0819.md |
-| art. 9º-A, inciso VII | decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004235/2020-51. | ../../../../../julgados/cvm/colegiado/2020/col-20200714-d1854.md |
-| art. 9º-A, inciso VII | decisao-colegiado | 19957.004235/2020-51 | 2021-09-21 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004235/2020-51. | ../../../../../julgados/cvm/colegiado/2021/col-20210921-d1854.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º-A | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-03.md |
+| art. 9º-A | decisao-colegiado | 19957.002752/2016-18 | 2016-05-24 | deferido | cvm-col-20160524-d0223 | fichas/colegiado/2016-10.md |
+| art. 9º-A | decisao-colegiado | 356/2001; 19957.007539/2016-94 | 2016-11-22 | deferido | cvm-col-20161122-d0435 | fichas/colegiado/2016-23.md |
+| art. 9º-A | decisao-colegiado | 19957.005989/2017-23 | 2017-08-08 | deferido | cvm-col-20170808-d0769 | fichas/colegiado/2017-14.md |
+| art. 9º-A | decisao-colegiado | 19957.003587/2018-75 | 2018-07-10 | deferido | cvm-col-20180710-d1079 | fichas/colegiado/2018-12.md |
+| art. 9º-A | decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
+| art. 9º-A | decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
+| art. 9º-A | decisao-colegiado | 19957.009448/2019-36 | 2020-03-31 | deferido | cvm-col-20200331-d1766 | fichas/colegiado/2020-06.md |
+| art. 9º-A | decisao-colegiado | 19957.004374/2018-61 | 2020-09-22 | outro | cvm-col-20200922-d1924 | fichas/colegiado/2020-16.md |
+| art. 9º-A | decisao-colegiado | 19957.007927/2020-51 | 2021-03-23 | indeferido | cvm-col-20210323-d2109 | fichas/colegiado/2021-05.md |
+| art. 9º-A | pas | 19957.008816/2018-48 | 2023-02-28 | parcial | cvm-pas-19957-008816-2018-48 | fichas/pas/2023-01.md |
+| art. 9º-A, inciso IV | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | cvm-col-20181030-d0819 | fichas/colegiado/2018-19.md |
+| art. 9º-A, inciso VII | decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | cvm-col-20200714-d1854 | fichas/colegiado/2020-11.md |
+| art. 9º-A, inciso VII | decisao-colegiado | 19957.004235/2020-51 | 2021-09-21 | conhecimento | cvm-col-20210921-d1854 | fichas/colegiado/2021-16.md |
 
 ## art. 9º-B
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º-B | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | ofertas-publicas | RECURSO DE OFÍCIO. CVM. Responsabilidade da Administradora, da Instituição Líder e de seus diretores por omissão nas informações prestadas no prospecto definitivo de oferta pública de distribuição de cotas de Fundo de Investimento Imobiliário. Instrução CVM nº 400/2003. Recurso provido. | ../../../../../julgados/crsfn/2018/14361.md |
-| art. 9º-B | decisao-colegiado | RJ2015/6419 | 2015-08-25 | deferido | securitizacao | O Colegiado, acompanhando a SRE, deferiu o registro da oferta de 750.000 CRA de R$ 1.000,00 cada, abaixo do mínimo de R$ 300.000,00 dos precedentes, por serem destinados exclusivamente a investidores qualificados. Fixou requisitos de revolvência nos moldes do precedente RJ2013/8860, exceto o valor mínimo. | ../../../../../julgados/cvm/colegiado/2015/col-20150825-d9805.md |
-| art. 9º-B | decisao-colegiado | 19957.004000/2016-83 | 2016-07-05 | outro | fundos-investimento | Consulta sobre oferta de cotas de fundos de índice para investidores em geral. Proc. SEI 19957.004000/2016-83. | ../../../../../julgados/cvm/colegiado/2016/col-20160705-d0289.md |
-| art. 9º-B | decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | securitizacao | O Colegiado deferiu, por unanimidade, tratamento confidencial à localização e à matrícula de cerca de 1.900 imóveis destinatários dos recursos dos CRI da 4ª emissão da Vert Companhia Securitizadora, lastreados em debêntures da Raia Drogasil S.A. (art. 5º, §2º, do Decreto 7.724/12; art. 8º, I, da Lei 9.514/97), em linha com a área técnica. | ../../../../../julgados/cvm/colegiado/2019/col-20190108-d1272.md |
-| art. 9º-B | decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | securitizacao | O Colegiado deferiu pedido de registro de oferta de CRA da Vert Companhia Securitizadora, lastreados em debêntures da Vamos, por enquadrar o lastro no §7º do art. 3º da Instrução CVM 600/18, divergindo da área técnica, que propôs o §5º. Com ressalva de um diretor. | ../../../../../julgados/cvm/colegiado/2019/col-20190122-d1279.md |
-| art. 9º-B | decisao-colegiado | 19957.009448/2019-36 | 2020-03-31 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de registro pleiteada pela Fram Capital DTVM S.A. para a oferta de cotas mezanino e subordinadas do Fram Capital Ativo FIDC, acompanhando a SRE, com base no art. 4º da Instrução CVM 400/03 (interesse público, informação adequada e proteção ao investidor). Pedido subsidiário de dispensa de prospecto e de anúncios não consta da deliberação. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1766.md |
-| art. 9º-B, inciso II | decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009342/2019-32. | ../../../../../julgados/cvm/colegiado/2020/col-20200128-d1674.md |
-| art. 9º-B, inciso III | decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004235/2020-51. | ../../../../../julgados/cvm/colegiado/2020/col-20200714-d1854.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º-B | acordao-crsfn | RJ2013/4328 | 2018-06-26 | condenacao | crsfn-14361 | fichas/crsfn/2018-03.md |
+| art. 9º-B | decisao-colegiado | RJ2015/6419 | 2015-08-25 | deferido | cvm-col-20150825-d9805 | fichas/colegiado/2015-15.md |
+| art. 9º-B | decisao-colegiado | 19957.004000/2016-83 | 2016-07-05 | outro | cvm-col-20160705-d0289 | fichas/colegiado/2016-13.md |
+| art. 9º-B | decisao-colegiado | 19957.009340/2018-62 | 2019-01-08 | deferido | cvm-col-20190108-d1272 | fichas/colegiado/2019-01.md |
+| art. 9º-B | decisao-colegiado | 19957.009605/2018-22 | 2019-01-22 | deferido | cvm-col-20190122-d1279 | fichas/colegiado/2019-01.md |
+| art. 9º-B | decisao-colegiado | 19957.009448/2019-36 | 2020-03-31 | deferido | cvm-col-20200331-d1766 | fichas/colegiado/2020-06.md |
+| art. 9º-B, inciso II | decisao-colegiado | 19957.009342/2019-32 | 2020-01-28 | conhecimento | cvm-col-20200128-d1674 | fichas/colegiado/2020-02.md |
+| art. 9º-B, inciso III | decisao-colegiado | 19957.004235/2020-51 | 2020-07-14 | nao-provido | cvm-col-20200714-d1854 | fichas/colegiado/2020-11.md |
 
 ## art. 9º-C
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º-C | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | fundos-investimento | Em consulta da SRE, o Colegiado, acompanhando o relator, decidiu que o registro de emissor do art. 21 da Lei 6.385/76 se aplica a fundos de investimento que invistam em valores mobiliários. Encaminhou à SDM estudo de hipóteses de safe harbor para presumir a distribuição privada, no projeto de reforma das ofertas públicas. | ../../../../../julgados/cvm/colegiado/2018/col-20181030-d0819.md |
-| art. 9º-C | termo-compromisso | 19957.010084/2021-51 | 2023-04-04 | rejeitado | fundos-investimento | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso da Singulare Corretora e de dois diretores responsáveis, relativas ao FIDC Marte. Acompanhando o Comitê, considerou a economia processual reduzida (4 de 12 acusados propuseram ajuste), os valores insuficientes e a gravidade das falhas de gatekeepers. | ../../../../../julgados/cvm/colegiado/2023/col-20230404-d2738.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º-C | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | cvm-col-20181030-d0819 | fichas/colegiado/2018-19.md |
+| art. 9º-C | termo-compromisso | 19957.010084/2021-51 | 2023-04-04 | rejeitado | cvm-col-20230404-d2738 | fichas/tc/2023-02.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | intermediacao | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº 30/2021, por agente autônomo de investimento. Multas, Proibição Temporária e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-009162-2023-37.md |
-| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | administracao-carteiras | RECURSOS ADMINISTRATIVOS. CVM. FALTA DO DEVER DE DILIGÊNCIA. ADMINISTRADOR FIDUCIÁRIO DE FUNDO DE INVESTIMENTO. Violação aos deveres de boa-fé, transparência, diligência e lealdade aos clientes pelo administrador de carteira de valores mobiliários. Infração caracterizada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2024/10372-100089-2022-52.md |
-| pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | manipulacao-fraude | Apurar supostas operações fraudulentas no mercado de valores mobiliários, na forma conceituada pelo item II, “c”, da Instrução CVM n° 08/1979, em violação do item I da mesma Instrução, em vigor à época dos fatos. Absolvição. | ../../../../../julgados/cvm/pas/2024/19957-006657-2020-61.md |
-| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | intermediacao | O Colegiado não conheceu do recurso de investidor contra decisão da SMI que não adotou medidas adicionais em reclamação contra a XP Investimentos (suitability, operações estruturadas e ordens sem procuração), acompanhando a área técnica, que o considerou intempestivo (art. 2º, Res. CVM 46/2021). | ../../../../../julgados/cvm/colegiado/2022/col-20220614-d2615.md |
-| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | administracao-carteiras | Violação aos deveres de boa-fé, transparência, diligência e lealdade aos clientes pelo administrador de carteira de valores mobiliários, em infração ao art. 16, inciso I, da Instrução CVM n° 558/2015. Multas. | ../../../../../julgados/cvm/pas/2022/19957-011368-2017-89.md |
-| decisao-colegiado | 19957.007863/2021-70 | 2022-03-29 | indeferido | fundos-investimento | O Colegiado, por maioria, indeferiu o pedido do Banco Daycoval de dispensa do art. 39, §2º, da ICVM 356/2001 para FIDC, acompanhando a SSE: o caso não atende aos precedentes, especialmente quanto ao interesse único, comum e indissociável dos cotistas. Houve voto divergente de um diretor. | ../../../../../julgados/cvm/colegiado/2022/col-20220329-d2544.md |
-| decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | intermediacao | O Colegiado não conheceu do recurso do reclamante contra decisão da SMI que arquivou reclamação contra a XP Investimentos CCTVM S.A. e agentes autônomos vinculados. Acompanhando a SMI, a decisão recorrida é fundamentada e não contraria o entendimento prevalecente do Colegiado (art. 4º, §4º, da Instrução CVM 607/2019). | ../../../../../julgados/cvm/colegiado/2021/col-20210727-d2248.md |
-| decisao-colegiado | 19957.008007/2020-51 | 2021-04-27 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008007/2020-51. | ../../../../../julgados/cvm/colegiado/2021/col-20210427-d2148.md |
-| termo-compromisso | 19957.005057/2019-42 | 2021-04-27 | outro | intermediacao | O Colegiado aceitou a proposta de termo de compromisso da RJ Investimentos – AAI, acusada de delegar a terceiros serviços de intermediação (Instrução CVM 497/2011, art. 13, VI), por R$ 175.000,00, acompanhando o Comitê. Rejeitou a proposta, de R$ 28.000,00, de pessoa física que atuou como AAI sem autorização (Instrução CVM 497/2011, art. 1º; Lei 6.385/1976, art. 16, III). | ../../../../../julgados/cvm/colegiado/2021/col-20210427-d1929.md |
-| decisao-colegiado | 19957.000246/2021-43 | 2021-04-01 | deferido | ofertas-publicas | O Colegiado concedeu dispensa do art. 55 da Instrução CVM 400 ao GLP Logística FII, acompanhando a SRE, para destinar 10% das cotas à gestora e pessoas vinculadas, sem rateio em excesso de demanda superior a 1/3. Não delegou à SRE casos futuros similares. | ../../../../../julgados/cvm/colegiado/2021/col-20210401-d2119.md |
-| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | intermediacao | O Colegiado aprovou, por maioria, as conclusões da SMI sobre oferta a residentes no Brasil de intermediação por estrangeiro em parceria com nacional, sem óbice nas normas vigentes. Aprovou por unanimidade os critérios do item 67 do Memorando 112/2020 (alíneas a, c a i) e, por maioria, a nova alínea b sugerida pela área técnica, que substitui a original. | ../../../../../julgados/cvm/colegiado/2021/col-20210223-d1583.md |
-| decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | intermediacao | O Colegiado, acompanhando a SMI (Memorando 107/2020), decidiu, por unanimidade, não conhecer recurso contra arquivamento de processo sobre operações de risco elevado recomendadas por agentes autônomos. Para a SMI, o recurso não atendia ao art. 4º, §4º, da Instrução CVM 607/2019, pois o perfil era compatível e as operações foram autorizadas. | ../../../../../julgados/cvm/colegiado/2020/col-20201110-d1967.md |
-| decisao-colegiado | 19957.005801/2020-42 | 2020-10-13 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa pleiteada, acompanhando a SRE: dispensa do art. 55 da ICVM 400/03 para alocação prioritária de até 5% das cotas de FIP ao gestor e vinculados, mesmo com excesso de demanda superior a 1/3, para atender limites de EFPC e RPPS. | ../../../../../julgados/cvm/colegiado/2020/col-20201013-d1951.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | informacao-privilegiada | RECURSO VOLUNTÁRIO. Insider Trading Secundário. Infração configurada. Operações com valores mobiliários da empresa onde o acusado atuava. Concentração de parte substancial do patrimônio em opções de compra em datas próximas a divulgação informações relevantes. Recurso conhecido, mas não provido. | ../../../../../julgados/crsfn/2020/10372-100130-2018-12.md |
-| decisao-colegiado | 19957.002796/2020-16 | 2020-07-21 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002796/2020-16. | ../../../../../julgados/cvm/colegiado/2020/col-20200721-d1855.md |
-| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | ofertas-publicas | O Colegiado, por unanimidade, concedeu à Riva 9 dispensa de apresentação de boletim de subscrição (art. 85, §2º, da Lei 6.404/76, na redação da Lei 13.874/19), acompanhando a SRE. Aprovou a Deliberação CVM 860/2020, que delega à SRE a dispensa do modelo de boletim (ICVM 400/03, Anexo II, item 4), observadas condições. | ../../../../../julgados/cvm/colegiado/2020/col-20200721-d1839.md |
-| decisao-colegiado | 19957.001749/2020-55 | 2020-05-26 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001749/2020-55. | ../../../../../julgados/cvm/colegiado/2020/col-20200526-d1814.md |
-| decisao-colegiado | 19957.004377/2017-13 | 2020-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004377/2017-13. | ../../../../../julgados/cvm/colegiado/2020/col-20200204-d1140.md |
-| decisao-colegiado | 400/2003; 19957.009498/2019-13 | 2019-12-10 | deferido | ofertas-publicas | O Colegiado concedeu dispensa do art. 55 da Instrução CVM 400 para alocar até 3% da oferta de cotas do Perfin Apollo Energia FIP a gestor e vinculados, com excesso de demanda superior a 1/3, acompanhando a SRE, para atender ao art. 23, §2º, da Resolução CMN 4.661. | ../../../../../julgados/cvm/colegiado/2019/col-20191210-d1638.md |
-| decisao-colegiado | 19957.010097/2019-14 | 2019-11-19 | deferido | fundos-investimento | Por maioria, o Colegiado deferiu pedido da gestora Journey Capital Administração de Recursos de dispensa dos arts. 27, 37, III, 102 e 103 da Instrução CVM 555/14 para o fundo Journey Capital Frontier RDVT FI IE RF LP, destinado a atuais debenturistas da RDVT11 e a investidores profissionais, com base nas particularidades do caso concreto e acompanhando a área técnica. | ../../../../../julgados/cvm/colegiado/2019/col-20191119-d1615.md |
-| decisao-colegiado | 19957.005798/2018-42 | 2019-09-03 | conhecimento | processual | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.005798/2018-42. | ../../../../../julgados/cvm/colegiado/2019/col-20190903-d1406.md |
-| decisao-colegiado | 19957.005955/2016-58 | 2019-06-18 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005955/2016-58. | ../../../../../julgados/cvm/colegiado/2019/col-20190618-d1438.md |
-| decisao-colegiado | SP2016/0019 | 2019-02-26 | outro | intermediacao | O Colegiado, acompanhando o voto do Presidente, devolveu à SMI recurso de investidora contra o arquivamento de reclamação sobre operações questionadas em conta na XP e determinou nova análise de três pontos: gestão discricionária pela Ideal Trade, atuação de agente não registrado e responsabilidade da XP. | ../../../../../julgados/cvm/colegiado/2019/col-20190226-d1239.md |
-| decisao-colegiado | 19957.004976/2017-37 | 2018-06-19 | conhecimento | intermediacao | Pedido de reconsideração de decisão do colegiado. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180619-d0993.md |
-| decisao-colegiado | 19957.001939/2018-58 | 2018-05-22 | deferido | securitizacao | O Colegiado deferiu, por unanimidade, dispensa do requisito de devedor empresarial com demonstrações auditadas nos moldes da LSA (Instrução CVM 414, art. 5º, § 1º, III; Instrução CVM 400, Anexo III-A, item 5.3) na oferta de CRI da Ápice Securitizadora, com o Hospital Albert Einstein como devedor. Nos termos do Memorando 36/2018 da SRE, favorável, com condições de divulgação. | ../../../../../julgados/cvm/colegiado/2018/col-20180522-d1043.md |
-| decisao-colegiado | 19957.000479/2018-41 | 2018-04-03 | deferido | administracao-carteiras | O Colegiado, acompanhando a área técnica, concedeu ao Fundo Garantidor de Créditos a dispensa de registro como administrador de carteira para gerir recursos próprios por meio de fundos, ainda que com outros cotistas. Fundamento: gestão apenas de recursos próprios, com mandato e regulação específica do CMN. Um diretor apresentou ressalva, discordando parcialmente da Deliberação CVM 764/17. | ../../../../../julgados/cvm/colegiado/2018/col-20180403-d0997.md |
-| decisao-colegiado | 19957.006751/2017-15 | 2017-11-21 | parcial | securitizacao | O Colegiado, por maioria, indeferiu recurso da Vert contra exigências da SRE ao registro de oferta de CRA com lastro em notas promissórias de distribuidores, por descumprir o art. 23, § 1º, da Lei 11.076/2004. Divergindo da SRE, a maioria admitiu a oferta sem submeter contratos à CVM nem identificar todos os produtores, desde que os documentos fossem custodiados. | ../../../../../julgados/cvm/colegiado/2017/col-20171121-d0845.md |
-| decisao-colegiado | 19957.000333/2017-14 | 2017-10-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000333/2017-14. | ../../../../../julgados/cvm/colegiado/2017/col-20171024-d0829.md |
-| decisao-colegiado | 19957.000332/2017-70 | 2017-10-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000332/2017-70. | ../../../../../julgados/cvm/colegiado/2017/col-20171024-d0828.md |
-| decisao-colegiado | 19957.000331/2017-25 | 2017-10-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000331/2017-25. | ../../../../../julgados/cvm/colegiado/2017/col-20171024-d0827.md |
-| pas | RJ2014/12921 | 2017-02-10 | parcial | manipulacao-fraude | Exercício da atividade de administração profissional de carteira de valores mobiliários sem a prévia autorização da CVM – Prática de churning, operação definida como fraudulenta, no mercado de valores mobiliários. Absolvições e proibição temporária. | ../../../../../julgados/cvm/pas/2017/rj2014-12921.md |
-| pas | SP2014/0383 | 2016-08-02 | condenacao | intermediacao | Não exercício das atividades da Corretora com boa-fé, diligência e lealdade para com o cliente e falta de informações sobre o produto oferecido e os seus riscos. Multa. | ../../../../../julgados/cvm/pas/2016/sp2014-0383.md |
-| decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20160504-d5347.md |
-| pas | SP2012/480 | 2015-10-06 | condenacao | exercicio-irregular | Administração irregular de carteira de valores mobiliários - prática de administrador de carteira de valores mobiliários sem a prévia autorização da CVM - operação fraudulenta e concurso para a prática de operações fraudulentas. Suspensão e multas. | ../../../../../julgados/cvm/pas/2015/sp2012-0480.md |
-| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | normativo | O Colegiado aprovou a edição de instrução que ajusta para 1º de outubro de 2015 a entrada em vigor das Instruções CVM 554 e 555 e fixa em 30 de junho de 2016 o prazo de adaptação dos fundos em funcionamento, sem prorrogação. Acompanhou a SDM, que se manifestou favoravelmente ao pedido da ANBIMA. | ../../../../../julgados/cvm/colegiado/2015/col-20150609-d5474.md |
-| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-09 | outro | normativo | O Colegiado aprovou a edição de instrução que introduz os conceitos de investidor qualificado (investimentos financeiros superiores a R$1 milhão) e profissional (superiores a R$10 milhões), previstos na ICVM 539/2013, e elimina regras de investimento ou valor unitário mínimo nos valores mobiliários regulamentados pela CVM. O piso do investidor profissional foi decidido por maioria, com voto vencido. | ../../../../../julgados/cvm/colegiado/2014/col-20141209-d01-r2.md |
-| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-03 | — | normativo | O Colegiado iniciou a discussão de minuta de Instrução, elaborada após a Audiência Pública SDM 03/2014, que disciplina o conceito de investidor qualificado e cria o investidor profissional, alterando a Instrução CVM 539/2013, sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2014/col-20141203-d02.md |
-| decisao-colegiado | 539/2013; RJ2011/1898 | 2014-12-03 | deferido | intermediacao | O Colegiado deferiu o pedido da ANBIMA de prorrogação da entrada em vigor da Instrução CVM 539/2013 (suitability), que passará a valer simultaneamente às regras do Edital da Audiência Pública SDM 03/2014, equalizando os prazos de adaptação. | ../../../../../julgados/cvm/colegiado/2014/col-20141203-d01.md |
-| decisao-colegiado | 03/2014; 04/2014; 409/2004; RJ2013/11753; RJ2012/13688 | 2014-06-24 | deferido | normativo | O Colegiado deferiu pedido da ANBIMA e prorrogou até 10.07.2014 o prazo para comentários às Audiências Públicas SDM 03/2014 (novo conceito de investidor qualificado, alterando a ICVM 539/2013) e SDM 04/2014 (nova norma de fundos de investimento, em substituição à ICVM 409/2004). | ../../../../../julgados/cvm/colegiado/2014/col-20140624-d03.md |
-| decisao-colegiado | RJ2014/1503 | 2014-06-03 | nao-provido | ofertas-publicas | O Colegiado manteve decisão de 30.04.2014 que condicionou a dispensa de registro de oferta a investidores qualificados com patrimônio de R$ 1,5 milhão ou investimento de R$ 1 milhão. Esclareceu que os valores serão atualizados conforme a Audiência Pública SDM 03/14, se a oferta ainda estiver em distribuição. | ../../../../../julgados/cvm/colegiado/2014/col-20140603-d01.md |
-| decisao-colegiado | RJ2013/11753 | 2014-03-26 | outro | normativo | O Colegiado aprovou, para audiência pública de 60 dias, minuta de Instrução que disciplina o novo conceito de investidor qualificado e profissional, alterando a Instrução CVM 539/2013 (suitability). O conceito sairia da Instrução CVM 409/2004. A SDM consolidará as contribuições. | ../../../../../julgados/cvm/colegiado/2014/col-20140326-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| acordao-crsfn | 19957.011368/2017-89; RJ2018/00251 | 2024-03-12 | condenacao | crsfn-10372-100089-2022-52 | fichas/crsfn/2024-01.md |
+| pas | 19957.006657/2020-61 | 2024-02-27 | absolvicao | cvm-pas-19957-006657-2020-61 | fichas/pas/2024-01.md |
+| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | cvm-col-20220614-d2615 | fichas/colegiado/2022-10.md |
+| pas | 19957.011368/2017-89 | 2022-04-12 | condenacao | cvm-pas-19957-011368-2017-89 | fichas/pas/2022-02.md |
+| decisao-colegiado | 19957.007863/2021-70 | 2022-03-29 | indeferido | cvm-col-20220329-d2544 | fichas/colegiado/2022-05.md |
+| decisao-colegiado | 19957.003330/2020-38 | 2021-07-27 | conhecimento | cvm-col-20210727-d2248 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.008007/2020-51 | 2021-04-27 | nao-provido | cvm-col-20210427-d2148 | fichas/colegiado/2021-07.md |
+| termo-compromisso | 19957.005057/2019-42 | 2021-04-27 | outro | cvm-col-20210427-d1929 | fichas/tc/2021-03.md |
+| decisao-colegiado | 19957.000246/2021-43 | 2021-04-01 | deferido | cvm-col-20210401-d2119 | fichas/colegiado/2021-06.md |
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 19957.000609/2020-60 | 2020-11-10 | conhecimento | cvm-col-20201110-d1967 | fichas/colegiado/2020-19.md |
+| decisao-colegiado | 19957.005801/2020-42 | 2020-10-13 | deferido | cvm-col-20201013-d1951 | fichas/colegiado/2020-17.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| acordao-crsfn | SP2013/94 | 2020-07-22 | condenacao | crsfn-10372-100130-2018-12 | fichas/crsfn/2020-03.md |
+| decisao-colegiado | 19957.002796/2020-16 | 2020-07-21 | nao-provido | cvm-col-20200721-d1855 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | cvm-col-20200721-d1839 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | 19957.001749/2020-55 | 2020-05-26 | nao-provido | cvm-col-20200526-d1814 | fichas/colegiado/2020-08.md |
+| decisao-colegiado | 19957.004377/2017-13 | 2020-02-04 | parcial | cvm-col-20200204-d1140 | fichas/colegiado/2020-02.md |
+| decisao-colegiado | 400/2003; 19957.009498/2019-13 | 2019-12-10 | deferido | cvm-col-20191210-d1638 | fichas/colegiado/2019-20.md |
+| decisao-colegiado | 19957.010097/2019-14 | 2019-11-19 | deferido | cvm-col-20191119-d1615 | fichas/colegiado/2019-19.md |
+| decisao-colegiado | 19957.005798/2018-42 | 2019-09-03 | conhecimento | cvm-col-20190903-d1406 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 19957.005955/2016-58 | 2019-06-18 | nao-provido | cvm-col-20190618-d1438 | fichas/colegiado/2019-10.md |
+| decisao-colegiado | SP2016/0019 | 2019-02-26 | outro | cvm-col-20190226-d1239 | fichas/colegiado/2019-03.md |
+| decisao-colegiado | 19957.004976/2017-37 | 2018-06-19 | conhecimento | cvm-col-20180619-d0993 | fichas/colegiado/2018-10.md |
+| decisao-colegiado | 19957.001939/2018-58 | 2018-05-22 | deferido | cvm-col-20180522-d1043 | fichas/colegiado/2018-09.md |
+| decisao-colegiado | 19957.000479/2018-41 | 2018-04-03 | deferido | cvm-col-20180403-d0997 | fichas/colegiado/2018-07.md |
+| decisao-colegiado | 19957.006751/2017-15 | 2017-11-21 | parcial | cvm-col-20171121-d0845 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | 19957.000333/2017-14 | 2017-10-24 | nao-provido | cvm-col-20171024-d0829 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 19957.000332/2017-70 | 2017-10-24 | nao-provido | cvm-col-20171024-d0828 | fichas/colegiado/2017-18.md |
+| decisao-colegiado | 19957.000331/2017-25 | 2017-10-24 | nao-provido | cvm-col-20171024-d0827 | fichas/colegiado/2017-18.md |
+| pas | RJ2014/12921 | 2017-02-10 | parcial | cvm-pas-rj2014-12921 | fichas/pas/2017-01.md |
+| pas | SP2014/0383 | 2016-08-02 | condenacao | cvm-pas-sp2014-0383 | fichas/pas/2016-03.md |
+| decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
+| pas | SP2012/480 | 2015-10-06 | condenacao | cvm-pas-sp2012-0480 | fichas/pas/2015-06.md |
+| decisao-colegiado | 555/2014; RJ2012/13688 | 2015-06-09 | outro | cvm-col-20150609-d5474 | fichas/colegiado/2015-09.md |
+| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-09 | outro | cvm-col-20141209-d01-r2 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 03/2014; RJ2013/11753 | 2014-12-03 | — | cvm-col-20141203-d02 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 539/2013; RJ2011/1898 | 2014-12-03 | deferido | cvm-col-20141203-d01 | fichas/colegiado/2014-25.md |
+| decisao-colegiado | 03/2014; 04/2014; 409/2004; RJ2013/11753; RJ2012/13688 | 2014-06-24 | deferido | cvm-col-20140624-d03 | fichas/colegiado/2014-12.md |
+| decisao-colegiado | RJ2014/1503 | 2014-06-03 | nao-provido | cvm-col-20140603-d01 | fichas/colegiado/2014-10.md |
+| decisao-colegiado | RJ2013/11753 | 2014-03-26 | outro | cvm-col-20140326-d01 | fichas/colegiado/2014-05.md |
 
 Fim do subíndice.

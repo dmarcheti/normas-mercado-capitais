@@ -3,16 +3,16 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0012.md](../../normas/cvm/resolucoes/0012.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.011231/2025-34 | 2026-10-02 | — | divulgacao-informacoes | PAS, rito simplificado, contra diretores de companhia aberta por não elaborar as demonstrações financeiras de 2024 e os ITR de 1º e 2º trimestres de 2025 (art. 176 da Lei 6.404/1976; art. 31 da RCVM 80/2022). Voto da relatora propõe multa individual de R$ 170.000,00 a cada acusado. Sem deliberação do Colegiado. | ../../../../../julgados/cvm/pas/2026/19957-011231-2025-34.md |
-| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | divulgacao-informacoes | Apurar eventual responsabilidade de administradores da Curtume Jangadas S.A. por deixarem, nos exercícios sociais de 2020 e 2021, de (i) elaborar e apresentar as demonstrações financeiras; (ii) diligenciar para realização de assembleias gerais ordinárias; e (iii) enviar informações cadastrais atualizadas. Multas. | ../../../../../julgados/cvm/pas/2023/19957-012414-2022-24.md |
-| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM 11/2020 (clubes de investimento, em substituição à ICVM 494/2011) e a Resolução CVM 12/2020 (demonstrações financeiras dos clubes, em substituição à ICVM 495/2011), no âmbito da consolidação do Decreto 10.139/2019. Sem audiência pública e sem AIR, por não alterarem obrigações de mérito. | ../../../../../julgados/cvm/colegiado/2020/col-20201117-d1975.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.011231/2025-34 | 2026-10-02 | — | cvm-pas-19957-011231-2025-34 | fichas/pas/2026-03.md |
+| pas | 19957.012414/2022-24 | 2023-07-11 | condenacao | cvm-pas-19957-012414-2022-24 | fichas/pas/2023-04.md |
+| decisao-colegiado | 19957.007347/2020-64 | 2020-11-17 | outro | cvm-col-20201117-d1975 | fichas/colegiado/2020-19.md |
 
 Fim do subíndice.

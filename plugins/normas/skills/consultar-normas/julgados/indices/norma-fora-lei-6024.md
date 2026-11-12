@@ -3,244 +3,244 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
-| art. 6º, alínea c | decisao-colegiado | RJ2014/14579 | 2015-01-27 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/14579. | ../../../../../julgados/cvm/colegiado/2015/col-20150127-d9549.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
+| art. 6º, alínea c | decisao-colegiado | RJ2014/14579 | 2015-01-27 | nao-provido | cvm-col-20150127-d9549 | fichas/colegiado/2015-02.md |
 
 ## art. 9º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º | pas | 08/1998 | 2001-12-05 | parcial | deveres-administradores | ANGELO CALMON DE SÁ E OUTROS (ECONÔMICO S/A EMPREENDIMENTOS) Escrituração contábil em desacordo com o art. 176 da Lei nº 6.404/76. Ato de liberalidade, em afronta ao parágrafo 2º do art. 154 da mencionada lei. Infração do auditor aos arts. 25, incisos III e IV da Instrução CVM nº 216/94, eis que desatendeu a diversas normas brasileiras de contabilidade. | ../../../../../julgados/cvm/pas/2001/08-1998.md |
-| art. 9º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º | pas | 08/1998 | 2001-12-05 | parcial | cvm-pas-08-1998 | fichas/pas/2001-04.md |
+| art. 9º | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento a recurso de acionistas do Banco Cruzeiro do Sul contra decisão da SEP que não exigiu a divulgação de relatórios do liquidante ao BACEN. Fundamento: o BACEN indicou que os relatórios são protegidos pelo sigilo da LC 105/2001, o que impede exigir sua divulgação. Solicitou à SDM avaliar a revogação da Instrução CVM 297/1998. | ../../../../../julgados/cvm/colegiado/2017/col-20170829-d0236.md |
-| art. 11 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | cvm-col-20170829-d0236 | fichas/colegiado/2017-15.md |
+| art. 11 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
-| art. 15, inciso I | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7076. | ../../../../../julgados/cvm/colegiado/2014/col-20141029-d01-r2.md |
-| art. 15, inciso I | decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7075. | ../../../../../julgados/cvm/colegiado/2015/col-20151013-d9276.md |
-| art. 15, inciso I, alínea a | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento sem o devido registro em bolsa de valores – Uso irregular de carimbos e assinaturas da autoridade reguladora com fins econômicos e visando a induzir investidores a erro - Caracterização das condutas irregulares - Apelo voluntário a que se nega provimento. | ../../../../../julgados/crsfn/2015/13157.md |
-| art. 15, inciso I, alínea a | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
-| art. 15, inciso I, alínea c | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
+| art. 15, inciso I | decisao-colegiado | RJ2014/7076 | 2014-10-29 | provido | cvm-col-20141029-d01-r2 | fichas/colegiado/2014-20.md |
+| art. 15, inciso I | decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | cvm-col-20151013-d9276 | fichas/colegiado/2015-19.md |
+| art. 15, inciso I, alínea a | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | crsfn-13157 | fichas/crsfn/2015-01.md |
+| art. 15, inciso I, alínea a | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
+| art. 15, inciso I, alínea c | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | decisao-colegiado | 531/2013; RJ2015/4835 | 2015-07-14 | deferido | fundos-investimento | O Colegiado deferiu pedido do administrador-liquidante da Cruzeiro do Sul DTVM para dispensar os fundos Spectrum e FIDC Bcsul Verax Multicred Financeiro do cumprimento do parágrafo único do art. 4º da ICVM 531/2013. Acompanhou a SIN, que viu caso específico (cotistas únicos, liquidação e encerramento previsto) e nenhum prejuízo ao interesse público. | ../../../../../julgados/cvm/colegiado/2015/col-20150714-d9760.md |
-| art. 16 | decisao-colegiado | 356/2001; 409/2004; RJ2013/9986 | 2015-07-14 | deferido | fundos-investimento | O Colegiado deferiu, sob condição, dispensa de normas das Instruções CVM 356/2001 e 409/2004 ao administrador-liquidante do fundo de direitos creditórios da Cruzeiro do Sul DTVM em liquidação, condicionada à convocação de nova assembleia de cotistas, sob pena de liquidação; acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2015/col-20150714-d9761.md |
-| art. 16 | decisao-colegiado | RJ2015/0489; RJ2015/0504 | 2015-11-24 | deferido | fundos-investimento | Recursos contra decisão da SIN em processos de multa cominatória convertidos em pedidos de dispensa. Proc. s. RJ2015/0489 e RJ2015/0504. | ../../../../../julgados/cvm/colegiado/2015/col-20151124-d9929.md |
-| art. 16 | decisao-colegiado | 19957.006179/2021-71 | 2023-05-02 | conhecimento | deveres-administradores | O Colegiado não conheceu do recurso da GBB contra decisão da SEP que não instaurou PAS sobre permuta de debêntures da Hauscenter, por ausência dos requisitos de admissibilidade do art. 4º, §4º, da RCVM 45/2021. Acompanhou o relator e a manifestação da área técnica, que consideraram a decisão recorrida adequadamente fundamentada. | ../../../../../julgados/cvm/colegiado/2023/col-20230502-d2699.md |
-| art. 16 | pas | RJ2016/4608 | 2016-04-26 | condenacao | fundos-investimento | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Descumprimento dos deveres de diligência e lealdade na gestão de fundo de investimento. Multa e Proibição Temporária. | ../../../../../julgados/cvm/pas/2016/rj2016-4608.md |
-| art. 16, § 1º | decisao-colegiado | 19957.003334/2016-30 | 2019-09-03 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003334/2016-30. | ../../../../../julgados/cvm/colegiado/2019/col-20190903-d1519.md |
-| art. 16, § 1º | decisao-colegiado | 19957.005736/2020-55 | 2020-09-08 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005736/2020-55. | ../../../../../julgados/cvm/colegiado/2020/col-20200908-d1903.md |
-| art. 16, § 1º | decisao-colegiado | 19957.008656/2020-51 | 2021-01-19 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.008656/2020-51. | ../../../../../julgados/cvm/colegiado/2021/col-20210119-d2032.md |
-| art. 16, § 1º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16 | decisao-colegiado | 531/2013; RJ2015/4835 | 2015-07-14 | deferido | cvm-col-20150714-d9760 | fichas/colegiado/2015-13.md |
+| art. 16 | decisao-colegiado | 356/2001; 409/2004; RJ2013/9986 | 2015-07-14 | deferido | cvm-col-20150714-d9761 | fichas/colegiado/2015-13.md |
+| art. 16 | decisao-colegiado | RJ2015/0489; RJ2015/0504 | 2015-11-24 | deferido | cvm-col-20151124-d9929 | fichas/colegiado/2015-22.md |
+| art. 16 | decisao-colegiado | 19957.006179/2021-71 | 2023-05-02 | conhecimento | cvm-col-20230502-d2699 | fichas/colegiado/2023-04.md |
+| art. 16 | pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-01.md |
+| art. 16, § 1º | decisao-colegiado | 19957.003334/2016-30 | 2019-09-03 | parcial | cvm-col-20190903-d1519 | fichas/colegiado/2019-14.md |
+| art. 16, § 1º | decisao-colegiado | 19957.005736/2020-55 | 2020-09-08 | provido | cvm-col-20200908-d1903 | fichas/colegiado/2020-14.md |
+| art. 16, § 1º | decisao-colegiado | 19957.008656/2020-51 | 2021-01-19 | provido | cvm-col-20210119-d2032 | fichas/colegiado/2021-01.md |
+| art. 16, § 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento sem o devido registro em bolsa de valores – Uso irregular de carimbos e assinaturas da autoridade reguladora com fins econômicos e visando a induzir investidores a erro - Caracterização das condutas irregulares - Apelo voluntário a que se nega provimento. | ../../../../../julgados/crsfn/2015/13157.md |
-| art. 18 | acordao-crsfn | 06/2009 | 2015-06-30 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Atuação irregular como agente autônomo de investimentos, com anuência de entidades distribuidoras – Irregularidade caracterizada – Apelos voluntários a que se nega provimento – Recurso de ofício desprovido - Arquivamento confirmado no tocante ao reexame necessário. | ../../../../../julgados/crsfn/2015/13358.md |
-| art. 18 | acordao-crsfn | RJ2011/12660 | 2017-10-24 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Descumprimento de Regulamento do Fundo e declaração em relatório trimestral que as taxas eram de mercado, quando não eram. Eventual operação fraudulenta. | ../../../../../julgados/crsfn/2017/13937.md |
-| art. 18 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou a proposta de termo de compromisso do Instituto Aerus de Seguridade Social, acusado de não comunicar alienações de ações da Varig S.A. (art. 12, §4º, da Instrução 358/02). Acompanhou o parecer do Comitê, que não viu compromisso pecuniário compatível com o mercado e considerou a negociação inviável pela intervenção da Secretaria de Previdência Complementar. | ../../../../../julgados/cvm/colegiado/2007/col-20070731-d07.md |
-| art. 18 | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SP2008/0191. | ../../../../../julgados/cvm/colegiado/2009/col-20090526-d09.md |
-| art. 18 | decisao-colegiado | RJ2008/7434 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/7434. | ../../../../../julgados/cvm/colegiado/2010/col-20100302-d20.md |
-| art. 18 | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6026. | ../../../../../julgados/cvm/colegiado/2010/col-20100309-d18.md |
-| art. 18 | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| art. 18 | pas | 04/2000 | 2005-02-17 | parcial | manipulacao-fraude | RMC SOCIEDADE CORRETORA E OUTROS S/A Realização de práticas não eqüitativas em operações realizadas no mercado de valores mobiliários, na forma do item II, letra “d”, e vedadas pelo item I, ambos da Instrução CVM nº 08/79. Multas e Absolvições. Não configurada a realização de operações fraudulentas e de criação de condições artificiais no mercado, conforme conceituadas, respectivamente, nas alíneas “c” e “a” do item II e vedadas pelo item I, ambos da Instrução CVM nº 08/79. Absolvições. Não configurada a infração ao artigo 153 da Lei n° 6.404/76 e ao art. 10, item II, da Instrução CVM nº 82/88. Absolvições. | ../../../../../julgados/cvm/pas/2005/04-2000.md |
-| art. 18 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | divulgacao-informacoes | Susposta divulgação intempestiva de fato relevante. Absolvição. | ../../../../../julgados/cvm/pas/2014/rj2013-9990.md |
-| art. 18, alínea a | decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2014/7075. | ../../../../../julgados/cvm/colegiado/2015/col-20151013-d9276.md |
-| art. 18, alínea b | decisao-colegiado | 19957.003182/2016-75 | 2017-01-24 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003182/2016-75. | ../../../../../julgados/cvm/colegiado/2017/col-20170124-d0552.md |
-| art. 18, alínea d | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SP2008/0191. | ../../../../../julgados/cvm/colegiado/2009/col-20090526-d09.md |
-| art. 18, alínea d | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6026. | ../../../../../julgados/cvm/colegiado/2010/col-20100309-d18.md |
-| art. 18, alínea d | decisao-colegiado | RJ2010/2739 | 2010-09-09 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. RJ2010/2739. | ../../../../../julgados/cvm/colegiado/2010/col-20100909-d12.md |
-| art. 18, alínea d | decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002577/2020-37. | ../../../../../julgados/cvm/colegiado/2020/col-20200505-d1798.md |
-| art. 18, alínea f | acordao-crsfn | 17/92 | 1998-08-26 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Mercado de Valores Mobiliários - Emissão de ações - Cartas de contragarantia - Pagamento de repasse de comissões e colocação em datas anteriores à da assinatura dos correspondentes contratos - Não cumprimento de garantia formalmente prestada - Subscrição sem a devida liquidação financeira - Concessão de empréstimo pela sociedade emissora a seu acionista controlador para fins de subscrição de ações da própria mutuante - Irregularidades caracterizadas - Recursos voluntários improvidos e acolhimento parcial do Recurso de ofício. | ../../../../../julgados/crsfn/1998/1998.md |
-| art. 18, alínea f | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações - Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2010/11743.md |
-| art. 18, alínea f | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento sem o devido registro em bolsa de valores – Uso irregular de carimbos e assinaturas da autoridade reguladora com fins econômicos e visando a induzir investidores a erro - Caracterização das condutas irregulares - Apelo voluntário a que se nega provimento. | ../../../../../julgados/crsfn/2015/13157.md |
-| art. 18, alínea f | acordao-crsfn | RJ2010/1088 | 2016-03-29 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Práticas irregulares em administração e gestão de fundos de investimento – Desenquadramento da carteira de investimento de Fundo de Investimento - Descumprimento de normas relativas a competência de administrador de fundo de investimento - Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários parcialmente providos. | ../../../../../julgados/crsfn/2016/10372-100186-2018-69.md |
-| art. 18, alínea f | acordao-crsfn | CVM178/2010 | 2017-05-24 | condenacao | manipulacao-fraude | Recursos Voluntários. Mercado de valores mobiliários - Uso de prática não equitativa - Falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes - Recursos desprovidos - Penalidades mantidas. | ../../../../../julgados/crsfn/2017/14048.md |
-| art. 18, alínea f | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SP2008/0191. | ../../../../../julgados/cvm/colegiado/2009/col-20090526-d09.md |
-| art. 18, alínea f | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6026. | ../../../../../julgados/cvm/colegiado/2010/col-20100309-d18.md |
-| art. 18, alínea f | decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.002577/2020-37. | ../../../../../julgados/cvm/colegiado/2020/col-20200505-d1798.md |
-| art. 18, alínea f | pas | 18/1999 | 2001-08-02 | condenacao | exercicio-irregular | BANCO GNPP S/A E OUTROS Exercício irregular por banco da atividade de administração de carteira de títulos e valores mobiliários. Infração ao art. 2º da Instrução CVM nº 82/88. Punição ao banco e seus ex-administradores responsáveis pela celebração do respectivo contrato. Prática de operações fraudulentas consistentes na simulação de realização de negociações com valores mobiliários de cliente e na falsificação de documentos relativos a subscrição de cotas de fundo de investimento imobiliário ainda não constituído. Infração ao item I da Instrução CVM nº 08/79, conforme definido pelo item II, alínea "c". Punição ao banco e seus ex-administradores em razão da obtenção de indevida vantagem decorrente da utilização de ardil e artifícios destinados a manter cliente em erro. Absolvição de defendente por não estar caracterizada a administração de fato, não tendo sido efetivamente comprovada a prática de atos típicos de gestão. | ../../../../../julgados/cvm/pas/2001/18-1999.md |
-| art. 18, alínea f | pas | 39/1998 | 2001-11-21 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS Operação fraudulenta no Mercado de Valores Mobiliários, por parte de [pessoa física] e [pessoa física] de [pessoa física], em prejuízo de cliente da Valor DTVM Ltda., no ano de 1995. | ../../../../../julgados/cvm/pas/2001/39-1998.md |
-| art. 18, alínea f | pas | 12/1996 | 2002-10-10 | — | intermediacao | MASSA FALIDA Prática de operação fraudulenta no mercado de valores mobiliários; descumprimento de dispositivos legais das Instruções CVM nº 33/84, 150/91, 51/86 e do Regulamento anexo à Resolução do Conselho Monetário Nacional nº 1655/89. | ../../../../../julgados/cvm/pas/2002/12-1996.md |
-| art. 18, alínea f | pas | RJ2007/1176 | 2007-10-23 | condenacao | divulgacao-informacoes | As pessoas mencionadas no caput do art. 12, § 4º (acionistas controladores, diretos ou indiretos, acionistas que elegerem membros do Conselho de Administração ou do Conselho Fiscal, bem como qualquer pessoa natural ou jurídica, ou grupo de pessoas, agindo em conjunto ou representando um mesmo interesse) deverão informar a alienação ou a extinção de ações e demais valores mobiliários mencionados neste artigo, ou de direitos sobre eles, a cada vez que a participação do titular na espécie ou classe dos valores mobiliários em questão atingir o percentual de 5% (cinco por cento) do total desta espécie, ou classe, e a cada vez que tal participação se reduzir em 5% (cinco por cento) do total da espécie ou classe. - Não divulgação das informações previstas no art. 12, §4º, da Instrução CVM nº 358/02. Advertência. | ../../../../../julgados/cvm/pas/2007/rj2007-1176.md |
-| art. 18, alínea f | pas | 06/2009 | 2011-03-22 | parcial | exercicio-irregular | QUANTIA DTVM Ltda Atividade irregular de mediação e corretagem de operações com valores mobiliários. Multas. | ../../../../../julgados/cvm/pas/2011/06-2009.md |
-| art. 18, alínea f | pas | RJ2016/4608 | 2016-04-26 | condenacao | fundos-investimento | Normal 0 21 false false false PT-BR X-NONE X-NONE MicrosoftInternetExplorer4 /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Tabela normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-qformat:yes; mso-style-parent:""; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"Times New Roman"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} Descumprimento dos deveres de diligência e lealdade na gestão de fundo de investimento. Multa e Proibição Temporária. | ../../../../../julgados/cvm/pas/2016/rj2016-4608.md |
-| art. 18, alínea f | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | ofertas-publicas | Irregularidades em oferta pública de debêntures, realizada nos termos da Instrução CVM nº 476/2009, em infração aos incisos V, IX e XVII do art. 12 da Instrução CVM nº 28/1983; aos incisos I e II do art. 11 e ao inciso VII do art. 1° do Anexo 15 da Instrução CVM nº 583/2016; ao artigo 10, aos incisos I e II do art. 11 e aos incisos I, III, VI do art. 17 da Instrução CVM nº 476/2009; e a realização de operação fraudulenta, no âmbito da oferta, em infração ao item I c/c o item II, letra “c”, da Instrução CVM nº 8/1979. Multas. | ../../../../../julgados/cvm/pas/2022/19957-007430-2019-08.md |
-| art. 18, alínea f | pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | intermediacao | Responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do disposto na Instrução CVM n° 505/2011, em infração ao art. 3°, inciso I; e (b) procedimentos e controles internos aptos a verificar a implementação, aplicação e eficácia dessas regras, em violação ao art. 3°, inciso II; e (ii) a falhas no registro e gravações de ordens de negociação, em infração aos arts. 12 e 14, caput, da mesma norma. Multas. | ../../../../../julgados/cvm/pas/2022/19957-009366-2017-20.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | crsfn-13157 | fichas/crsfn/2015-01.md |
+| art. 18 | acordao-crsfn | 06/2009 | 2015-06-30 | parcial | crsfn-13358 | fichas/crsfn/2015-02.md |
+| art. 18 | acordao-crsfn | RJ2011/12660 | 2017-10-24 | parcial | crsfn-13937 | fichas/crsfn/2017-07.md |
+| art. 18 | termo-compromisso | RJ2007/1176 | 2007-07-31 | rejeitado | cvm-col-20070731-d07 | fichas/tc/2007-04.md |
+| art. 18 | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | cvm-col-20090526-d09 | fichas/colegiado/2009-10.md |
+| art. 18 | decisao-colegiado | RJ2008/7434 | 2010-03-02 | nao-provido | cvm-col-20100302-d20 | fichas/colegiado/2010-07.md |
+| art. 18 | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | cvm-col-20100309-d18 | fichas/colegiado/2010-08.md |
+| art. 18 | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| art. 18 | pas | 04/2000 | 2005-02-17 | parcial | cvm-pas-04-2000 | fichas/pas/2005-01.md |
+| art. 18 | pas | RJ2013/9990 | 2014-02-25 | absolvicao | cvm-pas-rj2013-9990 | fichas/pas/2014-01.md |
+| art. 18, alínea a | decisao-colegiado | RJ2014/7075 | 2015-10-13 | provido | cvm-col-20151013-d9276 | fichas/colegiado/2015-19.md |
+| art. 18, alínea b | decisao-colegiado | 19957.003182/2016-75 | 2017-01-24 | nao-provido | cvm-col-20170124-d0552 | fichas/colegiado/2017-02.md |
+| art. 18, alínea d | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | cvm-col-20090526-d09 | fichas/colegiado/2009-10.md |
+| art. 18, alínea d | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | cvm-col-20100309-d18 | fichas/colegiado/2010-08.md |
+| art. 18, alínea d | decisao-colegiado | RJ2010/2739 | 2010-09-09 | nao-provido | cvm-col-20100909-d12 | fichas/colegiado/2010-19.md |
+| art. 18, alínea d | decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | cvm-col-20200505-d1798 | fichas/colegiado/2020-08.md |
+| art. 18, alínea f | acordao-crsfn | 17/92 | 1998-08-26 | parcial | crsfn-1998 | fichas/crsfn/1998-02.md |
+| art. 18, alínea f | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | crsfn-11743 | fichas/crsfn/2010-09.md |
+| art. 18, alínea f | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | crsfn-13157 | fichas/crsfn/2015-01.md |
+| art. 18, alínea f | acordao-crsfn | RJ2010/1088 | 2016-03-29 | parcial | crsfn-10372-100186-2018-69 | fichas/crsfn/2016-02.md |
+| art. 18, alínea f | acordao-crsfn | CVM178/2010 | 2017-05-24 | condenacao | crsfn-14048 | fichas/crsfn/2017-04.md |
+| art. 18, alínea f | decisao-colegiado | SP2008/0191 | 2009-05-26 | nao-provido | cvm-col-20090526-d09 | fichas/colegiado/2009-10.md |
+| art. 18, alínea f | decisao-colegiado | RJ2002/6026 | 2010-03-09 | nao-provido | cvm-col-20100309-d18 | fichas/colegiado/2010-08.md |
+| art. 18, alínea f | decisao-colegiado | 19957.002577/2020-37 | 2020-05-05 | nao-provido | cvm-col-20200505-d1798 | fichas/colegiado/2020-08.md |
+| art. 18, alínea f | pas | 18/1999 | 2001-08-02 | condenacao | cvm-pas-18-1999 | fichas/pas/2001-02.md |
+| art. 18, alínea f | pas | 39/1998 | 2001-11-21 | condenacao | cvm-pas-39-1998 | fichas/pas/2001-04.md |
+| art. 18, alínea f | pas | 12/1996 | 2002-10-10 | — | cvm-pas-12-1996 | fichas/pas/2002-03.md |
+| art. 18, alínea f | pas | RJ2007/1176 | 2007-10-23 | condenacao | cvm-pas-rj2007-1176 | fichas/pas/2007-07.md |
+| art. 18, alínea f | pas | 06/2009 | 2011-03-22 | parcial | cvm-pas-06-2009 | fichas/pas/2011-01.md |
+| art. 18, alínea f | pas | RJ2016/4608 | 2016-04-26 | condenacao | cvm-pas-rj2016-4608 | fichas/pas/2016-01.md |
+| art. 18, alínea f | pas | 19957.007430/2019-08 | 2022-12-22 | parcial | cvm-pas-19957-007430-2019-08 | fichas/pas/2022-07.md |
+| art. 18, alínea f | pas | 19957.009366/2017-20 | 2022-04-12 | condenacao | cvm-pas-19957-009366-2017-20 | fichas/pas/2022-02.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19 | pas | 12/1996 | 2002-10-10 | — | intermediacao | MASSA FALIDA Prática de operação fraudulenta no mercado de valores mobiliários; descumprimento de dispositivos legais das Instruções CVM nº 33/84, 150/91, 51/86 e do Regulamento anexo à Resolução do Conselho Monetário Nacional nº 1655/89. | ../../../../../julgados/cvm/pas/2002/12-1996.md |
-| art. 19, alínea a | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19 | pas | 12/1996 | 2002-10-10 | — | cvm-pas-12-1996 | fichas/pas/2002-03.md |
+| art. 19, alínea a | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 20
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20 | decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | divulgacao-informacoes | O Colegiado negou provimento a recurso de acionistas do Banco Cruzeiro do Sul contra decisão da SEP que não exigiu a divulgação de relatórios do liquidante ao BACEN. Fundamento: o BACEN indicou que os relatórios são protegidos pelo sigilo da LC 105/2001, o que impede exigir sua divulgação. Solicitou à SDM avaliar a revogação da Instrução CVM 297/1998. | ../../../../../julgados/cvm/colegiado/2017/col-20170829-d0236.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20 | decisao-colegiado | SP2015/0084 | 2017-08-29 | nao-provido | cvm-col-20170829-d0236 | fichas/colegiado/2017-15.md |
 
 ## art. 21
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21, alínea b | decisao-colegiado | RJ2006/3545 | 2006-05-09 | deferido | registro-emissor | O Colegiado deferiu pedido de cancelamento de registro de companhia aberta do Banco Crefisul S.A., com dispensa de OPA (art. 34 da Instrução CVM 361/02), formulado a pedido de síndico da massa falida por requerimento judicial. Acolheu a manifestação da área técnica (Memo/SRE/GER-1/Nº 94/06), por não haver dano aos minoritários nem como mensurá-lo. | ../../../../../julgados/cvm/colegiado/2006/col-20060509-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 21, alínea b | decisao-colegiado | RJ2006/3545 | 2006-05-09 | deferido | cvm-col-20060509-d03 | fichas/colegiado/2006-07.md |
 
 ## art. 31
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 31 | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Descumprimento da obrigatoriedade de informar à CVM sobre alienação de ações - Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2010/11743.md |
-| art. 31 | decisao-colegiado | RJ1999/2630 | 2009-11-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/2630. | ../../../../../julgados/cvm/colegiado/2009/col-20091117-d06.md |
-| art. 31 | decisao-colegiado | RJ1999/3130 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3130. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d09.md |
-| art. 31 | decisao-colegiado | RJ2001/12101 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2001/12101. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d12.md |
-| art. 31 | decisao-colegiado | RJ2002/3157 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3157. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d14.md |
-| art. 31 | decisao-colegiado | RJ1999/3131 | 2010-01-05 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3131. | ../../../../../julgados/cvm/colegiado/2010/col-20100105-d20.md |
-| art. 31 | decisao-colegiado | RJ2013/11788 | 2014-11-25 | outro | fundos-investimento | O Colegiado acompanhou a área técnica (Memo/CVM/SIN/Nº 85/2014) em pedido da Verax Serviços Financeiros para liquidar antecipadamente dois FIPs. Determinou reconvocação presencial da assembleia de cotistas em 15 dias; sem liquidação aprovada nem novo administrador, a liquidação ocorre em 30 dias (ICVM 391/2003, art. 13; ICVM 409/2004, art. 106). | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d21.md |
-| art. 31 | pas | RJ2007/1176 | 2007-10-23 | condenacao | divulgacao-informacoes | As pessoas mencionadas no caput do art. 12, § 4º (acionistas controladores, diretos ou indiretos, acionistas que elegerem membros do Conselho de Administração ou do Conselho Fiscal, bem como qualquer pessoa natural ou jurídica, ou grupo de pessoas, agindo em conjunto ou representando um mesmo interesse) deverão informar a alienação ou a extinção de ações e demais valores mobiliários mencionados neste artigo, ou de direitos sobre eles, a cada vez que a participação do titular na espécie ou classe dos valores mobiliários em questão atingir o percentual de 5% (cinco por cento) do total desta espécie, ou classe, e a cada vez que tal participação se reduzir em 5% (cinco por cento) do total da espécie ou classe. - Não divulgação das informações previstas no art. 12, §4º, da Instrução CVM nº 358/02. Advertência. | ../../../../../julgados/cvm/pas/2007/rj2007-1176.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 31 | acordao-crsfn | RJ-2007-1176 | 2010-12-13 | condenacao | crsfn-11743 | fichas/crsfn/2010-09.md |
+| art. 31 | decisao-colegiado | RJ1999/2630 | 2009-11-17 | nao-provido | cvm-col-20091117-d06 | fichas/colegiado/2009-19.md |
+| art. 31 | decisao-colegiado | RJ1999/3130 | 2009-12-01 | nao-provido | cvm-col-20091201-d09 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ2001/12101 | 2009-12-01 | nao-provido | cvm-col-20091201-d12 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ2002/3157 | 2009-12-01 | nao-provido | cvm-col-20091201-d14 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ1999/3131 | 2010-01-05 | nao-provido | cvm-col-20100105-d20 | fichas/colegiado/2010-01.md |
+| art. 31 | decisao-colegiado | RJ2013/11788 | 2014-11-25 | outro | cvm-col-20141125-d21 | fichas/colegiado/2014-23.md |
+| art. 31 | pas | RJ2007/1176 | 2007-10-23 | condenacao | cvm-pas-rj2007-1176 | fichas/pas/2007-07.md |
 
 ## art. 33
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 33 | acordao-crsfn | RJ99/1951 | 2002-05-28 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93, art. 16, § 3º) – Empresa em liquidação extrajudicial – Direito de acionistas – Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2002/3753.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 33 | acordao-crsfn | RJ99/1951 | 2002-05-28 | condenacao | crsfn-3753 | fichas/crsfn/2002-01.md |
 
 ## art. 34
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 34 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento sem o devido registro em bolsa de valores – Uso irregular de carimbos e assinaturas da autoridade reguladora com fins econômicos e visando a induzir investidores a erro - Caracterização das condutas irregulares - Apelo voluntário a que se nega provimento. | ../../../../../julgados/crsfn/2015/13157.md |
-| art. 34 | pas | 18/1999 | 2001-08-02 | condenacao | exercicio-irregular | BANCO GNPP S/A E OUTROS Exercício irregular por banco da atividade de administração de carteira de títulos e valores mobiliários. Infração ao art. 2º da Instrução CVM nº 82/88. Punição ao banco e seus ex-administradores responsáveis pela celebração do respectivo contrato. Prática de operações fraudulentas consistentes na simulação de realização de negociações com valores mobiliários de cliente e na falsificação de documentos relativos a subscrição de cotas de fundo de investimento imobiliário ainda não constituído. Infração ao item I da Instrução CVM nº 08/79, conforme definido pelo item II, alínea "c". Punição ao banco e seus ex-administradores em razão da obtenção de indevida vantagem decorrente da utilização de ardil e artifícios destinados a manter cliente em erro. Absolvição de defendente por não estar caracterizada a administração de fato, não tendo sido efetivamente comprovada a prática de atos típicos de gestão. | ../../../../../julgados/cvm/pas/2001/18-1999.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 34 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | crsfn-13157 | fichas/crsfn/2015-01.md |
+| art. 34 | pas | 18/1999 | 2001-08-02 | condenacao | cvm-pas-18-1999 | fichas/pas/2001-02.md |
 
 ## art. 36
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 36 | decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2006/col-20061031-d10.md |
-| art. 36 | decisao-colegiado | RJ2013/7556 | 2014-04-15 | nao-provido | administracao-carteiras | O Colegiado indeferiu recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteiras por falta do requisito de reputação ilibada (art. 4º, III, ICVM 306/99), diante de indisponibilidade de bens decorrente de intervenção do Banco BVA S.A. Com base na manifestação da SIN, a descaracterização não depende de trânsito em julgado. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d10.md |
-| art. 36, § 1º | pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | intermediacao | Atuação irregular de administradores de corretora de valores mobiliários e de agentes autônomos de investimento, incluindo o exercício irregular da atividade de intermediação de valores mobiliários. Infração aos arts 3º, 4º, §§4º, 7º, II, arts. 27, 28, 29, parágrafo único e art. 30, da Instrução CVM nº 505/11. Infração ao art. 7º, §5º, da Instrução CVM nº 306/99. Infração ao art. 17, II, III e IV, da Instrução CVM nº 497/11. Infração aos artigos 3º, II, 10 , 13, incisos VI e VIII da Instrução CVM nº 497/11. Infração ao art. 16, III da Lei nº 6.385/76 e art. 3º, caput e II, da Instrução CVM nº 497/11. Absolvições. Multas. Inabilitações. Proibições Temporárias. | ../../../../../julgados/cvm/pas/2019/19957-004737-2017-87.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 36 | decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | cvm-col-20061031-d10 | fichas/colegiado/2006-16.md |
+| art. 36 | decisao-colegiado | RJ2013/7556 | 2014-04-15 | nao-provido | cvm-col-20140415-d10 | fichas/colegiado/2014-07.md |
+| art. 36, § 1º | pas | 19957.004737/2017-87; RJ2018/269 | 2019-10-22 | parcial | cvm-pas-19957-004737-2017-87 | fichas/pas/2019-09.md |
 
 ## art. 37
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 37 | decisao-colegiado | RJ2013/11788 | 2014-11-25 | outro | fundos-investimento | O Colegiado acompanhou a área técnica (Memo/CVM/SIN/Nº 85/2014) em pedido da Verax Serviços Financeiros para liquidar antecipadamente dois FIPs. Determinou reconvocação presencial da assembleia de cotistas em 15 dias; sem liquidação aprovada nem novo administrador, a liquidação ocorre em 30 dias (ICVM 391/2003, art. 13; ICVM 409/2004, art. 106). | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d21.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 37 | decisao-colegiado | RJ2013/11788 | 2014-11-25 | outro | cvm-col-20141125-d21 | fichas/colegiado/2014-23.md |
 
 ## art. 39
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 39 | acordao-crsfn | 11/2002 | 2018-03-20 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Violações a deveres fiduciários. Imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Descumprimento do dever de diligência. Prática de atos de liberalidade na administração do Banestado. Desvio de poder na administração dos negócios da companhia. | ../../../../../julgados/crsfn/2018/13747.md |
-| art. 39 | pas | 11/2002 | 2013-02-26 | parcial | deveres-administradores | BANESTADO imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Absolvições – descumprimento do dever de diligência. Absolvições e multas – prática de atos de liberalidade na administração do Banestado. Absolvições e multas – operações irregulares – não observância das atribuições conferidas pela lei e pelo estatuto da companhia aos seus administradores – desvio de poder na administração dos negócios da companhia. Multas. | ../../../../../julgados/cvm/pas/2013/11-2002.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 39 | acordao-crsfn | 11/2002 | 2018-03-20 | parcial | crsfn-13747 | fichas/crsfn/2018-02.md |
+| art. 39 | pas | 11/2002 | 2013-02-26 | parcial | cvm-pas-11-2002 | fichas/pas/2013-01.md |
 
 ## art. 40
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 40 | acordao-crsfn | 11/2002 | 2018-03-20 | parcial | deveres-administradores | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Violações a deveres fiduciários. Imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Descumprimento do dever de diligência. Prática de atos de liberalidade na administração do Banestado. Desvio de poder na administração dos negócios da companhia. | ../../../../../julgados/crsfn/2018/13747.md |
-| art. 40 | pas | 11/2002 | 2013-02-26 | parcial | deveres-administradores | BANESTADO imputação de responsabilização dos membros dos conselhos fiscal e de administração do Banestado por suposta violação ao dever de fiscalizar, fixar e orientar os negócios da companhia. Absolvições – descumprimento do dever de diligência. Absolvições e multas – prática de atos de liberalidade na administração do Banestado. Absolvições e multas – operações irregulares – não observância das atribuições conferidas pela lei e pelo estatuto da companhia aos seus administradores – desvio de poder na administração dos negócios da companhia. Multas. | ../../../../../julgados/cvm/pas/2013/11-2002.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 40 | acordao-crsfn | 11/2002 | 2018-03-20 | parcial | crsfn-13747 | fichas/crsfn/2018-02.md |
+| art. 40 | pas | 11/2002 | 2013-02-26 | parcial | cvm-pas-11-2002 | fichas/pas/2013-01.md |
 
 ## art. 41
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 41 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Administração irregular de carteira - Funcionamento de clube de investimento sem o devido registro em bolsa de valores – Uso irregular de carimbos e assinaturas da autoridade reguladora com fins econômicos e visando a induzir investidores a erro - Caracterização das condutas irregulares - Apelo voluntário a que se nega provimento. | ../../../../../julgados/crsfn/2015/13157.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 41 | acordao-crsfn | RJ2008/12088 | 2015-01-27 | condenacao | crsfn-13157 | fichas/crsfn/2015-01.md |
 
 ## art. 50
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 50 | pas | 01/2005 | 2008-11-26 | parcial | fundos-investimento | Banco Santos S/A e outros Não utilização, no exercício das atividades de administração e gestão de carteiras de fundos de investimento, do cuidado e da diligência que todo homem ativo e probo costuma dispensar à administração de seus próprios negócios. Inabilitações e multas. Não cumprimento de normas de segregação na administração de recursos de terceiros e a existência de um visível conflito de interesse entre o administrador (Banco Santos) e a gestora (Santos Asset Management) dos fundos que foram objeto da investigação, tendo sido comprovada a falta de independência da equipe técnica da gestora em relação às operações de interesse do administrador, ficando claro que o chamado “chinese wall” não passava de mera formalidade, sem efeito prático. Multas. Não observação do limite máximo de aplicação de 10% (dez por cento) do patrimônio líquido do fundo Santos Credit Master FIF em cédulas de crédito bancário (CCBs) de emissão do “Grupo CAOA”. Multas. Não verificação da adequação da carteira do fundo Santos Cambial FIF ao seu respectivo referencial e dos fundos Santos Agro Brasilis DI FIF e Santos Maxi Money DI FIF aos níveis de composição de ativos. Multas. Colocação de debêntures de emissão da Procid Participações e Negócios S.A., Procid Invest Participações e Negócios S.A., Invest Santos Negócios, Administração e Participações S.A., Santospar Investimentos, Participações e Negócios S.A. e Sanvest Participações S.A., sem o prévio registro nesta CVM, as quais deveriam ser colocadas de forma privada, mas que comprovadamente foram negociadas nas dependências do Banco Santos, sociedade integrante do sistema de distribuição, com efetiva e intensiva participação de seus agentes e funcionários. Multas e absolvições. Embaraço à Fiscalização da CVM, tendo em vista o não atendimento de intimação para prestação de esclarecimentos. Multa. | ../../../../../julgados/cvm/pas/2008/01-2005.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 50 | pas | 01/2005 | 2008-11-26 | parcial | cvm-pas-01-2005 | fichas/pas/2008-05.md |
 
 ## art. 51
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 51 | decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2006/col-20061031-d10.md |
-| art. 51, parágrafo único | pas | RJ2001/4474 | 2005-03-30 | parcial | deveres-administradores | [pessoa física] E OUTROS Caracterização de exercício abusivo de poder, conforme tipificado nas alíneas a, c, f, do § 1º, do art. 117, da Lei nº 6.404/76. Inobservância do dever de diligência, disposto no artigo 153 da Lei nº 6.404/76. | ../../../../../julgados/cvm/pas/2005/rj2001-4474.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 51 | decisao-colegiado | RJ2006/0804 | 2006-10-31 | parcial | cvm-col-20061031-d10 | fichas/colegiado/2006-16.md |
+| art. 51, parágrafo único | pas | RJ2001/4474 | 2005-03-30 | parcial | cvm-pas-rj2001-4474 | fichas/pas/2005-03.md |
 
 ## art. 52
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 52 | decisao-colegiado | 19957.001864/2016-43 | 2017-07-18 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.001864/2016-43. | ../../../../../julgados/cvm/colegiado/2017/col-20170718-d0736.md |
-| art. 52 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 52 | decisao-colegiado | 19957.001864/2016-43 | 2017-07-18 | nao-provido | cvm-col-20170718-d0736 | fichas/colegiado/2017-13.md |
+| art. 52 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 153
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 153 | acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de prestação de informações à autoridade fiscalizadora da área – Impossibilidade de se atribuir, no particular, responsabilização ao presidente do conselho de administração – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2007/9249.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 153 | acordao-crsfn | 05/4215 | 2007-11-22 | absolvicao | crsfn-9249 | fichas/crsfn/2007-02.md |
 
 ## art. 348
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 348 | acordao-crsfn | 06/2009 | 2015-06-30 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Atuação irregular como agente autônomo de investimentos, com anuência de entidades distribuidoras – Irregularidade caracterizada – Apelos voluntários a que se nega provimento – Recurso de ofício desprovido - Arquivamento confirmado no tocante ao reexame necessário. | ../../../../../julgados/crsfn/2015/13358.md |
-| art. 348 | pas | 06/2009 | 2011-03-22 | parcial | exercicio-irregular | QUANTIA DTVM Ltda Atividade irregular de mediação e corretagem de operações com valores mobiliários. Multas. | ../../../../../julgados/cvm/pas/2011/06-2009.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 348 | acordao-crsfn | 06/2009 | 2015-06-30 | parcial | crsfn-13358 | fichas/crsfn/2015-02.md |
+| art. 348 | pas | 06/2009 | 2011-03-22 | parcial | cvm-pas-06-2009 | fichas/pas/2011-01.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | ../../../../../julgados/cvm/pas/2024/19957-006858-2019-25.md |
-| decisao-colegiado | 19957.007068/2022-62 | 2022-07-05 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade e acompanhando a área técnica, ao recurso da gestora contra decisão da SSE que indeferiu a suspensão ou o cancelamento de assembleia geral de cotistas de FII em liquidação. A área técnica entendeu não haver previsão normativa para suspender assembleia regularmente convocada (ICVM 472/2008). | ../../../../../julgados/cvm/colegiado/2022/col-20220705-d2643.md |
-| decisao-colegiado | 19957.009163/2019-03 | 2019-12-17 | conhecimento | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009163/2019-03. | ../../../../../julgados/cvm/colegiado/2019/col-20191217-d1641.md |
-| decisao-colegiado | 19957.009391/2019-75 | 2019-10-29 | nao-provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.009391/2019-75. | ../../../../../julgados/cvm/colegiado/2019/col-20191029-d1586.md |
-| decisao-colegiado | 19957.003148/2016-09 | 2019-06-04 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003148/2016-09. | ../../../../../julgados/cvm/colegiado/2019/col-20190604-d1411.md |
-| decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003490/2016-09. | ../../../../../julgados/cvm/colegiado/2019/col-20190409-d1371.md |
-| pas | RJ2015/9909 | 2017-09-05 | condenacao | manipulacao-fraude | Prática de operação fraudulenta no mercado de valores mobiliários. Multa. | ../../../../../julgados/cvm/pas/2017/rj2015-9909.md |
-| acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | divulgacao-informacoes | RECURSO DE OFÍCIO - Mercado de valores mobiliários – Falta de envio de informações periódicas e eventuais à entidade supervisora - Descumprimento do dever de manutenção de registro de companhia atualizado - Não convocação de assembleias gerais ordinárias – Caracterização da irregularidade de não elaboração de demonstrações financeiras - Recurso de ofício parcialmente provido. | ../../../../../julgados/crsfn/2014/13229.md |
-| decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso contra o cancelamento da autorização de administrador de carteira por falta de reputação ilibada (art. 4º, III, da ICVM 306/99), com base em decisão do Banco Central de indisponibilidade de bens. Entendeu que condenação administrativa recorrível macula a reputação. Com base no voto do relator. | ../../../../../julgados/cvm/colegiado/2014/col-20140107-d04.md |
-| pas | RJ2007/4685 | 2010-07-13 | parcial | registro-emissor | MESBLA TRUST RECEBÍVEIS DE CARTÕES DE CRÉDITO Não manutenção atualizada do registro de companhia aberta – não elaboração de demonstrações financeiras – não convocação e não realização de Assembléias Gerais Ordinárias. Advertências e absolvições. | ../../../../../julgados/cvm/pas/2010/rj2007-4685.md |
-| acordao-crsfn | 03/96 | 2007-08-30 | parcial | deveres-administradores | O CRSFN negou provimento aos recursos voluntário e de ofício e manteve a decisão da CVM que aplicou inabilitação temporária para cargo em companhia aberta a oito indiciados, administradores e controladores do Banco Econômico S.A., por prazos de 3 a 20 anos (Lei 6.385/76, art. 11, IV), e arquivou o processo em relação a quatro recorridos. | ../../../../../julgados/crsfn/2007/6039.md |
-| pas | 11/1996 | 2005-06-29 | absolvicao | deveres-administradores | [pessoa física] E OUTROS Não configuração da imputação de abuso do poder de controle (art. 117, §1º, a e f, da Lei nº 6.404/76) e de prática de atos de liberalidade (art. 154, § 2º, a, da Lei nº 6.404/76) por parte dos administradores e do controlador do Banco do Estado do Rio de Janeiro, em atos que teriam sido realizados no período de 1991 a 1994. | ../../../../../julgados/cvm/pas/2005/11-1996.md |
-| acordao-crsfn | Recurso 4222 | 2003-10-29 | condenacao | fundos-investimento | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários - Fundo de investimento imobiliário - Conflito de interesses entre condomínio e instituição administradora devido a relação de debito/crédito - Irregularidade de natureza grave caracterizada - Apelo voluntário improvido - Recurso de ofício a que se dá provimento. | ../../../../../julgados/crsfn/2003/4222.md |
-| acordao-crsfn | 39/98 | 2003-08-18 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários - Realização de operações em detrimento de cliente da sociedade - Irregularidade caracterizada - Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2003/4223.md |
-| acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO - Mercado de valores mobiliários – Falta de prestação, à autoridade supervisora, de informações obrigatórias previstas em normativo regulamentar (Instrução CVM 202/93, art. 16, § 3º) – Empresa submetida a liquidação extrajudicial (Lei 6.024/74) – Peculiaridades do caso – Acolhimento das razões de defesa – Recurso improvido. | ../../../../../julgados/crsfn/2002/3606.md |
-| decisao-colegiado | SP95/0053 | 2002-08-30 | provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP95/0053. | ../../../../../julgados/cvm/colegiado/2002/col-20020830-d01.md |
-| acordao-crsfn | RJ99/1944 | 2002-08-01 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202, art. 16, § 3º) – Empresa submetida a regime de liquidação extrajudicial (Lei 6.024/74) – Não coincidência da data-base com o período de exercício das funções pelo indiciado – Recurso improvido. | ../../../../../julgados/crsfn/2002/3797.md |
-| acordao-crsfn | RJ99/1942 | 2002-06-27 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202, art. 16, § 3º) – Empresa submetida a regime de liquidação extrajudicial (Lei 6.024/74) – Não coincidência da data-base com o período de exercício das funções pelo indiciado – Recurso improvido. | ../../../../../julgados/crsfn/2002/3802.md |
-| acordao-crsfn | RJ99/1948 | 2002-03-25 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de tempestiva remessa de informações trimestrais exigidas pela norma regulamentar (Instrução CVM 202/93) – Empresa em liquidação extrajudicial (Lei 6.024/74) – Acolhimento das razões de defesa – Recurso improvido. | ../../../../../julgados/crsfn/2002/3757.md |
-| acordao-crsfn | 06/97 | 2001-04-27 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Incorreto preenchimento de fichas cadastrais de clientes e de ordens, atendidas fora da seriação cronológica – Normas transpostas para instrução revogadora – Irregularidades caracterizadas – Apelos improvidos. | ../../../../../julgados/crsfn/2001/3000.md |
-| acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa de informações periódicas previstas em normativo regulamentar (Instrução CVM 202/93 – art. 16) – Irregularidade configurada – Acolhimento das razões de defesa – Apelo a que se dá provimento. | ../../../../../julgados/crsfn/2000/3175.md |
-| acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93) – Acolhimento das razões de defesa – Recurso improvido. | ../../../../../julgados/crsfn/2000/3171.md |
-| acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestiva remessa, à CVM, de informações exigidas em normativo regulamentar (Instrução CVM 202/93, art. 16) – Empresa à época submetida a liquidação extrajudicial – Irregularidade caracterizada – Não aceitação das razões de defesa – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2000/3130.md |
-| acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Falta de remessa, à CVM, das informações exigidas em normativo regulamentar ( Instrução CVM 202 – art. 16, §§ 2º e 3º ) – Instituição financeira submetida a liquidação extrajudicial – Intempestividade justificada – Recurso improvido. | ../../../../../julgados/crsfn/2000/3149.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
+| decisao-colegiado | 19957.007068/2022-62 | 2022-07-05 | nao-provido | cvm-col-20220705-d2643 | fichas/colegiado/2022-11.md |
+| decisao-colegiado | 19957.009163/2019-03 | 2019-12-17 | conhecimento | cvm-col-20191217-d1641 | fichas/colegiado/2019-21.md |
+| decisao-colegiado | 19957.009391/2019-75 | 2019-10-29 | nao-provido | cvm-col-20191029-d1586 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.003148/2016-09 | 2019-06-04 | nao-provido | cvm-col-20190604-d1411 | fichas/colegiado/2019-09.md |
+| decisao-colegiado | 19957.003490/2016-09 | 2019-04-09 | nao-provido | cvm-col-20190409-d1371 | fichas/colegiado/2019-06.md |
+| pas | RJ2015/9909 | 2017-09-05 | condenacao | cvm-pas-rj2015-9909 | fichas/pas/2017-03.md |
+| acordao-crsfn | RJ-2007-4685 | 2014-04-15 | parcial | crsfn-13229 | fichas/crsfn/2014-03.md |
+| decisao-colegiado | RJ2013/7179 | 2014-01-07 | nao-provido | cvm-col-20140107-d04 | fichas/colegiado/2014-01.md |
+| pas | RJ2007/4685 | 2010-07-13 | parcial | cvm-pas-rj2007-4685 | fichas/pas/2010-02.md |
+| acordao-crsfn | 03/96 | 2007-08-30 | parcial | crsfn-6039 | fichas/crsfn/2007-01.md |
+| pas | 11/1996 | 2005-06-29 | absolvicao | cvm-pas-11-1996 | fichas/pas/2005-05.md |
+| acordao-crsfn | Recurso 4222 | 2003-10-29 | condenacao | crsfn-4222 | fichas/crsfn/2003-03.md |
+| acordao-crsfn | 39/98 | 2003-08-18 | condenacao | crsfn-4223 | fichas/crsfn/2003-02.md |
+| acordao-crsfn | RJ99/5698 | 2002-11-26 | condenacao | crsfn-3606 | fichas/crsfn/2002-03.md |
+| decisao-colegiado | SP95/0053 | 2002-08-30 | provido | cvm-col-20020830-d01 | fichas/colegiado/2002-20.md |
+| acordao-crsfn | RJ99/1944 | 2002-08-01 | absolvicao | crsfn-3797 | fichas/crsfn/2002-02.md |
+| acordao-crsfn | RJ99/1942 | 2002-06-27 | absolvicao | crsfn-3802 | fichas/crsfn/2002-02.md |
+| acordao-crsfn | RJ99/1948 | 2002-03-25 | absolvicao | crsfn-3757 | fichas/crsfn/2002-01.md |
+| acordao-crsfn | 06/97 | 2001-04-27 | parcial | crsfn-3000 | fichas/crsfn/2001-01.md |
+| acordao-crsfn | 99/1886 | 2000-11-23 | arquivamento | crsfn-3175 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 99/1945 | 2000-11-07 | absolvicao | crsfn-3171 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | RJ99/1952 | 2000-11-07 | condenacao | crsfn-3130 | fichas/crsfn/2000-06.md |
+| acordao-crsfn | 99/1946 | 2000-09-29 | absolvicao | crsfn-3149 | fichas/crsfn/2000-05.md |
 
 Fim do subíndice.

@@ -3,28 +3,28 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [leis/lei-07913.md](../../normas/leis/lei-07913.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2003/13119; RJ2003/7260 | 2004-11-23 | parcial | assembleia-acionistas | O Colegiado acolheu em parte o recurso da Tele Sudeste Celular Participações S.A. contra decisão da SEP que deferiu acesso à lista de acionistas (art. 126, § 3º, Lei 6.404/76): dispensou a apresentação da lista e determinou comunicado sobre a desistência de assembleia para suprimir o art. 9º do estatuto. Vencidos dois diretores; a relatora votara pela entrega da lista. | ../../../../../julgados/cvm/colegiado/2004/col-20041123-d08.md |
-| art. 1º, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de Mato Grosso - CEMAT: - Atos de liberalidade por parte de administradores da companhia aberta e abuso de poder do acionista controlador; - Irregularidades com a negociação das debêntures da empresa no mercado secundário. | ../../../../../julgados/cvm/pas/2001/11-1997.md |
-| art. 1º, inciso I | pas | RJ2002/2937 | 2003-09-17 | condenacao | manipulacao-fraude | a) Realização de operação fraudulenta no mercado de valores mobiliários envolvendo entidade de previdência privada (Instrução CVM Nº 8/79); b) Não comunicação à CVM de negócio realizado no mercado de balcão (Instrução CVM Nº 42/84, artigo 3º); e c) Caracterização de embaraço à fiscalização (Instrução CVM Nº 18/81). | ../../../../../julgados/cvm/pas/2003/rj2002-2937.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | RJ2003/13119; RJ2003/7260 | 2004-11-23 | parcial | cvm-col-20041123-d08 | fichas/colegiado/2004-14.md |
+| art. 1º, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | cvm-pas-11-1997 | fichas/pas/2001-04.md |
+| art. 1º, inciso I | pas | RJ2002/2937 | 2003-09-17 | condenacao | cvm-pas-rj2002-2937 | fichas/pas/2003-03.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | manipulacao-fraude | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. VALORES MOBILIÁRIOS. CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA. REALIZAÇÃO DE OPERAÇÕES COM AÇÕES EM PERÍODO VEDADO. Irregularidades caracterizadas. Dosimetria das penas adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-012197-2023-53.md |
-| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | informacao-privilegiada | RECURSO(S) VOLUNTÁRIO(S) – Mercado de valores mobiliários – Realização de negócios com ações de emissão de companhia aberta, por membro do Conselho de Administração, em período vedado pelos normativos aplicáveis – Natureza preventiva do impedimento em benefício dos interesses dos investidores e do mercado - Irregularidades caracterizadas – Incompetência do CRSFN para reavaliar proposta de celebração de compromisso apresentada à entidade supervisora - Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2014/12947.md |
-| acordao-crsfn | SP-2007-0120 | 2014-02-18 | condenacao | exercicio-irregular | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Intermediação ou corretagem em bolsa sem prévia autorização da entidade supervisora – Irregularidade caracterizada - Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2014/12887.md |
-| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | ../../../../../julgados/cvm/colegiado/2004/col-20040921-d01.md |
-| decisao-colegiado | RJ2004/2395 | 2004-04-06 | indeferido | assembleia-acionistas | Pedido de conselheiro fiscal. Proc. RJ2004/2395. | ../../../../../julgados/cvm/colegiado/2004/col-20040406-d06.md |
-| pas | RJ2003/0435 | 2003-12-17 | parcial | divulgacao-informacoes | Contratos de Investimento Coletivo (CICs) da Suinvest Agropecuária S/A - Obrigatoriedade de manutenção do registro de companhia aberta atualizado. Infração ao inciso III do art. 11, incisos I e II do art. 12 da Instrução CVM nº 270/98 e incisos I e IV do art. 13 da Instrução CVM nº 296/98; Multas e Absolvição. - Destinação dos recursos captados em desacordo com o previsto nos CICs. Infração ao inciso III do art. 18 da Instrução CVM nº 296/98; Multas. - Desatualização de livros e registros contábeis e não contratação de auditoria independente para as demonstrações financeiras anuais e trimestrais. Infração ao art. 177 da Lei nº 6.404/76, inciso I do art. 11 e art. 14 da Instrução CVM nº 270/98, e art. 14 e § único da Instrução CVM nº 296/98. Multas. - Não comunicação à CVM do encerramento da distribuição. Infração ao inciso IV do art. 13 da Instrução CVM nº 296/98. Multas. - Falta para com o dever de diligência. Infração ao art. 153 da Lei nº 6.404/76. Multa. - Não comunicação da troca do principal administrador da companhia e de mudança de endereço. Infração ao art. 9º da Instrução CVM nº 270/98. Absolvição. - Utilização de expediente de ofertar publicamente valores mobiliários, a título de reaplicação de valores de resgate de CIC sem o competente registro da CVM. Infração ao art. 19 da Lei nº 6.385/76. Absolvição por ausência de documentação comprobatória nos autos. | ../../../../../julgados/cvm/pas/2003/rj2003-0435.md |
-| pas | 17/1998 | 2000-05-04 | condenacao | exercicio-irregular | [pessoa física], [pessoa física], SIGNUS CORRETORES ASSOCIADOS S/C LTDA, [pessoa física] Intermediação irregular no mercado de valores mobiliários. - Infração configurada. – Multa. | ../../../../../julgados/cvm/pas/2000/17-1998.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 19957.012197/2023-53 | 2025-09-16 | condenacao | crsfn-19957-012197-2023-53 | fichas/crsfn/2025-05.md |
+| acordao-crsfn | 13/06 | 2014-06-03 | condenacao | crsfn-12947 | fichas/crsfn/2014-03.md |
+| acordao-crsfn | SP-2007-0120 | 2014-02-18 | condenacao | crsfn-12887 | fichas/crsfn/2014-01.md |
+| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
+| decisao-colegiado | RJ2004/2395 | 2004-04-06 | indeferido | cvm-col-20040406-d06 | fichas/colegiado/2004-04.md |
+| pas | RJ2003/0435 | 2003-12-17 | parcial | cvm-pas-rj2003-0435 | fichas/pas/2003-05.md |
+| pas | 17/1998 | 2000-05-04 | condenacao | cvm-pas-17-1998 | fichas/pas/2000-01.md |
 
 Fim do subíndice.

@@ -3,14 +3,14 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cmn/resolucoes/3998.md](../../normas/cmn/resolucoes/3998.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | infraestrutura-mercado | O Colegiado, por maioria, concedeu à CIP S.A. (Nuclea) dispensas da RCVM 175/2022 (Anexo II, arts. 30, I, 42, §1º e 36, §4º) por um ano, para registrar direitos creditórios de FIDC mesmo como parte relacionada, condicionadas a salvaguardas, acompanhando a SSE. Uma diretora votou pelo indeferimento. | ../../../../../julgados/cvm/colegiado/2023/col-20230627-d2875.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.003053/2023-14 | 2023-06-27 | deferido | cvm-col-20230627-d2875 | fichas/colegiado/2023-07.md |
 
 Fim do subíndice.

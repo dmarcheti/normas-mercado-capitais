@@ -3,7 +3,7 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
@@ -42,253 +42,253 @@ Este subíndice tem 294 linhas e uma leitura única é cortada em silêncio pert
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2002/3748 | 2002-06-21 | deferido | ofertas-publicas | O Colegiado deferiu o registro da distribuição pública de certificado a termo de energia elétrica da CESP, embora a SRE não pudesse fazê-lo pelo art. 1º da Instrução CVM 13/80. Fundamentos: as informações faltantes não eram relevantes, e a emissão seria colocada em um único investidor qualificado ligado ao líder da distribuição. | ../../../../../julgados/cvm/colegiado/2002/col-20020621-d01.md |
-| art. 1º | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| art. 1º | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
-| art. 1º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | RJ2002/3748 | 2002-06-21 | deferido | cvm-col-20020621-d01 | fichas/colegiado/2002-14.md |
+| art. 1º | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| art. 1º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
+| art. 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | ../../../../../julgados/cvm/decisoes-antigas/1981.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-antiga | — | 1981-01-08 | — | cvm-dec-1981-0001 | fichas/decisoes-antigas/1981-04.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 5º, inciso II, alínea a | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 5º, inciso II, alínea a | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Distribuição, mediante veiculação em sítio na internet, de valores mobiliários do mercado de capitais sem prévio e necessário registro na autarquia supervisora (CVM) – Irregularidade caracterizada – Apelos a que se dá provimento parcial. | ../../../../../julgados/crsfn/2011/11431.md |
-| art. 6º | decisao-colegiado | SP2000/0240 | 2003-01-08 | outro | exercicio-irregular | O Colegiado arquivou processo de emissão e subscrição públicas de ações da Nikkey Vale Participações S.A. sem registro na CVM (art. 19 da Lei 6.385/76) e encaminhou ofício ao SEBRAE-SP sobre programas de captação do público. | ../../../../../julgados/cvm/colegiado/2003/col-20030108-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-03.md |
+| art. 6º | decisao-colegiado | SP2000/0240 | 2003-01-08 | outro | cvm-col-20030108-d09 | fichas/colegiado/2003-01.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Distribuição, mediante veiculação em sítio na internet, de valores mobiliários do mercado de capitais sem prévio e necessário registro na autarquia supervisora (CVM) – Irregularidade caracterizada – Apelos a que se dá provimento parcial. | ../../../../../julgados/crsfn/2011/11431.md |
-| art. 7º | decisao-colegiado | SP2000/0240 | 2003-01-08 | outro | exercicio-irregular | O Colegiado arquivou processo de emissão e subscrição públicas de ações da Nikkey Vale Participações S.A. sem registro na CVM (art. 19 da Lei 6.385/76) e encaminhou ofício ao SEBRAE-SP sobre programas de captação do público. | ../../../../../julgados/cvm/colegiado/2003/col-20030108-d09.md |
-| art. 7º | pas | RJ2005/1160 | 2006-12-12 | condenacao | ofertas-publicas | Distribuição irregular de valores mobiliários, sem prévio registro na CVM, conforme previsto no art. 19 da Lei nº 6.385/76. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-1160.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-03.md |
+| art. 7º | decisao-colegiado | SP2000/0240 | 2003-01-08 | outro | cvm-col-20030108-d09 | fichas/colegiado/2003-01.md |
+| art. 7º | pas | RJ2005/1160 | 2006-12-12 | condenacao | cvm-pas-rj2005-1160 | fichas/pas/2006-14.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Distribuição, mediante veiculação em sítio na internet, de valores mobiliários do mercado de capitais sem prévio e necessário registro na autarquia supervisora (CVM) – Irregularidade caracterizada – Apelos a que se dá provimento parcial. | ../../../../../julgados/crsfn/2011/11431.md |
-| art. 8º | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 8º | pas | RJ2002/3535 | 2003-11-12 | parcial | ofertas-publicas | [pessoa física], PREVIBANK CCVM LTDA. E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) distribuição de CICs (Contratos de Investimentos Coletivos) emitidos pela FAZENDAS REUNIDAS BOI GORDO S/A em condições diversas das previstas no registro CVM, configurando infração ao artigo 35, inciso I, da Instrução CVM nº 13/80, por parte da Previbank Corretora de Câmbio e Valores Mobiliários Ltda. e de seus administradores. Multas e Absolvições. - não disponibilização dos prospectos da emissão em todos os locais em que a oferta pública se consumou, configurando infração ao disposto no artigo 19, da Instrução 13/80. Multas e Absolvições. - movimentação de recursos provenientes dos pagamentos da reserva de subscrição antes do deferimento do pedido de registro, configurando infração ao artigo 28 da Instrução CVM 13/80. Multas e Absolvições. - ocorrência de intermediação irregular de valores mobiliários na forma do artigo 16 da Lei 6.385/76, em face da mobilização de pessoas não integrantes do sistema de distribuição de títulos e valores mobiliários, notadamente de seus representes comerciais, com o fito de colocar em ações junto ao mercado e também por assumirem funções típicas underwriter - Advertência e Multa. | ../../../../../julgados/cvm/pas/2003/rj2002-3535.md |
-| art. 8º | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | acordao-crsfn | RJ-2005-1160 | 2011-11-09 | parcial | crsfn-11431 | fichas/crsfn/2011-03.md |
+| art. 8º | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 8º | pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
+| art. 8º | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 10 | decisao-colegiado | RJ2007/7345 | 2007-10-09 | provido | registro-emissor | O Colegiado reformou sua decisão de 04/09/07, acompanhando o relator, e dispensou o estudo de viabilidade econômico-financeira no registro inicial de companhia aberta da Centennial Asset Participações Logística S.A., contra a manifestação da SEP. Em futuro pedido de distribuição pública, a exigência será avaliada à luz do art. 32 da Instrução 400/03. | ../../../../../julgados/cvm/colegiado/2007/col-20071009-d05.md |
-| art. 10 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 10, inciso V | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 10, inciso V | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
-| art. 10, inciso VIII | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 10 | decisao-colegiado | RJ2007/7345 | 2007-10-09 | provido | cvm-col-20071009-d05 | fichas/colegiado/2007-19.md |
+| art. 10 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 10, inciso V | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 10, inciso V | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
+| art. 10, inciso VIII | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
-| art. 11 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
-| art. 11, § 2º | decisao-colegiado | RJ2003/1877 | 2003-07-29 | deferido | ofertas-publicas | O Colegiado deferiu pedido da Cemat para prorrogação do prazo de cumprimento de exigências da SRE ao registro de distribuição da 2ª emissão de debêntures. Vencido o voto do diretor-relator, o Colegiado acompanhou o voto de outro diretor. | ../../../../../julgados/cvm/colegiado/2003/col-20030729-d01.md |
-| art. 11, § 2º | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| art. 11, § 2º | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
-| art. 11, § 2º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
+| art. 11 | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| art. 11, § 2º | decisao-colegiado | RJ2003/1877 | 2003-07-29 | deferido | cvm-col-20030729-d01 | fichas/colegiado/2003-09.md |
+| art. 11, § 2º | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| art. 11, § 2º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
+| art. 11, § 2º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13, alínea b | decisao-colegiado | RJ2002/6641 | 2002-10-21 | provido | ofertas-publicas | O Colegiado acompanhou a relatora e deu provimento ao recurso do BB Banco de Investimento contra decisão da SRE que indeferiu registro de distribuição pública de debêntures da Rio Grande Energia S.A. Determinou a suspensão do processo, por prazo indeterminado, até manifestação definitiva da ANEEL, cuja aprovação prévia estava pendente. | ../../../../../julgados/cvm/colegiado/2002/col-20021021-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13, alínea b | decisao-colegiado | RJ2002/6641 | 2002-10-21 | provido | cvm-col-20021021-d02 | fichas/colegiado/2002-24.md |
 
 ## art. 14
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14 | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de debêntures – Omissão incorrida pela companhia emissora no prospecto e demais documentos relativos ao lastro dos papéis objeto da emissão – Falta de diligência de parte da instituição líder e do agente fiduciário – Arquivamento do processo quanto à matéria objeto da subida compulsória. | ../../../../../julgados/crsfn/2008/8929.md |
-| art. 14 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
-| art. 14 | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 14 | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2013/11833.md |
-| art. 14 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1476.md |
-| art. 14 | pas | 05/2002 | 2004-08-05 | parcial | ofertas-publicas | Infração ao art. 14, caput e § 1º, da Instrução CVM n° 13/80. Multas. - Infração aos artigos 24 e 25 da Instrução CVM n° 216/94, ao item 11.3.7.1 da NBC-T-11, aprovada pela Resolução CFC n° 700/91 e à letra “c” do item 16 do Comunicado Técnico nº 02/90 do IBRACON, aprovado pela Resolução CFC n° 678, de 24.07.90, cujo teor foi mantido pela letra “c” do item 16 do Comunicado Técnico n° 06/96 do IBRACON Multas. - Infração ao art. 2º, § 1º, da Instrução CVM n° 31/84. Multa e Absolvição. - Infração ao art. 176, § 5º, alínea “i”, da Lei n.º 6.404/76 c/c o art. 1º, caput, da Instrução CVM n° 248/96. Multas e Absolvição. | ../../../../../julgados/cvm/pas/2004/05-2002.md |
-| art. 14 | pas | RJ2003/8172 | 2004-10-15 | parcial | outros | [pessoa física] E OUTROS (SUBESTAÇÃO ELETROMETRÔ S/A) Descumprimento do art. 14, caput, da Instrução CVM nº 13/80. Multa e Absolvição. Não caracterização de descumprimento ao disposto no art. 68, § 1º, e art. 153, ambos da Lei nº 6.404/76; incisos I a V da Instrução CVM nº 28/83 e § 1º do art. 14, da Instrução CVM nº 13/80. Absolvições. | ../../../../../julgados/cvm/pas/2004/rj2003-8172.md |
-| art. 14 | pas | RJ2005/0305 | 2006-10-24 | — | ofertas-publicas | CELPAR, OLIVEIRA TRUST DTVM LTDA., [pessoa física], [pessoa física], SLW CVC LTDA., [pessoa física], [pessoa física], [pessoa física] E OUTROS - Distribuição em condições diversas das constantes do registro, em violação ao art. 35, I, da Instrução CVM nº 13/80 e de emissão de debêntures sem que as garantias reais ali conferidas estivessem constituídas, em infração ao art. 62, III, da Lei nº 6.404/76. Multa - Não cumprimento de formalidades necessárias à efetiva transmissão dos imóveis à propriedade da Celpar, em violação ao § 2º, art. 8º, da Lei 6.404/76. Inabilitação. - Não cumprimento do dever de diligência, em infração ao art. 153, da Lei nº 6.404/76 e prestação de informações falsas nas demonstrações financeiras relativas aos exercícios de 1997 a 2000. Proibição. - Descumprimentos de suas responsabilidades como agente fiduciário, em infração aos incisos I, V, VI, VII, IX, XVII, XXIII e XXIV, do art. 12, da Instrução CVM nº 28/83. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-0305.md |
-| art. 14 | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
-| art. 14 | pas | 19/2003 | 2007-04-24 | parcial | deveres-administradores | Descumprimento do dever de cuidado e diligência, do dever de lealdade e desvio de poder, previstos nos arts. 142, incisos I e III, 153, 154, caput e 155, primeira parte do caput, todos da Lei 6.404/76. Inabilitações. - Divulgação, no prospecto de emissão das debêntures da Companhia, de informações insuficientes, em desacordo com o disposto no art. 14 da Instrução 13/80. Inabilitações e absolvição. - Descumprimento dos deveres previstos nos arts. 14, §1º, e 17, inciso IV, todos da Instrução 13/80. Multas e absolvição. - Falta de manutenção atualizada dos livros, registros e demonstrações financeiras da Companhia, em violação ao disposto nos arts. 100, 176 e 177 todos da Lei 6.404/76. Inabilitações. - Abuso do poder de controle em infração ao disposto na alínea “a”, § 1º, do art. 117 da Lei 6.404/76. Absolvição. - Infração aos termos dos arts. 68, §1º, alínea “a” e 70, ambos da Lei 6.404/76 e art. 12, incisos IX e X da Instrução 28/83. Absolvições. | ../../../../../julgados/cvm/pas/2007/19-2003.md |
-| art. 14 | pas | 12/2005 | 2012-09-04 | parcial | deveres-administradores | ENCOMIND AGROINDUSTRIAL S.A. Descumprimento do dever de diligência por parte dos administradores da Encomind-Multas. Não divulgação ao mercado de fato relevante– absolvições e multas. Não comunicação à CVM, de ocorrência de fato relevante–absolvições e multas. Realização de auditoria inepta e fraudulenta–absolvições e multas. Exercício abusivo de poder de controle–absolvições e multas. | ../../../../../julgados/cvm/pas/2012/12-2005.md |
-| art. 14, § 17 | pas | RJ2005/0305 | 2006-10-24 | — | ofertas-publicas | CELPAR, OLIVEIRA TRUST DTVM LTDA., [pessoa física], [pessoa física], SLW CVC LTDA., [pessoa física], [pessoa física], [pessoa física] E OUTROS - Distribuição em condições diversas das constantes do registro, em violação ao art. 35, I, da Instrução CVM nº 13/80 e de emissão de debêntures sem que as garantias reais ali conferidas estivessem constituídas, em infração ao art. 62, III, da Lei nº 6.404/76. Multa - Não cumprimento de formalidades necessárias à efetiva transmissão dos imóveis à propriedade da Celpar, em violação ao § 2º, art. 8º, da Lei 6.404/76. Inabilitação. - Não cumprimento do dever de diligência, em infração ao art. 153, da Lei nº 6.404/76 e prestação de informações falsas nas demonstrações financeiras relativas aos exercícios de 1997 a 2000. Proibição. - Descumprimentos de suas responsabilidades como agente fiduciário, em infração aos incisos I, V, VI, VII, IX, XVII, XXIII e XXIV, do art. 12, da Instrução CVM nº 28/83. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-0305.md |
-| art. 14, § 1º | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | ofertas-publicas | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Distribuição pública de debêntures – Omissão incorrida pela companhia emissora no prospecto e demais documentos relativos ao lastro dos papéis objeto da emissão – Falta de diligência de parte da instituição líder e do agente fiduciário – Arquivamento do processo quanto à matéria objeto da subida compulsória. | ../../../../../julgados/crsfn/2008/8929.md |
-| art. 14, § 1º | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
-| art. 14, § 1º | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 14, § 1º | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2013/11833.md |
-| art. 14, § 1º | acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | fundos-investimento | Recursos voluntários e de ofício. Fundos de Investimento em Direitos Creditórios – FIDC. Irregularidades na prestação de serviço de administração. Não manutenção da documentação relativa às operações de FIDC atualizada e em perfeita ordem. Aplicação incorreta dos procedimentos estabelecidos na Resolução CMN nº 2.682/99 para a classificação de risco dos direitos creditórios integrantes da carteira dos fundos. Não observância das disposições constantes do regulamento do fundo. Absolvição da acusação de não fiscalização dos serviços prestados pelo custodiante ao FIDC por falta de evidências. Provimento parcial aos recursos voluntários. Reincidência genérica. Irregularidades na prestação de serviços de custódia de FIDC. Não manutenção atualizada e em perfeita ordem a documentação relativa às operações do fundo. Possibilidade de delegação das atividades de guarda e liquidação de direitos creditórios em conformidade com o regulamento. Manutenção da absolvição da acusação de delegação de cobrança de direitos creditórios. Proibição temporária e multas. | ../../../../../julgados/crsfn/2018/14419.md |
-| art. 14, § 1º | termo-compromisso | 05/02 | 2004-07-02 | rejeitado | processual | O Colegiado, acompanhando o voto do relator e com exceção de uma diretora que manifestou impedimento, rejeitou proposta de termo de compromisso apresentada por proponentes para suspender o PAS 05/02. | ../../../../../julgados/cvm/colegiado/2004/col-20040702-d05.md |
-| art. 14, § 1º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1476.md |
-| art. 14, § 1º | pas | 05/2002 | 2004-08-05 | parcial | ofertas-publicas | Infração ao art. 14, caput e § 1º, da Instrução CVM n° 13/80. Multas. - Infração aos artigos 24 e 25 da Instrução CVM n° 216/94, ao item 11.3.7.1 da NBC-T-11, aprovada pela Resolução CFC n° 700/91 e à letra “c” do item 16 do Comunicado Técnico nº 02/90 do IBRACON, aprovado pela Resolução CFC n° 678, de 24.07.90, cujo teor foi mantido pela letra “c” do item 16 do Comunicado Técnico n° 06/96 do IBRACON Multas. - Infração ao art. 2º, § 1º, da Instrução CVM n° 31/84. Multa e Absolvição. - Infração ao art. 176, § 5º, alínea “i”, da Lei n.º 6.404/76 c/c o art. 1º, caput, da Instrução CVM n° 248/96. Multas e Absolvição. | ../../../../../julgados/cvm/pas/2004/05-2002.md |
-| art. 14, § 1º | pas | RJ2003/8172 | 2004-10-15 | parcial | outros | [pessoa física] E OUTROS (SUBESTAÇÃO ELETROMETRÔ S/A) Descumprimento do art. 14, caput, da Instrução CVM nº 13/80. Multa e Absolvição. Não caracterização de descumprimento ao disposto no art. 68, § 1º, e art. 153, ambos da Lei nº 6.404/76; incisos I a V da Instrução CVM nº 28/83 e § 1º do art. 14, da Instrução CVM nº 13/80. Absolvições. | ../../../../../julgados/cvm/pas/2004/rj2003-8172.md |
-| art. 14, § 1º | pas | RJ2005/0305 | 2006-10-24 | — | ofertas-publicas | CELPAR, OLIVEIRA TRUST DTVM LTDA., [pessoa física], [pessoa física], SLW CVC LTDA., [pessoa física], [pessoa física], [pessoa física] E OUTROS - Distribuição em condições diversas das constantes do registro, em violação ao art. 35, I, da Instrução CVM nº 13/80 e de emissão de debêntures sem que as garantias reais ali conferidas estivessem constituídas, em infração ao art. 62, III, da Lei nº 6.404/76. Multa - Não cumprimento de formalidades necessárias à efetiva transmissão dos imóveis à propriedade da Celpar, em violação ao § 2º, art. 8º, da Lei 6.404/76. Inabilitação. - Não cumprimento do dever de diligência, em infração ao art. 153, da Lei nº 6.404/76 e prestação de informações falsas nas demonstrações financeiras relativas aos exercícios de 1997 a 2000. Proibição. - Descumprimentos de suas responsabilidades como agente fiduciário, em infração aos incisos I, V, VI, VII, IX, XVII, XXIII e XXIV, do art. 12, da Instrução CVM nº 28/83. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-0305.md |
-| art. 14, § 1º | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
-| art. 14, § 1º | pas | 19/2003 | 2007-04-24 | parcial | deveres-administradores | Descumprimento do dever de cuidado e diligência, do dever de lealdade e desvio de poder, previstos nos arts. 142, incisos I e III, 153, 154, caput e 155, primeira parte do caput, todos da Lei 6.404/76. Inabilitações. - Divulgação, no prospecto de emissão das debêntures da Companhia, de informações insuficientes, em desacordo com o disposto no art. 14 da Instrução 13/80. Inabilitações e absolvição. - Descumprimento dos deveres previstos nos arts. 14, §1º, e 17, inciso IV, todos da Instrução 13/80. Multas e absolvição. - Falta de manutenção atualizada dos livros, registros e demonstrações financeiras da Companhia, em violação ao disposto nos arts. 100, 176 e 177 todos da Lei 6.404/76. Inabilitações. - Abuso do poder de controle em infração ao disposto na alínea “a”, § 1º, do art. 117 da Lei 6.404/76. Absolvição. - Infração aos termos dos arts. 68, §1º, alínea “a” e 70, ambos da Lei 6.404/76 e art. 12, incisos IX e X da Instrução 28/83. Absolvições. | ../../../../../julgados/cvm/pas/2007/19-2003.md |
-| art. 14, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | fundos-investimento | Irregularidades na administração de fundos de investimento em direitos creditórios – irregularidades na prestação de serviços de custódia a fundo de investimento em direitos creditórios. Multas, proibição temporária e absolvições. | ../../../../../julgados/cvm/pas/2015/rj2013-5456.md |
-| art. 14, § 2º | decisao-colegiado | RJ2002/7524; RJ2002/8433 | 2003-04-17 | provido | registro-emissor | O Colegiado deu provimento a recurso da Global Brasil S/A contra decisão da SEP que indeferiu seu pedido de abertura de capital, decisão que se baseara em entendimento da PJU. Nos termos do voto do diretor relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030417-d04.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14 | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
+| art. 14 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
+| art. 14 | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 14 | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
+| art. 14 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| art. 14 | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-04.md |
+| art. 14 | pas | RJ2003/8172 | 2004-10-15 | parcial | cvm-pas-rj2003-8172 | fichas/pas/2004-06.md |
+| art. 14 | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 14 | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
+| art. 14 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
+| art. 14 | pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-02.md |
+| art. 14, § 17 | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 14, § 1º | acordao-crsfn | RJ-2003/8172 | 2008-08-27 | absolvicao | crsfn-8929 | fichas/crsfn/2008-04.md |
+| art. 14, § 1º | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
+| art. 14, § 1º | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 14, § 1º | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
+| art. 14, § 1º | acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
+| art. 14, § 1º | termo-compromisso | 05/02 | 2004-07-02 | rejeitado | cvm-col-20040702-d05 | fichas/tc/2004-01.md |
+| art. 14, § 1º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| art. 14, § 1º | pas | 05/2002 | 2004-08-05 | parcial | cvm-pas-05-2002 | fichas/pas/2004-04.md |
+| art. 14, § 1º | pas | RJ2003/8172 | 2004-10-15 | parcial | cvm-pas-rj2003-8172 | fichas/pas/2004-06.md |
+| art. 14, § 1º | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 14, § 1º | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
+| art. 14, § 1º | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
+| art. 14, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
+| art. 14, § 2º | decisao-colegiado | RJ2002/7524; RJ2002/8433 | 2003-04-17 | provido | cvm-col-20030417-d04 | fichas/colegiado/2003-05.md |
 
 ## art. 17
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | termo-compromisso | RJ2005/0305 | 2006-06-26 | rejeitado | outros | O Colegiado rejeitou sete propostas de termo de compromisso no PAS RJ2005/0350: duas de pessoas jurídicas (Oliveira Trust DTVM e CEL Participações S.A. – CELPAR) e cinco de pessoas físicas. Acompanhou o parecer do Comitê, para o qual não havia reposição efetiva dos prejuízos e a aceitação era inconveniente diante de demandas judiciais. | ../../../../../julgados/cvm/colegiado/2006/col-20060626-d01.md |
-| art. 17, inciso IV | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2013/11833.md |
-| art. 17, inciso IV | pas | 19/2003 | 2007-04-24 | parcial | deveres-administradores | Descumprimento do dever de cuidado e diligência, do dever de lealdade e desvio de poder, previstos nos arts. 142, incisos I e III, 153, 154, caput e 155, primeira parte do caput, todos da Lei 6.404/76. Inabilitações. - Divulgação, no prospecto de emissão das debêntures da Companhia, de informações insuficientes, em desacordo com o disposto no art. 14 da Instrução 13/80. Inabilitações e absolvição. - Descumprimento dos deveres previstos nos arts. 14, §1º, e 17, inciso IV, todos da Instrução 13/80. Multas e absolvição. - Falta de manutenção atualizada dos livros, registros e demonstrações financeiras da Companhia, em violação ao disposto nos arts. 100, 176 e 177 todos da Lei 6.404/76. Inabilitações. - Abuso do poder de controle em infração ao disposto na alínea “a”, § 1º, do art. 117 da Lei 6.404/76. Absolvição. - Infração aos termos dos arts. 68, §1º, alínea “a” e 70, ambos da Lei 6.404/76 e art. 12, incisos IX e X da Instrução 28/83. Absolvições. | ../../../../../julgados/cvm/pas/2007/19-2003.md |
-| art. 17, inciso VII | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 17 | termo-compromisso | RJ2005/0305 | 2006-06-26 | rejeitado | cvm-col-20060626-d01 | fichas/tc/2006-03.md |
+| art. 17, inciso IV | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
+| art. 17, inciso IV | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
+| art. 17, inciso VII | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
-| art. 18 | pas | 12/2005 | 2012-09-04 | parcial | deveres-administradores | ENCOMIND AGROINDUSTRIAL S.A. Descumprimento do dever de diligência por parte dos administradores da Encomind-Multas. Não divulgação ao mercado de fato relevante– absolvições e multas. Não comunicação à CVM, de ocorrência de fato relevante–absolvições e multas. Realização de auditoria inepta e fraudulenta–absolvições e multas. Exercício abusivo de poder de controle–absolvições e multas. | ../../../../../julgados/cvm/pas/2012/12-2005.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
+| art. 18 | pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-02.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19 | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela Previbank CCCVM Ltda. e outros, em termo de acusação, nos termos do voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d04.md |
-| art. 19 | pas | RJ2002/3535 | 2003-11-12 | parcial | ofertas-publicas | [pessoa física], PREVIBANK CCVM LTDA. E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) distribuição de CICs (Contratos de Investimentos Coletivos) emitidos pela FAZENDAS REUNIDAS BOI GORDO S/A em condições diversas das previstas no registro CVM, configurando infração ao artigo 35, inciso I, da Instrução CVM nº 13/80, por parte da Previbank Corretora de Câmbio e Valores Mobiliários Ltda. e de seus administradores. Multas e Absolvições. - não disponibilização dos prospectos da emissão em todos os locais em que a oferta pública se consumou, configurando infração ao disposto no artigo 19, da Instrução 13/80. Multas e Absolvições. - movimentação de recursos provenientes dos pagamentos da reserva de subscrição antes do deferimento do pedido de registro, configurando infração ao artigo 28 da Instrução CVM 13/80. Multas e Absolvições. - ocorrência de intermediação irregular de valores mobiliários na forma do artigo 16 da Lei 6.385/76, em face da mobilização de pessoas não integrantes do sistema de distribuição de títulos e valores mobiliários, notadamente de seus representes comerciais, com o fito de colocar em ações junto ao mercado e também por assumirem funções típicas underwriter - Advertência e Multa. | ../../../../../julgados/cvm/pas/2003/rj2002-3535.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19 | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | cvm-col-20030325-d04 | fichas/tc/2003.md |
+| art. 19 | pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
 
 ## art. 21
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21, parágrafo único | pas | RJ2001/6094 | 2001-12-13 | condenacao | exercicio-irregular | [pessoa física] E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) Distribuição irregular de contratos de investimento coletivo. Recebimento de reservas não previsto na legislação. Responsabilidade dos administradores. Infração configurada. Multa. | ../../../../../julgados/cvm/pas/2001/rj2001-6094.md |
-| art. 21, parágrafo único | pas | RJ2001/7686 | 2002-03-13 | parcial | ofertas-publicas | BAWMAN AGROPECUÁRIA E COMERCIAL S/A, [pessoa física] E OUTROS Distribuição irregular de Contratos de Investimento Coletivo - É proibida a captação de recursos, ainda que por recibos de subscrição, antes de registrada a emissão de CICs perante a CVM. Art. 3º da Instrução CVM 296/98. Infração Grave. Pena de Multa. Veiculação de anúncio publicitário de emissão de CICs sem submissão à prévia aprovação da CVM, e antes de registrada a emissão - Conduta vedade pelo art. 15 da Instrução CVM 296/98. Imediata suspensão da veiculação. Advertência. Contratação de auditor não registrado na CVM - Inocorrência. Absolvição. | ../../../../../julgados/cvm/pas/2002/rj2001-7686.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 21, parágrafo único | pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
+| art. 21, parágrafo único | pas | RJ2001/7686 | 2002-03-13 | parcial | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | decisao-colegiado | 85/2002 | 2002-04-30 | deferido | ofertas-publicas | O Colegiado deferiu o pedido da Telemar Participações S.A. para iniciar a distribuição pública da 3ª emissão de debêntures já na primeira publicação do anúncio de início, por estar de acordo com o art. 26 da Instrução CVM nº 13/80. Justificativa: necessidade de a emissora liquidar obrigações financeiras. | ../../../../../julgados/cvm/colegiado/2002/col-20020430-d07.md |
-| art. 26 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 26 | pas | RJ2001/6094 | 2001-12-13 | condenacao | exercicio-irregular | [pessoa física] E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) Distribuição irregular de contratos de investimento coletivo. Recebimento de reservas não previsto na legislação. Responsabilidade dos administradores. Infração configurada. Multa. | ../../../../../julgados/cvm/pas/2001/rj2001-6094.md |
-| art. 26 | pas | RJ2001/7686 | 2002-03-13 | parcial | ofertas-publicas | BAWMAN AGROPECUÁRIA E COMERCIAL S/A, [pessoa física] E OUTROS Distribuição irregular de Contratos de Investimento Coletivo - É proibida a captação de recursos, ainda que por recibos de subscrição, antes de registrada a emissão de CICs perante a CVM. Art. 3º da Instrução CVM 296/98. Infração Grave. Pena de Multa. Veiculação de anúncio publicitário de emissão de CICs sem submissão à prévia aprovação da CVM, e antes de registrada a emissão - Conduta vedade pelo art. 15 da Instrução CVM 296/98. Imediata suspensão da veiculação. Advertência. Contratação de auditor não registrado na CVM - Inocorrência. Absolvição. | ../../../../../julgados/cvm/pas/2002/rj2001-7686.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | decisao-colegiado | 85/2002 | 2002-04-30 | deferido | cvm-col-20020430-d07 | fichas/colegiado/2002-10.md |
+| art. 26 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 26 | pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
+| art. 26 | pas | RJ2001/7686 | 2002-03-13 | parcial | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
 
 ## art. 27
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 27 | pas | RJ2001/6094 | 2001-12-13 | condenacao | exercicio-irregular | [pessoa física] E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) Distribuição irregular de contratos de investimento coletivo. Recebimento de reservas não previsto na legislação. Responsabilidade dos administradores. Infração configurada. Multa. | ../../../../../julgados/cvm/pas/2001/rj2001-6094.md |
-| art. 27 | pas | RJ2001/7686 | 2002-03-13 | parcial | ofertas-publicas | BAWMAN AGROPECUÁRIA E COMERCIAL S/A, [pessoa física] E OUTROS Distribuição irregular de Contratos de Investimento Coletivo - É proibida a captação de recursos, ainda que por recibos de subscrição, antes de registrada a emissão de CICs perante a CVM. Art. 3º da Instrução CVM 296/98. Infração Grave. Pena de Multa. Veiculação de anúncio publicitário de emissão de CICs sem submissão à prévia aprovação da CVM, e antes de registrada a emissão - Conduta vedade pelo art. 15 da Instrução CVM 296/98. Imediata suspensão da veiculação. Advertência. Contratação de auditor não registrado na CVM - Inocorrência. Absolvição. | ../../../../../julgados/cvm/pas/2002/rj2001-7686.md |
-| art. 27 | pas | RJ2002/3535 | 2003-11-12 | parcial | ofertas-publicas | [pessoa física], PREVIBANK CCVM LTDA. E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) distribuição de CICs (Contratos de Investimentos Coletivos) emitidos pela FAZENDAS REUNIDAS BOI GORDO S/A em condições diversas das previstas no registro CVM, configurando infração ao artigo 35, inciso I, da Instrução CVM nº 13/80, por parte da Previbank Corretora de Câmbio e Valores Mobiliários Ltda. e de seus administradores. Multas e Absolvições. - não disponibilização dos prospectos da emissão em todos os locais em que a oferta pública se consumou, configurando infração ao disposto no artigo 19, da Instrução 13/80. Multas e Absolvições. - movimentação de recursos provenientes dos pagamentos da reserva de subscrição antes do deferimento do pedido de registro, configurando infração ao artigo 28 da Instrução CVM 13/80. Multas e Absolvições. - ocorrência de intermediação irregular de valores mobiliários na forma do artigo 16 da Lei 6.385/76, em face da mobilização de pessoas não integrantes do sistema de distribuição de títulos e valores mobiliários, notadamente de seus representes comerciais, com o fito de colocar em ações junto ao mercado e também por assumirem funções típicas underwriter - Advertência e Multa. | ../../../../../julgados/cvm/pas/2003/rj2002-3535.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 27 | pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
+| art. 27 | pas | RJ2001/7686 | 2002-03-13 | parcial | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
+| art. 27 | pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
 
 ## art. 28
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 28 | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela Previbank CCCVM Ltda. e outros, em termo de acusação, nos termos do voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d04.md |
-| art. 28 | pas | RJ2002/3535 | 2003-11-12 | parcial | ofertas-publicas | [pessoa física], PREVIBANK CCVM LTDA. E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) distribuição de CICs (Contratos de Investimentos Coletivos) emitidos pela FAZENDAS REUNIDAS BOI GORDO S/A em condições diversas das previstas no registro CVM, configurando infração ao artigo 35, inciso I, da Instrução CVM nº 13/80, por parte da Previbank Corretora de Câmbio e Valores Mobiliários Ltda. e de seus administradores. Multas e Absolvições. - não disponibilização dos prospectos da emissão em todos os locais em que a oferta pública se consumou, configurando infração ao disposto no artigo 19, da Instrução 13/80. Multas e Absolvições. - movimentação de recursos provenientes dos pagamentos da reserva de subscrição antes do deferimento do pedido de registro, configurando infração ao artigo 28 da Instrução CVM 13/80. Multas e Absolvições. - ocorrência de intermediação irregular de valores mobiliários na forma do artigo 16 da Lei 6.385/76, em face da mobilização de pessoas não integrantes do sistema de distribuição de títulos e valores mobiliários, notadamente de seus representes comerciais, com o fito de colocar em ações junto ao mercado e também por assumirem funções típicas underwriter - Advertência e Multa. | ../../../../../julgados/cvm/pas/2003/rj2002-3535.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 28 | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | cvm-col-20030325-d04 | fichas/tc/2003.md |
+| art. 28 | pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
 
 ## art. 32
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 32 | decisao-antiga | — | 1981-01-08 | — | — | Decisões do colegiado de 1981. | ../../../../../julgados/cvm/decisoes-antigas/1981.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 32 | decisao-antiga | — | 1981-01-08 | — | cvm-dec-1981-0001 | fichas/decisoes-antigas/1981-04.md |
 
 ## art. 33
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 33 | pas | 18/2003 | 2005-12-08 | parcial | ofertas-publicas | Apuração de irregularidades relacionadas à emissão de debêntures destinadas à implementação de empreendimento hoteleiro objeto da companhia, constituída com este propósito específico. | ../../../../../julgados/cvm/pas/2005/18-2003.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 33 | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
 
 ## art. 34
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 34 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 34 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 ## art. 35
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 35 | acordao-crsfn | 18/03 | 2010-02-23 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Não informação aos auditores independentes e não divulgação de rescisão de contrato de aquisição de terreno como evento subsequente às demonstrações financeiras. Distribuição pública de debêntures em condições diversas daquelas constantes da escritura e do registro de emissão concedido pela autoridade supervisora – Descumprimento, pelo agente fiduciário dos debenturistas da companhia, do dever de fiscalização do atendimento de cláusulas constantes da escritura de emissão de debêntures – Inobservância, pela auditoria independente, às normas de emissão do relatório de revisão das ITL’s – Irregularidades, inclusive de natureza grava, caracterizadas – Acatamento parcial das razões trazidas pelos apelantes – Arquivamento do processo quanto à matéria objeto de subida compulsória. | ../../../../../julgados/crsfn/2010/10112.md |
-| art. 35 | pas | 18/2003 | 2005-12-08 | parcial | ofertas-publicas | Apuração de irregularidades relacionadas à emissão de debêntures destinadas à implementação de empreendimento hoteleiro objeto da companhia, constituída com este propósito específico. | ../../../../../julgados/cvm/pas/2005/18-2003.md |
-| art. 35, inciso I | acordao-crsfn | 18/03 | 2010-02-23 | parcial | ofertas-publicas | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários - Não informação aos auditores independentes e não divulgação de rescisão de contrato de aquisição de terreno como evento subsequente às demonstrações financeiras. Distribuição pública de debêntures em condições diversas daquelas constantes da escritura e do registro de emissão concedido pela autoridade supervisora – Descumprimento, pelo agente fiduciário dos debenturistas da companhia, do dever de fiscalização do atendimento de cláusulas constantes da escritura de emissão de debêntures – Inobservância, pela auditoria independente, às normas de emissão do relatório de revisão das ITL’s – Irregularidades, inclusive de natureza grava, caracterizadas – Acatamento parcial das razões trazidas pelos apelantes – Arquivamento do processo quanto à matéria objeto de subida compulsória. | ../../../../../julgados/crsfn/2010/10112.md |
-| art. 35, inciso I | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
-| art. 35, inciso I | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Distribuição em condições diversas das constantes no registro da companhia - Falhas na emissão de debêntures - Ausência de divulgação de ato ou fato relevante – Falta de análise econômico-financeira no pedido de registro – Insuficiência de esforços no sentido de verificação da consistência e da qualidade das informações constantes do prospecto – Irregularidades caracterizadas – Razões de defesa acolhidas em parte - Apelos voluntários a que dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2012/11418.md |
-| art. 35, inciso I | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Emissão de debêntures – Abuso de poder por parte do controlador da companhia – Prática de atos, em nome da companhia e na sua gestão, em contrariedade ao seu objeto social e em prejuízo dos debenturistas – Omissão no exercício de funções no âmbito da empresa – Ocultação e insuficiência de informações divulgadas no prospecto de emissão – Manutenção desatualizada dos livros contábeis e registros societários e ausência de levantamento das demonstrações financeiras da companhia – Falta de cuidado na análise da suficiência e qualidade das informações objeto da operação realizada – Irregularidades caracterizadas – Apelos a que se nega provimento – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2013/11833.md |
-| art. 35, inciso I | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela Previbank CCCVM Ltda. e outros, em termo de acusação, nos termos do voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d04.md |
-| art. 35, inciso I | termo-compromisso | RJ2005/0305 | 2006-06-26 | rejeitado | outros | O Colegiado rejeitou sete propostas de termo de compromisso no PAS RJ2005/0350: duas de pessoas jurídicas (Oliveira Trust DTVM e CEL Participações S.A. – CELPAR) e cinco de pessoas físicas. Acompanhou o parecer do Comitê, para o qual não havia reposição efetiva dos prejuízos e a aceitação era inconveniente diante de demandas judiciais. | ../../../../../julgados/cvm/colegiado/2006/col-20060626-d01.md |
-| art. 35, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | manipulacao-fraude | [pessoa física] E OUTROS (CEMAT) [pessoa física] e Outros / Centrais Elétricas de Mato Grosso - CEMAT: - Atos de liberalidade por parte de administradores da companhia aberta e abuso de poder do acionista controlador; - Irregularidades com a negociação das debêntures da empresa no mercado secundário. | ../../../../../julgados/cvm/pas/2001/11-1997.md |
-| art. 35, inciso I | pas | RJ2002/3535 | 2003-11-12 | parcial | ofertas-publicas | [pessoa física], PREVIBANK CCVM LTDA. E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) distribuição de CICs (Contratos de Investimentos Coletivos) emitidos pela FAZENDAS REUNIDAS BOI GORDO S/A em condições diversas das previstas no registro CVM, configurando infração ao artigo 35, inciso I, da Instrução CVM nº 13/80, por parte da Previbank Corretora de Câmbio e Valores Mobiliários Ltda. e de seus administradores. Multas e Absolvições. - não disponibilização dos prospectos da emissão em todos os locais em que a oferta pública se consumou, configurando infração ao disposto no artigo 19, da Instrução 13/80. Multas e Absolvições. - movimentação de recursos provenientes dos pagamentos da reserva de subscrição antes do deferimento do pedido de registro, configurando infração ao artigo 28 da Instrução CVM 13/80. Multas e Absolvições. - ocorrência de intermediação irregular de valores mobiliários na forma do artigo 16 da Lei 6.385/76, em face da mobilização de pessoas não integrantes do sistema de distribuição de títulos e valores mobiliários, notadamente de seus representes comerciais, com o fito de colocar em ações junto ao mercado e também por assumirem funções típicas underwriter - Advertência e Multa. | ../../../../../julgados/cvm/pas/2003/rj2002-3535.md |
-| art. 35, inciso I | pas | 18/2003 | 2005-12-08 | parcial | ofertas-publicas | Apuração de irregularidades relacionadas à emissão de debêntures destinadas à implementação de empreendimento hoteleiro objeto da companhia, constituída com este propósito específico. | ../../../../../julgados/cvm/pas/2005/18-2003.md |
-| art. 35, inciso I | pas | RJ2005/0305 | 2006-10-24 | — | ofertas-publicas | CELPAR, OLIVEIRA TRUST DTVM LTDA., [pessoa física], [pessoa física], SLW CVC LTDA., [pessoa física], [pessoa física], [pessoa física] E OUTROS - Distribuição em condições diversas das constantes do registro, em violação ao art. 35, I, da Instrução CVM nº 13/80 e de emissão de debêntures sem que as garantias reais ali conferidas estivessem constituídas, em infração ao art. 62, III, da Lei nº 6.404/76. Multa - Não cumprimento de formalidades necessárias à efetiva transmissão dos imóveis à propriedade da Celpar, em violação ao § 2º, art. 8º, da Lei 6.404/76. Inabilitação. - Não cumprimento do dever de diligência, em infração ao art. 153, da Lei nº 6.404/76 e prestação de informações falsas nas demonstrações financeiras relativas aos exercícios de 1997 a 2000. Proibição. - Descumprimentos de suas responsabilidades como agente fiduciário, em infração aos incisos I, V, VI, VII, IX, XVII, XXIII e XXIV, do art. 12, da Instrução CVM nº 28/83. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-0305.md |
-| art. 35, inciso I | pas | RJ2005/6924 | 2006-10-31 | parcial | ofertas-publicas | Distribuição de debêntures de emissão da Casa Anglo em condições diversas das constantes do registro de sua emissão junto à CVM, em violação ao disposto nos seguintes dispositivos: art. 10, V; art. 14, §1º; e art. 35, I, todos da Instrução CVM nº 13/80. Multas e absolvições. | ../../../../../julgados/cvm/pas/2006/rj2005-6924.md |
-| art. 35, inciso I | pas | 19/2003 | 2007-04-24 | parcial | deveres-administradores | Descumprimento do dever de cuidado e diligência, do dever de lealdade e desvio de poder, previstos nos arts. 142, incisos I e III, 153, 154, caput e 155, primeira parte do caput, todos da Lei 6.404/76. Inabilitações. - Divulgação, no prospecto de emissão das debêntures da Companhia, de informações insuficientes, em desacordo com o disposto no art. 14 da Instrução 13/80. Inabilitações e absolvição. - Descumprimento dos deveres previstos nos arts. 14, §1º, e 17, inciso IV, todos da Instrução 13/80. Multas e absolvição. - Falta de manutenção atualizada dos livros, registros e demonstrações financeiras da Companhia, em violação ao disposto nos arts. 100, 176 e 177 todos da Lei 6.404/76. Inabilitações. - Abuso do poder de controle em infração ao disposto na alínea “a”, § 1º, do art. 117 da Lei 6.404/76. Absolvição. - Infração aos termos dos arts. 68, §1º, alínea “a” e 70, ambos da Lei 6.404/76 e art. 12, incisos IX e X da Instrução 28/83. Absolvições. | ../../../../../julgados/cvm/pas/2007/19-2003.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 35 | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
+| art. 35 | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
+| art. 35, inciso I | acordao-crsfn | 18/03 | 2010-02-23 | parcial | crsfn-10112 | fichas/crsfn/2010-02.md |
+| art. 35, inciso I | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
+| art. 35, inciso I | acordao-crsfn | RJ-2005-6924 | 2012-04-16 | parcial | crsfn-11418 | fichas/crsfn/2012-02.md |
+| art. 35, inciso I | acordao-crsfn | IS-2003-19 | 2013-03-26 | parcial | crsfn-11833 | fichas/crsfn/2013-01.md |
+| art. 35, inciso I | termo-compromisso | RJ2002/3535 | 2003-03-25 | rejeitado | cvm-col-20030325-d04 | fichas/tc/2003.md |
+| art. 35, inciso I | termo-compromisso | RJ2005/0305 | 2006-06-26 | rejeitado | cvm-col-20060626-d01 | fichas/tc/2006-03.md |
+| art. 35, inciso I | pas | 11/1997 | 2001-10-18 | condenacao | cvm-pas-11-1997 | fichas/pas/2001-04.md |
+| art. 35, inciso I | pas | RJ2002/3535 | 2003-11-12 | parcial | cvm-pas-rj2002-3535 | fichas/pas/2003-04.md |
+| art. 35, inciso I | pas | 18/2003 | 2005-12-08 | parcial | cvm-pas-18-2003 | fichas/pas/2005-09.md |
+| art. 35, inciso I | pas | RJ2005/0305 | 2006-10-24 | — | cvm-pas-rj2005-0305 | fichas/pas/2006-11.md |
+| art. 35, inciso I | pas | RJ2005/6924 | 2006-10-31 | parcial | cvm-pas-rj2005-6924 | fichas/pas/2006-11.md |
+| art. 35, inciso I | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
 
 ## art. 37
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 37 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Subscrição particular em bens imóveis - Descumprimento de deveres legais referentes à adoção das providências necessárias à transferência, ao domínio da companhia, dos efeitos patrimoniais com que concorreram os subscritores para a formação do capital social – | ../../../../../julgados/crsfn/2012/11417.md |
-| art. 37 | pas | RJ2001/6094 | 2001-12-13 | condenacao | exercicio-irregular | [pessoa física] E OUTROS (FAZENDAS REUNIDAS BOI GORDO S/A) Distribuição irregular de contratos de investimento coletivo. Recebimento de reservas não previsto na legislação. Responsabilidade dos administradores. Infração configurada. Multa. | ../../../../../julgados/cvm/pas/2001/rj2001-6094.md |
-| art. 37 | pas | RJ2001/7686 | 2002-03-13 | parcial | ofertas-publicas | BAWMAN AGROPECUÁRIA E COMERCIAL S/A, [pessoa física] E OUTROS Distribuição irregular de Contratos de Investimento Coletivo - É proibida a captação de recursos, ainda que por recibos de subscrição, antes de registrada a emissão de CICs perante a CVM. Art. 3º da Instrução CVM 296/98. Infração Grave. Pena de Multa. Veiculação de anúncio publicitário de emissão de CICs sem submissão à prévia aprovação da CVM, e antes de registrada a emissão - Conduta vedade pelo art. 15 da Instrução CVM 296/98. Imediata suspensão da veiculação. Advertência. Contratação de auditor não registrado na CVM - Inocorrência. Absolvição. | ../../../../../julgados/cvm/pas/2002/rj2001-7686.md |
-| art. 37 | pas | RJ2005/1160 | 2006-12-12 | condenacao | ofertas-publicas | Distribuição irregular de valores mobiliários, sem prévio registro na CVM, conforme previsto no art. 19 da Lei nº 6.385/76. Multa. | ../../../../../julgados/cvm/pas/2006/rj2005-1160.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 37 | acordao-crsfn | RJ-2005-305 | 2012-10-25 | parcial | crsfn-11417 | fichas/crsfn/2012-04.md |
+| art. 37 | pas | RJ2001/6094 | 2001-12-13 | condenacao | cvm-pas-rj2001-6094 | fichas/pas/2001-05.md |
+| art. 37 | pas | RJ2001/7686 | 2002-03-13 | parcial | cvm-pas-rj2001-7686 | fichas/pas/2002-01.md |
+| art. 37 | pas | RJ2005/1160 | 2006-12-12 | condenacao | cvm-pas-rj2005-1160 | fichas/pas/2006-14.md |
 
 ## art. 39
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 39 | pas | 12/2005 | 2012-09-04 | parcial | deveres-administradores | ENCOMIND AGROINDUSTRIAL S.A. Descumprimento do dever de diligência por parte dos administradores da Encomind-Multas. Não divulgação ao mercado de fato relevante– absolvições e multas. Não comunicação à CVM, de ocorrência de fato relevante–absolvições e multas. Realização de auditoria inepta e fraudulenta–absolvições e multas. Exercício abusivo de poder de controle–absolvições e multas. | ../../../../../julgados/cvm/pas/2012/12-2005.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 39 | pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-02.md |
 
 ## art. 56
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 56 | pas | 12/2005 | 2012-09-04 | parcial | deveres-administradores | ENCOMIND AGROINDUSTRIAL S.A. Descumprimento do dever de diligência por parte dos administradores da Encomind-Multas. Não divulgação ao mercado de fato relevante– absolvições e multas. Não comunicação à CVM, de ocorrência de fato relevante–absolvições e multas. Realização de auditoria inepta e fraudulenta–absolvições e multas. Exercício abusivo de poder de controle–absolvições e multas. | ../../../../../julgados/cvm/pas/2012/12-2005.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 56 | pas | 12/2005 | 2012-09-04 | parcial | cvm-pas-12-2005 | fichas/pas/2012-02.md |
 
 ## art. 149
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 149 | pas | 19/2003 | 2007-04-24 | parcial | deveres-administradores | Descumprimento do dever de cuidado e diligência, do dever de lealdade e desvio de poder, previstos nos arts. 142, incisos I e III, 153, 154, caput e 155, primeira parte do caput, todos da Lei 6.404/76. Inabilitações. - Divulgação, no prospecto de emissão das debêntures da Companhia, de informações insuficientes, em desacordo com o disposto no art. 14 da Instrução 13/80. Inabilitações e absolvição. - Descumprimento dos deveres previstos nos arts. 14, §1º, e 17, inciso IV, todos da Instrução 13/80. Multas e absolvição. - Falta de manutenção atualizada dos livros, registros e demonstrações financeiras da Companhia, em violação ao disposto nos arts. 100, 176 e 177 todos da Lei 6.404/76. Inabilitações. - Abuso do poder de controle em infração ao disposto na alínea “a”, § 1º, do art. 117 da Lei 6.404/76. Absolvição. - Infração aos termos dos arts. 68, §1º, alínea “a” e 70, ambos da Lei 6.404/76 e art. 12, incisos IX e X da Instrução 28/83. Absolvições. | ../../../../../julgados/cvm/pas/2007/19-2003.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 149 | pas | 19/2003 | 2007-04-24 | parcial | cvm-pas-19-2003 | fichas/pas/2007-03.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | ofertas-publicas | O Colegiado, por unanimidade, concedeu à Riva 9 dispensa de apresentação de boletim de subscrição (art. 85, §2º, da Lei 6.404/76, na redação da Lei 13.874/19), acompanhando a SRE. Aprovou a Deliberação CVM 860/2020, que delega à SRE a dispensa do modelo de boletim (ICVM 400/03, Anexo II, item 4), observadas condições. | ../../../../../julgados/cvm/colegiado/2020/col-20200721-d1839.md |
-| decisao-colegiado | RJ2014/13261 | 2016-06-28 | outro | ofertas-publicas | O Colegiado, em consulta do Banco Itaú BBA S.A. e outro, admitiu lote suplementar em ofertas com esforços restritos, outorgável por emissor ou acionista vendedor; não admitiu exclusão da prioridade no lote suplementar para estabilização; não permitiu estabilização sem normatização; determinou à SDM avaliar reforma da Instrução 476. | ../../../../../julgados/cvm/colegiado/2016/col-20160628-d9828.md |
-| pas | RJ2012/10069 | 2015-03-31 | condenacao | divulgacao-informacoes | Não divulgação de fato relevante. Advertência. | ../../../../../julgados/cvm/pas/2015/rj2012-10069.md |
-| pas | RJ2012/9490 | 2015-03-10 | condenacao | administracao-carteiras | Exercício indevido de administração de carteira de valores mobiliários sem a prévia autorização da CVM - Advertências e Multas | ../../../../../julgados/cvm/pas/2015/rj2012-9490.md |
-| decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | ofertas-publicas | O Colegiado, por unanimidade, arquivou o pedido de dispensas de requisitos para oferta pública de derivativos Forex do Didier Levy Associados Holding Financeira S.A. O voto da relatora era favorável às dispensas, mas o pedido ficou prejudicado pela falta de autorização do BACEN ao ofertante e pelo descumprimento das exigências da área técnica. | ../../../../../julgados/cvm/colegiado/2013/col-20130625-d02.md |
-| decisao-colegiado | RJ2011/13386 | 2013-02-19 | outro | infraestrutura-mercado | O Colegiado, acompanhando o voto do relator, devolveu à SRE a consulta sobre a exigência de recibos de aquisição físicos (Deliberação CVM 476/05) e a adequação do sistema de liquidação da BM&FBovespa como substituto, sem decidir o mérito. Motivo: inoportuno decidir agora, diante de tratativas com a ANBIMA. | ../../../../../julgados/cvm/colegiado/2013/col-20130219-d17.md |
-| decisao-colegiado | RJ2008/2762 | 2008-07-22 | parcial | ofertas-publicas | Por maioria, vencido o relator, o Colegiado concedeu o registro das ações preferenciais da Capri Participações S.A. (art. 21 da Lei 6.385/76), em divergência da SEP, mas indeferiu a dispensa de prospecto e comunicou que nenhuma ação pode ser negociada sem prospecto. | ../../../../../julgados/cvm/colegiado/2008/col-20080722-d12.md |
-| decisao-colegiado | RJ2006/7654 | 2006-12-19 | nao-provido | multa-cominatoria-taxa | O Colegiado acompanhou o voto do relator e negou provimento a recurso da Schroder DTVM contra manifestação da SIN sobre registro de distribuição de cotas de fundo fechado exclusivo. Fundamento: pelo art. 24 da Instrução 409/04, o registro automático implica pagamento da taxa de fiscalização (Lei 7.940/89, art. 4º, II). | ../../../../../julgados/cvm/colegiado/2006/col-20061219-d12.md |
-| decisao-colegiado | RJ2006/4159 | 2006-07-18 | deferido | ofertas-publicas | O Colegiado concedeu dispensa do estudo de viabilidade econômico-financeira na oferta de ações da Brascan Residential Properties S.A., nos termos sugeridos pela área técnica, condicionada à divulgação no Aviso ao Mercado, Anúncio de Início e prospectos. Declarou inaplicáveis os incisos II e IV do art. 32 da ICVM 400 e determinou novos fatores de risco sobre endividamento em moeda estrangeira. | ../../../../../julgados/cvm/colegiado/2006/col-20060718-d11.md |
-| decisao-colegiado | RJ2006/0214 | 2006-05-09 | outro | ofertas-publicas | O Colegiado acompanhou o voto do relator e considerou viável a homologação parcial de aumento de capital da Invitel S.A., subscrito abaixo do deliberado. Condição: confirmação, em 30 dias, das subscrições para homologação de R$ 173.999.996,58; se nem todos confirmarem, o conselho deve retificar o aumento. Aplicou-se o Parecer de Orientação CVM 08/81 com ponderações. | ../../../../../julgados/cvm/colegiado/2006/col-20060509-d02.md |
-| pas | RJ2004/3456 | 2004-11-26 | condenacao | ofertas-publicas | Banco Pactual S/A e outro. Infração ao disposto no art. 50 da Instrução CVM nº 400/03. Advertências. | ../../../../../julgados/cvm/pas/2004/rj2004-3456.md |
-| decisao-colegiado | RJ2004/5209 | 2004-09-10 | deferido | ofertas-publicas | Pedido de dispensa de requisito do registro de oferta pública de distribuição de cepac. Proc. RJ2004/5209. | ../../../../../julgados/cvm/colegiado/2004/col-20040910-d06.md |
-| decisao-colegiado | RJ2003/0504; RJ2003/6655 | 2004-08-05 | nao-provido | ofertas-publicas | Recurso da Coritiba Futebol S.A. contra as decisões da SRE e da SEP que indeferiram o registro de distribuição pública de ações e o registro inicial de companhia aberta. O Colegiado manteve as decisões, com as ressalvas do voto do relator. | ../../../../../julgados/cvm/colegiado/2004/col-20040805-d08.md |
-| decisao-colegiado | RJ2004/3408 | 2004-07-13 | deferido | ofertas-publicas | Pedido de dispensa de requisito do registro de oferta pública de distribuição de cepac. Proc. RJ2004/3408. | ../../../../../julgados/cvm/colegiado/2004/col-20040713-d15.md |
-| decisao-colegiado | RJ2004/3443 | 2004-06-24 | deferido | ofertas-publicas | O Colegiado aprovou as dispensas de requisitos de registro da oferta pública primária de debêntures conversíveis em ações ordinárias da Tupy S.A., nos termos do Memo/SRE 119/04, com manifestação favorável da SRE. Um diretor votou vencido por não aceitar o pedido de dispensa. | ../../../../../julgados/cvm/colegiado/2004/col-20040624-d08.md |
-| decisao-colegiado | — | 2003-12-26 | outro | normativo | O Colegiado aprovou minuta de instrução que dispõe sobre ofertas públicas de distribuição de valores mobiliários nos mercados primário e secundário e revoga as Instruções CVM 13/1980 e 88/1988. | ../../../../../julgados/cvm/colegiado/2003/col-20031226-d02.md |
-| decisao-colegiado | RJ2003/11222 | 2003-12-09 | deferido | ofertas-publicas | Autorização para a publicação do anúncio de início de distribuição pública secundária de ações preferenciais. Proc. RJ 2003/11222. | ../../../../../julgados/cvm/colegiado/2003/col-20031209-d01.md |
-| decisao-colegiado | RJ2002/3761 | 2002-11-22 | deferido | ofertas-publicas | O Colegiado aprovou o desdobramento de debêntures emitidas em série única pela Novamarlim Petróleo e pela Cemar, com procedimento diferenciado do previsto na Instrução CVM 13/80, nos termos do MEMO/SRE/Nº125/2002. | ../../../../../julgados/cvm/colegiado/2002/col-20021122-d06.md |
-| decisao-colegiado | RJ2002/7133 | 2002-10-29 | deferido | ofertas-publicas | O Colegiado acatou o pedido de dispensa de distribuição pública secundária de ações do Banco do Brasil S.A., conforme proposta da SRE (MEMO/SRE/Nº 23/2002), que está de acordo com a minuta de Instrução que altera a Instrução CVM 13/80. | ../../../../../julgados/cvm/colegiado/2002/col-20021029-d12.md |
-| decisao-colegiado | RJ2002/2070 | 2002-07-23 | outro | ofertas-publicas | O Colegiado respondeu à consulta da Bovespa e entendeu que o aumento de capital do Banco do Nordeste do Brasil S.A. por subscrição particular, aprovado nas AGEs de 28/12/2001 e 18/02/2002, não fere os princípios do Parecer de Orientação CVM nº 08, contra a posição da PJU. A sugestão da SRE de novo parecer foi encaminhada à PJU para estudo. | ../../../../../julgados/cvm/colegiado/2002/col-20020723-d02.md |
-| decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | ofertas-publicas | O Colegiado negou pedido de reconsideração da Global Brasil Participações S.A. e manteve a suspensão da distribuição pública de suas ações, por propaganda na internet e folhetos destinados a detentores de créditos de empresa em concordata, sem prévio registro na CVM. Registro de companhia aberta deve ser requerido; vencida a relatora. | ../../../../../julgados/cvm/colegiado/2002/col-20020709-d04.md |
-| decisao-colegiado | 84/2002 | 2002-04-30 | deferido | ofertas-publicas | O Colegiado acatou pedido de dispensa de dispositivos da Instrução CVM 13/80 para a distribuição pública de ações preferenciais da Sanepar: início na data do primeiro anúncio e anúncio sem preço e quantidades. A dispensa ficou condicionada à comunicação de preço e quantidades 30 minutos antes do pregão. | ../../../../../julgados/cvm/colegiado/2002/col-20020430-d08.md |
-| decisao-antiga | — | 1987-01-06 | — | — | Decisões do colegiado de 1987. | ../../../../../julgados/cvm/decisoes-antigas/1987.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.001689/2020-71 | 2020-07-21 | deferido | cvm-col-20200721-d1839 | fichas/colegiado/2020-11.md |
+| decisao-colegiado | RJ2014/13261 | 2016-06-28 | outro | cvm-col-20160628-d9828 | fichas/colegiado/2016-13.md |
+| pas | RJ2012/10069 | 2015-03-31 | condenacao | cvm-pas-rj2012-10069 | fichas/pas/2015-02.md |
+| pas | RJ2012/9490 | 2015-03-10 | condenacao | cvm-pas-rj2012-9490 | fichas/pas/2015-01.md |
+| decisao-colegiado | RJ2010/9101 | 2013-06-25 | outro | cvm-col-20130625-d02 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2011/13386 | 2013-02-19 | outro | cvm-col-20130219-d17 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2008/2762 | 2008-07-22 | parcial | cvm-col-20080722-d12 | fichas/colegiado/2008-16.md |
+| decisao-colegiado | RJ2006/7654 | 2006-12-19 | nao-provido | cvm-col-20061219-d12 | fichas/colegiado/2006-20.md |
+| decisao-colegiado | RJ2006/4159 | 2006-07-18 | deferido | cvm-col-20060718-d11 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2006/0214 | 2006-05-09 | outro | cvm-col-20060509-d02 | fichas/colegiado/2006-07.md |
+| pas | RJ2004/3456 | 2004-11-26 | condenacao | cvm-pas-rj2004-3456 | fichas/pas/2004-07.md |
+| decisao-colegiado | RJ2004/5209 | 2004-09-10 | deferido | cvm-col-20040910-d06 | fichas/colegiado/2004-11.md |
+| decisao-colegiado | RJ2003/0504; RJ2003/6655 | 2004-08-05 | nao-provido | cvm-col-20040805-d08 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2004/3408 | 2004-07-13 | deferido | cvm-col-20040713-d15 | fichas/colegiado/2004-09.md |
+| decisao-colegiado | RJ2004/3443 | 2004-06-24 | deferido | cvm-col-20040624-d08 | fichas/colegiado/2004-07.md |
+| decisao-colegiado | — | 2003-12-26 | outro | cvm-col-20031226-d02 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2003/11222 | 2003-12-09 | deferido | cvm-col-20031209-d01 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | RJ2002/3761 | 2002-11-22 | deferido | cvm-col-20021122-d06 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/7133 | 2002-10-29 | deferido | cvm-col-20021029-d12 | fichas/colegiado/2002-25.md |
+| decisao-colegiado | RJ2002/2070 | 2002-07-23 | outro | cvm-col-20020723-d02 | fichas/colegiado/2002-18.md |
+| decisao-colegiado | RJ2002/3243 | 2002-07-09 | nao-provido | cvm-col-20020709-d04 | fichas/colegiado/2002-16.md |
+| decisao-colegiado | 84/2002 | 2002-04-30 | deferido | cvm-col-20020430-d08 | fichas/colegiado/2002-10.md |
+| decisao-antiga | — | 1987-01-06 | — | cvm-dec-1987-0001 | fichas/decisoes-antigas/1987-08.md |
 
 Fim do subíndice.

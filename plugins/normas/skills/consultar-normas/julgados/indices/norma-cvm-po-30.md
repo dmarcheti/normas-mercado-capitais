@@ -3,30 +3,30 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/pareceres-orientacao/0030.md](../../normas/cvm/pareceres-orientacao/0030.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008735/2024-96 | 2024-10-29 | nao-provido | outros | O Colegiado negou provimento a recurso de acionista minoritário da Telefônica Brasil S.A. contra a negativa de certidões dos livros do art. 100, §1º, I e II, da Lei 6.404/1976. Acompanhando o relator, entendeu faltar interesse de agir, pois as certidões se destinavam a ação judicial em que a juntada de documentos fora considerada extemporânea pelo STJ. | ../../../../../julgados/cvm/colegiado/2024/col-20241029-d3124.md |
-| decisao-colegiado | 19957.006544/2023-17 | 2023-07-11 | provido | assembleia-acionistas | O Colegiado deu provimento a recurso do Instituto Ibero-Americano da Empresa contra a recusa da Americanas S.A. em fornecer certidões do Livro de Registro de Ações Nominativas, com base no art. 100, §1º, da Lei 6.404/1976. Acompanhou a SEP e considerou justificado o pedido para defesa de direitos dos acionistas. | ../../../../../julgados/cvm/colegiado/2023/col-20230711-d2892.md |
-| decisao-colegiado | 19957.001093/2023-13 | 2023-05-30 | parcial | outros | O Colegiado, por unanimidade, deu provimento parcial a recurso de fundo acionista contra a negativa da Gafisa S.A. de certidão do livro de registro de ações (art. 100, §1º, da LSA). Determinou a lista de acionistas com participações e CPF/CNPJ, sem endereços, por não demonstrada a indispensabilidade de articulação coletiva. | ../../../../../julgados/cvm/colegiado/2023/col-20230530-d2864.md |
-| decisao-colegiado | 19957.000482/2022-41 | 2022-03-22 | nao-provido | outros | O Colegiado negou provimento a recurso da APDIMEC contra a negativa de certidão da lista de acionistas da COELBA (art. 100, §1º, Lei 6.404/1976), acompanhando a SEP. As informações pedidas não são as do art. 100 e não se demonstrou que o acionista era associado da entidade. | ../../../../../julgados/cvm/colegiado/2022/col-20220322-d2534.md |
-| decisao-colegiado | 19957.008850/2020-37 | 2021-01-26 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, negou provimento a recurso de associação de acionistas minoritários contra a recusa da Cielo em fornecer certidão da lista de acionistas (art. 100, §1º, Lei 6.404/76). Fundamento: o pedido não demonstrou defesa de direito dos associados nem situação de interesse pessoal a esclarecer (item 7.18 do Ofício Circular CVM/SEP 2/2020). | ../../../../../julgados/cvm/colegiado/2021/col-20210126-d2041.md |
-| decisao-colegiado | 19957.006319/2017-24 | 2017-11-07 | nao-provido | assembleia-acionistas | O Colegiado, por unanimidade, negou provimento a recurso de associação de investidores minoritários contra a negativa da JBS de certidão da lista de acionistas (art. 100, §1º, Lei 6.404/1976), contrariando proposta da SEP de deferimento. Conforme o voto do relator, não houve demonstração de legítimo interesse. Dois diretores ressalvaram que o interesse de acionista não precisa ser coletivo. | ../../../../../julgados/cvm/colegiado/2017/col-20171107-d0795.md |
-| decisao-colegiado | SP2016/0174 | 2017-07-11 | provido | assembleia-acionistas | O Colegiado, por unanimidade, acompanhando a SEP, deferiu recurso de acionista contra a recusa da Restoque em fornecer lista de acionistas (art. 100, §1º, Lei 6.404/1976). Fundamento: o pedido indicou o direito a defender e justificou a necessidade da certidão, requisitos que a companhia deve verificar sem julgar o mérito. | ../../../../../julgados/cvm/colegiado/2017/col-20170711-d0433.md |
-| decisao-colegiado | SP2016/0174 | 2017-05-09 | — | assembleia-acionistas | Reclamação de acionista contra recusa da Restoque Comércio e Confecção de Roupas S.A. em fornecer certidões dos livros de acionistas (art. 100, § 1º, da Lei 6.404/1976). A SEP concluiu pelo deferimento do pedido, e o relator votou nesse sentido. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2017/col-20170509-d0433.md |
-| decisao-colegiado | SP2009/0042 | 2009-12-08 | nao-provido | assembleia-acionistas | O Colegiado negou provimento ao recurso da Fator S.A. Corretora de Valores contra a recusa da BM&FBOVESPA S.A. em fornecer certidão de assentamento de acionistas (art. 100, §1º, da Lei 6.404/76), acompanhando o voto do relator após pedido de vista. A SEP opinou pelo indeferimento. | ../../../../../julgados/cvm/colegiado/2009/col-20091208-d25.md |
-| decisao-colegiado | RJ2009/5356 | 2009-12-08 | outro | assembleia-acionistas | Em consulta da AMEC, o Colegiado fixou que pedido de lista de acionistas (art. 100, §1º, Lei 6.404/76) exige fundamentação específica e só autoriza a lista integral para defesa de direito de todos os acionistas. Decidiu não editar parecer de orientação agora. | ../../../../../julgados/cvm/colegiado/2009/col-20091208-d24.md |
-| decisao-colegiado | RJ2008/1794 | 2008-06-24 | outro | assembleia-acionistas | Após pedido de vista, o Colegiado respondeu à consulta da MZ Consult sobre procurações digitais, fórum na internet e cadastro de acionistas no serviço Assembleias Online, sem editar parecer de orientação. Um diretor divergiu em parte sobre dados de acionistas e fórum. | ../../../../../julgados/cvm/colegiado/2008/col-20080624-d02.md |
-| decisao-colegiado | RJ2003/6440 | 2004-03-31 | provido | assembleia-acionistas | O Colegiado, por maioria, decidiu que a Telemar Norte Leste S.A. deve fornecer à Hedging-Griffo CV S.A. a lista de acionistas requerida, nos termos do art. 100 da Lei 6.404/76, acolhendo o recurso. Ficou vencido o presidente. | ../../../../../julgados/cvm/colegiado/2004/col-20040331-d01.md |
-| decisao-colegiado | RJ2004/00203 | 2004-02-11 | provido | assembleia-acionistas | Pedido de lista de acionistas formulado à cia força e luz cataguases leopoldina por alliant energy holdings do brasil. Proc. RJ 2004/00203. | ../../../../../julgados/cvm/colegiado/2004/col-20040211-d06.md |
-| decisao-colegiado | RJ2004/00712 | 2004-02-11 | provido | assembleia-acionistas | O Colegiado deu provimento ao recurso de acionista contra a recusa da companhia em fornecer a lista de acionistas, por justificativa enquadrada no art. 100, § 1º, da Lei 6.404/76, e por atender ao art. 126. Recomendou o adiamento da AGE de 18.02 para o recorrente obter a lista. | ../../../../../julgados/cvm/colegiado/2004/col-20040211-d05.md |
-| decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
-| decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008735/2024-96 | 2024-10-29 | nao-provido | cvm-col-20241029-d3124 | fichas/colegiado/2024-12.md |
+| decisao-colegiado | 19957.006544/2023-17 | 2023-07-11 | provido | cvm-col-20230711-d2892 | fichas/colegiado/2023-08.md |
+| decisao-colegiado | 19957.001093/2023-13 | 2023-05-30 | parcial | cvm-col-20230530-d2864 | fichas/colegiado/2023-06.md |
+| decisao-colegiado | 19957.000482/2022-41 | 2022-03-22 | nao-provido | cvm-col-20220322-d2534 | fichas/colegiado/2022-04.md |
+| decisao-colegiado | 19957.008850/2020-37 | 2021-01-26 | nao-provido | cvm-col-20210126-d2041 | fichas/colegiado/2021-02.md |
+| decisao-colegiado | 19957.006319/2017-24 | 2017-11-07 | nao-provido | cvm-col-20171107-d0795 | fichas/colegiado/2017-19.md |
+| decisao-colegiado | SP2016/0174 | 2017-07-11 | provido | cvm-col-20170711-d0433 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | SP2016/0174 | 2017-05-09 | — | cvm-col-20170509-d0433 | fichas/colegiado/2017-09.md |
+| decisao-colegiado | SP2009/0042 | 2009-12-08 | nao-provido | cvm-col-20091208-d25 | fichas/colegiado/2009-23.md |
+| decisao-colegiado | RJ2009/5356 | 2009-12-08 | outro | cvm-col-20091208-d24 | fichas/colegiado/2009-23.md |
+| decisao-colegiado | RJ2008/1794 | 2008-06-24 | outro | cvm-col-20080624-d02 | fichas/colegiado/2008-14.md |
+| decisao-colegiado | RJ2003/6440 | 2004-03-31 | provido | cvm-col-20040331-d01 | fichas/colegiado/2004-04.md |
+| decisao-colegiado | RJ2004/00203 | 2004-02-11 | provido | cvm-col-20040211-d06 | fichas/colegiado/2004-02.md |
+| decisao-colegiado | RJ2004/00712 | 2004-02-11 | provido | cvm-col-20040211-d05 | fichas/colegiado/2004-02.md |
+| decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 
 Fim do subíndice.

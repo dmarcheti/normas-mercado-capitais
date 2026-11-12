@@ -140,10 +140,12 @@ def linha_changelog(raiz, hoje, subidas):
 
 
 def rodar_indice(raiz):
-    r = subprocess.run([sys.executable, os.path.join(raiz, "scripts", "indice.py")], cwd=raiz,
-                       capture_output=True, text=True)
-    if r.returncode != 0:
-        raise RuntimeError("indice.py rc %d: %s" % (r.returncode, (r.stdout + r.stderr).strip()[-300:]))
+    """fichas.py e depois indice.py: os índices dos julgados apontam para as fichas."""
+    for script in ("fichas.py", "indice.py"):
+        r = subprocess.run([sys.executable, os.path.join(raiz, "scripts", script)], cwd=raiz,
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            raise RuntimeError("%s rc %d: %s" % (script, r.returncode, (r.stdout + r.stderr).strip()[-300:]))
 
 
 def publicar(raiz, hoje, indice=rodar_indice):

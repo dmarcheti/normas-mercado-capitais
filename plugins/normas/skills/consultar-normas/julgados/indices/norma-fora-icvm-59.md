@@ -3,54 +3,54 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | RJ2012/8386 | 2018-10-02 | conhecimento | deveres-administradores | O Colegiado inadmitiu recurso da Energisa S.A. quanto à não instauração de PAS pela SEP contra administradores da Companhia Industrial Cataguases e indeferiu o refazimento das DFs de 2007 a 2011. Por maioria, decidiu que a retenção de lucros do art. 196 da Lei 6.404/76 não se sujeita ao limite do art. 199, vencido o relator. | ../../../../../julgados/cvm/colegiado/2018/col-20181002-d8596.md |
-| art. 8º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 8º, parágrafo único | termo-compromisso | RJ2008/8046 | 2009-05-05 | rejeitado | assembleia-acionistas | O Colegiado rejeitou proposta de Termo de Compromisso de seis administradores da Construtora Lix da Cunha S.A., acusados de irregularidades com dividendos, reservas e assembleias (art. 132 da Lei 6.404/76). Em face do parecer do Comitê, que viu obrigações já devidas, sem prazo nem indenização, considerou-a inconveniente e inoportuna. | ../../../../../julgados/cvm/colegiado/2009/col-20090505-d03.md |
-| art. 8º, parágrafo único | termo-compromisso | RJ2008/8046 | 2009-11-24 | aceito | registro-emissor | O Colegiado aceitou nova proposta de termo de compromisso de seis administradores da Construtora Lix da Cunha S.A., após rejeição da anterior em 05.05.2009. Os proponentes assumiram cronograma até 31.12.2012 (DFs de 2008, AGO, atualização do registro e dividendos) e pagarão R$ 50.000,00 à CVM, corrigidos pelo IPCA, como condição para celebração do termo. | ../../../../../julgados/cvm/colegiado/2009/col-20091124-d05.md |
-| art. 8º, parágrafo único | termo-compromisso | RJ2011/1323 | 2011-07-26 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso de quatro membros do conselho de administração da UNIPAR, por dividendos pagos com prejuízos acumulados (arts. 189 e 201 da Lei 6.404/76). Contra o Comitê, que pedia 20%, a proposta prevê pagamento à CVM de 10% do valor ressarcido. | ../../../../../julgados/cvm/colegiado/2011/col-20110726-d02.md |
-| art. 8º, parágrafo único | termo-compromisso | 19957.004730/2016-84; RJ2016/6169 | 2017-04-18 | aceito | assembleia-acionistas | O Colegiado aceitou proposta de termo de compromisso de membro do Conselho de Administração da Fibam Cia. Industrial (em recuperação judicial), no valor de R$ 50.000,00, acompanhando o Comitê. Caso: dividendos sem contrapartida em resultado ou reservas e proposta da administração sem menção à absorção do prejuízo (arts. 189, parágrafo único, e 201 da Lei 6.404/1976). | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d0512.md |
-| art. 8º, parágrafo único | pas | RJ2008/8046 | 2018-10-30 | parcial | assembleia-acionistas | Destinação de dividendos às ações ordinárias de emissão da Construtora Lix da Cunha S.A. inferiores aos que fariam jus nos exercícios sociais de 2001 e de 2002. Pagamento dos dividendos relativos ao exercício social de 2001 fora do prazo legal, constituição de reserva especial para dividendos não distribuídos em relação aos exercícios sociais de 2002, 2003, 2005, 2006 e 2007. Cálculo equivocado dos dividendos mínimos relativos aos exercícios sociais de 2005, 2006 e 2007. Não comunicação à CVM de justificativa para o não pagamento do dividendo obrigatório relativo ao exercício de 2003. Registro da destinação do lucro líquido do exercício nas demonstrações financeiras relativas a 2001, 2002, 2003 e 2005. Não absorção dos prejuízos do exercício social de 2004 pelas reservas de lucro. Atraso na elaboração das demonstrações financeiras da Companhia relativas aos exercícios sociais de 2004 e 2005 e atraso na convocação e na realização de assembleias gerais ordinárias relativas aos exercícios sociais de 2004 e de 2005. Preliminar de Extinção de punibilidade. Absolvições, advertência e multas. Data decisão CVM Tue Oct 30 15:19:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2008-8046.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | RJ2012/8386 | 2018-10-02 | conhecimento | cvm-col-20181002-d8596 | fichas/colegiado/2018-18.md |
+| art. 8º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 8º, parágrafo único | termo-compromisso | RJ2008/8046 | 2009-05-05 | rejeitado | cvm-col-20090505-d03 | fichas/tc/2009-03.md |
+| art. 8º, parágrafo único | termo-compromisso | RJ2008/8046 | 2009-11-24 | aceito | cvm-col-20091124-d05 | fichas/tc/2009-08.md |
+| art. 8º, parágrafo único | termo-compromisso | RJ2011/1323 | 2011-07-26 | aceito | cvm-col-20110726-d02 | fichas/tc/2011-03.md |
+| art. 8º, parágrafo único | termo-compromisso | 19957.004730/2016-84; RJ2016/6169 | 2017-04-18 | aceito | cvm-col-20170418-d0512 | fichas/tc/2017-01.md |
+| art. 8º, parágrafo único | pas | RJ2008/8046 | 2018-10-30 | parcial | cvm-pas-rj2008-8046 | fichas/pas/2018-08.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | decisao-colegiado | RJ2001/4228 | 2002-03-12 | nao-provido | contabil-demonstracoes | O Colegiado manteve decisão que acolhera em parte o recurso da Recrusul S.A. contra determinação da SEP de refazer e republicar demonstrações de 2000. Manteve o acolhimento quanto à destinação do lucro e à nota de instrumentos financeiros, e a exigência de reverter o diferimento da variação cambial passiva e de reelaborar a nota sobre partes relacionadas. | ../../../../../julgados/cvm/colegiado/2002/col-20020312-d04.md |
-| art. 11 | decisao-colegiado | RJ2001/7058 | 2002-07-23 | parcial | contabil-demonstracoes | O Colegiado manteve decisão da SEP que acolheu a alegação da Josapar sobre o relatório da administração e, nos demais pontos, exigiu a reversão do diferimento da variação cambial, por não se enquadrar no art. 186, §1º, da Lei 6.404/76, e a reelaboração e republicação de notas sobre créditos fiscais, instrumentos financeiros e REFIS de 2000. | ../../../../../julgados/cvm/colegiado/2002/col-20020723-d07.md |
-| art. 11 | decisao-colegiado | RJ2001/4848 | 2002-07-29 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Vicunha Nordeste contra decisão da SEP que exigiu reapresentação das informações trimestrais de 31/03/01, por reversão do diferimento da variação cambial, nos termos da Deliberação CVM 294/99. Acompanhando o relator, admitiu como alternativa a divulgação das correções por avisos na imprensa. | ../../../../../julgados/cvm/colegiado/2002/col-20020729-d01.md |
-| art. 11 | decisao-colegiado | RJ2006/6800 | 2006-10-10 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da Cerâmica Chiarelli S.A. contra decisão da SEP que determinou a republicação das demonstrações financeiras de 2005, por provisão para tributos compensados em anos anteriores registrada em contrapartida ao patrimônio líquido. Acompanhou o voto da relatora, que ratificou o desacordo com normas contábeis vigentes à época. | ../../../../../julgados/cvm/colegiado/2006/col-20061010-d01.md |
-| art. 11 | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
-| art. 11 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 11, § 1º | acordao-crsfn | 09/03 | 2008-05-27 | parcial | contabil-demonstracoes | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Falta de adequada e suficiente divulgação de transações de mútuos com partes relacionadas (não identificação das contra partes e dos respectivos saldos credores ou devedores nas respectivas demonstrações financeiras) – Auditoria independente – Ausência de ressalvas nos pareceres (divulgação do mútuo, envolvimento de partes relacionadas, resultado do exercício, movimentação da conta Lucros acumulados) – Irregularidades caracterizadas – Apelos voluntários a que se nega provimento (salvo o trazido por diretor com permanência por breve período no exercício do cargo) – Recurso de ofício provido parcialmente. | ../../../../../julgados/crsfn/2008/9793.md |
-| art. 11, § 1º | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
-| art. 11, § 1º | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
-| art. 11, § 1º | decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
-| art. 11, § 1º | decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
-| art. 11, § 1º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 11, § 1º | pas | 09/2003 | 2006-01-25 | parcial | contabil-demonstracoes | AUDITORES INDEPENDENTES E OUTROS - Descumprimento do item 11.3 da NBC-T-11, do Conselho Federal de Contabilidade, em infração aos artigos 25, da Instrução CVM nº 216/94, e 20, da Instrução CVM nº 308/99, combinado com o art. 177, § 3º, da Lei nº 6.404/76: pena de advertência. Infração ao artigo 178, § 3º, combinado com o art. 266, ambos da Lei nº 6.404/76: pena de advertência. Infração à Deliberação CVM nº 26/86, divulgação inadequada e insuficiente de transações de mútuos com partes relacionadas. Pena de advertência. | ../../../../../julgados/cvm/pas/2006/09-2003.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | decisao-colegiado | RJ2001/4228 | 2002-03-12 | nao-provido | cvm-col-20020312-d04 | fichas/colegiado/2002-04.md |
+| art. 11 | decisao-colegiado | RJ2001/7058 | 2002-07-23 | parcial | cvm-col-20020723-d07 | fichas/colegiado/2002-18.md |
+| art. 11 | decisao-colegiado | RJ2001/4848 | 2002-07-29 | nao-provido | cvm-col-20020729-d01 | fichas/colegiado/2002-18.md |
+| art. 11 | decisao-colegiado | RJ2006/6800 | 2006-10-10 | nao-provido | cvm-col-20061010-d01 | fichas/colegiado/2006-15.md |
+| art. 11 | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
+| art. 11 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 11, § 1º | acordao-crsfn | 09/03 | 2008-05-27 | parcial | crsfn-9793 | fichas/crsfn/2008-02.md |
+| art. 11, § 1º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
+| art. 11, § 1º | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
+| art. 11, § 1º | decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
+| art. 11, § 1º | decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
+| art. 11, § 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 11, § 1º | pas | 09/2003 | 2006-01-25 | parcial | cvm-pas-09-2003 | fichas/pas/2006-02.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | manipulacao-fraude | Apurar eventual responsabilidade de ex-diretores do IRB Brasil Resseguros S.A. por descumprimento do dever de diligência e pela prática irregular de manipulação de preços no mercado de valores mobiliários. Multa e Absolvição | ../../../../../julgados/cvm/pas/2024/19957-003611-2020-91.md |
-| termo-compromisso | 19957.000588/2021-63 | 2022-07-19 | aceito | assembleia-acionistas | O Colegiado aceitou, por unanimidade, proposta conjunta de termo de compromisso de administradores da Baumer S.A., acompanhando o Comitê. Acusação: propostas de destinação de lucros às AGOs de 2015 a 2020 (Lei 6.404, arts. 193, 196 e 197). Pagamento à CVM de R$ 824.614,00 e obrigação de fazer. | ../../../../../julgados/cvm/colegiado/2022/col-20220719-d2652.md |
-| decisao-colegiado | 19957.000881/2017-44 | 2018-04-03 | — | assembleia-acionistas | Análise, pela SEP, da proposta de destinação do lucro de 2016 da Minasmáquinas S.A., que previa retenção em 'reserva para aumento de capital' sem previsão estatutária ou orçamento; a área técnica sugeriu consulta ao Colegiado sobre a capitalização de lucros remanescentes. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2018/col-20180403-d0704.md |
-| pas | RJ2012/4066 | 2015-03-31 | parcial | deveres-administradores | Convocação de assembleias gerais ordinárias fora do prazo legal – Elaboração das Demonstrações Financeiras da Companhia fora do prazo previsto em lei – Exercício abusivo do poder de controle – Inobservância dos requisitos legais para proposta de reversão de reserva de contingência. Absolvições e multas. | ../../../../../julgados/cvm/pas/2015/rj2012-4066.md |
-| pas | 24/2003 | 2005-06-09 | parcial | contabil-demonstracoes | [pessoa física] (SIDERÚRGICA J. L. ALIPERTI S/A) Não cumprimento pelos administradores de companhia aberta do dever de fazer elaborar as demonstrações financeiras da companhia de acordo com as normas legais e regulamentares. Multa. Embaraço à fiscalização da CVM, em infração à alínea a, do inciso II, da Instrução CVM nº 18/81; Responsabilidade dos administradores por não fiscalizarem os atos de execução dos negócios sociais a cargo da diretoria da companhia. Infração ao art. 142, inciso III da Lei nº 6.404/76. Multa. Abuso do poder de controle, pela aprovação de retenção dos lucros sociais sem a existência prévia de orçamento de capital que a justificasse. Multa ao acionista controlador e Absolvição dos administradores. | ../../../../../julgados/cvm/pas/2005/24-2003.md |
-| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | ../../../../../julgados/cvm/colegiado/2004/col-20040921-d01.md |
-| pas | RJ2001/7557 | 2004-07-22 | condenacao | auditoria-independente | AUDITORIA E OUTROS - Auditoria Inepta. - Infração aos artigos 1º, 4º, inciso III, 25 e 29, incisos II e IV, da Instrução CVM nº 216/94. - Infração ao artigo 26 da Lei nº 6.385/76. | ../../../../../julgados/cvm/pas/2004/rj2001-7557.md |
-| decisao-colegiado | RJ2001/3270 | 2002-07-09 | provido | assembleia-acionistas | O Colegiado aprovou o voto do relator, que concluiu pela impossibilidade de a CVM exigir alteração estatutária, em recurso contra decisão da SEP que determinou mudança em reserva estatutária de 5% a 75% do lucro líquido da Companhia Siderúrgica Belgo Mineira S.A. | ../../../../../julgados/cvm/colegiado/2002/col-20020709-d12.md |
-| decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | assembleia-acionistas | O Colegiado, por maioria, deu provimento ao recurso da Livraria do Globo S.A. contra decisão da SEP que determinou alteração de reserva estatutária para investimentos, vencida uma diretora. A SEP entendia que a reserva configurava retenção de lucros sem observância do art. 196 da Lei 6.404/76. | ../../../../../julgados/cvm/colegiado/2002/col-20020426-d05.md |
-| decisao-colegiado | RJ2001/3993 | 2002-02-27 | conhecimento | contabil-demonstracoes | O Colegiado acompanhou o voto do relator e deixou de apreciar recurso contra determinação da SEP de refazer e republicar as demonstrações de 2000 da Tele Celular Sul Participações S.A., por perda de objeto. A companhia deve dar a destinação de lucros proposta à reserva de lucros a realizar e prestar as informações exigidas. | ../../../../../julgados/cvm/colegiado/2002/col-20020227-d03.md |
-| decisao-antiga | — | 1989-01-04 | — | — | Decisões do colegiado de 1989. | ../../../../../julgados/cvm/decisoes-antigas/1989.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.003611/2020-91 | 2024-12-19 | parcial | cvm-pas-19957-003611-2020-91 | fichas/pas/2024-12.md |
+| termo-compromisso | 19957.000588/2021-63 | 2022-07-19 | aceito | cvm-col-20220719-d2652 | fichas/tc/2022-03.md |
+| decisao-colegiado | 19957.000881/2017-44 | 2018-04-03 | — | cvm-col-20180403-d0704 | fichas/colegiado/2018-07.md |
+| pas | RJ2012/4066 | 2015-03-31 | parcial | cvm-pas-rj2012-4066 | fichas/pas/2015-02.md |
+| pas | 24/2003 | 2005-06-09 | parcial | cvm-pas-24-2003 | fichas/pas/2005-04.md |
+| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
+| pas | RJ2001/7557 | 2004-07-22 | condenacao | cvm-pas-rj2001-7557 | fichas/pas/2004-04.md |
+| decisao-colegiado | RJ2001/3270 | 2002-07-09 | provido | cvm-col-20020709-d12 | fichas/colegiado/2002-17.md |
+| decisao-colegiado | RJ2001/12367 | 2002-04-26 | provido | cvm-col-20020426-d05 | fichas/colegiado/2002-09.md |
+| decisao-colegiado | RJ2001/3993 | 2002-02-27 | conhecimento | cvm-col-20020227-d03 | fichas/colegiado/2002-03.md |
+| decisao-antiga | — | 1989-01-04 | — | cvm-dec-1989-0001 | fichas/decisoes-antigas/1989-04.md |
 
 Fim do subíndice.

@@ -3,114 +3,140 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1994-12-23 | 46 | Reg. 357/94 | REFORMULAÇÃO DA INSTRUÇÃO 82/88, QUE DISPÕE SOBRE A ADMINISTRAÇÃO DE CARTEIRA DE VALORES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:36 |
-| 1994-12-23 | 46 | Reg. 533/94 | PRORROGAÇÃO DE PRAZO DE ADAPTAÇÃO À INSTRUÇÃO 215/94 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:43 |
-| 1994-12-20 | — | — | ALTERAÇÃO DA INSTRUÇÃO CVM Nº 220/94 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:61 |
-| 1994-12-16 | 45 | Reg. 528/94 | NORMA ALTERANDO A INSTRUÇÃO 215/94 NO QUE DIZ RESPEITO AO MERCOSUL | ../../../../../julgados/cvm/decisoes-antigas/1994.md:75 |
-| 1994-12-16 | 45 | Reg. 530/94 | RECURSO CONTRA DECISÃO DA SEP – PETROQUÍMICA UNIÃO S/A | ../../../../../julgados/cvm/decisoes-antigas/1994.md:91 |
-| 1994-12-16 | 45 | Reg. 503/94 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE AS NORMAS DE ESCRITURAÇÃO E ELABORAÇÃO DE RELATÓRIOS CONTÁBEIS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:114 |
-| 1994-12-08 | 44 | Reg. 515/94 | RESOLUÇÃO DA CNBV QUE DISPÕE SOBRE REGRAS DE CONDUTA A SEREM OBSERVADAS PELAS BOLSAS DE VALORES… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:130 |
-| 1994-12-08 | 44 | Reg. 527/94 | REFORMULAÇÃO DA INSTRUÇÃO 40/84, QUE DISPÕE SOBRE A CONSTITUIÇÃO E OPERAÇÃO DE CLUBES DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:154 |
-| 1994-12-08 | 44 | Reg. 125/93 | INSTRUÇÃO CVM 91/88 QUE ESTABELECE DISPOSIÇÕES SOBRE OS FUNDOS DE CONVERSÃO E CONSOLIDA A… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:163 |
-| 1994-12-08 | 44 | Reg. 529/94 | REVISÃO DA INSTRUÇÃO 209/94 PERMITINDO A ADMINISTRAÇÃO DE FUNDOS MÚTUOS DE INVESTIMENTO EM EMPRESAS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:171 |
-| 1994-11-24 | 43 | Reg. 051/93 | CARTEIRA PRÓPRIA DE SUBSIDIÁRIAS DE BANCOS BRASILEIROS NO EXTERIOR | ../../../../../julgados/cvm/decisoes-antigas/1994.md:189 |
-| 1994-11-24 | 43 | Reg. 431/94 | RECURSO CONTRA DECISÃO DA SMI EM PROCESSO DE RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOVESPA - MARQUÊS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:206 |
-| 1994-11-10 | 42 | Reg. 315/94 | OPÇÃO NÃO PADRONIZADA (WARRANT) | ../../../../../julgados/cvm/decisoes-antigas/1994.md:231 |
-| 1994-11-03 | 41 | Reg. 401/94 | RECURSO CONTRA DECISÃO DA SEP DETERMINANDO OFERTA PÚBLICA DE COMPRA DE AÇÕES ORDINÁRIAS DOS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:247 |
-| 1994-11-03 | 41 | Reg. 050/93 | RECURSO DA SUDAMERIS CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S/A CONTRA DECISÃO DO DEMIR (ATUAL… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:258 |
-| 1994-11-03 | 41 | Reg. 494/94 | RECURSO CONTRA A DECISÃO DA SEP DE MANDAR A COMPANHIA APRESENTAR AS INFORMAÇÕES DO PRIMEIRO… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:273 |
-| 1994-10-21 | 39 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A COMPOSIÇÃO DA CARTEIRA DOS FUNDOS DE PRIVATIZAÇÃO – CAPITAL… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:296 |
-| 1994-10-13 | 38 | Reg. 482/94 | MINUTA DE MEDIDA PROVISÓRIA QUE DISPÕE SOBRE A NOVAÇÃO DE DÍVIDAS DO FCVS; ALTERA A LEI 8036/90… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:309 |
-| 1994-10-13 | 38 | Reg. 483/94 | MINUTA DE DELIBERAÇÃO QUE DISCIPLINA CERTOS PROCEDIMENTOS ADMINISTRATIVOS NO ÂMBITO DA RESOLUÇÃO… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:317 |
-| 1994-10-11 | 37 | Reg. 014/93 | SOLICITAÇÃO DE PRAZO ADICIONAL PARA ADITAMENTO AO PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:331 |
-| 1994-10-06 | 36 | Reg. 475/94 | MINUTA DE DELIBERAÇÃO QUE AUTORIZA A ADOÇÃO DE PROCEDIMENTO ESPECIAL NA DISTRIBUIÇÃO SECUNDÁRIA DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:349 |
-| 1994-10-06 | 36 | — | INSTRUÇÃO CVM 91/88 QUE ESTABELECE DISPOSIÇÕES SOBRE OS FUNDOS DE CONVERSÃO E CONSOLIDA A… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:356 |
-| 1994-09-30 | 35 | Reg. 463/94 | CERTIFICADO A TERMO DE MERCADORIAS – CTMS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:378 |
-| 1994-09-30 | 35 | Reg. 471/94 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A AVALIAÇÃO DE INVESTIMENTOS PELO MÉTODO DA EQUIVALÊNCIA… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:389 |
-| 1994-09-30 | 35 | — | PLEITO DO IBRACON SOBRE PRORROGAÇÃO DE PRAZO PARA NOMEAÇÃO DO DIRETOR RESPONSÁVEL PELA SOCIEDADE DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:397 |
-| 1994-09-22 | 34 | Reg. 456/94 | PROPOSTA DE ALTERAÇÃO DA INSTRUÇÃO 209/94, QUE DISPÕE SOBRE A CONSTITUIÇÃO, O FUNCIONAMENTO E A… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:414 |
-| 1994-09-22 | 34 | Reg. 468/94 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 159/91 – DISPÕE SOBRE A LIQUIDAÇÃO FÍSICA E FINANCEIRA DAS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:431 |
-| 1994-09-15 | 33 | Reg. 028/93 | REFORMULAÇÃO DA INSTRUÇÃO CVM 033/84, QUE ESTABELECE NORMAS E PROCEDIMENTOS A SEREM OBSERVADOS NAS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:447 |
-| 1994-09-15 | 33 | Reg. 161/93 | CLUBE DE INVESTIMENTOS SATÉLITE – RECURSO CONTRA DECISÃO DO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:453 |
-| 1994-09-15 | 33 | Reg. 460/94 | MINUTA DE DELIBERAÇÃO SOBRE REAVALIAÇÃO DE ATIVOS – AUDIÊNCIA PÚBLICA | ../../../../../julgados/cvm/decisoes-antigas/1994.md:465 |
-| 1994-09-01 | 32 | Reg. 450/94 | MINUTA DE INSTRUÇÃO SOBRE RECOLHIMENTO DA TAXA DE FISCALIZAÇÃO - ALTERA INSTRUÇÃO 128/90 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:481 |
-| 1994-09-01 | 32 | Reg. 453/94 | MEMORANDO DE ENTENDIMENTO CVM E CNV DO PARAGUAI | ../../../../../julgados/cvm/decisoes-antigas/1994.md:489 |
-| 1994-09-01 | 32 | — | OPERAÇÃO ESPECIAL DA ALPARGATAS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:496 |
-| 1994-08-16 | 30 | Reg. 197/93 | CORRETORA SOUZA BARROS – RECURSO CONTRA A DECISÃO DA SIN | ../../../../../julgados/cvm/decisoes-antigas/1994.md:531 |
-| 1994-08-12 | 29 | Reg. 362/94 | CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA - RECURSO CONTRA DECISÃO DA SIN | ../../../../../julgados/cvm/decisoes-antigas/1994.md:556 |
-| 1994-08-12 | 29 | Reg. 395/94 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 36/84 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:577 |
-| 1994-08-05 | — | — | MINUTA DE DELIBERAÇÃO QUE ESCLARECE ÀS COMPANHIAS ABERTAS QUE A OCORRÊNCIA DAS SITUAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:594 |
-| 1994-08-02 | 28 | Reg. 274/94 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A AVALIAÇÃO DE INSTRUMENTOS FINANCEIROS REGISTRADOS NO ATIVO… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:609 |
-| 1994-08-02 | 28 | — | TABELA DE CORRETAGEM | ../../../../../julgados/cvm/decisoes-antigas/1994.md:616 |
-| 1994-07-12 | 25 | Reg. 410/94 | MINUTA DE DELIBERAÇÃO - DEMONSTRAÇÕES CONTÁBEIS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:630 |
-| 1994-07-05 | 24 | Reg. 325/94 | RECURSO CONTRA DECISÃO DA SEP - COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA-RS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:651 |
-| 1994-07-05 | 24 | Reg. 394/94 | UNIBANCO - DEBÊNTURES COM VARIAÇÃO CAMBIAL | ../../../../../julgados/cvm/decisoes-antigas/1994.md:675 |
-| 1994-06-27 | 23 | Reg. 403/94 | MINUTA DE INSTRUÇÃO SOBRE AUDITORIA INDEPENDENTE - REVOGAÇÃO DA INSTRUÇÃO CVM Nº 204/93 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:701 |
-| 1994-06-27 | 23 | Reg. 016/93 | RECURSO CONTRA DECISÃO DA SMI - BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1994.md:713 |
-| 1994-06-27 | 23 | — | RECURSO INTERPOSTO PELA SABESP - CIA. DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO CONTRA DECISÃO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:720 |
-| 1994-06-27 | 23 | — | MINUTA DE RESOLUÇÃO DO CONSELHO MONETÁRIO NACIONAL QUE ALTERA E CONSOLIDA AS NORMAS QUE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:746 |
-| 1994-06-17 | 22 | Reg. 016/93 | RECURSO CONTRA DECISÃO DA SMI – BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1994.md:761 |
-| 1994-06-17 | 22 | Reg. 293/94 | PROPOSTA DO BACEN DE REVOGAÇÃO DA APROVAÇÃO PRÉVIA DOS CONTRATOS NEGOCIADOS EM BOLSAS DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:805 |
-| 1994-06-08 | 21 | Reg. 028/93 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 33/84 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:843 |
-| 1994-06-08 | 21 | Reg. 140/93 | CONSOLIDAÇÃO DA MINUTA DE INSTRUÇÃO SOBRE FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:852 |
-| 1994-05-31 | 20 | Reg. 318/94 | RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO - TELERJ, TELEBAHIA E TELEBRÁS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:867 |
-| 1994-05-31 | 20 | Reg. 360/94 | POLÍTICA DE PUBLICAÇÃO DE EDITAIS ° RÉU EM LOCAL INCERTO E NÃO SABIDO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:881 |
-| 1994-05-31 | 20 | Reg. 367/94 | PROPOSTA DE MODIFICAÇÃO DO IMPOSTO SOBRE GANHO DE CAPITAL SOBRE OPERAÇÕES COM AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:890 |
-| 1994-05-31 | 20 | Reg. 366/94 | ALTERAÇÃO DA INSTRUÇÃO CVM 120/90 ° CARTA DE FIANÇA PARA OPERAÇÕES A TERMO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:900 |
-| 1994-05-27 | 19 | Reg. 327/94 | MANNESMANN S.A. - RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:917 |
-| 1994-05-27 | 19 | Reg. 357/94 | REFORMULAÇÃO DA INSTRUÇÃO CVM 82/92 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:931 |
-| 1994-05-27 | 19 | Reg. 028/93 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 33/84 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:939 |
-| 1994-05-23 | — | — | MINUTA DE INSTRUÇÃO QUE ALTERA AS INSTRUÇÕES CVM N- 91, DE 06/12/88, N- 148, DE 03/07/91, N° 153… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:956 |
-| 1994-05-17 | 18 | Reg. 317/94 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 185/92 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:968 |
-| 1994-05-17 | 18 | — | LEILÃO DA ESCELSA | ../../../../../julgados/cvm/decisoes-antigas/1994.md:995 |
-| 1994-05-10 | 17 | Reg. 318/94 | [pessoa física] – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1017 |
-| 1994-05-10 | 17 | Reg. 161/93 | CLUBE DE INVESTIMENTO SATELITE BB – RECURSO CONTRA DECISÃO DO SMI | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1033 |
-| 1994-05-10 | 17 | — | PROPOSTAS DE ARTIGO PARA CONVERSÃO DAS DEMONSTRAÇÕES CONTÁBEIS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1047 |
-| 1994-05-06 | 16 | — | PROCESSO DE ABERTURA DE CAPITAL - GAZETA MERCANTIL | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1065 |
-| 1994-05-06 | 16 | — | FUNDO IMOBILIÁRIO - BANCO NACIONAL - PROCESSO DE REGISTRO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1077 |
-| 1994-05-06 | 16 | — | DEBÊNTURES - COMUNICADO-CONJUNTO CVM/BACEN | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1090 |
-| 1994-05-06 | 16 | — | NOTAS PROMISSÓRIAS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1095 |
-| 1994-04-29 | 15 | Reg. 310/94 | TELEBRÁS – CORREÇÃO MONETÁRIA DA BASE DE CÁLCULO DOS DIVIDENDOS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1118 |
-| 1994-04-29 | 15 | Reg. 244/94 | WALL STREET DTVM LTDA. – RECURSO CONTRA DECISÃO DA BM&F | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1126 |
-| 1994-04-29 | 15 | Reg. 315/94 | MINUTA DE INSTRUÇÃO SOBRE CERTIFICADOS DE OPÇÕES ("WARRANTS") | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1144 |
-| 1994-04-29 | 15 | Reg. 287/94 | CONVÊNIO CVM/BNDES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1156 |
-| 1994-04-12 | 14 | Reg. 310/94 | DIVIDENDOS DE TELEBRÁS – RECLAMAÇÃO DE INVESTIDOR | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1172 |
-| 1994-04-12 | 14 | Reg. 204/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A DISPENSA OU CANCELAMENTO DE REGISTRO DAS SOCIEDADES… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1179 |
-| 1994-04-12 | 14 | — | EXTAPAUTA 3: CONSULTA DA BOLSA DE VALORES DE SÃO PAULO – MODELO DE LEILÃO APRESENTADO PELA | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1203 |
-| 1994-04-07 | 13 | Reg. 055/93 | FOCHI HOLDING B.V. - RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1222 |
-| 1994-04-07 | 13 | Reg. 203/93 | CIMENTO CAUÊ S.A. - RECURSO CONTRA DECISÃO DO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1265 |
-| 1994-03-22 | 11 | — | ATUALIZAÇÃO MONETÁRIA DE DEBÊNTURES EM URV | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1302 |
-| 1994-03-22 | 11 | Reg. 150/93 | COBRASMA – REFORMULAÇÃO DE DECISÃO DO COLEGIADO CONSIDERANDO-SE A REPACTUAÇÃO DO DÉBTIO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1337 |
-| 1994-03-22 | 11 | Reg. 287/94 | CONVÊNIO ENTRE A CVM E O BNDES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1347 |
-| 1994-03-15 | 10 | Reg. 224/94 | INSTRUÇÃO SOBRE FUNDOS MÚTUOS DE INVESTIMENTO EM EMPRESAS EMERGENTES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1363 |
-| 1994-03-15 | 10 | Reg. 280/94 | PARECER SOBRE EFEITOS FISCAIS – TRIBUTÁRIOS DECORRENTES DE ALIENAÇÕES DE PARTICIPAÇÕES SOCIETÁRIAS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1369 |
-| 1994-03-15 | 10 | — | VOTO CONJUNTO CVM/BACEN – RESOLUÇÃO QUE AUTORIZA A NEGOCIAÇÃO DE CONTRATOS DE LIQUIDAÇÃO FUTURA… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1376 |
-| 1994-03-11 | 09 | Reg. 266/94 | CIA GERBUR DE HOTELARIA – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1389 |
-| 1994-03-01 | 08 | Reg. 233/94 | POLIALDEN PETROQUÍMICA S.A. – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1414 |
-| 1994-03-01 | 08 | Reg. 234/94 | CIQUINE CIA. PETROQUÍMICA – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1420 |
-| 1994-02-22 | 07 | Reg. 262/94 | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A CONTABILIZAÇÃO DA CONTRIBUIÇÃO PARA FINANCIAMENTO DA… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1438 |
-| 1994-02-22 | 07 | Reg. 226/94 | MINUTA DE NOTA EXPLICATIVA À INSTRUÇÃO CVM Nº 204, DE 07.12.93 | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1446 |
-| 1994-02-22 | 07 | Reg. 267/94 | RECURSO CONTRA DECISÃO DA SNC – CIA. ENERGÉTICA DE SÃO PAULO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1453 |
-| 1994-02-08 | 06 | Reg. 252/94 | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A AVALIAÇÃO, PELAS COMPANHIAS ABERTAS, DOS TÍTULOS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1474 |
-| 1994-02-08 | 06 | Reg. 255/94 | TAXA DE FISCALIZAÇÃO DO FUNDO IMOBILIÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1496 |
-| 1994-02-07 | — | Reg. 253/94 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE A EMISSÃO E DISTRIBUIÇÃO DE CERTIFICADOS DE INVESTIMENTO PARA… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1523 |
-| 1994-02-01 | 05 | Reg. 029/93 | REFORMULAÇÃO DA INSTRUÇÃO CVM Nº 02/78, QUE DISPÕE SOBRE O REGIME DAS PUBLICAÇÕES ORDENADAS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1538 |
-| 1994-01-27 | 04 | Reg. 246/94 | PROPOSTA DE TRANSAÇÃO PARA POR FIM AOS LITÍGIOS – TAXA DE FISCALIZAÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1556 |
-| 1994-01-27 | 04 | Reg. 239/94 | PARECER DE ORIENTAÇÃO SOBRE PROCEDIMENTOS A SEREM OBSERVADOS PELAS COMPANHIAS ABERTAS NA ELABORAÇÃO… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1566 |
-| 1994-01-27 | 04 | Reg. 245/94 | MINUTA DE DELIBERAÇÃO QUE DISPÕE SOBRE A CRIAÇÃO DA COMISSÃO CONSULTIVA SOBRE POLÍTICA DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1574 |
-| 1994-01-27 | 04 | — | PEDIDO DO BNDES PARA REGISTRO DE LANÇAMENTO DE OPÇÕES CAMBIAIS DA PETROBRÁS | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1588 |
-| 1994-01-20 | 03 | Reg. 240/94 | REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS DA PETROQUISA S.A. | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1608 |
-| 1994-01-20 | 03 | Reg. 219/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O MERCADO DE BALCÃO ORGANIZADO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1661 |
-| 1994-01-20 | 03 | Reg. 238/94 | ANÁLISE SOBRE EMISSÃO DE CÉDULAS PIGNORATÍCIAS DE DEBÊNTURES | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1669 |
-| 1994-01-14 | 02 | Reg. 137/93 | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE O CÓDIGO OPERACIONAL PARA INVESTIDORES INSTITUCIONAIS… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1687 |
-| 1994-01-14 | 02 | Reg. 224/93 | MINUTA DE CAPÍTULO SOBRE FUNDO MÚTUO DE INVESTIMENTO EM EMPRESAS EMERGENTES A SER INCLUÍDO NA… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1697 |
-| 1994-01-14 | 02 | Reg. 084/93 | MINUTAS DE INSTRUÇÕES E NOTA EXPLICATIVA SOBRE FUNDOS DE INVESTIMENTO IMOBILIÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1705 |
-| 1994-01-04 | 01 | Reg. 225/93 | MINUTA DE RESOLUÇÃO CMN E RESPECTIVO VOTO DISPONDO SOBRE AS CONTRIBUIÇÕES DEVIDAS ÀS BOLSAS DE… | ../../../../../julgados/cvm/decisoes-antigas/1994.md:1727 |
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1996-09-26 | 92/1721-5 | cvm-dec-1994-0109 | fichas/decisoes-antigas/1994-06.md |
+| 1996-09-26 | 95/4591 | cvm-dec-1994-0110 | fichas/decisoes-antigas/1994-06.md |
+| 1996-09-26 | 96/1878 | cvm-dec-1994-0111 | fichas/decisoes-antigas/1994-06.md |
+| 1996-06-07 | — | cvm-dec-1994-0127 | fichas/decisoes-antigas/1994-05.md |
+| 1996-06-07 | 95/4591 | cvm-dec-1994-0128 | fichas/decisoes-antigas/1994-05.md |
+| 1996-06-07 | — | cvm-dec-1994-0129 | fichas/decisoes-antigas/1994-06.md |
+| 1996-03-22 | 95/2643 | cvm-dec-1994-0117 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 95/4591 | cvm-dec-1994-0118 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | — | cvm-dec-1994-0119 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 96/0455 | cvm-dec-1994-0120 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 91/1484-0 | cvm-dec-1994-0121 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 91/0238-8 | cvm-dec-1994-0122 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 91/1640-0 | cvm-dec-1994-0123 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 91/1566-8 | cvm-dec-1994-0124 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | 92/1330-9 | cvm-dec-1994-0125 | fichas/decisoes-antigas/1994-05.md |
+| 1996-03-22 | — | cvm-dec-1994-0126 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-23 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-23 | — | cvm-dec-1994-0002 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-20 | — | cvm-dec-1994-0003 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-16 | — | cvm-dec-1994-0004 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-16 | 94/2105 | cvm-dec-1994-0005 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-16 | — | cvm-dec-1994-0006 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-08 | — | cvm-dec-1994-0007 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-08 | — | cvm-dec-1994-0008 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-08 | — | cvm-dec-1994-0009 | fichas/decisoes-antigas/1994-05.md |
+| 1994-12-08 | — | cvm-dec-1994-0010 | fichas/decisoes-antigas/1994-05.md |
+| 1994-11-24 | — | cvm-dec-1994-0011 | fichas/decisoes-antigas/1994-05.md |
+| 1994-11-24 | 93/0572 | cvm-dec-1994-0012 | fichas/decisoes-antigas/1994-05.md |
+| 1994-11-10 | — | cvm-dec-1994-0013 | fichas/decisoes-antigas/1994-05.md |
+| 1994-11-03 | — | cvm-dec-1994-0014 | fichas/decisoes-antigas/1994-04.md |
+| 1994-11-03 | — | cvm-dec-1994-0015 | fichas/decisoes-antigas/1994-04.md |
+| 1994-11-03 | — | cvm-dec-1994-0016 | fichas/decisoes-antigas/1994-05.md |
+| 1994-10-21 | — | cvm-dec-1994-0017 | fichas/decisoes-antigas/1994-04.md |
+| 1994-10-13 | — | cvm-dec-1994-0018 | fichas/decisoes-antigas/1994-04.md |
+| 1994-10-13 | — | cvm-dec-1994-0019 | fichas/decisoes-antigas/1994-04.md |
+| 1994-10-11 | 94/1226 | cvm-dec-1994-0020 | fichas/decisoes-antigas/1994-04.md |
+| 1994-10-06 | — | cvm-dec-1994-0021 | fichas/decisoes-antigas/1994-04.md |
+| 1994-10-06 | — | cvm-dec-1994-0022 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-30 | — | cvm-dec-1994-0023 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-30 | — | cvm-dec-1994-0024 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-30 | — | cvm-dec-1994-0025 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-22 | — | cvm-dec-1994-0026 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-22 | — | cvm-dec-1994-0027 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-15 | — | cvm-dec-1994-0028 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-15 | — | cvm-dec-1994-0029 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-15 | — | cvm-dec-1994-0030 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-01 | — | cvm-dec-1994-0031 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-01 | — | cvm-dec-1994-0032 | fichas/decisoes-antigas/1994-04.md |
+| 1994-09-01 | — | cvm-dec-1994-0033 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-16 | — | cvm-dec-1994-0034 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-12 | — | cvm-dec-1994-0035 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-12 | — | cvm-dec-1994-0036 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-05 | — | cvm-dec-1994-0037 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-02 | — | cvm-dec-1994-0038 | fichas/decisoes-antigas/1994-04.md |
+| 1994-08-02 | — | cvm-dec-1994-0039 | fichas/decisoes-antigas/1994-04.md |
+| 1994-07-12 | — | cvm-dec-1994-0040 | fichas/decisoes-antigas/1994-04.md |
+| 1994-07-05 | — | cvm-dec-1994-0041 | fichas/decisoes-antigas/1994-03.md |
+| 1994-07-05 | — | cvm-dec-1994-0042 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-27 | — | cvm-dec-1994-0043 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-27 | — | cvm-dec-1994-0044 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-27 | — | cvm-dec-1994-0045 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-27 | — | cvm-dec-1994-0046 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-17 | — | cvm-dec-1994-0047 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-17 | — | cvm-dec-1994-0048 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-17 | — | cvm-dec-1994-0049 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-08 | — | cvm-dec-1994-0050 | fichas/decisoes-antigas/1994-03.md |
+| 1994-06-08 | — | cvm-dec-1994-0051 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-31 | — | cvm-dec-1994-0052 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-31 | — | cvm-dec-1994-0053 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-31 | — | cvm-dec-1994-0054 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-31 | — | cvm-dec-1994-0055 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-27 | — | cvm-dec-1994-0056 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-27 | — | cvm-dec-1994-0057 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-27 | — | cvm-dec-1994-0058 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-23 | — | cvm-dec-1994-0059 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-17 | — | cvm-dec-1994-0060 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-17 | — | cvm-dec-1994-0061 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-17 | — | cvm-dec-1994-0062 | fichas/decisoes-antigas/1994-03.md |
+| 1994-05-10 | — | cvm-dec-1994-0063 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-10 | — | cvm-dec-1994-0064 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-10 | — | cvm-dec-1994-0065 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-06 | — | cvm-dec-1994-0066 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-06 | — | cvm-dec-1994-0067 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-06 | — | cvm-dec-1994-0068 | fichas/decisoes-antigas/1994-02.md |
+| 1994-05-06 | — | cvm-dec-1994-0069 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-29 | — | cvm-dec-1994-0070 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-29 | — | cvm-dec-1994-0071 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-29 | — | cvm-dec-1994-0072 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-29 | — | cvm-dec-1994-0073 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-12 | — | cvm-dec-1994-0074 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-12 | — | cvm-dec-1994-0075 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-12 | — | cvm-dec-1994-0076 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-12 | — | cvm-dec-1994-0077 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-07 | — | cvm-dec-1994-0078 | fichas/decisoes-antigas/1994-02.md |
+| 1994-04-07 | — | cvm-dec-1994-0079 | fichas/decisoes-antigas/1994-02.md |
+| 1994-03-22 | — | cvm-dec-1994-0080 | fichas/decisoes-antigas/1994-02.md |
+| 1994-03-22 | — | cvm-dec-1994-0081 | fichas/decisoes-antigas/1994-02.md |
+| 1994-03-22 | — | cvm-dec-1994-0082 | fichas/decisoes-antigas/1994-02.md |
+| 1994-03-15 | — | cvm-dec-1994-0083 | fichas/decisoes-antigas/1994-01.md |
+| 1994-03-15 | — | cvm-dec-1994-0084 | fichas/decisoes-antigas/1994-01.md |
+| 1994-03-15 | — | cvm-dec-1994-0085 | fichas/decisoes-antigas/1994-02.md |
+| 1994-03-11 | — | cvm-dec-1994-0086 | fichas/decisoes-antigas/1994-01.md |
+| 1994-03-01 | — | cvm-dec-1994-0087 | fichas/decisoes-antigas/1994-01.md |
+| 1994-03-01 | — | cvm-dec-1994-0088 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-22 | — | cvm-dec-1994-0089 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-22 | — | cvm-dec-1994-0090 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-22 | — | cvm-dec-1994-0091 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-08 | — | cvm-dec-1994-0092 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-08 | — | cvm-dec-1994-0093 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-07 | — | cvm-dec-1994-0094 | fichas/decisoes-antigas/1994-01.md |
+| 1994-02-01 | — | cvm-dec-1994-0095 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-27 | — | cvm-dec-1994-0096 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-27 | — | cvm-dec-1994-0097 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-27 | — | cvm-dec-1994-0098 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-27 | — | cvm-dec-1994-0099 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-27 | — | cvm-dec-1994-0100 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-20 | — | cvm-dec-1994-0101 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-20 | — | cvm-dec-1994-0102 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-20 | — | cvm-dec-1994-0103 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-14 | — | cvm-dec-1994-0104 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-14 | — | cvm-dec-1994-0105 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-14 | — | cvm-dec-1994-0106 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-14 | — | cvm-dec-1994-0107 | fichas/decisoes-antigas/1994-01.md |
+| 1994-01-04 | — | cvm-dec-1994-0108 | fichas/decisoes-antigas/1994-01.md |
+| 1993-09-14 | — | cvm-dec-1994-0112 | fichas/decisoes-antigas/1994-01.md |
+| 1993-09-14 | — | cvm-dec-1994-0113 | fichas/decisoes-antigas/1994-01.md |
+| 1993-09-14 | — | cvm-dec-1994-0114 | fichas/decisoes-antigas/1994-01.md |
+| 1993-09-14 | — | cvm-dec-1994-0115 | fichas/decisoes-antigas/1994-01.md |
+| 1993-09-14 | — | cvm-dec-1994-0116 | fichas/decisoes-antigas/1994-01.md |
 
 Fim do subíndice.

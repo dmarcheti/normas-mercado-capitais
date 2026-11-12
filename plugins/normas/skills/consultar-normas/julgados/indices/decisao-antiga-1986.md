@@ -3,200 +3,212 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1986-12-22 | 61 | — | DISPENSA DE CONTRAPARTIDA DE RECURSOS EXTERNOS – BANCO IOCHPE DE INVESTIMENTO S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:42 |
-| 1986-12-22 | 61 | — | ALTERAÇÃO DA INSTRUÇÃO CVM N° 40/84 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:49 |
-| 1986-12-22 | 61 | — | RECURSO CONTRA DECISÃO DA BOVESPA - PLANIBANC – APROVAÇÃO DO REGISTRO DE [pessoa física] PARA… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:59 |
-| 1986-12-22 | 61 | — | CREDENCIAMENTO DO BANCO MERIDIONAL S/A PARA PRESTAÇÃO DE SERVIÇO DE AÇÕES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:68 |
-| 1986-12-22 | 61 | — | RECURSO CONTRA INDEFERIMENTO DE REGISTRO DE AUDITOR INDEPENDENTE – PESSOA FÍSICA – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1986.md:75 |
-| 1986-12-17 | 60 | — | ATUALIZAÇÃO DE VALORES DAS DEMONSTRAÇÕES FINANCEIRAS DAS COMPANHIAS ABERTAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:92 |
-| 1986-12-17 | 60 | — | SOCIEDADES DE ARRENDAMENTO MERCANTIL | ../../../../../julgados/cvm/decisoes-antigas/1986.md:97 |
-| 1986-12-08 | 59 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:113 |
-| 1986-12-08 | 59 | — | RICASA – CONTRATAÇÃO DE AUDITOR INDEPENDENTE | ../../../../../julgados/cvm/decisoes-antigas/1986.md:120 |
-| 1986-12-01 | 58 | — | INSTRUÇÃO SOBRE VALOR NOMINAL MÍNIMO, GRUPAMENTO DE AÇÕES E PADRONIZAÇÃO DE CERTIFICADOS DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:138 |
-| 1986-12-01 | 58 | — | TRANSFERÊNCIA DE CONTROLE – FONTE CCV | ../../../../../julgados/cvm/decisoes-antigas/1986.md:146 |
-| 1986-12-01 | 58 | — | TRANSFERÊNCIA DE CONTROLE – FNC CTVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:154 |
-| 1986-12-01 | 58 | — | RECLAMAÇÃO AO FUNDO DE GARANTIA DA BOLSA DE VALORES BAHIA-SERGIPE-ALAGOAS – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1986.md:162 |
-| 1986-12-01 | 58 | — | PAIT – PLANOS DE POUPANÇA E INVESTIMENTO – CREDENCIAMENTO DE ADMINISTRADORES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:176 |
-| 1986-12-01 | 58 | — | INSTRUÇÃO SOBRE CONTABILIZAÇÃO DAS COMPANHIAS ABERTAS QUE EXPLORAM ATIVIDADES DE ARRENDAMENTO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:184 |
-| 1986-11-25 | 57 | — | CONSTITUIÇÃO DE CORRETORA – STAF CCVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:199 |
-| 1986-11-25 | 57 | — | TRANSFERÊNCIA DE CONTROLE – DELFIM ARAUJO S/A CVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:207 |
-| 1986-11-25 | 57 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DO SMI – CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:215 |
-| 1986-11-19 | 56 | — | PEDIDO DE RECONSIDERAÇÃO DA BVRJ – LEILÃO DE VALORES MOBILIÁRIOS EMITIDOS POR COMPANHIAS NÃO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:233 |
-| 1986-11-19 | 56 | — | TRANSFERÊNCIA DE CONTROLE – TIBAGI CCVM S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:244 |
-| 1986-11-19 | 56 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA DE VALORES DE SÃO PAULO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:252 |
-| 1986-11-19 | 56 | — | TRANSFERÊNCIA DE CONTROLE – ATTUAL CCTVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:260 |
-| 1986-11-19 | 56 | — | COBRANÇA DA TAXA DE ADMINISTRAÇÃO DO FUNDO DE GARANTIA PELAS BOLSAS DE VALORES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:268 |
-| 1986-11-19 | 56 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DO SMI – CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:276 |
-| 1986-11-19 | 56 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA DE VALORES DE SÃO PAULO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:283 |
-| 1986-11-19 | 56 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA DE VALORES DE SÃO PAULO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:291 |
-| 1986-11-19 | 56 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DA SMI – CREDENCIAMENTO DE CARTEIRA DE CLUBE DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:299 |
-| 1986-11-17 | 55 | — | BMF – LIMITES OPERACIONAIS POR COMITENTES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:315 |
-| 1986-11-17 | 55 | — | CLASSE POSIÇÃO EM ABERTO DO MÊS DE ENTREGA VOLUME MÉDIO POR 05 DIAS CONSECUTIVOS POR MÊS DE ENTREGA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:324 |
-| 1986-11-17 | 55 | — | LIMITE PERCENTUAL DA POSIÇÃO EM ABERTO DO COMITENTE | ../../../../../julgados/cvm/decisoes-antigas/1986.md:328 |
-| 1986-11-10 | 54 | — | REGULAMENTO DE OPÇÕES DAS BOLSAS DO RIO DE JANEIRO E DE SÃO PAULO – PEDIDO DE RECONSIDERAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:368 |
-| 1986-11-05 | 53 | — | OPERAÇÕES COM 4.097.000.000 AÇÕES ON DE MANASA, NO PREGÃO DA BOVESPA EM 31.10.86 – RECURSO CONTRA… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:385 |
-| 1986-11-03 | 52 | — | FAROL S/A – RECURSO CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:404 |
-| 1986-11-03 | 52 | — | OPERAÇÕES COM AÇÕES ON DE MANASA, NO PREGÃO DA BOVESPA EM 31.10.86 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:413 |
-| 1986-10-28 | 51 | — | MERCADO FUTURO DE ÍNDICE BBF – LIMITES OPERACIONAIS POR COMITENTE | ../../../../../julgados/cvm/decisoes-antigas/1986.md:441 |
-| 1986-10-28 | 51 | — | RECURSO DA COEST CONTRA DETERMINAÇÃO DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:452 |
-| 1986-10-28 | 51 | — | RECURSO DE [pessoa física] CONTRA DETERMINAÇÃO DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:460 |
-| 1986-10-22 | 50 | — | PLEITO DA EUCATEX S/A PARA DISTRIBUIÇÃO DE AÇÕES AOS FUNCIONÁRIOS AO ENSEJO DO 35° ANIVERSÁRIO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:476 |
-| 1986-10-22 | 50 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA DE VALORES BAHIA- SERGIPE-ALAGOAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:492 |
-| 1986-10-22 | 50 | — | RECURSO CONTRA DETERMINAÇÃO DE REAPRESENTAÇÃO DE ITR – BANCO BRASILEIRO DE DESCONTOS S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:500 |
-| 1986-10-22 | 50 | — | RECURSO CONTRA DETERMINAÇÃO DE REAPRESENTAÇÃO DE ITR – BANCO ITAÚ S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:509 |
-| 1986-10-15 | 49 | — | OPERAÇÕES DE EXERCÍCIO DE OPÇÃO DE COMPRA DE AÇÕES PP DA VARIG S/A NA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:526 |
-| 1986-10-14 | 48 | — | OPERAÇÕES DE EXERCÍCIO DE OPÇÃO DE COMPRA DE AÇÕES PP DA VARIG S/A NA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:544 |
-| 1986-10-13 | 47 | — | AUDIÊNCIA PÚBLICA SOBRE OPERAÇÕES SUJEITAS A PRÉVIO REGISTRO DE DISTRIBUIÇÃO PÚBLICA NÃO PREVISTAS… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:560 |
-| 1986-10-13 | 47 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:567 |
-| 1986-10-13 | 47 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:575 |
-| 1986-10-13 | 47 | — | NEGOCIAÇÕES COM TRORION S/A NA BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:593 |
-| 1986-10-13 | 47 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:601 |
-| 1986-10-13 | 47 | — | CANCELAMENTO DE REGISTRO – ALTERAÇÃO DA INSTRUÇÃO CVM N° 03/78 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:610 |
-| 1986-10-06 | 46 | — | RECURSO DA BOLSA DE VALORES BAHIA – SERGIPE – ALAGOAS CONTRA DECISÃO DENEGATÓRIA DO SMI À INDICAÇÃO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:631 |
-| 1986-10-06 | 46 | — | TRANSFERÊNCIA DE CONTROLE – BAÚ CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:638 |
-| 1986-10-06 | 46 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:646 |
-| 1986-10-06 | 46 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA BAHIA – SERGIPE – ALAGOAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:654 |
-| 1986-09-29 | 45 | — | [pessoa física] – CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE CLUBE DE INVESTIMENTO E ANALISTA… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:671 |
-| 1986-09-29 | 45 | — | FINANCIAMENTO DE OPERAÇÕES A TERMO EM QUE OS PREÇOS À VISTA SÃO SUPERIORES AOS DE MERCADO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:681 |
-| 1986-09-29 | 45 | — | REVOGAÇÃO DE DECISÃO DO COLEGIADO – ARTEFATOS DE PAPEL DO NORDESTE S/A – ARTEPE – REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:689 |
-| 1986-09-29 | 45 | — | DISMAC INDUSTRIAL S/A – RECURSO CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:699 |
-| 1986-09-29 | 45 | — | ZANINI S.A. – SOLICITAÇÃO PARA REPUBLICAR AS DEMONSTRAÇÕES FINANCEIRAS DE 31.12.85 JUNTAMENTE COM… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:715 |
-| 1986-09-23 | 44 | — | TRANSFERÊNCIA DE CONTROLE – JPW CORRETORA DE CÃMBIO, TÍTULOS E VALORES MOBILIÁRIOS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:731 |
-| 1986-09-23 | 44 | — | CONSTITUIÇÃO DE CORRETORA – ESTRELA CVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:739 |
-| 1986-09-23 | 44 | — | FUNDOS FISCAIS DE INVESTIMENTO – DL 157/67 – FIXAÇÃO DE DATA-BASE PARA RESGATE DE COTAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:746 |
-| 1986-09-15 | 43 | — | PROCEDIMENTOS A SEREM OBSERVADOS PELAS COMPANHIAS ABERTAS NA ELABORAÇÃO DAS DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:761 |
-| 1986-09-10 | 42 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOLSA DE VALORES REGIONAL | ../../../../../julgados/cvm/decisoes-antigas/1986.md:774 |
-| 1986-09-10 | 42 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DA SMI – CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:783 |
-| 1986-09-10 | 42 | — | CONSTITUIÇÃO DE SOCIEDADE CORRETORA – SÍMBOLO CCVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:794 |
-| 1986-09-10 | 42 | — | RECURSO DO BANCO BOAVISTA S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:803 |
-| 1986-09-10 | 42 | — | RECURSO DO BAMERINDUS S/A ADMINISTRAÇÃO E SERVIÇOS CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:815 |
-| 1986-09-10 | 42 | — | RECURSO DE ANTONI S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:823 |
-| 1986-09-10 | 42 | — | CIA. MARCOPOLO DE PARTICIPAÇÕES – PEDIDO DE RECONSIDERAÇÃO DE OBRIGATORIEDADE DE DIVULGAÇÃO DAS… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:831 |
-| 1986-08-26 | 41 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DA SMI – CREDENCIAMENTO DE ADMINISTRADOR DE CARTEIRA DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:848 |
-| 1986-08-26 | 41 | — | RECURSO DA BOLSA DE VALORES BAHIA-SERGIPE-ALAGOAS CONTRA DECISÃO DENEGATÓRIA DA SMI À INDICAÇÃO DO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:856 |
-| 1986-08-26 | 41 | — | RECURSO DA ZANINI S/A EQUIPAMENTOS PESADOS CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:864 |
-| 1986-08-26 | 41 | — | RECURSO DO BANCO BAMERINDUS DO BRASIL S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:873 |
-| 1986-08-26 | 41 | — | RECURSO DO BANCO BANDEIRANTES S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:881 |
-| 1986-08-26 | 41 | — | RECURSO DO BANCO REAL S/A CONTRA DETERMINÇÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:890 |
-| 1986-08-18 | 40 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BOVESPA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:906 |
-| 1986-08-18 | 40 | — | REALIZAÇÃO DE LEILÃO EM BOLSA SEM POSSIBILIDADE DE INTERFERÊNCIA DO MERCADO – CONSULTA DA BVES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:916 |
-| 1986-08-18 | 40 | — | RECLAMAÇÃO DE [pessoa física] AO FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:929 |
-| 1986-08-11 | 39 | — | MINUTA DE RESOLUÇÃO SOBRE UTILIZAÇÃO DE CHANCELA MECÂNICA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:952 |
-| 1986-08-11 | 39 | — | RECURSO DE HOTÉIS OTHON S/A CONTRA DECISÃO DA SEP DE REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:960 |
-| 1986-08-11 | 39 | — | RECURSO DA CIA. DE SEGUROS AMÉRICA DO SUL – YASUDA – CONTRA DECISÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:967 |
-| 1986-08-11 | 39 | — | RECURSO DA CITROBRASIL S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:975 |
-| 1986-08-11 | 39 | — | CONSTITUIÇÃO DA INTERMARIS CORRETORA DE CÂMBIO E VALORES LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:983 |
-| 1986-08-11 | 39 | — | RECURSO DA BOLSA E VALORES DE SANTOS CONTRA DECISÃO DA SMI | ../../../../../julgados/cvm/decisoes-antigas/1986.md:992 |
-| 1986-08-11 | 39 | — | RECURSO DA COBANSA S/A CCTVM CONTRA DECISÃO DA BVRJ EM PROCESSO REFERENTE A FUNDO DE GARANTIA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1000 |
-| 1986-08-04 | 38 | — | RECURSO DO RIO OTHON PALACE HOTEL S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE DEMOSNTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1041 |
-| 1986-08-04 | 38 | — | RECURSO DE ITAPIRUBÁ HOTÉIS E TURISMO S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAR DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1049 |
-| 1986-08-04 | 38 | — | RECURSO DE INDÚSTRIAS MINERVA S/A CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1059 |
-| 1986-08-04 | 38 | — | RECURSO DA [pessoa física] CAPITALIZAÇÃO S/A CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1068 |
-| 1986-08-04 | 38 | — | RECURSO DA [pessoa física], MARÍTIMOS E ACIDENTES – CIA. DE SEGUROS – CONTRA DECISÃO DE REPUBLICAR… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1076 |
-| 1986-08-04 | 38 | — | RECURSO DA BOLSA DE VALORES REGIONAL – RECOLHIMENTO AO FUNDO DE GARANTIA DE PERCENTUAL RELATIVO À… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1084 |
-| 1986-08-04 | 38 | — | RECLAMAÇÃO DE [pessoa física] CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1093 |
-| 1986-08-04 | 38 | — | MINUTA DE INSTRUÇÃO SOBRE AS OPERAÇÕES SUJEITAS A PRÉVIO REGISTRO DE DISTRIBUIÇÃO PÚBLICA NÃO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1103 |
-| 1986-08-04 | 38 | — | RECURSO DA [pessoa física] COMPANHIA NACIONAL DE SEGUROS CONTRA DECISÃO DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1111 |
-| 1986-07-22 | 35 | — | RECURSO DA ELITE CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS LTDA. SOBRE OPERAÇÃO COM AÇÕES DA… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1158 |
-| 1986-07-15 | 34 | — | TRANSFERÊNCIA DE CONTROLE – DC CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1188 |
-| 1986-07-07 | 33 | — | ALTERAÇÃO DA RESOLUÇÃO CMN N° 922 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1205 |
-| 1986-07-07 | 33 | — | LIQUIDAÇÃO POR SALDOS NO MERCADO À VISTA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1213 |
-| 1986-07-07 | 33 | — | RECURSO CONTRA DECISÃO DO CONSELHO DE ADMINISTRAÇÃO DA BOVESPA – REGISTRO DE [pessoa física] PARA A… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1251 |
-| 1986-07-07 | 33 | — | CIA. AMÉRICA FABRIL – SOLICITAÇÃO DE DISPENSA DE PUBLICAÇÃO DO BALANÇO ESPECIAL DE 28.02.86 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1259 |
-| 1986-07-07 | 33 | — | VARIG S/A – RECURSO CONTRA DECISÃO DA SEP DE REALIZAÇÃO DE ASSEMBLÉIA ESPECIAL DE ACIONISTAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1267 |
-| 1986-07-01 | 32 | — | MINUTA DE INSTRUÇÃO QUE DISPÕE SOBRE OS PROCEDIMENTOS PARA ELABORAÇÃO E PUBLICAÇÃO DE DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1290 |
-| 1986-06-30 | 31 | — | CREDENCIAMENTO DE ADMINISTRADOR DE FUNDO DE INVESTIMENTO – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1304 |
-| 1986-06-30 | 31 | — | TRANSFERÊNCIA DE CONTROLE – JM CVC | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1311 |
-| 1986-06-30 | 31 | — | RECURSO DA MULTIPLIC LEASING S/A ARRENDAMENTO MERCANTIL CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAR… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1320 |
-| 1986-06-30 | 31 | — | RECURSO DA DATAMEC S/A CONTRA DETRMINAÇÃO DA SEP DE REPUBLICAR DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1327 |
-| 1986-06-30 | 31 | — | RECURSO DO UNIBANCO LEASING S/A ARRENDAMENTO MERCANTIL CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAR… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1336 |
-| 1986-06-30 | 31 | — | RECURSO DE NAKATA S/A IND. E COM. CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAR DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1344 |
-| 1986-06-30 | 31 | — | CLUBES DE INVESTIMENTOS – ALTERAÇÃO DA INSTRUÇÃO CVM N° 40/84 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1353 |
-| 1986-06-30 | 31 | — | NEGOCIAÇÃO COM RECIBOS DE SUBSCRIÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1360 |
-| 1986-06-24 | 30 | — | PLEITO DA APINVEST PARA LIBERAÇÃO DO LIMITE DE PARTICIPANTES EM SEU CLUBE DE INVESTIMENTOS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1388 |
-| 1986-06-24 | 30 | — | CONSTITUIÇÃO DA CRUZADO CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1403 |
-| 1986-06-24 | 30 | — | BOAVISTA S/A ARRENDAMENTO MERCANTIL – RECURSO CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1411 |
-| 1986-06-24 | 30 | — | ARTEFATOS DE PAPEL DO NORDESTE S/A – ARTEPE – RECURSO CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1421 |
-| 1986-06-24 | 30 | — | PEDIDO DE RECONSIDERAÇÃO DE DECISÃO DO COLEGIADO – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1430 |
-| 1986-06-24 | 30 | — | RECURSO DA CIA. PAULISTA DE LAMINAÇÃO S/A CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1437 |
-| 1986-06-24 | 30 | — | TRIBUTAÇÃO NOS MERCADOS A TERMO E FUTURO DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1445 |
-| 1986-06-17 | — | — | RECURSO DE ACIONISTAS DA MICROLAB S/A SOBRE IMPEDIMENTO DE REALIZAÇÃO DE LEILÃO DE DIREITOS DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1461 |
-| 1986-06-09 | 29 | — | NOROESTE CHEMICAL S/A LEASING, ARRENDAMENTO MERCANTIL – RECURSO CONTRA DETERMINAÇÃO DE REPUBLICAÇÃO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1483 |
-| 1986-06-09 | 29 | — | LEASING CIDADE DE SÃO PAULO S/A – RECURSO CONTRA DETERMINAÇÃO DE REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1494 |
-| 1986-06-09 | 29 | — | PROJETO DE LEI N° 5.558/81 – AÇÃO DE RECUPERAÇÃO DE TÍTULOS AO PORTADOR EMITIDOS POR COMPANHIAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1502 |
-| 1986-06-09 | 29 | — | FUNGIBILIDADE DAS AÇÕES NOMINATIVAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1510 |
-| 1986-06-02 | 28 | — | RECURSO DE [pessoa física] CONTRA DECISÃO DA SMI | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1536 |
-| 1986-06-02 | 28 | — | ATUAÇÃO DE PROFISSIONAIS LIGADOS A INVESTIDORES INSTITUCIONAIS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1544 |
-| 1986-06-02 | 28 | — | USO DE INFORMAÇÃO PRIVILEGIADA PELOS INTERMEDIÁRIOS FINANCEIROS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1553 |
-| 1986-06-02 | 28 | — | CETENCO ENG. S/A – RECURSO CONTRA DETERMINAÇÃO DE REPUBLICAÇÃO DE RELATÓRIO DE ADMINISTRAÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1570 |
-| 1986-05-29 | 27 | — | RECURSO DO SAFRA LEASING ARRENDAMENTO MERCANTIL CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1590 |
-| 1986-05-29 | 27 | — | RECURSO DO BMG LEASING S/A ARRENDAMENTO MERCANTIL CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1602 |
-| 1986-05-29 | 27 | — | RECURSO DA CIA. SIDERÚRGICA DE ALAGOAS – COMESA –CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1611 |
-| 1986-05-29 | 27 | — | RECURSO DO BANCO BRADESCO DE INVESTIMENTO CONTRA DETERMINAÇÃO DA SEP DE REPUBLICAÇÃO DE… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1620 |
-| 1986-05-29 | 27 | — | PROPOSTA DE VETOS AO ART. 1° DO PROJETO DE LEI SOBRE CRIMES FINANCEIROS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1627 |
-| 1986-05-29 | 27 | — | DELEGAÇÃO DE COMPETÊNCIA AO SNC PARA BAIXAR ATOS DECLARATÓRIOS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1640 |
-| 1986-05-22 | 26 | — | PARECER DE ORIENTAÇÃO SOBRE INTELIGÊNCIA DE DISPOSITIVOS DAS INSTRUÇÕES CVM N°S 48 E 50/86 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1657 |
-| 1986-05-19 | 25 | — | RECLAMAÇÃO DE [pessoa física] CONTRA SANTOS CCV S/A | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1673 |
-| 1986-05-19 | 25 | — | RECLAMAÇÃO DO INVESTIDOR [pessoa física] CONTRA CODESBRA S/A CTVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1684 |
-| 1986-05-19 | 25 | — | CREDENCIAMENTO DE ADMINISTRADOR DE FUNDO MÚTUO DE INVESTIMENTO – BANCO CREFISUL DE INVESTIMENTO S.A. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1692 |
-| 1986-05-19 | 25 | — | PEDIDO DE DISPENSA DE AUDITORIA E PUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS EXTRAORDINÁRIAS… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1700 |
-| 1986-05-19 | 25 | — | RECURSO DA TOKYO LEASING ARRENDAMENTO MERCANTIL CONTRA DECISÃO DA SEP DE DETERMINAR A REPUBLICAÇÃO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1713 |
-| 1986-05-19 | 25 | — | INDICAÇÃO DE [pessoa física] FILHO PARA ADMINISTRADOR DA CORRETORA CARIOCA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1721 |
-| 1986-05-05 | 24 | — | RECURSO DA FUJI ELECTRIC DO NORDESTE S.A. – FUJINOR – CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1737 |
-| 1986-05-05 | 24 | — | RECURSO DA BAMERINDUS S.A. FINANCIAMENTO, CRÉDITO E INVESTIMENTOS CONTRA DECISÃO DE REPUBLICAR… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1747 |
-| 1986-04-28 | 23 | — | RECURSO DA CIA. NACIONAL DE FRIGORÍFICOS – CONFRIO –CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1765 |
-| 1986-04-28 | 23 | — | RECURSO CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES FINANCEIRAS – LEASING BRADESCO S.A. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1774 |
-| 1986-04-28 | 23 | — | RECURSO DA BORLEM S/A – EMPREENDIMENTOS INDUSTRIAIS – CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1781 |
-| 1986-04-28 | 23 | — | CREDENCIAMENTO DE ADMINISTRADOR DE FUNDO MÚTUO DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1788 |
-| 1986-04-23 | 22 | — | DEMONSTRAÇÕES FINANCEIRAS DAS COMPANHIAS COM BALANÇOS ENCERRADOS EM 28.02.86 E 31.03.86. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1804 |
-| 1986-04-23 | 22 | — | RECURSO DA ELUMA S.A. INDÚSTRIA E COMÉRCIO CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1812 |
-| 1986-04-23 | 22 | — | REPUBLICAÇÃO DE DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1822 |
-| 1986-04-14 | 20 | — | RECURSO DA AMÉRICA DO SUL LEASING S/A ARRENDAMENTO MERCANTIL CONTRA DECISÃO DE REPUBLICAR… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1849 |
-| 1986-04-14 | 20 | — | RECURSO DE LOJAS BRASILEIRAS S.A. CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1860 |
-| 1986-04-14 | 20 | — | RECLAMAÇÃO CONTRA O FUNDO DE GARANTIA DA BVRJ – [pessoa física] CONTRA TAMOYO INVESTIMENTOS S.A… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1868 |
-| 1986-04-14 | 20 | — | VENDA DE AÇÕES DA PETROBRÁS PELA CORRETORA OMEGA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1875 |
-| 1986-04-14 | 20 | — | APROVAÇÃO NOMES DE DIRETORES DA FATOR S/A – CVC (ADMINISTRADOR INDICIADO EM I.A. 06/81 COM RECURSO… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1884 |
-| 1986-04-14 | 20 | — | TRANSFERÊNCIA DE CONTROLE – SPLIT S/A CCTVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1891 |
-| 1986-04-07 | 19 | — | APRECIAÇÃO DO RECURSO DA TRANSBRASIL S.A. –LINHAS AÉREAS – REPUBLICAÇÃO DE DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1909 |
-| 1986-04-07 | 19 | — | RECURSO DA BANDEIRANTES S.A. – ARRENDAMENTO MERCANTIL – CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES… | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1923 |
-| 1986-04-07 | 19 | — | RECURSO DE INDÚSTRIA DE MÁQUINAS AGRÍCOLAS FUCHS CONTRA DECISÃO DE REPUBLICAR DEMONSTRAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1931 |
-| 1986-03-31 | 18 | — | NEGOCIAÇÃO DE AÇÕES DA PETROBRÁS VENDIDAS PELO BANCO DO BRASIL | ../../../../../julgados/cvm/decisoes-antigas/1986.md:1990 |
-| 1986-03-31 | 18 | — | OFERTA PÚBLICA DE AÇÕES DA EDISA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2009 |
-| 1986-03-31 | 18 | — | TRANSFERÊNCIA DE CONTROLE DA METROPOLITANA CCVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2029 |
-| 1986-03-31 | 18 | — | RESGATE DE QUOTAS DOS FUNDOS FISCAIS CRIADOS PELO DECRETO-LEI N° 157 | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2036 |
-| 1986-03-24 | 17 | — | CONSTITUIÇÃO DA FARSOJA S/A – CCTVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2062 |
-| 1986-03-17 | 15 | — | REFORMA MONETÁRIA – DEMONSTRAÇÕES FINANCEIRAS, DIVIDENDOS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2095 |
-| 1986-03-17 | 15 | — | TRANSFERÊNCIA DE CONTROLE DA COCAP CCVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2100 |
-| 1986-03-17 | 15 | — | TRANSFERÊNCIA DE CONTROLE DA FONTE CCV | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2109 |
-| 1986-03-12 | 14 | — | LIQUIDAÇÕES DE OPERAÇÕES A TERMO E NO MERCADO DE OPÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2126 |
-| 1986-03-11 | 13 | — | CANCELAMENTO DE OPERAÇÕES COM AÇÕES DA PETROBRÁS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2144 |
-| 1986-03-11 | 12 | — | LIQUIDAÇÕES DE OPERAÇÕES A TERMO E NO MERCADO DE OPÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2164 |
-| 1986-03-04 | 11 | — | PARTICIPAÇÃO DE INVESTIDORES INSTITUCIONAIS NO MERCADO FUTURO DE ÍNDICES DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2184 |
-| 1986-03-04 | 11 | — | TRANSFERÊNCIA DE CONTROLE ACIONÁRIO DA NORTINVEST CCVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2192 |
-| 1986-03-04 | 11 | — | RECLAMAÇÃO DE [pessoa física] CONTRA EMBRACOR CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2200 |
-| 1986-03-04 | 11 | — | NORGRAF S/A IMPRESSOS ESPECIAIS DO NORDESTE | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2208 |
-| 1986-03-03 | 10 | — | ORIENTAÇÃO DA CVM ÀS BOLSAS DE VALORES COM REFERÊNCIA AO DISPOSTO NO DECRETO-LEI N° 2.283, ART. 9° | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2227 |
-| 1986-02-24 | 09 | — | RECURSO DA BORLEM S/A CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2253 |
-| 1986-02-17 | 08 | — | RECURSO DA [pessoa física]. COM S.A. CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2271 |
-| 1986-02-17 | 08 | — | LEI DE INFORMÁTICA – DISPENSA DE REGISTRO DE CIA ABERTA | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2280 |
-| 1986-02-03 | 07 | — | RECLAMAÇÃO DO INVESTIDOR [pessoa física] CONTRA CORRETORA PROGRESSO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2298 |
-| 1986-02-03 | 07 | — | RECURSO DA KIBON S.A. CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2306 |
-| 1986-02-03 | 07 | — | CARTA DA ABRASCA SOBRE CAPITALIZAÇÃO DA RESERVA DE REAVALIAÇÃO – REVOGAÇÃO DO § 2°, ART. 3° DO DL | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2315 |
-| 1986-02-03 | 07 | — | TRANSFERÊNCIA DE CONTROLE SOCIETÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2324 |
-| 1986-02-03 | 07 | — | PRONUNCIAMENTO IBRACON – DELIBERAÇÕES CVM | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2331 |
-| 1986-01-27 | 06 | — | RESGATE DE PARTES BENEFICIÁRIAS | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2357 |
-| 1986-01-27 | 06 | — | CANCELAMENTO DE REGISTRO DA ANSON S.A. ENGENHARIA, FUNDAÇÕES E RECUPERAÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2368 |
-| 1986-01-22 | 05 | — | TRANSFERÊNCIA DE CONTROLE – LAVRA CVC S.A. | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2393 |
-| 1986-01-22 | 05 | — | MERCADO FUTURO DE ÍNDICES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2403 |
-| 1986-01-22 | 05 | — | MARGEM EM MERCADOS A PRAZO | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2411 |
-| 1986-01-16 | 03 | — | NEGOCIAÇÃO A FUTURO DE ÍNDICES DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2484 |
-| 1986-01-16 | 03 | — | PLEITO DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2514 |
-| 1986-01-13 | 02 | — | RECLAMAÇÃO DO INVESTIDOR [pessoa física] CONTRA ITAÚ CVMC | ../../../../../julgados/cvm/decisoes-antigas/1986.md:2542 |
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1986-12-22 | — | cvm-dec-1986-0001 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-22 | — | cvm-dec-1986-0002 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-22 | — | cvm-dec-1986-0003 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-22 | — | cvm-dec-1986-0004 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-22 | — | cvm-dec-1986-0005 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-17 | — | cvm-dec-1986-0006 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-17 | — | cvm-dec-1986-0007 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-08 | — | cvm-dec-1986-0008 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-08 | — | cvm-dec-1986-0009 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0010 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0011 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0012 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0013 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0014 | fichas/decisoes-antigas/1986-07.md |
+| 1986-12-01 | — | cvm-dec-1986-0015 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-25 | — | cvm-dec-1986-0016 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-25 | — | cvm-dec-1986-0017 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-25 | — | cvm-dec-1986-0018 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-19 | — | cvm-dec-1986-0019 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-19 | — | cvm-dec-1986-0020 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-19 | — | cvm-dec-1986-0021 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-19 | — | cvm-dec-1986-0022 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-19 | — | cvm-dec-1986-0023 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-19 | — | cvm-dec-1986-0024 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-19 | — | cvm-dec-1986-0025 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-19 | — | cvm-dec-1986-0026 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-19 | — | cvm-dec-1986-0027 | fichas/decisoes-antigas/1986-07.md |
+| 1986-11-17 | — | cvm-dec-1986-0028 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-17 | — | cvm-dec-1986-0029 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-17 | — | cvm-dec-1986-0030 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-17 | — | cvm-dec-1986-0031 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-10 | — | cvm-dec-1986-0032 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-05 | — | cvm-dec-1986-0033 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-03 | — | cvm-dec-1986-0034 | fichas/decisoes-antigas/1986-06.md |
+| 1986-11-03 | — | cvm-dec-1986-0035 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-28 | — | cvm-dec-1986-0036 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-28 | — | cvm-dec-1986-0037 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-28 | — | cvm-dec-1986-0038 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-22 | — | cvm-dec-1986-0039 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-22 | — | cvm-dec-1986-0040 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-22 | — | cvm-dec-1986-0041 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-22 | — | cvm-dec-1986-0042 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-22 | — | cvm-dec-1986-0043 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-15 | — | cvm-dec-1986-0044 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-14 | — | cvm-dec-1986-0045 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0046 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0047 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0048 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0049 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0050 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-13 | — | cvm-dec-1986-0051 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-06 | — | cvm-dec-1986-0052 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-06 | — | cvm-dec-1986-0053 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-06 | — | cvm-dec-1986-0054 | fichas/decisoes-antigas/1986-06.md |
+| 1986-10-06 | — | cvm-dec-1986-0055 | fichas/decisoes-antigas/1986-06.md |
+| 1986-09-29 | — | cvm-dec-1986-0056 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-29 | — | cvm-dec-1986-0057 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-29 | — | cvm-dec-1986-0058 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-29 | — | cvm-dec-1986-0059 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-29 | — | cvm-dec-1986-0060 | fichas/decisoes-antigas/1986-06.md |
+| 1986-09-23 | — | cvm-dec-1986-0061 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-23 | — | cvm-dec-1986-0062 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-23 | — | cvm-dec-1986-0063 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-15 | — | cvm-dec-1986-0064 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0065 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0066 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0067 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0068 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0069 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0070 | fichas/decisoes-antigas/1986-05.md |
+| 1986-09-10 | — | cvm-dec-1986-0071 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0072 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0073 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0074 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0075 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0076 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-26 | — | cvm-dec-1986-0077 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-18 | — | cvm-dec-1986-0078 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-18 | — | cvm-dec-1986-0079 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-18 | — | cvm-dec-1986-0080 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-11 | — | cvm-dec-1986-0081 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-11 | — | cvm-dec-1986-0082 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-11 | — | cvm-dec-1986-0083 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-11 | — | cvm-dec-1986-0084 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-11 | — | cvm-dec-1986-0085 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-11 | — | cvm-dec-1986-0086 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-11 | — | cvm-dec-1986-0087 | fichas/decisoes-antigas/1986-05.md |
+| 1986-08-04 | — | cvm-dec-1986-0088 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0089 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0090 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0091 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0092 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0093 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0094 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0095 | fichas/decisoes-antigas/1986-04.md |
+| 1986-08-04 | — | cvm-dec-1986-0096 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-22 | — | cvm-dec-1986-0097 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-15 | — | cvm-dec-1986-0098 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-15 | — | cvm-dec-1986-0099 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0100 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0101 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0102 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0103 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0104 | fichas/decisoes-antigas/1986-04.md |
+| 1986-07-07 | — | cvm-dec-1986-0105 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0106 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0107 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0108 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0109 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0110 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0111 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0112 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-30 | — | cvm-dec-1986-0113 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-24 | — | cvm-dec-1986-0114 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0115 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0116 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0117 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0118 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0119 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-24 | — | cvm-dec-1986-0120 | fichas/decisoes-antigas/1986-04.md |
+| 1986-06-17 | — | cvm-dec-1986-0121 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-09 | — | cvm-dec-1986-0122 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-09 | — | cvm-dec-1986-0123 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-09 | — | cvm-dec-1986-0124 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-09 | — | cvm-dec-1986-0125 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-02 | — | cvm-dec-1986-0126 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-02 | — | cvm-dec-1986-0127 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-02 | — | cvm-dec-1986-0128 | fichas/decisoes-antigas/1986-03.md |
+| 1986-06-02 | — | cvm-dec-1986-0129 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0130 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0131 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0132 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0133 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0134 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-29 | — | cvm-dec-1986-0135 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-22 | — | cvm-dec-1986-0136 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0137 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0138 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0139 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0140 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0141 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-19 | — | cvm-dec-1986-0142 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-05 | — | cvm-dec-1986-0143 | fichas/decisoes-antigas/1986-03.md |
+| 1986-05-05 | — | cvm-dec-1986-0144 | fichas/decisoes-antigas/1986-03.md |
+| 1986-04-28 | — | cvm-dec-1986-0145 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-28 | — | cvm-dec-1986-0146 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-28 | — | cvm-dec-1986-0147 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-28 | — | cvm-dec-1986-0148 | fichas/decisoes-antigas/1986-03.md |
+| 1986-04-23 | — | cvm-dec-1986-0149 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-23 | — | cvm-dec-1986-0150 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-23 | — | cvm-dec-1986-0151 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0152 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0153 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0154 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0155 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0156 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0157 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-14 | — | cvm-dec-1986-0158 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-07 | — | cvm-dec-1986-0159 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-07 | — | cvm-dec-1986-0160 | fichas/decisoes-antigas/1986-02.md |
+| 1986-04-07 | — | cvm-dec-1986-0161 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-31 | — | cvm-dec-1986-0162 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-31 | — | cvm-dec-1986-0163 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-31 | — | cvm-dec-1986-0164 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-31 | — | cvm-dec-1986-0165 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-31 | — | cvm-dec-1986-0166 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-24 | — | cvm-dec-1986-0167 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-20 | — | cvm-dec-1986-0168 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-17 | — | cvm-dec-1986-0169 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-17 | — | cvm-dec-1986-0170 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-17 | — | cvm-dec-1986-0171 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-12 | — | cvm-dec-1986-0172 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-11 | — | cvm-dec-1986-0173 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-11 | — | cvm-dec-1986-0174 | fichas/decisoes-antigas/1986-02.md |
+| 1986-03-04 | — | cvm-dec-1986-0175 | fichas/decisoes-antigas/1986-01.md |
+| 1986-03-04 | — | cvm-dec-1986-0176 | fichas/decisoes-antigas/1986-01.md |
+| 1986-03-04 | — | cvm-dec-1986-0177 | fichas/decisoes-antigas/1986-01.md |
+| 1986-03-04 | — | cvm-dec-1986-0178 | fichas/decisoes-antigas/1986-01.md |
+| 1986-03-03 | — | cvm-dec-1986-0179 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-24 | — | cvm-dec-1986-0180 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-17 | — | cvm-dec-1986-0181 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-17 | — | cvm-dec-1986-0182 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-03 | — | cvm-dec-1986-0183 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-03 | — | cvm-dec-1986-0184 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-03 | — | cvm-dec-1986-0185 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-03 | — | cvm-dec-1986-0186 | fichas/decisoes-antigas/1986-01.md |
+| 1986-02-03 | — | cvm-dec-1986-0187 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-27 | — | cvm-dec-1986-0188 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-27 | — | cvm-dec-1986-0189 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-27 | — | cvm-dec-1986-0190 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-27 | — | cvm-dec-1986-0191 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-22 | — | cvm-dec-1986-0192 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-22 | — | cvm-dec-1986-0193 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-22 | — | cvm-dec-1986-0194 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-22 | — | cvm-dec-1986-0195 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-17 | — | cvm-dec-1986-0196 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-16 | — | cvm-dec-1986-0197 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-16 | — | cvm-dec-1986-0198 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-16 | — | cvm-dec-1986-0199 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-13 | — | cvm-dec-1986-0200 | fichas/decisoes-antigas/1986-01.md |
+| 1986-01-13 | — | cvm-dec-1986-0201 | fichas/decisoes-antigas/1986-01.md |
 
 Fim do subíndice.

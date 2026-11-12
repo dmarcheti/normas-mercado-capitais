@@ -3,46 +3,90 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1979-12-14 | — | — | REVISÃO DO VOTO MODIFICANDO A ESTRUTURA DOS CONSELHOS DAS BOLSAS E DE SEU QUADRO ADMINISTRATIVO | ../../../../../julgados/cvm/decisoes-antigas/1979.md:54 |
-| 1979-12-10 | — | — | AÇÃO DE RECUPERAÇÃO DE TÍTULOS AO PORTADOR | ../../../../../julgados/cvm/decisoes-antigas/1979.md:80 |
-| 1979-12-10 | — | — | CONSULTA BANCO LAR E OUTRAS SOBRE CONTRAPARTIDA EM MOEDA ESTRANGEIRA – APRESENTAR PROPOSIÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1979.md:95 |
-| 1979-11-01 | — | — | CONCESSÃO DE AUTORIZAÇÃO AO BANCO ITAÚ S.A. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:145 |
-| 1979-10-25 | — | — | DELIBERAÇÃO CVM Nº 7 - PROPOSIÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1979.md:184 |
-| 1979-10-25 | — | — | PEDIDO DE AUTORIZAÇÃO DA XAVIER CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:192 |
-| 1979-10-25 | — | — | CORRETORA LIGADA – PROPOSIÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1979.md:201 |
-| 1979-10-25 | — | — | POLÍTICA DE SUSPENSÃO DE NEGOCIAÇÕES EM BOLSA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:214 |
-| 1979-10-11 | — | — | DECISÃO DA BVSP NO CASO SORANA COMERCIAL S.A. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:247 |
-| 1979-10-08 | — | — | POLÍTICA DE COMUNICAÇÃO DE IRREGULARIDADES A ÓRGÃOS EXTERNOS À CVM | ../../../../../julgados/cvm/decisoes-antigas/1979.md:263 |
-| 1979-10-08 | — | — | TIPOS DE ORDEM | ../../../../../julgados/cvm/decisoes-antigas/1979.md:274 |
-| 1979-10-08 | — | — | PARECER DE ORIENTAÇÃO DA SEP SOBRE A ADEQUAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS DE COMPANHIAS | ../../../../../julgados/cvm/decisoes-antigas/1979.md:285 |
-| 1979-10-08 | — | — | DEFINIÇÃO DE MANIPULAÇÃO E PRÁTICA NÃO EQUITATIVA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:290 |
-| 1979-10-08 | — | — | CONFIGURAÇÃO DE MERCADO | ../../../../../julgados/cvm/decisoes-antigas/1979.md:303 |
-| 1979-10-08 | — | — | LOJAS BRASILEIRAS - LOBRAS | ../../../../../julgados/cvm/decisoes-antigas/1979.md:316 |
-| 1979-10-08 | — | — | EMISSÃO DE AÇÕES DA COMPANHIA PETROQUÍMICA DE CAMAÇARI | ../../../../../julgados/cvm/decisoes-antigas/1979.md:321 |
-| 1979-07-26 | — | — | AUTORIZAÇÃO PARA O EXERCÍCIO DE ATIVIDADE DE AGENTE EMISSOR E AÇÕES ESCRITURAIS – BANCO ITAÚ S.A. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:413 |
-| 1979-07-11 | — | — | HABITASUL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:442 |
-| 1979-06-07 | — | — | APLICAP CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:468 |
-| 1979-05-10 | — | — | COMUNICAÇÕES SGE | ../../../../../julgados/cvm/decisoes-antigas/1979.md:538 |
-| 1979-05-10 | — | — | SÃO PAULO ALPARGATAS S.A. | ../../../../../julgados/cvm/decisoes-antigas/1979.md:545 |
-| 1979-05-07 | — | — | PREVIDÊNCIA PRIVADA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:571 |
-| 1979-05-07 | — | — | REAJUSTE DAS TAXAS DE CORRETAGEM | ../../../../../julgados/cvm/decisoes-antigas/1979.md:578 |
-| 1979-03-28 | — | — | MERCADO MARGINAL – STOP ORDER | ../../../../../julgados/cvm/decisoes-antigas/1979.md:634 |
-| 1979-03-28 | — | — | CONDIÇÕES PARA REALIZAÇÃO EM BOLSA DE OPERAÇÕES ESPECIAIS - CARTA-CIRCULAR/CVM/PTE/Nº 303/78 | ../../../../../julgados/cvm/decisoes-antigas/1979.md:642 |
-| 1979-03-28 | — | — | REGULAMENTO DE OPERAÇÕES À VISTA – ALTERAÇÕES INTRODUZIDAS PELAS BOLSAS | ../../../../../julgados/cvm/decisoes-antigas/1979.md:650 |
-| 1979-03-28 | — | — | APROVAÇÃO DOS ATOS DECLARATÓRIOS DA SNC E DELEGAÇÃO DE COMPETÊNCIA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:657 |
-| 1979-03-22 | — | — | ATO DECLARATÓRIO CVM Nº 18 | ../../../../../julgados/cvm/decisoes-antigas/1979.md:686 |
-| 1979-03-09 | — | — | ATO DECLARATÓRIO CVM Nº 17 | ../../../../../julgados/cvm/decisoes-antigas/1979.md:730 |
-| 1979-02-22 | — | — | REGISTROS INICIAIS DE COMPANHIAS | ../../../../../julgados/cvm/decisoes-antigas/1979.md:754 |
-| 1979-02-15 | — | — | PARECER SJU SOBRE MULTA DIÁRIA | ../../../../../julgados/cvm/decisoes-antigas/1979.md:775 |
-| 1979-01-18 | — | — | CONSULTA CNBV | ../../../../../julgados/cvm/decisoes-antigas/1979.md:827 |
-| 1979-01-18 | — | — | NORMAS PARA REALIZAÇÃO DE "FINANCIAMENTO A TERMO" – MINUTA DE INSTRUÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1979.md:839 |
-| 1979-01-18 | — | — | ATO DECLARATÓRIO Nº 11 – ARTHUR ANDERSEN S/C | ../../../../../julgados/cvm/decisoes-antigas/1979.md:845 |
-| 1979-01-04 | — | — | RETIFICAÇÃO DO ITEM 1 DA ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO, DE 26.12.78 | ../../../../../julgados/cvm/decisoes-antigas/1979.md:878 |
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1979-12-17 | — | cvm-dec-1979-0001 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-14 | — | cvm-dec-1979-0002 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-14 | — | cvm-dec-1979-0003 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-10 | — | cvm-dec-1979-0004 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-10 | — | cvm-dec-1979-0005 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-10 | — | cvm-dec-1979-0006 | fichas/decisoes-antigas/1979-03.md |
+| 1979-12-06 | — | cvm-dec-1979-0007 | fichas/decisoes-antigas/1979-03.md |
+| 1979-11-27 | — | cvm-dec-1979-0008 | fichas/decisoes-antigas/1979-03.md |
+| 1979-11-01 | — | cvm-dec-1979-0009 | fichas/decisoes-antigas/1979-03.md |
+| 1979-11-01 | — | cvm-dec-1979-0010 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-29 | — | cvm-dec-1979-0011 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-25 | — | cvm-dec-1979-0012 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-25 | — | cvm-dec-1979-0013 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-25 | — | cvm-dec-1979-0014 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-25 | — | cvm-dec-1979-0015 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-25 | — | cvm-dec-1979-0016 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-15 | — | cvm-dec-1979-0017 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-11 | — | cvm-dec-1979-0018 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-11 | — | cvm-dec-1979-0019 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-11 | — | cvm-dec-1979-0020 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-08 | — | cvm-dec-1979-0021 | fichas/decisoes-antigas/1979-02.md |
+| 1979-10-08 | — | cvm-dec-1979-0022 | fichas/decisoes-antigas/1979-02.md |
+| 1979-10-08 | — | cvm-dec-1979-0023 | fichas/decisoes-antigas/1979-02.md |
+| 1979-10-08 | — | cvm-dec-1979-0024 | fichas/decisoes-antigas/1979-02.md |
+| 1979-10-08 | — | cvm-dec-1979-0025 | fichas/decisoes-antigas/1979-02.md |
+| 1979-10-08 | — | cvm-dec-1979-0026 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-08 | — | cvm-dec-1979-0027 | fichas/decisoes-antigas/1979-03.md |
+| 1979-10-08 | — | cvm-dec-1979-0028 | fichas/decisoes-antigas/1979-03.md |
+| 1979-09-12 | — | cvm-dec-1979-0029 | fichas/decisoes-antigas/1979-02.md |
+| 1979-08-30 | — | cvm-dec-1979-0030 | fichas/decisoes-antigas/1979-02.md |
+| 1979-08-23 | — | cvm-dec-1979-0031 | fichas/decisoes-antigas/1979-02.md |
+| 1979-08-10 | — | cvm-dec-1979-0032 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-26 | — | cvm-dec-1979-0033 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-26 | — | cvm-dec-1979-0034 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-17 | — | cvm-dec-1979-0035 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-11 | — | cvm-dec-1979-0036 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-11 | — | cvm-dec-1979-0037 | fichas/decisoes-antigas/1979-02.md |
+| 1979-07-05 | — | cvm-dec-1979-0038 | fichas/decisoes-antigas/1979-02.md |
+| 1979-06-07 | — | cvm-dec-1979-0039 | fichas/decisoes-antigas/1979-02.md |
+| 1979-06-07 | — | cvm-dec-1979-0040 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-31 | — | cvm-dec-1979-0041 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-24 | — | cvm-dec-1979-0042 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-22 | — | cvm-dec-1979-0043 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-21 | — | cvm-dec-1979-0044 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-10 | — | cvm-dec-1979-0045 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-10 | — | cvm-dec-1979-0046 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-10 | — | cvm-dec-1979-0047 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-07 | — | cvm-dec-1979-0048 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-07 | — | cvm-dec-1979-0049 | fichas/decisoes-antigas/1979-02.md |
+| 1979-05-07 | — | cvm-dec-1979-0050 | fichas/decisoes-antigas/1979-02.md |
+| 1979-04-25 | — | cvm-dec-1979-0051 | fichas/decisoes-antigas/1979-01.md |
+| 1979-04-23 | — | cvm-dec-1979-0052 | fichas/decisoes-antigas/1979-01.md |
+| 1979-04-05 | — | cvm-dec-1979-0053 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-28 | — | cvm-dec-1979-0054 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-28 | — | cvm-dec-1979-0055 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-28 | — | cvm-dec-1979-0056 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-28 | — | cvm-dec-1979-0057 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-28 | — | cvm-dec-1979-0058 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-22 | — | cvm-dec-1979-0059 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-22 | — | cvm-dec-1979-0060 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-19 | — | cvm-dec-1979-0061 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-15 | — | cvm-dec-1979-0062 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-09 | — | cvm-dec-1979-0063 | fichas/decisoes-antigas/1979-01.md |
+| 1979-03-09 | — | cvm-dec-1979-0064 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-22 | — | cvm-dec-1979-0065 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-22 | — | cvm-dec-1979-0066 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-15 | — | cvm-dec-1979-0067 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-15 | — | cvm-dec-1979-0068 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-08 | — | cvm-dec-1979-0069 | fichas/decisoes-antigas/1979-01.md |
+| 1979-02-01 | — | cvm-dec-1979-0070 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-29 | — | cvm-dec-1979-0071 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-18 | — | cvm-dec-1979-0072 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-18 | — | cvm-dec-1979-0073 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-18 | — | cvm-dec-1979-0074 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-18 | — | cvm-dec-1979-0075 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-09 | — | cvm-dec-1979-0076 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-04 | — | cvm-dec-1979-0077 | fichas/decisoes-antigas/1979-01.md |
+| 1979-01-04 | — | cvm-dec-1979-0078 | fichas/decisoes-antigas/1979-01.md |
+| 1978-12-26 | — | cvm-dec-1979-0079 | fichas/decisoes-antigas/1979-01.md |
 
 Fim do subíndice.

@@ -3,142 +3,142 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | infraestrutura-mercado | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Irregularidades na custódia de títulos e na concessão de financiamento para aquisição de ações – Arquivamento do processo quanto à matéria objeto da subida compulsória. | ../../../../../julgados/crsfn/2009/11148.md |
-| art. 1º | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Atuação habitual na intermediação sem a entidade integrar o sistema – Indevida realização de operações de venda de ações em bolsa de valores por meio de procuração pública – Não cessação das atividades mesmo em face de deliberação (stop order) da autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2009/5416.md |
-| art. 1º | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | ../../../../../julgados/crsfn/2014/12444.md |
-| art. 1º | pas | RJ2001/1826 | 2003-08-14 | parcial | exercicio-irregular | A atividade de intermediação só pode ser exercida pelos integrantes do sistema de distribuição de valores mobiliários. | ../../../../../julgados/cvm/pas/2003/rj2001-1826.md |
-| art. 1º | pas | 22/1996 | 2006-05-03 | parcial | intermediacao | Ocorrência de operações fraudulentas no mercado de valores mobiliários, definidas na alínea “c” do item II e vedadas pelo item I, ambos da Instrução CVM nº 08/79: multa e inabilitação. - Descumprimento do disposto no inciso V do artigo 12 do Regulamento anexo à Resolução CMN nº 1.120/86, com a redação dada pela Resolução CMN nº 1.653/89: multa e inabilitação. - Descumprimento do disposto na letra “a” do item I da Instrução CVM nº 107/89, vigente até 19.12.94 e, posteriormente, o inciso II do artigo 8º da Instrução CVM nº 220/94: multa, inabilitação e absolvição. - Descumprimento do disposto no caput do artigo 41 da Lei nº 6.404/76, no artigo 1º da Instrução CVM nº 89/88 e no artigo 1º da Instrução CVM nº 115/90: multa, inabilitação e absolvição. | ../../../../../julgados/cvm/pas/2006/22-1996.md |
-| art. 1º | pas | 22/2005 | 2008-08-26 | parcial | fundos-investimento | Banco da Amazônia S/A Administração e gestão de fundos de investimentos. - Contabilização incorreta dos efeitos financeiros de operações de Swap praticadas pelos fundos BASA Seleto e BASA Invest CP. Multa. - Comunicação a destempo da cisão de fundos de investimentos. Advertência. - Ausência de comunicação adequada aos quotistas por ocasião da alteração de perfil de fundos. Multa. - Não-exigência de assinatura dos quotistas ingressantes nos termos de adesão de fundos de investimentos e não-fornecimento de cópias do regulamento dos fundos . Multa. - Não-apresentação, no prazo devido, das demonstrações financeiras auditadas de fundos administrados. Advertência. - Exercício da atividade de custodiante de títulos e valores mobiliários sem o devido credenciamento na CVM. Advertência. - Atraso no registro dos ativos de fundos de investimento em sistema autorizado de liquidação e custódia. Multa. - Não-convocação das assembléias gerais de quotistas para conhecimento e aprovação das demonstrações financeiras dos fundos de investimento administrados. Multa. - Alteração da política de investimento dos fundos, com aumento substancial de risco, em desacordo com o perfil conservador dos quotistas do fundo. Suspensão e Multa. - Negligência, imperícia e imprudência na administração de fundos de investimento. Multa. | ../../../../../julgados/cvm/pas/2008/22-2005.md |
-| art. 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | fundos-investimento | Irregularidades na administração de fundos de investimento em direitos creditórios – irregularidades na prestação de serviços de custódia a fundo de investimento em direitos creditórios. Multas, proibição temporária e absolvições. | ../../../../../julgados/cvm/pas/2015/rj2013-5456.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | acordao-crsfn | 22/96 | 2009-08-24 | absolvicao | crsfn-11148 | fichas/crsfn/2009-04.md |
+| art. 1º | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | crsfn-5416 | fichas/crsfn/2009-02.md |
+| art. 1º | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-06.md |
+| art. 1º | pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
+| art. 1º | pas | 22/1996 | 2006-05-03 | parcial | cvm-pas-22-1996 | fichas/pas/2006-03.md |
+| art. 1º | pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
+| art. 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | infraestrutura-mercado | Pedido de autorização para prestação do serviço de escrituração de cotas para terceiros. Proc. RJ2011/12846. | ../../../../../julgados/cvm/colegiado/2012/col-20120424-d05.md |
-| art. 2º | decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | infraestrutura-mercado | O Colegiado proveu o recurso do BNDES contra o cancelamento de seu registro como custodiante, acompanhando a SMI. Concedeu dispensa do art. 3º da Instrução CVM 542 (que não prevê bancos de desenvolvimento), condicionada ao cumprimento de todas as exigências da norma. | ../../../../../julgados/cvm/colegiado/2016/col-20160112-d0004.md |
-| art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | cvm-col-20120424-d05 | fichas/colegiado/2012-08.md |
+| art. 2º | decisao-colegiado | 19957.000991/2015-44 | 2016-01-12 | provido | cvm-col-20160112-d0004 | fichas/colegiado/2016-01.md |
+| art. 2º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | SP2003/0444 | 2005-03-11 | absolvicao | manipulacao-fraude | BANCO ABN AMRO REAL S.A. (EX-BANCO ABN AMRO S.A.) E OUTROS a) o comprador de ações vendidas mediante documentação falsa só pode ser responsabilizado pela realização de operação fraudulenta se restar comprovada a sua participação, o que não se confirmou no caso; b) o artigo 16 da Instrução CVM nº 89/99 enseja apenas a responsabilização civil, não administrativa, da instituição prestadora do serviço de custódia fungível. | ../../../../../julgados/cvm/pas/2005/sp2003-0444.md |
-| art. 3º | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - Emissão de OTA (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | ../../../../../julgados/cvm/pas/2006/16-2002.md |
-| art. 3º | pas | 15/2002 | 2007-08-21 | absolvicao | infraestrutura-mercado | Supostos descumprimento ao art. 16 da Instrução CVM nº 89/88 e infração ao disposto no item III, do art. 11, do Regulamento Anexo à Resolução CMN nº 1.655/89, combinado com o disposto nos incisos I e II do art. 1º da Instrução CVM nº 220/94: absolvições | ../../../../../julgados/cvm/pas/2007/15-2002.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | pas | SP2003/0444 | 2005-03-11 | absolvicao | cvm-pas-sp2003-0444 | fichas/pas/2005-02.md |
+| art. 3º | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
+| art. 3º | pas | 15/2002 | 2007-08-21 | absolvicao | cvm-pas-15-2002 | fichas/pas/2007-05.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | infraestrutura-mercado | Com base nos fatos expostos pelo relator, o Colegiado concedeu ao Banco do Estado de Santa Catarina prorrogação de 120 dias, e não os 180 pedidos, para se adaptar à Instrução CVM 409/04 por credenciamento como custodiante ou contratação de instituição autorizada. Recurso contra indeferimento da SIN. | ../../../../../julgados/cvm/colegiado/2005/col-20050329-d10.md |
-| art. 4º | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | infraestrutura-mercado | Pedido de autorização para prestação do serviço de escrituração de cotas para terceiros. Proc. RJ2011/12846. | ../../../../../julgados/cvm/colegiado/2012/col-20120424-d05.md |
-| art. 4º, inciso III | pas | 16/2002 | 2006-10-10 | condenacao | manipulacao-fraude | Realização de operação fraudulenta, conforme conceituada na alínea “c”, do item I, prática vedada pelo item II, ambos da Instrução CVM nº 08/79. Multa. - Exercício irregular da atividade de mediação de valores mobiliários, em infração ao parágrafo único do art. 16 da lei nº 6.385/76. Multa. - Emissão de OTA (Ordens de Transferência de Ações) anterior ao recebimento dos documentos necessários ao preenchimento das fichas cadastrais de clientes. Violação dos artigos 4º, item I e 5º da Instrução CVM nº 220/94. Multa. | ../../../../../julgados/cvm/pas/2006/16-2002.md |
-| art. 4º, inciso IV | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
+| art. 4º | decisao-colegiado | RJ2011/12846 | 2012-04-24 | deferido | cvm-col-20120424-d05 | fichas/colegiado/2012-08.md |
+| art. 4º, inciso III | pas | 16/2002 | 2006-10-10 | condenacao | cvm-pas-16-2002 | fichas/pas/2006-10.md |
+| art. 4º, inciso IV | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | infraestrutura-mercado | Com base nos fatos expostos pelo relator, o Colegiado concedeu ao Banco do Estado de Santa Catarina prorrogação de 120 dias, e não os 180 pedidos, para se adaptar à Instrução CVM 409/04 por credenciamento como custodiante ou contratação de instituição autorizada. Recurso contra indeferimento da SIN. | ../../../../../julgados/cvm/colegiado/2005/col-20050329-d10.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | RJ2004/7436 | 2005-03-29 | parcial | cvm-col-20050329-d10 | fichas/colegiado/2005-06.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | decisao-colegiado | SP2010/0295 | 2011-07-12 | provido | infraestrutura-mercado | O Colegiado deu provimento a recurso da BM&FBovespa contra decisão da SMI e autorizou o Plano de Racionalização de informativos impressos a investidores institucionais, já com adequações propostas pela SMI. Acompanhou o relator, que condicionou a autorização a prazo para os investidores que quiserem manter os impressos declararem essa intenção. | ../../../../../julgados/cvm/colegiado/2011/col-20110712-d05.md |
-| art. 13 | decisao-colegiado | RJ2010/12288 | 2012-08-14 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12288. | ../../../../../julgados/cvm/colegiado/2012/col-20120814-d05.md |
-| art. 13 | decisao-colegiado | RJ2010/12289 | 2012-08-14 | nao-provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. RJ2010/12289. | ../../../../../julgados/cvm/colegiado/2012/col-20120814-d06.md |
-| art. 13 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 13 | pas | 01/1999 | 2001-12-19 | parcial | manipulacao-fraude | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de clientes de sociedade distribuidora. Comprovação do destino dos recursos desviados, apropriados em parte pelo acionista controlador. Operações fraudulentas, como definidas na Instrução CVM 08/79. Multa de 3 vezes o valor apropriado. II. Inobservância de formalidades e vedações estabelecidas na Instrução CVM 220/94, permitindo a consecução das fraudes e desvios. Multa. III. Operador e agente autônomo como clientes de outra sociedade, além daquela a que estavam vinculados. Advertência. | ../../../../../julgados/cvm/pas/2001/01-1999.md |
-| art. 13, inciso I | pas | 01/1999 | 2001-12-19 | parcial | manipulacao-fraude | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de clientes de sociedade distribuidora. Comprovação do destino dos recursos desviados, apropriados em parte pelo acionista controlador. Operações fraudulentas, como definidas na Instrução CVM 08/79. Multa de 3 vezes o valor apropriado. II. Inobservância de formalidades e vedações estabelecidas na Instrução CVM 220/94, permitindo a consecução das fraudes e desvios. Multa. III. Operador e agente autônomo como clientes de outra sociedade, além daquela a que estavam vinculados. Advertência. | ../../../../../julgados/cvm/pas/2001/01-1999.md |
-| art. 13, inciso II | decisao-colegiado | SP2006/0018 | 2006-09-19 | conhecimento | processual | Recurso em processo de fundo de garantia. Proc. SP2006/0018. | ../../../../../julgados/cvm/colegiado/2006/col-20060919-d04.md |
-| art. 13, inciso II | pas | 01/1999 | 2001-12-19 | parcial | manipulacao-fraude | MAFRA DTVM LTDA., [pessoa física] E OUTROS I. Desvio de custódia de ações e apropriação indevida de valores e títulos de propriedade de clientes de sociedade distribuidora. Comprovação do destino dos recursos desviados, apropriados em parte pelo acionista controlador. Operações fraudulentas, como definidas na Instrução CVM 08/79. Multa de 3 vezes o valor apropriado. II. Inobservância de formalidades e vedações estabelecidas na Instrução CVM 220/94, permitindo a consecução das fraudes e desvios. Multa. III. Operador e agente autônomo como clientes de outra sociedade, além daquela a que estavam vinculados. Advertência. | ../../../../../julgados/cvm/pas/2001/01-1999.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13 | decisao-colegiado | SP2010/0295 | 2011-07-12 | provido | cvm-col-20110712-d05 | fichas/colegiado/2011-14.md |
+| art. 13 | decisao-colegiado | RJ2010/12288 | 2012-08-14 | nao-provido | cvm-col-20120814-d05 | fichas/colegiado/2012-13.md |
+| art. 13 | decisao-colegiado | RJ2010/12289 | 2012-08-14 | nao-provido | cvm-col-20120814-d06 | fichas/colegiado/2012-13.md |
+| art. 13 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 13 | pas | 01/1999 | 2001-12-19 | parcial | cvm-pas-01-1999 | fichas/pas/2001-05.md |
+| art. 13, inciso I | pas | 01/1999 | 2001-12-19 | parcial | cvm-pas-01-1999 | fichas/pas/2001-05.md |
+| art. 13, inciso II | decisao-colegiado | SP2006/0018 | 2006-09-19 | conhecimento | cvm-col-20060919-d04 | fichas/colegiado/2006-14.md |
+| art. 13, inciso II | pas | 01/1999 | 2001-12-19 | parcial | cvm-pas-01-1999 | fichas/pas/2001-05.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | pas | SP2001/465 | 2004-10-06 | condenacao | infraestrutura-mercado | BOLSA DE VALORES DE MINAS - [pessoa física] - BRASÍLIA E OUTRO - Descumprimento de decisões CVM exaradas em processos de Fundo de Garantia, caracterizando reiterada infração ao art. 48 do Regulamento anexo à então vigente Resolução CMN nº 1.656/89. | ../../../../../julgados/cvm/pas/2004/sp2001-0465.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15 | pas | SP2001/465 | 2004-10-06 | condenacao | cvm-pas-sp2001-0465 | fichas/pas/2004-06.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | acordao-crsfn | SP-2003-444 | 2009-08-24 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Negociação de ações mediante uso de documentos falsos – Ausência de elementos comprobatórios de participação dos recorridos na fraude em tela - Irregularidade não caracterizada – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2009/11051.md |
-| art. 16 | acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | manipulacao-fraude | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Operações fraudulentas - Não verificação de autenticidade de endossos e legitimidade de documentos necessários para transferência de papéis – Ausência de lisura na condução das atividades no interesse de clientes e na preservação da integridade do mercado - Falta de diligência na execução de ordens de compra, venda ou permuta de valores mobiliários –Falha na prestação de custódia – Ilegitimidade passiva - Recurso de ofício improvido - Arquivamento. | ../../../../../julgados/crsfn/2011/11747.md |
-| art. 16 | pas | SP2001/465 | 2004-10-06 | condenacao | infraestrutura-mercado | BOLSA DE VALORES DE MINAS - [pessoa física] - BRASÍLIA E OUTRO - Descumprimento de decisões CVM exaradas em processos de Fundo de Garantia, caracterizando reiterada infração ao art. 48 do Regulamento anexo à então vigente Resolução CMN nº 1.656/89. | ../../../../../julgados/cvm/pas/2004/sp2001-0465.md |
-| art. 16 | pas | SP2003/0444 | 2005-03-11 | absolvicao | manipulacao-fraude | BANCO ABN AMRO REAL S.A. (EX-BANCO ABN AMRO S.A.) E OUTROS a) o comprador de ações vendidas mediante documentação falsa só pode ser responsabilizado pela realização de operação fraudulenta se restar comprovada a sua participação, o que não se confirmou no caso; b) o artigo 16 da Instrução CVM nº 89/99 enseja apenas a responsabilização civil, não administrativa, da instituição prestadora do serviço de custódia fungível. | ../../../../../julgados/cvm/pas/2005/sp2003-0444.md |
-| art. 16 | pas | 15/2002 | 2007-08-21 | absolvicao | infraestrutura-mercado | Supostos descumprimento ao art. 16 da Instrução CVM nº 89/88 e infração ao disposto no item III, do art. 11, do Regulamento Anexo à Resolução CMN nº 1.655/89, combinado com o disposto nos incisos I e II do art. 1º da Instrução CVM nº 220/94: absolvições | ../../../../../julgados/cvm/pas/2007/15-2002.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16 | acordao-crsfn | SP-2003-444 | 2009-08-24 | absolvicao | crsfn-11051 | fichas/crsfn/2009-04.md |
+| art. 16 | acordao-crsfn | 15/02 | 2011-09-20 | absolvicao | crsfn-11747 | fichas/crsfn/2011-03.md |
+| art. 16 | pas | SP2001/465 | 2004-10-06 | condenacao | cvm-pas-sp2001-0465 | fichas/pas/2004-06.md |
+| art. 16 | pas | SP2003/0444 | 2005-03-11 | absolvicao | cvm-pas-sp2003-0444 | fichas/pas/2005-02.md |
+| art. 16 | pas | 15/2002 | 2007-08-21 | absolvicao | cvm-pas-15-2002 | fichas/pas/2007-05.md |
 
 ## art. 17
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Atuação habitual na intermediação sem a entidade integrar o sistema – Indevida realização de operações de venda de ações em bolsa de valores por meio de procuração pública – Não cessação das atividades mesmo em face de deliberação (stop order) da autarquia supervisora – Irregularidades, inclusive de natureza grave, caracterizadas – Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2009/5416.md |
-| art. 17 | pas | RJ2001/1826 | 2003-08-14 | parcial | exercicio-irregular | A atividade de intermediação só pode ser exercida pelos integrantes do sistema de distribuição de valores mobiliários. | ../../../../../julgados/cvm/pas/2003/rj2001-1826.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 17 | acordao-crsfn | RJ-2001-1826 | 2009-04-15 | parcial | crsfn-5416 | fichas/crsfn/2009-02.md |
+| art. 17 | pas | RJ2001/1826 | 2003-08-14 | parcial | cvm-pas-rj2001-1826 | fichas/pas/2003-02.md |
 
 ## art. 21
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 21 | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | fundos-investimento | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO: Mercado de valores mobiliários – Administração de fundos de investimento – Contabilização errônea de efeitos financeiros de operações de swap – Comunicação intempestiva de cisão de fundos de investimento – Ausência de comunicação adequada aos cotistas acerca de alteração de perfil de fundos de investimento – Não exigência de assinatura de cotistas ingressantes em termo de adesão – Não fornecimento de cópia de regulamento dos fundos – Não apresentação, no prazo regulamentar, de demonstrações financeiras auditadas – Exercício de atividade de custodiante de títulos e valores mobiliários sem o devido registro na autoridade supervisora – Atraso no registro de ativos em sistema autorizado de liquidação e custódia – Não convocação de assembleias gerais de cotistas para conhecimento e aprovação de demonstrações financeiras – Alteração da política de investimento em desacordo com o perfil dos cotistas – Negligência, imprudência e imperícia na administração de fundos de investimento – Irregularidades, inclusive de natureza grave, caracterizadas – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | ../../../../../julgados/crsfn/2014/12444.md |
-| art. 21 | decisao-colegiado | RJ2006/3043 | 2006-08-22 | parcial | fundos-investimento | O Colegiado deu provimento parcial a recurso contra exigências da SRE em oferta de cotas seniores de FIDC. Dispensou o prospecto, com vedação de negociação por 18 meses após o registro; facultou incluir custos de garantias nas despesas do fundo, desde que o regulamento vede a circulação das cotas; e autorizou a escrituração sem registro. | ../../../../../julgados/cvm/colegiado/2006/col-20060822-d02.md |
-| art. 21 | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | fundos-investimento | O Colegiado acompanhou o parecer do Comitê e rejeitou proposta de Termo de Compromisso do Banco da Amazônia S.A. e de um diretor, em inquérito sobre perdas em fundos administrados pelo banco. Fundamento: a indenização só viria após reconhecimento judicial, sem reparação efetiva aos cotistas (art. 11, §5º, II, da Lei 6.385/76). Os demais compromissos já são obrigações legais. | ../../../../../julgados/cvm/colegiado/2007/col-20070807-d03.md |
-| art. 21 | pas | 22/2005 | 2008-08-26 | parcial | fundos-investimento | Banco da Amazônia S/A Administração e gestão de fundos de investimentos. - Contabilização incorreta dos efeitos financeiros de operações de Swap praticadas pelos fundos BASA Seleto e BASA Invest CP. Multa. - Comunicação a destempo da cisão de fundos de investimentos. Advertência. - Ausência de comunicação adequada aos quotistas por ocasião da alteração de perfil de fundos. Multa. - Não-exigência de assinatura dos quotistas ingressantes nos termos de adesão de fundos de investimentos e não-fornecimento de cópias do regulamento dos fundos . Multa. - Não-apresentação, no prazo devido, das demonstrações financeiras auditadas de fundos administrados. Advertência. - Exercício da atividade de custodiante de títulos e valores mobiliários sem o devido credenciamento na CVM. Advertência. - Atraso no registro dos ativos de fundos de investimento em sistema autorizado de liquidação e custódia. Multa. - Não-convocação das assembléias gerais de quotistas para conhecimento e aprovação das demonstrações financeiras dos fundos de investimento administrados. Multa. - Alteração da política de investimento dos fundos, com aumento substancial de risco, em desacordo com o perfil conservador dos quotistas do fundo. Suspensão e Multa. - Negligência, imperícia e imprudência na administração de fundos de investimento. Multa. | ../../../../../julgados/cvm/pas/2008/22-2005.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 21 | acordao-crsfn | 0022/2005 | 2014-11-25 | parcial | crsfn-12444 | fichas/crsfn/2014-06.md |
+| art. 21 | decisao-colegiado | RJ2006/3043 | 2006-08-22 | parcial | cvm-col-20060822-d02 | fichas/colegiado/2006-13.md |
+| art. 21 | termo-compromisso | 22/2005 | 2007-08-07 | rejeitado | cvm-col-20070807-d03 | fichas/tc/2007-04.md |
+| art. 21 | pas | 22/2005 | 2008-08-26 | parcial | cvm-pas-22-2005 | fichas/pas/2008-03.md |
 
 ## art. 22
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 22 | decisao-antiga | — | 1988-01-08 | — | — | Decisões do colegiado de 1988. | ../../../../../julgados/cvm/decisoes-antigas/1988.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 22 | decisao-antiga | — | 1988-01-08 | — | cvm-dec-1988-0001 | fichas/decisoes-antigas/1988-07.md |
 
 ## art. 163
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 163 | pas | SP2003/0444 | 2005-03-11 | absolvicao | manipulacao-fraude | BANCO ABN AMRO REAL S.A. (EX-BANCO ABN AMRO S.A.) E OUTROS a) o comprador de ações vendidas mediante documentação falsa só pode ser responsabilizado pela realização de operação fraudulenta se restar comprovada a sua participação, o que não se confirmou no caso; b) o artigo 16 da Instrução CVM nº 89/99 enseja apenas a responsabilização civil, não administrativa, da instituição prestadora do serviço de custódia fungível. | ../../../../../julgados/cvm/pas/2005/sp2003-0444.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 163 | pas | SP2003/0444 | 2005-03-11 | absolvicao | cvm-pas-sp2003-0444 | fichas/pas/2005-02.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.012350/2022-61 | 2024-07-02 | provido | infraestrutura-mercado | O Colegiado deu provimento a recurso contra indeferimento da SMI e deferiu à Laqus Depositária autorização para atuar como custodiante de valores mobiliários (notas comerciais, debêntures, CRI, CRA e CR). Condicionou o início das atividades ao cumprimento, em 10 dias úteis, das exigências de estrutura e segurança do voto do relator, e ao atesto da SMI. | ../../../../../julgados/cvm/colegiado/2024/col-20240702-d2877.md |
-| decisao-colegiado | 19957.012349/2022-37 | 2024-07-02 | provido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando o voto do Presidente relator, reformou a decisão da SMI que indeferira pedido de autorização para escrituração de valores mobiliários e deferiu a autorização à Laqus Depositária, condicionada a adequações de estrutura e controles (RCVM 33/2021) e ao atesto da SMI antes do início das atividades. | ../../../../../julgados/cvm/colegiado/2024/col-20240702-d2876.md |
-| decisao-colegiado | 19957.008101/2020-18 | 2021-05-18 | deferido | ofertas-publicas | O Colegiado, por unanimidade, acompanhando a SRE e a PFE/CVM, autorizou o BNDES a ingressar no sistema de distribuição de valores mobiliários, por Ato Declaratório, para estruturar e distribuir valores mobiliários por melhores esforços ou garantia firme, conforme o estatuto alterado. Fundamento: art. 15, I, da Lei 6.385/1976. | ../../../../../julgados/cvm/colegiado/2021/col-20210518-d2172.md |
-| termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou as propostas de termo de compromisso da DTVM e de três pessoas acusadas de operação fraudulenta envolvendo fundos de RPPS (ICVM 8/1979, item I, c/c item II, c); uma delas também de embaraço à fiscalização. Rejeição baseada apenas em conveniência e oportunidade, sem análise dos requisitos legais. | ../../../../../julgados/cvm/colegiado/2021/col-20210223-d1920.md |
-| pas | RJ2015/13791 | 2019-05-21 | parcial | fundos-investimento | Inobservância dos critérios de elegibilidade na validação dos direitos creditórios cedidos ao Clássico FIDC. Falhas na verificação do lastro dos direitos creditórios integrantes da carteira do Clássico FIDC. Liquidação dos direitos creditórios do Clássico FIDC pelo resultado líquido e não financeiramente. Delegação das atividades de cobrança e guarda física dos direitos creditórios cedidos aos FIDCs. Infração ao art. 38, incisos II, da Instrução CVM nº 356/01. Infração ao disposto no art. 38, inciso I, da Instrução CVM nº 356/01. Infração ao disposto no art. 38, inciso III da Instrução CVM nº 356/01. Infração ao disposto no art. 38, incisos IV e VI, da Instrução CVM nº 356/01. Absolvições e Multas. Data decisão CVM Tue May 21 16:00:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2015-13791.md |
-| pas | RJ2014/11830 | 2016-11-29 | condenacao | auditoria-independente | Inobservância das normas emanadas do Conselho Federal de Contabilidade e dos Pronunciamentos Técnicos do IBRACON. Ausência de procedimentos para a obtenção do entendimento do controle interno das entidades auditadas. Não emissão de Relatório Circunstanciado. Multas. | ../../../../../julgados/cvm/pas/2016/rj2014-11830.md |
-| decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20160504-d5347.md |
-| decisao-colegiado | 19957.001013/2015-10 | 2015-06-02 | nao-provido | infraestrutura-mercado | O Colegiado negou provimento ao recurso da Brickell contra decisão da SMI que cancelou seu registro como custodiante, acompanhando a área técnica. Fundamento: a instituição não se enquadra em nenhum tipo do art. 3º da Instrução CVM 542/2013, requisito de elegibilidade. | ../../../../../julgados/cvm/colegiado/2015/col-20150602-d9666.md |
-| pas | RJ2011/10415 | 2014-12-02 | parcial | fundos-investimento | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante – Não divulgação das decisões das assembleias gerais dos Fundos – Descumprimento do dever de diligência por parte da instituição administradora de Fundos. Absolvições e multas. | ../../../../../julgados/cvm/pas/2014/rj2011-10415.md |
-| decisao-colegiado | RJ2014/8513; RJ2014/8677; RJ2014/8678 | 2014-11-25 | parcial | fundos-investimento | O Colegiado, por maioria, com um voto vencido, deferiu os pedidos de dispensa do art. 38, § 7º, II, da Instrução CVM 356/2001 (guarda de documentos dos direitos creditórios pelo cedente) para três FIDC-NP e, por unanimidade, indeferiu a dispensa do art. 39, § 2º, pedida pela Planner, nos termos do Memo/CVM/SIN/GIE/Nº 298/2014. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d20.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-12-04 | outro | infraestrutura-mercado | O Colegiado aprovou a edição de três Instruções, após a Audiência Pública SDM 06/2013, que revogam a Instrução CVM 89/88 (autorização para serviços de ações escriturais, custódia e agente emissor de certificados). As novas normas tratam de depósito centralizado, custódia e escrituração de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2013/col-20131204-d01.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-11-27 | — | normativo | O Colegiado deu início à discussão de três instruções, após audiência pública SDM 06/2013, que revogam a Instrução CVM 89/88 e regulam depósito centralizado, custódia e escrituração de valores mobiliários, sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2013/col-20131127-d01.md |
-| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-08-23 | parcial | normativo | O Colegiado atendeu em parte o pedido da ATG – Americas Trading Group S.A. e prorrogou até 10.09.13 o prazo para comentários às minutas de instrução sobre depósito centralizado, custódia e escrituração de valores mobiliários (audiência pública SDM 06/2013). | ../../../../../julgados/cvm/colegiado/2013/col-20130823-d01.md |
-| decisao-colegiado | RJ2003/11499 | 2013-06-12 | outro | normativo | O Colegiado aprovou para audiência pública, pelo prazo de 60 dias, minutas de Instrução que alteram a Instrução CVM 89/88, com regras de depósito centralizado, custódia e escrituração de valores mobiliários. A SDM consolidará as sugestões recebidas. | ../../../../../julgados/cvm/colegiado/2013/col-20130612-d01.md |
-| decisao-colegiado | RJ2003/11499 | 2013-05-16 | — | normativo | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários, sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2013/col-20130516-d01.md |
-| decisao-colegiado | RJ2003/11499 | 2013-05-08 | — | normativo | O Colegiado deu continuidade à discussão de minutas de Instrução que substituirão a Instrução CVM 89/88, sobre prestação de serviços de depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2013/col-20130508-d01.md |
-| decisao-colegiado | RJ2003/11499 | 2013-04-17 | — | infraestrutura-mercado | O Colegiado deu continuidade à discussão de minutas que substituirão a Instrução CVM 89/88, sobre prestação de serviços de depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2013/col-20130417-d01.md |
-| decisao-colegiado | RJ2003/11499 | 2013-04-10 | — | normativo | O Colegiado iniciou a discussão das minutas de Instrução que substituirão a Instrução CVM 89/88, sobre depósito centralizado, custódia, escrituração e emissão de certificados de valores mobiliários, sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2013/col-20130410-d01.md |
-| decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | intermediacao | Recurso em processo de fundo de garantia. Proc. SP2009/0009. | ../../../../../julgados/cvm/colegiado/2009/col-20090331-d06.md |
-| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Indevida atuação no sistema de intermediação – Realização de operações amparadas em documentos falsos – Falta de diligência na verificação da autenticidade de procurações e no cadastramento de clientes – Irregularidades caracterizadas - Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2008/9540.md |
-| decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | infraestrutura-mercado | Recurso em processo de fundo de garantia. Proc. SP2007/0202. | ../../../../../julgados/cvm/colegiado/2007/col-20071204-d04.md |
-| acordao-crsfn | SP-2001-465 | 2007-09-27 | condenacao | infraestrutura-mercado | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Determinação da autoridade fiscalizadora para ressarcimento a investidores do Fundo de Garantia da Bolsa de Valores Minas-Espírito Santo-Brasília – Ordem não cumprida – Irregularidade caracterizada – Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2007/6297.md |
-| decisao-colegiado | RJ2004/6913 | 2005-10-04 | outro | fundos-investimento | Em resposta à consulta da ANBID sobre a responsabilidade do custodiante de FIDC, o Colegiado aprovou a colocação em audiência pública, por 30 dias, de minuta proposta pelo relator que altera a ICVM 356/01 para delimitar essa responsabilidade quanto à verificação dos lastros e para exigir informações sobre os procedimentos do originador-cedente e do custodiante no regulamento ou prospecto. | ../../../../../julgados/cvm/colegiado/2005/col-20051004-d03.md |
-| pas | SP2002/0493 | 2005-09-21 | parcial | exercicio-irregular | Infração ao artigo 16 da Lei nº 6.385/76 - Proibição temporária para prática de atividade de agente autônomo. - Infração ao inciso I, c/c o inciso II, alínea c, ambos da Instrução CVM nº 08/79 - Multa. - Infração aos artigos 4º e 5º da Instrução CVM nº 220/94 - Multa. | ../../../../../julgados/cvm/pas/2005/sp2002-0493.md |
-| pas | SP2002/0197 | 2004-06-24 | parcial | manipulacao-fraude | a)Realização de operação fraudulenta no mercado com o cadastramento de investidor mediante documentação falsa e venda de suas ações - Infração à Instrução CVM nº 8/79; b)Não caracterização da responsabilidade da Corretora e de seu diretor, relativamente à acusação de infração ao item III, artigo 11, da Resolução CMN nº 1.655/89 e aos artigos 1º, item II e 10 da Instrução CVM nº 220/94. | ../../../../../julgados/cvm/pas/2004/sp2002-0197.md |
-| decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | ../../../../../julgados/cvm/decisoes-antigas/1994.md |
-| decisao-antiga | — | 1993-03-31 | — | — | Decisões do colegiado de 1993. | ../../../../../julgados/cvm/decisoes-antigas/1993.md |
-| decisao-antiga | — | 1991-01-04 | — | — | Decisões do colegiado de 1991. | ../../../../../julgados/cvm/decisoes-antigas/1991.md |
-| decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | ../../../../../julgados/cvm/decisoes-antigas/1990.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.012350/2022-61 | 2024-07-02 | provido | cvm-col-20240702-d2877 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.012349/2022-37 | 2024-07-02 | provido | cvm-col-20240702-d2876 | fichas/colegiado/2024-07.md |
+| decisao-colegiado | 19957.008101/2020-18 | 2021-05-18 | deferido | cvm-col-20210518-d2172 | fichas/colegiado/2021-08.md |
+| termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | cvm-col-20210223-d1920 | fichas/tc/2021-01.md |
+| pas | RJ2015/13791 | 2019-05-21 | parcial | cvm-pas-rj2015-13791 | fichas/pas/2019-04.md |
+| pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
+| decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
+| decisao-colegiado | 19957.001013/2015-10 | 2015-06-02 | nao-provido | cvm-col-20150602-d9666 | fichas/colegiado/2015-09.md |
+| pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| decisao-colegiado | RJ2014/8513; RJ2014/8677; RJ2014/8678 | 2014-11-25 | parcial | cvm-col-20141125-d20 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-12-04 | outro | cvm-col-20131204-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-11-27 | — | cvm-col-20131127-d01 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | 06/2013; RJ2003/11499 | 2013-08-23 | parcial | cvm-col-20130823-d01 | fichas/colegiado/2013-16.md |
+| decisao-colegiado | RJ2003/11499 | 2013-06-12 | outro | cvm-col-20130612-d01 | fichas/colegiado/2013-12.md |
+| decisao-colegiado | RJ2003/11499 | 2013-05-16 | — | cvm-col-20130516-d01 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2003/11499 | 2013-05-08 | — | cvm-col-20130508-d01 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2003/11499 | 2013-04-17 | — | cvm-col-20130417-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | RJ2003/11499 | 2013-04-10 | — | cvm-col-20130410-d01 | fichas/colegiado/2013-09.md |
+| decisao-colegiado | SP2009/0009 | 2009-03-31 | nao-provido | cvm-col-20090331-d06 | fichas/colegiado/2009-05.md |
+| acordao-crsfn | SP-2002-493 | 2008-11-19 | parcial | crsfn-9540 | fichas/crsfn/2008-06.md |
+| decisao-colegiado | SP2007/0202 | 2007-12-04 | nao-provido | cvm-col-20071204-d04 | fichas/colegiado/2007-24.md |
+| acordao-crsfn | SP-2001-465 | 2007-09-27 | condenacao | crsfn-6297 | fichas/crsfn/2007-02.md |
+| decisao-colegiado | RJ2004/6913 | 2005-10-04 | outro | cvm-col-20051004-d03 | fichas/colegiado/2005-14.md |
+| pas | SP2002/0493 | 2005-09-21 | parcial | cvm-pas-sp2002-0493 | fichas/pas/2005-06.md |
+| pas | SP2002/0197 | 2004-06-24 | parcial | cvm-pas-sp2002-0197 | fichas/pas/2004-03.md |
+| decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
+| decisao-antiga | — | 1993-03-31 | — | cvm-dec-1993-0001 | fichas/decisoes-antigas/1993-04.md |
+| decisao-antiga | — | 1991-01-04 | — | cvm-dec-1991-0001 | fichas/decisoes-antigas/1991-08.md |
+| decisao-antiga | — | 1990-01-03 | — | cvm-dec-1990-0001 | fichas/decisoes-antigas/1990-06.md |
 
 Fim do subíndice.

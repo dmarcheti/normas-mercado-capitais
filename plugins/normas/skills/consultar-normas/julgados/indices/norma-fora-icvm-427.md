@@ -3,91 +3,91 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2011/5513; RJ2011/11068 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ2011/5513 e RJ2011/11068. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d03.md |
-| art. 2º | decisao-colegiado | RJ2011/6662; RJ2011/11284 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ 2011/6662 e RJ2011/11284. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d04.md |
-| art. 2º | decisao-colegiado | RJ2011/4444 | 2012-12-18 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4444. | ../../../../../julgados/cvm/colegiado/2012/col-20121218-d07.md |
-| art. 2º | decisao-colegiado | RJ2011/6318 | 2013-10-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/6318. | ../../../../../julgados/cvm/colegiado/2013/col-20131029-d05.md |
-| art. 2º | decisao-colegiado | RJ2011/4433 | 2014-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4433. | ../../../../../julgados/cvm/colegiado/2014/col-20140325-d04.md |
-| art. 2º | decisao-colegiado | RJ2012/7328 | 2014-05-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE. Proc. RJ2012/7328. | ../../../../../julgados/cvm/colegiado/2014/col-20140513-d01.md |
-| art. 2º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | normativo | O Colegiado aprovou, após audiência pública SDM 02/2014, instrução que altera as Instruções CVM 265/1997 e 427/2006 para modernizar o regime informacional das companhias incentivadas: envio eletrônico de informações e suspensão do registro por atraso a partir de 12 meses (antes, três anos), além de vedação a relatórios de auditoria com opinião modificada sobre distorções relevantes. | ../../../../../julgados/cvm/colegiado/2015/col-20150114-d4843.md |
-| art. 2º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 2º, inciso IV | decisao-colegiado | RJ2012/3918 | 2012-08-21 | nao-provido | registro-emissor | O Colegiado indeferiu recurso da Monte Hotéis S.A. e manteve o cancelamento do registro de companhia incentivada pela SEP, acompanhando o voto do relator, que considerou cumpridas as formalidades do art. 3º, §1º, da ICVM 427/06 e não comprovadas as alegações da recorrente. | ../../../../../julgados/cvm/colegiado/2012/col-20120821-d12.md |
-| art. 2º, inciso IV | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | registro-emissor | Recurso contra decisão da SEP. Proc. RJ2012/13828. | ../../../../../julgados/cvm/colegiado/2013/col-20130312-d05.md |
-| art. 2º, inciso IV | decisao-colegiado | RJ2011/5251 | 2013-04-24 | conhecimento | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/5251. | ../../../../../julgados/cvm/colegiado/2013/col-20130424-d03.md |
-| art. 2º, inciso IV | decisao-colegiado | RJ2012/14029 | 2013-04-24 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, ao recurso da Rima Industrial S.A. contra decisão da SEP que cancelou de ofício o registro de companhia incentivada suspenso por mais de 12 meses (art. 2º, IV, ICVM 427/06), mantendo o cancelamento, com base no voto da relatora. | ../../../../../julgados/cvm/colegiado/2013/col-20130424-d07.md |
-| art. 2º, inciso IV | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista controlador e administrador da Frigorífico Araputanga S.A. (Frigoara), no valor de R$ 20.000,00, acompanhando o Comitê. Imputação: não envio à CVM de informações periódicas entre 28.09.02 e 28.09.07 (art. 7º, I, ICVM 265/1997). | ../../../../../julgados/cvm/colegiado/2014/col-20141202-d16.md |
-| art. 2º, inciso IV | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 2º, inciso IV | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando o voto do relator, negou provimento a recurso contra cancelamento de ofício do registro de companhia incentivada pela SEP, por suspensão superior a 12 meses (ICVM 427/2006, art. 2º, IV). Fundamento: a companhia foi informada da suspensão por ofício e não enviou informações pelo Empresas.Net (ICVM 265/1997, art. 7º, I). | ../../../../../julgados/cvm/colegiado/2018/col-20180313-d0735.md |
-| art. 2º, inciso IV | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da S/A Constâncio Vieira contra o cancelamento de ofício do registro de companhia incentivada, por suspensão superior a 12 meses (art. 2º, IV, Instrução CVM 427/2006). Acompanhou o voto do relator, que não viu prova do envio de documentos. | ../../../../../julgados/cvm/colegiado/2018/col-20180313-d0751.md |
-| art. 2º, inciso IV | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2107.md |
-| art. 2º, inciso IV | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2729.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | registro-emissor | Recurso contra decisão da SEP. Proc. RJ2012/13828. | ../../../../../julgados/cvm/colegiado/2013/col-20130312-d05.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 2º, § 3º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 2º, § 3º | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | registro-emissor | O Colegiado, por unanimidade, acompanhando o voto do relator, negou provimento a recurso contra cancelamento de ofício do registro de companhia incentivada pela SEP, por suspensão superior a 12 meses (ICVM 427/2006, art. 2º, IV). Fundamento: a companhia foi informada da suspensão por ofício e não enviou informações pelo Empresas.Net (ICVM 265/1997, art. 7º, I). | ../../../../../julgados/cvm/colegiado/2018/col-20180313-d0735.md |
-| art. 2º, § 3º | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da S/A Constâncio Vieira contra o cancelamento de ofício do registro de companhia incentivada, por suspensão superior a 12 meses (art. 2º, IV, Instrução CVM 427/2006). Acompanhou o voto do relator, que não viu prova do envio de documentos. | ../../../../../julgados/cvm/colegiado/2018/col-20180313-d0751.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2011/5513; RJ2011/11068 | 2012-09-11 | nao-provido | cvm-col-20120911-d03 | fichas/colegiado/2012-16.md |
+| art. 2º | decisao-colegiado | RJ2011/6662; RJ2011/11284 | 2012-09-11 | nao-provido | cvm-col-20120911-d04 | fichas/colegiado/2012-16.md |
+| art. 2º | decisao-colegiado | RJ2011/4444 | 2012-12-18 | parcial | cvm-col-20121218-d07 | fichas/colegiado/2012-25.md |
+| art. 2º | decisao-colegiado | RJ2011/6318 | 2013-10-29 | nao-provido | cvm-col-20131029-d05 | fichas/colegiado/2013-21.md |
+| art. 2º | decisao-colegiado | RJ2011/4433 | 2014-03-25 | nao-provido | cvm-col-20140325-d04 | fichas/colegiado/2014-05.md |
+| art. 2º | decisao-colegiado | RJ2012/7328 | 2014-05-13 | nao-provido | cvm-col-20140513-d01 | fichas/colegiado/2014-09.md |
+| art. 2º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
+| art. 2º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 2º, inciso IV | decisao-colegiado | RJ2012/3918 | 2012-08-21 | nao-provido | cvm-col-20120821-d12 | fichas/colegiado/2012-14.md |
+| art. 2º, inciso IV | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | cvm-col-20130312-d05 | fichas/colegiado/2013-06.md |
+| art. 2º, inciso IV | decisao-colegiado | RJ2011/5251 | 2013-04-24 | conhecimento | cvm-col-20130424-d03 | fichas/colegiado/2013-09.md |
+| art. 2º, inciso IV | decisao-colegiado | RJ2012/14029 | 2013-04-24 | nao-provido | cvm-col-20130424-d07 | fichas/colegiado/2013-09.md |
+| art. 2º, inciso IV | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
+| art. 2º, inciso IV | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 2º, inciso IV | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | cvm-col-20180313-d0735 | fichas/colegiado/2018-05.md |
+| art. 2º, inciso IV | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | cvm-col-20180313-d0751 | fichas/colegiado/2018-05.md |
+| art. 2º, inciso IV | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
+| art. 2º, inciso IV | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | cvm-col-20130312-d05 | fichas/colegiado/2013-06.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 2º, § 3º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 2º, § 3º | decisao-colegiado | 19957.006024/2017-58 | 2018-03-13 | nao-provido | cvm-col-20180313-d0735 | fichas/colegiado/2018-05.md |
+| art. 2º, § 3º | decisao-colegiado | 19957.005694/2017-57 | 2018-03-13 | nao-provido | cvm-col-20180313-d0751 | fichas/colegiado/2018-05.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ2010/15660 e RJ2010/5704. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d16.md |
-| art. 3º | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | registro-emissor | Recurso contra decisão da SEP. Proc. RJ2012/13828. | ../../../../../julgados/cvm/colegiado/2013/col-20130312-d05.md |
-| art. 3º | decisao-colegiado | RJ2012/14029 | 2013-04-24 | nao-provido | registro-emissor | O Colegiado negou provimento, por unanimidade, ao recurso da Rima Industrial S.A. contra decisão da SEP que cancelou de ofício o registro de companhia incentivada suspenso por mais de 12 meses (art. 2º, IV, ICVM 427/06), mantendo o cancelamento, com base no voto da relatora. | ../../../../../julgados/cvm/colegiado/2013/col-20130424-d07.md |
-| art. 3º | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista controlador e administrador da Frigorífico Araputanga S.A. (Frigoara), no valor de R$ 20.000,00, acompanhando o Comitê. Imputação: não envio à CVM de informações periódicas entre 28.09.02 e 28.09.07 (art. 7º, I, ICVM 265/1997). | ../../../../../julgados/cvm/colegiado/2014/col-20141202-d16.md |
-| art. 3º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | normativo | O Colegiado aprovou, após audiência pública SDM 02/2014, instrução que altera as Instruções CVM 265/1997 e 427/2006 para modernizar o regime informacional das companhias incentivadas: envio eletrônico de informações e suspensão do registro por atraso a partir de 12 meses (antes, três anos), além de vedação a relatórios de auditoria com opinião modificada sobre distorções relevantes. | ../../../../../julgados/cvm/colegiado/2015/col-20150114-d4843.md |
-| art. 3º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 3º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2729.md |
-| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | divulgacao-informacoes | Ementa : Responsabilidade de diretores de companhia incentivada pela não elaboração de demonstrações financeiras; não envio à CVM de demonstrações financeiras acompanhadas de relatório de auditor independente, de dados cadastrais atualizados e de ata de Assembleia Geral Ordinária à CVM; e responsabilidade de membros do conselho de administração por não diligenciar para a realização de Assembleia Geral Ordinária. Infração ao artigo 176, caput da Lei nº 6.404/1976. Infração aos incisos I, IV e VI do artigo 12 da Instrução CVM nº 265/1997. Infração ao artigo 132 c/c artigo 142, IV da Lei nº 6.404/1976. Multas. Data decisão CVM Tue Jul 07 11:55:00 BRT 2020 | ../../../../../julgados/cvm/pas/2020/19957-008895-2019-78.md |
-| art. 3º, § 1º | decisao-colegiado | RJ2012/3918 | 2012-08-21 | nao-provido | registro-emissor | O Colegiado indeferiu recurso da Monte Hotéis S.A. e manteve o cancelamento do registro de companhia incentivada pela SEP, acompanhando o voto do relator, que considerou cumpridas as formalidades do art. 3º, §1º, da ICVM 427/06 e não comprovadas as alegações da recorrente. | ../../../../../julgados/cvm/colegiado/2012/col-20120821-d12.md |
-| art. 3º, § 1º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
+| art. 3º | decisao-colegiado | RJ2012/13828 | 2013-03-12 | nao-provido | cvm-col-20130312-d05 | fichas/colegiado/2013-06.md |
+| art. 3º | decisao-colegiado | RJ2012/14029 | 2013-04-24 | nao-provido | cvm-col-20130424-d07 | fichas/colegiado/2013-09.md |
+| art. 3º | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
+| art. 3º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
+| art. 3º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 3º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
+| art. 3º | pas | 19957.008895/2019-78; RJ2019/6858 | 2020-07-07 | condenacao | cvm-pas-19957-008895-2019-78 | fichas/pas/2020-03.md |
+| art. 3º, § 1º | decisao-colegiado | RJ2012/3918 | 2012-08-21 | nao-provido | cvm-col-20120821-d12 | fichas/colegiado/2012-14.md |
+| art. 3º, § 1º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2007/2386 | 2009-03-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a cobrança de taxa de fiscalização. Proc. RJ2007/2386. | ../../../../../julgados/cvm/colegiado/2009/col-20090324-d02.md |
-| art. 4º | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2436. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d07.md |
-| art. 4º | decisao-colegiado | RJ2002/5624 | 2010-02-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5624. | ../../../../../julgados/cvm/colegiado/2010/col-20100202-d16.md |
-| art. 4º | decisao-colegiado | RJ2002/5622 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5622. | ../../../../../julgados/cvm/colegiado/2010/col-20100302-d18.md |
-| art. 4º | decisao-colegiado | RJ2008/12176 | 2011-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/12176. | ../../../../../julgados/cvm/colegiado/2011/col-20110607-d04.md |
-| art. 4º | decisao-colegiado | SP2015/0208 | 2017-10-24 | provido | assembleia-acionistas | O Colegiado, por maioria, deu provimento ao recurso de acionista e determinou acesso às informações do Livro de Registro de Ações Nominativas da companhia (art. 100, §1º, Lei 6.404/1976). Pelo voto do Presidente, o interesse pessoal foi demonstrado: companhia incentivada sem liquidez e esforços de venda já esgotados. O relator votou pelo não provimento. | ../../../../../julgados/cvm/colegiado/2017/col-20171024-d9774.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | RJ2007/2386 | 2009-03-24 | nao-provido | cvm-col-20090324-d02 | fichas/colegiado/2009-04.md |
+| art. 4º | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | cvm-col-20091201-d07 | fichas/colegiado/2009-21.md |
+| art. 4º | decisao-colegiado | RJ2002/5624 | 2010-02-02 | nao-provido | cvm-col-20100202-d16 | fichas/colegiado/2010-04.md |
+| art. 4º | decisao-colegiado | RJ2002/5622 | 2010-03-02 | nao-provido | cvm-col-20100302-d18 | fichas/colegiado/2010-07.md |
+| art. 4º | decisao-colegiado | RJ2008/12176 | 2011-06-07 | nao-provido | cvm-col-20110607-d04 | fichas/colegiado/2011-12.md |
+| art. 4º | decisao-colegiado | SP2015/0208 | 2017-10-24 | provido | cvm-col-20171024-d9774 | fichas/colegiado/2017-18.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | normativo | O Colegiado aprovou, após audiência pública SDM 02/2014, instrução que altera as Instruções CVM 265/1997 e 427/2006 para modernizar o regime informacional das companhias incentivadas: envio eletrônico de informações e suspensão do registro por atraso a partir de 12 meses (antes, três anos), além de vedação a relatórios de auditoria com opinião modificada sobre distorções relevantes. | ../../../../../julgados/cvm/colegiado/2015/col-20150114-d4843.md |
-| art. 5º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | registro-emissor | O Colegiado, por unanimidade, não conheceu de recurso contra cancelamento de ofício do registro de companhia incentivada da Têxtil União S.A., suspenso por mais de 12 meses (art. 2º, IV, da Instrução CVM 427/2006), mantendo a decisão da SEP. Acompanhou o relator, que apontou intempestividade e ausência de fundamento para revisão ex officio. | ../../../../../julgados/cvm/colegiado/2017/col-20170418-d9888.md |
-| art. 5º | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2107.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | 02/2014; RJ2012/5550 | 2015-01-14 | outro | cvm-col-20150114-d4843 | fichas/colegiado/2015-02.md |
+| art. 5º | decisao-colegiado | RJ2015/8434 | 2017-04-18 | conhecimento | cvm-col-20170418-d9888 | fichas/colegiado/2017-08.md |
+| art. 5º | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | divulgacao-informacoes | O Colegiado aceitou, por unanimidade, proposta de termo de compromisso de um acionista controlador e administrador da Frigorífico Araputanga S.A. (Frigoara), no valor de R$ 20.000,00, acompanhando o Comitê. Imputação: não envio à CVM de informações periódicas entre 28.09.02 e 28.09.07 (art. 7º, I, ICVM 265/1997). | ../../../../../julgados/cvm/colegiado/2014/col-20141202-d16.md |
-| art. 6º | decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | processual | O Colegiado, por unanimidade, não conheceu do recurso de reclamantes contra decisão da SEP que não instaurou processo sancionador sobre administradores e controladores da companhia incentivada Vitivinícola Santa Maria S.A. Fundamento: a segregação entre as instâncias investigativa e julgadora, considerando a manifestação da área técnica. | ../../../../../julgados/cvm/colegiado/2018/col-20181204-d1163.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | termo-compromisso | RJ2013/9737 | 2014-12-02 | aceito | cvm-col-20141202-d16 | fichas/tc/2014-05.md |
+| art. 6º | decisao-colegiado | 19957.007121/2018-49 | 2018-12-04 | conhecimento | cvm-col-20181204-d1163 | fichas/colegiado/2018-20.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| decisao-colegiado | RJ2012/15312 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15312. | ../../../../../julgados/cvm/colegiado/2016/col-20160621-d0264.md |
-| decisao-colegiado | RJ2012/5550 | 2014-01-22 | outro | normativo | O Colegiado aprovou, para audiência pública de 30 dias, minuta que altera as Instruções CVM 265/97 e 427/06 para modernizar o regime informacional das companhias incentivadas, com envio eletrônico de informações. A minuta propõe reduzir de três anos para 12 meses o prazo de atraso que leva à suspensão do registro. | ../../../../../julgados/cvm/colegiado/2014/col-20140122-d02.md |
-| decisao-colegiado | RJ2011/15668 | 2012-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/15668. | ../../../../../julgados/cvm/colegiado/2012/col-20120216-d06.md |
-| decisao-colegiado | RJ2011/2363 | 2011-06-14 | outro | normativo | O Colegiado aprovou minuta de Instrução que altera a Instrução CVM 427/06, sobre cancelamento de ofício e suspensão do registro de sociedades beneficiárias de incentivos fiscais, para audiência pública de 30 dias. A SDM ficou encarregada de consolidar as sugestões recebidas. | ../../../../../julgados/cvm/colegiado/2011/col-20110614-d09.md |
-| decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4955. | ../../../../../julgados/cvm/colegiado/2009/col-20091208-d14.md |
-| decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4401. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d10.md |
-| decisao-colegiado | RJ2007/11445 | 2007-11-06 | nao-provido | assembleia-acionistas | Acompanhando a SEP, o Colegiado negou provimento a recurso contra o entendimento de que, em companhia incentivada (IN 265/97, art. 35), não se estende aos preferencialistas sem voto o direito de eleger conselheiro do art. 141, §4º, II, da Lei 6.404/76, pois companhias incentivadas não são companhias abertas. | ../../../../../julgados/cvm/colegiado/2007/col-20071106-d03.md |
-| decisao-colegiado | RJ2005/9462 | 2006-02-15 | outro | registro-emissor | O Colegiado deliberou pela suspensão imediata, com cancelamento do registro, de seis companhias emissoras de contratos de investimento coletivo, conforme proposta da SRE de aplicação analógica das ICVM 287/98 e 427/06. Fundamento do voto do relator: a CVM pode cancelar registros dessas emissoras independentemente das hipóteses dessas normas. A área técnica deverá propor alteração da ICVM 270/98. | ../../../../../julgados/cvm/colegiado/2006/col-20060215-d09.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | RJ2012/15312 | 2016-06-21 | nao-provido | cvm-col-20160621-d0264 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | RJ2012/5550 | 2014-01-22 | outro | cvm-col-20140122-d02 | fichas/colegiado/2014-02.md |
+| decisao-colegiado | RJ2011/15668 | 2012-02-16 | nao-provido | cvm-col-20120216-d06 | fichas/colegiado/2012-03.md |
+| decisao-colegiado | RJ2011/2363 | 2011-06-14 | outro | cvm-col-20110614-d09 | fichas/colegiado/2011-13.md |
+| decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | cvm-col-20091208-d14 | fichas/colegiado/2009-22.md |
+| decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | cvm-col-20091013-d10 | fichas/colegiado/2009-17.md |
+| decisao-colegiado | RJ2007/11445 | 2007-11-06 | nao-provido | cvm-col-20071106-d03 | fichas/colegiado/2007-22.md |
+| decisao-colegiado | RJ2005/9462 | 2006-02-15 | outro | cvm-col-20060215-d09 | fichas/colegiado/2006-03.md |
 
 Fim do subíndice.

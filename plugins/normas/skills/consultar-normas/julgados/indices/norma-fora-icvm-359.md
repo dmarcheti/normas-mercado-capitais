@@ -3,7 +3,7 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
@@ -41,280 +41,280 @@ Este subíndice tem 320 linhas e uma leitura única é cortada em silêncio pert
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 2º, parágrafo único | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | fundos-investimento | O Colegiado comunicou ao mercado que julga oportuno avaliar, caso a caso, a dispensa de requisitos da Instrução CVM 359/02 para ETFs no Brasil baseados em índices de outras jurisdições. Não concedeu, nesta deliberação, as três dispensas propostas pela SIN com base em proposta da Blackrock. | ../../../../../julgados/cvm/colegiado/2012/col-20121010-d04.md |
-| art. 2º, § 1º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | fundos-investimento | O Colegiado comunicou ao mercado que julga oportuno avaliar, caso a caso, a dispensa de requisitos da Instrução CVM 359/02 para ETFs no Brasil baseados em índices de outras jurisdições. Não concedeu, nesta deliberação, as três dispensas propostas pela SIN com base em proposta da Blackrock. | ../../../../../julgados/cvm/colegiado/2012/col-20121010-d04.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 2º, § 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 2º, § 2º | decisao-colegiado | 19957.004000/2016-83 | 2016-07-05 | outro | fundos-investimento | Consulta sobre oferta de cotas de fundos de índice para investidores em geral. Proc. SEI 19957.004000/2016-83. | ../../../../../julgados/cvm/colegiado/2016/col-20160705-d0289.md |
-| art. 2º, § 2º | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | fundos-investimento | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização), com dispensa do art. 58, §9º, I, da Instrução CVM nº 359/2002. Acompanhou a área técnica e consignou que a equiparação do CBIO a ativo financeiro vale apenas nos termos da decisão. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2375.md |
-| art. 2º, § 2º, inciso VI | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | fundos-investimento | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização), com dispensa do art. 58, §9º, I, da Instrução CVM nº 359/2002. Acompanhou a área técnica e consignou que a equiparação do CBIO a ativo financeiro vale apenas nos termos da decisão. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2375.md |
-| art. 2º, § 3º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 2º, § 5º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 2º, § 5º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 2º, parágrafo único | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | cvm-col-20121010-d04 | fichas/colegiado/2012-18.md |
+| art. 2º, § 1º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | cvm-col-20121010-d04 | fichas/colegiado/2012-18.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 2º, § 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 2º, § 2º | decisao-colegiado | 19957.004000/2016-83 | 2016-07-05 | outro | cvm-col-20160705-d0289 | fichas/colegiado/2016-13.md |
+| art. 2º, § 2º | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
+| art. 2º, § 2º, inciso VI | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
+| art. 2º, § 3º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 2º, § 5º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 2º, § 5º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | intermediacao | O Colegiado, em consulta da ANBIMA sobre as Instruções CVM 505/11 e 506/11, decidiu pela inaplicabilidade ao mercado secundário de cotas de fundos das obrigações do art. 2º, parágrafo único, do Anexo I da Instrução CVM 301/99, pedindo estudos à SDM, e acompanhou a SIN nos demais itens. | ../../../../../julgados/cvm/colegiado/2013/col-20130129-d04.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004976/2017-37. | ../../../../../julgados/cvm/colegiado/2018/col-20180320-d0993.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | 19957.004976/2017-37 | 2018-03-20 | provido | cvm-col-20180320-d0993 | fichas/colegiado/2018-06.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | fundos-investimento | O Colegiado concedeu ao Banco Barclays S.A. dispensas da Instrução 359/02 para três fundos de índice iShares, nos termos da SIN (Memo/SIN/183/08), exceto o subitem (iv)(b), para o qual acolheu prazo de 30 dias úteis para reenquadramento. Dispensou registro de oferta secundária eventual (art. 28) e exigiu prévia submissão de alterações ao Colegiado. | ../../../../../julgados/cvm/colegiado/2008/col-20080930-d16.md |
-| art. 8º | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 8º | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 8º | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 8º | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 8º | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 8º | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 8º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 8º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 8º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 8º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | cvm-col-20080930-d16 | fichas/colegiado/2008-21.md |
+| art. 8º | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 8º | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 8º | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 8º | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 8º | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 8º | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 8º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 8º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 8º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 8º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, § 4º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11, § 4º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 12 | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 12, § 2º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 3º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 4º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 5º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 6º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
-| art. 12, § 7º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | fundos-investimento | O Colegiado concedeu, por unanimidade, a dispensa dos §§ 2º e 3º do art. 12 da ICVM 359/2002 ao IT NOW NYSE FANG+ Fundo de Índice, administrado pelo Itaú Unibanco, acompanhando a área técnica. Fundamento: riscos de contraparte e cambiais alheios ao propósito do índice. A área técnica propôs constar a limitação no regulamento e no site do fundo. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2099.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 12 | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 2º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 12, § 2º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 3º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 4º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 5º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 6º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
+| art. 12, § 7º | decisao-colegiado | 19957.008697/2020-48 | 2021-03-16 | deferido | cvm-col-20210316-d2099 | fichas/colegiado/2021-05.md |
 
 ## art. 14
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14, inciso II | decisao-colegiado | RJ2010/13171 | 2010-12-28 | parcial | fundos-investimento | O Colegiado confirmou que os incisos II e III do art. 35 da Instrução 391/03 vedam ao fundo tomar empréstimos e prestar garantias, ainda que aprovados pelos cotistas. Por maioria, concedeu a dispensa só do inciso III, para aquisição de ações gravadas, e indeferiu a do inciso II. Um diretor vencido, acompanhando a SIN, votou pela dispensa dos dois. | ../../../../../julgados/cvm/colegiado/2010/col-20101228-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14, inciso II | decisao-colegiado | RJ2010/13171 | 2010-12-28 | parcial | cvm-col-20101228-d01 | fichas/colegiado/2010-30.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 18 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 18 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 18 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 18 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 18 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 18 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 18 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 18 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 18, § 8º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 18, § 9º | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 18, § 9º | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 18, § 9º | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 18, § 9º | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 18, § 9º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 18, § 9º | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 18, § 9º | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 18, § 9º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 18 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 18 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 18 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 18 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 18 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 18 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 18 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 18 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 18, § 8º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 18, § 9º | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 18, § 9º | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 18, § 9º | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 18, § 9º | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 18, § 9º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 18, § 9º | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 18, § 9º | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 18, § 9º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
 
 ## art. 22
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 22 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 24
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 24 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 24, § 1º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 24 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 24, § 1º | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | fundos-investimento | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização), com dispensa do art. 58, §9º, I, da Instrução CVM nº 359/2002. Acompanhou a área técnica e consignou que a equiparação do CBIO a ativo financeiro vale apenas nos termos da decisão. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2375.md |
-| art. 25, parágrafo único | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | fundos-investimento | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização), com dispensa do art. 58, §9º, I, da Instrução CVM nº 359/2002. Acompanhou a área técnica e consignou que a equiparação do CBIO a ativo financeiro vale apenas nos termos da decisão. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2375.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
+| art. 25, parágrafo único | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
 
 ## art. 27
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 27 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 27 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
 
 ## art. 28
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 28 | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | fundos-investimento | O Colegiado concedeu ao Banco Barclays S.A. dispensas da Instrução 359/02 para três fundos de índice iShares, nos termos da SIN (Memo/SIN/183/08), exceto o subitem (iv)(b), para o qual acolheu prazo de 30 dias úteis para reenquadramento. Dispensou registro de oferta secundária eventual (art. 28) e exigiu prévia submissão de alterações ao Colegiado. | ../../../../../julgados/cvm/colegiado/2008/col-20080930-d16.md |
-| art. 28 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 28 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 28 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 28 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 28 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 28 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 28 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 28 | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | cvm-col-20080930-d16 | fichas/colegiado/2008-21.md |
+| art. 28 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 28 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 28 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 28 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 28 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 28 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 28 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
 
 ## art. 29
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29, parágrafo único | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | fundos-investimento | Recursos voluntários. Desenquadramento de Fundos de Investimento. Falha da Administradora do Fundo quanto ao seu dever de supervisionar a atuação da Gestora. Recurso conhecido e improvido. | ../../../../../julgados/crsfn/2016/14439.md |
-| art. 29, parágrafo único | pas | RJ2012/12201 | 2015-08-04 | condenacao | fundos-investimento | Desenquadramento da carteira do fundo de investimento - descumprimento do dever do administrador de um fundo de investimento de fiscalizar os serviços prestados por terceiros contratados pelo Fundo. Multas. | ../../../../../julgados/cvm/pas/2015/rj2012-12201.md |
-| art. 29, parágrafo único | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | divulgacao-informacoes | Responsabilidade por infração ao art. 12 da Instrução CVM nº 358/2002, pela não divulgação de aumento de participação por acionistas representando um mesmo interesse. Multas, absolvição e extinção de punibilidade. | ../../../../../julgados/cvm/pas/2022/19957-005866-2018-73.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 29, parágrafo único | acordao-crsfn | RJ-2012-12201 | 2016-11-29 | condenacao | crsfn-14439 | fichas/crsfn/2016-05.md |
+| art. 29, parágrafo único | pas | RJ2012/12201 | 2015-08-04 | condenacao | cvm-pas-rj2012-12201 | fichas/pas/2015-04.md |
+| art. 29, parágrafo único | pas | 19957.005866/2018-73 | 2022-12-16 | parcial | cvm-pas-19957-005866-2018-73 | fichas/pas/2022-06.md |
 
 ## art. 30
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 30 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 30, inciso III | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 30, inciso VII | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 30, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 30 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 30, inciso III | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 30, inciso VII | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 30, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
 
 ## art. 35
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 35 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 35 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 35 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 35 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 35 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 35 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 35 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 35 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 35 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 35 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 35, inciso I | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 35, inciso III | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | fundos-investimento | O Colegiado concedeu ao Banco Barclays S.A. dispensas da Instrução 359/02 para três fundos de índice iShares, nos termos da SIN (Memo/SIN/183/08), exceto o subitem (iv)(b), para o qual acolheu prazo de 30 dias úteis para reenquadramento. Dispensou registro de oferta secundária eventual (art. 28) e exigiu prévia submissão de alterações ao Colegiado. | ../../../../../julgados/cvm/colegiado/2008/col-20080930-d16.md |
-| art. 35, inciso III | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 35, inciso III | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 35, inciso III | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 35, inciso III | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 35, inciso III | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 35, inciso III | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 35, inciso III | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 35, inciso III | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 35 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 35 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 35 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 35 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 35 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 35 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 35 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 35 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 35 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 35 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 35, inciso I | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 35, inciso III | decisao-colegiado | RJ2008/8140 | 2008-09-30 | parcial | cvm-col-20080930-d16 | fichas/colegiado/2008-21.md |
+| art. 35, inciso III | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 35, inciso III | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 35, inciso III | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 35, inciso III | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 35, inciso III | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 35, inciso III | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 35, inciso III | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 35, inciso III | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
 
 ## art. 36
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 36, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 36, § 1º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 36, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 36, § 1º | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 39
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 39 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 39 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 39 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 39 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 39 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 39 | decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | intermediacao | O Colegiado, em consulta da ANBIMA sobre as Instruções CVM 505/11 e 506/11, decidiu pela inaplicabilidade ao mercado secundário de cotas de fundos das obrigações do art. 2º, parágrafo único, do Anexo I da Instrução CVM 301/99, pedindo estudos à SDM, e acompanhou a SIN nos demais itens. | ../../../../../julgados/cvm/colegiado/2013/col-20130129-d04.md |
-| art. 39 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 39 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 39 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 39 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 39 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 39 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 39 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 39 | decisao-colegiado | 505/2011; 506/2011; RJ2013/1139 | 2013-01-29 | outro | cvm-col-20130129-d04 | fichas/colegiado/2013-03.md |
+| art. 39 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 39 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 50
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 50 | decisao-colegiado | RJ2007/10500 | 2008-02-14 | outro | fundos-investimento | Consulta do Santander Banespa Asset Management: o Colegiado acompanhou na íntegra o voto do relator. A vedação do art. 64, V, da Instrução 409/04 atinge a promessa leviana ou ilusória; rentabilidade por parâmetros objetivos e antecipadamente conhecidos a afasta. Garantias devem ter natureza e extensão claras, com advertência de risco. Juízo definitivo depende de informações adicionais. | ../../../../../julgados/cvm/colegiado/2008/col-20080214-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 50 | decisao-colegiado | RJ2007/10500 | 2008-02-14 | outro | cvm-col-20080214-d02 | fichas/colegiado/2008-02.md |
 
 ## art. 53
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 53, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 53, § 1º | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
 
 ## art. 58
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 58 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 58 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 58 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 58 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 58 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 58 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 58 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 58 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 58 | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | fundos-investimento | O Colegiado comunicou ao mercado que julga oportuno avaliar, caso a caso, a dispensa de requisitos da Instrução CVM 359/02 para ETFs no Brasil baseados em índices de outras jurisdições. Não concedeu, nesta deliberação, as três dispensas propostas pela SIN com base em proposta da Blackrock. | ../../../../../julgados/cvm/colegiado/2012/col-20121010-d04.md |
-| art. 58 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 58 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
-| art. 58, § 6º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 58, § 7º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 58, § 9º, inciso I | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | fundos-investimento | O Colegiado, por unanimidade, aprovou a estrutura de fundo de índice lastreado na variação de preço do CBIO (Crédito de Descarbonização), com dispensa do art. 58, §9º, I, da Instrução CVM nº 359/2002. Acompanhou a área técnica e consignou que a equiparação do CBIO a ativo financeiro vale apenas nos termos da decisão. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2375.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 58 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 58 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 58 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 58 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 58 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 58 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 58 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 58 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 58 | decisao-colegiado | RJ2012/11653 | 2012-10-10 | outro | cvm-col-20121010-d04 | fichas/colegiado/2012-18.md |
+| art. 58 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 58 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
+| art. 58, § 6º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 58, § 7º | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 58, § 9º, inciso I | decisao-colegiado | 19957.004010/2021-86 | 2021-11-16 | deferido | cvm-col-20211116-d2375 | fichas/colegiado/2021-19.md |
 
 ## art. 59
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 59 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 (arts. 18, 35 e 58) para o registro e a distribuição de cotas dos fundos iShares IBrX-100, iShares Consumo e iShares Imobiliário, administrados pela Citibank DTVM S.A., com base na manifestação da SIN e aplicando os termos da decisão de 30.09.08 (RJ2008/8140). | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d20.md |
-| art. 59 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | fundos-investimento | O Colegiado concedeu ao Banco Itaucard as dispensas da Instrução CVM 359/02 pleiteadas (arts. 18, 35 e 58), relativas a cestas, tolerâncias de reenquadramento e proporcionalidade ao índice, para o It Now IFNC Fundo de Índice, nos termos sugeridos pela SIN. Vale só para esse fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20110201-d06.md |
-| art. 59 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | fundos-investimento | O Colegiado concedeu as dispensas da Instrução CVM 359/02 pleiteadas para os fundos de índice IT Now IGCT e IT Now ISE, nos termos sugeridos pela área técnica (composição do índice, cestas com até 5% em moeda e prazos de reenquadramento), aplicáveis só a esses dois fundos. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d17.md |
-| art. 59 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | fundos-investimento | O Colegiado deferiu dispensas da Instrução CVM 359/02 a dois fundos de índice administrados pelo Itaucard (IT Now IMAT e IT Now IDIV), nos termos sugeridos pela SIN. Abrangem proporcionalidade do índice, ativos fora do índice (até 5%), cestas com moeda corrente e prazos de reenquadramento. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d31.md |
-| art. 59 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | fundos-investimento | O Colegiado concedeu, nos termos sugeridos pela área técnica (MEMO/CVM/SIN/202/2011), dispensas da Instrução CVM 359/02 ao PIBB Fundo de Índice Brasil-50: ativos fora do índice em até 5% do PL, cestas com moeda até 5% e tolerância de 15 e 30 dias úteis para reenquadramento (art. 35). Decisão restrita ao PIBB. Julgamento retomado após pedido de vista. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d02.md |
-| art. 59 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | fundos-investimento | O Colegiado concedeu dispensas da Instrução CVM 359/02 ao iShares Índice Utilidade Pública (UTIL) Fundo de Índice, pedidas pelo Citibank DTVM, nos termos sugeridos pela SIN (Memo/CVM/SIN/23/2012): proporcionalidade ao índice nos 95% do PL (art. 58), até 5% em ativos fora do índice, cestas com moeda (art. 18) e reenquadramento em 15 e 30 dias úteis (art. 35). | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d13.md |
-| art. 59 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | fundos-investimento | O Colegiado concedeu dispensas de requisitos das Instruções CVM 359/02 e 409/04 ao iShares ICO2 Brasil Fundo de Índice (composição da carteira, cestas de integralização e prazos de reenquadramento), nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20120403-d05.md |
-| art. 59 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | fundos-investimento | O Colegiado concedeu ao Caixa ETF Ibovespa Fundo de Índice as dispensas pleiteadas de requisitos das Instruções CVM 359/02 e 409/04, nos termos sugeridos pela SIN. Decisão aplicável só a este fundo. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d09.md |
-| art. 59 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | fundos-investimento | O Colegiado deferiu pedido de registro do iShares S&P 500, fundo de índice no exterior administrado pela Citibank DTVM, reconhecendo o índice e o fundo IVV. Concedeu dispensa do art. 58 da Instrução CVM 359/02 para aplicar pelo menos 95% do PL no IVV, condicionada a prévia aprovação da CVM para swaps. Acompanhou a SIN. | ../../../../../julgados/cvm/colegiado/2014/col-20140311-d09.md |
-| art. 59 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | fundos-investimento | O Colegiado reconheceu o índice S&P 500 TRN e deferiu dispensa do art. 58 da ICVM 359/02 para fundo de índice administrado pelo Itaú Unibanco investir ao menos 95% do PL em cotas de fundo norte-americano (SPY). Considerou desnecessárias ou inaplicáveis as dispensas dos arts. 12, §2º, 22, 30, VII e 59; não concedeu a do art. 35, I. | ../../../../../julgados/cvm/colegiado/2014/col-20140729-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 59 | decisao-colegiado | RJ2009/10070; RJ2009/10071; RJ2009/10072 | 2009-12-01 | deferido | cvm-col-20091201-d20 | fichas/colegiado/2009-22.md |
+| art. 59 | decisao-colegiado | RJ2010/15412 | 2011-02-01 | deferido | cvm-col-20110201-d06 | fichas/colegiado/2011-02.md |
+| art. 59 | decisao-colegiado | RJ2011/6214; RJ2011/6215 | 2011-09-06 | deferido | cvm-col-20110906-d17 | fichas/colegiado/2011-18.md |
+| art. 59 | decisao-colegiado | RJ2011/10146; RJ2011/10152 | 2011-11-22 | deferido | cvm-col-20111122-d31 | fichas/colegiado/2011-26.md |
+| art. 59 | decisao-colegiado | RJ2011/11258 | 2012-01-17 | deferido | cvm-col-20120117-d02 | fichas/colegiado/2012-01.md |
+| art. 59 | decisao-colegiado | RJ2011/11846 | 2012-02-23 | deferido | cvm-col-20120223-d13 | fichas/colegiado/2012-03.md |
+| art. 59 | decisao-colegiado | RJ2012/2223 | 2012-04-03 | deferido | cvm-col-20120403-d05 | fichas/colegiado/2012-06.md |
+| art. 59 | decisao-colegiado | RJ2012/8296 | 2012-10-02 | deferido | cvm-col-20121002-d09 | fichas/colegiado/2012-18.md |
+| art. 59 | decisao-colegiado | RJ2013/8492 | 2014-03-11 | deferido | cvm-col-20140311-d09 | fichas/colegiado/2014-04.md |
+| art. 59 | decisao-colegiado | 359/2002; RJ2013/13357 | 2014-07-29 | parcial | cvm-col-20140729-d02 | fichas/colegiado/2014-14.md |
 
 ## art. 74-D
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 74-D | decisao-colegiado | 19957.010175/2021-97 | 2022-01-11 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, autorizou a B3 a reduzir os mínimos de BDR nível I não patrocinado e de BDR de ETF, com volume diário médio de USD 1 milhão (antes USD 5 milhões). Condicionou a autorização ao monitoramento, pela B3, do segmento de BDR de ETF entre USD 1 e 5 milhões por 24 meses. | ../../../../../julgados/cvm/colegiado/2022/col-20220111-d2458.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 74-D | decisao-colegiado | 19957.010175/2021-97 | 2022-01-11 | deferido | cvm-col-20220111-d2458 | fichas/colegiado/2022-01.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| decisao-colegiado | RJ2015/1595 | 2020-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2015/1595. | ../../../../../julgados/cvm/colegiado/2020/col-20200317-d1753.md |
-| decisao-colegiado | 19957.005955/2019-09 | 2019-07-30 | indeferido | fundos-investimento | O Colegiado indeferiu, por unanimidade, pedido da Vortx DTVM de dispensa dos arts. 3º, III, e 38, VII, da Instrução CVM 356/01 para o FIDC NP Weel (depósito de recursos dos sacados na conta do cedente e classificação de risco das cotas subordinadas), contrariando a área técnica, que recomendava a aprovação. Tema remetido à audiência pública sobre FIDCs. | ../../../../../julgados/cvm/colegiado/2019/col-20190730-d1477.md |
-| pas | RJ2015/2027 | 2019-04-02 | parcial | manipulacao-fraude | Operação fraudulenta no mercado de valores mobiliários. Descumprimento do dever de diligência por administrador de fundo de investimento. Precificação imprecisa de notas estruturadas emitidas pelo Lehman Brother e pelo Commerzbank e adquiridas pelo Real Sovereign Fund. Infração ao disposto no art. 65, inciso VI, c/c o art. 71, inciso II, b, ambos da Instrução CVM n° 409/2004, combinado com os itens 1.2.1.1 e 1.2.1.3 do Plano Contábil dos Fundos de Investimento (COFI), instituído pela Instrução CVM n° 438/2006. Absolvições, multas e proibição temporária. Data decisão CVM Tue Apr 02 16:03:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2015-2027.md |
-| acordao-crsfn | RJ-2006-3364 | 2014-02-18 | parcial | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Oferta pública de cotas de sociedade em conta de participação – Ausência de registro na autoridade supervisora – Irregularidade caracterizada – Recursos a que se nega provimento – Decisão de primeiro grau confirmada. | ../../../../../julgados/crsfn/2014/11644.md |
-| decisao-colegiado | 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | normativo | O Colegiado aprovou a edição de Instrução, após audiência pública SDM 08/2012, que altera a Instrução CVM 359/02 para dispor sobre a constituição, a administração e o funcionamento dos fundos de índice de mercado (ETFs). | ../../../../../julgados/cvm/colegiado/2013/col-20130807-d01.md |
-| decisao-colegiado | 359/2002; RJ2012/10996 | 2012-09-19 | outro | normativo | O Colegiado aprovou, para audiência pública de 30 dias, minuta de instrução que altera a Instrução CVM 359/02 sobre fundos de índice (ETFs), para permitir estratégias que repliquem índices de renda fixa e fixar critérios de reconhecimento de índices. A SDM consolidará as contribuições. | ../../../../../julgados/cvm/colegiado/2012/col-20120919-d01.md |
-| decisao-colegiado | RJ2011/11258 | 2011-12-27 | — | outros | Discussão do pedido de dispensa de requisitos da Instrução CVM 359/02 formulado pelo Itaú Unibanco S.A. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2011/col-20111227-d09.md |
-| decisao-colegiado | SP2010/0284 | 2011-08-16 | provido | intermediacao | O Colegiado deu provimento a recurso da Itaú Corretora contra decisão da SMI e autorizou a implementação do Projeto Cadastro Automatizado (declaração do cliente com validação eletrônica, sem recepção nem arquivo de cópias dos documentos físicos), sob exclusiva responsabilidade da corretora, acompanhando o voto da relatora. Autorização restrita a este caso. | ../../../../../julgados/cvm/colegiado/2011/col-20110816-d03.md |
-| decisao-colegiado | — | 2008-07-09 | outro | fundos-investimento | O Colegiado decidiu pela possibilidade de flexibilizar requisitos da Instrução CVM 359/02 para fundos de índice (ETF), por meio de concessão de dispensa, com elaboração de comunicado ao mercado sobre essa possibilidade. | ../../../../../julgados/cvm/colegiado/2008/col-20080709-d01.md |
-| decisao-colegiado | RJ2008/1971 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1971. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d14.md |
-| decisao-colegiado | RJ2008/1970 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1970. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d13.md |
-| decisao-colegiado | RJ2008/1969 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1969. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d12.md |
-| decisao-colegiado | RJ2008/1968 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1968. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d11.md |
-| decisao-colegiado | RJ2008/1967 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1967. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d10.md |
-| decisao-colegiado | RJ2008/1966 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1966. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d09.md |
-| decisao-colegiado | RJ2008/1965 | 2008-03-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SMI em processo de multa cominatória. Proc. RJ2008/1965. | ../../../../../julgados/cvm/colegiado/2008/col-20080325-d08.md |
-| pas | RJ2006/3364 | 2007-05-16 | parcial | ofertas-publicas | Realização de oferta pública de valores mobiliários sem o devido registro na CVM. Violação ao disposto no art. 19, caput, da Lei 6.385/76; art. 1o da Instrução 270/98; e art. 3o, caput, da Instrução 296/98. Multa e absolvições. | ../../../../../julgados/cvm/pas/2007/rj2006-3364.md |
-| decisao-colegiado | RJ2003/7972 | 2003-12-02 | deferido | fundos-investimento | O Colegiado concedeu autorização especial para que os fundos Gouda e HSBC Marken recebam debêntures NET e as repassem aos quotistas, nos termos da IN CVM 394/2003, acompanhando o voto da relatora. | ../../../../../julgados/cvm/colegiado/2003/col-20031202-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| decisao-colegiado | RJ2015/1595 | 2020-03-17 | nao-provido | cvm-col-20200317-d1753 | fichas/colegiado/2020-05.md |
+| decisao-colegiado | 19957.005955/2019-09 | 2019-07-30 | indeferido | cvm-col-20190730-d1477 | fichas/colegiado/2019-11.md |
+| pas | RJ2015/2027 | 2019-04-02 | parcial | cvm-pas-rj2015-2027 | fichas/pas/2019-03.md |
+| acordao-crsfn | RJ-2006-3364 | 2014-02-18 | parcial | crsfn-11644 | fichas/crsfn/2014-01.md |
+| decisao-colegiado | 08/2012; 359/2002; RJ2012/10996 | 2013-08-07 | outro | cvm-col-20130807-d01 | fichas/colegiado/2013-14.md |
+| decisao-colegiado | 359/2002; RJ2012/10996 | 2012-09-19 | outro | cvm-col-20120919-d01 | fichas/colegiado/2012-17.md |
+| decisao-colegiado | RJ2011/11258 | 2011-12-27 | — | cvm-col-20111227-d09 | fichas/colegiado/2011-30.md |
+| decisao-colegiado | SP2010/0284 | 2011-08-16 | provido | cvm-col-20110816-d03 | fichas/colegiado/2011-16.md |
+| decisao-colegiado | — | 2008-07-09 | outro | cvm-col-20080709-d01 | fichas/colegiado/2008-15.md |
+| decisao-colegiado | RJ2008/1971 | 2008-03-25 | nao-provido | cvm-col-20080325-d14 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1970 | 2008-03-25 | nao-provido | cvm-col-20080325-d13 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1969 | 2008-03-25 | nao-provido | cvm-col-20080325-d12 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1968 | 2008-03-25 | nao-provido | cvm-col-20080325-d11 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1967 | 2008-03-25 | nao-provido | cvm-col-20080325-d10 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1966 | 2008-03-25 | nao-provido | cvm-col-20080325-d09 | fichas/colegiado/2008-07.md |
+| decisao-colegiado | RJ2008/1965 | 2008-03-25 | nao-provido | cvm-col-20080325-d08 | fichas/colegiado/2008-07.md |
+| pas | RJ2006/3364 | 2007-05-16 | parcial | cvm-pas-rj2006-3364 | fichas/pas/2007-03.md |
+| decisao-colegiado | RJ2003/7972 | 2003-12-02 | deferido | cvm-col-20031202-d01 | fichas/colegiado/2003-14.md |
 
 Fim do subíndice.

@@ -3,110 +3,110 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2006/0796. | ../../../../../julgados/cvm/colegiado/2006/col-20060613-d07.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | RJ2006/0796 | 2006-06-13 | parcial | cvm-col-20060613-d07 | fichas/colegiado/2006-09.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos auditores independentes pelo diretor do Fundo – Ausência de recursos financeiros para arcar com as despesas relativas à elaboração dos laudos e correspondente publicação – Irregularidade não configurada – Recurso conhecido e improvido. | ../../../../../julgados/crsfn/2005/5953.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | crsfn-5953 | fichas/crsfn/2005-02.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação e não publicação de parecer dos auditores independentes pelo diretor do Fundo – Ausência de recursos financeiros para arcar com as despesas relativas à elaboração dos laudos e correspondente publicação – Irregularidade não configurada – Recurso conhecido e improvido. | ../../../../../julgados/crsfn/2005/5953.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | acordao-crsfn | Recurso 5953 | 2005-11-09 | absolvicao | crsfn-5953 | fichas/crsfn/2005-02.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | SP2017/440 | 2023-05-09 | condenacao | deveres-administradores | RECURSO ADMINISTRATIVO. CONSELHO FISCAL. INADIMPLÊNCIA DE ACIONISTA CONTROLADOR. INFRAÇÕES CONTÁBEIS. DEMONSTRAÇÕES FINANCEIRAS EM DESACORDO COM NORMAS CONTÁBEIS. Consignação de créditos prescritos e não pagos. Responsabilidade de membros do Conselho de Administração e do Conselho Fiscal. Irregularidade caracterizada. Descumprimento dos Pronunciamentos Técnicos CPC 38 e CPC 40 c/c o art. 176, §5º, III, da Lei nº 6.404/1976. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2023/10372-100097-2021-18.md |
-| art. 7º | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | exercicio-irregular | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. EXERCÍCIO PROFISSIONAL DE ADMINISTRAÇÃO DE CARTEIRAS DE VALORES MOBILIÁRIOS SEM AUTORIZAÇÃO PRÉVIA DA CVM. Infração aos art. 23 da Lei nº 6.385/1976 e art. 2º da Resolução CVM nº 21/2021. Irregularidades caracterizadas. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-000883-2024-62.md |
-| art. 7º | acordao-crsfn | 19957.001127/2024-51 | 2025-07-15 | condenacao | exercicio-irregular | RECURSO ADMINISTRATIVO. CVM. VALORES MOBILIÁRIOS. EXERCÍCIO PROFISSIONAL DE ADMINISTRAÇÃO DE CARTEIRAS DE VALORES MOBILIÁRIOS SEM AUTORIZAÇÃO PRÉVIA DA CVM. Irregularidade caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-001127-2024-51.md |
-| art. 7º | acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | administracao-carteiras | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. GESTÃO IRREGULAR DE CARTEIRA DE VALORES MOBILIÁRIOS. EXERCÍCIO PROFISSIONAL DE ADMINISTRAÇÃO DE CARTEIRAS DE VALORES MOBILIÁRIOS SEM AUTORIZAÇÃO PRÉVIA DA CVM. Irregularidade caracterizada. Multa adequada aos limites da legislação vigente. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-003158-2020-12.md |
-| art. 7º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | acordao-crsfn | SP2017/440 | 2023-05-09 | condenacao | crsfn-10372-100097-2021-18 | fichas/crsfn/2023-04.md |
+| art. 7º | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | crsfn-19957-000883-2024-62 | fichas/crsfn/2025-03.md |
+| art. 7º | acordao-crsfn | 19957.001127/2024-51 | 2025-07-15 | condenacao | crsfn-19957-001127-2024-51 | fichas/crsfn/2025-04.md |
+| art. 7º | acordao-crsfn | 19957.003158/2020-12 | 2025-09-16 | condenacao | crsfn-19957-003158-2020-12 | fichas/crsfn/2025-04.md |
+| art. 7º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008937/2019-71 | 2019-12-17 | nao-provido | administracao-carteiras | O Colegiado, acompanhando a SIN, negou provimento a recurso contra cancelamento de credenciamento de administrador de carteira por perda do requisito do art. 3º, VII, da ICVM 558/15 (não estar impedido de administrar bens por decisão judicial ou administrativa), após indisponibilidade de bens decretada pelo Banco Central contra o recorrente, controlador e ex-administrador de instituição em liquidação. | ../../../../../julgados/cvm/colegiado/2019/col-20191217-d1640.md |
-| decisao-colegiado | 19957.008957/2019-41 | 2019-12-10 | nao-provido | administracao-carteiras | O Colegiado negou provimento a recurso contra decisão da SIN que cancelou o credenciamento de administrador de carteira do recorrente, acompanhando a área técnica. Fundamento: perda do requisito do art. 3º, VII, da Instrução CVM 558/15, após liquidação extrajudicial e indisponibilidade de bens de instituição em que o recorrente era controlador ou ex-administrador. | ../../../../../julgados/cvm/colegiado/2019/col-20191210-d1633.md |
-| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO. CVM. Sociedade Anônima. Informações periódicas ou eventuais. Atraso na entrega. Recurso desprovido. | ../../../../../julgados/crsfn/2017/14325.md |
-| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO. Diretor de Relações com Investidores - atraso e não envio de informações. | ../../../../../julgados/crsfn/2017/13751.md |
-| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Atraso na entrega, à autoridade supervisora, de formulário de informações trimestrais (ITR) e de Formulário de Referência – Irregularidades não caracterizadas – Recurso de ofício desprovido (Arquivamento confirmado). | ../../../../../julgados/crsfn/2016/13690.md |
-| acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Diretor de Relação com Investidores – Atraso ou não envio de informações periódicas à autoridade supervisora - Irregularidades caracterizadas – Apelo voluntário a que se nega provimento – Recurso de ofício, tido por interposto, provido. | ../../../../../julgados/crsfn/2016/13425.md |
-| acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Diretor de Relação com Investidores – Descumprimento do dever de encaminhar informações periódicas à autoridade supervisora - Falta de atualização de registro de companhia aberta – Irregularidades caracterizadas – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2016/13417.md |
-| decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8094. | ../../../../../julgados/cvm/colegiado/2015/col-20150707-d8708.md |
-| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Diretor de Relações com Investidores - Não fornecimento, nos prazos regulamentares, de informações obrigatórias exigidas pela autoridade supervisora - Irregularidades não caracterizadas – Recurso de ofício desprovido – Arquivamento confirmado. | ../../../../../julgados/crsfn/2015/13418.md |
-| decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2013/col-20131210-d06.md |
-| decisao-colegiado | RJ2012/8091 | 2013-05-07 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2012/8091. | ../../../../../julgados/cvm/colegiado/2013/col-20130507-d06.md |
-| decisao-colegiado | RJ2010/10383 | 2013-02-26 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SRE em julgamento de processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d03.md |
-| decisao-colegiado | RJ2011/7383 | 2012-12-04 | provido | divulgacao-informacoes | Recurso contra decisão da SEP. | ../../../../../julgados/cvm/colegiado/2012/col-20121204-d01.md |
-| decisao-colegiado | RJ2012/1605 | 2012-07-10 | nao-provido | intermediacao | Recurso contra decisão da SMI em processo de rito sumário. PAS RJ2012/1605. | ../../../../../julgados/cvm/colegiado/2012/col-20120710-d07.md |
-| decisao-colegiado | RJ2011/7390 | 2012-07-03 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2012/col-20120703-d11.md |
-| decisao-colegiado | RJ2011/7379 | 2012-04-17 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/7379. | ../../../../../julgados/cvm/colegiado/2012/col-20120417-d15.md |
-| decisao-colegiado | RJ2011/7389 | 2012-03-20 | provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2012/col-20120320-d07.md |
-| termo-compromisso | RJ2011/7383 | 2012-02-23 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou a proposta de termo de compromisso do DRI da Lark S.A. Máquinas e Equipamentos, em PAS por atraso em informações obrigatórias (ICVM 480/09; exercícios 2010 e 2011). Contra o entendimento do Comitê, que a considerou conveniente, entendeu não haver precedentes que justifiquem o parcelamento de R$ 35.000,00 em seis parcelas. | ../../../../../julgados/cvm/colegiado/2012/col-20120223-d08.md |
-| decisao-colegiado | RJ2011/7385 | 2011-12-27 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2011/7385. | ../../../../../julgados/cvm/colegiado/2011/col-20111227-d06.md |
-| decisao-colegiado | RJ2011/7387 | 2011-12-06 | parcial | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2011/7387. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d10.md |
-| termo-compromisso | RJ2011/7381 | 2011-11-29 | rejeitado | divulgacao-informacoes | O Colegiado rejeitou proposta de termo de compromisso de R$ 5.000,00 do proponente, diretor de relações com investidores da Indústria de Máquinas Agrícolas Fuchs S.A., acompanhando o Comitê. Processo sumário (RJ2011/7381) por deixar de prestar informações obrigatórias de 2009 a 2011. Para o Comitê, o valor não era adequado à função preventiva do instituto, embora a companhia tenha se regularizado. | ../../../../../julgados/cvm/colegiado/2011/col-20111129-d05.md |
-| decisao-colegiado | RJ2011/8546 | 2011-10-25 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8546. | ../../../../../julgados/cvm/colegiado/2011/col-20111025-d12.md |
-| decisao-colegiado | RJ2011/8545 | 2011-09-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/8545. | ../../../../../julgados/cvm/colegiado/2011/col-20110920-d06.md |
-| decisao-colegiado | RJ2009/12672 | 2011-06-07 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2011/col-20110607-d09.md |
-| acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) - Mercado de valores mobiliários – Atraso ou não envio, à autoridade supervisora, de demonstrações financeiras (Anuais completas, Padronizadas e Formulário trimestral)- Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2011/12078.md |
-| termo-compromisso | RJ2010/10383 | 2011-05-17 | rejeitado | divulgacao-informacoes | Acompanhando o parecer do Comitê, o Colegiado rejeitou a proposta de Termo de Compromisso da Filmes do Equador Ltda. e de seu sócio responsável, de R$ 15.000,00 cada, por não entrega tempestiva dos Relatórios ISA (art. 25, §1º, da Instrução 260/97). O Comitê e a PFE viram óbice jurídico, pois os relatórios ainda tinham erros de receita de home vídeo. | ../../../../../julgados/cvm/colegiado/2011/col-20110517-d02.md |
-| decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. PAS RJ2010/11571. | ../../../../../julgados/cvm/colegiado/2010/col-20101104-d02.md |
-| decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | divulgacao-informacoes | Recurso de ofício da SEP em processo de rito sumário. PAS RJ2010/11572. | ../../../../../julgados/cvm/colegiado/2010/col-20101014-d05.md |
-| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) – Mercado de Valores Mobiliários – Falta de remessa, à autoridade supervisora, de informações periódicas previstas em normativo regulamentar (Instrução CVM n. 202/93) – Irregularidade caracterizada – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2010/11169.md |
-| decisao-colegiado | RJ2009/4087 | 2009-08-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP. PAS RJ2009/4087. | ../../../../../julgados/cvm/colegiado/2009/col-20090811-d03.md |
-| decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP. PAS RJ2009/3955. | ../../../../../julgados/cvm/colegiado/2009/col-20090804-d03.md |
-| acordao-crsfn | RJ-2002-08479 | 2009-05-21 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundo de investimento – Falta de apresentação do comprovante de envio do regulamento do condomínio a investidor – Regular incorporação como fator, na espécie, de causa extintiva de punibilidade – Ausência de elementos comprobatórios de participação da pessoa física recorrida – Recurso improvido. | ../../../../../julgados/crsfn/2009/9252.md |
-| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | divulgacao-informacoes | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Falta de tempestivo envio, à autoridade supervisora, de informações obrigatórias (em especial, demonstrações financeiras) consignadas em normativo regulamentar – Irregularidade caracterizada – Responsabilização do diretor de relações com investidores (DRI) – Apelo a que se nega provimento. | ../../../../../julgados/crsfn/2009/11637.md |
-| decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2007/10965. | ../../../../../julgados/cvm/colegiado/2008/col-20080401-d17.md |
-| decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. PAS RJ2007/1208. | ../../../../../julgados/cvm/colegiado/2007/col-20071106-d04.md |
-| decisao-colegiado | RJ2007/3560 | 2007-08-21 | provido | fundos-investimento | Recurso contra decisão da SIN em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2007/col-20070821-d10.md |
-| acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | intermediacao | RECURSO VOLUNTÁRIO – Mercado de valores mobiliários – Financiamento de saldos devedores de responsabilidade de cliente sem prévia assinatura do respectivo contrato – Irregularidade caracterizada – Apelos a que se nega provimento. | ../../../../../julgados/crsfn/2007/6311.md |
-| pas | 01/2003 | 2007-02-01 | absolvicao | divulgacao-informacoes | Não divulgação de fato relevante, em infração ao art. 9º da Instrução CVM nº 31/84. Infração ao dever de diligência previsto no art. 153 da Lei nº 6.404/76. Falta de fiscalização das atividades do Diretor-Presidente por parte dos membros do Conselho de Administração, em infração ao art. 142, III, da Lei nº 6.404/76. Absolvições. | ../../../../../julgados/cvm/pas/2007/01-2003.md |
-| pas | RJ2005/4346 | 2006-11-07 | parcial | registro-emissor | Descumprimento reiterado do dever de manter o registro de companhia aberta atualizado, enviando informações periódicas previstas nos arts. 13 e 16 da Instrução CVM nº 202/93. Multa para o Diretor de Relações com o Mercado e absolvição dos membros da Diretoria e do Conselho de Administração da companhia. | ../../../../../julgados/cvm/pas/2006/rj2005-4346.md |
-| pas | RJ2006/1559 | 2006-09-26 | parcial | divulgacao-informacoes | Responsabilização dos administradores da companhia Goyana S.A. Indústrias Brasileiras de Matérias Plásticas pelo reiterado descumprimento do dever de manter o seu registro atualizado junto à CVM, enviando as informações periódicas previstas nos artigos 13, 16 e 17 da Instrução CVM nº 202/93, em infração aos seguintes dispositivos normativos: a) artigo 6º dessa mesma Instrução, em relação ao Diretor de Relações com Investidores; b) artigo 153 da Lei nº 6.404/76, em relação aos membros do Conselho de Administração, tendo em vista o disposto no artigo 18 daquela Instrução. Absolvição dos membros do Conselho de Administração e multa para o Diretor de Relação com Investidores. | ../../../../../julgados/cvm/pas/2006/rj2006-1559.md |
-| pas | RJ2002/4311 | 2006-09-25 | condenacao | assembleia-acionistas | Não convocação da AGO nos 4 primeiros meses seguintes ao término do exercício social, em inobservância ao dever imposto no art. 132 da Lei nº 6.404/76 e no art. 23, f, do estatuto social da Companhia Café Solúvel Brasília S.A., considerada infração grave pelo art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Advertências. - Não apresentação de demonstrações financeiras, em infração ao art. 16 da Instrução CVM nº 202/93, considerada infração grave, pelo disposto no art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Multa. - Não convocação da AGO, em infração ao dever legal imposto no inciso V do artigo 163 da Lei nº 6.404/76, alterado pela Lei nº 10.303/01, considerada infração grave pelo disposto no art. 11, § 3º, da Lei nº 6.385/76 e pelo art. 19, parágrafo único, da Instrução CVM nº 202/93. Advertências. | ../../../../../julgados/cvm/pas/2006/rj2002-4311.md |
-| termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | intermediacao | O Colegiado rejeitou a proposta de Termo de Compromisso da BRB DTVM S.A. e de seu diretor, em PAS por uso indevido de recursos de investidor em conta corrente, acompanhando o parecer do Comitê. Fundamento: o pagamento proposto não desestimula infrações semelhantes, requisito da celebração. Devolveu o processo à SIN para PAS de rito sumário. | ../../../../../julgados/cvm/colegiado/2006/col-20060829-d04.md |
-| pas | RJ2006/1853 | 2006-08-22 | parcial | divulgacao-informacoes | Descumprimento do dever de manter o registro de companhia aberta atualizado, enviando à CVM as informações periódicas previstas nos artigos 13 e 16 da Instrução CVM nº 202/93. Advertência, multa e absolvições. - Suposta infração ao dever de diligência por parte dos administradores de companhia aberta. Absolvições. | ../../../../../julgados/cvm/pas/2006/rj2006-1853.md |
-| pas | RJ2006/1623 | 2006-08-01 | parcial | divulgacao-informacoes | Descumprimento do dever de diligência pela não manutenção do registro de companhia aberta atualizado. | ../../../../../julgados/cvm/pas/2006/rj2006-1623.md |
-| decisao-colegiado | RJ2006/0806 | 2006-06-20 | nao-provido | divulgacao-informacoes | Recurso de ofício em processo de rito sumário. PAS RJ2006/0806. | ../../../../../julgados/cvm/colegiado/2006/col-20060620-d01.md |
-| pas | RJ2006/1267 | 2006-06-14 | parcial | divulgacao-informacoes | Descumprimento reiterado do dever de manter atualizado o registro de companhia aberta, por parte de seu Diretor de Relações com Investidores. Multa. - Ausência de questionamentos e de diligência em relação à desatualização do registro de companhia aberta, por parte de seu diretor estatutário. Inexistência de obrigação legal que lhe imponha o zelo pelo cumprimento das obrigações de outro diretor (DRI). Absolvição. - Ausência de questionamentos e de diligência em relação à desatualização do registro de companhia aberta, por parte do presidente e dos membros do conselho de administração. A CVM não logrou comprovar a negligência dos acusados em que se baseou a imputação formulada. Absolvição. | ../../../../../julgados/cvm/pas/2006/rj2006-1267.md |
-| decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em processo de rito sumário. Proc. RJ2005/8359. | ../../../../../julgados/cvm/colegiado/2006/col-20060518-d02.md |
-| pas | RJ2005/5936 | 2006-05-04 | parcial | divulgacao-informacoes | Responsabilidade do Diretor de Relações com o Mercado da Cia Fiação [pessoa física] pelo descumprimento do dever de manter atualizado o registro da companhia através do encaminhamento de informações periódicas à CVM. Multa. - Responsabilidade de membros do Conselho de Administração da Cia Fiação [pessoa física] pelo descumprimento do dever de manter atualizado o registro da companhia através do encaminhamento de informações periódicas à CVM. Absolvição. | ../../../../../julgados/cvm/pas/2006/rj2005-5936.md |
-| pas | RJ2005/5041 | 2006-05-04 | parcial | divulgacao-informacoes | Responsabilidade do Diretor de Relações com Investidores da Beta S.A. Indústria e Comércio pelo descumprimento do dever de manter atualizado o registro da companhia através do encaminhamento de informações periódicas à CVM. Multa. - Responsabilidade de diretor e membro do Conselho de Administração da Beta S.A. Indústria e Comércio pelo descumprimento do dever de manter atualizado o registro da companhia através do encaminhamento de informações periódicas à CVM. Absolvição. | ../../../../../julgados/cvm/pas/2006/rj2005-5041.md |
-| pas | RJ2005/1952 | 2005-12-02 | condenacao | pld | PAX CORRETORA DE VALORES E CÂMBIO LTDA. Considerando o Relatório de Inspeção CVM/SFI/GFE-2/Nº 07/2005 e a Análise CVM/SMI/GMN/009/2005, bem como a condição de revéis dos intimados, decide-se pela aplicação da pena de advertência a ambos, por manterem cadastros de clientes elaborados de forma incompleta, em infração ao art. 3º da Instrução CVM nº 301/99. | ../../../../../julgados/cvm/pas/2005/rj2005-1952.md |
-| pas | 06/2002 | 2005-11-16 | parcial | exercicio-irregular | Infração ao disposto no art. 2º, § 1º, da Instrução CVM nº 310/99. Multa. - Exercício irregular da atividade de mediação de valores mobiliários.Absolvição. | ../../../../../julgados/cvm/pas/2005/06-2002.md |
-| pas | RJ2005/3750 | 2005-10-19 | absolvicao | registro-emissor | Descumprimento do dever de manter atualizado o registro na CVM, enviando informações periódicas e eventuais. Abolvição. | ../../../../../julgados/cvm/pas/2005/rj2005-3750.md |
-| pas | SP2003/0070 | 2005-04-26 | absolvicao | pld | [pessoa física] e HEDGING-GRIFFO CORRETORA VALORES S.A. Não caracterização da imputação de responsabilidade por acolher e realizar operações de clientes sem as informações cadastrais mínimas, em infração ao disposto no art. 3º, da Instrução CVM nº 301/99, que dispõe sobre procedimentos de elaboração e atualização de cadastro de clientes, que visam a evitar o uso do mercado de valores mobiliários para o que comumente se denomina “lavagem de dinheiro”, zelando-se, assim, pelo seu melhor equilíbrio e integridade. | ../../../../../julgados/cvm/pas/2005/sp2003-0070.md |
-| pas | SP2004/0104 | 2005-04-01 | condenacao | pld | Infração ao disposto no artigo 3º da Instrução CVM nº 301, de 16 de abril de1999. | ../../../../../julgados/cvm/pas/2005/sp2004-0104.md |
-| decisao-colegiado | RJ2002/8509 | 2004-11-03 | nao-provido | intermediacao | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2002/8509. | ../../../../../julgados/cvm/colegiado/2004/col-20041103-d02.md |
-| decisao-colegiado | RJ2003/7776 | 2004-09-15 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2003/7776. | ../../../../../julgados/cvm/colegiado/2004/col-20040915-d01.md |
-| decisao-colegiado | RJ2003/6973 | 2004-08-24 | provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ2003/6973. | ../../../../../julgados/cvm/colegiado/2004/col-20040824-d05.md |
-| termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | processual | O Colegiado negou a celebração de termo de compromisso proposto por uma corretora e outros proponentes em processo de rito sumário, por considerar insuficientes os termos da proposta, com base no voto do relator. | ../../../../../julgados/cvm/colegiado/2004/col-20040805-d05.md |
-| decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. RJ98/4733. | ../../../../../julgados/cvm/colegiado/2004/col-20040713-d09.md |
-| decisao-colegiado | RJ2001/12098 | 2004-03-02 | outro | outros | O Colegiado acompanhou o voto do Diretor-Relator e decidiu arquivar o processo contra o BB DTVM, por cumprimento integral do termo de compromisso, confirmado por parecer da Trevisan Auditores Independentes. | ../../../../../julgados/cvm/colegiado/2004/col-20040302-d05.md |
-| decisao-colegiado | SP2003/0374 | 2003-12-16 | nao-provido | pld | Recurso contra decisão da SMI em processo de rito sumário. Proc. SP2003/0374. | ../../../../../julgados/cvm/colegiado/2003/col-20031216-d09.md |
-| decisao-colegiado | SP2003/0285 | 2003-11-25 | nao-provido | outros | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2003/0285. | ../../../../../julgados/cvm/colegiado/2003/col-20031125-d01.md |
-| decisao-colegiado | RJ2001/9931 | 2003-11-11 | nao-provido | deveres-administradores | O Colegiado, acompanhando o voto da Diretora-Relatora, indeferiu pedido de reconsideração de decisão que negara recurso relativo à cessão de créditos de banco, por não haver indícios de infração nem demonstração de prejuízo aos acionistas minoritários, e manteve a decisão de 12.08.2003. | ../../../../../julgados/cvm/colegiado/2003/col-20031111-d04.md |
-| decisao-colegiado | RJ2002/7775 | 2003-07-29 | nao-provido | multa-cominatoria-taxa | O Colegiado rejeitou pedido de reconsideração de decisão anterior que indeferira o cancelamento de multa cominatória da Mellon Brascan DTVM S/A, mantendo a decisão da SIN. Acompanhou o voto do diretor-relator. O pedido repetiu argumentos já apresentados ao Colegiado. | ../../../../../julgados/cvm/colegiado/2003/col-20030729-d05.md |
-| decisao-colegiado | SP2001/0548 | 2002-07-29 | nao-provido | pld | Recurso contra a decisão da SMI em processo de rito sumário. Proc. SP2001/0548. | ../../../../../julgados/cvm/colegiado/2002/col-20020729-d04.md |
-| decisao-colegiado | SP2000/0108 | 2002-01-22 | nao-provido | pld | Recurso de ccf brasil CTVM S.A. e josé marcos chiacaroni contra decisão da SMI em processo de rito sumário, que lhes aplicou a pena de advertência. Proc. SP2000/0108. | ../../../../../julgados/cvm/colegiado/2002/col-20020122-d05.md |
-| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
-| decisao-antiga | — | 1999-01-29 | — | — | Decisões do colegiado de 1999. | ../../../../../julgados/cvm/decisoes-antigas/1999.md |
-| decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008937/2019-71 | 2019-12-17 | nao-provido | cvm-col-20191217-d1640 | fichas/colegiado/2019-21.md |
+| decisao-colegiado | 19957.008957/2019-41 | 2019-12-10 | nao-provido | cvm-col-20191210-d1633 | fichas/colegiado/2019-20.md |
+| acordao-crsfn | RJ-2012-8094 | 2017-07-25 | condenacao | crsfn-14325 | fichas/crsfn/2017-06.md |
+| acordao-crsfn | RJ8091/2012 | 2017-03-14 | condenacao | crsfn-13751 | fichas/crsfn/2017-02.md |
+| acordao-crsfn | RJ2011/9493 | 2016-10-07 | arquivamento | crsfn-13690 | fichas/crsfn/2016-05.md |
+| acordao-crsfn | RJ2011/7390 | 2016-01-21 | condenacao | crsfn-13425 | fichas/crsfn/2016-01.md |
+| acordao-crsfn | RJ2011/7379 | 2016-01-21 | condenacao | crsfn-13417 | fichas/crsfn/2016-01.md |
+| decisao-colegiado | RJ2012/8094 | 2015-07-07 | parcial | cvm-col-20150707-d8708 | fichas/colegiado/2015-12.md |
+| acordao-crsfn | RJ2011/7389 | 2015-06-30 | absolvicao | crsfn-13418 | fichas/crsfn/2015-02.md |
+| decisao-colegiado | RJ2011/7381 | 2013-12-10 | parcial | cvm-col-20131210-d06 | fichas/colegiado/2013-23.md |
+| decisao-colegiado | RJ2012/8091 | 2013-05-07 | nao-provido | cvm-col-20130507-d06 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2010/10383 | 2013-02-26 | nao-provido | cvm-col-20130226-d03 | fichas/colegiado/2013-05.md |
+| decisao-colegiado | RJ2011/7383 | 2012-12-04 | provido | cvm-col-20121204-d01 | fichas/colegiado/2012-22.md |
+| decisao-colegiado | RJ2012/1605 | 2012-07-10 | nao-provido | cvm-col-20120710-d07 | fichas/colegiado/2012-12.md |
+| decisao-colegiado | RJ2011/7390 | 2012-07-03 | parcial | cvm-col-20120703-d11 | fichas/colegiado/2012-11.md |
+| decisao-colegiado | RJ2011/7379 | 2012-04-17 | nao-provido | cvm-col-20120417-d15 | fichas/colegiado/2012-08.md |
+| decisao-colegiado | RJ2011/7389 | 2012-03-20 | provido | cvm-col-20120320-d07 | fichas/colegiado/2012-05.md |
+| termo-compromisso | RJ2011/7383 | 2012-02-23 | rejeitado | cvm-col-20120223-d08 | fichas/tc/2012-01.md |
+| decisao-colegiado | RJ2011/7385 | 2011-12-27 | parcial | cvm-col-20111227-d06 | fichas/colegiado/2011-29.md |
+| decisao-colegiado | RJ2011/7387 | 2011-12-06 | parcial | cvm-col-20111206-d10 | fichas/colegiado/2011-28.md |
+| termo-compromisso | RJ2011/7381 | 2011-11-29 | rejeitado | cvm-col-20111129-d05 | fichas/tc/2011-05.md |
+| decisao-colegiado | RJ2011/8546 | 2011-10-25 | parcial | cvm-col-20111025-d12 | fichas/colegiado/2011-23.md |
+| decisao-colegiado | RJ2011/8545 | 2011-09-20 | nao-provido | cvm-col-20110920-d06 | fichas/colegiado/2011-19.md |
+| decisao-colegiado | RJ2009/12672 | 2011-06-07 | nao-provido | cvm-col-20110607-d09 | fichas/colegiado/2011-12.md |
+| acordao-crsfn | RJ-2008-2282 | 2011-05-31 | condenacao | crsfn-12078 | fichas/crsfn/2011-02.md |
+| termo-compromisso | RJ2010/10383 | 2011-05-17 | rejeitado | cvm-col-20110517-d02 | fichas/tc/2011-02.md |
+| decisao-colegiado | RJ2010/11571 | 2010-11-04 | nao-provido | cvm-col-20101104-d02 | fichas/colegiado/2010-22.md |
+| decisao-colegiado | RJ2010/11572 | 2010-10-14 | nao-provido | cvm-col-20101014-d05 | fichas/colegiado/2010-21.md |
+| acordao-crsfn | RJ-2006-0800 | 2010-04-29 | condenacao | crsfn-11169 | fichas/crsfn/2010-02.md |
+| decisao-colegiado | RJ2009/4087 | 2009-08-11 | nao-provido | cvm-col-20090811-d03 | fichas/colegiado/2009-14.md |
+| decisao-colegiado | RJ2009/3955 | 2009-08-04 | nao-provido | cvm-col-20090804-d03 | fichas/colegiado/2009-14.md |
+| acordao-crsfn | RJ-2002-08479 | 2009-05-21 | absolvicao | crsfn-9252 | fichas/crsfn/2009-03.md |
+| acordao-crsfn | RJ-2006-8981 | 2009-05-06 | condenacao | crsfn-11637 | fichas/crsfn/2009-02.md |
+| decisao-colegiado | RJ2007/10965 | 2008-04-01 | nao-provido | cvm-col-20080401-d17 | fichas/colegiado/2008-08.md |
+| decisao-colegiado | RJ2007/1208 | 2007-11-06 | nao-provido | cvm-col-20071106-d04 | fichas/colegiado/2007-22.md |
+| decisao-colegiado | RJ2007/3560 | 2007-08-21 | provido | cvm-col-20070821-d10 | fichas/colegiado/2007-15.md |
+| acordao-crsfn | RJ-2002-08509 | 2007-04-25 | condenacao | crsfn-6311 | fichas/crsfn/2007-01.md |
+| pas | 01/2003 | 2007-02-01 | absolvicao | cvm-pas-01-2003 | fichas/pas/2007-02.md |
+| pas | RJ2005/4346 | 2006-11-07 | parcial | cvm-pas-rj2005-4346 | fichas/pas/2006-12.md |
+| pas | RJ2006/1559 | 2006-09-26 | parcial | cvm-pas-rj2006-1559 | fichas/pas/2006-09.md |
+| pas | RJ2002/4311 | 2006-09-25 | condenacao | cvm-pas-rj2002-4311 | fichas/pas/2006-09.md |
+| termo-compromisso | RJ2005/9001 | 2006-08-29 | rejeitado | cvm-col-20060829-d04 | fichas/tc/2006-04.md |
+| pas | RJ2006/1853 | 2006-08-22 | parcial | cvm-pas-rj2006-1853 | fichas/pas/2006-08.md |
+| pas | RJ2006/1623 | 2006-08-01 | parcial | cvm-pas-rj2006-1623 | fichas/pas/2006-07.md |
+| decisao-colegiado | RJ2006/0806 | 2006-06-20 | nao-provido | cvm-col-20060620-d01 | fichas/colegiado/2006-09.md |
+| pas | RJ2006/1267 | 2006-06-14 | parcial | cvm-pas-rj2006-1267 | fichas/pas/2006-06.md |
+| decisao-colegiado | RJ2005/8359 | 2006-05-18 | nao-provido | cvm-col-20060518-d02 | fichas/colegiado/2006-07.md |
+| pas | RJ2005/5936 | 2006-05-04 | parcial | cvm-pas-rj2005-5936 | fichas/pas/2006-04.md |
+| pas | RJ2005/5041 | 2006-05-04 | parcial | cvm-pas-rj2005-5041 | fichas/pas/2006-04.md |
+| pas | RJ2005/1952 | 2005-12-02 | condenacao | cvm-pas-rj2005-1952 | fichas/pas/2005-09.md |
+| pas | 06/2002 | 2005-11-16 | parcial | cvm-pas-06-2002 | fichas/pas/2005-08.md |
+| pas | RJ2005/3750 | 2005-10-19 | absolvicao | cvm-pas-rj2005-3750 | fichas/pas/2005-07.md |
+| pas | SP2003/0070 | 2005-04-26 | absolvicao | cvm-pas-sp2003-0070 | fichas/pas/2005-03.md |
+| pas | SP2004/0104 | 2005-04-01 | condenacao | cvm-pas-sp2004-0104 | fichas/pas/2005-03.md |
+| decisao-colegiado | RJ2002/8509 | 2004-11-03 | nao-provido | cvm-col-20041103-d02 | fichas/colegiado/2004-13.md |
+| decisao-colegiado | RJ2003/7776 | 2004-09-15 | nao-provido | cvm-col-20040915-d01 | fichas/colegiado/2004-11.md |
+| decisao-colegiado | RJ2003/6973 | 2004-08-24 | provido | cvm-col-20040824-d05 | fichas/colegiado/2004-10.md |
+| termo-compromisso | SP2001/0204 | 2004-08-05 | rejeitado | cvm-col-20040805-d05 | fichas/tc/2004-01.md |
+| decisao-colegiado | RJ98/4733 | 2004-07-13 | nao-provido | cvm-col-20040713-d09 | fichas/colegiado/2004-08.md |
+| decisao-colegiado | RJ2001/12098 | 2004-03-02 | outro | cvm-col-20040302-d05 | fichas/colegiado/2004-03.md |
+| decisao-colegiado | SP2003/0374 | 2003-12-16 | nao-provido | cvm-col-20031216-d09 | fichas/colegiado/2003-14.md |
+| decisao-colegiado | SP2003/0285 | 2003-11-25 | nao-provido | cvm-col-20031125-d01 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2001/9931 | 2003-11-11 | nao-provido | cvm-col-20031111-d04 | fichas/colegiado/2003-13.md |
+| decisao-colegiado | RJ2002/7775 | 2003-07-29 | nao-provido | cvm-col-20030729-d05 | fichas/colegiado/2003-10.md |
+| decisao-colegiado | SP2001/0548 | 2002-07-29 | nao-provido | cvm-col-20020729-d04 | fichas/colegiado/2002-19.md |
+| decisao-colegiado | SP2000/0108 | 2002-01-22 | nao-provido | cvm-col-20020122-d05 | fichas/colegiado/2002-02.md |
+| decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
+| decisao-antiga | — | 1999-01-29 | — | cvm-dec-1999-0001 | fichas/decisoes-antigas/1999-28.md |
+| decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 
 Fim do subíndice.

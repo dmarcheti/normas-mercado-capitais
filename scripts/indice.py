@@ -30,8 +30,14 @@ gerar_indice_julgados(raiz, normas) -> (arquivos, n): UM conjunto de índices de
 julgados (CVM e CRSFN) de `raiz` (`julgados/`, na raiz do repositório): `indice.md`,
 `indices/<tipo>-<ano>.md`, `indices/tema-<tema>.md`, `indices/norma-<id>.md`,
 `indices/processo-<ano>.md`. Os arquivos saem em `plugins/normas/skills/consultar-normas/julgados/`
-(a skill é a única pasta que o claude.ai monta); cada linha aponta para o julgado pelo caminho
-relativo dessa pasta até `julgados/` na raiz (`alvo_link`, a única função que decide o alvo).
+(a skill é a única pasta que o claude.ai monta). Cada linha leva a uma ficha (`scripts/fichas.py`,
+em `julgados/fichas/` da skill): colunas `Id` (id da ficha) e `Ficha` (caminho do arquivo relativo à
+pasta `julgados/` da skill, ex. `fichas/pas/2023-08.md`; o arquivo tem várias fichas, cada uma sob
+`## <id>`); ementa e tema ficam na ficha, o texto integral no link `texto_integral` dela. `alvo_link`
+é a única função que decide o alvo. Os índices calculam as fichas em memória (`fichas.montar`) a
+partir de `raiz`; julgado sem ficha é erro. As decisões antigas (1978 a 2001) têm um índice por
+decisão (`indices/decisao-antiga-AAAA.md`), uma linha por ficha `<id-anual>-NNNN`; nos demais índices
+o arquivo anual aparece com a primeira ficha do ano.
 Sem raiz posicional, o script cuida das normas e dos julgados; com uma raiz chamada `julgados`,
 só dos julgados dela (normas lidas do normas.json), gravando em `--saida-julgados`; com outra
 raiz, só normas. `julgados/` ausente é erro (nada é pulado em silêncio).
@@ -54,7 +60,7 @@ import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import citacoes as cit  # noqa: E402
-import indice_decisoes as idc  # noqa: E402
+import fichas as fch  # noqa: E402
 import julgados_comum as jc  # noqa: E402
 from validar import (  # noqa: E402
     TIPOS, TIPOS_AUTORREGULACAO, TIPOS_BCB, arquivos_de_julgados, arquivos_de_normas, ler_frontmatter,
@@ -67,10 +73,8 @@ RAIZ_PADRAO = os.path.join(SKILL_NORMAS, "normas")
 JULGADOS_PADRAO = os.path.join(REPO, "julgados")
 # onde os índices dos julgados são gravados (dentro da skill, que o claude.ai monta inteira)
 SAIDA_JULGADOS_PADRAO = os.path.join(SKILL_NORMAS, "julgados")
-# do indice.md dos julgados à pasta `julgados/` da raiz do repositório (5 níveis:
-# consultar-normas, skills, normas, plugins, raiz). Trocar o alvo do link (ex.: para fichas) é
-# mexer só em `alvo_link`.
-PREFIXO_ALVO = "../../../../../julgados/"
+# as fichas ficam em `fichas/` sob `julgados/` da skill (`fichas.PASTA_FICHAS`); o alvo de cada linha
+# é decidido só em `alvo_link`.
 LIMITE_INDICE_MD = 25 * 1024  # bytes: o indice.md dos julgados fica abaixo disto
 LINK_NORMAS_PADRAO = "../../normas"  # de `julgados/indices/` à raiz das normas
 ACERVO_PADRAO = os.path.join(REPO, "fontes", "acervo.json")
@@ -692,11 +696,11 @@ PERIMETRO_JULGADOS = (
 TIPOS_POR_PROCESSO = ("pas", "termo-compromisso", "acordao-crsfn")
 
 
-def alvo_link(v, prefixo=PREFIXO_ALVO):
-    """Alvo com que a linha de índice aponta para o julgado `v` (item de `_ler_julgados`): o
-    caminho do julgado sob `julgados/` precedido do prefixo que sai da pasta do `indice.md`. É o
-    único ponto que decide o alvo; apontar para fichas em vez do texto é trocar só esta função."""
-    return prefixo + v["_caminho"]
+def alvo_link(v):
+    """Alvo com que a linha de índice aponta para o julgado `v` (item de `_ler_julgados`): o caminho
+    do arquivo de fichas relativo à pasta `julgados/` da skill (ex. `fichas/pas/2023-08.md`). É o
+    único ponto que decide o alvo."""
+    return v["_ficha"]
 
 
 def slug_tema(tema):
@@ -704,23 +708,49 @@ def slug_tema(tema):
     return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
 
 
+CAB_FICHA = ("Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta "
+             "`julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias "
+             "fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e "
+             "um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga "
+             "(1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.")
+
+
 def _cab_julgados(titulo, extra=()):
-    return ["# %s" % titulo, "", AVISO, AVISO_JULGADO, GERADO,
-            "Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz "
-            "do repositório."] + list(extra) + [""]
+    return ["# %s" % titulo, "", AVISO, AVISO_JULGADO, GERADO, CAB_FICHA] + list(extra) + [""]
 
 
-def _ler_julgados(raiz):
+def _contexto_fichas(raiz):
+    """({caminho do julgado: [fichas]}, {id: arquivo de fichas}) calculados em memória de `raiz`."""
+    try:
+        fichas, arquivos, info = fch.montar(raiz)
+    except fch.ErroFicha as e:
+        raise ValueError("ficha: %s" % e)
+    if info["ids_duplicados"]:
+        raise ValueError("ids de ficha repetidos: %s" % ", ".join(info["ids_duplicados"][:5]))
+    por_rel = {}
+    for f in fichas:
+        por_rel.setdefault(f["rel"], []).append(f)
+    return por_rel, fch.ids_por_arquivo(arquivos)
+
+
+def _ler_julgados(raiz, ctx=None):
+    por_rel, arq = ctx if ctx is not None else _contexto_fichas(raiz)
     itens = []
     for caminho in arquivos_de_julgados(raiz):
         v = _ler(caminho)
         v["_caminho"] = os.path.relpath(caminho, raiz).replace(os.sep, "/")
+        fs = sorted(por_rel.get(v["_caminho"], []), key=lambda f: f["id"])
+        if not fs:
+            raise ValueError("julgado sem ficha: %s" % v["_caminho"])
+        v["_fichas"] = fs
+        v["_ficha_id"] = fs[0]["id"]
+        v["_ficha"] = arq[fs[0]["id"]]
         itens.append(v)
     return sorted(itens, key=lambda v: (v.get("data", ""), v["_caminho"]), reverse=True)
 
 
 def _tabela_julgados(itens, com_tipo=False, extra=None):
-    cab = (["Tipo"] if com_tipo else []) + ["Processo", "Data", "Resultado", "Tema", "Ementa", "Arquivo"]
+    cab = (["Tipo"] if com_tipo else []) + ["Processo", "Data", "Resultado", "Id", "Ficha"]
     if extra:
         cab = [extra[0]] + cab
     md = ["| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
@@ -728,7 +758,7 @@ def _tabela_julgados(itens, com_tipo=False, extra=None):
         v, pre = (linha if extra else (linha, None))
         cel = ([v["tipo"]] if com_tipo else []) + [
             _celula(v.get("processo")) or "—", v.get("data", ""), v.get("resultado") or "—",
-            v.get("tema") or "—", _celula(v.get("ementa")), alvo_link(v)]
+            v["_ficha_id"], alvo_link(v)]
         if extra:
             cel = [pre] + cel
         md.append("| %s |" % " | ".join(cel))
@@ -926,14 +956,14 @@ def _por_processo(itens):
             "minúsculas, ano, número com 4 dígitos); numeração curta dos PAS `NN-AAAA`. Procure pelo "
             "número normalizado ou pela forma do julgado. Dois julgados do mesmo processo (um PAS e o "
             "termo de compromisso ou o acórdão do CRSFN dele) aparecem com o mesmo número.")
-    cab = ["Processo (normalizado)", "Forma no julgado", "Tipo", "Data", "Id", "Arquivo"]
+    cab = ["Processo (normalizado)", "Forma no julgado", "Tipo", "Data", "Id", "Ficha"]
     for ano, linhas in sorted(por_ano.items()):
         md = _cab_julgados("Julgados por processo, ano %s" % ano, ["", nota]) + [
             "| %s |" % " | ".join(cab), "|%s" % ("---|" * len(cab))]
         for _k, todos, forma, v in sorted(linhas, key=lambda x: (x[0], x[3].get("data", ""), x[3]["_caminho"])):
             md.append("| %s | %s | %s | %s | %s | %s |" % (
                 "; ".join(todos), forma or "—", v["tipo"], v.get("data", ""),
-                v.get("id") or os.path.basename(v["_caminho"])[:-3], alvo_link(v)))
+                v["_ficha_id"], alvo_link(v)))
         _gravar(arquivos, "%s/processo-%s.md" % (PASTA_SUBINDICES, ano), md, _marcas_blocos(md))
         contagem[ano] = len(linhas)
     if outros:
@@ -944,7 +974,7 @@ def _por_processo(itens):
         for forma, v in sorted(outros, key=lambda x: (_natural(x[0]), x[1]["_caminho"])):
             md.append("| %s | %s | %s | %s | %s |" % (
                 forma, v["tipo"], v.get("data", ""),
-                v.get("id") or os.path.basename(v["_caminho"])[:-3], alvo_link(v)))
+                v["_ficha_id"], alvo_link(v)))
         _gravar(arquivos, "%s/processo-outros.md" % PASTA_SUBINDICES, md, _marcas_blocos(md))
         contagem["outros"] = len(outros)
     return arquivos, contagem
@@ -957,8 +987,7 @@ _PERIODOS = {"s": ("semestre", 6), "t": ("trimestre", 3)}
 
 
 def _linha_decisao(d):
-    return "| %s | %s | %s | %s | %s:%d |" % (
-        d["data"], d["ata"] or "—", _celula(d["processo"]) or "—", _celula(d["titulo"]), d["arquivo"], d["linha"])
+    return "| %s | %s | %s | %s |" % (d["data"], _celula(d["processo"]) or "—", d["id"], d["ficha"])
 
 
 def _marcas_mes(md):
@@ -994,54 +1023,55 @@ def _dividir_decisoes(ano, decisoes):
     return out
 
 
-def _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos):
-    """Grava `indices/decisao-antiga-AAAA[-sN|-tN].md` com uma linha por decisão. Devolve
-    {ano: [(rótulo, caminho do subíndice, n decisões)]}; ano sem decisão reconhecida fica de
-    fora e mantém a tabela genérica."""
-    caminhos = {}
-    for (tipo, ano), lista in por_tipo_ano.items():
-        if tipo == "decisao-antiga" and ano.isdigit() and len(lista) == 1:
-            caminhos[int(ano)] = os.path.join(raiz, *lista[0]["_caminho"].split("/"))
-    if not caminhos:
-        return {}
-    decisoes, _cont = idc.ler_decisoes(caminhos)
+def _ano_antiga(v):
+    """Ano do arquivo anual de uma decisão antiga (`cvm/decisoes-antigas/AAAA.md`)."""
+    return os.path.splitext(os.path.basename(v["_caminho"]))[0]
+
+
+def _indice_decisoes_antigas(itens, arq, arquivos):
+    """Grava `indices/decisao-antiga-AAAA[-sN|-tN].md` com uma linha por decisão, que é uma ficha
+    `<id-anual>-NNNN`. Devolve {ano do arquivo anual: [(rótulo, caminho do subíndice, n decisões)]}."""
     por_ano = collections.defaultdict(list)
-    for d in decisoes:
-        d["arquivo"] = alvo_link(por_tipo_ano[("decisao-antiga", str(d["ano"]))][0])
-        por_ano[d["ano"]].append(d)
+    for v in itens:
+        if v["tipo"] != "decisao-antiga":
+            continue
+        for f in v["_fichas"]:
+            c = f["campos"]
+            por_ano[_ano_antiga(v)].append({"data": c["data"], "processo": c["processo"], "id": f["id"],
+                                            "ficha": arq[f["id"]]})
     out = {}
     for ano in sorted(por_ano):
-        ds = sorted(por_ano[ano], key=lambda d: (d["data"], -d["linha"]), reverse=True)
-        out[str(ano)] = []
+        ds = sorted(sorted(por_ano[ano], key=lambda d: d["id"]), key=lambda d: d["data"], reverse=True)
+        out[ano] = []
         for suf, rotulo, parte in _dividir_decisoes(ano, ds):
-            rel = "%s/decisao-antiga-%d%s.md" % (PASTA_SUBINDICES, ano, suf)
+            rel = "%s/decisao-antiga-%s%s.md" % (PASTA_SUBINDICES, ano, suf)
             md = _cab_julgados("Decisões antigas (1978 a 2001), %s" % rotulo, [
-                "", "Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, "
-                "processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual "
-                "onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o "
-                "conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a "
-                "2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "
-                "\"[pessoa física]\"."]) + [
-                "| Data da ata | Ata | Processo | Título | Arquivo:linha |", "|---|---|---|---|---|"] + [
+                "", "Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais "
+                "recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título "
+                "(`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em "
+                "caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos."]) + [
+                "| Data da ata | Processo | Id | Ficha |", "|---|---|---|---|"] + [
                 _linha_decisao(d) for d in parte]
             _gravar(arquivos, rel, md, _marcas_mes(md))
-            out[str(ano)].append((rotulo, rel, len(parte)))
+            out[ano].append((rotulo, rel, len(parte)))
     return out
 
 
-def gerar_indice_julgados(raiz, normas, link_normas=LINK_NORMAS_PADRAO):
+def gerar_indice_julgados(raiz, normas, link_normas=LINK_NORMAS_PADRAO, ctx=None):
     """(arquivos, n_julgados) do conjunto único de índices dos julgados. `raiz` é a pasta
     `julgados/` (CVM e CRSFN); `normas` mapeia o id da norma no item do normas.json (titulo,
     caminho); `link_normas` é o caminho de `julgados/indices/` (na skill) até a raiz das normas.
     Sem julgados, nada é gerado."""
-    itens = _ler_julgados(raiz)
+    ctx = ctx if ctx is not None else _contexto_fichas(raiz)
+    itens = _ler_julgados(raiz, ctx)
     if not itens:
         return {}, 0
     arquivos = {}
     ordem_tipos = list(NOME_JULGADO)
     por_tipo_ano, por_tema, por_norma = {}, {}, {}
     for v in itens:
-        por_tipo_ano.setdefault((v["tipo"], v.get("data", "")[:4]), []).append(v)
+        ano_v = _ano_antiga(v) if v["tipo"] == "decisao-antiga" else v.get("data", "")[:4]
+        por_tipo_ano.setdefault((v["tipo"], ano_v), []).append(v)
         if v.get("tema"):
             por_tema.setdefault(v["tema"], []).append(v)
         disps = [d for d in (cit.ler_dispositivo(x) for x in (v.get("dispositivos_citados") or "").split("; ")
@@ -1054,9 +1084,9 @@ def gerar_indice_julgados(raiz, normas, link_normas=LINK_NORMAS_PADRAO):
             if n and n not in com_disp:
                 por_norma.setdefault(n, {"disp": [], "sem": []})["sem"].append(v)
 
-    antigas = _indice_decisoes_antigas(raiz, por_tipo_ano, arquivos)
+    antigas = _indice_decisoes_antigas(itens, ctx[1], arquivos)
     for (tipo, ano), lista in por_tipo_ano.items():
-        if tipo == "decisao-antiga" and ano in antigas:
+        if tipo == "decisao-antiga":
             continue
         md = _cab_julgados("%s, %s" % (NOME_JULGADO.get(tipo, tipo), ano)) + _tabela_julgados(lista)
         _gravar(arquivos, "%s/%s-%s.md" % (PASTA_SUBINDICES, tipo, ano), md)
@@ -1103,11 +1133,11 @@ def gerar_indice_julgados(raiz, normas, link_normas=LINK_NORMAS_PADRAO):
 
     md = ["# Índice dos julgados da CVM e do CRSFN", "", AVISO, AVISO_JULGADO, GERADO, "",
           "## Perímetro", "", PERIMETRO_JULGADOS,
-          "Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pela ementa.", "",
+          "Sem nome de pessoa física nas linhas dos índices.", CAB_FICHA, "",
           "## Por tipo e ano", "", "| Tipo | Ano (subíndice) | Julgados |", "|---|---|---|"]
     for (tipo, ano) in sorted(por_tipo_ano, key=lambda k: (ordem_tipos.index(k[0]) if k[0] in ordem_tipos
                                                             else len(ordem_tipos), -int(k[1] or 0))):
-        if tipo == "decisao-antiga" and ano in antigas:
+        if tipo == "decisao-antiga":
             for rotulo, rel, n in antigas[ano]:
                 md.append("| %s (uma linha por decisão) | [%s](%s) | %d |" % (NOME_JULGADO[tipo], rotulo, rel, n))
             continue

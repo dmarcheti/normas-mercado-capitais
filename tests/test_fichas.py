@@ -11,6 +11,7 @@ AQUI = os.path.dirname(__file__)
 sys.path.insert(0, os.path.join(AQUI, "..", "scripts"))
 
 import fichas as F  # noqa: E402
+import indice_decisoes as idc  # noqa: E402
 
 
 def gravar(base, rel, texto):
@@ -230,6 +231,141 @@ class TestDecisoesAntigas(Base):
         self.assertIn("- data: 1995-09-06", txt)
         self.assertIn("aprovou a republicação", txt)
         self.assertIn("decidiu responder", txt)
+
+    def anual_com_nome(self, ano=1990):
+        # nome fictício montado por concatenação (nenhum dado real no repositório)
+        nome = "ZEFE" + "RINO QUAR" + "TAMENTE"
+        vocab = "pedido ressarcimento corretora consulta emissão notas promissórias aumento capital"
+        corpo = ("# Decisões %d\n\n" % ano + "\n".join([vocab] * 6) + "\n\n## ATA DA REUNIÃO Nº 5 DE 10.04.%d\n\n"
+                 "### RECLAMAÇÃO – %s – PEDIDO DE RESSARCIMENTO\n\nO Colegiado decidiu arquivar.\n\n"
+                 "### CONSULTA SOBRE EMISSÃO DE NOTAS PROMISSÓRIAS\n\nO Colegiado decidiu responder.\n" % (ano, nome))
+        gravar(self.ent, "cvm/decisoes-antigas/%d.md" % ano,
+               self.ANUAL.replace("cvm-dec-1995", "cvm-dec-%d" % ano).replace("1995-01-01", "%d-01-01" % ano)
+               .split("---\n# Decisões")[0] + "---\n" + corpo)
+        return nome
+
+    def test_ementa_com_pessoa_fisica_sai_com_marca_igual_ao_indice_antigo(self):
+        nome = self.anual_com_nome()
+        self.rodar()
+        txt = ler(self.sai, "decisoes-antigas/1990.md")
+        self.assertNotIn(nome.split()[0], txt)
+        self.assertNotIn(nome.split()[1], txt)
+        self.assertIn("- ementa: RECLAMAÇÃO – [pessoa física] – PEDIDO DE RESSARCIMENTO", txt)
+        self.assertIn("- ementa: CONSULTA SOBRE EMISSÃO DE NOTAS PROMISSÓRIAS", txt)  # sem nome: intacta
+        # o mesmo resultado do filtro que o índice antigo aplicava ao título
+        p = os.path.join(self.ent, "cvm", "decisoes-antigas", "1990.md")
+        ds, _ = idc.ler_decisoes({1990: p})
+        self.assertIn("RECLAMAÇÃO – [pessoa física] – PEDIDO DE RESSARCIMENTO", [d["titulo"] for d in ds])
+
+    def test_conta_as_ementas_trocadas(self):
+        self.anual_com_nome()
+        _f, info = F.coletar(self.ent)
+        self.assertEqual(info["antigas_ementas_trocadas"], 1)
+
+    def test_sem_decisao_antiga_nada_a_filtrar(self):
+        gravar(self.ent, "cvm/pas/2020/a.md", julgado("cvm-pas-a", "2020-03-01", tipo="pas", corpo="Decisão: x\n"))
+        _f, info = F.coletar(self.ent)
+        self.assertEqual(info["antigas_ementas_trocadas"], 0)
+
+
+class TestVerificar(Base):
+    def setUp(self):
+        super().setUp()
+        gravar(self.ent, "cvm/pas/2020/a.md", julgado("cvm-pas-a", "2020-03-01", tipo="pas", corpo="Decisão: x\n"))
+        gravar(self.ent, "cvm/colegiado/2021/b.md", julgado("cvm-col-b", "2021-03-01", corpo="Decisão: y\n"))
+        self.args = ["--entrada", self.ent, "--saida", self.sai]
+
+    def main(self, *extra):
+        out, err = io.StringIO(), io.StringIO()
+        with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+            rc = F.main(self.args + list(extra))
+        return rc, out.getvalue(), err.getvalue()
+
+    def test_verificar_sem_fichas_no_disco_falha_e_nao_grava(self):
+        rc, out, err = self.main("--verificar")
+        self.assertEqual(rc, 1)
+        self.assertIn("ausente", out + err)
+        self.assertFalse(os.path.exists(self.sai))
+
+    def test_verificar_em_dia_devolve_zero(self):
+        self.assertEqual(self.main()[0], 0)
+        rc, out, _ = self.main("--verificar")
+        self.assertEqual(rc, 0)
+        self.assertIn("em dia", out)
+
+    def test_verificar_acusa_arquivo_diferente(self):
+        self.main()
+        antes = todos(self.sai)
+        alvo = os.path.join(self.sai, "pas", "2020.md")
+        with open(alvo, "a", encoding="utf-8") as f:
+            f.write("\nlixo\n")
+        rc, out, err = self.main("--verificar")
+        self.assertEqual(rc, 1)
+        self.assertIn("pas/2020.md (diferente)", out + err)
+        self.assertNotEqual(todos(self.sai), antes)  # e o --verificar não corrigiu nada
+        self.assertIn(b"lixo", ler_bytes(alvo))
+
+    def test_verificar_acusa_ficha_que_sobrou(self):
+        self.main()
+        gravar(self.sai, "pas/1999.md", "## velho\n")
+        rc, out, err = self.main("--verificar")
+        self.assertEqual(rc, 1)
+        self.assertIn("pas/1999.md (sobrou de geracao anterior)", out + err)
+
+    def test_verificar_acusa_julgado_novo_sem_ficha_no_disco(self):
+        self.main()
+        gravar(self.ent, "cvm/pas/2022/c.md", julgado("cvm-pas-c", "2022-01-01", tipo="pas", corpo="Decisão: z\n"))
+        rc, out, err = self.main("--verificar")
+        self.assertEqual(rc, 1)
+        self.assertIn("pas/2022.md (ausente)", out + err)
+
+    def test_verificar_sem_entrada_devolve_2(self):
+        shutil.rmtree(self.ent)
+        rc, _o, _e = self.main("--verificar")
+        self.assertEqual(rc, 2)
+
+    def test_gerar_apos_verificar_vermelho_deixa_em_dia(self):
+        self.main()
+        gravar(self.ent, "cvm/pas/2022/c.md", julgado("cvm-pas-c", "2022-01-01", tipo="pas", corpo="Decisão: z\n"))
+        self.assertEqual(self.main("--verificar")[0], 1)
+        self.assertEqual(self.main()[0], 0)
+        self.assertEqual(self.main("--verificar")[0], 0)
+
+
+class TestMontarEIds(Base):
+    def test_montar_nao_grava_e_bate_com_o_gerar(self):
+        gravar(self.ent, "cvm/pas/2020/a.md", julgado("cvm-pas-a", "2020-03-01", tipo="pas", corpo="Decisão: x\n"))
+        fichas, arquivos, info = F.montar(self.ent)
+        self.assertEqual(len(fichas), 1)
+        self.assertFalse(os.path.exists(self.sai))
+        self.rodar()
+        self.assertEqual({"%s/%s" % (g, n): t.encode("utf-8") for g, n, t in arquivos},
+                         {k.replace(os.sep, "/"): v for k, v in todos(self.sai).items()})
+        self.assertEqual(info["ids_duplicados"], [])
+
+    def test_ids_por_arquivo_cita_a_pasta_fichas(self):
+        gravar(self.ent, "cvm/pas/2020/a.md", julgado("cvm-pas-a", "2020-03-01", tipo="pas", corpo="Decisão: x\n"))
+        gravar(self.ent, "cvm/colegiado/2021/b.md", julgado("cvm-col-b", "2021-03-01", corpo="Decisão: y\n"))
+        _f, arquivos, _i = F.montar(self.ent)
+        self.assertEqual(F.ids_por_arquivo(arquivos),
+                         {"cvm-pas-a": "fichas/pas/2020.md", "cvm-col-b": "fichas/colegiado/2021.md"})
+
+    def test_diferencas_lista_ausente_diferente_e_sobra(self):
+        gravar(self.ent, "cvm/pas/2020/a.md", julgado("cvm-pas-a", "2020-03-01", tipo="pas", corpo="Decisão: x\n"))
+        _f, arquivos, _i = F.montar(self.ent)
+        self.assertEqual(F.diferencas(arquivos, self.sai), ["pas/2020.md (ausente)"])
+        F.gravar(self.sai, arquivos)
+        self.assertEqual(F.diferencas(arquivos, self.sai), [])
+        gravar(self.sai, "pas/2020.md", "outro\n")
+        gravar(self.sai, "tc/2001.md", "x\n")
+        self.assertEqual(F.diferencas(arquivos, self.sai),
+                         ["pas/2020.md (diferente)", "tc/2001.md (sobrou de geracao anterior)"])
+
+    def test_saida_padrao_e_a_pasta_fichas_da_skill(self):
+        self.assertEqual(F.SAIDA_PADRAO, os.path.join(F.REPO, "plugins", "normas", "skills",
+                                                     "consultar-normas", "julgados", "fichas"))
+        self.assertEqual(F.ENTRADA_PADRAO, os.path.join(F.REPO, "julgados"))
+        self.assertEqual(F.PASTA_FICHAS, os.path.basename(F.SAIDA_PADRAO))
 
 
 if __name__ == "__main__":

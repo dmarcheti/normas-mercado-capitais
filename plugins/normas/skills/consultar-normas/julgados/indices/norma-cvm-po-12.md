@@ -3,22 +3,22 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/pareceres-orientacao/0012.md](../../normas/cvm/pareceres-orientacao/0012.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.004074/2020-04 | 2020-08-04 | indeferido | outros | O Colegiado, por unanimidade, indeferiu pedido da JBS S.A. de autorização para recompra de ações, acompanhando a área técnica. Fundamento, segundo a SEP: a vedação do art. 30, § 1º, b, da Lei 6.404/76 afasta a dispensa do art. 12 da ICVM 567/15, pois o resultado apurado antes do fim do exercício deve ser considerado. | ../../../../../julgados/cvm/colegiado/2020/col-20200804-d1868.md |
-| acordao-crsfn | RJ-2005-1443 | 2011-08-30 | parcial | deveres-administradores | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Exercício abusivo de poder de controle (aprovação em AGE de reformas estatutárias em prejuízo aos acionistas) – Desvio de Poder (aprovação de proposta de reforma estatutária deliberada em AGE) - Não convocação dos membros do conselho fiscal para reunião do conselho de administração - Não convocação de assembleia especial - Irregularidades caracterizadas – Recursos a que se nega provimento. | ../../../../../julgados/crsfn/2011/11089.md |
-| decisao-colegiado | RJ2008/4587 | 2008-11-25 | provido | assembleia-acionistas | Por maioria, vencido um diretor, o Colegiado deu provimento ao recurso da Redecard S.A. contra entendimento da SEP e considerou regular, no caso, a aprovação de programa de recompra sem atender aos limites da Instrução 10/80, que deverão ser observados na aquisição. Quanto ao fato relevante, exigiu que informe se as condições existem na data da aprovação (vencido outro diretor). | ../../../../../julgados/cvm/colegiado/2008/col-20081125-d02.md |
-| decisao-colegiado | RJ2008/2535 | 2008-11-25 | provido | outros | Por maioria, o Colegiado deu provimento ao recurso da São Carlos Empreendimentos e Participações S.A. e considerou regular a aprovação de programa de recompra sem os requisitos legais na data da aprovação, desde que atendidos na data da efetiva recompra. Exigiu que o fato relevante consigne esse ponto. Determinou estudos da SMD para alterar a Instrução 10/80. | ../../../../../julgados/cvm/colegiado/2008/col-20081125-d01.md |
-| decisao-colegiado | RJ2008/2535 | 2008-11-04 | — | outros | Recurso da São Carlos Empreendimentos e Participações S.A. contra entendimento da SEP de que seu programa de recompra de ações violaria o art. 2º, b, da Instrução 10/80. Dois votos já apresentados foram pelo indeferimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2008/col-20081104-d13.md |
-| decisao-colegiado | RJ2008/4587 | 2008-08-19 | — | outros | Recurso da Redecard S.A. contra entendimento da SEP de que programa de recompra de ações de própria emissão violaria o art. 2º, b, da Instrução 10/80. Voto de um diretor, ainda não decisão, pelo não acolhimento do recurso. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2008/col-20080819-d02.md |
-| decisao-colegiado | RJ2008/2535 | 2008-08-19 | — | assembleia-acionistas | O Colegiado retomou recurso da São Carlos Empreendimentos e Participações S.A. contra entendimento da SRE de que seu programa de recompra violaria o art. 2º, b, da Instrução 10/80. Um diretor votou por não acolher o recurso, com base no art. 30, § 1º, b, da Lei 6.404/76 e na necessidade de fato relevante. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2008/col-20080819-d01.md |
-| pas | RJ2005/1443 | 2006-05-10 | parcial | deveres-administradores | O administrador deve exercer as atribuições que a lei e o estatuto lhe conferem para lograr os fins e no interesse da companhia, satisfeitas as exigências do bem público e da função social da empresa. - Exercício abusivo do poder de controle. Multa - O Conselho de Administração pode autorizar a prática de atos gratuitos razoáveis em benefício dos empregados ou da comunidade de que participe a empresa, tendo em vista suas responsabilidades sociais. Advertência. | ../../../../../julgados/cvm/pas/2006/rj2005-1443.md |
-| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | assembleia-acionistas | Recursos contra decisão da SEP. Proc. s. RJ2004/4558, RJ2004/4559, RJ2004/4569 e RJ2004/4583. | ../../../../../julgados/cvm/colegiado/2004/col-20040921-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.004074/2020-04 | 2020-08-04 | indeferido | cvm-col-20200804-d1868 | fichas/colegiado/2020-12.md |
+| acordao-crsfn | RJ-2005-1443 | 2011-08-30 | parcial | crsfn-11089 | fichas/crsfn/2011-03.md |
+| decisao-colegiado | RJ2008/4587 | 2008-11-25 | provido | cvm-col-20081125-d02 | fichas/colegiado/2008-26.md |
+| decisao-colegiado | RJ2008/2535 | 2008-11-25 | provido | cvm-col-20081125-d01 | fichas/colegiado/2008-26.md |
+| decisao-colegiado | RJ2008/2535 | 2008-11-04 | — | cvm-col-20081104-d13 | fichas/colegiado/2008-24.md |
+| decisao-colegiado | RJ2008/4587 | 2008-08-19 | — | cvm-col-20080819-d02 | fichas/colegiado/2008-19.md |
+| decisao-colegiado | RJ2008/2535 | 2008-08-19 | — | cvm-col-20080819-d01 | fichas/colegiado/2008-19.md |
+| pas | RJ2005/1443 | 2006-05-10 | parcial | cvm-pas-rj2005-1443 | fichas/pas/2006-05.md |
+| decisao-colegiado | RJ2004/4558; RJ2004/4559; RJ2004/4569; RJ2004/4583 | 2004-09-21 | outro | cvm-col-20040921-d01 | fichas/colegiado/2004-11.md |
 
 Fim do subíndice.

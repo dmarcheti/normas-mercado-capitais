@@ -7,9 +7,15 @@ Markdown; o texto integral fica no GitHub (campo texto_integral). So a
 biblioteca padrao do Python.
 
 Uso:
-    python3 scripts/fichas.py [--entrada julgados/] [--saida dados/fase-6/fichas/]
+    python3 scripts/fichas.py [--entrada julgados/]
+                              [--saida plugins/normas/skills/consultar-normas/julgados/fichas/]
                               [--medidas dados/fase-6/medidas.json]
                               [--amostra dados/fase-6/amostra-fichas.md]
+    python3 scripts/fichas.py --verificar     regenera em memoria e compara com o disco (rc 1 se diferir)
+
+A saida padrao fica dentro da skill (a unica pasta que o claude.ai monta); os indices dos julgados
+(`indice.py`) apontam para estes arquivos. `--verificar` acusa arquivo diferente, ausente ou que
+sobrou de geracao anterior.
 
 Saida: <saida>/<grupo>/<AAAA>.md, com grupos pas, tc (Colegiado com
 tipo: termo-compromisso), colegiado (demais decisoes do Colegiado), crsfn e
@@ -72,6 +78,14 @@ import re
 import sys
 from urllib.parse import quote
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import indice_decisoes as idc  # noqa: E402  (filtro de pessoa física do título)
+
+REPO = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+SKILL = os.path.join(REPO, "plugins", "normas", "skills", "consultar-normas")
+ENTRADA_PADRAO = os.path.join(REPO, "julgados")
+SAIDA_PADRAO = os.path.join(SKILL, "julgados", "fichas")
+PASTA_FICHAS = "fichas"  # nome da pasta sob `julgados/` da skill; os indices citam "fichas/<grupo>/<arquivo>"
 BASE_URL = "https://raw.githubusercontent.com/dmarcheti/normas-mercado-capitais/main/julgados/"
 LIMITE_ARQUIVO = 24000
 LIMITE_TRECHO = 1500
@@ -337,7 +351,7 @@ def fichas_antigas(rel, fm, corpo):
         else:
             trecho, regra = cortar(texto), "antiga-inicio"
         fichas.append({"grupo": "decisoes-antigas", "ano": ano, "data": u["data"], "id": campos["id"],
-                       "rel": rel, "regra": regra,
+                       "rel": rel, "regra": regra, "campos": campos, "trecho": trecho,
                        "texto": formatar_ficha(campos, url_texto(rel), regra, trecho)})
     return fichas, descartadas
 
@@ -355,12 +369,14 @@ def coletar(entrada, log=lambda *a: None):
                 arquivos.append(os.path.join(raiz, n))
     arquivos.sort()
     fichas, descartadas, vistos, duplicados = [], 0, set(), []
+    linhas_antigas = []  # corpo de cada arquivo anual de decisões antigas, base do filtro de pessoa física
     for i, caminho in enumerate(arquivos, 1):
         rel = os.path.relpath(caminho, entrada).replace(os.sep, "/")
         fm, corpo = ler_julgado(caminho)
         if rel.startswith("cvm/decisoes-antigas/"):
             novas, d = fichas_antigas(rel, fm, corpo)
             descartadas += d
+            linhas_antigas.append(corpo.split("\n"))
         else:
             novas = [ficha_de_julgado(rel, fm, corpo)]
         for f in novas:
@@ -371,8 +387,28 @@ def coletar(entrada, log=lambda *a: None):
         if i % 3000 == 0:
             log("  %d/%d arquivos lidos" % (i, len(arquivos)))
     fichas.sort(key=lambda f: (f["grupo"], f["ano"], f["data"], f["id"]))
+    trocadas = _sem_pessoas_nas_ementas(fichas, linhas_antigas)
     return fichas, {"julgados_lidos": len(arquivos), "antigas_descartadas": descartadas,
-                    "ids_duplicados": sorted(set(duplicados))}
+                    "ids_duplicados": sorted(set(duplicados)), "antigas_ementas_trocadas": trocadas}
+
+
+def _sem_pessoas_nas_ementas(fichas, linhas_antigas):
+    """Troca por "[pessoa física]" o nome de pessoa na `ementa` das fichas das decisões antigas (o título
+    bruto do arquivo anual), com o mesmo filtro que o índice por decisão aplicava ao título
+    (`indice_decisoes.FiltroDePessoas`). O `trecho` fica como está no julgado. Devolve quantas mudaram."""
+    antigas = [f for f in fichas if f["grupo"] == "decisoes-antigas"]
+    if not antigas:
+        return 0
+    filtro = idc.FiltroDePessoas(linhas_antigas)
+    filtro.aprender(f["campos"]["ementa"] for f in antigas)
+    n = 0
+    for f in antigas:
+        novo, trocou = filtro.aplicar(f["campos"]["ementa"])
+        if trocou:
+            n += 1
+            f["campos"]["ementa"] = novo
+            f["texto"] = formatar_ficha(f["campos"], url_texto(f["rel"]), f["regra"], f["trecho"])
+    return n
 
 
 def empacotar(fichas, limite=LIMITE_ARQUIVO):
@@ -453,9 +489,44 @@ def amostrar(fichas, n=20, semente=SEMENTE_AMOSTRA):
     return "\n---\n\n".join(partes)
 
 
-def gerar(entrada, saida, medidas=None, amostra=None, log=print):
+def montar(entrada, log=lambda *a: None):
+    """(fichas, arquivos, info) em memoria: o que `gravar` poria no disco."""
     fichas, info = coletar(entrada, log)
-    arquivos = empacotar(fichas)
+    return fichas, empacotar(fichas), info
+
+
+def ids_por_arquivo(arquivos):
+    """{id da ficha: "fichas/<grupo>/<arquivo>"} dos arquivos de `empacotar`."""
+    out = {}
+    for grupo, nome, texto in arquivos:
+        for m in re.finditer(r"(?m)^## (.+)$", texto):
+            out[m.group(1)] = "%s/%s/%s" % (PASTA_FICHAS, grupo, nome)
+    return out
+
+
+def diferencas(arquivos, saida_dir):
+    """Lista de problemas entre `arquivos` (em memoria) e o disco em `saida_dir`."""
+    saida_dir = os.path.abspath(saida_dir)
+    esperados = {"%s/%s" % (g, n): t for g, n, t in arquivos}
+    out = []
+    for rel, texto in sorted(esperados.items()):
+        caminho = os.path.join(saida_dir, *rel.split("/"))
+        if not os.path.isfile(caminho):
+            out.append("%s (ausente)" % rel)
+            continue
+        with open(caminho, "rb") as f:
+            if f.read() != texto.encode("utf-8"):
+                out.append("%s (diferente)" % rel)
+    for grupo in ORDEM_GRUPOS:
+        d = os.path.join(saida_dir, grupo)
+        if os.path.isdir(d):
+            out += ["%s/%s (sobrou de geracao anterior)" % (grupo, n) for n in sorted(os.listdir(d))
+                    if n.endswith(".md") and "%s/%s" % (grupo, n) not in esperados]
+    return out
+
+
+def gerar(entrada, saida, medidas=None, amostra=None, log=print):
+    fichas, arquivos, info = montar(entrada, log)
     gravar(saida, arquivos)
     m = medir(fichas, arquivos, info)
     if medidas:
@@ -472,12 +543,26 @@ def gerar(entrada, saida, medidas=None, amostra=None, log=print):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("--entrada", default="julgados/")
-    ap.add_argument("--saida", default="dados/fase-6/fichas/")
+    ap.add_argument("--entrada", default=ENTRADA_PADRAO)
+    ap.add_argument("--saida", default=SAIDA_PADRAO)
     ap.add_argument("--medidas", help="grava as medidas em JSON")
     ap.add_argument("--amostra", help="grava 20 fichas sorteadas (semente 20261112)")
+    ap.add_argument("--verificar", action="store_true",
+                    help="regenera em memoria e compara com o disco; rc 1 se diferir")
     a = ap.parse_args(argv)
     try:
+        if a.verificar:
+            if not os.path.isdir(a.entrada):
+                print("fichas: pasta dos julgados nao existe: %s" % a.entrada, file=sys.stderr)
+                return 2
+            _f, arquivos, _i = montar(a.entrada, lambda *x: print(*x, file=sys.stderr))
+            dif = diferencas(arquivos, a.saida)
+            if dif:
+                print("fichas: %s desatualizado (%d: %s); rode python3 scripts/fichas.py" % (
+                    a.saida, len(dif), ", ".join(dif[:10]) + (", ..." if len(dif) > 10 else "")))
+                return 1
+            print("fichas: em dia (%d arquivo(s))" % len(arquivos))
+            return 0
         m = gerar(a.entrada, a.saida, a.medidas, a.amostra, log=lambda *x: print(*x, file=sys.stderr))
     except ErroFicha as e:
         print("ERRO: %s" % e, file=sys.stderr)

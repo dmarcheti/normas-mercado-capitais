@@ -3,185 +3,185 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0035.md](../../normas/cvm/resolucoes/0035.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | ../../../../../julgados/cvm/colegiado/2023/col-20230919-d2923.md |
-| art. 2º | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, a B3 a alterar seus normativos de Acesso, Câmara e Negociação para criar o Participante Estrangeiro: intermediário sem constituição no Brasil, que opera por conta coletiva para clientes não residentes (art. 180, I, RCVM 135/2022). Acompanhou a SMI, que exigiu contrato tripartite entre as partes do arranjo e plano de supervisão específico da BSM. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3277.md |
-| art. 2º, inciso I | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | pld | O Colegiado, acompanhando a SMI, concedeu dispensa do art. 23, §2º, da RCVM 35 (com o §4º) e do art. 17, IV, da RCVM 50, para que comissário venda ações da João Fortes em recuperação judicial sem identificar os comitentes, condicionada à homologação do plano pelo juízo. Para a SMI, as demais dispensas eram desnecessárias. | ../../../../../julgados/cvm/colegiado/2022/col-20220830-d2677.md |
-| art. 2º, inciso IX | decisao-colegiado | 19957.015627/2022-16 | 2023-04-04 | outro | infraestrutura-mercado | O Colegiado, acompanhando a área técnica, respondeu em tese à consulta da B3 sobre grandes lotes: propostas 1 a 6 admissíveis, sujeitas a análise casuística (sobretudo de transparência); propostas 7 a 10 não admissíveis. Não há pré-autorização para aspectos não tratados na Resolução CVM nº 135/2022, como a prioridade in-house. | ../../../../../julgados/cvm/colegiado/2023/col-20230404-d2819.md |
-| art. 2º, inciso VII | pas | 19957.005524/2022-30 | 2024-07-16 | condenacao | ofertas-publicas | Apurar eventual responsabilidade por oferta pública, distribuição e intermediação de negociações de valores mobiliários ofertados a cidadãos residentes no Brasil sem ser integrante do sistema de distribuição de valores mobiliários e sem obter o necessário registro ou dispensa de registro junto à CVM. Infração ao art. 16, incisos I e III, ao art. 19, caput e § 1º, da Lei nº 6.385/1976, e aos arts. 2º e 4º da Instrução CVM nº 400/2003. Multa. | ../../../../../julgados/cvm/pas/2024/19957-005524-2022-30.md |
-| art. 2º, inciso XI | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 2º, inciso XII | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | informacao-privilegiada | Apurar suposta prática de negociação de ativos em períodos vedados, em infração ao disposto no art. 54 da Resolução CVM nº 160/2022 e no art. 14 da Resolução CVM nº 44/2021. Absolvição e Advertência. | ../../../../../julgados/cvm/pas/2024/19957-016206-2023-85.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| art. 2º | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
+| art. 2º, inciso I | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
+| art. 2º, inciso IX | decisao-colegiado | 19957.015627/2022-16 | 2023-04-04 | outro | cvm-col-20230404-d2819 | fichas/colegiado/2023-04.md |
+| art. 2º, inciso VII | pas | 19957.005524/2022-30 | 2024-07-16 | condenacao | cvm-pas-19957-005524-2022-30 | fichas/pas/2024-05.md |
+| art. 2º, inciso XI | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 2º, inciso XII | pas | 19957.016206/2023-85 | 2024-11-26 | parcial | cvm-pas-19957-016206-2023-85 | fichas/pas/2024-10.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | ../../../../../julgados/cvm/colegiado/2023/col-20230919-d2923.md |
-| art. 3º | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, a B3 a alterar seus normativos de Acesso, Câmara e Negociação para criar o Participante Estrangeiro: intermediário sem constituição no Brasil, que opera por conta coletiva para clientes não residentes (art. 180, I, RCVM 135/2022). Acompanhou a SMI, que exigiu contrato tripartite entre as partes do arranjo e plano de supervisão específico da BSM. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3277.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| art. 3º | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | ../../../../../julgados/cvm/colegiado/2023/col-20230919-d2923.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, inciso I | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | ../../../../../julgados/cvm/colegiado/2023/col-20230919-d2923.md |
-| art. 5º, inciso II | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, à Banestes DTVM S.A. a dispensa de indicar diretor estatutário responsável exigida pelas Resoluções CVM 30/2021 e 35/2021, acompanhando o Presidente. Condicionantes: não atuar como intermediária nem distribuir cotas, e manter diretor de controles internos com a atribuição de garantir essa abstenção. A dispensa não altera a taxa de fiscalização. | ../../../../../julgados/cvm/colegiado/2023/col-20230919-d2923.md |
-| art. 5º, § 6º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso I, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso I, alínea b | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso II | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso II, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso III | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso V | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso V, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso V, alínea b | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso V, alínea c | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 6º, inciso V, alínea d | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 7º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
-| art. 5º, § 8º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, inciso I | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| art. 5º, inciso II | decisao-colegiado | 19957.011889/2022-01 | 2023-09-19 | deferido | cvm-col-20230919-d2923 | fichas/colegiado/2023-10.md |
+| art. 5º, § 6º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso I, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso I, alínea b | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso II | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso II, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso III | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso V | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso V, alínea a | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso V, alínea b | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso V, alínea c | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 6º, inciso V, alínea d | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 7º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
+| art. 5º, § 8º | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012912/2023-58. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3216.md |
-| art. 12 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, a B3 a alterar seus normativos de Acesso, Câmara e Negociação para criar o Participante Estrangeiro: intermediário sem constituição no Brasil, que opera por conta coletiva para clientes não residentes (art. 180, I, RCVM 135/2022). Acompanhou a SMI, que exigiu contrato tripartite entre as partes do arranjo e plano de supervisão específico da BSM. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3277.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | cvm-col-20250128-d3216 | fichas/colegiado/2025-01.md |
+| art. 12 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13 | decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003202/2023-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240702-d3090.md |
-| art. 13 | decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.002520/2023-81. | ../../../../../julgados/cvm/colegiado/2024/col-20240709-d3093.md |
-| art. 13 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, a B3 a alterar seus normativos de Acesso, Câmara e Negociação para criar o Participante Estrangeiro: intermediário sem constituição no Brasil, que opera por conta coletiva para clientes não residentes (art. 180, I, RCVM 135/2022). Acompanhou a SMI, que exigiu contrato tripartite entre as partes do arranjo e plano de supervisão específico da BSM. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3277.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13 | decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | cvm-col-20240702-d3090 | fichas/colegiado/2024-07.md |
+| art. 13 | decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | cvm-col-20240709-d3093 | fichas/colegiado/2024-08.md |
+| art. 13 | decisao-colegiado | 19957.019169/2024-48 | 2025-05-20 | deferido | cvm-col-20250520-d3277 | fichas/colegiado/2025-04.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16, § 1º, inciso II | decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004903/2020-41. | ../../../../../julgados/cvm/colegiado/2022/col-20220125-d2464.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16, § 1º, inciso II | decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | cvm-col-20220125-d2464 | fichas/colegiado/2022-01.md |
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | pld | O Colegiado, acompanhando a SMI, concedeu dispensa do art. 23, §2º, da RCVM 35 (com o §4º) e do art. 17, IV, da RCVM 50, para que comissário venda ações da João Fortes em recuperação judicial sem identificar os comitentes, condicionada à homologação do plano pelo juízo. Para a SMI, as demais dispensas eram desnecessárias. | ../../../../../julgados/cvm/colegiado/2022/col-20220830-d2677.md |
-| art. 23, § 2º | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | pld | O Colegiado, acompanhando a SMI, concedeu dispensa do art. 23, §2º, da RCVM 35 (com o §4º) e do art. 17, IV, da RCVM 50, para que comissário venda ações da João Fortes em recuperação judicial sem identificar os comitentes, condicionada à homologação do plano pelo juízo. Para a SMI, as demais dispensas eram desnecessárias. | ../../../../../julgados/cvm/colegiado/2022/col-20220830-d2677.md |
-| art. 23, § 4º | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | pld | O Colegiado, acompanhando a SMI, concedeu dispensa do art. 23, §2º, da RCVM 35 (com o §4º) e do art. 17, IV, da RCVM 50, para que comissário venda ações da João Fortes em recuperação judicial sem identificar os comitentes, condicionada à homologação do plano pelo juízo. Para a SMI, as demais dispensas eram desnecessárias. | ../../../../../julgados/cvm/colegiado/2022/col-20220830-d2677.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
+| art. 23, § 2º | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
+| art. 23, § 4º | decisao-colegiado | 19957.005584/2022-52 | 2022-08-30 | deferido | cvm-col-20220830-d2677 | fichas/colegiado/2022-13.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | intermediacao | O Colegiado aceitou, por unanimidade, a proposta conjunta de termo de compromisso da distribuidora RB Investimentos e de três diretores, divergindo do Comitê, que propunha rejeição. Infrações, em tese, às RCVM 35 (RCI e RAIR) e 50 (PLD/FTP). Pagamento como condição do termo; em 90 dias, relatório de auditor independente sobre os aprimoramentos. Arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3205.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | termo-compromisso | 19957.014625/2023-82 | 2025-01-28 | aceito | cvm-col-20250128-d3205 | fichas/tc/2025-01.md |
 
 ## art. 26-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26-A | decisao-colegiado | 19957.002097/2016-90 | 2024-08-13 | parcial | infraestrutura-mercado | O Colegiado deu provimento parcial à proposta da B3 sobre ofertas RLP: converteu em mecanismo definitivo para minicontratos de dólar e Ibovespa, manteve a fase experimental para ações com ajustes de informação e enforcement, e manteve o cap de 15%, por maioria. Vencido um diretor, que propôs 18% para minicontratos de Ibovespa. | ../../../../../julgados/cvm/colegiado/2024/col-20240813-d1410.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26-A | decisao-colegiado | 19957.002097/2016-90 | 2024-08-13 | parcial | cvm-col-20240813-d1410 | fichas/colegiado/2024-08.md |
 
 ## art. 31
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 31 | decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005260/2020-52. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2384.md |
-| art. 31 | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008844/2020-80. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2432.md |
-| art. 31 | decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000765/2021-10. | ../../../../../julgados/cvm/colegiado/2022/col-20220308-d2496.md |
-| art. 31 | decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003374/2021-49. | ../../../../../julgados/cvm/colegiado/2022/col-20220809-d2665.md |
-| art. 31 | decisao-colegiado | 19957.001479/2021-63 | 2022-11-01 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.001479/2021-63. | ../../../../../julgados/cvm/colegiado/2022/col-20221101-d2715.md |
-| art. 31 | decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012626/2022-10. | ../../../../../julgados/cvm/colegiado/2024/col-20240206-d2990.md |
-| art. 31 | decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.013821/2022-59. | ../../../../../julgados/cvm/colegiado/2024/col-20240430-d3052.md |
-| art. 31 | decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012300/2023-65. | ../../../../../julgados/cvm/colegiado/2024/col-20240827-d3110.md |
-| art. 31 | decisao-colegiado | 19957.007430/2023-86 | 2024-09-17 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.007430/2023-86. | ../../../../../julgados/cvm/colegiado/2024/col-20240917-d3135.md |
-| art. 31 | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000897/2023-03. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3220.md |
-| art. 31 | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000889/2023-59. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3221.md |
-| art. 31 | decisao-colegiado | 19957.015892/2023-77 | 2025-03-11 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.015892/2023-77. | ../../../../../julgados/cvm/colegiado/2025/col-20250311-d3230.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 31 | decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
+| art. 31 | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
+| art. 31 | decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | cvm-col-20220308-d2496 | fichas/colegiado/2022-03.md |
+| art. 31 | decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | cvm-col-20220809-d2665 | fichas/colegiado/2022-12.md |
+| art. 31 | decisao-colegiado | 19957.001479/2021-63 | 2022-11-01 | parcial | cvm-col-20221101-d2715 | fichas/colegiado/2022-15.md |
+| art. 31 | decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | cvm-col-20240206-d2990 | fichas/colegiado/2024-02.md |
+| art. 31 | decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | cvm-col-20240430-d3052 | fichas/colegiado/2024-05.md |
+| art. 31 | decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | cvm-col-20240827-d3110 | fichas/colegiado/2024-09.md |
+| art. 31 | decisao-colegiado | 19957.007430/2023-86 | 2024-09-17 | provido | cvm-col-20240917-d3135 | fichas/colegiado/2024-10.md |
+| art. 31 | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | cvm-col-20250204-d3220 | fichas/colegiado/2025-01.md |
+| art. 31 | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | cvm-col-20250204-d3221 | fichas/colegiado/2025-01.md |
+| art. 31 | decisao-colegiado | 19957.015892/2023-77 | 2025-03-11 | parcial | cvm-col-20250311-d3230 | fichas/colegiado/2025-02.md |
 
 ## art. 33
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 33 | decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012300/2023-65. | ../../../../../julgados/cvm/colegiado/2024/col-20240827-d3110.md |
-| art. 33 | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000897/2023-03. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3220.md |
-| art. 33 | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000889/2023-59. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3221.md |
-| art. 33 | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | manipulacao-fraude | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da Nova Futura CTVM e de uma pessoa física, de R$ 252.000,00 e R$ 126.000,00, e rejeitou as de dois outros acusados (de R$ 200.000,00 e R$ 100.000,00), em PAS por operações fraudulentas e falta de diligência. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3353.md |
-| art. 33 | pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | manipulacao-fraude | Responsabilidade por manipulação de preço no mercado de valores mobiliários, em infração ao inciso I da Instrução CVM nº 8/1979, conforme inciso II da referida norma. Multas. | ../../../../../julgados/cvm/pas/2022/19957-008818-2018-37.md |
-| art. 33, inciso I | decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | infraestrutura-mercado | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.005260/2020-52. | ../../../../../julgados/cvm/colegiado/2021/col-20211116-d2384.md |
-| art. 33, inciso I | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.008844/2020-80. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2432.md |
-| art. 33, inciso I | decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004903/2020-41. | ../../../../../julgados/cvm/colegiado/2022/col-20220125-d2464.md |
-| art. 33, inciso I | decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.000765/2021-10. | ../../../../../julgados/cvm/colegiado/2022/col-20220308-d2496.md |
-| art. 33, inciso I | decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.003374/2021-49. | ../../../../../julgados/cvm/colegiado/2022/col-20220809-d2665.md |
-| art. 33, inciso I | decisao-colegiado | 19957.004398/2022-04 | 2023-07-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004398/2022-04. | ../../../../../julgados/cvm/colegiado/2023/col-20230704-d2884.md |
-| art. 33, inciso I | decisao-colegiado | 19957.004375/2022-91 | 2023-07-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004375/2022-91. | ../../../../../julgados/cvm/colegiado/2023/col-20230704-d2885.md |
-| art. 33, inciso I | termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | intermediacao | O Colegiado aceitou a proposta de termo de compromisso da Nova Futura CTVM e de seu diretor responsável, acompanhando o Comitê, que fixou R$ 453.600,00 em parcela única (R$ 302.400,00 e R$ 151.200,00), por suposta falha na fiscalização de agentes autônomos (art. 17, II, da ICVM 497/2011). | ../../../../../julgados/cvm/colegiado/2023/col-20231107-d2824.md |
-| art. 33, inciso I | decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.013821/2022-59. | ../../../../../julgados/cvm/colegiado/2024/col-20240430-d3052.md |
-| art. 33, inciso I | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000897/2023-03. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3220.md |
-| art. 33, inciso I | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000889/2023-59. | ../../../../../julgados/cvm/colegiado/2025/col-20250204-d3221.md |
-| art. 33, inciso IV | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | exercicio-irregular | RECURSOS ADMINISTRATIVOS. CVM. VALORES MOBILIÁRIOS. EXERCÍCIO PROFISSIONAL DE ADMINISTRAÇÃO DE CARTEIRAS DE VALORES MOBILIÁRIOS SEM AUTORIZAÇÃO PRÉVIA DA CVM. Infração aos art. 23 da Lei nº 6.385/1976 e art. 2º da Resolução CVM nº 21/2021. Irregularidades caracterizadas. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-000883-2024-62.md |
-| art. 33, inciso IV | pas | 19957.000883/2024-62 | 2024-10-15 | condenacao | exercicio-irregular | Apurar suposto exercício da atividade de administração profissional de carteira de valores mobiliários sem prévia autorização da CVM. Multa e Inabilitação Temporária. | ../../../../../julgados/cvm/pas/2024/19957-000883-2024-62.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 33 | decisao-colegiado | 19957.012300/2023-65 | 2024-08-27 | parcial | cvm-col-20240827-d3110 | fichas/colegiado/2024-09.md |
+| art. 33 | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | cvm-col-20250204-d3220 | fichas/colegiado/2025-01.md |
+| art. 33 | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | cvm-col-20250204-d3221 | fichas/colegiado/2025-01.md |
+| art. 33 | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
+| art. 33 | pas | 19957.008818/2018-37 | 2022-11-29 | condenacao | cvm-pas-19957-008818-2018-37 | fichas/pas/2022-06.md |
+| art. 33, inciso I | decisao-colegiado | 19957.005260/2020-52 | 2021-11-16 | provido | cvm-col-20211116-d2384 | fichas/colegiado/2021-19.md |
+| art. 33, inciso I | decisao-colegiado | 19957.008844/2020-80 | 2021-12-21 | provido | cvm-col-20211221-d2432 | fichas/colegiado/2021-22.md |
+| art. 33, inciso I | decisao-colegiado | 19957.004903/2020-41 | 2022-01-25 | parcial | cvm-col-20220125-d2464 | fichas/colegiado/2022-01.md |
+| art. 33, inciso I | decisao-colegiado | 19957.000765/2021-10 | 2022-03-08 | parcial | cvm-col-20220308-d2496 | fichas/colegiado/2022-03.md |
+| art. 33, inciso I | decisao-colegiado | 19957.003374/2021-49 | 2022-08-09 | parcial | cvm-col-20220809-d2665 | fichas/colegiado/2022-12.md |
+| art. 33, inciso I | decisao-colegiado | 19957.004398/2022-04 | 2023-07-04 | parcial | cvm-col-20230704-d2884 | fichas/colegiado/2023-07.md |
+| art. 33, inciso I | decisao-colegiado | 19957.004375/2022-91 | 2023-07-04 | parcial | cvm-col-20230704-d2885 | fichas/colegiado/2023-07.md |
+| art. 33, inciso I | termo-compromisso | 19957.004489/2022-31 | 2023-11-07 | aceito | cvm-col-20231107-d2824 | fichas/tc/2023-07.md |
+| art. 33, inciso I | decisao-colegiado | 19957.013821/2022-59 | 2024-04-30 | parcial | cvm-col-20240430-d3052 | fichas/colegiado/2024-05.md |
+| art. 33, inciso I | decisao-colegiado | 19957.000897/2023-03 | 2025-02-04 | parcial | cvm-col-20250204-d3220 | fichas/colegiado/2025-01.md |
+| art. 33, inciso I | decisao-colegiado | 19957.000889/2023-59 | 2025-02-04 | parcial | cvm-col-20250204-d3221 | fichas/colegiado/2025-01.md |
+| art. 33, inciso IV | acordao-crsfn | 19957.000883/2024-62 | 2025-07-15 | condenacao | crsfn-19957-000883-2024-62 | fichas/crsfn/2025-03.md |
+| art. 33, inciso IV | pas | 19957.000883/2024-62 | 2024-10-15 | condenacao | cvm-pas-19957-000883-2024-62 | fichas/pas/2024-08.md |
 
 ## art. 48
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 48 | decisao-colegiado | 19957.001830/2021-16 | 2024-05-21 | indeferido | processual | O Colegiado, por unanimidade, acompanhando o voto do Presidente relator, indeferiu pedidos de produção de prova de acusado em PAS da SPS por suposto uso de informação privilegiada em ações da Alpargatas. Fundamentos do relator (art. 43, §3º, da RCVM 45): oitivas inócuas e protelatórias, e planilhas da BSM que cobrem período suficiente. | ../../../../../julgados/cvm/colegiado/2024/col-20240521-d2938.md |
-| art. 48 | decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.003202/2023-37. | ../../../../../julgados/cvm/colegiado/2024/col-20240702-d3090.md |
-| art. 48 | decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.002520/2023-81. | ../../../../../julgados/cvm/colegiado/2024/col-20240709-d3093.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 48 | decisao-colegiado | 19957.001830/2021-16 | 2024-05-21 | indeferido | cvm-col-20240521-d2938 | fichas/colegiado/2024-05.md |
+| art. 48 | decisao-colegiado | 19957.003202/2023-37 | 2024-07-02 | parcial | cvm-col-20240702-d3090 | fichas/colegiado/2024-07.md |
+| art. 48 | decisao-colegiado | 19957.002520/2023-81 | 2024-07-09 | parcial | cvm-col-20240709-d3093 | fichas/colegiado/2024-08.md |
 
 ## art. 49
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 49 | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | manipulacao-fraude | O Colegiado, acompanhando o Comitê, aceitou proposta conjunta da Nova Futura CTVM e de uma pessoa física, de R$ 252.000,00 e R$ 126.000,00, e rejeitou as de dois outros acusados (de R$ 200.000,00 e R$ 100.000,00), em PAS por operações fraudulentas e falta de diligência. | ../../../../../julgados/cvm/colegiado/2026/col-20260623-d3353.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 49 | termo-compromisso | 19957.021536/2024-73 | 2026-06-23 | outro | cvm-col-20260623-d3353 | fichas/tc/2026-02.md |
 
 ## art. 124
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 124 | decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012912/2023-58. | ../../../../../julgados/cvm/colegiado/2025/col-20250128-d3216.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 124 | decisao-colegiado | 19957.012912/2023-58 | 2025-01-28 | parcial | cvm-col-20250128-d3216 | fichas/colegiado/2025-01.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | — | 2025-12-03 | outro | normativo | O Colegiado concluiu a discussão sobre a Agenda Regulatória da CVM para 2026, exceto temas contábeis, a partir de proposta da SDM. A agenda prevê nove normas a editar, dois estudos de AIR/ARR, doze temas para consulta pública e seis outros estudos. Relação final a ser divulgada em 10.12.2025. | ../../../../../julgados/cvm/colegiado/2025/col-20251203-d3468.md |
-| decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | ofertas-publicas | O Colegiado, por unanimidade, concedeu à Azul S.A. dispensas dos requisitos dos arts. 7º e 9º da RCVM 77 para oferta de debêntures conversíveis em ações preferenciais, nos termos da manifestação da área técnica. Para a SEP, perdeu objeto o pedido quanto ao art. 4º, e o art. 8º não se aplica. | ../../../../../julgados/cvm/colegiado/2025/col-20250415-d3263.md |
-| decisao-colegiado | 19957.019777/2024-52 | 2025-03-25 | conhecimento | exercicio-irregular | O Colegiado, por unanimidade, acompanhando a SMI, não conheceu de recurso de investidor contra arquivamento de reclamação sobre ordens de derivativos supostamente executadas sem comando, contra plataforma não registrada na CVM. Fundamento: ausência dos requisitos do art. 4º, §4º, da RCVM 45. A SMI, alternativamente, sugeriu não provimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250325-d3239.md |
-| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | manipulacao-fraude | Apurar eventuais irregularidades em operações em bolsa e intermediadas por ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda. e Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A., no período de 2.1.2013 a 28.2.2014. Multas e Absolvições. | ../../../../../julgados/cvm/pas/2024/19957-002595-2017-13.md |
-| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | intermediacao | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº 30/2021, por agente autônomo de investimento. Multas, Proibição Temporária e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-009162-2023-37.md |
-| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | intermediacao | O Colegiado indeferiu os pedidos da ANCORD de nova prorrogação da entrada em vigor da RCVM 179 e de forma alternativa de divulgação de custos, por se tratar de revisão substancial da norma, após o Colegiado já ter afastado nova prorrogação. Acompanhou SDM e SMI. | ../../../../../julgados/cvm/colegiado/2024/col-20240910-d3133.md |
-| decisao-colegiado | 19957.000885/2023-71 | 2024-07-23 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000885/2023-71. | ../../../../../julgados/cvm/colegiado/2024/col-20240723-d3088.md |
-| decisao-colegiado | 19957.000197/2022-20 | 2024-02-06 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.000197/2022-20. | ../../../../../julgados/cvm/colegiado/2024/col-20240206-d2988.md |
-| decisao-colegiado | 19957.014214/2023-97 | 2023-12-19 | outro | normativo | O Colegiado aprovou, por unanimidade, a Resolução CVM 196/2023, que prorroga para 01.11.2024 a entrada em vigor das seções III e IV do Capítulo VII-A da RCVM 35/2021, por desafios de adaptação de sistemas. Prazo definitivo, sem nova prorrogação. Dispensadas consulta pública e AIR. | ../../../../../julgados/cvm/colegiado/2023/col-20231219-d2974.md |
-| decisao-colegiado | 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | normativo | Minuta de resolução para prorrogar a entrada em vigor, fixada em 02.01.2024, das seções III e IV do Capítulo VII-A da Resolução CVM nº 35/2021, a pedido recebido pela CVM em razão de adaptações de sistemas para a transparência das remunerações de intermediários e assessores de investimento. Retirado de pauta, para retomada em reunião ordinária. | ../../../../../julgados/cvm/colegiado/2023/col-20231213-d2974.md |
-| decisao-colegiado | 19957.009938/2021-57 | 2023-09-20 | outro | normativo | O Colegiado aprovou o edital e a minuta de resolução da Consulta Pública SDM nº 2/2023 sobre portabilidade de valores mobiliários, que altera as RCVM 31, 32, 33 e 35/2021 e 175/2022. Busca reduzir dificuldades de movimentação de investimentos entre intermediários, distribuidores e custodiantes. Os aspectos centrais foram objeto de AIR publicada em 23.06.2022. | ../../../../../julgados/cvm/colegiado/2023/col-20230920-d2936.md |
-| decisao-colegiado | 19957.009938/2021-57 | 2023-09-13 | — | infraestrutura-mercado | O Colegiado iniciou a discussão da minuta da Consulta Pública SDM 2/2023, que altera as Resoluções CVM 31, 32, 33, 35/2021 e 175/2022 para suavizar dificuldades na portabilidade de valores mobiliários entre intermediários e custodiantes. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2023/col-20230913-d2936.md |
-| decisao-colegiado | 19957.004403/2022-71 | 2023-08-29 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.004403/2022-71. | ../../../../../julgados/cvm/colegiado/2023/col-20230829-d2921.md |
-| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | intermediacao | Apurar eventual responsabilidade por irregularidades relacionadas (i) à não adoção e implementação de (a) regras adequadas e eficazes para o cumprimento do disposto na Instrução CVM nº 505/2011, em infração ao art. 3º, inciso I; e (b) procedimentos e controles internos com o objetivo de verificar a implementação, aplicação e eficácia dessas regras, em infração ao art. 3º, inciso II; e (ii) à falhas na elaboração e no conteúdo dos relatórios de controles internos, em infração ao art. 4º, §5º, inciso III, da Instrução CVM nº 505/2011. Multas e advertência. | ../../../../../julgados/cvm/pas/2023/19957-009663-2017-75.md |
-| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | registro-emissor | Apurar eventual responsabilidade de companhia aberta e seus diretores pela inobservância do dever de guardar documentos relacionados à administração da companhia, em infração ao art. 9º, inciso I, alínea “b”, da Lei nº 6.385/1976. Absolvições. | ../../../../../julgados/cvm/pas/2023/19957-011361-2018-48.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | normativo | O Colegiado iniciou o debate sobre as propostas de resoluções que regulam a atividade de assessor de investimento (Audiência Pública SDM 05/2021), tendo alcançado o Capítulo III da Minuta A, sobre transição entre intermediários e novas contratações. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2023/col-20230208-d1441.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | intermediacao | O Colegiado aprovou a edição das Resoluções CVM 178 e 179, de 14.02.2023, após a Audiência Pública SDM 05/2021. A RCVM 178 cria o marco regulatório do assessor de investimento e revoga a RCVM 16/2021; a RCVM 179 amplia a transparência sobre remuneração e conflitos de interesse na intermediação. | ../../../../../julgados/cvm/colegiado/2023/col-20230208-d1441-r2.md |
-| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | intermediacao | O Colegiado não conheceu do recurso de investidor contra decisão da SMI que não adotou medidas adicionais em reclamação contra a XP Investimentos (suitability, operações estruturadas e ordens sem procuração), acompanhando a área técnica, que o considerou intempestivo (art. 2º, Res. CVM 46/2021). | ../../../../../julgados/cvm/colegiado/2022/col-20220614-d2615.md |
-| acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | intermediacao | RECURSO VOLUNTÁRIO. AUSÊNCIA DE REGRAS ADEQUADAS E EFICAZES PARA O CUMPRIMENTO DE NORMAS SOBRE AS OPERAÇÕES. AUSÊNCIA DE PROCEDIMENTOS E CONTROLES INTERNOS. Descumprimento da Instrução CVM nº 505, de 27 de setembro de 2011. Penalidade de advertência. Sucessão por incorporação posterior às ocorrências e anterior ao processo sancionador. Não transcendência subjetiva de sanções personalíssimas. Princípio da pessoalidade da pena. Impossibilidade de apenar a empresa sucessora com advertência. Extinção de punibilidade e arquivamento do processo. Recurso provido. Análise do mérito prejudicada. | ../../../../../julgados/crsfn/2022/10372-100106-2021-71.md |
-| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | intermediacao | Falhas na prestação de serviços de intermediação e custódia de valores mobiliários, em infração aos art. 12, inciso I, combinado com o art. 4°, inciso I, ambos da Instrução CVM nº 542/2013 e art. 30, caput e parágrafo único, e art. 32, inciso I, combinados com o art. 4°, inciso I, da Instrução CVM n° 505/2011. Multas.” | ../../../../../julgados/cvm/pas/2022/19957-009592-2017-19.md |
-| decisao-colegiado | 19957.002097/2016-90 | 2021-12-07 | deferido | infraestrutura-mercado | O Colegiado, acompanhando a SMI, aprovou nova proposta da B3 para ampliar o programa experimental da oferta RLP, com nova fase de 12 meses a iniciar até 31.01.2022, nos minicontratos e no mercado de ações, em alternativa à fase prorrogada em 04.08.2020. | ../../../../../julgados/cvm/colegiado/2021/col-20211207-d1410.md |
-| decisao-colegiado | 19957.004924/2020-66 | 2021-11-30 | provido | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004924/2020-66. | ../../../../../julgados/cvm/colegiado/2021/col-20211130-d2400.md |
-| decisao-colegiado | 19957.004995/2021-40 | 2021-11-03 | conhecimento | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. SEI 19957.004995/2021-40. | ../../../../../julgados/cvm/colegiado/2021/col-20211103-d2368.md |
-| decisao-colegiado | 19957.009468/2018-26 | 2021-07-21 | outro | normativo | O Colegiado aprovou submeter a audiência pública duas minutas de resolução que atualizam a regulamentação dos agentes autônomos de investimento e aprimoram a informação sobre remuneração e conflitos de interesse na intermediação em mercados regulamentados. As minutas revogam a Resolução CVM 16/2021 e alteram a Resolução CVM 35/2021. | ../../../../../julgados/cvm/colegiado/2021/col-20210721-d1441.md |
-| decisao-colegiado | 19957.009468/2018-26 | 2021-07-07 | — | normativo | O Colegiado iniciou a discussão das propostas de resolução sobre a atividade de agente autônomo de investimento e sobre remuneração e conflitos de interesse na intermediação em mercados regulamentados, que revogariam a Resolução CVM nº 16 e alterariam a Resolução CVM nº 35. Sem deliberação nesta reunião. | ../../../../../julgados/cvm/colegiado/2021/col-20210707-d1441.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | — | 2025-12-03 | outro | cvm-col-20251203-d3468 | fichas/colegiado/2025-12.md |
+| decisao-colegiado | 19957.001763/2025-63 | 2025-04-15 | deferido | cvm-col-20250415-d3263 | fichas/colegiado/2025-04.md |
+| decisao-colegiado | 19957.019777/2024-52 | 2025-03-25 | conhecimento | cvm-col-20250325-d3239 | fichas/colegiado/2025-02.md |
+| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-11.md |
+| pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | cvm-col-20240910-d3133 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.000885/2023-71 | 2024-07-23 | parcial | cvm-col-20240723-d3088 | fichas/colegiado/2024-08.md |
+| decisao-colegiado | 19957.000197/2022-20 | 2024-02-06 | parcial | cvm-col-20240206-d2988 | fichas/colegiado/2024-02.md |
+| decisao-colegiado | 19957.014214/2023-97 | 2023-12-19 | outro | cvm-col-20231219-d2974 | fichas/colegiado/2023-14.md |
+| decisao-colegiado | 35/2021; 19957.014214/2023-97 | 2023-12-13 | — | cvm-col-20231213-d2974 | fichas/colegiado/2023-13.md |
+| decisao-colegiado | 19957.009938/2021-57 | 2023-09-20 | outro | cvm-col-20230920-d2936 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.009938/2021-57 | 2023-09-13 | — | cvm-col-20230913-d2936 | fichas/colegiado/2023-10.md |
+| decisao-colegiado | 19957.004403/2022-71 | 2023-08-29 | parcial | cvm-col-20230829-d2921 | fichas/colegiado/2023-09.md |
+| pas | 19957.009663/2017-75 | 2023-07-11 | condenacao | cvm-pas-19957-009663-2017-75 | fichas/pas/2023-04.md |
+| pas | 19957.011361/2018-48 | 2023-06-27 | absolvicao | cvm-pas-19957-011361-2018-48 | fichas/pas/2023-04.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | — | cvm-col-20230208-d1441 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
+| decisao-colegiado | 19957.009122/2018-28 | 2022-06-14 | conhecimento | cvm-col-20220614-d2615 | fichas/colegiado/2022-10.md |
+| acordao-crsfn | SP2018/0538 | 2022-04-12 | extincao | crsfn-10372-100106-2021-71 | fichas/crsfn/2022-02.md |
+| pas | 19957.009592/2017-19 | 2022-02-22 | condenacao | cvm-pas-19957-009592-2017-19 | fichas/pas/2022-01.md |
+| decisao-colegiado | 19957.002097/2016-90 | 2021-12-07 | deferido | cvm-col-20211207-d1410 | fichas/colegiado/2021-21.md |
+| decisao-colegiado | 19957.004924/2020-66 | 2021-11-30 | provido | cvm-col-20211130-d2400 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 19957.004995/2021-40 | 2021-11-03 | conhecimento | cvm-col-20211103-d2368 | fichas/colegiado/2021-18.md |
+| decisao-colegiado | 19957.009468/2018-26 | 2021-07-21 | outro | cvm-col-20210721-d1441 | fichas/colegiado/2021-12.md |
+| decisao-colegiado | 19957.009468/2018-26 | 2021-07-07 | — | cvm-col-20210707-d1441 | fichas/colegiado/2021-11.md |
 
 Fim do subíndice.

@@ -3,188 +3,188 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [leis/lei-08668.md](../../normas/leis/lei-08668.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2005/3134 | 2005-06-28 | deferido | ofertas-publicas | O Colegiado concedeu ao FII Centro Têxtil Internacional dispensas dos anúncios de início e de encerramento, do prospecto e do contrato de distribuição (Instrução CVM 400/03, art. 4º). Ressalvou que, alternativamente à publicação do anúncio de início, o subscritor deve assinar documento que acuse recebimento de declaração de veracidade das informações. Acompanhou a área técnica, exceto em um item. | ../../../../../julgados/cvm/colegiado/2005/col-20050628-d02.md |
-| art. 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | ../../../../../julgados/cvm/colegiado/2006/col-20060221-d01.md |
-| art. 1º | decisao-colegiado | RJ2007/8644 | 2007-08-28 | deferido | ofertas-publicas | O Colegiado deferiu pedido do Banco Opportunity S.A., administrador do FII Trade Center, de dispensa de prospecto e de anúncios de início e encerramento da 3ª emissão de cotas (art. 4º da Instrução 400/03). Condição: divulgar anúncios e apresentação aos cotistas nos sites da CVM e do administrador. | ../../../../../julgados/cvm/colegiado/2007/col-20070828-d03.md |
-| art. 1º | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | fundos-investimento | Em consulta da SRE, o Colegiado, acompanhando o relator, decidiu que o registro de emissor do art. 21 da Lei 6.385/76 se aplica a fundos de investimento que invistam em valores mobiliários. Encaminhou à SDM estudo de hipóteses de safe harbor para presumir a distribuição privada, no projeto de reforma das ofertas públicas. | ../../../../../julgados/cvm/colegiado/2018/col-20181030-d0819.md |
-| art. 1º | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, ao recurso de gestora contra entendimento da SSE em consulta, mantendo a conclusão de que Fundos de Investimento Imobiliário e FIAGRO-Imobiliário não podem adquirir Cédulas Imobiliárias Rurais, que só cabem a FIAGRO-Direitos Creditórios (Resolução CVM 39/2021). Acompanhou a área técnica, com base na ICVM 472/2008 e no Parecer PFE/CVM. | ../../../../../julgados/cvm/colegiado/2021/col-20211026-d2359.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | RJ2005/3134 | 2005-06-28 | deferido | cvm-col-20050628-d02 | fichas/colegiado/2005-10.md |
+| art. 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
+| art. 1º | decisao-colegiado | RJ2007/8644 | 2007-08-28 | deferido | cvm-col-20070828-d03 | fichas/colegiado/2007-16.md |
+| art. 1º | decisao-colegiado | 19957.003689/2017-18 | 2018-10-30 | outro | cvm-col-20181030-d0819 | fichas/colegiado/2018-19.md |
+| art. 1º | decisao-colegiado | 19957.008472/2020-91 | 2021-10-26 | nao-provido | cvm-col-20211026-d2359 | fichas/colegiado/2021-18.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | manipulacao-fraude | PAS sobre suposta operação fraudulenta com recursos da UEG Araucária Ltda. em ativos ligados à GBX Tietê II, entre 2014 e 2017. O diretor relator votou pela absolvição dos acusados, por faltar a finalidade de vantagem ilícita e o concerto entre eles. | ../../../../../julgados/cvm/pas/2026/19957-003286-2024-90.md |
-| art. 3º | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | manipulacao-fraude | Apurar suposta criação de condições artificiais de demanda, oferta ou preço de valores mobiliários em transferência de cotas do Brazil Realty FII. Absolvição. | ../../../../../julgados/cvm/pas/2026/19957-005363-2021-01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | pas | 19957.003286/2024-90 | 2026-10-22 | — | cvm-pas-19957-003286-2024-90 | fichas/pas/2026-03.md |
+| art. 3º | pas | 19957.005363/2021-01 | 2026-09-08 | absolvicao | cvm-pas-19957-005363-2021-01 | fichas/pas/2026-02.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | RJ2004/3339 | 2004-07-02 | provido | fundos-investimento | O Colegiado deu provimento a recurso da Mellon Serviços Financeiros DTVM S.A. contra o indeferimento, pela SRE, do registro de emissão pública de quotas do Voga FII, por falta de imóvel ou empreendimento específico no prospecto. Fundamento do voto do relator: não há exigência legal de indicar alvo de investimento na emissão, observados os mecanismos da Instrução CVM 205/94. | ../../../../../julgados/cvm/colegiado/2004/col-20040702-d08.md |
-| art. 4º | decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor independente-pessoa jurídica, por falta de certificado do responsável técnico no Exame de Qualificação Técnica. Com base no voto do relator, que considerou a questão em vias de pacificação. | ../../../../../julgados/cvm/colegiado/2005/col-20050930-d07.md |
-| art. 4º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | ../../../../../julgados/cvm/colegiado/2006/col-20060221-d01.md |
-| art. 4º | decisao-colegiado | 19957.004974/2021-24 | 2021-07-01 | outro | fundos-investimento | O Colegiado aprovou a Resolução CVM 39/2021, de caráter experimental, que estabelece regime transitório para o registro de funcionamento do FIAGRO, conferindo efetividade à Lei 14.130/2021, até a regulamentação definitiva. Editada sem audiência pública nem análise de impacto regulatório, por decorrer de norma superior (arts. 4º e 20-A da Lei 8.668/1993). | ../../../../../julgados/cvm/colegiado/2021/col-20210701-d2242.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | RJ2004/3339 | 2004-07-02 | provido | cvm-col-20040702-d08 | fichas/colegiado/2004-08.md |
+| art. 4º | decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
+| art. 4º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
+| art. 4º | decisao-colegiado | 19957.004974/2021-24 | 2021-07-01 | outro | cvm-col-20210701-d2242 | fichas/colegiado/2021-11.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | — | 2007-06-05 | outro | fundos-investimento | O Colegiado, acompanhando a PFE, acatou a sugestão da SRE e determinou que a SDM elabore minuta incluindo as companhias hipotecárias no art. 11 da Instrução 205/94, entre as entidades autorizadas a administrar FII. Fundamento: a PFE concluiu que são entidades equiparadas às do art. 5º da Lei 8.668/93, nos termos da Resolução CMN 2.122/94 (redação da Resolução 3.425/06). | ../../../../../julgados/cvm/colegiado/2007/col-20070605-d01.md |
-| art. 5º | decisao-colegiado | 19957.006941/2017-32 | 2018-07-17 | outro | exercicio-irregular | O Colegiado aprovou deliberação que determina à B3 a suspensão, em todos os ambientes, das negociações de cotas do Mérito Desenvolvimento Imobiliário I FII. Segundo a SIN, há indícios de fraude, avaliação irregular de ativos e pirâmide financeira. Revogação só após nova apreciação do Colegiado. | ../../../../../julgados/cvm/colegiado/2018/col-20180717-d1086.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | — | 2007-06-05 | outro | cvm-col-20070605-d01 | fichas/colegiado/2007-08.md |
+| art. 5º | decisao-colegiado | 19957.006941/2017-32 | 2018-07-17 | outro | cvm-col-20180717-d1086 | fichas/colegiado/2018-13.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 6º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 6º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 7º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor-relator e entendeu não haver impedimento a que fundos de investimento imobiliário adquiram imóveis gravados com enfiteuse, desde que o fato seja claro e amplamente informado aos investidores (art. 7º, VI, da Lei 8.668/93). Deliberou divulgar na página da CVM o Parecer/CVM/PJU/Nº 014/02 e o voto. | ../../../../../julgados/cvm/colegiado/2003/col-20030225-d03.md |
-| art. 7º | decisao-colegiado | RJ2005/0589 | 2005-05-31 | outro | fundos-investimento | O Colegiado declarou plenamente válida a caução judicial constituída sobre quotas do Guanabara FII, por estar em total consonância com a Lei 8.668/93 e a Instrução CVM 205/94. Pelo voto da relatora, a caução recai sobre 80% das quotas, e não sobre os imóveis do fundo, que permanecem inviolados. | ../../../../../julgados/cvm/colegiado/2005/col-20050531-d03.md |
-| art. 7º | termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | manipulacao-fraude | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, rejeitou as propostas de termo de compromisso da DTVM e de três pessoas acusadas de operação fraudulenta envolvendo fundos de RPPS (ICVM 8/1979, item I, c/c item II, c); uma delas também de embaraço à fiscalização. Rejeição baseada apenas em conveniência e oportunidade, sem análise dos requisitos legais. | ../../../../../julgados/cvm/colegiado/2021/col-20210223-d1920.md |
-| art. 7º | pas | RJ2001/4187 | 2002-04-18 | parcial | fundos-investimento | EM LIQUIDAÇÃO EXTRAJUDICIAL Realização de operações de Fundo de Investimento Imobiliário quando caracterizada situação de conflito de interesses entre o Fundo e a instituição administradora. Infração Grave. Pena de inabilitação temporária do administrador responsável. Absolvição da administradora corretora de valores em liquidação extrajudicial. | ../../../../../julgados/cvm/pas/2002/rj2001-4187.md |
-| art. 7º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
-| art. 7º | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | manipulacao-fraude | Apurar irregularidades atreladas à 3ª emissão de cotas do Brazil Realty FII, sob a alegação de operação fraudulenta no mercado de capitais, cumulada com violação de deveres fiduciários e informacionais e prática de embaraço à fiscalização. Multas e absolvições. | ../../../../../julgados/cvm/pas/2026/19957-007976-2020-94.md |
-| art. 7º, inciso VI | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor-relator e entendeu não haver impedimento a que fundos de investimento imobiliário adquiram imóveis gravados com enfiteuse, desde que o fato seja claro e amplamente informado aos investidores (art. 7º, VI, da Lei 8.668/93). Deliberou divulgar na página da CVM o Parecer/CVM/PJU/Nº 014/02 e o voto. | ../../../../../julgados/cvm/colegiado/2003/col-20030225-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 7º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
+| art. 7º | decisao-colegiado | RJ2005/0589 | 2005-05-31 | outro | cvm-col-20050531-d03 | fichas/colegiado/2005-09.md |
+| art. 7º | termo-compromisso | 19957.008699/2019-01; 03/2016 | 2021-02-23 | rejeitado | cvm-col-20210223-d1920 | fichas/tc/2021-01.md |
+| art. 7º | pas | RJ2001/4187 | 2002-04-18 | parcial | cvm-pas-rj2001-4187 | fichas/pas/2002-02.md |
+| art. 7º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
+| art. 7º | pas | 19957.007976/2020-94 | 2026-09-08 | parcial | cvm-pas-19957-007976-2020-94 | fichas/pas/2026-03.md |
+| art. 7º, inciso VI | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor-relator e entendeu não haver impedimento a que fundos de investimento imobiliário adquiram imóveis gravados com enfiteuse, desde que o fato seja claro e amplamente informado aos investidores (art. 7º, VI, da Lei 8.668/93). Deliberou divulgar na página da CVM o Parecer/CVM/PJU/Nº 014/02 e o voto. | ../../../../../julgados/cvm/colegiado/2003/col-20030225-d03.md |
-| art. 8º | decisao-colegiado | 19957.002358/2021-39 | 2021-10-26 | indeferido | fundos-investimento | Por maioria, vencido um dos diretores, o Colegiado indeferiu pedido de dispensa de assembleia de cotistas de FII para aquisição de ativos com potencial conflito de interesses de partes relacionadas à consultora, por meio de Comitê Consultivo, e de remuneração de seus membros pelo fundo (art. 34, ICVM 472/2008). Acompanhou a área técnica nos votos vencedores. | ../../../../../julgados/cvm/colegiado/2021/col-20211026-d2358.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
+| art. 8º | decisao-colegiado | 19957.002358/2021-39 | 2021-10-26 | indeferido | cvm-col-20211026-d2358 | fichas/colegiado/2021-18.md |
 
 ## art. 9º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | fundos-investimento | RECURSOS ADMINISTRATIVO. CVM. FUNDO DE INVESTIMENTO IMOBILIÁRIO. ALTERAÇÃO DE QUADRO SOCIETÁRIO NÃO COMUNICADA PARA A CVM. FINALIDADES DISTINTAS DE CADASTROS. CONTABILIZAÇÃO INADEQUADA DE ATIVOS. DESCUMPRIMENTO DO DEVER DE DILIGÊNCIA DA ADMINISTRADORA. Apuração de suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Infrações não caracterizadas para um dos recorrentes pessoa física. Dosimetria da pena adequada. Recursos conhecidos. Provimento. Desprovimentos. | ../../../../../julgados/crsfn/2024/10372-100150-2022-61.md |
-| art. 9º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor-relator e entendeu não haver impedimento a que fundos de investimento imobiliário adquiram imóveis gravados com enfiteuse, desde que o fato seja claro e amplamente informado aos investidores (art. 7º, VI, da Lei 8.668/93). Deliberou divulgar na página da CVM o Parecer/CVM/PJU/Nº 014/02 e o voto. | ../../../../../julgados/cvm/colegiado/2003/col-20030225-d03.md |
-| art. 9º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | fundos-investimento | Apurar suposta violação por administrador fiduciário de fundo de investimento imobiliário ao disposto nos arts. 32, III, “d” e 33 da Instrução CVM nº 472/2008 e nos arts. 11 e 23, §4º, da Instrução CVM nº 516/2011. Multas e absolvição. | ../../../../../julgados/cvm/pas/2022/19957-002315-2021-53.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º | acordao-crsfn | 19957.002315/2021-53 | 2024-08-13 | parcial | crsfn-10372-100150-2022-61 | fichas/crsfn/2024-04.md |
+| art. 9º | decisao-colegiado | RJ2001/11828 | 2003-02-25 | outro | cvm-col-20030225-d03 | fichas/colegiado/2003-02.md |
+| art. 9º | pas | 19957.002315/2021-53 | 2022-07-05 | parcial | cvm-pas-19957-002315-2021-53 | fichas/pas/2022-03.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | RJ2004/3339 | 2004-07-02 | provido | fundos-investimento | O Colegiado deu provimento a recurso da Mellon Serviços Financeiros DTVM S.A. contra o indeferimento, pela SRE, do registro de emissão pública de quotas do Voga FII, por falta de imóvel ou empreendimento específico no prospecto. Fundamento do voto do relator: não há exigência legal de indicar alvo de investimento na emissão, observados os mecanismos da Instrução CVM 205/94. | ../../../../../julgados/cvm/colegiado/2004/col-20040702-d08.md |
-| art. 10 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
-| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
-| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2022-01-31 | deferido | fundos-investimento | O Colegiado concedeu efeito suspensivo, antes de protocolado o pedido de reconsideração, à decisão de 21.12.2021 sobre distribuição de rendimentos do Maxi Renda FII, pedido pela administradora. Fundamento: o cumprimento imediato geraria empecilhos operacionais de difícil superação no curto prazo. O efeito cessa se o pedido de reconsideração não for protocolado no prazo ou se não for conhecido ou rejeitado. | ../../../../../julgados/cvm/colegiado/2022/col-20220131-d2388.md |
-| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | ../../../../../julgados/cvm/colegiado/2022/col-20220517-d2388.md |
-| art. 10, inciso XI | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
-| art. 10, parágrafo único | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
-| art. 10, parágrafo único | decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20160504-d5347.md |
-| art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
-| art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | ../../../../../julgados/cvm/colegiado/2022/col-20220517-d2388.md |
-| art. 10, parágrafo único | decisao-colegiado | 19957.003777/2022-79 | 2022-06-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SSE em processo de multa cominatória. Proc. SEI 19957.003777/2022-79. | ../../../../../julgados/cvm/colegiado/2022/col-20220628-d2625.md |
-| art. 10, parágrafo único | decisao-colegiado | 19957.001217/2025-22 | 2025-07-08 | outro | fundos-investimento | O Colegiado, por unanimidade, acompanhando o voto do Presidente, condicionou a dispensa de reembolso a cotistas dissidentes do Witex FII (art. 119, § 1º, II, RCVM 175) a pressupostos do voto, para deferimento pela área técnica. Encaminhou à SSE, para diligências, o pedido de subclasses com subordinação entre si. | ../../../../../julgados/cvm/colegiado/2025/col-20250708-d3284.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | decisao-colegiado | RJ2004/3339 | 2004-07-02 | provido | cvm-col-20040702-d08 | fichas/colegiado/2004-08.md |
+| art. 10 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
+| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2022-01-31 | deferido | cvm-col-20220131-d2388 | fichas/colegiado/2022-01.md |
+| art. 10 | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | cvm-col-20220517-d2388 | fichas/colegiado/2022-08.md |
+| art. 10, inciso XI | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| art. 10, parágrafo único | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
+| art. 10, parágrafo único | decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
+| art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| art. 10, parágrafo único | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | cvm-col-20220517-d2388 | fichas/colegiado/2022-08.md |
+| art. 10, parágrafo único | decisao-colegiado | 19957.003777/2022-79 | 2022-06-28 | nao-provido | cvm-col-20220628-d2625 | fichas/colegiado/2022-10.md |
+| art. 10, parágrafo único | decisao-colegiado | 19957.001217/2025-22 | 2025-07-08 | outro | cvm-col-20250708-d3284 | fichas/colegiado/2025-06.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | SP2015/0118 | 2015-06-30 | nao-provido | fundos-investimento | O Colegiado negou provimento ao recurso da administradora contra decisão da SIN que exigiu aprovação, em assembleia de cotistas do BC Fund, da participação do FII Prime na OPA da BR Properties, por conflito de interesse, nos termos do art. 34 da ICVM 472/2008. Acompanhou o voto, que trocou o fundamento para o art. 9º, §1º, III, da Lei 6.385/1976. | ../../../../../julgados/cvm/colegiado/2015/col-20150630-d9747.md |
-| art. 12 | decisao-colegiado | 19957.011461/2017-93 | 2017-12-19 | provido | fundos-investimento | O Colegiado deu provimento ao recurso do administrador do CSHG Logística FII contra exigências da SIN no registro de oferta de cotas. Entendeu que o conflito de interesses (investimentos em fundos do próprio administrador sem assembleia, art. 34 da Instrução CVM 472/08) não afeta a atualização do registro do emissor e deve ser apurado em procedimento próprio. | ../../../../../julgados/cvm/colegiado/2017/col-20171219-d0881.md |
-| art. 12 | decisao-colegiado | 19957.003562/2018-71 | 2019-11-19 | nao-provido | deveres-administradores | Por unanimidade, o Colegiado negou provimento a recurso contra o arquivamento de reclamação sobre suposto conflito de interesses em venda em bloco de unidades de empreendimento entre FII e SPE, acompanhando a área técnica. Esta entendeu que o não exercício da cláusula de recompra fez a demanda perder objeto. | ../../../../../julgados/cvm/colegiado/2019/col-20191119-d1612.md |
-| art. 12 | termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | fundos-investimento | O Colegiado aceitou, por unanimidade, a proposta global de termo de compromisso da Tivio Capital DTVM e de quatro diretores responsáveis por FII, em três processos (um PAS e dois PAs), incluindo renegociação de aluguéis de fundo sem prévia aprovação da assembleia de cotistas. Acompanhou o Comitê: R$ 6.229.125,00 em parcela única, rateados entre os cinco proponentes; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250513-d3273.md |
-| art. 12, inciso I | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
-| art. 12, inciso I | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
-| art. 12, inciso III | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | fundos-investimento | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SSE, dado em consulta, que manteve o real como moeda funcional de Fiagro que investe em CRA com cláusula cambial. Acompanhou a área técnica: custos e rendimentos são em reais e a variação do dólar integra o objetivo de rentabilidade, não sendo mera conversão. | ../../../../../julgados/cvm/colegiado/2023/col-20230822-d2915.md |
-| art. 12, inciso IV | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | fundos-investimento | Em consulta, o Colegiado, por unanimidade, acompanhou a SSE: FII e Fiagro podem recomprar as próprias cotas para cancelamento (art. 12, IV, Lei 8.668/1993), desde que o regulamento replique as regras de recompra de FIF Ações (RCVM 175, Anexo I, art. 56, §6º). A OPAC sobre cotas próprias exige autorização regulamentar e cancelamento imediato. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3280.md |
-| art. 12, inciso IV | decisao-antiga | — | 1998-01-09 | — | — | Decisões do colegiado de 1998. | ../../../../../julgados/cvm/decisoes-antigas/1998.md |
-| art. 12, inciso VI | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | fundos-investimento | Em consulta, o Colegiado, por unanimidade, acompanhou a SSE: FII e Fiagro podem recomprar as próprias cotas para cancelamento (art. 12, IV, Lei 8.668/1993), desde que o regulamento replique as regras de recompra de FIF Ações (RCVM 175, Anexo I, art. 56, §6º). A OPAC sobre cotas próprias exige autorização regulamentar e cancelamento imediato. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3280.md |
-| art. 12, inciso VII | decisao-colegiado | 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | fundos-investimento | O Colegiado indeferiu dispensa do art. 34 da Instrução CVM 472/08 pleiteada por administradoras de FII: operações com administrador, gestor ou partes relacionadas exigem assembleia de cotistas, e não se aplica o art. 21-A da Instrução CVM 306/99. Prazos de registro de oferta podem ser retomados, quando cabível. | ../../../../../julgados/cvm/colegiado/2013/col-20130806-d01.md |
-| art. 12, inciso VII | decisao-colegiado | SP2015/0118 | 2015-06-30 | nao-provido | fundos-investimento | O Colegiado negou provimento ao recurso da administradora contra decisão da SIN que exigiu aprovação, em assembleia de cotistas do BC Fund, da participação do FII Prime na OPA da BR Properties, por conflito de interesse, nos termos do art. 34 da ICVM 472/2008. Acompanhou o voto, que trocou o fundamento para o art. 9º, §1º, III, da Lei 6.385/1976. | ../../../../../julgados/cvm/colegiado/2015/col-20150630-d9747.md |
-| art. 12, inciso VII | termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | fundos-investimento | O Colegiado aceitou, por unanimidade, a proposta global de termo de compromisso da Tivio Capital DTVM e de quatro diretores responsáveis por FII, em três processos (um PAS e dois PAs), incluindo renegociação de aluguéis de fundo sem prévia aprovação da assembleia de cotistas. Acompanhou o Comitê: R$ 6.229.125,00 em parcela única, rateados entre os cinco proponentes; arquivamento após cumprimento. | ../../../../../julgados/cvm/colegiado/2025/col-20250513-d3273.md |
-| art. 12, inciso XII | decisao-colegiado | 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | fundos-investimento | O Colegiado indeferiu dispensa do art. 34 da Instrução CVM 472/08 pleiteada por administradoras de FII: operações com administrador, gestor ou partes relacionadas exigem assembleia de cotistas, e não se aplica o art. 21-A da Instrução CVM 306/99. Prazos de registro de oferta podem ser retomados, quando cabível. | ../../../../../julgados/cvm/colegiado/2013/col-20130806-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | SP2015/0118 | 2015-06-30 | nao-provido | cvm-col-20150630-d9747 | fichas/colegiado/2015-12.md |
+| art. 12 | decisao-colegiado | 19957.011461/2017-93 | 2017-12-19 | provido | cvm-col-20171219-d0881 | fichas/colegiado/2017-20.md |
+| art. 12 | decisao-colegiado | 19957.003562/2018-71 | 2019-11-19 | nao-provido | cvm-col-20191119-d1612 | fichas/colegiado/2019-19.md |
+| art. 12 | termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | cvm-col-20250513-d3273 | fichas/tc/2025-02.md |
+| art. 12, inciso I | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
+| art. 12, inciso I | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
+| art. 12, inciso III | decisao-colegiado | 19957.012803/2022-50 | 2023-08-22 | nao-provido | cvm-col-20230822-d2915 | fichas/colegiado/2023-09.md |
+| art. 12, inciso IV | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | cvm-col-20250520-d3280 | fichas/colegiado/2025-05.md |
+| art. 12, inciso IV | decisao-antiga | — | 1998-01-09 | — | cvm-dec-1998-0001 | fichas/decisoes-antigas/1998-15.md |
+| art. 12, inciso VI | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | cvm-col-20250520-d3280 | fichas/colegiado/2025-05.md |
+| art. 12, inciso VII | decisao-colegiado | 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | cvm-col-20130806-d01 | fichas/colegiado/2013-14.md |
+| art. 12, inciso VII | decisao-colegiado | SP2015/0118 | 2015-06-30 | nao-provido | cvm-col-20150630-d9747 | fichas/colegiado/2015-12.md |
+| art. 12, inciso VII | termo-compromisso | 19957.001928/2023-35; 19957.003834/2021-39; 19957.006054/2022-21 | 2025-05-13 | aceito | cvm-col-20250513-d3273 | fichas/tc/2025-02.md |
+| art. 12, inciso XII | decisao-colegiado | 472/2008; RJ2012/13220; RJ2012/15177 | 2013-08-06 | indeferido | cvm-col-20130806-d01 | fichas/colegiado/2013-14.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13, inciso I | decisao-colegiado | RJ2005/0589 | 2005-05-31 | outro | fundos-investimento | O Colegiado declarou plenamente válida a caução judicial constituída sobre quotas do Guanabara FII, por estar em total consonância com a Lei 8.668/93 e a Instrução CVM 205/94. Pelo voto da relatora, a caução recai sobre 80% das quotas, e não sobre os imóveis do fundo, que permanecem inviolados. | ../../../../../julgados/cvm/colegiado/2005/col-20050531-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13, inciso I | decisao-colegiado | RJ2005/0589 | 2005-05-31 | outro | cvm-col-20050531-d03 | fichas/colegiado/2005-09.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15 | decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | auditoria-independente | O Colegiado negou provimento a recurso da Lacerda & Auditores Independentes contra o cancelamento, pela SNC, de seu registro como auditor independente-pessoa jurídica, por falta de certificado do responsável técnico no Exame de Qualificação Técnica. Com base no voto do relator, que considerou a questão em vias de pacificação. | ../../../../../julgados/cvm/colegiado/2005/col-20050930-d07.md |
-| art. 15 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | fundos-investimento | O Colegiado negou provimento, por maioria, a recurso da administradora de FII contra exigência da SSE de refazimento e reapresentação das DFs de 2022 e 2023 do fundo, sob pena de multa cominatória extraordinária. Acompanhou a área técnica. Restou vencido um diretor. | ../../../../../julgados/cvm/colegiado/2025/col-20250617-d3251.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15 | decisao-colegiado | RJ2005/5980 | 2005-09-30 | nao-provido | cvm-col-20050930-d07 | fichas/colegiado/2005-14.md |
+| art. 15 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | cvm-col-20250617-d3251 | fichas/colegiado/2025-05.md |
 
 ## art. 16
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 16 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
-| art. 16 | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | fundos-investimento | Por maioria, o Colegiado deu provimento parcial a recurso do administrador de FII contra ofício da SSE que pedia distribuir rendimentos somente com lucro contábil; a SSE tratava o excesso como amortização do capital. Vencido um diretor, que dava provimento integral. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2388.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 16 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
+| art. 16 | decisao-colegiado | 19957.006102/2020-10 | 2021-12-21 | parcial | cvm-col-20211221-d2388 | fichas/colegiado/2021-22.md |
 
 ## art. 17
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
-| art. 17 | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | fundos-investimento | O Colegiado, por unanimidade, deu provimento a pedido de reconsideração do BTG Pactual DTVM, administrador de FII, reconsiderando a decisão de 21.12.2021, e reconheceu regular contabilizar a distribuição de Lucro Caixa Excedente em lucros ou prejuízos acumulados, e não como amortização de cotas. Orientou o administrador, prospectivamente, quanto aos aspectos informacionais. | ../../../../../julgados/cvm/colegiado/2022/col-20220517-d2388.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 17 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
+| art. 17 | decisao-colegiado | 19957.006102/2020-10 | 2022-05-17 | provido | cvm-col-20220517-d2388 | fichas/colegiado/2022-08.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | fundos-investimento | O Colegiado, em resposta à ANBIMA, ratificou entendimento da SIN, SNC e PFE sobre lucros auferidos de FII (art. 10, parágrafo único, Lei 8.668/1993): distribuição semestral de 95% é obrigatória e automática, salvo deliberação dos cotistas em assembleia; autorizou AGOs do exercício de 2014 até 30.06.2015. | ../../../../../julgados/cvm/colegiado/2015/col-20150317-d9595.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19 | decisao-colegiado | RJ2014/11704 | 2015-03-17 | outro | cvm-col-20150317-d9595 | fichas/colegiado/2015-05.md |
 
 ## art. 20-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20-A | decisao-colegiado | 19957.004974/2021-24 | 2021-07-01 | outro | fundos-investimento | O Colegiado aprovou a Resolução CVM 39/2021, de caráter experimental, que estabelece regime transitório para o registro de funcionamento do FIAGRO, conferindo efetividade à Lei 14.130/2021, até a regulamentação definitiva. Editada sem audiência pública nem análise de impacto regulatório, por decorrer de norma superior (arts. 4º e 20-A da Lei 8.668/1993). | ../../../../../julgados/cvm/colegiado/2021/col-20210701-d2242.md |
-| art. 20-A | decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-11 | outro | fundos-investimento | O Colegiado aprovou a Resolução CVM 214/2024, que acrescenta à RCVM 175 o Anexo VI sobre FIAGRO. Permitiu investimento em derivativos (só para proteção patrimonial), ativos de liquidez, créditos de carbono e CBIO. Estendeu a todos os fundos as regras de procuração em assembleia, antes restritas aos FII. Dispensou AIR por tratar de regime provisório e experimental. | ../../../../../julgados/cvm/colegiado/2024/col-20240911-d2242.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20-A | decisao-colegiado | 19957.004974/2021-24 | 2021-07-01 | outro | cvm-col-20210701-d2242 | fichas/colegiado/2021-11.md |
+| art. 20-A | decisao-colegiado | 03/2023; 19957.004974/2021-24 | 2024-09-11 | outro | cvm-col-20240911-d2242 | fichas/colegiado/2024-10.md |
 
 ## art. 20-F
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20-F | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | fundos-investimento | Em consulta, o Colegiado, por unanimidade, acompanhou a SSE: FII e Fiagro podem recomprar as próprias cotas para cancelamento (art. 12, IV, Lei 8.668/1993), desde que o regulamento replique as regras de recompra de FIF Ações (RCVM 175, Anexo I, art. 56, §6º). A OPAC sobre cotas próprias exige autorização regulamentar e cancelamento imediato. | ../../../../../julgados/cvm/colegiado/2025/col-20250520-d3280.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20-F | decisao-colegiado | 19957.000368/2025-63; 19957.001945/2025-34 | 2025-05-20 | outro | cvm-col-20250520-d3280 | fichas/colegiado/2025-05.md |
 
 ## art. 152
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 152 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | fundos-investimento | O Colegiado negou provimento, por maioria, a recurso da administradora de FII contra exigência da SSE de refazimento e reapresentação das DFs de 2022 e 2023 do fundo, sob pena de multa cominatória extraordinária. Acompanhou a área técnica. Restou vencido um diretor. | ../../../../../julgados/cvm/colegiado/2025/col-20250617-d3251.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 152 | decisao-colegiado | 19957.008240/2024-67 | 2025-06-17 | nao-provido | cvm-col-20250617-d3251 | fichas/colegiado/2025-05.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 175/2022; 19957.014076/2023-46 | 2024-03-06 | outro | fundos-investimento | O Colegiado aprovou a RCVM 200/2024, que altera a RCVM 175/2022 e adia vigências: adaptação do estoque de fundos para 30.06.2025; do estoque de FIDC para 29.11.2024; §1º do art. 140 para 01.11.2024; §§2º e 4º do art. 140 para 01.10.2024. Também permite que FII e Fiagro deem ativos em garantia (Lei 8.668/1993). Dispensadas AIR e consulta pública. | ../../../../../julgados/cvm/colegiado/2024/col-20240306-d3033.md |
-| decisao-colegiado | 19957.010075/2022-41 | 2022-11-29 | nao-provido | fundos-investimento | O Colegiado, por maioria, negou provimento ao recurso da Suno Gestora de Recursos Ltda. contra entendimento da SSE sobre quórum de assembleia de FII para substituir o gestor, acompanhando a área técnica, que propôs o indeferimento e o quórum qualificado em qualquer hipótese de substituição. Ficou vencido um diretor. | ../../../../../julgados/cvm/colegiado/2022/col-20221129-d2724.md |
-| decisao-colegiado | 19957.000837/2021-11 | 2021-05-25 | provido | fundos-investimento | O Colegiado, por maioria, deu provimento a recurso da Cyrela Commercial Properties contra manifestação da SSE sobre impedimento de voto como cotista majoritária do FII Grand Plaza Shopping em assembleias sobre a cisão do fundo. A área técnica propôs manter o entendimento de conflito; vencida uma diretora que a acompanhou. | ../../../../../julgados/cvm/colegiado/2021/col-20210525-d2189.md |
-| termo-compromisso | 19957.006941/2017-32 | 2021-04-27 | aceito | fundos-investimento | O Colegiado aceitou proposta de Termo de Compromisso de R$ 1.505.000,00, em parcela única, de gestora, administradora e dois diretores de FII, por indícios de atuação semelhante a pirâmide financeira (ICVM 8/1979, II, “c”; ICVM 472/2008), acompanhando o Comitê. Valores: gestora R$ 450.000,00; administradora R$ 517.500,00; diretores R$ 250.000,00 e R$ 287.500,00. | ../../../../../julgados/cvm/colegiado/2021/col-20210427-d1086.md |
-| decisao-colegiado | 19957.007396/2017-00 | 2019-08-27 | provido | assembleia-acionistas | O Colegiado, acompanhando voto divergente de um diretor (vencido o relator), deu provimento ao recurso da Cosan S.A. contra entendimento da SEP que exigia aprovação em assembleia do montante da remuneração de administradores que ocupam cargos em controladas. Fundamento: cada assembleia aprova a remuneração pelo cargo que o administrador exerce nela (art. 152, Lei 6.404/76). | ../../../../../julgados/cvm/colegiado/2019/col-20190827-d1052.md |
-| decisao-colegiado | 795/2018; 19957.006941/2017-32 | 2018-09-25 | deferido | fundos-investimento | O Colegiado deferiu pedido da Planner Corretora de Valores S.A., administradora do Mérito Desenvolvimento Imobiliário I FII, e revogou a suspensão de negociação de cotas imposta pela Deliberação CVM 795/18. Fundamento: correção das inconsistências contábeis (ICVM 516/11), exigida pela SIN e ponderada pela PFE; sem prejuízo da apuração de irregularidades em curso. | ../../../../../julgados/cvm/colegiado/2018/col-20180925-d1086.md |
-| decisao-colegiado | 19957.009423/2017-71 | 2017-10-10 | nao-provido | fundos-investimento | O Colegiado, acompanhando a SIN, negou provimento a recurso de administradora de FII contra exigência de retificar edital para incluir pedido de cotistas de redução da taxa de administração. Determinou adiamento da AGE, observado intervalo mínimo de quinze dias entre fato relevante e assembleia. | ../../../../../julgados/cvm/colegiado/2017/col-20171010-d0823.md |
-| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | securitizacao | O Colegiado negou provimento a recurso de securitizadora e banco contra exigências da SRE em pedido de registro de oferta de CRI lastreados em debêntures, cujos recursos reembolsariam imóvel adquirido antes da emissão. Nos termos do voto do Presidente, as debêntures não são crédito imobiliário hábil ao lastro (Lei 9.514/1997; Instrução 414), pois a operação aparentava não ter substância econômica. | ../../../../../julgados/cvm/colegiado/2017/col-20170626-d0603.md |
-| decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20161121-d5347.md |
-| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | fundos-investimento | O Colegiado indeferiu o pedido de dispensa da BRL Trust DTVM do cumprimento do inciso IV do art. 35 da Instrução CVM 472/2008 para o Arena Fundo de Investimento Imobiliário, acompanhando a SIN. Para a SIN, a AGC de 28.11.2013 extrapolou sua competência (art. 18 da ICVM 472) ao coobrigar bens e direitos do fundo. | ../../../../../julgados/cvm/colegiado/2015/col-20150908-d9820.md |
-| decisao-colegiado | RJ2007/2339 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2339. | ../../../../../julgados/cvm/colegiado/2010/col-20100302-d23.md |
-| decisao-colegiado | — | 2004-07-13 | outro | multa-cominatoria-taxa | O Colegiado, vencida uma diretora, deliberou suspender a cobrança da taxa de fiscalização da CVM sobre FIDC, na forma do parecer da PFE. Fundamento: não incidência com base na Tabela A da Lei 7.940/89, pelas mesmas razões aplicadas a fundos antes sujeitos ao Banco Central. | ../../../../../julgados/cvm/colegiado/2004/col-20040713-d05.md |
-| decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 175/2022; 19957.014076/2023-46 | 2024-03-06 | outro | cvm-col-20240306-d3033 | fichas/colegiado/2024-03.md |
+| decisao-colegiado | 19957.010075/2022-41 | 2022-11-29 | nao-provido | cvm-col-20221129-d2724 | fichas/colegiado/2022-16.md |
+| decisao-colegiado | 19957.000837/2021-11 | 2021-05-25 | provido | cvm-col-20210525-d2189 | fichas/colegiado/2021-09.md |
+| termo-compromisso | 19957.006941/2017-32 | 2021-04-27 | aceito | cvm-col-20210427-d1086 | fichas/tc/2021-02.md |
+| decisao-colegiado | 19957.007396/2017-00 | 2019-08-27 | provido | cvm-col-20190827-d1052 | fichas/colegiado/2019-13.md |
+| decisao-colegiado | 795/2018; 19957.006941/2017-32 | 2018-09-25 | deferido | cvm-col-20180925-d1086 | fichas/colegiado/2018-17.md |
+| decisao-colegiado | 19957.009423/2017-71 | 2017-10-10 | nao-provido | cvm-col-20171010-d0823 | fichas/colegiado/2017-17.md |
+| decisao-colegiado | 19957.009618/2016-30 | 2017-06-26 | nao-provido | cvm-col-20170626-d0603 | fichas/colegiado/2017-12.md |
+| decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 472/2008; RJ2013/13348 | 2015-09-08 | indeferido | cvm-col-20150908-d9820 | fichas/colegiado/2015-16.md |
+| decisao-colegiado | RJ2007/2339 | 2010-03-02 | nao-provido | cvm-col-20100302-d23 | fichas/colegiado/2010-07.md |
+| decisao-colegiado | — | 2004-07-13 | outro | cvm-col-20040713-d05 | fichas/colegiado/2004-08.md |
+| decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 Fim do subíndice.

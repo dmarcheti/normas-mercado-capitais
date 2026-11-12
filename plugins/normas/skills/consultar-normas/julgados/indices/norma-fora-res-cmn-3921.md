@@ -3,79 +3,79 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | RJ2012/0897 | 2012-02-16 | deferido | deveres-administradores | O Colegiado autorizou o Banco do Brasil S.A., nos termos do art. 23 da Instrução CVM 10/80, a negociar de forma privada ações em tesouraria com administradores, para pagamento de bônus dentro da remuneração aprovada em AGO de 27.04.11 e a preço de mercado, acompanhando a relatora e a SEP, favorável ao pedido. | ../../../../../julgados/cvm/colegiado/2012/col-20120216-d08.md |
-| art. 6º | decisao-colegiado | RJ2011/14462 | 2012-03-06 | deferido | outros | O Colegiado autorizou o Banco Santander (Brasil) S.A. a transferir de forma privada units de sua emissão a administradores e empregados, próprios e de suas controladas, no âmbito de planos de incentivo de longo prazo ou como participação nos lucros, nos termos do art. 23 da Instrução CVM 10/80, acompanhando o voto do relator. A SEP manifestou-se favoravelmente. | ../../../../../julgados/cvm/colegiado/2012/col-20120306-d22.md |
-| art. 6º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | outros | O Colegiado autorizou, nos termos do art. 23 da Instrução CVM 10/80, a negociação privada de ações de emissão do Banco do Brasil S.A. mantidas em tesouraria, para pagamento de remuneração variável de administradores da subsidiária. A relatora acompanhou a SEP: caso especial e circunstanciado, ações a preço de mercado e limite de remuneração fixado em AGO. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d03.md |
-| art. 6º | decisao-colegiado | RJ2013/12679 | 2014-02-25 | deferido | outros | O Colegiado, por unanimidade, acompanhando a SEP, autorizou a negociação privada de ações mantidas em tesouraria pelo Banco do Brasil para pagamento da remuneração variável de administradores do BB e da BB DTVM referente a abr/2013 a mar/2014 (art. 23 da Instrução CVM 10/80). | ../../../../../julgados/cvm/colegiado/2014/col-20140225-d04.md |
-| art. 6º | decisao-colegiado | RJ2014/10167 | 2014-10-07 | deferido | outros | O Colegiado deferiu, por unanimidade e acompanhando a SEP, pedido de autorização permanente para o Banco do Brasil negociar de forma privada ações em tesouraria, para pagar parte da remuneração variável de seus administradores e dos da BB DTVM (ICVM 10/1980, art. 23). A SEP apontou remuneração aprovada em assembleia (Lei 6.404/1976, art. 152) e preço pela média semanal. | ../../../../../julgados/cvm/colegiado/2014/col-20141007-d04.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2011/2942 | 2011-09-06 | deferido | assembleia-acionistas | O Colegiado autorizou o Itaú Unibanco Holding S.A. a transferir de forma privada ações mantidas em tesouraria a executivos da companhia e de suas controladas, para o plano de outorga de opções aprovado em assembleia, sem nova autorização para cada operação. Acompanhou o voto do relator, que seguiu a SEP, favorável ao pedido. | ../../../../../julgados/cvm/colegiado/2011/col-20110906-d11.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2012/0897 | 2012-02-16 | deferido | deveres-administradores | O Colegiado autorizou o Banco do Brasil S.A., nos termos do art. 23 da Instrução CVM 10/80, a negociar de forma privada ações em tesouraria com administradores, para pagamento de bônus dentro da remuneração aprovada em AGO de 27.04.11 e a preço de mercado, acompanhando a relatora e a SEP, favorável ao pedido. | ../../../../../julgados/cvm/colegiado/2012/col-20120216-d08.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | outros | O Colegiado autorizou, nos termos do art. 23 da Instrução CVM 10/80, a negociação privada de ações de emissão do Banco do Brasil S.A. mantidas em tesouraria, para pagamento de remuneração variável de administradores da subsidiária. A relatora acompanhou a SEP: caso especial e circunstanciado, ações a preço de mercado e limite de remuneração fixado em AGO. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d03.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2012/6259 | 2012-10-23 | parcial | outros | O Colegiado autorizou o Banco do Brasil a negociar em caráter privado ações em tesouraria para remuneração de administradores do BB e da BB DTVM referente a abr/2012–mar/2013, e indeferiu autorização permanente para remuneração variável (Resolução CMN 3.921/10), por ainda não haver experiência suficiente (precedente RJ2012/6159). | ../../../../../julgados/cvm/colegiado/2012/col-20121023-d19.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2013/1890 | 2013-08-13 | deferido | outros | O Colegiado autorizou o Banco Pine S.A. a negociar de forma privada ações de sua emissão, mantidas em tesouraria ou recompradas, para remuneração variável de administradores, nos termos do art. 23 da Instrução CVM 10/80, acompanhando o voto da relatora. Decidiu, por unanimidade, que a autorização não se estende a programas futuros com base na Resolução CMN 3.921/10. | ../../../../../julgados/cvm/colegiado/2013/col-20130813-d03.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2013/8708 | 2013-10-29 | deferido | outros | O Colegiado deferiu pedido do Banco Industrial e Comercial S.A. de autorização para negociação privada de ações de própria emissão, nos termos do art. 23 da Instrução CVM 10/80, para pagar remuneração variável dos administradores referente a 2012. Acompanhou o voto da relatora, que viu caso especial e circunstanciado (Resolução CMN 3.921/10). | ../../../../../julgados/cvm/colegiado/2013/col-20131029-d02.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2014/3000 | 2014-06-10 | deferido | outros | O Colegiado deferiu ao Banco Pine S.A. autorização para negociação privada de ações de sua emissão com administradores, em pagamento de remuneração variável (Resolução CMN 3.921/2010), acompanhando a área técnica. Fundamentos da área técnica: preço de mercado e remuneração global aprovada em assembleia (art. 152 da Lei 6.404/1976). | ../../../../../julgados/cvm/colegiado/2014/col-20140610-d06.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2014/10167 | 2014-10-07 | deferido | outros | O Colegiado deferiu, por unanimidade e acompanhando a SEP, pedido de autorização permanente para o Banco do Brasil negociar de forma privada ações em tesouraria, para pagar parte da remuneração variável de seus administradores e dos da BB DTVM (ICVM 10/1980, art. 23). A SEP apontou remuneração aprovada em assembleia (Lei 6.404/1976, art. 152) e preço pela média semanal. | ../../../../../julgados/cvm/colegiado/2014/col-20141007-d04.md |
-| art. 6º, § 1º | decisao-colegiado | RJ2014/10601 | 2014-10-21 | deferido | outros | O Colegiado deferiu, por unanimidade e acompanhando a área técnica (RA/SEP/GEA-1/Nº 161/2014), o pedido da BB Seguridade para alienar em negociação privada ações mantidas em tesouraria, destinadas ao pagamento de parte da remuneração variável de administradores (art. 23 da Instrução CVM 10/1980). | ../../../../../julgados/cvm/colegiado/2014/col-20141021-d08.md |
-| art. 6º, § 3º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | outros | O Colegiado autorizou, nos termos do art. 23 da Instrução CVM 10/80, a negociação privada de ações de emissão do Banco do Brasil S.A. mantidas em tesouraria, para pagamento de remuneração variável de administradores da subsidiária. A relatora acompanhou a SEP: caso especial e circunstanciado, ações a preço de mercado e limite de remuneração fixado em AGO. | ../../../../../julgados/cvm/colegiado/2012/col-20121002-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | RJ2012/0897 | 2012-02-16 | deferido | cvm-col-20120216-d08 | fichas/colegiado/2012-03.md |
+| art. 6º | decisao-colegiado | RJ2011/14462 | 2012-03-06 | deferido | cvm-col-20120306-d22 | fichas/colegiado/2012-05.md |
+| art. 6º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | cvm-col-20121002-d03 | fichas/colegiado/2012-17.md |
+| art. 6º | decisao-colegiado | RJ2013/12679 | 2014-02-25 | deferido | cvm-col-20140225-d04 | fichas/colegiado/2014-03.md |
+| art. 6º | decisao-colegiado | RJ2014/10167 | 2014-10-07 | deferido | cvm-col-20141007-d04 | fichas/colegiado/2014-19.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2011/2942 | 2011-09-06 | deferido | cvm-col-20110906-d11 | fichas/colegiado/2011-17.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2012/0897 | 2012-02-16 | deferido | cvm-col-20120216-d08 | fichas/colegiado/2012-03.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | cvm-col-20121002-d03 | fichas/colegiado/2012-17.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2012/6259 | 2012-10-23 | parcial | cvm-col-20121023-d19 | fichas/colegiado/2012-19.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2013/1890 | 2013-08-13 | deferido | cvm-col-20130813-d03 | fichas/colegiado/2013-15.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2013/8708 | 2013-10-29 | deferido | cvm-col-20131029-d02 | fichas/colegiado/2013-20.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2014/3000 | 2014-06-10 | deferido | cvm-col-20140610-d06 | fichas/colegiado/2014-11.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2014/10167 | 2014-10-07 | deferido | cvm-col-20141007-d04 | fichas/colegiado/2014-19.md |
+| art. 6º, § 1º | decisao-colegiado | RJ2014/10601 | 2014-10-21 | deferido | cvm-col-20141021-d08 | fichas/colegiado/2014-20.md |
+| art. 6º, § 3º | decisao-colegiado | RJ2012/9882 | 2012-10-02 | deferido | cvm-col-20121002-d03 | fichas/colegiado/2012-17.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | decisao-colegiado | RJ2013/0367 | 2013-04-02 | deferido | ofertas-publicas | O Colegiado autorizou o Banco do Brasil a negociar ações de sua emissão durante a reorganização societária e a oferta pública da BB Seguridade, somente para pagar o Bônus 2011 aos administradores da BB DTVM, acompanhando o voto do relator. O relator entendeu que as negociações não interferiam nas condições da reorganização. | ../../../../../julgados/cvm/colegiado/2013/col-20130402-d01.md |
-| art. 7º | decisao-colegiado | RJ2013/1239 | 2013-04-02 | deferido | ofertas-publicas | O Colegiado autorizou, por unanimidade, o Banco do Brasil a negociar ações de sua emissão durante a reorganização societária e a oferta pública da BB Seguridade, exclusivamente para pagar remuneração variável de administradores e da BB DTVM referente a abr/2012 a mar/2013, acompanhando o voto do relator, que concordou com SEP e SRE. | ../../../../../julgados/cvm/colegiado/2013/col-20130402-d02.md |
-| art. 7º, § 1º | decisao-colegiado | RJ2012/6259 | 2012-10-23 | parcial | outros | O Colegiado autorizou o Banco do Brasil a negociar em caráter privado ações em tesouraria para remuneração de administradores do BB e da BB DTVM referente a abr/2012–mar/2013, e indeferiu autorização permanente para remuneração variável (Resolução CMN 3.921/10), por ainda não haver experiência suficiente (precedente RJ2012/6159). | ../../../../../julgados/cvm/colegiado/2012/col-20121023-d19.md |
-| art. 7º, § 1º | decisao-colegiado | RJ2012/12484 | 2013-02-05 | deferido | outros | O Colegiado, por unanimidade, autorizou o Banco Santander (Brasil) S.A. a adquirir opções de compra sobre Units de própria emissão com prazo de quatro anos, acima dos 365 dias da Instrução CVM 390/03, para cumprir Planos de Incentivo, condicionada à prévia aprovação da assembleia geral. Fundamento no voto da relatora: hedge permitido, desde que não ocorra privadamente (art. 3º, II). | ../../../../../julgados/cvm/colegiado/2013/col-20130205-d15.md |
-| art. 7º, § 2º | decisao-colegiado | RJ2012/12484 | 2013-02-05 | deferido | outros | O Colegiado, por unanimidade, autorizou o Banco Santander (Brasil) S.A. a adquirir opções de compra sobre Units de própria emissão com prazo de quatro anos, acima dos 365 dias da Instrução CVM 390/03, para cumprir Planos de Incentivo, condicionada à prévia aprovação da assembleia geral. Fundamento no voto da relatora: hedge permitido, desde que não ocorra privadamente (art. 3º, II). | ../../../../../julgados/cvm/colegiado/2013/col-20130205-d15.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | decisao-colegiado | RJ2013/0367 | 2013-04-02 | deferido | cvm-col-20130402-d01 | fichas/colegiado/2013-08.md |
+| art. 7º | decisao-colegiado | RJ2013/1239 | 2013-04-02 | deferido | cvm-col-20130402-d02 | fichas/colegiado/2013-08.md |
+| art. 7º, § 1º | decisao-colegiado | RJ2012/6259 | 2012-10-23 | parcial | cvm-col-20121023-d19 | fichas/colegiado/2012-19.md |
+| art. 7º, § 1º | decisao-colegiado | RJ2012/12484 | 2013-02-05 | deferido | cvm-col-20130205-d15 | fichas/colegiado/2013-04.md |
+| art. 7º, § 2º | decisao-colegiado | RJ2012/12484 | 2013-02-05 | deferido | cvm-col-20130205-d15 | fichas/colegiado/2013-04.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11 | decisao-colegiado | RJ2012/6159 | 2012-07-17 | deferido | outros | O Colegiado autorizou o Banco Pine S.A. a negociar privadamente ações de sua emissão mantidas em tesouraria ou recompradas, para remuneração de administradores, nos termos do art. 23 da Instrução CVM 10/80. Segundo o voto, que acompanhou a SEP, trata-se de caso especial e circunstanciado, sem afronta ao art. 152 da Lei 6.404/76. | ../../../../../julgados/cvm/colegiado/2012/col-20120717-d04.md |
-| art. 11 | decisao-colegiado | RJ2013/1890 | 2013-08-13 | deferido | outros | O Colegiado autorizou o Banco Pine S.A. a negociar de forma privada ações de sua emissão, mantidas em tesouraria ou recompradas, para remuneração variável de administradores, nos termos do art. 23 da Instrução CVM 10/80, acompanhando o voto da relatora. Decidiu, por unanimidade, que a autorização não se estende a programas futuros com base na Resolução CMN 3.921/10. | ../../../../../julgados/cvm/colegiado/2013/col-20130813-d03.md |
-| art. 11 | decisao-colegiado | RJ2014/3000 | 2014-06-10 | deferido | outros | O Colegiado deferiu ao Banco Pine S.A. autorização para negociação privada de ações de sua emissão com administradores, em pagamento de remuneração variável (Resolução CMN 3.921/2010), acompanhando a área técnica. Fundamentos da área técnica: preço de mercado e remuneração global aprovada em assembleia (art. 152 da Lei 6.404/1976). | ../../../../../julgados/cvm/colegiado/2014/col-20140610-d06.md |
-| art. 11 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | informacao-privilegiada | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM 358/2002 ao membro não administrador do Comitê de Remuneração, órgão estatutário com função técnica ou consultiva (Lei 6.404, art. 160). Acompanhou o voto do diretor relator. | ../../../../../julgados/cvm/colegiado/2016/col-20161213-d0378.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11 | decisao-colegiado | RJ2012/6159 | 2012-07-17 | deferido | cvm-col-20120717-d04 | fichas/colegiado/2012-12.md |
+| art. 11 | decisao-colegiado | RJ2013/1890 | 2013-08-13 | deferido | cvm-col-20130813-d03 | fichas/colegiado/2013-15.md |
+| art. 11 | decisao-colegiado | RJ2014/3000 | 2014-06-10 | deferido | cvm-col-20140610-d06 | fichas/colegiado/2014-11.md |
+| art. 11 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | informacao-privilegiada | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM 358/2002 ao membro não administrador do Comitê de Remuneração, órgão estatutário com função técnica ou consultiva (Lei 6.404, art. 160). Acompanhou o voto do diretor relator. | ../../../../../julgados/cvm/colegiado/2016/col-20161213-d0378.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
 
 ## art. 13
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 13, inciso III | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | informacao-privilegiada | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM 358/2002 ao membro não administrador do Comitê de Remuneração, órgão estatutário com função técnica ou consultiva (Lei 6.404, art. 160). Acompanhou o voto do diretor relator. | ../../../../../julgados/cvm/colegiado/2016/col-20161213-d0378.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 13, inciso III | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
 
 ## art. 14
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | informacao-privilegiada | O Colegiado negou provimento, por unanimidade, a recurso contra entendimento da SEP em consulta, mantendo a aplicação da Instrução CVM 358/2002 ao membro não administrador do Comitê de Remuneração, órgão estatutário com função técnica ou consultiva (Lei 6.404, art. 160). Acompanhou o voto do diretor relator. | ../../../../../julgados/cvm/colegiado/2016/col-20161213-d0378.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14 | decisao-colegiado | 358/2002; 19957.006290/2016-08 | 2016-12-13 | nao-provido | cvm-col-20161213-d0378 | fichas/colegiado/2016-24.md |
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19, § 5º | decisao-colegiado | RJ2012/5826 | 2012-07-03 | deferido | outros | O Colegiado, acompanhando o voto do relator, autorizou o Banco ABC Brasil S.A. a negociar de forma privada ações de sua emissão mantidas em tesouraria para remuneração variável de administradores, a preços de mercado. Caso especial e circunstanciado (art. 23 da Instrução CVM 10/80), com precedentes de Santander e Banco do Brasil. | ../../../../../julgados/cvm/colegiado/2012/col-20120703-d13.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19, § 5º | decisao-colegiado | RJ2012/5826 | 2012-07-03 | deferido | cvm-col-20120703-d13 | fichas/colegiado/2012-11.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | RJ2014/4042 | 2014-06-10 | deferido | outros | O Colegiado concedeu ao Banco Industrial e Comercial S.A. autorização para negociação privada de ações preferenciais em tesouraria, destinadas à remuneração variável de administradores referente a 2012 e 2013 (art. 23, ICVM 10/1980), acompanhando por unanimidade a área técnica (RA/SEP/GEA-1 nº 079/2014). | ../../../../../julgados/cvm/colegiado/2014/col-20140610-d07.md |
-| decisao-colegiado | RJ2013/4075 | 2014-05-06 | indeferido | assembleia-acionistas | O Colegiado, acompanhando a SEP, indeferiu pedido da TOV Corretora para interromper o prazo de antecedência da AGE da BM&FBOVESPA de 13.05.2014, sobre plano de concessão de ações. Segundo a SEP, a autorização do art. 23 da ICVM 10/80 só será exigida na implementação do plano, e não cabe discutir sua legalidade no âmbito cautelar. | ../../../../../julgados/cvm/colegiado/2014/col-20140506-d11.md |
-| decisao-colegiado | RJ2013/12170 | 2014-01-21 | deferido | outros | O Colegiado autorizou a BB Seguridade Participações S.A. a negociar de forma privada ações mantidas em tesouraria para pagamento da remuneração variável de seus administradores (art. 23 da Instrução CVM 10/80), acompanhando a área técnica. A autorização não se estende aos demais pagamentos de remuneração a diretores estatutários. | ../../../../../julgados/cvm/colegiado/2014/col-20140121-d10.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | RJ2014/4042 | 2014-06-10 | deferido | cvm-col-20140610-d07 | fichas/colegiado/2014-11.md |
+| decisao-colegiado | RJ2013/4075 | 2014-05-06 | indeferido | cvm-col-20140506-d11 | fichas/colegiado/2014-08.md |
+| decisao-colegiado | RJ2013/12170 | 2014-01-21 | deferido | cvm-col-20140121-d10 | fichas/colegiado/2014-02.md |
 
 Fim do subíndice.

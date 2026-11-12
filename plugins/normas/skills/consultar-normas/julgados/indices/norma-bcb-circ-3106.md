@@ -3,14 +3,14 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [bcb/circulares/3106.md](../../normas/bcb/circulares/3106.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | RJ2018/4585 | 2019-11-26 | absolvicao | assembleia-acionistas | Participação em separado, por parte do Banco BTG Pactual S.A, da eleição para membro do conselho fiscal da Gerdau S.A. Infração do art. 161, §4º, “a” da lei nº 6.404/76. Absolvição. Data decisão CVM Tue Nov 26 15:14:00 BRST 2019 | ../../../../../julgados/cvm/pas/2019/rj2018-4585.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | RJ2018/4585 | 2019-11-26 | absolvicao | cvm-pas-rj2018-4585 | fichas/pas/2019-11.md |
 
 Fim do subíndice.

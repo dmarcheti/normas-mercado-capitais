@@ -728,6 +728,8 @@ class TestCriterio(Base):
         self.assertIn(NORMAS, validar)
         self.assertIn("julgados", validar)  # o texto dos julgados, na raiz do repositório
         self.assertTrue(any(c[0] == "indice.py" and "--verificar" in c[1] for c in self.sim.chamadas))
+        self.assertTrue(any(c[0] == "fichas.py" and "--verificar" in c[1] for c in self.sim.chamadas))
+        self.assertIn("validar_plugin.py", nomes)
         env = next(c for c in self.sim.chamadas if c[0] == "unittest")
         self.assertTrue(env)
 
@@ -826,11 +828,35 @@ class TestCorrecao1(Base):
         gravar(self.raiz, "fontes/y.json", "{quebrado")
         self.assertEqual(at.varrer(a, ["fontes/y.json"]), ["fontes/y.json: JSON ilegível"])
 
+    def test_fichas_sao_regeradas_antes_dos_indices(self):
+        self.rodar([b1()])
+        nomes = [(c[0], "--verificar" in c[1]) for c in self.sim.chamadas]
+        self.assertIn(("fichas.py", False), nomes)
+        self.assertIn(("indice.py", False), nomes)
+        self.assertLess(nomes.index(("fichas.py", False)), nomes.index(("indice.py", False)))
+        # o gate vem depois da geração
+        self.assertLess(nomes.index(("indice.py", False)), nomes.index(("fichas.py", True)))
+
+    def test_gate_vermelho_com_ficha_desatualizada_ou_plugin_fora_do_limite(self):
+        self.sim.rc["fichas.py"] = 1
+        falhas = at.rodar_gate(self.amb())
+        self.assertTrue(any(f.startswith("fichas --verificar") for f in falhas), falhas)
+        self.sim.rc = {"validar_plugin.py": 1}
+        falhas = at.rodar_gate(self.amb())
+        self.assertTrue(any(f.startswith("validar_plugin") for f in falhas), falhas)
+
+    def test_falha_do_fichas_na_geracao_entra_no_gate(self):
+        self.sim.rc["fichas.py"] = 1
+        crit, _ = self.rodar([b1()])
+        self.assertFalse(crit["conjunto"]["pr_automatico"])
+
     def test_julgado_e_o_texto_na_raiz_e_indice_e_o_da_skill(self):
         self.assertTrue(at.e_julgado("julgados/cvm/pas/2025/x.md"))
         self.assertFalse(at.e_julgado("plugins/normas/skills/consultar-normas/julgados/indice.md"))
         self.assertTrue(at.e_indice("plugins/normas/skills/consultar-normas/julgados/indice.md"))
         self.assertTrue(at.e_indice("plugins/normas/skills/consultar-normas/julgados/indices/pas-2025.md"))
+        self.assertTrue(at.e_indice("plugins/normas/skills/consultar-normas/julgados/fichas/pas/2025.md"))
+        self.assertFalse(at.e_julgado("plugins/normas/skills/consultar-normas/julgados/fichas/pas/2025.md"))
         self.assertFalse(at.e_julgado("plugins/normas/skills/consultar-normas/normas/cvm/resolucoes/0088.md"))
         self.assertFalse(at.e_julgado("plugins/julgados-pas/julgados/cvm/pas/2025/x.md"))  # estrutura antiga
 

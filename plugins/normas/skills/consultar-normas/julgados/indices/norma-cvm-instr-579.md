@@ -3,142 +3,142 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/instrucoes/0579.md](../../normas/cvm/instrucoes/0579.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 2º | pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | auditoria-independente | Apuração da conduta de auditores independentes nos trabalhos envolvendo as demonstrações financeiras do FIP Bioenergia. Infração ao art. 29, caput e parágrafo único, da Instrução CVM nº 391/03. Infração ao art. 20 da Instrução CVM nº 308/99. Absolvições. | ../../../../../julgados/cvm/pas/2019/19957-002404-2017-13.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 2º | pas | 19957.002404/2017-13; RJ2017/1238 | 2019-11-26 | absolvicao | cvm-pas-19957-002404-2017-13 | fichas/pas/2019-11.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | fundos-investimento | O Colegiado concedeu dispensa para que comitê consultivo independente analise operações de aquisição de ativos em conflito de interesse de FIP-IE, em vez de assembleia de cotistas (art. 29, §2º, ICVM 578/16). Por maioria, condicionou a dispensa a aprimoramentos na estrutura proposta, nos termos do voto do Presidente. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1913.md |
-| art. 3º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 3º | termo-compromisso | 19957.003695/2021-43 | 2023-05-30 | rejeitado | fundos-investimento | O Colegiado, acompanhando o parecer do Comitê, rejeitou três propostas de termo de compromisso: R$ 100.000,00 da Intrader DTVM e R$ 20.000,00 de cada um de dois diretores. Fundamento: óbice da PFE/CVM por cessação não comprovada, inadimplência anterior da Intrader em outro TC e pouca economia processual (3 de 10 investigados propuseram ajuste). | ../../../../../julgados/cvm/colegiado/2023/col-20230530-d2870.md |
-| art. 3º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | auditoria-independente | Apurar indícios de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações financeiras do FIP ETB, da Xnice e da Xmasseto. Multas e extinção de punibilidade. | ../../../../../julgados/cvm/pas/2024/19957-004715-2020-12.md |
-| art. 3º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | manipulacao-fraude | Apurar supostas irregularidades de operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra de dever de diligência no projeto de construção do hotel LSH Barra. Multas, absolvições. | ../../../../../julgados/cvm/pas/2024/19957-007626-2019-94.md |
-| art. 3º | pas | 19957.000690/2024-10 | 2025-12-09 | outro | auditoria-independente | Apuração de responsabilidades por suposta inobservância das normas contábeis e de auditoria independente referentes à mensuração de valor justo em demonstrações financeiras de fundos de investimento em participações. Inépcia da acusação. | ../../../../../julgados/cvm/pas/2025/19957-000690-2024-10.md |
-| art. 3º | pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | auditoria-independente | Apurar supostas irregularidades no contexto de auditoria independente das demonstrações financeiras do Vinci Infra Transmissão Fundo de Investimento em Participações em Infraestrutura relativas à data-base de 28/02/2020. Absolvições. | ../../../../../julgados/cvm/pas/2025/19957-001627-2022-21.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | cvm-col-20200929-d1913 | fichas/colegiado/2020-16.md |
+| art. 3º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 3º | termo-compromisso | 19957.003695/2021-43 | 2023-05-30 | rejeitado | cvm-col-20230530-d2870 | fichas/tc/2023-04.md |
+| art. 3º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
+| art. 3º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| art. 3º | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-05.md |
+| art. 3º | pas | 19957.001627/2022-21 | 2025-03-25 | absolvicao | cvm-pas-19957-001627-2022-21 | fichas/pas/2025-01.md |
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 4º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
-| art. 4º | decisao-colegiado | 19957.006283/2017-89 | 2018-06-05 | nao-provido | ofertas-publicas | O Colegiado, por unanimidade, negou provimento ao recurso da administradora e da líder contra o indeferimento, pela SRE, do registro de oferta pública de cotas da 2ª emissão do Educação BR FIP, acompanhando a área técnica. Fundamento: registro de funcionamento do fundo irregular na SIN, com exigências pendentes, e documentação da oferta a ser atualizada. | ../../../../../julgados/cvm/colegiado/2018/col-20180605-d0752.md |
-| art. 4º | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de investimento em participações, acompanhando o parecer do Comitê. Este entendeu inconveniente a celebração, dada a gravidade, em tese, do caso e o reduzido grau de economia processual. | ../../../../../julgados/cvm/colegiado/2021/col-20211109-d2182.md |
-| art. 4º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 4º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização pleiteada, nos termos do art. 11, V, da RCVM 135/2022, para investir em cotas do FIP L4 Venture Builder em até R$ 600.000.000,00. A SMI considerou os riscos residuais baixos e os mitigadores adequados. Um diretor registrou que a regra deveria ser eliminada. | ../../../../../julgados/cvm/colegiado/2023/col-20230307-d2810.md |
-| art. 4º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 4º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | manipulacao-fraude | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I c/c item II, “c”, da Instrução CVM nº 8/1979, pela prática de operação fraudulenta; no art. 11, I, da Instrução CVM nº 476/2009, por descumprimento do dever de diligência; no art. 90, X, da Instrução CVM nº 555/2014, por descumprimento do dever de fiscalização; no art. 10, II, da Instrução CVM nº 521/2012, pela emissão de relatório de rating que induz usuários a erro; e no art. 11, I, II, V e VII, da Instrução CVM nº 583/2016, por descumprimento de deveres por agente fiduciário dos debenturistas. Multas, proibição temporária, extinção da punibilidade e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-008143-2018-26.md |
-| art. 4º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | manipulacao-fraude | Apurar supostas irregularidades de operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra de dever de diligência no projeto de construção do hotel LSH Barra. Multas, absolvições. | ../../../../../julgados/cvm/pas/2024/19957-007626-2019-94.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | fundos-investimento | O Colegiado concedeu dispensa para que comitê consultivo independente analise operações de aquisição de ativos em conflito de interesse de FIP-IE, em vez de assembleia de cotistas (art. 29, §2º, ICVM 578/16). Por maioria, condicionou a dispensa a aprimoramentos na estrutura proposta, nos termos do voto do Presidente. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1913.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.006771/2020-91 | 2023-07-04 | conhecimento | fundos-investimento | O Colegiado, por unanimidade, não conheceu de recurso contra decisão da SSE em reclamação sobre FIP, que apontava vício em assembleia, negligência de administradora e gestora e conflito de interesses, acompanhando a área técnica. Fundamento: decisão fundamentada e sem entendimento dissonante do prevalecente no Colegiado (art. 4º, §4º, da RCVM 45). | ../../../../../julgados/cvm/colegiado/2023/col-20230704-d2890.md |
-| art. 4º, inciso I | decisao-colegiado | 19957.006771/2020-91 | 2023-12-19 | conhecimento | processual | O Colegiado, por unanimidade, não conheceu de pedido de reconsideração em reclamação sobre a administração e a gestão do Titânio XV (FIP), acompanhando a SSE: ausentes os requisitos do art. 10 da RCVM 46/2021, sem elementos novos nem erro, omissão ou obscuridade. | ../../../../../julgados/cvm/colegiado/2023/col-20231219-d2890.md |
-| art. 4º, inciso I | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 4º, inciso II | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 4º, inciso III | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de investimento em participações, acompanhando o parecer do Comitê. Este entendeu inconveniente a celebração, dada a gravidade, em tese, do caso e o reduzido grau de economia processual. | ../../../../../julgados/cvm/colegiado/2021/col-20211109-d2182.md |
-| art. 4º, inciso III | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 4º, inciso IV | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 4º, inciso IV | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 4º, parágrafo único | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 4º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| art. 4º | decisao-colegiado | 19957.006283/2017-89 | 2018-06-05 | nao-provido | cvm-col-20180605-d0752 | fichas/colegiado/2018-10.md |
+| art. 4º | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
+| art. 4º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 4º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
+| art. 4º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 4º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 4º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.005558/2020-62 | 2020-09-29 | deferido | cvm-col-20200929-d1913 | fichas/colegiado/2020-16.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.006771/2020-91 | 2023-07-04 | conhecimento | cvm-col-20230704-d2890 | fichas/colegiado/2023-07.md |
+| art. 4º, inciso I | decisao-colegiado | 19957.006771/2020-91 | 2023-12-19 | conhecimento | cvm-col-20231219-d2890 | fichas/colegiado/2023-14.md |
+| art. 4º, inciso I | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 4º, inciso II | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 4º, inciso III | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
+| art. 4º, inciso III | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 4º, inciso IV | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 4º, inciso IV | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 4º, parágrafo único | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 5º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
-| art. 5º | decisao-colegiado | 19957.006283/2017-89 | 2018-06-05 | nao-provido | ofertas-publicas | O Colegiado, por unanimidade, negou provimento ao recurso da administradora e da líder contra o indeferimento, pela SRE, do registro de oferta pública de cotas da 2ª emissão do Educação BR FIP, acompanhando a área técnica. Fundamento: registro de funcionamento do fundo irregular na SIN, com exigências pendentes, e documentação da oferta a ser atualizada. | ../../../../../julgados/cvm/colegiado/2018/col-20180605-d0752.md |
-| art. 5º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 5º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | infraestrutura-mercado | O Colegiado, por unanimidade, acompanhando a SMI, concedeu à B3 a autorização pleiteada, nos termos do art. 11, V, da RCVM 135/2022, para investir em cotas do FIP L4 Venture Builder em até R$ 600.000.000,00. A SMI considerou os riscos residuais baixos e os mitigadores adequados. Um diretor registrou que a regra deveria ser eliminada. | ../../../../../julgados/cvm/colegiado/2023/col-20230307-d2810.md |
-| art. 5º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 5º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | manipulacao-fraude | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I c/c item II, “c”, da Instrução CVM nº 8/1979, pela prática de operação fraudulenta; no art. 11, I, da Instrução CVM nº 476/2009, por descumprimento do dever de diligência; no art. 90, X, da Instrução CVM nº 555/2014, por descumprimento do dever de fiscalização; no art. 10, II, da Instrução CVM nº 521/2012, pela emissão de relatório de rating que induz usuários a erro; e no art. 11, I, II, V e VII, da Instrução CVM nº 583/2016, por descumprimento de deveres por agente fiduciário dos debenturistas. Multas, proibição temporária, extinção da punibilidade e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-008143-2018-26.md |
-| art. 5º, inciso III | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 5º, inciso III | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 5º, inciso IV | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 5º, parágrafo único | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 5º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| art. 5º | decisao-colegiado | 19957.006283/2017-89 | 2018-06-05 | nao-provido | cvm-col-20180605-d0752 | fichas/colegiado/2018-10.md |
+| art. 5º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 5º | decisao-colegiado | 19957.012745/2022-64 | 2023-03-07 | deferido | cvm-col-20230307-d2810 | fichas/colegiado/2023-03.md |
+| art. 5º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 5º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 5º, inciso III | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 5º, inciso III | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 5º, inciso IV | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 5º, parágrafo único | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 6º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 6º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 
 ## art. 7º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 7º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 7º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso contra exigências da SIN no registro de oferta de cotas de FIP. Fundamento: o fundo não se qualifica como entidade de investimento (Instrução CVM 579/16, arts. 4º e 5º), devendo as demonstrações seguir o art. 8º. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0895.md |
-| art. 8º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
-| art. 8º | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que reafirmou exigências à administradora: reclassificação do fundo como Não-EI e adoção do MEP desde 01.03.2017 (ICVM 579/16), sem modulação de efeitos. Acompanhou a área técnica, que também indeferiu o ajuste do preço de integralização das cotas de 2017. | ../../../../../julgados/cvm/colegiado/2020/col-20200804-d1866.md |
-| art. 8º | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | manipulacao-fraude | O Colegiado rejeitou, por unanimidade, as propostas de termo de compromisso no PAS por operação fraudulenta envolvendo fundo de investimento em participações, acompanhando o parecer do Comitê. Este entendeu inconveniente a celebração, dada a gravidade, em tese, do caso e o reduzido grau de economia processual. | ../../../../../julgados/cvm/colegiado/2021/col-20211109-d2182.md |
-| art. 8º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | contabil-demonstracoes | O Colegiado negou provimento a recurso contra decisão da SIN que determinou refazimento de demonstrações de FIP, mantendo a não qualificação do fundo como entidade de investimento (ICVM 579). Acolheu a proposta de refazimento da SSE, atualizada em razão da passagem do período. | ../../../../../julgados/cvm/colegiado/2022/col-20220920-d2547.md |
-| art. 8º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 8º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | manipulacao-fraude | Apuração de irregularidades relacionadas às debêntures de emissão da EBPH Participações S.A., em alegadas infrações ao disposto no item I c/c item II, “c”, da Instrução CVM nº 8/1979, pela prática de operação fraudulenta; no art. 11, I, da Instrução CVM nº 476/2009, por descumprimento do dever de diligência; no art. 90, X, da Instrução CVM nº 555/2014, por descumprimento do dever de fiscalização; no art. 10, II, da Instrução CVM nº 521/2012, pela emissão de relatório de rating que induz usuários a erro; e no art. 11, I, II, V e VII, da Instrução CVM nº 583/2016, por descumprimento de deveres por agente fiduciário dos debenturistas. Multas, proibição temporária, extinção da punibilidade e absolvição. | ../../../../../julgados/cvm/pas/2023/19957-008143-2018-26.md |
-| art. 8º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | auditoria-independente | Apurar indícios de irregularidades e de infração às normas da CVM nos trabalhos de auditoria independente realizados sobre as demonstrações financeiras do FIP ETB, da Xnice e da Xmasseto. Multas e extinção de punibilidade. | ../../../../../julgados/cvm/pas/2024/19957-004715-2020-12.md |
-| art. 8º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | manipulacao-fraude | Apurar supostas irregularidades de operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra de dever de diligência no projeto de construção do hotel LSH Barra. Multas, absolvições. | ../../../../../julgados/cvm/pas/2024/19957-007626-2019-94.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | 19957.006804/2017-06 | 2018-01-16 | nao-provido | cvm-col-20180116-d0895 | fichas/colegiado/2018-01.md |
+| art. 8º | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| art. 8º | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | cvm-col-20200804-d1866 | fichas/colegiado/2020-12.md |
+| art. 8º | termo-compromisso | 19957.007626/2019-94 | 2021-11-09 | rejeitado | cvm-col-20211109-d2182 | fichas/tc/2021-07.md |
+| art. 8º | decisao-colegiado | 19957.008241/2020-88 | 2022-09-20 | parcial | cvm-col-20220920-d2547 | fichas/colegiado/2022-13.md |
+| art. 8º | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 8º | pas | 19957.008143/2018-26 | 2023-12-20 | parcial | cvm-pas-19957-008143-2018-26 | fichas/pas/2023-09.md |
+| art. 8º | pas | 19957.004715/2020-12 | 2024-03-26 | condenacao | cvm-pas-19957-004715-2020-12 | fichas/pas/2024-02.md |
+| art. 8º | pas | 19957.007626/2019-94 | 2024-12-03 | parcial | cvm-pas-19957-007626-2019-94 | fichas/pas/2024-10.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
 
 ## art. 18
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 18, inciso I | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | auditoria-independente | O Colegiado, por unanimidade, acompanhando o parecer do Comitê, aceitou a proposta conjunta de termo de compromisso de R$ 533.120,00, em parcela única, da sociedade de auditoria e de seu responsável técnico, em PAS por inobservância de normas de auditoria sobre demonstrações de fundo de investimento em participações (2018 a 2020) (ICVM 308, arts. 20 e 25, I, 'a'). | ../../../../../julgados/cvm/colegiado/2024/col-20240613-d3080.md |
-| art. 18, inciso II | pas | 19957.000690/2024-10 | 2025-12-09 | outro | auditoria-independente | Apuração de responsabilidades por suposta inobservância das normas contábeis e de auditoria independente referentes à mensuração de valor justo em demonstrações financeiras de fundos de investimento em participações. Inépcia da acusação. | ../../../../../julgados/cvm/pas/2025/19957-000690-2024-10.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 18, inciso I | termo-compromisso | 19957.009327/2023-71 | 2024-06-13 | aceito | cvm-col-20240613-d3080 | fichas/tc/2024-04.md |
+| art. 18, inciso II | pas | 19957.000690/2024-10 | 2025-12-09 | outro | cvm-pas-19957-000690-2024-10 | fichas/pas/2025-05.md |
 
 ## art. 20
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20 | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | processual | O Colegiado não conheceu, por unanimidade, do pedido de reconsideração da Bridge Administradora de Recursos Ltda. contra decisão que negou provimento a recurso sobre o não enquadramento do Educação BR FIP Multiestratégia como entidade de investimento, por ausência dos requisitos do item IX da Deliberação CVM 463/2003. | ../../../../../julgados/cvm/colegiado/2018/col-20180417-d0895.md |
-| art. 20 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que reafirmou exigências à administradora: reclassificação do fundo como Não-EI e adoção do MEP desde 01.03.2017 (ICVM 579/16), sem modulação de efeitos. Acompanhou a área técnica, que também indeferiu o ajuste do preço de integralização das cotas de 2017. | ../../../../../julgados/cvm/colegiado/2020/col-20200804-d1866.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20 | decisao-colegiado | 19957.006804/2017-06 | 2018-04-17 | conhecimento | cvm-col-20180417-d0895 | fichas/colegiado/2018-07.md |
+| art. 20 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | cvm-col-20200804-d1866 | fichas/colegiado/2020-12.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que reafirmou exigências à administradora: reclassificação do fundo como Não-EI e adoção do MEP desde 01.03.2017 (ICVM 579/16), sem modulação de efeitos. Acompanhou a área técnica, que também indeferiu o ajuste do preço de integralização das cotas de 2017. | ../../../../../julgados/cvm/colegiado/2020/col-20200804-d1866.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | cvm-col-20200804-d1866 | fichas/colegiado/2020-12.md |
 
 ## art. 28
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 28 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | fundos-investimento | O Colegiado negou provimento a recurso de cotistas de FIP contra decisão da SIN que reafirmou exigências à administradora: reclassificação do fundo como Não-EI e adoção do MEP desde 01.03.2017 (ICVM 579/16), sem modulação de efeitos. Acompanhou a área técnica, que também indeferiu o ajuste do preço de integralização das cotas de 2017. | ../../../../../julgados/cvm/colegiado/2020/col-20200804-d1866.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 28 | decisao-colegiado | 19957.005288/2018-75 | 2020-08-04 | nao-provido | cvm-col-20200804-d1866 | fichas/colegiado/2020-12.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | auditoria-independente | Apuração de responsabilidade por suposta inobservância de normas emanadas pelo Conselho Federal de Contabilidade, em infração ao art. 20 da Instrução CVM nº 308/99. Advertências. | ../../../../../julgados/cvm/pas/2024/19957-010272-2021-80.md |
-| decisao-colegiado | — | 2024-01-26 | outro | normativo | O Colegiado aprovou a agenda de normatização contábil da SNC para 2024: três normas a editar, cinco consultas públicas sem AIR (entre elas IFRS S1 e S2) e oito outros temas, como ofício circular e cartas comentário. Projetos da lista de reserva ficam fora da agenda. | ../../../../../julgados/cvm/colegiado/2024/col-20240126-d3019.md |
-| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | auditoria-independente | O Colegiado rejeitou, por unanimidade, propostas de termo de compromisso de sociedades de auditoria e de auditores (pessoas físicas e jurídicas) em três PAS sobre relatórios de auditoria de demonstrações financeiras. Acompanhou o Comitê, que considerou o ajuste inconveniente e inoportuno pela análise conjunta, gravidade em tese e proposta distante de casos similares. | ../../../../../julgados/cvm/colegiado/2023/col-20230905-d2065.md |
-| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | normativo | O Colegiado aprovou a revisão da agenda regulatória de 2023 da SNC, com retirada de itens (ICVM 516, 489, 579 e 577; OCPC 06; OCPC sobre ativos digitais). Determinou resolução para adoção voluntária das IFRS S1 e S2 no exercício de 2024, com base nos textos originais do ISSB em inglês. A minuta será apreciada em reunião de regulação. | ../../../../../julgados/cvm/colegiado/2023/col-20230816-d2795.md |
-| pas | 19957.003200/2017-08 | 2023-01-31 | condenacao | fundos-investimento | Apurar responsabilidades pelo descumprimento do disposto nos artigos65, inciso XV, e 65-A, inciso I, ambos da Instrução CVM n° 409/2004. Multas. | ../../../../../julgados/cvm/pas/2023/19957-003200-2017-08.md |
-| decisao-colegiado | — | 2022-12-14 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, proposta pela SNC: revisões das normas de fundos (ICVM 516, 489, 579 e 577), normas de convergência contábil (CPCs, OCPCs, IFRS) e outros temas para consulta pública e edição. | ../../../../../julgados/cvm/colegiado/2022/col-20221214-d2795.md |
-| termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | manipulacao-fraude | Apreciação de propostas de termo de compromisso. PAS SEI 19957.006657/2020-61. | ../../../../../julgados/cvm/colegiado/2022/col-20220215-d2291.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.010272/2021-80 | 2024-10-29 | condenacao | cvm-pas-19957-010272-2021-80 | fichas/pas/2024-09.md |
+| decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
+| termo-compromisso | 19957.004040/2020-10; 19957.005643/2020-21; 19957.004715/2020-12 | 2023-09-05 | rejeitado | cvm-col-20230905-d2065 | fichas/tc/2023-06.md |
+| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
+| pas | 19957.003200/2017-08 | 2023-01-31 | condenacao | cvm-pas-19957-003200-2017-08 | fichas/pas/2023-01.md |
+| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
+| termo-compromisso | 19957.006657/2020-61 | 2022-02-15 | rejeitado | cvm-col-20220215-d2291 | fichas/tc/2022-01.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
 
 Fim do subíndice.

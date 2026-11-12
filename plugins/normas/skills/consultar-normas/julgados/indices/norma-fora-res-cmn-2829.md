@@ -3,41 +3,41 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 51
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 51 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 51 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 61
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 61 | pas | 05/2008 | 2012-12-12 | parcial | manipulacao-fraude | FITVM LIBRIUM realização de operações fraudulentas no mercado de valores mobiliários – anuência, concorrência e/ou benefício com essas operações. Multas pecuniárias e absolvições. | ../../../../../julgados/cvm/pas/2012/05-2008.md |
-| art. 61, inciso II | acordao-crsfn | 12/06 | 2014-05-13 | parcial | intermediacao | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Intermediação de contratos futuros de índice Ibovespa (IND) - Falhas no processamento de ordens de negociação - Favorecimento a determinados investidores - Exercício da atividade de administração de carteira sem autorização prévia – Irregularidades caracterizadas – Recursos a que se nega provimento – Arquivamento confirmado no tocante à subida obrigatória. | ../../../../../julgados/crsfn/2014/13263.md |
-| art. 61, inciso II | pas | 12/2006 | 2010-12-08 | parcial | intermediacao | DIMARCO Não cumprimento das regras de conduta e das regras e parâmetros relativos à atuação como corretora de mercadorias. Exercício da atividade de administração de carteira de valores mobiliários sem autorização prévia. –Multas e Absolvições. | ../../../../../julgados/cvm/pas/2010/12-2006.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 61 | pas | 05/2008 | 2012-12-12 | parcial | cvm-pas-05-2008 | fichas/pas/2012-03.md |
+| art. 61, inciso II | acordao-crsfn | 12/06 | 2014-05-13 | parcial | crsfn-13263 | fichas/crsfn/2014-03.md |
+| art. 61, inciso II | pas | 12/2006 | 2010-12-08 | parcial | cvm-pas-12-2006 | fichas/pas/2010-05.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 08/2004 | 2020-03-10 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Práticas não equitativas no mercado de valores mobiliários. Especificações tardias de ordens na BM&F. Admissibilidade de provas indiciárias. Cabimento de Recurso de Ofício contra decisão condenatória pela CVM. Recursos de Ofício providos e desprovidos. Recursos voluntários conhecidos mas não providos. Multa. | ../../../../../julgados/crsfn/2020/13732.md |
-| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | manipulacao-fraude | Prática não equitativa no mercado de valores, em infração ao inciso I da Instrução CVM nº 08/79, no tipo descrito no inciso II, ‘d’, e descumprimento do dever de diligência, descrito no art. 4º, parágrafo único, c/c os artigos 6º, §2º, e 8º, §2º, todos da Instrução CVM nº 387/03. Multas. | ../../../../../julgados/cvm/pas/2020/19957-010796-2019-56.md |
-| pas | 07/2012 | 2017-03-07 | parcial | fundos-investimento | Descumprimento do dever de diligência por parte dos gestores das carteiras dos Fundos – Negligência da administradora na fiscalização dos gestores dos fundos de investimento contratados. Absolvições e Multas. | ../../../../../julgados/cvm/pas/2017/07-2012.md |
-| acordao-crsfn | 05/2008 | 2017-02-07 | parcial | manipulacao-fraude | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. Realização de operações fraudulentas no mercado de valores mobiliários - anuência, concorrência e/ou benefício com operações cursadas no mercado de derivativos da BM&F. | ../../../../../julgados/crsfn/2017/13727.md |
-| acordao-crsfn | 20/2005 | 2015-03-24 | parcial | manipulacao-fraude | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Práticas não equitativas no mercado futuro de Ibovespa - Falta de cuidado e diligência em administração da carteira – Irregularidades caracterizadas – Apelos voluntários parcialmente providos – Demais apelos improvidos (inclusive o recurso de ofício). | ../../../../../julgados/crsfn/2015/13356.md |
-| acordao-crsfn | IA-2005-16 | 2014-07-22 | absolvicao | outros | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Entidade fechada de previdência complementar – Aquisição de ações e lançamento de opções de compra a preços inferiores aos tidos por justo – Irrelevância econômica dos ganhos a representar contraindício – Falta de suficientes elementos, nos autos, para declaração de existência de conluio | ../../../../../julgados/crsfn/2014/13188.md |
-| pas | 30/2005 | 2012-12-11 | parcial | intermediacao | REFER realização de práticas não equitativas e operações fraudulentas no mercado de valores mobiliários – falta de diligência no cumprimento e na execução de ordens de negociação e na especificação de comitentes – permissão para operar no mercado de valores mobiliários sem a devida ficha cadastral – permissão para operar no mercado de valores mobiliários sem a autorização expressa de cliente – não identificação na ficha cadastral de pessoa vinculada à corretora – falta de diligência na administração e na gestão de carteira de fundo de investimento. Multas pecuniárias e absolvições. | ../../../../../julgados/cvm/pas/2012/30-2005.md |
-| pas | 08/2004 | 2012-12-06 | parcial | manipulacao-fraude | LAETA práticas não equitativas no mercado de valores mobiliários – multas e absolvições – suposto descumprimento do dever de diligência – absolvições – negligência e imprudência na administração de fundos de investimento financeiro – absolvições. | ../../../../../julgados/cvm/pas/2012/08-2004.md |
-| pas | 20/2005 | 2011-04-12 | parcial | manipulacao-fraude | UMUARAMA S/A CTVM Práticas não equitativas. Falta de cuidado e diligência na administração da carteira da Prevdata. Absolvição e multas. | ../../../../../julgados/cvm/pas/2011/20-2005.md |
-| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | ofertas-publicas | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO - Mercado de valores mobiliários – Falta de publicação de anúncios (início e encerramento) de distribuição pública de cotas e de informações adicionais franqueadas aos potenciais investidores - Irregularidade caracterizada – Desistência do recurso voluntário – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2010/11453.md |
-| pas | RJ2003/12656 | 2006-12-14 | condenacao | ofertas-publicas | Não publicação dos anúncios de início e de encerramento de distribuição previstos no art. 8º, § 1º, incisos III e IV, da Instrução CVM nº 356/01, sem a necessária solicitação de dispensa à CVM. Advertência. | ../../../../../julgados/cvm/pas/2006/rj2003-12656.md |
-| decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | fundos-investimento | O Colegiado autorizou a área técnica a conceder autorização para alienação privada de participações do Fundo Investidores Institucionais na Santos Brasil S.A., condicionada à prova de autorização da Secretaria de Previdência Complementar ou de sua dispensa. Pelo relator, ponderados: desinvestimento, private equity e acordo entre cotistas. | ../../../../../julgados/cvm/colegiado/2006/col-20060503-d04.md |
-| pas | SP2002/0397 | 2003-12-18 | parcial | manipulacao-fraude | Realização de prática não-eqüitativa, conceituada na alínea "d" do item II e vedada pelo item I da Instrução CVM nº 08/79. Multa e Inabilitação. - Intermediação de ações de companhia fechada no mercado de balcão não organizado, em infração ao artigo 21, § 1º da Lei nº 6.385, de 07.12.76 c.c. o artigo 4º, § 1º da Lei 6.404, de 15.12.76. Multa. - Prática de operação fraudulenta, conceituada na alínea "c" do item II e vedada pelo item I da Instrução CVM nº 08/79. - Absolvição. - Improbidade na condução de atividades e de realização de operação para cliente que não possuía cadastro, em infração aos artigos 1º, inciso V, e 3º, ambos da Instrução CVM nº 220, de 15.09.94. Absolvição. - Não registro em conta-corrente de operação realizada em infração ao artigo 14 do Regulamento Anexo à Resolução do CMN nº 1.655, de 26.10.89. Absolvição. - Participação na infração de operar por uma corretora, apesar de pertencer ao grupo da qual fazia parte outra instituição da mesma natureza, em infração ao artigo 12 da Instrução CVM nº 220/94. Absolvição. | ../../../../../julgados/cvm/pas/2003/sp2002-0397.md |
-| decisao-colegiado | RJ2001/12308 | 2002-04-30 | provido | registro-emissor | O Colegiado deu provimento ao recurso da Cerjen Natal S.A. para reformar decisão da SEP que indeferiu preliminarmente seu pedido de registro de companhia aberta, por falta de pedido de distribuição pública (art. 4º da Instrução CVM 202/93). A área técnica prosseguirá a análise, com 30 dias para exigências. | ../../../../../julgados/cvm/colegiado/2002/col-20020430-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 08/2004 | 2020-03-10 | parcial | crsfn-13732 | fichas/crsfn/2020-01.md |
+| pas | 14/2010; 19957.010796/2019-56 | 2020-03-03 | parcial | cvm-pas-19957-010796-2019-56 | fichas/pas/2020-01.md |
+| pas | 07/2012 | 2017-03-07 | parcial | cvm-pas-07-2012 | fichas/pas/2017-01.md |
+| acordao-crsfn | 05/2008 | 2017-02-07 | parcial | crsfn-13727 | fichas/crsfn/2017-01.md |
+| acordao-crsfn | 20/2005 | 2015-03-24 | parcial | crsfn-13356 | fichas/crsfn/2015-01.md |
+| acordao-crsfn | IA-2005-16 | 2014-07-22 | absolvicao | crsfn-13188 | fichas/crsfn/2014-04.md |
+| pas | 30/2005 | 2012-12-11 | parcial | cvm-pas-30-2005 | fichas/pas/2012-03.md |
+| pas | 08/2004 | 2012-12-06 | parcial | cvm-pas-08-2004 | fichas/pas/2012-03.md |
+| pas | 20/2005 | 2011-04-12 | parcial | cvm-pas-20-2005 | fichas/pas/2011-01.md |
+| acordao-crsfn | RJ-2003-12656 | 2010-07-28 | arquivamento | crsfn-11453 | fichas/crsfn/2010-06.md |
+| pas | RJ2003/12656 | 2006-12-14 | condenacao | cvm-pas-rj2003-12656 | fichas/pas/2006-14.md |
+| decisao-colegiado | RJ2006/1525 | 2006-05-03 | deferido | cvm-col-20060503-d04 | fichas/colegiado/2006-07.md |
+| pas | SP2002/0397 | 2003-12-18 | parcial | cvm-pas-sp2002-0397 | fichas/pas/2003-06.md |
+| decisao-colegiado | RJ2001/12308 | 2002-04-30 | provido | cvm-col-20020430-d01 | fichas/colegiado/2002-10.md |
 
 Fim do subíndice.

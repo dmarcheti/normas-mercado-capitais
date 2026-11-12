@@ -3,125 +3,129 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1984-12-21 | 47 | — | MINUTA DE INSTRUÇÃO SOBRE O MERCADO DE BALCÃO A SER SUBMETIDA À AUDIÊNCIA PÚBLICA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:34 |
-| 1984-12-21 | 47 | — | RELATÓRIO DE AUDIÊNCIA PÚBLICA E MINUTA DE INSTRUÇÃO QUE ALTERA AS INSTRUÇÕES CVM N°S 32 E 39/84. | ../../../../../julgados/cvm/decisoes-antigas/1984.md:40 |
-| 1984-12-21 | 47 | — | DIGITAL S.A. CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:46 |
-| 1984-12-12 | 46 | — | RECLAMAÇÕES CONTRA O FUNDO DE GARANTIA DA BOVESPA – [pessoa física] E ASSOCIADOS CVC | ../../../../../julgados/cvm/decisoes-antigas/1984.md:64 |
-| 1984-12-12 | 46 | — | RECLAMAÇÃO CONTRA O FUNDO DE GARANTIA DA BVRJ – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1984.md:79 |
-| 1984-12-12 | 46 | — | SOLICITAÇÃO DE APLICAÇÃO DA MULTA PREVISTA NO ART. 18, DA INSTRUÇÃO CVM N° 32, DE 16.03.84 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:87 |
-| 1984-12-12 | 46 | — | MINUTA DE INSTRUÇÃO SOBRE O MERCADO DE BALCÃO A SER SUBMETIDA À AUDIÊNCIA PÚBLICA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:99 |
-| 1984-11-30 | 45 | — | RECURSO DA ADNER AUDITORIA E PLANEJAMENTO S/C – DESCUMPRIMENTO DA INSTRUÇÃO CVM N° 038/84 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:125 |
-| 1984-11-30 | 45 | — | CORRETORA CARIOCA – ABERTURA DE DEPENDÊNCIAS EM SÃO PAULO E BRASÍLIA E INDICAÇÃO DE SÓCIO- GERENTE | ../../../../../julgados/cvm/decisoes-antigas/1984.md:136 |
-| 1984-11-30 | 45 | — | AUTORIZAÇÃO PARA O EXERCÍCIO DE ATIVIDADES – INVESTNORTE LTDA. CVMC | ../../../../../julgados/cvm/decisoes-antigas/1984.md:145 |
-| 1984-11-30 | 45 | — | AUTORIZAÇÃO PARA O EXERCÍCIO DE ATIVIDADES – FORBES CTVM LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1984.md:151 |
-| 1984-11-07 | 44 | — | CLUBE DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:168 |
-| 1984-11-07 | 44 | — | ALTERAÇÃO DA INSTRUÇÃO CVM N° 32 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:174 |
-| 1984-11-07 | 44 | — | INTRODUÇÃO DE OPERAÇÕES COM OPÇÕES DE VENDA EM BOLSA DE VALORES | ../../../../../julgados/cvm/decisoes-antigas/1984.md:181 |
-| 1984-10-25 | 43 | — | CONSTITUIÇÃO DE CORRETORA – CONFIANÇA CCVM | ../../../../../julgados/cvm/decisoes-antigas/1984.md:197 |
-| 1984-10-25 | 43 | — | RECLAMAÇÕES CONTRA O FUNDO DE GARANTIA DA BVRJ: [pessoa física], RON MOSHE SHREM, SYLVIO PIMENTA DA… | ../../../../../julgados/cvm/decisoes-antigas/1984.md:204 |
-| 1984-10-25 | 43 | — | CORRETORA CARIOCA – ABERTURA DE DEPENDÊNCIAS EM SÃO PAULO E BRASÍLIA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:215 |
-| 1984-10-25 | 43 | — | MINUTA DE RESOLUÇÃO PARA CARGOS DE DIREÇÃO EM INSTITUIÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:223 |
-| 1984-10-25 | 43 | — | COSINOR – REPUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:230 |
-| 1984-10-25 | 43 | — | RECURSO DA EDELWEIS PARTICIPAÇÕES S.A. – EFEITO SUSPENSIVO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:241 |
-| 1984-10-04 | 42 | — | PARTICIPAÇÃO DAS EFPP NOS MERCADOS FUTURO, DE OPÇÕES E A TERMO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:259 |
-| 1984-10-04 | 42 | — | PEDIDO DE RECONSIDERAÇÃO DA SMI SOBRE DECISÃO DO COLEGIADO RELATIVA À RECLAMAÇÃO DE INVESTIDOR… | ../../../../../julgados/cvm/decisoes-antigas/1984.md:266 |
-| 1984-10-04 | 42 | — | RECURSO DE [pessoa física] CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1984.md:278 |
-| 1984-09-27 | 40 | — | PARECER SOBRE CONSULTA DA ABRASCA A RESPEITO DO DECRETO-LEI N° 2133/84 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:292 |
-| 1984-09-20 | 39 | — | CANCELAMENTO DE REGISTRO DE COMPANHIA ABERTA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:307 |
-| 1984-09-20 | 39 | — | COBRASFER S.A. – DELIBERAÇÃO DE "STOP ORDER | ../../../../../julgados/cvm/decisoes-antigas/1984.md:328 |
-| 1984-09-13 | 38 | — | INSTRUÇÃO SOBRE AUDITOR INDEPENDENTE | ../../../../../julgados/cvm/decisoes-antigas/1984.md:343 |
-| 1984-09-13 | 38 | — | RECURSO DA COSINOR CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:349 |
-| 1984-09-13 | 38 | — | ALTERAÇÃO DA RESOLUÇÃO 527/79 (CONDIÇÕES PARA ADMINISTRADOR DE INSTITUIÇÕES FINANCEIRAS) | ../../../../../julgados/cvm/decisoes-antigas/1984.md:360 |
-| 1984-09-06 | 37 | — | CONSTITUIÇÃO DE CORRETORA – ADEMAR WANDERLEY CCVM | ../../../../../julgados/cvm/decisoes-antigas/1984.md:379 |
-| 1984-09-06 | 37 | — | S/A INDÚSTRIA E COMÉRCIO CHAPECÓ – RECURSO AO COLEGIADO DE DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:386 |
-| 1984-09-06 | 37 | — | EMISSÃO DE DEBÊNTURES CONVERSÍVEIS EM AÇÕES PREFERENCIAIS SEM DIREITO A VOTO POR COMPANHIA… | ../../../../../julgados/cvm/decisoes-antigas/1984.md:399 |
-| 1984-08-29 | 36 | — | CONSTITUIÇÃO DE CORRETORA – IBICABA CORRETORA DE TÍTULOS, VALORES MOBILIÁRIOS E CÂMBIO LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1984.md:422 |
-| 1984-08-29 | 36 | — | TRANSFERÊNCIA DE CONTROLE – COTRIEXPORT CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:430 |
-| 1984-08-29 | 36 | — | RECLAMAÇÕES CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1984.md:437 |
-| 1984-08-22 | 35 | — | CARTEIRA PRÓPRIA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:469 |
-| 1984-08-22 | 35 | — | ATIVIDADE DE AUDITORIA INDEPENDENTE – MINUTA DE INSTRUÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:476 |
-| 1984-08-22 | 35 | — | DURATEX S.A. – INFORMAÇÕES CONFIDENCIAIS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:487 |
-| 1984-08-15 | 34 | — | NEMOFEFFER S.A. – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:510 |
-| 1984-08-15 | 34 | — | CORREÇÃO MONETÁRIA DE IMÓVEIS DESTINADOS À VENDA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:528 |
-| 1984-08-15 | 34 | — | ATUAÇÃO DOS BANCOS DE INVESTIMENTO NO MERCADO DE VALORES MOBILIÁRIOS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:545 |
-| 1984-08-15 | 34 | — | ADMINISTRAÇÃO DO FUNDO DE GARANTIA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:555 |
-| 1984-08-15 | 34 | — | GRANDE RIO S.A. – CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS – CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:565 |
-| 1984-08-15 | 34 | — | FORTES CORRETORA DE VALORES LTDA. – CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:573 |
-| 1984-08-15 | 34 | — | ALTERAÇÃO PARCIAL DA RESOLUÇÃO CMN N° 922/84 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:580 |
-| 1984-08-08 | 33 | — | FIBRASA – CORRETORA DE CÂMBIO E VALORES LTDA. – CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:597 |
-| 1984-08-08 | 33 | — | INSTRUÇÃO CVM N° 27 – REFORMULAÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:604 |
-| 1984-08-08 | 33 | — | ATIVIDADE DE AUDITORIA INDEPENDENTE – MINUTA DE INSTRUÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:609 |
-| 1984-08-03 | 32 | — | KETTER S.A. CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS – TRANSFERÊNCIA DE CONTROLE | ../../../../../julgados/cvm/decisoes-antigas/1984.md:623 |
-| 1984-08-03 | 32 | — | RECLAMAÇÕES CONTRA O FUNDO DE GARANTIA DA BVRJ DE OLÍMPIO SANTA RITA MATA, ANTENOR COLUSSI/LEÔNIA… | ../../../../../julgados/cvm/decisoes-antigas/1984.md:632 |
-| 1984-07-26 | 31 | — | REGULAMENTO PADRONIZADO DE MERCADO DE OPÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1984.md:661 |
-| 1984-07-26 | 31 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 27 – LIMITES OPERACIONAIS DOS MERCADOS FUTURO, DE OPÇÕES E A TERMO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:674 |
-| 1984-07-26 | 31 | — | RECLAMAÇÃO DE [pessoa física] CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1984.md:682 |
-| 1984-07-26 | 31 | — | AGOSTINHO DA SILVA RODRIGUES E OUTROS – RECLAMAÇÃO CONTRA A QUEIROZ VIEIRA CVMC | ../../../../../julgados/cvm/decisoes-antigas/1984.md:695 |
-| 1984-07-26 | 31 | — | AVANTUR VIAGENS E TURISMO LTDA. – RECLAMAÇÃO CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1984.md:707 |
-| 1984-07-26 | 31 | — | CIA IOCHPE DE PARTICIPAÇÕES – PARTICIPAÇÃO DOS ADMINISTRADORES NOS LUCROS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:719 |
-| 1984-07-26 | 31 | — | BEM CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA. – AUTORIZAÇÃO PARA O EXERCÍCIO DE… | ../../../../../julgados/cvm/decisoes-antigas/1984.md:731 |
-| 1984-07-26 | 31 | — | PROGRESSO S.A. – CCT – TRANSFERÊNCIA DE CONTROLE ACIONÁRIO E ELEIÇÃO DE DIRIGENTES | ../../../../../julgados/cvm/decisoes-antigas/1984.md:740 |
-| 1984-07-19 | 30 | — | VALMET DO BRASIL – CONSULTA SOBRE CONTRAPARTIDA DE RECURSOS EXTERNOS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:788 |
-| 1984-07-19 | 30 | — | MANNESMANN S.A. – RECURSO AO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:797 |
-| 1984-07-19 | 30 | — | REGULAMENTAÇÃO DE CONSTITUIÇÃO E FUNCIONAMENTO DOS FUNDOS MÚTUOS DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:807 |
-| 1984-07-11 | 29 | — | REFORMULAÇÃO DA CARTA-CIRCULAR/CVM/PTE/N° 304/78 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:824 |
-| 1984-07-11 | 29 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 27 – LIMITES OPERACIONAIS DOS MERCADOS FUTURO, DE OPÇÕES E A TERMO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:832 |
-| 1984-07-11 | 29 | — | BANCO NOROESTE S.A. – SERVIÇO DE AÇÕES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:844 |
-| 1984-07-11 | 29 | — | O POVO" – EMISSÃO PÚBLICA DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1984.md:851 |
-| 1984-07-05 | 28 | — | SANO S.A. – ALTERAÇÃO NAS VANTAGENS DAS AÇÕES PREFERENCIAIS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:881 |
-| 1984-06-20 | 26 | — | REFORMULAÇÃO DA CARTA-CIRCULAR/CVM/PTE/N° 303/78 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:921 |
-| 1984-06-20 | 26 | — | METROPOLITANA CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS LTDA. – TRANSFERÊNCIA DE CONTROLE | ../../../../../julgados/cvm/decisoes-antigas/1984.md:931 |
-| 1984-06-12 | 25 | — | INSTRUÇÃO CVM N° 27 – LIMITES OPERACIONAIS NOS MERCADOS A FUTURO, DE OPÇÕES E A TERMO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:946 |
-| 1984-06-08 | 24 | — | ADEVAL – MINUTA DE RESOLUÇÃO SOBRE FUNDOS MÚTUOS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:973 |
-| 1984-06-08 | 24 | — | ANCHIETA S.A. DESENVOLVIMENTO DE PROJETOS – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:985 |
-| 1984-06-08 | 24 | — | SIMESC S.A. – RECURSO AO COLEGIADO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:998 |
-| 1984-05-25 | 22 | — | CANCELAMENTO DE REGISTRO DE COMPANHIA ABERTA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1017 |
-| 1984-05-25 | 22 | — | PROJETO SOBRE CARTEIRA PRÓPRIA DAS SOCIEDADES CORRETORAS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1029 |
-| 1984-05-25 | 22 | — | CLUBES DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1036 |
-| 1984-05-25 | 22 | — | TABELA DE CORRETAGEM | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1042 |
-| 1984-05-17 | 21 | — | APROVAÇÃO DE ADMINISTRADORES DE SOCIEDADES CORRETORAS – LONDON MULTIPLIC E DORIA & ATHERINO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1056 |
-| 1984-05-17 | 21 | — | RECURSO CONTRA O FUNDO DE GARANTIA DA BVRJ | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1069 |
-| 1984-05-17 | 21 | — | TRANSFERÊNCIA DE CONTROLE SOCIETÁRIO DA O. WILLENSENS CORRETORA DE TÍTULOS E CÂMBIO LTDA. | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1082 |
-| 1984-05-17 | 21 | — | PROJETO SOBRE CARTEIRA PRÓPRIA DAS SOCIEDADES CORRETORAS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1089 |
-| 1984-04-25 | 19 | — | ANCHIETA S.A. DESENVOLVIMENTO DE PROJETOS – RECURSO CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1107 |
-| 1984-04-25 | 19 | — | FUNDO DE GARANTIA DA BVRJ – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1119 |
-| 1984-04-25 | 19 | — | OPERADOR ESPECIAL – "TRADER | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1130 |
-| 1984-04-09 | 18 | — | RECURSO DA INDÚSTRIAS VILLARES CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1151 |
-| 1984-04-05 | 17 | — | OPERACIONAL CORRETORA DE VALORES E CÂMBIO LTDA. – CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1172 |
-| 1984-04-05 | 17 | — | PRESTAÇÃO DE INFORMAÇÕES PELAS COMPANHIAS ABERTAS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1178 |
-| 1984-03-29 | 16 | — | MERCADO DE TÍTULOS INCENTIVADOS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1195 |
-| 1984-03-29 | 16 | — | REFORMULAÇÃO DA RESOLUÇÃO CMN N° 39 – ALTERAÇÕES SUGERIDAS PELA COMEC | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1219 |
-| 1984-03-29 | 16 | — | BVRJ – TRANSFERÊNCIA DE TÍTULO PATRIMONIAL | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1228 |
-| 1984-03-27 | 15 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 12 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1245 |
-| 1984-03-22 | 14 | — | RIO SINOS S.A. CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS - CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1259 |
-| 1984-03-15 | 13 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 12 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1273 |
-| 1984-03-15 | 13 | — | AUDITORIA INDEPENDENTE – PROJETO DE INSTRUÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1285 |
-| 1984-03-15 | 13 | — | CLUBES DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1292 |
-| 1984-03-15 | 13 | — | MERCADO DE TÍTULOS INCENTIVADOS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1300 |
-| 1984-03-13 | 12 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 09 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1322 |
-| 1984-02-24 | 11 | — | PROJETO DE REFORMULAÇÃO DA INSTRUÇÃO CVM N° 12 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1338 |
-| 1984-02-24 | 11 | — | INQUÉRITOS ADMINISTRATIVOS CVM | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1345 |
-| 1984-02-23 | 10 | — | ARAUCÁRIA CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS – TRANSFERÊNCIA DE CONTROLE | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1358 |
-| 1984-02-23 | 10 | — | CONEBRÁS CORRETORA DE CÂMBIO E VALORES LTDA. – CONSTITUIÇÃO DE CORRETORA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1364 |
-| 1984-02-20 | 09 | — | REFORMULAÇÃO DA INSTRUÇÃO CVM N° 09 – RELATÓRIO DA AUDIÊNCIA PÚBLICA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1378 |
-| 1984-02-16 | 08 | — | PROJETO DE REFORMULAÇÃO DA INSTRUÇÃO CVM N° 12 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1398 |
-| 1984-02-14 | 07 | — | PROJETO DE REFORMULAÇÃO DA INSTRUÇÃO CVM N° 12 | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1414 |
-| 1984-02-09 | 06 | — | MARKA S. A. – RECURSO AO CONSELHO MONETÁRIO NACIONAL | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1432 |
-| 1984-02-09 | 06 | — | ENGESA – AÇÕES EM TESOURARIA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1443 |
-| 1984-02-09 | 06 | — | RECURSO DA CISA S. A. CONTRA DECISÃO DA SEP | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1454 |
-| 1984-02-02 | 05 | — | COCAP CORRETORA - CONSTITUIÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1477 |
-| 1984-02-02 | 05 | — | PROCESSO CONTRA O FUNDO DE GARANTIA DA BVRJ – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1486 |
-| 1984-02-02 | 05 | — | MINUTA DE INSTRUÇÃO SOBRE "INSIDER TRADING | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1492 |
-| 1984-01-26 | 04 | — | H. M CORRETORA - CONSTITUIÇÃO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1517 |
-| 1984-01-26 | 04 | — | PROCESSO CONTRA O FUNDO DE GARANTIA DA BVRJ – [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1523 |
-| 1984-01-19 | 03 | — | BANCO ITAÚ – PEDIDO DE AUTORIZAÇÃO PARA PRESTAÇÃO DE SERVIÇOS DE DEBÊNTURES ESCRITURAIS | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1538 |
-| 1984-01-19 | 03 | — | INSTITUIÇÃO DE NORMAS PARA O CREDENCIAMENTO DE ADMINISTRADORES DE FUNDOS MÚTUOS DE INVESTIMENTO | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1544 |
-| 1984-01-05 | 01 | — | INSTRUÇÃO SOBRE CANCELAMENTO DE REGISTRO DE COMPANHIA ABERTA | ../../../../../julgados/cvm/decisoes-antigas/1984.md:1559 |
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1984-12-21 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-21 | — | cvm-dec-1984-0002 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-21 | — | cvm-dec-1984-0003 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-12 | — | cvm-dec-1984-0004 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-12 | — | cvm-dec-1984-0005 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-12 | — | cvm-dec-1984-0006 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-12 | — | cvm-dec-1984-0007 | fichas/decisoes-antigas/1984-04.md |
+| 1984-12-12 | — | cvm-dec-1984-0008 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-30 | — | cvm-dec-1984-0009 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-30 | — | cvm-dec-1984-0010 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-30 | — | cvm-dec-1984-0011 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-30 | — | cvm-dec-1984-0012 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-07 | — | cvm-dec-1984-0013 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-07 | — | cvm-dec-1984-0014 | fichas/decisoes-antigas/1984-04.md |
+| 1984-11-07 | — | cvm-dec-1984-0015 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0016 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0017 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0018 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0019 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0020 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-25 | — | cvm-dec-1984-0021 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-04 | — | cvm-dec-1984-0022 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-04 | — | cvm-dec-1984-0023 | fichas/decisoes-antigas/1984-04.md |
+| 1984-10-04 | — | cvm-dec-1984-0024 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-27 | — | cvm-dec-1984-0025 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-20 | — | cvm-dec-1984-0026 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-20 | — | cvm-dec-1984-0027 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-20 | — | cvm-dec-1984-0028 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-13 | — | cvm-dec-1984-0029 | fichas/decisoes-antigas/1984-03.md |
+| 1984-09-13 | — | cvm-dec-1984-0030 | fichas/decisoes-antigas/1984-03.md |
+| 1984-09-13 | — | cvm-dec-1984-0031 | fichas/decisoes-antigas/1984-04.md |
+| 1984-09-06 | — | cvm-dec-1984-0032 | fichas/decisoes-antigas/1984-03.md |
+| 1984-09-06 | — | cvm-dec-1984-0033 | fichas/decisoes-antigas/1984-03.md |
+| 1984-09-06 | — | cvm-dec-1984-0034 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-29 | — | cvm-dec-1984-0035 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-29 | — | cvm-dec-1984-0036 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-29 | — | cvm-dec-1984-0037 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-22 | — | cvm-dec-1984-0038 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-22 | — | cvm-dec-1984-0039 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-22 | — | cvm-dec-1984-0040 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0041 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0042 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0043 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0044 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0045 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0046 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-15 | — | cvm-dec-1984-0047 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-08 | — | cvm-dec-1984-0048 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-08 | — | cvm-dec-1984-0049 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-08 | — | cvm-dec-1984-0050 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-03 | — | cvm-dec-1984-0051 | fichas/decisoes-antigas/1984-03.md |
+| 1984-08-03 | — | cvm-dec-1984-0052 | fichas/decisoes-antigas/1984-03.md |
+| 1984-07-26 | — | cvm-dec-1984-0053 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0054 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0055 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0056 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0057 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0058 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-26 | — | cvm-dec-1984-0059 | fichas/decisoes-antigas/1984-03.md |
+| 1984-07-26 | — | cvm-dec-1984-0060 | fichas/decisoes-antigas/1984-03.md |
+| 1984-07-26 | — | cvm-dec-1984-0061 | fichas/decisoes-antigas/1984-03.md |
+| 1984-07-19 | — | cvm-dec-1984-0062 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-19 | — | cvm-dec-1984-0063 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-19 | — | cvm-dec-1984-0064 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-11 | — | cvm-dec-1984-0065 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-11 | — | cvm-dec-1984-0066 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-11 | — | cvm-dec-1984-0067 | fichas/decisoes-antigas/1984-02.md |
+| 1984-07-05 | — | cvm-dec-1984-0068 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-20 | — | cvm-dec-1984-0069 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-20 | — | cvm-dec-1984-0070 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-12 | — | cvm-dec-1984-0071 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-08 | — | cvm-dec-1984-0072 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-08 | — | cvm-dec-1984-0073 | fichas/decisoes-antigas/1984-02.md |
+| 1984-06-08 | — | cvm-dec-1984-0074 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-25 | — | cvm-dec-1984-0075 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-25 | — | cvm-dec-1984-0076 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-25 | — | cvm-dec-1984-0077 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-25 | — | cvm-dec-1984-0078 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-17 | — | cvm-dec-1984-0079 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-17 | — | cvm-dec-1984-0080 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-17 | — | cvm-dec-1984-0081 | fichas/decisoes-antigas/1984-02.md |
+| 1984-05-17 | — | cvm-dec-1984-0082 | fichas/decisoes-antigas/1984-02.md |
+| 1984-04-25 | — | cvm-dec-1984-0083 | fichas/decisoes-antigas/1984-02.md |
+| 1984-04-25 | — | cvm-dec-1984-0084 | fichas/decisoes-antigas/1984-02.md |
+| 1984-04-25 | — | cvm-dec-1984-0085 | fichas/decisoes-antigas/1984-02.md |
+| 1984-04-09 | — | cvm-dec-1984-0086 | fichas/decisoes-antigas/1984-02.md |
+| 1984-04-05 | — | cvm-dec-1984-0087 | fichas/decisoes-antigas/1984-01.md |
+| 1984-04-05 | — | cvm-dec-1984-0088 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-29 | — | cvm-dec-1984-0089 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-29 | — | cvm-dec-1984-0090 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-29 | — | cvm-dec-1984-0091 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-27 | — | cvm-dec-1984-0092 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-22 | — | cvm-dec-1984-0093 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-15 | — | cvm-dec-1984-0094 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-15 | — | cvm-dec-1984-0095 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-15 | — | cvm-dec-1984-0096 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-15 | — | cvm-dec-1984-0097 | fichas/decisoes-antigas/1984-01.md |
+| 1984-03-13 | — | cvm-dec-1984-0098 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-24 | — | cvm-dec-1984-0099 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-24 | — | cvm-dec-1984-0100 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-23 | — | cvm-dec-1984-0101 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-23 | — | cvm-dec-1984-0102 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-20 | — | cvm-dec-1984-0103 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-16 | — | cvm-dec-1984-0104 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-14 | — | cvm-dec-1984-0105 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-09 | — | cvm-dec-1984-0106 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-09 | — | cvm-dec-1984-0107 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-09 | — | cvm-dec-1984-0108 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-02 | — | cvm-dec-1984-0109 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-02 | — | cvm-dec-1984-0110 | fichas/decisoes-antigas/1984-01.md |
+| 1984-02-02 | — | cvm-dec-1984-0111 | fichas/decisoes-antigas/1984-01.md |
+| 1984-01-26 | — | cvm-dec-1984-0112 | fichas/decisoes-antigas/1984-01.md |
+| 1984-01-26 | — | cvm-dec-1984-0113 | fichas/decisoes-antigas/1984-01.md |
+| 1984-01-19 | — | cvm-dec-1984-0114 | fichas/decisoes-antigas/1984-01.md |
+| 1984-01-19 | — | cvm-dec-1984-0115 | fichas/decisoes-antigas/1984-01.md |
+| 1984-01-05 | — | cvm-dec-1984-0116 | fichas/decisoes-antigas/1984-01.md |
+| 1983-10-27 | — | cvm-dec-1984-0117 | fichas/decisoes-antigas/1984-01.md |
+| 1983-10-27 | — | cvm-dec-1984-0118 | fichas/decisoes-antigas/1984-01.md |
 
 Fim do subíndice.

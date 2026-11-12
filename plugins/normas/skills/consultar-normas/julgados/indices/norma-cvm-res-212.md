@@ -3,14 +3,14 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0212.md](../../normas/cvm/resolucoes/0212.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 01/2024; 19957.001218/2024-96 | 2024-09-18 | outro | contabil-demonstracoes | O Colegiado aprovou a Resolução CVM 212/2024, que atualiza a Interpretação Técnica ICPC 09(R3) (demonstrações individuais, separadas e consolidadas e equivalência patrimonial), após a Consulta Pública SNC 01/2024. Por trazer apenas ajustes de redação e referência, sem impacto, não houve AIR (art. 4º, IV, do Decreto 10.411/2020). | ../../../../../julgados/cvm/colegiado/2024/col-20240918-d3032.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 01/2024; 19957.001218/2024-96 | 2024-09-18 | outro | cvm-col-20240918-d3032 | fichas/colegiado/2024-10.md |
 
 Fim do subíndice.

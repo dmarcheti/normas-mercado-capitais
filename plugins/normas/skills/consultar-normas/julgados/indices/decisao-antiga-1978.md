@@ -3,29 +3,59 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-Uma linha por decisão, da mais recente para a mais antiga: data e número da ata, processo (quando o texto traz), título e `arquivo:linha` (a linha do arquivo anual onde a decisão começa; leia dali com `offset`). Título tirado do próprio arquivo: o conversor do PDF abre decisão em toda linha em caixa alta, então títulos de 1997 a 2001 podem vir cortados ou imprecisos, e nome de pessoa física sai como "[pessoa física]".
+Uma linha por decisão (uma ficha `<id-anual>-NNNN`, na ordem do arquivo anual), da mais recente para a mais antiga: data da ata, processo (quando o título traz) e ficha. O título (`ementa` da ficha) vem do arquivo anual, que o conversor do PDF abriu em toda linha em caixa alta: títulos de 1997 a 2001 podem vir cortados ou imprecisos.
 
-| Data da ata | Ata | Processo | Título | Arquivo:linha |
-|---|---|---|---|---|
-| 1978-12-14 | 84 | — | APROVAÇÃO DO CONVÊNIO CVM / FESP | ../../../../../julgados/cvm/decisoes-antigas/1978.md:47 |
-| 1978-12-14 | 84 | — | INSTRUÇÃO SOBRE CONTA-MARGEM | ../../../../../julgados/cvm/decisoes-antigas/1978.md:52 |
-| 1978-11-27 | 80 | — | OLVEBRA: ALIENAÇÃO DE CONTROLE ACIONÁRIO | ../../../../../julgados/cvm/decisoes-antigas/1978.md:103 |
-| 1978-11-27 | 80 | — | EMISSÕES DE “ARTIGO 14”: EXIGÊNCIA DE ASSEMBLÉIA DE PREFERENCIAIS | ../../../../../julgados/cvm/decisoes-antigas/1978.md:111 |
-| 1978-11-27 | 80 | — | ATO DECLARATÓRIO CVM N° 08 – REGISTRO DE AUDITORES NO MÊS DE NOVEMBRO/78 (ANEXO S/N°) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:119 |
-| 1978-11-23 | 79 | — | AUTORIZAÇÃO PRELIMINAR DA CVM PARA A FUSÃO DAS BOLSAS DE VALORES DA BAHIA E DE ALAGOAS, COM… | ../../../../../julgados/cvm/decisoes-antigas/1978.md:135 |
-| 1978-11-09 | 75 | — | OFERTA PÚBLICA PARA AQUISIÇÃO DE AÇÕES | ../../../../../julgados/cvm/decisoes-antigas/1978.md:157 |
-| 1978-10-19 | 69 | — | NOTA EXPLICATIVA DA INSTRUÇÃO N° 4 | ../../../../../julgados/cvm/decisoes-antigas/1978.md:178 |
-| 1978-10-19 | 69 | — | [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1978.md:184 |
-| 1978-08-14 | 53 | — | [pessoa física] | ../../../../../julgados/cvm/decisoes-antigas/1978.md:244 |
-| 1978-07-27 | 49 | — | TEKNOAÇO (ANEXO II) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:278 |
-| 1978-07-06 | 43 | — | ATO DECLARATÓRIO N° 1 (ANEXO II) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:311 |
-| 1978-07-06 | 43 | — | APROVAÇÃO DA REFORMA DOS ESTATUTOS SOCIAIS DA BOLSA DE VALORES DO RECIFE (ANEXO IV) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:317 |
-| 1978-06-05 | 37 | — | BANCO AMÉRICA DO SUL S.A. | ../../../../../julgados/cvm/decisoes-antigas/1978.md:341 |
-| 1978-06-01 | 36 | — | BANDEPE – LIDERANÇA DA DISTRIBUIDORA DO ESTADO DE PERNAMBUCO | ../../../../../julgados/cvm/decisoes-antigas/1978.md:368 |
-| 1978-05-12 | 31 | — | PROCESSO DE REGISTRO DE EMPRESA DE CAPITAL ESTRANGEIRO (ANEXO II) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:393 |
-| 1978-05-12 | 31 | — | ATENDIMENTO A INVESTIDORES (ANEXO III) | ../../../../../julgados/cvm/decisoes-antigas/1978.md:402 |
-| 1978-04-10 | 23 | — | NORMAS CONTÁBEIS – COLIGADAS E CONTROLADAS | ../../../../../julgados/cvm/decisoes-antigas/1978.md:444 |
+| Data da ata | Processo | Id | Ficha |
+|---|---|---|---|
+| 1978-12-26 | — | cvm-dec-1978-0001 | fichas/decisoes-antigas/1978-02.md |
+| 1978-12-14 | — | cvm-dec-1978-0002 | fichas/decisoes-antigas/1978-02.md |
+| 1978-12-14 | — | cvm-dec-1978-0003 | fichas/decisoes-antigas/1978-02.md |
+| 1978-12-14 | — | cvm-dec-1978-0004 | fichas/decisoes-antigas/1978-02.md |
+| 1978-12-04 | — | cvm-dec-1978-0005 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-30 | — | cvm-dec-1978-0006 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-27 | — | cvm-dec-1978-0007 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-27 | — | cvm-dec-1978-0008 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-27 | — | cvm-dec-1978-0009 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-27 | — | cvm-dec-1978-0010 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-23 | — | cvm-dec-1978-0011 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-23 | — | cvm-dec-1978-0012 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-09 | — | cvm-dec-1978-0013 | fichas/decisoes-antigas/1978-02.md |
+| 1978-11-09 | — | cvm-dec-1978-0014 | fichas/decisoes-antigas/1978-02.md |
+| 1978-10-19 | — | cvm-dec-1978-0015 | fichas/decisoes-antigas/1978-01.md |
+| 1978-10-19 | — | cvm-dec-1978-0016 | fichas/decisoes-antigas/1978-02.md |
+| 1978-10-19 | — | cvm-dec-1978-0017 | fichas/decisoes-antigas/1978-02.md |
+| 1978-09-28 | — | cvm-dec-1978-0018 | fichas/decisoes-antigas/1978-01.md |
+| 1978-09-25 | — | cvm-dec-1978-0019 | fichas/decisoes-antigas/1978-01.md |
+| 1978-09-18 | — | cvm-dec-1978-0020 | fichas/decisoes-antigas/1978-01.md |
+| 1978-08-17 | — | cvm-dec-1978-0021 | fichas/decisoes-antigas/1978-01.md |
+| 1978-08-14 | — | cvm-dec-1978-0022 | fichas/decisoes-antigas/1978-01.md |
+| 1978-08-14 | — | cvm-dec-1978-0023 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-31 | — | cvm-dec-1978-0024 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-27 | — | cvm-dec-1978-0025 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-27 | — | cvm-dec-1978-0026 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-06 | — | cvm-dec-1978-0027 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-06 | — | cvm-dec-1978-0028 | fichas/decisoes-antigas/1978-01.md |
+| 1978-07-06 | — | cvm-dec-1978-0029 | fichas/decisoes-antigas/1978-01.md |
+| 1978-06-16 | — | cvm-dec-1978-0030 | fichas/decisoes-antigas/1978-01.md |
+| 1978-06-05 | — | cvm-dec-1978-0031 | fichas/decisoes-antigas/1978-01.md |
+| 1978-06-05 | — | cvm-dec-1978-0032 | fichas/decisoes-antigas/1978-01.md |
+| 1978-06-01 | — | cvm-dec-1978-0033 | fichas/decisoes-antigas/1978-01.md |
+| 1978-06-01 | — | cvm-dec-1978-0034 | fichas/decisoes-antigas/1978-01.md |
+| 1978-05-12 | — | cvm-dec-1978-0035 | fichas/decisoes-antigas/1978-01.md |
+| 1978-05-12 | — | cvm-dec-1978-0036 | fichas/decisoes-antigas/1978-01.md |
+| 1978-05-12 | — | cvm-dec-1978-0037 | fichas/decisoes-antigas/1978-01.md |
+| 1978-05-04 | — | cvm-dec-1978-0038 | fichas/decisoes-antigas/1978-01.md |
+| 1978-05-03 | — | cvm-dec-1978-0039 | fichas/decisoes-antigas/1978-01.md |
+| 1978-04-27 | — | cvm-dec-1978-0040 | fichas/decisoes-antigas/1978-01.md |
+| 1978-04-10 | — | cvm-dec-1978-0041 | fichas/decisoes-antigas/1978-01.md |
+| 1978-04-10 | — | cvm-dec-1978-0042 | fichas/decisoes-antigas/1978-01.md |
+| 1978-04-05 | — | cvm-dec-1978-0043 | fichas/decisoes-antigas/1978-01.md |
+| 1978-04-03 | — | cvm-dec-1978-0044 | fichas/decisoes-antigas/1978-01.md |
+| 1978-03-22 | — | cvm-dec-1978-0045 | fichas/decisoes-antigas/1978-01.md |
+| 1978-02-23 | — | cvm-dec-1978-0046 | fichas/decisoes-antigas/1978-01.md |
+| 1978-01-30 | — | cvm-dec-1978-0047 | fichas/decisoes-antigas/1978-01.md |
+| 1978-01-12 | — | cvm-dec-1978-0048 | fichas/decisoes-antigas/1978-01.md |
 
 Fim do subíndice.

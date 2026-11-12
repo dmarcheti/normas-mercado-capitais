@@ -8,7 +8,8 @@ Fontes conferidas até 2026-11-04.
 ## Perímetro
 
 Julgados da CVM (processos administrativos sancionadores, decisões do Colegiado desde 1978, termos de compromisso aceitos e rejeitados) e acórdãos do CRSFN em recursos contra decisões da CVM.
-Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pela ementa.
+Sem nome de pessoa física nas linhas dos índices.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 ## Por tipo e ano
 
@@ -95,35 +96,32 @@ Sem nome de pessoa física nas linhas dos índices: cada julgado é descrito pel
 | Decisões do Colegiado | [2004](indices/decisao-colegiado-2004.md) | 344 |
 | Decisões do Colegiado | [2003](indices/decisao-colegiado-2003.md) | 321 |
 | Decisões do Colegiado | [2002](indices/decisao-colegiado-2002.md) | 398 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 1o semestre](indices/decisao-antiga-2001-s1.md) | 157 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001, 2o semestre](indices/decisao-antiga-2001-s2.md) | 153 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 1o semestre](indices/decisao-antiga-2000-s1.md) | 145 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 2o semestre](indices/decisao-antiga-2000-s2.md) | 164 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 1o semestre](indices/decisao-antiga-1999-s1.md) | 160 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 2o semestre](indices/decisao-antiga-1999-s2.md) | 192 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 1o semestre](indices/decisao-antiga-1998-s1.md) | 97 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998, 2o semestre](indices/decisao-antiga-1998-s2.md) | 184 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997](indices/decisao-antiga-1997.md) | 160 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1996](indices/decisao-antiga-1996.md) | 132 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1995](indices/decisao-antiga-1995.md) | 90 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1994](indices/decisao-antiga-1994.md) | 103 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1993](indices/decisao-antiga-1993.md) | 83 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 1o semestre](indices/decisao-antiga-1992-s1.md) | 214 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992, 2o semestre](indices/decisao-antiga-1992-s2.md) | 95 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1991](indices/decisao-antiga-1991.md) | 210 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1990](indices/decisao-antiga-1990.md) | 178 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1989](indices/decisao-antiga-1989.md) | 129 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1988](indices/decisao-antiga-1988.md) | 200 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1987](indices/decisao-antiga-1987.md) | 209 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1986](indices/decisao-antiga-1986.md) | 189 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1985](indices/decisao-antiga-1985.md) | 122 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1984](indices/decisao-antiga-1984.md) | 114 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1983](indices/decisao-antiga-1983.md) | 95 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1982](indices/decisao-antiga-1982.md) | 86 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1981](indices/decisao-antiga-1981.md) | 53 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1980](indices/decisao-antiga-1980.md) | 57 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1979](indices/decisao-antiga-1979.md) | 35 |
-| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1978](indices/decisao-antiga-1978.md) | 18 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2001](indices/decisao-antiga-2001.md) | 460 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 1o semestre](indices/decisao-antiga-2000-s1.md) | 269 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [2000, 2o semestre](indices/decisao-antiga-2000-s2.md) | 359 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 1o semestre](indices/decisao-antiga-1999-s1.md) | 247 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1999, 2o semestre](indices/decisao-antiga-1999-s2.md) | 391 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1998](indices/decisao-antiga-1998.md) | 420 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1997](indices/decisao-antiga-1997.md) | 306 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1996](indices/decisao-antiga-1996.md) | 193 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1995](indices/decisao-antiga-1995.md) | 104 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1994](indices/decisao-antiga-1994.md) | 129 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1993](indices/decisao-antiga-1993.md) | 102 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1992](indices/decisao-antiga-1992.md) | 372 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1991](indices/decisao-antiga-1991.md) | 222 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1990](indices/decisao-antiga-1990.md) | 184 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1989](indices/decisao-antiga-1989.md) | 134 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1988](indices/decisao-antiga-1988.md) | 206 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1987](indices/decisao-antiga-1987.md) | 236 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1986](indices/decisao-antiga-1986.md) | 201 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1985](indices/decisao-antiga-1985.md) | 139 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1984](indices/decisao-antiga-1984.md) | 118 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1983](indices/decisao-antiga-1983.md) | 101 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1982](indices/decisao-antiga-1982.md) | 103 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1981](indices/decisao-antiga-1981.md) | 102 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1980](indices/decisao-antiga-1980.md) | 123 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1979](indices/decisao-antiga-1979.md) | 79 |
+| Decisões antigas (1978 a 2001) (uma linha por decisão) | [1978](indices/decisao-antiga-1978.md) | 48 |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [2026](indices/acordao-crsfn-2026.md) | 21 |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [2025](indices/acordao-crsfn-2025.md) | 48 |
 | Acórdãos do CRSFN (recursos contra decisões da CVM) | [2024](indices/acordao-crsfn-2024.md) | 59 |

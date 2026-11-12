@@ -22,6 +22,10 @@ jobs:
           python3 scripts/validar.py julgados
       - name: Índice em dia (desatualizado = falha)
         run: python3 scripts/indice.py --verificar
+      - name: Fichas em dia (desatualizada = falha)
+        run: python3 scripts/fichas.py --verificar
+      - name: Plugin dentro dos limites e fichas consistentes
+        run: python3 scripts/validar_plugin.py
 
   varredura:
     # Fase 4, C19: CPF, RG e caractere de controle nos arquivos alterados do PR, sem a lista

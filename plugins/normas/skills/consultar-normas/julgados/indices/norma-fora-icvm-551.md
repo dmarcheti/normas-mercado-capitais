@@ -3,24 +3,24 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 19957.001231/2021-01; 19957.011421/2019-11 | 2025-07-15 | parcial | ofertas-publicas | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. CERTIFICADOS DE RECEBÍVEIS IMOBILIÁRIOS (CRI). VIOLAÇÃO AO DEVER DE DILIGÊNCIA. DOCUMENTOS PRECÁRIOS, DESTITUÍDOS DE DATA E ASSINATURA, E SEM INDICAÇÃO DAS FONTES CONSULTADAS E PREMISSAS ADOTADAS NOS ESTUDOS. NÃO DIVULGAÇÃO DE CONFLITO DE INTERESSES. NÃO COMUNICAÇÃO DO INÍCIO E ENCERRAMENTO DA OFERTA À CVM E NÃO MANUTENÇÃO DA LISTA DE INVESTIDORES PROCURADOS. Infrações caracterizadas, exceto quanto ao conflito de interesse entre agentes da oferta. Dosimetria das penas adequada. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2025/10372-000164-2024-48.md |
-| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | securitizacao | Possíveis irregularidades em emissão de debêntures e emissão de certificados de recebíveis imobiliários – operações fraudulentas (Instrução CVM nº 08/79), falhas informacionais (art. 10 e 11 da Instrução CVM nº 476/09), entre outros. Multas e Absolvições. | ../../../../../julgados/cvm/pas/2024/19957-004810-2019-82.md |
-| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | ofertas-publicas | Apurar infrações à Instrução CVM nº 476/2009 no âmbito da oferta pública com esforços restritos de distribuição dos certificados de recebíveis imobiliários – CRI da 3ª série da 1ª emissão da Infrasec Securitizadora S.A. Multa, Extinção do Processo. | ../../../../../julgados/cvm/pas/2024/19957-001231-2021-01.md |
-| decisao-colegiado | 476/2009; 19957.008629/2021-60 | 2021-11-23 | indeferido | ofertas-publicas | O Colegiado, por unanimidade, indeferiu pedido de dispensa do art. 15, §3º, II, da Instrução CVM nº 476/2009 formulado por seis companhias que queriam negociar livremente suas ações antes do prazo de 18 meses. Divergiu da SRE quanto ao arquivamento de prospecto extraordinário e acompanhou as áreas técnicas, pela relevância das regras informacionais e de suitability. | ../../../../../julgados/cvm/colegiado/2021/col-20211123-d2394.md |
-| decisao-colegiado | 19957.006433/2021-31; 19957.006430/2021-05 | 2021-09-14 | deferido | ofertas-publicas | O Colegiado deferiu, por unanimidade, pedidos da Solar Bebidas S.A. de dispensa dos arts. 32, II, e 32-A da ICVM 400 e do §3º do art. 2º da ICVM 480, exigidos de companhias pré-operacionais, com base nas demonstrações financeiras combinadas, ressalvada a análise posterior de informações complementares pelas áreas técnicas. | ../../../../../julgados/cvm/colegiado/2021/col-20210914-d2306.md |
-| decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | ofertas-publicas | O Colegiado concedeu à Monte Rodovias S.A. dispensas de requisitos das ICVM 400 e 480 aplicáveis a emissor pré-operacional, acompanhando a SEP. Segundo a SEP, as controladas são operacionais e as demonstrações de 30.06.2021 comprovam a operacionalidade, embora fora da literalidade do art. 2º, §5º, da ICVM 480. | ../../../../../julgados/cvm/colegiado/2021/col-20210817-d2272.md |
-| decisao-colegiado | 19957.002555/2021-58 | 2021-04-27 | nao-provido | ofertas-publicas | O Colegiado negou provimento a recurso de FS S.A. e Banco Morgan Stanley contra entendimento da SEP e da SRE de que a emissora é pré-operacional (ICVM 480, art. 2º, §5º). Os recorrentes podem pedir dispensas de estudo de viabilidade e de restrição do público-alvo. | ../../../../../julgados/cvm/colegiado/2021/col-20210427-d2144.md |
-| decisao-colegiado | 19957.002355/2021-03 | 2021-03-23 | deferido | ofertas-publicas | O Colegiado, por unanimidade, acompanhando a SRE, concedeu dispensa do art. 13 da Instrução CVM 476/2009 (vedação à negociação por 90 dias) para oferta pública secundária, com esforços restritos, de debêntures da Vale S.A. de titularidade do BNDES, do BNDES Participações e do Governo Federal. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2113.md |
-| decisao-colegiado | 19957.004933/2020-57 | 2020-08-11 | outro | ofertas-publicas | O Colegiado entendeu possível não aplicar o direito de preferência do art. 253 da Lei 6.404/76 em oferta com esforços restritos (ICVM 476) após reorganização societária, com base no art. 172, I, e estender por analogia o art. 9º-A da ICVM 476 para dar prioridade aos acionistas da controladora, observadas as condições da SRE. | ../../../../../julgados/cvm/colegiado/2020/col-20200811-d1876.md |
-| pas | RJ2014/577 | 2017-12-11 | absolvicao | informacao-privilegiada | Uso indevido de informação privilegiada. Absolvições. | ../../../../../julgados/cvm/pas/2017/rj2014-0577.md |
-| decisao-colegiado | RJ2014/13261 | 2016-06-28 | outro | ofertas-publicas | O Colegiado, em consulta do Banco Itaú BBA S.A. e outro, admitiu lote suplementar em ofertas com esforços restritos, outorgável por emissor ou acionista vendedor; não admitiu exclusão da prioridade no lote suplementar para estabilização; não permitiu estabilização sem normatização; determinou à SDM avaliar reforma da Instrução 476. | ../../../../../julgados/cvm/colegiado/2016/col-20160628-d9828.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 19957.001231/2021-01; 19957.011421/2019-11 | 2025-07-15 | parcial | crsfn-10372-000164-2024-48 | fichas/crsfn/2025-03.md |
+| pas | 19957.004810/2019-82 | 2024-09-03 | parcial | cvm-pas-19957-004810-2019-82 | fichas/pas/2024-07.md |
+| pas | 19957.001231/2021-01 | 2024-06-20 | parcial | cvm-pas-19957-001231-2021-01 | fichas/pas/2024-04.md |
+| decisao-colegiado | 476/2009; 19957.008629/2021-60 | 2021-11-23 | indeferido | cvm-col-20211123-d2394 | fichas/colegiado/2021-20.md |
+| decisao-colegiado | 19957.006433/2021-31; 19957.006430/2021-05 | 2021-09-14 | deferido | cvm-col-20210914-d2306 | fichas/colegiado/2021-15.md |
+| decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |
+| decisao-colegiado | 19957.002555/2021-58 | 2021-04-27 | nao-provido | cvm-col-20210427-d2144 | fichas/colegiado/2021-07.md |
+| decisao-colegiado | 19957.002355/2021-03 | 2021-03-23 | deferido | cvm-col-20210323-d2113 | fichas/colegiado/2021-05.md |
+| decisao-colegiado | 19957.004933/2020-57 | 2020-08-11 | outro | cvm-col-20200811-d1876 | fichas/colegiado/2020-13.md |
+| pas | RJ2014/577 | 2017-12-11 | absolvicao | cvm-pas-rj2014-0577 | fichas/pas/2017-05.md |
+| decisao-colegiado | RJ2014/13261 | 2016-06-28 | outro | cvm-col-20160628-d9828 | fichas/colegiado/2016-13.md |
 
 Fim do subíndice.

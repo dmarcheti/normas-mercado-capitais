@@ -3,42 +3,42 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23, § 2º | acordao-crsfn | IA-2000/25 | 2005-02-23 | extincao | processual | RECURSOS VOLUNTÁRIO E DE OFÍCIO – Mercado de valores mobiliários – Prática não-equitativa (aquisição de ações de prefeitura municipal com revenda quase simultânea dos papéis e auferimento de elevados lucros) -Operações alcançadas pela prescrição - Transferência de ações na custódia, com base em procuração outorgada, sem configurar negociação - Inimputabilidade da corretora apenada - Recurso de ofício improvido. | ../../../../../julgados/crsfn/2005/5957.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23, § 2º | acordao-crsfn | IA-2000/25 | 2005-02-23 | extincao | crsfn-5957 | fichas/crsfn/2005-01.md |
 
 ## art. 40
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 40 | decisao-antiga | — | 1980-01-07 | — | — | Decisões do colegiado de 1980. | ../../../../../julgados/cvm/decisoes-antigas/1980.md |
-| art. 40 | decisao-antiga | — | 1984-01-05 | — | — | Decisões do colegiado de 1984. | ../../../../../julgados/cvm/decisoes-antigas/1984.md |
-| art. 40 | decisao-antiga | — | 1990-01-03 | — | — | Decisões do colegiado de 1990. | ../../../../../julgados/cvm/decisoes-antigas/1990.md |
-| art. 40 | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | ../../../../../julgados/cvm/decisoes-antigas/1995.md |
-| art. 40 | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
-| art. 40 | decisao-antiga | — | 1997-01-13 | — | — | Decisões do colegiado de 1997. | ../../../../../julgados/cvm/decisoes-antigas/1997.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 40 | decisao-antiga | — | 1980-01-07 | — | cvm-dec-1980-0001 | fichas/decisoes-antigas/1980-05.md |
+| art. 40 | decisao-antiga | — | 1984-01-05 | — | cvm-dec-1984-0001 | fichas/decisoes-antigas/1984-04.md |
+| art. 40 | decisao-antiga | — | 1990-01-03 | — | cvm-dec-1990-0001 | fichas/decisoes-antigas/1990-06.md |
+| art. 40 | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
+| art. 40 | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
+| art. 40 | decisao-antiga | — | 1997-01-13 | — | cvm-dec-1997-0001 | fichas/decisoes-antigas/1997-12.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | exercicio-irregular | RECURSOS VOLUNTÁRIOS. Exercício da atividade de agente autônomo e administração de carteiras de valores mobiliários sem autorização da CVM por agente vinculado à sociedade de agentes autônomos. Omissão da corretora em investigar os indícios de irregularidades a que teve acesso. Irregularidades concretizadas. Recursos voluntários parcialmente providos. Proporcionalidade. Multas. | ../../../../../julgados/crsfn/2020/14241.md |
-| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | processual | RECURSOS VOLUNTÁRIOS. Não Divulgação de Fato Relevante. Contabilização Inadequada de valores no balanço. Desvio de Poder. Fluência do prazo trienal da prescrição intercorrente (Lei nº 9.873/1999, art. 1º, §1º) antes da instauração formal do processo administrativo sancionador pela citação dos acusados. Superação de entendimento jurisprudencial anteriormente pacificado no CRSFN em sentido contrário (Overruling). Impossibilidade de desconstituição de ato/processo plenamente constituído com fundamento em mudança posterior de orientação geral (LINDB, art. 24, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, art.5º, caput e §1º). Modulação dos efeitos da nova orientação geral. Adoção de regime de transição (LINDB, art. 23, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, arts. 6º e 7º). Recursos parcialmente providos. | ../../../../../julgados/crsfn/2020/10372-000204-2016-41.md |
-| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | processual | RECURSOS VOLUNTÁRIOS Operações cursadas para ajustar o resultado esperado a título de taxa de performance. Fluência do prazo trienal da prescrição intercorrente (Lei nº 9.873/1999, art. 1º, §1º) antes da instauração formal do processo administrativo sancionador pela citação dos acusados. Superação de entendimento jurisprudencial anteriormente pacificado no CRSFN em sentido contrário (Overruling). Impossibilidade de desconstituição de ato/processo plenamente constituído com fundamento em mudança posterior de orientação geral (LINDB, art. 24, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, art.5º, caput e §1º). Modulação dos efeitos da nova orientação geral. Adoção de regime de transição (LINDB, art. 23, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, arts. 6º e 7º). Desprovimento dos recursos. | ../../../../../julgados/crsfn/2020/10372-000470-2016-74.md |
-| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | processual | RECURSOS VOLUNTÁRIOS. Abuso do poder de controle. Descumprimento do dever de diligência. Não divulgação de fato relevante. Violação de princípios contábeis. Demonstrações financeiras incompletas. Fluência do prazo trienal da prescrição intercorrente (Lei nº 9.873/1999, art. 1º, §1º) antes da instauração formal do processo administrativo sancionador pela citação dos acusados. Superação de entendimento jurisprudencial anteriormente pacificado no CRSFN em sentido contrário (Overruling). Impossibilidade de desconstituição de ato/processo plenamente constituído com fundamento em mudança posterior de orientação geral (LINDB, art. 24, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, art.5º, caput e §1º). Modulação dos efeitos da nova orientação geral. Adoção de regime de transição (LINDB, art. 23, segundo a Lei nº 13.655/2018 c/c Decreto nº 9.830/2019, arts. 6º e 7º). Desprovimento dos recursos. | ../../../../../julgados/crsfn/2020/10372-000380-2016-83.md |
-| decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | outros | Pedido de investidores não residentes de autorização prévia para transferir ações da Lojas Americanas S.A. e da São Carlos Empreendimentos e Participações em reestruturação societária no exterior (art. 8º da Instrução 325/00; art. 9º, parágrafo único, da Resolução CMN 2.689/00). O relator votou pelo indeferimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2010/col-20100413-d06.md |
-| decisao-colegiado | RJ2009/12985 | 2009-12-22 | deferido | ofertas-publicas | O Colegiado autorizou o Banco Cruzeiro do Sul S.A. a alienar ações em tesouraria em oferta pública secundária em balcão não organizado, nos termos do art. 23 da Instrução CVM 10/80, em linha com precedentes. A área técnica (Memo/CVM/SEP/GEA-3/Nº 386/09) manifestou-se favoravelmente; o anexo opinou contra, por falta de justificativa para o balcão. | ../../../../../julgados/cvm/colegiado/2009/col-20091222-d33.md |
-| decisao-colegiado | RJ2007/12218 | 2008-01-08 | deferido | opa | O Colegiado autorizou a Cosan Limited a adotar procedimento diferenciado na OPA voluntária sobre ações da Cosan Indústria e Comércio S.A., com permuta por Ações Classe A e Classe B2 não admitidas à negociação, além do BDR, com base no art. 33, §1º, I, da Instrução CVM 361/02, por já haver permuta por BDR e divulgação prévia das alternativas. | ../../../../../julgados/cvm/colegiado/2008/col-20080108-d09.md |
-| decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa do estudo de viabilidade econômico-financeira da Bovespa Holding S.A., condicionada a seção específica no prospecto com os fundamentos do pedido, custos e benefícios da nova estrutura e aspectos tributários. Deliberou emitir ato normativo para delegar à SRE dispensas em casos idênticos. | ../../../../../julgados/cvm/colegiado/2007/col-20071002-d09.md |
-| pas | 09/1997 | 2006-12-13 | parcial | deveres-administradores | BANESPA - Práticas irregulares na administração e na gestão de negócios do Banco do Estado de São Paulo S.A. - BANESPA, durante os exercícios sociais de 1990 a 1994. Inabilitações e absolvições. | ../../../../../julgados/cvm/pas/2006/09-1997.md |
-| pas | 34/2000 | 2004-09-16 | parcial | fundos-investimento | Infração aos artigos 5º, §3º, da Instrução CVM nº 215/94 e art. 64 da Instrução CVM nº 215/94. Não configuração de infração aos arts. 2º e 11, incisos VII e IX, ambos da Instrução CVM nº 82/88. Não configuração de infração aos artigos 6º, § 3º, 32, caput e parágrafo único, 52, parágrafos 1º e 2º, todos da Instrução CVM nº 215/94. | ../../../../../julgados/cvm/pas/2004/34-2000.md |
-| decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | infraestrutura-mercado | O Colegiado acompanhou o voto do diretor-relator e deu provimento a recurso do Banco Sudameris contra entendimento da SEP de que a transferência de ações ocorrida em 31/03/2003 apresentava irregularidades passíveis de apuração em processo administrativo. | ../../../../../julgados/cvm/colegiado/2004/col-20040601-d01.md |
-| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | SP2012/218 | 2020-10-20 | parcial | crsfn-14241 | fichas/crsfn/2020-06.md |
+| acordao-crsfn | 08/2012 | 2020-09-15 | parcial | crsfn-10372-000204-2016-41 | fichas/crsfn/2020-04.md |
+| acordao-crsfn | 04/2013 | 2020-08-18 | condenacao | crsfn-10372-000470-2016-74 | fichas/crsfn/2020-04.md |
+| acordao-crsfn | IA-2011-2 | 2020-08-18 | condenacao | crsfn-10372-000380-2016-83 | fichas/crsfn/2020-04.md |
+| decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | cvm-col-20100413-d06 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/12985 | 2009-12-22 | deferido | cvm-col-20091222-d33 | fichas/colegiado/2009-25.md |
+| decisao-colegiado | RJ2007/12218 | 2008-01-08 | deferido | cvm-col-20080108-d09 | fichas/colegiado/2008-01.md |
+| decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | cvm-col-20071002-d09 | fichas/colegiado/2007-18.md |
+| pas | 09/1997 | 2006-12-13 | parcial | cvm-pas-09-1997 | fichas/pas/2006-14.md |
+| pas | 34/2000 | 2004-09-16 | parcial | cvm-pas-34-2000 | fichas/pas/2004-06.md |
+| decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | cvm-col-20040601-d01 | fichas/colegiado/2004-06.md |
+| decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 Fim do subíndice.

@@ -3,62 +3,62 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/instrucoes/0489.md](../../normas/cvm/instrucoes/0489.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2014/11830 | 2016-11-29 | condenacao | auditoria-independente | Inobservância das normas emanadas do Conselho Federal de Contabilidade e dos Pronunciamentos Técnicos do IBRACON. Ausência de procedimentos para a obtenção do entendimento do controle interno das entidades auditadas. Não emissão de Relatório Circunstanciado. Multas. | ../../../../../julgados/cvm/pas/2016/rj2014-11830.md |
-| art. 3º, § 2º | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | parcial | fundos-investimento | O Colegiado acolheu, por unanimidade, o pleito da ANFIDC para afastar a exigência de trânsito em julgado da homologação do plano do cedente, para FIDC em geral. Por maioria, em linha com a SIN, negou a aquisição, por FIDC padronizado, de créditos com coobrigação de cedente em recuperação judicial ou extrajudicial. | ../../../../../julgados/cvm/colegiado/2016/col-20160906-d0301.md |
-| art. 3º, § 2º, inciso III | decisao-colegiado | 19957.010159/2018-07 | 2019-04-09 | deferido | intermediacao | O Colegiado concedeu, por unanimidade, ao Banco GMAC S.A. dispensa da Instrução CVM 505/11 e do Comunicado CETIP 009/2013, acompanhando a SMI. Fundamento: a SMI entendeu que as aplicações em cotas subordinadas do FIDC GMAC são cessão de recebíveis, não intermediação. A dispensa perde eficácia se o banco passar a intermediar em mercados regulamentados. | ../../../../../julgados/cvm/colegiado/2019/col-20190409-d1372.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | pas | RJ2014/11830 | 2016-11-29 | condenacao | cvm-pas-rj2014-11830 | fichas/pas/2016-07.md |
+| art. 3º, § 2º | decisao-colegiado | 19957.004284/2016-16 | 2016-09-06 | parcial | cvm-col-20160906-d0301 | fichas/colegiado/2016-17.md |
+| art. 3º, § 2º, inciso III | decisao-colegiado | 19957.010159/2018-07 | 2019-04-09 | deferido | cvm-col-20190409-d1372 | fichas/colegiado/2019-06.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | decisao-colegiado | — | 2011-07-12 | — | fundos-investimento | O Colegiado não adiou a vigência da Instrução CVM 489/11 (FIDC), determinou à área técnica solução, ainda que temporária, para receber os Informes Mensais, fixou que o novo Informe é devido a partir do novo exercício social de cada fundo e acompanhou a SIN na avaliação de ativos de FIDC-NP pela Deliberação CVM 604/09. Um item foi retirado de pauta. | ../../../../../julgados/cvm/colegiado/2011/col-20110712-d06.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | decisao-colegiado | — | 2011-07-12 | — | cvm-col-20110712-d06 | fichas/colegiado/2011-14.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.021153/2024-03 | 2025-08-06 | outro | normativo | O Colegiado aprovou, conforme proposta da SNC, a alteração da agenda regulatória de 2025: retirou temas como a revisão das normas de fundos estruturados e dos FIF e incluiu cinco novos, como a edição da Resolução CVM 227/2025 e a revisão do CPC 28. | ../../../../../julgados/cvm/colegiado/2025/col-20250806-d3194.md |
-| decisao-colegiado | 19957.021153/2024-03 | 2024-12-17 | outro | normativo | O Colegiado aprovou a agenda de normatização da SNC para 2025 (itens A, de normas, e B, de outros temas). O tema “Contabilização de ativos digitais” ficou na Lista de Reserva, fora da agenda, podendo entrar conforme a disponibilidade de recursos humanos. | ../../../../../julgados/cvm/colegiado/2024/col-20241217-d3194.md |
-| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | manipulacao-fraude | Apurar eventual prática de operação fraudulenta na gestão de Fundos de Investimento em Direitos Creditórios - FIDCs, em infração à Instrução CVM nº 08/1979, e supostas falhas ou irregularidades cometidas na administração e/ou na custódia dos Fundos, em infração às Instruções CVM nºs 356/2001 e 542/2013. Multas e Absolvições. | ../../../../../julgados/cvm/pas/2024/19957-006858-2019-25.md |
-| decisao-colegiado | — | 2024-01-26 | outro | normativo | O Colegiado aprovou a agenda de normatização contábil da SNC para 2024: três normas a editar, cinco consultas públicas sem AIR (entre elas IFRS S1 e S2) e oito outros temas, como ofício circular e cartas comentário. Projetos da lista de reserva ficam fora da agenda. | ../../../../../julgados/cvm/colegiado/2024/col-20240126-d3019.md |
-| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | normativo | O Colegiado aprovou a revisão da agenda regulatória de 2023 da SNC, com retirada de itens (ICVM 516, 489, 579 e 577; OCPC 06; OCPC sobre ativos digitais). Determinou resolução para adoção voluntária das IFRS S1 e S2 no exercício de 2024, com base nos textos originais do ISSB em inglês. A minuta será apreciada em reunião de regulação. | ../../../../../julgados/cvm/colegiado/2023/col-20230816-d2795.md |
-| decisao-colegiado | — | 2022-12-14 | outro | normativo | O Colegiado deliberou sobre a agenda regulatória da CVM para 2023, proposta pela SNC: revisões das normas de fundos (ICVM 516, 489, 579 e 577), normas de convergência contábil (CPCs, OCPCs, IFRS) e outros temas para consulta pública e edição. | ../../../../../julgados/cvm/colegiado/2022/col-20221214-d2795.md |
-| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | normativo | O Colegiado aprovou a Resolução CVM 7/2020, que revoga 1 instrução, 10 deliberações e 13 notas explicativas sem aplicação prática, em atendimento ao art. 12 do Decreto 10.139/19. Vigência na publicação, junto com a Portaria CVM/PTE 109/2020, que lista os atos normativos vigentes. | ../../../../../julgados/cvm/colegiado/2020/col-20200929-d1738.md |
-| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | auditoria-independente | Recursos Voluntários. Auditoria Independente. Emissão de parecer de auditoria sobre as demonstrações financeiras sem qualquer ressalva, deixando de observar o disposto nas normas profissionais de auditoria independente. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2018/14420.md |
-| decisao-colegiado | 19957.001176/2017-64 | 2017-03-07 | deferido | fundos-investimento | O Colegiado deferiu pedido da ANBIMA de prorrogação do prazo para entrega do novo informe mensal de FIDC (Instrução CVM 576/2016), acompanhando a SIN. A obrigatoriedade passa a valer no 5º mês subsequente à disponibilização do modelo em produção no CVMWeb; a SIN publicará Ofício-Circular. | ../../../../../julgados/cvm/colegiado/2017/col-20170307-d0598.md |
-| decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20161121-d5347.md |
-| decisao-colegiado | 04/2015; 19957.003591/2015-91 | 2016-06-14 | outro | fundos-investimento | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SNC 04/2015, que altera o Informe Mensal dos FIDCs (Anexo A da Instrução CVM 489/2011), com efeitos a partir do informe de fevereiro de 2017. Inclui prazo mínimo entre pedido e conversão de resgate, campos de séries seniores e de provisões. | ../../../../../julgados/cvm/colegiado/2016/col-20160614-d6789.md |
-| decisao-colegiado | RJ2013/12941 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12941. | ../../../../../julgados/cvm/colegiado/2016/col-20160607-d0240.md |
-| decisao-colegiado | RJ2013/12939 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12939. | ../../../../../julgados/cvm/colegiado/2016/col-20160607-d0239.md |
-| decisao-colegiado | RJ2013/12385 | 2016-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12385. | ../../../../../julgados/cvm/colegiado/2016/col-20160607-d0237.md |
-| decisao-colegiado | — | 2016-05-04 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20160504-d5347.md |
-| decisao-colegiado | RJ2013/12424 | 2016-02-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12424. | ../../../../../julgados/cvm/colegiado/2016/col-20160216-d0079.md |
-| decisao-colegiado | 19957.003591/2015-91 | 2015-12-15 | outro | normativo | O Colegiado aprovou a colocação em audiência pública, por 30 dias, de minuta de instrução que altera o Informe Mensal dos FIDCs (Anexo A da ICVM 489/2011), com prazo mínimo entre pedido e conversão de resgate, campos de provisões, séries seniores e garantias. A SNC consolidará as contribuições. | ../../../../../julgados/cvm/colegiado/2015/col-20151215-d6789.md |
-| pas | RJ2011/10415 | 2014-12-02 | parcial | fundos-investimento | Descumprimento de várias das atribuições inerentes aos administradores de Fundos –Inobservância dos deveres regulamentares do custodiante – Não divulgação das decisões das assembleias gerais dos Fundos – Descumprimento do dever de diligência por parte da instituição administradora de Fundos. Absolvições e multas. | ../../../../../julgados/cvm/pas/2014/rj2011-10415.md |
-| decisao-colegiado | RJ2013/12286 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12286. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d09.md |
-| decisao-colegiado | RJ2013/12279 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12279. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d08.md |
-| decisao-colegiado | RJ2013/12278 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12278. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d07.md |
-| decisao-colegiado | RJ2013/12277 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12277. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d06.md |
-| decisao-colegiado | RJ2013/12276 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12276. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d05.md |
-| decisao-colegiado | RJ2013/12275 | 2014-11-25 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12275. | ../../../../../julgados/cvm/colegiado/2014/col-20141125-d04.md |
-| decisao-colegiado | RJ2013/12938 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12938. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d24.md |
-| decisao-colegiado | RJ2013/12285 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12285. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d14.md |
-| decisao-colegiado | RJ2013/12280 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12280. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d13.md |
-| decisao-colegiado | RJ2013/12284 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12284. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d12.md |
-| decisao-colegiado | RJ2013/12283 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12283. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d11.md |
-| decisao-colegiado | RJ2013/12282 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12282. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d10.md |
-| decisao-colegiado | RJ2013/12281 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12281. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d09.md |
-| decisao-colegiado | RJ2013/12274 | 2014-11-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12274. | ../../../../../julgados/cvm/colegiado/2014/col-20141118-d08.md |
-| decisao-colegiado | 489/2011; RJ2009/12393 | 2011-08-30 | outro | normativo | O Colegiado aprovou a edição de Instrução e Nota Explicativa que alteram os anexos A a D da Instrução CVM 489/11 sobre demonstrações financeiras de FIDC, FIC-FIDC, FIDC-PIPS e FIDC-NP, apresentadas pela SNC, e a divulgação de Ofício-Circular CVM/SIN/SNC com orientações de implementação. Segundo o título, trata da classificação contábil das cotas sênior. | ../../../../../julgados/cvm/colegiado/2011/col-20110830-d02.md |
-| decisao-colegiado | RJ2011/6737 | 2011-08-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2011/6737. | ../../../../../julgados/cvm/colegiado/2011/col-20110823-d06.md |
-| decisao-colegiado | — | 2011-08-09 | outro | contabil-demonstracoes | O Colegiado decidiu que a cota sênior de FIDC pode e deve ser classificada no patrimônio líquido do fundo, considerando a Instrução CVM 356/01 e as características dessas cotas, não tratadas nas normas internacionais. Determinou a alteração dos anexos A a D da Instrução CVM 489/11 e a emissão de nota explicativa. | ../../../../../julgados/cvm/colegiado/2011/col-20110809-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.021153/2024-03 | 2025-08-06 | outro | cvm-col-20250806-d3194 | fichas/colegiado/2025-07.md |
+| decisao-colegiado | 19957.021153/2024-03 | 2024-12-17 | outro | cvm-col-20241217-d3194 | fichas/colegiado/2024-14.md |
+| pas | 19957.006858/2019-25 | 2024-10-15 | parcial | cvm-pas-19957-006858-2019-25 | fichas/pas/2024-08.md |
+| decisao-colegiado | — | 2024-01-26 | outro | cvm-col-20240126-d3019 | fichas/colegiado/2024-01.md |
+| decisao-colegiado | 19957.009517/2023-98 | 2023-08-16 | outro | cvm-col-20230816-d2795 | fichas/colegiado/2023-09.md |
+| decisao-colegiado | — | 2022-12-14 | outro | cvm-col-20221214-d2795 | fichas/colegiado/2022-17.md |
+| decisao-colegiado | 19957.011044/2019-11 | 2020-09-29 | outro | cvm-col-20200929-d1738 | fichas/colegiado/2020-16.md |
+| acordao-crsfn | RJ2013/9762 | 2018-04-25 | condenacao | crsfn-14420 | fichas/crsfn/2018-03.md |
+| decisao-colegiado | 19957.001176/2017-64 | 2017-03-07 | deferido | cvm-col-20170307-d0598 | fichas/colegiado/2017-05.md |
+| decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 04/2015; 19957.003591/2015-91 | 2016-06-14 | outro | cvm-col-20160614-d6789 | fichas/colegiado/2016-12.md |
+| decisao-colegiado | RJ2013/12941 | 2016-06-07 | nao-provido | cvm-col-20160607-d0240 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | RJ2013/12939 | 2016-06-07 | nao-provido | cvm-col-20160607-d0239 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | RJ2013/12385 | 2016-06-07 | nao-provido | cvm-col-20160607-d0237 | fichas/colegiado/2016-11.md |
+| decisao-colegiado | — | 2016-05-04 | outro | cvm-col-20160504-d5347 | fichas/colegiado/2016-09.md |
+| decisao-colegiado | RJ2013/12424 | 2016-02-16 | nao-provido | cvm-col-20160216-d0079 | fichas/colegiado/2016-04.md |
+| decisao-colegiado | 19957.003591/2015-91 | 2015-12-15 | outro | cvm-col-20151215-d6789 | fichas/colegiado/2015-24.md |
+| pas | RJ2011/10415 | 2014-12-02 | parcial | cvm-pas-rj2011-10415 | fichas/pas/2014-05.md |
+| decisao-colegiado | RJ2013/12286 | 2014-11-25 | nao-provido | cvm-col-20141125-d09 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12279 | 2014-11-25 | nao-provido | cvm-col-20141125-d08 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12278 | 2014-11-25 | nao-provido | cvm-col-20141125-d07 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12277 | 2014-11-25 | nao-provido | cvm-col-20141125-d06 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12276 | 2014-11-25 | nao-provido | cvm-col-20141125-d05 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12275 | 2014-11-25 | nao-provido | cvm-col-20141125-d04 | fichas/colegiado/2014-23.md |
+| decisao-colegiado | RJ2013/12938 | 2014-11-18 | nao-provido | cvm-col-20141118-d24 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12285 | 2014-11-18 | nao-provido | cvm-col-20141118-d14 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12280 | 2014-11-18 | nao-provido | cvm-col-20141118-d13 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12284 | 2014-11-18 | nao-provido | cvm-col-20141118-d12 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12283 | 2014-11-18 | nao-provido | cvm-col-20141118-d11 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12282 | 2014-11-18 | nao-provido | cvm-col-20141118-d10 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12281 | 2014-11-18 | nao-provido | cvm-col-20141118-d09 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | RJ2013/12274 | 2014-11-18 | nao-provido | cvm-col-20141118-d08 | fichas/colegiado/2014-22.md |
+| decisao-colegiado | 489/2011; RJ2009/12393 | 2011-08-30 | outro | cvm-col-20110830-d02 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | RJ2011/6737 | 2011-08-23 | nao-provido | cvm-col-20110823-d06 | fichas/colegiado/2011-17.md |
+| decisao-colegiado | — | 2011-08-09 | outro | cvm-col-20110809-d01 | fichas/colegiado/2011-15.md |
 
 Fim do subíndice.

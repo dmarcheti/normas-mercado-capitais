@@ -3,34 +3,34 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 19
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 19 | acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | manipulacao-fraude | RECURSO ADMINISTRATIVO. CVM. MANIPULAÇÃO DE PREÇOS. USO DE FATOS RELEVANTES E POSTAGENS EM REDES SOCIAIS. INSTRUÇÃO CVM nº 08/1979. Nulidades afastadas. Irregularidade caracterizada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2024/10372-100059-2020-84.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 19 | acordao-crsfn | RJ2013/8880 | 2024-05-08 | condenacao | crsfn-10372-100059-2020-84 | fichas/crsfn/2024-03.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | manipulacao-fraude | Fundo de Investimento em Participações (FIP). Prática de operação fraudulenta no mercado de valores mobiliários, conforme definida na letra “c” do item II da Instrução CVM n° 8, de 08.10.1979 e vedada pelo item I da norma. Infração ao art. 14, inciso I, “f”, da Instrução CVM nº 391, de 16.07.2003. Multas e absolvições. | ../../../../../julgados/cvm/pas/2022/19957-001921-2020-71.md |
-| decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | multa-cominatoria-taxa | O Colegiado deu provimento parcial a recurso contra multas cominatórias da SEP: anulou seis multas de R$ 15.000,00 relativas à AGO 2019 e manteve a de R$ 30.000,00 pelo Formulário de Referência 2020. Com base na SEP: documentos da AGO entregues no prazo; não há norma que permita entregar o FR fora do prazo. | ../../../../../julgados/cvm/colegiado/2022/col-20220215-d2474.md |
-| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS. Não divulgação de operações com partes relacionadas nas demonstrações financeiras e em formulário de referência. Divulgação necessária. Infrações configuradas. Ajuste na dosimetria para adequar as penas à jurisprudência deste Conselho. Recursos conhecidos e parcialmente providos. | ../../../../../julgados/crsfn/2021/10372-100291-2018-06.md |
-| pas | RJ2017/0136 | 2019-11-12 | condenacao | auditoria-independente | Ementa : Inobservância de normas contábeis. Infração aos arts. 20 e 25, I, a), da Instrução CVM n° 308/99. Multas. Data decisão CVM Tue Nov 12 16:23:00 BRST 2019 | ../../../../../julgados/cvm/pas/2019/rj2017-0136.md |
-| pas | RJ2015/13127 | 2019-08-20 | condenacao | auditoria-independente | Emissão de relatório de auditoria sem ressalvas sobre as demonstrações financeiras da Rossi Residencial S.A., relativas aos exercícios sociais findos em 31.12.2010 e 31.12.2011, sem observância de normas editadas pelo Conselho Federal de Contabilidade relativas à auditoria das demonstrações financeiras de companhia aberta. Infração ao art. 20 da Instrução CVM nº 308/99. Multas. Data decisão CVM Tue Aug 20 17:42:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2015-13127.md |
-| pas | 03/2011 | 2019-07-02 | parcial | contabil-demonstracoes | Irregularidades na composição e divulgação de Contingências Judiciais verificadas nos balanços da Brasil Telecom S.A. no período de 2005 a 2009. Infração ao art. 176, caput, art. 177, §3º e art. 153 da Lei nº 6.404/76 c/c itens 10 e 11(a) da Deliberação CVM nº 489/05. Infração ao art. 20 da Instrução CVM nº 308/99. Infração ao inciso II do parágrafo único do art. 1º da Instrução CVM nº 491/11. Absolvição. Multas. Data decisão CVM Tue Jul 02 17:36:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/03-2011.md |
-| pas | RJ2013/2759 | 2018-02-20 | parcial | assembleia-acionistas | Suposta omissão de informações a respeito da prática de remuneração e das outras fontes de financiamento da companhia. Absolvição – Informações incompletas e inconsistentes sobre a remuneração variável dos administradores e sobre a situação financeira da companhia. Advertência. Direito de voto reservado a acionistas minoritários na eleição em separado para membros do conselho fiscal denegado. Multa – Não divulgação dos serviços de administração imobiliária prestados pela Adrecor. Multas – Não divulgação das transações entre a Companhia e a sociedade Adrecor nos Formulários de Referência da Companhia de Seguros Aliança da Bahia. Multas. Data decisão CVM Tue Feb 20 00:00:00 BRT 2018 | ../../../../../julgados/cvm/pas/2018/rj2013-2759.md |
-| pas | RJ2014/918 | 2014-11-04 | parcial | contabil-demonstracoes | Descumprimento do dever de diligência - elaboração e aprovação das demonstrações financeiras em desacordo com as práticas contábeis aceitas no Brasil. Absolvição e multas. | ../../../../../julgados/cvm/pas/2014/rj2014-0918.md |
-| termo-compromisso | RJ2013/0144 | 2013-10-22 | aceito | contabil-demonstracoes | O Colegiado aceitou as duas propostas de termo de compromisso de diretores da Hotéis Othon S.A., de R$ 50.000,00 cada, acompanhando o parecer do Comitê, que as considerou conveniente e oportuna. Objeto: inconsistências nas demonstrações financeiras de 2010 e nos ITRs de 2010 e 2011 quanto a créditos com partes relacionadas e dívidas com a RFB. | ../../../../../julgados/cvm/colegiado/2013/col-20131022-d04.md |
-| decisao-colegiado | RJ2009/10850 | 2011-11-16 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da Inepar S.A. Indústria e Construções contra determinação da SEP de ajustes: (i) cobranças a clientes em 'Contas a Receber de Clientes a Faturar'; (ii) mensuração dos 'Títulos da Dívida Pública', inclusive os transferidos às controladas. Fundamentos da SEP: novo arcabouço contábil exige reanálise do primeiro; conservadorismo, no segundo. | ../../../../../julgados/cvm/colegiado/2011/col-20111116-d04.md |
-| decisao-colegiado | RJ2009/0981 | 2010-04-20 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento a recurso da FAABB contra decisão da SEP que não apontou irregularidade no reconhecimento, pelo BB, de superávit atuarial no 4T08. Pelo voto do relator, que acompanhou SEP e SNC, a liminar que suspendeu a Resolução CGPC 26/08 não impede esse reconhecimento, nos termos da Deliberação CVM 371/00. | ../../../../../julgados/cvm/colegiado/2010/col-20100420-d09.md |
-| decisao-colegiado | RJ2009/4163 | 2010-03-30 | nao-provido | divulgacao-informacoes | Recurso contra decisão da SEP em julgamento de processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2010/col-20100330-d15.md |
-| decisao-colegiado | RJ2009/5292 | 2010-03-30 | nao-provido | contabil-demonstracoes | O Colegiado indeferiu pedido de reconsideração da Terna Participações (Taesa) e manteve a decisão de 13.10.09 que determinou alterar práticas contábeis de receitas a partir de 2010, com comparativo com 2009, sem refazimento das demonstrações, por inexistência de fatos novos. O pleito alternativo, de efeito prospectivo, já fora atendido na decisão original. | ../../../../../julgados/cvm/colegiado/2010/col-20100330-d06.md |
-| decisao-colegiado | RJ2009/5292 | 2009-10-13 | nao-provido | contabil-demonstracoes | O Colegiado negou provimento ao recurso da Terna Participações S.A. contra entendimento da SEP sobre a receita de transmissão. Aplicação a partir de 2010, com efeitos retroativos para a comparação 2010/2009 e o primeiro ITR de 2010, sem refazimento das demonstrações, com comunicação ao mercado e aperfeiçoamento da nota explicativa. Fundamento: regime de competência, Deliberações 539/08 e 597/09. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d18.md |
-| decisao-colegiado | RJ2008/8148 | 2009-03-17 | provido | contabil-demonstracoes | O Colegiado, acompanhando o voto do relator, deu provimento ao recurso da Perdigão S.A. contra determinação da SEP, dispensando-a de segregar e amortizar parcelas do ágio decorrentes do valor de mercado dos ativos e da expectativa de resultados futuros, que poderão permanecer agregadas pela imaterialidade do ágio da mais-valia. Autorizou reapresentar os ITRs com as demonstrações. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.001921/2020-71 | 2022-11-08 | parcial | cvm-pas-19957-001921-2020-71 | fichas/pas/2022-05.md |
+| decisao-colegiado | 19957.008134/2021-31 | 2022-02-15 | parcial | cvm-col-20220215-d2474 | fichas/colegiado/2022-02.md |
+| acordao-crsfn | RJ2013-2759 | 2021-06-14 | parcial | crsfn-10372-100291-2018-06 | fichas/crsfn/2021-01.md |
+| pas | RJ2017/0136 | 2019-11-12 | condenacao | cvm-pas-rj2017-0136 | fichas/pas/2019-10.md |
+| pas | RJ2015/13127 | 2019-08-20 | condenacao | cvm-pas-rj2015-13127 | fichas/pas/2019-08.md |
+| pas | 03/2011 | 2019-07-02 | parcial | cvm-pas-03-2011 | fichas/pas/2019-06.md |
+| pas | RJ2013/2759 | 2018-02-20 | parcial | cvm-pas-rj2013-2759 | fichas/pas/2018-01.md |
+| pas | RJ2014/918 | 2014-11-04 | parcial | cvm-pas-rj2014-0918 | fichas/pas/2014-04.md |
+| termo-compromisso | RJ2013/0144 | 2013-10-22 | aceito | cvm-col-20131022-d04 | fichas/tc/2013-04.md |
+| decisao-colegiado | RJ2009/10850 | 2011-11-16 | nao-provido | cvm-col-20111116-d04 | fichas/colegiado/2011-25.md |
+| decisao-colegiado | RJ2009/0981 | 2010-04-20 | nao-provido | cvm-col-20100420-d09 | fichas/colegiado/2010-11.md |
+| decisao-colegiado | RJ2009/4163 | 2010-03-30 | nao-provido | cvm-col-20100330-d15 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2009/5292 | 2010-03-30 | nao-provido | cvm-col-20100330-d06 | fichas/colegiado/2010-10.md |
+| decisao-colegiado | RJ2009/5292 | 2009-10-13 | nao-provido | cvm-col-20091013-d18 | fichas/colegiado/2009-18.md |
+| decisao-colegiado | RJ2008/8148 | 2009-03-17 | provido | cvm-col-20090317-d01 | fichas/colegiado/2009-04.md |
 
 Fim do subíndice.

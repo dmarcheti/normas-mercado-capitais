@@ -3,65 +3,65 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0178.md](../../normas/cvm/resolucoes/0178.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º, inciso III | pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | exercicio-irregular | Apurar eventual responsabilidade por atuação irregular como agente autônomo de investimento e delegação a terceiros da execução de serviços privativos de agentes autônomos de investimento. Infração ao art. 3º, caput, e inciso II; art. 13, inciso VI; e art. 10, caput, todos da Instrução CVM nº 497/2011. Multas. | ../../../../../julgados/cvm/pas/2024/19957-009288-2019-25.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º, inciso III | pas | 19957.009288/2019-25 | 2024-03-19 | condenacao | cvm-pas-19957-009288-2019-25 | fichas/pas/2024-02.md |
 
 ## art. 15
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 15, inciso II | decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | intermediacao | O Colegiado deferiu, por unanimidade, o pedido da Fundação Escola Nacional de Seguros (ENS) para atuar como entidade certificadora de assessores de investimentos, em paralelo à Ancord, acompanhando a SMI. Seu exame passa a comprovar a qualificação do art. 15, II, da RCVM 178/2023. O pedido de credenciadora segue em análise. | ../../../../../julgados/cvm/colegiado/2024/col-20241015-d3154.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 15, inciso II | decisao-colegiado | 19957.003982/2023-15 | 2024-10-15 | deferido | cvm-col-20241015-d3154 | fichas/colegiado/2024-11.md |
 
 ## art. 23
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 23 | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | exercicio-irregular | Apurar infrações, por agente autônomo de investimentos, ao art. 23 da Lei nº 6.385/1976 c/c art. 2º da Instrução CVM nº 558/2015 c/c art. 13, inciso IV, da Instrução CVM nº 497/2011, pelo exercício irregular da administração de carteira de valores mobiliários; e ao art. 10 da Instrução CVM nº 497/2011, por manter clientes em erro sobre a situação de seus investimentos. Multa, Proibição Temporária. | ../../../../../julgados/cvm/pas/2024/19957-002296-2020-84.md |
-| art. 23 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | intermediacao | Apurar responsabilidade por suposta infração as regras de conduta de agente autônomo de investimento (caput do artigo 15 e artigo 18, inciso II da Resolução CVM nº 16/2021). Multa e Proibição Temporária. | ../../../../../julgados/cvm/pas/2024/19957-005325-2024-93.md |
-| art. 23 | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | intermediacao | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº 30/2021, por agente autônomo de investimento. Multas, Proibição Temporária e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-009162-2023-37.md |
-| art. 23 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 23 | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | cvm-pas-19957-002296-2020-84 | fichas/pas/2024-08.md |
+| art. 23 | pas | 19957.005325/2024-93 | 2024-12-18 | condenacao | cvm-pas-19957-005325-2024-93 | fichas/pas/2024-12.md |
+| art. 23 | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| art. 23 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
-| art. 25, inciso II | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | exercicio-irregular | Apurar infrações, por agente autônomo de investimentos, ao art. 23 da Lei nº 6.385/1976 c/c art. 2º da Instrução CVM nº 558/2015 c/c art. 13, inciso IV, da Instrução CVM nº 497/2011, pelo exercício irregular da administração de carteira de valores mobiliários; e ao art. 10 da Instrução CVM nº 497/2011, por manter clientes em erro sobre a situação de seus investimentos. Multa, Proibição Temporária. | ../../../../../julgados/cvm/pas/2024/19957-002296-2020-84.md |
-| art. 25, inciso II | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | manipulacao-fraude | Apurar infrações ao art. 3º da Instrução 306/1999 e art. 2º da Instrução CVM nº 558/2015, c/c art. 23, caput, da Lei nº 6.385/1976, pela administração irregular de carteiras de valores mobiliários, e ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores mobiliários. Multas e Proibição Temporária. | ../../../../../julgados/cvm/pas/2025/19957-001450-2022-62.md |
-| art. 25, inciso VI | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | exercicio-irregular | Apurar infrações, por agente autônomo de investimentos, ao art. 23 da Lei nº 6.385/1976 c/c art. 2º da Instrução CVM nº 558/2015 c/c art. 13, inciso IV, da Instrução CVM nº 497/2011, pelo exercício irregular da administração de carteira de valores mobiliários; e ao art. 10 da Instrução CVM nº 497/2011, por manter clientes em erro sobre a situação de seus investimentos. Multa, Proibição Temporária. | ../../../../../julgados/cvm/pas/2024/19957-002296-2020-84.md |
-| art. 25, inciso VI | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | manipulacao-fraude | Apurar infrações ao art. 3º da Instrução 306/1999 e art. 2º da Instrução CVM nº 558/2015, c/c art. 23, caput, da Lei nº 6.385/1976, pela administração irregular de carteiras de valores mobiliários, e ao item I c/c item II, alínea “c”, da Instrução CVM nº 08/1979, pela prática de operação fraudulenta no mercado de valores mobiliários. Multas e Proibição Temporária. | ../../../../../julgados/cvm/pas/2025/19957-001450-2022-62.md |
-| art. 25, inciso VI | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
-| art. 25, inciso VII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | intermediacao | Apurar infrações ao art. 18, incisos VII e VIII, e ao art. 15 da Resolução CVM nº 16/20021, bem como ao art. 3º da Resolução CVM nº 30/2021, por agente autônomo de investimento. Multas, Proibição Temporária e absolvição. | ../../../../../julgados/cvm/pas/2024/19957-009162-2023-37.md |
-| art. 25, inciso VII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| art. 25, inciso II | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | cvm-pas-19957-002296-2020-84 | fichas/pas/2024-08.md |
+| art. 25, inciso II | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
+| art. 25, inciso VI | pas | 19957.002296/2020-84 | 2024-10-08 | condenacao | cvm-pas-19957-002296-2020-84 | fichas/pas/2024-08.md |
+| art. 25, inciso VI | pas | 19957.001450/2022-62 | 2025-10-14 | condenacao | cvm-pas-19957-001450-2022-62 | fichas/pas/2025-04.md |
+| art. 25, inciso VI | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| art. 25, inciso VII | pas | 19957.009162/2023-37 | 2024-10-08 | parcial | cvm-pas-19957-009162-2023-37 | fichas/pas/2024-08.md |
+| art. 25, inciso VII | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
 
 ## art. 42
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 42, inciso I | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
-| art. 42, inciso III | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | exercicio-irregular | Apurar eventual recebimento irregular de valores na condição de Agente Autônomo de Investimentos nos termos do art. 13, II da Instrução CVM nº 497/2011 Multa. | ../../../../../julgados/cvm/pas/2023/19957-006473-2021-82.md |
-| art. 42, inciso III | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | intermediacao | Apurar a responsabilidade de assessor de investimento em razão da utilização de senhas e logins de clientes para a realização de operações em nome destes, bem como no envio de relatórios e extratos falsos com o objetivo de ocultar as perdas incorridas. Proibição Temporária, Multas | ../../../../../julgados/cvm/pas/2026/19957-011331-2025-61.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 42, inciso I | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
+| art. 42, inciso III | pas | 19957.006473/2021-82 | 2023-08-15 | condenacao | cvm-pas-19957-006473-2021-82 | fichas/pas/2023-05.md |
+| art. 42, inciso III | pas | 19957.011331/2025-61 | 2026-07-28 | condenacao | cvm-pas-19957-011331-2025-61 | fichas/pas/2026-02.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| termo-compromisso | 19957.011239/2025-09 | 2026-05-19 | rejeitado | manipulacao-fraude | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso de um emissor de ordens em opções: R$ 198.000,00 em 66 parcelas e 12 meses fora do mercado. A PFE apontou óbice pela falta de reparação dos danos; prejuízo à investidora: R$ 829.692,10. | ../../../../../julgados/cvm/colegiado/2026/col-20260519-d3531.md |
-| acordao-crsfn | 19957.002296/2020-84 | 2025-07-16 | condenacao | exercicio-irregular | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. AGENTE AUTÔNOMO DE INVESTIMENTOS. ATUAÇÃO IRREGULAR COMO ADMINISTRADOR DE CARTEIRAS. Ausência de autorização da Autarquia. Descumprimento do dever de agir com probidade, boa-fé e ética profissional. Irregularidade caracterizada. Dosimetria da pena adequada. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2025/19957-002296-2020-84.md |
-| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | manipulacao-fraude | Apurar eventuais irregularidades em operações em bolsa e intermediadas por ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda. e Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A., no período de 2.1.2013 a 28.2.2014. Multas e Absolvições. | ../../../../../julgados/cvm/pas/2024/19957-002595-2017-13.md |
-| acordao-crsfn | 19957.007266/2022-26 | 2024-12-03 | condenacao | exercicio-irregular | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE CAPITAIS. IRREGULARIDADES RELATIVAS À ATUAÇÃO IRREGULAR DE AGENTE AUTÔNOMO DE INVESTIMENTOS (AAI) NA OFERTA PÚBLICA DE DEBÊNTURES DE EMISSÃO DA EBPH PARTICIPAÇÕES S.A. Infrações caracterizadas. Dosimetria das penas adequada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2024/10372-000070-2024-79.md |
-| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | intermediacao | O Colegiado indeferiu os pedidos da ANCORD de nova prorrogação da entrada em vigor da RCVM 179 e de forma alternativa de divulgação de custos, por se tratar de revisão substancial da norma, após o Colegiado já ter afastado nova prorrogação. Acompanhou SDM e SMI. | ../../../../../julgados/cvm/colegiado/2024/col-20240910-d3133.md |
-| decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | intermediacao | Recurso em processo de mecanismo de ressarcimento de prejuízos. Proc. 19957.012626/2022-10. | ../../../../../julgados/cvm/colegiado/2024/col-20240206-d2990.md |
-| pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | exercicio-irregular | Apurar irregularidades relativas à atuação irregular de AAI no âmbito da oferta pública de debêntures de emissão da EBPH Participações S.A., em infração aos arts. 2º c/c 4º, 3º, inciso II, 14 e 17, inciso II, da Instrução CVM nº 497/2011. Multas. | ../../../../../julgados/cvm/pas/2023/19957-007266-2022-26.md |
-| acordao-crsfn | 19957.005057/2019-42; RJ2019/09315 | 2023-03-07 | parcial | intermediacao | RECURSOS VOLUNTÁRIOS. ATUAR COMO AGENTE AUTÔNOMO DE INVESTIMENTO SEM AUTORIZAÇÃO DA CVM. DELEGAÇÃO A TERCEIROS DA EXECUÇÃO DE SERVIÇOS OBJETO DE CONTRATO CELEBRADO COM INSTITUIÇÃO INTEGRANTE DO SISTEMA DE DISTRIBUIÇÃO DE VALORES MOBILIÁRIOS. Infração aos arts. 1º e 13, inciso VI, da Instrução CVM nº 497/2011 e ao art. 16, inciso III, da Lei nº 6.385/1976. Infrações caracterizadas. Ajuste na dosimetria das penas. Recursos conhecidos e parcialmente providos. | ../../../../../julgados/crsfn/2023/10372-100240-2021-71.md |
-| pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | exercicio-irregular | Exercício irregular de atividade de administração de carteiras, aconselhamento de clientes, recebimento de valores de clientes, atuação como contraparte de clientes e quebra de relação fiduciária para com os investidores e instituições intermediárias. Multas e proibição temporária. | ../../../../../julgados/cvm/pas/2023/19957-007344-2019-97.md |
-| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | intermediacao | O Colegiado aprovou a edição das Resoluções CVM 178 e 179, de 14.02.2023, após a Audiência Pública SDM 05/2021. A RCVM 178 cria o marco regulatório do assessor de investimento e revoga a RCVM 16/2021; a RCVM 179 amplia a transparência sobre remuneração e conflitos de interesse na intermediação. | ../../../../../julgados/cvm/colegiado/2023/col-20230208-d1441-r2.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| termo-compromisso | 19957.011239/2025-09 | 2026-05-19 | rejeitado | cvm-col-20260519-d3531 | fichas/tc/2026-01.md |
+| acordao-crsfn | 19957.002296/2020-84 | 2025-07-16 | condenacao | crsfn-19957-002296-2020-84 | fichas/crsfn/2025-04.md |
+| pas | 19957.002595/2017-13 | 2024-12-10 | parcial | cvm-pas-19957-002595-2017-13 | fichas/pas/2024-11.md |
+| acordao-crsfn | 19957.007266/2022-26 | 2024-12-03 | condenacao | crsfn-10372-000070-2024-79 | fichas/crsfn/2024-06.md |
+| decisao-colegiado | 179/2023; 19957.011047/2024-11 | 2024-09-10 | indeferido | cvm-col-20240910-d3133 | fichas/colegiado/2024-09.md |
+| decisao-colegiado | 19957.012626/2022-10 | 2024-02-06 | parcial | cvm-col-20240206-d2990 | fichas/colegiado/2024-02.md |
+| pas | 19957.007266/2022-26 | 2023-12-20 | condenacao | cvm-pas-19957-007266-2022-26 | fichas/pas/2023-09.md |
+| acordao-crsfn | 19957.005057/2019-42; RJ2019/09315 | 2023-03-07 | parcial | crsfn-10372-100240-2021-71 | fichas/crsfn/2023-02.md |
+| pas | 19957.007344/2019-97 | 2023-02-28 | condenacao | cvm-pas-19957-007344-2019-97 | fichas/pas/2023-01.md |
+| decisao-colegiado | 05/2021; 19957.009468/2018-26 | 2023-02-08 | outro | cvm-col-20230208-d1441-r2 | fichas/colegiado/2023-02.md |
 
 Fim do subíndice.

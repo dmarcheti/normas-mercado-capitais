@@ -3,72 +3,72 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º, § 1º | termo-compromisso | RJ2009/13169 | 2010-07-20 | rejeitado | pld | O Colegiado rejeitou a proposta de termo de compromisso da instituição financeira, acusada de não identificar o comitente final, investidor não residente, em aquisições de ações da GVT. Acompanhou o Comitê, que a considerou inconveniente e inoportuna; determinou ao Comitê avaliar a retomada da negociação. | ../../../../../julgados/cvm/colegiado/2010/col-20100720-d02.md |
-| art. 3º, § 1º | termo-compromisso | RJ2009/13169 | 2010-10-14 | aceito | pld | O Colegiado aceitou nova proposta de termo de compromisso da instituição financeira acusada de não identificar o comitente final em aquisições de ações da GVT, desde que excluídas a Cláusula 2ª e o compromisso de cumprir a regulamentação sobre as ações. Pagamento de R$ 500.000,00 como condição para a celebração. | ../../../../../julgados/cvm/colegiado/2010/col-20101014-d01.md |
-| art. 3º, § 1º | termo-compromisso | SP2013/0295 | 2015-12-15 | aceito | infraestrutura-mercado | Apreciação de proposta de termo de compromisso. Proc. SP2013/0295. | ../../../../../julgados/cvm/colegiado/2015/col-20151215-d9987.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º, § 1º | termo-compromisso | RJ2009/13169 | 2010-07-20 | rejeitado | cvm-col-20100720-d02 | fichas/tc/2010-04.md |
+| art. 3º, § 1º | termo-compromisso | RJ2009/13169 | 2010-10-14 | aceito | cvm-col-20101014-d01 | fichas/tc/2010-05.md |
+| art. 3º, § 1º | termo-compromisso | SP2013/0295 | 2015-12-15 | aceito | cvm-col-20151215-d9987 | fichas/tc/2015-05.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º | termo-compromisso | RJ2002/4186 | 2005-05-24 | aceito | pld | O Colegiado aprovou termo de compromisso da Prosper S/A Corretora de Valores e Câmbio e de outro indiciado, por atuação de mais de um ano para investidor não residente sem a documentação do art. 5º da Instrução CVM 325/00, já regularizada. Aprovado com as exclusões pedidas pela PFE, por considerar a proposta oportuna e conveniente. | ../../../../../julgados/cvm/colegiado/2005/col-20050524-d04.md |
-| art. 5º | termo-compromisso | RJ2008/12293 | 2009-06-23 | aceito | intermediacao | O Colegiado aceitou proposta de termo de compromisso de R$ 100.000,00 da SOCOPA Sociedade Corretora Paulista S.A., acusada de não apresentar documentação de registro de investidor não residente. Pagamento em 10 dias da publicação, qualificado como condição para celebração; assinatura em 30 dias. Pelos argumentos do parecer do Comitê. | ../../../../../julgados/cvm/colegiado/2009/col-20090623-d10.md |
-| art. 5º, § 1º | acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | divulgacao-informacoes | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Representante de investidor não residente - Falta de comunicação, à entidade supervisora e ao mercado, de alienação de participação acionária relevante – Inviabilidade de exigência, ao custodiante, de permanente monitoramento do investidor estrangeiro pela falta de ciência das informações necessárias a tanto - Irregularidades não caracterizadas - Recurso de ofício improvido - Arquivamento. | ../../../../../julgados/crsfn/2013/13085.md |
-| art. 5º, § 1º | decisao-colegiado | RJ2011/4847 | 2012-12-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4847. | ../../../../../julgados/cvm/colegiado/2012/col-20121218-d04.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º | termo-compromisso | RJ2002/4186 | 2005-05-24 | aceito | cvm-col-20050524-d04 | fichas/tc/2005-02.md |
+| art. 5º | termo-compromisso | RJ2008/12293 | 2009-06-23 | aceito | cvm-col-20090623-d10 | fichas/tc/2009-04.md |
+| art. 5º, § 1º | acordao-crsfn | RJ-2009-5286 | 2013-09-25 | absolvicao | crsfn-13085 | fichas/crsfn/2013-04.md |
+| art. 5º, § 1º | decisao-colegiado | RJ2011/4847 | 2012-12-18 | nao-provido | cvm-col-20121218-d04 | fichas/colegiado/2012-24.md |
 
 ## art. 8º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 8º | decisao-colegiado | RJ2002/7964 | 2003-01-21 | provido | outros | O Colegiado deu provimento a recurso contra decisão da SIN que indeferiu transferência, para fora do país, de ações de investidor não residente, concedendo a autorização para a transferência de recursos. Normas citadas: parágrafo único do art. 9º da Resolução CMN 2.689 e art. 8º da Instrução CVM 325/00. Acompanhou o voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030121-d02.md |
-| art. 8º | decisao-colegiado | RJ2002/8088 | 2003-02-25 | provido | outros | O Colegiado deu provimento a recurso e reformou a decisão da SIN para aprovar a transferência de investimentos no Brasil da CVC/Opportunity Equity Partners L.P. para a CVC Delaware, ambas investidoras estrangeiras não residentes. Um diretor substituto apresentou declaração de voto, com encaminhamento de ofício à SRF. | ../../../../../julgados/cvm/colegiado/2003/col-20030225-d02.md |
-| art. 8º | decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | infraestrutura-mercado | O Colegiado acompanhou o voto do diretor-relator e deu provimento a recurso do Banco Sudameris contra entendimento da SEP de que a transferência de ações ocorrida em 31/03/2003 apresentava irregularidades passíveis de apuração em processo administrativo. | ../../../../../julgados/cvm/colegiado/2004/col-20040601-d01.md |
-| art. 8º | decisao-colegiado | RJ2006/0906 | 2006-04-04 | deferido | infraestrutura-mercado | O Colegiado autorizou a transferência de ativos do investidor não residente Refco LLC, custodiados no Banco Itaú, para a Man Financial Inc., por determinação judicial da falência nos EUA. Operação fora de bolsa ou balcão, sem previsão regulatória; a PFE a considerou juridicamente viável, por consonância com o parágrafo único do art. 9º da Resolução CMN 2.689/00. | ../../../../../julgados/cvm/colegiado/2006/col-20060404-d13.md |
-| art. 8º | decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | outros | Pedido de investidores não residentes de autorização prévia para transferir ações da Lojas Americanas S.A. e da São Carlos Empreendimentos e Participações em reestruturação societária no exterior (art. 8º da Instrução 325/00; art. 9º, parágrafo único, da Resolução CMN 2.689/00). O relator votou pelo indeferimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2010/col-20100413-d06.md |
-| art. 8º | decisao-colegiado | RJ2009/11922 | 2010-05-11 | deferido | infraestrutura-mercado | Por unanimidade, o Colegiado deferiu pedido de investidores não residentes para autorizar a transferência de ações decorrente de reestruturação societária no exterior, nos termos submetidos, com base no parágrafo único do art. 9º da Resolução CMN 2.689/00 e no art. 8º da Instrução CVM 325/00. Após nova estruturação que manteve as proporções, o relator a enquadrou como cisão parcial. | ../../../../../julgados/cvm/colegiado/2010/col-20100511-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 8º | decisao-colegiado | RJ2002/7964 | 2003-01-21 | provido | cvm-col-20030121-d02 | fichas/colegiado/2003-01.md |
+| art. 8º | decisao-colegiado | RJ2002/8088 | 2003-02-25 | provido | cvm-col-20030225-d02 | fichas/colegiado/2003-02.md |
+| art. 8º | decisao-colegiado | RJ2004/1949 | 2004-06-01 | provido | cvm-col-20040601-d01 | fichas/colegiado/2004-06.md |
+| art. 8º | decisao-colegiado | RJ2006/0906 | 2006-04-04 | deferido | cvm-col-20060404-d13 | fichas/colegiado/2006-06.md |
+| art. 8º | decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | cvm-col-20100413-d06 | fichas/colegiado/2010-11.md |
+| art. 8º | decisao-colegiado | RJ2009/11922 | 2010-05-11 | deferido | cvm-col-20100511-d02 | fichas/colegiado/2010-12.md |
 
 ## art. 9º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 9º, parágrafo único | decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | outros | Pedido de investidores não residentes de autorização prévia para transferir ações da Lojas Americanas S.A. e da São Carlos Empreendimentos e Participações em reestruturação societária no exterior (art. 8º da Instrução 325/00; art. 9º, parágrafo único, da Resolução CMN 2.689/00). O relator votou pelo indeferimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2010/col-20100413-d06.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 9º, parágrafo único | decisao-colegiado | RJ2009/11922 | 2010-04-13 | — | cvm-col-20100413-d06 | fichas/colegiado/2010-11.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | intermediacao | O Colegiado aprovou, por maioria, as conclusões da SMI sobre oferta a residentes no Brasil de intermediação por estrangeiro em parceria com nacional, sem óbice nas normas vigentes. Aprovou por unanimidade os critérios do item 67 do Memorando 112/2020 (alíneas a, c a i) e, por maioria, a nova alínea b sugerida pela área técnica, que substitui a original. | ../../../../../julgados/cvm/colegiado/2021/col-20210223-d1583.md |
-| decisao-colegiado | 12/2014; 325/2000; RJ2008/9075 | 2015-03-25 | outro | normativo | O Colegiado aprovou a edição de Instrução, após a Audiência Pública SDM 12/2014, que substitui a ICVM 325/2000 e dispõe sobre registro, operações e divulgação de informações de investidor não residente. Destaques: informe mensal prestado pelo representante, por investidor representado, e regras de transição para cadastro e divulgação. | ../../../../../julgados/cvm/colegiado/2015/col-20150325-d4672.md |
-| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2015-03-11 | outro | normativo | O Colegiado aprovou instrução sobre programas de Depositary Receipts (AP SDM 11/2014), substituindo a ICVM 317/1999. Convocação com 30 dias de antecedência só para emissoras de ações lastro de DR patrocinados, a vigorar em 90 dias; depositária vota conforme instrução dos titulares, quando o contrato permitir. Iniciou discussão sobre a ICVM 325/2000 (AP SDM 12/2014). | ../../../../../julgados/cvm/colegiado/2015/col-20150311-d4672.md |
-| decisao-colegiado | RJ2013/11745 | 2013-12-23 | deferido | outros | O Colegiado autorizou a negociação privada de ações da Zurich Santander Brasil S.A. solicitada pelo Citibank DTVM S.A., custodiante de investidor não residente que subscreveu ações por erro operacional e as recomprou do Banco Santander pelo mesmo preço (R$ 86.292,81). Com base na manifestação da SIN, sem má-fé identificada. | ../../../../../julgados/cvm/colegiado/2013/col-20131223-d11.md |
-| decisao-colegiado | RJ2009/12985 | 2009-12-22 | deferido | ofertas-publicas | O Colegiado autorizou o Banco Cruzeiro do Sul S.A. a alienar ações em tesouraria em oferta pública secundária em balcão não organizado, nos termos do art. 23 da Instrução CVM 10/80, em linha com precedentes. A área técnica (Memo/CVM/SEP/GEA-3/Nº 386/09) manifestou-se favoravelmente; o anexo opinou contra, por falta de justificativa para o balcão. | ../../../../../julgados/cvm/colegiado/2009/col-20091222-d33.md |
-| decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa do estudo de viabilidade econômico-financeira da Bovespa Holding S.A., condicionada a seção específica no prospecto com os fundamentos do pedido, custos e benefícios da nova estrutura e aspectos tributários. Deliberou emitir ato normativo para delegar à SRE dispensas em casos idênticos. | ../../../../../julgados/cvm/colegiado/2007/col-20071002-d09.md |
-| decisao-colegiado | RJ2007/3623 | 2007-07-10 | outro | opa | O Colegiado, ouvida a área técnica, condicionou a validação do laudo de avaliação da OPA para cancelamento de registro da Copesul ao cumprimento das exigências sobre conflito do avaliador (Calyon), e determinou a reabertura do prazo para pedido de revisão do preço quando da publicação do edital. | ../../../../../julgados/cvm/colegiado/2007/col-20070710-d24.md |
-| decisao-colegiado | RJ2006/4159 | 2006-07-18 | deferido | ofertas-publicas | O Colegiado concedeu dispensa do estudo de viabilidade econômico-financeira na oferta de ações da Brascan Residential Properties S.A., nos termos sugeridos pela área técnica, condicionada à divulgação no Aviso ao Mercado, Anúncio de Início e prospectos. Declarou inaplicáveis os incisos II e IV do art. 32 da ICVM 400 e determinou novos fatores de risco sobre endividamento em moeda estrangeira. | ../../../../../julgados/cvm/colegiado/2006/col-20060718-d11.md |
-| decisao-colegiado | RJ2006/0718 | 2006-04-04 | indeferido | infraestrutura-mercado | Por maioria, vencido o relator, o Colegiado não autorizou a Citibank DTVM a transferir, fora de bolsa ou balcão organizado, posições de custódia de conta coletiva para corrigir erro operacional, por entender que a Resolução CMN 2.689/00 não permite essa transferência. | ../../../../../julgados/cvm/colegiado/2006/col-20060404-d02.md |
-| pas | RJ2002/6118 | 2006-02-16 | absolvicao | pld | Ficha cadastral de investidor não residente. Instrução CVM nº 301, alínea “f”, §1º, do art. 3º, itens I e II. Ausência de exigência de revelação da situação patrimonial e financeira no formulário previsto na Resolução CMN nº 2.689/00. Obrigatoriedade de existência de um diretor responsável pelo cumprimento das obrigações previstas na Instrução CVM nº 301. | ../../../../../julgados/cvm/pas/2006/rj2002-6118.md |
-| decisao-colegiado | — | 2005-10-31 | deferido | normativo | O Colegiado deferiu, por unanimidade, pedido da Bovespa e editou normativo prorrogando para 31.12.2005 o prazo de adaptação do art. 5º da Instrução CVM 419/05 (cadastro de investidores não residentes). Até lá, permanecem em vigor as disposições da Instrução 387/00. Determinou à SMI acompanhar a adaptação. | ../../../../../julgados/cvm/colegiado/2005/col-20051031-d01.md |
-| decisao-colegiado | RJ2005/0610 | 2005-03-08 | indeferido | ofertas-publicas | O Colegiado negou as dispensas de requisitos de registro pedidas por Monteiro Aranha S.A. na oferta de ações da Ultrapar Participações S.A., nos termos do Memo SRE/031/05. As dispensas diziam respeito a prospectos na internet e a nomes e endereços dos vendedores nos anúncios. | ../../../../../julgados/cvm/colegiado/2005/col-20050308-d07.md |
-| decisao-colegiado | RJ2004/6550 | 2004-11-23 | deferido | ofertas-publicas | Com base na manifestação favorável da SRE (Memo/SRE/221/04), o Colegiado concedeu, nos termos do art. 4º da Instrução CVM 400/03, dispensa quanto à vedação do art. 55 a controladores, administradores e pessoas vinculadas na distribuição primária de ações da Suzano Petroquímica S.A. Condição: reservas formuladas até sete dias úteis antes da conclusão da coleta de intenções. | ../../../../../julgados/cvm/colegiado/2004/col-20041123-d10.md |
-| decisao-colegiado | RJ2004/6545 | 2004-11-23 | deferido | ofertas-publicas | O Colegiado aprovou contrato de estabilização de preço e concedeu dispensa de requisitos de registro na oferta primária de ações da Bradespar S.A., com base em manifestação favorável da área técnica. Condicionou as reservas de investidores vinculados até sete dias úteis antes do fim da coleta de intenções. | ../../../../../julgados/cvm/colegiado/2004/col-20041123-d09.md |
-| decisao-colegiado | RJ2004/5795 | 2004-11-16 | parcial | ofertas-publicas | O Colegiado, acompanhando a área técnica (Memo/SRE/212/04), concedeu dispensas de disponibilização de prospecto na internet pelos acionistas vendedores e de vedação à colocação para controladores, administradores e vinculados, com reservas até 7 a 12 dias úteis antes da conclusão da coleta; aprovou o contrato de estabilização de preços; negou a dispensa de declaração de recebimento do Prospecto Definitivo. | ../../../../../julgados/cvm/colegiado/2004/col-20041116-d06.md |
-| decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | ofertas-publicas | O Colegiado aprovou as dispensas de requisitos do registro e o procedimento de estabilização de preços na oferta pública primária e secundária de ações ordinárias da CPFL Energia S.A., acompanhando a SRE (Memo/SRE/154/04), favorável ao pleito. | ../../../../../julgados/cvm/colegiado/2004/col-20040824-d10.md |
-| decisao-colegiado | RJ2004/2185 | 2004-05-25 | deferido | ofertas-publicas | O Colegiado aprovou, sob regime de confidencialidade, pedido de dispensa de requisitos de registro na oferta pública de distribuição de ações da GOL Linhas Aéreas Inteligentes S.A., com base no art. 4º, § 4º, da Instrução CVM 400/2003, nos termos do MEMO/SRE/N.º 94/2004. | ../../../../../julgados/cvm/colegiado/2004/col-20040525-d02.md |
-| pas | 10/1999 | 2000-09-14 | parcial | ofertas-publicas | [pessoa física], BANCO BOZANO SIMONSEN S/A, BOZANO SIMONSEN S/A CCTVM, [pessoa física] Negociação, em bolsa de valores, de ações de emissão de companhia aberta detidas pelo Bozano, Simonsen Privatization Limited, administrado pelo Banco Bozano, Simonsen S.A.; através de leilões, sem o prévio registro na CVM de distribuição pública, exigido para a quantidade de ações envolvida na operação. Irregularidades na divulgação de informações ao mercado. Não emprego do cuidado e diligências necessários no exercício da atividade de administração de carteiras. Irregularidades configuradas. Penalidades. | ../../../../../julgados/cvm/pas/2000/10-1999.md |
-| decisao-antiga | — | 2000-01-07 | — | — | Decisões do colegiado de 2000. | ../../../../../julgados/cvm/decisoes-antigas/2000.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.010715/2018-37; 19957.000495/2019-14 | 2021-02-23 | outro | cvm-col-20210223-d1583 | fichas/colegiado/2021-03.md |
+| decisao-colegiado | 12/2014; 325/2000; RJ2008/9075 | 2015-03-25 | outro | cvm-col-20150325-d4672 | fichas/colegiado/2015-05.md |
+| decisao-colegiado | 11/2014; 12/2014; 317/1999; 325/2000; RJ2005/2366; RJ2008/9075 | 2015-03-11 | outro | cvm-col-20150311-d4672 | fichas/colegiado/2015-04.md |
+| decisao-colegiado | RJ2013/11745 | 2013-12-23 | deferido | cvm-col-20131223-d11 | fichas/colegiado/2013-25.md |
+| decisao-colegiado | RJ2009/12985 | 2009-12-22 | deferido | cvm-col-20091222-d33 | fichas/colegiado/2009-25.md |
+| decisao-colegiado | RJ2007/10988 | 2007-10-02 | deferido | cvm-col-20071002-d09 | fichas/colegiado/2007-18.md |
+| decisao-colegiado | RJ2007/3623 | 2007-07-10 | outro | cvm-col-20070710-d24 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2006/4159 | 2006-07-18 | deferido | cvm-col-20060718-d11 | fichas/colegiado/2006-11.md |
+| decisao-colegiado | RJ2006/0718 | 2006-04-04 | indeferido | cvm-col-20060404-d02 | fichas/colegiado/2006-05.md |
+| pas | RJ2002/6118 | 2006-02-16 | absolvicao | cvm-pas-rj2002-6118 | fichas/pas/2006-02.md |
+| decisao-colegiado | — | 2005-10-31 | deferido | cvm-col-20051031-d01 | fichas/colegiado/2005-16.md |
+| decisao-colegiado | RJ2005/0610 | 2005-03-08 | indeferido | cvm-col-20050308-d07 | fichas/colegiado/2005-05.md |
+| decisao-colegiado | RJ2004/6550 | 2004-11-23 | deferido | cvm-col-20041123-d10 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ2004/6545 | 2004-11-23 | deferido | cvm-col-20041123-d09 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ2004/5795 | 2004-11-16 | parcial | cvm-col-20041116-d06 | fichas/colegiado/2004-14.md |
+| decisao-colegiado | RJ2004/3143 | 2004-08-24 | deferido | cvm-col-20040824-d10 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ2004/2185 | 2004-05-25 | deferido | cvm-col-20040525-d02 | fichas/colegiado/2004-06.md |
+| pas | 10/1999 | 2000-09-14 | parcial | cvm-pas-10-1999 | fichas/pas/2000-02.md |
+| decisao-antiga | — | 2000-01-07 | — | cvm-dec-2000-0001 | fichas/decisoes-antigas/2000-30.md |
 
 Fim do subíndice.

@@ -197,7 +197,8 @@ def e_indice(rel):
     base = os.path.basename(rel)
     if base in ("plugin.json", "marketplace.json"):
         return False
-    return (base in ("indice.md", "normas.json") or "/indices/" in rel.replace(os.sep, "/")
+    r = rel.replace(os.sep, "/")
+    return (base in ("indice.md", "normas.json") or "/indices/" in r or "/julgados/fichas/" in r
             or (rel.startswith("plugins/") and base.endswith(".json")))
 
 
@@ -1182,7 +1183,8 @@ def pasta_sem_macos(amb):
 
 
 def rodar_gate(amb):
-    """Suíte sem macOS, validar.py (normas e julgados/) e indice.py --verificar."""
+    """Suíte sem macOS, validar.py (normas e julgados/), validar_plugin.py, fichas.py --verificar e
+    indice.py --verificar."""
     falhas = []
     sem_macos, erro = pasta_sem_macos(amb)
     if erro:
@@ -1200,6 +1202,12 @@ def rodar_gate(amb):
         rc, out, _ = amb.script("validar.py", JULGADOS)
         if rc != 0:
             falhas.append("validar %s: %s" % (JULGADOS, (out.strip().splitlines() or [""])[-1]))
+    rc, out, _ = amb.script("validar_plugin.py")
+    if rc != 0:
+        falhas.append("validar_plugin: %s" % (out.strip().splitlines() or [""])[0])
+    rc, out, _ = amb.script("fichas.py", "--verificar")
+    if rc != 0:
+        falhas.append("fichas --verificar: %s" % (out.strip().splitlines() or [""])[0])
     rc, out, _ = amb.script("indice.py", "--verificar")
     if rc != 0:
         falhas.append("indice --verificar: %s" % (out.strip().splitlines() or [""])[0])
@@ -1346,8 +1354,11 @@ def executar(amb, itens):
     limpar_saidas(amb)
     amb.hash_antes = foto_hash(amb.raiz)
     resultados, adiados = aplicar(amb, itens)
-    rc, out, err = amb.script("indice.py")
     gate = []
+    rc, out, err = amb.script("fichas.py")  # as fichas antes dos índices, que apontam para elas
+    if rc != 0:
+        gate.append("fichas.py rc %s: %s" % (rc, ((err or out).strip().splitlines() or [""])[-1][:200]))
+    rc, out, err = amb.script("indice.py")
     if rc != 0:
         gate.append("indice.py rc %s: %s" % (rc, ((err or out).strip().splitlines() or [""])[-1][:200]))
     depois = foto_hash(amb.raiz)

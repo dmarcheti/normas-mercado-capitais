@@ -3,32 +3,32 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
-| Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|
-| RJ2003/4007 | 2003-12-22 | aceito | divulgacao-informacoes | O Colegiado aceitou proposta de termo de compromisso da Hedging-Griffo Corretora de Valores pelo descumprimento da obrigação de divulgar aquisição e alienação de participação acionária relevante (art. 12 da ICVM 358/2002), na condição de administradora de dois fundos e representante de fundo estrangeiro, acompanhando o voto da diretora relatora. | ../../../../../julgados/cvm/colegiado/2003/col-20031222-d03.md |
-| 09/2000 | 2003-12-16 | rejeitado | auditoria-independente | O Colegiado acompanhou o voto do relator e indeferiu proposta de termo de compromisso das firmas Loudon Blomquist Auditores Independentes e Sistema Auditores Independentes e de seus responsáveis técnicos, por não atender aos objetivos da lei: cessação das práticas ilícitas, correção das irregularidades e indenização dos prejuízos. | ../../../../../julgados/cvm/colegiado/2003/col-20031216-d08.md |
-| RJ2002/5113 | 2003-12-16 | rejeitado | outros | O Colegiado rejeitou as duas propostas de termo de compromisso apresentadas pelo ex-funcionário de corretora e pelo ex-diretor da CLC, acompanhando o voto da diretora relatora. Razão: as propostas não atendem aos objetivos da lei, que são a cessação das atividades ilícitas e a correção das irregularidades, inclusive com indenização dos prejuízos. | ../../../../../julgados/cvm/colegiado/2003/col-20031216-d07.md |
-| IA34/00 | 2003-11-18 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso no processo IA 34/00, nos termos do voto do Diretor-Relator. Um diretor se absteve de examinar a alegada gravidade da infração, por entender inaceitáveis as condições propostas. | ../../../../../julgados/cvm/colegiado/2003/col-20031118-d05.md |
-| IA16/01 | 2003-11-18 | — | outros | Proposta de termo de compromisso do Banco Liberal S/A e da Liberal S/A CCVM. A relatora votou pela aprovação; um diretor pediu vista. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2003/col-20031118-d04.md |
-| RJ2003/4007 | 2003-11-04 | — | outros | Proposta de termo de compromisso da Hedging-Griffo CV S.A. A Diretora-Relatora apresentou voto. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2003/col-20031104-d08.md |
-| IA39/00 | 2003-11-04 | rejeitado | outros | Após pedido de vista, a diretora-relatora votou pelo indeferimento da proposta de termo de compromisso apresentada pelos administradores da Plascar Participações Industriais S.A., acompanhada por um diretor; o Presidente ficou vencido. Um diretor declarou impedimento. | ../../../../../julgados/cvm/colegiado/2003/col-20031104-d01.md |
-| RJ2002/5015 | 2003-10-28 | rejeitado | intermediacao | O Colegiado indeferiu a proposta de termo de compromisso da Americainvest CTVM Ltda. e de seu diretor, acompanhando o voto da diretora-relatora. | ../../../../../julgados/cvm/colegiado/2003/col-20031028-d06.md |
-| RJ2003/0818 | 2003-09-02 | outro | normativo | O Colegiado acompanhou o voto do diretor relator e considerou conveniente substituir, no art. 8º da Deliberação CVM 390/01, o prazo para propostas de termo de compromisso pelo momento de apresentação como critério de avaliação, sem examinar contradição com a Lei 6.385/76. | ../../../../../julgados/cvm/colegiado/2003/col-20030902-d01.md |
-| RJ2001/1789 | 2003-08-05 | aceito | intermediacao | O Colegiado aprovou nova proposta de termo de compromisso apresentada por agente autônomo de investimentos, conforme voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030805-d05.md |
-| IA23/00 | 2003-08-05 | rejeitado | outros | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos indiciados no Inquérito Administrativo CVM nº 23/00, nos termos do voto do Diretor-Relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030805-d04.md |
-| RJ2002/1846 | 2003-07-29 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pelos controladores e administradores da Teka Tecelagem Kuehnrich S.A., nos termos do voto do Diretor-Relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030729-d07.md |
-| RJ2002/4778 | 2003-07-29 | aceito | outros | O Colegiado, acompanhando o voto do diretor relator, aprovou a proposta de termo de compromisso da Sprind DTVM Ltda. condicionada à fixação do valor de ressarcimento por prejuízos e à identificação de seu destinatário. | ../../../../../julgados/cvm/colegiado/2003/col-20030729-d06.md |
-| RJ2002/7376 | 2003-06-03 | rejeitado | deveres-administradores | O Colegiado rejeitou a proposta de Termo de Compromisso da Fixcel, da Splice e outros, referente a debêntures emitidas pela Fixcel e subscritas pela Tele Centro Oeste Celular, que previa reforma do estatuto desta e alteração dos termos das debêntures. Acompanhou o voto do relator; a SEP havia opinado pela não aceitação. | ../../../../../julgados/cvm/colegiado/2003/col-20030603-d13.md |
-| IA31/00 | 2003-05-13 | rejeitado | deveres-administradores | O Colegiado rejeitou proposta de Termo de Compromisso de controladores e administradores das Lojas Arapuã (IA 31/00), acompanhando o voto da relatora, para quem a proposta não preenchia os requisitos legais de reposição de prejuízos causados. Foi marcada sessão de julgamento para 25/06/2003. | ../../../../../julgados/cvm/colegiado/2003/col-20030513-d12.md |
-| RJ2002/1247 | 2003-04-29 | aceito | outros | Arquivamento de processo em razão de cumprimento de termo de compromisso. Proc. RJ2002/1247. | ../../../../../julgados/cvm/colegiado/2003/col-20030429-d05.md |
-| RJ2002/3535 | 2003-03-25 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pela Previbank CCCVM Ltda. e outros, em termo de acusação, nos termos do voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d04.md |
-| IA23/00 | 2003-03-25 | rejeitado | outros | O Colegiado rejeitou a proposta de termo de compromisso apresentada pelo proponente no processo IA 23/00. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d03.md |
-| RJ2001/12098 | 2003-03-25 | aceito | outros | O Colegiado aprovou a celebração de termo de compromisso com a BB DTVM, em processo de rito sumário, na nova proposta apresentada após a rejeição, em 17.03.2003, da minuta anterior. | ../../../../../julgados/cvm/colegiado/2003/col-20030325-d01.md |
-| RJ2001/12098 | 2003-03-17 | rejeitado | intermediacao | O Colegiado rejeitou nova proposta de termo de compromisso apresentada pelo BB DTVM em processo de rito sumário, porque a minuta não impunha qualquer obrigação ao compromitente, pessoa física. | ../../../../../julgados/cvm/colegiado/2003/col-20030317-d04.md |
-| RJ2001/1789 | 2003-03-12 | rejeitado | exercicio-irregular | O Colegiado acompanhou o voto do diretor-relator e indeferiu a proposta de termo de compromisso do proponente, agente autônomo de investimentos, em processo de rito sumário por atuação como intermediário irregular no mercado de valores mobiliários. O processo retorna à SMI para ciência do interessado, que poderá apresentar nova proposta em 30 dias. | ../../../../../julgados/cvm/colegiado/2003/col-20030312-d07.md |
-| RJ2002/6453 | 2003-03-12 | aceito | outros | O Colegiado aceitou, com alterações, proposta de Termo de Compromisso da Fama Investimentos Ltda. e de seu diretor responsável, em recurso contra decisão da SIN em processo de rito sumário. | ../../../../../julgados/cvm/colegiado/2003/col-20030312-d02.md |
-| RJ2002/2555 | 2003-02-11 | aceito | outros | O Colegiado aprovou o termo de compromisso proposto pelo Banco Santander S.A. em processo de rito sumário por infração ao art. 2º da Instrução 304/99, nos termos do voto do diretor-relator. | ../../../../../julgados/cvm/colegiado/2003/col-20030211-d02.md |
+| Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|
+| RJ2003/4007 | 2003-12-22 | aceito | cvm-col-20031222-d03 | fichas/tc/2003.md |
+| 09/2000 | 2003-12-16 | rejeitado | cvm-col-20031216-d08 | fichas/tc/2003.md |
+| RJ2002/5113 | 2003-12-16 | rejeitado | cvm-col-20031216-d07 | fichas/tc/2003.md |
+| IA34/00 | 2003-11-18 | rejeitado | cvm-col-20031118-d05 | fichas/tc/2003.md |
+| IA16/01 | 2003-11-18 | — | cvm-col-20031118-d04 | fichas/tc/2003.md |
+| RJ2003/4007 | 2003-11-04 | — | cvm-col-20031104-d08 | fichas/tc/2003.md |
+| IA39/00 | 2003-11-04 | rejeitado | cvm-col-20031104-d01 | fichas/tc/2003.md |
+| RJ2002/5015 | 2003-10-28 | rejeitado | cvm-col-20031028-d06 | fichas/tc/2003.md |
+| RJ2003/0818 | 2003-09-02 | outro | cvm-col-20030902-d01 | fichas/tc/2003.md |
+| RJ2001/1789 | 2003-08-05 | aceito | cvm-col-20030805-d05 | fichas/tc/2003.md |
+| IA23/00 | 2003-08-05 | rejeitado | cvm-col-20030805-d04 | fichas/tc/2003.md |
+| RJ2002/1846 | 2003-07-29 | rejeitado | cvm-col-20030729-d07 | fichas/tc/2003.md |
+| RJ2002/4778 | 2003-07-29 | aceito | cvm-col-20030729-d06 | fichas/tc/2003.md |
+| RJ2002/7376 | 2003-06-03 | rejeitado | cvm-col-20030603-d13 | fichas/tc/2003.md |
+| IA31/00 | 2003-05-13 | rejeitado | cvm-col-20030513-d12 | fichas/tc/2003.md |
+| RJ2002/1247 | 2003-04-29 | aceito | cvm-col-20030429-d05 | fichas/tc/2003.md |
+| RJ2002/3535 | 2003-03-25 | rejeitado | cvm-col-20030325-d04 | fichas/tc/2003.md |
+| IA23/00 | 2003-03-25 | rejeitado | cvm-col-20030325-d03 | fichas/tc/2003.md |
+| RJ2001/12098 | 2003-03-25 | aceito | cvm-col-20030325-d01 | fichas/tc/2003.md |
+| RJ2001/12098 | 2003-03-17 | rejeitado | cvm-col-20030317-d04 | fichas/tc/2003.md |
+| RJ2001/1789 | 2003-03-12 | rejeitado | cvm-col-20030312-d07 | fichas/tc/2003.md |
+| RJ2002/6453 | 2003-03-12 | aceito | cvm-col-20030312-d02 | fichas/tc/2003.md |
+| RJ2002/2555 | 2003-02-11 | aceito | cvm-col-20030211-d02 | fichas/tc/2003.md |
 
 Fim do subíndice.

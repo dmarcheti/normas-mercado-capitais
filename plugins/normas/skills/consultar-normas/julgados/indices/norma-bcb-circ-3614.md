@@ -3,21 +3,21 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [bcb/circulares/3614.md](../../normas/bcb/circulares/3614.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## art. 4º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 4º | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | securitizacao | Por maioria, divergindo da área técnica, o Colegiado deu provimento a recurso contra exigência da SRE que excluía do lastro de CRI os empréstimos com pacto adjeto de alienação fiduciária de imóvel em garantia, e admitiu esses instrumentos como lastro. Por unanimidade, negou sustentação oral às recorrentes, em linha com a área técnica. | ../../../../../julgados/cvm/colegiado/2018/col-20180116-d0894.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 4º | decisao-colegiado | 19957.008927/2017-73 | 2018-01-16 | parcial | cvm-col-20180116-d0894 | fichas/colegiado/2018-01.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.008097/2019-46 | 2019-10-08 | provido | securitizacao | O Colegiado deu provimento, por unanimidade, a recurso da True Securitizadora contra exigência da SRE no registro de oferta de CRI, que restringia a destinação de recursos a despesas de aquisição de imóvel incorridas nos 24 meses anteriores à oferta. Fundamento: a Lei 9.514/97 estaria atendida, pois a operação fomenta o mercado imobiliário. Contrariou a SRE, que manteve a exigência. | ../../../../../julgados/cvm/colegiado/2019/col-20191008-d1564.md |
-| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | securitizacao | O Colegiado, por unanimidade, acompanhando o voto de uma diretora, entendeu possível estruturar CRI com lastro em crédito imobiliário por destinação, com reembolso de despesas imobiliárias incorridas em até 24 meses antes do encerramento da oferta, desde que detalhadas no termo de securitização e verificadas pelo agente fiduciário. Contra a SRE. | ../../../../../julgados/cvm/colegiado/2019/col-20190702-d1365.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.008097/2019-46 | 2019-10-08 | provido | cvm-col-20191008-d1564 | fichas/colegiado/2019-16.md |
+| decisao-colegiado | 19957.001522/2017-12 | 2019-07-02 | outro | cvm-col-20190702-d1365 | fichas/colegiado/2019-10.md |
 
 Fim do subíndice.

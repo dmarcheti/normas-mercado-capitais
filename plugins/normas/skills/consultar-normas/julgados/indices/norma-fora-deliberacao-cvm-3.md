@@ -3,23 +3,23 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | RJ2017/1298 | 2018-12-11 | absolvicao | ofertas-publicas | Oferta pública irregular de contratos de investimento coletivo hoteleiros, em infração ao art. 19 da Lei nº 6.385/76 e ao art. 2º da Instrução CVM nº 400/03, bem como em infração ao disposto no inciso I do §5º do art. 19 da Lei nº 6.385/76 e ao art. 4º da Instrução CVM nº 400/03. Absolvições. Data decisão CVM Tue Dec 11 12:03:00 BRST 2018 | ../../../../../julgados/cvm/pas/2018/rj2017-1298.md |
-| termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | administracao-carteiras | O Colegiado aceitou a proposta de termo de compromisso da Bancoob DTVM (R$ 750.000,00) e rejeitou as propostas de dois diretores responsáveis pela administração de carteiras (R$ 50.000,00 com suspensão de registro por dois anos, e R$ 10.000,00), pelos argumentos do parecer do Comitê, que as considerou insuficientes. | ../../../../../julgados/cvm/colegiado/2016/col-20160426-d0184.md |
-| termo-compromisso | RJ2015/6735 | 2016-04-19 | — | informacao-privilegiada | Proposta de termo de compromisso de membro do conselho de administração da SANEPAR em PAS por não zelar contra o acesso de terceiros ao planejamento estratégico (art. 155, §1º, da Lei 6.404/76; art. 8º da Instrução CVM 358). O Comitê recomendou a rejeição; o proponente desistiu. Sem decisão do Colegiado sobre a proposta; sorteado relator do PAS. | ../../../../../julgados/cvm/colegiado/2016/col-20160419-d0180.md |
-| termo-compromisso | RJ2014/7072 | 2015-12-15 | rejeitado | deveres-administradores | O Colegiado rejeitou as propostas de termo de compromisso apresentadas pelos proponentes no PAS RJ2014/7072 (Inepar S.A.), acompanhando o Comitê de Termo de Compromisso. O Comitê, após parecer da PFE/CVM que apontou óbice legal, entendeu que a celebração seria inconveniente e que o caso demanda pronunciamento norteador do Colegiado. | ../../../../../julgados/cvm/colegiado/2015/col-20151215-d9984.md |
-| termo-compromisso | RJ2014/14074 | 2015-12-01 | rejeitado | deveres-administradores | O Colegiado rejeitou seis propostas de Termo de Compromisso de administradores da OGX Petróleo e Gás Participações S.A. por divulgação inadequada ou omissa de fatos relevantes e manipulação de preços, acompanhando o Comitê, que apontou óbice legal da PFE (art. 11, §5º, II, da Lei 6.385/1976) e inconveniência do acordo. | ../../../../../julgados/cvm/colegiado/2015/col-20151201-d9468.md |
-| termo-compromisso | RJ2014/11830 | 2015-09-01 | rejeitado | auditoria-independente | O Colegiado rejeitou, por unanimidade, proposta de termo de compromisso da KPMG Auditores Independentes e de dois responsáveis técnicos, de R$ 500.000,00, por infração aos arts. 20 e 25, II, da ICVM 308/1999. Contra o parecer do Comitê, entendeu que o caso exige pronunciamento do Colegiado em julgamento, para orientar firmas de auditoria. | ../../../../../julgados/cvm/colegiado/2015/col-20150901-d9811.md |
-| termo-compromisso | RJ2014/7604 | 2015-07-14 | aceito | contabil-demonstracoes | O Colegiado aceitou as propostas de Termo de Compromisso de seis administradores do Terminal Garagem Menezes Côrtes S.A., acusados por infração aos arts. 176, 177 e 204 da Lei 6.404/1976, por R$ 180.000,00 (R$ 50.000,00 para dois e R$ 20.000,00 para os demais). Acompanhou o parecer do Comitê, após a SEP verificar a cessação das práticas contábeis irregulares. | ../../../../../julgados/cvm/colegiado/2015/col-20150714-d9766.md |
-| termo-compromisso | RJ2014/10556 | 2015-06-23 | rejeitado | assembleia-acionistas | O Colegiado rejeitou a proposta conjunta de termo de compromisso dos dois proponentes, acusados por infração ao art. 115, § 1º, da Lei 6.404/1976 e que propunham, respectivamente, R$ 70.000,00 e R$ 35.000,00. Acompanhou o Comitê, que considerou inconveniente a celebração pela gravidade da conduta e pela necessidade de pronunciamento norteador. | ../../../../../julgados/cvm/colegiado/2015/col-20150623-d9723.md |
-| termo-compromisso | 26/2006 | 2008-07-22 | aceito | outros | O Colegiado aceitou nova proposta de termo de compromisso da Romanche Investment Corporation, LLC, no PAS 26/2006 (Ideiasnet S.A.), de R$ 679.140,00, equivalente ao ganho potencialmente auferido, pelos argumentos do parecer do Comitê. Antes, rejeitara proposta de R$ 50.000,00 por desproporção ao volume operado (R$ 1.304.840,00). | ../../../../../julgados/cvm/colegiado/2008/col-20080722-d16.md |
-| decisao-antiga | — | 1979-01-04 | — | — | Decisões do colegiado de 1979. | ../../../../../julgados/cvm/decisoes-antigas/1979.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | RJ2017/1298 | 2018-12-11 | absolvicao | cvm-pas-rj2017-1298 | fichas/pas/2018-11.md |
+| termo-compromisso | RJ2014/13902 | 2016-04-26 | aceito | cvm-col-20160426-d0184 | fichas/tc/2016-02.md |
+| termo-compromisso | RJ2015/6735 | 2016-04-19 | — | cvm-col-20160419-d0180 | fichas/tc/2016-01.md |
+| termo-compromisso | RJ2014/7072 | 2015-12-15 | rejeitado | cvm-col-20151215-d9984 | fichas/tc/2015-05.md |
+| termo-compromisso | RJ2014/14074 | 2015-12-01 | rejeitado | cvm-col-20151201-d9468 | fichas/tc/2015-04.md |
+| termo-compromisso | RJ2014/11830 | 2015-09-01 | rejeitado | cvm-col-20150901-d9811 | fichas/tc/2015-03.md |
+| termo-compromisso | RJ2014/7604 | 2015-07-14 | aceito | cvm-col-20150714-d9766 | fichas/tc/2015-03.md |
+| termo-compromisso | RJ2014/10556 | 2015-06-23 | rejeitado | cvm-col-20150623-d9723 | fichas/tc/2015-03.md |
+| termo-compromisso | 26/2006 | 2008-07-22 | aceito | cvm-col-20080722-d16 | fichas/tc/2008-05.md |
+| decisao-antiga | — | 1979-01-04 | — | cvm-dec-1979-0001 | fichas/decisoes-antigas/1979-03.md |
 
 Fim do subíndice.

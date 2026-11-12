@@ -3,196 +3,196 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | ../../../../../julgados/cvm/colegiado/2006/col-20060221-d01.md |
-| art. 1º | decisao-colegiado | RJ2005/8524 | 2006-11-13 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de prévio registro de distribuição de cotas do Fundo Mútuo de Investimento em Empresas Emergentes Inovadoras Stratus VC III, pedida pela administradora Stratus Investimentos Ltda. com base no art. 22, §1º, II, da Instrução 209/94. Condição: aplicação mínima de R$ 300 mil no termo de compromisso de investimento. | ../../../../../julgados/cvm/colegiado/2006/col-20061113-d04.md |
-| art. 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | fundos-investimento | O Colegiado concordou com a leitura da SIN, segundo a qual o investimento só se admite se os limites do art. 1º, §1º, da Instrução CVM 209/94 forem observados ao fim do exercício, e concedeu a dispensa desse dispositivo, por se tratar da última aquisição do fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d09.md |
-| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | fundos-investimento | A correção de alteração indevida no regulamento do fundo antes mesmo de exigência da CVM nesse sentido não enseja a aplicação de penalidade em inquérito administrativo. | ../../../../../julgados/cvm/pas/2003/rj2002-6982.md |
-| art. 1º, § 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | fundos-investimento | O Colegiado concordou com a leitura da SIN, segundo a qual o investimento só se admite se os limites do art. 1º, §1º, da Instrução CVM 209/94 forem observados ao fim do exercício, e concedeu a dispensa desse dispositivo, por se tratar da última aquisição do fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d09.md |
-| art. 1º, § 1º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
-| art. 1º, § 2º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | fundos-investimento | O Colegiado concordou com a leitura da SIN, segundo a qual o investimento só se admite se os limites do art. 1º, §1º, da Instrução CVM 209/94 forem observados ao fim do exercício, e concedeu a dispensa desse dispositivo, por se tratar da última aquisição do fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d09.md |
-| art. 1º, § 4º | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
+| art. 1º | decisao-colegiado | RJ2005/8524 | 2006-11-13 | deferido | cvm-col-20061113-d04 | fichas/colegiado/2006-17.md |
+| art. 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
+| art. 1º | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
+| art. 1º, § 1º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
+| art. 1º, § 1º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
+| art. 1º, § 2º | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
+| art. 1º, § 4º | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2009/8104 | 2009-11-17 | deferido | fundos-investimento | Por unanimidade, o Colegiado deferiu dispensa do art. 2º da Instrução CVM 209/94 para prorrogar, de janeiro de 2010 para dezembro de 2011, o prazo de fundo mútuo de investimento em empresas emergentes, observadas as condições do relator: prorrogação aprovada em AGC, aviso ao mercado e vedação a novos investimentos. | ../../../../../julgados/cvm/colegiado/2009/col-20091117-d21.md |
-| art. 2º | decisao-colegiado | RJ2012/0196 | 2012-03-06 | deferido | fundos-investimento | O Colegiado deferiu a dispensa do caput do art. 2º da Instrução CVM 209/94 e nova prorrogação do prazo de funcionamento do Brasil 21 Fundo Mútuo de Investimento em Empresas Emergentes (FMIEE), administrado pela Dynamo V.C., até janeiro de 2014, desde que preservadas as condições da 1ª prorrogação. A SIN manifestou-se favoravelmente, por haver um único cotista. | ../../../../../julgados/cvm/colegiado/2012/col-20120306-d18.md |
-| art. 2º | decisao-colegiado | RJ2012/5846 | 2012-12-11 | deferido | fundos-investimento | O Colegiado deferiu, acompanhando a SIN, o pedido da Rio Bravo Investimentos para prorrogar por dois anos o prazo do MVP Tech Fund – FMEE de Base Tecnológica, com dispensa do caput do art. 2º da ICVM 209/94. Condições: vedação a novos investimentos e Aviso ao Mercado no sítio da CVM. | ../../../../../julgados/cvm/colegiado/2012/col-20121211-d39.md |
-| art. 2º | decisao-colegiado | RJ2013/1452 | 2013-06-25 | deferido | fundos-investimento | O Colegiado deferiu, acatando integralmente a manifestação da SIN (Memo/SIN/GIE/117/2013), a prorrogação por três anos do prazo de funcionamento do Rio Bravo Nordeste I FMIEE, pedida pela administradora Rio Bravo Investimentos Ltda., com dispensa do caput do art. 2º da Instrução CVM 209/94. Condições: aprovação em assembleia de cotistas, vedação de novos investimentos e aviso ao mercado. | ../../../../../julgados/cvm/colegiado/2013/col-20130625-d04.md |
-| art. 2º | decisao-colegiado | RJ2013/430 | 2013-06-25 | deferido | fundos-investimento | O Colegiado deferiu, por unanimidade, a prorrogação por um ano do prazo de funcionamento do Life FMIEE, com dispensa do caput do art. 2º da Instrução CVM 209/94, acompanhando a SIN (Memo/SIN/GIE/077/2013). Condições: vedação de novos investimentos e Aviso ao Mercado no site da CVM. Fundamento: venda em fase avançada e aprovação unânime dos cotistas. | ../../../../../julgados/cvm/colegiado/2013/col-20130625-d05.md |
-| art. 2º | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | fundos-investimento | O Colegiado deferiu, por unanimidade, dispensa do art. 2º da ICVM 209/1994 para prorrogar o prazo de quatro fundos mútuos de investimento em empresas emergentes, pedida por três administradoras. Acompanhou a SIN, com condições: assembleia de cotistas aprovando a prorrogação com vedação a novos investimentos e Aviso ao Mercado (no REIF, a assembleia já ocorrera em 2014). | ../../../../../julgados/cvm/colegiado/2015/col-20150428-d9627.md |
-| art. 2º, parágrafo único | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | fundos-investimento | O Colegiado deferiu, por unanimidade, dispensa do art. 2º da ICVM 209/1994 para prorrogar o prazo de quatro fundos mútuos de investimento em empresas emergentes, pedida por três administradoras. Acompanhou a SIN, com condições: assembleia de cotistas aprovando a prorrogação com vedação a novos investimentos e Aviso ao Mercado (no REIF, a assembleia já ocorrera em 2014). | ../../../../../julgados/cvm/colegiado/2015/col-20150428-d9627.md |
-| art. 2º, parágrafo único | pas | RJ2002/6982 | 2003-12-18 | absolvicao | fundos-investimento | A correção de alteração indevida no regulamento do fundo antes mesmo de exigência da CVM nesse sentido não enseja a aplicação de penalidade em inquérito administrativo. | ../../../../../julgados/cvm/pas/2003/rj2002-6982.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2009/8104 | 2009-11-17 | deferido | cvm-col-20091117-d21 | fichas/colegiado/2009-20.md |
+| art. 2º | decisao-colegiado | RJ2012/0196 | 2012-03-06 | deferido | cvm-col-20120306-d18 | fichas/colegiado/2012-05.md |
+| art. 2º | decisao-colegiado | RJ2012/5846 | 2012-12-11 | deferido | cvm-col-20121211-d39 | fichas/colegiado/2012-24.md |
+| art. 2º | decisao-colegiado | RJ2013/1452 | 2013-06-25 | deferido | cvm-col-20130625-d04 | fichas/colegiado/2013-12.md |
+| art. 2º | decisao-colegiado | RJ2013/430 | 2013-06-25 | deferido | cvm-col-20130625-d05 | fichas/colegiado/2013-12.md |
+| art. 2º | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | cvm-col-20150428-d9627 | fichas/colegiado/2015-07.md |
+| art. 2º, parágrafo único | decisao-colegiado | RJ2013/8433; RJ2014/4640; RJ2014/8400; RJ2014/10760 | 2015-04-28 | deferido | cvm-col-20150428-d9627 | fichas/colegiado/2015-07.md |
+| art. 2º, parágrafo único | pas | RJ2002/6982 | 2003-12-18 | absolvicao | cvm-pas-rj2002-6982 | fichas/pas/2003-05.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1476.md |
-| art. 3º | decisao-antiga | — | 1995-01-04 | — | — | Decisões do colegiado de 1995. | ../../../../../julgados/cvm/decisoes-antigas/1995.md |
-| art. 3º | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
-| art. 3º | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
-| art. 3º | pas | RJ2002/6413 | 2005-12-14 | condenacao | fundos-investimento | Descumprimento do art. 24 da Instrução CVM nº 209/94. Advertência. | ../../../../../julgados/cvm/pas/2005/rj2002-6413.md |
-| art. 3º | pas | RJ2013/5456 | 2015-10-20 | parcial | fundos-investimento | Irregularidades na administração de fundos de investimento em direitos creditórios – irregularidades na prestação de serviços de custódia a fundo de investimento em direitos creditórios. Multas, proibição temporária e absolvições. | ../../../../../julgados/cvm/pas/2015/rj2013-5456.md |
-| art. 3º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
-| art. 3º, § 3º | decisao-antiga | — | 1996-01-12 | — | — | Decisões do colegiado de 1996. | ../../../../../julgados/cvm/decisoes-antigas/1996.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| art. 3º | decisao-antiga | — | 1995-01-04 | — | cvm-dec-1995-0001 | fichas/decisoes-antigas/1995-04.md |
+| art. 3º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
+| art. 3º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 3º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
+| art. 3º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
+| art. 3º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 3º, § 3º | decisao-antiga | — | 1996-01-12 | — | cvm-dec-1996-0001 | fichas/decisoes-antigas/1996-07.md |
 
 ## art. 5º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 5º, § 1º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1476.md |
-| art. 5º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
-| art. 5º, § 1º | pas | RJ2002/6413 | 2005-12-14 | condenacao | fundos-investimento | Descumprimento do art. 24 da Instrução CVM nº 209/94. Advertência. | ../../../../../julgados/cvm/pas/2005/rj2002-6413.md |
-| art. 5º, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | fundos-investimento | Irregularidades na administração de fundos de investimento em direitos creditórios – irregularidades na prestação de serviços de custódia a fundo de investimento em direitos creditórios. Multas, proibição temporária e absolvições. | ../../../../../julgados/cvm/pas/2015/rj2013-5456.md |
-| art. 5º, § 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
-| art. 5º, § 24 | pas | RJ2013/5456 | 2015-10-20 | parcial | fundos-investimento | Irregularidades na administração de fundos de investimento em direitos creditórios – irregularidades na prestação de serviços de custódia a fundo de investimento em direitos creditórios. Multas, proibição temporária e absolvições. | ../../../../../julgados/cvm/pas/2015/rj2013-5456.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 5º, § 1º | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| art. 5º, § 1º | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 5º, § 1º | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
+| art. 5º, § 1º | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
+| art. 5º, § 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 5º, § 24 | pas | RJ2013/5456 | 2015-10-20 | parcial | cvm-pas-rj2013-5456 | fichas/pas/2015-06.md |
 
 ## art. 11
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 11, inciso IV | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | fundos-investimento | O Colegiado concordou com a leitura da SIN, segundo a qual o investimento só se admite se os limites do art. 1º, §1º, da Instrução CVM 209/94 forem observados ao fim do exercício, e concedeu a dispensa desse dispositivo, por se tratar da última aquisição do fundo. | ../../../../../julgados/cvm/colegiado/2011/col-20111206-d09.md |
-| art. 11, inciso VI | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12724. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d11.md |
-| art. 11, inciso VI | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12725. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d12.md |
-| art. 11, inciso VI | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12726. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d08.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 11, inciso IV | decisao-colegiado | RJ2008/12041 | 2011-12-06 | deferido | cvm-col-20111206-d09 | fichas/colegiado/2011-28.md |
+| art. 11, inciso VI | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | cvm-col-20140415-d11 | fichas/colegiado/2014-07.md |
+| art. 11, inciso VI | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | cvm-col-20140415-d12 | fichas/colegiado/2014-07.md |
+| art. 11, inciso VI | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | cvm-col-20140520-d08 | fichas/colegiado/2014-09.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12, inciso VIII | decisao-colegiado | RJ2012/0196 | 2012-03-06 | deferido | fundos-investimento | O Colegiado deferiu a dispensa do caput do art. 2º da Instrução CVM 209/94 e nova prorrogação do prazo de funcionamento do Brasil 21 Fundo Mútuo de Investimento em Empresas Emergentes (FMIEE), administrado pela Dynamo V.C., até janeiro de 2014, desde que preservadas as condições da 1ª prorrogação. A SIN manifestou-se favoravelmente, por haver um único cotista. | ../../../../../julgados/cvm/colegiado/2012/col-20120306-d18.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12, inciso VIII | decisao-colegiado | RJ2012/0196 | 2012-03-06 | deferido | cvm-col-20120306-d18 | fichas/colegiado/2012-05.md |
 
 ## art. 22
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 22 | decisao-colegiado | RJ2007/0339 | 2007-02-05 | deferido | ofertas-publicas | O Colegiado concedeu dispensa de registro de oferta pública de cotas do FIPAC FMIEE, de até R$ 100 milhões, nos termos do Memo/SRE/GER-2/020/07. A área técnica propôs a dispensa com base no art. 22 da Instrução 209/94, por já ter sido concedida em processo semelhante. | ../../../../../julgados/cvm/colegiado/2007/col-20070205-d09.md |
-| art. 22 | decisao-colegiado | RJ2007/0523 | 2007-02-05 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa pleiteada de registro de oferta pública de cotas do FUNDOTEC II FMIEE, administrado pela FIR Capital Partners Ltda., de até R$ 60 milhões, nos termos do Memo/SRE/GER-2/020/07. Conforme a área técnica, o fundo se enquadra no art. 22 da Instrução 209/94, com precedentes. | ../../../../../julgados/cvm/colegiado/2007/col-20070205-d10.md |
-| art. 22 | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de registro de oferta pública de cotas do RB Nordeste II – FMIEE, pleiteada pela Rio Bravo Investimentos S/A, nos termos do Memo/SRE/GER-2/064/07. Delegou à SRE a autorização de futuras dispensas de FMIEE com base no art. 22, § 1º, da Instrução 209/94, desde que observados seus requisitos. | ../../../../../julgados/cvm/colegiado/2007/col-20070314-d03.md |
-| art. 22, § 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | ../../../../../julgados/cvm/colegiado/2006/col-20060221-d01.md |
-| art. 22, § 1º | decisao-colegiado | RJ2005/7475; RJ2006/0310; RJ2006/1951 | 2006-07-11 | outro | multa-cominatoria-taxa | Em consulta de banco administrador de três fundos fechados, o Colegiado, acompanhando o voto de um diretor, decidiu que: (i) os fundos devem apresentar as informações dos arts. 23 e seguintes da ICVM 409/04, com as adaptações necessárias; e (ii) é devida a taxa de fiscalização no registro de distribuição pública de cotas. | ../../../../../julgados/cvm/colegiado/2006/col-20060711-d05.md |
-| art. 22, § 1º | decisao-colegiado | RJ2007/0339 | 2007-02-05 | deferido | ofertas-publicas | O Colegiado concedeu dispensa de registro de oferta pública de cotas do FIPAC FMIEE, de até R$ 100 milhões, nos termos do Memo/SRE/GER-2/020/07. A área técnica propôs a dispensa com base no art. 22 da Instrução 209/94, por já ter sido concedida em processo semelhante. | ../../../../../julgados/cvm/colegiado/2007/col-20070205-d09.md |
-| art. 22, § 1º | decisao-colegiado | RJ2007/0523 | 2007-02-05 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa pleiteada de registro de oferta pública de cotas do FUNDOTEC II FMIEE, administrado pela FIR Capital Partners Ltda., de até R$ 60 milhões, nos termos do Memo/SRE/GER-2/020/07. Conforme a área técnica, o fundo se enquadra no art. 22 da Instrução 209/94, com precedentes. | ../../../../../julgados/cvm/colegiado/2007/col-20070205-d10.md |
-| art. 22, § 1º | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de registro de oferta pública de cotas do RB Nordeste II – FMIEE, pleiteada pela Rio Bravo Investimentos S/A, nos termos do Memo/SRE/GER-2/064/07. Delegou à SRE a autorização de futuras dispensas de FMIEE com base no art. 22, § 1º, da Instrução 209/94, desde que observados seus requisitos. | ../../../../../julgados/cvm/colegiado/2007/col-20070314-d03.md |
-| art. 22, § 1º, inciso II | decisao-colegiado | RJ2005/8524 | 2006-11-13 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de prévio registro de distribuição de cotas do Fundo Mútuo de Investimento em Empresas Emergentes Inovadoras Stratus VC III, pedida pela administradora Stratus Investimentos Ltda. com base no art. 22, §1º, II, da Instrução 209/94. Condição: aplicação mínima de R$ 300 mil no termo de compromisso de investimento. | ../../../../../julgados/cvm/colegiado/2006/col-20061113-d04.md |
-| art. 22, § 2º | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | ofertas-publicas | O Colegiado concedeu a dispensa de registro de oferta pública de cotas do RB Nordeste II – FMIEE, pleiteada pela Rio Bravo Investimentos S/A, nos termos do Memo/SRE/GER-2/064/07. Delegou à SRE a autorização de futuras dispensas de FMIEE com base no art. 22, § 1º, da Instrução 209/94, desde que observados seus requisitos. | ../../../../../julgados/cvm/colegiado/2007/col-20070314-d03.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 22 | decisao-colegiado | RJ2007/0339 | 2007-02-05 | deferido | cvm-col-20070205-d09 | fichas/colegiado/2007-03.md |
+| art. 22 | decisao-colegiado | RJ2007/0523 | 2007-02-05 | deferido | cvm-col-20070205-d10 | fichas/colegiado/2007-03.md |
+| art. 22 | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | cvm-col-20070314-d03 | fichas/colegiado/2007-04.md |
+| art. 22, § 1º | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
+| art. 22, § 1º | decisao-colegiado | RJ2005/7475; RJ2006/0310; RJ2006/1951 | 2006-07-11 | outro | cvm-col-20060711-d05 | fichas/colegiado/2006-11.md |
+| art. 22, § 1º | decisao-colegiado | RJ2007/0339 | 2007-02-05 | deferido | cvm-col-20070205-d09 | fichas/colegiado/2007-03.md |
+| art. 22, § 1º | decisao-colegiado | RJ2007/0523 | 2007-02-05 | deferido | cvm-col-20070205-d10 | fichas/colegiado/2007-03.md |
+| art. 22, § 1º | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | cvm-col-20070314-d03 | fichas/colegiado/2007-04.md |
+| art. 22, § 1º, inciso II | decisao-colegiado | RJ2005/8524 | 2006-11-13 | deferido | cvm-col-20061113-d04 | fichas/colegiado/2006-17.md |
+| art. 22, § 2º | decisao-colegiado | RJ2007/0959 | 2007-03-14 | deferido | cvm-col-20070314-d03 | fichas/colegiado/2007-04.md |
 
 ## art. 24
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 24 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | manipulacao-fraude | O Colegiado rejeitou todas as propostas de termo de compromisso de proponentes acusados de operação fraudulenta e falha na fiscalização de FIDC, por considerar inconveniente e inoportuno acordo com apenas parte dos acusados, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200331-d1476.md |
-| art. 24 | termo-compromisso | 19957.011763/2017-61 | 2020-04-07 | aceito | fundos-investimento | O Colegiado aceitou proposta de termo de compromisso de administradora de fundos e seu diretor responsável por inadequação de controles internos para gestão de liquidez (ICVM 555, arts. 59, I, 91 e 92, I), com pagamento total de R$ 4.872.500,00 em parcela única, acompanhando o Comitê. | ../../../../../julgados/cvm/colegiado/2020/col-20200407-d1090.md |
-| art. 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
-| art. 24 | pas | RJ2002/6413 | 2005-12-14 | condenacao | fundos-investimento | Descumprimento do art. 24 da Instrução CVM nº 209/94. Advertência. | ../../../../../julgados/cvm/pas/2005/rj2002-6413.md |
-| art. 24 | pas | RJ2003/13021 | 2007-07-31 | parcial | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365/02. Absolvição. - Utilização, pelo Administrador, de recursos de um Fundo para beneficiar outro Fundo, distribuindo possíveis prejuízos. Multa | ../../../../../julgados/cvm/pas/2007/rj2003-13021.md |
-| art. 24 | pas | RJ2007/9559 | 2008-01-16 | condenacao | divulgacao-informacoes | Mellon Serviços Financeiros DTVM S.A. - Aquisição e alienação por Clube de Investimento de participação acionária relevante no capital social de companhia aberta sem as devidas comunicações ao mercado. Infração ao art. 12, caput e parágrafos 3º e 4º, da Instrução CVM nº 358/02. Multa. | ../../../../../julgados/cvm/pas/2008/rj2007-9559.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 24 | termo-compromisso | 19957.007862/2018-20 | 2020-03-31 | rejeitado | cvm-col-20200331-d1476 | fichas/tc/2020-02.md |
+| art. 24 | termo-compromisso | 19957.011763/2017-61 | 2020-04-07 | aceito | cvm-col-20200407-d1090 | fichas/tc/2020-03.md |
+| art. 24 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
+| art. 24 | pas | RJ2002/6413 | 2005-12-14 | condenacao | cvm-pas-rj2002-6413 | fichas/pas/2005-10.md |
+| art. 24 | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
+| art. 24 | pas | RJ2007/9559 | 2008-01-16 | condenacao | cvm-pas-rj2007-9559 | fichas/pas/2008-01.md |
 
 ## art. 25
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 25 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | fundos-investimento | Em continuação de julgamento após pedido de vista, o Colegiado, por unanimidade, respondeu consulta da SRE sobre cotas de FIP e FIDC: não cabe registro de fundo sem distribuição pública; a intervenção de intermediário decorre de lei, salvo dispensa em norma geral; determinou a revisão da Instrução CVM 409/04. | ../../../../../julgados/cvm/colegiado/2006/col-20060221-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 25 | decisao-colegiado | RJ2005/2345 | 2006-02-21 | outro | cvm-col-20060221-d01 | fichas/colegiado/2006-03.md |
 
 ## art. 26
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 26 | decisao-antiga | — | 2001-01-09 | — | — | Decisões do colegiado de 2001. | ../../../../../julgados/cvm/decisoes-antigas/2001.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 26 | decisao-antiga | — | 2001-01-09 | — | cvm-dec-2001-0001 | fichas/decisoes-antigas/2001-28.md |
 
 ## art. 34
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 34 | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14130. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d08.md |
-| art. 34 | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14131. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d09.md |
-| art. 34 | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14133. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d10.md |
-| art. 34 | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14134. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d11.md |
-| art. 34, inciso I | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14130. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d08.md |
-| art. 34, inciso I | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14131. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d09.md |
-| art. 34, inciso I | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14133. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d10.md |
-| art. 34, inciso I | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14134. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d11.md |
-| art. 34, inciso I | decisao-colegiado | RJ2013/12482; RJ2013/13432 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. s. RJ2013/12482 e RJ2013/13432. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d10.md |
-| art. 34, inciso I | decisao-colegiado | RJ2013/12544 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12544. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d07.md |
-| art. 34, inciso II, alínea b | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12724. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d11.md |
-| art. 34, inciso II, alínea b | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12725. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d12.md |
-| art. 34, inciso III | decisao-colegiado | RJ2009/5629 | 2009-09-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/5629. | ../../../../../julgados/cvm/colegiado/2009/col-20090915-d08.md |
-| art. 34, inciso III | decisao-colegiado | RJ2009/9530 | 2010-02-23 | provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/9530. | ../../../../../julgados/cvm/colegiado/2010/col-20100223-d08.md |
-| art. 34, inciso III | decisao-colegiado | RJ2013/12723 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12723. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d08.md |
-| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12497 | 2014-04-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12497. | ../../../../../julgados/cvm/colegiado/2014/col-20140401-d03.md |
-| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12487 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12487. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d07.md |
-| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12723 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12723. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d08.md |
-| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12726. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d08.md |
-| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12943 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12943. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 34 | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | cvm-col-20120724-d08 | fichas/colegiado/2012-13.md |
+| art. 34 | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | cvm-col-20120724-d09 | fichas/colegiado/2012-13.md |
+| art. 34 | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | cvm-col-20120724-d10 | fichas/colegiado/2012-13.md |
+| art. 34 | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | cvm-col-20120724-d11 | fichas/colegiado/2012-13.md |
+| art. 34, inciso I | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | cvm-col-20120724-d08 | fichas/colegiado/2012-13.md |
+| art. 34, inciso I | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | cvm-col-20120724-d09 | fichas/colegiado/2012-13.md |
+| art. 34, inciso I | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | cvm-col-20120724-d10 | fichas/colegiado/2012-13.md |
+| art. 34, inciso I | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | cvm-col-20120724-d11 | fichas/colegiado/2012-13.md |
+| art. 34, inciso I | decisao-colegiado | RJ2013/12482; RJ2013/13432 | 2014-04-08 | nao-provido | cvm-col-20140408-d10 | fichas/colegiado/2014-06.md |
+| art. 34, inciso I | decisao-colegiado | RJ2013/12544 | 2014-05-20 | nao-provido | cvm-col-20140520-d07 | fichas/colegiado/2014-09.md |
+| art. 34, inciso II, alínea b | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | cvm-col-20140415-d11 | fichas/colegiado/2014-07.md |
+| art. 34, inciso II, alínea b | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | cvm-col-20140415-d12 | fichas/colegiado/2014-07.md |
+| art. 34, inciso III | decisao-colegiado | RJ2009/5629 | 2009-09-15 | nao-provido | cvm-col-20090915-d08 | fichas/colegiado/2009-16.md |
+| art. 34, inciso III | decisao-colegiado | RJ2009/9530 | 2010-02-23 | provido | cvm-col-20100223-d08 | fichas/colegiado/2010-06.md |
+| art. 34, inciso III | decisao-colegiado | RJ2013/12723 | 2014-04-08 | nao-provido | cvm-col-20140408-d08 | fichas/colegiado/2014-06.md |
+| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12497 | 2014-04-01 | nao-provido | cvm-col-20140401-d03 | fichas/colegiado/2014-06.md |
+| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12487 | 2014-04-08 | nao-provido | cvm-col-20140408-d07 | fichas/colegiado/2014-06.md |
+| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12723 | 2014-04-08 | nao-provido | cvm-col-20140408-d08 | fichas/colegiado/2014-06.md |
+| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | cvm-col-20140520-d08 | fichas/colegiado/2014-09.md |
+| art. 34, inciso III, alínea a | decisao-colegiado | RJ2013/12943 | 2014-05-20 | nao-provido | cvm-col-20140520-d09 | fichas/colegiado/2014-09.md |
 
 ## art. 38
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 38, inciso II | decisao-colegiado | RJ2010/13171 | 2010-12-28 | parcial | fundos-investimento | O Colegiado confirmou que os incisos II e III do art. 35 da Instrução 391/03 vedam ao fundo tomar empréstimos e prestar garantias, ainda que aprovados pelos cotistas. Por maioria, concedeu a dispensa só do inciso III, para aquisição de ações gravadas, e indeferiu a do inciso II. Um diretor vencido, acompanhando a SIN, votou pela dispensa dos dois. | ../../../../../julgados/cvm/colegiado/2010/col-20101228-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 38, inciso II | decisao-colegiado | RJ2010/13171 | 2010-12-28 | parcial | cvm-col-20101228-d01 | fichas/colegiado/2010-30.md |
 
 ## art. 40
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 40 | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 40 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
 
 ## art. 41
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 41 | pas | RJ2003/5753 | 2004-07-28 | condenacao | fundos-investimento | Pedido simultâneo de credenciamento de administrador e de registro de Fundo Mútuo de Investimento em Empresas Emergentes. Início das atividades e emissão de novas cotas do fundo sem as prévias autorizações da CVM. Caracterização do descumprimento dos artigos 3º, 5º, parágrafo 1º, e do artigo 24 da Instrução CVM nº 209/94, que determinam, respectivamente que: - o administrador deve solicitar prévia autorização para constituição do fundo e, posteriormente, para funcionamento do mesmo; - as emissões de novas cotas devem ser submetidas à CVM previamente à sua formalização; - os recursos devem ser mantidos aplicados em títulos de renda fixa, públicos, ou privados, durante o período entre a concessão das autorizações para constituição e funcionamento do fundo. | ../../../../../julgados/cvm/pas/2004/rj2003-5753.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 41 | pas | RJ2003/5753 | 2004-07-28 | condenacao | cvm-pas-rj2003-5753 | fichas/pas/2004-04.md |
 
 ## art. 45
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 45 | decisao-colegiado | RJ2009/5629 | 2009-09-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/5629. | ../../../../../julgados/cvm/colegiado/2009/col-20090915-d08.md |
-| art. 45 | decisao-colegiado | RJ2009/9530 | 2010-02-23 | provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/9530. | ../../../../../julgados/cvm/colegiado/2010/col-20100223-d08.md |
-| art. 45 | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14130. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d08.md |
-| art. 45 | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14131. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d09.md |
-| art. 45 | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14133. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d10.md |
-| art. 45 | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2007/14134. | ../../../../../julgados/cvm/colegiado/2012/col-20120724-d11.md |
-| art. 45 | decisao-colegiado | RJ2013/12497 | 2014-04-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12497. | ../../../../../julgados/cvm/colegiado/2014/col-20140401-d03.md |
-| art. 45 | decisao-colegiado | RJ2013/12487 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12487. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d07.md |
-| art. 45 | decisao-colegiado | RJ2013/12482; RJ2013/13432 | 2014-04-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. s. RJ2013/12482 e RJ2013/13432. | ../../../../../julgados/cvm/colegiado/2014/col-20140408-d10.md |
-| art. 45 | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12724. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d11.md |
-| art. 45 | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12725. | ../../../../../julgados/cvm/colegiado/2014/col-20140415-d12.md |
-| art. 45 | decisao-colegiado | RJ2013/12544 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12544. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d07.md |
-| art. 45 | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12726. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d08.md |
-| art. 45 | decisao-colegiado | RJ2013/12943 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/12943. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d09.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 45 | decisao-colegiado | RJ2009/5629 | 2009-09-15 | nao-provido | cvm-col-20090915-d08 | fichas/colegiado/2009-16.md |
+| art. 45 | decisao-colegiado | RJ2009/9530 | 2010-02-23 | provido | cvm-col-20100223-d08 | fichas/colegiado/2010-06.md |
+| art. 45 | decisao-colegiado | RJ2007/14130 | 2012-07-24 | nao-provido | cvm-col-20120724-d08 | fichas/colegiado/2012-13.md |
+| art. 45 | decisao-colegiado | RJ2007/14131 | 2012-07-24 | nao-provido | cvm-col-20120724-d09 | fichas/colegiado/2012-13.md |
+| art. 45 | decisao-colegiado | RJ2007/14133 | 2012-07-24 | nao-provido | cvm-col-20120724-d10 | fichas/colegiado/2012-13.md |
+| art. 45 | decisao-colegiado | RJ2007/14134 | 2012-07-24 | nao-provido | cvm-col-20120724-d11 | fichas/colegiado/2012-13.md |
+| art. 45 | decisao-colegiado | RJ2013/12497 | 2014-04-01 | nao-provido | cvm-col-20140401-d03 | fichas/colegiado/2014-06.md |
+| art. 45 | decisao-colegiado | RJ2013/12487 | 2014-04-08 | nao-provido | cvm-col-20140408-d07 | fichas/colegiado/2014-06.md |
+| art. 45 | decisao-colegiado | RJ2013/12482; RJ2013/13432 | 2014-04-08 | nao-provido | cvm-col-20140408-d10 | fichas/colegiado/2014-06.md |
+| art. 45 | decisao-colegiado | RJ2013/12724 | 2014-04-15 | nao-provido | cvm-col-20140415-d11 | fichas/colegiado/2014-07.md |
+| art. 45 | decisao-colegiado | RJ2013/12725 | 2014-04-15 | nao-provido | cvm-col-20140415-d12 | fichas/colegiado/2014-07.md |
+| art. 45 | decisao-colegiado | RJ2013/12544 | 2014-05-20 | nao-provido | cvm-col-20140520-d07 | fichas/colegiado/2014-09.md |
+| art. 45 | decisao-colegiado | RJ2013/12726 | 2014-05-20 | nao-provido | cvm-col-20140520-d08 | fichas/colegiado/2014-09.md |
+| art. 45 | decisao-colegiado | RJ2013/12943 | 2014-05-20 | nao-provido | cvm-col-20140520-d09 | fichas/colegiado/2014-09.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | fundos-investimento | Recursos voluntários e de ofício. Fundos de Investimento em Direitos Creditórios – FIDC. Irregularidades na prestação de serviço de administração. Não manutenção da documentação relativa às operações de FIDC atualizada e em perfeita ordem. Aplicação incorreta dos procedimentos estabelecidos na Resolução CMN nº 2.682/99 para a classificação de risco dos direitos creditórios integrantes da carteira dos fundos. Não observância das disposições constantes do regulamento do fundo. Absolvição da acusação de não fiscalização dos serviços prestados pelo custodiante ao FIDC por falta de evidências. Provimento parcial aos recursos voluntários. Reincidência genérica. Irregularidades na prestação de serviços de custódia de FIDC. Não manutenção atualizada e em perfeita ordem a documentação relativa às operações do fundo. Possibilidade de delegação das atividades de guarda e liquidação de direitos creditórios em conformidade com o regulamento. Manutenção da absolvição da acusação de delegação de cobrança de direitos creditórios. Proibição temporária e multas. | ../../../../../julgados/crsfn/2018/14419.md |
-| decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | normativo | O Colegiado aprovou alteração da Instrução CVM 578/2016, conforme minuta da SDM, para que os FIC-FIPs constituídos sob a Instrução CVM 391/2003 mantenham a classificação de fundos de investimento em cotas, por interesse dos cotistas. Dispensou audiência pública (art. 14 da Portaria CVM 170/2014). | ../../../../../julgados/cvm/colegiado/2017/col-20170816-d0785.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | administracao-carteiras | Em consulta da ABRAPP sobre a Instrução CVM 558/2015, o Colegiado, por maioria, acompanhou a SIN e decidiu alterar a Deliberação CVM 753/2016 para incluir as EFPC entre os investidores institucionais elegíveis a gestores de fundos exclusivos de que sejam cotistas. | ../../../../../julgados/cvm/colegiado/2017/col-20170214-d0222.md |
-| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | administracao-carteiras | O Colegiado decidiu, por unanimidade, acompanhar o entendimento da SIN (Memorando 21/2016) sobre a consulta da ANBIMA quanto à aplicação da Instrução CVM 558/2015 à gestão de recursos próprios; a SIN propôs tratamento como o da Deliberação CVM 244/1998, estendido às tesourarias de instituições financeiras. A decisão sobre a consulta da ABRAPP foi adiada. | ../../../../../julgados/cvm/colegiado/2016/col-20160524-d0222.md |
-| decisao-colegiado | RJ2013/1290 | 2013-10-15 | deferido | ofertas-publicas | O Colegiado aprovou o registro da oferta pública de distribuição de cotas da 2ª emissão do BBIF FIDC Master LP, com dispensas de prospecto e de anúncios de início e encerramento. Fundamento: distribuição restrita a investidores institucionais qualificados, cota de R$ 1 milhão. Determinou à SDM avaliar o registro de fundos abertos com carência ou resgate superior a 30 dias. | ../../../../../julgados/cvm/colegiado/2013/col-20131015-d06.md |
-| decisao-colegiado | RJ2011/14212 | 2012-09-11 | provido | fundos-investimento | O Colegiado, por maioria, deu provimento a recursos contra decisão da SIN que impugnou a transformação de FIP (ICVM 391/03) em FIA (ICVM 409/04), diante das características do caso: cotistas superqualificados de fundo fechado e precedentes do Colegiado. A SIN havia se manifestado contrariamente. O Colegiado acompanhou a recomendação de tratamento mais claro da matéria feita pela diretora vencida. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d09.md |
-| decisao-colegiado | RJ2011/13780 | 2012-09-11 | provido | fundos-investimento | O Colegiado, por maioria, deu provimento a recurso contra decisão da SIN que impugnou a transformação de FIP (ICVM 391/03) em FIA (ICVM 409/04). Acompanhou o voto da relatora: para cotistas superqualificados de fundo fechado, cuja política não está sujeita aos limites de concentração, a transformação é admitida, conforme precedentes. Recomendou tratamento mais claro da matéria. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d08.md |
-| decisao-colegiado | RJ2011/9120 | 2012-09-11 | provido | fundos-investimento | O Colegiado, por maioria, deu provimento a recurso contra decisão da SIN que impugnou a transformação de FIP (Instrução CVM 391/03) em fundo multimercado (Instrução CVM 409/04). Fundamento: características do caso concreto, fundo fechado de investidores superqualificados, e precedentes do Colegiado. Acolheu a recomendação de tratamento mais claro da matéria, vencida a diretora que acompanhava a SIN. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d07.md |
-| decisao-colegiado | RJ2010/12484; RJ2011/2164; RJ2011/2165; RJ2011/2167; RJ2011/2168 | 2012-08-28 | provido | fundos-investimento | Por maioria, o Colegiado proveu recursos contra decisão da SIN e permitiu a transformação de FICFIPs em fundos regulados pela Instrução CVM 409/04, no caso concreto, em que os cotistas são investidores superqualificados. Vencida uma diretora. | ../../../../../julgados/cvm/colegiado/2012/col-20120828-d03.md |
-| decisao-colegiado | RJ2011/4982 | 2011-08-16 | indeferido | ofertas-publicas | O Colegiado indeferiu o pedido de dispensa de elaboração de prospecto para a distribuição pública de cotas do DGF Inova Fundo Mútuo de Investimento em Empresas Emergentes Inovadoras, com base na manifestação da área técnica, por considerar que todos os precedentes invocados pela requerente são anteriores à Instrução CVM 476/09. | ../../../../../julgados/cvm/colegiado/2011/col-20110816-d21.md |
-| decisao-colegiado | RJ2008/8529 | 2008-12-16 | outro | normativo | O Colegiado aprovou, após audiência pública, com algumas alterações, a minuta de Instrução que altera a Instrução CVM 209/94, que rege os fundos de investimento em empresas emergentes, no texto apresentado pela SDM. | ../../../../../julgados/cvm/colegiado/2008/col-20081216-d15.md |
-| decisao-colegiado | — | 2008-09-10 | outro | normativo | O Colegiado aprovou, com alterações, minuta de Instrução que altera a Instrução CVM 209/94, que rege os fundos mútuos de investimento em empresas emergentes (FMIEE), para audiência pública de 30 dias. A SDM consolidará as sugestões. | ../../../../../julgados/cvm/colegiado/2008/col-20080910-d01.md |
-| decisao-colegiado | RJ2008/2882 | 2008-04-30 | outro | normativo | O Colegiado aprovou, com alterações, a minuta de alteração da Instrução CVM 209/94 (atualização monetária) apresentada pela SDM. | ../../../../../julgados/cvm/colegiado/2008/col-20080430-d02.md |
-| decisao-colegiado | RJ2007/13721 | 2008-04-15 | deferido | fundos-investimento | O Colegiado decidiu que a transformação do Parâmetro, fundo multimercado de crédito privado, em fundo de investimento em empresas emergentes está de acordo com a regulamentação, acompanhando o relator, que concordou com a GER-3 (opinou pela legalidade). A SIN havia submetido o caso ao Colegiado. Processo segue à SIN. | ../../../../../julgados/cvm/colegiado/2008/col-20080415-d05.md |
-| decisao-colegiado | RJ2005/1112 | 2005-02-22 | outro | normativo | O Colegiado aprovou minuta de Instrução que cria fundos de investimento em empresas emergentes inovadoras, por alteração pontual da Instrução CVM 209/94, dado o prazo exíguo da Lei 10.973/04. Decidiu audiência pública sobre a regulamentação dos fundos de empresas emergentes, com sugestões até 31.03.2005. | ../../../../../julgados/cvm/colegiado/2005/col-20050222-d07.md |
-| decisao-colegiado | — | 2002-05-29 | outro | fundos-investimento | O Colegiado aprovou a alteração da Instrução CVM 209/94, que dispõe sobre a constituição, o funcionamento e a administração dos fundos de investimento em empresas emergentes. | ../../../../../julgados/cvm/colegiado/2002/col-20020529-d04.md |
-| decisao-colegiado | — | 2002-04-02 | outro | normativo | O Colegiado aprovou a minuta de Instrução que altera a Instrução CVM 209, sobre a constituição, o funcionamento e a administração de fundos de investimento em empresas emergentes. | ../../../../../julgados/cvm/colegiado/2002/col-20020402-d05.md |
-| decisao-antiga | — | 1994-01-04 | — | — | Decisões do colegiado de 1994. | ../../../../../julgados/cvm/decisoes-antigas/1994.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | RJ2013/5456 | 2018-07-10 | parcial | crsfn-14419 | fichas/crsfn/2018-04.md |
+| decisao-colegiado | 578/2016; 19957.006557/2017-30 | 2017-08-16 | outro | cvm-col-20170816-d0785 | fichas/colegiado/2017-14.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2017-02-14 | outro | cvm-col-20170214-d0222 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | 558/2015; 19957.002943/2016-71 | 2016-05-24 | — | cvm-col-20160524-d0222 | fichas/colegiado/2016-10.md |
+| decisao-colegiado | RJ2013/1290 | 2013-10-15 | deferido | cvm-col-20131015-d06 | fichas/colegiado/2013-19.md |
+| decisao-colegiado | RJ2011/14212 | 2012-09-11 | provido | cvm-col-20120911-d09 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | RJ2011/13780 | 2012-09-11 | provido | cvm-col-20120911-d08 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | RJ2011/9120 | 2012-09-11 | provido | cvm-col-20120911-d07 | fichas/colegiado/2012-16.md |
+| decisao-colegiado | RJ2010/12484; RJ2011/2164; RJ2011/2165; RJ2011/2167; RJ2011/2168 | 2012-08-28 | provido | cvm-col-20120828-d03 | fichas/colegiado/2012-14.md |
+| decisao-colegiado | RJ2011/4982 | 2011-08-16 | indeferido | cvm-col-20110816-d21 | fichas/colegiado/2011-16.md |
+| decisao-colegiado | RJ2008/8529 | 2008-12-16 | outro | cvm-col-20081216-d15 | fichas/colegiado/2008-28.md |
+| decisao-colegiado | — | 2008-09-10 | outro | cvm-col-20080910-d01 | fichas/colegiado/2008-20.md |
+| decisao-colegiado | RJ2008/2882 | 2008-04-30 | outro | cvm-col-20080430-d02 | fichas/colegiado/2008-10.md |
+| decisao-colegiado | RJ2007/13721 | 2008-04-15 | deferido | cvm-col-20080415-d05 | fichas/colegiado/2008-09.md |
+| decisao-colegiado | RJ2005/1112 | 2005-02-22 | outro | cvm-col-20050222-d07 | fichas/colegiado/2005-04.md |
+| decisao-colegiado | — | 2002-05-29 | outro | cvm-col-20020529-d04 | fichas/colegiado/2002-12.md |
+| decisao-colegiado | — | 2002-04-02 | outro | cvm-col-20020402-d05 | fichas/colegiado/2002-07.md |
+| decisao-antiga | — | 1994-01-04 | — | cvm-dec-1994-0001 | fichas/decisoes-antigas/1994-05.md |
 
 Fim do subíndice.

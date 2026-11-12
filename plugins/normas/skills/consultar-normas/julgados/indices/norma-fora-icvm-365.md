@@ -3,62 +3,62 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 1º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 1º | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de utilização da mecânica de curva do papel – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2007/8546.md |
-| art. 1º | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO -. Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Erro de proibição - Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2008/9229.md |
-| art. 1º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de utilização da mecânica de curva do papel – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2009/8545.md |
-| art. 1º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | fundos-investimento | BANCO DA AMAZÔNIA S/A e JORGE NEMETALA JOSÉ FILHO Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-5058.md |
-| art. 1º | pas | RJ2003/5596 | 2005-04-25 | condenacao | fundos-investimento | BANCO NOSSA CAIXA S/A E OUTRO Os fundos de investimento de renda fixa que não eram destinados a um único investidor e que em 29.05.2002 avaliavam os ativos que compunham a sua carteira por critério que não fosse o valor de mercado estavam em desacordo com o preceituado no artigo 3º, "caput", da Circular nº 3.086/2002, no artigo 2º da Circular nº 2.654/96, ambas do Banco Central do Brasil. | ../../../../../julgados/cvm/pas/2005/rj2003-5596.md |
-| art. 1º | pas | RJ2003/6098 | 2005-11-08 | absolvicao | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-6098.md |
-| art. 1º | pas | RJ2003/6894 | 2005-11-08 | absolvicao | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-6894.md |
-| art. 1º, parágrafo único | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de utilização da mecânica de curva do papel – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2007/8546.md |
-| art. 1º, parágrafo único | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO -. Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Erro de proibição - Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2008/9229.md |
-| art. 1º, parágrafo único | pas | RJ2003/5058 | 2005-06-20 | absolvicao | fundos-investimento | BANCO DA AMAZÔNIA S/A e JORGE NEMETALA JOSÉ FILHO Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-5058.md |
-| art. 1º, parágrafo único | pas | RJ2003/5509 | 2005-06-24 | absolvicao | fundos-investimento | BANRISUL Os fundos de investimento financeiro e fundos de aplicação em quotas de fundos de investimento que, em 29.05.2002, avaliavam os ativos que compunham a sua carteira por critério diverso do valor de mercado estavam em desacordo com o preceituado no artigo 3º, "caput", da Circular nº 3.086/2002 e no artigo 2º da Circular nº 2.654/96, ambas do Banco Central do Brasil. | ../../../../../julgados/cvm/pas/2005/rj2003-5509.md |
-| art. 1º, parágrafo único | pas | RJ2003/5849 | 2005-12-21 | absolvicao | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-5849.md |
-| art. 1º, parágrafo único | pas | RJ2003/7642 | 2005-06-27 | absolvicao | fundos-investimento | BANCO DO NORDESTE DO BRASIL S/A E [pessoa física] Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-7642.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 1º | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | crsfn-8546 | fichas/crsfn/2007-01.md |
+| art. 1º | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
+| art. 1º | acordao-crsfn | RJ-2003-5058 | 2009-05-06 | absolvicao | crsfn-8545 | fichas/crsfn/2009-02.md |
+| art. 1º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| art. 1º | pas | RJ2003/5596 | 2005-04-25 | condenacao | cvm-pas-rj2003-5596 | fichas/pas/2005-03.md |
+| art. 1º | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-08.md |
+| art. 1º | pas | RJ2003/6894 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6894 | fichas/pas/2005-08.md |
+| art. 1º, parágrafo único | acordao-crsfn | RJ-2003-7642 | 2007-01-31 | absolvicao | crsfn-8546 | fichas/crsfn/2007-01.md |
+| art. 1º, parágrafo único | acordao-crsfn | RJ-2003/5509 | 2008-02-26 | absolvicao | crsfn-9229 | fichas/crsfn/2008-01.md |
+| art. 1º, parágrafo único | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| art. 1º, parágrafo único | pas | RJ2003/5509 | 2005-06-24 | absolvicao | cvm-pas-rj2003-5509 | fichas/pas/2005-05.md |
+| art. 1º, parágrafo único | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
+| art. 1º, parágrafo único | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | fundos-investimento | BANCO DA AMAZÔNIA S/A e JORGE NEMETALA JOSÉ FILHO Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-5058.md |
-| art. 2º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-5849.md |
-| art. 2º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | fundos-investimento | BANCO DO NORDESTE DO BRASIL S/A E [pessoa física] Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-7642.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | pas | RJ2003/5058 | 2005-06-20 | absolvicao | cvm-pas-rj2003-5058 | fichas/pas/2005-05.md |
+| art. 2º | pas | RJ2003/5849 | 2005-12-21 | absolvicao | cvm-pas-rj2003-5849 | fichas/pas/2005-10.md |
+| art. 2º | pas | RJ2003/7642 | 2005-06-27 | absolvicao | cvm-pas-rj2003-7642 | fichas/pas/2005-05.md |
 
 ## art. 3º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 3º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | fundos-investimento | BANCO SAFRA S/A E [pessoa física] Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02 ". | ../../../../../julgados/cvm/pas/2005/rj2003-12312.md |
-| art. 3º | pas | RJ2003/13021 | 2007-07-31 | parcial | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365/02. Absolvição. - Utilização, pelo Administrador, de recursos de um Fundo para beneficiar outro Fundo, distribuindo possíveis prejuízos. Multa | ../../../../../julgados/cvm/pas/2007/rj2003-13021.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 3º | pas | RJ2003/12312 | 2005-06-27 | absolvicao | cvm-pas-rj2003-12312 | fichas/pas/2005-05.md |
+| art. 3º | pas | RJ2003/13021 | 2007-07-31 | parcial | cvm-pas-rj2003-13021 | fichas/pas/2007-05.md |
 
 ## art. 17
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 17 | pas | RJ2003/6098 | 2005-11-08 | absolvicao | fundos-investimento | Os fundos de investimento sujeitos à Circular BACEN nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução CVM nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-6098.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 17 | pas | RJ2003/6098 | 2005-11-08 | absolvicao | cvm-pas-rj2003-6098 | fichas/pas/2005-08.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | divulgacao-informacoes | RECURSO(S) DE OFÍCIO – Mercado de valores mobiliários – Aquisição de participação superior ao porcentual de 5% (cinco por cento) do capital da companhia – Ausência de comunicação, pelo representante legal, da nova posição acionária à CVM ou de protocolo do pedido de dispensa de tal divulgação na autarquia fiscalizadora – Falta de elementos comprobatórios da ciência, pelo representante legal, da compra das ações e do não cumprimento da obrigação por parte do investidor não residente - Irregularidade não caracterizada – Recurso de ofício improvido – Arquivamento. | ../../../../../julgados/crsfn/2012/12697.md |
-| acordao-crsfn | RJ-2003-13021 | 2012-02-13 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor de mercado – Superveniência de normativo de vedação, de forma explícita, de utilização de mecânica de curva do papel - Irregularidades não caracterizadas – Recurso de ofício improvido - Arquivamento. | ../../../../../julgados/crsfn/2012/11748.md |
-| acordao-crsfn | RJ-2003/7697 | 2009-07-21 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO -. Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2009/8674.md |
-| acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | fundos-investimento | RECURSOS VOLUNTÁRIOS E DE OFÍCIO – Mercado de valores mobiliários – Fundos de Investimento – Critério de marcação a mercado instituído nos regulamentos e prospectos dos condomínios – Abandono do parâmetro sem devida chancela ou sem aplicação de outro critério consistente de precificação dos ativos das carteiras – Irrelevância, na espécie, da arguição de inexistência de prejuízos – Razões de defesa acolhidas em parte – Apelos voluntários a que se dá provimento parcial – Recurso de ofício improvido. | ../../../../../julgados/crsfn/2009/7356.md |
-| acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de utilização da mecânica de curva do papel – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2008/9798.md |
-| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | fundos-investimento | RECURSOS VOLUNTÁRIOS – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de utilização da mecânica de curva do papel – Irregularidade não configurada – Apelos a que se dá provimento. | ../../../../../julgados/crsfn/2008/8547.md |
-| acordao-crsfn | RJ-2003/6098 | 2006-12-13 | absolvicao | fundos-investimento | RECURSO DE OFÍCIO – Mercado de valores mobiliários – Fundos de investimento – Marcação a mercado – Anuência tácita da Administração Pública em determinado período com a sistemática de avaliação de títulos por meio de curva do papel equivalentemente à de valor do mercado – Superveniência de normativo de vedação, de forma explícita, de uso da mecânica de curva do papel – Irregularidade não configurada – Recurso improvido. | ../../../../../julgados/crsfn/2006/9228.md |
-| pas | RJ2003/7697 | 2005-08-23 | absolvicao | fundos-investimento | SUL AMÉRICA INVESTIMENTOS S/A E [pessoa física] Os fundos de investimentos sujeitos à Circular/BACEN/Nº 3.086/02, durante o prazo de adaptação às regras por ela impostas, só estavam obrigados a seguir os critérios de registro de ativos nela estabelecidos quando do encerramento desse prazo de adaptação, na forma estabelecida pela Instrução/CVM/Nº 365, de 29/05/02. | ../../../../../julgados/cvm/pas/2005/rj2003-7697.md |
-| pas | RJ2002/8428 | 2004-10-14 | parcial | fundos-investimento | Bank of America S/A CCVM e outros. Irregularidade no tocante ao abandono do critério de marcação a mercado que vinha sendo adotado sem autorização, ou adoção de outro critério aceitável. Multas. Não comprovação de descumprimento da Instrução CVM nº 306. Absolvições. Rejeição da imputação de extrapolação dos limites operacionais dos Fundos Multicarteira Arrojado e Ryoyuw. Absolvições. Rejeição da imputação de embaraço à fiscalização. Absolvições. | ../../../../../julgados/cvm/pas/2004/rj2002-8428.md |
-| decisao-colegiado | — | 2004-03-09 | outro | multa-cominatoria-taxa | O Colegiado, por maioria, entendeu não ser devida a taxa de fiscalização. Manifestou entendimento de que é possível, em tese, cobrar taxa de registro de distribuição de valor mobiliário aplicável às quotas de fundos, devendo a SIN e a SDM, sob coordenação do SGE, estudar a alíquota adequada e seus efeitos, para novo exame pelo Colegiado. | ../../../../../julgados/cvm/colegiado/2004/col-20040309-d07.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | RJ-2007-11415 | 2012-12-18 | arquivamento | crsfn-12697 | fichas/crsfn/2012-05.md |
+| acordao-crsfn | RJ-2003-13021 | 2012-02-13 | absolvicao | crsfn-11748 | fichas/crsfn/2012-01.md |
+| acordao-crsfn | RJ-2003/7697 | 2009-07-21 | absolvicao | crsfn-8674 | fichas/crsfn/2009-04.md |
+| acordao-crsfn | RJ-2002-8428 | 2009-04-15 | parcial | crsfn-7356 | fichas/crsfn/2009-02.md |
+| acordao-crsfn | RJ-2003-5849 | 2008-09-23 | absolvicao | crsfn-9798 | fichas/crsfn/2008-05.md |
+| acordao-crsfn | RJ-2003/5596 | 2008-07-29 | arquivamento | crsfn-8547 | fichas/crsfn/2008-03.md |
+| acordao-crsfn | RJ-2003/6098 | 2006-12-13 | absolvicao | crsfn-9228 | fichas/crsfn/2006-02.md |
+| pas | RJ2003/7697 | 2005-08-23 | absolvicao | cvm-pas-rj2003-7697 | fichas/pas/2005-06.md |
+| pas | RJ2002/8428 | 2004-10-14 | parcial | cvm-pas-rj2002-8428 | fichas/pas/2004-06.md |
+| decisao-colegiado | — | 2004-03-09 | outro | cvm-col-20040309-d07 | fichas/colegiado/2004-03.md |
 
 Fim do subíndice.

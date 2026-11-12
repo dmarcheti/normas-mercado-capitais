@@ -3,25 +3,25 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | deveres-administradores | O Colegiado, acompanhando o Comitê, rejeitou proposta de termo de compromisso apresentada por um administrador: R$ 15.000,00 e cinco anos sem exercer cargo em companhia aberta. Em PAS por falhas de diligência (art. 153 da Lei 6.404/1976). O Comitê considerou gravidade e rejeição anterior de proposta semelhante. | ../../../../../julgados/cvm/colegiado/2026/col-20260512-d3391.md |
-| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | deveres-administradores | Irregularidades em processo de aumento de capital social, relativas a (i) diluição injustificada, em infração aos arts. 153 c/c 170, §§1º e 7º, da Lei nº 6.404/1976; e ao art. 2º, IX, do Anexo 30-XXXII da Instrução CVM nº 480/2009; e (ii) conflito de interesses, em violação aos arts. 115, §1º, e 156 da Lei nº 6.404/197. Absolvições. | ../../../../../julgados/cvm/pas/2022/19957-003175-2020-50.md |
-| decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | ofertas-publicas | O Colegiado concedeu à Monte Rodovias S.A. dispensas de requisitos das ICVM 400 e 480 aplicáveis a emissor pré-operacional, acompanhando a SEP. Segundo a SEP, as controladas são operacionais e as demonstrações de 30.06.2021 comprovam a operacionalidade, embora fora da literalidade do art. 2º, §5º, da ICVM 480. | ../../../../../julgados/cvm/colegiado/2021/col-20210817-d2272.md |
-| pas | 19957.007552/2016-43 | 2020-09-29 | — | deveres-administradores | Responsabilidade de administradores da Recrusul S.A. por infração aos artigos 156 e 157, §4º, ambos da Lei nº 6.404/1976, c/c artigo 3º, caput, da Instrução CVM nº 358/2002; ao artigo 177, §3º, da Lei nº 6.404/1976 c/c os itens 18 e 22A do CPC 05 (R1), aprovado pela Deliberação CVM nº 642/2010, e com o artigo 176, §5º, III, da Lei nº 6.404/1976. Multas e advertência. | ../../../../../julgados/cvm/pas/2020/19957-007552-2016-43.md |
-| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | divulgacao-informacoes | RECURSOS VOLUNTÁRIOS. Não elaboração de demonstrações financeiras. Não envio de formulários obrigatórios. Envio intempestivo não afasta a aplicação de pena, apenas afeta a dosimetria da mesma. Extinção do conselho de administração. Órgão obrigatório por lei. Infrações configuradas. Recursos conhecidos, mas não providos. | ../../../../../julgados/crsfn/2020/10372-100434-2018-71.md |
-| pas | 19957.004986/2019-34; RJ2019/3127 | 2019-12-10 | condenacao | divulgacao-informacoes | Apurar responsabilidade de [pessoa física], na qualidade de administrador judicial, equiparado a diretor de relações com investidores, da Buettner SA Ind e Comércio - Falido, pelo não envio das contas demonstrativas da administração referentes aos meses de agosto de 2016 a novembro de 2018 e da Prestação de Contas da Continuidade Provisória da Falência. Infração ao artigo 39, incisos II e III da Instrução CVM nº 480/09. Multa. | ../../../../../julgados/cvm/pas/2019/19957-004986-2019-34.md |
-| pas | RJ2017/6169 | 2019-04-02 | parcial | divulgacao-informacoes | Não elaboração de demonstrações financeiras da Companhia Docas de Imbituba. Não realização de assembleia geral ordinária. Não envio de informações periódicas à CVM. Infração ao art. 132 e ao art. 142, inciso IV da Lei nº 6.404/76. Infração ao art. 176, caput , da Lei nº 6.404/76. Infração ao art. 21, inciso I e ao art. 23, parágrafo único, da Instrução CVM nº 480/09. Infração ao art. 21, inciso V e ao art. 29, inciso II da Instrução CVM nº 480/09. Multas. Absolvição. Data decisão CVM Tue Apr 02 15:27:00 BRT 2019 | ../../../../../julgados/cvm/pas/2019/rj2017-6169.md |
-| decisao-colegiado | 19957.010680/2018-36 | 2018-12-27 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010680/2018-36. | ../../../../../julgados/cvm/colegiado/2018/col-20181227-d1259.md |
-| decisao-colegiado | 19957.010405/2018-12 | 2018-12-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. SEI 19957.010405/2018-12. | ../../../../../julgados/cvm/colegiado/2018/col-20181211-d1240.md |
-| decisao-colegiado | 19957.009858/2018-04 | 2018-10-30 | deferido | divulgacao-informacoes | O Colegiado deferiu, por unanimidade e em caráter excepcional, a prorrogação do prazo para entrega do Informe de Governança (Instrução CVM 586/17), pedida pela ABRASCA por vinte dias, até 09.11.2018. Fundamento: primeira entrega na nova interface e instabilidade do sistema de recepção na semana anterior. | ../../../../../julgados/cvm/colegiado/2018/col-20181030-d1209.md |
-| pas | RJ2017/3190 | 2018-08-21 | condenacao | divulgacao-informacoes | Não envio à CVM de informações periódicas obrigatórias – não elaboração de demonstrações financeiras – não convocação de assembleias gerais ordinárias. Multas. | ../../../../../julgados/cvm/pas/2018/rj2017-3190.md |
-| pas | RJ2016/7352 | 2018-02-20 | parcial | divulgacao-informacoes | Não realização de assembleia geral ordinária – não elaboração e não envio à CVM de informações periódicas obrigatórias. Absolvição e Multa. | ../../../../../julgados/cvm/pas/2018/rj2016-7352.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| termo-compromisso | 19957.002545/2023-84 | 2026-05-12 | rejeitado | cvm-col-20260512-d3391 | fichas/tc/2026-01.md |
+| pas | 19957.003175/2020-50 | 2022-11-08 | absolvicao | cvm-pas-19957-003175-2020-50 | fichas/pas/2022-05.md |
+| decisao-colegiado | 19957.005632/2021-21; 19957.005640/2021-78 | 2021-08-17 | deferido | cvm-col-20210817-d2272 | fichas/colegiado/2021-13.md |
+| pas | 19957.007552/2016-43 | 2020-09-29 | — | cvm-pas-19957-007552-2016-43 | fichas/pas/2020-04.md |
+| acordao-crsfn | SP2018/40 | 2020-02-11 | condenacao | crsfn-10372-100434-2018-71 | fichas/crsfn/2020-01.md |
+| pas | 19957.004986/2019-34; RJ2019/3127 | 2019-12-10 | condenacao | cvm-pas-19957-004986-2019-34 | fichas/pas/2019-12.md |
+| pas | RJ2017/6169 | 2019-04-02 | parcial | cvm-pas-rj2017-6169 | fichas/pas/2019-03.md |
+| decisao-colegiado | 19957.010680/2018-36 | 2018-12-27 | nao-provido | cvm-col-20181227-d1259 | fichas/colegiado/2018-21.md |
+| decisao-colegiado | 19957.010405/2018-12 | 2018-12-11 | nao-provido | cvm-col-20181211-d1240 | fichas/colegiado/2018-20.md |
+| decisao-colegiado | 19957.009858/2018-04 | 2018-10-30 | deferido | cvm-col-20181030-d1209 | fichas/colegiado/2018-19.md |
+| pas | RJ2017/3190 | 2018-08-21 | condenacao | cvm-pas-rj2017-3190 | fichas/pas/2018-07.md |
+| pas | RJ2016/7352 | 2018-02-20 | parcial | cvm-pas-rj2016-7352 | fichas/pas/2018-01.md |
 
 Fim do subíndice.

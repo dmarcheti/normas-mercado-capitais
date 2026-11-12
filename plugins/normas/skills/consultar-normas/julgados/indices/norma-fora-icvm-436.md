@@ -3,28 +3,28 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º, inciso I | decisao-colegiado | RJ2006/0907 | 2006-07-11 | outro | fundos-investimento | O Colegiado acompanhou o voto do diretor relator, que entendeu não ter havido descumprimento do art. 6º, I, da Instrução CVM 406/05 pelo Banco do Brasil, que integralizou com ações próprias cotas do Fundo Garantidor de PPP. Contra o entendimento da SIN, a vedação não se aplica a essa hipótese. | ../../../../../julgados/cvm/colegiado/2006/col-20060711-d04.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º, inciso I | decisao-colegiado | RJ2006/0907 | 2006-07-11 | outro | cvm-col-20060711-d04 | fichas/colegiado/2006-10.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.002961/2015-72 | 2016-12-13 | nao-provido | opa | Recurso do controlador contra exigência da SRE em OPA para cancelamento de registro da Manufatura de Brinquedos Estrela S.A. Após pedido de vista, o Colegiado, acompanhando a SRE, determinou que o ofertante solicite ao avaliador a atualização do laudo, por variação das cotações e fato relevante de 20.9.2016 (Instrução CVM 361/2002, art. 8º, §9º, II). | ../../../../../julgados/cvm/colegiado/2016/col-20161213-d0194.md |
-| decisao-colegiado | RJ2010/14254 | 2013-08-20 | provido | deveres-administradores | O Colegiado deu provimento ao recurso da BR Malls Participações S.A. contra entendimento da SEP, reformando-o: a avaliação do patrimônio líquido a preços de mercado (art. 256, II, b, da Lei 6.404/76) não exige presumir o desmonte de ativos que formam unidades produtivas, e o fluxo de caixa descontado não é incoerente com essa avaliação para tais ativos. | ../../../../../julgados/cvm/colegiado/2013/col-20130820-d09.md |
-| acordao-crsfn | 39/00 | 2012-12-18 | absolvicao | deveres-administradores | RECURSO(S) DE OFÍCIO – Mercado de valores mobiliários – Incorporação de companhia controlada – Falhas na divulgação de informações relativas ao cálculo das relações de substituição das ações dos acionistas não controladores - Aprovação na AGE da controladora de protocolo e justificação de incorporação de forma indevida - Exercício abusivo de poder de controle (incorporação de companhia com o fim de obter para si vantagem indevida em prejuízo dos acionistas da incorporada) – Descumprimento de deveres definidos na lei societária e no estatuto - Não questionamento, pelas partes, às punições infligidas pela autoridade supervisora - Recurso de ofício improvido – Arquivamento do processo quanto à matéria objeto da subida compulsória. | ../../../../../julgados/crsfn/2012/11958.md |
-| decisao-colegiado | RJ2012/6422 | 2012-11-27 | deferido | opa | O Colegiado deferiu o pedido de unificação das OPAs de NET Serviços de Comunicação S.A. por alienação de controle (art. 254-A da Lei 6.404/76) e para saída do Nível 2, nos termos do art. 34 da Instrução CVM 361/02, em linha com precedentes e com a manifestação favorável da SRE. | ../../../../../julgados/cvm/colegiado/2012/col-20121127-d06.md |
-| decisao-colegiado | RJ2010/17158 | 2010-12-13 | outro | assembleia-acionistas | O Colegiado interrompeu por 15 dias o prazo de antecedência da convocação da assembleia geral extraordinária da Telemar Norte Leste S.A., marcada para 14.12.10, para analisar a ratificação da aquisição de controle da Invitel S.A. Diante da análise da SEP sobre a avaliação do PL a preços de mercado. | ../../../../../julgados/cvm/colegiado/2010/col-20101213-d01.md |
-| pas | 25/2003 | 2008-03-25 | parcial | deveres-administradores | Não convocação de [pessoa física] para tratar da compra da Oi. Absolvição. - O administrador de companhia aberta deve empregar no exercício de suas funções o cuidado e a diligência que todo homem probo costuma empregar na administração de seus próprios negócios. Dever de diligência, dever de agir no interesse da companhia e dever de lealdade. Advertência e Absolvição. - Celebração de negócio entre controladora e controlada, com administradores em comum. Violação ao dever de evitar conflito de interesses. Absolvição. - Divulgação genérica por meio de Fato Relevante sobre a operação de compra e venda da Oi. Informações mais detalhadas restritas ao conhecimento dos acionistas por meio de disponibilização de documentos em “data room”. Violação ao dever de informar. Absolvição. - Preço superior ao justo pago pela Telemar para aquisição da OI, baseado em laudo de avaliação superestimado. Abuso do poder de controle. Absolvição. | ../../../../../julgados/cvm/pas/2008/25-2003.md |
-| pas | 08/2005 | 2007-12-12 | parcial | contabil-demonstracoes | incorporação de controlada - laudo de avaliação do patrimônio a preços de mercado; dever de diligência dos administradores nas avaliações - aplicação retroativa de nova interpretação lega; exercício abusivo de poder de controle; laudos de avaliação da incorporadora Braskem S/A e da incorporada Trikem S/A em desacordo com o disposto no art. 264 da Lei nº 6.404/76 - advertência. exercício abusivo de poder de controle - absolvição. descumprimento do dever de diligência - advertência. | ../../../../../julgados/cvm/pas/2007/08-2005.md |
-| decisao-colegiado | RJ2007/7230 | 2007-07-11 | nao-provido | opa | O Colegiado negou provimento a recurso de acionistas da Copesul contra a SRE, que não exigiu OPA por alienação de controle. Fundamento: no caso concreto, a alienação de participação entre integrantes do bloco de controle (Ipiranga e Braskem) não é alienação de controle para o art. 254-A da Lei 6.404/76. | ../../../../../julgados/cvm/colegiado/2007/col-20070711-d01-r2.md |
-| decisao-colegiado | RJ2006/3739 | 2006-07-18 | parcial | opa | O Colegiado negou provimento a recurso contra exigência da SRE sobre declaração do laudo de avaliação (§ 6º do art. 8º da Instrução CVM 361/02). Concedeu extensão de quinze dias do prazo do art. 25 e condicionou o registro da OPA para cancelamento à manifestação favorável da ANATEL. Facultou convolar a oferta em OPA voluntária. | ../../../../../julgados/cvm/colegiado/2006/col-20060718-d12.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.002961/2015-72 | 2016-12-13 | nao-provido | cvm-col-20161213-d0194 | fichas/colegiado/2016-24.md |
+| decisao-colegiado | RJ2010/14254 | 2013-08-20 | provido | cvm-col-20130820-d09 | fichas/colegiado/2013-15.md |
+| acordao-crsfn | 39/00 | 2012-12-18 | absolvicao | crsfn-11958 | fichas/crsfn/2012-05.md |
+| decisao-colegiado | RJ2012/6422 | 2012-11-27 | deferido | cvm-col-20121127-d06 | fichas/colegiado/2012-22.md |
+| decisao-colegiado | RJ2010/17158 | 2010-12-13 | outro | cvm-col-20101213-d01 | fichas/colegiado/2010-29.md |
+| pas | 25/2003 | 2008-03-25 | parcial | cvm-pas-25-2003 | fichas/pas/2008-02.md |
+| pas | 08/2005 | 2007-12-12 | parcial | cvm-pas-08-2005 | fichas/pas/2007-07.md |
+| decisao-colegiado | RJ2007/7230 | 2007-07-11 | nao-provido | cvm-col-20070711-d01-r2 | fichas/colegiado/2007-13.md |
+| decisao-colegiado | RJ2006/3739 | 2006-07-18 | parcial | cvm-col-20060718-d12 | fichas/colegiado/2006-11.md |
 
 Fim do subíndice.

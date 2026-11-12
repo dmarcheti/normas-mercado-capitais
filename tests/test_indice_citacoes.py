@@ -192,14 +192,45 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("[indices/normas-citadas.md](indices/normas-citadas.md) (2 normas citadas)", md)
         self.assertIn("Processos Administrativos Sancionadores (PAS), 1", md)
 
-    def test_linha_usa_ementa_e_nunca_o_titulo(self):
+    def test_linha_leva_a_ficha_sem_ementa_tema_nem_titulo(self):
         arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
         for rel, md in arqs.items():
             self.assertNotIn("FULANO", md, rel)
         pas = arqs["indices/pas-2025.md"]
-        self.assertIn("Dever de diligência de administradores", pas)
-        self.assertIn("| 19957.011607/2024-20 | 2025-05-27 | condenacao | deveres-administradores |", pas)
-        self.assertIn("| ../../../../../julgados/cvm/pas/2025/19957-011607-2024-20.md |", pas)
+        self.assertNotIn("Dever de diligência de administradores", pas)  # a ementa fica na ficha
+        self.assertIn("| Processo | Data | Resultado | Id | Ficha |", pas)
+        self.assertNotIn("| Ementa |", pas)
+        self.assertNotIn("| Tema |", pas)
+        self.assertIn("| 19957.011607/2024-20 | 2025-05-27 | condenacao | cvm-pas-19957-011607-2024-20 | "
+                      "fichas/pas/2025.md |", pas)
+        self.assertNotIn("julgados/cvm/pas", pas)  # nenhum link para o texto: só para a ficha
+        self.assertIn("texto_integral", pas)  # o cabeçalho diz onde está o texto integral
+
+    def test_ficha_do_indice_existe_em_memoria_com_o_id_da_linha(self):
+        fichas, arquivos, _ = indice.fch.montar(self.raiz)
+        por_id = indice.fch.ids_por_arquivo(arquivos)
+        arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
+        n = 0
+        for rel in ("indices/pas-2025.md", "indices/processo-2024.md", "indices/norma-lei-6404.md",
+                    "indices/tema-deveres-administradores.md", "indices/termo-compromisso-2024.md"):
+            for l in arqs[rel].split("\n"):
+                if l.startswith("| ") and l.endswith(".md |") and "fichas/" in l:
+                    cel = [c.strip() for c in l.strip("|").split("|")]
+                    self.assertEqual(por_id[cel[-2]], cel[-1], (rel, l))
+                    n += 1
+        self.assertGreaterEqual(n, 6)
+
+    def test_julgado_sem_ficha_e_erro(self):
+        with mock.patch.object(indice.fch, "montar", lambda raiz, log=None: ([], [], {"ids_duplicados": []})):
+            with self.assertRaises(ValueError) as e:
+                indice.gerar_indice_julgados(self.raiz, NORMAS)
+        self.assertIn("julgado sem ficha", str(e.exception))
+
+    def test_id_de_ficha_repetido_e_erro(self):
+        with mock.patch.object(indice.fch, "montar",
+                               lambda raiz, log=None: ([], [], {"ids_duplicados": ["cvm-x"]})):
+            with self.assertRaises(ValueError):
+                indice.gerar_indice_julgados(self.raiz, NORMAS)
 
     def test_indice_reverso_por_norma(self):
         arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
@@ -209,7 +240,8 @@ class TestIndicesDosJulgados(unittest.TestCase):
         self.assertIn("## art. 155", md)
         self.assertIn("| § 1º | pas |", md.replace("art. 155, § 1º", "§ 1º"))
         self.assertIn("## Citada sem dispositivo identificado", md)  # o TC cita só a norma
-        self.assertIn("col-20240603-d100.md", md)
+        self.assertIn("| termo-compromisso | 19957.011607/2024-20 | 2024-06-03 | aceito | cvm-col-20240603-d100 | "
+                      "fichas/tc/2024.md |", md)
         # fora do acervo com menos de FORA_MIN_PROPRIO julgados: arquivo da família, seção por norma
         fora = arqs["indices/norma-fora-outras-icvm.md"]
         self.assertIn("fora do acervo", fora)
@@ -282,31 +314,28 @@ class TestIndicesDosJulgados(unittest.TestCase):
                        "Decisões do Colegiado", "Acórdãos do CRSFN"):
             self.assertIn(rotulo, md)
         self.assertEqual(md.count("# Índice dos julgados"), 1)
-        self.assertIn("../../../../../julgados/crsfn/2021/19957-000009-2020-01.md",
-                      arqs["indices/acordao-crsfn-2021.md"])
+        self.assertIn("| fichas/crsfn/2021.md |", arqs["indices/acordao-crsfn-2021.md"])
         # índice por processo: PAS, termo de compromisso e acórdão do CRSFN; a decisão do Colegiado fica fora
-        self.assertIn("19957-000009-2020-01", arqs["indices/processo-2020.md"])
-        self.assertNotIn("col-20250101-d1", "".join(v for k, v in arqs.items() if k.startswith("indices/processo-")))
+        self.assertIn("| crsfn-19957-000009-2020-01 | fichas/crsfn/2021.md |", arqs["indices/processo-2020.md"])
+        self.assertNotIn("cvm-col-20250101-d1", "".join(v for k, v in arqs.items() if k.startswith("indices/processo-")))
 
     def test_alvo_do_link_vem_de_uma_funcao_so(self):
-        v = {"_caminho": "cvm/pas/2025/x.md"}
-        self.assertEqual(indice.alvo_link(v), "../../../../../julgados/cvm/pas/2025/x.md")
-        self.assertEqual(indice.alvo_link(v, prefixo="p/"), "p/cvm/pas/2025/x.md")
+        self.assertEqual(indice.alvo_link({"_ficha": "fichas/pas/2023-08.md"}), "fichas/pas/2023-08.md")
         # trocar a função muda o alvo em todas as tabelas (índice por tipo, tema, norma, processo)
-        with mock.patch.object(indice, "alvo_link", lambda v: "FICHA/" + v["_caminho"]):
+        with mock.patch.object(indice, "alvo_link", lambda v: "ALVO/" + v["_ficha"]):
             arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]
         for rel in ("indices/pas-2025.md", "indices/tema-deveres-administradores.md",
                     "indices/norma-lei-6404.md", "indices/processo-2024.md"):
-            self.assertIn("FICHA/cvm/pas/2025/19957-011607-2024-20.md", arqs[rel], rel)
+            self.assertIn("ALVO/fichas/pas/2025.md", arqs[rel], rel)
             self.assertNotIn("../julgados/", arqs[rel], rel)
 
-    def test_prefixo_leva_da_pasta_do_indice_ao_julgados_da_raiz(self):
+    def test_pastas_padrao_do_indice_e_das_fichas_batem(self):
         pasta = os.path.join(indice.SKILL_NORMAS, "julgados")
-        self.assertEqual(os.path.normpath(os.path.join(pasta, indice.PREFIXO_ALVO)),
-                         os.path.join(indice.REPO, "julgados"))
         self.assertEqual(os.path.normpath(os.path.join(pasta, "indices", indice.LINK_NORMAS_PADRAO)),
                          os.path.join(indice.SKILL_NORMAS, "normas"))
         self.assertEqual(indice.SAIDA_JULGADOS_PADRAO, pasta)
+        # as fichas que os índices citam ficam sob a pasta dos índices
+        self.assertEqual(indice.fch.SAIDA_PADRAO, os.path.join(pasta, indice.fch.PASTA_FICHAS))
 
     def test_indice_md_abaixo_de_25_kb_ou_falha(self):
         arqs = indice.gerar_indice_julgados(self.raiz, NORMAS)[0]

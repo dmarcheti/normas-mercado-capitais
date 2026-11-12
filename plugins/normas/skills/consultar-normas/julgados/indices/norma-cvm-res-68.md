@@ -3,14 +3,14 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: [cvm/resolucoes/0068.md](../../normas/cvm/resolucoes/0068.md) (texto vigente hoje; o julgado aplicou a redação da época).
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | normativo | O Colegiado aprovou as Resoluções CVM 68, 69 e 70/2022, na consolidação do Decreto 10.139/2019. Uma ratifica decisão do MERCOSUL sobre demonstrações financeiras; outra revoga normas; a 70 fixa escala de participação mínima para direitos da Lei 6.404. Sem audiência pública nem AIR, por não alterar obrigações vigentes. | ../../../../../julgados/cvm/colegiado/2022/col-20220315-d2516.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| decisao-colegiado | 19957.009725/2021-25 | 2022-03-15 | outro | cvm-col-20220315-d2516 | fichas/colegiado/2022-03.md |
 
 Fim do subíndice.

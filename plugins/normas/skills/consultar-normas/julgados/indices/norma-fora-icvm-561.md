@@ -3,25 +3,25 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | divulgacao-informacoes | Apurar a responsabilidade de administradores da Fertilizantes Heringer S.A. pela divulgação de informações incompletas ou inconsistentes ao mercado acerca de transações com partes relacionadas, bem como por irregularidades relacionadas à assembleia geral ordinária realizada em 28/04/2023. Absolvição, Advertência. | ../../../../../julgados/cvm/pas/2026/19957-011363-2024-85.md |
-| decisao-colegiado | 19957.003281/2022-03 | 2022-04-20 | indeferido | assembleia-acionistas | O Colegiado indeferiu, acompanhando a SEP, pedido de interrupção do prazo de convocação da AGE da Terra Santa Propriedades Agrícolas, por entender que a proposta de alteração estatutária não viola dispositivos legais ou regulamentares. Não examinou o direito de recesso nem o alegado desincentivo à participação. | ../../../../../julgados/cvm/colegiado/2022/col-20220420-d2570.md |
-| decisao-colegiado | 19957.003084/2020-14 | 2020-05-26 | deferido | assembleia-acionistas | O Colegiado, por unanimidade, deferiu à Equatorial Energia a redução para 30% do capital do quórum qualificado do art. 136, VI, da Lei 6.404/76 em terceira convocação de AGE, nos termos do §2º do art. 136. Condições: nova primeira convocação, medidas do Relatório SEP e assembleia total ou parcialmente digital (ICVM 622/20). | ../../../../../julgados/cvm/colegiado/2020/col-20200526-d1819.md |
-| decisao-colegiado | 19957.006786/2018-35 | 2020-01-21 | outro | assembleia-acionistas | O Colegiado, por unanimidade, acompanhou o voto da diretora relatora em consulta da SEP: acionistas minoritários vinculados ao controlador não podem solicitar a inclusão no BVD de candidatos a conselho de administração ou fiscal em eleição em separado, nem somar ações para atingir o percentual mínimo (art. 141, §§4º e 5º, Lei 6.404/76). | ../../../../../julgados/cvm/colegiado/2020/col-20200121-d1112.md |
-| decisao-colegiado | 19957.004385/2019-21 | 2019-11-05 | outro | assembleia-acionistas | O Colegiado reconheceu a perda do objeto de recurso da Vale S.A. contra decisão da SEP que determinou a reapresentação do boletim de voto à distância da AGO/E de 30.4.2019. O candidato dos minoritários já fora eleito pelo voto múltiplo. Mérito não apreciado. Segundo a SEP, o BVD era irregular. | ../../../../../julgados/cvm/colegiado/2019/col-20191105-d1389.md |
-| decisao-colegiado | 19957.003630/2018-01 | 2018-09-11 | — | assembleia-acionistas | Recurso da BRF S.A. contra entendimento da SEP sobre a sistemática de eleição do Conselho de Administração na AGOE de 26.04.2018 (voto múltiplo ou por chapa). Voto do relator pelo provimento. Julgamento suspenso por pedido de vista. | ../../../../../julgados/cvm/colegiado/2018/col-20180911-d1053.md |
-| decisao-colegiado | 19957.006721/2016-28 | 2017-02-07 | parcial | contabil-demonstracoes | O Colegiado deferiu parcialmente recurso do IBRACON contra decisão da SNC sobre o termo “entidades listadas” (NBC TA 701), fixando que abrange entidades autorizadas à negociação em mercado organizado. Restituiu à SNC o tema para priorizar norma que preveja a divulgação dos PAA por todas as entidades registradas, a partir de exercícios encerrados em 31/12/2017. | ../../../../../julgados/cvm/colegiado/2017/col-20170207-d0465.md |
-| decisao-colegiado | — | 2016-11-21 | outro | institucional | Sistema de supervisão baseado em risco do mercado de valores mobiliários. | ../../../../../julgados/cvm/colegiado/2016/col-20161121-d5347.md |
-| decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | infraestrutura-mercado | O Colegiado autorizou, por unanimidade, as alterações estatutárias da BM&FBOVESPA aprovadas em AGE de 20.05.2016, nos termos do art. 117, II, da Instrução CVM 461/2007. A SMI opinou favoravelmente; a SEP indicou elementos mínimos para os contratos de indenidade previstos no novo art. 80. | ../../../../../julgados/cvm/colegiado/2016/col-20161011-d0293.md |
-| decisao-colegiado | 561/2015; RJ2011/13930 | 2015-11-13 | outro | normativo | O Colegiado decidiu, por unanimidade, adiar para 2017 a adoção compulsória da Instrução CVM 561 (voto a distância), mantendo a forma escalonada e facultando sua adoção em 2016 com adaptações. Editou instrução alteradora e Deliberação sobre procedimentos especiais, pela não participação dos escrituradores em 2016. | ../../../../../julgados/cvm/colegiado/2015/col-20151113-d2895.md |
-| pas | RJ2013/11113 | 2015-08-11 | parcial | deveres-administradores | Irregularidades no aumento de capital da companhia deliberado em AGE - Absolvições e multas. | ../../../../../julgados/cvm/pas/2015/rj2013-11113.md |
-| pas | RJ2012/1730 | 2015-05-19 | absolvicao | divulgacao-informacoes | Suposto descumprimento, por parte do DRI da companhia, do dever de fornecer informações obrigatórias. Absolvição. | ../../../../../julgados/cvm/pas/2015/rj2012-1730.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| pas | 19957.011363/2024-85 | 2026-07-14 | parcial | cvm-pas-19957-011363-2024-85 | fichas/pas/2026-01.md |
+| decisao-colegiado | 19957.003281/2022-03 | 2022-04-20 | indeferido | cvm-col-20220420-d2570 | fichas/colegiado/2022-07.md |
+| decisao-colegiado | 19957.003084/2020-14 | 2020-05-26 | deferido | cvm-col-20200526-d1819 | fichas/colegiado/2020-09.md |
+| decisao-colegiado | 19957.006786/2018-35 | 2020-01-21 | outro | cvm-col-20200121-d1112 | fichas/colegiado/2020-01.md |
+| decisao-colegiado | 19957.004385/2019-21 | 2019-11-05 | outro | cvm-col-20191105-d1389 | fichas/colegiado/2019-17.md |
+| decisao-colegiado | 19957.003630/2018-01 | 2018-09-11 | — | cvm-col-20180911-d1053 | fichas/colegiado/2018-16.md |
+| decisao-colegiado | 19957.006721/2016-28 | 2017-02-07 | parcial | cvm-col-20170207-d0465 | fichas/colegiado/2017-03.md |
+| decisao-colegiado | — | 2016-11-21 | outro | cvm-col-20161121-d5347 | fichas/colegiado/2016-22.md |
+| decisao-colegiado | 19957.004523/2016-20 | 2016-10-11 | deferido | cvm-col-20161011-d0293 | fichas/colegiado/2016-20.md |
+| decisao-colegiado | 561/2015; RJ2011/13930 | 2015-11-13 | outro | cvm-col-20151113-d2895 | fichas/colegiado/2015-21.md |
+| pas | RJ2013/11113 | 2015-08-11 | parcial | cvm-pas-rj2013-11113 | fichas/pas/2015-04.md |
+| pas | RJ2012/1730 | 2015-05-19 | absolvicao | cvm-pas-rj2012-1730 | fichas/pas/2015-03.md |
 
 Fim do subíndice.

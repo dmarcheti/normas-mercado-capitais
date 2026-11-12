@@ -3,222 +3,222 @@
 Material não oficial. Não substitui o Diário Oficial da União nem os sites dos órgãos e entidades de origem.
 Julgado não é norma: diz o que a CVM (ou o CRSFN) decidiu num caso concreto, com a redação das normas da época, e não vincula como norma. Para o texto vigente, use o índice das normas (`../normas/indice.md`).
 Gerado por `scripts/indice.py`; não edite à mão.
-Caminhos relativos à pasta do `indice.md`; o texto dos julgados fica em `julgados/`, na raiz do repositório.
+Cada linha leva a uma ficha do julgado: o arquivo da coluna `Ficha` (caminho relativo à pasta `julgados/` desta skill, a que tem o `indice.md`, e não à pasta deste arquivo) traz várias fichas, e a do julgado começa em `## <Id>`. A ficha tem ementa, tema, dispositivos citados e um trecho da decisão; o texto integral está no link `texto_integral` da ficha. Decisão antiga (1978 a 2001): fora do índice por decisão, a linha do arquivo anual traz a primeira ficha do ano.
 
 Norma: fora do acervo.
 
 ## art. 2º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 2º | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
-| art. 2º | decisao-colegiado | RJ2015/0607 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0607. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9613.md |
-| art. 2º | decisao-colegiado | RJ2015/0608 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0608. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9614.md |
-| art. 2º | decisao-colegiado | RJ2015/0609 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0609. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9615.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2002/6504 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6504. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d01-r2.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2002/6553 | 2009-03-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa à cobrança de taxa de fiscalização. Proc. RJ2002/6553. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d02.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2012/15206 | 2013-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15206. | ../../../../../julgados/cvm/colegiado/2013/col-20130129-d08.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2012/15279 | 2013-01-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/15279. | ../../../../../julgados/cvm/colegiado/2013/col-20130129-d12.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2013/0455 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/0455. | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d10.md |
-| art. 2º, § 2º | decisao-colegiado | RJ2013/1140 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2013/1140. | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d18.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 2º | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
+| art. 2º | decisao-colegiado | RJ2015/0607 | 2015-03-31 | nao-provido | cvm-col-20150331-d9613 | fichas/colegiado/2015-05.md |
+| art. 2º | decisao-colegiado | RJ2015/0608 | 2015-03-31 | nao-provido | cvm-col-20150331-d9614 | fichas/colegiado/2015-05.md |
+| art. 2º | decisao-colegiado | RJ2015/0609 | 2015-03-31 | nao-provido | cvm-col-20150331-d9615 | fichas/colegiado/2015-06.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2002/6504 | 2009-03-17 | nao-provido | cvm-col-20090317-d01-r2 | fichas/colegiado/2009-04.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2002/6553 | 2009-03-17 | nao-provido | cvm-col-20090317-d02 | fichas/colegiado/2009-04.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2012/15206 | 2013-01-29 | nao-provido | cvm-col-20130129-d08 | fichas/colegiado/2013-03.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2012/15279 | 2013-01-29 | nao-provido | cvm-col-20130129-d12 | fichas/colegiado/2013-03.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2013/0455 | 2013-02-26 | nao-provido | cvm-col-20130226-d10 | fichas/colegiado/2013-05.md |
+| art. 2º, § 2º | decisao-colegiado | RJ2013/1140 | 2013-02-26 | nao-provido | cvm-col-20130226-d18 | fichas/colegiado/2013-05.md |
 
 ## art. 6º
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 6º, inciso II | decisao-colegiado | RJ2016/1322 | 2016-03-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2016/1322. | ../../../../../julgados/cvm/colegiado/2016/col-20160301-d0113.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 6º, inciso II | decisao-colegiado | RJ2016/1322 | 2016-03-01 | nao-provido | cvm-col-20160301-d0113 | fichas/colegiado/2016-05.md |
 
 ## art. 10
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10 | decisao-colegiado | RJ2003/13388 | 2004-01-21 | outro | multa-cominatoria-taxa | Solicitação da comissão nacional de bolsas. Proc. RJ2003/13388. | ../../../../../julgados/cvm/colegiado/2004/col-20040121-d02.md |
-| art. 10 | decisao-colegiado | 19957.007392/2021-08 | 2021-12-21 | nao-provido | multa-cominatoria-taxa | Recursos contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.007392/2021-08. | ../../../../../julgados/cvm/colegiado/2021/col-20211221-d2374.md |
-| art. 10 | decisao-colegiado | 19957.008667/2021-12 | 2022-04-12 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento aos recursos da Warren Corretora, como administradora de fundos, contra multas cominatórias da SIN por atraso na entrega de lâminas, perfis, CDAs e balancetes (art. 59, II, ICVM 555/2014), acompanhando a área técnica. | ../../../../../julgados/cvm/colegiado/2022/col-20220412-d2556.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10 | decisao-colegiado | RJ2003/13388 | 2004-01-21 | outro | cvm-col-20040121-d02 | fichas/colegiado/2004-01.md |
+| art. 10 | decisao-colegiado | 19957.007392/2021-08 | 2021-12-21 | nao-provido | cvm-col-20211221-d2374 | fichas/colegiado/2021-22.md |
+| art. 10 | decisao-colegiado | 19957.008667/2021-12 | 2022-04-12 | nao-provido | cvm-col-20220412-d2556 | fichas/colegiado/2022-06.md |
 
 ## art. 10-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 10-A | decisao-colegiado | RJ2015/4107 | 2021-10-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI RJ2015/4107. | ../../../../../julgados/cvm/colegiado/2021/col-20211014-d2324.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 10-A | decisao-colegiado | RJ2015/4107 | 2021-10-14 | nao-provido | cvm-col-20211014-d2324 | fichas/colegiado/2021-17.md |
 
 ## art. 12
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 12 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | divulgacao-informacoes | RECURSO(S) VOLUNTÁRIO(S) E DE OFÍCIO – Mercado de valores mobiliários – Elaboração de demonstrações financeiras - Falta de atualização de registro de companhia aberta - Falta de envio ou atraso no envio de informações obrigatórias periódicas ou eventuais – Não convocação, não realização ou realização em atraso de assembleias gerais ordinárias – Irregularidades caracterizadas – Apelos dos membros do conselho de administração não conhecidos por intempestividade – Demais recursos voluntários improvidos – Recurso de ofício provido. | ../../../../../julgados/crsfn/2014/12905.md |
-| art. 12 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 12 | acordao-crsfn | RJ-2008-6250 | 2014-01-21 | condenacao | crsfn-12905 | fichas/crsfn/2014-01.md |
+| art. 12 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 
 ## art. 14-B
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 14-B | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 14-B | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 
 ## art. 20
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 20 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7756. | ../../../../../julgados/cvm/colegiado/2016/col-20161108-d0419.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 20 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | cvm-col-20161108-d0419 | fichas/colegiado/2016-22.md |
 
 ## art. 29
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 29 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução CVM nº 08/79. Criação de condições artificias de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira de e na administração de fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2.616/95; ao art. 65, inc. XV, da Instrução CVM 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM 387/03. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2021/10372-100268-2019-94.md |
-| art. 29 | decisao-colegiado | RJ1998/4516 | 2010-04-07 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1998/4516. | ../../../../../julgados/cvm/colegiado/2010/col-20100407-d03.md |
-| art. 29 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
-| art. 29 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | multa-cominatoria-taxa | O Colegiado, por unanimidade, não conheceu do recurso contra a cobrança de juros de mora sobre multa pecuniária do PAS 01/2010, após decisão do CRSFN que reduziu a multa de R$ 1.669.837,00 para R$ 150.000,00. Acompanhou a área técnica: o objeto não é decisão de Superintendente, mas ato de notificação de decisão do CRSFN. | ../../../../../julgados/cvm/colegiado/2019/col-20190108-d1276.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 29 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 29 | decisao-colegiado | RJ1998/4516 | 2010-04-07 | parcial | cvm-col-20100407-d03 | fichas/colegiado/2010-10.md |
+| art. 29 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
+| art. 29 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
 
 ## art. 30
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 30 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução CVM nº 08/79. Criação de condições artificias de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira de e na administração de fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2.616/95; ao art. 65, inc. XV, da Instrução CVM 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM 387/03. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2021/10372-100268-2019-94.md |
-| art. 30 | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | ofertas-publicas | RECURSOS VOLUNTÁRIOS. MERCADO DE CAPITAIS. OFERTA PÚBLICA DE VENDA DE AÇÕES SEM O PRÉVIO REGISTRO OU DISPENSA DE REGISTRO PELA CVM. OFERTA PÚBLICA DE AÇÕES E NÃO OFERTA PRIVADA. Materialidade comprovada. Dosimetria da pena adequada. Mantida a atualização monetária pelo IPC-A. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2022/10372-100092-2021-95.md |
-| art. 30 | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2011/6936. | ../../../../../julgados/cvm/colegiado/2011/col-20110920-d13.md |
-| art. 30 | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/6520. | ../../../../../julgados/cvm/colegiado/2012/col-20120731-d04.md |
-| art. 30 | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11715. | ../../../../../julgados/cvm/colegiado/2013/col-20130108-d01.md |
-| art. 30 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
-| art. 30 | decisao-colegiado | RJ2012/11717 | 2013-03-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11717. | ../../../../../julgados/cvm/colegiado/2013/col-20130326-d07.md |
-| art. 30 | decisao-colegiado | RJ2013/0460 | 2013-04-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa de mora sobre multa cominatória. Proc. RJ2013/0460. | ../../../../../julgados/cvm/colegiado/2013/col-20130402-d05.md |
-| art. 30 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | multa-cominatoria-taxa | O Colegiado, por unanimidade, não conheceu do recurso contra a cobrança de juros de mora sobre multa pecuniária do PAS 01/2010, após decisão do CRSFN que reduziu a multa de R$ 1.669.837,00 para R$ 150.000,00. Acompanhou a área técnica: o objeto não é decisão de Superintendente, mas ato de notificação de decisão do CRSFN. | ../../../../../julgados/cvm/colegiado/2019/col-20190108-d1276.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 30 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 30 | acordao-crsfn | RJ2018/325 | 2022-08-09 | condenacao | crsfn-10372-100092-2021-95 | fichas/crsfn/2022-05.md |
+| art. 30 | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | cvm-col-20110920-d13 | fichas/colegiado/2011-19.md |
+| art. 30 | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | cvm-col-20120731-d04 | fichas/colegiado/2012-13.md |
+| art. 30 | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
+| art. 30 | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
+| art. 30 | decisao-colegiado | RJ2012/11717 | 2013-03-26 | nao-provido | cvm-col-20130326-d07 | fichas/colegiado/2013-07.md |
+| art. 30 | decisao-colegiado | RJ2013/0460 | 2013-04-02 | nao-provido | cvm-col-20130402-d05 | fichas/colegiado/2013-08.md |
+| art. 30 | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
 
 ## art. 31
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 31 | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | registro-emissor | O Colegiado negou provimento a recurso da Yasmina Agropastoril S.A. contra exigências da SEP para cancelamento de registro de companhia incentivada (atas e pareceres de auditoria de 1991 a 2005), com base nos fundamentos da SEP (art. 12, I, da Instrução 265/97), acompanhando o relator, que ressalvou a não retroação da exigência ao registro. | ../../../../../julgados/cvm/colegiado/2007/col-20070205-d02.md |
-| art. 31 | decisao-colegiado | RJ2002/5477 | 2008-10-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5477. | ../../../../../julgados/cvm/colegiado/2008/col-20081028-d03.md |
-| art. 31 | decisao-colegiado | RJ2002/4355 | 2008-12-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4355. | ../../../../../julgados/cvm/colegiado/2008/col-20081209-d04.md |
-| art. 31 | decisao-colegiado | RJ2007/2102 | 2009-04-14 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2102. | ../../../../../julgados/cvm/colegiado/2009/col-20090414-d06.md |
-| art. 31 | decisao-colegiado | RJ2002/6528 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6528. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d03.md |
-| art. 31 | decisao-colegiado | RJ2002/6812 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6812. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d04.md |
-| art. 31 | decisao-colegiado | RJ2007/2616 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2616. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d06.md |
-| art. 31 | decisao-colegiado | RJ1999/3024 | 2009-06-09 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3024. | ../../../../../julgados/cvm/colegiado/2009/col-20090609-d01.md |
-| art. 31 | decisao-colegiado | RJ1999/3405 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3405. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d06.md |
-| art. 31 | decisao-colegiado | RJ2007/2675 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2675. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d12.md |
-| art. 31 | decisao-colegiado | RJ2007/9370 | 2009-11-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/9370. | ../../../../../julgados/cvm/colegiado/2009/col-20091124-d06.md |
-| art. 31 | decisao-colegiado | RJ1999/4112 | 2009-12-01 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/4112. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d01.md |
-| art. 31 | decisao-colegiado | RJ2002/7281 | 2009-12-01 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/7281. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d06.md |
-| art. 31 | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2436. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d07.md |
-| art. 31 | decisao-colegiado | RJ2002/5624 | 2010-02-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5624. | ../../../../../julgados/cvm/colegiado/2010/col-20100202-d16.md |
-| art. 31 | decisao-colegiado | RJ2002/0456 | 2010-02-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0456. | ../../../../../julgados/cvm/colegiado/2010/col-20100202-d17.md |
-| art. 31 | decisao-colegiado | RJ2002/5511 | 2010-03-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/5511. | ../../../../../julgados/cvm/colegiado/2010/col-20100302-d16.md |
-| art. 31 | decisao-colegiado | RJ2007/2759 | 2010-03-30 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2759. | ../../../../../julgados/cvm/colegiado/2010/col-20100330-d01.md |
-| art. 31 | decisao-colegiado | RJ2002/0294 | 2010-06-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/0294. | ../../../../../julgados/cvm/colegiado/2010/col-20100601-d03.md |
-| art. 31 | decisao-colegiado | RJ2002/3242 | 2010-06-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3242. | ../../../../../julgados/cvm/colegiado/2010/col-20100615-d02.md |
-| art. 31 | decisao-colegiado | RJ2002/4782 | 2010-06-29 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4782. | ../../../../../julgados/cvm/colegiado/2010/col-20100629-d09.md |
-| art. 31 | decisao-colegiado | RJ2002/3412 | 2010-08-31 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3412. | ../../../../../julgados/cvm/colegiado/2010/col-20100831-d03.md |
-| art. 31 | decisao-colegiado | RJ2008/11623 | 2011-01-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11623. | ../../../../../julgados/cvm/colegiado/2011/col-20110111-d02.md |
-| art. 31 | decisao-colegiado | RJ2008/11888 | 2011-03-15 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11888. | ../../../../../julgados/cvm/colegiado/2011/col-20110315-d02.md |
-| art. 31 | decisao-colegiado | RJ2008/11652 | 2011-04-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11652. | ../../../../../julgados/cvm/colegiado/2011/col-20110426-d02.md |
-| art. 31 | decisao-colegiado | RJ2008/12176 | 2011-06-07 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/12176. | ../../../../../julgados/cvm/colegiado/2011/col-20110607-d04.md |
-| art. 31 | decisao-colegiado | RJ2008/12184 | 2011-07-12 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/12184. | ../../../../../julgados/cvm/colegiado/2011/col-20110712-d01.md |
-| art. 31 | decisao-colegiado | RJ2009/0060 | 2011-11-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/0060. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d18.md |
-| art. 31 | decisao-colegiado | RJ2010/16966 | 2012-01-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2010/16966. | ../../../../../julgados/cvm/colegiado/2012/col-20120117-d05.md |
-| art. 31 | decisao-colegiado | RJ2011/5513; RJ2011/11068 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ2011/5513 e RJ2011/11068. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d03.md |
-| art. 31 | decisao-colegiado | RJ2011/6662; RJ2011/11284 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ 2011/6662 e RJ2011/11284. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d04.md |
-| art. 31 | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ2010/15660 e RJ2010/5704. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d16.md |
-| art. 31 | decisao-colegiado | RJ2011/5954 | 2012-12-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/5954. | ../../../../../julgados/cvm/colegiado/2012/col-20121218-d05.md |
-| art. 31 | decisao-colegiado | RJ2011/4444 | 2012-12-18 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4444. | ../../../../../julgados/cvm/colegiado/2012/col-20121218-d07.md |
-| art. 31 | decisao-colegiado | RJ2011/4421 | 2013-04-24 | conhecimento | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4421. | ../../../../../julgados/cvm/colegiado/2013/col-20130424-d02.md |
-| art. 31 | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/4742. | ../../../../../julgados/cvm/colegiado/2013/col-20130723-d02.md |
-| art. 31 | decisao-colegiado | RJ2012/1046 | 2013-09-17 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/1046. | ../../../../../julgados/cvm/colegiado/2013/col-20130917-d01.md |
-| art. 31 | decisao-colegiado | RJ2012/12063 | 2013-09-17 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/12063. | ../../../../../julgados/cvm/colegiado/2013/col-20130917-d02.md |
-| art. 31 | decisao-colegiado | RJ2011/4924 | 2013-10-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/4924. | ../../../../../julgados/cvm/colegiado/2013/col-20131029-d04.md |
-| art. 31 | decisao-colegiado | RJ2012/15312 | 2016-06-21 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15312. | ../../../../../julgados/cvm/colegiado/2016/col-20160621-d0264.md |
-| art. 31 | decisao-colegiado | RJ2012/15534 | 2016-06-21 | conhecimento | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/15534. | ../../../../../julgados/cvm/colegiado/2016/col-20160621-d0265.md |
-| art. 31 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2016/7756. | ../../../../../julgados/cvm/colegiado/2016/col-20161108-d0419.md |
-| art. 31 | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2107.md |
-| art. 31 | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2729.md |
-| art. 31 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005279/2020-07. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2730.md |
-| art. 31, inciso II | decisao-colegiado | RJ2014/8661 | 2014-09-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SNC em processo de multa cominatória. Proc. RJ2014/8661. | ../../../../../julgados/cvm/colegiado/2014/col-20140902-d20.md |
-| art. 31, § 1º | decisao-colegiado | RJ2002/6528 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6528. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d03.md |
-| art. 31, § 1º | decisao-colegiado | RJ2002/6812 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/6812. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d04.md |
-| art. 31, § 1º | decisao-colegiado | RJ2007/2616 | 2009-05-19 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2616. | ../../../../../julgados/cvm/colegiado/2009/col-20090519-d06.md |
-| art. 31, § 1º | decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4401. | ../../../../../julgados/cvm/colegiado/2009/col-20091013-d10.md |
-| art. 31, § 1º | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2436. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d07.md |
-| art. 31, § 1º | decisao-colegiado | RJ2007/2311 | 2009-12-01 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2007/2311. | ../../../../../julgados/cvm/colegiado/2009/col-20091201-d16.md |
-| art. 31, § 1º | decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4955. | ../../../../../julgados/cvm/colegiado/2009/col-20091208-d14.md |
-| art. 31, § 1º | decisao-colegiado | RJ2002/3242 | 2010-06-15 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/3242. | ../../../../../julgados/cvm/colegiado/2010/col-20100615-d02.md |
-| art. 31, § 1º | decisao-colegiado | RJ2009/0060 | 2011-11-22 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2009/0060. | ../../../../../julgados/cvm/colegiado/2011/col-20111122-d18.md |
-| art. 31, § 1º | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. s. RJ2010/15660 e RJ2010/5704. | ../../../../../julgados/cvm/colegiado/2012/col-20120911-d16.md |
-| art. 31, § 1º | decisao-colegiado | RJ2011/5954 | 2012-12-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2011/5954. | ../../../../../julgados/cvm/colegiado/2012/col-20121218-d05.md |
-| art. 31, § 1º | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2012/4742. | ../../../../../julgados/cvm/colegiado/2013/col-20130723-d02.md |
-| art. 31, § 1º | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000984/2017-12. | ../../../../../julgados/cvm/colegiado/2021/col-20210323-d2107.md |
-| art. 31, § 1º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005698/2016-54. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2729.md |
-| art. 31, § 1º | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. 19957.005279/2020-07. | ../../../../../julgados/cvm/colegiado/2022/col-20221213-d2730.md |
-| art. 31, § 3º | decisao-colegiado | RJ2002/4782 | 2010-06-29 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2002/4782. | ../../../../../julgados/cvm/colegiado/2010/col-20100629-d09.md |
-| art. 31, § 3º | decisao-colegiado | RJ2008/11888 | 2011-03-15 | provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/11888. | ../../../../../julgados/cvm/colegiado/2011/col-20110315-d02.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 31 | decisao-colegiado | RJ1998/1639 | 2007-02-05 | nao-provido | cvm-col-20070205-d02 | fichas/colegiado/2007-02.md |
+| art. 31 | decisao-colegiado | RJ2002/5477 | 2008-10-28 | nao-provido | cvm-col-20081028-d03 | fichas/colegiado/2008-24.md |
+| art. 31 | decisao-colegiado | RJ2002/4355 | 2008-12-09 | nao-provido | cvm-col-20081209-d04 | fichas/colegiado/2008-27.md |
+| art. 31 | decisao-colegiado | RJ2007/2102 | 2009-04-14 | nao-provido | cvm-col-20090414-d06 | fichas/colegiado/2009-08.md |
+| art. 31 | decisao-colegiado | RJ2002/6528 | 2009-05-19 | nao-provido | cvm-col-20090519-d03 | fichas/colegiado/2009-09.md |
+| art. 31 | decisao-colegiado | RJ2002/6812 | 2009-05-19 | nao-provido | cvm-col-20090519-d04 | fichas/colegiado/2009-09.md |
+| art. 31 | decisao-colegiado | RJ2007/2616 | 2009-05-19 | nao-provido | cvm-col-20090519-d06 | fichas/colegiado/2009-09.md |
+| art. 31 | decisao-colegiado | RJ1999/3024 | 2009-06-09 | nao-provido | cvm-col-20090609-d01 | fichas/colegiado/2009-11.md |
+| art. 31 | decisao-colegiado | RJ1999/3405 | 2009-10-13 | nao-provido | cvm-col-20091013-d06 | fichas/colegiado/2009-17.md |
+| art. 31 | decisao-colegiado | RJ2007/2675 | 2009-10-13 | nao-provido | cvm-col-20091013-d12 | fichas/colegiado/2009-17.md |
+| art. 31 | decisao-colegiado | RJ2007/9370 | 2009-11-24 | nao-provido | cvm-col-20091124-d06 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ1999/4112 | 2009-12-01 | provido | cvm-col-20091201-d01 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ2002/7281 | 2009-12-01 | provido | cvm-col-20091201-d06 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | cvm-col-20091201-d07 | fichas/colegiado/2009-21.md |
+| art. 31 | decisao-colegiado | RJ2002/5624 | 2010-02-02 | nao-provido | cvm-col-20100202-d16 | fichas/colegiado/2010-04.md |
+| art. 31 | decisao-colegiado | RJ2002/0456 | 2010-02-02 | nao-provido | cvm-col-20100202-d17 | fichas/colegiado/2010-04.md |
+| art. 31 | decisao-colegiado | RJ2002/5511 | 2010-03-02 | nao-provido | cvm-col-20100302-d16 | fichas/colegiado/2010-07.md |
+| art. 31 | decisao-colegiado | RJ2007/2759 | 2010-03-30 | provido | cvm-col-20100330-d01 | fichas/colegiado/2010-09.md |
+| art. 31 | decisao-colegiado | RJ2002/0294 | 2010-06-01 | nao-provido | cvm-col-20100601-d03 | fichas/colegiado/2010-13.md |
+| art. 31 | decisao-colegiado | RJ2002/3242 | 2010-06-15 | nao-provido | cvm-col-20100615-d02 | fichas/colegiado/2010-14.md |
+| art. 31 | decisao-colegiado | RJ2002/4782 | 2010-06-29 | provido | cvm-col-20100629-d09 | fichas/colegiado/2010-14.md |
+| art. 31 | decisao-colegiado | RJ2002/3412 | 2010-08-31 | parcial | cvm-col-20100831-d03 | fichas/colegiado/2010-18.md |
+| art. 31 | decisao-colegiado | RJ2008/11623 | 2011-01-11 | nao-provido | cvm-col-20110111-d02 | fichas/colegiado/2011-01.md |
+| art. 31 | decisao-colegiado | RJ2008/11888 | 2011-03-15 | provido | cvm-col-20110315-d02 | fichas/colegiado/2011-06.md |
+| art. 31 | decisao-colegiado | RJ2008/11652 | 2011-04-26 | nao-provido | cvm-col-20110426-d02 | fichas/colegiado/2011-09.md |
+| art. 31 | decisao-colegiado | RJ2008/12176 | 2011-06-07 | nao-provido | cvm-col-20110607-d04 | fichas/colegiado/2011-12.md |
+| art. 31 | decisao-colegiado | RJ2008/12184 | 2011-07-12 | nao-provido | cvm-col-20110712-d01 | fichas/colegiado/2011-14.md |
+| art. 31 | decisao-colegiado | RJ2009/0060 | 2011-11-22 | nao-provido | cvm-col-20111122-d18 | fichas/colegiado/2011-26.md |
+| art. 31 | decisao-colegiado | RJ2010/16966 | 2012-01-17 | nao-provido | cvm-col-20120117-d05 | fichas/colegiado/2012-01.md |
+| art. 31 | decisao-colegiado | RJ2011/5513; RJ2011/11068 | 2012-09-11 | nao-provido | cvm-col-20120911-d03 | fichas/colegiado/2012-16.md |
+| art. 31 | decisao-colegiado | RJ2011/6662; RJ2011/11284 | 2012-09-11 | nao-provido | cvm-col-20120911-d04 | fichas/colegiado/2012-16.md |
+| art. 31 | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
+| art. 31 | decisao-colegiado | RJ2011/5954 | 2012-12-18 | nao-provido | cvm-col-20121218-d05 | fichas/colegiado/2012-25.md |
+| art. 31 | decisao-colegiado | RJ2011/4444 | 2012-12-18 | parcial | cvm-col-20121218-d07 | fichas/colegiado/2012-25.md |
+| art. 31 | decisao-colegiado | RJ2011/4421 | 2013-04-24 | conhecimento | cvm-col-20130424-d02 | fichas/colegiado/2013-09.md |
+| art. 31 | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | cvm-col-20130723-d02 | fichas/colegiado/2013-13.md |
+| art. 31 | decisao-colegiado | RJ2012/1046 | 2013-09-17 | parcial | cvm-col-20130917-d01 | fichas/colegiado/2013-17.md |
+| art. 31 | decisao-colegiado | RJ2012/12063 | 2013-09-17 | nao-provido | cvm-col-20130917-d02 | fichas/colegiado/2013-17.md |
+| art. 31 | decisao-colegiado | RJ2011/4924 | 2013-10-29 | nao-provido | cvm-col-20131029-d04 | fichas/colegiado/2013-20.md |
+| art. 31 | decisao-colegiado | RJ2012/15312 | 2016-06-21 | nao-provido | cvm-col-20160621-d0264 | fichas/colegiado/2016-12.md |
+| art. 31 | decisao-colegiado | RJ2012/15534 | 2016-06-21 | conhecimento | cvm-col-20160621-d0265 | fichas/colegiado/2016-12.md |
+| art. 31 | decisao-colegiado | RJ2016/7756 | 2016-11-08 | nao-provido | cvm-col-20161108-d0419 | fichas/colegiado/2016-22.md |
+| art. 31 | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
+| art. 31 | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
+| art. 31 | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | cvm-col-20221213-d2730 | fichas/colegiado/2022-17.md |
+| art. 31, inciso II | decisao-colegiado | RJ2014/8661 | 2014-09-02 | nao-provido | cvm-col-20140902-d20 | fichas/colegiado/2014-17.md |
+| art. 31, § 1º | decisao-colegiado | RJ2002/6528 | 2009-05-19 | nao-provido | cvm-col-20090519-d03 | fichas/colegiado/2009-09.md |
+| art. 31, § 1º | decisao-colegiado | RJ2002/6812 | 2009-05-19 | nao-provido | cvm-col-20090519-d04 | fichas/colegiado/2009-09.md |
+| art. 31, § 1º | decisao-colegiado | RJ2007/2616 | 2009-05-19 | nao-provido | cvm-col-20090519-d06 | fichas/colegiado/2009-09.md |
+| art. 31, § 1º | decisao-colegiado | RJ2002/4401 | 2009-10-13 | nao-provido | cvm-col-20091013-d10 | fichas/colegiado/2009-17.md |
+| art. 31, § 1º | decisao-colegiado | RJ2007/2436 | 2009-12-01 | nao-provido | cvm-col-20091201-d07 | fichas/colegiado/2009-21.md |
+| art. 31, § 1º | decisao-colegiado | RJ2007/2311 | 2009-12-01 | nao-provido | cvm-col-20091201-d16 | fichas/colegiado/2009-22.md |
+| art. 31, § 1º | decisao-colegiado | RJ2002/4955 | 2009-12-08 | nao-provido | cvm-col-20091208-d14 | fichas/colegiado/2009-22.md |
+| art. 31, § 1º | decisao-colegiado | RJ2002/3242 | 2010-06-15 | nao-provido | cvm-col-20100615-d02 | fichas/colegiado/2010-14.md |
+| art. 31, § 1º | decisao-colegiado | RJ2009/0060 | 2011-11-22 | nao-provido | cvm-col-20111122-d18 | fichas/colegiado/2011-26.md |
+| art. 31, § 1º | decisao-colegiado | RJ2010/15660; RJ2010/5704 | 2012-09-11 | nao-provido | cvm-col-20120911-d16 | fichas/colegiado/2012-17.md |
+| art. 31, § 1º | decisao-colegiado | RJ2011/5954 | 2012-12-18 | nao-provido | cvm-col-20121218-d05 | fichas/colegiado/2012-25.md |
+| art. 31, § 1º | decisao-colegiado | RJ2012/4742 | 2013-07-23 | nao-provido | cvm-col-20130723-d02 | fichas/colegiado/2013-13.md |
+| art. 31, § 1º | decisao-colegiado | 19957.000984/2017-12 | 2021-03-23 | nao-provido | cvm-col-20210323-d2107 | fichas/colegiado/2021-05.md |
+| art. 31, § 1º | decisao-colegiado | 19957.005698/2016-54 | 2022-12-13 | nao-provido | cvm-col-20221213-d2729 | fichas/colegiado/2022-16.md |
+| art. 31, § 1º | decisao-colegiado | 19957.005279/2020-07 | 2022-12-13 | nao-provido | cvm-col-20221213-d2730 | fichas/colegiado/2022-17.md |
+| art. 31, § 3º | decisao-colegiado | RJ2002/4782 | 2010-06-29 | provido | cvm-col-20100629-d09 | fichas/colegiado/2010-14.md |
+| art. 31, § 3º | decisao-colegiado | RJ2008/11888 | 2011-03-15 | provido | cvm-col-20110315-d02 | fichas/colegiado/2011-06.md |
 
 ## art. 37
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 37 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução CVM nº 08/79. Criação de condições artificias de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira de e na administração de fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2.616/95; ao art. 65, inc. XV, da Instrução CVM 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM 387/03. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2021/10372-100268-2019-94.md |
-| art. 37, § 1º | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 37 | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 37, § 1º | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
 
 ## art. 37-A
 
-| Dispositivo | Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|---|
-| art. 37-A | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. Práticas não equitativas no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “d”, da Instrução CVM nº 08/79. Criação de condições artificias de demanda no mercado de valores mobiliários. Infração ao item I, c/c item II, alínea “a”, da Instrução CVM nº 08/79. Falta de diligência na gestão da carteira de e na administração de fundos exclusivos da Prece. Infração ao art. 2º, parágrafo único, inciso II, do Regulamento Anexo à Circular Bacen nº 2.616/95; ao art. 65, inc. XV, da Instrução CVM 409/04 e ao art. 14, item II da Instrução CVM nº 306/99. Falta de diligência dos diretores responsáveis junto às corretoras. Infração ao art. 4º, parágrafo único, da Instrução CVM 387/03. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2021/10372-100268-2019-94.md |
-| art. 37-A | decisao-colegiado | RJ1999/3696 | 2010-05-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ1999/3696. | ../../../../../julgados/cvm/colegiado/2010/col-20100518-d03.md |
-| art. 37-A | decisao-colegiado | RJ2008/3750 | 2010-05-18 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. RJ2008/3750. | ../../../../../julgados/cvm/colegiado/2010/col-20100518-d07.md |
-| art. 37-A | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SRE em processo de multa cominatória. Proc. RJ2011/6936. | ../../../../../julgados/cvm/colegiado/2011/col-20110920-d13.md |
-| art. 37-A | decisao-colegiado | RJ2010/13703 | 2012-07-10 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/13703. | ../../../../../julgados/cvm/colegiado/2012/col-20120710-d12.md |
-| art. 37-A | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/6520. | ../../../../../julgados/cvm/colegiado/2012/col-20120731-d04.md |
-| art. 37-A | decisao-colegiado | RJ2011/6005 | 2012-10-23 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/6005. | ../../../../../julgados/cvm/colegiado/2012/col-20121023-d20.md |
-| art. 37-A | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11715. | ../../../../../julgados/cvm/colegiado/2013/col-20130108-d01.md |
-| art. 37-A | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu os pedidos de dois recorrentes contra decisão da SAD, que alegavam ilegalidade da inscrição no CADIN antes da decisão do CRSFN e pediam outro termo inicial da Selic sobre multas. Acompanhou o voto da relatora, que manteve a inscrição após a rescisão do parcelamento (art. 14-B da Lei 10.522/02). | ../../../../../julgados/cvm/colegiado/2013/col-20130226-d01.md |
-| art. 37-A | decisao-colegiado | RJ2012/11717 | 2013-03-26 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2012/11717. | ../../../../../julgados/cvm/colegiado/2013/col-20130326-d07.md |
-| art. 37-A | decisao-colegiado | RJ2013/0460 | 2013-04-02 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa de mora sobre multa cominatória. Proc. RJ2013/0460. | ../../../../../julgados/cvm/colegiado/2013/col-20130402-d05.md |
-| art. 37-A | decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu recurso contra multa de mora (art. 37-A da Lei 10.522/02) incidente sobre a multa pecuniária do PAS RJ2007/8672, mantendo a multa de mora. Fundamento: manifestação da área técnica e da Procuradoria Jurídica, que viu preclusão consumativa quanto à multa pecuniária. | ../../../../../julgados/cvm/colegiado/2013/col-20130709-d06.md |
-| art. 37-A | decisao-colegiado | RJ2012/11394 | 2013-07-30 | nao-provido | multa-cominatoria-taxa | O Colegiado não acatou pedido de reconsideração da massa falida da S.A. Viação Aérea Rio-Grandense contra decisão que manteve multa de mora (art. 37-A, Lei 10.522/02) sobre multa cominatória por atraso no Formulário de Informações Trimestrais do 3º trimestre de 2008. Fundamento: inexistência de erro material, ilegalidade ou fato novo. Acompanhando a área técnica (Memo/CVM/SEP/GEA-3/103/2013). | ../../../../../julgados/cvm/colegiado/2013/col-20130730-d06.md |
-| art. 37-A | decisao-colegiado | RJ2012/11534 | 2013-11-19 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento ao recurso contra multa de mora sobre a multa pecuniária imposta no PAS 27/2003, mantendo a cobrança, com base nos argumentos do Memo SAD/GAC 191/2013. | ../../../../../julgados/cvm/colegiado/2013/col-20131119-d01.md |
-| art. 37-A | decisao-colegiado | RJ2012/3677 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recurso de pessoa física contra a cobrança de multa de mora pela SAD sobre o valor principal da multa pecuniária do Inquérito Administrativo CVM 15/97, com base no Memo/SAD/GAC/Nº 342/2013. | ../../../../../julgados/cvm/colegiado/2014/col-20140107-d10.md |
-| art. 37-A | decisao-colegiado | RJ2012/11535 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recurso contra multa de mora aplicada pela SAD sobre o valor principal de multa pecuniária imposta no PAS CVM 27/03, mantendo a multa de mora. Com base nos argumentos do Memo/SAD/GAC/Nº 338/2013. | ../../../../../julgados/cvm/colegiado/2014/col-20140107-d11.md |
-| art. 37-A | decisao-colegiado | RJ2012/11536 | 2014-01-07 | nao-provido | multa-cominatoria-taxa | O Colegiado indeferiu o recurso da Portus Security Corretora de Mercadorias Ltda. e manteve a multa de mora sobre o principal da multa pecuniária do PAS CVM 27/03, com base em manifestação da SAD. | ../../../../../julgados/cvm/colegiado/2014/col-20140107-d12.md |
-| art. 37-A | decisao-colegiado | RJ2012/11562 | 2014-05-20 | nao-provido | multa-cominatoria-taxa | O Colegiado, com base no Memo/SAD/GAC/Nº 071/2014, indeferiu o recurso da Martinez e Associados Auditoria e Consultoria – ME contra cobrança de multa de mora da SAD sobre a multa pecuniária do Termo de Acusação CVM RJ2006/6017, mantendo a cobrança. | ../../../../../julgados/cvm/colegiado/2014/col-20140520-d19.md |
-| art. 37-A | decisao-colegiado | RJ2013/11178 | 2015-09-29 | outro | multa-cominatoria-taxa | O Colegiado determinou o arquivamento do PAS RJ2013/11178 em relação ao compromitente, por cumprimento do termo de compromisso apesar de pagamento com dois dias de atraso e depósito complementar corrigido pela Selic, considerando antecedentes da autarquia. Doravante, compromitentes em atraso pagarão multa de mora (art. 37-A da Lei 10.522/2002) e Selic. | ../../../../../julgados/cvm/colegiado/2015/col-20150929-d9291.md |
-| art. 37-A | decisao-colegiado | 19957.003690/2017-34 | 2017-05-16 | outro | multa-cominatoria-taxa | Recurso contra decisão da SRE. Proc. SEI 19957.003690/2017-34. | ../../../../../julgados/cvm/colegiado/2017/col-20170516-d0677.md |
-| art. 37-A | decisao-colegiado | 19957.004919/2016-77 | 2017-08-15 | outro | outros | O Colegiado admitiu como cumprido termo de compromisso, apesar de pagamento feito com cinquenta dias de atraso, e determinou o arquivamento do processo. Acompanhou a SAD, que registrou multa de mora e atualização pela SELIC, em linha com precedentes e com a metodologia de 29.9.2015 (PAS RJ2013/11178). | ../../../../../julgados/cvm/colegiado/2017/col-20170815-d0555.md |
-| art. 37-A | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | multa-cominatoria-taxa | O Colegiado, por unanimidade, não conheceu do recurso contra a cobrança de juros de mora sobre multa pecuniária do PAS 01/2010, após decisão do CRSFN que reduziu a multa de R$ 1.669.837,00 para R$ 150.000,00. Acompanhou a área técnica: o objeto não é decisão de Superintendente, mas ato de notificação de decisão do CRSFN. | ../../../../../julgados/cvm/colegiado/2019/col-20190108-d1276.md |
-| art. 37-A | decisao-colegiado | 19957.000089/2017-90 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000089/2017-90. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2100.md |
-| art. 37-A | decisao-colegiado | 19957.000167/2017-56 | 2021-03-16 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SGE em processo de taxa de fiscalização. Proc. SEI 19957.000167/2017-56. | ../../../../../julgados/cvm/colegiado/2021/col-20210316-d2101.md |
-| art. 37-A, § 1º | decisao-colegiado | RJ2015/0607 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0607. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9613.md |
-| art. 37-A, § 1º | decisao-colegiado | RJ2015/0608 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0608. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9614.md |
-| art. 37-A, § 1º | decisao-colegiado | RJ2015/0609 | 2015-03-31 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2015/0609. | ../../../../../julgados/cvm/colegiado/2015/col-20150331-d9615.md |
+| Dispositivo | Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|---|
+| art. 37-A | acordao-crsfn | 06/2012 | 2021-12-07 | condenacao | crsfn-10372-100268-2019-94 | fichas/crsfn/2021-04.md |
+| art. 37-A | decisao-colegiado | RJ1999/3696 | 2010-05-18 | nao-provido | cvm-col-20100518-d03 | fichas/colegiado/2010-12.md |
+| art. 37-A | decisao-colegiado | RJ2008/3750 | 2010-05-18 | nao-provido | cvm-col-20100518-d07 | fichas/colegiado/2010-13.md |
+| art. 37-A | decisao-colegiado | RJ2011/6936 | 2011-09-20 | nao-provido | cvm-col-20110920-d13 | fichas/colegiado/2011-19.md |
+| art. 37-A | decisao-colegiado | RJ2010/13703 | 2012-07-10 | nao-provido | cvm-col-20120710-d12 | fichas/colegiado/2012-12.md |
+| art. 37-A | decisao-colegiado | RJ2012/6520 | 2012-07-31 | nao-provido | cvm-col-20120731-d04 | fichas/colegiado/2012-13.md |
+| art. 37-A | decisao-colegiado | RJ2011/6005 | 2012-10-23 | nao-provido | cvm-col-20121023-d20 | fichas/colegiado/2012-19.md |
+| art. 37-A | decisao-colegiado | RJ2012/11715 | 2013-01-08 | nao-provido | cvm-col-20130108-d01 | fichas/colegiado/2013-01.md |
+| art. 37-A | decisao-colegiado | RJ2011/0427 | 2013-02-26 | nao-provido | cvm-col-20130226-d01 | fichas/colegiado/2013-05.md |
+| art. 37-A | decisao-colegiado | RJ2012/11717 | 2013-03-26 | nao-provido | cvm-col-20130326-d07 | fichas/colegiado/2013-07.md |
+| art. 37-A | decisao-colegiado | RJ2013/0460 | 2013-04-02 | nao-provido | cvm-col-20130402-d05 | fichas/colegiado/2013-08.md |
+| art. 37-A | decisao-colegiado | RJ2012/3663 | 2013-07-09 | nao-provido | cvm-col-20130709-d06 | fichas/colegiado/2013-13.md |
+| art. 37-A | decisao-colegiado | RJ2012/11394 | 2013-07-30 | nao-provido | cvm-col-20130730-d06 | fichas/colegiado/2013-14.md |
+| art. 37-A | decisao-colegiado | RJ2012/11534 | 2013-11-19 | nao-provido | cvm-col-20131119-d01 | fichas/colegiado/2013-22.md |
+| art. 37-A | decisao-colegiado | RJ2012/3677 | 2014-01-07 | nao-provido | cvm-col-20140107-d10 | fichas/colegiado/2014-01.md |
+| art. 37-A | decisao-colegiado | RJ2012/11535 | 2014-01-07 | nao-provido | cvm-col-20140107-d11 | fichas/colegiado/2014-01.md |
+| art. 37-A | decisao-colegiado | RJ2012/11536 | 2014-01-07 | nao-provido | cvm-col-20140107-d12 | fichas/colegiado/2014-01.md |
+| art. 37-A | decisao-colegiado | RJ2012/11562 | 2014-05-20 | nao-provido | cvm-col-20140520-d19 | fichas/colegiado/2014-10.md |
+| art. 37-A | decisao-colegiado | RJ2013/11178 | 2015-09-29 | outro | cvm-col-20150929-d9291 | fichas/colegiado/2015-17.md |
+| art. 37-A | decisao-colegiado | 19957.003690/2017-34 | 2017-05-16 | outro | cvm-col-20170516-d0677 | fichas/colegiado/2017-10.md |
+| art. 37-A | decisao-colegiado | 19957.004919/2016-77 | 2017-08-15 | outro | cvm-col-20170815-d0555 | fichas/colegiado/2017-14.md |
+| art. 37-A | decisao-colegiado | 19957.011151/2018-50 | 2019-01-08 | conhecimento | cvm-col-20190108-d1276 | fichas/colegiado/2019-01.md |
+| art. 37-A | decisao-colegiado | 19957.000089/2017-90 | 2021-03-16 | nao-provido | cvm-col-20210316-d2100 | fichas/colegiado/2021-05.md |
+| art. 37-A | decisao-colegiado | 19957.000167/2017-56 | 2021-03-16 | nao-provido | cvm-col-20210316-d2101 | fichas/colegiado/2021-05.md |
+| art. 37-A, § 1º | decisao-colegiado | RJ2015/0607 | 2015-03-31 | nao-provido | cvm-col-20150331-d9613 | fichas/colegiado/2015-05.md |
+| art. 37-A, § 1º | decisao-colegiado | RJ2015/0608 | 2015-03-31 | nao-provido | cvm-col-20150331-d9614 | fichas/colegiado/2015-05.md |
+| art. 37-A, § 1º | decisao-colegiado | RJ2015/0609 | 2015-03-31 | nao-provido | cvm-col-20150331-d9615 | fichas/colegiado/2015-06.md |
 
 ## Citada sem dispositivo identificado
 
-| Tipo | Processo | Data | Resultado | Tema | Ementa | Arquivo |
-|---|---|---|---|---|---|---|
-| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | contabil-demonstracoes | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. NÃO ENVIO OU ENVIO DE DEMONSTRAÇÕES FINANCEIRAS DE FORMA INCOMPLETA, INCORRETA OU FORA DO PRAZO. Irregularidades na apresentação de informações periódicas de fundos administrados pela Intrader. Preliminares de perda de objeto e da pretensão de abatimento integral do valor originalmente previsto no Termo de Compromisso rejeitadas. Irregularidades caracterizadas. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2026/19957-001933-2021-86.md |
-| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | manipulacao-fraude | RECURSO ADMINISTRATIVO. CVM. VALORES MOBILIÁRIOS. OPERAÇÃO FRAUDULENTA NO MERCADO DE VALORES MOBILIÁRIOS. Infração aos arts. 3º e 2º, inciso III, da Resolução CVM nº 62/2022. Utilização de ardil ou artifício, indução ou manutenção de terceiros em erro e intenção de obter vantagem ilícita para si ou terceiros. Infração caracterizada. Dosimetria da apena adequada. Recurso conhecido e desprovido | ../../../../../julgados/crsfn/2025/10372-000010-2025-37.md |
-| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | manipulacao-fraude | RECURSO ADMINISTRATIVO. CVM. MERCADO DE CAPITAIS. MANIPULAÇÃO DE PREÇOS POR MEIO DA UTILIZAÇÃO DE OFERTAS ARTIFICIAIS DE NEGOCIAÇÃO. SPOOFING. Operações de mesmo comitente. Infração caracterizada. Ajuste na dosimetria da pena. Recurso conhecido e parcialmente provido. | ../../../../../julgados/crsfn/2024/10372-100151-2023-97.md |
-| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | manipulacao-fraude | RECURSOS ADMINISTRATIVOS. CVM. MERCADO DE VALORES MOBILIÁRIOS. USO DE PRÁTICA NÃO EQUITATIVA, NA MODALIDADE DE FRONT RUNNING. Infração ao item I c/c o item II, "d", da Instrução CVM nº 8/1979. Materialidade da infração e respectivas autorias comprovadas. Ajuste na dosimetria das penas. Recursos conhecidos e parcialmente providos. | ../../../../../julgados/crsfn/2024/10372-100089-2023-33.md |
-| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. RESPONSABILIDADE DE INVESTIDORES PELA SUPOSTA CRIAÇÃO DE CONDIÇÕES ARTIFICIAIS DE DEMANDA, OFERTA E PREÇO. MONEY PASS. Infração caracterizada. Preliminar de devolução do prazo recursal rejeitada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2023/10372-100085-2022-74.md |
-| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. Prática não equitativa no mercado de valores mobiliários. Infração ao item I c/c item II, “d”, da Instrução CVM nº 8 de 1979, vigente à época dos fatos. Infração caracterizada. Aplicação da correção pelo IPCA à base de cálculo da penalidade. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2023/10372-100184-2020-94.md |
-| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. PRÁTICA DE MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS, POR MEIO DE LAYERING. Infração ao item I da Instrução CVM nº 8/1979, consoante definida no item II, letra "b". Infração caracterizada. Inocorrência de prescrição. Legalidade da multa aplicada com base na vantagem econômica. Mantida a atualização monetária pelo IPC-A. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2023/10372-100130-2022-91.md |
-| acordao-crsfn | 14/2010 | 2023-03-08 | outro | processual | EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE OMISSÃO, OBSCURIDADE E CONTRADIÇÃO NO ACÓRDÃO CRSFN 171/2022. Vícios apontados não caracterizados. Embargos rejeitados. | ../../../../../julgados/crsfn/2023/10372-100071-2021-70-2.md |
-| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | manipulacao-fraude | RECURSOS VOLUNTÁRIOS. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS. CONTRATOS FUTUROS DE MILHO NO PERÍODO DE 02.04.2015 A 27.08.2015. Infração definida no item II, letra “b”, da Instrução CVM nº 08/1979 e vedada pelo item I da mesma Instrução (atual inciso II do artigo 2º da Resolução CVM nº 62/2022). Materialidade e dolo configurados. Confirmada a atualização monetária pelo IPCA. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2022/10372-100179-2020-81.md |
-| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS NO MERCADO DE VALORES MOBILIÁRIOS POR MEIO DA INSERÇÃO DE OFERTAS ARTIFICIAIS DE COMPRA E DE VENDA DE ATIVOS PARA EXERCER UMA PRESSÃO COMPRADORA, OU VENDEDORA, DESSES ATIVOS (LAYERING). Infração ao inciso I c/c inciso II, letra “b” da Instrução CVM nº 08/1979. Autoria e materialidade configuradas. Metodologia adequada para cálculo do benefício econômico. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2022/10372-100175-2020-01.md |
-| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | manipulacao-fraude | RECURSO VOLUNTÁRIO. MANIPULAÇÃO DE PREÇOS. PRÁTICA DE SPOOFING POR CONDUTA REITERADA E PRÁTICA SISTEMÁTICA IDENTIFICADA EM DIFERENTES CORRETORAS. Infração ao inciso II, letra “b”, da Instrução CVM nº 08/1979 e vedado pelo inciso I desta mesma Instrução. Evocação do princípio da insignificância e da inexistência de dolo. Identificação e proteção do bem jurídico tutelado no mercado de capitais. Precedentes. Confirmada a atualização monetária pelo IPC-A. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2022/10372-100057-2021-76.md |
-| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | informacao-privilegiada | RECURSOS VOLUNTÁRIOS. NEGOCIAÇÃO DE VALORES MOBILIÁRIOS DE POSSE DE INFORMAÇÕES RELEVANTES SOBRE A SOCIEDADE ANTES DA DIVULGAÇÃO AO MERCADO. Violação ao art. 155, §1º da Lei nº 6.404/76 c/c o art. 13 da Instrução CVM nº 358/02. Infração caracterizada. Recursos conhecidos e desprovidos. | ../../../../../julgados/crsfn/2022/10372-100225-2019-17.md |
-| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | informacao-privilegiada | RECURSOS VOLUNTÁRIOS E DE OFÍCIO. RECURSO VOLUNTÁRIO. Uso de informação privilegiada. Manipulação de preços. Recurso conhecido e desprovido. | ../../../../../julgados/crsfn/2021/10372-100245-2019-80.md |
-| decisao-colegiado | 19957.000756/2018-15 | 2019-09-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.000756/2018-15. | ../../../../../julgados/cvm/colegiado/2019/col-20190924-d1549.md |
-| decisao-colegiado | 19957.011525/2017-56 | 2018-02-06 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. SEI 19957.011525/2017-56. | ../../../../../julgados/cvm/colegiado/2018/col-20180206-d0916.md |
-| decisao-colegiado | RJ2012/11394 | 2013-05-14 | nao-provido | multa-cominatoria-taxa | O Colegiado negou provimento a recurso da massa falida da Viação Aérea Rio-Grandense contra multa de mora (art. 37-A da Lei 10.522/02) incidente sobre a multa cominatória por atraso no Formulário de Informações Trimestrais do 3º trimestre de 2008, acompanhando a área técnica. | ../../../../../julgados/cvm/colegiado/2013/col-20130514-d05.md |
-| decisao-colegiado | RJ2011/12525 | 2011-11-29 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2011/12525. | ../../../../../julgados/cvm/colegiado/2011/col-20111129-d25.md |
-| decisao-colegiado | RJ2010/14976 | 2011-01-04 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/14976. | ../../../../../julgados/cvm/colegiado/2011/col-20110104-d02.md |
-| decisao-colegiado | RJ2010/15385 | 2010-12-28 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SEP em processo de multa cominatória. Proc. RJ2010/15385. | ../../../../../julgados/cvm/colegiado/2010/col-20101228-d64.md |
-| decisao-colegiado | RJ2010/3248 | 2010-04-20 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2010/3248. | ../../../../../julgados/cvm/colegiado/2010/col-20100420-d11.md |
-| decisao-colegiado | RJ2009/1608 | 2009-03-17 | parcial | multa-cominatoria-taxa | Recurso contra decisão da SIN em processo de multa cominatória. Proc. RJ2009/1608. | ../../../../../julgados/cvm/colegiado/2009/col-20090317-d05.md |
-| decisao-colegiado | RJ2008/7781 | 2008-10-07 | nao-provido | opa | O Colegiado negou provimento a recurso da Pátria Hedge – Fundo de Investimento Multimercado contra a não procedência de pleito de preço em dólares na OPA unificada de ações da Anglo Ferrous Brazil S.A. Autorizou o registro, desde que a ofertante atualizasse o preço por no mínimo a variação da Selic. Acompanhou a SRE. | ../../../../../julgados/cvm/colegiado/2008/col-20081007-d16.md |
-| decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | multa-cominatoria-taxa | Recurso contra decisão do SGE relativa a taxa de fiscalização. Proc. RJ99/2838. | ../../../../../julgados/cvm/colegiado/2004/col-20040824-d03.md |
-| decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | multa-cominatoria-taxa | Recurso contra a decisão da SGE relativa a taxa de fiscalização. Proc. RJ99/2786. | ../../../../../julgados/cvm/colegiado/2004/col-20040121-d01.md |
-| decisao-colegiado | — | 2003-04-29 | outro | normativo | O Colegiado aprovou a minuta de deliberação que estabelece procedimentos para o arrolamento de bens e direitos previsto no Decreto 70.235/72, modificado pela Lei 10.522/02. | ../../../../../julgados/cvm/colegiado/2003/col-20030429-d01.md |
+| Tipo | Processo | Data | Resultado | Id | Ficha |
+|---|---|---|---|---|---|
+| acordao-crsfn | 19957.001933/2021-86 | 2026-07-14 | parcial | crsfn-19957-001933-2021-86 | fichas/crsfn/2026-02.md |
+| acordao-crsfn | 19957.008119/2023-54 | 2025-08-12 | condenacao | crsfn-10372-000010-2025-37 | fichas/crsfn/2025-04.md |
+| acordao-crsfn | 19957.005801/2019-17 | 2024-11-12 | parcial | crsfn-10372-100151-2023-97 | fichas/crsfn/2024-06.md |
+| acordao-crsfn | 19957.005174/2019-14 | 2024-07-16 | parcial | crsfn-10372-100089-2023-33 | fichas/crsfn/2024-04.md |
+| acordao-crsfn | 19957.002596/2017-68 | 2023-09-12 | condenacao | crsfn-10372-100085-2022-74 | fichas/crsfn/2023-05.md |
+| acordao-crsfn | 19957.009351/2017-61; SP2017/441 | 2023-05-09 | condenacao | crsfn-10372-100184-2020-94 | fichas/crsfn/2023-04.md |
+| acordao-crsfn | 19957.006511/2019-82 | 2023-03-08 | condenacao | crsfn-10372-100130-2022-91 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | 14/2010 | 2023-03-08 | outro | crsfn-10372-100071-2021-70-2 | fichas/crsfn/2023-02.md |
+| acordao-crsfn | 19957.003798/2017-27; SP2017/316 | 2022-07-12 | condenacao | crsfn-10372-100179-2020-81 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | 19957.005452/2016-82 | 2022-07-12 | condenacao | crsfn-10372-100175-2020-01 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | 19957.009864/2019-34; RJ2019/7806 | 2022-07-12 | condenacao | crsfn-10372-100057-2021-76 | fichas/crsfn/2022-04.md |
+| acordao-crsfn | RJ2014/3616 | 2022-04-12 | condenacao | crsfn-10372-100225-2019-17 | fichas/crsfn/2022-02.md |
+| acordao-crsfn | RJ2014/578 | 2021-12-08 | condenacao | crsfn-10372-100245-2019-80 | fichas/crsfn/2021-05.md |
+| decisao-colegiado | 19957.000756/2018-15 | 2019-09-24 | nao-provido | cvm-col-20190924-d1549 | fichas/colegiado/2019-15.md |
+| decisao-colegiado | 19957.011525/2017-56 | 2018-02-06 | nao-provido | cvm-col-20180206-d0916 | fichas/colegiado/2018-02.md |
+| decisao-colegiado | RJ2012/11394 | 2013-05-14 | nao-provido | cvm-col-20130514-d05 | fichas/colegiado/2013-10.md |
+| decisao-colegiado | RJ2011/12525 | 2011-11-29 | nao-provido | cvm-col-20111129-d25 | fichas/colegiado/2011-27.md |
+| decisao-colegiado | RJ2010/14976 | 2011-01-04 | nao-provido | cvm-col-20110104-d02 | fichas/colegiado/2011-01.md |
+| decisao-colegiado | RJ2010/15385 | 2010-12-28 | nao-provido | cvm-col-20101228-d64 | fichas/colegiado/2010-33.md |
+| decisao-colegiado | RJ2010/3248 | 2010-04-20 | nao-provido | cvm-col-20100420-d11 | fichas/colegiado/2010-12.md |
+| decisao-colegiado | RJ2009/1608 | 2009-03-17 | parcial | cvm-col-20090317-d05 | fichas/colegiado/2009-04.md |
+| decisao-colegiado | RJ2008/7781 | 2008-10-07 | nao-provido | cvm-col-20081007-d16 | fichas/colegiado/2008-22.md |
+| decisao-colegiado | RJ99/2838 | 2004-08-24 | nao-provido | cvm-col-20040824-d03 | fichas/colegiado/2004-10.md |
+| decisao-colegiado | RJ99/2786 | 2004-01-21 | nao-provido | cvm-col-20040121-d01 | fichas/colegiado/2004-01.md |
+| decisao-colegiado | — | 2003-04-29 | outro | cvm-col-20030429-d01 | fichas/colegiado/2003-05.md |
 
 Fim do subíndice.
