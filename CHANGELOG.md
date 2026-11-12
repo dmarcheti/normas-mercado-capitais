@@ -1,5 +1,17 @@
 # Histórico de versões
 
+## 2.0.0 (não lançada)
+
+Mudança de estrutura: um único plugin, `normas`, com normas e julgados. Quem tinha os plugins `julgados-*` precisa removê-los (instruções abaixo).
+
+- **Plugin único:** `normas` passa à versão 2.0.0 e cobre normas e julgados. A skill `consultar-julgados` some; o `SKILL.md` de `consultar-normas` junta as duas, com o fluxo de julgados descrito abaixo.
+- **Acervo dentro da skill:** as normas passam de `plugins/normas/normas/` para `plugins/normas/skills/consultar-normas/normas/`. Motivo: num teste no claude.ai, o plugin foi montado só com a pasta da skill, sem o acervo que ficava ao lado dela, e o Claude não achou nada e foi buscar na web. Os caminhos do `SKILL.md` são relativos à pasta da skill (sem `${CLAUDE_PLUGIN_ROOT}`).
+- **Julgados em fichas:** os índices dos julgados passam a um só conjunto em `plugins/normas/skills/consultar-normas/julgados/` (`indice.md`, `indices/` e `fichas/`). A ficha de cada julgado traz id, tipo, processo, data, relator, resultado, ementa, tema, dispositivos citados, um trecho da decisão (até 1.500 caracteres) e o link do texto integral. O formato está no `SPEC.md` (v0.6.0), seção Fichas. Os índices ganham a coluna `Ficha`, com o caminho relativo a `julgados/` da skill.
+- **Texto integral fora do plugin:** o texto de cada julgado fica em `julgados/`, na raiz do repositório, e o Claude o lê pelo GitHub. O caminho é estável e declarado no `SPEC.md`: os links das fichas dependem dele.
+- **Fluxo de julgados:** o Claude acha o julgado pelos índices, responde pela ficha e, se a pergunta pedir o fundamento do voto ou os fatos, tenta ler o `texto_integral`. No claude.ai, a busca de página só abre link que o usuário colou na conversa ou que veio de uma busca (testado em 2026-11-12); quando recusa, o Claude diz o que a ficha permite afirmar e pede para o usuário colar o link. No Claude Code, o WebFetch abre o link depois do pedido de permissão do próprio Claude Code.
+- **Saem do marketplace os 5 plugins `julgados-*`:** `julgados-pas`, `julgados-tc-crsfn`, `julgados-colegiado-2002-2008`, `julgados-colegiado-2009-2015` e `julgados-colegiado-2016-2026`. Quem os tinha: no claude.ai, remova cada um em Personalizar → Plugins; no Claude Code, `/plugin uninstall julgados-pas@normas-mercado-capitais` e o mesmo para os outros quatro. Depois atualize o marketplace e confira se `normas` está na 2.0.0. Não há nada a instalar no lugar.
+- **Documentação:** `README.md` (instalação em 3 passos no claude.ai, estrutura do repositório, seção Ficha e texto integral, nota para quem tinha os `julgados-*`), `COMECE-AQUI.md` e `SPEC.md` com os caminhos novos.
+
 ## Dados de 2026-11-04 (itens da Fase 5 aplicados em 2026-11-05)
 
 - Dados até 2026-11-04: 635 atos, 14991 julgados; testemunha no texto corrido fora de 21 julgados e índices novos de busca nos julgados.

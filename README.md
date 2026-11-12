@@ -34,7 +34,7 @@ Uma resposta real no claude.ai, com o plugin `normas` (trechos do início e do f
 
 ![Resposta do Claude sobre o quórum para destituir o gestor na Res. CVM 175: cita os arts. 70, 74, 76 e 78 e informa que o texto está atualizado até a Res. CVM 240/26](docs/img/resposta-quorum-res-175.png)
 
-Nos julgados, o caminho é parecido. O Claude acha o caso pelo número do processo, pelo tema ou pela norma citada e traz data, relator, resultado e valor. Avisa também quando a ementa foi escrita por modelo de linguagem e não pela CVM.
+Nos julgados, o caminho é parecido. O Claude acha o caso pelo número do processo, pelo tema ou pela norma citada, lê a ficha e traz data, relator, resultado e valor. Para o fundamento do voto, lê o texto integral (ver [Ficha e texto integral](#ficha-e-texto-integral)). Avisa também quando a ementa foi escrita por modelo de linguagem e não pela CVM.
 
 ## Por que Markdown
 
@@ -57,12 +57,12 @@ Público desde 2026-11-05. Acervo atual, em camadas declaradas (data-base 2026-1
 
 1. **Regulação da CVM:** as 155 Resoluções CVM vigentes (as 154 do Estoque Regulatório da CVM de 2026-09-08, mais a Res. 249) e as 5 Instruções CVM ainda em vigor (438, 445, 489, 516 e 579, contábeis de fundos). Ficam fora as revogadas, as que só alteram outras e a Res. 26 (prorrogação de prazos de 2021, sem efeito atual [verificar]).
 2. **Interpretação da CVM:** os 41 Pareceres de Orientação e os 179 Ofícios-Circulares editados desde 2022-01-01 (7 deles por OCR, porque o PDF da CVM não tem camada de texto). Os 421 anteriores a 2022 aparecem só como verbete no índice, com link. A CVM não publica a vigência de pareceres e ofícios.
-3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/normas/indices/leis.md`).
+3. **Leis e decretos:** 28 leis e 1 decreto no texto compilado do Planalto lido em 2026-10-28, sem histórico (Leis 6.385, 6.404, 4.728, 4.595, 14.430, 11.101, 13.506 e outras; ver `plugins/normas/skills/consultar-normas/normas/indices/leis.md`).
 
 4. **CMN e BCB:** 128 normas vigentes que tocam mercado de capitais, fundos, securitização, crédito negociável e instituições do mercado (57 do CMN e 71 do BCB: Resoluções, Resoluções Conjuntas, Circulares, Cartas Circulares e Instruções Normativas), no texto compilado pelo BCB, sem histórico nem conferência contra o DOU: o da busca de normas, ou, nas 26 normas alteradas cujo texto na busca é a redação original, o PDF da última versão compilada (relido em 2026-10-30). Os atos que só alteram essas normas aparecem como verbete. Ficam fora política monetária, câmbio comercial, crédito rural, pagamentos de varejo, cooperativas e consórcios, prudencial e PLD; o critério de cada norma está em `fontes/perimetro-camada4.json`.
-5. **Autorregulação:** 39 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/normas/autorregulacao/README.md`.
+5. **Autorregulação:** 39 documentos vigentes da ANBIMA (códigos, regras e procedimentos, glossário, deliberações, pareceres e perguntas e respostas) e 59 da B3 (regulamentos, manuais de normas, manuais de procedimentos operacionais e glossários), extraídos dos PDFs. Texto de titularidade da ANBIMA e da B3, reproduzido para uso informativo e retirado a pedido; ver `plugins/normas/skills/consultar-normas/normas/autorregulacao/README.md`.
 
-6. **Julgados (v1.1):** 14.990 julgados em 5 plugins `julgados-*`: 1.419 PAS julgados pela CVM, 10.501 decisões do Colegiado (2002 em diante), 1.714 termos de compromisso, 1.332 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Cada julgado traz o texto da fonte, processo, data, relator, resultado, ementa (a da CVM ou do CRSFN, ou extraída por LLM e marcada `ementa_fonte: extracao`), tema e as normas citadas, com índices por ano, por tema e por norma, e o índice reverso de citações no plugin `normas`. Dados pessoais (CPF, RG, endereço, qualificação, testemunhas) saem do texto; o nome da parte fica. Julgado não é norma: diz o que a CVM ou o CRSFN decidiu num caso, com a redação das normas da época.
+6. **Julgados:** 14.990 julgados na v1.1 (14.991 na data-base 2026-11-04, ver `CHANGELOG.md`), com fichas dentro do plugin `normas` e texto integral em `julgados/`, na raiz do repositório: 1.419 PAS julgados pela CVM, 10.501 decisões do Colegiado (2002 em diante), 1.714 termos de compromisso, 1.332 acórdãos do CRSFN em recurso de decisão da CVM e 24 arquivos anuais de decisões antigas (1978–2001). Cada julgado traz o texto da fonte, processo, data, relator, resultado, ementa (a da CVM ou do CRSFN, ou extraída por LLM e marcada `ementa_fonte: extracao`), tema e as normas citadas, com índices por ano, por tema e por norma, e o índice reverso de citações nas normas. Dados pessoais (CPF, RG, endereço, qualificação, testemunhas) saem do texto; o nome da parte fica. Julgado não é norma: diz o que a CVM ou o CRSFN decidiu num caso, com a redação das normas da época.
 
    **PAS de 2022 em diante.** A listagem de PAS julgados da CVM para em 2025-05 e não traz parte dos julgados de 2022 a 2025. Esse período entra também pelas notícias de resultado e pelos extratos de sessão do SEI (`scripts/julgados_noticias.py`): a base tem 264 PAS julgados de 2022 a 2025 e 25 de 2026 (data-base 2026-11-05). A ausência de um julgado na base não prova que ele não exista.
 
@@ -81,8 +81,8 @@ Se uma execução não acontece no dia (máquina desligada, feriado), ela roda n
 - **Entra sem revisão humana** só o que tem conferência independente: texto convertido por script de fonte oficial, com cobertura de pelo menos 99% e testes verdes.
 - **Passa por revisão humana:** texto lido por OCR, revogação, vigência diferida, norma ou documento novo fora do perímetro, ato que altera uma norma com histórico por ato e qualquer item que o revisor por IA marque.
 - **Hoje, tudo está em período de observação:** o processo propõe e uma pessoa aprova cada mudança.
-- **Ato publicado, consolidado ainda não:** entre a publicação de um ato que altera uma norma e a chegada do texto consolidado oficial, a norma traz um aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice (`plugins/normas/normas/indice.md`). Nesse intervalo, leia o ato alterador junto com a norma.
-- **Versões:** a versão de cada plugin sobe quando o conteúdo dele muda. O claude.ai só baixa o conteúdo novo quando a versão sobe.
+- **Ato publicado, consolidado ainda não:** entre a publicação de um ato que altera uma norma e a chegada do texto consolidado oficial, a norma traz um aviso no campo `incerteza` e aparece na lista "Atos publicados ainda não aplicados" do índice (`plugins/normas/skills/consultar-normas/normas/indice.md`). Nesse intervalo, leia o ato alterador junto com a norma.
+- **Versões:** a versão do plugin `normas` sobe quando o conteúdo dele muda. O claude.ai só baixa o conteúdo novo quando a versão sobe.
 - **Até quando vale:** cada índice traz a linha "Fontes conferidas até AAAA-MM-DD". Espere uma defasagem de até cerca de duas semanas entre a publicação na fonte e a entrada no acervo.
 
 As taxas de erro da seção Verificação medem a construção, não cada atualização. O que se confere em cada atualização está em `VERIFICACAO.md`, seção "Atualização automática".
@@ -112,7 +112,7 @@ Método, todas as rodadas e ressalvas em `VERIFICACAO.md`, seção Julgados.
 
 30 perguntas com gabarito, cobrindo as 5 camadas, mais 2 fora do perímetro (`testes/bateria-v1.md`). Cada gabarito foi conferido na fonte oficial. As perguntas foram respondidas pelo Claude Sonnet 5.5, sem web, em dois modos:
 
-- **com o acervo:** só lendo os arquivos do plugin;
+- **com o acervo:** só lendo os arquivos do plugin (na v1.0, `normas`);
 - **sem o acervo:** sem nenhuma ferramenta.
 
 Um Claude Opus 5.5 corrigiu as 60 respostas sem saber de que modo vinha cada uma. Em 2026-10-30:
@@ -131,7 +131,7 @@ Com o acervo, 26 respostas citaram o dispositivo certo e 29 informaram a data-ba
 
 ### Julgados
 
-30 perguntas sobre julgados (`testes/bateria-v2.md`), com gabarito conferido na página da CVM ou do CRSFN, respondidas com e sem os plugins de julgados e corrigidas às cegas pelo Claude Opus:
+30 perguntas sobre julgados (`testes/bateria-v2.md`), com gabarito conferido na página da CVM ou do CRSFN, respondidas com e sem os plugins de julgados (v1.1, com o texto integral dentro do plugin; a bateria não foi refeita para o fluxo de fichas da 2.0.0) e corrigidas às cegas pelo Claude Opus:
 
 | Critério | Com os julgados | Sem os julgados |
 |---|---|---|
@@ -144,30 +144,66 @@ As 6 falhas com os julgados são de busca: o caso está no acervo, mas a respost
 
 ## Mapas por produto
 
-`plugins/normas/normas/mapas/` tem um mapa para CRI, um para FIDC e um para FII: que normas do acervo regem cada produto, por camada, com os dispositivos-chave e o caminho do arquivo. São mapas de navegação, não parecer.
+`plugins/normas/skills/consultar-normas/normas/mapas/` tem um mapa para CRI, um para FIDC e um para FII: que normas do acervo regem cada produto, por camada, com os dispositivos-chave e o caminho do arquivo. São mapas de navegação, não parecer.
 
 ## Instalação
 
-**No claude.ai** (navegador ou aplicativo):
+Um único plugin, `normas`, traz as normas e os julgados.
 
-1. Em Configurações → Recursos, ligue "Executar código na nuvem". As skills precisam dele.
-2. Em Personalizar → Plugins, clique em Adicionar → Adicionar marketplace → Adicionar de um repositório. Informe `dmarcheti/normas-mercado-capitais` e clique em Sincronizar. A sincronização leva 1 a 2 minutos.
-3. Busque os plugins pelo nome e clique em Adicionar em cada um: `normas` e os `julgados-*` que for usar.
-4. Numa conversa nova, pergunte normalmente. Por exemplo: "Segundo a Resolução CVM 175, qual o quórum para destituir o gestor de um fundo?"
+**No claude.ai** (navegador ou aplicativo). Antes, em Configurações → Recursos, ligue "Executar código na nuvem": as skills precisam dele.
+
+1. Em Personalizar → Plugins, clique em Adicionar → Adicionar marketplace → Adicionar de um repositório. Informe `dmarcheti/normas-mercado-capitais` e clique em Sincronizar. A sincronização leva 1 a 2 minutos.
+2. Busque o plugin `normas` e clique em Adicionar.
+3. Ligue a skill `consultar-normas` (Personalizar → Skills, ou dentro do plugin). Instalar o plugin não liga a skill: sem este passo, o Claude responde pela busca na web e ignora o acervo.
+
+Numa conversa nova, pergunte normalmente. Por exemplo: "Segundo a Resolução CVM 175, qual o quórum para destituir o gestor de um fundo?"
 
 Conta de empresa (Team ou Enterprise): o administrador pode ter bloqueado marketplaces externos.
 
-Para quem for usar com outro assistente de IA, ver `COMECE-AQUI.md`. **No Claude Code:**
+**No Claude Code:**
 
 ```
 /plugin marketplace add dmarcheti/normas-mercado-capitais
 /plugin install normas@normas-mercado-capitais
-/plugin install julgados-pas@normas-mercado-capitais
-/plugin install julgados-tc-crsfn@normas-mercado-capitais
-/plugin install julgados-colegiado-2016-2026@normas-mercado-capitais
 ```
 
-Os plugins de julgados são independentes: instale só os períodos e tipos que usar (`julgados-colegiado-2002-2008` e `julgados-colegiado-2009-2015` para decisões mais antigas).
+Para quem for usar com outro assistente de IA, ver `COMECE-AQUI.md`.
+
+### Quem tinha os plugins `julgados-*`
+
+Na 2.0.0, os cinco plugins de julgados (`julgados-pas`, `julgados-tc-crsfn`, `julgados-colegiado-2002-2008`, `julgados-colegiado-2009-2015` e `julgados-colegiado-2016-2026`) saíram do marketplace. Remova-os; o plugin `normas` já cobre os julgados.
+
+- **claude.ai:** em Personalizar → Plugins, remova cada um. Atualize o marketplace `normas-mercado-capitais` e confira se `normas` está na versão 2.0.0.
+- **Claude Code:** `/plugin uninstall julgados-pas@normas-mercado-capitais`, e o mesmo para os outros quatro. Depois atualize o marketplace e o plugin `normas`.
+
+## Estrutura do repositório
+
+```
+.claude-plugin/marketplace.json
+plugins/normas/
+  .claude-plugin/plugin.json
+  skills/consultar-normas/
+    SKILL.md
+    normas/                    as normas na íntegra: indice.md, indices/, mapas/,
+                               cvm/, cmn/, bcb/, leis/, autorregulacao/
+    julgados/
+      indice.md                perímetro, contagens e lista dos subíndices
+      indices/                 por norma citada, tema, processo, tipo e ano
+      fichas/<grupo>/          uma ficha por julgado, em arquivos de até 24 KB
+julgados/                      texto integral dos julgados, fora do plugin
+scripts/  tests/  testes/  fontes/  docs/
+```
+
+O acervo vai dentro da pasta da skill porque algumas plataformas, como o claude.ai, só montam essa pasta: o que fica ao lado dela não chega ao Claude. Os textos integrais dos julgados ficam fora do plugin, na raiz do repositório, e o Claude os lê pelo GitHub quando precisa.
+
+## Ficha e texto integral
+
+Cada julgado tem uma **ficha** no plugin (`fichas/<grupo>/AAAA[-NN].md`, seção `## <id>`) com id, tipo, processo, data, relator, resultado, ementa, tema, dispositivos citados, um trecho da decisão (até 1.500 caracteres) e o link do **texto integral** no GitHub (`julgados/`, na raiz). O Claude acha o caso pelos índices, responde pela ficha e só busca o texto integral quando a pergunta pede o que a ficha não traz: o fundamento do voto, os fatos, a dosimetria.
+
+- **Claude Code:** o Claude abre o link com o WebFetch, depois do pedido de permissão do próprio Claude Code.
+- **claude.ai:** a busca de página só abre link que você colou na conversa ou que veio de uma busca. O Claude não consegue abrir o link lido na ficha. Ele responde pelo que a ficha permite afirmar e pede: "Para eu ler o texto integral, cole este link na conversa". Cole o link e ele completa a resposta.
+
+Os links dependem do caminho `julgados/` na branch `main`: ele é estável e está declarado no `SPEC.md`.
 
 ## Licenças, dados pessoais e retirada
 
@@ -177,7 +213,7 @@ Os plugins de julgados são independentes: instale só os períodos e tipos que 
 
 **Código: MIT** (`LICENSE-codigo`). Os scripts em `scripts/`.
 
-**Autorregulação (camada 5).** A pasta `plugins/normas/normas/autorregulacao/` não está sob nenhuma licença deste repositório: reproduz texto de titularidade da ANBIMA e da B3, para uso informativo e não comercial, e sai a pedido delas. O pedido segue o formulário abaixo; mais detalhes no README da pasta.
+**Autorregulação (camada 5).** A pasta `plugins/normas/skills/consultar-normas/normas/autorregulacao/` não está sob nenhuma licença deste repositório: reproduz texto de titularidade da ANBIMA e da B3, para uso informativo e não comercial, e sai a pedido delas. O pedido segue o formulário abaixo; mais detalhes no README da pasta.
 
 **Julgados.** São atos oficiais da CVM e do CRSFN, com o texto da fonte. O dado pessoal (CPF, RG, endereço, e-mail, telefone, data de nascimento, dados bancários, qualificação pessoal e nome de testemunha) é cortado e marcado `[dado pessoal retirado]`, pela política do `SPEC.md` (seção Julgados, subseção Corpo). Nome de parte, relator e demais agentes do processo ficam, nos termos do `SPEC.md`. O titular que queira a retirada de dado seu pede pelo formulário.
 

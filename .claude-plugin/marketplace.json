@@ -4,14 +4,14 @@
     "name": "dmarcheti"
   },
   "metadata": {
-    "description": "Normas do mercado de capitais brasileiro em Markdown, com histórico por ato alterador. Material não oficial."
+    "description": "Normas do mercado de capitais brasileiro em Markdown, com histórico por ato alterador, e julgados da CVM e do CRSFN. Material não oficial."
   },
   "plugins": [
     {
       "name": "normas",
       "source": "./plugins/normas",
-      "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo. Material não oficial.",
-      "version": "1.1.4"
+      "description": "Normas do mercado de capitais brasileiro em 5 camadas (CVM, interpretação da CVM, leis, CMN e BCB, ANBIMA e B3), com data-base, nível de verificação e consulta por artigo, e julgados da CVM e do CRSFN com fichas e link para o texto integral. Material não oficial.",
+      "version": "2.0.0"
     }
   ]
 }
