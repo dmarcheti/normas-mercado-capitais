@@ -101,7 +101,7 @@ Um julgado diz o que a CVM ou o CRSFN decidiu num caso, com os fatos daquele cas
    - `tema-<tema>.md`: por assunto (ex.: `tema-informacao-privilegiada.md`, `tema-securitizacao.md`);
    - `<tipo>-<ano>.md`: por tipo e ano (ex.: `pas-2024.md`);
    - `processo-AAAA.md`: por número de processo, com o PAS, o termo de compromisso e o acórdão do CRSFN do mesmo processo;
-   - `decisao-antiga-AAAA.md` (ou `-s1`/`-s2`, `-t1` a `-t4`, no ano grande): uma linha por decisão de 1978 a 2001, com data e número da ata, processo e título.
+   - `decisao-antiga-AAAA.md` (ou `-s1` e `-s2`, nos anos grandes): uma linha por decisão de 1978 a 2001, com a data da ata, o processo e a ficha; o título da pauta está na ficha.
 3. Na linha do índice, leia a coluna Ficha. Ela traz o caminho relativo a `julgados/` (ex.: `fichas/pas/2023-08.md`). O arquivo tem várias fichas; a do julgado é a seção `## <id>`, com o `Id` da linha. O arquivo de ficha tem até 24 KB: uma leitura basta.
 4. Pergunta de listagem ("quais julgados aplicaram o art. X") se responde pelo índice: cite id, processo, data e resultado de cada linha.
 
@@ -127,6 +127,6 @@ Nunca responda de memória o que só o texto integral diria. Quando responder s�
 - Fato anterior a 2023: a Resolução CVM vigente hoje (175, 160, 80...) não é a norma aplicada. Use a Instrução revogada da época (índice por norma, "fora do acervo") e diga qual regime o julgado aplicou.
 - Achou um PAS: procure o termo de compromisso e o acórdão do CRSFN do mesmo processo no `processo-AAAA.md` (o ano é o do número do processo) antes de dizer como o caso terminou.
 - FIDC, FII e demais fundos: comece por `julgados/indices/tema-fundos-investimento.md` e pelas normas de fundos do índice por norma, em vez de varrer o ano.
-- Pergunta sem data ou sobre fato anterior a 2002: veja também `julgados/indices/decisao-antiga-AAAA.md`. As decisões de 1978 a 2001 não têm ementa nem tema, só o título da pauta.
+- Pergunta sem data ou sobre fato anterior a 2002: veja também `julgados/indices/decisao-antiga-AAAA.md`. Nas fichas de 1978 a 2001, a `ementa` é o título da pauta (nome de pessoa física trocado por "[pessoa física]") e não há tema.
 - Dados pessoais: CPF, documento, endereço e dados bancários foram retirados (`[dado pessoal retirado]`). Não monte perfil, lista ou histórico de pessoa física a partir dos julgados; responda sobre a conduta, a tese e a decisão.
 - Se o julgado não está no acervo, diga isso. Não cite processo, data ou resultado que não abriu. A ausência no índice não prova que o julgado não exista.
